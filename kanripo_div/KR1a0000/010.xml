@@ -1,150 +1,150 @@
 <div id="txtcont" class="span9" style="position: relative;">
-    <p><br/>
-<span class='tline' id='l7' data-llen='155:181'><a onclick="displayPageImage('KR1a0002', 'WYG', '010-1a' );" name="010-1a" class="pb">[010-1a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l8' data-llen='181:189'>欽定四庫全書</span><br/>
-<span class='tline' id='l9' data-llen='189:198'>　子夏易傳卷十</span><br/>
-<span class='tline' id='l10' data-llen='198:204'>　　周易</span><br/>
-<span class='tline' id='l11' data-llen='204:214'>　　　序卦傳第十</span><br/>
-<span class='tline' id='l12' data-llen='214:237'>有天地然後萬物生焉盈天地之間者唯萬物故受之</span><br/>
-<span class='tline' id='l13' data-llen='237:260'>以屯屯者盈也屯者物之始生也物生必蒙故受之以</span><br/>
-<span class='tline' id='l14' data-llen='260:283'>蒙蒙者蒙也物之稺也物稺不可不養也故受之以需</span><br/>
-<span class='tline' id='l15' data-llen='283:306'>需者飲食之道也飲食必有訟故受之以訟訟必有衆</span><br/>
-<span class='tline' id='l16' data-llen='306:332'><a onclick="displayPageImage('KR1a0002', 'WYG', '010-1b' );" name="010-1b" class="pb">[010-1b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l17' data-llen='332:355'>起故受之以師師者衆也衆必有所比故受之以比比</span><br/>
-<span class='tline' id='l18' data-llen='355:378'>者比也比必有所畜故受之以小畜物畜然後有禮故</span><br/>
-<span class='tline' id='l19' data-llen='378:401'>受之以履履而泰然後安故受之以泰泰者通也物不</span><br/>
-<span class='tline' id='l20' data-llen='401:424'>可以終通故受之以否物不可以終否故受之以同人</span><br/>
-<span class='tline' id='l21' data-llen='424:447'>與人同者物必歸焉故受之以大有有大者不可以盈</span><br/>
-<span class='tline' id='l22' data-llen='447:470'>故受之以謙有大而䏻謙必豫故受之以豫豫必有隨</span><br/>
-<span class='tline' id='l23' data-llen='470:493'>故受之以隨以喜隨人者必有事故受之以蠱蠱者事</span><br/>
-<span class='tline' id='l24' data-llen='493:516'>也有事而後可大故受之以臨臨者大也物大然後可</span><br/>
-<span class='tline' id='l25' data-llen='516:542'><a onclick="displayPageImage('KR1a0002', 'WYG', '010-2a' );" name="010-2a" class="pb">[010-2a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l26' data-llen='542:565'>觀故受之以觀可觀而後有所合故受之以噬嗑嗑者</span><br/>
-<span class='tline' id='l27' data-llen='565:588'>合也物不可以茍合而已故受之以賁賁者飾也致飾</span><br/>
-<span class='tline' id='l28' data-llen='588:611'>然後亨則盡矣故受之以剥剥者剥也物不可以終盡</span><br/>
-<span class='tline' id='l29' data-llen='611:634'>剥窮上反下故受之以復復則不妄矣故受之以无妄</span><br/>
-<span class='tline' id='l30' data-llen='634:657'>有无妄然後可畜故受之以大畜物畜然後可養故受</span><br/>
-<span class='tline' id='l31' data-llen='657:680'>之以頤頤者養也不養則不可動故受之以大過物不</span><br/>
-<span class='tline' id='l32' data-llen='680:703'>可以終過故受之以坎坎者陷也陷必有所麗故受之</span><br/>
-<span class='tline' id='l33' data-llen='703:711'>以離離者麗也</span><br/>
-<span class='tline' id='l34' data-llen='711:737'><a onclick="displayPageImage('KR1a0002', 'WYG', '010-2b' );" name="010-2b" class="pb">[010-2b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l35' data-llen='737:760'>　有天地而後萬物生焉物生則屯矣有形之始也故</span><br/>
-<span class='tline' id='l36' data-llen='760:783'>　受之以屯物之始生難立者也經其屯而後遂得其</span><br/>
-<span class='tline' id='l37' data-llen='783:806'>　盈也物稺而未知也故受之以蒙蒙稺也不可以不</span><br/>
-<span class='tline' id='l38' data-llen='806:829'>　養故受之以需稺而不為待其資也莫過飲食待而</span><br/>
-<span class='tline' id='l39' data-llen='829:852'>　得其潤飲食之道也飲食者人之資必有爭故受之</span><br/>
-<span class='tline' id='l40' data-llen='852:875'>　以訟訟必有黨故衆起故受之以師師衆也師終衆</span><br/>
-<span class='tline' id='l41' data-llen='875:898'>　服民知其比也故受之以比比者衆輔而同也附而</span><br/>
-<span class='tline' id='l42' data-llen='898:921'>　同之未及其豐也故受之以小畜畜衆則有治也修</span><br/>
-<span class='tline' id='l43' data-llen='921:947'><a onclick="displayPageImage('KR1a0002', 'WYG', '010-3a' );" name="010-3a" class="pb">[010-3a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l44' data-llen='947:970'>　禮以整之故受之以履得其履者泰然而安故受之</span><br/>
-<span class='tline' id='l45' data-llen='970:993'>　以泰泰通也物不可以終通故受之以否否者道之</span><br/>
-<span class='tline' id='l46' data-llen='993:1016'>　塞也道不可以終塞必為上之知之將同而進之以</span><br/>
-<span class='tline' id='l47' data-llen='1016:1039'>　同人與人同者得其治焉物必歸焉故受之以大有</span><br/>
-<span class='tline' id='l48' data-llen='1039:1062'>　大有不可以盈故受之以謙有其大而䏻謙必豫故</span><br/>
-<span class='tline' id='l49' data-llen='1062:1085'>　受之以豫豫樂而過其流矣動說而相隨故受之以</span><br/>
-<span class='tline' id='l50' data-llen='1085:1108'>　隨喜而相隨不守其務則墮矣將必有事也故受之</span><br/>
-<span class='tline' id='l51' data-llen='1108:1131'>　以蠱蠱事也制作治事然後可大故受之以臨臨剛</span><br/>
-<span class='tline' id='l52' data-llen='1131:1157'><a onclick="displayPageImage('KR1a0002', 'WYG', '010-3b' );" name="010-3b" class="pb">[010-3b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l53' data-llen='1157:1180'>　長而大而臨制也相臨之道觀乎上之風也在於尊</span><br/>
-<span class='tline' id='l54' data-llen='1180:1203'>　上立敬也莫大於神道設教而天下可觀治之大者</span><br/>
-<span class='tline' id='l55' data-llen='1203:1226'>　也故受之以觀雖設教之可觀必齊之而後合故受</span><br/>
-<span class='tline' id='l56' data-llen='1226:1249'>　之以噬嗑噬嗑合也道之以德齊之以禮齊之以刑</span><br/>
-<span class='tline' id='l57' data-llen='1249:1272'>　雖合而巳未之至也故制之大小序之等終分之外</span><br/>
-<span class='tline' id='l58' data-llen='1272:1295'>　内别之同異文物以采之聲明以揚之煥然而有其</span><br/>
-<span class='tline' id='l59' data-llen='1295:1318'>　文而後盡其治也故受之以賁賁之未存其文失其</span><br/>
-<span class='tline' id='l60' data-llen='1318:1341'>　本也則道之消矣故受之以剥剥者消喪其道也物</span><br/>
-<span class='tline' id='l61' data-llen='1341:1367'><a onclick="displayPageImage('KR1a0002', 'WYG', '010-4a' );" name="010-4a" class="pb">[010-4a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l62' data-llen='1367:1390'>　不可以盡剥道終而反生也故受之以復復剛長也</span><br/>
-<span class='tline' id='l63' data-llen='1390:1413'>　君子之道生也復則无妄矣故受之以无妄剛長而</span><br/>
-<span class='tline' id='l64' data-llen='1413:1436'>　无妄䏻畜其大也故受之以大畜物旣畜矣然後可</span><br/>
-<span class='tline' id='l65' data-llen='1436:1459'>　養故受之以頤自養之賢所以安身而及民也養之</span><br/>
-<span class='tline' id='l66' data-llen='1459:1482'>　而後動乃䏻過為治也故受之以大過過動而不由</span><br/>
-<span class='tline' id='l67' data-llen='1482:1505'>　其制必輕其小也物無輕也雖小䏻陷故受之以坎</span><br/>
-<span class='tline' id='l68' data-llen='1505:1528'>　坎陷也懼其亡而修之然後安其所麗故受之以離</span><br/>
-<span class='tline' id='l69' data-llen='1528:1532'>　也</span><br/>
-<span class='tline' id='l70' data-llen='1532:1558'><a onclick="displayPageImage('KR1a0002', 'WYG', '010-4b' );" name="010-4b" class="pb">[010-4b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l71' data-llen='1558:1581'>有天地然後有萬物有萬物然後有男女有男女然後</span><br/>
-<span class='tline' id='l72' data-llen='1581:1604'>有夫婦有夫婦然後有父子有父子然後有君臣有君</span><br/>
-<span class='tline' id='l73' data-llen='1604:1627'>臣然後有上下有上下然後禮義有所錯夫婦之道不</span><br/>
-<span class='tline' id='l74' data-llen='1627:1650'>可以不久也故受之以恒恒者久也物不可以久居其</span><br/>
-<span class='tline' id='l75' data-llen='1650:1673'>所故受之以遯遯者退也物不可以終遯故受之以大</span><br/>
-<span class='tline' id='l76' data-llen='1673:1696'>壯物不可以終壯故受之以晉晉者進也進必有所傷</span><br/>
-<span class='tline' id='l77' data-llen='1696:1719'>故受之以明夷夷者傷也傷於外者必反其家故受之</span><br/>
-<span class='tline' id='l78' data-llen='1719:1742'>以家人家道窮必乖故受之以睽睽者乖也乖必有難</span><br/>
-<span class='tline' id='l79' data-llen='1742:1768'><a onclick="displayPageImage('KR1a0002', 'WYG', '010-5a' );" name="010-5a" class="pb">[010-5a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l80' data-llen='1768:1791'>故受之以蹇蹇者難也物不可以終難故受之以解解</span><br/>
-<span class='tline' id='l81' data-llen='1791:1814'>者緩也緩必有所失故受之以損損而不已必益故受</span><br/>
-<span class='tline' id='l82' data-llen='1814:1837'>之以益益而不巳必決故受之以夬夬者決也決必有</span><br/>
-<span class='tline' id='l83' data-llen='1837:1860'>所遇故受之以姤姤者遇也物相遇而後聚故受之以</span><br/>
-<span class='tline' id='l84' data-llen='1860:1883'>萃萃者聚也聚而上者謂之升故受之以升升而不巳</span><br/>
-<span class='tline' id='l85' data-llen='1883:1906'>必困故受之以困困乎上者必反下故受之以井井道</span><br/>
-<span class='tline' id='l86' data-llen='1906:1929'>不可不革故受之以革革物者莫若鼎故受之以鼎主</span><br/>
-<span class='tline' id='l87' data-llen='1929:1952'>器者莫若長子故受之以震震者動也物不可以終動</span><br/>
-<span class='tline' id='l88' data-llen='1952:1978'><a onclick="displayPageImage('KR1a0002', 'WYG', '010-5b' );" name="010-5b" class="pb">[010-5b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l89' data-llen='1978:2001'>止之故受之以艮艮者止也物不可以終止故受之以</span><br/>
-<span class='tline' id='l90' data-llen='2001:2024'>漸漸者進也進必有所歸故受之以歸妹得其所歸者</span><br/>
-<span class='tline' id='l91' data-llen='2024:2047'>必大故受之以豐豐者大也窮大者必失其居故受之</span><br/>
-<span class='tline' id='l92' data-llen='2047:2070'>以旅旅而无所容故受之以巽巽者入也入而後說之</span><br/>
-<span class='tline' id='l93' data-llen='2070:2093'>故受之以兊兊者說也說而後散之故受之以渙渙者</span><br/>
-<span class='tline' id='l94' data-llen='2093:2116'>離也物不可以終離故受之以節節而信之故受之以</span><br/>
-<span class='tline' id='l95' data-llen='2116:2139'>中孚有其信者必行之故受之以小過有過物者必濟</span><br/>
-<span class='tline' id='l96' data-llen='2139:2160'>故受之以旣濟物不可窮也故受之以未濟終焉</span><br/>
-<span class='tline' id='l97' data-llen='2160:2186'><a onclick="displayPageImage('KR1a0002', 'WYG', '010-6a' );" name="010-6a" class="pb">[010-6a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l98' data-llen='2186:2209'>　乾坤降升萬物化形今古而無差者天地之道也男</span><br/>
-<span class='tline' id='l99' data-llen='2209:2232'>　女感應夫婦敵配而父子君臣之所自者聖人之治</span><br/>
-<span class='tline' id='l100' data-llen='2232:2255'>　也政德禮義交錯乎其内後聖人美其配天之功也</span><br/>
-<span class='tline' id='l101' data-llen='2255:2278'>　故序之以咸男下女以感也正而久之乃成也故受</span><br/>
-<span class='tline' id='l102' data-llen='2278:2301'>　之以恒恒久也夫婦之意盡於久矣施久於物物無</span><br/>
-<span class='tline' id='l103' data-llen='2301:2324'>　久也雖剛遯矣故受之以遯物不可終遯故受之以</span><br/>
-<span class='tline' id='l104' data-llen='2324:2347'>　大壯物不可終壯復有進之故受之以晉晉柔進而</span><br/>
-<span class='tline' id='l105' data-llen='2347:2370'>　上行也晉必有所傷故受之以明夷夷傷也傷於外</span><br/>
-<span class='tline' id='l106' data-llen='2370:2396'><a onclick="displayPageImage('KR1a0002', 'WYG', '010-6b' );" name="010-6b" class="pb">[010-6b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l107' data-llen='2396:2419'>　者必反於家故受之以家人士處家則道窮而莫偶</span><br/>
-<span class='tline' id='l108' data-llen='2419:2442'>　將求外合則睽而出矣故受之以睽睽乖也乖而未</span><br/>
-<span class='tline' id='l109' data-llen='2442:2465'>　合則有難也故受之以蹇蹇者難也物不可終難故</span><br/>
-<span class='tline' id='l110' data-llen='2465:2488'>　受之以解解緩也緩有所失故受之以損損己以奉</span><br/>
-<span class='tline' id='l111' data-llen='2488:2511'>　上終受其益故受之以益益而不巳不知其止也則</span><br/>
-<span class='tline' id='l112' data-llen='2511:2534'>　受其決決治也故受之以夬夬決也而後治不敢逸</span><br/>
-<span class='tline' id='l113' data-llen='2534:2557'>　也乃其遇故受之以姤姤遇也物相遇而後聚故受</span><br/>
-<span class='tline' id='l114' data-llen='2557:2580'>　之以萃萃聚也聚上而盛謂之昇故受之以升升而</span><br/>
-<span class='tline' id='l115' data-llen='2580:2606'><a onclick="displayPageImage('KR1a0002', 'WYG', '010-7a' );" name="010-7a" class="pb">[010-7a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l116' data-llen='2606:2629'>　不巳必困故受之以困困於上必反於下道窮而自</span><br/>
-<span class='tline' id='l117' data-llen='2629:2652'>　修也故受之以井井者治之使深也德者知而日新</span><br/>
-<span class='tline' id='l118' data-llen='2652:2675'>　也故不可以不革故受之以革革物而盛新者莫如</span><br/>
-<span class='tline' id='l119' data-llen='2675:2698'>　於鼎故受之以鼎主器者莫如長子故受之以震長</span><br/>
-<span class='tline' id='l120' data-llen='2698:2721'>　子主器而巳其在於物不可終也故受之以艮艮止</span><br/>
-<span class='tline' id='l121' data-llen='2721:2744'>　也物不可終止故受之以漸漸者進也而不速於進</span><br/>
-<span class='tline' id='l122' data-llen='2744:2767'>　也必有所歸故受之以歸妹得其歸者必大故受之</span><br/>
-<span class='tline' id='l123' data-llen='2767:2790'>　以豐豐大也志盈而蕩窮其大者也必失其居矣故</span><br/>
-<span class='tline' id='l124' data-llen='2790:2816'><a onclick="displayPageImage('KR1a0002', 'WYG', '010-7b' );" name="010-7b" class="pb">[010-7b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l125' data-llen='2816:2839'>　受之以旅旅而無所容故受之以巽巽入而和入於</span><br/>
-<span class='tline' id='l126' data-llen='2839:2862'>　人則說矣故受之以兊兊說也上下咸說而後散動</span><br/>
-<span class='tline' id='l127' data-llen='2862:2885'>　而自為治也故受之以渙渙離也散而治不拘其禁</span><br/>
-<span class='tline' id='l128' data-llen='2885:2908'>　也終則無節故受之以節節而施之中而制之信乃</span><br/>
-<span class='tline' id='l129' data-llen='2908:2931'>　行之故受之以中孚自中發信民必信之可過其物</span><br/>
-<span class='tline' id='l130' data-llen='2931:2954'>　而為治之故受之以小過信者為治之具而非備之</span><br/>
-<span class='tline' id='l131' data-llen='2954:2977'>　道信治而巳小過者也有過物之治必䏻濟也故受</span><br/>
-<span class='tline' id='l132' data-llen='2977:3000'>　之以旣濟旣濟不可極極而志盈斯窮之矣故受之</span><br/>
-<span class='tline' id='l133' data-llen='3000:3026'><a onclick="displayPageImage('KR1a0002', 'WYG', '010-8a' );" name="010-8a" class="pb">[010-8a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l134' data-llen='3026:3035'>　以未濟而終也</span><br/>
-<span class='tline' id='l135' data-llen='3035:3038'>　</span><br/>
-<span class='tline' id='l136' data-llen='3038:3041'>　</span><br/>
-<span class='tline' id='l137' data-llen='3041:3044'>　</span><br/>
-<span class='tline' id='l138' data-llen='3044:3047'>　</span><br/>
-<span class='tline' id='l139' data-llen='3047:3050'>　</span><br/>
-<span class='tline' id='l140' data-llen='3050:3053'>　</span><br/>
-<span class='tline' id='l141' data-llen='3053:3056'>　</span><br/>
-<span class='tline' id='l142' data-llen='3056:3082'><a onclick="displayPageImage('KR1a0002', 'WYG', '010-8b' );" name="010-8b" class="pb">[010-8b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l143' data-llen='3082:3085'>　</span><br/>
-<span class='tline' id='l144' data-llen='3085:3088'>　</span><br/>
-<span class='tline' id='l145' data-llen='3088:3091'>　</span><br/>
-<span class='tline' id='l146' data-llen='3091:3094'>　</span><br/>
-<span class='tline' id='l147' data-llen='3094:3097'>　</span><br/>
-<span class='tline' id='l148' data-llen='3097:3100'>　</span><br/>
-<span class='tline' id='l149' data-llen='3100:3103'>　</span><br/>
-<span class='tline' id='l150' data-llen='3103:3113'>　子夏易𫝊卷十</span><br/>
+    <p>
+<span class='tline' id='l7' data-llen='155:181'><a onclick="displayPageImage('KR1a0002', 'WYG', '010-1a' );" name="010-1a" class="pb">[010-1a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l8' data-llen='181:189'>欽定四庫全書</span>
+<span class='tline' id='l9' data-llen='189:198'>　子夏易傳卷十</span>
+<span class='tline' id='l10' data-llen='198:204'>　　周易</span>
+<span class='tline' id='l11' data-llen='204:214'>　　　序卦傳第十</span>
+<span class='tline' id='l12' data-llen='214:237'>有天地然後萬物生焉盈天地之間者唯萬物故受之</span>
+<span class='tline' id='l13' data-llen='237:260'>以屯屯者盈也屯者物之始生也物生必蒙故受之以</span>
+<span class='tline' id='l14' data-llen='260:283'>蒙蒙者蒙也物之稺也物稺不可不養也故受之以需</span>
+<span class='tline' id='l15' data-llen='283:306'>需者飲食之道也飲食必有訟故受之以訟訟必有衆</span>
+<span class='tline' id='l16' data-llen='306:332'><a onclick="displayPageImage('KR1a0002', 'WYG', '010-1b' );" name="010-1b" class="pb">[010-1b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l17' data-llen='332:355'>起故受之以師師者衆也衆必有所比故受之以比比</span>
+<span class='tline' id='l18' data-llen='355:378'>者比也比必有所畜故受之以小畜物畜然後有禮故</span>
+<span class='tline' id='l19' data-llen='378:401'>受之以履履而泰然後安故受之以泰泰者通也物不</span>
+<span class='tline' id='l20' data-llen='401:424'>可以終通故受之以否物不可以終否故受之以同人</span>
+<span class='tline' id='l21' data-llen='424:447'>與人同者物必歸焉故受之以大有有大者不可以盈</span>
+<span class='tline' id='l22' data-llen='447:470'>故受之以謙有大而䏻謙必豫故受之以豫豫必有隨</span>
+<span class='tline' id='l23' data-llen='470:493'>故受之以隨以喜隨人者必有事故受之以蠱蠱者事</span>
+<span class='tline' id='l24' data-llen='493:516'>也有事而後可大故受之以臨臨者大也物大然後可</span>
+<span class='tline' id='l25' data-llen='516:542'><a onclick="displayPageImage('KR1a0002', 'WYG', '010-2a' );" name="010-2a" class="pb">[010-2a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l26' data-llen='542:565'>觀故受之以觀可觀而後有所合故受之以噬嗑嗑者</span>
+<span class='tline' id='l27' data-llen='565:588'>合也物不可以茍合而已故受之以賁賁者飾也致飾</span>
+<span class='tline' id='l28' data-llen='588:611'>然後亨則盡矣故受之以剥剥者剥也物不可以終盡</span>
+<span class='tline' id='l29' data-llen='611:634'>剥窮上反下故受之以復復則不妄矣故受之以无妄</span>
+<span class='tline' id='l30' data-llen='634:657'>有无妄然後可畜故受之以大畜物畜然後可養故受</span>
+<span class='tline' id='l31' data-llen='657:680'>之以頤頤者養也不養則不可動故受之以大過物不</span>
+<span class='tline' id='l32' data-llen='680:703'>可以終過故受之以坎坎者陷也陷必有所麗故受之</span>
+<span class='tline' id='l33' data-llen='703:711'>以離離者麗也</span>
+<span class='tline' id='l34' data-llen='711:737'><a onclick="displayPageImage('KR1a0002', 'WYG', '010-2b' );" name="010-2b" class="pb">[010-2b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l35' data-llen='737:760'>　有天地而後萬物生焉物生則屯矣有形之始也故</span>
+<span class='tline' id='l36' data-llen='760:783'>　受之以屯物之始生難立者也經其屯而後遂得其</span>
+<span class='tline' id='l37' data-llen='783:806'>　盈也物稺而未知也故受之以蒙蒙稺也不可以不</span>
+<span class='tline' id='l38' data-llen='806:829'>　養故受之以需稺而不為待其資也莫過飲食待而</span>
+<span class='tline' id='l39' data-llen='829:852'>　得其潤飲食之道也飲食者人之資必有爭故受之</span>
+<span class='tline' id='l40' data-llen='852:875'>　以訟訟必有黨故衆起故受之以師師衆也師終衆</span>
+<span class='tline' id='l41' data-llen='875:898'>　服民知其比也故受之以比比者衆輔而同也附而</span>
+<span class='tline' id='l42' data-llen='898:921'>　同之未及其豐也故受之以小畜畜衆則有治也修</span>
+<span class='tline' id='l43' data-llen='921:947'><a onclick="displayPageImage('KR1a0002', 'WYG', '010-3a' );" name="010-3a" class="pb">[010-3a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l44' data-llen='947:970'>　禮以整之故受之以履得其履者泰然而安故受之</span>
+<span class='tline' id='l45' data-llen='970:993'>　以泰泰通也物不可以終通故受之以否否者道之</span>
+<span class='tline' id='l46' data-llen='993:1016'>　塞也道不可以終塞必為上之知之將同而進之以</span>
+<span class='tline' id='l47' data-llen='1016:1039'>　同人與人同者得其治焉物必歸焉故受之以大有</span>
+<span class='tline' id='l48' data-llen='1039:1062'>　大有不可以盈故受之以謙有其大而䏻謙必豫故</span>
+<span class='tline' id='l49' data-llen='1062:1085'>　受之以豫豫樂而過其流矣動說而相隨故受之以</span>
+<span class='tline' id='l50' data-llen='1085:1108'>　隨喜而相隨不守其務則墮矣將必有事也故受之</span>
+<span class='tline' id='l51' data-llen='1108:1131'>　以蠱蠱事也制作治事然後可大故受之以臨臨剛</span>
+<span class='tline' id='l52' data-llen='1131:1157'><a onclick="displayPageImage('KR1a0002', 'WYG', '010-3b' );" name="010-3b" class="pb">[010-3b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l53' data-llen='1157:1180'>　長而大而臨制也相臨之道觀乎上之風也在於尊</span>
+<span class='tline' id='l54' data-llen='1180:1203'>　上立敬也莫大於神道設教而天下可觀治之大者</span>
+<span class='tline' id='l55' data-llen='1203:1226'>　也故受之以觀雖設教之可觀必齊之而後合故受</span>
+<span class='tline' id='l56' data-llen='1226:1249'>　之以噬嗑噬嗑合也道之以德齊之以禮齊之以刑</span>
+<span class='tline' id='l57' data-llen='1249:1272'>　雖合而巳未之至也故制之大小序之等終分之外</span>
+<span class='tline' id='l58' data-llen='1272:1295'>　内别之同異文物以采之聲明以揚之煥然而有其</span>
+<span class='tline' id='l59' data-llen='1295:1318'>　文而後盡其治也故受之以賁賁之未存其文失其</span>
+<span class='tline' id='l60' data-llen='1318:1341'>　本也則道之消矣故受之以剥剥者消喪其道也物</span>
+<span class='tline' id='l61' data-llen='1341:1367'><a onclick="displayPageImage('KR1a0002', 'WYG', '010-4a' );" name="010-4a" class="pb">[010-4a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l62' data-llen='1367:1390'>　不可以盡剥道終而反生也故受之以復復剛長也</span>
+<span class='tline' id='l63' data-llen='1390:1413'>　君子之道生也復則无妄矣故受之以无妄剛長而</span>
+<span class='tline' id='l64' data-llen='1413:1436'>　无妄䏻畜其大也故受之以大畜物旣畜矣然後可</span>
+<span class='tline' id='l65' data-llen='1436:1459'>　養故受之以頤自養之賢所以安身而及民也養之</span>
+<span class='tline' id='l66' data-llen='1459:1482'>　而後動乃䏻過為治也故受之以大過過動而不由</span>
+<span class='tline' id='l67' data-llen='1482:1505'>　其制必輕其小也物無輕也雖小䏻陷故受之以坎</span>
+<span class='tline' id='l68' data-llen='1505:1528'>　坎陷也懼其亡而修之然後安其所麗故受之以離</span>
+<span class='tline' id='l69' data-llen='1528:1532'>　也</span>
+<span class='tline' id='l70' data-llen='1532:1558'><a onclick="displayPageImage('KR1a0002', 'WYG', '010-4b' );" name="010-4b" class="pb">[010-4b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l71' data-llen='1558:1581'>有天地然後有萬物有萬物然後有男女有男女然後</span>
+<span class='tline' id='l72' data-llen='1581:1604'>有夫婦有夫婦然後有父子有父子然後有君臣有君</span>
+<span class='tline' id='l73' data-llen='1604:1627'>臣然後有上下有上下然後禮義有所錯夫婦之道不</span>
+<span class='tline' id='l74' data-llen='1627:1650'>可以不久也故受之以恒恒者久也物不可以久居其</span>
+<span class='tline' id='l75' data-llen='1650:1673'>所故受之以遯遯者退也物不可以終遯故受之以大</span>
+<span class='tline' id='l76' data-llen='1673:1696'>壯物不可以終壯故受之以晉晉者進也進必有所傷</span>
+<span class='tline' id='l77' data-llen='1696:1719'>故受之以明夷夷者傷也傷於外者必反其家故受之</span>
+<span class='tline' id='l78' data-llen='1719:1742'>以家人家道窮必乖故受之以睽睽者乖也乖必有難</span>
+<span class='tline' id='l79' data-llen='1742:1768'><a onclick="displayPageImage('KR1a0002', 'WYG', '010-5a' );" name="010-5a" class="pb">[010-5a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l80' data-llen='1768:1791'>故受之以蹇蹇者難也物不可以終難故受之以解解</span>
+<span class='tline' id='l81' data-llen='1791:1814'>者緩也緩必有所失故受之以損損而不已必益故受</span>
+<span class='tline' id='l82' data-llen='1814:1837'>之以益益而不巳必決故受之以夬夬者決也決必有</span>
+<span class='tline' id='l83' data-llen='1837:1860'>所遇故受之以姤姤者遇也物相遇而後聚故受之以</span>
+<span class='tline' id='l84' data-llen='1860:1883'>萃萃者聚也聚而上者謂之升故受之以升升而不巳</span>
+<span class='tline' id='l85' data-llen='1883:1906'>必困故受之以困困乎上者必反下故受之以井井道</span>
+<span class='tline' id='l86' data-llen='1906:1929'>不可不革故受之以革革物者莫若鼎故受之以鼎主</span>
+<span class='tline' id='l87' data-llen='1929:1952'>器者莫若長子故受之以震震者動也物不可以終動</span>
+<span class='tline' id='l88' data-llen='1952:1978'><a onclick="displayPageImage('KR1a0002', 'WYG', '010-5b' );" name="010-5b" class="pb">[010-5b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l89' data-llen='1978:2001'>止之故受之以艮艮者止也物不可以終止故受之以</span>
+<span class='tline' id='l90' data-llen='2001:2024'>漸漸者進也進必有所歸故受之以歸妹得其所歸者</span>
+<span class='tline' id='l91' data-llen='2024:2047'>必大故受之以豐豐者大也窮大者必失其居故受之</span>
+<span class='tline' id='l92' data-llen='2047:2070'>以旅旅而无所容故受之以巽巽者入也入而後說之</span>
+<span class='tline' id='l93' data-llen='2070:2093'>故受之以兊兊者說也說而後散之故受之以渙渙者</span>
+<span class='tline' id='l94' data-llen='2093:2116'>離也物不可以終離故受之以節節而信之故受之以</span>
+<span class='tline' id='l95' data-llen='2116:2139'>中孚有其信者必行之故受之以小過有過物者必濟</span>
+<span class='tline' id='l96' data-llen='2139:2160'>故受之以旣濟物不可窮也故受之以未濟終焉</span>
+<span class='tline' id='l97' data-llen='2160:2186'><a onclick="displayPageImage('KR1a0002', 'WYG', '010-6a' );" name="010-6a" class="pb">[010-6a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l98' data-llen='2186:2209'>　乾坤降升萬物化形今古而無差者天地之道也男</span>
+<span class='tline' id='l99' data-llen='2209:2232'>　女感應夫婦敵配而父子君臣之所自者聖人之治</span>
+<span class='tline' id='l100' data-llen='2232:2255'>　也政德禮義交錯乎其内後聖人美其配天之功也</span>
+<span class='tline' id='l101' data-llen='2255:2278'>　故序之以咸男下女以感也正而久之乃成也故受</span>
+<span class='tline' id='l102' data-llen='2278:2301'>　之以恒恒久也夫婦之意盡於久矣施久於物物無</span>
+<span class='tline' id='l103' data-llen='2301:2324'>　久也雖剛遯矣故受之以遯物不可終遯故受之以</span>
+<span class='tline' id='l104' data-llen='2324:2347'>　大壯物不可終壯復有進之故受之以晉晉柔進而</span>
+<span class='tline' id='l105' data-llen='2347:2370'>　上行也晉必有所傷故受之以明夷夷傷也傷於外</span>
+<span class='tline' id='l106' data-llen='2370:2396'><a onclick="displayPageImage('KR1a0002', 'WYG', '010-6b' );" name="010-6b" class="pb">[010-6b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l107' data-llen='2396:2419'>　者必反於家故受之以家人士處家則道窮而莫偶</span>
+<span class='tline' id='l108' data-llen='2419:2442'>　將求外合則睽而出矣故受之以睽睽乖也乖而未</span>
+<span class='tline' id='l109' data-llen='2442:2465'>　合則有難也故受之以蹇蹇者難也物不可終難故</span>
+<span class='tline' id='l110' data-llen='2465:2488'>　受之以解解緩也緩有所失故受之以損損己以奉</span>
+<span class='tline' id='l111' data-llen='2488:2511'>　上終受其益故受之以益益而不巳不知其止也則</span>
+<span class='tline' id='l112' data-llen='2511:2534'>　受其決決治也故受之以夬夬決也而後治不敢逸</span>
+<span class='tline' id='l113' data-llen='2534:2557'>　也乃其遇故受之以姤姤遇也物相遇而後聚故受</span>
+<span class='tline' id='l114' data-llen='2557:2580'>　之以萃萃聚也聚上而盛謂之昇故受之以升升而</span>
+<span class='tline' id='l115' data-llen='2580:2606'><a onclick="displayPageImage('KR1a0002', 'WYG', '010-7a' );" name="010-7a" class="pb">[010-7a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l116' data-llen='2606:2629'>　不巳必困故受之以困困於上必反於下道窮而自</span>
+<span class='tline' id='l117' data-llen='2629:2652'>　修也故受之以井井者治之使深也德者知而日新</span>
+<span class='tline' id='l118' data-llen='2652:2675'>　也故不可以不革故受之以革革物而盛新者莫如</span>
+<span class='tline' id='l119' data-llen='2675:2698'>　於鼎故受之以鼎主器者莫如長子故受之以震長</span>
+<span class='tline' id='l120' data-llen='2698:2721'>　子主器而巳其在於物不可終也故受之以艮艮止</span>
+<span class='tline' id='l121' data-llen='2721:2744'>　也物不可終止故受之以漸漸者進也而不速於進</span>
+<span class='tline' id='l122' data-llen='2744:2767'>　也必有所歸故受之以歸妹得其歸者必大故受之</span>
+<span class='tline' id='l123' data-llen='2767:2790'>　以豐豐大也志盈而蕩窮其大者也必失其居矣故</span>
+<span class='tline' id='l124' data-llen='2790:2816'><a onclick="displayPageImage('KR1a0002', 'WYG', '010-7b' );" name="010-7b" class="pb">[010-7b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l125' data-llen='2816:2839'>　受之以旅旅而無所容故受之以巽巽入而和入於</span>
+<span class='tline' id='l126' data-llen='2839:2862'>　人則說矣故受之以兊兊說也上下咸說而後散動</span>
+<span class='tline' id='l127' data-llen='2862:2885'>　而自為治也故受之以渙渙離也散而治不拘其禁</span>
+<span class='tline' id='l128' data-llen='2885:2908'>　也終則無節故受之以節節而施之中而制之信乃</span>
+<span class='tline' id='l129' data-llen='2908:2931'>　行之故受之以中孚自中發信民必信之可過其物</span>
+<span class='tline' id='l130' data-llen='2931:2954'>　而為治之故受之以小過信者為治之具而非備之</span>
+<span class='tline' id='l131' data-llen='2954:2977'>　道信治而巳小過者也有過物之治必䏻濟也故受</span>
+<span class='tline' id='l132' data-llen='2977:3000'>　之以旣濟旣濟不可極極而志盈斯窮之矣故受之</span>
+<span class='tline' id='l133' data-llen='3000:3026'><a onclick="displayPageImage('KR1a0002', 'WYG', '010-8a' );" name="010-8a" class="pb">[010-8a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l134' data-llen='3026:3035'>　以未濟而終也</span>
+<span class='tline' id='l135' data-llen='3035:3038'>　</span>
+<span class='tline' id='l136' data-llen='3038:3041'>　</span>
+<span class='tline' id='l137' data-llen='3041:3044'>　</span>
+<span class='tline' id='l138' data-llen='3044:3047'>　</span>
+<span class='tline' id='l139' data-llen='3047:3050'>　</span>
+<span class='tline' id='l140' data-llen='3050:3053'>　</span>
+<span class='tline' id='l141' data-llen='3053:3056'>　</span>
+<span class='tline' id='l142' data-llen='3056:3082'><a onclick="displayPageImage('KR1a0002', 'WYG', '010-8b' );" name="010-8b" class="pb">[010-8b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l143' data-llen='3082:3085'>　</span>
+<span class='tline' id='l144' data-llen='3085:3088'>　</span>
+<span class='tline' id='l145' data-llen='3088:3091'>　</span>
+<span class='tline' id='l146' data-llen='3091:3094'>　</span>
+<span class='tline' id='l147' data-llen='3094:3097'>　</span>
+<span class='tline' id='l148' data-llen='3097:3100'>　</span>
+<span class='tline' id='l149' data-llen='3100:3103'>　</span>
+<span class='tline' id='l150' data-llen='3103:3113'>　子夏易𫝊卷十</span>
 </p>
-<p><br/>
+<p>
 </p>
   </div>

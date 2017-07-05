@@ -1,366 +1,366 @@
 <div id="txtcont" class="span9" style="position: relative;">
-    <p><br/>
-<span class='tline' id='l7' data-llen='155:181'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-1a' );" name="004-1a" class="pb">[004-1a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l8' data-llen='181:189'>欽定四庫全書</span><br/>
-<span class='tline' id='l9' data-llen='189:198'>　推易始末卷四</span><br/>
-<span class='tline' id='l10' data-llen='198:219'>　　　　　　　　　　翰林院檢討毛竒齡撰</span><br/>
-<span class='tline' id='l11' data-llen='219:257'>何氏乾坤主變圖<span class='krp-note'>何氏名楷閩人明儒經學之最有/聲者著周易訂詁此圖其所創也</span></span><br/>
-<span class='tline' id='l12' data-llen='257:280'>訂詁曰竊謂往來上下者實皆乾坤所為程正叔謂乾</span><br/>
-<span class='tline' id='l13' data-llen='280:303'>坤變而為六子八卦重而為六十四皆繇乾坤之變蘇</span><br/>
-<span class='tline' id='l14' data-llen='303:326'>子瞻亦謂易有剛柔往來上下相易之説學者沿是爭</span><br/>
-<span class='tline' id='l15' data-llen='326:349'>推其所從變此大惑也剛柔相易皆本諸乾坤而已愚</span><br/>
-<span class='tline' id='l16' data-llen='349:375'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-1b' );" name="004-1b" class="pb">[004-1b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l17' data-llen='375:398'>嘗感其言并有取于乾來化坤成三男坤來化乾成三</span><br/>
-<span class='tline' id='l18' data-llen='398:421'>女之説而廣推之因以合于乾坤主變之㫖覺從來穿</span><br/>
-<span class='tline' id='l19' data-llen='421:437'>鑿附㑹之喋喋皆可省也訂説如左</span><br/>
-<span class='tline' id='l20' data-llen='437:460'>　總由卦變卦綜綂繙之有甚合處即有不盡合處大</span><br/>
-<span class='tline' id='l21' data-llen='460:483'>　抵四陽四隂後則皆不盡合者也朱文公譏漢上卦</span><br/>
-<span class='tline' id='l22' data-llen='483:499'>　變于三爻外便覺難通正坐此耳</span><br/>
-<span class='tline' id='l23' data-llen='499:522'>　乾坤祗生三畫卦則三畫卦無出于六子者此即乾</span><br/>
-<span class='tline' id='l24' data-llen='522:545'>　坤生六子之法而暮四朝三者也非卦變也况其多</span><br/>
-<span class='tline' id='l25' data-llen='545:571'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-2a' );" name="004-2a" class="pb">[004-2a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l26' data-llen='571:577'>　不合也</span><br/>
-<span class='tline' id='l27' data-llen='577:585'>　　　　乾䷀</span><br/>
-<span class='tline' id='l28' data-llen='585:593'>　　　　坤䷁</span><br/>
-<span class='tline' id='l29' data-llen='593:615'>　　乾三畫下坤三畫上曰泰䷊故卦辭曰小往大</span><br/>
-<span class='tline' id='l30' data-llen='615:620'>　　來</span><br/>
-<span class='tline' id='l31' data-llen='620:642'>　　坤三畫下乾三畫上曰否䷋故卦辭曰大往小</span><br/>
-<span class='tline' id='l32' data-llen='642:647'>　　來</span><br/>
-<span class='tline' id='l33' data-llen='647:669'>　　乾上畫來坤上畫往曰咸䷞坤初畫來乾初畫</span><br/>
-<span class='tline' id='l34' data-llen='669:695'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-2b' );" name="004-2b" class="pb">[004-2b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l35' data-llen='695:717'>　　往曰恒䷟咸之彖曰柔上而剛下恒之彖曰剛</span><br/>
-<span class='tline' id='l36' data-llen='717:725'>　　上而柔下</span><br/>
-<span class='tline' id='l37' data-llen='725:747'>　　乾上畫來坤中畫往曰困䷮坤中畫來乾初畫</span><br/>
-<span class='tline' id='l38' data-llen='747:769'>　　往曰井䷯困之彖曰剛揜也謂上陽來為坎中</span><br/>
-<span class='tline' id='l39' data-llen='769:792'>　　之九二也井之彖曰巽乎水而上水謂初陽往為</span><br/>
-<span class='tline' id='l40' data-llen='792:802'>　　坎中之九五也</span><br/>
-<span class='tline' id='l41' data-llen='802:824'>　　乾上畫來坤初畫往曰隨䷐坤上畫來乾初畫</span><br/>
-<span class='tline' id='l42' data-llen='824:846'>　　往曰蠱䷑隨之彖曰剛來而下柔蠱之彖曰剛</span><br/>
-<span class='tline' id='l43' data-llen='846:872'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-3a' );" name="004-3a" class="pb">[004-3a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l44' data-llen='872:880'>　　上而柔下</span><br/>
-<span class='tline' id='l45' data-llen='880:902'>　　乾中畫來坤上畫往曰旅䷷坤初畫來乾中畫</span><br/>
-<span class='tline' id='l46' data-llen='902:924'>　　往曰豐䷶旅之彖曰柔得中而順乎剛豐之彖</span><br/>
-<span class='tline' id='l47' data-llen='924:932'>　　不用卦變</span><br/>
-<span class='tline' id='l48' data-llen='932:954'>　　乾中畫來坤中畫往曰未濟䷿坤中畫來乾中</span><br/>
-<span class='tline' id='l49' data-llen='954:976'>　　畫往曰既濟䷾未濟之彖曰柔得中也指六五</span><br/>
-<span class='tline' id='l50' data-llen='976:992'>　　既濟之彖曰柔得中也指六二</span><br/>
-<span class='tline' id='l51' data-llen='992:1014'>　　乾中畫來坤初畫往曰噬嗑䷔坤上畫來乾中</span><br/>
-<span class='tline' id='l52' data-llen='1014:1040'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-3b' );" name="004-3b" class="pb">[004-3b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l53' data-llen='1040:1062'>　　畫往曰賁䷕噬嗑之彖曰柔得中而上行賁之</span><br/>
-<span class='tline' id='l54' data-llen='1062:1079'>　　彖曰柔來而文剛分剛上而文柔</span><br/>
-<span class='tline' id='l55' data-llen='1079:1101'>　　乾初畫來坤上畫往曰漸䷴坤初畫來乾上畫</span><br/>
-<span class='tline' id='l56' data-llen='1101:1123'>　　往曰歸妹䷵漸之彖曰進得位往有功也歸妹</span><br/>
-<span class='tline' id='l57' data-llen='1123:1137'>　　之彖曰无攸利柔乗剛也</span><br/>
-<span class='tline' id='l58' data-llen='1137:1159'>　　乾初畫來坤中畫往曰渙䷺坤中畫來乾上畫</span><br/>
-<span class='tline' id='l59' data-llen='1159:1181'>　　往曰節䷻渙之彖曰剛來而不竆柔得位乎外</span><br/>
-<span class='tline' id='l60' data-llen='1181:1199'>　　而上同節之彖曰剛柔分而剛得中</span><br/>
-<span class='tline' id='l61' data-llen='1199:1225'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-4a' );" name="004-4a" class="pb">[004-4a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l62' data-llen='1225:1248'>　　　上同無解即剛柔分亦不見有分合蹤蹟立言</span><br/>
-<span class='tline' id='l63' data-llen='1248:1266'>　　　必有為豈無故而漫下此數字者</span><br/>
-<span class='tline' id='l64' data-llen='1266:1288'>　　乾初畫來坤初畫往曰益䷩坤上畫來乾上畫</span><br/>
-<span class='tline' id='l65' data-llen='1288:1310'>　　往曰損䷨損上益下曰益損下益上曰損皆以</span><br/>
-<span class='tline' id='l66' data-llen='1310:1317'>　　陽言之</span><br/>
-<span class='tline' id='l67' data-llen='1317:1340'>　　右三隂三陽之卦二十而皆有往來上下之義惟</span><br/>
-<span class='tline' id='l68' data-llen='1340:1363'>　　豐無之皆從乾坤往來者此外獨有四陽之卦三</span><br/>
-<span class='tline' id='l69' data-llen='1363:1384'>　　訟䷅之彖曰剛來而得中大畜䷙之彖曰剛</span><br/>
-<span class='tline' id='l70' data-llen='1384:1410'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-4b' );" name="004-4b" class="pb">[004-4b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l71' data-llen='1410:1432'>　　上而尚賢无妄䷘之彖曰剛自外來而為主於</span><br/>
-<span class='tline' id='l72' data-llen='1432:1443'>　　内皆從乾生者也</span><br/>
-<span class='tline' id='l73' data-llen='1443:1466'>　　　此則不盡合者矣四陽從乾生則必此卦外另</span><br/>
-<span class='tline' id='l74' data-llen='1466:1489'>　　　有一乾卦矣且此有四乾則生此者必六乾卦</span><br/>
-<span class='tline' id='l75' data-llen='1489:1512'>　　　矣六乾皆剛知此剛從何爻來六剛皆可來則</span><br/>
-<span class='tline' id='l76' data-llen='1512:1535'>　　　必不却二五矣何以曰來而得中且卦之有上</span><br/>
-<span class='tline' id='l77' data-llen='1535:1558'>　　　下有内外以兩體言也今混然六爻不辨兩體</span><br/>
-<span class='tline' id='l78' data-llen='1558:1581'>　　　縦有所來亦焉知其自内自外自下自上而彖</span><br/>
-<span class='tline' id='l79' data-llen='1581:1607'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-5a' );" name="004-5a" class="pb">[004-5a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l80' data-llen='1607:1630'>　　　傳鑿鑿然曰剛上曰自外來曰為主于内此非</span><br/>
-<span class='tline' id='l81' data-llen='1630:1640'>　　　可胡突應也</span><br/>
-<span class='tline' id='l82' data-llen='1640:1661'>　　四隂之卦二晉䷢之彖曰柔進而上行升䷭</span><br/>
-<span class='tline' id='l83' data-llen='1661:1685'>　　　之彖曰柔以時升皆從坤生者也自餘无取往來</span><br/>
-<span class='tline' id='l84' data-llen='1685:1694'>　　　之義者矣</span><br/>
-<span class='tline' id='l85' data-llen='1694:1714'>　　　　升進無解且何以曰上行曰時升也</span><br/>
-<span class='tline' id='l86' data-llen='1714:1732'>推易圖<span class='krp-note'>見仲氏易卷/首兹不再述</span></span><br/>
-<span class='tline' id='l87' data-llen='1732:1739'>推易折衷圖</span><br/>
-<span class='tline' id='l88' data-llen='1739:1765'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-5b' );" name="004-5b" class="pb">[004-5b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l89' data-llen='1765:1788'>此則予之折衷于諸儒者也推易之説雖發自仲氏而</span><br/>
-<span class='tline' id='l90' data-llen='1788:1811'>諸儒實先啓之西京以後六季以前必有早為是説者</span><br/>
-<span class='tline' id='l91' data-llen='1811:1834'>而漢學中衰遂致淪没兹從列代論變一綫相沿者稍</span><br/>
-<span class='tline' id='l92' data-llen='1834:1857'>叅訂之以求合于仲氏之㫖第學荒識淺諸所未備實</span><br/>
-<span class='tline' id='l93' data-llen='1857:1869'>賴後之多學者并論辨焉</span><br/>
-<span class='tline' id='l94' data-llen='1869:1883'>不易卦<span class='krp-note'>謂無所/移易也</span></span><br/>
-<span class='tline' id='l95' data-llen='1883:1905'>　乾䷀　通作變母惟仲氏謂乾坤生六十四卦此</span><br/>
-<span class='tline' id='l96' data-llen='1905:1928'>　　羲畫變易也若周易繫辭則乾坤不與諸卦相移</span><br/>
-<span class='tline' id='l97' data-llen='1928:1954'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-6a' );" name="004-6a" class="pb">[004-6a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l98' data-llen='1954:1977'>　　易乾鑿度所云不易卦是也况細繹經文並無通</span><br/>
-<span class='tline' id='l99' data-llen='1977:2000'>　　變蹤蹟耶　干寶謂乾坤從十辟卦來更顛倒無</span><br/>
-<span class='tline' id='l100' data-llen='2000:2005'>　　理</span><br/>
-<span class='tline' id='l101' data-llen='2005:2013'>　坤䷁　上同</span><br/>
-<span class='tline' id='l102' data-llen='2013:2034'>聚卦<span class='krp-note'>謂隂陽各聚于一/方為分移之主也</span></span><br/>
-<span class='tline' id='l103' data-llen='2034:2056'>　復䷗　通作變母推易同　變卦反對圖謂坤卦</span><br/>
-<span class='tline' id='l104' data-llen='2056:2075'>　　一陽下生則何卦不本乾坤失首従矣</span><br/>
-<span class='tline' id='l105' data-llen='2075:2097'>　剝䷖　朱文公圖六十四卦相生圖變卦反對圖</span><br/>
-<span class='tline' id='l106' data-llen='2097:2123'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-6b' );" name="004-6b" class="pb">[004-6b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l107' data-llen='2123:2146'>　　俱謂剝自復來惟十辟卦變分作變母與推易同</span><br/>
-<span class='tline' id='l108' data-llen='2146:2169'>　　　盧氏謂剝本乾卦此乾坤主變并反對圖説所</span><br/>
-<span class='tline' id='l109' data-llen='2169:2177'>　　始説見前</span><br/>
-<span class='tline' id='l110' data-llen='2177:2199'>　臨䷒　通作變母推易同　蜀才謂臨本坤卦觀</span><br/>
-<span class='tline' id='l111' data-llen='2199:2220'>　　本乾卦亦乾坤主變反對圖説所始説見前</span><br/>
-<span class='tline' id='l112' data-llen='2220:2242'>　觀䷓　十辟卦變觀臨分母與推易同若文公圖</span><br/>
-<span class='tline' id='l113' data-llen='2242:2265'>　　觀本臨臨亦本觀互為其根與六十四卦相生圖</span><br/>
-<span class='tline' id='l114' data-llen='2265:2277'>　　謂觀自臨來俱不合</span><br/>
-<span class='tline' id='l115' data-llen='2277:2303'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-7a' );" name="004-7a" class="pb">[004-7a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l116' data-llen='2303:2325'>　泰䷊　通作變母推易同　何氏訂詁謂乾三畫</span><br/>
-<span class='tline' id='l117' data-llen='2325:2348'>　　下坤三畫上曰泰坤三畫下乾三畫上曰否則是</span><br/>
-<span class='tline' id='l118' data-llen='2348:2371'>　　因重之法非卦變也卦變無三爻並移者此言往</span><br/>
-<span class='tline' id='l119' data-llen='2371:2394'>　　來謂本卦六爻自相來去未嘗有他卦相移易也</span><br/>
-<span class='tline' id='l120' data-llen='2394:2417'>　　以内外兩卦往來而妄認作他卦之變胡突甚矣</span><br/>
-<span class='tline' id='l121' data-llen='2417:2440'>　　若文公本義又改圖説以為泰本歸妹似以泰之</span><br/>
-<span class='tline' id='l122' data-llen='2440:2463'>　　九上有帝乙歸妹文也不知此歸妹以互體震兑</span><br/>
-<span class='tline' id='l123' data-llen='2463:2486'>　　及之長男幼女兩適相合故云豈有本其卦而即</span><br/>
-<span class='tline' id='l124' data-llen='2486:2512'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-7b' );" name="004-7b" class="pb">[004-7b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l125' data-llen='2512:2535'>　　引用其文者况兩卦推移皆在三四諦審泰否其</span><br/>
-<span class='tline' id='l126' data-llen='2535:2558'>　　于三四兩爻則全無歸妹漸蹤蹟是泰易歸妹非</span><br/>
-<span class='tline' id='l127' data-llen='2558:2581'>　　歸妹易泰也不然困井豐旅其為可移者何止此</span><br/>
-<span class='tline' id='l128' data-llen='2581:2604'>　　矣　蜀才謂泰本坤卦否本乾卦此乾坤主變與</span><br/>
-<span class='tline' id='l129' data-llen='2604:2617'>　　反對圖説所始説見前</span><br/>
-<span class='tline' id='l130' data-llen='2617:2625'>　否䷋　見上</span><br/>
-<span class='tline' id='l131' data-llen='2625:2647'>　遯䷠通作變母推易同　侯果謂遯本坤卦大壯</span><br/>
-<span class='tline' id='l132' data-llen='2647:2664'>　　本乾卦此乾坤反對所始説見前</span><br/>
-<span class='tline' id='l133' data-llen='2664:2690'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-8a' );" name="004-8a" class="pb">[004-8a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l134' data-llen='2690:2716'>　<span class='krp-note'>大/壯</span>䷡　十辟卦變遯大壯分母與推易同文公圖</span><br/>
-<span class='tline' id='l135' data-llen='2716:2739'>　　遯本大壯大壯亦本遯相生圖謂大壯自遯來俱</span><br/>
-<span class='tline' id='l136' data-llen='2739:2745'>　　不合</span><br/>
-<span class='tline' id='l137' data-llen='2745:2758'>　姤䷫　通作變母推易同</span><br/>
-<span class='tline' id='l138' data-llen='2758:2780'>　夬䷪　十辟卦變夬姤分母與推易同文公圖姤</span><br/>
-<span class='tline' id='l139' data-llen='2780:2803'>　　夬互母與相生圖夬自姤來俱不合若反對圖乾</span><br/>
-<span class='tline' id='l140' data-llen='2803:2823'>　　下生姤則又乾坤主變所始非是説見前</span><br/>
-<span class='tline' id='l141' data-llen='2823:2854'>半聚卦<span class='krp-note'>謂或陽聚或隂聚也本卦無所/來而分之有可往亦聚主矣</span></span><br/>
-<span class='tline' id='l142' data-llen='2854:2880'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-8b' );" name="004-8b" class="pb">[004-8b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l143' data-llen='2880:2906'>　<span class='krp-note'>中/孚</span>䷼　中孚本二隂間四陽之卦小過本二陽間</span><br/>
-<span class='tline' id='l144' data-llen='2906:2929'>　　四隂之卦既有所間非聚卦矣然而臨觀之二陽</span><br/>
-<span class='tline' id='l145' data-llen='2929:2952'>　　聚者不能移而為小過遯大壯之四陽聚者不能</span><br/>
-<span class='tline' id='l146' data-llen='2952:2975'>　　移而為中孚以推移之法祗以一爻作往來無兩</span><br/>
-<span class='tline' id='l147' data-llen='2975:2998'>　　爻往來之例臨觀兩陽在初上三五不能通移至</span><br/>
-<span class='tline' id='l148' data-llen='2998:3021'>　　三四遯大壯四陽俱在三四不能通移至初上二</span><br/>
-<span class='tline' id='l149' data-llen='3021:3045'>　　五則豈分卦可𨽻乎　虞仲翔謂中孚自訟來小</span><br/>
-<span class='tline' id='l150' data-llen='3045:3068'>　　過自晉來則凡四陽四隂者皆可來也　反對圖</span><br/>
-<span class='tline' id='l151' data-llen='3068:3094'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-9a' );" name="004-9a" class="pb">[004-9a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l152' data-llen='3094:3117'>　　謂二卦從乾坤所生則凡有隂陽奇偶者何一非</span><br/>
-<span class='tline' id='l153' data-llen='3117:3140'>　　其所生也　若六子卦變謂中孚從離易小過從</span><br/>
-<span class='tline' id='l154' data-llen='3140:3163'>　　坎易文公圖謂中孚従遯壯來小過從觀臨來相</span><br/>
-<span class='tline' id='l155' data-llen='3163:3186'>　　生圖謂中孚本遯卦小過本臨卦則皆須兩爻連</span><br/>
-<span class='tline' id='l156' data-llen='3186:3195'>　　易非變例矣</span><br/>
-<span class='tline' id='l157' data-llen='3195:3207'>　<span class='krp-note'>小/過</span>䷽　見上</span><br/>
-<span class='tline' id='l158' data-llen='3207:3250'>子母聚卦<span class='krp-note'>謂本卦為他卦所移為子然又可移之作他/卦為母曰子母聚如移否之上九為九三而</span></span><br/>
-<span class='tline' id='l159' data-llen='3250:3285'><span class='krp-note'>為咸是咸為否子然又可移咸之九五/為九二而為恒是咸又為恒母他卦同</span></span><br/>
-<span class='tline' id='l160' data-llen='3285:3311'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-9b' );" name="004-9b" class="pb">[004-9b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l161' data-llen='3311:3340'>　咸䷞<span class='krp-note'>否三上易/恒二五易</span>　通作自否來惟相生圖自泰與</span><br/>
-<span class='tline' id='l162' data-llen='3340:3363'>　　柔上剛下不合若文公圖本泰否而本義又謂自</span><br/>
-<span class='tline' id='l163' data-llen='3363:3386'>　　旅則變例亂矣近爻皆可移則何不可自漸困也</span><br/>
-<span class='tline' id='l164' data-llen='3386:3409'>　　至再推自恒則遍審諸卦爻辭厯厯可驗見仲氏</span><br/>
-<span class='tline' id='l165' data-llen='3409:3421'>　　易<span class='krp-note'>後卦/倣此</span></span><br/>
-<span class='tline' id='l166' data-llen='3421:3450'>　恒䷟<span class='krp-note'>泰初四易/咸二五易</span>　通作自泰來惟相生反對二圖</span><br/>
-<span class='tline' id='l167' data-llen='3450:3473'>　　俱作自否與剛上柔下不合若文公圖本泰否而</span><br/>
-<span class='tline' id='l168' data-llen='3473:3488'>　　本義又作自豐不合説見前</span><br/>
-<span class='tline' id='l169' data-llen='3488:3515'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-10a' );" name="004-10a" class="pb">[004-10a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l170' data-llen='3515:3536'>　損䷨<span class='krp-note'>泰三上易/益二五易</span>　通自泰來</span><br/>
-<span class='tline' id='l171' data-llen='3536:3565'>　益䷩<span class='krp-note'>否初四易/損二五易</span>　通自否來但二卦二五俱有益</span><br/>
-<span class='tline' id='l172' data-llen='3565:3585'>　　之十朋之龜語此損益二五相易之驗也</span><br/>
-<span class='tline' id='l173' data-llen='3585:3615'>　萃䷬<span class='krp-note'>觀四上易易/小過三五</span>　通作自觀若相生自臨反對始</span><br/>
-<span class='tline' id='l174' data-llen='3615:3637'>　　臨文公圖本觀臨則臨須兩爻連易非變例矣</span><br/>
-<span class='tline' id='l175' data-llen='3637:3666'>　升䷭<span class='krp-note'>臨初三易易/小過二四</span>　通自臨來然彖傳柔以時升</span><br/>
-<span class='tline' id='l176' data-llen='3666:3689'>　　若非小過則臨用剛升非柔升矣至爻辭九二利</span><br/>
-<span class='tline' id='l177' data-llen='3689:3712'>　　用禴而六四曰享于岐山正以升剛事人升柔祀</span><br/>
-<span class='tline' id='l178' data-llen='3712:3739'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-10b' );" name="004-10b" class="pb">[004-10b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l179' data-llen='3739:3762'>　　鬼小過本升柔耳又三為人位四為鬼位見鄭康</span><br/>
-<span class='tline' id='l180' data-llen='3762:3768'>　　成説</span><br/>
-<span class='tline' id='l181' data-llen='3768:3797'>　頥䷚<span class='krp-note'>觀初五易/臨二上易</span>　文公圖同侯果本觀虞翻本臨</span><br/>
-<span class='tline' id='l182' data-llen='3797:3820'>　　皆同但翻又云本晉不合餘通自臨來若朱升作</span><br/>
-<span class='tline' id='l183' data-llen='3820:3843'>　　㑹通亦云自觀而作六子變圖又曰自坎其無專</span><br/>
-<span class='tline' id='l184' data-llen='3843:3850'>　　見如此</span><br/>
-<span class='tline' id='l185' data-llen='3850:3883'>　<span class='krp-note'>大/過</span>䷛<span class='krp-note'>大壯初五易/遯二上易</span>　文公圖同餘通自遯來六子</span><br/>
-<span class='tline' id='l186' data-llen='3883:3893'>　　作自離説見前</span><br/>
-<span class='tline' id='l187' data-llen='3893:3920'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-11a' );" name="004-11a" class="pb">[004-11a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l188' data-llen='3920:3953'>　<span class='krp-note'>无/妄</span>䷘<span class='krp-note'>遯初三易易/中孚二四</span>　通作自遯朱本義又作自訟</span><br/>
-<span class='tline' id='l189' data-llen='3953:3962'>　　不合説見前</span><br/>
-<span class='tline' id='l190' data-llen='3962:3996'>　<span class='krp-note'>大/畜</span>䷙<span class='krp-note'>大壯四上易/中孚三五易</span>　通作自大壯本義又作自需</span><br/>
-<span class='tline' id='l191' data-llen='3996:4002'>　　見前</span><br/>
-<span class='tline' id='l192' data-llen='4002:4015'>分卦<span class='krp-note'>此則隂/陽分矣</span></span><br/>
-<span class='tline' id='l193' data-llen='4015:4044'>　<span class='krp-note'>凡一陽五隂之卦/皆自剝復而來</span>剝䷖復䷗<span class='krp-note'>二易/卦</span></span><br/>
-<span class='tline' id='l194' data-llen='4044:4073'>　師䷆<span class='krp-note'>剝上二易/復初二易</span>　蜀才云此本剝卦餘通作自復</span><br/>
-<span class='tline' id='l195' data-llen='4073:4078'>　　來</span><br/>
-<span class='tline' id='l196' data-llen='4078:4105'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-11b' );" name="004-11b" class="pb">[004-11b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l197' data-llen='4105:4134'>　謙䷎<span class='krp-note'>剝上三易/復初三易</span>　侯果本剝卦餘通自復第彖傳</span><br/>
-<span class='tline' id='l198' data-llen='4134:4157'>　　天道下濟地道上行則剝復均有之上五天道初</span><br/>
-<span class='tline' id='l199' data-llen='4157:4165'>　　二地道也</span><br/>
-<span class='tline' id='l200' data-llen='4165:4194'>　豫䷏<span class='krp-note'>剝上四易/復初四易</span>　通自復來惟十辟卦變以師謙</span><br/>
-<span class='tline' id='l201' data-llen='4194:4217'>　　陽在内從復豫比陽在外從剝則豫卦初爻曰鳴</span><br/>
-<span class='tline' id='l202' data-llen='4217:4240'>　　豫從復震來震為鳴上爻成有渝従剝艮來成言</span><br/>
-<span class='tline' id='l203' data-llen='4240:4263'>　　乎艮以一卦而兼剝復未嘗分内外也凡推易之</span><br/>
-<span class='tline' id='l204' data-llen='4263:4286'>　　法多以卦爻相體驗與卦變但合彖傳不同見仲</span><br/>
-<span class='tline' id='l205' data-llen='4286:4313'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-12a' );" name="004-12a" class="pb">[004-12a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l206' data-llen='4313:4319'>　　氏易</span><br/>
-<span class='tline' id='l207' data-llen='4319:4348'>　比䷇<span class='krp-note'>剝上五易/復初五易</span>　通自復惟十辟自剝第初爻盈</span><br/>
-<span class='tline' id='l208' data-llen='4348:4371'>　　缶當自復以復之下震有缶象上爻无首當自剝</span><br/>
-<span class='tline' id='l209' data-llen='4371:4384'>　　以剝之上剛有首象也</span><br/>
-<span class='tline' id='l210' data-llen='4384:4407'>　<span class='krp-note'>凡二陽四隂之卦/皆自臨觀而來</span>臨䷒觀䷓</span><br/>
-<span class='tline' id='l211' data-llen='4407:4433'>　　　又推　頥䷚<span class='krp-note'>小/過</span>䷽萃䷬升䷭<span class='krp-note'>四易/卦</span></span><br/>
-<span class='tline' id='l212' data-llen='4433:4475'>　屯䷂<span class='krp-note'>臨二五易/觀初上易</span>又<span class='krp-note'>萃初四易/頥五上易</span>　相生自臨<span class='krp-note'>凡二陽/卦俱同</span></span><br/>
-<span class='tline' id='l213' data-llen='4475:4504'>　　文公圖本臨觀<span class='krp-note'>凡二陽/卦俱同</span>與推易同第不識萃頥便</span><br/>
-<span class='tline' id='l214' data-llen='4504:4531'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-12b' );" name="004-12b" class="pb">[004-12b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l215' data-llen='4531:4554'>　　屬漏義蘇子瞻謂剛柔相易必子女相值之卦此</span><br/>
-<span class='tline' id='l216' data-llen='4554:4577'>　　或未然但隂陽對易則于此不能無奇偶匹配之</span><br/>
-<span class='tline' id='l217' data-llen='4577:4600'>　　意故屯凡三言婚媾三言乗馬無非以移易處見</span><br/>
-<span class='tline' id='l218' data-llen='4600:4623'>　　男女往來若止臨卦一易則上爻乗馬四爻婚媾</span><br/>
-<span class='tline' id='l219' data-llen='4623:4646'>　　何所著落此萃頥再推所為必不可已者至虞翻</span><br/>
-<span class='tline' id='l220' data-llen='4646:4669'>　　謂本坎六子謂本艮則但取新變全無把鼻于易</span><br/>
-<span class='tline' id='l221' data-llen='4669:4677'>　　義何與焉</span><br/>
-<span class='tline' id='l222' data-llen='4677:4713'>　蒙䷃<span class='krp-note'>臨初上易/觀二五易</span>又<span class='krp-note'>升三上易/頥初二易</span>　諸儒凡二陽卦多</span><br/>
-<span class='tline' id='l223' data-llen='4713:4740'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-13a' );" name="004-13a" class="pb">[004-13a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l224' data-llen='4740:4769'>　　謂自臨觀來與推易同<span class='krp-note'>已後七卦/不再述</span>第此必推升頥</span><br/>
-<span class='tline' id='l225' data-llen='4769:4792'>　　者本卦六三勿用取女以升之三剛與上柔應此</span><br/>
-<span class='tline' id='l226' data-llen='4792:4815'>　　我當取之女也今易之而彼剛此柔勿用取矣故</span><br/>
-<span class='tline' id='l227' data-llen='4815:4838'>　　云若又云見金夫則以三本兑中易為艮上兑為</span><br/>
-<span class='tline' id='l228' data-llen='4838:4861'>　　金女艮即金夫此非秋胡貽金可得亂入文口中</span><br/>
-<span class='tline' id='l229' data-llen='4861:4884'>　　者至若六五象傳曰順以巽也向非觀為巽坤升</span><br/>
-<span class='tline' id='l230' data-llen='4884:4907'>　　為坤巽則在蒙在臨並無坤順巽遜二義而象傳</span><br/>
-<span class='tline' id='l231' data-llen='4907:4930'>　　所及一如觀彖所云巽而順升彖所云順而巽者</span><br/>
-<span class='tline' id='l232' data-llen='4930:4957'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-13b' );" name="004-13b" class="pb">[004-13b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l233' data-llen='4957:4980'>　　此豈無端偶合者耶至虞氏本艮六子本震無理</span><br/>
-<span class='tline' id='l234' data-llen='4980:4986'>　　見前</span><br/>
-<span class='tline' id='l235' data-llen='4986:5022'>　坎䷜<span class='krp-note'>臨初五易/觀二上易</span>又<span class='krp-note'>升三五易/萃二四易</span>　通自臨觀但六三</span><br/>
-<span class='tline' id='l236' data-llen='5022:5044'>　　來之坎坎當從升五來若觀臨則焉能及三耶</span><br/>
-<span class='tline' id='l237' data-llen='5044:5080'>　晉䷢<span class='krp-note'>觀四五易易/小過三上</span>又<span class='krp-note'>萃五上易/頥初四易</span>　蜀才本觀若卦</span><br/>
-<span class='tline' id='l238' data-llen='5080:5103'>　　辭康侯則以頥有下震小過有上震震為侯故也</span><br/>
-<span class='tline' id='l239' data-llen='5103:5125'>　　設止觀卦一易則安有侯象脱辭義矣餘見前</span><br/>
-<span class='tline' id='l240' data-llen='5125:5165'>　<span class='krp-note'>明/夷</span>䷣<span class='krp-note'>臨二三易易/小過初四</span>又<span class='krp-note'>升初二易/頥三上易</span>　六二夷于左股</span><br/>
-<span class='tline' id='l241' data-llen='5165:5192'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-14a' );" name="004-14a" class="pb">[004-14a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l242' data-llen='5192:5215'>　　以升之下巽為股易則夷之九三得其大首以頥</span><br/>
-<span class='tline' id='l243' data-llen='5215:5232'>　　之上剛為首降而為三則得之也</span><br/>
-<span class='tline' id='l244' data-llen='5232:5268'>　蹇䷦<span class='krp-note'>觀三上易易/小過四五</span>又<span class='krp-note'>升二五易/萃三四易</span>　通作自觀與推</span><br/>
-<span class='tline' id='l245' data-llen='5268:5291'>　　易同第彖傳曰住得中也若觀上居三並非得中</span><br/>
-<span class='tline' id='l246' data-llen='5291:5314'>　　以外易内來而非往此文公本義所以舍觀臨而</span><br/>
-<span class='tline' id='l247' data-llen='5314:5337'>　　取小過也特漢後卦變從未及小過而文公及之</span><br/>
-<span class='tline' id='l248' data-llen='5337:5357'>　　真是卓識惜推易末開不能并及升萃耳</span><br/>
-<span class='tline' id='l249' data-llen='5357:5393'>　解䷧<span class='krp-note'>臨初四易易/小過二三</span>又<span class='krp-note'>升三四易/萃五二易</span>　通作自臨與推</span><br/>
-<span class='tline' id='l250' data-llen='5393:5420'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-14b' );" name="004-14b" class="pb">[004-14b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l251' data-llen='5420:5443'>　　易同但彖傳曰其來復吉乃得中也臨以初往易</span><br/>
-<span class='tline' id='l252' data-llen='5443:5466'>　　四非來非中惟小過與萃則一以三易二一以五</span><br/>
-<span class='tline' id='l253' data-llen='5466:5489'>　　易二皆來而得中其又自臨升者以卦辭有攸往</span><br/>
-<span class='tline' id='l254' data-llen='5489:5505'>　　云耳本義作自升甚善説見前</span><br/>
-<span class='tline' id='l255' data-llen='5505:5534'>　震䷲<span class='krp-note'>臨二四易易/小過初三</span>又<span class='krp-note'>萃五初易/頥上四易</span></span><br/>
-<span class='tline' id='l256' data-llen='5534:5563'>　艮䷳<span class='krp-note'>觀五三易易/小過四上</span>又<span class='krp-note'>升二上易/頥初三易</span></span><br/>
-<span class='tline' id='l257' data-llen='5563:5586'>　<span class='krp-note'>凡三陽三隂之卦/皆自泰否而來</span>泰䷊否䷋</span><br/>
-<span class='tline' id='l258' data-llen='5586:5608'>　　　又推　咸䷞恒䷟損䷨益䷩<span class='krp-note'>三易/卦</span></span><br/>
-<span class='tline' id='l259' data-llen='5608:5635'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-15a' );" name="004-15a" class="pb">[004-15a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l260' data-llen='5635:5669'>　隨䷐<span class='krp-note'>否初/上易</span>又<span class='krp-note'>咸初三易/益四上易</span>　通作自否而文公圖以</span><br/>
-<span class='tline' id='l261' data-llen='5669:5692'>　　否泰首尾通變與乾坤主變綂以否泰概三陽三</span><br/>
-<span class='tline' id='l262' data-llen='5692:5720'>　　隂變例俱有未合<span class='krp-note'>後十三/卦同</span>故本義又作自困自噬</span><br/>
-<span class='tline' id='l263' data-llen='5720:5743'>　　嗑自未濟與變圖異特不得領要按之易文仍齟</span><br/>
-<span class='tline' id='l264' data-llen='5743:5749'>　　齬耳</span><br/>
-<span class='tline' id='l265' data-llen='5749:5783'>　蠱䷑<span class='krp-note'>泰初/上易</span>又<span class='krp-note'>恒四上易/損初三易</span>　通作自泰即程頥不尚</span><br/>
-<span class='tline' id='l266' data-llen='5783:5806'>　　卦變亦云乾初之上坤上之初獨本義作自賁自</span><br/>
-<span class='tline' id='l267' data-llen='5806:5829'>　　井自既濟此與春秋傳秦伯伐晉三帥渡河并三</span><br/>
-<span class='tline' id='l268' data-llen='5829:5856'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-15b' );" name="004-15b" class="pb">[004-15b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l269' data-llen='5856:5886'>　　去三敗諸筮詞頗合但既濟二變<span class='krp-note'>初二一變/五上一變</span>卦雖</span><br/>
-<span class='tline' id='l270' data-llen='5886:5909'>　　三而變有四三帥三敗仍然不侔且筮詞曰涉河</span><br/>
-<span class='tline' id='l271' data-llen='5909:5932'>　　侯車敗凡爻隔一剛便成坎象踰剛相易故曰涉</span><br/>
-<span class='tline' id='l272' data-llen='5932:5955'>　　河今賁井既濟其所變未嘗隔剛爻也况侯之與</span><br/>
-<span class='tline' id='l273' data-llen='5955:5978'>　　車皆屬震象三卦無震何有侯車則非泰損渡河</span><br/>
-<span class='tline' id='l274' data-llen='5978:6001'>　　與恒震車敗不可矣推易之精無往不合此尤其</span><br/>
-<span class='tline' id='l275' data-llen='6001:6012'>　　顯然者詳仲氏易</span><br/>
-<span class='tline' id='l276' data-llen='6012:6050'>　<span class='krp-note'>噬/嗑</span>䷔<span class='krp-note'>否初/五易</span>又<span class='krp-note'>損二四易/益四五易</span>　通作自否獨本義作自</span><br/>
-<span class='tline' id='l277' data-llen='6050:6077'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-16a' );" name="004-16a" class="pb">[004-16a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l278' data-llen='6077:6100'>　　益最合但九四得金矢以一剛横坎中損益二五</span><br/>
-<span class='tline' id='l279' data-llen='6100:6123'>　　並與四易一若矢之駢集者故云且損下為兑益</span><br/>
-<span class='tline' id='l280' data-llen='6123:6146'>　　上為巽兑金巽木合為金矢若有益無損則取象</span><br/>
-<span class='tline' id='l281' data-llen='6146:6156'>　　未備何以解之</span><br/>
-<span class='tline' id='l282' data-llen='6156:6190'>　賁䷕<span class='krp-note'>泰二/上易</span>又<span class='krp-note'>損二三易/益三五易</span>　通自泰本義作自損最</span><br/>
-<span class='tline' id='l283' data-llen='6190:6204'>　　合但又云自既濟則不然</span><br/>
-<span class='tline' id='l284' data-llen='6204:6238'>　困䷮<span class='krp-note'>否二/上易</span>又<span class='krp-note'>咸二三易/恒三五易</span>　通自否若虞翻謂震為</span><br/>
-<span class='tline' id='l285' data-llen='6238:6261'>　　言折入兑故有言不信則惟恒卦有上震此即推</span><br/>
-<span class='tline' id='l286' data-llen='6261:6288'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-16b' );" name="004-16b" class="pb">[004-16b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l287' data-llen='6288:6297'>　　易之善變者</span><br/>
-<span class='tline' id='l288' data-llen='6297:6321'>　井䷯<span class='krp-note'>泰初/五易</span>又<span class='krp-note'>咸二四易/恒四五易</span></span><br/>
-<span class='tline' id='l289' data-llen='6321:6355'>　漸䷴<span class='krp-note'>否三/四易</span>又<span class='krp-note'>咸四上易/益初三易</span>　通自否本義作自渙自</span><br/>
-<span class='tline' id='l290' data-llen='6355:6378'>　　旅以彖傳有進得位剛得中語若否上移下則非</span><br/>
-<span class='tline' id='l291' data-llen='6378:6401'>　　進以四易三非得中也但二三無渙蹤蹟而四曰</span><br/>
-<span class='tline' id='l292' data-llen='6401:6415'>　　順巽非益四坤順不可矣</span><br/>
-<span class='tline' id='l293' data-llen='6415:6443'>　<span class='krp-note'>歸/妹</span>䷵<span class='krp-note'>泰三/四易</span>又<span class='krp-note'>損四上易/恒初三易</span></span><br/>
-<span class='tline' id='l294' data-llen='6443:6477'>　豐䷶<span class='krp-note'>泰二/四易</span>又<span class='krp-note'>咸初五易/恒初二易</span>　虞翻作自噬嗑來不合</span><br/>
-<span class='tline' id='l295' data-llen='6477:6504'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-17a' );" name="004-17a" class="pb">[004-17a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l296' data-llen='6504:6538'>　旅䷷<span class='krp-note'>否三/五易</span>又<span class='krp-note'>咸五上易/恒二上易</span>　虞翻作自賁此火山山</span><br/>
-<span class='tline' id='l297' data-llen='6538:6552'>　　火交易對例與移易何涉</span><br/>
-<span class='tline' id='l298' data-llen='6552:6586'>　渙䷺<span class='krp-note'>否二/四易</span>又<span class='krp-note'>益初二易/損初五易</span>　本義作自漸來駁見本</span><br/>
-<span class='tline' id='l299' data-llen='6586:6591'>　　卦</span><br/>
-<span class='tline' id='l300' data-llen='6591:6615'>　節䷻<span class='krp-note'>泰三/五易</span>又<span class='krp-note'>益二上易/損五上易</span></span><br/>
-<span class='tline' id='l301' data-llen='6615:6653'>　<span class='krp-note'>既/濟</span>䷾<span class='krp-note'>泰二/五易</span>又<span class='krp-note'>咸初四易/益三上易</span>　九三伐鬼方惟益三上</span><br/>
-<span class='tline' id='l302' data-llen='6653:6676'>　　易有坤有艮坤為方艮為鬼㝠門六四衣袽惟咸</span><br/>
-<span class='tline' id='l303' data-llen='6676:6694'>　　初四易一陽中虚有敝絮塞舟之象</span><br/>
-<span class='tline' id='l304' data-llen='6694:6721'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-17b' );" name="004-17b" class="pb">[004-17b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l305' data-llen='6721:6759'>　<span class='krp-note'>未/濟</span>䷿<span class='krp-note'>否二/五易</span>又<span class='krp-note'>損初四易/恒三上易</span>　推易無處不合如此卦</span><br/>
-<span class='tline' id='l306' data-llen='6759:6782'>　　皆作自否虞仲翔釋上九一爻亦從推易法以否</span><br/>
-<span class='tline' id='l307' data-llen='6782:6805'>　　卦解之上九有孚于飲酒濡其首以為乾為首乾</span><br/>
-<span class='tline' id='l308' data-llen='6805:6828'>　　五降二為坎中則乾首埋坎酒中矣故曰濡其首</span><br/>
-<span class='tline' id='l309' data-llen='6828:6851'>　　亦甚精確第不知上自恒易以恒三之乾易之在</span><br/>
-<span class='tline' id='l310' data-llen='6851:6874'>　　互坎之上則乾首坎酒即在上爻中得之若從否</span><br/>
-<span class='tline' id='l311' data-llen='6874:6897'>　　五降則宜作六五爻辭非上九辭也推易之精其</span><br/>
-<span class='tline' id='l312' data-llen='6897:6913'>　　絲毫不可爽又如此他可知矣</span><br/>
-<span class='tline' id='l313' data-llen='6913:6940'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-18a' );" name="004-18a" class="pb">[004-18a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l314' data-llen='6940:6968'>　<span class='krp-note'>凡四陽二隂之卦/皆自遯大壯而來</span>遯䷠<span class='krp-note'>大/壯</span>䷡</span><br/>
-<span class='tline' id='l315' data-llen='6968:7006'>　　　又推　<span class='krp-note'>中/孚</span>䷼<span class='krp-note'>大/過</span>䷛<span class='krp-note'>大/畜</span>䷙<span class='krp-note'>无/妄</span>䷘<span class='krp-note'>四易/卦</span></span><br/>
-<span class='tline' id='l316' data-llen='7006:7044'>　需䷄<span class='krp-note'>大壯四五易/中孚三上易</span>又<span class='krp-note'>大畜五上易/大過初四易</span>　相生皆自遯</span><br/>
-<span class='tline' id='l317' data-llen='7044:7067'>　　反對皆從乾下生二隂文公圖皆兩自遯大壯餘</span><br/>
-<span class='tline' id='l318' data-llen='7067:7085'>　　亦各有相同者<span class='krp-note'>後八卦/倣此</span></span><br/>
-<span class='tline' id='l319' data-llen='7085:7122'>　訟䷅<span class='krp-note'>遯二三易易/中孚初四</span>又<span class='krp-note'>无妄初二易/大過三上易</span>　六三食舊德</span><br/>
-<span class='tline' id='l320' data-llen='7122:7145'>　　猶是六爻排連何新何舊惟以三隂從大過之上</span><br/>
-<span class='tline' id='l321' data-llen='7145:7168'>　　兑來今反欲訟上是以我所自來之兑口而還以</span><br/>
-<span class='tline' id='l322' data-llen='7168:7195'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-18b' );" name="004-18b" class="pb">[004-18b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l323' data-llen='7195:7218'>　　訐之所來比之于我有舊德而今反噬没之也則</span><br/>
-<span class='tline' id='l324' data-llen='7218:7228'>　　大過所必推矣</span><br/>
-<span class='tline' id='l325' data-llen='7228:7259'>　離䷝<span class='krp-note'>遯初五易易/大壯二上</span>又<span class='krp-note'>无妄三五易/大畜二四易</span></span><br/>
-<span class='tline' id='l326' data-llen='7259:7294'>　<span class='krp-note'>家/人</span>䷤<span class='krp-note'>遯初四易易/中孚二三</span>又<span class='krp-note'>无妄三四易/大畜二五易</span></span><br/>
-<span class='tline' id='l327' data-llen='7294:7332'>　睽䷥<span class='krp-note'>大壯三上易/中孚四五易</span>又<span class='krp-note'>无妄二五易/大畜三四易</span>　通作自大壯</span><br/>
-<span class='tline' id='l328' data-llen='7332:7355'>　　于彖傳柔進而上行不合此本義所以又自中孚</span><br/>
-<span class='tline' id='l329' data-llen='7355:7378'>　　來此真推易卓見也第柔進二五易則在无妄尤</span><br/>
-<span class='tline' id='l330' data-llen='7378:7401'>　　切耳若爻辭于推易無不曲驗祗此二五之易惟</span><br/>
-<span class='tline' id='l331' data-llen='7401:7428'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-19a' );" name="004-19a" class="pb">[004-19a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l332' data-llen='7428:7451'>　　從无妄來故二曰遇主五曰厥宗一宗一主兩兩</span><br/>
-<span class='tline' id='l333' data-llen='7451:7474'>　　照應宋元後儒不解推易致宗主二字于初三四</span><br/>
-<span class='tline' id='l334' data-llen='7474:7496'>　　上諸爻東推西認無一是處然則推易可忽耶</span><br/>
-<span class='tline' id='l335' data-llen='7496:7533'>　革䷰<span class='krp-note'>遯初上易易/大壯二五</span>又<span class='krp-note'>无妄三上易/大過初二易</span>　虞翻祗作自</span><br/>
-<span class='tline' id='l336' data-llen='7533:7556'>　　遯不合若爻辭革言三就當從遯大壯大過三卦</span><br/>
-<span class='tline' id='l337' data-llen='7556:7578'>　　有乾言者遍驗而得之推易之不應偏執如此</span><br/>
-<span class='tline' id='l338' data-llen='7578:7615'>　鼎䷱<span class='krp-note'>遯二五易易/大壯初上</span>又<span class='krp-note'>大畜初四易/大過五上易</span>　虞翻祗作自</span><br/>
-<span class='tline' id='l339' data-llen='7615:7630'>　　大壯本義又作自巽俱不合</span><br/>
-<span class='tline' id='l340' data-llen='7630:7657'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-19b' );" name="004-19b" class="pb">[004-19b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l341' data-llen='7657:7688'>　巽䷸<span class='krp-note'>遯二四易易/中孚初三</span>又<span class='krp-note'>大畜初五易/大過四上易</span></span><br/>
-<span class='tline' id='l342' data-llen='7688:7720'>　兑䷹<span class='krp-note'>大壯三五易/中孚四上易</span>又<span class='krp-note'>无妄二上易/大過初三易</span></span><br/>
-<span class='tline' id='l343' data-llen='7720:7749'>　<span class='krp-note'>凡五陽一隂之卦/皆自姤夬而來</span>姤䷫夬䷪<span class='krp-note'>二易/卦</span></span><br/>
-<span class='tline' id='l344' data-llen='7749:7782'>　<span class='krp-note'>同/人</span>䷌<span class='krp-note'>姤初二易/夬上二易</span>　通作自姤惟蜀才作自夬文公</span><br/>
-<span class='tline' id='l345' data-llen='7782:7805'>　　圖姤夬兩易與推易同若反對作乾卦下生一隂</span><br/>
-<span class='tline' id='l346' data-llen='7805:7831'>　　與一陽五隂相對按之易文多未驗<span class='krp-note'>後三卦/倣此</span></span><br/>
-<span class='tline' id='l347' data-llen='7831:7860'>　履䷉<span class='krp-note'>姤初三易/夬上三易</span>　虞翻作自訟不合若通作自姤</span><br/>
-<span class='tline' id='l348' data-llen='7860:7883'>　　則九五明云夬履似有意㸃夬字者且上九其旋</span><br/>
-<span class='tline' id='l349' data-llen='7883:7910'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-20a' );" name="004-20a" class="pb">[004-20a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l350' data-llen='7910:7933'>　　從來無解亦正以六三為夬上所易儻能四上乾</span><br/>
-<span class='tline' id='l351' data-llen='7933:7956'>　　還之三剛則夬雖缺一立返純乾故曰元吉此正</span><br/>
-<span class='tline' id='l352' data-llen='7956:7973'>　　夬姤不可偏廢處言變者未省耳</span><br/>
-<span class='tline' id='l353' data-llen='7973:8006'>　<span class='krp-note'>小/畜</span>䷈<span class='krp-note'>姤初四易/夬上四易</span>　虞翻作自需不合至九三夫妻</span><br/>
-<span class='tline' id='l354' data-llen='8006:8029'>　　反目則倍難解説三上皆陽相敵不相應祗一六</span><br/>
-<span class='tline' id='l355' data-llen='8029:8052'>　　四而正應在初與三無涉從來爻辭並無奇偶不</span><br/>
-<span class='tline' id='l356' data-llen='8052:8075'>　　相當隂陽不相值而可以漫易言夫婦者乃審之</span><br/>
-<span class='tline' id='l357' data-llen='8075:8098'>　　推易則夬上一隂原為三配而今易在四雖匹合</span><br/>
-<span class='tline' id='l358' data-llen='8098:8125'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-20b' );" name="004-20b" class="pb">[004-20b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l359' data-llen='8125:8148'>　　之情亦既决絶然猶三四同宮並處人道則于斯</span><br/>
-<span class='tline' id='l360' data-llen='8148:8171'>　　猶不能無夫妻之名而實則四居離中離有目而</span><br/>
-<span class='tline' id='l361' data-llen='8171:8194'>　　究相反也然則夬之不可少有如是者其他推易</span><br/>
-<span class='tline' id='l362' data-llen='8194:8214'>　　諸左驗在各卦諸辭歴厯可指見仲氏易</span><br/>
-<span class='tline' id='l363' data-llen='8214:8234'>　<span class='krp-note'>大/有</span>䷍<span class='krp-note'>姤初五易/夬上五易</span></span><br/>
-<span class='tline' id='l364' data-llen='8234:8237'>　</span><br/>
-<span class='tline' id='l365' data-llen='8237:8240'>　</span><br/>
-<span class='tline' id='l366' data-llen='8240:8249'>　推易始末卷四</span><br/>
+    <p>
+<span class='tline' id='l7' data-llen='155:181'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-1a' );" name="004-1a" class="pb">[004-1a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l8' data-llen='181:189'>欽定四庫全書</span>
+<span class='tline' id='l9' data-llen='189:198'>　推易始末卷四</span>
+<span class='tline' id='l10' data-llen='198:219'>　　　　　　　　　　翰林院檢討毛竒齡撰</span>
+<span class='tline' id='l11' data-llen='219:257'>何氏乾坤主變圖<span class='krp-note'>何氏名楷閩人明儒經學之最有/聲者著周易訂詁此圖其所創也</span></span>
+<span class='tline' id='l12' data-llen='257:280'>訂詁曰竊謂往來上下者實皆乾坤所為程正叔謂乾</span>
+<span class='tline' id='l13' data-llen='280:303'>坤變而為六子八卦重而為六十四皆繇乾坤之變蘇</span>
+<span class='tline' id='l14' data-llen='303:326'>子瞻亦謂易有剛柔往來上下相易之説學者沿是爭</span>
+<span class='tline' id='l15' data-llen='326:349'>推其所從變此大惑也剛柔相易皆本諸乾坤而已愚</span>
+<span class='tline' id='l16' data-llen='349:375'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-1b' );" name="004-1b" class="pb">[004-1b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l17' data-llen='375:398'>嘗感其言并有取于乾來化坤成三男坤來化乾成三</span>
+<span class='tline' id='l18' data-llen='398:421'>女之説而廣推之因以合于乾坤主變之㫖覺從來穿</span>
+<span class='tline' id='l19' data-llen='421:437'>鑿附㑹之喋喋皆可省也訂説如左</span>
+<span class='tline' id='l20' data-llen='437:460'>　總由卦變卦綜綂繙之有甚合處即有不盡合處大</span>
+<span class='tline' id='l21' data-llen='460:483'>　抵四陽四隂後則皆不盡合者也朱文公譏漢上卦</span>
+<span class='tline' id='l22' data-llen='483:499'>　變于三爻外便覺難通正坐此耳</span>
+<span class='tline' id='l23' data-llen='499:522'>　乾坤祗生三畫卦則三畫卦無出于六子者此即乾</span>
+<span class='tline' id='l24' data-llen='522:545'>　坤生六子之法而暮四朝三者也非卦變也况其多</span>
+<span class='tline' id='l25' data-llen='545:571'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-2a' );" name="004-2a" class="pb">[004-2a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l26' data-llen='571:577'>　不合也</span>
+<span class='tline' id='l27' data-llen='577:585'>　　　　乾䷀</span>
+<span class='tline' id='l28' data-llen='585:593'>　　　　坤䷁</span>
+<span class='tline' id='l29' data-llen='593:615'>　　乾三畫下坤三畫上曰泰䷊故卦辭曰小往大</span>
+<span class='tline' id='l30' data-llen='615:620'>　　來</span>
+<span class='tline' id='l31' data-llen='620:642'>　　坤三畫下乾三畫上曰否䷋故卦辭曰大往小</span>
+<span class='tline' id='l32' data-llen='642:647'>　　來</span>
+<span class='tline' id='l33' data-llen='647:669'>　　乾上畫來坤上畫往曰咸䷞坤初畫來乾初畫</span>
+<span class='tline' id='l34' data-llen='669:695'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-2b' );" name="004-2b" class="pb">[004-2b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l35' data-llen='695:717'>　　往曰恒䷟咸之彖曰柔上而剛下恒之彖曰剛</span>
+<span class='tline' id='l36' data-llen='717:725'>　　上而柔下</span>
+<span class='tline' id='l37' data-llen='725:747'>　　乾上畫來坤中畫往曰困䷮坤中畫來乾初畫</span>
+<span class='tline' id='l38' data-llen='747:769'>　　往曰井䷯困之彖曰剛揜也謂上陽來為坎中</span>
+<span class='tline' id='l39' data-llen='769:792'>　　之九二也井之彖曰巽乎水而上水謂初陽往為</span>
+<span class='tline' id='l40' data-llen='792:802'>　　坎中之九五也</span>
+<span class='tline' id='l41' data-llen='802:824'>　　乾上畫來坤初畫往曰隨䷐坤上畫來乾初畫</span>
+<span class='tline' id='l42' data-llen='824:846'>　　往曰蠱䷑隨之彖曰剛來而下柔蠱之彖曰剛</span>
+<span class='tline' id='l43' data-llen='846:872'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-3a' );" name="004-3a" class="pb">[004-3a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l44' data-llen='872:880'>　　上而柔下</span>
+<span class='tline' id='l45' data-llen='880:902'>　　乾中畫來坤上畫往曰旅䷷坤初畫來乾中畫</span>
+<span class='tline' id='l46' data-llen='902:924'>　　往曰豐䷶旅之彖曰柔得中而順乎剛豐之彖</span>
+<span class='tline' id='l47' data-llen='924:932'>　　不用卦變</span>
+<span class='tline' id='l48' data-llen='932:954'>　　乾中畫來坤中畫往曰未濟䷿坤中畫來乾中</span>
+<span class='tline' id='l49' data-llen='954:976'>　　畫往曰既濟䷾未濟之彖曰柔得中也指六五</span>
+<span class='tline' id='l50' data-llen='976:992'>　　既濟之彖曰柔得中也指六二</span>
+<span class='tline' id='l51' data-llen='992:1014'>　　乾中畫來坤初畫往曰噬嗑䷔坤上畫來乾中</span>
+<span class='tline' id='l52' data-llen='1014:1040'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-3b' );" name="004-3b" class="pb">[004-3b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l53' data-llen='1040:1062'>　　畫往曰賁䷕噬嗑之彖曰柔得中而上行賁之</span>
+<span class='tline' id='l54' data-llen='1062:1079'>　　彖曰柔來而文剛分剛上而文柔</span>
+<span class='tline' id='l55' data-llen='1079:1101'>　　乾初畫來坤上畫往曰漸䷴坤初畫來乾上畫</span>
+<span class='tline' id='l56' data-llen='1101:1123'>　　往曰歸妹䷵漸之彖曰進得位往有功也歸妹</span>
+<span class='tline' id='l57' data-llen='1123:1137'>　　之彖曰无攸利柔乗剛也</span>
+<span class='tline' id='l58' data-llen='1137:1159'>　　乾初畫來坤中畫往曰渙䷺坤中畫來乾上畫</span>
+<span class='tline' id='l59' data-llen='1159:1181'>　　往曰節䷻渙之彖曰剛來而不竆柔得位乎外</span>
+<span class='tline' id='l60' data-llen='1181:1199'>　　而上同節之彖曰剛柔分而剛得中</span>
+<span class='tline' id='l61' data-llen='1199:1225'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-4a' );" name="004-4a" class="pb">[004-4a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l62' data-llen='1225:1248'>　　　上同無解即剛柔分亦不見有分合蹤蹟立言</span>
+<span class='tline' id='l63' data-llen='1248:1266'>　　　必有為豈無故而漫下此數字者</span>
+<span class='tline' id='l64' data-llen='1266:1288'>　　乾初畫來坤初畫往曰益䷩坤上畫來乾上畫</span>
+<span class='tline' id='l65' data-llen='1288:1310'>　　往曰損䷨損上益下曰益損下益上曰損皆以</span>
+<span class='tline' id='l66' data-llen='1310:1317'>　　陽言之</span>
+<span class='tline' id='l67' data-llen='1317:1340'>　　右三隂三陽之卦二十而皆有往來上下之義惟</span>
+<span class='tline' id='l68' data-llen='1340:1363'>　　豐無之皆從乾坤往來者此外獨有四陽之卦三</span>
+<span class='tline' id='l69' data-llen='1363:1384'>　　訟䷅之彖曰剛來而得中大畜䷙之彖曰剛</span>
+<span class='tline' id='l70' data-llen='1384:1410'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-4b' );" name="004-4b" class="pb">[004-4b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l71' data-llen='1410:1432'>　　上而尚賢无妄䷘之彖曰剛自外來而為主於</span>
+<span class='tline' id='l72' data-llen='1432:1443'>　　内皆從乾生者也</span>
+<span class='tline' id='l73' data-llen='1443:1466'>　　　此則不盡合者矣四陽從乾生則必此卦外另</span>
+<span class='tline' id='l74' data-llen='1466:1489'>　　　有一乾卦矣且此有四乾則生此者必六乾卦</span>
+<span class='tline' id='l75' data-llen='1489:1512'>　　　矣六乾皆剛知此剛從何爻來六剛皆可來則</span>
+<span class='tline' id='l76' data-llen='1512:1535'>　　　必不却二五矣何以曰來而得中且卦之有上</span>
+<span class='tline' id='l77' data-llen='1535:1558'>　　　下有内外以兩體言也今混然六爻不辨兩體</span>
+<span class='tline' id='l78' data-llen='1558:1581'>　　　縦有所來亦焉知其自内自外自下自上而彖</span>
+<span class='tline' id='l79' data-llen='1581:1607'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-5a' );" name="004-5a" class="pb">[004-5a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l80' data-llen='1607:1630'>　　　傳鑿鑿然曰剛上曰自外來曰為主于内此非</span>
+<span class='tline' id='l81' data-llen='1630:1640'>　　　可胡突應也</span>
+<span class='tline' id='l82' data-llen='1640:1661'>　　四隂之卦二晉䷢之彖曰柔進而上行升䷭</span>
+<span class='tline' id='l83' data-llen='1661:1685'>　　　之彖曰柔以時升皆從坤生者也自餘无取往來</span>
+<span class='tline' id='l84' data-llen='1685:1694'>　　　之義者矣</span>
+<span class='tline' id='l85' data-llen='1694:1714'>　　　　升進無解且何以曰上行曰時升也</span>
+<span class='tline' id='l86' data-llen='1714:1732'>推易圖<span class='krp-note'>見仲氏易卷/首兹不再述</span></span>
+<span class='tline' id='l87' data-llen='1732:1739'>推易折衷圖</span>
+<span class='tline' id='l88' data-llen='1739:1765'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-5b' );" name="004-5b" class="pb">[004-5b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l89' data-llen='1765:1788'>此則予之折衷于諸儒者也推易之説雖發自仲氏而</span>
+<span class='tline' id='l90' data-llen='1788:1811'>諸儒實先啓之西京以後六季以前必有早為是説者</span>
+<span class='tline' id='l91' data-llen='1811:1834'>而漢學中衰遂致淪没兹從列代論變一綫相沿者稍</span>
+<span class='tline' id='l92' data-llen='1834:1857'>叅訂之以求合于仲氏之㫖第學荒識淺諸所未備實</span>
+<span class='tline' id='l93' data-llen='1857:1869'>賴後之多學者并論辨焉</span>
+<span class='tline' id='l94' data-llen='1869:1883'>不易卦<span class='krp-note'>謂無所/移易也</span></span>
+<span class='tline' id='l95' data-llen='1883:1905'>　乾䷀　通作變母惟仲氏謂乾坤生六十四卦此</span>
+<span class='tline' id='l96' data-llen='1905:1928'>　　羲畫變易也若周易繫辭則乾坤不與諸卦相移</span>
+<span class='tline' id='l97' data-llen='1928:1954'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-6a' );" name="004-6a" class="pb">[004-6a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l98' data-llen='1954:1977'>　　易乾鑿度所云不易卦是也况細繹經文並無通</span>
+<span class='tline' id='l99' data-llen='1977:2000'>　　變蹤蹟耶　干寶謂乾坤從十辟卦來更顛倒無</span>
+<span class='tline' id='l100' data-llen='2000:2005'>　　理</span>
+<span class='tline' id='l101' data-llen='2005:2013'>　坤䷁　上同</span>
+<span class='tline' id='l102' data-llen='2013:2034'>聚卦<span class='krp-note'>謂隂陽各聚于一/方為分移之主也</span></span>
+<span class='tline' id='l103' data-llen='2034:2056'>　復䷗　通作變母推易同　變卦反對圖謂坤卦</span>
+<span class='tline' id='l104' data-llen='2056:2075'>　　一陽下生則何卦不本乾坤失首従矣</span>
+<span class='tline' id='l105' data-llen='2075:2097'>　剝䷖　朱文公圖六十四卦相生圖變卦反對圖</span>
+<span class='tline' id='l106' data-llen='2097:2123'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-6b' );" name="004-6b" class="pb">[004-6b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l107' data-llen='2123:2146'>　　俱謂剝自復來惟十辟卦變分作變母與推易同</span>
+<span class='tline' id='l108' data-llen='2146:2169'>　　　盧氏謂剝本乾卦此乾坤主變并反對圖説所</span>
+<span class='tline' id='l109' data-llen='2169:2177'>　　始説見前</span>
+<span class='tline' id='l110' data-llen='2177:2199'>　臨䷒　通作變母推易同　蜀才謂臨本坤卦觀</span>
+<span class='tline' id='l111' data-llen='2199:2220'>　　本乾卦亦乾坤主變反對圖説所始説見前</span>
+<span class='tline' id='l112' data-llen='2220:2242'>　觀䷓　十辟卦變觀臨分母與推易同若文公圖</span>
+<span class='tline' id='l113' data-llen='2242:2265'>　　觀本臨臨亦本觀互為其根與六十四卦相生圖</span>
+<span class='tline' id='l114' data-llen='2265:2277'>　　謂觀自臨來俱不合</span>
+<span class='tline' id='l115' data-llen='2277:2303'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-7a' );" name="004-7a" class="pb">[004-7a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l116' data-llen='2303:2325'>　泰䷊　通作變母推易同　何氏訂詁謂乾三畫</span>
+<span class='tline' id='l117' data-llen='2325:2348'>　　下坤三畫上曰泰坤三畫下乾三畫上曰否則是</span>
+<span class='tline' id='l118' data-llen='2348:2371'>　　因重之法非卦變也卦變無三爻並移者此言往</span>
+<span class='tline' id='l119' data-llen='2371:2394'>　　來謂本卦六爻自相來去未嘗有他卦相移易也</span>
+<span class='tline' id='l120' data-llen='2394:2417'>　　以内外兩卦往來而妄認作他卦之變胡突甚矣</span>
+<span class='tline' id='l121' data-llen='2417:2440'>　　若文公本義又改圖説以為泰本歸妹似以泰之</span>
+<span class='tline' id='l122' data-llen='2440:2463'>　　九上有帝乙歸妹文也不知此歸妹以互體震兑</span>
+<span class='tline' id='l123' data-llen='2463:2486'>　　及之長男幼女兩適相合故云豈有本其卦而即</span>
+<span class='tline' id='l124' data-llen='2486:2512'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-7b' );" name="004-7b" class="pb">[004-7b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l125' data-llen='2512:2535'>　　引用其文者况兩卦推移皆在三四諦審泰否其</span>
+<span class='tline' id='l126' data-llen='2535:2558'>　　于三四兩爻則全無歸妹漸蹤蹟是泰易歸妹非</span>
+<span class='tline' id='l127' data-llen='2558:2581'>　　歸妹易泰也不然困井豐旅其為可移者何止此</span>
+<span class='tline' id='l128' data-llen='2581:2604'>　　矣　蜀才謂泰本坤卦否本乾卦此乾坤主變與</span>
+<span class='tline' id='l129' data-llen='2604:2617'>　　反對圖説所始説見前</span>
+<span class='tline' id='l130' data-llen='2617:2625'>　否䷋　見上</span>
+<span class='tline' id='l131' data-llen='2625:2647'>　遯䷠通作變母推易同　侯果謂遯本坤卦大壯</span>
+<span class='tline' id='l132' data-llen='2647:2664'>　　本乾卦此乾坤反對所始説見前</span>
+<span class='tline' id='l133' data-llen='2664:2690'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-8a' );" name="004-8a" class="pb">[004-8a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l134' data-llen='2690:2716'>　<span class='krp-note'>大/壯</span>䷡　十辟卦變遯大壯分母與推易同文公圖</span>
+<span class='tline' id='l135' data-llen='2716:2739'>　　遯本大壯大壯亦本遯相生圖謂大壯自遯來俱</span>
+<span class='tline' id='l136' data-llen='2739:2745'>　　不合</span>
+<span class='tline' id='l137' data-llen='2745:2758'>　姤䷫　通作變母推易同</span>
+<span class='tline' id='l138' data-llen='2758:2780'>　夬䷪　十辟卦變夬姤分母與推易同文公圖姤</span>
+<span class='tline' id='l139' data-llen='2780:2803'>　　夬互母與相生圖夬自姤來俱不合若反對圖乾</span>
+<span class='tline' id='l140' data-llen='2803:2823'>　　下生姤則又乾坤主變所始非是説見前</span>
+<span class='tline' id='l141' data-llen='2823:2854'>半聚卦<span class='krp-note'>謂或陽聚或隂聚也本卦無所/來而分之有可往亦聚主矣</span></span>
+<span class='tline' id='l142' data-llen='2854:2880'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-8b' );" name="004-8b" class="pb">[004-8b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l143' data-llen='2880:2906'>　<span class='krp-note'>中/孚</span>䷼　中孚本二隂間四陽之卦小過本二陽間</span>
+<span class='tline' id='l144' data-llen='2906:2929'>　　四隂之卦既有所間非聚卦矣然而臨觀之二陽</span>
+<span class='tline' id='l145' data-llen='2929:2952'>　　聚者不能移而為小過遯大壯之四陽聚者不能</span>
+<span class='tline' id='l146' data-llen='2952:2975'>　　移而為中孚以推移之法祗以一爻作往來無兩</span>
+<span class='tline' id='l147' data-llen='2975:2998'>　　爻往來之例臨觀兩陽在初上三五不能通移至</span>
+<span class='tline' id='l148' data-llen='2998:3021'>　　三四遯大壯四陽俱在三四不能通移至初上二</span>
+<span class='tline' id='l149' data-llen='3021:3045'>　　五則豈分卦可𨽻乎　虞仲翔謂中孚自訟來小</span>
+<span class='tline' id='l150' data-llen='3045:3068'>　　過自晉來則凡四陽四隂者皆可來也　反對圖</span>
+<span class='tline' id='l151' data-llen='3068:3094'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-9a' );" name="004-9a" class="pb">[004-9a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l152' data-llen='3094:3117'>　　謂二卦從乾坤所生則凡有隂陽奇偶者何一非</span>
+<span class='tline' id='l153' data-llen='3117:3140'>　　其所生也　若六子卦變謂中孚從離易小過從</span>
+<span class='tline' id='l154' data-llen='3140:3163'>　　坎易文公圖謂中孚従遯壯來小過從觀臨來相</span>
+<span class='tline' id='l155' data-llen='3163:3186'>　　生圖謂中孚本遯卦小過本臨卦則皆須兩爻連</span>
+<span class='tline' id='l156' data-llen='3186:3195'>　　易非變例矣</span>
+<span class='tline' id='l157' data-llen='3195:3207'>　<span class='krp-note'>小/過</span>䷽　見上</span>
+<span class='tline' id='l158' data-llen='3207:3250'>子母聚卦<span class='krp-note'>謂本卦為他卦所移為子然又可移之作他/卦為母曰子母聚如移否之上九為九三而</span></span>
+<span class='tline' id='l159' data-llen='3250:3285'><span class='krp-note'>為咸是咸為否子然又可移咸之九五/為九二而為恒是咸又為恒母他卦同</span></span>
+<span class='tline' id='l160' data-llen='3285:3311'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-9b' );" name="004-9b" class="pb">[004-9b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l161' data-llen='3311:3340'>　咸䷞<span class='krp-note'>否三上易/恒二五易</span>　通作自否來惟相生圖自泰與</span>
+<span class='tline' id='l162' data-llen='3340:3363'>　　柔上剛下不合若文公圖本泰否而本義又謂自</span>
+<span class='tline' id='l163' data-llen='3363:3386'>　　旅則變例亂矣近爻皆可移則何不可自漸困也</span>
+<span class='tline' id='l164' data-llen='3386:3409'>　　至再推自恒則遍審諸卦爻辭厯厯可驗見仲氏</span>
+<span class='tline' id='l165' data-llen='3409:3421'>　　易<span class='krp-note'>後卦/倣此</span></span>
+<span class='tline' id='l166' data-llen='3421:3450'>　恒䷟<span class='krp-note'>泰初四易/咸二五易</span>　通作自泰來惟相生反對二圖</span>
+<span class='tline' id='l167' data-llen='3450:3473'>　　俱作自否與剛上柔下不合若文公圖本泰否而</span>
+<span class='tline' id='l168' data-llen='3473:3488'>　　本義又作自豐不合説見前</span>
+<span class='tline' id='l169' data-llen='3488:3515'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-10a' );" name="004-10a" class="pb">[004-10a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l170' data-llen='3515:3536'>　損䷨<span class='krp-note'>泰三上易/益二五易</span>　通自泰來</span>
+<span class='tline' id='l171' data-llen='3536:3565'>　益䷩<span class='krp-note'>否初四易/損二五易</span>　通自否來但二卦二五俱有益</span>
+<span class='tline' id='l172' data-llen='3565:3585'>　　之十朋之龜語此損益二五相易之驗也</span>
+<span class='tline' id='l173' data-llen='3585:3615'>　萃䷬<span class='krp-note'>觀四上易易/小過三五</span>　通作自觀若相生自臨反對始</span>
+<span class='tline' id='l174' data-llen='3615:3637'>　　臨文公圖本觀臨則臨須兩爻連易非變例矣</span>
+<span class='tline' id='l175' data-llen='3637:3666'>　升䷭<span class='krp-note'>臨初三易易/小過二四</span>　通自臨來然彖傳柔以時升</span>
+<span class='tline' id='l176' data-llen='3666:3689'>　　若非小過則臨用剛升非柔升矣至爻辭九二利</span>
+<span class='tline' id='l177' data-llen='3689:3712'>　　用禴而六四曰享于岐山正以升剛事人升柔祀</span>
+<span class='tline' id='l178' data-llen='3712:3739'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-10b' );" name="004-10b" class="pb">[004-10b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l179' data-llen='3739:3762'>　　鬼小過本升柔耳又三為人位四為鬼位見鄭康</span>
+<span class='tline' id='l180' data-llen='3762:3768'>　　成説</span>
+<span class='tline' id='l181' data-llen='3768:3797'>　頥䷚<span class='krp-note'>觀初五易/臨二上易</span>　文公圖同侯果本觀虞翻本臨</span>
+<span class='tline' id='l182' data-llen='3797:3820'>　　皆同但翻又云本晉不合餘通自臨來若朱升作</span>
+<span class='tline' id='l183' data-llen='3820:3843'>　　㑹通亦云自觀而作六子變圖又曰自坎其無專</span>
+<span class='tline' id='l184' data-llen='3843:3850'>　　見如此</span>
+<span class='tline' id='l185' data-llen='3850:3883'>　<span class='krp-note'>大/過</span>䷛<span class='krp-note'>大壯初五易/遯二上易</span>　文公圖同餘通自遯來六子</span>
+<span class='tline' id='l186' data-llen='3883:3893'>　　作自離説見前</span>
+<span class='tline' id='l187' data-llen='3893:3920'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-11a' );" name="004-11a" class="pb">[004-11a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l188' data-llen='3920:3953'>　<span class='krp-note'>无/妄</span>䷘<span class='krp-note'>遯初三易易/中孚二四</span>　通作自遯朱本義又作自訟</span>
+<span class='tline' id='l189' data-llen='3953:3962'>　　不合説見前</span>
+<span class='tline' id='l190' data-llen='3962:3996'>　<span class='krp-note'>大/畜</span>䷙<span class='krp-note'>大壯四上易/中孚三五易</span>　通作自大壯本義又作自需</span>
+<span class='tline' id='l191' data-llen='3996:4002'>　　見前</span>
+<span class='tline' id='l192' data-llen='4002:4015'>分卦<span class='krp-note'>此則隂/陽分矣</span></span>
+<span class='tline' id='l193' data-llen='4015:4044'>　<span class='krp-note'>凡一陽五隂之卦/皆自剝復而來</span>剝䷖復䷗<span class='krp-note'>二易/卦</span></span>
+<span class='tline' id='l194' data-llen='4044:4073'>　師䷆<span class='krp-note'>剝上二易/復初二易</span>　蜀才云此本剝卦餘通作自復</span>
+<span class='tline' id='l195' data-llen='4073:4078'>　　來</span>
+<span class='tline' id='l196' data-llen='4078:4105'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-11b' );" name="004-11b" class="pb">[004-11b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l197' data-llen='4105:4134'>　謙䷎<span class='krp-note'>剝上三易/復初三易</span>　侯果本剝卦餘通自復第彖傳</span>
+<span class='tline' id='l198' data-llen='4134:4157'>　　天道下濟地道上行則剝復均有之上五天道初</span>
+<span class='tline' id='l199' data-llen='4157:4165'>　　二地道也</span>
+<span class='tline' id='l200' data-llen='4165:4194'>　豫䷏<span class='krp-note'>剝上四易/復初四易</span>　通自復來惟十辟卦變以師謙</span>
+<span class='tline' id='l201' data-llen='4194:4217'>　　陽在内從復豫比陽在外從剝則豫卦初爻曰鳴</span>
+<span class='tline' id='l202' data-llen='4217:4240'>　　豫從復震來震為鳴上爻成有渝従剝艮來成言</span>
+<span class='tline' id='l203' data-llen='4240:4263'>　　乎艮以一卦而兼剝復未嘗分内外也凡推易之</span>
+<span class='tline' id='l204' data-llen='4263:4286'>　　法多以卦爻相體驗與卦變但合彖傳不同見仲</span>
+<span class='tline' id='l205' data-llen='4286:4313'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-12a' );" name="004-12a" class="pb">[004-12a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l206' data-llen='4313:4319'>　　氏易</span>
+<span class='tline' id='l207' data-llen='4319:4348'>　比䷇<span class='krp-note'>剝上五易/復初五易</span>　通自復惟十辟自剝第初爻盈</span>
+<span class='tline' id='l208' data-llen='4348:4371'>　　缶當自復以復之下震有缶象上爻无首當自剝</span>
+<span class='tline' id='l209' data-llen='4371:4384'>　　以剝之上剛有首象也</span>
+<span class='tline' id='l210' data-llen='4384:4407'>　<span class='krp-note'>凡二陽四隂之卦/皆自臨觀而來</span>臨䷒觀䷓</span>
+<span class='tline' id='l211' data-llen='4407:4433'>　　　又推　頥䷚<span class='krp-note'>小/過</span>䷽萃䷬升䷭<span class='krp-note'>四易/卦</span></span>
+<span class='tline' id='l212' data-llen='4433:4475'>　屯䷂<span class='krp-note'>臨二五易/觀初上易</span>又<span class='krp-note'>萃初四易/頥五上易</span>　相生自臨<span class='krp-note'>凡二陽/卦俱同</span></span>
+<span class='tline' id='l213' data-llen='4475:4504'>　　文公圖本臨觀<span class='krp-note'>凡二陽/卦俱同</span>與推易同第不識萃頥便</span>
+<span class='tline' id='l214' data-llen='4504:4531'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-12b' );" name="004-12b" class="pb">[004-12b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l215' data-llen='4531:4554'>　　屬漏義蘇子瞻謂剛柔相易必子女相值之卦此</span>
+<span class='tline' id='l216' data-llen='4554:4577'>　　或未然但隂陽對易則于此不能無奇偶匹配之</span>
+<span class='tline' id='l217' data-llen='4577:4600'>　　意故屯凡三言婚媾三言乗馬無非以移易處見</span>
+<span class='tline' id='l218' data-llen='4600:4623'>　　男女往來若止臨卦一易則上爻乗馬四爻婚媾</span>
+<span class='tline' id='l219' data-llen='4623:4646'>　　何所著落此萃頥再推所為必不可已者至虞翻</span>
+<span class='tline' id='l220' data-llen='4646:4669'>　　謂本坎六子謂本艮則但取新變全無把鼻于易</span>
+<span class='tline' id='l221' data-llen='4669:4677'>　　義何與焉</span>
+<span class='tline' id='l222' data-llen='4677:4713'>　蒙䷃<span class='krp-note'>臨初上易/觀二五易</span>又<span class='krp-note'>升三上易/頥初二易</span>　諸儒凡二陽卦多</span>
+<span class='tline' id='l223' data-llen='4713:4740'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-13a' );" name="004-13a" class="pb">[004-13a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l224' data-llen='4740:4769'>　　謂自臨觀來與推易同<span class='krp-note'>已後七卦/不再述</span>第此必推升頥</span>
+<span class='tline' id='l225' data-llen='4769:4792'>　　者本卦六三勿用取女以升之三剛與上柔應此</span>
+<span class='tline' id='l226' data-llen='4792:4815'>　　我當取之女也今易之而彼剛此柔勿用取矣故</span>
+<span class='tline' id='l227' data-llen='4815:4838'>　　云若又云見金夫則以三本兑中易為艮上兑為</span>
+<span class='tline' id='l228' data-llen='4838:4861'>　　金女艮即金夫此非秋胡貽金可得亂入文口中</span>
+<span class='tline' id='l229' data-llen='4861:4884'>　　者至若六五象傳曰順以巽也向非觀為巽坤升</span>
+<span class='tline' id='l230' data-llen='4884:4907'>　　為坤巽則在蒙在臨並無坤順巽遜二義而象傳</span>
+<span class='tline' id='l231' data-llen='4907:4930'>　　所及一如觀彖所云巽而順升彖所云順而巽者</span>
+<span class='tline' id='l232' data-llen='4930:4957'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-13b' );" name="004-13b" class="pb">[004-13b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l233' data-llen='4957:4980'>　　此豈無端偶合者耶至虞氏本艮六子本震無理</span>
+<span class='tline' id='l234' data-llen='4980:4986'>　　見前</span>
+<span class='tline' id='l235' data-llen='4986:5022'>　坎䷜<span class='krp-note'>臨初五易/觀二上易</span>又<span class='krp-note'>升三五易/萃二四易</span>　通自臨觀但六三</span>
+<span class='tline' id='l236' data-llen='5022:5044'>　　來之坎坎當從升五來若觀臨則焉能及三耶</span>
+<span class='tline' id='l237' data-llen='5044:5080'>　晉䷢<span class='krp-note'>觀四五易易/小過三上</span>又<span class='krp-note'>萃五上易/頥初四易</span>　蜀才本觀若卦</span>
+<span class='tline' id='l238' data-llen='5080:5103'>　　辭康侯則以頥有下震小過有上震震為侯故也</span>
+<span class='tline' id='l239' data-llen='5103:5125'>　　設止觀卦一易則安有侯象脱辭義矣餘見前</span>
+<span class='tline' id='l240' data-llen='5125:5165'>　<span class='krp-note'>明/夷</span>䷣<span class='krp-note'>臨二三易易/小過初四</span>又<span class='krp-note'>升初二易/頥三上易</span>　六二夷于左股</span>
+<span class='tline' id='l241' data-llen='5165:5192'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-14a' );" name="004-14a" class="pb">[004-14a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l242' data-llen='5192:5215'>　　以升之下巽為股易則夷之九三得其大首以頥</span>
+<span class='tline' id='l243' data-llen='5215:5232'>　　之上剛為首降而為三則得之也</span>
+<span class='tline' id='l244' data-llen='5232:5268'>　蹇䷦<span class='krp-note'>觀三上易易/小過四五</span>又<span class='krp-note'>升二五易/萃三四易</span>　通作自觀與推</span>
+<span class='tline' id='l245' data-llen='5268:5291'>　　易同第彖傳曰住得中也若觀上居三並非得中</span>
+<span class='tline' id='l246' data-llen='5291:5314'>　　以外易内來而非往此文公本義所以舍觀臨而</span>
+<span class='tline' id='l247' data-llen='5314:5337'>　　取小過也特漢後卦變從未及小過而文公及之</span>
+<span class='tline' id='l248' data-llen='5337:5357'>　　真是卓識惜推易末開不能并及升萃耳</span>
+<span class='tline' id='l249' data-llen='5357:5393'>　解䷧<span class='krp-note'>臨初四易易/小過二三</span>又<span class='krp-note'>升三四易/萃五二易</span>　通作自臨與推</span>
+<span class='tline' id='l250' data-llen='5393:5420'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-14b' );" name="004-14b" class="pb">[004-14b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l251' data-llen='5420:5443'>　　易同但彖傳曰其來復吉乃得中也臨以初往易</span>
+<span class='tline' id='l252' data-llen='5443:5466'>　　四非來非中惟小過與萃則一以三易二一以五</span>
+<span class='tline' id='l253' data-llen='5466:5489'>　　易二皆來而得中其又自臨升者以卦辭有攸往</span>
+<span class='tline' id='l254' data-llen='5489:5505'>　　云耳本義作自升甚善説見前</span>
+<span class='tline' id='l255' data-llen='5505:5534'>　震䷲<span class='krp-note'>臨二四易易/小過初三</span>又<span class='krp-note'>萃五初易/頥上四易</span></span>
+<span class='tline' id='l256' data-llen='5534:5563'>　艮䷳<span class='krp-note'>觀五三易易/小過四上</span>又<span class='krp-note'>升二上易/頥初三易</span></span>
+<span class='tline' id='l257' data-llen='5563:5586'>　<span class='krp-note'>凡三陽三隂之卦/皆自泰否而來</span>泰䷊否䷋</span>
+<span class='tline' id='l258' data-llen='5586:5608'>　　　又推　咸䷞恒䷟損䷨益䷩<span class='krp-note'>三易/卦</span></span>
+<span class='tline' id='l259' data-llen='5608:5635'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-15a' );" name="004-15a" class="pb">[004-15a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l260' data-llen='5635:5669'>　隨䷐<span class='krp-note'>否初/上易</span>又<span class='krp-note'>咸初三易/益四上易</span>　通作自否而文公圖以</span>
+<span class='tline' id='l261' data-llen='5669:5692'>　　否泰首尾通變與乾坤主變綂以否泰概三陽三</span>
+<span class='tline' id='l262' data-llen='5692:5720'>　　隂變例俱有未合<span class='krp-note'>後十三/卦同</span>故本義又作自困自噬</span>
+<span class='tline' id='l263' data-llen='5720:5743'>　　嗑自未濟與變圖異特不得領要按之易文仍齟</span>
+<span class='tline' id='l264' data-llen='5743:5749'>　　齬耳</span>
+<span class='tline' id='l265' data-llen='5749:5783'>　蠱䷑<span class='krp-note'>泰初/上易</span>又<span class='krp-note'>恒四上易/損初三易</span>　通作自泰即程頥不尚</span>
+<span class='tline' id='l266' data-llen='5783:5806'>　　卦變亦云乾初之上坤上之初獨本義作自賁自</span>
+<span class='tline' id='l267' data-llen='5806:5829'>　　井自既濟此與春秋傳秦伯伐晉三帥渡河并三</span>
+<span class='tline' id='l268' data-llen='5829:5856'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-15b' );" name="004-15b" class="pb">[004-15b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l269' data-llen='5856:5886'>　　去三敗諸筮詞頗合但既濟二變<span class='krp-note'>初二一變/五上一變</span>卦雖</span>
+<span class='tline' id='l270' data-llen='5886:5909'>　　三而變有四三帥三敗仍然不侔且筮詞曰涉河</span>
+<span class='tline' id='l271' data-llen='5909:5932'>　　侯車敗凡爻隔一剛便成坎象踰剛相易故曰涉</span>
+<span class='tline' id='l272' data-llen='5932:5955'>　　河今賁井既濟其所變未嘗隔剛爻也况侯之與</span>
+<span class='tline' id='l273' data-llen='5955:5978'>　　車皆屬震象三卦無震何有侯車則非泰損渡河</span>
+<span class='tline' id='l274' data-llen='5978:6001'>　　與恒震車敗不可矣推易之精無往不合此尤其</span>
+<span class='tline' id='l275' data-llen='6001:6012'>　　顯然者詳仲氏易</span>
+<span class='tline' id='l276' data-llen='6012:6050'>　<span class='krp-note'>噬/嗑</span>䷔<span class='krp-note'>否初/五易</span>又<span class='krp-note'>損二四易/益四五易</span>　通作自否獨本義作自</span>
+<span class='tline' id='l277' data-llen='6050:6077'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-16a' );" name="004-16a" class="pb">[004-16a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l278' data-llen='6077:6100'>　　益最合但九四得金矢以一剛横坎中損益二五</span>
+<span class='tline' id='l279' data-llen='6100:6123'>　　並與四易一若矢之駢集者故云且損下為兑益</span>
+<span class='tline' id='l280' data-llen='6123:6146'>　　上為巽兑金巽木合為金矢若有益無損則取象</span>
+<span class='tline' id='l281' data-llen='6146:6156'>　　未備何以解之</span>
+<span class='tline' id='l282' data-llen='6156:6190'>　賁䷕<span class='krp-note'>泰二/上易</span>又<span class='krp-note'>損二三易/益三五易</span>　通自泰本義作自損最</span>
+<span class='tline' id='l283' data-llen='6190:6204'>　　合但又云自既濟則不然</span>
+<span class='tline' id='l284' data-llen='6204:6238'>　困䷮<span class='krp-note'>否二/上易</span>又<span class='krp-note'>咸二三易/恒三五易</span>　通自否若虞翻謂震為</span>
+<span class='tline' id='l285' data-llen='6238:6261'>　　言折入兑故有言不信則惟恒卦有上震此即推</span>
+<span class='tline' id='l286' data-llen='6261:6288'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-16b' );" name="004-16b" class="pb">[004-16b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l287' data-llen='6288:6297'>　　易之善變者</span>
+<span class='tline' id='l288' data-llen='6297:6321'>　井䷯<span class='krp-note'>泰初/五易</span>又<span class='krp-note'>咸二四易/恒四五易</span></span>
+<span class='tline' id='l289' data-llen='6321:6355'>　漸䷴<span class='krp-note'>否三/四易</span>又<span class='krp-note'>咸四上易/益初三易</span>　通自否本義作自渙自</span>
+<span class='tline' id='l290' data-llen='6355:6378'>　　旅以彖傳有進得位剛得中語若否上移下則非</span>
+<span class='tline' id='l291' data-llen='6378:6401'>　　進以四易三非得中也但二三無渙蹤蹟而四曰</span>
+<span class='tline' id='l292' data-llen='6401:6415'>　　順巽非益四坤順不可矣</span>
+<span class='tline' id='l293' data-llen='6415:6443'>　<span class='krp-note'>歸/妹</span>䷵<span class='krp-note'>泰三/四易</span>又<span class='krp-note'>損四上易/恒初三易</span></span>
+<span class='tline' id='l294' data-llen='6443:6477'>　豐䷶<span class='krp-note'>泰二/四易</span>又<span class='krp-note'>咸初五易/恒初二易</span>　虞翻作自噬嗑來不合</span>
+<span class='tline' id='l295' data-llen='6477:6504'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-17a' );" name="004-17a" class="pb">[004-17a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l296' data-llen='6504:6538'>　旅䷷<span class='krp-note'>否三/五易</span>又<span class='krp-note'>咸五上易/恒二上易</span>　虞翻作自賁此火山山</span>
+<span class='tline' id='l297' data-llen='6538:6552'>　　火交易對例與移易何涉</span>
+<span class='tline' id='l298' data-llen='6552:6586'>　渙䷺<span class='krp-note'>否二/四易</span>又<span class='krp-note'>益初二易/損初五易</span>　本義作自漸來駁見本</span>
+<span class='tline' id='l299' data-llen='6586:6591'>　　卦</span>
+<span class='tline' id='l300' data-llen='6591:6615'>　節䷻<span class='krp-note'>泰三/五易</span>又<span class='krp-note'>益二上易/損五上易</span></span>
+<span class='tline' id='l301' data-llen='6615:6653'>　<span class='krp-note'>既/濟</span>䷾<span class='krp-note'>泰二/五易</span>又<span class='krp-note'>咸初四易/益三上易</span>　九三伐鬼方惟益三上</span>
+<span class='tline' id='l302' data-llen='6653:6676'>　　易有坤有艮坤為方艮為鬼㝠門六四衣袽惟咸</span>
+<span class='tline' id='l303' data-llen='6676:6694'>　　初四易一陽中虚有敝絮塞舟之象</span>
+<span class='tline' id='l304' data-llen='6694:6721'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-17b' );" name="004-17b" class="pb">[004-17b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l305' data-llen='6721:6759'>　<span class='krp-note'>未/濟</span>䷿<span class='krp-note'>否二/五易</span>又<span class='krp-note'>損初四易/恒三上易</span>　推易無處不合如此卦</span>
+<span class='tline' id='l306' data-llen='6759:6782'>　　皆作自否虞仲翔釋上九一爻亦從推易法以否</span>
+<span class='tline' id='l307' data-llen='6782:6805'>　　卦解之上九有孚于飲酒濡其首以為乾為首乾</span>
+<span class='tline' id='l308' data-llen='6805:6828'>　　五降二為坎中則乾首埋坎酒中矣故曰濡其首</span>
+<span class='tline' id='l309' data-llen='6828:6851'>　　亦甚精確第不知上自恒易以恒三之乾易之在</span>
+<span class='tline' id='l310' data-llen='6851:6874'>　　互坎之上則乾首坎酒即在上爻中得之若從否</span>
+<span class='tline' id='l311' data-llen='6874:6897'>　　五降則宜作六五爻辭非上九辭也推易之精其</span>
+<span class='tline' id='l312' data-llen='6897:6913'>　　絲毫不可爽又如此他可知矣</span>
+<span class='tline' id='l313' data-llen='6913:6940'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-18a' );" name="004-18a" class="pb">[004-18a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l314' data-llen='6940:6968'>　<span class='krp-note'>凡四陽二隂之卦/皆自遯大壯而來</span>遯䷠<span class='krp-note'>大/壯</span>䷡</span>
+<span class='tline' id='l315' data-llen='6968:7006'>　　　又推　<span class='krp-note'>中/孚</span>䷼<span class='krp-note'>大/過</span>䷛<span class='krp-note'>大/畜</span>䷙<span class='krp-note'>无/妄</span>䷘<span class='krp-note'>四易/卦</span></span>
+<span class='tline' id='l316' data-llen='7006:7044'>　需䷄<span class='krp-note'>大壯四五易/中孚三上易</span>又<span class='krp-note'>大畜五上易/大過初四易</span>　相生皆自遯</span>
+<span class='tline' id='l317' data-llen='7044:7067'>　　反對皆從乾下生二隂文公圖皆兩自遯大壯餘</span>
+<span class='tline' id='l318' data-llen='7067:7085'>　　亦各有相同者<span class='krp-note'>後八卦/倣此</span></span>
+<span class='tline' id='l319' data-llen='7085:7122'>　訟䷅<span class='krp-note'>遯二三易易/中孚初四</span>又<span class='krp-note'>无妄初二易/大過三上易</span>　六三食舊德</span>
+<span class='tline' id='l320' data-llen='7122:7145'>　　猶是六爻排連何新何舊惟以三隂從大過之上</span>
+<span class='tline' id='l321' data-llen='7145:7168'>　　兑來今反欲訟上是以我所自來之兑口而還以</span>
+<span class='tline' id='l322' data-llen='7168:7195'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-18b' );" name="004-18b" class="pb">[004-18b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l323' data-llen='7195:7218'>　　訐之所來比之于我有舊德而今反噬没之也則</span>
+<span class='tline' id='l324' data-llen='7218:7228'>　　大過所必推矣</span>
+<span class='tline' id='l325' data-llen='7228:7259'>　離䷝<span class='krp-note'>遯初五易易/大壯二上</span>又<span class='krp-note'>无妄三五易/大畜二四易</span></span>
+<span class='tline' id='l326' data-llen='7259:7294'>　<span class='krp-note'>家/人</span>䷤<span class='krp-note'>遯初四易易/中孚二三</span>又<span class='krp-note'>无妄三四易/大畜二五易</span></span>
+<span class='tline' id='l327' data-llen='7294:7332'>　睽䷥<span class='krp-note'>大壯三上易/中孚四五易</span>又<span class='krp-note'>无妄二五易/大畜三四易</span>　通作自大壯</span>
+<span class='tline' id='l328' data-llen='7332:7355'>　　于彖傳柔進而上行不合此本義所以又自中孚</span>
+<span class='tline' id='l329' data-llen='7355:7378'>　　來此真推易卓見也第柔進二五易則在无妄尤</span>
+<span class='tline' id='l330' data-llen='7378:7401'>　　切耳若爻辭于推易無不曲驗祗此二五之易惟</span>
+<span class='tline' id='l331' data-llen='7401:7428'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-19a' );" name="004-19a" class="pb">[004-19a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l332' data-llen='7428:7451'>　　從无妄來故二曰遇主五曰厥宗一宗一主兩兩</span>
+<span class='tline' id='l333' data-llen='7451:7474'>　　照應宋元後儒不解推易致宗主二字于初三四</span>
+<span class='tline' id='l334' data-llen='7474:7496'>　　上諸爻東推西認無一是處然則推易可忽耶</span>
+<span class='tline' id='l335' data-llen='7496:7533'>　革䷰<span class='krp-note'>遯初上易易/大壯二五</span>又<span class='krp-note'>无妄三上易/大過初二易</span>　虞翻祗作自</span>
+<span class='tline' id='l336' data-llen='7533:7556'>　　遯不合若爻辭革言三就當從遯大壯大過三卦</span>
+<span class='tline' id='l337' data-llen='7556:7578'>　　有乾言者遍驗而得之推易之不應偏執如此</span>
+<span class='tline' id='l338' data-llen='7578:7615'>　鼎䷱<span class='krp-note'>遯二五易易/大壯初上</span>又<span class='krp-note'>大畜初四易/大過五上易</span>　虞翻祗作自</span>
+<span class='tline' id='l339' data-llen='7615:7630'>　　大壯本義又作自巽俱不合</span>
+<span class='tline' id='l340' data-llen='7630:7657'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-19b' );" name="004-19b" class="pb">[004-19b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l341' data-llen='7657:7688'>　巽䷸<span class='krp-note'>遯二四易易/中孚初三</span>又<span class='krp-note'>大畜初五易/大過四上易</span></span>
+<span class='tline' id='l342' data-llen='7688:7720'>　兑䷹<span class='krp-note'>大壯三五易/中孚四上易</span>又<span class='krp-note'>无妄二上易/大過初三易</span></span>
+<span class='tline' id='l343' data-llen='7720:7749'>　<span class='krp-note'>凡五陽一隂之卦/皆自姤夬而來</span>姤䷫夬䷪<span class='krp-note'>二易/卦</span></span>
+<span class='tline' id='l344' data-llen='7749:7782'>　<span class='krp-note'>同/人</span>䷌<span class='krp-note'>姤初二易/夬上二易</span>　通作自姤惟蜀才作自夬文公</span>
+<span class='tline' id='l345' data-llen='7782:7805'>　　圖姤夬兩易與推易同若反對作乾卦下生一隂</span>
+<span class='tline' id='l346' data-llen='7805:7831'>　　與一陽五隂相對按之易文多未驗<span class='krp-note'>後三卦/倣此</span></span>
+<span class='tline' id='l347' data-llen='7831:7860'>　履䷉<span class='krp-note'>姤初三易/夬上三易</span>　虞翻作自訟不合若通作自姤</span>
+<span class='tline' id='l348' data-llen='7860:7883'>　　則九五明云夬履似有意㸃夬字者且上九其旋</span>
+<span class='tline' id='l349' data-llen='7883:7910'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-20a' );" name="004-20a" class="pb">[004-20a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l350' data-llen='7910:7933'>　　從來無解亦正以六三為夬上所易儻能四上乾</span>
+<span class='tline' id='l351' data-llen='7933:7956'>　　還之三剛則夬雖缺一立返純乾故曰元吉此正</span>
+<span class='tline' id='l352' data-llen='7956:7973'>　　夬姤不可偏廢處言變者未省耳</span>
+<span class='tline' id='l353' data-llen='7973:8006'>　<span class='krp-note'>小/畜</span>䷈<span class='krp-note'>姤初四易/夬上四易</span>　虞翻作自需不合至九三夫妻</span>
+<span class='tline' id='l354' data-llen='8006:8029'>　　反目則倍難解説三上皆陽相敵不相應祗一六</span>
+<span class='tline' id='l355' data-llen='8029:8052'>　　四而正應在初與三無涉從來爻辭並無奇偶不</span>
+<span class='tline' id='l356' data-llen='8052:8075'>　　相當隂陽不相值而可以漫易言夫婦者乃審之</span>
+<span class='tline' id='l357' data-llen='8075:8098'>　　推易則夬上一隂原為三配而今易在四雖匹合</span>
+<span class='tline' id='l358' data-llen='8098:8125'><a onclick="displayPageImage('KR1a0127', 'WYG', '004-20b' );" name="004-20b" class="pb">[004-20b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l359' data-llen='8125:8148'>　　之情亦既决絶然猶三四同宮並處人道則于斯</span>
+<span class='tline' id='l360' data-llen='8148:8171'>　　猶不能無夫妻之名而實則四居離中離有目而</span>
+<span class='tline' id='l361' data-llen='8171:8194'>　　究相反也然則夬之不可少有如是者其他推易</span>
+<span class='tline' id='l362' data-llen='8194:8214'>　　諸左驗在各卦諸辭歴厯可指見仲氏易</span>
+<span class='tline' id='l363' data-llen='8214:8234'>　<span class='krp-note'>大/有</span>䷍<span class='krp-note'>姤初五易/夬上五易</span></span>
+<span class='tline' id='l364' data-llen='8234:8237'>　</span>
+<span class='tline' id='l365' data-llen='8237:8240'>　</span>
+<span class='tline' id='l366' data-llen='8240:8249'>　推易始末卷四</span>
 </p>
-<p><br/>
+<p>
 </p>
   </div>

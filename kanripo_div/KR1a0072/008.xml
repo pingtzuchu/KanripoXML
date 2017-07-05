@@ -1,744 +1,744 @@
 <div id="txtcont" class="span9" style="position: relative;">
-    <p><br/>
-<span class='tline' id='l7' data-llen='156:182'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-1a' );" name="008-1a" class="pb">[008-1a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l8' data-llen='182:190'>欽定四庫全書</span><br/>
-<span class='tline' id='l9' data-llen='190:211'>　易纂言外翼卷八　　　　　元　呉澄　撰</span><br/>
-<span class='tline' id='l10' data-llen='211:251'>　　易流第十二<span class='krp-note'>案易流標目原本脫去謹據小序校/補又案序文述易流係皇極經世太</span></span><br/>
-<span class='tline' id='l11' data-llen='251:274'>　　<span class='krp-note'>元潛虛九疇數四種/今惟存邵子書謹識</span></span><br/>
-<span class='tline' id='l12' data-llen='274:286'>　　　邵子皇極經世書</span><br/>
-<span class='tline' id='l13' data-llen='286:298'>元㑹運世嵗月日辰之數</span><br/>
-<span class='tline' id='l14' data-llen='298:303'>乾之乾</span><br/>
-<span class='tline' id='l15' data-llen='303:309'>　　　一</span><br/>
-<span class='tline' id='l16' data-llen='309:335'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-1b' );" name="008-1b" class="pb">[008-1b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l17' data-llen='335:343'>　元之元　一</span><br/>
-<span class='tline' id='l18' data-llen='343:348'>乾之兊</span><br/>
-<span class='tline' id='l19' data-llen='348:354'>　　十二</span><br/>
-<span class='tline' id='l20' data-llen='354:363'>　元之㑹　十二</span><br/>
-<span class='tline' id='l21' data-llen='363:368'>乾之離</span><br/>
-<span class='tline' id='l22' data-llen='368:377'>　　　三百六十</span><br/>
-<span class='tline' id='l23' data-llen='377:388'>　元之運　三百六十</span><br/>
-<span class='tline' id='l24' data-llen='388:393'>乾之震</span><br/>
-<span class='tline' id='l25' data-llen='393:419'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-2a' );" name="008-2a" class="pb">[008-2a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l26' data-llen='419:430'>　　　四千三百二十</span><br/>
-<span class='tline' id='l27' data-llen='430:443'>　元之世　四千三百二十</span><br/>
-<span class='tline' id='l28' data-llen='443:448'>乾之巽</span><br/>
-<span class='tline' id='l29' data-llen='448:460'>　　　十二萬九千六百</span><br/>
-<span class='tline' id='l30' data-llen='460:474'>　元之嵗　十二萬九千六百</span><br/>
-<span class='tline' id='l31' data-llen='474:479'>乾之坎</span><br/>
-<span class='tline' id='l32' data-llen='479:494'>　　　一百五十五萬五千二百</span><br/>
-<span class='tline' id='l33' data-llen='494:511'>　元之月　一百五十五萬五千二百</span><br/>
-<span class='tline' id='l34' data-llen='511:537'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-2b' );" name="008-2b" class="pb">[008-2b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l35' data-llen='537:542'>乾之艮</span><br/>
-<span class='tline' id='l36' data-llen='542:557'>　　　四千六百六十五萬六千</span><br/>
-<span class='tline' id='l37' data-llen='557:574'>　元之日　四千六百六十五萬六千</span><br/>
-<span class='tline' id='l38' data-llen='574:579'>乾之坤</span><br/>
-<span class='tline' id='l39' data-llen='579:596'>　　　五億五千九百八十七萬二千</span><br/>
-<span class='tline' id='l40' data-llen='596:615'>　元之辰　五億五千九百八十七萬二千</span><br/>
-<span class='tline' id='l41' data-llen='615:620'>兊之乾</span><br/>
-<span class='tline' id='l42' data-llen='620:639'>　　　一百六十七億九千六百一十六萬</span><br/>
-<span class='tline' id='l43' data-llen='639:665'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-3a' );" name="008-3a" class="pb">[008-3a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l44' data-llen='665:674'>　㑹之元　十二</span><br/>
-<span class='tline' id='l45' data-llen='674:679'>兊之兊</span><br/>
-<span class='tline' id='l46' data-llen='679:698'>　　　二千一十五億五千三百九十二萬</span><br/>
-<span class='tline' id='l47' data-llen='698:710'>　㑹之㑹　一百四十四</span><br/>
-<span class='tline' id='l48' data-llen='710:715'>兊之離</span><br/>
-<span class='tline' id='l49' data-llen='715:735'>　　　六萬四百六十六億一千七百六十萬</span><br/>
-<span class='tline' id='l50' data-llen='735:748'>　㑹之運　四千三百二十</span><br/>
-<span class='tline' id='l51' data-llen='748:753'>兊之震</span><br/>
-<span class='tline' id='l52' data-llen='753:779'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-3b' );" name="008-3b" class="pb">[008-3b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l53' data-llen='779:802'>　　　七十二萬五千五百九十四億一千一百二十</span><br/>
-<span class='tline' id='l54' data-llen='802:808'>　　　萬</span><br/>
-<span class='tline' id='l55' data-llen='808:823'>　會之世　五萬一千八百四十</span><br/>
-<span class='tline' id='l56' data-llen='823:828'>兊之巽</span><br/>
-<span class='tline' id='l57' data-llen='828:851'>　　　二千一百七十六萬七千八百二十三億三千</span><br/>
-<span class='tline' id='l58' data-llen='851:859'>　　　六百萬</span><br/>
-<span class='tline' id='l59' data-llen='859:876'>　㑹之嵗　一百一十五萬五千二百</span><br/>
-<span class='tline' id='l60' data-llen='876:881'>兊之坎</span><br/>
-<span class='tline' id='l61' data-llen='881:907'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-4a' );" name="008-4a" class="pb">[008-4a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l62' data-llen='907:930'>　　　二兆六千一百二十一萬三千八百八十億三</span><br/>
-<span class='tline' id='l63' data-llen='930:939'>　　　千二百萬</span><br/>
-<span class='tline' id='l64' data-llen='939:958'>　㑹之月　一千八百六十六萬二千四百</span><br/>
-<span class='tline' id='l65' data-llen='958:963'>兊之艮</span><br/>
-<span class='tline' id='l66' data-llen='963:986'>　　　七十八兆三千六百四十一萬六千四百九億</span><br/>
-<span class='tline' id='l67' data-llen='986:994'>　　　六千萬</span><br/>
-<span class='tline' id='l68' data-llen='994:1013'>　㑹之日　五億五千九百八十七萬二千</span><br/>
-<span class='tline' id='l69' data-llen='1013:1018'>兊之坤</span><br/>
-<span class='tline' id='l70' data-llen='1018:1044'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-4b' );" name="008-4b" class="pb">[008-4b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l71' data-llen='1044:1067'>　　　九百四十兆三千六百九十九萬六千九百一</span><br/>
-<span class='tline' id='l72' data-llen='1067:1078'>　　　十五億二千萬</span><br/>
-<span class='tline' id='l73' data-llen='1078:1099'>　㑹之辰　六十七億一千八百四十六萬四千</span><br/>
-<span class='tline' id='l74' data-llen='1099:1104'>離之乾</span><br/>
-<span class='tline' id='l75' data-llen='1104:1127'>　　　二萬八千二百一十一兆九百九十萬七千四</span><br/>
-<span class='tline' id='l76' data-llen='1127:1137'>　　　百五十六億</span><br/>
-<span class='tline' id='l77' data-llen='1137:1148'>　運之元　三百六十</span><br/>
-<span class='tline' id='l78' data-llen='1148:1153'>離之兊</span><br/>
-<span class='tline' id='l79' data-llen='1153:1179'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-5a' );" name="008-5a" class="pb">[008-5a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l80' data-llen='1179:1202'>　　　三十三萬八千五百三十三兆一千八百八十</span><br/>
-<span class='tline' id='l81' data-llen='1202:1217'>　　　八萬九千四百七十二億</span><br/>
-<span class='tline' id='l82' data-llen='1217:1230'>　運之㑹　四千三百二十</span><br/>
-<span class='tline' id='l83' data-llen='1230:1235'>離之離</span><br/>
-<span class='tline' id='l84' data-llen='1235:1258'>　　　一千一十五萬五千九百九十五兆六千六百</span><br/>
-<span class='tline' id='l85' data-llen='1258:1274'>　　　六十八萬四千一百六十億</span><br/>
-<span class='tline' id='l86' data-llen='1274:1288'>　運之運　十二萬九千六百</span><br/>
-<span class='tline' id='l87' data-llen='1288:1293'>離之震</span><br/>
-<span class='tline' id='l88' data-llen='1293:1319'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-5b' );" name="008-5b" class="pb">[008-5b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l89' data-llen='1319:1342'>　　　一京二千一百八十七萬一千九百四十八兆</span><br/>
-<span class='tline' id='l90' data-llen='1342:1357'>　　　二十萬九千九百二十億</span><br/>
-<span class='tline' id='l91' data-llen='1357:1374'>　運之世　一百五十五萬五千二百</span><br/>
-<span class='tline' id='l92' data-llen='1374:1379'>離之巽</span><br/>
-<span class='tline' id='l93' data-llen='1379:1402'>　　　三十六京五千六百一十五萬八千四百四十</span><br/>
-<span class='tline' id='l94' data-llen='1402:1419'>　　　兆六百二十九萬七千六百億</span><br/>
-<span class='tline' id='l95' data-llen='1419:1436'>　運之嵗　四千六百六十五萬六千</span><br/>
-<span class='tline' id='l96' data-llen='1436:1441'>離之坎</span><br/>
-<span class='tline' id='l97' data-llen='1441:1467'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-6a' );" name="008-6a" class="pb">[008-6a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l98' data-llen='1467:1490'>　　　四百三十八京七千三百九十萬一千二百八</span><br/>
-<span class='tline' id='l99' data-llen='1490:1510'>　　　十兆七千五百五十七萬一千二百億</span><br/>
-<span class='tline' id='l100' data-llen='1510:1529'>　運之月　五億五千九百八十七萬二千</span><br/>
-<span class='tline' id='l101' data-llen='1529:1534'>離之艮</span><br/>
-<span class='tline' id='l102' data-llen='1534:1557'>　　　一萬三千一百六十二京一千七百三萬八千</span><br/>
-<span class='tline' id='l103' data-llen='1557:1579'>　　　四百二十二兆六千七百一十三萬六千億</span><br/>
-<span class='tline' id='l104' data-llen='1579:1600'>　運之日　一百六十七億九千六百一十六萬</span><br/>
-<span class='tline' id='l105' data-llen='1600:1605'>離之坤</span><br/>
-<span class='tline' id='l106' data-llen='1605:1631'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-6b' );" name="008-6b" class="pb">[008-6b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l107' data-llen='1631:1654'>　　　一十五萬七千九百四十六京四百四十六萬</span><br/>
-<span class='tline' id='l108' data-llen='1654:1674'>　　　一千七十二兆五百六十三萬二千億</span><br/>
-<span class='tline' id='l109' data-llen='1674:1695'>　運之辰　二千一十五億五千三百九十二萬</span><br/>
-<span class='tline' id='l110' data-llen='1695:1700'>震之乾</span><br/>
-<span class='tline' id='l111' data-llen='1700:1723'>　　　四百七十三萬八千三百八十一京三千三百</span><br/>
-<span class='tline' id='l112' data-llen='1723:1746'>　　　八十三萬二千一百六十一兆六千八百九十</span><br/>
-<span class='tline' id='l113' data-llen='1746:1754'>　　　六萬億</span><br/>
-<span class='tline' id='l114' data-llen='1754:1767'>　世之元　四千三百二十</span><br/>
-<span class='tline' id='l115' data-llen='1767:1793'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-7a' );" name="008-7a" class="pb">[008-7a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l116' data-llen='1793:1798'>震之兊</span><br/>
-<span class='tline' id='l117' data-llen='1798:1821'>　　　五千六百八十六萬五百七十六京五百九十</span><br/>
-<span class='tline' id='l118' data-llen='1821:1844'>　　　八萬五千九百四十兆二千七百五十二萬億</span><br/>
-<span class='tline' id='l119' data-llen='1844:1859'>　世之會　五萬一千八百四十</span><br/>
-<span class='tline' id='l120' data-llen='1859:1864'>震之離</span><br/>
-<span class='tline' id='l121' data-llen='1864:1887'>　　　一十七垓五百八十一萬七千二百八十一京</span><br/>
-<span class='tline' id='l122' data-llen='1887:1910'>　　　七千九百五十七萬八千二百八兆二千五百</span><br/>
-<span class='tline' id='l123' data-llen='1910:1919'>　　　六十萬億</span><br/>
-<span class='tline' id='l124' data-llen='1919:1945'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-7b' );" name="008-7b" class="pb">[008-7b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l125' data-llen='1945:1962'>　世之運　一百五十五萬五千二百</span><br/>
-<span class='tline' id='l126' data-llen='1962:1967'>震之震</span><br/>
-<span class='tline' id='l127' data-llen='1967:1990'>　　　二百四垓六千九百八十萬七千三百八十一</span><br/>
-<span class='tline' id='l128' data-llen='1990:2013'>　　　京五千四百九十三萬八千四百九十九兆七</span><br/>
-<span class='tline' id='l129' data-llen='2013:2023'>　　　百二十萬億</span><br/>
-<span class='tline' id='l130' data-llen='2023:2042'>　世之世　一千八百六十六萬二千四百</span><br/>
-<span class='tline' id='l131' data-llen='2042:2047'>震之巽</span><br/>
-<span class='tline' id='l132' data-llen='2047:2070'>　　　六千一百四十垓九千四百二十二萬一千四</span><br/>
-<span class='tline' id='l133' data-llen='2070:2096'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-8a' );" name="008-8a" class="pb">[008-8a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l134' data-llen='2096:2119'>　　　百四十六京四千八百一十五萬四千九百七</span><br/>
-<span class='tline' id='l135' data-llen='2119:2133'>　　　十二兆一千六百萬億</span><br/>
-<span class='tline' id='l136' data-llen='2133:2152'>　世之嵗　五億五千九百八十七萬二千</span><br/>
-<span class='tline' id='l137' data-llen='2152:2157'>震之坎</span><br/>
-<span class='tline' id='l138' data-llen='2157:2180'>　　　七萬三千六百九十一垓三千六十五萬七千</span><br/>
-<span class='tline' id='l139' data-llen='2180:2203'>　　　三百五十七京七千七百八十五萬九千六百</span><br/>
-<span class='tline' id='l140' data-llen='2203:2218'>　　　六十五兆九千二百萬億</span><br/>
-<span class='tline' id='l141' data-llen='2218:2239'>　世之月　六十七億一千八百四十六萬四千</span><br/>
-<span class='tline' id='l142' data-llen='2239:2265'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-8b' );" name="008-8b" class="pb">[008-8b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l143' data-llen='2265:2270'>震之艮</span><br/>
-<span class='tline' id='l144' data-llen='2270:2293'>　　　二百二十一萬七百三十一垓一千九百七十</span><br/>
-<span class='tline' id='l145' data-llen='2293:2316'>　　　二萬七百三十三京三千五百七十八萬九千</span><br/>
-<span class='tline' id='l146' data-llen='2316:2331'>　　　九百七十七兆六千萬億</span><br/>
-<span class='tline' id='l147' data-llen='2331:2352'>　世之日　二千一十五億五千三百九十二萬</span><br/>
-<span class='tline' id='l148' data-llen='2352:2357'>震之坤</span><br/>
-<span class='tline' id='l149' data-llen='2357:2380'>　　　二千六百五十二萬八千八百七十垓三千六</span><br/>
-<span class='tline' id='l150' data-llen='2380:2403'>　　　百六十四萬八千八百京二千九百四十七萬</span><br/>
-<span class='tline' id='l151' data-llen='2403:2429'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-9a' );" name="008-9a" class="pb">[008-9a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l152' data-llen='2429:2446'>　　　九千七百三十一兆二千萬億</span><br/>
-<span class='tline' id='l153' data-llen='2446:2469'>　世之辰　二萬四千一百八十六億四千七百四萬</span><br/>
-<span class='tline' id='l154' data-llen='2469:2474'>巽之乾</span><br/>
-<span class='tline' id='l155' data-llen='2474:2497'>　　　七秭九千五百八十六萬六千一百一十垓九</span><br/>
-<span class='tline' id='l156' data-llen='2497:2520'>　　　千九百四十六萬四千八京八千四百三十九</span><br/>
-<span class='tline' id='l157' data-llen='2520:2534'>　　　萬一千九百三十六兆</span><br/>
-<span class='tline' id='l158' data-llen='2534:2548'>　嵗之元　十二萬九千六百</span><br/>
-<span class='tline' id='l159' data-llen='2548:2553'>巽之兊</span><br/>
-<span class='tline' id='l160' data-llen='2553:2579'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-9b' );" name="008-9b" class="pb">[008-9b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l161' data-llen='2579:2602'>　　　九十五秭五千三十九萬三千三百三十一垓</span><br/>
-<span class='tline' id='l162' data-llen='2602:2625'>　　　九千三百五十六萬八千一百六京一千二百</span><br/>
-<span class='tline' id='l163' data-llen='2625:2641'>　　　七十萬三千二百三十二兆</span><br/>
-<span class='tline' id='l164' data-llen='2641:2658'>　嵗之㑹　一百五十五萬五千二百</span><br/>
-<span class='tline' id='l165' data-llen='2658:2663'>巽之離</span><br/>
-<span class='tline' id='l166' data-llen='2663:2686'>　　　二千八百六十五秭一千一百七十九萬九千</span><br/>
-<span class='tline' id='l167' data-llen='2686:2709'>　　　九百五十八垓七百四萬三千一百八十三京</span><br/>
-<span class='tline' id='l168' data-llen='2709:2727'>　　　八千一百九萬六千九百六十兆</span><br/>
-<span class='tline' id='l169' data-llen='2727:2754'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-10a' );" name="008-10a" class="pb">[008-10a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l170' data-llen='2754:2771'>　嵗之運　四千六百六十五萬六千</span><br/>
-<span class='tline' id='l171' data-llen='2771:2776'>巽之震</span><br/>
-<span class='tline' id='l172' data-llen='2776:2799'>　　　三萬四千三百八十一秭四千一百五十九萬</span><br/>
-<span class='tline' id='l173' data-llen='2799:2822'>　　　九千四百九十六垓八千四百五十一萬八千</span><br/>
-<span class='tline' id='l174' data-llen='2822:2845'>　　　二百五京七千三百一十六萬三千五百二十</span><br/>
-<span class='tline' id='l175' data-llen='2845:2851'>　　　兆</span><br/>
-<span class='tline' id='l176' data-llen='2851:2870'>　嵗之世　五億五千九百八十七萬二千</span><br/>
-<span class='tline' id='l177' data-llen='2870:2875'>巽之巽</span><br/>
-<span class='tline' id='l178' data-llen='2875:2902'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-10b' );" name="008-10b" class="pb">[008-10b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l179' data-llen='2902:2925'>　　　一百三萬一千四百四十二秭四千七百九十</span><br/>
-<span class='tline' id='l180' data-llen='2925:2948'>　　　八萬四千九百五垓三千五百五十四萬六千</span><br/>
-<span class='tline' id='l181' data-llen='2948:2971'>　　　一百七十一京九千四百九十萬五千六百兆</span><br/>
-<span class='tline' id='l182' data-llen='2971:2992'>　嵗之嵗　一百六十七億九千六百一十六萬</span><br/>
-<span class='tline' id='l183' data-llen='2992:2997'>巽之坎</span><br/>
-<span class='tline' id='l184' data-llen='2997:3020'>　　　一千二百三十七萬七千三百九秭七千五百</span><br/>
-<span class='tline' id='l185' data-llen='3020:3043'>　　　八十一萬八千八百六十四垓二千六百五十</span><br/>
-<span class='tline' id='l186' data-llen='3043:3066'>　　　五萬四千六十京三千八百八十六萬七千二</span><br/>
-<span class='tline' id='l187' data-llen='3066:3093'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-11a' );" name="008-11a" class="pb">[008-11a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l188' data-llen='3093:3100'>　　　百兆</span><br/>
-<span class='tline' id='l189' data-llen='3100:3121'>　嵗之月　二千一十五億五千三百九十二萬</span><br/>
-<span class='tline' id='l190' data-llen='3121:3126'>巽之艮</span><br/>
-<span class='tline' id='l191' data-llen='3126:3149'>　　　三壤七千一百三十一萬九千二百九十二秭</span><br/>
-<span class='tline' id='l192' data-llen='3149:3172'>　　　七千四百五十六萬五千九百二十七垓九千</span><br/>
-<span class='tline' id='l193' data-llen='3172:3195'>　　　六百六十二萬一千九百一京六千六百一萬</span><br/>
-<span class='tline' id='l194' data-llen='3195:3203'>　　　六千兆</span><br/>
-<span class='tline' id='l195' data-llen='3203:3225'>　嵗之日　六萬四百六十六億一千七百六十萬</span><br/>
-<span class='tline' id='l196' data-llen='3225:3252'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-11b' );" name="008-11b" class="pb">[008-11b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l197' data-llen='3252:3257'>巽之坤</span><br/>
-<span class='tline' id='l198' data-llen='3257:3280'>　　　四十四壤五千五百八十三萬一千五百一十</span><br/>
-<span class='tline' id='l199' data-llen='3280:3303'>　　　二秭九千四百七十九萬一千一百三十五垓</span><br/>
-<span class='tline' id='l200' data-llen='3303:3326'>　　　五千九百四十六萬二千八百一十九京九千</span><br/>
-<span class='tline' id='l201' data-llen='3326:3340'>　　　二百一十九萬二千兆</span><br/>
-<span class='tline' id='l202' data-llen='3340:3363'>　嵗之辰　七十二萬五千五百九十四億一千一百</span><br/>
-<span class='tline' id='l203' data-llen='3363:3371'>　　　二十萬</span><br/>
-<span class='tline' id='l204' data-llen='3371:3376'>坎之乾</span><br/>
-<span class='tline' id='l205' data-llen='3376:3403'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-12a' );" name="008-12a" class="pb">[008-12a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l206' data-llen='3403:3426'>　　　一千三百三十六壤七千四百九十四萬五千</span><br/>
-<span class='tline' id='l207' data-llen='3426:3449'>　　　三百八十八秭四千三百七十三萬四千六十</span><br/>
-<span class='tline' id='l208' data-llen='3449:3472'>　　　七垓八千三百八十八萬四千五百九十七京</span><br/>
-<span class='tline' id='l209' data-llen='3472:3486'>　　　六千五百七十六萬兆</span><br/>
-<span class='tline' id='l210' data-llen='3486:3503'>　月之元　一百五十五萬五千二百</span><br/>
-<span class='tline' id='l211' data-llen='3503:3508'>坎之兊</span><br/>
-<span class='tline' id='l212' data-llen='3508:3531'>　　　一萬六千四十壤九千九百三十四萬四千六</span><br/>
-<span class='tline' id='l213' data-llen='3531:3554'>　　　百六十一秭二千四百八十萬八千八百一十</span><br/>
-<span class='tline' id='l214' data-llen='3554:3581'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-12b' );" name="008-12b" class="pb">[008-12b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l215' data-llen='3581:3604'>　　　四垓六百六十一萬五千一百七十一京八千</span><br/>
-<span class='tline' id='l216' data-llen='3604:3616'>　　　九百一十二萬兆</span><br/>
-<span class='tline' id='l217' data-llen='3616:3635'>　月之會　一千八百六十六萬二千四百</span><br/>
-<span class='tline' id='l218' data-llen='3635:3640'>坎之離</span><br/>
-<span class='tline' id='l219' data-llen='3640:3663'>　　　四十八萬一千二百二十九壤八千三十三萬</span><br/>
-<span class='tline' id='l220' data-llen='3663:3686'>　　　九千八百三十七秭四千四百二十六萬四千</span><br/>
-<span class='tline' id='l221' data-llen='3686:3709'>　　　四百二十一垓九千八百四十五萬五千一百</span><br/>
-<span class='tline' id='l222' data-llen='3709:3726'>　　　五十六京七千三百六十萬兆</span><br/>
-<span class='tline' id='l223' data-llen='3726:3753'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-13a' );" name="008-13a" class="pb">[008-13a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l224' data-llen='3753:3772'>　月之運　五億五千九百八十七萬二千</span><br/>
-<span class='tline' id='l225' data-llen='3772:3777'>坎之震</span><br/>
-<span class='tline' id='l226' data-llen='3777:3800'>　　　五百七十七萬四千七百五十七壤六千四百</span><br/>
-<span class='tline' id='l227' data-llen='3800:3823'>　　　七萬八千四十九秭三千一百一十七萬三千</span><br/>
-<span class='tline' id='l228' data-llen='3823:3846'>　　　六十三垓八千一百四十六萬一千八百八十</span><br/>
-<span class='tline' id='l229' data-llen='3846:3860'>　　　京八千三百二十萬兆</span><br/>
-<span class='tline' id='l230' data-llen='3860:3881'>　月之世　六十七億一千八百四十六萬四千</span><br/>
-<span class='tline' id='l231' data-llen='3881:3886'>坎之巽</span><br/>
-<span class='tline' id='l232' data-llen='3886:3913'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-13b' );" name="008-13b" class="pb">[008-13b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l233' data-llen='3913:3936'>　　　一溝七千三百二十四萬二千七百二十九壤</span><br/>
-<span class='tline' id='l234' data-llen='3936:3959'>　　　二千二百三十四萬一千四百七十九秭三千</span><br/>
-<span class='tline' id='l235' data-llen='3959:3982'>　　　五百一十九萬一千九百一十四垓四千三百</span><br/>
-<span class='tline' id='l236' data-llen='3982:4005'>　　　八十五萬六千四百二十四京九千六百萬兆</span><br/>
-<span class='tline' id='l237' data-llen='4005:4026'>　月之嵗　二千一十五億五千三百九十二萬</span><br/>
-<span class='tline' id='l238' data-llen='4026:4031'>坎之坎</span><br/>
-<span class='tline' id='l239' data-llen='4031:4054'>　　　二十溝七千八百九十一萬二千七百五十壤</span><br/>
-<span class='tline' id='l240' data-llen='4054:4077'>　　　六千八百九萬七千七百五十二秭二千二百</span><br/>
-<span class='tline' id='l241' data-llen='4077:4104'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-14a' );" name="008-14a" class="pb">[008-14a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l242' data-llen='4104:4127'>　　　三十萬二千九百七十三垓二千六百二十七</span><br/>
-<span class='tline' id='l243' data-llen='4127:4145'>　　　萬七千九十九京五千二百萬兆</span><br/>
-<span class='tline' id='l244' data-llen='4145:4168'>　月之月　二萬四千一百八十六億四千七百四萬</span><br/>
-<span class='tline' id='l245' data-llen='4168:4173'>坎之艮</span><br/>
-<span class='tline' id='l246' data-llen='4173:4196'>　　　六百二十三溝六千七百三十八萬二千五百</span><br/>
-<span class='tline' id='l247' data-llen='4196:4219'>　　　二十壤四千二百九十三萬二千五百六十六</span><br/>
-<span class='tline' id='l248' data-llen='4219:4242'>　　　秭六千九百八萬九千一百九十七垓八千八</span><br/>
-<span class='tline' id='l249' data-llen='4242:4264'>　　　百三十一萬二千九百八十五京六千萬兆</span><br/>
-<span class='tline' id='l250' data-llen='4264:4291'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-14b' );" name="008-14b" class="pb">[008-14b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l251' data-llen='4291:4314'>　月之日　七十二萬五千五百九十四億一千一百</span><br/>
-<span class='tline' id='l252' data-llen='4314:4322'>　　　二十萬</span><br/>
-<span class='tline' id='l253' data-llen='4322:4327'>坎之坤</span><br/>
-<span class='tline' id='l254' data-llen='4327:4350'>　　　七千四百八十四溝八百五十九萬二百四十</span><br/>
-<span class='tline' id='l255' data-llen='4350:4373'>　　　五壤一千五百一十九萬八百秭二千九百七</span><br/>
-<span class='tline' id='l256' data-llen='4373:4396'>　　　萬三百七十四垓五千九百七十五萬五千八</span><br/>
-<span class='tline' id='l257' data-llen='4396:4410'>　　　百二十七京二千萬兆</span><br/>
-<span class='tline' id='l258' data-llen='4410:4433'>　月之辰　八百七十萬七千一百二十九億三千四</span><br/>
-<span class='tline' id='l259' data-llen='4433:4460'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-15a' );" name="008-15a" class="pb">[008-15a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l260' data-llen='4460:4469'>　　　百四十萬</span><br/>
-<span class='tline' id='l261' data-llen='4469:4474'>艮之乾</span><br/>
-<span class='tline' id='l262' data-llen='4474:4497'>　　　二十二萬四千五百二十二溝五千七百七十</span><br/>
-<span class='tline' id='l263' data-llen='4497:4520'>　　　萬七千三百五十四壤五千五百七十二萬四</span><br/>
-<span class='tline' id='l264' data-llen='4520:4543'>　　　千八秭七千二百一十一萬一千二百三十七</span><br/>
-<span class='tline' id='l265' data-llen='4543:4565'>　　　垓九千二百六十七萬四千八百一十六京</span><br/>
-<span class='tline' id='l266' data-llen='4565:4582'>　日之元　四千六百六十五萬六千</span><br/>
-<span class='tline' id='l267' data-llen='4582:4587'>艮之兊</span><br/>
-<span class='tline' id='l268' data-llen='4587:4614'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-15b' );" name="008-15b" class="pb">[008-15b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l269' data-llen='4614:4637'>　　　二百六十九萬四千二百七十溝九千二百四</span><br/>
-<span class='tline' id='l270' data-llen='4637:4660'>　　　十八萬八千二百五十四壤六千八百六十八</span><br/>
-<span class='tline' id='l271' data-llen='4660:4683'>　　　萬八千一百四秭六千五百三十三萬四千八</span><br/>
-<span class='tline' id='l272' data-llen='4683:4706'>　　　百五十五垓一千二百九萬七千七百九十二</span><br/>
-<span class='tline' id='l273' data-llen='4706:4712'>　　　京</span><br/>
-<span class='tline' id='l274' data-llen='4712:4731'>　日之會　五億五千九百八十七萬二千</span><br/>
-<span class='tline' id='l275' data-llen='4731:4736'>艮之離</span><br/>
-<span class='tline' id='l276' data-llen='4736:4759'>　　　八千八十二萬八千一百二十七溝七千四百</span><br/>
-<span class='tline' id='l277' data-llen='4759:4786'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-16a' );" name="008-16a" class="pb">[008-16a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l278' data-llen='4786:4809'>　　　六十四萬七千六百四十壤六千六十四萬三</span><br/>
-<span class='tline' id='l279' data-llen='4809:4832'>　　　千一百三十九秭六千四萬五千六百五十三</span><br/>
-<span class='tline' id='l280' data-llen='4832:4853'>　　　垓六千二百九十三萬三千七百六十京</span><br/>
-<span class='tline' id='l281' data-llen='4853:4874'>　日之運　一百六十七億九千六百一十六萬</span><br/>
-<span class='tline' id='l282' data-llen='4874:4879'>艮之震</span><br/>
-<span class='tline' id='l283' data-llen='4879:4902'>　　　九澗六千九百九十三萬七千五百三十二溝</span><br/>
-<span class='tline' id='l284' data-llen='4902:4925'>　　　九千五百七十七萬一千六百八十七壤二千</span><br/>
-<span class='tline' id='l285' data-llen='4925:4948'>　　　七百七十一萬七千六百七十五秭二千五十</span><br/>
-<span class='tline' id='l286' data-llen='4948:4975'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-16b' );" name="008-16b" class="pb">[008-16b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l287' data-llen='4975:4998'>　　　四萬七千八百四十三垓五千五百二十萬五</span><br/>
-<span class='tline' id='l288' data-llen='4998:5009'>　　　千一百二十京</span><br/>
-<span class='tline' id='l289' data-llen='5009:5030'>　日之世　二千一十五億五千三百九十二萬</span><br/>
-<span class='tline' id='l290' data-llen='5030:5035'>艮之巽</span><br/>
-<span class='tline' id='l291' data-llen='5035:5058'>　　　二百九十澗九千八百一十二萬五千九百八</span><br/>
-<span class='tline' id='l292' data-llen='5058:5081'>　　　十八溝七千三百一十五萬六百一十八壤三</span><br/>
-<span class='tline' id='l293' data-llen='5081:5104'>　　　千一百五十三萬二百五十六秭一千六百四</span><br/>
-<span class='tline' id='l294' data-llen='5104:5127'>　　　十三萬五千三百六垓五千六百一十五萬三</span><br/>
-<span class='tline' id='l295' data-llen='5127:5154'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-17a' );" name="008-17a" class="pb">[008-17a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l296' data-llen='5154:5163'>　　　千六百京</span><br/>
-<span class='tline' id='l297' data-llen='5163:5185'>　日之嵗　六萬四百六十六億一千七百六十萬</span><br/>
-<span class='tline' id='l298' data-llen='5185:5190'>艮之坎</span><br/>
-<span class='tline' id='l299' data-llen='5190:5213'>　　　三千四百九十一澗七千七百五十一萬一千</span><br/>
-<span class='tline' id='l300' data-llen='5213:5236'>　　　八百六十四溝七千七百八十萬七千四百一</span><br/>
-<span class='tline' id='l301' data-llen='5236:5259'>　　　十九壤七千八百三十六萬三千七十三秭九</span><br/>
-<span class='tline' id='l302' data-llen='5259:5282'>　　　千七百二十二萬三千六百七十八垓七千三</span><br/>
-<span class='tline' id='l303' data-llen='5282:5297'>　　　百八十四萬三千二百京</span><br/>
-<span class='tline' id='l304' data-llen='5297:5324'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-17b' );" name="008-17b" class="pb">[008-17b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l305' data-llen='5324:5347'>　日之月　七十二萬五千五百九十四億一千一百</span><br/>
-<span class='tline' id='l306' data-llen='5347:5355'>　　　二十萬</span><br/>
-<span class='tline' id='l307' data-llen='5355:5360'>艮之艮</span><br/>
-<span class='tline' id='l308' data-llen='5360:5383'>　　　一十萬四千七百五十三澗二千五百三十五</span><br/>
-<span class='tline' id='l309' data-llen='5383:5406'>　　　萬五千九百四十三溝三千四百二十二萬二</span><br/>
-<span class='tline' id='l310' data-llen='5406:5429'>　　　千五百九十三壤五千八十九萬二千二百一</span><br/>
-<span class='tline' id='l311' data-llen='5429:5452'>　　　十九秭一千六百七十一萬三百六十二垓一</span><br/>
-<span class='tline' id='l312' data-llen='5452:5467'>　　　千五百二十九萬六千京</span><br/>
-<span class='tline' id='l313' data-llen='5467:5494'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-18a' );" name="008-18a" class="pb">[008-18a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l314' data-llen='5494:5517'>　日之日　二千一百七十六萬七千八百二十三億</span><br/>
-<span class='tline' id='l315' data-llen='5517:5527'>　　　三千六百萬</span><br/>
-<span class='tline' id='l316' data-llen='5527:5532'>艮之坤</span><br/>
-<span class='tline' id='l317' data-llen='5532:5555'>　　　一百二十五萬七千三十九澗四百二十七萬</span><br/>
-<span class='tline' id='l318' data-llen='5555:5578'>　　　一千三百二十溝一千六十七萬一千一百二</span><br/>
-<span class='tline' id='l319' data-llen='5578:5601'>　　　十二壤一千七十萬六千六百三十秭五十二</span><br/>
-<span class='tline' id='l320' data-llen='5601:5624'>　　　萬四千三百四十五垓八千三百五十五萬二</span><br/>
-<span class='tline' id='l321' data-llen='5624:5631'>　　　千京</span><br/>
-<span class='tline' id='l322' data-llen='5631:5658'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-18b' );" name="008-18b" class="pb">[008-18b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l323' data-llen='5658:5681'>　日之辰　二兆六千一百二十一萬三千八百八十</span><br/>
-<span class='tline' id='l324' data-llen='5681:5692'>　　　億三千二百萬</span><br/>
-<span class='tline' id='l325' data-llen='5692:5697'>坤之乾</span><br/>
-<span class='tline' id='l326' data-llen='5697:5720'>　　　三千七百七十一萬一千一百七十一澗二千</span><br/>
-<span class='tline' id='l327' data-llen='5720:5743'>　　　八百一十三萬九千六百三溝二千一十三萬</span><br/>
-<span class='tline' id='l328' data-llen='5743:5766'>　　　三千六百六十三壤二千一百一十九萬八千</span><br/>
-<span class='tline' id='l329' data-llen='5766:5789'>　　　九百秭一千五百七十三萬三百七十五垓六</span><br/>
-<span class='tline' id='l330' data-llen='5789:5800'>　　　百五十六萬京</span><br/>
-<span class='tline' id='l331' data-llen='5800:5827'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-19a' );" name="008-19a" class="pb">[008-19a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l332' data-llen='5827:5846'>　辰之元　五億五千九百八十七萬二千</span><br/>
-<span class='tline' id='l333' data-llen='5846:5851'>坤之兊</span><br/>
-<span class='tline' id='l334' data-llen='5851:5874'>　　　四正五千二百五十三萬四千五十五澗三千</span><br/>
-<span class='tline' id='l335' data-llen='5874:5897'>　　　七百六十七萬五千二百三十八溝四千一百</span><br/>
-<span class='tline' id='l336' data-llen='5897:5920'>　　　六十萬三千九百五十八壤五千四百三十八</span><br/>
-<span class='tline' id='l337' data-llen='5920:5943'>　　　萬六千八百一秭八千八百七十六萬四千五</span><br/>
-<span class='tline' id='l338' data-llen='5943:5959'>　　　百垓七千八百七十二萬京</span><br/>
-<span class='tline' id='l339' data-llen='5959:5980'>　辰之㑹　六十七億一千八百四十六萬四千</span><br/>
-<span class='tline' id='l340' data-llen='5980:6007'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-19b' );" name="008-19b" class="pb">[008-19b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l341' data-llen='6007:6012'>坤之離</span><br/>
-<span class='tline' id='l342' data-llen='6012:6035'>　　　一百三十五正七千六百二萬一千六百六十</span><br/>
-<span class='tline' id='l343' data-llen='6035:6058'>　　　一澗三千二十五萬七千一百五十二溝四千</span><br/>
-<span class='tline' id='l344' data-llen='6058:6081'>　　　八百一十一萬八千七百五十六壤三千一百</span><br/>
-<span class='tline' id='l345' data-llen='6081:6104'>　　　六十萬四千五十六秭六千二百九十三萬五</span><br/>
-<span class='tline' id='l346' data-llen='6104:6122'>　　　千二十三垓六千一百六十萬京</span><br/>
-<span class='tline' id='l347' data-llen='6122:6143'>　辰之運　二千一十五億五千三百九十二萬</span><br/>
-<span class='tline' id='l348' data-llen='6143:6148'>坤之震</span><br/>
-<span class='tline' id='l349' data-llen='6148:6175'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-20a' );" name="008-20a" class="pb">[008-20a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l350' data-llen='6175:6198'>　　　一千六百二十九正一千二百二十五萬九千</span><br/>
-<span class='tline' id='l351' data-llen='6198:6221'>　　　九百三十五澗六千三百八萬五千八百二十</span><br/>
-<span class='tline' id='l352' data-llen='6221:6244'>　　　九溝七千七百四十二萬五千七十五壤七千</span><br/>
-<span class='tline' id='l353' data-llen='6244:6267'>　　　九百二十四萬八千六百七十九秭五千五百</span><br/>
-<span class='tline' id='l354' data-llen='6267:6290'>　　　二十二萬二百八十三垓三千九百二十萬京</span><br/>
-<span class='tline' id='l355' data-llen='6290:6313'>　辰之世　二萬四千一百八十六億四千七百四萬</span><br/>
-<span class='tline' id='l356' data-llen='6313:6318'>坤之巽</span><br/>
-<span class='tline' id='l357' data-llen='6318:6341'>　　　四萬八千八百七十三正六千七百七十九萬</span><br/>
-<span class='tline' id='l358' data-llen='6341:6368'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-20b' );" name="008-20b" class="pb">[008-20b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l359' data-llen='6368:6391'>　　　八千六十八澗九千二百五十七萬四千八百</span><br/>
-<span class='tline' id='l360' data-llen='6391:6414'>　　　九十三溝二千二百七十五萬二千二百七十</span><br/>
-<span class='tline' id='l361' data-llen='6414:6437'>　　　三壤七千七百四十六萬三百八十六秭五千</span><br/>
-<span class='tline' id='l362' data-llen='6437:6459'>　　　六百六十萬八千五百一垓七千六百萬京</span><br/>
-<span class='tline' id='l363' data-llen='6459:6482'>　辰之嵗　七十二萬五千五百九十四億一千一百</span><br/>
-<span class='tline' id='l364' data-llen='6482:6490'>　　　二十萬</span><br/>
-<span class='tline' id='l365' data-llen='6490:6495'>坤之坎</span><br/>
-<span class='tline' id='l366' data-llen='6495:6518'>　　　五十八萬六千四百八十四正一千三百五十</span><br/>
-<span class='tline' id='l367' data-llen='6518:6545'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-21a' );" name="008-21a" class="pb">[008-21a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l368' data-llen='6545:6568'>　　　七萬六千八百二十七澗一千八十九萬八千</span><br/>
-<span class='tline' id='l369' data-llen='6568:6591'>　　　七百一十八溝七千三百二萬七千二百八十</span><br/>
-<span class='tline' id='l370' data-llen='6591:6614'>　　　五壤二千九百五十二萬四千六百三十八秭</span><br/>
-<span class='tline' id='l371' data-llen='6614:6637'>　　　七千九百三十萬二千二十一垓一千二百萬</span><br/>
-<span class='tline' id='l372' data-llen='6637:6643'>　　　京</span><br/>
-<span class='tline' id='l373' data-llen='6643:6666'>　辰之月　八百七十萬七千一百二十九億三千四</span><br/>
-<span class='tline' id='l374' data-llen='6666:6675'>　　　百四十萬</span><br/>
-<span class='tline' id='l375' data-llen='6675:6680'>坤之艮</span><br/>
-<span class='tline' id='l376' data-llen='6680:6707'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-21b' );" name="008-21b" class="pb">[008-21b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l377' data-llen='6707:6730'>　　　一千七百五十九萬四千五百二十四正七百</span><br/>
-<span class='tline' id='l378' data-llen='6730:6753'>　　　三十萬四千八百一十三澗二千六百九十六</span><br/>
-<span class='tline' id='l379' data-llen='6753:6776'>　　　萬一千五百六十一溝九千八十一萬八千五</span><br/>
-<span class='tline' id='l380' data-llen='6776:6799'>　　　百五十八壤八千五百七十三萬九千一百六</span><br/>
-<span class='tline' id='l381' data-llen='6799:6822'>　　　十三秭七千九百六萬六百三十三垓六千萬</span><br/>
-<span class='tline' id='l382' data-llen='6822:6828'>　　　京</span><br/>
-<span class='tline' id='l383' data-llen='6828:6851'>　辰之日　二兆六千一百二十一萬三千八百八十</span><br/>
-<span class='tline' id='l384' data-llen='6851:6862'>　　　億三千二百萬</span><br/>
-<span class='tline' id='l385' data-llen='6862:6889'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-22a' );" name="008-22a" class="pb">[008-22a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l386' data-llen='6889:6894'>坤之坤</span><br/>
-<span class='tline' id='l387' data-llen='6894:6917'>　　　二載一千一百一十三萬四千二百八十八正</span><br/>
-<span class='tline' id='l388' data-llen='6917:6940'>　　　八千七百六十五萬七千七百五十九澗二千</span><br/>
-<span class='tline' id='l389' data-llen='6940:6963'>　　　三百五十三萬八千七百四十二溝八千九百</span><br/>
-<span class='tline' id='l390' data-llen='6963:6986'>　　　八十二萬二千七百六壤二千八百八十六萬</span><br/>
-<span class='tline' id='l391' data-llen='6986:7009'>　　　九千九百六十五秭四千八百七十二萬七千</span><br/>
-<span class='tline' id='l392' data-llen='7009:7022'>　　　六百三垓二千萬京</span><br/>
-<span class='tline' id='l393' data-llen='7022:7045'>　辰之辰　三十一兆三千四百五十六萬六千五百</span><br/>
-<span class='tline' id='l394' data-llen='7045:7072'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-22b' );" name="008-22b" class="pb">[008-22b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l395' data-llen='7072:7086'>　　　六十三億八千四百萬</span><br/>
-<span class='tline' id='l396' data-llen='7086:7109'>　　　元㑹運世嵗月日辰之數如前此邵子用易六</span><br/>
-<span class='tline' id='l397' data-llen='7109:7132'>　　　十四卦之數也一二三四五六七八九十百千</span><br/>
-<span class='tline' id='l398' data-llen='7132:7156'>　　　按朱子儀禮經𫝊通解鍾律篇紀律之寸分云</span><br/>
-<span class='tline' id='l399' data-llen='7156:7179'>　　　凡數準令式借用大字今於六十四卦之數亦</span><br/>
-<span class='tline' id='l400' data-llen='7179:7212'>　　　從其例庶𫝊寫免致差訛<span class='krp-note'>案卦數原本仍不/用大字今從其舊</span></span><br/>
-<span class='tline' id='l401' data-llen='7212:7235'>萬萬曰億　萬萬億曰兆　萬萬兆曰京　萬萬京曰</span><br/>
-<span class='tline' id='l402' data-llen='7235:7258'>垓　萬萬垓曰秭　萬萬秭曰壤　萬萬壤曰溝　萬</span><br/>
-<span class='tline' id='l403' data-llen='7258:7285'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-23a' );" name="008-23a" class="pb">[008-23a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l404' data-llen='7285:7309'>萬溝曰澗　萬萬澗曰正　萬萬正曰載　萬萬載曰極</span><br/>
-<span class='tline' id='l405' data-llen='7309:7322'>　以上諸大數依九章算法</span><br/>
-<span class='tline' id='l406' data-llen='7322:7334'>聲律闢翕音吕清濁之數</span><br/>
-<span class='tline' id='l407' data-llen='7334:7339'>乾之乾</span><br/>
-<span class='tline' id='l408' data-llen='7339:7350'>　　日日聲平之一闢</span><br/>
-<span class='tline' id='l409' data-llen='7350:7364'>　　多良千刀妻宫心●●●</span><br/>
-<span class='tline' id='l410' data-llen='7364:7374'>　　數十其三無聲</span><br/>
-<span class='tline' id='l411' data-llen='7374:7379'>乾之兊</span><br/>
-<span class='tline' id='l412' data-llen='7379:7406'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-23b' );" name="008-23b" class="pb">[008-23b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l413' data-llen='7406:7417'>　　日月聲平之二翕</span><br/>
-<span class='tline' id='l414' data-llen='7417:7431'>　　禾光元毛衰龍○●●●</span><br/>
-<span class='tline' id='l415' data-llen='7431:7441'>　　數十其三無聲</span><br/>
-<span class='tline' id='l416' data-llen='7441:7446'>乾之離</span><br/>
-<span class='tline' id='l417' data-llen='7446:7457'>　　日星聲平之三闢</span><br/>
-<span class='tline' id='l418' data-llen='7457:7471'>　　開丁臣牛○魚男●●●</span><br/>
-<span class='tline' id='l419' data-llen='7471:7481'>　　數十其三無聲</span><br/>
-<span class='tline' id='l420' data-llen='7481:7486'>乾之震</span><br/>
-<span class='tline' id='l421' data-llen='7486:7513'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-24a' );" name="008-24a" class="pb">[008-24a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l422' data-llen='7513:7524'>　　日辰聲平之四翕</span><br/>
-<span class='tline' id='l423' data-llen='7524:7538'>　　囘兄君○龜烏○●●●</span><br/>
-<span class='tline' id='l424' data-llen='7538:7548'>　　數十其三無聲</span><br/>
-<span class='tline' id='l425' data-llen='7548:7553'>兊之乾</span><br/>
-<span class='tline' id='l426' data-llen='7553:7564'>　　月日聲上之一闢</span><br/>
-<span class='tline' id='l427' data-llen='7564:7578'>　　可兩典早子孔審●●●</span><br/>
-<span class='tline' id='l428' data-llen='7578:7588'>　　數十其三無聲</span><br/>
-<span class='tline' id='l429' data-llen='7588:7593'>兊之兊</span><br/>
-<span class='tline' id='l430' data-llen='7593:7620'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-24b' );" name="008-24b" class="pb">[008-24b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l431' data-llen='7620:7631'>　　月月聲上之二翕</span><br/>
-<span class='tline' id='l432' data-llen='7631:7645'>　　火廣犬寳○甬○●●●</span><br/>
-<span class='tline' id='l433' data-llen='7645:7655'>　　數十其三無聲</span><br/>
-<span class='tline' id='l434' data-llen='7655:7660'>兊之離</span><br/>
-<span class='tline' id='l435' data-llen='7660:7671'>　　月星聲上之三闢</span><br/>
-<span class='tline' id='l436' data-llen='7671:7685'>　　宰井引斗○鼠坎●●●</span><br/>
-<span class='tline' id='l437' data-llen='7685:7695'>　　數十其三無聲</span><br/>
-<span class='tline' id='l438' data-llen='7695:7700'>兊之震</span><br/>
-<span class='tline' id='l439' data-llen='7700:7727'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-25a' );" name="008-25a" class="pb">[008-25a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l440' data-llen='7727:7738'>　　月辰聲上之四翕</span><br/>
-<span class='tline' id='l441' data-llen='7738:7752'>　　每永允○水虎○●●●</span><br/>
-<span class='tline' id='l442' data-llen='7752:7762'>　　數十其三無聲</span><br/>
-<span class='tline' id='l443' data-llen='7762:7767'>離之乾</span><br/>
-<span class='tline' id='l444' data-llen='7767:7778'>　　星日聲去之一闢</span><br/>
-<span class='tline' id='l445' data-llen='7778:7792'>　　个向旦孝四衆禁●●●</span><br/>
-<span class='tline' id='l446' data-llen='7792:7802'>　　數十其三無聲</span><br/>
-<span class='tline' id='l447' data-llen='7802:7807'>離之兊</span><br/>
-<span class='tline' id='l448' data-llen='7807:7834'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-25b' );" name="008-25b" class="pb">[008-25b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l449' data-llen='7834:7845'>　　星月聲去之二翕</span><br/>
-<span class='tline' id='l450' data-llen='7845:7859'>　　化況半報帥用○●●●</span><br/>
-<span class='tline' id='l451' data-llen='7859:7869'>　　數十其三無聲</span><br/>
-<span class='tline' id='l452' data-llen='7869:7874'>離之離</span><br/>
-<span class='tline' id='l453' data-llen='7874:7885'>　　星星聲去之三闢</span><br/>
-<span class='tline' id='l454' data-llen='7885:7899'>　　愛亘艮奏○去欠●●●</span><br/>
-<span class='tline' id='l455' data-llen='7899:7909'>　　數十其三無聲</span><br/>
-<span class='tline' id='l456' data-llen='7909:7914'>離之震</span><br/>
-<span class='tline' id='l457' data-llen='7914:7941'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-26a' );" name="008-26a" class="pb">[008-26a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l458' data-llen='7941:7952'>　　星辰聲去之四翕</span><br/>
-<span class='tline' id='l459' data-llen='7952:7966'>　　退瑩巽○貴兎○●●●</span><br/>
-<span class='tline' id='l460' data-llen='7966:7976'>　　數十其三無聲</span><br/>
-<span class='tline' id='l461' data-llen='7976:7981'>震之乾</span><br/>
-<span class='tline' id='l462' data-llen='7981:7992'>　　辰日聲入之一闢</span><br/>
-<span class='tline' id='l463' data-llen='7992:8006'>　　舌○○岳日○○●●●</span><br/>
-<span class='tline' id='l464' data-llen='8006:8016'>　　數十其三無聲</span><br/>
-<span class='tline' id='l465' data-llen='8016:8021'>震之兊</span><br/>
-<span class='tline' id='l466' data-llen='8021:8048'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-26b' );" name="008-26b" class="pb">[008-26b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l467' data-llen='8048:8059'>　　辰月聲入之二翕</span><br/>
-<span class='tline' id='l468' data-llen='8059:8073'>　　八○○霍骨○十●●●</span><br/>
-<span class='tline' id='l469' data-llen='8073:8083'>　　數十其三無聲</span><br/>
-<span class='tline' id='l470' data-llen='8083:8088'>震之離</span><br/>
-<span class='tline' id='l471' data-llen='8088:8099'>　　辰星聲人之三闢</span><br/>
-<span class='tline' id='l472' data-llen='8099:8113'>　　○○○六德○○●●●</span><br/>
-<span class='tline' id='l473' data-llen='8113:8123'>　　數十其三無聲</span><br/>
-<span class='tline' id='l474' data-llen='8123:8128'>震之震</span><br/>
-<span class='tline' id='l475' data-llen='8128:8155'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-27a' );" name="008-27a" class="pb">[008-27a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l476' data-llen='8155:8166'>　　辰辰聲入之四翕</span><br/>
-<span class='tline' id='l477' data-llen='8166:8180'>　　○○○玉北○妾●●●</span><br/>
-<span class='tline' id='l478' data-llen='8180:8190'>　　數十其三無聲</span><br/>
-<span class='tline' id='l479' data-llen='8190:8199'>聲一二三四之一</span><br/>
-<span class='tline' id='l480' data-llen='8199:8235'>　多<span class='krp-note'>麻○/○</span>　可<span class='krp-note'>馬○/○</span>　个<span class='krp-note'>禡○/○</span>　舌<span class='krp-note'>○○/○</span>　借</span><br/>
-<span class='tline' id='l481' data-llen='8235:8271'>　禾<span class='krp-note'>歌/戈</span>　　火<span class='krp-note'>哿/果</span>　　化<span class='krp-note'>箇/過</span>　　八<span class='krp-note'>曷/末</span>　　借</span><br/>
-<span class='tline' id='l482' data-llen='8271:8304'>　開<span class='krp-note'>咍/</span>　　宰<span class='krp-note'>海/</span>　　愛<span class='krp-note'>代/</span>　　○<span class='krp-note'>覺藥/鐸</span>　借</span><br/>
-<span class='tline' id='l483' data-llen='8304:8337'>　囘<span class='krp-note'>灰/</span>　　每<span class='krp-note'>賄/</span>　　退<span class='krp-note'>隊/</span>　　○<span class='krp-note'>昔錫/職</span>　借</span><br/>
-<span class='tline' id='l484' data-llen='8337:8364'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-27b' );" name="008-27b" class="pb">[008-27b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l485' data-llen='8364:8373'>聲一二三四之二</span><br/>
-<span class='tline' id='l486' data-llen='8373:8405'>　良<span class='krp-note'>○/</span>　　兩<span class='krp-note'>○/</span>　　向<span class='krp-note'>○/</span>　　○<span class='krp-note'>○/</span>　　正</span><br/>
-<span class='tline' id='l487' data-llen='8405:8441'>　光<span class='krp-note'>寒/桓</span>　　廣<span class='krp-note'>旱/緩</span>　　況<span class='krp-note'>翰/換</span>　　○<span class='krp-note'>曷/末</span>　　正</span><br/>
-<span class='tline' id='l488' data-llen='8441:8477'>　丁<span class='krp-note'>江陽/唐</span>　井<span class='krp-note'>講養/蕩</span>　亘<span class='krp-note'>絳漾/宕</span>　○<span class='krp-note'>覺藥/鐸</span>　正</span><br/>
-<span class='tline' id='l489' data-llen='8477:8514'>　兄<span class='krp-note'>清青/蒸</span>　永<span class='krp-note'>静迥/拯</span>　瑩<span class='krp-note'>映勁/徑證</span>　○<span class='krp-note'>昔錫/職</span>　正</span><br/>
-<span class='tline' id='l490' data-llen='8514:8523'>聲一二三四之三</span><br/>
-<span class='tline' id='l491' data-llen='8523:8559'>　千<span class='krp-note'>刪/山</span>　　典<span class='krp-note'>澘/彦</span>　　旦<span class='krp-note'>諌/澗</span>　　○<span class='krp-note'>黠/轄</span>　　正</span><br/>
-<span class='tline' id='l492' data-llen='8559:8599'>　元<span class='krp-note'>臻元痕/先仙</span>犬<span class='krp-note'>阮狼/銑獮</span>　半<span class='krp-note'>願恨/震線</span>　○<span class='krp-note'>櫛月/屑薛</span>　正</span><br/>
-<span class='tline' id='l493' data-llen='8599:8626'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-28a' );" name="008-28a" class="pb">[008-28a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l494' data-llen='8626:8662'>　臣<span class='krp-note'>貞/殷</span>　　引<span class='krp-note'>軫/隠</span>　　艮<span class='krp-note'>震/焮</span>　　○<span class='krp-note'>質/迄</span>　　正</span><br/>
-<span class='tline' id='l495' data-llen='8662:8698'>　君<span class='krp-note'>諄文/魂</span>　允<span class='krp-note'>凖吻/混</span>　巽<span class='krp-note'>問恩/稕</span>　○<span class='krp-note'>術物/沒</span>　正</span><br/>
-<span class='tline' id='l496' data-llen='8698:8707'>聲一二三四之四</span><br/>
-<span class='tline' id='l497' data-llen='8707:8741'>　刀<span class='krp-note'>肴/</span>　　早<span class='krp-note'>巧/</span>　　孝<span class='krp-note'>效/</span>　　岳<span class='krp-note'>葉帖洽/業法</span>借</span><br/>
-<span class='tline' id='l498' data-llen='8741:8776'>　毛<span class='krp-note'>蕭宵/豪</span>　寳<span class='krp-note'>篠小/皓</span>　報<span class='krp-note'>嘯/</span>　　霍<span class='krp-note'>合/盍</span>　　借</span><br/>
-<span class='tline' id='l499' data-llen='8776:8808'>　牛<span class='krp-note'>矦/</span>　　斗<span class='krp-note'>厚/</span>　　奏<span class='krp-note'>候/</span>　　六<span class='krp-note'>澀/</span>　　借</span><br/>
-<span class='tline' id='l500' data-llen='8808:8843'>　○<span class='krp-note'>尤/幽</span>　　○<span class='krp-note'>有/黝</span>　　○<span class='krp-note'>有/幼</span>　　玉<span class='krp-note'>緝/</span>　　借</span><br/>
-<span class='tline' id='l501' data-llen='8843:8852'>聲一二三四之五</span><br/>
-<span class='tline' id='l502' data-llen='8852:8879'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-28b' );" name="008-28b" class="pb">[008-28b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l503' data-llen='8879:8916'>　妻<span class='krp-note'>佳/皆</span>　　子<span class='krp-note'>蠏/駭</span>　　四<span class='krp-note'>泰卦/怪夬</span>　日<span class='krp-note'>黠/轄</span>　　借</span><br/>
-<span class='tline' id='l504' data-llen='8916:8951'>　衰<span class='krp-note'>齊/</span>　　○<span class='krp-note'>薺/</span>　　帥<span class='krp-note'>霽祭/廢</span>　骨<span class='krp-note'>櫛月/屑薛</span>　借</span><br/>
-<span class='tline' id='l505' data-llen='8951:8990'>　○<span class='krp-note'>支脂/之微</span>　○<span class='krp-note'>紙㫖/止尾</span>　○<span class='krp-note'>寘至/志未</span>　德<span class='krp-note'>質/迄</span>　　借</span><br/>
-<span class='tline' id='l506' data-llen='8990:9023'>　龜<span class='krp-note'>追/</span>　　水<span class='krp-note'>髓/</span>　　貴<span class='krp-note'>粹/</span>　　北<span class='krp-note'>術物/没</span>　借</span><br/>
-<span class='tline' id='l507' data-llen='9023:9032'>聲一二三四之六</span><br/>
-<span class='tline' id='l508' data-llen='9032:9068'>　宫<span class='krp-note'>庚耕/登</span>　孔<span class='krp-note'>梗耿/等</span>　衆<span class='krp-note'>諍/登</span>　　○<span class='krp-note'>陌麥/德</span>　正</span><br/>
-<span class='tline' id='l509' data-llen='9068:9104'>　龍<span class='krp-note'>東冬/鍾</span>　甬<span class='krp-note'>董/腫</span>　　用<span class='krp-note'>送宋/用</span>　○<span class='krp-note'>屋沃/燭</span>　正</span><br/>
-<span class='tline' id='l510' data-llen='9104:9137'>　魚<span class='krp-note'>○/</span>　　鼠<span class='krp-note'>○/</span>　　去<span class='krp-note'>○/</span>　　○<span class='krp-note'>陌麥/德</span>　正</span><br/>
-<span class='tline' id='l511' data-llen='9137:9164'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-29a' );" name="008-29a" class="pb">[008-29a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l512' data-llen='9164:9201'>　烏<span class='krp-note'>魚虞/模</span>　虎<span class='krp-note'>語麌/姥</span>　兎<span class='krp-note'>御遇/暮</span>　○<span class='krp-note'>屋沃/燭</span>　　借</span><br/>
-<span class='tline' id='l513' data-llen='9201:9210'>聲一二三四之七</span><br/>
-<span class='tline' id='l514' data-llen='9210:9243'>　心<span class='krp-note'>森/</span>　　審<span class='krp-note'>怎/</span>　　禁<span class='krp-note'>諧/</span>　　○<span class='krp-note'>澀/</span>　　　正</span><br/>
-<span class='tline' id='l515' data-llen='9243:9276'>　○<span class='krp-note'>侵/</span>　　○<span class='krp-note'>寢/</span>　　○<span class='krp-note'>沁/</span>　　十<span class='krp-note'>緝/</span>　　　正</span><br/>
-<span class='tline' id='l516' data-llen='9276:9321'>　男<span class='krp-note'>鹽添减/街嚴凡</span>坎<span class='krp-note'>琰忝儼/豏檻范</span>欠<span class='krp-note'>闞豔㮇釅/陷鑑梵</span>○<span class='krp-note'>葉帖洽/狎業乏</span>正</span><br/>
-<span class='tline' id='l517' data-llen='9321:9357'>　○<span class='krp-note'>覃/談</span>　　○<span class='krp-note'>感/敢</span>　　○<span class='krp-note'>勘/</span>　　妾<span class='krp-note'>合/盍</span>　　　正</span><br/>
-<span class='tline' id='l518' data-llen='9357:9366'>聲一二三四之八</span><br/>
-<span class='tline' id='l519' data-llen='9366:9387'>　●　　　　●　　　　●　　　　　　●</span><br/>
-<span class='tline' id='l520' data-llen='9387:9414'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-29b' );" name="008-29b" class="pb">[008-29b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l521' data-llen='9414:9433'>　●　　　　●　　　　●　　　　●</span><br/>
-<span class='tline' id='l522' data-llen='9433:9452'>　●　　　　●　　　　●　　　　●</span><br/>
-<span class='tline' id='l523' data-llen='9452:9471'>　●　　　　●　　　　●　　　　●</span><br/>
-<span class='tline' id='l524' data-llen='9471:9480'>聲一二三四之九</span><br/>
-<span class='tline' id='l525' data-llen='9480:9499'>　●　　　　●　　　　●　　　　●</span><br/>
-<span class='tline' id='l526' data-llen='9499:9518'>　●　　　　●　　　　●　　　　●</span><br/>
-<span class='tline' id='l527' data-llen='9518:9537'>　●　　　　●　　　　●　　　　●</span><br/>
-<span class='tline' id='l528' data-llen='9537:9556'>　●　　　　●　　　　●　　　　●</span><br/>
-<span class='tline' id='l529' data-llen='9556:9583'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-30a' );" name="008-30a" class="pb">[008-30a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l530' data-llen='9583:9592'>聲一二三四之十</span><br/>
-<span class='tline' id='l531' data-llen='9592:9611'>　●　　　　●　　　　●　　　　●</span><br/>
-<span class='tline' id='l532' data-llen='9611:9630'>　●　　　　●　　　　●　　　　●</span><br/>
-<span class='tline' id='l533' data-llen='9630:9649'>　●　　　　●　　　　●　　　　●</span><br/>
-<span class='tline' id='l534' data-llen='9649:9668'>　●　　　　●　　　　●　　　　●</span><br/>
-<span class='tline' id='l535' data-llen='9668:9673'>坤之坤</span><br/>
-<span class='tline' id='l536' data-llen='9673:9683'>　水水音開之一清</span><br/>
-<span class='tline' id='l537' data-llen='9683:9699'>　　古黒安夫卜東乃走思■■■</span><br/>
-<span class='tline' id='l538' data-llen='9699:9726'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-30b' );" name="008-30b" class="pb">[008-30b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l539' data-llen='9726:9737'>　　數十二其三無音</span><br/>
-<span class='tline' id='l540' data-llen='9737:9742'>坤之艮</span><br/>
-<span class='tline' id='l541' data-llen='9742:9752'>　水火音開之二濁</span><br/>
-<span class='tline' id='l542' data-llen='9752:9768'>　　□黃□父歩兊内自寺■■■</span><br/>
-<span class='tline' id='l543' data-llen='9768:9779'>　　數十二其三無音</span><br/>
-<span class='tline' id='l544' data-llen='9779:9784'>坤之坎</span><br/>
-<span class='tline' id='l545' data-llen='9784:9794'>　水土音開之三清</span><br/>
-<span class='tline' id='l546' data-llen='9794:9810'>　　坤五母武普土老草□■■■</span><br/>
-<span class='tline' id='l547' data-llen='9810:9837'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-31a' );" name="008-31a" class="pb">[008-31a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l548' data-llen='9837:9848'>　　數十二其三無音</span><br/>
-<span class='tline' id='l549' data-llen='9848:9853'>坤之巽</span><br/>
-<span class='tline' id='l550' data-llen='9853:9863'>　水石音開之四濁</span><br/>
-<span class='tline' id='l551' data-llen='9863:9879'>　　□吾目文旁同鹿曹□■■■</span><br/>
-<span class='tline' id='l552' data-llen='9879:9890'>　　數十二其三無音</span><br/>
-<span class='tline' id='l553' data-llen='9890:9895'>艮之坤</span><br/>
-<span class='tline' id='l554' data-llen='9895:9906'>　火水音𤼵之一清</span><br/>
-<span class='tline' id='l555' data-llen='9906:9922'>　　甲花亞法百丹㛋哉三山莊卓</span><br/>
-<span class='tline' id='l556' data-llen='9922:9949'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-31b' );" name="008-31b" class="pb">[008-31b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l557' data-llen='9949:9959'>　　數十二俱有音</span><br/>
-<span class='tline' id='l558' data-llen='9959:9964'>艮之艮</span><br/>
-<span class='tline' id='l559' data-llen='9964:9975'>　火火音𤼵之二濁</span><br/>
-<span class='tline' id='l560' data-llen='9975:9991'>　　□華爻凡白大南在□士乍宅</span><br/>
-<span class='tline' id='l561' data-llen='9991:10001'>　　數十二俱有音</span><br/>
-<span class='tline' id='l562' data-llen='10001:10006'>艮之坎</span><br/>
-<span class='tline' id='l563' data-llen='10006:10017'>　火土音𤼵之三清</span><br/>
-<span class='tline' id='l564' data-llen='10017:10033'>　　巧瓦馬晚朴貪冷采□□义圻</span><br/>
-<span class='tline' id='l565' data-llen='10033:10060'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-32a' );" name="008-32a" class="pb">[008-32a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l566' data-llen='10060:10070'>　　數十二俱有音</span><br/>
-<span class='tline' id='l567' data-llen='10070:10075'>艮之巽</span><br/>
-<span class='tline' id='l568' data-llen='10075:10086'>　火石音𤼵之四濁</span><br/>
-<span class='tline' id='l569' data-llen='10086:10102'>　　□牙㒵萬排覃犖才□□崇荼</span><br/>
-<span class='tline' id='l570' data-llen='10102:10112'>　　數十二俱有音</span><br/>
-<span class='tline' id='l571' data-llen='10112:10117'>坎之坤</span><br/>
-<span class='tline' id='l572' data-llen='10117:10127'>　土水音收之一清</span><br/>
-<span class='tline' id='l573' data-llen='10127:10143'>　　九香乙□丙帝女足星手震中</span><br/>
-<span class='tline' id='l574' data-llen='10143:10170'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-32b' );" name="008-32b" class="pb">[008-32b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l575' data-llen='10170:10180'>　　數十二俱有音</span><br/>
-<span class='tline' id='l576' data-llen='10180:10185'>坎之艮</span><br/>
-<span class='tline' id='l577' data-llen='10185:10195'>　土火音收之二濁</span><br/>
-<span class='tline' id='l578' data-llen='10195:10218'>　　近雄王□<img height='20' width='20' alt='&amp;KR3681' title='KR3681' src='https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3681.png'/>弟年匠象石□直</span><br/>
-<span class='tline' id='l579' data-llen='10218:10228'>　　數十二俱有音</span><br/>
-<span class='tline' id='l580' data-llen='10228:10233'>坎之坎</span><br/>
-<span class='tline' id='l581' data-llen='10233:10243'>　土土音收之三清</span><br/>
-<span class='tline' id='l582' data-llen='10243:10259'>　　邱仰美□品天吕七□耳赤丑</span><br/>
-<span class='tline' id='l583' data-llen='10259:10286'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-33a' );" name="008-33a" class="pb">[008-33a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l584' data-llen='10286:10296'>　　數十二俱有音</span><br/>
-<span class='tline' id='l585' data-llen='10296:10301'>坎之巽</span><br/>
-<span class='tline' id='l586' data-llen='10301:10311'>　土石音收之四濁</span><br/>
-<span class='tline' id='l587' data-llen='10311:10327'>　　乾月睂□平田離全□二辰呈</span><br/>
-<span class='tline' id='l588' data-llen='10327:10337'>　　數十二俱有音</span><br/>
-<span class='tline' id='l589' data-llen='10337:10342'>巽之坤</span><br/>
-<span class='tline' id='l590' data-llen='10342:10352'>　石水音閉之一清</span><br/>
-<span class='tline' id='l591' data-llen='10352:10368'>　　癸血一飛必■■■■■■■</span><br/>
-<span class='tline' id='l592' data-llen='10368:10395'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-33b' );" name="008-33b" class="pb">[008-33b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l593' data-llen='10395:10406'>　　數十二其七無音</span><br/>
-<span class='tline' id='l594' data-llen='10406:10411'>巽之艮</span><br/>
-<span class='tline' id='l595' data-llen='10411:10421'>　石火音閉之二濁</span><br/>
-<span class='tline' id='l596' data-llen='10421:10437'>　　揆賢寅吠鼻■■■■■■■</span><br/>
-<span class='tline' id='l597' data-llen='10437:10448'>　　數十二其七無音</span><br/>
-<span class='tline' id='l598' data-llen='10448:10453'>巽之坎</span><br/>
-<span class='tline' id='l599' data-llen='10453:10463'>　石土音閉之三清</span><br/>
-<span class='tline' id='l600' data-llen='10463:10479'>　　棄□米尾匹■■■■■■■</span><br/>
-<span class='tline' id='l601' data-llen='10479:10506'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-34a' );" name="008-34a" class="pb">[008-34a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l602' data-llen='10506:10517'>　　數十二其七無音</span><br/>
-<span class='tline' id='l603' data-llen='10517:10522'>巽之巽</span><br/>
-<span class='tline' id='l604' data-llen='10522:10532'>　石石音閉之四濁</span><br/>
-<span class='tline' id='l605' data-llen='10532:10548'>　　蚪堯民未瓶■■■■■■■</span><br/>
-<span class='tline' id='l606' data-llen='10548:10559'>　　數十二其七無音</span><br/>
-<span class='tline' id='l607' data-llen='10559:10568'>音一二三四之一</span><br/>
-<span class='tline' id='l608' data-llen='10568:10588'>　古<span class='krp-note'>見斤/堅</span>　甲　　　九　　　癸</span><br/>
-<span class='tline' id='l609' data-llen='10588:10608'>　□<span class='krp-note'>○□/□</span>　□　　　近　　　揆</span><br/>
-<span class='tline' id='l610' data-llen='10608:10635'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-34b' );" name="008-34b" class="pb">[008-34b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l611' data-llen='10635:10654'>　坤<span class='krp-note'>溪輕/牽</span>　巧　　　邱　　弃</span><br/>
-<span class='tline' id='l612' data-llen='10654:10673'>　□<span class='krp-note'>芹勤/虔</span>　□　　　乾　　蚪</span><br/>
-<span class='tline' id='l613' data-llen='10673:10682'>音一二三四之二</span><br/>
-<span class='tline' id='l614' data-llen='10682:10701'>　黒<span class='krp-note'>曉欣/掀</span>　花　　　香　　血</span><br/>
-<span class='tline' id='l615' data-llen='10701:10720'>　黄<span class='krp-note'>匣刑/賢</span>　華　　　雄　　賢</span><br/>
-<span class='tline' id='l616' data-llen='10720:10739'>　五<span class='krp-note'>□□/□</span>　瓦　　　仰　　□</span><br/>
-<span class='tline' id='l617' data-llen='10739:10758'>　吾<span class='krp-note'>疑銀/研</span>　牙　　　月　　堯</span><br/>
-<span class='tline' id='l618' data-llen='10758:10767'>音一二三四之三</span><br/>
-<span class='tline' id='l619' data-llen='10767:10794'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-35a' );" name="008-35a" class="pb">[008-35a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l620' data-llen='10794:10814'>　安<span class='krp-note'>影因/煙</span>　亞　　　乙　　　一</span><br/>
-<span class='tline' id='l621' data-llen='10814:10834'>　□<span class='krp-note'>喻寅/焉</span>　爻　　　王　　　寅</span><br/>
-<span class='tline' id='l622' data-llen='10834:10854'>　母<span class='krp-note'>□□/□</span>　馬　　　美　　　米</span><br/>
-<span class='tline' id='l623' data-llen='10854:10874'>　目<span class='krp-note'>明民/眠</span>　㒵　　　省　　　民</span><br/>
-<span class='tline' id='l624' data-llen='10874:10883'>音一二三四之四</span><br/>
-<span class='tline' id='l625' data-llen='10883:10903'>　夫<span class='krp-note'>敷薰/暄</span>　法　　　□　　　飛</span><br/>
-<span class='tline' id='l626' data-llen='10903:10923'>　父<span class='krp-note'>奉墳/煩</span>　凡　　　□　　　吠</span><br/>
-<span class='tline' id='l627' data-llen='10923:10943'>　武<span class='krp-note'>威緼/淵</span>　晚　　　□　　　尾</span><br/>
-<span class='tline' id='l628' data-llen='10943:10970'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-35b' );" name="008-35b" class="pb">[008-35b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l629' data-llen='10970:10990'>　文<span class='krp-note'>徽云/員</span>　萬　　　□　　　未</span><br/>
-<span class='tline' id='l630' data-llen='10990:10999'>音一二三四之五</span><br/>
-<span class='tline' id='l631' data-llen='10999:11019'>　卜<span class='krp-note'>幇賓/邊</span>　百　　　丙　　　必</span><br/>
-<span class='tline' id='l632' data-llen='11019:11046'>　歩<span class='krp-note'>□□/□</span>　白　　　<img height='20' width='20' alt='&amp;KR3681' title='KR3681' src='https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3681.png'/>　　　鼻</span><br/>
-<span class='tline' id='l633' data-llen='11046:11066'>　普<span class='krp-note'>滂繽/偏</span>　朴　　　品　　　匹</span><br/>
-<span class='tline' id='l634' data-llen='11066:11086'>　旁<span class='krp-note'>並貧/便</span>　排　　　平　　　瓶</span><br/>
-<span class='tline' id='l635' data-llen='11086:11095'>音一二三四之六</span><br/>
-<span class='tline' id='l636' data-llen='11095:11115'>　東<span class='krp-note'>端丁/顛</span>　丹　　　帝　　　■</span><br/>
-<span class='tline' id='l637' data-llen='11115:11142'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-36a' );" name="008-36a" class="pb">[008-36a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l638' data-llen='11142:11162'>　兊<span class='krp-note'>□□/□</span>　大　　　弟　　　■</span><br/>
-<span class='tline' id='l639' data-llen='11162:11182'>　土<span class='krp-note'>透汀/天</span>　貪　　　天　　　■</span><br/>
-<span class='tline' id='l640' data-llen='11182:11202'>　同<span class='krp-note'>定亭/田</span>　覃　　　田　　　■</span><br/>
-<span class='tline' id='l641' data-llen='11202:11211'>音一二三四之七</span><br/>
-<span class='tline' id='l642' data-llen='11211:11231'>　乃<span class='krp-note'>□□/□</span>　㛋　　　女　　　■</span><br/>
-<span class='tline' id='l643' data-llen='11231:11251'>　内<span class='krp-note'>泥□/年</span>　南　　　年　　　■</span><br/>
-<span class='tline' id='l644' data-llen='11251:11271'>　老<span class='krp-note'>□□/□</span>　冷　　　吕　　　■</span><br/>
-<span class='tline' id='l645' data-llen='11271:11292'>　鹿<span class='krp-note'>来鄰/連</span>　犖　　　離　　　　■</span><br/>
-<span class='tline' id='l646' data-llen='11292:11319'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-36b' );" name="008-36b" class="pb">[008-36b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l647' data-llen='11319:11328'>音一二三四之八</span><br/>
-<span class='tline' id='l648' data-llen='11328:11348'>　走<span class='krp-note'>精津/煎</span>　哉　　　足　　　■</span><br/>
-<span class='tline' id='l649' data-llen='11348:11368'>　自<span class='krp-note'>□□/□</span>　在　　　匠　　　■</span><br/>
-<span class='tline' id='l650' data-llen='11368:11388'>　草<span class='krp-note'>清親/千</span>　采　　　七　　　■</span><br/>
-<span class='tline' id='l651' data-llen='11388:11408'>　曹<span class='krp-note'>從秦/前</span>　才　　　全　　　■</span><br/>
-<span class='tline' id='l652' data-llen='11408:11417'>音一二三四之九</span><br/>
-<span class='tline' id='l653' data-llen='11417:11437'>　思<span class='krp-note'>心新/先</span>　三　　　星　　　■</span><br/>
-<span class='tline' id='l654' data-llen='11437:11457'>　寺<span class='krp-note'>斜餳/涎</span>　□　　　象　　　■</span><br/>
-<span class='tline' id='l655' data-llen='11457:11484'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-37a' );" name="008-37a" class="pb">[008-37a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l656' data-llen='11484:11504'>　□<span class='krp-note'>□□/□</span>　□　　　□　　　■</span><br/>
-<span class='tline' id='l657' data-llen='11504:11524'>　□<span class='krp-note'>元危/元</span>　□　　　□　　　■</span><br/>
-<span class='tline' id='l658' data-llen='11524:11533'>音一二三四之十</span><br/>
-<span class='tline' id='l659' data-llen='11533:11553'>　■<span class='krp-note'>審申/羶</span>　山　　　手　　　■</span><br/>
-<span class='tline' id='l660' data-llen='11553:11573'>　■<span class='krp-note'>禪辰/禪</span>　士　　　石　　　■</span><br/>
-<span class='tline' id='l661' data-llen='11573:11593'>　■<span class='krp-note'>□□/□</span>　□　　　耳　　　■</span><br/>
-<span class='tline' id='l662' data-llen='11593:11613'>　■<span class='krp-note'>日人/然</span>　□　　　二　　　■</span><br/>
-<span class='tline' id='l663' data-llen='11613:11623'>音一二三四之十一</span><br/>
-<span class='tline' id='l664' data-llen='11623:11650'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-37b' );" name="008-37b" class="pb">[008-37b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l665' data-llen='11650:11670'>　■<span class='krp-note'>照真/氈</span>　莊　　　震　　　■</span><br/>
-<span class='tline' id='l666' data-llen='11670:11690'>　■<span class='krp-note'>君君/㳙</span>　卓　　　中　　　■</span><br/>
-<span class='tline' id='l667' data-llen='11690:11710'>　■<span class='krp-note'>□□/□</span>　乍　　　□　　　■</span><br/>
-<span class='tline' id='l668' data-llen='11710:11730'>　■<span class='krp-note'>穿嗔/嘽</span>　义　　　赤　　　■</span><br/>
-<span class='tline' id='l669' data-llen='11730:11740'>音一二三四之十二</span><br/>
-<span class='tline' id='l670' data-llen='11740:11760'>　■<span class='krp-note'>澄陳/纏</span>　崇　　　辰　　　■</span><br/>
-<span class='tline' id='l671' data-llen='11760:11776'>　■　　　宅　　　直　　　■</span><br/>
-<span class='tline' id='l672' data-llen='11776:11796'>　■<span class='krp-note'>缺囷/圈</span>　坼　　　丑　　　■</span><br/>
-<span class='tline' id='l673' data-llen='11796:11823'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-38a' );" name="008-38a" class="pb">[008-38a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l674' data-llen='11823:11843'>　■<span class='krp-note'>羣羣/拳</span>　荼　　　呈　　　■</span><br/>
-<span class='tline' id='l675' data-llen='11843:11866'>　　聲律闢翕音吕清濁之數如前此邵子用易三十</span><br/>
-<span class='tline' id='l676' data-llen='11866:11875'>　　二卦之數也</span><br/>
-<span class='tline' id='l677' data-llen='11875:11898'>　　乾兊離震相乗而十六為平上去入之闢翕坤艮</span><br/>
-<span class='tline' id='l678' data-llen='11898:11922'>　　坎巽相乗而十六為開𤼵收閉之清濁聲以乾兊</span><br/>
-<span class='tline' id='l679' data-llen='11922:11945'>　　離震四卦自乗而不乗坤艮坎巽音以坤艮坎巽</span><br/>
-<span class='tline' id='l680' data-llen='11945:11968'>　　四卦自乘而不乘乾兊離震其用者三十二卦不</span><br/>
-<span class='tline' id='l681' data-llen='11968:11978'>　　用者三十二卦</span><br/>
-<span class='tline' id='l682' data-llen='11978:12005'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-38b' );" name="008-38b" class="pb">[008-38b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l683' data-llen='12005:12016'>十六數八數四數二數</span><br/>
-<span class='tline' id='l684' data-llen='12016:12033'>　生生　　生長　　生收　　生藏</span><br/>
-<span class='tline' id='l685' data-llen='12033:12050'>　長生　　長長　　長收　　長藏</span><br/>
-<span class='tline' id='l686' data-llen='12050:12067'>　收生　　收長　　收收　　收藏</span><br/>
-<span class='tline' id='l687' data-llen='12067:12084'>　藏生　　藏長　　藏收　　藏藏</span><br/>
-<span class='tline' id='l688' data-llen='12084:12101'>　皇皇　　皇帝　　皇王　　皇霸</span><br/>
-<span class='tline' id='l689' data-llen='12101:12118'>　帝皇　　帝帝　　帝王　　帝霸</span><br/>
-<span class='tline' id='l690' data-llen='12118:12135'>　王皇　　王帝　　王王　　王霸</span><br/>
-<span class='tline' id='l691' data-llen='12135:12162'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-39a' );" name="008-39a" class="pb">[008-39a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l692' data-llen='12162:12179'>　霸皇　　霸帝　　霸王　　霸霸</span><br/>
-<span class='tline' id='l693' data-llen='12179:12196'>　士士　　士農　　士工　　士商</span><br/>
-<span class='tline' id='l694' data-llen='12196:12213'>　農士　　農農　　農工　　農商</span><br/>
-<span class='tline' id='l695' data-llen='12213:12230'>　工士　　工農　　工工　　工商</span><br/>
-<span class='tline' id='l696' data-llen='12230:12247'>　商士　　商農　　商工　　商商</span><br/>
-<span class='tline' id='l697' data-llen='12247:12264'>　飛飛　　飛走　　飛木　　飛草</span><br/>
-<span class='tline' id='l698' data-llen='12264:12281'>　走飛　　走走　　走木　　走草</span><br/>
-<span class='tline' id='l699' data-llen='12281:12298'>　木飛　　木走　　木木　　木草</span><br/>
-<span class='tline' id='l700' data-llen='12298:12325'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-39b' );" name="008-39b" class="pb">[008-39b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l701' data-llen='12325:12340'>　草飛　草走　　草木　草草</span><br/>
-<span class='tline' id='l702' data-llen='12340:12363'>　　聖人作易初畫為兩儀一加為四象再加為八卦</span><br/>
-<span class='tline' id='l703' data-llen='12363:12386'>　　三加為十六四加為三十二五加至六十四而數</span><br/>
-<span class='tline' id='l704' data-llen='12386:12392'>　　備矣</span><br/>
-<span class='tline' id='l705' data-llen='12392:12415'>　　邵子之書數必以四四又乗四則為十六如時之</span><br/>
-<span class='tline' id='l706' data-llen='12415:12438'>　　為生長收藏君之為皇帝王覇民之為士農工商</span><br/>
-<span class='tline' id='l707' data-llen='12438:12461'>　　物之為飛走木草凡事皆然此類不一蓋與易三</span><br/>
-<span class='tline' id='l708' data-llen='12461:12473'>　　加為十六之數同也</span><br/>
-<span class='tline' id='l709' data-llen='12473:12500'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-40a' );" name="008-40a" class="pb">[008-40a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l710' data-llen='12500:12513'>乾太陽　日　暑　性　目</span><br/>
-<span class='tline' id='l711' data-llen='12513:12526'>兊太陰　月　寒　情　耳</span><br/>
-<span class='tline' id='l712' data-llen='12526:12539'>離少陽　星　晝　形　鼻</span><br/>
-<span class='tline' id='l713' data-llen='12539:12552'>震少陰　辰　夜　體　口</span><br/>
-<span class='tline' id='l714' data-llen='12552:12565'>巽少剛　石　雷　木　氣</span><br/>
-<span class='tline' id='l715' data-llen='12565:12578'>坎少柔　土　露　草　味</span><br/>
-<span class='tline' id='l716' data-llen='12578:12591'>艮太剛　火　風　飛　色</span><br/>
-<span class='tline' id='l717' data-llen='12591:12604'>坤太柔　水　雨　走　聲</span><br/>
-<span class='tline' id='l718' data-llen='12604:12631'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-40b' );" name="008-40b" class="pb">[008-40b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l719' data-llen='12631:12651'>　　凡若此類葢與易再加為八卦之數同也</span><br/>
-<span class='tline' id='l720' data-llen='12651:12669'>春　　易　　道　　化　　仁　　聖</span><br/>
-<span class='tline' id='l721' data-llen='12669:12687'>夏　　書　　德　　教　　禮　　賢</span><br/>
-<span class='tline' id='l722' data-llen='12687:12705'>秋　　詩　　功　　勸　　義　　才</span><br/>
-<span class='tline' id='l723' data-llen='12705:12723'>冬　　春秋　力　　率　　智　　術</span><br/>
-<span class='tline' id='l724' data-llen='12723:12743'>　　凡若此類蓋與易一加為四象之數同也</span><br/>
-<span class='tline' id='l725' data-llen='12743:12763'>天動　　　變　　　感　　　用　　　心</span><br/>
-<span class='tline' id='l726' data-llen='12763:12783'>地静　　　化　　　應　　　體　　　跡</span><br/>
-<span class='tline' id='l727' data-llen='12783:12810'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-41a' );" name="008-41a" class="pb">[008-41a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l728' data-llen='12810:12830'>　　凡若此類葢與易初畫為兩儀之數同也</span><br/>
-<span class='tline' id='l729' data-llen='12830:12833'>　</span><br/>
-<span class='tline' id='l730' data-llen='12833:12836'>　</span><br/>
-<span class='tline' id='l731' data-llen='12836:12839'>　</span><br/>
-<span class='tline' id='l732' data-llen='12839:12842'>　</span><br/>
-<span class='tline' id='l733' data-llen='12842:12845'>　</span><br/>
-<span class='tline' id='l734' data-llen='12845:12848'>　</span><br/>
-<span class='tline' id='l735' data-llen='12848:12851'>　</span><br/>
-<span class='tline' id='l736' data-llen='12851:12878'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-41b' );" name="008-41b" class="pb">[008-41b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l737' data-llen='12878:12884'>坤　太柔</span><br/>
-<span class='tline' id='l738' data-llen='12884:12907'>　　由動静而為陽隂剛柔易之兩儀生四象也由陽</span><br/>
-<span class='tline' id='l739' data-llen='12907:12930'>　　陰剛柔而為太陽太隂少陽少隂少剛少柔太剛</span><br/>
-<span class='tline' id='l740' data-llen='12930:12944'>　　太柔易之四象生八卦也</span><br/>
-<span class='tline' id='l741' data-llen='12944:12947'>　</span><br/>
-<span class='tline' id='l742' data-llen='12947:12950'>　</span><br/>
-<span class='tline' id='l743' data-llen='12950:12953'>　</span><br/>
-<span class='tline' id='l744' data-llen='12953:12963'>　易纂言外翼卷八</span><br/>
+    <p>
+<span class='tline' id='l7' data-llen='156:182'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-1a' );" name="008-1a" class="pb">[008-1a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l8' data-llen='182:190'>欽定四庫全書</span>
+<span class='tline' id='l9' data-llen='190:211'>　易纂言外翼卷八　　　　　元　呉澄　撰</span>
+<span class='tline' id='l10' data-llen='211:251'>　　易流第十二<span class='krp-note'>案易流標目原本脫去謹據小序校/補又案序文述易流係皇極經世太</span></span>
+<span class='tline' id='l11' data-llen='251:274'>　　<span class='krp-note'>元潛虛九疇數四種/今惟存邵子書謹識</span></span>
+<span class='tline' id='l12' data-llen='274:286'>　　　邵子皇極經世書</span>
+<span class='tline' id='l13' data-llen='286:298'>元㑹運世嵗月日辰之數</span>
+<span class='tline' id='l14' data-llen='298:303'>乾之乾</span>
+<span class='tline' id='l15' data-llen='303:309'>　　　一</span>
+<span class='tline' id='l16' data-llen='309:335'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-1b' );" name="008-1b" class="pb">[008-1b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l17' data-llen='335:343'>　元之元　一</span>
+<span class='tline' id='l18' data-llen='343:348'>乾之兊</span>
+<span class='tline' id='l19' data-llen='348:354'>　　十二</span>
+<span class='tline' id='l20' data-llen='354:363'>　元之㑹　十二</span>
+<span class='tline' id='l21' data-llen='363:368'>乾之離</span>
+<span class='tline' id='l22' data-llen='368:377'>　　　三百六十</span>
+<span class='tline' id='l23' data-llen='377:388'>　元之運　三百六十</span>
+<span class='tline' id='l24' data-llen='388:393'>乾之震</span>
+<span class='tline' id='l25' data-llen='393:419'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-2a' );" name="008-2a" class="pb">[008-2a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l26' data-llen='419:430'>　　　四千三百二十</span>
+<span class='tline' id='l27' data-llen='430:443'>　元之世　四千三百二十</span>
+<span class='tline' id='l28' data-llen='443:448'>乾之巽</span>
+<span class='tline' id='l29' data-llen='448:460'>　　　十二萬九千六百</span>
+<span class='tline' id='l30' data-llen='460:474'>　元之嵗　十二萬九千六百</span>
+<span class='tline' id='l31' data-llen='474:479'>乾之坎</span>
+<span class='tline' id='l32' data-llen='479:494'>　　　一百五十五萬五千二百</span>
+<span class='tline' id='l33' data-llen='494:511'>　元之月　一百五十五萬五千二百</span>
+<span class='tline' id='l34' data-llen='511:537'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-2b' );" name="008-2b" class="pb">[008-2b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l35' data-llen='537:542'>乾之艮</span>
+<span class='tline' id='l36' data-llen='542:557'>　　　四千六百六十五萬六千</span>
+<span class='tline' id='l37' data-llen='557:574'>　元之日　四千六百六十五萬六千</span>
+<span class='tline' id='l38' data-llen='574:579'>乾之坤</span>
+<span class='tline' id='l39' data-llen='579:596'>　　　五億五千九百八十七萬二千</span>
+<span class='tline' id='l40' data-llen='596:615'>　元之辰　五億五千九百八十七萬二千</span>
+<span class='tline' id='l41' data-llen='615:620'>兊之乾</span>
+<span class='tline' id='l42' data-llen='620:639'>　　　一百六十七億九千六百一十六萬</span>
+<span class='tline' id='l43' data-llen='639:665'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-3a' );" name="008-3a" class="pb">[008-3a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l44' data-llen='665:674'>　㑹之元　十二</span>
+<span class='tline' id='l45' data-llen='674:679'>兊之兊</span>
+<span class='tline' id='l46' data-llen='679:698'>　　　二千一十五億五千三百九十二萬</span>
+<span class='tline' id='l47' data-llen='698:710'>　㑹之㑹　一百四十四</span>
+<span class='tline' id='l48' data-llen='710:715'>兊之離</span>
+<span class='tline' id='l49' data-llen='715:735'>　　　六萬四百六十六億一千七百六十萬</span>
+<span class='tline' id='l50' data-llen='735:748'>　㑹之運　四千三百二十</span>
+<span class='tline' id='l51' data-llen='748:753'>兊之震</span>
+<span class='tline' id='l52' data-llen='753:779'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-3b' );" name="008-3b" class="pb">[008-3b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l53' data-llen='779:802'>　　　七十二萬五千五百九十四億一千一百二十</span>
+<span class='tline' id='l54' data-llen='802:808'>　　　萬</span>
+<span class='tline' id='l55' data-llen='808:823'>　會之世　五萬一千八百四十</span>
+<span class='tline' id='l56' data-llen='823:828'>兊之巽</span>
+<span class='tline' id='l57' data-llen='828:851'>　　　二千一百七十六萬七千八百二十三億三千</span>
+<span class='tline' id='l58' data-llen='851:859'>　　　六百萬</span>
+<span class='tline' id='l59' data-llen='859:876'>　㑹之嵗　一百一十五萬五千二百</span>
+<span class='tline' id='l60' data-llen='876:881'>兊之坎</span>
+<span class='tline' id='l61' data-llen='881:907'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-4a' );" name="008-4a" class="pb">[008-4a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l62' data-llen='907:930'>　　　二兆六千一百二十一萬三千八百八十億三</span>
+<span class='tline' id='l63' data-llen='930:939'>　　　千二百萬</span>
+<span class='tline' id='l64' data-llen='939:958'>　㑹之月　一千八百六十六萬二千四百</span>
+<span class='tline' id='l65' data-llen='958:963'>兊之艮</span>
+<span class='tline' id='l66' data-llen='963:986'>　　　七十八兆三千六百四十一萬六千四百九億</span>
+<span class='tline' id='l67' data-llen='986:994'>　　　六千萬</span>
+<span class='tline' id='l68' data-llen='994:1013'>　㑹之日　五億五千九百八十七萬二千</span>
+<span class='tline' id='l69' data-llen='1013:1018'>兊之坤</span>
+<span class='tline' id='l70' data-llen='1018:1044'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-4b' );" name="008-4b" class="pb">[008-4b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l71' data-llen='1044:1067'>　　　九百四十兆三千六百九十九萬六千九百一</span>
+<span class='tline' id='l72' data-llen='1067:1078'>　　　十五億二千萬</span>
+<span class='tline' id='l73' data-llen='1078:1099'>　㑹之辰　六十七億一千八百四十六萬四千</span>
+<span class='tline' id='l74' data-llen='1099:1104'>離之乾</span>
+<span class='tline' id='l75' data-llen='1104:1127'>　　　二萬八千二百一十一兆九百九十萬七千四</span>
+<span class='tline' id='l76' data-llen='1127:1137'>　　　百五十六億</span>
+<span class='tline' id='l77' data-llen='1137:1148'>　運之元　三百六十</span>
+<span class='tline' id='l78' data-llen='1148:1153'>離之兊</span>
+<span class='tline' id='l79' data-llen='1153:1179'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-5a' );" name="008-5a" class="pb">[008-5a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l80' data-llen='1179:1202'>　　　三十三萬八千五百三十三兆一千八百八十</span>
+<span class='tline' id='l81' data-llen='1202:1217'>　　　八萬九千四百七十二億</span>
+<span class='tline' id='l82' data-llen='1217:1230'>　運之㑹　四千三百二十</span>
+<span class='tline' id='l83' data-llen='1230:1235'>離之離</span>
+<span class='tline' id='l84' data-llen='1235:1258'>　　　一千一十五萬五千九百九十五兆六千六百</span>
+<span class='tline' id='l85' data-llen='1258:1274'>　　　六十八萬四千一百六十億</span>
+<span class='tline' id='l86' data-llen='1274:1288'>　運之運　十二萬九千六百</span>
+<span class='tline' id='l87' data-llen='1288:1293'>離之震</span>
+<span class='tline' id='l88' data-llen='1293:1319'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-5b' );" name="008-5b" class="pb">[008-5b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l89' data-llen='1319:1342'>　　　一京二千一百八十七萬一千九百四十八兆</span>
+<span class='tline' id='l90' data-llen='1342:1357'>　　　二十萬九千九百二十億</span>
+<span class='tline' id='l91' data-llen='1357:1374'>　運之世　一百五十五萬五千二百</span>
+<span class='tline' id='l92' data-llen='1374:1379'>離之巽</span>
+<span class='tline' id='l93' data-llen='1379:1402'>　　　三十六京五千六百一十五萬八千四百四十</span>
+<span class='tline' id='l94' data-llen='1402:1419'>　　　兆六百二十九萬七千六百億</span>
+<span class='tline' id='l95' data-llen='1419:1436'>　運之嵗　四千六百六十五萬六千</span>
+<span class='tline' id='l96' data-llen='1436:1441'>離之坎</span>
+<span class='tline' id='l97' data-llen='1441:1467'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-6a' );" name="008-6a" class="pb">[008-6a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l98' data-llen='1467:1490'>　　　四百三十八京七千三百九十萬一千二百八</span>
+<span class='tline' id='l99' data-llen='1490:1510'>　　　十兆七千五百五十七萬一千二百億</span>
+<span class='tline' id='l100' data-llen='1510:1529'>　運之月　五億五千九百八十七萬二千</span>
+<span class='tline' id='l101' data-llen='1529:1534'>離之艮</span>
+<span class='tline' id='l102' data-llen='1534:1557'>　　　一萬三千一百六十二京一千七百三萬八千</span>
+<span class='tline' id='l103' data-llen='1557:1579'>　　　四百二十二兆六千七百一十三萬六千億</span>
+<span class='tline' id='l104' data-llen='1579:1600'>　運之日　一百六十七億九千六百一十六萬</span>
+<span class='tline' id='l105' data-llen='1600:1605'>離之坤</span>
+<span class='tline' id='l106' data-llen='1605:1631'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-6b' );" name="008-6b" class="pb">[008-6b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l107' data-llen='1631:1654'>　　　一十五萬七千九百四十六京四百四十六萬</span>
+<span class='tline' id='l108' data-llen='1654:1674'>　　　一千七十二兆五百六十三萬二千億</span>
+<span class='tline' id='l109' data-llen='1674:1695'>　運之辰　二千一十五億五千三百九十二萬</span>
+<span class='tline' id='l110' data-llen='1695:1700'>震之乾</span>
+<span class='tline' id='l111' data-llen='1700:1723'>　　　四百七十三萬八千三百八十一京三千三百</span>
+<span class='tline' id='l112' data-llen='1723:1746'>　　　八十三萬二千一百六十一兆六千八百九十</span>
+<span class='tline' id='l113' data-llen='1746:1754'>　　　六萬億</span>
+<span class='tline' id='l114' data-llen='1754:1767'>　世之元　四千三百二十</span>
+<span class='tline' id='l115' data-llen='1767:1793'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-7a' );" name="008-7a" class="pb">[008-7a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l116' data-llen='1793:1798'>震之兊</span>
+<span class='tline' id='l117' data-llen='1798:1821'>　　　五千六百八十六萬五百七十六京五百九十</span>
+<span class='tline' id='l118' data-llen='1821:1844'>　　　八萬五千九百四十兆二千七百五十二萬億</span>
+<span class='tline' id='l119' data-llen='1844:1859'>　世之會　五萬一千八百四十</span>
+<span class='tline' id='l120' data-llen='1859:1864'>震之離</span>
+<span class='tline' id='l121' data-llen='1864:1887'>　　　一十七垓五百八十一萬七千二百八十一京</span>
+<span class='tline' id='l122' data-llen='1887:1910'>　　　七千九百五十七萬八千二百八兆二千五百</span>
+<span class='tline' id='l123' data-llen='1910:1919'>　　　六十萬億</span>
+<span class='tline' id='l124' data-llen='1919:1945'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-7b' );" name="008-7b" class="pb">[008-7b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l125' data-llen='1945:1962'>　世之運　一百五十五萬五千二百</span>
+<span class='tline' id='l126' data-llen='1962:1967'>震之震</span>
+<span class='tline' id='l127' data-llen='1967:1990'>　　　二百四垓六千九百八十萬七千三百八十一</span>
+<span class='tline' id='l128' data-llen='1990:2013'>　　　京五千四百九十三萬八千四百九十九兆七</span>
+<span class='tline' id='l129' data-llen='2013:2023'>　　　百二十萬億</span>
+<span class='tline' id='l130' data-llen='2023:2042'>　世之世　一千八百六十六萬二千四百</span>
+<span class='tline' id='l131' data-llen='2042:2047'>震之巽</span>
+<span class='tline' id='l132' data-llen='2047:2070'>　　　六千一百四十垓九千四百二十二萬一千四</span>
+<span class='tline' id='l133' data-llen='2070:2096'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-8a' );" name="008-8a" class="pb">[008-8a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l134' data-llen='2096:2119'>　　　百四十六京四千八百一十五萬四千九百七</span>
+<span class='tline' id='l135' data-llen='2119:2133'>　　　十二兆一千六百萬億</span>
+<span class='tline' id='l136' data-llen='2133:2152'>　世之嵗　五億五千九百八十七萬二千</span>
+<span class='tline' id='l137' data-llen='2152:2157'>震之坎</span>
+<span class='tline' id='l138' data-llen='2157:2180'>　　　七萬三千六百九十一垓三千六十五萬七千</span>
+<span class='tline' id='l139' data-llen='2180:2203'>　　　三百五十七京七千七百八十五萬九千六百</span>
+<span class='tline' id='l140' data-llen='2203:2218'>　　　六十五兆九千二百萬億</span>
+<span class='tline' id='l141' data-llen='2218:2239'>　世之月　六十七億一千八百四十六萬四千</span>
+<span class='tline' id='l142' data-llen='2239:2265'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-8b' );" name="008-8b" class="pb">[008-8b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l143' data-llen='2265:2270'>震之艮</span>
+<span class='tline' id='l144' data-llen='2270:2293'>　　　二百二十一萬七百三十一垓一千九百七十</span>
+<span class='tline' id='l145' data-llen='2293:2316'>　　　二萬七百三十三京三千五百七十八萬九千</span>
+<span class='tline' id='l146' data-llen='2316:2331'>　　　九百七十七兆六千萬億</span>
+<span class='tline' id='l147' data-llen='2331:2352'>　世之日　二千一十五億五千三百九十二萬</span>
+<span class='tline' id='l148' data-llen='2352:2357'>震之坤</span>
+<span class='tline' id='l149' data-llen='2357:2380'>　　　二千六百五十二萬八千八百七十垓三千六</span>
+<span class='tline' id='l150' data-llen='2380:2403'>　　　百六十四萬八千八百京二千九百四十七萬</span>
+<span class='tline' id='l151' data-llen='2403:2429'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-9a' );" name="008-9a" class="pb">[008-9a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l152' data-llen='2429:2446'>　　　九千七百三十一兆二千萬億</span>
+<span class='tline' id='l153' data-llen='2446:2469'>　世之辰　二萬四千一百八十六億四千七百四萬</span>
+<span class='tline' id='l154' data-llen='2469:2474'>巽之乾</span>
+<span class='tline' id='l155' data-llen='2474:2497'>　　　七秭九千五百八十六萬六千一百一十垓九</span>
+<span class='tline' id='l156' data-llen='2497:2520'>　　　千九百四十六萬四千八京八千四百三十九</span>
+<span class='tline' id='l157' data-llen='2520:2534'>　　　萬一千九百三十六兆</span>
+<span class='tline' id='l158' data-llen='2534:2548'>　嵗之元　十二萬九千六百</span>
+<span class='tline' id='l159' data-llen='2548:2553'>巽之兊</span>
+<span class='tline' id='l160' data-llen='2553:2579'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-9b' );" name="008-9b" class="pb">[008-9b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l161' data-llen='2579:2602'>　　　九十五秭五千三十九萬三千三百三十一垓</span>
+<span class='tline' id='l162' data-llen='2602:2625'>　　　九千三百五十六萬八千一百六京一千二百</span>
+<span class='tline' id='l163' data-llen='2625:2641'>　　　七十萬三千二百三十二兆</span>
+<span class='tline' id='l164' data-llen='2641:2658'>　嵗之㑹　一百五十五萬五千二百</span>
+<span class='tline' id='l165' data-llen='2658:2663'>巽之離</span>
+<span class='tline' id='l166' data-llen='2663:2686'>　　　二千八百六十五秭一千一百七十九萬九千</span>
+<span class='tline' id='l167' data-llen='2686:2709'>　　　九百五十八垓七百四萬三千一百八十三京</span>
+<span class='tline' id='l168' data-llen='2709:2727'>　　　八千一百九萬六千九百六十兆</span>
+<span class='tline' id='l169' data-llen='2727:2754'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-10a' );" name="008-10a" class="pb">[008-10a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l170' data-llen='2754:2771'>　嵗之運　四千六百六十五萬六千</span>
+<span class='tline' id='l171' data-llen='2771:2776'>巽之震</span>
+<span class='tline' id='l172' data-llen='2776:2799'>　　　三萬四千三百八十一秭四千一百五十九萬</span>
+<span class='tline' id='l173' data-llen='2799:2822'>　　　九千四百九十六垓八千四百五十一萬八千</span>
+<span class='tline' id='l174' data-llen='2822:2845'>　　　二百五京七千三百一十六萬三千五百二十</span>
+<span class='tline' id='l175' data-llen='2845:2851'>　　　兆</span>
+<span class='tline' id='l176' data-llen='2851:2870'>　嵗之世　五億五千九百八十七萬二千</span>
+<span class='tline' id='l177' data-llen='2870:2875'>巽之巽</span>
+<span class='tline' id='l178' data-llen='2875:2902'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-10b' );" name="008-10b" class="pb">[008-10b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l179' data-llen='2902:2925'>　　　一百三萬一千四百四十二秭四千七百九十</span>
+<span class='tline' id='l180' data-llen='2925:2948'>　　　八萬四千九百五垓三千五百五十四萬六千</span>
+<span class='tline' id='l181' data-llen='2948:2971'>　　　一百七十一京九千四百九十萬五千六百兆</span>
+<span class='tline' id='l182' data-llen='2971:2992'>　嵗之嵗　一百六十七億九千六百一十六萬</span>
+<span class='tline' id='l183' data-llen='2992:2997'>巽之坎</span>
+<span class='tline' id='l184' data-llen='2997:3020'>　　　一千二百三十七萬七千三百九秭七千五百</span>
+<span class='tline' id='l185' data-llen='3020:3043'>　　　八十一萬八千八百六十四垓二千六百五十</span>
+<span class='tline' id='l186' data-llen='3043:3066'>　　　五萬四千六十京三千八百八十六萬七千二</span>
+<span class='tline' id='l187' data-llen='3066:3093'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-11a' );" name="008-11a" class="pb">[008-11a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l188' data-llen='3093:3100'>　　　百兆</span>
+<span class='tline' id='l189' data-llen='3100:3121'>　嵗之月　二千一十五億五千三百九十二萬</span>
+<span class='tline' id='l190' data-llen='3121:3126'>巽之艮</span>
+<span class='tline' id='l191' data-llen='3126:3149'>　　　三壤七千一百三十一萬九千二百九十二秭</span>
+<span class='tline' id='l192' data-llen='3149:3172'>　　　七千四百五十六萬五千九百二十七垓九千</span>
+<span class='tline' id='l193' data-llen='3172:3195'>　　　六百六十二萬一千九百一京六千六百一萬</span>
+<span class='tline' id='l194' data-llen='3195:3203'>　　　六千兆</span>
+<span class='tline' id='l195' data-llen='3203:3225'>　嵗之日　六萬四百六十六億一千七百六十萬</span>
+<span class='tline' id='l196' data-llen='3225:3252'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-11b' );" name="008-11b" class="pb">[008-11b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l197' data-llen='3252:3257'>巽之坤</span>
+<span class='tline' id='l198' data-llen='3257:3280'>　　　四十四壤五千五百八十三萬一千五百一十</span>
+<span class='tline' id='l199' data-llen='3280:3303'>　　　二秭九千四百七十九萬一千一百三十五垓</span>
+<span class='tline' id='l200' data-llen='3303:3326'>　　　五千九百四十六萬二千八百一十九京九千</span>
+<span class='tline' id='l201' data-llen='3326:3340'>　　　二百一十九萬二千兆</span>
+<span class='tline' id='l202' data-llen='3340:3363'>　嵗之辰　七十二萬五千五百九十四億一千一百</span>
+<span class='tline' id='l203' data-llen='3363:3371'>　　　二十萬</span>
+<span class='tline' id='l204' data-llen='3371:3376'>坎之乾</span>
+<span class='tline' id='l205' data-llen='3376:3403'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-12a' );" name="008-12a" class="pb">[008-12a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l206' data-llen='3403:3426'>　　　一千三百三十六壤七千四百九十四萬五千</span>
+<span class='tline' id='l207' data-llen='3426:3449'>　　　三百八十八秭四千三百七十三萬四千六十</span>
+<span class='tline' id='l208' data-llen='3449:3472'>　　　七垓八千三百八十八萬四千五百九十七京</span>
+<span class='tline' id='l209' data-llen='3472:3486'>　　　六千五百七十六萬兆</span>
+<span class='tline' id='l210' data-llen='3486:3503'>　月之元　一百五十五萬五千二百</span>
+<span class='tline' id='l211' data-llen='3503:3508'>坎之兊</span>
+<span class='tline' id='l212' data-llen='3508:3531'>　　　一萬六千四十壤九千九百三十四萬四千六</span>
+<span class='tline' id='l213' data-llen='3531:3554'>　　　百六十一秭二千四百八十萬八千八百一十</span>
+<span class='tline' id='l214' data-llen='3554:3581'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-12b' );" name="008-12b" class="pb">[008-12b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l215' data-llen='3581:3604'>　　　四垓六百六十一萬五千一百七十一京八千</span>
+<span class='tline' id='l216' data-llen='3604:3616'>　　　九百一十二萬兆</span>
+<span class='tline' id='l217' data-llen='3616:3635'>　月之會　一千八百六十六萬二千四百</span>
+<span class='tline' id='l218' data-llen='3635:3640'>坎之離</span>
+<span class='tline' id='l219' data-llen='3640:3663'>　　　四十八萬一千二百二十九壤八千三十三萬</span>
+<span class='tline' id='l220' data-llen='3663:3686'>　　　九千八百三十七秭四千四百二十六萬四千</span>
+<span class='tline' id='l221' data-llen='3686:3709'>　　　四百二十一垓九千八百四十五萬五千一百</span>
+<span class='tline' id='l222' data-llen='3709:3726'>　　　五十六京七千三百六十萬兆</span>
+<span class='tline' id='l223' data-llen='3726:3753'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-13a' );" name="008-13a" class="pb">[008-13a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l224' data-llen='3753:3772'>　月之運　五億五千九百八十七萬二千</span>
+<span class='tline' id='l225' data-llen='3772:3777'>坎之震</span>
+<span class='tline' id='l226' data-llen='3777:3800'>　　　五百七十七萬四千七百五十七壤六千四百</span>
+<span class='tline' id='l227' data-llen='3800:3823'>　　　七萬八千四十九秭三千一百一十七萬三千</span>
+<span class='tline' id='l228' data-llen='3823:3846'>　　　六十三垓八千一百四十六萬一千八百八十</span>
+<span class='tline' id='l229' data-llen='3846:3860'>　　　京八千三百二十萬兆</span>
+<span class='tline' id='l230' data-llen='3860:3881'>　月之世　六十七億一千八百四十六萬四千</span>
+<span class='tline' id='l231' data-llen='3881:3886'>坎之巽</span>
+<span class='tline' id='l232' data-llen='3886:3913'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-13b' );" name="008-13b" class="pb">[008-13b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l233' data-llen='3913:3936'>　　　一溝七千三百二十四萬二千七百二十九壤</span>
+<span class='tline' id='l234' data-llen='3936:3959'>　　　二千二百三十四萬一千四百七十九秭三千</span>
+<span class='tline' id='l235' data-llen='3959:3982'>　　　五百一十九萬一千九百一十四垓四千三百</span>
+<span class='tline' id='l236' data-llen='3982:4005'>　　　八十五萬六千四百二十四京九千六百萬兆</span>
+<span class='tline' id='l237' data-llen='4005:4026'>　月之嵗　二千一十五億五千三百九十二萬</span>
+<span class='tline' id='l238' data-llen='4026:4031'>坎之坎</span>
+<span class='tline' id='l239' data-llen='4031:4054'>　　　二十溝七千八百九十一萬二千七百五十壤</span>
+<span class='tline' id='l240' data-llen='4054:4077'>　　　六千八百九萬七千七百五十二秭二千二百</span>
+<span class='tline' id='l241' data-llen='4077:4104'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-14a' );" name="008-14a" class="pb">[008-14a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l242' data-llen='4104:4127'>　　　三十萬二千九百七十三垓二千六百二十七</span>
+<span class='tline' id='l243' data-llen='4127:4145'>　　　萬七千九十九京五千二百萬兆</span>
+<span class='tline' id='l244' data-llen='4145:4168'>　月之月　二萬四千一百八十六億四千七百四萬</span>
+<span class='tline' id='l245' data-llen='4168:4173'>坎之艮</span>
+<span class='tline' id='l246' data-llen='4173:4196'>　　　六百二十三溝六千七百三十八萬二千五百</span>
+<span class='tline' id='l247' data-llen='4196:4219'>　　　二十壤四千二百九十三萬二千五百六十六</span>
+<span class='tline' id='l248' data-llen='4219:4242'>　　　秭六千九百八萬九千一百九十七垓八千八</span>
+<span class='tline' id='l249' data-llen='4242:4264'>　　　百三十一萬二千九百八十五京六千萬兆</span>
+<span class='tline' id='l250' data-llen='4264:4291'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-14b' );" name="008-14b" class="pb">[008-14b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l251' data-llen='4291:4314'>　月之日　七十二萬五千五百九十四億一千一百</span>
+<span class='tline' id='l252' data-llen='4314:4322'>　　　二十萬</span>
+<span class='tline' id='l253' data-llen='4322:4327'>坎之坤</span>
+<span class='tline' id='l254' data-llen='4327:4350'>　　　七千四百八十四溝八百五十九萬二百四十</span>
+<span class='tline' id='l255' data-llen='4350:4373'>　　　五壤一千五百一十九萬八百秭二千九百七</span>
+<span class='tline' id='l256' data-llen='4373:4396'>　　　萬三百七十四垓五千九百七十五萬五千八</span>
+<span class='tline' id='l257' data-llen='4396:4410'>　　　百二十七京二千萬兆</span>
+<span class='tline' id='l258' data-llen='4410:4433'>　月之辰　八百七十萬七千一百二十九億三千四</span>
+<span class='tline' id='l259' data-llen='4433:4460'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-15a' );" name="008-15a" class="pb">[008-15a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l260' data-llen='4460:4469'>　　　百四十萬</span>
+<span class='tline' id='l261' data-llen='4469:4474'>艮之乾</span>
+<span class='tline' id='l262' data-llen='4474:4497'>　　　二十二萬四千五百二十二溝五千七百七十</span>
+<span class='tline' id='l263' data-llen='4497:4520'>　　　萬七千三百五十四壤五千五百七十二萬四</span>
+<span class='tline' id='l264' data-llen='4520:4543'>　　　千八秭七千二百一十一萬一千二百三十七</span>
+<span class='tline' id='l265' data-llen='4543:4565'>　　　垓九千二百六十七萬四千八百一十六京</span>
+<span class='tline' id='l266' data-llen='4565:4582'>　日之元　四千六百六十五萬六千</span>
+<span class='tline' id='l267' data-llen='4582:4587'>艮之兊</span>
+<span class='tline' id='l268' data-llen='4587:4614'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-15b' );" name="008-15b" class="pb">[008-15b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l269' data-llen='4614:4637'>　　　二百六十九萬四千二百七十溝九千二百四</span>
+<span class='tline' id='l270' data-llen='4637:4660'>　　　十八萬八千二百五十四壤六千八百六十八</span>
+<span class='tline' id='l271' data-llen='4660:4683'>　　　萬八千一百四秭六千五百三十三萬四千八</span>
+<span class='tline' id='l272' data-llen='4683:4706'>　　　百五十五垓一千二百九萬七千七百九十二</span>
+<span class='tline' id='l273' data-llen='4706:4712'>　　　京</span>
+<span class='tline' id='l274' data-llen='4712:4731'>　日之會　五億五千九百八十七萬二千</span>
+<span class='tline' id='l275' data-llen='4731:4736'>艮之離</span>
+<span class='tline' id='l276' data-llen='4736:4759'>　　　八千八十二萬八千一百二十七溝七千四百</span>
+<span class='tline' id='l277' data-llen='4759:4786'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-16a' );" name="008-16a" class="pb">[008-16a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l278' data-llen='4786:4809'>　　　六十四萬七千六百四十壤六千六十四萬三</span>
+<span class='tline' id='l279' data-llen='4809:4832'>　　　千一百三十九秭六千四萬五千六百五十三</span>
+<span class='tline' id='l280' data-llen='4832:4853'>　　　垓六千二百九十三萬三千七百六十京</span>
+<span class='tline' id='l281' data-llen='4853:4874'>　日之運　一百六十七億九千六百一十六萬</span>
+<span class='tline' id='l282' data-llen='4874:4879'>艮之震</span>
+<span class='tline' id='l283' data-llen='4879:4902'>　　　九澗六千九百九十三萬七千五百三十二溝</span>
+<span class='tline' id='l284' data-llen='4902:4925'>　　　九千五百七十七萬一千六百八十七壤二千</span>
+<span class='tline' id='l285' data-llen='4925:4948'>　　　七百七十一萬七千六百七十五秭二千五十</span>
+<span class='tline' id='l286' data-llen='4948:4975'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-16b' );" name="008-16b" class="pb">[008-16b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l287' data-llen='4975:4998'>　　　四萬七千八百四十三垓五千五百二十萬五</span>
+<span class='tline' id='l288' data-llen='4998:5009'>　　　千一百二十京</span>
+<span class='tline' id='l289' data-llen='5009:5030'>　日之世　二千一十五億五千三百九十二萬</span>
+<span class='tline' id='l290' data-llen='5030:5035'>艮之巽</span>
+<span class='tline' id='l291' data-llen='5035:5058'>　　　二百九十澗九千八百一十二萬五千九百八</span>
+<span class='tline' id='l292' data-llen='5058:5081'>　　　十八溝七千三百一十五萬六百一十八壤三</span>
+<span class='tline' id='l293' data-llen='5081:5104'>　　　千一百五十三萬二百五十六秭一千六百四</span>
+<span class='tline' id='l294' data-llen='5104:5127'>　　　十三萬五千三百六垓五千六百一十五萬三</span>
+<span class='tline' id='l295' data-llen='5127:5154'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-17a' );" name="008-17a" class="pb">[008-17a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l296' data-llen='5154:5163'>　　　千六百京</span>
+<span class='tline' id='l297' data-llen='5163:5185'>　日之嵗　六萬四百六十六億一千七百六十萬</span>
+<span class='tline' id='l298' data-llen='5185:5190'>艮之坎</span>
+<span class='tline' id='l299' data-llen='5190:5213'>　　　三千四百九十一澗七千七百五十一萬一千</span>
+<span class='tline' id='l300' data-llen='5213:5236'>　　　八百六十四溝七千七百八十萬七千四百一</span>
+<span class='tline' id='l301' data-llen='5236:5259'>　　　十九壤七千八百三十六萬三千七十三秭九</span>
+<span class='tline' id='l302' data-llen='5259:5282'>　　　千七百二十二萬三千六百七十八垓七千三</span>
+<span class='tline' id='l303' data-llen='5282:5297'>　　　百八十四萬三千二百京</span>
+<span class='tline' id='l304' data-llen='5297:5324'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-17b' );" name="008-17b" class="pb">[008-17b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l305' data-llen='5324:5347'>　日之月　七十二萬五千五百九十四億一千一百</span>
+<span class='tline' id='l306' data-llen='5347:5355'>　　　二十萬</span>
+<span class='tline' id='l307' data-llen='5355:5360'>艮之艮</span>
+<span class='tline' id='l308' data-llen='5360:5383'>　　　一十萬四千七百五十三澗二千五百三十五</span>
+<span class='tline' id='l309' data-llen='5383:5406'>　　　萬五千九百四十三溝三千四百二十二萬二</span>
+<span class='tline' id='l310' data-llen='5406:5429'>　　　千五百九十三壤五千八十九萬二千二百一</span>
+<span class='tline' id='l311' data-llen='5429:5452'>　　　十九秭一千六百七十一萬三百六十二垓一</span>
+<span class='tline' id='l312' data-llen='5452:5467'>　　　千五百二十九萬六千京</span>
+<span class='tline' id='l313' data-llen='5467:5494'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-18a' );" name="008-18a" class="pb">[008-18a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l314' data-llen='5494:5517'>　日之日　二千一百七十六萬七千八百二十三億</span>
+<span class='tline' id='l315' data-llen='5517:5527'>　　　三千六百萬</span>
+<span class='tline' id='l316' data-llen='5527:5532'>艮之坤</span>
+<span class='tline' id='l317' data-llen='5532:5555'>　　　一百二十五萬七千三十九澗四百二十七萬</span>
+<span class='tline' id='l318' data-llen='5555:5578'>　　　一千三百二十溝一千六十七萬一千一百二</span>
+<span class='tline' id='l319' data-llen='5578:5601'>　　　十二壤一千七十萬六千六百三十秭五十二</span>
+<span class='tline' id='l320' data-llen='5601:5624'>　　　萬四千三百四十五垓八千三百五十五萬二</span>
+<span class='tline' id='l321' data-llen='5624:5631'>　　　千京</span>
+<span class='tline' id='l322' data-llen='5631:5658'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-18b' );" name="008-18b" class="pb">[008-18b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l323' data-llen='5658:5681'>　日之辰　二兆六千一百二十一萬三千八百八十</span>
+<span class='tline' id='l324' data-llen='5681:5692'>　　　億三千二百萬</span>
+<span class='tline' id='l325' data-llen='5692:5697'>坤之乾</span>
+<span class='tline' id='l326' data-llen='5697:5720'>　　　三千七百七十一萬一千一百七十一澗二千</span>
+<span class='tline' id='l327' data-llen='5720:5743'>　　　八百一十三萬九千六百三溝二千一十三萬</span>
+<span class='tline' id='l328' data-llen='5743:5766'>　　　三千六百六十三壤二千一百一十九萬八千</span>
+<span class='tline' id='l329' data-llen='5766:5789'>　　　九百秭一千五百七十三萬三百七十五垓六</span>
+<span class='tline' id='l330' data-llen='5789:5800'>　　　百五十六萬京</span>
+<span class='tline' id='l331' data-llen='5800:5827'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-19a' );" name="008-19a" class="pb">[008-19a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l332' data-llen='5827:5846'>　辰之元　五億五千九百八十七萬二千</span>
+<span class='tline' id='l333' data-llen='5846:5851'>坤之兊</span>
+<span class='tline' id='l334' data-llen='5851:5874'>　　　四正五千二百五十三萬四千五十五澗三千</span>
+<span class='tline' id='l335' data-llen='5874:5897'>　　　七百六十七萬五千二百三十八溝四千一百</span>
+<span class='tline' id='l336' data-llen='5897:5920'>　　　六十萬三千九百五十八壤五千四百三十八</span>
+<span class='tline' id='l337' data-llen='5920:5943'>　　　萬六千八百一秭八千八百七十六萬四千五</span>
+<span class='tline' id='l338' data-llen='5943:5959'>　　　百垓七千八百七十二萬京</span>
+<span class='tline' id='l339' data-llen='5959:5980'>　辰之㑹　六十七億一千八百四十六萬四千</span>
+<span class='tline' id='l340' data-llen='5980:6007'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-19b' );" name="008-19b" class="pb">[008-19b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l341' data-llen='6007:6012'>坤之離</span>
+<span class='tline' id='l342' data-llen='6012:6035'>　　　一百三十五正七千六百二萬一千六百六十</span>
+<span class='tline' id='l343' data-llen='6035:6058'>　　　一澗三千二十五萬七千一百五十二溝四千</span>
+<span class='tline' id='l344' data-llen='6058:6081'>　　　八百一十一萬八千七百五十六壤三千一百</span>
+<span class='tline' id='l345' data-llen='6081:6104'>　　　六十萬四千五十六秭六千二百九十三萬五</span>
+<span class='tline' id='l346' data-llen='6104:6122'>　　　千二十三垓六千一百六十萬京</span>
+<span class='tline' id='l347' data-llen='6122:6143'>　辰之運　二千一十五億五千三百九十二萬</span>
+<span class='tline' id='l348' data-llen='6143:6148'>坤之震</span>
+<span class='tline' id='l349' data-llen='6148:6175'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-20a' );" name="008-20a" class="pb">[008-20a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l350' data-llen='6175:6198'>　　　一千六百二十九正一千二百二十五萬九千</span>
+<span class='tline' id='l351' data-llen='6198:6221'>　　　九百三十五澗六千三百八萬五千八百二十</span>
+<span class='tline' id='l352' data-llen='6221:6244'>　　　九溝七千七百四十二萬五千七十五壤七千</span>
+<span class='tline' id='l353' data-llen='6244:6267'>　　　九百二十四萬八千六百七十九秭五千五百</span>
+<span class='tline' id='l354' data-llen='6267:6290'>　　　二十二萬二百八十三垓三千九百二十萬京</span>
+<span class='tline' id='l355' data-llen='6290:6313'>　辰之世　二萬四千一百八十六億四千七百四萬</span>
+<span class='tline' id='l356' data-llen='6313:6318'>坤之巽</span>
+<span class='tline' id='l357' data-llen='6318:6341'>　　　四萬八千八百七十三正六千七百七十九萬</span>
+<span class='tline' id='l358' data-llen='6341:6368'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-20b' );" name="008-20b" class="pb">[008-20b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l359' data-llen='6368:6391'>　　　八千六十八澗九千二百五十七萬四千八百</span>
+<span class='tline' id='l360' data-llen='6391:6414'>　　　九十三溝二千二百七十五萬二千二百七十</span>
+<span class='tline' id='l361' data-llen='6414:6437'>　　　三壤七千七百四十六萬三百八十六秭五千</span>
+<span class='tline' id='l362' data-llen='6437:6459'>　　　六百六十萬八千五百一垓七千六百萬京</span>
+<span class='tline' id='l363' data-llen='6459:6482'>　辰之嵗　七十二萬五千五百九十四億一千一百</span>
+<span class='tline' id='l364' data-llen='6482:6490'>　　　二十萬</span>
+<span class='tline' id='l365' data-llen='6490:6495'>坤之坎</span>
+<span class='tline' id='l366' data-llen='6495:6518'>　　　五十八萬六千四百八十四正一千三百五十</span>
+<span class='tline' id='l367' data-llen='6518:6545'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-21a' );" name="008-21a" class="pb">[008-21a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l368' data-llen='6545:6568'>　　　七萬六千八百二十七澗一千八十九萬八千</span>
+<span class='tline' id='l369' data-llen='6568:6591'>　　　七百一十八溝七千三百二萬七千二百八十</span>
+<span class='tline' id='l370' data-llen='6591:6614'>　　　五壤二千九百五十二萬四千六百三十八秭</span>
+<span class='tline' id='l371' data-llen='6614:6637'>　　　七千九百三十萬二千二十一垓一千二百萬</span>
+<span class='tline' id='l372' data-llen='6637:6643'>　　　京</span>
+<span class='tline' id='l373' data-llen='6643:6666'>　辰之月　八百七十萬七千一百二十九億三千四</span>
+<span class='tline' id='l374' data-llen='6666:6675'>　　　百四十萬</span>
+<span class='tline' id='l375' data-llen='6675:6680'>坤之艮</span>
+<span class='tline' id='l376' data-llen='6680:6707'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-21b' );" name="008-21b" class="pb">[008-21b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l377' data-llen='6707:6730'>　　　一千七百五十九萬四千五百二十四正七百</span>
+<span class='tline' id='l378' data-llen='6730:6753'>　　　三十萬四千八百一十三澗二千六百九十六</span>
+<span class='tline' id='l379' data-llen='6753:6776'>　　　萬一千五百六十一溝九千八十一萬八千五</span>
+<span class='tline' id='l380' data-llen='6776:6799'>　　　百五十八壤八千五百七十三萬九千一百六</span>
+<span class='tline' id='l381' data-llen='6799:6822'>　　　十三秭七千九百六萬六百三十三垓六千萬</span>
+<span class='tline' id='l382' data-llen='6822:6828'>　　　京</span>
+<span class='tline' id='l383' data-llen='6828:6851'>　辰之日　二兆六千一百二十一萬三千八百八十</span>
+<span class='tline' id='l384' data-llen='6851:6862'>　　　億三千二百萬</span>
+<span class='tline' id='l385' data-llen='6862:6889'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-22a' );" name="008-22a" class="pb">[008-22a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l386' data-llen='6889:6894'>坤之坤</span>
+<span class='tline' id='l387' data-llen='6894:6917'>　　　二載一千一百一十三萬四千二百八十八正</span>
+<span class='tline' id='l388' data-llen='6917:6940'>　　　八千七百六十五萬七千七百五十九澗二千</span>
+<span class='tline' id='l389' data-llen='6940:6963'>　　　三百五十三萬八千七百四十二溝八千九百</span>
+<span class='tline' id='l390' data-llen='6963:6986'>　　　八十二萬二千七百六壤二千八百八十六萬</span>
+<span class='tline' id='l391' data-llen='6986:7009'>　　　九千九百六十五秭四千八百七十二萬七千</span>
+<span class='tline' id='l392' data-llen='7009:7022'>　　　六百三垓二千萬京</span>
+<span class='tline' id='l393' data-llen='7022:7045'>　辰之辰　三十一兆三千四百五十六萬六千五百</span>
+<span class='tline' id='l394' data-llen='7045:7072'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-22b' );" name="008-22b" class="pb">[008-22b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l395' data-llen='7072:7086'>　　　六十三億八千四百萬</span>
+<span class='tline' id='l396' data-llen='7086:7109'>　　　元㑹運世嵗月日辰之數如前此邵子用易六</span>
+<span class='tline' id='l397' data-llen='7109:7132'>　　　十四卦之數也一二三四五六七八九十百千</span>
+<span class='tline' id='l398' data-llen='7132:7156'>　　　按朱子儀禮經𫝊通解鍾律篇紀律之寸分云</span>
+<span class='tline' id='l399' data-llen='7156:7179'>　　　凡數準令式借用大字今於六十四卦之數亦</span>
+<span class='tline' id='l400' data-llen='7179:7212'>　　　從其例庶𫝊寫免致差訛<span class='krp-note'>案卦數原本仍不/用大字今從其舊</span></span>
+<span class='tline' id='l401' data-llen='7212:7235'>萬萬曰億　萬萬億曰兆　萬萬兆曰京　萬萬京曰</span>
+<span class='tline' id='l402' data-llen='7235:7258'>垓　萬萬垓曰秭　萬萬秭曰壤　萬萬壤曰溝　萬</span>
+<span class='tline' id='l403' data-llen='7258:7285'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-23a' );" name="008-23a" class="pb">[008-23a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l404' data-llen='7285:7309'>萬溝曰澗　萬萬澗曰正　萬萬正曰載　萬萬載曰極</span>
+<span class='tline' id='l405' data-llen='7309:7322'>　以上諸大數依九章算法</span>
+<span class='tline' id='l406' data-llen='7322:7334'>聲律闢翕音吕清濁之數</span>
+<span class='tline' id='l407' data-llen='7334:7339'>乾之乾</span>
+<span class='tline' id='l408' data-llen='7339:7350'>　　日日聲平之一闢</span>
+<span class='tline' id='l409' data-llen='7350:7364'>　　多良千刀妻宫心●●●</span>
+<span class='tline' id='l410' data-llen='7364:7374'>　　數十其三無聲</span>
+<span class='tline' id='l411' data-llen='7374:7379'>乾之兊</span>
+<span class='tline' id='l412' data-llen='7379:7406'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-23b' );" name="008-23b" class="pb">[008-23b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l413' data-llen='7406:7417'>　　日月聲平之二翕</span>
+<span class='tline' id='l414' data-llen='7417:7431'>　　禾光元毛衰龍○●●●</span>
+<span class='tline' id='l415' data-llen='7431:7441'>　　數十其三無聲</span>
+<span class='tline' id='l416' data-llen='7441:7446'>乾之離</span>
+<span class='tline' id='l417' data-llen='7446:7457'>　　日星聲平之三闢</span>
+<span class='tline' id='l418' data-llen='7457:7471'>　　開丁臣牛○魚男●●●</span>
+<span class='tline' id='l419' data-llen='7471:7481'>　　數十其三無聲</span>
+<span class='tline' id='l420' data-llen='7481:7486'>乾之震</span>
+<span class='tline' id='l421' data-llen='7486:7513'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-24a' );" name="008-24a" class="pb">[008-24a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l422' data-llen='7513:7524'>　　日辰聲平之四翕</span>
+<span class='tline' id='l423' data-llen='7524:7538'>　　囘兄君○龜烏○●●●</span>
+<span class='tline' id='l424' data-llen='7538:7548'>　　數十其三無聲</span>
+<span class='tline' id='l425' data-llen='7548:7553'>兊之乾</span>
+<span class='tline' id='l426' data-llen='7553:7564'>　　月日聲上之一闢</span>
+<span class='tline' id='l427' data-llen='7564:7578'>　　可兩典早子孔審●●●</span>
+<span class='tline' id='l428' data-llen='7578:7588'>　　數十其三無聲</span>
+<span class='tline' id='l429' data-llen='7588:7593'>兊之兊</span>
+<span class='tline' id='l430' data-llen='7593:7620'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-24b' );" name="008-24b" class="pb">[008-24b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l431' data-llen='7620:7631'>　　月月聲上之二翕</span>
+<span class='tline' id='l432' data-llen='7631:7645'>　　火廣犬寳○甬○●●●</span>
+<span class='tline' id='l433' data-llen='7645:7655'>　　數十其三無聲</span>
+<span class='tline' id='l434' data-llen='7655:7660'>兊之離</span>
+<span class='tline' id='l435' data-llen='7660:7671'>　　月星聲上之三闢</span>
+<span class='tline' id='l436' data-llen='7671:7685'>　　宰井引斗○鼠坎●●●</span>
+<span class='tline' id='l437' data-llen='7685:7695'>　　數十其三無聲</span>
+<span class='tline' id='l438' data-llen='7695:7700'>兊之震</span>
+<span class='tline' id='l439' data-llen='7700:7727'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-25a' );" name="008-25a" class="pb">[008-25a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l440' data-llen='7727:7738'>　　月辰聲上之四翕</span>
+<span class='tline' id='l441' data-llen='7738:7752'>　　每永允○水虎○●●●</span>
+<span class='tline' id='l442' data-llen='7752:7762'>　　數十其三無聲</span>
+<span class='tline' id='l443' data-llen='7762:7767'>離之乾</span>
+<span class='tline' id='l444' data-llen='7767:7778'>　　星日聲去之一闢</span>
+<span class='tline' id='l445' data-llen='7778:7792'>　　个向旦孝四衆禁●●●</span>
+<span class='tline' id='l446' data-llen='7792:7802'>　　數十其三無聲</span>
+<span class='tline' id='l447' data-llen='7802:7807'>離之兊</span>
+<span class='tline' id='l448' data-llen='7807:7834'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-25b' );" name="008-25b" class="pb">[008-25b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l449' data-llen='7834:7845'>　　星月聲去之二翕</span>
+<span class='tline' id='l450' data-llen='7845:7859'>　　化況半報帥用○●●●</span>
+<span class='tline' id='l451' data-llen='7859:7869'>　　數十其三無聲</span>
+<span class='tline' id='l452' data-llen='7869:7874'>離之離</span>
+<span class='tline' id='l453' data-llen='7874:7885'>　　星星聲去之三闢</span>
+<span class='tline' id='l454' data-llen='7885:7899'>　　愛亘艮奏○去欠●●●</span>
+<span class='tline' id='l455' data-llen='7899:7909'>　　數十其三無聲</span>
+<span class='tline' id='l456' data-llen='7909:7914'>離之震</span>
+<span class='tline' id='l457' data-llen='7914:7941'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-26a' );" name="008-26a" class="pb">[008-26a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l458' data-llen='7941:7952'>　　星辰聲去之四翕</span>
+<span class='tline' id='l459' data-llen='7952:7966'>　　退瑩巽○貴兎○●●●</span>
+<span class='tline' id='l460' data-llen='7966:7976'>　　數十其三無聲</span>
+<span class='tline' id='l461' data-llen='7976:7981'>震之乾</span>
+<span class='tline' id='l462' data-llen='7981:7992'>　　辰日聲入之一闢</span>
+<span class='tline' id='l463' data-llen='7992:8006'>　　舌○○岳日○○●●●</span>
+<span class='tline' id='l464' data-llen='8006:8016'>　　數十其三無聲</span>
+<span class='tline' id='l465' data-llen='8016:8021'>震之兊</span>
+<span class='tline' id='l466' data-llen='8021:8048'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-26b' );" name="008-26b" class="pb">[008-26b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l467' data-llen='8048:8059'>　　辰月聲入之二翕</span>
+<span class='tline' id='l468' data-llen='8059:8073'>　　八○○霍骨○十●●●</span>
+<span class='tline' id='l469' data-llen='8073:8083'>　　數十其三無聲</span>
+<span class='tline' id='l470' data-llen='8083:8088'>震之離</span>
+<span class='tline' id='l471' data-llen='8088:8099'>　　辰星聲人之三闢</span>
+<span class='tline' id='l472' data-llen='8099:8113'>　　○○○六德○○●●●</span>
+<span class='tline' id='l473' data-llen='8113:8123'>　　數十其三無聲</span>
+<span class='tline' id='l474' data-llen='8123:8128'>震之震</span>
+<span class='tline' id='l475' data-llen='8128:8155'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-27a' );" name="008-27a" class="pb">[008-27a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l476' data-llen='8155:8166'>　　辰辰聲入之四翕</span>
+<span class='tline' id='l477' data-llen='8166:8180'>　　○○○玉北○妾●●●</span>
+<span class='tline' id='l478' data-llen='8180:8190'>　　數十其三無聲</span>
+<span class='tline' id='l479' data-llen='8190:8199'>聲一二三四之一</span>
+<span class='tline' id='l480' data-llen='8199:8235'>　多<span class='krp-note'>麻○/○</span>　可<span class='krp-note'>馬○/○</span>　个<span class='krp-note'>禡○/○</span>　舌<span class='krp-note'>○○/○</span>　借</span>
+<span class='tline' id='l481' data-llen='8235:8271'>　禾<span class='krp-note'>歌/戈</span>　　火<span class='krp-note'>哿/果</span>　　化<span class='krp-note'>箇/過</span>　　八<span class='krp-note'>曷/末</span>　　借</span>
+<span class='tline' id='l482' data-llen='8271:8304'>　開<span class='krp-note'>咍/</span>　　宰<span class='krp-note'>海/</span>　　愛<span class='krp-note'>代/</span>　　○<span class='krp-note'>覺藥/鐸</span>　借</span>
+<span class='tline' id='l483' data-llen='8304:8337'>　囘<span class='krp-note'>灰/</span>　　每<span class='krp-note'>賄/</span>　　退<span class='krp-note'>隊/</span>　　○<span class='krp-note'>昔錫/職</span>　借</span>
+<span class='tline' id='l484' data-llen='8337:8364'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-27b' );" name="008-27b" class="pb">[008-27b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l485' data-llen='8364:8373'>聲一二三四之二</span>
+<span class='tline' id='l486' data-llen='8373:8405'>　良<span class='krp-note'>○/</span>　　兩<span class='krp-note'>○/</span>　　向<span class='krp-note'>○/</span>　　○<span class='krp-note'>○/</span>　　正</span>
+<span class='tline' id='l487' data-llen='8405:8441'>　光<span class='krp-note'>寒/桓</span>　　廣<span class='krp-note'>旱/緩</span>　　況<span class='krp-note'>翰/換</span>　　○<span class='krp-note'>曷/末</span>　　正</span>
+<span class='tline' id='l488' data-llen='8441:8477'>　丁<span class='krp-note'>江陽/唐</span>　井<span class='krp-note'>講養/蕩</span>　亘<span class='krp-note'>絳漾/宕</span>　○<span class='krp-note'>覺藥/鐸</span>　正</span>
+<span class='tline' id='l489' data-llen='8477:8514'>　兄<span class='krp-note'>清青/蒸</span>　永<span class='krp-note'>静迥/拯</span>　瑩<span class='krp-note'>映勁/徑證</span>　○<span class='krp-note'>昔錫/職</span>　正</span>
+<span class='tline' id='l490' data-llen='8514:8523'>聲一二三四之三</span>
+<span class='tline' id='l491' data-llen='8523:8559'>　千<span class='krp-note'>刪/山</span>　　典<span class='krp-note'>澘/彦</span>　　旦<span class='krp-note'>諌/澗</span>　　○<span class='krp-note'>黠/轄</span>　　正</span>
+<span class='tline' id='l492' data-llen='8559:8599'>　元<span class='krp-note'>臻元痕/先仙</span>犬<span class='krp-note'>阮狼/銑獮</span>　半<span class='krp-note'>願恨/震線</span>　○<span class='krp-note'>櫛月/屑薛</span>　正</span>
+<span class='tline' id='l493' data-llen='8599:8626'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-28a' );" name="008-28a" class="pb">[008-28a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l494' data-llen='8626:8662'>　臣<span class='krp-note'>貞/殷</span>　　引<span class='krp-note'>軫/隠</span>　　艮<span class='krp-note'>震/焮</span>　　○<span class='krp-note'>質/迄</span>　　正</span>
+<span class='tline' id='l495' data-llen='8662:8698'>　君<span class='krp-note'>諄文/魂</span>　允<span class='krp-note'>凖吻/混</span>　巽<span class='krp-note'>問恩/稕</span>　○<span class='krp-note'>術物/沒</span>　正</span>
+<span class='tline' id='l496' data-llen='8698:8707'>聲一二三四之四</span>
+<span class='tline' id='l497' data-llen='8707:8741'>　刀<span class='krp-note'>肴/</span>　　早<span class='krp-note'>巧/</span>　　孝<span class='krp-note'>效/</span>　　岳<span class='krp-note'>葉帖洽/業法</span>借</span>
+<span class='tline' id='l498' data-llen='8741:8776'>　毛<span class='krp-note'>蕭宵/豪</span>　寳<span class='krp-note'>篠小/皓</span>　報<span class='krp-note'>嘯/</span>　　霍<span class='krp-note'>合/盍</span>　　借</span>
+<span class='tline' id='l499' data-llen='8776:8808'>　牛<span class='krp-note'>矦/</span>　　斗<span class='krp-note'>厚/</span>　　奏<span class='krp-note'>候/</span>　　六<span class='krp-note'>澀/</span>　　借</span>
+<span class='tline' id='l500' data-llen='8808:8843'>　○<span class='krp-note'>尤/幽</span>　　○<span class='krp-note'>有/黝</span>　　○<span class='krp-note'>有/幼</span>　　玉<span class='krp-note'>緝/</span>　　借</span>
+<span class='tline' id='l501' data-llen='8843:8852'>聲一二三四之五</span>
+<span class='tline' id='l502' data-llen='8852:8879'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-28b' );" name="008-28b" class="pb">[008-28b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l503' data-llen='8879:8916'>　妻<span class='krp-note'>佳/皆</span>　　子<span class='krp-note'>蠏/駭</span>　　四<span class='krp-note'>泰卦/怪夬</span>　日<span class='krp-note'>黠/轄</span>　　借</span>
+<span class='tline' id='l504' data-llen='8916:8951'>　衰<span class='krp-note'>齊/</span>　　○<span class='krp-note'>薺/</span>　　帥<span class='krp-note'>霽祭/廢</span>　骨<span class='krp-note'>櫛月/屑薛</span>　借</span>
+<span class='tline' id='l505' data-llen='8951:8990'>　○<span class='krp-note'>支脂/之微</span>　○<span class='krp-note'>紙㫖/止尾</span>　○<span class='krp-note'>寘至/志未</span>　德<span class='krp-note'>質/迄</span>　　借</span>
+<span class='tline' id='l506' data-llen='8990:9023'>　龜<span class='krp-note'>追/</span>　　水<span class='krp-note'>髓/</span>　　貴<span class='krp-note'>粹/</span>　　北<span class='krp-note'>術物/没</span>　借</span>
+<span class='tline' id='l507' data-llen='9023:9032'>聲一二三四之六</span>
+<span class='tline' id='l508' data-llen='9032:9068'>　宫<span class='krp-note'>庚耕/登</span>　孔<span class='krp-note'>梗耿/等</span>　衆<span class='krp-note'>諍/登</span>　　○<span class='krp-note'>陌麥/德</span>　正</span>
+<span class='tline' id='l509' data-llen='9068:9104'>　龍<span class='krp-note'>東冬/鍾</span>　甬<span class='krp-note'>董/腫</span>　　用<span class='krp-note'>送宋/用</span>　○<span class='krp-note'>屋沃/燭</span>　正</span>
+<span class='tline' id='l510' data-llen='9104:9137'>　魚<span class='krp-note'>○/</span>　　鼠<span class='krp-note'>○/</span>　　去<span class='krp-note'>○/</span>　　○<span class='krp-note'>陌麥/德</span>　正</span>
+<span class='tline' id='l511' data-llen='9137:9164'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-29a' );" name="008-29a" class="pb">[008-29a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l512' data-llen='9164:9201'>　烏<span class='krp-note'>魚虞/模</span>　虎<span class='krp-note'>語麌/姥</span>　兎<span class='krp-note'>御遇/暮</span>　○<span class='krp-note'>屋沃/燭</span>　　借</span>
+<span class='tline' id='l513' data-llen='9201:9210'>聲一二三四之七</span>
+<span class='tline' id='l514' data-llen='9210:9243'>　心<span class='krp-note'>森/</span>　　審<span class='krp-note'>怎/</span>　　禁<span class='krp-note'>諧/</span>　　○<span class='krp-note'>澀/</span>　　　正</span>
+<span class='tline' id='l515' data-llen='9243:9276'>　○<span class='krp-note'>侵/</span>　　○<span class='krp-note'>寢/</span>　　○<span class='krp-note'>沁/</span>　　十<span class='krp-note'>緝/</span>　　　正</span>
+<span class='tline' id='l516' data-llen='9276:9321'>　男<span class='krp-note'>鹽添减/街嚴凡</span>坎<span class='krp-note'>琰忝儼/豏檻范</span>欠<span class='krp-note'>闞豔㮇釅/陷鑑梵</span>○<span class='krp-note'>葉帖洽/狎業乏</span>正</span>
+<span class='tline' id='l517' data-llen='9321:9357'>　○<span class='krp-note'>覃/談</span>　　○<span class='krp-note'>感/敢</span>　　○<span class='krp-note'>勘/</span>　　妾<span class='krp-note'>合/盍</span>　　　正</span>
+<span class='tline' id='l518' data-llen='9357:9366'>聲一二三四之八</span>
+<span class='tline' id='l519' data-llen='9366:9387'>　●　　　　●　　　　●　　　　　　●</span>
+<span class='tline' id='l520' data-llen='9387:9414'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-29b' );" name="008-29b" class="pb">[008-29b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l521' data-llen='9414:9433'>　●　　　　●　　　　●　　　　●</span>
+<span class='tline' id='l522' data-llen='9433:9452'>　●　　　　●　　　　●　　　　●</span>
+<span class='tline' id='l523' data-llen='9452:9471'>　●　　　　●　　　　●　　　　●</span>
+<span class='tline' id='l524' data-llen='9471:9480'>聲一二三四之九</span>
+<span class='tline' id='l525' data-llen='9480:9499'>　●　　　　●　　　　●　　　　●</span>
+<span class='tline' id='l526' data-llen='9499:9518'>　●　　　　●　　　　●　　　　●</span>
+<span class='tline' id='l527' data-llen='9518:9537'>　●　　　　●　　　　●　　　　●</span>
+<span class='tline' id='l528' data-llen='9537:9556'>　●　　　　●　　　　●　　　　●</span>
+<span class='tline' id='l529' data-llen='9556:9583'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-30a' );" name="008-30a" class="pb">[008-30a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l530' data-llen='9583:9592'>聲一二三四之十</span>
+<span class='tline' id='l531' data-llen='9592:9611'>　●　　　　●　　　　●　　　　●</span>
+<span class='tline' id='l532' data-llen='9611:9630'>　●　　　　●　　　　●　　　　●</span>
+<span class='tline' id='l533' data-llen='9630:9649'>　●　　　　●　　　　●　　　　●</span>
+<span class='tline' id='l534' data-llen='9649:9668'>　●　　　　●　　　　●　　　　●</span>
+<span class='tline' id='l535' data-llen='9668:9673'>坤之坤</span>
+<span class='tline' id='l536' data-llen='9673:9683'>　水水音開之一清</span>
+<span class='tline' id='l537' data-llen='9683:9699'>　　古黒安夫卜東乃走思■■■</span>
+<span class='tline' id='l538' data-llen='9699:9726'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-30b' );" name="008-30b" class="pb">[008-30b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l539' data-llen='9726:9737'>　　數十二其三無音</span>
+<span class='tline' id='l540' data-llen='9737:9742'>坤之艮</span>
+<span class='tline' id='l541' data-llen='9742:9752'>　水火音開之二濁</span>
+<span class='tline' id='l542' data-llen='9752:9768'>　　□黃□父歩兊内自寺■■■</span>
+<span class='tline' id='l543' data-llen='9768:9779'>　　數十二其三無音</span>
+<span class='tline' id='l544' data-llen='9779:9784'>坤之坎</span>
+<span class='tline' id='l545' data-llen='9784:9794'>　水土音開之三清</span>
+<span class='tline' id='l546' data-llen='9794:9810'>　　坤五母武普土老草□■■■</span>
+<span class='tline' id='l547' data-llen='9810:9837'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-31a' );" name="008-31a" class="pb">[008-31a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l548' data-llen='9837:9848'>　　數十二其三無音</span>
+<span class='tline' id='l549' data-llen='9848:9853'>坤之巽</span>
+<span class='tline' id='l550' data-llen='9853:9863'>　水石音開之四濁</span>
+<span class='tline' id='l551' data-llen='9863:9879'>　　□吾目文旁同鹿曹□■■■</span>
+<span class='tline' id='l552' data-llen='9879:9890'>　　數十二其三無音</span>
+<span class='tline' id='l553' data-llen='9890:9895'>艮之坤</span>
+<span class='tline' id='l554' data-llen='9895:9906'>　火水音𤼵之一清</span>
+<span class='tline' id='l555' data-llen='9906:9922'>　　甲花亞法百丹㛋哉三山莊卓</span>
+<span class='tline' id='l556' data-llen='9922:9949'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-31b' );" name="008-31b" class="pb">[008-31b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l557' data-llen='9949:9959'>　　數十二俱有音</span>
+<span class='tline' id='l558' data-llen='9959:9964'>艮之艮</span>
+<span class='tline' id='l559' data-llen='9964:9975'>　火火音𤼵之二濁</span>
+<span class='tline' id='l560' data-llen='9975:9991'>　　□華爻凡白大南在□士乍宅</span>
+<span class='tline' id='l561' data-llen='9991:10001'>　　數十二俱有音</span>
+<span class='tline' id='l562' data-llen='10001:10006'>艮之坎</span>
+<span class='tline' id='l563' data-llen='10006:10017'>　火土音𤼵之三清</span>
+<span class='tline' id='l564' data-llen='10017:10033'>　　巧瓦馬晚朴貪冷采□□义圻</span>
+<span class='tline' id='l565' data-llen='10033:10060'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-32a' );" name="008-32a" class="pb">[008-32a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l566' data-llen='10060:10070'>　　數十二俱有音</span>
+<span class='tline' id='l567' data-llen='10070:10075'>艮之巽</span>
+<span class='tline' id='l568' data-llen='10075:10086'>　火石音𤼵之四濁</span>
+<span class='tline' id='l569' data-llen='10086:10102'>　　□牙㒵萬排覃犖才□□崇荼</span>
+<span class='tline' id='l570' data-llen='10102:10112'>　　數十二俱有音</span>
+<span class='tline' id='l571' data-llen='10112:10117'>坎之坤</span>
+<span class='tline' id='l572' data-llen='10117:10127'>　土水音收之一清</span>
+<span class='tline' id='l573' data-llen='10127:10143'>　　九香乙□丙帝女足星手震中</span>
+<span class='tline' id='l574' data-llen='10143:10170'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-32b' );" name="008-32b" class="pb">[008-32b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l575' data-llen='10170:10180'>　　數十二俱有音</span>
+<span class='tline' id='l576' data-llen='10180:10185'>坎之艮</span>
+<span class='tline' id='l577' data-llen='10185:10195'>　土火音收之二濁</span>
+<span class='tline' id='l578' data-llen='10195:10218'>　　近雄王□<img height='20' width='20' alt='&amp;KR3681' title='KR3681' src='https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3681.png'/>弟年匠象石□直</span>
+<span class='tline' id='l579' data-llen='10218:10228'>　　數十二俱有音</span>
+<span class='tline' id='l580' data-llen='10228:10233'>坎之坎</span>
+<span class='tline' id='l581' data-llen='10233:10243'>　土土音收之三清</span>
+<span class='tline' id='l582' data-llen='10243:10259'>　　邱仰美□品天吕七□耳赤丑</span>
+<span class='tline' id='l583' data-llen='10259:10286'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-33a' );" name="008-33a" class="pb">[008-33a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l584' data-llen='10286:10296'>　　數十二俱有音</span>
+<span class='tline' id='l585' data-llen='10296:10301'>坎之巽</span>
+<span class='tline' id='l586' data-llen='10301:10311'>　土石音收之四濁</span>
+<span class='tline' id='l587' data-llen='10311:10327'>　　乾月睂□平田離全□二辰呈</span>
+<span class='tline' id='l588' data-llen='10327:10337'>　　數十二俱有音</span>
+<span class='tline' id='l589' data-llen='10337:10342'>巽之坤</span>
+<span class='tline' id='l590' data-llen='10342:10352'>　石水音閉之一清</span>
+<span class='tline' id='l591' data-llen='10352:10368'>　　癸血一飛必■■■■■■■</span>
+<span class='tline' id='l592' data-llen='10368:10395'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-33b' );" name="008-33b" class="pb">[008-33b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l593' data-llen='10395:10406'>　　數十二其七無音</span>
+<span class='tline' id='l594' data-llen='10406:10411'>巽之艮</span>
+<span class='tline' id='l595' data-llen='10411:10421'>　石火音閉之二濁</span>
+<span class='tline' id='l596' data-llen='10421:10437'>　　揆賢寅吠鼻■■■■■■■</span>
+<span class='tline' id='l597' data-llen='10437:10448'>　　數十二其七無音</span>
+<span class='tline' id='l598' data-llen='10448:10453'>巽之坎</span>
+<span class='tline' id='l599' data-llen='10453:10463'>　石土音閉之三清</span>
+<span class='tline' id='l600' data-llen='10463:10479'>　　棄□米尾匹■■■■■■■</span>
+<span class='tline' id='l601' data-llen='10479:10506'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-34a' );" name="008-34a" class="pb">[008-34a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l602' data-llen='10506:10517'>　　數十二其七無音</span>
+<span class='tline' id='l603' data-llen='10517:10522'>巽之巽</span>
+<span class='tline' id='l604' data-llen='10522:10532'>　石石音閉之四濁</span>
+<span class='tline' id='l605' data-llen='10532:10548'>　　蚪堯民未瓶■■■■■■■</span>
+<span class='tline' id='l606' data-llen='10548:10559'>　　數十二其七無音</span>
+<span class='tline' id='l607' data-llen='10559:10568'>音一二三四之一</span>
+<span class='tline' id='l608' data-llen='10568:10588'>　古<span class='krp-note'>見斤/堅</span>　甲　　　九　　　癸</span>
+<span class='tline' id='l609' data-llen='10588:10608'>　□<span class='krp-note'>○□/□</span>　□　　　近　　　揆</span>
+<span class='tline' id='l610' data-llen='10608:10635'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-34b' );" name="008-34b" class="pb">[008-34b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l611' data-llen='10635:10654'>　坤<span class='krp-note'>溪輕/牽</span>　巧　　　邱　　弃</span>
+<span class='tline' id='l612' data-llen='10654:10673'>　□<span class='krp-note'>芹勤/虔</span>　□　　　乾　　蚪</span>
+<span class='tline' id='l613' data-llen='10673:10682'>音一二三四之二</span>
+<span class='tline' id='l614' data-llen='10682:10701'>　黒<span class='krp-note'>曉欣/掀</span>　花　　　香　　血</span>
+<span class='tline' id='l615' data-llen='10701:10720'>　黄<span class='krp-note'>匣刑/賢</span>　華　　　雄　　賢</span>
+<span class='tline' id='l616' data-llen='10720:10739'>　五<span class='krp-note'>□□/□</span>　瓦　　　仰　　□</span>
+<span class='tline' id='l617' data-llen='10739:10758'>　吾<span class='krp-note'>疑銀/研</span>　牙　　　月　　堯</span>
+<span class='tline' id='l618' data-llen='10758:10767'>音一二三四之三</span>
+<span class='tline' id='l619' data-llen='10767:10794'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-35a' );" name="008-35a" class="pb">[008-35a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l620' data-llen='10794:10814'>　安<span class='krp-note'>影因/煙</span>　亞　　　乙　　　一</span>
+<span class='tline' id='l621' data-llen='10814:10834'>　□<span class='krp-note'>喻寅/焉</span>　爻　　　王　　　寅</span>
+<span class='tline' id='l622' data-llen='10834:10854'>　母<span class='krp-note'>□□/□</span>　馬　　　美　　　米</span>
+<span class='tline' id='l623' data-llen='10854:10874'>　目<span class='krp-note'>明民/眠</span>　㒵　　　省　　　民</span>
+<span class='tline' id='l624' data-llen='10874:10883'>音一二三四之四</span>
+<span class='tline' id='l625' data-llen='10883:10903'>　夫<span class='krp-note'>敷薰/暄</span>　法　　　□　　　飛</span>
+<span class='tline' id='l626' data-llen='10903:10923'>　父<span class='krp-note'>奉墳/煩</span>　凡　　　□　　　吠</span>
+<span class='tline' id='l627' data-llen='10923:10943'>　武<span class='krp-note'>威緼/淵</span>　晚　　　□　　　尾</span>
+<span class='tline' id='l628' data-llen='10943:10970'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-35b' );" name="008-35b" class="pb">[008-35b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l629' data-llen='10970:10990'>　文<span class='krp-note'>徽云/員</span>　萬　　　□　　　未</span>
+<span class='tline' id='l630' data-llen='10990:10999'>音一二三四之五</span>
+<span class='tline' id='l631' data-llen='10999:11019'>　卜<span class='krp-note'>幇賓/邊</span>　百　　　丙　　　必</span>
+<span class='tline' id='l632' data-llen='11019:11046'>　歩<span class='krp-note'>□□/□</span>　白　　　<img height='20' width='20' alt='&amp;KR3681' title='KR3681' src='https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3681.png'/>　　　鼻</span>
+<span class='tline' id='l633' data-llen='11046:11066'>　普<span class='krp-note'>滂繽/偏</span>　朴　　　品　　　匹</span>
+<span class='tline' id='l634' data-llen='11066:11086'>　旁<span class='krp-note'>並貧/便</span>　排　　　平　　　瓶</span>
+<span class='tline' id='l635' data-llen='11086:11095'>音一二三四之六</span>
+<span class='tline' id='l636' data-llen='11095:11115'>　東<span class='krp-note'>端丁/顛</span>　丹　　　帝　　　■</span>
+<span class='tline' id='l637' data-llen='11115:11142'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-36a' );" name="008-36a" class="pb">[008-36a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l638' data-llen='11142:11162'>　兊<span class='krp-note'>□□/□</span>　大　　　弟　　　■</span>
+<span class='tline' id='l639' data-llen='11162:11182'>　土<span class='krp-note'>透汀/天</span>　貪　　　天　　　■</span>
+<span class='tline' id='l640' data-llen='11182:11202'>　同<span class='krp-note'>定亭/田</span>　覃　　　田　　　■</span>
+<span class='tline' id='l641' data-llen='11202:11211'>音一二三四之七</span>
+<span class='tline' id='l642' data-llen='11211:11231'>　乃<span class='krp-note'>□□/□</span>　㛋　　　女　　　■</span>
+<span class='tline' id='l643' data-llen='11231:11251'>　内<span class='krp-note'>泥□/年</span>　南　　　年　　　■</span>
+<span class='tline' id='l644' data-llen='11251:11271'>　老<span class='krp-note'>□□/□</span>　冷　　　吕　　　■</span>
+<span class='tline' id='l645' data-llen='11271:11292'>　鹿<span class='krp-note'>来鄰/連</span>　犖　　　離　　　　■</span>
+<span class='tline' id='l646' data-llen='11292:11319'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-36b' );" name="008-36b" class="pb">[008-36b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l647' data-llen='11319:11328'>音一二三四之八</span>
+<span class='tline' id='l648' data-llen='11328:11348'>　走<span class='krp-note'>精津/煎</span>　哉　　　足　　　■</span>
+<span class='tline' id='l649' data-llen='11348:11368'>　自<span class='krp-note'>□□/□</span>　在　　　匠　　　■</span>
+<span class='tline' id='l650' data-llen='11368:11388'>　草<span class='krp-note'>清親/千</span>　采　　　七　　　■</span>
+<span class='tline' id='l651' data-llen='11388:11408'>　曹<span class='krp-note'>從秦/前</span>　才　　　全　　　■</span>
+<span class='tline' id='l652' data-llen='11408:11417'>音一二三四之九</span>
+<span class='tline' id='l653' data-llen='11417:11437'>　思<span class='krp-note'>心新/先</span>　三　　　星　　　■</span>
+<span class='tline' id='l654' data-llen='11437:11457'>　寺<span class='krp-note'>斜餳/涎</span>　□　　　象　　　■</span>
+<span class='tline' id='l655' data-llen='11457:11484'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-37a' );" name="008-37a" class="pb">[008-37a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l656' data-llen='11484:11504'>　□<span class='krp-note'>□□/□</span>　□　　　□　　　■</span>
+<span class='tline' id='l657' data-llen='11504:11524'>　□<span class='krp-note'>元危/元</span>　□　　　□　　　■</span>
+<span class='tline' id='l658' data-llen='11524:11533'>音一二三四之十</span>
+<span class='tline' id='l659' data-llen='11533:11553'>　■<span class='krp-note'>審申/羶</span>　山　　　手　　　■</span>
+<span class='tline' id='l660' data-llen='11553:11573'>　■<span class='krp-note'>禪辰/禪</span>　士　　　石　　　■</span>
+<span class='tline' id='l661' data-llen='11573:11593'>　■<span class='krp-note'>□□/□</span>　□　　　耳　　　■</span>
+<span class='tline' id='l662' data-llen='11593:11613'>　■<span class='krp-note'>日人/然</span>　□　　　二　　　■</span>
+<span class='tline' id='l663' data-llen='11613:11623'>音一二三四之十一</span>
+<span class='tline' id='l664' data-llen='11623:11650'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-37b' );" name="008-37b" class="pb">[008-37b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l665' data-llen='11650:11670'>　■<span class='krp-note'>照真/氈</span>　莊　　　震　　　■</span>
+<span class='tline' id='l666' data-llen='11670:11690'>　■<span class='krp-note'>君君/㳙</span>　卓　　　中　　　■</span>
+<span class='tline' id='l667' data-llen='11690:11710'>　■<span class='krp-note'>□□/□</span>　乍　　　□　　　■</span>
+<span class='tline' id='l668' data-llen='11710:11730'>　■<span class='krp-note'>穿嗔/嘽</span>　义　　　赤　　　■</span>
+<span class='tline' id='l669' data-llen='11730:11740'>音一二三四之十二</span>
+<span class='tline' id='l670' data-llen='11740:11760'>　■<span class='krp-note'>澄陳/纏</span>　崇　　　辰　　　■</span>
+<span class='tline' id='l671' data-llen='11760:11776'>　■　　　宅　　　直　　　■</span>
+<span class='tline' id='l672' data-llen='11776:11796'>　■<span class='krp-note'>缺囷/圈</span>　坼　　　丑　　　■</span>
+<span class='tline' id='l673' data-llen='11796:11823'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-38a' );" name="008-38a" class="pb">[008-38a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l674' data-llen='11823:11843'>　■<span class='krp-note'>羣羣/拳</span>　荼　　　呈　　　■</span>
+<span class='tline' id='l675' data-llen='11843:11866'>　　聲律闢翕音吕清濁之數如前此邵子用易三十</span>
+<span class='tline' id='l676' data-llen='11866:11875'>　　二卦之數也</span>
+<span class='tline' id='l677' data-llen='11875:11898'>　　乾兊離震相乗而十六為平上去入之闢翕坤艮</span>
+<span class='tline' id='l678' data-llen='11898:11922'>　　坎巽相乗而十六為開𤼵收閉之清濁聲以乾兊</span>
+<span class='tline' id='l679' data-llen='11922:11945'>　　離震四卦自乗而不乗坤艮坎巽音以坤艮坎巽</span>
+<span class='tline' id='l680' data-llen='11945:11968'>　　四卦自乘而不乘乾兊離震其用者三十二卦不</span>
+<span class='tline' id='l681' data-llen='11968:11978'>　　用者三十二卦</span>
+<span class='tline' id='l682' data-llen='11978:12005'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-38b' );" name="008-38b" class="pb">[008-38b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l683' data-llen='12005:12016'>十六數八數四數二數</span>
+<span class='tline' id='l684' data-llen='12016:12033'>　生生　　生長　　生收　　生藏</span>
+<span class='tline' id='l685' data-llen='12033:12050'>　長生　　長長　　長收　　長藏</span>
+<span class='tline' id='l686' data-llen='12050:12067'>　收生　　收長　　收收　　收藏</span>
+<span class='tline' id='l687' data-llen='12067:12084'>　藏生　　藏長　　藏收　　藏藏</span>
+<span class='tline' id='l688' data-llen='12084:12101'>　皇皇　　皇帝　　皇王　　皇霸</span>
+<span class='tline' id='l689' data-llen='12101:12118'>　帝皇　　帝帝　　帝王　　帝霸</span>
+<span class='tline' id='l690' data-llen='12118:12135'>　王皇　　王帝　　王王　　王霸</span>
+<span class='tline' id='l691' data-llen='12135:12162'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-39a' );" name="008-39a" class="pb">[008-39a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l692' data-llen='12162:12179'>　霸皇　　霸帝　　霸王　　霸霸</span>
+<span class='tline' id='l693' data-llen='12179:12196'>　士士　　士農　　士工　　士商</span>
+<span class='tline' id='l694' data-llen='12196:12213'>　農士　　農農　　農工　　農商</span>
+<span class='tline' id='l695' data-llen='12213:12230'>　工士　　工農　　工工　　工商</span>
+<span class='tline' id='l696' data-llen='12230:12247'>　商士　　商農　　商工　　商商</span>
+<span class='tline' id='l697' data-llen='12247:12264'>　飛飛　　飛走　　飛木　　飛草</span>
+<span class='tline' id='l698' data-llen='12264:12281'>　走飛　　走走　　走木　　走草</span>
+<span class='tline' id='l699' data-llen='12281:12298'>　木飛　　木走　　木木　　木草</span>
+<span class='tline' id='l700' data-llen='12298:12325'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-39b' );" name="008-39b" class="pb">[008-39b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l701' data-llen='12325:12340'>　草飛　草走　　草木　草草</span>
+<span class='tline' id='l702' data-llen='12340:12363'>　　聖人作易初畫為兩儀一加為四象再加為八卦</span>
+<span class='tline' id='l703' data-llen='12363:12386'>　　三加為十六四加為三十二五加至六十四而數</span>
+<span class='tline' id='l704' data-llen='12386:12392'>　　備矣</span>
+<span class='tline' id='l705' data-llen='12392:12415'>　　邵子之書數必以四四又乗四則為十六如時之</span>
+<span class='tline' id='l706' data-llen='12415:12438'>　　為生長收藏君之為皇帝王覇民之為士農工商</span>
+<span class='tline' id='l707' data-llen='12438:12461'>　　物之為飛走木草凡事皆然此類不一蓋與易三</span>
+<span class='tline' id='l708' data-llen='12461:12473'>　　加為十六之數同也</span>
+<span class='tline' id='l709' data-llen='12473:12500'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-40a' );" name="008-40a" class="pb">[008-40a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l710' data-llen='12500:12513'>乾太陽　日　暑　性　目</span>
+<span class='tline' id='l711' data-llen='12513:12526'>兊太陰　月　寒　情　耳</span>
+<span class='tline' id='l712' data-llen='12526:12539'>離少陽　星　晝　形　鼻</span>
+<span class='tline' id='l713' data-llen='12539:12552'>震少陰　辰　夜　體　口</span>
+<span class='tline' id='l714' data-llen='12552:12565'>巽少剛　石　雷　木　氣</span>
+<span class='tline' id='l715' data-llen='12565:12578'>坎少柔　土　露　草　味</span>
+<span class='tline' id='l716' data-llen='12578:12591'>艮太剛　火　風　飛　色</span>
+<span class='tline' id='l717' data-llen='12591:12604'>坤太柔　水　雨　走　聲</span>
+<span class='tline' id='l718' data-llen='12604:12631'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-40b' );" name="008-40b" class="pb">[008-40b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l719' data-llen='12631:12651'>　　凡若此類葢與易再加為八卦之數同也</span>
+<span class='tline' id='l720' data-llen='12651:12669'>春　　易　　道　　化　　仁　　聖</span>
+<span class='tline' id='l721' data-llen='12669:12687'>夏　　書　　德　　教　　禮　　賢</span>
+<span class='tline' id='l722' data-llen='12687:12705'>秋　　詩　　功　　勸　　義　　才</span>
+<span class='tline' id='l723' data-llen='12705:12723'>冬　　春秋　力　　率　　智　　術</span>
+<span class='tline' id='l724' data-llen='12723:12743'>　　凡若此類蓋與易一加為四象之數同也</span>
+<span class='tline' id='l725' data-llen='12743:12763'>天動　　　變　　　感　　　用　　　心</span>
+<span class='tline' id='l726' data-llen='12763:12783'>地静　　　化　　　應　　　體　　　跡</span>
+<span class='tline' id='l727' data-llen='12783:12810'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-41a' );" name="008-41a" class="pb">[008-41a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l728' data-llen='12810:12830'>　　凡若此類葢與易初畫為兩儀之數同也</span>
+<span class='tline' id='l729' data-llen='12830:12833'>　</span>
+<span class='tline' id='l730' data-llen='12833:12836'>　</span>
+<span class='tline' id='l731' data-llen='12836:12839'>　</span>
+<span class='tline' id='l732' data-llen='12839:12842'>　</span>
+<span class='tline' id='l733' data-llen='12842:12845'>　</span>
+<span class='tline' id='l734' data-llen='12845:12848'>　</span>
+<span class='tline' id='l735' data-llen='12848:12851'>　</span>
+<span class='tline' id='l736' data-llen='12851:12878'><a onclick="displayPageImage('KR1a0072', 'WYG', '008-41b' );" name="008-41b" class="pb">[008-41b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l737' data-llen='12878:12884'>坤　太柔</span>
+<span class='tline' id='l738' data-llen='12884:12907'>　　由動静而為陽隂剛柔易之兩儀生四象也由陽</span>
+<span class='tline' id='l739' data-llen='12907:12930'>　　陰剛柔而為太陽太隂少陽少隂少剛少柔太剛</span>
+<span class='tline' id='l740' data-llen='12930:12944'>　　太柔易之四象生八卦也</span>
+<span class='tline' id='l741' data-llen='12944:12947'>　</span>
+<span class='tline' id='l742' data-llen='12947:12950'>　</span>
+<span class='tline' id='l743' data-llen='12950:12953'>　</span>
+<span class='tline' id='l744' data-llen='12953:12963'>　易纂言外翼卷八</span>
 </p>
-<p><br/>
+<p>
 </p>
   </div>

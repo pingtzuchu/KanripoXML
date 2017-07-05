@@ -1,872 +1,872 @@
 <div id="txtcont" class="span9" style="position: relative;">
-    <p><br/>
-<span class='tline' id='l7' data-llen='155:181'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-1a' );" name="002-1a" class="pb">[002-1a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l8' data-llen='181:189'>欽定四庫全書</span><br/>
-<span class='tline' id='l9' data-llen='189:198'>　周易筮述卷二</span><br/>
-<span class='tline' id='l10' data-llen='198:219'>　　　　　　　　　　　　　華隂王宏撰撰</span><br/>
-<span class='tline' id='l11' data-llen='219:227'>　　揲法第四</span><br/>
-<span class='tline' id='l12' data-llen='227:250'>分而為二以象兩挂一以象三揲之以四以象四時歸</span><br/>
-<span class='tline' id='l13' data-llen='250:268'>竒於扐以象閏五嵗再閏故再扐而後挂</span><br/>
-<span class='tline' id='l14' data-llen='268:298'>　　既於蓍百莖中取四十九策熏之爐上<span class='krp-note'>今不能得/滿百莖者</span></span><br/>
-<span class='tline' id='l15' data-llen='298:326'>　　<span class='krp-note'>即五十/可用</span>遂以左右手中分之置格之左右兩大刻</span><br/>
-<span class='tline' id='l16' data-llen='326:352'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-1b' );" name="002-1b" class="pb">[002-1b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l17' data-llen='352:375'>　　此第一營所謂分而為二也次以左手取左大刻</span><br/>
-<span class='tline' id='l18' data-llen='375:398'>　　之策執之而以右手取右大刻之一策挂於左手</span><br/>
-<span class='tline' id='l19' data-llen='398:431'>　　小指間此第二營所謂挂一也<span class='krp-note'>或曰挂一之策何/為取之右大刻曰</span></span><br/>
-<span class='tline' id='l20' data-llen='431:464'>　　<span class='krp-note'>置策先左後右置畢/方挂故取之右也</span>次以右手四揲左手之䇿此</span><br/>
-<span class='tline' id='l21' data-llen='464:487'>　　第三營之半所謂揲之以四也次歸其所餘之策</span><br/>
-<span class='tline' id='l22' data-llen='487:510'>　　扐之左手無名指間此第四營之半所謂歸竒於</span><br/>
-<span class='tline' id='l23' data-llen='510:533'>　　扐也次以右手反過揲之策於左大刻遂取右大</span><br/>
-<span class='tline' id='l24' data-llen='533:556'>　　刻之策執之而以左手四揲之此第三營之半次</span><br/>
-<span class='tline' id='l25' data-llen='556:582'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-2a' );" name="002-2a" class="pb">[002-2a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l26' data-llen='582:605'>　　歸其所餘之策扐之左手中指間此第四營之半</span><br/>
-<span class='tline' id='l27' data-llen='605:645'>　　所謂再扐也<span class='krp-note'>五嵗之象挂一一嵗揲左二嵗歸左/竒三嵗扐閏也揲右四嵗歸右竒五</span></span><br/>
-<span class='tline' id='l28' data-llen='645:680'>　　<span class='krp-note'>嵗再扐再閏也前閏後/閏相去大畧三十二月</span>次以右手反過揲之策於</span><br/>
-<span class='tline' id='l29' data-llen='680:703'>　　右大刻而合左手一挂二扐之策置於格之第一</span><br/>
-<span class='tline' id='l30' data-llen='703:731'>　　小刻<span class='krp-note'>以東/為上</span>是為一變其挂扐之數不五則九再以</span><br/>
-<span class='tline' id='l31' data-llen='731:754'>　　兩手取左右兩大刻之策合之四營如前置其挂</span><br/>
-<span class='tline' id='l32' data-llen='754:777'>　　扐之策於格之第二小刻是為二變其挂扐之數</span><br/>
-<span class='tline' id='l33' data-llen='777:800'>　　不四則八再取左右兩大刻之策合之四營如前</span><br/>
-<span class='tline' id='l34' data-llen='800:826'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-2b' );" name="002-2b" class="pb">[002-2b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l35' data-llen='826:849'>　　置其挂扐之策於格之第三小刻是為三變其挂</span><br/>
-<span class='tline' id='l36' data-llen='849:872'>　　扐之數亦不四則八三變畢乃視其挂扐之竒偶</span><br/>
-<span class='tline' id='l37' data-llen='872:895'>　　以分所遇陰陽之老少為一爻而畫之於板三變</span><br/>
-<span class='tline' id='l38' data-llen='895:918'>　　而得一爻凡十有八變得六爻而成卦乃考其卦</span><br/>
-<span class='tline' id='l39' data-llen='918:931'>　　之變而占其事之吉凶</span><br/>
-<span class='tline' id='l40' data-llen='931:954'>　　按汴水趙氏云蓍變而有之卦者宜畫兩卦一為</span><br/>
-<span class='tline' id='l41' data-llen='954:977'>　　本卦一為之卦若交重單拆三代未聞或謂出於</span><br/>
-<span class='tline' id='l42' data-llen='977:1000'>　　鬼谷子今火珠林諸家多用之三竒為老陽其畫</span><br/>
-<span class='tline' id='l43' data-llen='1000:1026'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-3a' );" name="002-3a" class="pb">[002-3a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l44' data-llen='1026:1056'>　　為口所謂重也二竒一偶為少隂其畫為<img height='20' width='20' alt='&amp;KR0306' title='KR0306' src='https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0306.png'/>所謂</span><br/>
-<span class='tline' id='l45' data-llen='1056:1079'>　　拆也二偶一竒為少陽其畫為一所謂單也三偶</span><br/>
-<span class='tline' id='l46' data-llen='1079:1102'>　　為老隂其畫為㐅所謂交也予謂初為一畫則無</span><br/>
-<span class='tline' id='l47' data-llen='1102:1125'>　　畫兩卦之理以交重單拆為記無礙也故朱子用</span><br/>
-<span class='tline' id='l48' data-llen='1125:1130'>　　之</span><br/>
-<span class='tline' id='l49' data-llen='1130:1152'>　一變<span class='krp-note'>畫卦自下始故記/策下為挂上為扐</span></span><br/>
-<span class='tline' id='l50' data-llen='1152:1187'>　　初一<span class='krp-note'>朱子記以黒㸃趙氏用數字上下/分予改為左右挂者在左尤易明</span></span><br/>
-<span class='tline' id='l51' data-llen='1187:1194'>　　　扐挂</span><br/>
-<span class='tline' id='l52' data-llen='1194:1220'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-3b' );" name="002-3b" class="pb">[002-3b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l53' data-llen='1220:1232'>　　<span class='krp-note'>右三一/左一</span></span><br/>
-<span class='tline' id='l54' data-llen='1232:1244'>　　<span class='krp-note'>右一一/左三</span></span><br/>
-<span class='tline' id='l55' data-llen='1244:1256'>　　<span class='krp-note'>右二一/左二</span></span><br/>
-<span class='tline' id='l56' data-llen='1256:1279'>　　　得五者三竒也兩儀之陽數也四十九策得五</span><br/>
-<span class='tline' id='l57' data-llen='1279:1313'>　　　餘四十四乾兌離震之象<span class='krp-note'>此象説本之谷水林/氏謂有是象非定為</span></span><br/>
-<span class='tline' id='l58' data-llen='1313:1344'>　　　<span class='krp-note'>是象也與後四營篇注可參觀/趙氏駁其與沈氏同誤固矣</span></span><br/>
-<span class='tline' id='l59' data-llen='1344:1356'>　　<span class='krp-note'>右四一/左四</span></span><br/>
-<span class='tline' id='l60' data-llen='1356:1379'>　　　得九者一偶也兩儀之陰數也四十九策得九</span><br/>
-<span class='tline' id='l61' data-llen='1379:1405'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-4a' );" name="002-4a" class="pb">[002-4a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l62' data-llen='1405:1419'>　　　餘四十坤巽坎艮之象</span><br/>
-<span class='tline' id='l63' data-llen='1419:1425'>　　次二</span><br/>
-<span class='tline' id='l64' data-llen='1425:1437'>　　<span class='krp-note'>右二一/左一</span></span><br/>
-<span class='tline' id='l65' data-llen='1437:1449'>　　<span class='krp-note'>右一一/左二</span></span><br/>
-<span class='tline' id='l66' data-llen='1449:1472'>　　　得四者二竒也若四十四策得四餘四十乾兌</span><br/>
-<span class='tline' id='l67' data-llen='1472:1492'>　　　之象四十策得四餘三十六坎巽之象</span><br/>
-<span class='tline' id='l68' data-llen='1492:1504'>　　<span class='krp-note'>右四一/左三</span></span><br/>
-<span class='tline' id='l69' data-llen='1504:1516'>　　<span class='krp-note'>右三一/左四</span></span><br/>
-<span class='tline' id='l70' data-llen='1516:1542'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-4b' );" name="002-4b" class="pb">[002-4b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l71' data-llen='1542:1565'>　　　得八者二偶也若四十四策得八餘三十六離</span><br/>
-<span class='tline' id='l72' data-llen='1565:1586'>　　　震之象四十策得八餘三十二坤艮之象</span><br/>
-<span class='tline' id='l73' data-llen='1586:1592'>　　次三</span><br/>
-<span class='tline' id='l74' data-llen='1592:1604'>　　<span class='krp-note'>右二一/左一</span></span><br/>
-<span class='tline' id='l75' data-llen='1604:1616'>　　<span class='krp-note'>右一一/左二</span></span><br/>
-<span class='tline' id='l76' data-llen='1616:1639'>　　　得四者二竒也若四十策得四餘三十六以四</span><br/>
-<span class='tline' id='l77' data-llen='1639:1662'>　　　數之凡九是為老陽乾之象若三十六策得四</span><br/>
-<span class='tline' id='l78' data-llen='1662:1685'>　　　餘三十二以四數之凡八是為少陰如初四十</span><br/>
-<span class='tline' id='l79' data-llen='1685:1711'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-5a' );" name="002-5a" class="pb">[002-5a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l80' data-llen='1711:1734'>　　　四則離之象初四十則巽之象若三十二得四</span><br/>
-<span class='tline' id='l81' data-llen='1734:1756'>　　　餘二十八以四數之凡七是為少陽艮之象</span><br/>
-<span class='tline' id='l82' data-llen='1756:1768'>　　<span class='krp-note'>右四一/左三</span></span><br/>
-<span class='tline' id='l83' data-llen='1768:1780'>　　<span class='krp-note'>左三一/左四</span></span><br/>
-<span class='tline' id='l84' data-llen='1780:1803'>　　　得八者二偶也若四十策得八餘三十二以四</span><br/>
-<span class='tline' id='l85' data-llen='1803:1826'>　　　數之凡八是為少陰兑之象若三十六策得八</span><br/>
-<span class='tline' id='l86' data-llen='1826:1849'>　　　餘二十八以四數之凡七是為少陽如初四十</span><br/>
-<span class='tline' id='l87' data-llen='1849:1872'>　　　四則震之象初四十則坎之象若三十二策得</span><br/>
-<span class='tline' id='l88' data-llen='1872:1898'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-5b' );" name="002-5b" class="pb">[002-5b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l89' data-llen='1898:1921'>　　　八餘二十四以四數之凡六是為老陰坤之象</span><br/>
-<span class='tline' id='l90' data-llen='1921:1950'>　　三變<span class='krp-note'>畫卦自下始故記變下為/初一中為次二上為次三</span></span><br/>
-<span class='tline' id='l91' data-llen='1950:1963'>　　　次三　次二　初一</span><br/>
-<span class='tline' id='l92' data-llen='1963:1989'>　　<span class='krp-note'>右二一/左一</span>　<span class='krp-note'>二一/一</span>　<span class='krp-note'>三一/一</span></span><br/>
-<span class='tline' id='l93' data-llen='1989:2015'>　　<span class='krp-note'>右一一/左二</span>　<span class='krp-note'>二一/一</span>　<span class='krp-note'>三一/一</span></span><br/>
-<span class='tline' id='l94' data-llen='2015:2041'>　　<span class='krp-note'>右一一/左二</span>　<span class='krp-note'>一一/二</span>　<span class='krp-note'>三一/一</span></span><br/>
-<span class='tline' id='l95' data-llen='2041:2067'>　　<span class='krp-note'>右二一/左一</span>　<span class='krp-note'>一一/二</span>　<span class='krp-note'>三一/一</span></span><br/>
-<span class='tline' id='l96' data-llen='2067:2093'>　　<span class='krp-note'>右二一/左一</span>　<span class='krp-note'>二一/一</span>　<span class='krp-note'>一一/三</span></span><br/>
-<span class='tline' id='l97' data-llen='2093:2119'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-6a' );" name="002-6a" class="pb">[002-6a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l98' data-llen='2119:2145'>　　<span class='krp-note'>右一一/左二</span>　<span class='krp-note'>二一/一</span>　<span class='krp-note'>一一/三</span></span><br/>
-<span class='tline' id='l99' data-llen='2145:2171'>　　<span class='krp-note'>右一一/左二</span>　<span class='krp-note'>一一/二</span>　<span class='krp-note'>一一/三</span></span><br/>
-<span class='tline' id='l100' data-llen='2171:2197'>　　<span class='krp-note'>右二一/左一</span>　<span class='krp-note'>一一/二</span>　<span class='krp-note'>一一/三</span></span><br/>
-<span class='tline' id='l101' data-llen='2197:2223'>　　<span class='krp-note'>右二一/左一</span>　<span class='krp-note'>二一/一</span>　<span class='krp-note'>二一/二</span></span><br/>
-<span class='tline' id='l102' data-llen='2223:2249'>　　<span class='krp-note'>右一一/左二</span>　<span class='krp-note'>二一/一</span>　<span class='krp-note'>二一/二</span></span><br/>
-<span class='tline' id='l103' data-llen='2249:2275'>　　<span class='krp-note'>右一一/左二</span>　<span class='krp-note'>一一/二</span>　<span class='krp-note'>二一/二</span></span><br/>
-<span class='tline' id='l104' data-llen='2275:2301'>　　<span class='krp-note'>右二一/左一</span>　<span class='krp-note'>一一/二</span>　<span class='krp-note'>二一/二</span></span><br/>
-<span class='tline' id='l105' data-llen='2301:2322'>　　以上十二變變皆十三策為九者挂扐之數</span><br/>
-<span class='tline' id='l106' data-llen='2322:2348'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-6b' );" name="002-6b" class="pb">[002-6b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l107' data-llen='2348:2371'>　朱子曰右三竒為老陽者凡十有二挂扐之數十有</span><br/>
-<span class='tline' id='l108' data-llen='2371:2394'>　三除初挂之一為十有二以四約而三分之為一者</span><br/>
-<span class='tline' id='l109' data-llen='2394:2417'>　三一竒象圓而圍三故三一之中各復有三而積三</span><br/>
-<span class='tline' id='l110' data-llen='2417:2440'>　三之數則為九過揲之數三十有六以四約之亦得</span><br/>
-<span class='tline' id='l111' data-llen='2440:2484'>　九焉<span class='krp-note'>挂扐除一四分四十有八而得其一也一其十/二而三其四也九之母也過揲之數四分四十</span></span><br/>
-<span class='tline' id='l112' data-llen='2484:2523'>　<span class='krp-note'>八而得其三也三其十二而九其/四也九之子也皆徑一而圍三也</span>即四象太陽居一</span><br/>
-<span class='tline' id='l113' data-llen='2523:2564'>　含九之數也<span class='krp-note'>一五兩四是為三竒為一者三一即四/也即竒也合三變則為四者凡三是為</span></span><br/>
-<span class='tline' id='l114' data-llen='2564:2610'>　<span class='krp-note'>為一者三一竒象圓而圍三本參天之義是於四策/之中取一䇿以象圓而以三策為圍三而用其全是</span></span><br/>
-<span class='tline' id='l115' data-llen='2610:2636'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-7a' );" name="002-7a" class="pb">[002-7a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l116' data-llen='2636:2682'>　<span class='krp-note'>為一之中復有三合三竒用其全者而言是為三一/之中各復有三而積三三為老陽之九以四約過揲</span></span><br/>
-<span class='tline' id='l117' data-llen='2682:2697'>　<span class='krp-note'>三十六亦為/九者四也</span></span><br/>
-<span class='tline' id='l118' data-llen='2697:2723'>　　<span class='krp-note'>右四一/左三</span>　<span class='krp-note'>四一/三</span>　<span class='krp-note'>四一/四</span></span><br/>
-<span class='tline' id='l119' data-llen='2723:2749'>　　<span class='krp-note'>右三一/左四</span>　<span class='krp-note'>四一/三</span>　<span class='krp-note'>四一/四</span></span><br/>
-<span class='tline' id='l120' data-llen='2749:2775'>　　<span class='krp-note'>右三一/左四</span>　<span class='krp-note'>三一/四</span>　<span class='krp-note'>四一/四</span></span><br/>
-<span class='tline' id='l121' data-llen='2775:2801'>　　<span class='krp-note'>右四一/左三</span>　<span class='krp-note'>三一/四</span>　<span class='krp-note'>四一/四</span></span><br/>
-<span class='tline' id='l122' data-llen='2801:2822'>　　以上四變變皆二十五策為六者挂扐之數</span><br/>
-<span class='tline' id='l123' data-llen='2822:2845'>　朱子曰右三偶為老陰者四挂扐之數二十有五除</span><br/>
-<span class='tline' id='l124' data-llen='2845:2871'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-7b' );" name="002-7b" class="pb">[002-7b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l125' data-llen='2871:2894'>　初挂之一為二十有四以四約而三分之為二者三</span><br/>
-<span class='tline' id='l126' data-llen='2894:2917'>　二偶象方而用其半故三二之中各復有二而積三</span><br/>
-<span class='tline' id='l127' data-llen='2917:2940'>　二之數則為六過揲之數亦二十有四以四約之亦</span><br/>
-<span class='tline' id='l128' data-llen='2940:2983'>　得六焉<span class='krp-note'>挂扐除一六之母也過揲之數六之子也四/分四十有八而各得其二也兩其十二而六</span></span><br/>
-<span class='tline' id='l129' data-llen='2983:3020'>　<span class='krp-note'>其四也皆圍/四而用半也</span>即四象太隂居四含六之數也<span class='krp-note'>一九兩/八是為</span></span><br/>
-<span class='tline' id='l130' data-llen='3020:3066'>　<span class='krp-note'>三偶為二者三二即八也即偶也合三變則為八者/凡三是為為二者三二偶象方而用半本兩地之義</span></span><br/>
-<span class='tline' id='l131' data-llen='3066:3112'>　<span class='krp-note'>是於三變八䇿中各去四不用而於各所存四策中/各取二䇿以象方而各以二䇿為圍四而用其半是</span></span><br/>
-<span class='tline' id='l132' data-llen='3112:3158'>　<span class='krp-note'>為二之中復有二合三偶用其半者而言是三二之/中各復有二而積三二為老隂之六以四約過揲二</span></span><br/>
-<span class='tline' id='l133' data-llen='3158:3184'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-8a' );" name="002-8a" class="pb">[002-8a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l134' data-llen='3184:3198'>　<span class='krp-note'>十四亦為/六者四也</span></span><br/>
-<span class='tline' id='l135' data-llen='3198:3224'>　　<span class='krp-note'>右四一/左三</span>　<span class='krp-note'>四一/三</span>　<span class='krp-note'>三一/一</span></span><br/>
-<span class='tline' id='l136' data-llen='3224:3250'>　　<span class='krp-note'>右三一/左四</span>　<span class='krp-note'>四一/三</span>　<span class='krp-note'>三一/一</span></span><br/>
-<span class='tline' id='l137' data-llen='3250:3276'>　　<span class='krp-note'>右三一/左四</span>　<span class='krp-note'>三一/四</span>　<span class='krp-note'>三一/一</span></span><br/>
-<span class='tline' id='l138' data-llen='3276:3302'>　　<span class='krp-note'>右四一/左三</span>　<span class='krp-note'>三一/四</span>　<span class='krp-note'>三一/一</span></span><br/>
-<span class='tline' id='l139' data-llen='3302:3328'>　　<span class='krp-note'>右四一/左三</span>　<span class='krp-note'>四一/三</span>　<span class='krp-note'>二一/二</span></span><br/>
-<span class='tline' id='l140' data-llen='3328:3354'>　　<span class='krp-note'>右三一/左四</span>　<span class='krp-note'>四一/三</span>　<span class='krp-note'>二一/二</span></span><br/>
-<span class='tline' id='l141' data-llen='3354:3380'>　　<span class='krp-note'>右三一/左四</span>　<span class='krp-note'>三一/四</span>　<span class='krp-note'>二一/二</span></span><br/>
-<span class='tline' id='l142' data-llen='3380:3406'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-8b' );" name="002-8b" class="pb">[002-8b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l143' data-llen='3406:3432'>　　<span class='krp-note'>右四一/左三</span>　<span class='krp-note'>三一/四</span>　<span class='krp-note'>二一/二</span></span><br/>
-<span class='tline' id='l144' data-llen='3432:3458'>　　<span class='krp-note'>右四一/左三</span>　<span class='krp-note'>四一/三</span>　<span class='krp-note'>一一/三</span></span><br/>
-<span class='tline' id='l145' data-llen='3458:3484'>　　<span class='krp-note'>右三一/左四</span>　<span class='krp-note'>四一/三</span>　<span class='krp-note'>一一/三</span></span><br/>
-<span class='tline' id='l146' data-llen='3484:3510'>　　<span class='krp-note'>右三一/左四</span>　<span class='krp-note'>三一/四</span>　<span class='krp-note'>一一/三</span></span><br/>
-<span class='tline' id='l147' data-llen='3510:3536'>　　<span class='krp-note'>右四一/左三</span>　<span class='krp-note'>三一/四</span>　<span class='krp-note'>一一/三</span></span><br/>
-<span class='tline' id='l148' data-llen='3536:3562'>　　<span class='krp-note'>右四一/左三</span>　<span class='krp-note'>二一/一</span>　<span class='krp-note'>四一/四</span></span><br/>
-<span class='tline' id='l149' data-llen='3562:3588'>　　<span class='krp-note'>右三一/左四</span>　<span class='krp-note'>二一/一</span>　<span class='krp-note'>四一/四</span></span><br/>
-<span class='tline' id='l150' data-llen='3588:3614'>　　<span class='krp-note'>右四一/左三</span>　<span class='krp-note'>一一/二</span>　<span class='krp-note'>四一/四</span></span><br/>
-<span class='tline' id='l151' data-llen='3614:3640'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-9a' );" name="002-9a" class="pb">[002-9a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l152' data-llen='3640:3666'>　　<span class='krp-note'>右三一/左四</span>　<span class='krp-note'>一一/二</span>　<span class='krp-note'>四一/四</span></span><br/>
-<span class='tline' id='l153' data-llen='3666:3692'>　　<span class='krp-note'>右二一/左一</span>　<span class='krp-note'>四一/三</span>　<span class='krp-note'>四一/四</span></span><br/>
-<span class='tline' id='l154' data-llen='3692:3718'>　　<span class='krp-note'>右一一/左二</span>　<span class='krp-note'>四一/三</span>　<span class='krp-note'>四一/四</span></span><br/>
-<span class='tline' id='l155' data-llen='3718:3744'>　　<span class='krp-note'>右二一/左一</span>　<span class='krp-note'>三一/四</span>　<span class='krp-note'>四一/四</span></span><br/>
-<span class='tline' id='l156' data-llen='3744:3770'>　　<span class='krp-note'>右一一/左二</span>　<span class='krp-note'>三一/四</span>　<span class='krp-note'>四一/四</span></span><br/>
-<span class='tline' id='l157' data-llen='3770:3792'>　　以上二十變變皆二十一策為七者挂扐之數</span><br/>
-<span class='tline' id='l158' data-llen='3792:3815'>　朱子曰右兩偶一竒以竒為主為少陽者凡二十挂</span><br/>
-<span class='tline' id='l159' data-llen='3815:3838'>　扐之數二十有一除初挂之一為二十以四約而三</span><br/>
-<span class='tline' id='l160' data-llen='3838:3864'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-9b' );" name="002-9b" class="pb">[002-9b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l161' data-llen='3864:3887'>　分之為二者二為一者一二偶象方而用其半故二</span><br/>
-<span class='tline' id='l162' data-llen='3887:3910'>　二之中各復有二一竒象圓而用其全故一一之中</span><br/>
-<span class='tline' id='l163' data-llen='3910:3933'>　復有三焉而積二二一三之數則為七過揲之數二</span><br/>
-<span class='tline' id='l164' data-llen='3933:3968'>　十有八以四約之亦得七焉<span class='krp-note'>挂扐除一五其四也自/兩其十二者而退四也</span></span><br/>
-<span class='tline' id='l165' data-llen='3968:4007'>　<span class='krp-note'>七之母也過揲之數七其四也自/兩其十二者而進四也七之子也</span>即四象少陽居三</span><br/>
-<span class='tline' id='l166' data-llen='4007:4048'>　含七之數也<span class='krp-note'>兩八一五或一九一八一四是為兩偶/一竒為二者二二即八也即偶也合二</span></span><br/>
-<span class='tline' id='l167' data-llen='4048:4094'>　<span class='krp-note'>變則為八者凡二是為為二者二為一者一一即四/也即竒也一變而為四者凡一是為為一者一二偶</span></span><br/>
-<span class='tline' id='l168' data-llen='4094:4140'>　<span class='krp-note'>象方而用其半亦本兩地之義是於二變各八策中/各去其四不用而於各存四策中各取二策以象方</span></span><br/>
-<span class='tline' id='l169' data-llen='4140:4167'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-10a' );" name="002-10a" class="pb">[002-10a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l170' data-llen='4167:4213'>　<span class='krp-note'>而各以二䇿為圍四而用其半是為二二之中各復/有二一竒象圓而用其全亦本參天之義是於一變</span></span><br/>
-<span class='tline' id='l171' data-llen='4213:4259'>　<span class='krp-note'>四策全用而於其中取一策以象圓而以三策為圍/三而用其全是為一一之中復有三而積二二一三</span></span><br/>
-<span class='tline' id='l172' data-llen='4259:4284'>　<span class='krp-note'>為少陽之七以四約過揲/二十八亦為七者四也</span></span><br/>
-<span class='tline' id='l173' data-llen='4284:4310'>　　<span class='krp-note'>右四一/左三</span>　<span class='krp-note'>二一/一</span>　<span class='krp-note'>三一/一</span></span><br/>
-<span class='tline' id='l174' data-llen='4310:4336'>　　<span class='krp-note'>右三一/左四</span>　<span class='krp-note'>二一/一</span>　<span class='krp-note'>三一/一</span></span><br/>
-<span class='tline' id='l175' data-llen='4336:4362'>　　<span class='krp-note'>右四一/左三</span>　<span class='krp-note'>一一/二</span>　<span class='krp-note'>三一/一</span></span><br/>
-<span class='tline' id='l176' data-llen='4362:4388'>　　<span class='krp-note'>右三一/左四</span>　<span class='krp-note'>一一/二</span>　<span class='krp-note'>三一/一</span></span><br/>
-<span class='tline' id='l177' data-llen='4388:4414'>　　<span class='krp-note'>右二一/左一</span>　<span class='krp-note'>四一/三</span>　<span class='krp-note'>三一/一</span></span><br/>
-<span class='tline' id='l178' data-llen='4414:4441'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-10b' );" name="002-10b" class="pb">[002-10b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l179' data-llen='4441:4467'>　　<span class='krp-note'>右一一/左二</span>　<span class='krp-note'>四一/三</span>　<span class='krp-note'>三一/一</span></span><br/>
-<span class='tline' id='l180' data-llen='4467:4493'>　　<span class='krp-note'>右二一/左一</span>　<span class='krp-note'>三一/四</span>　<span class='krp-note'>三一/一</span></span><br/>
-<span class='tline' id='l181' data-llen='4493:4519'>　　<span class='krp-note'>右一一/左二</span>　<span class='krp-note'>三一/四</span>　<span class='krp-note'>三一/一</span></span><br/>
-<span class='tline' id='l182' data-llen='4519:4545'>　　<span class='krp-note'>右四一/左三</span>　<span class='krp-note'>二一/一</span>　<span class='krp-note'>一一/三</span></span><br/>
-<span class='tline' id='l183' data-llen='4545:4571'>　　<span class='krp-note'>右三一/左四</span>　<span class='krp-note'>二一/一</span>　<span class='krp-note'>一一/三</span></span><br/>
-<span class='tline' id='l184' data-llen='4571:4597'>　　<span class='krp-note'>右四一/左三</span>　<span class='krp-note'>一一/二</span>　<span class='krp-note'>一一/三</span></span><br/>
-<span class='tline' id='l185' data-llen='4597:4623'>　　<span class='krp-note'>右三一/左四</span>　<span class='krp-note'>一一/二</span>　<span class='krp-note'>一一/三</span></span><br/>
-<span class='tline' id='l186' data-llen='4623:4649'>　　<span class='krp-note'>右二一/左一</span>　<span class='krp-note'>四一/三</span>　<span class='krp-note'>一一/三</span></span><br/>
-<span class='tline' id='l187' data-llen='4649:4676'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-11a' );" name="002-11a" class="pb">[002-11a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l188' data-llen='4676:4702'>　　<span class='krp-note'>右一一/左二</span>　<span class='krp-note'>四一/三</span>　<span class='krp-note'>一一/三</span></span><br/>
-<span class='tline' id='l189' data-llen='4702:4728'>　　<span class='krp-note'>右二一/左一</span>　<span class='krp-note'>三一/四</span>　<span class='krp-note'>一一/三</span></span><br/>
-<span class='tline' id='l190' data-llen='4728:4754'>　　<span class='krp-note'>右一一/左二</span>　<span class='krp-note'>三一/四</span>　<span class='krp-note'>一一/三</span></span><br/>
-<span class='tline' id='l191' data-llen='4754:4780'>　　<span class='krp-note'>右四一/左三</span>　<span class='krp-note'>二一/一</span>　<span class='krp-note'>二一/二</span></span><br/>
-<span class='tline' id='l192' data-llen='4780:4806'>　　<span class='krp-note'>右三一/左四</span>　<span class='krp-note'>二一/一</span>　<span class='krp-note'>二一/二</span></span><br/>
-<span class='tline' id='l193' data-llen='4806:4832'>　　<span class='krp-note'>右四一/左三</span>　<span class='krp-note'>一一/二</span>　<span class='krp-note'>二一/二</span></span><br/>
-<span class='tline' id='l194' data-llen='4832:4858'>　　<span class='krp-note'>右三一/左四</span>　<span class='krp-note'>一一/二</span>　<span class='krp-note'>二一/二</span></span><br/>
-<span class='tline' id='l195' data-llen='4858:4884'>　　<span class='krp-note'>右二一/左一</span>　<span class='krp-note'>四一/三</span>　<span class='krp-note'>二一/二</span></span><br/>
-<span class='tline' id='l196' data-llen='4884:4911'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-11b' );" name="002-11b" class="pb">[002-11b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l197' data-llen='4911:4937'>　　<span class='krp-note'>右一一/左二</span>　<span class='krp-note'>四一/三</span>　<span class='krp-note'>二一/二</span></span><br/>
-<span class='tline' id='l198' data-llen='4937:4963'>　　<span class='krp-note'>右二一/左一</span>　<span class='krp-note'>三一/四</span>　<span class='krp-note'>二一/二</span></span><br/>
-<span class='tline' id='l199' data-llen='4963:4989'>　　<span class='krp-note'>右一一/左二</span>　<span class='krp-note'>三一/四</span>　<span class='krp-note'>二一/二</span></span><br/>
-<span class='tline' id='l200' data-llen='4989:5015'>　　<span class='krp-note'>右二一/左一</span>　<span class='krp-note'>二一/一</span>　<span class='krp-note'>四一/四</span></span><br/>
-<span class='tline' id='l201' data-llen='5015:5041'>　　<span class='krp-note'>右一一/左二</span>　<span class='krp-note'>二一/一</span>　<span class='krp-note'>四一/四</span></span><br/>
-<span class='tline' id='l202' data-llen='5041:5067'>　　<span class='krp-note'>右一一/左二</span>　<span class='krp-note'>一一/二</span>　<span class='krp-note'>四一/四</span></span><br/>
-<span class='tline' id='l203' data-llen='5067:5093'>　　<span class='krp-note'>右二一/左一</span>　<span class='krp-note'>一一/二</span>　<span class='krp-note'>四一/四</span></span><br/>
-<span class='tline' id='l204' data-llen='5093:5115'>　　以上二十八變變皆十七策為八者挂扐之數</span><br/>
-<span class='tline' id='l205' data-llen='5115:5142'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-12a' );" name="002-12a" class="pb">[002-12a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l206' data-llen='5142:5165'>　朱子曰右兩竒一偶以偶為主為少隂者凡二十有</span><br/>
-<span class='tline' id='l207' data-llen='5165:5188'>　八挂扐之數十有七除初挂之一為十有六以四約</span><br/>
-<span class='tline' id='l208' data-llen='5188:5211'>　而三分之為一者二為二者一一竒象圓而用其全</span><br/>
-<span class='tline' id='l209' data-llen='5211:5234'>　故二一之中各復有三二偶象方而用其半故一二</span><br/>
-<span class='tline' id='l210' data-llen='5234:5257'>　之中復有二焉而積二三一二之數則為八過揲之</span><br/>
-<span class='tline' id='l211' data-llen='5257:5290'>　數三十有二以四約之亦得八焉<span class='krp-note'>挂扐除一四其四/也自一其十二者</span></span><br/>
-<span class='tline' id='l212' data-llen='5290:5331'>　<span class='krp-note'>而進四也八之母也過揲之數八其四/也自三其十二者而退四也八之子也</span>即四象少隂</span><br/>
-<span class='tline' id='l213' data-llen='5331:5370'>　居二含八之數也<span class='krp-note'>一九兩四或一五一四一八是為/兩竒一偶為一者二一即四也即</span></span><br/>
-<span class='tline' id='l214' data-llen='5370:5397'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-12b' );" name="002-12b" class="pb">[002-12b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l215' data-llen='5397:5443'>　<span class='krp-note'>竒也合二變則為四者凡二是為為一者二為二者/一二即八也即偶也一變則為八者凡一是為為二</span></span><br/>
-<span class='tline' id='l216' data-llen='5443:5489'>　<span class='krp-note'>者一一竒象圓而用其全亦本參天之義是於二變/各四策全用而於其中各取一策以象圓而各以三</span></span><br/>
-<span class='tline' id='l217' data-llen='5489:5535'>　<span class='krp-note'>策為圍三而用其全是為二一之中各復有三二偶/象方而用其半亦本兩地之義是於一變八策中去</span></span><br/>
-<span class='tline' id='l218' data-llen='5535:5581'>　<span class='krp-note'>其四不用而於所存四策中取二策以象方而以二/策為圍四而用其半是為一二之中復有二而積二</span></span><br/>
-<span class='tline' id='l219' data-llen='5581:5618'>　<span class='krp-note'>三一二為少隂之八以四約/過揲三十二亦為八者四也</span>凡此四者皆以三變皆</span><br/>
-<span class='tline' id='l220' data-llen='5618:5641'>　挂之法得之葢經曰再扐而後挂又曰四營而成易</span><br/>
-<span class='tline' id='l221' data-llen='5641:5664'>　其指甚明註疏雖不詳説然劉禹錫所記僧一行畢</span><br/>
-<span class='tline' id='l222' data-llen='5664:5687'>　中和顧彖之説亦已備矣近世諸儒乃有前一變獨</span><br/>
-<span class='tline' id='l223' data-llen='5687:5714'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-13a' );" name="002-13a" class="pb">[002-13a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l224' data-llen='5714:5737'>　挂後二變不挂之説考之於經乃為六扐而後挂不</span><br/>
-<span class='tline' id='l225' data-llen='5737:5760'>　應五嵗再閏之義且後兩變又止三營葢已誤矣且</span><br/>
-<span class='tline' id='l226' data-llen='5760:5783'>　用舊法則三變之中又以前一變為竒後二變為偶</span><br/>
-<span class='tline' id='l227' data-llen='5783:5806'>　奇故其餘五九偶故其餘四八餘五九者五三而九</span><br/>
-<span class='tline' id='l228' data-llen='5806:5829'>　一亦圍三徑一之義也餘四八者四八皆二亦圍四</span><br/>
-<span class='tline' id='l229' data-llen='5829:5852'>　用半之義也三變之後老者陽饒而隂乏少者陽少</span><br/>
-<span class='tline' id='l230' data-llen='5852:5875'>　而隂多亦皆有自然之法象焉若用近世之法則三</span><br/>
-<span class='tline' id='l231' data-llen='5875:5898'>　變之餘皆為圍三徑一之義而無復竒偶之分三變</span><br/>
-<span class='tline' id='l232' data-llen='5898:5925'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-13b' );" name="002-13b" class="pb">[002-13b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l233' data-llen='5925:5948'>　之後為老陽少隂者皆二十七為少陽者九為老隂</span><br/>
-<span class='tline' id='l234' data-llen='5948:5971'>　者一又皆參差不齊而無復自然之法象此足以見</span><br/>
-<span class='tline' id='l235' data-llen='5971:5994'>　其説之誤矣至於隂陽老少之所以然者則請復得</span><br/>
-<span class='tline' id='l236' data-llen='5994:6017'>　而通論之葢四十九策除初挂之一而為四十八以</span><br/>
-<span class='tline' id='l237' data-llen='6017:6040'>　四約之為十二以十二約之為四故其揲之一變也</span><br/>
-<span class='tline' id='l238' data-llen='6040:6063'>　挂扐之數一其四者為竒兩其四者為偶其三變也</span><br/>
-<span class='tline' id='l239' data-llen='6063:6086'>　挂扐之數三其四一其十二而過揲之數九其四三</span><br/>
-<span class='tline' id='l240' data-llen='6086:6109'>　其十二者為老陽挂扐過揲之數皆六其四兩其十</span><br/>
-<span class='tline' id='l241' data-llen='6109:6136'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-14a' );" name="002-14a" class="pb">[002-14a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l242' data-llen='6136:6159'>　二者為老隂自老陽之挂扐而増一四則是四其四</span><br/>
-<span class='tline' id='l243' data-llen='6159:6182'>　也一其十二而又進一四也自其過揲者而損一四</span><br/>
-<span class='tline' id='l244' data-llen='6182:6205'>　則是八其四也三其十二而損一四也此所謂少隂</span><br/>
-<span class='tline' id='l245' data-llen='6205:6228'>　者也自老隂之挂扐而損一四則是五其四也兩其</span><br/>
-<span class='tline' id='l246' data-llen='6228:6251'>　十二而去一四也自其過揲者而増一四則是七其</span><br/>
-<span class='tline' id='l247' data-llen='6251:6274'>　四也兩其十二而進一四也此所謂少陽者也二老</span><br/>
-<span class='tline' id='l248' data-llen='6274:6297'>　者隂陽之極也二極之間相距之數凡十有二而三</span><br/>
-<span class='tline' id='l249' data-llen='6297:6320'>　分之自陽之極而進其挂扐退其過揲各至於三之</span><br/>
-<span class='tline' id='l250' data-llen='6320:6347'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-14b' );" name="002-14b" class="pb">[002-14b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l251' data-llen='6347:6370'>　一則為少隂自隂之極而退其挂扐進其過揲各至</span><br/>
-<span class='tline' id='l252' data-llen='6370:6415'>　於三之一則為少陽<span class='krp-note'>老陽竒數十二以十二約之得/一則<img height='20' width='20' alt='&amp;KR0320' title='KR0320' src='https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0320.png'/>之象也以四約之得三</span></span><br/>
-<span class='tline' id='l253' data-llen='6415:6468'>　<span class='krp-note'>則☰之象也老隂竒數二十四以十二約之得二則/<img height='20' width='20' alt='&amp;KR0306' title='KR0306' src='https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0306.png'/>之象也以四約之得六則☷之象也少陽竒數二</span></span><br/>
-<span class='tline' id='l254' data-llen='6468:6514'>　<span class='krp-note'>十以十二約之得一餘八由老隂而息葢陽之未成/者也以四約之得五則☳☵☶之象也少隂竒數十</span></span><br/>
-<span class='tline' id='l255' data-llen='6514:6557'>　<span class='krp-note'>六以十二約之得一餘四由老陽而消葢隂之/未成者也以四約之得四則☴☲☱之象也</span>老陽</span><br/>
-<span class='tline' id='l256' data-llen='6557:6580'>　居一而含九故其挂扐十二為最少而過揲三十六</span><br/>
-<span class='tline' id='l257' data-llen='6580:6603'>　為最多少隂居二而含八故其挂扐十六為次少而</span><br/>
-<span class='tline' id='l258' data-llen='6603:6626'>　過揲三十二為次多少陽居三而含七故其挂扐二</span><br/>
-<span class='tline' id='l259' data-llen='6626:6653'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-15a' );" name="002-15a" class="pb">[002-15a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l260' data-llen='6653:6676'>　十為稍多而過揲二十八為稍少老隂居四而含六</span><br/>
-<span class='tline' id='l261' data-llen='6676:6699'>　故其挂扐二十四為極多而過揲亦二十四為極少</span><br/>
-<span class='tline' id='l262' data-llen='6699:6722'>　葢陽竒而隂偶是以挂扐之數老陽極少老隂極多</span><br/>
-<span class='tline' id='l263' data-llen='6722:6745'>　而二少者一進一退而交於中焉此其以少為貴也</span><br/>
-<span class='tline' id='l264' data-llen='6745:6768'>　陽實而隂虚是以過揲之數老陽極多老隂極少而</span><br/>
-<span class='tline' id='l265' data-llen='6768:6795'>　二少者亦一進一退而交於中此其以多為貴也<span class='krp-note'>皆/以</span></span><br/>
-<span class='tline' id='l266' data-llen='6795:6827'>　<span class='krp-note'>陽之竒與實為主/見尊陽之義也</span>凡此不惟隂之與陽既為二物而</span><br/>
-<span class='tline' id='l267' data-llen='6827:6850'>　迭為消長而其一物之中此二端者又各自為一物</span><br/>
-<span class='tline' id='l268' data-llen='6850:6877'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-15b' );" name="002-15b" class="pb">[002-15b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l269' data-llen='6877:6900'>　而迭為消長其相與低昻如權衡其相與判合如符</span><br/>
-<span class='tline' id='l270' data-llen='6900:6930'>　契固有非人之私智所能取舎而有無者<span class='krp-note'>迭為消長/指挂扐過</span></span><br/>
-<span class='tline' id='l271' data-llen='6930:6976'>　<span class='krp-note'>揲言同一挂扐也老陽以長而變為少隂老隂則以/消而變為少陽同一過揲也老陽以消而變為少隂</span></span><br/>
-<span class='tline' id='l272' data-llen='6976:7022'>　<span class='krp-note'>老隂則以長而變為少陽二端即挂扐過揲也如老/陽一物挂扐十二視少隂挂扐十六消矣少隂挂扐</span></span><br/>
-<span class='tline' id='l273' data-llen='7022:7068'>　<span class='krp-note'>十六視老陽挂扐十二則為長焉老陽過揲三十六/視少隂過揲三十二長矣少隂過揲三十二視老陽</span></span><br/>
-<span class='tline' id='l274' data-llen='7068:7111'>　<span class='krp-note'>過揲三十六則為消焉挂扐長則過揲消過揲/長則挂扐消矣推之老隂一物莫不皆然也</span>而况</span><br/>
-<span class='tline' id='l275' data-llen='7111:7134'>　挂扐之數乃七八九六之原而過揲之數乃七八九</span><br/>
-<span class='tline' id='l276' data-llen='7134:7157'>　六之委其勢又有輕重之不同而或者乃欲廢置挂</span><br/>
-<span class='tline' id='l277' data-llen='7157:7184'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-16a' );" name="002-16a" class="pb">[002-16a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l278' data-llen='7184:7207'>　扐而獨以過揲之數為斷則是舎本而取末去約以</span><br/>
-<span class='tline' id='l279' data-llen='7207:7223'>　就煩而不知其不可也豈不誤哉</span><br/>
-<span class='tline' id='l280' data-llen='7223:7246'>　邵子曰五與四四去挂一之數則四三十二也九與</span><br/>
-<span class='tline' id='l281' data-llen='7246:7269'>　八八去挂一之數則四六二十四也五與八八九與</span><br/>
-<span class='tline' id='l282' data-llen='7269:7292'>　四八去挂一之數則四五二十也九與四四五與四</span><br/>
-<span class='tline' id='l283' data-llen='7292:7315'>　八去挂一之數則四四十六也故去其三四五六之</span><br/>
-<span class='tline' id='l284' data-llen='7315:7348'>　數以成九八七六之策此之謂也<span class='krp-note'>此條是説隂陽老/少挂扐之數啟蒙</span></span><br/>
-<span class='tline' id='l285' data-llen='7348:7394'>　<span class='krp-note'>引之者葢以證挂扐之數乃七八九六之原以挂扐/歸竒言之老陽得三四少隂得四四少陽得五四老</span></span><br/>
-<span class='tline' id='l286' data-llen='7394:7421'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-16b' );" name="002-16b" class="pb">[002-16b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l287' data-llen='7421:7467'>　<span class='krp-note'>隂得六四今不用三四五六之數而以竒偶取徑一/圍三圍四用半之義者以成七八九六之䇿故也此</span></span><br/>
-<span class='tline' id='l288' data-llen='7467:7479'>　<span class='krp-note'>朱子之/自解也</span></span><br/>
-<span class='tline' id='l289' data-llen='7479:7502'>乾之策二百一十有六坤之策百四十有四凡三百有</span><br/>
-<span class='tline' id='l290' data-llen='7502:7510'>六十當期之日</span><br/>
-<span class='tline' id='l291' data-llen='7510:7533'>　朱子曰凡此策數生於四象揲蓍之法其變化往來</span><br/>
-<span class='tline' id='l292' data-llen='7533:7556'>　進退離合之妙皆出自然非人之所能為也乾之策</span><br/>
-<span class='tline' id='l293' data-llen='7556:7579'>　二百一十有六者積六爻之策各三十有六而得之</span><br/>
-<span class='tline' id='l294' data-llen='7579:7602'>　也坤之策百四十有四者積六爻之策各二十有四</span><br/>
-<span class='tline' id='l295' data-llen='7602:7629'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-17a' );" name="002-17a" class="pb">[002-17a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l296' data-llen='7629:7652'>　而得之也凡三百有六十者合二百一十有六百四</span><br/>
-<span class='tline' id='l297' data-llen='7652:7675'>　十有四而得之也當期之日者毎月三十日合十二</span><br/>
-<span class='tline' id='l298' data-llen='7675:7698'>　月為三百六十也葢以氣言之則有三百六十六日</span><br/>
-<span class='tline' id='l299' data-llen='7698:7721'>　以朔言之則有三百五十四日今舉氣盈朔虚之中</span><br/>
-<span class='tline' id='l300' data-llen='7721:7744'>　數而言故曰三百有六十也然少陽之策二十八積</span><br/>
-<span class='tline' id='l301' data-llen='7744:7767'>　乾六爻之策則一百六十八少隂之策三十二積坤</span><br/>
-<span class='tline' id='l302' data-llen='7767:7790'>　六爻之策則一百九十二此獨以老隂陽之策為言</span><br/>
-<span class='tline' id='l303' data-llen='7790:7813'>　者以易用九六不用七八也然二少之合亦三百有</span><br/>
-<span class='tline' id='l304' data-llen='7813:7840'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-17b' );" name="002-17b" class="pb">[002-17b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l305' data-llen='7840:7884'>　六十<span class='krp-note'>日用其一䇿為一日用三百六十策為周天一/年一年之中復以卦之策主之四卦各有定數</span></span><br/>
-<span class='tline' id='l306' data-llen='7884:7930'>　<span class='krp-note'>春分之後震卦主之其䇿八十四欠六日夏至後離/卦主之其䇿九十六剰六日秋分後兑卦主之䇿亦</span></span><br/>
-<span class='tline' id='l307' data-llen='7930:7976'>　<span class='krp-note'>九十六亦剰六日冬至後坎卦主之其策亦八十四/又欠六日葢自冬至後欠數陽生也夏至後剰數隂</span></span><br/>
-<span class='tline' id='l308' data-llen='7976:8022'>　<span class='krp-note'>生也二欠之數一百六十八二剰之數一百九十二/合三百六十䇿以當三百六十日又以四卦欠剰之</span></span><br/>
-<span class='tline' id='l309' data-llen='8022:8068'>　<span class='krp-note'>數分布於四序之中恰一年三百六十日而二十四/氣候成矣日行十二策為一日月行三百六十策為</span></span><br/>
-<span class='tline' id='l310' data-llen='8068:8114'>　<span class='krp-note'>一月故日行一周天為一月而與朔合日在十二策/中月三百四十八䇿而日月望為半月也再以日行</span></span><br/>
-<span class='tline' id='l311' data-llen='8114:8160'>　<span class='krp-note'>之䇿積剰除之則日月之薄蝕盈虧之定算三嵗一/閏五年再閏造化之端一覧無遺更以天地之數加</span></span><br/>
-<span class='tline' id='l312' data-llen='8160:8206'>　<span class='krp-note'>而倍之即知天地之大數此之謂與天地合德日月/合明四時合序鬼神合吉凶况萬物之㣲豈能逃乎</span></span><br/>
-<span class='tline' id='l313' data-llen='8206:8233'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-18a' );" name="002-18a" class="pb">[002-18a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l314' data-llen='8233:8253'>二篇之策萬有一千五百二十當萬物之數也</span><br/>
-<span class='tline' id='l315' data-llen='8253:8276'>　朱子曰二篇者上下經六十四卦也其陽爻百九十</span><br/>
-<span class='tline' id='l316' data-llen='8276:8299'>　二每爻各三十六策積之得六千九百一十二隂爻</span><br/>
-<span class='tline' id='l317' data-llen='8299:8322'>　百九十二每爻二十四策積之得四千六百八又合</span><br/>
-<span class='tline' id='l318' data-llen='8322:8345'>　二者為萬有一千五百二十也若為少陽則每爻二</span><br/>
-<span class='tline' id='l319' data-llen='8345:8368'>　十八策凡五千三百七十六少隂則每爻三十二策</span><br/>
-<span class='tline' id='l320' data-llen='8368:8391'>　凡六千一百四十四合之亦為萬有一千五百二十</span><br/>
-<span class='tline' id='l321' data-llen='8391:8436'>　也<span class='krp-note'>此即過揲之蓍大衍之終也乾一爻三十六策六/爻二百一十六策坤一爻二十四策六爻百四十</span></span><br/>
-<span class='tline' id='l322' data-llen='8436:8463'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-18b' );" name="002-18b" class="pb">[002-18b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l323' data-llen='8463:8509'>　<span class='krp-note'>有四䇿此隂陽自然之數聖人立大衍之法以倚之/所謂參天兩地而倚數也天地之運大小皆極於三</span></span><br/>
-<span class='tline' id='l324' data-llen='8509:8555'>　<span class='krp-note'>百六十大衍乾坤之䇿當期之日真所謂與天地相/似者也二篇之策分隂爻陽爻為二也合之則萬有</span></span><br/>
-<span class='tline' id='l325' data-llen='8555:8600'>　<span class='krp-note'>一千五百二十以當萬物之數此天地流行之數嵗/月日時之積也二老之䇿固然二少之策亦然也</span></span><br/>
-<span class='tline' id='l326' data-llen='8600:8623'>　　吳氏謂二篇之策三百八十四爻之策也乾坤之</span><br/>
-<span class='tline' id='l327' data-llen='8623:8646'>　　策用九用六兩爻之策也易爻三百八十六諸儒</span><br/>
-<span class='tline' id='l328' data-llen='8646:8669'>　　但知三百八十四耳據捫蝨新話以用九用六為</span><br/>
-<span class='tline' id='l329' data-llen='8669:8692'>　　七爻遂援荀爽論八純卦之爻通用九用六而為</span><br/>
-<span class='tline' id='l330' data-llen='8692:8715'>　　五十之説反以朱氏破荀爽之説謂用九用六在</span><br/>
-<span class='tline' id='l331' data-llen='8715:8742'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-19a' );" name="002-19a" class="pb">[002-19a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l332' data-llen='8742:8765'>　　八卦爻數之内者為不然此好異之過也用九用</span><br/>
-<span class='tline' id='l333' data-llen='8765:8782'>　　六言爻之用也豈可竟作一爻哉</span><br/>
-<span class='tline' id='l334' data-llen='8782:8805'>是故四營而成易十有八變而成卦八卦而小成引而</span><br/>
-<span class='tline' id='l335' data-llen='8805:8821'>伸之觸類而長之天下之能事畢矣</span><br/>
-<span class='tline' id='l336' data-llen='8821:8844'>　朱子曰四營者四次經營也分二者第一營也挂一</span><br/>
-<span class='tline' id='l337' data-llen='8844:8867'>　者第二營也揲四者第三營也歸竒者第四營也易</span><br/>
-<span class='tline' id='l338' data-llen='8867:8890'>　變易也謂揲之一變也四營成變三變成爻一變而</span><br/>
-<span class='tline' id='l339' data-llen='8890:8926'>　得兩儀之象<span class='krp-note'>得五者象陽儀/得九者象隂儀</span>再變而得四象之象<span class='krp-note'>得/五</span></span><br/>
-<span class='tline' id='l340' data-llen='8926:8953'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-19b' );" name="002-19b" class="pb">[002-19b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l341' data-llen='8953:8992'>　<span class='krp-note'>四者象太陽得五八者象少隂得/九四者象少陽得九八者象太隂</span>三變而得八卦之</span><br/>
-<span class='tline' id='l342' data-llen='8992:9037'>　象<span class='krp-note'>得五四四者象乾得五四八者象兑得五八四者/象離得五八八者象震得九四四者象巽得九四</span></span><br/>
-<span class='tline' id='l343' data-llen='9037:9078'>　<span class='krp-note'>八者象坎得九八四者/象艮得九八八者象坤</span>一爻而得兩儀之畫<span class='krp-note'>初揲而/得一者</span></span><br/>
-<span class='tline' id='l344' data-llen='9078:9125'>　<span class='krp-note'>為陽之儀必自乾至復三十二卦得<img height='20' width='20' alt='&amp;KR0306' title='KR0306' src='https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0306.png'/>/者為隂之儀必自姤至坤三十二卦</span>二爻而得四</span><br/>
-<span class='tline' id='l345' data-llen='9125:9168'>　象之畫<span class='krp-note'>再揲而得□者為太陽必自乾至臨十六卦/得□者為少隂必自同人至復十六卦得□</span></span><br/>
-<span class='tline' id='l346' data-llen='9168:9207'>　<span class='krp-note'>者為少陽必自姤至師十六卦得/□者為太隂必自遯至坤十六卦</span>三爻而得八卦之</span><br/>
-<span class='tline' id='l347' data-llen='9207:9252'>　畫<span class='krp-note'>三揲而得☰者為乾必自乾至泰八卦得☲者為/兑必自履至臨八卦得☳者為離必自同人至明</span></span><br/>
-<span class='tline' id='l348' data-llen='9252:9298'>　<span class='krp-note'>夷八卦得☱者為震必自无妄至復八卦得☴者為/巽必自姤至升八卦得☵者為坎必自訟至師八卦</span></span><br/>
-<span class='tline' id='l349' data-llen='9298:9325'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-20a' );" name="002-20a" class="pb">[002-20a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l350' data-llen='9325:9363'>　<span class='krp-note'>得☶者為艮必自遯至謙八卦/得☷者為坤必自否至坤八卦</span>四爻成而得其十六</span><br/>
-<span class='tline' id='l351' data-llen='9363:9406'>　者之一<span class='krp-note'>四揲而得四爻則得□者必自乾至大壯四/卦得□者必自小畜至泰四卦得□者必自</span></span><br/>
-<span class='tline' id='l352' data-llen='9406:9452'>　<span class='krp-note'>履至歸妹四卦得□者必自中孚至臨四卦得□者/必自同人至豐四卦得□者必自家人至明夷四卦</span></span><br/>
-<span class='tline' id='l353' data-llen='9452:9498'>　<span class='krp-note'>得□者必自无妄至震四卦得□者必自益至復四/卦得□者必自姤至恒四卦得□者必自巽至升四</span></span><br/>
-<span class='tline' id='l354' data-llen='9498:9544'>　<span class='krp-note'>卦得□者必自訟至解四卦得□者必自渙至師四/卦得□者必自遯至小過四卦得□者必自漸至謙</span></span><br/>
-<span class='tline' id='l355' data-llen='9544:9581'>　<span class='krp-note'>四卦得□者必自否至豫四/卦得□者必自觀至坤四卦</span>五爻成而得其三十二</span><br/>
-<span class='tline' id='l356' data-llen='9581:9624'>　者之一<span class='krp-note'>五揲而得五爻則得□者非乾則夬得□者/非大有則大壯得□者非小畜則需得□者</span></span><br/>
-<span class='tline' id='l357' data-llen='9624:9670'>　<span class='krp-note'>非大畜則泰得□者非履則兑得□者非暌則歸妹/得□者非中孚則節得□者非損則臨得□者非同</span></span><br/>
-<span class='tline' id='l358' data-llen='9670:9697'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-20b' );" name="002-20b" class="pb">[002-20b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l359' data-llen='9697:9743'>　<span class='krp-note'>人則革得□者非離則豐得□者非家人則既濟得/□者非賁則明夷得□者非无妄則隨得□者非噬</span></span><br/>
-<span class='tline' id='l360' data-llen='9743:9789'>　<span class='krp-note'>嗑則震得□者非益則屯得□者非頤則復得□者/非姤則大過得□者非鼎則恒得□者非巽則井得</span></span><br/>
-<span class='tline' id='l361' data-llen='9789:9835'>　<span class='krp-note'>□者非蠱則升得□者非訟則困得□者非未濟則/解得□者非渙則坎得□者非蒙則師得□者非遯</span></span><br/>
-<span class='tline' id='l362' data-llen='9835:9881'>　<span class='krp-note'>則咸得□者非旅則小過得□者非漸則蹇得□者/非艮則謙得□者非否則萃得□者非晉則豫得□</span></span><br/>
-<span class='tline' id='l363' data-llen='9881:9927'>　<span class='krp-note'>者非觀則比得□者非剥則坤朱子謂一爻成只有/三十二卦二爻成只有十六卦三爻成只有八卦四</span></span><br/>
-<span class='tline' id='l364' data-llen='9927:9965'>　<span class='krp-note'>爻成只有四卦五爻成只有二/卦六爻既成一卦乃定者此也</span>至於積七十二營而</span><br/>
-<span class='tline' id='l365' data-llen='9965:9988'>　成十有八變則六爻見而得乎六十四卦之一矣然</span><br/>
-<span class='tline' id='l366' data-llen='9988:10011'>　方其三十六營而九變也已得三畫而八卦之名可</span><br/>
-<span class='tline' id='l367' data-llen='10011:10038'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-21a' );" name="002-21a" class="pb">[002-21a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l368' data-llen='10038:10061'>　見則内卦之為貞者立矣此所謂八卦而小成者也</span><br/>
-<span class='tline' id='l369' data-llen='10061:10084'>　自是而往引而伸之又三十六營九變以成三畫而</span><br/>
-<span class='tline' id='l370' data-llen='10084:10107'>　再得小成之卦者一則外卦之為悔者亦備矣六爻</span><br/>
-<span class='tline' id='l371' data-llen='10107:10130'>　成内外卦備六十四卦之别可見然後視其爻之變</span><br/>
-<span class='tline' id='l372' data-llen='10130:10153'>　與不變而觸類以長焉則天下之事其吉凶悔吝皆</span><br/>
-<span class='tline' id='l373' data-llen='10153:10161'>　不越乎此矣</span><br/>
-<span class='tline' id='l374' data-llen='10161:10184'>　西山蔡氏曰蓍之竒數老陽十二老隂四少陽二十</span><br/>
-<span class='tline' id='l375' data-llen='10184:10214'>　少隂二十八合六十有四三十二為陽<span class='krp-note'>老陽十二/少陽二十</span>三</span><br/>
-<span class='tline' id='l376' data-llen='10214:10241'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-21b' );" name="002-21b" class="pb">[002-21b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l377' data-llen='10241:10277'>　十二為隂<span class='krp-note'>老隂四少/隂二十八</span>其十六則老陽老隂也<span class='krp-note'>老陽十/二老隂</span></span><br/>
-<span class='tline' id='l378' data-llen='10277:10310'>　<span class='krp-note'>四/</span>其四十八則少陽少隂也<span class='krp-note'>少陽二十少/隂二十八</span>老陽老隂</span><br/>
-<span class='tline' id='l379' data-llen='10310:10333'>　乾坤之象也二八也少陽少隂六子之象也六八也</span><br/>
-<span class='tline' id='l380' data-llen='10333:10356'>　玉齋胡氏曰挂扐之數極其變則六十四而其中實</span><br/>
-<span class='tline' id='l381' data-llen='10356:10379'>　該八卦之象老陽三變皆竒乾三畫純陽之象也老</span><br/>
-<span class='tline' id='l382' data-llen='10379:10402'>　隂三變皆偶坤三畫純隂之象也至於少隂則該三</span><br/>
-<span class='tline' id='l383' data-llen='10402:10425'>　女之象其乾索於坤而變為巽離兑乎少陽則該三</span><br/>
-<span class='tline' id='l384' data-llen='10425:10448'>　男之象其坤索於乾而變為震坎艮乎少隂者隂之</span><br/>
-<span class='tline' id='l385' data-llen='10448:10475'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-22a' );" name="002-22a" class="pb">[002-22a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l386' data-llen='10475:10498'>　穉其變則二十有八以四約而七分之初變得偶者</span><br/>
-<span class='tline' id='l387' data-llen='10498:10521'>　凡一巽之一隂在下也第二變得偶者凡三離之一</span><br/>
-<span class='tline' id='l388' data-llen='10521:10544'>　隂在中也第三變得偶者凡三兑之一隂在上也合</span><br/>
-<span class='tline' id='l389' data-llen='10544:10567'>　其一一二三則七其四而為二十八矣少陽者陽之</span><br/>
-<span class='tline' id='l390' data-llen='10567:10590'>　穉其變則有二十以四約而五分之初變得竒者凡</span><br/>
-<span class='tline' id='l391' data-llen='10590:10613'>　三震之一陽在下也第二變得竒者凡一坎之一陽</span><br/>
-<span class='tline' id='l392' data-llen='10613:10636'>　在中也第三變得竒者凡一艮之一陽在上也合其</span><br/>
-<span class='tline' id='l393' data-llen='10636:10659'>　一三二一則五其四而為二十矣要之二老則陽實</span><br/>
-<span class='tline' id='l394' data-llen='10659:10686'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-22b' );" name="002-22b" class="pb">[002-22b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l395' data-llen='10686:10709'>　隂虚故老陽多而老隂少二少則陽少隂多故少陽</span><br/>
-<span class='tline' id='l396' data-llen='10709:10732'>　少而少隂多也然陽固少矣而長男則未嘗少其變</span><br/>
-<span class='tline' id='l397' data-llen='10732:10755'>　有三肖父而得陽實之義至於中少二男則惟各得</span><br/>
-<span class='tline' id='l398' data-llen='10755:10778'>　一變之象是長男之陽不可少而所以成其少者男</span><br/>
-<span class='tline' id='l399' data-llen='10778:10801'>　之中與少也隂固多矣而長女則未嘗多其變惟一</span><br/>
-<span class='tline' id='l400' data-llen='10801:10824'>　肖母而得隂虚之義至於中少二女則反各得三變</span><br/>
-<span class='tline' id='l401' data-llen='10824:10847'>　之象是長女之隂不可多而所以成其多者女之中</span><br/>
-<span class='tline' id='l402' data-llen='10847:10870'>　與少也此長男代父而長女代母所以其變數皆擬</span><br/>
-<span class='tline' id='l403' data-llen='10870:10897'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-23a' );" name="002-23a" class="pb">[002-23a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l404' data-llen='10897:10920'>　乾坤而中與少則或不交乎父或有踰於母此又隂</span><br/>
-<span class='tline' id='l405' data-llen='10920:10943'>　陽之變不可執一拘也此其一變而得兩儀之象再</span><br/>
-<span class='tline' id='l406' data-llen='10943:10966'>　變而得四象之象三變而得八卦之象互之為六十</span><br/>
-<span class='tline' id='l407' data-llen='10966:10989'>　四變而八卦之象又可以該六十四卦之象其自然</span><br/>
-<span class='tline' id='l408' data-llen='10989:11001'>　之妙莫不各有法象也</span><br/>
-<span class='tline' id='l409' data-llen='11001:11024'>　　白雲郭氏著蓍卦辨疑專以前一變獨挂後二變</span><br/>
-<span class='tline' id='l410' data-llen='11024:11047'>　　不挂其載横渠先生之言曰再扐而後挂每成一</span><br/>
-<span class='tline' id='l411' data-llen='11047:11070'>　　爻而後挂也謂第二第三揲不挂也且謂横渠之</span><br/>
-<span class='tline' id='l412' data-llen='11070:11097'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-23b' );" name="002-23b" class="pb">[002-23b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l413' data-llen='11097:11120'>　　言所以明註疏之失朱子辨之曰此説大誤恐非</span><br/>
-<span class='tline' id='l414' data-llen='11120:11143'>　　横渠之言也再扐者一變之中左右再揲而再扐</span><br/>
-<span class='tline' id='l415' data-llen='11143:11166'>　　也一挂再揲再扐而當五嵗葢一挂再揲當其不</span><br/>
-<span class='tline' id='l416' data-llen='11166:11189'>　　閏之年而再扐當其再閏之嵗也而後挂者一變</span><br/>
-<span class='tline' id='l417' data-llen='11189:11212'>　　既成又合見存之策分二挂一以起後變之端也</span><br/>
-<span class='tline' id='l418' data-llen='11212:11235'>　　今日第一變挂而第二第三變不挂遂以當挂之</span><br/>
-<span class='tline' id='l419' data-llen='11235:11258'>　　變為挂而象閏以不挂之變為扐而當不閏之嵗</span><br/>
-<span class='tline' id='l420' data-llen='11258:11281'>　　則與大傳所云挂一象三再扐象閏者全不相應</span><br/>
-<span class='tline' id='l421' data-llen='11281:11308'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-24a' );" name="002-24a" class="pb">[002-24a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l422' data-llen='11308:11331'>　　矣且不數第一變之再扐而以第二第三變為再</span><br/>
-<span class='tline' id='l423' data-llen='11331:11354'>　　扐又使第二第三變中止有三營而不足乎成易</span><br/>
-<span class='tline' id='l424' data-llen='11354:11377'>　　之數且於隂陽老少之數亦多有不合者其載伊</span><br/>
-<span class='tline' id='l425' data-llen='11377:11400'>　　川先生之説曰再以左右手分而為二更不重挂</span><br/>
-<span class='tline' id='l426' data-llen='11400:11423'>　　竒朱子辨之曰此説猶多可疑然郭氏云本無文</span><br/>
-<span class='tline' id='l427' data-llen='11423:11446'>　　字則其傳授之際不無差舛宜矣又云第二第三</span><br/>
-<span class='tline' id='l428' data-llen='11446:11469'>　　揲雖不挂亦有四八之變葢不必挂也朱子辨之</span><br/>
-<span class='tline' id='l429' data-llen='11469:11492'>　　曰所以不可不挂者有兩説葢三變之中前一變</span><br/>
-<span class='tline' id='l430' data-llen='11492:11519'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-24b' );" name="002-24b" class="pb">[002-24b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l431' data-llen='11519:11542'>　　屬陽故其餘五九皆竒數後二變屬隂故其餘四</span><br/>
-<span class='tline' id='l432' data-llen='11542:11565'>　　八皆偶數屬陽者為陽三而為隂一皆圍三徑一</span><br/>
-<span class='tline' id='l433' data-llen='11565:11587'>　　之術屬隂者為隂二而為陽二皆圍四用半之</span><br/>
-<span class='tline' id='l434' data-llen='11587:11610'>　　術也是皆以三變皆挂之法得之後兩變不挂則</span><br/>
-<span class='tline' id='l435' data-llen='11610:11633'>　　不得也三變之後其可為老陽者十二可為老隂</span><br/>
-<span class='tline' id='l436' data-llen='11633:11656'>　　者四可為少隂者二十八可為少陽者二十雖多</span><br/>
-<span class='tline' id='l437' data-llen='11656:11679'>　　寡之不同而皆有法象是亦以三變皆挂之法得</span><br/>
-<span class='tline' id='l438' data-llen='11679:11702'>　　之而後兩變不挂則不得也郭氏僅見第二第三</span><br/>
-<span class='tline' id='l439' data-llen='11702:11729'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-25a' );" name="002-25a" class="pb">[002-25a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l440' data-llen='11729:11752'>　　變可以不挂之一端耳而遂執以為説夫豈知其</span><br/>
-<span class='tline' id='l441' data-llen='11752:11775'>　　挂與不挂之為得失乃如此哉大扺郭氏他説偏</span><br/>
-<span class='tline' id='l442' data-llen='11775:11798'>　　滯雖多而其為法尚無甚戾獨此一義所差雖小</span><br/>
-<span class='tline' id='l443' data-llen='11798:11821'>　　而深有害於成卦變爻之法尤不可不辨愚嘗考</span><br/>
-<span class='tline' id='l444' data-llen='11821:11844'>　　之第一變獨挂後二變不挂非獨為六扐而後挂</span><br/>
-<span class='tline' id='l445' data-llen='11844:11867'>　　三營而成易於再扐四營之義不協且後一變不</span><br/>
-<span class='tline' id='l446' data-llen='11867:11890'>　　挂其數雖亦不四則八而所以為四八者實有不</span><br/>
-<span class='tline' id='l447' data-llen='11890:11913'>　　同葢挂則所謂四者左手餘一則右手餘二左手</span><br/>
-<span class='tline' id='l448' data-llen='11913:11940'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-25b' );" name="002-25b" class="pb">[002-25b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l449' data-llen='11940:11963'>　　餘二則右手餘一不挂則左手餘一右手餘三左</span><br/>
-<span class='tline' id='l450' data-llen='11963:11986'>　　手餘二右手餘二左手餘三右手餘一此四之所</span><br/>
-<span class='tline' id='l451' data-llen='11986:12009'>　　以不同也挂則所謂八者左手餘四右手餘三左</span><br/>
-<span class='tline' id='l452' data-llen='12009:12032'>　　手餘三右手餘四不挂則左手餘四右手亦餘四</span><br/>
-<span class='tline' id='l453' data-llen='12032:12055'>　　此八之所以不同也三變之後隂陽變數皆參差</span><br/>
-<span class='tline' id='l454' data-llen='12055:12078'>　　不齊無復自然之法象矣其可哉按後二變不挂</span><br/>
-<span class='tline' id='l455' data-llen='12078:12101'>　　或謂亦本之邵子朱子説易多宗邵子而於此不</span><br/>
-<span class='tline' id='l456' data-llen='12101:12124'>　　然可見其中之所得唯求其是而不涉於偏也此</span><br/>
-<span class='tline' id='l457' data-llen='12124:12151'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-26a' );" name="002-26a" class="pb">[002-26a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l458' data-llen='12151:12163'>　　朱子所以不可及也</span><br/>
-<span class='tline' id='l459' data-llen='12163:12186'>　　忠輔楊氏法揲四之餘有一有二有三而无四有</span><br/>
-<span class='tline' id='l460' data-llen='12186:12209'>　　四則為一揲矣豈得謂之餘乎四九四八四七四</span><br/>
-<span class='tline' id='l461' data-llen='12209:12232'>　　六者謂之策四三四四四五四六者謂之竒老陽</span><br/>
-<span class='tline' id='l462' data-llen='12232:12255'>　　之數九四其九為三十六策於四十九蓍之中去</span><br/>
-<span class='tline' id='l463' data-llen='12255:12278'>　　其三十六策則餘十三挂一不用則餘十二以四</span><br/>
-<span class='tline' id='l464' data-llen='12278:12301'>　　揲之得三是謂老陽之竒四三也歸竒於扐者歸</span><br/>
-<span class='tline' id='l465' data-llen='12301:12324'>　　此竒也左手餘一餘二餘三或无餘皆未成揲必</span><br/>
-<span class='tline' id='l466' data-llen='12324:12351'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-26b' );" name="002-26b" class="pb">[002-26b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l467' data-llen='12351:12374'>　　以右手之蓍隨其竒偶歸之足成一揲兩揲之數</span><br/>
-<span class='tline' id='l468' data-llen='12374:12412'>　　<span class='krp-note'>竒數一揲/偶數兩揲</span>然後置之於扐<span class='krp-note'>扐謂正䇿之/旁不必指間</span>所謂歸者</span><br/>
-<span class='tline' id='l469' data-llen='12412:12445'>　　本是左手之蓍今歸之也<span class='krp-note'>右手之蓍初不曾/用故曰右手不揲</span>故餘</span><br/>
-<span class='tline' id='l470' data-llen='12445:12468'>　　一則歸以三餘三則歸以一皆成一揲之竒數餘</span><br/>
-<span class='tline' id='l471' data-llen='12468:12491'>　　二則歸以六无餘則歸以八皆成兩揲之偶數竒</span><br/>
-<span class='tline' id='l472' data-llen='12491:12514'>　　一也偶二也三變皆竒三也是謂四三老陽之竒</span><br/>
-<span class='tline' id='l473' data-llen='12514:12537'>　　也三變皆偶六也是謂四六老隂之竒也三變而</span><br/>
-<span class='tline' id='l474' data-llen='12537:12560'>　　一竒二偶五也是謂四五少陽之竒也三變而一</span><br/>
-<span class='tline' id='l475' data-llen='12560:12587'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-27a' );" name="002-27a" class="pb">[002-27a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l476' data-llen='12587:12610'>　　偶二竒四也是謂四四少隂之竒也為九為六者</span><br/>
-<span class='tline' id='l477' data-llen='12610:12633'>　　各八為七為八者各二十四為策萬有一千五百</span><br/>
-<span class='tline' id='l478' data-llen='12633:12656'>　　二十趙氏曰其新竒有四揲四之餘无四一也古</span><br/>
-<span class='tline' id='l479' data-llen='12656:12679'>　　法去挂扐以所餘為策數今乃先去策數反以挂</span><br/>
-<span class='tline' id='l480' data-llen='12679:12702'>　　扐為歸竒二也揲左所餘即為歸竒今以三變六</span><br/>
-<span class='tline' id='l481' data-llen='12702:12725'>　　揲所餘除挂一而歸之三也扐指間也今以為正</span><br/>
-<span class='tline' id='l482' data-llen='12725:12748'>　　策之旁四也其他如四三四四四五四六之為竒</span><br/>
-<span class='tline' id='l483' data-llen='12748:12771'>　　又以一揲為竒兩揲為偶皆聖人所未言且謂此</span><br/>
-<span class='tline' id='l484' data-llen='12771:12798'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-27b' );" name="002-27b" class="pb">[002-27b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l485' data-llen='12798:12821'>　　法合於二篇之策不知二篇之策非揲蓍策數易</span><br/>
-<span class='tline' id='l486' data-llen='12821:12844'>　　經諸數隨用而殊安可牽他數以强合彼以九六</span><br/>
-<span class='tline' id='l487' data-llen='12844:12867'>　　之變皆八七八之變皆二十四謂為隂陽均等然</span><br/>
-<span class='tline' id='l488' data-llen='12867:12890'>　　以古聖才知豈不能是特一本之自然不欲以私</span><br/>
-<span class='tline' id='l489' data-llen='12890:12903'>　　意損益之斯言得之矣</span><br/>
-<span class='tline' id='l490' data-llen='12903:12926'>　　斗南吳氏作大衍筮法圖其説曰揲蓍之法説卦</span><br/>
-<span class='tline' id='l491' data-llen='12926:12949'>　　備言之先儒於其用四十有九誤認經意乃謂但</span><br/>
-<span class='tline' id='l492' data-llen='12949:12972'>　　用四十九蓍虚其一以象太極也又謂去一之餘</span><br/>
-<span class='tline' id='l493' data-llen='12972:12999'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-28a' );" name="002-28a" class="pb">[002-28a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l494' data-llen='12999:13022'>　　有四十九合而未分以象太一也其説皆大不然</span><br/>
-<span class='tline' id='l495' data-llen='13022:13045'>　　夫五行之數一六為水二七為火三八為木四九</span><br/>
-<span class='tline' id='l496' data-llen='13045:13068'>　　為金五五為土合之而成五十大衍之數實本於</span><br/>
-<span class='tline' id='l497' data-llen='13068:13091'>　　此葢取五行之全數也蓍之生也滿百嵗者一本</span><br/>
-<span class='tline' id='l498' data-llen='13091:13114'>　　而百莖合於五行之全數者二筮必用百嵗之蓍</span><br/>
-<span class='tline' id='l499' data-llen='13114:13137'>　　亦取其數之自然也五十而去其一則非數之全</span><br/>
-<span class='tline' id='l500' data-llen='13137:13160'>　　非自然者矣故挂一則可去一則不可其用四十</span><br/>
-<span class='tline' id='l501' data-llen='13160:13183'>　　有九謂用之於揲也既去其一又掛一焉是不用</span><br/>
-<span class='tline' id='l502' data-llen='13183:13210'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-28b' );" name="002-28b" class="pb">[002-28b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l503' data-llen='13210:13233'>　　者二而用之纔四十有八也既掛矣蓍顧不足於</span><br/>
-<span class='tline' id='l504' data-llen='13233:13256'>　　用乃復并所掛數之以求其竒是雖掛而實未嘗</span><br/>
-<span class='tline' id='l505' data-llen='13256:13279'>　　掛也掛之為言别也别而置之則不當用之於揲</span><br/>
-<span class='tline' id='l506' data-llen='13279:13303'>　　復取而并之得乎按太𤣥揲蓍亦以虚三别一為</span><br/>
-<span class='tline' id='l507' data-llen='13303:13326'>　　法此誤由來久矣一説謂第一揲不掛一則所餘</span><br/>
-<span class='tline' id='l508' data-llen='13326:13349'>　　皆得五而无變唯掛一則所餘非五則九至第二</span><br/>
-<span class='tline' id='l509' data-llen='13349:13372'>　　第三揲雖不掛亦有四八之變焉則是前一變掛</span><br/>
-<span class='tline' id='l510' data-llen='13372:13395'>　　而後二變不掛也分而不掛於四營之義亦不合</span><br/>
-<span class='tline' id='l511' data-llen='13395:13422'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-29a' );" name="002-29a" class="pb">[002-29a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l512' data-llen='13422:13445'>　　矣唯九江周燔之説曰筮法先以兩手圍蓍五十</span><br/>
-<span class='tline' id='l513' data-llen='13445:13468'>　　象太極演成之體次以兩手分蓍為二象天地開</span><br/>
-<span class='tline' id='l514' data-llen='13468:13491'>　　闢之形然後掛一不用用四十有九揲之先左後</span><br/>
-<span class='tline' id='l515' data-llen='13491:13514'>　　右各四數之先歸竒於扐以象一閏再扐以象再</span><br/>
-<span class='tline' id='l516' data-llen='13514:13537'>　　閏此一變也後揲而圍之而分之而又掛之故曰</span><br/>
-<span class='tline' id='l517' data-llen='13537:13560'>　　再扐而後掛言後揲復掛一也按如舊法則可以</span><br/>
-<span class='tline' id='l518' data-llen='13560:13583'>　　掛可以无掛如周氏之説則每變必掛雖欲不掛</span><br/>
-<span class='tline' id='l519' data-llen='13583:13606'>　　不可得也天下之理唯至於不可加損於其間然</span><br/>
-<span class='tline' id='l520' data-llen='13606:13633'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-29b' );" name="002-29b" class="pb">[002-29b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l521' data-llen='13633:13656'>　　後知其自然而然者此類是也此斗南元文也其</span><br/>
-<span class='tline' id='l522' data-llen='13656:13679'>　　圖不載按朱子揲法其分二之後掛一是用一也</span><br/>
-<span class='tline' id='l523' data-llen='13679:13702'>　　揲四而扐是用四十八也合之是用四十九也所</span><br/>
-<span class='tline' id='l524' data-llen='13702:13725'>　　謂挂本作懸之以用解吳斗南謂雖掛而實未嘗</span><br/>
-<span class='tline' id='l525' data-llen='13725:13748'>　　掛可以掛可以无掛者其言誤矣周氏於五十圍</span><br/>
-<span class='tline' id='l526' data-llen='13748:13771'>　　而掛一不用用四十九揲之不合掛一之一數也</span><br/>
-<span class='tline' id='l527' data-llen='13771:13794'>　　則為掛作置之不用解而其所得但有五而已无</span><br/>
-<span class='tline' id='l528' data-llen='13794:13817'>　　他也是初揲可以不揲矣斗南稱其説為自然殆</span><br/>
-<span class='tline' id='l529' data-llen='13817:13844'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-30a' );" name="002-30a" class="pb">[002-30a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l530' data-llen='13844:13868'>　　不然也若云去一則不可其言自有理予所謂存一</span><br/>
-<span class='tline' id='l531' data-llen='13868:13891'>　　以為不動之體也其用四十八揲者或謂以四與</span><br/>
-<span class='tline' id='l532' data-llen='13891:13914'>　　十二宛轉相因相為經緯以見變化或謂用河圖</span><br/>
-<span class='tline' id='l533' data-llen='13914:13937'>　　之四十以行八卦又卦有八爻有六六而八之為</span><br/>
-<span class='tline' id='l534' data-llen='13937:13960'>　　四十八六十四卦虚其游魂歸魂之十六止於四</span><br/>
-<span class='tline' id='l535' data-llen='13960:13983'>　　十八其説皆可通也若趙子欽欲以四十有九未</span><br/>
-<span class='tline' id='l536' data-llen='13983:14006'>　　分者為象太極則無謂矣或又欲盡用五十策者</span><br/>
-<span class='tline' id='l537' data-llen='14006:14029'>　　則初變唯有六策數得九得七者各十六得八者</span><br/>
-<span class='tline' id='l538' data-llen='14029:14056'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-30b' );" name="002-30b" class="pb">[002-30b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l539' data-llen='14056:14081'>　　三十二得六者闕不成揲矣<span class='krp-note'>用挂掛字/皆有别</span></span><br/>
-<span class='tline' id='l540' data-llen='14081:14104'>　　張氏周易啟元之法初揲挂一次兩揲不挂揲左</span><br/>
-<span class='tline' id='l541' data-llen='14104:14127'>　　手不揲右手但以右手之蓍足滿左手之餘初揲</span><br/>
-<span class='tline' id='l542' data-llen='14127:14150'>　　餘一餘二足滿五餘三餘四足滿九次兩揲餘一</span><br/>
-<span class='tline' id='l543' data-llen='14150:14173'>　　餘二足滿五餘三餘四足滿八為九為六者各八</span><br/>
-<span class='tline' id='l544' data-llen='14173:14196'>　　為七為八者各二十四趙氏曰次兩揲不挂則不</span><br/>
-<span class='tline' id='l545' data-llen='14196:14219'>　　合四營不揲右手則不合再扐且初變左餘一右</span><br/>
-<span class='tline' id='l546' data-llen='14219:14242'>　　必餘三左餘二右必餘二與挂一而為五者乃左</span><br/>
-<span class='tline' id='l547' data-llen='14242:14269'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-31a' );" name="002-31a" class="pb">[002-31a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l548' data-llen='14269:14291'>　　右揲四之所餘葢理之自然勢有不容易者今</span><br/>
-<span class='tline' id='l549' data-llen='14291:14314'>　　既不揲右但視左所餘而益之則多寡直可任情</span><br/>
-<span class='tline' id='l550' data-llen='14314:14337'>　　何必滿五滿九莊氏新譜三揲皆用四十九數挂</span><br/>
-<span class='tline' id='l551' data-llen='14337:14360'>　　一不在其偶數中為九為六者各八為七為八者</span><br/>
-<span class='tline' id='l552' data-llen='14360:14383'>　　各二十四趙氏曰與古法戾楊氏傳蔡季通法初</span><br/>
-<span class='tline' id='l553' data-llen='14383:14406'>　　挂一不用止用四十八蓍於四十八中别取一蓍</span><br/>
-<span class='tline' id='l554' data-llen='14406:14429'>　　挂於指間三變凡三挂餘一益二餘二益一為少</span><br/>
-<span class='tline' id='l555' data-llen='14429:14452'>　　餘三益四餘四益三為多為九為六者各八為七</span><br/>
-<span class='tline' id='l556' data-llen='14452:14479'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-31b' );" name="002-31b" class="pb">[002-31b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l557' data-llen='14479:14502'>　　為八者各二十四趙氏曰用此法則有四八而無</span><br/>
-<span class='tline' id='l558' data-llen='14502:14525'>　　五九季通自謂其非矣以上三氏所得九六七八</span><br/>
-<span class='tline' id='l559' data-llen='14525:14548'>　　皆同而其法各異皆有所未安今定以朱子之法</span><br/>
-<span class='tline' id='l560' data-llen='14548:14571'>　　為正故附録之使人不為所惑也至於用錢用木</span><br/>
-<span class='tline' id='l561' data-llen='14571:14594'>　　丸之類以代蓍為巧者尤術家苟簡之道學者無</span><br/>
-<span class='tline' id='l562' data-llen='14594:14600'>　　取焉</span><br/>
-<span class='tline' id='l563' data-llen='14600:14627'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-32a' );" name="002-32a" class="pb">[002-32a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+    <p>
+<span class='tline' id='l7' data-llen='155:181'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-1a' );" name="002-1a" class="pb">[002-1a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l8' data-llen='181:189'>欽定四庫全書</span>
+<span class='tline' id='l9' data-llen='189:198'>　周易筮述卷二</span>
+<span class='tline' id='l10' data-llen='198:219'>　　　　　　　　　　　　　華隂王宏撰撰</span>
+<span class='tline' id='l11' data-llen='219:227'>　　揲法第四</span>
+<span class='tline' id='l12' data-llen='227:250'>分而為二以象兩挂一以象三揲之以四以象四時歸</span>
+<span class='tline' id='l13' data-llen='250:268'>竒於扐以象閏五嵗再閏故再扐而後挂</span>
+<span class='tline' id='l14' data-llen='268:298'>　　既於蓍百莖中取四十九策熏之爐上<span class='krp-note'>今不能得/滿百莖者</span></span>
+<span class='tline' id='l15' data-llen='298:326'>　　<span class='krp-note'>即五十/可用</span>遂以左右手中分之置格之左右兩大刻</span>
+<span class='tline' id='l16' data-llen='326:352'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-1b' );" name="002-1b" class="pb">[002-1b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l17' data-llen='352:375'>　　此第一營所謂分而為二也次以左手取左大刻</span>
+<span class='tline' id='l18' data-llen='375:398'>　　之策執之而以右手取右大刻之一策挂於左手</span>
+<span class='tline' id='l19' data-llen='398:431'>　　小指間此第二營所謂挂一也<span class='krp-note'>或曰挂一之策何/為取之右大刻曰</span></span>
+<span class='tline' id='l20' data-llen='431:464'>　　<span class='krp-note'>置策先左後右置畢/方挂故取之右也</span>次以右手四揲左手之䇿此</span>
+<span class='tline' id='l21' data-llen='464:487'>　　第三營之半所謂揲之以四也次歸其所餘之策</span>
+<span class='tline' id='l22' data-llen='487:510'>　　扐之左手無名指間此第四營之半所謂歸竒於</span>
+<span class='tline' id='l23' data-llen='510:533'>　　扐也次以右手反過揲之策於左大刻遂取右大</span>
+<span class='tline' id='l24' data-llen='533:556'>　　刻之策執之而以左手四揲之此第三營之半次</span>
+<span class='tline' id='l25' data-llen='556:582'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-2a' );" name="002-2a" class="pb">[002-2a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l26' data-llen='582:605'>　　歸其所餘之策扐之左手中指間此第四營之半</span>
+<span class='tline' id='l27' data-llen='605:645'>　　所謂再扐也<span class='krp-note'>五嵗之象挂一一嵗揲左二嵗歸左/竒三嵗扐閏也揲右四嵗歸右竒五</span></span>
+<span class='tline' id='l28' data-llen='645:680'>　　<span class='krp-note'>嵗再扐再閏也前閏後/閏相去大畧三十二月</span>次以右手反過揲之策於</span>
+<span class='tline' id='l29' data-llen='680:703'>　　右大刻而合左手一挂二扐之策置於格之第一</span>
+<span class='tline' id='l30' data-llen='703:731'>　　小刻<span class='krp-note'>以東/為上</span>是為一變其挂扐之數不五則九再以</span>
+<span class='tline' id='l31' data-llen='731:754'>　　兩手取左右兩大刻之策合之四營如前置其挂</span>
+<span class='tline' id='l32' data-llen='754:777'>　　扐之策於格之第二小刻是為二變其挂扐之數</span>
+<span class='tline' id='l33' data-llen='777:800'>　　不四則八再取左右兩大刻之策合之四營如前</span>
+<span class='tline' id='l34' data-llen='800:826'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-2b' );" name="002-2b" class="pb">[002-2b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l35' data-llen='826:849'>　　置其挂扐之策於格之第三小刻是為三變其挂</span>
+<span class='tline' id='l36' data-llen='849:872'>　　扐之數亦不四則八三變畢乃視其挂扐之竒偶</span>
+<span class='tline' id='l37' data-llen='872:895'>　　以分所遇陰陽之老少為一爻而畫之於板三變</span>
+<span class='tline' id='l38' data-llen='895:918'>　　而得一爻凡十有八變得六爻而成卦乃考其卦</span>
+<span class='tline' id='l39' data-llen='918:931'>　　之變而占其事之吉凶</span>
+<span class='tline' id='l40' data-llen='931:954'>　　按汴水趙氏云蓍變而有之卦者宜畫兩卦一為</span>
+<span class='tline' id='l41' data-llen='954:977'>　　本卦一為之卦若交重單拆三代未聞或謂出於</span>
+<span class='tline' id='l42' data-llen='977:1000'>　　鬼谷子今火珠林諸家多用之三竒為老陽其畫</span>
+<span class='tline' id='l43' data-llen='1000:1026'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-3a' );" name="002-3a" class="pb">[002-3a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l44' data-llen='1026:1056'>　　為口所謂重也二竒一偶為少隂其畫為<img height='20' width='20' alt='&amp;KR0306' title='KR0306' src='https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0306.png'/>所謂</span>
+<span class='tline' id='l45' data-llen='1056:1079'>　　拆也二偶一竒為少陽其畫為一所謂單也三偶</span>
+<span class='tline' id='l46' data-llen='1079:1102'>　　為老隂其畫為㐅所謂交也予謂初為一畫則無</span>
+<span class='tline' id='l47' data-llen='1102:1125'>　　畫兩卦之理以交重單拆為記無礙也故朱子用</span>
+<span class='tline' id='l48' data-llen='1125:1130'>　　之</span>
+<span class='tline' id='l49' data-llen='1130:1152'>　一變<span class='krp-note'>畫卦自下始故記/策下為挂上為扐</span></span>
+<span class='tline' id='l50' data-llen='1152:1187'>　　初一<span class='krp-note'>朱子記以黒㸃趙氏用數字上下/分予改為左右挂者在左尤易明</span></span>
+<span class='tline' id='l51' data-llen='1187:1194'>　　　扐挂</span>
+<span class='tline' id='l52' data-llen='1194:1220'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-3b' );" name="002-3b" class="pb">[002-3b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l53' data-llen='1220:1232'>　　<span class='krp-note'>右三一/左一</span></span>
+<span class='tline' id='l54' data-llen='1232:1244'>　　<span class='krp-note'>右一一/左三</span></span>
+<span class='tline' id='l55' data-llen='1244:1256'>　　<span class='krp-note'>右二一/左二</span></span>
+<span class='tline' id='l56' data-llen='1256:1279'>　　　得五者三竒也兩儀之陽數也四十九策得五</span>
+<span class='tline' id='l57' data-llen='1279:1313'>　　　餘四十四乾兌離震之象<span class='krp-note'>此象説本之谷水林/氏謂有是象非定為</span></span>
+<span class='tline' id='l58' data-llen='1313:1344'>　　　<span class='krp-note'>是象也與後四營篇注可參觀/趙氏駁其與沈氏同誤固矣</span></span>
+<span class='tline' id='l59' data-llen='1344:1356'>　　<span class='krp-note'>右四一/左四</span></span>
+<span class='tline' id='l60' data-llen='1356:1379'>　　　得九者一偶也兩儀之陰數也四十九策得九</span>
+<span class='tline' id='l61' data-llen='1379:1405'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-4a' );" name="002-4a" class="pb">[002-4a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l62' data-llen='1405:1419'>　　　餘四十坤巽坎艮之象</span>
+<span class='tline' id='l63' data-llen='1419:1425'>　　次二</span>
+<span class='tline' id='l64' data-llen='1425:1437'>　　<span class='krp-note'>右二一/左一</span></span>
+<span class='tline' id='l65' data-llen='1437:1449'>　　<span class='krp-note'>右一一/左二</span></span>
+<span class='tline' id='l66' data-llen='1449:1472'>　　　得四者二竒也若四十四策得四餘四十乾兌</span>
+<span class='tline' id='l67' data-llen='1472:1492'>　　　之象四十策得四餘三十六坎巽之象</span>
+<span class='tline' id='l68' data-llen='1492:1504'>　　<span class='krp-note'>右四一/左三</span></span>
+<span class='tline' id='l69' data-llen='1504:1516'>　　<span class='krp-note'>右三一/左四</span></span>
+<span class='tline' id='l70' data-llen='1516:1542'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-4b' );" name="002-4b" class="pb">[002-4b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l71' data-llen='1542:1565'>　　　得八者二偶也若四十四策得八餘三十六離</span>
+<span class='tline' id='l72' data-llen='1565:1586'>　　　震之象四十策得八餘三十二坤艮之象</span>
+<span class='tline' id='l73' data-llen='1586:1592'>　　次三</span>
+<span class='tline' id='l74' data-llen='1592:1604'>　　<span class='krp-note'>右二一/左一</span></span>
+<span class='tline' id='l75' data-llen='1604:1616'>　　<span class='krp-note'>右一一/左二</span></span>
+<span class='tline' id='l76' data-llen='1616:1639'>　　　得四者二竒也若四十策得四餘三十六以四</span>
+<span class='tline' id='l77' data-llen='1639:1662'>　　　數之凡九是為老陽乾之象若三十六策得四</span>
+<span class='tline' id='l78' data-llen='1662:1685'>　　　餘三十二以四數之凡八是為少陰如初四十</span>
+<span class='tline' id='l79' data-llen='1685:1711'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-5a' );" name="002-5a" class="pb">[002-5a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l80' data-llen='1711:1734'>　　　四則離之象初四十則巽之象若三十二得四</span>
+<span class='tline' id='l81' data-llen='1734:1756'>　　　餘二十八以四數之凡七是為少陽艮之象</span>
+<span class='tline' id='l82' data-llen='1756:1768'>　　<span class='krp-note'>右四一/左三</span></span>
+<span class='tline' id='l83' data-llen='1768:1780'>　　<span class='krp-note'>左三一/左四</span></span>
+<span class='tline' id='l84' data-llen='1780:1803'>　　　得八者二偶也若四十策得八餘三十二以四</span>
+<span class='tline' id='l85' data-llen='1803:1826'>　　　數之凡八是為少陰兑之象若三十六策得八</span>
+<span class='tline' id='l86' data-llen='1826:1849'>　　　餘二十八以四數之凡七是為少陽如初四十</span>
+<span class='tline' id='l87' data-llen='1849:1872'>　　　四則震之象初四十則坎之象若三十二策得</span>
+<span class='tline' id='l88' data-llen='1872:1898'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-5b' );" name="002-5b" class="pb">[002-5b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l89' data-llen='1898:1921'>　　　八餘二十四以四數之凡六是為老陰坤之象</span>
+<span class='tline' id='l90' data-llen='1921:1950'>　　三變<span class='krp-note'>畫卦自下始故記變下為/初一中為次二上為次三</span></span>
+<span class='tline' id='l91' data-llen='1950:1963'>　　　次三　次二　初一</span>
+<span class='tline' id='l92' data-llen='1963:1989'>　　<span class='krp-note'>右二一/左一</span>　<span class='krp-note'>二一/一</span>　<span class='krp-note'>三一/一</span></span>
+<span class='tline' id='l93' data-llen='1989:2015'>　　<span class='krp-note'>右一一/左二</span>　<span class='krp-note'>二一/一</span>　<span class='krp-note'>三一/一</span></span>
+<span class='tline' id='l94' data-llen='2015:2041'>　　<span class='krp-note'>右一一/左二</span>　<span class='krp-note'>一一/二</span>　<span class='krp-note'>三一/一</span></span>
+<span class='tline' id='l95' data-llen='2041:2067'>　　<span class='krp-note'>右二一/左一</span>　<span class='krp-note'>一一/二</span>　<span class='krp-note'>三一/一</span></span>
+<span class='tline' id='l96' data-llen='2067:2093'>　　<span class='krp-note'>右二一/左一</span>　<span class='krp-note'>二一/一</span>　<span class='krp-note'>一一/三</span></span>
+<span class='tline' id='l97' data-llen='2093:2119'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-6a' );" name="002-6a" class="pb">[002-6a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l98' data-llen='2119:2145'>　　<span class='krp-note'>右一一/左二</span>　<span class='krp-note'>二一/一</span>　<span class='krp-note'>一一/三</span></span>
+<span class='tline' id='l99' data-llen='2145:2171'>　　<span class='krp-note'>右一一/左二</span>　<span class='krp-note'>一一/二</span>　<span class='krp-note'>一一/三</span></span>
+<span class='tline' id='l100' data-llen='2171:2197'>　　<span class='krp-note'>右二一/左一</span>　<span class='krp-note'>一一/二</span>　<span class='krp-note'>一一/三</span></span>
+<span class='tline' id='l101' data-llen='2197:2223'>　　<span class='krp-note'>右二一/左一</span>　<span class='krp-note'>二一/一</span>　<span class='krp-note'>二一/二</span></span>
+<span class='tline' id='l102' data-llen='2223:2249'>　　<span class='krp-note'>右一一/左二</span>　<span class='krp-note'>二一/一</span>　<span class='krp-note'>二一/二</span></span>
+<span class='tline' id='l103' data-llen='2249:2275'>　　<span class='krp-note'>右一一/左二</span>　<span class='krp-note'>一一/二</span>　<span class='krp-note'>二一/二</span></span>
+<span class='tline' id='l104' data-llen='2275:2301'>　　<span class='krp-note'>右二一/左一</span>　<span class='krp-note'>一一/二</span>　<span class='krp-note'>二一/二</span></span>
+<span class='tline' id='l105' data-llen='2301:2322'>　　以上十二變變皆十三策為九者挂扐之數</span>
+<span class='tline' id='l106' data-llen='2322:2348'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-6b' );" name="002-6b" class="pb">[002-6b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l107' data-llen='2348:2371'>　朱子曰右三竒為老陽者凡十有二挂扐之數十有</span>
+<span class='tline' id='l108' data-llen='2371:2394'>　三除初挂之一為十有二以四約而三分之為一者</span>
+<span class='tline' id='l109' data-llen='2394:2417'>　三一竒象圓而圍三故三一之中各復有三而積三</span>
+<span class='tline' id='l110' data-llen='2417:2440'>　三之數則為九過揲之數三十有六以四約之亦得</span>
+<span class='tline' id='l111' data-llen='2440:2484'>　九焉<span class='krp-note'>挂扐除一四分四十有八而得其一也一其十/二而三其四也九之母也過揲之數四分四十</span></span>
+<span class='tline' id='l112' data-llen='2484:2523'>　<span class='krp-note'>八而得其三也三其十二而九其/四也九之子也皆徑一而圍三也</span>即四象太陽居一</span>
+<span class='tline' id='l113' data-llen='2523:2564'>　含九之數也<span class='krp-note'>一五兩四是為三竒為一者三一即四/也即竒也合三變則為四者凡三是為</span></span>
+<span class='tline' id='l114' data-llen='2564:2610'>　<span class='krp-note'>為一者三一竒象圓而圍三本參天之義是於四策/之中取一䇿以象圓而以三策為圍三而用其全是</span></span>
+<span class='tline' id='l115' data-llen='2610:2636'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-7a' );" name="002-7a" class="pb">[002-7a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l116' data-llen='2636:2682'>　<span class='krp-note'>為一之中復有三合三竒用其全者而言是為三一/之中各復有三而積三三為老陽之九以四約過揲</span></span>
+<span class='tline' id='l117' data-llen='2682:2697'>　<span class='krp-note'>三十六亦為/九者四也</span></span>
+<span class='tline' id='l118' data-llen='2697:2723'>　　<span class='krp-note'>右四一/左三</span>　<span class='krp-note'>四一/三</span>　<span class='krp-note'>四一/四</span></span>
+<span class='tline' id='l119' data-llen='2723:2749'>　　<span class='krp-note'>右三一/左四</span>　<span class='krp-note'>四一/三</span>　<span class='krp-note'>四一/四</span></span>
+<span class='tline' id='l120' data-llen='2749:2775'>　　<span class='krp-note'>右三一/左四</span>　<span class='krp-note'>三一/四</span>　<span class='krp-note'>四一/四</span></span>
+<span class='tline' id='l121' data-llen='2775:2801'>　　<span class='krp-note'>右四一/左三</span>　<span class='krp-note'>三一/四</span>　<span class='krp-note'>四一/四</span></span>
+<span class='tline' id='l122' data-llen='2801:2822'>　　以上四變變皆二十五策為六者挂扐之數</span>
+<span class='tline' id='l123' data-llen='2822:2845'>　朱子曰右三偶為老陰者四挂扐之數二十有五除</span>
+<span class='tline' id='l124' data-llen='2845:2871'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-7b' );" name="002-7b" class="pb">[002-7b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l125' data-llen='2871:2894'>　初挂之一為二十有四以四約而三分之為二者三</span>
+<span class='tline' id='l126' data-llen='2894:2917'>　二偶象方而用其半故三二之中各復有二而積三</span>
+<span class='tline' id='l127' data-llen='2917:2940'>　二之數則為六過揲之數亦二十有四以四約之亦</span>
+<span class='tline' id='l128' data-llen='2940:2983'>　得六焉<span class='krp-note'>挂扐除一六之母也過揲之數六之子也四/分四十有八而各得其二也兩其十二而六</span></span>
+<span class='tline' id='l129' data-llen='2983:3020'>　<span class='krp-note'>其四也皆圍/四而用半也</span>即四象太隂居四含六之數也<span class='krp-note'>一九兩/八是為</span></span>
+<span class='tline' id='l130' data-llen='3020:3066'>　<span class='krp-note'>三偶為二者三二即八也即偶也合三變則為八者/凡三是為為二者三二偶象方而用半本兩地之義</span></span>
+<span class='tline' id='l131' data-llen='3066:3112'>　<span class='krp-note'>是於三變八䇿中各去四不用而於各所存四策中/各取二䇿以象方而各以二䇿為圍四而用其半是</span></span>
+<span class='tline' id='l132' data-llen='3112:3158'>　<span class='krp-note'>為二之中復有二合三偶用其半者而言是三二之/中各復有二而積三二為老隂之六以四約過揲二</span></span>
+<span class='tline' id='l133' data-llen='3158:3184'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-8a' );" name="002-8a" class="pb">[002-8a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l134' data-llen='3184:3198'>　<span class='krp-note'>十四亦為/六者四也</span></span>
+<span class='tline' id='l135' data-llen='3198:3224'>　　<span class='krp-note'>右四一/左三</span>　<span class='krp-note'>四一/三</span>　<span class='krp-note'>三一/一</span></span>
+<span class='tline' id='l136' data-llen='3224:3250'>　　<span class='krp-note'>右三一/左四</span>　<span class='krp-note'>四一/三</span>　<span class='krp-note'>三一/一</span></span>
+<span class='tline' id='l137' data-llen='3250:3276'>　　<span class='krp-note'>右三一/左四</span>　<span class='krp-note'>三一/四</span>　<span class='krp-note'>三一/一</span></span>
+<span class='tline' id='l138' data-llen='3276:3302'>　　<span class='krp-note'>右四一/左三</span>　<span class='krp-note'>三一/四</span>　<span class='krp-note'>三一/一</span></span>
+<span class='tline' id='l139' data-llen='3302:3328'>　　<span class='krp-note'>右四一/左三</span>　<span class='krp-note'>四一/三</span>　<span class='krp-note'>二一/二</span></span>
+<span class='tline' id='l140' data-llen='3328:3354'>　　<span class='krp-note'>右三一/左四</span>　<span class='krp-note'>四一/三</span>　<span class='krp-note'>二一/二</span></span>
+<span class='tline' id='l141' data-llen='3354:3380'>　　<span class='krp-note'>右三一/左四</span>　<span class='krp-note'>三一/四</span>　<span class='krp-note'>二一/二</span></span>
+<span class='tline' id='l142' data-llen='3380:3406'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-8b' );" name="002-8b" class="pb">[002-8b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l143' data-llen='3406:3432'>　　<span class='krp-note'>右四一/左三</span>　<span class='krp-note'>三一/四</span>　<span class='krp-note'>二一/二</span></span>
+<span class='tline' id='l144' data-llen='3432:3458'>　　<span class='krp-note'>右四一/左三</span>　<span class='krp-note'>四一/三</span>　<span class='krp-note'>一一/三</span></span>
+<span class='tline' id='l145' data-llen='3458:3484'>　　<span class='krp-note'>右三一/左四</span>　<span class='krp-note'>四一/三</span>　<span class='krp-note'>一一/三</span></span>
+<span class='tline' id='l146' data-llen='3484:3510'>　　<span class='krp-note'>右三一/左四</span>　<span class='krp-note'>三一/四</span>　<span class='krp-note'>一一/三</span></span>
+<span class='tline' id='l147' data-llen='3510:3536'>　　<span class='krp-note'>右四一/左三</span>　<span class='krp-note'>三一/四</span>　<span class='krp-note'>一一/三</span></span>
+<span class='tline' id='l148' data-llen='3536:3562'>　　<span class='krp-note'>右四一/左三</span>　<span class='krp-note'>二一/一</span>　<span class='krp-note'>四一/四</span></span>
+<span class='tline' id='l149' data-llen='3562:3588'>　　<span class='krp-note'>右三一/左四</span>　<span class='krp-note'>二一/一</span>　<span class='krp-note'>四一/四</span></span>
+<span class='tline' id='l150' data-llen='3588:3614'>　　<span class='krp-note'>右四一/左三</span>　<span class='krp-note'>一一/二</span>　<span class='krp-note'>四一/四</span></span>
+<span class='tline' id='l151' data-llen='3614:3640'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-9a' );" name="002-9a" class="pb">[002-9a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l152' data-llen='3640:3666'>　　<span class='krp-note'>右三一/左四</span>　<span class='krp-note'>一一/二</span>　<span class='krp-note'>四一/四</span></span>
+<span class='tline' id='l153' data-llen='3666:3692'>　　<span class='krp-note'>右二一/左一</span>　<span class='krp-note'>四一/三</span>　<span class='krp-note'>四一/四</span></span>
+<span class='tline' id='l154' data-llen='3692:3718'>　　<span class='krp-note'>右一一/左二</span>　<span class='krp-note'>四一/三</span>　<span class='krp-note'>四一/四</span></span>
+<span class='tline' id='l155' data-llen='3718:3744'>　　<span class='krp-note'>右二一/左一</span>　<span class='krp-note'>三一/四</span>　<span class='krp-note'>四一/四</span></span>
+<span class='tline' id='l156' data-llen='3744:3770'>　　<span class='krp-note'>右一一/左二</span>　<span class='krp-note'>三一/四</span>　<span class='krp-note'>四一/四</span></span>
+<span class='tline' id='l157' data-llen='3770:3792'>　　以上二十變變皆二十一策為七者挂扐之數</span>
+<span class='tline' id='l158' data-llen='3792:3815'>　朱子曰右兩偶一竒以竒為主為少陽者凡二十挂</span>
+<span class='tline' id='l159' data-llen='3815:3838'>　扐之數二十有一除初挂之一為二十以四約而三</span>
+<span class='tline' id='l160' data-llen='3838:3864'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-9b' );" name="002-9b" class="pb">[002-9b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l161' data-llen='3864:3887'>　分之為二者二為一者一二偶象方而用其半故二</span>
+<span class='tline' id='l162' data-llen='3887:3910'>　二之中各復有二一竒象圓而用其全故一一之中</span>
+<span class='tline' id='l163' data-llen='3910:3933'>　復有三焉而積二二一三之數則為七過揲之數二</span>
+<span class='tline' id='l164' data-llen='3933:3968'>　十有八以四約之亦得七焉<span class='krp-note'>挂扐除一五其四也自/兩其十二者而退四也</span></span>
+<span class='tline' id='l165' data-llen='3968:4007'>　<span class='krp-note'>七之母也過揲之數七其四也自/兩其十二者而進四也七之子也</span>即四象少陽居三</span>
+<span class='tline' id='l166' data-llen='4007:4048'>　含七之數也<span class='krp-note'>兩八一五或一九一八一四是為兩偶/一竒為二者二二即八也即偶也合二</span></span>
+<span class='tline' id='l167' data-llen='4048:4094'>　<span class='krp-note'>變則為八者凡二是為為二者二為一者一一即四/也即竒也一變而為四者凡一是為為一者一二偶</span></span>
+<span class='tline' id='l168' data-llen='4094:4140'>　<span class='krp-note'>象方而用其半亦本兩地之義是於二變各八策中/各去其四不用而於各存四策中各取二策以象方</span></span>
+<span class='tline' id='l169' data-llen='4140:4167'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-10a' );" name="002-10a" class="pb">[002-10a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l170' data-llen='4167:4213'>　<span class='krp-note'>而各以二䇿為圍四而用其半是為二二之中各復/有二一竒象圓而用其全亦本參天之義是於一變</span></span>
+<span class='tline' id='l171' data-llen='4213:4259'>　<span class='krp-note'>四策全用而於其中取一策以象圓而以三策為圍/三而用其全是為一一之中復有三而積二二一三</span></span>
+<span class='tline' id='l172' data-llen='4259:4284'>　<span class='krp-note'>為少陽之七以四約過揲/二十八亦為七者四也</span></span>
+<span class='tline' id='l173' data-llen='4284:4310'>　　<span class='krp-note'>右四一/左三</span>　<span class='krp-note'>二一/一</span>　<span class='krp-note'>三一/一</span></span>
+<span class='tline' id='l174' data-llen='4310:4336'>　　<span class='krp-note'>右三一/左四</span>　<span class='krp-note'>二一/一</span>　<span class='krp-note'>三一/一</span></span>
+<span class='tline' id='l175' data-llen='4336:4362'>　　<span class='krp-note'>右四一/左三</span>　<span class='krp-note'>一一/二</span>　<span class='krp-note'>三一/一</span></span>
+<span class='tline' id='l176' data-llen='4362:4388'>　　<span class='krp-note'>右三一/左四</span>　<span class='krp-note'>一一/二</span>　<span class='krp-note'>三一/一</span></span>
+<span class='tline' id='l177' data-llen='4388:4414'>　　<span class='krp-note'>右二一/左一</span>　<span class='krp-note'>四一/三</span>　<span class='krp-note'>三一/一</span></span>
+<span class='tline' id='l178' data-llen='4414:4441'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-10b' );" name="002-10b" class="pb">[002-10b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l179' data-llen='4441:4467'>　　<span class='krp-note'>右一一/左二</span>　<span class='krp-note'>四一/三</span>　<span class='krp-note'>三一/一</span></span>
+<span class='tline' id='l180' data-llen='4467:4493'>　　<span class='krp-note'>右二一/左一</span>　<span class='krp-note'>三一/四</span>　<span class='krp-note'>三一/一</span></span>
+<span class='tline' id='l181' data-llen='4493:4519'>　　<span class='krp-note'>右一一/左二</span>　<span class='krp-note'>三一/四</span>　<span class='krp-note'>三一/一</span></span>
+<span class='tline' id='l182' data-llen='4519:4545'>　　<span class='krp-note'>右四一/左三</span>　<span class='krp-note'>二一/一</span>　<span class='krp-note'>一一/三</span></span>
+<span class='tline' id='l183' data-llen='4545:4571'>　　<span class='krp-note'>右三一/左四</span>　<span class='krp-note'>二一/一</span>　<span class='krp-note'>一一/三</span></span>
+<span class='tline' id='l184' data-llen='4571:4597'>　　<span class='krp-note'>右四一/左三</span>　<span class='krp-note'>一一/二</span>　<span class='krp-note'>一一/三</span></span>
+<span class='tline' id='l185' data-llen='4597:4623'>　　<span class='krp-note'>右三一/左四</span>　<span class='krp-note'>一一/二</span>　<span class='krp-note'>一一/三</span></span>
+<span class='tline' id='l186' data-llen='4623:4649'>　　<span class='krp-note'>右二一/左一</span>　<span class='krp-note'>四一/三</span>　<span class='krp-note'>一一/三</span></span>
+<span class='tline' id='l187' data-llen='4649:4676'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-11a' );" name="002-11a" class="pb">[002-11a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l188' data-llen='4676:4702'>　　<span class='krp-note'>右一一/左二</span>　<span class='krp-note'>四一/三</span>　<span class='krp-note'>一一/三</span></span>
+<span class='tline' id='l189' data-llen='4702:4728'>　　<span class='krp-note'>右二一/左一</span>　<span class='krp-note'>三一/四</span>　<span class='krp-note'>一一/三</span></span>
+<span class='tline' id='l190' data-llen='4728:4754'>　　<span class='krp-note'>右一一/左二</span>　<span class='krp-note'>三一/四</span>　<span class='krp-note'>一一/三</span></span>
+<span class='tline' id='l191' data-llen='4754:4780'>　　<span class='krp-note'>右四一/左三</span>　<span class='krp-note'>二一/一</span>　<span class='krp-note'>二一/二</span></span>
+<span class='tline' id='l192' data-llen='4780:4806'>　　<span class='krp-note'>右三一/左四</span>　<span class='krp-note'>二一/一</span>　<span class='krp-note'>二一/二</span></span>
+<span class='tline' id='l193' data-llen='4806:4832'>　　<span class='krp-note'>右四一/左三</span>　<span class='krp-note'>一一/二</span>　<span class='krp-note'>二一/二</span></span>
+<span class='tline' id='l194' data-llen='4832:4858'>　　<span class='krp-note'>右三一/左四</span>　<span class='krp-note'>一一/二</span>　<span class='krp-note'>二一/二</span></span>
+<span class='tline' id='l195' data-llen='4858:4884'>　　<span class='krp-note'>右二一/左一</span>　<span class='krp-note'>四一/三</span>　<span class='krp-note'>二一/二</span></span>
+<span class='tline' id='l196' data-llen='4884:4911'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-11b' );" name="002-11b" class="pb">[002-11b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l197' data-llen='4911:4937'>　　<span class='krp-note'>右一一/左二</span>　<span class='krp-note'>四一/三</span>　<span class='krp-note'>二一/二</span></span>
+<span class='tline' id='l198' data-llen='4937:4963'>　　<span class='krp-note'>右二一/左一</span>　<span class='krp-note'>三一/四</span>　<span class='krp-note'>二一/二</span></span>
+<span class='tline' id='l199' data-llen='4963:4989'>　　<span class='krp-note'>右一一/左二</span>　<span class='krp-note'>三一/四</span>　<span class='krp-note'>二一/二</span></span>
+<span class='tline' id='l200' data-llen='4989:5015'>　　<span class='krp-note'>右二一/左一</span>　<span class='krp-note'>二一/一</span>　<span class='krp-note'>四一/四</span></span>
+<span class='tline' id='l201' data-llen='5015:5041'>　　<span class='krp-note'>右一一/左二</span>　<span class='krp-note'>二一/一</span>　<span class='krp-note'>四一/四</span></span>
+<span class='tline' id='l202' data-llen='5041:5067'>　　<span class='krp-note'>右一一/左二</span>　<span class='krp-note'>一一/二</span>　<span class='krp-note'>四一/四</span></span>
+<span class='tline' id='l203' data-llen='5067:5093'>　　<span class='krp-note'>右二一/左一</span>　<span class='krp-note'>一一/二</span>　<span class='krp-note'>四一/四</span></span>
+<span class='tline' id='l204' data-llen='5093:5115'>　　以上二十八變變皆十七策為八者挂扐之數</span>
+<span class='tline' id='l205' data-llen='5115:5142'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-12a' );" name="002-12a" class="pb">[002-12a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l206' data-llen='5142:5165'>　朱子曰右兩竒一偶以偶為主為少隂者凡二十有</span>
+<span class='tline' id='l207' data-llen='5165:5188'>　八挂扐之數十有七除初挂之一為十有六以四約</span>
+<span class='tline' id='l208' data-llen='5188:5211'>　而三分之為一者二為二者一一竒象圓而用其全</span>
+<span class='tline' id='l209' data-llen='5211:5234'>　故二一之中各復有三二偶象方而用其半故一二</span>
+<span class='tline' id='l210' data-llen='5234:5257'>　之中復有二焉而積二三一二之數則為八過揲之</span>
+<span class='tline' id='l211' data-llen='5257:5290'>　數三十有二以四約之亦得八焉<span class='krp-note'>挂扐除一四其四/也自一其十二者</span></span>
+<span class='tline' id='l212' data-llen='5290:5331'>　<span class='krp-note'>而進四也八之母也過揲之數八其四/也自三其十二者而退四也八之子也</span>即四象少隂</span>
+<span class='tline' id='l213' data-llen='5331:5370'>　居二含八之數也<span class='krp-note'>一九兩四或一五一四一八是為/兩竒一偶為一者二一即四也即</span></span>
+<span class='tline' id='l214' data-llen='5370:5397'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-12b' );" name="002-12b" class="pb">[002-12b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l215' data-llen='5397:5443'>　<span class='krp-note'>竒也合二變則為四者凡二是為為一者二為二者/一二即八也即偶也一變則為八者凡一是為為二</span></span>
+<span class='tline' id='l216' data-llen='5443:5489'>　<span class='krp-note'>者一一竒象圓而用其全亦本參天之義是於二變/各四策全用而於其中各取一策以象圓而各以三</span></span>
+<span class='tline' id='l217' data-llen='5489:5535'>　<span class='krp-note'>策為圍三而用其全是為二一之中各復有三二偶/象方而用其半亦本兩地之義是於一變八策中去</span></span>
+<span class='tline' id='l218' data-llen='5535:5581'>　<span class='krp-note'>其四不用而於所存四策中取二策以象方而以二/策為圍四而用其半是為一二之中復有二而積二</span></span>
+<span class='tline' id='l219' data-llen='5581:5618'>　<span class='krp-note'>三一二為少隂之八以四約/過揲三十二亦為八者四也</span>凡此四者皆以三變皆</span>
+<span class='tline' id='l220' data-llen='5618:5641'>　挂之法得之葢經曰再扐而後挂又曰四營而成易</span>
+<span class='tline' id='l221' data-llen='5641:5664'>　其指甚明註疏雖不詳説然劉禹錫所記僧一行畢</span>
+<span class='tline' id='l222' data-llen='5664:5687'>　中和顧彖之説亦已備矣近世諸儒乃有前一變獨</span>
+<span class='tline' id='l223' data-llen='5687:5714'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-13a' );" name="002-13a" class="pb">[002-13a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l224' data-llen='5714:5737'>　挂後二變不挂之説考之於經乃為六扐而後挂不</span>
+<span class='tline' id='l225' data-llen='5737:5760'>　應五嵗再閏之義且後兩變又止三營葢已誤矣且</span>
+<span class='tline' id='l226' data-llen='5760:5783'>　用舊法則三變之中又以前一變為竒後二變為偶</span>
+<span class='tline' id='l227' data-llen='5783:5806'>　奇故其餘五九偶故其餘四八餘五九者五三而九</span>
+<span class='tline' id='l228' data-llen='5806:5829'>　一亦圍三徑一之義也餘四八者四八皆二亦圍四</span>
+<span class='tline' id='l229' data-llen='5829:5852'>　用半之義也三變之後老者陽饒而隂乏少者陽少</span>
+<span class='tline' id='l230' data-llen='5852:5875'>　而隂多亦皆有自然之法象焉若用近世之法則三</span>
+<span class='tline' id='l231' data-llen='5875:5898'>　變之餘皆為圍三徑一之義而無復竒偶之分三變</span>
+<span class='tline' id='l232' data-llen='5898:5925'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-13b' );" name="002-13b" class="pb">[002-13b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l233' data-llen='5925:5948'>　之後為老陽少隂者皆二十七為少陽者九為老隂</span>
+<span class='tline' id='l234' data-llen='5948:5971'>　者一又皆參差不齊而無復自然之法象此足以見</span>
+<span class='tline' id='l235' data-llen='5971:5994'>　其説之誤矣至於隂陽老少之所以然者則請復得</span>
+<span class='tline' id='l236' data-llen='5994:6017'>　而通論之葢四十九策除初挂之一而為四十八以</span>
+<span class='tline' id='l237' data-llen='6017:6040'>　四約之為十二以十二約之為四故其揲之一變也</span>
+<span class='tline' id='l238' data-llen='6040:6063'>　挂扐之數一其四者為竒兩其四者為偶其三變也</span>
+<span class='tline' id='l239' data-llen='6063:6086'>　挂扐之數三其四一其十二而過揲之數九其四三</span>
+<span class='tline' id='l240' data-llen='6086:6109'>　其十二者為老陽挂扐過揲之數皆六其四兩其十</span>
+<span class='tline' id='l241' data-llen='6109:6136'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-14a' );" name="002-14a" class="pb">[002-14a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l242' data-llen='6136:6159'>　二者為老隂自老陽之挂扐而増一四則是四其四</span>
+<span class='tline' id='l243' data-llen='6159:6182'>　也一其十二而又進一四也自其過揲者而損一四</span>
+<span class='tline' id='l244' data-llen='6182:6205'>　則是八其四也三其十二而損一四也此所謂少隂</span>
+<span class='tline' id='l245' data-llen='6205:6228'>　者也自老隂之挂扐而損一四則是五其四也兩其</span>
+<span class='tline' id='l246' data-llen='6228:6251'>　十二而去一四也自其過揲者而増一四則是七其</span>
+<span class='tline' id='l247' data-llen='6251:6274'>　四也兩其十二而進一四也此所謂少陽者也二老</span>
+<span class='tline' id='l248' data-llen='6274:6297'>　者隂陽之極也二極之間相距之數凡十有二而三</span>
+<span class='tline' id='l249' data-llen='6297:6320'>　分之自陽之極而進其挂扐退其過揲各至於三之</span>
+<span class='tline' id='l250' data-llen='6320:6347'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-14b' );" name="002-14b" class="pb">[002-14b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l251' data-llen='6347:6370'>　一則為少隂自隂之極而退其挂扐進其過揲各至</span>
+<span class='tline' id='l252' data-llen='6370:6415'>　於三之一則為少陽<span class='krp-note'>老陽竒數十二以十二約之得/一則<img height='20' width='20' alt='&amp;KR0320' title='KR0320' src='https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0320.png'/>之象也以四約之得三</span></span>
+<span class='tline' id='l253' data-llen='6415:6468'>　<span class='krp-note'>則☰之象也老隂竒數二十四以十二約之得二則/<img height='20' width='20' alt='&amp;KR0306' title='KR0306' src='https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0306.png'/>之象也以四約之得六則☷之象也少陽竒數二</span></span>
+<span class='tline' id='l254' data-llen='6468:6514'>　<span class='krp-note'>十以十二約之得一餘八由老隂而息葢陽之未成/者也以四約之得五則☳☵☶之象也少隂竒數十</span></span>
+<span class='tline' id='l255' data-llen='6514:6557'>　<span class='krp-note'>六以十二約之得一餘四由老陽而消葢隂之/未成者也以四約之得四則☴☲☱之象也</span>老陽</span>
+<span class='tline' id='l256' data-llen='6557:6580'>　居一而含九故其挂扐十二為最少而過揲三十六</span>
+<span class='tline' id='l257' data-llen='6580:6603'>　為最多少隂居二而含八故其挂扐十六為次少而</span>
+<span class='tline' id='l258' data-llen='6603:6626'>　過揲三十二為次多少陽居三而含七故其挂扐二</span>
+<span class='tline' id='l259' data-llen='6626:6653'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-15a' );" name="002-15a" class="pb">[002-15a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l260' data-llen='6653:6676'>　十為稍多而過揲二十八為稍少老隂居四而含六</span>
+<span class='tline' id='l261' data-llen='6676:6699'>　故其挂扐二十四為極多而過揲亦二十四為極少</span>
+<span class='tline' id='l262' data-llen='6699:6722'>　葢陽竒而隂偶是以挂扐之數老陽極少老隂極多</span>
+<span class='tline' id='l263' data-llen='6722:6745'>　而二少者一進一退而交於中焉此其以少為貴也</span>
+<span class='tline' id='l264' data-llen='6745:6768'>　陽實而隂虚是以過揲之數老陽極多老隂極少而</span>
+<span class='tline' id='l265' data-llen='6768:6795'>　二少者亦一進一退而交於中此其以多為貴也<span class='krp-note'>皆/以</span></span>
+<span class='tline' id='l266' data-llen='6795:6827'>　<span class='krp-note'>陽之竒與實為主/見尊陽之義也</span>凡此不惟隂之與陽既為二物而</span>
+<span class='tline' id='l267' data-llen='6827:6850'>　迭為消長而其一物之中此二端者又各自為一物</span>
+<span class='tline' id='l268' data-llen='6850:6877'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-15b' );" name="002-15b" class="pb">[002-15b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l269' data-llen='6877:6900'>　而迭為消長其相與低昻如權衡其相與判合如符</span>
+<span class='tline' id='l270' data-llen='6900:6930'>　契固有非人之私智所能取舎而有無者<span class='krp-note'>迭為消長/指挂扐過</span></span>
+<span class='tline' id='l271' data-llen='6930:6976'>　<span class='krp-note'>揲言同一挂扐也老陽以長而變為少隂老隂則以/消而變為少陽同一過揲也老陽以消而變為少隂</span></span>
+<span class='tline' id='l272' data-llen='6976:7022'>　<span class='krp-note'>老隂則以長而變為少陽二端即挂扐過揲也如老/陽一物挂扐十二視少隂挂扐十六消矣少隂挂扐</span></span>
+<span class='tline' id='l273' data-llen='7022:7068'>　<span class='krp-note'>十六視老陽挂扐十二則為長焉老陽過揲三十六/視少隂過揲三十二長矣少隂過揲三十二視老陽</span></span>
+<span class='tline' id='l274' data-llen='7068:7111'>　<span class='krp-note'>過揲三十六則為消焉挂扐長則過揲消過揲/長則挂扐消矣推之老隂一物莫不皆然也</span>而况</span>
+<span class='tline' id='l275' data-llen='7111:7134'>　挂扐之數乃七八九六之原而過揲之數乃七八九</span>
+<span class='tline' id='l276' data-llen='7134:7157'>　六之委其勢又有輕重之不同而或者乃欲廢置挂</span>
+<span class='tline' id='l277' data-llen='7157:7184'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-16a' );" name="002-16a" class="pb">[002-16a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l278' data-llen='7184:7207'>　扐而獨以過揲之數為斷則是舎本而取末去約以</span>
+<span class='tline' id='l279' data-llen='7207:7223'>　就煩而不知其不可也豈不誤哉</span>
+<span class='tline' id='l280' data-llen='7223:7246'>　邵子曰五與四四去挂一之數則四三十二也九與</span>
+<span class='tline' id='l281' data-llen='7246:7269'>　八八去挂一之數則四六二十四也五與八八九與</span>
+<span class='tline' id='l282' data-llen='7269:7292'>　四八去挂一之數則四五二十也九與四四五與四</span>
+<span class='tline' id='l283' data-llen='7292:7315'>　八去挂一之數則四四十六也故去其三四五六之</span>
+<span class='tline' id='l284' data-llen='7315:7348'>　數以成九八七六之策此之謂也<span class='krp-note'>此條是説隂陽老/少挂扐之數啟蒙</span></span>
+<span class='tline' id='l285' data-llen='7348:7394'>　<span class='krp-note'>引之者葢以證挂扐之數乃七八九六之原以挂扐/歸竒言之老陽得三四少隂得四四少陽得五四老</span></span>
+<span class='tline' id='l286' data-llen='7394:7421'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-16b' );" name="002-16b" class="pb">[002-16b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l287' data-llen='7421:7467'>　<span class='krp-note'>隂得六四今不用三四五六之數而以竒偶取徑一/圍三圍四用半之義者以成七八九六之䇿故也此</span></span>
+<span class='tline' id='l288' data-llen='7467:7479'>　<span class='krp-note'>朱子之/自解也</span></span>
+<span class='tline' id='l289' data-llen='7479:7502'>乾之策二百一十有六坤之策百四十有四凡三百有</span>
+<span class='tline' id='l290' data-llen='7502:7510'>六十當期之日</span>
+<span class='tline' id='l291' data-llen='7510:7533'>　朱子曰凡此策數生於四象揲蓍之法其變化往來</span>
+<span class='tline' id='l292' data-llen='7533:7556'>　進退離合之妙皆出自然非人之所能為也乾之策</span>
+<span class='tline' id='l293' data-llen='7556:7579'>　二百一十有六者積六爻之策各三十有六而得之</span>
+<span class='tline' id='l294' data-llen='7579:7602'>　也坤之策百四十有四者積六爻之策各二十有四</span>
+<span class='tline' id='l295' data-llen='7602:7629'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-17a' );" name="002-17a" class="pb">[002-17a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l296' data-llen='7629:7652'>　而得之也凡三百有六十者合二百一十有六百四</span>
+<span class='tline' id='l297' data-llen='7652:7675'>　十有四而得之也當期之日者毎月三十日合十二</span>
+<span class='tline' id='l298' data-llen='7675:7698'>　月為三百六十也葢以氣言之則有三百六十六日</span>
+<span class='tline' id='l299' data-llen='7698:7721'>　以朔言之則有三百五十四日今舉氣盈朔虚之中</span>
+<span class='tline' id='l300' data-llen='7721:7744'>　數而言故曰三百有六十也然少陽之策二十八積</span>
+<span class='tline' id='l301' data-llen='7744:7767'>　乾六爻之策則一百六十八少隂之策三十二積坤</span>
+<span class='tline' id='l302' data-llen='7767:7790'>　六爻之策則一百九十二此獨以老隂陽之策為言</span>
+<span class='tline' id='l303' data-llen='7790:7813'>　者以易用九六不用七八也然二少之合亦三百有</span>
+<span class='tline' id='l304' data-llen='7813:7840'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-17b' );" name="002-17b" class="pb">[002-17b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l305' data-llen='7840:7884'>　六十<span class='krp-note'>日用其一䇿為一日用三百六十策為周天一/年一年之中復以卦之策主之四卦各有定數</span></span>
+<span class='tline' id='l306' data-llen='7884:7930'>　<span class='krp-note'>春分之後震卦主之其䇿八十四欠六日夏至後離/卦主之其䇿九十六剰六日秋分後兑卦主之䇿亦</span></span>
+<span class='tline' id='l307' data-llen='7930:7976'>　<span class='krp-note'>九十六亦剰六日冬至後坎卦主之其策亦八十四/又欠六日葢自冬至後欠數陽生也夏至後剰數隂</span></span>
+<span class='tline' id='l308' data-llen='7976:8022'>　<span class='krp-note'>生也二欠之數一百六十八二剰之數一百九十二/合三百六十䇿以當三百六十日又以四卦欠剰之</span></span>
+<span class='tline' id='l309' data-llen='8022:8068'>　<span class='krp-note'>數分布於四序之中恰一年三百六十日而二十四/氣候成矣日行十二策為一日月行三百六十策為</span></span>
+<span class='tline' id='l310' data-llen='8068:8114'>　<span class='krp-note'>一月故日行一周天為一月而與朔合日在十二策/中月三百四十八䇿而日月望為半月也再以日行</span></span>
+<span class='tline' id='l311' data-llen='8114:8160'>　<span class='krp-note'>之䇿積剰除之則日月之薄蝕盈虧之定算三嵗一/閏五年再閏造化之端一覧無遺更以天地之數加</span></span>
+<span class='tline' id='l312' data-llen='8160:8206'>　<span class='krp-note'>而倍之即知天地之大數此之謂與天地合德日月/合明四時合序鬼神合吉凶况萬物之㣲豈能逃乎</span></span>
+<span class='tline' id='l313' data-llen='8206:8233'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-18a' );" name="002-18a" class="pb">[002-18a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l314' data-llen='8233:8253'>二篇之策萬有一千五百二十當萬物之數也</span>
+<span class='tline' id='l315' data-llen='8253:8276'>　朱子曰二篇者上下經六十四卦也其陽爻百九十</span>
+<span class='tline' id='l316' data-llen='8276:8299'>　二每爻各三十六策積之得六千九百一十二隂爻</span>
+<span class='tline' id='l317' data-llen='8299:8322'>　百九十二每爻二十四策積之得四千六百八又合</span>
+<span class='tline' id='l318' data-llen='8322:8345'>　二者為萬有一千五百二十也若為少陽則每爻二</span>
+<span class='tline' id='l319' data-llen='8345:8368'>　十八策凡五千三百七十六少隂則每爻三十二策</span>
+<span class='tline' id='l320' data-llen='8368:8391'>　凡六千一百四十四合之亦為萬有一千五百二十</span>
+<span class='tline' id='l321' data-llen='8391:8436'>　也<span class='krp-note'>此即過揲之蓍大衍之終也乾一爻三十六策六/爻二百一十六策坤一爻二十四策六爻百四十</span></span>
+<span class='tline' id='l322' data-llen='8436:8463'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-18b' );" name="002-18b" class="pb">[002-18b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l323' data-llen='8463:8509'>　<span class='krp-note'>有四䇿此隂陽自然之數聖人立大衍之法以倚之/所謂參天兩地而倚數也天地之運大小皆極於三</span></span>
+<span class='tline' id='l324' data-llen='8509:8555'>　<span class='krp-note'>百六十大衍乾坤之䇿當期之日真所謂與天地相/似者也二篇之策分隂爻陽爻為二也合之則萬有</span></span>
+<span class='tline' id='l325' data-llen='8555:8600'>　<span class='krp-note'>一千五百二十以當萬物之數此天地流行之數嵗/月日時之積也二老之䇿固然二少之策亦然也</span></span>
+<span class='tline' id='l326' data-llen='8600:8623'>　　吳氏謂二篇之策三百八十四爻之策也乾坤之</span>
+<span class='tline' id='l327' data-llen='8623:8646'>　　策用九用六兩爻之策也易爻三百八十六諸儒</span>
+<span class='tline' id='l328' data-llen='8646:8669'>　　但知三百八十四耳據捫蝨新話以用九用六為</span>
+<span class='tline' id='l329' data-llen='8669:8692'>　　七爻遂援荀爽論八純卦之爻通用九用六而為</span>
+<span class='tline' id='l330' data-llen='8692:8715'>　　五十之説反以朱氏破荀爽之説謂用九用六在</span>
+<span class='tline' id='l331' data-llen='8715:8742'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-19a' );" name="002-19a" class="pb">[002-19a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l332' data-llen='8742:8765'>　　八卦爻數之内者為不然此好異之過也用九用</span>
+<span class='tline' id='l333' data-llen='8765:8782'>　　六言爻之用也豈可竟作一爻哉</span>
+<span class='tline' id='l334' data-llen='8782:8805'>是故四營而成易十有八變而成卦八卦而小成引而</span>
+<span class='tline' id='l335' data-llen='8805:8821'>伸之觸類而長之天下之能事畢矣</span>
+<span class='tline' id='l336' data-llen='8821:8844'>　朱子曰四營者四次經營也分二者第一營也挂一</span>
+<span class='tline' id='l337' data-llen='8844:8867'>　者第二營也揲四者第三營也歸竒者第四營也易</span>
+<span class='tline' id='l338' data-llen='8867:8890'>　變易也謂揲之一變也四營成變三變成爻一變而</span>
+<span class='tline' id='l339' data-llen='8890:8926'>　得兩儀之象<span class='krp-note'>得五者象陽儀/得九者象隂儀</span>再變而得四象之象<span class='krp-note'>得/五</span></span>
+<span class='tline' id='l340' data-llen='8926:8953'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-19b' );" name="002-19b" class="pb">[002-19b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l341' data-llen='8953:8992'>　<span class='krp-note'>四者象太陽得五八者象少隂得/九四者象少陽得九八者象太隂</span>三變而得八卦之</span>
+<span class='tline' id='l342' data-llen='8992:9037'>　象<span class='krp-note'>得五四四者象乾得五四八者象兑得五八四者/象離得五八八者象震得九四四者象巽得九四</span></span>
+<span class='tline' id='l343' data-llen='9037:9078'>　<span class='krp-note'>八者象坎得九八四者/象艮得九八八者象坤</span>一爻而得兩儀之畫<span class='krp-note'>初揲而/得一者</span></span>
+<span class='tline' id='l344' data-llen='9078:9125'>　<span class='krp-note'>為陽之儀必自乾至復三十二卦得<img height='20' width='20' alt='&amp;KR0306' title='KR0306' src='https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0306.png'/>/者為隂之儀必自姤至坤三十二卦</span>二爻而得四</span>
+<span class='tline' id='l345' data-llen='9125:9168'>　象之畫<span class='krp-note'>再揲而得□者為太陽必自乾至臨十六卦/得□者為少隂必自同人至復十六卦得□</span></span>
+<span class='tline' id='l346' data-llen='9168:9207'>　<span class='krp-note'>者為少陽必自姤至師十六卦得/□者為太隂必自遯至坤十六卦</span>三爻而得八卦之</span>
+<span class='tline' id='l347' data-llen='9207:9252'>　畫<span class='krp-note'>三揲而得☰者為乾必自乾至泰八卦得☲者為/兑必自履至臨八卦得☳者為離必自同人至明</span></span>
+<span class='tline' id='l348' data-llen='9252:9298'>　<span class='krp-note'>夷八卦得☱者為震必自无妄至復八卦得☴者為/巽必自姤至升八卦得☵者為坎必自訟至師八卦</span></span>
+<span class='tline' id='l349' data-llen='9298:9325'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-20a' );" name="002-20a" class="pb">[002-20a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l350' data-llen='9325:9363'>　<span class='krp-note'>得☶者為艮必自遯至謙八卦/得☷者為坤必自否至坤八卦</span>四爻成而得其十六</span>
+<span class='tline' id='l351' data-llen='9363:9406'>　者之一<span class='krp-note'>四揲而得四爻則得□者必自乾至大壯四/卦得□者必自小畜至泰四卦得□者必自</span></span>
+<span class='tline' id='l352' data-llen='9406:9452'>　<span class='krp-note'>履至歸妹四卦得□者必自中孚至臨四卦得□者/必自同人至豐四卦得□者必自家人至明夷四卦</span></span>
+<span class='tline' id='l353' data-llen='9452:9498'>　<span class='krp-note'>得□者必自无妄至震四卦得□者必自益至復四/卦得□者必自姤至恒四卦得□者必自巽至升四</span></span>
+<span class='tline' id='l354' data-llen='9498:9544'>　<span class='krp-note'>卦得□者必自訟至解四卦得□者必自渙至師四/卦得□者必自遯至小過四卦得□者必自漸至謙</span></span>
+<span class='tline' id='l355' data-llen='9544:9581'>　<span class='krp-note'>四卦得□者必自否至豫四/卦得□者必自觀至坤四卦</span>五爻成而得其三十二</span>
+<span class='tline' id='l356' data-llen='9581:9624'>　者之一<span class='krp-note'>五揲而得五爻則得□者非乾則夬得□者/非大有則大壯得□者非小畜則需得□者</span></span>
+<span class='tline' id='l357' data-llen='9624:9670'>　<span class='krp-note'>非大畜則泰得□者非履則兑得□者非暌則歸妹/得□者非中孚則節得□者非損則臨得□者非同</span></span>
+<span class='tline' id='l358' data-llen='9670:9697'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-20b' );" name="002-20b" class="pb">[002-20b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l359' data-llen='9697:9743'>　<span class='krp-note'>人則革得□者非離則豐得□者非家人則既濟得/□者非賁則明夷得□者非无妄則隨得□者非噬</span></span>
+<span class='tline' id='l360' data-llen='9743:9789'>　<span class='krp-note'>嗑則震得□者非益則屯得□者非頤則復得□者/非姤則大過得□者非鼎則恒得□者非巽則井得</span></span>
+<span class='tline' id='l361' data-llen='9789:9835'>　<span class='krp-note'>□者非蠱則升得□者非訟則困得□者非未濟則/解得□者非渙則坎得□者非蒙則師得□者非遯</span></span>
+<span class='tline' id='l362' data-llen='9835:9881'>　<span class='krp-note'>則咸得□者非旅則小過得□者非漸則蹇得□者/非艮則謙得□者非否則萃得□者非晉則豫得□</span></span>
+<span class='tline' id='l363' data-llen='9881:9927'>　<span class='krp-note'>者非觀則比得□者非剥則坤朱子謂一爻成只有/三十二卦二爻成只有十六卦三爻成只有八卦四</span></span>
+<span class='tline' id='l364' data-llen='9927:9965'>　<span class='krp-note'>爻成只有四卦五爻成只有二/卦六爻既成一卦乃定者此也</span>至於積七十二營而</span>
+<span class='tline' id='l365' data-llen='9965:9988'>　成十有八變則六爻見而得乎六十四卦之一矣然</span>
+<span class='tline' id='l366' data-llen='9988:10011'>　方其三十六營而九變也已得三畫而八卦之名可</span>
+<span class='tline' id='l367' data-llen='10011:10038'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-21a' );" name="002-21a" class="pb">[002-21a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l368' data-llen='10038:10061'>　見則内卦之為貞者立矣此所謂八卦而小成者也</span>
+<span class='tline' id='l369' data-llen='10061:10084'>　自是而往引而伸之又三十六營九變以成三畫而</span>
+<span class='tline' id='l370' data-llen='10084:10107'>　再得小成之卦者一則外卦之為悔者亦備矣六爻</span>
+<span class='tline' id='l371' data-llen='10107:10130'>　成内外卦備六十四卦之别可見然後視其爻之變</span>
+<span class='tline' id='l372' data-llen='10130:10153'>　與不變而觸類以長焉則天下之事其吉凶悔吝皆</span>
+<span class='tline' id='l373' data-llen='10153:10161'>　不越乎此矣</span>
+<span class='tline' id='l374' data-llen='10161:10184'>　西山蔡氏曰蓍之竒數老陽十二老隂四少陽二十</span>
+<span class='tline' id='l375' data-llen='10184:10214'>　少隂二十八合六十有四三十二為陽<span class='krp-note'>老陽十二/少陽二十</span>三</span>
+<span class='tline' id='l376' data-llen='10214:10241'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-21b' );" name="002-21b" class="pb">[002-21b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l377' data-llen='10241:10277'>　十二為隂<span class='krp-note'>老隂四少/隂二十八</span>其十六則老陽老隂也<span class='krp-note'>老陽十/二老隂</span></span>
+<span class='tline' id='l378' data-llen='10277:10310'>　<span class='krp-note'>四/</span>其四十八則少陽少隂也<span class='krp-note'>少陽二十少/隂二十八</span>老陽老隂</span>
+<span class='tline' id='l379' data-llen='10310:10333'>　乾坤之象也二八也少陽少隂六子之象也六八也</span>
+<span class='tline' id='l380' data-llen='10333:10356'>　玉齋胡氏曰挂扐之數極其變則六十四而其中實</span>
+<span class='tline' id='l381' data-llen='10356:10379'>　該八卦之象老陽三變皆竒乾三畫純陽之象也老</span>
+<span class='tline' id='l382' data-llen='10379:10402'>　隂三變皆偶坤三畫純隂之象也至於少隂則該三</span>
+<span class='tline' id='l383' data-llen='10402:10425'>　女之象其乾索於坤而變為巽離兑乎少陽則該三</span>
+<span class='tline' id='l384' data-llen='10425:10448'>　男之象其坤索於乾而變為震坎艮乎少隂者隂之</span>
+<span class='tline' id='l385' data-llen='10448:10475'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-22a' );" name="002-22a" class="pb">[002-22a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l386' data-llen='10475:10498'>　穉其變則二十有八以四約而七分之初變得偶者</span>
+<span class='tline' id='l387' data-llen='10498:10521'>　凡一巽之一隂在下也第二變得偶者凡三離之一</span>
+<span class='tline' id='l388' data-llen='10521:10544'>　隂在中也第三變得偶者凡三兑之一隂在上也合</span>
+<span class='tline' id='l389' data-llen='10544:10567'>　其一一二三則七其四而為二十八矣少陽者陽之</span>
+<span class='tline' id='l390' data-llen='10567:10590'>　穉其變則有二十以四約而五分之初變得竒者凡</span>
+<span class='tline' id='l391' data-llen='10590:10613'>　三震之一陽在下也第二變得竒者凡一坎之一陽</span>
+<span class='tline' id='l392' data-llen='10613:10636'>　在中也第三變得竒者凡一艮之一陽在上也合其</span>
+<span class='tline' id='l393' data-llen='10636:10659'>　一三二一則五其四而為二十矣要之二老則陽實</span>
+<span class='tline' id='l394' data-llen='10659:10686'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-22b' );" name="002-22b" class="pb">[002-22b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l395' data-llen='10686:10709'>　隂虚故老陽多而老隂少二少則陽少隂多故少陽</span>
+<span class='tline' id='l396' data-llen='10709:10732'>　少而少隂多也然陽固少矣而長男則未嘗少其變</span>
+<span class='tline' id='l397' data-llen='10732:10755'>　有三肖父而得陽實之義至於中少二男則惟各得</span>
+<span class='tline' id='l398' data-llen='10755:10778'>　一變之象是長男之陽不可少而所以成其少者男</span>
+<span class='tline' id='l399' data-llen='10778:10801'>　之中與少也隂固多矣而長女則未嘗多其變惟一</span>
+<span class='tline' id='l400' data-llen='10801:10824'>　肖母而得隂虚之義至於中少二女則反各得三變</span>
+<span class='tline' id='l401' data-llen='10824:10847'>　之象是長女之隂不可多而所以成其多者女之中</span>
+<span class='tline' id='l402' data-llen='10847:10870'>　與少也此長男代父而長女代母所以其變數皆擬</span>
+<span class='tline' id='l403' data-llen='10870:10897'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-23a' );" name="002-23a" class="pb">[002-23a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l404' data-llen='10897:10920'>　乾坤而中與少則或不交乎父或有踰於母此又隂</span>
+<span class='tline' id='l405' data-llen='10920:10943'>　陽之變不可執一拘也此其一變而得兩儀之象再</span>
+<span class='tline' id='l406' data-llen='10943:10966'>　變而得四象之象三變而得八卦之象互之為六十</span>
+<span class='tline' id='l407' data-llen='10966:10989'>　四變而八卦之象又可以該六十四卦之象其自然</span>
+<span class='tline' id='l408' data-llen='10989:11001'>　之妙莫不各有法象也</span>
+<span class='tline' id='l409' data-llen='11001:11024'>　　白雲郭氏著蓍卦辨疑專以前一變獨挂後二變</span>
+<span class='tline' id='l410' data-llen='11024:11047'>　　不挂其載横渠先生之言曰再扐而後挂每成一</span>
+<span class='tline' id='l411' data-llen='11047:11070'>　　爻而後挂也謂第二第三揲不挂也且謂横渠之</span>
+<span class='tline' id='l412' data-llen='11070:11097'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-23b' );" name="002-23b" class="pb">[002-23b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l413' data-llen='11097:11120'>　　言所以明註疏之失朱子辨之曰此説大誤恐非</span>
+<span class='tline' id='l414' data-llen='11120:11143'>　　横渠之言也再扐者一變之中左右再揲而再扐</span>
+<span class='tline' id='l415' data-llen='11143:11166'>　　也一挂再揲再扐而當五嵗葢一挂再揲當其不</span>
+<span class='tline' id='l416' data-llen='11166:11189'>　　閏之年而再扐當其再閏之嵗也而後挂者一變</span>
+<span class='tline' id='l417' data-llen='11189:11212'>　　既成又合見存之策分二挂一以起後變之端也</span>
+<span class='tline' id='l418' data-llen='11212:11235'>　　今日第一變挂而第二第三變不挂遂以當挂之</span>
+<span class='tline' id='l419' data-llen='11235:11258'>　　變為挂而象閏以不挂之變為扐而當不閏之嵗</span>
+<span class='tline' id='l420' data-llen='11258:11281'>　　則與大傳所云挂一象三再扐象閏者全不相應</span>
+<span class='tline' id='l421' data-llen='11281:11308'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-24a' );" name="002-24a" class="pb">[002-24a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l422' data-llen='11308:11331'>　　矣且不數第一變之再扐而以第二第三變為再</span>
+<span class='tline' id='l423' data-llen='11331:11354'>　　扐又使第二第三變中止有三營而不足乎成易</span>
+<span class='tline' id='l424' data-llen='11354:11377'>　　之數且於隂陽老少之數亦多有不合者其載伊</span>
+<span class='tline' id='l425' data-llen='11377:11400'>　　川先生之説曰再以左右手分而為二更不重挂</span>
+<span class='tline' id='l426' data-llen='11400:11423'>　　竒朱子辨之曰此説猶多可疑然郭氏云本無文</span>
+<span class='tline' id='l427' data-llen='11423:11446'>　　字則其傳授之際不無差舛宜矣又云第二第三</span>
+<span class='tline' id='l428' data-llen='11446:11469'>　　揲雖不挂亦有四八之變葢不必挂也朱子辨之</span>
+<span class='tline' id='l429' data-llen='11469:11492'>　　曰所以不可不挂者有兩説葢三變之中前一變</span>
+<span class='tline' id='l430' data-llen='11492:11519'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-24b' );" name="002-24b" class="pb">[002-24b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l431' data-llen='11519:11542'>　　屬陽故其餘五九皆竒數後二變屬隂故其餘四</span>
+<span class='tline' id='l432' data-llen='11542:11565'>　　八皆偶數屬陽者為陽三而為隂一皆圍三徑一</span>
+<span class='tline' id='l433' data-llen='11565:11587'>　　之術屬隂者為隂二而為陽二皆圍四用半之</span>
+<span class='tline' id='l434' data-llen='11587:11610'>　　術也是皆以三變皆挂之法得之後兩變不挂則</span>
+<span class='tline' id='l435' data-llen='11610:11633'>　　不得也三變之後其可為老陽者十二可為老隂</span>
+<span class='tline' id='l436' data-llen='11633:11656'>　　者四可為少隂者二十八可為少陽者二十雖多</span>
+<span class='tline' id='l437' data-llen='11656:11679'>　　寡之不同而皆有法象是亦以三變皆挂之法得</span>
+<span class='tline' id='l438' data-llen='11679:11702'>　　之而後兩變不挂則不得也郭氏僅見第二第三</span>
+<span class='tline' id='l439' data-llen='11702:11729'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-25a' );" name="002-25a" class="pb">[002-25a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l440' data-llen='11729:11752'>　　變可以不挂之一端耳而遂執以為説夫豈知其</span>
+<span class='tline' id='l441' data-llen='11752:11775'>　　挂與不挂之為得失乃如此哉大扺郭氏他説偏</span>
+<span class='tline' id='l442' data-llen='11775:11798'>　　滯雖多而其為法尚無甚戾獨此一義所差雖小</span>
+<span class='tline' id='l443' data-llen='11798:11821'>　　而深有害於成卦變爻之法尤不可不辨愚嘗考</span>
+<span class='tline' id='l444' data-llen='11821:11844'>　　之第一變獨挂後二變不挂非獨為六扐而後挂</span>
+<span class='tline' id='l445' data-llen='11844:11867'>　　三營而成易於再扐四營之義不協且後一變不</span>
+<span class='tline' id='l446' data-llen='11867:11890'>　　挂其數雖亦不四則八而所以為四八者實有不</span>
+<span class='tline' id='l447' data-llen='11890:11913'>　　同葢挂則所謂四者左手餘一則右手餘二左手</span>
+<span class='tline' id='l448' data-llen='11913:11940'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-25b' );" name="002-25b" class="pb">[002-25b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l449' data-llen='11940:11963'>　　餘二則右手餘一不挂則左手餘一右手餘三左</span>
+<span class='tline' id='l450' data-llen='11963:11986'>　　手餘二右手餘二左手餘三右手餘一此四之所</span>
+<span class='tline' id='l451' data-llen='11986:12009'>　　以不同也挂則所謂八者左手餘四右手餘三左</span>
+<span class='tline' id='l452' data-llen='12009:12032'>　　手餘三右手餘四不挂則左手餘四右手亦餘四</span>
+<span class='tline' id='l453' data-llen='12032:12055'>　　此八之所以不同也三變之後隂陽變數皆參差</span>
+<span class='tline' id='l454' data-llen='12055:12078'>　　不齊無復自然之法象矣其可哉按後二變不挂</span>
+<span class='tline' id='l455' data-llen='12078:12101'>　　或謂亦本之邵子朱子説易多宗邵子而於此不</span>
+<span class='tline' id='l456' data-llen='12101:12124'>　　然可見其中之所得唯求其是而不涉於偏也此</span>
+<span class='tline' id='l457' data-llen='12124:12151'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-26a' );" name="002-26a" class="pb">[002-26a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l458' data-llen='12151:12163'>　　朱子所以不可及也</span>
+<span class='tline' id='l459' data-llen='12163:12186'>　　忠輔楊氏法揲四之餘有一有二有三而无四有</span>
+<span class='tline' id='l460' data-llen='12186:12209'>　　四則為一揲矣豈得謂之餘乎四九四八四七四</span>
+<span class='tline' id='l461' data-llen='12209:12232'>　　六者謂之策四三四四四五四六者謂之竒老陽</span>
+<span class='tline' id='l462' data-llen='12232:12255'>　　之數九四其九為三十六策於四十九蓍之中去</span>
+<span class='tline' id='l463' data-llen='12255:12278'>　　其三十六策則餘十三挂一不用則餘十二以四</span>
+<span class='tline' id='l464' data-llen='12278:12301'>　　揲之得三是謂老陽之竒四三也歸竒於扐者歸</span>
+<span class='tline' id='l465' data-llen='12301:12324'>　　此竒也左手餘一餘二餘三或无餘皆未成揲必</span>
+<span class='tline' id='l466' data-llen='12324:12351'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-26b' );" name="002-26b" class="pb">[002-26b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l467' data-llen='12351:12374'>　　以右手之蓍隨其竒偶歸之足成一揲兩揲之數</span>
+<span class='tline' id='l468' data-llen='12374:12412'>　　<span class='krp-note'>竒數一揲/偶數兩揲</span>然後置之於扐<span class='krp-note'>扐謂正䇿之/旁不必指間</span>所謂歸者</span>
+<span class='tline' id='l469' data-llen='12412:12445'>　　本是左手之蓍今歸之也<span class='krp-note'>右手之蓍初不曾/用故曰右手不揲</span>故餘</span>
+<span class='tline' id='l470' data-llen='12445:12468'>　　一則歸以三餘三則歸以一皆成一揲之竒數餘</span>
+<span class='tline' id='l471' data-llen='12468:12491'>　　二則歸以六无餘則歸以八皆成兩揲之偶數竒</span>
+<span class='tline' id='l472' data-llen='12491:12514'>　　一也偶二也三變皆竒三也是謂四三老陽之竒</span>
+<span class='tline' id='l473' data-llen='12514:12537'>　　也三變皆偶六也是謂四六老隂之竒也三變而</span>
+<span class='tline' id='l474' data-llen='12537:12560'>　　一竒二偶五也是謂四五少陽之竒也三變而一</span>
+<span class='tline' id='l475' data-llen='12560:12587'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-27a' );" name="002-27a" class="pb">[002-27a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l476' data-llen='12587:12610'>　　偶二竒四也是謂四四少隂之竒也為九為六者</span>
+<span class='tline' id='l477' data-llen='12610:12633'>　　各八為七為八者各二十四為策萬有一千五百</span>
+<span class='tline' id='l478' data-llen='12633:12656'>　　二十趙氏曰其新竒有四揲四之餘无四一也古</span>
+<span class='tline' id='l479' data-llen='12656:12679'>　　法去挂扐以所餘為策數今乃先去策數反以挂</span>
+<span class='tline' id='l480' data-llen='12679:12702'>　　扐為歸竒二也揲左所餘即為歸竒今以三變六</span>
+<span class='tline' id='l481' data-llen='12702:12725'>　　揲所餘除挂一而歸之三也扐指間也今以為正</span>
+<span class='tline' id='l482' data-llen='12725:12748'>　　策之旁四也其他如四三四四四五四六之為竒</span>
+<span class='tline' id='l483' data-llen='12748:12771'>　　又以一揲為竒兩揲為偶皆聖人所未言且謂此</span>
+<span class='tline' id='l484' data-llen='12771:12798'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-27b' );" name="002-27b" class="pb">[002-27b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l485' data-llen='12798:12821'>　　法合於二篇之策不知二篇之策非揲蓍策數易</span>
+<span class='tline' id='l486' data-llen='12821:12844'>　　經諸數隨用而殊安可牽他數以强合彼以九六</span>
+<span class='tline' id='l487' data-llen='12844:12867'>　　之變皆八七八之變皆二十四謂為隂陽均等然</span>
+<span class='tline' id='l488' data-llen='12867:12890'>　　以古聖才知豈不能是特一本之自然不欲以私</span>
+<span class='tline' id='l489' data-llen='12890:12903'>　　意損益之斯言得之矣</span>
+<span class='tline' id='l490' data-llen='12903:12926'>　　斗南吳氏作大衍筮法圖其説曰揲蓍之法説卦</span>
+<span class='tline' id='l491' data-llen='12926:12949'>　　備言之先儒於其用四十有九誤認經意乃謂但</span>
+<span class='tline' id='l492' data-llen='12949:12972'>　　用四十九蓍虚其一以象太極也又謂去一之餘</span>
+<span class='tline' id='l493' data-llen='12972:12999'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-28a' );" name="002-28a" class="pb">[002-28a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l494' data-llen='12999:13022'>　　有四十九合而未分以象太一也其説皆大不然</span>
+<span class='tline' id='l495' data-llen='13022:13045'>　　夫五行之數一六為水二七為火三八為木四九</span>
+<span class='tline' id='l496' data-llen='13045:13068'>　　為金五五為土合之而成五十大衍之數實本於</span>
+<span class='tline' id='l497' data-llen='13068:13091'>　　此葢取五行之全數也蓍之生也滿百嵗者一本</span>
+<span class='tline' id='l498' data-llen='13091:13114'>　　而百莖合於五行之全數者二筮必用百嵗之蓍</span>
+<span class='tline' id='l499' data-llen='13114:13137'>　　亦取其數之自然也五十而去其一則非數之全</span>
+<span class='tline' id='l500' data-llen='13137:13160'>　　非自然者矣故挂一則可去一則不可其用四十</span>
+<span class='tline' id='l501' data-llen='13160:13183'>　　有九謂用之於揲也既去其一又掛一焉是不用</span>
+<span class='tline' id='l502' data-llen='13183:13210'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-28b' );" name="002-28b" class="pb">[002-28b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l503' data-llen='13210:13233'>　　者二而用之纔四十有八也既掛矣蓍顧不足於</span>
+<span class='tline' id='l504' data-llen='13233:13256'>　　用乃復并所掛數之以求其竒是雖掛而實未嘗</span>
+<span class='tline' id='l505' data-llen='13256:13279'>　　掛也掛之為言别也别而置之則不當用之於揲</span>
+<span class='tline' id='l506' data-llen='13279:13303'>　　復取而并之得乎按太𤣥揲蓍亦以虚三别一為</span>
+<span class='tline' id='l507' data-llen='13303:13326'>　　法此誤由來久矣一説謂第一揲不掛一則所餘</span>
+<span class='tline' id='l508' data-llen='13326:13349'>　　皆得五而无變唯掛一則所餘非五則九至第二</span>
+<span class='tline' id='l509' data-llen='13349:13372'>　　第三揲雖不掛亦有四八之變焉則是前一變掛</span>
+<span class='tline' id='l510' data-llen='13372:13395'>　　而後二變不掛也分而不掛於四營之義亦不合</span>
+<span class='tline' id='l511' data-llen='13395:13422'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-29a' );" name="002-29a" class="pb">[002-29a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l512' data-llen='13422:13445'>　　矣唯九江周燔之説曰筮法先以兩手圍蓍五十</span>
+<span class='tline' id='l513' data-llen='13445:13468'>　　象太極演成之體次以兩手分蓍為二象天地開</span>
+<span class='tline' id='l514' data-llen='13468:13491'>　　闢之形然後掛一不用用四十有九揲之先左後</span>
+<span class='tline' id='l515' data-llen='13491:13514'>　　右各四數之先歸竒於扐以象一閏再扐以象再</span>
+<span class='tline' id='l516' data-llen='13514:13537'>　　閏此一變也後揲而圍之而分之而又掛之故曰</span>
+<span class='tline' id='l517' data-llen='13537:13560'>　　再扐而後掛言後揲復掛一也按如舊法則可以</span>
+<span class='tline' id='l518' data-llen='13560:13583'>　　掛可以无掛如周氏之説則每變必掛雖欲不掛</span>
+<span class='tline' id='l519' data-llen='13583:13606'>　　不可得也天下之理唯至於不可加損於其間然</span>
+<span class='tline' id='l520' data-llen='13606:13633'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-29b' );" name="002-29b" class="pb">[002-29b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l521' data-llen='13633:13656'>　　後知其自然而然者此類是也此斗南元文也其</span>
+<span class='tline' id='l522' data-llen='13656:13679'>　　圖不載按朱子揲法其分二之後掛一是用一也</span>
+<span class='tline' id='l523' data-llen='13679:13702'>　　揲四而扐是用四十八也合之是用四十九也所</span>
+<span class='tline' id='l524' data-llen='13702:13725'>　　謂挂本作懸之以用解吳斗南謂雖掛而實未嘗</span>
+<span class='tline' id='l525' data-llen='13725:13748'>　　掛可以掛可以无掛者其言誤矣周氏於五十圍</span>
+<span class='tline' id='l526' data-llen='13748:13771'>　　而掛一不用用四十九揲之不合掛一之一數也</span>
+<span class='tline' id='l527' data-llen='13771:13794'>　　則為掛作置之不用解而其所得但有五而已无</span>
+<span class='tline' id='l528' data-llen='13794:13817'>　　他也是初揲可以不揲矣斗南稱其説為自然殆</span>
+<span class='tline' id='l529' data-llen='13817:13844'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-30a' );" name="002-30a" class="pb">[002-30a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l530' data-llen='13844:13868'>　　不然也若云去一則不可其言自有理予所謂存一</span>
+<span class='tline' id='l531' data-llen='13868:13891'>　　以為不動之體也其用四十八揲者或謂以四與</span>
+<span class='tline' id='l532' data-llen='13891:13914'>　　十二宛轉相因相為經緯以見變化或謂用河圖</span>
+<span class='tline' id='l533' data-llen='13914:13937'>　　之四十以行八卦又卦有八爻有六六而八之為</span>
+<span class='tline' id='l534' data-llen='13937:13960'>　　四十八六十四卦虚其游魂歸魂之十六止於四</span>
+<span class='tline' id='l535' data-llen='13960:13983'>　　十八其説皆可通也若趙子欽欲以四十有九未</span>
+<span class='tline' id='l536' data-llen='13983:14006'>　　分者為象太極則無謂矣或又欲盡用五十策者</span>
+<span class='tline' id='l537' data-llen='14006:14029'>　　則初變唯有六策數得九得七者各十六得八者</span>
+<span class='tline' id='l538' data-llen='14029:14056'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-30b' );" name="002-30b" class="pb">[002-30b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l539' data-llen='14056:14081'>　　三十二得六者闕不成揲矣<span class='krp-note'>用挂掛字/皆有别</span></span>
+<span class='tline' id='l540' data-llen='14081:14104'>　　張氏周易啟元之法初揲挂一次兩揲不挂揲左</span>
+<span class='tline' id='l541' data-llen='14104:14127'>　　手不揲右手但以右手之蓍足滿左手之餘初揲</span>
+<span class='tline' id='l542' data-llen='14127:14150'>　　餘一餘二足滿五餘三餘四足滿九次兩揲餘一</span>
+<span class='tline' id='l543' data-llen='14150:14173'>　　餘二足滿五餘三餘四足滿八為九為六者各八</span>
+<span class='tline' id='l544' data-llen='14173:14196'>　　為七為八者各二十四趙氏曰次兩揲不挂則不</span>
+<span class='tline' id='l545' data-llen='14196:14219'>　　合四營不揲右手則不合再扐且初變左餘一右</span>
+<span class='tline' id='l546' data-llen='14219:14242'>　　必餘三左餘二右必餘二與挂一而為五者乃左</span>
+<span class='tline' id='l547' data-llen='14242:14269'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-31a' );" name="002-31a" class="pb">[002-31a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l548' data-llen='14269:14291'>　　右揲四之所餘葢理之自然勢有不容易者今</span>
+<span class='tline' id='l549' data-llen='14291:14314'>　　既不揲右但視左所餘而益之則多寡直可任情</span>
+<span class='tline' id='l550' data-llen='14314:14337'>　　何必滿五滿九莊氏新譜三揲皆用四十九數挂</span>
+<span class='tline' id='l551' data-llen='14337:14360'>　　一不在其偶數中為九為六者各八為七為八者</span>
+<span class='tline' id='l552' data-llen='14360:14383'>　　各二十四趙氏曰與古法戾楊氏傳蔡季通法初</span>
+<span class='tline' id='l553' data-llen='14383:14406'>　　挂一不用止用四十八蓍於四十八中别取一蓍</span>
+<span class='tline' id='l554' data-llen='14406:14429'>　　挂於指間三變凡三挂餘一益二餘二益一為少</span>
+<span class='tline' id='l555' data-llen='14429:14452'>　　餘三益四餘四益三為多為九為六者各八為七</span>
+<span class='tline' id='l556' data-llen='14452:14479'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-31b' );" name="002-31b" class="pb">[002-31b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l557' data-llen='14479:14502'>　　為八者各二十四趙氏曰用此法則有四八而無</span>
+<span class='tline' id='l558' data-llen='14502:14525'>　　五九季通自謂其非矣以上三氏所得九六七八</span>
+<span class='tline' id='l559' data-llen='14525:14548'>　　皆同而其法各異皆有所未安今定以朱子之法</span>
+<span class='tline' id='l560' data-llen='14548:14571'>　　為正故附録之使人不為所惑也至於用錢用木</span>
+<span class='tline' id='l561' data-llen='14571:14594'>　　丸之類以代蓍為巧者尤術家苟簡之道學者無</span>
+<span class='tline' id='l562' data-llen='14594:14600'>　　取焉</span>
+<span class='tline' id='l563' data-llen='14600:14627'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-32a' );" name="002-32a" class="pb">[002-32a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
 </p>
-<p><br/>
-<span class='tline' id='l565' data-llen='14629:14656'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-33a' );" name="002-33a" class="pb">[002-33a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l566' data-llen='14656:14659'>　</span><br/>
-<span class='tline' id='l567' data-llen='14659:14662'>　</span><br/>
-<span class='tline' id='l568' data-llen='14662:14665'>　</span><br/>
-<span class='tline' id='l569' data-llen='14665:14668'>　</span><br/>
-<span class='tline' id='l570' data-llen='14668:14671'>　</span><br/>
-<span class='tline' id='l571' data-llen='14671:14674'>　</span><br/>
-<span class='tline' id='l572' data-llen='14674:14677'>　</span><br/>
-<span class='tline' id='l573' data-llen='14677:14680'>　</span><br/>
-<span class='tline' id='l574' data-llen='14680:14707'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-33b' );" name="002-33b" class="pb">[002-33b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l575' data-llen='14707:14710'>　</span><br/>
-<span class='tline' id='l576' data-llen='14710:14733'>　古易考原云經卦之别六十有四皆以此四象求之</span><br/>
-<span class='tline' id='l577' data-llen='14733:14756'>　皆七八則為文王繫辭之卦若得九六則為周公繫</span><br/>
-<span class='tline' id='l578' data-llen='14756:14773'>　辭之爻而一卦可變為六十四卦矣</span><br/>
-<span class='tline' id='l579' data-llen='14773:14789'>　　按此則亦无事占二用之辭矣</span><br/>
-<span class='tline' id='l580' data-llen='14789:14812'>　經世衍易圖説云當夫元氣渾淪隂陽未判是謂太</span><br/>
-<span class='tline' id='l581' data-llen='14812:14849'>　極○及夫元氣既分動者為陽<img height='20' width='20' alt='&amp;KR0320' title='KR0320' src='https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0320.png'/>靜者為隂<img height='20' width='20' alt='&amp;KR0306' title='KR0306' src='https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0306.png'/>是謂</span><br/>
-<span class='tline' id='l582' data-llen='14849:14872'>　兩儀動之上生一竒謂之陽□動之上生一偶謂之</span><br/>
-<span class='tline' id='l583' data-llen='14872:14895'>　隂□靜之上生一竒□謂之剛靜之上生一偶□謂</span><br/>
-<span class='tline' id='l584' data-llen='14895:14922'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-34a' );" name="002-34a" class="pb">[002-34a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l585' data-llen='14922:14945'>　之柔合而言之隂陽剛柔四象也四象陽之上生一</span><br/>
-<span class='tline' id='l586' data-llen='14945:14968'>　竒謂之太陽☰生一偶謂之太隂☱隂之上生一竒</span><br/>
-<span class='tline' id='l587' data-llen='14968:14991'>　謂之少陽☲生一偶謂之少隂☳四象剛之上生一</span><br/>
-<span class='tline' id='l588' data-llen='14991:15014'>　竒謂之少剛☴生一偶謂之少柔☵柔之上生一竒</span><br/>
-<span class='tline' id='l589' data-llen='15014:15037'>　謂之太剛☶生一偶謂之太柔☷故太陽為乾太隂</span><br/>
-<span class='tline' id='l590' data-llen='15037:15060'>　為兑少陽為離少隂為震少剛為㢲少柔為坎太剛</span><br/>
-<span class='tline' id='l591' data-llen='15060:15083'>　為艮太柔為坤此伏羲畫卦自然之形體次第而孔</span><br/>
-<span class='tline' id='l592' data-llen='15083:15107'>　子𤼵明之故曰易有太極是生兩儀兩儀生四象四</span><br/>
-<span class='tline' id='l593' data-llen='15107:15134'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-34b' );" name="002-34b" class="pb">[002-34b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l594' data-llen='15134:15157'>　象生八卦八卦定吉凶此言最為切要古今説者雖</span><br/>
-<span class='tline' id='l595' data-llen='15157:15180'>　多唯康節明道二先生之説得之故康節先生之説</span><br/>
-<span class='tline' id='l596' data-llen='15180:15203'>　所謂乾一兑二離三震四㢲五坎六艮七坤八正謂</span><br/>
-<span class='tline' id='l597' data-llen='15203:15226'>　此也夫易之未作易在太極之先易之既作易在八</span><br/>
-<span class='tline' id='l598' data-llen='15226:15249'>　卦之内八卦畫而吉凶定吉凶定而大業生以言乎</span><br/>
-<span class='tline' id='l599' data-llen='15249:15272'>　法象之大則有易中之天地乾坤是也以言乎變通</span><br/>
-<span class='tline' id='l600' data-llen='15272:15295'>　之大則有易中之四時震㢲六子是也以言乎著明</span><br/>
-<span class='tline' id='l601' data-llen='15295:15318'>　之大則有易中之日月離坎是也以言乎崇髙之大</span><br/>
-<span class='tline' id='l602' data-llen='15318:15345'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-35a' );" name="002-35a" class="pb">[002-35a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l603' data-llen='15345:15368'>　則有易中之富貴日新盛徳富有大業是也以言乎</span><br/>
-<span class='tline' id='l604' data-llen='15368:15391'>　利用之大則有易中之聖人神道設教順動服民是</span><br/>
-<span class='tline' id='l605' data-llen='15391:15414'>　也以言乎深逺之大則有易中之蓍龜某爻吉某爻</span><br/>
-<span class='tline' id='l606' data-llen='15414:15437'>　凶是也此皆易中之大業非聖人立卦作易孰能備</span><br/>
-<span class='tline' id='l607' data-llen='15437:15460'>　天下之物致天下之用成天下之器若是其廣大悉</span><br/>
-<span class='tline' id='l608' data-llen='15460:15465'>　備乎</span><br/>
-<span class='tline' id='l609' data-llen='15465:15488'>　同州王氏曰天地之間本一氣也其所以分隂分陽</span><br/>
-<span class='tline' id='l610' data-llen='15488:15511'>　者進退有不同爾陽主進進極則退隂主退退極則</span><br/>
-<span class='tline' id='l611' data-llen='15511:15538'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-35b' );" name="002-35b" class="pb">[002-35b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l612' data-llen='15538:15561'>　進九之進也必入於十陽進而不已逼於純隂之十</span><br/>
-<span class='tline' id='l613' data-llen='15561:15584'>　安得不老此九所以為老陽六之退也必入於五隂</span><br/>
-<span class='tline' id='l614' data-llen='15584:15607'>　退而不已逼於純陽之五安得不老此六所以為老</span><br/>
-<span class='tline' id='l615' data-llen='15607:15630'>　隂陽至九而進極以其不入純隂之十故性雖進而</span><br/>
-<span class='tline' id='l616' data-llen='15630:15653'>　必退退九而為八則陽變而為隂矣惟其方退而未</span><br/>
-<span class='tline' id='l617' data-llen='15653:15676'>　極於六此八所以為少隂隂至六而退極以其不入</span><br/>
-<span class='tline' id='l618' data-llen='15676:15699'>　純陽之五故性雖退而必進進六而為七則隂變而</span><br/>
-<span class='tline' id='l619' data-llen='15699:15722'>　為陽矣惟其方進而未極於九此七所以為少陽四</span><br/>
-<span class='tline' id='l620' data-llen='15722:15749'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-36a' );" name="002-36a" class="pb">[002-36a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l621' data-llen='15749:15772'>　九而得三十六則老陽之數全矣四六而得二十四</span><br/>
-<span class='tline' id='l622' data-llen='15772:15795'>　則老隂之數全矣兩者合而為六十焉四七而得二</span><br/>
-<span class='tline' id='l623' data-llen='15795:15818'>　十八則少陽之數全矣四八而得三十二則少隂之</span><br/>
-<span class='tline' id='l624' data-llen='15818:15841'>　數全矣兩者亦合而為六十焉分而三十之則隂陽</span><br/>
-<span class='tline' id='l625' data-llen='15841:15864'>　所以不偏而此消則彼長彼消則此長者也譬猶自</span><br/>
-<span class='tline' id='l626' data-llen='15864:15887'>　甲子至於癸巳其數三十而陽主之自甲午至於癸</span><br/>
-<span class='tline' id='l627' data-llen='15887:15910'>　亥其數三十而隂主之亦豈有此多彼寡之異哉陽</span><br/>
-<span class='tline' id='l628' data-llen='15910:15933'>　主進故於三十之外進六而為三十六則陽極矣隂</span><br/>
-<span class='tline' id='l629' data-llen='15933:15960'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-36b' );" name="002-36b" class="pb">[002-36b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l630' data-llen='15960:15983'>　主退故於三十之内退六而為二十四則隂極矣此</span><br/>
-<span class='tline' id='l631' data-llen='15983:16006'>　三十六二十四所以為老陽老隂也以其可見者騐</span><br/>
-<span class='tline' id='l632' data-llen='16006:16029'>　之陽生於子而極於己其數非六乎隂生於午而極</span><br/>
-<span class='tline' id='l633' data-llen='16029:16052'>　於亥其數非六乎此老陽所以可變而為隂而老隂</span><br/>
-<span class='tline' id='l634' data-llen='16052:16075'>　所以可變而為陽也若夫二十八則進猶未至於三</span><br/>
-<span class='tline' id='l635' data-llen='16075:16097'>　十况三十六乎三十二則退猶未至三十况二十</span><br/>
-<span class='tline' id='l636' data-llen='16097:16120'>　四乎此二十八三十二所以為少陽少隂也老陽老</span><br/>
-<span class='tline' id='l637' data-llen='16120:16143'>　隂之進退不過乎六六者用數也少陽少隂之進退</span><br/>
-<span class='tline' id='l638' data-llen='16143:16170'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-37a' );" name="002-37a" class="pb">[002-37a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l639' data-llen='16170:16193'>　不過乎八八者體數也用數圓圓則有變體數方方</span><br/>
-<span class='tline' id='l640' data-llen='16193:16216'>　則無變此少陽不可變而為隂少隂不可變而為陽</span><br/>
-<span class='tline' id='l641' data-llen='16216:16220'>　也</span><br/>
-<span class='tline' id='l642' data-llen='16220:16229'>　東嘉朱氏定例</span><br/>
-<span class='tline' id='l643' data-llen='16229:16239'>　四象八卦策數例</span><br/>
-<span class='tline' id='l644' data-llen='16239:16254'>　太陽位居一　　　　乾數九</span><br/>
-<span class='tline' id='l645' data-llen='16254:16271'>　少陰位居二　　　　㢲離兑數八</span><br/>
-<span class='tline' id='l646' data-llen='16271:16288'>　少陽位居三　　　　震坎艮數七</span><br/>
-<span class='tline' id='l647' data-llen='16288:16315'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-37b' );" name="002-37b" class="pb">[002-37b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l648' data-llen='16315:16330'>　太隂位居四　　　　坤數六</span><br/>
-<span class='tline' id='l649' data-llen='16330:16338'>　十干策數例</span><br/>
-<span class='tline' id='l650' data-llen='16338:16353'>　甲己位居一　　　　其數九</span><br/>
-<span class='tline' id='l651' data-llen='16353:16368'>　乙庚位居二　　　　其數八</span><br/>
-<span class='tline' id='l652' data-llen='16368:16383'>　丙辛位居三　　　　其數七</span><br/>
-<span class='tline' id='l653' data-llen='16383:16398'>　丁壬位居四　　　　其數六</span><br/>
-<span class='tline' id='l654' data-llen='16398:16413'>　戊癸位居五　　　　其數五</span><br/>
-<span class='tline' id='l655' data-llen='16413:16422'>　十二支策數例</span><br/>
-<span class='tline' id='l656' data-llen='16422:16449'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-38a' );" name="002-38a" class="pb">[002-38a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l657' data-llen='16449:16464'>　子午位居一　　　　其數九</span><br/>
-<span class='tline' id='l658' data-llen='16464:16479'>　丑未位居二　　　　其數八</span><br/>
-<span class='tline' id='l659' data-llen='16479:16494'>　寅申位居三　　　　其數七</span><br/>
-<span class='tline' id='l660' data-llen='16494:16509'>　卯酉位居四　　　　其數六</span><br/>
-<span class='tline' id='l661' data-llen='16509:16524'>　辰戌位居五　　　　其數五</span><br/>
-<span class='tline' id='l662' data-llen='16524:16539'>　己亥位居六　　　　其數四</span><br/>
-<span class='tline' id='l663' data-llen='16539:16562'>　凡四象十干十二支位一者其策九位二者其策八</span><br/>
-<span class='tline' id='l664' data-llen='16562:16585'>　位三者其策七位四者其策六位五者其策五位六</span><br/>
-<span class='tline' id='l665' data-llen='16585:16612'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-38b' );" name="002-38b" class="pb">[002-38b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l666' data-llen='16612:16635'>　者其策四何也則乎河圖之數一九相涵二八相涵</span><br/>
-<span class='tline' id='l667' data-llen='16635:16658'>　三七相涵四六相涵吝為十也十者太極之全數也</span><br/>
-<span class='tline' id='l668' data-llen='16658:16682'>　揚子雲述𤣥數曰子午之數九丑未八寅申七卯酉</span><br/>
-<span class='tline' id='l669' data-llen='16682:16705'>　六辰戌五己亥四又曰甲巳之數九乙庚八丙辛七</span><br/>
-<span class='tline' id='l670' data-llen='16705:16728'>　丁壬六戊癸五晉史述戴洋為庾亮占曰寅數七子</span><br/>
-<span class='tline' id='l671' data-llen='16728:16751'>　數九由是言之斯數也自伏羲氏之作易則具在四</span><br/>
-<span class='tline' id='l672' data-llen='16751:16774'>　象八卦自黄帝氏之造甲子則具在十干十二支子</span><br/>
-<span class='tline' id='l673' data-llen='16774:16798'>　雲得之而𤣥戴洋得之而占斯數固賾隨用隨著故</span><br/>
-<span class='tline' id='l674' data-llen='16798:16825'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-39a' );" name="002-39a" class="pb">[002-39a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l675' data-llen='16825:16837'>　曰神而明之存乎其人</span><br/>
-<span class='tline' id='l676' data-llen='16837:16848'>　黄帝六甲納音一例</span><br/>
-<span class='tline' id='l677' data-llen='16848:16864'>　甲九子九　<span class='krp-note'>共三/</span>　陽金</span><br/>
-<span class='tline' id='l678' data-llen='16864:16880'>　乙八丑八　<span class='krp-note'>十四/</span>　隂金</span><br/>
-<span class='tline' id='l679' data-llen='16880:16896'>　丙七寅七　<span class='krp-note'>共二/</span>　陽火</span><br/>
-<span class='tline' id='l680' data-llen='16896:16912'>　丁六卯六　<span class='krp-note'>十六/</span>　隂火</span><br/>
-<span class='tline' id='l681' data-llen='16912:16928'>　戊五辰五　<span class='krp-note'>共二/</span>　陽木</span><br/>
-<span class='tline' id='l682' data-llen='16928:16944'>　己九己四　<span class='krp-note'>十三/</span>　隂木</span><br/>
-<span class='tline' id='l683' data-llen='16944:16971'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-39b' );" name="002-39b" class="pb">[002-39b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l684' data-llen='16971:16987'>　庚八午九　<span class='krp-note'>共三/</span>　陽土</span><br/>
-<span class='tline' id='l685' data-llen='16987:17003'>　辛七未八　<span class='krp-note'>十二/</span>　隂土</span><br/>
-<span class='tline' id='l686' data-llen='17003:17019'>　壬六申七　<span class='krp-note'>共二/</span>　陽金</span><br/>
-<span class='tline' id='l687' data-llen='17019:17035'>　癸五酉六　<span class='krp-note'>十四/</span>　隂金</span><br/>
-<span class='tline' id='l688' data-llen='17035:17051'>　甲九戊五　<span class='krp-note'>共二/</span>　陽火</span><br/>
-<span class='tline' id='l689' data-llen='17051:17067'>　乙八亥四　<span class='krp-note'>十六/</span>　隂火</span><br/>
-<span class='tline' id='l690' data-llen='17067:17083'>　丙七子九　<span class='krp-note'>共三/</span>　陽水</span><br/>
-<span class='tline' id='l691' data-llen='17083:17099'>　丁六丑八　<span class='krp-note'>十/</span>　　隂水</span><br/>
-<span class='tline' id='l692' data-llen='17099:17126'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-40a' );" name="002-40a" class="pb">[002-40a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l693' data-llen='17126:17142'>　戊五寅七　<span class='krp-note'>共二/</span>　陽土</span><br/>
-<span class='tline' id='l694' data-llen='17142:17158'>　己九卯六　<span class='krp-note'>十七/</span>　隂土</span><br/>
-<span class='tline' id='l695' data-llen='17158:17174'>　庚八辰五　<span class='krp-note'>共二/</span>　陽金</span><br/>
-<span class='tline' id='l696' data-llen='17174:17190'>　辛七己四　<span class='krp-note'>十四/</span>　隂金</span><br/>
-<span class='tline' id='l697' data-llen='17190:17206'>　壬六午九　<span class='krp-note'>共二/</span>　陽木</span><br/>
-<span class='tline' id='l698' data-llen='17206:17222'>　癸五未八　<span class='krp-note'>十八/</span>　隂木</span><br/>
-<span class='tline' id='l699' data-llen='17222:17233'>　黄帝六甲納音二例</span><br/>
-<span class='tline' id='l700' data-llen='17233:17249'>　甲九申七　<span class='krp-note'>共三/</span>　陽水</span><br/>
-<span class='tline' id='l701' data-llen='17249:17276'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-40b' );" name="002-40b" class="pb">[002-40b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l702' data-llen='17276:17292'>　乙八酉六　<span class='krp-note'>十/</span>　　隂水</span><br/>
-<span class='tline' id='l703' data-llen='17292:17308'>　丙七戌五　<span class='krp-note'>共二/</span>　陽土</span><br/>
-<span class='tline' id='l704' data-llen='17308:17324'>　丁六亥四　<span class='krp-note'>十二/</span>　隂土</span><br/>
-<span class='tline' id='l705' data-llen='17324:17340'>　戊五子九　<span class='krp-note'>共三/</span>　陽火</span><br/>
-<span class='tline' id='l706' data-llen='17340:17356'>　己九丑八　<span class='krp-note'>十一/</span>　隂火</span><br/>
-<span class='tline' id='l707' data-llen='17356:17372'>　庚八寅七　<span class='krp-note'>共二/</span>　陽木</span><br/>
-<span class='tline' id='l708' data-llen='17372:17388'>　辛七卯六　<span class='krp-note'>十八/</span>　隂木</span><br/>
-<span class='tline' id='l709' data-llen='17388:17404'>　壬六辰五　<span class='krp-note'>共二/</span>　陽水</span><br/>
-<span class='tline' id='l710' data-llen='17404:17431'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-41a' );" name="002-41a" class="pb">[002-41a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l711' data-llen='17431:17447'>　癸五巳四　<span class='krp-note'>十/</span>　　隂水</span><br/>
-<span class='tline' id='l712' data-llen='17447:17463'>　甲九午九　<span class='krp-note'>共三/</span>　陽金</span><br/>
-<span class='tline' id='l713' data-llen='17463:17479'>　乙八未八　<span class='krp-note'>十四/</span>　隂金</span><br/>
-<span class='tline' id='l714' data-llen='17479:17495'>　丙七申七　<span class='krp-note'>共二/</span>　陽火</span><br/>
-<span class='tline' id='l715' data-llen='17495:17511'>　丁六酉六　<span class='krp-note'>十六/</span>　隂火</span><br/>
-<span class='tline' id='l716' data-llen='17511:17527'>　戊五戌五　<span class='krp-note'>共二/</span>　陽木</span><br/>
-<span class='tline' id='l717' data-llen='17527:17543'>　己九亥四　<span class='krp-note'>十三/</span>　隂木</span><br/>
-<span class='tline' id='l718' data-llen='17543:17559'>　庚八子九　<span class='krp-note'>共三/</span>　陽土</span><br/>
-<span class='tline' id='l719' data-llen='17559:17586'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-41b' );" name="002-41b" class="pb">[002-41b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l720' data-llen='17586:17602'>　辛七丑八　<span class='krp-note'>十二/</span>　隂土</span><br/>
-<span class='tline' id='l721' data-llen='17602:17618'>　壬六寅七　<span class='krp-note'>共二/</span>　陽金</span><br/>
-<span class='tline' id='l722' data-llen='17618:17634'>　癸五卯六　<span class='krp-note'>十四/</span>　隂金</span><br/>
-<span class='tline' id='l723' data-llen='17634:17645'>　黄帝六甲納音三例</span><br/>
-<span class='tline' id='l724' data-llen='17645:17661'>　甲九辰五　<span class='krp-note'>共二/</span>　陽火</span><br/>
-<span class='tline' id='l725' data-llen='17661:17677'>　乙八巳四　<span class='krp-note'>十六/</span>　隂火</span><br/>
-<span class='tline' id='l726' data-llen='17677:17693'>　丙七午九　<span class='krp-note'>共三/</span>　陽水</span><br/>
-<span class='tline' id='l727' data-llen='17693:17709'>　丁六未八　<span class='krp-note'>十/</span>　　隂水</span><br/>
-<span class='tline' id='l728' data-llen='17709:17736'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-42a' );" name="002-42a" class="pb">[002-42a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l729' data-llen='17736:17752'>　戊五申七　<span class='krp-note'>共二/</span>　陽土</span><br/>
-<span class='tline' id='l730' data-llen='17752:17768'>　己九酉六　<span class='krp-note'>十七/</span>　隂土</span><br/>
-<span class='tline' id='l731' data-llen='17768:17784'>　庚八戌五　<span class='krp-note'>共二/</span>　陽金</span><br/>
-<span class='tline' id='l732' data-llen='17784:17800'>　辛七亥四　<span class='krp-note'>十四/</span>　隂金</span><br/>
-<span class='tline' id='l733' data-llen='17800:17816'>　壬六子九　<span class='krp-note'>共二/</span>　陽木</span><br/>
-<span class='tline' id='l734' data-llen='17816:17832'>　癸五丑八　<span class='krp-note'>十八/</span>　隂木</span><br/>
-<span class='tline' id='l735' data-llen='17832:17848'>　甲九寅七　<span class='krp-note'>共三/</span>　陽水</span><br/>
-<span class='tline' id='l736' data-llen='17848:17864'>　乙八卯六　<span class='krp-note'>十/</span>　　隂水</span><br/>
-<span class='tline' id='l737' data-llen='17864:17891'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-42b' );" name="002-42b" class="pb">[002-42b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l738' data-llen='17891:17907'>　丙七辰五　<span class='krp-note'>共二/</span>　陽土</span><br/>
-<span class='tline' id='l739' data-llen='17907:17923'>　丁六己四　<span class='krp-note'>十二/</span>　隂土</span><br/>
-<span class='tline' id='l740' data-llen='17923:17939'>　戊五午九　<span class='krp-note'>共三/</span>　陽火</span><br/>
-<span class='tline' id='l741' data-llen='17939:17955'>　己九未八　<span class='krp-note'>十一/</span>　隂火</span><br/>
-<span class='tline' id='l742' data-llen='17955:17971'>　庚八申七　<span class='krp-note'>共二/</span>　陽木</span><br/>
-<span class='tline' id='l743' data-llen='17971:17987'>　辛七酉六　<span class='krp-note'>十八/</span>　隂木</span><br/>
-<span class='tline' id='l744' data-llen='17987:18003'>　壬六戌五　<span class='krp-note'>共二/</span>　陽水</span><br/>
-<span class='tline' id='l745' data-llen='18003:18019'>　癸五亥四　<span class='krp-note'>十/</span>　　隂水</span><br/>
-<span class='tline' id='l746' data-llen='18019:18046'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-43a' );" name="002-43a" class="pb">[002-43a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l747' data-llen='18046:18069'>　邵子曰策不用十有无之極也以况自然之數也今</span><br/>
-<span class='tline' id='l748' data-llen='18069:18092'>　六甲納音遇策數之十皆除去不用而用者乃策數</span><br/>
-<span class='tline' id='l749' data-llen='18092:18115'>　所除之餘耳餘一與六為水餘二與七為火餘三與</span><br/>
-<span class='tline' id='l750' data-llen='18115:18138'>　八為木餘四與九為金餘五與十為土策不用十其</span><br/>
-<span class='tline' id='l751' data-llen='18138:18161'>　義在此然十者數之全去十不用何也歸藏取則河</span><br/>
-<span class='tline' id='l752' data-llen='18161:18184'>　圖者也河圖藏十不具是以歸藏去十不用去十不</span><br/>
-<span class='tline' id='l753' data-llen='18184:18207'>　用然後納甲之數得彰其用此不用者所以為用者</span><br/>
-<span class='tline' id='l754' data-llen='18207:18220'>　歟<span class='krp-note'>此河圖/本洛書</span></span><br/>
-<span class='tline' id='l755' data-llen='18220:18247'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-43b' );" name="002-43b" class="pb">[002-43b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l756' data-llen='18247:18258'>　伏羲八卦屬五行例</span><br/>
-<span class='tline' id='l757' data-llen='18258:18265'>　乾一陽金</span><br/>
-<span class='tline' id='l758' data-llen='18265:18272'>　兌二隂金</span><br/>
-<span class='tline' id='l759' data-llen='18272:18279'>　離三　火</span><br/>
-<span class='tline' id='l760' data-llen='18279:18286'>　震四陽木</span><br/>
-<span class='tline' id='l761' data-llen='18286:18293'>　㢲五隂木</span><br/>
-<span class='tline' id='l762' data-llen='18293:18300'>　坎六　水</span><br/>
-<span class='tline' id='l763' data-llen='18300:18307'>　艮七陽土</span><br/>
-<span class='tline' id='l764' data-llen='18307:18334'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-44a' );" name="002-44a" class="pb">[002-44a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l765' data-llen='18334:18341'>　坤八隂土</span><br/>
-<span class='tline' id='l766' data-llen='18341:18364'>　五行一隂陽也隂陽一太極也五行在天地間獨陽</span><br/>
-<span class='tline' id='l767' data-llen='18364:18387'>　不生獨隂不成未嘗无偶然金木土之卦分隂分陽</span><br/>
-<span class='tline' id='l768' data-llen='18387:18410'>　以為偶水火之卦何无偶也坎為水隂中涵陽離為</span><br/>
-<span class='tline' id='l769' data-llen='18410:18433'>　火陽中涵隂隂陽之精互藏其宅故也乾偏陽坤偏</span><br/>
-<span class='tline' id='l770' data-llen='18433:18456'>　隂震艮一陽㢲兑一隂皆居卦體之偏偏於陽者必</span><br/>
-<span class='tline' id='l771' data-llen='18456:18479'>　偶以隂偏於隂者必偶以陽此金木土卦之有偶也</span><br/>
-<span class='tline' id='l772' data-llen='18479:18502'>　嗚呼八卦八而五行五本難齊也造化自然之妙布</span><br/>
-<span class='tline' id='l773' data-llen='18502:18529'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-44b' );" name="002-44b" class="pb">[002-44b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l774' data-llen='18529:18552'>　金木土卦為六約水火卦為二以五入八以八藏五</span><br/>
-<span class='tline' id='l775' data-llen='18552:18563'>　故能齊其所難齊歟</span><br/>
-<span class='tline' id='l776' data-llen='18563:18576'>　伏羲六十四卦屬五行例</span><br/>
-<span class='tline' id='l777' data-llen='18576:18593'>　乾一　乾　<span class='krp-note'>乾上/乾下</span>陽金</span><br/>
-<span class='tline' id='l778' data-llen='18593:18610'>　　　　夬　<span class='krp-note'>兑上/乾下</span>隂金</span><br/>
-<span class='tline' id='l779' data-llen='18610:18627'>　　　　大有<span class='krp-note'>離上/乾下</span>　火</span><br/>
-<span class='tline' id='l780' data-llen='18627:18644'>　　　　大壯<span class='krp-note'>震上/乾下</span>陽木</span><br/>
-<span class='tline' id='l781' data-llen='18644:18661'>　　　　小畜<span class='krp-note'>㢲上/乾下</span>隂木</span><br/>
-<span class='tline' id='l782' data-llen='18661:18688'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-45a' );" name="002-45a" class="pb">[002-45a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l783' data-llen='18688:18705'>　　　　需　<span class='krp-note'>坎上/乾下</span>　水</span><br/>
-<span class='tline' id='l784' data-llen='18705:18722'>　　　　大畜<span class='krp-note'>艮上/乾下</span>陽土</span><br/>
-<span class='tline' id='l785' data-llen='18722:18739'>　　　　泰　<span class='krp-note'>坤上/乾下</span>隂土</span><br/>
-<span class='tline' id='l786' data-llen='18739:18756'>　兌二　履　<span class='krp-note'>乾上/兑下</span>陽金</span><br/>
-<span class='tline' id='l787' data-llen='18756:18773'>　　　　兌　<span class='krp-note'>兌上/兌下</span>隂金</span><br/>
-<span class='tline' id='l788' data-llen='18773:18790'>　　　　睽　<span class='krp-note'>離上/兑下</span>　火</span><br/>
-<span class='tline' id='l789' data-llen='18790:18807'>　　　　歸妹<span class='krp-note'>震上/兑下</span>陽木</span><br/>
-<span class='tline' id='l790' data-llen='18807:18824'>　　　　中孚<span class='krp-note'>㢲上/兑下</span>隂木</span><br/>
-<span class='tline' id='l791' data-llen='18824:18851'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-45b' );" name="002-45b" class="pb">[002-45b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l792' data-llen='18851:18868'>　　　　節　<span class='krp-note'>坎上/兌下</span>　水</span><br/>
-<span class='tline' id='l793' data-llen='18868:18885'>　　　　損　<span class='krp-note'>艮上/兌下</span>陽土</span><br/>
-<span class='tline' id='l794' data-llen='18885:18902'>　　　　臨　<span class='krp-note'>坤上/兌下</span>隂土</span><br/>
-<span class='tline' id='l795' data-llen='18902:18919'>　離三　同人<span class='krp-note'>乾上/離下</span>陽金</span><br/>
-<span class='tline' id='l796' data-llen='18919:18936'>　　　　革　<span class='krp-note'>兑上/離下</span>隂金</span><br/>
-<span class='tline' id='l797' data-llen='18936:18953'>　　　　離　<span class='krp-note'>離上/離下</span>　火</span><br/>
-<span class='tline' id='l798' data-llen='18953:18970'>　　　　豐　<span class='krp-note'>震上/離下</span>陽木</span><br/>
-<span class='tline' id='l799' data-llen='18970:18987'>　　　　家人<span class='krp-note'>㢲上/離下</span>隂木</span><br/>
-<span class='tline' id='l800' data-llen='18987:19014'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-46a' );" name="002-46a" class="pb">[002-46a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l801' data-llen='19014:19031'>　　　　既濟<span class='krp-note'>坎上/離下</span>　水</span><br/>
-<span class='tline' id='l802' data-llen='19031:19048'>　　　　賁　<span class='krp-note'>艮上/離下</span>陽土</span><br/>
-<span class='tline' id='l803' data-llen='19048:19065'>　　　　明夷<span class='krp-note'>坤上/離下</span>隂土</span><br/>
-<span class='tline' id='l804' data-llen='19065:19082'>　震四　无妄<span class='krp-note'>乾上/震下</span>陽金</span><br/>
-<span class='tline' id='l805' data-llen='19082:19099'>　　　　隨　<span class='krp-note'>兌上/震下</span>隂金</span><br/>
-<span class='tline' id='l806' data-llen='19099:19116'>　　　　噬嗑<span class='krp-note'>離上/震下</span>　火</span><br/>
-<span class='tline' id='l807' data-llen='19116:19133'>　　　　震　<span class='krp-note'>震上/震下</span>陽木</span><br/>
-<span class='tline' id='l808' data-llen='19133:19150'>　　　　益　<span class='krp-note'>㢲上/震下</span>隂木</span><br/>
-<span class='tline' id='l809' data-llen='19150:19177'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-46b' );" name="002-46b" class="pb">[002-46b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l810' data-llen='19177:19194'>　　　　屯　<span class='krp-note'>坎上/震下</span>　水</span><br/>
-<span class='tline' id='l811' data-llen='19194:19211'>　　　　頤　<span class='krp-note'>艮上/震下</span>陽土</span><br/>
-<span class='tline' id='l812' data-llen='19211:19228'>　　　　復　<span class='krp-note'>坤上/震下</span>隂土</span><br/>
-<span class='tline' id='l813' data-llen='19228:19245'>　㢲五　姤　<span class='krp-note'>乾上/㢲下</span>陽金</span><br/>
-<span class='tline' id='l814' data-llen='19245:19262'>　　　　大過<span class='krp-note'>兑上/㢲下</span>隂金</span><br/>
-<span class='tline' id='l815' data-llen='19262:19279'>　　　　鼎　<span class='krp-note'>離上/㢲下</span>　火</span><br/>
-<span class='tline' id='l816' data-llen='19279:19296'>　　　　恒　<span class='krp-note'>震上/㢲下</span>陽木</span><br/>
-<span class='tline' id='l817' data-llen='19296:19313'>　　　　㢲　<span class='krp-note'>㢲上/㢲下</span>隂木</span><br/>
-<span class='tline' id='l818' data-llen='19313:19340'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-47a' );" name="002-47a" class="pb">[002-47a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l819' data-llen='19340:19357'>　　　　井　<span class='krp-note'>坎上/㢲下</span>　水</span><br/>
-<span class='tline' id='l820' data-llen='19357:19374'>　　　　蠱　<span class='krp-note'>艮上/㢲下</span>陽土</span><br/>
-<span class='tline' id='l821' data-llen='19374:19391'>　　　　升　<span class='krp-note'>坤上/㢲下</span>隂土</span><br/>
-<span class='tline' id='l822' data-llen='19391:19408'>　坎六　訟　<span class='krp-note'>乾上/坎下</span>陽金</span><br/>
-<span class='tline' id='l823' data-llen='19408:19425'>　　　　困　<span class='krp-note'>兑上/坎下</span>隂金</span><br/>
-<span class='tline' id='l824' data-llen='19425:19442'>　　　　未濟<span class='krp-note'>離上/坎下</span>　火</span><br/>
-<span class='tline' id='l825' data-llen='19442:19459'>　　　　解　<span class='krp-note'>震上/坎下</span>陽木</span><br/>
-<span class='tline' id='l826' data-llen='19459:19476'>　　　　渙　<span class='krp-note'>㢲上/坎下</span>隂木</span><br/>
-<span class='tline' id='l827' data-llen='19476:19503'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-47b' );" name="002-47b" class="pb">[002-47b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l828' data-llen='19503:19520'>　　　　坎　<span class='krp-note'>坎上/坎下</span>　水</span><br/>
-<span class='tline' id='l829' data-llen='19520:19537'>　　　　蒙　<span class='krp-note'>艮上/坎下</span>陽土</span><br/>
-<span class='tline' id='l830' data-llen='19537:19554'>　　　　師　<span class='krp-note'>坤上/坎下</span>隂土</span><br/>
-<span class='tline' id='l831' data-llen='19554:19571'>　艮七　遯　<span class='krp-note'>乾上/艮下</span>陽金</span><br/>
-<span class='tline' id='l832' data-llen='19571:19588'>　　　　咸　<span class='krp-note'>兑上/艮下</span>隂金</span><br/>
-<span class='tline' id='l833' data-llen='19588:19605'>　　　　旅　<span class='krp-note'>離上/艮下</span>　火</span><br/>
-<span class='tline' id='l834' data-llen='19605:19622'>　　　　小過<span class='krp-note'>震上/艮下</span>陽木</span><br/>
-<span class='tline' id='l835' data-llen='19622:19639'>　　　　漸　<span class='krp-note'>㢲上/艮下</span>隂木</span><br/>
-<span class='tline' id='l836' data-llen='19639:19666'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-48a' );" name="002-48a" class="pb">[002-48a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l837' data-llen='19666:19683'>　　　　蹇　<span class='krp-note'>坎上/艮下</span>　水</span><br/>
-<span class='tline' id='l838' data-llen='19683:19700'>　　　　艮　<span class='krp-note'>艮上/艮下</span>陽土</span><br/>
-<span class='tline' id='l839' data-llen='19700:19717'>　　　　謙　<span class='krp-note'>坤上/艮下</span>隂土</span><br/>
-<span class='tline' id='l840' data-llen='19717:19734'>　坤八　否　<span class='krp-note'>乾上/坤下</span>陽金</span><br/>
-<span class='tline' id='l841' data-llen='19734:19751'>　　　　萃　<span class='krp-note'>兑上/坤下</span>隂金</span><br/>
-<span class='tline' id='l842' data-llen='19751:19768'>　　　　晉　<span class='krp-note'>離上/坤下</span>　火</span><br/>
-<span class='tline' id='l843' data-llen='19768:19785'>　　　　豫　<span class='krp-note'>震上/坤下</span>陽木</span><br/>
-<span class='tline' id='l844' data-llen='19785:19802'>　　　　觀　<span class='krp-note'>㢲上/坤下</span>隂木</span><br/>
-<span class='tline' id='l845' data-llen='19802:19829'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-48b' );" name="002-48b" class="pb">[002-48b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l846' data-llen='19829:19846'>　　　　比　<span class='krp-note'>坎上/坤下</span>　水</span><br/>
-<span class='tline' id='l847' data-llen='19846:19863'>　　　　剥　<span class='krp-note'>艮上/坤下</span>陽土</span><br/>
-<span class='tline' id='l848' data-llen='19863:19880'>　　　　坤　<span class='krp-note'>坤上/坤下</span>隂土</span><br/>
-<span class='tline' id='l849' data-llen='19880:19903'>　乾兑屬金離屬火震㢲屬木坎屬水艮坤屬土先天</span><br/>
-<span class='tline' id='l850' data-llen='19903:19926'>　八宫宫各八卦即其卦外象之所屬以定其卦之為</span><br/>
-<span class='tline' id='l851' data-llen='19926:19949'>　金火木水土是故五行八周於八宫總八宫而言屬</span><br/>
-<span class='tline' id='l852' data-llen='19949:19972'>　金之卦十有六屬火之卦八屬木之卦十有六屬水</span><br/>
-<span class='tline' id='l853' data-llen='19972:19995'>　之卦八屬土之卦十有六是之謂六十四卦屬五行</span><br/>
-<span class='tline' id='l854' data-llen='19995:20022'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-49a' );" name="002-49a" class="pb">[002-49a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l855' data-llen='20022:20045'>　之例然也伏羲之演八卦為六十四卦也不能增水</span><br/>
-<span class='tline' id='l856' data-llen='20045:20068'>　火之卦使之多不能損金木土之卦使之少因乎卦</span><br/>
-<span class='tline' id='l857' data-llen='20068:20091'>　象之自然而已黄帝之造六甲納音也不能備毎宫</span><br/>
-<span class='tline' id='l858' data-llen='20091:20114'>　用音而使之有不能冺毎宫藏音而使之无亦曰因</span><br/>
-<span class='tline' id='l859' data-llen='20114:20137'>　乎聲音之自然而已由是象與音協音與象應一順</span><br/>
-<span class='tline' id='l860' data-llen='20137:20158'>　天理之流行實造化之大巧易道之至神也歟</span><br/>
-<span class='tline' id='l861' data-llen='20158:20181'>　　按周易不言五行言五行自洪範始儒者大闡其</span><br/>
-<span class='tline' id='l862' data-llen='20181:20204'>　　説以其合於天地萬物之理弗可易也技術家因</span><br/>
-<span class='tline' id='l863' data-llen='20204:20231'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-49b' );" name="002-49b" class="pb">[002-49b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l864' data-llen='20231:20254'>　　之紛紛矣然天一生水是无而有也故為水之始</span><br/>
-<span class='tline' id='l865' data-llen='20254:20277'>　　金之生水實无確徴至邵子獨稱水火土石又自</span><br/>
-<span class='tline' id='l866' data-llen='20277:20288'>　　成其一家之言耳</span><br/>
-<span class='tline' id='l867' data-llen='20288:20291'>　</span><br/>
-<span class='tline' id='l868' data-llen='20291:20294'>　</span><br/>
-<span class='tline' id='l869' data-llen='20294:20297'>　</span><br/>
-<span class='tline' id='l870' data-llen='20297:20300'>　</span><br/>
-<span class='tline' id='l871' data-llen='20300:20309'>　周易筮述卷二</span><br/>
+<p>
+<span class='tline' id='l565' data-llen='14629:14656'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-33a' );" name="002-33a" class="pb">[002-33a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l566' data-llen='14656:14659'>　</span>
+<span class='tline' id='l567' data-llen='14659:14662'>　</span>
+<span class='tline' id='l568' data-llen='14662:14665'>　</span>
+<span class='tline' id='l569' data-llen='14665:14668'>　</span>
+<span class='tline' id='l570' data-llen='14668:14671'>　</span>
+<span class='tline' id='l571' data-llen='14671:14674'>　</span>
+<span class='tline' id='l572' data-llen='14674:14677'>　</span>
+<span class='tline' id='l573' data-llen='14677:14680'>　</span>
+<span class='tline' id='l574' data-llen='14680:14707'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-33b' );" name="002-33b" class="pb">[002-33b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l575' data-llen='14707:14710'>　</span>
+<span class='tline' id='l576' data-llen='14710:14733'>　古易考原云經卦之别六十有四皆以此四象求之</span>
+<span class='tline' id='l577' data-llen='14733:14756'>　皆七八則為文王繫辭之卦若得九六則為周公繫</span>
+<span class='tline' id='l578' data-llen='14756:14773'>　辭之爻而一卦可變為六十四卦矣</span>
+<span class='tline' id='l579' data-llen='14773:14789'>　　按此則亦无事占二用之辭矣</span>
+<span class='tline' id='l580' data-llen='14789:14812'>　經世衍易圖説云當夫元氣渾淪隂陽未判是謂太</span>
+<span class='tline' id='l581' data-llen='14812:14849'>　極○及夫元氣既分動者為陽<img height='20' width='20' alt='&amp;KR0320' title='KR0320' src='https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0320.png'/>靜者為隂<img height='20' width='20' alt='&amp;KR0306' title='KR0306' src='https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0306.png'/>是謂</span>
+<span class='tline' id='l582' data-llen='14849:14872'>　兩儀動之上生一竒謂之陽□動之上生一偶謂之</span>
+<span class='tline' id='l583' data-llen='14872:14895'>　隂□靜之上生一竒□謂之剛靜之上生一偶□謂</span>
+<span class='tline' id='l584' data-llen='14895:14922'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-34a' );" name="002-34a" class="pb">[002-34a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l585' data-llen='14922:14945'>　之柔合而言之隂陽剛柔四象也四象陽之上生一</span>
+<span class='tline' id='l586' data-llen='14945:14968'>　竒謂之太陽☰生一偶謂之太隂☱隂之上生一竒</span>
+<span class='tline' id='l587' data-llen='14968:14991'>　謂之少陽☲生一偶謂之少隂☳四象剛之上生一</span>
+<span class='tline' id='l588' data-llen='14991:15014'>　竒謂之少剛☴生一偶謂之少柔☵柔之上生一竒</span>
+<span class='tline' id='l589' data-llen='15014:15037'>　謂之太剛☶生一偶謂之太柔☷故太陽為乾太隂</span>
+<span class='tline' id='l590' data-llen='15037:15060'>　為兑少陽為離少隂為震少剛為㢲少柔為坎太剛</span>
+<span class='tline' id='l591' data-llen='15060:15083'>　為艮太柔為坤此伏羲畫卦自然之形體次第而孔</span>
+<span class='tline' id='l592' data-llen='15083:15107'>　子𤼵明之故曰易有太極是生兩儀兩儀生四象四</span>
+<span class='tline' id='l593' data-llen='15107:15134'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-34b' );" name="002-34b" class="pb">[002-34b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l594' data-llen='15134:15157'>　象生八卦八卦定吉凶此言最為切要古今説者雖</span>
+<span class='tline' id='l595' data-llen='15157:15180'>　多唯康節明道二先生之説得之故康節先生之説</span>
+<span class='tline' id='l596' data-llen='15180:15203'>　所謂乾一兑二離三震四㢲五坎六艮七坤八正謂</span>
+<span class='tline' id='l597' data-llen='15203:15226'>　此也夫易之未作易在太極之先易之既作易在八</span>
+<span class='tline' id='l598' data-llen='15226:15249'>　卦之内八卦畫而吉凶定吉凶定而大業生以言乎</span>
+<span class='tline' id='l599' data-llen='15249:15272'>　法象之大則有易中之天地乾坤是也以言乎變通</span>
+<span class='tline' id='l600' data-llen='15272:15295'>　之大則有易中之四時震㢲六子是也以言乎著明</span>
+<span class='tline' id='l601' data-llen='15295:15318'>　之大則有易中之日月離坎是也以言乎崇髙之大</span>
+<span class='tline' id='l602' data-llen='15318:15345'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-35a' );" name="002-35a" class="pb">[002-35a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l603' data-llen='15345:15368'>　則有易中之富貴日新盛徳富有大業是也以言乎</span>
+<span class='tline' id='l604' data-llen='15368:15391'>　利用之大則有易中之聖人神道設教順動服民是</span>
+<span class='tline' id='l605' data-llen='15391:15414'>　也以言乎深逺之大則有易中之蓍龜某爻吉某爻</span>
+<span class='tline' id='l606' data-llen='15414:15437'>　凶是也此皆易中之大業非聖人立卦作易孰能備</span>
+<span class='tline' id='l607' data-llen='15437:15460'>　天下之物致天下之用成天下之器若是其廣大悉</span>
+<span class='tline' id='l608' data-llen='15460:15465'>　備乎</span>
+<span class='tline' id='l609' data-llen='15465:15488'>　同州王氏曰天地之間本一氣也其所以分隂分陽</span>
+<span class='tline' id='l610' data-llen='15488:15511'>　者進退有不同爾陽主進進極則退隂主退退極則</span>
+<span class='tline' id='l611' data-llen='15511:15538'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-35b' );" name="002-35b" class="pb">[002-35b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l612' data-llen='15538:15561'>　進九之進也必入於十陽進而不已逼於純隂之十</span>
+<span class='tline' id='l613' data-llen='15561:15584'>　安得不老此九所以為老陽六之退也必入於五隂</span>
+<span class='tline' id='l614' data-llen='15584:15607'>　退而不已逼於純陽之五安得不老此六所以為老</span>
+<span class='tline' id='l615' data-llen='15607:15630'>　隂陽至九而進極以其不入純隂之十故性雖進而</span>
+<span class='tline' id='l616' data-llen='15630:15653'>　必退退九而為八則陽變而為隂矣惟其方退而未</span>
+<span class='tline' id='l617' data-llen='15653:15676'>　極於六此八所以為少隂隂至六而退極以其不入</span>
+<span class='tline' id='l618' data-llen='15676:15699'>　純陽之五故性雖退而必進進六而為七則隂變而</span>
+<span class='tline' id='l619' data-llen='15699:15722'>　為陽矣惟其方進而未極於九此七所以為少陽四</span>
+<span class='tline' id='l620' data-llen='15722:15749'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-36a' );" name="002-36a" class="pb">[002-36a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l621' data-llen='15749:15772'>　九而得三十六則老陽之數全矣四六而得二十四</span>
+<span class='tline' id='l622' data-llen='15772:15795'>　則老隂之數全矣兩者合而為六十焉四七而得二</span>
+<span class='tline' id='l623' data-llen='15795:15818'>　十八則少陽之數全矣四八而得三十二則少隂之</span>
+<span class='tline' id='l624' data-llen='15818:15841'>　數全矣兩者亦合而為六十焉分而三十之則隂陽</span>
+<span class='tline' id='l625' data-llen='15841:15864'>　所以不偏而此消則彼長彼消則此長者也譬猶自</span>
+<span class='tline' id='l626' data-llen='15864:15887'>　甲子至於癸巳其數三十而陽主之自甲午至於癸</span>
+<span class='tline' id='l627' data-llen='15887:15910'>　亥其數三十而隂主之亦豈有此多彼寡之異哉陽</span>
+<span class='tline' id='l628' data-llen='15910:15933'>　主進故於三十之外進六而為三十六則陽極矣隂</span>
+<span class='tline' id='l629' data-llen='15933:15960'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-36b' );" name="002-36b" class="pb">[002-36b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l630' data-llen='15960:15983'>　主退故於三十之内退六而為二十四則隂極矣此</span>
+<span class='tline' id='l631' data-llen='15983:16006'>　三十六二十四所以為老陽老隂也以其可見者騐</span>
+<span class='tline' id='l632' data-llen='16006:16029'>　之陽生於子而極於己其數非六乎隂生於午而極</span>
+<span class='tline' id='l633' data-llen='16029:16052'>　於亥其數非六乎此老陽所以可變而為隂而老隂</span>
+<span class='tline' id='l634' data-llen='16052:16075'>　所以可變而為陽也若夫二十八則進猶未至於三</span>
+<span class='tline' id='l635' data-llen='16075:16097'>　十况三十六乎三十二則退猶未至三十况二十</span>
+<span class='tline' id='l636' data-llen='16097:16120'>　四乎此二十八三十二所以為少陽少隂也老陽老</span>
+<span class='tline' id='l637' data-llen='16120:16143'>　隂之進退不過乎六六者用數也少陽少隂之進退</span>
+<span class='tline' id='l638' data-llen='16143:16170'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-37a' );" name="002-37a" class="pb">[002-37a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l639' data-llen='16170:16193'>　不過乎八八者體數也用數圓圓則有變體數方方</span>
+<span class='tline' id='l640' data-llen='16193:16216'>　則無變此少陽不可變而為隂少隂不可變而為陽</span>
+<span class='tline' id='l641' data-llen='16216:16220'>　也</span>
+<span class='tline' id='l642' data-llen='16220:16229'>　東嘉朱氏定例</span>
+<span class='tline' id='l643' data-llen='16229:16239'>　四象八卦策數例</span>
+<span class='tline' id='l644' data-llen='16239:16254'>　太陽位居一　　　　乾數九</span>
+<span class='tline' id='l645' data-llen='16254:16271'>　少陰位居二　　　　㢲離兑數八</span>
+<span class='tline' id='l646' data-llen='16271:16288'>　少陽位居三　　　　震坎艮數七</span>
+<span class='tline' id='l647' data-llen='16288:16315'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-37b' );" name="002-37b" class="pb">[002-37b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l648' data-llen='16315:16330'>　太隂位居四　　　　坤數六</span>
+<span class='tline' id='l649' data-llen='16330:16338'>　十干策數例</span>
+<span class='tline' id='l650' data-llen='16338:16353'>　甲己位居一　　　　其數九</span>
+<span class='tline' id='l651' data-llen='16353:16368'>　乙庚位居二　　　　其數八</span>
+<span class='tline' id='l652' data-llen='16368:16383'>　丙辛位居三　　　　其數七</span>
+<span class='tline' id='l653' data-llen='16383:16398'>　丁壬位居四　　　　其數六</span>
+<span class='tline' id='l654' data-llen='16398:16413'>　戊癸位居五　　　　其數五</span>
+<span class='tline' id='l655' data-llen='16413:16422'>　十二支策數例</span>
+<span class='tline' id='l656' data-llen='16422:16449'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-38a' );" name="002-38a" class="pb">[002-38a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l657' data-llen='16449:16464'>　子午位居一　　　　其數九</span>
+<span class='tline' id='l658' data-llen='16464:16479'>　丑未位居二　　　　其數八</span>
+<span class='tline' id='l659' data-llen='16479:16494'>　寅申位居三　　　　其數七</span>
+<span class='tline' id='l660' data-llen='16494:16509'>　卯酉位居四　　　　其數六</span>
+<span class='tline' id='l661' data-llen='16509:16524'>　辰戌位居五　　　　其數五</span>
+<span class='tline' id='l662' data-llen='16524:16539'>　己亥位居六　　　　其數四</span>
+<span class='tline' id='l663' data-llen='16539:16562'>　凡四象十干十二支位一者其策九位二者其策八</span>
+<span class='tline' id='l664' data-llen='16562:16585'>　位三者其策七位四者其策六位五者其策五位六</span>
+<span class='tline' id='l665' data-llen='16585:16612'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-38b' );" name="002-38b" class="pb">[002-38b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l666' data-llen='16612:16635'>　者其策四何也則乎河圖之數一九相涵二八相涵</span>
+<span class='tline' id='l667' data-llen='16635:16658'>　三七相涵四六相涵吝為十也十者太極之全數也</span>
+<span class='tline' id='l668' data-llen='16658:16682'>　揚子雲述𤣥數曰子午之數九丑未八寅申七卯酉</span>
+<span class='tline' id='l669' data-llen='16682:16705'>　六辰戌五己亥四又曰甲巳之數九乙庚八丙辛七</span>
+<span class='tline' id='l670' data-llen='16705:16728'>　丁壬六戊癸五晉史述戴洋為庾亮占曰寅數七子</span>
+<span class='tline' id='l671' data-llen='16728:16751'>　數九由是言之斯數也自伏羲氏之作易則具在四</span>
+<span class='tline' id='l672' data-llen='16751:16774'>　象八卦自黄帝氏之造甲子則具在十干十二支子</span>
+<span class='tline' id='l673' data-llen='16774:16798'>　雲得之而𤣥戴洋得之而占斯數固賾隨用隨著故</span>
+<span class='tline' id='l674' data-llen='16798:16825'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-39a' );" name="002-39a" class="pb">[002-39a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l675' data-llen='16825:16837'>　曰神而明之存乎其人</span>
+<span class='tline' id='l676' data-llen='16837:16848'>　黄帝六甲納音一例</span>
+<span class='tline' id='l677' data-llen='16848:16864'>　甲九子九　<span class='krp-note'>共三/</span>　陽金</span>
+<span class='tline' id='l678' data-llen='16864:16880'>　乙八丑八　<span class='krp-note'>十四/</span>　隂金</span>
+<span class='tline' id='l679' data-llen='16880:16896'>　丙七寅七　<span class='krp-note'>共二/</span>　陽火</span>
+<span class='tline' id='l680' data-llen='16896:16912'>　丁六卯六　<span class='krp-note'>十六/</span>　隂火</span>
+<span class='tline' id='l681' data-llen='16912:16928'>　戊五辰五　<span class='krp-note'>共二/</span>　陽木</span>
+<span class='tline' id='l682' data-llen='16928:16944'>　己九己四　<span class='krp-note'>十三/</span>　隂木</span>
+<span class='tline' id='l683' data-llen='16944:16971'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-39b' );" name="002-39b" class="pb">[002-39b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l684' data-llen='16971:16987'>　庚八午九　<span class='krp-note'>共三/</span>　陽土</span>
+<span class='tline' id='l685' data-llen='16987:17003'>　辛七未八　<span class='krp-note'>十二/</span>　隂土</span>
+<span class='tline' id='l686' data-llen='17003:17019'>　壬六申七　<span class='krp-note'>共二/</span>　陽金</span>
+<span class='tline' id='l687' data-llen='17019:17035'>　癸五酉六　<span class='krp-note'>十四/</span>　隂金</span>
+<span class='tline' id='l688' data-llen='17035:17051'>　甲九戊五　<span class='krp-note'>共二/</span>　陽火</span>
+<span class='tline' id='l689' data-llen='17051:17067'>　乙八亥四　<span class='krp-note'>十六/</span>　隂火</span>
+<span class='tline' id='l690' data-llen='17067:17083'>　丙七子九　<span class='krp-note'>共三/</span>　陽水</span>
+<span class='tline' id='l691' data-llen='17083:17099'>　丁六丑八　<span class='krp-note'>十/</span>　　隂水</span>
+<span class='tline' id='l692' data-llen='17099:17126'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-40a' );" name="002-40a" class="pb">[002-40a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l693' data-llen='17126:17142'>　戊五寅七　<span class='krp-note'>共二/</span>　陽土</span>
+<span class='tline' id='l694' data-llen='17142:17158'>　己九卯六　<span class='krp-note'>十七/</span>　隂土</span>
+<span class='tline' id='l695' data-llen='17158:17174'>　庚八辰五　<span class='krp-note'>共二/</span>　陽金</span>
+<span class='tline' id='l696' data-llen='17174:17190'>　辛七己四　<span class='krp-note'>十四/</span>　隂金</span>
+<span class='tline' id='l697' data-llen='17190:17206'>　壬六午九　<span class='krp-note'>共二/</span>　陽木</span>
+<span class='tline' id='l698' data-llen='17206:17222'>　癸五未八　<span class='krp-note'>十八/</span>　隂木</span>
+<span class='tline' id='l699' data-llen='17222:17233'>　黄帝六甲納音二例</span>
+<span class='tline' id='l700' data-llen='17233:17249'>　甲九申七　<span class='krp-note'>共三/</span>　陽水</span>
+<span class='tline' id='l701' data-llen='17249:17276'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-40b' );" name="002-40b" class="pb">[002-40b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l702' data-llen='17276:17292'>　乙八酉六　<span class='krp-note'>十/</span>　　隂水</span>
+<span class='tline' id='l703' data-llen='17292:17308'>　丙七戌五　<span class='krp-note'>共二/</span>　陽土</span>
+<span class='tline' id='l704' data-llen='17308:17324'>　丁六亥四　<span class='krp-note'>十二/</span>　隂土</span>
+<span class='tline' id='l705' data-llen='17324:17340'>　戊五子九　<span class='krp-note'>共三/</span>　陽火</span>
+<span class='tline' id='l706' data-llen='17340:17356'>　己九丑八　<span class='krp-note'>十一/</span>　隂火</span>
+<span class='tline' id='l707' data-llen='17356:17372'>　庚八寅七　<span class='krp-note'>共二/</span>　陽木</span>
+<span class='tline' id='l708' data-llen='17372:17388'>　辛七卯六　<span class='krp-note'>十八/</span>　隂木</span>
+<span class='tline' id='l709' data-llen='17388:17404'>　壬六辰五　<span class='krp-note'>共二/</span>　陽水</span>
+<span class='tline' id='l710' data-llen='17404:17431'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-41a' );" name="002-41a" class="pb">[002-41a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l711' data-llen='17431:17447'>　癸五巳四　<span class='krp-note'>十/</span>　　隂水</span>
+<span class='tline' id='l712' data-llen='17447:17463'>　甲九午九　<span class='krp-note'>共三/</span>　陽金</span>
+<span class='tline' id='l713' data-llen='17463:17479'>　乙八未八　<span class='krp-note'>十四/</span>　隂金</span>
+<span class='tline' id='l714' data-llen='17479:17495'>　丙七申七　<span class='krp-note'>共二/</span>　陽火</span>
+<span class='tline' id='l715' data-llen='17495:17511'>　丁六酉六　<span class='krp-note'>十六/</span>　隂火</span>
+<span class='tline' id='l716' data-llen='17511:17527'>　戊五戌五　<span class='krp-note'>共二/</span>　陽木</span>
+<span class='tline' id='l717' data-llen='17527:17543'>　己九亥四　<span class='krp-note'>十三/</span>　隂木</span>
+<span class='tline' id='l718' data-llen='17543:17559'>　庚八子九　<span class='krp-note'>共三/</span>　陽土</span>
+<span class='tline' id='l719' data-llen='17559:17586'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-41b' );" name="002-41b" class="pb">[002-41b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l720' data-llen='17586:17602'>　辛七丑八　<span class='krp-note'>十二/</span>　隂土</span>
+<span class='tline' id='l721' data-llen='17602:17618'>　壬六寅七　<span class='krp-note'>共二/</span>　陽金</span>
+<span class='tline' id='l722' data-llen='17618:17634'>　癸五卯六　<span class='krp-note'>十四/</span>　隂金</span>
+<span class='tline' id='l723' data-llen='17634:17645'>　黄帝六甲納音三例</span>
+<span class='tline' id='l724' data-llen='17645:17661'>　甲九辰五　<span class='krp-note'>共二/</span>　陽火</span>
+<span class='tline' id='l725' data-llen='17661:17677'>　乙八巳四　<span class='krp-note'>十六/</span>　隂火</span>
+<span class='tline' id='l726' data-llen='17677:17693'>　丙七午九　<span class='krp-note'>共三/</span>　陽水</span>
+<span class='tline' id='l727' data-llen='17693:17709'>　丁六未八　<span class='krp-note'>十/</span>　　隂水</span>
+<span class='tline' id='l728' data-llen='17709:17736'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-42a' );" name="002-42a" class="pb">[002-42a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l729' data-llen='17736:17752'>　戊五申七　<span class='krp-note'>共二/</span>　陽土</span>
+<span class='tline' id='l730' data-llen='17752:17768'>　己九酉六　<span class='krp-note'>十七/</span>　隂土</span>
+<span class='tline' id='l731' data-llen='17768:17784'>　庚八戌五　<span class='krp-note'>共二/</span>　陽金</span>
+<span class='tline' id='l732' data-llen='17784:17800'>　辛七亥四　<span class='krp-note'>十四/</span>　隂金</span>
+<span class='tline' id='l733' data-llen='17800:17816'>　壬六子九　<span class='krp-note'>共二/</span>　陽木</span>
+<span class='tline' id='l734' data-llen='17816:17832'>　癸五丑八　<span class='krp-note'>十八/</span>　隂木</span>
+<span class='tline' id='l735' data-llen='17832:17848'>　甲九寅七　<span class='krp-note'>共三/</span>　陽水</span>
+<span class='tline' id='l736' data-llen='17848:17864'>　乙八卯六　<span class='krp-note'>十/</span>　　隂水</span>
+<span class='tline' id='l737' data-llen='17864:17891'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-42b' );" name="002-42b" class="pb">[002-42b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l738' data-llen='17891:17907'>　丙七辰五　<span class='krp-note'>共二/</span>　陽土</span>
+<span class='tline' id='l739' data-llen='17907:17923'>　丁六己四　<span class='krp-note'>十二/</span>　隂土</span>
+<span class='tline' id='l740' data-llen='17923:17939'>　戊五午九　<span class='krp-note'>共三/</span>　陽火</span>
+<span class='tline' id='l741' data-llen='17939:17955'>　己九未八　<span class='krp-note'>十一/</span>　隂火</span>
+<span class='tline' id='l742' data-llen='17955:17971'>　庚八申七　<span class='krp-note'>共二/</span>　陽木</span>
+<span class='tline' id='l743' data-llen='17971:17987'>　辛七酉六　<span class='krp-note'>十八/</span>　隂木</span>
+<span class='tline' id='l744' data-llen='17987:18003'>　壬六戌五　<span class='krp-note'>共二/</span>　陽水</span>
+<span class='tline' id='l745' data-llen='18003:18019'>　癸五亥四　<span class='krp-note'>十/</span>　　隂水</span>
+<span class='tline' id='l746' data-llen='18019:18046'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-43a' );" name="002-43a" class="pb">[002-43a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l747' data-llen='18046:18069'>　邵子曰策不用十有无之極也以况自然之數也今</span>
+<span class='tline' id='l748' data-llen='18069:18092'>　六甲納音遇策數之十皆除去不用而用者乃策數</span>
+<span class='tline' id='l749' data-llen='18092:18115'>　所除之餘耳餘一與六為水餘二與七為火餘三與</span>
+<span class='tline' id='l750' data-llen='18115:18138'>　八為木餘四與九為金餘五與十為土策不用十其</span>
+<span class='tline' id='l751' data-llen='18138:18161'>　義在此然十者數之全去十不用何也歸藏取則河</span>
+<span class='tline' id='l752' data-llen='18161:18184'>　圖者也河圖藏十不具是以歸藏去十不用去十不</span>
+<span class='tline' id='l753' data-llen='18184:18207'>　用然後納甲之數得彰其用此不用者所以為用者</span>
+<span class='tline' id='l754' data-llen='18207:18220'>　歟<span class='krp-note'>此河圖/本洛書</span></span>
+<span class='tline' id='l755' data-llen='18220:18247'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-43b' );" name="002-43b" class="pb">[002-43b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l756' data-llen='18247:18258'>　伏羲八卦屬五行例</span>
+<span class='tline' id='l757' data-llen='18258:18265'>　乾一陽金</span>
+<span class='tline' id='l758' data-llen='18265:18272'>　兌二隂金</span>
+<span class='tline' id='l759' data-llen='18272:18279'>　離三　火</span>
+<span class='tline' id='l760' data-llen='18279:18286'>　震四陽木</span>
+<span class='tline' id='l761' data-llen='18286:18293'>　㢲五隂木</span>
+<span class='tline' id='l762' data-llen='18293:18300'>　坎六　水</span>
+<span class='tline' id='l763' data-llen='18300:18307'>　艮七陽土</span>
+<span class='tline' id='l764' data-llen='18307:18334'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-44a' );" name="002-44a" class="pb">[002-44a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l765' data-llen='18334:18341'>　坤八隂土</span>
+<span class='tline' id='l766' data-llen='18341:18364'>　五行一隂陽也隂陽一太極也五行在天地間獨陽</span>
+<span class='tline' id='l767' data-llen='18364:18387'>　不生獨隂不成未嘗无偶然金木土之卦分隂分陽</span>
+<span class='tline' id='l768' data-llen='18387:18410'>　以為偶水火之卦何无偶也坎為水隂中涵陽離為</span>
+<span class='tline' id='l769' data-llen='18410:18433'>　火陽中涵隂隂陽之精互藏其宅故也乾偏陽坤偏</span>
+<span class='tline' id='l770' data-llen='18433:18456'>　隂震艮一陽㢲兑一隂皆居卦體之偏偏於陽者必</span>
+<span class='tline' id='l771' data-llen='18456:18479'>　偶以隂偏於隂者必偶以陽此金木土卦之有偶也</span>
+<span class='tline' id='l772' data-llen='18479:18502'>　嗚呼八卦八而五行五本難齊也造化自然之妙布</span>
+<span class='tline' id='l773' data-llen='18502:18529'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-44b' );" name="002-44b" class="pb">[002-44b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l774' data-llen='18529:18552'>　金木土卦為六約水火卦為二以五入八以八藏五</span>
+<span class='tline' id='l775' data-llen='18552:18563'>　故能齊其所難齊歟</span>
+<span class='tline' id='l776' data-llen='18563:18576'>　伏羲六十四卦屬五行例</span>
+<span class='tline' id='l777' data-llen='18576:18593'>　乾一　乾　<span class='krp-note'>乾上/乾下</span>陽金</span>
+<span class='tline' id='l778' data-llen='18593:18610'>　　　　夬　<span class='krp-note'>兑上/乾下</span>隂金</span>
+<span class='tline' id='l779' data-llen='18610:18627'>　　　　大有<span class='krp-note'>離上/乾下</span>　火</span>
+<span class='tline' id='l780' data-llen='18627:18644'>　　　　大壯<span class='krp-note'>震上/乾下</span>陽木</span>
+<span class='tline' id='l781' data-llen='18644:18661'>　　　　小畜<span class='krp-note'>㢲上/乾下</span>隂木</span>
+<span class='tline' id='l782' data-llen='18661:18688'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-45a' );" name="002-45a" class="pb">[002-45a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l783' data-llen='18688:18705'>　　　　需　<span class='krp-note'>坎上/乾下</span>　水</span>
+<span class='tline' id='l784' data-llen='18705:18722'>　　　　大畜<span class='krp-note'>艮上/乾下</span>陽土</span>
+<span class='tline' id='l785' data-llen='18722:18739'>　　　　泰　<span class='krp-note'>坤上/乾下</span>隂土</span>
+<span class='tline' id='l786' data-llen='18739:18756'>　兌二　履　<span class='krp-note'>乾上/兑下</span>陽金</span>
+<span class='tline' id='l787' data-llen='18756:18773'>　　　　兌　<span class='krp-note'>兌上/兌下</span>隂金</span>
+<span class='tline' id='l788' data-llen='18773:18790'>　　　　睽　<span class='krp-note'>離上/兑下</span>　火</span>
+<span class='tline' id='l789' data-llen='18790:18807'>　　　　歸妹<span class='krp-note'>震上/兑下</span>陽木</span>
+<span class='tline' id='l790' data-llen='18807:18824'>　　　　中孚<span class='krp-note'>㢲上/兑下</span>隂木</span>
+<span class='tline' id='l791' data-llen='18824:18851'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-45b' );" name="002-45b" class="pb">[002-45b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l792' data-llen='18851:18868'>　　　　節　<span class='krp-note'>坎上/兌下</span>　水</span>
+<span class='tline' id='l793' data-llen='18868:18885'>　　　　損　<span class='krp-note'>艮上/兌下</span>陽土</span>
+<span class='tline' id='l794' data-llen='18885:18902'>　　　　臨　<span class='krp-note'>坤上/兌下</span>隂土</span>
+<span class='tline' id='l795' data-llen='18902:18919'>　離三　同人<span class='krp-note'>乾上/離下</span>陽金</span>
+<span class='tline' id='l796' data-llen='18919:18936'>　　　　革　<span class='krp-note'>兑上/離下</span>隂金</span>
+<span class='tline' id='l797' data-llen='18936:18953'>　　　　離　<span class='krp-note'>離上/離下</span>　火</span>
+<span class='tline' id='l798' data-llen='18953:18970'>　　　　豐　<span class='krp-note'>震上/離下</span>陽木</span>
+<span class='tline' id='l799' data-llen='18970:18987'>　　　　家人<span class='krp-note'>㢲上/離下</span>隂木</span>
+<span class='tline' id='l800' data-llen='18987:19014'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-46a' );" name="002-46a" class="pb">[002-46a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l801' data-llen='19014:19031'>　　　　既濟<span class='krp-note'>坎上/離下</span>　水</span>
+<span class='tline' id='l802' data-llen='19031:19048'>　　　　賁　<span class='krp-note'>艮上/離下</span>陽土</span>
+<span class='tline' id='l803' data-llen='19048:19065'>　　　　明夷<span class='krp-note'>坤上/離下</span>隂土</span>
+<span class='tline' id='l804' data-llen='19065:19082'>　震四　无妄<span class='krp-note'>乾上/震下</span>陽金</span>
+<span class='tline' id='l805' data-llen='19082:19099'>　　　　隨　<span class='krp-note'>兌上/震下</span>隂金</span>
+<span class='tline' id='l806' data-llen='19099:19116'>　　　　噬嗑<span class='krp-note'>離上/震下</span>　火</span>
+<span class='tline' id='l807' data-llen='19116:19133'>　　　　震　<span class='krp-note'>震上/震下</span>陽木</span>
+<span class='tline' id='l808' data-llen='19133:19150'>　　　　益　<span class='krp-note'>㢲上/震下</span>隂木</span>
+<span class='tline' id='l809' data-llen='19150:19177'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-46b' );" name="002-46b" class="pb">[002-46b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l810' data-llen='19177:19194'>　　　　屯　<span class='krp-note'>坎上/震下</span>　水</span>
+<span class='tline' id='l811' data-llen='19194:19211'>　　　　頤　<span class='krp-note'>艮上/震下</span>陽土</span>
+<span class='tline' id='l812' data-llen='19211:19228'>　　　　復　<span class='krp-note'>坤上/震下</span>隂土</span>
+<span class='tline' id='l813' data-llen='19228:19245'>　㢲五　姤　<span class='krp-note'>乾上/㢲下</span>陽金</span>
+<span class='tline' id='l814' data-llen='19245:19262'>　　　　大過<span class='krp-note'>兑上/㢲下</span>隂金</span>
+<span class='tline' id='l815' data-llen='19262:19279'>　　　　鼎　<span class='krp-note'>離上/㢲下</span>　火</span>
+<span class='tline' id='l816' data-llen='19279:19296'>　　　　恒　<span class='krp-note'>震上/㢲下</span>陽木</span>
+<span class='tline' id='l817' data-llen='19296:19313'>　　　　㢲　<span class='krp-note'>㢲上/㢲下</span>隂木</span>
+<span class='tline' id='l818' data-llen='19313:19340'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-47a' );" name="002-47a" class="pb">[002-47a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l819' data-llen='19340:19357'>　　　　井　<span class='krp-note'>坎上/㢲下</span>　水</span>
+<span class='tline' id='l820' data-llen='19357:19374'>　　　　蠱　<span class='krp-note'>艮上/㢲下</span>陽土</span>
+<span class='tline' id='l821' data-llen='19374:19391'>　　　　升　<span class='krp-note'>坤上/㢲下</span>隂土</span>
+<span class='tline' id='l822' data-llen='19391:19408'>　坎六　訟　<span class='krp-note'>乾上/坎下</span>陽金</span>
+<span class='tline' id='l823' data-llen='19408:19425'>　　　　困　<span class='krp-note'>兑上/坎下</span>隂金</span>
+<span class='tline' id='l824' data-llen='19425:19442'>　　　　未濟<span class='krp-note'>離上/坎下</span>　火</span>
+<span class='tline' id='l825' data-llen='19442:19459'>　　　　解　<span class='krp-note'>震上/坎下</span>陽木</span>
+<span class='tline' id='l826' data-llen='19459:19476'>　　　　渙　<span class='krp-note'>㢲上/坎下</span>隂木</span>
+<span class='tline' id='l827' data-llen='19476:19503'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-47b' );" name="002-47b" class="pb">[002-47b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l828' data-llen='19503:19520'>　　　　坎　<span class='krp-note'>坎上/坎下</span>　水</span>
+<span class='tline' id='l829' data-llen='19520:19537'>　　　　蒙　<span class='krp-note'>艮上/坎下</span>陽土</span>
+<span class='tline' id='l830' data-llen='19537:19554'>　　　　師　<span class='krp-note'>坤上/坎下</span>隂土</span>
+<span class='tline' id='l831' data-llen='19554:19571'>　艮七　遯　<span class='krp-note'>乾上/艮下</span>陽金</span>
+<span class='tline' id='l832' data-llen='19571:19588'>　　　　咸　<span class='krp-note'>兑上/艮下</span>隂金</span>
+<span class='tline' id='l833' data-llen='19588:19605'>　　　　旅　<span class='krp-note'>離上/艮下</span>　火</span>
+<span class='tline' id='l834' data-llen='19605:19622'>　　　　小過<span class='krp-note'>震上/艮下</span>陽木</span>
+<span class='tline' id='l835' data-llen='19622:19639'>　　　　漸　<span class='krp-note'>㢲上/艮下</span>隂木</span>
+<span class='tline' id='l836' data-llen='19639:19666'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-48a' );" name="002-48a" class="pb">[002-48a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l837' data-llen='19666:19683'>　　　　蹇　<span class='krp-note'>坎上/艮下</span>　水</span>
+<span class='tline' id='l838' data-llen='19683:19700'>　　　　艮　<span class='krp-note'>艮上/艮下</span>陽土</span>
+<span class='tline' id='l839' data-llen='19700:19717'>　　　　謙　<span class='krp-note'>坤上/艮下</span>隂土</span>
+<span class='tline' id='l840' data-llen='19717:19734'>　坤八　否　<span class='krp-note'>乾上/坤下</span>陽金</span>
+<span class='tline' id='l841' data-llen='19734:19751'>　　　　萃　<span class='krp-note'>兑上/坤下</span>隂金</span>
+<span class='tline' id='l842' data-llen='19751:19768'>　　　　晉　<span class='krp-note'>離上/坤下</span>　火</span>
+<span class='tline' id='l843' data-llen='19768:19785'>　　　　豫　<span class='krp-note'>震上/坤下</span>陽木</span>
+<span class='tline' id='l844' data-llen='19785:19802'>　　　　觀　<span class='krp-note'>㢲上/坤下</span>隂木</span>
+<span class='tline' id='l845' data-llen='19802:19829'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-48b' );" name="002-48b" class="pb">[002-48b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l846' data-llen='19829:19846'>　　　　比　<span class='krp-note'>坎上/坤下</span>　水</span>
+<span class='tline' id='l847' data-llen='19846:19863'>　　　　剥　<span class='krp-note'>艮上/坤下</span>陽土</span>
+<span class='tline' id='l848' data-llen='19863:19880'>　　　　坤　<span class='krp-note'>坤上/坤下</span>隂土</span>
+<span class='tline' id='l849' data-llen='19880:19903'>　乾兑屬金離屬火震㢲屬木坎屬水艮坤屬土先天</span>
+<span class='tline' id='l850' data-llen='19903:19926'>　八宫宫各八卦即其卦外象之所屬以定其卦之為</span>
+<span class='tline' id='l851' data-llen='19926:19949'>　金火木水土是故五行八周於八宫總八宫而言屬</span>
+<span class='tline' id='l852' data-llen='19949:19972'>　金之卦十有六屬火之卦八屬木之卦十有六屬水</span>
+<span class='tline' id='l853' data-llen='19972:19995'>　之卦八屬土之卦十有六是之謂六十四卦屬五行</span>
+<span class='tline' id='l854' data-llen='19995:20022'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-49a' );" name="002-49a" class="pb">[002-49a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l855' data-llen='20022:20045'>　之例然也伏羲之演八卦為六十四卦也不能增水</span>
+<span class='tline' id='l856' data-llen='20045:20068'>　火之卦使之多不能損金木土之卦使之少因乎卦</span>
+<span class='tline' id='l857' data-llen='20068:20091'>　象之自然而已黄帝之造六甲納音也不能備毎宫</span>
+<span class='tline' id='l858' data-llen='20091:20114'>　用音而使之有不能冺毎宫藏音而使之无亦曰因</span>
+<span class='tline' id='l859' data-llen='20114:20137'>　乎聲音之自然而已由是象與音協音與象應一順</span>
+<span class='tline' id='l860' data-llen='20137:20158'>　天理之流行實造化之大巧易道之至神也歟</span>
+<span class='tline' id='l861' data-llen='20158:20181'>　　按周易不言五行言五行自洪範始儒者大闡其</span>
+<span class='tline' id='l862' data-llen='20181:20204'>　　説以其合於天地萬物之理弗可易也技術家因</span>
+<span class='tline' id='l863' data-llen='20204:20231'><a onclick="displayPageImage('KR1a0125', 'WYG', '002-49b' );" name="002-49b" class="pb">[002-49b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l864' data-llen='20231:20254'>　　之紛紛矣然天一生水是无而有也故為水之始</span>
+<span class='tline' id='l865' data-llen='20254:20277'>　　金之生水實无確徴至邵子獨稱水火土石又自</span>
+<span class='tline' id='l866' data-llen='20277:20288'>　　成其一家之言耳</span>
+<span class='tline' id='l867' data-llen='20288:20291'>　</span>
+<span class='tline' id='l868' data-llen='20291:20294'>　</span>
+<span class='tline' id='l869' data-llen='20294:20297'>　</span>
+<span class='tline' id='l870' data-llen='20297:20300'>　</span>
+<span class='tline' id='l871' data-llen='20300:20309'>　周易筮述卷二</span>
 </p>
-<p><br/>
+<p>
 </p>
   </div>
