@@ -1,420 +1,420 @@
 <div id="txtcont" class="span9" style="position: relative;">
-    <p><br/>
-<span class='tline' id='l7' data-llen='155:181'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-1a' );" name="030-1a" class="pb">[030-1a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l8' data-llen='181:189'>欽定四庫全書</span><br/>
-<span class='tline' id='l9' data-llen='189:198'>　仲氏易卷三十</span><br/>
-<span class='tline' id='l10' data-llen='198:219'>　　　　　　　　　　翰林院檢討毛竒齡撰</span><br/>
-<span class='tline' id='l11' data-llen='219:224'>説卦傳</span><br/>
-<span class='tline' id='l12' data-llen='224:247'>　按漢史秦火後漢初易亡説卦三篇至宣帝時河内</span><br/>
-<span class='tline' id='l13' data-llen='247:270'>　女子伐老屋得之隋經籍志所載亦然但其云三篇</span><br/>
-<span class='tline' id='l14' data-llen='270:293'>　今祗一篇或云合序卦雜卦為三或云其二已亡觀</span><br/>
-<span class='tline' id='l15' data-llen='293:316'>　漢儒説易多有補傳所未備者可驗大抵是篇初釋</span><br/>
-<span class='tline' id='l16' data-llen='316:342'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-1b' );" name="030-1b" class="pb">[030-1b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l17' data-llen='342:365'>　繫辭而其後分説諸卦則如爾雅釋文類但説諸卦</span><br/>
-<span class='tline' id='l18' data-llen='365:388'>　所有而辭中釋義已見此解經之最肻綮者宋儒狂</span><br/>
-<span class='tline' id='l19' data-llen='388:411'>　妄如歐陽修輩動輙云非夫子之書可云無忌憚之</span><br/>
-<span class='tline' id='l20' data-llen='411:433'>　至者矣朱氏本義増註九家易文附各節下兹更</span><br/>
-<span class='tline' id='l21' data-llen='433:456'>　廣他儒所註以資考索儻更有聞見不妨陸續附入</span><br/>
-<span class='tline' id='l22' data-llen='456:460'>　耳</span><br/>
-<span class='tline' id='l23' data-llen='460:488'>昔者聖人之作易也幽賛<span class='krp-note'>古文/作讃</span>於神明而生蓍參天兩</span><br/>
-<span class='tline' id='l24' data-llen='488:518'>地而倚<span class='krp-note'>周禮註作竒/蜀才本同</span>數觀變于隂陽而立卦發揮于剛</span><br/>
-<span class='tline' id='l25' data-llen='518:544'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-2a' );" name="030-2a" class="pb">[030-2a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l26' data-llen='544:567'>柔而生爻和順于道徳而理于義窮理盡性以至于命</span><br/>
-<span class='tline' id='l27' data-llen='567:590'>　蓍者筮也生蓍者作筮也猶前所云生吉凶生變化</span><br/>
-<span class='tline' id='l28' data-llen='590:613'>　也舊解作生蓍澤中似畫卦反從生蓍後起誤矣參</span><br/>
-<span class='tline' id='l29' data-llen='613:636'>　天兩地依以立數曰倚數以畫卦言則三陽畫參天</span><br/>
-<span class='tline' id='l30' data-llen='636:659'>　也中分而為兩兩地也以重卦言則純卦三畫參天</span><br/>
-<span class='tline' id='l31' data-llen='659:682'>　也重卦兩其三兩地也以爻數言三其三畫而為九</span><br/>
-<span class='tline' id='l32' data-llen='682:705'>　故陽稱九參天也兩其三畫而為六故隂稱六兩地</span><br/>
-<span class='tline' id='l33' data-llen='705:728'>　也以䇿數言則三變三竒而成陽參天也三變兩竒</span><br/>
-<span class='tline' id='l34' data-llen='728:754'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-2b' );" name="030-2b" class="pb">[030-2b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l35' data-llen='754:777'>　而成隂兩地也以扐數言凡四十九䇿中扐十三為</span><br/>
-<span class='tline' id='l36' data-llen='777:800'>　陽則賸三十六以三乘之三其十二䇿參天也扐二</span><br/>
-<span class='tline' id='l37' data-llen='800:823'>　十五為隂則賸二十四以兩乘之兩其十二䇿兩地</span><br/>
-<span class='tline' id='l38' data-llen='823:846'>　也推之而至乾䇿二百一十六坤䇿一百四十四乾</span><br/>
-<span class='tline' id='l39' data-llen='846:869'>　䇿六千九百一十二坤䇿四千六百零八其參兩皆</span><br/>
-<span class='tline' id='l40' data-llen='869:914'>　然<span class='krp-note'>有謂一數不用者陽以一包二而為三隂以兩兼/一而為兩故陽從三起隂從二起此唐孔氏説而</span></span><br/>
-<span class='tline' id='l41' data-llen='914:961'>　<span class='krp-note'>阮逸作僞闗朗易𫝊龍之與崔憬一四不用之説大/同小異若謂一二三四五者天地之生數天生居三</span></span><br/>
-<span class='tline' id='l42' data-llen='961:1008'>　<span class='krp-note'>一三五也地生居兩二四也用生數不用成數故曰/參兩則萬一用成數将參地兩天矣此説在蘓𫝊亦</span></span><br/>
-<span class='tline' id='l43' data-llen='1008:1034'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-3a' );" name="030-3a" class="pb">[030-3a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l44' data-llen='1034:1080'>　<span class='krp-note'>有之然極是無理至朱子云天圓地方圓則徑一圍/三故參天方則徑一圍四故兩地則何不云參天四</span></span><br/>
-<span class='tline' id='l45' data-llen='1080:1126'>　<span class='krp-note'>地乎况實推宻率徑一不必圍三也他如建安丘氏/謂陽一畫而三分之則隂得其二分以隂中缺一分</span></span><br/>
-<span class='tline' id='l46' data-llen='1126:1167'>　<span class='krp-note'>也則萬一畫隂者中稍寛稍窄有時兩有/餘有時一不足矣此皆巧説之難通者</span>分隂陽而</span><br/>
-<span class='tline' id='l47' data-llen='1167:1190'>　立卦發剛柔而成爻與生蓍倚數皆一時事無次第</span><br/>
-<span class='tline' id='l48' data-llen='1190:1213'>　先後者故象立而義生其間如一隂一陽之道與乾</span><br/>
-<span class='tline' id='l49' data-llen='1213:1236'>　易坤簡之徳各歸于義理因之盡義理以究其繼善</span><br/>
-<span class='tline' id='l50' data-llen='1236:1259'>　之性而馴至于達天知命之命先聖之作易如是也</span><br/>
-<span class='tline' id='l51' data-llen='1259:1295'>　<span class='krp-note'>道徳性命皆兩繋所已言者故命兼吉/凶變化為立卦生蓍者言與他處不同</span></span><br/>
-<span class='tline' id='l52' data-llen='1295:1321'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-3b' );" name="030-3b" class="pb">[030-3b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l53' data-llen='1321:1344'>昔者聖人之作易也将以順性命之理是以立天之道</span><br/>
-<span class='tline' id='l54' data-llen='1344:1367'>曰隂與陽立地之道曰柔與剛立人之道曰仁與義兼</span><br/>
-<span class='tline' id='l55' data-llen='1367:1390'>三才而兩之故易六畫而成卦分隂分陽迭用柔剛故</span><br/>
-<span class='tline' id='l56' data-llen='1390:1406'>易六位<span class='krp-note'>一本亦/作畫</span>而成章</span><br/>
-<span class='tline' id='l57' data-llen='1406:1429'>　乃後聖以之而繋辭則知隂陽剛柔其本三才而立</span><br/>
-<span class='tline' id='l58' data-llen='1429:1452'>　極者在畫卦之時已然故以之推易復取隂陽之類</span><br/>
-<span class='tline' id='l59' data-llen='1452:1475'>　聚者而分之剛柔之變化者而迭用之即卦畫而成</span><br/>
-<span class='tline' id='l60' data-llen='1475:1498'>　辭章焉按乾鑿度云物有隂陽故三畫成乾六畫成</span><br/>
-<span class='tline' id='l61' data-llen='1498:1524'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-4a' );" name="030-4a" class="pb">[030-4a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l62' data-llen='1524:1536'>　坤其稱物亦就分聚言</span><br/>
-<span class='tline' id='l63' data-llen='1536:1559'>天地定位山澤通氣雷風相薄水火不相射八卦相錯</span><br/>
-<span class='tline' id='l64' data-llen='1559:1583'>數往者順知來者逆是故易逆數也雷以動之風以散之</span><br/>
-<span class='tline' id='l65' data-llen='1583:1617'>雨以潤之日以烜<span class='krp-note'>一作/<img height='20' width='20' alt='&amp;KR3578' title='KR3578' src='https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3578.png'/></span>之艮以止之兑以説之乾以君</span><br/>
-<span class='tline' id='l66' data-llen='1617:1631'><span class='krp-note'>舉正/作居</span>之坤以蔵之</span><br/>
-<span class='tline' id='l67' data-llen='1631:1660'>　則以乾坤二聚卦定位而已不相易也<span class='krp-note'>故曰不/易之卦</span>其可</span><br/>
-<span class='tline' id='l68' data-llen='1660:1687'>　易者聚凡十二卦祗有山澤有雷風而並無水火<span class='krp-note'>剥/復</span></span><br/>
-<span class='tline' id='l69' data-llen='1687:1724'>　<span class='krp-note'>臨觀否泰大壯遯夬姤中孚/小過共十二卦皆無坎離者</span>即推之為子母易卦凡</span><br/>
-<span class='tline' id='l70' data-llen='1724:1750'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-4b' );" name="030-4b" class="pb">[030-4b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l71' data-llen='1750:1781'>　十卦亦祗有山澤有雷風而並無水火<span class='krp-note'>咸恒損益萃/升頤大畜无</span></span><br/>
-<span class='tline' id='l72' data-llen='1781:1820'>　<span class='krp-note'>妄大過共十卦/亦皆無坎離者</span>是何也則以山澤可通氣<span class='krp-note'>自剥臨通/地氣遯夬</span></span><br/>
-<span class='tline' id='l73' data-llen='1820:1863'>　<span class='krp-note'>通天氣外咸損則兩相通氣若以卦/位言則艮東北兑正西不相通矣</span>雷風可相薄<span class='krp-note'>自/復</span></span><br/>
-<span class='tline' id='l74' data-llen='1863:1909'>　<span class='krp-note'>臨與地廹壯姤與天廹外恒益則自相廹薄如以陳/氏先天位言則震東北巽西南不相廹矣薄廹也近</span></span><br/>
-<span class='tline' id='l75' data-llen='1909:1949'>　<span class='krp-note'>也/</span>而水火則必不相射<span class='krp-note'>坎離一與四子交則隂陽分/矣射者相對發也自不曉推</span></span><br/>
-<span class='tline' id='l76' data-llen='1949:1996'>　<span class='krp-note'>易欲以卦位南北當之而不合致鄭𤣥虞翻輩皆以/射訓入謂相對而不相入而陳氏作先天圗位反指</span></span><br/>
-<span class='tline' id='l77' data-llen='1996:2042'>　<span class='krp-note'>此數語作証然相薄非相對若不相射則顯然與圗/位離東坎西相反于是解射為犯為厭為侵害展轉</span></span><br/>
-<span class='tline' id='l78' data-llen='2042:2074'>　<span class='krp-note'>悖謬焉知有確然/不易如是者也</span>以相射則不可易也故觀推易者</span><br/>
-<span class='tline' id='l79' data-llen='2074:2100'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-5a' );" name="030-5a" class="pb">[030-5a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l80' data-llen='2100:2123'>　不必八純與八重相序順也只相錯而移易生乎其</span><br/>
-<span class='tline' id='l81' data-llen='2123:2146'>　間盖從既往之卦而數之則因純得重純在雜先從</span><br/>
-<span class='tline' id='l82' data-llen='2146:2169'>　未推之卦而欲知之則重反生純純後于雜故錯之</span><br/>
-<span class='tline' id='l83' data-llen='2169:2192'>　為雜以逆作順凡為易之義皆然不止轉易對易一</span><br/>
-<span class='tline' id='l84' data-llen='2192:2215'>　反一正為逆易已也故六子為乾坤所生而推卦逆</span><br/>
-<span class='tline' id='l85' data-llen='2215:2238'>　易則六子可以先乾坤此固與畫卦次第變易交易</span><br/>
-<span class='tline' id='l86' data-llen='2238:2248'>　之序順有不同者</span><br/>
-<span class='tline' id='l87' data-llen='2248:2271'>帝出乎震齊乎巽相見乎離致役乎坤説言乎兑戰乎</span><br/>
-<span class='tline' id='l88' data-llen='2271:2297'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-5b' );" name="030-5b" class="pb">[030-5b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l89' data-llen='2297:2320'>乾勞乎坎成言乎艮萬物出乎震震東方也齊乎巽巽</span><br/>
-<span class='tline' id='l90' data-llen='2320:2343'>東南也齊也者言萬物之潔齊也離也者明也萬物皆</span><br/>
-<span class='tline' id='l91' data-llen='2343:2366'>相見南方之卦也聖人南面而聴天下嚮明而治盖取</span><br/>
-<span class='tline' id='l92' data-llen='2366:2389'>諸此也坤也者地也萬物皆致養焉故曰致役乎坤兑</span><br/>
-<span class='tline' id='l93' data-llen='2389:2412'>正秋也萬物之所説也故曰説言乎兑戰乎乾乾西北</span><br/>
-<span class='tline' id='l94' data-llen='2412:2435'>之卦也言隂陽相薄也坎者水也正北方之卦也勞卦</span><br/>
-<span class='tline' id='l95' data-llen='2435:2458'>也萬物之所歸也故曰勞乎坎艮東北之卦也萬物之</span><br/>
-<span class='tline' id='l96' data-llen='2458:2474'>所成終而所成始也故曰成言乎艮</span><br/>
-<span class='tline' id='l97' data-llen='2474:2500'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-6a' );" name="030-6a" class="pb">[030-6a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l98' data-llen='2500:2523'>　故卦通乎時時見乎位假如以大衍之數觀八卦時</span><br/>
-<span class='tline' id='l99' data-llen='2523:2546'>　位而考其道徳則位從東起時從春首由是而周之</span><br/>
-<span class='tline' id='l100' data-llen='2546:2556'>　以示諸推移之法</span><br/>
-<span class='tline' id='l101' data-llen='2556:2579'>　按震巽離坤兑乾坎艮此文王所演夫子所傳之卦</span><br/>
-<span class='tline' id='l102' data-llen='2579:2623'>　位<span class='krp-note'>文所演見各卦如坤之西南得朋蹇之不利東/北類夫子所傳如大衍之數配位及此諸節類</span>萬</span><br/>
-<span class='tline' id='l103' data-llen='2623:2646'>　古不可易者故夫子于此凡三復言之朱子信陳邵</span><br/>
-<span class='tline' id='l104' data-llen='2646:2669'>　先天之説妄指為伏羲所畫反以此文王孔子所傳</span><br/>
-<span class='tline' id='l105' data-llen='2669:2692'>　卦位註曰未詳何也及後節仍如此序又註曰未詳</span><br/>
-<span class='tline' id='l106' data-llen='2692:2718'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-6b' );" name="030-6b" class="pb">[030-6b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l107' data-llen='2718:2741'>　何也豈真未詳耶抑必如陳氏者而後能詳耶至他</span><br/>
-<span class='tline' id='l108' data-llen='2741:2764'>　日又曰文王八卦有些似京房卦氣則顯相牴牾矣</span><br/>
-<span class='tline' id='l109' data-llen='2764:2787'>　帝者天也崔憬曰天之王氣也如震王于春離王于</span><br/>
-<span class='tline' id='l110' data-llen='2787:2810'>　夏類若指王者言則聖人南面而聴天下為複見矣</span><br/>
-<span class='tline' id='l111' data-llen='2810:2833'>　乾坎艮震四卦皆陽巽離坤兑四卦皆隂隂疑于陽</span><br/>
-<span class='tline' id='l112' data-llen='2833:2856'>　必戰故遇乾而戰此秋冬相交之時隂陽相嬗之候</span><br/>
-<span class='tline' id='l113' data-llen='2856:2879'>　也天氣轉環于物見之故復言物何氏訂詁曰潔齊</span><br/>
-<span class='tline' id='l114' data-llen='2879:2902'>　即姑洗之意致役者坤為天養物如效役然勞者養</span><br/>
-<span class='tline' id='l115' data-llen='2902:2928'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-7a' );" name="030-7a" class="pb">[030-7a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l116' data-llen='2928:2951'>　物至此有成勞矣艮陽盡于上而震復生陽于下故</span><br/>
-<span class='tline' id='l117' data-llen='2951:2974'>　艮止震起比之剥復其次第如此仲氏嘗曰八卦方</span><br/>
-<span class='tline' id='l118' data-llen='2974:2997'>　位其理多端即以相生論之火不能生金故離火兑</span><br/>
-<span class='tline' id='l119' data-llen='2997:3020'>　金必間坤土此人所曉也水能生木矣而坎水震木</span><br/>
-<span class='tline' id='l120' data-llen='3020:3043'>　又間艮土天下有水木不夾土而可以自生者乎若</span><br/>
-<span class='tline' id='l121' data-llen='3043:3066'>　震木取離火必藉巽風兑金化坎水煅以乾陽此亦</span><br/>
-<span class='tline' id='l122' data-llen='3066:3089'>　一節之可驗者又曰天地西北髙而東南下山水皆</span><br/>
-<span class='tline' id='l123' data-llen='3089:3112'>　從西至東故乾起西北直領三男坤起西南間領三</span><br/>
-<span class='tline' id='l124' data-llen='3112:3138'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-7b' );" name="030-7b" class="pb">[030-7b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l125' data-llen='3138:3174'>　女又曰乾得隂數<span class='krp-note'>西北于大/衍數六</span>坤得陽數<span class='krp-note'>西南于大/衍數九</span>正隂</span><br/>
-<span class='tline' id='l126' data-llen='3174:3197'>　陽交互化生六子之所始故易緯謂陽始于亥而形</span><br/>
-<span class='tline' id='l127' data-llen='3197:3220'>　于丑隂始于已而形于未乾祖始而坤正形者以陽</span><br/>
-<span class='tline' id='l128' data-llen='3220:3249'>　之生物無形而隂之生物有形也此為至理<span class='krp-note'>乾坤鑿/度以乾</span></span><br/>
-<span class='tline' id='l129' data-llen='3249:3295'>　<span class='krp-note'>坤巽艮四隅卦為四門坎離震兑四方卦為四正皆/以為伏羲所定有云庖犧氏畫四象立四隅以定羣</span></span><br/>
-<span class='tline' id='l130' data-llen='3295:3341'>　<span class='krp-note'>物發生門而後立四正則在兩漢時無不以此為羲/畫原文即强名文王八卦猶非實録况可别作羲圗</span></span><br/>
-<span class='tline' id='l131' data-llen='3341:3348'>　<span class='krp-note'>乎/</span></span><br/>
-<span class='tline' id='l132' data-llen='3348:3379'>神也者玅<span class='krp-note'>王肅本作尠/董云尠成也</span>萬物而為言者也動萬物者莫</span><br/>
-<span class='tline' id='l133' data-llen='3379:3405'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-8a' );" name="030-8a" class="pb">[030-8a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l134' data-llen='3405:3435'>疾乎雷撓萬物者莫疾乎風燥萬物者莫熯<span class='krp-note'>徐本作暵/云熱暵也</span></span><br/>
-<span class='tline' id='l135' data-llen='3435:3462'><span class='krp-note'>説文/同</span>乎火説萬物者莫説乎澤潤萬物者莫潤乎水終</span><br/>
-<span class='tline' id='l136' data-llen='3462:3492'>萬物始萬物者莫盛乎艮故水火<span class='krp-note'>陸徳明本/有不字誤</span>相逮雷風</span><br/>
-<span class='tline' id='l137' data-llen='3492:3511'>不相悖山澤通氣然後能變化既成萬物也</span><br/>
-<span class='tline' id='l138' data-llen='3511:3534'>　乃復就六子之及物觀之而知乾坤即六子也故推</span><br/>
-<span class='tline' id='l139' data-llen='3534:3562'>　易者自乾坤不推外<span class='krp-note'>不易/之卦</span>凡以之玅物而羣分者水</span><br/>
-<span class='tline' id='l140' data-llen='3562:3585'>　火不相射而相及故聚卦無水火分卦有水火而況</span><br/>
-<span class='tline' id='l141' data-llen='3585:3608'>　雷風山澤之通氣而不相悖其變化及物固如是也</span><br/>
-<span class='tline' id='l142' data-llen='3608:3634'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-8b' );" name="030-8b" class="pb">[030-8b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l143' data-llen='3634:3657'>乾健也坤順也震動也巽入也坎陷也離麗也艮止也</span><br/>
-<span class='tline' id='l144' data-llen='3657:3662'>兑説也</span><br/>
-<span class='tline' id='l145' data-llen='3662:3685'>　故欲明易例請究觀八純之名物與象類而遍指之</span><br/>
-<span class='tline' id='l146' data-llen='3685:3708'>　以為文王推易屬辭之用盖方位時氣如前所云則</span><br/>
-<span class='tline' id='l147' data-llen='3708:3736'>　周易次第也自乾坤父母順生六子如後所云<span class='krp-note'>謂乾/天也</span></span><br/>
-<span class='tline' id='l148' data-llen='3736:3776'>　<span class='krp-note'>節/</span>則羲易次第也<span class='krp-note'>伏羲畫卦次第如此必欲强/作先天之名則此正先天也</span>今但</span><br/>
-<span class='tline' id='l149' data-llen='3776:3799'>　釋八純而不及重卦則未可移易自當以羲易次第</span><br/>
-<span class='tline' id='l150' data-llen='3799:3822'>　為八卦先後故自此及終凡十二節皆用此為序此</span><br/>
-<span class='tline' id='l151' data-llen='3822:3848'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-9a' );" name="030-9a" class="pb">[030-9a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l152' data-llen='3848:3871'>　正漢儒所傳虙羲作十言之教曰乾坤震巽坎離艮</span><br/>
-<span class='tline' id='l153' data-llen='3871:3894'>　兑消息无文字謂之易者審此則先天之圗可不作</span><br/>
-<span class='tline' id='l154' data-llen='3894:3915'>　矣風善入火必附物以為體故曰巽入曰離麗</span><br/>
-<span class='tline' id='l155' data-llen='3915:3938'>乾為馬坤為牛震為龍巽為雞坎為豕離為雉艮為狗</span><br/>
-<span class='tline' id='l156' data-llen='3938:3943'>兑為羊</span><br/>
-<span class='tline' id='l157' data-llen='3943:3966'>　此逺取諸物也唐孔氏曰巽主號令雞善知時坎主</span><br/>
-<span class='tline' id='l158' data-llen='3966:3989'>　水瀆豕處汚濕鄭康成謂狗以善守能止人禮羊曰</span><br/>
-<span class='tline' id='l159' data-llen='3989:4028'>　柔毛史記弱如羊<span class='krp-note'>或謂兑金生于土羊亦生于土如/西域土可生羊而土怪稱羵羊可</span></span><br/>
-<span class='tline' id='l160' data-llen='4028:4054'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-9b' );" name="030-9b" class="pb">[030-9b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l161' data-llen='4054:4082'>　<span class='krp-note'>驗則離之鱉蟹龜蚌皆生水/者豈離火為坎水所生故耶</span></span><br/>
-<span class='tline' id='l162' data-llen='4082:4105'>乾為首坤為腹震為足巽為股坎為耳離為目艮為手</span><br/>
-<span class='tline' id='l163' data-llen='4105:4110'>兑為口</span><br/>
-<span class='tline' id='l164' data-llen='4110:4133'>　此近取諸身也坤善蔵為腹巽則股順隨足其義也</span><br/>
-<span class='tline' id='l165' data-llen='4133:4156'>　上連下坼其象也唐孔氏曰坎北方主聴故為耳離</span><br/>
-<span class='tline' id='l166' data-llen='4156:4179'>　南方主視故為目何氏訂詁曰横亘而在上能止物</span><br/>
-<span class='tline' id='l167' data-llen='4179:4202'>　者手也開坼而在上能悦物者口也按孔氏亦以為</span><br/>
-<span class='tline' id='l168' data-llen='4202:4225'>　西方卦主言語此以五事配五行者然與書洪範所</span><br/>
-<span class='tline' id='l169' data-llen='4225:4252'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-10a' );" name="030-10a" class="pb">[030-10a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l170' data-llen='4252:4275'>　註不同又手能止物止即拘也故虞仲翔以後文艮</span><br/>
-<span class='tline' id='l171' data-llen='4275:4285'>　為狗作為拘可驗</span><br/>
-<span class='tline' id='l172' data-llen='4285:4308'>乾天也故稱乎父坤地也故稱乎母震一索而得男故</span><br/>
-<span class='tline' id='l173' data-llen='4308:4331'>謂之長男巽一索而得女故謂之長女坎再索而得男</span><br/>
-<span class='tline' id='l174' data-llen='4331:4354'>故謂之中男離再索而得女故謂之中女艮三索而得</span><br/>
-<span class='tline' id='l175' data-llen='4354:4373'>男故謂之少男兑三索而得女故謂之少女</span><br/>
-<span class='tline' id='l176' data-llen='4373:4395'>　此羲易次第也以乾坤為父母六子為男女始此</span><br/>
-<span class='tline' id='l177' data-llen='4395:4418'>乾為天為圜為君為父為玉為金為寒為氷為大赤為</span><br/>
-<span class='tline' id='l178' data-llen='4418:4445'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-10b' );" name="030-10b" class="pb">[030-10b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l179' data-llen='4445:4480'>良馬為老馬為瘠<span class='krp-note'>京房荀爽/本作柴</span>馬為駁<span class='krp-note'>陸徳明/本作駹</span>馬為木果</span><br/>
-<span class='tline' id='l180' data-llen='4480:4526'><span class='krp-note'>朱氏本義云荀九家易此下有為龍為直為衣為言為/按虞氏易又有為徳為王為人為神為盈為甲為施</span></span><br/>
-<span class='tline' id='l181' data-llen='4526:4542'><span class='krp-note'>嘉為好剛何/妥有為  健</span></span><br/>
-<span class='tline' id='l182' data-llen='4542:4565'>　按荀慈明集九家易解十卷見諸史志而文獻通考</span><br/>
-<span class='tline' id='l183' data-llen='4565:4588'>　引陳氏説謂漢淮南王所聘明易者九人荀爽嘗爲</span><br/>
-<span class='tline' id='l184' data-llen='4588:4623'>　之集解<span class='krp-note'>蔡介夫云淮南九人撰/道訓二十篇號九師易</span>但陸氏作釋文其序</span><br/>
-<span class='tline' id='l185' data-llen='4623:4647'>　録列九家名氏明有京房馬融鄭𤣥宋衷虞翻陸績</span><br/>
-<span class='tline' id='l186' data-llen='4647:4671'>　姚信翟子𤣥荀爽九人其但稱荀氏者或慈明總集</span><br/>
-<span class='tline' id='l187' data-llen='4671:4698'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-11a' );" name="030-11a" class="pb">[030-11a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l188' data-llen='4698:4736'>　之未可知也<span class='krp-note'>胡震亨云淮南自云九師有道訓/二篇並非荀爽九家陳氏誤矣</span>但其</span><br/>
-<span class='tline' id='l189' data-llen='4736:4759'>　書已亡朱氏據釋文所引數語耳崔憬云天體清剛</span><br/>
-<span class='tline' id='l190' data-llen='4759:4782'>　故為金玉孔穎達云寒氷西北地也大赤盛陽之色</span><br/>
-<span class='tline' id='l191' data-llen='4782:4828'>　<span class='krp-note'>楊升庵謂明堂位商之大白周之大赤皆旂名左傳/分康叔以少帛旃為大赤註云大赤通帛周禮象路</span></span><br/>
-<span class='tline' id='l192' data-llen='4828:4867'>　<span class='krp-note'>建大赤以朝皆是第此但言色不必/是旂盖旂名本易非易取旂名也</span>老馬行乆瘠馬</span><br/>
-<span class='tline' id='l193' data-llen='4867:4890'>　多骨説文駮馬踞牙能食虎豹木發于春而果成于</span><br/>
-<span class='tline' id='l194' data-llen='4890:4897'>　夏皆陽物</span><br/>
-<span class='tline' id='l195' data-llen='4897:4925'>坤為地為母為布為釡為吝<span class='krp-note'>京房本/作遴</span>嗇為均為子母牛</span><br/>
-<span class='tline' id='l196' data-llen='4925:4952'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-11b' );" name="030-11b" class="pb">[030-11b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l197' data-llen='4952:4986'>為大輿為文為衆為柄其於地<span class='krp-note'>一作/色</span>也為黑<span class='krp-note'>荀九家易/有為牝為</span></span><br/>
-<span class='tline' id='l198' data-llen='4986:5036'><span class='krp-note'>迷為方為囊為裳為黄為帛為漿為按荀氏又有為邑/  九家易又有為亂  虞氏易有  理為事為大業為</span></span><br/>
-<span class='tline' id='l199' data-llen='5036:5085'><span class='krp-note'>臣為民為鬼為虚為乙為拇為喪為終為害為死為萃/為土為器為晦為國為暑為兕虎  干寳有為順  盧</span></span><br/>
-<span class='tline' id='l200' data-llen='5085:5103'><span class='krp-note'>氏有為師為左/傳杜註有  馬</span></span><br/>
-<span class='tline' id='l201' data-llen='5103:5126'>　布者播也釡者孔氏曰化生成熟也吝嗇者受而不</span><br/>
-<span class='tline' id='l202' data-llen='5126:5149'>　施也均者土勻勻也子母牛者孳牛也九家易曰萬</span><br/>
-<span class='tline' id='l203' data-llen='5149:5167'>　物相雜故曰文柄者生物之根黑隂色</span><br/>
-<span class='tline' id='l204' data-llen='5167:5209'>震為雷為龍<span class='krp-note'>虞氏干寳本俱作駹虞云蒼色干云雜色/李鼎祚本作駀亦云蒼色震東方故為駀</span></span><br/>
-<span class='tline' id='l205' data-llen='5209:5236'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-12a' );" name="030-12a" class="pb">[030-12a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l206' data-llen='5236:5279'>為𤣥黄為旉<span class='krp-note'>古文又作専姚信云専一也虞翻李鼎祚/本同李云陽在初隠静未出觸坤故專即</span></span><br/>
-<span class='tline' id='l207' data-llen='5279:5312'><span class='krp-note'>其静/也專</span>為大塗為决躁為蒼筤<span class='krp-note'>古或/作琅</span>竹為萑葦其於馬也</span><br/>
-<span class='tline' id='l208' data-llen='5312:5349'>為善鳴為馵<span class='krp-note'>京房本作朱荀爽/同云陽在下也</span>足為作足為的<span class='krp-note'>説文/作馰</span>顙</span><br/>
-<span class='tline' id='l209' data-llen='5349:5384'>其於稼也為反<span class='krp-note'>虞翻本作阪/云陵阪也</span>生其究為健為蕃鮮<span class='krp-note'>荀九/家有</span></span><br/>
-<span class='tline' id='l210' data-llen='5384:5433'><span class='krp-note'>為玉為鵠為鼔臆按吳澄謂玉當為圭鵠當為鶴不知/何據此豈可以  見改舊文者何妄誕至此  虞氏易</span></span><br/>
-<span class='tline' id='l211' data-llen='5433:5483'><span class='krp-note'>有為侯為主為兄為夫為言為行為樂為出為作為麋/鹿  蜀才有為喜笑  左傳杜註有為木為諸侯  國</span></span><br/>
-<span class='tline' id='l212' data-llen='5483:5494'><span class='krp-note'>語韋註/有為車</span></span><br/>
-<span class='tline' id='l213' data-llen='5494:5527'>　震初得天地之氣以生故天𤣥地黄<span class='krp-note'>仲氏曰赤黑以/陽陰言就燥赤</span></span><br/>
-<span class='tline' id='l214' data-llen='5527:5554'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-12b' );" name="030-12b" class="pb">[030-12b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l215' data-llen='5554:5591'>　<span class='krp-note'>而流濕黑也𤣥黄以天地/言積氣𤣥而積塊黄也</span>得間合以成東方之蒼色</span><br/>
-<span class='tline' id='l216' data-llen='5591:5614'>　觀此則上文為龍舊本有作為駹者是複見也旉者</span><br/>
-<span class='tline' id='l217' data-llen='5614:5654'>　花也<span class='krp-note'>古花本荂字荂即/旉字亦作<img height='20' width='20' alt='&amp;KR1929' title='KR1929' src='https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1929.png'/>音敷</span>木榮也大塗者一竒甫動而</span><br/>
-<span class='tline' id='l218' data-llen='5654:5677'>　兩偶開通如塗然徐仲山曰震與巽皆初得隂陽之</span><br/>
-<span class='tline' id='l219' data-llen='5677:5700'>　氣而賁奮以生故震曰决躁而巽為躁卦蒼筤陸農</span><br/>
-<span class='tline' id='l220' data-llen='5700:5723'>　師曰幼竹也萑葦亦竹類皆本末孤生無附椏者震</span><br/>
-<span class='tline' id='l221' data-llen='5723:5746'>　之怒生類似之善鳴以雷作足以動馵足的顙則皆</span><br/>
-<span class='tline' id='l222' data-llen='5746:5769'>　以色白而動而易見爾雅左足白馵秦風有馬白顛</span><br/>
-<span class='tline' id='l223' data-llen='5769:5796'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-13a' );" name="030-13a" class="pb">[030-13a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l224' data-llen='5796:5819'>　若作足則雙足齊舉魯詩思馬斯作是也反生謂萌</span><br/>
-<span class='tline' id='l225' data-llen='5819:5842'>　芽自下而生反勾向上宋衷云即枲豆之屬帶甲生</span><br/>
-<span class='tline' id='l226' data-llen='5842:5865'>　者乾鑿度云物有始有壯有究言究極也蕃鮮孔氏</span><br/>
-<span class='tline' id='l227' data-llen='5865:5878'>　曰草木之生蕃育而鮮明</span><br/>
-<span class='tline' id='l228' data-llen='5878:5901'>巽為木為風為長女為繩直為工為白為長為髙為進</span><br/>
-<span class='tline' id='l229' data-llen='5901:5939'>退為不果為臭<span class='krp-note'>虞翻本作嗅云嗅氣也風至知氣/李鼎祚本同王肅本作為香臭</span>其於</span><br/>
-<span class='tline' id='l230' data-llen='5939:5983'>人也為寡<span class='krp-note'>古本作宣云黒白雜為宣鄭𤣥本同謂四月/蘼草死髮在人體猶靡草在地虞翻云為白</span></span><br/>
-<span class='tline' id='l231' data-llen='5983:6031'><span class='krp-note'>故宣髮馬君以宣為寡髮非也李鼎祚本亦同與按考/工記車人之事半矩謂之宣註頭髮頽落曰宣  寡同</span></span><br/>
-<span class='tline' id='l232' data-llen='6031:6058'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-13b' );" name="030-13b" class="pb">[030-13b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l233' data-llen='6058:6091'><span class='krp-note'>義/</span>髮為廣<span class='krp-note'>鄭𤣥本/作黄</span>顙為多白眼為近利市三倍其究為躁</span><br/>
-<span class='tline' id='l234' data-llen='6091:6139'>卦<span class='krp-note'>荀九家有為楊為鸛為按吳澄云鸛當為鴻不知何/據  虞氏易有為妻  處為隨為魚為號為包為杞</span></span><br/>
-<span class='tline' id='l235' data-llen='6139:6149'><span class='krp-note'>為白茅/為舞</span></span><br/>
-<span class='tline' id='l236' data-llen='6149:6172'>　木王東方而巽以東南而與震同屬然亦以木可矯</span><br/>
-<span class='tline' id='l237' data-llen='6172:6195'>　輮巽順之義也又巽以命令齊物如繩之直木而工</span><br/>
-<span class='tline' id='l238' data-llen='6195:6218'>　則操之正所云巽為徳之制者記曰白受采白者質</span><br/>
-<span class='tline' id='l239' data-llen='6218:6241'>　也巽以二陽蔽一隂内隂為文外陽為質故色白長</span><br/>
-<span class='tline' id='l240' data-llen='6241:6264'>　者短之反風長且髙巽則進退不决臭風所發也寡</span><br/>
-<span class='tline' id='l241' data-llen='6264:6291'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-14a' );" name="030-14a" class="pb">[030-14a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l242' data-llen='6291:6314'>　髮者隂血不上行也廣顙陽上盛也眼以白為陽以</span><br/>
-<span class='tline' id='l243' data-llen='6314:6337'>　黒為隂何氏訂詁曰離目上下白而黒居中巽目上</span><br/>
-<span class='tline' id='l244' data-llen='6337:6360'>　中白而黒掩在下是白眼多也隂主利欲凡利必于</span><br/>
-<span class='tline' id='l245' data-llen='6360:6383'>　市曰利市言利者以三倍為率詩如賈三倍是也巽</span><br/>
-<span class='tline' id='l246' data-llen='6383:6406'>　木乾體而主利于内凡乾之金玉皆有之故近利如</span><br/>
-<span class='tline' id='l247' data-llen='6406:6414'>　此躁卦見前</span><br/>
-<span class='tline' id='l248' data-llen='6414:6458'>坎為水為溝瀆為隠伏為矯<span class='krp-note'>一作/橋</span>輮<span class='krp-note'>宋衷王<img height='20' width='20' alt='&amp;KR1561' title='KR1561' src='https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1561.png'/>本作楺/京房本作柔荀爽</span></span><br/>
-<span class='tline' id='l249' data-llen='6458:6490'><span class='krp-note'>本作/橈</span>為弓輪<span class='krp-note'>姚信本/作倫</span>其於人也為加憂為心病為耳痛</span><br/>
-<span class='tline' id='l250' data-llen='6490:6517'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-14b' );" name="030-14b" class="pb">[030-14b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l251' data-llen='6517:6546'>為血卦為赤其於馬也為美脊為亟<span class='krp-note'>荀爽作極/云中也</span>心為下</span><br/>
-<span class='tline' id='l252' data-llen='6546:6569'>首為薄蹄為曳其於輿也為多眚為通為月為盜其於</span><br/>
-<span class='tline' id='l253' data-llen='6569:6611'>木也為堅多心<span class='krp-note'>荀九家有為宫為律為可為棟為叢棘/為狐為蒺藜為桎梏  按荀氏又有為</span></span><br/>
-<span class='tline' id='l254' data-llen='6611:6663'><span class='krp-note'>志為虞氏易有為孚為疑為後為蹇為臀為酒左侯果/有  險  干寳有為法為夜  盧氏有為車    傳杜</span></span><br/>
-<span class='tline' id='l255' data-llen='6663:6672'><span class='krp-note'>註有/為衆</span></span><br/>
-<span class='tline' id='l256' data-llen='6672:6695'>　隠伏水藏地中也矯曲使直輮直使曲水流似之惟</span><br/>
-<span class='tline' id='l257' data-llen='6695:6718'>　險故憂惟憂故心病其曰耳痛者坎為耳也血與水</span><br/>
-<span class='tline' id='l258' data-llen='6718:6741'>　為類赤者血色坎陽在中象馬脊以心堅故亟第水</span><br/>
-<span class='tline' id='l259' data-llen='6741:6768'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-15a' );" name="030-15a" class="pb">[030-15a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l260' data-llen='6768:6791'>　流必首先就下而馬首似之水廹地而行而馬蹄之</span><br/>
-<span class='tline' id='l261' data-llen='6791:6814'>　不能作似之水漫衍如牽曳而馬之迣後似之其於</span><br/>
-<span class='tline' id='l262' data-llen='6814:6837'>　馬也至此皆指馬言與震同或曰坎之象馬以馬興</span><br/>
-<span class='tline' id='l263' data-llen='6837:6860'>　龍類龍水中馬故推龍及馬不通坎為中男尚得陽</span><br/>
-<span class='tline' id='l264' data-llen='6860:6883'>　性之純者多眚謂輿不任載也通者水空明也月水</span><br/>
-<span class='tline' id='l265' data-llen='6883:6904'>　之精也盜者水潜竊如盜也堅多心剛在内也</span><br/>
-<span class='tline' id='l266' data-llen='6904:6927'>離為火為日為電為中女為甲胄為戈兵其於人也為</span><br/>
-<span class='tline' id='l267' data-llen='6927:6963'>大腹為乾卦為鼈為蟹為蠃<span class='krp-note'>京房本作螺/姚信本作蠡</span>為蚌<span class='krp-note'>一本/作蜯</span>為</span><br/>
-<span class='tline' id='l268' data-llen='6963:6990'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-15b' );" name="030-15b" class="pb">[030-15b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l269' data-llen='6990:7031'>龜其於木也為科<span class='krp-note'>虞氏本/作折</span>上槁<span class='krp-note'>鄭氏本作槀干寳本作/熇  荀九家有為牝牛</span></span><br/>
-<span class='tline' id='l270' data-llen='7031:7083'><span class='krp-note'>罔按九家又有為飛鳥矢虞氏易有為隼為鶴為夏為/    馬融王肅俱有為    侯果有為黄牛  何妥有</span></span><br/>
-<span class='tline' id='l271' data-llen='7083:7112'><span class='krp-note'>為文明杜干寳有為晝為斧/  左傳  註有為鳥為諸侯</span></span><br/>
-<span class='tline' id='l272' data-llen='7112:7135'>　甲胄戈兵鼈蟹蠃蚌剛在外也大腹者中虚也乾者</span><br/>
-<span class='tline' id='l273' data-llen='7135:7153'>　躁也科亦中虚意木中虚則上必枯槁</span><br/>
-<span class='tline' id='l274' data-llen='7153:7181'>艮為山為徑路為小石為門闕為果蓏<span class='krp-note'>京房本/作墮</span>為閽寺</span><br/>
-<span class='tline' id='l275' data-llen='7181:7226'><span class='krp-note'>一本/作䦙</span>為指為狗<span class='krp-note'>虞翻本作拘云指屈伸/制物為拘李鼎祚本同</span>為䑕為黔<span class='krp-note'>鄭氏/本作</span></span><br/>
-<span class='tline' id='l276' data-llen='7226:7268'><span class='krp-note'>黚云虎豹之/屬貪冒之類</span>喙之屬其於木也為堅<span class='krp-note'>古一本/無堅字</span>多節<span class='krp-note'>荀九/家有</span></span><br/>
-<span class='tline' id='l277' data-llen='7268:7295'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-16a' );" name="030-16a" class="pb">[030-16a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l278' data-llen='7295:7344'><span class='krp-note'>為鼻為虎為狐州按管輅有鼻為面山之説虞氏易亦/有之或謂宋漳  陳安卿  麻衣易以艮為鼻此又後</span></span><br/>
-<span class='tline' id='l279' data-llen='7344:7395'><span class='krp-note'>起者子虞氏易有為背為皮為尾為篤實為求為宗廟/為小  為僮僕為城為狐狼  鄭𤣥有為鬼㝠門  左</span></span><br/>
-<span class='tline' id='l280' data-llen='7395:7406'><span class='krp-note'>傳杜註/有為言</span></span><br/>
-<span class='tline' id='l281' data-llen='7406:7429'>　一陽象山二隂則徑路也木實為果草實為蓏俱陽</span><br/>
-<span class='tline' id='l282' data-llen='7429:7452'>　實之表見者䑕與黔喙則皆陽剛之在口者周禮閽</span><br/>
-<span class='tline' id='l283' data-llen='7452:7475'>　人掌王宫中門之令寺人掌玊之内人及宫女之戒</span><br/>
-<span class='tline' id='l284' data-llen='7475:7498'>　令皆止人出入之官故取此作艮止義然其象則又</span><br/>
-<span class='tline' id='l285' data-llen='7498:7521'>　以門闕而推及之若吳幼清謂外一剛閽人無足内</span><br/>
-<span class='tline' id='l286' data-llen='7521:7548'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-16b' );" name="030-16b" class="pb">[030-16b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l287' data-llen='7548:7571'>　二柔寺人無陽則又過鑿矣夫子作傳時恐見不及</span><br/>
-<span class='tline' id='l288' data-llen='7571:7576'>　此耳</span><br/>
-<span class='tline' id='l289' data-llen='7576:7599'>兑為澤為少女為巫為口舌為毁折為附决其於地也</span><br/>
-<span class='tline' id='l290' data-llen='7599:7639'>為剛鹵為妾為羊<span class='krp-note'>鄭氏本作陽陽養無家女行賃炊㸑/賤于妾者郭璞引魯詩曰陽如之何</span></span><br/>
-<span class='tline' id='l291' data-llen='7639:7686'><span class='krp-note'>又曰巴濮之人自稱阿陽即此虞氏本作羔李氏易解/本同虞云羔女使皆取位賤故為羔舊讀以震駀為龍</span></span><br/>
-<span class='tline' id='l292' data-llen='7686:7735'><span class='krp-note'>艮拘為狗兑羔為羊皆已見上此為再出非孔子意也/  荀九家有為常為輔頰  按常不知何象陸徳明引</span></span><br/>
-<span class='tline' id='l293' data-llen='7735:7783'><span class='krp-note'>舊註云常西方神也若吳澄謂常者九旂之一下二竒/象通帛下垂上一偶象分繋于杠杜撰無理  虞氏易</span></span><br/>
-<span class='tline' id='l294' data-llen='7783:7799'><span class='krp-note'>有為妹為孔穴/為刑人為小</span></span><br/>
-<span class='tline' id='l295' data-llen='7799:7826'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-17a' );" name="030-17a" class="pb">[030-17a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l296' data-llen='7826:7849'>　巫口舌之官兑秋殺物故毁折一隂上升行将决去</span><br/>
-<span class='tline' id='l297' data-llen='7849:7872'>　兑乾之所以得夬也夬者决也説文西方曰鹵李氏</span><br/>
-<span class='tline' id='l298' data-llen='7872:7890'>　易解曰乾陽在下故剛澤水潤下故鹹</span><br/>
-<span class='tline' id='l299' data-llen='7890:7895'>序卦傳</span><br/>
-<span class='tline' id='l300' data-llen='7895:7918'>　二篇分上下名曰對易此文王周易所謂三易之一</span><br/>
-<span class='tline' id='l301' data-llen='7918:7941'>　者其例有對待而無聨屬夫子故創為聨屬之説以</span><br/>
-<span class='tline' id='l302' data-llen='7941:7964'>　寄意焉然仍不明註對待者書不盡言也黙而成之</span><br/>
-<span class='tline' id='l303' data-llen='7964:7971'>　存乎人也</span><br/>
-<span class='tline' id='l304' data-llen='7971:7998'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-17b' );" name="030-17b" class="pb">[030-17b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l305' data-llen='7998:8021'>有天地然後萬物生焉盈天地之間者惟萬物故受之</span><br/>
-<span class='tline' id='l306' data-llen='8021:8049'>以屯屯者盈也屯者物之始生也物<span class='krp-note'>郭京/作始</span>生必䝉故受</span><br/>
-<span class='tline' id='l307' data-llen='8049:8083'>之以䝉䝉者䝉<span class='krp-note'>郭京本此/下有昧也</span>也物之穉<span class='krp-note'>一作/稚</span>也物穉不可</span><br/>
-<span class='tline' id='l308' data-llen='8083:8112'>不養也故受之以<span class='krp-note'>李鼎祚本/無以字</span>需需者飲食之道也飲食</span><br/>
-<span class='tline' id='l309' data-llen='8112:8151'>必有訟故受之以訟<span class='krp-note'>僧一行易纂引孟喜序卦曰隂陽/養萬物必訟而成之君臣養萬民</span></span><br/>
-<span class='tline' id='l310' data-llen='8151:8181'><span class='krp-note'>亦訟而成之/今傳無此</span>訟必有衆起故受之以師師者衆也衆必</span><br/>
-<span class='tline' id='l311' data-llen='8181:8211'>有所比故受之以比比者<span class='krp-note'>郭京本者/下有親字</span>比也比必有所畜</span><br/>
-<span class='tline' id='l312' data-llen='8211:8243'><span class='krp-note'>一作/蓄</span>故受之以小畜物畜然後有禮故受之以履<span class='krp-note'>吳澄/云此</span></span><br/>
-<span class='tline' id='l313' data-llen='8243:8270'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-18a' );" name="030-18a" class="pb">[030-18a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l314' data-llen='8270:8314'><span class='krp-note'>下宜有履者禮也四字今韓註有之而王弼略/例引此四字當是後人誤以正文書作註字者</span>履而泰</span><br/>
-<span class='tline' id='l315' data-llen='8314:8346'><span class='krp-note'>本義引晁氏云/鄭無而泰二字</span>然後安故受之以泰泰者通也物不可</span><br/>
-<span class='tline' id='l316' data-llen='8346:8369'>以終通故受之以否物不可以終否故受之以同人與</span><br/>
-<span class='tline' id='l317' data-llen='8369:8392'>人同者物必歸焉故受之以大有有大者不可以盈故</span><br/>
-<span class='tline' id='l318' data-llen='8392:8419'>受之以謙有大而能謙必豫故受之以豫豫必有隨<span class='krp-note'>韓/康</span></span><br/>
-<span class='tline' id='l319' data-llen='8419:8450'><span class='krp-note'>伯曰順以動者/衆之所隨也</span>故受之以隨以喜隨人者必有事故受</span><br/>
-<span class='tline' id='l320' data-llen='8450:8473'>之以蠱蠱者事也有事而後可大故受之以臨臨者大</span><br/>
-<span class='tline' id='l321' data-llen='8473:8516'>也<span class='krp-note'>荀慈明曰陽稱大謂一陽動升故曰大也項/平甫曰以大臨小曰大凡稱臨皆大者之事</span>物大然</span><br/>
-<span class='tline' id='l322' data-llen='8516:8543'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-18b' );" name="030-18b" class="pb">[030-18b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l323' data-llen='8543:8577'>後可觀<span class='krp-note'>説文引地可觀者莫/可觀于木今傳無此</span>故受之以觀可觀而後有</span><br/>
-<span class='tline' id='l324' data-llen='8577:8607'>所合故受之以噬嗑<span class='krp-note'>李鼎祚本此/下有噬字</span>嗑者合也物不可以</span><br/>
-<span class='tline' id='l325' data-llen='8607:8636'>苟合而已故受之以賁賁者飾也致飾然<span class='krp-note'>李鼎祚/本作而</span>後亨</span><br/>
-<span class='tline' id='l326' data-llen='8636:8659'>則盡矣故受之以剥剥者剥也物不可以終盡剥窮上</span><br/>
-<span class='tline' id='l327' data-llen='8659:8695'>反下故受之以復<span class='krp-note'>淮南子引云剥之不可遂盡/也故受之以復與此不同</span>復則不</span><br/>
-<span class='tline' id='l328' data-llen='8695:8724'>妄矣故受之以无妄有无妄然後可畜故受之<span class='krp-note'>李鼎祚/本無之</span></span><br/>
-<span class='tline' id='l329' data-llen='8724:8750'><span class='krp-note'>字/</span>以大畜物畜然後可養故受之以頥頥者養也不養</span><br/>
-<span class='tline' id='l330' data-llen='8750:8780'>則不可<span class='krp-note'>李鼎祚本此/下有以字</span>動故受之以大過物不可以終過</span><br/>
-<span class='tline' id='l331' data-llen='8780:8807'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-19a' );" name="030-19a" class="pb">[030-19a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l332' data-llen='8807:8830'>故受之以坎坎者陷也陷必有所麗故受之以離離者</span><br/>
-<span class='tline' id='l333' data-llen='8830:8875'>麗也<span class='krp-note'>王昭素本于此下増麗必有感故受之以咸真狂/妄無忌憚者上下分篇此文王舊文故夫子于上</span></span><br/>
-<span class='tline' id='l334' data-llen='8875:8885'><span class='krp-note'>傳至此/而止</span></span><br/>
-<span class='tline' id='l335' data-llen='8885:8908'>有天地然後有萬物有萬物然後有男女有男女然後</span><br/>
-<span class='tline' id='l336' data-llen='8908:8931'>有夫婦有夫婦然後有父子有父子然後有君臣有君</span><br/>
-<span class='tline' id='l337' data-llen='8931:8954'>臣然後有上下有上下然後禮義有所錯夫婦之道不</span><br/>
-<span class='tline' id='l338' data-llen='8954:8977'>可以不久也故受之以恒恒者久也物不可以久居其</span><br/>
-<span class='tline' id='l339' data-llen='8977:9000'>所故受之以遯遯者退也物不可以終遯故受之以大</span><br/>
-<span class='tline' id='l340' data-llen='9000:9027'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-19b' );" name="030-19b" class="pb">[030-19b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l341' data-llen='9027:9050'>壯物不可以終壯故受之以晉晉者進也進必有所傷</span><br/>
-<span class='tline' id='l342' data-llen='9050:9073'>故受之以明夷夷者傷也傷於外者必反其家故受之</span><br/>
-<span class='tline' id='l343' data-llen='9073:9096'>以家人家道窮必乖故受之以睽睽者乖也乖必有難</span><br/>
-<span class='tline' id='l344' data-llen='9096:9119'>故受之以蹇蹇者難也物不可以終難故受之以解解</span><br/>
-<span class='tline' id='l345' data-llen='9119:9142'>者緩也緩必有所失故受之以損損而不已必益故受</span><br/>
-<span class='tline' id='l346' data-llen='9142:9165'>之以益益而不已必决故受之以夬夬者决也决必有</span><br/>
-<span class='tline' id='l347' data-llen='9165:9194'>所<span class='krp-note'>李鼎祚本/無所字</span>遇故受之以姤姤者遇也物相遇而後聚</span><br/>
-<span class='tline' id='l348' data-llen='9194:9217'>故受之以萃萃者聚也聚而上者謂之升故受之以升</span><br/>
-<span class='tline' id='l349' data-llen='9217:9244'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-20a' );" name="030-20a" class="pb">[030-20a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l350' data-llen='9244:9267'>升而不已必困故受之以困困乎上者必反下故受之</span><br/>
-<span class='tline' id='l351' data-llen='9267:9299'>以井井道不可不革故受之以革<span class='krp-note'>韓康伯曰井久則/穢濁宜易其故</span>革</span><br/>
-<span class='tline' id='l352' data-llen='9299:9333'>物者莫若鼎故受之以鼎<span class='krp-note'>韓康伯曰鼎所以和/齊生物成新之器也</span>主器者</span><br/>
-<span class='tline' id='l353' data-llen='9333:9371'>莫若長子<span class='krp-note'>崔憬曰鼎所烹飪享于上帝主此/器者莫若冢嫡以其為祭主也</span>故受之以</span><br/>
-<span class='tline' id='l354' data-llen='9371:9402'>震震者動也物不可以終動<span class='krp-note'>李鼎祚本此下/有動必二字</span>止之故受</span><br/>
-<span class='tline' id='l355' data-llen='9402:9425'>之以艮艮者止也物不可以終止故受之以漸漸者進</span><br/>
-<span class='tline' id='l356' data-llen='9425:9448'>也進必有所歸故受之以歸妹得其所歸者必大故受</span><br/>
-<span class='tline' id='l357' data-llen='9448:9471'>之以豐豐者大也窮大者必失其居故受之以旅旅而</span><br/>
-<span class='tline' id='l358' data-llen='9471:9498'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-20b' );" name="030-20b" class="pb">[030-20b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l359' data-llen='9498:9521'>無所容故受之以巽巽者入也入而後説之故受之以</span><br/>
-<span class='tline' id='l360' data-llen='9521:9544'>兑兑者説也説而後散之故受之以渙渙者離也物不</span><br/>
-<span class='tline' id='l361' data-llen='9544:9567'>可以終離故受之以節節而信之故受之以中孚有其</span><br/>
-<span class='tline' id='l362' data-llen='9567:9603'>信者必行之故受之以小過<span class='krp-note'>韓康伯曰守其信者則失/貞而不諒之道而以信為</span></span><br/>
-<span class='tline' id='l363' data-llen='9603:9641'><span class='krp-note'>過也故/曰小過</span>有過物者必濟故受之以既濟<span class='krp-note'>韓康伯曰行過/乎恭禮過乎儉</span></span><br/>
-<span class='tline' id='l364' data-llen='9641:9669'><span class='krp-note'>可以矯世勵/俗有所濟也</span>物不可窮也故受之以未濟終焉</span><br/>
-<span class='tline' id='l365' data-llen='9669:9674'>雜卦傳</span><br/>
-<span class='tline' id='l366' data-llen='9674:9697'>　文王三易一曰轉易反對卦也反對之説發于漢晉</span><br/>
-<span class='tline' id='l367' data-llen='9697:9724'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-21a' );" name="030-21a" class="pb">[030-21a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l368' data-llen='9724:9747'>　儒者而宋後陳邵易興反棄置不道遂致後儒朱升</span><br/>
-<span class='tline' id='l369' data-llen='9747:9770'>　來知徳輩逺承漢易以反對立説世争以為創義而</span><br/>
-<span class='tline' id='l370' data-llen='9770:9793'>　傳奉之可笑極矣夫子于兩繋説卦切指推易之法</span><br/>
-<span class='tline' id='l371' data-llen='9793:9816'>　而以序卦釋對易雜卦釋轉易三易之賛至此始全</span><br/>
-<span class='tline' id='l372' data-llen='9816:9839'>　第序卦並不及對易一字祇聨絡而對在其中雜卦</span><br/>
-<span class='tline' id='l373' data-llen='9839:9862'>　並不及轉易一字祇對待而反對在其中所謂書不</span><br/>
-<span class='tline' id='l374' data-llen='9862:9879'>　盡言也黙成之存乎人也雜者錯也</span><br/>
-<span class='tline' id='l375' data-llen='9879:9923'>乾剛坤<span class='krp-note'>歸蔵易作奭何氏訂詁曰按古歸蔵易今亡惟/存六十四卦名而又闕其四與周易不同今取</span></span><br/>
-<span class='tline' id='l376' data-llen='9923:9950'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-21b' );" name="030-21b" class="pb">[030-21b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l377' data-llen='9950:10000'><span class='krp-note'>其名異者附識于此又有瞿欽規夜分五卦岑/<img height='20' width='20' alt='&amp;KR2593' title='KR2593' src='https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2593.png'/>林禍馬徒三複名卦不知當周易何卦也</span>柔比樂</span><br/>
-<span class='tline' id='l378' data-llen='10000:10012'>師憂臨觀之義或與或求</span><br/>
-<span class='tline' id='l379' data-llen='10012:10033'>屯見而不失其居䝉雜<span class='krp-note'>郭京本/作稚</span>而著</span><br/>
-<span class='tline' id='l380' data-llen='10033:10071'>震<span class='krp-note'>歸蔵/作釐</span>起也艮<span class='krp-note'>歸蔵/作狠</span>止也損<span class='krp-note'>歸蔵/作員</span>益盛衰之始也大畜</span><br/>
-<span class='tline' id='l381' data-llen='10071:10116'><span class='krp-note'>歸蔵作/<img height='20' width='20' alt='&amp;KR2854' title='KR2854' src='https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2854.png'/>畜</span>時也无妄<span class='krp-note'>歸蔵作/毋亡</span>災也萃聚而升<span class='krp-note'>歸蔵/作稱</span>不來也</span><br/>
-<span class='tline' id='l382' data-llen='10116:10144'>謙<span class='krp-note'>歸蔵/作兼</span>輕而豫怠<span class='krp-note'>京房本作治/虞翻本作怡</span>也</span><br/>
-<span class='tline' id='l383' data-llen='10144:10172'>噬嗑食也賁无色也兑見而巽伏也隨无故也蠱<span class='krp-note'>歸蔵/作蜀</span></span><br/>
-<span class='tline' id='l384' data-llen='10172:10189'>則飭<span class='krp-note'>鄭𤣥王肅/本俱作節</span>也</span><br/>
-<span class='tline' id='l385' data-llen='10189:10216'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-22a' );" name="030-22a" class="pb">[030-22a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l386' data-llen='10216:10231'>剥<span class='krp-note'>歸蔵/作僕</span>爛也復反也</span><br/>
-<span class='tline' id='l387' data-llen='10231:10273'>晉晝也明夷誅<span class='krp-note'>楊慎云古誅字有之繇切見韻補與晝/相叶則晝亦音周  按韻學至宋而亡</span></span><br/>
-<span class='tline' id='l388' data-llen='10273:10320'><span class='krp-note'>元明龍宋人之舊數百年中無一人識韻遂有疑周易/毛詩失韻者如升庵此説俱極不通之論彼第知誅必</span></span><br/>
-<span class='tline' id='l389' data-llen='10320:10367'><span class='krp-note'>讀周始可與晝叶晝亦必讀周始可與誅叶不知魚虞/尤三韻並通誅不必讀周且平上去三聲並通晝亦不</span></span><br/>
-<span class='tline' id='l390' data-llen='10367:10414'><span class='krp-note'>必讀周也此如國風三星在隅與見此邂逅叶大雅無/聲無臭與萬邦作孚叶逅與臭即晝也隅與孚即誅也</span></span><br/>
-<span class='tline' id='l391' data-llen='10414:10461'><span class='krp-note'>幾見隅必讀牛逅必讀侯乎故張衡西京賦取殊材于/八都豈稽度于往舊淮南子縱志舒節以馳大區可以</span></span><br/>
-<span class='tline' id='l392' data-llen='10461:10502'><span class='krp-note'>步而步可以驟而驟皆如此叶古聖知/之俗儒不知也詳見予御覽古今通韻</span>也井通而困相</span><br/>
-<span class='tline' id='l393' data-llen='10502:10519'>遇也咸<span class='krp-note'>歸蔵/作諴</span>速也恒久也</span><br/>
-<span class='tline' id='l394' data-llen='10519:10546'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-22b' );" name="030-22b" class="pb">[030-22b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l395' data-llen='10546:10561'>渙<span class='krp-note'>歸蔵/作奐</span>離也節止也</span><br/>
-<span class='tline' id='l396' data-llen='10561:10576'>解<span class='krp-note'>歸蔵/作荔</span>緩也蹇難也</span><br/>
-<span class='tline' id='l397' data-llen='10576:10605'>睽外也家人<span class='krp-note'>歸蔵作/散家人</span>内也否泰反其類也大壯則止遯</span><br/>
-<span class='tline' id='l398' data-llen='10605:10624'><span class='krp-note'>歸蔵/作<img height='20' width='20' alt='&amp;KR0735' title='KR0735' src='https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0735.png'/></span>則退也</span><br/>
-<span class='tline' id='l399' data-llen='10624:10652'>大有衆<span class='krp-note'>荀爽本/作終</span>也同人親也革去故也鼎取新也小過</span><br/>
-<span class='tline' id='l400' data-llen='10652:10660'>過也中孚信也</span><br/>
-<span class='tline' id='l401' data-llen='10660:10700'>豐多故<span class='krp-note'>李鼎祚本/有也字</span>親<span class='krp-note'>荀爽本以此/作句非是</span>寡旅也離上而坎<span class='krp-note'>歸/蔵</span></span><br/>
-<span class='tline' id='l402' data-llen='10700:10732'><span class='krp-note'>作/犖</span>下也小畜<span class='krp-note'>歸蔵作/<img height='20' width='20' alt='&amp;KR3303' title='KR3303' src='https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3303.png'/>畜</span>寡也履不處也</span><br/>
-<span class='tline' id='l403' data-llen='10732:10759'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-23a' );" name="030-23a" class="pb">[030-23a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l404' data-llen='10759:10792'>需<span class='krp-note'>歸蔵/作溽</span>不進訟不親也<span class='krp-note'>已上皆反對卦雖/無序而實相聨者</span></span><br/>
-<span class='tline' id='l405' data-llen='10792:10835'>大過顛也<span class='krp-note'>此下并反對相聨而亦亂之使隠其轉易之/象所謂雜也此句宜與頤養正也對顛無韻</span></span><br/>
-<span class='tline' id='l406' data-llen='10835:10877'><span class='krp-note'>以正為韻與下女/之終男之窮叶</span>姤遇也柔遇剛也<span class='krp-note'>此宜在男之窮也/下與夬决也四句</span></span><br/>
-<span class='tline' id='l407' data-llen='10877:10919'><span class='krp-note'>對剛無韻以剛决柔也/為韻與小人道憂叶</span>漸女歸待男行也<span class='krp-note'>此宜在正也/後與歸妹對</span></span><br/>
-<span class='tline' id='l408' data-llen='10919:10954'>頥養正也<span class='krp-note'>説見/前</span>既濟定也<span class='krp-note'>此宜在女之終/下與未濟對</span>歸妹女之終</span><br/>
-<span class='tline' id='l409' data-llen='10954:10977'>也未濟男之窮也夬决也剛决柔也君子道長小人道</span><br/>
-<span class='tline' id='l410' data-llen='10977:11024'>憂也<span class='krp-note'>説總見前序仲氏曰此非錯簡者乃故亂之以使/之雜既非  次復非反對其名雜卦者以此  嘗</span></span><br/>
-<span class='tline' id='l411' data-llen='11024:11071'><span class='krp-note'>按其韻則正錯俱叶故知有意為此者此聖人之文也/古韻宫聲七部則東冬江陽庚青蒸七韻俱通故以本</span></span><br/>
-<span class='tline' id='l412' data-llen='11071:11098'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-23b' );" name="030-23b" class="pb">[030-23b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l413' data-llen='11098:11145'><span class='krp-note'>文叶之則剛行正定終窮一叶柔憂一叶以更正之文/叶之則正剛一叶行終一叶定窮一叶總是七部之通</span></span><br/>
-<span class='tline' id='l414' data-llen='11145:11192'><span class='krp-note'>至柔憂則另韻耳盖正定為庚之去聲古平上去三聲/並通故正與剛叶如小雅憂心怲怲庶幾有臧類行與</span></span><br/>
-<span class='tline' id='l415' data-llen='11192:11239'><span class='krp-note'>終叶如楚詞身既死兮神已靈魂魄毅兮為鬼雄類定/與窮叶如伊訓爾惟徳罔小萬邦惟慶爾惟不徳罔大</span></span><br/>
-<span class='tline' id='l416' data-llen='11239:11286'><span class='krp-note'>墜厥宗類剛與行叶如吳鐃歌寒露沾衣裳鳩鳥化為/鷹類剛與終窮叶如焦仲卿妻新婦起嚴粧事事四五</span></span><br/>
-<span class='tline' id='l417' data-llen='11286:11319'><span class='krp-note'>通九歌魚鱗屋兮龍堂紫貝闕兮朱/宫類凡易中有韻文皆有法度如此</span></span><br/>
-<span class='tline' id='l418' data-llen='11319:11322'>　</span><br/>
-<span class='tline' id='l419' data-llen='11322:11325'>　</span><br/>
-<span class='tline' id='l420' data-llen='11325:11334'>　仲氏易卷三十</span><br/>
+    <p>
+<span class='tline' id='l7' data-llen='155:181'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-1a' );" name="030-1a" class="pb">[030-1a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l8' data-llen='181:189'>欽定四庫全書</span>
+<span class='tline' id='l9' data-llen='189:198'>　仲氏易卷三十</span>
+<span class='tline' id='l10' data-llen='198:219'>　　　　　　　　　　翰林院檢討毛竒齡撰</span>
+<span class='tline' id='l11' data-llen='219:224'>説卦傳</span>
+<span class='tline' id='l12' data-llen='224:247'>　按漢史秦火後漢初易亡説卦三篇至宣帝時河内</span>
+<span class='tline' id='l13' data-llen='247:270'>　女子伐老屋得之隋經籍志所載亦然但其云三篇</span>
+<span class='tline' id='l14' data-llen='270:293'>　今祗一篇或云合序卦雜卦為三或云其二已亡觀</span>
+<span class='tline' id='l15' data-llen='293:316'>　漢儒説易多有補傳所未備者可驗大抵是篇初釋</span>
+<span class='tline' id='l16' data-llen='316:342'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-1b' );" name="030-1b" class="pb">[030-1b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l17' data-llen='342:365'>　繫辭而其後分説諸卦則如爾雅釋文類但説諸卦</span>
+<span class='tline' id='l18' data-llen='365:388'>　所有而辭中釋義已見此解經之最肻綮者宋儒狂</span>
+<span class='tline' id='l19' data-llen='388:411'>　妄如歐陽修輩動輙云非夫子之書可云無忌憚之</span>
+<span class='tline' id='l20' data-llen='411:433'>　至者矣朱氏本義増註九家易文附各節下兹更</span>
+<span class='tline' id='l21' data-llen='433:456'>　廣他儒所註以資考索儻更有聞見不妨陸續附入</span>
+<span class='tline' id='l22' data-llen='456:460'>　耳</span>
+<span class='tline' id='l23' data-llen='460:488'>昔者聖人之作易也幽賛<span class='krp-note'>古文/作讃</span>於神明而生蓍參天兩</span>
+<span class='tline' id='l24' data-llen='488:518'>地而倚<span class='krp-note'>周禮註作竒/蜀才本同</span>數觀變于隂陽而立卦發揮于剛</span>
+<span class='tline' id='l25' data-llen='518:544'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-2a' );" name="030-2a" class="pb">[030-2a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l26' data-llen='544:567'>柔而生爻和順于道徳而理于義窮理盡性以至于命</span>
+<span class='tline' id='l27' data-llen='567:590'>　蓍者筮也生蓍者作筮也猶前所云生吉凶生變化</span>
+<span class='tline' id='l28' data-llen='590:613'>　也舊解作生蓍澤中似畫卦反從生蓍後起誤矣參</span>
+<span class='tline' id='l29' data-llen='613:636'>　天兩地依以立數曰倚數以畫卦言則三陽畫參天</span>
+<span class='tline' id='l30' data-llen='636:659'>　也中分而為兩兩地也以重卦言則純卦三畫參天</span>
+<span class='tline' id='l31' data-llen='659:682'>　也重卦兩其三兩地也以爻數言三其三畫而為九</span>
+<span class='tline' id='l32' data-llen='682:705'>　故陽稱九參天也兩其三畫而為六故隂稱六兩地</span>
+<span class='tline' id='l33' data-llen='705:728'>　也以䇿數言則三變三竒而成陽參天也三變兩竒</span>
+<span class='tline' id='l34' data-llen='728:754'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-2b' );" name="030-2b" class="pb">[030-2b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l35' data-llen='754:777'>　而成隂兩地也以扐數言凡四十九䇿中扐十三為</span>
+<span class='tline' id='l36' data-llen='777:800'>　陽則賸三十六以三乘之三其十二䇿參天也扐二</span>
+<span class='tline' id='l37' data-llen='800:823'>　十五為隂則賸二十四以兩乘之兩其十二䇿兩地</span>
+<span class='tline' id='l38' data-llen='823:846'>　也推之而至乾䇿二百一十六坤䇿一百四十四乾</span>
+<span class='tline' id='l39' data-llen='846:869'>　䇿六千九百一十二坤䇿四千六百零八其參兩皆</span>
+<span class='tline' id='l40' data-llen='869:914'>　然<span class='krp-note'>有謂一數不用者陽以一包二而為三隂以兩兼/一而為兩故陽從三起隂從二起此唐孔氏説而</span></span>
+<span class='tline' id='l41' data-llen='914:961'>　<span class='krp-note'>阮逸作僞闗朗易𫝊龍之與崔憬一四不用之説大/同小異若謂一二三四五者天地之生數天生居三</span></span>
+<span class='tline' id='l42' data-llen='961:1008'>　<span class='krp-note'>一三五也地生居兩二四也用生數不用成數故曰/參兩則萬一用成數将參地兩天矣此説在蘓𫝊亦</span></span>
+<span class='tline' id='l43' data-llen='1008:1034'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-3a' );" name="030-3a" class="pb">[030-3a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l44' data-llen='1034:1080'>　<span class='krp-note'>有之然極是無理至朱子云天圓地方圓則徑一圍/三故參天方則徑一圍四故兩地則何不云參天四</span></span>
+<span class='tline' id='l45' data-llen='1080:1126'>　<span class='krp-note'>地乎况實推宻率徑一不必圍三也他如建安丘氏/謂陽一畫而三分之則隂得其二分以隂中缺一分</span></span>
+<span class='tline' id='l46' data-llen='1126:1167'>　<span class='krp-note'>也則萬一畫隂者中稍寛稍窄有時兩有/餘有時一不足矣此皆巧説之難通者</span>分隂陽而</span>
+<span class='tline' id='l47' data-llen='1167:1190'>　立卦發剛柔而成爻與生蓍倚數皆一時事無次第</span>
+<span class='tline' id='l48' data-llen='1190:1213'>　先後者故象立而義生其間如一隂一陽之道與乾</span>
+<span class='tline' id='l49' data-llen='1213:1236'>　易坤簡之徳各歸于義理因之盡義理以究其繼善</span>
+<span class='tline' id='l50' data-llen='1236:1259'>　之性而馴至于達天知命之命先聖之作易如是也</span>
+<span class='tline' id='l51' data-llen='1259:1295'>　<span class='krp-note'>道徳性命皆兩繋所已言者故命兼吉/凶變化為立卦生蓍者言與他處不同</span></span>
+<span class='tline' id='l52' data-llen='1295:1321'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-3b' );" name="030-3b" class="pb">[030-3b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l53' data-llen='1321:1344'>昔者聖人之作易也将以順性命之理是以立天之道</span>
+<span class='tline' id='l54' data-llen='1344:1367'>曰隂與陽立地之道曰柔與剛立人之道曰仁與義兼</span>
+<span class='tline' id='l55' data-llen='1367:1390'>三才而兩之故易六畫而成卦分隂分陽迭用柔剛故</span>
+<span class='tline' id='l56' data-llen='1390:1406'>易六位<span class='krp-note'>一本亦/作畫</span>而成章</span>
+<span class='tline' id='l57' data-llen='1406:1429'>　乃後聖以之而繋辭則知隂陽剛柔其本三才而立</span>
+<span class='tline' id='l58' data-llen='1429:1452'>　極者在畫卦之時已然故以之推易復取隂陽之類</span>
+<span class='tline' id='l59' data-llen='1452:1475'>　聚者而分之剛柔之變化者而迭用之即卦畫而成</span>
+<span class='tline' id='l60' data-llen='1475:1498'>　辭章焉按乾鑿度云物有隂陽故三畫成乾六畫成</span>
+<span class='tline' id='l61' data-llen='1498:1524'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-4a' );" name="030-4a" class="pb">[030-4a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l62' data-llen='1524:1536'>　坤其稱物亦就分聚言</span>
+<span class='tline' id='l63' data-llen='1536:1559'>天地定位山澤通氣雷風相薄水火不相射八卦相錯</span>
+<span class='tline' id='l64' data-llen='1559:1583'>數往者順知來者逆是故易逆數也雷以動之風以散之</span>
+<span class='tline' id='l65' data-llen='1583:1617'>雨以潤之日以烜<span class='krp-note'>一作/<img height='20' width='20' alt='&amp;KR3578' title='KR3578' src='https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3578.png'/></span>之艮以止之兑以説之乾以君</span>
+<span class='tline' id='l66' data-llen='1617:1631'><span class='krp-note'>舉正/作居</span>之坤以蔵之</span>
+<span class='tline' id='l67' data-llen='1631:1660'>　則以乾坤二聚卦定位而已不相易也<span class='krp-note'>故曰不/易之卦</span>其可</span>
+<span class='tline' id='l68' data-llen='1660:1687'>　易者聚凡十二卦祗有山澤有雷風而並無水火<span class='krp-note'>剥/復</span></span>
+<span class='tline' id='l69' data-llen='1687:1724'>　<span class='krp-note'>臨觀否泰大壯遯夬姤中孚/小過共十二卦皆無坎離者</span>即推之為子母易卦凡</span>
+<span class='tline' id='l70' data-llen='1724:1750'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-4b' );" name="030-4b" class="pb">[030-4b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l71' data-llen='1750:1781'>　十卦亦祗有山澤有雷風而並無水火<span class='krp-note'>咸恒損益萃/升頤大畜无</span></span>
+<span class='tline' id='l72' data-llen='1781:1820'>　<span class='krp-note'>妄大過共十卦/亦皆無坎離者</span>是何也則以山澤可通氣<span class='krp-note'>自剥臨通/地氣遯夬</span></span>
+<span class='tline' id='l73' data-llen='1820:1863'>　<span class='krp-note'>通天氣外咸損則兩相通氣若以卦/位言則艮東北兑正西不相通矣</span>雷風可相薄<span class='krp-note'>自/復</span></span>
+<span class='tline' id='l74' data-llen='1863:1909'>　<span class='krp-note'>臨與地廹壯姤與天廹外恒益則自相廹薄如以陳/氏先天位言則震東北巽西南不相廹矣薄廹也近</span></span>
+<span class='tline' id='l75' data-llen='1909:1949'>　<span class='krp-note'>也/</span>而水火則必不相射<span class='krp-note'>坎離一與四子交則隂陽分/矣射者相對發也自不曉推</span></span>
+<span class='tline' id='l76' data-llen='1949:1996'>　<span class='krp-note'>易欲以卦位南北當之而不合致鄭𤣥虞翻輩皆以/射訓入謂相對而不相入而陳氏作先天圗位反指</span></span>
+<span class='tline' id='l77' data-llen='1996:2042'>　<span class='krp-note'>此數語作証然相薄非相對若不相射則顯然與圗/位離東坎西相反于是解射為犯為厭為侵害展轉</span></span>
+<span class='tline' id='l78' data-llen='2042:2074'>　<span class='krp-note'>悖謬焉知有確然/不易如是者也</span>以相射則不可易也故觀推易者</span>
+<span class='tline' id='l79' data-llen='2074:2100'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-5a' );" name="030-5a" class="pb">[030-5a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l80' data-llen='2100:2123'>　不必八純與八重相序順也只相錯而移易生乎其</span>
+<span class='tline' id='l81' data-llen='2123:2146'>　間盖從既往之卦而數之則因純得重純在雜先從</span>
+<span class='tline' id='l82' data-llen='2146:2169'>　未推之卦而欲知之則重反生純純後于雜故錯之</span>
+<span class='tline' id='l83' data-llen='2169:2192'>　為雜以逆作順凡為易之義皆然不止轉易對易一</span>
+<span class='tline' id='l84' data-llen='2192:2215'>　反一正為逆易已也故六子為乾坤所生而推卦逆</span>
+<span class='tline' id='l85' data-llen='2215:2238'>　易則六子可以先乾坤此固與畫卦次第變易交易</span>
+<span class='tline' id='l86' data-llen='2238:2248'>　之序順有不同者</span>
+<span class='tline' id='l87' data-llen='2248:2271'>帝出乎震齊乎巽相見乎離致役乎坤説言乎兑戰乎</span>
+<span class='tline' id='l88' data-llen='2271:2297'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-5b' );" name="030-5b" class="pb">[030-5b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l89' data-llen='2297:2320'>乾勞乎坎成言乎艮萬物出乎震震東方也齊乎巽巽</span>
+<span class='tline' id='l90' data-llen='2320:2343'>東南也齊也者言萬物之潔齊也離也者明也萬物皆</span>
+<span class='tline' id='l91' data-llen='2343:2366'>相見南方之卦也聖人南面而聴天下嚮明而治盖取</span>
+<span class='tline' id='l92' data-llen='2366:2389'>諸此也坤也者地也萬物皆致養焉故曰致役乎坤兑</span>
+<span class='tline' id='l93' data-llen='2389:2412'>正秋也萬物之所説也故曰説言乎兑戰乎乾乾西北</span>
+<span class='tline' id='l94' data-llen='2412:2435'>之卦也言隂陽相薄也坎者水也正北方之卦也勞卦</span>
+<span class='tline' id='l95' data-llen='2435:2458'>也萬物之所歸也故曰勞乎坎艮東北之卦也萬物之</span>
+<span class='tline' id='l96' data-llen='2458:2474'>所成終而所成始也故曰成言乎艮</span>
+<span class='tline' id='l97' data-llen='2474:2500'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-6a' );" name="030-6a" class="pb">[030-6a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l98' data-llen='2500:2523'>　故卦通乎時時見乎位假如以大衍之數觀八卦時</span>
+<span class='tline' id='l99' data-llen='2523:2546'>　位而考其道徳則位從東起時從春首由是而周之</span>
+<span class='tline' id='l100' data-llen='2546:2556'>　以示諸推移之法</span>
+<span class='tline' id='l101' data-llen='2556:2579'>　按震巽離坤兑乾坎艮此文王所演夫子所傳之卦</span>
+<span class='tline' id='l102' data-llen='2579:2623'>　位<span class='krp-note'>文所演見各卦如坤之西南得朋蹇之不利東/北類夫子所傳如大衍之數配位及此諸節類</span>萬</span>
+<span class='tline' id='l103' data-llen='2623:2646'>　古不可易者故夫子于此凡三復言之朱子信陳邵</span>
+<span class='tline' id='l104' data-llen='2646:2669'>　先天之説妄指為伏羲所畫反以此文王孔子所傳</span>
+<span class='tline' id='l105' data-llen='2669:2692'>　卦位註曰未詳何也及後節仍如此序又註曰未詳</span>
+<span class='tline' id='l106' data-llen='2692:2718'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-6b' );" name="030-6b" class="pb">[030-6b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l107' data-llen='2718:2741'>　何也豈真未詳耶抑必如陳氏者而後能詳耶至他</span>
+<span class='tline' id='l108' data-llen='2741:2764'>　日又曰文王八卦有些似京房卦氣則顯相牴牾矣</span>
+<span class='tline' id='l109' data-llen='2764:2787'>　帝者天也崔憬曰天之王氣也如震王于春離王于</span>
+<span class='tline' id='l110' data-llen='2787:2810'>　夏類若指王者言則聖人南面而聴天下為複見矣</span>
+<span class='tline' id='l111' data-llen='2810:2833'>　乾坎艮震四卦皆陽巽離坤兑四卦皆隂隂疑于陽</span>
+<span class='tline' id='l112' data-llen='2833:2856'>　必戰故遇乾而戰此秋冬相交之時隂陽相嬗之候</span>
+<span class='tline' id='l113' data-llen='2856:2879'>　也天氣轉環于物見之故復言物何氏訂詁曰潔齊</span>
+<span class='tline' id='l114' data-llen='2879:2902'>　即姑洗之意致役者坤為天養物如效役然勞者養</span>
+<span class='tline' id='l115' data-llen='2902:2928'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-7a' );" name="030-7a" class="pb">[030-7a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l116' data-llen='2928:2951'>　物至此有成勞矣艮陽盡于上而震復生陽于下故</span>
+<span class='tline' id='l117' data-llen='2951:2974'>　艮止震起比之剥復其次第如此仲氏嘗曰八卦方</span>
+<span class='tline' id='l118' data-llen='2974:2997'>　位其理多端即以相生論之火不能生金故離火兑</span>
+<span class='tline' id='l119' data-llen='2997:3020'>　金必間坤土此人所曉也水能生木矣而坎水震木</span>
+<span class='tline' id='l120' data-llen='3020:3043'>　又間艮土天下有水木不夾土而可以自生者乎若</span>
+<span class='tline' id='l121' data-llen='3043:3066'>　震木取離火必藉巽風兑金化坎水煅以乾陽此亦</span>
+<span class='tline' id='l122' data-llen='3066:3089'>　一節之可驗者又曰天地西北髙而東南下山水皆</span>
+<span class='tline' id='l123' data-llen='3089:3112'>　從西至東故乾起西北直領三男坤起西南間領三</span>
+<span class='tline' id='l124' data-llen='3112:3138'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-7b' );" name="030-7b" class="pb">[030-7b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l125' data-llen='3138:3174'>　女又曰乾得隂數<span class='krp-note'>西北于大/衍數六</span>坤得陽數<span class='krp-note'>西南于大/衍數九</span>正隂</span>
+<span class='tline' id='l126' data-llen='3174:3197'>　陽交互化生六子之所始故易緯謂陽始于亥而形</span>
+<span class='tline' id='l127' data-llen='3197:3220'>　于丑隂始于已而形于未乾祖始而坤正形者以陽</span>
+<span class='tline' id='l128' data-llen='3220:3249'>　之生物無形而隂之生物有形也此為至理<span class='krp-note'>乾坤鑿/度以乾</span></span>
+<span class='tline' id='l129' data-llen='3249:3295'>　<span class='krp-note'>坤巽艮四隅卦為四門坎離震兑四方卦為四正皆/以為伏羲所定有云庖犧氏畫四象立四隅以定羣</span></span>
+<span class='tline' id='l130' data-llen='3295:3341'>　<span class='krp-note'>物發生門而後立四正則在兩漢時無不以此為羲/畫原文即强名文王八卦猶非實録况可别作羲圗</span></span>
+<span class='tline' id='l131' data-llen='3341:3348'>　<span class='krp-note'>乎/</span></span>
+<span class='tline' id='l132' data-llen='3348:3379'>神也者玅<span class='krp-note'>王肅本作尠/董云尠成也</span>萬物而為言者也動萬物者莫</span>
+<span class='tline' id='l133' data-llen='3379:3405'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-8a' );" name="030-8a" class="pb">[030-8a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l134' data-llen='3405:3435'>疾乎雷撓萬物者莫疾乎風燥萬物者莫熯<span class='krp-note'>徐本作暵/云熱暵也</span></span>
+<span class='tline' id='l135' data-llen='3435:3462'><span class='krp-note'>説文/同</span>乎火説萬物者莫説乎澤潤萬物者莫潤乎水終</span>
+<span class='tline' id='l136' data-llen='3462:3492'>萬物始萬物者莫盛乎艮故水火<span class='krp-note'>陸徳明本/有不字誤</span>相逮雷風</span>
+<span class='tline' id='l137' data-llen='3492:3511'>不相悖山澤通氣然後能變化既成萬物也</span>
+<span class='tline' id='l138' data-llen='3511:3534'>　乃復就六子之及物觀之而知乾坤即六子也故推</span>
+<span class='tline' id='l139' data-llen='3534:3562'>　易者自乾坤不推外<span class='krp-note'>不易/之卦</span>凡以之玅物而羣分者水</span>
+<span class='tline' id='l140' data-llen='3562:3585'>　火不相射而相及故聚卦無水火分卦有水火而況</span>
+<span class='tline' id='l141' data-llen='3585:3608'>　雷風山澤之通氣而不相悖其變化及物固如是也</span>
+<span class='tline' id='l142' data-llen='3608:3634'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-8b' );" name="030-8b" class="pb">[030-8b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l143' data-llen='3634:3657'>乾健也坤順也震動也巽入也坎陷也離麗也艮止也</span>
+<span class='tline' id='l144' data-llen='3657:3662'>兑説也</span>
+<span class='tline' id='l145' data-llen='3662:3685'>　故欲明易例請究觀八純之名物與象類而遍指之</span>
+<span class='tline' id='l146' data-llen='3685:3708'>　以為文王推易屬辭之用盖方位時氣如前所云則</span>
+<span class='tline' id='l147' data-llen='3708:3736'>　周易次第也自乾坤父母順生六子如後所云<span class='krp-note'>謂乾/天也</span></span>
+<span class='tline' id='l148' data-llen='3736:3776'>　<span class='krp-note'>節/</span>則羲易次第也<span class='krp-note'>伏羲畫卦次第如此必欲强/作先天之名則此正先天也</span>今但</span>
+<span class='tline' id='l149' data-llen='3776:3799'>　釋八純而不及重卦則未可移易自當以羲易次第</span>
+<span class='tline' id='l150' data-llen='3799:3822'>　為八卦先後故自此及終凡十二節皆用此為序此</span>
+<span class='tline' id='l151' data-llen='3822:3848'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-9a' );" name="030-9a" class="pb">[030-9a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l152' data-llen='3848:3871'>　正漢儒所傳虙羲作十言之教曰乾坤震巽坎離艮</span>
+<span class='tline' id='l153' data-llen='3871:3894'>　兑消息无文字謂之易者審此則先天之圗可不作</span>
+<span class='tline' id='l154' data-llen='3894:3915'>　矣風善入火必附物以為體故曰巽入曰離麗</span>
+<span class='tline' id='l155' data-llen='3915:3938'>乾為馬坤為牛震為龍巽為雞坎為豕離為雉艮為狗</span>
+<span class='tline' id='l156' data-llen='3938:3943'>兑為羊</span>
+<span class='tline' id='l157' data-llen='3943:3966'>　此逺取諸物也唐孔氏曰巽主號令雞善知時坎主</span>
+<span class='tline' id='l158' data-llen='3966:3989'>　水瀆豕處汚濕鄭康成謂狗以善守能止人禮羊曰</span>
+<span class='tline' id='l159' data-llen='3989:4028'>　柔毛史記弱如羊<span class='krp-note'>或謂兑金生于土羊亦生于土如/西域土可生羊而土怪稱羵羊可</span></span>
+<span class='tline' id='l160' data-llen='4028:4054'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-9b' );" name="030-9b" class="pb">[030-9b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l161' data-llen='4054:4082'>　<span class='krp-note'>驗則離之鱉蟹龜蚌皆生水/者豈離火為坎水所生故耶</span></span>
+<span class='tline' id='l162' data-llen='4082:4105'>乾為首坤為腹震為足巽為股坎為耳離為目艮為手</span>
+<span class='tline' id='l163' data-llen='4105:4110'>兑為口</span>
+<span class='tline' id='l164' data-llen='4110:4133'>　此近取諸身也坤善蔵為腹巽則股順隨足其義也</span>
+<span class='tline' id='l165' data-llen='4133:4156'>　上連下坼其象也唐孔氏曰坎北方主聴故為耳離</span>
+<span class='tline' id='l166' data-llen='4156:4179'>　南方主視故為目何氏訂詁曰横亘而在上能止物</span>
+<span class='tline' id='l167' data-llen='4179:4202'>　者手也開坼而在上能悦物者口也按孔氏亦以為</span>
+<span class='tline' id='l168' data-llen='4202:4225'>　西方卦主言語此以五事配五行者然與書洪範所</span>
+<span class='tline' id='l169' data-llen='4225:4252'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-10a' );" name="030-10a" class="pb">[030-10a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l170' data-llen='4252:4275'>　註不同又手能止物止即拘也故虞仲翔以後文艮</span>
+<span class='tline' id='l171' data-llen='4275:4285'>　為狗作為拘可驗</span>
+<span class='tline' id='l172' data-llen='4285:4308'>乾天也故稱乎父坤地也故稱乎母震一索而得男故</span>
+<span class='tline' id='l173' data-llen='4308:4331'>謂之長男巽一索而得女故謂之長女坎再索而得男</span>
+<span class='tline' id='l174' data-llen='4331:4354'>故謂之中男離再索而得女故謂之中女艮三索而得</span>
+<span class='tline' id='l175' data-llen='4354:4373'>男故謂之少男兑三索而得女故謂之少女</span>
+<span class='tline' id='l176' data-llen='4373:4395'>　此羲易次第也以乾坤為父母六子為男女始此</span>
+<span class='tline' id='l177' data-llen='4395:4418'>乾為天為圜為君為父為玉為金為寒為氷為大赤為</span>
+<span class='tline' id='l178' data-llen='4418:4445'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-10b' );" name="030-10b" class="pb">[030-10b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l179' data-llen='4445:4480'>良馬為老馬為瘠<span class='krp-note'>京房荀爽/本作柴</span>馬為駁<span class='krp-note'>陸徳明/本作駹</span>馬為木果</span>
+<span class='tline' id='l180' data-llen='4480:4526'><span class='krp-note'>朱氏本義云荀九家易此下有為龍為直為衣為言為/按虞氏易又有為徳為王為人為神為盈為甲為施</span></span>
+<span class='tline' id='l181' data-llen='4526:4542'><span class='krp-note'>嘉為好剛何/妥有為  健</span></span>
+<span class='tline' id='l182' data-llen='4542:4565'>　按荀慈明集九家易解十卷見諸史志而文獻通考</span>
+<span class='tline' id='l183' data-llen='4565:4588'>　引陳氏説謂漢淮南王所聘明易者九人荀爽嘗爲</span>
+<span class='tline' id='l184' data-llen='4588:4623'>　之集解<span class='krp-note'>蔡介夫云淮南九人撰/道訓二十篇號九師易</span>但陸氏作釋文其序</span>
+<span class='tline' id='l185' data-llen='4623:4647'>　録列九家名氏明有京房馬融鄭𤣥宋衷虞翻陸績</span>
+<span class='tline' id='l186' data-llen='4647:4671'>　姚信翟子𤣥荀爽九人其但稱荀氏者或慈明總集</span>
+<span class='tline' id='l187' data-llen='4671:4698'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-11a' );" name="030-11a" class="pb">[030-11a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l188' data-llen='4698:4736'>　之未可知也<span class='krp-note'>胡震亨云淮南自云九師有道訓/二篇並非荀爽九家陳氏誤矣</span>但其</span>
+<span class='tline' id='l189' data-llen='4736:4759'>　書已亡朱氏據釋文所引數語耳崔憬云天體清剛</span>
+<span class='tline' id='l190' data-llen='4759:4782'>　故為金玉孔穎達云寒氷西北地也大赤盛陽之色</span>
+<span class='tline' id='l191' data-llen='4782:4828'>　<span class='krp-note'>楊升庵謂明堂位商之大白周之大赤皆旂名左傳/分康叔以少帛旃為大赤註云大赤通帛周禮象路</span></span>
+<span class='tline' id='l192' data-llen='4828:4867'>　<span class='krp-note'>建大赤以朝皆是第此但言色不必/是旂盖旂名本易非易取旂名也</span>老馬行乆瘠馬</span>
+<span class='tline' id='l193' data-llen='4867:4890'>　多骨説文駮馬踞牙能食虎豹木發于春而果成于</span>
+<span class='tline' id='l194' data-llen='4890:4897'>　夏皆陽物</span>
+<span class='tline' id='l195' data-llen='4897:4925'>坤為地為母為布為釡為吝<span class='krp-note'>京房本/作遴</span>嗇為均為子母牛</span>
+<span class='tline' id='l196' data-llen='4925:4952'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-11b' );" name="030-11b" class="pb">[030-11b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l197' data-llen='4952:4986'>為大輿為文為衆為柄其於地<span class='krp-note'>一作/色</span>也為黑<span class='krp-note'>荀九家易/有為牝為</span></span>
+<span class='tline' id='l198' data-llen='4986:5036'><span class='krp-note'>迷為方為囊為裳為黄為帛為漿為按荀氏又有為邑/  九家易又有為亂  虞氏易有  理為事為大業為</span></span>
+<span class='tline' id='l199' data-llen='5036:5085'><span class='krp-note'>臣為民為鬼為虚為乙為拇為喪為終為害為死為萃/為土為器為晦為國為暑為兕虎  干寳有為順  盧</span></span>
+<span class='tline' id='l200' data-llen='5085:5103'><span class='krp-note'>氏有為師為左/傳杜註有  馬</span></span>
+<span class='tline' id='l201' data-llen='5103:5126'>　布者播也釡者孔氏曰化生成熟也吝嗇者受而不</span>
+<span class='tline' id='l202' data-llen='5126:5149'>　施也均者土勻勻也子母牛者孳牛也九家易曰萬</span>
+<span class='tline' id='l203' data-llen='5149:5167'>　物相雜故曰文柄者生物之根黑隂色</span>
+<span class='tline' id='l204' data-llen='5167:5209'>震為雷為龍<span class='krp-note'>虞氏干寳本俱作駹虞云蒼色干云雜色/李鼎祚本作駀亦云蒼色震東方故為駀</span></span>
+<span class='tline' id='l205' data-llen='5209:5236'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-12a' );" name="030-12a" class="pb">[030-12a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l206' data-llen='5236:5279'>為𤣥黄為旉<span class='krp-note'>古文又作専姚信云専一也虞翻李鼎祚/本同李云陽在初隠静未出觸坤故專即</span></span>
+<span class='tline' id='l207' data-llen='5279:5312'><span class='krp-note'>其静/也專</span>為大塗為决躁為蒼筤<span class='krp-note'>古或/作琅</span>竹為萑葦其於馬也</span>
+<span class='tline' id='l208' data-llen='5312:5349'>為善鳴為馵<span class='krp-note'>京房本作朱荀爽/同云陽在下也</span>足為作足為的<span class='krp-note'>説文/作馰</span>顙</span>
+<span class='tline' id='l209' data-llen='5349:5384'>其於稼也為反<span class='krp-note'>虞翻本作阪/云陵阪也</span>生其究為健為蕃鮮<span class='krp-note'>荀九/家有</span></span>
+<span class='tline' id='l210' data-llen='5384:5433'><span class='krp-note'>為玉為鵠為鼔臆按吳澄謂玉當為圭鵠當為鶴不知/何據此豈可以  見改舊文者何妄誕至此  虞氏易</span></span>
+<span class='tline' id='l211' data-llen='5433:5483'><span class='krp-note'>有為侯為主為兄為夫為言為行為樂為出為作為麋/鹿  蜀才有為喜笑  左傳杜註有為木為諸侯  國</span></span>
+<span class='tline' id='l212' data-llen='5483:5494'><span class='krp-note'>語韋註/有為車</span></span>
+<span class='tline' id='l213' data-llen='5494:5527'>　震初得天地之氣以生故天𤣥地黄<span class='krp-note'>仲氏曰赤黑以/陽陰言就燥赤</span></span>
+<span class='tline' id='l214' data-llen='5527:5554'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-12b' );" name="030-12b" class="pb">[030-12b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l215' data-llen='5554:5591'>　<span class='krp-note'>而流濕黑也𤣥黄以天地/言積氣𤣥而積塊黄也</span>得間合以成東方之蒼色</span>
+<span class='tline' id='l216' data-llen='5591:5614'>　觀此則上文為龍舊本有作為駹者是複見也旉者</span>
+<span class='tline' id='l217' data-llen='5614:5654'>　花也<span class='krp-note'>古花本荂字荂即/旉字亦作<img height='20' width='20' alt='&amp;KR1929' title='KR1929' src='https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1929.png'/>音敷</span>木榮也大塗者一竒甫動而</span>
+<span class='tline' id='l218' data-llen='5654:5677'>　兩偶開通如塗然徐仲山曰震與巽皆初得隂陽之</span>
+<span class='tline' id='l219' data-llen='5677:5700'>　氣而賁奮以生故震曰决躁而巽為躁卦蒼筤陸農</span>
+<span class='tline' id='l220' data-llen='5700:5723'>　師曰幼竹也萑葦亦竹類皆本末孤生無附椏者震</span>
+<span class='tline' id='l221' data-llen='5723:5746'>　之怒生類似之善鳴以雷作足以動馵足的顙則皆</span>
+<span class='tline' id='l222' data-llen='5746:5769'>　以色白而動而易見爾雅左足白馵秦風有馬白顛</span>
+<span class='tline' id='l223' data-llen='5769:5796'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-13a' );" name="030-13a" class="pb">[030-13a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l224' data-llen='5796:5819'>　若作足則雙足齊舉魯詩思馬斯作是也反生謂萌</span>
+<span class='tline' id='l225' data-llen='5819:5842'>　芽自下而生反勾向上宋衷云即枲豆之屬帶甲生</span>
+<span class='tline' id='l226' data-llen='5842:5865'>　者乾鑿度云物有始有壯有究言究極也蕃鮮孔氏</span>
+<span class='tline' id='l227' data-llen='5865:5878'>　曰草木之生蕃育而鮮明</span>
+<span class='tline' id='l228' data-llen='5878:5901'>巽為木為風為長女為繩直為工為白為長為髙為進</span>
+<span class='tline' id='l229' data-llen='5901:5939'>退為不果為臭<span class='krp-note'>虞翻本作嗅云嗅氣也風至知氣/李鼎祚本同王肅本作為香臭</span>其於</span>
+<span class='tline' id='l230' data-llen='5939:5983'>人也為寡<span class='krp-note'>古本作宣云黒白雜為宣鄭𤣥本同謂四月/蘼草死髮在人體猶靡草在地虞翻云為白</span></span>
+<span class='tline' id='l231' data-llen='5983:6031'><span class='krp-note'>故宣髮馬君以宣為寡髮非也李鼎祚本亦同與按考/工記車人之事半矩謂之宣註頭髮頽落曰宣  寡同</span></span>
+<span class='tline' id='l232' data-llen='6031:6058'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-13b' );" name="030-13b" class="pb">[030-13b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l233' data-llen='6058:6091'><span class='krp-note'>義/</span>髮為廣<span class='krp-note'>鄭𤣥本/作黄</span>顙為多白眼為近利市三倍其究為躁</span>
+<span class='tline' id='l234' data-llen='6091:6139'>卦<span class='krp-note'>荀九家有為楊為鸛為按吳澄云鸛當為鴻不知何/據  虞氏易有為妻  處為隨為魚為號為包為杞</span></span>
+<span class='tline' id='l235' data-llen='6139:6149'><span class='krp-note'>為白茅/為舞</span></span>
+<span class='tline' id='l236' data-llen='6149:6172'>　木王東方而巽以東南而與震同屬然亦以木可矯</span>
+<span class='tline' id='l237' data-llen='6172:6195'>　輮巽順之義也又巽以命令齊物如繩之直木而工</span>
+<span class='tline' id='l238' data-llen='6195:6218'>　則操之正所云巽為徳之制者記曰白受采白者質</span>
+<span class='tline' id='l239' data-llen='6218:6241'>　也巽以二陽蔽一隂内隂為文外陽為質故色白長</span>
+<span class='tline' id='l240' data-llen='6241:6264'>　者短之反風長且髙巽則進退不决臭風所發也寡</span>
+<span class='tline' id='l241' data-llen='6264:6291'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-14a' );" name="030-14a" class="pb">[030-14a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l242' data-llen='6291:6314'>　髮者隂血不上行也廣顙陽上盛也眼以白為陽以</span>
+<span class='tline' id='l243' data-llen='6314:6337'>　黒為隂何氏訂詁曰離目上下白而黒居中巽目上</span>
+<span class='tline' id='l244' data-llen='6337:6360'>　中白而黒掩在下是白眼多也隂主利欲凡利必于</span>
+<span class='tline' id='l245' data-llen='6360:6383'>　市曰利市言利者以三倍為率詩如賈三倍是也巽</span>
+<span class='tline' id='l246' data-llen='6383:6406'>　木乾體而主利于内凡乾之金玉皆有之故近利如</span>
+<span class='tline' id='l247' data-llen='6406:6414'>　此躁卦見前</span>
+<span class='tline' id='l248' data-llen='6414:6458'>坎為水為溝瀆為隠伏為矯<span class='krp-note'>一作/橋</span>輮<span class='krp-note'>宋衷王<img height='20' width='20' alt='&amp;KR1561' title='KR1561' src='https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1561.png'/>本作楺/京房本作柔荀爽</span></span>
+<span class='tline' id='l249' data-llen='6458:6490'><span class='krp-note'>本作/橈</span>為弓輪<span class='krp-note'>姚信本/作倫</span>其於人也為加憂為心病為耳痛</span>
+<span class='tline' id='l250' data-llen='6490:6517'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-14b' );" name="030-14b" class="pb">[030-14b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l251' data-llen='6517:6546'>為血卦為赤其於馬也為美脊為亟<span class='krp-note'>荀爽作極/云中也</span>心為下</span>
+<span class='tline' id='l252' data-llen='6546:6569'>首為薄蹄為曳其於輿也為多眚為通為月為盜其於</span>
+<span class='tline' id='l253' data-llen='6569:6611'>木也為堅多心<span class='krp-note'>荀九家有為宫為律為可為棟為叢棘/為狐為蒺藜為桎梏  按荀氏又有為</span></span>
+<span class='tline' id='l254' data-llen='6611:6663'><span class='krp-note'>志為虞氏易有為孚為疑為後為蹇為臀為酒左侯果/有  險  干寳有為法為夜  盧氏有為車    傳杜</span></span>
+<span class='tline' id='l255' data-llen='6663:6672'><span class='krp-note'>註有/為衆</span></span>
+<span class='tline' id='l256' data-llen='6672:6695'>　隠伏水藏地中也矯曲使直輮直使曲水流似之惟</span>
+<span class='tline' id='l257' data-llen='6695:6718'>　險故憂惟憂故心病其曰耳痛者坎為耳也血與水</span>
+<span class='tline' id='l258' data-llen='6718:6741'>　為類赤者血色坎陽在中象馬脊以心堅故亟第水</span>
+<span class='tline' id='l259' data-llen='6741:6768'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-15a' );" name="030-15a" class="pb">[030-15a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l260' data-llen='6768:6791'>　流必首先就下而馬首似之水廹地而行而馬蹄之</span>
+<span class='tline' id='l261' data-llen='6791:6814'>　不能作似之水漫衍如牽曳而馬之迣後似之其於</span>
+<span class='tline' id='l262' data-llen='6814:6837'>　馬也至此皆指馬言與震同或曰坎之象馬以馬興</span>
+<span class='tline' id='l263' data-llen='6837:6860'>　龍類龍水中馬故推龍及馬不通坎為中男尚得陽</span>
+<span class='tline' id='l264' data-llen='6860:6883'>　性之純者多眚謂輿不任載也通者水空明也月水</span>
+<span class='tline' id='l265' data-llen='6883:6904'>　之精也盜者水潜竊如盜也堅多心剛在内也</span>
+<span class='tline' id='l266' data-llen='6904:6927'>離為火為日為電為中女為甲胄為戈兵其於人也為</span>
+<span class='tline' id='l267' data-llen='6927:6963'>大腹為乾卦為鼈為蟹為蠃<span class='krp-note'>京房本作螺/姚信本作蠡</span>為蚌<span class='krp-note'>一本/作蜯</span>為</span>
+<span class='tline' id='l268' data-llen='6963:6990'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-15b' );" name="030-15b" class="pb">[030-15b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l269' data-llen='6990:7031'>龜其於木也為科<span class='krp-note'>虞氏本/作折</span>上槁<span class='krp-note'>鄭氏本作槀干寳本作/熇  荀九家有為牝牛</span></span>
+<span class='tline' id='l270' data-llen='7031:7083'><span class='krp-note'>罔按九家又有為飛鳥矢虞氏易有為隼為鶴為夏為/    馬融王肅俱有為    侯果有為黄牛  何妥有</span></span>
+<span class='tline' id='l271' data-llen='7083:7112'><span class='krp-note'>為文明杜干寳有為晝為斧/  左傳  註有為鳥為諸侯</span></span>
+<span class='tline' id='l272' data-llen='7112:7135'>　甲胄戈兵鼈蟹蠃蚌剛在外也大腹者中虚也乾者</span>
+<span class='tline' id='l273' data-llen='7135:7153'>　躁也科亦中虚意木中虚則上必枯槁</span>
+<span class='tline' id='l274' data-llen='7153:7181'>艮為山為徑路為小石為門闕為果蓏<span class='krp-note'>京房本/作墮</span>為閽寺</span>
+<span class='tline' id='l275' data-llen='7181:7226'><span class='krp-note'>一本/作䦙</span>為指為狗<span class='krp-note'>虞翻本作拘云指屈伸/制物為拘李鼎祚本同</span>為䑕為黔<span class='krp-note'>鄭氏/本作</span></span>
+<span class='tline' id='l276' data-llen='7226:7268'><span class='krp-note'>黚云虎豹之/屬貪冒之類</span>喙之屬其於木也為堅<span class='krp-note'>古一本/無堅字</span>多節<span class='krp-note'>荀九/家有</span></span>
+<span class='tline' id='l277' data-llen='7268:7295'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-16a' );" name="030-16a" class="pb">[030-16a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l278' data-llen='7295:7344'><span class='krp-note'>為鼻為虎為狐州按管輅有鼻為面山之説虞氏易亦/有之或謂宋漳  陳安卿  麻衣易以艮為鼻此又後</span></span>
+<span class='tline' id='l279' data-llen='7344:7395'><span class='krp-note'>起者子虞氏易有為背為皮為尾為篤實為求為宗廟/為小  為僮僕為城為狐狼  鄭𤣥有為鬼㝠門  左</span></span>
+<span class='tline' id='l280' data-llen='7395:7406'><span class='krp-note'>傳杜註/有為言</span></span>
+<span class='tline' id='l281' data-llen='7406:7429'>　一陽象山二隂則徑路也木實為果草實為蓏俱陽</span>
+<span class='tline' id='l282' data-llen='7429:7452'>　實之表見者䑕與黔喙則皆陽剛之在口者周禮閽</span>
+<span class='tline' id='l283' data-llen='7452:7475'>　人掌王宫中門之令寺人掌玊之内人及宫女之戒</span>
+<span class='tline' id='l284' data-llen='7475:7498'>　令皆止人出入之官故取此作艮止義然其象則又</span>
+<span class='tline' id='l285' data-llen='7498:7521'>　以門闕而推及之若吳幼清謂外一剛閽人無足内</span>
+<span class='tline' id='l286' data-llen='7521:7548'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-16b' );" name="030-16b" class="pb">[030-16b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l287' data-llen='7548:7571'>　二柔寺人無陽則又過鑿矣夫子作傳時恐見不及</span>
+<span class='tline' id='l288' data-llen='7571:7576'>　此耳</span>
+<span class='tline' id='l289' data-llen='7576:7599'>兑為澤為少女為巫為口舌為毁折為附决其於地也</span>
+<span class='tline' id='l290' data-llen='7599:7639'>為剛鹵為妾為羊<span class='krp-note'>鄭氏本作陽陽養無家女行賃炊㸑/賤于妾者郭璞引魯詩曰陽如之何</span></span>
+<span class='tline' id='l291' data-llen='7639:7686'><span class='krp-note'>又曰巴濮之人自稱阿陽即此虞氏本作羔李氏易解/本同虞云羔女使皆取位賤故為羔舊讀以震駀為龍</span></span>
+<span class='tline' id='l292' data-llen='7686:7735'><span class='krp-note'>艮拘為狗兑羔為羊皆已見上此為再出非孔子意也/  荀九家有為常為輔頰  按常不知何象陸徳明引</span></span>
+<span class='tline' id='l293' data-llen='7735:7783'><span class='krp-note'>舊註云常西方神也若吳澄謂常者九旂之一下二竒/象通帛下垂上一偶象分繋于杠杜撰無理  虞氏易</span></span>
+<span class='tline' id='l294' data-llen='7783:7799'><span class='krp-note'>有為妹為孔穴/為刑人為小</span></span>
+<span class='tline' id='l295' data-llen='7799:7826'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-17a' );" name="030-17a" class="pb">[030-17a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l296' data-llen='7826:7849'>　巫口舌之官兑秋殺物故毁折一隂上升行将决去</span>
+<span class='tline' id='l297' data-llen='7849:7872'>　兑乾之所以得夬也夬者决也説文西方曰鹵李氏</span>
+<span class='tline' id='l298' data-llen='7872:7890'>　易解曰乾陽在下故剛澤水潤下故鹹</span>
+<span class='tline' id='l299' data-llen='7890:7895'>序卦傳</span>
+<span class='tline' id='l300' data-llen='7895:7918'>　二篇分上下名曰對易此文王周易所謂三易之一</span>
+<span class='tline' id='l301' data-llen='7918:7941'>　者其例有對待而無聨屬夫子故創為聨屬之説以</span>
+<span class='tline' id='l302' data-llen='7941:7964'>　寄意焉然仍不明註對待者書不盡言也黙而成之</span>
+<span class='tline' id='l303' data-llen='7964:7971'>　存乎人也</span>
+<span class='tline' id='l304' data-llen='7971:7998'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-17b' );" name="030-17b" class="pb">[030-17b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l305' data-llen='7998:8021'>有天地然後萬物生焉盈天地之間者惟萬物故受之</span>
+<span class='tline' id='l306' data-llen='8021:8049'>以屯屯者盈也屯者物之始生也物<span class='krp-note'>郭京/作始</span>生必䝉故受</span>
+<span class='tline' id='l307' data-llen='8049:8083'>之以䝉䝉者䝉<span class='krp-note'>郭京本此/下有昧也</span>也物之穉<span class='krp-note'>一作/稚</span>也物穉不可</span>
+<span class='tline' id='l308' data-llen='8083:8112'>不養也故受之以<span class='krp-note'>李鼎祚本/無以字</span>需需者飲食之道也飲食</span>
+<span class='tline' id='l309' data-llen='8112:8151'>必有訟故受之以訟<span class='krp-note'>僧一行易纂引孟喜序卦曰隂陽/養萬物必訟而成之君臣養萬民</span></span>
+<span class='tline' id='l310' data-llen='8151:8181'><span class='krp-note'>亦訟而成之/今傳無此</span>訟必有衆起故受之以師師者衆也衆必</span>
+<span class='tline' id='l311' data-llen='8181:8211'>有所比故受之以比比者<span class='krp-note'>郭京本者/下有親字</span>比也比必有所畜</span>
+<span class='tline' id='l312' data-llen='8211:8243'><span class='krp-note'>一作/蓄</span>故受之以小畜物畜然後有禮故受之以履<span class='krp-note'>吳澄/云此</span></span>
+<span class='tline' id='l313' data-llen='8243:8270'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-18a' );" name="030-18a" class="pb">[030-18a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l314' data-llen='8270:8314'><span class='krp-note'>下宜有履者禮也四字今韓註有之而王弼略/例引此四字當是後人誤以正文書作註字者</span>履而泰</span>
+<span class='tline' id='l315' data-llen='8314:8346'><span class='krp-note'>本義引晁氏云/鄭無而泰二字</span>然後安故受之以泰泰者通也物不可</span>
+<span class='tline' id='l316' data-llen='8346:8369'>以終通故受之以否物不可以終否故受之以同人與</span>
+<span class='tline' id='l317' data-llen='8369:8392'>人同者物必歸焉故受之以大有有大者不可以盈故</span>
+<span class='tline' id='l318' data-llen='8392:8419'>受之以謙有大而能謙必豫故受之以豫豫必有隨<span class='krp-note'>韓/康</span></span>
+<span class='tline' id='l319' data-llen='8419:8450'><span class='krp-note'>伯曰順以動者/衆之所隨也</span>故受之以隨以喜隨人者必有事故受</span>
+<span class='tline' id='l320' data-llen='8450:8473'>之以蠱蠱者事也有事而後可大故受之以臨臨者大</span>
+<span class='tline' id='l321' data-llen='8473:8516'>也<span class='krp-note'>荀慈明曰陽稱大謂一陽動升故曰大也項/平甫曰以大臨小曰大凡稱臨皆大者之事</span>物大然</span>
+<span class='tline' id='l322' data-llen='8516:8543'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-18b' );" name="030-18b" class="pb">[030-18b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l323' data-llen='8543:8577'>後可觀<span class='krp-note'>説文引地可觀者莫/可觀于木今傳無此</span>故受之以觀可觀而後有</span>
+<span class='tline' id='l324' data-llen='8577:8607'>所合故受之以噬嗑<span class='krp-note'>李鼎祚本此/下有噬字</span>嗑者合也物不可以</span>
+<span class='tline' id='l325' data-llen='8607:8636'>苟合而已故受之以賁賁者飾也致飾然<span class='krp-note'>李鼎祚/本作而</span>後亨</span>
+<span class='tline' id='l326' data-llen='8636:8659'>則盡矣故受之以剥剥者剥也物不可以終盡剥窮上</span>
+<span class='tline' id='l327' data-llen='8659:8695'>反下故受之以復<span class='krp-note'>淮南子引云剥之不可遂盡/也故受之以復與此不同</span>復則不</span>
+<span class='tline' id='l328' data-llen='8695:8724'>妄矣故受之以无妄有无妄然後可畜故受之<span class='krp-note'>李鼎祚/本無之</span></span>
+<span class='tline' id='l329' data-llen='8724:8750'><span class='krp-note'>字/</span>以大畜物畜然後可養故受之以頥頥者養也不養</span>
+<span class='tline' id='l330' data-llen='8750:8780'>則不可<span class='krp-note'>李鼎祚本此/下有以字</span>動故受之以大過物不可以終過</span>
+<span class='tline' id='l331' data-llen='8780:8807'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-19a' );" name="030-19a" class="pb">[030-19a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l332' data-llen='8807:8830'>故受之以坎坎者陷也陷必有所麗故受之以離離者</span>
+<span class='tline' id='l333' data-llen='8830:8875'>麗也<span class='krp-note'>王昭素本于此下増麗必有感故受之以咸真狂/妄無忌憚者上下分篇此文王舊文故夫子于上</span></span>
+<span class='tline' id='l334' data-llen='8875:8885'><span class='krp-note'>傳至此/而止</span></span>
+<span class='tline' id='l335' data-llen='8885:8908'>有天地然後有萬物有萬物然後有男女有男女然後</span>
+<span class='tline' id='l336' data-llen='8908:8931'>有夫婦有夫婦然後有父子有父子然後有君臣有君</span>
+<span class='tline' id='l337' data-llen='8931:8954'>臣然後有上下有上下然後禮義有所錯夫婦之道不</span>
+<span class='tline' id='l338' data-llen='8954:8977'>可以不久也故受之以恒恒者久也物不可以久居其</span>
+<span class='tline' id='l339' data-llen='8977:9000'>所故受之以遯遯者退也物不可以終遯故受之以大</span>
+<span class='tline' id='l340' data-llen='9000:9027'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-19b' );" name="030-19b" class="pb">[030-19b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l341' data-llen='9027:9050'>壯物不可以終壯故受之以晉晉者進也進必有所傷</span>
+<span class='tline' id='l342' data-llen='9050:9073'>故受之以明夷夷者傷也傷於外者必反其家故受之</span>
+<span class='tline' id='l343' data-llen='9073:9096'>以家人家道窮必乖故受之以睽睽者乖也乖必有難</span>
+<span class='tline' id='l344' data-llen='9096:9119'>故受之以蹇蹇者難也物不可以終難故受之以解解</span>
+<span class='tline' id='l345' data-llen='9119:9142'>者緩也緩必有所失故受之以損損而不已必益故受</span>
+<span class='tline' id='l346' data-llen='9142:9165'>之以益益而不已必决故受之以夬夬者决也决必有</span>
+<span class='tline' id='l347' data-llen='9165:9194'>所<span class='krp-note'>李鼎祚本/無所字</span>遇故受之以姤姤者遇也物相遇而後聚</span>
+<span class='tline' id='l348' data-llen='9194:9217'>故受之以萃萃者聚也聚而上者謂之升故受之以升</span>
+<span class='tline' id='l349' data-llen='9217:9244'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-20a' );" name="030-20a" class="pb">[030-20a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l350' data-llen='9244:9267'>升而不已必困故受之以困困乎上者必反下故受之</span>
+<span class='tline' id='l351' data-llen='9267:9299'>以井井道不可不革故受之以革<span class='krp-note'>韓康伯曰井久則/穢濁宜易其故</span>革</span>
+<span class='tline' id='l352' data-llen='9299:9333'>物者莫若鼎故受之以鼎<span class='krp-note'>韓康伯曰鼎所以和/齊生物成新之器也</span>主器者</span>
+<span class='tline' id='l353' data-llen='9333:9371'>莫若長子<span class='krp-note'>崔憬曰鼎所烹飪享于上帝主此/器者莫若冢嫡以其為祭主也</span>故受之以</span>
+<span class='tline' id='l354' data-llen='9371:9402'>震震者動也物不可以終動<span class='krp-note'>李鼎祚本此下/有動必二字</span>止之故受</span>
+<span class='tline' id='l355' data-llen='9402:9425'>之以艮艮者止也物不可以終止故受之以漸漸者進</span>
+<span class='tline' id='l356' data-llen='9425:9448'>也進必有所歸故受之以歸妹得其所歸者必大故受</span>
+<span class='tline' id='l357' data-llen='9448:9471'>之以豐豐者大也窮大者必失其居故受之以旅旅而</span>
+<span class='tline' id='l358' data-llen='9471:9498'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-20b' );" name="030-20b" class="pb">[030-20b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l359' data-llen='9498:9521'>無所容故受之以巽巽者入也入而後説之故受之以</span>
+<span class='tline' id='l360' data-llen='9521:9544'>兑兑者説也説而後散之故受之以渙渙者離也物不</span>
+<span class='tline' id='l361' data-llen='9544:9567'>可以終離故受之以節節而信之故受之以中孚有其</span>
+<span class='tline' id='l362' data-llen='9567:9603'>信者必行之故受之以小過<span class='krp-note'>韓康伯曰守其信者則失/貞而不諒之道而以信為</span></span>
+<span class='tline' id='l363' data-llen='9603:9641'><span class='krp-note'>過也故/曰小過</span>有過物者必濟故受之以既濟<span class='krp-note'>韓康伯曰行過/乎恭禮過乎儉</span></span>
+<span class='tline' id='l364' data-llen='9641:9669'><span class='krp-note'>可以矯世勵/俗有所濟也</span>物不可窮也故受之以未濟終焉</span>
+<span class='tline' id='l365' data-llen='9669:9674'>雜卦傳</span>
+<span class='tline' id='l366' data-llen='9674:9697'>　文王三易一曰轉易反對卦也反對之説發于漢晉</span>
+<span class='tline' id='l367' data-llen='9697:9724'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-21a' );" name="030-21a" class="pb">[030-21a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l368' data-llen='9724:9747'>　儒者而宋後陳邵易興反棄置不道遂致後儒朱升</span>
+<span class='tline' id='l369' data-llen='9747:9770'>　來知徳輩逺承漢易以反對立説世争以為創義而</span>
+<span class='tline' id='l370' data-llen='9770:9793'>　傳奉之可笑極矣夫子于兩繋説卦切指推易之法</span>
+<span class='tline' id='l371' data-llen='9793:9816'>　而以序卦釋對易雜卦釋轉易三易之賛至此始全</span>
+<span class='tline' id='l372' data-llen='9816:9839'>　第序卦並不及對易一字祇聨絡而對在其中雜卦</span>
+<span class='tline' id='l373' data-llen='9839:9862'>　並不及轉易一字祇對待而反對在其中所謂書不</span>
+<span class='tline' id='l374' data-llen='9862:9879'>　盡言也黙成之存乎人也雜者錯也</span>
+<span class='tline' id='l375' data-llen='9879:9923'>乾剛坤<span class='krp-note'>歸蔵易作奭何氏訂詁曰按古歸蔵易今亡惟/存六十四卦名而又闕其四與周易不同今取</span></span>
+<span class='tline' id='l376' data-llen='9923:9950'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-21b' );" name="030-21b" class="pb">[030-21b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l377' data-llen='9950:10000'><span class='krp-note'>其名異者附識于此又有瞿欽規夜分五卦岑/<img height='20' width='20' alt='&amp;KR2593' title='KR2593' src='https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2593.png'/>林禍馬徒三複名卦不知當周易何卦也</span>柔比樂</span>
+<span class='tline' id='l378' data-llen='10000:10012'>師憂臨觀之義或與或求</span>
+<span class='tline' id='l379' data-llen='10012:10033'>屯見而不失其居䝉雜<span class='krp-note'>郭京本/作稚</span>而著</span>
+<span class='tline' id='l380' data-llen='10033:10071'>震<span class='krp-note'>歸蔵/作釐</span>起也艮<span class='krp-note'>歸蔵/作狠</span>止也損<span class='krp-note'>歸蔵/作員</span>益盛衰之始也大畜</span>
+<span class='tline' id='l381' data-llen='10071:10116'><span class='krp-note'>歸蔵作/<img height='20' width='20' alt='&amp;KR2854' title='KR2854' src='https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2854.png'/>畜</span>時也无妄<span class='krp-note'>歸蔵作/毋亡</span>災也萃聚而升<span class='krp-note'>歸蔵/作稱</span>不來也</span>
+<span class='tline' id='l382' data-llen='10116:10144'>謙<span class='krp-note'>歸蔵/作兼</span>輕而豫怠<span class='krp-note'>京房本作治/虞翻本作怡</span>也</span>
+<span class='tline' id='l383' data-llen='10144:10172'>噬嗑食也賁无色也兑見而巽伏也隨无故也蠱<span class='krp-note'>歸蔵/作蜀</span></span>
+<span class='tline' id='l384' data-llen='10172:10189'>則飭<span class='krp-note'>鄭𤣥王肅/本俱作節</span>也</span>
+<span class='tline' id='l385' data-llen='10189:10216'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-22a' );" name="030-22a" class="pb">[030-22a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l386' data-llen='10216:10231'>剥<span class='krp-note'>歸蔵/作僕</span>爛也復反也</span>
+<span class='tline' id='l387' data-llen='10231:10273'>晉晝也明夷誅<span class='krp-note'>楊慎云古誅字有之繇切見韻補與晝/相叶則晝亦音周  按韻學至宋而亡</span></span>
+<span class='tline' id='l388' data-llen='10273:10320'><span class='krp-note'>元明龍宋人之舊數百年中無一人識韻遂有疑周易/毛詩失韻者如升庵此説俱極不通之論彼第知誅必</span></span>
+<span class='tline' id='l389' data-llen='10320:10367'><span class='krp-note'>讀周始可與晝叶晝亦必讀周始可與誅叶不知魚虞/尤三韻並通誅不必讀周且平上去三聲並通晝亦不</span></span>
+<span class='tline' id='l390' data-llen='10367:10414'><span class='krp-note'>必讀周也此如國風三星在隅與見此邂逅叶大雅無/聲無臭與萬邦作孚叶逅與臭即晝也隅與孚即誅也</span></span>
+<span class='tline' id='l391' data-llen='10414:10461'><span class='krp-note'>幾見隅必讀牛逅必讀侯乎故張衡西京賦取殊材于/八都豈稽度于往舊淮南子縱志舒節以馳大區可以</span></span>
+<span class='tline' id='l392' data-llen='10461:10502'><span class='krp-note'>步而步可以驟而驟皆如此叶古聖知/之俗儒不知也詳見予御覽古今通韻</span>也井通而困相</span>
+<span class='tline' id='l393' data-llen='10502:10519'>遇也咸<span class='krp-note'>歸蔵/作諴</span>速也恒久也</span>
+<span class='tline' id='l394' data-llen='10519:10546'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-22b' );" name="030-22b" class="pb">[030-22b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l395' data-llen='10546:10561'>渙<span class='krp-note'>歸蔵/作奐</span>離也節止也</span>
+<span class='tline' id='l396' data-llen='10561:10576'>解<span class='krp-note'>歸蔵/作荔</span>緩也蹇難也</span>
+<span class='tline' id='l397' data-llen='10576:10605'>睽外也家人<span class='krp-note'>歸蔵作/散家人</span>内也否泰反其類也大壯則止遯</span>
+<span class='tline' id='l398' data-llen='10605:10624'><span class='krp-note'>歸蔵/作<img height='20' width='20' alt='&amp;KR0735' title='KR0735' src='https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0735.png'/></span>則退也</span>
+<span class='tline' id='l399' data-llen='10624:10652'>大有衆<span class='krp-note'>荀爽本/作終</span>也同人親也革去故也鼎取新也小過</span>
+<span class='tline' id='l400' data-llen='10652:10660'>過也中孚信也</span>
+<span class='tline' id='l401' data-llen='10660:10700'>豐多故<span class='krp-note'>李鼎祚本/有也字</span>親<span class='krp-note'>荀爽本以此/作句非是</span>寡旅也離上而坎<span class='krp-note'>歸/蔵</span></span>
+<span class='tline' id='l402' data-llen='10700:10732'><span class='krp-note'>作/犖</span>下也小畜<span class='krp-note'>歸蔵作/<img height='20' width='20' alt='&amp;KR3303' title='KR3303' src='https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3303.png'/>畜</span>寡也履不處也</span>
+<span class='tline' id='l403' data-llen='10732:10759'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-23a' );" name="030-23a" class="pb">[030-23a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l404' data-llen='10759:10792'>需<span class='krp-note'>歸蔵/作溽</span>不進訟不親也<span class='krp-note'>已上皆反對卦雖/無序而實相聨者</span></span>
+<span class='tline' id='l405' data-llen='10792:10835'>大過顛也<span class='krp-note'>此下并反對相聨而亦亂之使隠其轉易之/象所謂雜也此句宜與頤養正也對顛無韻</span></span>
+<span class='tline' id='l406' data-llen='10835:10877'><span class='krp-note'>以正為韻與下女/之終男之窮叶</span>姤遇也柔遇剛也<span class='krp-note'>此宜在男之窮也/下與夬决也四句</span></span>
+<span class='tline' id='l407' data-llen='10877:10919'><span class='krp-note'>對剛無韻以剛决柔也/為韻與小人道憂叶</span>漸女歸待男行也<span class='krp-note'>此宜在正也/後與歸妹對</span></span>
+<span class='tline' id='l408' data-llen='10919:10954'>頥養正也<span class='krp-note'>説見/前</span>既濟定也<span class='krp-note'>此宜在女之終/下與未濟對</span>歸妹女之終</span>
+<span class='tline' id='l409' data-llen='10954:10977'>也未濟男之窮也夬决也剛决柔也君子道長小人道</span>
+<span class='tline' id='l410' data-llen='10977:11024'>憂也<span class='krp-note'>説總見前序仲氏曰此非錯簡者乃故亂之以使/之雜既非  次復非反對其名雜卦者以此  嘗</span></span>
+<span class='tline' id='l411' data-llen='11024:11071'><span class='krp-note'>按其韻則正錯俱叶故知有意為此者此聖人之文也/古韻宫聲七部則東冬江陽庚青蒸七韻俱通故以本</span></span>
+<span class='tline' id='l412' data-llen='11071:11098'><a onclick="displayPageImage('KR1a0126', 'WYG', '030-23b' );" name="030-23b" class="pb">[030-23b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l413' data-llen='11098:11145'><span class='krp-note'>文叶之則剛行正定終窮一叶柔憂一叶以更正之文/叶之則正剛一叶行終一叶定窮一叶總是七部之通</span></span>
+<span class='tline' id='l414' data-llen='11145:11192'><span class='krp-note'>至柔憂則另韻耳盖正定為庚之去聲古平上去三聲/並通故正與剛叶如小雅憂心怲怲庶幾有臧類行與</span></span>
+<span class='tline' id='l415' data-llen='11192:11239'><span class='krp-note'>終叶如楚詞身既死兮神已靈魂魄毅兮為鬼雄類定/與窮叶如伊訓爾惟徳罔小萬邦惟慶爾惟不徳罔大</span></span>
+<span class='tline' id='l416' data-llen='11239:11286'><span class='krp-note'>墜厥宗類剛與行叶如吳鐃歌寒露沾衣裳鳩鳥化為/鷹類剛與終窮叶如焦仲卿妻新婦起嚴粧事事四五</span></span>
+<span class='tline' id='l417' data-llen='11286:11319'><span class='krp-note'>通九歌魚鱗屋兮龍堂紫貝闕兮朱/宫類凡易中有韻文皆有法度如此</span></span>
+<span class='tline' id='l418' data-llen='11319:11322'>　</span>
+<span class='tline' id='l419' data-llen='11322:11325'>　</span>
+<span class='tline' id='l420' data-llen='11325:11334'>　仲氏易卷三十</span>
 </p>
-<p><br/>
+<p>
 </p>
   </div>

@@ -1,618 +1,618 @@
 <div id="txtcont" class="span9" style="position: relative;">
-    <p><br/>
-<span class='tline' id='l7' data-llen='152:178'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-1a' );" name="008-1a" class="pb">[008-1a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l8' data-llen='178:186'>欽定四庫全書</span><br/>
-<span class='tline' id='l9' data-llen='186:205'>　漢上易傳卷八　　　　宋　朱震　撰</span><br/>
-<span class='tline' id='l10' data-llen='205:213'>　　繫辭下傳</span><br/>
-<span class='tline' id='l11' data-llen='213:236'>八卦成列象在其中矣因而重之爻在其中矣剛柔相</span><br/>
-<span class='tline' id='l12' data-llen='236:259'>推變在其中矣繫辭焉而命之動在其中矣吉凶悔吝</span><br/>
-<span class='tline' id='l13' data-llen='259:282'>者生乎動者也剛柔者立本者也變通者趣時者也吉</span><br/>
-<span class='tline' id='l14' data-llen='282:305'>凶者貞勝者也天地之道貞觀者也日月之道貞明者</span><br/>
-<span class='tline' id='l15' data-llen='305:328'>也天下之動貞夫一者也夫乾確然示人易矣夫坤隤</span><br/>
-<span class='tline' id='l16' data-llen='328:354'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-1b' );" name="008-1b" class="pb">[008-1b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l17' data-llen='354:377'>然示人簡矣爻也者效此者也象也者像此者也爻象</span><br/>
-<span class='tline' id='l18' data-llen='377:399'>動乎内吉凶見乎外功業見乎變聖人之情見乎辭</span><br/>
-<span class='tline' id='l19' data-llen='399:422'>　伏羲始畫八卦八卦成列而乾坤定位震巽一交也</span><br/>
-<span class='tline' id='l20' data-llen='422:445'>　坎離艮兌二交也兌以一陽與艮坎以一隂奉離震</span><br/>
-<span class='tline' id='l21' data-llen='445:468'>　巽以二相易六十四卦之象在其中矣三畫天地人</span><br/>
-<span class='tline' id='l22' data-llen='468:491'>　也伏羲因而重之六位成章兼三才而兩之則三百</span><br/>
-<span class='tline' id='l23' data-llen='491:514'>　八十四爻在其中矣歸藏初經八卦六爻則知因而</span><br/>
-<span class='tline' id='l24' data-llen='514:537'>　重之者伏羲也姚信曰連山氏得河圗夏人因之曰</span><br/>
-<span class='tline' id='l25' data-llen='537:563'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-2a' );" name="008-2a" class="pb">[008-2a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l26' data-llen='563:586'>　連山歸藏氏得河圗商人因之曰歸藏伏羲氏得河</span><br/>
-<span class='tline' id='l27' data-llen='586:609'>　圗周人因之曰周易連山神農氏也歸藏黄帝氏也</span><br/>
-<span class='tline' id='l28' data-llen='609:632'>　其經卦皆八本伏羲也其别卦皆六十有四因八卦</span><br/>
-<span class='tline' id='l29' data-llen='632:655'>　也六爻剛柔互相推盪六十四卦之變在其中矣鄭</span><br/>
-<span class='tline' id='l30' data-llen='655:678'>　康成曰虙羲作十言之教曰乾坤震巽坎離艮兌消</span><br/>
-<span class='tline' id='l31' data-llen='678:701'>　息無文字謂之易乃知周易繫辭於卦下者文王也</span><br/>
-<span class='tline' id='l32' data-llen='701:724'>　文王繫辭指其象而命之以名則周公之爻辭所以</span><br/>
-<span class='tline' id='l33' data-llen='724:747'>　鼓天下之動者在其中矣彖辭曰吉凶而巳吉凶悔</span><br/>
-<span class='tline' id='l34' data-llen='747:773'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-2b' );" name="008-2b" class="pb">[008-2b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l35' data-llen='773:796'>　吝者爻辭也是亦生乎卦之動也爻動靜當則吉當</span><br/>
-<span class='tline' id='l36' data-llen='796:819'>　靜而動當動而靜則凶悔吝矣言吉凶悔吝生乎動</span><br/>
-<span class='tline' id='l37' data-llen='819:842'>　者主動爻言之也自神農氏而下演為三易贊為十</span><br/>
-<span class='tline' id='l38' data-llen='842:865'>　翼非聖人能為是也引而伸之不外是也爻有剛柔</span><br/>
-<span class='tline' id='l39' data-llen='865:888'>　不有兩則一不立所以立本也剛柔相變通其變以</span><br/>
-<span class='tline' id='l40' data-llen='888:911'>　盡利者趣時也趣時者時中也故曰乾坤毁則无以</span><br/>
-<span class='tline' id='l41' data-llen='911:934'>　見易矣剛柔相錯有當有否則吉凶生又曰吉凶者</span><br/>
-<span class='tline' id='l42' data-llen='934:957'>　貞勝也何謂邪此於動中明乎不動者也韓康伯謂</span><br/>
-<span class='tline' id='l43' data-llen='957:983'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-3a' );" name="008-3a" class="pb">[008-3a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l44' data-llen='983:1006'>　不累乎吉凶是已張載曰有義命當吉當凶當否當</span><br/>
-<span class='tline' id='l45' data-llen='1006:1029'>　亨者聖人不使避凶趨吉一以貞勝而不顧如大人</span><br/>
-<span class='tline' id='l46' data-llen='1029:1052'>　否亨有隕自天過涉滅頂凶无咎損益龜不克違及</span><br/>
-<span class='tline' id='l47' data-llen='1052:1075'>　其命亂也之類天地之道有升降然上下之觀不動</span><br/>
-<span class='tline' id='l48' data-llen='1075:1098'>　也故曰天地之道貞觀也日月之道有往來然晝夜</span><br/>
-<span class='tline' id='l49' data-llen='1098:1121'>　之明不動也故曰日月之道貞明也天下之動吉凶</span><br/>
-<span class='tline' id='l50' data-llen='1121:1144'>　之變多矣而君子安其義命一以貞勝吉凶不能動</span><br/>
-<span class='tline' id='l51' data-llen='1144:1167'>　何累之有故曰天下之動貞夫一也一者貞也貞所</span><br/>
-<span class='tline' id='l52' data-llen='1167:1193'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-3b' );" name="008-3b" class="pb">[008-3b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l53' data-llen='1193:1216'>　以一天下之動此彖辭爻辭所以貴夫貞也吉凶以</span><br/>
-<span class='tline' id='l54' data-llen='1216:1239'>　貞勝故能立天下之本趨天下之時八卦本乾坤者</span><br/>
-<span class='tline' id='l55' data-llen='1239:1262'>　也夫乾陽至剛確然不易示人為君為父為夫之道</span><br/>
-<span class='tline' id='l56' data-llen='1262:1285'>　不亦易乎夫坤隂至柔隤然而順示人為子為臣為</span><br/>
-<span class='tline' id='l57' data-llen='1285:1308'>　婦之道不亦簡乎乾剛坤柔以立本者也爻也者效</span><br/>
-<span class='tline' id='l58' data-llen='1308:1331'>　乾坤之動者也天道下濟地道上行剛柔相推變通</span><br/>
-<span class='tline' id='l59' data-llen='1331:1354'>　以趣時者也象者像乾坤之象者也爻有變動象亦</span><br/>
-<span class='tline' id='l60' data-llen='1354:1377'>　像之爻象動乎内者有當有否則人事之見於外者</span><br/>
-<span class='tline' id='l61' data-llen='1377:1403'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-4a' );" name="008-4a" class="pb">[008-4a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l62' data-llen='1403:1426'>　有吉有凶人與乾坤一也吉凶之變有術通之凶者</span><br/>
-<span class='tline' id='l63' data-llen='1426:1449'>　反之吉則功業不期於見而見矣觀此則乾坤示人</span><br/>
-<span class='tline' id='l64' data-llen='1449:1472'>　足矣聖人必以彖言乎象爻言乎變繫辭以言吉凶</span><br/>
-<span class='tline' id='l65' data-llen='1472:1495'>　者聖人之情愛人无巳也恐其陷於凶咎是以指其</span><br/>
-<span class='tline' id='l66' data-llen='1495:1512'>　所之故考乎其辭則聖人之情見矣</span><br/>
-<span class='tline' id='l67' data-llen='1512:1535'>天地之大徳曰生聖人之大寳曰位何以守位曰仁何</span><br/>
-<span class='tline' id='l68' data-llen='1535:1558'>以聚人曰財理財正辭禁民為非曰義古者包犧氏之</span><br/>
-<span class='tline' id='l69' data-llen='1558:1581'>王天下也仰則觀象於天俯則觀法於地觀鳥獸之文</span><br/>
-<span class='tline' id='l70' data-llen='1581:1607'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-4b' );" name="008-4b" class="pb">[008-4b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l71' data-llen='1607:1630'>與地之宜近取諸身逺取諸物於是始作八卦以通神</span><br/>
-<span class='tline' id='l72' data-llen='1630:1653'>明之徳以類萬物之情作結繩而為網罟以佃以漁蓋</span><br/>
-<span class='tline' id='l73' data-llen='1653:1676'>取諸離包犧氏沒神農氏作斲木為耜揉木為耒耒耨</span><br/>
-<span class='tline' id='l74' data-llen='1676:1699'>之利以教天下蓋取諸益日中為市致天下之民聚天</span><br/>
-<span class='tline' id='l75' data-llen='1699:1722'>下之貨交易而退各得其所蓋取諸噬嗑神農氏沒黄</span><br/>
-<span class='tline' id='l76' data-llen='1722:1745'>帝堯舜氏作通其變使民不倦神而化之使民宜之易</span><br/>
-<span class='tline' id='l77' data-llen='1745:1768'>窮則變變則通通則久是以自天祐之吉无不利黄帝</span><br/>
-<span class='tline' id='l78' data-llen='1768:1791'>堯舜垂衣裳而天下治蓋取諸乾坤刳木為舟剡木為</span><br/>
-<span class='tline' id='l79' data-llen='1791:1817'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-5a' );" name="008-5a" class="pb">[008-5a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l80' data-llen='1817:1840'>楫舟楫之利以濟不通致逺以利天下蓋取諸渙服牛</span><br/>
-<span class='tline' id='l81' data-llen='1840:1863'>乗馬引重致逺以利天下蓋取諸隨重門擊柝以待暴</span><br/>
-<span class='tline' id='l82' data-llen='1863:1886'>客蓋取諸豫斷木為杵掘地為臼臼杵之利萬民以濟</span><br/>
-<span class='tline' id='l83' data-llen='1886:1909'>蓋取諸小過弦木為弧剡木為矢弧矢之利以威天下</span><br/>
-<span class='tline' id='l84' data-llen='1909:1932'>蓋取諸睽上古穴居而野處後世聖人易之以宫室上</span><br/>
-<span class='tline' id='l85' data-llen='1932:1956'>棟下宇以待風雨蓋取諸大壯古之葬者厚衣之以薪葬</span><br/>
-<span class='tline' id='l86' data-llen='1956:1979'>之中野不封不樹喪期无數後世聖人易之以棺槨蓋</span><br/>
-<span class='tline' id='l87' data-llen='1979:2002'>取諸大過上古結繩而治後世聖人易之以書契百官</span><br/>
-<span class='tline' id='l88' data-llen='2002:2028'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-5b' );" name="008-5b" class="pb">[008-5b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l89' data-llen='2028:2051'>以治萬民以察蓋取諸夬是故易者象也象也者像也</span><br/>
-<span class='tline' id='l90' data-llen='2051:2074'>彖者材也爻也者效天下之動者也是故吉凶生而悔</span><br/>
-<span class='tline' id='l91' data-llen='2074:2079'>吝著也</span><br/>
-<span class='tline' id='l92' data-llen='2079:2102'>　胡旦分天地之大徳曰生為一章陽卦多隂為一章</span><br/>
-<span class='tline' id='l93' data-llen='2102:2125'>　考之文義當從旦龔原本亦然乾大生也坤廣生也</span><br/>
-<span class='tline' id='l94' data-llen='2125:2148'>　乾坤合而成徳生物而巳故曰天地之大徳曰生聖</span><br/>
-<span class='tline' id='l95' data-llen='2148:2171'>　人之情見乎辭者亦天地之徳也聖人成位乎兩間</span><br/>
-<span class='tline' id='l96' data-llen='2171:2194'>　有其徳无其位不能兼善天下於其位也慎之重之</span><br/>
-<span class='tline' id='l97' data-llen='2194:2220'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-6a' );" name="008-6a" class="pb">[008-6a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l98' data-llen='2220:2243'>　在卦則尊位也故曰聖人之大寳曰位天地之大徳</span><br/>
-<span class='tline' id='l99' data-llen='2243:2266'>　曰生者仁也聖人成位乎兩間者仁而巳矣不仁不</span><br/>
-<span class='tline' id='l100' data-llen='2266:2289'>　足以參天地聖人者聰明叡知神武而不殺不殺者</span><br/>
-<span class='tline' id='l101' data-llen='2289:2312'>　好生也故曰何以守位曰仁仁被萬物取財於天地</span><br/>
-<span class='tline' id='l102' data-llen='2312:2335'>　則財不可勝用其民養生喪死无憾可以保四海守</span><br/>
-<span class='tline' id='l103' data-llen='2335:2358'>　宗廟社稷故曰何以聚人曰財理財者節之以制度</span><br/>
-<span class='tline' id='l104' data-llen='2358:2381'>　也節之類是也正辭者正邪説也六辭是也禁民為</span><br/>
-<span class='tline' id='l105' data-llen='2381:2404'>　非者禁其非歸之於是也如是乃得其宜故曰義義</span><br/>
-<span class='tline' id='l106' data-llen='2404:2430'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-6b' );" name="008-6b" class="pb">[008-6b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l107' data-llen='2430:2453'>　所以為仁非二本也故曰立人之道仁與義莫非義</span><br/>
-<span class='tline' id='l108' data-llen='2453:2476'>　也義至於禁民為非盡矣自此以下明備物致用立</span><br/>
-<span class='tline' id='l109' data-llen='2476:2499'>　成器以為天下利者无非有取於易皆仁也曰王天</span><br/>
-<span class='tline' id='l110' data-llen='2499:2522'>　下者明守位也所謂崇髙莫大乎富貴也鳥獸之文</span><br/>
-<span class='tline' id='l111' data-llen='2522:2546'>　即天文太𤣥曰察龍虎之文觀鳥龜之理舉鳥獸則</span><br/>
-<span class='tline' id='l112' data-llen='2546:2569'>　龜見矣仰觀龍虎鳥龜之文其形成於地俯觀山川</span><br/>
-<span class='tline' id='l113' data-llen='2569:2592'>　原隰之宜其象見於天凡在地者皆法天者也近取</span><br/>
-<span class='tline' id='l114' data-llen='2592:2615'>　諸身則八卦具於百骸而身无非物逺取諸物則八</span><br/>
-<span class='tline' id='l115' data-llen='2615:2641'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-7a' );" name="008-7a" class="pb">[008-7a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l116' data-llen='2641:2664'>　卦具於萬物而物无非我故神明之徳雖異而可通</span><br/>
-<span class='tline' id='l117' data-llen='2664:2687'>　萬物之情雖衆而可類其道至於一以貫之此包犧</span><br/>
-<span class='tline' id='l118' data-llen='2687:2710'>　氏所以作易一者何仁也上古茹毛飲血故教之以</span><br/>
-<span class='tline' id='l119' data-llen='2710:2733'>　佃漁蓋取諸重離巽繩離目網目謂之罟兩目相連</span><br/>
-<span class='tline' id='l120' data-llen='2733:2756'>　結繩為之罔罟也離為雉佃也兌巽為魚漁也觀此</span><br/>
-<span class='tline' id='l121' data-llen='2756:2779'>　則伏羲畫八卦因而重之明矣神農氏時民厭鮮食</span><br/>
-<span class='tline' id='l122' data-llen='2779:2802'>　而食草木之實聖人因是以達其不忍之心故教以</span><br/>
-<span class='tline' id='l123' data-llen='2802:2825'>　耒耜之利蓋取諸益益否乾之初也乾金斲巽木斲</span><br/>
-<span class='tline' id='l124' data-llen='2825:2851'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-7b' );" name="008-7b" class="pb">[008-7b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l125' data-llen='2851:2874'>　木也四之三成坎坎為揉之初成震揉木也入坤土</span><br/>
-<span class='tline' id='l126' data-llen='2874:2897'>　而巽於前斲木為耜也動於後揉木為耒也耒耜之</span><br/>
-<span class='tline' id='l127' data-llen='2897:2920'>　利其益无方矣是時民甘其食美其服至死不相往</span><br/>
-<span class='tline' id='l128' data-llen='2920:2943'>　來故教之以交易蓋取諸噬嗑噬嗑否五之初也離</span><br/>
-<span class='tline' id='l129' data-llen='2943:2966'>　日在上為日中坤衆在下為市衆為民離有伏兌為</span><br/>
-<span class='tline' id='l130' data-llen='2966:2989'>　蠃貝坤往之乾致天下之民聚天下之貨也以坤交</span><br/>
-<span class='tline' id='l131' data-llen='2989:3012'>　乾交易也乾五退初而得位各得其所也佃漁不言</span><br/>
-<span class='tline' id='l132' data-llen='3012:3035'>　利於耒耜言利佃漁非聖人本心也佃有猛虎之害</span><br/>
-<span class='tline' id='l133' data-llen='3035:3061'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-8a' );" name="008-8a" class="pb">[008-8a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l134' data-llen='3061:3084'>　漁有蛟龍之害不若耒耜之利為市不言利者聚天</span><br/>
-<span class='tline' id='l135' data-llen='3084:3107'>　下之貨利在其中矣唐虞氏時洪水之患庶民鮮食</span><br/>
-<span class='tline' id='l136' data-llen='3107:3130'>　然後教民稼穡懋遷有無化居其道萬世一揆神農</span><br/>
-<span class='tline' id='l137' data-llen='3130:3153'>　氏沒民情巳厭黄帝堯舜作因其可變變而通之使</span><br/>
-<span class='tline' id='l138' data-llen='3153:3176'>　民日用其道而不倦而又微妙入神化而无迹天下</span><br/>
-<span class='tline' id='l139' data-llen='3176:3199'>　各得其宜蓋易道陽極變隂隂極變陽變則不窮不</span><br/>
-<span class='tline' id='l140' data-llen='3199:3222'>　窮則可久而不息善乎變通以趨時也是以自天祐</span><br/>
-<span class='tline' id='l141' data-llen='3222:3245'>　之吉无不利聖人先後天故也神農氏時與民並耕</span><br/>
-<span class='tline' id='l142' data-llen='3245:3271'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-8b' );" name="008-8b" class="pb">[008-8b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l143' data-llen='3271:3294'>　而食饔飱而治至是尊卑定位君逸臣勞乾坤无為</span><br/>
-<span class='tline' id='l144' data-llen='3294:3317'>　六子自用垂衣裳而天下治蓋取諸乾坤乾在上為</span><br/>
-<span class='tline' id='l145' data-llen='3317:3340'>　衣坤在下為裳上古山无蹊澤无梁至是舟楫之利</span><br/>
-<span class='tline' id='l146' data-llen='3340:3363'>　以濟不通蓋取諸渙渙否四之二也乾金刳巽木浮</span><br/>
-<span class='tline' id='l147' data-llen='3363:3386'>　於坎上刳木為舟也離火上銳剡木為楫也否塞者</span><br/>
-<span class='tline' id='l148' data-llen='3386:3409'>　渙散濟不通也上古牛未穿馬未絡至是服牛乗馬</span><br/>
-<span class='tline' id='l149' data-llen='3409:3432'>　引重致逺以利天下蓋取諸隨隨否上九之初也坤</span><br/>
-<span class='tline' id='l150' data-llen='3432:3455'>　牛而震足驅之服牛也震作足馬而巽股據之乗馬</span><br/>
-<span class='tline' id='l151' data-llen='3455:3481'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-9a' );" name="008-9a" class="pb">[008-9a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l152' data-llen='3481:3504'>　也坤輿震輹上六引之引重也内卦近外卦逺上六</span><br/>
-<span class='tline' id='l153' data-llen='3504:3527'>　在外卦之外致逺也牛馬隨人而動否不通也上之</span><br/>
-<span class='tline' id='l154' data-llen='3527:3550'>　初濟不通也上古外户不閉禦風氣而巳至是重門</span><br/>
-<span class='tline' id='l155' data-llen='3550:3573'>　擊柝以待暴客蓋取諸豫豫謙之反也謙艮為門九</span><br/>
-<span class='tline' id='l156' data-llen='3573:3596'>　三之四又為門重門也艮為手坎為堅木震為聲手</span><br/>
-<span class='tline' id='l157' data-llen='3596:3619'>　擊堅木而有聲擊柝也坤為闔户而坎盜逼之暴客</span><br/>
-<span class='tline' id='l158' data-llen='3619:3642'>　也知耒耜而不知杵臼之利則利天下者有未盡故</span><br/>
-<span class='tline' id='l159' data-llen='3642:3665'>　教之以杵臼之利蓋取諸小過小過明夷初之四也</span><br/>
-<span class='tline' id='l160' data-llen='3665:3691'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-9b' );" name="008-9b" class="pb">[008-9b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l161' data-llen='3691:3714'>　兌金斷巽木斷木為杵也巽木入坤土掘地為臼也</span><br/>
-<span class='tline' id='l162' data-llen='3714:3737'>　坎陷也臼之象杵動於上臼止於下四應初三應上</span><br/>
-<span class='tline' id='l163' data-llen='3737:3760'>　上下相應杵臼之利也坎變巽股萬民濟也知門柝</span><br/>
-<span class='tline' id='l164' data-llen='3760:3783'>　而不知弧矢之利則威天下者有未盡故教之以弧</span><br/>
-<span class='tline' id='l165' data-llen='3783:3806'>　矢之利蓋取諸睽睽家人反也家人巽為木巽離為</span><br/>
-<span class='tline' id='l166' data-llen='3806:3829'>　絲坎為弓弦木為弓也兌金剡木而銳之剡木為矢</span><br/>
-<span class='tline' id='l167' data-llen='3829:3852'>　也兌決乾剛威天下也聖人以百姓之心為心民之</span><br/>
-<span class='tline' id='l168' data-llen='3852:3875'>　所欲不以强去民之所惡不以强留然變而通之者</span><br/>
-<span class='tline' id='l169' data-llen='3875:3902'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-10a' );" name="008-10a" class="pb">[008-10a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l170' data-llen='3902:3925'>　亦因其典禮以損益之而巳且上古穴居而野處後</span><br/>
-<span class='tline' id='l171' data-llen='3925:3948'>　世聖人易之以宫室自黄帝而來夏后氏之世室商</span><br/>
-<span class='tline' id='l172' data-llen='3948:3971'>　人之重屋周人之明堂宫室之制有不同而上棟下</span><br/>
-<span class='tline' id='l173' data-llen='3971:3994'>　宇以待風雨取諸大壯者同也大壯自遯來三復三</span><br/>
-<span class='tline' id='l174' data-llen='3994:4017'>　變也一變中孚艮為居兌為口穴之象穴居也再變</span><br/>
-<span class='tline' id='l175' data-llen='4017:4040'>　大畜乾在上天際也野之象巽入變艮而止野處也</span><br/>
-<span class='tline' id='l176' data-llen='4040:4063'>　三變大壯震木在上棟也乾天在下宇也巽風隱兌</span><br/>
-<span class='tline' id='l177' data-llen='4063:4086'>　澤流待風雨也大壯則不撓矣古之葬者厚衣之以</span><br/>
-<span class='tline' id='l178' data-llen='4086:4113'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-10b' );" name="008-10b" class="pb">[008-10b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l179' data-llen='4113:4136'>　薪葬之中野不封不樹喪期无數後世聖人易之以</span><br/>
-<span class='tline' id='l180' data-llen='4136:4159'>　棺槨自堯舜以來有虞氏之瓦棺夏后氏之堲周商</span><br/>
-<span class='tline' id='l181' data-llen='4159:4182'>　人之梓棺槨之制有不同而取諸大過者同也大過</span><br/>
-<span class='tline' id='l182' data-llen='4182:4205'>　自遯四變一變訟乾見坤隱不封也再變巽木而兌</span><br/>
-<span class='tline' id='l183' data-llen='4205:4228'>　金毁之不樹也三變鼎離為目兌澤流喪也上九變</span><br/>
-<span class='tline' id='l184' data-llen='4228:4251'>　而應三坎兌為節不變喪期无數也木在澤下中有</span><br/>
-<span class='tline' id='l185' data-llen='4251:4274'>　乾人棺槨也葬則棺周於身槨周於棺土周於槨大</span><br/>
-<span class='tline' id='l186' data-llen='4274:4297'>　過也上古結繩而治後世聖人易之以書契象形㑹</span><br/>
-<span class='tline' id='l187' data-llen='4297:4324'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-11a' );" name="008-11a" class="pb">[008-11a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l188' data-llen='4324:4347'>　意轉注處事假借諧聲書契之制有不同而百官以</span><br/>
-<span class='tline' id='l189' data-llen='4347:4370'>　治萬民以察取諸夬者同也夬自姤五變一變同人</span><br/>
-<span class='tline' id='l190' data-llen='4370:4393'>　二變履三變小畜四變大有姤巽為繩結繩也巽變</span><br/>
-<span class='tline' id='l191' data-llen='4393:4416'>　成離坤離為文書也兌金刻木契也乾為君坤為臣</span><br/>
-<span class='tline' id='l192' data-llen='4416:4439'>　民坤居二四上百官以治也離明上達萬民以察也</span><br/>
-<span class='tline' id='l193' data-llen='4439:4462'>　以是决天下疑者夬也以是推之後世畋獵捕魚之</span><br/>
-<span class='tline' id='l194' data-llen='4462:4485'>　器雖不同而取於離則同也井牧溝洫之事雖不同</span><br/>
-<span class='tline' id='l195' data-llen='4485:4508'>　而取於益則同也朝市夕市雖不同而取於噬嗑則</span><br/>
-<span class='tline' id='l196' data-llen='4508:4535'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-11b' );" name="008-11b" class="pb">[008-11b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l197' data-llen='4535:4558'>　同也餘卦可以類推矣蓋動於人情見於風氣有是</span><br/>
-<span class='tline' id='l198' data-llen='4558:4581'>　時必有是象易者象也易之有象擬諸其形容而已</span><br/>
-<span class='tline' id='l199' data-llen='4581:4604'>　猶繪畫之事雕刻之工一毫損益則不相似矣象之</span><br/>
-<span class='tline' id='l200' data-llen='4604:4627'>　辭又謂之彖者言乎其才也卦有剛柔才也有是時</span><br/>
-<span class='tline' id='l201' data-llen='4627:4650'>　有是象必有是才以濟之才與時㑹斯足以成務矣</span><br/>
-<span class='tline' id='l202' data-llen='4650:4673'>　然天下之動其微難知有同是一時同處一事所當</span><br/>
-<span class='tline' id='l203' data-llen='4673:4696'>　之位有不同焉則趨舍進退殊途矣故曰爻者效天</span><br/>
-<span class='tline' id='l204' data-llen='4696:4719'>　下之動也是以卦同爻異趣時之變不得而同然所</span><br/>
-<span class='tline' id='l205' data-llen='4719:4746'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-12a' );" name="008-12a" class="pb">[008-12a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l206' data-llen='4746:4769'>　歸則若合符節故自伏羲神農黄帝堯舜凡六萬一</span><br/>
-<span class='tline' id='l207' data-llen='4769:4792'>　千四百有餘歳而行十三卦而巳夫爻動則有吉凶</span><br/>
-<span class='tline' id='l208' data-llen='4792:4815'>　悔吝吉凶者所以生大業也吉凶生而悔吝著其動</span><br/>
-<span class='tline' id='l209' data-llen='4815:4822'>　可不慎乎</span><br/>
-<span class='tline' id='l210' data-llen='4822:4845'>陽卦多隂隂卦多陽其故何也陽卦竒隂卦耦其徳行</span><br/>
-<span class='tline' id='l211' data-llen='4845:4868'>何也陽一君而二民君子之道也隂二君而一民小人</span><br/>
-<span class='tline' id='l212' data-llen='4868:4891'>之道也易曰憧憧往來朋從爾思子曰天下何思何慮</span><br/>
-<span class='tline' id='l213' data-llen='4891:4914'>天下同歸而殊塗一致而百慮天下何思何慮日往則</span><br/>
-<span class='tline' id='l214' data-llen='4914:4941'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-12b' );" name="008-12b" class="pb">[008-12b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l215' data-llen='4941:4964'>月來月往則日來日月相推而明生焉寒往則暑來暑</span><br/>
-<span class='tline' id='l216' data-llen='4964:4987'>往則寒來寒暑相推而歳成焉往者屈也來者信也屈</span><br/>
-<span class='tline' id='l217' data-llen='4987:5010'>信相感而利生焉尺蠖之屈以求信也龍蛇之蟄以存</span><br/>
-<span class='tline' id='l218' data-llen='5010:5033'>身也精義入神以致用也利用安身以崇徳也過此以</span><br/>
-<span class='tline' id='l219' data-llen='5033:5056'>往未之或知也窮神知化徳之盛也易曰因于石據于</span><br/>
-<span class='tline' id='l220' data-llen='5056:5079'>蒺藜入于其宫不見其妻凶子曰非所困而困焉名必</span><br/>
-<span class='tline' id='l221' data-llen='5079:5102'>辱非所據而據焉身必危既辱且危死期將至妻其可</span><br/>
-<span class='tline' id='l222' data-llen='5102:5125'>得見邪易曰公用射隼于髙墉之上獲之无不利子曰</span><br/>
-<span class='tline' id='l223' data-llen='5125:5152'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-13a' );" name="008-13a" class="pb">[008-13a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l224' data-llen='5152:5175'>隼者禽也弓矢者器也射之者人也君子藏器於身待</span><br/>
-<span class='tline' id='l225' data-llen='5175:5198'>時而動何不利之有動而不括是以出而有獲語成器</span><br/>
-<span class='tline' id='l226' data-llen='5198:5221'>而動者也子曰小人不恥不仁不畏不義不見利不勸</span><br/>
-<span class='tline' id='l227' data-llen='5221:5244'>不威不懲小懲而大誡此小人之福也易曰屨校滅趾</span><br/>
-<span class='tline' id='l228' data-llen='5244:5267'>无咎此之謂也善不積不足以成名惡不積不足以滅</span><br/>
-<span class='tline' id='l229' data-llen='5267:5292'>身小人以小善為无益而弗為也以小惡為无傷而弗去也</span><br/>
-<span class='tline' id='l230' data-llen='5292:5315'>故惡積而不可揜罪大而不可解易曰何校滅耳凶子</span><br/>
-<span class='tline' id='l231' data-llen='5315:5338'>曰危者安其位者也亡者保其存者也亂者有其治者</span><br/>
-<span class='tline' id='l232' data-llen='5338:5365'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-13b' );" name="008-13b" class="pb">[008-13b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l233' data-llen='5365:5388'>也是故君子安而不忘危存而不忘亡治而不忘亂是</span><br/>
-<span class='tline' id='l234' data-llen='5388:5411'>以身安而國家可保也易曰其亡其亡繫于苞桑子曰</span><br/>
-<span class='tline' id='l235' data-llen='5411:5434'>徳薄而位尊知小而謀大力小而任重鮮不及矣易曰</span><br/>
-<span class='tline' id='l236' data-llen='5434:5457'>鼎折足覆公餗其形渥凶言不勝其任也子曰知幾其</span><br/>
-<span class='tline' id='l237' data-llen='5457:5480'>神乎君子上交不諂下交不瀆其知幾乎幾者動之㣲</span><br/>
-<span class='tline' id='l238' data-llen='5480:5503'>吉之先見者也君子見幾而作不俟終日易曰介于石</span><br/>
-<span class='tline' id='l239' data-llen='5503:5526'>不終日貞吉介如石焉寧用終日斷可識矣君子知㣲</span><br/>
-<span class='tline' id='l240' data-llen='5526:5549'>知彰知柔知剛萬夫之望子曰顔氏之子其殆庶幾乎</span><br/>
-<span class='tline' id='l241' data-llen='5549:5576'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-14a' );" name="008-14a" class="pb">[008-14a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l242' data-llen='5576:5599'>有不善未嘗不知知之未嘗復行也易曰不逺復无祗</span><br/>
-<span class='tline' id='l243' data-llen='5599:5622'>悔元吉天地絪緼萬物化醇男女構精萬物化生易曰</span><br/>
-<span class='tline' id='l244' data-llen='5622:5645'>三人行則損一人一人行則得其友言致一也子曰君</span><br/>
-<span class='tline' id='l245' data-llen='5645:5668'>子安其身而後動易其心而後語定其交而後求君子</span><br/>
-<span class='tline' id='l246' data-llen='5668:5691'>修此三者故全也危以動則民不與也懼以語則民不</span><br/>
-<span class='tline' id='l247' data-llen='5691:5714'>應也无交而求則民不與也莫之與則傷之者至矣易</span><br/>
-<span class='tline' id='l248' data-llen='5714:5728'>曰莫益之或擊之立心勿恒凶</span><br/>
-<span class='tline' id='l249' data-llen='5728:5751'>　凡得乎乾者為陽卦震坎艮是也凡得乎坤者為隂</span><br/>
-<span class='tline' id='l250' data-llen='5751:5778'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-14b' );" name="008-14b" class="pb">[008-14b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l251' data-llen='5778:5801'>　卦巽離兌是也陽卦以竒為本故多隂隂卦以耦為</span><br/>
-<span class='tline' id='l252' data-llen='5801:5824'>　本故多陽本不可二也隂陽二卦其徳行不同何也</span><br/>
-<span class='tline' id='l253' data-llen='5824:5847'>　陽一君而徧體二民二民共事一君一也故為君子</span><br/>
-<span class='tline' id='l254' data-llen='5847:5870'>　之道隂卦一民共事二君二君共爭一民二也故為</span><br/>
-<span class='tline' id='l255' data-llen='5870:5893'>　小人之道陽貴隂賤晝人多福夜人多禍故君子貴</span><br/>
-<span class='tline' id='l256' data-llen='5893:5916'>　夫一也咸九四曰憧憧往來朋從爾思者勞神明以</span><br/>
-<span class='tline' id='l257' data-llen='5916:5939'>　為一也夫思之所及朋則從之思之所不及其誰從</span><br/>
-<span class='tline' id='l258' data-llen='5939:5962'>　乎雖憧憧於往來之間其從亦狹矣不知天下何思</span><br/>
-<span class='tline' id='l259' data-llen='5962:5989'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-15a' );" name="008-15a" class="pb">[008-15a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l260' data-llen='5989:6012'>　何慮萬物即一一即萬物同歸而有殊塗一致而具</span><br/>
-<span class='tline' id='l261' data-llen='6012:6035'>　百慮其一既通萬物自應豈思慮營營之所至哉且</span><br/>
-<span class='tline' id='l262' data-llen='6035:6058'>　日月寒暑一往一來自異者觀之兩也相推而生明</span><br/>
-<span class='tline' id='l263' data-llen='6058:6081'>　相推而成歳自同者觀之一也自往自來其誰使之</span><br/>
-<span class='tline' id='l264' data-llen='6081:6104'>　往者屈也來者信也一屈一信黙然相感而利生焉</span><br/>
-<span class='tline' id='l265' data-llen='6104:6127'>　尺蠖不屈則不能信龍蛇不蟄則不能存消息循環</span><br/>
-<span class='tline' id='l266' data-llen='6127:6150'>　相待而為用夫致用在於精義義則无決擇无取舍</span><br/>
-<span class='tline' id='l267' data-llen='6150:6173'>　唯其宜而巳精一於義則進而入於不可知之神故</span><br/>
-<span class='tline' id='l268' data-llen='6173:6200'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-15b' );" name="008-15b" class="pb">[008-15b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l269' data-llen='6200:6223'>　感而後動其動也天其用利矣遊乎人間物莫之傷</span><br/>
-<span class='tline' id='l270' data-llen='6223:6246'>　其身安矣利用安身日進无疆徳不期於崇而自崇</span><br/>
-<span class='tline' id='l271' data-llen='6246:6269'>　矣此吾之所知也過此以往則化矣如日月有明容</span><br/>
-<span class='tline' id='l272' data-llen='6269:6292'>　光必照寒暑相代萬物自生日月寒暑所不能知也</span><br/>
-<span class='tline' id='l273' data-llen='6292:6315'>　故曰聖人有所不知焉聖人有所不能焉然則所謂</span><br/>
-<span class='tline' id='l274' data-llen='6315:6338'>　化者終不可知歟曰窮神之所為則知化矣徳盛者</span><br/>
-<span class='tline' id='l275' data-llen='6338:6361'>　自至焉道至於此萬物與我一也故曰一則神兩則</span><br/>
-<span class='tline' id='l276' data-llen='6361:6384'>　化窮神則知變化之道人孰不欲安其身或困于石</span><br/>
-<span class='tline' id='l277' data-llen='6384:6411'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-16a' );" name="008-16a" class="pb">[008-16a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l278' data-llen='6411:6434'>　而不知休據于蒺藜而不知避名既汚辱身既危殆</span><br/>
-<span class='tline' id='l279' data-llen='6434:6457'>　日近於死亡雖欲安得乎哉妻且不得見也況朋從</span><br/>
-<span class='tline' id='l280' data-llen='6457:6481'>　乎藏可用之器待可為之時動無結閡出則有𫉬唯</span><br/>
-<span class='tline' id='l281' data-llen='6481:6504'>　乘屈信之理而其用利者能之小人不恥不仁故不</span><br/>
-<span class='tline' id='l282' data-llen='6504:6527'>　畏不義陷於死亡辱及其先恥孰大焉雖愚也而就</span><br/>
-<span class='tline' id='l283' data-llen='6527:6550'>　利避害與人同故見利而後勸威之而後懲小懲大</span><br/>
-<span class='tline' id='l284' data-llen='6550:6573'>　誡猶為小人之福況真知義乎精於義者豈一日積</span><br/>
-<span class='tline' id='l285' data-llen='6573:6596'>　哉彼積不善以滅其身者不知小善者大善之積也</span><br/>
-<span class='tline' id='l286' data-llen='6596:6623'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-16b' );" name="008-16b" class="pb">[008-16b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l287' data-llen='6623:6646'>　夫身者國家之本存亡治亂之所繫身雖安矣猶不</span><br/>
-<span class='tline' id='l288' data-llen='6646:6669'>　可恃也故安其位者危保其存者亡有其治者亂君</span><br/>
-<span class='tline' id='l289' data-llen='6669:6692'>　子兢兢業業不恃其有故身安而國家可保國家保</span><br/>
-<span class='tline' id='l290' data-llen='6692:6716'>　而徳崇矣位欲當徳謀欲量知任欲稱力三者各當其</span><br/>
-<span class='tline' id='l291' data-llen='6716:6739'>　實則用利而身安小人志在於得而巳以人之國僥</span><br/>
-<span class='tline' id='l292' data-llen='6739:6762'>　倖萬一鮮不及禍自古一敗塗地殺身不足以塞其</span><br/>
-<span class='tline' id='l293' data-llen='6762:6785'>　責者本於不知義而巳神難言也精義入神以致用</span><br/>
-<span class='tline' id='l294' data-llen='6785:6807'>　其唯知幾乎知幾其神矣幾者動之微吉之先見</span><br/>
-<span class='tline' id='l295' data-llen='6807:6834'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-17a' );" name="008-17a" class="pb">[008-17a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l296' data-llen='6834:6857'>　警如陽生而井温雨降而雲出衆人不識而君子見</span><br/>
-<span class='tline' id='l297' data-llen='6857:6880'>　之其於行義也不亦有餘裕乎夫安危存亡之幾在</span><br/>
-<span class='tline' id='l298' data-llen='6880:6903'>　於始交之際君子上交不諂下交不瀆義之與比无</span><br/>
-<span class='tline' id='l299' data-llen='6903:6926'>　悔吝藏於其中知幾故也是以君子見微已去小人</span><br/>
-<span class='tline' id='l300' data-llen='6926:6949'>　遇禍不知見與不見相去逺矣進此道者存乎介而</span><br/>
-<span class='tline' id='l301' data-llen='6949:6972'>　巳確然守正不轉如石者乃能見之其心定其智則</span><br/>
-<span class='tline' id='l302' data-llen='6972:6995'>　黙識而善斷故不俟終日也守身如此无一朝之患</span><br/>
-<span class='tline' id='l303' data-llen='6995:7018'>　矣知彰易知微難知剛易知柔而剛難君子見幾故</span><br/>
-<span class='tline' id='l304' data-llen='7018:7045'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-17b' );" name="008-17b" class="pb">[008-17b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l305' data-llen='7045:7068'>　知微知彰知柔知剛一龍一虵或弛或張唯義是適</span><br/>
-<span class='tline' id='l306' data-llen='7068:7091'>　則萬夫望之而取法焉所從者豈特其朋從之彼勞</span><br/>
-<span class='tline' id='l307' data-llen='7091:7114'>　思慮者亦末矣夫智周萬物者或暗於自知雄入九</span><br/>
-<span class='tline' id='l308' data-llen='7114:7137'>　軍者或憚於改過克己為難也顔子有不善未嘗不</span><br/>
-<span class='tline' id='l309' data-llen='7137:7160'>　知知之未嘗復行故曰顔氏之子其殆庶幾乎孰謂</span><br/>
-<span class='tline' id='l310' data-llen='7160:7183'>　小善為无益而可以弗為小惡為无傷而可以弗去</span><br/>
-<span class='tline' id='l311' data-llen='7183:7206'>　乎復者剛反動之卦也善者天地之性而人得之性</span><br/>
-<span class='tline' id='l312' data-llen='7206:7229'>　之本也不善非性也習也不逺而復者修為之功也</span><br/>
-<span class='tline' id='l313' data-llen='7229:7256'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-18a' );" name="008-18a" class="pb">[008-18a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l314' data-llen='7256:7279'>　故曰不善未嘗弗知知之未嘗復行知之者覺也自</span><br/>
-<span class='tline' id='l315' data-llen='7279:7302'>　性也或曰鮒椒之惡豈習乎曰知修為之功則復其</span><br/>
-<span class='tline' id='l316' data-llen='7302:7325'>　本矣由其習之不巳迷而不復矣人之生有氣之質</span><br/>
-<span class='tline' id='l317' data-llen='7325:7348'>　有性之本剛柔不齊者氣也性之本則一而已矣故</span><br/>
-<span class='tline' id='l318' data-llen='7348:7371'>　曰天地貞觀也日月貞明也氣豈能變哉天地萬物</span><br/>
-<span class='tline' id='l319' data-llen='7371:7394'>　其本一也天地升降其氣絪緼萬物化矣醇而未雜</span><br/>
-<span class='tline' id='l320' data-llen='7394:7417'>　序卦曰有天地然後有萬物劉牧曰乾道自然而成</span><br/>
-<span class='tline' id='l321' data-llen='7417:7440'>　男坤道自然而成女序卦言萬物則男女在其中矣</span><br/>
-<span class='tline' id='l322' data-llen='7440:7467'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-18b' );" name="008-18b" class="pb">[008-18b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l323' data-llen='7467:7490'>　曰萬物化醇者言其一未始離也天地既生萬物萬</span><br/>
-<span class='tline' id='l324' data-llen='7490:7513'>　物各有隂陽精氣相交化生无窮序卦曰有萬物然</span><br/>
-<span class='tline' id='l325' data-llen='7513:7536'>　後有男女劉牧曰咸卦不繫之於離坎以離坎而上</span><br/>
-<span class='tline' id='l326' data-llen='7536:7559'>　男女自然而生咸卦而下男女偶合而生曰男女曰</span><br/>
-<span class='tline' id='l327' data-llen='7559:7582'>　化生者言有兩則有一也損之六三曰三人行則損</span><br/>
-<span class='tline' id='l328' data-llen='7582:7605'>　一人一人行則得其友言致一也致一則殊塗而同</span><br/>
-<span class='tline' id='l329' data-llen='7605:7628'>　歸一致而百慮矣老氏論天地王侯得一又曰天地</span><br/>
-<span class='tline' id='l330' data-llen='7628:7651'>　相合而降甘露老氏之所謂得一相合即夫子所謂</span><br/>
-<span class='tline' id='l331' data-llen='7651:7678'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-19a' );" name="008-19a" class="pb">[008-19a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l332' data-llen='7678:7701'>　致一也其在卦則六爻相應合而致用是也所謂全</span><br/>
-<span class='tline' id='l333' data-llen='7701:7724'>　者合我與人而為一也動而與之者安其身而後動</span><br/>
-<span class='tline' id='l334' data-llen='7724:7747'>　也語之而應者平其心而後慮也求而與之者定其</span><br/>
-<span class='tline' id='l335' data-llen='7747:7770'>　交而後求也三者得故能以天下為一家中國為一</span><br/>
-<span class='tline' id='l336' data-llen='7770:7793'>　人故曰君子修此三者故全也離而為二物物成敵</span><br/>
-<span class='tline' id='l337' data-llen='7793:7816'>　莫或與之擊之者至矣故曰立心勿恒凶勿恒者不</span><br/>
-<span class='tline' id='l338' data-llen='7816:7839'>　一之謂也張載曰下文當云易曰自天祐之吉无不</span><br/>
-<span class='tline' id='l339' data-llen='7839:7862'>　利子曰天之所助者順也人之所助者信也履信思</span><br/>
-<span class='tline' id='l340' data-llen='7862:7889'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-19b' );" name="008-19b" class="pb">[008-19b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l341' data-llen='7889:7912'>　乎順又以尚賢也是以自天祐之吉无不利也考之</span><br/>
-<span class='tline' id='l342' data-llen='7912:7935'>　義或然也順乎天者天助之應乎人者人助之致一</span><br/>
-<span class='tline' id='l343' data-llen='7935:7958'>　之效乎此章以咸困解噬嗑否鼎復損恒九卦十爻</span><br/>
-<span class='tline' id='l344' data-llen='7958:7974'>　盡其意蓋書之於言有不能盡也</span><br/>
-<span class='tline' id='l345' data-llen='7974:7997'>子曰乾坤其易之門邪乾陽物也坤隂物也隂陽合徳</span><br/>
-<span class='tline' id='l346' data-llen='7997:8020'>而剛柔有體以體天地之撰以通神明之徳其稱名也</span><br/>
-<span class='tline' id='l347' data-llen='8020:8043'>雜而不越於稽其類其衰世之意邪夫易彰往而察來</span><br/>
-<span class='tline' id='l348' data-llen='8043:8066'>而微顯闡幽開而當名辨物正言斷辭則備矣其稱名</span><br/>
-<span class='tline' id='l349' data-llen='8066:8093'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-20a' );" name="008-20a" class="pb">[008-20a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l350' data-llen='8093:8116'>也小其取類也大其㫖逺其辭文其言曲而中其事肆</span><br/>
-<span class='tline' id='l351' data-llen='8116:8132'>而隱因貳以濟民行以明失得之報</span><br/>
-<span class='tline' id='l352' data-llen='8132:8155'>　乾坤其易之門邪乾坤毁則易无自而入矣乾剛者</span><br/>
-<span class='tline' id='l353' data-llen='8155:8178'>　陽之物老陽之䇿也其徳則健坤柔者隂之物老隂</span><br/>
-<span class='tline' id='l354' data-llen='8178:8201'>　之䇿也其徳則順隂陽氣也剛柔形也氣變而有形</span><br/>
-<span class='tline' id='l355' data-llen='8201:8224'>　形具而有體是故總䇿成爻健順合徳而剛柔之體</span><br/>
-<span class='tline' id='l356' data-llen='8224:8247'>　見矣聖人以此體天地之撰體形容之也撰定也形</span><br/>
-<span class='tline' id='l357' data-llen='8247:8270'>　容天地之所定者體造物也即剛柔有體是已天神</span><br/>
-<span class='tline' id='l358' data-llen='8270:8297'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-20b' );" name="008-20b" class="pb">[008-20b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l359' data-llen='8297:8320'>　也地明也通神明之徳者示幽顯一源也即隂陽合</span><br/>
-<span class='tline' id='l360' data-llen='8320:8343'>　徳是巳隂陽相盪剛柔相推自乾坤而變八卦自八</span><br/>
-<span class='tline' id='l361' data-llen='8343:8366'>　卦而變六十四卦三百八十四爻其稱名也雜然不</span><br/>
-<span class='tline' id='l362' data-llen='8366:8389'>　齊枝葉至扶疎矣而亦不越乎隂陽二端而已乾坤</span><br/>
-<span class='tline' id='l363' data-llen='8389:8412'>　其易之門邪伏羲始畫八卦文王監于二代而作周</span><br/>
-<span class='tline' id='l364' data-llen='8412:8435'>　易周公因于文王而作爻辭卦有象爻有變動繫辭</span><br/>
-<span class='tline' id='l365' data-llen='8435:8458'>　焉而命之日益詳矣蓋時有隆汙道有升降世既下</span><br/>
-<span class='tline' id='l366' data-llen='8458:8481'>　衰不如是不足以盡天下之情偽何以知其然哉於</span><br/>
-<span class='tline' id='l367' data-llen='8481:8508'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-21a' );" name="008-21a" class="pb">[008-21a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l368' data-llen='8508:8531'>　此稽考其類則知之矣夫易之為書以八卦言之自</span><br/>
-<span class='tline' id='l369' data-llen='8531:8554'>　震至乾彰往也自巽至坤察來也一往一來周旋无</span><br/>
-<span class='tline' id='l370' data-llen='8554:8577'>　窮是謂環中以重卦言之前卦為往後卦為來自内</span><br/>
-<span class='tline' id='l371' data-llen='8577:8600'>　之外為往自外之内為來彰往故微顯察來故闡幽</span><br/>
-<span class='tline' id='l372' data-llen='8600:8623'>　顯莫如既往而有微而難知之理幽莫如方來而有</span><br/>
-<span class='tline' id='l373' data-llen='8623:8646'>　顯而易見之象開釋爻卦各當其名无隱也辨隂陽</span><br/>
-<span class='tline' id='l374' data-llen='8646:8669'>　之物正吉凶之辭无遺也斷之以卦辭爻辭則備矣</span><br/>
-<span class='tline' id='l375' data-llen='8669:8692'>　觀乎此宜若坦然明白使人易曉矣然而其稱名也</span><br/>
-<span class='tline' id='l376' data-llen='8692:8719'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-21b' );" name="008-21b" class="pb">[008-21b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l377' data-llen='8719:8742'>　小則百物不廢其取類也大則達之于天下意有餘</span><br/>
-<span class='tline' id='l378' data-llen='8742:8765'>　故其㫖逺物相雜故其辭文其言致曲而後中於道</span><br/>
-<span class='tline' id='l379' data-llen='8765:8788'>　其事閎肆而實本於隱非天下至神至精至變有不</span><br/>
-<span class='tline' id='l380' data-llen='8788:8811'>　能與也而又因其疑貳不決恐懼易入之時以濟民</span><br/>
-<span class='tline' id='l381' data-llen='8811:8834'>　行告之以吉凶悔吝之辭以明失得之必報蓋有逺</span><br/>
-<span class='tline' id='l382' data-llen='8834:8848'>　害防患之心非衰世之意乎</span><br/>
-<span class='tline' id='l383' data-llen='8848:8871'>易之興也其於中古乎作易者其有憂患乎是故履徳</span><br/>
-<span class='tline' id='l384' data-llen='8871:8894'>之基也謙徳之柄也復徳之本也恒徳之固也損徳之</span><br/>
-<span class='tline' id='l385' data-llen='8894:8921'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-22a' );" name="008-22a" class="pb">[008-22a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l386' data-llen='8921:8944'>修也益徳之裕也困徳之辯也井徳之地也巽徳之制</span><br/>
-<span class='tline' id='l387' data-llen='8944:8967'>也履和而至謙尊而光復小而辯於物恒雜而不厭損</span><br/>
-<span class='tline' id='l388' data-llen='8967:8990'>先難而後易益長裕而不設困窮而通井居其所而遷</span><br/>
-<span class='tline' id='l389' data-llen='8990:9013'>巽稱而隱履以和行謙以制禮復以自知恒以一徳損</span><br/>
-<span class='tline' id='l390' data-llen='9013:9034'>以逺害益以興利困以寡怨井以辯義巽以行權</span><br/>
-<span class='tline' id='l391' data-llen='9034:9057'>　作易者上古也興易者中古也何以知易興於中古</span><br/>
-<span class='tline' id='l392' data-llen='9057:9080'>　邪觀九卦之象聖人有憂患後世之心得失滋彰矣</span><br/>
-<span class='tline' id='l393' data-llen='9080:9103'>　然則上古作易何以知有憂患乎曰聖人隨時者也</span><br/>
-<span class='tline' id='l394' data-llen='9103:9130'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-22b' );" name="008-22b" class="pb">[008-22b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l395' data-llen='9130:9153'>　佃漁不厭則耒耜之利不興結繩未弊則書契之文</span><br/>
-<span class='tline' id='l396' data-llen='9153:9176'>　不作而所以憂患後世者固巳具於八卦之中至於</span><br/>
-<span class='tline' id='l397' data-llen='9176:9199'>　文王而易道興矣履說而應乎乾履乎和者也故為</span><br/>
-<span class='tline' id='l398' data-llen='9199:9222'>　徳之基謙執之而有終者也故為徳之柄復剛反動</span><br/>
-<span class='tline' id='l399' data-llen='9222:9245'>　而復其初徳自此始者也故為徳之本恒久而不已</span><br/>
-<span class='tline' id='l400' data-llen='9245:9268'>　終則有始者也故為徳之固損損其可損而致一者</span><br/>
-<span class='tline' id='l401' data-llen='9268:9291'>　也故為徳之修益益其可益而日進者也故為徳之</span><br/>
-<span class='tline' id='l402' data-llen='9291:9314'>　裕困剛見揜而不失其所亨者也故為徳之辯井剛</span><br/>
-<span class='tline' id='l403' data-llen='9314:9341'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-23a' );" name="008-23a" class="pb">[008-23a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l404' data-llen='9341:9364'>　中而不變者也故為徳之地巽以剛下柔不失乎中</span><br/>
-<span class='tline' id='l405' data-llen='9364:9387'>　者也故為徳之制履和而至於禮不至則流而狥於</span><br/>
-<span class='tline' id='l406' data-llen='9387:9410'>　物矣謙卑而人尊之其道光也復小而辯於物者以</span><br/>
-<span class='tline' id='l407' data-llen='9410:9433'>　初九也人之所以異於萬物者以其存心也剝之剛</span><br/>
-<span class='tline' id='l408' data-llen='9433:9456'>　陽反動於初則善心生於㝠昧難知之時不俟乎大</span><br/>
-<span class='tline' id='l409' data-llen='9456:9479'>　而後與物辯也斯非徳之本歟恒泰之變也初九正</span><br/>
-<span class='tline' id='l410' data-llen='9479:9502'>　也動而之三雷風並作萬物繁興之時三守正不動</span><br/>
-<span class='tline' id='l411' data-llen='9502:9525'>　酬酢而不厭天地所不能旋日月所不能眩可以言</span><br/>
-<span class='tline' id='l412' data-llen='9525:9552'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-23b' );" name="008-23b" class="pb">[008-23b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l413' data-llen='9552:9575'>　徳之固矣損先難而後易何也情慾者强陽之氣也</span><br/>
-<span class='tline' id='l414' data-llen='9575:9598'>　初損之必有吝心剛健決斷乃能行之故先難也及</span><br/>
-<span class='tline' id='l415' data-llen='9598:9621'>　其既損考諸理而順反諸心而悅其孰禦我哉故後</span><br/>
-<span class='tline' id='l416' data-llen='9621:9644'>　易也夫一介不以取諸人然後繫千駟之馬而弗視</span><br/>
-<span class='tline' id='l417' data-llen='9644:9667'>　祿之以天下而弗顧故曰仁亦在熟之而巳益長裕</span><br/>
-<span class='tline' id='l418' data-llen='9667:9690'>　而不設何也益否之變也九四下益於初初九正也</span><br/>
-<span class='tline' id='l419' data-llen='9690:9713'>　益物以誠也益物以誠即是自益以誠故四與初以</span><br/>
-<span class='tline' id='l420' data-llen='9713:9736'>　益而正誠自成也受益者不贅益之者不虧與時偕</span><br/>
-<span class='tline' id='l421' data-llen='9736:9763'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-24a' );" name="008-24a" class="pb">[008-24a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l422' data-llen='9763:9786'>　行如天地之裕萬物非張設之也困窮而通何也否</span><br/>
-<span class='tline' id='l423' data-llen='9786:9809'>　之上九陷而之二上下柔揜之窮也處險而說在窮</span><br/>
-<span class='tline' id='l424' data-llen='9809:9832'>　而心亨通也通者不窮之謂豈必富貴利達而後為</span><br/>
-<span class='tline' id='l425' data-llen='9832:9855'>　通哉故曰學不能行謂之病病則窮矣井居其所而</span><br/>
-<span class='tline' id='l426' data-llen='9855:9878'>　遷何也泰初之五為井初九正也九五亦正也初遷</span><br/>
-<span class='tline' id='l427' data-llen='9878:9901'>　之五往者正也五遷之初來者正也五居其所而往</span><br/>
-<span class='tline' id='l428' data-llen='9901:9924'>　來皆正能遷也巽稱而隱何也遯二之四為巽稱者</span><br/>
-<span class='tline' id='l429' data-llen='9924:9947'>　輕重均之謂也二隂方進六二從四九四君子屈已</span><br/>
-<span class='tline' id='l430' data-llen='9947:9974'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-24b' );" name="008-24b" class="pb">[008-24b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l431' data-llen='9974:9997'>　以下之則君子小人勢均矣人見其屈已以為巽而</span><br/>
-<span class='tline' id='l432' data-llen='9997:10020'>　不知六二亦巽乎剛故曰稱而隱履以和行何也和</span><br/>
-<span class='tline' id='l433' data-llen='10020:10043'>　者禮之用節者禮之體節而不和禮不行矣謙以制</span><br/>
-<span class='tline' id='l434' data-llen='10043:10066'>　禮何也禮自卑而尊人自後而先人不能乎謙安能</span><br/>
-<span class='tline' id='l435' data-llen='10066:10089'>　行禮復以自知何也有善必自知之不善必自知之</span><br/>
-<span class='tline' id='l436' data-llen='10089:10112'>　修其善去其不善則復矣恒以一徳何也雜而不厭</span><br/>
-<span class='tline' id='l437' data-llen='10112:10135'>　非徇物也久而不變也久則其徳无二三矣損以逺</span><br/>
-<span class='tline' id='l438' data-llen='10135:10158'>　害何也自損以修徳則物无害之者故曰恭寡過情</span><br/>
-<span class='tline' id='l439' data-llen='10158:10185'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-25a' );" name="008-25a" class="pb">[008-25a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l440' data-llen='10185:10208'>　可信儉易容也以此失之者鮮矣益以興利何也因</span><br/>
-<span class='tline' id='l441' data-llen='10208:10231'>　其所利而利之也困以寡怨何也雖困而通在窮而</span><br/>
-<span class='tline' id='l442' data-llen='10231:10254'>　悅樂天者也我不尤人人復何怨井以辯義何也井</span><br/>
-<span class='tline' id='l443' data-llen='10254:10277'>　自守以正與人必以正處已處人各得其宜者也巽</span><br/>
-<span class='tline' id='l444' data-llen='10277:10300'>　以行權何也權者稱之所以輕重也與時推移湣然</span><br/>
-<span class='tline' id='l445' data-llen='10300:10323'>　无際如行權稱物人見其適平而巳其序則履和執</span><br/>
-<span class='tline' id='l446' data-llen='10323:10346'>　謙復本恒久損已益人然後可以處困不窮能遷然</span><br/>
-<span class='tline' id='l447' data-llen='10346:10369'>　後可以行權九卦履出于乾謙復出于坤恒出于震</span><br/>
-<span class='tline' id='l448' data-llen='10369:10396'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-25b' );" name="008-25b" class="pb">[008-25b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l449' data-llen='10396:10419'>　損出于艮益出于巽困井出于坎獨不取離何也離</span><br/>
-<span class='tline' id='l450' data-llen='10419:10442'>　萬物皆相見之卦包犧氏取之文王内文明外柔順</span><br/>
-<span class='tline' id='l451' data-llen='10442:10455'>　以蒙大難明在地中時也</span><br/>
-<span class='tline' id='l452' data-llen='10455:10478'>易之為書也不可逺為道也屢遷變動不居周流六虛</span><br/>
-<span class='tline' id='l453' data-llen='10478:10501'>上下无常剛柔相易不可為典要唯變所適其出入以</span><br/>
-<span class='tline' id='l454' data-llen='10501:10524'>度外内使知懼又明於憂患與故无有師保如臨父母</span><br/>
-<span class='tline' id='l455' data-llen='10524:10546'>初率其辭而揆其方既有典常苟非其人道不虛行</span><br/>
-<span class='tline' id='l456' data-llen='10546:10569'>　龔原曰易之為書也三章當從龔此章言易有變動</span><br/>
-<span class='tline' id='l457' data-llen='10569:10596'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-26a' );" name="008-26a" class="pb">[008-26a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l458' data-llen='10596:10619'>　出入易之為書明天地之用其用不過乎六爻不可</span><br/>
-<span class='tline' id='l459' data-llen='10619:10642'>　逺也逺此而求之則違道逺矣其道也屢遷有變有</span><br/>
-<span class='tline' id='l460' data-llen='10642:10665'>　動不居其所升降往來循環流轉於六位之中位謂</span><br/>
-<span class='tline' id='l461' data-llen='10665:10689'>　之虛者虛其位以待變動也故太𤣥九位亦曰九虚</span><br/>
-<span class='tline' id='l462' data-llen='10689:10712'>　或自上而降或自下而升上下无常也剛來則柔往</span><br/>
-<span class='tline' id='l463' data-llen='10712:10735'>　柔來則剛往剛柔相易也无常則不可為典相易則</span><br/>
-<span class='tline' id='l464' data-llen='10735:10758'>　不可為要流行散徙唯變所適然亦不過乎六爻不</span><br/>
-<span class='tline' id='l465' data-llen='10758:10781'>　過者以不可逺也其出入云者以一卦内外言之兩</span><br/>
-<span class='tline' id='l466' data-llen='10781:10808'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-26b' );" name="008-26b" class="pb">[008-26b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l467' data-llen='10808:10831'>　體也出者自内之外往也入者自外之内來也以是</span><br/>
-<span class='tline' id='l468' data-llen='10831:10854'>　度外内之際而觀消息盈虚之變出處進退之理使</span><br/>
-<span class='tline' id='l469' data-llen='10854:10877'>　知戒懼當出而入與當入而出其患一也故大觀在</span><br/>
-<span class='tline' id='l470' data-llen='10877:10900'>　上窺觀者醜三陽方壯牽羊悔亡出入内外本於相</span><br/>
-<span class='tline' id='l471' data-llen='10900:10923'>　形比四從二亦曰外離五用九亦曰出唯精於義者</span><br/>
-<span class='tline' id='l472' data-llen='10923:10946'>　能知之知義則知懼矣又此書明於已之所當憂患</span><br/>
-<span class='tline' id='l473' data-llen='10946:10969'>　與所以致憂患之故安不忘危存不忘亡治不忘亂</span><br/>
-<span class='tline' id='l474' data-llen='10969:10992'>　无有師保教訓而嚴憚之明失得之報也如有父母</span><br/>
-<span class='tline' id='l475' data-llen='10992:11019'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-27a' );" name="008-27a" class="pb">[008-27a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l476' data-llen='11019:11042'>　親臨而愛敬之見聖人之情也初率其吉凶之辭揆</span><br/>
-<span class='tline' id='l477' data-llen='11042:11065'>　其八卦之方則既有典常可守矣蓋不可逺者易之</span><br/>
-<span class='tline' id='l478' data-llen='11065:11088'>　體也而有用焉為道也屢遷者易之用也而有體焉</span><br/>
-<span class='tline' id='l479' data-llen='11088:11111'>　能知卦象合一體用同源者乎斯可以言易之書矣</span><br/>
-<span class='tline' id='l480' data-llen='11111:11132'>　書載道者也待人而後行苟非其人道不徒行</span><br/>
-<span class='tline' id='l481' data-llen='11132:11155'>易之為書也原始要終以為質也六爻相雜唯其時物</span><br/>
-<span class='tline' id='l482' data-llen='11155:11178'>也其初難知其上易知本末也初辭擬之卒成之終若</span><br/>
-<span class='tline' id='l483' data-llen='11178:11201'>夫雜物撰徳辯是與非則非其中爻不備噫亦要存亡</span><br/>
-<span class='tline' id='l484' data-llen='11201:11228'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-27b' );" name="008-27b" class="pb">[008-27b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l485' data-llen='11228:11248'>吉凶則居可知矣知者觀其彖辭則思過半矣</span><br/>
-<span class='tline' id='l486' data-llen='11248:11271'>　此章言重卦六爻之義易之為書也原始於初爻要</span><br/>
-<span class='tline' id='l487' data-llen='11271:11294'>　終於上爻成六位以為體質者也八卦八物也六爻</span><br/>
-<span class='tline' id='l488' data-llen='11294:11317'>　六時也六爻相雜時異而物異八卦本象也時物别</span><br/>
-<span class='tline' id='l489' data-llen='11317:11340'>　象也其本甚㣲故難知其末巳著故易知初辭擬而</span><br/>
-<span class='tline' id='l490' data-llen='11340:11363'>　後言不亦難知乎卒成之其事終矣不亦易知乎上</span><br/>
-<span class='tline' id='l491' data-llen='11363:11386'>　下之位以時言之初終也以道言之本末也以事言</span><br/>
-<span class='tline' id='l492' data-llen='11386:11409'>　之始卒也其實一也時變則事變事變則道與之俱</span><br/>
-<span class='tline' id='l493' data-llen='11409:11436'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-28a' );" name="008-28a" class="pb">[008-28a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l494' data-llen='11436:11459'>　未有違時造事而能成者三畫非无本末也聖人何</span><br/>
-<span class='tline' id='l495' data-llen='11459:11482'>　為重卦曰理具乎中其事則未也若夫糅雜八卦之</span><br/>
-<span class='tline' id='l496' data-llen='11482:11505'>　物撰定六爻之徳辯得失是非則非中爻不備中爻</span><br/>
-<span class='tline' id='l497' data-llen='11505:11528'>　崔憬所謂二三四五京房所謂互體是也蓋物无常</span><br/>
-<span class='tline' id='l498' data-llen='11528:11551'>　是亦无常非施於彼者或不可施於此用於古者或</span><br/>
-<span class='tline' id='l499' data-llen='11551:11574'>　不可行於今蒙以九二納婦而六三取女則不利節</span><br/>
-<span class='tline' id='l500' data-llen='11574:11597'>　以初九不出而九二不出則失時得失是非不可不</span><br/>
-<span class='tline' id='l501' data-llen='11597:11620'>　辯也噫重卦六爻之意亦要諸吉凶存亡之辭而巳</span><br/>
-<span class='tline' id='l502' data-llen='11620:11647'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-28b' );" name="008-28b" class="pb">[008-28b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l503' data-llen='11647:11670'>　有同位而異物同物而異象同象而異辭要諸辭則</span><br/>
-<span class='tline' id='l504' data-llen='11670:11693'>　四者不同居然易見可指掌而知矣六爻者變動相</span><br/>
-<span class='tline' id='l505' data-llen='11693:11716'>　錯而有吉凶存亡者也彖辭者合内外二體以一爻</span><br/>
-<span class='tline' id='l506' data-llen='11716:11739'>　相變而有者也知者明於理則觀諸彖辭而爻義巳</span><br/>
-<span class='tline' id='l507' data-llen='11739:11747'>　知其過半矣</span><br/>
-<span class='tline' id='l508' data-llen='11747:11770'>二與四同功而異位其善不同二多譽四多懼近也柔</span><br/>
-<span class='tline' id='l509' data-llen='11770:11793'>之為道不利逺者其要无咎其用柔中也三與五同功</span><br/>
-<span class='tline' id='l510' data-llen='11793:11816'>而異位三多凶五多功貴賤之等也其柔危其剛勝邪</span><br/>
-<span class='tline' id='l511' data-llen='11816:11843'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-29a' );" name="008-29a" class="pb">[008-29a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l512' data-llen='11843:11866'>　龔氏合易之為書也為一章誤矣今從故本此章再</span><br/>
-<span class='tline' id='l513' data-llen='11866:11889'>　明中爻之義二四耦也同為隂之功内外異位有不</span><br/>
-<span class='tline' id='l514' data-llen='11889:11912'>　同焉二多譽四多懼何也四近五五尊位近尊位則</span><br/>
-<span class='tline' id='l515' data-llen='11912:11935'>　多懼月望日則食禮近君則屈然柔之為道不利逺</span><br/>
-<span class='tline' id='l516' data-llen='11935:11958'>　者坤從乾也二逺於五所以多譽者其要在於雖柔</span><br/>
-<span class='tline' id='l517' data-llen='11958:11981'>　而无咎以其用柔中也用柔而失中其能无咎乎三</span><br/>
-<span class='tline' id='l518' data-llen='11981:12004'>　五竒也同為陽之功内外異位有不同焉三多凶五</span><br/>
-<span class='tline' id='l519' data-llen='12004:12027'>　多功何也五貴三賤其等不同也三處下位之極其</span><br/>
-<span class='tline' id='l520' data-llen='12027:12054'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-29b' );" name="008-29b" class="pb">[008-29b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l521' data-llen='12054:12077'>　柔居之則危不勝任矣其剛居之將以為勝邪以剛</span><br/>
-<span class='tline' id='l522' data-llen='12077:12100'>　居剛有時乎過剛矣危則疾顛過則易敗此三所以</span><br/>
-<span class='tline' id='l523' data-llen='12100:12123'>　多凶也若五不然以剛居之得尊位大中宜處貴者</span><br/>
-<span class='tline' id='l524' data-llen='12123:12146'>　也以柔居之有處謙執柔以貴下賤之美二為五用</span><br/>
-<span class='tline' id='l525' data-llen='12146:12169'>　矣此五所以多功也夫二五中也二三四五皆曰中</span><br/>
-<span class='tline' id='l526' data-llen='12169:12192'>　爻何也曰以三數之自一至三以二為中自四至上</span><br/>
-<span class='tline' id='l527' data-llen='12192:12215'>　以五為中以五數之自二至上以四為中以四數之</span><br/>
-<span class='tline' id='l528' data-llen='12215:12238'>　自二至五以三四為中復之九四曰中行獨復中孚</span><br/>
-<span class='tline' id='l529' data-llen='12238:12265'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-30a' );" name="008-30a" class="pb">[008-30a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l530' data-llen='12265:12287'>　以二柔在内名卦卦言徳爻言善者積善成徳也</span><br/>
-<span class='tline' id='l531' data-llen='12287:12310'>易之為書也廣大悉備有天道焉有人道焉有地道焉</span><br/>
-<span class='tline' id='l532' data-llen='12310:12333'>兼三才而兩之故六六者非它也三才之道也道有變</span><br/>
-<span class='tline' id='l533' data-llen='12333:12356'>動故曰爻爻有等故曰物物相雜故曰文文不當故吉</span><br/>
-<span class='tline' id='l534' data-llen='12356:12379'>凶生焉易之興也其當殷之末世周之盛徳邪當文王</span><br/>
-<span class='tline' id='l535' data-llen='12379:12402'>與紂之事邪是故其辭危危者使平易者使傾其道甚</span><br/>
-<span class='tline' id='l536' data-llen='12402:12424'>大百物不廢懼以始終其要无咎此之謂易之道也</span><br/>
-<span class='tline' id='l537' data-llen='12424:12447'>　此章再明六爻雜物之義易之為書廣大而无外語</span><br/>
-<span class='tline' id='l538' data-llen='12447:12474'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-30b' );" name="008-30b" class="pb">[008-30b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l539' data-llen='12474:12497'>　天地之間則无乎不備矣有天道焉隂與陽也有人</span><br/>
-<span class='tline' id='l540' data-llen='12497:12520'>　道焉仁與義也有地道焉柔與剛也此三者一物而</span><br/>
-<span class='tline' id='l541' data-llen='12520:12543'>　兩體隂陽也而謂之天仁義也而謂之人剛柔也而</span><br/>
-<span class='tline' id='l542' data-llen='12543:12566'>　謂之地故曰三才兼三才而兩之故六兼之者天之</span><br/>
-<span class='tline' id='l543' data-llen='12566:12589'>　道兼隂與陽也人之道兼仁與義也地之道兼柔與</span><br/>
-<span class='tline' id='l544' data-llen='12589:12612'>　剛也六者非它即三才之道也是故三畫而有重卦</span><br/>
-<span class='tline' id='l545' data-llen='12612:12635'>　六即三也三即一也道有變易有流動爻則傚之故</span><br/>
-<span class='tline' id='l546' data-llen='12635:12658'>　曰爻天地相函精氣所聚其等有六曰物八物相錯</span><br/>
-<span class='tline' id='l547' data-llen='12658:12685'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-31a' );" name="008-31a" class="pb">[008-31a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l548' data-llen='12685:12708'>　而成文故曰文文當其位則吉文不當其位則凶故</span><br/>
-<span class='tline' id='l549' data-llen='12708:12731'>　吉凶生焉易之興也當殷之末世周之盛徳邪何繫</span><br/>
-<span class='tline' id='l550' data-llen='12731:12754'>　之辭而告其吉凶者如是乎又紂與文王之事邪何</span><br/>
-<span class='tline' id='l551' data-llen='12754:12777'>　君子處小人之間而其辭危乎是故危懼者使知可</span><br/>
-<span class='tline' id='l552' data-llen='12777:12800'>　平慢易者使知必傾所以長君子消小人也其道甚</span><br/>
-<span class='tline' id='l553' data-llen='12800:12823'>　大君子小人无所不容不容則不足以準天地百物</span><br/>
-<span class='tline' id='l554' data-llen='12823:12846'>　不廢者所以形容其道所謂悉備也初辭擬之卒成</span><br/>
-<span class='tline' id='l555' data-llen='12846:12869'>　之終使知善不善之積成名滅身非一朝夕之漸故</span><br/>
-<span class='tline' id='l556' data-llen='12869:12896'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-31b' );" name="008-31b" class="pb">[008-31b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l557' data-llen='12896:12919'>　原始要終而懼焉其大要歸之无咎而巳此之謂易</span><br/>
-<span class='tline' id='l558' data-llen='12919:12939'>　之道易之道立人道以貫天地而為一者也</span><br/>
-<span class='tline' id='l559' data-llen='12939:12962'>夫乾天下之至健也徳行恒易以知險夫坤天下之至</span><br/>
-<span class='tline' id='l560' data-llen='12962:12985'>順也徳行恒簡以知阻能說諸心能研諸侯之慮定天</span><br/>
-<span class='tline' id='l561' data-llen='12985:13008'>下之吉凶成天下之亹亹者是故變化云為吉事有祥</span><br/>
-<span class='tline' id='l562' data-llen='13008:13031'>象事知器占事知來天地設位聖人成能人謀鬼謀百</span><br/>
-<span class='tline' id='l563' data-llen='13031:13054'>姓與能八卦以象告爻彖以情言剛柔雜居而吉凶可</span><br/>
-<span class='tline' id='l564' data-llen='13054:13077'>見矣變動以利言吉凶以情遷是故愛惡相攻而吉凶</span><br/>
-<span class='tline' id='l565' data-llen='13077:13104'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-32a' );" name="008-32a" class="pb">[008-32a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l566' data-llen='13104:13127'>生逺近相取而悔吝生情偽相感而利害生凡易之情</span><br/>
-<span class='tline' id='l567' data-llen='13127:13150'>近而不相得則凶或害之悔且吝將叛者其辭慙中心</span><br/>
-<span class='tline' id='l568' data-llen='13150:13173'>疑者其辭枝吉人之辭寡躁人之辭多誣善之人其辭</span><br/>
-<span class='tline' id='l569' data-llen='13173:13183'>游失其守者其辭屈</span><br/>
-<span class='tline' id='l570' data-llen='13183:13206'>　此章論六爻而歸之於簡易乾健而為萬物先莫或</span><br/>
-<span class='tline' id='l571' data-llen='13206:13229'>　禦之故其徳行恒易坤順以從乾无二適也故其徳</span><br/>
-<span class='tline' id='l572' data-llen='13229:13252'>　行恒簡以易也故知險之為難以簡也故知阻之可</span><br/>
-<span class='tline' id='l573' data-llen='13252:13275'>　疑簡生於易阻生於險簡易也故能說諸心知險阻</span><br/>
-<span class='tline' id='l574' data-llen='13275:13302'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-32b' );" name="008-32b" class="pb">[008-32b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l575' data-llen='13302:13325'>　也故能研諸慮簡易者我心之所固有反而得之能</span><br/>
-<span class='tline' id='l576' data-llen='13325:13348'>　无說乎以我所有慮其不然反復不捨能無研乎曰</span><br/>
-<span class='tline' id='l577' data-llen='13348:13371'>　研諸侯之慮者衍侯之二字王弼略例曰能研諸慮</span><br/>
-<span class='tline' id='l578' data-llen='13371:13394'>　則衍文可知天下之吉凶藏於无形至難定也天下</span><br/>
-<span class='tline' id='l579' data-llen='13394:13417'>　之亹亹來而不已至難成也定之成之者簡易而巳</span><br/>
-<span class='tline' id='l580' data-llen='13417:13440'>　乾坤變化有云有為云者言也為者動也吉事有祥</span><br/>
-<span class='tline' id='l581' data-llen='13440:13463'>　祥者吉之先見有祥必先知之兼言動也制器者尚</span><br/>
-<span class='tline' id='l582' data-llen='13463:13486'>　象知器則知成器之為天下利而可動也卜筮者尚</span><br/>
-<span class='tline' id='l583' data-llen='13486:13513'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-33a' );" name="008-33a" class="pb">[008-33a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l584' data-llen='13513:13536'>　占知來則知來物而言動審矣是以能定天下之吉</span><br/>
-<span class='tline' id='l585' data-llen='13536:13559'>　凶成天下之亹亹非知險知阻者能之乎天尊地卑</span><br/>
-<span class='tline' id='l586' data-llen='13559:13582'>　乾坤設位聖人配天地而立合乾坤之徳以成能事</span><br/>
-<span class='tline' id='l587' data-llen='13582:13605'>　能說諸心能研諸慮者明以盡人謀也定天下之吉</span><br/>
-<span class='tline' id='l588' data-llen='13605:13628'>　凶成天下之亹亹者幽以盡鬼謀也人謀鬼謀幽顯</span><br/>
-<span class='tline' id='l589' data-llen='13628:13651'>　合一天下樂推而不厭百姓之愚與之以能矣成能</span><br/>
-<span class='tline' id='l590' data-llen='13651:13674'>　故也伏羲氏始畫八卦不言而告之以象者至簡易</span><br/>
-<span class='tline' id='l591' data-llen='13674:13697'>　也後世聖人演之為六十四卦有爻有彖以人情變</span><br/>
-<span class='tline' id='l592' data-llen='13697:13724'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-33b' );" name="008-33b" class="pb">[008-33b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l593' data-llen='13724:13747'>　動言之於辭知險阻也且八卦成列剛柔雜居吉凶</span><br/>
-<span class='tline' id='l594' data-llen='13747:13770'>　已可見矣然道有變動變則通通則其用不窮所以</span><br/>
-<span class='tline' id='l595' data-llen='13770:13793'>　盡利者不可不言也故變動以利言吉凶以情而遷</span><br/>
-<span class='tline' id='l596' data-llen='13793:13816'>　巧厯之所不能計也聖人唯恐遷之而失其正矣故</span><br/>
-<span class='tline' id='l597' data-llen='13816:13839'>　爻彖以情言變動者何情偽之所為也人之情偽難</span><br/>
-<span class='tline' id='l598' data-llen='13839:13862'>　知矣以情相感則利生以偽相感則害生近不必取</span><br/>
-<span class='tline' id='l599' data-llen='13862:13885'>　逺不必捨則悔吝生愛惡不一起而相攻則吉凶生</span><br/>
-<span class='tline' id='l600' data-llen='13885:13908'>　吉凶生而悔吝著情偽其能掩乎是則情偽相感也</span><br/>
-<span class='tline' id='l601' data-llen='13908:13935'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-34a' );" name="008-34a" class="pb">[008-34a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l602' data-llen='13935:13958'>　逺近相取也愛惡相攻也爻有變動也有利害斯有</span><br/>
-<span class='tline' id='l603' data-llen='13958:13981'>　悔吝有悔吝斯有吉凶吉凶以情遷也悔吝者何凡</span><br/>
-<span class='tline' id='l604' data-llen='13981:14004'>　易之情隂陽相求内外相應近而不相得則偽不可</span><br/>
-<span class='tline' id='l605' data-llen='14004:14027'>　久物或害之害之則凶將至矣悔吝者利害吉凶之</span><br/>
-<span class='tline' id='l606' data-llen='14027:14050'>　界乎害之而悔則吉且利矣吝而不悔則凶聖人不</span><br/>
-<span class='tline' id='l607' data-llen='14050:14073'>　得不以利言之而使之逺害也故曰聖人之情見乎</span><br/>
-<span class='tline' id='l608' data-llen='14073:14096'>　辭然則何以知情偽邪考其辭可矣將叛者其心慙</span><br/>
-<span class='tline' id='l609' data-llen='14096:14119'>　負故其辭愧中心疑者其心惑亂故其辭枝吉人守</span><br/>
-<span class='tline' id='l610' data-llen='14119:14146'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-34b' );" name="008-34b" class="pb">[008-34b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
-<span class='tline' id='l611' data-llen='14146:14169'>　約故其辭寡躁人欲速故其辭多誣善之人妄故其</span><br/>
-<span class='tline' id='l612' data-llen='14169:14192'>　辭游失其守者窮故其辭屈吉人辭寡以簡易知也</span><br/>
-<span class='tline' id='l613' data-llen='14192:14215'>　五者反是以知險知阻而知也簡易則吉險阻則凶</span><br/>
-<span class='tline' id='l614' data-llen='14215:14238'>　其辭則六其别則二情偽而已矣上繫言易簡而天</span><br/>
-<span class='tline' id='l615' data-llen='14238:14261'>　下之理得下繫終之以易簡而知險阻故曰殊塗而</span><br/>
-<span class='tline' id='l616' data-llen='14261:14271'>　同歸一致而百慮</span><br/>
-<span class='tline' id='l617' data-llen='14271:14274'>　</span><br/>
-<span class='tline' id='l618' data-llen='14274:14283'>　漢上易傳卷八</span><br/>
+    <p>
+<span class='tline' id='l7' data-llen='152:178'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-1a' );" name="008-1a" class="pb">[008-1a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l8' data-llen='178:186'>欽定四庫全書</span>
+<span class='tline' id='l9' data-llen='186:205'>　漢上易傳卷八　　　　宋　朱震　撰</span>
+<span class='tline' id='l10' data-llen='205:213'>　　繫辭下傳</span>
+<span class='tline' id='l11' data-llen='213:236'>八卦成列象在其中矣因而重之爻在其中矣剛柔相</span>
+<span class='tline' id='l12' data-llen='236:259'>推變在其中矣繫辭焉而命之動在其中矣吉凶悔吝</span>
+<span class='tline' id='l13' data-llen='259:282'>者生乎動者也剛柔者立本者也變通者趣時者也吉</span>
+<span class='tline' id='l14' data-llen='282:305'>凶者貞勝者也天地之道貞觀者也日月之道貞明者</span>
+<span class='tline' id='l15' data-llen='305:328'>也天下之動貞夫一者也夫乾確然示人易矣夫坤隤</span>
+<span class='tline' id='l16' data-llen='328:354'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-1b' );" name="008-1b" class="pb">[008-1b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l17' data-llen='354:377'>然示人簡矣爻也者效此者也象也者像此者也爻象</span>
+<span class='tline' id='l18' data-llen='377:399'>動乎内吉凶見乎外功業見乎變聖人之情見乎辭</span>
+<span class='tline' id='l19' data-llen='399:422'>　伏羲始畫八卦八卦成列而乾坤定位震巽一交也</span>
+<span class='tline' id='l20' data-llen='422:445'>　坎離艮兌二交也兌以一陽與艮坎以一隂奉離震</span>
+<span class='tline' id='l21' data-llen='445:468'>　巽以二相易六十四卦之象在其中矣三畫天地人</span>
+<span class='tline' id='l22' data-llen='468:491'>　也伏羲因而重之六位成章兼三才而兩之則三百</span>
+<span class='tline' id='l23' data-llen='491:514'>　八十四爻在其中矣歸藏初經八卦六爻則知因而</span>
+<span class='tline' id='l24' data-llen='514:537'>　重之者伏羲也姚信曰連山氏得河圗夏人因之曰</span>
+<span class='tline' id='l25' data-llen='537:563'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-2a' );" name="008-2a" class="pb">[008-2a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l26' data-llen='563:586'>　連山歸藏氏得河圗商人因之曰歸藏伏羲氏得河</span>
+<span class='tline' id='l27' data-llen='586:609'>　圗周人因之曰周易連山神農氏也歸藏黄帝氏也</span>
+<span class='tline' id='l28' data-llen='609:632'>　其經卦皆八本伏羲也其别卦皆六十有四因八卦</span>
+<span class='tline' id='l29' data-llen='632:655'>　也六爻剛柔互相推盪六十四卦之變在其中矣鄭</span>
+<span class='tline' id='l30' data-llen='655:678'>　康成曰虙羲作十言之教曰乾坤震巽坎離艮兌消</span>
+<span class='tline' id='l31' data-llen='678:701'>　息無文字謂之易乃知周易繫辭於卦下者文王也</span>
+<span class='tline' id='l32' data-llen='701:724'>　文王繫辭指其象而命之以名則周公之爻辭所以</span>
+<span class='tline' id='l33' data-llen='724:747'>　鼓天下之動者在其中矣彖辭曰吉凶而巳吉凶悔</span>
+<span class='tline' id='l34' data-llen='747:773'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-2b' );" name="008-2b" class="pb">[008-2b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l35' data-llen='773:796'>　吝者爻辭也是亦生乎卦之動也爻動靜當則吉當</span>
+<span class='tline' id='l36' data-llen='796:819'>　靜而動當動而靜則凶悔吝矣言吉凶悔吝生乎動</span>
+<span class='tline' id='l37' data-llen='819:842'>　者主動爻言之也自神農氏而下演為三易贊為十</span>
+<span class='tline' id='l38' data-llen='842:865'>　翼非聖人能為是也引而伸之不外是也爻有剛柔</span>
+<span class='tline' id='l39' data-llen='865:888'>　不有兩則一不立所以立本也剛柔相變通其變以</span>
+<span class='tline' id='l40' data-llen='888:911'>　盡利者趣時也趣時者時中也故曰乾坤毁則无以</span>
+<span class='tline' id='l41' data-llen='911:934'>　見易矣剛柔相錯有當有否則吉凶生又曰吉凶者</span>
+<span class='tline' id='l42' data-llen='934:957'>　貞勝也何謂邪此於動中明乎不動者也韓康伯謂</span>
+<span class='tline' id='l43' data-llen='957:983'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-3a' );" name="008-3a" class="pb">[008-3a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l44' data-llen='983:1006'>　不累乎吉凶是已張載曰有義命當吉當凶當否當</span>
+<span class='tline' id='l45' data-llen='1006:1029'>　亨者聖人不使避凶趨吉一以貞勝而不顧如大人</span>
+<span class='tline' id='l46' data-llen='1029:1052'>　否亨有隕自天過涉滅頂凶无咎損益龜不克違及</span>
+<span class='tline' id='l47' data-llen='1052:1075'>　其命亂也之類天地之道有升降然上下之觀不動</span>
+<span class='tline' id='l48' data-llen='1075:1098'>　也故曰天地之道貞觀也日月之道有往來然晝夜</span>
+<span class='tline' id='l49' data-llen='1098:1121'>　之明不動也故曰日月之道貞明也天下之動吉凶</span>
+<span class='tline' id='l50' data-llen='1121:1144'>　之變多矣而君子安其義命一以貞勝吉凶不能動</span>
+<span class='tline' id='l51' data-llen='1144:1167'>　何累之有故曰天下之動貞夫一也一者貞也貞所</span>
+<span class='tline' id='l52' data-llen='1167:1193'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-3b' );" name="008-3b" class="pb">[008-3b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l53' data-llen='1193:1216'>　以一天下之動此彖辭爻辭所以貴夫貞也吉凶以</span>
+<span class='tline' id='l54' data-llen='1216:1239'>　貞勝故能立天下之本趨天下之時八卦本乾坤者</span>
+<span class='tline' id='l55' data-llen='1239:1262'>　也夫乾陽至剛確然不易示人為君為父為夫之道</span>
+<span class='tline' id='l56' data-llen='1262:1285'>　不亦易乎夫坤隂至柔隤然而順示人為子為臣為</span>
+<span class='tline' id='l57' data-llen='1285:1308'>　婦之道不亦簡乎乾剛坤柔以立本者也爻也者效</span>
+<span class='tline' id='l58' data-llen='1308:1331'>　乾坤之動者也天道下濟地道上行剛柔相推變通</span>
+<span class='tline' id='l59' data-llen='1331:1354'>　以趣時者也象者像乾坤之象者也爻有變動象亦</span>
+<span class='tline' id='l60' data-llen='1354:1377'>　像之爻象動乎内者有當有否則人事之見於外者</span>
+<span class='tline' id='l61' data-llen='1377:1403'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-4a' );" name="008-4a" class="pb">[008-4a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l62' data-llen='1403:1426'>　有吉有凶人與乾坤一也吉凶之變有術通之凶者</span>
+<span class='tline' id='l63' data-llen='1426:1449'>　反之吉則功業不期於見而見矣觀此則乾坤示人</span>
+<span class='tline' id='l64' data-llen='1449:1472'>　足矣聖人必以彖言乎象爻言乎變繫辭以言吉凶</span>
+<span class='tline' id='l65' data-llen='1472:1495'>　者聖人之情愛人无巳也恐其陷於凶咎是以指其</span>
+<span class='tline' id='l66' data-llen='1495:1512'>　所之故考乎其辭則聖人之情見矣</span>
+<span class='tline' id='l67' data-llen='1512:1535'>天地之大徳曰生聖人之大寳曰位何以守位曰仁何</span>
+<span class='tline' id='l68' data-llen='1535:1558'>以聚人曰財理財正辭禁民為非曰義古者包犧氏之</span>
+<span class='tline' id='l69' data-llen='1558:1581'>王天下也仰則觀象於天俯則觀法於地觀鳥獸之文</span>
+<span class='tline' id='l70' data-llen='1581:1607'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-4b' );" name="008-4b" class="pb">[008-4b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l71' data-llen='1607:1630'>與地之宜近取諸身逺取諸物於是始作八卦以通神</span>
+<span class='tline' id='l72' data-llen='1630:1653'>明之徳以類萬物之情作結繩而為網罟以佃以漁蓋</span>
+<span class='tline' id='l73' data-llen='1653:1676'>取諸離包犧氏沒神農氏作斲木為耜揉木為耒耒耨</span>
+<span class='tline' id='l74' data-llen='1676:1699'>之利以教天下蓋取諸益日中為市致天下之民聚天</span>
+<span class='tline' id='l75' data-llen='1699:1722'>下之貨交易而退各得其所蓋取諸噬嗑神農氏沒黄</span>
+<span class='tline' id='l76' data-llen='1722:1745'>帝堯舜氏作通其變使民不倦神而化之使民宜之易</span>
+<span class='tline' id='l77' data-llen='1745:1768'>窮則變變則通通則久是以自天祐之吉无不利黄帝</span>
+<span class='tline' id='l78' data-llen='1768:1791'>堯舜垂衣裳而天下治蓋取諸乾坤刳木為舟剡木為</span>
+<span class='tline' id='l79' data-llen='1791:1817'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-5a' );" name="008-5a" class="pb">[008-5a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l80' data-llen='1817:1840'>楫舟楫之利以濟不通致逺以利天下蓋取諸渙服牛</span>
+<span class='tline' id='l81' data-llen='1840:1863'>乗馬引重致逺以利天下蓋取諸隨重門擊柝以待暴</span>
+<span class='tline' id='l82' data-llen='1863:1886'>客蓋取諸豫斷木為杵掘地為臼臼杵之利萬民以濟</span>
+<span class='tline' id='l83' data-llen='1886:1909'>蓋取諸小過弦木為弧剡木為矢弧矢之利以威天下</span>
+<span class='tline' id='l84' data-llen='1909:1932'>蓋取諸睽上古穴居而野處後世聖人易之以宫室上</span>
+<span class='tline' id='l85' data-llen='1932:1956'>棟下宇以待風雨蓋取諸大壯古之葬者厚衣之以薪葬</span>
+<span class='tline' id='l86' data-llen='1956:1979'>之中野不封不樹喪期无數後世聖人易之以棺槨蓋</span>
+<span class='tline' id='l87' data-llen='1979:2002'>取諸大過上古結繩而治後世聖人易之以書契百官</span>
+<span class='tline' id='l88' data-llen='2002:2028'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-5b' );" name="008-5b" class="pb">[008-5b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l89' data-llen='2028:2051'>以治萬民以察蓋取諸夬是故易者象也象也者像也</span>
+<span class='tline' id='l90' data-llen='2051:2074'>彖者材也爻也者效天下之動者也是故吉凶生而悔</span>
+<span class='tline' id='l91' data-llen='2074:2079'>吝著也</span>
+<span class='tline' id='l92' data-llen='2079:2102'>　胡旦分天地之大徳曰生為一章陽卦多隂為一章</span>
+<span class='tline' id='l93' data-llen='2102:2125'>　考之文義當從旦龔原本亦然乾大生也坤廣生也</span>
+<span class='tline' id='l94' data-llen='2125:2148'>　乾坤合而成徳生物而巳故曰天地之大徳曰生聖</span>
+<span class='tline' id='l95' data-llen='2148:2171'>　人之情見乎辭者亦天地之徳也聖人成位乎兩間</span>
+<span class='tline' id='l96' data-llen='2171:2194'>　有其徳无其位不能兼善天下於其位也慎之重之</span>
+<span class='tline' id='l97' data-llen='2194:2220'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-6a' );" name="008-6a" class="pb">[008-6a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l98' data-llen='2220:2243'>　在卦則尊位也故曰聖人之大寳曰位天地之大徳</span>
+<span class='tline' id='l99' data-llen='2243:2266'>　曰生者仁也聖人成位乎兩間者仁而巳矣不仁不</span>
+<span class='tline' id='l100' data-llen='2266:2289'>　足以參天地聖人者聰明叡知神武而不殺不殺者</span>
+<span class='tline' id='l101' data-llen='2289:2312'>　好生也故曰何以守位曰仁仁被萬物取財於天地</span>
+<span class='tline' id='l102' data-llen='2312:2335'>　則財不可勝用其民養生喪死无憾可以保四海守</span>
+<span class='tline' id='l103' data-llen='2335:2358'>　宗廟社稷故曰何以聚人曰財理財者節之以制度</span>
+<span class='tline' id='l104' data-llen='2358:2381'>　也節之類是也正辭者正邪説也六辭是也禁民為</span>
+<span class='tline' id='l105' data-llen='2381:2404'>　非者禁其非歸之於是也如是乃得其宜故曰義義</span>
+<span class='tline' id='l106' data-llen='2404:2430'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-6b' );" name="008-6b" class="pb">[008-6b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l107' data-llen='2430:2453'>　所以為仁非二本也故曰立人之道仁與義莫非義</span>
+<span class='tline' id='l108' data-llen='2453:2476'>　也義至於禁民為非盡矣自此以下明備物致用立</span>
+<span class='tline' id='l109' data-llen='2476:2499'>　成器以為天下利者无非有取於易皆仁也曰王天</span>
+<span class='tline' id='l110' data-llen='2499:2522'>　下者明守位也所謂崇髙莫大乎富貴也鳥獸之文</span>
+<span class='tline' id='l111' data-llen='2522:2546'>　即天文太𤣥曰察龍虎之文觀鳥龜之理舉鳥獸則</span>
+<span class='tline' id='l112' data-llen='2546:2569'>　龜見矣仰觀龍虎鳥龜之文其形成於地俯觀山川</span>
+<span class='tline' id='l113' data-llen='2569:2592'>　原隰之宜其象見於天凡在地者皆法天者也近取</span>
+<span class='tline' id='l114' data-llen='2592:2615'>　諸身則八卦具於百骸而身无非物逺取諸物則八</span>
+<span class='tline' id='l115' data-llen='2615:2641'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-7a' );" name="008-7a" class="pb">[008-7a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l116' data-llen='2641:2664'>　卦具於萬物而物无非我故神明之徳雖異而可通</span>
+<span class='tline' id='l117' data-llen='2664:2687'>　萬物之情雖衆而可類其道至於一以貫之此包犧</span>
+<span class='tline' id='l118' data-llen='2687:2710'>　氏所以作易一者何仁也上古茹毛飲血故教之以</span>
+<span class='tline' id='l119' data-llen='2710:2733'>　佃漁蓋取諸重離巽繩離目網目謂之罟兩目相連</span>
+<span class='tline' id='l120' data-llen='2733:2756'>　結繩為之罔罟也離為雉佃也兌巽為魚漁也觀此</span>
+<span class='tline' id='l121' data-llen='2756:2779'>　則伏羲畫八卦因而重之明矣神農氏時民厭鮮食</span>
+<span class='tline' id='l122' data-llen='2779:2802'>　而食草木之實聖人因是以達其不忍之心故教以</span>
+<span class='tline' id='l123' data-llen='2802:2825'>　耒耜之利蓋取諸益益否乾之初也乾金斲巽木斲</span>
+<span class='tline' id='l124' data-llen='2825:2851'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-7b' );" name="008-7b" class="pb">[008-7b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l125' data-llen='2851:2874'>　木也四之三成坎坎為揉之初成震揉木也入坤土</span>
+<span class='tline' id='l126' data-llen='2874:2897'>　而巽於前斲木為耜也動於後揉木為耒也耒耜之</span>
+<span class='tline' id='l127' data-llen='2897:2920'>　利其益无方矣是時民甘其食美其服至死不相往</span>
+<span class='tline' id='l128' data-llen='2920:2943'>　來故教之以交易蓋取諸噬嗑噬嗑否五之初也離</span>
+<span class='tline' id='l129' data-llen='2943:2966'>　日在上為日中坤衆在下為市衆為民離有伏兌為</span>
+<span class='tline' id='l130' data-llen='2966:2989'>　蠃貝坤往之乾致天下之民聚天下之貨也以坤交</span>
+<span class='tline' id='l131' data-llen='2989:3012'>　乾交易也乾五退初而得位各得其所也佃漁不言</span>
+<span class='tline' id='l132' data-llen='3012:3035'>　利於耒耜言利佃漁非聖人本心也佃有猛虎之害</span>
+<span class='tline' id='l133' data-llen='3035:3061'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-8a' );" name="008-8a" class="pb">[008-8a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l134' data-llen='3061:3084'>　漁有蛟龍之害不若耒耜之利為市不言利者聚天</span>
+<span class='tline' id='l135' data-llen='3084:3107'>　下之貨利在其中矣唐虞氏時洪水之患庶民鮮食</span>
+<span class='tline' id='l136' data-llen='3107:3130'>　然後教民稼穡懋遷有無化居其道萬世一揆神農</span>
+<span class='tline' id='l137' data-llen='3130:3153'>　氏沒民情巳厭黄帝堯舜作因其可變變而通之使</span>
+<span class='tline' id='l138' data-llen='3153:3176'>　民日用其道而不倦而又微妙入神化而无迹天下</span>
+<span class='tline' id='l139' data-llen='3176:3199'>　各得其宜蓋易道陽極變隂隂極變陽變則不窮不</span>
+<span class='tline' id='l140' data-llen='3199:3222'>　窮則可久而不息善乎變通以趨時也是以自天祐</span>
+<span class='tline' id='l141' data-llen='3222:3245'>　之吉无不利聖人先後天故也神農氏時與民並耕</span>
+<span class='tline' id='l142' data-llen='3245:3271'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-8b' );" name="008-8b" class="pb">[008-8b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l143' data-llen='3271:3294'>　而食饔飱而治至是尊卑定位君逸臣勞乾坤无為</span>
+<span class='tline' id='l144' data-llen='3294:3317'>　六子自用垂衣裳而天下治蓋取諸乾坤乾在上為</span>
+<span class='tline' id='l145' data-llen='3317:3340'>　衣坤在下為裳上古山无蹊澤无梁至是舟楫之利</span>
+<span class='tline' id='l146' data-llen='3340:3363'>　以濟不通蓋取諸渙渙否四之二也乾金刳巽木浮</span>
+<span class='tline' id='l147' data-llen='3363:3386'>　於坎上刳木為舟也離火上銳剡木為楫也否塞者</span>
+<span class='tline' id='l148' data-llen='3386:3409'>　渙散濟不通也上古牛未穿馬未絡至是服牛乗馬</span>
+<span class='tline' id='l149' data-llen='3409:3432'>　引重致逺以利天下蓋取諸隨隨否上九之初也坤</span>
+<span class='tline' id='l150' data-llen='3432:3455'>　牛而震足驅之服牛也震作足馬而巽股據之乗馬</span>
+<span class='tline' id='l151' data-llen='3455:3481'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-9a' );" name="008-9a" class="pb">[008-9a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l152' data-llen='3481:3504'>　也坤輿震輹上六引之引重也内卦近外卦逺上六</span>
+<span class='tline' id='l153' data-llen='3504:3527'>　在外卦之外致逺也牛馬隨人而動否不通也上之</span>
+<span class='tline' id='l154' data-llen='3527:3550'>　初濟不通也上古外户不閉禦風氣而巳至是重門</span>
+<span class='tline' id='l155' data-llen='3550:3573'>　擊柝以待暴客蓋取諸豫豫謙之反也謙艮為門九</span>
+<span class='tline' id='l156' data-llen='3573:3596'>　三之四又為門重門也艮為手坎為堅木震為聲手</span>
+<span class='tline' id='l157' data-llen='3596:3619'>　擊堅木而有聲擊柝也坤為闔户而坎盜逼之暴客</span>
+<span class='tline' id='l158' data-llen='3619:3642'>　也知耒耜而不知杵臼之利則利天下者有未盡故</span>
+<span class='tline' id='l159' data-llen='3642:3665'>　教之以杵臼之利蓋取諸小過小過明夷初之四也</span>
+<span class='tline' id='l160' data-llen='3665:3691'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-9b' );" name="008-9b" class="pb">[008-9b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l161' data-llen='3691:3714'>　兌金斷巽木斷木為杵也巽木入坤土掘地為臼也</span>
+<span class='tline' id='l162' data-llen='3714:3737'>　坎陷也臼之象杵動於上臼止於下四應初三應上</span>
+<span class='tline' id='l163' data-llen='3737:3760'>　上下相應杵臼之利也坎變巽股萬民濟也知門柝</span>
+<span class='tline' id='l164' data-llen='3760:3783'>　而不知弧矢之利則威天下者有未盡故教之以弧</span>
+<span class='tline' id='l165' data-llen='3783:3806'>　矢之利蓋取諸睽睽家人反也家人巽為木巽離為</span>
+<span class='tline' id='l166' data-llen='3806:3829'>　絲坎為弓弦木為弓也兌金剡木而銳之剡木為矢</span>
+<span class='tline' id='l167' data-llen='3829:3852'>　也兌決乾剛威天下也聖人以百姓之心為心民之</span>
+<span class='tline' id='l168' data-llen='3852:3875'>　所欲不以强去民之所惡不以强留然變而通之者</span>
+<span class='tline' id='l169' data-llen='3875:3902'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-10a' );" name="008-10a" class="pb">[008-10a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l170' data-llen='3902:3925'>　亦因其典禮以損益之而巳且上古穴居而野處後</span>
+<span class='tline' id='l171' data-llen='3925:3948'>　世聖人易之以宫室自黄帝而來夏后氏之世室商</span>
+<span class='tline' id='l172' data-llen='3948:3971'>　人之重屋周人之明堂宫室之制有不同而上棟下</span>
+<span class='tline' id='l173' data-llen='3971:3994'>　宇以待風雨取諸大壯者同也大壯自遯來三復三</span>
+<span class='tline' id='l174' data-llen='3994:4017'>　變也一變中孚艮為居兌為口穴之象穴居也再變</span>
+<span class='tline' id='l175' data-llen='4017:4040'>　大畜乾在上天際也野之象巽入變艮而止野處也</span>
+<span class='tline' id='l176' data-llen='4040:4063'>　三變大壯震木在上棟也乾天在下宇也巽風隱兌</span>
+<span class='tline' id='l177' data-llen='4063:4086'>　澤流待風雨也大壯則不撓矣古之葬者厚衣之以</span>
+<span class='tline' id='l178' data-llen='4086:4113'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-10b' );" name="008-10b" class="pb">[008-10b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l179' data-llen='4113:4136'>　薪葬之中野不封不樹喪期无數後世聖人易之以</span>
+<span class='tline' id='l180' data-llen='4136:4159'>　棺槨自堯舜以來有虞氏之瓦棺夏后氏之堲周商</span>
+<span class='tline' id='l181' data-llen='4159:4182'>　人之梓棺槨之制有不同而取諸大過者同也大過</span>
+<span class='tline' id='l182' data-llen='4182:4205'>　自遯四變一變訟乾見坤隱不封也再變巽木而兌</span>
+<span class='tline' id='l183' data-llen='4205:4228'>　金毁之不樹也三變鼎離為目兌澤流喪也上九變</span>
+<span class='tline' id='l184' data-llen='4228:4251'>　而應三坎兌為節不變喪期无數也木在澤下中有</span>
+<span class='tline' id='l185' data-llen='4251:4274'>　乾人棺槨也葬則棺周於身槨周於棺土周於槨大</span>
+<span class='tline' id='l186' data-llen='4274:4297'>　過也上古結繩而治後世聖人易之以書契象形㑹</span>
+<span class='tline' id='l187' data-llen='4297:4324'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-11a' );" name="008-11a" class="pb">[008-11a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l188' data-llen='4324:4347'>　意轉注處事假借諧聲書契之制有不同而百官以</span>
+<span class='tline' id='l189' data-llen='4347:4370'>　治萬民以察取諸夬者同也夬自姤五變一變同人</span>
+<span class='tline' id='l190' data-llen='4370:4393'>　二變履三變小畜四變大有姤巽為繩結繩也巽變</span>
+<span class='tline' id='l191' data-llen='4393:4416'>　成離坤離為文書也兌金刻木契也乾為君坤為臣</span>
+<span class='tline' id='l192' data-llen='4416:4439'>　民坤居二四上百官以治也離明上達萬民以察也</span>
+<span class='tline' id='l193' data-llen='4439:4462'>　以是决天下疑者夬也以是推之後世畋獵捕魚之</span>
+<span class='tline' id='l194' data-llen='4462:4485'>　器雖不同而取於離則同也井牧溝洫之事雖不同</span>
+<span class='tline' id='l195' data-llen='4485:4508'>　而取於益則同也朝市夕市雖不同而取於噬嗑則</span>
+<span class='tline' id='l196' data-llen='4508:4535'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-11b' );" name="008-11b" class="pb">[008-11b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l197' data-llen='4535:4558'>　同也餘卦可以類推矣蓋動於人情見於風氣有是</span>
+<span class='tline' id='l198' data-llen='4558:4581'>　時必有是象易者象也易之有象擬諸其形容而已</span>
+<span class='tline' id='l199' data-llen='4581:4604'>　猶繪畫之事雕刻之工一毫損益則不相似矣象之</span>
+<span class='tline' id='l200' data-llen='4604:4627'>　辭又謂之彖者言乎其才也卦有剛柔才也有是時</span>
+<span class='tline' id='l201' data-llen='4627:4650'>　有是象必有是才以濟之才與時㑹斯足以成務矣</span>
+<span class='tline' id='l202' data-llen='4650:4673'>　然天下之動其微難知有同是一時同處一事所當</span>
+<span class='tline' id='l203' data-llen='4673:4696'>　之位有不同焉則趨舍進退殊途矣故曰爻者效天</span>
+<span class='tline' id='l204' data-llen='4696:4719'>　下之動也是以卦同爻異趣時之變不得而同然所</span>
+<span class='tline' id='l205' data-llen='4719:4746'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-12a' );" name="008-12a" class="pb">[008-12a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l206' data-llen='4746:4769'>　歸則若合符節故自伏羲神農黄帝堯舜凡六萬一</span>
+<span class='tline' id='l207' data-llen='4769:4792'>　千四百有餘歳而行十三卦而巳夫爻動則有吉凶</span>
+<span class='tline' id='l208' data-llen='4792:4815'>　悔吝吉凶者所以生大業也吉凶生而悔吝著其動</span>
+<span class='tline' id='l209' data-llen='4815:4822'>　可不慎乎</span>
+<span class='tline' id='l210' data-llen='4822:4845'>陽卦多隂隂卦多陽其故何也陽卦竒隂卦耦其徳行</span>
+<span class='tline' id='l211' data-llen='4845:4868'>何也陽一君而二民君子之道也隂二君而一民小人</span>
+<span class='tline' id='l212' data-llen='4868:4891'>之道也易曰憧憧往來朋從爾思子曰天下何思何慮</span>
+<span class='tline' id='l213' data-llen='4891:4914'>天下同歸而殊塗一致而百慮天下何思何慮日往則</span>
+<span class='tline' id='l214' data-llen='4914:4941'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-12b' );" name="008-12b" class="pb">[008-12b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l215' data-llen='4941:4964'>月來月往則日來日月相推而明生焉寒往則暑來暑</span>
+<span class='tline' id='l216' data-llen='4964:4987'>往則寒來寒暑相推而歳成焉往者屈也來者信也屈</span>
+<span class='tline' id='l217' data-llen='4987:5010'>信相感而利生焉尺蠖之屈以求信也龍蛇之蟄以存</span>
+<span class='tline' id='l218' data-llen='5010:5033'>身也精義入神以致用也利用安身以崇徳也過此以</span>
+<span class='tline' id='l219' data-llen='5033:5056'>往未之或知也窮神知化徳之盛也易曰因于石據于</span>
+<span class='tline' id='l220' data-llen='5056:5079'>蒺藜入于其宫不見其妻凶子曰非所困而困焉名必</span>
+<span class='tline' id='l221' data-llen='5079:5102'>辱非所據而據焉身必危既辱且危死期將至妻其可</span>
+<span class='tline' id='l222' data-llen='5102:5125'>得見邪易曰公用射隼于髙墉之上獲之无不利子曰</span>
+<span class='tline' id='l223' data-llen='5125:5152'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-13a' );" name="008-13a" class="pb">[008-13a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l224' data-llen='5152:5175'>隼者禽也弓矢者器也射之者人也君子藏器於身待</span>
+<span class='tline' id='l225' data-llen='5175:5198'>時而動何不利之有動而不括是以出而有獲語成器</span>
+<span class='tline' id='l226' data-llen='5198:5221'>而動者也子曰小人不恥不仁不畏不義不見利不勸</span>
+<span class='tline' id='l227' data-llen='5221:5244'>不威不懲小懲而大誡此小人之福也易曰屨校滅趾</span>
+<span class='tline' id='l228' data-llen='5244:5267'>无咎此之謂也善不積不足以成名惡不積不足以滅</span>
+<span class='tline' id='l229' data-llen='5267:5292'>身小人以小善為无益而弗為也以小惡為无傷而弗去也</span>
+<span class='tline' id='l230' data-llen='5292:5315'>故惡積而不可揜罪大而不可解易曰何校滅耳凶子</span>
+<span class='tline' id='l231' data-llen='5315:5338'>曰危者安其位者也亡者保其存者也亂者有其治者</span>
+<span class='tline' id='l232' data-llen='5338:5365'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-13b' );" name="008-13b" class="pb">[008-13b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l233' data-llen='5365:5388'>也是故君子安而不忘危存而不忘亡治而不忘亂是</span>
+<span class='tline' id='l234' data-llen='5388:5411'>以身安而國家可保也易曰其亡其亡繫于苞桑子曰</span>
+<span class='tline' id='l235' data-llen='5411:5434'>徳薄而位尊知小而謀大力小而任重鮮不及矣易曰</span>
+<span class='tline' id='l236' data-llen='5434:5457'>鼎折足覆公餗其形渥凶言不勝其任也子曰知幾其</span>
+<span class='tline' id='l237' data-llen='5457:5480'>神乎君子上交不諂下交不瀆其知幾乎幾者動之㣲</span>
+<span class='tline' id='l238' data-llen='5480:5503'>吉之先見者也君子見幾而作不俟終日易曰介于石</span>
+<span class='tline' id='l239' data-llen='5503:5526'>不終日貞吉介如石焉寧用終日斷可識矣君子知㣲</span>
+<span class='tline' id='l240' data-llen='5526:5549'>知彰知柔知剛萬夫之望子曰顔氏之子其殆庶幾乎</span>
+<span class='tline' id='l241' data-llen='5549:5576'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-14a' );" name="008-14a" class="pb">[008-14a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l242' data-llen='5576:5599'>有不善未嘗不知知之未嘗復行也易曰不逺復无祗</span>
+<span class='tline' id='l243' data-llen='5599:5622'>悔元吉天地絪緼萬物化醇男女構精萬物化生易曰</span>
+<span class='tline' id='l244' data-llen='5622:5645'>三人行則損一人一人行則得其友言致一也子曰君</span>
+<span class='tline' id='l245' data-llen='5645:5668'>子安其身而後動易其心而後語定其交而後求君子</span>
+<span class='tline' id='l246' data-llen='5668:5691'>修此三者故全也危以動則民不與也懼以語則民不</span>
+<span class='tline' id='l247' data-llen='5691:5714'>應也无交而求則民不與也莫之與則傷之者至矣易</span>
+<span class='tline' id='l248' data-llen='5714:5728'>曰莫益之或擊之立心勿恒凶</span>
+<span class='tline' id='l249' data-llen='5728:5751'>　凡得乎乾者為陽卦震坎艮是也凡得乎坤者為隂</span>
+<span class='tline' id='l250' data-llen='5751:5778'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-14b' );" name="008-14b" class="pb">[008-14b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l251' data-llen='5778:5801'>　卦巽離兌是也陽卦以竒為本故多隂隂卦以耦為</span>
+<span class='tline' id='l252' data-llen='5801:5824'>　本故多陽本不可二也隂陽二卦其徳行不同何也</span>
+<span class='tline' id='l253' data-llen='5824:5847'>　陽一君而徧體二民二民共事一君一也故為君子</span>
+<span class='tline' id='l254' data-llen='5847:5870'>　之道隂卦一民共事二君二君共爭一民二也故為</span>
+<span class='tline' id='l255' data-llen='5870:5893'>　小人之道陽貴隂賤晝人多福夜人多禍故君子貴</span>
+<span class='tline' id='l256' data-llen='5893:5916'>　夫一也咸九四曰憧憧往來朋從爾思者勞神明以</span>
+<span class='tline' id='l257' data-llen='5916:5939'>　為一也夫思之所及朋則從之思之所不及其誰從</span>
+<span class='tline' id='l258' data-llen='5939:5962'>　乎雖憧憧於往來之間其從亦狹矣不知天下何思</span>
+<span class='tline' id='l259' data-llen='5962:5989'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-15a' );" name="008-15a" class="pb">[008-15a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l260' data-llen='5989:6012'>　何慮萬物即一一即萬物同歸而有殊塗一致而具</span>
+<span class='tline' id='l261' data-llen='6012:6035'>　百慮其一既通萬物自應豈思慮營營之所至哉且</span>
+<span class='tline' id='l262' data-llen='6035:6058'>　日月寒暑一往一來自異者觀之兩也相推而生明</span>
+<span class='tline' id='l263' data-llen='6058:6081'>　相推而成歳自同者觀之一也自往自來其誰使之</span>
+<span class='tline' id='l264' data-llen='6081:6104'>　往者屈也來者信也一屈一信黙然相感而利生焉</span>
+<span class='tline' id='l265' data-llen='6104:6127'>　尺蠖不屈則不能信龍蛇不蟄則不能存消息循環</span>
+<span class='tline' id='l266' data-llen='6127:6150'>　相待而為用夫致用在於精義義則无決擇无取舍</span>
+<span class='tline' id='l267' data-llen='6150:6173'>　唯其宜而巳精一於義則進而入於不可知之神故</span>
+<span class='tline' id='l268' data-llen='6173:6200'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-15b' );" name="008-15b" class="pb">[008-15b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l269' data-llen='6200:6223'>　感而後動其動也天其用利矣遊乎人間物莫之傷</span>
+<span class='tline' id='l270' data-llen='6223:6246'>　其身安矣利用安身日進无疆徳不期於崇而自崇</span>
+<span class='tline' id='l271' data-llen='6246:6269'>　矣此吾之所知也過此以往則化矣如日月有明容</span>
+<span class='tline' id='l272' data-llen='6269:6292'>　光必照寒暑相代萬物自生日月寒暑所不能知也</span>
+<span class='tline' id='l273' data-llen='6292:6315'>　故曰聖人有所不知焉聖人有所不能焉然則所謂</span>
+<span class='tline' id='l274' data-llen='6315:6338'>　化者終不可知歟曰窮神之所為則知化矣徳盛者</span>
+<span class='tline' id='l275' data-llen='6338:6361'>　自至焉道至於此萬物與我一也故曰一則神兩則</span>
+<span class='tline' id='l276' data-llen='6361:6384'>　化窮神則知變化之道人孰不欲安其身或困于石</span>
+<span class='tline' id='l277' data-llen='6384:6411'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-16a' );" name="008-16a" class="pb">[008-16a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l278' data-llen='6411:6434'>　而不知休據于蒺藜而不知避名既汚辱身既危殆</span>
+<span class='tline' id='l279' data-llen='6434:6457'>　日近於死亡雖欲安得乎哉妻且不得見也況朋從</span>
+<span class='tline' id='l280' data-llen='6457:6481'>　乎藏可用之器待可為之時動無結閡出則有𫉬唯</span>
+<span class='tline' id='l281' data-llen='6481:6504'>　乘屈信之理而其用利者能之小人不恥不仁故不</span>
+<span class='tline' id='l282' data-llen='6504:6527'>　畏不義陷於死亡辱及其先恥孰大焉雖愚也而就</span>
+<span class='tline' id='l283' data-llen='6527:6550'>　利避害與人同故見利而後勸威之而後懲小懲大</span>
+<span class='tline' id='l284' data-llen='6550:6573'>　誡猶為小人之福況真知義乎精於義者豈一日積</span>
+<span class='tline' id='l285' data-llen='6573:6596'>　哉彼積不善以滅其身者不知小善者大善之積也</span>
+<span class='tline' id='l286' data-llen='6596:6623'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-16b' );" name="008-16b" class="pb">[008-16b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l287' data-llen='6623:6646'>　夫身者國家之本存亡治亂之所繫身雖安矣猶不</span>
+<span class='tline' id='l288' data-llen='6646:6669'>　可恃也故安其位者危保其存者亡有其治者亂君</span>
+<span class='tline' id='l289' data-llen='6669:6692'>　子兢兢業業不恃其有故身安而國家可保國家保</span>
+<span class='tline' id='l290' data-llen='6692:6716'>　而徳崇矣位欲當徳謀欲量知任欲稱力三者各當其</span>
+<span class='tline' id='l291' data-llen='6716:6739'>　實則用利而身安小人志在於得而巳以人之國僥</span>
+<span class='tline' id='l292' data-llen='6739:6762'>　倖萬一鮮不及禍自古一敗塗地殺身不足以塞其</span>
+<span class='tline' id='l293' data-llen='6762:6785'>　責者本於不知義而巳神難言也精義入神以致用</span>
+<span class='tline' id='l294' data-llen='6785:6807'>　其唯知幾乎知幾其神矣幾者動之微吉之先見</span>
+<span class='tline' id='l295' data-llen='6807:6834'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-17a' );" name="008-17a" class="pb">[008-17a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l296' data-llen='6834:6857'>　警如陽生而井温雨降而雲出衆人不識而君子見</span>
+<span class='tline' id='l297' data-llen='6857:6880'>　之其於行義也不亦有餘裕乎夫安危存亡之幾在</span>
+<span class='tline' id='l298' data-llen='6880:6903'>　於始交之際君子上交不諂下交不瀆義之與比无</span>
+<span class='tline' id='l299' data-llen='6903:6926'>　悔吝藏於其中知幾故也是以君子見微已去小人</span>
+<span class='tline' id='l300' data-llen='6926:6949'>　遇禍不知見與不見相去逺矣進此道者存乎介而</span>
+<span class='tline' id='l301' data-llen='6949:6972'>　巳確然守正不轉如石者乃能見之其心定其智則</span>
+<span class='tline' id='l302' data-llen='6972:6995'>　黙識而善斷故不俟終日也守身如此无一朝之患</span>
+<span class='tline' id='l303' data-llen='6995:7018'>　矣知彰易知微難知剛易知柔而剛難君子見幾故</span>
+<span class='tline' id='l304' data-llen='7018:7045'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-17b' );" name="008-17b" class="pb">[008-17b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l305' data-llen='7045:7068'>　知微知彰知柔知剛一龍一虵或弛或張唯義是適</span>
+<span class='tline' id='l306' data-llen='7068:7091'>　則萬夫望之而取法焉所從者豈特其朋從之彼勞</span>
+<span class='tline' id='l307' data-llen='7091:7114'>　思慮者亦末矣夫智周萬物者或暗於自知雄入九</span>
+<span class='tline' id='l308' data-llen='7114:7137'>　軍者或憚於改過克己為難也顔子有不善未嘗不</span>
+<span class='tline' id='l309' data-llen='7137:7160'>　知知之未嘗復行故曰顔氏之子其殆庶幾乎孰謂</span>
+<span class='tline' id='l310' data-llen='7160:7183'>　小善為无益而可以弗為小惡為无傷而可以弗去</span>
+<span class='tline' id='l311' data-llen='7183:7206'>　乎復者剛反動之卦也善者天地之性而人得之性</span>
+<span class='tline' id='l312' data-llen='7206:7229'>　之本也不善非性也習也不逺而復者修為之功也</span>
+<span class='tline' id='l313' data-llen='7229:7256'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-18a' );" name="008-18a" class="pb">[008-18a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l314' data-llen='7256:7279'>　故曰不善未嘗弗知知之未嘗復行知之者覺也自</span>
+<span class='tline' id='l315' data-llen='7279:7302'>　性也或曰鮒椒之惡豈習乎曰知修為之功則復其</span>
+<span class='tline' id='l316' data-llen='7302:7325'>　本矣由其習之不巳迷而不復矣人之生有氣之質</span>
+<span class='tline' id='l317' data-llen='7325:7348'>　有性之本剛柔不齊者氣也性之本則一而已矣故</span>
+<span class='tline' id='l318' data-llen='7348:7371'>　曰天地貞觀也日月貞明也氣豈能變哉天地萬物</span>
+<span class='tline' id='l319' data-llen='7371:7394'>　其本一也天地升降其氣絪緼萬物化矣醇而未雜</span>
+<span class='tline' id='l320' data-llen='7394:7417'>　序卦曰有天地然後有萬物劉牧曰乾道自然而成</span>
+<span class='tline' id='l321' data-llen='7417:7440'>　男坤道自然而成女序卦言萬物則男女在其中矣</span>
+<span class='tline' id='l322' data-llen='7440:7467'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-18b' );" name="008-18b" class="pb">[008-18b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l323' data-llen='7467:7490'>　曰萬物化醇者言其一未始離也天地既生萬物萬</span>
+<span class='tline' id='l324' data-llen='7490:7513'>　物各有隂陽精氣相交化生无窮序卦曰有萬物然</span>
+<span class='tline' id='l325' data-llen='7513:7536'>　後有男女劉牧曰咸卦不繫之於離坎以離坎而上</span>
+<span class='tline' id='l326' data-llen='7536:7559'>　男女自然而生咸卦而下男女偶合而生曰男女曰</span>
+<span class='tline' id='l327' data-llen='7559:7582'>　化生者言有兩則有一也損之六三曰三人行則損</span>
+<span class='tline' id='l328' data-llen='7582:7605'>　一人一人行則得其友言致一也致一則殊塗而同</span>
+<span class='tline' id='l329' data-llen='7605:7628'>　歸一致而百慮矣老氏論天地王侯得一又曰天地</span>
+<span class='tline' id='l330' data-llen='7628:7651'>　相合而降甘露老氏之所謂得一相合即夫子所謂</span>
+<span class='tline' id='l331' data-llen='7651:7678'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-19a' );" name="008-19a" class="pb">[008-19a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l332' data-llen='7678:7701'>　致一也其在卦則六爻相應合而致用是也所謂全</span>
+<span class='tline' id='l333' data-llen='7701:7724'>　者合我與人而為一也動而與之者安其身而後動</span>
+<span class='tline' id='l334' data-llen='7724:7747'>　也語之而應者平其心而後慮也求而與之者定其</span>
+<span class='tline' id='l335' data-llen='7747:7770'>　交而後求也三者得故能以天下為一家中國為一</span>
+<span class='tline' id='l336' data-llen='7770:7793'>　人故曰君子修此三者故全也離而為二物物成敵</span>
+<span class='tline' id='l337' data-llen='7793:7816'>　莫或與之擊之者至矣故曰立心勿恒凶勿恒者不</span>
+<span class='tline' id='l338' data-llen='7816:7839'>　一之謂也張載曰下文當云易曰自天祐之吉无不</span>
+<span class='tline' id='l339' data-llen='7839:7862'>　利子曰天之所助者順也人之所助者信也履信思</span>
+<span class='tline' id='l340' data-llen='7862:7889'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-19b' );" name="008-19b" class="pb">[008-19b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l341' data-llen='7889:7912'>　乎順又以尚賢也是以自天祐之吉无不利也考之</span>
+<span class='tline' id='l342' data-llen='7912:7935'>　義或然也順乎天者天助之應乎人者人助之致一</span>
+<span class='tline' id='l343' data-llen='7935:7958'>　之效乎此章以咸困解噬嗑否鼎復損恒九卦十爻</span>
+<span class='tline' id='l344' data-llen='7958:7974'>　盡其意蓋書之於言有不能盡也</span>
+<span class='tline' id='l345' data-llen='7974:7997'>子曰乾坤其易之門邪乾陽物也坤隂物也隂陽合徳</span>
+<span class='tline' id='l346' data-llen='7997:8020'>而剛柔有體以體天地之撰以通神明之徳其稱名也</span>
+<span class='tline' id='l347' data-llen='8020:8043'>雜而不越於稽其類其衰世之意邪夫易彰往而察來</span>
+<span class='tline' id='l348' data-llen='8043:8066'>而微顯闡幽開而當名辨物正言斷辭則備矣其稱名</span>
+<span class='tline' id='l349' data-llen='8066:8093'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-20a' );" name="008-20a" class="pb">[008-20a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l350' data-llen='8093:8116'>也小其取類也大其㫖逺其辭文其言曲而中其事肆</span>
+<span class='tline' id='l351' data-llen='8116:8132'>而隱因貳以濟民行以明失得之報</span>
+<span class='tline' id='l352' data-llen='8132:8155'>　乾坤其易之門邪乾坤毁則易无自而入矣乾剛者</span>
+<span class='tline' id='l353' data-llen='8155:8178'>　陽之物老陽之䇿也其徳則健坤柔者隂之物老隂</span>
+<span class='tline' id='l354' data-llen='8178:8201'>　之䇿也其徳則順隂陽氣也剛柔形也氣變而有形</span>
+<span class='tline' id='l355' data-llen='8201:8224'>　形具而有體是故總䇿成爻健順合徳而剛柔之體</span>
+<span class='tline' id='l356' data-llen='8224:8247'>　見矣聖人以此體天地之撰體形容之也撰定也形</span>
+<span class='tline' id='l357' data-llen='8247:8270'>　容天地之所定者體造物也即剛柔有體是已天神</span>
+<span class='tline' id='l358' data-llen='8270:8297'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-20b' );" name="008-20b" class="pb">[008-20b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l359' data-llen='8297:8320'>　也地明也通神明之徳者示幽顯一源也即隂陽合</span>
+<span class='tline' id='l360' data-llen='8320:8343'>　徳是巳隂陽相盪剛柔相推自乾坤而變八卦自八</span>
+<span class='tline' id='l361' data-llen='8343:8366'>　卦而變六十四卦三百八十四爻其稱名也雜然不</span>
+<span class='tline' id='l362' data-llen='8366:8389'>　齊枝葉至扶疎矣而亦不越乎隂陽二端而已乾坤</span>
+<span class='tline' id='l363' data-llen='8389:8412'>　其易之門邪伏羲始畫八卦文王監于二代而作周</span>
+<span class='tline' id='l364' data-llen='8412:8435'>　易周公因于文王而作爻辭卦有象爻有變動繫辭</span>
+<span class='tline' id='l365' data-llen='8435:8458'>　焉而命之日益詳矣蓋時有隆汙道有升降世既下</span>
+<span class='tline' id='l366' data-llen='8458:8481'>　衰不如是不足以盡天下之情偽何以知其然哉於</span>
+<span class='tline' id='l367' data-llen='8481:8508'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-21a' );" name="008-21a" class="pb">[008-21a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l368' data-llen='8508:8531'>　此稽考其類則知之矣夫易之為書以八卦言之自</span>
+<span class='tline' id='l369' data-llen='8531:8554'>　震至乾彰往也自巽至坤察來也一往一來周旋无</span>
+<span class='tline' id='l370' data-llen='8554:8577'>　窮是謂環中以重卦言之前卦為往後卦為來自内</span>
+<span class='tline' id='l371' data-llen='8577:8600'>　之外為往自外之内為來彰往故微顯察來故闡幽</span>
+<span class='tline' id='l372' data-llen='8600:8623'>　顯莫如既往而有微而難知之理幽莫如方來而有</span>
+<span class='tline' id='l373' data-llen='8623:8646'>　顯而易見之象開釋爻卦各當其名无隱也辨隂陽</span>
+<span class='tline' id='l374' data-llen='8646:8669'>　之物正吉凶之辭无遺也斷之以卦辭爻辭則備矣</span>
+<span class='tline' id='l375' data-llen='8669:8692'>　觀乎此宜若坦然明白使人易曉矣然而其稱名也</span>
+<span class='tline' id='l376' data-llen='8692:8719'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-21b' );" name="008-21b" class="pb">[008-21b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l377' data-llen='8719:8742'>　小則百物不廢其取類也大則達之于天下意有餘</span>
+<span class='tline' id='l378' data-llen='8742:8765'>　故其㫖逺物相雜故其辭文其言致曲而後中於道</span>
+<span class='tline' id='l379' data-llen='8765:8788'>　其事閎肆而實本於隱非天下至神至精至變有不</span>
+<span class='tline' id='l380' data-llen='8788:8811'>　能與也而又因其疑貳不決恐懼易入之時以濟民</span>
+<span class='tline' id='l381' data-llen='8811:8834'>　行告之以吉凶悔吝之辭以明失得之必報蓋有逺</span>
+<span class='tline' id='l382' data-llen='8834:8848'>　害防患之心非衰世之意乎</span>
+<span class='tline' id='l383' data-llen='8848:8871'>易之興也其於中古乎作易者其有憂患乎是故履徳</span>
+<span class='tline' id='l384' data-llen='8871:8894'>之基也謙徳之柄也復徳之本也恒徳之固也損徳之</span>
+<span class='tline' id='l385' data-llen='8894:8921'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-22a' );" name="008-22a" class="pb">[008-22a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l386' data-llen='8921:8944'>修也益徳之裕也困徳之辯也井徳之地也巽徳之制</span>
+<span class='tline' id='l387' data-llen='8944:8967'>也履和而至謙尊而光復小而辯於物恒雜而不厭損</span>
+<span class='tline' id='l388' data-llen='8967:8990'>先難而後易益長裕而不設困窮而通井居其所而遷</span>
+<span class='tline' id='l389' data-llen='8990:9013'>巽稱而隱履以和行謙以制禮復以自知恒以一徳損</span>
+<span class='tline' id='l390' data-llen='9013:9034'>以逺害益以興利困以寡怨井以辯義巽以行權</span>
+<span class='tline' id='l391' data-llen='9034:9057'>　作易者上古也興易者中古也何以知易興於中古</span>
+<span class='tline' id='l392' data-llen='9057:9080'>　邪觀九卦之象聖人有憂患後世之心得失滋彰矣</span>
+<span class='tline' id='l393' data-llen='9080:9103'>　然則上古作易何以知有憂患乎曰聖人隨時者也</span>
+<span class='tline' id='l394' data-llen='9103:9130'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-22b' );" name="008-22b" class="pb">[008-22b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l395' data-llen='9130:9153'>　佃漁不厭則耒耜之利不興結繩未弊則書契之文</span>
+<span class='tline' id='l396' data-llen='9153:9176'>　不作而所以憂患後世者固巳具於八卦之中至於</span>
+<span class='tline' id='l397' data-llen='9176:9199'>　文王而易道興矣履說而應乎乾履乎和者也故為</span>
+<span class='tline' id='l398' data-llen='9199:9222'>　徳之基謙執之而有終者也故為徳之柄復剛反動</span>
+<span class='tline' id='l399' data-llen='9222:9245'>　而復其初徳自此始者也故為徳之本恒久而不已</span>
+<span class='tline' id='l400' data-llen='9245:9268'>　終則有始者也故為徳之固損損其可損而致一者</span>
+<span class='tline' id='l401' data-llen='9268:9291'>　也故為徳之修益益其可益而日進者也故為徳之</span>
+<span class='tline' id='l402' data-llen='9291:9314'>　裕困剛見揜而不失其所亨者也故為徳之辯井剛</span>
+<span class='tline' id='l403' data-llen='9314:9341'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-23a' );" name="008-23a" class="pb">[008-23a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l404' data-llen='9341:9364'>　中而不變者也故為徳之地巽以剛下柔不失乎中</span>
+<span class='tline' id='l405' data-llen='9364:9387'>　者也故為徳之制履和而至於禮不至則流而狥於</span>
+<span class='tline' id='l406' data-llen='9387:9410'>　物矣謙卑而人尊之其道光也復小而辯於物者以</span>
+<span class='tline' id='l407' data-llen='9410:9433'>　初九也人之所以異於萬物者以其存心也剝之剛</span>
+<span class='tline' id='l408' data-llen='9433:9456'>　陽反動於初則善心生於㝠昧難知之時不俟乎大</span>
+<span class='tline' id='l409' data-llen='9456:9479'>　而後與物辯也斯非徳之本歟恒泰之變也初九正</span>
+<span class='tline' id='l410' data-llen='9479:9502'>　也動而之三雷風並作萬物繁興之時三守正不動</span>
+<span class='tline' id='l411' data-llen='9502:9525'>　酬酢而不厭天地所不能旋日月所不能眩可以言</span>
+<span class='tline' id='l412' data-llen='9525:9552'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-23b' );" name="008-23b" class="pb">[008-23b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l413' data-llen='9552:9575'>　徳之固矣損先難而後易何也情慾者强陽之氣也</span>
+<span class='tline' id='l414' data-llen='9575:9598'>　初損之必有吝心剛健決斷乃能行之故先難也及</span>
+<span class='tline' id='l415' data-llen='9598:9621'>　其既損考諸理而順反諸心而悅其孰禦我哉故後</span>
+<span class='tline' id='l416' data-llen='9621:9644'>　易也夫一介不以取諸人然後繫千駟之馬而弗視</span>
+<span class='tline' id='l417' data-llen='9644:9667'>　祿之以天下而弗顧故曰仁亦在熟之而巳益長裕</span>
+<span class='tline' id='l418' data-llen='9667:9690'>　而不設何也益否之變也九四下益於初初九正也</span>
+<span class='tline' id='l419' data-llen='9690:9713'>　益物以誠也益物以誠即是自益以誠故四與初以</span>
+<span class='tline' id='l420' data-llen='9713:9736'>　益而正誠自成也受益者不贅益之者不虧與時偕</span>
+<span class='tline' id='l421' data-llen='9736:9763'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-24a' );" name="008-24a" class="pb">[008-24a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l422' data-llen='9763:9786'>　行如天地之裕萬物非張設之也困窮而通何也否</span>
+<span class='tline' id='l423' data-llen='9786:9809'>　之上九陷而之二上下柔揜之窮也處險而說在窮</span>
+<span class='tline' id='l424' data-llen='9809:9832'>　而心亨通也通者不窮之謂豈必富貴利達而後為</span>
+<span class='tline' id='l425' data-llen='9832:9855'>　通哉故曰學不能行謂之病病則窮矣井居其所而</span>
+<span class='tline' id='l426' data-llen='9855:9878'>　遷何也泰初之五為井初九正也九五亦正也初遷</span>
+<span class='tline' id='l427' data-llen='9878:9901'>　之五往者正也五遷之初來者正也五居其所而往</span>
+<span class='tline' id='l428' data-llen='9901:9924'>　來皆正能遷也巽稱而隱何也遯二之四為巽稱者</span>
+<span class='tline' id='l429' data-llen='9924:9947'>　輕重均之謂也二隂方進六二從四九四君子屈已</span>
+<span class='tline' id='l430' data-llen='9947:9974'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-24b' );" name="008-24b" class="pb">[008-24b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l431' data-llen='9974:9997'>　以下之則君子小人勢均矣人見其屈已以為巽而</span>
+<span class='tline' id='l432' data-llen='9997:10020'>　不知六二亦巽乎剛故曰稱而隱履以和行何也和</span>
+<span class='tline' id='l433' data-llen='10020:10043'>　者禮之用節者禮之體節而不和禮不行矣謙以制</span>
+<span class='tline' id='l434' data-llen='10043:10066'>　禮何也禮自卑而尊人自後而先人不能乎謙安能</span>
+<span class='tline' id='l435' data-llen='10066:10089'>　行禮復以自知何也有善必自知之不善必自知之</span>
+<span class='tline' id='l436' data-llen='10089:10112'>　修其善去其不善則復矣恒以一徳何也雜而不厭</span>
+<span class='tline' id='l437' data-llen='10112:10135'>　非徇物也久而不變也久則其徳无二三矣損以逺</span>
+<span class='tline' id='l438' data-llen='10135:10158'>　害何也自損以修徳則物无害之者故曰恭寡過情</span>
+<span class='tline' id='l439' data-llen='10158:10185'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-25a' );" name="008-25a" class="pb">[008-25a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l440' data-llen='10185:10208'>　可信儉易容也以此失之者鮮矣益以興利何也因</span>
+<span class='tline' id='l441' data-llen='10208:10231'>　其所利而利之也困以寡怨何也雖困而通在窮而</span>
+<span class='tline' id='l442' data-llen='10231:10254'>　悅樂天者也我不尤人人復何怨井以辯義何也井</span>
+<span class='tline' id='l443' data-llen='10254:10277'>　自守以正與人必以正處已處人各得其宜者也巽</span>
+<span class='tline' id='l444' data-llen='10277:10300'>　以行權何也權者稱之所以輕重也與時推移湣然</span>
+<span class='tline' id='l445' data-llen='10300:10323'>　无際如行權稱物人見其適平而巳其序則履和執</span>
+<span class='tline' id='l446' data-llen='10323:10346'>　謙復本恒久損已益人然後可以處困不窮能遷然</span>
+<span class='tline' id='l447' data-llen='10346:10369'>　後可以行權九卦履出于乾謙復出于坤恒出于震</span>
+<span class='tline' id='l448' data-llen='10369:10396'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-25b' );" name="008-25b" class="pb">[008-25b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l449' data-llen='10396:10419'>　損出于艮益出于巽困井出于坎獨不取離何也離</span>
+<span class='tline' id='l450' data-llen='10419:10442'>　萬物皆相見之卦包犧氏取之文王内文明外柔順</span>
+<span class='tline' id='l451' data-llen='10442:10455'>　以蒙大難明在地中時也</span>
+<span class='tline' id='l452' data-llen='10455:10478'>易之為書也不可逺為道也屢遷變動不居周流六虛</span>
+<span class='tline' id='l453' data-llen='10478:10501'>上下无常剛柔相易不可為典要唯變所適其出入以</span>
+<span class='tline' id='l454' data-llen='10501:10524'>度外内使知懼又明於憂患與故无有師保如臨父母</span>
+<span class='tline' id='l455' data-llen='10524:10546'>初率其辭而揆其方既有典常苟非其人道不虛行</span>
+<span class='tline' id='l456' data-llen='10546:10569'>　龔原曰易之為書也三章當從龔此章言易有變動</span>
+<span class='tline' id='l457' data-llen='10569:10596'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-26a' );" name="008-26a" class="pb">[008-26a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l458' data-llen='10596:10619'>　出入易之為書明天地之用其用不過乎六爻不可</span>
+<span class='tline' id='l459' data-llen='10619:10642'>　逺也逺此而求之則違道逺矣其道也屢遷有變有</span>
+<span class='tline' id='l460' data-llen='10642:10665'>　動不居其所升降往來循環流轉於六位之中位謂</span>
+<span class='tline' id='l461' data-llen='10665:10689'>　之虛者虛其位以待變動也故太𤣥九位亦曰九虚</span>
+<span class='tline' id='l462' data-llen='10689:10712'>　或自上而降或自下而升上下无常也剛來則柔往</span>
+<span class='tline' id='l463' data-llen='10712:10735'>　柔來則剛往剛柔相易也无常則不可為典相易則</span>
+<span class='tline' id='l464' data-llen='10735:10758'>　不可為要流行散徙唯變所適然亦不過乎六爻不</span>
+<span class='tline' id='l465' data-llen='10758:10781'>　過者以不可逺也其出入云者以一卦内外言之兩</span>
+<span class='tline' id='l466' data-llen='10781:10808'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-26b' );" name="008-26b" class="pb">[008-26b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l467' data-llen='10808:10831'>　體也出者自内之外往也入者自外之内來也以是</span>
+<span class='tline' id='l468' data-llen='10831:10854'>　度外内之際而觀消息盈虚之變出處進退之理使</span>
+<span class='tline' id='l469' data-llen='10854:10877'>　知戒懼當出而入與當入而出其患一也故大觀在</span>
+<span class='tline' id='l470' data-llen='10877:10900'>　上窺觀者醜三陽方壯牽羊悔亡出入内外本於相</span>
+<span class='tline' id='l471' data-llen='10900:10923'>　形比四從二亦曰外離五用九亦曰出唯精於義者</span>
+<span class='tline' id='l472' data-llen='10923:10946'>　能知之知義則知懼矣又此書明於已之所當憂患</span>
+<span class='tline' id='l473' data-llen='10946:10969'>　與所以致憂患之故安不忘危存不忘亡治不忘亂</span>
+<span class='tline' id='l474' data-llen='10969:10992'>　无有師保教訓而嚴憚之明失得之報也如有父母</span>
+<span class='tline' id='l475' data-llen='10992:11019'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-27a' );" name="008-27a" class="pb">[008-27a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l476' data-llen='11019:11042'>　親臨而愛敬之見聖人之情也初率其吉凶之辭揆</span>
+<span class='tline' id='l477' data-llen='11042:11065'>　其八卦之方則既有典常可守矣蓋不可逺者易之</span>
+<span class='tline' id='l478' data-llen='11065:11088'>　體也而有用焉為道也屢遷者易之用也而有體焉</span>
+<span class='tline' id='l479' data-llen='11088:11111'>　能知卦象合一體用同源者乎斯可以言易之書矣</span>
+<span class='tline' id='l480' data-llen='11111:11132'>　書載道者也待人而後行苟非其人道不徒行</span>
+<span class='tline' id='l481' data-llen='11132:11155'>易之為書也原始要終以為質也六爻相雜唯其時物</span>
+<span class='tline' id='l482' data-llen='11155:11178'>也其初難知其上易知本末也初辭擬之卒成之終若</span>
+<span class='tline' id='l483' data-llen='11178:11201'>夫雜物撰徳辯是與非則非其中爻不備噫亦要存亡</span>
+<span class='tline' id='l484' data-llen='11201:11228'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-27b' );" name="008-27b" class="pb">[008-27b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l485' data-llen='11228:11248'>吉凶則居可知矣知者觀其彖辭則思過半矣</span>
+<span class='tline' id='l486' data-llen='11248:11271'>　此章言重卦六爻之義易之為書也原始於初爻要</span>
+<span class='tline' id='l487' data-llen='11271:11294'>　終於上爻成六位以為體質者也八卦八物也六爻</span>
+<span class='tline' id='l488' data-llen='11294:11317'>　六時也六爻相雜時異而物異八卦本象也時物别</span>
+<span class='tline' id='l489' data-llen='11317:11340'>　象也其本甚㣲故難知其末巳著故易知初辭擬而</span>
+<span class='tline' id='l490' data-llen='11340:11363'>　後言不亦難知乎卒成之其事終矣不亦易知乎上</span>
+<span class='tline' id='l491' data-llen='11363:11386'>　下之位以時言之初終也以道言之本末也以事言</span>
+<span class='tline' id='l492' data-llen='11386:11409'>　之始卒也其實一也時變則事變事變則道與之俱</span>
+<span class='tline' id='l493' data-llen='11409:11436'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-28a' );" name="008-28a" class="pb">[008-28a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l494' data-llen='11436:11459'>　未有違時造事而能成者三畫非无本末也聖人何</span>
+<span class='tline' id='l495' data-llen='11459:11482'>　為重卦曰理具乎中其事則未也若夫糅雜八卦之</span>
+<span class='tline' id='l496' data-llen='11482:11505'>　物撰定六爻之徳辯得失是非則非中爻不備中爻</span>
+<span class='tline' id='l497' data-llen='11505:11528'>　崔憬所謂二三四五京房所謂互體是也蓋物无常</span>
+<span class='tline' id='l498' data-llen='11528:11551'>　是亦无常非施於彼者或不可施於此用於古者或</span>
+<span class='tline' id='l499' data-llen='11551:11574'>　不可行於今蒙以九二納婦而六三取女則不利節</span>
+<span class='tline' id='l500' data-llen='11574:11597'>　以初九不出而九二不出則失時得失是非不可不</span>
+<span class='tline' id='l501' data-llen='11597:11620'>　辯也噫重卦六爻之意亦要諸吉凶存亡之辭而巳</span>
+<span class='tline' id='l502' data-llen='11620:11647'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-28b' );" name="008-28b" class="pb">[008-28b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l503' data-llen='11647:11670'>　有同位而異物同物而異象同象而異辭要諸辭則</span>
+<span class='tline' id='l504' data-llen='11670:11693'>　四者不同居然易見可指掌而知矣六爻者變動相</span>
+<span class='tline' id='l505' data-llen='11693:11716'>　錯而有吉凶存亡者也彖辭者合内外二體以一爻</span>
+<span class='tline' id='l506' data-llen='11716:11739'>　相變而有者也知者明於理則觀諸彖辭而爻義巳</span>
+<span class='tline' id='l507' data-llen='11739:11747'>　知其過半矣</span>
+<span class='tline' id='l508' data-llen='11747:11770'>二與四同功而異位其善不同二多譽四多懼近也柔</span>
+<span class='tline' id='l509' data-llen='11770:11793'>之為道不利逺者其要无咎其用柔中也三與五同功</span>
+<span class='tline' id='l510' data-llen='11793:11816'>而異位三多凶五多功貴賤之等也其柔危其剛勝邪</span>
+<span class='tline' id='l511' data-llen='11816:11843'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-29a' );" name="008-29a" class="pb">[008-29a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l512' data-llen='11843:11866'>　龔氏合易之為書也為一章誤矣今從故本此章再</span>
+<span class='tline' id='l513' data-llen='11866:11889'>　明中爻之義二四耦也同為隂之功内外異位有不</span>
+<span class='tline' id='l514' data-llen='11889:11912'>　同焉二多譽四多懼何也四近五五尊位近尊位則</span>
+<span class='tline' id='l515' data-llen='11912:11935'>　多懼月望日則食禮近君則屈然柔之為道不利逺</span>
+<span class='tline' id='l516' data-llen='11935:11958'>　者坤從乾也二逺於五所以多譽者其要在於雖柔</span>
+<span class='tline' id='l517' data-llen='11958:11981'>　而无咎以其用柔中也用柔而失中其能无咎乎三</span>
+<span class='tline' id='l518' data-llen='11981:12004'>　五竒也同為陽之功内外異位有不同焉三多凶五</span>
+<span class='tline' id='l519' data-llen='12004:12027'>　多功何也五貴三賤其等不同也三處下位之極其</span>
+<span class='tline' id='l520' data-llen='12027:12054'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-29b' );" name="008-29b" class="pb">[008-29b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l521' data-llen='12054:12077'>　柔居之則危不勝任矣其剛居之將以為勝邪以剛</span>
+<span class='tline' id='l522' data-llen='12077:12100'>　居剛有時乎過剛矣危則疾顛過則易敗此三所以</span>
+<span class='tline' id='l523' data-llen='12100:12123'>　多凶也若五不然以剛居之得尊位大中宜處貴者</span>
+<span class='tline' id='l524' data-llen='12123:12146'>　也以柔居之有處謙執柔以貴下賤之美二為五用</span>
+<span class='tline' id='l525' data-llen='12146:12169'>　矣此五所以多功也夫二五中也二三四五皆曰中</span>
+<span class='tline' id='l526' data-llen='12169:12192'>　爻何也曰以三數之自一至三以二為中自四至上</span>
+<span class='tline' id='l527' data-llen='12192:12215'>　以五為中以五數之自二至上以四為中以四數之</span>
+<span class='tline' id='l528' data-llen='12215:12238'>　自二至五以三四為中復之九四曰中行獨復中孚</span>
+<span class='tline' id='l529' data-llen='12238:12265'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-30a' );" name="008-30a" class="pb">[008-30a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l530' data-llen='12265:12287'>　以二柔在内名卦卦言徳爻言善者積善成徳也</span>
+<span class='tline' id='l531' data-llen='12287:12310'>易之為書也廣大悉備有天道焉有人道焉有地道焉</span>
+<span class='tline' id='l532' data-llen='12310:12333'>兼三才而兩之故六六者非它也三才之道也道有變</span>
+<span class='tline' id='l533' data-llen='12333:12356'>動故曰爻爻有等故曰物物相雜故曰文文不當故吉</span>
+<span class='tline' id='l534' data-llen='12356:12379'>凶生焉易之興也其當殷之末世周之盛徳邪當文王</span>
+<span class='tline' id='l535' data-llen='12379:12402'>與紂之事邪是故其辭危危者使平易者使傾其道甚</span>
+<span class='tline' id='l536' data-llen='12402:12424'>大百物不廢懼以始終其要无咎此之謂易之道也</span>
+<span class='tline' id='l537' data-llen='12424:12447'>　此章再明六爻雜物之義易之為書廣大而无外語</span>
+<span class='tline' id='l538' data-llen='12447:12474'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-30b' );" name="008-30b" class="pb">[008-30b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l539' data-llen='12474:12497'>　天地之間則无乎不備矣有天道焉隂與陽也有人</span>
+<span class='tline' id='l540' data-llen='12497:12520'>　道焉仁與義也有地道焉柔與剛也此三者一物而</span>
+<span class='tline' id='l541' data-llen='12520:12543'>　兩體隂陽也而謂之天仁義也而謂之人剛柔也而</span>
+<span class='tline' id='l542' data-llen='12543:12566'>　謂之地故曰三才兼三才而兩之故六兼之者天之</span>
+<span class='tline' id='l543' data-llen='12566:12589'>　道兼隂與陽也人之道兼仁與義也地之道兼柔與</span>
+<span class='tline' id='l544' data-llen='12589:12612'>　剛也六者非它即三才之道也是故三畫而有重卦</span>
+<span class='tline' id='l545' data-llen='12612:12635'>　六即三也三即一也道有變易有流動爻則傚之故</span>
+<span class='tline' id='l546' data-llen='12635:12658'>　曰爻天地相函精氣所聚其等有六曰物八物相錯</span>
+<span class='tline' id='l547' data-llen='12658:12685'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-31a' );" name="008-31a" class="pb">[008-31a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l548' data-llen='12685:12708'>　而成文故曰文文當其位則吉文不當其位則凶故</span>
+<span class='tline' id='l549' data-llen='12708:12731'>　吉凶生焉易之興也當殷之末世周之盛徳邪何繫</span>
+<span class='tline' id='l550' data-llen='12731:12754'>　之辭而告其吉凶者如是乎又紂與文王之事邪何</span>
+<span class='tline' id='l551' data-llen='12754:12777'>　君子處小人之間而其辭危乎是故危懼者使知可</span>
+<span class='tline' id='l552' data-llen='12777:12800'>　平慢易者使知必傾所以長君子消小人也其道甚</span>
+<span class='tline' id='l553' data-llen='12800:12823'>　大君子小人无所不容不容則不足以準天地百物</span>
+<span class='tline' id='l554' data-llen='12823:12846'>　不廢者所以形容其道所謂悉備也初辭擬之卒成</span>
+<span class='tline' id='l555' data-llen='12846:12869'>　之終使知善不善之積成名滅身非一朝夕之漸故</span>
+<span class='tline' id='l556' data-llen='12869:12896'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-31b' );" name="008-31b" class="pb">[008-31b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l557' data-llen='12896:12919'>　原始要終而懼焉其大要歸之无咎而巳此之謂易</span>
+<span class='tline' id='l558' data-llen='12919:12939'>　之道易之道立人道以貫天地而為一者也</span>
+<span class='tline' id='l559' data-llen='12939:12962'>夫乾天下之至健也徳行恒易以知險夫坤天下之至</span>
+<span class='tline' id='l560' data-llen='12962:12985'>順也徳行恒簡以知阻能說諸心能研諸侯之慮定天</span>
+<span class='tline' id='l561' data-llen='12985:13008'>下之吉凶成天下之亹亹者是故變化云為吉事有祥</span>
+<span class='tline' id='l562' data-llen='13008:13031'>象事知器占事知來天地設位聖人成能人謀鬼謀百</span>
+<span class='tline' id='l563' data-llen='13031:13054'>姓與能八卦以象告爻彖以情言剛柔雜居而吉凶可</span>
+<span class='tline' id='l564' data-llen='13054:13077'>見矣變動以利言吉凶以情遷是故愛惡相攻而吉凶</span>
+<span class='tline' id='l565' data-llen='13077:13104'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-32a' );" name="008-32a" class="pb">[008-32a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l566' data-llen='13104:13127'>生逺近相取而悔吝生情偽相感而利害生凡易之情</span>
+<span class='tline' id='l567' data-llen='13127:13150'>近而不相得則凶或害之悔且吝將叛者其辭慙中心</span>
+<span class='tline' id='l568' data-llen='13150:13173'>疑者其辭枝吉人之辭寡躁人之辭多誣善之人其辭</span>
+<span class='tline' id='l569' data-llen='13173:13183'>游失其守者其辭屈</span>
+<span class='tline' id='l570' data-llen='13183:13206'>　此章論六爻而歸之於簡易乾健而為萬物先莫或</span>
+<span class='tline' id='l571' data-llen='13206:13229'>　禦之故其徳行恒易坤順以從乾无二適也故其徳</span>
+<span class='tline' id='l572' data-llen='13229:13252'>　行恒簡以易也故知險之為難以簡也故知阻之可</span>
+<span class='tline' id='l573' data-llen='13252:13275'>　疑簡生於易阻生於險簡易也故能說諸心知險阻</span>
+<span class='tline' id='l574' data-llen='13275:13302'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-32b' );" name="008-32b" class="pb">[008-32b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l575' data-llen='13302:13325'>　也故能研諸慮簡易者我心之所固有反而得之能</span>
+<span class='tline' id='l576' data-llen='13325:13348'>　无說乎以我所有慮其不然反復不捨能無研乎曰</span>
+<span class='tline' id='l577' data-llen='13348:13371'>　研諸侯之慮者衍侯之二字王弼略例曰能研諸慮</span>
+<span class='tline' id='l578' data-llen='13371:13394'>　則衍文可知天下之吉凶藏於无形至難定也天下</span>
+<span class='tline' id='l579' data-llen='13394:13417'>　之亹亹來而不已至難成也定之成之者簡易而巳</span>
+<span class='tline' id='l580' data-llen='13417:13440'>　乾坤變化有云有為云者言也為者動也吉事有祥</span>
+<span class='tline' id='l581' data-llen='13440:13463'>　祥者吉之先見有祥必先知之兼言動也制器者尚</span>
+<span class='tline' id='l582' data-llen='13463:13486'>　象知器則知成器之為天下利而可動也卜筮者尚</span>
+<span class='tline' id='l583' data-llen='13486:13513'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-33a' );" name="008-33a" class="pb">[008-33a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l584' data-llen='13513:13536'>　占知來則知來物而言動審矣是以能定天下之吉</span>
+<span class='tline' id='l585' data-llen='13536:13559'>　凶成天下之亹亹非知險知阻者能之乎天尊地卑</span>
+<span class='tline' id='l586' data-llen='13559:13582'>　乾坤設位聖人配天地而立合乾坤之徳以成能事</span>
+<span class='tline' id='l587' data-llen='13582:13605'>　能說諸心能研諸慮者明以盡人謀也定天下之吉</span>
+<span class='tline' id='l588' data-llen='13605:13628'>　凶成天下之亹亹者幽以盡鬼謀也人謀鬼謀幽顯</span>
+<span class='tline' id='l589' data-llen='13628:13651'>　合一天下樂推而不厭百姓之愚與之以能矣成能</span>
+<span class='tline' id='l590' data-llen='13651:13674'>　故也伏羲氏始畫八卦不言而告之以象者至簡易</span>
+<span class='tline' id='l591' data-llen='13674:13697'>　也後世聖人演之為六十四卦有爻有彖以人情變</span>
+<span class='tline' id='l592' data-llen='13697:13724'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-33b' );" name="008-33b" class="pb">[008-33b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l593' data-llen='13724:13747'>　動言之於辭知險阻也且八卦成列剛柔雜居吉凶</span>
+<span class='tline' id='l594' data-llen='13747:13770'>　已可見矣然道有變動變則通通則其用不窮所以</span>
+<span class='tline' id='l595' data-llen='13770:13793'>　盡利者不可不言也故變動以利言吉凶以情而遷</span>
+<span class='tline' id='l596' data-llen='13793:13816'>　巧厯之所不能計也聖人唯恐遷之而失其正矣故</span>
+<span class='tline' id='l597' data-llen='13816:13839'>　爻彖以情言變動者何情偽之所為也人之情偽難</span>
+<span class='tline' id='l598' data-llen='13839:13862'>　知矣以情相感則利生以偽相感則害生近不必取</span>
+<span class='tline' id='l599' data-llen='13862:13885'>　逺不必捨則悔吝生愛惡不一起而相攻則吉凶生</span>
+<span class='tline' id='l600' data-llen='13885:13908'>　吉凶生而悔吝著情偽其能掩乎是則情偽相感也</span>
+<span class='tline' id='l601' data-llen='13908:13935'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-34a' );" name="008-34a" class="pb">[008-34a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l602' data-llen='13935:13958'>　逺近相取也愛惡相攻也爻有變動也有利害斯有</span>
+<span class='tline' id='l603' data-llen='13958:13981'>　悔吝有悔吝斯有吉凶吉凶以情遷也悔吝者何凡</span>
+<span class='tline' id='l604' data-llen='13981:14004'>　易之情隂陽相求内外相應近而不相得則偽不可</span>
+<span class='tline' id='l605' data-llen='14004:14027'>　久物或害之害之則凶將至矣悔吝者利害吉凶之</span>
+<span class='tline' id='l606' data-llen='14027:14050'>　界乎害之而悔則吉且利矣吝而不悔則凶聖人不</span>
+<span class='tline' id='l607' data-llen='14050:14073'>　得不以利言之而使之逺害也故曰聖人之情見乎</span>
+<span class='tline' id='l608' data-llen='14073:14096'>　辭然則何以知情偽邪考其辭可矣將叛者其心慙</span>
+<span class='tline' id='l609' data-llen='14096:14119'>　負故其辭愧中心疑者其心惑亂故其辭枝吉人守</span>
+<span class='tline' id='l610' data-llen='14119:14146'><a onclick="displayPageImage('KR1a0024', 'WYG', '008-34b' );" name="008-34b" class="pb">[008-34b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span>
+<span class='tline' id='l611' data-llen='14146:14169'>　約故其辭寡躁人欲速故其辭多誣善之人妄故其</span>
+<span class='tline' id='l612' data-llen='14169:14192'>　辭游失其守者窮故其辭屈吉人辭寡以簡易知也</span>
+<span class='tline' id='l613' data-llen='14192:14215'>　五者反是以知險知阻而知也簡易則吉險阻則凶</span>
+<span class='tline' id='l614' data-llen='14215:14238'>　其辭則六其别則二情偽而已矣上繫言易簡而天</span>
+<span class='tline' id='l615' data-llen='14238:14261'>　下之理得下繫終之以易簡而知險阻故曰殊塗而</span>
+<span class='tline' id='l616' data-llen='14261:14271'>　同歸一致而百慮</span>
+<span class='tline' id='l617' data-llen='14271:14274'>　</span>
+<span class='tline' id='l618' data-llen='14274:14283'>　漢上易傳卷八</span>
 </p>
-<p><br/>
+<p>
 </p>
   </div>
