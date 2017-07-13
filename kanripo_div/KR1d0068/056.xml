@@ -1,0 +1,834 @@
+<div id="txtcont" class="span9" style="position: relative;">
+    <p><br/>
+<span class='tline' id='l7' data-llen='159:185'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-1a' );" name="056-1a" class="pb">[056-1a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l8' data-llen='185:193'>欽定四庫全書</span><br/>
+<span class='tline' id='l9' data-llen='193:205'>欽定禮記義疏卷五十六</span><br/>
+<span class='tline' id='l10' data-llen='205:217'>　雜記下第二十一之二</span><br/>
+<span class='tline' id='l11' data-llen='217:240'>卒哭而諱王父母兄弟世父叔父姑姊妹子與父同諱</span><br/>
+<span class='tline' id='l12' data-llen='240:263'>母之諱宮中諱妻之諱不舉諸其側與從祖昆弟同名</span><br/>
+<span class='tline' id='l13' data-llen='263:267'>則諱</span><br/>
+<span class='tline' id='l14' data-llen='267:290'>　正義鄭氏康成曰自卒哭而鬼神事之尊而諱其名</span><br/>
+<span class='tline' id='l15' data-llen='290:324'>　王父母以下之親諱是謂士也<span class='krp-note'>孔疏是士故諱王父/若是庶人子不逮事</span></span><br/>
+<span class='tline' id='l16' data-llen='324:350'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-1b' );" name="056-1b" class="pb">[056-1b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l17' data-llen='350:386'>　<span class='krp-note'>父母則不諱/王父母也</span>父為其親諱則子不敢不從諱<span class='krp-note'>孔疏據/王父母</span></span><br/>
+<span class='tline' id='l18' data-llen='386:427'>　<span class='krp-note'>世父叔父及姑已不合諱者言之父之兄/弟及姊妹已為合諱不假從父而諱也</span>天子諸侯</span><br/>
+<span class='tline' id='l19' data-llen='427:460'>　諱羣祖<span class='krp-note'>孔疏天子七廟諸侯/五廟故知諱羣祖</span>母之所為其親諱子孫</span><br/>
+<span class='tline' id='l20' data-llen='460:483'>　於宮中不言妻之所為其親諱夫於其側亦不言也</span><br/>
+<span class='tline' id='l21' data-llen='483:514'>　<span class='krp-note'>孔疏於宫中/逺處得言之</span>孝子聞名心瞿凡不言人諱者亦為其</span><br/>
+<span class='tline' id='l22' data-llen='514:542'>　相感動也子與父同諱則子可盡曾祖之親也<span class='krp-note'>孔疏/父為</span></span><br/>
+<span class='tline' id='l23' data-llen='542:584'>　<span class='krp-note'>王父諱於子則為曾祖父之伯叔及姑則/是子曾祖之親故云子可盡曾祖之親也</span>從祖昆弟</span><br/>
+<span class='tline' id='l24' data-llen='584:624'>　在其中<span class='krp-note'>孔疏從祖昆弟/共同曾祖之親</span>於父輕不為諱<span class='krp-note'>孔疏從祖昆/弟於父言之</span></span><br/>
+<span class='tline' id='l25' data-llen='624:650'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-2a' );" name="056-2a" class="pb">[056-2a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l26' data-llen='650:688'>　<span class='krp-note'>是父之同堂兄弟子也父服小功/不為之諱已又不得從父而諱</span>與母妻之親同名</span><br/>
+<span class='tline' id='l27' data-llen='688:730'>　重則諱之<span class='krp-note'>孔疏母與妻二者之諱與已從祖昆弟同/名則為之諱不但宮中旁側其在餘處皆</span></span><br/>
+<span class='tline' id='l28' data-llen='730:757'>　<span class='krp-note'>諱之/也</span>　孔氏穎達曰此論親戚死亡諱辟名之事卒</span><br/>
+<span class='tline' id='l29' data-llen='757:780'>　哭前猶以生禮事之卒哭後去生漸逺故諱其名兄</span><br/>
+<span class='tline' id='l30' data-llen='780:803'>　弟謂父之兄弟於己為伯叔正服期父亦為之期是</span><br/>
+<span class='tline' id='l31' data-llen='803:826'>　子與父同有諱也世父叔父是父之世父叔父於己</span><br/>
+<span class='tline' id='l32' data-llen='826:849'>　是從祖正服小功姑謂父之姑於己為從祖姑在家</span><br/>
+<span class='tline' id='l33' data-llen='849:872'>　正服小功出嫁緦麻二者皆不合諱以父為之諱故</span><br/>
+<span class='tline' id='l34' data-llen='872:898'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-2b' );" name="056-2b" class="pb">[056-2b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l35' data-llen='898:921'>　已從父而諱也姊妹謂父姊妹於己為姑在家正服</span><br/>
+<span class='tline' id='l36' data-llen='921:944'>　期出嫁大功九月是已與父同為之諱此等是子與</span><br/>
+<span class='tline' id='l37' data-llen='944:967'>　父同諱也　吳氏澄曰己之從祖是弟於父為子行</span><br/>
+<span class='tline' id='l38' data-llen='967:990'>　屬卑且疏故不諱若與母妻之親名同而相重則為</span><br/>
+<span class='tline' id='l39' data-llen='990:1013'>　母妻之親諱而因為之諱爾非正為從祖昆弟而諱</span><br/>
+<span class='tline' id='l40' data-llen='1013:1017'>　也</span><br/>
+<span class='tline' id='l41' data-llen='1017:1040'>　存異孔氏穎達曰王父母謂父之王父母於己為曾</span><br/>
+<span class='tline' id='l42' data-llen='1040:1063'>　祖父母正服小功不合諱以父為之諱子亦同父諱</span><br/>
+<span class='tline' id='l43' data-llen='1063:1089'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-3a' );" name="056-3a" class="pb">[056-3a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l44' data-llen='1089:1093'>　之</span><br/>
+<span class='tline' id='l45' data-llen='1093:1116'>　案卒哭而諱令於宮曰舍故而諱新髙祖以上親盡</span><br/>
+<span class='tline' id='l46' data-llen='1116:1139'>　不復諱是高祖曾祖禮當諱孔謂父之王父母於己</span><br/>
+<span class='tline' id='l47' data-llen='1139:1162'>　為曾祖父母正服小功不合諱恐非也又其所謂正</span><br/>
+<span class='tline' id='l48' data-llen='1162:1185'>　服小功者從至親以期斷推之謂父當期祖當大功</span><br/>
+<span class='tline' id='l49' data-llen='1185:1208'>　曾祖當小功耳聖人制禮定父斬衰三年祖齊衰期</span><br/>
+<span class='tline' id='l50' data-llen='1208:1231'>　曾祖齊衰三月以明尊親之大義可云父正服期當</span><br/>
+<span class='tline' id='l51' data-llen='1231:1254'>　以期為例乎則其比例亦非也或曰諱及髙曾者天</span><br/>
+<span class='tline' id='l52' data-llen='1254:1280'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-3b' );" name="056-3b" class="pb">[056-3b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l53' data-llen='1280:1303'>　子諸侯禮大夫三廟諱不及髙適士二廟諱不及曽</span><br/>
+<span class='tline' id='l54' data-llen='1303:1308'>　尤非</span><br/>
+<span class='tline' id='l55' data-llen='1308:1331'>以喪冠者雖三年之喪可也既冠於次入哭踊三者三</span><br/>
+<span class='tline' id='l56' data-llen='1331:1348'>乃出<span class='krp-note'>冠古亂反下/同三息暫反</span></span><br/>
+<span class='tline' id='l57' data-llen='1348:1371'>　正義鄭氏康成曰言雖者明齊衰以下皆可以冠也</span><br/>
+<span class='tline' id='l58' data-llen='1371:1394'>　始遭喪以其冠月則喪服因冠矣非其冠月待變除</span><br/>
+<span class='tline' id='l59' data-llen='1394:1417'>　卒哭而冠次廬也雖或為唯　孔氏穎達曰自此以</span><br/>
+<span class='tline' id='l60' data-llen='1417:1440'>　下明遭喪冠取之節將冠值喪當成服時因喪服加</span><br/>
+<span class='tline' id='l61' data-llen='1440:1466'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-4a' );" name="056-4a" class="pb">[056-4a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l62' data-llen='1466:1489'>　冠冠於次謂加冠於廬次之中若齊衰以下加冠於</span><br/>
+<span class='tline' id='l63' data-llen='1489:1512'>　次舍之處冠後入於喪所哭而跳踊每哭一節三踊</span><br/>
+<span class='tline' id='l64' data-llen='1512:1535'>　如此者三凡九踊乃出就次所曽子問曰將冠子未</span><br/>
+<span class='tline' id='l65' data-llen='1535:1558'>　及期日有齊衰大功小功之喪則因喪服而冠言未</span><br/>
+<span class='tline' id='l66' data-llen='1558:1581'>　及期日知冠月則可冠也次廬也據重服而言　胡</span><br/>
+<span class='tline' id='l67' data-llen='1581:1604'>　氏銓曰夏小正冠用二月若正月遭喪則二月不得</span><br/>
+<span class='tline' id='l68' data-llen='1604:1619'>　因喪而冠必待變除受服之節</span><br/>
+<span class='tline' id='l69' data-llen='1619:1642'>　存疑郝氏敬曰冠吉禮也元首之服成人之始豈可</span><br/>
+<span class='tline' id='l70' data-llen='1642:1668'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-4b' );" name="056-4b" class="pb">[056-4b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l71' data-llen='1668:1691'>　凶服哭踊行之雖三年之喪可者亦不得已之辭非</span><br/>
+<span class='tline' id='l72' data-llen='1691:1729'>　禮之正詳見曽子問<span class='krp-note'>案喪服曰成服如郝說則當加/冠之期竟可因吉凶之小嫌而</span></span><br/>
+<span class='tline' id='l73' data-llen='1729:1744'>　<span class='krp-note'>廢成服之大/禮乎未確</span></span><br/>
+<span class='tline' id='l74' data-llen='1744:1767'>大功之末可以冠子可以嫁子父小功之末可以冠子</span><br/>
+<span class='tline' id='l75' data-llen='1767:1790'>可以嫁子可以取婦己雖小功既卒哭可以冠取妻下</span><br/>
+<span class='tline' id='l76' data-llen='1790:1806'>殤之小功則不可<span class='krp-note'>取七/住反</span></span><br/>
+<span class='tline' id='l77' data-llen='1806:1829'>　正義鄭氏康成曰此皆謂可用吉禮之時下殤小功</span><br/>
+<span class='tline' id='l78' data-llen='1829:1863'>　齊衰之親除喪而後可為婚禮<span class='krp-note'>孔疏下殤小功謂本/齊衰重服降在小功</span></span><br/>
+<span class='tline' id='l79' data-llen='1863:1889'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-5a' );" name="056-5a" class="pb">[056-5a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l80' data-llen='1889:1930'>　<span class='krp-note'>不可冠嫁其餘小功可以冠取若其齊/衰長殤中殤降在大功理不可冠嫁矣</span>凡冠者其時</span><br/>
+<span class='tline' id='l81' data-llen='1930:1968'>　當冠則因喪而冠之<span class='krp-note'>孔疏經云大功小功之末可以/吉冠則大功小功之初當冠之</span></span><br/>
+<span class='tline' id='l82' data-llen='1968:2008'>　<span class='krp-note'>時則因喪服而冠之鄭因前經三年/之喪可冠於此復明輕喪亦可冠也</span>　孔氏穎達曰</span><br/>
+<span class='tline' id='l83' data-llen='2008:2031'>　大功謂已有大功之喪取婦有酒食之㑹集鄉黨僚</span><br/>
+<span class='tline' id='l84' data-llen='2031:2054'>　友渉近歡樂故小功之末乃可得為也經文大功據</span><br/>
+<span class='tline' id='l85' data-llen='2054:2077'>　已身不云父小功據其父不云身互而相通故鄭注</span><br/>
+<span class='tline' id='l86' data-llen='2077:2100'>　同之謂父及已身俱有大功之末小功之末父是大</span><br/>
+<span class='tline' id='l87' data-llen='2100:2123'>　功之末己亦是大功之末乃得行此冠子嫁子父小</span><br/>
+<span class='tline' id='l88' data-llen='2123:2149'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-5b' );" name="056-5b" class="pb">[056-5b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l89' data-llen='2149:2172'>　功之末己亦小功之末可以嫁取必父子俱然乃得</span><br/>
+<span class='tline' id='l90' data-llen='2172:2195'>　行事故云必偕祭乃行知父子俱大功小功者若姑</span><br/>
+<span class='tline' id='l91' data-llen='2195:2218'>　姊妹出適父子俱為大功從祖兄弟父子俱為小功</span><br/>
+<span class='tline' id='l92' data-llen='2218:2241'>　其服同也若父齊衰子大功則不可若父大功子小</span><br/>
+<span class='tline' id='l93' data-llen='2241:2264'>　功可以冠嫁未可取婦必父子俱小功之末可以取</span><br/>
+<span class='tline' id='l94' data-llen='2264:2287'>　婦若父小功已緦麻灼然合取可知　范氏宣曰案</span><br/>
+<span class='tline' id='l95' data-llen='2287:2310'>　禮大功之末可以冠子嫁子此於子已為無服也以</span><br/>
+<span class='tline' id='l96' data-llen='2310:2333'>　已尚在大功喪中猶未忍為子取婦近於歡事也故</span><br/>
+<span class='tline' id='l97' data-llen='2333:2359'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-6a' );" name="056-6a" class="pb">[056-6a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l98' data-llen='2359:2382'>　於冠子嫁子則可取婦則不可矣已有緦麻之喪於</span><br/>
+<span class='tline' id='l99' data-llen='2382:2405'>　祭亦廢婚亦不通矣况小功乎　陸氏佃曰大功之</span><br/>
+<span class='tline' id='l100' data-llen='2405:2421'>　末不言可以取婦不可以取婦也</span><br/>
+<span class='tline' id='l101' data-llen='2421:2444'>　通論范氏宣曰五服之制各有月數月數之内自無</span><br/>
+<span class='tline' id='l102' data-llen='2444:2467'>　吉事故曰衰麻非所以接弁冕也春秋左氏傳齊侯</span><br/>
+<span class='tline' id='l103' data-llen='2467:2490'>　使晏子請繼室於晉叔向對曰寡人之願也衰絰之</span><br/>
+<span class='tline' id='l104' data-llen='2490:2513'>　中是以未敢請時晉侯有少姜之喪耳禮貴妾緦而</span><br/>
+<span class='tline' id='l105' data-llen='2513:2536'>　叔向稱在衰絰之中推此而言雖輕喪之麻猶無婚</span><br/>
+<span class='tline' id='l106' data-llen='2536:2562'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-6b' );" name="056-6b" class="pb">[056-6b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l107' data-llen='2562:2585'>　姻之道也而敦本敬始之義每於婚冠見之矣雜記</span><br/>
+<span class='tline' id='l108' data-llen='2585:2608'>　曰大功之末可以嫁子小功之末可以取婦而下章</span><br/>
+<span class='tline' id='l109' data-llen='2608:2631'>　云已雖小功卒哭可冠取妻也二文誠為相發尋此</span><br/>
+<span class='tline' id='l110' data-llen='2631:2651'>　言為男女失時或繼嗣未立者耳非通例也</span><br/>
+<span class='tline' id='l111' data-llen='2651:2674'>　存疑鄭氏康成曰父大功卒哭而可以冠子嫁子小</span><br/>
+<span class='tline' id='l112' data-llen='2674:2697'>　功卒哭而可以取婦己大功卒哭而可以冠子小功</span><br/>
+<span class='tline' id='l113' data-llen='2697:2720'>　卒哭而可以取妻必偕祭乃行也　孔氏穎達曰末</span><br/>
+<span class='tline' id='l114' data-llen='2720:2743'>　謂卒哭之後　張子曰疑大功之末已下十二字為</span><br/>
+<span class='tline' id='l115' data-llen='2743:2769'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-7a' );" name="056-7a" class="pb">[056-7a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l116' data-llen='2769:2792'>　衍宜直云父大功之末云父大功則是己小功之末</span><br/>
+<span class='tline' id='l117' data-llen='2792:2815'>　而已之子緦麻之末故可以冠取也盖冠取者固已</span><br/>
+<span class='tline' id='l118' data-llen='2815:2838'>　無服矣凡卒哭之後皆是末也所以言衍者以上十</span><br/>
+<span class='tline' id='l119' data-llen='2838:2861'>　二字義無所附著已雖小功既卒哭可以冠取妻是</span><br/>
+<span class='tline' id='l120' data-llen='2861:2884'>　已自冠取妻也　陸氏佃曰父小功之末謂小功服</span><br/>
+<span class='tline' id='l121' data-llen='2884:2907'>　之在父行者若從祖父母從姊妹從祖母從祖祖姑</span><br/>
+<span class='tline' id='l122' data-llen='2907:2930'>　是也大功之末在卑行者若孫及從父兄弟從父姊</span><br/>
+<span class='tline' id='l123' data-llen='2930:2953'>　妹兄弟之子婦是也已雖小功既卒哭可以冠取妻</span><br/>
+<span class='tline' id='l124' data-llen='2953:2979'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-7b' );" name="056-7b" class="pb">[056-7b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l125' data-llen='2979:2992'>　若父小功未卒哭亦不可</span><br/>
+<span class='tline' id='l126' data-llen='2992:3015'>　辨正陳氏澔曰末服之將除也舊說以末為卒哭然</span><br/>
+<span class='tline' id='l127' data-llen='3015:3038'>　大功卒哭後尚有六月恐不可言末小功既言末又</span><br/>
+<span class='tline' id='l128' data-llen='3038:3051'>　言卒哭則末非卒哭明矣</span><br/>
+<span class='tline' id='l129' data-llen='3051:3074'>　案父小功謂己服輕而父小功如已為族曽祖父母</span><br/>
+<span class='tline' id='l130' data-llen='3074:3097'>　緦而父皆小功也已小功謂父服輕而已小功如已</span><br/>
+<span class='tline' id='l131' data-llen='3097:3120'>　為從父兄弟之子外祖父母小功而父皆緦從母小</span><br/>
+<span class='tline' id='l132' data-llen='3120:3143'>　功而父無服也言齊衰以上服重必不可行冠昏諸</span><br/>
+<span class='tline' id='l133' data-llen='3143:3169'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-8a' );" name="056-8a" class="pb">[056-8a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l134' data-llen='3169:3192'>　嘉禮若大功至九月之末則服本輕於期而月數亦</span><br/>
+<span class='tline' id='l135' data-llen='3192:3215'>　將盡則冠子嫁女或可行之而取妻猶不可為冠嫁</span><br/>
+<span class='tline' id='l136' data-llen='3215:3238'>　施之子而取則身之也至於小功則服更輕疑冠嫁</span><br/>
+<span class='tline' id='l137' data-llen='3238:3261'>　取無不可行然猶有辨焉家統於尊父有小功之服</span><br/>
+<span class='tline' id='l138' data-llen='3261:3284'>　則亦未可行必待父小功之末乃行也若父服輕而</span><br/>
+<span class='tline' id='l139' data-llen='3284:3307'>　已小功如從父兄弟之子其屬已卑外祖父母從母</span><br/>
+<span class='tline' id='l140' data-llen='3307:3330'>　則外族異姓雖卒哭亦可行不待小功之末也惟下</span><br/>
+<span class='tline' id='l141' data-llen='3330:3353'>　殤之小功則由期而降其服本重斷不可矣鄭注以</span><br/>
+<span class='tline' id='l142' data-llen='3353:3379'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-8b' );" name="056-8b" class="pb">[056-8b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l143' data-llen='3379:3402'>　末與卒哭為一孔疏以父小功已小功為一似皆未</span><br/>
+<span class='tline' id='l144' data-llen='3402:3407'>　分明</span><br/>
+<span class='tline' id='l145' data-llen='3407:3416'>凡弁絰其衰侈袂</span><br/>
+<span class='tline' id='l146' data-llen='3416:3439'>　正義鄭氏康成曰侈猶大也弁絰服者弔服也其衰</span><br/>
+<span class='tline' id='l147' data-llen='3439:3462'>　錫也緦也疑也袂之小者二尺二寸大者半而益之</span><br/>
+<span class='tline' id='l148' data-llen='3462:3485'>　則侈袂三尺三寸　孔氏穎達曰弔服首著弁絰身</span><br/>
+<span class='tline' id='l149' data-llen='3485:3495'>　著錫衰緦衰疑衰</span><br/>
+<span class='tline' id='l150' data-llen='3495:3518'>　存疑孔氏穎達曰此三衰大夫以上侈其袂若士則</span><br/>
+<span class='tline' id='l151' data-llen='3518:3544'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-9a' );" name="056-9a" class="pb">[056-9a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l152' data-llen='3544:3564'>　不侈也周禮司服有𤣥端士不侈故稱端</span><br/>
+<span class='tline' id='l153' data-llen='3564:3588'>　案不侈稱端似己但司服𤣥端固為士服而玊藻所</span><br/>
+<span class='tline' id='l154' data-llen='3588:3612'>　謂朝𤣥端夕深衣者亦大夫士共有之服也若謂士</span><br/>
+<span class='tline' id='l155' data-llen='3612:3635'>　不侈故稱端則侈袂之大夫何以亦曰端以臆為説</span><br/>
+<span class='tline' id='l156' data-llen='3635:3642'>　其病如此</span><br/>
+<span class='tline' id='l157' data-llen='3642:3665'>父有服宫中子不與於樂母有服聲聞焉不舉樂妻有</span><br/>
+<span class='tline' id='l158' data-llen='3665:3692'>服不舉樂於其側大功将至辟琴瑟小功至不絶樂<span class='krp-note'>與/音</span></span><br/>
+<span class='tline' id='l159' data-llen='3692:3708'>　<span class='krp-note'>預閒音問又/如字辟音避</span></span><br/>
+<span class='tline' id='l160' data-llen='3708:3734'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-9b' );" name="056-9b" class="pb">[056-9b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l161' data-llen='3734:3757'>　正義鄭氏康成曰宫中子與父同宫者也禮由命士</span><br/>
+<span class='tline' id='l162' data-llen='3757:3780'>　以上父子異宮不與於樂謂出行見之不得觀也至</span><br/>
+<span class='tline' id='l163' data-llen='3780:3803'>　來也辟琴瑟亦所以助哀　崔氏靈恩曰父有服齊</span><br/>
+<span class='tline' id='l164' data-llen='3803:3826'>　衰以下之服也若重服則期後猶有子姓之冠自不</span><br/>
+<span class='tline' id='l165' data-llen='3826:3849'>　當與於樂　陸氏佃曰此一節自士上達父有服有</span><br/>
+<span class='tline' id='l166' data-llen='3849:3872'>　作樂者宫中雖不聞子不敢與也母有服聲聞焉不</span><br/>
+<span class='tline' id='l167' data-llen='3872:3895'>　敢舉樂妻有服於其側不舉爾所謂不與於樂非直</span><br/>
+<span class='tline' id='l168' data-llen='3895:3918'>　不舉也　陳氏祥道曰父尊而不親故父有服宮中</span><br/>
+<span class='tline' id='l169' data-llen='3918:3945'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-10a' );" name="056-10a" class="pb">[056-10a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l170' data-llen='3945:3968'>　子不得與於聞樂况舉樂乎母親而不尊故母有服</span><br/>
+<span class='tline' id='l171' data-llen='3968:3991'>　不得以舉樂雖聲聞焉可也妻敵體而已故妻有服</span><br/>
+<span class='tline' id='l172' data-llen='3991:4014'>　不舉樂於其側不於其側舉之可也君子無故不徹</span><br/>
+<span class='tline' id='l173' data-llen='4014:4037'>　琴瑟大功之親有服将至則有故矣雖辟琴瑟可也</span><br/>
+<span class='tline' id='l174' data-llen='4037:4060'>　未至則不必辟矣小功之親有服雖不至絶樂其将</span><br/>
+<span class='tline' id='l175' data-llen='4060:4083'>　至又可知矣雖然小功至不絶樂若夫於己有小功</span><br/>
+<span class='tline' id='l176' data-llen='4083:4098'>　之喪議而及樂又禮之所棄也</span><br/>
+<span class='tline' id='l177' data-llen='4098:4121'>　存疑孔氏穎達曰此謂命士以下與父同宮者若異</span><br/>
+<span class='tline' id='l178' data-llen='4121:4148'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-10b' );" name="056-10b" class="pb">[056-10b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l179' data-llen='4148:4157'>　宮則得與於樂</span><br/>
+<span class='tline' id='l180' data-llen='4157:4180'>　辨正黄氏幹曰父方持服在家未出而從吉之時其</span><br/>
+<span class='tline' id='l181' data-llen='4180:4203'>　子或輕而先除或親盡而無服以其父方在喪服哀</span><br/>
+<span class='tline' id='l182' data-llen='4203:4226'>　戚未終不可與於樂也亦如從父諱於先祖之禮也</span><br/>
+<span class='tline' id='l183' data-llen='4226:4249'>　次云母有服妻有服亦謂方在服制之中亦隨其降</span><br/>
+<span class='tline' id='l184' data-llen='4249:4272'>　殺非謂命士而上異宮父有喪服子可觀聽音樂者</span><br/>
+<span class='tline' id='l185' data-llen='4272:4276'>　也</span><br/>
+<span class='tline' id='l186' data-llen='4276:4299'>　案父所為三年斬母三年齊或期妻亦正期則父母</span><br/>
+<span class='tline' id='l187' data-llen='4299:4326'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-11a' );" name="056-11a" class="pb">[056-11a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l188' data-llen='4326:4349'>　妻之所服亦我之所有服降殺止一等耳故我服即</span><br/>
+<span class='tline' id='l189' data-llen='4349:4372'>　除而父母妻有服必以其哀為哀順其志也然而父</span><br/>
+<span class='tline' id='l190' data-llen='4372:4395'>　尊母親妻敵又各有等焉宮中廣言之不止聲聞之</span><br/>
+<span class='tline' id='l191' data-llen='4395:4418'>　地也聲聞稍逺不止其側也至於大功則稍疏矣彼</span><br/>
+<span class='tline' id='l192' data-llen='4418:4441'>　之所戚或我無服或我小功緦而服已除故惟將至</span><br/>
+<span class='tline' id='l193' data-llen='4441:4464'>　為之辟琴瑟耳孔謂異宮之子得舉樂則宮近者或</span><br/>
+<span class='tline' id='l194' data-llen='4464:4487'>　且聲聞奈何黃氏辨之極是然訓父持服在宮中亦</span><br/>
+<span class='tline' id='l195' data-llen='4487:4503'>　鑿也以宮中聲聞其側例㸔自明</span><br/>
+<span class='tline' id='l196' data-llen='4503:4530'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-11b' );" name="056-11b" class="pb">[056-11b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l197' data-llen='4530:4553'>姑姊妹其夫死而夫黨無兄弟使夫之族人主喪妻之</span><br/>
+<span class='tline' id='l198' data-llen='4553:4576'>黨雖親弗主夫若無族矣則前後家東西家無有則里</span><br/>
+<span class='tline' id='l199' data-llen='4576:4591'>尹主之或曰主之而附於夫之黨</span><br/>
+<span class='tline' id='l200' data-llen='4591:4614'>　正義鄭氏康成曰此謂姑姊妹無子寡而死也夫黨</span><br/>
+<span class='tline' id='l201' data-llen='4614:4637'>　無兄弟無緦之親也其主喪不使妻之親而使夫之</span><br/>
+<span class='tline' id='l202' data-llen='4637:4660'>　族人婦人外成主必冝得夫之姓類也里尹主之喪</span><br/>
+<span class='tline' id='l203' data-llen='4660:4694'>　無無主也里尹閭胥里宰之屬<span class='krp-note'>孔疏周禮六鄉之内/二十五家為閭閭置</span></span><br/>
+<span class='tline' id='l204' data-llen='4694:4731'>　<span class='krp-note'>一胥中士也六遂之内二十/五家為里里置一宰下士也</span>王度記曰百戸為里里</span><br/>
+<span class='tline' id='l205' data-llen='4731:4758'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-12a' );" name="056-12a" class="pb">[056-12a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l206' data-llen='4758:4794'>　一尹其祿如庶人在官者<span class='krp-note'>孔疏洛誥傳古者八家為/鄰三鄰為朋三朋為里鄭</span></span><br/>
+<span class='tline' id='l207' data-llen='4794:4830'>　<span class='krp-note'>云此虞夏時制王度記淳于/髠等所說或云此是殷制</span>諸侯弔於異國之臣則</span><br/>
+<span class='tline' id='l208' data-llen='4830:4870'>　其君為主<span class='krp-note'>孔疏諸侯之臣在國而死他國君來/弔則君為主死者雖至親不得為主</span>里尹</span><br/>
+<span class='tline' id='l209' data-llen='4870:4893'>　主之亦斯義妻之黨自主之非也夫之黨其祖姑也</span><br/>
+<span class='tline' id='l210' data-llen='4893:4916'>　　孔氏穎達曰此明姑姊妹在夫家而死無後使外</span><br/>
+<span class='tline' id='l211' data-llen='4916:4939'>　人為主之事或人之說云妻黨主之而祔祭之時夫</span><br/>
+<span class='tline' id='l212' data-llen='4939:4948'>　之黨主之非也</span><br/>
+<span class='tline' id='l213' data-llen='4948:4971'>　通論朱子曰古法既廢鄰家里尹决不肯祭他人之</span><br/>
+<span class='tline' id='l214' data-llen='4971:4998'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-12b' );" name="056-12b" class="pb">[056-12b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l215' data-llen='4998:5021'>　親則從宜而祀之別室其亦可也　陸氏佃曰言妻</span><br/>
+<span class='tline' id='l216' data-llen='5021:5044'>　之黨雖親弗主苟夫無族矣雖親朋友至於祔而止</span><br/>
+<span class='tline' id='l217' data-llen='5044:5067'>　可也喪服小記曰大功者主人之喪有三年者則必</span><br/>
+<span class='tline' id='l218' data-llen='5067:5080'>　為之再祭朋友虞祔而已</span><br/>
+<span class='tline' id='l219' data-llen='5080:5095'>麻者不紳執玉不麻麻不加於采</span><br/>
+<span class='tline' id='l220' data-llen='5095:5118'>　正義鄭氏康成曰吉凶不相干也麻謂絰也紳大帶</span><br/>
+<span class='tline' id='l221' data-llen='5118:5141'>　也喪以要絰代大帶也麻不加於采衣采者不麻謂</span><br/>
+<span class='tline' id='l222' data-llen='5141:5165'>　弁絰者必服弔服是也采𤣥纁之衣　孔氏穎達曰</span><br/>
+<span class='tline' id='l223' data-llen='5165:5192'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-13a' );" name="056-13a" class="pb">[056-13a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l224' data-llen='5192:5215'>　言著要絰者不得復著大帶尋常執玉行禮不得服</span><br/>
+<span class='tline' id='l225' data-llen='5215:5238'>　衰麻也案聘禮已國君薨至於主國衰而出注云於</span><br/>
+<span class='tline' id='l226' data-llen='5238:5261'>　是可以凶服將事似行聘禮執玉得服衰絰者彼謂</span><br/>
+<span class='tline' id='l227' data-llen='5261:5284'>　受主君小禮得以凶服若行聘饗大事則吉服也弁</span><br/>
+<span class='tline' id='l228' data-llen='5284:5301'>　絰之麻不得加於𤣥衣纁裳之采</span><br/>
+<span class='tline' id='l229' data-llen='5301:5317'>國禁哭則止朝夕之奠即位自因也</span><br/>
+<span class='tline' id='l230' data-llen='5317:5340'>　正義鄭氏康成曰禁哭謂大祭祀時雖不哭猶朝夕</span><br/>
+<span class='tline' id='l231' data-llen='5340:5378'>　奠自因自用故事也<span class='krp-note'>孔疏孝子於殯宫朝夕奠之時/即阼階下位自因其故事而設</span></span><br/>
+<span class='tline' id='l232' data-llen='5378:5405'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-13b' );" name="056-13b" class="pb">[056-13b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l233' data-llen='5405:5413'>　<span class='krp-note'>奠/也</span></span><br/>
+<span class='tline' id='l234' data-llen='5413:5436'>　存疑陸氏佃曰此一節宜承如始即位之禮脫爛在</span><br/>
+<span class='tline' id='l235' data-llen='5436:5459'>　是言若國禁哭則之他室不哭其入奠與即位猶自</span><br/>
+<span class='tline' id='l236' data-llen='5459:5464'>　因也</span><br/>
+<span class='tline' id='l237' data-llen='5464:5486'>童子哭不偯不踊不杖不菲不廬<span class='krp-note'>菲扶/味反</span></span><br/>
+<span class='tline' id='l238' data-llen='5486:5509'>　正義鄭氏康成曰童子未成人不能備禮也當室則</span><br/>
+<span class='tline' id='l239' data-llen='5509:5554'>　杖<span class='krp-note'>孔疏案問喪云童子當室則免而杖當室謂十五/以上若世子生則杖故曽子問云子衰杖成子禮</span></span><br/>
+<span class='tline' id='l240' data-llen='5554:5562'>　<span class='krp-note'>是/也</span></span><br/>
+<span class='tline' id='l241' data-llen='5562:5589'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-14a' );" name="056-14a" class="pb">[056-14a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l242' data-llen='5589:5612'>　案菲即菅屨也斬衰菅屨外納陸徳明作屝釋文云</span><br/>
+<span class='tline' id='l243' data-llen='5612:5619'>　本又作菲</span><br/>
+<span class='tline' id='l244' data-llen='5619:5642'>孔子曰伯母叔母疏衰踊不絶地姑姊妹之大功踊絶</span><br/>
+<span class='tline' id='l245' data-llen='5642:5658'>於地如知此者由文矣哉由文矣哉</span><br/>
+<span class='tline' id='l246' data-llen='5658:5681'>　正義鄭氏康成曰由用也言知此踊絶地不絶地之</span><br/>
+<span class='tline' id='l247' data-llen='5681:5704'>　情者能用禮文哉能用禮文哉美之也伯母叔母義</span><br/>
+<span class='tline' id='l248' data-llen='5704:5714'>　也姑姊妹骨肉也</span><br/>
+<span class='tline' id='l249' data-llen='5714:5737'>　存疑陸氏佃曰疏衰大功文也踊絶不絶情也伯叔</span><br/>
+<span class='tline' id='l250' data-llen='5737:5764'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-14b' );" name="056-14b" class="pb">[056-14b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l251' data-llen='5764:5787'>　母之喪文至而情不至姑姊妹之喪文不至而情至</span><br/>
+<span class='tline' id='l252' data-llen='5787:5810'>　知此者則凡於禮知由於内矣故曰如知此者由文</span><br/>
+<span class='tline' id='l253' data-llen='5810:5833'>　矣哉若夫徒文具而無至誠惻怛之實失是矣　吳</span><br/>
+<span class='tline' id='l254' data-llen='5833:5856'>　氏澄曰知此二者則知哀之淺深由乎其中之情也</span><br/>
+<span class='tline' id='l255' data-llen='5856:5867'>　豈由乎外之文矣哉</span><br/>
+<span class='tline' id='l256' data-llen='5867:5890'>　案子游言禮有微情者有以故興物者徑情直行戎</span><br/>
+<span class='tline' id='l257' data-llen='5890:5913'>　狄之道是孔子稱其由文正美其不直情徑行鄭注</span><br/>
+<span class='tline' id='l258' data-llen='5913:5924'>　是也陸吳說正相反</span><br/>
+<span class='tline' id='l259' data-llen='5924:5951'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-15a' );" name="056-15a" class="pb">[056-15a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l260' data-llen='5951:5974'>泄柳之母死相者由左泄柳死其徒由右相由右相泄</span><br/>
+<span class='tline' id='l261' data-llen='5974:5989'>柳之徒為之也<span class='krp-note'>相息/亮反</span></span><br/>
+<span class='tline' id='l262' data-llen='5989:6012'>　正義鄭氏康成曰亦記失禮所由始也泄栁魯穆公</span><br/>
+<span class='tline' id='l263' data-llen='6012:6035'>　時賢人也相相主人之禮　孔氏穎達曰相主人之</span><br/>
+<span class='tline' id='l264' data-llen='6035:6058'>　禮法相者由左其徒由右失禮也　陸氏佃曰由右</span><br/>
+<span class='tline' id='l265' data-llen='6058:6081'>　相雖非古在可以然之域凡經言自某始記失禮所</span><br/>
+<span class='tline' id='l266' data-llen='6081:6097'>　由始也即言為之君子或有取焉</span><br/>
+<span class='tline' id='l267' data-llen='6097:6119'>天子飯九貝諸侯七大夫五士三<span class='krp-note'>飯扶/晚反</span></span><br/>
+<span class='tline' id='l268' data-llen='6119:6146'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-15b' );" name="056-15b" class="pb">[056-15b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l269' data-llen='6146:6169'>　正義鄭氏康成曰此盖夏時禮也周禮天子飯含用</span><br/>
+<span class='tline' id='l270' data-llen='6169:6192'>　玉　孔氏穎達曰典瑞云大喪共飯玉含玉禮戴記</span><br/>
+<span class='tline' id='l271' data-llen='6192:6215'>　天子飯以珠含以玉諸侯大夫士飯以珠含以貝皆</span><br/>
+<span class='tline' id='l272' data-llen='6215:6238'>　非周禮並夏殷之法左傳成十七年子叔聲伯夢食</span><br/>
+<span class='tline' id='l273' data-llen='6238:6261'>　瓊魂哀十一年齊陳子行命其徒具含玊此等皆是</span><br/>
+<span class='tline' id='l274' data-llen='6261:6284'>　大夫而以珠玊為含者以珠玊是所含之物故言之</span><br/>
+<span class='tline' id='l275' data-llen='6284:6297'>　非謂當時實含用珠玉也</span><br/>
+<span class='tline' id='l276' data-llen='6297:6320'>　通論陸氏佃曰士喪禮貝三實於笲此士三之證也</span><br/>
+<span class='tline' id='l277' data-llen='6320:6347'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-16a' );" name="056-16a" class="pb">[056-16a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l278' data-llen='6347:6370'>　案珠玉曰含玉貝亦曰含則散言之飯含通也周禮</span><br/>
+<span class='tline' id='l279' data-llen='6370:6393'>　典瑞天子飯含用玉典瑞言玉職也貝非所言大戴</span><br/>
+<span class='tline' id='l280' data-llen='6393:6416'>　禮云飯以珠珠有以玉為之者玉府所謂珠玉是也</span><br/>
+<span class='tline' id='l281' data-llen='6416:6439'>　稽命徴曰天子飯以珠含以玉諸侯飯以珠含以璧</span><br/>
+<span class='tline' id='l282' data-llen='6439:6445'>　相備也</span><br/>
+<span class='tline' id='l283' data-llen='6445:6468'>　存疑胡氏銓曰檀弓飯用米貝鄭不疑於夏殷獨疑</span><br/>
+<span class='tline' id='l284' data-llen='6468:6474'>　此何也</span><br/>
+<span class='tline' id='l285' data-llen='6474:6497'>　案周禮春官典瑞大喪共飯玉含玉則天子用玉儀</span><br/>
+<span class='tline' id='l286' data-llen='6497:6524'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-16b' );" name="056-16b" class="pb">[056-16b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l287' data-llen='6524:6547'>　禮士喪貝三實於笲則士用貝與大戴記同是周禮</span><br/>
+<span class='tline' id='l288' data-llen='6547:6570'>　無疑檀弓米貝或舉下以該上故鄭於彼不疑此明</span><br/>
+<span class='tline' id='l289' data-llen='6570:6593'>　言天子至士故鄭舉周禮以正之耳而疑為夏禮不</span><br/>
+<span class='tline' id='l290' data-llen='6593:6616'>　必舉彼駁此注又析言之則碎玉以雜米曰飯琢為</span><br/>
+<span class='tline' id='l291' data-llen='6616:6635'>　圭璧以拄頰及中曰含合言之則通稱也</span><br/>
+<span class='tline' id='l292' data-llen='6635:6658'>士三月而葬是月也卒哭大夫三月而葬五月而卒哭</span><br/>
+<span class='tline' id='l293' data-llen='6658:6680'>諸侯五月而葬七月而卒哭士三虞大夫五諸侯七</span><br/>
+<span class='tline' id='l294' data-llen='6680:6703'>　正義鄭氏康成曰尊卑恩之差也天子至士葬即反</span><br/>
+<span class='tline' id='l295' data-llen='6703:6730'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-17a' );" name="056-17a" class="pb">[056-17a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l296' data-llen='6730:6753'>　虞　孔氏穎達曰大夫以上葬與卒哭異月者以其</span><br/>
+<span class='tline' id='l297' data-llen='6753:6776'>　位尊念親哀情於時長逺士職卑位下禮數未申故</span><br/>
+<span class='tline' id='l298' data-llen='6776:6799'>　葬罷即卒哭檀弓云葬日虞弗忍一日離也不顯尊</span><br/>
+<span class='tline' id='l299' data-llen='6799:6822'>　卑是貴賤同然　陸氏佃曰大夫三月而葬容同位</span><br/>
+<span class='tline' id='l300' data-llen='6822:6845'>　至諸侯五月而葬容同盟至天子七月而葬容同軌</span><br/>
+<span class='tline' id='l301' data-llen='6845:6867'>　至左傳云同軌畢至著同盟以下雖至有不畢也</span><br/>
+<span class='tline' id='l302' data-llen='6867:6890'>　黄氏震曰葬有遲速㑹葬者有逺近也卒哭亦與之</span><br/>
+<span class='tline' id='l303' data-llen='6890:6903'>　遲速以未葬有朝夕奠也</span><br/>
+<span class='tline' id='l304' data-llen='6903:6930'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-17b' );" name="056-17b" class="pb">[056-17b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l305' data-llen='6930:6953'>　案左傳疏天子七月而葬九月而卒哭鄭謂卒哭別</span><br/>
+<span class='tline' id='l306' data-llen='6953:6976'>　有祭敖繼公謂末虞即卒哭非別有祭夫諸侯七虞</span><br/>
+<span class='tline' id='l307' data-llen='6976:6999'>　止十二日天子九虞亦十六日止矣安能越二月乎</span><br/>
+<span class='tline' id='l308' data-llen='6999:7008'>　是當別有祭也</span><br/>
+<span class='tline' id='l309' data-llen='7008:7026'>　存疑陸氏佃曰士踰月而葬容外姻至</span><br/>
+<span class='tline' id='l310' data-llen='7026:7049'>諸侯使人弔其次含襚賵臨皆同日而畢事者也其次</span><br/>
+<span class='tline' id='l311' data-llen='7049:7054'>如此也</span><br/>
+<span class='tline' id='l312' data-llen='7054:7077'>　正義鄭氏康成曰言五者相次同時　孔氏穎達曰</span><br/>
+<span class='tline' id='l313' data-llen='7077:7104'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-18a' );" name="056-18a" class="pb">[056-18a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l314' data-llen='7104:7127'>　諸侯使人弔鄰國先行弔禮宣君命人以飲食為急</span><br/>
+<span class='tline' id='l315' data-llen='7127:7150'>　故含次之食湏衣故襚次之有衣即湏車馬故賵次</span><br/>
+<span class='tline' id='l316' data-llen='7150:7154'>　之</span><br/>
+<span class='tline' id='l317' data-llen='7154:7168'>　案此節當在弔者即位章首</span><br/>
+<span class='tline' id='l318' data-llen='7168:7191'>卿大夫疾君問之無算士壹問之君於卿大夫比葬不</span><br/>
+<span class='tline' id='l319' data-llen='7191:7219'>食肉比卒哭不舉樂為士比殯不舉樂<span class='krp-note'>比必利反/為于偽反</span></span><br/>
+<span class='tline' id='l320' data-llen='7219:7243'>　正義孔氏穎達曰案喪大記君於大夫疾三問之此云</span><br/>
+<span class='tline' id='l321' data-llen='7243:7266'>　無算謂有師保恩舊之親三問謂君自行無算謂遣</span><br/>
+<span class='tline' id='l322' data-llen='7266:7293'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-18b' );" name="056-18b" class="pb">[056-18b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l323' data-llen='7293:7316'>　使也　彭氏曰比即比及之比不食肉則不舉樂不</span><br/>
+<span class='tline' id='l324' data-llen='7316:7325'>　舉則容食肉矣</span><br/>
+<span class='tline' id='l325' data-llen='7325:7348'>升正柩諸侯執綍五百人四綍皆銜枚司馬執鐸左八</span><br/>
+<span class='tline' id='l326' data-llen='7348:7371'>人右八人匠人執羽葆御柩大夫之喪其升正柩也執</span><br/>
+<span class='tline' id='l327' data-llen='7371:7400'>引者三百人執鐸者左右各四人御柩以茅<span class='krp-note'>葆音保引/以愼反</span></span><br/>
+<span class='tline' id='l328' data-llen='7400:7423'>　正義鄭氏康成曰升正柩者謂將葬朝於祖正棺於</span><br/>
+<span class='tline' id='l329' data-llen='7423:7459'>　廟也五百人謂一黨之民<span class='krp-note'>孔疏周禮注六鄉主六引/六遂主六紼此應舉六遂</span></span><br/>
+<span class='tline' id='l330' data-llen='7459:7496'>　<span class='krp-note'>而言一黨/取人數耳</span>諸侯之大夫邑有三百戸之制<span class='krp-note'>孔疏小國/中下大夫</span></span><br/>
+<span class='tline' id='l331' data-llen='7496:7523'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-19a' );" name="056-19a" class="pb">[056-19a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l332' data-llen='7523:7558'>　<span class='krp-note'>大國下大夫皆三百戸/論語奪伯氏騈邑三百</span>綍引同耳廟中曰綍在塗曰</span><br/>
+<span class='tline' id='l333' data-llen='7558:7581'>　引互言之御柩者居前道止之大夫士皆二綍　孔</span><br/>
+<span class='tline' id='l334' data-llen='7581:7604'>　氏穎達曰此明諸侯大夫送葬正柩之禮執鐸之差</span><br/>
+<span class='tline' id='l335' data-llen='7604:7627'>　将葬朝於祖廟柩升廟之西階既夕禮云升自西階</span><br/>
+<span class='tline' id='l336' data-llen='7627:7650'>　正柩於兩楹間是也銜枚止諠囂也司馬夏官主武</span><br/>
+<span class='tline' id='l337' data-llen='7650:7673'>　故執金鐸率衆左右各八人夾柩以號令於衆也匠</span><br/>
+<span class='tline' id='l338' data-llen='7673:7696'>　人工人也以鳥羽注於柄頭如盖謂之羽葆匠人主</span><br/>
+<span class='tline' id='l339' data-llen='7696:7719'>　宮室故執羽葆居柩前御行於道指揮為進止之節</span><br/>
+<span class='tline' id='l340' data-llen='7719:7746'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-19b' );" name="056-19b" class="pb">[056-19b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l341' data-llen='7746:7764'>　也周禮喪祝御柩謂王禮此諸侯禮也</span><br/>
+<span class='tline' id='l342' data-llen='7764:7787'>　通論方氏慤曰載柩有車車有副焉而載柩者為正</span><br/>
+<span class='tline' id='l343' data-llen='7787:7810'>　大夫殺禮於諸侯故以茅取其色白宜於凶禮且以</span><br/>
+<span class='tline' id='l344' data-llen='7810:7833'>　表哀素之心焉楚軍前茅亦以兵凶器也　陳氏澔</span><br/>
+<span class='tline' id='l345' data-llen='7833:7856'>　曰朝祖用輁軸載柩柩有四綍枚形似箸兩端有小</span><br/>
+<span class='tline' id='l346' data-llen='7856:7879'>　繩銜於口而繫於頸後則不能言五百人皆用之葆</span><br/>
+<span class='tline' id='l347' data-llen='7879:7902'>　形如盖以羽為之道塗有低昂傾虧則以所執者為</span><br/>
+<span class='tline' id='l348' data-llen='7902:7924'>　抑掦左右之節使執綍者知之也茅以茅為麾也</span><br/>
+<span class='tline' id='l349' data-llen='7924:7951'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-20a' );" name="056-20a" class="pb">[056-20a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l350' data-llen='7951:7974'>孔子曰管仲鏤簋而朱紘旅樹而反坫山節而藻梲賢</span><br/>
+<span class='tline' id='l351' data-llen='7974:7997'>大夫也而難為上也晏平仲祀其先人豚肩不掩豆賢</span><br/>
+<span class='tline' id='l352' data-llen='7997:8017'>大夫也而難為下也君子上不僭上下不偪下</span><br/>
+<span class='tline' id='l353' data-llen='8017:8040'>　正義鄭氏康成曰難為上言其僭天子諸侯鏤簋刻</span><br/>
+<span class='tline' id='l354' data-llen='8040:8063'>　為蟲獸也冠有筓者為紘紘在纓處兩端上屬下不</span><br/>
+<span class='tline' id='l355' data-llen='8063:8086'>　結旅樹門屛也反坫反爵之坫也山節欂櫨刻之為</span><br/>
+<span class='tline' id='l356' data-llen='8086:8109'>　山梲侏儒柱畫之為藻文難為下言其偪士庶人也</span><br/>
+<span class='tline' id='l357' data-llen='8109:8137'>　豚俎實豆徑尺言幷豚兩肩不能覆豆喻小也<span class='krp-note'>孔疏/豚在</span></span><br/>
+<span class='tline' id='l358' data-llen='8137:8164'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-20b' );" name="056-20b" class="pb">[056-20b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l359' data-llen='8164:8198'>　<span class='krp-note'>俎不在豆豆形小尚/不掩之明豚小之甚</span>　孔氏穎達曰此明奢儉失禮</span><br/>
+<span class='tline' id='l360' data-llen='8198:8221'>　之事祭義天子冕而朱紘諸侯青紘管仲大夫當緇</span><br/>
+<span class='tline' id='l361' data-llen='8221:8244'>　組紘與士同當時謂管仲是大夫之賢者尚為僭上</span><br/>
+<span class='tline' id='l362' data-llen='8244:8267'>　是他人在管仲之上者皆被僭之故云難為上晏平</span><br/>
+<span class='tline' id='l363' data-llen='8267:8290'>　仲亦大夫之賢者猶尚偪下是在平仲之下者恒被</span><br/>
+<span class='tline' id='l364' data-llen='8290:8301'>　平仲偪也是難為下</span><br/>
+<span class='tline' id='l365' data-llen='8301:8324'>　通論馬氏睎孟曰管仲能九合諸侯而不能治一身</span><br/>
+<span class='tline' id='l366' data-llen='8324:8347'>　晏子能一言省刑而不能善一祭故言其功與才而</span><br/>
+<span class='tline' id='l367' data-llen='8347:8374'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-21a' );" name="056-21a" class="pb">[056-21a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l368' data-llen='8374:8397'>　孔子稱之言其徳禮則曾西所不為孟子所不與也</span><br/>
+<span class='tline' id='l369' data-llen='8397:8420'>　以是知非有徳不可以知禮非有禮不足以成徳徳</span><br/>
+<span class='tline' id='l370' data-llen='8420:8430'>　禮既備豈有失哉</span><br/>
+<span class='tline' id='l371' data-llen='8430:8453'>婦人非三年之喪不踰封而弔如三年之喪則君夫人</span><br/>
+<span class='tline' id='l372' data-llen='8453:8476'>歸夫人其歸也以諸侯之弔禮其待之也若待諸侯然</span><br/>
+<span class='tline' id='l373' data-llen='8476:8499'>夫人至入自闈門升自側階君在阼其他如奔喪禮然</span><br/>
+<span class='tline' id='l374' data-llen='8499:8522'>　正義鄭氏康成曰踰封越境也君夫人歸奔父母喪</span><br/>
+<span class='tline' id='l375' data-llen='8522:8545'>　也若待諸侯謂夫人行道車服主國致禮入自闈門</span><br/>
+<span class='tline' id='l376' data-llen='8545:8572'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-21b' );" name="056-21b" class="pb">[056-21b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l377' data-llen='8572:8595'>　升自側階不自同於女賔也宮中之門曰闈門為相</span><br/>
+<span class='tline' id='l378' data-llen='8595:8617'>　通者也或為帷門側階亦旁階其他謂哭踊髽麻</span><br/>
+<span class='tline' id='l379' data-llen='8617:8640'>　孔氏穎達曰此明諸侯夫人奔父母喪女子出適為</span><br/>
+<span class='tline' id='l380' data-llen='8640:8663'>　父母期云三年者以本親言也案喪大記夫人弔於</span><br/>
+<span class='tline' id='l381' data-llen='8663:8686'>　大夫士入自大門升自正階今此不然以女子不同</span><br/>
+<span class='tline' id='l382' data-llen='8686:8709'>　於女賔之疏也主國之君在阼階待之不降階而迎</span><br/>
+<span class='tline' id='l383' data-llen='8709:8732'>　言其他如奔喪禮嫌夫人位尊與卿大夫妻奔喪禮</span><br/>
+<span class='tline' id='l384' data-llen='8732:8739'>　異故明之</span><br/>
+<span class='tline' id='l385' data-llen='8739:8766'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-22a' );" name="056-22a" class="pb">[056-22a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l386' data-llen='8766:8789'>　通論李氏格非曰穀梁傳曰婦人既嫁不踰境非三</span><br/>
+<span class='tline' id='l387' data-llen='8789:8812'>　年之喪則雖衛之亡而許穆夫人不得唁者大夫止</span><br/>
+<span class='tline' id='l388' data-llen='8812:8820'>　之以義故也</span><br/>
+<span class='tline' id='l389' data-llen='8820:8843'>　案儀禮女嫁反在父之室為父三年賈疏曰若天子</span><br/>
+<span class='tline' id='l390' data-llen='8843:8866'>　之女嫁於諸侯諸侯之女嫁於大夫嫁為夫斬仍為</span><br/>
+<span class='tline' id='l391' data-llen='8866:8889'>　其父不降知者以其外宗内宗及與諸侯為兄弟者</span><br/>
+<span class='tline' id='l392' data-llen='8889:8912'>　皆斬也如賈疏則女子亦有出嫁為父不降而服三</span><br/>
+<span class='tline' id='l393' data-llen='8912:8935'>　年不僅以本親言矣然卿大夫為君斬妻從服為君</span><br/>
+<span class='tline' id='l394' data-llen='8935:8962'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-22b' );" name="056-22b" class="pb">[056-22b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l395' data-llen='8962:8985'>　期諸侯為天子斬夫人從服為天子期内宗外宗之</span><br/>
+<span class='tline' id='l396' data-llen='8985:9008'>　女既嫁皆從夫爵則皆期究未有為父仍服三年不</span><br/>
+<span class='tline' id='l397' data-llen='9008:9019'>　降者不知賈氏何據</span><br/>
+<span class='tline' id='l398' data-llen='9019:9036'>嫂不撫叔叔不撫嫂<span class='krp-note'>嫂悉/早反</span></span><br/>
+<span class='tline' id='l399' data-llen='9036:9059'>　正義鄭氏康成曰逺別也　吳氏澄曰嫂之於叔叔</span><br/>
+<span class='tline' id='l400' data-llen='9059:9082'>　之於嫂生不通問死不制服皆逺之也故於大斂之</span><br/>
+<span class='tline' id='l401' data-llen='9082:9090'>　後不撫其尸</span><br/>
+<span class='tline' id='l402' data-llen='9090:9111'>　存異方氏慤曰撫謂撫存之也與不通問同義</span><br/>
+<span class='tline' id='l403' data-llen='9111:9138'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-23a' );" name="056-23a" class="pb">[056-23a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l404' data-llen='9138:9161'>君子有三患未之聞患弗得聞也既聞之患弗得學也</span><br/>
+<span class='tline' id='l405' data-llen='9161:9184'>既學之患弗能行也君子有五恥居其位無其言君子</span><br/>
+<span class='tline' id='l406' data-llen='9184:9207'>恥之有其言無其行君子恥之既得之而又失之君子</span><br/>
+<span class='tline' id='l407' data-llen='9207:9230'>恥之地有餘而民不足君子恥之衆寡均而倍焉君子</span><br/>
+<span class='tline' id='l408' data-llen='9230:9244'>恥之<span class='krp-note'>其行之行/下孟反</span></span><br/>
+<span class='tline' id='l409' data-llen='9244:9267'>　正義鄭氏康成曰恥民不足者古者居民量地以制</span><br/>
+<span class='tline' id='l410' data-llen='9267:9290'>　邑度地以居民地邑民居必參相得也衆寡均謂俱</span><br/>
+<span class='tline' id='l411' data-llen='9290:9313'>　有役事人數等也倍焉彼功倍已也　孔氏穎達曰</span><br/>
+<span class='tline' id='l412' data-llen='9313:9340'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-23b' );" name="056-23b" class="pb">[056-23b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l413' data-llen='9340:9363'>　君子謂在位者人湏多聞多識若未聞知古事恒憂</span><br/>
+<span class='tline' id='l414' data-llen='9363:9386'>　患不得聞民不足由不能撫飬使民逃散役民衆寡</span><br/>
+<span class='tline' id='l415' data-llen='9386:9409'>　均等他人功績倍多於已由不能勸課督率故君子</span><br/>
+<span class='tline' id='l416' data-llen='9409:9432'>　皆恥之　方氏慤曰聞之而不能學與無聞同學之</span><br/>
+<span class='tline' id='l417' data-llen='9432:9455'>　而不能行與不學同故君子每以是為患焉居其位</span><br/>
+<span class='tline' id='l418' data-llen='9455:9478'>　而無其言是備位耳言之易行之難有其言而無其</span><br/>
+<span class='tline' id='l419' data-llen='9478:9501'>　行是空言耳政不足以聚人則民不繁民不繁則有</span><br/>
+<span class='tline' id='l420' data-llen='9501:9524'>　曠土術不足以使人則事不逮事不逮則有廢功三</span><br/>
+<span class='tline' id='l421' data-llen='9524:9551'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-24a' );" name="056-24a" class="pb">[056-24a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l422' data-llen='9551:9574'>　患所言者道五恥所言者事惟其知所患故能終至</span><br/>
+<span class='tline' id='l423' data-llen='9574:9597'>　於無患惟其知所恥故能終至於無恥　吳氏澄曰</span><br/>
+<span class='tline' id='l424' data-llen='9597:9620'>　三患之君子兼該有位無位之人五恥之君子兼該</span><br/>
+<span class='tline' id='l425' data-llen='9620:9631'>　北面之臣南面之君</span><br/>
+<span class='tline' id='l426' data-llen='9631:9654'>　存疑方氏慤曰君子進以禮位固不可以苟得退以</span><br/>
+<span class='tline' id='l427' data-llen='9654:9677'>　義位又不可以苟失既得之而又失之則必非義而</span><br/>
+<span class='tline' id='l428' data-llen='9677:9682'>　退也</span><br/>
+<span class='tline' id='l429' data-llen='9682:9705'>　案既得之謂有其行如先剛直而後脂韋先潔清而</span><br/>
+<span class='tline' id='l430' data-llen='9705:9732'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-24b' );" name="056-24b" class="pb">[056-24b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l431' data-llen='9732:9755'>　後汙濁先勤敏而後怠弛凡晚節不終皆是也恐不</span><br/>
+<span class='tline' id='l432' data-llen='9755:9766'>　當專以位之得失言</span><br/>
+<span class='tline' id='l433' data-llen='9766:9787'>孔子曰凶年則乘駑馬祀以下牲<span class='krp-note'>駑音/奴</span></span><br/>
+<span class='tline' id='l434' data-llen='9787:9810'>　正義鄭氏康成曰自貶損亦取易供也駑馬六種最</span><br/>
+<span class='tline' id='l435' data-llen='9810:9844'>　下者下牲少牢若特豕特豚也<span class='krp-note'>孔疏天子諸侯常祭/大牢凶荒則用少牢</span></span><br/>
+<span class='tline' id='l436' data-llen='9844:9886'>　<span class='krp-note'>諸侯之卿大夫常祭用少牢降用特豕士常/祭用特豕降用特豚如此之屬皆為下牲</span>　孔氏</span><br/>
+<span class='tline' id='l437' data-llen='9886:9909'>　穎達曰校人馬有六種種馬玉路所乘戎馬兵車所</span><br/>
+<span class='tline' id='l438' data-llen='9909:9932'>　乘齊馬金路所乘道馬象路所乘田馬木路所乘駑</span><br/>
+<span class='tline' id='l439' data-llen='9932:9959'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-25a' );" name="056-25a" class="pb">[056-25a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l440' data-llen='9959:9982'>　馬負重載逺所乘凶年人君自貶乘駑馬也　方氏</span><br/>
+<span class='tline' id='l441' data-llen='9982:10005'>　慤曰馬不良謂之駑牲非純全謂之下　陸氏佃曰</span><br/>
+<span class='tline' id='l442' data-llen='10005:10026'>　下牲盖猶用其本牲之下者也故祭凶年不儉</span><br/>
+<span class='tline' id='l443' data-llen='10026:10049'>　案王制凶年不儉所謂下牲者乃如其本分應用之</span><br/>
+<span class='tline' id='l444' data-llen='10049:10072'>　牲而不必擇其肥腯中選者耳然說苑引曲禮有上</span><br/>
+<span class='tline' id='l445' data-llen='10072:10095'>　牲損則用下牲下牲損則祭不備語是降等亦未嘗</span><br/>
+<span class='tline' id='l446' data-llen='10095:10102'>　無是禮也</span><br/>
+<span class='tline' id='l447' data-llen='10102:10125'>恤由之喪哀公使孺悲之孔子學士喪禮士喪禮於是</span><br/>
+<span class='tline' id='l448' data-llen='10125:10152'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-25b' );" name="056-25b" class="pb">[056-25b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l449' data-llen='10152:10163'>乎書<span class='krp-note'>孺而/樹反</span></span><br/>
+<span class='tline' id='l450' data-llen='10163:10186'>　正義鄭氏康成曰時人轉而僭上士之喪禮已廢矣</span><br/>
+<span class='tline' id='l451' data-llen='10186:10209'>　孔子以敎孺悲國人乃復書而存之　方氏慤曰明</span><br/>
+<span class='tline' id='l452' data-llen='10209:10231'>　禮之不廢有所因也　陸氏佃曰儀禮士喪是與</span><br/>
+<span class='tline' id='l453' data-llen='10231:10254'>子貢觀於蜡孔子曰賜也樂乎對曰一國之人皆若狂</span><br/>
+<span class='tline' id='l454' data-llen='10254:10277'>賜未知其樂也子曰百日之蜡一日之澤非爾所知也</span><br/>
+<span class='tline' id='l455' data-llen='10277:10300'>張而不弛文武弗能也弛而不張文武弗為也一張一</span><br/>
+<span class='tline' id='l456' data-llen='10300:10322'>弛文武之道也<span class='krp-note'>蜡仕嫁反樂音/洛弛尸是反</span></span><br/>
+<span class='tline' id='l457' data-llen='10322:10349'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-26a' );" name="056-26a" class="pb">[056-26a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l458' data-llen='10349:10372'>　正義鄭氏康成曰蜡也者索也歲十二月合聚萬物</span><br/>
+<span class='tline' id='l459' data-llen='10372:10401'>　而索饗之祭也<span class='krp-note'>孔疏皆郊/特牲文</span>國索鬼神而祭祀則黨正</span><br/>
+<span class='tline' id='l460' data-llen='10401:10424'>　以禮屬民而飲酒於序以正齒位是時民無不醉者</span><br/>
+<span class='tline' id='l461' data-llen='10424:10462'>　如狂矣<span class='krp-note'>孔疏初飲則正齒位/飲末則醉無不如狂</span>曰未知其樂怪之也<span class='krp-note'>孔/疏</span></span><br/>
+<span class='tline' id='l462' data-llen='10462:10501'>　<span class='krp-note'>禮儀有序乃可樂既/皆如狂則非歡樂</span>蜡之祭主先嗇也<span class='krp-note'>孔疏以神/農為主</span>大</span><br/>
+<span class='tline' id='l463' data-llen='10501:10537'>　飲烝<span class='krp-note'>孔疏烝升也天子諸侯與羣/臣大飲於學升牲體於俎</span>勞農以休息之言</span><br/>
+<span class='tline' id='l464' data-llen='10537:10560'>　民皆勤稼穡有百日之勞喻乆也今一日使之飲酒</span><br/>
+<span class='tline' id='l465' data-llen='10560:10583'>　燕樂是君之恩澤非女所知言其義大張弛以弓弩</span><br/>
+<span class='tline' id='l466' data-llen='10583:10610'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-26b' );" name="056-26b" class="pb">[056-26b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l467' data-llen='10610:10632'>　喻人也弓弩乆張之則絶其力乆弛之則失其體</span><br/>
+<span class='tline' id='l468' data-llen='10632:10655'>　孔氏穎達曰王者於亥月報萬物休老息農又各燕</span><br/>
+<span class='tline' id='l469' data-llen='10655:10678'>　㑹飲酒於黨學中故子貢往觀之張而不弛則絶其</span><br/>
+<span class='tline' id='l470' data-llen='10678:10701'>　弓力喻民乆勞不息亦損民力弛而不張則失弓往</span><br/>
+<span class='tline' id='l471' data-llen='10701:10724'>　來之體喻民乆休息則志驕逸若調之以道化之以</span><br/>
+<span class='tline' id='l472' data-llen='10724:10747'>　理張弛以時勞逸以意則文武得其中道也　呂氏</span><br/>
+<span class='tline' id='l473' data-llen='10747:10770'>　大臨曰自秋成至於十二月有百日在百日中索鬼</span><br/>
+<span class='tline' id='l474' data-llen='10770:10793'>　神以脩蜡禮故曰百日之蜡祭而遂息田夫故曰一</span><br/>
+<span class='tline' id='l475' data-llen='10793:10820'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-27a' );" name="056-27a" class="pb">[056-27a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l476' data-llen='10820:10843'>　日之澤　吳氏澄曰使民常勞則民將不堪上之人</span><br/>
+<span class='tline' id='l477' data-llen='10843:10866'>　不能強民之從也故曰文武弗能使民乆逸則民將</span><br/>
+<span class='tline' id='l478' data-llen='10866:10889'>　廢業上之人不為此以縱民之情也故曰文武弗為</span><br/>
+<span class='tline' id='l479' data-llen='10889:10912'>孟獻子曰正月日至可以有事於上帝七月日至可以</span><br/>
+<span class='tline' id='l480' data-llen='10912:10927'>有事於祖七月而禘獻子為之也</span><br/>
+<span class='tline' id='l481' data-llen='10927:10950'>　正義鄭氏康成曰記魯失禮所由也孟獻子魯大夫</span><br/>
+<span class='tline' id='l482' data-llen='10950:10973'>　仲孫蔑也獻子欲尊其祖以郊天之月對月禘之非</span><br/>
+<span class='tline' id='l483' data-llen='10973:10996'>　也魯之宗廟猶以夏時之孟月爾明堂位曰季夏六</span><br/>
+<span class='tline' id='l484' data-llen='10996:11023'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-27b' );" name="056-27b" class="pb">[056-27b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l485' data-llen='11023:11046'>　月以禘禮祀周公於大廟　孔氏穎達曰此明魯郊</span><br/>
+<span class='tline' id='l486' data-llen='11046:11069'>　禘之事獻子仲孫蔑諡也正月周正月建子之月日</span><br/>
+<span class='tline' id='l487' data-llen='11069:11092'>　至冬至日也周以十一月為正其月日至若天子則</span><br/>
+<span class='tline' id='l488' data-llen='11092:11115'>　圜丘此言是也七月周七月建午之月日至夏至日</span><br/>
+<span class='tline' id='l489' data-llen='11115:11138'>　也有事謂禘祭於祖廟此言非也魯之祭祀猶用夏</span><br/>
+<span class='tline' id='l490' data-llen='11138:11161'>　法禘於孟月孟月於夏家是四月於周為六月獻子</span><br/>
+<span class='tline' id='l491' data-llen='11161:11184'>　以二至相當以天對祖乖失禮意獻子為之記其失</span><br/>
+<span class='tline' id='l492' data-llen='11184:11207'>　所由也案春秋宣九年獻子始見經案僖八年於時</span><br/>
+<span class='tline' id='l493' data-llen='11207:11234'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-28a' );" name="056-28a" class="pb">[056-28a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l494' data-llen='11234:11257'>　未有獻子而七月禘者鄭云以僖公八年正月公㑹</span><br/>
+<span class='tline' id='l495' data-llen='11257:11280'>　王人于洮六月應禘以在㑹未還故至七月乃禘理</span><br/>
+<span class='tline' id='l496' data-llen='11280:11303'>　不合譏為致夫人故書之獻子既七月而禘春秋不</span><br/>
+<span class='tline' id='l497' data-llen='11303:11326'>　書於經以示譏者魯時暫行之又此不云自獻子始</span><br/>
+<span class='tline' id='l498' data-llen='11326:11349'>　是不恒行也　吳氏澄曰魯之郊上帝亦但郊於建</span><br/>
+<span class='tline' id='l499' data-llen='11349:11372'>　寅之月禘則建巳之月獻子二言皆非魯之郊禘本</span><br/>
+<span class='tline' id='l500' data-llen='11372:11390'>　非禮獻子欲移其祭月則失禮愈甚矣</span><br/>
+<span class='tline' id='l501' data-llen='11390:11413'>　存疑鄭氏康成曰魯以周公之故得以正月日至之</span><br/>
+<span class='tline' id='l502' data-llen='11413:11440'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-28b' );" name="056-28b" class="pb">[056-28b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l503' data-llen='11440:11452'>　後郊天亦以始祖配之</span><br/>
+<span class='tline' id='l504' data-llen='11452:11475'>　案春秋魯郊未有以周正子月至日者鄭依經為說</span><br/>
+<span class='tline' id='l505' data-llen='11475:11488'>　非也周公說明堂位詳之</span><br/>
+<span class='tline' id='l506' data-llen='11488:11504'>夫人之不命於天子自魯昭公始也</span><br/>
+<span class='tline' id='l507' data-llen='11504:11527'>　正義鄭氏康成曰亦記魯失禮所由也周之制同姓</span><br/>
+<span class='tline' id='l508' data-llen='11527:11550'>　百世婚姻不通吳大伯之後魯同姓昭公取於吳謂</span><br/>
+<span class='tline' id='l509' data-llen='11550:11573'>　之吳孟子不告於天子自此後取者遂不告於天子</span><br/>
+<span class='tline' id='l510' data-llen='11573:11596'>　天子亦不命之　孔氏穎達曰諸侯夫人亦天子所</span><br/>
+<span class='tline' id='l511' data-llen='11596:11623'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-29a' );" name="056-29a" class="pb">[056-29a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l512' data-llen='11623:11646'>　命或是王后無畿外之事故天子命畿外諸侯夫人</span><br/>
+<span class='tline' id='l513' data-llen='11646:11669'>　此文是也若畿内諸侯及卿大夫之妻則玊藻注云</span><br/>
+<span class='tline' id='l514' data-llen='11669:11688'>　天子諸侯命其臣后夫人亦命其妻是也</span><br/>
+<span class='tline' id='l515' data-llen='11688:11711'>　通論郝氏敬曰魯昭公之世王命不行於諸侯乆矣</span><br/>
+<span class='tline' id='l516' data-llen='11711:11734'>　諸侯繼世自立且不由天子况其夫人乎諸侯之不</span><br/>
+<span class='tline' id='l517' data-llen='11734:11757'>　取同姓者未必皆有王命也因昭公娶吳女附㑹之</span><br/>
+<span class='tline' id='l518' data-llen='11757:11761'>　耳</span><br/>
+<span class='tline' id='l519' data-llen='11761:11780'>外宗為君夫人猶内宗也<span class='krp-note'>為于/偽反</span></span><br/>
+<span class='tline' id='l520' data-llen='11780:11807'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-29b' );" name="056-29b" class="pb">[056-29b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l521' data-llen='11807:11839'>　正義鄭氏康成曰皆謂嫁於國中者<span class='krp-note'>孔疏以君夫人/是國人所稱若</span></span><br/>
+<span class='tline' id='l522' data-llen='11839:11868'>　<span class='krp-note'>他國外當/云諸侯</span>為君服斬夫人齊衰不敢以其親服服至</span><br/>
+<span class='tline' id='l523' data-llen='11868:11891'>　尊也外宗謂姑姊妹之女内宗五屬之女也其無服</span><br/>
+<span class='tline' id='l524' data-llen='11891:11913'>　而嫁於諸臣者從為夫之君嫁於庶人從為國君</span><br/>
+<span class='tline' id='l525' data-llen='11913:11940'>　孔氏穎達曰君内宗為君悉服斬衰為夫人齊衰<span class='krp-note'>案/五</span></span><br/>
+<span class='tline' id='l526' data-llen='11940:11986'>　<span class='krp-note'>屬之親為君斬衰三年君夫人齊衰三年女在室當/亦如之嫁則從為夫之君服孔此說盖據在室者言</span></span><br/>
+<span class='tline' id='l527' data-llen='11986:12013'>　<span class='krp-note'>之/耳</span>則君外宗之女為君及夫人與内宗同故云猶内</span><br/>
+<span class='tline' id='l528' data-llen='12013:12036'>　宗也即與諸侯為兄弟者服斬之例案禮族人不敢</span><br/>
+<span class='tline' id='l529' data-llen='12036:12063'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-30a' );" name="056-30a" class="pb">[056-30a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l530' data-llen='12063:12086'>　以其戚戚君則異族者亦不可以戚戚君故不以其</span><br/>
+<span class='tline' id='l531' data-llen='12086:12095'>　親服服至尊也</span><br/>
+<span class='tline' id='l532' data-llen='12095:12115'>　存疑鄭氏康成曰外宗舅之女從母皆是也</span><br/>
+<span class='tline' id='l533' data-llen='12115:12138'>　辨正孔氏穎達曰古者大夫不外取故君之姑姊妹</span><br/>
+<span class='tline' id='l534' data-llen='12138:12161'>　嫁於國内大夫為妻是其正也舅之女及從母在國</span><br/>
+<span class='tline' id='l535' data-llen='12161:12184'>　中非正也諸侯不内取舅女及從母不得在國中若</span><br/>
+<span class='tline' id='l536' data-llen='12184:12207'>　元在他國亦不得來嫁與己國卿大夫為妻以卿大</span><br/>
+<span class='tline' id='l537' data-llen='12207:12230'>　夫不外取也熊氏云内宗外宗嫁在他國皆為本國</span><br/>
+<span class='tline' id='l538' data-llen='12230:12257'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-30b' );" name="056-30b" class="pb">[056-30b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l539' data-llen='12257:12280'>　諸侯服斬賀循譙周等云在他國則不得服賢者擇</span><br/>
+<span class='tline' id='l540' data-llen='12280:12284'>　之</span><br/>
+<span class='tline' id='l541' data-llen='12284:12307'>　案此外宗當止指君姑姊妹嫁本國大夫其所生女</span><br/>
+<span class='tline' id='l542' data-llen='12307:12330'>　仍嫁本國大夫者而鄭兼及舅女從母孔謂諸侯不</span><br/>
+<span class='tline' id='l543' data-llen='12330:12353'>　内取則君之舅女從母不得在國中大夫不外取則</span><br/>
+<span class='tline' id='l544' data-llen='12353:12376'>　舅女從母又不得來嫁本國大夫無從為君夫人服</span><br/>
+<span class='tline' id='l545' data-llen='12376:12399'>　雖熊氏有他國本國皆服之說然身為他國大夫之</span><br/>
+<span class='tline' id='l546' data-llen='12399:12422'>　妻而為此國之君夫人服齊斬不嫌於所居國之君</span><br/>
+<span class='tline' id='l547' data-llen='12422:12449'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-31a' );" name="056-31a" class="pb">[056-31a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l548' data-llen='12449:12472'>　夫人乎故引賀譙說以正之而但云賢者擇之疏例</span><br/>
+<span class='tline' id='l549' data-llen='12472:12479'>　不駁注也</span><br/>
+<span class='tline' id='l550' data-llen='12479:12502'>廄焚孔子拜鄉人為火來者拜之士壹大夫再亦相弔</span><br/>
+<span class='tline' id='l551' data-llen='12502:12507'>之道也</span><br/>
+<span class='tline' id='l552' data-llen='12507:12530'>　正義鄭氏康成曰言拜之者為其來弔已宗伯職曰</span><br/>
+<span class='tline' id='l553' data-llen='12530:12553'>　以弔禮哀禍災　孔氏穎達曰孔子馬廐為火焚孔</span><br/>
+<span class='tline' id='l554' data-llen='12553:12576'>　子拜鄉人來慰問者雖非大禍災亦是相哀弔之道</span><br/>
+<span class='tline' id='l555' data-llen='12576:12580'>　也</span><br/>
+<span class='tline' id='l556' data-llen='12580:12607'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-31b' );" name="056-31b" class="pb">[056-31b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l557' data-llen='12607:12630'>孔子曰管仲遇盗取二人焉上以為公臣曰其所與遊</span><br/>
+<span class='tline' id='l558' data-llen='12630:12653'>辟也可人也管仲死桓公使為之服宦於大夫者之為</span><br/>
+<span class='tline' id='l559' data-llen='12653:12680'>之服也自管仲始也有君命焉爾也<span class='krp-note'>上時掌反/辟匹亦反</span></span><br/>
+<span class='tline' id='l560' data-llen='12680:12703'>　正義鄭氏康成曰可人也言此人可也但居惡人之</span><br/>
+<span class='tline' id='l561' data-llen='12703:12739'>　中使之犯法<span class='krp-note'>陳氏澔曰為其所交遊是/邪辟之人故相誘為盗也</span>宦猶仕也此</span><br/>
+<span class='tline' id='l562' data-llen='12739:12762'>　仕於大夫更升於公與違大夫之諸侯同爾禮不反</span><br/>
+<span class='tline' id='l563' data-llen='12762:12785'>　服　孔氏穎達曰此明大夫之臣雖仕於公反服大</span><br/>
+<span class='tline' id='l564' data-llen='12785:12807'>　夫之服記失禮所由又記桓公不忘賢者之舉也</span><br/>
+<span class='tline' id='l565' data-llen='12807:12834'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-32a' );" name="056-32a" class="pb">[056-32a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l566' data-llen='12834:12857'>　餘論陸氏佃曰其為盗以其所遊故君子居必擇鄉</span><br/>
+<span class='tline' id='l567' data-llen='12857:12880'>　遊必就士所以防邪辟而近中正也世衰道微君不</span><br/>
+<span class='tline' id='l568' data-llen='12880:12901'>　能敎始服其師君不能舉而為所主者有服矣</span><br/>
+<span class='tline' id='l569' data-llen='12901:12924'>　案或謂此二人特為管仲所舉耳未嘗仕仲為家臣</span><br/>
+<span class='tline' id='l570' data-llen='12924:12947'>　也與違大夫之諸侯稍別不知記明言仕於大夫則</span><br/>
+<span class='tline' id='l571' data-llen='12947:12959'>　不得謂之未嘗仕仲也</span><br/>
+<span class='tline' id='l572' data-llen='12959:12977'>過而舉君之諱則起與君之諱同則稱字</span><br/>
+<span class='tline' id='l573' data-llen='12977:13000'>　正義鄭氏康成曰舉猶言也起立者失言而變自新</span><br/>
+<span class='tline' id='l574' data-llen='13000:13027'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-32b' );" name="056-32b" class="pb">[056-32b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l575' data-llen='13027:13050'>　稱字謂諸臣之名也　孔氏穎達曰此明辟君之諱</span><br/>
+<span class='tline' id='l576' data-llen='13050:13058'>　過謂過誤也</span><br/>
+<span class='tline' id='l577' data-llen='13058:13079'>内亂不與焉外患弗辟也<span class='krp-note'>與音預/辟音避</span></span><br/>
+<span class='tline' id='l578' data-llen='13079:13102'>　正義鄭氏康成曰謂卿大夫也同僚將為亂己力不</span><br/>
+<span class='tline' id='l579' data-llen='13102:13125'>　能討不與而已至於鄰國為㓂則當死之也春秋魯</span><br/>
+<span class='tline' id='l580' data-llen='13125:13148'>　公子友如陳葬原仲傳曰君子辟内難而不辟外難</span><br/>
+<span class='tline' id='l581' data-llen='13148:13196'>　<span class='krp-note'>孔疏荘二十七年公羊傳大夫不書葬此何以書公子/慶父公子牙通乎夫人以脅公季子起而治之則不得</span></span><br/>
+<span class='tline' id='l582' data-llen='13196:13244'>　<span class='krp-note'>與於國政坐而視之則親親因不忍見也何休云不忍/見其如此故請至於陳葬原仲至荘三十二年季子與</span></span><br/>
+<span class='tline' id='l583' data-llen='13244:13271'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-33a' );" name="056-33a" class="pb">[056-33a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l584' data-llen='13271:13317'>　<span class='krp-note'>國政故逐慶父酖叔牙也此注力不能討亦謂不與/國政若與國政力能討而不討則責之宣二年晉史</span></span><br/>
+<span class='tline' id='l585' data-llen='13317:13348'>　<span class='krp-note'>董狐書趙盾/以弑君是也</span>　孔氏穎達曰此明卿大夫辟内亂之</span><br/>
+<span class='tline' id='l586' data-llen='13348:13371'>　事　方氏慤曰門内之治恩掩義内亂不與者所以</span><br/>
+<span class='tline' id='l587' data-llen='13371:13394'>　重恩也門外之治義斷恩外患不辟者所以重義也</span><br/>
+<span class='tline' id='l588' data-llen='13394:13417'>　通論吳氏澄曰亂之重且大者管叔啓武庚而叛周</span><br/>
+<span class='tline' id='l589' data-llen='13417:13440'>　則周公以弟誅其兄石厚輔州吁而弑君則石碏以</span><br/>
+<span class='tline' id='l590' data-llen='13440:13452'>　父殺其子豈得不與乎</span><br/>
+<span class='tline' id='l591' data-llen='13452:13475'>贊大行曰圭公九寸侯伯七寸子男五寸博三寸厚半</span><br/>
+<span class='tline' id='l592' data-llen='13475:13502'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-33b' );" name="056-33b" class="pb">[056-33b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l593' data-llen='13502:13526'>寸剡上左右各寸半玊也藻三采六等<span class='krp-note'>剡以/冉反</span></span><br/>
+<span class='tline' id='l594' data-llen='13526:13549'>　正義鄭氏康成曰贊大行者書說大行人之禮者名</span><br/>
+<span class='tline' id='l595' data-llen='13549:13592'>　也<span class='krp-note'>孔疏周禮有大行人篇掌諸侯五等之禮作記/之前有人說書贊明大行人之事記者引之</span>藻</span><br/>
+<span class='tline' id='l596' data-llen='13592:13621'>　薦玊者也三采六等以朱白蒼畫之再行也<span class='krp-note'>孔疏案/聘禮記</span></span><br/>
+<span class='tline' id='l597' data-llen='13621:13667'>　<span class='krp-note'>云朝天子圭與繅皆九寸繅三采六等典瑞云公侯/伯皆三采三就謂一采為一就其實采別二就三采</span></span><br/>
+<span class='tline' id='l598' data-llen='13667:13713'>　<span class='krp-note'>則六等也典瑞又云子男皆二采再就二采則四等/又云瑑圭璋璧琮繅皆二采一就以頫聘此謂卿大</span></span><br/>
+<span class='tline' id='l599' data-llen='13713:13751'>　<span class='krp-note'>夫二采共一就也天子/五采五就則十等也</span>子男執璧作此贊者失之<span class='krp-note'>孔/疏</span></span><br/>
+<span class='tline' id='l600' data-llen='13751:13781'>　<span class='krp-note'>此經子男總/云圭失之</span>　孔氏穎達曰此明五等諸侯所執圭</span><br/>
+<span class='tline' id='l601' data-llen='13781:13808'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-34a' );" name="056-34a" class="pb">[056-34a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l602' data-llen='13808:13831'>　玉之制剡殺也圭與璧殺上左右角各寸半也五等</span><br/>
+<span class='tline' id='l603' data-llen='13831:13854'>　諸侯圭璧雖異而俱以玉為之故云玉也藻謂以韋</span><br/>
+<span class='tline' id='l604' data-llen='13854:13877'>　衣板以藉玉者三采朱白蒼也六等六行也謂三色</span><br/>
+<span class='tline' id='l605' data-llen='13877:13900'>　每色為二行是三采六等　陳氏祥道曰玉之藉以</span><br/>
+<span class='tline' id='l606' data-llen='13900:13923'>　繅而繅之長眂玉采以象徳之文就以象文之成君</span><br/>
+<span class='tline' id='l607' data-llen='13923:13946'>　子以貞剛之質存乎内而以柔順藉之於外又有文</span><br/>
+<span class='tline' id='l608' data-llen='13946:13969'>　焉然後可以行禮矣王五采五就色不過五也公侯</span><br/>
+<span class='tline' id='l609' data-llen='13969:13992'>　伯皆三采三就降殺以兩也子男二采而大夫聘玉</span><br/>
+<span class='tline' id='l610' data-llen='13992:14019'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-34b' );" name="056-34b" class="pb">[056-34b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l611' data-llen='14019:14031'>　亦二采者禮窮則同也</span><br/>
+<span class='tline' id='l612' data-llen='14031:14054'>　存疑陸氏佃曰聘禮記曰所以朝天子圭與藻皆九</span><br/>
+<span class='tline' id='l613' data-llen='14054:14077'>　寸問諸侯朱綠藻八寸盖上言所以朝之玉下言以</span><br/>
+<span class='tline' id='l614' data-llen='14077:14100'>　聘他國者也藻八寸則圭亦八寸可知故曰瑑圭璋</span><br/>
+<span class='tline' id='l615' data-llen='14100:14123'>　八寸璧琮八寸以頫聘子男執璧以朝圭以頫聘今</span><br/>
+<span class='tline' id='l616' data-llen='14123:14146'>　此言圭則子男頫聘之玉也鄭氏謂子男執璧作此</span><br/>
+<span class='tline' id='l617' data-llen='14146:14169'>　贊者失之矣誤也正言玉也則所謂博三寸厚半寸</span><br/>
+<span class='tline' id='l618' data-llen='14169:14192'>　剡上左右各寸半主公言之其餘以是為差上公用</span><br/>
+<span class='tline' id='l619' data-llen='14192:14219'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-35a' );" name="056-35a" class="pb">[056-35a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l620' data-llen='14219:14242'>　龍四玉一石雖曰玉可也故曰藻三采六等據子執</span><br/>
+<span class='tline' id='l621' data-llen='14242:14265'>　穀璧男執蒲璧繅皆二采再就　陳氏祥道曰繅或</span><br/>
+<span class='tline' id='l622' data-llen='14265:14288'>　作藻冕織絲為之則圭繅亦然鄭氏與杜預皆謂韋</span><br/>
+<span class='tline' id='l623' data-llen='14288:14296'>　為之亡據也</span><br/>
+<span class='tline' id='l624' data-llen='14296:14319'>　案陸謂博三寸者主公言之餘以是差誤也惟圭首</span><br/>
+<span class='tline' id='l625' data-llen='14319:14342'>　一致故執一冒以合符若圭首有五等則天子有五</span><br/>
+<span class='tline' id='l626' data-llen='14342:14365'>　冒乎鄭謂藻以韋衣板陳又非之不知崇坫康圭不</span><br/>
+<span class='tline' id='l627' data-llen='14365:14388'>　可以圭置土坫上故先以韋衣板藉玉而玉與韋不</span><br/>
+<span class='tline' id='l628' data-llen='14388:14415'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-35b' );" name="056-35b" class="pb">[056-35b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l629' data-llen='14415:14438'>　相附故以五采之絲纒縛之而因屈繅以為質垂繅</span><br/>
+<span class='tline' id='l630' data-llen='14438:14445'>　以為文也</span><br/>
+<span class='tline' id='l631' data-llen='14445:14472'>哀公問子羔曰子之食奚當對曰文公之下執事也<span class='krp-note'>當/如</span></span><br/>
+<span class='tline' id='l632' data-llen='14472:14479'>　<span class='krp-note'>字/</span></span><br/>
+<span class='tline' id='l633' data-llen='14479:14501'>　正義鄭氏康成曰問其先人始仕食祿以何君時</span><br/>
+<span class='tline' id='l634' data-llen='14501:14515'>　陳氏澔曰文公至哀公七君</span><br/>
+<span class='tline' id='l635' data-llen='14515:14538'>　存疑方氏慤曰文公之下執事也自此而下宜更有</span><br/>
+<span class='tline' id='l636' data-llen='14538:14547'>　辭容簡脫之耳</span><br/>
+<span class='tline' id='l637' data-llen='14547:14574'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-36a' );" name="056-36a" class="pb">[056-36a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l638' data-llen='14574:14597'>成廟則釁之其禮祝宗人宰夫雍人皆爵弁純衣雍人</span><br/>
+<span class='tline' id='l639' data-llen='14597:14620'>拭羊宗人祝之宰夫北面於碑南東上雍人舉羊升屋</span><br/>
+<span class='tline' id='l640' data-llen='14620:14643'>自中中屋南面刲羊血流於前乃降門夾室皆用雞先</span><br/>
+<span class='tline' id='l641' data-llen='14643:14666'>門而後夾室其衈皆於屋下割雞門當門夾室中室有</span><br/>
+<span class='tline' id='l642' data-llen='14666:14689'>司皆鄉室而立門則有司當門北面既事宗人告事畢</span><br/>
+<span class='tline' id='l643' data-llen='14689:14712'>乃皆退反命於君曰釁某廟事畢反命於寢君南鄉於</span><br/>
+<span class='tline' id='l644' data-llen='14712:14735'>門内朝服既反命乃退路寢成則考之而不釁釁屋者</span><br/>
+<span class='tline' id='l645' data-llen='14735:14758'>交神明之道也凡宗廟之器其名者成則釁之以豭豚</span><br/>
+<span class='tline' id='l646' data-llen='14758:14785'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-36b' );" name="056-36b" class="pb">[056-36b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l647' data-llen='14785:14825'>　<span class='krp-note'>釁許靳反純側其反拭音式刲苦圭反夾古/洽反衈如志反鄉許亮反朝直遙反豭音加</span></span><br/>
+<span class='tline' id='l648' data-llen='14825:14848'>　正義鄭氏康成曰廟新成必釁之尊而神之也宗人</span><br/>
+<span class='tline' id='l649' data-llen='14848:14871'>　先請於君曰請命以釁某廟君諾之乃行宰夫攝主</span><br/>
+<span class='tline' id='l650' data-llen='14871:14894'>　故居上拭淨也自由也其衈謂將刲割牲以釁先滅</span><br/>
+<span class='tline' id='l651' data-llen='14894:14917'>　耳旁毛薦之耳聼聲者告神欲其聼之周禮有刉衈</span><br/>
+<span class='tline' id='l652' data-llen='14917:14940'>　有司宰夫祝宗人也告事畢告宰夫也君朝服者不</span><br/>
+<span class='tline' id='l653' data-llen='14940:14963'>　至廟也路寢生人所居不釁者不神之也考之者設</span><br/>
+<span class='tline' id='l654' data-llen='14963:14986'>　盛食以落之爾檀弓曰晉獻文子成室諸大夫發焉</span><br/>
+<span class='tline' id='l655' data-llen='14986:15013'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-37a' );" name="056-37a" class="pb">[056-37a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l656' data-llen='15013:15036'>　是也宗廟名器謂尊彛之屬　孔氏穎達曰此論釁</span><br/>
+<span class='tline' id='l657' data-llen='15036:15059'>　廟及考路寢之事宗廟初成則殺羊取血以釁之其</span><br/>
+<span class='tline' id='l658' data-llen='15059:15083'>　禮謂釁廟之禮爵弁士服也純衣謂絲衣則𤣥衣纁</span><br/>
+<span class='tline' id='l659' data-llen='15083:15106'>　裳也雍人是厨宰之官拭淨其羊於廟門外案大戴</span><br/>
+<span class='tline' id='l660' data-llen='15106:15130'>　禮釁廟篇云成廟則釁以羊君𤣥服立於寢門内南</span><br/>
+<span class='tline' id='l661' data-llen='15130:15154'>　鄉祝宗人宰夫雍人皆𤣥服宗人曰請命以釁某廟</span><br/>
+<span class='tline' id='l662' data-llen='15154:15177'>　君曰諾遂入雍人拭羊乃行入廟門碑南北面雍人</span><br/>
+<span class='tline' id='l663' data-llen='15177:15200'>　舉羊升屋自中中屋南面刲羊血流於前乃降此皆</span><br/>
+<span class='tline' id='l664' data-llen='15200:15227'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-37b' );" name="056-37b" class="pb">[056-37b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l665' data-llen='15227:15250'>　大戴禮文初受命寢門内君與祝宗人宰夫雍人等</span><br/>
+<span class='tline' id='l666' data-llen='15250:15274'>　皆著𤣥服謂朝服緇衣素裳等其祝宗人等入廟之</span><br/>
+<span class='tline' id='l667' data-llen='15274:15297'>　時則爵弁純衣也雍人抗舉其羊由屋東西之中謂</span><br/>
+<span class='tline' id='l668' data-llen='15297:15320'>　兩階之閒而升也當屋棟上之中南面刲割其羊使</span><br/>
+<span class='tline' id='l669' data-llen='15320:15343'>　血流於前也門廟門夾室東西廂不用羊各一雞凡</span><br/>
+<span class='tline' id='l670' data-llen='15343:15366'>　三雞故云皆用雞如上用羊升屋割之也未刲羊雞</span><br/>
+<span class='tline' id='l671' data-llen='15366:15389'>　之時先滅耳旁毛以薦神廟則在廟之屋下門與夾</span><br/>
+<span class='tline' id='l672' data-llen='15389:15412'>　室則在門夾室之屋下故云其衈皆於屋下衈訖然</span><br/>
+<span class='tline' id='l673' data-llen='15412:15439'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-38a' );" name="056-38a" class="pb">[056-38a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l674' data-llen='15439:15462'>　後升屋而釁門與夾室亦當門屋上及室上之中釁</span><br/>
+<span class='tline' id='l675' data-llen='15462:15485'>　既畢反報君命於路寢考之謂與賔客燕㑹以酒食</span><br/>
+<span class='tline' id='l676' data-llen='15485:15508'>　澆落之即歡樂之義也器之作名者成則殺豭豚血</span><br/>
+<span class='tline' id='l677' data-llen='15508:15531'>　塗之細者成則不釁鄭注周禮云毛牲曰刉羽牲曰</span><br/>
+<span class='tline' id='l678' data-llen='15531:15554'>　衈此經有羊有雞無刉文總以衈包之周禮對文耳</span><br/>
+<span class='tline' id='l679' data-llen='15554:15577'>　　方氏慤曰考即宣王考室之考且考有燕必用酒</span><br/>
+<span class='tline' id='l680' data-llen='15577:15600'>　者陽之盛也寢者人之所居故以陽之盛者考之釁</span><br/>
+<span class='tline' id='l681' data-llen='15600:15623'>　用血血者隂之至也廟者神之所居故以隂之至者</span><br/>
+<span class='tline' id='l682' data-llen='15623:15650'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-38b' );" name="056-38b" class="pb">[056-38b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l683' data-llen='15650:15661'>　釁之亦各從其類也</span><br/>
+<span class='tline' id='l684' data-llen='15661:15684'>　通論陳氏祥道曰周官羊人釁共羊牲將以釁廟也</span><br/>
+<span class='tline' id='l685' data-llen='15684:15707'>　雞人釁共雞牲將以釁門及夾室也犬人幾珥用駹</span><br/>
+<span class='tline' id='l686' data-llen='15707:15730'>　賈公彦曰或羊或犬俱得為釁是也天府釁寶鎮及</span><br/>
+<span class='tline' id='l687' data-llen='15730:15753'>　寶器小子釁邦器及軍器龜人釁龜圉人釁廐以至</span><br/>
+<span class='tline' id='l688' data-llen='15753:15776'>　社稷五祀與夫師行之主藏約之戸或釁於始成或</span><br/>
+<span class='tline' id='l689' data-llen='15776:15799'>　釁於將用其禮豈一端哉然釁有司行事而君不親</span><br/>
+<span class='tline' id='l690' data-llen='15799:15822'>　犬羊為牲而牛馬不預爵弁而不冕牲駹而不純則</span><br/>
+<span class='tline' id='l691' data-llen='15822:15849'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-39a' );" name="056-39a" class="pb">[056-39a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l692' data-llen='15849:15872'>　釁之為禮也小矣後世有以牛釁鐘而甚者有叩人</span><br/>
+<span class='tline' id='l693' data-llen='15872:15895'>　鼻以衈社此先王之所棄也　張子曰釁名器以豭</span><br/>
+<span class='tline' id='l694' data-llen='15895:15918'>　豚而齊宣王釁鐘以牛戰國時無復常制不然又何</span><br/>
+<span class='tline' id='l695' data-llen='15918:15927'>　以欲以羊易之</span><br/>
+<span class='tline' id='l696' data-llen='15927:15950'>諸侯出夫人夫人比至於其國以夫人之禮行至以夫</span><br/>
+<span class='tline' id='l697' data-llen='15950:15973'>人入使者將命曰寡君不敏不能從而事社稷宗廟使</span><br/>
+<span class='tline' id='l698' data-llen='15973:15996'>使臣某敢告於執事主人對曰寡君固前辭不敎矣寡</span><br/>
+<span class='tline' id='l699' data-llen='15996:16019'>君敢不敬湏以俟命有司官陳器皿主人有司亦官受</span><br/>
+<span class='tline' id='l700' data-llen='16019:16046'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-39b' );" name="056-39b" class="pb">[056-39b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l701' data-llen='16046:16060'>之<span class='krp-note'>比必利反/使色吏反</span></span><br/>
+<span class='tline' id='l702' data-llen='16060:16083'>　正義鄭氏康成曰行道以夫人之禮者棄妻致命其</span><br/>
+<span class='tline' id='l703' data-llen='16083:16106'>　家乃義絶不用此為始也前辭不敎謂納采時此辭</span><br/>
+<span class='tline' id='l704' data-llen='16106:16129'>　賔在門外擯者傳焉賔入致命如初主人卒辭曰敢</span><br/>
+<span class='tline' id='l705' data-llen='16129:16152'>　不聼命器皿其本所齎物也律棄妻卑所齎　孔氏</span><br/>
+<span class='tline' id='l706' data-llen='16152:16175'>　穎達曰夫人有罪諸侯出之命歸本國禮尚謙退不</span><br/>
+<span class='tline' id='l707' data-llen='16175:16198'>　能指斥夫人之罪故使者将命云寡君才知不敏不</span><br/>
+<span class='tline' id='l708' data-llen='16198:16221'>　能隨從夫人共事社稷宗廟使使臣某告在下之執</span><br/>
+<span class='tline' id='l709' data-llen='16221:16248'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-40a' );" name="056-40a" class="pb">[056-40a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l710' data-llen='16248:16271'>　事湏待也俟亦待也敬湏待君命也使人得主人答</span><br/>
+<span class='tline' id='l711' data-llen='16271:16294'>　命使有司之官陳夫人嫁時所齎器皿之屬以還主</span><br/>
+<span class='tline' id='l712' data-llen='16294:16317'>　國主國亦使有司領受之並云官者明付受悉如法</span><br/>
+<span class='tline' id='l713' data-llen='16317:16321'>　也</span><br/>
+<span class='tline' id='l714' data-llen='16321:16344'>　總論孔氏穎達曰此諭諸侯出夫人及卿大夫以下</span><br/>
+<span class='tline' id='l715' data-llen='16344:16351'>　出妻之事</span><br/>
+<span class='tline' id='l716' data-llen='16351:16374'>妻出夫使人致之曰某不敏不能從而共粢盛使某也</span><br/>
+<span class='tline' id='l717' data-llen='16374:16397'>敢告於侍者主人對曰某之子不肖不敢辟誅敢不敬</span><br/>
+<span class='tline' id='l718' data-llen='16397:16424'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-40b' );" name="056-40b" class="pb">[056-40b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l719' data-llen='16424:16447'>湏以俟命使者退主人拜送之如舅在則稱舅舅沒則</span><br/>
+<span class='tline' id='l720' data-llen='16447:16470'>稱兄無兄則稱夫主人之辭曰某之子不肖如姑姊妹</span><br/>
+<span class='tline' id='l721' data-llen='16470:16488'>亦皆稱之<span class='krp-note'>共音恭盛音/成辟音避</span></span><br/>
+<span class='tline' id='l722' data-llen='16488:16511'>　正義鄭氏康成曰肖似也不似言不如人誅猶罰也</span><br/>
+<span class='tline' id='l723' data-llen='16511:16534'>　稱舅稱兄言棄妻者父兄在則稱之命當由尊者出</span><br/>
+<span class='tline' id='l724' data-llen='16534:16557'>　也惟國君不稱兄姑姊妹見棄亦曰某之姑某之姊</span><br/>
+<span class='tline' id='l725' data-llen='16557:16580'>　若妹不肖　孔氏穎達曰稱舅謂妻被出夫之父在</span><br/>
+<span class='tline' id='l726' data-llen='16580:16603'>　則稱父名使使來告也稱兄謂夫兄之名不云舅沒</span><br/>
+<span class='tline' id='l727' data-llen='16603:16630'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-41a' );" name="056-41a" class="pb">[056-41a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l728' data-llen='16630:16653'>　則稱母者婦人之名不合外接於人也若有死喪則</span><br/>
+<span class='tline' id='l729' data-llen='16653:16676'>　稱母弔故曽子問云母喪稱母夫身無兄則稱夫名</span><br/>
+<span class='tline' id='l730' data-llen='16676:16699'>　使某來告則上文是也夫之父兄遣人致命之辭未</span><br/>
+<span class='tline' id='l731' data-llen='16699:16722'>　聞　方氏慤曰夫婦之道合則納之以禮不合則出</span><br/>
+<span class='tline' id='l732' data-llen='16722:16745'>　之以義人倫之際有所不免也故先王亦存其辭焉</span><br/>
+<span class='tline' id='l733' data-llen='16745:16768'>　案七出見家語子曰不順父母出無子出滛出妬出</span><br/>
+<span class='tline' id='l734' data-llen='16768:16791'>　惡疾出多口舌出竊盜出王肅注曰不順父母謂逆</span><br/>
+<span class='tline' id='l735' data-llen='16791:16814'>　徳也無子謂絶世也淫謂亂族也妬謂亂家也惡疾</span><br/>
+<span class='tline' id='l736' data-llen='16814:16841'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-41b' );" name="056-41b" class="pb">[056-41b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l737' data-llen='16841:16864'>　謂不可供粢盛也多口舌謂其離親也竊盜謂反義</span><br/>
+<span class='tline' id='l738' data-llen='16864:16887'>　也或謂無子惡疾豈婦欲哉亦不幸爾奈何出之不</span><br/>
+<span class='tline' id='l739' data-llen='16887:16910'>　知人之娶婦將以繼先祖嗣共宗廟之粢盛也既無</span><br/>
+<span class='tline' id='l740' data-llen='16910:16933'>　以承先祖後共宗廟之粢盛則義固可去矣然古君</span><br/>
+<span class='tline' id='l741' data-llen='16933:16956'>　夫人無子得以妾媵之子為子如衞荘姜之以完為</span><br/>
+<span class='tline' id='l742' data-llen='16956:16979'>　己子雖荘公之狂暴未嘗遽出之則禮可知也若魯</span><br/>
+<span class='tline' id='l743' data-llen='16979:17002'>　文公之哀姜有太子赤及弟視仲遂弑之而以無子</span><br/>
+<span class='tline' id='l744' data-llen='17002:17025'>　出詎云禮乎盖君子見幾明决而用意忠厚其出也</span><br/>
+<span class='tline' id='l745' data-llen='17025:17052'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-42a' );" name="056-42a" class="pb">[056-42a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l746' data-llen='17052:17075'>　必有不可不去之實所以為明決也而出女使可嫁</span><br/>
+<span class='tline' id='l747' data-llen='17075:17098'>　令其以不幸去所以為忠厚也必如此而後為天理</span><br/>
+<span class='tline' id='l748' data-llen='17098:17113'>　之正必如此而後為人情之安</span><br/>
+<span class='tline' id='l749' data-llen='17113:17136'>孔子曰吾食於少施氏而飽少施氏食我以禮吾祭作</span><br/>
+<span class='tline' id='l750' data-llen='17136:17159'>而辭曰疏食不足祭也吾飧作而辭曰疏食也不敢以</span><br/>
+<span class='tline' id='l751' data-llen='17159:17176'>傷吾子<span class='krp-note'>少失召反食/音嗣下同</span></span><br/>
+<span class='tline' id='l752' data-llen='17176:17199'>　正義鄭氏康成曰言貴其以禮待已而為之飽也時</span><br/>
+<span class='tline' id='l753' data-llen='17199:17222'>　人倨慢若季氏則不以禮矣少施氏魯惠公子施父</span><br/>
+<span class='tline' id='l754' data-llen='17222:17249'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-42b' );" name="056-42b" class="pb">[056-42b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l755' data-llen='17249:17272'>　之後　孔氏穎達曰吾祭謂孔子祭也作起也飧謂</span><br/>
+<span class='tline' id='l756' data-llen='17272:17283'>　強飯以答主人之意</span><br/>
+<span class='tline' id='l757' data-llen='17283:17306'>　通論張子曰後世不安於禮惟務簡便雖宗廟之饗</span><br/>
+<span class='tline' id='l758' data-llen='17306:17329'>　父母之養禮意猶有所闕所謂如食宜飫如酌孔取</span><br/>
+<span class='tline' id='l759' data-llen='17329:17352'>　但取飲食醉飽而已孔子食於少施氏而飽必是少</span><br/>
+<span class='tline' id='l760' data-llen='17352:17375'>　施氏有禮也食於季氏不食肉而飧孔子雖欲行禮</span><br/>
+<span class='tline' id='l761' data-llen='17375:17398'>　施於季氏必是不知故不若辭食而已凡禮必施之</span><br/>
+<span class='tline' id='l762' data-llen='17398:17421'>　知者若為不知禮亦難行　又曰傷謂疏食不可強</span><br/>
+<span class='tline' id='l763' data-llen='17421:17448'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-43a' );" name="056-43a" class="pb">[056-43a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l764' data-llen='17448:17456'>　飽以致傷也</span><br/>
+<span class='tline' id='l765' data-llen='17456:17468'>納幣一束束五兩兩五尋</span><br/>
+<span class='tline' id='l766' data-llen='17468:17491'>　正義鄭氏康成曰納幣謂昏禮納徵也十个為束貴</span><br/>
+<span class='tline' id='l767' data-llen='17491:17513'>　成數兩兩者合其卷是謂五兩八尺曰尋兩五尋</span><br/>
+<span class='tline' id='l768' data-llen='17513:17536'>　則每卷二丈也合之則四十尺今謂之匹猶匹偶之</span><br/>
+<span class='tline' id='l769' data-llen='17536:17558'>　云與　孔氏穎達曰兩个為一卷取配偶之義也</span><br/>
+<span class='tline' id='l770' data-llen='17558:17581'>　方氏慤曰納幣即昏禮所謂納徴以物言故曰幣以</span><br/>
+<span class='tline' id='l771' data-llen='17581:17604'>　義言故曰徴周官媒氏凡嫁子取妻入幣純帛無過</span><br/>
+<span class='tline' id='l772' data-llen='17604:17631'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-43b' );" name="056-43b" class="pb">[056-43b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l773' data-llen='17631:17654'>　五兩王氏謂天數五地數五五位相得而各有合五</span><br/>
+<span class='tline' id='l774' data-llen='17654:17671'>　兩則以天地合數為之節正謂是矣</span><br/>
+<span class='tline' id='l775' data-llen='17671:17694'>婦見舅姑兄弟姑姊妹皆立於堂下西靣北上是見已</span><br/>
+<span class='tline' id='l776' data-llen='17694:17717'>見諸父各就其寢女雖未許嫁年二十而筓禮之婦人</span><br/>
+<span class='tline' id='l777' data-llen='17717:17740'>執其禮燕則鬈首<span class='krp-note'>見賢遍反鬈音/權又居阮反</span></span><br/>
+<span class='tline' id='l778' data-llen='17740:17763'>　正義鄭氏康成曰婦來為供養也其見主於尊者兄</span><br/>
+<span class='tline' id='l779' data-llen='17763:17786'>　弟以下在位是為已見不復特見也諸父旁尊各就</span><br/>
+<span class='tline' id='l780' data-llen='17786:17809'>　其寢亦為見時不來也女雖未許嫁年二十亦為成</span><br/>
+<span class='tline' id='l781' data-llen='17809:17836'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-44a' );" name="056-44a" class="pb">[056-44a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l782' data-llen='17836:17859'>　人矣禮之酌以成之言婦人執其禮明非許嫁之筓</span><br/>
+<span class='tline' id='l783' data-llen='17859:17882'>　既筓之後去之鬈首猶若女有鬌紒也　孔氏穎達</span><br/>
+<span class='tline' id='l784' data-llen='17882:17905'>　曰此論昏禮婦見舅姑及女未許嫁加筓分別之事</span><br/>
+<span class='tline' id='l785' data-llen='17905:17928'>　婦來明日而見舅姑之時兄弟姑姊妹皆立於舅姑</span><br/>
+<span class='tline' id='l786' data-llen='17928:17951'>　之堂下東邊西鄉以北為上近堂為尊也婦自南門</span><br/>
+<span class='tline' id='l787' data-llen='17951:17974'>　而入入則從於夫之兄弟姑姊妹前度以因是即為</span><br/>
+<span class='tline' id='l788' data-llen='17974:17997'>　相見不復更別詣其室見之故云是已見也諸父謂</span><br/>
+<span class='tline' id='l789' data-llen='17997:18020'>　夫之伯叔婦於明日各往其寢見之不與舅姑同日</span><br/>
+<span class='tline' id='l790' data-llen='18020:18047'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-44b' );" name="056-44b" class="pb">[056-44b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l791' data-llen='18047:18070'>　也女子十五許嫁而筓則主婦及女賔為筓禮主婦</span><br/>
+<span class='tline' id='l792' data-llen='18070:18093'>　為之者筓女賔以醴禮之若未嫁至二十而筓則婦</span><br/>
+<span class='tline' id='l793' data-llen='18093:18099'>　人禮之</span><br/>
+<span class='tline' id='l794' data-llen='18099:18122'>　存疑孔氏穎達曰未許嫁無主婦女賔不備儀也既</span><br/>
+<span class='tline' id='l795' data-llen='18122:18145'>　筓後尋常燕居則去其筓而鬈首謂分髪為鬌紒也</span><br/>
+<span class='tline' id='l796' data-llen='18145:18158'>　既未許嫁猶為少者處之</span><br/>
+<span class='tline' id='l797' data-llen='18158:18181'>　案婦人正謂主婦女賔重在執禮二字謂雖未許嫁</span><br/>
+<span class='tline' id='l798' data-llen='18181:18204'>　必以禮為之筓也所以不待許嫁而筓者欲早責以</span><br/>
+<span class='tline' id='l799' data-llen='18204:18231'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-45a' );" name="056-45a" class="pb">[056-45a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l800' data-llen='18231:18254'>　成人之道也而不備儀可乎燕則鬈首者謂有事時</span><br/>
+<span class='tline' id='l801' data-llen='18254:18277'>　則筓無事則不筓非既筓輒釋直待嫁而後筓也若</span><br/>
+<span class='tline' id='l802' data-llen='18277:18300'>　云已筓猶以少者處之則是不以成人之道責之矣</span><br/>
+<span class='tline' id='l803' data-llen='18300:18307'>　筓何為乎</span><br/>
+<span class='tline' id='l804' data-llen='18307:18330'>韠長三尺下廣二尺上廣一尺㑹去上五寸紕以爵韋</span><br/>
+<span class='tline' id='l805' data-llen='18330:18363'>六寸不至下五寸純以素紃以五采<span class='krp-note'>韠音畢長直諒反/廣古曠反㑹古外</span></span><br/>
+<span class='tline' id='l806' data-llen='18363:18385'>　<span class='krp-note'>反紕婢支反純之閏/反又支允反紃音巡</span></span><br/>
+<span class='tline' id='l807' data-llen='18385:18408'>　正義鄭氏康成曰㑹謂領上縫也領之所用盖與紕</span><br/>
+<span class='tline' id='l808' data-llen='18408:18435'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-45b' );" name="056-45b" class="pb">[056-45b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l809' data-llen='18435:18458'>　同在旁曰紕在下曰純素生帛也紕六寸者中執之</span><br/>
+<span class='tline' id='l810' data-llen='18458:18481'>　表裏各三寸也純紕所不至者五寸與㑹去上同紃</span><br/>
+<span class='tline' id='l811' data-llen='18481:18504'>　施諸縫中若今時絛也　孔氏穎達曰韠韍也長三</span><br/>
+<span class='tline' id='l812' data-llen='18504:18527'>　尺與紳齊也下廣上狹象天地數也旁緣謂之紕上</span><br/>
+<span class='tline' id='l813' data-llen='18527:18550'>　緣謂之㑹以其在上下總㑹之處故謂之為㑹謂韠</span><br/>
+<span class='tline' id='l814' data-llen='18550:18573'>　之領縫也此縫去韠上畔廣五寸謂㑹上下廣五寸</span><br/>
+<span class='tline' id='l815' data-llen='18573:18596'>　紕謂㑹縫之下韠以兩邊紕以爵韋闊六寸倒攝之</span><br/>
+<span class='tline' id='l816' data-llen='18596:18619'>　兩廂各三寸也不至下五寸者紕韠之兩邊不至韠</span><br/>
+<span class='tline' id='l817' data-llen='18619:18646'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-46a' );" name="056-46a" class="pb">[056-46a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l818' data-llen='18646:18669'>　之下畔闊五寸也純以素者謂紕所不至之處横純</span><br/>
+<span class='tline' id='l819' data-llen='18669:18692'>　之以生帛此帛上下亦闊五寸也紃條也五采之絛</span><br/>
+<span class='tline' id='l820' data-llen='18692:18715'>　施之諸縫之中也會之所用無文純紕既用爵韋故</span><br/>
+<span class='tline' id='l821' data-llen='18715:18738'>　鄭知與紕同也純之上畔去韠之下畔五寸㑹之下</span><br/>
+<span class='tline' id='l822' data-llen='18738:18761'>　畔去韠之上畔五寸以其俱五寸故鄭云與會去上</span><br/>
+<span class='tline' id='l823' data-llen='18761:18784'>　同也　聶氏崇義曰天子祭服之韠繪龍火山卿大</span><br/>
+<span class='tline' id='l824' data-llen='18784:18792'>　夫山士不畫</span><br/>
+<span class='tline' id='l825' data-llen='18792:18815'>　案鄭孔訓會為領縫聶陳訓會為繪畫二説似異而</span><br/>
+<span class='tline' id='l826' data-llen='18815:18842'><a onclick="displayPageImage('KR1d0068', 'WYG', '056-46b' );" name="056-46b" class="pb">[056-46b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l827' data-llen='18842:18865'>　並存正義者韠之身有畫其頸無畫其二者接續處</span><br/>
+<span class='tline' id='l828' data-llen='18865:18888'>　為領縫則二説合而義乃備盖五寸以上為頸頸兩</span><br/>
+<span class='tline' id='l829' data-llen='18888:18911'>　旁為肩穿孔以受革帶又加大帶四寸於其上與兩</span><br/>
+<span class='tline' id='l830' data-llen='18911:18934'>　旁皆紕以爵韋而中畫之其下五寸亦不畫而於接</span><br/>
+<span class='tline' id='l831' data-llen='18934:18957'>　縫處以下皆純以素其縫之上則皆以五采之紃加</span><br/>
+<span class='tline' id='l832' data-llen='18957:18973'>　其上以為飾如弁縫之五采紃也</span><br/>
+<span class='tline' id='l833' data-llen='18973:18976'>　</span><br/>
+<span class='tline' id='l834' data-llen='18976:18988'>欽定禮記義疏卷五十六</span><br/>
+</p>
+<p><br/>
+</p>
+  </div>

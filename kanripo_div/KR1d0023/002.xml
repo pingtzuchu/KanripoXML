@@ -1,0 +1,546 @@
+<div id="txtcont" class="span9" style="position: relative;">
+    <p><br/>
+<span class='tline' id='l7' data-llen='156:182'><a onclick="displayPageImage('KR1d0023', 'WYG', '002-1a' );" name="002-1a" class="pb">[002-1a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l8' data-llen='182:190'>欽定四庫全書</span><br/>
+<span class='tline' id='l9' data-llen='190:200'>　周官祿田考卷中</span><br/>
+<span class='tline' id='l10' data-llen='200:221'>　　　　　　　　　　　　　　吳江沈彤撰</span><br/>
+<span class='tline' id='l11' data-llen='221:228'>　　公田數</span><br/>
+<span class='tline' id='l12' data-llen='228:251'>制王畿及畿内外國邑之地皆主於田田有公有私私</span><br/>
+<span class='tline' id='l13' data-llen='251:274'>田民所受公田則祿所自出也故考周官及内外諸侯</span><br/>
+<span class='tline' id='l14' data-llen='274:297'>官之祿者更必盡知公田之約數王畿地方千里為方</span><br/>
+<span class='tline' id='l15' data-llen='297:320'>百里者百山陵林麓川澤溝瀆城郭宫室塗巷三分去</span><br/>
+<span class='tline' id='l16' data-llen='320:346'><a onclick="displayPageImage('KR1d0023', 'WYG', '002-1b' );" name="002-1b" class="pb">[002-1b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l17' data-llen='346:369'>一為田六十四萬井為夫五百七十六萬有不易有一</span><br/>
+<span class='tline' id='l18' data-llen='369:392'>易有再易一易者二而當一再易者三而當一通三等</span><br/>
+<span class='tline' id='l19' data-llen='392:415'>而約之為二百八十八萬夫受田者二百五十六萬家</span><br/>
+<span class='tline' id='l20' data-llen='415:438'>公田三十二萬夫若畿内都邑以下之地大都含四都</span><br/>
+<span class='tline' id='l21' data-llen='438:461'>方八十里為方十里者六十四三分去一為田四千有</span><br/>
+<span class='tline' id='l22' data-llen='461:484'>九十六井為夫三萬六千八百六十四通其等為萬八</span><br/>
+<span class='tline' id='l23' data-llen='484:507'>千四百三十二夫受田者萬六千三百八十四家公田</span><br/>
+<span class='tline' id='l24' data-llen='507:530'>二千有四十八夫小都如一都方四十里為方十里者</span><br/>
+<span class='tline' id='l25' data-llen='530:556'><a onclick="displayPageImage('KR1d0023', 'WYG', '002-2a' );" name="002-2a" class="pb">[002-2a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l26' data-llen='556:579'>十六三分去一為田千有二十四井為夫九千二百一</span><br/>
+<span class='tline' id='l27' data-llen='579:602'>十六通其等為四千六百有八夫受田者四千有九十</span><br/>
+<span class='tline' id='l28' data-llen='602:625'>六家公田五百一十二夫家邑如縣方二十里為方十</span><br/>
+<span class='tline' id='l29' data-llen='625:648'>里者四三分去一為田二百五十六井為夫二千三百</span><br/>
+<span class='tline' id='l30' data-llen='648:671'>有四通其等為千一百五十二夫受田者千有二十四</span><br/>
+<span class='tline' id='l31' data-llen='671:694'>家公田百二十八夫若大都旁各加十里為方十里者</span><br/>
+<span class='tline' id='l32' data-llen='694:729'>三十六<span class='krp-note'>所加兼四旁及四隅法本/康成小司徒註下並同</span>則方百里方百里曰</span><br/>
+<span class='tline' id='l33' data-llen='729:752'>同小都旁各加五里為方五里者三十六則方五十里</span><br/>
+<span class='tline' id='l34' data-llen='752:778'><a onclick="displayPageImage('KR1d0023', 'WYG', '002-2b' );" name="002-2b" class="pb">[002-2b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l35' data-llen='778:801'>家邑旁各加二里半為方二里半者三十六則方二十</span><br/>
+<span class='tline' id='l36' data-llen='801:824'>五里其所加皆曰加田如都邑之法而無國征地之曰</span><br/>
+<span class='tline' id='l37' data-llen='824:847'>成者皆方十里為方一里者百其三分去一者以其二</span><br/>
+<span class='tline' id='l38' data-llen='847:870'>為甸其去不及一者甸之外或為邱或為邑或為不井</span><br/>
+<span class='tline' id='l39' data-llen='870:893'>之田甸各方八里為田六十四井為夫五百七十六通</span><br/>
+<span class='tline' id='l40' data-llen='893:916'>其等皆二百八十八夫受田者二百五十六家公田三</span><br/>
+<span class='tline' id='l41' data-llen='916:939'>十二夫邱各方四里為田十六井為夫百四十四通其</span><br/>
+<span class='tline' id='l42' data-llen='939:962'>等皆七十二夫受田者六十四家公田八夫邑各方二</span><br/>
+<span class='tline' id='l43' data-llen='962:988'><a onclick="displayPageImage('KR1d0023', 'WYG', '002-3a' );" name="002-3a" class="pb">[002-3a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l44' data-llen='988:1011'>里為田四井為夫三十六通其等皆十八夫受田者十</span><br/>
+<span class='tline' id='l45' data-llen='1011:1034'>六家公田二夫井各方一里為田九夫為畝九百通其</span><br/>
+<span class='tline' id='l46' data-llen='1034:1057'>等皆四百五十畝受田者四家公田五十畝若畿外邦</span><br/>
+<span class='tline' id='l47' data-llen='1057:1080'>國之地上公方五百里為方百里者二十五三分去一</span><br/>
+<span class='tline' id='l48' data-llen='1080:1103'>為田十六萬井為夫百四十四萬通其等為七十二萬</span><br/>
+<span class='tline' id='l49' data-llen='1103:1126'>夫受田者六十四萬家公田八萬夫侯方四百里為方</span><br/>
+<span class='tline' id='l50' data-llen='1126:1149'>百里者十六三分去一為田十萬二千四百井為夫九</span><br/>
+<span class='tline' id='l51' data-llen='1149:1172'>十二萬一千六百通其等為四十六萬有八百夫受田</span><br/>
+<span class='tline' id='l52' data-llen='1172:1198'><a onclick="displayPageImage('KR1d0023', 'WYG', '002-3b' );" name="002-3b" class="pb">[002-3b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l53' data-llen='1198:1221'>者四十萬九千六百家公田五萬一千二百夫伯方三</span><br/>
+<span class='tline' id='l54' data-llen='1221:1244'>百里為方百里者九三分去一為田五萬七千六百井</span><br/>
+<span class='tline' id='l55' data-llen='1244:1267'>為夫五十一萬八千四百通其等為二十五萬九千二</span><br/>
+<span class='tline' id='l56' data-llen='1267:1290'>百夫受田者二十三萬有四百家公田二萬八千八百</span><br/>
+<span class='tline' id='l57' data-llen='1290:1313'>夫子方二百里為方百里者四三分去一為田二萬五</span><br/>
+<span class='tline' id='l58' data-llen='1313:1336'>千六百井為夫二十三萬有四百通其等為十一萬五</span><br/>
+<span class='tline' id='l59' data-llen='1336:1359'>千二百家受田者十萬二千四百家公田萬二千八百</span><br/>
+<span class='tline' id='l60' data-llen='1359:1382'>夫男方百里為方十里者百三分去一為田六千四百</span><br/>
+<span class='tline' id='l61' data-llen='1382:1408'><a onclick="displayPageImage('KR1d0023', 'WYG', '002-4a' );" name="002-4a" class="pb">[002-4a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l62' data-llen='1408:1431'>井為夫五萬七千六百通其等為二萬八千八百夫受</span><br/>
+<span class='tline' id='l63' data-llen='1431:1454'>田者二萬五千六百家公田三千二百夫其都邑以下</span><br/>
+<span class='tline' id='l64' data-llen='1454:1477'>之公田法與數悉如畿内惟成亦有加云凡通不易一</span><br/>
+<span class='tline' id='l65' data-llen='1477:1500'>易再易之等而約其夫數皆以二當一其地具三等者</span><br/>
+<span class='tline' id='l66' data-llen='1500:1523'>即界内而通之不具三等者并界外以通之凡公田一</span><br/>
+<span class='tline' id='l67' data-llen='1523:1537'>夫去二十畆為廬舎實八十畝</span><br/>
+<span class='tline' id='l68' data-llen='1537:1560'>　王畿地方千里三分去一其井數夫數與康成載師</span><br/>
+<span class='tline' id='l69' data-llen='1560:1583'>　註不合何也曰載師註計夫而不計井故方千里為</span><br/>
+<span class='tline' id='l70' data-llen='1583:1609'><a onclick="displayPageImage('KR1d0023', 'WYG', '002-4b' );" name="002-4b" class="pb">[002-4b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l71' data-llen='1609:1632'>　九百萬夫去其三之一為六百萬夫今計井而後計</span><br/>
+<span class='tline' id='l72' data-llen='1632:1655'>　夫則方千里而去其三之一止六十四萬井夫亦止</span><br/>
+<span class='tline' id='l73' data-llen='1655:1678'>　五百七十六萬矣康成從王制今從漢書刑法志所</span><br/>
+<span class='tline' id='l74' data-llen='1678:1701'>　以從漢書者以公田出於井也康成小司徒註亦計</span><br/>
+<span class='tline' id='l75' data-llen='1701:1724'>　井而後計夫豈有異於漢書也曰漢書渾言畿内庶</span><br/>
+<span class='tline' id='l76' data-llen='1724:1747'>　邦之井制未必不兼鄉遂公邑小司徒註則以井為</span><br/>
+<span class='tline' id='l77' data-llen='1747:1770'>　專在都鄙也井不專在都鄙歟曰然小司徒大比六</span><br/>
+<span class='tline' id='l78' data-llen='1770:1793'>　鄉四郊之吏而攷夫屋司馬法夫三為屋屋三為井</span><br/>
+<span class='tline' id='l79' data-llen='1793:1819'><a onclick="displayPageImage('KR1d0023', 'WYG', '002-5a' );" name="002-5a" class="pb">[002-5a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l80' data-llen='1819:1847'>　<span class='krp-note'>見小司/徒註</span>屋在鄉郊則井可知鄉郊有屋井則遂與公</span><br/>
+<span class='tline' id='l81' data-llen='1847:1870'>　邑可知且六十四井為甸而甸師所掌之王藉在南</span><br/>
+<span class='tline' id='l82' data-llen='1870:1903'>　郊<span class='krp-note'>祭統云天子親耕/於南郊以共齊盛</span>孟子亦云鄉田同井則鄉郊之</span><br/>
+<span class='tline' id='l83' data-llen='1903:1926'>　制井益明矣故康成分十夫有溝百夫有洫千夫有</span><br/>
+<span class='tline' id='l84' data-llen='1926:1949'>　澮為鄉遂田不井之法匠人井間之溝成間之洫同</span><br/>
+<span class='tline' id='l85' data-llen='1949:1972'>　間之澮為都鄙井田之法亦非也蓋二法無殊通行</span><br/>
+<span class='tline' id='l86' data-llen='1972:1988'>　畿内與鄉遂郊野之制井相成云</span><br/>
+<span class='tline' id='l87' data-llen='1988:2011'>　　附五溝異同說遂人云凡治野夫間有遂遂上有</span><br/>
+<span class='tline' id='l88' data-llen='2011:2037'><a onclick="displayPageImage('KR1d0023', 'WYG', '002-5b' );" name="002-5b" class="pb">[002-5b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l89' data-llen='2037:2060'>　　徑十夫有溝溝上有畛百夫有洫洫上有涂千夫</span><br/>
+<span class='tline' id='l90' data-llen='2060:2083'>　　有澮澮上有道萬夫有川川上有路以達於畿匠</span><br/>
+<span class='tline' id='l91' data-llen='2083:2106'>　　人云匠人為溝洫耜廣五寸二耜為耦一耦之伐</span><br/>
+<span class='tline' id='l92' data-llen='2106:2136'>　　廣尺深尺謂之<img height='20' width='20' alt='&amp;KR0850' title='KR0850' src='https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0850.png'/>田首倍之廣二尺深二尺謂之</span><br/>
+<span class='tline' id='l93' data-llen='2136:2159'>　　遂九夫為井井間廣四尺深四尺謂之溝方十里</span><br/>
+<span class='tline' id='l94' data-llen='2159:2182'>　　為成成間廣八尺深八尺謂之洫方百里為同同</span><br/>
+<span class='tline' id='l95' data-llen='2182:2205'>　　間廣二尋深二仞謂之澮專達於川凡二篇五溝</span><br/>
+<span class='tline' id='l96' data-llen='2205:2228'>　　之法皆徧行畿内似異實同而自漢迄今註解未</span><br/>
+<span class='tline' id='l97' data-llen='2228:2254'><a onclick="displayPageImage('KR1d0023', 'WYG', '002-6a' );" name="002-6a" class="pb">[002-6a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l98' data-llen='2254:2277'>　　定彤沈潛反復有年乃能悉其㑹通而别為之說</span><br/>
+<span class='tline' id='l99' data-llen='2277:2300'>　　曰遂人夫間有遂匠人田首謂之遂夫間為畎水</span><br/>
+<span class='tline' id='l100' data-llen='2300:2323'>　　所入即田首本無異也若遂人十夫有溝匠人九</span><br/>
+<span class='tline' id='l101' data-llen='2323:2346'>　　夫為井井間謂之溝遂人百夫有洫匠人成間謂</span><br/>
+<span class='tline' id='l102' data-llen='2346:2369'>　　之洫為九百夫之地遂人千夫有澮匠人同間謂</span><br/>
+<span class='tline' id='l103' data-llen='2369:2392'>　　之澮為九萬夫之地則地形有大小或且懸絶然</span><br/>
+<span class='tline' id='l104' data-llen='2392:2415'>　　即夫與尋尺互計三溝之所占要無不合也井九</span><br/>
+<span class='tline' id='l105' data-llen='2415:2438'>　　夫以溝加一夫則得十夫每九夫而間以溝其溝</span><br/>
+<span class='tline' id='l106' data-llen='2438:2464'><a onclick="displayPageImage('KR1d0023', 'WYG', '002-6b' );" name="002-6b" class="pb">[002-6b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l107' data-llen='2464:2487'>　　不占井間乎十井為通通九十夫以洫加十夫則</span><br/>
+<span class='tline' id='l108' data-llen='2487:2529'>　　得百夫<span class='krp-note'>九十夫所加之十夫即并十井所各加之/一夫地非有多寡因溝涂之大小而異其</span></span><br/>
+<span class='tline' id='l109' data-llen='2529:2558'>　　<span class='krp-note'>辭耳餘/皆倣此</span>九十夫於成為十之一每十之一而間以</span><br/>
+<span class='tline' id='l110' data-llen='2558:2581'>　　洫其洫不占成間乎成九百夫以澮加百夫則得</span><br/>
+<span class='tline' id='l111' data-llen='2581:2604'>　　千夫九百夫於同為百之一十成為終終九千夫</span><br/>
+<span class='tline' id='l112' data-llen='2604:2627'>　　則又以九百夫加百夫而得千夫者九也九千夫</span><br/>
+<span class='tline' id='l113' data-llen='2627:2650'>　　於同為十之一每百之一而間以澮焉每十之一</span><br/>
+<span class='tline' id='l114' data-llen='2650:2673'>　　而仍間以澮焉其澮不占同間乎故遂人之所有</span><br/>
+<span class='tline' id='l115' data-llen='2673:2699'><a onclick="displayPageImage('KR1d0023', 'WYG', '002-7a' );" name="002-7a" class="pb">[002-7a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l116' data-llen='2699:2722'>　　即匠人之所為特匠人多舉其全體遂人多舉其</span><br/>
+<span class='tline' id='l117' data-llen='2722:2760'>　　偏隅<span class='krp-note'>所以或舉偏或舉隅者十百千萬/既層遞而上文勢即不得不然</span>而學者不</span><br/>
+<span class='tline' id='l118' data-llen='2760:2783'>　　察遂以為異法耳且井間廣四尺之溝一溝長三</span><br/>
+<span class='tline' id='l119' data-llen='2783:2806'>　　百步六尺為歩三百步為千八百尺以四尺乘千</span><br/>
+<span class='tline' id='l120' data-llen='2806:2829'>　　八百尺得七千二百尺除以六尺得千二百尺千</span><br/>
+<span class='tline' id='l121' data-llen='2829:2852'>　　二百尺為二百步步百為畝畛如之共四畝畝百</span><br/>
+<span class='tline' id='l122' data-llen='2852:2875'>　　為夫是即九夫所加之一夫而占其二十五之一</span><br/>
+<span class='tline' id='l123' data-llen='2875:2898'>　　也其餘則以為洫與涂之屬焉成間廣八尺之洫</span><br/>
+<span class='tline' id='l124' data-llen='2898:2924'><a onclick="displayPageImage('KR1d0023', 'WYG', '002-7b' );" name="002-7b" class="pb">[002-7b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l125' data-llen='2924:2947'>　　九洫長三千步九其廣為七十二尺七十二尺為</span><br/>
+<span class='tline' id='l126' data-llen='2947:2970'>　　十二步以十二步乘三千步得三萬六千步為畝</span><br/>
+<span class='tline' id='l127' data-llen='2970:2993'>　　三百六十為夫四而弱涂如之共七夫强是即每</span><br/>
+<span class='tline' id='l128' data-llen='2993:3016'>　　九十夫所各加之十夫而占其十之一弱也其餘</span><br/>
+<span class='tline' id='l129' data-llen='3016:3039'>　　則以為澮與道之屬焉同間廣二尋之澮縱横各</span><br/>
+<span class='tline' id='l130' data-llen='3039:3083'>　　九<span class='krp-note'>按畎縱者遂横畎横者遂縱遂與溝溝與洫亦/如之惟澮則有縱有横而四達蓋以川必環同</span></span><br/>
+<span class='tline' id='l131' data-llen='3083:3128'>　　<span class='krp-note'>而澮專注於川四逹則水之來往便利且都邑之/封疆必環以溝以縱横之澮當之則四而皆廣深</span></span><br/>
+<span class='tline' id='l132' data-llen='3128:3157'>　　<span class='krp-note'>而足為/阻固也</span>各長三萬步九其廣為百四十四尺百四</span><br/>
+<span class='tline' id='l133' data-llen='3157:3183'><a onclick="displayPageImage('KR1d0023', 'WYG', '002-8a' );" name="002-8a" class="pb">[002-8a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l134' data-llen='3183:3206'>　　十四尺為二十四步以二十四步乘三萬步得七</span><br/>
+<span class='tline' id='l135' data-llen='3206:3229'>　　十二萬步為畝七千二百為夫七十二倍之為百</span><br/>
+<span class='tline' id='l136' data-llen='3229:3252'>　　四十四夫道如之共二百八十八夫是即每九百</span><br/>
+<span class='tline' id='l137' data-llen='3252:3275'>　　夫所各加之百夫而占其百之三强也其餘則以</span><br/>
+<span class='tline' id='l138' data-llen='3275:3298'>　　為川與路焉然則匠人之所占俱遂人之所加而</span><br/>
+<span class='tline' id='l139' data-llen='3298:3321'>　　三溝之占地豈有殊哉至萬夫有川則以川之屬</span><br/>
+<span class='tline' id='l140' data-llen='3321:3357'>　　而加千夫於九千夫也<span class='krp-note'>九千夫之地為川之屬所/占者不及二百夫乃加千</span></span><br/>
+<span class='tline' id='l141' data-llen='3357:3393'>　　<span class='krp-note'>夫而遂云萬夫亦遞舉十/百千萬成數之文勢然耳</span>乃匠人於川獨不見其</span><br/>
+<span class='tline' id='l142' data-llen='3393:3419'><a onclick="displayPageImage('KR1d0023', 'WYG', '002-8b' );" name="002-8b" class="pb">[002-8b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l143' data-llen='3419:3442'>　　度數無從互計蓋是固川之天成者若其人為者</span><br/>
+<span class='tline' id='l144' data-llen='3442:3465'>　　環一同受澮所達由澮而推之每一偏長當如澮</span><br/>
+<span class='tline' id='l145' data-llen='3465:3488'>　　亦三萬步廣當倍澮為四尋四尋為五步二尺以</span><br/>
+<span class='tline' id='l146' data-llen='3488:3511'>　　五步二尺乘三萬步得十六萬步為畝千六百為</span><br/>
+<span class='tline' id='l147' data-llen='3511:3534'>　　夫十六四之為六十四夫川與四同為界當各分</span><br/>
+<span class='tline' id='l148' data-llen='3534:3557'>　　其半半川為三十二夫川兩旁有路當去鄰界一</span><br/>
+<span class='tline' id='l149' data-llen='3557:3580'>　　而為之長如道廣倍半川為六十四夫共九十六</span><br/>
+<span class='tline' id='l150' data-llen='3580:3603'>　　夫是即每九千夫所各加之千夫而占其百之一</span><br/>
+<span class='tline' id='l151' data-llen='3603:3629'><a onclick="displayPageImage('KR1d0023', 'WYG', '002-9a' );" name="002-9a" class="pb">[002-9a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l152' data-llen='3629:3652'>　　强也其餘則以為澮與道已上者焉凡一同含十</span><br/>
+<span class='tline' id='l153' data-llen='3652:3675'>　　終去一終存九終九終含九十成九十成含九百</span><br/>
+<span class='tline' id='l154' data-llen='3675:3698'>　　通九百通含九千井九千井所各加之一夫并而</span><br/>
+<span class='tline' id='l155' data-llen='3698:3721'>　　為九百通所各加之十夫九百通所各加之十夫</span><br/>
+<span class='tline' id='l156' data-llen='3721:3744'>　　并而為九十成所各加之百夫九十成所各加之</span><br/>
+<span class='tline' id='l157' data-llen='3744:3767'>　　百夫并而為九終所各加之千夫數屢増而實不</span><br/>
+<span class='tline' id='l158' data-llen='3767:3790'>　　増總為九千此九千夫即所去之一終自溝畛至</span><br/>
+<span class='tline' id='l159' data-llen='3790:3821'>　　川路悉分布其間而占其十之二弱<span class='krp-note'>溝畛占三百/六十夫洫涂</span></span><br/>
+<span class='tline' id='l160' data-llen='3821:3847'><a onclick="displayPageImage('KR1d0023', 'WYG', '002-9b' );" name="002-9b" class="pb">[002-9b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l161' data-llen='3847:3881'>　　<span class='krp-note'>占六百四十八夫澮/道與川路所占見上</span>餘十之八而强則以為城郭</span><br/>
+<span class='tline' id='l162' data-llen='3881:3904'>　　宫室之屬而所占亦無多其餘若平土則更為田</span><br/>
+<span class='tline' id='l163' data-llen='3904:3936'>　　若山陵林麓川澤則可田者田之<span class='krp-note'>按地官有山農/澤農則山澤之</span></span><br/>
+<span class='tline' id='l164' data-llen='3936:3965'>　　<span class='krp-note'>地亦有/為田者</span>否則因之至遂與徑所占蓋即一夫之地</span><br/>
+<span class='tline' id='l165' data-llen='3965:3978'>　　曰田首明不在田外也</span><br/>
+<span class='tline' id='l166' data-llen='3978:4001'>　山陵林麓川澤溝瀆城郭宫室塗巷之一分其所占</span><br/>
+<span class='tline' id='l167' data-llen='4001:4024'>　為井三十六萬為夫三百二十四萬較二分之田數</span><br/>
+<span class='tline' id='l168' data-llen='4024:4047'>　何以贏百之四也曰古者制國稅軍賦皆因井田方</span><br/>
+<span class='tline' id='l169' data-llen='4047:4074'><a onclick="displayPageImage('KR1d0023', 'WYG', '002-10a' );" name="002-10a" class="pb">[002-10a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l170' data-llen='4074:4097'>　百里為六千四百井方千里為六十四萬井苟井數</span><br/>
+<span class='tline' id='l171' data-llen='4097:4120'>　無闕則賦稅亦無不足故有贏皆并入所去中也其</span><br/>
+<span class='tline' id='l172' data-llen='4120:4143'>　所贏有過百之四者乎曰過百之四則井田數闕而</span><br/>
+<span class='tline' id='l173' data-llen='4143:4166'>　不足以制賦稅矣載師疏謂畿内山林多豈有二分</span><br/>
+<span class='tline' id='l174' data-llen='4166:4189'>　土田蓋地大或然地小者必不然也井田之數整則</span><br/>
+<span class='tline' id='l175' data-llen='4189:4212'>　其形亦方平乎曰不方平田不可井然方平不盡如</span><br/>
+<span class='tline' id='l176' data-llen='4212:4235'>　圖康成已言之若截長補短以方其實俾分數悉均</span><br/>
+<span class='tline' id='l177' data-llen='4235:4258'>　亦賴有步算諸法耳凡山林之屬之所占可别而計</span><br/>
+<span class='tline' id='l178' data-llen='4258:4285'><a onclick="displayPageImage('KR1d0023', 'WYG', '002-10b' );" name="002-10b" class="pb">[002-10b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l179' data-llen='4285:4308'>　之乎曰五溝五涂而去其徑遂其所占為井萬五千</span><br/>
+<span class='tline' id='l180' data-llen='4308:4340'>　四百六十六為夫十三萬九千二百<span class='krp-note'>溝畛占三萬六/千夫洫涂占六</span></span><br/>
+<span class='tline' id='l181' data-llen='4340:4378'>　<span class='krp-note'>萬四千八百夫澮道占二萬八/千八百夫川路占九千六百夫</span>其餘則皆溝涂外數</span><br/>
+<span class='tline' id='l182' data-llen='4378:4422'>　者所占也<span class='krp-note'>商子來民篇云地方百里者山陵處什一藪/澤處什一谿谷流水處什一都邑蹊道處什</span></span><br/>
+<span class='tline' id='l183' data-llen='4422:4449'>　<span class='krp-note'>一亦/約數</span>溝涂之夫數何以知之曰以匠人之尋尺乘</span><br/>
+<span class='tline' id='l184' data-llen='4449:4472'>　除而得也其法具五溝異同說矣城郭宫室之所占</span><br/>
+<span class='tline' id='l185' data-llen='4472:4495'>　可推知乎曰可推者惟王之城郭與農夫之家耳王</span><br/>
+<span class='tline' id='l186' data-llen='4495:4518'>　城郭之所占畿何曰匠人營國方九里為井八十一</span><br/>
+<span class='tline' id='l187' data-llen='4518:4545'><a onclick="displayPageImage('KR1d0023', 'WYG', '002-11a' );" name="002-11a" class="pb">[002-11a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l188' data-llen='4545:4568'>　為夫七百二十九逸周書作雒篇云城方千六百二</span><br/>
+<span class='tline' id='l189' data-llen='4568:4603'>　十丈<span class='krp-note'>故以六為七今從大平/御覽居處部所引改正</span>按百八十丈為一里其</span><br/>
+<span class='tline' id='l190' data-llen='4603:4626'>　丈數與里數正相符則鎬京當亦然矣郭之大者曰</span><br/>
+<span class='tline' id='l191' data-llen='4626:4663'>　郛<span class='krp-note'>公羊春秋文十五年傳云郛/者何恢郭也註云城外大郭</span>作雒篇云郛方七十</span><br/>
+<span class='tline' id='l192' data-llen='4663:4708'>　里<span class='krp-note'>故以十為百則太大且下云郊甸方六百里不應/郊甸俱在郛内今從後漢志註所引博物記改正</span></span><br/>
+<span class='tline' id='l193' data-llen='4708:4739'>　<span class='krp-note'>御覽引周書/作七十二里</span>則為井四千九百為夫四萬四千一百</span><br/>
+<span class='tline' id='l194' data-llen='4739:4762'>　其下云南繫洛水北因郟山則郛之大小蓋因地勢</span><br/>
+<span class='tline' id='l195' data-llen='4762:4785'>　異於城之有定數故鎬京之郛不可推也公卿大夫</span><br/>
+<span class='tline' id='l196' data-llen='4785:4812'><a onclick="displayPageImage('KR1d0023', 'WYG', '002-11b' );" name="002-11b" class="pb">[002-11b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l197' data-llen='4812:4835'>　之城郭亦可推乎曰其所占夫數可推而采地無常</span><br/>
+<span class='tline' id='l198' data-llen='4835:4858'>　城郭之總數不可推也其所占各幾何曰由王之城</span><br/>
+<span class='tline' id='l199' data-llen='4858:4881'>　遞推之公城方七里侯伯城方五里子男城方三里</span><br/>
+<span class='tline' id='l200' data-llen='4881:4904'>　三公之都視諸男城亦如之當為井九為夫八十一</span><br/>
+<span class='tline' id='l201' data-llen='4904:4931'>　以差而下卿之城當方一里旁各加五分里之二<span class='krp-note'>本/左</span></span><br/>
+<span class='tline' id='l202' data-llen='4931:4962'>　<span class='krp-note'>傳隱元年中五/之一疏定數</span>為井三為夫二十七强大夫之城當</span><br/>
+<span class='tline' id='l203' data-llen='4962:4985'>　方一里為井一為夫九也鄭祭仲之論都城云先王</span><br/>
+<span class='tline' id='l204' data-llen='4985:5008'>　之制大都不過參國之一中五之一小九之一蓋畿</span><br/>
+<span class='tline' id='l205' data-llen='5008:5035'><a onclick="displayPageImage('KR1d0023', 'WYG', '002-12a' );" name="002-12a" class="pb">[002-12a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l206' data-llen='5035:5068'>　内外通行之<span class='krp-note'>中都猶畿内小都/小都猶畿内縣也</span>郭所占皆無考以孟</span><br/>
+<span class='tline' id='l207' data-llen='5068:5101'>　子國䇿三里之城七里之郭推之<span class='krp-note'>國䇿於即墨旣云/三里之城五里之</span></span><br/>
+<span class='tline' id='l208' data-llen='5101:5141'>　<span class='krp-note'>郭而又云五里之城七里之郭明前/五字為七之誤後五字為三之誤矣</span>則郭之夫數當</span><br/>
+<span class='tline' id='l209' data-llen='5141:5164'>　四倍於城强也農家之所占畿何曰廬在田中勿庸</span><br/>
+<span class='tline' id='l210' data-llen='5164:5193'>　計其在邑之宅家亦二畝半<span class='krp-note'>本趙氏/孟子註</span>受田者二百五</span><br/>
+<span class='tline' id='l211' data-llen='5193:5209'>　十六萬家當占地六萬四千夫也</span><br/>
+<span class='tline' id='l212' data-llen='5209:5232'>　地之分不易一易再易也惟見於大司徒制都鄙之</span><br/>
+<span class='tline' id='l213' data-llen='5232:5255'>　條今以㮣畿内及庶邦何也曰無大小中外而各有</span><br/>
+<span class='tline' id='l214' data-llen='5255:5282'><a onclick="displayPageImage('KR1d0023', 'WYG', '002-12b' );" name="002-12b" class="pb">[002-12b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l215' data-llen='5282:5305'>　厚薄地力之常故小司徒之均土地遂人之辨野土</span><br/>
+<span class='tline' id='l216' data-llen='5305:5328'>　大司馬之以地制賦皆分上中下三等而通行畿内</span><br/>
+<span class='tline' id='l217' data-llen='5328:5351'>　及庶邦不易即上地一易即中地再易即下地豈獨</span><br/>
+<span class='tline' id='l218' data-llen='5351:5374'>　為都鄙之制也其所均所辨所制果通行畿内及庶</span><br/>
+<span class='tline' id='l219' data-llen='5374:5397'>　邦乎曰小司徒稽國中及四郊都鄙之夫家九比之</span><br/>
+<span class='tline' id='l220' data-llen='5397:5420'>　數頒比法於六鄉之大夫大比則受邦國之比要大</span><br/>
+<span class='tline' id='l221' data-llen='5420:5443'>　司馬布政於邦國都鄙皆兼畿内與庶邦則其均土</span><br/>
+<span class='tline' id='l222' data-llen='5443:5466'>　地及以地制賦可知矣遂人治野達於畿所謂野者</span><br/>
+<span class='tline' id='l223' data-llen='5466:5493'><a onclick="displayPageImage('KR1d0023', 'WYG', '002-13a' );" name="002-13a" class="pb">[002-13a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l224' data-llen='5493:5520'>　乃城郭外之通稱<span class='krp-note'>詳上/卷</span>則其辨野土之兼鄉郊都鄙</span><br/>
+<span class='tline' id='l225' data-llen='5520:5543'>　可知而庶邦遂人之所辨亦可知矣不易一易再易</span><br/>
+<span class='tline' id='l226' data-llen='5543:5566'>　之為上中下地何以知之曰大司徒不易之地家百</span><br/>
+<span class='tline' id='l227' data-llen='5566:5589'>　畮而遂人上地夫一廛田百畮萊五十畮一易之地</span><br/>
+<span class='tline' id='l228' data-llen='5589:5612'>　家二百畮而中地夫一廛田百畮萊百畮再易之地</span><br/>
+<span class='tline' id='l229' data-llen='5612:5635'>　家三百畮而下地夫一廛田百畮萊二百畮畝數同</span><br/>
+<span class='tline' id='l230' data-llen='5635:5658'>　則其地宜無不同也不易之地家百畝較上地之家</span><br/>
+<span class='tline' id='l231' data-llen='5658:5681'>　不少萊五十畝乎曰家止百畝則為上地之上者而</span><br/>
+<span class='tline' id='l232' data-llen='5681:5708'><a onclick="displayPageImage('KR1d0023', 'WYG', '002-13b' );" name="002-13b" class="pb">[002-13b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l233' data-llen='5708:5735'>　終不易百又五十畝則僅為上地而或易或不易<span class='krp-note'>三/分</span></span><br/>
+<span class='tline' id='l234' data-llen='5735:5776'>　<span class='krp-note'>百五十畝而嵗種其二休其一更三歳而/徧蓋每分連二歳不易至三歳乃易云</span>大司徒與</span><br/>
+<span class='tline' id='l235' data-llen='5776:5799'>　遂人蓋各有二等彼此相備故畝數不同而同也孟</span><br/>
+<span class='tline' id='l236' data-llen='5799:5822'>　子王制皆言一夫耕百畝而無易不易之差何也曰</span><br/>
+<span class='tline' id='l237' data-llen='5822:5845'>　孟子王制因代耕之祿而計五等農夫食人之多寡</span><br/>
+<span class='tline' id='l238' data-llen='5845:5868'>　以為差故專言所耕不及地等而地等固寓其中也</span><br/>
+<span class='tline' id='l239' data-llen='5868:5914'>　<span class='krp-note'>此五等農夫所受田在周官為上地以上地家七人/而此之中農亦食七人也由是例推則中農食八人</span></span><br/>
+<span class='tline' id='l240' data-llen='5914:5960'>　<span class='krp-note'>而上食十人者為上上地中農食六人而下食四人/者為中地中農食五人而中次食四人下食三人者</span></span><br/>
+<span class='tline' id='l241' data-llen='5960:5987'><a onclick="displayPageImage('KR1d0023', 'WYG', '002-14a' );" name="002-14a" class="pb">[002-14a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l242' data-llen='5987:6016'>　<span class='krp-note'>為下地皆/可知矣</span>通地之三等而約為二夫當一夫豈以其</span><br/>
+<span class='tline' id='l243' data-llen='6016:6039'>　古法而輒用之乎曰非獨以古法而用之蓋二當一</span><br/>
+<span class='tline' id='l244' data-llen='6039:6062'>　則去其夫數之半而所存皆歳種之田雖一易再易</span><br/>
+<span class='tline' id='l245' data-llen='6062:6085'>　猶之不易而考祿可得其實也歳所種之夫數果皆</span><br/>
+<span class='tline' id='l246' data-llen='6085:6108'>　準乎曰其數由通且約而得之安得皆準即間有準</span><br/>
+<span class='tline' id='l247' data-llen='6108:6131'>　者亦不能無所增減蓋人稠則力田者多每化瘠為</span><br/>
+<span class='tline' id='l248' data-llen='6131:6154'>　沃而歳種屢増稀則反是也然歳種之中數固即此</span><br/>
+<span class='tline' id='l249' data-llen='6154:6170'>　通且約者而存亦不準而準者矣</span><br/>
+<span class='tline' id='l250' data-llen='6170:6197'><a onclick="displayPageImage('KR1d0023', 'WYG', '002-14b' );" name="002-14b" class="pb">[002-14b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l251' data-llen='6197:6220'>　大都含四都而方八十里小都如一都而方四十里</span><br/>
+<span class='tline' id='l252' data-llen='6220:6243'>　家邑如縣而方二十里何以知之曰小司徒四甸為</span><br/>
+<span class='tline' id='l253' data-llen='6243:6266'>　縣四縣為都註云百里之國凡四都五十里之國凡</span><br/>
+<span class='tline' id='l254' data-llen='6266:6289'>　四縣二十五里之國凡四甸按二十五里乃家邑之</span><br/>
+<span class='tline' id='l255' data-llen='6289:6312'>　有加田者若四甸之正則方二十里也五十里乃小</span><br/>
+<span class='tline' id='l256' data-llen='6312:6335'>　都之有加田者若四縣之正則方四十里也百里乃</span><br/>
+<span class='tline' id='l257' data-llen='6335:6358'>　大都之有加田者若四都之正則方八十里也至載</span><br/>
+<span class='tline' id='l258' data-llen='6358:6381'>　師以家邑之田任稍地稍地如甸地之制則四甸為</span><br/>
+<span class='tline' id='l259' data-llen='6381:6408'><a onclick="displayPageImage('KR1d0023', 'WYG', '002-15a' );" name="002-15a" class="pb">[002-15a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l260' data-llen='6408:6431'>　家邑而家邑亦如縣地之縣也以小都之田任縣地</span><br/>
+<span class='tline' id='l261' data-llen='6431:6454'>　則四縣為小都而小都亦如畺地之都也以大都之</span><br/>
+<span class='tline' id='l262' data-llen='6454:6477'>　田任畺地畺地制為都則以四都為大都而大都含</span><br/>
+<span class='tline' id='l263' data-llen='6477:6500'>　四都也然則小司徒之縣都與載師之都邑有異乎</span><br/>
+<span class='tline' id='l264' data-llen='6500:6523'>　曰載師之都邑謂采地小司徒之縣都謂凡土田封</span><br/>
+<span class='tline' id='l265' data-llen='6523:6551'>　則為采地未封則為公邑也<span class='krp-note'>本縣/士註</span>本註亦專指采地</span><br/>
+<span class='tline' id='l266' data-llen='6551:6574'>　殆未審耳何以知稍地如甸地之制而畺地制為都</span><br/>
+<span class='tline' id='l267' data-llen='6574:6597'>　也曰四邱為甸出車一乘而稍人掌令邱乘之政令</span><br/>
+<span class='tline' id='l268' data-llen='6597:6624'><a onclick="displayPageImage('KR1d0023', 'WYG', '002-15b' );" name="002-15b" class="pb">[002-15b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l269' data-llen='6624:6647'>　稍二十同并郊甸凡三十六同而作雒篇謂郊甸中</span><br/>
+<span class='tline' id='l270' data-llen='6647:6670'>　六百里以甸包稍則稍地之亦制為甸明矣大宰之</span><br/>
+<span class='tline' id='l271' data-llen='6670:6693'>　九賦家削之外繼以邦縣邦縣之外繼以邦都邦縣</span><br/>
+<span class='tline' id='l272' data-llen='6693:6716'>　即縣地邦都即畺地則畺地之制為都亦明矣何以</span><br/>
+<span class='tline' id='l273' data-llen='6716:6739'>　知家邑亦四甸小都亦四縣大都則四都也曰小司</span><br/>
+<span class='tline' id='l274' data-llen='6739:6762'>　徒由縣而都則都之下為縣載師由家邑而小都則</span><br/>
+<span class='tline' id='l275' data-llen='6762:6785'>　小都之下為家邑家邑之與縣小都之與都其等皆</span><br/>
+<span class='tline' id='l276' data-llen='6785:6805'>　同則其制亦同而大都之制亦可推知也已</span><br/>
+<span class='tline' id='l277' data-llen='6805:6832'><a onclick="displayPageImage('KR1d0023', 'WYG', '002-16a' );" name="002-16a" class="pb">[002-16a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l278' data-llen='6832:6855'>　制都邑之大小以地亦本載師及小師徒經註也而</span><br/>
+<span class='tline' id='l279' data-llen='6855:6878'>　林氏椅據大司徒經謂家百畝家二百畝家三百畝</span><br/>
+<span class='tline' id='l280' data-llen='6878:6901'>　皆計其室數以為都邑而都邑之大小初不繫其地</span><br/>
+<span class='tline' id='l281' data-llen='6901:6928'>　<span class='krp-note'>見訂/義</span>何歟曰林誤也大司徒云凡造都鄙制其地域</span><br/>
+<span class='tline' id='l282' data-llen='6928:6951'>　而封溝之謂先量地定域也則都邑之大小正繫其</span><br/>
+<span class='tline' id='l283' data-llen='6951:6974'>　地下云以其室數制之乃即域内之室數以為縣鄙</span><br/>
+<span class='tline' id='l284' data-llen='6974:7005'>　之屬使多寡與地邑相得<span class='krp-note'>民寡則徙之入/多則徙之出</span>非計其室</span><br/>
+<span class='tline' id='l285' data-llen='7005:7024'>　數以制都邑也故仍從載師及小司徒云</span><br/>
+<span class='tline' id='l286' data-llen='7024:7051'><a onclick="displayPageImage('KR1d0023', 'WYG', '002-16b' );" name="002-16b" class="pb">[002-16b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l287' data-llen='7051:7074'>　計縣都之地則三分去一計甸邱邑之地則不去三</span><br/>
+<span class='tline' id='l288' data-llen='7074:7097'>　之一何也曰此亦定以小司徒經註耳九夫為井方</span><br/>
+<span class='tline' id='l289' data-llen='7097:7120'>　一里四井為邑則方二里四邑為邱則十六井方四</span><br/>
+<span class='tline' id='l290' data-llen='7120:7143'>　里四邱為甸則六十四井方八里本不兼三分之一</span><br/>
+<span class='tline' id='l291' data-llen='7143:7166'>　無可去也四甸為縣則二百五十六井宜方十六里</span><br/>
+<span class='tline' id='l292' data-llen='7166:7189'>　而方二十四縣為都則千有二十四井宜方三十二</span><br/>
+<span class='tline' id='l293' data-llen='7189:7212'>　里而方四十本兼乎三之一不可不去也其或兼或</span><br/>
+<span class='tline' id='l294' data-llen='7212:7235'>　不兼何也曰縣都地大則山陵林麓川澤六者必有</span><br/>
+<span class='tline' id='l295' data-llen='7235:7262'><a onclick="displayPageImage('KR1d0023', 'WYG', '002-17a' );" name="002-17a" class="pb">[002-17a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l296' data-llen='7262:7284'>　所兼甸邱邑地小又皆井田積實數無自而兼也</span><br/>
+<span class='tline' id='l297' data-llen='7284:7307'>　都家之地而三分去一亦必有山澤林麓乎曰然山</span><br/>
+<span class='tline' id='l298' data-llen='7307:7330'>　澤林麓所以資灌溉助食用不可無也且使都家而</span><br/>
+<span class='tline' id='l299' data-llen='7330:7353'>　無之則皆屬諸天子而鄉遂公邑之田所以供祿而</span><br/>
+<span class='tline' id='l300' data-llen='7353:7376'>　給用者不亦有所不足哉然則邍師辨地之名物之</span><br/>
+<span class='tline' id='l301' data-llen='7376:7399'>　可以封邑者何但及邱陵墳衍原隰也曰亦邍師分</span><br/>
+<span class='tline' id='l302' data-llen='7399:7422'>　掌其所辨則然耳若大司徒之制都鄙固兼辨山林</span><br/>
+<span class='tline' id='l303' data-llen='7422:7445'>　川澤之名物也故在王制惟山之名澤之大者不以</span><br/>
+<span class='tline' id='l304' data-llen='7445:7472'><a onclick="displayPageImage('KR1d0023', 'WYG', '002-17b' );" name="002-17b" class="pb">[002-17b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l305' data-llen='7472:7495'>　朌則其他無不朌也所以都家之田亦約止三之二</span><br/>
+<span class='tline' id='l306' data-llen='7495:7518'>　也有徵乎曰周頌云駿發爾私終三十里吳氏澄以</span><br/>
+<span class='tline' id='l307' data-llen='7518:7546'>　為小都之里數<span class='krp-note'>詳周禮/考註</span>夫小都之里方四十而但云</span><br/>
+<span class='tline' id='l308' data-llen='7546:7569'>　三十則亦止三之二也小都如此則大都與家邑可</span><br/>
+<span class='tline' id='l309' data-llen='7569:7592'>　知矣詩之云亦服爾耕十千維耦何也曰小都之田</span><br/>
+<span class='tline' id='l310' data-llen='7592:7615'>　四千六百有八夫每夫耕者一耦當九千二百一十</span><br/>
+<span class='tline' id='l311' data-llen='7615:7638'>　六人云十千者猶三分方四十里之二當三十二里</span><br/>
+<span class='tline' id='l312' data-llen='7638:7661'>　而云三十里舉其成數也詩云駿發爾私而小都之</span><br/>
+<span class='tline' id='l313' data-llen='7661:7688'><a onclick="displayPageImage('KR1d0023', 'WYG', '002-18a' );" name="002-18a" class="pb">[002-18a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l314' data-llen='7688:7711'>　田數則兼公得無異乎曰耦以十千則合公私田而</span><br/>
+<span class='tline' id='l315' data-llen='7711:7734'>　大事其耕矣詩之義固上下相成也康成以夏少康</span><br/>
+<span class='tline' id='l316' data-llen='7734:7757'>　在虞田一成而衆一旅為二夫當一夫則封邑亦專</span><br/>
+<span class='tline' id='l317' data-llen='7757:7780'>　計田矣豈夏時畿外之法異於周之畿内乎曰所謂</span><br/>
+<span class='tline' id='l318' data-llen='7780:7803'>　田一成者乃去三之一以為田亦止五百七十六夫</span><br/>
+<span class='tline' id='l319' data-llen='7803:7826'>　或稍贏耳至衆有五百人蓋其田多不易而家受一</span><br/>
+<span class='tline' id='l320' data-llen='7826:7849'>　夫者多也小雅云倬彼甫田歳取十千傳謂一成九</span><br/>
+<span class='tline' id='l321' data-llen='7849:7872'>　萬畝其公田萬畝以為公卿之祿則所封不皆田乎</span><br/>
+<span class='tline' id='l322' data-llen='7872:7899'><a onclick="displayPageImage('KR1d0023', 'WYG', '002-18b' );" name="002-18b" class="pb">[002-18b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l323' data-llen='7899:7926'>　曰李文貞以此為述豳公以來舊俗不係於公卿<span class='krp-note'>詳/詩</span></span><br/>
+<span class='tline' id='l324' data-llen='7926:7952'>　<span class='krp-note'>所/</span>則甫田非采地乃豳公之所闢適一成無山麓川</span><br/>
+<span class='tline' id='l325' data-llen='7952:7975'>　澤又皆不易故公田有十千也由數事推之則地之</span><br/>
+<span class='tline' id='l326' data-llen='7975:7998'>　無山麓川澤者雖介在都家亦必但為公邑而不為</span><br/>
+<span class='tline' id='l327' data-llen='7998:8004'>　采邑矣</span><br/>
+<span class='tline' id='l328' data-llen='8004:8027'>　都與家之地果皆有三等乎曰不易之地家百畮一</span><br/>
+<span class='tline' id='l329' data-llen='8027:8050'>　易之地家二百畮再易之地家三百畮大司徒謂凡</span><br/>
+<span class='tline' id='l330' data-llen='8050:8073'>　都鄙之受田者也註云都鄙謂王子弟公卿大夫采</span><br/>
+<span class='tline' id='l331' data-llen='8073:8100'><a onclick="displayPageImage('KR1d0023', 'WYG', '002-19a' );" name="002-19a" class="pb">[002-19a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l332' data-llen='8100:8123'>　地是都家之地皆三等固有明文矣縣師云凡造都</span><br/>
+<span class='tline' id='l333' data-llen='8123:8146'>　邑量其地辨其物而制其域邑者家邑物主易不易</span><br/>
+<span class='tline' id='l334' data-llen='8146:8175'>　而言<span class='krp-note'>本訂義黄/氏度說</span>則又家有三等地之徵也邦國之都</span><br/>
+<span class='tline' id='l335' data-llen='8175:8198'>　家其地亦如畿内乎曰縣師兼掌邦國之地域則所</span><br/>
+<span class='tline' id='l336' data-llen='8198:8227'>　謂凡造都邑者通乎畿外<span class='krp-note'>本訂義王/昭禹説</span>而其地亦各有</span><br/>
+<span class='tline' id='l337' data-llen='8227:8255'>　三等矣故康成謂齊國下大夫之邑三百家<span class='krp-note'>詳坊/記疏</span>蓋</span><br/>
+<span class='tline' id='l338' data-llen='8255:8278'>　方一成而去三之一又通三等六百夫而皆以二當</span><br/>
+<span class='tline' id='l339' data-llen='8278:8310'>　一也<span class='krp-note'>夲易訟卦疏三百/六百皆舉成數</span>凡地之三等亦相為贏縮乎</span><br/>
+<span class='tline' id='l340' data-llen='8310:8337'><a onclick="displayPageImage('KR1d0023', 'WYG', '002-19b' );" name="002-19b" class="pb">[002-19b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l341' data-llen='8337:8360'>　曰縣師旣辨其物贏縮宜不相逺若商子謂方百里</span><br/>
+<span class='tline' id='l342' data-llen='8360:8394'>　而惡田處十二良田處十四<span class='krp-note'>見來/民篇</span>其大較也<span class='krp-note'>良田即/不易一</span></span><br/>
+<span class='tline' id='l343' data-llen='8394:8434'>　<span class='krp-note'>易者惡田即再易者較通為二當一/之率則良田贏十一惡田縮十一也</span>然夏少康在虞</span><br/>
+<span class='tline' id='l344' data-llen='8434:8461'>　田一成而衆一旅殆又不易之等獨贏也<span class='krp-note'>詳見/前</span>則周</span><br/>
+<span class='tline' id='l345' data-llen='8461:8474'>　之所封宜亦有如是者矣</span><br/>
+<span class='tline' id='l346' data-llen='8474:8497'>　加田見司勲謂田加於賞地也采地而亦有加田乎</span><br/>
+<span class='tline' id='l347' data-llen='8497:8520'>　曰晉語云官宰食加乃統言凡益邑者家臣之所食</span><br/>
+<span class='tline' id='l348' data-llen='8520:8543'>　則采地亦有加也庶邦如是畿内可知矣其所加里</span><br/>
+<span class='tline' id='l349' data-llen='8543:8570'><a onclick="displayPageImage('KR1d0023', 'WYG', '002-20a' );" name="002-20a" class="pb">[002-20a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l350' data-llen='8570:8593'>　數何以定之曰王制畿内國不過百里乃殷周所同</span><br/>
+<span class='tline' id='l351' data-llen='8593:8639'>　<span class='krp-note'>漢書刑法志謂百里為采地之大者專就殷周言不/及夏蓋夏時采地在畿外侯服也詳胡氏渭禹貢錐</span></span><br/>
+<span class='tline' id='l352' data-llen='8639:8665'>　<span class='krp-note'>指/</span>故八十里者以百里為極等而下之則四十里者</span><br/>
+<span class='tline' id='l353' data-llen='8665:8688'>　極於五十里二十里者極於二十五里皆八分采地</span><br/>
+<span class='tline' id='l354' data-llen='8688:8711'>　之邊數以其一為旁加之數蓋古法而存於小司徒</span><br/>
+<span class='tline' id='l355' data-llen='8711:8734'>　註者也註雖不及加田然百里而止為四都則所餘</span><br/>
+<span class='tline' id='l356' data-llen='8734:8757'>　三千六百井固足包加田於其間下焉者亦如是耳</span><br/>
+<span class='tline' id='l357' data-llen='8757:8780'>　畿内國之不過百里何也曰過百里則不足於封矣</span><br/>
+<span class='tline' id='l358' data-llen='8780:8807'><a onclick="displayPageImage('KR1d0023', 'WYG', '002-20b' );" name="002-20b" class="pb">[002-20b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l359' data-llen='8807:8830'>　古之百里當今幾何里曰五十五里有二十二步强</span><br/>
+<span class='tline' id='l360' data-llen='8830:8866'>　蓋古者三百步為里<span class='krp-note'>見穀梁春秋宣十五年傳孔/子家語大戴禮記王言篇</span>今</span><br/>
+<span class='tline' id='l361' data-llen='8866:8905'>　三百六十步為里<span class='krp-note'>三百六十歩為里見唐李氏翺平/賦書宋如唐見馬氏文獻通考王</span></span><br/>
+<span class='tline' id='l362' data-llen='8905:8947'>　<span class='krp-note'>禮第十二卷元以二百四十步為里見陶宗/儀輟耕錄明如宋見洪武正韻今亦仍之</span>大於古</span><br/>
+<span class='tline' id='l363' data-llen='8947:8980'>　六十步古一步六尺<span class='krp-note'>從小司徒註所引司/馬法及漢食貨志</span>今一步五</span><br/>
+<span class='tline' id='l364' data-llen='8980:9026'>　尺<span class='krp-note'>一步五尺見唐杜氏通典刑類甲兵篇之守拒法/宋迄明沿之  國朝以五尺五寸為步見王貽上</span></span><br/>
+<span class='tline' id='l365' data-llen='9026:9072'>　<span class='krp-note'>居易錄所載孔氏尚任周尺考今仍以五尺為步凡/歴代步弓尺長短不一今步之尺乃乾隆元年工部</span></span><br/>
+<span class='tline' id='l366' data-llen='9072:9104'>　<span class='krp-note'>所重頒當今裁衣/尺之中者九寸</span>而古尺較今尺止七寸四分今尺</span><br/>
+<span class='tline' id='l367' data-llen='9104:9131'><a onclick="displayPageImage('KR1d0023', 'WYG', '002-21a' );" name="002-21a" class="pb">[002-21a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l368' data-llen='9131:9154'>　較古尺乃一尺三寸五分古步較今步止四尺四寸</span><br/>
+<span class='tline' id='l369' data-llen='9154:9177'>　四分今步較古步乃一步有七寸五分故今之三百</span><br/>
+<span class='tline' id='l370' data-llen='9177:9200'>　六十步當古五百四十五步强百之為五萬四千五</span><br/>
+<span class='tline' id='l371' data-llen='9200:9223'>　百有四步强其三萬步為古之百里以五百四十五</span><br/>
+<span class='tline' id='l372' data-llen='9223:9246'>　步强除之則得五十五里有二十二步强也以所得</span><br/>
+<span class='tline' id='l373' data-llen='9246:9269'>　數開方之其積有幾曰三千有二十九里强也凡旁</span><br/>
+<span class='tline' id='l374' data-llen='9269:9292'>　加算法多有奇零其與之地也若何曰與之地非盡</span><br/>
+<span class='tline' id='l375' data-llen='9292:9315'>　環其都邑必有但足其加之之數者若小都别以九</span><br/>
+<span class='tline' id='l376' data-llen='9315:9342'><a onclick="displayPageImage('KR1d0023', 'WYG', '002-21b' );" name="002-21b" class="pb">[002-21b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l377' data-llen='9342:9373'>　成家邑别以二成一邱則已足而整也<span class='krp-note'>九成即方五/里者三十六</span></span><br/>
+<span class='tline' id='l378' data-llen='9373:9408'>　<span class='krp-note'>之整數二成一邱即方二/里半者三十六之整數</span>所加無國征何也曰不以</span><br/>
+<span class='tline' id='l379' data-llen='9408:9437'>　田税四之一入於王也<span class='krp-note'>入税法/詳下卷</span>司勲註云所以厚恩</span><br/>
+<span class='tline' id='l380' data-llen='9437:9460'>　是也都邑而未加田也則宰何食曰分其粟與之而</span><br/>
+<span class='tline' id='l381' data-llen='9460:9483'>　已加田之不及上士何也曰公卿大夫之田亦必有</span><br/>
+<span class='tline' id='l382' data-llen='9483:9506'>　大功而後加上士則爵卑任輕雖有功不大故未嘗</span><br/>
+<span class='tline' id='l383' data-llen='9506:9529'>　有采地也何況加田若受賞地與出封為附庸則有</span><br/>
+<span class='tline' id='l384' data-llen='9529:9573'>　之矣<span class='krp-note'>司勲云凡賞無常輕重眂功白虎通考黜篇云/元士有功者為附庸通典云天子元士出封為</span></span><br/>
+<span class='tline' id='l385' data-llen='9573:9600'><a onclick="displayPageImage('KR1d0023', 'WYG', '002-22a' );" name="002-22a" class="pb">[002-22a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l386' data-llen='9600:9642'>　<span class='krp-note'>附庸加一命為四命但不進爵猶稱名與士同/故春秋傳云附庸之君名也詳職官類秩品篇</span></span><br/>
+<span class='tline' id='l387' data-llen='9642:9650'>　　附古尺圖</span><br/>
+<span class='tline' id='l388' data-llen='9650:9653'>　</span><br/>
+<span class='tline' id='l389' data-llen='9653:9656'>　</span><br/>
+<span class='tline' id='l390' data-llen='9656:9679'>　　右圖摹宋秦熺鐘鼎欵識册所載册又載尺底篆</span><br/>
+<span class='tline' id='l391' data-llen='9679:9702'>　　文銘云一周尺漢志劉歆銅尺後漢建武銅尺晉</span><br/>
+<span class='tline' id='l392' data-llen='9702:9725'>　　前尺並同按宋高若訥依隋志定十五等尺第一</span><br/>
+<span class='tline' id='l393' data-llen='9725:9754'>　　為周尺即此也<span class='krp-note'>詳蔡氏律/呂新書</span>盖此於後人所定周尺</span><br/>
+<span class='tline' id='l394' data-llen='9754:9781'><a onclick="displayPageImage('KR1d0023', 'WYG', '002-22b' );" name="002-22b" class="pb">[002-22b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l395' data-llen='9781:9793'>　　中為近古且最著云</span><br/>
+<span class='tline' id='l396' data-llen='9793:9816'>　上公之地方五百里侯方四百里伯方三百里子方</span><br/>
+<span class='tline' id='l397' data-llen='9816:9839'>　二百里男方百里見大司徒之經而孟子云公侯皆</span><br/>
+<span class='tline' id='l398' data-llen='9839:9862'>　方百里伯七十里子男五十里大都之地方八十里</span><br/>
+<span class='tline' id='l399' data-llen='9862:9885'>　加為百里小都方四十里加為五十里家邑方二十</span><br/>
+<span class='tline' id='l400' data-llen='9885:9908'>　里加為二十五里本載師及小司徒之經注而孟子</span><br/>
+<span class='tline' id='l401' data-llen='9908:9931'>　云天子之卿受地視侯大夫受地視伯元士受地視</span><br/>
+<span class='tline' id='l402' data-llen='9931:9954'>　子男其說並殊於周官何也曰孟子因籍去而僅聞</span><br/>
+<span class='tline' id='l403' data-llen='9954:9981'><a onclick="displayPageImage('KR1d0023', 'WYG', '002-23a' );" name="002-23a" class="pb">[002-23a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l404' data-llen='9981:10004'>　其略此所云並周所沿夏商之制耳考諸周官畿内</span><br/>
+<span class='tline' id='l405' data-llen='10004:10027'>　外皆無七十里之國王制有七十里之國註疏以為</span><br/>
+<span class='tline' id='l406' data-llen='10027:10058'>　夏殷之制<span class='krp-note'>畿内有國始/於殷詳見前</span>而湯國七十里即見孟子書</span><br/>
+<span class='tline' id='l407' data-llen='10058:10081'>　由是以觀而其他之沿於夏商亦明矣王制謂天子</span><br/>
+<span class='tline' id='l408' data-llen='10081:10104'>　之三公之田視公侯卿視伯大夫視子男元士視附</span><br/>
+<span class='tline' id='l409' data-llen='10104:10127'>　庸與孟子之説又殊何也曰王制蓋别有所据然要</span><br/>
+<span class='tline' id='l410' data-llen='10127:10150'>　非周所定制也其曰田者即孟子之地篇末云方百</span><br/>
+<span class='tline' id='l411' data-llen='10150:10173'>　里者為田九十億畝則未去三之一而已稱田矣或</span><br/>
+<span class='tline' id='l412' data-llen='10173:10200'><a onclick="displayPageImage('KR1d0023', 'WYG', '002-23b' );" name="002-23b" class="pb">[002-23b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l413' data-llen='10200:10223'>　以為皆實田誤也周公於畿内外之國既各别差其</span><br/>
+<span class='tline' id='l414' data-llen='10223:10246'>　里數而尚存夏商之制何也曰周制初定豈得盡行</span><br/>
+<span class='tline' id='l415' data-llen='10246:10269'>　苟前代諸國無故而増減其地勢必煩擾不安故且</span><br/>
+<span class='tline' id='l416' data-llen='10269:10301'>　因之即武王分土惟三之義也<span class='krp-note'>詳朱子語類周/禮小戴禮二卷</span>周公</span><br/>
+<span class='tline' id='l417' data-llen='10301:10324'>　别差諸國之里數畿内視夏商則減畿外則大増何</span><br/>
+<span class='tline' id='l418' data-llen='10324:10347'>　也曰畿外諸國夏商以來漸相吞併廓地已大周公</span><br/>
+<span class='tline' id='l419' data-llen='10347:10370'>　因更定其制以安其無辜者而又以待封大功徳之</span><br/>
+<span class='tline' id='l420' data-llen='10370:10399'>　臣俾錯處其間以藩衞王室<span class='krp-note'>亦詳朱/子語類</span>故大増若畿内</span><br/>
+<span class='tline' id='l421' data-llen='10399:10426'><a onclick="displayPageImage('KR1d0023', 'WYG', '002-24a' );" name="002-24a" class="pb">[002-24a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l422' data-llen='10426:10458'>　諸國本無權力又象賢而世守者少<span class='krp-note'>詳王制註疏及/訂義陳君舉說</span></span><br/>
+<span class='tline' id='l423' data-llen='10458:10481'>　周公因稍更焉以就井田以四上下之差故減也然</span><br/>
+<span class='tline' id='l424' data-llen='10481:10504'>　則孟子於畿外諸國謂齊魯俱封百里而以今魯方</span><br/>
+<span class='tline' id='l425' data-llen='10504:10527'>　百里者五為當損何也曰此孟子即所傳聞以論當</span><br/>
+<span class='tline' id='l426' data-llen='10527:10561'>　時之地域意在諷止其戰伐耳<span class='krp-note'>左傳襄二十五年載/子産責晉所云列國</span></span><br/>
+<span class='tline' id='l427' data-llen='10561:10603'>　<span class='krp-note'>一同自是以衰者與孟子相類孔疏亦謂指/夏殷時朱子謂是應急之説非至論是也</span>若論封</span><br/>
+<span class='tline' id='l428' data-llen='10603:10631'>　疆之實則必如晏子春秋謂太公受地五百里<span class='krp-note'>見内/篇三</span></span><br/>
+<span class='tline' id='l429' data-llen='10631:10677'>　<span class='krp-note'>蓋太公實以太師加命受上公之地故史記世家亦/特謂齊為大國其後嗣稱侯不稱公蓋更賜侯爵也</span></span><br/>
+<span class='tline' id='l430' data-llen='10677:10704'><a onclick="displayPageImage('KR1d0023', 'WYG', '002-24b' );" name="002-24b" class="pb">[002-24b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l431' data-llen='10704:10734'>　史記謂伯禽康叔各四百里者<span class='krp-note'>見漢興以來/諸侯年表</span>乃與周</span><br/>
+<span class='tline' id='l432' data-llen='10734:10757'>　官之制合也後人好以孟子駁周官否則强傅㑹之</span><br/>
+<span class='tline' id='l433' data-llen='10757:10767'>　皆未及深考者也</span><br/>
+<span class='tline' id='l434' data-llen='10767:10790'>　大司徒所云公之地方五百里侯方四百里伯方三</span><br/>
+<span class='tline' id='l435' data-llen='10790:10813'>　百里子方二百里男方百里其封疆也所云其食者</span><br/>
+<span class='tline' id='l436' data-llen='10813:10836'>　半食者參之一食者四之一鄭司農謂公侯等所食</span><br/>
+<span class='tline' id='l437' data-llen='10836:10859'>　租稅則田也如其説田之多者不過地之半今以三</span><br/>
+<span class='tline' id='l438' data-llen='10859:10882'>　分去一之外皆為田則其説果不可從歟曰然三分</span><br/>
+<span class='tline' id='l439' data-llen='10882:10909'><a onclick="displayPageImage('KR1d0023', 'WYG', '002-25a' );" name="002-25a" class="pb">[002-25a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l440' data-llen='10909:10932'>　去一見於王制見於漢書刑法志乃三代畿内外所</span><br/>
+<span class='tline' id='l441' data-llen='10932:10967'>　通行食貨志述魏李悝之言<span class='krp-note'>悝言地方百里山澤邑/居三分去一為田六百</span></span><br/>
+<span class='tline' id='l442' data-llen='10967:10994'>　<span class='krp-note'>萬/畝</span>且在戰國則井田未變此制亦未變豈周家方行</span><br/>
+<span class='tline' id='l443' data-llen='10994:11017'>　井田而已紛更也若謂即食者而去其三之一則田</span><br/>
+<span class='tline' id='l444' data-llen='11017:11040'>　且益寡何大其封疆如是而男更無以為國謂大其</span><br/>
+<span class='tline' id='l445' data-llen='11040:11063'>　封疆以包附庸則附庸於諸侯非牧正帥長及有徳</span><br/>
+<span class='tline' id='l446' data-llen='11063:11091'>　者未之輕錫而所錫亦在封疆之外<span class='krp-note'>本康/成註</span>故知公侯</span><br/>
+<span class='tline' id='l447' data-llen='11091:11114'>　等之田必皆三分之二也然則經所云食者必從康</span><br/>
+<span class='tline' id='l448' data-llen='11114:11141'><a onclick="displayPageImage('KR1d0023', 'WYG', '002-25b' );" name="002-25b" class="pb">[002-25b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l449' data-llen='11141:11164'>　成地貢輕重之説歟曰地貢者市美物以貢王室特</span><br/>
+<span class='tline' id='l450' data-llen='11164:11187'>　食者之一耳食者則并留穀五等國以待王之用所</span><br/>
+<span class='tline' id='l451' data-llen='11187:11221'>　包甚廣<span class='krp-note'>本東萊呂氏説詳馬/氏通考田賦第三卷</span>凡王行及使於諸侯及</span><br/>
+<span class='tline' id='l452' data-llen='11221:11244'>　諸侯見王使於王往來過邦及王所以救邦國之食</span><br/>
+<span class='tline' id='l453' data-llen='11244:11271'>　皆在其中<span class='krp-note'>詳下/卷</span>故不曰貢而曰食食讀去聲如孟子</span><br/>
+<span class='tline' id='l454' data-llen='11271:11294'>　食人之食蓋大司馬上地食者參之二云云自地之</span><br/>
+<span class='tline' id='l455' data-llen='11294:11317'>　可食者言此則自有其地者之食人言也三分去一</span><br/>
+<span class='tline' id='l456' data-llen='11317:11340'>　之文周官何以無之曰此司空之事當見於冬官冬</span><br/>
+<span class='tline' id='l457' data-llen='11340:11367'><a onclick="displayPageImage('KR1d0023', 'WYG', '002-26a' );" name="002-26a" class="pb">[002-26a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l458' data-llen='11367:11376'>　官亡故無文也</span><br/>
+<span class='tline' id='l459' data-llen='11376:11399'>　邦國之成之有加何以知之曰成者公侯伯以封下</span><br/>
+<span class='tline' id='l460' data-llen='11399:11426'>　大夫子男以封卿者也<span class='krp-note'>詳下/卷</span>及其有大功而加田亦</span><br/>
+<span class='tline' id='l461' data-llen='11426:11449'>　法之常耳但成之旁加為方一里四分里之一者三</span><br/>
+<span class='tline' id='l462' data-llen='11449:11470'>　十六較縣益奇零尤必即便近之整地與之矣</span><br/>
+<span class='tline' id='l463' data-llen='11470:11493'>　凡通不易一易再易之等固約為二夫當一夫矣而</span><br/>
+<span class='tline' id='l464' data-llen='11493:11516'>　有或易或不易者介其間則若之何曰或易或不易</span><br/>
+<span class='tline' id='l465' data-llen='11516:11539'>　者與全不易者皆一夫二十五畝而當一夫并一易</span><br/>
+<span class='tline' id='l466' data-llen='11539:11566'><a onclick="displayPageImage('KR1d0023', 'WYG', '002-26b' );" name="002-26b" class="pb">[002-26b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l467' data-llen='11566:11589'>　再易者為六夫二十五畝而當三夫四其所并又二</span><br/>
+<span class='tline' id='l468' data-llen='11589:11612'>　十五夫而當十二夫也一夫二十五畝而當一夫何</span><br/>
+<span class='tline' id='l469' data-llen='11612:11635'>　也曰不易之地家百畝或易或不易之地家百五十</span><br/>
+<span class='tline' id='l470' data-llen='11635:11658'>　畝通其等而約之則家百二十五畝也六夫二十五</span><br/>
+<span class='tline' id='l471' data-llen='11658:11681'>　畝而當三夫較二夫當一夫之率畿内宜減十一萬</span><br/>
+<span class='tline' id='l472' data-llen='11681:11704'>　五千二百夫則公田宜減萬二千八百夫曷為不計</span><br/>
+<span class='tline' id='l473' data-llen='11704:11727'>　其所減而專用二當一之率也曰二當一乃槩以三</span><br/>
+<span class='tline' id='l474' data-llen='11727:11750'>　等六百畝之整數折半通算便於例推故專用其率</span><br/>
+<span class='tline' id='l475' data-llen='11750:11777'><a onclick="displayPageImage('KR1d0023', 'WYG', '002-27a' );" name="002-27a" class="pb">[002-27a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l476' data-llen='11777:11800'>　若公田所減在三十二萬夫中僅去二十五之一於</span><br/>
+<span class='tline' id='l477' data-llen='11800:11823'>　國家食用未甚贏縮且嵗種之夫數有時而増則公</span><br/>
+<span class='tline' id='l478' data-llen='11823:11836'>　田亦不果減是可不計也</span><br/>
+<span class='tline' id='l479' data-llen='11836:11859'>　公田一夫去二十畝為廬舎漢書食貨志之說也於</span><br/>
+<span class='tline' id='l480' data-llen='11859:11882'>　經有徵乎曰中田有廬詩固言之矣孟子云八家皆</span><br/>
+<span class='tline' id='l481' data-llen='11882:11905'>　私百畝同養公田漢志云八家各受私田百畝公田</span><br/>
+<span class='tline' id='l482' data-llen='11905:11928'>　十畝二説其小異乎曰否孟子略而漢志詳也至各</span><br/>
+<span class='tline' id='l483' data-llen='11928:11951'>　受與同養則分領而後助治事亦相因耳八十畝之</span><br/>
+<span class='tline' id='l484' data-llen='11951:11978'><a onclick="displayPageImage('KR1d0023', 'WYG', '002-27b' );" name="002-27b" class="pb">[002-27b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l485' data-llen='11978:12012'>　稅入幾何曰九穀以粟為主<span class='krp-note'>見倉/人註</span>十斗曰斛<span class='krp-note'>見聘禮/及漢律</span></span><br/>
+<span class='tline' id='l486' data-llen='12012:12039'>　<span class='krp-note'>歴/志</span>在中地歲常得粟百六十斛也何以徵之曰魏中</span><br/>
+<span class='tline' id='l487' data-llen='12039:12067'>　地也<span class='krp-note'>見詩甫/田疏</span>漢食貨志述魏之李悝云治田百畝歳</span><br/>
+<span class='tline' id='l488' data-llen='12067:12102'>　收畝一石半為粟百五十石<span class='krp-note'>按周官中地家六人中/歳人月食食三鬴六斗</span></span><br/>
+<span class='tline' id='l489' data-llen='12102:12148'>　<span class='krp-note'>四升曰鬴每月食一石九斗二升歳食二十三石有/四升六人歳凡食百三十八石二斗四升則以百五</span></span><br/>
+<span class='tline' id='l490' data-llen='12148:12190'>　<span class='krp-note'>十石食六人尚餘十二石弱悝復言供五人/不足者兼賦税及凡費用計之乃當時法</span>上孰其</span><br/>
+<span class='tline' id='l491' data-llen='12190:12225'>　收自四中孰自三下孰自倍<span class='krp-note'>張晏註云大孰收六百/石中孰四百五十石下</span></span><br/>
+<span class='tline' id='l492' data-llen='12225:12253'>　<span class='krp-note'>孰三/百石</span>小饑則收百石中饑七十石大饑三十石若取</span><br/>
+<span class='tline' id='l493' data-llen='12253:12280'><a onclick="displayPageImage('KR1d0023', 'WYG', '002-28a' );" name="002-28a" class="pb">[002-28a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l494' data-llen='12280:12303'>　上孰補大饑中孰補中饑下孰補小饑其所補之餘</span><br/>
+<span class='tline' id='l495' data-llen='12303:12336'>　復補無年<span class='krp-note'>如春秋莊二十八/年大無麥禾之類</span>及中歳之不足歳常得</span><br/>
+<span class='tline' id='l496' data-llen='12336:12370'>　二百石斛亦稱石<span class='krp-note'>宋以前皆然近代則/五斗為斛兩斛為石</span>八十畝故減</span><br/>
+<span class='tline' id='l497' data-llen='12370:12393'>　四十斛也至上下地歳入之常則加減七者之所收</span><br/>
+<span class='tline' id='l498' data-llen='12393:12428'>　以通其率而數亦無不得矣<span class='krp-note'>管子治國篇云常山之/東河汝之間中年畝二</span></span><br/>
+<span class='tline' id='l499' data-llen='12428:12474'>　<span class='krp-note'>石一夫為粟二百石按戰國䇿常山之東為趙河汝/之間即魏中年畝二石乃其上地兼饑孰通計之歳</span></span><br/>
+<span class='tline' id='l500' data-llen='12474:12516'>　<span class='krp-note'>常得三百石也禁藏篇云歳兼美惡畝收一/石則一夫為粟止百石蓋又就下地而言</span>粟與米</span><br/>
+<span class='tline' id='l501' data-llen='12516:12539'>　同乎曰對文則粟有甲米無甲粟一斛為米五斗禹</span><br/>
+<span class='tline' id='l502' data-llen='12539:12566'><a onclick="displayPageImage('KR1d0023', 'WYG', '002-28b' );" name="002-28b" class="pb">[002-28b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l503' data-llen='12566:12589'>　貢之四百里粟五百里米是也散文粟即為米故食</span><br/>
+<span class='tline' id='l504' data-llen='12589:12612'>　貨志以百畝之歳收為粟百五十石也苟有甲則畝</span><br/>
+<span class='tline' id='l505' data-llen='12612:12635'>　百而米止七十五石尚得謂中地中歳哉百六十斛</span><br/>
+<span class='tline' id='l506' data-llen='12635:12663'>　當今幾何石曰三十二石蓋漢之量與周同<span class='krp-note'>詳律吕/新書</span></span><br/>
+<span class='tline' id='l507' data-llen='12663:12686'>　而漢量有容二斗七升者當今五升四合有容六升</span><br/>
+<span class='tline' id='l508' data-llen='12686:12716'>　者當今一升二合是古之十當今之二也<span class='krp-note'>本閻氏若/璩孟子生</span></span><br/>
+<span class='tline' id='l509' data-llen='12716:12749'>　<span class='krp-note'>卒年月考容六升/者彤親見而較之</span>古之百畝當今幾何畝曰古者百</span><br/>
+<span class='tline' id='l510' data-llen='12749:12772'>　步為畝自漢至今常以二百四十步為畝大於古百</span><br/>
+<span class='tline' id='l511' data-llen='12772:12799'><a onclick="displayPageImage('KR1d0023', 'WYG', '002-29a' );" name="002-29a" class="pb">[002-29a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l512' data-llen='12799:12842'>　四十步<span class='krp-note'>大畝始於漢見桓寛鹽鐡論顧氏玉篇謂始/秦孝公先師何學士云意秦但行之西陲漢</span></span><br/>
+<span class='tline' id='l513' data-llen='12842:12871'>　<span class='krp-note'>乃徧於/天下也</span>古步六尺今步五尺漢之尺與古同今之尺</span><br/>
+<span class='tline' id='l514' data-llen='12871:12894'>　以一尺當古一尺三寸五分五尺當古六尺七寸五</span><br/>
+<span class='tline' id='l515' data-llen='12894:12917'>　分故今二百四十步當古三百六十四步强百之為</span><br/>
+<span class='tline' id='l516' data-llen='12917:12940'>　三萬六千四百有六十四步其萬步為古之百畝以</span><br/>
+<span class='tline' id='l517' data-llen='12940:12963'>　三百六十四步强除之得二十七畝强則所當今之</span><br/>
+<span class='tline' id='l518' data-llen='12963:13006'>　畝數也<span class='krp-note'>朱子語類周禮卷云古百步為畆今二百四/十步為畝百畆當今四十一畝彤按宋步弓</span></span><br/>
+<span class='tline' id='l519' data-llen='13006:13049'>　<span class='krp-note'>之長短略同於周故但每畆加百四十步計/之也四十一畝下不云三分畆之二舉成數</span>粟之外</span><br/>
+<span class='tline' id='l520' data-llen='13049:13076'><a onclick="displayPageImage('KR1d0023', 'WYG', '002-29b' );" name="002-29b" class="pb">[002-29b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l521' data-llen='13076:13099'>　有入乎曰有閭師縣師所徵草木鳥獸布帛之貢也</span><br/>
+<span class='tline' id='l522' data-llen='13099:13122'>　草木布帛皆出邑宅田廬之所樹鳥獸則豕犬雞畜</span><br/>
+<span class='tline' id='l523' data-llen='13122:13151'>　於宅廬馬牛羊畜於休不耕之地<span class='krp-note'>詳見彤周/禮小疏</span>無一不</span><br/>
+<span class='tline' id='l524' data-llen='13151:13174'>　闗涉公田而邑宅復與田廬相表裏故皆當有入也</span><br/>
+<span class='tline' id='l525' data-llen='13174:13197'>　若不易之地歳耕種而不事馬牛羊之畜者若之何</span><br/>
+<span class='tline' id='l526' data-llen='13197:13220'>　曰地之易者穀入少而有所休者以事畜則所貢益</span><br/>
+<span class='tline' id='l527' data-llen='13220:13243'>　以馬牛羊不易之地無所休者以事畜則無馬牛羊</span><br/>
+<span class='tline' id='l528' data-llen='13243:13266'>　之貢而穀入多矣易物而計其直蓋亦無不均也穀</span><br/>
+<span class='tline' id='l529' data-llen='13266:13293'><a onclick="displayPageImage('KR1d0023', 'WYG', '002-30a' );" name="002-30a" class="pb">[002-30a] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l530' data-llen='13293:13316'>　之入十取其一也草木烏獸布帛之入亦十取其一</span><br/>
+<span class='tline' id='l531' data-llen='13316:13339'>　乎曰草木布帛與鳥獸之豕犬雞即載師園廛之征</span><br/>
+<span class='tline' id='l532' data-llen='13339:13362'>　當二十而取一馬牛羊即載師逺郊牧地之征當二</span><br/>
+<span class='tline' id='l533' data-llen='13362:13403'>　十而取三也<span class='krp-note'>載師以牧田任逺郊之地則畜牧自逺/郊始其所征重於農田者人力少而利</span></span><br/>
+<span class='tline' id='l534' data-llen='13403:13418'>　<span class='krp-note'>厚也餘詳彤/釋地征篇</span></span><br/>
+<span class='tline' id='l535' data-llen='13418:13421'>　</span><br/>
+<span class='tline' id='l536' data-llen='13421:13424'>　</span><br/>
+<span class='tline' id='l537' data-llen='13424:13427'>　</span><br/>
+<span class='tline' id='l538' data-llen='13427:13454'><a onclick="displayPageImage('KR1d0023', 'WYG', '002-30b' );" name="002-30b" class="pb">[002-30b] <img width="20"  src="/static/img/kanseki-5.png"/></a></span><br/>
+<span class='tline' id='l539' data-llen='13454:13457'>　</span><br/>
+<span class='tline' id='l540' data-llen='13457:13460'>　</span><br/>
+<span class='tline' id='l541' data-llen='13460:13463'>　</span><br/>
+<span class='tline' id='l542' data-llen='13463:13466'>　</span><br/>
+<span class='tline' id='l543' data-llen='13466:13469'>　</span><br/>
+<span class='tline' id='l544' data-llen='13469:13472'>　</span><br/>
+<span class='tline' id='l545' data-llen='13472:13475'>　</span><br/>
+<span class='tline' id='l546' data-llen='13475:13485'>　周官祿田考卷中</span><br/>
+</p>
+<p><br/>
+</p>
+  </div>
