@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3a0110_WYG_019-1a"/>
+欽定四庫全書<lb/>
+御覽經史講義卷十三目録<lb/>
+　　　書經<lb/>
+　　惟天地萬物父母惟人萬物之靈亶聰明作元后<lb/>
+　　　元后作民父母<lb/>
+　　　　　　　　　　　　給事中<hi>臣</hi>劉方藹<lb/>
+　　天乃錫禹洪範九疇彛倫攸叙<lb/>
+　　　　　　　　　　　監察御史<hi>臣</hi>包祚永<lb/>
+<pb n="KR3a0110_WYG_019-1b"/>
+　　初一曰五行次二曰敬用五事次三曰農用八政<lb/>
+　　　次四曰協用五紀次五曰建用皇極次六曰乂<lb/>
+　　　用三徳次七曰明用稽疑次八曰念用庶徵次<lb/>
+　　　九曰嚮用五福威用六極<lb/>
+　　　　　　　　　　　　　編修<hi>臣</hi>蔡　新<lb/>
+　　一五行一曰水二曰火三曰木四曰金五曰土水<lb/>
+　　　曰潤下火曰炎上木曰曲直金曰從革土爰稼<lb/>
+　　　穡<lb/>
+<pb n="KR3a0110_WYG_019-2a"/>
+　　　　　　　　　　　　　編修<hi>臣</hi>儲麟趾<lb/>
+　　敬用五事<lb/>
+　　　　　　　　　　　侍講學士<hi>臣</hi>吳履泰<lb/>
+　　二五事一曰貌二曰言三曰視四曰聽五曰思貌<lb/>
+　　　曰恭言曰從視曰明聽曰聰思曰睿恭作肅從<lb/>
+　　　作乂明作哲聰作謀睿作聖<lb/>
+　　　　　　　　　　　　　檢討<hi>臣</hi>趙徳昌<lb/>
+　　思曰睿睿作聖<lb/>
+<pb n="KR3a0110_WYG_019-2b"/>
+　　　　　　　　　　　　　檢討<hi>臣</hi>萬松齡<lb/>
+　　五皇極皇建其有極歛時五福用敷錫厥庶民惟<lb/>
+　　　時厥庶民于汝極錫汝保極<lb/>
+　　　　　　　　　　　　給事中<hi>臣</hi>程鍾彦<lb/>
+　　　　　　　　　　　　　編修<hi>臣</hi>竇光鼐<lb/>
+　　歛時五福用敷錫厥庶民<lb/>
+　　　　　　　　　　　監察御史<hi>臣</hi>劉方藹<lb/>
+　　皇極之敷言是彛是訓于帝其訓<lb/>
+<pb n="KR3a0110_WYG_019-3a"/>
+　　　　　　　　　　　監察御史<hi>臣</hi>廖必𤦺<lb/>
+　　六三徳一曰正直二曰剛克三曰柔克平康正直<lb/>
+　　　彊弗友剛克燮友柔克沈潛剛克髙明柔克<lb/>
+　　　　　　　　　　　監察御史<hi>臣</hi>萬年茂<lb/>
+　　是之謂大同身其康强子孫其逢吉<lb/>
+　　　　　　　　　　　　　編修<hi>臣</hi>何其睿<lb/>
+　　八庶徵曰雨曰𤾉曰燠曰寒曰風曰時五者來備<lb/>
+　　　各以其叙庶草蕃廡<lb/>
+<pb n="KR3a0110_WYG_019-3b"/>
+　　　　　　　　　　　　　編修<hi>臣</hi>程景伊<lb/>
+　　曰休徵曰肅時雨若曰乂時暘若曰哲時燠若曰<lb/>
+　　　謀時寒若曰聖時風若曰咎徵曰狂恒雨若曰<lb/>
+　　　僭恒𤾉若曰豫恒燠若曰急恒寒若曰蒙恒風<lb/>
+　　　若<lb/>
+　　　　　　　　　　　　給事中<hi>臣</hi>鄒一桂<lb/>
+　　王省惟嵗卿士惟月師尹惟日嵗月日時無易百<lb/>
+　　　榖用成乂用明俊民用章家用平康<lb/>
+<pb n="KR3a0110_WYG_019-4a"/>
+　　　　　　　　　　　　　編修<hi>臣</hi>顧汝修<lb/>
+　　曰王省惟嵗卿士惟月師尹惟日<lb/>
+　　　　　　　　　　　　　編修<hi>臣</hi>儲晉觀<lb/>
+　　　　　　　　　　　　　編修<hi>臣</hi>葉　酉<lb/>
+　　庶民惟星星有好風星有好雨日月之行則有冬<lb/>
+　　　有夏月之從星則以風雨<lb/>
+　　　　　　　　　　　　　編修<hi>臣</hi>劉　綸<lb/>
+　　　　　　　　　　　監察御史<hi>臣</hi>陳大玠<lb/>
+<pb n="KR3a0110_WYG_019-4b"/>
+　　不作無益害有益功乃成不貴異物賤用物民乃<lb/>
+　　　足<lb/>
+　　　　　　　　　　　監察御史<hi>臣</hi>書　昌<lb/>
+　　夙夜罔或不勤不矜細行終累大徳<lb/>
+　　　　　　　　　　　　　侍講<hi>臣</hi>鄂容安<lb/>
+　　若保赤子惟民其康乂<lb/>
+　　　　　　　　　　　侍讀學士<hi>臣</hi>裘曰修<lb/>
+　　惟曰欲至于萬年惟王子子孫孫永保民<lb/>
+<pb n="KR3a0110_WYG_019-5a"/>
+　　　　　　　　　　　監察御史<hi>臣</hi>陶正靖<lb/>
+　　無疆惟休亦無疆惟恤<lb/>
+　　　　　　　　　　　監察御史<hi>臣</hi>書　昌<lb/>
+　　王不敢後用顧畏于民碞<lb/>
+　　　　　　　　　　　　給事中<hi>臣</hi>鍾　衡<lb/>
+　　王敬作所<lb/>
+　　　　　　　　　　　　　編修<hi>臣</hi>白　瀛<lb/>
+　　明作有功惇大成裕<lb/>
+<pb n="KR3a0110_WYG_019-5b"/>
+　　　　　　　　　　　　　編修<hi>臣</hi>沈徳潛<lb/>
+　　　　　　　　　　　　　編修<hi>臣</hi>程景伊<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

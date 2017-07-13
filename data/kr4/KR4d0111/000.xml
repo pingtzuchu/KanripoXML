@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>潏水集十六巻</head>
+    <p>
+<pb n="KR4d0111_WYG_000-1a"/>
+欽定四庫全書　　　　集部三<lb/>
+　潏水集十六巻　　　　　别集類二<hi>宋</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案潏水集十六巻宋李復撰復字履<lb/>
+　　　　中先世家開封祥符以其父官關右遂為長<lb/>
+　　　　安人登元豐二年進士歴官熈河轉運使終<lb/>
+　　　　於中大夫集賢殿修撰其事蹟不見於宋史<lb/>
+　　　　洪邁容齋随筆載其於蔡京邢恕謀用戰艦<lb/>
+<pb n="KR4d0111_WYG_000-1b"/>
+　　　　一事上疏排詆甚為切直而恨史之不能詳<lb/>
+　　　　盡朱子語録亦曰閩人李復<hi>案復非閩人此句或傳冩之誤</hi>
+　　　　及識横渠先生紹聖間為西邊使者博記能<lb/>
+　　　　文今信州有潏水集者即其文也其間有論<lb/>
+　　　　孟子養氣謂動必由理故仰不愧於天俯不<lb/>
+　　　　怍於人無憂無懼其氣豈不充乎舍是則明<lb/>
+　　　　有人非幽有鬼責自歉於中氣為之喪矣此<lb/>
+　　　　語雖踈却得其大㫖近世諸儒之論多似過<lb/>
+<pb n="KR4d0111_WYG_000-2a"/>
+　　　　髙流於老莊而不知不若此説之為得也今觀<lb/>
+　　　　是集如謂揚雄不知道謂井田兵制不可遽言<lb/>
+　　　　復古皆確然中理其他持論亦皆醇正不止<lb/>
+　　　　朱子所稱一條又久居兵間嫻習戎事故所<lb/>
+　　　　上奏議大都侃侃建白深中時弊亦不止洪<lb/>
+　　　　邁所稱二疏至其考證今古貫穿博洽於易<lb/>
+　　　　象算術五行律吕之學無不剖晰精微具有<lb/>
+　　　　本末尤非空談者所可及在宋儒之中可謂<lb/>
+<pb n="KR4d0111_WYG_000-2b"/>
+　　　　有用者矣集本四十巻乾道間嘗刻於饒郡<lb/>
+　　　　即朱子所謂信州本也後散佚無存談宋文<lb/>
+　　　　者多不能舉其名氏今從永樂大典裒輯編<lb/>
+　　　　綴釐為一十六巻著之於録既以發潜徳之<lb/>
+　　　　光且以補史傳之闕畧焉乾隆四十六年九<lb/>
+　　　　月恭校上<lb/>
+　　　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

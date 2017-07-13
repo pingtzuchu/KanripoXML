@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>復古詩集巻六</head> <lb/>
+    <p>
+<pb n="KR4d0587_WYG_006-1a"/>
+欽定四庫全書<lb/>
+　復古詩集巻六<lb/>
+　　　　　　　　　　　　元　楊維楨　撰<lb/>
+　　續奩集<lb/>
+　　　陶元亮賦閒情出<graphic n="KR0591" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0591.png" mimeType="image/png"/>御之辭不害其為處士節<lb/>
+　　　也余賦韓偓續奩亦作娟麗語又何損吾鐵石<lb/>
+　　　心腸也哉法雲道人勸魯直勿作艷歌小辭魯<lb/>
+　　　直曰空中語耳不致坐此墮落惡道余於續奩<lb/>
+<pb n="KR4d0587_WYG_006-1b"/>
+　　　亦曰空中語耳不料為萬口播傳兵火後龍洲<lb/>
+　　　生尚能口記又付之市肆梓而行之因書此以<lb/>
+　　　識吾過時道林法師在座余合手曰若墮惡道<lb/>
+　　　請師懴悔桃花夢叟楊楨氏自序<lb/>
+　　學琴<lb/>
+阿琰胡笳不足傳離鸞别鵠意凄然請郎為洗筝琶耳<lb/>
+不惜為郎彈絶絃<lb/>
+　　學書<lb/>
+<pb n="KR4d0587_WYG_006-2a"/>
+歌徹陽春酒半醺玉尖搦筦蘸香雲新詞未上鴛鴦扇<lb/>
+醉墨先汙蛺蝶裙<lb/>
+　　演歌<lb/>
+鸎鸎舌巧言猶獠字字使君親口教今日金錢初受賞<lb/>
+倚聲同合鳯凰巢<hi>笙名</hi>
+　　習舞<lb/>
+十六天魔教已成背反蓮掌苦嫌生夜深不管俳場歇<lb/>
+尚向燈前蹋影行<lb/>
+<pb n="KR4d0587_WYG_006-2b"/>
+　　上頭<lb/>
+新年攏鬢及笄期雲綰盤龍一把絲揜鏡問人人盡道<lb/>
+南梳北裹總相宜<lb/>
+　　染甲<lb/>
+夜搗守宫金鳯蕋十尖盡換紅鴉觜閒來一曲鼓瑶琴<lb/>
+數㸃桃花汎流水<lb/>
+　　照畫<lb/>
+畫得崔徽巻裏人菱花秋水脱真真只今顔色渾非舊<lb/>
+<pb n="KR4d0587_WYG_006-3a"/>
+燒藥幧頭過一春<lb/>
+　　理繡<lb/>
+㨂得金針出象筒鴛鴦雙㓨扇羅中却嗔昨夜貍奴惡<lb/>
+抓亂金牀五色絨<lb/>
+　　出浴<lb/>
+初訝洗花難抑按終疑沃雪不勝任豈知侍女簾帷外<lb/>
+剩取君王數餅金<lb/>
+　　甘睡<lb/>
+<pb n="KR4d0587_WYG_006-3b"/>
+漏减良宵晝日遲困人天氣酒中時東家女伴太嬌劣<lb/>
+偷觧裙腰竟不知<lb/>
+　　相見<lb/>
+酥凝背甲玉搓肩只訝紅綃覆白蓮底是太隂藏火性<lb/>
+狂夫夜夜為君然<lb/>
+　　相思<lb/>
+深情長是暗相隨月白風清苦苦思不似東姑癡醉酒<lb/>
+幙天席地了無知<lb/>
+<pb n="KR4d0587_WYG_006-4a"/>
+　　的信<lb/>
+平時詭語難為信醉後㣲言却近真昨夜寄將雙豆蔻<lb/>
+始知的的為東鄰<lb/>
+　　私㑹<lb/>
+月落花隂夜漏長相逢疑是夢髙唐夜深偷把銀釭照<lb/>
+猶恐憨奴瞰隙光<lb/>
+　　成配<lb/>
+眉山暗淡向殘燈一半雲鬟撤枕稜四體著人嬌欲泣<lb/>
+<pb n="KR4d0587_WYG_006-4b"/>
+自家揉碎砑繚綾<lb/>
+　　洗兒<lb/>
+曽向金盆弄化生寳珠親見掌中擎從今不帶宜男草<lb/>
+豆蔻含胎恐太并<lb/>
+　　秋千<lb/>
+齊雲樓外紅絡索是誰飛下雲中仙剛風吹起望不極<lb/>
+一對金蓮倒插天<lb/>
+　　蹋踘<lb/>
+<pb n="KR4d0587_WYG_006-5a"/>
+月牙束靿紅幧首月門脫落葵花斗君看脚底軟金蓮<lb/>
+細蹴花心壽郎酒<lb/>
+　　釣魚<lb/>
+敲針作鈎投水隅豈圖口味膾王餘鯉魚腹裏牽芳餌<lb/>
+萬一行人有素書<lb/>
+　　走馬<lb/>
+徤兒牽來獰叱撥輕身飛上電一抹半兜玉鐙裹湘裙<lb/>
+不許春泥汙羅襪<lb/>
+<pb n="KR4d0587_WYG_006-5b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　復古詩集巻六<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

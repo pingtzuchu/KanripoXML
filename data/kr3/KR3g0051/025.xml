@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3g0051_WYG_025-1a"/>
+欽定四庫全書<lb/>
+欽定恊紀辨方書卷二十六<lb/>
+　月表七<lb/>
+　　七月<lb/>
+<pb n="KR3g0051_WYG_025-2a"/>
+　<lb/>
+　<lb/>
+立秋七月節天道北行宜向北行宜修造北方<lb/>
+天德在癸天德合在戊月德在壬月德合在丁月空<lb/>
+在丙宜修造取土<lb/>
+月建在申月破在寅月厭在辰月刑在寅月害在亥<lb/>
+刼煞在巳災煞在午月煞在未忌修造取土<lb/>
+初八日長星　二十二日短星<lb/>
+<pb n="KR3g0051_WYG_025-2b"/>
+立秋前一日四絶　後九日往亡<lb/>
+處暑七月中日躔在巳宫為七月將宜用甲丙庚壬時<lb/>
+<pb n="KR3g0051_WYG_025-3a"/>
+甲子海中金義定日<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3g0051_WYG_025-3b"/>
+乙丑海中金制執日<lb/>
+<pb n="KR3g0051_WYG_025-4a"/>
+丙寅鑪中火義破日<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3g0051_WYG_025-4b"/>
+丁卯鑪中火義危日<lb/>
+<pb n="KR3g0051_WYG_025-5a"/>
+戊辰大林木專成日<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3g0051_WYG_025-5b"/>
+己巳大林木義收日<lb/>
+<pb n="KR3g0051_WYG_025-6a"/>
+庚午路傍土伐開日<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3g0051_WYG_025-6b"/>
+辛未路傍土義閉日<lb/>
+<pb n="KR3g0051_WYG_025-7a"/>
+壬申劔鋒金義建日<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3g0051_WYG_025-7b"/>
+癸酉劒鋒金義除日<lb/>
+<pb n="KR3g0051_WYG_025-8a"/>
+甲戌山頭火制滿日<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3g0051_WYG_025-8b"/>
+乙亥山頭火義平日<lb/>
+<pb n="KR3g0051_WYG_025-9a"/>
+丙子澗下水伐定日<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3g0051_WYG_025-9b"/>
+丁丑澗下水寳執日<lb/>
+<pb n="KR3g0051_WYG_025-10a"/>
+戊寅城頭土伐破日<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3g0051_WYG_025-10b"/>
+己卯城頭土伐危日<lb/>
+<pb n="KR3g0051_WYG_025-11a"/>
+庚辰白鑞金義成日<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3g0051_WYG_025-11b"/>
+辛巳白鑞金伐收日<lb/>
+<pb n="KR3g0051_WYG_025-12a"/>
+壬午楊柳木制開日<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3g0051_WYG_025-12b"/>
+癸未楊柳木伐閉日<lb/>
+<pb n="KR3g0051_WYG_025-13a"/>
+甲申井泉水伐建日<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3g0051_WYG_025-13b"/>
+乙酉井泉水伐除日<lb/>
+<pb n="KR3g0051_WYG_025-14a"/>
+丙戌屋上土寳滿日<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3g0051_WYG_025-14b"/>
+丁亥屋上土伐平日<lb/>
+<pb n="KR3g0051_WYG_025-15a"/>
+戊子霹靂火制定日<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3g0051_WYG_025-15b"/>
+己丑霹靂火專執日<lb/>
+<pb n="KR3g0051_WYG_025-16a"/>
+庚寅松栢木制破日<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3g0051_WYG_025-16b"/>
+辛卯松柏木制危日<lb/>
+<pb n="KR3g0051_WYG_025-17a"/>
+壬辰長流水伐成日<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3g0051_WYG_025-17b"/>
+癸巳長流水制收日<lb/>
+<pb n="KR3g0051_WYG_025-18a"/>
+甲午砂石金寳開日<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3g0051_WYG_025-18b"/>
+乙未砂石金制閉日<lb/>
+<pb n="KR3g0051_WYG_025-19a"/>
+丙申山下火制建日<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3g0051_WYG_025-19b"/>
+丁酉山下火制除日<lb/>
+<pb n="KR3g0051_WYG_025-20a"/>
+戊戌平地木專滿日<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3g0051_WYG_025-20b"/>
+己亥平地木制平日<lb/>
+<pb n="KR3g0051_WYG_025-21a"/>
+庚子壁上土寳定日<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3g0051_WYG_025-21b"/>
+辛丑壁上土義執日<lb/>
+<pb n="KR3g0051_WYG_025-22a"/>
+壬寅金箔金寳破日<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3g0051_WYG_025-22b"/>
+癸卯金箔金寳危日<lb/>
+<pb n="KR3g0051_WYG_025-23a"/>
+甲辰覆燈火制成日<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3g0051_WYG_025-23b"/>
+乙巳覆燈火寳收日<lb/>
+<pb n="KR3g0051_WYG_025-24a"/>
+丙午天河水專開日<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3g0051_WYG_025-24b"/>
+丁未天河水寳閉日<lb/>
+<pb n="KR3g0051_WYG_025-25a"/>
+戊申大驛土寳建日<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3g0051_WYG_025-25b"/>
+己酉大驛土寳除日<lb/>
+<pb n="KR3g0051_WYG_025-26a"/>
+庚戌釵釧金義滿日<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3g0051_WYG_025-26b"/>
+辛亥釵釧金寳平日<lb/>
+<pb n="KR3g0051_WYG_025-27a"/>
+壬子桑柘木專定日<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3g0051_WYG_025-27b"/>
+癸丑桑柘木伐執日<lb/>
+<pb n="KR3g0051_WYG_025-28a"/>
+甲寅大溪水專破日<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3g0051_WYG_025-28b"/>
+乙卯大溪水專危日<lb/>
+<pb n="KR3g0051_WYG_025-29a"/>
+丙辰沙中土寳成日<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3g0051_WYG_025-29b"/>
+丁巳沙中土專收日<lb/>
+<pb n="KR3g0051_WYG_025-30a"/>
+戊午天上火義開日<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3g0051_WYG_025-30b"/>
+己未天上火專閉日<lb/>
+<pb n="KR3g0051_WYG_025-31a"/>
+庚申石榴木專建日<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3g0051_WYG_025-31b"/>
+辛酉石榴木專除日<lb/>
+<pb n="KR3g0051_WYG_025-32a"/>
+壬戌大海水伐滿日<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3g0051_WYG_025-32b"/>
+癸亥大海水專平日<lb/>
+<pb n="KR3g0051_WYG_025-33a"/>
+右六十干支從建申者始立秋終處暑其神煞吉凶<lb/>
+　用事宜忌具於表<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3g0051_WYG_025-33b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+欽定協紀辨方書卷二十六<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

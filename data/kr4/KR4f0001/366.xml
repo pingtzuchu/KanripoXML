@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4f0001_WYG_366-1a"/>
+　欽定四庫全書<lb/>
+聖祖仁皇帝御製文第四集巻三十三目録<lb/>
+　　古今體詩四十九首<lb/>
+　　　五月上旬避暑熱河途中喜麥秋盈野雨暘得時<lb/>
+　　　　賦七言一律<lb/>
+　　　夏日山莊二首<lb/>
+　　　金蓮盛放二首<lb/>
+　　　賦得山林引興長<lb/>
+<pb n="KR4f0001_WYG_366-1b"/>
+　　　詠夏二首<lb/>
+　　　詠新竹<lb/>
+　　　熱河産人参雖不及遼左枝葉皆同命翰林蔣廷<lb/>
+　　　　錫畫圖因戯作七言截句記之<lb/>
+　　　蘭菊圖<lb/>
+　　　蓮花岩松牡丹<lb/>
+　　　嘉禾䨇頴<lb/>
+　　　湧翠岩觀瀑賞白蓮<lb/>
+<pb n="KR4f0001_WYG_366-2a"/>
+　　梨樹峪道中歩輦口占二首<lb/>
+　　雲巖<lb/>
+　　山居即事<lb/>
+　　覽孝經衍義有感而作<lb/>
+　　用梌木杯噐<lb/>
+　　春行<lb/>
+　　去嵗八九月雨最多民間俗說封地雨故一冬少<lb/>
+　　　雪猶可支持自交立春復不見雲所以望雨甚<lb/>
+<pb n="KR4f0001_WYG_366-2b"/>
+　　　殷昨晚宻雲四起夜深甘霖即霈田間老㓜無<lb/>
+　　　不舉手加額歡聲載道朕以民食為天喜均一<lb/>
+　　　體故賦七言近體以示羣臣<lb/>
+　　春行<lb/>
+　　栁絮<lb/>
+　　清潭<lb/>
+　　讀朱子全書有感而作<lb/>
+　　暑將退<lb/>
+<pb n="KR4f0001_WYG_366-3a"/>
+　　浙閩總督范時崇陛見來京朕毎念祖為開創宰<lb/>
+　　　輔父乃忠義名臣所以待之優重今因回任特<lb/>
+　　　書御詩餞送<lb/>
+　　古北口提督馬進良以年老辭去朕念當日鷹揚<lb/>
+　　　百戰挽强執銳自守紫塞内外恬静皆因宿將<lb/>
+　　　老成之所致今回林泉深所惜也故賦五言特<lb/>
+　　　記不忘疆場舊事也<lb/>
+　　賦得萬壑泉消夏千峰翠作秋<lb/>
+<pb n="KR4f0001_WYG_366-3b"/>
+　　大西門升八旗官閱騎射作<lb/>
+　　江南諸臣<lb/>
+　　靈泉啓文明<lb/>
+　　賦得恩光日邉來<lb/>
+　　五十三年冬至齋戒作<lb/>
+　　五十三年冬旱十二月初二日大雪二十一日又<lb/>
+　　　雪途中偶成<lb/>
+　　賦得梅候宫中樹<lb/>
+<pb n="KR4f0001_WYG_366-4a"/>
+　　賦得三十六宫都是春<lb/>
+　　日月無私能廣運<lb/>
+　　春日郊行示地方官六首<lb/>
+　　舟中鼓琴<lb/>
+　　和風細雨<lb/>
+　　望湖春色二首<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

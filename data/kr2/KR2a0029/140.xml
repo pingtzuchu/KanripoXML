@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2a0029_WYG_140-1a"/>
+　舊五代史巻六十九攷證<lb/>
+唐列𫝊二十一張憲𫝊上怒戒有司速治行宫之庭礙<lb/>
+　事者畢去竟毁即位壇　案歐陽史作場未成莊宗<lb/>
+　怒命兩虞候亟毁壇以為場與是書異通鑑從歐陽<lb/>
+　史<lb/>
+李存渥自洛陽至　案存渥歐陽使作永王存霸考唐<lb/>
+　家人𫝊存渥與劉皇后同奔至風谷為部下所殺是<lb/>
+　存渥未至太原其至太原者存霸也是𫝊作存渥疑<lb/>
+<pb n="KR2a0029_WYG_140-1b"/>
+　誤<lb/>
+孟鵠𫝊鵠自租庸勾官擢為客省副使　租庸勾官北<lb/>
+　夢瑣言作三司勾押官<lb/>
+劉延皓𫝊父茂成　案歐陽史作茂威<lb/>
+延皓即劉后之弟也　案通鑑攷異引廢帝實録以延<lb/>
+　皓為劉后之姪與是書異歐陽史通鑑俱從是書<lb/>
+出為鄴都留守　案歐陽史作天雄軍節度使<lb/>
+劉延朗𫝊清泰初除宣徽北院使　案歐陽史廢帝既<lb/>
+<pb n="KR2a0029_WYG_140-2a"/>
+　立以延朗為莊宅使<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2a0029_WYG_140-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　舊五代史巻六十九攷證<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

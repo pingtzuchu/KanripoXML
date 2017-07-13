@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>杜詩攟</head>
+    <p>
+<pb n="KR4c0019_WYG_000-1a"/>
+欽定四庫全書　　　　　集部二<lb/>
+　杜詩攟　　　　　　　　别集類一<hi>唐</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案杜詩攟四巻明唐元竑撰元竑字<lb/>
+　　　　逺生烏程人萬厯戊子舉人明亡不食死論<lb/>
+　　　　者以首陽餓夫比之是編乃其讀杜詩逐首<lb/>
+　　　　劄記所閲蓋千家注本其中附載劉辰翁評<lb/>
+　　　　故多駁正辰翁語自宋人倡詩史之説而箋<lb/>
+<pb n="KR4c0019_WYG_000-1b"/>
+　　　　杜詩者遂以劉昫宋祁二書據為稿本一字<lb/>
+　　　　一句務使與紀傳相符夫忠君愛國君子之<lb/>
+　　　　心感事憂時風人之㫖杜詩所以髙於諸家<lb/>
+　　　　者固在於是然集中根本不過數十首耳咏<lb/>
+　　　　月而以為比肅宗咏螢而以為比李輔國則<lb/>
+　　　　詩家無景物矣謂紈袴下服比小人謂儒冠<lb/>
+　　　　上服比君子則詩家無字句矣元竑所論雖<lb/>
+　　　　未必全得杜意而刋除附會涵泳性情頗能<lb/>
+<pb n="KR4c0019_WYG_000-2a"/>
+　　　　㑹于意言之外其中如白鷗没浩蕩句必抑<lb/>
+　　　　蘇軾而申宋敏求宛馬總肥秦苜蓿句正用<lb/>
+　　　　漢武帝離宫種苜蓿事而執誤本春苜蓿字<lb/>
+　　　　以為不對漢嫖姚又往往喜言詩讖尤屬不<lb/>
+　　　　經然大㫖合者為多勝舊注之穿鑿逺矣乾<lb/>
+　　　　隆四十三年六月恭校上<lb/>
+　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　總　校　官　　<hi>臣</hi>　陸　　費　　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

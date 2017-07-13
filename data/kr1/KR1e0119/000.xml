@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>三正考</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　經部五<lb/>
+　三正考　　　　　　　春秋類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案三正考二卷<lb/>
+　　　國朝吳鼐撰鼐字大年無錫人乾隆丙辰進士<lb/>
+　　　　官工部主事春秋以周正紀時原無疑義至<lb/>
+　　　　宋儒泥行夏之時一言遂是非蠭起明張以<lb/>
+　　　　寧著春王正月考李濂著夏周正辨疑而經<lb/>
+<pb n="1b"/>
+　　　　義始明鼐復取兩家之説節其繁冗益以近<lb/>
+　　　　儒所論補所未備駁胡氏蔡氏改月不改時<lb/>
+　　　　及諸儒時月俱不改之説以明左氏王周正<lb/>
+　　　　月之㫖辨證極有根據其中三正通于民俗<lb/>
+　　　　一條所引陳廷敬蔡徳晉諸説於三代諸書<lb/>
+　　　　所紀年月差互之處一一剖其所以然更足<lb/>
+　　　　以破疑似之見雖篇帙無多而引證詳明判<lb/>
+　　　　百年紛紜轇轕之論于經學實深有功焉乾<lb/>
+<pb n="2a"/>
+　　　　隆四十四年三月恭校上<lb/>
+　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="3a"/>
+三正考改時改月圖<lb/>
+　夏正建寅商正建丑周正建子秦正建亥及太初正<lb/>
+　厯之後追改秦厯原委合為一圖<lb/>
+子月　夏十一<hi>仲冬</hi>　商十二<hi>季/冬</hi>周正<hi>孟/春</hi>　秦二<hi>仲/春</hi>　<hi>太初厯改為秦十一月</hi>
+丑月　夏十二<hi>季冬</hi>商正<hi>孟/春</hi>周二<hi>仲/春</hi>　秦三<hi>季太初厯改為春秦十二月</hi>
+寅月　夏正<hi>孟春</hi>　商二<hi>仲/春</hi>周三<hi>季/春</hi>　秦四<hi>孟/夏</hi>　<hi>太初厯改為秦正月</hi>
+卯月　夏二<hi>仲春</hi>　商三<hi>季/春</hi>　周四<hi>孟/夏</hi>　秦五<hi>仲/夏</hi>　<hi>太初厯改為秦二月</hi>
+辰月　夏三<hi>季舂</hi>　商四<hi>孟/夏</hi>周五<hi>仲/夏</hi>　秦六<hi>季/夏</hi>　<hi>太初厯改為秦三月</hi>
+<pb n="3b"/>
+巳月　夏四<hi>孟夏</hi>　商五<hi>仲/夏</hi>　周六<hi>季/夏</hi>　秦七<hi>孟/秋</hi>　<hi>太初厯改為秦四月</hi>
+午月　夏五<hi>仲夏</hi>商六<hi>季/夏</hi>　周七<hi>孟/秋</hi>　秦八<hi>仲/秋</hi>　<hi>太初厯改為秦五月</hi>
+未月　夏六<hi>季夏</hi>　商七<hi>孟/秋</hi>　周八<hi>仲/秋</hi>　秦九<hi>季/秋</hi>　<hi>太初厯改為秦六月</hi>
+申月　夏七<hi>孟秋</hi>　商八<hi>仲/秋</hi>　周九<hi>季/秋</hi>秦十<hi>孟/冬</hi>　<hi>太初厯改為秦七月</hi>
+酉月　夏八<hi>仲秋</hi>　商九<hi>季/秋</hi>　周十<hi>孟/冬</hi>　秦十一<hi>仲/冬</hi>　<hi>太初厯改為秦八月</hi>
+戌月　夏九<hi>季秋</hi>　商十<hi>孟/冬</hi>　周十一<hi>仲/冬</hi>秦十二<hi>季/冬</hi>　<hi>太初厯改為秦九月</hi>
+亥月　夏十<hi>孟冬</hi>商十一<hi>仲/冬</hi>　周十二<hi>季/冬</hi>秦正<hi>孟/春</hi>　<hi>太初厯改為秦十月</hi>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

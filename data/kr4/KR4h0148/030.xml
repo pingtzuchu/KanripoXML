@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0148_WYG_030-1a"/>
+欽定四庫全書<lb/>
+御選唐宋詩醇巻十四<lb/>
+　　襄陽杜甫詩六<lb/>
+　　　目録<lb/>
+　　臘日<lb/>
+　　紫宸殿退朝口號<lb/>
+　　曲江二首<lb/>
+　　曲江對酒<lb/>
+<pb n="KR4h0148_WYG_030-1b"/>
+　　曲江對雨<lb/>
+　　奉和賈至舍人早朝大明宫<lb/>
+　　宣政殿退朝晚出左掖<lb/>
+　　題省中院壁<lb/>
+　　春宿左省<lb/>
+　　送翰林張司馬南海勒碑<lb/>
+　　晚出左掖<lb/>
+　　送賈閣老出汝州<lb/>
+<pb n="KR4h0148_WYG_030-2a"/>
+　　送鄭十八虔貶台州司户傷其臨老䧟賊之故闕<lb/>
+　　為靣别情見於詩<lb/>
+　　端午日賜衣<lb/>
+　　奉贈王中允維<lb/>
+　　奉陪鄭駙馬章曲二首<lb/>
+　　至徳二載甫自京金光門出間道歸鳯翔乾元初<lb/>
+　　從左拾遺移華州掾與親故别因出此門有悲往<lb/>
+　　事<lb/>
+<pb n="KR4h0148_WYG_030-2b"/>
+　　寄髙三十五詹事適<lb/>
+　　路逢襄陽楊少府入城戲呈楊員外綰<lb/>
+　　題鄭縣亭子<lb/>
+　　望岳<lb/>
+　　至日遣興奉寄北省舊閣老兩院故人二首<lb/>
+　　得弟消息<lb/>
+　　憶弟<lb/>
+　　秦州雜詩二十首<lb/>
+<pb n="KR4h0148_WYG_030-3a"/>
+　　月夜憶舍弟<lb/>
+　　宿賛公房<lb/>
+　　東樓<lb/>
+　　雨晴<lb/>
+　　寓目<lb/>
+　　山寺<lb/>
+　　遣懷<lb/>
+　　天河<lb/>
+<pb n="KR4h0148_WYG_030-3b"/>
+　　初月<lb/>
+　　𢷬衣<lb/>
+　　促織<lb/>
+　　螢火<lb/>
+　　蒹葭<lb/>
+　　苦竹<lb/>
+　　除架<lb/>
+　　廢畦<lb/>
+<pb n="KR4h0148_WYG_030-4a"/>
+　　夕烽<lb/>
+　　送逺<lb/>
+　　觀兵<lb/>
+　　天末懷李白<lb/>
+　　空嚢<lb/>
+　　病馬<lb/>
+　　蕃劍<lb/>
+　　銅瓶<lb/>
+<pb n="KR4h0148_WYG_030-4b"/>
+　　觀安西兵過赴闗中待命二首<lb/>
+　　野望<lb/>
+　　秋日阮隠居致薤三十束<lb/>
+　　秦州見勅目薛三璩授司議郎畢四曜除監察與<lb/>
+　　二子有故逺喜遷官兼述索居凡三十韻<lb/>
+　　寄岳州賈司馬六丈巴州嚴八使君兩閣老五十<lb/>
+　　韻<lb/>
+　　寄張十二山人彪三十韻<lb/>
+<pb n="KR4h0148_WYG_030-5a"/>
+　　寄李十二白二十韻<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

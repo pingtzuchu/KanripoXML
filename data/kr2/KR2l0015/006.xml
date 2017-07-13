@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2l0015_WYG_006-1a"/>
+　　　　可以知朝政之盛衰也我<lb/>
+　　　國家稽古建官循名核實因革損益時措咸宜<lb/>
+　　　　我<lb/>
+　　皇上朗照無私<lb/>
+　　權衡獨秉舉直錯枉宫府肅清尤從來史冊所未<lb/>
+　　　　有復念厯朝官制典籍俱存宜備溯源流明<lb/>
+　　　　其利弊庻前規可鑑法戒益昭乃<lb/>
+　　特命四庫全書館總纂官内閣學士今陞兵部右<lb/>
+<pb n="KR2l0015_WYG_006-1b"/>
+　　　　侍郎<hi>臣</hi>紀昀光禄寺卿今陞大理寺卿<hi>臣</hi>陸<lb/>
+　　　　錫熊翰林院編修今陞山東布政使<hi>臣</hi>孫士<lb/>
+　　　　毅總校官詹事府少詹事今陞内閣學士<hi>臣</hi>陸<lb/>
+　　　　費墀等考証排次輯綴是編分目悉凖<lb/>
+　　　今制凡長貳僚屬具列焉明綱紀也其兼官無正<lb/>
+　　　　員而所掌綦重如軍機處之類亦别有専表<lb/>
+　　　　崇職守也八旗及新疆爵秩前所未有者並詳<lb/>
+　　　　加臚考著<lb/>
+<pb n="KR2l0015_WYG_006-2a"/>
+　　聖代之剏建逺邁邃古也或古有而今無或先置<lb/>
+　　　　而後廢並為採掇别附于篇備參訂也毎門<lb/>
+　　　　各冠以表表後詳叙建置首列<lb/>
+　　　國朝畧如唐六典之例次以厯代則節引諸書各<lb/>
+　　　　附案語以疏證其異同上下數千年分職率<lb/>
+　　　　屬之制元元本本罔弗具焉考將相及百官<lb/>
+　　　　公卿之有表始自班馬二史後如唐書之宰<lb/>
+　　　　相表宋史之宰輔表明史之内閣七卿表具沿<lb/>
+<pb n="KR2l0015_WYG_006-2b"/>
+　　　　其例然所紀僅拜罷年月與官制無闗且㫁<lb/>
+　　　　代為書不相通貫尋檢頗難至抄撮故實如<lb/>
+　　　　孫逢吉職官分紀之類又但供詞藻於實政無<lb/>
+　　　　禆是書發凡起例悉禀<lb/>
+　　睿裁色括古今貫串始末旁行斜上援古證今經<lb/>
+　　　　緯分明參稽詳宻不獨昭垂奕<graphic n="KR1124" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1124.png" mimeType="image/png"/>為董正之<lb/>
+　　　　鴻模即百爾臣工各明厥職用以顧名而思義<lb/>
+　　　　亦益當知所儆朂矣乾隆五十四年正月恭校上<lb/>
+<pb n="KR2l0015_WYG_006-3a"/>
+　　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

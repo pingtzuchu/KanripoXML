@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4c0055_SBCK_019-1a"/>
+　　　書李翶後<lb/>
+予為西京留守推官得此書於魏君書伍拾篇予<lb/>
+嘗讀韓文所作哀歐陽詹文云詹之事旣有李翶<lb/>
+作傳而此書亡之慬其遺闕者多矣<lb/>
+景祐三年十月十七日歐陽修䟦<lb/>
+<pb n="KR4c0055_SBCK_019-1b"/>
+宋歐陽文忠公穪唐文之善則曰韓李韓之文傳<lb/>
+布世間者不啻家傳人誦李文則落落然而後學<lb/>
+有終身不得見焉者兹非一大欠事與暇日扵寅<lb/>
+友陳君緝熈所獲覩是編遂躬鈔録以備一家之<lb/>
+言云<lb/>
+景泰乙亥四月之吉河東邢譲識<lb/>
+<pb n="KR4c0055_SBCK_019-2a"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2k0072_WYG_036-1a"/>
+　欽定四庫全書<lb/>
+　　河源紀畧<lb/>
+　　紀事<lb/>
+　　　<hi>臣</hi>等謹案河源出於西域道里遼夐疆圉殊絶自<lb/>
+　　　古以來聲教不通夏書始言即叙王制不盡流沙<lb/>
+　　　降及後世或使命偶至或貢獻甫通傳聞所及史<lb/>
+　　　臣述以為據從未有混一疆土能實有其地而著<lb/>
+　　　之版圖者故張騫所窮疑焉無據劉元鼎篤什所<lb/>
+<pb n="KR2k0072_WYG_036-1b"/>
+　　　見詡為真源良由厯代以來囿於方隅隔於險阻<lb/>
+　　　虚存統率之名初無疆理之實無惑乎地志之所<lb/>
+　　　載闕焉未備也我<lb/>
+　　朝統一區夏式廓丕基開闢疆宇千古未有<lb/>
+聖祖仁皇帝削平西蔵即遣使詳考西南徼外山川<lb/>
+世宗憲皇帝平定青海伊古吐谷渾党項羌戎雜處之地<lb/>
+　　　悉𨽻版圖<lb/>
+　皇上蕩平西域拓地二萬餘里凡準囘全部昔時所謂<lb/>
+<pb n="KR2k0072_WYG_036-2a"/>
+　　都䕶羈縻僅存其名者今皆列戍開屯建城設鎮<lb/>
+　　藩籬中土備列提封於是乎崑崙勝蹟蔥嶺靈源<lb/>
+　　蒲昌星宿之竒觀紫山雪嶺之全壤大河隠見周<lb/>
+　　迴蟠折萬餘里莫不近攝環中朗如眉列兹者<lb/>
+命使所至河瀆効靈更於曩跡未經之地創覩天池星<lb/>
+　　石之竒煌煌<lb/>
+睿製光耀寰區<hi>臣</hi>等禀承<lb/>
+聖訓得以詳考今古傳之無窮夫仰<lb/>
+<pb n="KR2k0072_WYG_036-2b"/>
+聖神之謨烈以表疆索之隆規極地域之廣輪以誌源<lb/>
+　　流之靈蹟<lb/>
+三朝耆定大業豐功括兩戒於階庭攬八埏如戸闥誌<lb/>
+　　河源者必備紀<lb/>
+武功所疆理區圉所并包以詳著實有其地量測不爽<lb/>
+　　之由所謂真源呈露昭晰萬古而無疑也其厯代<lb/>
+　　舊事諸史所載亦附著於篇援古證今益以昭中<lb/>
+　　外一統之盛焉<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

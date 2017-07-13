@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_250-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選卷二百五十<lb/>
+　　饌類<lb/>
+　　　五言律<lb/>
+　　　　慕容承攜素饌見過　　　　<hi>唐</hi>王　維<lb/>
+　紗㡌烏皮几間居懶賦詩門看五栁識年算六身知靈<lb/>
+　夀君王賜彫胡弟子炊空勞酒食饌持底解人頤<lb/>
+　　　七言律<lb/>
+<pb n="KR4h0141_WYG_250-1b"/>
+　　　　丁丑五月大旱雩禱上齋居御講頒賜素蔬一<lb/>
+　　　　　盒　　　　　　　　　　<hi>明</hi>于慎行<lb/>
+　雲漢憂歌嵗事艱桑林䖍禱聖心殫祈年不輟金華講<lb/>
+　減膳猶分玉筯餐始見仙盤疑汎露却嘗寳饌是調蘭<lb/>
+　崇朝膚寸紆宸想霖雨應騰四野歡<lb/>
+　　　五言絶句<lb/>
+　　　　中書送敕賜齋饌戲酬内　　<hi>唐</hi>權徳輿<lb/>
+　常日每齊眉今朝共解頤遥知大官膳應與衆雛嬉<lb/>
+<pb n="KR4h0141_WYG_250-2a"/>
+　　　七言絶句<lb/>
+　　　　灤京雜詠　　　　　　　　<hi>元</hi>楊允孚<lb/>
+　御饌官厨不較餘金門掌膳意勤如更分光禄缾中酒<lb/>
+　爛醉歸時月上初<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR4h0141_WYG_250-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選巻二百五十<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

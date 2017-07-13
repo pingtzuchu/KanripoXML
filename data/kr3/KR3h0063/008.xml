@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3h0063_WYG_008-1a"/>
+欽定四庫全書<lb/>
+石渠寳笈卷三<lb/>
+　　貯<lb/>
+　乾清宫三<lb/>
+　　列朝人書畫目録<lb/>
+　書册上等<lb/>
+　　　宋名賢寳翰<lb/>
+　　　宋黄庭堅書墨竹賦<lb/>
+<pb n="KR3h0063_WYG_008-1b"/>
+　　　元趙孟頫書撫州永安禪院僧堂記<lb/>
+　　　元趙孟頫雜書詩文<lb/>
+　　　元趙孟頫書法帖譜系雜説<lb/>
+　　　元趙孟頫題耕織圖詩<lb/>
+　　　元趙孟頫書麻姑仙壇記<lb/>
+　　　元趙孟頫書陶詩<lb/>
+　　　元趙孟頫紈扇賦<lb/>
+　　　明宋濓書聖教序<lb/>
+<pb n="KR3h0063_WYG_008-2a"/>
+　　　明沈度書梅花百詠<lb/>
+　　　明祝允明臨帖<lb/>
+　　　明祝允明臨帖<lb/>
+　　　明祝允明書過秦論<lb/>
+　　　明文徵明自書雜文二册<lb/>
+　　　明文徵明書千文<lb/>
+　　　明文徵明書落花詩<lb/>
+　　　明文徵明書戰國策<lb/>
+<pb n="KR3h0063_WYG_008-2b"/>
+　　　明王寵書孝經忠經<lb/>
+　　　明王彭書唐人詩二册<lb/>
+　　　明董其昌書孝經<lb/>
+　　　明董其昌書古栢行<lb/>
+　　　明董其昌臨蘭亭叙<lb/>
+　　　明董其昌臨聖教序<lb/>
+　　　明董其昌畫旨帖<lb/>
+　　　明董其昌臨八闗齋㑹記<lb/>
+<pb n="KR3h0063_WYG_008-3a"/>
+　　　明董其昌臨顔眞卿書<lb/>
+　　　明董其昌書雜詩<lb/>
+　　　明董其昌書孝經<lb/>
+　　　明董其昌書七言律詩<lb/>
+　　　明人書扇二册<lb/>
+　　書册次等<lb/>
+　　　宋黄庭堅論學書法<lb/>
+　　　宋米芾書唐人五言排律<lb/>
+<pb n="KR3h0063_WYG_008-3b"/>
+　　　元趙孟頫臨東方朔像賛<lb/>
+　　　明初詞臣書翰<lb/>
+　　　明祝允明書古栢行<lb/>
+　　　明祝允明各體書<lb/>
+　　　明王寵書莊子内七篇四册<lb/>
+　　　明董其昌雜書<lb/>
+　　　明董其昌仿唐人書<lb/>
+　　　明董其昌書千文<lb/>
+<pb n="KR3h0063_WYG_008-4a"/>
+　　　明董其昌臨帖<lb/>
+　　　明董其昌書七言律詩<lb/>
+　　　明董其昌書七言絶句<lb/>
+　　　明董其昌書七言律詩<lb/>
+　　　明董其昌書琵琶行<lb/>
+　　　明徐範書小青傳<lb/>
+　　　明人書扇十册<lb/>
+　　國朝人書畫目録<lb/>
+<pb n="KR3h0063_WYG_008-4b"/>
+　　書册次等<lb/>
+　　　陳奕禧各體書<lb/>
+　　　汪士鋐書法宗師録<lb/>
+　　　劉源書孝經<lb/>
+　　　張照書樂善堂全集序<lb/>
+　　　王圖炳書日知薈説四册<lb/>
+　　　陳邦彦書日知薈説十册<lb/>
+　　　蔣衡摹聖教序増補遺文<lb/>
+<pb n="KR3h0063_WYG_008-5a"/>
+　　　書扇二册<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

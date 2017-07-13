@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4d0208_WYG_004-1a"/>
+公有漢書鐫譔行世今僅存一段載鑑綱<lb/>
+黄公度曰智可以來天下不可以留天下力可以得天<lb/>
+下不可以有天下有天下者㤀天下者也嬴秦取天下<lb/>
+於六國分裂之餘百戰百勝僅能得之得之艱難惟恐<lb/>
+去之或速凡可以制民之死命者無不過為而疆舉之<lb/>
+雖翦滅屠戮有所不恤天下不勝嬴秦之猜疑相率而<lb/>
+跳於刑法之外項氏見民之易叛恐今日之於吾猶昔<lb/>
+日之於秦也舉一城則坑之攻一邑則屠之嗟乎羽亦<lb/>
+<pb n="KR4d0208_WYG_004-1b"/>
+人耳好生惡殺誰無是心哉疑民之叛而求以殺戮止<lb/>
+之乃所以速其禍也帝之入闗約法三章羽之入闗烽<lb/>
+火三月帝之所過秋毫無犯羽之所過噍類無遺嗟乎<lb/>
+民之歸於君者求以生我耶殺我耶相率而歸之從而<lb/>
+殺之何苦歸之以求殺哉帝不取天下於秦項之手而<lb/>
+取於吾民之心信其自來聽其自至非寛仁大度者有<lb/>
+所不能也<lb/>
+　　又漢書鐫譔一段載鑑綱<lb/>
+<pb n="KR4d0208_WYG_004-2a"/>
+黄公度曰傷弓之鳥驚曲木挽萬石之弓以射之寧無<lb/>
+所懼奔渇之牛急濁流洒清泠之水以濡之寧無所喜<lb/>
+項驚天下以弓漢飲天下以水也<lb/>
+　　後馮必大詩云亭長何曽識漢王入闗便解約三<lb/>
+　　章只消一勺清凉水冷却秦鍋百沸湯乃用公漢<lb/>
+　　髙論也<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

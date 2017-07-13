@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>元經</head>
+    <p>
+<pb n="KR2b0005_WYG_000-1a"/>
+欽定四庫全書　　　　史部二<lb/>
+　元經　　　　　　　　編年類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案元經十卷舊本題隋王通撰唐薛<lb/>
+　　　　收續併作𫝊宋阮逸注其書始晉太熙元年<lb/>
+　　　　終隋開皇九年凡九卷稱為通之原書末一<lb/>
+　　　　卷自隋開皇十年迄唐武徳元年稱收所續<lb/>
+　　　　晁公武讀書志曰案崇文無其目疑阮逸依<lb/>
+<pb n="KR2b0005_WYG_000-1b"/>
+　　　　託為之陳振孫書録解題曰河汾王氏諸書<lb/>
+　　　　自中説以外皆唐藝文志所無其𫝊出阮逸<lb/>
+　　　　或云皆逸偽作也唐神堯諱淵其祖景皇諱<lb/>
+　　　　虎故晉書戴淵石虎皆以字行薛收唐人於<lb/>
+　　　　𫝊稱戴若思石季龍宜也元經作於隋世太<lb/>
+　　　　興四年亦書曰若思何哉今考是書晉成帝<lb/>
+　　　　咸和八年書張公庭為鎮西大將軍康帝建<lb/>
+　　　　元元年書石虎侵張駿公庭即駿之字猶可<lb/>
+<pb n="KR2b0005_WYG_000-2a"/>
+　　　　曰書名書字例本互通至於康寧三年書神<lb/>
+　　　　虎門為神獸門則顯襲晉書更無所置辨矣<lb/>
+　　　　且於周大定元年直書楊堅輔政通生隋世<lb/>
+　　　　雖妄以聖人自居亦何敢於悖亂如是哉陳<lb/>
+　　　　師道後山談叢何薳春渚紀聞邵博聞見後<lb/>
+　　　　録並稱逸作是書嘗以稿本示蘇洵薳與博<lb/>
+　　　　語未可知師道則篤行君子斷無妄語所記<lb/>
+　　　　諒不誣矣逸字天隠建陽人天聖五年進士<lb/>
+<pb n="KR2b0005_WYG_000-2b"/>
+　　　　官至尚書屯田員外郎宋史胡瑗𫝊景祐初<lb/>
+　　　　更定雅樂與鎮東軍節度推官阮逸同校鍾<lb/>
+　　　　律者即其人也王鞏甲申襍記又載其所作<lb/>
+　　　　詩有易立太山石難芳上林栁句為怨家所<lb/>
+　　　　告流竄以終生平喜作偽書此特其一耳文<lb/>
+　　　　獻通考載是書十五卷此本止十卷自魏太<lb/>
+　　　　和以後往往數十年不書一事葢又非阮逸<lb/>
+　　　　偽本之全矣明鄧伯羔萟彀稱是書為闗朗<lb/>
+<pb n="KR2b0005_WYG_000-3a"/>
+　　　　作朗北魏孝文帝時人何由書開皇九年之<lb/>
+　　　　事或因宋人記闗朗易𫝊與此書同出阮逸<lb/>
+　　　　偶然誤記耶其書本無可取因自宋以來流<lb/>
+　　　　𫝊已久姑録存之而參考諸説附糾其依託<lb/>
+　　　　如右乾隆四十五年正月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="KR2b0005_WYG_000-4a"/>
+元經原序<lb/>
+元經始晉惠帝終陳亡凢三百年蓋聞夫子曰春秋一<lb/>
+國之書也以天下有國而王室不尊乎故約諸侯以尊<lb/>
+王政以明天命之未改<hi>夫子文中子也周王法</hi>元經天下之書也<lb/>
+以無定國而帝位不明乎徵天命以正帝位以明神器<lb/>
+之有歸<hi>春秋一國總乎周故孔子因魯史以明周之天命未改也元經天下歸乎帝故仲淹因神器以</hi>
+<hi>明帝位必正也</hi>又曰春秋抗王而尊魯其以周之所存乎元經<lb/>
+抗帝以尊中國其以天命之所歸乎<hi>聖人筆法與天命齊致</hi>然帝<lb/>
+<pb n="KR2b0005_WYG_000-4b"/>
+衰於太熈<hi>太熈晉武帝末年</hi>故元經首此振起之也中國盛乎<lb/>
+皇始<hi>皇始後魏年號</hi>故元經挈名以正其實嗚呼天下無賞罰<lb/>
+三百載聖人在下則追書褒貶以代其賞罰斯周公典<lb/>
+禮使後王常存而行焉仲尼筆削使後儒常職而述焉<lb/>
+收受經於夫子何足以究其潭奥輙為傳觧𤼵明師訓<lb/>
+之一二云薛收撰<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="1a"/>
+禮記纂言後序<lb/>
+六經聖人親所刪定秦人燔之禮樂二籍俄空焉世惟<lb/>
+周官儀禮廑存而學官罕所傳習漢儒所補戴記列於<lb/>
+五經純駁斑如也註疏又頗傳以緯學經世之誼鬱而<lb/>
+未彰今所宗者陳氏集説而已耳朱子嘗修正三禮未<lb/>
+就惟吳氏纂言倫類明整稽合諸儒異同厥功博哉而<lb/>
+世尠有傳者豈天未興斯文與曷絶之易而續之孔艱<lb/>
+也雖然後有作者稽古立制興世太平兹書雖非盡出<lb/>
+<pb n="1b"/>
+孔氏固周官儀禮之翼也文獻斯存殆將繇是乎攷灋<lb/>
+千古之缺典可舉而行也君子之於禮盖没身焉學者<lb/>
+弗及見古全書幸而此編尚在庶有格言詎可蹔而舍<lb/>
+諸如用于世且將執此以徃矧亡者禮之數也其不亾<lb/>
+者存經禮三百曲禮三千根心所發也蔽以一言曰毋<lb/>
+不敬兹書開卷全經之體要具焉其可忽諸寧國守胡<lb/>
+君東皋爰刻是書嘉與四方士共之屬校題諸簡末先<lb/>
+王之典墜地也久矣庸詎知天之不欲興斯文也而以<lb/>
+<pb n="2a"/>
+是為之兆與君守郡適倥偬多故時廼能崇尚經術其<lb/>
+為政知所先務哉正徳庚辰陽月甲午後學崑山魏校<lb/>
+謹識<lb/>
+<pb n="3a"/>
+禮記纂言後序<lb/>
+六經聖人親所刪定秦人燔之禮樂二籍俄空焉世惟<lb/>
+周官儀禮廑存而學官罕所傳習漢儒所補戴記列於<lb/>
+五經純駁斑如也註疏又頗傳以緯學經世之誼鬱而<lb/>
+未彰今所宗者陳氏集説而已耳朱子嘗修正三禮未<lb/>
+就惟吳氏纂言倫類明整稽合諸儒異同厥功博哉而<lb/>
+世尠有傳者豈天未興斯文與曷絶之易而續之孔艱<lb/>
+也雖然後有作者稽古立制興世太平兹書雖非盡出<lb/>
+<pb n="3b"/>
+孔氏固周官儀禮之翼也文獻斯存殆將繇是乎攷灋<lb/>
+千古之缺典可舉而行也君子之於禮盖没身焉學者<lb/>
+弗及見古全書幸而此編尚在庶有格言詎可蹔而舍<lb/>
+諸如用于世且將執此以徃矧亡者禮之數也其不亾<lb/>
+者存經禮三百曲禮三千根心所發也蔽以一言曰毋<lb/>
+不敬兹書開卷全經之體要具焉其可忽諸寧國守胡<lb/>
+君東皋爰刻是書嘉與四方士共之屬校題諸簡末先<lb/>
+王之典墜地也久矣庸詎知天之不欲興斯文也而以<lb/>
+<pb n="4a"/>
+是為之兆與君守郡適倥偬多故時廼能崇尚經術其<lb/>
+為政知所先務哉正徳庚辰陽月甲午後學崑山魏校<lb/>
+謹識<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

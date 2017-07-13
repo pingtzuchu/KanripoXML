@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2n0017_SBCK_003-1a"/>
+隷釋巻第三<lb/>
+　　老子銘　楚相孫叔敖碑<hi>并隂</hi>
+　　仙人唐公房碑<hi>并隂</hi>張公神碑<lb/>
+　　三公山碑　無極山碑<lb/>
+　　白石神君碑<lb/>
+　　　　老子銘<lb/>
+老子姓李字伯陽楚相縣人也春秋之後周分為二<lb/>
+稱東西君　六卿專征與齊楚竝僣號為王㕥大并<lb/>
+小相縣虚荒今屬苦故城猶<graphic n="KR0965" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0965.png" mimeType="image/png"/>
+                    <graphic n="KR0965" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0965.png" mimeType="image/png"/>頼郷之東濄水處<lb/>
+<pb n="KR2n0017_SBCK_003-1b"/>
+其陽其土地欎螉高㲂冝生有徳君子焉老子爲周<lb/>
+守臧室史當幽王時三川實震㕥夏　之季隂陽之<lb/>
+事鑒喻時王孔子以周靈王廿年生到景王十年年<lb/>
+十有七學禮於老聃計其年紀聃時㕥二百餘嵗聃<lb/>
+然老旄之貎也孔子<graphic n="KR0816" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0816.png" mimeType="image/png"/>後百廿九年㦯謂周大史儋<lb/>
+爲老子莫知其所終其二萹之書稱天地所㕥能長<lb/>
+且乆者㕥<graphic n="KR0263" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0263.png" mimeType="image/png"/>自生也<graphic n="KR0847" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0847.png" mimeType="image/png"/>初生民遺體相續其死生之<lb/>
+義可知也㦯有浴神<graphic n="KR0263" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0263.png" mimeType="image/png"/>死是謂玄牝之言由是世之<lb/>
+好道者觸類而長之㕥老子離合於混沌之氣與三<lb/>
+<pb n="KR2n0017_SBCK_003-2a"/>
+光爲終始觀天作䜟<hi>闕</hi>降升<hi>字<折 t="33"/>斗</hi>星隨日九變與時消<lb/>
+息規榘三光四靈<graphic n="KR0965" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0965.png" mimeType="image/png"/>㫄<graphic n="KR1285" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1285.png" mimeType="image/png"/>想丹田大一紫房道成身<lb/>
+化蟬蛻渡世自　農㕥來<hi>闕</hi>爲聖者作師班固㕥老<lb/>
+子絶聖棄知禮爲亂首與仲尼道違述漢書古今人<lb/>
+表檢㕥法度　而下之老子<hi>闕</hi>與䠂子西同　材<graphic n="KR0263" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0263.png" mimeType="image/png"/>
+及孫卿孟軻二者之論殊矣所謂道<graphic n="KR0263" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0263.png" mimeType="image/png"/>同<graphic n="KR0263" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0263.png" mimeType="image/png"/>相爲謀<lb/>
+也延熹八年八月甲子<lb/>
+皇上尚惪弘道舍閎光大<graphic n="KR1285" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1285.png" mimeType="image/png"/>神養性意<graphic n="KR0965" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0965.png" mimeType="image/png"/>
+                    <graphic n="KR1272" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1272.png" mimeType="image/png"/>雲是㕥<lb/>
+濳心黄軒同符高宗夢見老子尊而祀之于時陳相<lb/>
+<pb n="KR2n0017_SBCK_003-2b"/>
+邊　典國之禮材薄思淺<graphic n="KR0263" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0263.png" mimeType="image/png"/>能測度至人辯是與非<lb/>
+案㨿書藉以爲老子生於周之末世玄虚守靜樂無<lb/>
+名守<graphic n="KR0263" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0263.png" mimeType="image/png"/>惪危高官安下位遺孔子㕥仁言辟世而隱<lb/>
+居變易姓名唯恐見知夫日以幽明爲莭月以虧盈<lb/>
+自成損益盛衰之原倚伏禍福之門人道惡盈而好<lb/>
+謙蓋老子勞<graphic n="KR0263" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0263.png" mimeType="image/png"/>定國功<graphic n="KR0263" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0263.png" mimeType="image/png"/>加民所㕥見隆崇于今爲<lb/>
+時人所享祀乃昔日逃禄處微損之又損之之餘胙<lb/>
+也<graphic n="KR2179" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2179.png" mimeType="image/png"/>虚无之淸家云先天地而生乃守眞養夀獲五<lb/>
+福之所　也敢演而銘之其辭曰<lb/>
+<pb n="KR2n0017_SBCK_003-3a"/>
+於惟<hi>闕</hi>惪抱虚守清樂居下位禄埶弗營爲繩能直<lb/>
+屈之可縈三川之對舒憤散逞隂<graphic n="KR0263" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0263.png" mimeType="image/png"/>塡陽孰能滯并<lb/>
+見機而作需郊出坰肥遁之吉辟丗隱聲見迫遺言<lb/>
+道惪之經譏時微喻尋顯推冥守一<graphic n="KR0263" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0263.png" mimeType="image/png"/>失爲天下正<lb/>
+處厚<graphic n="KR0263" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0263.png" mimeType="image/png"/>薄居實舍榮稽式爲重金玉是輕絶嗜去欲<lb/>
+還歸於嬰晧然歷載莫知其情頗違法言先民之和<lb/>
+要㕥无爲大<hi>闕</hi>用成進退無恒錯綜其貞以知為愚<lb/>
+沖而<graphic n="KR0263" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0263.png" mimeType="image/png"/>盈大人之度非凡所訂九䓁之敘何足纍名<lb/>
+同光日月合之<hi>闕</hi>星出入丹廬上下黄庭背棄流俗<lb/>
+<pb n="KR2n0017_SBCK_003-3b"/>
+舍景匿形苞元神化呼吸至精丗<graphic n="KR0263" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0263.png" mimeType="image/png"/>能原卭其永生<lb/>
+天人秩祭㕥㫥<graphic n="KR0847" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0847.png" mimeType="image/png"/>靈羡彼延期勒石是旌<lb/>
+　右老子銘篆額在亳州苦縣苦属陳國故其文陳<lb/>
+　相邊韶所作碑云延熹八年八月帝夢老子尊而<lb/>
+　祀之帝紀此年春冬兩遣中帝侍至苦祠老子水<lb/>
+　經載蒙城王子喬碑亦云延熹八年八月帝遣使<lb/>
+　致祠國相王璋乃銘紀遺烈盖威宗方脩神僊之<lb/>
+　事故一時郡國競作碑表此石立於延熹無疑杜<lb/>
+　子美云苦縣光和尚骨立者誤也碑中多用大史<lb/>
+<pb n="KR2n0017_SBCK_003-4a"/>
+　公語唯聃然老旄之説不同韶以老子與子西同<lb/>
+　科深詆班孟堅之失至於韓非同傳則又置而不<lb/>
+　論何也碑云孔子學禮於老子時年十有七按丗<lb/>
+　家孔子年十七孟釐子病誡其嗣必師孔子故孟<lb/>
+　懿子與南宫敬叔往學焉其次又云敬叔與孔子<lb/>
+　適周見老子詳史之所記𥘉非一年中事况孟釐<lb/>
+　子卒在魯昭公二十四年孔子蓋年三十有五矣<lb/>
+　韶不詳䆒史家之指而誤用之何貴乎五經笥也<lb/>
+<hi>同材與纔同纍與累同豸與寂同<折 t="33"/>碑以浴神為谷神旄與耄同渡與度</hi>
+<pb n="KR2n0017_SBCK_003-4b"/>
+　　　　楚相孫叔敖碑<hi>用續刻者故其文全<折 t="33"/>舊碑闕五十餘字此</hi>
+䠂相孫君諱饒字叔敖本是縣人也六國時期思属<lb/>
+䠂䠂都南郢南郢即南郡江陵縣也君受純靈之精<lb/>
+懐絶世之才有大賢次聖之貭少見技首虵對其母<lb/>
+泣吾將死母問其故曰吾聞見技首虵者死今日見<lb/>
+之母曰若奈之何吾　行數十歩念獨吾死可空復<lb/>
+令他人見之死爲囙埋掩其㓝母曰若無憂焉其隂<lb/>
+徳玄善遂爲父母九族所異及其爲相布政以道<graphic n="KR0690" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0690.png" mimeType="image/png"/>
+文象之度敬授民時聚藏於山殖物於藪宣導川谷<lb/>
+<pb n="KR2n0017_SBCK_003-5a"/>
+波障源湶溉灌坺澤堤防湖浦以爲池沼鍾天地之<lb/>
+美收九睪之利以慇潤國家家富人喜優　樂業栻<lb/>
+序<graphic n="KR0965" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0965.png" mimeType="image/png"/>朝㙒無螟　豊年蕃庶人有曽閔貞孝之行四<lb/>
+民美好從　中莭高棞改幣一朝而化其憂國忘私<lb/>
+乗馬三年不别牝牡繼高陽重蔾五舉子文之統其<lb/>
+忠信㢘勇禮樂文章軌儀同制其富國充民眀天時<lb/>
+盡地力霆堅禹稯不能踰也專國權寵而不榮華一<lb/>
+旦可得百金至於殁齒而無分銖之蓄破玉玦不以<lb/>
+寳財遺子孫終始若　去不善如絶　辟患害於無<lb/>
+<pb n="KR2n0017_SBCK_003-5b"/>
+刑　莭高義敦良竒分自曹臧孤竹吴朼子罕之倫<lb/>
+不能驂也生於季末仕於靈王立溷濁而澄清　幽<lb/>
+㬆而照朙其遺武餘ဆ恨不與　皇帝代同世世爲<lb/>
+列姃國<graphic n="KR0965" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0965.png" mimeType="image/png"/>朝廷其意常墨墨若冠章甫而哭塗炭也<lb/>
+病甚臨卒将無棺郭令其子曰優孟曽許千金貸吾<lb/>
+孟䠂之樂長與相君相善雖言千金實不負也卒後<lb/>
+數年㽵王置酒以爲樂優孟乃言孫君相䠂之功即<lb/>
+忼慨高歌曲曰貪吏而可爲而不可爲㢘吏而可爲<lb/>
+而不可爲貪吏而不可爲者當時有汙名而可爲者<lb/>
+<pb n="KR2n0017_SBCK_003-6a"/>
+子孫以家成㢘吏而可爲者當時有清名而不可爲<lb/>
+者子孫困窮技　而賣薪貪吏常苦富㢘吏常苦貧<lb/>
+獨不見䠂相孫叔敖㢘絜不受錢涕泣數行若<hi>闕</hi>首<lb/>
+王王心感動覺悟問孟孟具列對即求其子而加封<lb/>
+焉子辭父有命如䠂不忘亡臣社稯<hi>闕</hi>而𣣔有賞必<lb/>
+於潘國不濕墝埆人所不貪遂封潘鄉潘即固始也<lb/>
+三九無嗣國絶祀廢固始令叚君夢見孫君則<graphic n="KR1285" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1285.png" mimeType="image/png"/>其<lb/>
+後<graphic n="KR0556" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0556.png" mimeType="image/png"/>其故祠爲架廟屋立石銘碑春秋烝甞朙神報<lb/>
+祚即嵗遷長掖大守及期思縣宰叚君諱光字世賢<lb/>
+<pb n="KR2n0017_SBCK_003-6b"/>
+魏郡鄴人庶慕先賢軆徳允恭䔍古尊舊奉履憲章<lb/>
+欽翼天道五　興通文藉祭祠祇肅神眀臨縣一載<lb/>
+志<graphic n="KR0965" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0965.png" mimeType="image/png"/>恵康㘸枯粟乏愛育蔾蒸討掃醜類　寡是矝<lb/>
+杜僞養善是忠表仁感想孫君迺發嘉訓興祀立壇<lb/>
+勤勤愛敬念意自然刻石銘碑千載表績萬古摽記<lb/>
+福祐期思縣興士熾孫氏蒙恩<lb/>
+漢延熹三年五月廿八日立<lb/>
+　右楚相孫君之碑隷額今在光州延熹三年固始<lb/>
+　令叚光爲叔敖作廟所立昔楚荘王朝而晏罷樊<lb/>
+<pb n="KR2n0017_SBCK_003-7a"/>
+　姬因言虞丘子之非虞丘乃薦叔敖代已而去楚<lb/>
+　國區區前有虞丘後有孫叔其内又有樊姬荘王<lb/>
+　雖欲不覇得乎左氏傳載蔿敖蔿艾獵杜預皆以<lb/>
+　爲叔敖它書但云孫叔敖此碑獨言其名饒未知<lb/>
+　何㩀高梱改弊乃孫叔革故易俗之事左傳所云<lb/>
+　君子小人物有服章亦是類也蛇有二首謂之枳<lb/>
+　首枳讀如枝亦曰岐首此云技首蓋是借用<graphic n="KR1007" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1007.png" mimeType="image/png"/>錯<lb/>
+　倪寛史家亦用朝與兒字此以伍舉作五舉以庭<lb/>
+　堅作霆堅豈古亦通用乎<hi>陂以栻為式以貸為<graphic n="KR2833" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2833.png" mimeType="image/png"/>
+                        <折 t="33"/>碑中以刑為形以波為</hi>
+<pb n="KR2n0017_SBCK_003-7b"/>
+<hi>長掖為張掖泉添水而為湶澤去水而為睪<折 t="33"/>以蔾為黎以驂為參以墨為黙以郭為椁以</hi>孫叔<lb/>
+　以忠清相楚不以寳財遺子孫玉玦尚猶破之蓋<lb/>
+　季文子公儀休之倫也云亡未幾妻子至於披褐<lb/>
+　賣薪楚廷非無左右大臣塗其耳而不聞卷其舌<lb/>
+　而不談慷慨悲歌感寤主聽乃一伶人爾豈樊姬<lb/>
+　已死而叔敖薦進之士不逮虞丘乎三九無嗣者<lb/>
+　無相繼爲三公九卿也<hi>即質聚㳺野螟䖏塗遷鰥字<折 t="33"/>又貭聚<折 t="33"/>㙒蠙<折 t="33"/>淦<折 t="33"/>鰥</hi>
+　　　　孫叔敖碑隂<lb/>
+延熹三年歳<graphic n="KR0965" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0965.png" mimeType="image/png"/>
+                    <hi>字<折 t="33"/>闕二</hi>中夏之莭政<graphic n="KR0965" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0965.png" mimeType="image/png"/>封表期恩長光<lb/>
+<pb n="KR2n0017_SBCK_003-8a"/>
+視事一紀訪問國中耆年舊齒素聞孫君䠂時良輔<lb/>
+本起　邦垂功於後博求遺苖胄玄孫子<graphic n="KR0690" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0690.png" mimeType="image/png"/>　吉辰<lb/>
+五月<graphic n="KR0605" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0605.png" mimeType="image/png"/>卯冝㕥<graphic n="KR1285" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1285.png" mimeType="image/png"/>廢可立碑祀招請諸孫都㑹國右<lb/>
+郭西道北　所顯好興上罕祭倡優皷儛式序其胄<lb/>
+授之端首光㕥不肖貪追賢烈㕥自榮寵時丞左馮<lb/>
+翊姓如諱武尉京兆周陵詳集共造户曹掾裒騰令<lb/>
+史許柗<lb/>
+相君有三嗣長子即封食邑固始少子<graphic n="KR0965" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0965.png" mimeType="image/png"/>江陵中子<lb/>
+居三<hi>闕</hi>襲<hi>闕</hi>業　材二宗則其苖胄也相君<graphic n="KR0816" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0816.png" mimeType="image/png"/>後<lb/>
+<pb n="KR2n0017_SBCK_003-8b"/>
+十有餘世有渤海大守字武伯武伯有二子長子字<lb/>
+伯尉少子字仲尉仕郡爲掾史伯尉有一子字世伯<lb/>
+舉江夏孝亷城門候仲尉有二子長子字孝伯荊州<lb/>
+従事弟世信仕<hi>字<折 t="33"/>闕二</hi>掾功曹㑹　哀之間宗黨爲賊<lb/>
+冦所　世伯孝伯世信<hi>闕</hi>各遺一子財八九嵗微弱<lb/>
+不能仕學世伯子字子仲治<graphic n="KR1035" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1035.png" mimeType="image/png"/>於　虗有六男一女<lb/>
+大子字長都次子蘭卿次弟字仲陽次弟字叔通次<lb/>
+弟字衛公次弟字劉卿　宗六父也孝伯子字文<lb/>
+<hi>闕</hi>亦<graphic n="KR0263" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0263.png" mimeType="image/png"/>仕學治<graphic n="KR1035" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1035.png" mimeType="image/png"/>於材虗亦有六男一女大子字惠<lb/>
+<pb n="KR2n0017_SBCK_003-9a"/>
+朙次弟字次卿次弟字聖公次弟字稚卿次弟字<graphic n="KR1035" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1035.png" mimeType="image/png"/>
+卿次弟字少都比材宗六父也世信一子相承季陵<lb/>
+文卿孝公比<hi>闕</hi>虗一父别其高祖與材高祖父親兄<lb/>
+弟孫氏宗族别<hi>闕</hi>諩紀也<lb/>
+　右孫叔敖碑隂此隂與前碑皆延熹三年五月所<lb/>
+　作前云臨縣一載此云視事一紀蓋以一紀爲一<lb/>
+　年爾叚光宦君子之郷懷良輔之美訪問耆舊博<lb/>
+　求遺苖卜擇令日興廟植碑招集諸孫倡樂高㑹<lb/>
+　又以其雲來長㓜之序仕學生産之實刻于碑之<lb/>
+<pb n="KR2n0017_SBCK_003-9b"/>
+　隂雖自譜其家者亦不如是之詳也<hi>即殺字諩即<折 t="33"/>即繚字</hi>
+<hi>字<折 t="33"/>譜</hi>
+　　　　仙人唐公房碑<lb/>
+君字公所成固人盖帝堯之<hi>字<折 t="33"/>闕十</hi>之故能舉家<hi>字<折 t="33"/>闕五</hi>
+去上<graphic n="KR1406" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1406.png" mimeType="image/png"/>皇燿統御隂陽騰淸躡浮命夀無疆雖王公<lb/>
+之尊四海之富曽<hi>字<折 t="33"/>闕五</hi>毛天地之性斯其至貴者也<lb/>
+耆老相傳㕥爲　居　二秊君爲郡吏<hi>字<折 t="33"/>闕四</hi>土域<lb/>
+啖瓜旁有真人左右莫察而君獨進羙瓜又從而敬<lb/>
+禮之真人者遂與<hi>闕</hi>期　谷口山上乃與君神藥曰<lb/>
+<pb n="KR2n0017_SBCK_003-10a"/>
+服藥㕥後當移意萬里知鳥獸言語是時府在西成<lb/>
+去家七百餘里休謁　猍轉景即　闔郡驚焉白之<lb/>
+府君從爲御吏　䡊車被具君乃畫地爲　召<lb/>
+誅之視其腹　果有被具府君<hi>闕</hi>賓燕欲從學道公<lb/>
+　頃無所進府君怒敕尉部吏　公　妻子公　乃<lb/>
+先歸<graphic n="KR0715" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0715.png" mimeType="image/png"/>谷口呼其師告㕥戹急其師與之歸㕥藥飲<lb/>
+公　妻子曰可去矣妻子攣家<graphic n="KR0263" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0263.png" mimeType="image/png"/>忍去又曰豈欲得<lb/>
+家俱去乎妻子曰固所願也<graphic n="KR0715" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0715.png" mimeType="image/png"/>是乃以藥塗屋柱飲<lb/>
+牛馬六畜湏臾有大風玄雲来迎公所妻子屋宅六<lb/>
+<pb n="KR2n0017_SBCK_003-10b"/>
+畜翛然與之俱去昔喬松崔白皆一身得道而公<lb/>
+舉家俱　盛矣傳曰賢者所<graphic n="KR1285" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1285.png" mimeType="image/png"/>澤流百丗故使　郷<lb/>
+春夏毋蚊　秋冬鮮繁霜癘蠱<graphic n="KR0263" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0263.png" mimeType="image/png"/>遐去其螟　百榖<lb/>
+收入天下莫知斯徳祐之效也道牟羣仙徳潤故郷<lb/>
+知徳者鮮歷丗莫紀<lb/>
+漢中大守南陽郭君諱　字公載脩北辰之政馳周<lb/>
+邵之風歆樂唐君神靈之美以爲道重者名邵徳厚<lb/>
+者廟尊乃發嘉敎躬損奉錢倡率羣義繕廣斯廟<hi>闕</hi>
+和祈福布之<graphic n="KR1429" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1429.png" mimeType="image/png"/>民刻石昭音揚君靈譽其辭曰<lb/>
+<pb n="KR2n0017_SBCK_003-11a"/>
+<hi>上闕</hi>遂享神藥超浮雲兮翺<hi>下闕</hi>
+　　　　碑隂<lb/>
+故江陽守長成固楊晏字平仲東部督<graphic n="KR1519" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1519.png" mimeType="image/png"/>成固左分<lb/>
+字元術故江陽守長南鄭楊銀字伯慎䖏　南鄭祝<lb/>
+龜字元靈司徒掾南鄭祝楊字孔逹䖏　南鄭祝岱<lb/>
+字子華故益州從事南鄭祝忱字子文䖏ဉ南鄭祝<lb/>
+恒字仲華䖏　南鄭祝朗字徳靈䖏　南鄭祝崇字<lb/>
+季華大守史南鄭祝榮字文華大守史南鄭趙英字<lb/>
+<graphic n="KR1035" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1035.png" mimeType="image/png"/>扌䖏　南鄭劉通字海<hi>闕</hi>故裦中守尉南鄭趙忠<lb/>
+<pb n="KR2n0017_SBCK_003-11b"/>
+字元䠂<hi>字<折 t="33"/>闕二</hi>南鄭楊鳳字孔鸞<lb/>
+　右仙人唐君碑篆額漢中太守郭芝立今在興元<lb/>
+　唐君字公房王莽時人也愽物志云城固縣壻郷<lb/>
+　有唐公昉得道雞犬皆升仙惟以䑕有惡不得去<lb/>
+　䑕自悔毎月一吐其腸胃更生謂之唐䑕㧾仙録<lb/>
+　所引博物志又云䑕至空中自墮腸出一月三易<lb/>
+　故山中有拖腸䑕水經云智水川有唐公房祠公<lb/>
+　房入雲臺山合丹服之白日升天雞鳴天上狗吠<lb/>
+　雲中以䑕惡留之䑕乃感激以月晦日吐腸胃更<lb/>
+<pb n="KR2n0017_SBCK_003-12a"/>
+　生公房升仙之日壻行未還不獲同階雲路約以<lb/>
+　此川爲居言無繁霜蛟虎之患其俗因號爲壻郷<lb/>
+　二説唯䑕事小異神仙録則云神仙李八百爲公<lb/>
+　房家傭僞作惡瘡使公房夫婦及三婢䑛之又索<lb/>
+　美酒三十斛浣瘡因以餘酒浴公房夫婦顔色更<lb/>
+　少授以丹經一卷公房入雲臺山作藥藥成服之<lb/>
+　仙去其說俱異唯錬丹雲臺與水經同爾後漢志<lb/>
+　云襃中有唐公防祠蓋隷法房字其户在側故人<lb/>
+　多不曉或作防或作昉皆誤也<hi>字即䑕字攣即<折 t="33"/>即莽字聟即壻</hi>
+<pb n="KR2n0017_SBCK_003-12b"/>
+<hi>字<折 t="33"/>戀</hi>
+　　　　張公神碑<lb/>
+惟和平元年正月<hi>字<折 t="33"/>闕二</hi>朝歌長鄭郴造<hi>闕</hi>張公建<hi>闕</hi>
+良<hi>闕</hi>之山運置綦<graphic n="KR1583" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1583.png" mimeType="image/png"/>刋　涿摩立左右闕表神道<hi>闕</hi>
+豎碑廟堂之前到五月<hi>字<折 t="33"/>闕二</hi>乃成長<hi>字<折 t="33"/>闕二</hi>之銘勒神<lb/>
+懿光祕後昆其辭曰<lb/>
+於穆張公舍和泰清受苻皇極乹剛川靈何天之休<lb/>
+元享利貞無<hi>字<折 t="33"/>闕二</hi>貴神燿洞<hi>字<折 t="33"/>闕二</hi>度<hi>闕</hi>泉　商北坰<lb/>
+<graphic n="KR1772" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1772.png" mimeType="image/png"/>朝綦<graphic n="KR1583" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1583.png" mimeType="image/png"/>
+                    <graphic n="KR0847" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0847.png" mimeType="image/png"/>土敞平芝草茂木潚潚滋榮羣萌勲炃<lb/>
+<pb n="KR2n0017_SBCK_003-13a"/>
+激川通<hi>字<折 t="33"/>闕三</hi>懷<hi>字<折 t="33"/>闕八</hi>廟克儉損盁詺命有司祭㕥中<lb/>
+牲嵗聿再慶公其饗零興来億載歷數萬君<hi>字<折 t="33"/>闕七</hi>太<lb/>
+<hi>字<折 t="33"/>闕二</hi>顯猶昭拂英勲<hi>闕</hi>錫介福恵此吏民國無灾寇<lb/>
+屢獲豊年<lb/>
+皇帝眉壽干禄于天牧守皆升握台輔辰長與丞尉<lb/>
+超遷相　休<hi>闕</hi>烈烈無<hi>字<折 t="33"/>闕三</hi>監犂<graphic n="KR1583" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1583.png" mimeType="image/png"/>營謁者李君<lb/>
+畏敬公靈好鄭長文徹奉佐工悃愊慇勤<hi>闕</hi>吏<hi>字<折 t="33"/>闕三</hi>
+熹且惶作歌九章達李君<hi>闕</hi>頌公徳芳其辭曰　綦<lb/>
+水湯湯揚清波東䟽<hi>闕</hi>折<hi>闕</hi>于河<hi>字<折 t="33"/>闕五</hi>朝歌縣以絜<lb/>
+<pb n="KR2n0017_SBCK_003-13b"/>
+静無穢瑕公<hi>闕</hi>守相駕蜚魚往来悠忽遂熹娱祐此<lb/>
+<graphic n="KR1429" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1429.png" mimeType="image/png"/>民寜厥居　出自綦<hi>字<折 t="33"/>闕四</hi>松栢欎茂蘭公<hi>字<折 t="33"/>闕二</hi>神<lb/>
+往來乗浮雲種徳收福恵斯民家饒户富無<hi>闕</hi>貧畺<lb/>
+界<graphic n="KR1821" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1821.png" mimeType="image/png"/>靜和睦<hi>闕</hi>朝歌蕩隂及犂陽三女所䖏各殊<lb/>
+方三門　列推其郷時擕甥<graphic n="KR0970" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0970.png" mimeType="image/png"/>歸候公夫人<hi>字<折 t="33"/>闕三</hi>容<lb/>
+<hi>字<折 t="33"/>闕五</hi>饗<hi>闕</hi>觴穆風屑兮起壇旁樂吏民兮永未央<lb/>
+<graphic n="KR0951" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0951.png" mimeType="image/png"/>呦呦兮<hi>字<折 t="33"/>闕二</hi>庭文樂樂兮<hi>字<折 t="33"/>闕三</hi>飲清泉兮<hi>字<折 t="33"/>闕三</hi>見<lb/>
+<hi>闕</hi>伏兮不駭驚惟公徳兮之所寕上陵廟兮助三牲<lb/>
+天時和兮甘露泠日畨<hi>闕</hi>兮無虧傾<hi>字<折 t="33"/>闕二</hi>蜚兮朱<lb/>
+<pb n="KR2n0017_SBCK_003-14a"/>
+鳥棲<hi>字<折 t="33"/>闕二</hi>榮兮鳴喈喈䳒鵠勦兮乳俳佪給　兮<lb/>
+獻于西惟公徳兮之所懷　池水<hi>闕</hi>兮釣臺粲四角<lb/>
+樓兮臨深澗魚岌岌兮踊躍見振鱗㞑兮游旰旰時<lb/>
+釣取兮給亨獻惟公徳兮之所衍　栗蕭卄兮　鋪<lb/>
+陳新美萌兮香苾芬蕙草生兮滿園田競苔茗兮給<lb/>
+萬錢惟公徳兮之所<hi>闕</hi>門堂欎兮文燿光公神赫<lb/>
+兮坐東方眀㬥視兮儼叩卬夫人<hi>闕</hi>女兮列在旁陳<lb/>
+君䖏北兮從官<hi>闕</hi>車騎駱驛兮交錯重乗輗軺兮駕<lb/>
+蜚龍驂白鹿兮從仙偅游北<graphic n="KR1772" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1772.png" mimeType="image/png"/>兮與天通　玄碑既<lb/>
+<pb n="KR2n0017_SBCK_003-14b"/>
+立雙闕建兮<hi>字<折 t="33"/>闕四</hi>大路畔兮亭長閽<hi>字<折 t="33"/>闕</hi>扞難兮列<lb/>
+種槐梓方茂爤兮天下逺近<hi>闕</hi>不見兮公神日著聲<lb/>
+洞㴜兮<hi>字<折 t="33"/>闕二</hi>乾川傳億萬兮<lb/>
+監犂陽營謁者豫章南昌李朝伯丞左馮翊夏<graphic n="KR1583" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1583.png" mimeType="image/png"/>趙<lb/>
+寵徳雅朝歌長穎川<graphic n="KR1583" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1583.png" mimeType="image/png"/>城鄭郴伯林左尉亰<graphic n="KR1429" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1429.png" mimeType="image/png"/>
+                    <hi>下闕</hi>
+水<hi>字<折 t="33"/>闕二</hi>
+                    <graphic n="KR1583" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1583.png" mimeType="image/png"/>里郭虞子<hi>下闕</hi>扶風安陵<hi>字<折 t="33"/>闕二</hi>邵公䖏士<lb/>
+魏郡<hi>闕</hi>封<hi>闕</hi>仲舉䖏士巍郡犂<graphic n="KR1583" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1583.png" mimeType="image/png"/>
+                    <hi>字<折 t="33"/>闕四</hi>
+　右張公神碑隷額在黎陽威宗和平元年立碑云<lb/>
+　朝歌長鄭郴爲張公建闕作碑銘勒神懿監黎陽<lb/>
+<pb n="KR2n0017_SBCK_003-15a"/>
+　營謁者李君好鄭之文既徹俸佐工又作歌九章<lb/>
+　刻之石皴剥不明僅能辨其梗㮣其辭依放離騷<lb/>
+　頗亦遒雅可觀詩中再稱其夫人又云朝歌蕩隂<lb/>
+　及黎陽三女所䖏各殊方三門鼎列推其鄉時擕<lb/>
+　甥㓜歸候公不知張公是何神也漢志注云世祖<lb/>
+　以幽并州兵騎定天下故於黎陽立營以謁者監<lb/>
+　之<hi>徧盁即盈字薦即薦字<graphic n="KR1821" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1821.png" mimeType="image/png"/>即<graphic n="KR1254" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1254.png" mimeType="image/png"/>字从水之字皆<折 t="33"/>碑以綦為淇涿摩爲琢磨勦爲巢偅爲僮㴜爲</hi>
+<hi>文<折 t="33"/>作篆</hi>
+　　　　三公山碑<lb/>
+<pb n="KR2n0017_SBCK_003-15b"/>
+封龍君　靈山君<lb/>
+<hi>二字<折 t="33"/>上闕</hi>分氣建立乾川乾爲物父川爲物母運生六子<lb/>
+<hi>字<折 t="33"/>闕二</hi>爲<hi>闕</hi>艮土爲山<hi>字<折 t="33"/>闕二</hi>風雨天有九部地有八極<lb/>
+天地通<hi>闕</hi>神明别序州有九山丘<hi>闕</hi>成土北<hi>闕</hi>之山<lb/>
+<hi>闕</hi>升<hi>闕</hi>阻上爲祈首舍<hi>闕</hi>隂寳南號三公厥體嵩厚<lb/>
+峻極于天鼎足帝<hi>闕</hi>二郡宗祀<hi>闕</hi>奉<hi>字<折 t="33"/>闕二</hi>公嘉佑<hi>闕</hi>
+爲形<graphic n="KR1429" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1429.png" mimeType="image/png"/>觸石<hi>闕</hi>雲不崇而雨隂<hi>闕</hi>氛廓莫不<hi>字<折 t="33"/>闕二</hi>徳<lb/>
+配五岳王公所緒四時珪璧月醮酒脯<hi>闕</hi>公降靈<hi>六<折 t="33"/>闕</hi>
+<hi>字</hi>得志列<hi>闕</hi>羣后或在王庭輔翼聖主颺雨時降和<lb/>
+<pb n="KR2n0017_SBCK_003-16a"/>
+其寒暑年豊嵗稔分我稷秝倉府既盈以榖士女<hi>二<折 t="33"/>闕</hi>
+<hi>字</hi>得進陳其　爼黄龍白<graphic n="KR0849" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0849.png" mimeType="image/png"/>伏<graphic n="KR0965" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0965.png" mimeType="image/png"/>山所<graphic n="KR2587" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2587.png" mimeType="image/png"/>獸<hi>字<折 t="33"/>闕二</hi>億<lb/>
+兩爲耦草木畼茂巨仭不　下民知禁順時而取皆<lb/>
+受徳化非性能者願眀公垂㤙网極保我國君羣犂<lb/>
+百姓<hi>闕</hi>受元㤙光和四年嵗<graphic n="KR0965" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0965.png" mimeType="image/png"/>辛酉四月<hi>闕</hi>朔二<lb/>
+日甲子元氏左尉上郡白圡樊瑋字子義瑋<hi>闕</hi>要<hi>二<折 t="33"/>闕</hi>
+<hi>字</hi>陵側陋出從幽谷遷于喬木得<graphic n="KR0965" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0965.png" mimeType="image/png"/>中州尸素食禄<lb/>
+<hi>闕</hi>以弱<hi>闕</hi>歸于<hi>闕</hi>族<hi>闕</hi>眀<hi>闕</hi>讙<hi>闕</hi>以<hi>闕</hi>足觀聴<hi>字<折 t="33"/>闕二</hi>
+道無拾遺消扞<hi>闕</hi>難路無怨讟得應㢘選貢名王室<lb/>
+<pb n="KR2n0017_SBCK_003-16b"/>
+靈祗福祚施<hi>闕</hi>册於是感恩<hi>字<折 t="33"/>闕二</hi>立銘勒石乃作<lb/>
+頌曰<lb/>
+儼儼眀公民所瞻兮山<hi>闕</hi>窈窕石巖巖兮高倉<hi>字<折 t="33"/>闕二</hi>
+候羣神兮興雲致雨除民患兮長吏肅恭<hi>字<折 t="33"/>闕二</hi>心兮<lb/>
+四時奉祀秝稷<hi>闕</hi>兮<hi>闕</hi>用<hi>字<折 t="33"/>闕五</hi>兮百姓家給國冨<lb/>
+兮仁愛下下民附親兮遐邇携負來若雲兮或有薪<lb/>
+采投輻檀兮或有<hi>闕</hi>鬼阻出<hi>闕</hi>兮或有<hi>字<折 t="33"/>闕四</hi>耘兮或<lb/>
+有隱遁辟語言兮或有恬淡養晧然兮或有呼吸求<lb/>
+長<graphic n="KR1285" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1285.png" mimeType="image/png"/>兮跋行喙息皆<hi>闕</hi>㤙兮<hi>闕</hi>佑樊瑋出谷遷兮封<lb/>
+<pb n="KR2n0017_SBCK_003-17a"/>
+侯食邑傳子孫兮刻石紀徳示後昆兮永永不<hi>闕</hi>億<lb/>
+載年兮<lb/>
+舉将南陽冠軍君姓馮諱巡字季祖<hi>闕</hi>脩六經之要<lb/>
+析<hi>字<折 t="33"/>闕三</hi>㞢歷受命北征爲民父母攘去冦<graphic n="KR1223" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1223.png" mimeType="image/png"/>
+                    <hi>闕</hi>用无<lb/>
+<hi>闕</hi>姦<hi>闕</hi>越竟民移俗改恭肅神祗敬而不怠皇靈<hi>闕</hi>
+佑風雨時莭農<hi>闕</hi>執耜或耘或芓童妾壷饁敬而賓<lb/>
+之稼　穰穰榖至<hi>闕</hi>錢叔粟如火咸褢仁心君姿前<lb/>
+喆喬朼季文䔍<hi>闕</hi>稂秀不爲苛煩愍俗陵迡<hi>字<折 t="33"/>闕二</hi>咨<lb/>
+<hi>闕</hi>山無隱士藪無逸民褢道以徳慕此<hi>字<折 t="33"/>闕二</hi>百姓歐<lb/>
+<pb n="KR2n0017_SBCK_003-17b"/>
+歌得我恵君功叅周邵受禄亐天長履景福子子孫<lb/>
+孫<lb/>
+<hi>闕</hi>長史甘陵甘陵夏方字伯陽令亰<graphic n="KR1429" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1429.png" mimeType="image/png"/>新豊王翊字<lb/>
+元輔丞河<hi>字<折 t="33"/>闕二</hi>武李<hi>闕</hi>字公興　石<graphic n="KR1540" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1540.png" mimeType="image/png"/>劉元<graphic n="KR1285" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1285.png" mimeType="image/png"/>
+　右三公之碑隷額兩旁又有封龍君靈山君六隷<lb/>
+　字頗大郡國志常山國元氏注云有石塞三公塞<lb/>
+　所謂三公塞即此山也石塞即白石山也白石碑<lb/>
+　云縣界有六名山三公封龍靈山先得法食無極<lb/>
+　山碑載光和詔書出元氏縣錢給三公山四時祠<lb/>
+<pb n="KR2n0017_SBCK_003-18a"/>
+　具又云三公山與龍靈山無極山共興雲雨蓋封<lb/>
+　龍與靈山是兩山之名掲其神於額之旁者即是<lb/>
+　配食三公之祠故碑中有鼎足之文也頌云儼儼<lb/>
+　明公民所瞻兮碑云願明公垂恩罔極保我國君<lb/>
+　蓋以明公稱山之神而謂國相爲國君也此碑光<lb/>
+　和四年左尉樊子義立頌末有樊君徼福之句而<lb/>
+　讃美舉將馮巡㡬二百言馮君乃常山相也頃者<lb/>
+　先公太師以使事爲北方所留紹興癸亥年政地<lb/>
+　王次翁使至燕　先公鬲垣墻與驛中人語爲覘<lb/>
+<pb n="KR2n0017_SBCK_003-18b"/>
+　者所得頼副留守高吉祥之力脫縲紲而歸予之<lb/>
+　出疆也高之子嗣先相廷勞以先世之故並轡殊<lb/>
+　從容甞諉其訪尋中原古刻云北人所不好市無<lb/>
+　粥碑者及道過真定顧瞻名山三嘆而已<hi>爲牣犂<折 t="33"/>碑以仭</hi>
+<hi>即黍字<graphic n="KR1223" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1223.png" mimeType="image/png"/>即凶字芓即耔字/即壷字褢即懐字<折 t="33"/>爲黎叔爲菽秀爲莠迡爲遅歐爲謳<折 t="33"/>即鼎字</hi>
+　　　　無極山碑<lb/>
+光和四年<hi>闕</hi>月辛卯朔廿二日壬子大常臣耽丞敏<lb/>
+頓首上<lb/>
+尚書謹案文書男子常山蓋高上黨范遷詣<hi>字<折 t="33"/>闕三</hi>爲<lb/>
+<pb n="KR2n0017_SBCK_003-19a"/>
+元氏三公神<hi>字<折 t="33"/>闕二</hi>本初元年二月癸酉光和二年二<lb/>
+月戊子詔書出其縣錢給四峕祠具去年五月常山<lb/>
+相巡遣吏王勲三<hi>闕</hi>弘襃詣三公山請雨山神即使<lb/>
+高傳言令勲裦歸<hi>闕</hi>雨可得三公山即與龍靈山無<lb/>
+極山共興雲交雨國相巡元氏令王翊各白芉塞神<lb/>
+山復使高與遷及縣吏和卞令俱詣大常爲無極山<lb/>
+神萦　食比三公山臣疑高遷言<graphic n="KR0263" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0263.png" mimeType="image/png"/>實輙移本國<hi>闕</hi>
+竅今常山相書言部督郵書掾成熹　訊實問熹縣<lb/>
+令翊各言無極山與　<graphic n="KR2297" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2297.png" mimeType="image/png"/>俱生　上至軆可三里所<lb/>
+<pb n="KR2n0017_SBCK_003-19b"/>
+<pb n="KR2n0017_SBCK_003-19b"/>
+制曰可<lb/>
+大尚承書从事<lb/>
+<hi>上闕</hi>月十七日丁丑尚書令忠奏雒陽宫<lb/>
+光和四年八月辛酉朔十七日丁丑尚書令忠下<lb/>
+光和四年八月辛酉朔十七日丁丑大常耽丞敏下<lb/>
+常山相<hi>闕</hi>从事下承<hi>闕</hi>用者如詺書書到言<lb/>
+昔<graphic n="KR0965" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0965.png" mimeType="image/png"/>禮䓦國有名山能异材用興雲出雨爲民来福<lb/>
+除央則祀元氏縣有先峕三公　龍靈山已得法食<lb/>
+而獨未光和四年二月所子大男蓋高上黨范遷奏<lb/>
+<pb n="KR2n0017_SBCK_003-20a"/>
+記大常犬常下郡國相南陽馮府君咨之前志<hi>闕</hi>問<lb/>
+耆傁僉㠯爲寔神且明每國縣水旱及民疾病禱祈<lb/>
+輙應峕有報又有終南之敦物與岱　之柗及楊<lb/>
+之<hi>闕</hi>條蕩爲材用<graphic n="KR0715" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0715.png" mimeType="image/png"/>是乎出官民<graphic n="KR0715" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0715.png" mimeType="image/png"/>是乎給<graphic n="KR0965" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0965.png" mimeType="image/png"/>禮<lb/>
+秩祀有功必報今峕無極山應　食誠其冝耳<graphic n="KR0715" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0715.png" mimeType="image/png"/>是<lb/>
+言大常奏可其年八月丁丑詺書聴其九月更造神<lb/>
+廟　祏祠宮置吏儀牲册制月醮旹祠禮與三山同<lb/>
+乃立碑銘徳頌山之神爲其　白<lb/>
+巗巗無極<graphic n="KR0847" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0847.png" mimeType="image/png"/>體魏魏嵩<hi>闕</hi>萬常<hi>字<折 t="33"/>闕二</hi>梯浚谷千刃<lb/>
+<pb n="KR2n0017_SBCK_003-20b"/>
+窈窕　隈楙林　靑倉氣蔚伊<hi>闕</hi>礙㠕<hi>闕</hi>
+遙望儼然即就有威觸石膚寸興雲祁祁雨我公田<lb/>
+遂及我私百榖用成家有其資禱禳請祈應速<graphic n="KR0263" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0263.png" mimeType="image/png"/>迡<lb/>
+鳥獸艸木畨茂隆<hi>字<折 t="33"/>闕四</hi>猥神爲之哀欽案禮䓦咨古<lb/>
+遺則功加亐民官報其徳今偁七牲珪璧法食改舘<lb/>
+興廟恢祏宇室増益吏役恭君下職月醮旹祀肅植<lb/>
+齊壷<hi>闕</hi>必博碩酒必嘉㮚粢盛馨香如禮<graphic n="KR0263" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0263.png" mimeType="image/png"/>失願君<lb/>
+歆享降福孔<hi>闕</hi>官民禱祈僉<hi>闕</hi>密勿有㠯禳解報應<lb/>
+可必<hi>字<折 t="33"/>闕二</hi>灋食将祐我君我君高<hi>闕</hi>泉多子孫君其<lb/>
+<pb n="KR2n0017_SBCK_003-21a"/>
+遺慶副稱願云<lb/>
+常山相南陽　軍馮巡字季祖長史穎川<hi>闕</hi>申屠<hi>闕</hi>
+字<hi>字<折 t="33"/>闕二</hi>元氏令亰<graphic n="KR1429" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1429.png" mimeType="image/png"/>新豊王翊字元輔丞河内<hi>字<折 t="33"/>闕五</hi>
+左尉上郡白圡<hi>字<折 t="33"/>闕二</hi>字<hi>字<折 t="33"/>闕二</hi>祠祀掾<hi>闕</hi>賢㢘香<hi>闕</hi>掾<lb/>
+和<hi>字<折 t="33"/>闕五</hi>祠仁徳掾樊㳤史吳冝小吏吳黒<lb/>
+光和四年十月十三日<hi>字<折 t="33"/>闕二</hi>石<graphic n="KR1540" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1540.png" mimeType="image/png"/>
+                    <hi>字<折 t="33"/>闕二</hi>造<lb/>
+　右無極山碑篆額在真定此山與三公山封龍山<lb/>
+　靈山白石山皆在元氏男子蓋高范遷援三公龍<lb/>
+　靈有請於太常乞官給珪璧四時祠具詔從之吏<lb/>
+<pb n="KR2n0017_SBCK_003-21b"/>
+　民更造廟宇而立此碑靈帝光和四年也蔡質漢<lb/>
+　宫典儀曰司隷城門校尉上尚書言頓首上下言<lb/>
+　誠皇恐頓首上謁者上尚書頓首死罪上下言誠<lb/>
+　皇恐頓首死罪上今所存者史晨樊毅兩碑皆用<lb/>
+　謁者式與蔡説合惟此碑其後但再稱頓首又太<lb/>
+　常稱臣而丞不稱莫詳其制碑云有終南之敦物<lb/>
+　岱宗之松楊越之篠簜蓋以敦物爲終南所産與<lb/>
+　松篠同科今經史多作惇物注云山之名也顔之<lb/>
+　推謂詩之有渰萋萋興雲祁祁當是興雨趙氏据<lb/>
+<pb n="KR2n0017_SBCK_003-22a"/>
+　此碑云漢以前本皆作興雲因顔氏改之予按左<lb/>
+　雄傳已作興雨祁祁則漢代言詩者自不同由唐<lb/>
+　以来定本始以興雨爲正非因顔氏也<hi>賽央爲殃<折 t="33"/>碑以塞爲</hi>
+<hi>
+                        <graphic n="KR1337" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1337.png" mimeType="image/png"/>
+                        <graphic n="KR2297" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2297.png" mimeType="image/png"/>即天地字/即從字/即戅字祏即拓字<折 t="33"/>條爲篠刃爲仞番茂爲蕃茂灋即灋字竅即覈字</hi>
+<hi>傳趙傁傅傁是也<折 t="33"/>即杶字傁即叟字左</hi>
+　　　　白石神君碑<lb/>
+盖聞經國序民莫急於禮禮有五經莫重於祭祭有<lb/>
+二義或祈或報報以章徳祈以弭害古先哲王類帝<lb/>
+禋宗望于山川徧于羣神建立<graphic n="KR1429" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1429.png" mimeType="image/png"/>域脩設壇屏所以<lb/>
+<pb n="KR2n0017_SBCK_003-22b"/>
+昭孝息民輯寧上下也白石神君居九山之數叅三<lb/>
+條之壹兼将軍之號秉斧鉞之威體連封龍氣通北<lb/>
+嶽幽讃天地長育萬物觸石而出膚寸而合不終朝<lb/>
+日而澍雨沾洽前後國縣屢有祈請指日刻期應時<lb/>
+有驗猶自抱損不求禮秩縣界有六名山三公封龍<lb/>
+靈山先得法食去光和四年三公守民盖高䓁始爲<lb/>
+無極山詣大常求法食相縣以白石神君道徳灼然<lb/>
+乃具載本末上尚書求依無極爲比即見聽許於是<lb/>
+遂開袥舊<graphic n="KR1429" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1429.png" mimeType="image/png"/>改立殿堂營宇既㝎禮秩有常縣出經<lb/>
+<pb n="KR2n0017_SBCK_003-23a"/>
+<pb n="KR2n0017_SBCK_003-24a"/>
+華殿清閑肅雍顯相玄圖靈像穆穆皇皇四時禋祀<lb/>
+不愆不忘擇其令辰進其馨香犠牲玉帛黍稷稻粮<lb/>
+神降嘉祉萬壽無畺子子孫孫永永畨昌<lb/>
+光和六年常山相南陽馮巡字季祖長吏頴川申屠<lb/>
+㷱<hi>字<折 t="33"/>闕三</hi>元氏令亰<graphic n="KR1429" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1429.png" mimeType="image/png"/>新豊王翊字元輔丞河南李邵<lb/>
+左尉上郡白土樊瑋祠祀掾吴冝史解微石師王明<lb/>
+　右白石神君碑篆額在真定靈帝光和六年立前<lb/>
+　二年蓋高等援三公封龍靈山請于朝爲無極山<lb/>
+　得法食至是常山相馮巡元氏令王翊復具白石<lb/>
+<pb n="KR2n0017_SBCK_003-24b"/>
+　本末求依無極爲比朝廷聽許遂開拓殿宇琢石<lb/>
+　勒碑其文有云居九山之數參三條之一趙氏莫<lb/>
+　曉三條爲何語按尚書正義曰從導岍至敷淺原<lb/>
+　舊説以爲三條地里志云禹貢北條之荆山則在<lb/>
+　馮翊懷徳縣南條之荆山則在南郡臨沮縣是舊<lb/>
+　有三條之說也故馬融王肅皆以導岍爲北條西<lb/>
+　傾爲中條嶓冡爲南條自岷山之南至敷淺原别<lb/>
+　以岷山爲首不與大别相接則岷非三條也殽阬<lb/>
+　碑云中條之山者蓋華嶽之體南通商雒以屬熊<lb/>
+<pb n="KR2n0017_SBCK_003-25a"/>
+　耳其文與正義合漢人分隷固有不工者或拙或<lb/>
+　怪皆有古意此碑雖布置整齊略無纎毫漢字氣<lb/>
+　骨全與魏晉間碑相若雖有光和紀年或後人用<lb/>
+　舊文再刻者爾<hi>昌祏即拓字<折 t="33"/>碑以畨昌爲蕃</hi>
+隷釋卷第三<lb/>
+<pb n="KR2n0017_SBCK_003-25b"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

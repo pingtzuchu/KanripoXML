@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>潞公集</head>
+    <p>
+<pb n="KR4d0061_WYG_000-1a"/>
+欽定四庫全書　　　　　集部三<lb/>
+　潞公集　　　　　　　　别集類二<hi>宋</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹按潞公集四十巻宋文彦博撰彦博<lb/>
+　　　　事蹟具宋史本傳是集凡賦頌二巻詩六巻<lb/>
+　　　　論一巻表啟一巻序一巻碑記墓誌一巻雜<lb/>
+　　　　文一巻自十四巻以後則皆奏議劄子之文<lb/>
+　　　　核其巻數與陳振孫書録解題同惟尚缺補<lb/>
+<pb n="KR4d0061_WYG_000-1b"/>
+　　　　選一巻考葉夢得序稱兵興以來世家大<lb/>
+　　　　族多奔走遷徙於是公之集藏於家者散<lb/>
+　　　　亡無餘其少子維申<hi>按維中乃文及甫之字</hi>稍討求<lb/>
+　　　　迨輯猶得二百八十六篇以類編次為畧<lb/>
+　　　　集二十巻是葉氏所序者也非原本陳氏<lb/>
+　　　　所著録者又非葉氏所序本今所傳者又<lb/>
+　　　　較陳氏之本候其一巻也彦博不以詩<lb/>
+　　　　名而風格秀逸情文相生王士禎稱其<lb/>
+<pb n="KR4d0061_WYG_000-2a"/>
+　　　　婉麗濃嫵絶似西崑嘗掇其佳句載之池北<lb/>
+　　　　偶談其文章不事雕飾而議論通逹卓然經<lb/>
+　　　　濟之言奏劄下多注年月亦可與正史相叅<lb/>
+　　　　考葉夢得序稱其未嘗有意於為文而因事<lb/>
+　　　　輒見操筆立成簡質重厚經緯錯出譬之賁鼔<lb/>
+　　　　鏞鐘音莭疏緩雜然並奏於堂上不害與嘒<lb/>
+　　　　嘒簫韶舞百獸而諧八風也斯言允矣乾隆<lb/>
+　　　　四十一年五月恭校上<lb/>
+<pb n="KR4d0061_WYG_000-2b"/>
+　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

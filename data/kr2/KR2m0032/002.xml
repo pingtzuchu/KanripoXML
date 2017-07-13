@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>明宫史</head>
+    <p>
+<pb n="KR2m0032_WYG_002-1a"/>
+欽定四庫全書　　　　　史部十三<lb/>
+　明宫史　　　　　　　　政書類二<hi>儀制之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案明宫史五卷舊本題蘆城赤隠吕<lb/>
+　　　　毖校次毖始末未詳考明末有吕毖字貞九<lb/>
+　　　　呉縣人嘗撰事原初畧三十四卷序題崇禎<lb/>
+　　　　甲申姓名時代皆相合疑即其人然艸茅之<lb/>
+　　　　士何由得詳記禁庭事殆不可解毋乃奄人<lb/>
+<pb n="KR2m0032_WYG_002-1b"/>
+　　　　知文義者所私記毖依附其門為之編録故<lb/>
+　　　　不稱撰述而稱校次歟其書叙述當時宫殿<lb/>
+　　　　樓臺服食宴樂及宫闈諸雜事大抵冗碎猥<lb/>
+　　　　鄙不足據為典要至於内監職掌條内稱司<lb/>
+　　　　禮監掌印秉筆秩尊視元輔權重視總憲云<lb/>
+　　　　云尤為悖妄葢歴代奄寺之權惟明為最重<lb/>
+　　　　歴代奄寺之禍亦惟明為最深二百餘年之<lb/>
+　　　　中盗持魁柄濁亂朝綱卒至於宗社郊墟生<lb/>
+<pb n="KR2m0032_WYG_002-2a"/>
+　　　　靈塗炭實為漢唐宋元所未有迨其末造乆<lb/>
+　　　　假不歸視威福自専如具固有遂肆無忌憚<lb/>
+　　　　筆之於書故迹其致亡之道雖亦多端要以<lb/>
+　　　　寵任貂璫為病本之所在也我<lb/>
+　　　朝自<lb/>
+　列聖以來<lb/>
+　家法森嚴内豎不過供灑掃或違律令必正刑章不<lb/>
+　　　　待於逺引周官委權冡宰而<lb/>
+<pb n="KR2m0032_WYG_002-2b"/>
+　　乾綱獨握<lb/>
+　　　宫掖肅清已足垂法於萬世乃猶防微杜漸<lb/>
+　　慮逺思深<lb/>
+　　特命繕錄斯編登諸冊府著前代亂亡之所自以<lb/>
+　　　　昭示無窮伏考尚書有曰殷鑒不逺在夏后<lb/>
+　　　　之世詩大雅有曰儀鑒于殷亦越漢之髙帝<lb/>
+　　　　使陸賈作新語亦曰著秦之所以失與我之<lb/>
+　　　　所以得葢時代彌近資考鏡者彌切也<lb/>
+<pb n="KR2m0032_WYG_002-3a"/>
+　　皇上於<lb/>
+　　　内殿叢編撿逢是帙闢其繆而仍存之<lb/>
+　　聖人之所見者大矣謹恭録<lb/>
+　　諭㫖弁冕簡端仰見衡鑒<lb/>
+　　親操折衷衆論勒千古未有之鴻編皆義主勸懲<lb/>
+　　　　言資法戒非徒以雕華浮艶為蔵弆之富也<lb/>
+　　　　乾隆四十七年十一月恭校上<lb/>
+　　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+<pb n="KR2m0032_WYG_002-3b"/>
+　　　　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

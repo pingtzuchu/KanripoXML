@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4d0368_WYG_095-1a"/>
+本堂集原䟦<lb/>
+張忠定公有言吾榜得人最多嘗疑其言之誇靜觀世<lb/>
+運厯數人物抗節不屈忠血凝碧泣抱龍髯下從彭咸<lb/>
+累書辭聘絶粒而逝凡此皆丙辰榜中人也本堂陳公<lb/>
+挾其耿介之氣發於雄深之文巋然獨立皓首不變則<lb/>
+亦吾丙辰同年進士也忠定之言豈不信乎公自為舉<lb/>
+子時文聲獵獵日起諸公爭致之授簡客右研墨盾鼻<lb/>
+出語往往驚其坐人時方工駢儷稱誦伊周擬方孔孟<lb/>
+<pb n="KR4d0368_WYG_095-1b"/>
+上之人受之亦不辭公下筆一掃諛風莫不根于理而<lb/>
+趨於古抽黄對白之習為少變時宰用事以策試士公<lb/>
+實叅之文衡於古人唯唯中得一諤士痛陳厭諱人言<lb/>
+消沮士風寵信吏胥壊朝廷紀綱十數事公持白其長<lb/>
+宜寘前列以稱徳祐求言之詔聞者為瑟縮而掩抑之<lb/>
+公作詩道其屈每對人言氣拂膺未㡬國事非矣余老<lb/>
+陽羡公之子深來山中以示遺藁若干巻讀之使人激<lb/>
+發而不能不使人嘆恨也公之文宜為誥只用之書檄<lb/>
+<pb n="KR4d0368_WYG_095-2a"/>
+牋啟宜被金石徒見之深山窮林佛老之廬天不使和<lb/>
+其聲鳴國家之盛而俛仰古今感觸風景以抒其黍離<lb/>
+麥秀之悲公亦豈料文之窮至此哉若夫挽王少保之<lb/>
+辭弔唐饒州之文誅權奸於九原表忠義於千古葢有<lb/>
+闗於世道之大者非徒文也余耄矣因念千佛經中多<lb/>
+墮鬼録余後死尚獲覩公之文可掛名其間固幸也斯<lb/>
+文之脉不絶如縷未知後之視今何如與晉人同一慨<lb/>
+矣時至大戊申仲夏既望丙辰榜下士荆溪蔣岩書䟦<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

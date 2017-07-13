@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>春秋簡書刋誤</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　　經部五<lb/>
+　春秋簡書刋誤　　　　　春秋類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案春秋簡書刋誤二卷<lb/>
+　　　國朝毛竒齡撰竒齡作春秋𫝊以春秋經文為<lb/>
+　　　　據古之簡書以左𫝊所述為據古之䇿書故<lb/>
+　　　　此編刋經文之誤以簡書為名皆以左𫝊為<lb/>
+　　　　主而附載公榖之異文辨證其謬因胡安國<lb/>
+<pb n="1b"/>
+　　　　𫝊多從榖梁并安國亦排斥之其舎左氏而<lb/>
+　　　　從公羊者惟襄公十四年衞侯衎出奔齊一<lb/>
+　　　　條耳攷左𫝊雖晚出而其文實竹帛相𫝊公<lb/>
+　　　　榖雖先立于學宫而其初皆由經師口授或<lb/>
+　　　　記憶之失真或方音之逓轉勢所必然不足<lb/>
+　　　　為怪竒齡必以為有意改經至於作于饗作<lb/>
+　　　　享亦縷論之殊為深詆然其論㑹袲不當有<lb/>
+　　　　齊侯單伯送王姬不應作逆夜恒星不見夜<lb/>
+<pb n="2a"/>
+　　　　中星隕如雨二夜字不應異文公伐齊納子<lb/>
+　　　　糾不應無子字齊人殱于遂不應作瀐曹羈<lb/>
+　　　　出奔陳赤歸于曹與鄭忽出奔衞突歸于鄭<lb/>
+　　　　同例㑹洮不應有鄭世子華欒書救鄭不應<lb/>
+　　　　作侵鄭召公來錫公命不應作賜命襄公五<lb/>
+　　　　年救陳不應作莒子邾子滕子薛伯㑹虢之<lb/>
+　　　　衞齊惡不應作石惡齊欒施不應作晉叔孫<lb/>
+　　　　婼不應名舎公㑹齊侯盟于黄不應作晉侯<lb/>
+<pb n="2b"/>
+　　　　衞趙陽不應作晉趙陽皆極精核至于蔑為<lb/>
+　　　　姑昧知昧為蔑轉而不知經刪姑字為隠公<lb/>
+　　　　諱冬宋人取長葛知經𫝊不符而不知宋以<lb/>
+　　　　先王之後用商正取長葛在建酉之月則此<lb/>
+　　　　冬而彼猶秋亦間有未密之處然其可取者<lb/>
+　　　　則多矣乾隆四十二年五月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>北軒筆記</head>
+    <p>
+<pb n="KR3j0144_WYG_000-1a"/>
+欽定四庫全書　　　　　子部十<lb/>
+　北軒筆記　　　　　　　雜家類三<hi>雜説之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案北軒筆記一卷元陳世隆撰是書<lb/>
+　　　　前有小傳不知何人所作稱世隆字彦髙錢<lb/>
+　　　　唐人宋末書賈陳思之從孫順帝至正中館<lb/>
+　　　　嘉興陶氏没于兵所著詩文皆不存惟宋詩<lb/>
+　　　　補遺八卷與此書存于陶氏家今宋詩補遺<lb/>
+<pb n="KR3j0144_WYG_000-1b"/>
+　　　　已無傳本惟此一卷存耳書中所論史事為<lb/>
+　　　　多如論西伯戡黎力辨委曲回䕶之説論魯<lb/>
+　　　　兩生不知禮樂論胡寅譏劉晏之非論秦王<lb/>
+　　　　廷美生于耿氏之誣論周以于謹為三老禮<lb/>
+　　　　違古制皆具有特見至所載僧静如事則體<lb/>
+　　　　襍小説未免為例不純然不害其宏㫖也乾<lb/>
+　　　　隆四十六年十月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+<pb n="KR3j0144_WYG_000-2a"/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="KR3j0144_WYG_000-3a"/>
+北軒筆記小傳<lb/>
+陳彥髙名世隆以字行錢塘人自其從祖思以書賈能<lb/>
+詩當宋之末馳譽儒林家名藏書彥髙與弟彥博下帷<lb/>
+課誦振起家聲弟仕兄隠各行其志元至正間兄弟竝<lb/>
+館於嘉興值兵亂彥髙竟遇害詩文集不傳惟宋詩補<lb/>
+遺八卷北軒筆記一卷彥博館主人陶氏有其抄本云<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

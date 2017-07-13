@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>吳興備志</head>
+    <p>
+<pb n="KR2k0034_WYG_000-1a"/>
+欽定四庫全書　　　　　史部十一<lb/>
+　吳興備志　　　　　　　地理𩔖三<hi>都㑹郡縣之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案吳興備志三十二卷明董斯張撰<lb/>
+　　　　斯張字遐周烏程人是編輯錄湖州故事分<lb/>
+　　　　二十六徵曰帝胄曰宫闈曰封爵曰官師曰<lb/>
+　　　　人物曰笄褘曰寓公曰象緯曰建置曰巖澤<lb/>
+　　　　曰田賦曰水利曰選舉曰戰守曰賑䘏曰祥<lb/>
+<pb n="KR2k0034_WYG_000-1b"/>
+　　　　孽曰經籍曰遺書曰金石曰書畫曰清閟曰<lb/>
+　　　　方物曰璅曰詭曰匡籍采摭極富于吴興一<lb/>
+　　　　郡遺聞瑣事徵引畧備每門皆全錄古書載<lb/>
+　　　　其原文有所考訂則附著于下葢張鳴鳳桂<lb/>
+　　　　故桂勝體例如是而斯張因之雖意主博奧<lb/>
+　　　　不無以泛濫為嫌然當時著書家影響附㑹<lb/>
+　　　　之談剽竊撏撦之習實能一舉而空之故所<lb/>
+　　　　摘錄𩔖皆典雅確核足資考据明季諸書此<lb/>
+<pb n="KR2k0034_WYG_000-2a"/>
+　　　　此為差有實際黄茅白葦之中可以謂之翹<lb/>
+　　　　楚矣乾隆四十二年八月恭校<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+<pb n="KR2k0034_WYG_000-3a"/>
+欽定四庫全書　　　　　史部十一<lb/>
+　呉興備志目錄　　　　　地理𩔖三<hi>都㑹郡縣之屬</hi>
+　　卷一<lb/>
+　　　帝胄徵<lb/>
+　　　宮闈徵<lb/>
+　　　封爵徵<lb/>
+　　卷二<lb/>
+　　　官師徵<lb/>
+<pb n="KR2k0034_WYG_000-3b"/>
+　　卷三<lb/>
+　　　官師徵<lb/>
+　　卷四<lb/>
+　　　官師徵<lb/>
+　　卷五<lb/>
+　　　官師徵<lb/>
+　　卷六<lb/>
+　　　官師徵<lb/>
+<pb n="KR2k0034_WYG_000-4a"/>
+　　卷七<lb/>
+　　　官師徵<lb/>
+　　卷八<lb/>
+　　　人物徵<lb/>
+　　卷九<lb/>
+　　　人物徵<lb/>
+　　卷十<lb/>
+　　　人物徵<lb/>
+<pb n="KR2k0034_WYG_000-4b"/>
+　　卷十一<lb/>
+　　　人物徵<lb/>
+　　卷十二<lb/>
+　　　人物徵<lb/>
+　　卷十三<lb/>
+　　　笄褘徵<lb/>
+　　　寓公徵<lb/>
+　　　藝術徵<lb/>
+<pb n="KR2k0034_WYG_000-5a"/>
+　　卷十四<lb/>
+　　　象緯徵<lb/>
+　　　建置徵<lb/>
+　　卷十五<lb/>
+　　　巖澤徵<lb/>
+　　卷十六<lb/>
+　　　田賦徵<lb/>
+　　卷十七<lb/>
+<pb n="KR2k0034_WYG_000-5b"/>
+　　　水利徵<lb/>
+　　卷十八<lb/>
+　　　選舉徵<lb/>
+　　卷十九<lb/>
+　　　戰守徵<lb/>
+　　卷二十<lb/>
+　　　賑恤徵<lb/>
+　　卷二十一<lb/>
+<pb n="KR2k0034_WYG_000-6a"/>
+　　　祥孽徵<lb/>
+　　卷二十二<lb/>
+　　　經籍徵<lb/>
+　　卷二十三<lb/>
+　　　遺書徵<lb/>
+　　卷二十四<lb/>
+　　　金石徵<lb/>
+　　卷二十五<lb/>
+<pb n="KR2k0034_WYG_000-6b"/>
+　　　書畵徵<lb/>
+　　　清閟徵<lb/>
+　　卷二十六<lb/>
+　　　方物徵<lb/>
+　　卷二十七<lb/>
+　　　璅徵<lb/>
+　　卷二十八<lb/>
+　　　璅徵<lb/>
+<pb n="KR2k0034_WYG_000-7a"/>
+　　卷二十九<lb/>
+　　　璅徴<lb/>
+　　卷三十<lb/>
+　　　詭徴<lb/>
+　　卷三十一<lb/>
+　　　詭徴<lb/>
+　　卷三十二<lb/>
+　　　　匡籍譌<lb/>
+<pb n="KR2k0034_WYG_000-8a"/>
+吳興偹志自序<lb/>
+志吳興者韋昭而下若而人僅談氏見明志曰九江勞<lb/>
+氏曰婁浦氏而鄉先生唐氏書後見浦之以帝紀紀郡<lb/>
+非古也其剏為表志粲矣大率病勞氏之蕪求以簡勝<lb/>
+而刻削不中程使人咨嗟焉往古之蹟浸以微此寓公<lb/>
+徐長谷氏掌故之所由作也志金石山墟因乎談氏勞<lb/>
+氏餘則仍其半而博取他𫝊記附益之其匠之獨者則<lb/>
+水利土風雜攷之屬在唐志出較浦志如秦變周幾不<lb/>
+<pb n="KR2k0034_WYG_000-8b"/>
+可復識而間捃徐氏之什二漢沈瑜古遺孝也章華陳<lb/>
+之又一泄冶也而不書堂邑令有諫顔尚書西亭有記<lb/>
+録循良也陸魯望賦蠶刺時事也亦不書聞栗侯請志<lb/>
+乎唐先生先生病矣無何竟不祿其門人王某李某輙<lb/>
+成書詭先生草以報或曰其序例先生手定草也或曰<lb/>
+否侯屬先王父序之王父遊先生之門懼失侯指不敢<lb/>
+訟非唐氏書序中苐微言病不與聞云而郡之士大夫<lb/>
+求故寔者愈藉藉長谷氏書嵗甲寅余始讀掌故甚偉<lb/>
+<pb n="KR2k0034_WYG_000-9a"/>
+之廼稍取史籍比勘其軼而未甄者不乏也已補之為<lb/>
+一家言得六卷㑹病書竟罷今天啟甲子相去十年有<lb/>
+問居士疾者語及此書惜余不竟其業數責余黽勉將<lb/>
+事百許日再得七卷家苦少書間有儲久已佚去又病<lb/>
+不能就人借借鮮應者閔子康侯氏聞而傷之遺予書<lb/>
+曰夫人習乎近者其避古也若仇某及竑<graphic n="KR0802" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0802.png" mimeType="image/png"/>兄懐此舊<lb/>
+矣足下不起而成此書足下起而成此書亦可與存古<lb/>
+也即須書某及子京弟人生生甫姪為役乃出其藏書<lb/>
+<pb n="KR2k0034_WYG_000-9b"/>
+幾五百種示余又居恒齋中所讀書有闗郡事者立書<lb/>
+赫蹏相寄或雪夕叩闗余輙起篝火冩之凡數月得十<lb/>
+有六卷嗣張子殷子所借書亦皆至最後得叢録一書<lb/>
+則康侯及其兄竑<graphic n="KR0802" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0802.png" mimeType="image/png"/>氏舊所輯也讎余書芟其複復益<lb/>
+三卷其白法志及藝文補别行復如干卷而余之補徐<lb/>
+氏書始克成嗟乎世之盗稱賢逹驕吝滿胸視成人尺<lb/>
+寸之羙如騶虞殺竊脂榖者豈少哉康侯其幾於晰無<lb/>
+我者也書成名曰偹志為徴者二十有六以匡籍譌終<lb/>
+<pb n="KR2k0034_WYG_000-10a"/>
+之凡某事出某書某人出某書眉列其下人不敢軒輊<lb/>
+事不敢論斷以須夫志乎志者之采焉而已矣後之君<lb/>
+子得是書為唐氏徐氏翼且復乎婁浦氏表志之故烺<lb/>
+乎其足述哉然則志如是不已繁乎志也者外史氏上<lb/>
+之太史者志而史偹志而志竑<graphic n="KR0802" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0802.png" mimeType="image/png"/>名光徳康侯名元衢<lb/>
+子京名元京人生生甫名自寅及申皆余同邑人<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>仇池筆記</head>
+    <p>
+<pb n="KR3j0093_WYG_000-1a"/>
+欽定四庫全書　　　　　子部十<lb/>
+　仇池筆記　　　　　　　雜家類三<hi>雜説之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案仇池筆記二卷舊本題宋蘇軾撰<lb/>
+　　　　疑好事者集其襍帖為之未必出軾之手著<lb/>
+　　　　觀下卷杜甫詩一條云杜甫詩固無敵然自<lb/>
+　　　　致逺已下句甚村陋也其為偶閲杜詩批于<lb/>
+　　　　致逺終恐泥句上之語顯然無疑他可以類<lb/>
+<pb n="KR3j0093_WYG_000-1b"/>
+　　　　推矣又如蒸豚詩一條記醉僧事不類軾語<lb/>
+　　　　疑併有所附㑹竄入然相傳引用已久亦間<lb/>
+　　　　可以備考証也此書陶宗儀説郛亦収之而<lb/>
+　　　　刪節不完明萬厯壬寅趙開美嘗刋其全本<lb/>
+　　　　板已久佚此本前有開美序盖從趙本錄出<lb/>
+　　　　者書中與志林互見者皆但存標題而下注<lb/>
+　　　　見志林字疑亦開美所改竄云乾隆四十二<lb/>
+　　　　年七月恭校上<lb/>
+<pb n="KR3j0093_WYG_000-2a"/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="KR3j0093_WYG_000-3a"/>
+仇池筆記原序<lb/>
+筆記於志林表裏書也先大夫既已序志林而刻之矣<lb/>
+兹於曽公類説中復得此兩卷其與志林並見者得三<lb/>
+十六則去其文而存其題庶無複辭亦不廢若原書此<lb/>
+余刻筆記意也竊謂長公才具七斗游戲翰墨皆成文<lb/>
+章故片紙隻字無非斷圭折璧才既髙而節復峻此足<lb/>
+以起忮矣况復呶呶不勝其䀝睨一世則側目而揶揄<lb/>
+之者固將甘心焉而相公厮壊殆以柄國者為鱉矣士<lb/>
+<pb n="KR3j0093_WYG_000-3b"/>
+固可殺不可辱也議新法未必傷柄人之心然此等語<lb/>
+不足以徹髓耶夫荆公固士也學雖僻而奈何辱之哉<lb/>
+烏臺之獄豈盡人尢也乎刻筆記萬厯壬寅孟夏日海<lb/>
+虞清常道人趙開美識<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

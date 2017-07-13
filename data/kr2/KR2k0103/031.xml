@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>闗中勝蹟圖志卷三十一</head> <lb/>
+    <p>
+<pb n="KR2k0103_WYG_031-1a"/>
+欽定四庫全書<lb/>
+　闗中勝蹟圖志卷三十一<lb/>
+　　　　　　　　　　　　陜西巡撫畢沅撰<lb/>
+　圖<lb/>
+<pb n="KR2k0103_WYG_031-2a"/>
+</p>
+<p>
+<pb n="KR2k0103_WYG_031-3a"/>
+</p>
+<p>
+<pb n="KR2k0103_WYG_031-4a"/>
+</p>
+<p>
+<pb n="KR2k0103_WYG_031-5a"/>
+</p>
+<p>
+<pb n="KR2k0103_WYG_031-6a"/>
+</p>
+<p>
+<pb n="KR2k0103_WYG_031-7a"/>
+</p>
+<p>
+<pb n="KR2k0103_WYG_031-8a"/>
+</p>
+<p>
+<pb n="KR2k0103_WYG_031-9a"/>
+</p>
+<p>
+<pb n="KR2k0103_WYG_031-10a"/>
+</p>
+<p>
+<pb n="KR2k0103_WYG_031-11a"/>
+</p>
+<p>
+<pb n="KR2k0103_WYG_031-12a"/>
+</p>
+<p>
+<pb n="KR2k0103_WYG_031-13a"/>
+</p>
+<p>
+<pb n="KR2k0103_WYG_031-14a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2k0103_WYG_031-14b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　闗中勝蹟圖志卷三十一<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0148_WYG_024-1a"/>
+欽定四庫全書<lb/>
+御選唐宋詩醇巻十一<lb/>
+　　襄陽杜甫詩三<lb/>
+　　　目錄<lb/>
+　　乾元中寓居同谷縣作歌七首<lb/>
+　　水㑹渡<lb/>
+　　飛仙閣<lb/>
+　　龍門閣<lb/>
+<pb n="KR4h0148_WYG_024-1b"/>
+　　石櫃閣<lb/>
+　　桔柏渡<lb/>
+　　劔門<lb/>
+　　成都府<lb/>
+　　石犀行<lb/>
+　　題壁畫馬歌<lb/>
+　　戱題畫山水圖歌<lb/>
+　　題李尊師松樹障子歌<lb/>
+<pb n="KR4h0148_WYG_024-2a"/>
+　　戯為雙松圖歌<lb/>
+　　病柏<lb/>
+　　病橘<lb/>
+　　枯㯶<lb/>
+　　枯柟<lb/>
+　　戯作花卿歌<lb/>
+　　柟樹為風雨所㧞嘆<lb/>
+　　茅屋為秋風所破歌<lb/>
+<pb n="KR4h0148_WYG_024-2b"/>
+　　天邊行<lb/>
+　　苦戰行<lb/>
+　　述古<lb/>
+　　觀打魚歌<lb/>
+　　越王樓歌<lb/>
+　　冬到金華山觀因得故拾遺陳公學堂遺跡<lb/>
+　　通泉驛南去通泉縣十五里作<lb/>
+　　過郭代公故宅<lb/>
+<pb n="KR4h0148_WYG_024-3a"/>
+　　短歌行<lb/>
+　　桃竹杖引<lb/>
+　　韋諷録事宅觀曹將軍畫馬圖<lb/>
+　　丹青引<lb/>
+　　發閬中<lb/>
+　　寄韓諌議<lb/>
+　　憶昔<lb/>
+　　冬狩行<lb/>
+<pb n="KR4h0148_WYG_024-3b"/>
+　　別唐十五誡因寄禮部賈侍郎<lb/>
+　　閬山歌<lb/>
+　　閬水歌<lb/>
+　　草堂<lb/>
+　　太子張舍人遺織成褥段<lb/>
+　　杜鵑<lb/>
+　　客至<lb/>
+　　水閣朝霽奉簡嚴雲安<lb/>
+<pb n="KR4h0148_WYG_024-4a"/>
+　　蠶榖行<lb/>
+　　古柏行<lb/>
+　　縛鷄行<lb/>
+　　牽牛織女<lb/>
+　　殿中楊監見示張旭草書圖<lb/>
+　　課伐木<lb/>
+　　槐葉冷淘<lb/>
+　　行官張望補稻畦水歸<lb/>
+<pb n="KR4h0148_WYG_024-4b"/>
+　　上後園山脚<lb/>
+　　驅竪子摘蒼耳<lb/>
+　　秋行官張望督促東渚耗稻向畢清晨遣女奴阿<lb/>
+　　稽竪子阿段往問<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>髙峯文集目録</head>
+    <p>
+<pb n="KR4d0223_WYG_000-1a"/>
+欽定四庫全書　　　　　集部四<lb/>
+　髙峯文集目録　　　　　别集類三<hi>宋</hi>
+　　巻一<lb/>
+　　　劄子<lb/>
+　　巻二<lb/>
+　　　劄子<lb/>
+　　巻三<lb/>
+　　　表<lb/>
+<pb n="KR4d0223_WYG_000-1b"/>
+　　巻四<lb/>
+　　　表<lb/>
+　　巻五<lb/>
+　　　奏狀<lb/>
+　　巻六<lb/>
+　　　進故事<lb/>
+　　巻七<lb/>
+　　　辭免<lb/>
+<pb n="KR4d0223_WYG_000-2a"/>
+　　　乞出<lb/>
+　　　乞致仕<lb/>
+　　巻八<lb/>
+　　　啓<lb/>
+　　巻九<lb/>
+　　　啓<lb/>
+　　　簡<lb/>
+　　巻十<lb/>
+<pb n="KR4d0223_WYG_000-2b"/>
+　　　詩<lb/>
+　　　詞曲<lb/>
+　　巻十一<lb/>
+　　　疏狀<lb/>
+　　　青詞<lb/>
+　　　記<lb/>
+　　　題跋<lb/>
+　　　墓誌<lb/>
+<pb n="KR4d0223_WYG_000-3a"/>
+　　巻十二<lb/>
+　　　致語<lb/>
+　　　祝文<lb/>
+　　　祭文<lb/>
+　　　挽詞<lb/>
+　　　　<hi>臣</hi>等謹案髙峰文集十二巻宋廖剛撰剛字<lb/>
+　　　　用中順昌人紹興中為御史中丞以提舉明<lb/>
+　　　　道宫致仕髙峯其號也朱子語類論龜山門<lb/>
+<pb n="KR4d0223_WYG_000-3b"/>
+　　　　人謂剛為助和議今觀其集若漳州被召上<lb/>
+　　　　殿乞約束邊將諸劄其説誠然然宋史本傳<lb/>
+　　　　載金人敗盟剛乃有責鄭億年以百口保金<lb/>
+　　　　人之語又欲起舊相有徳望者以是為檜所<lb/>
+　　　　惡致斥奉祠而集中與秦相公書亦以和議<lb/>
+　　　　為失前後如出兩人豈至是乃悟其謬歟史<lb/>
+　　　　以剛與張九成胡銓同傳固為不倫然視怙<lb/>
+　　　　過黨惡者則有間矣其他奏議指陳當時利<lb/>
+<pb n="KR4d0223_WYG_000-4a"/>
+　　　　弊頗有可採答陳㡬叟書論知制誥之失尤<lb/>
+　　　　為切當至其乞設親軍劄子舍大慮小所見<lb/>
+　　　　殊陋又諫止髙宗節序拜欽宗事于君臣兄<lb/>
+　　　　弟之義亦皆未協宋史乃獨采之去取未免<lb/>
+　　　　失倫是集久無刻本傳寫多誤脱字或至數<lb/>
+　　　　行無從校補今亦姑從舊本録之云乾隆四<lb/>
+　　　　十三年九月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+<pb n="KR4d0223_WYG_000-4b"/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>尚書七篇解義</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　　經部二<lb/>
+　尚書七篇解義　　　　　書𩔖<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案尚書七篇解義二巻<lb/>
+　　　國朝李光地撰是書僅解堯典舜典大禹謨臯<lb/>
+　　　　陶謨益稷禹貢洪範七篇盖未竟之本所說<lb/>
+　　　　不以訓詁為長詞㫖簡約而多有精義大禹<lb/>
+　　　　謨篇不以古文為偽而云孔安國有所刪添<lb/>
+<pb n="1b"/>
+　　　　東漢以後儒者又有所竊竄以解文詞平易<lb/>
+　　　　之故未免出于調停禹貢篇解五服五千以<lb/>
+　　　　飛鳥圖為算謂塞盡處北極出地四十二度<lb/>
+　　　　至廣海戴日北極出地二十三度一度為二<lb/>
+　　　　百五十里南北恰距五千以遷就入於南海<lb/>
+　　　　之文亦由光地閩人不欲其鄉出禹貢揚州<lb/>
+　　　　之外故立是說與訓洪為大訓範為訓謂洪<lb/>
+　　　　範即顧命之大訓皆未免巧而不確至于堯<lb/>
+<pb n="2a"/>
+　　　　典之論<graphic n="KR0882" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0882.png" mimeType="image/png"/>差舜典之論盖天渾天十有二州<lb/>
+　　　　與詩歌聲律禹貢之論潛水沔水相通沔水<lb/>
+　　　　渭水不相入彭蠡即今之巢湖㑹于滙為即<lb/>
+　　　　鄱陽原隰瀦野為非地名則皆實有考證之<lb/>
+　　　　言非經生家之據理懸揣者矣乾隆四十二<lb/>
+　　　　年十月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

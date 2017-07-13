@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2d0019_WYG_064-1a"/>
+　欽定四庫全書<lb/>
+御定歴代紀事年表卷六十八<lb/>
+　　<hi>起甲子唐徳宗興元酉唐徳宗貞元二十</hi>　<hi>年正止乙年  月</hi>凡二十一年有奇<lb/>
+　　表例説<lb/>
+　　　<hi>臣</hi>之樞謹按唐書以叛臣逆臣分為二傳葢逆臣<lb/>
+　　　朱泚李希烈之徒俱僣號改元故照安史例另為<lb/>
+　　　立格書附字以别之叛臣李懐光李忠臣等情迹<lb/>
+　　　亦同於逆而未及僣號改元事無所附因其同為<lb/>
+<pb n="KR2d0019_WYG_064-1b"/>
+　　節度使列於藩鎮格之末<lb/>
+<pb n="KR2d0019_WYG_064-2a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-3a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-4a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-5a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-6a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-7a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-8a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-9a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-10a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-11a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-12a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-13a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-14a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-15a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-16a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-17a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-18a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-19a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-20a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-21a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-22a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-23a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-24a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-25a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-26a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-27a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-28a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-29a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-30a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-31a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-32a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-33a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-34a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-35a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-36a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-37a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-38a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-39a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-40a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-41a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-42a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-43a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-44a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-45a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-46a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-47a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-48a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-49a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-50a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-51a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-52a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-53a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-54a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-55a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-56a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-57a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-58a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-59a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-60a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-61a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-62a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-63a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-64a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-65a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-66a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-67a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-68a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-69a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-70a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-71a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-72a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-73a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-74a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-75a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-76a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-77a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-78a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_064-79a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2d0019_WYG_064-79b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定歴代紀事年表卷六十八<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

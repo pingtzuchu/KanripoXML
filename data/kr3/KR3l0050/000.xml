@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>提要<lb/>
+                </head>
+    <p>
+<pb n="KR3l0050_WYG_000-1a"/>
+欽定四庫全書　　　　　　子部十二<lb/>
+　提要<lb/>
+　　珍席放談二卷　　　　　小說家𩔖一<hi>雜事之屬</hi>
+　　　　<hi>臣</hi>等謹案珍席放談二卷宋髙晦叟撰晦叟<lb/>
+　　　　仕履無可考所紀上自太祖下及哲宗時事<lb/>
+　　　　則崇寜以後人也是書宋史藝文不著録惟<lb/>
+　　　　文淵閣書目載有一冊世無傳本今散見於<lb/>
+　　　　永樂大典者尚可裒輯成編謹採集排綴釐<lb/>
+<pb n="KR3l0050_WYG_000-1b"/>
+　　　　為上下二卷書中於朝廷典章制度沿革損<lb/>
+　　　　益及士大夫言行可為法鑒者隨所聞見分<lb/>
+　　　　條録載如王旦之友悌吕夷簡之識度富弼<lb/>
+　　　　之避嫌韓琦之折佞其事皆本傳所未詳可<lb/>
+　　　　補史文之闕特間加評論是非軒輊往往不<lb/>
+　　　　能持平又當王氏學術盛行之時於安石多<lb/>
+　　　　曲加迴䕶頗乖公議然一代掌故猶藉以考<lb/>
+　　　　見大凡所謂識小之流於史學固不無禆助也<lb/>
+<pb n="KR3l0050_WYG_000-2a"/>
+　　　　乾隆四十六年九月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

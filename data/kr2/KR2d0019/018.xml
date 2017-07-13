@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2d0019_WYG_018-1a"/>
+　欽定四庫全書<lb/>
+御定歴代紀事年表卷二十<lb/>
+　　秦世系表畧<lb/>
+　　　秦之先帝顓頊之苗裔孫曰女修女修生大業大<lb/>
+　　　業生大費大費與禹平水土已成佐舜調馴鳥獸<lb/>
+　　　是為伯翳賜姓嬴氏生子二人一曰大亷一曰若<lb/>
+　　　木若木𤣥孫曰費昌費昌當桀時去夏歸商為湯<lb/>
+　　　御敗桀於鳴條大亷𤣥孫曰孟戲中衍鳥身人言<lb/>
+<pb n="KR2d0019_WYG_018-1b"/>
+　　　為太戊御中衍之後世有功佐殷多顯遂為諸侯<lb/>
+　　　其𤣥孫曰中潏在西戎保西垂生蜚亷蜚亷生惡<lb/>
+　　　來蜚亷善走惡來有力父子以材力事紂周武伐<lb/>
+　　　紂并殺惡來蜚亷復有子曰季勝五世至造父為<lb/>
+　　　穆王御封趙惡來子曰女防四世至非子非子以<lb/>
+　　　造父之寵皆䝉趙城姓趙氏周孝王使主馬於汧<lb/>
+　　　渭之間馬大蕃息封為附庸邑之秦使復續嬴氏<lb/>
+　　　祀三世至秦仲宣王命為大夫秦仲孫襄公討西<lb/>
+<pb n="KR2d0019_WYG_018-2a"/>
+　　戎有功平王東遷以岐豐地賜之列為諸侯七世<lb/>
+　　至穆公始霸𫝊十五君至獻公獻公𫝊孝公國日<lb/>
+　　强始用商鞅以利而致富强廢井田開阡陌𫝊惠<lb/>
+　　王始稱王歴武昭孝文至莊襄王滅周始皇帝以<lb/>
+　　吕易嬴并吞六國廢封建置郡縣天下一統者一<lb/>
+　　十二年専以刑威立國焚書坑儒暴虐不道𫝊二<lb/>
+　　世三年而亡子嬰降漢項羽殺之<lb/>
+<pb n="KR2d0019_WYG_018-3a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_018-4a"/>
+年表卷二十<lb/>
+　<hi>起乙夘秦王政元年○止甲午二世皇帝三年</hi>凡四十年<lb/>
+　表例説<lb/>
+　　<hi>臣</hi>之樞謹按秦王政元年係正統之始故於板心<lb/>
+　　大書但六國尚存故虚天位於上後漢髙祖元年<lb/>
+　　唐髙祖元年宋太祖元年同此例<lb/>
+<pb n="KR2d0019_WYG_018-5a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_018-6a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_018-7a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_018-8a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_018-9a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_018-10a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_018-11a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_018-12a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_018-13a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_018-14a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_018-15a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_018-16a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_018-17a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_018-18a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_018-19a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_018-20a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_018-21a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_018-22a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_018-23a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_018-24a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_018-25a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_018-26a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_018-27a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_018-28a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_018-29a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_018-30a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_018-31a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_018-32a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_018-33a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_018-34a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_018-35a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_018-36a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_018-37a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_018-38a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_018-39a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_018-40a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_018-41a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_018-42a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_018-43a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_018-44a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_018-45a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_018-46a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_018-47a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_018-48a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_018-49a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_018-50a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_018-51a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_018-52a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_018-53a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_018-54a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_018-55a"/>
+　　漢賈誼論曰秦以區區之地致萬乗之權招八州而<lb/>
+　　朝同列百有餘年然後以六合為家殽函為宫一夫<lb/>
+　　作難而七廟隳身死人手為天下笑者何也仁義不<lb/>
+　　施而攻守之勢異也<lb/>
+　　宋陳止齋傅良曰古者有畏民之君是以無可畏之<lb/>
+　　民後之人君狃於民不足畏而民之大可畏者始見<lb/>
+　　於天下矣秦自孝公薦食諸侯歴七世而并於始皇<lb/>
+　　之手自以為天下舉無可虞足以拱視崤函之上而<lb/>
+<pb n="KR2d0019_WYG_018-55b"/>
+　　海内晏然者萬葉矣不知天下之大可畏伏於大澤<lb/>
+　　之卒隠於鉅鹿之盜而其睥睨覘覷者已滿於江之<lb/>
+　　西山之東也一呼而起氓𨽻雲集雖章邯百萬之師<lb/>
+　　建瓴而下而全闗之地已税駕於霸上之劉季矣嗚<lb/>
+　　呼秦以七世亡六國而民以期月亡秦以秦之强不<lb/>
+　　能當民之弱天下之真可畏者果安在哉<lb/>
+　<lb/>
+御定歴代紀事年表卷二十<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

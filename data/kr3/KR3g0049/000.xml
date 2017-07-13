@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>禽星易見</head>
+    <p>
+<pb n="KR3g0049_WYG_000-1a"/>
+欽定四庫全書　　　　　子部七<lb/>
+　禽星易見　　　　　　　術數類六<hi>隂陽五行之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案禽星易見一卷明池本理撰本理贛<lb/>
+　　　　州人明史藝文志載所著有禽遁大全四卷禽<lb/>
+　　　　星易見四卷此本僅作一卷盖傳抄者所合<lb/>
+　　　　併也禽星之用不一此専取七元甲子局用<lb/>
+　　　　翻禽倒將之法推時日吉凶以利於用或以<lb/>
+<pb n="KR3g0049_WYG_000-1b"/>
+　　　　為其法始于張良本風后神樞鬼藏之㫖為<lb/>
+　　　　兵家祕傳盖好事者附㑹之説其實於一切<lb/>
+　　　　人事得失趨避無所不占凡條營立寨吉時<lb/>
+　　　　特間一及之而已所論禽官性情喜好呑啗<lb/>
+　　　　進退取化之理較他書為簡明而以時日禽<lb/>
+　　　　為彼我公用之禽専用翻禽為我倒將為彼<lb/>
+　　　　乃其獨得之解尤為可採惟不載治曜較異<lb/>
+　　　　於他書至以斗木為蠏故其性最弱靜而安<lb/>
+<pb n="KR3g0049_WYG_000-2a"/>
+　　　　閒非獬豸之獬亦足訂星家之訛異存之以<lb/>
+　　　　與壬遁諸書參覽猶不失為古之遺法也乾<lb/>
+　　　　隆四十六年十月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

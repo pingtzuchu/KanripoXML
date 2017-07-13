@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>陜西通志卷六</head> <lb/>
+    <p>
+<pb n="KR2k0050_WYG_006-1a"/>
+欽定四庫全書<lb/>
+　陜西通志卷六<lb/>
+　　疆域一<hi>省府州縣圖</hi>
+　<hi>天府名邦幅員式廓冀豫荆梁壤連繡錯屏衞中原隔閡沙漠近服遵循逺疆啟拓聚米布碁井里城郭支祈効摉章亥奮蹻四塞</hi>
+　<hi>雄圖西陲鎖鑰大化覃敷帡幪永託作疆域志第三上㳺為鳳翔謹按西安面臨終南背據涇渭其西自隴坻踞汧渭</hi>
+　<hi>其西北介梁岐涇渭之間為乾左阻石門踞涇上㳺為邠其北界秦山跨漆沮者為耀自子午嶺東跨洛為鄜又北界横山東瀕河</hi>
+　<hi>為延安自横山北接套地為榆林其東北界梁山控帶河洛為同又循河而北為綏德又東北抵套為葭其西南自嶓冡至太白之</hi>
+　<hi>陽跨漢為漢中其南居終南之陽為興安其東自秦嶺至于太華在嶽之隂為華其東南在嶽之陽為商此陜東疆域之大凡也</hi>
+<pb n="KR2k0050_WYG_006-2a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-3a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-4a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-5a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-6a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-7a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-8a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-9a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-10a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-11a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-12a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-13a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-14a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-15a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-16a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-17a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-18a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-19a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-20a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-21a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-22a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-23a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-24a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-25a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-26a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-27a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-28a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-29a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-30a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-31a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-32a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-33a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-34a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-35a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-36a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-37a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-38a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-39a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-40a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-41a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-42a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-43a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-44a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-45a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-46a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-47a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-48a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-49a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-50a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-51a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-52a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-53a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-54a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-55a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-56a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-57a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-58a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-59a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-60a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-61a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-62a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-63a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-64a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-65a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-66a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-67a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-68a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-69a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-70a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-71a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-72a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-73a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-74a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-75a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-76a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-77a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-78a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-79a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-80a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-81a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-82a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-83a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-84a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-85a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-86a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-87a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-88a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-89a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-90a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-91a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-92a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-93a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-94a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-95a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-96a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-97a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-98a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-99a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-100a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-101a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_006-102a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2k0050_WYG_006-102b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　陜西通志卷六<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

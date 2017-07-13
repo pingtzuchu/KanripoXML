@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>提要<lb/>
+                </head>
+    <p>
+<pb n="KR4d0319_WYG_000-1a"/>
+欽定四庫全書　　　　　集部四<lb/>
+　提要<lb/>
+　　浣川集十巻　　　　　别集類三<hi>宋</hi>
+　　　　<hi>臣</hi>等謹按浣川集十巻宋戴栩撰栩字文子<lb/>
+　　　　朱彞尊經義考引王瓚説作字立子未知孰<lb/>
+　　　　是也永嘉人登嘉定元年進士為太學博士<lb/>
+　　　　遷秘書郎出知臨江軍不赴後復起為湖南<lb/>
+　　　　安撫司參議官焦竑國史經籍志載所著浣<lb/>
+<pb n="KR4d0319_WYG_000-1b"/>
+　　　　川集十八卷案栩有絶句云近來萬境心如<lb/>
+　　　　洗笑改斜川作浣川蓋其罷官後所自號因<lb/>
+　　　　以名集也外間久無傳本今從永樂大典採<lb/>
+　　　　掇編次釐為十巻栩與徐照徐璣翁巻趙紫<lb/>
+　　　　芝等同里故其詩𣲖去四靈為近然其命詞<lb/>
+　　　　琢句多以鏤刻為工與四靈之專主清瘦者<lb/>
+　　　　氣格稍殊蓋同源異流各得其性之所近至<lb/>
+　　　　其文章法度則本為葉適之弟子一一守其<lb/>
+<pb n="KR4d0319_WYG_000-2a"/>
+　　　　師傳故研鍊生新與水心集尤為酷似中如<lb/>
+　　　　論聖學論邉備諸劄子亦復敷陳剴切在永<lb/>
+　　　　嘉末𣲖可云尚有典型惟是史彌逺柄國之<lb/>
+　　　　時栩獻詩䛕頌不一而足而胡知柔以争濟<lb/>
+　　　　王事忤彌逺謫赴象䑓栩又賦詩贈行深致<lb/>
+　　　　惋惜前後若出兩轍昔韓愈上京兆尹李實<lb/>
+　　　　書深相推挹及作順宗實録乃具列其罪文<lb/>
+　　　　人前後異論雖往往而然然不應一時之内<lb/>
+<pb n="KR4d0319_WYG_000-2b"/>
+　　　　半面笑啼覆雨翻雲至于如是豈非内託于<lb/>
+　　　　權倖外又附于清流歟其人殊不足道以詞<lb/>
+　　　　采取之可矣經義考載栩所著有五經説註<lb/>
+　　　　曰已佚今考其説惟謂周禮特周公大約之<lb/>
+　　　　書當時未必盡行其立論頗為有識至于謂<lb/>
+　　　　詩壊于衛宏之序春秋誤于公羊之傳易由<lb/>
+　　　　於三聖繫爻彖象之互入書失于孔壁序傳<lb/>
+　　　　簡編之相亂大抵南宋諸人輕詆漢儒之餘<lb/>
+<pb n="KR4d0319_WYG_000-3a"/>
+　　　　唾雖不存可也乾隆四十六年九月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　總　校　官　<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

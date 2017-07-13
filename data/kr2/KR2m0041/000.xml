@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>厯代建元考</head>
+    <p>
+<pb n="KR2m0041_WYG_000-1a"/>
+欽定四庫全書　　　　　史部十三<lb/>
+　厯代建元考　　　　　　政書類二<hi>儀制之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案厯代建元考十卷<lb/>
+　　　國朝鍾淵映撰淵映字廣漢秀水人自來紀元<lb/>
+　　　　諸書多詳於正統惟<lb/>
+　　　國初吳肅公之改元考同及近時萬光泰之紀<lb/>
+　　　　元叙韻與淵映此書則併偽朝覇國以至草<lb/>
+<pb n="KR2m0041_WYG_000-1b"/>
+　　　　竊僭稱皆一一具載其例以年號相同者列<lb/>
+　　　　前次以年號分韻排編次列厯朝帝王及僭<lb/>
+　　　　國始末並外藩亦間及之秩然有序雖載籍<lb/>
+　　　　浩博蒐採難周如蜀王衍宋太祖年號與輔<lb/>
+　　　　公祏同裘甫有維平之僭成都為西夏之稱<lb/>
+　　　　凡斯之類不免間有缺漏未可云毫髪無遺<lb/>
+　　　　然較之呉萬二家足稱賅洽矣乾隆四十六<lb/>
+　　　　年五月恭校上<lb/>
+<pb n="KR2m0041_WYG_000-2a"/>
+　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

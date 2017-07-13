@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3j0015_WYG_010-1a"/>
+　按馬端臨文獻經籍考據晁氏云唐趙蕤撰長短經<lb/>
+　十卷又據北夢瑣言云㽔梓州鹽亭人博學韜鈐長<lb/>
+　于經世夫婦俱有隠操不應辟召論王霸機權正變<lb/>
+　之術其第十卷載隂謀家本缺今存者六十四篇然<lb/>
+　不害其為全書也洪武丁巳秋八月丁巳沈新民識<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_341-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選巻三百四十一<lb/>
+　　茉莉花類<lb/>
+　　　七言古<lb/>
+　　　　次韻胡元甫茉莉花　　　　<hi>宋</hi>樓　鑰<lb/>
+　殘暑未盡秋欲来玊刻萬葉瓊英開孤標雅韻一枝足<lb/>
+　江上紫翠空成堆素娥常與眀月約青女細把輕綃裁<lb/>
+　主人好事趂時買買寘此地真宜哉牆間閒地方丈所<lb/>
+<pb n="KR4h0141_WYG_341-1b"/>
+　幾年累甓装層䑓春花秋卉方互發蜀葵芍藥參徘徊<lb/>
+　眼眀忽見此竒絶弟畜素馨兄事梅夜深飛香性幽獨<lb/>
+　未許蜂蝶来相陪糖甖封餘有閩玉㑹須掃取添花栽<lb/>
+　吾聞閩山千萬木人或視此齊蒿莱何如航海上天闕<lb/>
+　玊色照暎琉璃杯新凉徙倚看不足坐見日影欹庭槐<lb/>
+　　　　茉莉　　　　　　　　　　<hi>宋</hi>楊萬里<lb/>
+　江梅去去木樨晚芝草石榴刺人眼唯有茉莉幽更佳<lb/>
+　龍涎避香雪避花朝来無熱夜凉甚急走山僮問花信<lb/>
+<pb n="KR4h0141_WYG_341-2a"/>
+一枝帶雨折来歸走送詩人覓好詩<lb/>
+　　五言律<lb/>
+　　　茉莉　　　　　　　　　　<hi>宋</hi>劉子翬<lb/>
+翠葉光如沃冰葩淡不妆一番秋早秀徹日坐傍香色<lb/>
+照祇園淨清回瘴海凉倘堪紉作佩老子欲浮湘<lb/>
+　　　茉莉　　　　　　　　　　<hi>宋</hi>朱　子<lb/>
+曠然塵慮盡為對夕花眀密葉低層幄冰蕤亂玊英不<lb/>
+因秋露濕詎識此香清預恐芳菲盡㣲吟繞砌行<lb/>
+<pb n="KR4h0141_WYG_341-2b"/>
+　　　奉酬圭父茉莉之作　　　　　朱　子<lb/>
+玊蘂琅玕樹天香知見薰露寒清透骨風定逺含芬爽<lb/>
+致消煩暑髙情謝暁雲遥憐河朔飲那得醉時聞<lb/>
+　　五言絶句<lb/>
+　　　題茉莉　　　　　　　　　<hi>眀</hi>皇甫汸<lb/>
+萼密聊承葉藤輕易繞枝素華堪飾鬘爭趂晚妆時<lb/>
+　　　其二<lb/>
+香慣臨風細花偏暎日生若将人試擬小玉定齊名<lb/>
+<pb n="KR4h0141_WYG_341-3a"/>
+　　七言絶句<lb/>
+　　　茉莉　　　　　　　　　　<hi>宋</hi>葉廷珪<lb/>
+露華洗出通身白沈水薰成換骨香近説根苖移上苑<lb/>
+休慙系出本南荒<lb/>
+　　　宫詞　　　　　　　　　　<hi>眀</hi>朱有燉<lb/>
+屏掩春山夜漸長秋来處處有新凉一天眀月星河淡<lb/>
+滿殿風吹茉莉香<lb/>
+　　　茉莉　　　　　　　　　　<hi>眀</hi>趙福元<lb/>
+<pb n="KR4h0141_WYG_341-3b"/>
+刻玊雕瓊作小葩清姿原不受鉛華西風偷得餘香去<lb/>
+分與秋城無限花<lb/>
+　　　宫詞　　　　　　　　　　<hi>眀</hi>仲春龍<lb/>
+海子周遭長荻芽春深乗艦不乗車阿誰貪看游魚戱<lb/>
+抛却新簪茉莉花<lb/>
+　　　茉莉詞　　　　　　　　　<hi>眀</hi>王穉登<lb/>
+贑州<graphic n="KR0657" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0657.png" mimeType="image/png"/>子兩頭尖茉莉初来價便添公子豪華錢不惜<lb/>
+買花只揀樹齊簷<lb/>
+<pb n="KR4h0141_WYG_341-4a"/>
+　　　　其二<lb/>
+　賣花傖父笑吴兒一本千錢亦太癡儂在廣州城裏住<lb/>
+　家家茉莉盡編籬<lb/>
+　　　　其三<lb/>
+　章江茉莉貢江蘭夹竹桃花不耐寒三種盡非吴地産<lb/>
+　一年一度買来看<lb/>
+　　　　茉莉花　　　　　　　　　<hi>眀</hi>沈宜修<lb/>
+　如許閒宵似廣寒翠叢倒影浸冰團梅花宜冷君宜熱<lb/>
+<pb n="KR4h0141_WYG_341-4b"/>
+　一様香魂兩様看<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選巻三百四十一<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

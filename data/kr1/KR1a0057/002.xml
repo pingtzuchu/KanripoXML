@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="1a"/>
+予質顓䝉固嘗讀易實未始有得也友人稅㢲甫别十<lb/>
+二年而會于京一日所著易學啟䝉小𫝊序及圖舉似<lb/>
+予曰非吾臆說此邵子奥學精義前人偶未之思吾固<lb/>
+𤼵明之爾予手其書不能釋者累日葢犁然有㑹于心<lb/>
+也㢲甫謂先天圖皆兩卦相對合為二九之數而後天<lb/>
+上下經皆為十八卦者始終不出九數而已子玩而樂<lb/>
+之因悟乾坤納甲之義乾自甲而壬坤自乙而癸其數<lb/>
+皆九也㢲甫謂後天以震兊為用故孔子謂歸妹天地<lb/>
+<pb n="1b"/>
+之大義予因悟艮㢲者震兑之反也震東兊西乃天地<lb/>
+生成之方日月出沒之位實備乾坤坎離而為下經之<lb/>
+用也故泰之六五亦曰帝乙歸妹亦以互體有震兊焉<lb/>
+爾然則㢲甫有得於邵子者固深予因㢲甫之書而有<lb/>
+𤼵焉雖然㢲甫謂乾九能兼坤六坤隂不能包乾陽予<lb/>
+謂六之中有一三五焉則九數固藏于六也乾坤二卦<lb/>
+隂中包陽陽中包隂㢲甫以為如何淳祐八年八月二<lb/>
+曰丹稜史子翬謹䟦<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

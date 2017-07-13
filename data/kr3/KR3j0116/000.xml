@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>提要<lb/>
+                </head>
+    <p>
+<pb n="KR3j0116_WYG_000-1a"/>
+欽定四庫全書　　　　　子部十<lb/>
+　提要<lb/>
+　　常談一卷　　　　　　雜家類三<hi>雜説之屬</hi>
+　　　　臣等謹案常談一卷宋呉箕撰箕字嗣之新<lb/>
+　　　　安人乾道五年進士授仁和主簿分教臨川<lb/>
+　　　　歴知當塗縣為趙汝愚所重召主審察尋以<lb/>
+　　　　疾卒宋史不為立傳其事跡僅見於徽州志<lb/>
+　　　　所著尚有聴詞類稿十二冊已乆佚不傳惟<lb/>
+<pb n="KR3j0116_WYG_000-1b"/>
+　　　　此書之目宋史藝文志載有一卷今散見永<lb/>
+　　　　樂大典各韻中者抄撮薈萃猶存一百餘條<lb/>
+　　　　大抵皆評隲史事而間及于考證徽州志稱<lb/>
+　　　　箕之在臨川也與陸九淵逰相與講明義理<lb/>
+　　　　盖深有得于金谿之學今以此書與九淵文<lb/>
+　　　　集互勘如九淵經徳堂記論漢髙祖為義帝<lb/>
+　　　　討項羽一事謂新城三老深知天下大計而<lb/>
+　　　　箕亦謂新城老人獨知而言之漢有天下遂<lb/>
+<pb n="KR3j0116_WYG_000-2a"/>
+　　　　定于此又九淵語録論曹參相漢謂其能師<lb/>
+　　　　盖公用黄老術漢家之治血脉在此而箕亦<lb/>
+　　　　謂參得安静之體盖公清心之言有以先入<lb/>
+　　　　之其㫖趣往往相合似乎墨守不變者及觀<lb/>
+　　　　其論汲黯一條九淵集中稱黯仗節守義雖<lb/>
+　　　　曰未學必謂之學而箕乃以為黯之直諫本<lb/>
+　　　　于氣質非學而得故昧于大道其說又如枘<lb/>
+　　　　鑿之不相入可知箕之學術雖本陸氏不為<lb/>
+<pb n="KR3j0116_WYG_000-2b"/>
+　　　　茍同與輔廣詩童子問一字一句堅持門户<lb/>
+　　　　者其心術之公私相去逺矣觀尤袤與箕同<lb/>
+　　　　時而所輯遂初堂書目已列有常談之名則<lb/>
+　　　　當日即珍重其書也今以所存各條依次裒<lb/>
+　　　　綴勒為一帙用還宋志卷目之舊中間所引<lb/>
+　　　　外史檮杌國史補長編諸條或摘録原書無<lb/>
+　　　　論斷疑永樂大典已有脱文今無可參校姑<lb/>
+　　　　仍原本録之焉乾隆四十六年九月恭校上<lb/>
+<pb n="KR3j0116_WYG_000-3a"/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

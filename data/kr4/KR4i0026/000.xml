@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>觀林詩話</head>
+    <p>
+<pb n="KR4i0026_WYG_000-1a"/>
+欽定四庫全書　　　　　集部九<lb/>
+　觀林詩話　　　　　　　　詩文評類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案觀林詩話一巻宋呉聿撰聿字子<lb/>
+　　　　書自署楚東人楚東地廣莫能知其邑里陳<lb/>
+　　　　振孫書錄解題載此書亦云不知何人案書<lb/>
+　　　　中稱衣冠中有微時為小吏者作三角亭詩<lb/>
+　　　　有夜欠一簷雨春無四面花之語獻其所事<lb/>
+<pb n="KR4i0026_WYG_000-1b"/>
+　　　　異之使學果後登第今為郎矣云云案曾三<lb/>
+　　　　異同話録載此事稱為余子清之祖仁廓則<lb/>
+　　　　子聿葢南宋初人故所稱引上至蘇軾黄庭<lb/>
+　　　　堅賀鑄下至汪藻王宣而止也其中如辨陸<lb/>
+　　　　厥中山王孺子妾歌誤用安陵君一條李善<lb/>
+　　　　文選註已先有此論聿抒為新得葢偶未及<lb/>
+　　　　檢又引摭言趙牧學李長吉歌詩一條摭言<lb/>
+　　　　無此文葢記杜牧之語而誤杜為趙又誤增<lb/>
+<pb n="KR4i0026_WYG_000-2a"/>
+　　　　學李長吉歌詩一句亦為疎舛巻末録謝朓<lb/>
+　　　　事三條不加論斷殊無所取核其詞意似乎<lb/>
+　　　　欲解王安石歐陽脩倡和詩中吏部文章二<lb/>
+　　　　百年句而其文未畢或傳寫有所佚脱又誤<lb/>
+　　　　分一則為三則歟聿之詩學出於元祐於當<lb/>
+　　　　時佚事尤所究心如謂黄庭堅論黄獨為土<lb/>
+　　　　芋而云或以為黄精者乃指蘇軾詩人空腹<lb/>
+　　　　待黄精生事只看長柄械句而不欲顯名又<lb/>
+<pb n="KR4i0026_WYG_000-2b"/>
+　　　　陳師道所稱但解開門留我住主人不問是<lb/>
+　　　　誰家句乃蘇軾蔵春兩絶句之一託云古語<lb/>
+　　　　又蘇軾不向如臯閒射雉人間何以得卿卿<lb/>
+　　　　句世譏軾誤以如臯為地名聿謂親見其手<lb/>
+　　　　寫㑹獵詩不向乃作向不又軾嘗名賈耘老<lb/>
+　　　　之妾曰雙荷葉世不曉所謂聿謂其事載泉<lb/>
+　　　　南老人集取雙髻並前之義其名出於温庭<lb/>
+　　　　筠詞澠水燕談稱張舜民題蘇軾老人行役<lb/>
+<pb n="KR4i0026_WYG_000-3a"/>
+　　　　詩乃蘇轍作王闢之誤記軾梅花詩用返魂<lb/>
+　　　　字乃用韓偓金鑾宻記中語説者誤引蘇徳<lb/>
+　　　　哥及聚窟洲返魂香事皆查慎行補註蘇詩<lb/>
+　　　　所未及又如黄庭堅與恵洪詩實用陳平傳<lb/>
+　　　　解衣船而刺宻句相謔洪作冷齋夜話乃以<lb/>
+　　　　欲加冠巾自解與庭堅自稱從王安石得古<lb/>
+　　　　詩句法及安石詞揉藍一水縈花草句乃追<lb/>
+　　　　用所見江上人家壁間絶句諸事亦他書所<lb/>
+<pb n="KR4i0026_WYG_000-3b"/>
+　　　　未言至於引郭義恭廣志證陸龜䝉詩蕙炷<lb/>
+　　　　字引尉遲樞南楚新聞證僧詩氊根字引隋<lb/>
+　　　　書禮志證古詩長跪問故夫句引許慎説文<lb/>
+　　　　證衣亦可名不借不獨草屨引南史邱仲字<lb/>
+　　　　傳證唐詩半夜鐘引宋書證吳融誤用虞嘯<lb/>
+　　　　事引世説新語庾亮事證著屐登樓引元結<lb/>
+　　　　自序證歐陽修黄庭堅誤讀笭箵字引潘岳<lb/>
+　　　　西征賦證晁錯之錯可讀七各切引江淹襍<lb/>
+<pb n="KR4i0026_WYG_000-4a"/>
+　　　　擬詩證東觀奏記誤稱沈約引顧愔新羅圖<lb/>
+　　　　記證松五粒非鬛引歌録證殷芸小説誤解<lb/>
+　　　　蜻蛚引西京襍記駁賀鑄詞誤用玉硯生冰<lb/>
+　　　　以及駁蘇軾誤以白居易除夜詩為寒食詩<lb/>
+　　　　以長桑君為倉公以左傳小人之食為小人<lb/>
+　　　　之羮諸條皆足以資考證在宋人詩話之中<lb/>
+　　　　亦可謂之佳本矣乾隆四十六年五月恭校<lb/>
+　　　　上<lb/>
+<pb n="KR4i0026_WYG_000-4b"/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

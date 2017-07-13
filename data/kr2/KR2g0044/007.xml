@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>八旗滿洲氏族通譜目錄</head> <lb/>
+    <p>
+<pb n="KR2g0044_WYG_007-1a"/>
+欽定四庫全書<lb/>
+　八旗滿洲氏族通譜目錄<lb/>
+　　卷三<lb/>
+　　哈逹地方瓜爾佳氏<lb/>
+　　　巴岱　　　　　　　布克沙<lb/>
+　　　胡什哈　　　　　　瑪雅實希<lb/>
+　　　碩瑪　　　　　　　碩色<lb/>
+　　　福爾納　　　　　　尼雅濟布<lb/>
+<pb n="KR2g0044_WYG_007-1b"/>
+　　　邁佟阿　　　　　　和隆格<lb/>
+　　　胡錫屯　　　　　　額庫訥<lb/>
+　　　　　以上俱有傳<lb/>
+　　　薩喇布　　　　　　布哈<lb/>
+　　　鄂什泰　　　　　　金達頼<lb/>
+　　　安布禄　　　　　　安丕樓<lb/>
+　　　凱音布　　　　　　侃布禄<lb/>
+　　　札庫塔　　　　　　嘉呼禪<lb/>
+<pb n="KR2g0044_WYG_007-2a"/>
+　　　布爾哈善　　　　　桓占<lb/>
+　　　察哈　　　　　　　布塞赫<lb/>
+　　　吳巴海　　　　　　公布禄<lb/>
+　　　雅泰　　　　　　　塔本<lb/>
+　　　達都　　　　　　　喀爾圗瑚<lb/>
+　　　穆和亷　　　　　　温達爾堪<lb/>
+　　　都理　　　　　　　穆爾那<lb/>
+　　　顔圗喀　　　　　　阿克敦<lb/>
+<pb n="KR2g0044_WYG_007-2b"/>
+　　　延泰　　　　　　　僧額訥<lb/>
+　　　巴圗木克　　　　　阿布庫<lb/>
+　　　庫爾徹　　　　　　鄂密達<lb/>
+　　　阿巴爾岱　　　　　尼瑪達<lb/>
+　　　　　以上俱附載<lb/>
+　　葉赫地方瓜爾佳氏<lb/>
+　　　喀屯　　　　　　　明愛<lb/>
+　　　謨錫　　　　　　　堪布祿<lb/>
+<pb n="KR2g0044_WYG_007-3a"/>
+　　　古爾佳　　　　　　班濟那<lb/>
+　　　噶琨　　　　　　　烏晉泰<lb/>
+　　　本泰　　　　　　　椿布禄<lb/>
+　　　阿吉布　　　　　　金達爾漢<lb/>
+　　　阿哈<lb/>
+　　　　　以上俱有傳<lb/>
+　　　和托　　　　　　　伊勒圖<lb/>
+　　　阿禮布　　　　　　薩穆哈<lb/>
+<pb n="KR2g0044_WYG_007-3b"/>
+　　　阿晉　　　　　　　瓦爾山<lb/>
+　　　布拉　　　　　　　喀坤<lb/>
+　　　呉勒楚　　　　　　策爾布赫<lb/>
+　　　穆登　　　　　　　巴塔<lb/>
+　　　騰徳　　　　　　　蘇穆實<lb/>
+　　　諾永鄂　　　　　　温塔錫<lb/>
+　　　福東　　　　　　　瑪爾積哈<lb/>
+　　　墨爾根　　　　　　塔拉布<lb/>
+<pb n="KR2g0044_WYG_007-4a"/>
+　　　鼐庫達　　　　　　阿海<lb/>
+　　　那達齊　　　　　　那親<lb/>
+　　　科濶拖　　　　　　凖布<lb/>
+　　　克錫肯　　　　　　愛錫<lb/>
+　　　石徳　　　　　　　鄂鼐<lb/>
+　　　特秦布　　　　　　噶拜<lb/>
+　　　納秦　　　　　　　呉塔喀<lb/>
+　　　莽佳　　　　　　　當珠瑚<lb/>
+<pb n="KR2g0044_WYG_007-4b"/>
+　　　碩色　　　　　　　玉三台<lb/>
+　　　薩哈連　　　　　　丹布禄<lb/>
+　　　達爾布　　　　　　瑪沙<lb/>
+　　　喀爾凱　　　　　　薩爾圗<lb/>
+　　　烏章阿　　　　　　那爾賽<lb/>
+　　　費揚古　　　　　　阿爾薩蘭<lb/>
+　　　慶安　　　　　　　薩哈亷<lb/>
+　　　穆克登額　　　　　岱珠瑚<lb/>
+<pb n="KR2g0044_WYG_007-5a"/>
+　　　胡什布　　　　　　尹達理<lb/>
+　　　舒呼理　　　　　　巴雅頼<lb/>
+　　　　　以上俱附載<lb/>
+　　烏喇地方瓜爾佳氏<lb/>
+　　　耀普托諾　　　　　多内<lb/>
+　　　多和倫　　　　　　邦珠瑚<lb/>
+　　　烏音特　　　　　　喀爾喀濟<lb/>
+　　　瑪鼐　　　　　　　圖土倫<lb/>
+<pb n="KR2g0044_WYG_007-5b"/>
+　　　葉克舒　　　　　　阿布岱<lb/>
+　　　鑒布　　　　　　　費約絡和<lb/>
+　　　伯喜那　　　　　　伊塞濟<lb/>
+　　　阿密察　　　　　　羅拖理<lb/>
+　　　席佛庫<lb/>
+　　　　　以上俱有傳<lb/>
+　　　呉努福　　　　　　伊哈那<lb/>
+　　　推謨和　　　　　　國泰<lb/>
+<pb n="KR2g0044_WYG_007-6a"/>
+　　　格栢庫　　　　　　達爾齊<lb/>
+　　　額赫布禄　　　　　吉理布<lb/>
+　　　珠蘭泰　　　　　　葉親<lb/>
+　　　松額理　　　　　　固他那<lb/>
+　　　尼堪　　　　　　　郎錫<lb/>
+　　　阿哈錫　　　　　　朱蘭泰<lb/>
+　　　明安　　　　　　　薩哈連<lb/>
+　　　尼岳克素　　　　　岱色<lb/>
+<pb n="KR2g0044_WYG_007-6b"/>
+　　　巴思漢　　　　　　福爾僧額<lb/>
+　　　鄂倫　　　　　　　顔泰<lb/>
+　　　順巴　　　　　　　圗喇<lb/>
+　　　瓦爾喀　　　　　　雅哈<lb/>
+　　　卓凌阿　　　　　　安圗<lb/>
+　　　碩色　　　　　　　雅爾那<lb/>
+　　　古勒訥　　　　　　烏爾徳<lb/>
+　　　呉寧阿　　　　　　阿爾芬<lb/>
+<pb n="KR2g0044_WYG_007-7a"/>
+　　　阿濟布　　　　　　薩爾瑪<lb/>
+　　　博岱　　　　　　　董徳<lb/>
+　　　諾穆逹理　　　　　伯謨<lb/>
+　　　喀巴　　　　　　　伊思魁<lb/>
+　　　札那喀　　　　　　巴揚古<lb/>
+　　　阿爾善　　　　　　徳穆得赫<lb/>
+　　　鄂豸　　　　　　　呉濟納<lb/>
+　　　　　以上俱附載<lb/>
+<pb n="KR2g0044_WYG_007-7b"/>
+　　訥殷地方瓜爾佳氏<lb/>
+　　　明安努　　　　　　葛隆額<lb/>
+　　　尼雅漢　　　　　　巴爾哈善<lb/>
+　　　索爾和多<lb/>
+　　　　　以上俱有傳<lb/>
+　　　尚吉　　　　　　　索克西<lb/>
+　　　蘇赫泰　　　　　　法西蘭<lb/>
+　　　富爾瑚　　　　　　巴爾賽<lb/>
+<pb n="KR2g0044_WYG_007-8a"/>
+　　　卓尚阿　　　　　　哈寧阿<lb/>
+　　　達䝉阿　　　　　　透登額<lb/>
+　　　沙晉　　　　　　　囊錦<lb/>
+　　　佛濟訥<lb/>
+　　　　　以上俱附載<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3e0009_SBCK_000-1a"/>
+脉經序<lb/>
+　　　　　　　晉太醫　令　王叔和撰<lb/>
+脉理精微其體難辨絃緊浮芤展轉相類在心易了<lb/>
+指下難明謂沈爲伏則方治永乖以緩爲遲則危殆<lb/>
+立至況有數候俱見異病同脉者乎夫醫藥爲用性<lb/>
+命所繫和鵲至妙猶或加思仲景明審亦候形證一<lb/>
+毫有疑則考校以求驗故傷寒有承氣之戒嘔噦發<lb/>
+下焦之間而遺文逺㫖代寡能用舊經秘述奥而不<lb/>
+售遂令末學昧於原本㸦兹偏見各逞己能致㣲痾<lb/>
+成膏肓之變滯固絶振起之望良有以也今撰集岐<lb/>
+伯以來逮于華陀經論要決合爲十卷百病根源各<lb/>
+<pb n="KR3e0009_SBCK_000-1b"/>
+<pb n="KR3e0009_SBCK_000-2a"/>
+新刋王氏脉經目録<lb/>
+　　　　　　　　　　　　　　　　　　臣林億等類次<lb/>
+︻卷第一<lb/>
+　　脉形狀指下秘决　平脉早晏法<lb/>
+　　分别三關境界脉候所主　辨尺寸隂陽榮衛度数<lb/>
+　　平脉視人大小長短男女逆順法<lb/>
+　　持脉輕重法<lb/>
+　　兩手六脉所主五藏六腑隂陽逆順<lb/>
+　　辨腑臟病脉隂陽大法　辨脉隂陽大法<lb/>
+　　平虚實　從横逆順伏匿脉<lb/>
+　　辨災恠恐怖雜脉　遟疾短長雜病法<lb/>
+<pb n="KR3e0009_SBCK_000-2b"/>
+　　平人得病所起脉　診病將差難巳脉<lb/>
+︻卷第二<lb/>
+　　平三關隂陽二十四氣脉<lb/>
+　　平人迎神門氣口前後脉　平三關病候并治宜<lb/>
+　　平竒經八脉病<hi>八脉爲病不在十二經故以繫此卷之末</hi>
+　　平三關隂陽二十四氣脉<lb/>
+︻卷第三<lb/>
+　　肝膽部　心小腸部<lb/>
+　　脾胃部　肺大腸部<lb/>
+　　腎膀胱部<lb/>
+︻卷第四<lb/>
+　　辨三部九候脉證　平雜病脉<lb/>
+<pb n="KR3e0009_SBCK_000-3a"/>
+　　　診五藏六腑氣絶證候<lb/>
+　　　診四時相反脉　診損至脉<lb/>
+　　　診脉動止投數踈數死期年月<lb/>
+　　　診百病死生决　辨三部九候脉證<lb/>
+︻卷第五<lb/>
+　　　張仲景論脉　扁鵲隂陽脉法<lb/>
+　　　扁鵲華佗察聲色要訣<lb/>
+　　　扁鵲診諸反逆死脉要訣　診三部虚實决死生<lb/>
+︻卷第六<lb/>
+　　　肝病證　膽病證<lb/>
+　　　心病證　小腸病證<lb/>
+　　　脾病證　胃病證<lb/>
+<pb n="KR3e0009_SBCK_000-3b"/>
+　　　肺病證　大腸病證<lb/>
+　　　腎病證　膀胱病證<lb/>
+　　　三膲病證<lb/>
+︻卷第七<lb/>
+　　　病不可發汗證　病可發汗證<lb/>
+　　　病發汗以後證　病不可吐證<lb/>
+　　　病可吐證　病不可下證<lb/>
+　　　病可下證　病發汗吐下以後證<lb/>
+　　　病可温證　病不可炙證<lb/>
+　　　病可灸證　病不可刺證<lb/>
+　　　病可刺證　病不可水證<lb/>
+　　　病可水證　病不可火證<lb/>
+<pb n="KR3e0009_SBCK_000-4a"/>
+　　病可火證　熱病生死期日證<lb/>
+　　熱病隂陽交并少隂厥逆隂陽竭盡生死證<lb/>
+　　重實重虚隂陽相附生死證　熱病十逆死日證<lb/>
+　　熱病五藏氣絶死日證　熱病至脉死日證<lb/>
+　　熱病損脉死日證<lb/>
+︻卷第八<lb/>
+　　　平卒尸厥脉證　平痓濕暍脉證<lb/>
+　　平陽毒隂毒百合狐惑脉證　平霍亂轉筋脉證<lb/>
+　　平血痺虚勞脉證　平中風歴節脉證<lb/>
+　　平消渴小便利淋脉證　平水氣黄汗氣分脉證<lb/>
+　　平黄疸寒熱瘧脉證第　平腹滿寒疝宿食<lb/>
+　　平匈痺心痛短氣賁豚脉證　平五藏積聚脉證<lb/>
+<pb n="KR3e0009_SBCK_000-4b"/>
+　　　平驚悸衂吐下血匈滿瘀血脉證<lb/>
+　　　平肺痿肺癰欬逆上氣喘飲脉證<lb/>
+　　　平癰腫腸癰金瘡侵淫脉證　平嘔<graphic n="KR0938" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0938.png" mimeType="image/png"/>下痢脉證<lb/>
+︻卷第九　平姙娠分别男女將産諸證<lb/>
+　　　平姙娠胎動血分水分吐下腹痛證<lb/>
+　　　平産後諸病鬱冐中風發熱煩嘔下利證<lb/>
+　　　平帶下絶産無子亡血居經證<lb/>
+　　　平鬱冐五崩漏下經閉不利腹中諸病證<lb/>
+　　平咽中如有灸腐喜悲熱入血室腹滿證<lb/>
+　　平隂中寒轉胞隂吹隂生瘡脫下證<lb/>
+　　平婦人病生死證　平小兒雜病證<lb/>
+︻卷第十○手檢圖三十一部　目録<hi>畢</hi>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

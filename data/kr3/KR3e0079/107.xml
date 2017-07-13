@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>本草綱目卷四十六目録</head> <lb/>
+    <p>
+<pb n="KR3e0079_WYG_107-1a"/>
+欽定四庫全書<lb/>
+　本草綱目卷四十六目録<lb/>
+　　介之二　　　蚌蛤類二十九種<hi>附一種</hi>
+　　　牡蠣<hi>本經</hi>
+　　　蚌<hi>嘉祐</hi>
+　　　馬刀<hi>本經</hi>
+　　　<graphic n="KR1173" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1173.png" mimeType="image/png"/>䗯<hi>嘉祐</hi>
+　　　蜆<hi>嘉祐</hi>
+<pb n="KR3e0079_WYG_107-1b"/>
+　　　真珠<hi>開寳</hi>
+　　　石決明<hi>别録</hi>
+　　　海蛤<hi>本經</hi>
+　　　文蛤<hi>本經</hi>
+　　　蛤蜊<hi>嘉祐粉即蛤</hi>
+　　　蟶<hi>嘉祐</hi>
+　　　擔羅<hi>拾遺</hi>
+　　　車螯<hi>嘉祐</hi>
+<pb n="KR3e0079_WYG_107-2a"/>
+　　　魁蛤<hi>别録子即瓦壟</hi>
+　　　車渠<hi>海藥</hi>
+　　　貝子<hi>本經</hi>
+　　　紫貝<hi>唐本</hi>
+　　　珂<hi>唐本</hi>
+　　　石<graphic n="KR2578" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2578.png" mimeType="image/png"/>
+                    <hi>綱目脚即龜</hi>
+　　　淡菜<hi>嘉祐</hi>
+　　　海蠃<hi>拾遺香即甲</hi>
+<pb n="KR3e0079_WYG_107-2b"/>
+　　　甲煎<hi>拾遺</hi>
+　　　田蠃<hi>别録</hi>
+　　　蝸蠃<hi>别録</hi>
+　　　蓼蠃<hi>拾遺</hi>
+　　　寄居蟲<hi>拾遺</hi>
+　　　海月<hi>拾遺附海鏡</hi>
+　　　海燕<hi>綱目</hi>
+　　　郎君子<hi>海藥</hi>
+<pb n="KR3e0079_WYG_107-3a"/>
+　　　　右附方舊二十二新九十六<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3e0079_WYG_107-3b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　本草綱目卷四十六目録<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

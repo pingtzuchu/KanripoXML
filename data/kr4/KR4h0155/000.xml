@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>唐人萬首絶句選</head>
+    <p>
+<pb n="KR4h0155_WYG_000-1a"/>
+欽定四庫全書　　　　　集部八<lb/>
+　唐人萬首絶句選　　　　總集類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案唐人萬首絶句選七巻<lb/>
+　　　國朝王士禎編洪邁唐人萬首絶句務求盈數<lb/>
+　　　　蹖駁至多宋倉部侍郎福清林清之真父鈔<lb/>
+　　　　取其佳者得七言一千二百八十首五言一<lb/>
+　　　　百五十六首六言十五首勒為四巻名曰唐<lb/>
+<pb n="KR4h0155_WYG_000-1b"/>
+　　　　絶句選見於陳振孫書録解題盖十分之中<lb/>
+　　　　汰其八分有竒然其書不傳無由知其善否<lb/>
+　　　　士禎此編刪存八百九十五首作者二百六<lb/>
+　　　　十四人更十分而取其一矣其書成于康熙<lb/>
+　　　　戊子距士禎之沒僅三年最為晚出又當田<lb/>
+　　　　居閒暇之時得以從容校理故較他選為精<lb/>
+　　　　審然其序謂以當唐樂府則不盡然樂府主<lb/>
+　　　　聲不主詞其采詩入樂亦不專取絶句士禎<lb/>
+<pb n="KR4h0155_WYG_000-2a"/>
+　　　　此書實選詞而非選聲無庸務為髙論也乾<lb/>
+　　　　隆四十六年九月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+<pb n="KR4h0155_WYG_000-3a"/>
+唐人萬首絶句選序<lb/>
+漁洋山人撰宋洪氏唐人萬首絶句既成或問曰先生<lb/>
+撰唐人絶句意何居應之曰吾以庀唐樂府也曰絶句也<lb/>
+而謂之樂府何也曰樂府之名其來尚矣世謂始於漢武<lb/>
+非也按史記髙祖過沛詩三侯之章又令唐山夫人為房<lb/>
+中之歌西京雜記又謂戚夫人善歌出塞入塞望歸之<lb/>
+曲則樂府實始漢初武帝時増天馬赤蛟白麟等十九<lb/>
+章以李延年為協律都尉集五經之士相與次第其聲<lb/>
+<pb n="KR4h0155_WYG_000-3b"/>
+通知其意而樂府始盛其云武帝者託始焉爾東漢之<lb/>
+末曹氏父子兄弟雅擅文藻所為樂府悲壯奥崛頗有<lb/>
+漢之遺風降及江左古意寖㣲而清商繼作於是楚調<lb/>
+呉聲西曲南弄雜然興焉逮於有唐李杜韓栁元白張<lb/>
+王李賀孟郊之倫皆有冠古之才不沿齊梁不襲漢魏<lb/>
+因事立題號稱樂府之變然考之開元天寶已來宫掖<lb/>
+所傳梨園弟子所歌旗亭所唱邊將所進率當時名士<lb/>
+所為絶句爾故王之渙黄河逺上王昌齡昭陽日影之<lb/>
+<pb n="KR4h0155_WYG_000-4a"/>
+句至今豔稱之而右丞渭城朝雨流傳尤衆好事者至<lb/>
+譜為陽闗三疊他如劉禹錫張祜諸篇尤難指數由是<lb/>
+言之唐三百年以絶句擅塲即唐三百年之樂府也而<lb/>
+子又奚疑宋洪文敏公邁常集唐絶句至萬首經進孝<lb/>
+宗御覽褒賜優厚余少習是書惜其踳駮久欲為之栞<lb/>
+定而未暇也歸田之五載為康熙戊子乃克成之而以<lb/>
+問答之語次為序云<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

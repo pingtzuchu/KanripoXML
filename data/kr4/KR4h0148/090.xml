@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0148_WYG_090-1a"/>
+欽定四庫全書<lb/>
+御選唐宋詩醇巻四十四<lb/>
+　　山隂陸游詩三<lb/>
+　　　目録<lb/>
+　　西巖翠屏閣<lb/>
+　　雨中山行至松風亭忽澄霽<lb/>
+　　贈宋道人<lb/>
+　　獵罷夜飲示獨孤生<lb/>
+<pb n="KR4h0148_WYG_090-1b"/>
+　　秋晚登城北門<lb/>
+　　莫秋<lb/>
+　　數日暄妍頗有春意予閒居無日不出遊戱作<lb/>
+　　江樓醉中作<lb/>
+　　曵䇿<lb/>
+　　謁漢昭烈惠陵及諸葛公祠宇<lb/>
+　　大雪歌<lb/>
+　　訪客至西郊<lb/>
+<pb n="KR4h0148_WYG_090-2a"/>
+　　夜寒<lb/>
+　　故蜀别苑在成都西南十五六里梅至多有兩大<lb/>
+　　樹夭矯若龍相傳謂之梅龍予初至蜀嘗為作詩<lb/>
+　　自此嵗常訪之今復賦一首丁酉十一月也<lb/>
+　　閒意<lb/>
+　　書雨<lb/>
+　　莫冬夜宴<lb/>
+　　謁石犀廟<lb/>
+<pb n="KR4h0148_WYG_090-2b"/>
+　　江上散步尋梅偶得絶句<lb/>
+　　大醉梅花下走筆賦此<lb/>
+　　廣都江上作<lb/>
+　　道室夜意<lb/>
+　　城南王氏莊尋梅<lb/>
+　　遊諸葛武侯書臺<lb/>
+　　眉州披風榭拜東坡先生遺像<lb/>
+　　南定樓遇急雨<lb/>
+<pb n="KR4h0148_WYG_090-3a"/>
+　　舟中對月<lb/>
+　　涪州道中<lb/>
+　　北巖<lb/>
+　　忠州禹廟<lb/>
+　　龍興寺吊少陵先生寓居<lb/>
+　　遊萬州岑公洞<lb/>
+　　萬州放船過下巖小留<lb/>
+　　楚城<lb/>
+<pb n="KR4h0148_WYG_090-3b"/>
+　　舟出下牢闗<lb/>
+　　峽口夜坐<lb/>
+　　初到荆州<lb/>
+　　阻風<lb/>
+　　小雨極涼舟中熟睡至夕<lb/>
+　　岳陽樓<lb/>
+　　黄鶴樓<lb/>
+　　自雪堂登四望亭因厯訪蘇公遺跡至安國院<lb/>
+<pb n="KR4h0148_WYG_090-4a"/>
+　　舟行蘄黄間雨霽得便風有感<lb/>
+　　長風沙<lb/>
+　　登賞心亭<lb/>
+　　將至京口<lb/>
+　　泝谿<lb/>
+　　冬夜聞雁有感<lb/>
+　　月夕<lb/>
+　　自雲門之陶山肩輿者失道行亂山中有茅舍小<lb/>
+<pb n="KR4h0148_WYG_090-4b"/>
+　　塘極幽邃求見主人不可意其隠者也<lb/>
+　　園中雜書<lb/>
+　　池亭夜賦<lb/>
+　　雙清堂夜賦<lb/>
+　　橋南納涼<lb/>
+　　初秋夢故山覺而有作<lb/>
+　　别建安<lb/>
+　　紫谿驛<lb/>
+<pb n="KR4h0148_WYG_090-5a"/>
+　　月巖<lb/>
+　　聞雁<lb/>
+　　春雨<lb/>
+　　南忩睡起<lb/>
+　　感舊絶句<lb/>
+　　夏日晝寢夢遊一院闃然無人簾影滿堂惟燕蹋<lb/>
+　　筝弦有聲覺而聞鐵鐸風響璆然殆所夢也邪因<lb/>
+　　得絶句<lb/>
+<pb n="KR4h0148_WYG_090-5b"/>
+　　書懷絶句<lb/>
+　　雨後極涼料簡篋中舊書有感<lb/>
+　　秋夜<lb/>
+　　雨夜<lb/>
+　　豐城髙安之間憇民家景趣幽䆳為之慨然懷歸<lb/>
+　　寄奉新髙令<lb/>
+　　予欲自嚴買船下七里灘謁嚴光祠而㑹歸灘淺<lb/>
+　　陸行至桐廬始能泛江因得絶句<lb/>
+<pb n="KR4h0148_WYG_090-6a"/>
+　　辛丑正月三日雪<lb/>
+　　雪霽歸湖上過千秋觀少留<lb/>
+　　題山家壁<lb/>
+　　憶昔<lb/>
+　　秋夜<lb/>
+　　九月三日泛舟湖中作<lb/>
+　　新寒<lb/>
+　　湖村月夕<lb/>
+<pb n="KR4h0148_WYG_090-6b"/>
+　　横塘<lb/>
+　　蔬圃<lb/>
+　　五雲門晩歸<lb/>
+　　夜汲井水煮茶<lb/>
+　　寄朱元晦提舉<lb/>
+　　乍晴風日已和泛舟至扶桑埭徘徊西村乆之<lb/>
+　　携癭尊醉梅花下<lb/>
+　　城西接待院後竹下作<lb/>
+<pb n="KR4h0148_WYG_090-7a"/>
+　　幽居春夜<lb/>
+　　晨起<lb/>
+　　春遊<lb/>
+　　八月十四日夜湖山觀月<lb/>
+　　夜聞秋風感懷<lb/>
+　　草書歌<lb/>
+　　夜泊水村<lb/>
+　　自妙相歸將至杜浦堰舟中作<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

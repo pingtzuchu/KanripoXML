@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>北逰集</head>
+    <p>
+<pb n="KR4d0385_WYG_000-1a"/>
+欽定四庫全書　　　　集部四<lb/>
+　北逰集　　　　　　　别集類三<hi>宋</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案北遊集二巻宋汪夢斗撰夢斗<lb/>
+　　　　號杏山績溪人景定間以明經發解江東漕<lb/>
+　　　　試授承節郎江東司制幹官咸淳初遷史館<lb/>
+　　　　編校與葉李等議上書劾丞相賈似道李等<lb/>
+　　　　坐罪夢斗亦遁歸宋亡後尚書謝昌言薦夢<lb/>
+<pb n="KR4d0385_WYG_000-1b"/>
+　　　　斗於元世祖特召赴京卒不受官放還是集<lb/>
+　　　　乃其北逰紀行之作中有見謝尚書詩云正<lb/>
+　　　　須自愛不貲身盖不特律己甚嚴即其以道<lb/>
+　　　　義規昌言亦可謂婉而嚴矣惟是上故相留<lb/>
+　　　　公詩註謂公入朝不屈稱前正奉大夫攷夢<lb/>
+　　　　炎以徳祐二年降元時為世祖所鄙又曾勸<lb/>
+　　　　殺文天祥安得有入朝不屈之事集中又有<lb/>
+　　　　南園歌為呉潜竄循州而作詩末附数語云<lb/>
+<pb n="KR4d0385_WYG_000-2a"/>
+　　　　履翁再相力言奸邪誤國数事理皇竟不能<lb/>
+　　　　平會似道以江上肅清之報徑達禁中上遂<lb/>
+　　　　罷潛相明曰乃以似道奏付外考宋史似道<lb/>
+　　　　江上肅清之奏在理宗景定元年三月乙酉<lb/>
+　　　　之前呉潛之罷在是年四月己酉若如夢斗<lb/>
+　　　　言是于己酉之明日始以似道奏付外則上<lb/>
+　　　　距四月乙酉前將及一月是時朝野方以荆<lb/>
+　　　　鄂為竒功乃捷書到禁中一月始布於外與<lb/>
+<pb n="KR4d0385_WYG_000-2b"/>
+　　　　情勢尤有未合或其後人掇拾遺稿不免以<lb/>
+　　　　贋本竄入未及致詳耶又杏山摭稿数條乃<lb/>
+　　　　後人所集夢斗講學之語原附集末今亦仍<lb/>
+　　　　之焉乾隆四十六年十月恭校上<lb/>
+　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+<pb n="KR4d0385_WYG_000-3a"/>
+北遊集原序<lb/>
+右詩凡若干篇合為一編曰北遊集是嵗己卯春正月<lb/>
+戊辰如京冬十月丙申歸里舟車幾行萬里客食二百<lb/>
+七十日自呉適楚入宋入魯入齊入趙以達於燕出揚<lb/>
+歴徐歴青歴兖歴豫歴冀乃至幽由江南經淮南河南<lb/>
+以趨河北識太行常山渡江渡淮渡濟蓋禹貢九州所<lb/>
+履者六星紀十二分所經者七唐十道行者四五嶽見<lb/>
+其二四瀆雖不曾渡河亦涉其流可謂北遊也已天時<lb/>
+<pb n="KR4d0385_WYG_000-3b"/>
+之寒燠地里之險易人情之媺惡物産之豐儉風俗之<lb/>
+醇駁雖不能盡知有所知隨而筆之目為北遊日誌至<lb/>
+於悲傷懐感憂懼愁嘆不能自己又每見之詩與夫見<lb/>
+人以詩為贄以及白事述志皆不能無詩初亦雜録之<lb/>
+誌中或謂冗長不雅觀因别為此集亦目為北遊非無<lb/>
+意也余生於南自少至長冉冉老矣而未嘗得至於南<lb/>
+之極岷峨在吾輿圖而生平未嘗西行東至雲間見海<lb/>
+矣自以為東之極今天下東必至登萊才為極足亦未<lb/>
+<pb n="KR4d0385_WYG_000-4a"/>
+至而北乃直至秦長城下則此遊可以為北之極且以<lb/>
+余有生時言之北至淮極矣借得在全宋盛時北亦止<lb/>
+極白溝耳今踰淮又踰白溝信乎此遊為北之極也吁<lb/>
+其亦可喜也夫其亦可悲也夫集中題意未盡者與日<lb/>
+誌參考乃可互見新安汪夢斗序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

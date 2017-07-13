@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2a0029_WYG_298-1a"/>
+　舊五代史巻一百五十攷證<lb/>
+志十二郡縣志曹州之戴邑　案職方考開平元年割<lb/>
+　曹州之考城更曰戴邑𨽻開封此祗云曹州之戴邑<lb/>
+　未見分晰<lb/>
+其陽武長垣扶溝考城等　陽武原本訛武陽今據唐<lb/>
+　書地理志改正<lb/>
+華州洛南縣　案此下注文所載韓城郃陽澄城等縣<lb/>
+　似不相屬據職方考洛南故屬商州周割屬華州此<lb/>
+<pb n="KR2a0029_WYG_298-1b"/>
+　本當是脫去洛南沿革小注又脫去同州郃陽縣澄<lb/>
+　城縣韓城縣等大字今無别本可校姑仍其舊附識<lb/>
+　於此<lb/>
+湘州　案湘州二字原本誤作小字連注文一段與秀<lb/>
+　州下注接冩文不相屬考唐開元十道圖潭鄂等州<lb/>
+　原𨽻江南道應以湘州另為一條作大字其天福四<lb/>
+　年四月馬希範奏云云作小注今改正<lb/>
+　舊五代史巻一百五十攷證<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

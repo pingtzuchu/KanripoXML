@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_198-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選卷一百九十八<lb/>
+　　箜篌類<lb/>
+　　　七言古<lb/>
+　　　　李憑箜篌引　　　　　　　<hi>唐</hi>李　賀<lb/>
+　吴絲蜀桐張髙秋空山凝雲頹不流江娥啼竹素女愁<lb/>
+　李憑中國彈箜篌崑山玉碎鳳凰叫芙蓉泣露香蘭笑<lb/>
+　十二門前融冷光二十三絲動紫皇女媧煉石補天處<lb/>
+<pb n="KR4h0141_WYG_198-1b"/>
+　石破天驚逗秋雨夢入神山教神嫗老魚跳波瘦蛟舞<lb/>
+　吴質不眠倚桂樹露脚斜飛濕寒兔<lb/>
+　　　五言絶句<lb/>
+　　　　漢宮曲　　　　　　　　　<hi>唐</hi>韓　翃<lb/>
+　繡幕珊瑚鈎春闗翡翠樓深情不肯道嬌倚鈿箜篌<lb/>
+　　　七言絶句<lb/>
+　　　　楚州韋中丞箜篌　　　　　<hi>唐</hi>張　祜<lb/>
+　千重鈎鎻撼金鈴萬顆珍珠瀉玉瓶恰值滿堂人欲醉<lb/>
+<pb n="KR4h0141_WYG_198-2a"/>
+甲光纔觸一時醒<lb/>
+　　　贈女道士鄭玉華　　　　　<hi>唐</hi>施肩吾<lb/>
+明鏡湖中休采蓮却師阿母學神仙朱絲誤落青囊裏<lb/>
+猶是箜篌第幾絃<lb/>
+　　　聽李憑彈箜篌　　　　　　<hi>唐</hi>楊巨源<lb/>
+聽奏繁絃玉殿清風傳曲度禁林鳴君王聽樂春園暖<lb/>
+翻到雲門第幾聲<lb/>
+　　　其二<lb/>
+<pb n="KR4h0141_WYG_198-2b"/>
+花咽嬌鶯玉潄泉名髙半在御筵前漢王欲助人間樂<lb/>
+從遣新聲墜九天<lb/>
+　　　秋夜聞彈箜篌　　　　　　<hi>金</hi>郭邦彦<lb/>
+露重花香飄不逺風微梧葉落無聲紅樓何處教新曲<lb/>
+夜靜月髙絃索鳴<lb/>
+　　　小逰仙　　　　　　　　　<hi>元</hi>楊維楨<lb/>
+麻姑今夜過青丘玉醴催斟白玉舟莫向外人矜指爪<lb/>
+酒酣為我擘箜篌<lb/>
+<pb n="KR4h0141_WYG_198-3a"/>
+　　　　席上偶成　　　　　　　　<hi>明</hi>孫一元<lb/>
+　楊花燕子弄春柔醉倚箜篌笑未休依舊清風明月好<lb/>
+　買船吹笛過滄州<lb/>
+　　　　青谿小姑曲　　　　　　　<hi>明</hi>吴鼎芳<lb/>
+　十五盈盈學解愁珠簾不捲倚箜篌多情明月無情水<lb/>
+　夜夜青谿映酒樓<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR4h0141_WYG_198-3b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選巻一百九十八<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

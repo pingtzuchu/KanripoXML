@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>銅人鍼灸經卷七</head> <lb/>
+    <p>
+<pb n="KR3e0017_WYG_007-1a"/>
+欽定四庫全書<lb/>
+　銅人鍼灸經卷七<lb/>
+　　　針灸吉日<lb/>
+丁卯　庚午　甲戌　丙子　壬午　甲申　丁亥<lb/>
+辛卯　壬辰　丙申　戊戌　己亥　己未　庚子<lb/>
+辛丑　甲辰　乙巳　丙午　戊申　壬子　癸丑<lb/>
+乙卯　丙辰　壬戌　丙戌<lb/>
+　以上並吉又宜用除日破日開日天毉要安並吉<lb/>
+<pb n="KR3e0017_WYG_007-1b"/>
+　　　針灸忌日<lb/>
+丁丑及白虎血忌血支月厭月殺月刑死别獨火凶<lb/>
+又男忌除日女忌破日<lb/>
+　　　十干日不治病<lb/>
+甲不治頭　乙不治喉　丙不治肩　丁不治心<lb/>
+戊己不治腹　庚不治腰　辛不治膝　壬不治脛<lb/>
+癸不治足<lb/>
+　　　十干日不針灸<lb/>
+<pb n="KR3e0017_WYG_007-2a"/>
+甲日頭　　　乙日耳　　丙日肩　丁日背<lb/>
+戊巳日腹脾　庚日肺腰　辛日膝　壬日腎經<lb/>
+癸日手足<lb/>
+<pb n="KR3e0017_WYG_007-3a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3e0017_WYG_007-3b"/>
+此神農所制一歳起坤二嵗震逐年順飛九宫周而復<lb/>
+始行年到處則所主敗體切忌針灸如誤犯之必致喪<lb/>
+命或發癰疽宜速治之<lb/>
+<pb n="KR3e0017_WYG_007-4a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3e0017_WYG_007-4b"/>
+一歳起心二歳喉逐歳依次順行一部終而復始行年<lb/>
+所值者切忌針灸<lb/>
+<pb n="KR3e0017_WYG_007-5a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3e0017_WYG_007-5b"/>
+一歳起臍二歳心逐歳順行周而復始行所值處忌針<lb/>
+灸<hi>所録見明堂經</hi>
+　　　推四時大乙所在<lb/>
+　　　　云六腑鬲下三藏應四季中州其有戊巳日<lb/>
+　　　　大禁大乙所在忌針灸<lb/>
+左足<hi>應立春日其日戊子己丑</hi>左胷<hi>應春分其日乙卯</hi>
+左手<hi>應立夏日戊辰己巳</hi>　　頭一<hi>應夏至其日丙午</hi>
+右手<hi>應立秋日戊申己未</hi>　　右胷<hi>應秋分其日辛</hi>
+<pb n="KR3e0017_WYG_007-6a"/>
+右足<hi>應立冬日戊戌己亥</hi>　　腰尻丁竅<hi>應冬至丙午</hi>
+　　　推四時人神所在<lb/>
+春<hi>左脇</hi>　　夏<hi>臍/</hi>　　　秋<hi>右脇</hi>　　冬腰<lb/>
+　　　推三旬人神在<lb/>
+　　　　誤針灸者各致其疾<lb/>
+初一在足大指厥隂分針之主發附腫<lb/>
+初二在外踝少陽分針之經筋緩<lb/>
+初三在股少隂分針之主小腹痛<lb/>
+<pb n="KR3e0017_WYG_007-6b"/>
+初四在腰太陽分針之主腰僂無力<lb/>
+初五在口太隂分針之主舌强<lb/>
+初六在太咽半陽明分針之咽門不開<lb/>
+初七在内踝少隂分針之隂經筋急<lb/>
+初八在手腕太陽分針灸腕不收<lb/>
+初九在尻厥隂分針灸之病結<lb/>
+初十在背腰太陽分針灸之腰背僂<lb/>
+十一在鼻柱陽明分針灸之齒面腫<lb/>
+<pb n="KR3e0017_WYG_007-7a"/>
+十二在髮際少陽分針之耳重聽<lb/>
+十三在牙齒少隂分針灸之氣寒<lb/>
+十四在胃腕陽明分針之氣脹<lb/>
+十五在遍身不補不㵼大忌針灸<lb/>
+十六在胷太隂分針之逓息<lb/>
+十七在氣衝陽明分針之難息<lb/>
+十八在股内少隂分針之引隂氣痛<lb/>
+十九在足陽明分針之發腫<lb/>
+<pb n="KR3e0017_WYG_007-7b"/>
+二十在内踝少隂分針之經脉亦手<lb/>
+二十一在手小指太陽分針之手不仁<lb/>
+二十二在外踝少陽分針之筋經緩<lb/>
+三十三在肝及足厥隂分針之發轉筋<lb/>
+二十四在手陽明分針灸咽中不利<lb/>
+二十五在足陽明分針之胃氣脹<lb/>
+二十六在胷太陽分針灸之令人喘嗽<lb/>
+二十七在膝陽明分針之足經厥逆<lb/>
+<pb n="KR3e0017_WYG_007-8a"/>
+二十八在隂少隂分針之小腹急疼<lb/>
+二十九在膝脛厥隂分針之筋痿少力<lb/>
+三十在足跌陽明分日空亡不㵼忌針<lb/>
+　　　推十二支人神<hi>所在處忌針灸</hi>
+子日<hi>在目</hi>　丑日<hi>在脾一/云耳</hi>寅日<hi>在胷/</hi>　卯日<hi>在脾一云胷</hi>
+辰日<hi>在</hi>　　巳日<hi>在手/</hi>　午日<hi>在心/</hi>　未日<hi>在手一云頭</hi>
+申日<hi>在頭一云背</hi>酉日<hi>在背/</hi>　戌日<hi>在面一/云頸</hi>亥日<hi>在云</hi>
+　　　推十二時人神<lb/>
+<pb n="KR3e0017_WYG_007-8b"/>
+子時<hi>在踝</hi>　丑時<hi>在腰/</hi>　寅時<hi>在目/</hi>　卯時<hi>在面</hi>
+辰時<hi>在頭</hi>　巳時<hi>在手/</hi>　午時<hi>在胷/</hi>　未時<hi>在腹</hi>
+申時<hi>在心</hi>　酉時<hi>在背/</hi>　戌時<hi>在項/</hi>　亥時<hi>在股</hi>
+　　　量穴法<lb/>
+凡量穴當以病人手中指第二節兩横文相去之間為<lb/>
+寸凡㸃穴時湏要身平正不可拳曲切湏慎之<lb/>
+　　灸艾雜説<lb/>
+凡灸文皆以日正午以後方可下火灸謂隂氣未至灸<lb/>
+<pb n="KR3e0017_WYG_007-9a"/>
+無不着午前平旦糓氣虚令人癲眩不可卧灸謹之謹<lb/>
+之大槩如此卒急者又不可拘此若遇隂霧大起風雪<lb/>
+忽降猛雨灸暑雷電虹霓且暫停候晴明可方下火灸<lb/>
+時不得傷飽大饑飲酒生硬物兼不可思慮憂愁呼罵<lb/>
+嘆息一切不祥切須忌之<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3e0017_WYG_007-9b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　銅人鍼灸經卷七<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

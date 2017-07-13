@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3h0063_WYG_060-1a"/>
+欽定四庫全書<lb/>
+石渠寶笈巻二十九<lb/>
+　　　貯<lb/>
+　　御書房<lb/>
+　　　列朝人書畫目録<lb/>
+　　書巻上等<lb/>
+　　　晉王羲之二謝帖<lb/>
+　　　晉王獻之中秋帖<lb/>
+<pb n="KR3h0063_WYG_060-1b"/>
+　　　唐褚遂良臨王獻之飛鳥帖<lb/>
+　　　唐褚遂良書倪寛傳贊<lb/>
+　　　唐陸東之書文賦<lb/>
+　　　唐孫䖍禮書譜<lb/>
+　　　唐孫䖍禮書景福殿賦<lb/>
+　　　唐吳彩鸞書唐韻<lb/>
+　　　宋太宗書蔡行勅<lb/>
+　　　宋徽宗書七言律詩<lb/>
+<pb n="KR3h0063_WYG_060-2a"/>
+　　　宋徽宗書千文<lb/>
+　　　宋徽宗書千文<lb/>
+　　　宋髙宗勅張浚手書<lb/>
+　　　宋髙宗書洛神賦<lb/>
+　　　宋髙宗賜岳飛手勅<lb/>
+　　　宋髙宗書養生論<lb/>
+　　　宋韓琦尺牘<lb/>
+　　　宋范仲淹道服贊<lb/>
+<pb n="KR3h0063_WYG_060-2b"/>
+　　　宋儒遺墨<lb/>
+　　　宋司馬光通鑬藁<lb/>
+　　　宋陳洎自書詩帖<lb/>
+　　　宋蔡襄自書謝表并詩<lb/>
+　　　宋蘓軾書御書頌<lb/>
+　　　宋蘓軾書前赤壁賦<lb/>
+　　　宋蘓軾書歸去來辭<lb/>
+　　　宋黄庭堅書千文<lb/>
+<pb n="KR3h0063_WYG_060-3a"/>
+　　　宋黄庭堅摩懷素<lb/>
+　　　宋米芾書<lb/>
+　　　宋米芾書秋夜詩<lb/>
+　　　宋米芾尺牘<lb/>
+　　　宋米芾捕蝗帖<lb/>
+　　　宋米芾摹王羲之此月帖<lb/>
+　　　宋米芾書易義<lb/>
+　　　宋陸㳺自書詩帖<lb/>
+<pb n="KR3h0063_WYG_060-3b"/>
+　　　宋張即之書唐詩<lb/>
+　　　元趙孟頫書小學<lb/>
+　　　元趙孟頫書千文<lb/>
+　　　元趙孟頫書千文<lb/>
+　　　元趙孟頫二體千文<lb/>
+　　　元趙孟頫書歸去來辭<lb/>
+　　　元趙孟頫書嵇康絶交書<lb/>
+　　　元趙孟頫書閒居賦<lb/>
+<pb n="KR3h0063_WYG_060-4a"/>
+　　　元趙孟頫書雪賦<lb/>
+　　　元趙孟頫書歸田賦<lb/>
+　　　元趙孟頫書朱子感興詩<lb/>
+　　　元趙孟頫書蘓軾古詩<lb/>
+　　　元趙孟頫書蘓軾西湖詩<lb/>
+　　　元趙孟頫書前後赤壁賦<lb/>
+　　　元趙孟頫書秋聲賦<lb/>
+　　　元趙孟頫書呉興賦<lb/>
+<pb n="KR3h0063_WYG_060-4b"/>
+　　　元趙孟頫書閑邪公家傳<lb/>
+　　　元趙孟頫書萬壽曲<lb/>
+　　　元趙孟頫書趵突泉詩<lb/>
+　　　元趙孟頫尺牘<lb/>
+　　　元趙孟頫三札<lb/>
+　　　元趙孟頫書崇禧萬壽宫記<lb/>
+　　　元趙孟頫雜書<lb/>
+　　　元趙孟頫管道昇尺牘合卷<lb/>
+<pb n="KR3h0063_WYG_060-5a"/>
+　　　元趙孟頫一門合札<lb/>
+　　　元康里巙書顔真卿述張旭筆法<lb/>
+　　　元鮮于樞書前尺壁賦<lb/>
+　　　元班惟志二體千文<lb/>
+　　　元饒介書五言古詩<lb/>
+　　　明沈度沈粲各體書<lb/>
+　　　明王守仁龍江留别詩<lb/>
+　　　明文徵明倣懷素草書<lb/>
+<pb n="KR3h0063_WYG_060-5b"/>
+　　　明文徵明尺牘<lb/>
+　　　明王寵書出師二表<lb/>
+　　　明陸深自書白雁詩<lb/>
+　　　明董其昌臨枯樹賦<lb/>
+　　　明董其昌書白居易樂府<lb/>
+　　　明董其昌臨古<lb/>
+　　　明董其昌書答徐孝穆書<lb/>
+　　　明董其昌臣傳贊<lb/>
+<pb n="KR3h0063_WYG_060-6a"/>
+　　　明董其昌自書詩帖<lb/>
+　　　明董其昌書龍神感應記<lb/>
+　　　明董其昌書正陽門闗侯廟碑<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

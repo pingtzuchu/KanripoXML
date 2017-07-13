@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3k0012_SBCK_716-1a"/>
+太平御覽卷第七百一十六<lb/>
+　服用部一十八<lb/>
+　手巾　絮巾<lb/>
+　　　　　手巾<lb/>
+漢名臣奏曰王莽斥出王閎太后憐之閎伏泣失聲太后<lb/>
+親自以手巾拭閎泣<lb/>
+英雄記曰在尊者前冝各具一手巾不冝借人巾用<lb/>
+江表傳曰孫權尅荆州將吏悉皆歸附而潘濬涕泣交横<lb/>
+慰勞與語使親近手巾拭其靣<lb/>
+東宮舊事曰太子納妃有百濟白手巾也<lb/>
+廣志曰炎州以火浣布爲手巾<lb/>
+博物志曰魏文帝善彈碁能用手巾角<lb/>
+竹林七賢論曰王戎雖爲三司率尔私行巡省園田不從<lb/>
+<pb n="KR3k0012_SBCK_716-1b"/>
+一人以手巾挿腰戎故吏多大官相逢輙下道避之<lb/>
+名山略記曰鬱州道祭酒徐誕常以治席爲事有呉人姓<lb/>
+夏侯來師誕忽暴病死終冬渉春有長沙門從北來於道<lb/>
+中見夏侯云被崑崙召不得辭師寄手巾爲信誕得手巾<lb/>
+乃本所送入棺者〇志怪曰㑹稽人呉詳見一女子溪邊洗<lb/>
+脚呼詳共宿明旦别去女贈詳以紫巾詳荅以白布手巾<lb/>
+神仙服食經曰伏苓如拳者着手巾中百鬼消滅<lb/>
+秦嘉婦與嘉書曰今奉越布手巾二枚<lb/>
+　　　　　絮巾<lb/>
+漢書儀曰皇后親蚕絲絮織室作祭服皇后得以作絮巾<lb/>
+魏畧曰趙歧避難至北海着絮巾市賣餅<lb/>
+鄴中記曰石虎皇后岀以女騎一千爲鹵簿冬月皆絮綸<lb/>
+巾<lb/>
+<pb n="KR3k0012_SBCK_716-2a"/>
+博物志曰蜀人以絮巾爲帽絮<lb/>
+太平御覽卷第七百一十六<lb/>
+<pb n="KR3k0012_SBCK_716-2b"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

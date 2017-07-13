@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4d0090_SBCK_006-1a"/>
+張右史文集第六卷<lb/>
+　古樂府歌詞<lb/>
+　　　天馬歌<lb/>
+風霆冥㝠日月蔽帝遣真龍下人世降精神<lb/>
+馬育天駒足躡奔風動千里蕭條寄産大宛<lb/>
+城我非爾乗徒爾生小羌雜虜漫覊絏櫪上<lb/>
+秋風時一鳴萬里名聞漢天子内府鑄金求<lb/>
+騄駬将軍受詔玉関開靈旂西指宛王死天<lb/>
+馬出城天駟驚胡沙颯颯邉風生執驅校尉<lb/>
+<pb n="KR4d0090_SBCK_006-1b"/>
+再拜馭䕶羌使者清途迎騏驎殿下瞻天表<lb/>
+天質龍姿自相照翠㽔黄屋両邐迤玉鐙金<lb/>
+鞍相眩耀東㳺封祀𬒳和鑾甲子北来廵朔<lb/>
+邊展才自覺逄時樂致逺不知行路難物生<lb/>
+従類如有神地無逺近終相親君不見莘野<lb/>
+磻溪耕釣叟一朝吐氣佐明君<lb/>
+　　　江南曲<lb/>
+平湖碧玉烟波濶芰荷風𧺫秋香發採蓮女<lb/>
+児紅粉新舟中笑語隔烟聞高繋紅裙䄂㕠<lb/>
+<pb n="KR4d0090_SBCK_006-2a"/>
+卷不惜浮萍沾皓腕争先採得隐船<graphic n="KR0963" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0963.png" mimeType="image/png"/>多少<lb/>
+相欺五相問呉児蕩槳来何事手指荷花示<lb/>
+深意郎指蓮房妾折絲蓮不到頭絲不止月<lb/>
+上潮平四散歸舟輕楫短去如飛断腸脉脉<lb/>
+両無語寄情流水傳相思<lb/>
+　　　籠鷹詞<lb/>
+八月穫黍霜野空蒼鷹羽齊𥘉出籠劍翎鈎<lb/>
+爪目如電利吻新淬龍泉鋒少年臂爾平郊<lb/>
+去草動人呼躍寒兎竦身下撃霹靂忙毛逐<lb/>
+<pb n="KR4d0090_SBCK_006-2b"/>
+奔風血濡距爾能摶兎不能食未飽中腸行<lb/>
+復繋主人厭兎爾尚飢一生不快為人役蒿<lb/>
+間黄雀鳴啾啾飢啄野粟心無求賦形雖小<lb/>
+技能薄不受覊縻得自由<lb/>
+　　　拳毛駒歌<lb/>
+北窓掃壁陳圗書殺氣凛凛生坐隅誰将尺<lb/>
+素画駿馬云是文皇昔日拳毛駒龍顱虎脊<lb/>
+視天地若㓕若没三萬里皇天産此誰得之<lb/>
+　湏十八真天子擒王㓕竇如塵埃英氣貫<lb/>
+<pb n="KR4d0090_SBCK_006-3a"/>
+日天為開黄金甲光照天地大白羽箭馳風<lb/>
+雷<hi>唐文皇與單雄信挑戦雄信運鐡槊文皇以大白羽射之中其槊出火數尺雄信遁</hi>
+<hi>去</hi>真龍在廐萬馬疾下視四海皆駑駘榛棘<lb/>
+昭陵一杯土栢城六馬莓苔古嗚呼駿馬已<lb/>
+埃塵雖有燕昭難再親<lb/>
+　　　寒鴉詞<lb/>
+寒鴉来時九月天黄桑蕭蕭人刈田啼殾清<lb/>
+哀晚紛泊迭和群音和且樂朋飛聚噪動百<lb/>
+千頸腹如霜雙翅去風高日落田中至部隊<lb/>
+<pb n="KR4d0090_SBCK_006-3b"/>
+崩騰鉦鼓沸高林古道榆栁郊落葉晴霜荆<lb/>
+棘地志士朝聞感歲華田家候爾知寒事壠<lb/>
+頭雪消牛挽犁蕩漾春風吹爾歸投寒避暖<lb/>
+竟何事長伴燕鴻南北飛我滯窮城未知返<lb/>
+為爾年年悲歲晚扁舟東下會有期明年見<lb/>
+爾長淮㟁<lb/>
+　　　寒食歌<lb/>
+東風芳草長寒食春茫茫人家掩門去雞犬<lb/>
+自相将原頭簇簇栁與花行人徃来長嘆嗟<lb/>
+<pb n="KR4d0090_SBCK_006-4a"/>
+舊墳新塜纍纍是裂錢澆酒何人家桑上鳴<lb/>
+鳩喚山雨雨脚蕭蕭山日暮歸来門巷正春<lb/>
+寒花底殘紅落無𢾗北里悲啼夜未休清絃<lb/>
+脆管𧺫南楼古今歌笑何時盡芳草白楊春<lb/>
+復秋去年巧笑鞦韆女今年嫁作東家婦綵<lb/>
+繩画柱似當年只有朱顔不如故百人學仙<lb/>
+無一成麻姑不見但聞名萬斛春醪湏痛飲<lb/>
+江邉漁父笑人醒<lb/>
+　　　飛萤詞<lb/>
+<pb n="KR4d0090_SBCK_006-4b"/>
+碧梧含風夏夜清林塘五月𥘉飛萤翠屏玉<lb/>
+簟𧺫凉思一點秋心従此生方池水深溪雨<lb/>
+積上下輝輝亂凝碧幸因簾<graphic n="KR1032" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1032.png" mimeType="image/png"/>到華堂不畏<lb/>
+人驚照瑶席漢宫千門連萬户夜夜熒煌暗<lb/>
+中度光流太液池上波影落金盤月中露銀<lb/>
+闕蒼蒼玉漏遲年年為爾足愁思長門怨妾<lb/>
+不成寐團扇美人還賦詩避暑風廊人語笑<lb/>
+欄下撲来羅小扇已投幽室自分明更伴殘<lb/>
+星碧天曉君不見連昌宫殿洛陽西破瓦頽<lb/>
+<pb n="KR4d0090_SBCK_006-5a"/>
+垣今古悲荒榛腐草無人迹只有秋来熠燿<lb/>
+飛<lb/>
+　　　齊安行<lb/>
+黄州楚國分三户葛蔓為城當楼櫓江邉布<lb/>
+井𢾗十家城中平田無一歩土崗痩竹青復<lb/>
+黄引水種稲官街旁客樯朝集暮四散夷言<lb/>
+啁<graphic n="KR1116" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1116.png" mimeType="image/png"/>来湖湘使君䴡譙塗堊赭門狭不能行<lb/>
+両馬滿城鼃噪亂更聲谷風榖榖黄鴉鳴最<lb/>
+愁三伏熱如甑北客十人八九病百年生死<lb/>
+<pb n="KR4d0090_SBCK_006-5b"/>
+向中州千金莫作齊安㳺<lb/>
+　　　一百五歌<lb/>
+山民歲時事莾鹵猶知拜掃一百五平明士<lb/>
+女出城闉黄土崗前列尊爼篛包粉餌蒸野<lb/>
+𬞞富家烹羊貧薦魚日暮肩輿踏風雨江郷<lb/>
+人家無犢車揷花飲酒山邉市醉後歌聲動<lb/>
+鄰里南人聞歌笑相尋北人聞歌淚滿襟<lb/>
+　　　秋風謡<lb/>
+秋風𧺫秋雲高連山草木如波濤大江蕩潏<lb/>
+<pb n="KR4d0090_SBCK_006-6a"/>
+魚龍逃羲和奔忙日車逸八柱傾側恐不牢<lb/>
+柯山老人揜蓬茅畏寒理我舊緼𫀆麄飡在<lb/>
+盤有濁醪醉飽高卧従呼號<lb/>
+　　　東臯行<lb/>
+秋雲<graphic n="KR1032" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1032.png" mimeType="image/png"/>盡秋天清東臯蕭條雞犬聲黄葉吟<lb/>
+風殾不平芙蕖半落更有情歸来僮飢羸馬<lb/>
+疲城頭樹暗烏𣣔栖誰家朱楼人夜宿微紅<lb/>
+一點簾間燭<lb/>
+　　　正月詞<lb/>
+<pb n="KR4d0090_SBCK_006-6b"/>
+紅梢一夜櫻桃雨簾<graphic n="KR1032" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1032.png" mimeType="image/png"/>曉晴鴝鵒語簾旌細<lb/>
+浪滚東風迎得春歸與爲主玉手嬌慵添繍<lb/>
+線欄下菖蒲近相見雲屏曉睡翠翹横楼上<lb/>
+寒時正五更<lb/>
+　　　二月詞<lb/>
+滚風画幕長廊静簾下人眠𥘉日永嚶嚶不<lb/>
+動採花蜂夜来露重蔷薇冷芳草長時寒食<lb/>
+天紅墙低䖏見鞦韆人家無事雞犬閒日暮<lb/>
+芳郊留醉眠<lb/>
+<pb n="KR4d0090_SBCK_006-7a"/>
+　　　飢烏詞<lb/>
+北風夜雨烏翅濕低飛野畦啄遺粒啄食不<lb/>
+飽還畏人嗚呼隔壠自求群我行陳宋經大<lb/>
+澤田荒生茅不種麥空腸待飽明年禾鴉鴉<lb/>
+爾飢獨奈何<lb/>
+　　　苦寒行二首<lb/>
+淮南苦寒不可度積雪連山風倒樹長淮凍<lb/>
+絶魚龍愁哀鴻傍人飛不去霜中寒日無暖<lb/>
+光六龍瑟縮不肯<graphic n="KR0750" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0750.png" mimeType="image/png"/>老<graphic n="KR0629" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0629.png" mimeType="image/png"/>孤舟且復止堅氷<lb/>
+<pb n="KR4d0090_SBCK_006-7b"/>
+三尺厚于墙<lb/>
+茫茫楚郷仲冬月白屋無烟飛走絶空林號<lb/>
+風氷断枝長淮無人氷照雪凍埋釣艇不復<lb/>
+漁南羹未嚼淮中魚要湏下擘澄湫水剸取<lb/>
+寒蛟烹腹腴<lb/>
+　　　春詞<lb/>
+寳刀裁花碎羅縠帶臘圎紅黄染粟枝頭㡬<lb/>
+日即花開世上人情　大速東風未轉北風<lb/>
+嚴返挂銅鈎不上簾莫怪蛾眉呵素指層簷<lb/>
+<pb n="KR4d0090_SBCK_006-8a"/>
+氷碧玉纎纎<lb/>
+　　　宫詞效王建五首<lb/>
+夜来霜重着欄杆玉殿無塵玉甃寒日日君<lb/>
+王罷朝早禁廷無事一冬閒<lb/>
+簾外微明燭下粧殿門放鑰待君王玉堦冷<lb/>
+地羅鞋薄衆裡偷身倚御牀<lb/>
+昨夜新霜滿玉堦𥘉冬䖏䖏火爐開中官逐<lb/>
+院傳宣賜南國諸侯進橘来<lb/>
+玉墀夜色晝昏昏催放朝班散侍臣隨駕上<lb/>
+<pb n="KR4d0090_SBCK_006-8b"/>
+楼同㸔雪萬重宫殿一時新<lb/>
+蓮燭千枝夜宴遲君王素筆寫新詩宫人和<lb/>
+得争先進偏爱宋家兄弟詞<lb/>
+　　　旱謡<lb/>
+七月不雨井泉渾孤城烈日風揚塵楚天萬<lb/>
+里無纎雲旱氣塞空日晝昏土龍蜴蜥竟無<lb/>
+神田中水車聲相聞努力踏車莫厭懃但憂<lb/>
+水勢傷水根道傍執送者何人稲塍争水殺<lb/>
+厥隣五湖七澤水不貧正賴老龍一屈伸<lb/>
+<pb n="KR4d0090_SBCK_006-9a"/>
+　　　貽潘邠老<hi>有序</hi>
+余居柯山西潘邠老居東九月十一日徃過<lb/>
+之逕𬞞圃坐修誠堂竹間歸飲于亀蝉之間<lb/>
+殊有佳興作雜言貽之<lb/>
+有屋可以讀書有竹可以忘憂採庭之菊香<lb/>
+有餘烹園之𬞞甘且柔賢哉二子又復何求<lb/>
+鬼不爾責人不爾仇沽酒可飲江魚可羞又<lb/>
+安用列鼎食珍佩印封侯我居柯西相隔一<lb/>
+里可以杖履朝徃而夕逰必未厭我乞醯與<lb/>
+<pb n="KR4d0090_SBCK_006-9b"/>
+借馬但只恐懃君赤脚與露頭不然将吾顔<lb/>
+子簞食瓢飲屡空之樂又欲翻董生清明玉<lb/>
+杯繁露之春秋<lb/>
+　　　醉中雜言<lb/>
+老人攀花復藉草春力着人如醉倒未容作<lb/>
+　試留春東風已與人俱老東君惜春不惜<lb/>
+花千紅萬紫委泥沙已教白日張錦繡更欲<lb/>
+平地興雲霞我欲呼客無酒肉<graphic n="KR0933" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0933.png" mimeType="image/png"/>花揷頭悲<lb/>
+髪秃安得醸乎酒萬甕屠千羊花間醉飽踏<lb/>
+<pb n="KR4d0090_SBCK_006-10a"/>
+春陽<lb/>
+張右史文集卷第六<lb/>
+<pb n="KR4d0090_SBCK_006-10b"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>提要<lb/>
+                </head>
+    <p>
+<pb n="KR4d0252_WYG_000-1a"/>
+欽定四庫全書　　　　　集部四<lb/>
+　提要<lb/>
+　　縁督集二十卷　　　　别集類三<hi>宋</hi>
+　　　　臣等謹案縁督集二十卷宋曾丰撰丰字幼<lb/>
+　　　　度樂安人乾道五年進士官至德慶太守真<lb/>
+　　　　德秀幼嘗受學于丰及執政奏取其集入崇<lb/>
+　　　　文四部當時嘗板行於世歲久不傳元元統<lb/>
+　　　　間丰五世孫德安購其遺集得四十卷翰林<lb/>
+<pb n="KR4d0252_WYG_000-1b"/>
+　　　　學士虞集為之叙謂其氣剛而義嚴辭直而<lb/>
+　　　　理勝得於易之奇詩之葩其文今見道園學<lb/>
+　　　　古録中然當時欲授梓不果至明嘉靖間詹<lb/>
+　　　　事講始選録十有二卷刻於宣城卷末有萬<lb/>
+　　　　錡後序稱摘其尤者存之今觀所分諸體如<lb/>
+　　　　五言排律類中惟有排律一二首餘皆五言<lb/>
+　　　　詩七言排律類中皆七言古詩無一首為律<lb/>
+　　　　是古今體且不能辨則其去取乖謬大概可<lb/>
+<pb n="KR4d0252_WYG_000-2a"/>
+　　　　知盖事講從羅洪先游日以討論心學為事<lb/>
+　　　　文章一道非所深研遂使丰之菁華反因此<lb/>
+　　　　選而散佚殊堪惋惜惟永樂大典編自明初<lb/>
+　　　　尚見丰之原集其所收録較刋本多至數倍<lb/>
+　　　　今據以増補乃裒然幾還舊觀佚而復存亦<lb/>
+　　　　云幸矣丰仕蹟不顯頗以著述自負集中如<lb/>
+　　　　六經論之類根柢深邃得馬鄭諸儒所未發<lb/>
+　　　　其他詩文間有好竒之癖要皆有物之言非<lb/>
+<pb n="KR4d0252_WYG_000-2b"/>
+　　　　膚淺者所可企及亦南宋一作者也丰晚年<lb/>
+　　　　築室自號曰樽齋故是編一名樽齋集見於<lb/>
+　　　　宋史藝文志今從虞集所廣仍取縁督為名<lb/>
+　　　　集序稱凡四十卷而宋志乃作十四卷盖刋<lb/>
+　　　　刻傳冩誤倒其文今原目不可復睹謹據所<lb/>
+　　　　存各體以類區分共釐為二十卷乾隆四十<lb/>
+　　　　六年九月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+<pb n="KR4d0252_WYG_000-3a"/>
+　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+<pb n="KR4d0252_WYG_000-4a"/>
+原序<lb/>
+縁督集者故宋徳慶太守曽侯丰幼度之文也侯撫州<lb/>
+樂安人登乾道己丑進士第積官至朝散大夫参知政<lb/>
+事真公徳秀幼嘗學於侯侯殁真公志其墓石納竁中<lb/>
+不得見而侯之孫焄以䕃補官歴鴈汊海口兩監鎮調<lb/>
+平江府節度推官則由真公念舊而推引之也二百餘<lb/>
+年而書亡國朝元統初今監察御史前進士燮理溥化<lb/>
+來監其邑詢求其鄉之先生舊人得其族譜兩卷故翰<lb/>
+<pb n="KR4d0252_WYG_000-4b"/>
+林學士吳公之所叙也又命侯之五世孫徳安購其遺<lb/>
+書得今集四十卷將刻之而燮君召拜御史書未及成<lb/>
+後三年徳安求予叙之按樂安未置邑時地屬廬陵之<lb/>
+永豐其先在唐末五代時有異人善相地者為之𦵏而<lb/>
+子孫果蕃以盛如其占江鄉好事者人人能道之徃觀<lb/>
+者至今車轍馬跡不絶於其里其顯者則莫盛於徳慶<lb/>
+矣侯方未第時自著其族譜叙以為逺不及温陵宣靖<lb/>
+公父子福徳功勲之盛近不及南豐子固兄弟文學名<lb/>
+<pb n="KR4d0252_WYG_000-5a"/>
+位之著慨然有自憤之志不一二年遂䇿名大廷其志<lb/>
+亦宏矣哉予得其所欲刻者而有以見之其氣剛而義<lb/>
+嚴辭直而理勝其有得於易之奇詩之葩者乎取譬託<lb/>
+興傑然不溺於風俗山川磅礴雄偉之氣盖有以發焉<lb/>
+夫物之精華久而不滅則有神明之助者矣一編之書<lb/>
+獨發於五世諸孫之手殆非偶然也徳安能儒能醫則<lb/>
+文理之美隂徳之厚尚有以昌其書者乎侯登科之年<lb/>
+則我先忠肅公入相之嵗俯仰今昔故為之書虞集伯<lb/>
+<pb n="KR4d0252_WYG_000-5b"/>
+生序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

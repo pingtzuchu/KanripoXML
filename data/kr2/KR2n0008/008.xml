@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>授經圖義例卷九</head> <lb/>
+    <p>
+<pb n="KR2n0008_WYG_008-1a"/>
+欽定四庫全書<lb/>
+　授經圖義例卷九<lb/>
+　　　　　　　　　　　　明　朱睦㮮　撰<lb/>
+　　詩<lb/>
+韓嬰精詩又通易舊圖兩見今以韓詩為専門特置於<lb/>
+此<lb/>
+毛詩謝曼卿魯詩髙嘉右師細君魏應韓詩薛漢雖無<lb/>
+師承而傳有次第姑識之以備咨考<lb/>
+<pb n="KR2n0008_WYG_008-1b"/>
+舊圖許晃受詩申公傳李業按漢書申公髙帝時人許<lb/>
+晃平帝時人相去甚逺非的傳故置别派<lb/>
+舊圖孔建孔僖皆治毛詩而授受未詳本傳亦無世學<lb/>
+之文故不載<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　授經圖義例卷九<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3k0012_SBCK_943-1a"/>
+太平御覽卷第九百四十三<lb/>
+　鱗介部十五<lb/>
+　　　　擁劒　鰌蝥　彭螖<lb/>
+　　　　竭朴　沙狗　招潮<lb/>
+　　　　倚望　石碅　蜂江<lb/>
+　　　　蘆虎　石華　蚐<graphic n="KR2576" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2576.png" mimeType="image/png"/>
+　　　　鱟　瑟<graphic n="KR3247" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3247.png" mimeType="image/png"/>　海<lb/>
+　　　　<graphic n="KR1007" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1007.png" mimeType="image/png"/>類　越王筭　石蚑<lb/>
+　　　　陽遂足　<graphic n="KR2167" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2167.png" mimeType="image/png"/>
+                    <graphic n="KR2086" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2086.png" mimeType="image/png"/>　土肉<lb/>
+　　　　蝦　海月　玉䖴<lb/>
+　　　　陵龍　石矩　玳琩<lb/>
+　　　　蟕<graphic n="KR1010" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1010.png" mimeType="image/png"/>　水母　海鏡<lb/>
+　　　　　　　擁劒<lb/>
+<pb n="KR3k0012_SBCK_943-1b"/>
+廣志曰擁劒似蟹色黄方二寸其一螯偏長如足大指長<lb/>
+三寸餘有光其短細者如簪<lb/>
+異物志云擁劒狀如蟹但一螯偏大耳<lb/>
+何遜詩云躍魚擁劒是不分魚蟹也<lb/>
+崔豹古今注曰蟚螖<hi>音滑</hi>小蟹也生海邊塗中食土一名長<lb/>
+卿其有螯偏大者名擁劒一名執火其螯赤故謂之執火<lb/>
+也俗謂之越王劒<lb/>
+杜寳大業拾遺録曰呉郡獻蜜蟹二千頭作如糖蟹法蜜<lb/>
+擁劒四　擁劒似蟹而小一螯偏大呉都賦所謂烏賊擁<lb/>
+劒是也<lb/>
+　　　　　鰌蝥<lb/>
+祖台之志怪曰㑹稽山隂東郭氏女先與縣人私通此人<lb/>
+買還於縣東靈慈橋女徃入船就之因共寢　爲設食食<lb/>
+<pb n="KR3k0012_SBCK_943-2a"/>
+蝥食畢女將兩鰌蝥上岸去船還來至郭逢人語此女巳<lb/>
+死乃徃省之尚未殯也發衾視之兩手各把一鰌蝥<lb/>
+嶺表録異曰蝤蛑乃蟹之巨者異者兩螯上有細毛如苔<lb/>
+身有八足蝤蛑則螯足無毛後兩小足薄而闊<hi>俗謂之撥掉子</hi>與<lb/>
+蟹有殊其大如升南人皆呼爲蟹<hi>有大如小楪子者八月此物與人闘徃往夾殺</hi>
+<hi>人也</hi>
+　　　　　彭螖<lb/>
+爾雅曰螖蠌小者蟧<hi>螺属見捭蒼或曰即彭螖也似蟹而小滑澤二音</hi>
+晉書曰夏統字仲御㑹稽永興人也㓜孤貧養親以孝聞<lb/>
+睦於兄弟毎採捃求食星行夜歸或至海邊拘蟛<graphic n="KR1209" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1209.png" mimeType="image/png"/>以資<lb/>
+養<lb/>
+捜神記曰晉太康四年㑹稽彭螖化爲䑕食稻爲災<lb/>
+崔豹古今注曰彭螖小蟹也一名長卿<lb/>
+<pb n="KR3k0012_SBCK_943-2b"/>
+嶺表録異曰蟛螖吴呼爲越蓋語訛也足上無毛堪食呉<lb/>
+越間多以塩藏貨於市<lb/>
+　　　　　竭朴<lb/>
+臨海異物記曰竭朴大於彭螖殻黒斑有文章螯正赤常<lb/>
+以大螯彰目屈小螯以取食<lb/>
+嶺表録異曰竭朴乃大彭蜞也殻有黒斑雙螯一大一小<lb/>
+常以大螯捉食小螯分以自食<lb/>
+　　　　　沙狗<lb/>
+臨海異物志曰沙狗似彭螖壤沙爲穴見人則走曲折易<lb/>
+道不可得也<lb/>
+　　　　　招潮<lb/>
+臨海異物志曰招潮小如彭螖殻白依潮長背坎外向舉<lb/>
+螯不失常期俗言招潮水也<lb/>
+<pb n="KR3k0012_SBCK_943-3a"/>
+嶺表録異曰招潮子亦蟛蜞之属殻帶白色海畔多潮欲<lb/>
+來皆出坎舉螯如望故俗呼招潮也<lb/>
+　　　　　倚望<lb/>
+臨海水土物志曰倚望常起頋睨西東其形如彭螖大行<lb/>
+塗土四五進輙舉兩螯八足起望行常如此唯入穴中乃<lb/>
+止<lb/>
+　　　　　石蜠<hi>巨隕切</hi>
+臨海水土物志曰石蜠大於蟹八足殻通赤狀鴨卵<lb/>
+　　　　　蜂江<lb/>
+臨海水土物志曰蜂江如　蟹大有足兩螯殻牢如石蜠<lb/>
+同不中食也<lb/>
+　　　　　蘆虎<lb/>
+臨海水土物志曰蘆虎似彭蜞兩螯正赤不中食<lb/>
+<pb n="KR3k0012_SBCK_943-3b"/>
+　　　　　石華<lb/>
+臨海水土物志曰石華附石肉淡<lb/>
+㑹稽地理記曰鄮縣濵多石華<lb/>
+　　　　　蚐<graphic n="KR2576" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2576.png" mimeType="image/png"/>
+                    <hi>上古侯切下并亦切</hi>
+劉欣期交州記曰蚐<graphic n="KR2576" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2576.png" mimeType="image/png"/>似瑇琩龜頭鼈身蝦尾色班似錦<lb/>
+文大如笠四足漫湖無指甲前有黒珠可以飾物<lb/>
+臨海水土物志曰<graphic n="KR1314" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1314.png" mimeType="image/png"/>
+                    <graphic n="KR2576" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2576.png" mimeType="image/png"/>其狀龜形如笠味如黿可食卵大<lb/>
+如鴨卵正圎中生噉味美於諸鳥卵其甲黄點注之廣七<lb/>
+八寸長二三尺有光色<lb/>
+左思呉都賦曰<graphic n="KR1314" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1314.png" mimeType="image/png"/>鼊鯖鰐<lb/>
+　　　　　鱟<hi>胡遘切</hi>
+廣志曰鱟似便面負雌而行失雄則不能獨活出交阯南<lb/>
+海中<lb/>
+<pb n="KR3k0012_SBCK_943-4a"/>
+呉録地理志曰交阯龍編縣有鱟形如惠文冠青黑色十<lb/>
+二足似蟹長五寸腹中有子如麻子取以作醬尤美<lb/>
+裴淵廣州記曰鱟廣尺餘形如熨斗頭如蜣蜋腹下有十<lb/>
+足南人重之以爲鮓<lb/>
+南越志曰漲海口有鱟毎過海輒相積於背髙尺餘如㠶<lb/>
+乗風而遊<lb/>
+嶺表録異曰鱟魚其殻瑩浄滑如青瓷盌𨫼背眼在背上<lb/>
+口在腹下青黒色腹兩傍爲六脚有尾長尺餘三稜如㨑<lb/>
+莖常雌附雄而行捕者必雙得之若摘去雄者雌者即自<lb/>
+止背負之方行腹中有子如菉豆南人取之碎其肉脚和<lb/>
+以爲醬食之尾中有珠如粟色黄雌者小置之水中即雄<lb/>
+者浮雌者沉<lb/>
+　　　　　瑟<graphic n="KR3247" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3247.png" mimeType="image/png"/>
+<pb n="KR3k0012_SBCK_943-4b"/>
+臨海水土物志曰瑟<graphic n="KR3247" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3247.png" mimeType="image/png"/>與<graphic n="KR1007" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1007.png" mimeType="image/png"/>相似<lb/>
+　　　　　海<lb/>
+臨海水土物志曰海　如<graphic n="KR1007" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1007.png" mimeType="image/png"/>狹後廣前其肉中食亦又多<lb/>
+膏<lb/>
+　　　　　<graphic n="KR1007" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1007.png" mimeType="image/png"/>類<hi>上音朝</hi>
+臨海水土物志曰<graphic n="KR1007" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1007.png" mimeType="image/png"/>類似<graphic n="KR1314" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1314.png" mimeType="image/png"/>
+                    <graphic n="KR2576" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2576.png" mimeType="image/png"/>腸如羊胃中啖<lb/>
+　　　　　越王筭<lb/>
+臨海水土物志曰越王筭如笄大正白長尺餘生海邊沙<lb/>
+中見仍取之即可心中存來取即入土中<lb/>
+　　　　　石蚑<hi>去豉切</hi>
+臨海水土物志曰石蚑生附石長三寸如小竹大有甲正<lb/>
+黒中食<lb/>
+　　　　　陽遂足<lb/>
+<pb n="KR3k0012_SBCK_943-5a"/>
+臨海水土物志曰陽遂足此物形狀背青黒腹下正白有<lb/>
+五足長短大小皆等不知頭尾所在生時躰軟死即乾脆<lb/>
+　　　　　<graphic n="KR2167" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2167.png" mimeType="image/png"/>
+                    <graphic n="KR2086" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2086.png" mimeType="image/png"/>
+                    <hi>上音迷下音麻</hi>
+臨海水土物志曰<graphic n="KR2167" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2167.png" mimeType="image/png"/>
+                    <graphic n="KR2086" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2086.png" mimeType="image/png"/>
+                    <graphic n="KR1314" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1314.png" mimeType="image/png"/>
+                    <graphic n="KR2576" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2576.png" mimeType="image/png"/>相似形大如䕠生渤海邊沙<lb/>
+中肉極好噉一枚有三斛膏<lb/>
+　　　　　土肉<lb/>
+臨海水土物志曰土肉正黒如小兒臂大長五寸中有腹<lb/>
+無口自有三十足如釵股大中食<lb/>
+　　　　　蝦<lb/>
+爾雅曰鰝大蝦也<hi>蝦大者出海中長二三丈鬚長數尺今青州呼蝦魚爲鰝音鄗</hi>
+東觀漢記曰馬稜字伯威爲廣陵太守奏罷塩官賑貧羸<lb/>
+薄賦稅蝗蟲飛入海化爲魚蝦<lb/>
+王隱晉書曰呉後置廣州以南陽滕脩爲刺史或語脩蝦<lb/>
+<pb n="KR3k0012_SBCK_943-5b"/>
+長一丈脩不信其人後故至東海取蝦鬚長四五尺封以<lb/>
+示脩脩乃服<hi>廣州記亦云</hi>
+金樓子曰舜攝天子有緩耳貫胷之民來獻珠蝦<lb/>
+丗說曰虞嘯父爲孝武帝侍中帝從容謂曰卿在閤下𥘉<lb/>
+不聞有獻替虞家冨近海謂帝望其意對曰天時尚䁔魚<lb/>
+鼈蝦鮓未可致㝷有所獻帝撫掌大笑<lb/>
+異物志曰蝦種多　最大中作脯<lb/>
+南越志曰南海以蝦頭爲杯鬚長數尺金銀鏤之晉簡文<lb/>
+以盛酒未及飲酒躍於外筮之曰三旬當後庭有告變者<lb/>
+果有生子人面犬身<lb/>
+博物志曰東海有物狀如凝血縱廣數丈正方圎名曰鮓<lb/>
+魚無頭目處所内無腹藏衆蝦附之隨其東西越人煑食<lb/>
+之<lb/>
+<pb n="KR3k0012_SBCK_943-6a"/>
+嶺南異物志曰南海有蝦鬚長四五十尺<lb/>
+嶺表録異曰海蝦皮殻嫰紅色就中腦殻與前雙脚有鉗<lb/>
+者其色如朱余甞曽登海<graphic n="KR1299" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1299.png" mimeType="image/png"/>忽見牎版懸二巨蝦殻頭尾<lb/>
+鉗足具全各七八尺首占其一分刺尖利如鋒刃刺上有<lb/>
+鬚如紅筯各長二三尺前雙脚上有鉗<hi>云以此捉食</hi>鉗麁如人大<lb/>
+指長三尺餘上有芒刺如薔薇枝赤而銛硬手不可觸腦<lb/>
+殻烘透彎環尺餘何止於盃盂也<lb/>
+北户録云滕脩爲廣州刺史有客語脩曰蝦鬚有一丈者<lb/>
+堪爲拄杖脩不之信故去東海取鬚長四丈以示脩方服<lb/>
+其異寕蝦大者亦首尾尺餘閩越率取其肉臠而爲炙又<lb/>
+渾以塩藏自然紅色謂之紅蝦貢送白蝦肉薄而白瑩如<lb/>
+水精廣人偏食之蓋美而毒詢於閩川吴中悉無此類<lb/>
+嶺表録異曰南人多買蝦之細者生切綽菜蘭香蓼等用<lb/>
+<pb n="KR3k0012_SBCK_943-6b"/>
+濃醬醋先潑活蝦盖以生菜然以熱飲覆其上就口跑之<lb/>
+亦有跳出醋揲者謂之蝦生鄙俚重之以爲異饌也<lb/>
+王朗荅魏文表曰夫張大網以漉鰌蝦辱九鼎以烹鼃鼂<lb/>
+應璩百一詩曰大龜承衰弊復欲密其羅蚍蜉猶見得何<lb/>
+云鰌與蝦<lb/>
+葛龔與張季景書曰夜從劉伯宣舎西垂過龔家無飯<lb/>
+噉煼蝦<lb/>
+　　　　　海月<lb/>
+臨海水土物志曰海月大如鏡白色正圎常死海邊其指<lb/>
+如搔頭大中食<lb/>
+謝靈運詩曰挂席拾海月<lb/>
+　　　　　玉䖴<hi>余招切</hi>
+臨海水土物志曰玉䖴似蚌長二寸廣五寸上大下小其<lb/>
+<pb n="KR3k0012_SBCK_943-7a"/>
+殻中拄炙之味似酒<lb/>
+　　　　　陵龍<lb/>
+臨海水土物志曰陵龍之躰黃身四足形短尾長有鱗無<lb/>
+角南越嘉羞見之竟逐<lb/>
+　　　　　石矩<lb/>
+嶺表録異曰石矩亦章舉之類身小而足長入塩爲乾燒<lb/>
+食極美又有小者兩足如帶曝乾後似射踏子故南中呼<lb/>
+爲射踏子也<lb/>
+　　　　　玳瑁<lb/>
+嶺表録異曰玳瑁形狀如龜唯腹背甲有烘點其大者悉<lb/>
+似盤蓋<lb/>
+本草經云玳瑁解毒兼云辟邪余寄居廣南日見盧亭<hi>海島</hi>
+<hi>夷人</hi>獲活玳瑁龜一枚以獻連帥嗣薛王王令生取背甲小者二<lb/>
+<pb n="KR3k0012_SBCK_943-7b"/>
+片帶於左臂上以辟毒龜𬒳生揭其甲亦甚苦楚後養於<lb/>
+使宅後北池伺其揭處漸生復遣盧亭送於海畔或云玳<lb/>
+瑁若生帶之有蠱毒玳瑁甲即自揺動若死無此驗<lb/>
+　　　　　蟕<graphic n="KR1010" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1010.png" mimeType="image/png"/>
+                    <hi>上遵為切下音</hi>
+嶺表録異曰蟕<graphic n="KR1010" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1010.png" mimeType="image/png"/>俗謂之兹夷乃山龜之巨者人立其背<lb/>
+可負而行産潮循山中鄉人採之取殻以貨要全其殻湏<lb/>
+以木楔其肉龜吼如牛聲響山谷廣州有巧匠取其甲以<lb/>
+爲梳箆盃器之属<lb/>
+　　　　　水母<lb/>
+廣志曰水母如羊<graphic n="KR2075" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2075.png" mimeType="image/png"/>在海中常浮聞人聲沉水底可生切<lb/>
+食<lb/>
+沈懷逺南越志曰海岸間　育水母東海謂之蛇<hi>音蜡</hi>
+張茂先博物志曰東海有物狀如凝血廣數尺正方圎名<lb/>
+<pb n="KR3k0012_SBCK_943-8a"/>
+曰水母無頭目所處則衆蝦附之隨其東西南北可煑食<lb/>
+之<lb/>
+異物志曰水母在海汎汎常浮<hi>其躰正白常在水上浮也</hi>
+嶺表録異曰水母廣州謂之水母閩人謂之䖳<hi>癡駕切</hi>其形<lb/>
+乃渾然凝結一物有淡紫色者大如覆帽小者如盌腹下<lb/>
+有物如懸絮俗謂之足而無口眼常有數十蝦寄腹下咂<lb/>
+食其涎浮汎水上捕者或遇之即歘然而没乃是蝦有所<lb/>
+見耳<hi>越絶書云海鏡蟹爲腹水母即蝦爲目也</hi>南中好食之<lb/>
+　　　　　海鏡<lb/>
+嶺表録異曰海鏡廣人呼爲膏葉盤兩片合以成形殻圎<lb/>
+中甚瑩滑日照如雲母光内有少肉如<graphic n="KR1109" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1109.png" mimeType="image/png"/>胎腹中有小蟹<lb/>
+子其小如豆黄而螯足具備海鏡飢則蟹出拾食蟹飽歸<lb/>
+腹海鏡亦飽余曽市得數箇驗之或迫之以火即蟹子走<lb/>
+<pb n="KR3k0012_SBCK_943-8b"/>
+出離腸腹立斃或生剖之有蟹子活在腹中逡廵亦斃<lb/>
+太平御覽卷第九百四十三<lb/>
+<pb n="KR3k0012_SBCK_943-9a"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

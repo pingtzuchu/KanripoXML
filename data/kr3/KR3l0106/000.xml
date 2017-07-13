@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>杜陽雜編</head>
+    <p>
+<pb n="KR3l0106_WYG_000-1a"/>
+欽定四庫全書　　　　子部十三<lb/>
+　杜陽雜編　　　　　　小説家𩔖二<hi>異聞之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案杜陽雜編三卷唐蘇鶚撰鶚有<lb/>
+　　　　演義已著録此編所記上起代宗廣徳元年<lb/>
+　　　　下盡懿宗咸通十四年凡十朝之事皆以三<lb/>
+　　　　字為標目其中述竒技寳物𩔖渉不經大抵<lb/>
+　　　　祖述王嘉之拾遗郭子横之洞㝠雖必舉所<lb/>
+<pb n="KR3l0106_WYG_000-1b"/>
+　　　　聞之人以實之殆亦俗語之為丹青也所稱<lb/>
+　　　　某物為某年某國所貢者如日林大林文單<lb/>
+　　　　呉明拘弭大軫南昌淛東條支鬼谷訶陵兠<lb/>
+　　　　離唐書外國傳皆無此名諸帝本紀亦無其<lb/>
+　　　　事即如夫餘國久併於渤海大氏而云武宗<lb/>
+　　　　㑹昌元年夫餘來貢罽賓地接葱嶺漢書唐<lb/>
+　　　　書均有明文而云在西海尤舛迕之顯然者<lb/>
+　　　　矣然鋪陳縟艷詞賦恒所取材固小説家之<lb/>
+<pb n="KR3l0106_WYG_000-2a"/>
+　　　　以文采勝者讀者挹其葩蘂遂亦忘其夸飾<lb/>
+　　　　至今沿用殆以是歟其曰杜陽雜編者晁公<lb/>
+　　　　武讀書志謂鶚居武功之杜陽葢因地以名<lb/>
+　　　　其書云乾隆四十六年九月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

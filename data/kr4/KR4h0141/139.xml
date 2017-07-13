@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_139-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選卷一百三十九<lb/>
+　　弓類<lb/>
+　　　四言古<lb/>
+　　　　良弓銘　　　　　　　　　<hi>漢</hi>李　尤<lb/>
+　弓矢之作爰自曩時鄉射載禮招命在詩妙稱顔髙巧<lb/>
+　發晉師不爭之美亦以辨儀<lb/>
+　　　五言古<lb/>
+<pb n="KR4h0141_WYG_139-1b"/>
+　　　　我有　　　　　　　　　　<hi>元</hi>張　憲<lb/>
+　我有騂角弓百歩能破的力强不受檠材美陋越棘時<lb/>
+　能斃飛將萬騎莫敢逼翻翻鐵絲箭剡剡金爪鏑鼓寒<lb/>
+　霜氣重應手響霹靂豈惟射渠魁眼中已無敵雄哉兩<lb/>
+　櫜鞬儼若左右翼時來亦大用不偶直暫塞我弓雖少<lb/>
+　置未許楚人得<lb/>
+　　　五言律<lb/>
+　　　　戴光弓　　　　　　　　　<hi>唐</hi>元　稹<lb/>
+<pb n="KR4h0141_WYG_139-2a"/>
+　潞府筋膠勁戴光因合成知君懐膽氣贈我定交情不<lb/>
+　擬閒穿葉那能枉始生唯調一隻箭飛入破聊城<lb/>
+　　　　射弓次寄彭城四君　　　　<hi>宋</hi>林　逋<lb/>
+　襟掩皂貂斜晴鼙嚮水涯箭翎沈白雪貼暈破微霞氣<lb/>
+　為傍觀壯言因決勝誇鈿釵金捍彀更憶五侯家<lb/>
+　　　五言絶句<lb/>
+　　　　奉和詠弓　　　　　　　　<hi>唐</hi>楊師道<lb/>
+　霜重麟膠勁風髙月影圓烏飛隨帝輦鴈落逐鳴弦<lb/>
+<pb n="KR4h0141_WYG_139-2b"/>
+　　　　弓　　　　　　　　　　　<hi>明</hi>髙　啓<lb/>
+　燕角號良材樓煩劈未開秋風懸臂出何處一鶬來<lb/>
+　　　七言絶句<lb/>
+　　　　閱弓箭手　　　　　　　　<hi>明</hi>孫承宗<lb/>
+　三年又見栁依依細栁營中剗栁歸却喜丹臺新燕子<lb/>
+　學成白羽水平飛<lb/>
+　<lb/>
+御定佩文齋詠物詩選卷一百三十九<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

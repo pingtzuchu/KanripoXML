@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>穆天子傳卷一</head>
+    <p>
+<pb n="KR3l0092_WYG_001-1a"/>
+欽定四庫全書<lb/>
+　穆天子傳卷一　　　　　　晉　郭璞　註<lb/>
+　　古文<lb/>
+飲天子蠲<hi>音涓</hi>山之上戊寅天子北征乃絶漳水<hi>絶猶截也漳水</hi>
+<hi>今在鄴縣</hi>庚辰至于<hi>闕/</hi>觴天子于盤石之上<hi>觴者所以進酒因云觴耳</hi>天<lb/>
+子乃奏廣樂<hi>史記云趙簡子疾不知人七日而寤曰我之帝所甚樂與百神逰于鈞天廣樂九奏</hi>
+<hi>萬舞不𩔖三代之樂其聲動心廣樂義見此</hi>載立不舍<hi>言在車上立不下也</hi>至于鈃山<lb/>
+之下<hi>即鈃山今在常山石邑縣鈃音邢</hi>癸未雨雪天子獵于鈃山之西<lb/>
+<pb n="KR3l0092_WYG_001-1b"/>
+阿<hi>阿山陂也</hi>於是得絶鈃山之隊<hi>隊謂谷中險阻道也音遂</hi>北循虖沱之<lb/>
+陽<hi>虖沱河今在鴈門鹵城縣陽水北沲音槖駝之駝</hi>乙酉天子北升于<hi>闕</hi>天子<lb/>
+北征于犬戎<hi>國語曰穆王將征犬戎祭公謀父諌不從遂征之得四白狼四白鹿以歸自是荒服</hi>
+<hi>不至紀年又曰取其五王以東</hi>犬戎<hi>闕</hi>胡觴天子于當水之陽天子乃<lb/>
+樂<hi>闕</hi>賜七萃之士戰<hi>萃集也聚也亦猶傳有輿大夫皆聚集有智力者為王之爪牙也</hi>
+庚寅北風雨雪<hi>詩曰北風其凉雨雪其霶</hi>天子以寒之故命王屬休<lb/>
+<hi>令王之徒屬休息也</hi>甲午天子西征乃絶隃之關隥<hi>隥阪也疑北謂北陵西隃</hi>
+<hi>西己亥隃鴈門山也音俞</hi>己亥至于焉居禺知之平<hi>疑皆國名</hi>辛丑天子<lb/>
+<pb n="KR3l0092_WYG_001-2a"/>
+西征至于䣙人<hi>䣙國名音叵肯切</hi>河宗之子孫䣙栢絮<hi>伯爵絮名古伯</hi>
+<hi>字多从木</hi>且逆天子于智之<hi>闕/</hi>先豹皮十良馬二六<hi>古者為禮皆有</hi>
+<hi>以先之傳曰先進乗韋</hi>天子使井利受之<hi>井利穆王之嬖臣</hi>癸酉天子舍<lb/>
+于漆□<hi>一宿為舍</hi>乃西釣于河以觀<hi>闕/</hi>智之<hi>闕</hi>甲辰天子獵<lb/>
+于滲澤於是得白狐𤣥狢焉以祭于河宗<hi>以將有事于河竒此獲故</hi>
+<hi>用之漢武帝郊祀得一角白鹿以為祥瑞亦將燎祭之𩔖</hi>丙午天子飲于河水之阿<lb/>
+<hi>阿水峯也</hi>天子屬六師之人于䣙邦之南滲澤之上<hi>屬猶㑹也</hi>戊<lb/>
+寅天子西征鶩行至于陽紆之山<hi>鶩猶馳也紆音嘔</hi>河伯無夷<lb/>
+<pb n="KR3l0092_WYG_001-2b"/>
+之所都居<hi>無夷馮夷也山海經云冰夷</hi>是惟河宗氏<hi>河四瀆之宗主河者目以為氏</hi>
+河宗伯天逆天子燕然之山<hi>伯天字也</hi>勞用束帛加璧<hi>勞郊勞也</hi>
+<hi>五兩為一束兩今之二丈</hi>先白<hi>闕/</hi>天子使<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>父受之<hi>
+                        <graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>父<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>公謀父作祈招之詩者</hi>
+癸丑天子大朝于燕<hi>闕</hi>之山河水之阿<hi>葢朝㑹羣官告將禮河也</hi>乃<lb/>
+命井利梁固<hi>梁門大夫</hi>聿將六師<hi>聿猶/曰也</hi>天子命吉日戊午<hi>詩曰</hi>
+<hi>吉日庚午</hi>天子大服冕禕<hi>冕冠禕衣葢王后之上服/今帝服之所未詳禕音暉</hi>帗帶<hi>帗韗</hi>
+<hi>也天子赤帗音弗</hi>搢曶<hi>曶長三尺杼上椎頭一名珽亦/謂之大圭搢猶帶也曶音忽</hi>夾佩<hi>左右</hi>
+<hi>兩佩</hi>奉璧南面立于寒下<hi>寒下/未詳</hi>曾祝佐之<hi>曾重也傳曰曽臣偃</hi>官人<lb/>
+<pb n="KR3l0092_WYG_001-3a"/>
+陳牲全五<hi>闕</hi>具<hi>牛羊之品曰牲體完曰全牲或曰全色純也傳曰牲全肥腯</hi>天子授<lb/>
+河宗璧河宗伯天受璧西向沉璧于河<hi>河位載崑崙</hi>再拜稽<lb/>
+首<hi>稽首首至地也</hi>祝沉牛馬豕羊河宗<hi>闕/</hi>命于皇天子<hi>加皇者尊上之</hi>
+河伯號之<hi>呼穆王</hi>帝曰穆滿<hi>以名應謙也言諡葢後記事者之辭</hi>女當永致<lb/>
+用旹事<hi>語穆王當長幹理世事也哉</hi>南向再拜<hi>穆王拜</hi>河宗又號之帝<lb/>
+曰穆滿示女舂山之珤<hi>山海經舂字作鍾音同耳言此山多珍寶竒怪</hi>詔女崑<lb/>
+崙<hi>闕</hi>舍四平泉七十<hi>疑皆説崑崙山上事物</hi>乃至於崑崙之丘以<lb/>
+觀舂山之珤<hi>皆河伯與穆王詞語</hi>賜語晦<hi>月終為晦言葢賜女受終福</hi>天子受<lb/>
+<pb n="KR3l0092_WYG_001-3b"/>
+命南向再拜<hi>受河伯命</hi>己未天子大朝于黄之山<hi>將禮河而去</hi>乃<lb/>
+披圖視典用觀天子之珤器<hi>省河所視禮圖</hi>曰天子之珤<hi>曰河圖辭</hi>
+<hi>也</hi>玉果<hi>石似美玉所/謂大果者也</hi>璿珠<hi>璿玉𩔖/也音旋</hi>燭銀<hi>銀有精光如燭</hi>黄金之<lb/>
+膏<hi>金膏亦猶玉膏皆其精汋也</hi>天子之珤萬金<hi>闕</hi>珤百金士之珤五<lb/>
+十金庶人之珤十金<hi>自萬金以下宜次言諸侯之珤千金大夫之珤百金此書殘缺集錄</hi>
+<hi>者不續以見闕文耳</hi>天子之弓射人歩劍牛馬犀<hi>闕/</hi>器千金<hi>歩劍疑歩</hi>
+<hi>光之劍也犀似水牛<graphic n="KR0763" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0763.png" mimeType="image/png"/>脚脚為三角黑色</hi>天子之馬走千里勝人猛獸<hi>言炁勢傑</hi>
+<hi>駭也</hi>天子之狗走百里執虎豹<hi>言觔力壮猛也</hi>伯天曰征鳥使翼<lb/>
+<pb n="KR3l0092_WYG_001-4a"/>
+曰<hi>闕</hi>烏鳶<hi>音緣/鵶也</hi>鸛雞飛八百里<hi>即鵾雞/鵠屬也</hi>名獸使足<hi>闕</hi>走<lb/>
+千里狻猊<hi>闕</hi>野馬走五百里<hi>狻猊獅子亦食虎豹野馬亦如馬而小狻音酸猊音</hi>
+<hi>倪</hi>卭卭距虚走百里<hi>亦馬屬尸子曰距虚不擇地而走山海經云蛩蛩距虚並言之耳</hi>
+麋<hi>闕</hi>二十里<hi>自麋以上似次第/獸能走里數逺近</hi>曰伯天皆致河典<hi>典禮也自</hi>
+<hi>此以上事物皆河圖數載河伯以為禮禮穆王也</hi>乃乗渠黄之乗為天子先<hi>先驅</hi>
+<hi>導路也</hi>以極西土<hi>極/竟</hi>乙丑天子西濟于河<hi>闕</hi>爰有温谷樂<lb/>
+都<hi>温谷言冬暖也燕有寒谷不生五榖</hi>河宗氏之所遊居<hi>伯天之别州邑</hi>丙寅天<lb/>
+子屬官效器<hi>㑹官司閲所得珤物</hi>乃命正公郊父<hi>正公謂三上公天子所取正者</hi>
+<pb n="KR3l0092_WYG_001-4b"/>
+<hi>郊父為之</hi>受勑憲<hi>憲教令也管/子曰皆受憲</hi>用伸<hi>闕/</hi>八駿之乘<hi>八駿名在下</hi>以<lb/>
+飲于枝洔之中<hi>水岐成洔洔小渚也音止</hi>積石之南河<hi>積石山名今在金城河間</hi>
+<hi>縣南河出北山而東南流</hi>天子之駿<hi>駿者馬/之美稱</hi>赤驥<hi>世所謂/騏驥</hi>盜驪<hi>為馬細頸</hi>
+<hi>驪黑色也</hi>白義踰輪山子渠黄華騮<hi>色如華而赤今名馬縹赤者為棗騮棗騮赤也</hi>
+綠耳<hi>綠耳曰北唐之君來見以一騮馬是生綠耳魏時鮮卑獻千里馬白色而兩耳黄名曰黄耳即此𩔖</hi>
+<hi>也八駿皆因其毛色以為名號耳案史記造父為穆王得盜驪華騮綠耳之馬御以西廵逰見西王母樂而忘</hi>
+<hi>歸皆與此同若合符契</hi>狗重工徹止雚猳<hi>闕/</hi>黄南<hi>闕/</hi>來白<hi>皆淩狗之名亦</hi>
+<hi>猶宋鵲之𩔖</hi>天子之御造父三百<hi>下云三百/為御者</hi>耿翛芍及<hi>造父善御</hi>
+<pb n="KR3l0092_WYG_001-5a"/>
+<hi>穆王封之於趙城餘未聞也</hi>曰天子是與出<hi>闕/</hi>入藪田獵釣弋<hi>弋繳射也</hi>
+天子曰於乎予一人不盈于德<hi>盈猶充也</hi>而辨於樂<hi>辨作遊樂之事</hi>
+後世亦追數吾過乎<hi>穆王遊放過度行輙忘歸故作此言以自警也</hi>七萃之士<lb/>
+<hi>闕</hi>天子曰後世所望無失天常<hi>奉六/時也</hi>農工既得<hi>歳豐登也</hi>男<lb/>
+女衣食<hi>無饑寒也</hi>百姓珤富<hi>富者/安也</hi>官人執事<hi>各視職事</hi>故天有旹<lb/>
+<hi>四時</hi>民<hi>闕/</hi>氏響<hi>闕音/  國</hi>何謀於樂<hi>言不規樂/而樂自及</hi>何意之忘<hi>常慎德也</hi>
+與民共利世以為常也天子嘉之<hi>善其有辭</hi>賜以左佩華也<lb/>
+<hi>玉華之佩佩之精也</hi>乃再拜頓首<lb/>
+<pb n="KR3l0092_WYG_001-5b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　穆天子傳卷一<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

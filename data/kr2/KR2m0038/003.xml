@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2m0038_WYG_003-1a"/>
+欽定四庫全書　　　　　史部十三<lb/>
+欽定滿洲祭神祭天典禮　　政書類二<hi>儀制之屬</hi>
+　　　卷一<lb/>
+　　祭神祭天議<lb/>
+　　獻鮮背鐙祭議<lb/>
+　　彚記滿洲祭祀故事<lb/>
+　　坤寧宫元旦行禮儀注<lb/>
+　　堂子亭式殿元旦行禮儀注<lb/>
+<pb n="KR2m0038_WYG_003-1b"/>
+　　堂子亭式殿祭祀儀注<lb/>
+　　堂子亭式殿祭祀祝辭<lb/>
+　　尚錫神亭祭祀儀注<lb/>
+　　尚錫神亭祭祀祝辭<lb/>
+　　　恭請<lb/>
+　　神位祭於堂子儀注<lb/>
+　　　恭請<lb/>
+　　神位入宫儀注<lb/>
+<pb n="KR2m0038_WYG_003-2a"/>
+　　坤寧宫月祭儀注<lb/>
+　　坤寧宫月祭祝辭<lb/>
+　　祭神翌日祭天儀注<lb/>
+　　祭神翌日祭天贊辭<lb/>
+　　　卷二<lb/>
+　　坤寧宫常祭儀注<lb/>
+　　坤寧宫常祭祝辭<lb/>
+　　四季獻神儀注<lb/>
+<pb n="KR2m0038_WYG_003-2b"/>
+　　四季獻神祝辭<lb/>
+　　浴佛儀注<lb/>
+　　浴佛祝辭<lb/>
+　　　卷三<lb/>
+　　報祭儀注<lb/>
+　　報祭祝辭<lb/>
+　　堂子立杆大祭儀注<lb/>
+　　堂子立杆大祭祝辭<lb/>
+<pb n="KR2m0038_WYG_003-3a"/>
+　　坤寧宫大祭儀注<lb/>
+　　坤寧宫大祭祝辭<lb/>
+　　大祭翌日祭天儀注<lb/>
+　　大祭翌日祭天贊辭<lb/>
+　　　卷四<lb/>
+　　求福儀注<lb/>
+　　求福祝辭<lb/>
+　　為嬰孩求福祝辭<lb/>
+<pb n="KR2m0038_WYG_003-3b"/>
+　　獻雛鷄背鐙祝辭<lb/>
+　　獻子鵞背鐙祝辭<lb/>
+　　獻魚背鐙祝辭<lb/>
+　　獻雉背鐙祝辭<lb/>
+　　獻鮮背鐙祝辭<lb/>
+　　堂子亭式殿祭馬神儀注<lb/>
+　　堂子亭式殿祭馬神祝辭<lb/>
+　　正日祭馬神儀注<lb/>
+<pb n="KR2m0038_WYG_003-4a"/>
+　　正日祭馬神祝辭<lb/>
+　　次日祭馬神儀注<lb/>
+　　次日祭馬神祝辭<lb/>
+　　　卷五<lb/>
+　　祭神祭天器用數目<lb/>
+　　　卷六<lb/>
+　　祭神祭天器用形式圖<lb/>
+　　　　<hi>臣</hi>等謹案<lb/>
+<pb n="KR2m0038_WYG_003-4b"/>
+　　欽定滿洲祭神祭天典禮六卷乾隆十二年<lb/>
+　　特詔編輯我<lb/>
+　　　國家肇基東土風俗醇茂昭格<lb/>
+　天神尊崇祀典敬誠慤著於以壹志迓庥丕昭儀度<lb/>
+　　　　為萬世不刋之令則顧禮節相沿未有載籍<lb/>
+　　　　而所用祝辭口耳相傳或字音漸淆轉異其<lb/>
+　　　　本爰<lb/>
+　　命王公大臣詳考確證勒為是編昭垂永久首列<lb/>
+<pb n="KR2m0038_WYG_003-5a"/>
+　　　　　諸奏議及彚記故事次則行禮儀注祝辭贊<lb/>
+　　　　　辭器用數目圖式詳晰臚載毎一卷成即繕<lb/>
+　　　　　本呈<lb/>
+　　　　進復<lb/>
+　　　親加覈改至精至詳俾祈報之義對越之誠永崇<lb/>
+　　　　　萬禩苐初纂専以<lb/>
+　　　　國書<lb/>
+　　　　國語成文乾隆四十二年復<lb/>
+<pb n="KR2m0038_WYG_003-5b"/>
+　　詔依文譯義亦悉稟<lb/>
+　　睿裁而後成書與<lb/>
+　　大清通禮相輔而行彌昭美備矣乾隆四十六年七<lb/>
+　　　　月恭校上<lb/>
+　　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

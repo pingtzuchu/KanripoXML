@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>本草綱目卷二十六目録</head> <lb/>
+    <p>
+<pb n="KR3e0079_WYG_066-1a"/>
+欽定四庫全書<lb/>
+　本草綱目卷二十六目録<lb/>
+　　菜部<lb/>
+李時珍曰草木可茹者謂之菜韭薤葵葱藿五菜也素<lb/>
+問五穀為養五菜為充所以輔穀氣疏壅滯也菜固不<lb/>
+止于五而已我國初周憲王圖草木之可濟生者四百<lb/>
+餘種為救荒本草厥有㫖哉夫隂之所生本在五味隂<lb/>
+之五宫傷在五味謹和五味臟腑以通氣血以流骨正<lb/>
+<pb n="KR3e0079_WYG_066-1b"/>
+筋柔腠理以宻可以長久是以内則有訓食醫有方菜<lb/>
+之于人補非小也但五氣之良毒各不同五味之所入<lb/>
+有偏勝民生日用而不知乃搜可茹之草凡一百五種<lb/>
+為菜部分為五類曰葷辛曰柔滑曰蓏曰水曰芝栭<hi>舊本</hi>
+<hi>菜部三品共六十五種今併入五種移十三種入草部六種入果部自草部移入及併二十三種自穀部移入</hi>
+<hi>一種果部移入一種外類有名未用移入三種</hi>
+神農本草經一十三種<hi>梁陶𢎞景註</hi>
+名醫别録一十七種<hi>梁陶𢎞景註</hi>
+<pb n="KR3e0079_WYG_066-2a"/>
+唐本草七種<hi>唐蘇恭</hi>　　　千金食治二種<hi>唐孫思邈</hi>
+本草拾遺一十三種<hi>唐陳藏器</hi>食療本草三種<hi>唐孟詵張鼎</hi>
+食性本草一種<hi>南唐陳士良</hi>　蜀本草二種<hi>蜀韓保昇</hi>
+日華本草二種<hi>宋人大明</hi>　　開寳本草六種<hi>宋馬志</hi>
+嘉祐本草十種<hi>宋掌禹錫</hi>　　圖經本草四種<hi>宋蘇頌</hi>
+證類本草一種<hi>宋唐慎微</hi>　　日用本草三種<hi>元呉瑞</hi>
+食物本草二種<hi>明汪頴</hi>　　食鑑本草一種<hi>明甯原</hi>
+救荒本草一種<hi>明周王</hi>　　本草綱目一十七種<hi>明李時珍</hi>
+<pb n="KR3e0079_WYG_066-2b"/>
+附註<hi>魏李當之藥録齊徐之才藥對</hi>　<hi>呉普本草性/唐甄權藥</hi>　<hi>宋雷斆炮炙蕭炳四聲</hi>
+　　<hi>唐李珣海藥珠囊楊損之刪繁象宋冦宗奭衍義金張元素珍      元李杲法    王好古湯液</hi>
+　　<hi>元朱震亨補遺明陳嘉謨蒙筌</hi>　<hi>明汪機會編</hi>
+　　菜之一　　　葷辛類三十二種<hi>内附七種</hi>
+　　　韭<hi>别錄</hi>
+　　　山韭<hi>千金附孝文韭</hi>
+　　　葱<hi>别錄</hi>
+　　　茖葱<hi>千金</hi>
+<pb n="KR3e0079_WYG_066-3a"/>
+　　　胡葱<hi>開寳</hi>
+　　　薤<hi>别録蓼即藠子    蕎附</hi>
+　　　蒜<hi>别録</hi>
+　　　山蒜<hi>拾遺</hi>
+　　　葫<hi>别録蒜即大</hi>
+　　　五辛菜<hi>拾遺</hi>
+　　　蕓薹<hi>唐本菜即油</hi>
+　　　菘<hi>别録菜即白</hi>
+<pb n="KR3e0079_WYG_066-3b"/>
+　　　芥<hi>别録</hi>
+　　　白芥<hi>開寳</hi>
+　　　蕪菁<hi>别録青即蔓</hi>
+　　　萊菔<hi>唐本蔔即蘿</hi>
+　　　生薑<hi>别録</hi>
+　　　乾薑<hi>本經薑天竺乾  附</hi>
+　　　茼蒿<hi>嘉祐</hi>
+　　　邪蒿<hi>嘉祐</hi>
+<pb n="KR3e0079_WYG_066-4a"/>
+　　　胡荽<hi>嘉祐</hi>
+　　　胡蘿蔔<hi>綱目</hi>
+　　　水斳<hi>本經菜即芹</hi>
+　　　堇<hi>唐本芹即旱</hi>
+　　　紫堇<hi>圖經</hi>
+　　　馬蘄<hi>唐本</hi>
+　　　蘹香<hi>唐本香即茴</hi>
+　　　蒔蘿<hi>開寳勒蜀胡爛答數低池得    馬思  吉附</hi>
+<pb n="KR3e0079_WYG_066-4b"/>
+　　　羅勒<hi>嘉祐香即蘭</hi>
+　　　白花菜<hi>食物</hi>
+　　　蔊菜<hi>綱目</hi>
+　　　草䜴<hi>拾遺</hi>
+　　　　右附方舊一百五十新二百九十二<lb/>
+　<lb/>
+　<lb/>
+　本草綱目卷二十六目録<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

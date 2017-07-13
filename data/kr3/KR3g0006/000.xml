@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>提要</head>
+    <p>
+<pb n="KR3g0006_WYG_000-1a"/>
+欽定四庫全書　　　　　子部七<lb/>
+　提要　　　　　　　　　術數類一<hi>數學之屬</hi>
+　　皇極經世索隠二卷<lb/>
+　　　　臣等謹案皇極經世索隠二卷宋張行成撰<lb/>
+　　　　行成字文饒一作子饒臨卭人始末不甚可<lb/>
+　　　　考其進所著易説七種表稱自成都府路提<lb/>
+　　　　轄司幹辦公事丐祠而歸玉海稱乾道二年<lb/>
+　　　　六月以行成進易可採除直徽猷閣汪應辰<lb/>
+<pb n="KR3g0006_WYG_000-1b"/>
+　　　　玉山集有論鄧深按知潼川府張行成狀殆<lb/>
+　　　　由直閣出守歟此編即所進七書之一朱彞<lb/>
+　　　　尊經義考注云未見今見永樂大典中者别<lb/>
+　　　　載序文總要及機要二圖而所解觀物諸篇<lb/>
+　　　　乃散綴於邵伯温解各段之下盖割裂分附<lb/>
+　　　　殊失其舊今摘錄叙次以還其原第遂復為<lb/>
+　　　　完書邵子數學源出陳搏於羲文周孔之易<lb/>
+　　　　理截然異途故嘗以其術授程子而程子不<lb/>
+<pb n="KR3g0006_WYG_000-2a"/>
+　　　　受朱子亦稱為易外别傳非専門研究其説<lb/>
+　　　　者不能得其端緒儒者或引其書以解易或<lb/>
+　　　　引易以解其書適以相淆不足以相發明也<lb/>
+　　　　行成於邵子之學用力頗深以伯温之解於<lb/>
+　　　　象數未詳復為推衍其意義故曰索隠於邵<lb/>
+　　　　子一家之言亦可謂有所發揮矣宋史藝文<lb/>
+　　　　志作一卷考行成進書原表自稱二卷宋史<lb/>
+　　　　顯為字誤今以原表為據釐為二卷云乾隆<lb/>
+<pb n="KR3g0006_WYG_000-2b"/>
+　　　　四十六年九月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+<pb n="KR3g0006_WYG_000-3a"/>
+張行成皇極經世索隱原序<lb/>
+先天者伏羲之易也後天者文王之易也太元者子雲<lb/>
+之易後天之匹也皇極經世者康節之易先天之嗣也<lb/>
+觀物篇立言廣大措意精微如繋辭然稽之以理既無<lb/>
+不通參之以數亦無不合經世之數元㑹運世主之天<lb/>
+而地也觀物之數聲音律吕主之地而物也夫天之運<lb/>
+行有一十二萬九千六百之年地之生化有一十三萬<lb/>
+八千二百四十之物物之動植有一十二萬二千八百<lb/>
+<pb n="KR3g0006_WYG_000-3b"/>
+八十之數先生之書不過萬一千六百餘言而天地之<lb/>
+物之象之數之理否泰消長損益因革其間罔不包羅<lb/>
+自六經以來諸子百家之作原道析理未有如此之簡<lb/>
+要也先生之子嘗為叙述而象數未詳輙索其隱以俟<lb/>
+同志<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

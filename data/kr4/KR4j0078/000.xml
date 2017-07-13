@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>提要<lb/>
+                </head>
+    <p>
+<pb n="KR4j0078_WYG_000-1a"/>
+欽定四庫全書　　　　　集部十<lb/>
+　提要<lb/>
+　　碧雞漫志　　　　　　詞曲類三<hi>詞話之屬</hi>
+　　　　<hi>臣</hi>等謹案碧雞漫志一巻宋王灼撰灼字晦<lb/>
+　　　　叔遂寧人紹興中嘗官幕僚有糖霜譜别著<lb/>
+　　　　緑是編評述曲調源流前七條為總論述古<lb/>
+　　　　初至唐宋聲歌逓變之由次列凉州等調凡<lb/>
+　　　　二十八條一一溯得名之縁起與其漸變宋<lb/>
+<pb n="KR4j0078_WYG_000-1b"/>
+　　　　詞之沿革盖三百篇之餘音至漢而變為樂<lb/>
+　　　　府至唐而變為歌詩及其中葉詞亦萌芽至<lb/>
+　　　　宋而歌詩漸衰詞乃大盛其時士大夫多嫻<lb/>
+　　　　音律徃徃自製新聲漸增舊譜故一調或至<lb/>
+　　　　數體一體或有數聲其目幾不可殫舉又非<lb/>
+　　　　唐及五代之古法灼作是編就其傳授分明<lb/>
+　　　　可以考見者核其名義正其宫調以著倚聲<lb/>
+　　　　所自始其餘晚出雜曲則不暇一一詳也迨<lb/>
+<pb n="KR4j0078_WYG_000-2a"/>
+　　　　金元院本既出併歌詞之法亦亡文士所作<lb/>
+　　　　僅能按舊曲平仄循聲填字自明以來遂變<lb/>
+　　　　為文章之事非復律吕之事併是編所論宫<lb/>
+　　　　調亦莫解其説矣然其間正變之由猶賴以<lb/>
+　　　　畧得其梗概亦考古者所必資也<lb/>
+　　樂府指迷　　　　　　詞曲類三<hi>詞話之屬</hi>
+　　　　<hi>臣</hi>等謹案樂府指迷一巻宋沈義父撰前有<lb/>
+　　　　自題稱壬寅秋始識静翁於澤濱癸卯識夢<lb/>
+<pb n="KR4j0078_WYG_000-2b"/>
+　　　　牕暇日相與唱酬案壬寅癸卯為淳祐二年<lb/>
+　　　　三年則理宗時人也元人䟦陸輔之詞㫖嘗<lb/>
+　　　　引此書然篇頁寥寥不能成帙故世無單行<lb/>
+　　　　之本此本附刻陳耀文花草粹編中凡二十<lb/>
+　　　　八條其論詞以周邦彦為宗持論多為中理<lb/>
+　　　　惟謂兩人名不可對使如庾信愁多江淹恨<lb/>
+　　　　極之類頗失之拘又謂説桃須用紅雨劉郎<lb/>
+　　　　等字説柳須用章臺㶚岸等字説簾須用銀<lb/>
+<pb n="KR4j0078_WYG_000-3a"/>
+　　　　鉤等字説淚須用玉筋等字説髮須用綠雲<lb/>
+　　　　等字説簟須用湘竹等字不可直説破其意<lb/>
+　　　　欲避鄙俗而不知其轉成塗飾亦非確論至<lb/>
+　　　　所謂去聲字最要𦂳及平聲字可用入聲字<lb/>
+　　　　替上聲字不可用入聲字替一條則剖析㣲<lb/>
+　　　　茫最為精核萬樹詞律實祖其説又謂古曲<lb/>
+　　　　譜多有異同至一腔有兩三字多少者或句<lb/>
+　　　　法長短不等盖被敎師改換亦有嘌唱一家<lb/>
+<pb n="KR4j0078_WYG_000-3b"/>
+　　　　多添了字云云乃知宋詞亦不盡協律歌者<lb/>
+　　　　不免增減萬樹詞律所謂曲有襯字詞無襯<lb/>
+　　　　字之説尚為未究其變也乾隆四十六年十<lb/>
+　　　　月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

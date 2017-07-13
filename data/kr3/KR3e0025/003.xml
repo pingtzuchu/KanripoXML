@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3e0025_WYG_003-1a"/>
+後序<lb/>
+愚閒覽賈祐輩治傷寒病之說未嘗不廢卷而嘆焉其<lb/>
+間全不明脈之寸尺有陰陽虚盛之端證有淺深分温<lb/>
+觧汗下之趣深昧嵗中之氣候不分藥力之輕重而醫<lb/>
+者家𫝊執為良法若病人逆從遇治即陷横殃此去仲<lb/>
+景之意亦已逺矣因兹别撰成傷寒㣲㫖論二卷共二<lb/>
+萬餘言以文理疎畧意識淺昧雖不足助知者之觀但<lb/>
+竊通其俗用耳但今之醫流十中八九為俗人所主也<lb/>
+<pb n="KR3e0025_WYG_003-1b"/>
+其先進名醫勿為輕笑葢向趣不同後進好學者幸少<lb/>
+留心庶病無壞證其間雖有誤改仲景傷寒論内一二<lb/>
+法非敢好異固欲更張但少明其𫝊寫謬妄爾韓祗和<lb/>
+再序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

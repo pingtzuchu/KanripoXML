@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>游宦紀聞</head>
+    <p>
+<pb n="KR3j0119_WYG_000-1a"/>
+欽定四庫全書　　　　　子部十<lb/>
+　游宦紀聞　　　　　　　雜家類三<hi>雜説之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案游宦紀聞十卷宋張世南撰陳振<lb/>
+　　　　孫書録解題載其字曰光叔鄱陽人然其名<lb/>
+　　　　則作士南未詳孰是其紀年稱嘉定甲戌又<lb/>
+　　　　稱紹定癸巳葢寧宗理宗間人自稱嘗官閩<lb/>
+　　　　中多記永福縣事亦不知為永福何官也世<lb/>
+<pb n="KR3j0119_WYG_000-1b"/>
+　　　　南嘗與劉過高翥趙蕃韓淲諸人遊而述程<lb/>
+　　　　迥之説尤多葢其兄為董煟壻煟為迥之壻<lb/>
+　　　　故聞之親串間也其書多記雜事舊聞而無<lb/>
+　　　　一語涉時政如記秦觀元祐刺字記黄師尹<lb/>
+　　　　解打字義記張嵩先借紫記諱名諱字記蘇<lb/>
+　　　　黄用一鴟字記古書刀記何致初搨岣嶁碑<lb/>
+　　　　始末皆足資考証其駁黄伯思八十一首之<lb/>
+　　　　説及推闡王湜百六之義尤極精核其他如<lb/>
+<pb n="KR3j0119_WYG_000-2a"/>
+　　　　論犀角龍涎端研古器之類亦足以資博識<lb/>
+　　　　宋末説部之佳本也乾隆四十三年七月恭<lb/>
+　　　　校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

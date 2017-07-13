@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>帝王經世圖譜卷十四</head> <lb/>
+    <p>
+<pb n="KR3k0019_WYG_014-1a"/>
+欽定四庫全書<lb/>
+　帝王經世圖譜卷十四<lb/>
+　　　　　　　　　　　　宋　唐仲友　撰<lb/>
+　　春秋年表二<lb/>
+<pb n="KR3k0019_WYG_014-2a"/>
+</p>
+<p>
+<pb n="KR3k0019_WYG_014-3a"/>
+</p>
+<p>
+<pb n="KR3k0019_WYG_014-4a"/>
+</p>
+<p>
+<pb n="KR3k0019_WYG_014-5a"/>
+</p>
+<p>
+<pb n="KR3k0019_WYG_014-6a"/>
+</p>
+<p>
+<pb n="KR3k0019_WYG_014-7a"/>
+</p>
+<p>
+<pb n="KR3k0019_WYG_014-8a"/>
+</p>
+<p>
+<pb n="KR3k0019_WYG_014-9a"/>
+</p>
+<p>
+<pb n="KR3k0019_WYG_014-10a"/>
+</p>
+<p>
+<pb n="KR3k0019_WYG_014-11a"/>
+</p>
+<p>
+<pb n="KR3k0019_WYG_014-12a"/>
+</p>
+<p>
+<pb n="KR3k0019_WYG_014-13a"/>
+</p>
+<p>
+<pb n="KR3k0019_WYG_014-14a"/>
+</p>
+<p>
+<pb n="KR3k0019_WYG_014-15a"/>
+</p>
+<p>
+<pb n="KR3k0019_WYG_014-16a"/>
+</p>
+<p>
+<pb n="KR3k0019_WYG_014-17a"/>
+</p>
+<p>
+<pb n="KR3k0019_WYG_014-18a"/>
+</p>
+<p>
+<pb n="KR3k0019_WYG_014-19a"/>
+</p>
+<p>
+<pb n="KR3k0019_WYG_014-20a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3k0019_WYG_014-20b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　帝王經世圖譜卷十四<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

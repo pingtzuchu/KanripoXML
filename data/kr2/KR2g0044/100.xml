@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>八旗滿洲氏族通譜目錄</head> <lb/>
+    <p>
+<pb n="KR2g0044_WYG_100-1a"/>
+欽定四庫全書<lb/>
+　八旗滿洲氏族通譜目錄<lb/>
+　　卷五十<lb/>
+　　阿穆魯氏<lb/>
+　　　阿蘓　　　　　　　盧塔克<lb/>
+　　　　　以上俱有傳<lb/>
+　　索爾多氏<lb/>
+　　　博托波<lb/>
+<pb n="KR2g0044_WYG_100-1b"/>
+　　　　　右係有傳<lb/>
+　　　瓦古<lb/>
+　　　　　右係附載<lb/>
+　　俞爾庫勒氏<lb/>
+　　　綽琴　　　　　　　和謨諾<lb/>
+　　　　　以上俱有傳<lb/>
+　　　阿克齊魯<lb/>
+　　　　　右係附載<lb/>
+<pb n="KR2g0044_WYG_100-2a"/>
+　　滿扎氏<lb/>
+　　　素班<lb/>
+　　　　　右係有傳<lb/>
+　　　薩哈泰　　　　　松靄<lb/>
+　　　圖理　　　　　　艾察<lb/>
+　　　庫察<lb/>
+　　　　　以上俱附載<lb/>
+　　烏色氏<lb/>
+<pb n="KR2g0044_WYG_100-2b"/>
+　　　克拉　　　　　　吴瑪喀<lb/>
+　　　　　以上俱有傳<lb/>
+　　　吴色　　　　　　巴林<lb/>
+　　　三泰　　　　　　購色<lb/>
+　　　吴泰<lb/>
+　　　　　以上俱附載<lb/>
+　　佑祜魯氏<lb/>
+　　　覺和託　　　　　達敏<lb/>
+<pb n="KR2g0044_WYG_100-3a"/>
+　　　　　以上俱有傳<lb/>
+　　　羅丹　　　　　　　尼唐阿<lb/>
+　　　錫巴喀　　　　　　吳法<lb/>
+　　　哈唐阿　　　　　　鈕克<lb/>
+　　　都倫　　　　　　　喀喀<lb/>
+　　　托密納　　　　　　莽吉納<lb/>
+　　　哲貝<lb/>
+　　　　　以上俱附載<lb/>
+<pb n="KR2g0044_WYG_100-3b"/>
+　　圖色理氏<lb/>
+　　　滿諾　　　　　　　克特勒<lb/>
+　　　　　以上俱有傳<lb/>
+　　　圖薩理　　　　　　阿爾善<lb/>
+　　　綽爾昆　　　　　　納謨<lb/>
+　　　博道　　　　　　　穆組<lb/>
+　　　扎穆太　　　　　　懋<lb/>
+　　　錫圖克　　　　　　翁喀逹<lb/>
+<pb n="KR2g0044_WYG_100-4a"/>
+　　　察爾久　　　　　　勒騰額<lb/>
+　　　扎普諾<lb/>
+　　　　　以上俱附載<lb/>
+　　温特赫氏<lb/>
+　　　噶胡達　　　　　　達爾漢<lb/>
+　　　恩圖<lb/>
+　　　　　以上俱有傳<lb/>
+　　　倭和騰　　　　　　禪扎堪<lb/>
+<pb n="KR2g0044_WYG_100-4b"/>
+　　　　　以上俱附載<lb/>
+　　梅勒氏<lb/>
+　　　錫本額　　　　　　碩泰<lb/>
+　　　　　以上俱有傳<lb/>
+　　　吳錫布　　　　　　宏科<lb/>
+　　　僧徳<lb/>
+　　　　　以上俱附載<lb/>
+　　博和理氏<lb/>
+<pb n="KR2g0044_WYG_100-5a"/>
+　　　額徵庫<lb/>
+　　　　　右係有傳<lb/>
+　　　瓦爾喀　　　　　薩滿岱<lb/>
+　　　雅哈<lb/>
+　　　　　以上俱附載<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

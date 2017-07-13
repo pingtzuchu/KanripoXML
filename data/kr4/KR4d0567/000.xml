@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>桐山老農集</head>
+    <p>
+<pb n="KR4d0567_WYG_000-1a"/>
+欽定四庫全書　　　　　集部五<lb/>
+　桐山老農集　　　　　　别集類四<hi>元</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹按桐山老農集四巻元魯貞撰貞字<lb/>
+　　　　起元自號桐山老農開化人集中萬青軒記<lb/>
+　　　　自稱曲阜人蓋曲阜其祖貫也貞生當元末<lb/>
+　　　　明初是集中文作於元者皆題至正年號其<lb/>
+　　　　入明以後惟題甲子有栗里抗節之思焉凡<lb/>
+<pb n="KR4d0567_WYG_000-1b"/>
+　　　　文三巻詩一巻詩不出元末之格且間有累<lb/>
+　　　　句蓋非所長其文亦聞見頗狹或失考正如<lb/>
+　　　　武安王廟記迎神詞中有蘭佩下兮桂旗揚<lb/>
+　　　　乗赤兎兮從周倉句考周倉之名不見史傳<lb/>
+　　　　是直以委巷俚語鐫刻金石殊乖大雅然人<lb/>
+　　　　品既髙胸懷夷曠一切塵容俗狀無由入其<lb/>
+　　　　筆端故稱臆而談自饒清韵譬諸深山幽谷<lb/>
+　　　　老柏蒼松雖不中繩規而天然有出塵之意<lb/>
+<pb n="KR4d0567_WYG_000-2a"/>
+　　　　其故正不在語言文字間矣乾隆四十三年<lb/>
+　　　　六月恭校上<lb/>
+　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官　　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

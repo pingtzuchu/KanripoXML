@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>耆舊續聞</head>
+    <p>
+<pb n="KR3l0074_WYG_000-1a"/>
+欽定四庫全書　　　　　子部十二<lb/>
+　耆舊續聞　　　　　　　小説家𩔖一<hi>雜事之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案耆舊續聞十卷原本題曰南陽陳<lb/>
+　　　　鵠錄正又一本題陳鵠西塘撰盖南陽人而<lb/>
+　　　　號曰西塘者特其時代爵里已不可考書中<lb/>
+　　　　載有陸㳺辛棄疾諸人遗事又自紀嘗與知<lb/>
+　　　　辰州陸子逸遊則開禧以後人也所錄自汴<lb/>
+<pb n="KR3l0074_WYG_000-1b"/>
+　　　　京故事及南渡後名人嘉言懿行捃拾頗多<lb/>
+　　　　間或於條下夹注書名及所説人名字盖亦<lb/>
+　　　　襍採諸家説部及名流談論而成其間如政<lb/>
+　　　　和三年與外弟趙承國論學數條乃出吕好<lb/>
+　　　　問手帖而入之諸條中頗不可辨又稱朱翌<lb/>
+　　　　為待制公陸軫為太傅公沿用其家𫝊語不<lb/>
+　　　　復追改皆體例之未審者然南渡以後故家<lb/>
+　　　　遺老文獻猶存故鵠所聞見多元祐諸賢之<lb/>
+<pb n="KR3l0074_WYG_000-2a"/>
+　　　　緒論其於詩文宗㫖徃徃片言居要頗足以<lb/>
+　　　　開悟後學又如駁苕溪漁𨼆叢話議東坡卜<lb/>
+　　　　筭子詞之非據宋祁奏議摘歐陽修撰薛恭<lb/>
+　　　　政墓誌之誤俱殊有考據非同剿説雖叢談<lb/>
+　　　　瑣語間傷冗襍不倫而可採處亦復不少固<lb/>
+　　　談藝者所取資也乾隆四十四年三月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

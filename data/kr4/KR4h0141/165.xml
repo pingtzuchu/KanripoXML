@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_165-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選卷一百六十五<lb/>
+　　簾幕類<lb/>
+　　　五言古<lb/>
+　　　　詠幔　　　　　　　　　　<hi>齊</hi>王　融<lb/>
+　幸得與珠綴羃䍥君之楹月映不辭卷風来輒自輕毎<lb/>
+　聚金爐氣時駐玉琴聲但願置尊酒蘭釭當夜明<lb/>
+　　　　賦得簾塵　　　　　　　　<hi>梁</hi>徐　摛<lb/>
+<pb n="KR4h0141_WYG_165-1b"/>
+　朝逐珠胎卷夜傍玉鈎垂恒教羅䄂拂不分秋風吹<lb/>
+　　　　賦得珠簾　　　　　　　　<hi>隋</hi>盧思道<lb/>
+　鑑帷明欲歛照檻色将晨可憐踈復宻隠映當窓人浮<lb/>
+　清帶逺吹含光動細塵落花時屢拂㑹待玉階春<lb/>
+　　　五言律<lb/>
+　　　　賦簾　　　　　　　　　　<hi>唐</hi>太　宗<lb/>
+　㕘差垂玉闕舒卷映蘭宫珠光揺素月竹影亂清風彩<lb/>
+　散銀鈎上文斜桂户中惟當雜羅綺相與媚房櫳<lb/>
+<pb n="KR4h0141_WYG_165-2a"/>
+　　　帷　　　　　　　　　　　<hi>唐</hi>李　嶠<lb/>
+乆閉先生户髙褰太守車羅将翡翠合錦逐鳯凰舒明<lb/>
+月弹琴夜清風入幌初方知决勝䇿黄石受兵書<lb/>
+　　　簾　　　　　　　　　　　　李　嶠<lb/>
+清風時入燕紫殿㡬含秋曖曖籠靈閣纖纖上玉鈎牕<lb/>
+中翡翠動户外水精浮巧作盤龍勢長迎飛燕逰<lb/>
+　　　詠簾　　　　　　　　　　<hi>唐</hi>萬　楚<lb/>
+玳瑁昔稱華玲瓏薄絳紗鈎銜門勢曲節亂水紋斜日<lb/>
+<pb n="KR4h0141_WYG_165-2b"/>
+弄長飛鳥風揺不卷花自當分内外非是為驕奢<lb/>
+　　　破幌　　　　　　　　　　<hi>宋</hi>張　耒<lb/>
+破幌一㸃白卧知千里明低窓通雪氣喬木尚風聲傳<lb/>
+警軍城靜鳴鍾梵刹清髙眠尋㫁夢鄰樹已烏驚<lb/>
+　　五言排律<lb/>
+　　　簾　　　　　　　　　　　<hi>唐</hi>杜　牧<lb/>
+徒云逄剪削豈謂見偏裝鳳節輕雕日鸞花薄餙香問<lb/>
+屏何屈曲憐帳觧周防下漬金階露斜分碧瓦霜沈沈<lb/>
+<pb n="KR4h0141_WYG_165-3a"/>
+伴春夢寂寂侍華堂誰見昭陽殿真珠十二行<lb/>
+　　七言律<lb/>
+　　　詠簾　　　　　　　　　　<hi>唐</hi>徐　夤<lb/>
+素節輕盈透影勻何人巧思間成文閒垂别殿風應度<lb/>
+半掩行宫麝欲熏繡户逺籠寒熖重玉樓髙挂曙光分<lb/>
+無情㡬對黄昏月纔到如鈎便堕雲<lb/>
+　　　琉璃簾　　　　　　　　　<hi>元</hi>馬祖常<lb/>
+吴儂巧製玉玲瓏翡翠蝦鬚迥不同萬縷横陳銀色界<lb/>
+<pb n="KR4h0141_WYG_165-3b"/>
+一塵不入水晶宫月華逺射離離白燈影斜穿細細紅<lb/>
+相隔神仙纔咫尺靈犀一㸃若為通<lb/>
+　　五言絶句<lb/>
+　　　宫中樂　　　　　　　　　<hi>唐</hi>令狐楚<lb/>
+九重青瑣闥百尺碧雲樓明月秋風夜珠簾上玉鈎<lb/>
+　　　四時宫詞　　　　　　　　<hi>元</hi>曹文晦<lb/>
+水殿笙歌歇宫門聼漏籖薫風吹藕蕩香度水精簾<lb/>
+　　七言絶句<lb/>
+<pb n="KR4h0141_WYG_165-4a"/>
+　　　簾　　　　　　　　　　　<hi>唐</hi>陸龜䝉<lb/>
+枕映疎容晚向欹秋煙脈脈雨微微迸風障燕尋常事<lb/>
+不學人前當妓衣<lb/>
+　　　簾　　　　　　　　　　　<hi>唐</hi>羅　隠<lb/>
+叠影重紋映畫堂玉鈎銀燭共熒煌㑹應得見神仙在<lb/>
+休下真珠十二行<lb/>
+　　　其二<lb/>
+翡翠佳名世共稀玉堂髙下巧相宜殷勤為嘱纎纎手<lb/>
+<pb n="KR4h0141_WYG_165-4b"/>
+卷上銀鈎莫放垂<lb/>
+　　　宫詞　　　　　　　　　　<hi>宋</hi>花蕊夫人<lb/>
+紗幔薄垂金麥穂簾鈎纎挂玉蔥條樓西别起長春殿<lb/>
+香壁紅泥透蜀椒<lb/>
+　　　其二<lb/>
+翠華香重御爐添䨇鳳樓頭曉日暹扇掩紅鸞金殿悄<lb/>
+一聲清蹕捲珠簾<lb/>
+　　　東樓雨中　　　　　　　　<hi>金</hi>王元粹<lb/>
+<pb n="KR4h0141_WYG_165-5a"/>
+多年蒼柏拂檐枝燕子飛来語向誰枕簟不妨留客住<lb/>
+滿樓風雨下簾時<lb/>
+　　　和史㕘政韵　　　　　　　<hi>元</hi>馬祖常<lb/>
+五雲天近書香殘紅白花枝滿藥䦨一夜東風吹小雨<lb/>
+殿頭持卷隔簾看<lb/>
+　　　上京雜詠　　　　　　　　<hi>元</hi>薩都拉<lb/>
+沙苑棕毛百尺樓天風揺曳錦絨鈎内家宴罷無人到<lb/>
+面面珠簾夜不收<lb/>
+<pb n="KR4h0141_WYG_165-5b"/>
+　　　絶句　　　　　　　　　　　薩都拉<lb/>
+待得郎君半醉時笑将紈扇索題詩小紅簾捲春波綠<lb/>
+渡水楊花落硯池<lb/>
+　　　明仁殿進講　　　　　　　<hi>元</hi>貢師㤗<lb/>
+黄金為帶玉為檐劒㦸如林衞紫髯也愛儒臣勤講讀<lb/>
+向前輕掲虎皮簾<lb/>
+　　　宫詞　　　　　　　　　　<hi>元</hi>納　新<lb/>
+瓊島岧嶤内苑西斑斕綺石甃清漪御床不許紅塵到<lb/>
+<pb n="KR4h0141_WYG_165-6a"/>
+　黄幔長教窣地垂<lb/>
+　　　　艶陽詞　　　　　　　　　<hi>明</hi>宋　濓<lb/>
+　㡬番花信逐時添諸柘新篘酒正甜莫道曉風猶料峭<lb/>
+　内家新賜却寒簾<lb/>
+　　　　寄沈介軒　　　　　　　　<hi>明</hi>沈　翊<lb/>
+　錦繡湖山罨畫樓君家住在小瀛洲洞簫吹上花間月<lb/>
+　十二珠簾不下鈎<lb/>
+　<lb/>
+<pb n="KR4h0141_WYG_165-6b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選卷一百六十五<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

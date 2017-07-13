@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>宣和奉使髙麗圖經卷三十八</head> <lb/>
+    <p>
+<pb n="KR2k0138_WYG_038-1a"/>
+欽定四庫全書<lb/>
+　宣和奉使髙麗圖經卷三十八<lb/>
+　　　　　　　　　　　　　宋　徐兢　撰<lb/>
+　　海道五<lb/>
+　　　唐人島<lb/>
+唐人島未詳其名山與九頭山相近是日午刻舟過島<lb/>
+下<lb/>
+　　　雙文焦<lb/>
+<pb n="KR2k0138_WYG_038-1b"/>
+雙文焦其山甚大不異島嶼前一山雖有草木但不甚<lb/>
+深宻後一山頗小中斷為門下有暗焦不可通舟是日<lb/>
+已刻自唐人島繼過此焦風勢愈急舟行益速<lb/>
+　　　大清嶼<lb/>
+大青嶼以其逺望鬱然如凝黛故麗人作此名是日午<lb/>
+刻舟過<lb/>
+　　　和尚島<lb/>
+和尚島山勢重疊林壑深茂山中多虎狼昔嘗有學佛<lb/>
+<pb n="KR2k0138_WYG_038-2a"/>
+者居之獸不敢近今葉老寺乃其遺迹也故麗人謂之<lb/>
+和尚島是日未刻舟過其下<lb/>
+　　　牛心嶼<lb/>
+牛心嶼在小洋中一峯特起狀類覆盂而中稍鋭麗人<lb/>
+謂之牛心它處皆見之形肖此山而差小者亦謂之雞<lb/>
+心嶼是日未正舟過此嶼南風小雨<lb/>
+　　　聶公嶼<lb/>
+聶公嶼以姓得名逺視甚鋭逼近如堵葢其形匾縱横<lb/>
+<pb n="KR2k0138_WYG_038-2b"/>
+所見各異是日未末舟過其下<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　宣和奉使髙麗圖經卷三十八<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

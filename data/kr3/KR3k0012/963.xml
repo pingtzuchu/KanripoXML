@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3k0012_SBCK_963-1a"/>
+太平御覽卷第九百六十三<lb/>
+　竹部二<lb/>
+　　竹下<hi>筍附</hi>
+　　　　桂竹　箭竹　桃枝竹<lb/>
+　　　　篁竹　䈥竹　鈎端竹<lb/>
+　　　　笻竹　種龍竹　雲母竹<lb/>
+　　　　㰚竹　<graphic n="KR1217" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1217.png" mimeType="image/png"/>竹　狗竹<lb/>
+　　　　篃竹　由梧竹　班皮竹<lb/>
+　　　　篔簹竹　苦竹　射同竹<lb/>
+　　　　沙麻竹　石麻竹　笣竹<lb/>
+　　　　雞頸竹　籚<graphic n="KR1217" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1217.png" mimeType="image/png"/>竹　䈄竹<lb/>
+　　　　莽竹　㔂竹　簢竹<lb/>
+　　　　仲竹　<graphic n="KR2312" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2312.png" mimeType="image/png"/>竹　漢竹<lb/>
+<pb n="KR3k0012_SBCK_963-1b"/>
+　　　利竹　林於竹　晉竹<lb/>
+　　　沛竹　棘竹　䈏竹<lb/>
+　　　弓竹　簜竹　筍<lb/>
+　　　　　桂竹<lb/>
+山海經曰雲山有桂竹甚毒傷人必死<hi>郭璞曰始興小桂縣出桂竹也</hi>
+　　　　　箭竹<lb/>
+爾雅曰東南之美者有㑹稽之竹箭焉<lb/>
+禮記曰禮之於人也如竹箭之有筠也<hi>事具禮部</hi>
+說文曰箭矢竹也<lb/>
+戴凱之竹譜曰箭竹髙者一丈節間三尺堅勁中爲矢<lb/>
+　　　　　桃枝竹<lb/>
+爾雅曰桃枝四寸有節<hi>今桃枝節間相去多四寸</hi>
+竹譜曰桃枝竹皮滑而黄可以爲席<lb/>
+<pb n="KR3k0012_SBCK_963-2a"/>
+山海經曰嶓冢之山囂水之上多桃枝竹<lb/>
+裴氏廣州記曰有桃竹<lb/>
+魏志曰倭國有桃枝竹<lb/>
+　　　　　篁竹<lb/>
+竹譜曰篁竹似桂而槪節<lb/>
+　　　　　䈥竹<lb/>
+竹譜曰䈥竹長二丈許圍數寸至堅利出日南九真南方<lb/>
+以爲矛其筍未成竹時堪爲弩絃見徐衷南中奏劉淵林<lb/>
+云夷人以史篻<hi>音瓢</hi>竹爲矛即是䈥竹一物而二名者也<lb/>
+永嘉郡記曰陽興去安固江口六十五里有仙石山頂上<lb/>
+有平石辟方十餘丈名爲仙壇壇陬有一䈥竹凡有風來動<lb/>
+音自成宫啇<lb/>
+周景式廬山記曰康皇溪道士種松及䈥竹竿<lb/>
+<pb n="KR3k0012_SBCK_963-2b"/>
+笁法真登羅山䟽曰嶺南道無䈥竹唯羅山有之其大尺<lb/>
+圍細者色如黄金堅貞踈節<lb/>
+異苑曰東陽留道先元嘉四年䈥竹林忽生連理野人無<lb/>
+知謂爲楇祟斫殺之<lb/>
+　　　　　鈎端竹<lb/>
+山海經曰嶓冢之山囂水之北多鈎端竹<lb/>
+　　　　　笻竹<lb/>
+漢書曰張騫至大夏見笻竹杖問之云賈人市之身毒國<lb/>
+山海經曰龜山多狹竹<hi>郭璞曰即笻竹</hi>
+竹譜曰笻竹髙節實中狀若人剡俗謂之扶老竹廣志云<lb/>
+出南廣卭都縣<lb/>
+羅浮山記曰卭竹本出卭山張騫西至大夏所見也而此<lb/>
+山左右時有之郷老多以爲杖<lb/>
+<pb n="KR3k0012_SBCK_963-3a"/>
+　　　　　種龍竹<lb/>
+廣志曰種龍竹任作笛<lb/>
+吕氏春秋曰昔黄帝命伶倫爲律伶倫自大夏之西沅渝<lb/>
+之隂取竹之嶰谷斷兩節間長六寸九分而吹之以爲黄<lb/>
+鍾之宫律之本也<hi>竹譜曰種龍竹伶倫所伐</hi>
+　　　　　雲母竹<lb/>
+廣志曰雲母竹大竹也<lb/>
+　　　　　㰚竹<lb/>
+廣志曰㰚竹細而多㓨<lb/>
+　　　　　<graphic n="KR1217" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1217.png" mimeType="image/png"/>竹<lb/>
+廣志曰<graphic n="KR1217" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1217.png" mimeType="image/png"/>竹任作笛<lb/>
+嶺表録異曰<graphic n="KR1217" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1217.png" mimeType="image/png"/>簩竹皮薄而空多大者俓不逾二寸皮上<lb/>
+有麤澁文可爲錯子錯甲利勝於鐵若鈍以漿水洗之還<lb/>
+<pb n="KR3k0012_SBCK_963-3b"/>
+復快利<hi>廣州記云石麻之竹勁而利削爲刀割象皮如切竿</hi>
+　　　　　狗竹<lb/>
+竹譜曰狗竹節間有毛出臨海<lb/>
+　　　　　篃竹<lb/>
+竹譜曰篃竹江漢間謂之箭竿一尺數節葉大如扇可以<lb/>
+衣蓬江漢之間謂之<graphic n="KR1972" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1972.png" mimeType="image/png"/>竹<hi>音蒯</hi>
+　　　　　由梧竹<lb/>
+南方草木狀曰由梧竹吏民家種之長三四丈圍一尺八<lb/>
+九寸作屋柱出交阯<lb/>
+林邑記曰由梧堪爲屋梁柱<lb/>
+左思吴都賦曰由梧有篁<lb/>
+　　　　　班皮竹<lb/>
+愽物志曰洞庭虞帝之二女啼以涕揮竹竹盡班今下雋<lb/>
+<pb n="KR3k0012_SBCK_963-4a"/>
+有班皮竹<lb/>
+　　　　　篔簹<hi>音芸當</hi>
+顧微廣州記曰箄竹一名篔簹節長一丈○呉録曰始興曲<lb/>
+江縣有篔簹竹圍尺五寸節相去六七尺夷人以爲布葛<lb/>
+異苑曰建安有篔簹竹節中有人長尺許頭足皆具<lb/>
+竹譜曰篔簹竹大者中作甑<lb/>
+　　　　　苦竹<lb/>
+永嘉郡記曰樂成縣民張廌者隱居頥志不應辟命家有<lb/>
+苦竹數十頃在竹中爲屋恒居其中王右軍聞而造之廌<lb/>
+逃避竹中不與相見一郡號爲髙士<lb/>
+　　　　　射筒竹<lb/>
+竹譜曰射筒竹薄肌而長中着箭因以爲名<lb/>
+　　　　　沙麻竹<lb/>
+<pb n="KR3k0012_SBCK_963-4b"/>
+南越志曰沙麻竹人削以爲弓弓似弩淮南所謂溪子弩<lb/>
+也或曰蘇麻竹或曰麤麻竹<lb/>
+嶺表録異曰沙摩竹廣桂皆植大如茶盌竹厚而空小一<lb/>
+人止擎一莖堪爲茅屋之椽梁也其種者即釤其竿毎截<lb/>
+二尺許釘入土不逾月而生根葉明年長牙笋不三載而<lb/>
+爲林盖土地所冝也<hi>南人俺以塩爲笋笴</hi>
+　　　　　石麻竹<lb/>
+裴淵廣州記曰石麻竹勁利削爲刀切象皮如截芋<lb/>
+　　　　　笣竹<lb/>
+頋微廣州記曰平鄉縣有笣竹堪作布<lb/>
+吴都賦曰笣筍抽節徃徃縈結<lb/>
+　　　　　雞頸竹<lb/>
+竹譜曰雞頸竹篁之類纎細大者不過如指踈葉黄皮強<lb/>
+<pb n="KR3k0012_SBCK_963-5a"/>
+脆無所堪施筍美青班色緑江山崗所饒也<lb/>
+　　　　　籚<graphic n="KR1217" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1217.png" mimeType="image/png"/>竹<lb/>
+竹譜曰此竹當是蘆出楊州東垂諸郡浙江以東可以爲<lb/>
+箎<lb/>
+　　　　　䈄竹<lb/>
+竹譜曰䈄墮竹大如脚指蟲食其筍皮類綉甚可愛<lb/>
+　　　　　莽竹<lb/>
+爾雅曰莽數節<hi>節間促也</hi>
+　　　　　㔂竹<lb/>
+爾雅曰㔂<hi>音吝</hi>堅中<hi>竹類其中實也</hi>
+　　　　　簢竹<lb/>
+爾雅曰簢<hi>音閔</hi>筡<hi>音/徒</hi>中<hi>其中空也</hi>
+　　　　　仲竹<lb/>
+<pb n="KR3k0012_SBCK_963-5b"/>
+爾雅曰仲無笐<hi>亦竹類未詳音航</hi>
+　　　　　<graphic n="KR2312" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2312.png" mimeType="image/png"/>竹<lb/>
+禮斗威儀曰君乗水而王其政太平<graphic n="KR2312" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2312.png" mimeType="image/png"/>紫脫爲常生<lb/>
+壬子年拾遺記曰岑華山在西海之西有<graphic n="KR2312" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2312.png" mimeType="image/png"/>竹爲簫管吹<lb/>
+之若群鳯之鳴<lb/>
+　　　　　漢竹<lb/>
+廣志曰永昌有漢竹圍三尺餘<lb/>
+　　　　　利竹<lb/>
+廣志曰西南出利竹<lb/>
+　　　　　林於竹<lb/>
+竹譜曰林於竹葉薄而廣<lb/>
+　　　　　晉竹<lb/>
+吴越春秋曰吴王聞越王盡心自守賜之以書増之以封<lb/>
+<pb n="KR3k0012_SBCK_963-6a"/>
+越王乃使大夫賫葛布十萬狐皮五雙晉竹十庾以荅封<lb/>
+禮<lb/>
+　　　　　沛竹<lb/>
+東方朔神異經曰南方荒中有沛竹其長百丈圍二丈五<lb/>
+六尺厚八九寸可以爲舡其子美食之可以巳瘡癘<hi>張茂先曰</hi>
+<hi>子笋也</hi>
+　　　　　棘竹<lb/>
+竹譜曰棘竹生交州諸郡藂生𥘉有數十莖大者二尺圍<lb/>
+肉至厚幾於實中夷人破以爲弓枝節皆有㓨彼人種以<lb/>
+爲城卒不可攻萬震異物志所謂種爲藩落阻過曽墉者<lb/>
+也或卒倒根岀大如十石物從横相承狀如繰車一名笆<lb/>
+竹見三倉筍味落人鬢髪<lb/>
+沈懷逺南越志曰宋昌縣有棘竹長十㝷大如甕其間短<lb/>
+<pb n="KR3k0012_SBCK_963-6b"/>
+者輙六七丈也爲竹藂薄葉下有鈎刺或有條末如芒針<lb/>
+南州異物志曰棘竹節有棘刺<lb/>
+嶺表録異曰南土有刺竹即枝上有刺南人呼刺爲刺勒<lb/>
+自根橫生枝條展轉如織雖野火焚燒只燎細枝嫰葉春<lb/>
+藂生轉復牢宻邕州舊以刺竹爲墻蠻蜒來侵竟不能入<lb/>
+　　　　　䈏竹<lb/>
+竹譜曰䈏與由衙厥體俱洪圍或累尺䈏實衙空南越之<lb/>
+居梁柱是供<lb/>
+異物志曰有竹曰䈏其大數圍節間相去局促中<lb/>
+實滿堅強以爲屋榱断截便以爲棟梁不復加斤<lb/>
+斧也<lb/>
+　　　　　弓竹<lb/>
+竹譜曰弓竹出東垂諸山<lb/>
+<pb n="KR3k0012_SBCK_963-7a"/>
+　　　　　　簜竹<lb/>
+尚書禹貢曰篠簜旣敷<lb/>
+爾雅曰簜竹<hi>竹别名也儀禮曰蕩竹在建鼓之間謂筲管之属</hi>
+　　　　　筍<lb/>
+爾雅曰筍竹萌<hi>𥘉生者</hi>
+毛詩韓弈曰其蔌維何維筍及蒲<hi>筍竹萌也</hi>
+周禮天官醢人曰加豆之實箈菹筍菹<hi>箈箭萌也筍竹萌也</hi>
+東觀漢記曰馬援至荔浦見冬筍名笣筍上言禹貢厥<lb/>
+笣橘柚疑謂是也其味羙於春夏筍<lb/>
+續晉安帝紀曰豫州刺史司馬尚之爲桓玄將馮該所攻<lb/>
+倉儲稍竭外白戰士多飢悉未付食是時蘆筍時也尚之<lb/>
+指筍曰且噉此足解三日將士離心遂敗<lb/>
+吕氏春秋曰味之美者越駱之<hi>髙誘曰筍也</hi>
+<pb n="KR3k0012_SBCK_963-7b"/>
+華陽國志曰何隨字季葉有竹園人盗其筍者隨行見<lb/>
+之恐驚乃挈履而歸<lb/>
+荆州圖曰茿陽薤山上有孤竹三年而生一笋笋成代謝<lb/>
+常一<lb/>
+楚國先賢傳曰孟宗字恭武至孝母好食竹笋宗入林中<lb/>
+哀號方冬筍爲之出因以供養時人皆以爲孝感所致<lb/>
+南史曰沈道䖍有人㧞其屋後笋令人止之曰惜此笋欲<lb/>
+令成林更有佳者相與乃令人買大笋送與盗者慙不取<lb/>
+道䖍使置其門内而還<lb/>
+笋譜曰笋者竹之蒻也竹之醜節種<hi>凡草木有白蒻嫰而堪食者皆曰白蒻世</hi>
+<hi>同蔗属</hi>厥性弱於木而強於草實草木中別類也<lb/>
+陸龜蒙笋賦曰洪纎靡定方圎不均<hi>南方有方竹</hi>
+太平御覽卷第九百六十三<lb/>
+<pb n="KR3k0012_SBCK_963-8a"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

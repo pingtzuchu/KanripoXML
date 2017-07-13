@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>海陵集</head>
+    <p>
+<pb n="KR4d0220_WYG_000-1a"/>
+欽定四庫全書　　　　　集部四<lb/>
+　海陵集　　　　　　　　别集類三<hi>宋</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹按海陵集二十三巻宋周麟之撰麟<lb/>
+　　　　之字茂振海陵人紹興十五年進士中宏詞<lb/>
+　　　　科任起居舍人厯擢兵部侍郎直學士院給<lb/>
+　　　　事中知制誥翰林學士官至同知樞密院事<lb/>
+　　　　宋史藝文志載麟之海陵集二十三巻與此<lb/>
+<pb n="KR4d0220_WYG_000-1b"/>
+　　　本合前有淳熙癸卯周必大序亦稱其子準裒<lb/>
+　　　　遺稿得二十三巻葢猶舊帙序稱其久官於<lb/>
+　　　　朝故其詩文因事而作者少集中内外制詞<lb/>
+　　　　殆居其半今觀其集非惟贈答唱和寥寥無<lb/>
+　　　　幾即奏議奏劄亦多不闗軍國大計盖其珥<lb/>
+　　　　筆禁廷坐司綸誥不出國門而躋通顯與王<lb/>
+　　　　珪約畧相似而文章嫻雅亦猶有北宋館閣<lb/>
+　　　　之餘風非南渡諸家日趨新巧者比未可以<lb/>
+<pb n="KR4d0220_WYG_000-2a"/>
+　　　　専工儷偶輕也别有外集一巻其中中原民<lb/>
+　　　　謡十章盛陳符讖誇宋詆金又前後凱歌三<lb/>
+　　　　十首虚張虞允文𤓰洲采石僥倖之功殊為<lb/>
+　　　　過實詞句亦多鄙俚不類麟之他詩考諸宋<lb/>
+　　　　志亦無此外集一巻之目殆其子諱而削藁<lb/>
+　　　　後人又掇拾附存歟謹削之而附訂其謬如<lb/>
+　　　　右乾隆四十六年三月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+<pb n="KR4d0220_WYG_000-2b"/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸費　墀<lb/>
+<pb n="KR4d0220_WYG_000-3a"/>
+海陵集原序<lb/>
+本朝沿唐舊西掖掌外制北門掌内制謂之兩制而非<lb/>
+侍從近臣之通稱也太宗時四方砥平人才輩出專以<lb/>
+是處文學器識之士禮遇非他官比二府有闕率於此<lb/>
+取之惟參知政事蜀人蘇易簡尤被眷奬其自兩制入<lb/>
+中書猶未强仕淳化二年御飛白書玉堂等四字以賜<lb/>
+至今號為北門盛事炎祚中興時則有吾宗樞密公茂<lb/>
+振以雋明之才辯麗之文受知上皇人皆以蘇公遇太<lb/>
+<pb n="KR4d0220_WYG_000-3b"/>
+宗為比年踰三十由館閣兼掌書命其後真拜掖垣入<lb/>
+翰林三遷為學士每一制詞出學者争相傳誦天子嘗<lb/>
+襃諭云卿久掌内外制中外士大夫咸稱得代言之體<lb/>
+紹興三十年復大書玉堂二字賜之其視淳化若合符<lb/>
+節公先世亦蜀人也後徙海陵登科者踵相躡所居號<lb/>
+叢桂坊世有顯人至公遂大用可謂盛矣公薨嗣子準<lb/>
+裒遺藁得二十三巻而内外制殆居其半蓋久官於朝<lb/>
+故其他詩文因事而作者少然溫潤精切鼎臠可知向<lb/>
+<pb n="KR4d0220_WYG_000-4a"/>
+使天假公年主盟斯文則述作之富雖至于百巻可準<lb/>
+刻意家學數以序為請予與公同宗同朝不得而辭公<lb/>
+諱麟之茂振字也淳熙癸卯正月十日周必大序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

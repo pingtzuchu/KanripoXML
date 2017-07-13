@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>厯代詩話</head>
+    <p>
+<pb n="KR4i0056_WYG_000-1a"/>
+欽定四庫全書　　　　　集部九<lb/>
+　厯代詩話　　　　　　　詩文評類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案厯代詩話八十巻<lb/>
+　　　國朝呉景旭撰景旭字旦生歸安人是書前後<lb/>
+　　　　無序跋而中有塗乙之處盖猶初定之藁分<lb/>
+　　　　為十集以十千為目甲集六巻皆論三百篇<lb/>
+　　　　乙集六巻皆論楚詞丙集九巻皆論賦丁集<lb/>
+<pb n="KR4i0056_WYG_000-1b"/>
+　　　　六巻皆論古樂府戊集六巻皆論漢魏六朝<lb/>
+　　　　詩已集十二巻前九巻論杜詩後三巻為杜<lb/>
+　　　　陵譜系庚集九巻皆論唐詩辛集七巻皆論<lb/>
+　　　　宋詩壬集十巻前三巻論金詩後七巻論元<lb/>
+　　　　詩癸集九巻皆論明詩其體例仿陳耀文學<lb/>
+　　　　林就正毎條各立標題先引舊説于前後雜<lb/>
+　　　　采諸書以相考證或辨其是非或叅其異同<lb/>
+　　　　或引伸其未竟或補綴其所遺皆下一格書<lb/>
+<pb n="KR4i0056_WYG_000-2a"/>
+　　　　之有舊説所無而景旭自立論者則惟列本<lb/>
+　　　　詩于前而以已意發揮之雖皆採自詩話説<lb/>
+　　　　部不盡根柢于原書又嗜博貪多往往借題<lb/>
+　　　　曼衍失于芟薙然取材繁富能以衆説互相<lb/>
+　　　　鈎貫以叅考其得失于雜家之言亦可謂淹<lb/>
+　　　　貫者矣較以古人固不失苕溪漁隠叢話之亞<lb/>
+　　　　也乾隆四十六年五月恭校上<lb/>
+　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+<pb n="KR4i0056_WYG_000-2b"/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>雲林石譜</head>
+    <p>
+<pb n="KR3i0018_WYG_000-1a"/>
+欽定四庫全書　　　　　子部九<lb/>
+　雲林石譜　　　　　　　譜錄類一<hi>器物之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案雲林石譜三巻宋杜綰撰綰字季<lb/>
+　　　　揚號雲林居士山隂人宰相衍之孫也是書<lb/>
+　　　　彚載石品凡一百一十有六各具出産之地<lb/>
+　　　　採取之法詳其形狀色澤而第其髙下然如<lb/>
+　　　端溪之類兼及硯材浮光之類兼及器用之材<lb/>
+<pb n="KR3i0018_WYG_000-1b"/>
+　　　　質不但譜假山清玩也前有紹興癸丑闕里<lb/>
+　　　　孔𫝊序𫝊即續白居易六帖者序中稱綰為<lb/>
+　　　　杜甫之裔因引甫詩水落魚龍夜句謂長沙<lb/>
+　　　　湘鄉之山魚龍化而為石甫因形容于詩綰<lb/>
+　　　　作是譜為能紹其家風考甫此句見于秦州<lb/>
+　　　　雜詩乃由陜赴蜀之時何由得至楚地且甫<lb/>
+　　　　之詩意本非咏石殊附會無理未附宣和石<lb/>
+　　　　譜皆記艮岳諸石有名無説不知誰作又附<lb/>
+<pb n="KR3i0018_WYG_000-2a"/>
+　　　　漁陽公石譜皆載嗜石故事亦不知漁陽公<lb/>
+　　　　為誰其中列周公謹元遺山諸名則必非綰<lb/>
+　　　　書葢明周履靖刻是書時所竄入也今惟錄<lb/>
+　　　　綰書以資考證而所附二譜悉削而不載又<lb/>
+　　　　毛晉嘗刻是書併為一卷又佚去孔𫝊之序<lb/>
+　　　　而文句則無大異同今亦不别著錄焉乾隆<lb/>
+　　　　四十六年三月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+<pb n="KR3i0018_WYG_000-2b"/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="KR3i0018_WYG_000-3a"/>
+雲林石譜原序<lb/>
+天地至精之氣結為石負土而出狀為竒怪或巖竇逶<lb/>
+迤峯嶺層稜凡棄擲於媧鍊之餘遁逃於秦鞭之後者<lb/>
+其類不一至有鵲飛而得印鱉化而銜題叱羊射虎挺<lb/>
+質之尚存翔燕鳴魚類形之可騐怪或出於禹貢異或<lb/>
+隕於宋都物象宛然得於髣髴雖一拳之多而能藴千<lb/>
+巖之秀大可列於園館小或置於几案如觀嵩少而靣<lb/>
+龜蒙坐生清思故平泉之珍祕於徳裕夫餘之寶進於<lb/>
+<pb n="KR3i0018_WYG_000-3b"/>
+武宗皆石之瑰竒宜可愛者然人之好尚故自不同葉<lb/>
+公之好龍支遁之好馬衞懿公之好鶴王右軍之好鵞<lb/>
+齊宣王之好竽嵇康之好鍛所好自異然無所據依殆<lb/>
+無足取聖人常曰仁者樂山好石乃樂山之意蓋所謂<lb/>
+静而夀者有得於此竊嘗謂陸羽之於茶杜康之於酒<lb/>
+戴凱之於竹蘇太古之於文房四寶歐陽永叔之於牡丹<lb/>
+蔡君謨之於荔枝亦皆有譜而惟石獨無為可恨也雲<lb/>
+林居士杜季揚蓋嘗採其瑰異第其流品載都邑之所<lb/>
+<pb n="KR3i0018_WYG_000-4a"/>
+出而潤燥者有别秀質者有辨書於編簡其譜宜可傳<lb/>
+也且曰幅<graphic n="KR0695" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0695.png" mimeType="image/png"/>之至逺聞見或遺山經地志未能淹該編<lb/>
+覧尚俟講求當附益之居士實草堂先生之裔大丞相祁<lb/>
+國公之孫余嘗聞之詩史有水落魚龍夜之句蓋長沙<lb/>
+湘鄉之山魚龍墊土化而為石工部固嘗形容於詩矣<lb/>
+讀是譜者知居士之好古博雅克紹於餘風不忘於著<lb/>
+録云時宋紹興癸丑夏五月望日闕里孔傅題<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

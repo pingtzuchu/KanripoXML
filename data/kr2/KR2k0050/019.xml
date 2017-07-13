@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>陜西通志巻十九</head> <lb/>
+    <p>
+<pb n="KR2k0050_WYG_019-1a"/>
+欽定四庫全書<lb/>
+　陜西通志巻十九<lb/>
+　　封爵二<lb/>
+北周<lb/>
+<pb n="KR2k0050_WYG_019-2a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_019-3a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_019-4a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_019-5a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_019-6a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_019-7a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_019-8a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_019-9a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_019-10a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_019-11a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_019-12a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_019-13a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_019-14a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_019-15a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_019-16a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_019-17a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_019-18a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_019-19a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_019-20a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_019-21a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_019-22a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_019-23a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_019-24a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_019-25a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_019-26a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_019-27a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_019-28a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_019-29a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_019-30a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_019-31a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_019-32a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_019-33a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_019-34a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_019-35a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2k0050_WYG_019-35b"/>
+　<lb/>
+　<lb/>
+後梁<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+後唐<lb/>
+<pb n="KR2k0050_WYG_019-36a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2k0050_WYG_019-36b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+後晉<lb/>
+<pb n="KR2k0050_WYG_019-37a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+後周<lb/>
+<pb n="KR2k0050_WYG_019-37b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+宋<lb/>
+<pb n="KR2k0050_WYG_019-38a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_019-39a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_019-40a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_019-41a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_019-42a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_019-43a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_019-44a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_019-45a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_019-46a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_019-47a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_019-48a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_019-49a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_019-50a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_019-51a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_019-52a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_019-53a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_019-54a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_019-55a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_019-56a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_019-57a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　　按賈志有岐王徳芳考宋史本傳岐王係太平興<lb/>
+　　國六年追封故不録又載允升子華隂侯宗秀考<lb/>
+　　文獻通考亦云但據宋史延安郡公允升子十三<lb/>
+　　人有華隂侯宗本並無宗秀疑秀即本字之訛賈<lb/>
+　　志從通考誤入今為訂正<lb/>
+<pb n="KR2k0050_WYG_019-57b"/>
+金<lb/>
+<pb n="KR2k0050_WYG_019-58a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_019-59a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_019-60a"/>
+元<lb/>
+<pb n="KR2k0050_WYG_019-61a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_019-62a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_019-63a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　　按賈志有鄜王懿憐只班考鄜王後立為帝廟號<lb/>
+<pb n="KR2k0050_WYG_019-63b"/>
+　　寧宗不應入封爵内再西安王阿忒納答失里綏<lb/>
+　　寧王阿都赤元時陜省無此地名概從删<lb/>
+明<lb/>
+　始建　　　　　　世系　　國除　　境土<lb/>
+<pb n="KR2k0050_WYG_019-64a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_019-65a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_019-66a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_019-67a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_019-68a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_019-69a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_019-70a"/>
+</p>
+<p>
+<pb n="KR2k0050_WYG_019-71a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2k0050_WYG_019-71b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　　按賈志肅莊王楧慶靖王梅韓憲王松子孫封號<lb/>
+　　多有陜省地名但考當時府第俱在甘省猶秦愍<lb/>
+　　王子孫爵命多有各縣地名而府第俱在西安也<lb/>
+<pb n="KR2k0050_WYG_019-72a"/>
+　　故不録又續文獻通考有安定伯張容太監永弟<lb/>
+　　正徳中封考陜西延鞏二府皆有安定未知確在<lb/>
+　　何境附識於此<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2k0050_WYG_019-72b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　陜西通志巻十九<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

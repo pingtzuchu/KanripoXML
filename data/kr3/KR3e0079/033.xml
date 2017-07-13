@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>本草綱目卷十一目録</head> <lb/>
+    <p>
+<pb n="KR3e0079_WYG_033-1a"/>
+欽定四庫全書<lb/>
+　本草綱目卷十一目録<lb/>
+　　金石之五　鹵石類二十種附錄二十七種<lb/>
+　　　食鹽<hi>别録</hi>
+　　　戎鹽<hi>本經</hi>
+　　　光明鹽<hi>唐本</hi>
+　　　鹵鹹<hi>本經</hi>
+　　　凝水石<hi>本經即寒水石</hi>
+<pb n="KR3e0079_WYG_033-1b"/>
+　　　𤣥精石<hi>開寳</hi>
+　　　緑鹽<hi>唐本</hi>
+　　　鹽藥<hi>拾遺附懸石</hi>
+　　　朴消<hi>本經</hi>
+　　　𤣥明粉<hi>藥性</hi>
+　　　消石<hi>本經即焰消</hi>
+　　　硇砂<hi>唐本</hi>
+　　　蓬砂<hi>日華藥特蓬殺石  附</hi>
+<pb n="KR3e0079_WYG_033-2a"/>
+　　　石硫黄<hi>本經</hi>
+　　　石硫赤<hi>别錄</hi>
+　　　石硫青<hi>别録硫黄香附</hi>
+　　　礬石<hi>本經</hi>
+　　　緑礬<hi>日華</hi>
+　　　黄礬<hi>綱目</hi>
+　　　湯瓶内鹼<hi>綱目</hi>
+　　　　右附方舊一百零二新二百四十九<lb/>
+<pb n="KR3e0079_WYG_033-2b"/>
+　　附録諸石<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　本草綱目卷十一目錄<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

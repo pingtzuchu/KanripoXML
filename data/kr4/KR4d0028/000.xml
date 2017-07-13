@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>徂徠集</head>
+    <p>
+<pb n="KR4d0028_WYG_000-1a"/>
+欽定四庫全書　　　　　集部三<lb/>
+　徂徠集　　　　　　　　别集類二<hi>宋</hi>
+　　提要<lb/>
+　　　　臣等謹案徂徠集二十巻宋石介撰介字守<lb/>
+　　　　道兖州奉符人天聖八年進士及第初授嘉<lb/>
+　　　　州判官後以直集賢院出通判濮州事迹具<lb/>
+　　　　宋史本傳初介嘗躬耕徂徠山下人以徂徠<lb/>
+　　　　先生稱之因以名集介深惡五季以後文格<lb/>
+<pb n="KR4d0028_WYG_000-1b"/>
+　　　　卑靡故集中亟推桞開之功而復作怪說以<lb/>
+　　　　排楊億其文章宗㫖可以想見雖主持太過<lb/>
+　　　　抑揚皆不得其平要亦戛然自異者王士禎<lb/>
+　　　　池北偶談稱其倔强勁質有唐人風較勝栁<lb/>
+　　　　穆二家而終未脫草昧之氣亦篤論也歐陽<lb/>
+　　　　修作介墓誌稱所為文章曰某集者若干巻<lb/>
+　　　　又曰某集者若干巻凡重言之似原集當分<lb/>
+　　　　為二部此本統名徂徠集殆後人所合編歟<lb/>
+<pb n="KR4d0028_WYG_000-2a"/>
+　　　　第四巻内寄元均叔仁讀易堂永軒暫憩四<lb/>
+　　　　詩有錄無書則傳冩脱佚亦非盡其舊矣介<lb/>
+　　　　傳孫復之學毅然以天下是非為已任然客<lb/>
+　　　　氣太深名心太重不免流於詭激王偁東都<lb/>
+　　　　事畧記仁宗時罷呂夷簡夏竦而進章得象<lb/>
+　　　　晏殊賈昌朝杜衍范仲淹韓琦富弼王素歐<lb/>
+　　　　陽修余靖諸人介時為國子直講因作慶厯<lb/>
+　　　　聖徳詩以褒貶忠佞其詩今載集中盖仿韓<lb/>
+<pb n="KR4d0028_WYG_000-2b"/>
+　　　　愈元和聖徳詩體然唐憲宗削平淮蔡功在<lb/>
+　　　　社稷愈仿雅頌以紀功是其職也至於賢姦<lb/>
+　　　　黜陟權在朝廷非儒官所應議且其人見在<lb/>
+　　　　非蓋棺論定之時迹涉嫌疑尤不當播諸簡<lb/>
+　　　　牘以招恩怨厥後歐陽修司馬光朋黨之禍<lb/>
+　　　　屢興蘇軾黄庭堅文字之獄迭起實介有以<lb/>
+　　　　先導其波又若太學諸生挾持朝局北宋之<lb/>
+　　　　末或至於臠割中使南宋之末或至於驅逐<lb/>
+<pb n="KR4d0028_WYG_000-3a"/>
+　　　　宰執由來者漸亦介有以倡之史稱孫復見<lb/>
+　　　　詩有子禍始此之語是猶為一人言之未及<lb/>
+　　　　慮其大且逺者也雖當時以此詩得名而其<lb/>
+　　　　事實不可以訓故仍舊本存之而附論其失<lb/>
+　　　　如右乾隆四十五年五月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_112-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選卷一百十二<lb/>
+　　門闕類<lb/>
+　　　五言古<lb/>
+　　　　詠雙闕　　　　　　　　　<hi>陳</hi>江　總<lb/>
+　象闕連馳道天宇照方疏刻鳳棲清漢圖龍入紫虛屢<lb/>
+　逢膏露灑幾遇祥煙初競言百尺麗寧方萬丈餘<lb/>
+　　　　賦得待詔金馬門　　　　　<hi>陳</hi>何　胥<lb/>
+<pb n="KR4h0141_WYG_112-1b"/>
+　漢家一統軌濟濟萬國朝飛纓拂曉霧輕輦逐晨飇槐<lb/>
+　衢映綠紱日彩麗金貂此時參待詔誰復想漁樵<lb/>
+　　　五言律<lb/>
+　　　　詠門　　　　　　　　　　<hi>唐</hi>李　嶠<lb/>
+　奕奕彤闈下煌煌紫禁隈阿房萬户列閶闔九重開疏<lb/>
+　廣遺榮去于公待駟來詎知金馬側方朔有竒才<lb/>
+　　　　徽安門曉望　　　　　　　<hi>宋</hi>歐陽脩<lb/>
+　都門收宿霧佳氣鬱蔥蔥曉日寒川上青山白露中樓<lb/>
+<pb n="KR4h0141_WYG_112-2a"/>
+臺萬瓦合車馬九衢通恨乏登高賦徒知京邑雄<lb/>
+　　　大明門春望　　　　　　　<hi>明</hi>張元凱<lb/>
+太和盈宇宙奕奕徧光華美麗都人綺芳菲輦道沙紫<lb/>
+驑銜禁草黃鳥卧宮花一望千重殿常生五色霞<lb/>
+　　五言排律<lb/>
+　　　賦得蕃臣戀魏闕　　　　　<hi>唐</hi>蔣　防<lb/>
+剖竹隨皇命分憂鎮大蕃恩波懷魏闕獻納望天閽政<lb/>
+奉南風順心依北極尊夢魂通玉陛動息寄朱軒直以<lb/>
+<pb n="KR4h0141_WYG_112-2b"/>
+蒸黎念思陳政化源如何子牟意今古道斯存<lb/>
+　　　謁見日將至雙闕　　　　　<hi>唐</hi>闕　名<lb/>
+曉色臨雙闕微臣禮位陪逺驚龍鳳覩誰識冕旒開藹<lb/>
+藹千年盛顒顒萬國來天文標日月時令布雲雷迥出<lb/>
+黃金殿全分白玉臺雕蟲竟何取瞻戀不知廻<lb/>
+　　七言律<lb/>
+　　　闕下待傳㸃呈諸同舎　　　<hi>唐</hi>劉禹鍚<lb/>
+禁漏晨鐘聲欲歇旌旗組綬影相交殿含佳氣當龍首<lb/>
+<pb n="KR4h0141_WYG_112-3a"/>
+閣倚晴天見鳳巢山色葱蘢丹檻外霞光泛灔翠松梢<lb/>
+多慚再入金門籍不敢為文學解嘲<lb/>
+　　　和宋學士晩出麗正門　　　<hi>元</hi>甘　立<lb/>
+暮光霞彩炫金題綘闕髙居雉堞低上相樓臺連御苑<lb/>
+中郎車騎過沙堤皁雕孤捩凌雲翮紫燕雙翻踣雪蹄<lb/>
+回首上林凉月夜蕊珠多是鳳鸞栖<lb/>
+　　　長安門西道苑牆雨後經眺作<lb/>
+　　　　　　　　　　　　　　　<hi>明</hi>湯　珍<lb/>
+<pb n="KR4h0141_WYG_112-3b"/>
+紫宮黃屋邃森沈馳道周廬肅羽林樹裏啼鶯清禁切<lb/>
+雨餘流水御溝深松篁並落鍾山翠雲霧常依漢殿陰<lb/>
+此日謳歌歡在鎬草茅何以嗣華音<lb/>
+　　七言絶句<lb/>
+　　　出左掖門口號　　　　　　<hi>元</hi>王　惲<lb/>
+花映巖廊近紫宸宮官行酒過三廵共携滿袖天香出<lb/>
+散作都城十日春<lb/>
+　　　望闕口號　　　　　　　　<hi>明</hi>沈夢麟<lb/>
+<pb n="KR4h0141_WYG_112-4a"/>
+　閶闔排雲玉殿開千官鵷鷺早朝回不知誰獻王褒頌<lb/>
+　得奉君王萬壽杯<lb/>
+　　　　夏日出文明門　　　　　　<hi>明</hi>薛　瑄<lb/>
+　文明門外柳陰陰百囀黃鸝送好音行過御溝回望處<lb/>
+　鳳皇樓閣五雲深<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR4h0141_WYG_112-4b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選卷一百十二<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

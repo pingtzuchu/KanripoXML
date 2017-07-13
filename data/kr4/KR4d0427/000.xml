@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>稼村類藁總目</head>
+    <p>
+<pb n="KR4d0427_WYG_000-1a"/>
+稼村類藁原序<lb/>
+既壯宋天子詔郡國解試得小詞科一塲江南自吕東<lb/>
+萊真西山後此科不振已乆海内之士皇皇然無所師<lb/>
+余不敏竊有志焉私擬凡百篇莫余和者然亦舉子業<lb/>
+耳吕東萊真西山有功於斯道不在是余壬戍始塵忝<lb/>
+其為科目累亦甚矣洪平齋云士方其未仕讀非其書<lb/>
+既仕書不暇讀稍暇課兒書遍覧諸家時有省發輙附<lb/>
+以己說數年後所習似益繁去者復取之取者或復去<lb/>
+<pb n="KR4d0427_WYG_000-1b"/>
+覺說之不可於心者尚多於是所存者鮮所謂讀書管<lb/>
+見是也又嘗取宋一經撮其要而書之曰提綱析其目<lb/>
+而粹之曰類纂幾數千萬言嗚呼漢之士雖病於訓詁<lb/>
+然今日置五經博士明日詔諸儒講五經同異有功於<lb/>
+道甚大魏晉以來詞氣猶近古時未有科目也唐人專<lb/>
+尚詞章全是科目壊之獨惟宋諸老窮則著書立言達<lb/>
+則致君澤民有為前聖繼絶學為千萬世開太平之功<lb/>
+蓋於科舉之外知有義理之學義理之外知有性命之<lb/>
+<pb n="KR4d0427_WYG_000-2a"/>
+學由乎科目之中而不為科目累也一日惟肖類余讀<lb/>
+書管見為一帙且以宏詞擬藁宋史提綱宋史類纂麗<lb/>
+其後至如詩銘序記贊頌跋說書傳殿䇿問講義牋表<lb/>
+啟狀誄誌門分而户析之成三十巻嗚呼余一生刻苦<lb/>
+文字間止如此亦特一家說耳姑以訓吾子孫謹勿以<lb/>
+語人必有取之覆醬瓿者彊圉大淵獻月正元日稼村<lb/>
+王義山元高自序書于東湖寓舍<lb/>
+　<lb/>
+<pb n="KR4d0427_WYG_000-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　稼村類藁原序<lb/>
+<pb n="KR4d0427_WYG_000-3a"/>
+欽定四庫全書　　　　　集部五<lb/>
+　稼村類藁總目　　　　　别集類四<hi>元</hi>
+　　巻一<lb/>
+　　　詩<lb/>
+　　巻二<lb/>
+　　　詩<lb/>
+　　巻三<lb/>
+　　　詩<lb/>
+<pb n="KR4d0427_WYG_000-3b"/>
+　　巻四<lb/>
+　　　序<lb/>
+　　巻五<lb/>
+　　　序<lb/>
+　　巻六<lb/>
+　　　序<lb/>
+　　巻七<lb/>
+　　　記<lb/>
+<pb n="KR4d0427_WYG_000-4a"/>
+　　巻八<lb/>
+　　　碑<lb/>
+　　巻九<lb/>
+　　　銘贊頌賦<lb/>
+　　巻十<lb/>
+　　　跋<lb/>
+　　巻十一<lb/>
+　　　說解辯雜文<lb/>
+<pb n="KR4d0427_WYG_000-4b"/>
+　　巻十二<lb/>
+　　　書<lb/>
+　　巻十三<lb/>
+　　　傳<lb/>
+　　巻十四<lb/>
+　　　殿䇿<lb/>
+　　巻十五<lb/>
+　　　䇿問<lb/>
+<pb n="KR4d0427_WYG_000-5a"/>
+　　巻十六<lb/>
+　　　講義<lb/>
+　　巻十七<lb/>
+　　　講義<lb/>
+　　巻十八<lb/>
+　　　講義<lb/>
+　　巻十九<lb/>
+　　　講義<lb/>
+<pb n="KR4d0427_WYG_000-5b"/>
+　　巻二十<lb/>
+　　　冊文奏劄<lb/>
+　　巻二十一<lb/>
+　　　牋表疏狀詞<lb/>
+　　巻二十二<lb/>
+　　　啟事<lb/>
+　　巻二十三<lb/>
+　　　啟事<lb/>
+<pb n="KR4d0427_WYG_000-6a"/>
+　　巻二十四<lb/>
+　　　啟事<lb/>
+　　巻二十五<lb/>
+　　　啟事<lb/>
+　　巻二十六<lb/>
+　　　啟事<lb/>
+　　巻二十七<lb/>
+　　　劄<lb/>
+<pb n="KR4d0427_WYG_000-6b"/>
+　　巻二十八<lb/>
+　　　祝誄行狀<lb/>
+　　巻二十九<lb/>
+　　　墓誌銘<lb/>
+　　巻三十<lb/>
+　　　樂府樂語<lb/>
+　　　　<hi>臣</hi>等謹案稼村類藁三十巻元王義山撰義<lb/>
+　　　　山字元高豐城人宋景定中進士知新喻縣<lb/>
+<pb n="KR4d0427_WYG_000-7a"/>
+　　　　歴永州户曹入元官提舉江西學事退老東<lb/>
+　　　　湖之上環所居種蓮名其堂曰君子又扁其<lb/>
+　　　　讀書之室曰稼村義山嘗食元禄故江西通<lb/>
+　　　　志列其名入元人中是書原刻乃題為宋人<lb/>
+　　　　者誤也集為其子惟肖所編凡各體詩三巻<lb/>
+　　　　古文雜著二十七巻詩文皆沿宋季平弱之<lb/>
+　　　　習絶少警䇿王士禎以為蕪淺無足取而至<lb/>
+　　　　詆為最下最傳然觀義山在湖南時湘潭縣<lb/>
+<pb n="KR4d0427_WYG_000-7b"/>
+　　　　豪嘗因争田不遂獻之學義山引春秋齊人<lb/>
+　　　　來歸汶陽之田斷其非心悅而歸者頗合經<lb/>
+　　　　義故集中說經之作亦往往能自出新意如<lb/>
+　　　　解周禮師氏職中大夫保氏職下大夫而謂<lb/>
+　　　　鄭注稱周公召公兼攝之非又解古者天子<lb/>
+　　　　冕服備十二章而謂鄭注九章五章之非皆<lb/>
+　　　　頗有根據不同剿襲至表啟諸作清華流麗<lb/>
+　　　　織組自然實與劉克莊後村集蹊逕相近固<lb/>
+<pb n="KR4d0427_WYG_000-8a"/>
+　　　　未可以其他文之骨榦未堅而槩加排斥矣<lb/>
+　　　　乾隆四十五年四月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

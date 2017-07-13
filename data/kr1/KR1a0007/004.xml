@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+  <div> <head>提要</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　經部一<lb/>
+　周易正義　　　　　　易𩔖<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案周易正義十卷魏王弼晉韓康伯<lb/>
+　　　　註唐孔穎達疏易本卜筮之書故末派寢流<lb/>
+　　　　於䜟緯王弼乘其極敝而攻之遂能排棄漢<lb/>
+　　　　儒自標新學然隋書經籍志載晉揚州刺史<lb/>
+　　　　顧夷等有周易難王輔嗣易一卷冊府元龜<lb/>
+<pb n="1b"/>
+　　　　又載顧悦之<hi>案悦之即顧夷之字</hi>難王弼易義四十餘<lb/>
+　　　　條京口閔康之又申王難顧是在當日已有<lb/>
+　　　　異同王儉顔延年以後此揚比抑互詰不休<lb/>
+　　　　至頴達等奉詔作疏始専崇王註而衆説皆<lb/>
+　　　　廢故隋志易𩔖稱鄭學寢微今殆絶矣蓋長<lb/>
+　　　　孫無忌等作志之時在正義既行之後也今<lb/>
+　　　　觀其書如復彖七日來復王偶用六日七分<lb/>
+　　　　之説則推明鄭義之善乾九二利見大人王<lb/>
+<pb n="2a"/>
+　　　　不用利見九五之説則駁詰鄭義之非於見龍<lb/>
+　　　　在田時舍也則曰經但云時舍註曰必以時<lb/>
+　　　　之通舍者則輔嗣以通解舍舍是通義也而<lb/>
+　　　　不疏舍之何以訓通於天元而地黄則曰恐<lb/>
+　　　　莊氏之言非王本意今所不取而不言莊説<lb/>
+　　　　之何以未允如斯之𩔖皆顯然偏袒至説卦<lb/>
+　　　　𫝊之分隂分陽韓註二四為隂三五為陽則<lb/>
+　　　　曰輔嗣以為初上無隂陽定位此註用王之<lb/>
+<pb n="2b"/>
+　　　　説帝出乎震韓氏無註則曰益卦六二王用<lb/>
+　　　　亨於帝吉輔嗣註曰帝者生物之主興益之<lb/>
+　　　　宗出震而齊巽者也則輔嗣之意以此帝為<lb/>
+　　　　天帝也是雖弼所未註者亦委曲旁引以就<lb/>
+　　　　之然疏家之體主於詮解註文不欲有所出<lb/>
+　　　　入故皇侃禮疏或乖鄭義穎達至斥為狐不<lb/>
+　　　　首邱葉不歸根其墨守専門固通例然也至<lb/>
+　　　　於詮釋文句多用空言不能如諸經正義根<lb/>
+<pb n="3a"/>
+　　　　據典籍源委粲然則由王註掃棄舊文無古<lb/>
+　　　　義之可引亦非考證之疏矣此書初名易贊<lb/>
+　　　　後詔改正義然卷端又題曰兼義未喻其故<lb/>
+　　　　序稱十四卷唐志作十八卷書録解題作十<lb/>
+　　　　三卷此本十卷乃與王韓註本同殆後人從<lb/>
+　　　　註本合併歟乾隆四十一年十月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

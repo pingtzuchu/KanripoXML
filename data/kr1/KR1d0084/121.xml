@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>禮書卷一百二十二</head> <lb/>
+    <p>
+<pb n="1a"/>
+欽定四庫全書<lb/>
+　禮書卷一百二十二<lb/>
+　　　　　　　　　　　　宋　陳祥道　撰<lb/>
+<pb n="2a"/>
+</p>
+<p>
+<pb n="3a"/>
+</p>
+<p>
+<pb n="4a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="4b"/>
+　<lb/>
+　　晉鼓<lb/>
+　考工記韗人為皋陶長六尺有六寸左右端廣六寸<lb/>
+　中尺厚三寸穹者三之一上三正先儒以為晉鼓其<lb/>
+　説是也鼓人之六鼓有靁鼔靈鼔路鼔鼖鼓晉鼔皋<lb/>
+　鼓而路鼔以上不特左右端兩面而已鼖鼔不特長<lb/>
+　六尺六寸而已則長六尺六寸左右端廣六寸其為<lb/>
+　晉鼓可知鼔人以晉鼓鼓金奏鎛師掌金奏之鼓鍾<lb/>
+　師以鼓奏九夏此所以謂懸鼓也<hi>詩曰應田懸鼔眀堂位曰周人懸鼔</hi>
+<pb n="5a"/>
+　<hi>禮器曰懸鼓在西</hi>然司馬春振旅軍將執晉鼓吳與越戰載<lb/>
+　常建鼓韋昭曰將軍執晉鼓晉鼓建謂為楹而植之<lb/>
+　葢晉鼓建之於軍猶路鼓建之於寢非此則不建矣<lb/>
+　　靁鼓<lb/>
+　　靈鼓<lb/>
+　　路鼓<lb/>
+　鼓人靁鼓鼔神祀靈鼓鼓社祭路鼓鼓鬼享大司樂<lb/>
+　靁鼓靁鼗靈鼓靈鼗路鼓路鼗鄭康成曰靈鼔八面<lb/>
+<pb n="5b"/>
+　靈鼓六面路鼓四面葢以韗人為晉鼓鼛鼔鼖鼔三<lb/>
+　者非祭祀之鼔而兩面則路鼔宜四面靈鼓宜六面<lb/>
+　靁鼔宜八面亦或有所傳然也<hi>鄭司農曰靁鼓六面靈鼓四面路鼔兩面</hi>
+　葢靁天聲也靁鼔鼔神祀而救日月亦天事也鼓人<lb/>
+　救日月則詔王鼔先儒以為鼓用靁鼓是也靈地徳<lb/>
+　也靈鼔鼔社祭而攻猛獸亦地事也㝠氏攻猛獸以<lb/>
+　靈鼓毆之是也路鼔鼔鬼享而田獵達窮者與遽令<lb/>
+　亦用之司馬振旅王執路鼓大僕建路鼓于大寢之門<lb/>
+<pb n="6a"/>
+　外以待達窮者與遽令是也晉鼓鼓金奏而田獵亦<lb/>
+　用之司馬振旅將軍執晉鼓是也鼓人言詔王鼓大僕言<lb/>
+　軍旅田役贊王鼓戎右詔贊王鼓鄭氏曰王通鼔佐擊其<lb/>
+　餘面賈公彥曰王擊一面大僕戎右佐擊兩面惟前一面<lb/>
+　不擊由此觀之則路鼔四面又可知也蓋詔則不賛<lb/>
+　詔賛則不特詔而已大僕戎右皆言賛王鼓則與鼔<lb/>
+　人所謂詔者異矣<lb/>
+　　鼖鼔<lb/>
+<pb n="6b"/>
+　韗人鼔長八尺鼓四尺<hi>四尺鼓面也</hi>中圍加三之一謂之<lb/>
+　鼖鼔鼔人鼖鼓鼓軍事司馬中春振旅諸侯執鼖鼔<lb/>
+　司馬法曰十人之長執鉦百人之師執鐸千人之師<lb/>
+　執鼙萬人之師執大鼔鎛師凡軍之夜三鼜皆鼔之<lb/>
+　鄭氏謂鼔之以鼖鼔司馬法曰昏鼓四通為大鼜夜<lb/>
+　半三通為晨戒平旦五通為𤼵眀此所謂三鼜也掌<lb/>
+　固亦曰夜三鼜以戒號葢鼖鼓之於軍晝以作衆夜<lb/>
+　以警之書言鼖鼔在西序詩言鼖鼔維鏞則此鼖鼔<lb/>
+<pb n="7a"/>
+　與鼓軍事者異矣是以周人尚之<hi>沈約宋書樂志曰長丈二尺曰鼜鼔</hi>
+　<hi>凡守備及役事鼓之然鄭氏云鼖鼔長八尺鼜鼔長丈二尺鼜鼔役事不謂之鼜則沈約之言誤矣</hi>
+　　提鼔<lb/>
+　大司馬春振旅師帥執提鄭氏曰馬上鼔有曲木提<lb/>
+　持鼔立馬髦上者故謂之提賈公彦曰鄭氏據當時<lb/>
+　有單騎舉以況周其實周時無騎法也然左傳稱齊<lb/>
+　魯相遇以鞍為几禮記稱前有車騎史記稱趙靈王<lb/>
+　胡服騎射葢古者國容以車軍容或有騎<lb/>
+<pb n="7b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　禮書卷一百二十二<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

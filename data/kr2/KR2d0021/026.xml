@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>補歴代史表卷二十八</head> <lb/>
+    <p>
+<pb n="KR2d0021_WYG_026-1a"/>
+欽定四庫全書<lb/>
+　補歴代史表卷二十八<lb/>
+　　　　　　　　　　　　　鄞縣萬斯同撰<lb/>
+　　宋<lb/>
+　　　宋諸王世表<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2d0021_WYG_026-1b"/>
+　<lb/>
+　<lb/>
+　　右二王武帝弟<lb/>
+<pb n="KR2d0021_WYG_026-2a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2d0021_WYG_026-2b"/>
+　　右五王武帝子<hi>武帝七子長廢帝義符第三文帝義隆</hi>
+<pb n="KR2d0021_WYG_026-3a"/>
+</p>
+<p>
+<pb n="KR2d0021_WYG_026-4a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2d0021_WYG_026-4b"/>
+　　右十五王文帝子<hi>文帝十九子長元兇劭第三孝武帝駿第十一明帝或第四紹出繼廬陵王義真</hi>
+<pb n="KR2d0021_WYG_026-5a"/>
+</p>
+<p>
+<pb n="KR2d0021_WYG_026-6a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2d0021_WYG_026-6b"/>
+　　右十五王孝武帝子<hi>孝武二十八子長廢帝子業七子未封卒三子未封為明帝所殺子綏子嗣出繼亦為明帝所殺孝武遂無後</hi>
+<pb n="KR2d0021_WYG_026-7a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　　右五王明帝子<hi>明帝十二子長廢帝昱第三順帝準二十幼殤智井爕躋出繼</hi>
+　<lb/>
+附二王後<lb/>
+　<lb/>
+<pb n="KR2d0021_WYG_026-7b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　補歴代史表卷二十八<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

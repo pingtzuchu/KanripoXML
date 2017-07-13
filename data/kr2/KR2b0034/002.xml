@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>通鑑續編</head>
+    <p>
+<pb n="KR2b0034_WYG_002-1a"/>
+欽定四庫全書　　　　　史部二<lb/>
+　通鑑續編　　　　　　　編年類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案通鑑續編二十四卷元陳桱撰桱<lb/>
+　　　　字子經奉化人流寓長洲官至翰林學士桱<lb/>
+　　　　祖著宋時以秘書少監知台州嘗作書名厯<lb/>
+　　　　代紀統其父沁為校官又續有撰述世傳史<lb/>
+　　　　學桱以司馬氏通鑑朱子綱目並終於五代<lb/>
+<pb n="KR2b0034_WYG_002-1b"/>
+　　　　其周威烈王以上雖有金履祥前編而亦㫁<lb/>
+　　　　自陶唐因著此書首述盤古至髙辛氏以補<lb/>
+　　　　金氏所未備為第一卷次摭契丹在唐及五<lb/>
+　　　　代時事以志其得國之故為第二卷其二十<lb/>
+　　　　二卷皆宋事始自太祖終於二王以繼通鑑<lb/>
+　　　　之後故以續編為名然大書分注全仿綱目<lb/>
+　　　　之例當名之曰續綱目仍襲通鑑之名非其<lb/>
+　　　　實也沈周客座新聞載桱著此書時書宋太<lb/>
+<pb n="KR2b0034_WYG_002-2a"/>
+　　　　祖云匡𦙍自立而還未輟筆忽迅霆擊其案<lb/>
+　　　　桱端坐不懾曰霆雖擊吾手終不為之改易<lb/>
+　　　　也云云此雖小說附㑹之談亦足見桱以褒<lb/>
+　　　　貶自任後人乃造作此說也今觀其義例於<lb/>
+　　　　宋自太平興國四年平北漢後始為大書繫<lb/>
+　　　　統鄭瑗井觀瑣言稱其本晦翁語録持論已<lb/>
+　　　　偏至於金承麟稱末帝立僅一日未成為君<lb/>
+　　　　乃為之紀年西遼自徳宗以下諸主但傳年<lb/>
+<pb n="KR2b0034_WYG_002-2b"/>
+　　　　號並無事蹟可紀亦一一詳為分注亦不免<lb/>
+　　　　循名失實明史何喬新傳載喬新年十一時<lb/>
+　　　　侍父京邸修撰周旋過之喬新方讀通鑑續<lb/>
+　　　　編旋問書法何如對曰吕文煥降元不書叛<lb/>
+　　　　張世傑溺海不書死節曹彬包拯之卒不書<lb/>
+　　　　其官而紀羲軒多採怪妄似未有當云云亦<lb/>
+　　　　未始不中其失也他如取宋太祖燭影斧聲<lb/>
+　　　　之訛載文天祥黄冠故鄉之語漫無考正輕<lb/>
+<pb n="KR2b0034_WYG_002-3a"/>
+　　　　信傳聞陳耀文學林就正又謂桱誤以范仲<lb/>
+　　　　淹赴桐廬郡至淮遇風詩為唐介作併改詩<lb/>
+　　　　中强楚為狂楚盡室為今日蛟黿為魚龍則<lb/>
+　　　　引據未免疎舛黄溥簡籍遺聞又謂桱紀其<lb/>
+　　　　先户部尚書顯吏部尚書伸工部尚書徳剛<lb/>
+　　　　諸事為宋史所不載成化間續綱目者亦皆<lb/>
+　　　　削去疑其或出于妄托則挾私濫載尤不協<lb/>
+　　　　至公然自通鑑綱目以後繼而作者實始于<lb/>
+<pb n="KR2b0034_WYG_002-3b"/>
+　　　　桱其後王宗汶薛應旂等雖遞有增修而才<lb/>
+　　　　識卒亦無以相勝姑存以備㕘考亦未為不<lb/>
+　　　　可乾隆四十六年十月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

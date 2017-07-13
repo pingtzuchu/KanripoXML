@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>易精藴大義</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　　經部一<lb/>
+　易精藴大義　　　　　　易類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案易精藴大義十二卷元解蒙撰蒙<lb/>
+　　　　字求我吉水人江西通志作字來我盖字形<lb/>
+　　　　相近而誤也中天厯乙巳江西鄉試與兄子<lb/>
+　　　　尚字觀我者並以善易名于時子尚所著周<lb/>
+　　　　易義疑通釋久無𫝊本朱彝尊經義考載蒙<lb/>
+<pb n="1b"/>
+　　　　此書亦注曰佚今檢永樂大典所引蒙書尚<lb/>
+　　　　多自豫隨无妄大壯睽蹇中孚七卦及晉卦<lb/>
+　　　　之後四爻外其他皆文義完備釐然具存其<lb/>
+　　　　例于彖爻之下採輯先儒之說而末乃發明<lb/>
+　　　　以己意各以蒙謂二字别之雖原為場屋經<lb/>
+　　　　義而作而薈稡羣言頗能得其精要凡所自<lb/>
+　　　　注亦皆簡明如頤六三云頤養之道以安静<lb/>
+　　　　為無失二三動體故顛拂而凶四五静體故<lb/>
+<pb n="2a"/>
+　　　　顛拂亦吉震三爻凶艮三爻吉可見恒彖云<lb/>
+　　　　恒有二義利貞者不易之恒所以體常利有<lb/>
+　　　　攸往者不已之恒所以盡變天地聖人所以<lb/>
+　　　　能恒者以其能盡變也其義雖多根柢前人<lb/>
+　　　　而詮釋明晰亦殊有裨于後學至所引諸家<lb/>
+　　　　之說往往不署名氏盖用朱子詩集𫝊例雖<lb/>
+　　　　不能盡考其由來要皆宋元以前諸經師之<lb/>
+　　　　緒論也謹依文排比正其偽舛釐為十二卷<lb/>
+<pb n="2b"/>
+　　　　著之于録解縉春雨堂集稱是書為易經精<lb/>
+　　　　義經義考稱是書為周易精藴考永樂大典<lb/>
+　　　　所題實作解蒙周易精藴大義二人皆偶誤<lb/>
+　　　　記也今據為斷庶不失其本名焉乾隆四十<lb/>
+　　　　六年九月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2a0029_WYG_084-1a"/>
+　舊五代史巻四十一攷證<lb/>
+唐書明宗紀七癸丑索自通藥彦稠等奏收復河中<lb/>
+　案通鑑作辛亥索自通抜河中斬楊彦温癸丑𫝊首<lb/>
+　來獻歐陽史亦作辛亥自通執彦温殺之與是書較<lb/>
+　詳<lb/>
+張延郎可充三司使班在宣徽使下　案宋史職官志<lb/>
+　三司使在宣徽使後盖仍後唐之制<lb/>
+淮南海州都指揮使王傳拯　王𫝊拯歐陽史作𫝊極<lb/>
+<pb n="KR2a0029_WYG_084-1b"/>
+　攷是書列𫝊及通鑑並作傳拯疑歐陽史𫝊刻之舛<lb/>
+　訛<lb/>
+乙巳供奉官張仁暉自利州迴奏董璋攻陷閬州　案<lb/>
+　董璋陷閬州通鑑作九月庚辰歐陽史作十月乙巳<lb/>
+　葢以奏聞之日為據也<lb/>
+辛巳西面軍前奏今月十三日階州刺史王𢎞贄瀘州<lb/>
+　刺史馮暉自利州取山路出劍門闗外倒下殺敗董<lb/>
+　璋守闗兵士三千人收復劍州　案通鑑攷異引唐<lb/>
+<pb n="KR2a0029_WYG_084-2a"/>
+　實録作今月十三日大軍進攻入劍門次十七日收<lb/>
+　下劍州是書統繫於十三日疑有舛誤<lb/>
+按巴堅舊作阿保機今改　托雲舊作突欲今改<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2a0029_WYG_084-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　舊五代史巻四十一考證<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

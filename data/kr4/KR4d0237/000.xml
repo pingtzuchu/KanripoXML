@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>提要<lb/>
+                </head>
+    <p>
+<pb n="KR4d0237_WYG_000-1a"/>
+欽定四庫全書　　　　　集部四<lb/>
+　提要<lb/>
+　　䝉隱集二巻　　　　　别集類三<hi>宋</hi>
+　　　　<hi>臣</hi>等謹案䝉隱集二巻宋陳棣撰棣始末諸<lb/>
+　　　　書不載惟凌廸知萬姓統譜載陳汝錫字師<lb/>
+　　　　予紹聖四年進士官至浙東安撫使子棣字<lb/>
+　　　　鄂父以父任官至通判潭州今考集中知軍<lb/>
+　　　　劉公挽詞第三首自注稱紹興初先子帥越<lb/>
+<pb n="KR4d0237_WYG_000-1b"/>
+　　　　與汝錫時代官階皆符當即其人惟譜稱通<lb/>
+　　　　判潭州而集中食枸杞菊詩自序稱僕官桐<lb/>
+　　　　川又有我今作椽嘗苦饑句稍為不合或初<lb/>
+　　　　仕為桐川掾後終扵潭州歟集中有甲子除<lb/>
+　　　　夕詩甲子為紹興十四年則猶髙宗時人也<lb/>
+　　　　括蒼彚紀載汝錫嘗有閒愁莫浪遣留為痛<lb/>
+　　　　飲資句為黄庭堅所賞則其家學淵源亦從<lb/>
+　　　　元祐而來棣詩乃於南渡之初已先導宋季<lb/>
+<pb n="KR4d0237_WYG_000-2a"/>
+　　　　江湖之泒葢其足迹㳺厯不過數郡無名山<lb/>
+　　　　大川以豁蕩心胸與所唱和者不過同官丞<lb/>
+　　　　簿數人相與怨老嗟卑又鮮耆宿碩儒以開<lb/>
+　　　　拓學識其詩邊幅稍狹比興稍淺固勢使之<lb/>
+　　　　然然統各體而觀之雖乏鴻篇實殊偽體大<lb/>
+　　　　都平易近情不失風㫖較以生硬晦澁為竒<lb/>
+　　　　偉以鄙俚蕪雜為真切者其品固有間矣宋<lb/>
+　　　　代遺篇日傳日少録而存之俾談藝家見所<lb/>
+<pb n="KR4d0237_WYG_000-2b"/>
+　　　　未見亦稽古者所不廢也自明以來選宋詩<lb/>
+　　　　者皆未及厲鶚作宋詩紀事蒐羅賅博亦不<lb/>
+　　　　載其姓名則原集之佚已久其巻帙多少不<lb/>
+　　　　可復考詩惟一篇題甲子其年月先後亦不<lb/>
+　　　　可知謹從永樂大典所載按體區分釐為上<lb/>
+　　　　下二巻以畧存梗概焉乾隆四十六年九月<lb/>
+　　　　恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+<pb n="KR4d0237_WYG_000-3a"/>
+　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

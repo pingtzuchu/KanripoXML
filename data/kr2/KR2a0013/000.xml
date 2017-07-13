@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>三國史辨誤</head>
+    <p>
+<pb n="KR2a0013_WYG_000-1a"/>
+欽定四庫全書　　　　史部一<lb/>
+　三國史辨誤　　　　　正史類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案三國史辨誤三卷不著撰人名氏<lb/>
+　　　　亦莫詳時代蘇州府志載陳景雲字少章呉<lb/>
+　　　　江縣學生長洲人少從何焯逰博通經史淹<lb/>
+　　　　貫羣籍長扵考訂凡譌謬處能剖析毫芒所<lb/>
+　　　　著書凡九種其四為三國志校誤似即此書<lb/>
+<pb n="KR2a0013_WYG_000-1b"/>
+　　　　然考義門讀書記中有何焯所校三國志三<lb/>
+　　　　卷其魏志楊阜傳阜嘗見明帝著帽披縹綾<lb/>
+　　　　半裦䄂一條稱裦袖古今字少章疑一字衍<lb/>
+　　　　檢宋書五行志果然云云此書不載此條則<lb/>
+　　　　又似非景雲作疑不能明闕所不知可也三<lb/>
+　　　　國志簡質有法古稱良史而牴牾亦所不免<lb/>
+　　　　如孫權之攻合肥魏呉二志先後不同當時<lb/>
+　　　　已為孫盛所議明以來南北監本傳寫刋刻<lb/>
+<pb n="KR2a0013_WYG_000-2a"/>
+　　　　脫誤尤多是書所辨陳書及裴註之誤凡魏<lb/>
+　　　　志二十八條蜀志入條呉志二十一條其間<lb/>
+　　　　於字之訛異者如三少帝紀定陵侯繁繁當<lb/>
+　　　　作毓少府褒褒當作袤之類於文之倒置者<lb/>
+　　　　如正元二年八月戊辰不當在辛未後之類<lb/>
+　　　　於正文無註淆亂者如王肅傳評末附劉實<lb/>
+　　　　語本裴註所引之類於原本之缺佚者如徐<lb/>
+　　　　詳不當附胡綜傳之類並叅校異同各有根<lb/>
+<pb n="KR2a0013_WYG_000-2b"/>
+　　　　據雖所辨僅數十條不能如何焯書校正之<lb/>
+　　　　詳而不似焯之泛作史評又大抵以前後文<lb/>
+　　　　互相考證叅以後漢書晉書不能如杭世駿<lb/>
+　　　　書徴據之博而亦不似世駿之蔓引雜説其<lb/>
+　　　　抉摘精審之處要不減三劉之於西漢書呉<lb/>
+　　　　縝之於五代史也乾隆四十六年九月恭校<lb/>
+　　　　上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫純<hi>臣</hi>孫士毅<lb/>
+<pb n="KR2a0013_WYG_000-3a"/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2a0029_WYG_191-1a"/>
+　舊五代史巻九十五攷證<lb/>
+晉列傳十皇甫遇𫝊常山人也　案歐陽史作常山真<lb/>
+　定人<lb/>
+假令失此二将將何面目以見天子　案通鑑作坐失<lb/>
+　皇甫太師吾屬何顔以見天子胡三省注云皇甫遇<lb/>
+　未必加官至太師也而安審琦以太師稱之葢五季<lb/>
+　之亂官賞無章當時相稱謂不論其品秩就人臣極<lb/>
+　品而稱之据是書遇累官至檢校太師審琦盖稱其<lb/>
+<pb n="KR2a0029_WYG_191-1b"/>
+　檢校之官也胡注似未詳考<lb/>
+梁漢璋傳與契丹騎五千相遇于浮陽之北界苦戰竟<lb/>
+　日以衆寡不侔為流矢所中殁陣　案遼史髙模翰<lb/>
+　傳云晉以魏府節度使杜重威領兵三十萬来拒模<lb/>
+　翰以麾下三百人逆戰殺其先鋒梁漢璋餘兵敗走<lb/>
+　與是書異考通鑑云杜威等至瀛州聞契丹将髙模<lb/>
+　翰先已引兵潜出威遣梁漢璋将二千騎追之遇契<lb/>
+　丹于南陽務敗死盖漢璋以二千騎當敵騎五千衆<lb/>
+<pb n="KR2a0029_WYG_191-2a"/>
+　寡不侔以致敗績遼史恐不足據<lb/>
+周瓌𫝊暉遂掠城中財帛士女欲奔江南尋為其下所<lb/>
+　殺　案歐陽史作王暉南走為從進兵所殺與是書<lb/>
+　異通鑑作暉時奔吴部將胡進殺之與是書同<lb/>
+沈贇𫝊契丹以精騎剗其門邀之州兵䧟賊　案歐陽<lb/>
+　史作斌兵多死通鑑作契丹以精騎奪其城門州兵不<lb/>
+　得還<lb/>
+吴巒𫝊即與雲州將吏闔門拒守契丹大怒攻之半嵗<lb/>
+<pb n="KR2a0029_WYG_191-2b"/>
+　不能下髙祖致書于契丹乃解闈而去　案遼史太<lb/>
+　宗紀云唐大同軍節度判官吴巒嬰城拒命遣崔廷<lb/>
+　勲闈其城庚申上親征至城下諭之巒降與是書異<lb/>
+　通鑑從是書<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　舊五代史巻九十五攷證<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

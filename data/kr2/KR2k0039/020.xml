@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2k0039_WYG_020-1a"/>
+欽定四庫全書<lb/>
+欽定皇輿西域圖志巻六<lb/>
+　晷度<lb/>
+　　<hi>臣</hi>等謹按古地理之書類載天文分野誠以周天<lb/>
+　　三百六十度應大地七萬二千里憑地測天數緣<lb/>
+　　理顯非如占驗禨祥恍忽侔揣者可比也人居地<lb/>
+　　面有南北則北極出地有髙下而晝夜之長短因<lb/>
+　　以不同是為南北里差人居地面有東西則見時<lb/>
+<pb n="KR2k0039_WYG_020-1b"/>
+　　刻有早晚偏東一度見時應遲四分偏西一度見<lb/>
+　　時應早四分是為東西里差測量之法在先定京<lb/>
+　　師北極之髙四十度以定緯次定京師西距中線<lb/>
+　　四十二度以定經由是推之自北極髙四十度至<lb/>
+　　四十七度為西域緯度自京師偏西二十度至四<lb/>
+　　十二度為西域經度其晝夜刻分午正日景即無<lb/>
+　　難按次而攷<lb/>
+　國家戡定西陲<lb/>
+<pb n="KR2k0039_WYG_020-2a"/>
+特命推歩之臣先俊乗傳測量凖道里之逺近憑彝器<lb/>
+　　以審求俯察仰觀弗踰銖黍既加詳於都㑹之區<lb/>
+　　亦不遺於邉境所届此固信而可徵者矣若分野<lb/>
+　　之法始於周禮以星分辨九州之地而不及九州<lb/>
+　　以外其在四裔外藩即以附近分野之星牽連統<lb/>
+　　屬如鶉首為秦分春秋時未有武威張掖酒泉敦<lb/>
+　　煌之地也漢置為郡不過附於鶉首之次今西域<lb/>
+　　拓地二萬餘里欲以秦屬井鬼之説統之則井鬼<lb/>
+<pb n="KR2k0039_WYG_020-2b"/>
+　　之次晰之至於無可晰非通論也伏讀<lb/>
+御製毛晃禹貢指南詩注闡論雍州兩星之難槩伊犂<lb/>
+　　葉爾羌諸境<lb/>
+睿裁超卓曠若發䝉因灼然於古来分野之説之不可<lb/>
+　　可信既數有所窮亦理原難據未敢因仍傅㑹致<lb/>
+　　滋岐誤爰舉極度晷景髙卑贏縮之數著於篇志<lb/>
+　　晷度第四<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

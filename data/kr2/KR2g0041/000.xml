@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>元儒考畧</head>
+    <p>
+<pb n="KR2g0041_WYG_000-1a"/>
+欽定四庫全書　　　　　史部七<lb/>
+　元儒考畧　　　　　　　傳記𩔖三<hi>總録之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案元儒考畧四卷明馮從吾撰從吾<lb/>
+　　　　字仲好長安人萬厯已丑進士改庶吉士又<lb/>
+　　　　改御史以上疏言事廷杖厯遷左副都御史<lb/>
+　　　　以爭紅丸挺擊事乞歸起工部尚書以疾辭<lb/>
+　　　　後竟削奪及奄黨敗詔復官謚恭定事蹟具<lb/>
+<pb n="KR2g0041_WYG_000-1b"/>
+　　　　明史本𫝊是編乃集元代諸儒事實各為小<lb/>
+　　　　𫝊大抵以元史儒學𫝊為主而旁採志乗附<lb/>
+　　　　益之中有大書特𫝊者亦有細書附𫝊者皆<lb/>
+　　　　據其學術之髙下以為進退體例頗為<graphic n="KR1244" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1244.png" mimeType="image/png"/>碎<lb/>
+　　　　又名姓往往乖斘如歐陽元别號圭齋今乃<lb/>
+　　　　竟題作歐陽圭既以號作名又刪去一字校<lb/>
+　　　　讐亦未免太疎然宋儒好附門墻於淵源最<lb/>
+　　　　悉明儒喜爭同異於宗派尤詳語録學案動<lb/>
+<pb n="KR2g0041_WYG_000-2a"/>
+　　　　　輒災梨不啻汗牛充棟惟元儒篤實不甚近<lb/>
+　　　　　名故講學之書𫝊世者絶少亦無滙合諸家<lb/>
+　　　　　勒為一帙以著相𫝊之系者從吾掇拾殘剰<lb/>
+　　　　　補輯此編以畧見一代儒林之梗槩存之亦<lb/>
+　　　　　足資考證物有以少見珍者此之謂歟乾隆<lb/>
+　　　　　四十七年三月恭校上<lb/>
+　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

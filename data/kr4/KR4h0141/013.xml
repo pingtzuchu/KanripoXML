@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_013-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選巻十三<lb/>
+　　霜類<lb/>
+　　　五言古<lb/>
+　　　　詠霜　　　　　　　　　　<hi>梁</hi>張　率<lb/>
+　駟見視乾度鐘鳴測地機秋冬交代序朝霜白綏綏原<lb/>
+　野生暮靄堦墀散夕霏徘徊總嚴氣悵望淪清輝平臺<lb/>
+　寒月色池水愴風威凝隂同徂夜遰雁獨歸飛縈叢亂<lb/>
+<pb n="KR4h0141_WYG_013-1b"/>
+　蕪絶繁林紛已稀貞松非受令芳草徒具腓<lb/>
+　　　　新霜　　　　　　　　　　<hi>宋</hi>文　同<lb/>
+　新霜著庭樹葉下如猛剉蕭然物容改有若懼凌挫砌<lb/>
+　下丹橘落牆邊紫榴破精光竹勁健阻喪柳怯懦覽景<lb/>
+　惜向晚感時驚忽過勝事實可樂閒愁本堪唾何當<lb/>
+　共嘉客對此酌香糯<lb/>
+　　　五言律<lb/>
+　　　　詠霜　　　　　　　　　　<hi>唐</hi>蘇味道<lb/>
+<pb n="KR4h0141_WYG_013-2a"/>
+金祇暮律盡玉女暝氛歸孕冷隨鐘徹飄華逐劒飛帶<lb/>
+日浮寒影乗風進晩威自有貞筠質寧将衆草腓<lb/>
+　　　新霜　　　　　　　　　　<hi>宋</hi>孔平仲<lb/>
+皎皎寒月白清晨霜滿林萌芽至今日肅殺爾何心入<lb/>
+水成氷暈迷天作雪隂自兹開火閣却坐小窗深<lb/>
+　　　答霜晴詩　　　　　　　　<hi>元</hi>陳　深<lb/>
+旭日照蕭晨凄清不受塵冷光明似雪冬暖勝如春紅<lb/>
+葉輝相照黄花色愈新南窗差可愛曝背豁天真<lb/>
+<pb n="KR4h0141_WYG_013-2b"/>
+　　　其二<lb/>
+朝暾上髙樹霧巻海天遥勁氣乗寒凝嚴威見日消鐘<lb/>
+清出逺寺馬滑恐危橋稍偪南枝暖疎花破寂寥<lb/>
+　　五言排律<lb/>
+　　　白露為霜　　　　　　　　<hi>唐</hi>顔　粲<lb/>
+悲秋将嵗晩繁露已成霜徧渚蘆先白霑籬菊自黄應<lb/>
+鐘鳴逺寺擁鴈度三湘氣逼襦衣薄寒侵宵夢長滿庭<lb/>
+添月色拂水斂荷香獨念蓬門下窮年在一方<lb/>
+<pb n="KR4h0141_WYG_013-3a"/>
+　　七言律<lb/>
+　　　霜花　　　　　　　　　　<hi>元</hi>謝宗可<lb/>
+粲粲璚英借露浮日髙還付水東流剪裁應費金神巧<lb/>
+開落從教玉女愁有豔淡粧宫瓦曉無根寒壓版橋秋<lb/>
+五更不怕樓頭角吹到梅花特地羞<lb/>
+　　五言絶句<lb/>
+　　　公安早行　　　　　　　　<hi>元</hi>宋　褧<lb/>
+誤聽野雞鳴揚鞭趣驛程平明見茅屋方覺冐霜行<lb/>
+<pb n="KR4h0141_WYG_013-3b"/>
+　　七言絶句<lb/>
+　　　城内花園值春霜　　　　　<hi>唐</hi>劉禹錫<lb/>
+樓下芳園最占春年年結伴采花頻繁霜一夜相撩治<lb/>
+不似佳人似老人<lb/>
+　　　代祕書贈𢎞文館諸校書　　<hi>唐</hi>李商隱<lb/>
+淸切曹司近玉除比來秋興復何如崇文館裏新霜後<lb/>
+無限紅棃憶校書<lb/>
+　　　宫詞　　　　　　　　　　<hi>唐</hi>王　涯<lb/>
+<pb n="KR4h0141_WYG_013-4a"/>
+銀缾瀉水向朝粧燭燄紅髙粉壁光共怪滿衣珠翠冷<lb/>
+黄花瓦上有新霜<lb/>
+　　　城頭晩步　　　　　　　　<hi>宋</hi>楊萬里<lb/>
+古城秋後不勝荒人迹新行一逕長竹影巳揺将午日<lb/>
+草根猶有夜來霜<lb/>
+　　　霜曉　　　　　　　　　　　楊萬里<lb/>
+荒荒瘦日作秋暉稍稍微暄破曉霏只有江楓偏得意<lb/>
+夜挼霜水染紅衣<lb/>
+<pb n="KR4h0141_WYG_013-4b"/>
+　　　十月十五夜作　　　　　　<hi>金</hi>朱之才<lb/>
+披衣開户幾宵興永夜無眠冷不勝坐覺飛霜明屋瓦<lb/>
+天如寒鑑月如氷<lb/>
+　　　明安驛道中　　　　　　　<hi>元</hi>陳　孚<lb/>
+野鵲山頭野草黄野狐嶺上月茫茫五更但覺天風冷<lb/>
+帳頂青氊一寸霜<lb/>
+　　　山居吟　　　　　　　　　<hi>元</hi>僧清珙<lb/>
+半窗斜日冷生光破衲䝉頭坐竹牀枯葉滿爐燒燄火<lb/>
+<pb n="KR4h0141_WYG_013-5a"/>
+　不知屋上有新霜<lb/>
+　　　　宫詞　　　　　　　　　　<hi>明</hi>陳　沂<lb/>
+　翠荇紅蓮水殿香不知簾外易生凉夜來許賜金莖露<lb/>
+　明日驚看玉樹霜<lb/>
+　　　　泊長蕩　　　　　　　　<hi>明</hi>朱多炡<lb/>
+　蒹葭一望暮蒼蒼長蕩湖頭煙水長怪道今朝楓葉盡<lb/>
+　夜來七十二橋霜<lb/>
+　<lb/>
+<pb n="KR4h0141_WYG_013-5b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選巻十三<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

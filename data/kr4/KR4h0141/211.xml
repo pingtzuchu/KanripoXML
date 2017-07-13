@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_211-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選巻二百十一<lb/>
+　　文具類<lb/>
+　　　五言古<lb/>
+　　　　詠茟格　　　　　　　　　<hi>梁</hi>簡文帝<lb/>
+　英華表玉笈佳麗稱蛛網無如兹制竒雕飾雜衆象仰<lb/>
+　出寫含花横挿學仙掌幸因提拾用遂厠璇臺賞<lb/>
+　　　　裴侍郎湘川廻以青竹筒相遺因贈<lb/>
+<pb n="KR4h0141_WYG_211-1b"/>
+　　　　　　　　　　　　　　　　<hi>唐</hi>錢　起<lb/>
+　楚竹青玉潤從来湘水隂緘書取直節君子知虚心入<lb/>
+　用隨憲簡積文不受金體將丹鳳直色映秋霜深寧肯<lb/>
+　假伶倫謬為鸞鳳吟惟將翰苑客珍秘瑶華音長跪捧<lb/>
+　嘉貺歲寒慚所欽<lb/>
+　　　七言古<lb/>
+　　　　詶宇文少府見贈桃竹書筒　<hi>唐</hi>李　白<lb/>
+　桃竹書筒綺繡文良工巧妙稱絶羣靈心圓映三江月<lb/>
+<pb n="KR4h0141_WYG_211-2a"/>
+彩質疊成五色雲中蔵寳訣峨睂去千里提擕長憶君<lb/>
+　　　西域種羊皮書褥歌　　　　<hi>元</hi>吴　莱<lb/>
+波斯谷中神夜語波斯牧羊俱雜鹵當道剚刃羊可食<lb/>
+土城畱種羊脛骨四圍築垣聞杵聲羊子還從脛骨生<lb/>
+青草叢抽臍未斷馬蹄踣鐵繞垣行羊子跳踉却在草<lb/>
+䑕王如拳不同老飫肉筵開塞饌肥裁皮褥作書林寶<lb/>
+南州俠客遇西人昔得手褥今無倫君不見冰蠶之錦<lb/>
+欲盈尺康洽年来貧不貧<lb/>
+<pb n="KR4h0141_WYG_211-2b"/>
+　　五言律<lb/>
+　　　詩牌　　　　　　　　　　<hi>宋</hi>林　逋<lb/>
+矗方標勝概讀處即忘歸靜壁懸虚白危樓釘翠微清<lb/>
+銜時亦有絶唱世還稀一片題誰作吾廬水竹圍<lb/>
+　　　詩筒　　　　　　　　　　　林　逋<lb/>
+唐賢存雅製<hi>元白唱和常以竹筒貯詩往還</hi>詩筆仰防閑遞去權應緊<lb/>
+<hi>詩權出薛許昌</hi>封廻債巳還<hi>詩債出賈司倉</hi>帶斑猶恐俗和節不辭艱<lb/>
+酒篋将書簏誰言季孟間<lb/>
+<pb n="KR4h0141_WYG_211-3a"/>
+　　七言律<lb/>
+　　　題飛伯詩囊　　　　　　　<hi>金</hi>李獻能<lb/>
+穎露毛錐秖自賢智如樗腹但求全迂疎差似淵才富<lb/>
+羞澀猶無杜老錢收拾珠璣三萬斛貯儲風月一千篇<lb/>
+嘔心大勝奚奴錦要與風人被管絃<lb/>
+　　　逺山筆架<hi>痕字</hi>　　　　　　<hi>元</hi>劉　因<lb/>
+何物能支筆萬鈞案頭依約逺山痕燈横煙影隠猶見<lb/>
+秋入霜毫勢欲吞掌上三峰看太華人間一髪是中原<lb/>
+<pb n="KR4h0141_WYG_211-3b"/>
+中書未免從髙閣不向林泉怨少恩<lb/>
+　　　詩瓢<lb/>
+雨蔓霜蕂老翠壺吟邉不是酒葫蘆剖開架上輪囷玉<lb/>
+著盡胷中錯落珠滿貯苦心留宇宙深蔵精氣付江湖<lb/>
+誰家半腹能千首為問山人果在無<lb/>
+　　　冰蟾<hi>水滴也</hi>為金齊賢賦　　　<hi>元</hi>張　翥<lb/>
+老蟾素魄稟金精千嵗玻璃幻結成明水夜零隂隧凍<lb/>
+丹書秋滿肉芝生腹凝寒露蔵虚白影入銀河浴太清<lb/>
+<pb n="KR4h0141_WYG_211-4a"/>
+擬問嫦娥乞靈藥與君騎向廣寒行<lb/>
+　　　水晶筆架<lb/>
+三峰近列硯池頭光照文房爛不收冰壑夜寒龍獨卧<lb/>
+雪山春煖兎羣逰彩毫倚閣功應就銀管依棲價未酬<lb/>
+别有珊瑚新琢様策勲畢竟是誰優<lb/>
+　　　師邵出意作綸竿於牆上以便遞詩名曰詩釣<lb/>
+　　　　首唱一篇依韻奉酬　　　<hi>明</hi>顧　清<lb/>
+巧心文思孰兼長詩釣詩成又幾章千里浮沈謝江路<lb/>
+<pb n="KR4h0141_WYG_211-4b"/>
+一竿風月共鄰牆君如縁木求魴鯉我正懷甎想珮璜<lb/>
+畢竟兩無名利念五湖煙水舊同鄉<lb/>
+　　　書尺<lb/>
+文木裁成體直方髙齋時伴校書郎坐攤㪚帙資彈壓<lb/>
+風動殘編待主張葉葉展舒迎雪牖行行指㸃照螢囊<lb/>
+但知持正無偏倚尺寸何勞計短長<lb/>
+　　五言絶句<lb/>
+　　　書架　　　　　　　　　　<hi>宋</hi>王十朋<lb/>
+<pb n="KR4h0141_WYG_211-5a"/>
+　君富端不俗有錢長買書家蔵三萬軸不怕腹空虚<lb/>
+　　　七言絶句<lb/>
+　　　　槐木紙椎　　　　　　　　<hi>宋</hi>林　逋<lb/>
+　入手輕乾是古槐幾聲清響徹池臺椎餘魚網如脂滑<lb/>
+　時寫新詩更寄来<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR4h0141_WYG_211-5b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選巻二百十一<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

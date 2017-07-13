@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_106-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選卷一百六<lb/>
+　　井類<lb/>
+　　　五言古<lb/>
+　　　　雙桐生空井　　　　　　　<hi>梁</hi>簡文帝<lb/>
+　季月雙桐井新枝雜舊株晩葉藏棲鳯朝花拂曙烏還<lb/>
+　看西子照銀牀繫轆轤<lb/>
+　　　　麟趾殿詠新井　　　　　<hi>北周</hi>宗　懍<lb/>
+<pb n="KR4h0141_WYG_106-1b"/>
+　當為醴泉出先令浪井開銅新九龍殿石勝凌雲臺<lb/>
+　　　　道次靈井　　　　　　　　<hi>宋</hi>梅堯臣<lb/>
+　井面水不動傍分龍鱗激泉氣時生漚上湧光的皪深<lb/>
+　苔翠堪染石底清可覿旱嵗或来祠彈絃屬靈覡<lb/>
+　　　　無波古井水　　　　　　　<hi>元</hi>張　雨<lb/>
+　古井何泓然不食自甘冷去来絶攀縁挽斷轆轤綆惟<lb/>
+　有中宵月圎中時照影<lb/>
+　　　五言律<lb/>
+<pb n="KR4h0141_WYG_106-2a"/>
+　　　詠井　　　　　　　　　　<hi>唐</hi>李　嶠<lb/>
+玉甃談仙客銅臺賞魏君蜀都宵映火杞國旦生雲向<lb/>
+日蓮花淨含風李樹薫已開千里國還聚五星文<lb/>
+　　　井　　　　　　　　　　　<hi>唐</hi>蘇味道<lb/>
+玲瓏映玉檻澄澈瀉銀牀流聲集孔雀帶影出羵羊桐<lb/>
+落秋蛙散桃舒春錦芳帝力終何有機心庶此忘<lb/>
+　　　奉試冷井　　　　　　　　<hi>唐</hi>孫　欣<lb/>
+仙闈井初鑿靈液沁成泉色湛青苔裏寒凝紫綆邊銅<lb/>
+<pb n="KR4h0141_WYG_106-2b"/>
+瓶向影落玊甃抱虚圎永願調神鼎堯時泰萬年<lb/>
+　　　和崔校書新穿井　　　　　<hi>唐</hi>章孝標<lb/>
+霜鍤破桐隂青絲試淺深月輪開地脉鏡面寫天心碧<lb/>
+甃花千片香泉乳百尋欲知爭汲引聽取轆轤音<lb/>
+　　　觀山寺僧穿井　　　　　　<hi>唐</hi>曹　松<lb/>
+雲僧鑿山井寒碧在中庭况是分巖眼同来下石瓶旁<lb/>
+痕終變蘚圎影即澄星異夜天龍蟄應聞說葉經<lb/>
+　　五言排律<lb/>
+<pb n="KR4h0141_WYG_106-3a"/>
+　　　同朱五題盧使君義井　　　<hi>唐</hi>髙　適<lb/>
+髙義惟良牧深仁自下車寧知鑿井處還是飲冰餘地<lb/>
+即泉源久人當汲引初體清能鑒物色淡每含虚上善<lb/>
+滋来徃中和浹里閭濟時應未竭懐惠復何如<lb/>
+　　七言律<lb/>
+　　　奉和彭祖井　　　　　　　<hi>唐</hi>皇甫冉<lb/>
+上公旌節在徐方舊井莓苔近寝堂訪古因知彭祖宅<lb/>
+得仙何必葛洪郷清虚不共春池競盥潄偏宜夏日長<lb/>
+<pb n="KR4h0141_WYG_106-3b"/>
+聞道延年如玊液欲將調鼎獻明光<lb/>
+　　　山井　　　　　　　　　　<hi>唐</hi>方　干<lb/>
+灔灧濕光凌竹樹寥寥清氣襲衣襟不知側穴通潮信<lb/>
+却訝輕漣動鏡心夜久即疑星影過早来猶見石痕深<lb/>
+轆轤用智終何益抱甕遺名亦至今<lb/>
+　　　景福殿井水　　　　　　　<hi>宋</hi>梅堯臣<lb/>
+宫井蛟龍夭矯垂曉瓶初汲渴禽窺清泠已向金盆貯<lb/>
+甘滑還從玉椀知九醞酒醇由此得小團茶味為㽞遲<lb/>
+<pb n="KR4h0141_WYG_106-4a"/>
+閣門地脉應相似翰苑曽邀詠昔詩<lb/>
+　　五言絶句<lb/>
+　　　石井　　　　　　　　　　<hi>唐</hi>錢　起<lb/>
+片霞照仙井泉底桃花紅那知幽石下不與武陵通<lb/>
+　　　石井　　　　　　　　　　<hi>唐</hi>司空曙<lb/>
+苔色遍春石桐隂入寒井幽人獨汲時先落殘陽影<lb/>
+　　　冰壺井　　　　　　　　　<hi>明</hi>謝　恭<lb/>
+玉泉百尺深古甃涵光冷何以鑑虚明參差轆轤影<lb/>
+<pb n="KR4h0141_WYG_106-4b"/>
+　　七言絶句<lb/>
+　　　野井　　　　　　　　　　<hi>唐</hi>郭　震<lb/>
+縱無汲引味清淳冷浸寒空月一輪鑿處若敎當要路<lb/>
+為君常濟徃来人<lb/>
+　　　曉井　　　　　　　　　　<hi>唐</hi>李　郢<lb/>
+桐隂覆井月斜明百尺寒泉古甃清越女攜瓶下金索<lb/>
+曉天初放轆轤聲<lb/>
+　　　野井　　　　　　　　　　<hi>唐</hi>陸龜蒙<lb/>
+<pb n="KR4h0141_WYG_106-5a"/>
+　朱閣前頭露井多碧梧桐下羙人過寒泉未必能如此<lb/>
+　奈有銀瓶素綆何<lb/>
+　　　　新井　　　　　　　　　　<hi>宋</hi>梅堯臣<lb/>
+　淺淺清泉自鑑開鱗鱗寒甃未生苔山中亭午野禽渴<lb/>
+　不畏人驚欲下来<lb/>
+　　　　鍊丹井　　　　　　　　　<hi>宋</hi>蘇　轍<lb/>
+　鑿井燒丹八百年塵縁消盡果初圎石牀蘚甃人難到<lb/>
+　緑水團團一片天<lb/>
+<pb n="KR4h0141_WYG_106-5b"/>
+　　　　蓮井　　　　　　　　　　<hi>明</hi>僧大冏<lb/>
+　銀牀露下夜如何鼻觀生香靜不波性水真空無熱惱<lb/>
+　定光院裏月明多<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選卷一百六<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

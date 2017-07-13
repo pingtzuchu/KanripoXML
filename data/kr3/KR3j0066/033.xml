@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>通雅卷三十三</head>
+    <p>
+<pb n="KR3j0066_WYG_033-1a"/>
+欽定四庫全書<lb/>
+　通雅卷三十三　　　　　明　方以智　撰<lb/>
+　　器用<hi>古器</hi>
+古器有款識謂其有窾而可識也山文葉文雲雷鈿窠<lb/>
+綰綽篆識皆款識也　巵言曰款是隂字凹入者識是<lb/>
+陽字挺出者此因博古圖之説也博古圖又云款在外<lb/>
+識在内夏器有款有識商器無款無識識音熾智按始<lb/>
+于爾雅鼎款足謂之鬲史封禪書汾隂巫錦掊視得鼎<lb/>
+<pb n="KR3j0066_WYG_033-1b"/>
+大異于衆鼎文鏤無款識注師古曰款刻也識記也説<lb/>
+文□從□省毛氏曰從出省從土作款今作欵本象出<lb/>
+氣紆曲因以肯䏿加穴為窾而誠款因之然古通也莊<lb/>
+子導大窾又用款啟寡聞之人即窾䏿也司馬遷𫝊實<lb/>
+不中其聲者謂之款注空也後人因此見器之形製謂<lb/>
+之款様蓋謂其有款而可識凹凸附會之説也井觀瑣<lb/>
+言曰宣和博古圖天子好之童蔡逢迎之幾何不偽古<lb/>
+器仰曰山文俯曰葉文因山文向上葉文垂下而立此<lb/>
+<pb n="KR3j0066_WYG_033-2a"/>
+名也雲回相綰綽古銘借其義用祈綰綽後人謂其地<lb/>
+曰鈿窠或又分花紋為款篆刻為識皆因形分立之名<lb/>
+古器謂之匫辯之者固有其道也　説文□古器也呼<lb/>
+骨切箋曰今謂骨董即匫董之訛也九成引張子賢曰<lb/>
+辯古器則有所謂款識臘茶色朱砂斑真青緑井口之<lb/>
+類方為真古其製作有雲紋雷紋山紋輕重雷紋垂花<lb/>
+雷紋鱗紋細紋粟紋蟬紋黄目飛㢘饕餐蛟螭虬龍麟<lb/>
+鳳熊虎龜蛇鹿馬象鸞䕫犧蜼鳬雙魚蟠虺如意圜絡<lb/>
+<pb n="KR3j0066_WYG_033-2b"/>
+盤雲百乳鸚耳貫耳偃耳直耳附耳挾耳獸耳虎耳獸<lb/>
+足䕫足百獸三螭穟草瑞草篆帶<hi>若虯結之勢</hi>星帶<hi>四旁飾以星象</hi>
+輔乳<hi>鐘名用以節樂者</hi>碎乳<hi>鐘名大乳三十六外復有小乳周之</hi>立䕫雙䕫之類<lb/>
+凡古器制度一有合此則以名之如雲雷鐘鹿馬洗鸚<lb/>
+耳壺之類是也如有款識則以款識名如周叔液鼎齊<lb/>
+侯鐘之類是也古器之名則有鐘<hi>大曰特中曰鎛小曰編</hi>鼎尊罍<lb/>
+彞舟<hi>類洗而有耳</hi>卣<hi>音酉又音由中尊器/也有攀蓋足類壺</hi>瓶爵斗<hi>有耳有流有足流即</hi>
+<hi>觜也</hi>巵觶<hi>之豉切/酒觴也</hi>角<hi>類彝而/無柱</hi>桮敦簠<hi>其形/方</hi>簋<hi>類鼎而矮蓋有四足</hi>豆<lb/>
+<pb n="KR3j0066_WYG_033-3a"/>
+甗<hi>牛偃切無底甑也</hi>錠<hi>徒徑切又/都定切</hi>斚觚鬲<hi>形製同鼎漢志/謂空足曰鬲</hi>鍑<hi>才宥</hi>
+<hi>切玉篇云似釜而大其實類小瓮而有環</hi>盉<hi>戸戈切又胡卧切盛五味之器也似鼎而有蓋有觜有執攀</hi>
+壺<hi>其類有四曰員曰匾曰方曰盪</hi>盫<hi>於含切覆蓋也似洗様/而腰大有足有提攀</hi>瓿<hi>蒲後切類壺而</hi>
+<hi>矮</hi>鋪<hi>類豆鋪陳/薦獻之義</hi>罌<hi>類/釜</hi>鑑<hi>盛水器上方如斗鏤底/如風忩下設盤以盛之</hi>匜<hi>代支切沃</hi>
+<hi>盥器</hi>盤洗盆鋗<hi>呼𤣥切類洗玉/篇云小盆也</hi>杅磬錞鐸鉦<hi>類鐘而矮</hi>鐃戚鐓<lb/>
+<hi>飾物柄者</hi>奩鑑<hi>即鏡</hi>節鉞戈矛盾弩機表坐旂鈴刀筆杖頭蹲<lb/>
+龍<hi>宫廟乗輿之飾或云闌楯閒物</hi>鳩車<hi>兒戲之具</hi>提梁龜蛇硯滴車輅托轅<lb/>
+之屬此其大槩趙希鵠洞天清録集古鐘鼎彞器辯云<lb/>
+<pb n="KR3j0066_WYG_033-3b"/>
+夏尚忠商尚質周尚文其制器亦然商器質素無文周<lb/>
+器雕篆細密此固一定不易之論而夏器獨不然余嘗<lb/>
+見夏琱戈于銅上相嵌以金其細如髮夏器大抵皆然<lb/>
+嵗久金脱則成隂窾以其刻畫者成凹也銅器入土千<lb/>
+年純青如鋪翠其色子後稍淡午後乗隂氣翠潤欲滴<lb/>
+間有土<graphic n="KR1882" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1882.png" mimeType="image/png"/>處或穿或剥並如蝸篆自然或有斧痕則是<lb/>
+偽也銅器墜水千年則純緑而瑩如玉未及千年緑而<lb/>
+不瑩其<graphic n="KR1882" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1882.png" mimeType="image/png"/>處如前今人皆以此二品體輕者為古不知<lb/>
+<pb n="KR3j0066_WYG_033-4a"/>
+器大而厚者銅性未盡其重止能減三分之一或減半<lb/>
+器小而薄者銅性為水土蒸淘亦盡至有鉏擊破處並<lb/>
+不見銅色惟翠緑徹骨或其中有一線紅色如丹然尚<lb/>
+有銅聲𫝊世古則不曾入水土惟流𫝊人間色紫褐而<lb/>
+有硃砂斑甚者其斑凸起如上等辰砂入釜以沸湯煮<lb/>
+之良久斑愈見偽者以漆調朱為之易辯也三等古銅<lb/>
+並無腥氣惟上古新出土尚帶土氣久則否若偽作者<lb/>
+熱摩手心以擦之銅腥觸鼻偽古銅器其法以水銀雜<lb/>
+<pb n="KR3j0066_WYG_033-4b"/>
+錫末即今磨鏡藥是也先上在新銅器上令勻然後以<lb/>
+釅醋調細碙砂末筆蘸勻上候如臘茶面色急入新汲<lb/>
+水滿浸即成臘茶色候如漆急入新水浸成漆色浸稍<lb/>
+緩即變色矣若不入水則成純翠色三者並以新布擦<lb/>
+令光瑩其銅腥為水銀所匱並不發露然古銅聲微而<lb/>
+清新銅聲濁而閧不能逃識者之見薛尚功款識法帖<lb/>
+及廣鐘鼎韻宣和博古圖吕大臨考古圖王球嘯堂集<lb/>
+古録黄睿東觀餘論董逌廣川書跋等書皆當熟味徧<lb/>
+<pb n="KR3j0066_WYG_033-5a"/>
+參而斷之以經庶可言精鑒也今宣銅罏永成宣嘉之<lb/>
+窑器果園厰漆器宫川扇蘇金扇鏤版之書北源庿岕<lb/>
+之製皆精于古<lb/>
+得董得鞛即得寶也匫董之原也　郭朝請曰唐引船<lb/>
+歌曰得董紇那邪紇那得董邪河裏船車□<hi>即閙字見玉篇</hi>揚<lb/>
+州銅器多得董之得音丁紇反又按唐𤣥宗幸望春樓<lb/>
+觀韋堅新潭陜尉崔成甫錦半臂缺胯緑衫裼之紅袹<lb/>
+首居前船唱得寶歌胡身之注曰先是俚歌曰得體紇<lb/>
+<pb n="KR3j0066_WYG_033-5b"/>
+那邪其後得寶符于桃林成甫乃更紇體歌曰得寶歌<lb/>
+又按計有功唐詩紀事作紇囊得體邪體音都童反則<lb/>
+得體即得董又按太真外𫝊敘此事曰製曲曰得寶子<lb/>
+又曰得<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>方孔反考字書絶無<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>字恐是鞛字乃琫<lb/>
+之俗文因思鞛董聲近觀成甫因得董為得寶可知唐<lb/>
+人方言呼寶為鞛而得董紇那之音即今骨董二字之<lb/>
+原靈詧討賀莫達干立黑姓骨咄則此語從外國來唐<lb/>
+宋小紀又有骨篤犀故轉為骨董而説文有匫字古器也<lb/>
+<pb n="KR3j0066_WYG_033-6a"/>
+其唐人所附乎指南引名物考言惠州有骨董羮則鶻<lb/>
+突羮耳南齊書扶南𫝊遣那伽仙獻瑠璃蘇鉝二口或<lb/>
+曰鉝即<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>然無據或曰<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>撈轉為搜拉之聲御覽載林<lb/>
+邑記蘇鉝音正乃立之訛<lb/>
+古以鼎為重器本象作□　伯厚似孫詳載諸名升菴<lb/>
+抄之無所考辯元美元瑞俱未有定論兹約存其槩耳<lb/>
+别集諸公辯難自為一目以備參考子華子黄帝采銅<lb/>
+首山鑄神鼎曹植有黄帝三鼎贊墨子夏后鑄鼎四足<lb/>
+<pb n="KR3j0066_WYG_033-6b"/>
+而方説文禹鑄鼎荆山之下帝王世紀在馮翊懐徳之<lb/>
+南史記武王命南宫括史佚展九鼎寶玉威烈王二十<lb/>
+三年九鼎震後漢郡國志雒陽東城門名鼎門九鼎所<lb/>
+從入唐志許康佐九鼎記四卷書目陳太子中庶子鹵<lb/>
+荔撰鼎録一卷録自古鼎形象款識始于夏九鼎終于<lb/>
+王羲之書鼎崔駰達㫖注蔡邕銘論曰吕尚作周太師<lb/>
+封于齊其功銘于昆吾之鼎墨子耕篇夏后開使飛㢘<lb/>
+鑄于昆吾使翁難雉乙卜于白若之龜龜曰鼎成四足<lb/>
+<pb n="KR3j0066_WYG_033-7a"/>
+而方不炊而自亨不舉而自藏不遷而自行乙又言兆<lb/>
+之繇曰饗矣逢逢白雲一南一北一東一西九鼎既成<lb/>
+遷于三國鼎録太公于渭水得玉潢鑄一鼎刻其文曰<lb/>
+璜鼎外紀及説苑吕覽湯時大旱翦髮斷爪身嬰白茅<lb/>
+禱桑林持三足鼎楚詞天問縁鵠飾玉注伊尹修飾玉<lb/>
+鼎以事湯智按此因伊尹負鼎于湯而附會此説論詳<lb/>
+别條淮南周鼎鑄倕使銜其指明大巧之不可為也吕<lb/>
+氏春秋周鼎著饕餐有首無身周鼎著䑕令馬履之為<lb/>
+<pb n="KR3j0066_WYG_033-7b"/>
+其不陽也明堂位崇鼎貫鼎大璜封父龜天子之器也<lb/>
+周膳夫注牢鼎九陪鼎二左傳昭七年晉賜子産莒之<lb/>
+二方鼎金石録有方鼎銘藏岐山張舜民云夏時器也<lb/>
+服䖍云鼎三足則員四足則方吕氏春秋齊攻魯求岑<lb/>
+鼎魯君載他鼎以□齊侯弗信史記秦武王與孟説舉<lb/>
+龍文赤鼎韓非子齊伐魯索讒鼎魯人以其雁□謂贋<lb/>
+也智按此即吕覽岑鼎一事他如正考父鼎郜鼎齊甲<lb/>
+父鼎吳夀夢鼎晉刑鼎衛舒鼎見左傳衛孔悝鼎銘見<lb/>
+<pb n="KR3j0066_WYG_033-8a"/>
+祭統鼎録蕭何為丞相鑄一鼎大如三石罋自表己功<lb/>
+郊祀志夏六月汾隂巫錦為民祠魏雎后土營旁見地<lb/>
+如鈎狀掊視得鼎迎至甘泉至中山晏温有黄雲有麃<lb/>
+過議尊寶鼎東方朔𫝊夏育為鼎官宣帝時美陽得鼎<lb/>
+獻之神爵元年為周康寶鼎立祠未央宫中明帝永平<lb/>
+王雒山出寶鼎廬江太守獻之東觀記廬江獻鼎詔召<lb/>
+鄭眾問齊桓公之鼎在柏寢臺見何書春秋左氏有鼎<lb/>
+事幾眾對狀除郎中郡國志汝南鮦陽注皇覽曰永平<lb/>
+<pb n="KR3j0066_WYG_033-8b"/>
+中葛帔城北祝里社下于土中得銅鼎而銘曰楚武王<lb/>
+之冢竇憲𫝊南單于遺獻古鼎容五斗旁銘曰仲山甫<lb/>
+鼎橋𤣥三鼎東鼎銘建寧二年八月丁丑延公入于玉<lb/>
+堂前廷為司空中鼎銘曰四年延公登于玉堂前為司<lb/>
+徒西鼎銘曰光和元年延公入崇徳前殿為太尉晉成<lb/>
+帝咸和元年宣城春穀縣山岸摧獲石鼎咸康八年廬<lb/>
+江春穀縣留珪夜見光取得玉鼎元嘉十三年武昌縣<lb/>
+章山出神鼎江州刺史南譙王義宣以獻二十一年新<lb/>
+<pb n="KR3j0066_WYG_033-9a"/>
+陽獲古鼎有篆書四十二字雍州刺史蕭思話以獻泰<lb/>
+昭五年南昌獲古銅鼎容斛七斗王景文以獻七年義<lb/>
+陽獲銅鼎吳赤烏寶鼎出臨平湖又出東部<graphic n="KR0789" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0789.png" mimeType="image/png"/>縣南齊<lb/>
+永明二年丹水上下得古鼎一枚唐貞觀二十二年泫<lb/>
+水獲古鼎開元十三年萬年人王慶築垣獲寶鼎五獻<lb/>
+之二十一年眉州獻寶鼎縣本汾隂開元十年獲寶鼎<lb/>
+更名冊府元龜云獲古銅鼎二其大者容一斗咸平三<lb/>
+年乾州獻古銅鼎句中正與杜鎬詳其文曰維六月初<lb/>
+<pb n="KR3j0066_WYG_033-9b"/>
+吉史信父作鬵甗期萬年子子孫孫永寶用宋祥符五<lb/>
+年南康軍獻古鼎皇祐五年鑄鼎十有二員丘用五宗<lb/>
+廟七又作鸞刀命阮逸胡瑗鑄劉敞為新律鐘鼎鸞刀<lb/>
+銘崇寧三年以魏漢津言鑄鼎中曰帝鼐八方曰蒼彤<lb/>
+晶寶魁阜牡風上為鼐銘帝鼐曰隆鼐八鼎曰育明藏<lb/>
+正健順龢潔宣和元年安州得商六鼎上之大觀三年<lb/>
+以鑄鼎之地作寶成宫寶籙宫神霄殿遂為十八鼎博<lb/>
+古圖厯代之鼎形制不一有腹著饕餐而間以雷紋者<lb/>
+<pb n="KR3j0066_WYG_033-10a"/>
+父乙鼎之類是也有鍊色如金著飾簡美者辛鼎癸鼎<lb/>
+之類是也有縁飾旋花竒古可愛者象形鼎横戈父癸<lb/>
+鼎之類是也有密布花雲或作雲雷迅疾之狀者晉姜<lb/>
+鼎雲雷鼎之類是也有隠起饕餐間以雲雷或作細乳<lb/>
+者亞虎父丁鼎文王鼎王伯鼎之類是也或如孟鼎之<lb/>
+侈口中鼎之無文伯碩史頙鼎之至大金銀錯鼒之絶<lb/>
+小或自方如簠或分底如鬲或設蓋如敦曰崇曰貫則<lb/>
+名其國也曰讒曰刑則著其事也曰牢曰陪則設之異<lb/>
+<pb n="KR3j0066_WYG_033-10b"/>
+也曰神曰寶則重之極也智以讒與饞通或作岑可知<lb/>
+其借矣宣徳銅爐最貴濾十二次鎔于鋼格滴格下者<lb/>
+鑄爐餘作他器初倣宋燒斑已用䗶茶本色或栗笳棠<lb/>
+梨褐而末以淡勝其款皆備以乳足㦸魚耳為雅色若<lb/>
+藏經紙而橘皮發光畜火愈妙彩爛善變不似青緑鼎<lb/>
+彝之安銀膽也真適用之神品哉<lb/>
+□手舉酋也　周禮疏彝尊同是酒器盛鬯者為彞盛<lb/>
+酒者為尊堯衢尊虞泰尊夏山罍殷著尊周犧尊著無<lb/>
+<pb n="KR3j0066_WYG_033-11a"/>
+足之尊也周有六尊六彞夏琖殷斚周爵夏雞夷龍勺<lb/>
+殷疏勺周黄目蒲勺夏樽周又有兕觥大尊山尊大罍<lb/>
+瓢齎修概散瓢齎甘瓠割去抵以齊為尊修概散皆漆<lb/>
+尊也詩稱金罍束晳引周公流水汎酒逸詩羽觴隨波<lb/>
+魯有四代尊博古圖有父乙祖乙祖丙父戊祖己巳舉<lb/>
+爵商觚十六商觶三周乙舉尊觶謂之舉也犧象尊全<lb/>
+作犧牛形而開背為尊鄭阮之謬灼然矣鳬尊瓢尊䕫<lb/>
+龍尊犧首罍素犧罍象首罍周斚一十五又有著尊壺<lb/>
+<pb n="KR3j0066_WYG_033-11b"/>
+尊龍鳳方樽蓋商器也漢桂尊秦尊梁孝王有□<hi>即罍</hi>尊<lb/>
+髙紀奉玉巵古作觝師古曰觝飲酒員器也博古圖有<lb/>
+漢建光巵銘曰建光中室有四又漢犧首杯瓠斗螭首<lb/>
+巵雲雷巵蟬紋巵又有漢虎斚髙克尊銘師艅尊銘穆<lb/>
+卣銘曰是寶尊彞子象之子洪作旅卣王錫賔朋用作<lb/>
+毋乙彞梁劉之遴獻古器四種于東宫其一鏤銅鴟夷<lb/>
+<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>二銘曰建平二年造二金銀錯鏤古樽二篆銘曰秦<lb/>
+容城侯適楚之嵗造與元封龜兹澡灌初平澡盤為四<lb/>
+<pb n="KR3j0066_WYG_033-12a"/>
+智按龜兹豈知漢篆此器之偽明矣齊劉悛于司州得<lb/>
+古禮器銅罍瓶豳山銅罍樽銅定鐘各二獻之漢有岐<lb/>
+山銅器章帝章和中出河内悛勔之子非真長也<lb/>
+倅樽副尊也猶之從彞也　韓詩外𫝊晉平公使范昭<lb/>
+觀齊昭願得齊君之倅樽以為夀晏子曰撤去樽孔子<lb/>
+曰不出俎豆之間折衝千里智按周禮以倅為副此云<lb/>
+倅樽必副尊以盛酒也文王方鼎單鼎作尊彞又曰作<lb/>
+從彞何也尊彝宗彞也從去聲即陪鼎之意乃副尊也<lb/>
+<pb n="KR3j0066_WYG_033-12b"/>
+罍為大尊獸尊大尊也　凡上尊曰彞中尊曰卣下尊<lb/>
+曰壺彦逺曰傳曰彞卣罍器也觀上中尊則罍為大尊<lb/>
+可知其制皆云回後因以名甕而壺亦稱尊壺昆吾圜<lb/>
+器也古廷設罍泌水戴延西征記太極殿有大銅樽容<lb/>
+三十斛石虎正會有白龍樽作金龍于東箱樽受龍口<lb/>
+受五十斛晉元會設白獸樽杜舉遺式也唐回紇𫝊貞<lb/>
+觀二十一年陳十部樂設髙坫置朱提瓶其上潛泉浮<lb/>
+酒自左門通坫注之瓶轉受百斛鐐盎回紇數千人飲<lb/>
+<pb n="KR3j0066_WYG_033-13a"/>
+畢尚不能半朱提音殊時諸葛書曰漢嘉金朱提銀唐<lb/>
+之曲州今敘州府城西有朱提山唐有鶴尊背上注酒<lb/>
+則一足倚宋有百寶酒船大抵唐宋皆倣三代鑄尊罍<lb/>
+巵卣之類入博古圖皆三代也白獸樽即白虎尊唐諱<lb/>
+虎作武或作獸<lb/>
+鼎爵卣觶可名舉者杜舉之類也　李公麟得古爵于<lb/>
+夀陽紫金山腹有二字曰己舉王玠獲古爵于洛下有<lb/>
+二字曰丁舉廣川跋周舉鼎曰己爵為舉丁卣為舉此<lb/>
+<pb n="KR3j0066_WYG_033-13b"/>
+鼎亦名舉凡可舉以進皆曰舉杜簣謂之杜舉是也新<lb/>
+平張氏得癸舉人以為觚乃觝也<lb/>
+䜌餗鼎糝鼎也　宋鼎銘曰宋公䜌作餗鼎又宋夫人<lb/>
+鼎銘曰宋君夫人之餗<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>鼎又有叔䜌鼎廣川曰竹書<lb/>
+有宋景公䜌而史為頭曼孫炎以䜌為頭曼合聲今考<lb/>
+班固漢書猶有兠䜌亦著其聲如此古有左鼎陪鼎特<lb/>
+鼎𫝊曰糝謂之餗又曰筍之為菜餗也則餗鼎糝有菜<lb/>
+之鼎也東觀餘論以師春内有宋公名䜌可為此鼎之<lb/>
+<pb n="KR3j0066_WYG_033-14a"/>
+證而陸文裕又疑䜌女為一字不必矣<lb/>
+觴豆實酒之器　武王于觴豆為銘大戴禮踐阼篇言<lb/>
+受師尚父丹書之戒而銘几席諸類也觴豆之銘曰食<lb/>
+自杖食自杖戒之憍憍則逃憍居夭反注盧氏曰無求<lb/>
+醉飽自杖而已考工記以瓦為豆醢人四豆為木齊晏<lb/>
+子言四升為豆以金為之公羊𫝊田狩一曰乾豆注祭<lb/>
+器為狀如鐙乾言以撩薧實豆也晏子所言則量器矣<lb/>
+古器之遺者如祖癸豆姬寏毋豆皆銅豆也瓬豆實三<lb/>
+<pb n="KR3j0066_WYG_033-14b"/>
+而成觳則亦可量也按觴豆固與祭祀之楬豆玉豆有<lb/>
+分蓋嘗用以飲食者非但盛乾物也唐六典光禄式言<lb/>
+簠簋居前各四登鈃次之各六籩豆為後簠簋大居前<lb/>
+籩豆小居後也一升曰爵五升曰散簋實一觳孔穎達<lb/>
+曰籩如豆者皆面徑尺柄尺亦依漢制知之其實皆容<lb/>
+四升説文觶受四升鄭曰受三升者是孔氏曰觥受五<lb/>
+升或七升梓人為飲器勺一升爵一升觚三升爵以獻<lb/>
+而酬以觚一獻而三酬則一豆矣食一豆肉飲一豆酒<lb/>
+<pb n="KR3j0066_WYG_033-15a"/>
+中人之食也康成曰觚當作觶彦逺引作觗智按古豆<lb/>
+與斗通巵觗觶一聲後乃分用<lb/>
+有跗曰鐙無跗曰錠　鐙都藤切錠徒徑切其形若杆<lb/>
+而中施釭有跗者曰鐙無跗者曰錠謂下施足也爾雅<lb/>
+瓦豆謂之豆注即髙鐙也歐陽集古録林華宫行鐙楚<lb/>
+辭蘭膏明燭華鐙錯注鐙錠也徐鉉曰錠中置燭故謂<lb/>
+之鐙今作燈登以肉加又與□異説文曰□禮器也讀<lb/>
+若鐙公食大夫禮大□湆不和實于鐙宰右執鐙左執<lb/>
+<pb n="KR3j0066_WYG_033-15b"/>
+蓋記曰夫人薦豆執校執醴授之執鐙康成曰鐙豆下<lb/>
+跗也授醴之人授夫人以豆則執鐙按鄭非是夫人薦<lb/>
+豆當錯于筵前執醴則當授尸故豆則執校醴則執鐙<lb/>
+豈一豆而執校復執鐙乎酌醴用觶鐙或為觶之跗名<lb/>
+乎蓋登為豆之深者故可以盛湆注膏油其中則可以<lb/>
+然照加錠者所以插燭也今人又謂傾銀曰錠陸孫收<lb/>
+入徑韻博古圖有錠銘曰王氏銅虹燭錠字畫與漢五<lb/>
+鳳鑪相類楚詞之所謂縣火即宋以來之提鐙也王保<lb/>
+<pb n="KR3j0066_WYG_033-16a"/>
+定摭言曰胡鉦與裴慶會犯分者擊以鐵躋鐵躋燈臺<lb/>
+也韓愈短檠歌則呼燈臺為檠今以置燭為錠燭頭曰<lb/>
+燭即管子右手執即尹知章讀即為精謂燼也詩紀注<lb/>
+引作<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>杜陽雜編以燭為脂炬徳山吹滅紙燭乃今紙<lb/>
+撚也<lb/>
+爾雅雖以木瓦分豆登然有銅者執校則豆之跗也執<lb/>
+鐙則醴觶之跗也　廣川曰房中之羞主婦右之則有<lb/>
+羞豆加豆有鐙有校故醴曰夫人薦豆執校執醴授之<lb/>
+<pb n="KR3j0066_WYG_033-16b"/>
+執鐙則執豆之跗也此彦逺據康成説也智按校鐙不<lb/>
+當重言鐙乃醴觶之承者解見上文矣細推古書鐙鐓<lb/>
+皆謂其敦然在下者轉音别字讀鐓為對耳又推脚轉<lb/>
+去聲為校則執校即脚也京山引南史王亮𫝊亮父諱<lb/>
+猷晉陵令沈瓚好犯亮諱向亮作無骹尊旁犬為犬旁<lb/>
+無骹尊骹即脚也謂猷字尊旁犬也説文□以别□鄭<lb/>
+吳作□馬鐙當從□去聲則以燈别之<lb/>
+楬豆木柄樸豆也又為敔名曰楬櫫者表識也　記曰<lb/>
+<pb n="KR3j0066_WYG_033-17a"/>
+鞉鼓椌楬鄭曰柷敔也椌苦工苦江二切楬苦瞎切説<lb/>
+文曰楬桀也引春秋𫝊楬而書之孫氏其謁切尹子心<lb/>
+𫝊注楬著姓名是也明堂位夏楬豆商玉豆周獻豆注<lb/>
+楬無異物之飾也方氏曰楬豆以木為柄若蜡氏之楬<lb/>
+而已玉豆于楬之上又飾之以玉獻豆若周官再獻之<lb/>
+獻是夏豆可謂樸矣唐褚遂良𫝊言禹雕其俎諫者十<lb/>
+餘不止何邪魯祀周公用玉豆雕篹注玉豆即殷玉豆<lb/>
+雕篹将兼用夏制邪韓非子曰禹作祭器墨染其外而<lb/>
+<pb n="KR3j0066_WYG_033-17b"/>
+朱畫其内楬豆亦未必無飾也蜡氏置楬注引今時楬<lb/>
+櫫職金楬而璽之鄭司農曰今時之書有所表識謂之<lb/>
+楬櫫孔穎達疏即今之版所謂以木為柄柄即豆之下<lb/>
+承豆之莖跌也上加漆畫理亦宜之或曰敔即楬楬有<lb/>
+虎形背如鱗次其畫虎斑與乳篆乎是未可知矣<lb/>
+三尺桑之畢非畢翳之畢也　畢以載牲博三寸長八<lb/>
+寸柄長二尺四寸丹漆兩頭見三禮圖引詩云有捄天<lb/>
+畢載施之行禮曰畢用桑長三尺刋其柄末畢所以助<lb/>
+<pb n="KR3j0066_WYG_033-18a"/>
+主人者月令曰罔羅畢翳注云羅小而柄長謂之畢大<lb/>
+東𫝊云畢所以掩兔象畢宿為之混引非也鹵簿有□<lb/>
+罼<lb/>
+㱃<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>蓋㱃盂也　廣川跋王子吳㱃<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>云潞國文公所<lb/>
+得銘曰王子吳擇其吉金自作㱃<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>書家考古無此字<lb/>
+而<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>見三蒼知為鼎也而又款為享器智按諸書並無<lb/>
+<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>字金石韻府亦無㱃<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>殆即盂字乎董又云寶和<lb/>
+鐘銘與季姜㱃盂及石鼓皆以甘為其既有季姜㱃盂<lb/>
+<pb n="KR3j0066_WYG_033-18b"/>
+則此㱃<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>即飲盂是一證也篆書各國之書自取茂美<lb/>
+如則可從則亦可從<graphic n="KR0767" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0767.png" mimeType="image/png"/>亦可從□也<lb/>
+觚與觝同觝即觶也以圜與稜分不必斤斤論大小也<lb/>
+　彦逺得亶甲城觚以為觶又得李氏觚無壇宇㢘隅<lb/>
+鄭𤣥謂梓人之觚字當為觝觝與觶同制禮器制度曰<lb/>
+觚大二升觶大三升饋食禮主人洗爵獻長兄弟于阼<lb/>
+階上長兄弟洗觚為加爵則觚倍于爵其當二升古人<lb/>
+之論盡如此余是以知梓人之書誤也智按韓嬰謂一升<lb/>
+<pb n="KR3j0066_WYG_033-19a"/>
+曰爵二升曰觚三升曰觶四升曰散注疏或曰五升曰<lb/>
+散亦揣摩分大概耳古者權量三不當今之一彦逺未<lb/>
+必即確古器亦時有增減列國自造豈盡準考工如今<lb/>
+人造酒器洗器盛器但分大小其細微寧可拘乎今有<lb/>
+飛㦸出口之瓶亦謂花觚雖非其物乃其遺稱也伯厚<lb/>
+曰古巵亦作觝是古巵觝觶皆通而後分之淺者為巵<lb/>
+深者為觶耳有稜者曰觚無稜者曰觶觶常有最青緑<lb/>
+花紋者不能容今之一升則不能容古之三升明矣觚<lb/>
+<pb n="KR3j0066_WYG_033-19b"/>
+本以觚稜名急就竒觚謂其一稜之面可書則以稜辨<lb/>
+酒巵何疑<lb/>
+瑚璉一作瑚槤胡輦　論語載夏曰瑚商曰璉而明堂<lb/>
+位言夏后四璉殷六瑚説文瑚槤也里典切箋引漢韓<lb/>
+勅修孔廟禮器碑有胡輦器用句按此乃<graphic n="KR1286" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1286.png" mimeType="image/png"/>簋之類或<lb/>
+以木為之因其實故又從玉徐鉉必以璉為俗非也<lb/>
+桮有足曰嶡桮有槃曰案　周禮掌次王大旅上帝則<lb/>
+張氊案<hi>烏旰切</hi>設皇邸祭祀朝覲會同師田皆設案康成<lb/>
+<pb n="KR3j0066_WYG_033-20a"/>
+曰以氊為牀也六書故亦曰榻類此豈牀榻乎在今為<lb/>
+香案之案以氊飾之古無此則是几耳與純席之類比<lb/>
+若以几為牀後人自漢晉來俱以所坐之椅為牀如元<lb/>
+凱連榻江斆移牀何與于几邪案又為盌案之案史游<lb/>
+槃案并列孟光舉案齊眉正謂盌案周禮玉人案十有<lb/>
+二寸亦非几席也文選注漢春秋淮隂侯曰漢王賜臣<lb/>
+玉案之食萬石君對案不食案正與棜禁之類相同若<lb/>
+今臺上作小几數寸者上以承爐盒諸物舉案者如舉<lb/>
+<pb n="KR3j0066_WYG_033-20b"/>
+酒巵者并舟而舉也舟今之酒衣杯之盤也朱博不好<lb/>
+酒色案上三桮升菴直以案為椀恐尚微别魯用梡嶡<lb/>
+梡虞俎也珠盤玉敦敦音對槃類漢禮有瓚盤大五升<lb/>
+口徑八寸下有槃口徑一尺其遺也鹽鐵文桮畫案方<lb/>
+言案陳楚宋魏謂之<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>杯秦晉曰盌趙魏曰椷或曰盞<lb/>
+大者謂之閜吳越間曰<graphic n="KR2461" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2461.png" mimeType="image/png"/>齊若平原以東或謂之<graphic n="KR2168" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2168.png" mimeType="image/png"/>桮<lb/>
+小桮曰㔶音感元美有意駁升菴至曰孟光能石臼而<lb/>
+況案乎則更可笑矣何燕泉曰舉案當讀如盌升菴取<lb/>
+<pb n="KR3j0066_WYG_033-21a"/>
+之元美何不並譏燕泉邪<lb/>
+洞案氊案之遺也　宋祁筆記正仗設洞案于兩螭間<lb/>
+修注官夾案立蓋通朱漆為案曰洞案唐鄭谷用之當<lb/>
+音平聲<lb/>
+小甌曰䀁即卣也　説文䀁于救切或作<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>按即博古<lb/>
+圖之卣卣之中尊也吳慎之作酉古人不知茶甌之稱<lb/>
+所謂甌小盆盎之類也<lb/>
+匋即窑柴汝官哥定固不若永宣成嘉之盡善也　宋<lb/>
+<pb n="KR3j0066_WYG_033-21b"/>
+人言河南土中有羽觴無色澤者舜之陶也此或是秦<lb/>
+漢物耳元美云柴窑柴世宗進御未也宋葉寘垣齋筆<lb/>
+衡曰秘色窑器世言吳越王錢鏐燒陸龜蒙詩九秋風<lb/>
+露越窑開奪得千峰翠色來乃知唐世已有非始于錢<lb/>
+鏐宋朝以定州白磁器有芒遂命汝州造青窑器故河<lb/>
+北唐鄧耀州悉有之汝窑為魁江南則處州龍泉縣窑<lb/>
+質麤厚政和間京師自置官窑中興渡江邵成章提舉<lb/>
+襲故京遺製置内窑號邵局澄泥為範為世所珍後别<lb/>
+<pb n="KR3j0066_WYG_033-22a"/>
+立新窑大不侔矣餘如烏泥餘杭續窑皆非官窑比陸<lb/>
+文裕曰哥窑淺白斷文號百<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>碎宋時有章生一生二<lb/>
+兄弟皆處州人主龍泉之琉田窑生二所陶青器純粹<lb/>
+如美玉為世所貴即官窑之類生一所陶者色淡故名<lb/>
+哥窑正類董窑其曰均州有五色即汝窑一類也窑變<lb/>
+則時有之報國寺觀音窑變也今假哥窑碎文不能鐵<lb/>
+足鐵足則不能聲倣定曰象窑有蟹爪紋色白者亦非<lb/>
+龍泉不能得其淡色淡則無聲格古録霍器出霍州元<lb/>
+<pb n="KR3j0066_WYG_033-22b"/>
+朝<graphic n="KR2634" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2634.png" mimeType="image/png"/>金匠彭君寶效古定制折腰様故又曰彭窑髙麗<lb/>
+窑則似龍泉古饒器有樞府字者毛口者低于定大食<lb/>
+窑則以銅作身用藥燒成五色與拂郎嵌相似今發藍<lb/>
+或曰佛菻能為之廣語呼林為郎永樂窑質貴厚成化<lb/>
+窑質貴薄或淡青或燒寶石為綵色宣徳有散青者蘇<lb/>
+勃泥青也嘉靖時有填白壇琖約宣嘉萬回青以重色<lb/>
+貴古于宋于四羅六羅則景徳呼甌碟式也官窑土骨<lb/>
+坯乾經年重用車碾薄上泑候乾數次出火泑漏者碾<lb/>
+<pb n="KR3j0066_WYG_033-23a"/>
+去上泑更燒之故汁水瑩厚如堆脂其紋雞橘質料膩<lb/>
+實不易茅蔑也磨弄嵗深火色退浄果然妙于前代<lb/>
+鑣鑪見于廣雅其文見于弡医　劉原父弡仲医銘有<lb/>
+鏖鑪盛□<graphic n="KR2532" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2532.png" mimeType="image/png"/>米具□諸字廣雅有鑣鑪劉與歐陽公以<lb/>
+弡為張字黄長睿曰弡音其勿反□與飽同<graphic n="KR2532" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2532.png" mimeType="image/png"/>音嚼按<lb/>
+其勿之音亦不必是黄亦據字書音耳考唐韻入聲無<lb/>
+弡字巨從工而似□□即匡猶與張近古長亦作□□<lb/>
+或其變體永叔原父似為近之升菴作弡中□吳協三<lb/>
+<pb n="KR3j0066_WYG_033-23b"/>
+代鼎器録則竟作張仲□董逌曰上方張簋獨無旅簠<lb/>
+大觀元中荆仲馮以其<graphic n="KR2962" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2962.png" mimeType="image/png"/>藏古器上之其曰弡仲医本<lb/>
+當作<graphic n="KR1286" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1286.png" mimeType="image/png"/>其文□中作□則<graphic n="KR1286" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1286.png" mimeType="image/png"/>與簠同原父又言弡仲<graphic n="KR1286" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1286.png" mimeType="image/png"/>
+是匧弡之忍切此又一説也智按<graphic n="KR2962" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2962.png" mimeType="image/png"/>即冢宋人所改□<lb/>
+乃□今刻廣川書跋訛作□耳<lb/>
+銼<graphic n="KR1995" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1995.png" mimeType="image/png"/>今之□也　<graphic n="KR1995" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1995.png" mimeType="image/png"/>
+                    <hi>魯戈切</hi>□<hi>昨禾/切</hi>釜也<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>土鍪<hi>候抱切</hi>也<lb/>
+顔師古曰鍪小釜今所謂鍋亦謂之鏃<graphic n="KR1995" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1995.png" mimeType="image/png"/>秦名曰<graphic n="KR3085" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3085.png" mimeType="image/png"/>即<lb/>
+鍋字方言北燕洌水之間謂之錪<hi>音<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    </hi>陳楚之間曰錡或<lb/>
+<pb n="KR3j0066_WYG_033-24a"/>
+曰鏤吳揚之間曰鬲<hi>音厯</hi>漢𫝊云多齎鋪鍑鋪古釜字此<lb/>
+不音釜正謂銼<graphic n="KR1995" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1995.png" mimeType="image/png"/>矮鍋也亦謂之烙鍋烙餅之鍋也類<lb/>
+篇曰鍋<graphic n="KR1995" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1995.png" mimeType="image/png"/>器也至今烙餅平鍋呼為<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>音鏖</hi>
+有足曰錡無足曰釜鬵今之鼎鍋也　錡亦作䰙<hi>魚綺切</hi>
+釜亦作鬴<hi>奉甫切</hi>鑊類也詩維錡及釜毛氏曰有足曰錡<lb/>
+無足曰釜齊四升為豆四豆為區四區為釜釜之實凡<lb/>
+六斗四升按鬴本享器加耳與臂為量爾雅甑謂之鬵<lb/>
+<hi>才林切</hi>鬵鉹<hi>昌氏切</hi>也烹魚詩注釜屬許氏曰大釜也一曰<lb/>
+<pb n="KR3j0066_WYG_033-24b"/>
+鼎大上小下若甑曰鬵古文作□按此今南楚黔粤之<lb/>
+鼎鍋也<lb/>
+敧器侑巵也　文子守弱篇三皇五帝有觀戒之器命<lb/>
+曰侑巵注敧<hi>於離切</hi>器也荀子宥坐篇孔子觀魯桓公廟<lb/>
+有敧器問守廟者曰此宥坐之器揚子重黎篇或問持<lb/>
+滿曰㧖敧注敧器也唐文粹李徳裕作敧器賦許敬宗<lb/>
+韋肇亦有賦隋志小説部魯史敧器圖一卷劉徽注器<lb/>
+準圖三卷後魏志信都芳撰安豐王延明所集樂説并<lb/>
+<pb n="KR3j0066_WYG_033-25a"/>
+諸器物準圖二十餘事而注之文選注曹大家有敧器<lb/>
+頌杜預傳周廟敧器至漢東京猶在御坐漢未喪亂不<lb/>
+存形制遂絶預創意造成武帝嘉歎南齊永明中竟陵<lb/>
+王子良好古祖沖之造敧器獻之後漢安豐王延明使<lb/>
+祖暅之作敧器漏刻銘後周文帝大統四年宣光清徽<lb/>
+殿初成薛憕之頌又造二敧器一為二仙人共持一鉢<lb/>
+同處一盤一仙人持金瓶傾水灌山而注乎器形似觥<lb/>
+而方滿則平溢則傾憕各為頌隋藝術𫝊耿詢有巧思<lb/>
+<pb n="KR3j0066_WYG_033-25b"/>
+進敧器煬帝善之曹王皋𫝊常自創意為敧器以髹木<lb/>
+上出五觚淳化中學士蘇易簡内直嘗以水試敧器即<lb/>
+召問之曰此江南徐鉉所作<lb/>
+盉鑊聲轉蓋小鑊也　説文盉<hi>戸戈切</hi>調味器玉篇以盉<lb/>
+為味陸法言以盉為調五味鑊董逌曰伯王㝅子作寶<lb/>
+盉據廣韻調五味鑊今以鑊為鑴而以鑴為瓽瓽為盆<lb/>
+之大者孫强以盉為大鑊而鑊大鼎也劉臻吕忱以鑴<lb/>
+為大鐘據少牢饋食禮曰羮定雝人陳鼎五三鼎在羊<lb/>
+<pb n="KR3j0066_WYG_033-26a"/>
+鑊之西二鼎在豕鑊之西而禮經改盉為鑊則失其制<lb/>
+久矣按實鼎曰<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>實俎曰載有前體後體體薦體解各<lb/>
+異盉盉别一鼎盉中肉熟各升于鼎故取于盉以實鼎<lb/>
+取于鼎以實俎然後以饗食以薦熟禮之成也蓋盉與<lb/>
+鑊一聲之轉後又有大鑊則盉為小鑊明矣<lb/>
+互□即亞倉　董彦逺曰田仲方得銅亞鎗識曰互□<lb/>
+余知為亞倉漢制東宫給銅龍頭鎗是也智按説文有<lb/>
+<graphic n="KR0146" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0146.png" mimeType="image/png"/>古器也而□為奇字倉南史子良貽何子晳徐景山<lb/>
+<pb n="KR3j0066_WYG_033-26b"/>
+酒鎗<lb/>
+鋗鉇温器也　鋗<hi>火𤣥反</hi>鉇即匜黄氏曰鋗銅銚<hi>音遥</hi>也説<lb/>
+文鋗小盆也博古圖有梁山鋗元康元年造鉇有柄可<lb/>
+以注水廣韻杯匜似桸<hi>音移</hi>以注水銚燒器也説文銚温<lb/>
+器也世本曰倕作銚今世俗之扱灰者亦有火𤣥之音<lb/>
+曰杴亦以銅為之其燒器曰銚者音近弔<lb/>
+鈷䥈即鈷鉧也　鈷<hi>音古</hi>䥈<hi>音莽</hi>温器也按䥈即鉧字鈳一<lb/>
+作錒鈷䥈也李時珍曰銅鈷鉧一作鈷䥈即熨斗也升<lb/>
+<pb n="KR3j0066_WYG_033-27a"/>
+菴引王莽威斗則絶非熨斗後亦出世變為古物永州<lb/>
+有鈷鉧潭以形似之<lb/>
+金鉔香毬也　西京雜記曰長安巧工丁緩作被中香<lb/>
+罏環轉而罏體常平字彚以為金鉔丁緩所作引相如<lb/>
+美人賦金鉔薰香黄伯思跋錢鎮州回文曰寶子不知<lb/>
+何物乃迦葉之香罏也但圜若重規其丁緩被中之製<lb/>
+乎<hi>緩或訛綏</hi>智按干禄書帀正迊俗且無匝字鄭𤣥注周禮<lb/>
+五就五帀也始自北史繞七匝唐志循牲一匝杜詩馬<lb/>
+<pb n="KR3j0066_WYG_033-27b"/>
+頭金匼匝方用之金劉迎詩繡韉金匼匝貂袖紫蒙茸<lb/>
+故知鉔為後加<lb/>
+華錜小釵也　王粲七釋云雜華錜<hi>音捻</hi>之葳㽔孔煒七<lb/>
+引云紫錜承鬢而聘輝孫愐收入葉韻韻會刪之<lb/>
+以金銀鏤銅鐵曰鋄　張衡賦金鋄<hi>音減</hi>銀鏤謂鐵質金<lb/>
+文飾馬轡也馬融廣成頌金鋄銀鑲今俗以鞍轡什物<lb/>
+曰鋄銀事件細者曰絲鋄片者曰片鋄鋄一作<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>後漢<lb/>
+志金鍐方訖升菴以鍐作鋄宋志百官鞍勒金塗銀裝<lb/>
+<pb n="KR3j0066_WYG_033-28a"/>
+牡丹枝具雉子白韉陷銀<graphic n="KR1335" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1335.png" mimeType="image/png"/>鐙所謂陷銀即今之鋄銀<lb/>
+也元志作簡銀弱侯作䤴銀<lb/>
+以金銀絲戧器曰商謂鑲嵌也　元美曰趙希鵠云夏<lb/>
+時器多相嵌訛為商嵌用修以為鑲嵌智謂本商嵌蓋<lb/>
+古謂刻為商商金商銀乃古之遺稱也張懐瓘書録言<lb/>
+三代鈿金今之所謂搶金宣盒即唐之戧金也今作去<lb/>
+聲曹昭以為<graphic n="KR2634" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2634.png" mimeType="image/png"/>金兩鈔摘腴曰鞗革有鶬箋云鶬金飾<lb/>
+貌戧金出此<lb/>
+<pb n="KR3j0066_WYG_033-28b"/>
+鋀金曰鋈曰釦　鋀一作鍍詩疏言銷白金以灌沃靷<lb/>
+環非謂鋈為白金也韻會曰猶今以銀為質金鍍其外<lb/>
+也以金飾器曰釦<hi>音扣</hi>蜀有釦刀唐六典有十四種飾金<lb/>
+法<lb/>
+偏提酌酒注子也　唐元和間改曰偏提今辨古器指<lb/>
+卣巵之類或有提梁或有單耳者亦稱偏提或云避鄭<lb/>
+注<lb/>
+三㿿酒閜也　升菴曰東觀漢記嵗首請上雅夀雅酒<lb/>
+<pb n="KR3j0066_WYG_033-29a"/>
+閜<hi>許下切</hi>也魏文帝典論荆州牧劉表子弟以酒器名三<lb/>
+爵曰伯雅受七勝中雅受六勝季雅受五勝即升温革<lb/>
+隠窟雜志宋時閬州有三雅池古有修此池得三銅器<lb/>
+狀如酒杯各有篆文曰伯雅中雅季雅當時雖以名池<lb/>
+而不知為劉表物也廣韻㿿<hi>即雅</hi>注云酒器吳均詩聊傾<lb/>
+三雅巵按爾雅或作爾疋詩作大疋小疋其雅省用牙<lb/>
+牙又作㸦遂溷為疋邪此凡夫之説智又按説文有疋<lb/>
+字音胥古無家麻韻則雅當為予予近胥邪抑雅省牙<lb/>
+<pb n="KR3j0066_WYG_033-29b"/>
+用㸦而訛疋邪緯略載毛泰買一玉窪八十八萬亦酒<lb/>
+閜也雅之名轉而為窪轉而為閜<lb/>
+匹製猶今之沓桮也　古今詩話曰刀約使契丹有詩<lb/>
+云餞行三匹製匹製以大小甖為之如黄漆此蓋今之<lb/>
+沓桮俗曰套杯或六或五外大内小<lb/>
+籠絡之器亦曰桮笿不必杯槃也轉為不落　説文<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+笿<hi>盧各切</hi>也向不知其解智以為即落字猶宋人鉦上之<lb/>
+茖從省文也又按㔶桮也則桮落謂籠類也方言桮落<lb/>
+<pb n="KR3j0066_WYG_033-30a"/>
+又謂之豆筥孟子桮棬趙岐曰桮素也智謂如今之蒸<lb/>
+籠栁斗之類後世則稱桮託酒託亦稱酒衣或云韓愈<lb/>
+用鑿落即本説文此則不必也鑿落言其工巧光文錯<lb/>
+落耳清異録曰白樂天送春詩銀花不落從君勸不落<lb/>
+酒器也乃屈巵鑿落之類開運宰相馮家有滑様水晶<lb/>
+不落一隻智按不落反語則當為托<lb/>
+承槃即柈也　説文本作槃籀作盤承盤也徐按中山<lb/>
+王文木賦製為槃杆古樂苑奉藥一玉柈南史劉穆之<lb/>
+<pb n="KR3j0066_WYG_033-30b"/>
+以金柈盛㯽榔即盤字也集韻古作槃漢曰承盤今曰<lb/>
+托盤宋謂之托子程泰之謂始于崔寧名之曰托因資<lb/>
+暇録也又有鬲塞者乃楪子環蠟遺制也黄伯思曰北<lb/>
+齊画圖已有之蓋初止謂酒臺盤為托而後縁以為茶<lb/>
+盤之名僉載酒令連臺拗倒謂杯置臺中之蒂也陶穀<lb/>
+曰劉張有魚英托鏤言以魚魫為酒臺盞也<lb/>
+漢時呼扇為攝　禮置翣注以布衣木如攝是漢時之<lb/>
+扇以翣思之正掌扇之狀也今閩中有金漆竹掌扇薄<lb/>
+<pb n="KR3j0066_WYG_033-31a"/>
+如紙者内外士夫皆得用之鄭𤣥恐人不識翣體故云<lb/>
+今以扇為箑箑音亦與翣同人或讀為捷非徐無鬼篇<lb/>
+叔孫敖甘寢秉羽而郢人投兵秉羽謂扇也其俾倪扇<lb/>
+擁扇見鹵簿器内<lb/>
+摺扇起于東裔而盛于今日　折扇之妙則此時為盛<lb/>
+古但有團扇直扇如張敞便面之類耳方面障面竹紙<lb/>
+薄扇也今世所用摺疊扇亦名聚頭扇子淵曰張東海<lb/>
+先生以為貢於髙麗永樂間始盛行于中國予見南宋<lb/>
+<pb n="KR3j0066_WYG_033-31b"/>
+以來詩咏聚扇者多予收得楊妹所寫絹扇面摺痕尚<lb/>
+存東坡謂髙麗白松扇展之廣尺餘合之止兩指許正<lb/>
+今摺扇蓋自北宋已有之智按遊宦紀聞曰宣和二年<lb/>
+髙麗貢松扇三合摺疊扇二隻倭人亦製為泥金面烏<lb/>
+竹骨充貢唐韻有搊扇殆亦折扇之萌芽乎<lb/>
+　<lb/>
+　<lb/>
+　通雅卷三十三<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

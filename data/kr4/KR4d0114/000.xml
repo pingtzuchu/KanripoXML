@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>游廌山集</head>
+    <p>
+<pb n="KR4d0114_WYG_000-1a"/>
+欽定四庫全書　　　　集部三<lb/>
+　游廌山集　　　　　　　别集類二<hi>宋</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案游廌山集四巻宋游酢撰酢字定<lb/>
+　　　　夫建陽人元豐五年進士建中靖國初厯官<lb/>
+　　　　監察御史宣和初終於知濠州事蹟具宋史<lb/>
+　　　　道學傳楊時龜山集有酢墓誌銘稱所著有<lb/>
+　　　　中庸義一巻易説一巻詩二南義一巻論語<lb/>
+<pb n="KR4d0114_WYG_000-1b"/>
+　　　　孟子雜解各一巻文集十巻年譜稱其年二<lb/>
+　　　　十九録明道先生語年四十一録伊川先生<lb/>
+　　　　語年四十六作論孟雜解中庸義年四十七<lb/>
+　　　　作易説詩二南義而不言文集盖夲各為書<lb/>
+　　　　也此夲首以論語雜解中庸義孟子雜解為<lb/>
+　　　　一巻次易説詩二南義為一巻次師語師訓<lb/>
+　　　　為一巻次以文七篇詩十三首附以墓誌年<lb/>
+　　　　譜為一巻又中庸義後有拾遺孟子雜解僅<lb/>
+<pb n="KR4d0114_WYG_000-2a"/>
+　　　　八條詩二南義僅二條盖後人掇拾重編不<lb/>
+　　　　但非其原夲且併非完書矣春日山行詩中<lb/>
+　　　　有風詠舞雩正此日雪飄伊洛是何年之句<lb/>
+　　　　自用程門立雪故實似亦不類酢作以其為<lb/>
+　　　　宋儒遺書别無他本姑録之以備一家焉乾<lb/>
+　　　　隆四十六年九月恭校上<lb/>
+　　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

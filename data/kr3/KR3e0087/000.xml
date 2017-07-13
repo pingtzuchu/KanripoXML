@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>瘟疫論</head>
+    <p>
+<pb n="KR3e0087_WYG_000-1a"/>
+欽定四庫全書　　　　　子部五<lb/>
+　瘟疫論　　　　　　　　醫家類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案瘟疫論二卷補遺一卷明吴有性<lb/>
+　　　　撰有性字又可震澤人是書成扵崇禎壬午<lb/>
+　　　　以四時不正之氣發為瘟疫其病與傷寒相<lb/>
+　　　　似而逈殊誤作傷寒治之多死古書未能分<lb/>
+　　　　别乃著論以發明之大抵謂傷寒自毫竅而<lb/>
+<pb n="KR3e0087_WYG_000-1b"/>
+　　　　入中扵脉絡由表入裏故其傳經有六自陽<lb/>
+　　　　至隂以次而深瘟疫自口鼻而入伏於膜原<lb/>
+　　　　其邪在不表不裏之間其𫝊變有九或表或<lb/>
+　　　　裏各自為病有但表而不裏者有表而再表<lb/>
+　　　　者有但裏而不表者有裏而再裏者有表裏<lb/>
+　　　　分𫝊者有表裏分𫝊而再分𫝊者有表勝於<lb/>
+　　　　裏者有先表而後裏者有先裏而後表者其<lb/>
+　　　　問有與傷寒相反十一事又有變證兼證種<lb/>
+<pb n="KR3e0087_WYG_000-2a"/>
+　　　　種不同並著論制方一一辨别其顯然易見<lb/>
+　　　　者則脉在不沉不伏之間中取之乃見舌必<lb/>
+　　　　有胎初則白甚則黄太甚則黑而芒刺也其<lb/>
+　　　　謂數百瘟疫之中乃偶有一傷寒數百傷寒<lb/>
+　　　　之中乃偶有一隂證未免矯枉過正然古人<lb/>
+　　　　以瘟疫為襍証醫書徃徃附見不立専門又<lb/>
+　　　　或誤解素問冬傷於寒春必病温之文妄施<lb/>
+　　　　治療有性因崇禎辛巳南北直𨽻山東浙江<lb/>
+<pb n="KR3e0087_WYG_000-2b"/>
+　　　　同時大疫以傷寒法治之不效乃推求病源<lb/>
+　　　　著為此書瘟疫一證始有繩墨之可守亦可<lb/>
+　　　　謂有功於世矣其書不甚詮次似隨筆劄録<lb/>
+　　　　而成今姑仍其舊其下卷勞復食復條中載<lb/>
+　　　　安神養血湯小兒時疫條中載太極丸並有<lb/>
+　　　　方而無藥又疫痢兼證一條亦有録而無書<lb/>
+　　　　故别為補遺於末又正名一篇傷寒例正誤<lb/>
+　　　　一篇諸家瘟疫正誤一篇原目不載盖成書<lb/>
+<pb n="KR3e0087_WYG_000-3a"/>
+　　　　以後所續入今亦併録為一卷成完書焉乾<lb/>
+　　　　隆四十四年四月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　總　校　官　<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

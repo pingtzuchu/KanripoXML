@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>雜學辨</head>
+    <p>
+<pb n="KR3a0045_WYG_000-1a"/>
+欽定四庫全書　　　　　子部一<lb/>
+　雜學辨　　　　　　　　儒家類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案雜學辨一卷附記疑一卷宋朱子<lb/>
+　　　　撰以斥當代諸儒之雜於佛老者也凡蘇軾<lb/>
+　　　　易傳十九條蘇轍老子解十四條張九成中<lb/>
+　　　　庸解五十二條吕希哲大學解四條皆摘錄<lb/>
+　　　　原文各為駁正於下末有乾道丙戌何鎬跋<lb/>
+<pb n="KR3a0045_WYG_000-1b"/>
+　　　　鎬字京叔何兊之子丙戌為乾道二年朱子<lb/>
+　　　　三十七嵗監嶽廟家居時也記疑一卷前有<lb/>
+　　　　朱子題辭稱偶得雜書一冊不知何人所記<lb/>
+　　　　懼其流傳久逺上累師門云云盖程子門人<lb/>
+　　　　記錄師説傳以己意因而流入二氏者亦摘<lb/>
+　　　　錄而與之辨凡二十條其書作於淳熙二年<lb/>
+　　　　丙申三月朱子方在婺源距作雜學辨時十<lb/>
+　　　　年矣後人附刻雜學辨後以類相從今亦仍<lb/>
+<pb n="KR3a0045_WYG_000-2a"/>
+　　　　舊本錄之焉乾隆四十六年十月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

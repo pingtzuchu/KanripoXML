@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4c0005_SBCK_008-1a"/>
+　附錄<lb/>
+　　盧照隣小傳　晉劉　昫<lb/>
+盧照隣字昇之幽州范陽人也年十餘嵗就曹<lb/>
+憲王義方授蒼雅及經史博學善屬文初授鄧<lb/>
+王府典籤王甚愛重之曾謂群官曰此卽寡人<lb/>
+相如也後拜新都尉因染風疾去官䖏太白山<lb/>
+中以服餌爲事後疾轉篤徙居陽翟之具茨山<lb/>
+著釋疾文五悲等誦頗有騷人之風甚爲文士<lb/>
+所重照隣旣沈痼攣廢不堪其苦嘗與親屬執<lb/>
+<pb n="KR4c0005_SBCK_008-1b"/>
+别遂自投頴水而死時年四十文集二十卷兄<lb/>
+光乗亦知名長壽中爲隴州剌史<lb/>
+<pb n="KR4c0005_SBCK_008-2a"/>
+　　盧照隣小傳　宋宋　祁<lb/>
+照隣字昇之范陽人十嵗從曹憲王義方授蒼<lb/>
+雅調鄧王府典籤王愛重謂人曰此吾之相如<lb/>
+調新都尉病去官居太白山得方士玄明膏餌<lb/>
+之會父䘮號嘔丹輒出由是疾益甚客東龍門<lb/>
+山布衣藜羹裴瑾之韋方質范履冰等時時供<lb/>
+衣藥疾甚足攣一手又廢乃去具茨山下買園<lb/>
+數十𤱔疏潁水周舎復豫爲墓偃臥其中照隣<lb/>
+自以當高宗時尙吏巳獨儒武后尙法巳獨黃<lb/>
+<pb n="KR4c0005_SBCK_008-2b"/>
+老后封嵩山屢聘賢士巳巳廢著五悲文以自<lb/>
+明病旣久與親屬訣自沈頼水濱<lb/>
+<pb n="KR4c0005_SBCK_008-3a"/>
+　　豔情代郭氏答盧照隣　唐駱賔王<lb/>
+迢迢芊路望芝田眇眇函關限蜀川歸雲巳落<lb/>
+涪江外還鴈應過洛水瀍洛水傍連帝城側帝<lb/>
+宅層甍垂鳯翼銅駝路上桺千條金谷園中花<lb/>
+㡬色桺葉園花䖏䖏新洛陽桃李應芳春妾向<lb/>
+雙流窺石鏡君住三川守玉人此時離别那堪<lb/>
+道此日空牀<graphic n="KR0863" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0863.png" mimeType="image/png"/>芳沼芳沼徒遊比目魚幽徑還<lb/>
+生㧞心草流風廻雪儻便娟驥子魚文實可憐<lb/>
+擲果河陽君有分貨酒成都妾亦然莫言貧賤<lb/>
+<pb n="KR4c0005_SBCK_008-3b"/>
+無人重莫言富貴應須種綠珠猶得石崇憐飛<lb/>
+燕曾經漢皇寵良人何䖏醉縱橫直如循黙守<lb/>
+空名倒提新縑成慊慊翻將故劒作平平離前<lb/>
+吉夣成蘭兆别後啼㾗上竹生别日分明相約<lb/>
+束巳取宜家成誡朂當時擬弄掌中珠豈調先<lb/>
+摧庭際玉悲鳴五里無人問腸斷三聲誰爲續<lb/>
+思君欲上望夫䑓端居懶聽將雛曲沈沈落日<lb/>
+向山低簷前歸燕並頭栖抱膝當窻㸔夕兎側<lb/>
+耳空房聽曉雞舞蝶臨階秪自舞啼鳥逢人亦<lb/>
+<pb n="KR4c0005_SBCK_008-4a"/>
+助啼獨坐傷孤枕春來悲更甚峨眉山上月如<lb/>
+眉濯錦江中霞似錦錦字廻文欲贈君劍壁層<lb/>
+峰自糺紛平江淼淼分淸浦長路悠悠間白雲<lb/>
+也知京洛多佳麗也知山岫遥虧蔽無那短封<lb/>
+卽疎索不在長情守期契傳聞織女<graphic n="KR0863" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0863.png" mimeType="image/png"/>牽牛相<lb/>
+望重河隔淺流誰分迢迢經兩嵗誰能脈脈待<lb/>
+三秋情知唾并終無理情知覆水也難收不復<lb/>
+下山能借問更向盧家字莫愁<lb/>
+<pb n="KR4c0005_SBCK_008-4b"/>
+<pb n="KR4c0005_SBCK_008-4b"/>
+　　遺事<lb/>
+孟詵盧照隣等師孫思邈照隣有惡疾不可爲<lb/>
+感而問曰高醫愈疾奈何答曰天有四時五行<lb/>
+寒暑迭居和爲雨怒爲風凝爲雪霜張爲虹電<lb/>
+天常數也人之四支五藏一覺一寐吐納徃來<lb/>
+流爲榮衛章爲氣色發爲音聲人常數也陽用<lb/>
+其形陰用其精天人所同也失則蒸生熱否生<lb/>
+寒結爲瘤贅䧟爲癰疽奔則喘乏竭則燋槁發<lb/>
+乎靣動乎形天地亦然五緯縮贏孛彗飛流其<lb/>
+<pb n="KR4c0005_SBCK_008-5a"/>
+危診也寒暑不時其蒸否也石立土踊是其瘤<lb/>
+贅山崩土䧟是其癰疽奔風暴雨其喘乏川瀆<lb/>
+竭涸其燋槁高醫道以藥石救以䍇劑聖人和<lb/>
+以至德輔以人事故體有可愈之疾天有可振<lb/>
+之灾照隣曰人事奈何曰心爲之君君尚恭故<lb/>
+欲小詩曰如臨深淵如履薄冰小之謂也膽爲<lb/>
+之將以果决爲務故欲大詩曰赴赴武夫公矦<lb/>
+干城大之謂也仁者靜地之象故欲方傳曰不<lb/>
+爲利囘不爲義疚方之謂也智者動天之象故<lb/>
+<pb n="KR4c0005_SBCK_008-5b"/>
+欲圓易曰見㡬而作不俟終日圓之謂也復問<lb/>
+養性之要答曰天有盈虛人有屯危不自愼不<lb/>
+能濟故養性必先知自愼也愼以畏爲本太上<lb/>
+畏道其次畏天其次畏物其次畏人其次畏身<lb/>
+憂於身者不拘於人畏於巳者不制於彼愼於<lb/>
+小者不懼於大戒於近者不侮於遠知此則人<lb/>
+事畢矣<hi>邈傳孫思</hi>
+盧照隣弱冠拜鄧王府典籤王府書記一以委<lb/>
+之王有書十二車照隣總披覽略能記憶後爲<lb/>
+<pb n="KR4c0005_SBCK_008-6a"/>
+益州新都縣尉秩滿婆娑蜀中放曠詩酒故世<lb/>
+稱王楊盧駱時楊之爲文好以古人姓名連用<lb/>
+如張平子之略談陸士衡之所記潘安仁宜其<lb/>
+陋矣仲長統何足知之號爲點鬼簿駱賔王文<lb/>
+好以數<graphic n="KR0863" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0863.png" mimeType="image/png"/>如秦地重關一百二漢家離官三十<lb/>
+六時人號爲算博士如盧生之文時人莫能評<lb/>
+其得失矣惜哉不幸有冉畊之疾著幽憂子以<lb/>
+釋憤焉文集二十卷<hi>僉載朝野</hi>
+<pb n="KR4c0005_SBCK_008-6b"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

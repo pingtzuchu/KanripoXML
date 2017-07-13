@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>雪溪集</head>
+    <p>
+<pb n="KR4d0193_WYG_000-1a"/>
+欽定四庫全書　　　　　集部四<lb/>
+　雪溪集　　　　　　　　别集類三<hi>宋</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案雪溪集五巻宋王銍撰銍有侍兒<lb/>
+　　　　小名録補遺已著録是編乃其詩集陳振孫<lb/>
+　　　　書録解題宋史藝文志並作八巻此本僅五<lb/>
+　　　　巻考墨莊漫録載銍所作王文孺臞菴詩一<lb/>
+　　　　首又山村詩一首越詠載銍所作雲門寺詩<lb/>
+<pb n="KR4d0193_WYG_000-1b"/>
+　　　　一首今皆不見於集中知今世所傳已佚其<lb/>
+　　　　三巻非完帙矣銍詩格近温李王士禎居易<lb/>
+　　　　録詆其詩不甚工而稱其附載廬山僧可和<lb/>
+　　　　和詩一篇似非篤論惟銍以博洽名乃集中<lb/>
+　　　　白頭吟序不引西京雜記而引呉兢樂府解<lb/>
+　　　　題已迷其本<hi>案西京雜記雖偽書然在呉兢之前即兢説所自出</hi>又稱<lb/>
+　　　　宋志載文君詩云云不知宋書樂志白頭吟<lb/>
+　　　　寔作古詞不作文君此亦千慮之一失信乎<lb/>
+<pb n="KR4d0193_WYG_000-2a"/>
+　　　　考証之難也乾隆四十二年九月恭校上<lb/>
+　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

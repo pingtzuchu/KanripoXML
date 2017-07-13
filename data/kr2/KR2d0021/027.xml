@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>補歴代史表卷二十九</head> <lb/>
+    <p>
+<pb n="KR2d0021_WYG_027-1a"/>
+欽定四庫全書<lb/>
+　補歴代史表卷二十九<lb/>
+　　　　　　　　　　　　　鄞縣萬斯同撰<lb/>
+　　宋<lb/>
+　　　宋將相大臣年表<lb/>
+<pb n="KR2d0021_WYG_027-2a"/>
+</p>
+<p>
+<pb n="KR2d0021_WYG_027-3a"/>
+</p>
+<p>
+<pb n="KR2d0021_WYG_027-4a"/>
+</p>
+<p>
+<pb n="KR2d0021_WYG_027-5a"/>
+</p>
+<p>
+<pb n="KR2d0021_WYG_027-6a"/>
+</p>
+<p>
+<pb n="KR2d0021_WYG_027-7a"/>
+</p>
+<p>
+<pb n="KR2d0021_WYG_027-8a"/>
+</p>
+<p>
+<pb n="KR2d0021_WYG_027-9a"/>
+</p>
+<p>
+<pb n="KR2d0021_WYG_027-10a"/>
+</p>
+<p>
+<pb n="KR2d0021_WYG_027-11a"/>
+</p>
+<p>
+<pb n="KR2d0021_WYG_027-12a"/>
+</p>
+<p>
+<pb n="KR2d0021_WYG_027-13a"/>
+</p>
+<p>
+<pb n="KR2d0021_WYG_027-14a"/>
+</p>
+<p>
+<pb n="KR2d0021_WYG_027-15a"/>
+</p>
+<p>
+<pb n="KR2d0021_WYG_027-16a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2d0021_WYG_027-16b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　補歴代史表卷二十九<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

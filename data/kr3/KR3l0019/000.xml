@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3l0019_WYG_000-1a"/>
+金華子雜編序<lb/>
+金華子者河南劉生少慕赤松子兄弟能釋羇鞅於放<lb/>
+牧間讀其書想其人恍若逰于金華之境因自號焉生<lb/>
+自童蒙嵗便解愛人博學暨乎鬢髪焦秃而無所成名<lb/>
+凡為文章略知宗㫖最嗜吟詠而所得亦不出流軰年<lb/>
+逾壮室方莅官于畿甸繼宰二邑共換二十餘寒暑唯<lb/>
+知趦趄畏慎不能磊落經濟罷秩歸京得留綴班家貧<lb/>
+窶在闕三四年甚窘困稍暇猶綴吟不困倦縱情任興<lb/>
+<pb n="KR3l0019_WYG_000-1b"/>
+一聨一句亦時有合于清奇顧于食玉燃桂不無撓懐<lb/>
+纔緩紆斯須則嘯傲自若或遇盛友良㑹聞人語話及<lb/>
+興亾理亂猶耳聰意悦未嘗不周旋觀察冀或湊㑹警<lb/>
+戒庻㡬助于理道者必慷慨反覆至于逾晷不息時皇<lb/>
+上憂勤大寳宵衣旰食致治之切無愧前代命有司張<lb/>
+皇公道掄擇材雋科第取士鬱然反古時有以春闈策<lb/>
+問舉子對義見示者覩强國富民之論今古得失之理<lb/>
+則愧惕雀息往往汗流何者以坐遇明盛時而抱名稱<lb/>
+<pb n="KR3l0019_WYG_000-2a"/>
+不聞于世何疾復甚于斯矣因念為童時侍立長者左<lb/>
+右或于冬宵漏永秋階月瑩尊年省睡率皆話舊時經<lb/>
+由多至深夜不寐始則承平事寔爰及亂離于故基跡<lb/>
+或歎或泣悽咽僕𨽻自念髫齓之後甚能記聽今雖稚<lb/>
+齒變老耄㤀失憶十可一二猶存乎心耳併成人逰宦<lb/>
+之後其間耳目諳詳公私變易知聞𫝊載可繫鈆槧者<lb/>
+漸恐年代浸逺知者已踈更慮積新沉故遺絶堪惜宜<lb/>
+編序者即随而釋之云爾文林郎大理司直臣劉崇逺<lb/>
+<pb n="KR3l0019_WYG_000-2b"/>
+撰<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

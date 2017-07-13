@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2m0035_WYG_016-1a"/>
+欽定四庫全書<lb/>
+欽定大清通禮卷十<lb/>
+吉禮<lb/>
+　𫝊心殿<lb/>
+　經筵致祭<lb/>
+　𫝊心殿之禮<lb/>
+　𫝊心殿内<lb/>
+皇師伏羲氏正位南向<lb/>
+<pb n="KR2m0035_WYG_016-1b"/>
+皇師神農氏<lb/>
+皇師軒轅氏<lb/>
+帝師陶唐氏<lb/>
+帝師有虞氏<lb/>
+王師夏王禹<lb/>
+王師商王湯<lb/>
+王師周文王<lb/>
+王師周武王左右分序均南向<lb/>
+<pb n="KR2m0035_WYG_016-2a"/>
+先聖周公東位西向<lb/>
+先師孔子西位東向歲以春秋仲月<lb/>
+皇帝御經筵之日遣官一人祇告如<lb/>
+特行崇典則<lb/>
+皇帝親詣行禮太常寺豫日以祝版送内閣恭書<hi>祝文翰林</hi>
+　　<hi>院隨時擬撰</hi>先一日司祝由太常寺恭奉祝版導以御<lb/>
+　　仗送至<lb/>
+　𫝊心殿祝版房設於案跪叩如儀祀日昧爽所司潔<lb/>
+<pb n="KR2m0035_WYG_016-2b"/>
+　　除殿内外展<lb/>
+神幄工部司官藉㯶薦太常寺卿率屬具器陳<lb/>
+皇師<lb/>
+帝師<lb/>
+王師位前各設一案每案鉶一籩二豆二前設香案一<lb/>
+　　陳鑪一鐙二<lb/>
+先聖<lb/>
+先師位前每案鉶一籩二前設香案一陳鑪一鐙二殿<lb/>
+<pb n="KR2m0035_WYG_016-3a"/>
+　　中設一案少西北向供祝版東設一案西向陳禮<lb/>
+　　神制帛十<hi>色白</hi>香盤六爵十有八尊二西設一案東<lb/>
+　　向陳禮神制帛一<hi>色白</hi>香盤五尊一爵十有五凡帛<lb/>
+　　正位同篚東西位各異篚凡尊實酒承以舟疏布<lb/>
+　　冪勺具乃辨位<lb/>
+皇帝拜位在殿内正中北向鑾儀衞司拜褥官立於<lb/>
+皇帝拜位之左稍後太常寺司祝立祝案西東面司香<lb/>
+　　立東西案後負序東西面典儀立殿門外之東西<lb/>
+<pb n="KR2m0035_WYG_016-3b"/>
+　　面記注官立殿門外之西東面掌燎官率燎人立<lb/>
+　　於東門外燎鑪之隅日出前三刻司祝詣<lb/>
+　𫝊心殿祝版房恭奉祝版安於祝案司爵揭尊冪勺<lb/>
+　　挹酒實爵司帛奉篚司爵奉爵進至各<lb/>
+神位前奠於案司拜褥官豫布拜褥於殿門内正中各<lb/>
+　　退太常寺卿赴<lb/>
+　乾清門奏時<lb/>
+皇帝御補服乗輿出宫前引後扈如常儀<lb/>
+<pb n="KR2m0035_WYG_016-4a"/>
+駕至文華門内東門降輿前引内大臣侍衞均止立後<lb/>
+　　扈大臣隨侍右贊引左對引太常寺卿二人恭導<lb/>
+皇帝由殿垣西門入<lb/>
+　景行中門陞中階進殿中門至拜位前北向立典儀<lb/>
+　　贊執事官各共廼職贊引奏就位<lb/>
+皇帝就位立司香各奉香盤詣<lb/>
+神位前祇竢贊引奏就上香位及對引官恭導<lb/>
+皇帝詣<lb/>
+<pb n="KR2m0035_WYG_016-4b"/>
+皇師伏羲氏香案前對引官至祝案前止立司香跪進<lb/>
+　　香贊引奏上香<lb/>
+皇帝上炷香三上瓣香畢以次詣各<lb/>
+神位前上香如前儀贊引奏復位及對引官恭導<lb/>
+皇帝復位立奏跪拜興<lb/>
+皇帝行二跪六拜禮興司祝詣祝案前跪三叩奉祝版<lb/>
+　　跪案左贊引奏跪<lb/>
+皇帝跪贊讀祝司祝讀祝畢興奉祝版跪安<lb/>
+<pb n="KR2m0035_WYG_016-5a"/>
+神位前篚内三叩興退贊引奏拜興<lb/>
+皇帝行三拜禮興又奏跪拜興<lb/>
+皇帝行二跪六拜禮興典儀贊奉祝帛送燎司祝司帛<lb/>
+　　詣<lb/>
+神位前咸跪三叩司祝奉祝司帛奉篚興司香跪奉香<lb/>
+　　興以次由中道出恭送燎所<lb/>
+皇帝轉立拜位東西向<hi>司拜褥官徹拜褥</hi>竢祝帛過<hi>仍布拜褥</hi>
+皇帝復位立贊引奏禮成及對引官恭導<lb/>
+<pb n="KR2m0035_WYG_016-5b"/>
+皇帝出殿中門降中階詣<lb/>
+　文華殿<lb/>
+御經筵進講<hi>儀詳嘉禮</hi>畢乗輿還宫執事官以次退<lb/>
+　　　右祗告儀<lb/>
+　　遣官致祭<lb/>
+　𫝊心殿贊引太常寺贊禮郎二人引承祭官入殿垣<lb/>
+　　東門循<lb/>
+　景行門東夾道至殿門外階下正中行禮上香出入<lb/>
+<pb n="KR2m0035_WYG_016-6a"/>
+　　殿左門祝帛送燎承祭官避立西旁東面餘如儀<lb/>
+　　　右遣官儀<lb/>
+　　月朔望太常寺卿一人率屬詣<lb/>
+　𫝊心殿具器陳設酒果上香行禮如儀<lb/>
+　　　右常祀儀<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0035_WYG_016-6b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+欽定大清通禮卷十<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

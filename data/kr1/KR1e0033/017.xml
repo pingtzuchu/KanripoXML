@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="1a"/>
+　春秋考原跋<lb/>
+右春秋讞攷傳三書石林先生葉公之所作也自熙寧<lb/>
+用事之臣倡為新經之説禍天下學士大夫以談春秋<lb/>
+為諱有年矣是書作于絶學之餘所以辟邪説黜異端<lb/>
+章明天子遏止人欲其有補于世教為不淺也公之𤣥<lb/>
+孫來守延平出是書鋟木而傳之葢有意于淑斯人如<lb/>
+此學者其勉旃開禧乙丑九月一日秘閣校勘文林郎<lb/>
+南劍州軍事判官真徳秀謹跋<hi>案此乃讞考傳三書總跋當在石林春秋傳後<pb n="1b"/>今傳之刻本不載是跋仍依永樂大典本附編於此</hi>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

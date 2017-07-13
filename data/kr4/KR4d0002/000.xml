@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4d0002_SBCK_000-1a"/>
+河東先生集目録<lb/>
+　卷一<lb/>
+　　黙書<lb/>
+　　名系<lb/>
+　　字說<lb/>
+　　續師說<lb/>
+　　海說<lb/>
+　　應責<lb/>
+　卷二<lb/>
+　　東郊野夫傳<lb/>
+<pb n="KR4d0002_SBCK_000-1b"/>
+　　𥙷亡先生傳<lb/>
+　　韓文公雙鳥詩觧<lb/>
+　　掦子劇秦羙新觧<lb/>
+　卷三<lb/>
+　　漢史楊雄傳論<lb/>
+　　太甲誅伊尹論<lb/>
+　　李守節忠孝論<lb/>
+　　代王昭君謝漢帝䟽<lb/>
+　　重修孔子廟垣䟽<lb/>
+　卷四<lb/>
+<pb n="KR4d0002_SBCK_000-2a"/>
+　　潤州重脩文宣王廟碑文<lb/>
+　　時鑑<lb/>
+　　　玄風峒銘<lb/>
+　　　延齡寺新堂銘<lb/>
+　　　湘漓二水説<lb/>
+　　　來賢亭記<lb/>
+　　　龍興寺新修殿壁記<lb/>
+　卷五<lb/>
+　　上大名府王祐學士書<lb/>
+　　　　第二書　第三書　第四書<lb/>
+<pb n="KR4d0002_SBCK_000-2b"/>
+　　與張貟外書<lb/>
+　　與范貟外書<lb/>
+　　荅梁拾遺改名書<lb/>
+　卷六<lb/>
+　　　荅陳昭華書<lb/>
+　　　荅臧丙第一書　第二書　第三書<lb/>
+　　　代長兄閔上王舍人書<lb/>
+　　　上符興州書<lb/>
+　　　上王太保書<lb/>
+　卷七<lb/>
+<pb n="KR4d0002_SBCK_000-3a"/>
+　　上竇僖察判書　第二書<lb/>
+　　上叔父評事論葬書<lb/>
+　　上主司李學士書<lb/>
+　　請家兄明法改科書<lb/>
+　　報弟仲甫書<lb/>
+　卷八<lb/>
+　　與起居舍人趙晟書<lb/>
+　　上盧學士書<lb/>
+　　上参政吕給事書<lb/>
+　　上史舘相公書<lb/>
+<pb n="KR4d0002_SBCK_000-3b"/>
+　　與河北都轉運樊諫議書<lb/>
+　　與鄭景宗書<lb/>
+　　上郭太傅書<lb/>
+　卷九<lb/>
+　　　與司諫劉昌言書<lb/>
+　　　與朗州李巨源諌議書<lb/>
+　　　與李宗諤秀才書<lb/>
+　　　與韓洎秀才書<lb/>
+　　　再與韓洎書<lb/>
+　　　與任唐徵書<lb/>
+<pb n="KR4d0002_SBCK_000-4a"/>
+　卷十<lb/>
+　　在滁州上陳情表<lb/>
+　　知邠州上陳情表<lb/>
+　　上言時政表<lb/>
+　　　乞駕幸表<lb/>
+　　　奏事冝表<lb/>
+　卷十一<lb/>
+　　　皮子文藪序<lb/>
+　　　五峯集序<lb/>
+<pb n="KR4d0002_SBCK_000-4b"/>
+　　　昌黎集後序<lb/>
+　　　送臧夢夀序<lb/>
+　　　送陳昭華序<lb/>
+　　　送李憲序<lb/>
+　　　送陳說序<lb/>
+　卷十二<lb/>
+　　　送髙銑下第序<lb/>
+　　　送姜涉序<lb/>
+　　　贈麴植彈琴序<lb/>
+　　　送馬應昌序<lb/>
+<pb n="KR4d0002_SBCK_000-5a"/>
+　　送任唐徴序<lb/>
+　　送仲甫序<lb/>
+　　送高銑赴舉序<lb/>
+　卷十三<lb/>
+　　　祭知滁州孟太師文<lb/>
+　　　大師元藹自冩真賛<lb/>
+　　　真賛<lb/>
+　　　五箴<lb/>
+　　　袁姬哀詞<lb/>
+　　　贈夢英詩<lb/>
+<pb n="KR4d0002_SBCK_000-5b"/>
+　　諷虞嬪詩<lb/>
+　　贈諸進士詩<lb/>
+　卷十四<lb/>
+　　宋故中大夫行監察御史贈秘書少監栁公墓<lb/>
+　　　志銘<lb/>
+　　宋故贈大理評事栁公墓志銘<lb/>
+　　宋故穆夫人墓志銘<lb/>
+　　宋故河東郡栁公墓志銘<lb/>
+　　宋故前攝大名府户曺参軍栁公墓志銘<lb/>
+　　宋故昭義軍節度推官試大理評事栁君墓<hi>銘志</hi>
+<pb n="KR4d0002_SBCK_000-6a"/>
+　　宋故朝奉郎守太子左賛善大夫河東郡柳君<lb/>
+　　　墓志銘<lb/>
+　　宋故柳先生墓志銘<lb/>
+　卷十五<lb/>
+　　宋故左屯衛大将軍楽安郡矦孫公墓志銘<lb/>
+　　宋故開府儀同三司檢校太師贈侍中孟公墓<lb/>
+　　　志銘<lb/>
+　　宋故中大夫左𥙷闕致仕髙公墓志銘<lb/>
+　　宋故河南府尹闕縣令太原王公墓志銘<lb/>
+　　宋故和州團練使字侯墓志銘<lb/>
+<pb n="KR4d0002_SBCK_000-6b"/>
+　卷十六<lb/>
+　　故如京使柳公行状<lb/>
+<pb n="KR4d0002_SBCK_000-7a"/>
+一氣為萬物母至扵隂陽開閤嘘吸消長為晝夜為<lb/>
+寒暑為變化為死生皆一氣之動也庸不知斡之而<lb/>
+致其動者果何物㢤不知其何物所以為神也人之<lb/>
+道不達道焉至道無用用之者有其動也故為徳為<lb/>
+教為慈愛為威嚴為賞罰為法度為立功為立言亦<lb/>
+不知用之而應其動者又何物也夫至道潛扵至誠<lb/>
+至誠藴扵至明離潛發藴其至而不知所至者非神<lb/>
+乎㢤堯舜之揖讓湯武之征伐周公之制禮樂孔子<lb/>
+之作經典孟軻之拒楊墨韓愈之排釋老大小雖殊<lb/>
+皆岀扵不測而垂扵無窮也先生生扵晉末長扵宋<lb/>
+<pb n="KR4d0002_SBCK_000-7b"/>
+初拯五代之横流扶百世之大教續韓孟而助孔周<lb/>
+非先生孰能㢤先生之道非常儒可道也先生之文<lb/>
+非常儒可文也離其言扵往跡會其旨扵前經破昏<lb/>
+蕩疑拒邪㱕正學者宗信以仰以賴先生之用可測<lb/>
+乎藏其用扵神矣然其生不得大位大克著之扵事<lb/>
+業而盡在扵文章文章盖空言也先生豈徒為空言<lb/>
+㢤足以觀其志矣今緝其遺文得共九十六首編成<lb/>
+十五卷命之曰河東先生集先生名氏官爵暨行事<lb/>
+備之行状而繫扵集後咸平三年夏五月已亥門人<lb/>
+張景述<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

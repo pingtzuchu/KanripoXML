@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>八旗滿洲氏族通譜目錄</head> <lb/>
+    <p>
+<pb n="KR2g0044_WYG_108-1a"/>
+欽定四庫全書<lb/>
+　八旗滿洲氏族通譜目錄<lb/>
+　　卷五十四<lb/>
+　　薩克察氏<lb/>
+　　　球羅理<lb/>
+　　　　　右係有傳<lb/>
+　　　古拉庫　　　　　　薩竒納<lb/>
+　　　布勒圖　　　　　　夸哈納<lb/>
+<pb n="KR2g0044_WYG_108-1b"/>
+　　　　　以上俱附載<lb/>
+　　烏爾答氏<lb/>
+　　　嘉渾　　　　　　　布晉泰<lb/>
+　　　　　以上俱有傳<lb/>
+　　　布森泰　　　　　　鐸爾吉<lb/>
+　　　　　以上俱附載<lb/>
+　　圖克坦氏<lb/>
+　　　烏魯素<lb/>
+<pb n="KR2g0044_WYG_108-2a"/>
+　　　　　右係有傳<lb/>
+　　　阿爾泰　　　　　　拜音察理<lb/>
+　　　　　以上俱附載<lb/>
+　　郭爾佳氏<lb/>
+　　　羅滿<lb/>
+　　　　　右係有傳<lb/>
+　　　貝謨理　　　　　　鄂鼐<lb/>
+　　　　　以上俱附載<lb/>
+<pb n="KR2g0044_WYG_108-2b"/>
+　　洪鄂春氏<lb/>
+　　　阿哈達　　　　　　華色<lb/>
+　　　　　以上俱有傳<lb/>
+　　　赫勒　　　　　　　札魯<lb/>
+　　　揚阿納　　　　　　琦塔理<lb/>
+　　　穆禮堪　　　　　　玉陳<lb/>
+　　　伊喇布　　　　　　巴晉泰<lb/>
+　　　賽音三布祿　　　　外朗<lb/>
+<pb n="KR2g0044_WYG_108-3a"/>
+　　　　　以上俱附載<lb/>
+　　額爾圖氏<lb/>
+　　　察竒滿泰　　　　　納喇<lb/>
+　　　　　以上俱有傳<lb/>
+　　　江泰　　　　　　　魯庫<lb/>
+　　　揚節鼐　　　　　　遂勒丹<lb/>
+　　　烏瑚尼　　　　　　綽爾門<lb/>
+　　　　　以上俱附載<lb/>
+<pb n="KR2g0044_WYG_108-3b"/>
+　　彰錦氏<lb/>
+　　　松額理　　　　　　杭蘇理<lb/>
+　　　　　以上俱有傳<lb/>
+　　　伊齊哈　　　　　　札靈阿<lb/>
+　　　吳泰　　　　　　　喇哈<lb/>
+　　　殷達瑚齊　　　　　薩納<lb/>
+　　　濟拉蓀　　　　　　元保<lb/>
+　　　二格　　　　　　　塞克西<lb/>
+<pb n="KR2g0044_WYG_108-4a"/>
+　　　柏倫泰　　　　　　薩克錫<lb/>
+　　　夸喀　　　　　　　喀拉<lb/>
+　　　錫理　　　　　　　額滕格<lb/>
+　　　　　以上俱附載<lb/>
+　　聶格理氏<lb/>
+　　　瑚爾漢<lb/>
+　　　　　右係有傳<lb/>
+　　　達楚喀　　　　　　郞啟<lb/>
+<pb n="KR2g0044_WYG_108-4b"/>
+　　　佛庫訥　　　　　　滿都理<lb/>
+　　　　　以上俱附載<lb/>
+　　揚佳氏<lb/>
+　　　阿珠瑚<lb/>
+　　　　　右係有傳<lb/>
+　　　珠拉塔　　　　　　敖納<lb/>
+　　　吉爾恰納　　　　　海音禪<lb/>
+　　　武略庫　　　　　　齊圖善<lb/>
+<pb n="KR2g0044_WYG_108-5a"/>
+　　　諾和齊　　　　　　清山<lb/>
+　　　大達色　　　　　　鄂倫穆<lb/>
+　　　沙泰　　　　　　　格爾布<lb/>
+　　　都賚　　　　　　　海色<lb/>
+　　　　　以上俱附載<lb/>
+<pb n="KR2g0044_WYG_108-6a"/>
+欽定四庫全書<lb/>
+　八旗滿洲氏族通譜目錄<lb/>
+　　卷五十四<lb/>
+　　薩克察氏<lb/>
+　　　球羅理<lb/>
+　　　　　右係有傳<lb/>
+　　　古拉庫　　　　　　薩竒納<lb/>
+　　　布勒圖　　　　　　夸哈納<lb/>
+<pb n="KR2g0044_WYG_108-6b"/>
+　　　　　以上俱附載<lb/>
+　　烏爾答氏<lb/>
+　　　嘉渾　　　　　　　布晉泰<lb/>
+　　　　　以上俱有傳<lb/>
+　　　布森泰　　　　　　鐸爾吉<lb/>
+　　　　　以上俱附載<lb/>
+　　圖克坦氏<lb/>
+　　　烏魯素<lb/>
+<pb n="KR2g0044_WYG_108-7a"/>
+　　　　　右係有傳<lb/>
+　　　阿爾泰　　　　　　拜音察理<lb/>
+　　　　　以上俱附載<lb/>
+　　郭爾佳氏<lb/>
+　　　羅滿<lb/>
+　　　　　右係有傳<lb/>
+　　　貝謨理　　　　　　鄂鼐<lb/>
+　　　　　以上俱附載<lb/>
+<pb n="KR2g0044_WYG_108-7b"/>
+　　洪鄂春氏<lb/>
+　　　阿哈達　　　　　　華色<lb/>
+　　　　　以上俱有傳<lb/>
+　　　赫勒　　　　　　　札魯<lb/>
+　　　揚阿納　　　　　　琦塔理<lb/>
+　　　穆禮堪　　　　　　玉陳<lb/>
+　　　伊喇布　　　　　　巴晉泰<lb/>
+　　　賽音三布祿　　　　外朗<lb/>
+<pb n="KR2g0044_WYG_108-8a"/>
+　　　　　以上俱附載<lb/>
+　　額爾圖氏<lb/>
+　　　察竒滿泰　　　　　納喇<lb/>
+　　　　　以上俱有傳<lb/>
+　　　江泰　　　　　　　魯庫<lb/>
+　　　揚節鼐　　　　　　遂勒丹<lb/>
+　　　烏瑚尼　　　　　　綽爾門<lb/>
+　　　　　以上俱附載<lb/>
+<pb n="KR2g0044_WYG_108-8b"/>
+　　彰錦氏<lb/>
+　　　松額理　　　　　　杭蘇理<lb/>
+　　　　　以上俱有傳<lb/>
+　　　伊齊哈　　　　　　札靈阿<lb/>
+　　　吳泰　　　　　　　喇哈<lb/>
+　　　殷達瑚齊　　　　　薩納<lb/>
+　　　濟拉蓀　　　　　　元保<lb/>
+　　　二格　　　　　　　塞克西<lb/>
+<pb n="KR2g0044_WYG_108-9a"/>
+　　　柏倫泰　　　　　　薩克錫<lb/>
+　　　夸喀　　　　　　　喀拉<lb/>
+　　　錫理　　　　　　　額滕格<lb/>
+　　　　　以上俱附載<lb/>
+　　聶格理氏<lb/>
+　　　瑚爾漢<lb/>
+　　　　　右係有傳<lb/>
+　　　達楚喀　　　　　　郞啟<lb/>
+<pb n="KR2g0044_WYG_108-9b"/>
+　　　佛庫訥　　　　　　滿都理<lb/>
+　　　　　以上俱附載<lb/>
+　　揚佳氏<lb/>
+　　　阿珠瑚<lb/>
+　　　　　右係有傳<lb/>
+　　　珠拉塔　　　　　　敖納<lb/>
+　　　吉爾恰納　　　　　海音禪<lb/>
+　　　武略庫　　　　　　齊圖善<lb/>
+<pb n="KR2g0044_WYG_108-10a"/>
+　　　諾和齊　　　　　　清山<lb/>
+　　　大達色　　　　　　鄂倫穆<lb/>
+　　　沙泰　　　　　　　格爾布<lb/>
+　　　都賚　　　　　　　海色<lb/>
+　　　　　以上俱附載<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

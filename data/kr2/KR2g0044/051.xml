@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>八旗滿洲氏族通譜目録</head> <lb/>
+    <p>
+<pb n="KR2g0044_WYG_051-1a"/>
+欽定四庫全書<lb/>
+　八旗滿洲氏族通譜目録<lb/>
+　　卷二十五<lb/>
+　　沙濟地方富察氏<lb/>
+　　　旺吉努　　　　　　萬塔錫<lb/>
+　　　延珠瑚　　　　　　本科理<lb/>
+　　　唐哈思瑚　　　　　莽色<lb/>
+　　　喀爾喀瑪<lb/>
+<pb n="KR2g0044_WYG_051-1b"/>
+　　　　　以上俱有傳<lb/>
+　　　雅穆喀　　　　　　拉都哈<lb/>
+　　　阿爾泰　　　　　　岱清阿<lb/>
+　　　阿納海　　　　　　巴爾竒<lb/>
+　　　尼堪　　　　　　　達拉哈<lb/>
+　　　武什泰<lb/>
+　　　　　以上俱附載<lb/>
+　　葉赫地方富察氏<lb/>
+<pb n="KR2g0044_WYG_051-2a"/>
+　　　楚隆阿　　　　　　布丹<lb/>
+　　　阿布岱　　　　　　瑚錫泰<lb/>
+　　　琉達理　　　　　　桂森<lb/>
+　　　穆哈連　　　　　　葛巴庫<lb/>
+　　　多賴<lb/>
+　　　　　以上俱有傳<lb/>
+　　　巴爾賽　　　　　　拉克道<lb/>
+　　　鄂善　　　　　　　薩爾普<lb/>
+<pb n="KR2g0044_WYG_051-2b"/>
+　　　元保　　　　　　　布克察<lb/>
+　　　碩本吉　　　　　　農阿理<lb/>
+　　　薩穆哈　　　　　　都錫布<lb/>
+　　　額赫納　　　　　　葛布庫<lb/>
+　　　齊克什喀　　　　　阿克敦<lb/>
+　　　吳班　　　　　　　博德訥<lb/>
+　　　烏班泰　　　　　　吳齊堪<lb/>
+　　　達希布　　　　　　赫勒<lb/>
+<pb n="KR2g0044_WYG_051-3a"/>
+　　　諾音推　　　　　　恩特恒<lb/>
+　　　布穆布理　　　　　恩格布<lb/>
+　　　竒拜　　　　　　　額赫圖<lb/>
+　　　　　以上俱附載<lb/>
+　　額宜湖地方富察氏<lb/>
+　　　阿爾都山　　　　　額楚<lb/>
+　　　　　以上俱有傳<lb/>
+　　　喀克圖　　　　　　松塞克<lb/>
+<pb n="KR2g0044_WYG_051-3b"/>
+　　　珠雅諾　　　　　　吉瑪哈<lb/>
+　　　　　以上俱附載<lb/>
+　　扎庫塔地方富察氏<lb/>
+　　　德楞格　　　　　　瓦古理<lb/>
+　　　根圖恒<lb/>
+　　　　　以上俱有傳<lb/>
+　　　納庫　　　　　　　哈普週<lb/>
+　　　禪都喀　　　　　　雅爾古<lb/>
+<pb n="KR2g0044_WYG_051-4a"/>
+　　　布占　　　　　　　墨爾格德<lb/>
+　　　圖爾吉訥　　　　　布克圖<lb/>
+　　　　　以上俱附載<lb/>
+　　蜚悠城地方富察氏<lb/>
+　　　艾通阿　　　　　　烏珠阿穆巴<lb/>
+　　　富喀　　　　　　　塔禮<lb/>
+　　　費雅克塔　　　　　策穆特赫<lb/>
+　　　積克黨阿<lb/>
+<pb n="KR2g0044_WYG_051-4b"/>
+　　　　　以上俱有傳<lb/>
+　　　雅穆達　　　　　　阿密禪<lb/>
+　　　舒可式　　　　　　瑪福塔<lb/>
+　　　古揚素　　　　　　富喀達<lb/>
+　　　轄瑚　　　　　　　烏朗阿<lb/>
+　　　明阿努　　　　　　和爾弼<lb/>
+　　　殷登　　　　　　　沙達哈僧郭<lb/>
+　　　安楚瑚魯　　　　　邁圖<lb/>
+<pb n="KR2g0044_WYG_051-5a"/>
+　　　禮薩納　　　　　　塞赫訥<lb/>
+　　　邁凃<lb/>
+　　　　　以上俱附載<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

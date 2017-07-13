@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0007_WYG_005-1a"/>
+香山九老詩序<lb/>
+㑹昌五年三月二十四日胡吉劉鄭盧張等六人皆多<lb/>
+年夀余亦次焉於東都敝居履道坊内合尚齒之㑹七<lb/>
+老相顧既醉且歡静而思之此㑹希有因各賦七言六<lb/>
+韻詩一章以記之或傳諸好事者其年夏又有二老年<lb/>
+貌絶倫同歸故鄉亦來斯㑹續命書姓氏年齒冩其形<lb/>
+貌于圖右與前七老題為九老圖仍以一絶贈之云雪<lb/>
+作須眉雲作衣遼東華表暮雙歸當時一鶴猶希有何<lb/>
+<pb n="KR4h0007_WYG_005-1b"/>
+況今逢兩令威二老乃洛中遺老李元爽年一百三十<lb/>
+六禪僧如滿歸洛年九十五時祕書狄兼謨河南尹盧<lb/>
+貞以老未七十雖與㑹而不及列<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

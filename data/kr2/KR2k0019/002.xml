@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>海鹽澉水志巻二</head> <lb/>
+    <p>
+<pb n="KR2k0019_WYG_002-1a"/>
+欽定四庫全書<lb/>
+　海鹽澉水志巻二<lb/>
+　　　　　　　　　　　　宋　常棠　撰<lb/>
+　　山門<lb/>
+　　　長墻山在鎮東三里高八十丈周圍十九里山<lb/>
+　　　　之阿有黄道祠山之下有造船塲山之巔立<lb/>
+　　　　烽燧山之外捍大海秦始皇東遊登山望海<lb/>
+　　　　以其孤聳遥望如堵墻因名<lb/>
+<pb n="KR2k0019_WYG_002-1b"/>
+　　　葫蘆山在鎮西南四里四望絶在海中如葫蘆<lb/>
+　　　　出沒之狀潮生潮退葫蘆自若<lb/>
+　　　篠山在鎮東南六里<lb/>
+　　　秦駐山在鎮東北一十五里有始皇廟下有聚<lb/>
+　　　　落有荒草蕩俗為秦駐塢始皇東遊曾住此<lb/>
+　　　　山<lb/>
+　　　沈氏山在鎮東北五里<lb/>
+　　　半潮山在鎮東北五里<lb/>
+<pb n="KR2k0019_WYG_002-2a"/>
+　　　青山在鎮東三里為鎮市之主山<lb/>
+　　　廟山在鎮西北三里地名□頭上有□王土地<lb/>
+　　　　廟<lb/>
+　　　澤山在鎮西南五里<lb/>
+　　　黄毛山在鎮西北四里<lb/>
+　　　　右九山不種林木官給亭戸養草煎鹽之所<lb/>
+　　　□山在鎮西北五里上有普明院及有朱令公<lb/>
+　　　　廟<lb/>
+<pb n="KR2k0019_WYG_002-2b"/>
+　　　陸墓山在鎮西北五里因姓得名<lb/>
+　　　石屋山在鎮西北五里上有石壘成屋舊傳黄<lb/>
+　　　　巢時民避兵處<lb/>
+　　　楊山在鎮西北六里<lb/>
+　　　碧里山在鎮西北九里<lb/>
+　　　呉家山在鎮西四里<lb/>
+　　　右六山不種林木百姓牧養牛羊處所先是亭<lb/>
+　　　民百姓互爭柴山自五代至本朝有訟屢經御<lb/>
+<pb n="KR2k0019_WYG_002-3a"/>
+　　　判人以石匣貯文以藏於地二百年初無定屬<lb/>
+　　　每嵗交鋒山上殺死不已淳熙十一年倉使石<lb/>
+　　　檢詳起宗及幹辦公事常於公暇採輿論叅酌<lb/>
+　　　予奪各分定界永為不易之論具奏上悅由是<lb/>
+　　　息爭<lb/>
+　　　譚家嶺山在鎮西南十里與臨安府鹽官縣邵<lb/>
+　　　　灣交界<lb/>
+　　　泊櫓山在鎮西三里高冠諸山輿地志云始皇<lb/>
+<pb n="KR2k0019_WYG_002-3b"/>
+　　　　渡海泊櫓此山因名舊傳昔海舟泊此山下<lb/>
+　　　　後沙漲接鎮境<lb/>
+　　　荆山在鎮西南五里占永安湖之勝山有悟空<lb/>
+　　　　寺寺有五顯靈官廟其感應通靈<lb/>
+　　　葛母山在鎮南五里<lb/>
+　　　横山在鎮西三里柵橋上<lb/>
+　　　颺山在鎮西南五里永安湖側<lb/>
+　　　月山在鎮西三里堰下<lb/>
+<pb n="KR2k0019_WYG_002-4a"/>
+　　　竇家山在鎮西三里<lb/>
+　　　鳳凰山在鎮西南二里<lb/>
+　　　呉家山在鎮西南三里<lb/>
+　　　鷄籠山在鎮西南五里<lb/>
+　　　馬鞍山在鎮西北五里<lb/>
+　　　金牛山在永安湖西北<lb/>
+　　　塘灣在鎮東市中捍海岸也後聚居其上遂為<lb/>
+　　　　市井<lb/>
+<pb n="KR2k0019_WYG_002-4b"/>
+　　　棊子灣在鎮東長墻山外<lb/>
+　　　羅漢灣在鎮西泊櫓山側<lb/>
+　　　慈竹灣在鎮南二里<lb/>
+　　　細柳灣在鎮西三里<lb/>
+　　　竇家灣在鎮竇家山上<lb/>
+　　　張灣在鎮西南六里堰上<lb/>
+　　　蔡灣在鎮西南孫堰南<lb/>
+　　　南姚灣在鎮西北五里<lb/>
+<pb n="KR2k0019_WYG_002-5a"/>
+　　　北姚灣在鎮東北五里<lb/>
+　　　西陳灣在鎮西北黄毛山背<lb/>
+　　　東陳灣在鎮西北石屋山側<lb/>
+　　　夏灣在鎮東北八里<lb/>
+　　　陸吳灣在鎮西北五里<lb/>
+　　　横山灣在泊魯山前<lb/>
+　　　徐灣在柳家橋南<lb/>
+　　　邵灣在六里堰下<lb/>
+<pb n="KR2k0019_WYG_002-5b"/>
+　　　張撘在鎮市塘上古捍海增岸後民旅聚居其<lb/>
+　　　　上為市今俗呼曰塘上<lb/>
+　　　陸撘在六里堰下<lb/>
+　　　沈撘在鎮市南<lb/>
+　　　鴉鵲墓在陸撘客船不上岸者多在於此泊舟<lb/>
+　　　　為埠頭<lb/>
+　<lb/>
+　海鹽澉水志巻二<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

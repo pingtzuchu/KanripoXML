@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>春秋傳</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　經部五<lb/>
+　春秋傳　　　　　　　春秋類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案春秋傳十五卷宋劉敞撰敞所作<lb/>
+　　　　春秋權衡及意林宋時即有刊本此𫝊則諸<lb/>
+　　　　家藏弆皆寫本相𫝊近時通志堂刻入經解<lb/>
+　　　　始有板本故論者或疑其偽然核其議論體<lb/>
+　　　　裁與敞所著他書一一脗合非後人所能贋<lb/>
+<pb n="1b"/>
+　　　　作也其書皆節録三𫝊事蹟斷以已意其褒<lb/>
+　　　　貶義例多取諸公羊穀梁如以莊公圍郕師<lb/>
+　　　　還為仁義以公孫寧儀行父為有存國之功<lb/>
+　　　　以晉殺先縠為疾過以九月用郊為用人而<lb/>
+　　　　趙鞅入晉陽以叛一條尚沿三𫝊以地正國<lb/>
+　　　　之謬皆不免於膠固其經文雜用三𫝊不主<lb/>
+　　　　一家每以經傳連書不復區畫頗病混淆又<lb/>
+　　　　好減損三𫝊字句往往改竄失真如左傳惜<lb/>
+<pb n="2a"/>
+　　　　也越竟乃免句後人本疑非孔子之言敞改<lb/>
+　　　　為討賊則免而仍以孔子曰三字冠之殊為<lb/>
+　　　　踳駁考黄伯思東觀餘論稱考正書武成實<lb/>
+　　　　始於敞則宋代改經之弊敞導其先宜其視<lb/>
+　　　　改𫝊為固然矣然論其大致則得經意者為<lb/>
+　　　　多葢北宋以來出新意解春秋者自孫復與<lb/>
+　　　　敞始復沼啖趙之餘波幾於盡廢三𫝊敞則<lb/>
+　　　　不盡從𫝊亦不盡廢𫝊故所訓釋為逺勝於<lb/>
+<pb n="2b"/>
+　　　　復焉乾隆四十六年十月恭校上<lb/>
+　　　　　　總纂官臣<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+<pb n="3a"/>
+春秋傳原序<lb/>
+石林葉氏謂慶厯間歐陽文忠公以文章擅天下世莫<lb/>
+敢抗衡劉原父雖出其後以通經傳學自許文忠亦以<lb/>
+是推之作五代史新唐書凡例多問春秋於原父又曰<lb/>
+原父為春秋知經而不廢傳亦不盡泥傳據義攷例以<lb/>
+折衷之經傳更相𤼵明雖間有未然而淵源已正今學<lb/>
+者治經不精而蘇孫之學近而易明故皆信之而劉以<lb/>
+難入或詆以為用意太過出於穿鑿彼葢不知經無怪<lb/>
+<pb n="3b"/>
+其然也石林所謂蘇孫葢指子由莘老也晁公武謂劉<lb/>
+氏傳如桓無王季友卒胥命用郊之類皆古人所未言<lb/>
+諸公之推伏原父者若此今觀權衡之作折衷三家旁<lb/>
+引曲證以析經義真有權之無失輕重衡之得其平者<lb/>
+傳十五卷集衆説而斷以已見文類公穀獨意林一編<lb/>
+元吳萊謂多遺缺疑未脫藳之書然究而論之皆經學<lb/>
+名書也宋四明史有之刋權衡意林於清江其本猶有<lb/>
+傳者傳則出於録本人或以為非真觀其文義與二書<lb/>
+<pb n="4a"/>
+合疑非贋鼎故并刋之以傳示學者<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

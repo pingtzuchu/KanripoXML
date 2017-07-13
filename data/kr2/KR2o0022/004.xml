@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2o0022_WYG_004-1a"/>
+　　凡例<lb/>
+　凡提綱分目悉遵朱子凡例<lb/>
+　凡事迹悉據正史<hi>謂宋遼金元史及皇明實錄</hi>正史或有闕畧異<lb/>
+　　同參取宋長編元經世大典等書増入訂正或事<lb/>
+　　有可疑正史不載而傳聞彰著者畧述於目之末<lb/>
+　　以圈隔之或出某人曰以爲别疑以傳疑也<lb/>
+　凡得天下有救世之功者毎進<hi>綱目於漢唐皆然</hi>宋得天下<lb/>
+　　頗類唐故開寳八年大書如武徳七年例<lb/>
+<pb n="KR2o0022_WYG_004-1b"/>
+　凡入中原而未一統者不紀元<hi>遼金夏皆不紀倣漢唐例</hi>及金元<lb/>
+　　得中原然後分注紀年於宋年下<hi>倣晉魏例</hi>
+　凡外邦得統中國正統未絶猶繫之中國及外邦全<lb/>
+　　有天下<hi>謂元世祖</hi>中國統絶然後以統繫之其間書法間<lb/>
+　　亦有異<hi>如中國有稱兵者不書反叛之類</hi>及中國有義兵起卽夷之於<lb/>
+　　列國<hi>如秦隋之末</hi>
+　凡未踰年不成君不帝不崩<hi>如元明宗倣春秋王子猛及子野之例</hi>
+　凡遼金元官名悉從簡畧人名更改異同者依其初稱<lb/>
+<pb n="KR2o0022_WYG_004-2a"/>
+　　及其夲史為據<lb/>
+　凡諸儒論㫁附於目中皆稱姓名其出於正史者止<lb/>
+　　　稱史臣<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

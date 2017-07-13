@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4f0001_WYG_368-1a"/>
+　欽定四庫全書<lb/>
+聖祖仁皇帝御製文第四集巻三十四目録<lb/>
+　　古今體詩三十五首<lb/>
+　　　舟中觀耕種<lb/>
+　　　春歸<lb/>
+　　　南方靑竹叢林不乏觀玩北地氣寒非保䕶得宜<lb/>
+　　　　即難藝植朕嘗有事河干往來數次覽竹樹之<lb/>
+　　　　暢茂暫時停輦即行後於禁苑種植頗蕃今經<lb/>
+<pb n="KR4f0001_WYG_368-1b"/>
+　　　　三十餘年邇來延致數畆之廣其圍至八寸徑<lb/>
+　　　　二寸五分有零古人以竹比君子因而思及草<lb/>
+　　　　木無知積小以至於髙大人有血氣加之培養<lb/>
+　　　　豈非國家楨幹之選歟故賦七言一律記之<lb/>
+　　　五十四年仲夏避暑途中瑞麥盈野賦五言律以<lb/>
+　　　　記<lb/>
+　　　毎見村農野老不識不知天然自得孝弟發於至<lb/>
+　　　　性樸誠不事文辭故羙其實而取先進之意賦<lb/>
+<pb n="KR4f0001_WYG_368-2a"/>
+　　　七言一律<lb/>
+　　擎盖荷珠<hi>調寄鷓鴣天</hi>
+　　雨後戯題回文詩<lb/>
+　　佛手柑<lb/>
+　　賦得江城五月落梅花<lb/>
+　　芝徑雲隄細雨歸舟<lb/>
+　　題蘭<lb/>
+　　詠剪秋羅<lb/>
+<pb n="KR4f0001_WYG_368-2b"/>
+　　餞大學士李光地暫回閩省<lb/>
+　　秋幸出郊見收成志喜五言律二首<lb/>
+　　賦得帳殿鬱崔嵬二首<lb/>
+　　康熈五十四年十月初三日避暑山莊恭祝<lb/>
+皇太后萬夀詩<hi>并序</hi>
+　　冬日可愛<lb/>
+　　冬夜偶成二首<lb/>
+　　餞閩撫陳璸<lb/>
+<pb n="KR4f0001_WYG_368-3a"/>
+　　季冬湯泉<lb/>
+　　五十四年除夕偶成<lb/>
+　　康熈五十五年正月元旦書懐<lb/>
+　　上元前三日立春<lb/>
+　　五十五年正月十二癸卯立春是日風從東北而<lb/>
+　　　至景雲宻布瑞雪鋪地至十三日未止書云立<lb/>
+　　　春與元日同占乃收成之兆故喜民有足食之<lb/>
+　　　慶朕慰宵旰之憂賦五言排律以記其事<lb/>
+<pb n="KR4f0001_WYG_368-3b"/>
+　　春寒梅遲<lb/>
+　　湯泉道上遇雪口占<lb/>
+　　春風扇微和二首<lb/>
+　　題朱倫瀚手指畫雪梅竹二首<lb/>
+　　兩廣總督趙宏燦陛見來京<lb/>
+　　賦得二月春風似剪刀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

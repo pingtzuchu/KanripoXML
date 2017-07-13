@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2a0029_WYG_157-1a"/>
+　舊五代史巻七十八攷證<lb/>
+晉書高祖紀四以澶州防禦使張從恩為樞密副使樞<lb/>
+　密副使原本作樞密使按下文亦作樞密副使今從<lb/>
+　歐陽史及宋史張從恩傳改正<lb/>
+以版詔徴華山隱者前右拾遺鄭雲叟　右拾遺歐陽<lb/>
+　史作左拾遺攷是書前後俱作右拾遺今仍其舊<lb/>
+以潞州節度使今後私鑄錢下禁依舊法　案歐陽史<lb/>
+　七月丙辰復禁鑄錢是書作七月戊申侯益爲徐州<lb/>
+<pb n="KR2a0029_WYG_157-1b"/>
+　節度使　案宋史侯益傳天福四年晉祖追念虎牢<lb/>
+　之功遷武寧軍節度同平章事是書不載同平章<lb/>
+　五代會要所載天福中使相有侯益與宋史同<lb/>
+李自倫義居七世準勅旌表門閭　七世歐陽史作六<lb/>
+　世又旌表門閭歐陽史作正月與是書作閏七月異<lb/>
+先有鄧州義門王仲昭六代同居　案王仲昭歐陽史<lb/>
+　作登州人<lb/>
+乙亥詔立唐高祖太宗及莊宗明宗閔帝五廟于洛陽<lb/>
+<pb n="KR2a0029_WYG_157-2a"/>
+　　案立唐廟于西京歐陽史作十二月與是書作十<lb/>
+　一月異<lb/>
+訥黙庫舊作黏木孤今改<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2a0029_WYG_157-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　舊五代史巻七十八攷證<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>明諡紀彚編卷六</head> <lb/>
+    <p>
+<pb n="KR2m0031_WYG_006-1a"/>
+欽定四庫全書<lb/>
+　明諡紀彚編卷六<lb/>
+　　　　　　　　　　　　明　郭良翰　撰<lb/>
+　　尊諡三<lb/>
+　　　皇妃諡四字<lb/>
+恭和榮順<lb/>
+　文廟賢妃王氏<hi>永樂</hi>
+恭順榮穆<lb/>
+<pb n="KR2m0031_WYG_006-1b"/>
+　文廟麗妃陳氏<hi>永樂</hi>
+恭荘端惠<lb/>
+　英廟徳妃魏氏<hi>成化</hi>
+恭和安靖<lb/>
+　英廟順妃樊氏<hi>成化</hi>
+恭恪荘僖<lb/>
+　憲廟淑妃紀氏<hi>成化</hi>
+恭淑安僖<lb/>
+<pb n="KR2m0031_WYG_006-2a"/>
+　世廟追封榮妃楊氏<lb/>
+端静恭惠<lb/>
+　世廟淑妃楊氏<hi>永樂</hi>
+端静安和<lb/>
+　英廟惠妃王氏<hi>成化</hi>
+荘静安榮<lb/>
+　髙廟惠妃崔氏<hi>永樂</hi>
+　英廟淑妃髙氏<hi>正徳</hi>
+<pb n="KR2m0031_WYG_006-2b"/>
+荘僖端肅<lb/>
+　英廟安妃楊氏<hi>成化</hi>
+昭肅靖惠<lb/>
+　文廟賢妃王氏<hi>永樂</hi>
+昭惠恭懿<lb/>
+　文廟順妃王氏<hi>永樂</hi>
+昭肅靖端<lb/>
+　英廟賢妃王氏<hi>成化</hi>
+<pb n="KR2m0031_WYG_006-3a"/>
+忠敬昭順<lb/>
+　文廟賢妃喻氏<hi>永樂</hi>
+惠穆昭敬<lb/>
+　文廟順妃錢氏<hi>永樂</hi>
+康靖荘和<lb/>
+　文廟惠妃崔氏<hi>永樂</hi>
+康惠荘肅<lb/>
+　文廟麗妃韓氏<hi>永樂</hi>
+<pb n="KR2m0031_WYG_006-3b"/>
+康穆懿恭<lb/>
+　文廟惠妃吳氏<hi>永樂</hi>
+貞順懿恭<lb/>
+　英廟敬妃劉氏<hi>天順</hi>
+靖荘安穆<lb/>
+　英廟宸妃萬氏<hi>成化</hi>
+安和榮靖<lb/>
+　英廟麗妃劉氏<hi>正徳</hi>
+<pb n="KR2m0031_WYG_006-4a"/>
+端惠安榮<lb/>
+　世廟靖妃盧氏<hi>嘉靖</hi>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0031_WYG_006-4b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　明諡紀彚編卷六<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

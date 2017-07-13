@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>侯鯖録</head>
+    <p>
+<pb n="KR3l0047_WYG_000-1a"/>
+欽定四庫全書　　　　　子部十二<lb/>
+　侯鯖録　　　　　　　　小說家𩔖一<hi>雜事之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案侯鯖録八卷宋趙令畤撰令畤字<lb/>
+　　　　徳麟燕王徳昭元孫元祐中僉書潁州公事<lb/>
+　　　　坐與蘇軾交通罰金入黨籍紹興初襲卦安<lb/>
+　　　　定郡王同知行在大宗正事是書採録故事<lb/>
+　　　　詩話頗為精贍然如第五卷辨傳竒鶯鶯事<lb/>
+<pb n="KR3l0047_WYG_000-1b"/>
+　　　　凡數十條每條綴之以詞未免失之冶蕩歐<lb/>
+　　　　陽修以艷曲數闋被謗釋文瑩著湘山野録<lb/>
+　　　　尚辨其枉而令畤此書乃著其挟妓事載其<lb/>
+　　　　詩于卷中未免近誣朱翌猗覺寮襍記稱上<lb/>
+　　　　元放燈增十七十八兩夜乃建隆五年詔書<lb/>
+　　　　以時和嵗豐之故見太祖寔録三朝國史諸<lb/>
+　　　　書令畤乃云錢氏納土進錢買兩夜亦屬妄<lb/>
+　　　　傳又今畤雖因蘇軾入黨籍而後附内侍譚<lb/>
+<pb n="KR3l0047_WYG_000-2a"/>
+　　　　稹以進頗違清議此書乃稱余為元祐黨人<lb/>
+　　　　牽復過陳舉王叡昭君怨詩示張文潛文潛<lb/>
+　　　　云此真先生所謂篤行而剛者云云尤不免<lb/>
+　　　　愧詞然令畤所與逰處皆元祐勝流耳濡目<lb/>
+　　　　染見聞自異諸所記録多尚有典型是固不<lb/>
+　　　　以人廢言矣乾隆四十三年八月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

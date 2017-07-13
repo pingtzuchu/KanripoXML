@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>學古緒言</head>
+    <p>
+<pb n="KR4e0231_WYG_000-1a"/>
+欽定四庫全書　　　　　集部六<lb/>
+　學古緒言　　　　　　　别集類五<hi>明</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案學古緒言二十五巻明婁堅撰堅<lb/>
+　　　　字子柔長洲人隆萬間貢生早從歸有光游<lb/>
+　　　　明史文苑傳附載有光傳中稱其與唐時升<lb/>
+　　　　程嘉燧號練川三老又與時升嘉燧及李流<lb/>
+　　　　芳號嘉定四先生然嘉燧以依附錢謙益得<lb/>
+<pb n="KR4e0231_WYG_000-1b"/>
+　　　　名本非端士核其所作與三人如蒹葭倚玉<lb/>
+　　　　未可同稱至三人之中時升流芳雖均得有<lb/>
+　　　　光之傳而能融㑹師說以成一家言者又當<lb/>
+　　　　以堅為冠盖明之末造太倉歴下餘焰猶張<lb/>
+　　　　公安竟陵新聲屢變文章衰敝莫甚斯時堅<lb/>
+　　　　以鄉曲儒生獨能支拄頺瀾延古文之一派<lb/>
+　　　　其文沿溯八家而不勦襲其面貌和平安雅<lb/>
+　　　　能以真樸勝人亦可謂永嘉之末得聞正始<lb/>
+<pb n="KR4e0231_WYG_000-2a"/>
+　　　　之音矣王士禎居易錄嘗稱其長慶集序以<lb/>
+　　　　為真古文今觀是集大抵具有古法不但是<lb/>
+　　　　篇士禎特偶舉其一也乾隆四十五年五月<lb/>
+　　　　恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

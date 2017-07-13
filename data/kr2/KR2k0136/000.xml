@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>佛國記</head>
+    <p>
+<pb n="KR2k0136_WYG_000-1a"/>
+欽定四庫全書　　　　史部十一<lb/>
+　佛國記　　　　　　　地理類十<hi>外紀之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案佛國記一卷宋釋法顯撰杜佑通<lb/>
+　　　　典引此書又作法明葢中宗諱顯唐人以明<lb/>
+　　　　字代之故原注有國諱改焉四字也法顯晉<lb/>
+　　　　義熈中自長安游天竺經三十餘國還到京<lb/>
+　　　　與天竺禪師叅互辨定以成是書胡震亨刻<lb/>
+<pb n="KR2k0136_WYG_000-1b"/>
+　　　　入祕冊函中從舊題曰佛國記而震亨附跋<lb/>
+　　　　則以為當名法顯傳今考酈道元水經注引<lb/>
+　　　　此書所云于此順嶺西南行十五日以下八<lb/>
+　　　　十九字又引恒水上流有一國以下二百七<lb/>
+　　　　十六字皆稱曰法顯傳則震亨之説似為有<lb/>
+　　　　據然隋志雜傳類中載法顯傳二卷法顯行<lb/>
+　　　　傳一卷不著撰人地理類載佛國記一卷注<lb/>
+　　　　曰沙門釋法顯撰一書兩收三名互見則亦<lb/>
+<pb n="KR2k0136_WYG_000-2a"/>
+　　　　不必定改法顯傳也其書以天竺為中國以<lb/>
+　　　　中國為邊地葢釋氏自尊其教其誕謬不足<lb/>
+　　　　與争又于闐即今和闐自古以來崇回回教<lb/>
+　　　　法<lb/>
+　　欽定西域圖志考證甚明而此書載其有十四僧<lb/>
+　　　　伽藍衆僧數萬人則所記亦不必盡實然六<lb/>
+　　　　朝舊笈流傳頗乆其叙述古雅亦非後來行<lb/>
+　　　　記所及存廣異聞亦無不可也書中稱宏始<lb/>
+<pb n="KR2k0136_WYG_000-2b"/>
+　　　　三年嵗在己亥案晉書姚萇宏始二年為晉<lb/>
+　　　　隆安四年當稱庚子所紀較前差一年然晉<lb/>
+　　　　書本紀載趙石虎建武六年當咸康五年嵗<lb/>
+　　　　在己亥而金石録載趙横山李君神碑及西<lb/>
+　　　　門豹祠殿基記乃均作建武六年庚子復後<lb/>
+　　　　差一年葢其時諸國紛争或踰年改元或不<lb/>
+　　　　踰年改元漫無定制又南北隔絶傳聞異詞<lb/>
+　　　　未可斷史之必是此之必非今仍其舊文以<lb/>
+<pb n="KR2k0136_WYG_000-3a"/>
+　　　　從闕疑之義焉乾隆四十六年二月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

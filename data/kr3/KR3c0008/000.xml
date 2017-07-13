@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3c0008_SBCK_000-1a"/>
+棠隂比事序<lb/>
+疑獄有集舊矣理掾桂君萬榮今所撰次尤詳<lb/>
+真治獄龜鑑也職牧守者所當究心毋徒曰此<lb/>
+司狴犴者之責也昔于公自謂治獄有隂徳遽<lb/>
+高其門我朝錢公若水問獄得情亦自其為郡<lb/>
+府小官時桂君之為此其後詎可量耶亟命鋟<lb/>
+木用廣其傳嘉定癸酉良月既望莆田劉隷書<lb/>
+于金陵郡齋<lb/>
+<pb n="KR3c0008_SBCK_000-1b"/>
+<pb n="KR3c0008_SBCK_000-1b"/>
+棠隂比事序<lb/>
+開禧丁邜春僕以饒之餘干尉趨郡書滿紏曹<lb/>
+孫公起予武林人也留欵竟曰話次因及臬事<lb/>
+謂凡典獄之官實生民司命天心向背國祚脩<lb/>
+短係焉比他職掌尤當謹重近者畨陽尉胥為<lb/>
+人所殺昏暯莫知主名承捕之吏續執俞逹以<lb/>
+告証佐皆具亦既承伏已且謀連三弓手結欵<lb/>
+無一異詞某獨不能無疑躬造䑓府請緩其事<lb/>
+重立賞榜廣布耳目俾緝正囚未幾果得龔立<lb/>
+<pb n="KR3c0008_SBCK_000-2a"/>
+者以正典刑不然横致四無辜於死地啣冤千<lb/>
+古咎将誰執萬榮聞之瞿然歛袵因嘆吾夫子<lb/>
+三絶韋編特著其議獄緩死之象於中孚而古<lb/>
+之君子亦盡心於一成不可變者公其有焉既<lb/>
+而東歸參選待次建康犴曹屢省斯事若有隱<lb/>
+憂遂於暇日取和魯公父子疑獄集參以開封<lb/>
+鄭公折獄龜鑑比事属詞聮成七十二韻號曰<lb/>
+棠隂比事凡與我同志者類能上體歷代欽卹<lb/>
+之意下䆒諸公編劘之心研精極慮不謂空言<lb/>
+<pb n="KR3c0008_SBCK_000-2b"/>
+則棠隂著明教棘林無夜哭曷勝多禮之幸是<lb/>
+用弗嫌於近名擬鋟諸木以廣其傳歲在重光<lb/>
+恊洽閏月望日四明桂萬榮序<lb/>
+<pb n="KR3c0008_SBCK_000-3a"/>
+<pb n="KR3c0008_SBCK_000-4a"/>
+棠隂比事目録<lb/>
+　　　　向相訪賊　錢推求奴<lb/>
+　　　　曹攄明婦　装均釋夫<lb/>
+　　　　程顥詰翁　丙吉驗子<lb/>
+　　　　李崇還㤗　黄覇叱姒<lb/>
+　　　　歐陽左手　惟濟右臂<lb/>
+　　　沈括顙喉　南公塞鼻<lb/>
+　　　程琳烓竈　強至油幕<lb/>
+　　　妾吏酖宋　玉素毒郭<lb/>
+<pb n="KR3c0008_SBCK_000-4b"/>
+　　　　彦超虗盗　道讓詐囚<lb/>
+　　　　孫甫舂粟　許元焚舟<lb/>
+　　　　宗元守辜　魏濤證死<lb/>
+　　　　桑懌閉柵　蘇秦徇市<lb/>
+　　　　任城示靴　楊津獲絹<lb/>
+　　　　李傑買棺　重榮咄箭<lb/>
+　　　　蘓請祔柩　賈廢追服<lb/>
+　　　　子産知姦　荘遵疑哭<lb/>
+　　　　思兢詐客　佐史誣裴<lb/>
+<pb n="KR3c0008_SBCK_000-5a"/>
+　　　　季珪鷄豆　張舉猪灰<lb/>
+　　　　定牧認皮　滄州市脯<lb/>
+　　　　張受越訴　裴命急吐<lb/>
+　　　　王質母原　馬亮悉貸<lb/>
+　　　　允濟聴葱　彭城書菜<lb/>
+　　　　吕婦斷腕　包牛割舌<lb/>
+　　　　崔黯搜帑　張輅行穴<lb/>
+　　　　杜鎬毁像　次翁戮男<lb/>
+　　　　傅令鞭絲　李惠撃鹽<lb/>
+<pb n="KR3c0008_SBCK_000-5b"/>
+　　　　楊牧笞巫　薛向執賈<lb/>
+　　　　程戡仇門　仲游帥宇<lb/>
+　　　　符融沐枕　獄吏滌屨<lb/>
+　　　　宗裔卷紬　髙防校布<lb/>
+　　　　江分表裏　章辨朱墨<lb/>
+　　　　胡質集隣　髙柔察色<lb/>
+　　　　蔣常覘嫗　思彦集兒<lb/>
+　　　　劉相隣證　韓參乳醫<lb/>
+　　　　袁滋鑄金　孫寳秤散<lb/>
+<pb n="KR3c0008_SBCK_000-6a"/>
+　　　　程簿舊錢　王璩故簡<lb/>
+　　　　公綽破柩　元膺擒轝<lb/>
+　　　　栁冤瘖奴　王扣狂嫗<lb/>
+　　　　李公驗櫸　王臻辨葛<lb/>
+　　　　頴知子盗　孫料兄殺<lb/>
+　　　　鄭躬明誤　希亮救亡<lb/>
+　　　　商原詐服　竇阻免䘮<lb/>
+　　　　薛絹互争　符盗並走<lb/>
+　　　　蕭儼震牛　懐武用狗<lb/>
+<pb n="KR3c0008_SBCK_000-6b"/>
+　　　　文成括書　郎簡校劵<lb/>
+　　　　孝肅杖吏　周相収掾<lb/>
+　　　　方偕主名　宋文墨迹<lb/>
+　　　　陳議捍取　胡争竊食<lb/>
+　　　　御史失状　國淵求牋<lb/>
+　　　　偉冐范祚　䖍傚鄧賢<lb/>
+　　　　次武各驅　憲之俱解<lb/>
+　　　　張昇窺井　蔡髙宿海<lb/>
+　　　　劉湜焚屍　髙防劾病<lb/>
+<pb n="KR3c0008_SBCK_000-7a"/>
+　　　　王鍔匿名　至逺憶姓<lb/>
+　　　　希崇並付　齊賢兩易<lb/>
+　　　　王珣辨印　尹洙檢籍<lb/>
+　　　　孫登比彈　徳𥙿模金<lb/>
+　　　　梁適重詛　袁彖惡淫<lb/>
+　　　　曹駮坐妻　孔議詈母<lb/>
+　　　　孫亮驗蜜　杜亞疑酒<lb/>
+　　　　傅隆議絶　漢武明繼<lb/>
+　　　　戴争異罰　徐詰縁例<lb/>
+<pb n="KR3c0008_SBCK_000-7b"/>
+　　　　刑曹駮財　左丞免讁<lb/>
+　　　　從事凾首　乖崖察額<lb/>
+　　　　無名破塜　行成叱驢<lb/>
+　　　　王曽驗稅　司空省書<lb/>
+　　　　韋臯劾財　趙和贖産<lb/>
+　　　　栁設榜牒　陳具飲饌<lb/>
+　　　　朱詰賕民　孔察代盗<lb/>
+　　　　崇龜認刀　司馬視鞘<lb/>
+　　　　張鷟搜鞍　濟羙鈎篋<lb/>
+<pb n="KR3c0008_SBCK_000-8a"/>
+　　　　承天議射　廷尉訊獵<lb/>
+棠隂比事目録<hi>終</hi>
+<pb n="KR3c0008_SBCK_000-8b"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

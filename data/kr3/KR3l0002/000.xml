@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3l0002_SBCK_000-1a"/>
+刻世說新語序<lb/>
+　　　　　　　　　吳　郡　袁　褧　撰<lb/>
+嘗攷載記所述晉人話言簡約玄澹爾雅有韻世言<lb/>
+江左善淸談今閱新語信乎其言之也臨川撰爲此<lb/>
+書採掇綜叙明畼不繁孝標所注能收錄諸家小史<lb/>
+分釋其義詁訓之賞見於高似孫緯略余家藏宋本<lb/>
+是放翁校刋本謝湖躬耕之暇毛披心寄自謂可觀<lb/>
+爰付梓人傳之同好因嘆昔人論司馬氏之祚亡於<lb/>
+淸談斯言也無乃過甚矣乎竹林之儔希慕沂樂䔵<lb/>
+亭之集咏歌堯風陶荆州之勤敏謝東山之恬鎭解<lb/>
+<pb n="KR3l0002_SBCK_000-1b"/>
+莊易則輔嗣平叔擅其宗析𣑽言則道林法深領其<lb/>
+乗或詞冷而趣遠或事瑣而意奧風旨各殊人有興<lb/>
+託王茂弘祖士雅之流才通氣峻心翼王室又斑斑<lb/>
+載諸册簡是可非之者哉詩不云乎濟濟多士文王<lb/>
+以寧余以琅琊王之渡江諸賢弘賛之力爲多非强<lb/>
+說也夫諸晤言率遇藻裁遂爲終身品目故類以標<lb/>
+格相高玄虚成習一時雅尚有東京㕑俊之流風焉<lb/>
+然曠達拓落濫觴莫拯取譏世敎撫卷惜之此於諸<lb/>
+賢不無遺憾焉耳矣刻成序之嘉靖乙未歳立秋日<lb/>
+也<lb/>
+<pb n="KR3l0002_SBCK_000-2a"/>
+世說新語目錄<lb/>
+　　上卷<hi>上</hi>
+　　　德行　言語<lb/>
+　　上卷<hi>下</hi>
+　　　政事　文學<lb/>
+　　中卷<hi>上</hi>
+　　　方正　雅量<lb/>
+　　　識鑒<lb/>
+　　中卷<hi>下</hi>
+　　　賞譽　品藻<lb/>
+<pb n="KR3l0002_SBCK_000-2b"/>
+　　　規箴　捷悟<lb/>
+　　　夙惠　豪爽<lb/>
+　　下卷<hi>上</hi>
+　　　容止　自新<lb/>
+　　　企羡　傷逝<lb/>
+　　　棲逸　賢媛<lb/>
+　　　術解　巧藝<lb/>
+　　　寵禮　任誕<lb/>
+　　　簡傲<lb/>
+　　下卷<hi>下</hi>
+<pb n="KR3l0002_SBCK_000-3a"/>
+　　　排調　輕詆<lb/>
+　　　假譎　黜免<lb/>
+　　　儉嗇　汰汐<lb/>
+　　　忿狷　䜛險<lb/>
+　　　尤悔　紕漏<lb/>
+　　　惑溺　仇隟<lb/>
+世說新語目錄<lb/>
+<pb n="KR3l0002_SBCK_000-3b"/>
+　　宋臨川王義慶采擷漢晉以來佳事佳話爲世<lb/>
+　　說新語極爲精絶而猶未爲奇也梁劉孝標注<lb/>
+　　此書引援詳確有不言之妙如引漢魏吳諸史<lb/>
+　　及子傳地理之書皆不必言只如晉氏一朝史<lb/>
+　　及晉諸公列傳譜錄文章凡一百六十六家皆<lb/>
+　　岀於正史之外紀載特詳聞見未接寔爲注書<lb/>
+　　之法<hi>右見髙氏緯略</hi>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

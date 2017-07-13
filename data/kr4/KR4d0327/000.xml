@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>鐵菴集</head>
+    <p>
+<pb n="KR4d0327_WYG_000-1a"/>
+欽定四庫全書　　　　　集部四<lb/>
+　鐵菴集　　　　　　　　别集類三<hi>宋</hi>
+　　提要<lb/>
+　　　　臣等謹案鐵菴集三十五巻宋方大琮撰大<lb/>
+　　　　琮字徳潤號壺山莆田人開禧元年省試第<lb/>
+　　　　三人除右正言疏論天下大勢復言理亂安<lb/>
+　　　　危之要遷起居舍人兼實錄院檢討官奉祠<lb/>
+　　　　去職尋改集英殿修撰知廣州調知隆興卒<lb/>
+<pb n="KR4d0327_WYG_000-1b"/>
+　　　　諡忠惠宋史無傳其事蹟略見福建通志中<lb/>
+　　　　今按周密齊東野語稱閩漕方大琮與王臞<lb/>
+　　　　軒友善而集中亦有將卿漕之命語則常官<lb/>
+　　　　福建轉運使又集首原題宋寳章閣直學士<lb/>
+　　　　則不終於集英修撰蓋通志所紀歴官猶未<lb/>
+　　　　備也宋季三朝政要載理宗端平三年大琮<lb/>
+　　　　為右正言上疏極論濟王之寃侍御史蔣峴<lb/>
+　　　　劾其皷扇異端與王逸劉克莊同日去國蓋<lb/>
+<pb n="KR4d0327_WYG_000-2a"/>
+　　　　亦謇諤敢言之士故其疏多能疏通暢達切<lb/>
+　　　　中時弊經義亦頗有可觀雖文格稍涉平衍<lb/>
+　　　　而要非㳺談無根也原集久佚此本乃其族<lb/>
+　　　　孫良永良節等蒐輯編成蓋散亡之餘已非<lb/>
+　　　　全帙矣乾隆四十六年五月恭校上<lb/>
+　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

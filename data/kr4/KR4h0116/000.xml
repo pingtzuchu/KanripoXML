@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>吳都文粹續集</head>
+    <p>
+<pb n="KR4h0116_WYG_000-1a"/>
+欽定四庫全書　　　　　集部八<lb/>
+　吳都文粹續集　　　　　總集類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案吳都文粹續集五十六巻補遺二<lb/>
+　　　　巻明錢榖撰榖字叔寳長洲人是書乃續宋<lb/>
+　　　　鄭虎臣吳都文粹而作朱彞尊詩話稱榖貧<lb/>
+　　　　無典籍逰文徴明之門日取插架書讀之手<lb/>
+　　　　抄異書最多至老不倦倣虎臣文粹輯成續<lb/>
+<pb n="KR4h0116_WYG_000-1b"/>
+　　　　編聞有三百巻其子功父繼之吳中文獻藉<lb/>
+　　　　以不墜云云所稱巻數與此不符疑合功父<lb/>
+　　　　續編言之或榖舊稿原有此數後復加刪汰<lb/>
+　　　　以成今本彞尊乃據其初稿言之歟此本第<lb/>
+　　　　五十三巻五十四巻俱佚第五十巻亦有殘<lb/>
+　　　　缺檢勘他本並同流傳既久不免脫遺已非<lb/>
+　　　　完本其中所標二十一門分類亦多未確葢<lb/>
+　　　　能博而未能精者然書中所載自説部類家<lb/>
+<pb n="KR4h0116_WYG_000-2a"/>
+　　　　詩編文稿以至遺碑斷碣無不甄羅其採輯<lb/>
+　　　　之富視鄭書㡬増至十倍學者欲徴文考獻<lb/>
+　　　　要必於是乎取資焉乾隆四十三年七月恭<lb/>
+　　　　校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

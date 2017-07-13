@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>八旗滿洲氏族通譜目錄</head> <lb/>
+    <p>
+<pb n="KR2g0044_WYG_096-1a"/>
+欽定四庫全書<lb/>
+　八旗滿洲氏族通譜目錄<lb/>
+　　卷四十八<lb/>
+　　虎爾哈地方虎爾哈氏<lb/>
+　　　納漢泰扎爾固齊　　托克推<lb/>
+　　　阿喜布祿　　　　　吴勒穆<lb/>
+　　　雅達渾　　　　　　郭爾琨<lb/>
+　　　　　以上俱有傳<lb/>
+<pb n="KR2g0044_WYG_096-1b"/>
+　　　鄂錫<lb/>
+　　　　　右係附載<lb/>
+　　新達謨城地方虎爾哈氏<lb/>
+　　　康喀賚扎爾固齊　　塔爾巴齊<lb/>
+　　　　　以上俱有傳<lb/>
+　　　富達理　　　　　　薩哈連<lb/>
+　　　　　以上俱附載<lb/>
+　　各地方虎爾哈氏<lb/>
+<pb n="KR2g0044_WYG_096-2a"/>
+　　　珠爾庫<lb/>
+　　　　　右係有傳<lb/>
+　　　訥爾圖　　　　　　墨爾根<lb/>
+　　　阿哈棣　　　　　　雅爾哈<lb/>
+　　　　　以上俱附載<lb/>
+　　蘇佳氏<lb/>
+　　　尼雅星阿　　　　　瑪納漢<lb/>
+　　　武拜<lb/>
+<pb n="KR2g0044_WYG_096-2b"/>
+　　　　　以上俱有傳<lb/>
+　　　岱珠瑚　　　　　　烏巴海<lb/>
+　　　舒訥　　　　　　　璧赫徳<lb/>
+　　　色克特　　　　　　巴本<lb/>
+　　　愛星阿　　　　　　拜色<lb/>
+　　　圖巴泰　　　　　　布爾哈<lb/>
+　　　蘇栢和<lb/>
+　　　　　以上俱附載<lb/>
+<pb n="KR2g0044_WYG_096-3a"/>
+　　溫徹亨氏<lb/>
+　　　博爾濟　　　　　　烏雲珠<lb/>
+　　　　　以上俱有傳<lb/>
+　　　赫董額<lb/>
+　　　　　右係附載<lb/>
+　　哲爾德氏<lb/>
+　　　塔布岱　　　　　　雅魯堪<lb/>
+　　　　　以上俱有傳<lb/>
+<pb n="KR2g0044_WYG_096-3b"/>
+　　　哲爾德　　　　　　顔岱<lb/>
+　　　綽克托　　　　　　渾岱<lb/>
+　　　費揚古<lb/>
+　　　　　以上俱附載<lb/>
+　　溫察氏<lb/>
+　　　安泰　　　　　　　博多渾<lb/>
+　　　　　以上俱有傳<lb/>
+　　　巴哈納　　　　　　楠道<lb/>
+<pb n="KR2g0044_WYG_096-4a"/>
+　　　尼雅哈　　　　　　温齊<lb/>
+　　　　　以上俱附載<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

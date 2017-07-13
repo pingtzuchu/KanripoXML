@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>毛詩名物解</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　　經部三<lb/>
+　毛詩名物解　　　　　　詩類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹按毛詩名物解二十卷宋蔡卞撰卞<lb/>
+　　　　字元度興化仙㳺人熙寧三年與兄京同舉<lb/>
+　　　　進士第仕至觀文殿學士事迹具宋史自王<lb/>
+　　　　安石新義及字説行而宋之士風一變其為<lb/>
+　　　　名物訓詁之學者僅卞與陸佃二家佃安石<lb/>
+<pb n="1b"/>
+　　　　客卞安石壻也故佃作埤雅下作此書大㫖<lb/>
+　　　　皆以字説為宗陳振孫稱卞書議論穿鑿徴<lb/>
+　　　　引𤨏碎無禆於經義詆之甚力葢佃雖學術<lb/>
+　　　　本安石而力沮新法齗齗異議君子猶或取<lb/>
+　　　　之卞則傾邪姦憸犯天下之公惡因其人以<lb/>
+　　　　及其書羣相排斥亦自取也然其書雖王氏<lb/>
+　　　　之學而引証𤼵明亦有出於孔頴達陸璣之<lb/>
+　　　　外者寸有所長不以人廢言也且以邢昺之<lb/>
+<pb n="2a"/>
+　　　　僉邪而爾雅之疏列之學宫則卞書亦安得<lb/>
+　　　　竟棄乎書凡十一類曰釋天釋百榖釋草釋<lb/>
+　　　　木釋鳥釋獸釋蟲釋魚釋馬雜釋雜解陳氏<lb/>
+　　　　書録解題稱分十類葢傳寫誤脱一字也乾<lb/>
+　　　　隆三十九年十一月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

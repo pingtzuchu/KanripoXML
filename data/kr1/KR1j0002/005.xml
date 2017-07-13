@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="1a"/>
+道路<hi>長道</hi>二逹謂之岐旁<hi>𡵨道旁/出也</hi>三逹謂之劇旁<hi>今南陽冠軍樂郷數道交錯俗呼之五劇郷</hi>四逹謂之衢<hi>交道/四出</hi>五逹謂之康<hi>史記所謂/康莊之衢</hi>六逹謂之莊<hi>左傳曰得慶氏之木百車於莊</hi>七逹謂之劇驂<hi>三道交復有一𡵨岀者/今北海劇縣有此道</hi>八逹謂之崇期<hi>四道交出</hi>九逹<lb/>
+謂之逵<hi>四道交出復有旁通</hi>室中謂之時堂上謂之行堂下謂之歩門外<lb/>
+謂之趨中庭謂之走大路謂之奔<hi>此皆人行歩趨走之處因以名云</hi>隄謂之梁<hi>即橋也或曰石絕水者爲梁見詩傳</hi>石杠謂之徛<hi>聚石水中以爲歩渡彴也孟子曰歳十月徒杠成或曰今之石橋</hi>室有東<lb/>
+西廂曰廟<hi>夾室前堂</hi>無東西廂有室曰寢<hi>但有/大室</hi>無室曰榭<hi>榭即今堂堭</hi>四<lb/>
+方而髙曰臺陜而修曲曰樓<hi>脩長也</hi>
+釋器第六<lb/>
+木豆謂之豆<hi>豆禮器也</hi>竹豆謂之籩<hi>籩亦/禮器</hi>瓦豆謂之登<hi>即膏登也</hi>盎謂之<lb/>
+<pb n="1b"/>
+缶<hi>盆也</hi>甌瓿謂之瓵<hi>瓿甊小甖長/沙謂之瓵</hi>康瓠謂之甈<hi>瓠壺也賈誼曰寳康瓠是也</hi>斪斸<lb/>
+謂之定<hi>屬</hi>斫謂之鐯<hi>钁也</hi>
+                    <graphic n="KR1857" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1857.png" mimeType="image/png"/>謂之疀<hi>皆古鍬鍤字</hi>緵罟謂之九罭<lb/>
+九罭魚罔也<hi>今之百囊罟是亦謂之<graphic n="KR2529" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2529.png" mimeType="image/png"/>今江東呼爲緵</hi>嫠婦之笱謂之罶<hi>毛詩傳曰罶曲梁也謂以簿爲魚笱</hi>罺謂之汕<hi>今之/橑罟</hi>篧謂之罩<hi>捕魚/籠也</hi>槮謂之涔<hi>今之作槮者聚積柴木於水中魚得寒入其裏藏隱因以簿圍捕取之</hi>鳥罟謂之羅<hi>謂羅/絡之</hi>兔罟謂之罝<hi>罝猶遮也見詩</hi>麋罟<lb/>
+謂之罞<hi>冒其頭也</hi>彘罟謂之羉<hi>羉幕/也</hi>魚罟謂之罛<hi>最大罟也今江東云</hi>繴謂<lb/>
+之罿罿罬也罬謂之罦罦覆車也<hi>今之翻車也有兩轅中施罥以捕鳥展轉相解廣異語</hi>
+絇謂之救<hi>救絲以爲絇或曰亦罥名</hi>律謂之分<hi>律管可/以分氣</hi>大版謂之業<hi>築牆版也</hi>繩<lb/>
+之謂之縮之<hi>縮者約束之詩曰縮版以載</hi>彛卣罍器也<hi>皆盛酒尊彛其緫名</hi>小罍謂之坎<lb/>
+<hi>罍形似壷大者受一斛</hi>衣裗謂之䘽<hi>衣縷也齊人謂之/攣或曰袿衣之飾</hi>黼領謂之襮<hi>繡刺黼文以褗領</hi>
+<pb n="2a"/>
+縁謂之純<hi>衣縁飾也</hi>袕謂之褮<hi>衣開/孔也</hi>衣眥謂之襟<hi>交領</hi>衱謂之裾<lb/>
+<hi>衣後裾也</hi>衿謂之袸<hi>衣小/帶</hi>佩衿謂之褑<hi>佩玉之/帶上屬</hi>執衽謂之袺<hi>衣上衽</hi>扱<lb/>
+衽謂之襭<hi>扱衣上衽於帶</hi>衣蔽前謂之襜<hi>今蔽膝也</hi>婦人之褘謂之縭縭緌<lb/>
+也<hi>即今之香纓也褘邪交落帶繫於體因名爲褘緌繫也</hi>裳削幅謂之纀<hi>削殺其幅深衣之裳</hi>輿革前謂<lb/>
+之鞎<hi>以韋靶車軾</hi>後謂之笰<hi>以韋靶/後戸</hi>竹前謂之禦<hi>以簟/衣軾</hi>後謂之蔽<hi>以簟衣後戸</hi>環謂之捐<hi>箸車衆環</hi>鑣謂之钀<hi>馬勒/旁鐵</hi>載轡謂之轙<hi>車軛上環轡所貫也</hi>轡首<lb/>
+謂之革<hi>轡靶勒見詩</hi>餀謂之餯<hi>說物/臭也</hi>食饐謂之餲<hi>飯饖臭見論語</hi>摶者謂<lb/>
+之糷<hi>飯相著</hi>米者謂之糪<hi>飯中/有腥</hi>肉謂之敗<hi>臭/壞</hi>魚謂之餒<hi>肉爛</hi>肉曰<lb/>
+脫之<hi>剥其皮也今江東呼麋鹿之屬通爲肉</hi>魚曰斮之<hi>謂削/鱗也</hi>冰脂也<hi>莊子云肌膚若冰雪冰雪脂膏也</hi>肉謂<lb/>
+之羹<hi>肉臛也廣雅曰湆見左傳</hi>魚謂之鮨<hi>鮨鮓屬也見/公食大夫禮</hi>肉謂之醢<hi>肉醤</hi>有骨者謂之<lb/>
+<pb n="2b"/>
+臡<hi>雜骨醤見周禮</hi>康謂之蠱<hi>米/皮</hi>澱謂之垽<hi>滓澱也今江東呼垽</hi>鼎絕大謂之鼐<lb/>
+<hi>最大者</hi>圜弇上謂之鼒<hi>鼎斂上/而小口</hi>附耳外謂之釴<hi>鼎耳在表</hi>款足者<lb/>
+謂之鬲<hi>鼎曲脚也</hi>䰝謂之鬵<hi>詩曰漑/之釡鬵</hi>鬵鉹也<hi>涼州/呼鉹</hi>璲瑞也<hi>詩曰鞙鞙佩璲璲者玉瑞</hi>玉十謂之區<hi>雙玉曰㲄/五㲄爲區</hi>羽本謂之翮<hi>鳥羽根也</hi>一羽謂之箴十羽<lb/>
+謂之縛百羽謂之緷<hi>别羽數多少之名</hi>木謂之虡<hi>縣鐘磬之木植者名虡</hi>旄謂之<lb/>
+藣<hi>旄牛尾也</hi>菜謂之蔌<hi>蔌者菜茹之/揔名見詩</hi>白蓋謂之苫<hi>白茅苫也今江東呼爲盖</hi>黃金<lb/>
+謂之璗其美者謂之鏐白金謂之銀其美者謂之鐐<hi>此皆道金銀之别名及精者鏐即紫磨金</hi>鉼金謂之鈑<hi>周禮曰祭五帝/即供金鈑是也</hi>錫謂之鈏<hi>白鑞</hi>象謂之<lb/>
+鵠角謂之　犀謂之剒木謂之剫玉謂之雕<hi>左傳曰山有木工則剫之五者皆治樸之名</hi>金謂之鏤木謂之刻骨謂之切象謂之磋玉謂之琢<lb/>
+<pb n="3a"/>
+石謂之磨<hi>六者皆冶器之名</hi>璆琳玉也<hi>璆琳美/玉名</hi>簡謂之畢<hi>今簡札也</hi>不律謂之<lb/>
+筆<hi>蜀人呼筆爲不律也語之變轉</hi>滅謂之點<hi>以筆滅/字爲點</hi>絕澤謂之銑<hi>銑即美金言最有光澤也國語曰玦之以金銳者謂此也</hi>金鏃翦羽謂之鍭<hi>今之錍/箭是也</hi>骨鏃不翦羽謂之志<hi>今之骨骲是也</hi>
+弓有縁者謂之弓<hi>縁者繳纏之即今宛轉也</hi>無縁者謂之弭<hi>今之角弓也左傳曰左執鞭弭</hi>
+以金者謂之銑以蜃者謂之珧以玉者謂之珪<hi>用金蚌玉飾弓兩頭因取其類以爲名珧小蚌</hi>珪大尺二寸謂之玠<hi>詩曰錫/爾玠珪</hi>璋大八寸謂之琡<hi>璋半珪也</hi>璧大<lb/>
+六寸謂之宣<hi>漢書所云瑄玉是也</hi>肉倍好謂之璧<hi>肉邊好孔</hi>好倍肉謂之瑗<lb/>
+<hi>孔大而邊小</hi>肉好若一謂之環<hi>孔邊/適等</hi>繸綬也<hi>即佩玉之組所以連繫瑞玉者因通謂之繸</hi>一染<lb/>
+謂之縓<hi>今之紅也</hi>再染謂之赬<hi>淺/赤</hi>三染謂之纁<hi>纁絳/也</hi>青謂之葱<hi>淺靑</hi>
+黒謂之黝<hi>黝黒貌周禮曰隂祀用黝牲</hi>斧謂之黼<hi>黼文畫斧/形因名云</hi>邸謂之柢<hi>根柢皆物</hi>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

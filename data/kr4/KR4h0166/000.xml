@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>南宋襍事詩</head>
+    <p>
+<pb n="KR4h0166_WYG_000-1a"/>
+欽定四庫全書　　　　　集部八<lb/>
+　南宋襍事詩　　　　　　總集類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案南宋襍事詩七巻<lb/>
+　　　國朝沈嘉轍吳焯陳芝光符曽趙昱勵鶚趙信<lb/>
+　　　　同撰嘉轍字欒城焯字尺鳬曽字幼魯鶚字<lb/>
+　　　　太鴻皆錢塘人芝光字蔚九昱字功千信字<lb/>
+　　　　意林皆仁和人惟曽以薦舉官至户部郎中<lb/>
+<pb n="KR4h0166_WYG_000-1b"/>
+　　　　鶚以康熈庚子舉於鄉餘皆終於諸生是書<lb/>
+　　　　以其鄉為南宋故都故摭捃軼聞每人各為<lb/>
+　　　　詩百首而以所引典故註於每首之下意主<lb/>
+　　　　紀事不在修詞故警句頗多而牽綴填砌之<lb/>
+　　　　處亦復不少然援据浩博所引書幾及千種<lb/>
+　　　　一字一句悉有根柢萃說部之菁華采詞家<lb/>
+　　　　之腴潤一代故實巨細兼該頗為有資於考<lb/>
+　　　　證蓋不徒以文章論矣乾隆四十一年十月<lb/>
+<pb n="KR4h0166_WYG_000-2a"/>
+　　　　恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

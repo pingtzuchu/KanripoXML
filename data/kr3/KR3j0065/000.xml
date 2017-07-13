@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>徐氏筆精</head>
+    <p>
+<pb n="KR3j0065_WYG_000-1a"/>
+欽定四庫全書　　　　子部十<lb/>
+　徐氏筆精　　　　　　　雜家類二<hi>雜考之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案徐氏筆精八卷明徐<graphic n="KR0958" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0958.png" mimeType="image/png"/>撰<graphic n="KR0958" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0958.png" mimeType="image/png"/>字維<lb/>
+　　　　起更字興公閩縣人是編分易通經臆詩談<lb/>
+　　　　文字襍記五門其曰筆精則取江淹别賦語<lb/>
+　　　　也<graphic n="KR0958" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0958.png" mimeType="image/png"/>以博洽名一時朱彛尊静志居詩話謂<lb/>
+　　　　見其遺書大半施<graphic n="KR1459" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1459.png" mimeType="image/png"/>㸃墨題端跋尾然是書<lb/>
+<pb n="KR3j0065_WYG_000-1b"/>
+　　　　踳駁之處乃復不少如以乾象陽在下為老<lb/>
+　　　　子之猶龍以坤卦黄中艮卦行其庭為皆指<lb/>
+　　　　道家之黄庭以繫辭逰魂為變為釋氏之四<lb/>
+　　　　生六道皆不免好為異説援儒入墨從王柏<lb/>
+　　　　之説謂野有死麕為滛詩從焦竑之説謂洛<lb/>
+　　　　書出佛經從陳元齡之説謂周實建寅皆失<lb/>
+　　　　詳考他若以鐵裲襠為馬鞍之餙不知裲襠<lb/>
+　　　　為袙腹廣雅本有明文以漢郊祀歌寗字當<lb/>
+<pb n="KR3j0065_WYG_000-2a"/>
+　　　　増入庚青韻不知齊梁以前本無四聲謂杜<lb/>
+　　　　詩郫筒本李商隠不知商隠在杜甫後謂冬<lb/>
+　　　　青引唐珏林景熙二集並載不知景熙有集<lb/>
+　　　　珏無集謂溶溶為水貎晏殊詩不應借以詠<lb/>
+　　　　月當改為雨不知月穆穆以金波以水比月<lb/>
+　　　　漢郊祀歌已然謂一東二冬為沈約所分而<lb/>
+　　　　不知約之詩賦二韻實皆同用據李涪刋誤<lb/>
+　　　　分用者乃陸法言謂蒙齋筆談為鄭景望作<lb/>
+<pb n="KR3j0065_WYG_000-2b"/>
+　　　　沿商濬之誤不知乃葉夢得書謂李清照為<lb/>
+　　　　趙抃子婦不知趙明誠乃挺之之子謂琵琶<lb/>
+　　　　故事皆婦人而男子無聞不知賀懐智康崑<lb/>
+　　　　崙羅黒黒紀孩孩皆著名唐代亦多渉踈舛<lb/>
+　　　　至謂杜牧語多猥澁羅隠詩極淺俗而稱髙<lb/>
+　　　　啟梅詩詩隨十里尋春路愁在三更挂月村<lb/>
+　　　　句為在林逋踈影暗香一聨之上尤為鹵莽<lb/>
+　　　　甚至謂孟子不深於易理周公之作金縢為<lb/>
+<pb n="KR3j0065_WYG_000-3a"/>
+　　　　不能以命自安尤明人恣縱之習特其采摭<lb/>
+　　　　既富可資考証者頗多亦有不可遽廢者衡<lb/>
+　　　　其品題盖焦竑筆乗之流亞也乾隆四十三<lb/>
+　　　　年八月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

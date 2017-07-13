@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_354-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選巻三百五十四<lb/>
+　　蕙花類<lb/>
+　　　五言古<lb/>
+　　　　蕙花初開　　　　　　　　<hi>宋</hi>楊萬里<lb/>
+　幽人非愛山出山將何之山居種蘭蕙嵗寒久當知初<lb/>
+　藝止百畝餘地惜奚為先生無廣居千巖一茅茨四面<lb/>
+　秖藝蕙中間纔置錐銳緑分宿叢修紫擢㓜枝孤榦八<lb/>
+<pb n="KR4h0141_WYG_354-1b"/>
+　九花一花破初蕤西風淡無味微度成香吹燈夣得幽<lb/>
+　馥月寫傳靜姿我欲掇芳英和露充晨炊眷然惻不忍<lb/>
+　環玩息忘飢豈無衆花草不願秋風遲種時亂不擇嵗<lb/>
+　晚悔可追<lb/>
+　　　五言律<lb/>
+　　　　題次公蕙　　　　　　　　<hi>宋</hi>蘇　軾<lb/>
+　蕙本蘭之族依然臭味同曾為水仙佩相識楚詞中幻<lb/>
+　色雖非實貞香亦竟空云何起微馥鼻觀已先通<lb/>
+<pb n="KR4h0141_WYG_354-2a"/>
+　　　五言絶句<lb/>
+　　　　蕙　　　　　　　　　　　<hi>宋</hi>朱　子<lb/>
+　今花得古名旖旎香更好適意欲忘言塵編詎能考<lb/>
+　　　　題信上人秋蕙　　　　　　<hi>元</hi>掲傒斯<lb/>
+　幽叢不盈尺空谷為誰芳一逕寒雲色滿林秋露香<lb/>
+　　　七言絶句<lb/>
+　　　　和令狐侍御賞蕙草　　　　<hi>唐</hi>杜　牧<lb/>
+　尋常詩思巧如春又喜幽亭蕙草新本是馨香比君子<lb/>
+<pb n="KR4h0141_WYG_354-2b"/>
+　遶欄今更為何人<lb/>
+　　　　蕙草　　　　　　　　　　<hi>宋</hi>劉克莊<lb/>
+　蕭艾榮枯各有時深藏芳潔欲奚為世間鼻孔無憑託<lb/>
+　且伴幽窓讀楚詞<lb/>
+　　　　東園　　　　　　　　　　<hi>宋</hi>僧道潛<lb/>
+　雲峰缺處支笻立谿澑聲中弄扇行習習南風吹百艸<lb/>
+　幽香知有蕙蘭生<lb/>
+御定佩文齋詠物詩選卷三百五十四<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

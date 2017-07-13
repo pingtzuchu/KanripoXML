@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>秋崖集</head>
+    <p>
+<pb n="KR4d0353_WYG_000-1a"/>
+欽定四庫全書　　　　　集部四<lb/>
+　秋崖集　　　　　　　　别集類三<hi>宋</hi>
+　　提要<lb/>
+　　　　臣等謹案秋崖集四十卷宋方岳撰岳字巨<lb/>
+　　　　山號秋崖歙縣人紹定五年進士淳祐中為<lb/>
+　　　　趙葵㕘議官移知南康軍以杖舟卒忤荆帥<lb/>
+　　　　賈似道後知袁州又忤丁大全被劾罷歸其<lb/>
+　　　　集世有二本一為秋崖新稿凡三十一卷乃<lb/>
+<pb n="KR4d0353_WYG_000-1b"/>
+　　　　從宋寶祐五年刻本影抄一為秋崖小稿凡<lb/>
+　　　　文四十五卷詩三十八卷乃明嘉靖中其裔<lb/>
+　　　　孫方謙所刋今以兩本叅校嘉靖本所載較<lb/>
+　　　　備然寶祐本所有而嘉靖本所無者詩文亦<lb/>
+　　　　尚各數十首又有別行之本題曰秋崖小簡<lb/>
+　　　　較之本集多書札六首謹刪除重複以類合<lb/>
+　　　　編併成一集勒為四十卷岳才鋒凌厲洪焱<lb/>
+　　　　祖作秋崖先生傳謂其詩文四六不用古律<lb/>
+<pb n="KR4d0353_WYG_000-2a"/>
+　　　　以意為之語或天出可謂兼盡其得失要其<lb/>
+　　　　名言雋句絡繹奔赴以駢體為尤工可與劉<lb/>
+　　　　克莊相為伯仲集中有在淮南與趙葵書責<lb/>
+　　　　葵馭軍之失指陳切直不失為忠告至葵兄范<lb/>
+　　　　為帥失律致襄陽不守所繫不輕其罪亦復<lb/>
+　　　　不小岳以居葵幕府之故乃作書曲為寛解<lb/>
+　　　　載之集中則未免有愧詞矣乾隆四十六年<lb/>
+　　　　四月恭校上<lb/>
+<pb n="KR4d0353_WYG_000-2b"/>
+　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

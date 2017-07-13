@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>文章辨體彚選巻二百五十二</head> <lb/>
+    <p>
+<pb n="KR4h0132_WYG_252-1a"/>
+欽定四庫全書<lb/>
+　文章辨體彚選巻二百五十二<lb/>
+　　　　　　　　　　　　明　賀復徴　編<lb/>
+書四十八<hi>韻文</hi>
+　　秦始皇與燕太子丹誓書<lb/>
+子欲歸使日再中天雨粟令烏頭白馬生角厨門木象<lb/>
+生肉足<lb/>
+　　與相如書<hi>漢卓文君</hi>
+<pb n="KR4h0132_WYG_252-1b"/>
+羣華競芳五色凌素琴尚在御而新聲代故錦水有鴛<lb/>
+漢宫有木彼木而親嗟世之人兮瞀於滛而不悟朱絃<lb/>
+齧明鏡缺朝露晞芳絃歇白頭吟傷離别努力加餐毋<lb/>
+念妾錦水湯湯與君長訣<lb/>
+　　與竇𤣥<hi>漢竇𤣥妻</hi>
+棄妻斥女敬白竇生卑賤鄙陋不如貴人妾日以逺彼<lb/>
+日以親何所控訴仰呼蒼天悲哉竇生衣不厭新人不<lb/>
+厭故悲不可忍怨不可去彼獨何人而居我處<lb/>
+<pb n="KR4h0132_WYG_252-2a"/>
+　　答許長史<hi>晉太𤣥真人</hi>
+若夫能𦕈邈於當世則所重唯身也罕營外難者則無<lb/>
+死地矣是以古之學者握𤣥答以藏領匿頴鏡於紛務<lb/>
+凝神乎山巗之庭頤真於逸谷之津於是散髪高岫經<lb/>
+緯我生暉暉景曜採吸五靈逰躡九道登元濯形投思<lb/>
+絶空人事無營閉存三氣研諸妙精故能廻日薄之年<lb/>
+返為童嬰耳茍事累涉會交軒塞路但所守之不能朂<lb/>
+也何試校之能停耶<lb/>
+<pb n="KR4h0132_WYG_252-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　文章辨體彚選巻二百五十二<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

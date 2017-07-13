@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="1a"/>
+　欽定四庫全書　　　　經部一<lb/>
+御纂周易折中　　　　　易類<lb/>
+　　　提要<lb/>
+　　　　<hi>臣</hi>等謹案<lb/>
+　　御纂周易折中二十二卷康熙五十四年<lb/>
+　　聖祖仁皇帝御纂自宋以來惟説易者至夥亦惟説<lb/>
+　　　　　易者多岐門戸交增務求相勝遂至各倚於<lb/>
+　　　　　一偏故數者易之本主數太過使魏伯陽陳<lb/>
+<pb n="1b"/>
+　　　　　摶之説竄而相雜而易入於道家理者易之<lb/>
+　　　　　蘊主理太過使王宗傅楊簡之説溢而旁出<lb/>
+　　　　　而易入於釋氏明永樂中官修易經大全龎<lb/>
+　　　　雜割裂無所取裁由羣言淆亂無聖人以折其<lb/>
+　　　　中也我<lb/>
+　　聖祖仁皇帝道契羲文心符周孔<lb/>
+　　幾餘典學深見彌綸天地之源<lb/>
+　　詔大學士李光地採摭羣言恭呈<lb/>
+<pb n="2a"/>
+　乙覽以定著是編冠以圖説殿以啟䝉未嘗不用數<lb/>
+　　　　而不以盛談河洛致晦玩占觀象之元冠以<lb/>
+　　　　程傅次以本義未嘗不主理而不以屏斥䜟<lb/>
+　　　　緯併廢互體變爻之用其諸家訓觧或不合<lb/>
+　　　　於伊川紫陽而實足發明經義者皆兼收並<lb/>
+　　　　採不病異同惟一切支離幻渺之説咸斥不<lb/>
+　　　　録不使溷四聖之遺文葢數百年分朋立異<lb/>
+　　　　之見至是而盡融數千年畫卦繫詞之㫖乃<lb/>
+<pb n="2b"/>
+　　　　至是而大彰矣至於經傳分編一從古本尤<lb/>
+　　　　足正費直以來割裂綴附之失焉乾隆四十<lb/>
+　　　　二年二月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

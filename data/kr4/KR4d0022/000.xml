@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>文恭集</head>
+    <p>
+<pb n="KR4d0022_WYG_000-1a"/>
+御製題胡宿文恭集<lb/>
+久曽割裂得全難四庫捜羅為復完<hi>是書亦散見永樂大典中經詞臣採</hi>
+<hi>輯復成完本者</hi>如此立朝有本末可教遺帙聴彫殘既經呈覽<lb/>
+斯予事自與發潜令彼安通集原應俾鈔録至文乃合<lb/>
+命鐫刋教坊致語寧忠告道院青詞實異端<hi>胡宿文筆頗佳允宜</hi>
+<hi>刋以傳世第集中兼及道場青詞殊乖正道且代教坊致語及為内中侍御賀詞則尤為瑣狎自當存其正者</hi>
+<hi>刊行全集鈔存可耳</hi>去取之間繫旌癉示茲大畧付儒官<lb/>
+　乾隆乙未仲春<lb/>
+<pb n="KR4d0022_WYG_000-2a"/>
+欽定四庫全書　　　　集部三<lb/>
+　文恭集　　　　　　　　别集類二<hi>宋</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案文恭集五十巻補遺一巻宋胡宿<lb/>
+　　　　撰宿字武平常州晉陵人天聖二年進士厯<lb/>
+　　　　官兩浙轉運使召修起居注知制誥由翰林<lb/>
+　　　　學士拜樞宻副使以太子少保致仕文恭其<lb/>
+　　　　諡也事蹟具宋史本傳宿立朝以㢘直著而<lb/>
+<pb n="KR4d0022_WYG_000-2b"/>
+　　　　學問亦極該博當時文格未變尚沿四六駢<lb/>
+　　　　偶之習而宿於是體尤工所為朝廷大制作<lb/>
+　　　　典重贍麗追踪六朝其五七言律詩波瀾壯<lb/>
+　　　　濶聲律鏗訇亦可彷彿盛唐遺響陳氏書錄解<lb/>
+　　　　題載宿集七十巻久無傳本近人編北宋名<lb/>
+　　　　賢小集所輯僅寥寥數篇厲鶚撰宋詩紀事<lb/>
+　　　　捜羅至博所錄宿詩亦祇從志乗掇拾未窺<lb/>
+　　　　全豹至金元好問選唐詩鼔吹誤編入宿詩<lb/>
+<pb n="KR4d0022_WYG_000-3a"/>
+　　　　二十餘首説者遂以為唐末之人爵里未詳<lb/>
+　　　　今考好問所錄諸詩大半在文恭集内且其<lb/>
+　　　　中有和朱况一首其人為胡氏之婿與宿同<lb/>
+　　　　籍常州具見所撰李太夫人行狀確鑿可据<lb/>
+　　　　好問乃不能考證舛錯至此亦可知金元之<lb/>
+　　　　間其集已罕覯矣今惟永樂大典分採入各<lb/>
+　　　　韻下者裒而錄之計詩文一千五百餘首雖<lb/>
+　　　　未必盡合原目而篇帙較富已可什得其八<lb/>
+<pb n="KR4d0022_WYG_000-3b"/>
+　　　　九謹以類編次釐為五十巻庶俾藝林好古<lb/>
+　　　　之士得以復見完書其有永樂大典失採而<lb/>
+　　　　散見於他書者則別加搜輯為補遺一巻附<lb/>
+　　　　之於後焉乾隆四十三年九月恭校上<lb/>
+　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+<pb n="KR4d0022_WYG_000-4a"/>
+欽定四庫全書　　　　　集部三<lb/>
+　文恭集目録　　　　　　别集類二<hi>宋</hi>
+　　巻一<lb/>
+　　　賦五首<lb/>
+　　　五言古詩十八首<lb/>
+　　　七言古詩一首<lb/>
+　　巻二<lb/>
+　　　五言律詩九十一首<lb/>
+<pb n="KR4d0022_WYG_000-4b"/>
+　　巻三<lb/>
+　　　五言律詩二十一首<lb/>
+　　　七言律詩五十首<lb/>
+　　巻四<lb/>
+　　　七言律言七十六首<lb/>
+　　巻五<lb/>
+　　　七言律詩二十七首<lb/>
+　　　五言排律十九首<lb/>
+<pb n="KR4d0022_WYG_000-5a"/>
+　　巻六<lb/>
+　　　五言排律三十一首<lb/>
+　　　五言絶句二首<lb/>
+　　　七言絶句八首<lb/>
+　　巻七<lb/>
+　　　奏議十八首<lb/>
+　　巻八<lb/>
+　　　奏議九首<lb/>
+<pb n="KR4d0022_WYG_000-5b"/>
+　　　狀十一首<lb/>
+　　　議二首<lb/>
+　　巻九<lb/>
+　　　表十三首<lb/>
+　　巻十<lb/>
+　　　表十九首<lb/>
+　　巻十一<lb/>
+　　　表十五首<lb/>
+<pb n="KR4d0022_WYG_000-6a"/>
+　　　笏記五首<lb/>
+　　巻十二<lb/>
+　　　外制三十二首<lb/>
+　　巻十三<lb/>
+　　　外制四十二首<lb/>
+　　巻十四<lb/>
+　　　外制九十五首<lb/>
+　　巻十五<lb/>
+<pb n="KR4d0022_WYG_000-6b"/>
+　　　外制四十六首<lb/>
+　　巻十六<lb/>
+　　　外制二十六首<lb/>
+　　巻十七<lb/>
+　　　外制四十八首<lb/>
+　　巻十八<lb/>
+　　　外制七十一首<lb/>
+　　巻十九<lb/>
+<pb n="KR4d0022_WYG_000-7a"/>
+　　　外制五十三首<lb/>
+　　巻二十<lb/>
+　　　外制四十二首<lb/>
+　　巻二十一<lb/>
+　　　外制四十九首<lb/>
+　　巻二十二<lb/>
+　　　内制十二首<lb/>
+　　巻二十三<lb/>
+<pb n="KR4d0022_WYG_000-7b"/>
+　　　内制十四首<lb/>
+　　巻二十四<lb/>
+　　　内制三十一首<lb/>
+　　巻二十五<lb/>
+　　　内制五十首<lb/>
+　　巻二十六<lb/>
+　　　内制四十九首<lb/>
+　　巻二十七<lb/>
+<pb n="KR4d0022_WYG_000-8a"/>
+　　　内制九十首<lb/>
+　　巻二十八<lb/>
+　　　帖子詞五十二首<lb/>
+　　　上梁文三首<lb/>
+　　巻二十九<lb/>
+　　　策問六首<lb/>
+　　　頌銘二首<lb/>
+　　　論辨二首<lb/>
+<pb n="KR4d0022_WYG_000-8b"/>
+　　　序賛三首<lb/>
+　　巻三十<lb/>
+　　　書啟十首<lb/>
+　　巻三十一<lb/>
+　　　書啟二十七首<lb/>
+　　巻三十二<lb/>
+　　　書啟三十三首<lb/>
+　　巻三十三<lb/>
+<pb n="KR4d0022_WYG_000-9a"/>
+　　　書啟三十首<lb/>
+　　巻三十四<lb/>
+　　　書啟二十九首<lb/>
+　　巻三十五<lb/>
+　　　記九首<lb/>
+　　巻三十六<lb/>
+　　　誌銘二首<lb/>
+　　巻三十七<lb/>
+<pb n="KR4d0022_WYG_000-9b"/>
+　　　誌銘三首<lb/>
+　　巻三十八<lb/>
+　　　誌銘四首<lb/>
+　　巻三十九<lb/>
+　　　碑表塔銘三首<lb/>
+　　巻四十<lb/>
+　　　行狀二首<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

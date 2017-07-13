@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>儒林宗派卷十三</head> <lb/>
+    <p>
+<pb n="KR2g0049_WYG_013-1a"/>
+欽定四庫全書<lb/>
+　儒林宗派卷十三<lb/>
+　　　　　　　　　　　　　　鄞縣萬斯同撰<lb/>
+　元<lb/>
+金履祥<hi>吉甫仁山蘭谿文安</hi>
+　　金氏學派<lb/>
+<pb n="KR2g0049_WYG_013-2a"/>
+</p>
+<p>
+<pb n="KR2g0049_WYG_013-3a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+衛富益<hi>正節崇徳</hi>
+唐良驥<lb/>
+郭子昭<lb/>
+　<lb/>
+<pb n="KR2g0049_WYG_013-3b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　　右金氏門人<lb/>
+吳澄<hi>幼清草廬崇仁</hi>
+　　吳氏學派<lb/>
+<pb n="KR2g0049_WYG_013-4a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+元明善<hi>復初</hi>
+趙𢎞毅<hi>晉州</hi>
+藍光<hi>仲晦臨川</hi>
+鮑恂<hi>崇徳</hi>
+<pb n="KR2g0049_WYG_013-4b"/>
+解觀<hi>吉水</hi>
+吳當<hi>登孫</hi>
+夏友蘭<hi>幼初樂安</hi>
+袁明善<hi>誡夫臨川</hi>
+黃極<hi>建可樂安</hi>
+李本<hi>伯宗臨川</hi>
+李棟<hi>本從弟</hi>
+朱夏<hi>元會金谿</hi>
+<pb n="KR2g0049_WYG_013-5a"/>
+黎仲基<hi>名載臨川</hi>
+王彰<hi>伯逹金谿</hi>
+朱擴<hi>歸徳</hi>
+陳伯柔<lb/>
+黃哻<hi>殷士金谿</hi>
+危素<hi>太朴金谿</hi>
+王科<hi>子純樂安</hi>
+楊準<hi>公平泰和</hi>
+<pb n="KR2g0049_WYG_013-5b"/>
+李心原<hi>吉水</hi>
+皮縉<hi>昭徳清江</hi>
+黃盅<hi>子中萬載</hi>
+潘音<hi>聲甫新昌</hi>
+王祁<hi>藳城</hi>
+　　右吳氏門人<lb/>
+趙復<hi>江漢徳安</hi>
+姚樞<hi>公茂栁城</hi>
+<pb n="KR2g0049_WYG_013-6a"/>
+竇黙<hi>漢卿廣平</hi>
+許衡<hi>平仲魯齊懐慶文正</hi>
+　　許氏學派<lb/>
+耶律有尚<hi>伯強</hi>
+韓思永<lb/>
+劉季偉<lb/>
+王梓<lb/>
+姚燧<hi>端甫牧菴栁城文公</hi>
+<pb n="KR2g0049_WYG_013-6b"/>
+高凝<lb/>
+白棟<lb/>
+蘇郁<lb/>
+姚□<lb/>
+孫安<lb/>
+劉安中<lb/>
+吕域<hi>伯充河内</hi>
+徐毅<hi>文清趙城</hi>
+<pb n="KR2g0049_WYG_013-7a"/>
+劉宣<hi>伯宣潞州</hi>
+王遵禮<hi>安卿</hi>
+李文炳<lb/>
+　　右許氏門人<lb/>
+劉因<hi>夢吉静修容城文靖</hi>
+　　劉氏學派<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2g0049_WYG_013-7b"/>
+　<lb/>
+　<lb/>
+杜肅<lb/>
+郝庸<hi>季常</hi>
+李道恒<lb/>
+劉君舉<hi>季賢南豐</hi>
+李天箎<hi>吉水</hi>
+　　右劉氏門人<lb/>
+<pb n="KR2g0049_WYG_013-8a"/>
+　諸儒博考<lb/>
+郝經　　　　　　張文謙　　　　楊奐<lb/>
+王恂　　　　　　侯均　　　　　楊恭懿<lb/>
+韓擇　　　　　　蕭<graphic n="KR1893" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1893.png" mimeType="image/png"/>　　　　　同恕<lb/>
+魏新之<hi>桐廬</hi>　　　史伯璿<hi>文璣/平陽</hi>　　鮑彪<hi>文虎龍泉</hi>
+馬端臨<hi>責與樂平</hi>　　　黃瑞節<hi>觀樂/安福</hi>　　馮翼翁<hi>子羽永新</hi>
+王幼學<hi>行卿望江</hi>　　　歐陽侊<hi>以大/長樂</hi>　　鄭儀孫<hi>翠屏建安</hi>
+黃鎮成<hi>元鎮邵武</hi>　　　林駉<hi>徳頌/安福</hi>　　　黃履翁<hi>吉甫寜徳</hi>
+<pb n="KR2g0049_WYG_013-8b"/>
+葉謹翁<hi>審言金華</hi>　　　胡助<hi>履信古/愚東陽</hi>　　胡炳文<hi>仲虎婺源</hi>
+程復心<hi>子建婺源</hi>　　　汪泰初<hi>希賢黟縣</hi>　　王搆<lb/>
+宇文公諒　　　　孛术魯翀<hi>子翬順陽</hi>　熊朋來<lb/>
+劉詵　　　　　　馬祖常　　　　張養浩<lb/>
+張起岩　　　　　歐陽𤣥　　　　范梈<lb/>
+楊載　　　　　　宋本　　　　　吕思誠<lb/>
+王思誠　　　　　許有壬　　　　李孝文<lb/>
+貢師泰　　　　　黃澤　　　　　牟應龍<lb/>
+<pb n="KR2g0049_WYG_013-9a"/>
+鄭滁孫　　　　　陳孚　　　　　馮子振<lb/>
+董朴　　　　　　楊剛中　　　　李恒<lb/>
+龍仁夫　　　　　陸文圭　　　　梁益<lb/>
+陳繹曽　　　　　李孝光　　　　伯顔<lb/>
+瞻思　　　　　　杜瑛　　　　　杜本<lb/>
+何中　　　　　　王偁<hi>伯武婺源</hi>　　　陳剛<hi>公潜平陽</hi>
+章仕堯<hi>時雍平陽</hi>　　　余闕<lb/>
+　<lb/>
+<pb n="KR2g0049_WYG_013-9b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　儒林宗派卷十三<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

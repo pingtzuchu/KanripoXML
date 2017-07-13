@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2m0053_WYG_133-1a"/>
+欽定四庫全書<lb/>
+欽定八旗通志卷一百十九<lb/>
+　　營建志八<lb/>
+　　　水師營建規制<hi>戰船</hi>　<hi>運船</hi>
+　　　　戰船<lb/>
+　　　健鋭營乾隆十六年設戰船八隻十八年添戰船<lb/>
+　　　二十四隻二十一年裁汰八隻二十三年裁汰八<lb/>
+　　　隻二十六年裁汰八隻三十六年裁汰四隻現計<lb/>
+<pb n="KR2m0053_WYG_133-1b"/>
+　　　戰船四隻<lb/>
+　　　天津州水師營戰船雍正三年十二月奉<lb/>
+㫖差教習蔡勇林全往江南浙江福建監造戰船計江南<lb/>
+　　　造送大趕<graphic n="KR1620" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1620.png" mimeType="image/png"/>船六隻小趕<graphic n="KR1620" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1620.png" mimeType="image/png"/>船六隻山版船十二<lb/>
+　　　隻浙江造送大趕<graphic n="KR1620" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1620.png" mimeType="image/png"/>船五隻小趕<graphic n="KR1620" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1620.png" mimeType="image/png"/>船五隻山版<lb/>
+　　　船十隻福建造送大趕<graphic n="KR1620" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1620.png" mimeType="image/png"/>船五隻小趕<graphic n="KR1620" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1620.png" mimeType="image/png"/>船五隻<lb/>
+　　　山版船十隻三省共送至戰船六十四隻<lb/>
+　　　金州水師營戰船康熙五十四年設計船十隻乾<lb/>
+<pb n="KR2m0053_WYG_133-2a"/>
+　　隆十九年裁汰四隻其修造定例自初造後三年<lb/>
+　　小修又三年大修又三年如船身尚堪修理准再<lb/>
+　　大修否則拆造凡應修之先查勘船身如尚堅固<lb/>
+　　緩修一年其拆造改為大修大修改為小修<lb/>
+　　旅順口水師營戰船十隻康熙五十三年自山東<lb/>
+　　送至<lb/>
+　　齊齊哈爾水師營大戰船十隻二號戰船十五隻<lb/>
+　　江船五隻划子船十隻<lb/>
+<pb n="KR2m0053_WYG_133-2b"/>
+　　墨爾根水師營二號戰船六隻江船四隻<lb/>
+　　黒龍江水師營大戰船十隻二號戰船四十隻江<lb/>
+　　船十隻划子船十隻<lb/>
+　　乾隆三十八年將齊齊哈爾黒龍江二處划子船<lb/>
+　　裁汰其三處大戰船身長八丈三尺頭寛三尺中<lb/>
+　　寛一丈三尺梢寛七尺五寸連樓二十二艙艙深<lb/>
+　　四尺二寸大桅長六丈二尺五寸小桅長三丈二<lb/>
+　　尺五寸二號戰船身長七丈一尺頭寛三尺五寸<lb/>
+<pb n="KR2m0053_WYG_133-3a"/>
+　　　中寛一丈零五寸梢寛四尺八寸連樓二十二艙<lb/>
+　　　艙深三尺八寸大桅長四丈五尺小桅長二丈五<lb/>
+　　　尺江船身長五丈二尺頭寛一尺九寸中寛八尺<lb/>
+　　　二寸梢寛一尺五寸連樓十四艙深二尺八寸桅<lb/>
+　　　長三丈<lb/>
+　　　江寧府水師營戰船雍正五年二月奉<lb/>
+㫖江寧駐防滿洲官兵照天津水師營例設立水師營毎<lb/>
+　年春秋二季於鎮江撥大小沙船二十隻發往江寕以<lb/>
+<pb n="KR2m0053_WYG_133-3b"/>
+　備演習乾隆十六年奉<lb/>
+　㫖裁汰<lb/>
+　　　京口水師營左營舊設唬船二隻沙船八隻右營<lb/>
+　　　舊設沙唬船六隻髙資營舊設艍犁船三十二隻<lb/>
+　　　沙船四十四隻乾隆十八年裁汰左營唬船一隻<lb/>
+　　　撥交東海營裁汰右營唬船一隻撥交狼標右營<lb/>
+　　　裁汰髙資營艍犁船八隻沙船二十隻二十七年<lb/>
+　　　將軍奏明沙唬船身濶底平行走遲緩請改造海<lb/>
+<pb n="KR2m0053_WYG_133-4a"/>
+　　哨船計改左營沙唬船為海哨船十八隻改右營<lb/>
+　　沙唬船為海哨船十隻改髙資營沙唬船為海哨<lb/>
+　　船十二隻三十三年又改髙資營艍犁船八隻為<lb/>
+　　外海快哨船是年即裁去八隻五十八年又裁左<lb/>
+　　營海哨船十隻右營海哨船二隻髙資營海哨船<lb/>
+　　六隻以上船隻俱由常鎮道承辦<lb/>
+　　乍浦水師營戰船雍正六年四月題准照天津之<lb/>
+　　例左營設大號趕<graphic n="KR1620" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1620.png" mimeType="image/png"/>船五隻小號趕<graphic n="KR1620" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1620.png" mimeType="image/png"/>船四隻南<lb/>
+<pb n="KR2m0053_WYG_133-4b"/>
+　　<graphic n="KR1620" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1620.png" mimeType="image/png"/>船二隻俱編為寧字號右營設大號趕<graphic n="KR1620" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1620.png" mimeType="image/png"/>船四<lb/>
+　　隻小號趕<graphic n="KR1620" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1620.png" mimeType="image/png"/>船五隻南<graphic n="KR1620" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1620.png" mimeType="image/png"/>船二隻俱編為謐字號<lb/>
+　　乾隆十五年將南<graphic n="KR1620" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1620.png" mimeType="image/png"/>船裁汰三十三年裁寧字大<lb/>
+　　趕<graphic n="KR1620" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1620.png" mimeType="image/png"/>船五隻小趕<graphic n="KR1620" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1620.png" mimeType="image/png"/>船一隻謐字大趕<graphic n="KR1620" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1620.png" mimeType="image/png"/>船二隻<lb/>
+　　四十七年俱一例改造小趕<graphic n="KR1620" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1620.png" mimeType="image/png"/>船此處船隻由乍<lb/>
+　　浦同知耑辦委理事同知承估工竣之後都統騐<lb/>
+　　收發營<lb/>
+　　福州府水師營戰船雍正六年奉<lb/>
+<pb n="KR2m0053_WYG_133-5a"/>
+㫖福建駐防添設水師營兵六百名配給戰船於烏龍江<lb/>
+　下流三江口地方演習計大趕<graphic n="KR1620" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1620.png" mimeType="image/png"/>船二隻二號趕<graphic n="KR1620" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1620.png" mimeType="image/png"/>船<lb/>
+　　　二隻雙篷䑩船二隻又因洋嶼上下一帯小港灣<lb/>
+　　　㲼甚多再設小巡船八隻以備巡查<lb/>
+　　　乾隆十年奏准裁汰雙篷船二隻改造大八槳船<lb/>
+　　　四隻三十三年奏裁汰<graphic n="KR1620" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1620.png" mimeType="image/png"/>船二隻小巡船二隻計<lb/>
+　　　趕<graphic n="KR1620" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1620.png" mimeType="image/png"/>船長七丈一尺濶一丈七尺十九艙桅長七<lb/>
+　　　丈一尺八槳船長四丈濶一丈二尺十四艙桅長<lb/>
+<pb n="KR2m0053_WYG_133-5b"/>
+　　　四丈二尺小巡船長三丈二尺濶九尺十四艙桅<lb/>
+　　　長三丈二尺<lb/>
+　　　廣東廣州水師營戰船乾隆十一年設外海<graphic n="KR1620" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1620.png" mimeType="image/png"/>艍<lb/>
+　　　船六隻櫓槳船八隻十九年裁汰<graphic n="KR1620" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1620.png" mimeType="image/png"/>艍船二隻四<lb/>
+　　　十年又裁<graphic n="KR1620" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1620.png" mimeType="image/png"/>艍船二隻櫓槳船四隻<lb/>
+　　　湖北荆州府水師營戰船康熙二十八年三月題<lb/>
+　　　准設立武常荆岳四水師營撥𣲖内河順字號沙<lb/>
+　　　船十隻廣字號戰船六隻大字號巡江船四隻豐<lb/>
+<pb n="KR2m0053_WYG_133-6a"/>
+　　　字號戰船十四隻共三十四隻分防差操三十七<lb/>
+　　　年提督題請裁減三十八年經部議照舊存留奉<lb/>
+㫖依議<lb/>
+　　　　運船<lb/>
+　　　<hi>謹案烏喇所属一切兵糧全資輸輓康熙二十二年</hi>
+<hi>特命大臣相視河道于開城鄧子村易屯門及易屯口等      處設倉毎嵗農隙之時運米貯于開城倉内春秋</hi>
+　　　<hi>二季以舟運至鄧子村交缷自鄧子村陸運百里至易屯門倉由易屯河舟運出易屯口直達混同</hi>
+<hi>睿慮誠江自是轉運不勞飽騰有藉      深逺也</hi>
+<pb n="KR2m0053_WYG_133-6b"/>
+　　　遼河運糧船一百隻每船載六十石<lb/>
+　　　易屯河運糧船一百隻每船載六十石<lb/>
+　　　混同江運糧大船八十隻每船載二百石<lb/>
+　　　　以上遼河運船係兵部管理易屯河混同江運<lb/>
+　　　　船係吉林將軍管理<lb/>
+　　　船厰船六十四隻大船七十隻<lb/>
+　　　　以上船隻属吉林將軍管理<lb/>
+　　　凡遼河運丁滿兵三百名奉天府属州縣分派水<lb/>
+<pb n="KR2m0053_WYG_133-7a"/>
+　　手六百名每月給工食銀一兩免其差徭易屯河<lb/>
+　　及混同江水手俱由吉林將軍分𣲖歳以為常<lb/>
+　　凡烏喇修造船隻所需櫓牙兵部送給篷桅由工<lb/>
+　　部運觧<lb/>
+　　船厰船隻運糧船三十隻聴差槳船二十隻小划<lb/>
+　　子船二十隻松阿里江口渡船四隻<lb/>
+　　白都納船隻阿里江諾江兩界口渡船六隻喀薩<lb/>
+　　哩渡口渡船一隻喇林河口渡船一隻<lb/>
+<pb n="KR2m0053_WYG_133-7b"/>
+　　嫩江渡船二隻<lb/>
+　　塔阿河渡船一隻<lb/>
+　　訥莫河渡船二隻<lb/>
+　　墨爾根渡船一隻<lb/>
+　　黒龍江渡船一隻<lb/>
+　　呼蘭河運糧船十隻渡船一隻<lb/>
+　　伊犁河運糧船十六隻渡船四隻<lb/>
+　　恵逺城渡船四隻<lb/>
+<pb n="KR2m0053_WYG_133-8a"/>
+　　葉爾羌渡船二隻<lb/>
+　　喀喇沙爾大渡船六隻小渡船四隻造船木料由<lb/>
+　　本地砍伐餘物悉由内地調取<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0053_WYG_133-8b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+欽定八旗通志卷一百十九<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

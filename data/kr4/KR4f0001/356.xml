@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4f0001_WYG_356-1a"/>
+　欽定四庫全書<lb/>
+聖祖仁皇帝御製文第四集巻二十八目録<lb/>
+　　雜著<lb/>
+　　康熙幾暇格物編<lb/>
+　　　文章體道親切惟有朱子<lb/>
+　　　回子地産絲<lb/>
+　　　䝉古居處有定<lb/>
+　　　白龍堆<lb/>
+<pb n="KR4f0001_WYG_356-1b"/>
+　　　水多伏流<lb/>
+　　　同聲相應<lb/>
+　　　回子多元子孫<lb/>
+　　　阿霸垓鹽<lb/>
+　　　絫黍<lb/>
+　　　温泉<lb/>
+　　　熬水<lb/>
+　　　朝鮮紙<lb/>
+<pb n="KR4f0001_WYG_356-2a"/>
+　　飛狐<lb/>
+　　馬口柴<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

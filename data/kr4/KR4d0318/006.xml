@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4d0318_SBCK_006-1a"/>
+翆㣲南征録卷之六<lb/>
+　律詩<lb/>
+　　　題冨沙庙<hi>政橋烟㷔環昭㝎王之祠吏民俱祷<折 t="33"/>丙寅七月晦冨沙居民火延燒至平</hi>
+<hi>之簷捔無一焦因感神之威灵而以詩紀之<折 t="33"/>旋獲反凨之應環祠民屋悉為煨燼而祠</hi>
+平政橋頭火爍空冨沙宫殿烈烟中地形難撲徒<graphic n="KR0916" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0916.png" mimeType="image/png"/>
+水天意能囬遽反凨十里爆雷驚客梦萬家全璧頼<lb/>
+神㓛君王注意恢神武更乞威灵為宝冲<lb/>
+　　　次翁正叔溪山勝㳺之韵<lb/>
+溪南凨物照窓扉溪北蘭舟䌫翆㣲双槳碧雲苔莆<lb/>
+合一簾紅雨杏花飛只知有酒酹佳景却恨無䋲繫<lb/>
+<pb n="KR4d0318_SBCK_006-1b"/>
+落暉更約凨流衆年少明朝依旧莫相違<lb/>
+　　　春郊即事<lb/>
+東風吹不断輪蹄䖏䖏鞦韆環珮飛剪翆㺯粧帰髻<lb/>
+掠乱紅翻錦上屏幃花應笑我春尝酔燕觧嘲人夜<lb/>
+不帰莫怪逄春太娛楽人生能有幾芳菲<lb/>
+　　　悶題<lb/>
+此心忠義出天資奴隷兒童莫強為燕雀不知鴻鵠<lb/>
+志牛羊徒飾虎狼皮事當桀犬吠堯日書在塞鴻帰<lb/>
+漢時㧞剣問天天不語料天还愧負男兒<lb/>
+　　　呈陳平仲<hi>反辱平仲分羮之惠示詩次韵以謝<折 t="33"/>莆友送荸薺囙以一盃為平仲寿</hi>
+<pb n="KR4d0318_SBCK_006-2a"/>
+逹人安分楽平生不与隂陽造化争漢節有人恭且<lb/>
+止椘<graphic n="KR1083" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1083.png" mimeType="image/png"/>無客遂當行荐公地栗三盃酒分我天香一<lb/>
+味羔大抵有施湏有報木桃瓊玖愧詩評<lb/>
+　　　𥿄帳<lb/>
+主人氷雪洒胷襟買宿銀城不計緡春草有詩皆白<lb/>
+雪秋毫無梦到紅塵月娥好作雲間侣凨伯不寒氷<lb/>
+下人更喜五更<graphic n="KR1084" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1084.png" mimeType="image/png"/>外月梅梢分淂一枝春<lb/>
+　　　兵<lb/>
+兵貴先人斯奪人莫教間諜漏真情漢因有偹胡終<lb/>
+退秦為無人椘始争卦向爻中分損益棊于局上㝎<lb/>
+<pb n="KR4d0318_SBCK_006-2b"/>
+輸嬴不知都督三边者还肯江湖問一声<lb/>
+　　　自訟<lb/>
+我生素不事詼諧檐板方頭喚不囬遇亊豈容無正<lb/>
+論済時未必有長材頭雖五鼎不辝剣口恐三緘合<lb/>
+用枚不是生平太剛介如有蹤跡尚塵埃<lb/>
+　　　紀時<hi>于琴間僕有建安之難耒慰以詩次韵<折 t="33"/>陸大方名規江湖之士宦途不淂志隐</hi>
+古今多少好英雄未必奸邪未必忠上黨鼎膏流地<lb/>
+白長平坑血濺天紅三邉傳檄兵雖息二榷開埸貨<lb/>
+未通更願年豊冨金帛飽装駞駕為和戎<lb/>
+　　　重九<lb/>
+<pb n="KR4d0318_SBCK_006-3a"/>
+破㡌無情不受吹滿頭霜雪已如絲菊花笑我三秋<lb/>
+客凨物撩人九日詩三椘膏腴已煨燼二江皮肉更<lb/>
+瘡痍子卿三月無音信鴻雁南耒何所之<lb/>
+　　　禱梅山<hi>而不騐作詩告之<折 t="33"/>𥘉入建求䜟梅山吉</hi>
+許我登龍尚未还作詩更為謁梅山如何威惠推千<lb/>
+載犹使英雄困八蛮神不提身帰虎帳鬼湏擘口動<lb/>
+龍顔聪明傥為扶宗社願借凨雷頃刻間<lb/>
+　　　寄西山<hi>武昌之便因作詩寄<折 t="33"/>乆不拜西山忽有陳</hi>
+姓名乆不到西山覔便無凨鼻謾酸天塹有花春堰<lb/>
+急地爐無火夜坣寒青灯昔記對床臥白髮今羞把<lb/>
+<pb n="KR4d0318_SBCK_006-3b"/>
+鏡㸔見說北帰常有㕍一書無惜報平安<lb/>
+　　　再祷梅山<lb/>
+梅山昔扣五通仙曽許英雄第一籖恰遇塵埃常優<lb/>
+優如何泥濘尚淹淹若非推入高宗梦湏是駈成太<lb/>
+史占他日崧高詠申甫一香先為大王拈<lb/>
+　　　怒題<lb/>
+壮氣横秋靣握丹男兒未遇指休弹賣漿豈料周分<lb/>
+國盗粟焉知漢築壇胫脡未甘纒吏鞅髑髏不信誤<lb/>
+儒冠夜深踢𧺫床頭婢和淚挑灯把劔㸔<lb/>
+　　　寄范茂卿<hi>西関因遣人市茶以詩貽之<折 t="33"/>茂卿家于北苑予識之于建之</hi>
+<pb n="KR4d0318_SBCK_006-4a"/>
+社凨吹迸雨前枝正是施工北苑時小胯未封纔入<lb/>
+盝短鎗𥘉拆半含旗一盆臘雪分龍井萬杵春雷入<lb/>
+鳯池見　貢餘山　積小煎还肯換新詩<lb/>
+　　　題溪荘<lb/>
+山擁青螺出粉墻水環銀帶挿溪荘一百五日雨翻<lb/>
+浴三十六宫人閗粧蝶翅拍花催舞䄂鳳毛翻錦入<lb/>
+詩囊新歡舊恨知多少且對東凨酔幾場<lb/>
+　　　竒見<hi>皆歌鶯拍蝶番思去京至此凡七換歲<折 t="33"/>施清叔<折 t="33"/>出城西于小圃見一髽四圍</hi>
+<hi>清叔韵以記其事<折 t="33"/>籥方破天荒爾就借</hi>
+紅牙催拍燕飛忙一片行雲遶畵坣眉黛蹙成㳺子<lb/>
+<pb n="KR4d0318_SBCK_006-4b"/>
+恨臉紅燒断故人腸榆錢不買千金笑栁帶何湏百<lb/>
+宝粧舞罷隔簾偷送目不知誰是椘㐮王<lb/>
+　　　思故人<lb/>
+大乙年耒落冀并幾多豪傑未成名堯天日月計和<lb/>
+玉胡地山川知耀卿盧六駈凨能破屋陳三平水可<lb/>
+傾城年耒幕府勤延攬何事諸兄未有声<lb/>
+　　　呈古洲老人<lb/>
+衞霍勲名李杜才纔過四十也心灰俗塵趂少便披<lb/>
+拂詩料空多難剪裁時事謾提眉便皺家懐未說眼<lb/>
+先開朱簾更倩梅香掛要放銀蟾入座耒<lb/>
+<pb n="KR4d0318_SBCK_006-5a"/>
+　　　訓小童<lb/>
+飯罷令人喚小童敢煩提耳為開䝉芎茶不用焦湯<lb/>
+点𥿄𬒳还将艶火烘酔欲伴眠當倩月热求揮汗合<lb/>
+<graphic n="KR0829" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0829.png" mimeType="image/png"/>凨它時我建清油幕亷汝封侯學衞公<lb/>
+　　　郊飲<lb/>
+茅舍松棚隔小橋碧帘斜掛竹籬腰猪頭煮去和皮<lb/>
+擘牛肉秤耒帶骨燒村酒不圖<graphic n="KR0829" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0829.png" mimeType="image/png"/>客酔野花𣸪喜向<lb/>
+人嬌帰舟不用撑明月只倩西凨借晩潮<lb/>
+　　　西爽<lb/>
+客子東南不着家主人北里恣豪奢夜深常倩月移<lb/>
+<pb n="KR4d0318_SBCK_006-5b"/>
+竹春老不煩凨掃花暮雨送凉帰枕簟夕陽留客賦<lb/>
+烟霞何時執手闌干外同把功名誓鏌鎁<lb/>
+　　　斗齋<hi>室有斋名斗示詩次韵<折 t="33"/>磻溪先生托𪠘大中僧</hi>
+八方無䖏着瞿曇百合中間寄一龕滿挹酒漿供里<lb/>
+北平量凨月借和南腰如可折豈徒五涎若果流何<lb/>
+待三更喜小<graphic n="KR1084" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1084.png" mimeType="image/png"/>能就供夜寒江静着山函<lb/>
+　　　呈椘南僧<lb/>
+剛腸未肯報平安擬把功名一擔擔方向杏壇迯敗<lb/>
+北却于蓮社得和南香同丗事炎还冷茶類人情苦<lb/>
+始甘大<graphic n="KR1328" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1328.png" mimeType="image/png"/>乆長同佛法此心何処不瞿曇<lb/>
+<pb n="KR4d0318_SBCK_006-6a"/>
+　　　山居<lb/>
+布作寛𫀆竹作冠䔥然万慮不相関数声横笛烟霄<lb/>
+外一箇閑人天地間若遇急流湏勇退從教<graphic n="KR0786" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0786.png" mimeType="image/png"/>鳥不<lb/>
+知还百年冨貴君休羡得似浮生半日閑<lb/>
+　　　吳伯叙<hi>販而籍其家贈以五十六字<折 t="33"/>伯叙尝喫官塩有司欲以為私</hi>
+太平官府不停囚求剣烏衣欲刻舟私䇲是鳮難做<lb/>
+寉公庭得馬便成牛不疑若受千金謗膠鬲當貽万<lb/>
+丗羞見說明公在蓮幕不知能鑑此冤不<lb/>
+　　　讀史<lb/>
+史筆如衡湏正持莫教浮誕出無稽已成帝業從烹<lb/>
+<pb n="KR4d0318_SBCK_006-6b"/>
+父未将王師休殺妻秦逸号眠為抱虎劉狂名舞作<lb/>
+聞鳮麟經削後無全筆磨玷吾當問白圭<lb/>
+　　　建安暮秋<lb/>
+斜陽望断水平橋古栁䔥踈已半彫魚躍浪花翻水<lb/>
+面㕍拖烟練束林腰花時無鏹能追驥月夜有詩堪<lb/>
+續貂囬首故郷多少恨乱山無数路迢迢<lb/>
+　　　三衢道中<lb/>
+西凨吹梦落青帘濁酒三盃路二千别岸舟行秋色<lb/>
+裡故人家在夕陽邉嚢中有薬難医國竿上旡鈎可<lb/>
+釣賢見說近耒書籍貴監唐川漢莫論錢<lb/>
+<pb n="KR4d0318_SBCK_006-7a"/>
+　　　秋望有懐<hi>清之書有感<折 t="33"/>收張子明王</hi>
+片雲和雨卷西凨綽盡遮闌眼力雄逺水半連晴漢<lb/>
+碧暮霞全借夕陽紅姓名未淂聫諸子鬂髮皤然已<lb/>
+一翁欲識翆㣲詩外意豈圖憂囯願年豊<lb/>
+　　　送李子方<hi>漂流下僚方有求婚間舍之意作<折 t="33"/>子方以将家子不果用事業之秋</hi>
+<hi>之<折 t="33"/>詩嘲</hi>
+乱雲推月上層楼楼上朱簾不下鈎鳮翅拍開朱户<lb/>
+鎖雁声喚上木蘭舟黄花撚酒留人酔紅葉題詩倩<lb/>
+水流李廣不侯人不笑笑他人作爛羊頭<lb/>
+　　　寄兩庠同舍<lb/>
+<pb n="KR4d0318_SBCK_006-7b"/>
+昔年槌皷扣天閽逺謫南州七度春大享有㤙耒北<lb/>
+闕小囚無賂脫東閩烏衣座滿民流血画烛簾涤桉<lb/>
+積塵見說九重霄旰慮長沙犹有少年人<lb/>
+　　　呈㳂漕宰<lb/>
+長亭不作馬蹄迂一葉孤蓬入帝都星布関津皆自<lb/>
+放雷封纂節独相拘可憐罔市千般有誰信虗舟一<lb/>
+物無為祝琴坣早催發片帆連夜過姑蘇<lb/>
+　　　九日<hi>仁韵<折 t="33"/>次趙叔</hi>
+木落西凨黄葉飛子卿旡信雁耒遅凄凉自笑刘思<lb/>
+父慷慨難追杜牧之帰㒷十分濃似酒愁腸一縷乱<lb/>
+<pb n="KR4d0318_SBCK_006-8a"/>
+如絲慿君細把茱萸問此㑹明年健有誰<lb/>
+　　　戲呈趙可父<lb/>
+<hi>試第一是冬正欲遣使議和<折 t="33"/>可父以法曺入幕明年為鎖</hi>
+少年場屋擅詞鋒審讞無私只奉公夜月蘭宫無宿<lb/>
+曜秋霜蓮幕有春凨明堂難毁周公制郷校犹存子<lb/>
+産功文徳自耒能服逺更煩劉向為和戎<lb/>
+　　　挽吳夫人<lb/>
+<hi>卒年十六葬于舒仙姑之山<折 t="33"/>夫人少師孫女居蜀適王氏</hi>
+鵉驂不是厭塵凡王母瑶池促駕还家在両三千里<lb/>
+外人生一十六年間好随神女㳺舒水難伴文君㴆<lb/>
+<pb n="KR4d0318_SBCK_006-8b"/>
+蜀山試向仙源問消息桃花零落水潺潺<lb/>
+　　　岩桂落英<lb/>
+<hi>有詩次韵<折 t="33"/>和郡楊伯宗</hi>
+净掃庭堦襯落英西凨吹恨入蓬瀛人從紫麝囊中<lb/>
+過馬踏黄金屑上行眠酔不須鋪錦褥研香還觧作<lb/>
+珠纓宫娥未許填溝<graphic n="KR0676" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0676.png" mimeType="image/png"/>收拾流酥浸玉<graphic n="KR0902" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0902.png" mimeType="image/png"/>
+　　　牢城述懐<lb/>
+<hi>元白扣平仲動静<折 t="33"/>思冦平仲發書吳</hi>
+江外音書乆不耒重城昏皷又相催眼前螢掣簷前<lb/>
+電耳底蚊轟屋<graphic n="KR1284" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1284.png" mimeType="image/png"/>雷乃事類棊方入局此心如火已<lb/>
+<pb n="KR4d0318_SBCK_006-9a"/>
+成灰憑君試問吴元白老㓂東川囬未囬<lb/>
+　　　重午<hi>蒲釵符之韻<折 t="33"/>次鄷信甫送菖</hi>
+虎眼龍鬚午未乾楚臣遺淚尚潸潸梅天有雨金丸<lb/>
+重麥地無風翠浪閑蒲解梟風豈梟賊符能驅祟不<lb/>
+驅姦一樽菖酒呼天問何事男兒鬢已斑<lb/>
+<pb n="KR4d0318_SBCK_006-9b"/>
+</p>
+<p>
+翠㣲南征録卷之六<lb/>
+<pb n="KR4d0318_SBCK_006-10a"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

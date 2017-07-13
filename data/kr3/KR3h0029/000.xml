@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>廣川畫跋</head>
+    <p>
+<pb n="KR3h0029_WYG_000-1a"/>
+欽定四庫全書　　　　　子部八<lb/>
+　廣川畫跋　　　　　　　藝術類一<hi>書畫之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案廣川畫跋六卷宋董逌撰<graphic n="KR1225" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1225.png" mimeType="image/png"/>在宣<lb/>
+　　　　和中與黄伯思均以考據賞鑒擅名毛晉嘗<lb/>
+　　　　刋其書跋十卷而畫跋則世罕傳本此本為<lb/>
+　　　　元至正乙巳華亭孫道明所鈔云從宋末書<lb/>
+　　　　生寫本録出則當時已無鋟本矣紙墨嵗久<lb/>
+<pb n="KR3h0029_WYG_000-1b"/>
+　　　　剥蝕然僅第六卷末有缺字餘尚完整也古<lb/>
+　　　　圖畫多作故事及物象故逌所跋皆攷證之<lb/>
+　　　　文其論山水者惟王維一條范寛二條李成<lb/>
+　　　　三條燕肅二條時記室所收一條而已其中<lb/>
+　　　　如辨正武皇望仙圖東丹王千角鹿圖七夕<lb/>
+　　　　圖兵車圖九主圖陸羽㸃茶圖送窮圖乞巧<lb/>
+　　　　圖勘書圖擊壤圖没骨花圖舞馬圖戴嵩牛<lb/>
+　　　　圖秦王進餅圖留𤓰圖王波利獻馬圖引據<lb/>
+<pb n="KR3h0029_WYG_000-2a"/>
+　　　　皆極精核其封禪圖一條立義未確娵魚圖<lb/>
+　　　　一條附會太甚分鏡圖一條拘滯無理地獄<lb/>
+　　　　變相圖誤以盧棱伽為在吳道元前皆偶然<lb/>
+　　　　小疵不足以為是書累也乾隆四十五年五<lb/>
+　　　　月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

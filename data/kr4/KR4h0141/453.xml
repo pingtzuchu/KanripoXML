@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_453-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選巻四百五十四<lb/>
+　　杜䳌類<lb/>
+　　　五言律<lb/>
+　　　　子規　　　　　　　　　　<hi>唐</hi>杜　甫<lb/>
+　峽裏雲安縣江樓翼瓦齊兩邊山木合終日子規啼眇<lb/>
+　眇春風見蕭蕭夜色凄客愁那聽此故作傍人低<lb/>
+　　　　和周贊善聞子規　　　　　<hi>唐</hi>張　籍<lb/>
+<pb n="KR4h0141_WYG_453-1b"/>
+　秦城啼楚鳥逺思更紛紛况是街西夜偏當雨裏聞應<lb/>
+　投最髙樹似隔數重雲此處誰能聽遥知獨有君<lb/>
+　　　五言絶句<lb/>
+　　　　夜聞子規　　　　　　　　<hi>唐</hi>王　建<lb/>
+　子規啼不歇到曉口應穿况是不眠夜聲聲在耳邊<lb/>
+　　　　聞子規　　　　　　　　　<hi>唐</hi>雍　陶<lb/>
+　百鳥有啼時子規聲不歇春寒四鄰静獨叫三更月<lb/>
+　　　七言絶句<lb/>
+<pb n="KR4h0141_WYG_453-2a"/>
+　　　送人歸岳陽　　　　　　　<hi>唐</hi>李　益<lb/>
+煙草連天楓樹齊岳陽歸路子規啼春江萬里巴陵戍<lb/>
+落日看沈碧水西<lb/>
+　　　汎舟入後谿　　　　　　　<hi>唐</hi>羊士諤<lb/>
+雨餘芳草淨沙塵水緑灘平一帶春惟有啼䳌似畱客<lb/>
+桃花深處更無人<lb/>
+　　　杏山館聽子規　　　　　　<hi>唐</hi>竇　常<lb/>
+楚塞餘春聽漸稀斷猿今夕讓霑衣雲薶老樹空山裏<lb/>
+<pb n="KR4h0141_WYG_453-2b"/>
+髣髴千聲一度飛<lb/>
+　　　湘江夜泛　　　　　　　　<hi>唐</hi>熊孺登<lb/>
+江流如箭月如弓行盡三湘數夜中無那子規知向蜀<lb/>
+一聲聲似怨春風<lb/>
+　　　宿石磯　　　　　　　　　<hi>唐</hi>元　稹<lb/>
+石磯江水夜潺湲半夜江風引杜䳌燈暗酒醒顚倒枕<lb/>
+五更斜月入空船<lb/>
+　　　酬樂天舟泊夜讀微之詩　　　元　稹<lb/>
+<pb n="KR4h0141_WYG_453-3a"/>
+知君暗泊西江岸讀我閒詩欲到明今夜通州還不睡<lb/>
+滿山風雨杜䳌聲<lb/>
+　　　呂校書雨中見訪　　　　　<hi>唐</hi>趙　嘏<lb/>
+竹閣斜谿小檻明惟君來賞見山情馬嘶風雨又歸去<lb/>
+獨聽子規千萬聲<lb/>
+　　　聞杜䳌　　　　　　　　　<hi>唐</hi>雍　陶<lb/>
+蜀客春城聞蜀鳥思歸聲引未歸心却知夜夜愁相似<lb/>
+爾正啼時我正吟<lb/>
+<pb n="KR4h0141_WYG_453-3b"/>
+　　　暮春送人　　　　　　　　<hi>唐</hi>僧無悶<lb/>
+折桞亭邊手重攜江煙澹澹草萋萋杜䳌不解離人意<lb/>
+更向落花枝上啼<lb/>
+　　　崇壽客舎夜聞子規得三絶句寫呈平父兄煩<lb/>
+　　　　爲轉寄彦集兄及兩縣間諸親友<hi>錄一</hi>
+　　　　　　　　　　　　　　　<hi>宋</hi>朱　子<lb/>
+空山後夜子規號斗轉星移月尚髙夢裏不知歸未得<lb/>
+巳驅黄犢度寒臯<lb/>
+<pb n="KR4h0141_WYG_453-4a"/>
+　　　夜聞子規　　　　　　　　　朱　子<lb/>
+幽林欲雨氣含凄春晩端居園徑迷獨向髙齋展衾卧<lb/>
+南山夜夜子規啼<lb/>
+　　　鄰山縣　　　　　　　　　<hi>宋</hi>范成大<lb/>
+山頂噓雲黒似煙脩篁髙柳共昏然鳥啼一夜勸歸去<lb/>
+誰道東川無杜䳌<lb/>
+　　　過眞陽峽　　　　　　　　<hi>宋</hi>楊萬里<lb/>
+仰見青天尺許青無波江水不勝平只驚白晝山竹裂<lb/>
+<pb n="KR4h0141_WYG_453-4b"/>
+杜宇初聞第一聲<lb/>
+　　　鄉邨四月　　　　　　　　<hi>宋</hi>翁　卷<lb/>
+綠遍山原白滿川子規聲裏雨如煙鄉邨四月閒人少<lb/>
+纔了蠶桑又挿田<lb/>
+　　　次韻陳君授暮春感懷　　　<hi>宋</hi>王庭珪<lb/>
+雨餘山鳥百般啼煙隔桃谿一線微南北東西春總好<lb/>
+杜䳌何苦勸人歸<lb/>
+　　　谿橋晩興　　　　　　　　<hi>宋</hi>鄭　協<lb/>
+<pb n="KR4h0141_WYG_453-5a"/>
+寂寞亭基野渡邊春流平岸草芊芊一川晩照人閒立<lb/>
+滿袖楊花聼杜䳌<lb/>
+　　　春日雜興　　　　　　　　<hi>宋</hi>僧道潛<lb/>
+梅梢青子大於錢慚媿春光又一年亭午無人初破睡<lb/>
+杜䳌聲在柳花邊<lb/>
+　　　暮春　　　　　　　　　　<hi>元</hi>黃　庚<lb/>
+芳事闌珊三月時春愁惟有落花知柳綿飄白東風老<lb/>
+一樹斜陽叫子規<lb/>
+<pb n="KR4h0141_WYG_453-5b"/>
+　　　客中即事　　　　　　　　<hi>元</hi>楊　載<lb/>
+幾日懸懸雨不休客窗孤迥使人愁杜䳌啼切知何處<lb/>
+坐對雲山萬木稠<lb/>
+　　　得樟樹鎭便寄家書　　　　<hi>元</hi>范　梈<lb/>
+商船夜說指江西欲託音書未忍題收拾鄉心多在紙<lb/>
+兩聲杜宇傍人啼<lb/>
+　　　春暮　　　　　　　　　　<hi>元</hi>葉　顒<lb/>
+老紅新綠駐煙波無奈青皇促駕何又是一年春事了<lb/>
+<pb n="KR4h0141_WYG_453-6a"/>
+　杜䳌聲裏夕陽多<lb/>
+　　　　巳未夏日雜興　　　　　　<hi>元</hi>僧善住<lb/>
+　纎纎碧草與階齊濃綠陰中杜宇啼花院晝長聽正好<lb/>
+　帶聲飛過粉牆西<lb/>
+　　　　江上　　　　　　　　　　<hi>明</hi>汪廣洋<lb/>
+　大山小山松樹齊千聲萬聲子規啼攬衣起舞夕露下<lb/>
+　三更月落呉城西<lb/>
+　　　　山中冬日偶題　　　　　　<hi>明</hi>紀　青<lb/>
+<pb n="KR4h0141_WYG_453-6b"/>
+　鎭日無人閉竹扉階前寒翠上人衣開門修竹青如束<lb/>
+　黃葉風前叫子規<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選卷四百五十四<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

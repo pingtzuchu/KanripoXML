@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>中山詩話</head>
+    <p>
+<pb n="KR4i0008_WYG_000-1a"/>
+欽定四庫全書　　　　　　　集部九<lb/>
+　中山詩話　　　　　　　　　詩文評類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹按中山詩話一巻宋劉攽撰攽字貢<lb/>
+　　　　父新喻人敞之弟也與敞同舉慶厯六年進<lb/>
+　　　　士歴官秘書少監出知蔡州後終於中書舎<lb/>
+　　　　人所著公非先生集嵗乆散佚已非完帙惟<lb/>
+　　　　詩話猶為舊本攽素稱博洽而於花蕊夫人<lb/>
+<pb n="KR4i0008_WYG_000-1b"/>
+　　　　宫詞百首僅見三十餘篇豈當攽之時全稿<lb/>
+　　　　未盡出耶其論李商隠錦瑟詩以為令狐楚<lb/>
+　　　　青衣之名頗為影撰其論赫連勃勃蒸土一<lb/>
+　　　　條亦頗不確論陸機黄犬一條尤為迂濶不<lb/>
+　　　　但晁公武所摘蕭何功曹一事至開巻第二<lb/>
+　　　　條所引劉子儀詩以師問達為師也達将詮語賜也<lb/>
+　　　　達師也辟二句牽混殊不可解所載嘲謔之詞彌<lb/>
+　　　　多冗雜攽好詼諧嘗坐是為馬黙所彈殆性<lb/>
+<pb n="KR4i0008_WYG_000-2a"/>
+　　　　之所近不覺濫收耶北宋詩話惟歐陽脩司<lb/>
+　　　　馬光及攽三家號為最古此編較歐陽脩司馬<lb/>
+　　　　光二家雖似不及然攽在元祐諸人之中學<lb/>
+　　　　問最有根柢所考證議論可取者多究非南<lb/>
+　　　　宋江湖末派鈎棘字句以空談説詩者比也<lb/>
+　　　　乾隆四十一年十月恭校上<lb/>
+　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

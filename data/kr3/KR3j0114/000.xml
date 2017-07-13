@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>欒城遺言</head>
+    <p>
+<pb n="KR3j0114_WYG_000-1a"/>
+欽定四庫全書　　　　　子部十<lb/>
+　欒城遺言　　　　　　　雜家類三<hi>雜説之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案欒城遺言一卷宋蘇籕撰籕字仲<lb/>
+　　　　滋眉州人轍之孫遲之子也南渡後居婺州<lb/>
+　　　　官至監丞籀年十餘嵗時侍轍於潁昌首尾<lb/>
+　　　　九載未嘗去側因録其所聞可追記者若干<lb/>
+　　　　語以示子孫故曰遺言中間辨論文章流别<lb/>
+<pb n="KR3j0114_WYG_000-1b"/>
+　　　　古今人是非得失最為詳晰頗能見轍作文<lb/>
+　　　　宗㫖其精言奥義亦多足以啓發來學惟籕<lb/>
+　　　　私於其祖每陰寓抑軾尊轍之意似非轍之<lb/>
+　　　　本心又謂吕恵卿王安石之隙起於字説及<lb/>
+　　　　三經義核之史傅亦非事實至謂轍母夢蛟<lb/>
+　　　　龍伸臂而生轍引孔子生時二龍附徵在之<lb/>
+　　　　房為比又襍載轍崇寧丙戌夢見王介甫事<lb/>
+　　　　尤為失之誕妄特籕親承祖訓耳濡目染其<lb/>
+<pb n="KR3j0114_WYG_000-2a"/>
+　　　　可信者亦多究非影響比也乾隆四十五年<lb/>
+　　　　九月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

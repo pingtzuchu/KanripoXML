@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>花溪集</head>
+    <p>
+<pb n="KR4d0582_WYG_000-1a"/>
+欽定四庫全書　　　　集部五<lb/>
+　花溪集　　　　　　　别集類四<hi>元</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案花溪集三巻元沈夢麟撰夢麟字<lb/>
+　　　　昭原呉興人舉後至元已邜鄉薦授婺源州<lb/>
+　　　　學正遷武康令至正中解官歸隠明初以賢<lb/>
+　　　　良徴辭不起應聘入浙閩校文者三為㑹試<lb/>
+　　　　同考者再太祖稱之曰老試官然知其志不<lb/>
+<pb n="KR4d0582_WYG_000-1b"/>
+　　　　可屈亦不强以仕年埀九十而卒夢麟以前<lb/>
+　　　　朝遺老不能銷聲滅跡自遁于雲山烟水之<lb/>
+　　　　間乃出豫新朝貢舉之事此與楊維楨等之<lb/>
+　　　　修元史胡行簡等之修禮書其踪跡相類以<lb/>
+　　　　較丁鶴年諸人當降一格然身經徴辟卒不<lb/>
+　　　　受官較改節希榮者終加一等仍繫諸元曲<lb/>
+　　　　諒其本志也是集為其元孫江西按察司僉<lb/>
+　　　　事清所編凡詩文四百二十四篇夢麟與趙<lb/>
+<pb n="KR4d0582_WYG_000-2a"/>
+　　　　孟頫為姻家傳其詩法七言律體最工時稱<lb/>
+　　　　沈八句劉基早與之逰嘗寄贈曰杜陵老去<lb/>
+　　　　詩千首陶令歸來酒一樽其文其人具見于<lb/>
+　　　　是矣乾隆四十三年五月恭校上<lb/>
+　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　總　校　官　臣　陸　費　墀<lb/>
+<pb n="KR4d0582_WYG_000-3a"/>
+花谿集原序<lb/>
+昔人謂立言而朽君子不由也然則君子之所由其有<lb/>
+要乎噫難矣哉先輩之人學博而用周資深而積厚得<lb/>
+志於時有所叙述諷詠典則之製成和平之音著間或<lb/>
+酬應無故道焉不得志而隠約於下亦率如是以自表<lb/>
+見士林傳之後生仰之槩諸平生未嘗䂓䂓著述而埀<lb/>
+聲文苑則擬之立言可也謂之不朽亦可也雖然抑有<lb/>
+幸不幸存焉竊觀徃世唐宋之文盛矣大家顕人昭昭<lb/>
+<pb n="KR4d0582_WYG_000-3b"/>
+可數其他刻意文章篇目浩瀚具在藝文等志孰能盡<lb/>
+見之哉盖并其初稿而亡者多矣譬諸斷梗漂木泛泛<lb/>
+煙海雲濤之間非無羙材異質然倐忽蕩散莫知所之<lb/>
+其有沉沒沙石乆而獲出因有居士之題假山之號豈<lb/>
+非幸哉文章之顕晦葢亦有然者甚乎其為難也元之<lb/>
+世文好贍蔚論者謂南膩理而北雄剛格致頗不同文<lb/>
+儒善以才自馳騁晚值改物濡化更務本實葢文之不<lb/>
+可泯者若呉興夣麟沈先生其人歟先生精易學舉後<lb/>
+<pb n="KR4d0582_WYG_000-4a"/>
+至元己夘鄉薦授婺源州學正遷武康令至正多故解<lb/>
+官歸歸安花谿故里時誠意伯劉公遊宦閩浙與世齟<lb/>
+齬毎相依谿上嘗寄贈云杜陵老去詩千首陶令歸來<lb/>
+酒一罇其評品許與至矣國初以賢良官徴先生辭疾<lb/>
+不復仕退以詩文自娯三校文閩浙再同考㑹試髙廟<lb/>
+禮重之面稱為老試官年埀九十而沒先生博學厚積<lb/>
+得志之日少隠處之日多感遇酬應富盈巻軸有花谿<lb/>
+集藏於家尚論文事可謂老而成矣不意家罹禍子孫<lb/>
+<pb n="KR4d0582_WYG_000-4b"/>
+謫戍北鄙集遂散逸近嵗先生之𤣥孫刑部郎官清録<lb/>
+囚南畿過故郡訪求士夫家録得今本什一千百耳珍<lb/>
+藏惟謹請言以弁其首予謝病索居乃縱觀焉馴狎仙<lb/>
+禽逥翔於野未見凌霄之勢然羽儀楚楚精神俊逸自<lb/>
+是出塵物也聞翰苑鉅儒欲選類國朝文字其能遺於<lb/>
+斯集哉予喜先生之有遇且彰清之能孝不辭而序之<lb/>
+𢎞治六年癸丑秋九月朔賜進士第資善大夫致仕刑<lb/>
+部尚書莆田彭韶書<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

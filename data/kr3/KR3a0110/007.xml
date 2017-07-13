@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3a0110_WYG_007-1a"/>
+欽定四庫全書<lb/>
+御覽經史講義卷一目録<lb/>
+　　　周易<lb/>
+　　乾元亨利貞<lb/>
+　　　　　　　　　　　　　檢討<hi>臣</hi>陳兆崙<lb/>
+　　九三君子終日乾乾夕惕若厲无咎<lb/>
+　　　　　　　　　　　　　檢討<hi>臣</hi>朱　璂<lb/>
+　　大哉乾元萬物資始乃統天<lb/>
+<pb n="KR3a0110_WYG_007-1b"/>
+　　　　　　　　　　　　　檢討<hi>臣</hi>陳兆崙<lb/>
+　　雲行雨施品物流行<lb/>
+　　　　　　　　　　　　　編修<hi>臣</hi>羅暹春<lb/>
+　　各正性命保合太和<lb/>
+　　　　　　　　　　　　　檢討<hi>臣</hi>蔣祖培<lb/>
+　　保合太和<lb/>
+　　　　　　　　　　　　　檢討<hi>臣</hi>韓彦曾<lb/>
+　　天行健君子以自彊不息<lb/>
+<pb n="KR3a0110_WYG_007-2a"/>
+　　　　　　　　　　　　　編修<hi>臣</hi>孫人龍<lb/>
+　　　　　　　　　　　　　編修<hi>臣</hi>陸嘉穎<lb/>
+　　　　　　　　　　　　　編修<hi>臣</hi>林令旭<lb/>
+　　　　　　　　　　　　　編修<hi>臣</hi>姚廷祜<lb/>
+　　　　　　　　　　　　　編修<hi>臣</hi>積　善<lb/>
+　　　　　　　　　　　　　檢討<hi>臣</hi>張日譽<lb/>
+　　　　　　　　　　　監察御史<hi>臣</hi>黄元鐸<lb/>
+　　　　　　　　　　　監察御史<hi>臣</hi>包祚永<lb/>
+<pb n="KR3a0110_WYG_007-2b"/>
+　　　　　　　　　　　監察御史<hi>臣</hi>黄登賢<lb/>
+　　見龍在田徳施普也終日乾乾反復道也<lb/>
+　　　　　　　　　　　　　編修<hi>臣</hi>李清芳<lb/>
+　　文言曰元者善之長也亨者嘉之㑹也利者義之<lb/>
+　　　和也貞者事之幹也君子體仁足以長人嘉會<lb/>
+　　　足以合禮利物足以和義貞固足以幹事君子<lb/>
+　　　行此四徳者故曰乾元亨利貞<lb/>
+　　　　　　　　　　　監察御史<hi>臣</hi>劉永泰<lb/>
+<pb n="KR3a0110_WYG_007-3a"/>
+　　君子體仁足以長人嘉㑹足以合禮利物足以和<lb/>
+　　　義貞固足以幹事君子行此四徳者故曰乾元<lb/>
+　　　亨利貞<lb/>
+　　　　　　　　　　　　諭徳<hi>臣</hi>覺羅蘓岱<lb/>
+　　君子體仁足以長人嘉會足以合禮利物足以和<lb/>
+　　　義貞固足以幹事<lb/>
+　　　　<hi>贊</hi>　　　　　　　　編修<hi>臣</hi>沈景瀾<lb/>
+　　君子體仁足以長人<lb/>
+<pb n="KR3a0110_WYG_007-3b"/>
+　　　　　　　　　　　　　編修<hi>臣</hi>李　錦<lb/>
+　　　　　　　　　　　　　檢討<hi>臣</hi>朱　璂<lb/>
+　　　　　　　　　　　監察御史<hi>臣</hi>馬　丙<lb/>
+　　君子行此四徳者故曰乾元亨利貞<lb/>
+　　　　　　　　　　　　　編修<hi>臣</hi>王　錦<lb/>
+　　　　　　　　　　　　　檢討<hi>臣</hi>趙允涵<lb/>
+　　　　　　　　　　　監察御史<hi>臣</hi>趙青藜<lb/>
+　　庸言之信庸行之謹<lb/>
+<pb n="KR3a0110_WYG_007-4a"/>
+　　　　　　　　　　　監察御史<hi>臣</hi>周祖榮<lb/>
+　　閑邪存其誠<lb/>
+　　　　　　　　　　　監察御史<hi>臣</hi>周祖榮<lb/>
+　　忠信所以進徳也修辭立其誠所以居業也<lb/>
+　　　　　　　　　　　　給事中<hi>臣</hi>胡寶瑔<lb/>
+　　修辭立其誠所以居業也<lb/>
+　　　　　　　　　　　　　編修<hi>臣</hi>朱佩蓮<lb/>
+　　修辭立其誠<lb/>
+<pb n="KR3a0110_WYG_007-4b"/>
+　　　　　　　　　　　　　編修<hi>臣</hi>宋邦綏<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

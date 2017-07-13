@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2i0023_WYG_004-1a"/>
+　　附陳朝紀年<lb/>
+　　　太宗　乙酉建中元年　　　凡七年<lb/>
+　　　　　　天應政平元年壬辰　凡十九年<lb/>
+　　　　　　元豐元年辛亥　　　凡七年<lb/>
+　　　聖宗　紹隆元年戊午　　　凡十五年<lb/>
+　　　　　　寳符元年癸酉　　　凡六年<lb/>
+　　　仁宗　紹寳元年己夘　　　凡六年<lb/>
+　　　　　　重興元年乙酉　　　凡八年<lb/>
+<pb n="KR2i0023_WYG_004-1b"/>
+　　　英宗　興隆元年癸巳　　　凡二十一年<lb/>
+　　　明宗　大慶元年甲寅　　　凡十年<lb/>
+　　　　　　開泰元年甲子　　　凡五年<lb/>
+　　　憲宗　開祐元年己巳　　　凡十二年<lb/>
+　　　裕宗　紹豐元年辛巳　　　凡五年<lb/>
+　　　　　　大治元年戊戌　　　凡十一年<lb/>
+　　　　　　天定元年己酉　　　凡一年<lb/>
+　　　太王　紹慶元年庚戌　　　凡三年<lb/>
+<pb n="KR2i0023_WYG_004-2a"/>
+　　　睿宗　隆慶元年癸丑　　　凡三年<lb/>
+　　　今王　昌符元年丁巳<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2i0023_WYG_004-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　陳朝紀年附<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

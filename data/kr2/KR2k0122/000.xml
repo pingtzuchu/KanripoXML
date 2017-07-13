@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>吳中舊事</head>
+    <p>
+<pb n="KR2k0122_WYG_000-1a"/>
+欽定四庫全書　　　　史部十一<lb/>
+　吳中舊事　　　　　　地理類八<hi>雜記之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案呉中舊事一巻元陸友仁撰友仁<lb/>
+　　　　字輔之平江人此書紀其鄉之軼聞舊迹以<lb/>
+　　　　補地志之闕其體例則小説家流也其中如<lb/>
+　　　　辨呉㑹呉下之名及陸贄墓張翰宅和令坊<lb/>
+　　　　高彪碑之類皆足資考證紀陳長方潘兑事<lb/>
+<pb n="KR2k0122_WYG_000-1b"/>
+　　　　紀朱勔事亦足以資法戒其他如范純祐慕<lb/>
+　　　　容嵓卿事頗為不經李璋事亦頗猥瑣盖襍<lb/>
+　　　　記之書誌神怪資諧笑自唐已然不足為友<lb/>
+　　　　仁訾也惟所載鹿苑臺銘記云永和七年陸<lb/>
+　　　　機建碑王羲之書則二人時代邈不相及殊<lb/>
+　　　　失之於不考耳此書刋本頗訛脱今以永樂<lb/>
+　　　　大典所載互合補正備元人説部之一種雖<lb/>
+　　　　篇帙無多要與妄誕之談異也乾隆四十六<lb/>
+<pb n="KR2k0122_WYG_000-2a"/>
+　　　　年九月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

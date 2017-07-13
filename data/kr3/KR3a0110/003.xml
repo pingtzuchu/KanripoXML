@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3a0110_WYG_003-1a"/>
+　　凡例<lb/>
+　　一諸臣進講内有敷陳中理奉<lb/>
+㫖嘉勉者亦有所論未當蒙<lb/>
+恩開示者洋洋<lb/>
+聖謨同符典誥實足以昭示來兹謹據諸臣所述彚成<lb/>
+　　一帙登諸卷首仍載原進講義以著縁起<lb/>
+　　一凡説經之篇根據先儒理解純正者固已分别<lb/>
+　　録入即或不涉訓詁而詞條雅贍可資<lb/>
+<pb n="KR3a0110_WYG_003-1b"/>
+觀覽亦所不遺<lb/>
+　　一頌贊箴銘及四言詩歌原本經訓諸臣所進間<lb/>
+　　涉斯體録存雅飭之篇不復别為卷帙苐於目録<lb/>
+　　本題下標出以便檢閲<lb/>
+　　一科臣原奏内請令進講經義史事及前代奏議<lb/>
+　　謹按奏議自漢晁董諸疏以及唐宋名臣上書劄<lb/>
+　　子等篇率在史冊之内是編即依諸史先後叙次<lb/>
+　　成卷奏議一條不復區别云<lb/>
+<pb n="KR3a0110_WYG_003-2a"/>
+　　一宋儒通書西銘諸書及大全語類等編皆所以<lb/>
+　　闡揚聖學發揮經㫖講義内有標舉粹語附以已<lb/>
+　　見論列入<lb/>
+告者彚為一卷用殿全篇之末<lb/>
+　　一是編奉<lb/>
+㫖纂輯其中蹇淺之作無所發明者不復闌入至已經<lb/>
+　　入選而時有累句又如家修廷獻四字本無出處<lb/>
+　　憂盛危明之語祗屬臣僚沿襲時文率多誤用既<lb/>
+<pb n="KR3a0110_WYG_003-2b"/>
+　　經<lb/>
+聖訓指示悉為刪改以訂譌謬<lb/>
+　　一是編所録計文七百餘篇釐為三十一卷每卷<lb/>
+　　之中經序篇章史分年代性理亦就諸儒傳習先<lb/>
+　　後略為差次或一卷或數卷不等其論孟孝經文<lb/>
+　　各一二篇不能成卷即附周禮卷末<lb/>
+　　一凡一題而有文數篇或十數篇者易詩書三經<lb/>
+　　為多詞意複㳫輒加裁汰所存之篇仍依諸臣進<lb/>
+<pb n="KR3a0110_WYG_003-3a"/>
+　　講時官職第其前後<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

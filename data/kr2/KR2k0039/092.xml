@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2k0039_WYG_092-1a"/>
+欽定四庫全書<lb/>
+欽定皇輿西域圖志卷四十三<lb/>
+　土産<lb/>
+　　<hi>臣</hi>等謹按大禹隨刋於九州之物産土宜縷析條<lb/>
+　　分垂之禹貢山海經所載草木禽獸率非耳目間<lb/>
+　　物雖亦足資博覽而徵信無取焉若歴代史家志<lb/>
+　　異域物産者大扺權輿班傳然傳言草木畜産有<lb/>
+　　異乃記頗嫌其略東海甘英周行西土歴條支而<lb/>
+<pb n="KR2k0039_WYG_092-1b"/>
+　　抵安西臨西海以望大秦所到之國必區其品彚<lb/>
+　　傳其珍異以廣見聞惜其書不傳無可採摭魏晉<lb/>
+　　以下志方物者往往弔竒尚怪或失之誣方今<lb/>
+大化翔洽羣生蕃祉闢振古之狉榛昭維新之景物凡<lb/>
+　　屬夭喬飛走跂行喙息石韞而川含者向皆盲晦<lb/>
+　　於窮荒絶徼之中一旦荷<lb/>
+聖主之煦嫗帡幪㒺不欣欣自愛露采呈英以効靈而<lb/>
+　　獻瑞邇時伊犂鷟鸑之鳥烏梁海俊鶻之驄以及<lb/>
+<pb n="KR2k0039_WYG_092-2a"/>
+　　和闐之玉葉爾羌之木𤓰安石榴等莫不驛致<lb/>
+　禁庭而竒石蜜食嘉種鮮聞並獲移植<lb/>
+　上林<lb/>
+寵題篇什雖在微物亦㑹逢夫竒遇焉於是為之稱名<lb/>
+　　辨物類情别性纎悉無遺胥登鉛槧他若史傳所<lb/>
+　　載為旁參而互訂之信以傳信疑以傳疑不得以<lb/>
+　　昔有今無致滋漏略凡在今天山南北境者為摘<lb/>
+　　取而分附焉志土産第十八<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

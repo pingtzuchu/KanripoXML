@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>栁塘外集</head>
+    <p>
+<pb n="KR4d0380_WYG_000-1a"/>
+欽定四庫全書　　　　　集部四<lb/>
+　栁塘外集　　　　　　　别集類三<hi>宋</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹按栁塘外集四卷宋釋道璨撰道璨<lb/>
+　　　　字無文姓陶氏南昌人咸淳間嘗主饒州薦<lb/>
+　　　　福寺所著别有語錄故此以外集為名釋氏<lb/>
+　　　　以佛典為内學以儒書為外學也其詩邊幅<lb/>
+　　　　頗狹未能脱蔬筍之氣而短章絶句善用其<lb/>
+<pb n="KR4d0380_WYG_000-1b"/>
+　　　　短者亦時有清致如題水墨草蟲陳了翁祠<lb/>
+　　　　和恕齋濂溪書院諸作未嘗不楚楚可觀沙<lb/>
+　　　　中金屑固亦不容捐棄矣雜文中送一侍者<lb/>
+　　　　序一首乃為日本僧作考宋史外國傳所載<lb/>
+　　　　自太宗時奝然入朝後屢有倭僧奉貢迄南<lb/>
+　　　　渡不復見僅紀其國舟飄至内境數事至嘉<lb/>
+　　　　泰三年以後遂絶不復書此序作于淳祐戊<lb/>
+　　　　申稱其去國六年一日東歸計其來日當在<lb/>
+<pb n="KR4d0380_WYG_000-2a"/>
+　　　　淳祐三年殆求法東來非充貢使故史不得<lb/>
+　　　　而載之非漏畧也集凡詩一巻銘記一卷序<lb/>
+　　　　文疏書一巻墖銘墓誌壙誌祭文一卷宋以<lb/>
+　　　　來諸家書皆未著錄<lb/>
+　　　國朝康熙甲寅釋大雷始訪得舊本釋元宏燈<lb/>
+　　　　岱因為校正鋟版書雖晚出而核其格意確<lb/>
+　　　　為宋末江湖之體不緣贋造考吳師道禮部<lb/>
+　　　　詩話已載其題蘇堂竹一首則宋代實有其<lb/>
+<pb n="KR4d0380_WYG_000-2b"/>
+　　　　人疑當時名不甚著僅彼教自相傳錄故閲<lb/>
+　　　　數百年始見于世云乾隆四十三年月㳟校<lb/>
+　　　　上<lb/>
+　　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　　總　校官　<hi>臣</hi>陸費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3k0012_SBCK_866-1a"/>
+太平御覽卷第八百六十六<lb/>
+　飲食部二十四<lb/>
+　　　醯　醢<lb/>
+　　　　　醯<lb/>
+釋名曰苦酒淳毒甚者酢且苦也<lb/>
+周禮曰醯人掌共五齊七菹凢醯物以共祭祀之齊菹凢<lb/>
+醯醬之物賔客亦如之<hi>齊菹醬屬醯人者皆酒醯成味</hi>王舉則共齊菹醯<lb/>
+物六十罋共后及世子之醬齊菹賔客之禮共醯五十罋<lb/>
+凢事共醯<lb/>
+儀禮曰醯醢百罋夾碑十以爲列<lb/>
+禮曰宋襄公葬其大人醯醢百甕<lb/>
+又曰大功之䘮不食醯醬父母之䘮又朞而大祥有醯醬<lb/>
+論語曰子曰孰謂微生髙直或乞醯焉乞諸其隣而與之<lb/>
+<pb n="KR3k0012_SBCK_866-1b"/>
+史記曰通邑大都酤千釀醯<lb/>
+漢武内傳曰西王母仙上藥有鳯林鳴酢<lb/>
+魏名臣奏曰劉放奏云今官販苦酒與百姓争錐刀之末<lb/>
+冝者息絶<lb/>
+呉録地理志曰呉王築城以貯醯醢今俗人呼苦酒城<lb/>
+晏子春秋曰蘭夲三年而成湛之苦酒則君子不近庶人<lb/>
+不佩<lb/>
+風俗通曰酢如蓂莢按蓂味酸工者取以調味<lb/>
+博物志曰酒暴熟者酢醢酸者易臰<lb/>
+又曰龍肉以醯漬則文章生<lb/>
+葛洪肘後方曰治齒痛用三年醶酢<lb/>
+唐書曰𥘉薛仁果抜秦州召冨人磔於猛火之上或以醯<lb/>
+灌鼻求其金寳<lb/>
+<pb n="KR3k0012_SBCK_866-2a"/>
+又曰任迪簡萬年人舉進士𥘉爲天德軍使李景略判官<lb/>
+性重厚常有宴行酒者誤以醯進迪簡知誤以景略性嚴<lb/>
+慮坐主酒者乃勉強飲盡之而爲容其過以酒薄景畧請<lb/>
+換之於是軍中感恱<lb/>
+　　　　　醢<lb/>
+周禮曰醢人掌四豆之實朝事之豆其實韭菹醓醢昌菹<lb/>
+麋臡菁菹鹿臡苑菹麇臡饋食之豆其實葵菹蠃脾析<lb/>
+蠯醢蜃蚳醢豚拍魚醢加豆之實芹菹兎醢深蒲醓醢<lb/>
+箈菹鴈醢筍菹魚醢<lb/>
+又曰醢人爲王及后世子共其内羞王舉則共醢六十罋<lb/>
+以五齊七醢七菹三臡實之<hi>齊當爲韲五韲昌夲脾析蜃豚柏深蒲也十醢醘嬴蠯蚳</hi>
+<hi>魚兎鴈醢七菹韭菁苑葵芹箈筍菹三臡麋鹿麋臡也凢醢醬所和細切爲韲全物若䐑爲菹也</hi>賔客之<lb/>
+禮共醢五十罋<hi>致罋時</hi>凢事共醢<lb/>
+<pb n="KR3k0012_SBCK_866-2b"/>
+禮曰孔子哭子路於中庭<hi>寢中庭也與哭師同親之</hi>有人吊者夫子拜<lb/>
+之<hi>爲之主也</hi>旣哭進使者而問故<hi>使者自衛來計者故謂死之意狀</hi>使者曰醢<lb/>
+之矣<hi>時衛世子蒯瞶纂輒而立子路死之醢之者尓欲㗖食以悕衆</hi>遂命覆醢<hi>覆弃之不忍食</hi>
+禮記外傳曰祭祀賔客菹醢之用<hi>醢肉醬之通名</hi>醢汁也湆亦汁<lb/>
+也<hi>此等皆在豆以其濕故也</hi>籩竹器<hi>何盛/乾也</hi>豆木也皆跌足<hi>取其去地髙絜</hi>醢有<lb/>
+陸産<hi>畜之所生在陸者</hi>有水物天地隂陽之炁所生<hi>水草之品非人力所種自</hi>
+<hi>然絜</hi>臡者骨肉相雜爲之有麋鹿<graphic n="KR0874" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0874.png" mimeType="image/png"/>之臡<hi>麕大麞也字或作麏</hi>兎醢蚔<lb/>
+醢<hi>皆陸産也砥蟻夘也</hi>有魚鴈蠃蠯之醢<hi>蜃蛤之類也蜃似蚌而長也五者水物</hi>
+崔寔四民月令曰五月一日可作醢<lb/>
+弘君舉食檄曰東里獨姥之醢<lb/>
+太平御覽卷第八百六十六<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

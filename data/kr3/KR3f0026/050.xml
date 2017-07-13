@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3f0026_WYG_050-1a"/>
+餘論<lb/>
+數學有九要之則二支一者筭術一者量法量法者長<lb/>
+短逺近以求其距西法謂之測線方圓弧矢冪積周徑<lb/>
+以相求西法謂之測面立方渾圓堆垜之形以求容積<lb/>
+西法之測體在古九章則為方田為少廣為商功為句<lb/>
+股筭術者消息盈虚乘除進退以差多寡騐往以測來<lb/>
+西法謂之比例通分子母整齊畫一不盡者以法命之<lb/>
+西法謂之畸零若夫隠雜重複參錯難稽即顯騐幽探<lb/>
+<pb n="KR3f0026_WYG_050-1b"/>
+賾窮深無例可比故西法别立借衰互徴以為用亦比<lb/>
+例也在古九章則為粟布為衰分為均輸為盈朒為方<lb/>
+程此二者相需不可偏廢雖然筭術可以濟量法之窮<lb/>
+而量法不可以盡筭術之變何也可量者其可見也天<lb/>
+下之不可見者多矣非筭術何以御之故量法有窮而<lb/>
+筭術不窮也夫既量之而得其率矣所量者一欲知者<lb/>
+百西法之用比例亦以筭術佐量法也然以例相比非<lb/>
+量法而有量法之理吾友桐城方位伯謂九章出于句<lb/>
+<pb n="KR3f0026_WYG_050-2a"/>
+股葢以此也然吾觀方程正負同異減併之用非句股<lb/>
+所能御而能生比例愚故以筭術必不可廢也<lb/>
+言數學者亦有二家一古法一泰西泰西之説詳明曉<lb/>
+暢古人之法徑捷簡易可互明也然古書僅存筭術而<lb/>
+略于測量泰西詳于測量而或遺在筭術吾觀泰西家<lb/>
+言矩度三角八線割圓幾何原本備矣謂其善用句股<lb/>
+能有新意出于古率之外未為過也若所譯同文筭指<lb/>
+者大約用三率以變古法至于盈朒方程則其術不復<lb/>
+<pb n="KR3f0026_WYG_050-2b"/>
+可行于是取古人之法以傳之非利氏之所傳也算術<lb/>
+之妙莫盈朒方程若而泰西皆無之是九章闕其二也<lb/>
+尚謂之賢于古法乎且泰西家欲以其説易天下故必<lb/>
+宛轉箋疏以達其意以取信于學者若盈朒方程立法<lb/>
+之意殊不能言也不能言盈朒故别立借衰之法以代<lb/>
+之自謂超妙可廢古法矣而終不能廢盈朒若方程一<lb/>
+章不但不能言之亦不能用之不過取古人之僅存者<lb/>
+具數而已不能别立術以代之也諸書之謬誤皆沿之<lb/>
+<pb n="KR3f0026_WYG_050-3a"/>
+而不能察其必非知之而不用能言之而不悉亦可見<lb/>
+矣夫古人之略于量法者非不能言也言之略耳言之<lb/>
+詳者别有専書而人不能習不傳于世耳學士大夫既<lb/>
+苦其難竟又無與進取弋獲之利遂一切棄置不道淺獵<lb/>
+焉者率得少以自多無所發明遂使古人之精意若存<lb/>
+若亡不復可見今諸書所載方程法殘缺錯亂視盈朒<lb/>
+尤甚其所僅存又多為後之不得其説者參以臆解而<lb/>
+其㫖益晦非古人舊也使古之方程僅僅如此何必别<lb/>
+<pb n="KR3f0026_WYG_050-3b"/>
+立一章列于盈朒之後乎然以好變古率如泰西而不<lb/>
+能變方程勤于言筭如泰西而不能言方程不能盡其<lb/>
+用不能正其沿誤可見古人立法之深逺而决不可易<lb/>
+向使習古法者盡見古人之書又能如泰西家羣萃州<lb/>
+處窮年累月研精覃思以為之引伸而推廣又豈止如<lb/>
+斯而已乎言之三歎<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_168-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選卷一百六十八<lb/>
+　　書籍類<lb/>
+　　　四言古<lb/>
+　　　　孝經詩　　　　　　　　　<hi>晉</hi>傅　咸<lb/>
+　立身行道始於事親上下無怨不惡於人孝無終始不<lb/>
+　離其身三者備矣以臨其民<lb/>
+　　　　書帙銘　　　　　　　　　<hi>宋</hi>謝靈運<lb/>
+<pb n="KR4h0141_WYG_168-1b"/>
+　懐幽卷賾戢妙抱密用舍以造舒卷不失亮惟勤翫無<lb/>
+　或暇逸<lb/>
+　　　五言古<lb/>
+　　　　詠書帙　　　　　　　　　<hi>梁</hi>蕭　統<lb/>
+　擢影兔園池抽莖淇水側朝暎出嶺雲暮聚飛歸翼幸<lb/>
+　雜緗囊用聊因班女織一合軒羲曲千齡如可即<lb/>
+　　　　和劉明府觀湘東王書詩　　<hi>梁</hi>庾肩吾<lb/>
+　陳王擅書府河間富典墳五車方累篋七閣自連雲松<lb/>
+<pb n="KR4h0141_WYG_168-2a"/>
+槧芳帙氣柏熏起㕑文羽陵青簡出嬀泉綠字分方因<lb/>
+接遊聖暫得奉朝聞峰樓霞早發林殿日先曛洛城復<lb/>
+接限歸軒畏後羣<lb/>
+　　七言古<lb/>
+　　　無書歎　　　　　　　　　<hi>元</hi>胡天游<lb/>
+六經既降諸子出後代枝葉何其多眼中萬卷忽如掃<lb/>
+無乃天意増繁苛陳言故紙本糟粕吾道耿耿終難磨<lb/>
+劫灰不赭孝先笥晝卧坦腹時摩挲<lb/>
+<pb n="KR4h0141_WYG_168-2b"/>
+　　五言律<lb/>
+　　　蠧簡　　　　　　　　　　<hi>元</hi>楊　載<lb/>
+往古韋編在何年始汗青蠧蟲深卜宅蝌蚪少成形泯<lb/>
+滅阽秦火搜羅出漢庭斯文天未墜不敢望全經<lb/>
+　　七言律<lb/>
+　　　玉堂讀卷　　　　　　　　<hi>元</hi>虞　集<lb/>
+玉堂䇿士詔儒臣御筆親題墨色新省樹坐移簾底日<lb/>
+宮壺馳賜殿頭春虞庭制作夔龍盛漢代文章董賈醇<lb/>
+<pb n="KR4h0141_WYG_168-3a"/>
+書閣暮年偏感遇但歌天保播皇仁<lb/>
+　　七言絶句<lb/>
+　　　題朱兵曹山居　　　　　　<hi>唐</hi>張　祜<lb/>
+朱氏西齋萬卷書水門山濶自髙疏我來穿穴非無意<lb/>
+願向君家作壁魚<lb/>
+　　　襄陽爲盧竇紀事　　　　　<hi>唐</hi>元　稹<lb/>
+帝下真符召玉真偶逢遊子暫相親素書三巻留爲贈<lb/>
+從向人間説向人<lb/>
+<pb n="KR4h0141_WYG_168-3b"/>
+　　　聞日本圎載上人挾儒家書洎釋典以行更作<lb/>
+　　　　一絶以送　　　　　　　<hi>唐</hi>陸龜蒙<lb/>
+九流三藏一時傾萬軸光凌渤海聲從此遺編東去後<lb/>
+却應荒外有諸生<lb/>
+　　　寫莊子　　　　　　　　　<hi>唐</hi>李九齡<lb/>
+聖澤安排當散地賢侯優貸借新居閒中亦有閒生計<lb/>
+寫得南華一部書<lb/>
+　　　寄居江邨欲借書諸公先寄此詩<lb/>
+<pb n="KR4h0141_WYG_168-4a"/>
+　　　　　　　　　　　　　　　<hi>宋</hi>王庭珪<lb/>
+卜築江邨翠嶺坳喜君書室近衡茅牙籖插架幾千冊<lb/>
+凖擬從頭借一鈔<lb/>
+　　　時習齋　　　　　　　　　<hi>金</hi>宇文虚中<lb/>
+未厭平生習氣濃更將餘事訓兒童魯論二萬三千字<lb/>
+悟入從初一句中<lb/>
+　　　醉經齋爲虞卿麻長官賦　　<hi>金</hi>周　昻<lb/>
+詩書讀破自融神不羨雲安麴米春黄卷至今真味在<lb/>
+<pb n="KR4h0141_WYG_168-4b"/>
+莫將糟粕待前人<lb/>
+　　　天厯庚午㑹試院中馬伯庸尚書楊廷鎮司業<lb/>
+　　　　及元皆乙卯榜進士偶成絶句紀其事出院<lb/>
+　　　　明日有敕督修經世大典又成小詩寄諸弟<lb/>
+　　　　<hi>録一</hi>　　　　　　　　　<hi>元</hi>歐陽元<lb/>
+聖主宮中遊幸疎日臨秘閣翫芸儲昨朝蘭省纔開試<lb/>
+清曉玉音催著書<lb/>
+　　　贈長垣宗室　　　　　　　<hi>明</hi>邊　貢<lb/>
+<pb n="KR4h0141_WYG_168-5a"/>
+　瑶室青編萬卷餘宮中誰道日閒居家臣昨夜長安去<lb/>
+　猶向君王乞秘書<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR4h0141_WYG_168-5b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選卷一百六十八<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

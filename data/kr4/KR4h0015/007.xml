@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>二皇甫集巻七</head> <lb/>
+    <p>
+<pb n="KR4h0015_WYG_007-1a"/>
+欽定四庫全書<lb/>
+　二皇甫集巻七<lb/>
+　　　　　　　　　　　　唐　皇甫冉　撰<lb/>
+　　七言絶句<lb/>
+　　　臨平道中贈同舟人<lb/>
+逺山誰辨江南北長路空隨樹淺深流蕩飄颻此何極<lb/>
+唯因行客共知心<lb/>
+　　　舟中送李八<hi>得迴字</hi>
+<pb n="KR4h0015_WYG_007-1b"/>
+詞客金門未有媒遊吳適越任舟迴逺水迢迢分首去<lb/>
+天邉山色待人来<lb/>
+　　　少室韋錬師昇仙歌<lb/>
+紅霞紫氣晝氲氲絳節青幢迎少君忽從林下昇天去<lb/>
+空使時人禮白雲<lb/>
+　　　送裴闡<hi>得歸字</hi>
+道向毗陵豈是歸客中誰與換春衣今夜孤舟行近逺<lb/>
+子荆零雨正霏霏<lb/>
+<pb n="KR4h0015_WYG_007-2a"/>
+　　　秋夜戱題劉方平壁<lb/>
+鴻悲月白時將謝正可招尋惜遥夜翠帳蘭房曲且深<lb/>
+寜知户外清霜下<lb/>
+　　　重陽日酬李觀<lb/>
+不見白衣來送酒但令黄菊自開花愁看日晩良辰過<lb/>
+歩歩行尋陶令家<lb/>
+　　　寄權器<lb/>
+露濕青無時欲晩水流黄葉意無窮節近重陽念歸否<lb/>
+<pb n="KR4h0015_WYG_007-2b"/>
+眼前籬菊帶秋風<lb/>
+　　　送陸澧郭鄖<lb/>
+纔見吳洲百草春已聞燕鴈一聲新秋風何處催年急<lb/>
+偏逐山行水宿人<lb/>
+　　　寄振上人無礙寺所居<lb/>
+戀親時見在人羣多在東南就白雲獨坐焚香誦經處<lb/>
+深山古寺雪紛紛<lb/>
+　　　酬張繼<hi>并序</hi>
+<pb n="KR4h0015_WYG_007-3a"/>
+　　　　懿孫余之舊好祗役武昌六言詩見懐今以<lb/>
+　　　　七言裁答盖拙於事者繁而費也<lb/>
+悵望南徐登北固迢遥西塞限東關落日臨川問音信<lb/>
+寒潮惟帶夕陽還<lb/>
+　　　又得雲字<lb/>
+何事千年遇聖君坐令雙鬢老如雲南行更入深山淺<lb/>
+岐路悠悠水自分<lb/>
+　　　題蔣道士房<lb/>
+<pb n="KR4h0015_WYG_007-3b"/>
+軒窻縹緲起煙霞誦訣存思白日斜聞道崑崙有仙籍<lb/>
+何時青鳥送丹砂<lb/>
+　　　送雲陽少府<hi>得歸字</hi>
+渭曲春光無逺近池陽谷口倍芳菲官舎村橋來幾日<lb/>
+殘花寥落待君歸<lb/>
+　　　曽山送别<lb/>
+凄凄遊子若飄蓬明月清罇秪暫同南望千山如黛色<lb/>
+愁君客路在其中<lb/>
+<pb n="KR4h0015_WYG_007-4a"/>
+　　　赴李少府莊失路<lb/>
+君家南郭白雲連正待情人弄石泉月照煙花迷客路<lb/>
+蒼蒼何處是伊川<lb/>
+　　　送謝十二判官<lb/>
+四牡驅馳千里餘越山稠疊海林踈不辭終日離家逺<lb/>
+應為劉公一紙書<lb/>
+　　　同李萬晩望南岳寺懐普門上人<lb/>
+釋子身心無垢紛獨將衣鉢去人羣相思晩望松林寺<lb/>
+<pb n="KR4h0015_WYG_007-4b"/>
+唯有鐘聲出白雲<lb/>
+　　　送魏十六還蘇州<lb/>
+秋夜沉沉北<hi>一作此</hi>送君隂蟲切切不堪聞歸<hi>一作孤</hi>舟明<lb/>
+月<hi>一作日</hi>毘陵道迴首姑蘇是白雲<lb/>
+　　　浪淘沙二首<lb/>
+蠻歌荳蔲北人愁松雨蒲風野艇秋浪起鵁鶄眠不得<lb/>
+寒沙細細入江流<lb/>
+灘頭細草接踈林惡浪罾船半欲沉宿鷺眠洲非舊浦<lb/>
+<pb n="KR4h0015_WYG_007-5a"/>
+去年沙觜是江心<lb/>
+　　　夜發沅江寄李潁州劉侍郎時二公貶於此<lb/>
+半夜回舟入楚鄉月明山水共蒼蒼孤猿更發秋風裏<lb/>
+不是愁人亦斷腸<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR4h0015_WYG_007-5b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　二皇甫集巻七<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>少廣補遺</head>
+    <p>
+<pb n="KR3f0054_WYG_000-1a"/>
+欽定四庫全書　　　　　子部六<lb/>
+　少廣補遺　　　　　　　天文算法類二<hi>算書之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案少廣補遺一卷<lb/>
+　　　國朝陳世仁撰世仁海寧人康熈乙未進士其<lb/>
+　　　　書以一面尖堆及方底三角底六角底尖堆<lb/>
+　　　　各半堆等題分為十二法後有抽竒抽偶諸<lb/>
+　　　　目蓋堆垜之法也按堆垜乃少廣中之一術<lb/>
+<pb n="KR3f0054_WYG_000-1b"/>
+　　　　與尖錐體相似而實不同蓋堆體臺體外平<lb/>
+　　　　而中實堆垜為衆體所積面有峻峭中多空<lb/>
+　　　　隙故二法相較煩簡頓殊古少廣中僅具以<lb/>
+　　　　邊數層數求積數法亦未有解其故者至以<lb/>
+　　　　積求邊數層數之法則未備焉又其為用甚<lb/>
+　　　　少故算家率畧而不詳世仁有見於此専取<lb/>
+　　　　堆垜諸形反覆相求各立一法雖圖説未具<lb/>
+　　　　不能使學者窺其立法之意而於少廣之遺<lb/>
+<pb n="KR3f0054_WYG_000-2a"/>
+　　　　法引伸觸類實於數學有禆不可以其一隅<lb/>
+　　　　而少之也乾隆四十六年五月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總校官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

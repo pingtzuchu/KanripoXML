@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2a0029_WYG_006-1a"/>
+　舊五代史巻二考證<lb/>
+梁太祖紀二磁州刺史袁奉滔　磁州案歐史磁訛<lb/>
+　恵今據新唐書及通鑑改正<lb/>
+是時襄州節度趙匡凝　趙匡凝沿宋諱作趙凝今據<lb/>
+　舊唐書及歐陽史增匡字<lb/>
+隨州刺史趙匡琳　趙匡琳沿宋諱作趙璘今增匡字<lb/>
+正月先屯於内黄　案舊唐書及通鑑俱以屯内黄為<lb/>
+　三月事<lb/>
+<pb n="KR2a0029_WYG_006-1b"/>
+由是潞州復為晉人所有　案澤潞懷三州之下新唐<lb/>
+　書及通鑑俱作八月歐陽史從是書作七月<lb/>
+洺州復平　案洺州之平通鑑作九月舊唐書及歐陽<lb/>
+　史俱作八月<lb/>
+連拔瀛莫二州　案新唐書昭宗紀九月甲寅朱全忠<lb/>
+　䧟瀛州十月辛酉䧟莫州通鑑與新唐書同攷舊唐<lb/>
+　書俱作九月事是書俱作十一月<lb/>
+天復元年正月乙酉朔　案乙酉朔通鑑與是書同舊<lb/>
+<pb n="KR2a0029_WYG_006-2a"/>
+　唐書作甲申攷昭宗本紀癸未夜孫德昭等以兵攻<lb/>
+　劉季述王仲先通鑑作德昭等謀以除夜伏兵俟之<lb/>
+　以癸未為除夜則正朔斷為甲申也作乙酉朔似誤<lb/>
+癸巳降制進封帝為梁王　案全忠進封新舊唐書皆<lb/>
+　作二月與是書作正月異<lb/>
+定州刺史王處直以本軍自飛孤入　案新舊唐書<lb/>
+　王處直三字原本闕今據通鑑増入<lb/>
+會氏叔琮以芻糧不給遂班師　案旋師之期歐陽作<lb/>
+<pb n="KR2a0029_WYG_006-2b"/>
+　三月是書唐紀作五月又與此紀作四月異<lb/>
+罷𦙍知政事　案崔𦙍罷知政事新舊唐書皆作十一<lb/>
+　月甲戌與是書異<lb/>
+己丑唐丞相崔𦙍京兆尹鄭元規至華州　案舊唐書<lb/>
+　作十二月己夘崔𦙍至三原砦通鑑作癸未俱與是<lb/>
+　書作己丑異<lb/>
+癸未與岐軍大戰　案岐軍之敗新舊唐書皆繫五月<lb/>
+　與是書作六月異<lb/>
+<pb n="KR2a0029_WYG_006-3a"/>
+願録其孥　案録原本訛戮今參攷夢𤨏言據文改<lb/>
+　正<lb/>
+甲寅鄜州平周彛聞之收軍而遁　案鄜州平新舊唐<lb/>
+　書皆繫十二月與是書繫十一月異<lb/>
+華州留後李存審　案李存審三字疑有舛誤攷王師<lb/>
+　範傳作崔𦙍在華州<lb/>
+是日師範又遣其將劉鄩盗據兖州　案劉鄩䧟兖州<lb/>
+　新舊唐書俱作丙午與是書作丙辰異<lb/>
+<pb n="KR2a0029_WYG_006-3b"/>
+昭宗御延喜樓送之　喜原本訛熹今據通鑑改正<lb/>
+戊午師範舉珹請降　案師範之降舊唐書作十一月<lb/>
+　丁酉新唐書與是書同<lb/>
+朱友倫因擊鞠墮馬卒於長安　友倫九國志趙廷隱<lb/>
+　傳作友亮攷歐陽史及通鑑並作友倫九國志訛<lb/>
+䕶駕都指揮使朱友諒　友諒歐陽史梁紀作友謙誤<lb/>
+　攷歐陽史家人傳亦作友諒與是書同<lb/>
+表趙匡凝罪狀削奪官爵　案削奪趙匡凝官爵舊唐<lb/>
+<pb n="KR2a0029_WYG_006-4a"/>
+　書作八月丁未與是書作七月辛未異<lb/>
+武昭武定泰寧平盧匡國案武昭原本脫武字匡國<lb/>
+　沿宋諱作章國今據歐陽史増改<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2a0029_WYG_006-4b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　舊五代史巻二攷證<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

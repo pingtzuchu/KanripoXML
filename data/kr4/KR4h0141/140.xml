@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_140-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選卷一百四十<lb/>
+　　箭類<lb/>
+　　　四言古<lb/>
+　　　　弧矢銘　　　　　　　　　<hi>漢</hi>李　尤<lb/>
+　弦木為弧剡木為矢弧矢協并八極同紀<lb/>
+　　　　弓矢贊　　　　　　　　　<hi>梁</hi>蕭　統<lb/>
+　弓用筋角矢製良工亦以觀徳非止臨戎楊葉命中猨<lb/>
+<pb n="KR4h0141_WYG_140-1b"/>
+　墮長空<lb/>
+　　　五言律<lb/>
+　　　　箭　　　　　　　　　　　<hi>唐</hi>李　嶠<lb/>
+　漢甸初收羽燕城忽解圍影隨流水急光帶落星飛夏<lb/>
+　列三成範堯沈九日輝斷蛟雲夢澤希為識忘歸<lb/>
+　　　五言排律<lb/>
+　　　　御箭連中雙兔　　　　　　<hi>唐</hi>闕　名<lb/>
+　宸遊經上苑羽獵向閒田狡兔初迷窟纎驪詎著鞭三<lb/>
+<pb n="KR4h0141_WYG_140-2a"/>
+　驅仍百歩一發遂雙連影謝含霜草魂消向月弦歡聲<lb/>
+　動寒木喜氣滿晴天那似陳王意空垂樂府篇<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR4h0141_WYG_140-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選卷一百四十<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

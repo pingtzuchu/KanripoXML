@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0140_WYG_289-1a"/>
+　欽定四庫全書<lb/>
+御定全唐詩巻二百八十九<lb/>
+　　楊憑<lb/>
+　楊憑字虚受𢎞農人與弟凝凌皆工文辭大厯中踵擢<lb/>
+　進士第時稱三楊憑重交游尚氣節與穆質許孟容李<lb/>
+　鄘相友善號楊穆許李歴事節度府召為監察御史累<lb/>
+　拜京兆尹與李夷簡素有隙因擿發他罪欲抵以死憲<lb/>
+　宗以憑治京兆有績但貶臨賀尉俄徙杭州長史以太<lb/>
+<pb n="KR4h0140_WYG_289-1b"/>
+　子詹事卒詩一卷<lb/>
+　　　　長安春夜宿開元觀<lb/>
+　霓裳下晩煙留客杏花前徧問人寰事新從洞府天長<lb/>
+　松皆掃月老鶴不知年為説蓬瀛路雲濤幾處連<lb/>
+　　　　晩泊江戍<lb/>
+　旅櫂依遥戍清湘急晩流若為南浦宿逢此北風秋雲<lb/>
+　月孤鴻晩闗山幾路愁年年不得意零落對滄洲<lb/>
+　　　　巴江雨夜<lb/>
+<pb n="KR4h0140_WYG_289-2a"/>
+五嶺天無雁三巴客問津紛紛輕漢暮漠漠暗江春青<lb/>
+草連湖㟁繁花憶楚人芳菲無限路幾夜月明新<lb/>
+　　　邊塞行<lb/>
+九原臨得水雙足是重城獨許為儒老相憐從騎行細<lb/>
+叢榆塞逈髙㸃雁山晴聖主嗤炎漢無心自勒兵<lb/>
+　　　樂遊園望月<lb/>
+炎靈全盛地明月半秋時今古人同望盈虧節暗移彩<lb/>
+凝雙月逈輪度八川遲共惜鳴珂去金波送酒巵<lb/>
+<pb n="KR4h0140_WYG_289-2b"/>
+　　　千葉桃花<lb/>
+千葉桃花勝百花孤榮春晩駐年華若教避俗秦人見<lb/>
+知向河源舊侶誇<lb/>
+　　　春中汎舟<lb/>
+仙郎歸奏<hi>一作秦</hi>過湘東正值三湘二月中惆悵滿川桃<lb/>
+杏醉醉看還與曲江同<lb/>
+　　　雨中怨秋<lb/>
+辭家逺客愴秋風千里寒雲與斷蓬日暮隔山投古寺<lb/>
+<pb n="KR4h0140_WYG_289-3a"/>
+鐘聲何處雨濛濛<lb/>
+　　　秋日獨遊曲江<lb/>
+信馬閒過憶所親秋山行盡路無塵主人莫惜松隂醉<lb/>
+還有千錢沽酒人<lb/>
+　　　寄别<lb/>
+晩煙洲霧共蒼蒼河雁驚飛不作行迴斾轉舟行數里<lb/>
+歌聲猶自逐清湘<lb/>
+　　　邊情<lb/>
+<pb n="KR4h0140_WYG_289-3b"/>
+新種如今屢請和玉闗邊上幸無他欲知北海苦辛處<lb/>
+看取節毛餘幾多<lb/>
+　　　早發湘中<lb/>
+按節鳴笳中貴催紅旌白斾滿船開迎愁湓浦登城望<lb/>
+遥見荆門積水来<lb/>
+　　　海榴<lb/>
+海榴殷色透簾櫳看盛看衰意欲同若許三英隨五馬<lb/>
+便將濃豔鬬繁紅<lb/>
+<pb n="KR4h0140_WYG_289-4a"/>
+　　　春情<lb/>
+暮雨朝雲幾日歸如絲如霧濕人衣三湘二月春光早<lb/>
+莫逐狂風繚亂飛<lb/>
+　　　送客徃荆州<lb/>
+巴丘過日又登城雲水湘東一日平若愛春秋繁露學<lb/>
+正逢元凱鎮南荆<lb/>
+　　　贈馬錬師<lb/>
+心嫌碧落更何從月帔花冠氷雪容行雨若迷歸處路<lb/>
+<pb n="KR4h0140_WYG_289-4b"/>
+近南<hi>一作前</hi>惟見祝融峰<lb/>
+　　　湘江泛舟<lb/>
+湘川洛浦三千里地角天涯南北遥除却同傾百壺外<lb/>
+不愁誰奈両魂銷<lb/>
+　　　送别<lb/>
+江㟁梅花雪不如看君驛馭向南徐相聞不必因来雁<lb/>
+雲裏飛軿落素書<lb/>
+　　　贈竇牟<hi>一作竇洛陽牟見簡篇章偶贈絶句</hi>
+<pb n="KR4h0140_WYG_289-5a"/>
+　直用天才衆却瞋應欺李杜久為塵南荒不死中華老<lb/>
+　别玉翻同西國人<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR4h0140_WYG_289-5b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定全唐詩巻二百八十九<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

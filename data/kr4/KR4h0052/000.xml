@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>衆妙集</head>
+    <p>
+<pb n="KR4h0052_WYG_000-1a"/>
+欽定四庫全書　　　　　集部八<lb/>
+　衆妙集　　　　　　　　總集類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案衆妙集一巻宋趙師秀編師秀有<lb/>
+　　　　清苑齋集已著錄是集錄唐代五七言律詩<lb/>
+　　　　起沈佺期訖王貞白共七十六人不甚詮次<lb/>
+　　　　先後五言居十之九七言僅十之一師秀之<lb/>
+　　　　詩大抵沿溯武功一派意境頗狹而是集乃<lb/>
+<pb n="KR4h0052_WYG_000-1b"/>
+　　　　以風度流麗為宗多近中唐之格馮氏才調<lb/>
+　　　　集凡例謂其惟取名句殆不盡然陳振孫書<lb/>
+　　　　録解題不載其名此本明季出自嘉興屠用<lb/>
+　　　　明家寒山趙靈均以授常熟馮班班寄毛晉<lb/>
+　　　　刋之始傳于世其書晚出故談藝家罕論及<lb/>
+　　　　之然其去取之間確有法度不似明人所依<lb/>
+　　　　託疑當時偶爾選録自供吟詠非有意勒為<lb/>
+　　　　一編故前後無序跋亦未刋板行世惟傳其<lb/>
+<pb n="KR4h0052_WYG_000-2a"/>
+　　　　詩法者轉相繕冩幸留于後耳觀其有近體<lb/>
+　　　　而無古體多五言而少七言確為四靈門徑<lb/>
+　　　　與其全集可以互相印證明末作偽之人㫁<lb/>
+　　　　不能細意脗合如是也乾隆四十六年十月<lb/>
+　　　　恭校上<lb/>
+　　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

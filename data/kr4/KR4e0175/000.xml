@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>考功集目録</head>
+    <p>
+<pb n="KR4e0175_WYG_000-1a"/>
+欽定四庫全書　　　　　集部六<lb/>
+　考功集目録　　　　　　别集類五<hi>明</hi>
+　　巻一<lb/>
+　　　賦<lb/>
+　　　四言古詩<lb/>
+　　　樂府<lb/>
+　　巻二<lb/>
+　　　五言古詩上<lb/>
+<pb n="KR4e0175_WYG_000-1b"/>
+　　巻三<lb/>
+　　　五言古詩下<lb/>
+　　巻四<lb/>
+　　　七言古詩<lb/>
+　　巻五<lb/>
+　　　五言律詩<lb/>
+　　巻六<lb/>
+　　　五言排律<lb/>
+<pb n="KR4e0175_WYG_000-2a"/>
+　　巻七<lb/>
+　　　七言律詩<lb/>
+　　巻八<lb/>
+　　　五言絶句<lb/>
+　　　六言絶句<lb/>
+　　　七言絶句<lb/>
+　　巻九<lb/>
+　　　書<lb/>
+<pb n="KR4e0175_WYG_000-2b"/>
+　　巻十<lb/>
+　　　序<lb/>
+　　　記<lb/>
+　　　雜著<lb/>
+　　　　<hi>臣</hi>等謹按考功集十巻明薛蕙撰蕙字君采<lb/>
+　　　　亳州人正徳甲戌進士官至吏部考功司郎<lb/>
+　　　　中故以官名集正嘉之際文體初新北地信<lb/>
+　　　　陽聲華方盛蕙詩獨以清削婉約介乎其間<lb/>
+<pb n="KR4e0175_WYG_000-3a"/>
+　　　　古體上挹晉宋近體旁渉錢郎核其遺篇雖<lb/>
+　　　　亦擬議多而變化少然當其自得覺筆墨之<lb/>
+　　　　外别有微情非生吞漢魏活剥盛唐者比其<lb/>
+　　　　戯成五絶句有曰俊逸終憐何大復麤豪不<lb/>
+　　　　解李空同其所尚畧可見矣又蕙與湛若水<lb/>
+　　　　俱為嚴嵩同年嵩權極盛之時若水年已垂<lb/>
+　　　　耄而怵於利害不免為嵩作鈐山堂集序反<lb/>
+　　　　覆推頌頗為晩節之累蕙初亦愛嵩文采頗<lb/>
+<pb n="KR4e0175_WYG_000-3b"/>
+　　　　相酬答迨其秉政以後即惡其怙權病國不<lb/>
+　　　　復相聞凡舊時倡和亦悉削其稿故全集十<lb/>
+　　　　巻無一字與嵩相闗其植品之髙逈出流輩<lb/>
+　　　　是以詩格孤秀肖其為人其所樹立又不在<lb/>
+　　　　區區文字間也乾隆四十一年十月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="KR4e0175_WYG_000-4a"/>
+考功集原序<lb/>
+昔我武宗皇帝庚辰之嵗余嘗從瑞泉先生游于京師<lb/>
+獲西原薛先生詞賦數帙尚則𤣥風聿袪末習漱羣籍<lb/>
+之芳潤擷百氏之英旉藻思鴻才卓哉有斐一時騷壇<lb/>
+詞囿操觚灑翰之徒邈焉寡儔先生方綰章銓署欲晉<lb/>
+焉請益未之敢也今上御極之癸未余舉進士先生同<lb/>
+考之未幾振衣南州余亦分符北海思覿晬顔聆𤣥論<lb/>
+未之能也乃嵗壬辰余官中土分按南畿既見先生乃<lb/>
+<pb n="KR4e0175_WYG_000-4b"/>
+舍彼舊學棲跡丘園游心理域徳音秩秩昭然發矇不<lb/>
+我誣已乃知大道靡窮逹人無我瞻彼羣什道中一藝<lb/>
+云爾雖然尼父定删風雅並述將以性情所感斯道攸<lb/>
+存詩以理之孰云徒作統之暢湮鬰之思逹神明之徳<lb/>
+通萬物之情格兩間之妙詩之為用大矣哉夫道不逺<lb/>
+人詩非離道一以貫之存乎其人追念遐思爰請舊作<lb/>
+以貽同志並叙厥學庶有所稽焉皇明嘉靖十四載中<lb/>
+春十日秦中李宗樞序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

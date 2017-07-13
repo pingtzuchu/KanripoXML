@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_301-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選巻三百一<lb/>
+　　栗類<lb/>
+　　　七言律<lb/>
+　　　　栗熟　　　　　　　　　<hi>宋</hi>朱　子<lb/>
+　樹雜椅桐繼國風莫敎林下長蒿蓬<hi>種樹法栗下不得有艸木</hi>共期秋<lb/>
+　實充腸飽不羡春華轉眼空病起數升傳藥錄<hi>夲草云人有脚弱往</hi>
+　<hi>栗樹下啖及數升遂能起行</hi>晨興三嚥學仙翁<hi>蘇黄門詩云老去自添腰脚病山翁服栗舊傳方客來為説晨興晚三咽徐収</hi>
+<pb n="KR4h0141_WYG_301-1b"/>
+　<hi>白玉漿</hi>櫻桃浪得銀絲薦一笑纔堪發靣紅<hi>銀絲見杜詩夲艸云櫻桃服之令人美顔色</hi>
+　　　　新栗寄雲林　　　　　　　<hi>元</hi>張　雨<lb/>
+　朅来常熟嘗新栗黄玉穰分紫殻開果園坊中無買處<lb/>
+　頂山寺裏為求來囊盛稍共來禽帖酒薦深冝蘸甲杯<lb/>
+　首奉雲林三百顆也勝酸橘寄書回<lb/>
+　　　七言絶句<lb/>
+　　　　山禽　　　　　　　　　　<hi>唐</hi>張籍<lb/>
+　山禽毛如白練帶棲我庭前栗樹枝獼猴半夜来取果<lb/>
+<pb n="KR4h0141_WYG_301-2a"/>
+　一雙中林向月飛<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR4h0141_WYG_301-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選巻三百一<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

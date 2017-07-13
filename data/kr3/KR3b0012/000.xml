@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>武經總要</head>
+    <p>
+<pb n="KR3b0012_WYG_000-1a"/>
+欽定四庫全書　　　　　子部二<lb/>
+　武經總要　　　　　　　　兵家類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案武經總要四十卷宋曾公亮丁度<lb/>
+　　　　等奉敕撰晁公武讀書後志稱康定中朝廷恐<lb/>
+　　　　羣帥昧古今之學命公亮等採古兵法及本<lb/>
+　　　　朝計謀方略凡五年奏御仁宗御製序文其<lb/>
+　　　　書分前後二集前集制度十五卷邊防五卷<lb/>
+<pb n="KR3b0012_WYG_000-1b"/>
+　　　　而十六卷十八卷各分上下後集故事十五<lb/>
+　　　　卷占候五卷仁宗為守成令主然武事非其<lb/>
+　　　　所長公亮等亦但襄贊太平未嫻將略所言<lb/>
+　　　　陣法戰具其制彌詳其拘牽彌甚大抵所謂<lb/>
+　　　　檢譜角觝也至於諸蕃形勢皆出傳聞所言<lb/>
+　　　　道里山川以今日考之亦多剌謬然前集備<lb/>
+　　　　一朝之制度後集具歴代之得失亦有足資<lb/>
+　　　　考證者讀書後志别載王洙五經聖略十五<lb/>
+<pb n="KR3b0012_WYG_000-2a"/>
+　　　　卷方寶元中西邊用兵詔洙編祖宗任將用<lb/>
+　　　　兵邊防事迹為十二門今已佚南渡以後又<lb/>
+　　　　有御前軍器集模一書今惟造甲法二卷造<lb/>
+　　　　神臂弓法一卷尚載永樂大典中其餘亦佚<lb/>
+　　　　宋一代朝廷修講之書存者惟此編而已固<lb/>
+　　　　宜存與史志相㕘也乾隆四十六年三月恭<lb/>
+　　　　校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+<pb n="KR3b0012_WYG_000-2b"/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="KR3b0012_WYG_000-3a"/>
+武經總要仁宗皇帝御製序<lb/>
+朕聞天道尚武示震曜以宣其威國事在戎設營衛以<lb/>
+整其旅輔于文徳著之善志自繩契斯革篇牘攸紀古<lb/>
+先哲王維御凾夏製軍詰禁去暴誅慢暌乖取象則弧<lb/>
+矢利夫天下師嚴以律則地水制夫剛中周紹夏商建<lb/>
+官最備大司馬總九伐之法以正邦國簡車籍馬悉出<lb/>
+井田之賦治兵振旅先辨其物之用逮夫戰國羣雄競<lb/>
+起任權詐而兼形勢包隂陽而用技巧孫武吳起之説<lb/>
+<pb n="KR3b0012_WYG_000-3b"/>
+尉繚穰苴之儔數且百家類分四種刪取要用留侯所<lb/>
+以叙兵法也据摭遺逸揚僕所以脩軍政也洪惟三聖<lb/>
+開統繼照奮神武以平多壘揚天聲以薄四海豐功美<lb/>
+利非可殫紀昨藩臣阻命王師出戎深惟帥領之重恐<lb/>
+鮮古今之學命天章閣待制曽公亮等同加編定慮汎<lb/>
+覽之難究欲宏綱之畢舉俾夫善將出抗彊敵每畫籌<lb/>
+䇿悉見規模公亮等編削之效寖踰再閏沉深之學<lb/>
+莫匪素藴凡軍旅之政討伐之事經籍所載史册所記<lb/>
+<pb n="KR3b0012_WYG_000-4a"/>
+祖尚仁義次以鈐畧至若本朝戡亂邊防禦侮計謀方<lb/>
+畧咸用槩舉且用兵貴乎有紀尚節制也决勝至于無<lb/>
+形尚權變也六師練訓四方風土爰從刪正可備廟算<lb/>
+也又若營陣法制器械名數攻取之具守拒之用並形<lb/>
+圖繪悉以訓釋考星厯辨雲氣刑徳孤虚推步占驗行<lb/>
+之軍中闕一不可命司天監楊惟德等參考舊説附之<lb/>
+于篇共勒成四十卷内制度一十五卷邊防五卷故事<lb/>
+十五卷占候五卷目曰武經總要夫前王用兵葢不得<lb/>
+<pb n="KR3b0012_WYG_000-4b"/>
+已以殺止殺殺之可也以戰去戰戰之可也且出提金<lb/>
+皷付之閫事取鑒成敗可以立功貴伐謀而無倖勝善<lb/>
+統衆而無專勇庶㡬識為將之體也尚書工部侍郎參<lb/>
+知政事丁度總領書局適成編綴形于奏請願賜叙引<lb/>
+因言用兵之道有愧博古之能聊以冠篇傳之可乆<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

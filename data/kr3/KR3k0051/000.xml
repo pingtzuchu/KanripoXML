@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>駢志</head>
+    <p>
+<pb n="KR3k0051_WYG_000-1a"/>
+欽定四庫全書　　　　　子部十一<lb/>
+　駢志　　　　　　　　　類書類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案駢志二十卷明陳禹謨撰禹謨有<lb/>
+　　　　經言枝指别著録是書取古事之相類者比<lb/>
+　　　　而録之對偶標題而各註其所出於條下不<lb/>
+　　　　立門目但以自甲至癸十干為序而大較以<lb/>
+　　　　類相從其中嗜博愛竒務盈卷帙如晏子宅<lb/>
+<pb n="KR3k0051_WYG_000-1b"/>
+　　　　晏子冡蘇秦宅蘇秦冡之類古來有宅有冡<lb/>
+　　　　者豈能徧収秦趙高為丞相漢趙髙為太守<lb/>
+　　　　之類古來同姓名者更難悉數又如平仲君<lb/>
+　　　　遷乃呉都賦之本文橘不踰淮貉不踰汶乃<lb/>
+　　　　考工記之成語因而採為駢句名為𨽻事實<lb/>
+　　　　則鈔胥齊梁來儷偶之文亦恐罄竹難盡至<lb/>
+　　　　于癸部所載及于經典一字之異同如浴乎<lb/>
+　　　　沂沿乎沂詠而歸詠而饋則經典釋文且将<lb/>
+<pb n="KR3k0051_WYG_000-2a"/>
+　　　　全録矣然所採既繁所儲遂富或一言而出<lb/>
+　　　　典各殊或兩事而行蹤相近多可以考證異<lb/>
+　　　　同辨别疑似所謂披沙簡金往往見寳又如<lb/>
+　　　　漢高母姓駁司馬貞依托班固碑之類亦頗<lb/>
+　　　　精確大致簡核精要不及前人而博贍典雅<lb/>
+　　　　則勝方中徳之古事比雖體例時有踈舛其<lb/>
+　　　　蒐羅排比之勤要未可盡没也乾隆四十五<lb/>
+　　　　年十月恭校上<lb/>
+<pb n="KR3k0051_WYG_000-2b"/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+<pb n="KR3k0051_WYG_000-3a"/>
+駢志原序<lb/>
+不佞謨性庸塞特耽耆古籍自為諸生輙請之先莊靖<lb/>
+府君出所藏書披渉之時葢以什之七八理古以什之<lb/>
+二三攷今識迷於多旁宜莫能兩精已既屢試弗售府<lb/>
+君患之謂謨曰兒之好古亦何異資章甫而適越失正<lb/>
+鵠而修招乎於是始以強半攷今僅倖一捷隨敝縰視<lb/>
+公車義既謁選得獲庠三周星籥日督課諸生重以葺<lb/>
+黌宇脩獲乗諸務填委置古事未皇理也甲辰冬隨牒<lb/>
+<pb n="KR3k0051_WYG_000-3b"/>
+入南雍兩司成先生以一時名碩型范多士多士蒸<lb/>
+蒸鄉風六館仰遵明教無復事事入擁臯比青衿環侍<lb/>
+惟是整襟攤卷恣所畋漁而已同官或戲謂不佞曰此<lb/>
+堂其卿之書堂乎不佞戲應之曰此書堂何假南面百<lb/>
+城也比退食亦復爾爾兩禩間頗得諸未曾有苐苦善<lb/>
+忘謀劄而志焉獨念徃牒中事詞多肖不若臚列肖者<lb/>
+足備遺忘亦便商訂嘗憶曩時閲史如山公嫗謂甚肖<lb/>
+河伯婦蘇則膝不枕佞人甚肖羊侃床不坐閹人㟁側<lb/>
+<pb n="KR3k0051_WYG_000-4a"/>
+人言顧呉郡甚肖塹中兒呼蕭丹陽凡若干則曾述向<lb/>
+府君前府君喜而頷之顧未之志也兹益以近段所得<lb/>
+彚為一編命曰駢志大都史家為多問出諸子稗官自<lb/>
+隋唐而後則鮮及焉曰何不以類志也曰如以類業有<lb/>
+類部諸帙涵茹千古比物連類者在兹編何以稱焉計<lb/>
+卷率得二十為一集行之餘尚有待云萬厯丙午𤣥月<lb/>
+榖旦海虞陳禹謨書于金閶舟中<lb/>
+　<lb/>
+<pb n="KR3k0051_WYG_000-4b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　駢志原序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

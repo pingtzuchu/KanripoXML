@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2a0029_WYG_187-1a"/>
+　舊五代史巻九十三考證<lb/>
+晉列傳八盧質傳判太僕卿事　案歐陽史作判太常<lb/>
+　卿事<lb/>
+李專美傳曽祖隨光禄卿　案新唐宰相世系表作隨<lb/>
+　秘書監<lb/>
+除尚書庫部郎中　案歐陽史作比部郎中<lb/>
+崔梲傳曽祖元受舉進士直史館　案新唐書世系表<lb/>
+　元受直史館髙陵尉<lb/>
+<pb n="KR2a0029_WYG_187-1b"/>
+兄棆　棆新唐書世系表作榆<lb/>
+薛融傳年六十餘　案歐陽史作年六十<lb/>
+鄭雲叟傳本南燕人也　案歐陽史作滑州白馬人<lb/>
+尋入少室山　案歐陽史作入少室為道士<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　舊五代史巻九十三考證<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

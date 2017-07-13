@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2a0029_WYG_120-1a"/>
+　舊五代史巻五十九攷證<lb/>
+唐列𫝊十一丁㑹傳梁祖季年猜忌故將功大者多遭族滅會隂<lb/>
+　有避禍之志　案梁祖季年無誅戮大臣之事考朱<lb/>
+　珍李讜先後為梁祖所殺丁會葢鑒於前事也見通<lb/>
+　鑑考異<lb/>
+閻寶𫝊梁祖以寶為節度使檢校太傅　案歐陽史太<lb/>
+　祖時為諸軍都虞候末帝時以寶為保義軍節度使<lb/>
+　與是書詳畧先後互異<lb/>
+<pb n="KR2a0029_WYG_120-1b"/>
+符習𫝊飛揚痛飲　飛揚原本作飛鷹今攷杜詩痛飲<lb/>
+　狂歌空度日飛揚跋扈為誰雄鷹字疑揚字之訛今<lb/>
+　改<lb/>
+烏震𫝊移易州刺史　易州歐陽史作冀州<lb/>
+詔贈太傅　太傅歐陽作太師<lb/>
+張温傅　案温於潼闗擒劉知浣見梁紀此𫝊不載<lb/>
+　<lb/>
+　舊五代史巻五十九攷證<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

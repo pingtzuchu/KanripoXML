@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>讀春秋編</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　　　　　　經部五<lb/>
+　讀春秋編　　　　　　　　　　春秋類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹按讀春秋編十二卷宋陳深撰深字子㣲平<lb/>
+　　　　江人嘗題所居曰清全齋因以為號朱彜尊經義<lb/>
+　　　　考載盧態蘇州志稱深生于宋宋亡篤志古學閉<lb/>
+　　　　門著書天厯間奎章閣臣以能書薦潛匿不<lb/>
+　　　　出考鄭元祐僑呉集有深次子植墓誌據其<lb/>
+<pb n="1b"/>
+　　　　所稱植以至正二十二年卒年七十則植生<lb/>
+　　　　于至元三十年癸巳又自稱長於植一年少<lb/>
+　　　　于深三十餘年則深之生當在開慶景定間<lb/>
+　　　　宋亡之時僅及弱冠故至天厯間尚存也所<lb/>
+　　　　著有讀易編讀詩編今並未見惟此書僅存<lb/>
+　　　　其説大抵以胡氏為宗而兼採左氏葢左氏<lb/>
+　　　　身為魯史言必有據非公羊榖梁傳聞疑似<lb/>
+　　　　者比自宋人喜以空言説春秋遂併其事實<lb/>
+<pb n="2a"/>
+　　　　而疑之幾于束諸高閣深所推闡雖别無新<lb/>
+　　　　異之見而獨能考據事實不為虚憍恃氣廢<lb/>
+　　　　傳求經之髙論可謂篤實君子未可以平近<lb/>
+　　　　忽之矣乾隆四十二年九月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

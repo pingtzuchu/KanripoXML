@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>黙成文集巻二</head> <lb/>
+    <p>
+<pb n="KR4d0169_WYG_002-1a"/>
+欽定四庫全書<lb/>
+　黙成文集巻二<lb/>
+　　　　　　　　　　　　宋　潘良貴　撰<lb/>
+　　謝張丞相啟<lb/>
+退即山林久濶寒暄之問仰瞻斗極徒頒次舎之光誠<lb/>
+雖切于飛馳禮遂成於逋慢祗以為媿不能自文竊惟<lb/>
+神物之䕶持宜有福祥之單厚輒申悃愊敢候茵慿恭<lb/>
+惟某官望重百僚名聞九牧出處係朝廷之輕重道徳<lb/>
+<pb n="KR4d0169_WYG_002-1b"/>
+為人倫之表儀光滉咸池夾輔中天之皎日威申華夏<lb/>
+蕩除四塞之妖氛更險夷而節義愈明被謗傷而功庸<lb/>
+益著迨膺申命起䕶价藩微雲之滓太清曽何傷於盛<lb/>
+徳大旱而作霖雨實有望於嘉猷諒無煖席之期即拜<lb/>
+賜環之命顧惟無似深沐厚恩早䝉公緒之噓枯繼辱<lb/>
+祁奚之舉類蘭臺适體屢興嘆於沈英紫槖持荷更叨<lb/>
+榮於取頴中縁禍變分絶生存雞骨支牀僅留食息魚<lb/>
+書染素莫効勤劬居然星紀之薦更藐爾珠廷之在望<lb/>
+<pb n="KR4d0169_WYG_002-2a"/>
+嵗聿云暮道阻且長井越參旗夐隔轅門之拜衮裳綉<lb/>
+芾佇聞黄閣之開願益惠於生靈用亶符於睿眷傾依<lb/>
+之切敷叙奚殫<lb/>
+　　賀翟㕘政啟<lb/>
+恭審光膺帝制㕘秉國鈞六星比而三台色齊識天心<lb/>
+之所屬百僚喜而萬夫悦服慰人望之咸歸竊以自古<lb/>
+治亂之分常係人材邪正之用泛觀百家諸子皆苦口<lb/>
+而丁寧遐想九夷八蠻悉望風而進退非特時勢之必<lb/>
+<pb n="KR4d0169_WYG_002-2b"/>
+至抑亦人心之所同惟其正不勝於邪是以亂常多於<lb/>
+治方今國家之患顧不在茲遂使幅<graphic n="KR0695" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0695.png" mimeType="image/png"/>靡寧莫知所向<lb/>
+倘匪老成之出曷扶危殆之基荷上穹之未忘庶斯民<lb/>
+之可救伏惟某官佐時人傑間世英賢瑞玉無瑕大寶<lb/>
+儼陳於清廟霜筠有節孤風獨厲於嵗寒蜚聲騰譽於<lb/>
+三朝歴險更夷而一致江湖雖適常懐觀闕之心鐘鼎<lb/>
+既安何異山林之性方主上無多難之畏而左右惟正<lb/>
+人之求用圖再造之功宜趨我公之入固將以大忠經<lb/>
+<pb n="KR4d0169_WYG_002-3a"/>
+世以至誠格天問國事萬變而不窮陳王業七月之所<lb/>
+致掃骫骳懐奸之俗伸耿介有氣之風使乾坤無震蕩<lb/>
+之憂生靈措休息之地詢之天下誰曰不然某性質凡<lb/>
+愚學術固陋素乏趨承之幸遽䝉特達之知昔掌禮闈<lb/>
+嘗與甄收之列迨承宻㫖復叨論薦之榮念此恩不忘<lb/>
+於須㬰雖多言莫致其萬一陽德純粹物候清和仰祈<lb/>
+順時倍保鈞重瞻依頌禱不勝下情<lb/>
+　　答雷公達<lb/>
+<pb n="KR4d0169_WYG_002-3b"/>
+諭以聚書飲酒為樂此吾人之習氣也然酒不可多飲<lb/>
+大率此物入口則昏過量則亂聖人於書特作誥一篇<lb/>
+易六十四卦終以濡首為戒禮使人飲酒終日而不得<lb/>
+醉蓋禍患多生於此既作郡尤宜節慎也老而讀書不<lb/>
+須務博當研味聖賢立言指歸以洗心勵行則老而益<lb/>
+精明士人至晚年倒行而逆施之者十常八九正為不<lb/>
+解讀書耳僕自喻為昏鏡喻書為磨鏡藥當用此藥擦<lb/>
+磨塵垢使之通明透徹而後已若積藥鏡上而不施磨<lb/>
+<pb n="KR4d0169_WYG_002-4a"/>
+擦之功反為鏡之累故知托儒為奸如張禹孔光之徒<lb/>
+曽不若庸夫愚婦也公以為何如萬里通書不敢效常<lb/>
+人作䛕言以孤逺意此狂友故態也幸一笑納之<lb/>
+　　啟李太發<hi>即莊簡公李光也</hi>
+言念粤従初仕雖為道義之交逮此晚年未托葭莩之<lb/>
+好靜惟寒族敢議通婚既䝉金石之嘉言用致筐箱之<lb/>
+菲幣伏承令女小娘子資涵粹美秀夙著於閨房某姪<lb/>
+畤質本戅愚學初聞於詩禮式因媒妁願結絲蘿將親<lb/>
+<pb n="KR4d0169_WYG_002-4b"/>
+迎於大門庶承祧於宗祀其為媿佩罔罄敷陳<lb/>
+　　答田氏禮書<hi>田經國公之姊丈而武公之甥也</hi>
+伏承髙明之従弟武乃吾姊之子而某之甥也吾姊為<lb/>
+田氏婦三十年矣老而益貧某欲以長女妻武俾之左<lb/>
+右奉承焉此素志也茲承申之以媒妁致之以雁幣敢<lb/>
+不拜嘉<lb/>
+　<lb/>
+　黙成文集巻二<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

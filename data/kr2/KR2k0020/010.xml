@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>景定嚴州續志巻十</head> <lb/>
+    <p>
+<pb n="KR2k0020_WYG_010-1a"/>
+欽定四庫全書<lb/>
+　景定嚴州續志巻十<lb/>
+　　　　　　　　　　　宋方仁榮鄭珤同撰<lb/>
+　　夀昌縣<lb/>
+縣為孔道應酬日不給而土地狹隘犬牙衢婺之鄉至<lb/>
+無所責賦難亦甚矣知縣事率選人為之其佐官惟縣<lb/>
+尉一員兼領簿事若港口三縣廵檢置寨於淳安縣符<lb/>
+移得加焉<lb/>
+<pb n="KR2k0020_WYG_010-1b"/>
+　　學校<lb/>
+縣即宣聖廟為學嘉定已已知縣鞏嶠鳩田二百畝以<lb/>
+資縣治刻石寘于學今存者百五十一畝<lb/>
+　　官廨<lb/>
+縣衙在縣市正北舊枕山為思遜堂極目亭與縣南燕<lb/>
+喜樓相望山川之勝映帶左右後乃鞠為棄壤景定庚<lb/>
+申知縣黎舉徳即燕喜故地為坊曰化龍即思遜堂故<lb/>
+地之側為亭曰南昌勝境亭之南植木為表榜曰屏山<lb/>
+<pb n="KR2k0020_WYG_010-2a"/>
+第一峯又南倣舟為亭曰涵碧庶㡬續舊觀云<lb/>
+　　知縣題名<lb/>
+縣舊無題名嘉定甲申知縣黄棨始考舊聞刻石寘縣<lb/>
+治今自黄棨以後序其次<lb/>
+　黄棨<hi>嘉定十五年正月到任寳慶元年三月二十一日滿替</hi>
+　趙繇夫<hi>寳慶元年三月二十一日到任紹定元年六月十二日滿替</hi>
+　沈紹逺<hi>紹定元年六月十三日到任</hi>
+　趙崇魯<hi>紹定三年十一月十五日到任衢宼猖獗被檄節制官兵督捕五年五月二十六日改差</hi>
+<pb n="KR2k0020_WYG_010-2b"/>
+　　<hi>江東提榦</hi>
+　楊華<lb/>
+　髙不倨<hi>端平二年三月初二日到任</hi>
+　黄愷<hi>端平三年到任</hi>
+　趙希楘<hi>嘉熙元年到任</hi>
+　劉師臯<hi>嘉熙三年到任</hi>
+　劉常明<hi>淳祐二年到任</hi>
+　趙必常<hi>淳祐四年到任</hi>
+<pb n="KR2k0020_WYG_010-3a"/>
+　陳應先<hi>淳祐五年十二月到任七年十一月考舉及格離任</hi>
+　陳宗<lb/>
+　趙汝羾<lb/>
+　朱渙<lb/>
+　趙與鑇<lb/>
+　劉廉<lb/>
+　黄士慶<lb/>
+　程直翁<lb/>
+<pb n="KR2k0020_WYG_010-3b"/>
+　黎舉徳<lb/>
+　　山<lb/>
+　青龍山在縣東一里由縣治來崗分繚通衢出臨艾<lb/>
+　溪上勢若昂首景定庚申知縣黎舉徳與邑人徐南<lb/>
+　一等築亭其上命之曰龍首<lb/>
+　梅峯在縣西南二十里<lb/>
+　硯山在縣東南三十里<lb/>
+　　水<lb/>
+<pb n="KR2k0020_WYG_010-4a"/>
+　艾溪發源自縣西境曰雞籠山過縣東七里為於堨<lb/>
+　渡又東為湖神溪實一源也至茭塘入建徳縣界逹<lb/>
+　于新安江<lb/>
+　户部泉元祐間知縣陳澤民鑿山得泉味甘冽甚愛<lb/>
+　之後去邑未㡬為户部郎邑人思之故以户部名其<lb/>
+　泉<lb/>
+　　橋梁<lb/>
+縣為驛道要衝由梅嶺而東凡為橋者五<lb/>
+<pb n="KR2k0020_WYG_010-4b"/>
+　大同橋在縣東二十里邑人葉三省建鄭穎重葺<lb/>
+　顔公橋在縣西十里曰航頭長四十二丈絫石釃水<lb/>
+　為十道郡守顔頤仲捐郡帑倡建因以為名<lb/>
+　宋公橋在縣西二里長一十五丈郡守宋鈞捐郡帑<lb/>
+　倡建因以為名<lb/>
+　㑹通橋在縣西市中跨湖表為之<lb/>
+　朝京橋在縣南長五十四丈絫石釃水為十二道毎<lb/>
+　遇溪水暴漲行旅前阻於堨渡不得進景定辛酉知<lb/>
+<pb n="KR2k0020_WYG_010-5a"/>
+　縣黎舉徳率邑人徐南一等經始斯橋以便行者<lb/>
+　　寺觀<lb/>
+　接待院在夀昌鄉下梅嘉定初元徑山僧祖隆建<lb/>
+　崇恩院在永平鄉<lb/>
+　靈耀宫在夀昌鄉南山<lb/>
+　　祠廟<lb/>
+　東嶽行祠在縣東<lb/>
+　　古跡<lb/>
+<pb n="KR2k0020_WYG_010-5b"/>
+　朱佛庵在縣西六十里崇恩寺側庵有塑于龕者曰<lb/>
+　曰朱佛嵗旱祈禱輒應相𫝊昔有農朱姓耕山誦佛<lb/>
+　於此遇亢旱常有雲覆之諾人以雨輒應邑人指為<lb/>
+　活佛後趺坐示化人為立庵寳祐間知縣劉㢘狀其<lb/>
+　靈異請賜號未報<lb/>
+　龍潭在縣西相𫝊常有龍見毎嵗旱縣官於此祈禱<lb/>
+　　碑碣<lb/>
+　重修縣學記嘉定已已朝奉大夫徐邦憲撰郡守謝<lb/>
+<pb n="KR2k0020_WYG_010-6a"/>
+　徳輿立石<lb/>
+　學田記知縣鞏嶠撰<lb/>
+　蠲減官錢始末嘉定癸酉吏侍俞烈撰<lb/>
+　縣㕔題名記知縣黄棨撰<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2k0020_WYG_010-6b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　景定嚴州續志巻十<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>周易章句證異</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　經部一<lb/>
+　周易章句證異　　　　　易類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案周易章句證異十二卷<lb/>
+　　　國朝翟均亷撰均亷字春沚仁和人官内閣中<lb/>
+　　　　書是編取周易上下經古今本同異之處互<lb/>
+　　　　相考證如李鼎祚卦辭前分冠序卦周燔卦<lb/>
+　　　　辭前列大象卦辭復列彖𫝊趙汝楳卦辭前<lb/>
+<pb n="1b"/>
+　　　　列大象卦辭後列彖傳次文言次爻辭李過<lb/>
+　　　　方逢辰乾卦卦辭後列彖傳次文言釋彖處<lb/>
+　　　　次大象次爻辭蔡淵卦辭後列大象次彖傳<lb/>
+　　　　文言别為一傳傳低一字王洙于經中不載<lb/>
+　　　　卦辭别為一篇之類此篇章之同異也如乾<lb/>
+　　　　卦三爻孟喜作夕惕若夤句厲无咎句苟爽<lb/>
+　　　　虞翻王弼作夕惕若厲句邵子朱震朱子作<lb/>
+　　　　夕惕若句此句讀之同異也遂卦逐爻悉為<lb/>
+<pb n="2a"/>
+　　　　臚列間或附以己意以亷案二字别之古今<lb/>
+　　　　本異同之處校勘頗為精宻雖近時之書而<lb/>
+　　　　所言皆有依據轉勝郭京舉正以意刋改託<lb/>
+　　　　言于王韓舊本者也乾隆四十五年十一月<lb/>
+　　　　恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

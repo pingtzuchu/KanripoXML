@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>春秋世族譜</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　　經部五<lb/>
+　春秋世族譜　　　　　春秋類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案春秋世族譜二卷<lb/>
+　　　國朝陳厚耀撰春秋之世自王朝以迄諸侯大<lb/>
+　　　　夫得姓受氏各有源流其人之見於經𫝊者<lb/>
+　　　　不可殫數漢宋𠂻有世本四卷唐代尚𫝊今<lb/>
+　　　　惟孔氏正義中偶載其文而書則久佚隋書<lb/>
+<pb n="1b"/>
+　　　　經籍志有春秋左氏諸大夫世譜十三卷不<lb/>
+　　　　知何人所撰今亦無存杜預作春秋釋例中<lb/>
+　　　　有世族譜一書具載其世系昭穆之詳而自<lb/>
+　　　　宋以來湮没不見今恭遇<lb/>
+　　聖代表章遺籍釋例一書得於永樂大典中裒輯<lb/>
+　　　　叢殘復為完帙獨世族譜僅存數條仍不免<lb/>
+　　　　於闕畧厚耀當時既未覩釋例原本因据孔<lb/>
+　　　　氏正義旁叅他書作此以補之其體皆仿旁<lb/>
+<pb n="2a"/>
+　　　　行斜上之例首周世次圖而以周之卿大夫<lb/>
+　　　　附後次魯次晉次衞次鄭次齊次宋次楚次<lb/>
+　　　　秦次陳次蔡次曹次莒次杞次滕次許次邾<lb/>
+　　　　次吳次越次小國諸侯皆先敘其君王世系<lb/>
+　　　　而附以卿大夫其偶見經𫝊而無世次可稽<lb/>
+　　　　如周之凡伯南季魯之衆仲秦子之類則别<lb/>
+　　　　曰雜姓氏名號另為一篇附卿大夫世系之<lb/>
+　　　　後搜採頗為該洽近時顧棟髙作春秋大事<lb/>
+<pb n="2b"/>
+　　　　表有世系表二卷其義例與此相近而考証<lb/>
+　　　　互有異同如周卿大夫之周公忌父臺莊公<lb/>
+　　　　諸人此書徵引不及顧本之備又脱漏王叔<lb/>
+　　　　氏世系不載亦為遜於顧本然顧氏於有世<lb/>
+　　　　系者叙此較詳其無可考者槩闕而不録此<lb/>
+　　　　書則於經𫝊所載之人祗稱官爵及字者悉<lb/>
+　　　　臚採無遺實為顧本所未及讀春秋者以此<lb/>
+　　　　二書互相考証則春秋氏族之學幾乎備矣<lb/>
+<pb n="3a"/>
+　　　　乾隆四十六年十一月恭校上<lb/>
+　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="4a"/>
+春秋世族譜原序<lb/>
+往余比次左氏春秋欲求釋例十五卷備杜氏一家之<lb/>
+學訪諸南中藏書家訖無傳本迺私擬采摭羣書用補<lb/>
+先儒墜緒㑹蒙<lb/>
+特恩入史館領書局直廬餘暇稍得縱覽於一行姜郭<lb/>
+之書先成長厯六卷質諸善算家或蒙見許其元凱釋<lb/>
+地雖雜見史𫝊注家中猝不可收拾同館髙編修巽亭<lb/>
+出其先宗伯澹人左傳地名四冊薈萃沿革以續杜京<lb/>
+<pb n="4b"/>
+之所未備竊意略加増損可用鈔傳獨世族譜中外所<lb/>
+行皆坊間陋刻學舍承習譌舛寔多遂本孔氏正義傍<lb/>
+及他書勾填塗乙凡七易藳而後定丁酉臘月下直迺<lb/>
+得寫成正本其經𫝊中名氏略具而世系無攷者依杜<lb/>
+例别出雜人一類其杜説不詳而傍取證佐或彼此小<lb/>
+有異同者寧曲從杜氏以存古人謹守師傳之意他日<lb/>
+鉤援參互滙成全書以扶缺學祛疑義匪敢同之作者<lb/>
+庶幾存詒家塾聊資辯覽云爾曙峰陳厚耀自記<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

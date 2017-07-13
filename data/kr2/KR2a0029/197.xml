@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2a0029_WYG_197-1a"/>
+　舊五代史巻九十八攷證<lb/>
+晉列傳十三安重榮傳高祖聞重榮在北使人誘之<lb/>
+　案歐陽史作使張頴隂招重榮<lb/>
+趙延夀傳未幾契丹主以延夀為幽州節度使封燕王<lb/>
+　　案遼史云德鈞卒以延夀為幽州節度使封燕王<lb/>
+　與是書同契丹國志㑹同六年以延夀為盧龍節度<lb/>
+　使八年南征以延夀為魏博節度使封燕王與是書<lb/>
+　異<lb/>
+<pb n="KR2a0029_WYG_197-1b"/>
+尋為樞密使兼政事令　案遼史天顯末以延夀妻在<lb/>
+　晉詔取之以歸自是益激昂圗報㑹同初帝幸其弟<lb/>
+　加政事令不言延夀為樞密使攷契丹國志云㑹同<lb/>
+　改元參用蕃漢以延夀為樞密使兼政事令與是書<lb/>
+　同<lb/>
+燕王如故　案遼史㑹同七年正月已丑授延夀魏博<lb/>
+　等州節度使封魏王延夀本傳亦言其先封燕王改<lb/>
+　封魏王是延夀入汴時已為魏王也是書始終稱為<lb/>
+<pb n="KR2a0029_WYG_197-2a"/>
+　燕王與遼史異<lb/>
+蕭翰傳尋卒于本土　案遼史翰後以謀反伏誅與是<lb/>
+　書異<lb/>
+美稜舊作梅里今改　特哩衮舊作惕隐今改　舒嚕<lb/>
+　舊作述律今改　烏裕舊作兀欲今改　滿逹舊作<lb/>
+　麻答今改　阿巴舊作阿鉢今改　按巴堅舊作阿<lb/>
+　保機今改　伊喇舊作拽剌今改<lb/>
+　<lb/>
+<pb n="KR2a0029_WYG_197-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　舊五代史巻九十八攷證<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

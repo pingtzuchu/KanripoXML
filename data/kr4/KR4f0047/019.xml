@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4f0047_WYG_019-1a"/>
+　　自題香屑集巻末<hi>十二首</hi>
+小碎詩篇取次書吟看句句是瓊琚王楊盧駱當時體<lb/>
+管領春風總不如<lb/>
+　小碎<hi>元稹小碎</hi>吟看<hi>白居易見尹公亮/新詩偶贈絶句</hi>王楊<hi>杜甫戲為六絶句</hi>管<lb/>
+　領<hi>王建贈薛濤</hi>
+未媿金鑾李謫仙裁霞曵繡一篇篇莫嫌無事閒消日<lb/>
+更把前題改數聯<lb/>
+　未媿<hi>徐夤咏冩真</hi>裁霞<hi>方干宋/從事</hi>莫嫌<hi>來鵠洞/庭隱</hi>更把<hi>鄭谷中年</hi>
+<pb n="KR4f0047_WYG_019-1b"/>
+自書自勘不辭勞心路玲瓏格調高知嘆有唐三百載<lb/>
+劣于漢魏近風騷<lb/>
+　自書<hi>白居易題詩屏風絶句</hi>心路<hi>方干贈/美人</hi>知嘆<hi>李洞贈/徐山人</hi>劣于<hi>杜甫</hi>
+　<hi>戲為六絶句</hi>
+甘得貧閒味甚長書家院裏徧抄將可憐饌玉燒蘭者<lb/>
+却笑雕花刻葉忙<lb/>
+　甘得<hi>韓偓秋深閒興</hi>書家<hi>花蕋夫/人宮詞</hi>可憐<hi>釋齊已荆/門病中</hi>却笑<hi>司空圖力</hi>
+　<hi>疾山下吳邨看杏花</hi>
+<pb n="KR4f0047_WYG_019-2a"/>
+日日成篇字字金酒濃花暖且閒吟詩中得意應千首<lb/>
+頗學陰何苦用心<lb/>
+　日日<hi>方干越中逢孫百篇</hi>酒濃<hi>羅隱寄前户/部陸郎中</hi>詩中<hi>姚合寄東都分司白賔客</hi>
+　頗學<hi>杜甫解悶</hi>
+五色毫端弄逸才綺羅長擁亂書堆比於黄絹詞尤妙<lb/>
+明媚誰人不看來<lb/>
+　五色<hi>方干再題路支使南亭</hi>綺羅<hi>魚𤣥機夏/日山居</hi>比於<hi>陸龜蒙顧道士弟子乞銘</hi>
+　<hi>於襲美</hi>明媚<hi>周朴桃花</hi>
+<pb n="KR4f0047_WYG_019-2b"/>
+多少魚箋冩得成直應天授與詩情陽春唱後應無曲<lb/>
+盡是人間第一聲<lb/>
+　多少<hi>劉兼到郡後有寄</hi>直應<hi>陸龜蒙送孫發/百篇遊天台</hi>陽春<hi>黄滔酬楊學士</hi>盡<lb/>
+　是<hi>崔塗聲</hi>
+天生舊物不如新裁剪煙花筆下春誰許風流添興詠<lb/>
+酒壚猶記姓黄人<lb/>
+　天生<hi>溫庭筠添聲楊柳枝詞</hi>裁剪<hi>張喬贈河/南詩友</hi>誰許<hi>韓溉/竹</hi>酒壚<hi>胡宿</hi>
+　<hi>感舊</hi>
+<pb n="KR4f0047_WYG_019-3a"/>
+家在松江白浪頭黄昏獨坐海風秋蜀牋冩出篇篇好<lb/>
+減得愁人一夕愁<lb/>
+　家在<hi>吳融坤維軍前寄江南弟兄</hi>黄昏<hi>王昌齡/從軍行</hi>蜀牋<hi>白居易答李六使君見和</hi>
+　<hi>憶吳中舊遊</hi>減得<hi>殷文圭八月十五夜</hi>
+黄昏哭向野田春三十功名志未伸采得百花成蜜後<lb/>
+不知辛苦為何人<lb/>
+　黄昏<hi>王建自傷</hi>三十<hi>司空圖/牓下</hi>采得<hi>羅隱/蜂</hi>不知<hi>高駢太公廟</hi>
+擣麝成塵香不滅蟾光一百度曾圓此生只是償詩債<lb/>
+<pb n="KR4f0047_WYG_019-3b"/>
+留與工師播筦絃<lb/>
+　擣麝<hi>溫庭筠達摩支曲</hi>蟾光<hi>劉兼送文/英大師</hi>此生<hi>司空圖白菊雜書</hi>留與<lb/>
+　<hi>湯悦奉和送鄧王牧宣城</hi>
+總向紅牋冩自隨嘲花詠水贈蛾眉春風猶自疑聯句<lb/>
+未有儂家一首詩<lb/>
+　總向<hi>元稹寄舊詩與薛濤</hi>嘲花<hi>白居易候仙亭/同諸客醉作</hi>春風<hi>李商隱過招國李家</hi>
+　<hi>南園</hi>未有<hi>薛能柳枝詞</hi>
+　香屑集巻末<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

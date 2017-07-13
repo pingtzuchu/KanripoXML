@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>昌國州圖志卷二</head> <lb/>
+    <p>
+<pb n="KR2k0024_WYG_002-1a"/>
+欽定四庫全書<lb/>
+　昌國州圖志卷二<lb/>
+　　　　　　　　　　　元　馮福京等　編<lb/>
+　敘州<lb/>
+　　學校<lb/>
+學舊在州東一百步往宋熙寧八年令張懿文所建元<lb/>
+祐七年簿尉顧復又徙而東四十步淳熙十六年令王<lb/>
+徙於丞廳之南役未竟去官令錢棣其後始克有成嘉<lb/>
+<pb n="KR2k0024_WYG_002-1b"/>
+定甲申令趙大忠治増益然始創之規逼仄環學皆水<lb/>
+終不能有所展拓絜齋袁燮記<hi>闡斯道之奥發是心之良而輔成國家之風教</hi>
+<hi>者其惟學乎夫學之於人猶食之有榖粟猶衣之有桑麻也豈可一日闕哉四明之有昌國海中一島也厥地</hi>
+<hi>狹矣而士生其間俊敏逸羣修潔自將者時時有之其質美矣加以切磨培植之功孰能而禦之前乎此非無</hi>
+<hi>賢令尹也而教養一事多闕而不備豈不知當務之為急哉或者其興若廢與兵刑財用不同非有朝家之威</hi>
+<hi>命大吏之督責姑徐徐焉未見其獲戾故雖有所興為不過一二焉而止亦其勢然也若夫𤼵於誠心無所畏</hi>
+<hi>尊而自為之其度越他人顧不逺哉今承議郎趙侯清獻公之裔孫也典刑猶在喟然興嘆曰事豈有不可為</hi>
+<hi>者哉力或不足痛節冗費可也檢柅吏奸毋俾侵蝕可也義所當為勇於必為可也士有強力資以為助可也</hi>
+<pb n="KR2k0024_WYG_002-2a"/>
+<hi>如是而後其用足焉左之右之莫不如志而建學之規模具其中矣或因其故而葺治之或創其新而増益之</hi>
+<hi>曰殿曰堂屹然中居曰齋曰序翼然旁列門庭由是壯焉像設由是崇焉祭器祭服由是作焉廪廥以儲之垣</hi>
+<hi>墉以衞之承學之士皆得優游涵泳其中而又課焉試焉以警厲之鳶飛魚躍咸受其賜無有終極可不謂盡</hi>
+<hi>於其職乎且南安一小郡耳而東坡蘇公記學之成稱其甲於江西禮殿講堂視大邦君之居典領得人能使</hi>
+<hi>其居官大理固然也今侯之所為其亦若是也夫雖然侯之設心非獨兹事也嚴祈報之典則冢土是崇䘏窮</hi>
+<hi>乏之民則委積是豐户籍之覈所以窒欺偽也海步之就與夫嶺路之夷又所以便往來也凡有益於民者是</hi>
+<hi>究是圖如恐不及矧為禮義教化之官其汲汲也宜如之何侯名大忠三衢人擢進士科居官所至可紀無忝</hi>
+<hi>厥祖矣余是以深美之</hi>歸附後陞縣為州學亦隨之至元十七年<lb/>
+<pb n="KR2k0024_WYG_002-2b"/>
+各道設提學司實五品官遂僭擬教授董學事至元二<lb/>
+十九年省府例以下州不設教授止存正錄<lb/>
+　學官二員<lb/>
+　　學正　　　學録<lb/>
+　儒户五十八户<hi>至元二十九年抄定之數其時强有力之司存頗多間有逃而之彼者今</hi>
+　　<hi>雖欲歸儒非申請于上不可</hi>
+聖㫖長生天氣力裏大福廕䕶肋裏皇帝聖㫖據尚書<lb/>
+省奏江淮等處秀才乞免雜泛差役事准奏今後在籍<lb/>
+<pb n="KR2k0024_WYG_002-3a"/>
+秀才做買賣納商税種田納地税其餘一切雜泛差役<lb/>
+並行蠲免所在官司常加存恤仍禁約使臣人等毋得<lb/>
+於廟學安下非理搔擾准此至元二十五年十一月<hi>缺</hi>日<lb/>
+上天眷命皇帝聖㫖諭中外百司官吏人等孔子之<lb/>
+道垂憲萬世有國家者所當崇奉曲阜林廟上都大都<lb/>
+諸路府州縣邑應設廟學書院照依世祖皇帝聖㫖禁<lb/>
+約諸官員使臣軍馬毋得於内安下或聚集理問詞訟<lb/>
+褻瀆飲宴工役造作收貯官物其贍學地土産業及貢<lb/>
+<pb n="KR2k0024_WYG_002-3b"/>
+士莊諸人毋得侵奪所出錢糧以供春秋二丁朔望祭<lb/>
+祀及師生廪膳貧寒老病之士為衆所尊敬者月支米<lb/>
+糧優恤養贍廟宇損壊隨即修完作養後進嚴加訓誨<lb/>
+講習道藝務要成材若徳行文學超出時輩者有司保<lb/>
+舉肅政㢘訪司體覆相同以備選用本路總管府提舉<lb/>
+儒學肅政㢘訪司宣明教化勉勵學校凡廟學公事諸<lb/>
+人毋得沮擾據合行儒人事理照依已降聖㫖施行彼<lb/>
+或恃此非理妄行國有常憲寧不為懼宜令准此至元<lb/>
+<pb n="KR2k0024_WYG_002-4a"/>
+三十一年七月<hi>缺</hi>日大成殿三間自遷學後殿宇頹圮<lb/>
+往宋淳祐丁未令沈壡重建郡人尚書王應麟記<hi>淳祐紀元</hi>
+<hi>之六年聖上首善崇化以風四方綠字穗書敷賁廱頖庠聲序音丕冒出日昌國大夫沈壡始至謁校宮時禮</hi>
+<hi>殿之建適六十禩矣朽蠧弗葺諸生進而言曰學肇基于縣治之東淳熙間王令阮遷于芙蓉洲西挹秀涵清</hi>
+<hi>氣勢閎偉俊人魁士含章挺生道原文脉實繫兹殿盍鼎新之對敡雲漢作人之休徳君曰承流宣化職也敢</hi>
+<hi>不祇若嗇用鳩工士歡趍之參預應公嘉其意諗帥守顔公佐以郡少府錢經始于明年暮春越季夏殿成般</hi>
+<hi>爾獻巧枚枚奕奕貌象惟肖如臨沂泗侑坐綴食端章儼䓇陟降庭止式禮莫愆冠進衣逢瞻儀興敬觀摩麗</hi>
+<hi>習文風藹如明年君入監左帑相與祠于學既十年諸生思之請著石章應麟鄞末學也辭弗獲嘗讀臨之象</hi>
+<pb n="KR2k0024_WYG_002-4b"/>
+<hi>曰君子以教思無窮夫澤上有地猶君子之近民也近民則教彌數故周官族閭讀灋視州黨尤宻今之學郡</hi>
+<hi>修而邑弛為吏者政急而化緩期㑹訟獄日緦緦畏百適慮不越几桉而夫子宮墻漫不省健者舞知怠者視</hi>
+<hi>蔭弁髦武城蒲宻之言而諉曰難治教化不明醇澆樸散治不愈難與然非獨今日也漢東京儒雅最盛令長</hi>
+<hi>垂意學校者惟宋圴楊仁著于傳何其寂寥哉沈君能急所緩喟然興於學可謂知本矣昔夫子慨道不行託</hi>
+<hi>興於桴海是邦近天子之光家詩書人孝悌吾道其行矣乎縣大夫雖不得宿其業以俟道化之成後之君子</hi>
+<hi>勿替引之率時髦士規聖矩賢毋以小成自畫學必正大志必髙明言必仁義行必篤敬進而經綸天下之大</hi>
+<hi>經退而居賢徳善俗俾耆老搢紳顧瞻楹桷肅然改容曰此賢令教思之澤也將見立于朝者為皋稷入其里</hi>
+<hi>者比鄒魯尚當墨筆以頌化民成俗之功云</hi>歸附後元貞乙未州判官馮福<lb/>
+<pb n="KR2k0024_WYG_002-5a"/>
+京始至首勉學之士協力修理由内及外為之一新時<lb/>
+學正馮庚苟世英也州判記<hi>天下定于一一者何道是已是故三代之得天下以</hi>
+<hi>仁得此道也恭惟皇帝嗣登大寳嘉與天下洗濯維新他未遑及首發明詔惠顧學校使秀於民而為士者有</hi>
+<hi>鳶飛魚躣之樂無風震雨凌之恐所以尊崇斯道者恩至渥也下土一介臣福京授闕銓曹來佐昌國凜凜乎</hi>
+<hi>懼學舍之將就頹圮以不稱聖朝新美之造日與諸生是究是圖永肩一心遂集羣力殿堂齋廡修理既完訓</hi>
+<hi>蒙有育徳之堂櫺星敞闔闢之户惟是始創之規地勢逼仄環學皆水雖欲充拓無下手處矣諸生來言曰吾</hi>
+<hi>黨於此既幸而獲全性命于國家混一之餘聖恩隆厚又幸而弦誦之安其業游息之有其所其可自同於蚩</hi>
+<hi>蚩之氓而不知帝力之有哉廼者護持廟學之詔㫖未克冩諸琬琰以寓諸生觀省迪厲之忱兹不為大闕典</hi>
+<pb n="KR2k0024_WYG_002-5b"/>
+<hi>乎於是鳩工礲石刋諸禮殿之前晨薰夕燈丕照對越雖邈在海洲不啻天威之咫尺也因謂諸生曰學既修</hi>
+<hi>矣諸生亦知所以自修者乎修道之教所以率性保命也修辭立誠所以居業進徳也修其天爵所以置人爵</hi>
+<hi>於無足言也茍惟夏屋渠渠之是修而不能修其身於暗室屋漏之頃其如修學何古人自入大學已習為治</hi>
+<hi>國平天下之道故胷中所存皆尊主庇民之事業用之則其道行不用則其學𫝊決不虚生虚老於一世諸生</hi>
+<hi>居則曰不吾知也如或知爾則何以哉無亦以任重道逺之事施諸身以一日必葺之規施諸學則芃芃棫樸</hi>
+<hi>薪之槱之庶不負聖天子向用斯道之意先聖先師羹墻如見洋洋乎是所望於諸子也乃摭儒籍之與有力</hi>
+<hi>於修學者刋其姓名于下方以為來者之勸云元貞丙申中秋日潼川馮福京</hi>
+講堂往宋嘉泰三年令葛洪建扁曰申義叅政樓公鑰<lb/>
+<pb n="KR2k0024_WYG_002-6a"/>
+書申義堂三大字并為之記<hi>東陽葛容父洪為昌國令於縣庠之講堂名曰申義</hi>
+<hi>求書其扁余喜葛君知政之樂為又樂堂名之佳既為之大書矣而復為之記余分教永嘉時作序齒文以示</hi>
+<hi>諸生其畧曰孔子稱甚矣魯道之衰也洙泗之間齗齗為相遜孟子曰謹庠序之教申以孝悌之義頒白者不</hi>
+<hi>負戴於道路矣夫洙泗之間行者相遜何以為魯道之衰謹庠序之教何與於道路之負戴者及究其説漢地</hi>
+<hi>理志云魯瀕洙泗之水其民涉渡幼者扶老而代其任俗既益薄長老不自安與幼者相遜也徐廣又曰蓋幼</hi>
+<hi>者患苦長者長者忿媿自守故齗齗争辭所以為衰也想其盛時老者晏然如父兄之役子弟無復相遜子所</hi>
+<hi>謂老者安之殆為此也孟子亦謂孝悌既申則頒白負戴少者自當代之噫後世教養士子以科舉得人之多</hi>
+<hi>寡為庠校之盛衰者與古意豈不逺甚昌國甬東也民以漁塩為業近世儒風日興而猶未盛葛君崇教化以</hi>
+<pb n="KR2k0024_WYG_002-6b"/>
+<hi>善其俗一聞余言則曰此名堂之本意也始余從弟鏞尉東陽而歸余啟得人之問以容父為稱首兹為鄉邑</hi>
+<hi>治聲固已卓然又將興學化民以㡬古人之意誠非文法吏所能為者齊變至魯魯變至道顧不在兹乎鑰既</hi>
+<hi>為之記而命鏞弟題其上</hi>越明年慈湖先生楊簡復記於其後<hi>嘉泰四年</hi>
+<hi>春昌國葛令君訪簡於慈溪石魚對語從容及邑學忽作而言曰名學之堂以申義願簡申之簡欣然奉命令</hi>
+<hi>曰此人心所自有惟申而明之爾簡於是益喜令言至當厥明叙而書之孔子曰人者天地之心又曰心之精</hi>
+<hi>神是謂聖孟子亦每每道性善又曰仁人心也大哉斯言蓋萬世人心所自有之靈人孰不愛敬其親有不愛</hi>
+<hi>敬其親者非人也人孰不知徐行後長有不後於長者非人也此心之所自有也不學而能也不慮而知也心</hi>
+<hi>之精神是謂聖果如吾聖人之言也其有不然者非其心之罪也惟民生厚因物有遷感於物而昏也心之精</hi>
+<pb n="KR2k0024_WYG_002-7a"/>
+<hi>神無方無體至静而虚明有變化而無營禹曰安汝止明其本静止也舜曰道心明此即道也夫孝天之經地</hi>
+<hi>之義人之行事親事長乃天地之心列聖之道可不自知自敬乎</hi>
+齋舊有四造道進徳存心成性至元壬午本學申請于<lb/>
+提舉司添置兩齋曰明善曰立禮其實㭊四齋之屋為<lb/>
+之<lb/>
+小學學東廡之南舊名親仁齋歲久不治至元貞乙未<lb/>
+州判官馮福京重行修蓋扁曰育徳堂専以為訓蒙之<lb/>
+所請鄉之耆宿郭薦應季挺任教𨗳焉且為之記<hi>天生烝民</hi>
+<pb n="KR2k0024_WYG_002-7b"/>
+<hi>有物有則民之秉彛好是懿徳則孩提之童其徳固已渾然及其長也是宜天下無不善之民矣然而世有汙</hi>
+<hi>隆之異人有君子小人之分豈天之降才爾殊也無乃教道之不興而習俗之汚染也康節邵子曰上品之人</hi>
+<hi>不教而善中品之人教而後善斯言豈欺我哉自非生知安行之上智其有不待品節裁成之教而能徳勝其</hi>
+<hi>氣哉是故古之君子欲明明徳於天下者上自王宮國都下至比閭族黨修道之教靡敢一日而廢然而教之</hi>
+<hi>必有其序未始躐等而施故童蒙之養聖人慎焉自胄子之教昉興於帝朝而家有塾黨有庠小學之教遂盛</hi>
+<hi>於閭里今散見於傳記間者能食教右能言教唯以至視聼坐立洒掃應對莫不有教迨十歲而出就外𫝊則</hi>
+<hi>其朝夕之所薫陶氣習之所變化已克念其希聖希賢之質又五年而始入大學教以格物致知修已治人之</hi>
+<hi>事知𩔖通逹有如時雨化之者則其徳業之成就詎可量哉此隆古盛時道行俗美臣焉而忠子焉而孝人皆</hi>
+<pb n="KR2k0024_WYG_002-8a"/>
+<hi>有士君子之行者蓋自幼至壯日日時時生生不息之歲月無適而不用其涵養漸摩之教也州庠舊有小學</hi>
+<hi>頹圮弗治草蔓湮塞余始至而懼焉諗于衆曰聖人之教有始有卒小子之學焉可廢也遂掃地而一新之</hi>
+<hi>厥既訖工乃取蒙養之義書育徳堂三字扁焉専以為發蒙之所而記夫教之不可逭者如此庶不負菁莪樂</hi>
+<hi>育之造云</hi>
+臺門舊有五間圮毁已久至元甲申重建攝教應季挺<lb/>
+實董其事改扁州學二字<lb/>
+櫺星門舊植六柱啟六扉歸附後門遂不存元貞元年<lb/>
+州判馮福京重建存禮制也<lb/>
+<pb n="KR2k0024_WYG_002-8b"/>
+祭器舊所存者歲久刓弊簡陋弗完往宋進士趙若諘<lb/>
+攷訂禮經參以紫陽朱子釋奠圖更造視他學稍整今<lb/>
+多損闕未有能新之者<lb/>
+　籩六十　　豆九十　　簠三十三<lb/>
+　簋三十二　篚五　　　爵三十八<lb/>
+　尊五　　　杓七　　　坫二十六<lb/>
+　奠盆十五　罍三　　　洗二<lb/>
+　羃巾七　　几十二　　黄絹帳額子<lb/>
+<pb n="KR2k0024_WYG_002-9a"/>
+　燭臺二十　木楪百二十<lb/>
+禮服<lb/>
+　禮冠十　　禮服十　　中單十<lb/>
+　珮十<lb/>
+錢糧<lb/>
+　　舊管<lb/>
+水田五百九十三畆四十五步二分<lb/>
+園地山地柴山一千一百三十二畆三角四十七步<lb/>
+<pb n="KR2k0024_WYG_002-9b"/>
+砂岸三所<lb/>
+屋二座<lb/>
+坊基四所<lb/>
+　　舊收<lb/>
+米二百二十一石一斗六升六合<lb/>
+穀四石<lb/>
+錢九百一十二貫六百八十七文十八界<lb/>
+　　續添<lb/>
+<pb n="KR2k0024_WYG_002-10a"/>
+田地園山舊志無畆步係郎孝祥没官業<lb/>
+　　見徵<hi>數内巖耗十定舊無之始於元貞二年馮州判經理</hi>
+米折省斛一百五十九石七斗六升三合七勺五抄<lb/>
+穀二十七石四斗二升二合<lb/>
+小麥折省斛三十九石八斗五升八合六勺五抄<lb/>
+豆折省斛一十六石八斗二升五合<lb/>
+長短□岩租中統鈔一十錠<lb/>
+　　貢士莊<lb/>
+<pb n="KR2k0024_WYG_002-10b"/>
+舊於往宋咸淳年間令姚濂任内以邑民張氏争訴立<lb/>
+嗣縣以其家産業五分之一申于府于臺于部照應𨽻<lb/>
+學置莊專為貢選士人計偕之費歸附後至元十七年<lb/>
+升州存縣以本莊田糧歸學後縣革而學亦廢有司收<lb/>
+係入官逮至元甲午欽奉聖㫖節該贍學地土産業及<lb/>
+貢士莊諸人毋得侵奪欽奉如此雖屢告於有司迄今<lb/>
+未歸諸學<lb/>
+　　舊管<lb/>
+<pb n="KR2k0024_WYG_002-11a"/>
+田七十六畆三角一十步<lb/>
+地八十二畆三角四十五步<lb/>
+山二百丹二畆三角一十七步<lb/>
+　内除亭户佔種及撥付文昌宮<lb/>
+　實管數見後係官項下<lb/>
+　　舊收<lb/>
+米一十二石七斗<lb/>
+穀八十八石一斗<lb/>
+<pb n="KR2k0024_WYG_002-11b"/>
+小麥三十石一斗五升<lb/>
+烏豆一十二石六升<lb/>
+租錢四十六貫十八界<lb/>
+　除見徵數見官租項下餘無所稽<lb/>
+　　舊規式<lb/>
+鹿鳴宴主賓每位支三十貫文<lb/>
+緑羅每疋折送八十貫文<lb/>
+鄉舉一百二十貫漕胄宗室舉八十貫宗室取應舉四<lb/>
+<pb n="KR2k0024_WYG_002-12a"/>
+十貫鄉舉過省二百貫漕胄宗室過省一百五十貫宗<lb/>
+室取應過省一百貫鄉舉廷對三百貫漕胄宗室廷對<lb/>
+二百貫宗室取應廷對一百貫鄉補四十貫漕胄宗室<lb/>
+補三十貫升上庠釋褐照過省例一百五十貫升宗庠<lb/>
+釋褐照過省例一百貫以上舊志所載今存之者欽覩<lb/>
+詔書有議行貢舉之法以待來者有考焉<lb/>
+　　翁洲書院<lb/>
+書院在州治之北往宋帥機應公傃讀書之所登進士<lb/>
+<pb n="KR2k0024_WYG_002-12b"/>
+第姪應公㒡接踵魁多士官至參政於淳祐年間理宗<lb/>
+書賜翁洲二字因以為名宗族婣黨之子弟肄業於中<lb/>
+聖朝混一各道建立提學司首以應翔孫任山長而江<lb/>
+浙行省例以為闕本院素無田産翔孫於元貞乙未帥<lb/>
+其子姪撥已分産𨽻書院公其出納以為教養之資州<lb/>
+判官馮福京記<hi>翁洲書院往宋叅政應公葺芷先生讀書之所也先生由此奮身以詞賦魁天</hi>
+<hi>下士立取要官薦登政府急流勇退歸榮故鄉翁洲為昌國别名理宗書以寵光其居第先生遂以扁書院延</hi>
+<hi>師其間率其子弟及族之人與夫鄉之俊秀皆造焉講肄程式一遵晦庵朱文公白鹿洞規衿佩兟兟禮樂秩</hi>
+<pb n="KR2k0024_WYG_002-13a"/>
+<hi>秩實為一方精舎之望先生遺世越三十年大元混一行省例取以充山長之選厥有既受檄謂無以為養皆</hi>
+<hi>望洋而不至則以其族之儒而耆者董行教事且望舎菜而已歳在乙未曰天定者以省親辭去白之州州俾</hi>
+<hi>學正攝聞諸府遂次第以達行省之聼繼準命下詰問資糧之有無存設之當否州謂院既無於寸産士又𨽻</hi>
+<hi>於州庠教養咸闕不可徒冒其名具以實告行省㡬去其闕先生之猶子全軒翔孫義形於色曰不可使家世</hi>
+<hi>詩書之業自我而墜乃輟已分田𨽻書院公其出納以贍師生告諸提舉司轉聞省議韙之遂得不廢首選嚴</hi>
+<hi>陵何君燁之來任山長事實大徳改元之蜡月也乃<graphic n="KR0377" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0377.png" mimeType="image/png"/>龜朋之吉載刋鹿洞之規爰采新田重恢舊觀於是何</hi>
+<hi>君來言曰書院㡬廢而復興子實與聞其事願為之記以示後人鳴呼士無志古道之行久矣三代盛時五家</hi>
+<hi>為比家有塾焉五百家為黨黨有庠焉為庠者三十而後合於鄉鄉即遂也遂有序焉由遂而達於為方百里</hi>
+<pb n="KR2k0024_WYG_002-13b"/>
+<hi>之國若庠若序何可勝計則是無尺地而不興學無一民而不受教雖兎置﨣赳之夫皆麟趾振振之士三歳</hi>
+<hi>大比王拜賢書實井田中徳行道藝人也其孝友睦婣任恤之風至今猶可想見豈若後世之郡邑或百里或</hi>
+<hi>千里而後有一學又必俟有司之建立縣官之經費哉往宋初造如四書院亦鄉自為之非出於在上者之驅</hi>
+<hi>廹其意甚古自是邈乎無聞今書院再創於翁洲不惟繼志述事以有得於窮神知化之妙且將推一家禮義</hi>
+<hi>之澤以漸沐其鄉里又使黨庠遂序之遺風見諸當世可謂一舉而三得甚盛甚偉非志於古道而篤於力行</hi>
+<hi>者能之乎因發余之緒言告夫二三子者以為切磨之益叅政公書院之創為宗晦庵之學像而祠之所以使</hi>
+<hi>來游來歌者之目擊而道存也二三子知之乎晦庵於經講説殆徧平生精力萃在論孟庸學之四書蓋謂學</hi>
+<hi>者必學於此而後能得夫窮理正心之方以為修已治人之本故為之章句為之輯畧又設為或問惟恐辨之</hi>
+<pb n="KR2k0024_WYG_002-14a"/>
+<hi>不明𤼵之不盡所以嘉惠後學之盛心勤且忠矣今其書具存上自公卿大夫下至齊民之子莫不家𫝊而人</hi>
+<hi>誦固宜君子得聞大道之要小人得蒙至治之澤若大學序文之言矣數十年來庠序日廣而道學愈不明士</hi>
+<hi>籍日増而心術愈不正其故何哉無乃學者誤於眼耳之見聞不能真體實認而知行之未至耳大抵晦庵之</hi>
+<hi>書論辨反覆訓釋詳明析事理之精微無毫釐之滲陳漏故讀之者一開卷間口未絶吟而其理已粲然畢</hi>
+<hi>於前不待思索皆自以為有得迨夫卷方釋手一囘顧頃則向者粲然畢陳之理已若空中之華㒺然復無所</hi>
+<hi>見然則暫曉了於手披口誦之間不浹洽於躬行心得之妙信奚益哉此道學所以不明心術所以不正遂使</hi>
+<hi>儒先之傳註㡬為聖經之贅疣蓋不善讀書者之罪也謝顯道嘗以記問自矜明道程純公以玩物喪志語之</hi>
+<hi>是知誦言而忘味者則言乃道之障礙伊川程正公以易𫝊授尹彦明曰只説得七分學者須自體究是知由</hi>
+<pb n="KR2k0024_WYG_002-14b"/>
+<hi>辭而得意者則辭乃道之筌蹄此伊洛諸老之成就後學悉皆引而不𤼵優而柔之使自求之饜而飫之使自</hi>
+<hi>趣之蓋欲其深造自得實有以見夫道體之大全非徒從事言辭而已也昔王文公註易或曰加詳焉使學者</hi>
+<hi>易知何為而不可曰不可也易知則學者將不思不思則其知也非自得之知㫖哉斯言此其為後學慮者夫</hi>
+<hi>豈訓詁諸儒之所及哉孔子曰學而不思則罔思而不學則殆孟子曰心之官則思思則得之不思則不得也</hi>
+<hi>二三子其思之乎猶待警𤼵鞭䇿乎所學所得果何物哉道是已六經皆載道之文然道非心外物顧思與不</hi>
+<hi>思耳思之思之而又思之若有神物以通之超然而覺頓然而悟洞洞屬屬之輝光全心皆道膠膠擾擾之酬</hi>
+<hi>酢大道即心出處語嘿之間造次顛沛之頃以至起居飲食之徴將無須臾而非道心之形著矣思至於是復</hi>
+<hi>何思哉達則道行於世非已之逹窮則道藏諸身非已之窮行藏係道已奚與焉矧今聖明御極詔天下郡國</hi>
+<pb n="KR2k0024_WYG_002-15a"/>
+<hi>養士且議行貢舉制猗歟盛哉二三子何患乎道之不行也余他日於山澤樵漁之間聞有自海濱而應聘者</hi>
+<hi>必將以為翁洲之士也二三子其試思之則無負全軒作新書院之意亦何君逺來開堂之所樂云堂舎若干</hi>
+<hi>椽田土若干畆此有司事故不書大徳戊戌正月望日記</hi>
+　學官一員<lb/>
+　　山長<lb/>
+　屋宇<lb/>
+　　門樓五間<lb/>
+　　燕居一間<lb/>
+<pb n="KR2k0024_WYG_002-15b"/>
+　　齋二<hi>曰詩曰禮</hi>
+　　講堂三間<hi>扁曰徳善堂</hi>
+　　祠堂二間<hi>本晦庵朱文公儒先二應公</hi>
+　田土<lb/>
+　　水田四十畆<lb/>
+　　塗田一百五十畆<lb/>
+　歳收<lb/>
+　　水田租穀六十二石九斗<lb/>
+<pb n="KR2k0024_WYG_002-16a"/>
+　　塗田租穀每歳與佃户兩平抽分豐歉不等<lb/>
+　　岱山書院<lb/>
+書院在岱山因以為名往宋咸淳癸酉里人魏榘等請<lb/>
+於郡以岱山廢酒坊空官地建立未就緒而歸附焉恒<lb/>
+産皆無近於至元三十年本處鹽塲官徐應舉朱許芳<lb/>
+買民屋三間遷于市以存其名江浙行省未知其詳例<lb/>
+以為闕<lb/>
+　學官一員<lb/>
+<pb n="KR2k0024_WYG_002-16b"/>
+　　山長<lb/>
+　屋宇<lb/>
+　　屋三間一廈<lb/>
+　田無<lb/>
+　　醫學<lb/>
+學在州前真武宮之南至元二十九年醫提領許若壁<lb/>
+陳錫夀李繼之買民屋以建前以祠三皇聖像後以為<lb/>
+醫生講肄之所至元甲午胡逢辰以儒者流精於倉扁<lb/>
+<pb n="KR2k0024_WYG_002-17a"/>
+之術来為學正醫生賴其啟迪<lb/>
+　　義莊<lb/>
+舊有田一百二十一畆地一十八畆歳收米九十一石<lb/>
+麥五石專以濟鰥寡孤獨之民今歸有司<lb/>
+　　社倉<lb/>
+舊有田六十七畆淳祐十二年縣令費詡建屋二十楹<lb/>
+於龍峯山門之左且率鄉人士祖朱文公遺意醵金於<lb/>
+浙右米艘之至頓糴以蓄其中遇青黄不接艱食之時<lb/>
+<pb n="KR2k0024_WYG_002-17b"/>
+則平價以糶歳以為常亦賑饑之美意也歸附後倉燬<lb/>
+于火遂廢云<lb/>
+　　囚糧<lb/>
+往宋嘉定己夘縣令於縣治之西取在官之田歳可入<lb/>
+粟十斛又取富都中莊洋官田一十七畆歳可入粟二<lb/>
+十三斛吏為掌之以濟在囚無親族之供贍者亦良法<lb/>
+也今歸之有司<lb/>
+　　鄉村<lb/>
+<pb n="KR2k0024_WYG_002-18a"/>
+富都鄉占東西北總九都<lb/>
+　里二<lb/>
+　　徳行里　　　　　鼓吹里<lb/>
+　村二<lb/>
+　　甬東村在東　　　茹侯村在南<lb/>
+　<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>八十三<lb/>
+　　曉峯　　門鹿　　螺頭　　小□<lb/>
+　　中莊　　小□河　盤嶼　　大茅<lb/>
+<pb n="KR2k0024_WYG_002-18b"/>
+　　小茅　　東江　　楊<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>　　謝浦<lb/>
+　　翁浦　　洞<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>　　嚴家<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>　澤浦<lb/>
+　　鄭<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>　　劉嶺東　寺<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>　　姚家<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>
+　　祝家<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>　大□<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>　小□<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>　馬<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>
+　　蘆花　　苔浦　　孟家<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>　沈家門<lb/>
+　　田公<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>　大剪　　下塘頭　王大簄<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>
+　　丘家□　南<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>　　東村　　施家<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>
+　　小蘆　　釣嶼　　沈家<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>　松子<lb/>
+<pb n="KR2k0024_WYG_002-19a"/>
+　　麻嶼　　洩<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>　　螺門　　小枝<lb/>
+　　郎家<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>　東湖　　北墠　　虞家<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>
+　　大□河　小砂<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>　小剪東茅洋<lb/>
+　　蠶良<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>　大舟　　大蘆　　干□<lb/>
+　　三松江　五百<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>　小舟　　中莊<lb/>
+　　溪口　　李家<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>　紙甓　　侯家<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>
+　　東山　　浦東　　南墠　　溪彈<lb/>
+　　蘇仲　　西山頭　宜坑　　水泉<lb/>
+<pb n="KR2k0024_WYG_002-19b"/>
+　　白泉　　東湖　　西湖　　虞家<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>
+　　柯梅　　<hi>缺</hi>
+                    <graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>　　郎家<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>　大□<lb/>
+　　茅嶺　　長嶼　　軍亭　　大青<lb/>
+安期鄉占東南總三都<lb/>
+　里一<lb/>
+　　三山里<lb/>
+　村三<lb/>
+　　桃花村在東南　馬秦村在東　扶桑村在南<lb/>
+<pb n="KR2k0024_WYG_002-20a"/>
+　<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>四十七<lb/>
+　　梅岑　　外黨　　桑木灣　　裏黨<lb/>
+　　長股　　短股　　木丘　　　黄砂<lb/>
+　　大馬秦　沙角　　螺<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>　　　小馬秦<lb/>
+　　蠣<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>　　富溪　　冊子　　陳家<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>
+　　石述　　枝<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>　　南田　　吳農<lb/>
+　　北田　　北砂　　桃花　　登部<lb/>
+　　千步砂　黄<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>　　石濱　　崑十<lb/>
+<pb n="KR2k0024_WYG_002-20b"/>
+　　東弄　　嘉芹　　下砂　　大田<lb/>
+　　蝦䗁　　黄砂　　外<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>
+　　杜莊　　車敖　　郎家東西<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>
+　　硃<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>　　中心　　浡塗<lb/>
+　　厲<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>　　東茒峴　竹頭　　吳家跳<lb/>
+金塘鄉占西南總四都<lb/>
+　里一<lb/>
+　　湖上里<lb/>
+<pb n="KR2k0024_WYG_002-21a"/>
+　村二<lb/>
+　　大<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>村在西　　　烈港村在南<lb/>
+　<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>四十三<lb/>
+　　五百<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>　鑿﨑　　上周　　上林<lb/>
+　　黄將<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>　三家村　裏<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>　　大<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>
+　　塔頭　　夏家<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>　上干　　泗洲<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>
+　　東堠　　西堠　　小里　　蛤蜊<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>
+　　烈港　　岑江　　宣家<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>　漲史<lb/>
+<pb n="KR2k0024_WYG_002-21b"/>
+　　扶桑　　盤<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>　　大沙　　小沙外<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>
+　　青<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>　　長白　　馬墓　　宜山<lb/>
+　　孤史　　冊子<hi>岑江背</hi>秀山　　秀枝<lb/>
+　　雙鴉　　章門　　石屋　　厲<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>
+　　長塗　　䟦<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>　　深水　　灌門<lb/>
+　　許家<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>　稠江　　冊子<hi>海西</hi>
+蓬萊鄉占東北總五都<hi>今併為三</hi>
+　里一<lb/>
+<pb n="KR2k0024_WYG_002-22a"/>
+　　岱岸里<lb/>
+　村三<lb/>
+　　岱山村在東北　　朐山村在西北<lb/>
+　　北界村在北<lb/>
+　<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>六十九<lb/>
+　　髙亭　　南亭　　西<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>　　莆洋<lb/>
+　　白峯　　青横　　谷<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>　　松嶼頭<lb/>
+　　鄭家<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>　千步砂　戽斗　　秦頭<lb/>
+<pb n="KR2k0024_WYG_002-22b"/>
+　　岱支　　裏<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>　　砂塘下　　東<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>
+　　岳子　　峮頭　　戚家砂　　下茒<lb/>
+　　石述　　佘浦　　朐東　　　地砂<lb/>
+　　桑子　　岩子　　楊公衕　　後<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>
+　　化坑　　楊公額　三姑　　洋山<lb/>
+　　馬跡　　黄家<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>　䲔門　　嘉湖<lb/>
+　　關<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>　　□巉　　菱湖　　礁<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>
+　　北砂　　大小田<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>　　　　大<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>頭<lb/>
+<pb n="KR2k0024_WYG_002-23a"/>
+　　外石　　泗頭<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>　苔汫　　長表頭<lb/>
+　　裏行　　叫兒　　墓<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>　　上黄砂<lb/>
+　　雞鳴　　深水　　大小馬公<lb/>
+　　□<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>　　福立　　下黄砂　神前<lb/>
+　　西莊　　干斜　　<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>吟　　大盤<lb/>
+　　石衕　　東枯　　<hi>缺</hi>華　　大小壁下<lb/>
+　　大𤼵　　澤下　　王家<graphic n="KR1245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1245.png" mimeType="image/png"/>
+　<lb/>
+<pb n="KR2k0024_WYG_002-23b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　昌國州圖志卷二<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

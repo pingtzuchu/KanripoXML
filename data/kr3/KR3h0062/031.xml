@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3h0062_WYG_031-1a"/>
+欽定四庫全書<lb/>
+秘殿珠林卷十四目録<lb/>
+　　貯<lb/>
+　乾清宫<lb/>
+　　　名人書刻本<lb/>
+　　釋氏經冊上等<lb/>
+　　　元趙孟頫書金光明經<lb/>
+　　　元趙孟頫書圖覺經<lb/>
+<pb n="KR3h0062_WYG_031-1b"/>
+　　　元僧道肯篆書金剛經<lb/>
+　　　名人書刻本<lb/>
+　　釋氏經冊次等<lb/>
+　　　元趙孟頫書金剛經<lb/>
+　　　元僧道肯篆書金剛經<lb/>
+　　　元僧道肯篆書金剛經<lb/>
+　　　元僧道肯篆書金剛經<lb/>
+　　　元僧道肯篆書金剛經<lb/>
+<pb n="KR3h0062_WYG_031-2a"/>
+　　　舊刻本<lb/>
+　　釋氏經冊上等<lb/>
+　　　宋刻太平夀聖法寳<hi>即華嚴經</hi>
+　　　宋刻華嚴經<lb/>
+　　　宋刻華嚴經<lb/>
+　　　宋刻華嚴經<lb/>
+　　　宋刻華嚴經<lb/>
+　　　宋刻法華經<lb/>
+<pb n="KR3h0062_WYG_031-2b"/>
+　　　宋刻法華經<lb/>
+　　　宋刻法華經<lb/>
+　　　宋刻法華經<lb/>
+　　　宋刻法華經<lb/>
+　　　宋刻法華經<lb/>
+　　　宋刻法華經<lb/>
+　　　宋刻法華經<lb/>
+　　　宋刻法華經<lb/>
+<pb n="KR3h0062_WYG_031-3a"/>
+　　　宋刻法華經<lb/>
+　　　宋刻法華經<lb/>
+　　　宋刻法華經<lb/>
+　　　宋刻法華經<lb/>
+　　　宋刻法華經<lb/>
+　　　宋刻法華經<lb/>
+　　　宋刻法華經<lb/>
+　　　宋刻法華經<lb/>
+<pb n="KR3h0062_WYG_031-3b"/>
+　　　元刻法華經<lb/>
+　　　明刻法華經<lb/>
+　　　宋刻龍宫法寶<lb/>
+　　　宋刻楞嚴經<lb/>
+　　　宋刻楞嚴經<lb/>
+　　　宋刻光讚般若經<lb/>
+　　　宋刻金剛經<lb/>
+　　　宋刻金剛經<lb/>
+<pb n="KR3h0062_WYG_031-4a"/>
+　　　宋刻三十二體篆金剛經<lb/>
+　　　元刻無量夀經<lb/>
+　　　元刻無量夀經<lb/>
+　　　宋刻藥師經<lb/>
+　　　舊刻本<lb/>
+　　釋氏經冊次等<lb/>
+　　　宋刻華嚴經<lb/>
+　　　明刻華嚴經<lb/>
+<pb n="KR3h0062_WYG_031-4b"/>
+　　　元刻法華經<lb/>
+　　　元刻法華經<lb/>
+　　　元刻法華經<lb/>
+　　　元刻法華經<lb/>
+　　　元刻法華經<lb/>
+　　　明刻法華經<lb/>
+　　　元刻楞嚴經<lb/>
+　　　元刻楞嚴經<lb/>
+<pb n="KR3h0062_WYG_031-5a"/>
+　　　元刻佛名經<lb/>
+　　　元刻無量夀經<lb/>
+　　　元刻圓覺經<lb/>
+　　　明刻藥師經<lb/>
+　　　宋刻金剛經解<lb/>
+　　　明刻衆經目録<lb/>
+　　　明刻金剛經集註<lb/>
+　　　繡線<lb/>
+<pb n="KR3h0062_WYG_031-5b"/>
+　　釋氏經冊次等<lb/>
+　　　明繡心經金剛經合冊<lb/>
+　　　明繡藥師經二冊<lb/>
+　　　明繡金剛經二冊<lb/>
+　　　繡線<lb/>
+　　釋氏圖卷上等<lb/>
+　　　明繡大士三十二變相一卷<lb/>
+　　　繡線<lb/>
+<pb n="KR3h0062_WYG_031-6a"/>
+　　釋氏圖軸上等<lb/>
+　　　唐繡大士像一軸<lb/>
+　　　宋繡釋迦牟尼文佛像一軸<lb/>
+　　　宋繡牟尼佛像一軸<lb/>
+　　　繡線<lb/>
+　　釋氏圖軸次等<lb/>
+　　　明繡大士像一軸<lb/>
+　　　明繡蓮葉大士像一軸<lb/>
+<pb n="KR3h0062_WYG_031-6b"/>
+　　　刻絲<lb/>
+　　釋氏圖軸上等<lb/>
+　　　宋織迦羅迦代蹉尊者一軸<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

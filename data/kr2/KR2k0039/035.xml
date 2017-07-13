@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2k0039_WYG_035-1a"/>
+欽定四庫全書<lb/>
+欽定皇輿西域圖志卷二十二目録<lb/>
+　山三<lb/>
+　　天山北路<lb/>
+　　　拜塔克<lb/>
+　　　哈喇莽奈鄂拉<lb/>
+　　　古爾畢達巴<lb/>
+　　　庫爾圖達巴<lb/>
+<pb n="KR2k0039_WYG_035-1b"/>
+　　　阿勒坦鄂拉<lb/>
+　　　烏可克達巴<lb/>
+　　　阿拉克鄂拉<lb/>
+　　　博克達烏魯罕鄂拉<lb/>
+　　　薩爾巴噶什達巴<lb/>
+　　　古爾班竒喇鄂拉<lb/>
+　　　阿爾察克鄂拉<lb/>
+　　　阿斯哈圖達巴<lb/>
+<pb n="KR2k0039_WYG_035-2a"/>
+　　　朱爾庫朱鄂拉<lb/>
+　　　塔爾巴噶台鄂拉<lb/>
+　　　巴爾巴什鄂拉<lb/>
+　　　通古斯巴什鄂拉<lb/>
+　　　雅瑪里克鄂拉<lb/>
+　　　阿顔台和洛鄂拉<lb/>
+　　　巴顔哈瑪爾鄂拉<lb/>
+　　　博羅哈瑪爾鄂拉<lb/>
+<pb n="KR2k0039_WYG_035-2b"/>
+　　　竒喇圖魯鄂拉<lb/>
+　　　阿爾噶里圗鄂拉<lb/>
+　　　哈喇古顔鄂拉<lb/>
+　　　博羅布爾噶蘓鄂拉<lb/>
+　　　阿布喇勒鄂拉<lb/>
+　　　塔勒竒鄂拉<lb/>
+　　　博羅和洛鄂拉<lb/>
+　　　烘郭爾鄂博<lb/>
+<pb n="KR2k0039_WYG_035-3a"/>
+　　　薩勒巴圗烏蘭布喇逹巴<lb/>
+　　　罕哈爾察海鄂拉<lb/>
+　　　庫克托木達巴<lb/>
+　　　阿勒坦特布什鄂拉<lb/>
+　　　巴爾魯克鄂拉<lb/>
+　　　鄂爾和楚克鄂拉<lb/>
+　　　薩里鄂拉<lb/>
+　　　色伯蘓台鄂拉<lb/>
+<pb n="KR2k0039_WYG_035-3b"/>
+　　　呼察斯阿爾噶里圗鄂拉<lb/>
+　　　察罕布古圗鄂拉<lb/>
+　　　庫隴奎鄂拉<lb/>
+　　　格登鄂拉<lb/>
+　　　阿勒坦額墨勒鄂拉<lb/>
+　　　莎達巴<lb/>
+　　　他巴爾遜達巴<lb/>
+　　　察察圗逹巴<lb/>
+<pb n="KR2k0039_WYG_035-4a"/>
+　　　圗賚愛古爾鄂拉<lb/>
+　　　布喀鄂拉<lb/>
+　　　墨爾根西里鄂拉<lb/>
+　　　阿奎鄂拉<lb/>
+　　　阿斯哈達巴<lb/>
+　　　伊爾該圗鄂拉<lb/>
+　　　渾都頼鄂拉<lb/>
+　　　庫古里克鄂拉<lb/>
+<pb n="KR2k0039_WYG_035-4b"/>
+　　　烏可克達巴<lb/>
+　　　額得墨克達巴<lb/>
+　　　庫穆什鄂拉<lb/>
+　　　哈喇布拉克達巴<lb/>
+　　　呼巴海鄂拉<lb/>
+　　　巴噶布魯勒鄂拉<lb/>
+　　　伊克布魯勒鄂拉<lb/>
+欽定皇輿西域圗志卷二十二目録<lb/>
+<pb n="KR2k0039_WYG_035-5a"/>
+欽定四庫全書<lb/>
+欽定皇輿西域圖志卷二十二目録<lb/>
+　山三<lb/>
+　　天山北路<lb/>
+　　　拜塔克<lb/>
+　　　哈喇莽奈鄂拉<lb/>
+　　　古爾畢達巴<lb/>
+　　　庫爾圖達巴<lb/>
+<pb n="KR2k0039_WYG_035-5b"/>
+　　　阿勒坦鄂拉<lb/>
+　　　烏可克達巴<lb/>
+　　　阿拉克鄂拉<lb/>
+　　　博克達烏魯罕鄂拉<lb/>
+　　　薩爾巴噶什達巴<lb/>
+　　　古爾班竒喇鄂拉<lb/>
+　　　阿爾察克鄂拉<lb/>
+　　　阿斯哈圖達巴<lb/>
+<pb n="KR2k0039_WYG_035-6a"/>
+　　　朱爾庫朱鄂拉<lb/>
+　　　塔爾巴噶台鄂拉<lb/>
+　　　巴爾巴什鄂拉<lb/>
+　　　通古斯巴什鄂拉<lb/>
+　　　雅瑪里克鄂拉<lb/>
+　　　阿顔台和洛鄂拉<lb/>
+　　　巴顔哈瑪爾鄂拉<lb/>
+　　　博羅哈瑪爾鄂拉<lb/>
+<pb n="KR2k0039_WYG_035-6b"/>
+　　　竒喇圖魯鄂拉<lb/>
+　　　阿爾噶里圗鄂拉<lb/>
+　　　哈喇古顔鄂拉<lb/>
+　　　博羅布爾噶蘓鄂拉<lb/>
+　　　阿布喇勒鄂拉<lb/>
+　　　塔勒竒鄂拉<lb/>
+　　　博羅和洛鄂拉<lb/>
+　　　烘郭爾鄂博<lb/>
+<pb n="KR2k0039_WYG_035-7a"/>
+　　　薩勒巴圗烏蘭布喇逹巴<lb/>
+　　　罕哈爾察海鄂拉<lb/>
+　　　庫克托木達巴<lb/>
+　　　阿勒坦特布什鄂拉<lb/>
+　　　巴爾魯克鄂拉<lb/>
+　　　鄂爾和楚克鄂拉<lb/>
+　　　薩里鄂拉<lb/>
+　　　色伯蘓台鄂拉<lb/>
+<pb n="KR2k0039_WYG_035-7b"/>
+　　　呼察斯阿爾噶里圗鄂拉<lb/>
+　　　察罕布古圗鄂拉<lb/>
+　　　庫隴奎鄂拉<lb/>
+　　　格登鄂拉<lb/>
+　　　阿勒坦額墨勒鄂拉<lb/>
+　　　莎達巴<lb/>
+　　　他巴爾遜達巴<lb/>
+　　　察察圗逹巴<lb/>
+<pb n="KR2k0039_WYG_035-8a"/>
+　　　圗賚愛古爾鄂拉<lb/>
+　　　布喀鄂拉<lb/>
+　　　墨爾根西里鄂拉<lb/>
+　　　阿奎鄂拉<lb/>
+　　　阿斯哈達巴<lb/>
+　　　伊爾該圗鄂拉<lb/>
+　　　渾都頼鄂拉<lb/>
+　　　庫古里克鄂拉<lb/>
+<pb n="KR2k0039_WYG_035-8b"/>
+　　　烏可克達巴<lb/>
+　　　額得墨克達巴<lb/>
+　　　庫穆什鄂拉<lb/>
+　　　哈喇布拉克達巴<lb/>
+　　　呼巴海鄂拉<lb/>
+　　　巴噶布魯勒鄂拉<lb/>
+　　　伊克布魯勒鄂拉<lb/>
+欽定皇輿西域圗志卷二十二目録<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

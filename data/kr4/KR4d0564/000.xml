@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>梧溪集</head>
+    <p>
+<pb n="KR4d0564_WYG_000-1a"/>
+欽定四庫全書　　　　　集部五<lb/>
+　梧溪集　　　　　　　　别集類四<hi>元</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案梧溪集七巻元王逢撰逢字原吉<lb/>
+　　　　自號席帽山人江陰人當至正間被薦不就<lb/>
+　　　　避地吳淞江築室上海之烏泥涇適張氏據<lb/>
+　　　　吳東南之士咸為之用逢獨髙蹈逺引及洪<lb/>
+　　　　武初徵召甚迫又以老疾辭逢少學詩于陳<lb/>
+<pb n="KR4d0564_WYG_000-1b"/>
+　　　　漢卿得虞集之傳才氣宏敞而不失謹嚴集<lb/>
+　　　　中載宋元之際忠孝節義之事甚備每於詩<lb/>
+　　　　首作小序以標其崖略足補史傳所未及葢<lb/>
+　　　　其微意所寓也是書傳本差稀王士禎屬其<lb/>
+　　　　鄉人楊名時訪得明末江陰老儒周榮起手<lb/>
+　　　　録本乃盛傳于世榮起號硯農究心六書毛<lb/>
+　　　　晉汲古閣刋板多其所校定云乾隆四十四<lb/>
+　　　　年三月恭校上<lb/>
+<pb n="KR4d0564_WYG_000-2a"/>
+　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

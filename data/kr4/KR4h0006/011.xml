@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0006_WYG_011-1a"/>
+後叙<lb/>
+右玉䑓新詠集十巻幼時至外家李氏於廢書中得之<lb/>
+舊亰本也宋失一葉<hi>宋字未詳疑當作本</hi>間復多錯謬板亦時有<lb/>
+刓者欲求他本是正多不獲嘉定乙亥在㑹稽始從人<lb/>
+借得豫章刻本財五巻葢至刻者中徙故弗畢也又聞<lb/>
+有得石氏所藏録本者復求觀之以補亡校脱於是其<lb/>
+書復全可繕冩夫詩者情之發也征戍之勞苦室家之<lb/>
+怨思動于中而形于言先王不能禁也豈惟不能禁且<lb/>
+<pb n="KR4h0006_WYG_011-1b"/>
+逆探其情而著之東山杕杜之詩是矣若其他變風化<lb/>
+雅<hi>化字未詳</hi>謂豈無膏沐誰適為容終朝采緑不盈一掬之<lb/>
+類以此集揆之語意未大異也顧其發乎情則同而止<lb/>
+乎禮義者葢以矣<hi>以字於義當作異</hi>然其間僅合者亦一二焉<lb/>
+其措詞託興髙古要非後世樂府所能及自唐花間集<lb/>
+<hi>花字宋刻悞作苗</hi>已不足道而况近代狹邪之説<hi>狹宋刻悞作挾</hi>號為<lb/>
+以筆墨動滛者乎<hi>動疑作勸</hi>又自漢魏以來作者皆在焉多<lb/>
+蕭統文選所不載覧者可以睹歴世文章盛衰之變云<lb/>
+<pb n="KR4h0006_WYG_011-2a"/>
+是嵗十月旦日書其後永嘉陳玉<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

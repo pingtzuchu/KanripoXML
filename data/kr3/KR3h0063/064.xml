@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3h0063_WYG_064-1a"/>
+欽定四庫全書<lb/>
+石渠寳笈卷三十一目録<lb/>
+　　　貯<lb/>
+　　御書房四<lb/>
+　　　列朝人<lb/>
+　　書卷次等<lb/>
+　　　晉王羲之平安何如奉橘三帖一卷<lb/>
+　　　唐明皇賜毛應佺知恤詔一卷<lb/>
+<pb n="KR3h0063_WYG_064-1b"/>
+　　　唐褚遂良摹王羲之長風帖一卷<lb/>
+　　　唐張旭四帖一卷<lb/>
+　　　唐懷素自叙帖一卷<lb/>
+　　　宋孝宗賜周必大手勑一卷<lb/>
+　　　宋黄庭堅書七言絶句一卷<lb/>
+　　　宋黄庭堅書蘓軾海棠詩一卷<lb/>
+　　　宋黄庭堅書髙松賦一卷<lb/>
+　　　宋黄庭堅書李白詩一卷<lb/>
+<pb n="KR3h0063_WYG_064-2a"/>
+　　　宋米芾臨定武蘭亭一卷<lb/>
+　　　宋薛紹彭臨蘭亭序一卷<lb/>
+　　　宋朱子自書五言古詩一卷<lb/>
+　　　宋陸㳺詩翰一卷<lb/>
+　　　宋文天祥書本鷄集序一卷<lb/>
+　　　元趙孟頫書國語晉文請隧一卷<lb/>
+　　　元趙孟頫書千文一卷<lb/>
+　　　元趙孟頫書千文一卷<lb/>
+<pb n="KR3h0063_WYG_064-2b"/>
+　　　元趙孟頫自書詩帖一卷<lb/>
+　　　元趙孟頫書洛神武一卷<lb/>
+　　　元趙孟頫書明肅樓記一卷<lb/>
+　　　元鮮于樞書杜詩一卷<lb/>
+　　　元鮮于樞書御史箴一卷<lb/>
+　　　元鮮于樞書王安石雜詩一卷<lb/>
+　　　元張雨自書詩帖一卷<lb/>
+　　　元明人詞翰一卷<lb/>
+<pb n="KR3h0063_WYG_064-3a"/>
+　　　明人墨蹟一卷<lb/>
+　　　明沈粲千文一卷<lb/>
+　　　明李東陽自書各體詩一卷<lb/>
+　　　明沈周書中秋詩一卷<lb/>
+　　　明沈周書化鬚疏一卷<lb/>
+　　　明王守仁自書詩帖一卷<lb/>
+　　　明祝允明書千文一卷<lb/>
+　　　明祝允明詩帖一卷<lb/>
+<pb n="KR3h0063_WYG_064-3b"/>
+　　　明祝允明書七言律詩一卷<lb/>
+　　　明祝允明詩翰一卷<lb/>
+　　　明祝允明雜書一卷<lb/>
+　　　明祝允明書離騷首篇一卷<lb/>
+　　　明祝允明書宋儒六賢傳志一卷<lb/>
+　　　明祝允明雜書詩帖一卷<lb/>
+　　　明祝允明詩帖一卷<lb/>
+　　　明文徵明書醉翁亭記一卷<lb/>
+<pb n="KR3h0063_WYG_064-4a"/>
+　　　明文徵明自書七言律詩一卷<lb/>
+　　　明文徵明題宋髙宗賜岳飛手勑詞一卷<lb/>
+　　　明文徵明自書詩帖一卷<lb/>
+　　　明文徵明書四體千文一卷<lb/>
+　　　明文徵明書前後赤壁賦一卷<lb/>
+　　　明文徵明自書七言律詩一卷<lb/>
+　　　明文徵明臨懷素自叙帖一卷<lb/>
+　　　明文彭書七言律詩一卷<lb/>
+<pb n="KR3h0063_WYG_064-4b"/>
+　　　明王寵雜書一卷<lb/>
+　　　明王寵書莊子内七篇一卷<lb/>
+　　　明王寵詩帖一卷<lb/>
+　　　明王寵書韓愈送李愿歸盤谷序一卷<lb/>
+　　　明王寵書雜詩一卷<lb/>
+　　　明王寵書雜詩一卷<lb/>
+　　　明陳淳書秋興詩一卷<lb/>
+　　　明李孟陽詩帖一卷<lb/>
+<pb n="KR3h0063_WYG_064-5a"/>
+　　　明陸深書沛水行一卷<lb/>
+　　　明朱潢南書應制詩一卷<lb/>
+　　　明莫如忠自書詩帖一卷<lb/>
+　　　明彭年臨蘓軾歸去來辭一卷<lb/>
+　　　明徐渭書千文一卷<lb/>
+　　　明許光祚書琴賦一卷<lb/>
+　　　明董其昌書五言古詩一卷<lb/>
+　　　明董其昌書雲笈一卷<lb/>
+<pb n="KR3h0063_WYG_064-5b"/>
+　　　明董其昌雜書一卷<lb/>
+　　　明董其昌書毛仙翁傳一卷<lb/>
+　　　明董其昌書額一卷<lb/>
+　　　明董其昌自書詩帖一卷<lb/>
+　　　明董其昌書髙都䕶總馬行一卷<lb/>
+　　　明董其昌書王公弼誥一卷<lb/>
+　　　明董其昌書禪悦一卷<lb/>
+　　　明董其昌書燕然山銘一卷<lb/>
+<pb n="KR3h0063_WYG_064-6a"/>
+　　　明董其昌自書詩帖一卷<lb/>
+　　　明婁堅書五言古詩一卷<lb/>
+　　　明陳元素詩翰一卷<lb/>
+　　　唐臨王羲之東方朔像贊一卷<lb/>
+　　　唐鈎王羲之干嘔帖一卷<lb/>
+　　　米芾書唐詩一卷<lb/>
+　　　唐摹王羲之干嘔帖一卷<lb/>
+　　　沈荃書漢詔一卷<lb/>
+<pb n="KR3h0063_WYG_064-6b"/>
+　　　沈荃書唐賦一卷<lb/>
+　　　沈荃書千文一卷<lb/>
+　　　沈荃臨米芾書一卷<lb/>
+　　　沈荃臨顔真卿爭座位帖一卷<lb/>
+　　　沈荃仿米芾書一卷<lb/>
+　　　沈荃書唐人截句一卷<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

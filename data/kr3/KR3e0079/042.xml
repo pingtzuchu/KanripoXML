@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>本草綱目卷十五目録</head> <lb/>
+    <p>
+<pb n="KR3e0079_WYG_042-1a"/>
+欽定四庫全書<lb/>
+　本草綱目卷十五目録<lb/>
+　　草之四　　　隰草類上五十三種<lb/>
+　　　菊<hi>本經</hi>
+　　　野菊<hi>拾遺</hi>
+　　　菴䕡<hi>本經附對廬</hi>
+　　　蓍<hi>本經</hi>
+　　　艾<hi>别録附夏臺</hi>
+<pb n="KR3e0079_WYG_042-1b"/>
+　　　千年艾<hi>綱目</hi>
+　　　茵陳蒿<hi>本經</hi>
+　　　青蒿<hi>本經</hi>
+　　　黄花蒿<hi>綱目</hi>
+　　　白蒿<hi>本經</hi>
+　　　角蒿<hi>唐本</hi>
+　　　䕲蒿<hi>拾遺</hi>
+　　　馬先蒿<hi>本經</hi>
+<pb n="KR3e0079_WYG_042-2a"/>
+　　　隂地厥<hi>圗經</hi>
+　　　牡蒿<hi>别録</hi>
+　　　九牛草<hi>圗經</hi>
+　　　茺蔚<hi>本經草即益母</hi>
+　　　鏨草<hi>拾遺</hi>
+　　　薇蓹<hi>本經附無心草</hi>
+　　　夏枯草<hi>本經</hi>
+　　　劉寄奴草<hi>唐本</hi>
+<pb n="KR3e0079_WYG_042-2b"/>
+　　　曲節草<hi>圖經霜即六月</hi>
+　　　麗春草<hi>圗經</hi>
+　　　旋覆花<hi>本經</hi>
+　　　青葙子<hi>本經靈陶朱術鴈來紅天  草思蓂子附</hi>
+　　　雞冠花<hi>嘉祐</hi>
+　　　紅藍花<hi>開寳</hi>
+　　　畨紅花<hi>綱目</hi>
+　　　燕脂<hi>綱目</hi>
+<pb n="KR3e0079_WYG_042-3a"/>
+　　　大薊小薊<hi>别録</hi>
+　　　續㫁<hi>本經</hi>
+　　　苦芺<hi>别録</hi>
+　　　漏蘆<hi>本經</hi>
+　　　飛廉<hi>本經</hi>
+　　　苧蔴<hi>别録</hi>
+　　　<graphic n="KR1342" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1342.png" mimeType="image/png"/>蔴<hi>唐本麻即白</hi>
+　　　大青<hi>别録</hi>
+<pb n="KR3e0079_WYG_042-3b"/>
+　　　小青<hi>圗經</hi>
+　　　胡盧巴<hi>嘉祐</hi>
+　　　蠡實<hi>本經必即馬藺子    似勒附</hi>
+　　　惡實<hi>别録蒡即牛</hi>
+　　　葈耳<hi>本經耳即蒼</hi>
+　　　天名精<hi>本經即蝨地菘鶴</hi>
+　　　豨薟<hi>唐本</hi>
+　　　箬<hi>綱目</hi>
+<pb n="KR3e0079_WYG_042-4a"/>
+　　　蘆<hi>别録</hi>
+　　　甘蕉<hi>别錄</hi>
+　　　蘘荷<hi>别録</hi>
+　　　麻黄<hi>本經附雲花草</hi>
+　　　木賊<hi>嘉祐附問荆</hi>
+　　　石龍芻<hi>本經草即龍須</hi>
+　　　龍常草<hi>别錄草即㯶心</hi>
+　　　燈心草<hi>開寳</hi>
+<pb n="KR3e0079_WYG_042-4b"/>
+　　　　右附方舊一百四十四新二百八十六<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　本草綱目卷十五目錄<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

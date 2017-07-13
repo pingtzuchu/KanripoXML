@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2a0029_WYG_034-1a"/>
+　舊五代史巻十六攷證<lb/>
+梁列𫝊六葛從周𫝊破蔡賊王夏寨　王夏原本作五<lb/>
+　夏今據通鑑改正<lb/>
+從周詐揚言并人鄆人來救　案通鑑朱瑾告急于河東李<lb/>
+　克用遣大將史儼李承嗣將數千騎假道于魏以救<lb/>
+　之是河東實遣師來授非從周詐言也此蓋覘知兖<lb/>
+　人告急乘并師尚未至乃揚言己至多方以誤之耳又本<lb/>
+　紀作十二月此作十月辦正巳見本紀<lb/>
+<pb n="KR2a0029_WYG_034-1b"/>
+養疾偃師縣亳邑鄉之别墅　别墅原本作别堃今改<lb/>
+　正<lb/>
+謝彦章傳必兩京太傅在此也　兩京原本作西京今<lb/>
+　據通鑑改正<lb/>
+張歸霸傳歸霸為飛戈所中　飛戈歐陽史作飛矢<lb/>
+張歸厚傳命歸厚領所部㕔子馬　㕔子馬原本作厲<lb/>
+　子馬攷通鑑注㕔子都係當時軍旅之名今改正<lb/>
+與葛從周禦晉軍于洹水　葛從周原本作郭從周今<lb/>
+<pb n="KR2a0029_WYG_034-2a"/>
+　據通鑑改正<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2a0029_WYG_034-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　舊五代史巻十六攷證<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

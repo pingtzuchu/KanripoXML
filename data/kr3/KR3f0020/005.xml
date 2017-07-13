@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3f0020_WYG_005-1a"/>
+欽定四庫全書<lb/>
+欽定儀象考成卷五<lb/>
+　恒星黄道經緯度表四<lb/>
+　　黄道降婁宫<lb/>
+<pb n="KR3f0020_WYG_005-2a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_005-3a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_005-4a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_005-5a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_005-6a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_005-7a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_005-8a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_005-9a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_005-10a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_005-11a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_005-12a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_005-13a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_005-14a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_005-15a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_005-16a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_005-17a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_005-18a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_005-19a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_005-20a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_005-21a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_005-22a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3f0020_WYG_005-22b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+欽定儀象考成卷五<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

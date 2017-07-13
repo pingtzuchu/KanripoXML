@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>補歴代史表卷三十九</head> <lb/>
+    <p>
+<pb n="KR2d0021_WYG_037-1a"/>
+欽定四庫全書<lb/>
+　補歴代史表卷三十九<lb/>
+　　　　　　　　　　　　　鄞縣萬斯同撰<lb/>
+　　魏<lb/>
+　　　魏異姓諸王世表<lb/>
+<pb n="KR2d0021_WYG_037-2a"/>
+</p>
+<p>
+<pb n="KR2d0021_WYG_037-3a"/>
+</p>
+<p>
+<pb n="KR2d0021_WYG_037-4a"/>
+</p>
+<p>
+<pb n="KR2d0021_WYG_037-5a"/>
+</p>
+<p>
+<pb n="KR2d0021_WYG_037-6a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2d0021_WYG_037-6b"/>
+　<lb/>
+　<lb/>
+魏外戚諸王世表<lb/>
+<pb n="KR2d0021_WYG_037-7a"/>
+</p>
+<p>
+<pb n="KR2d0021_WYG_037-8a"/>
+</p>
+<p>
+<pb n="KR2d0021_WYG_037-9a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2d0021_WYG_037-9b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　補歴代史表卷三十九<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

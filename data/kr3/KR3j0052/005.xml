@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3j0052_WYG_005-1a"/>
+學齋先生無書不讀讀而有所疑則思思而有所得則<lb/>
+録名之曰佔畢所以恵後學者至矣然豈先生自為之<lb/>
+說哉曰土王於季夏曰無極而太極曰逸詩句曰孟荀<lb/>
+揚言性曰飲食衣服變古曰屈原橘頌曰日隨天左旋<lb/>
+曰三數乘四曰中庸心性曰不徹薑食曰守令愛民一<lb/>
+以紫陽夫子之書為證先生學紫陽者也紫陽之誨人<lb/>
+曰學問思辨四者皆所以窮理先生此書其學問思辨<lb/>
+而窮理者歟學者其即是書而求先生之心因先生而<lb/>
+<pb n="KR3j0052_WYG_005-1b"/>
+求紫陽之心景定壬戌冬至門生鄱陽郭困拜手謹跋<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　學齋佔畢原跋<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

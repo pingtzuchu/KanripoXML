@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>樂靜集</head>
+    <p>
+<pb n="KR4d0116_WYG_000-1a"/>
+欽定四庫全書　　　　　集部三<lb/>
+　樂靜集　　　　　　　　别集類二<hi>宋</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案樂靜集三十巻宋李昭玘撰昭玘<lb/>
+　　　　字成季宋史云濟南人考昭玘籍本鉅野葢<lb/>
+　　　　嘗署濟陰而史遂誤為濟南也元祐中擢進<lb/>
+　　　　士第厯官提㸃永興京西京東刑獄坐元符<lb/>
+　　　　黨奪官徽宗立召為右司員外郎遷太常少<lb/>
+<pb n="KR4d0116_WYG_000-1b"/>
+　　　　卿出知滄州崇寧初編入黨籍紹興初追復<lb/>
+　　　　直徽猷閣史稱昭玘坐廢以後居閑十五年<lb/>
+　　　　自號樂靜先生寓意法書圖畫貯以十囊命<lb/>
+　　　　曰燕逰十交侯䝉為昭玘校試所舉士及䝉<lb/>
+　　　　執政感舊恩使人致意昭玘惟求秘閣法帖<lb/>
+　　　　而已其孤介自守不汲汲仕進如是故其胸<lb/>
+　　　　度夷曠發為文章皆光明俊偉無依阿淟涊<lb/>
+　　　　之態亦無囂呼憤戾之氣又早為蘇軾所知<lb/>
+<pb n="KR4d0116_WYG_000-2a"/>
+　　　　　耳濡目染具有典型北宋之末翹然為一作<lb/>
+　　　　　者當時與晁補之齊名固不虚也其集前後<lb/>
+　　　　　無序跋不知何人所編宋史藝文志文獻通<lb/>
+　　　　　考皆不著録葉盛菉竹堂書目有之而無巻<lb/>
+　　　　　數惟焦竑國史經籍志三十巻此本凡詩四<lb/>
+　　　　　巻徐州十事一巻記一巻傳序一巻襍文二<lb/>
+　　　　　巻書二巻表三巻啓狀七巻疏一巻青詞疏<lb/>
+　　　　　文一巻僧疏一巻進巻二巻試館職策一巻<lb/>
+<pb n="KR4d0116_WYG_000-2b"/>
+　　　　　碑誌行狀三巻與焦竑志合葢即竑所見之<lb/>
+　　　　　本也乾隆四十四年三月恭校上<lb/>
+　　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

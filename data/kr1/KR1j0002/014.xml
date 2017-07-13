@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="1a"/>
+<hi>禮記</hi>小枝上繚爲喬<hi>謂細枝皆翹繚上/句者名爲喬木</hi>無枝爲檄<hi>檄櫂直上</hi>木族生爲<lb/>
+灌<hi>族叢</hi>
+釋蟲第十五<lb/>
+螜天螻<hi>螻蛄也夏小正曰螜則鳴</hi>蜚蠦蜰<hi>蜰即負/盤臭蟲</hi>螾<graphic n="KR2602" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2602.png" mimeType="image/png"/>入耳<hi>蚰/蜒</hi>蜩蜋蜩<hi>夏小正傳曰蜋蜩者五彩具</hi>螗蜩<hi>夏小正傳曰螗蜩者蝘俗呼/爲胡蟬江南謂之螗<graphic n="KR2171" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2171.png" mimeType="image/png"/>音荑</hi>蚻蜻蜻<hi>如蟬而小方言云有文者謂之螓夏小正曰鳴蚻虎懸</hi>蠽茅蜩<hi>江東呼爲茅截/似蟬而小青色</hi>蝒馬蜩<hi>蜩中最大/者爲馬蟬</hi>蜺寒蜩<hi>寒螿也似蟬而小青赤月令曰寒蟬鳴</hi>蜓蚞螇螰<hi>即蝭螃也一名蟪/蛄齊人呼/螇螰</hi>蛣蜣蜣蜋<hi>黒甲蟲噉糞土</hi>蝎<lb/>
+蛣<graphic n="KR1298" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1298.png" mimeType="image/png"/>
+                    <hi>木中蠧虫</hi>蠰齧桑<hi>似天牛長/角體有白點喜齧桑/樹作孔入其中江東呼爲齧髮</hi>諸慮奚相<hi>未詳</hi>
+蜉蝣渠略<hi>似蛣蜣身狹而長有角黃黒色叢生糞土中朝生暮死豬好啖之</hi>蛂蟥蛢<hi>甲蟲也大如虎豆緑色今江東呼黃蛢音瓶</hi>蠸輿父守瓜<hi>今瓜中黃甲小蟲喜/食瓜葉故曰守瓜</hi>蝚蛖螻<hi>蛖螻螻蛄類</hi>不蜩王<lb/>
+<pb n="1b"/>
+蚥<hi>未詳</hi>蛄䗐強䖹<hi>今米穀中蠹小黒蟲是也/建平人呼爲䖹子音芈姓</hi>不過蟷蠰<hi>蟷蠰螗蜋別名</hi>其<lb/>
+子蜱蛸<hi>一名<graphic n="KR2159" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2159.png" mimeType="image/png"/>蟭/蟷蠰卵也</hi>蒺蔾蝍蛆<hi>似蝗而大腹長角能食虵腦</hi>蝝蝮蜪<hi>蝗子未有翅者外傳曰蟲舎蚔蝝</hi>蟋蟀蛬<hi>今促織也/亦名青<graphic n="KR1465" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1465.png" mimeType="image/png"/>
+                    </hi>蟼蟆<hi>蛙類</hi>蛝馬䗃<hi>馬蠲虳俗/呼馬<graphic n="KR2209" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2209.png" mimeType="image/png"/>
+                    </hi>蛗螽蠜<lb/>
+<hi>詩曰趯趯阜蟲</hi>草螽負蠜<hi>詩云喓喓草/蟲謂常羊也</hi>蜤螽蜙蝑<hi>蜙䗥也俗呼蝽䗲</hi>蟿螽螇<lb/>
+蚸<hi>今俗呼似蜙䗥而細長飛翅作聲者爲螇蚸</hi>土螽蠰谿<hi>似蝗而小今/謂之土</hi>螼蚓蜸蚕<hi>即䖤蟺也江東呼寒蚓</hi>莫貈蟷蜋蛑<hi>螗蜋有斧蟲江東呼石蜋孫/叔然以方言說此義亦不了</hi>虰蛵負勞<hi>或曰即蜻蛉也江東呼狐䊍所未聞</hi>蜭毛蠹<hi>即/蛓</hi>蟔蛅蟴<hi>蛓屬也今青州人呼蛓爲蛅蟴孫叔然云八角螫蟲失之</hi>蟠䑕<lb/>
+負<hi>瓮器底蟲</hi>蟫白魚<hi>衣書中蟲/一名蛃魚</hi>䖸羅<hi>𧖟/䖸</hi>螒天雞<hi>小蟲黒身赤頭一名莎雞又曰樗雞</hi>傅<lb/>
+負版<hi>未詳</hi>強蚚<hi>即強/醜捋</hi>蜉螪何<hi>未/詳</hi>螝蛹<hi>𧖟/蝚</hi>蜆縊女<hi>小黒蟲赤頭喜自經死故曰縊女</hi>
+蚍蜉大螘<hi>俗呼爲馬蚍蜉</hi>小者螘<hi>齊人呼/蟻蟻蛘</hi>蠪朾螘<hi>赤駮/蚍蜉</hi>飛螘<hi>有翅</hi>其<lb/>
+<pb n="2a"/>
+子蚳<hi>蚳蟻卵周禮曰蜃蚳醬</hi>次蟗䵹鼄䵹鼄鼄蝥<hi>今江東呼蝃蝥音掇</hi>土䵹<lb/>
+鼄<hi>在地中布網者</hi>草䵹鼄<hi>絡幕草/上者</hi>土蠭<hi>今江東呼大蠭在地中作房者爲土蠭啖其子即馬蠭今荆巴閒呼爲蟺音憚</hi>木蠭<hi>似土蠭而小在樹上作房江/東亦呼爲木蠭又食其子</hi>蟦蠐螬<hi>在糞/土中</hi>蝤蠐蝎<hi>在水中今雖通名爲蝎所在異</hi>
+                    <graphic n="KR2212" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2212.png" mimeType="image/png"/>威委黍<hi>舊說䑕<graphic n="KR2241" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2241.png" mimeType="image/png"/>別/名然所未詳</hi>蟰蛸長踦<hi>小䵹鼄長脚者俗呼爲喜子</hi>蛭蝚<lb/>
+至掌<hi>未詳</hi>國貉蟲蠁<hi>今呼蛹蟲爲蠁廣推云土蛹蠁蟲</hi>蠖版蠖<hi>今蝍/<graphic n="KR2104" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2104.png" mimeType="image/png"/>
+                    </hi>果臝蒲盧<lb/>
+<hi>即細腰蠭也俗呼爲蠮螉</hi>螟蛉桑蟲<hi>俗謂之桑蟃/亦曰戎女</hi>蝎桑蠹<hi>即蛣/<graphic n="KR1298" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1298.png" mimeType="image/png"/>
+                    </hi>熒火即炤<hi>夜飛腹下有火</hi>密肌繼英<hi>未/詳</hi>蚅烏蠋<hi>大蟲如指似/𧖟見韓子</hi>蠓蠛蠓<hi>小蟲似蚋喜亂飛</hi>王蛈<lb/>
+蝪<hi>即螘蝠似䵹鼄在穴中有蓋今河北人呼蛈蝪</hi>蟓桑繭<hi>食桑葉作繭/者即今𧖟</hi>雔由樗繭<hi>食樗葉</hi>棘<lb/>
+繭<hi>食棘葉</hi>欒繭<hi>食欒/葉</hi>蚢蕭繭<hi>食蕭葉者/皆𧖟類</hi>翥醜鏬<hi>剖母背而生</hi>螽醜<lb/>
+奮<hi>好奮迅作聲</hi>強醜捋<hi>以脚自/摩捋</hi>蠭醜螸<hi>垂其/腴</hi>蠅醜扇<hi>好揺翅</hi>食苗心<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_321-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選巻三百二十一<lb/>
+　　丁香花類<lb/>
+　　　五言古<lb/>
+　　　　丁香　　　　　　　　　　<hi>唐</hi>杜　甫<lb/>
+　丁香體柔弱亂結枝猶墊細葉帶浮毛疎花披素豔深<lb/>
+　栽小齋後庶近幽人占曉墮蘭麝中休懐粉身念<lb/>
+　　　五言律<lb/>
+<pb n="KR4h0141_WYG_321-1b"/>
+　　　　賦得池上雙丁香樹　　　　<hi>唐</hi>錢　起<lb/>
+　得地移根逺交柯繞指柔露香濃結桂池影鬬蟠虬黛<lb/>
+　葉輕筠綠金花笑菊秋何如南海外雨露隔炎洲<lb/>
+　　　七言絶句<lb/>
+　　　　丁香　　　　　　　　　　<hi>唐</hi>陸龜䝉<lb/>
+　江上悠悠人不問十年雲外醉中身殷勤解却丁香結<lb/>
+　從放繁枝散誕春<lb/>
+御定佩文齋詠物詩選巻三百二十一<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

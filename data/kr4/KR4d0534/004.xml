@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4d0534_WYG_004-1a"/>
+金臺集題詩<lb/>
+崇天門下聽臚傳臺閣聨翩四十年今日縣車歸故里<lb/>
+杖藜擕酒落華前<lb/>
+玉帶難圍老病身廟堂補報乏涓塵衰年作别情懷惡<lb/>
+秉燭題詩贈故人<lb/>
+愛君譚辯似縣河更喜交情古意多長使馬周貧作客<lb/>
+令人千古媿常何<lb/>
+百尺髙臺易水東千金曾此彀英雄君來却在承平日<lb/>
+<pb n="KR4d0534_WYG_004-1b"/>
+先筞詩壇第一功<lb/>
+　予既致政將歸濟南賦詩四章題金臺集後奉别易<lb/>
+　之良友抑以書予自媿云爾至正戊子三月望日華<lb/>
+　峰真逸張起巖書<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

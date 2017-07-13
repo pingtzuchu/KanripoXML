@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>始豐稿</head>
+    <p>
+<pb n="KR4e0026_WYG_000-1a"/>
+欽定四庫全書　　　　　集部六<lb/>
+　始豐稿　　　　　　　　别集類五<hi>明</hi>
+　　提要<lb/>
+　　　　臣等謹案始豐稿十四巻明徐一䕫撰一䕫<lb/>
+　　　　有藝圃搜竒已著錄朱彛尊靜志居詩話曰<lb/>
+　　　　大章遺稿罕傳余於京師見之新城王貽上<lb/>
+　　　　所凡四冊比余家藏者倍之然騐其目無詩<lb/>
+　　　　猶未是足本案今行世凡二本其一本六巻<lb/>
+<pb n="KR4e0026_WYG_000-1b"/>
+　　　　當即朱彛尊家所藏此本自一巻至三巻為<lb/>
+　　　　前稿自四巻至十四巻為後稿皆雜文無詩<lb/>
+　　　　當即王士禎家所藏矣據千頃堂書目載一<lb/>
+　　　　䕫始豐類稿十五巻此本所佚不過詩一巻<lb/>
+　　　　耳其文皆謹嚴有法度無元季冗沓之習其<lb/>
+　　　　與王禕論修史書明史載之於本傳陳繼儒<lb/>
+　　　　嘗稱其宋行宫考呉越國考研核精確王士<lb/>
+　　　　禎又稱其錢塘鐵箭辨精於考核其歐史十<lb/>
+<pb n="KR4e0026_WYG_000-2a"/>
+　　　　國年譜偹證一篇謂歐陽氏於呉越改元止<lb/>
+　　　　據寳石山制稱寳正六年為證一䕫復得錢<lb/>
+　　　　鏐將許俊墓磚有寳正三年字以證歐史之<lb/>
+　　　　不誣又謂元瓘襲位後不復改元立説皆有<lb/>
+　　　　根據觀其所辨始知明嘉靖間錢徳洪所撰<lb/>
+　　　　呉越世家疑辨謂改元之事别無證據者特<lb/>
+　　　　為先世諱耳是又多資考證不但其文之工<lb/>
+　　　　也乾隆四十四年六月恭校上<lb/>
+<pb n="KR4e0026_WYG_000-2b"/>
+　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官　　<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

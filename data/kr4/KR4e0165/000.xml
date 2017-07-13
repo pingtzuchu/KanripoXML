@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>儼山集</head>
+    <p>
+<pb n="KR4e0165_WYG_000-1a"/>
+欽定四庫全書　　　　集部六<lb/>
+　儼山集　　　　　　　　别集類五<hi>明</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案儼山集一百巻續集十巻明陸深<lb/>
+　　　　撰深字子淵儼山其號也上海人𢎞治乙丑<lb/>
+　　　　進士官至詹事府詹事兼翰林院學士事迹<lb/>
+　　　　具明史文苑傳是集為費寀徐階文徵明唐<lb/>
+　　　　錦陸師道諸人所論定而其子國子生楫為<lb/>
+<pb n="KR4e0165_WYG_000-1b"/>
+　　　　編次而刋行之錦及師道並稱尚有外集四<lb/>
+　　　　十巻通此二集為一百五十巻此本不載外<lb/>
+　　　　集皆其筆記雜著又自别行也史稱深少與<lb/>
+　　　　徐禎卿相切磨為文章有名書仿李邕趙孟<lb/>
+　　　　頫賞鑑博雅為詞臣冠徐階稱深以經濟自<lb/>
+　　　　許在翰林院在國子監數上書言事督學於<lb/>
+　　　　晉㕘藩於楚旬宣於蜀則皆有功徳於其士<lb/>
+　　　　民而惜其獨以文章見費寀亦稱其以剴切<lb/>
+<pb n="KR4e0165_WYG_000-2a"/>
+　　　　不諛忤宰臣左遷以後畧無感時憤俗之意<lb/>
+　　　　而舉其發教巖詩峽江道中詩證其無所怨<lb/>
+　　　　尤今觀其集雖篇章繁富而大扺根柢學問<lb/>
+　　　　切近事理非徒鬭靡誇多當正嘉之間七子<lb/>
+　　　　之派盛行而獨以和平典雅為宗毅然不失<lb/>
+　　　　其故步益亦可謂有守者矣乾隆四十三年<lb/>
+　　　　九月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+<pb n="KR4e0165_WYG_000-2b"/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>周易觀彖</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　經部一<lb/>
+　周易觀彖　　　　　　易類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案周易觀彖十二卷<lb/>
+　　　國朝李光地撰光地嘗奉<lb/>
+　命纂修周易折中請復用朱子古本是編乃仍用注<lb/>
+　　　　疏本葢成書在前也其語録及榕村全集所<lb/>
+　　　　載頗申明先天諸圖而是編則惟解説卦傳<lb/>
+<pb n="1b"/>
+　　　　天地定位一章附舉此義然亦不竟其説餘<lb/>
+　　　　皆發明易理兼證以易象而數則畧焉葢亦<lb/>
+　　　　謂邵子之學為易外别傳也其解繫詞傳知<lb/>
+　　　　者觀其彖辭則思過半矣二句曰彖辭所取<lb/>
+　　　　或有直用其爻義者或有通時宜而爻義吉<lb/>
+　　　　凶凖以為决者故以是觀之不中不逺惟其<lb/>
+　　　　合始終以為質故時物不能外云云觀彖之<lb/>
+　　　　名葢諸取此其解九四重剛而不中句不以<lb/>
+<pb n="2a"/>
+　　　　重文為衍文解履霜堅氷隂始凝也句不從<lb/>
+　　　　魏志作初六履霜解後得主而有常句不從<lb/>
+　　　　程傳増利字解葢言順也句不以順為慎以<lb/>
+　　　　及比吉也句比之匪人句同人曰句小利有<lb/>
+　　　　攸往天文也句震驚百里驚逺而懼邇也句<lb/>
+　　　　漸之進也句上九鴻漸於陸句與地之宜句<lb/>
+　　　　皆不從程傳本義脱悞之説惟據漢律厯志<lb/>
+　　　　移天一地二二十字從程傳能研諸侯之慮<lb/>
+<pb n="2b"/>
+　　　　句侯之二字衍文從本義耳<hi>案光地謂諸為侯之合音想以</hi>
+　　　　<hi>古經旁注字切而誤増不知反切始自孫炎古經安得注字切其説殊悞謹附訂于此</hi>
+　　　　葢尊信古經不敢竄亂猶有漢儒篤守之遺<lb/>
+　　　　其大㫖雖與程朱二家頗有出入而理足相<lb/>
+　　　　明有異同而無背觸也乾隆四十四年十月<lb/>
+　　　恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

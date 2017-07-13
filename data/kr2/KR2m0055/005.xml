@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2m0055_WYG_005-1a"/>
+　　　律例館總裁<hi>臣</hi>三泰等謹查<lb/>
+　大清律自<lb/>
+世祖章皇帝定鼎之初即<lb/>
+　命刑部尚書吳達海等詳譯明律叅以<lb/>
+　　國制書成奏進刊布中外<lb/>
+　聖祖仁皇帝康熙九年<lb/>
+　命大學士管刑部尚書事對喀納等復行校正十八年<lb/>
+　特諭刑部將定律之外所有條例應去應存詳加酌定<lb/>
+<pb n="KR2m0055_WYG_005-1b"/>
+　　　刊刻通行名為見行則例二十八年准臺臣盛符<lb/>
+　　　升奏請將見行則例載入<lb/>
+　大清律條例内<lb/>
+　命尚書圖納張玉書等為總裁至四十六年繕寫進<lb/>
+　　呈留<lb/>
+　覽未發<lb/>
+世宗憲皇帝雍正元年復<lb/>
+　命大學士朱軾尚書查郎阿等為總裁於應增應減之<lb/>
+<pb n="KR2m0055_WYG_005-2a"/>
+　　　處再行詳加分晰作速修完至雍正五年奏准頒<lb/>
+　　　行我<lb/>
+　皇上御極之元年允尚書傅鼐陳奏<lb/>
+　特命<hi>臣</hi>三泰等為總裁臣等奉<lb/>
+　命遴選提調<hi>臣</hi>何瞻纂修臣岳泰等逐條考正重加編<lb/>
+　　　輯又詳校定例纂入一千四十九條節次恭繕進<lb/>
+　　　呈蒙<lb/>
+　皇上親加鑒定間有未協之處悉經<lb/>
+<pb n="KR2m0055_WYG_005-2b"/>
+　諭㫖改正<lb/>
+　特命刊布内外永遠遵行臣等幸生<lb/>
+　　盛世仰見典章之大成謹拜手稽首敬錄<lb/>
+世祖章皇帝御製原序一篇<lb/>
+聖祖仁皇帝上諭一道<lb/>
+世宗憲皇帝御製序文一篇<lb/>
+　諭㫖一道冠諸卷首其諸臣章奏附錄於後云臣三泰<lb/>
+　　　等恭紀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

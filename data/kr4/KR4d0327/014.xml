@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>鐵菴集卷十四</head> <lb/>
+    <p>
+<pb n="KR4d0327_WYG_014-1a"/>
+欽定四庫全書<lb/>
+　鐵菴集卷十四<lb/>
+　　　　　　　　　　　　宋　方大琮　撰<lb/>
+　書<lb/>
+　　　劉吏部<hi>克莊</hi>
+悼亡屬爾有類鰥氓待老蕭然方營狐首但覺餘生之<lb/>
+多感安知初度之來臨敢謂謙厪特加軫記帖朌吉語<lb/>
+猶未能免俗之言詞寫壯懐葢以德愛人之意難勝期<lb/>
+<pb n="KR4d0327_WYG_014-1b"/>
+待徒有兢慚顧永廢蓼莪思親之淚濕而愧懸弧矢報<lb/>
+國之志荒幸明時搜攬之甚寛則孤跡湮沉而奚欠蚤<lb/>
+知世味豈必掛神武之門所願身强常得侍耆英之社<lb/>
+　　　回王正字<hi>邁</hi>
+老我羈游已斷六弧之夢故人逺訪先馳雙鯉之書跫<lb/>
+然空谷之足音折了過門之屐齒良鄭重甚如悚愧何<lb/>
+恭惟某官李白謫仙徐邈清聖五湖三江之氣落落不<lb/>
+衰萬馬千兵之文凛凛可畏雖筆端之清麗尤交誼之<lb/>
+<pb n="KR4d0327_WYG_014-2a"/>
+歲寒每逢賤生輒贈好語政切彼美一方之望乃煩不<lb/>
+逺千里而來水沉似盈尺之苓地栗當如𤓰之棗復奏<lb/>
+一闋直成三奇某愧無雪兒可歌留與雲孫為寳清興<lb/>
+不淺幸勿回子猷之舟濁世可憐安得從王喬之履亟<lb/>
+兹馳候畧敘謝悰<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR4d0327_WYG_014-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　鐵菴集卷十四<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

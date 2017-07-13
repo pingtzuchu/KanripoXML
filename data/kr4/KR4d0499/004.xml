@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>檜亭集卷四</head>
+    <p>
+<pb n="KR4d0499_WYG_004-1a"/>
+欽定四庫全書<lb/>
+　檜亭集卷四　　　　　　　元　丁復撰<lb/>
+　　近體<hi>五言長律</hi>
+　　　金陵奉餞趙公子去疾理問侍平章魯公世平<lb/>
+　　　　入蜀歸秦次韻龍翔太中二十韻<hi>前集</hi>
+平章向三峽公子奉雙親祖帳聨裾盛官船發櫂新屋<lb/>
+墩誰較謝宫井自餘陳劔閣當西極刀州逺北辰魯公<lb/>
+加上爵趙氏洊名臣死節褒賢嗣生榮溢老身朝廷懐<lb/>
+<pb n="KR4d0499_WYG_004-1b"/>
+蹇蹇韋布佩諄諄及<hi>闕</hi>　違後其<hi>闕</hi>接見頻渚風開鷁<lb/>
+尾江日湧龍鱗夾㟁觀如堵中流望若神埋金陵樹逺<lb/>
+濯錦水花勻前纛仍踰隴先墳宛在秦布颿知到日繡<lb/>
+斧拜新春亦有羅貔虎無非聚鳯麟川將天作限山入<lb/>
+海為濱從騎遥思棧安車緩度輪晨調珍翠釡夕侍妥<lb/>
+文茵雛弄娯依坐雞鳴服伺隣所期長壽考莫或後嘉<lb/>
+賓倘有星回使惟應日問人<lb/>
+　　　次夏允中禁體雪詩六十韻<hi>續集</hi>
+<pb n="KR4d0499_WYG_004-2a"/>
+衾夜生孤擁樓更死屢撾墨雲常黯淡絲雨先鬖髿半<lb/>
+醒身何所全迷意罔涯露眠當莽蒼風泊在兼葭<hi>闕</hi>起<lb/>
+平行地訛聽亂撒沙羣憨摇始覺衆怪語<hi>闕</hi>　幔卷爭<lb/>
+成片裳沾秪見些尺深良可待寸測即頻<hi>闕</hi>熾炭肌還<lb/>
+木張燈眼暈花闖明和月淡學舞逐風斜在臘時能應<lb/>
+祈年歲必嘉競投牕外隙密糝砌旁窪尾亞攅鎗竹肪<lb/>
+分破刃𤓰恍疑行朔幕只訝失胡笳賸有開甖貯渾無<lb/>
+樹屏遮廊飄黏畫翠庖焮泣吹赮靜凝檐頭髓清垂瓦<lb/>
+<pb n="KR4d0499_WYG_004-2b"/>
+口牙廻溝填小曲側巷積㣲衺夕氣干牛斗酆城瘞鏌<lb/>
+鎁暖融團腐草晴綴嵌空沙易化行人路偏多隠者家<lb/>
+池心堅暮日山脊晃晨霞馬齒沈虛屐羊腸阻峻車荒<lb/>
+藂喧餓雀垂蔓抱僵蛇縮頸牛如蝟拳毛馬盡騧自湏<lb/>
+<hi>闕</hi>潔凈誰敢訾疵瑕公子添重錦夫人儗副珈聚<hi>闕</hi>
+簇雁作隊野屯鴉鬂縷搔驚似髯珠貫暫訝淵宫裁斷<lb/>
+織閨服㡌初髽晉女吟稱謝唐人賦憶乂大田將有榖<lb/>
+沃壤早宜麻乆睨隈墻色寧論在土芽舞娥臨月桂才<lb/>
+<pb n="KR4d0499_WYG_004-3a"/>
+士縱天葩朽壓傷頺架長支惜偃笆梅封新蓓蕾薪㸑<lb/>
+濕杈枒京洛多豪富長安有狹邪掃開交擁篲戲聚互<lb/>
+推爬帯沍張魚笱淩晨没兎罝卧來窮就捉跳出㨗從<lb/>
+杈籺食何煎廹萍虀漫咄嗟跣趨哀䠥<graphic n="KR0887" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0887.png" mimeType="image/png"/>志肆咲矜夸<lb/>
+數戰肩踰竦頻呵指更挼唇呼吟蟋蟀足趺伏蝦蟆懶<lb/>
+出從嘲鼈甘貧任處蝸市舂窮也糴隣酤薄猶賖<hi>闕</hi>
+<pb n="KR4d0499_WYG_004-4a"/>
+罍貳守何能爾明公特異哉蜚聲驚大府報最達重臺<lb/>
+政洽邦千里心清水一杯威名動草木頌語出<hi>闕</hi>　儒<lb/>
+術行中道文光炳上台菁莪思樂育徴粟可遲迴飛檄<lb/>
+如星急連檣駕浪來輪囷登廪庾精㓗粲珠<hi>闕</hi>炊㸑迷<lb/>
+深竹摳趨失故苔馨香通肸蠁勲業此胚胎統宇𢎞無<lb/>
+際顛厓政可哀箕疇先食貨商鼎頼塩梅峻陛高班入<lb/>
+彤庭紫詔裁咨詢周逺迹答問徹<hi>闕</hi>　盛德乾坤報危<lb/>
+言山嶽摧田疇無失業府庫孰非財燮理隂陽事消沈<lb/>
+<pb n="KR4d0499_WYG_004-4b"/>
+水旱菑虞謨恒賛賛漢網願恢恢澤沛𢎞羊雨霾空野<lb/>
+馬埃常令見白日終老北山隈<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　檜亭集卷四<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

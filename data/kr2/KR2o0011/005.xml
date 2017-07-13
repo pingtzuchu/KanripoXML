@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>宋大事記講義卷五<hi>缺</hi>
+                </head> <lb/>
+    <p>
+<pb n="KR2o0011_WYG_005-1a"/>
+欽定四庫全書<lb/>
+　宋大事記講義卷五<hi>缺</hi>
+　　　　　　　　　　　　　宋　吕中　撰<lb/>
+　太宗皇帝<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

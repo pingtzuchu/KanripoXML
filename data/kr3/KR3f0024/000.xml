@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>天步真原</head>
+    <p>
+<pb n="KR3f0024_WYG_000-1a"/>
+欽定四庫全書　　　　　子部<lb/>
+　天步真原　　　　　　　天文算法類<hi>推步之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案天步真原一卷<lb/>
+　　　國朝薛鳳祚所譯西洋穆尼閣法也鳳祚有兩<lb/>
+　　　　河清彚已著録順治中穆尼閣寄寓江寕喜<lb/>
+　　　　與人談算術而不招人入耶蘇教在彼教中<lb/>
+　　　　號為篤實君子鳳祚初從魏文魁㳺主持舊<lb/>
+<pb n="KR3f0024_WYG_000-1b"/>
+　　　　法後見穆尼閣始改從西學盡傳其術因譯<lb/>
+　　　　其所說為此書其法専推日月交食中間繪<lb/>
+　　　　弧三角圖三一則有北極出地有日距赤道<lb/>
+　　　　有時刻而求高弧一則有日距天頂有正午<lb/>
+　　　　黄道有黄道與子午圏相交之角而求黄道<lb/>
+　　　　高弧交角一則有黄道高弧交角有高下差<lb/>
+　　　　而求東西南北二差末繪日食食分一圖鳳<lb/>
+　　　　祚譯是書時新法初行又中西文字輾轉相<lb/>
+<pb n="KR3f0024_WYG_000-2a"/>
+　　　　通故詞㫖未能盡暢梅文鼎嘗訂證其書稱<lb/>
+　　　　其法與崇禎新法厯書有同有異其似異而<lb/>
+　　　　同者布算之同對數之表與厯書逈别然得<lb/>
+　　　　數無二惟黄道春分二差則根數大異非測<lb/>
+　　　　候無以斷其是非然其書在未修數理精藴<lb/>
+　　　　之前録而存之猶可以見步天之術由疏入<lb/>
+　　　　宻之漸也乾隆四十七年十月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+<pb n="KR3f0024_WYG_000-2b"/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

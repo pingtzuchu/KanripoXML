@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3k0012_SBCK_853-1a"/>
+太平御覽卷第八百五十三<lb/>
+　飲食部十一<lb/>
+　　　<graphic n="KR2449" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2449.png" mimeType="image/png"/>　饊<lb/>
+　　　麹蘖　麩<lb/>
+　　　　　<graphic n="KR2449" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2449.png" mimeType="image/png"/>
+                    <hi>於月切</hi>
+方言曰腕謂之餚<hi>以豆屑雜餳也</hi>
+蒼頡解詁曰<graphic n="KR2449" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2449.png" mimeType="image/png"/>飴中着豆屑也<lb/>
+說文曰<graphic n="KR2449" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2449.png" mimeType="image/png"/>豆飴也<lb/>
+　　　　　饊<hi>先但切</hi>
+廣雅曰浮<graphic n="KR2484" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2484.png" mimeType="image/png"/>　也<hi>
+                        <graphic n="KR2484" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2484.png" mimeType="image/png"/>音流</hi>
+說文曰饊熬稻張饘也急就篇曰饊飴餳<lb/>
+盧諶祭法曰四時皆用饊<lb/>
+　　　　　麹蘖<lb/>
+<pb n="KR3k0012_SBCK_853-1b"/>
+書曰若作酒醴爾惟麹蘖<lb/>
+記曰仲冬之月乃命有司　稻必齊麹蘖必時<lb/>
+左傳曰楚子伐簫還無社與司馬夘言<graphic n="KR0593" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0593.png" mimeType="image/png"/>申叔展<hi>還無杜蕭人也</hi>
+<hi>司馬夘申叔展皆楚大夫</hi>叔展曰有麥麹乎曰無<hi>麥麴所以御濕也</hi>有山芎藭<lb/>
+乎曰無<lb/>
+方言曰<hi>音器<折 t="33"/>音/才</hi>䴳<hi>干八/切</hi>麰<hi>音牟大/夌麹也<折 t="33"/>音脾細/麵麴也<折 t="33"/>音蒙有衣麴</hi>
+䴹麹<hi>小麦爲麴即麴耳</hi>自関而西秦豳之間曰　晉之舊都曰䴭<lb/>
+<hi>今河東人呼麴爲才</hi>齊右河濟曰䴳北燕曰䴹麹其通語也<lb/>
+說文曰麹酒母也䤓生衣也䤁熟麹也蘖牙米也<lb/>
+通俗文曰　麥麹曰<hi>音壷音故版切</hi>
+釋名曰麹朽也鬰之使生衣朽敗也蘖缺也漬麥覆之使<lb/>
+生牙關缺也<lb/>
+史記曰文帝遺匈奴　蘖<lb/>
+<pb n="KR3k0012_SBCK_853-2a"/>
+又曰通邑大都蘖麹塩䜴千荅也<lb/>
+東觀漢記曰順帝詔禁民無得酤賣酒麹<lb/>
+漢晉陽春秋曰愍帝在長安爲劉粲所攻粮盡太倉有麹<lb/>
+數十餅屑之爲粥以供奉帝麹屑盡遂降<lb/>
+列子曰子産有兄公孫朝聚酒千鍾積麹成封<lb/>
+劉伶酒德頌曰枕麹藉糟<lb/>
+崔寔四民月令曰七月七日作麹<lb/>
+　　　　　麩<lb/>
+蒼頡解詁曰麺細麸也<lb/>
+說文曰麸小麥皮屑也<lb/>
+史記曰陳平爲人長大美色或謂陳平貧何食而肥若是<lb/>
+其嫂疾平之不視家産曰亦食糠覈<hi>孟康曰麦糠中之不破者晉灼曰京師謂</hi>
+<hi>慶屑爲紇頭</hi>
+<pb n="KR3k0012_SBCK_853-2b"/>
+呉書曰袁術旣爲雷薄等所距留住三日士衆絶粮乃還<lb/>
+至江亭去壽春八十里問厨下尚有麥屑三十斛<lb/>
+劉謙之晉記曰王莽誅童謡曰昔年食麥屑今年食䝁豆<lb/>
+䝁豆不可食使我枯嚨喉<lb/>
+崔寔四民月令曰五月五日至後可糴麸至冬以養馬<lb/>
+太平御覽卷第八百五十三<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

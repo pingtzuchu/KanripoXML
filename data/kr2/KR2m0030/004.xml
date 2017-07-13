@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2m0030_WYG_004-1a"/>
+　附刻臣諡類鈔後序<lb/>
+國朝用漢制帝諡皆稱孝又襲唐故以字繁為貴要不<lb/>
+離於天道文武間有惜孝字及武字者坤儀冠孝而聨<lb/>
+稱奉慈遜嫡而均字或益之過而青宮之號羡於諸王<lb/>
+或損之深而興宗之名幾於追廢意者禮時為大古人<lb/>
+所以貴闕疑也洪武諸王不避荒厲之屬獻陵訪落有<lb/>
+司奏賀銀之諡諭云與其惡諡孰若不諡惡諡之不行<lb/>
+自賀侍郎始也楊東里云儒臣之諡始於胡晃菴而丘<lb/>
+<pb n="KR2m0030_WYG_004-1b"/>
+瓊臺則云始於姚道衍然文節易名實肇於洪武戊寅<lb/>
+之歲則文臣之諡自王待制始也孝者行之首唐宋以<lb/>
+降君臣同媺皇朝二百年與者僅居其一焉則陳僉督<lb/>
+是也文以經緯為義非徒翰墨之工今詞林據而有之<lb/>
+亦非令甲攷之典制則魏南齋周恂如非經幄之産也<lb/>
+其在近世則何椒丘黄定軒非摛繪之章也亦有發身<lb/>
+詞林而不得文者以所重則劉求樂以私諱則陳安簡<lb/>
+之屬也有諡在百年之後者宋濳溪劉誠意也有在數<lb/>
+<pb n="KR2m0030_WYG_004-2a"/>
+十年之後者于節菴岳季方也有諡及其貤封之臣者<lb/>
+常鄂公也有倖獲而數罷者李湯隂也有褒錫而屢更<lb/>
+者曹萬鍾王泉坡之屬也有父子皆諡者鄒緝熈儀高<lb/>
+密周松露王千之倪靜存王介菴白南宮耿青厓許靈<lb/>
+寶林泉山孫一川有兄弟皆諡者彭可齋楊鏡川費湖<lb/>
+東許函谷也有諡同于名而不能易者金忠之為忠襄<lb/>
+林文俊之為文修也有姓諡皆同而不能易者馬行部<lb/>
+馬西𤣥之同為文簡王威寧王石岡之同為襄敏也兹<lb/>
+<pb n="KR2m0030_WYG_004-2b"/>
+數者或相沿之舊而習以成章或法守之移而主者未<lb/>
+覺或寵受之浮而求名不得或湮滅之後而欲蓋彌彰<lb/>
+故總叙其概著於篇末其或未知者有所俟焉<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

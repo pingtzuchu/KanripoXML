@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4c0029_SBCK_007-1a"/>
+岑嘉州詩卷之七<lb/>
+　七言絶句<hi>三十三首</hi>
+　　　奉送賈侍御使江外<lb/>
+新騎驄馬復承恩使出金陵過海門荆南渭<lb/>
+北愁難見莫惜衫襟着淚痕<lb/>
+　　　崔倉曹席上送殷寅充石相判官赴<lb/>
+　　　淮南<lb/>
+清淮無底緑江深宿處津亭楓樹林駟馬欲<lb/>
+辭丞相府一樽須盡故人心<lb/>
+　　　題首蓿烽寄家人<lb/>
+<pb n="KR4c0029_SBCK_007-1b"/>
+苜蓿烽邊逢立春胡蘆河上淚霑巾閨中只<lb/>
+是空思想不見沙塲愁殺人<lb/>
+　　　玉關寄長安主簿<lb/>
+東去長安萬里餘故人何惜一行書玉關西<lb/>
+望堪腸㫁况復明朝是嵗除<lb/>
+　　　獻封大夫破播仙凱歌六章<lb/>
+漢將承恩西破戎捷書先奏未央宮天子預<lb/>
+開麟閣待秪今誰數貳師功<lb/>
+官軍西出過樓蘭營幕傍臨月窟寒蒲海曉<lb/>
+霜凝馬尾葱山夜雪撲旌竿<lb/>
+<pb n="KR4c0029_SBCK_007-2a"/>
+鳴笳疊皷擁廽軍破國平蕃昔未聞丈夫鵲<lb/>
+印迎邊月大將龍旗掣海雲<lb/>
+日落轅門皷角鳴千群靣縛出蕃城洗兵魚<lb/>
+海雲迎陣秣馬龍堆月照營<lb/>
+蕃軍遥見漢家營滿谷連山遍哭聲萬箭千<lb/>
+刀一夜殺平明流血浸空城<lb/>
+暮雨旌旗濕未乾胡煙白草日光寒昨夜將<lb/>
+軍連曉戰蕃軍只見馬空鞍<lb/>
+　　　赴北庭度隴思家<lb/>
+西向輪䑓萬里餘也知鄕信日應踈隴山鸚<lb/>
+<pb n="KR4c0029_SBCK_007-2b"/>
+鵡能言語為報家人數寄書<lb/>
+　　　逢入京使<lb/>
+故園東望路漫漫雙䄂龍鍾淚不乾馬上相<lb/>
+逢無𥿄筆憑君傳語報平安<lb/>
+　　　春夢<lb/>
+洞房昨夜春風起遥憶羙人湘江水枕上片<lb/>
+時春夢中行盡江南數千里<lb/>
+　　　<graphic n="KR0593" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0593.png" mimeType="image/png"/>州後亭送李判官使赴晉綘<lb/>
+西原驛路挂城頭客散紅亭雨未休君去試<lb/>
+看汾水上白雲猶似漢時秋<lb/>
+<pb n="KR4c0029_SBCK_007-3a"/>
+　　　五月四日送王少府歸華隂<lb/>
+僊掌分明引馬頭西㸔一點是關樓五日也<lb/>
+須應到舎知君不肯更淹留<lb/>
+　　　原頭送范侍御<lb/>
+百尺原頭酒色殷路傍驄馬汗斑斑别君只<lb/>
+有相思夣遮莫千山與萬山<lb/>
+　　　送李明府赴陸州便拜覲太夫人<lb/>
+手把銅章望海雲夫人江上泣羅裙嚴灘一<lb/>
+點舟中月萬里煙波也夣君<lb/>
+　　　虢州西山亭子送范端公<lb/>
+<pb n="KR4c0029_SBCK_007-3b"/>
+百尺紅亭對萬峰平明相送到齋鐘驄馬勸<lb/>
+君皆缷却使君家醖舊來濃<lb/>
+　　　送崔子還京<lb/>
+疋馬西從天外歸揚鞭只共鳥争飛送君九<lb/>
+月交河北雪裏題詩淚滿衣<lb/>
+　　　趙將軍歌<lb/>
+九月天山風似刀城南獵馬縮寒毛將軍縱<lb/>
+博塲塲勝賭得將軍貂䑕𫀆<lb/>
+　　　春興戲贈李侯<lb/>
+黄雀始欲啣花來君家種桃花未開長安二<lb/>
+<pb n="KR4c0029_SBCK_007-4a"/>
+月眼㸔盡寄報春風早爲催<lb/>
+　　　草堂村尋羅生不遇<lb/>
+數株溪柳色依依深巷斜陽暮鳥飛門前雪<lb/>
+滿無人跡應是先生出未歸<lb/>
+　　　山房春事<lb/>
+風恬日㬉蕩春光戲蝶逰蜂亂入房數枝門<lb/>
+柳低衣桁一片山花落筆床<lb/>
+　　　同<lb/>
+梁園日暮亂飛鴉極目蕭條三两家庭樹不<lb/>
+知人去盡春来還落舊時花<lb/>
+<pb n="KR4c0029_SBCK_007-4b"/>
+　　　題觀樓<lb/>
+荒樓荒井閉空山關令乗雲去不還羽盖霓<lb/>
+旌何䖏在空餘藥臼向人間<lb/>
+　　　磧中作<lb/>
+走馬西來欲到天離家見月兩囬圎今夜不<lb/>
+知何䖏宿平沙萬里絶人烟<lb/>
+　　　醉戲竇子絶句<lb/>
+朱唇一點桃花殷宿粧嬌羞偏髻鬟細㸔只<lb/>
+是陽䑓女醉着莫許歸巫山<lb/>
+　　　胡歌<lb/>
+<pb n="KR4c0029_SBCK_007-5a"/>
+黒姓賢王貂䑕裘葡萄宫錦醉纏頭關西老<lb/>
+將能苦戰七十行兵仍未休<lb/>
+　　　武軍送劉判官赴磧西行軍<lb/>
+火山五月人行少㸔君馬去疾如鳥都護行<lb/>
+營太白西角聲一動胡天曉<lb/>
+　　　入關先寄秦中故人<lb/>
+秦山數點似青黛渭水一條如白練京師故<lb/>
+人不可見寄將两眼㸔飛燕<lb/>
+　　　過燕攴寄杜位<lb/>
+燕攴山西酒泉道北風吹沙卷白草長安遥<lb/>
+<pb n="KR4c0029_SBCK_007-5b"/>
+在日光邉憶君不見令人老<lb/>
+　　　秋夜聞笛<lb/>
+天門街西聞搗帛一夜愁殺江南客長安城<lb/>
+中百萬家不知何人夜吹笛<lb/>
+　　　戲問花門酒家翁<lb/>
+老人七十仍沽酒千壷百甕花門口道傍榆<lb/>
+葉青似錢摘來沽酒君肯否<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

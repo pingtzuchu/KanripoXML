@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3a0052_WYG_011-1a"/>
+麗澤論說集録䟦<lb/>
+伯父太史説經唯讀詩記為成書後再刋定迄於公劉<lb/>
+之首章尚書自秦誓上至洛誥口授為講義其他則皆<lb/>
+講說所及而門人記録之者也伯父無恙時固嘗以其<lb/>
+多舛戒勿傳習而終不能止伯父殁流散益廣無所是<lb/>
+正然其大義奥指盖猶頼是以存而此編則先君子嘗<lb/>
+所裒輯不可以不傳也故今仍据舊録頗附益次比之<lb/>
+不敢輒為刪改若夫聴者之淺深記者之工拙則覽者<lb/>
+<pb n="KR3a0052_WYG_011-1b"/>
+當自得之喬季謹記<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>黙齋遺稿</head>
+    <p>
+<pb n="KR4d0329_WYG_000-1a"/>
+欽定四庫全書　　　　　集部四<lb/>
+　黙齋遺稿　　　　　　　别集類三<hi>宋</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹按黙齋遺稿二巻宋游九言撰九言<lb/>
+　　　　字誠之建陽人由古田尉知光化縣充荆鄂<lb/>
+　　　　宣武叅謀官端平中特贈直龍圖閣諡文靖<lb/>
+　　　　其集宋史藝文志不著錄此本為浙江鮑氏<lb/>
+　　　　知不足齋所藏凡詩一巻文一卷厲鶚宋詩<lb/>
+<pb n="KR4d0329_WYG_000-1b"/>
+　　　　紀事錄九言詩四首其前二首即採之此集<lb/>
+　　　　然所載金陵外野廢寺一首云池塘淡日蒹<lb/>
+　　　　葭冷籬落西風橘柚黄此本淡日作淡月橘<lb/>
+　　　　柚黄作橘柚香聴鄭三彈雙韻子歌一首云<lb/>
+　　　　眼前猶聴舊歌詞此本作眼中猶有漢威儀<lb/>
+　　　　均字句小異蓋傳寫者不一本也其餘美人<lb/>
+　　　　倚樓圖一首溪上一首則均為集中所不載<lb/>
+　　　　鶚從詩家鼎臠錄入而此本之末鮑氏又從<lb/>
+<pb n="KR4d0329_WYG_000-2a"/>
+　　　　劉大彬茅山志補錄詞三首從曹學佺宋詩<lb/>
+　　　　選及檇李詩繫諸書補錄詩六首疑此本亦<lb/>
+　　　　由掇拾而成故搜采有所未及歟其詩格不<lb/>
+　　　　甚高而時有晚唐遺韻不涉于生硬<graphic n="KR1166" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1166.png" mimeType="image/png"/>椏其<lb/>
+　　　　義靈廟迎享送神曲序記台州司戸滕膺拒<lb/>
+　　　　方臘之亂甚詳亦足以補史之闕也乾隆四<lb/>
+　　　　十三年四月恭校上<lb/>
+　　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+<pb n="KR4d0329_WYG_000-2b"/>
+　　　　　　　　　　　總校官<hi>臣</hi>陸費墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

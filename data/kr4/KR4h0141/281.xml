@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_281-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選巻二百八十一<lb/>
+　　榆類<lb/>
+　　　五言古<lb/>
+　　　　榆　　　　　　　　　　<hi>明</hi>吳　寛<lb/>
+　始我種三榆近在亭之左西日待隠蔽隂成客能坐七<lb/>
+　年長漸髙宻葉巳交鎻生錢聞可食貧者當果蓏其一<lb/>
+　忽憔悴嚙腹緣蟻蜾持斧欲伐之材未中船舵藤蔓方<lb/>
+<pb n="KR4h0141_WYG_281-1b"/>
+　附麗不伐亦自可古人無棄物守圃常用跛<lb/>
+　　　五言絶句<lb/>
+　　　　榆　　　　　　　　　　　<hi>宋</hi>張　耒<lb/>
+　修柯遇雲日老枿干虹霓嗟爾臃腫材大匠何見遺<lb/>
+　　　七言絶句<lb/>
+　　　　貧居春怨　　　　　　　　<hi>唐</hi>雍　陶<lb/>
+　貧居盡日冷風煙獨向簷牀看雨眠寂寞春風花落後<lb/>
+　滿庭榆莢似秋天<lb/>
+<pb n="KR4h0141_WYG_281-2a"/>
+　　　　榆錢　　　　　　　　　　<hi>宋</hi>孔平仲<lb/>
+　鏤雪裁綃箇箇圎日斜風定穏如穿憑誰細與東君說<lb/>
+　買住青春費㡬錢<lb/>
+　　　　春晚　　　　　　　　　　<hi>宋</hi>僧道潜<lb/>
+　疊穎叢條翠欲流午隂濃處聽鳴鳩兒童賭罷榆錢去<lb/>
+　狼藉春風漫不收<lb/>
+　　　　次韻答李擛之　　　　　　<hi>明</hi>王　弼<lb/>
+　榾柮爐頭擁薄綿嫩寒㣲雨暮春天不知詩思能多少<lb/>
+<pb n="KR4h0141_WYG_281-2b"/>
+　榆葉梨花巳滿前<lb/>
+　　　　無題　　　　　　　　　　<hi>明</hi>康　栗<lb/>
+　笑看海雲初起處吾家隠隱碧天隅何時跨鶴隨風去<lb/>
+　同與仙人坐白榆<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選巻二百八十一<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

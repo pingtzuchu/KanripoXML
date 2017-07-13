@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="1a"/>
+大廣益㑹玉篇卷第二十五<hi>凡十部</hi>
+︻䑕部三百九十九<hi>凡五十八字</hi>䑕<hi>式與切穴/蟲之緫名</hi>
+                    <graphic n="KR1338" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1338.png" mimeType="image/png"/>
+                    <hi>力乆切/似䑕大</hi>鼸<hi>胡簟切/田䑕/於革切䑕名</hi>
+鼫<hi>市亦切形大如䑕頭似兎尾有毛青黄色見尓雅</hi>䶄<hi>歩丁切/䑕/如勇切/䑕</hi>
+                    <graphic n="KR2794" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2794.png" mimeType="image/png"/>
+                    <hi>公/切班䑕</hi>
+                    <graphic n="KR2332" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2332.png" mimeType="image/png"/>
+                    <hi>力下切/<graphic n="KR2794" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2794.png" mimeType="image/png"/>属</hi>
+鼮<hi>徒㕔切漢武時有此䑕文如豹終軍識之賜絹百四</hi>鼶<hi>思移切/䑕名</hi>鼩<hi>巨于切小/鼱/䑕/同上</hi>鼱<hi>子盈切鼱鼩</hi>
+鼷<hi>下雞切小䑕也螫毒食人及鳥獸皆不痛今之甘口䑕也</hi>
+                    <graphic n="KR2332" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2332.png" mimeType="image/png"/>
+                    <hi>胡貪公含/二切蜥蜴/同上</hi>䶂<hi>之若切/䑕類</hi>
+                    <graphic n="KR3332" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3332.png" mimeType="image/png"/>
+                    <hi>人市切䑕名</hi>
+鼬<hi>弋救切䑕名郭璞云似䶅赤黃色大尾啖䑕江東呼爲</hi>鼣<hi>扶廢切/䑕名/同上/徒忽切鳥/䑕同穴</hi>鼭<hi>視之切䑕名父元切白䑕/一名公尾底蟲/胡的胡姪二/切似䑕而白</hi>䶆<hi>之惟切南/陽呼䑕云</hi>鼪<hi>所敬切/䑕名/公禄切/鼬䑕/補木切䑕名</hi>
+䶅<hi>胡各切䑕出胡地皮可為裘/吉役切䑕/身長須</hi>鼧<hi>大河切/䑕名/徒當切/䶈䑕名</hi>䶈<hi>布各切/䑕也</hi>
+                    <graphic n="KR2408" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2408.png" mimeType="image/png"/>
+                    <hi>子狥切鼫䑕</hi>
+鼢<hi>扶粉切地中行者曰鼹䑕</hi>鼤<hi>亡云亡運二/切班尾䑕/力知切/小䑕</hi>鼴<hi>於/切/人䑕/音兒/䑕也/歩靈切䑕也</hi>
+鼲<hi>胡昆古痕二切䑕名可以為/以救切似/䑕亦作鼬/即容切/䑕也</hi>䶇<hi>除乆切/䑕也/普木切/䑕也/音晹䑕也户吾切鼠黒身白腰/任緘切/音雀/䑕也/音刃/䑕也</hi>鼦<hi>丁乆切古貂也䑕也毛可爲裘子移切似雞䑕毛見即旱</hi>鼯<hi>午胡切鼯鼠/飛生或爲</hi>鼨<hi>之弓切/豹文䑕/籕文/於盖切/小䑕相衘而行</hi>
+︻易部四百<hi>凡二字</hi>易<hi>余赤切家也異也轉也変也又以豉切不難也/於革切䑕属/或作作</hi>
+<pb n="1b"/>
+︻虫部四百一<hi>五百二十五字</hi>虫<hi>盱鬼切一名蝮博三寸首大/如璧象其卧形又/介揔名</hi>雖<hi>息葵切似蜥蜴又詞两設也又推也</hi>
+蝮<hi>孚六切毒蛇蝮螫手則断</hi>螣<hi>徒曾真錦/二切神蛇</hi>螝<hi>胡對切/蠶蛹</hi>䗥<hi>子公切/螉䗥</hi>螉<hi>於公切小蜂又螉䗥牛馬皮中虫也</hi>
+蟯<hi>如消去消二切腹中蟲</hi>蚺<hi>如塩切大/蛇肉可食</hi>蛹<hi>與種切/者</hi>
+                    <graphic n="KR4205" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4205.png" mimeType="image/png"/>
+                    <hi>同上/俗</hi>虺<hi>呼鬼切户虺今以注鳴者亦爲蝮蟲</hi>
+螼<hi>丘忍切螼螾寒蚓也</hi>螾<hi>弋忍切/螼螾</hi>蚓<hi>同上</hi>蚯<hi>音丘/蚯蚓</hi>蝘<hi>於甗切蝘蛵在壁曰蝘蜓在草曰蜥蜴</hi>
+蟫<hi>大含弋針二切白魚蟲/子外所芮/二切蟲也</hi>蠸<hi>巨袁切/食瓜蟲</hi>蜭<hi>胡感切/毛蠧</hi>蜓<hi>大典切蝘蜓又音廷蟪蛄别名也</hi>
+蚔<hi>巨支切士蝱也亦作</hi>螟<hi>亡丁切食/苖心蟲</hi>䖯<hi>口圭切/蠆也</hi>蠆<hi>丑介切螫/蟲或作</hi>蠲<hi>古幺古迷二切蟲也明也除也又疾也</hi>
+蛅<hi>如占切尓雅䘃蛅蟴蛓属</hi>蟴<hi>息移切/蛅蟴</hi>蟖<hi>同上</hi>蛓<hi>七史切/毛蟲</hi>螆　蚝<hi>並同上</hi>
+蛣<hi>去吉切尔雅蝎蟾<graphic n="KR1298" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1298.png" mimeType="image/png"/>木中蠧虫</hi>
+                    <graphic n="KR1298" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1298.png" mimeType="image/png"/>
+                    <hi>丘勿切/蛣<graphic n="KR1298" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1298.png" mimeType="image/png"/>
+                    </hi>蜨<hi>山頰切/蜨蛺</hi>蛺<hi>古協切/蛺蝶</hi>螳<hi>徒郎切蝼/螳蜋有斧蟲一名石蜋</hi>
+蜋<hi>力當切螳蜋又音良/莫江切/蝼蝼/類</hi>蝚<hi>如尤切/蝼</hi>蠣<hi>力制切/属</hi>蚩<hi>尺之切蟲也又癡也笑也乱也才兮在梨二切螬亦作/蠐</hi>螬<hi>祖刀切/螬</hi>蟦<hi>扶非切/螬</hi>蠀<hi>在資切/蠀螬</hi>蟠<hi>扶元切䑕婦蟲又歩安切大也紂廻而轉曲也疾尤切蝤蝎木中蟲</hi>蝎<hi>胡葛切桑/中蠧蟲</hi>蜀<hi>市燭切桑/蟲亦作蠋</hi>螌<hi>布姦切螌蝥毒蟲也</hi>蝥<hi>莫交切螌蝥又莫侯/切食木根蟲又<graphic n="KR2212" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2212.png" mimeType="image/png"/>蛛</hi>
+蛑<hi>說文古文蝥又音牟蝤蛑</hi>蛵<hi>呼丁切負/勞又蜻蛉</hi>蛶<hi>吕說切蟲/名<graphic n="KR3208" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3208.png" mimeType="image/png"/>蚵</hi>蛉<hi>力丁切/蜻蛉</hi>蜻<hi>疾性切蚻也/也又子盈切蜻蛤</hi>
+䗐<hi>式移式豉二切米中黒甲虫</hi>強<hi>巨羊切米/中蠧小蟲</hi>蚚<hi>巨衣切/強蚚蟲</hi>螰<hi>力木切/螇螰</hi>螇<hi>胡雞切螇螰即蟪蛄/一名蛁蟧亦蜓也</hi>
+<pb n="2a"/>
+蜆<hi>户千户典二切小黒蟲</hi>蜥<hi>先的切蜥/蜴蠑螈也</hi>蜴<hi>羊益切/蜥蜴</hi>蠑<hi>永兵切/蠑螈</hi>蚖<hi>魚袁切螈</hi>螈<hi>同上</hi>
+蜰<hi>父非切蠦蜰即貟螌臭蟲</hi>蠦<hi>力胡切/蠦蜰</hi>蟣<hi>居豈切/蝨蟣</hi>螕<hi>𥙷兮切/牛蟲</hi>蠖<hi>於縛切/屈伸蟲</hi>蛾<hi>五何切𧖟蛾</hi>
+蠪<hi>力公切蠪虰蟲亦獸名</hi>虰<hi>丑經切/蠪虰也</hi>蟶<hi>同上</hi>螻<hi>力侯切/蝼蛄</hi>蛄<hi>古胡切/蟪蛄</hi>蛢<hi>歩丁切甲蟲</hi>
+蛬<hi>吉勇切蟋蟀亦名蜻蛚又音卭/同上</hi>蟋<hi>思栗切/蟋蟀/同上</hi>
+                    <graphic n="KR2186" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2186.png" mimeType="image/png"/>
+                    <hi>所/切/蟋蟲</hi>蟀<hi>同上</hi>
+蜙<hi>先恭切蜙蝑斯螽</hi>蚣<hi>同上又古/紅切蜈蚣</hi>蟥<hi>胡光切/蛢也</hi>
+                    <graphic n="KR1748" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1748.png" mimeType="image/png"/>
+                    <hi>市律切/蟥也</hi>蠓<hi>亡孔切/小飛蟲</hi>蠛<hi>亡結切蠛蠓</hi>
+蝑<hi>思閭思呂二切蚣蝑</hi>蝗<hi>胡光切記/蟲蝗爲灾</hi>蝡<hi>如兖切/動也/同上</hi>蜌<hi>步禮切/蚌長者</hi>蛂<hi>歩結切蟥蛢</hi>
+<graphic n="KR2577" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2577.png" mimeType="image/png"/>
+                    <hi>力約切蜉䖻渠<graphic n="KR2577" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2577.png" mimeType="image/png"/>朝生夕死</hi>蛚<hi>力結切蜻/蛚蟋蟀/呼鈴切/乗飛皃/尺戰切/蝇醜</hi>蚩<hi>丑善切/蟲伸行</hi>螸<hi>弋朱切/逢螸</hi>
+蜹<hi>汝銳切含毒蛇又蚊蜹又音/先公切/蛸喜子</hi>蛸<hi>所父切/蛸</hi>蝁<hi>於各切/蛛蝁/時力切/日月蝕/五各切似蜥蜴</hi>
+蛭<hi>之吉丁結二切水蟣</hi>蛘<hi>弋掌切蛘/搔又音羊</hi>蟺<hi>市衍切/蚓</hi>蟨<hi>居月切/北肩獸</hi>閩<hi>冒貧切/東南越</hi>蜉<hi>扶牛切蜉䖻</hi>
+蜎<hi>於犬於沿二切蜀皃</hi>蛻<hi>尸銳始悅/二切蛇皮</hi>蜧<hi>力計切/神蛇</hi>蜦<hi>同上</hi>䗡<hi>倚然切/蟲名</hi>蛒<hi>古額切蠙螬也</hi>
+蛤<hi>古合切雀入水爲蛤亦作<graphic n="KR2547" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2547.png" mimeType="image/png"/>
+                    </hi>蠗<hi>文卓切小/蜃或㺟字</hi>螊<hi>胡緘切小/蚌可食</hi>螷<hi>扶幸歩支/二切蛤也</hi>蚌<hi>歩頂切/蜃也</hi>蟜<hi>居兆切毒蟲</hi>
+螭<hi>丑支切无角如龍而黄</hi>虯<hi>竒樛切/無角龍</hi>蛟<hi>古爻切/蛟龍</hi>螹<hi>才廉切/螹螭也</hi>
+                    <graphic n="KR1386" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1386.png" mimeType="image/png"/>
+                    <hi>乎木切/蝼蛄</hi>螲<hi>知栗切蝼蛄</hi>
+蝸<hi>古華切蝸牛郎螔蝓</hi>螔<hi>弋支切螔/蝓螺也</hi>蝓<hi>餘味切/螔蝓</hi>蟾<hi>之廉切/蟾蠩</hi>䗁<hi>巨綺切/蟬也</hi>䗃<hi>仕板切馬䗃</hi>
+<pb n="2b"/>
+蟈<hi>古麥切蝼蝈蝦蟇又音國/父俱切毒/蛺水蟲</hi>蚹<hi>父句切/蜼蠃</hi>䘎<hi>音彎/虫名</hi>蜪<hi>它刀切尓雅蝝蠖蜪蝗子未有翅又音陶</hi>
+蝝<hi>推舡切蟻也亦蝗予</hi>蝯<hi>子元切蝯/猴或作猨/以朱切/虫也</hi>䖲<hi>詳遵切/虫也</hi>蠜<hi>父袁切阜螽也即蚣蝑又免蠜蜚也</hi>
+蟇<hi>莫加切蝦蟇亦作蟆</hi>蝦<hi>下加切/蝦蟇</hi>蟼<hi>居丙切/蝦蟇</hi>䗇<hi>臣六切/蟾蠩</hi>蟬<hi>市然切蜩也以旁鳴者蟬連系統之言也</hi>
+蜺<hi>午結午兮二切寒蟬</hi>蜩<hi>大么切/蟬也/同上</hi>蛥<hi>上列切/蛥蚗</hi>蚗<hi>胡夬古穴二切蛥蚗亦蟪蛄也</hi>
+蚼<hi>呼口巨俱二切蚍蜉</hi>蛩<hi>巨恭切巨虚/也又蟬蛻也</hi>螗<hi>大當切/蜩螗</hi>虮<hi>居指切/虫也</hi>蛆<hi>子魚切蝍蛆又且絮且余二切蝇蛆也亦作䏣</hi>
+蛕<hi>胡恢切人腹長蛕</hi>蚘蛔<hi>並同/上</hi>
+                    <graphic n="KR4048" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4048.png" mimeType="image/png"/>
+                    <hi>音文/虫名/音逶水/也</hi>蚑<hi>去豉切/行喙息麕鹿之類行也又音</hi>
+蟘<hi>徒得切食苗葉虫</hi>
+                    <graphic n="KR2048" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2048.png" mimeType="image/png"/>
+                    <hi>並同/上</hi>螫<hi>式亦切/蟲行毒/同上/刃畧呼各二切螫也痛也亦作蠚</hi>
+螘<hi>宜倚切蚍蜉/並同/上</hi>蟻<hi>同上/仁余切/虫名</hi>蜄<hi>市忍切大蛤也亦作蜃又市刃切</hi>
+螮<hi>丁計切螮蝀虹也</hi>蝃<graphic n="KR1340" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1340.png" mimeType="image/png"/>
+                    <hi>並同/上</hi>蝀<hi>丁孔切/螮蝀</hi>蚜<hi>火牙切/虫也</hi>蟄<hi>直立切藏也和集也蟄蟄多也又赤粒切</hi>
+蜷<hi>竒貟切蜷局也連蜷形</hi>䗋<hi>二同/音舞/音張/虫名/音哥/虫名</hi>蛫<hi>九毀切獸似/白身赤首說文蟹也</hi>
+蜼<hi>余季余救二切似猴而鼻仰尾長雨則懸於樹以尾塞鼻/歩登切/蟲也</hi>蚳<hi>丈飢切/蟻卵</hi>蠻<hi>馬姦切南方也蟲也慢也傷也</hi>
+蜏<hi>思又弋乆二切朝生暮死蟲生水上狀如𧖟蛾一名尊母</hi>蝬<hi>音㚇/蛤名</hi>蟹<hi>諧買切/螯八足</hi>蜮<hi>胡国切似鼈含沙射人爲害如狐也</hi>
+蝙<hi>布田切蝙蝠亦名蟙䘃又名仙䑕又名服翼</hi>蝠<hi>甫服切/蝙蝠</hi>蜽<hi>力掌力蝄/蜽或作魎</hi>蝄<hi>武兩切木石之精如小兒赤目羙人髪或作魍</hi>
+<pb n="3a"/>
+蜬<hi>古含胡甘二切小蠃見水中</hi>蜟<hi>余六切蝮/蜟蟬皮</hi>蠟<hi>力闔切/蜜滓</hi>蟪<hi>胡相切/蟪蛄</hi>
+                    <graphic n="KR1894" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1894.png" mimeType="image/png"/>
+                    <hi>於虯切<graphic n="KR1894" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1894.png" mimeType="image/png"/>虯龍/皃又于糾切</hi>蚴<hi>同上</hi>
+蟉<hi>力幽巨二切/蟉</hi>䖭<hi>居亥切䖭/蠣蛸䗚</hi>䗱<hi>歩木切/䗱/蟲/音速/䗱</hi>
+                    <graphic n="KR2602" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2602.png" mimeType="image/png"/>
+                    <hi>以淺切/螾<graphic n="KR2602" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2602.png" mimeType="image/png"/>/同上</hi>
+蝹<hi>於筠於云二切蜿蝹龍皃</hi>蚆<hi>普如布加/二切貝也</hi>蝍<hi>子力切/蝍蛆</hi>蜒<hi>以然切/蚰蜒</hi>蚰<hi>與周切蚰蜒/又入耳虫</hi>蝣<hi>同上</hi>
+<graphic n="KR2258" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2258.png" mimeType="image/png"/>
+                    <hi>於疑切寒蜩似蟬而小/巨隕去筠/二切貝也</hi>
+                    <graphic n="KR1853" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1853.png" mimeType="image/png"/>
+                    <hi>子亦切/貝狹小</hi>䖢<hi>亡消切/蠶初生/於冒切/虫也</hi>螱<hi>同上</hi>
+蝭<hi>丁兮大兮二切蝭蟧蟬也</hi>蟧<hi>力么切/蝭蟧/同上/杳句切/子公𧖟</hi>蠵<hi>戈規切觜<graphic n="KR1010" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1010.png" mimeType="image/png"/>以/蝳蝐而薄有文/同上</hi>
+蚡<hi>扶粉切亦作伯勞所作</hi>螖<hi>胡八切似/蟹而小</hi>蠌<hi>大名切/螖蠌蟲/大丁切/𧖟二眠</hi>蝥<hi>音務蟲名/又音牟/同上</hi>
+<graphic n="KR2785" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2785.png" mimeType="image/png"/>
+                    <hi>所竒切螺也力之切蚍蜒</hi>䖡<hi>女六切蛆/蚭班蛬</hi>蚭<hi>女尼切/蛆蚭</hi>䗅<hi>雉良切/蚰蜒</hi>虹<hi>胡公切螮蝀/又音絳縣名/籕文</hi>
+蛙<hi>胡媧切蝦蟇又烏瓜切</hi>虴<hi>竹百切蚭/蝢蟅/蟲</hi>蛨<hi>亡百切/蛨虴</hi>
+                    <graphic n="KR3208" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3208.png" mimeType="image/png"/>
+                    <hi>户錫切/<graphic n="KR3208" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3208.png" mimeType="image/png"/>
+                    </hi>蚎<hi>音曰虫名</hi>
+                    <graphic n="KR1209" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1209.png" mimeType="image/png"/>
+                    <hi>同上</hi>
+蝜<hi>扶缶切蝜大如蜆有毒/補故切/蝜</hi>蚅<hi>於革切/螐蠋也</hi>螐<hi>於胡切/螐蠋</hi>蠋<hi>之欲切螐/蠋又音蜀</hi>蠾<hi>同上</hi>
+蚤<hi>子老切咬人跳蟲又作䘇</hi>䗚<hi>布莫切䗚/蟭蜱蛸也</hi>蟭<hi>子饒切/䗚蟭蟲/先狄切/蝢䖤</hi>蜯<hi>歩項切/蜯蛤也</hi>蚌<hi>同上</hi>
+蟡<hi>於爲切似蛇又音詭</hi>蚵<hi>胡多切蚵/蠪蜥蜴/七狄切/蟾蠩</hi>蠙<hi>步田切/珠名/即刃切/海虫</hi>䗯<hi>同上</hi>
+蝐<hi>亡代切蝳蝐又莫沃切</hi>蚕<hi>天殄切蜸/蚕/蟺也</hi>蜸<hi>口殄切/蜸𧖟</hi>䘃<hi>亡北切/蟙䘃</hi>蟙<hi>之力切北燕呼/蝙蝠為蟙䘃/同上</hi>
+䗘<hi>公盍切廣雅云羊䗘/徒合切/䗘</hi>蝂<hi>自限切/䗚/也</hi>蟞<hi>俾烕切/亦作鼈</hi>繭<hi>古典切𧖟繭</hi>蠒<hi>俗</hi>
+<pb n="3b"/>
+蟓<hi>似两式亮二切桑蠶</hi>
+                    <graphic n="KR0977" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0977.png" mimeType="image/png"/>
+                    <hi>之戎切蝗/也亦作螽</hi>蚞<hi>莫十切/螇螰子</hi>
+                    <graphic n="KR2209" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2209.png" mimeType="image/png"/>
+                    <hi>直六切/馬蚿</hi>蠁<hi>許兩切禹虫/說文知声虫</hi>䖮<hi>同上</hi>
+䖻<hi>力田切蜉䖻又弋留切</hi>蜘<hi>竹竒切蜘/蛛亦作鼄</hi>蛛<hi>竹于切/亦作鼄/扶乆切/螽也</hi>蛁<hi>丁公切蟪蛄/即蛁/虫</hi>虭<hi>同上</hi>
+蚱<hi>莊頟切蚱蟬七月生</hi>虶<hi>於于切蛈/虶螠蜒也</hi>螓<hi>疾鄰切/螓蜻</hi>蜈<hi>力呼切/蜈蚣</hi>蝒<hi>弥縁切尓雅馬/蜩中最大者/同上</hi>
+䗗<hi>古奚切甘田切螢火蛾也</hi>螔<hi>思移切螔/䗔佢蜥蜴</hi>䗔<hi>音侯/螔䗔</hi>蝖<hi>許元切/蠀螬</hi>蟷<hi>多郎切蟷/螳蜋别名/同上</hi>
+蠰<hi>乃郎思亮二切齧桑蟲/古卧古禾/二切蟷蠰/式容女/黍蜙蝑/子票切/蜻</hi>螵<hi>毗支切螵蛸螳/蜋子又撫昭切</hi>蜱<hi>同上</hi>
+蛸<hi>思么切蟬蛸螳蜋</hi>蜣<hi>丘良切蜣/蜋啖糞蟲/同上又/其虐切</hi>蛝<hi>乎問切/馬蠲也</hi>蟅<hi>之夜切䑕/婦負蠜也</hi>䗪<hi>同上</hi>
+蟿<hi>口悌切蟿螽螇蚸似蚣䗥</hi>蚸<hi>蚩亦力的/二切螇蚸/於招切/毒蛇名</hi>蝛<hi>於帰切/蛜蝛</hi>蛜<hi>音伊蛜蝛/委黍也</hi>
+                    <graphic n="KR2212" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2212.png" mimeType="image/png"/>
+                    <hi>同上</hi>
+蚊<hi>亡云切咳人飛蟲作蟁䘇/巨由切/虫亦作蛷/古姪切/蠸</hi>䗓<hi>千公切/蜻蛉/古火切/蠃細/腰蜂即蠮螉</hi>蜾<hi>同上</hi>
+蠃<hi>力果切蜾蠃力弋切蜯属</hi>
+                    <graphic n="KR1598" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1598.png" mimeType="image/png"/>
+                    <hi>魯丁切螟/<graphic n="KR1598" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1598.png" mimeType="image/png"/>桑蟲</hi>蚿<hi>胡田切/馬蚿</hi>蜝<hi>巨冝切/蟚蜝</hi>蟚<hi>歩庚切似/蟹而小</hi>蟛<hi>同上</hi>
+蚢<hi>胡唐切蟲類食蒿葉</hi>蝩<hi>文㳟切𧖟/晩生也</hi>蜢<hi>莫梗切/蟲名</hi>蚥<hi>力父切/蟾蠩</hi>螢<hi>于䮐切夜飛腹下/有光腐草所化/同上</hi>
+<graphic n="KR2598" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2598.png" mimeType="image/png"/>
+                    <hi>直連切盧<graphic n="KR2598" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2598.png" mimeType="image/png"/>守宮也</hi>蝟<hi>于貴切蟲/也亦作彚</hi>䗠<hi>似縁切/<graphic n="KR3417" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3417.png" mimeType="image/png"/>䗠</hi>
+                    <graphic n="KR3207" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3207.png" mimeType="image/png"/>
+                    <hi>同上</hi>
+                    <graphic n="KR3417" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3417.png" mimeType="image/png"/>
+                    <hi>婢治切<graphic n="KR3417" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3417.png" mimeType="image/png"/>/䗠<graphic n="KR0881" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0881.png" mimeType="image/png"/>蝨/同上</hi>
+蜫<hi>古魂切蟲衆各亦作䖵</hi>䖪<hi>徂核子尓/二切蟲也</hi>蝰<hi>口圭切/蝰</hi>蠍<hi>許謁切/螫人蟲/於結切/螉</hi>蠮<hi>同上</hi>
+螒<hi>胡旦切天雞也一名渉雞</hi>䗽<hi>以季切蛘/也蚲也</hi>蚲<hi>皮兵切/蚲䗽</hi>蜿<hi>於阮於元二切蜿蜒龍/皃又蜿螾又於丸切</hi>䖤<hi>同上</hi>
+<pb n="4a"/>
+<graphic n="KR1874" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1874.png" mimeType="image/png"/>
+                    <hi>他敦切<graphic n="KR1874" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1874.png" mimeType="image/png"/>
+                        <graphic n="KR1599" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1599.png" mimeType="image/png"/>虫似蟬而長/味辛美可食又名青蚨</hi>
+                    <graphic n="KR1599" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1599.png" mimeType="image/png"/>
+                    <hi>牛俱切<graphic n="KR1874" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1874.png" mimeType="image/png"/>
+                        <graphic n="KR1599" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1599.png" mimeType="image/png"/>
+                    </hi>蜅<hi>方武切蜅觜蟹</hi>
+                    <graphic n="KR1416" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1416.png" mimeType="image/png"/>
+                    <hi>冝列切獸禽虫蝗之/怪謂之<graphic n="KR1416" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1416.png" mimeType="image/png"/>或作孽</hi>
+<graphic n="KR1414" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1414.png" mimeType="image/png"/>
+                    <hi>余雖切肥<graphic n="KR1414" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1414.png" mimeType="image/png"/>蛇一身二首六足/四翼見則大旱湯時見陽山下</hi>蚟<hi>禹方切<graphic n="KR1853" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1853.png" mimeType="image/png"/>
+                    </hi>蠊<hi>力古切/飛蠊</hi>蜚<hi>扶貴切獸如半目/又蜚也又音非</hi>
+蚢<hi>胡唐切虫類食蒿葉/七由切次</hi>蜲<hi>於詭切/蜲<graphic n="KR2114" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2114.png" mimeType="image/png"/>/式與切/蜲</hi>蟒<hi>暮黨切大蛇也又莫哽切蟅蟒也古頡切蚼/似蟬而小</hi>蜊<hi>音梨/蛤蜊</hi>螿<hi>子羊切/寒蟬属</hi>蝪<hi>恥郎切/蛈蝪</hi>蛈<hi>他結他計二切螲蟷也亦蛈蝪</hi>
+螯<hi>五刀切蟹螯或作<graphic n="KR1722" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1722.png" mimeType="image/png"/>
+                    </hi>蠼<hi>音瞿/蠼</hi>
+                    <graphic n="KR2222" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2222.png" mimeType="image/png"/>
+                    <hi>音范/蜂也/力支切/螏/才一切/蝍蛆能食蛇亦名蜈蚣午乎切似䑕大亦作</hi>䗏<hi>所由切/亦作螋/力竹切/魁/也</hi>蚍<hi>音毗蚍/蜉大螘</hi>螃<hi>北郎力莖二切似蝦蟇而大</hi>
+螚<hi>乃多奴來二切俗態/鼈属/音甫/虫名/公戾切/継蝧</hi>
+                    <graphic n="KR3844" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3844.png" mimeType="image/png"/>
+                    <hi>乃令切/<graphic n="KR3844" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3844.png" mimeType="image/png"/>/古逈切/<graphic n="KR3844" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3844.png" mimeType="image/png"/>似蛙而小觸之腹脹害人徒登切蟲食禾葉/户㳙切/蟲名</hi>蛞<hi>胡括切/蛞</hi>蜍<hi>与諸切/蝳蜍</hi>蝳<hi>徒駕切蝳蜍形似蜘蛛又徒耐切</hi>
+蜡<hi>子亦切虫名又䄍同祭名/音泉/貝也</hi>蝶<hi>徒頰切/胡蝶</hi>蜜<hi>弥畢切/蜂所作/徒酷切古文毒字害也惡也恚也</hi>
+蝃<hi>知劣切又音拙蜘蛛</hi>蟮<hi>是演切/曲蟮</hi>蚻<hi>側轄切/蜻蜻也</hi>蟂<hi>古公切/水蟲</hi>䖺<hi>大公切如黃蛇魚翼見則大旱岀山海經</hi>
+蠞<hi>子結切又音截似蟹</hi>蛡<hi>音詡/蟲名</hi>
+                    <graphic n="KR2241" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2241.png" mimeType="image/png"/>
+                    <hi>於尤切/䑕<graphic n="KR2241" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2241.png" mimeType="image/png"/>
+                    </hi>
+                    <graphic n="KR2708" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2708.png" mimeType="image/png"/>
+                    <hi>房中切/蟲窟</hi>
+                    <graphic n="KR2104" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2104.png" mimeType="image/png"/>
+                    <hi>子六切蝍<graphic n="KR2104" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2104.png" mimeType="image/png"/>尺蠖也歩屈也</hi>
+蜇<hi>陟列切虫螫亦作蛆/且主切/蟲名/息弓切/蟲名</hi>赨<hi>羽弓切/赤蟲名</hi>䖳<hi>除嫁切形如覆笠常浮隨水亦作膾竹洽切班身小蝱</hi>䗄<hi>力禹切/蟲名/力貟切/蟲名</hi>蚷<hi>強魚切蟲名</hi>蛦<hi>以脂切<graphic n="KR2209" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2209.png" mimeType="image/png"/>蛦虫/名又<graphic n="KR1874" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1874.png" mimeType="image/png"/>蛦山雞</hi>
+<pb n="4b"/>
+蜐<hi>音劫石蜐似/脚/色江切/蟲名/以射切/蟲名</hi>
+                    <graphic n="KR4389" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4389.png" mimeType="image/png"/>
+                    <hi>户夬切/蟲名</hi>䗢<hi>音造/蟲名/音費蟲名</hi>
+虳<hi>九勿切又音的䑕也</hi>蝞<hi>眉秘切/似蝦</hi>螠<hi>音縊/蟲名/丘貴切/蟲名/且利切/似蜘蛛</hi>蟃<hi>無販切蝢蛉虫</hi>
+虵<hi>食遮切毒虫正作蛇/弥民切/蟲名/音異又/音弋虫</hi>蛠<hi>音麗/蟲名</hi>䗲<hi>力刃切/螢火/音㵼又音冩</hi>
+<graphic n="KR1526" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1526.png" mimeType="image/png"/>
+                    <hi>普流切似蟹二足</hi>蟩<hi>居月切/井中虫</hi>
+                    <graphic n="KR2171" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2171.png" mimeType="image/png"/>
+                    <hi>大西切/蟲名/莫格切/小蚊虫</hi>
+                    <graphic n="KR1699" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1699.png" mimeType="image/png"/>
+                    <hi>五忽切/以蟹</hi>䖩<hi>毗必切黒蜂苦紅切蟬脫/皮也</hi>蚇<hi>音尺蚗/蠖虫/乆力切/蟲食</hi>䗷<hi>於力切/小蜂/音賊食/禾/虫/音見蟲名</hi>
+䗛<hi>音蕭又音脩虫名/營隻切/蟲/音色/蟲名/音禄似/蜥蜴</hi>蛐<hi>音曲/蛐蟮</hi>蜶<hi>索没切蟲名</hi>
+蝌<hi>苦禾切蝌蚪蛞/子</hi>蚪<hi>當口切/蜊蚪</hi>螺<hi>音騾/蜯類/大西切/蟲名</hi>[加/虫]<hi>古牙切/米中蟲</hi>蚶<hi>火其切蜯属</hi>
+<graphic n="KR3087" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3087.png" mimeType="image/png"/>
+                    <hi>昨仙切方言云鳴蟬也</hi>䗝<hi>自含切/俗𧖟字</hi>䗵<hi>記良切/䗵蚕</hi>䖱<hi>去王切/大蟲</hi>螂<hi>魯當切/蟲也</hi>䗧<hi>音康蜻蛉也呼典切蟲名</hi>䖟<hi>陌庚切/蟲名</hi>
+                    <graphic n="KR1173" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1173.png" mimeType="image/png"/>
+                    <hi>火咸切/似蛤</hi>蝚<hi>音柔/蟲名/音雷/蟲名/音叢蟲名側尢切蟲名</hi>䗼<hi>許云切/蟲也/而容切/蟲名/音枝/蟲名</hi>蝔<hi>古諧切/蟲名胡求切古杏切蟲名</hi>蚽<hi>薄碑切/蟲名/音難/蟲也/音刑/蟲/音袴/虫名/步如切蟲</hi>
+虸<hi>即李切蟲名/鳥合切/蟲名</hi>䗜<hi>音流蟲/名/音該/蟲名/力之切/蟲名</hi>蚾<hi>薄碑切蟲名</hi>
+蚷<hi>音巨又音渠</hi>䘂<hi>子廉切/蟲名/息淺切/蟲名</hi>
+                    <graphic n="KR2980" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2980.png" mimeType="image/png"/>
+                    <hi>音尹/蟲名</hi>䗆<hi>音官又/音綰/佗典切蟲也</hi>
+<pb n="5a"/>
+䗂<hi>呼古切蟲也</hi>蟢<hi>許紀切/蟢子</hi>蛃<hi>兵永/切蟲/職以/切蟲</hi>螞<hi>莫下/切蟲/音野蟲也</hi>
+䖧<hi>奴葛切痛也蠚也</hi>
+                    <graphic n="KR3470" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3470.png" mimeType="image/png"/>
+                    <hi>居表切/又音告/音養/蟲名/音弩/蟲名/先名/切蟲</hi>
+                    <graphic n="KR3479" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3479.png" mimeType="image/png"/>
+                    <hi>音畧蟲名</hi>
+䘆<hi>許偃切寒䘆即蚯蚓/胡瓜切/大蛇/尺尚切/俗蠰字/芳伏切/蟲名/音同/蟲也</hi>蟽<hi>音逹蟲名</hi>
+︻䖵部四百二<hi>凡四十二字</hi>䖵<hi>古魂切蟲之/緫名亦作蜫/五何切𧖟/亦作哦/知蹇蟲名</hi>
+蠡<hi>力兮力底二切蠡蠡行列皃薄之扁欲破也飄也又力戈切</hi>𧖟<hi>在含切/吐絲者</hi>
+                    <graphic n="KR4594" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4594.png" mimeType="image/png"/>
+                    <hi>於甗切/蜒或作蝘</hi>蝱<hi>莫庚切蟁/也俗作蝱/音巴蟲也栘切蟲蛸亦作蜱/子老切/蝨亦作蚤</hi>螽<hi>之戎切/蝑屬/古文/手列切蜩似/而小俗謂茅蠽小蜩巨午切多足蟲亦作</hi>蟊<hi>亡侯切螣/也或作䖥/之悅切/蟊/乃丁切/蟲也</hi>蝨<hi>所乙切淮南子曰陽沐旣貝蟣蟊相弔</hi>
+蠢<hi>尺尹切動也作也或作/偆/在刀切/今作螬/戸瞎切/螻蛄</hi>螶<hi>巨於切/螶<graphic n="KR2577" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2577.png" mimeType="image/png"/>也</hi>蠭<hi>孚容切螫人/飛虫今作蜂</hi>
+                    <graphic n="KR1123" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1123.png" mimeType="image/png"/>
+                    <hi>古文</hi>
+䘅<hi>乃北乃代二切似蝱而小/父尤切亦/作蜉大/子兖切/蟲食/於力切/小蠭/亡吉切勉也又/<graphic n="KR1123" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1123.png" mimeType="image/png"/>目飴今作蜜</hi>
+                    <graphic n="KR3900" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3900.png" mimeType="image/png"/>
+                    <hi>同上徒何切狀如人羊角虎爪</hi>
+                    <graphic n="KR1849" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1849.png" mimeType="image/png"/>
+                    <hi>時忍切亦/作蜃大蛤/於貴切/飛螘</hi>䘌<hi>女乙切/小蟲</hi>蟁<hi>亡云切齧人/飛蟲今作蚊/同上</hi>
+蠯<hi>歩幸切蚌蛤也或作蠯<graphic n="KR2707" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2707.png" mimeType="image/png"/>
+                    </hi>䘍<hi>丑介切毒/蟲或作蠆</hi>䗣<hi>胡監切/瓜蟲</hi>[蠢-春+原]<hi>牛袁切/晚蠶</hi>蠹<hi>丁護切才中/虫又白魚</hi>螙<hi>古文</hi>
+︻蟲部四百三<hi>凡七字</hi>蟲<hi>除中切有足曰蟲無足曰豸/婢脂切/蜉/大蟻或作蚍/同上莫侯切与䖥蟊同/扶畏切大/或作蜚</hi>蠱<hi>公戸切事也毒也或/曰榖乆積変爲飛蟲/力刃切蟁也</hi>
+<pb n="5b"/>
+︻它部四百四<hi>凡三字</hi>它<hi>恥何切蛇也上古草居畏它故相問无它乎又非也異也今作佗</hi>
+蛇<hi>同上今市遮切又弋支切詩云蛇蛇碩言/恥支切今作螭</hi>
+︻龜部四百五<hi>凡五字</hi>龜<hi>居逵切文也進也外骨内肉天无雄以蛇爲雄又貨之寳也古文而三切龜甲邊或作</hi>䶱<hi>之戎徒冬/二切䶱龜/烏郎切臨海水吐氣觜似鵝指瓜</hi>
+︻黽部四百六<hi>凡十八字</hi>黽<hi>眉耿切蝦蟇屬似青/蛙而大腹又多士/籕文</hi>蠅<hi>余陵切青蠅</hi>
+<graphic n="KR1434" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1434.png" mimeType="image/png"/>
+                    <hi>七由七狄二切蟾蠩似蝦蟇</hi>鼈<hi>卑㓕切龜/属或作蟞</hi>鼉<hi>徒何切江水多似蜥蜴/天者有鱗采皮可爲鼓</hi>鼅<hi>音知鼅鼄/或作</hi>鼄<hi>音株或作</hi>
+鼃<hi>胡媧切蝦蟇今作蛙</hi>䵷<hi>同上</hi>鼇<hi>牛髙切傳曰有神靈之/鼇皆負蓬萊山在海中</hi>黿<hi>魚表切/似鼈大/胡雞切水虫</hi>
+鼂<hi>中橋切蝘鼂虫名/古文</hi>鼊<hi>音壁<graphic n="KR1314" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1314.png" mimeType="image/png"/>鼊似龜而大/文如瑇瑁可飾物/其拘切屬又音鈎</hi>
+                    <graphic n="KR1314" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1314.png" mimeType="image/png"/>
+                    <hi>同上</hi>
+︻卵部四百七<hi>凡五字</hi>卵<hi>力管切凡物无乳者邜生/口木切/卵空/芳子切卵化徒木切卵内敗也/大亂切不成子曰</hi>
+︻貝部四百八<hi>凡百四十四字</hi>貝<hi>布外切海介虫大貝如車渠肉如科/斗但有頭尾又貝甲也古貨貝宝龜</hi>
+                    <graphic n="KR2639" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2639.png" mimeType="image/png"/>
+                    <hi>先果切貝声</hi>
+賀<hi>何佐切以礼物相慶賀</hi>贏<hi>余成切利/也有餘也</hi>贅<hi>之銳切賣人子与人爲贅子又以物/質錢也最也得也聚也定也属也</hi>貺<hi>詡誰切賜也</hi>
+贛<hi>古送切賜也古禪切縣名</hi>賝<hi>丑林切宝/色亦作琛</hi>賢<hi>下田切有善行也多也益也能也持心也又下見切義見考工記</hi>臤<hi>古文</hi>
+<pb n="6a"/>
+賁<hi>彼寄切飾也徵也又布門切虎賁勇士又扶非切人姓</hi>賑<hi>之忍切/冨也</hi>䝩<hi>同上</hi>䞈<hi>凡僞切賭也/亦古貨字</hi>
+                    <graphic n="KR2274" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2274.png" mimeType="image/png"/>
+                    <hi>同上</hi>
+齎<hi>子兮切行道所用也持也備也給與也付也子期切歎辝</hi>賷<hi>俗</hi>財<hi>在來切貨/也賂也</hi>賄<hi>呼罪切贈/送財也/同上</hi>
+貸<hi>他代切施也假也借盈也以物与人更還生也</hi>貣<hi>他得切/從人求</hi>買<hi>亡蟹切/市買也</hi>賣<hi>余六切衒也/或作粥鬻/古文</hi>
+負<hi>浮九切擔也置之於皆也違恩忘德也或作偩</hi>賂<hi>力故切/遺也</hi>賻<hi>扶句切以/財助䘮也</hi>賵<hi>孚鳯切凡/贈䘮曰賵/同上</hi>
+質<hi>之逸切信也主也平也璞也軀也又知異切</hi>賮<hi>才忍切/財貨</hi>貱<hi>悲僞切/益也</hi>賧<hi>吐濫切蛮夷/以財贖罪/同上</hi>
+費<hi>孚味切損也用也惠也耗也又扶味切姓也</hi>責<hi>壯革切/求也/古文</hi>贖<hi>市燭切又市注切質也以財拔罪也</hi>
+贎<hi>忘怨切又力制切貨也</hi>貨<hi>呼卧切賣/金玉曰貨</hi>貿<hi>亡侯切/中賣</hi>貧<hi>皮旻切/之財</hi>賈<hi>公户切商賈也聚也又古雅切姓也戸羊切賈亦作商</hi>資<hi>子夷切取/也用也</hi>貶<hi>碑撿切/减損也</hi>賃<hi>女禁切/借傭也</hi>貳<hi>而志切副也代也疑也並也離也畔也</hi>
+貦<hi>牛亂切亦作玩好也/弋證切以/物相贈送</hi>賭<hi>丁古切/䞈也</hi>䞁<hi>於獻切/物相當</hi>賚<hi>力代切与也賜也勞賚爲勑字今作顂</hi>
+賞<hi>戸掌切賞賜有功也</hi>賜<hi>思漬切惠/也施也</hi>貾<hi>除基切/余眡貝/竹几切/當也</hi>贈<hi>在鄧切以玩好相送又助生送死</hi>
+賤<hi>才箭切價少也卑也不貴也</hi>貤<hi>余豉切貱/也益也</hi>贇<hi>於倫切/美也/汝兖切/小有財</hi>貲<hi>子離切小罰以財曰贖也財也貨也</hi>
+賖<hi>始遮切貰也不交賣也</hi>貰<hi>侍夜切賖/也貸也</hi>䝮<hi>胡狷切/今作衒</hi>賆<hi>歩田切/益也</hi>賕<hi>巨留切以財在法相謝也質也請也</hi>
+購<hi>古候切以財有所求償</hi>貪<hi>他含切欲/也惏也/思徇切/益也/都勒切/今作得</hi>賅<hi>乎改古才二切竒也非常也亦作侅</hi>
+<pb n="6b"/>
+賛<hi>子旦切佐也遵也助也/也</hi>贊<hi>說文/賛/婢丗切/今作弊</hi>䝶<hi>力章切/䝶賦也</hi>
+                    <graphic n="KR1714" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1714.png" mimeType="image/png"/>
+                    <hi>力艶切/市先入</hi>賥<hi>思醉切亦作粹</hi>
+賔<hi>卑民切敬也客也服也從也</hi>賓<hi>說文/賔/古文/於兩切/無訾</hi>貹<hi>山敬切/財也</hi>䝻<hi>姜魚切賣也</hi>
+賦<hi>方務切稅也布也量也/使吕切以/賣財問卜</hi>贓<hi>作郎切/藏也</hi>賳<hi>子才切/貨也</hi>䝭<hi>古候切/廪紿/音綿䞁也</hi>
+貢<hi>公送切通也献也稅也賜也</hi>賨<hi>在宗切蛮/賦也稅也</hi>
+                    <graphic n="KR3402" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3402.png" mimeType="image/png"/>
+                    <hi>疾盈切/賜也</hi>賰<hi>式尹切賱/賰冨有也</hi>賱<hi>於尹切/賱賰</hi>䩀<hi>皮秘切壯䩀</hi>
+賙<hi>之由切給也贍也收也</hi>䞀<hi>呼日切龍/目岀江海</hi>䝫<hi>才惡切/貨也</hi>賟<hi>他典切/冨也</hi>贔<hi>米袐切贔/屓有力也</hi>屓<hi>虚器切贔屓</hi>
+貴<hi>居謂切髙也尊也多價也</hi>䝿<hi>說文/貴</hi>贉<hi>徒感切/預入錢</hi>販<hi>方万切賤/買貴買/力侯切/貪也</hi>䞆<hi>先卧切骨</hi>
+貽<hi>弋之切玄貝亦作詒遺也</hi>贍<hi>市艶切周/也假助也</hi>贚<hi>良用切貧/也又龍皃</hi>賏<hi>於敬於庚/二切節也</hi>瞰<hi>火監切有/賄/也/而晋切牢也</hi>
+贆<hi>卑遥切貝居陸賧也</hi>䝹<hi>烏欵切䝹/小財皃/乎管切/䝹</hi>䞋<hi>音襯/䞋錢/刃政切/賣不得</hi>䝬<hi>音註財䝬</hi>
+䝰<hi>直凡切或作痔古作畤</hi>賲<hi>布老切有/也亦作宲</hi>賶<hi>七浪切/積貨/音林/取也/巨律/切</hi>䝱<hi>音協財也</hi>
+䝺<hi>古玩切穿也今作貫</hi>贀<hi>于閑切㛪/挐或作䜜</hi>䝧<hi>眉巾切本/作譄筭稅</hi>貼<hi>天叶切以/物取錢</hi>賉<hi>先筆切分/賑亦䘏字/烏邁切/貯也力賑切貪也也或作遴/徒䧟切錯/也重賣也</hi>賊<hi>昨則切/刧人</hi>賽<hi>先再切/報也/市肺/賦歛</hi>贗<hi>吾安切不直</hi>
+貯<hi>知吕切盛也積也収也藏也</hi>贄<hi>脂利切執玉/帛亦作摯/火营切/貨也</hi>䞄<hi>方廟切散匹帛/与三軍或字</hi>
+大廣益㑹玉篇卷第二十五<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

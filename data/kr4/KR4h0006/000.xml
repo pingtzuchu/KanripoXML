@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>玉臺新詠考異</head>
+    <p>
+<pb n="KR4h0006_WYG_000-1a"/>
+欽定四庫全書　　　　　集部八<lb/>
+　玉臺新詠考異　　　　　總集類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案玉臺新詠考異十巻<lb/>
+　　　國朝紀容舒撰容舒有孫氏唐韻考已著錄是<lb/>
+　　　　編因徐陵玉臺新詠自明代以來刋本不一<lb/>
+　　　　非惟字句異同即所載諸詩亦復参差不一<lb/>
+　　　　萬厯中張嗣修本多所増竄茅國縉本又併<lb/>
+<pb n="KR4h0006_WYG_000-1b"/>
+　　　　其次第亂之而原書之本真益失惟寒山趙<lb/>
+　　　　宦光所傳嘉定乙亥永嘉陳玉父本最為近<lb/>
+　　　　古近時馮舒本據以校正差為清整然舒所<lb/>
+　　　　校有宋刻本悮而堅執以為不悮者如張衡<lb/>
+　　　　同聲歌訛恐慄為恐瞟訛莞蒻為苑蒻之類<lb/>
+　　　　亦以古字假借曲為之説既牽强而難通有<lb/>
+　　　　宋刻不悮而反以為悮者如蘇武詩一首舊<lb/>
+　　　　本無題而妄題為留别妻之類復偽妄而<lb/>
+<pb n="KR4h0006_WYG_000-2a"/>
+　　　　無據又有宋刻已悮因所改而益悮者如塘<lb/>
+　　　　上行據宋書樂志改為魏武帝之類全與原<lb/>
+　　　　書相左彌失其真皆不可以為定故容舒是<lb/>
+　　　　編参考諸書裒合各本倣韓文考異之例兩<lb/>
+　　　　可者並存之不可通者闕之明人刋本雖於<lb/>
+　　　　義可通而於古無徴者則附見之各箋其棄<lb/>
+　　　　取之由附之句下引證頗為賅備他如塘上<lb/>
+　　　　行之有四説劉勲妻詩之有三説蘇伯玉妻<lb/>
+<pb n="KR4h0006_WYG_000-2b"/>
+　　　　詩誤作傅元吴興妖神詩誤作姣童徐悱詩<lb/>
+　　　　悮作悱妻其妻詩又誤作悱梁武帝詩誤作<lb/>
+　　　　古歌以及徐幹室思本為六首楊方合歡實<lb/>
+　　　　共五篇與王融徐陵之獨書字昭明太子之<lb/>
+　　　　不入選梁代帝王與諸臣並列之類考辨亦<lb/>
+　　　　頗詳悉雖未必一一復徐陵之舊而較明人<lb/>
+　　　　任臆竄亂之本則為有據之文矣乾隆四十<lb/>
+　　　　五年七月恭校上<lb/>
+<pb n="KR4h0006_WYG_000-3a"/>
+　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+<pb n="KR4h0006_WYG_000-4a"/>
+玉臺新詠考異原序<lb/>
+六朝總集之存於今者文選及玉臺新詠耳文選盛行<lb/>
+而玉臺新詠則在若隠若顯間其不亡者幸也自明以<lb/>
+來無善本趙靈均之所刻馮黙菴之所校悉以嘉定宋<lb/>
+刻為鼻祖然觀所載陳玉父䟦則傳冩踳駮自宋已然<lb/>
+䟦又稱得石氏錄本補亡校脱然則竄亂舊本未必不<lb/>
+始於斯時陳氏兹刻盖亦功過参半矣崇禎癸酉距今<lb/>
+百有餘載意其書已不存乾隆壬申忽於常熟門人家<lb/>
+<pb n="KR4h0006_WYG_000-4b"/>
+得之紙墨完好巋然法物摩挲逺想如見古人然亦時<lb/>
+時有訛字馮鈍吟云宋刻是麻沙本故不佳信矣乙亥<lb/>
+六月余自雲南乞養歸檢㸃藏書多所散佚惟幸是本<lb/>
+之僅存林居無事稍理舊業偶取閲之喜其去古未逺<lb/>
+尚有典型終勝於明人臆改之本用参校諸書仿韓文<lb/>
+考異之例各箋其棄取之由附之句下兩可者並存之<lb/>
+不可通者闕之雖可通而於古無徵者則别附註之丹<lb/>
+黄矻矻盖四閲月乃粗定耗日力於綺羅脂粉之詞殊<lb/>
+<pb n="KR4h0006_WYG_000-5a"/>
+為可惜然鄭衛之風聖人不廢苟心知其意温柔敦厚<lb/>
+之㫖亦未嘗不見於斯焉乾隆丁丑二月廿一日河間<lb/>
+紀容舒序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

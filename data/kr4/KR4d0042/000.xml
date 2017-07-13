@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4d0042_SBCK_000-1a"/>
+直講李先生文集序<lb/>
+孔子没千有餘祀斯文衰敝其間作者孟<lb/>
+軻荀卿賈誼董仲舒揚雄王通之徒異代<lb/>
+相望而不能興衰捄敝者位不得而志不<lb/>
+行也茍得位以行其志則三代之風吾知<lb/>
+其必復嗟乎秦漢以来禮樂則不為而任<lb/>
+刑以毆其民将納於治適所以亂之也歴<lb/>
+世寖乆皆謂天下當如是可以致治而不<lb/>
+治者時耳故有奮筆舌為章句卒不及於<lb/>
+禮樂者末哉文也旴江李泰伯其有孟軻<lb/>
+氏六君子之深心焉年少志大常憤疾斯<lb/>
+<pb n="KR4d0042_SBCK_000-1b"/>
+文衰敝曰墜地巳甚誰其拯之扵是夙夜<lb/>
+討論文武周公孔子之遺文舊制兼明乎<lb/>
+當世之務悉著于篇且又歎曰生䖏僻遐<lb/>
+不自進孰進哉因徒歩二千里入京師以<lb/>
+文求通于<lb/>
+天子乃舉茂材異等得召第一既而試于<lb/>
+有司有司黜之嗚呼豈有司之過邪其泰<lb/>
+伯之命邪或者天徒付泰伯以其文而命<lb/>
+則否邪亦将位得志行後有時邪吾不得<lb/>
+而知已泰伯退居之明年類其文藁第為<lb/>
+十有二卷以寄南康祖無擇且屬為序無<lb/>
+<pb n="KR4d0042_SBCK_000-2a"/>
+擇既受之讀之朞月不休善乎文武周公<lb/>
+孔子之遺文舊制與夫當世之務言之備<lb/>
+矣務學君子可不景行於斯慶暦三年冬<lb/>
+至日序<lb/>
+<pb n="KR4d0042_SBCK_000-2b"/>
+李覯泰伯以舉茂材罷歸其明年慶暦癸<lb/>
+未秋因料所著文自冠迄兹十五年得草<lb/>
+藁二百三十三首将恐亡散姑以類辯為<lb/>
+十二卷寫之間或應用而為未能盡無媿<lb/>
+閔其力之勞輒不棄去至於妖淫刻餙尤<lb/>
+無用者雖傅在人口皆所弗取噫天将壽<lb/>
+我乎所為固未足也不然斯十二卷庶可<lb/>
+籍手見古人矣故自序云<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

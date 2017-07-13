@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>僑呉集</head>
+    <p>
+<pb n="KR4d0545_WYG_000-1a"/>
+欽定四庫全書　　　　集部五<lb/>
+　僑呉集　　　　　　　　别集類四<hi>元</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案僑呉集十二卷元鄭元祐撰元祐<lb/>
+　　　　有遂昌雜録已著録元祐家本遂昌徙於錢<lb/>
+　　　　塘而流寓平江凡四十年為時最久故其集<lb/>
+　　　　名以僑呉實則杭州所作亦在其内葢從其<lb/>
+　　　　多者言之也集本其晚年所定以授謝徽今<lb/>
+<pb n="KR4d0545_WYG_000-1b"/>
+　　　　此本後有宏治丙辰張習跋乃稱元祐本有<lb/>
+　　　　遂昌山人集與僑呉集多繁蕪重出因通録<lb/>
+　　　　之得詩文之精純者併為十二卷仍名僑呉<lb/>
+　　　　集用梓以傳則此本為習所重訂非元祐手<lb/>
+　　　　編之本矣凡文六卷詩六卷其中與張徳常<lb/>
+　　　　書有僕贊郡無補嘗移檇李之語而蘓大年<lb/>
+　　　　所作墓誌盧熊蘓州府志皆稱元祐以大府<lb/>
+　　　　薦兩為校官不言嘗為他職與元祐仕履不<lb/>
+<pb n="KR4d0545_WYG_000-2a"/>
+　　　　合豈代人所作失於標註耶其文頗疎宕有<lb/>
+　　　　氣詩亦蒼古葢元祐生于至元之末猶及見<lb/>
+　　　　咸淳遺老中間又得見虞集諸人得其緒論<lb/>
+　　　　末年所與㳺者亦皆顧阿瑛倪瓉張與之流<lb/>
+　　　　互相薰染其氣韻不同固亦有自來矣乾隆<lb/>
+　　　　四十五年三月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

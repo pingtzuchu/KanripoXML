@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>提要</head>
+    <p>
+<pb n="KR3f0038_WYG_000-1a"/>
+欽定四庫全書　　　　　子部六<lb/>
+　提要　　　　　　　　　天文算法類二<hi>算書之屬</hi>
+　　夏侯陽算經三卷<lb/>
+　　　　<hi>臣</hi>等謹案隋經籍志有夏侯陽算經二卷唐<lb/>
+　　　　藝文志列夏侯陽算經一卷甄鸞注又韓延<lb/>
+　　　　夏侯陽算經一卷韓延似作注者姓名而直<lb/>
+　　　　齋書錄觧題載元豐京監本乃云三卷無注<lb/>
+　　　　盖傳冩互有分合故卷帙各異也然皆不言<lb/>
+<pb n="KR3f0038_WYG_000-1b"/>
+　　　　陽為何代人考陽自序有云五曹孫子述作<lb/>
+　　　　滋多甄鸞劉徽為之詳釋則其人在甄鸞後<lb/>
+　　　　唐書甄鸞注三字殆因序文而誤歟書内又<lb/>
+　　　　稱宋元嘉二年徐受重鑄銅斛至梁大同元<lb/>
+　　　　年甄鸞校之則陽疑隋初人去梁稍逺故目<lb/>
+　　　　梁時斗尺為古所用其辯度量衡云在京諸<lb/>
+　　　　司及諸州各給稱尺并五尺度斗升合等様<lb/>
+　　　　皆銅為之倉庫令諸量函所在官造大者五<lb/>
+<pb n="KR3f0038_WYG_000-2a"/>
+　　　　斛中者三斛小者一斛以鐵為縁勘平印書<lb/>
+　　　　然後給用及課租庸調章稱賦役令論步數<lb/>
+　　　　不等章稱雜令田令之屬皆據隋制言之則<lb/>
+　　　　陽為隋人盖無可疑唐書選舉志所列算書<lb/>
+　　　　十種此居其一盖當時本懸之令甲肄習考<lb/>
+　　　　課今傳本久佚惟永樂大典内有之然逐條<lb/>
+　　　　割裂分附九章算術各類之下幾扵治絲而<lb/>
+　　　　棼猝不得其端緒幸尚載原序原目猶可以<lb/>
+<pb n="KR3f0038_WYG_000-2b"/>
+　　　　尋繹編次條貫其文今裒輯排比仍依元豐<lb/>
+　　　　監本釐為三卷其十有二門亦從原目其書<lb/>
+　　　　務切實用雖九章古法非官曹民事所必需<lb/>
+　　　　者亦畧而不載扵諸算經中最為簡要且扵<lb/>
+　　　　古今制度異同多資考證尤足寶重云乾隆<lb/>
+　　　　四十年十一月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　總　校　官　<hi>臣</hi>陸　費　墀<lb/>
+<pb n="KR3f0038_WYG_000-3a"/>
+夏侯陽算經原序<lb/>
+夫博通九經為儒門之首學該六藝為伎術之宗若非<lb/>
+材性通眀孰能與於此也然算數起自伏犧而黄帝定<lb/>
+三數為十等隸首因以著九章逮乎有虞乃同律度量<lb/>
+衡孔子曰謹權量審法度漢備五數紀於一協於十長<lb/>
+於百大於千衍於萬度長短者不失毫氂量多少者不<lb/>
+失抄撮權輕重者不失黍絫五曹孫子述作滋多甄鸞<lb/>
+劉徽為之詳釋稽之往古妙絶其能儲校今時少有聞<lb/>
+<pb n="KR3f0038_WYG_000-3b"/>
+見余以總角志好其文畧尋古今備覽差互其如眀數<lb/>
+造術詎曉端倪尋考遺言頗知梗㮣且課租庸調無術<lb/>
+可憑步數奇殘苦難銷盡求變米穀經旨未贍正耗共<lb/>
+升何由剖析三分五分取一法理為眀焉况今令式與<lb/>
+古數不同奚能則定代相沿革互議短長經術尤深難<lb/>
+可意測是以跋涉川陸參㑹宗流纂定研精刋繁就省<lb/>
+袪蕩疑惑括諸古法燭盡毫芒謹錄異同列之於左<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

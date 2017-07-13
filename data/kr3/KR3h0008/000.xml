@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>法書要録目録</head>
+    <p>
+<pb n="KR3h0008_WYG_000-1a"/>
+欽定四庫全書巻　　　　子部八<lb/>
+　法書要録目録　　　　　藝術類一<hi>書畫之屬</hi>
+　　卷一<lb/>
+　　　後漢趙一非草書<lb/>
+　　　晉王羲之論書<lb/>
+　　　王羲之教子敬筆論<hi>不録</hi>
+　　　晉衛夫人筆陣圖<lb/>
+　　　王羲之題筆陣圖後<lb/>
+<pb n="KR3h0008_WYG_000-1b"/>
+　　　宋羊欣采能書人名<lb/>
+　　　齊王僧䖍答太祖書<lb/>
+　　　王僧䖍論書<lb/>
+　　　宋王愔文字志目<lb/>
+　　　齊蕭子雲啟<lb/>
+　　卷二<lb/>
+　　　梁虞龢論書表<lb/>
+　　　梁武帝論鍾書十二意<lb/>
+<pb n="KR3h0008_WYG_000-2a"/>
+　　　梁武帝與陶隠居論書啓九首<lb/>
+　　　梁庾元威論書<lb/>
+　　　梁庾肩吾書品論<lb/>
+　　　梁袁昻古今書評<lb/>
+　　　陳釋智永題右軍樂毅論後<lb/>
+　　　後魏江式論書表<lb/>
+　　卷三<lb/>
+　　　唐虞世南書㫖述<lb/>
+<pb n="KR3h0008_WYG_000-2b"/>
+　　　褚遂良右軍書目<lb/>
+　　　李嗣真後書品<lb/>
+　　　武平一徐氏法書記<lb/>
+　　　徐浩論書<lb/>
+　　　徐浩古迹記<lb/>
+　　　何延之蘭亭記<lb/>
+　　　褚遂良榻本樂毅論記<lb/>
+　　　崔備壁書飛白蕭字記<lb/>
+<pb n="KR3h0008_WYG_000-3a"/>
+　　　李約壁書飛白蕭字記<lb/>
+　　　大父相國髙平公蕭齋記<lb/>
+　　　蔡惲書無定體論<hi>不録</hi>
+　　卷四<lb/>
+　　　顔師古註急就章<hi>不録</hi>
+　　　張懐瓘書話<lb/>
+　　　張懐瓘二王等書録<lb/>
+　　　張懐瓘書議<lb/>
+<pb n="KR3h0008_WYG_000-3b"/>
+　　　張懐瓘文字論<lb/>
+　　　張懐瓘六體書<hi>不録</hi>
+　　　唐朝敘書録<lb/>
+　　　韋述敘書録<lb/>
+　　　盧元卿法書録<lb/>
+　　卷五<lb/>
+　　　竇臮述書賦上<lb/>
+　　卷六<lb/>
+<pb n="KR3h0008_WYG_000-4a"/>
+　　　竇臮述書賦下<lb/>
+　　卷七<lb/>
+　　　張懐瓘書斷上<lb/>
+　　卷八<lb/>
+　　　張懐瓘書斷中<lb/>
+　　卷九<lb/>
+　　　張懐瓘書斷下<lb/>
+　　卷十<lb/>
+<pb n="KR3h0008_WYG_000-4b"/>
+　　　右軍書記<lb/>
+　　　　<hi>臣</hi>等謹案法書要録十卷唐張彦逺撰書首<lb/>
+　　　　有彦逺自序但題郡望而不著官爵郭若虚<lb/>
+　　　　圖畫見聞志晁公武讀書志亦止稱其字曰<lb/>
+　　　　愛賔而未詳其家世故明毛晉跋第以河東<lb/>
+　　　　張氏目之今以新唐書世系表列傳與彦逺<lb/>
+　　　　自序參考知彦逺乃明皇時宰相嘉貞之𤣥<lb/>
+　　　　孫序稱髙祖河東公者即嘉貞其稱曽祖魏<lb/>
+<pb n="KR3h0008_WYG_000-5a"/>
+　　　　國公者為同平章事延賞稱大父髙平公者<lb/>
+　　　　為同平章事𢎞靖稱先君尚書者為桂管觀<lb/>
+　　　　察使文規唐書皆有傳而延賞封魏國公本<lb/>
+　　　　傳不載惟見於彦逺之序本傳又稱彦逺博<lb/>
+　　　　學有文辭乾符中至大理卿而世系表作祠<lb/>
+　　　　部員外郎則當以傳為得實此書末載畫譜<lb/>
+　　　　本傳乃謂彦逺大父名稔不知何據盖未攷<lb/>
+　　　　唐書而附㑹之者也史又載𢎞靖家聚書畫<lb/>
+<pb n="KR3h0008_WYG_000-5b"/>
+　　　　侔秘府彦逺承其餘澤故聞見尤富是編集<lb/>
+　　　　古人論書之語起於東漢迄於元和皆具録<lb/>
+　　　　原文而如王愔文字志之未見其書者則特<lb/>
+　　　　存其目編次極為詳贍其中不加論斷而李<lb/>
+　　　　嗣真書品後之類間亦有注語者疑即彦逺<lb/>
+　　　　所自附考藝文畧所紀法書一類自漢至唐<lb/>
+　　　　凡六十餘家今多佚不傳而庾肩吾張懐瓘<lb/>
+　　　　竇臮等著述獨賴此書以得顯於世則蒐羅<lb/>
+<pb n="KR3h0008_WYG_000-6a"/>
+　　　　裒輯之功為不可没矣乾隆四十二年八月<lb/>
+　　　　恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="KR3h0008_WYG_000-7a"/>
+張彦遠法書要録自序<lb/>
+彦遠家傳法書名畫自髙祖河東公收藏珍祕河東公<lb/>
+書迹俊異尤能大書本傳云不因師法而天姿䧺勁<hi>定州</hi>
+<hi>北嶽碑為好事所傳</hi>曽祖魏國公少禀師訓玅合鍾張尺牘尤為<lb/>
+合作大父髙平公㓜學元常自鎮蒲陕迹類子敬及處<lb/>
+台司乃同逸少書體三變為時所稱金帛散施之外悉<lb/>
+購圖書古来名迹存於箧笥元和十三年憲宗累訪珍<lb/>
+迹當時不敢緘藏遂皆進獻長慶初又於豳州散失傳<lb/>
+<pb n="KR3h0008_WYG_000-7b"/>
+家所有十無一二先君尚書少耽墨玅備盡楷模彦逺<lb/>
+自㓜至長習熟知見竟不能學一字夙夜自責然而收<lb/>
+藏鑒識有一日之長因採掇自古論書凡百萹勒為十<lb/>
+巻名曰法書要録又别撰歴代名畫記十卷有好事者<lb/>
+得余二書書畫之事畢矣豈敢言具哉<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

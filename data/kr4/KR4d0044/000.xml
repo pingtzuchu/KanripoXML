@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>公是集</head> <lb/>
+    <p>
+<pb n="KR4d0044_WYG_000-1a"/>
+欽定四庫全書<lb/>
+　公是集<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案公是集五十四巻宋劉敞撰敞有<lb/>
+　　　　春秋傳已著録葉夢得避暑録話稱敞集一<lb/>
+　　　　百七十五巻據其弟攽所作集序稱公是總<lb/>
+　　　　集七十五巻叙為五種曰古詩二十巻律詩<lb/>
+　　　　十五巻内集二十巻外集十五巻小集五巻<lb/>
+<pb n="KR4d0044_WYG_000-1b"/>
+　　　　文獻通考亦作七十五巻則夢得所記為誤<lb/>
+　　　　矣原本不傳今新喻所刻三劉文集公是集<lb/>
+　　　僅四巻大約採自宋文鑑者居多而又以劉跂<lb/>
+　　　趙氏金石録序㤗山秦篆譜序誤入集中即<lb/>
+　　　攽所作公是集序亦採自文獻通考而未見<lb/>
+　　　其全故注云失名其編次踈舛可知又錢塘呉<lb/>
+　　　允嘉别編公是集六巻亦殊缺畧考史有之<lb/>
+　　　序春秋意林曰清江為二劉三孔之鄉文獻<lb/>
+<pb n="KR4d0044_WYG_000-2a"/>
+　　　　宜徵而足今三孔集故在獨二劉所著燬於兵<lb/>
+　　　　則其佚已久矣惟永樂大典所載頗富今裒<lb/>
+　　　　輯排次釐為五十四巻疑當時重其兄弟之<lb/>
+　　　　文全部収入故所存獨多也敞之談經雖好與<lb/>
+　　　　先儒立異而淹通典籍具由心得究非南宋諸<lb/>
+　　　　家逰談無根者比故其文湛深經術具有本<lb/>
+　　　　原攽序稱其合衆美為已用超倫類而獨得<lb/>
+　　　　瓌偉奇特放肆自若又稱其考百子之雜博<lb/>
+<pb n="KR4d0044_WYG_000-2b"/>
+　　　　六經可以折𠂻極帝王之治功今日可以按行<lb/>
+　　　　學聖人而得其道所以優出於前人友于之<lb/>
+　　　　情雖未免推揚太過然曽肇曲阜集有敞贈<lb/>
+　　　特進制曰經術文章追古作者朱子晦菴集<lb/>
+　　　　有墨莊記曰學士舍人兄弟皆以文章大顯<lb/>
+　　　　於時而名後世語録曰原父文才思極多湧將<lb/>
+　　　　出來每作文多法古絶相似有幾件文字學<lb/>
+　　　　禮記春秋或學公糓又曰劉侍讀氣平文緩<lb/>
+<pb n="KR4d0044_WYG_000-3a"/>
+　　　　乃自經書中來比之蘇公有髙古之趣云云<lb/>
+　　　則其文詞古雅可以概見矣晁公武讀書志<lb/>
+　　　　謂歐陽修嘗短其文於韓琦葉適習學記言<lb/>
+　　　　亦謂敞言經㫖間以謔語酬修積不能平復<lb/>
+　　　　忤韓琦遂不得為翰林學士盖祖公武之説<lb/>
+　　　　今考修草敞知制誥詔曰議論宏博詞章爛<lb/>
+　　　　然又作其父立之墓誌曰敞與攽皆賢而有<lb/>
+　　　　文章又作敞墓誌曰于學博自六經百氏古<lb/>
+<pb n="KR4d0044_WYG_000-3b"/>
+　　　　今傳記下至天文地理卜醫數術浮屠老荘<lb/>
+　　　　之說無所不通為文章尤敏贍常直紫薇閣<lb/>
+　　　　一日追封皇子公主九人方將下直止馬却<lb/>
+　　　　作一揮九制數千言文辭典雅各得其體其<lb/>
+　　　　銘詞曰惟其文章燦日星雖欲有毁知莫能<lb/>
+　　　　則修亦雅重之晁氏葉氏所言殆非其寔歟<lb/>
+　　　　乾隆五十四年二月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+<pb n="KR4d0044_WYG_000-4a"/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

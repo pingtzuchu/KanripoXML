@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_440-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選卷四百四十一<lb/>
+　　鸜鵒類<lb/>
+　　　七言古<hi>附長短句</hi>
+　　　　寳觀主白鸜鵒歌　　　　　<hi>唐</hi>韋應物<lb/>
+　鸜鵒鸜鵒衆皆如漆爾獨如玊鸜之鵒之衆皆蓬蒿下<lb/>
+　爾自三山来三山處子下人間綽約不妝氷雪顔仙鳥<lb/>
+　随飛来掌上來掌上時拂拭人心鳥意自無猜玉指霜<lb/>
+<pb n="KR4h0141_WYG_440-1b"/>
+　毛與同色有時一去凌蒼蒼朝逰汗漫暮玊堂巫峡雨<lb/>
+　中飛暫濕杏花林裏過来香日夕依人全羽翼空欲銜<lb/>
+　環非報徳豈不及阿母之家青雀兒漢宫来徃傳消息<lb/>
+　　　　戲詠子舟畫兩竹兩鸜鵒　　<hi>宋</hi>蘓　軾<lb/>
+　風晴日暖揺雙竹竹間對語雙鸚鵒鸜鵒之肉不可食<lb/>
+　人生不才果為福子舟之筆利如錐千變萬化皆天機<lb/>
+　未知筆下鸜鵒語何似夢中蝴蝶飛<lb/>
+　　　　四禽圗　　　　　　　　　<hi>明</hi>李東陽<lb/>
+<pb n="KR4h0141_WYG_440-2a"/>
+　鸜鵒色不如鸚鵡強向筵前學人語網羅西下隴山空<lb/>
+　毛羽雖佳不如汝鐡衣金觜雙雕楹世間無處無弓矰<lb/>
+　試聽内苑籠中語空誦彌陀六字名<lb/>
+　　　七言絶句<lb/>
+　　　　鸜鵒育雛于貞莭堂東壁壁髙且危二雛墮砌<lb/>
+　　　　　下乃就而哺之悲鳴徬徨如在無人之境予<lb/>
+　　　　　憐之取雛納之巢紀以一絶<lb/>
+　　　　　　　　　　　　　　　　<hi>明</hi>陳憲章<lb/>
+<pb n="KR4h0141_WYG_440-2b"/>
+　将雛無力上榱題聲斷殘陽翅忽低髙棟託身君亦誤<lb/>
+　鷦鷯安穏只卑棲<lb/>
+　　　　題畫　　　　　　　　　　<hi>明</hi>僧徳祥<lb/>
+　鸜鵒多情語曉風惱他枝上白頭公分明一叚江南思<lb/>
+　煙雨樓臺似夢中<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選巻四百四十一<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

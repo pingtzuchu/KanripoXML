@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>詩纉緒</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　　經部三<lb/>
+　詩纉緒　　　　　　　　詩類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案詩纉緒十八卷元劉玉汝撰玉汝<lb/>
+　　　　始末未詳惟以周霆震石初集考之知其為<lb/>
+　　　　廬陵人字成之嘗舉鄉貢進士所作石初集<lb/>
+　　　　序末題洪武癸丑則明初尚存也此書諸家<lb/>
+　　　　書目皆未著錄獨永樂大典頗載其文其大<lb/>
+<pb n="1b"/>
+　　　　㫖專以𤼵明朱子集傳故名曰纉緒體例與<lb/>
+　　　　輔廣童子問相近凡集傳中一二字之斟酌<lb/>
+　　　　必求其命意所在或存此說而遺彼說或宗<lb/>
+　　　　主此論而兼用彼論無不尋繹其所以然至<lb/>
+　　　　論比興之例謂有取義之興有無取義之興<lb/>
+　　　　有一句興通章有數句興一句有興兼比賦<lb/>
+　　　　兼比之類明用韻之法如曰隔句為韻連章<lb/>
+　　　　為韻叠句為韻重韻為韻之類論風雅之殊<lb/>
+<pb n="2a"/>
+　　　　如曰有腔調不同之類於朱子比興叶韻之<lb/>
+　　　　說皆反覆體究縷析條分雖未必盡合詩人<lb/>
+　　　　之㫖而於集傳一家之學則可謂有所闡明<lb/>
+　　　　矣明以來諸家詩解罕引其說則亡佚已久<lb/>
+　　　　今就永樂大典所載依經排纂正其脫訛定<lb/>
+　　　　為一十八卷乾隆四十六年九月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

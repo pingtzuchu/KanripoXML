@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>唐開元占經卷一百十五</head> <lb/>
+    <p>
+<pb n="KR3g0018_WYG_115-1a"/>
+欽定四庫全書<lb/>
+　唐開元占經卷一百十五<lb/>
+　　　　　　　　　　　唐　瞿曇悉達　撰<lb/>
+　　　鳥休徴<lb/>
+　　　　鳯凰鸞<lb/>
+尚書考靈曜曰通天文者明審地理者昌鳯凰下之地<lb/>
+鏡曰鳯凰赤精頊顓徳尚書中候曰堯即政鳯凰巢阿<lb/>
+閤　禮斗威儀曰君乗土徳而王其政太平鳯凰集於<lb/>
+<pb n="KR3g0018_WYG_115-1b"/>
+苑林　京房曰鳯凰來儀<graphic n="KR1962" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1962.png" mimeType="image/png"/>
+                    <graphic n="KR1962" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1962.png" mimeType="image/png"/>其羽兹謂休徳　抱朴<lb/>
+子曰古者太平之世鳯凰常居其國而生光　淮南子<lb/>
+曰鳯凰之翔至徳也　禮稽命徴曰父子君臣夫婦尊<lb/>
+卑有别鳯凰至飛翔盛於明堂　京房易候曰鸞見於<lb/>
+國天下大安　中候曰周公歸政於成王鸞凰見<lb/>
+　　　　白烏　白燕<lb/>
+地鏡曰衆庶感則白烏來　瑞應圗曰白烏者宗廟肅<lb/>
+則至　京房易妖占曰山見白燕其君且得貴女　地<lb/>
+<pb n="KR3g0018_WYG_115-2a"/>
+鏡曰妾媵有制白燕來巢<lb/>
+　　　　朱雀黄雀<lb/>
+地鏡曰赤雀銜書文王徳瑞應圗曰赤雀者王者動應於天<lb/>
+時則銜書來　禮稽命徴曰祭五岳四瀆得其宜則黄雀集<lb/>
+　　　　白鳩玉鷄　比翼鳥　三足烏　鷃巢園樹<lb/>
+瑞應圖曰白鳩王者養耆老尊道徳不以新失舊則至<lb/>
+　又云玉鷄者王者徳令神明則出　地鏡曰王者徳<lb/>
+綦髙逺則比翼鳥來至　又曰王者徳不任卜筮則三<lb/>
+<pb n="KR3g0018_WYG_115-2b"/>
+足鳥來　京房曰鷃巢園樹嵗安熟<lb/>
+　　　鳥咎徵<lb/>
+　　　　鸞三指　鵲巢宫闕及巢軍　鶴巢樹<lb/>
+地鏡曰鸞三指其下不以徳所下之國有易王　又曰<lb/>
+鵲巢門殿上賢據代之世主衰失之象　京氏曰鵲巢<lb/>
+軍旗鼓上將軍死　又曰鶴巢樹此謂失教邑亡嵗苦<lb/>
+人多死<lb/>
+　　　　燕羣及市朝樹　燕銜土　燕雀鬬<lb/>
+<pb n="KR3g0018_WYG_115-3a"/>
+京房曰燕羣鬬外内饑於冦國兵起　地鏡曰𤣥鳥羣<lb/>
+見水大興女主持政兵革且起不出四年王道絶　京<lb/>
+房曰燕自經市朝之樹為政者凶　京房曰燕銜土出<lb/>
+之國益土　又曰燕銜土出置之邑中虛　地鏡曰雀<lb/>
+與燕共鬬内冦亂此國兵起　京房曰燕與雀鬬賤人<lb/>
+為冦<lb/>
+　　　　鷄非時鳴<lb/>
+易通卦騐曰萬民聞鷄鳴皆翹首結𢃄正衣裳　京房<lb/>
+<pb n="KR3g0018_WYG_115-3b"/>
+曰鷄無故夜鳴必有急令　又曰鷄據棲而鳴邑令不<lb/>
+遷乃免也　地鏡曰鷄昏鳴者世主任女人為政方亂<lb/>
+　又曰鷄夜鳴天子適有急令戎馬興　京房曰鷄夜<lb/>
+半中鳴有軍軍罷若有驚亡將軍妻死　又曰鷄晨昏<lb/>
+鳴人民有事人定鳴且戰夜半鳴流血滂沱　又曰<lb/>
+鷄不以時鳴國當之　地鏡曰鷄飛及走且鳴天子退<lb/>
+聲　又曰雌雞作雄雞鳴女主亂政家則妻妾姦謀女<lb/>
+人憂　京房曰雌雞非時而雄鳴者家大傷<lb/>
+<pb n="KR3g0018_WYG_115-4a"/>
+　　　　鷄不上棲及不下棲　雌鷄冠距生<lb/>
+地鏡曰鷄不肯上棲上樹者凶　又曰鷄日中不下棲<lb/>
+女主亂政家則妻妾奸謀女人憂　京房易候曰鷄逐<lb/>
+日不下樹其邑必有水憂　地鏡曰雌鷄摶腹生冠<lb/>
+距女主亂政家則妻妾奸謀女人憂　河圖曰鷄有六<lb/>
+指殺人<lb/>
+　　　　鷄與野鳥鬬戯<lb/>
+京房曰鷄與野鳥飛走入人堂而鬬若戯其君不復居<lb/>
+<pb n="KR3g0018_WYG_115-4b"/>
+人主亡　又曰鷄與野鳥鬬其邑亂臣弑君大臣相戮<lb/>
+流血滂沱　又曰鷄鳥相鬬其國殺大臣有喪邑流血<lb/>
+　地鏡曰鷄與野鳥鬬君殺國亂<lb/>
+　　　　鷄不鼓翼及窺井　鷄自飛翔及五色<lb/>
+京房易候曰鷄不鼓翼國受大咎　地鏡曰鷄窺井牢<lb/>
+獄事　地鏡曰鷄無故自飛翔去家有蠱　河圖曰鷄<lb/>
+有五色殺人又曰𤣥鷄頭食病人<lb/>
+　　　　鷄自來及自死　鷄與烏鳥媱<lb/>
+<pb n="KR3g0018_WYG_115-5a"/>
+地鏡曰他鷄無故飛來不去家者暴死　又曰鷄無故<lb/>
+自死家虚耗　又曰鷄與烏鳥淫世主内亂外臣有謀<lb/>
+横兵方起<lb/>
+　　　　鷄生子異形<lb/>
+京房曰鷄生子不完其邑憂　又曰鷄不卵生子無羽<lb/>
+而獸形邑虚　又曰鷄不卵而生子非鷄形者邑有大<lb/>
+水　又曰鷄不卵而生子為六畜邑有兵作　又曰鷄<lb/>
+不卵而生子為䑕者邑有大害　又曰鷄不卵而生子<lb/>
+<pb n="KR3g0018_WYG_115-5b"/>
+為野獸形者邑有大憂　又曰鷄不卵而生子有六畜<lb/>
+邑有憂　又曰鷄卵中盡為蟲虵蜂蠅國邑虚　地鏡<lb/>
+曰鷄生子雜異形皆為兵水憂<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　唐開元占經卷一百十五<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

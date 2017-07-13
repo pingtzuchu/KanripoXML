@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2l0014_WYG_016-1a"/>
+欽定四庫全書<lb/>
+欽定國子監志卷十六<lb/>
+　禮四<lb/>
+　獻功<lb/>
+　　　康熙三十五年<lb/>
+聖祖仁皇帝親征厄魯特噶爾丹朔漠蕩平禮部奏請<lb/>
+　　　舉行慶典<lb/>
+特遣官釋奠<lb/>
+<pb n="KR2l0014_WYG_016-1b"/>
+　　先師孔子四十三年<lb/>
+御製平定朔漠碑文勒石國學<lb/>
+　　　雍正二年大兵西征羅卜藏丹津青海底定凱<lb/>
+　　　還<lb/>
+世宗憲皇帝御午門受俘<lb/>
+遣官釋奠<lb/>
+　　先師孔子<lb/>
+御製平定青海碑文勒石國學<lb/>
+<pb n="KR2l0014_WYG_016-2a"/>
+　　　乾隆十四年大兵征金川酋長娑羅奔窮蹙乞<lb/>
+　　　降<lb/>
+　皇上憐而宥之金川底定凱旋廷臣請循<lb/>
+聖祖仁皇帝平定朔漠<lb/>
+世宗憲皇帝平定青海例告成于學<lb/>
+　詔從之<lb/>
+　遣官釋奠<lb/>
+　　先師孔子<lb/>
+<pb n="KR2l0014_WYG_016-2b"/>
+　御製平定金川碑文勒石國學<lb/>
+　　　二十年大兵平定準噶爾俘達瓦齊伊犁底定<lb/>
+　　　大功告成<lb/>
+　遣官釋奠<lb/>
+　　先師孔子<lb/>
+　御製平定準噶爾碑文勒石國學<lb/>
+　　　二十四年回部全境蕩平<lb/>
+　天威逺播拓地二萬餘里大功告成<lb/>
+<pb n="KR2l0014_WYG_016-3a"/>
+　遣官釋奠<lb/>
+　　先師孔子<lb/>
+　御製平定回部碑文勒石國學<lb/>
+　　　四十二年大兵進克噶喇依獲促侵土司索諾<lb/>
+　　　木及其頭人等兩金川全境蕩平大功告成<lb/>
+　遣官釋奠<lb/>
+　　先師孔子<lb/>
+　御製平定兩金川碑文勒石太學<lb/>
+<pb n="KR2l0014_WYG_016-3b"/>
+　　　　<hi>謹按獻功之典僅見于魯頌王制二篇三代以降獻俘受降率皆行于太廟社稷而釋奠</hi>
+　　<hi>朝函于學之典闕而不舉我悉臣偶有小醜陸梁    一區㝢薄海内外悉主</hi>
+<hi>天威赫怒自作弗靖</hi>
+<hi>命將遣師莫不犁庭掃穴克奏蕩平至于振旅言旋大        功既蕆</hi>
+<hi>遣官䖍告儀視春秋釋奠而且樹豐碑于國學以紀成    先師</hi>
+<hi>文徳</hi>　　<hi>功猗歟休哉</hi>
+<hi>武功真度越前古萬萬矣</hi>
+欽定國子監志卷十六<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

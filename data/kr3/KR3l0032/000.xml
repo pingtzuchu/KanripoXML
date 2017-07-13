@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>歸田録</head>
+    <p>
+<pb n="KR3l0032_WYG_000-1a"/>
+欽定四庫全書　　　　　子部十二<lb/>
+　歸田録　　　　　　　　小說家𩔖一<hi>雜事之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案歸田録二卷宋歐陽修撰多記朝<lb/>
+　　　　廷軼事及士大夫談諧之言自序謂以唐李<lb/>
+　　　　肇國史補為法而小異於肇者不書人之過<lb/>
+　　　　惡陳氏書録解題曰或言公為此録未成而<lb/>
+　　　　序先出裕陵索之其中本載時事及所經厯<lb/>
+<pb n="KR3l0032_WYG_000-1b"/>
+　　　　見聞不敢以進旋為此本而初本竟不復出<lb/>
+　　　　王明清揮麈三録則曰歐陽公歸田録初成<lb/>
+　　　　未出而序先傳神宗見之遽命中使宣取時<lb/>
+　　　　公已致仕在潁州因其間所記有未欲廣布<lb/>
+　　　　者因盡刪去之又惡大少則襍記戯笑不急<lb/>
+　　　　之事以充滿其卷帙既繕寫進入而舊本亦<lb/>
+　　　　不敢存二説小異周煇清波襍志所記與明<lb/>
+　　　　清之説同惟云原本亦嘗出與明清説又不<lb/>
+<pb n="KR3l0032_WYG_000-2a"/>
+　　　　合大抵初藁為一本宣進者又一本實有此<lb/>
+　　　　事其旋為之説與刪除之説則傳聞異詞耳<lb/>
+　　　　惟修歸潁上在神宗時而録中稱仁宗立今上<lb/>
+　　　　為皇子則似英宗時事語或平時劄記歸田<lb/>
+　　　　後乃排纂成之偶忘追改歟其中不試而知<lb/>
+　　　　制誥一條稱宋惟楊億陳堯叟及修三人費<lb/>
+　　　　衮梁谿漫志舉真宗至道三年四月以梁周<lb/>
+　　　　翰夙負詞名今加奬擢亦不試而知制誥實<lb/>
+<pb n="KR3l0032_WYG_000-2b"/>
+　　　　在楊億之前紏修誤記是偶然疎舛亦所不<lb/>
+　　　　免然大致可資考據亦國史補之亞也乾隆<lb/>
+　　　　四十三年八月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

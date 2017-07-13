@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4j0069_SBCK_006-1a"/>
+跋<lb/>
+吳騷者何崑曲也曲何以言騷尊其體也是書爲武林張楚叔<lb/>
+旭初昆季所輯錄楚叔廣收共成三集旭初嚴覈合幷一編書<lb/>
+刻于崇禎十年丁丑分宮實詞體皆側艶又得項南洲爲之刊<lb/>
+圖精雅可翫余藏此書垂三十年始欲刊列曲叢而滬戰勃發<lb/>
+所儲存涵芬樓諸曲焚熸至二十八種此書幸免刼灰彌自珍<lb/>
+惜已固安劉伯峯先生新得此書屬刊入四部叢刊續編於是<lb/>
+海上同人命譔斯跋余謂散曲總集莫富于雍熙而莫精于南<lb/>
+詞韻選他如南北宮詞紀太霞新奏詞林逸響諸書不過承流<lb/>
+接武而已是編稍後出故崑山梁氏吳江沈氏吳縣龍氏山陰<lb/>
+王氏諸作采錄至多而嶺樵騷隱二家評語散見各詞後者又<lb/>
+皆有所依据如云詞隱新譜者爲沈伯明<hi>自晉</hi>之南九宮新譜<lb/>
+<pb n="KR4j0069_SBCK_006-1b"/>
+　也云墨憨齋者爲馮子猶<hi>猶龍</hi>之南詞譜也云三籟者爲凌初<lb/>
+　成<hi>濛初</hi>之南音三籟也諸書不盡傳得此略見一二不亦善乎<lb/>
+　若夫分析正贈辨訂牌調正板式之<graphic n="KR4186" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4186.png" mimeType="image/png"/>譌考集曲之字句尤較<lb/>
+　許宇陳所聞等爲詳是爲散曲中盡善之作韻選而外首屈一<lb/>
+　指矣惟竊有未解者雍熙中南曲大抵皆古南詞爲詞家之瓌<lb/>
+　寶書中徵引舊詞凡十五篇其出自雍熙者爲羅江怨二曲十<lb/>
+　様錦字字錦七賢過關各一曲餘皆采自他書此其故何也豈<lb/>
+　別有深意耶海内賢達能解余之惑乎此又余所日夕企望者<lb/>
+　矣甲戌七月長洲吳梅<lb/>
+<pb n="KR4j0069_SBCK_006-2a"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

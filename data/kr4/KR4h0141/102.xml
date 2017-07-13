@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_102-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選巻一百二<lb/>
+　　潮類<lb/>
+　　　五言古<lb/>
+　　　　賦得觀潮　　　　　　　　<hi>梁</hi>任　昉<lb/>
+　雲容雜浪起楚水漫吳流漸看遥樹没稍見碧天浮漁<lb/>
+　人迷舊浦海鳥失前洲不測滄溟曠輕鱗幸自游<lb/>
+　　　五言律<lb/>
+<pb n="KR4h0141_WYG_102-1b"/>
+　　　　淮潮　　　　　　　　　　<hi>宋</hi>梅堯臣<lb/>
+　汐潮如有信時向舊痕生始覺囘波定還看曲渚平舞<lb/>
+　鷗隨上下寒日共浮傾後夜人無寐遥聽入浦聲<lb/>
+　　　五言排律<lb/>
+　　　　樟亭觀潮　　　　　　　　<hi>唐</hi>宋　昱<lb/>
+　濤來勢轉雄獵獵架長風雷震雲霓裏山飛霜雪中激<lb/>
+　流髙失岸吹澇上侵空翕闢乾坤異盈虛日月同艅艎<lb/>
+　從陸起洲渚隔阡通跳沫噴巖翠翻波帶景紅怒湍初<lb/>
+<pb n="KR4h0141_WYG_102-2a"/>
+扺北却浪復歸東寂聽堪増勇晴看自發蒙伍生傳或<lb/>
+謬枚叟說難工來信應無巳申威亦匪窮衝騰如決勝<lb/>
+廻合似相攻委質任平視誰能涯始終<lb/>
+　　七言律<lb/>
+　　　觀潮　　　　　　　　　　<hi>唐</hi>朱慶餘<lb/>
+木落霜飛天地清空江百里見潮生鮮飇横海魚龍氣<lb/>
+晴雪噴山雷鼔聲雲日半陰川漸滿客㠶皆過浪難平<lb/>
+髙樓曉望無窮意丹葉黄花遶郡城<lb/>
+<pb n="KR4h0141_WYG_102-2b"/>
+　　　泝潮　　　　　　　　　　<hi>宋</hi>蘇　轍<lb/>
+匹練縈囘出海門黄泥先變碧波渾初來似欲傾滄海<lb/>
+正滿真能倒百源流枿飛騰竟何在扁舟睥睨久仍存<lb/>
+自慚不作山林計來往終隨萬物奔<lb/>
+　　　海潮圖　　　　　　　　　<hi>宋</hi>樓　鑰<lb/>
+錢塘佳月照青霄壮觀仍看半夜潮每恨形容無健茟<lb/>
+誰知收拾在生綃蕩揺直恐三山没咫尺真成萬里遥<lb/>
+金闕岧嶤天尺五海王自合日來朝<lb/>
+<pb n="KR4h0141_WYG_102-3a"/>
+　　　次韻魯參政觀潮　　　　　<hi>元</hi>柳　貫<lb/>
+怒濤卷雪過樟亭人立西風酒斾青日轂行天浮左界<lb/>
+地機激水出東溟倒排山嶽窮千變闔闢雲雷竦百靈<lb/>
+望海樓頭追勝賞坐中賔衆弁如星<lb/>
+　　　漁浦春潮　　　　　　　　<hi>元</hi>錢惟善<lb/>
+江漲夜來髙幾尋輕濤拍岸失蹄涔遲明㠶發星灘逺<lb/>
+盡日舟横雨渡深杜若風囘頳鯉上桃花浪起白鷗沈<lb/>
+越人艇子來何處欵乃時聞空外音<lb/>
+<pb n="KR4h0141_WYG_102-3b"/>
+　　　錢塘觀潮　　　　　　　　<hi>元</hi>仇　逺<lb/>
+一痕初見海門生頃刻長驅作怒聲萬馬突圍天鼔碎<lb/>
+六鼇翻背雪山傾逺朝魏闕心猶在直上嚴灘勢始平<lb/>
+寄語吳兒休踏浪天河㒺象正縱横<lb/>
+　　七言絶句<lb/>
+　　　潮　　　　　　　　　　　<hi>唐</hi>白居易<lb/>
+早潮纔落晚潮來一月周流六十廻不獨光陰朝復暮<lb/>
+杭州老去被潮催<lb/>
+<pb n="KR4h0141_WYG_102-4a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR4h0141_WYG_102-4b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選巻一百二<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

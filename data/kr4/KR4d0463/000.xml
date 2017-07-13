@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>雲峯集</head>
+    <p>
+<pb n="KR4d0463_WYG_000-1a"/>
+欽定四庫全書　　　　　集部五<lb/>
+　雲峯集　　　　　　　　别集類田<hi>元</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案雲峯集十卷元胡炳文撰炳文有<lb/>
+　　　　周易本義通釋巳著錄據林瀚所作是集序<lb/>
+　　　　具原本葢二十卷後燬於兵明成化中其七<lb/>
+　　　　世孫用光八世孫濬乃掇拾散佚編為此本<lb/>
+　　　　凡襍文七卷附以賦四篇歌詞一篇詩一卷<lb/>
+<pb n="KR4d0463_WYG_000-1b"/>
+　　　　附以詞三首附録二卷則本傳行枤及贈答<lb/>
+　　　　題詠詩文也炳文之學一以朱子為宗故其<lb/>
+　　　　答陳櫟書云我輩居文公都熟文公書自是<lb/>
+　　　　本分中事其作草堂學稿序厯舉前代詩人<lb/>
+　　　　極詞醜詆有云縱迫曹劉何補於格致誠正<lb/>
+　　　　縱迫謝鮑何補於修齊治平葢不指意於文<lb/>
+　　　　章者然其襟文乃平正醇雅無宋入語録方<lb/>
+　　　　言皆入筆墨之習其詩雖煩入擊壤集沠然<lb/>
+<pb n="KR4d0463_WYG_000-2a"/>
+　　　　如贈鶴庵相士四言北寺昏鐘廖塢晚烟拜<lb/>
+　　　　鄂岳王墓濠觀亭贈二齊生諸篇皆不失雅<lb/>
+　　　　韻殆其天姿本近於詞章故門徑雖殊而性<lb/>
+　　　　靈時露歟至於古文之中往往間以藻飾如<lb/>
+　　　　送文公五世孫序云自古及今人家疇無邱<lb/>
+　　　　墓豈無巢翡翠卧麒麟者與吳草廬書云苔<lb/>
+　　　　緑滋深而芹香莫采有負先聖先師環緑亭<lb/>
+　　　　記云睿聖武公七十猶好學徳麟年方緑髩<lb/>
+<pb n="KR4d0463_WYG_000-2b"/>
+　　　　學當如何以文體論之皆為破律然較諸侈<lb/>
+　　　　言載道毫不修飾者固有間矣乾隆四十二<lb/>
+　　　　年八月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　總　校　官　<hi>臣</hi>陸　費　墀<lb/>
+<pb n="KR4d0463_WYG_000-3a"/>
+欽定四庫全書　　　　集部五<lb/>
+　雲峯集總目　　　　　　别集類四<hi>元</hi>
+　　卷一<lb/>
+　　　書<lb/>
+　　　論<lb/>
+　　卷二<lb/>
+　　　記<lb/>
+　　卷三<lb/>
+<pb n="KR4d0463_WYG_000-3b"/>
+　　　序<lb/>
+　　卷四<lb/>
+　　　題跋<lb/>
+　　　字説<lb/>
+　　卷五<lb/>
+　　　碑<lb/>
+　　　墓誌<lb/>
+　　　傳<lb/>
+<pb n="KR4d0463_WYG_000-4a"/>
+　　卷六<lb/>
+　　　上梁文<lb/>
+　　　啟<lb/>
+　　卷七<lb/>
+　　　箴<lb/>
+　　　銘<lb/>
+　　　賦<lb/>
+　　　辭<lb/>
+<pb n="KR4d0463_WYG_000-4b"/>
+　　卷八<lb/>
+　　　詩<lb/>
+　　　詩餘<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

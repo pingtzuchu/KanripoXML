@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_459-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選巻四百六十<lb/>
+　　䳺鶉類<lb/>
+　　　五言律<lb/>
+　　　　應制題畫䳺鶉　　　　　　<hi>明</hi>于慎行<lb/>
+　渺彼榆枋翼丹青畫作真靜眠宫草日閒傍苑花春顧<lb/>
+　影驕金距逄塲上錦茵非同珠樹鳥獨用羽毛珍<lb/>
+　　　七言絶句<lb/>
+<pb n="KR4h0141_WYG_459-1b"/>
+　　　　雪岸鳴䳺　　　　　　　　<hi>金</hi>元好問<lb/>
+　離離殘雪㸃荒叢更著幽禽慘澹中笑煞畫簾雙燕子<lb/>
+　秋千紅索海棠風<lb/>
+　　　　輦下曲　　　　　　　　　<hi>元</hi>張　昱<lb/>
+　鬭䳺初罷草初黄錦袋牙牌日日將閙市閒坊尋搭對<lb/>
+　紅塵走煞少年狂<lb/>
+　　　　元宫詞　　　　　　　　　<hi>明</hi>朱有燉<lb/>
+　金風苑樹日光晨内侍鷹坊出入頻遇著中秋時節近<lb/>
+<pb n="KR4h0141_WYG_459-2a"/>
+　剪絨花毯鬭䳺鶉<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR4h0141_WYG_459-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選卷四百六十<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

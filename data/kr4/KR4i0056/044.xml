@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>厯代詩話巻四十四</head> <lb/>
+    <p>
+<pb n="KR4i0056_WYG_044-1a"/>
+欽定四庫全書<lb/>
+　厯代詩話巻四十四<lb/>
+　　　　　　　　　　　　　歸安呉景旭撰<lb/>
+　　已集杜陵譜系中<lb/>
+年譜<lb/>
+<pb n="KR4i0056_WYG_044-2a"/>
+</p>
+<p>
+<pb n="KR4i0056_WYG_044-3a"/>
+</p>
+<p>
+<pb n="KR4i0056_WYG_044-4a"/>
+</p>
+<p>
+<pb n="KR4i0056_WYG_044-5a"/>
+</p>
+<p>
+<pb n="KR4i0056_WYG_044-6a"/>
+</p>
+<p>
+<pb n="KR4i0056_WYG_044-7a"/>
+</p>
+<p>
+<pb n="KR4i0056_WYG_044-8a"/>
+</p>
+<p>
+<pb n="KR4i0056_WYG_044-9a"/>
+</p>
+<p>
+<pb n="KR4i0056_WYG_044-10a"/>
+</p>
+<p>
+<pb n="KR4i0056_WYG_044-11a"/>
+</p>
+<p>
+<pb n="KR4i0056_WYG_044-12a"/>
+</p>
+<p>
+<pb n="KR4i0056_WYG_044-13a"/>
+</p>
+<p>
+<pb n="KR4i0056_WYG_044-14a"/>
+</p>
+<p>
+<pb n="KR4i0056_WYG_044-15a"/>
+</p>
+<p>
+<pb n="KR4i0056_WYG_044-16a"/>
+</p>
+<p>
+<pb n="KR4i0056_WYG_044-17a"/>
+</p>
+<p>
+<pb n="KR4i0056_WYG_044-18a"/>
+</p>
+<p>
+<pb n="KR4i0056_WYG_044-19a"/>
+</p>
+<p>
+<pb n="KR4i0056_WYG_044-20a"/>
+</p>
+<p>
+<pb n="KR4i0056_WYG_044-21a"/>
+</p>
+<p>
+<pb n="KR4i0056_WYG_044-22a"/>
+</p>
+<p>
+<pb n="KR4i0056_WYG_044-23a"/>
+</p>
+<p>
+<pb n="KR4i0056_WYG_044-24a"/>
+</p>
+<p>
+<pb n="KR4i0056_WYG_044-25a"/>
+</p>
+<p>
+<pb n="KR4i0056_WYG_044-26a"/>
+</p>
+<p>
+<pb n="KR4i0056_WYG_044-27a"/>
+</p>
+<p>
+<pb n="KR4i0056_WYG_044-28a"/>
+</p>
+<p>
+<pb n="KR4i0056_WYG_044-29a"/>
+</p>
+<p>
+<pb n="KR4i0056_WYG_044-30a"/>
+</p>
+<p>
+<pb n="KR4i0056_WYG_044-31a"/>
+</p>
+<p>
+<pb n="KR4i0056_WYG_044-32a"/>
+</p>
+<p>
+<pb n="KR4i0056_WYG_044-33a"/>
+</p>
+<p>
+<pb n="KR4i0056_WYG_044-34a"/>
+</p>
+<p>
+<pb n="KR4i0056_WYG_044-35a"/>
+</p>
+<p>
+<pb n="KR4i0056_WYG_044-36a"/>
+</p>
+<p>
+<pb n="KR4i0056_WYG_044-37a"/>
+</p>
+<p>
+<pb n="KR4i0056_WYG_044-38a"/>
+</p>
+<p>
+<pb n="KR4i0056_WYG_044-39a"/>
+</p>
+<p>
+<pb n="KR4i0056_WYG_044-40a"/>
+</p>
+<p>
+<pb n="KR4i0056_WYG_044-41a"/>
+</p>
+<p>
+<pb n="KR4i0056_WYG_044-42a"/>
+</p>
+<p>
+<pb n="KR4i0056_WYG_044-43a"/>
+</p>
+<p>
+<pb n="KR4i0056_WYG_044-44a"/>
+</p>
+<p>
+<pb n="KR4i0056_WYG_044-45a"/>
+</p>
+<p>
+<pb n="KR4i0056_WYG_044-46a"/>
+</p>
+<p>
+<pb n="KR4i0056_WYG_044-47a"/>
+</p>
+<p>
+<pb n="KR4i0056_WYG_044-48a"/>
+</p>
+<p>
+<pb n="KR4i0056_WYG_044-49a"/>
+</p>
+<p>
+<pb n="KR4i0056_WYG_044-50a"/>
+</p>
+<p>
+<pb n="KR4i0056_WYG_044-51a"/>
+</p>
+<p>
+<pb n="KR4i0056_WYG_044-52a"/>
+</p>
+<p>
+<pb n="KR4i0056_WYG_044-53a"/>
+</p>
+<p>
+<pb n="KR4i0056_WYG_044-54a"/>
+</p>
+<p>
+<pb n="KR4i0056_WYG_044-55a"/>
+</p>
+<p>
+<pb n="KR4i0056_WYG_044-56a"/>
+</p>
+<p>
+<pb n="KR4i0056_WYG_044-57a"/>
+</p>
+<p>
+<pb n="KR4i0056_WYG_044-58a"/>
+</p>
+<p>
+<pb n="KR4i0056_WYG_044-59a"/>
+</p>
+<p>
+<pb n="KR4i0056_WYG_044-60a"/>
+</p>
+<p>
+<pb n="KR4i0056_WYG_044-61a"/>
+</p>
+<p>
+<pb n="KR4i0056_WYG_044-62a"/>
+</p>
+<p>
+<pb n="KR4i0056_WYG_044-63a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR4i0056_WYG_044-63b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　厯代詩話巻四十四<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

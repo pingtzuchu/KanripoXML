@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="1a"/>
+春秋諸國統紀後序<lb/>
+延祐丁巳夏大兄司成君居閒纂春秋統紀凡若干卷<lb/>
+客有問者曰大經若春秋自胡氏傳行於世儒者拱嘿<lb/>
+朱子嘗曰看春秋且當先從胡氏是來者不復有所作<lb/>
+矣及觀統紀剖析淵微發露大中條貫參差指歸攸當<lb/>
+其說卓然不蹈前人一句一誼昔云春秋寓王法於魯<lb/>
+史又云春秋無襃貶又云治春秋當先治五霸之功罪<lb/>
+至於大法大訓葢未有若統紀之能斥言而指明者俾<lb/>
+<pb n="1b"/>
+讀之者思過半矣僕應曰非然夫士之間居退處匪賴<lb/>
+聖賢典訓朝夕殆無為也汗漫涉獵而不深潛心思則<lb/>
+亦無得於己深潛心思矣苟不筆之於紙則亦不能有<lb/>
+以驗夫日新之功此統紀所以作也為㓜而學老而未<lb/>
+衰者焉客又曰若然信其功多於前矣夫較瑚璉珪璋<lb/>
+之制者無勤於陶鎔追琢凡為陶鎔追琢者先賢也其<lb/>
+功盛矣大矣若統紀之作謂有功遺經則可謂功多前<lb/>
+人則不可客謝而去因記其說於卷末是年秋九月日<lb/>
+<pb n="2a"/>
+思恭頓首書<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　春秋諸國統紀卷六<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

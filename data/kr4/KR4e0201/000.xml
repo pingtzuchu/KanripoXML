@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>弇州四部稿</head>
+    <p>
+<pb n="KR4e0201_WYG_000-1a"/>
+欽定四庫全書　　　　　集部六<lb/>
+　弇州四部稿　　　　　　别集類五<hi>明</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案弇州四部稿一百七十四巻續<lb/>
+　　　　稿二百七巻明王世貞撰世貞弇州外集<lb/>
+　　　　觚不觚録諸書已著録史部中此乃所著别<lb/>
+　　　　集其曰四部者賦部詩部文部説部也正稿<lb/>
+　　　　説部凡七種曰劄記内篇曰劄記外篇曰左<lb/>
+<pb n="KR4e0201_WYG_000-1b"/>
+　　　　逸曰短長曰藝苑巵言曰巵言附録曰宛委<lb/>
+　　　　餘編續稿則但有賦詩文三部而無説部世<lb/>
+　　　　貞與李攀龍齊名而才實過之當時婁東厯<lb/>
+　　　　下狎主文盟奉之者為玉律金科詆之者為<lb/>
+　　　　塵羮土飯盛衰遞易毁譽迭興藝苑紛呶終<lb/>
+　　　　無定説要之世貞初時議論太髙聲名太早<lb/>
+　　　　盛氣坌涌不暇深自檢㸃致重貽海内口實<lb/>
+　　　　逮時移論定向之力矯其弊以變為纎仄破<lb/>
+<pb n="KR4e0201_WYG_000-2a"/>
+　　　　碎之習者久已為衆所唾棄而學者論讀書<lb/>
+　　　　種子究不能不心折弇州是其才雖足以自<lb/>
+　　　　累而其所以不可磨滅者亦即在於此今其<lb/>
+　　　　書具在雖未免瑕瑜雜陳然第舉一時之巨<lb/>
+　　　　擘而言亦終不能舎世貞而别有所屬也四<lb/>
+　　　　部正稿為世貞撫鄖陽時所刋續稿則世貞<lb/>
+　　　　乞休後手裒晩嵗之作以付其少子駿者至<lb/>
+　　　　崇禎間其孫始鋟以行世云乾隆四十三年<lb/>
+<pb n="KR4e0201_WYG_000-2b"/>
+　　　　十一月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>四溟集</head>
+    <p>
+<pb n="KR4e0216_WYG_000-1a"/>
+欽定四庫全書　　　　　集部六<lb/>
+　四溟集　　　　　　　　别集類五<hi>明</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案四溟集十巻明謝榛撰榛字茂秦<lb/>
+　　　　臨清人事迹具明史文苑傳榛早工詞曲年<lb/>
+　　　　十六作樂府商調少年争歌之已而折節讀<lb/>
+　　　　書刻意為詩李攀龍王世貞輩結詩社惟榛<lb/>
+　　　　為長及攀龍名盛榛與論生平頗相刻責攀<lb/>
+<pb n="KR4e0216_WYG_000-1b"/>
+　　　　龍輩遂怒相排擠削其名于七子五子之列<lb/>
+　　　　然當結社之始尚論有唐諸家定稱詩三要<lb/>
+　　　　皆自榛發諸人實心師其言也後薄游諸藩<lb/>
+　　　　邸並為上客雖終于布衣而聲價重一時趙<lb/>
+　　　　康王至輟侍姬以贈之如姜䕫小紅故事其<lb/>
+　　　　救盧柟一事尤見氣誼攀龍送榛西㳺詩所<lb/>
+　　　　謂明時抱病風塵下短褐論交天地間者頗<lb/>
+　　　　肖其實其詩亦不失為作者七子交口詆訶<lb/>
+<pb n="KR4e0216_WYG_000-2a"/>
+　　　　乃一時㤙怨之詞固不足據為定論矣是編<lb/>
+　　　　刻於萬厯壬子乃臨清州知州盛以進得趙<lb/>
+　　　　邸舊本重為補訂又以榛所撰詩家直説二<lb/>
+　　　　巻附於巻首案榛詩足以傳而論詩之語則<lb/>
+　　　　多迂謬今惟録此集其詩家直説則存目於<lb/>
+　　　　詩文評焉乾隆四十五年四月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

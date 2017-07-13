@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4d0309_SBCK_000-1a"/>
+淳熙丙午立夏余遊南嶽至雲密峯徘徊禹溪橋<lb/>
+下上愛其幽絶即屏置僕馬獨尋溪源行且吟哦<lb/>
+顧見茅屋蔽虧林木間若士坐大石上眉宇間爽<lb/>
+年可四五十心知其異人即前揖之相接甚溫便<lb/>
+邀入舍内煎苦茶共食從容問從何來適吟何語<lb/>
+余以實告且舉似昨日望嶽小山不能雲大山半<lb/>
+爲天之句若士喜謂余可人遂探囊出書一卷云<lb/>
+是詩說老夫頃者常留意兹事故有此書今無作<lb/>
+矣徑以付君余益異之然匆匆不暇觀但袖藏致<lb/>
+謝而已問其年則慶暦間生始大驚意必得長生<lb/>
+不老之道再三求敎笑而不言亦不道姓名再相<lb/>
+<pb n="KR4d0309_SBCK_000-1b"/>
+留噉黄精粥余辭以與人偕來在官道上相候告<lb/>
+别出至橋上馬偏詢土人無知者惟一老父嘆曰<lb/>
+此先生久不出今猶在耶與欲語忽失所在悵然<lb/>
+而去晚解鞍細讀其書甚偉常寘枕中時時翫味<lb/>
+好事者有聞間來取觀亦不靳也昔軒轅彌明能<lb/>
+詩多在南山若士豈其儔哉白石姜䕫堯章序<lb/>
+<pb n="KR4d0309_SBCK_000-2a"/>
+白石道人歌曲目錄<lb/>
+　　卷一<lb/>
+　　　　聖宋鐃歌鼓吹曲十四首<lb/>
+　　　　　上帝命<lb/>
+　　　　　河之表<lb/>
+　　　　　淮海濁<lb/>
+　　　　　沅之上<lb/>
+　　　　　皇威暢<lb/>
+　　　　　蜀山邃<lb/>
+　　　　　時雨霈<lb/>
+　　　　　望鍾山<lb/>
+<pb n="KR4d0309_SBCK_000-2b"/>
+　　　　　　　　大哉仁<lb/>
+　　　　　　　　謳歌歸<lb/>
+　　　　　　　　伐功繼<lb/>
+　　　　　　　　帝臨墉<lb/>
+　　　　　　　　維四葉<lb/>
+　　　　　　　炎精復<lb/>
+　　　　　　越九歌<lb/>
+　　　　　　　　帝舜<lb/>
+　　　　　　　　王禹<lb/>
+　　　　　　　　越王<lb/>
+　　　　　　　　越相<lb/>
+<pb n="KR4d0309_SBCK_000-3a"/>
+　　　　　　　項王<lb/>
+　　　　　　　濤之神<lb/>
+　　　　　　　曹娥<lb/>
+　　　　　　　龎將軍<lb/>
+　　　　　　　旌忠<lb/>
+　　　　　　　蔡孝子<lb/>
+　　　　　琴曲一首<lb/>
+　　　　　　　古怨<lb/>
+　　　　卷二<lb/>
+　　　　　令<lb/>
+　　　　　　　小重山令<lb/>
+<pb n="KR4d0309_SBCK_000-3b"/>
+　　　　　　江梅引<lb/>
+　　　　　　驀山溪<lb/>
+　　　　　　鶯聲繞紅樓<lb/>
+　　　　　　鬲溪梅令<lb/>
+　　　　　　阮郎歸二首<lb/>
+　　　　　　好事近<lb/>
+　　　　　　點絳唇二首<lb/>
+　　　　　　虞美人二首<lb/>
+　　　　　　憶王孫<lb/>
+　　　　　　少年遊<lb/>
+　　　　　　鷓鴣天七首<lb/>
+<pb n="KR4d0309_SBCK_000-4a"/>
+　　　　　　夜行船<lb/>
+　　　　　　杏花天影<lb/>
+　　　　　　醉吟商小品<lb/>
+　　　　　　玉梅令<lb/>
+　　　　　　踏莎行<lb/>
+　　　　　　訴衷情<lb/>
+　　　　　　浣溪紗六首<lb/>
+　　　卷三<lb/>
+　　　　慢<lb/>
+　　　　　　霓裳中序第一<lb/>
+　　　　　　慶宫春<lb/>
+<pb n="KR4d0309_SBCK_000-4b"/>
+　　　　　　　齊天樂<lb/>
+　　　　　　　滿江紅<lb/>
+　　　　　　　一蕚紅<lb/>
+　　　　　　　念奴嬌二首<lb/>
+　　　　　　　眉嫵<lb/>
+　　　　　　　月下笛<lb/>
+　　　　　　　清波引<lb/>
+　　　　　　　法曲獻仙音<lb/>
+　　　　　　　琵琶仙<lb/>
+　　　　　　　玲瓏四犯<lb/>
+　　　　　　　側犯<lb/>
+<pb n="KR4d0309_SBCK_000-5a"/>
+　　　　　　　水龍吟<lb/>
+　　　　　　　探春慢<lb/>
+　　　　　　　　八歸<lb/>
+　　　　　　　解連環<lb/>
+　　　　　　　喜遷鶯慢<lb/>
+　　　　　　　摸魚兒<lb/>
+　　　　卷四<lb/>
+　　　　　自製曲<lb/>
+　　　　　　　揚州慢<lb/>
+　　　　　　　長亭怨慢<lb/>
+　　　　　　　淡黄柳<lb/>
+<pb n="KR4d0309_SBCK_000-5b"/>
+　　　　　　　　石湖仙<lb/>
+　　　　　　　　暗香<lb/>
+　　　　　　　　疎影<lb/>
+　　　　　　　　惜紅衣<lb/>
+　　　　　　　　角招<lb/>
+　　　　　　　　徴招<lb/>
+　　　　　　　　秋宵吟<lb/>
+　　　　　　　凄涼犯<lb/>
+　　　　　　　　翠樓吟<lb/>
+　　　　　　　　湘月<lb/>
+　　　　别集<lb/>
+<pb n="KR4d0309_SBCK_000-6a"/>
+　　　　　　小重山令<lb/>
+　　　　　　念奴嬌<lb/>
+　　　　　　卜算子八首<lb/>
+　　　　　　洞仙歌<lb/>
+　　　　　　驀山溪<lb/>
+　　　　　　永遇樂<lb/>
+　　　　　　虞美人<lb/>
+　　　　　　永遇樂<lb/>
+　　　　　　水調歌頭<lb/>
+　　　　　　漢宫春二首<lb/>
+　　　　　跋<lb/>
+<pb n="KR4d0309_SBCK_000-6b"/>
+</p>
+<p>
+白石道人歌曲目錄<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

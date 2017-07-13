@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4c0031_SBCK_000-1a"/>
+敕浙西觀察使　牒湖州<lb/>
+　　　當州皎然禪師集<lb/>
+牒得集賢殿　御書院牒前件集庫内無本交闕進<lb/>
+奉牒使請速寫送院訖垂報者牒州寫送使者故牒<lb/>
+　　　　貞元八年正月十日牒<lb/>
+　　　　都團練副使權判兼侍御史李元<lb/>
+　　　　使潤州刺史兼御史中丞王緯<lb/>
+<pb n="KR4c0031_SBCK_000-1b"/>
+　　呉興晝上人集序<lb/>
+　　　　朝議郎大夫守湖州刺史于頔撰<lb/>
+詩自風雅道息二百餘年而騷人作其㫖愁思其文<lb/>
+婉麗亡楚之變風歟至西漢李陵蘇武始全為五言<lb/>
+詩體源扵風流於騷故多憂傷離逺之情梁昭明所<lb/>
+撰文選録古詩十九首亡其名氏觀其詞葢東漢之<lb/>
+世亦李蘇之流也洎建安中王仲宣曹子建鼓其風<lb/>
+晉世陸士衡潘安仁揚其波王曹以氣勝潘陸以文<lb/>
+尚氣勝者魏祖興武功扵二京巳覆文尚者晉武亡<lb/>
+帝圗於五胡肇亂觀其人文興亡之蹟人焉瘦哉人<lb/>
+焉瘦哉宋髙祖平桓玄定江表文帝繼業五十年間<lb/>
+<pb n="KR4c0031_SBCK_000-2a"/>
+江左寧謐魏晉文章鬰然復興康樂侯謝靈運獨歩<lb/>
+江南俯視潘陸其文炳而麗其氣逸而暢驅風雷於<lb/>
+江山變晴昏於洲渚烟雲以之慘淡景象為其澄霽<lb/>
+信江表之文英五言之麗則者也迨于齊世宣城守<lb/>
+謝玄暉亦得其詞調涵於氣格不侔康樂矣梁陳巳<lb/>
+降雖作者不絶而五言之道不勝其情矣有唐呉興<lb/>
+開士釋皎然字清晝即康樂之十世孫得詩人之奥<lb/>
+㫖傳乃祖之菁華江南詞人莫不楷範極扵緣情綺<lb/>
+靡故詞多芳澤師古典制故律尚清壮其或發朙玄<lb/>
+理則深契眞如又不可得而思議也貞元壬申歲余<lb/>
+分刺呉興之眀年集賢殿御書院有命徴其文集余<lb/>
+<pb n="KR4c0031_SBCK_000-2b"/>
+遂　而編之得詩筆五百四十六首分為十卷納扵<lb/>
+延閣書府上人以余嘗書述論前代之詩遂託余以<lb/>
+集序辭不獲巳畧志其變上人之植性清和禀質端<lb/>
+懿中秘空寂外開方便玅言説於文字了心境扵定<lb/>
+慧又釋門之慈航智炬也余游方之内者何足以扣<lb/>
+玄關謝氏世為詩人豈佛書所謂習氣云爾<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

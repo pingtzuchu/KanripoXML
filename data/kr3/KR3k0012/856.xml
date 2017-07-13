@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3k0012_SBCK_856-1a"/>
+太平御覽卷第八百五十六<lb/>
+　飲食部十四<lb/>
+　　　茹　菹　瓮<lb/>
+　　　　　茹<lb/>
+史記曰公儀休食茹而美㧞其園葵<lb/>
+後漢書曰孔奮爲姑臧長時毎居縣者不盈數月輙致豊<lb/>
+積奮在職四年財産無所増事母孝謹雖自儉約而奉養<lb/>
+極求珎膳躬率妻子同甘菜茹<lb/>
+沈約宋書曰文帝爲王玄謨作四時茹<lb/>
+詩云堇茹供春膳粟飱充夏飡<lb/>
+傳玄詩曰厨人進藿茹有酒不盈柸<lb/>
+枚乗七發曰白露之茹<lb/>
+　　　　　菹<lb/>
+<pb n="KR3k0012_SBCK_856-1b"/>
+周禮曰朝事之豆其實韭菹昌本菁菹苑菹<hi>昌本昌蒲祖也切之四寸</hi>
+<hi>爲之菁菹韭菹鄭大夫讀苑爲茅或曰苑水草杜子春讀苑爲夘玄謂菁蔓菁也苑鳬葵也</hi>饋食之豆<lb/>
+其實葵菹加豆之實芹菹深蒲菭菹筍菹<hi>芹楚葵也鄭司農云深蒲弱入水深</hi>
+<hi>故曰深蒲或曰深蒲桒耳菭水中魚衣也玄謂深蒲蒲始生水中子也菭箭葫荀竹萌</hi>王舉則共七<lb/>
+𦵔<hi>韭菁苑葵芹菭筍菹凢醯醢所和細切爲韲今物若䐑爲菹韲菹之稱菜肉通稱矣</hi>
+記曰麋鹿爲菹野豕爲軒皆　而不切<graphic n="KR0874" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0874.png" mimeType="image/png"/>爲辟雞菟爲宛<lb/>
+脾皆　而切之切葱若薤實之醯以柔之<hi>此軒辟雞宛脾皆菹類也其作</hi>
+<hi>之狀以醯與薫菜淹之殺肉及醒氣也</hi>
+又曰水草之菹陸産之醯小物備矣三牲之爼八簋之實<lb/>
+美物備矣昆蟲之異草木之實隂陽之物備矣<hi>水草之菹芹苑属陸</hi>
+<hi>産之醯蚳蝝之属天子之祭八簋昆蟲謂温生寒死之蟲也内則可食之物有蜩范草木之實菱茨榛栗之属</hi>
+傳曰王使周公閱來聘饗有昌歜<hi>昌菹</hi>
+毛詩曰中田有廬疆埸有瓜是剥是菹<hi>剥瓜爲菹也箋云中田土也農人作廬焉</hi>
+<pb n="KR3k0012_SBCK_856-2a"/>
+<hi>以便其田事於畔上種瓜瓜成又入其稅天子剥削淹漬以爲菹貴四時之異物</hi>
+毛詩義䟽曰蒲周禮以爲菹謂蒲始生取其中心入地蒻<lb/>
+大如指白生噉之甘脆又煑以苦酒受之如食筍法大美<lb/>
+今呉人以爲菹<lb/>
+廣雅曰韲墜䖆䔯菹也<hi>墜大内切䔯口故切</hi>
+蒼頡解詁曰䔯酢菹也<lb/>
+說文曰菹菜酢也蘫瓜菹也<hi>蘫力甘切</hi>
+釋名曰菹阻也生釀之遂使阻於寒温之間不得爛也<lb/>
+吕氏春秋曰文王好菹孔子聞之䠞頞而食之三年然後<lb/>
+美之<lb/>
+賈誼新書曰楚惠王食寒菹而得蛭因遂吞之腹有病而<lb/>
+不能食之令尹入問曰王安得此疾王曰我食寒菹而<lb/>
+得蛭念譴之而不得其罪乎是法廢而威不立非所以使國<lb/>
+<pb n="KR3k0012_SBCK_856-2b"/>
+聞也譴而行其誅乎則庖宰監者皆當死心又弗忍也故<lb/>
+吾恐蛭之見也因遂呑之令尹避席再拜而賀曰臣聞天<lb/>
+道無親唯德是輔王有仁德天之所奉也是昔也惠王之<lb/>
+後而蛭岀其夕病心腹之積皆愈<lb/>
+晉書曰呉隱之年十餘歳丁父母憂食鹹𦵔以其味甘掇<lb/>
+而弃之<lb/>
+盧諶祭法曰秋祠有菹消<hi>食經有此法也</hi>
+范汪祠制曰孟冬不鹹菹<lb/>
+　　　　　瓮<lb/>
+釋名曰生　葱薤曰瓮言柔滑兊兊然也<lb/>
+太平御覽卷第八百五十六<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

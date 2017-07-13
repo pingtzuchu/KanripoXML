@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>倪石陵書</head>
+    <p>
+<pb n="KR4d0239_WYG_000-1a"/>
+欽定四庫全書　　　　　集部四<lb/>
+　倪石陵書　　　　　　　别集類三<hi>宋</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案倪石陵書一巻宋倪朴撰朴字文<lb/>
+　　　　卿浦江人居於石陵村因以為號嘗應進士<lb/>
+　　　　舉紹興未為書萬言擬上髙宗而不果鄭伯<lb/>
+　　　　熊陳亮皆極賞之後為里人所搆徙置筠州<lb/>
+　　　　以赦得還呉師道宋濂皆為作傳師道稱其<lb/>
+<pb n="KR4d0239_WYG_000-1b"/>
+　　　　䆒悉用兵攻守險要尤精地理著輿地㑹元<lb/>
+　　　　志四十卷今不傳傳者僅此集蓋十不存一<lb/>
+　　　　矣首擬上髙宗書又書劄八篇書唐史諸傳<lb/>
+　　　　七則辯一篇大抵皆古健有法惟其觀音院<lb/>
+　　　　鐘刻辯論呉越所以改元者乃因梁滅于唐<lb/>
+　　　　不肯反面事仇奉正朔于唐為錢氏立國之<lb/>
+　　　　大節夫錢鏐固唐遺民也當朱温僭逆之時<lb/>
+　　　　羅隱之言凛然大義乃不以篡唐之梁為仇<lb/>
+<pb n="KR4d0239_WYG_000-2a"/>
+　　　　而反以滅梁之唐為仇是非顛倒莫甚于是<lb/>
+　　　　朴因汴京喪亂務伸復讎之義遂併此事而<lb/>
+　　　　附㑹之可謂斯言之玷而鄭楷杜桓二跋乃<lb/>
+　　　　特稱是篇其言亦甚矣巻未又有呉萊一序<lb/>
+　　　　乃為謝翺輯朴雜著而作者獨不舉此篇其<lb/>
+　　　　識固在二人上也翺所輯久無傳本其序葢<lb/>
+　　　　自淵穎集錄出者此本則明嘉靖丙戌麻城<lb/>
+　　　　毛鳯韶所輯其不曰集而曰書者鳯韶自序<lb/>
+<pb n="KR4d0239_WYG_000-2b"/>
+　　　　謂以上髙宗書為主舉所重云乾隆四十六<lb/>
+　　　　年十二月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

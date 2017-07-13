@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>山海經卷十八</head> <lb/>
+    <p>
+<pb n="KR3l0090_WYG_018-1a"/>
+欽定四庫全書<lb/>
+　山海經卷十八<lb/>
+　　　　　　　　　　　　　晉　郭璞　撰<lb/>
+　　海内經<lb/>
+東海之内北海之隅有國名曰朝鮮天毒其人水居<hi>朝鮮</hi>
+<hi>今樂浪郡也天毒即天竺國貴道徳有文書金銀錢貨浮屠出此國中也晋大興四年天竺胡王獻珍寳</hi>偎<lb/>
+人愛之<hi>偎亦愛也音𨼆隈反</hi>
+西海之内流沙之中有國名曰壑市<hi>音郝</hi>
+<pb n="KR3l0090_WYG_018-1b"/>
+西海之内流沙之西有國名曰氾葉<hi>音如氾濫之氾</hi>
+流沙之西有鳥山者三水出焉<hi>三水同出一山也</hi>爰有黄金璿<lb/>
+瑰丹貨銀鐵皆流于此中<hi>言其中有雜珍竒寳也</hi>又有淮山好水<lb/>
+出焉<lb/>
+流沙之東黑水之西有朝雲之國司彘之國黄帝妻雷<lb/>
+祖生昌意<hi>世本云黄帝娶于西陵氏之子謂之纍祖産青陽及昌意</hi>昌意降處若水<lb/>
+生韓流<hi>竹書云昌意降居若水産帝乾荒乾荒即韓流也生帝顓頊</hi>韓流擢首謹耳<lb/>
+<hi>擢首長咽謹耳未聞</hi>人面豕喙麟身渠股<hi>渠車輛言跰脚也大傳曰大如車渠</hi>豚止<lb/>
+<pb n="KR3l0090_WYG_018-2a"/>
+<hi>止足</hi>取淖子曰阿女生帝顓頊<hi>世本云顓頊母濁山氏之子名昌僕</hi>
+流沙之東黑水之間有山名不死之山<hi>即員丘也</hi>華山青水<lb/>
+之東有山名曰肇山有人名曰柏高<hi>柏子高仙者也</hi>柏高上下<lb/>
+於此至于天<hi>言翺翔雲天徃來此山也</hi>
+西南黑水之間有都廣之野后稷葬焉<hi>其城方三百里盖天下之中素</hi>
+<hi>女所出也離騷曰絶都廣野而直指號</hi>爰有膏菽膏稻膏黍膏稷<hi>言味好甘</hi>
+<hi>滑如膏外傳曰膏粢之子菽豆粢粟也</hi>百榖自生冬夏播琴<hi>播琴猶播殖方俗言耳</hi>
+鸞鳥自歌鳯鳥自儛靈壽實華<hi>靈壽木名也似竹有枝節</hi>草木所聚<lb/>
+<pb n="KR3l0090_WYG_018-2b"/>
+<hi>在此叢殖也</hi>爰有百獸相羣爰處<hi>於此羣聚</hi>此草也冬夏不死<lb/>
+南海之内黑水青水之間有水名曰若木<hi>𣗳赤華青</hi>若水出<lb/>
+焉有禺中之國有列襄之國有靈山有赤蛇在木上名<lb/>
+曰蝡蛇木食<hi>言不食禽獸也音如耎弱之耎</hi>
+有鹽長之國有人焉鳥首名曰鳥氏<hi>今佛書中有此人即鳥夷也</hi>有<lb/>
+九丘以水絡之<hi>絡猶繞也</hi>名曰陶唐之丘<hi>陶唐堯號</hi>有叔得之丘<lb/>
+孟盈之丘昆吾之丘<hi>此山出名金也尸子曰昆吾之金</hi>黑白之丘赤望<lb/>
+之丘參衛之丘武夫之丘<hi>此山出美石</hi>神民之丘<hi>言上有神人</hi>有<lb/>
+<pb n="KR3l0090_WYG_018-3a"/>
+木青葉紫莖𤣥華黄實名曰建木百仭無枝有九欘<hi>枝回</hi>
+<hi>曲也音如斤斸之斸</hi>下有九枸<hi>根盤錯也淮南子曰/大木則根欋音劬</hi>其實如麻<hi>似麻</hi>
+<hi>子也</hi>其葉如<graphic n="KR0621" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0621.png" mimeType="image/png"/>
+                    <hi>
+                        <graphic n="KR0621" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0621.png" mimeType="image/png"/>木似/棠梨也</hi>大皥爰過<hi>言庖羲於/此經過也</hi>黄帝所為<hi>言治</hi>
+<hi>䕶之也</hi>有窫窳龍首是食人<hi>在弱水中</hi>有青獸人面名曰猩猩<lb/>
+<hi>能言</hi>
+西南有巴國<hi>今三已是</hi>大皥生咸鳥咸鳥生乘釐乘釐生後<lb/>
+照後照是始為巴人<hi>為之始祖</hi>有國名曰流黄辛氏<hi>即鄷氏也</hi>其<lb/>
+域中方三百里其出是塵土<hi>言殷盛也</hi>有巴遂山澠水出焉<lb/>
+<pb n="KR3l0090_WYG_018-3b"/>
+又有朱卷之國有黑蛇青首食𧰼<hi>即巴蛇也</hi>
+南方有贑巨人<hi>即梟陽也音感</hi>人面長臂黑身有毛反踵見人<lb/>
+笑亦笑唇蔽其面因即逃也又有黑人虎首鳥足兩手<lb/>
+持蛇方啗之<lb/>
+有羸民鳥足<hi>音盈</hi>有封豕<hi>大猪也羿/射殺之</hi>有人曰苖民<hi>三苖民也</hi>有<lb/>
+神焉人首蛇身長如轅<hi>大如車轂澤神也</hi>左右有首<hi>岐頭</hi>衣紫衣<lb/>
+冠旃冠名曰延維<hi>委蛇</hi>人主得而饗食之伯天下<hi>齊桓公出田於</hi>
+<hi>大澤見之遂覇諸侯亦見莊周作朱冠</hi>有鸞鳥自歌鳯鳥自儛鳯鳥首文<lb/>
+<pb n="KR3l0090_WYG_018-4a"/>
+曰德翼文曰順膺文曰仁背文曰義見則天下和<hi>言和平也</hi>
+又有青獸如莵名曰<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>狗<hi>音如朝菌之菌</hi>有翠鳥有孔鳥<hi>孔雀也</hi>
+南海之内有衡山<hi>南嶽</hi>有<graphic n="KR0818" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0818.png" mimeType="image/png"/>山<hi>音芝菌/之菌</hi>有桂山<hi>或云衡山有菌桂桂</hi>
+<hi>員似竹見本草</hi>有山名三天子之都<hi>一本三天子之鄣山</hi>
+南方蒼梧之丘蒼梧之淵其中有九嶷<hi>音疑</hi>山舜之所塟<lb/>
+在長沙零陵界中<hi>山今在零陵營道縣南其山九谿皆相似故云九疑古者總名其地為蒼</hi>
+<hi>梧也</hi>北海之内有蛇山者蛇水出焉東入于海有五彩之<lb/>
+鳥飛蔽一鄉<hi>漢宣帝元康元年五色鳥以萬數過蜀都即此鳥也</hi>名曰翳鳥<hi>鳯属也離</hi>
+<pb n="KR3l0090_WYG_018-4b"/>
+<hi>騷曰駟玉虬而乘翳</hi>又有不距之山巧倕葬其西<hi>倕堯巧工也音端</hi>
+北海之内有反縛盗械帶戈常倍之佐名曰相顧之尸<lb/>
+<hi>亦貳負臣危之𩔖</hi>伯夷父生西岳西岳生先龍先龍是始生氐<lb/>
+羌氐羌乞姓<hi>伯夷父顓頊師今氐羌其苖裔也</hi>
+北海之内有山名曰幽都之山黑水出焉其上有𤣥鳥<lb/>
+𤣥蛇𤣥豹𤣥虎<hi>黑虎名儵見爾雅</hi>𤣥孤蓬尾<hi>蓬叢也阻留反說苑曰蓬狐文豹之</hi>
+<hi>皮</hi>有大𤣥之山有𤣥丘之民<hi>言丘上人/物盡黑也</hi>有大幽之國<hi>即幽</hi>
+<hi>民也穴居無衣</hi>有赤脛之民<hi>膝已下正赤色</hi>
+<pb n="KR3l0090_WYG_018-5a"/>
+有釘靈之國其民從膝已下有毛馬蹄善走<hi>詩含神霧日馬蹄自</hi>
+<hi>鞭其蹄日行三百里</hi>
+炎帝之孫伯陵伯陵同吳權之妻阿女縁婦<hi>同猶通言淫之也吳</hi>
+<hi>權人姓名</hi>縁婦孕三年<hi>孕懐/身也</hi>是生鼓延殳始為侯<hi>三子名也殳音殊</hi>
+鼓延是始為鍾<hi>世本云母句作罄倕作鐘</hi>為樂風<hi>作樂之曲制</hi>
+黄帝生駱明駱明生白馬白馬是為鯀<hi>即禹父也世本曰黄帝生昌意</hi>
+<hi>昌意生顓頊顓頊生鯀</hi>帝俊生禺號禺號生淫梁淫梁生番禺是<lb/>
+始為舟<hi>世本云共鼓貨狄作舟</hi>番禺生奚仲奚仲生吉光吉光是<lb/>
+<pb n="KR3l0090_WYG_018-5b"/>
+始以木為車<hi>世本云奚仲作車此言吉光明其父平共創作意是以互稱之</hi>少皥生般<lb/>
+<hi>音班</hi>般是始為弓矢<hi>世本云牟夷作矢揮作弓弓矢一器作者兩人於義有疑此言般之作是</hi>
+帝俊賜羿彤弓素矰<hi>彤弓朱弓矰矢名以白羽羽之外傳白羽之矰望之如荼也</hi>以<lb/>
+扶下國<hi>言令羿以射道除患扶助下國</hi>羿是始去恤下地之百艱<hi>言射殺鑿</hi>
+<hi>齒封豕之属也有窮后羿慕羿射故號此名也</hi>帝俊生晏龍晏龍是為琴瑟<hi>世本</hi>
+<hi>云伏羲作琴神農作瑟</hi>帝俊有子八人是始為歌舞帝俊生三身<lb/>
+三身生義均義均是始為巧倕是始作下民百巧后稷<lb/>
+是播百榖稷之孫曰叔均是始作牛耕<hi>始用牛犂</hi>大比赤隂<lb/>
+<pb n="KR3l0090_WYG_018-6a"/>
+<hi>或作音</hi>是始為國<hi>得封/為國</hi>禹鯀是始布土均定九州<hi>布猶敷也書曰</hi>
+<hi>禹敷土奠高山大川</hi>炎帝之妻赤水之子聽訞生炎居炎居生節<lb/>
+並節並生戲器戲器生祝融<hi>祝融髙辛氏火正號</hi>祝融降處於江<lb/>
+水生共工共工生術器術器首方顚<hi>頭頂平也</hi>是復土穰以<lb/>
+處江水<hi>復祝融之所也</hi>共工生后土后土生噎鳴噎鳴生歳十<lb/>
+有二<hi>生十二子皆以歳名名之故云然</hi>洪水滔天<hi>滔漫也</hi>鯀竊帝之息壤<lb/>
+以堙洪水<hi>息壤者言土自長息無限故可以塞洪水也開筮曰滔滔洪水無所止極伯鯀乃以息石</hi>
+<hi>息壤以塡洪水漢元帝時臨淮徐縣地涌長五六里髙二丈即息壤之𩔖也</hi>不待帝命帝令<lb/>
+<pb n="KR3l0090_WYG_018-6b"/>
+祝融殺鯀于羽郊<hi>羽山之郊</hi>鯀復生禹<hi>開筮曰鯀死三歳不腐剖之以呉刀化為</hi>
+<hi>黄龍也</hi>帝乃命禹卒布土以定九州<hi>鯀績用不成故復命禹終其功</hi>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　山海經卷十八<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>啓蒙意見卷四</head> <lb/>
+    <p>
+<pb n="1a"/>
+欽定四庫全書<lb/>
+　啓蒙意見卷四<lb/>
+　　　　　　　　　　　　明　韓邦奇　撰<lb/>
+　　七占<lb/>
+　七占古法不傳乆矣朱子以事理推之如前然猶有<lb/>
+　可疑者如一二爻主變爻四五爻變主不變爻三爻<lb/>
+　變主本之彖辭且占主乎變一爻二爻變占變爻是<lb/>
+　矣至於四爻五爻變而占不變爻辭變爻反無所為<lb/>
+<pb n="1b"/>
+　不惟不見用九用六之意以七陽之爻而附潛龍之<lb/>
+　九八隂之爻而附履霜之六切恐吉凶之應自不孚<lb/>
+　矣又五爻之變所争者上一爻耳尚不許以彖辭至<lb/>
+　於三爻之變反用彖辭夫彖辭斷一卦之吉凶者也<lb/>
+　三爻才小成耳豈可遽以彖辭當之哉况前十卦嫌<lb/>
+　於六爻不變後十卦嫌於六爻皆變前後三四五咸<lb/>
+　用爻辭而三爻獨用彖詞亦有未安余意除六爻變<lb/>
+　者用彖辭餘皆用爻除六爻不變者占乎彖餘皆占<lb/>
+<pb n="2a"/>
+　變庶九六之占各以類附不違占變之説矣又二爻<lb/>
+　變主上爻四爻變主下爻且貞悔初無定在以六爻<lb/>
+　言則下三爻為貞上三爻為悔以四爻言則下二爻<lb/>
+　為貞上二爻為悔本卦為貞之卦為悔當以類相從<lb/>
+　變在前三十二圖占本卦在後三十二圖占之卦是<lb/>
+　矣如二爻變主上爻是為貞變而占悔四爻變主下<lb/>
+　爻是為悔變而占貞愚意二爻變主下爻四爻變主<lb/>
+　上爻庶貞悔各得以類從矣<lb/>
+<pb n="2b"/>
+今以占法列之於後<lb/>
+　凡卦六爻皆不變則占本卦彖辭而以内卦為貞外<lb/>
+　卦為悔<lb/>
+　一爻變則以本卦變爻辭占<lb/>
+　　<hi>此二條仍舊</hi>
+　二爻變則以本卦二變爻辭占仍以下爻為主<lb/>
+　三爻變前十卦占本卦變爻辭後十卦占之卦變爻<lb/>
+　辭從其兩<lb/>
+<pb n="3a"/>
+　四爻變占之卦變爻辭主上二爻吉凶適仍以上一<lb/>
+　爻為主<lb/>
+　五爻變則以之卦變爻辭占從其三<lb/>
+　　<hi>此四條新定</hi>
+　六爻變乾坤占二用餘占之卦之彖辭<lb/>
+　　<hi>此亦仍舊</hi>
+　今以六十四卦之變列為三十二圖得初卦者自初<lb/>
+　而終自上而下得末卦者自終而初自下而上變在<lb/>
+<pb n="3b"/>
+　第三十二卦以前者占本卦爻之辭變在第三十二<lb/>
+　卦以後者占變卦爻之辭<lb/>
+　凡言初終上下者據圖而言言第幾卦前後者從本<lb/>
+　卦起<lb/>
+<pb n="4a"/>
+䷀乾<lb/>
+䷫姤　䷌<hi>同人</hi>䷉履䷈<hi>小/畜</hi>䷍<hi>大有</hi>䷪夬<lb/>
+䷠遯　䷅訟䷸巽䷱鼎䷛<hi>大過</hi>
+　　　䷘<hi>无妄</hi>䷤<hi>家人</hi>䷝離䷰革<lb/>
+　　　䷼<hi>中孚</hi>䷥暌䷹兊<lb/>
+　　　䷙<hi>大畜</hi>䷄需䷡<hi>大壯</hi>
+䷋否　䷴漸䷷旅䷞咸<lb/>
+　　　䷺渙䷿<hi>未濟</hi>䷮困<lb/>
+<pb n="4b"/>
+　　　　　䷑蠱䷯井䷟恒<lb/>
+　　　䷩益䷔<hi>噬嗑</hi>䷐隨<lb/>
+　　　　　䷕賁䷾<hi>既濟</hi>䷶豐<lb/>
+　　　䷨損䷻節䷵<hi>歸妹</hi>䷊泰<lb/>
+䷓觀　䷢晉䷬萃<lb/>
+　　　䷳艮䷦蹇䷽<hi>小過</hi>
+　　　䷃蒙䷜坎䷧解䷭升<lb/>
+　　　䷚頥䷂屯䷲震䷣<hi>明夷</hi>䷒臨<lb/>
+䷖剥　䷇比䷏豫䷎謙䷆師䷗復<lb/>
+<pb n="4b"/>
+　　　　　　　　　　　䷁坤<lb/>
+<pb n="5a"/>
+</p>
+<p>
+<pb n="6a"/>
+</p>
+<p>
+<pb n="7a"/>
+</p>
+<p>
+<pb n="8a"/>
+</p>
+<p>
+<pb n="9a"/>
+</p>
+<p>
+<pb n="10a"/>
+</p>
+<p>
+<pb n="11a"/>
+</p>
+<p>
+<pb n="12a"/>
+</p>
+<p>
+<pb n="13a"/>
+</p>
+<p>
+<pb n="14a"/>
+</p>
+<p>
+<pb n="15a"/>
+</p>
+<p>
+<pb n="16a"/>
+</p>
+<p>
+<pb n="17a"/>
+</p>
+<p>
+<pb n="18a"/>
+</p>
+<p>
+<pb n="19a"/>
+</p>
+<p>
+<pb n="20a"/>
+</p>
+<p>
+<pb n="21a"/>
+</p>
+<p>
+<pb n="22a"/>
+</p>
+<p>
+<pb n="23a"/>
+</p>
+<p>
+<pb n="24a"/>
+</p>
+<p>
+<pb n="25a"/>
+</p>
+<p>
+<pb n="26a"/>
+</p>
+<p>
+<pb n="27a"/>
+</p>
+<p>
+<pb n="28a"/>
+</p>
+<p>
+<pb n="29a"/>
+</p>
+<p>
+<pb n="30a"/>
+</p>
+<p>
+<pb n="31a"/>
+</p>
+<p>
+<pb n="32a"/>
+</p>
+<p>
+<pb n="33a"/>
+</p>
+<p>
+<pb n="34a"/>
+</p>
+<p>
+<pb n="35a"/>
+</p>
+<p>
+<pb n="36a"/>
+</p>
+<p>
+<pb n="37a"/>
+</p>
+<p>
+<pb n="38a"/>
+</p>
+<p>
+<pb n="39a"/>
+</p>
+<p>
+<pb n="40a"/>
+</p>
+<p>
+<pb n="41a"/>
+以上三十二圖反復之則為六十四圖圖以一卦為主<lb/>
+而各具六十四卦凡四千九十六卦與焦贛易林合然<lb/>
+其條理精密則有先儒所未發者覽者詳之<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="41b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　啓䝉意見卷四<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

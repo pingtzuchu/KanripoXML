@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>闗中奏議</head>
+    <p>
+<pb n="KR2f0020_WYG_000-1a"/>
+欽定四庫全書　　　　　史部六<lb/>
+　闗中奏議　　　　　　　詔令奏議𩔖二<hi>奏議之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案闗中奏議十八巻明楊一清撰一<lb/>
+　　　　清字應寧安寧人成化壬辰進士官至華蓋<lb/>
+　　　　殿大學士諡文襄事蹟具明史本傳此書皆<lb/>
+　　　　其生平章疏之文分為六類巻一巻二曰馬<lb/>
+　　　　政𩔖巻三曰茶馬𩔖則以副都御史督理陜<lb/>
+<pb n="KR2f0020_WYG_000-1b"/>
+　　　　西馬政時所上巻四巻五巻六曰巡撫𩔖則<lb/>
+　　　　巡撫陜西時所上巻七巻八巻九曰總制𩔖<lb/>
+　　　　則總制延綏寧夏甘肅邊務時所上巻十曰<lb/>
+　　　　後總制𩔖則其病歸復起時所上巻十一至<lb/>
+　　　　巻十八則嘉靖四年以故相復提督三邊軍<lb/>
+　　　　務以後所上也以所陳多陜甘邊事故以闗<lb/>
+　　　　中為名嘉靖初始刋行於南京其間所載不<lb/>
+　　　　盡皆一清奏稿凡當時部臣覆疏及前後所<lb/>
+<pb n="KR2f0020_WYG_000-2a"/>
+　　　　奉諭㫖悉編入之故於時事本末頗為詳盡<lb/>
+　　　　一清負經濟材其督學陜西時即詳究邊情<lb/>
+　　　　利弊其後官陜又最久故所指畫皆中窽要<lb/>
+　　　　云乾隆四十三年六月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

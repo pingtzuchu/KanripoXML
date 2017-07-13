@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4e0051_SBCK_011-1a"/>
+　跋<lb/>
+　右永樂中楚府刻本管時敏蚓竅集十卷半葉十行行二十字<lb/>
+　詩以古今體類次前後有土風精喜越谿艸堂文水道人諸印<lb/>
+　審是義門何氏故物卷六第六葉第二十葉義門據別本摹寫<lb/>
+　持以校四庫全書著錄本實遠岀庫本上如卷三從征古州蠻<lb/>
+　迴途紀驛二十三首此本大題後繫以小題如右發靖州右洪<lb/>
+　江右安江等皆小題也蓋刊時先詩後題故以右字識之庫本<lb/>
+　旣悉删右字而原詩序次仍而未改於是前首之題未有不誤<lb/>
+　爲後一首者此一事也卷十重九呈兄勉翁詩此本三首俱全<lb/>
+　庫本脫第二首又初度日復呈兄勉翁詩三首庫本全脫此外<lb/>
+　二本詩題亦時有岀入如卷五之患足行庫本改作折足行之<lb/>
+　類未易縷指此二事也提要稱丁鶴年與時敏皆爲楚王所禮<lb/>
+<pb n="KR4e0051_SBCK_011-1b"/>
+　重故幷其評語刻之又云時敏又有秋香百詠還鄕紀行見周<lb/>
+　子冶所作全菴記知所據本有評語又有全菴記與此本同然<lb/>
+　庫本無之者則館臣之過矣此三事也觀於此三事則此本之<lb/>
+　善不待煩言而解時敏初名訥後以字行華亭人與袁海叟交<lb/>
+　善俱以詩名洪武九年徵拜楚王府紀善進右長史丁鶴年是<lb/>
+　時亦客居武昌嘗有詩送時敏云楚王獨數蘇從諫齊士誰過<lb/>
+　管仲才<hi>見海巢集卷四</hi>其推重如此此集亦岀鶴年評隲彼二人之交<lb/>
+　誼可於此覘之矣海寧趙萬里<lb/>
+<pb n="KR4e0051_SBCK_011-2a"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

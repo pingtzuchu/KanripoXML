@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>文選顔鮑謝詩評</head>
+    <p>
+<pb n="KR4h0004_WYG_000-1a"/>
+欽定四庫全書　　　　　集部八<lb/>
+　文選顔鮑謝詩評　　　　總集類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案文選顔鮑謝詩評四巻元方回撰回<lb/>
+　　　　有續古今考已著録是編取文選所録顔延<lb/>
+　　　　之鮑照謝靈運謝瞻謝惠連謝朓之詩各為<lb/>
+　　　　論次諸家書目皆不著録惟永樂大典載之<lb/>
+　　　　考集中顔延之三月三日侍游曲阿後湖作<lb/>
+<pb n="KR4h0004_WYG_000-1b"/>
+　　　　一首評曰本不書此詩書之以見夫彫繢滿<lb/>
+　　　　眼之詩未可以望謝靈運也又北使洛一首<lb/>
+　　　　評曰所以書此詩者有二又謝靈運擬鄴中<lb/>
+　　　　集八首評曰規行矩步甃砌粧㸃而成無可<lb/>
+　　　　圈㸃故余評其詩而不書其全篇<hi>案此本八首皆書全</hi>
+　　　　<hi>篇與此評不合葢不載本詩則所評無可繫屬故後人又為補錄也</hi>則此集葢<lb/>
+　　　　回手書之册後人得其墨迹録之成帙也回<lb/>
+　　　　所撰瀛奎律髓持論頗偏此集所評如謝靈<lb/>
+<pb n="KR4h0004_WYG_000-2a"/>
+　　　　運詩多取其能作理語又好標一字為句眼<lb/>
+　　　　仍不出宋人窠臼然其他則多中理解又如<lb/>
+　　　　謝靈運述祖徳詩第二首評曰文選註髙揖<lb/>
+　　　　七州外謂舜分天下為十二州時晉有七州<lb/>
+　　　　故云七州余謂不然此指謝𤣥所解徐兖青<lb/>
+　　　　司冀幽并七州都督耳謂晉有七州而揖其<lb/>
+　　　　外則不復居晉土耶謝瞻張子房詩評曰東<lb/>
+　　　　坡詆五臣誤註三殤其實乃是李善顔延之<lb/>
+<pb n="KR4h0004_WYG_000-2b"/>
+　　　　秋胡詩評曰秋胡之仕於陳止是魯之鄰國<lb/>
+　　　　而云王畿恐是延之一時寓言雖以秋胡子<lb/>
+　　　　為題亦泛言仕宦善註乃引韓曰陳王者所<lb/>
+　　　　起也此意似頗未通亦間有所考訂至於評<lb/>
+　　　　謝靈運九日戲馬臺送孔令詩謂鳴葭當作<lb/>
+　　　　鳴笳則未考晉書夏統傳評鮑照行藥至城<lb/>
+　　　　東橋詩謂行藥為乗興還來看藥欄之意則<lb/>
+　　　　悞引杜詩評謝朓郡内髙齋閒坐答吕法曹<lb/>
+<pb n="KR4h0004_WYG_000-3a"/>
+　　　　詩謂或以為岫本訓穴以為逺山亦無害則<lb/>
+　　　　附㑹陶潜歸去來詞小小舛漏亦所不免要<lb/>
+　　　　不害其大體統觀全集究較瀛奎律髓為勝<lb/>
+　　　　殆作於晩年所見又進歟乾隆四十六年七<lb/>
+　　　　月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　總　校　官　<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

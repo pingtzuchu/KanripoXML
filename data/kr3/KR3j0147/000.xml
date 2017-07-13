@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>霏雪錄</head>
+    <p>
+<pb n="KR3j0147_WYG_000-1a"/>
+欽定四庫全書　　　　　子部十<lb/>
+　霏雪錄　　　　　　　　雜家類三<hi>雜說之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案霏雪錄二卷明鎦績撰績字孟熙<lb/>
+　　　　山隂人先世自洛陽徙越其父渙通毛氏詩<lb/>
+　　　　元時嘗為三茅書院山長績承家學與子師<lb/>
+　　　　邵皆有才名此書多雜誌舊聞及辨核詩文<lb/>
+　　　　疑義績嘗與元末諸老遊故議論頗有依據<lb/>
+<pb n="KR3j0147_WYG_000-1b"/>
+　　　　然隨手繕錄未加簡汰又毎紀夢幻詼諧之<lb/>
+　　　　事不能盡純如稱其逺祖馬牧君事金太祖<lb/>
+　　　　有紀信之節元修三史時史臣責賕於其祖<lb/>
+　　　　不肯遂不得書此事論史者俱未之及然當<lb/>
+　　　　時秉筆諸臣如歐陽𤣥等皆一時名士恐不<lb/>
+　　　　至是或出於一家之私言未可槩信也此書<lb/>
+　　　　成化間嘗刋行有胡謐後序稱績所著尚有<lb/>
+　　　　嵩陽稿詩律今俱不傳云乾隆四十二年五<lb/>
+<pb n="KR3j0147_WYG_000-2a"/>
+　　　　月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

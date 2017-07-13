@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>歲時廣記</head>
+    <p>
+<pb n="KR2j0001_WYG_000-1a"/>
+欽定四庫全書　　　　　史部十<lb/>
+　歲時廣記　　　　　　　時令𩔖<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案嵗時廣記四卷宋陳元靚撰元靚<lb/>
+　　　　不知其里貫自署曰廣寒仙裔而劉純作後<lb/>
+　　　　序稱為隠君子其始末亦未詳言莫之考也<lb/>
+　　　　書前又有知無為軍巢縣亊朱鑑序一篇鑑<lb/>
+　　　　乃朱子之孫即嘗輯詩𫝊遺說者後仕至湖<lb/>
+<pb n="KR2j0001_WYG_000-1b"/>
+　　　　廣總領元靚與之相識則理宗時人矣其書<lb/>
+　　　　宋志不著録惟見於錢曽讀書敏求記稱前<lb/>
+　　　　列圖說分四時為四卷今此本乃曹溶學海<lb/>
+　　　　𩔖編所載卷首並無圖說葢𫝊抄者佚之書<lb/>
+　　　　中摭月令孝經緯三統厯諸書為綱而以雜<lb/>
+　　　　書所記涉於節序者按月分𨽻凡春令四十<lb/>
+　　　　六條夏令五十條秋令三十二條冬令三十<lb/>
+　　　　八條大抵為啟劄應用而設故於稗官說部<lb/>
+<pb n="KR2j0001_WYG_000-2a"/>
+　　　　　多所徴引而爾雅淮南諸書所載足資考據<lb/>
+　　　　　者反多遺缺未可以稱善本特其於所引故<lb/>
+　　　　　典尚皆備録全文詳記所出未失前人遺意<lb/>
+　　　　　與後來𩔖書隨意刪竄者不同故並録存之<lb/>
+　　　　　以備㕘攷焉乾隆四十六年十二月恭校上<lb/>
+　　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="KR2j0001_WYG_000-3a"/>
+歲時廣記序<lb/>
+有天之時有人之時寒暑之推遷此時之運於天者也<lb/>
+厯書所載盖莫詳焉至於因某日而載某事此時之係<lb/>
+於人者端千緒萬非託之記述則莫能探其源委耳噫<lb/>
+慶道長於一陽之生謹履端於一歲之始是盖天時人<lb/>
+事之相參尤有可據彼仲夏之重五季秋之重九豈天<lb/>
+之氣候然也而人實為之使微考訂孰知競渡之繇楚<lb/>
+靈均登髙之因費長房乎引𩔖而伸若此者衆雖然荆<lb/>
+<pb n="KR2j0001_WYG_000-3b"/>
+楚歲時之所記善矣惜乎失之拘也秦唐歲時之所記<lb/>
+夥矣惜乎未之備也今南潁陳君蒐獵經𫝊以至野史<lb/>
+異書凡有渉於節序者萃為巨帙殆靡一遺仰以稽諸<lb/>
+天時俯以驗之人事題其篇端曰歲時廣記求予文而<lb/>
+序之予惟陳君嘗編博聞三録盛行於世况此書該而<lb/>
+不冗雅而不俚自當與並𫝊於無窮云宣教郎特差知<lb/>
+無為軍巢縣事兼義武民兵軍正總轄屯戍兵馬借緋<lb/>
+新安朱鑑撰<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

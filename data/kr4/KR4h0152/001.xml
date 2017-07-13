@@ -1,0 +1,755 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>明文海巻一</head>
+    <p>
+<pb n="KR4h0152_WYG_001-1a"/>
+欽定四庫全書<lb/>
+　明文海巻一　　　　　　　餘姚黄宗羲編<lb/>
+　　賦一<lb/>
+　　　國事一<lb/>
+　　南都賦<hi>桑悅</hi>
+南都有博古先生同州邑秀先遊於北都乃觀氣象之<lb/>
+恢亢<hi>恢亢大貌楚辭收恢台之孟夏</hi>民物之遒堶<hi>徒和切多也</hi>神莽莽兮外<lb/>
+滛意惶惶兮儷<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>音哦痴也</hi>獨先生<graphic n="KR1996" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1996.png" mimeType="image/png"/>極凌碎<hi>矜才貌見于荀子</hi>浪<lb/>
+<pb n="KR4h0152_WYG_001-1b"/>
+驚旋拖<hi>不以為意也見文中子</hi>北都有知今子者其足如雲其辨<lb/>
+如波揖先生而扣焉天下一家四海一都而子眺焉若<lb/>
+蔑若𦕈匪夡<hi>音棄</hi>匪<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>音那</hi>豈離渤澥别淔潬汙豈逺太華<lb/>
+别覩嵯峨何其齒迎齒而不淟心戴心而自詑<hi>音佗欺也</hi>先<lb/>
+生曰蔑蘭衷者嚇㣲馨𦕈絲裏者景纎䰃<hi>音彭</hi>僕嘗熟班<lb/>
+孟堅之兩都張子平之二京丹淵辠辠<hi>音罪深貌</hi>收長安之<lb/>
+市中扄㺒㺒<hi>音佼大貌</hi>築洛陽之城寧不視此而消零知今<lb/>
+子<graphic n="KR0735" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0735.png" mimeType="image/png"/>然而笑曰味子之言班<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <hi>於井切</hi>硃砂痕殷翡翠易<lb/>
+<pb n="KR4h0152_WYG_001-2a"/>
+牙之味子聞而飽儀狄之酒子慕而醉耶先生曰是誠<lb/>
+不然僕自麗髦作適金陵偉哉若方王業攸興計南惟<lb/>
+棟計北惟楹豈彼衍宛而子彯訇吾將語子以南都之<lb/>
+故事以開子之聾盲焉知今子曰願卒鴻麗以拓酣𡨕<lb/>
+先生曰唯唯明之南都宿分於斗畿域於揚斗則日月<lb/>
+之所佉<hi>邱伽切</hi>㧙五星之所乗營是謂天維揚則拓土畫<lb/>
+疆卓犖兼并是謂地綱論大形勢桐柏之源東馳般泊<lb/>
+揖濁灔而招沂泗者於此乎㑹岷山之支東累綿衍出<lb/>
+<pb n="KR4h0152_WYG_001-2b"/>
+庾嶺而包彭蠡者於此乎盡誠江海之都㑹也山林之<lb/>
+總轄也而况口以三吳足以荆蜀八閩二廣可伸可縮<lb/>
+堪輿之精盡於是矣論細藩屏則天設雄塹表以鍾山<lb/>
+裼以長江山則掩譎崔聳靘<hi>千定切</hi>歜<hi>音/觸</hi>峻翔裘坱碖<hi>音倫</hi>
+盎尖台嵬亢嶻嶫墳兀追飛㢘盪漾兮黨黨晦兮墇墇<lb/>
+<hi>音章</hi>氣雲薄兮擬封秀<graphic n="KR3434" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3434.png" mimeType="image/png"/>
+                    <hi>職隆/切</hi>挹兮可掆江則膠戾㿮<hi>音英</hi>
+毅砰湧便汪丕庨<hi>音梢</hi>澒溢湉<hi>音恬</hi>混澶泱漨瀴溶瀆洚洞<lb/>
+㴐<hi>莫見切</hi>㵁<hi>音/荒</hi>濞兮格格允兮統統<hi>音康</hi>喜沄沄兮穆協怒<lb/>
+<pb n="KR4h0152_WYG_001-3a"/>
+趫趫兮讎闛<hi>音堂</hi>均山惟榆丕江廼桑如韓孟之齊騁類<lb/>
+楚漢之相當挾以石頭秦望之蔓麗帶以後湖𤣥武之<lb/>
+汪洋嶺一頡兮千熊羆浪一頏兮幾城隍欲纎摹其詭<lb/>
+異洵一挂而萬亡其洞則有華陽玉柱良常羅姑若女<lb/>
+天窗夫子酆都各有真府神切天砮<hi>音奴</hi>門<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>音楚</hi>兮混<lb/>
+沌未鑿室䧓䧓<hi>音周</hi>兮氣化馴刳丹崖甲乎連欐翠壁貫<lb/>
+乎稜觚或有三茅之軰拉八仙之徒駕野馬之駕提沆<lb/>
+瀣之壺殽以青埃核以火㯛<hi>音壺</hi>窮年縱浪竟夕歡娱三<lb/>
+<pb n="KR4h0152_WYG_001-3b"/>
+霜半局千日一餔推霛明之真境合仙跡之盤<graphic n="KR0146" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0146.png" mimeType="image/png"/>
+                    <hi>音姑</hi>其<lb/>
+泉則有白乳一人玉兔喜客婁地籟之于于垂天紳之<lb/>
+黙黙斂川后之津液葘山霛之骨脉雨似嘲而囂囂風<lb/>
+或譽而嘖嘖潤止<hi>闕</hi>方名<hi>闕</hi>蠻貊其池則有覆盃石墨<lb/>
+天淵蓮花昔人留兮指爪朽名潤兮無涯又有隄名太<lb/>
+平堰名余家瀨名投金泓名丹砂義溝破岡瀆深澤沛<lb/>
+長命新林芳洲名葩九曲霹靂溝何淛粲芳草躍馬澗<lb/>
+何清華於是材以梆<hi>音邦</hi>榮竹柏枇槵<hi>胡慣/切</hi>樳棈桅<hi>俱彼切</hi>
+<pb n="KR4h0152_WYG_001-4a"/>
+松檔<hi>音當</hi>椋檯㯆椐檉平仲古度無疵文楟莫不抱遒紛<lb/>
+溶槮<hi>音森</hi>苯較庭肅祅<hi>音/夭</hi>偃梏魁<graphic n="KR0146" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0146.png" mimeType="image/png"/>
+                    <hi>音/㑹</hi>剡弸綿枔<hi>音尋</hi>暖杈<lb/>
+<hi>音差</hi>飛柯鬬莖風度曲而雨亂<hi>亂者樂之卒章言風度木似曲雨至而止</hi>月稿<lb/>
+神而日呈<hi>神即傳神之神</hi>門有㧞<hi>闕</hi>上薄青冥天低獨擎雲墜<lb/>
+孤撑未廻萬牛之力隂具五鳳之形<hi>言作五鳯樓之材也</hi>華以幽<lb/>
+蘭崇蕙徑菊江蘺牡丹玉蘭香蔤<hi>華筆切</hi>辛夷㤀憂䓇<hi>呼歴</hi>
+<hi>切</hi>茀含笑嫋姕<hi>音雌</hi>絶品節蒲上瑞莖芝氣㽔曄以交獵<lb/>
+采葉蒨以紛披零的昌於騷經布濩榮於毛詩實以朱<lb/>
+<pb n="KR4h0152_WYG_001-4b"/>
+橘赤柿娉粟含桃枇杷林擒楊梅蒲萄匹火齊之丹若<lb/>
+鄰鍾乳之紅消特可包乎公匭具可養乎私饕水陸之<lb/>
+饒萬育愲<hi>音汩</hi>娗<hi>音停</hi>其鳥則有鸛鶴鷺鷗鳬鵲舒鴒鴂䲹<lb/>
+鴶鵴<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>鵝鵁鶄剖葦竊脂隼醜蒼鶊雜縣<hi>音懸</hi>避風而爰<lb/>
+集鴻雁隨陽以迅征暴道體之潑潑假天和而嚶嚶其<lb/>
+獸則有鹿麋麐嬎<hi>音汎</hi>豵貘熊驉豺麕羠<hi>音/夷</hi>狒犢兔狪<hi>音聦</hi>
+羭<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>㹹<hi>音庚</hi>
+                    <graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>音/當</hi>猓<hi>音/果</hi>獁<hi>音馬</hi>虎獖<graphic n="KR1236" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1236.png" mimeType="image/png"/>隱霧之豹拜月之狐<lb/>
+樷生翳伏狀異形殊伯益不能紀周公難悉驅其魚則<lb/>
+<pb n="KR4h0152_WYG_001-5a"/>
+有鰋鯉鱨魦鰤<hi>音師</hi>
+                    <graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>音/讐</hi>䱾<hi>音/婁</hi>䱎<hi>公登/切</hi>鱣<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>音呼</hi>鯧鰣鯽鮚<lb/>
+䱵䱓<hi>他成切</hi>鱸魴<graphic n="KR2424" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2424.png" mimeType="image/png"/>鮒鰱<graphic n="KR3142" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3142.png" mimeType="image/png"/>鱒<hi>慈損/切</hi>
+                    <graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>音擎</hi>莫不風鰭浪鬛<lb/>
+金鱗玉睛出罭欲飛宜膾宜烹别有龍淵湧湧蜃穴圊<lb/>
+圊浮沉乎王鮪隱耀乎長鯨能吞巨舟可方曲陵匪漏<lb/>
+籍於齊諧則繫名於海經又其田疇則黍稌咸宜桑柘<lb/>
+斯植水耕火耘風經雨織一犁鬑鬑<hi>力兼切</hi>兮斛粟半筐<lb/>
+䌨䌨兮尺帛真中華之心而四方之極者也遂古之時<lb/>
+萬有未聚帝省山川可為皇據惟古帝王或命以陶或<lb/>
+<pb n="KR4h0152_WYG_001-5b"/>
+命於牧惟豐惟鎬文武是屋儲兹地髓以俟天牧周轍<lb/>
+既西王氣㣲暴悵地勢之䒎䒎<hi>音莽</hi>兮風氣鼆鼆<hi>毋耿切</hi>而<lb/>
+未開㒺㬫㬫<hi>音宴</hi>以惨慄兮挈攰攰<hi>音/媿</hi>而慨侅<graphic n="KR1820" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1820.png" mimeType="image/png"/>
+                    <hi>音費</hi>岑岑<lb/>
+以䦨掔<hi>烏貫切</hi>兮若草變而木衰匪<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>伸之轟轟兮安淵<lb/>
+蟄之匪纔<hi>自㒺㬫㬫以下形容上古之時金陵氣象未開之狀以為天遣吳晉等國為當時漸次開</hi>
+<hi>闢之地文有起伏意思絶妙今古</hi>於是役吳載柞命晉其耘宋齊為畚<lb/>
+梁陳為斤其建金華赤烏玉燭重雲太極清暑之俵麗<lb/>
+結綺永安之青<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>地昆切</hi>孰非先掃我金門之路清吾玉<lb/>
+<pb n="KR4h0152_WYG_001-6a"/>
+殿之塵也哉<hi>如此言則吳晉等國建都雖在開國之先而非先矣詩云禹敷下土方外大國是彊</hi>
+<hi>幅員既長有娀方將帝立子生商與此意同</hi>逮元脫紐宇宙沸<graphic n="KR1817" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1817.png" mimeType="image/png"/>
+                    <hi>如羊切</hi>閃兹<lb/>
+地也鬱鬱葱葱暐暐煌煌增渥補泊衒紫浮緗虹經襊<lb/>
+<hi>秦醉切</hi>彩雲緯成章<graphic n="KR2246" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2246.png" mimeType="image/png"/>
+                    <hi>音/航</hi>兮若燭龍之燄<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>音宏</hi>兮類若木<lb/>
+之光盪踞虎而將躩暈盤龍而欲翔<hi>龍盤虎踞金陵山川氣象暈盪從王</hi>
+<hi>氣上說來</hi>其在山也谾<hi>音空</hi>谷就實危峰增鋩曄乎若巢金之<lb/>
+欲彰其在水也漫汎氤氲逐㲹<hi>音已</hi>煒揚灝乎若頽波之<lb/>
+㺯西陽<hi>自鬱鬱葱葱至此形容興王氣象極工</hi>禆竈瞻望而躑躅景純睥<lb/>
+<pb n="KR4h0152_WYG_001-6b"/>
+睨而周章非名都之將建而先發其祥耶時已天眷仁<lb/>
+祖爰及陳后夣歆藥食覺聞蘭臭聖祖降天匪先匪後<lb/>
+想遏亂畧躬揮天䩜<hi>音胄</hi>遐望其飈馳尼幸其雲覆翶翔<lb/>
+太平宿徴斯簉江東攸歸兩浙既庭爰承天意兹焉作<lb/>
+京廼殪友諒廼縛士誠廼走擴廓廼降明昇龜蛇指乎<lb/>
+迷周顛相乎成雖真宰之駐意抑非兹都之運霛也哉<lb/>
+四方既平根本攸寧廼瞻觜陬百度惟營庸遵九重之<lb/>
+䂓歩九筵之跡太行空蜀山兀艋汎筏結異材山積於<lb/>
+<pb n="KR4h0152_WYG_001-7a"/>
+是伯尚呈能王爾獻績肇以承天之巢兌粹以敬身之<lb/>
+棧斥迤以華盖之厓㫼畫以文華之葘洫武英斜峙白<lb/>
+虎㫄翼其為狀也莫不獵韚<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <hi>音梢</hi>昻熛霍炤焱剡兮烑<lb/>
+烑<hi>音揺</hi>龎<hi>莫江/切</hi>兮齸齸<hi>音益</hi>杗癅<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>宏而孔毅髙桴硜矼而<lb/>
+委迪危甍㙚<hi>音新</hi>潭而鼓鬛曲閞<hi>音/弁</hi>夭矯而軒翼枝牚<hi>耻孟</hi>
+<hi>切</hi>承宇綺疏垂閾表以翬梲賁以蜃壁有負柱之金龍<lb/>
+火精閃而爍赩乗栭雲之拶<hi>宗滑切</hi>
+                    <graphic n="KR2355" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2355.png" mimeType="image/png"/>
+                    <hi>音/逐</hi>爪拲<hi>居六切</hi>墳而<lb/>
+上攫覩螺盖之白黑倐退藏而躅躑飾以桁梧萬層盤<lb/>
+<pb n="KR4h0152_WYG_001-7b"/>
+䊸<graphic n="KR1762" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1762.png" mimeType="image/png"/>
+                    <hi>音律</hi>圛<hi>音/繹</hi>雕縷育育藻以髹<hi>音休</hi>漆俶視昭昭指歴歴<lb/>
+閃<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>分<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>色交色輝奔彩赴丹輳綠易<hi>形容彩色奪目之狀極其精工</hi>
+雖離朱之斜視猶恍惚而箝䁑<hi>音釋</hi>左順揖乎右順左掖<lb/>
+拱乎右掖承天垠垠春和翼翼諸監六科之郁麗尚寶<lb/>
+光祿之<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>䟮<hi>音北</hi>億萬門堂拱闕惟敇索巧本於無無庸<lb/>
+乾坤以為式盖憲衆山之朝王屋列宿之拱北極也至<lb/>
+若文武雙樓峙天西東表層俯雲輪廓翳空購解飛而<lb/>
+莫緣兮藉凌級以相通<hi>漢書王莽購解飛人以窺匃奴凌級樓梯也</hi>繚朱䦨<lb/>
+<pb n="KR4h0152_WYG_001-8a"/>
+而升降兮辟擫<hi>於頰切</hi>捻乎雄虹彼黃鵠翩翩其髙舉兮<lb/>
+覩圜方之㑹同觸縹緲之罘罳兮仍斂翼而退風惟趙<lb/>
+趟<hi>竹萌切</hi>之黠雀兮飛息參而馴嵩還處所不訌<hi>音洪</hi>惕兮<lb/>
+遂委巢於攅樷鞠翲翲之黄口兮終身瞽乎四通俯璀<lb/>
+錯為旁礴兮仰﨑嶬為蒼穹匪壯麗之若斯安匹休乎<lb/>
+薇宫長廡埢埢<hi>音拳</hi>短序旉旉<hi>音/敷</hi>敦以密石<hi>蔡邕獨斷天子所居加密</hi>
+<hi>石</hi>切以珷玞鎔朱提之鐐以節鎖鍜化盂之鏐而鑭鋪<lb/>
+萬户無名造化為徒色暴於有聲藏於無我吐㣲音彼<lb/>
+<pb n="KR4h0152_WYG_001-8b"/>
+應長吁<hi>四句觀理之至立言之精</hi>足趨魂悸吾亦喪吾諒妙理之所<lb/>
+存非華說之足摹東立太廟岧岧奕奕桔崛殿乎重屋<lb/>
+欒踡延兮夾室宰有亭而䕃牲焚有穴而置帛永言孝<lb/>
+思孝思維則不得不斵其桷而隆其閾也耽耽六宮衍<lb/>
+息聖躬表以乾清之盧盪偶以坤寧之傑幪環居成市<lb/>
+委巷成衕深壼溺溺連簃彤彤蕃椒辣辣<hi>即逹切</hi>夜合芄<lb/>
+芄方其胎營集刻飛鳶之手<hi>公輸子刻木作飛鳶三日飛不止見王充論衡</hi>召<lb/>
+膠遊魚之工<hi>穆王時巧匠膠魚能遊見列子</hi>殫心思於其中排亮寮以<lb/>
+<pb n="KR4h0152_WYG_001-9a"/>
+開闔縷網眢之玲瓏装以衆彩䝉以輕容<hi>紗也</hi>縜<hi>音雲</hi>兮若<lb/>
+細颸之噴巨波漾漣漪之瀰雝拂波膩以潎<hi>孚妙切</hi>刪露<lb/>
+水簇之<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>奴孔切</hi>穠渟兮若山澗之雜茁深清泉而上䝉<lb/>
+雖剽視之的的欲採擷而無從作㳺千間奎麗鎈<hi>相何切</hi>
+台繪百卉之䔿俞兮儼憲英之樔荽神貫英而藉越兮<lb/>
+化真芬之批楑<hi>音葵</hi>雄風衎衎以碭駭兮舉茀烈而薫幃<lb/>
+憬東皇之旋駕兮姿冉冉而焜衰踏雙成與仙姑兮面<lb/>
+金精而炘綏<hi>自繪百卉以下形容畫者通神故所畫之花遇風亦生香春去亦如漸衰因踏仙人</hi>
+<pb n="KR4h0152_WYG_001-9b"/>
+<hi>故至秋亦不落也妙甚真妙鬼神者</hi>彼翠禽之自戕兮聚彦鑿以文阫委<lb/>
+順膠而騰變兮幻林麓之垣崔顯真相於木杪兮仍翠<lb/>
+翎之毰毸娱無隄之妙觀兮忽不自知其徘徊富有㑹<lb/>
+極則有大内千間㠑嶷詭迣<hi>音列</hi>鸞彝媚垂鳯卣宛臲<hi>音蘖</hi>
+隋珠如月趙璧如雪桃核之洪魁鵬羽之脩撇山車之<lb/>
+剽竒昭華之英契其他方貢域獻萬寶充楶滿花廻廻<lb/>
+羚角桀桀方諸夜凉朝霞春熱阿魏之腥金顔之馝<hi>音别</hi>
+雖夥蘊紛藏無識無别然察其性質之隂陽贅房而攅<lb/>
+<pb n="KR4h0152_WYG_001-10a"/>
+掜<hi>音蘖</hi>則又若隂配合而黙調燮者也合祀天地廼建瑶<lb/>
+宮崛大祀之㭂<hi>子了切</hi>髞<hi>先到切</hi>兮庇瑶瓦之青葱輸頎鋩<lb/>
+而游氛逓兮上混匪<hi>音非</hi>乎浮容地游升階其洪質兮天<lb/>
+氣降郵其危嵏翼嵩壇之啎啎兮祈光峙流而合縱山<lb/>
+川社稷帝王功臣茹膚功而荅稱兮掲壇宇之纚<hi>所宜切</hi>
+峋舉幽遐而遍溫兮冀孚召乎輒敐<hi>音辰舜為天子民皆輒輒敐敐見于</hi>
+<hi>呂氏春秋</hi>閑以崇墉百里覃以通門六五偉正陽與聚寶尤<lb/>
+碞<hi>音吟</hi>潭而晊<hi>音/質</hi>昈<hi>音扈</hi>欲昻脰而瞻際覺清矑之<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>武<lb/>
+<pb n="KR4h0152_WYG_001-10b"/>
+破蟄而起靂自榮神之栗股車岺岺以瀿瀷馬霅霅<hi>音狎</hi>
+以黎楚或槅<hi>音鬲</hi>相轚<hi>古的切</hi>蹄相互求疾而滯旋往無所<lb/>
+於是嘫<hi>音然</hi>閧嘵嗑<hi>音盍</hi>蹠咽㫄午不啻萬艘麗閘而踶瀾<lb/>
+六師奔敵而喪伍必踰時而後詹憮焉久喁噞於沓圍<lb/>
+徐戞戞以脫䍙<hi>音武</hi>泮奐其行適大通而遃遃者何可勝<lb/>
+數又可喻造物者之不齊而莫能必漆途之夷阻也<hi>自喁</hi>
+<hi>噞以下就彀率中别出一種道理是謂忙中取靜斵輪之意人所難學</hi>部院寺司雲填星<lb/>
+稠公卿惟旌郎吏惟斿爾檝我桴厥職孔脩敦以京兆<lb/>
+<pb n="KR4h0152_WYG_001-11a"/>
+驕民是牧我精雕桐<hi>李子長雕梧桐以服囚見王充論衡</hi>彼畏刻木置葦<lb/>
+杖以塵封曠圜扉而草綠主以太學英髦斯育言采其<lb/>
+芹于彼泮瀑瑩如席珍者濟濟湛若飣棃者煴煴悉小<lb/>
+杏園之樂而踵槐氏之躅盖將撥流泆之風而反敦龎<lb/>
+之俗也㒺脩㒺攘軍容洸洸神䇿豹韜興武龍驤應天<lb/>
+留守横海和洋衞所如林五府提綱億萬赳赳斟𨽻為<lb/>
+鄉舅甥兄弟羂<hi>古犬切</hi>結同畺唲呱含䯱<hi>音/丕</hi>髵<hi>音而</hi>之色奕<lb/>
+攸弮<hi>音眷</hi>衺<hi>音邪</hi>觚之剛喜則鉠鉠怒則礓礓聚兮摯摯動<lb/>
+<pb n="KR4h0152_WYG_001-11b"/>
+兮彭彭奮齦齗而滛閧鼓龍胡而<graphic n="KR1127" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1127.png" mimeType="image/png"/>囂<hi>五臯切</hi>其將大閲<lb/>
+也聞發昫<hi>休具切</hi>之綿匝<hi>發昫閲軍鼓見周/禮注引司馬法</hi>齊<graphic n="KR2155" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2155.png" mimeType="image/png"/>
+                    <hi>作結/切</hi>髽<hi>音撾</hi>而峭<lb/>
+格樅<hi>楚江切</hi>以行伍<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>音/翰</hi>以壘壁綏廻廻其<graphic n="KR3151" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3151.png" mimeType="image/png"/>
+                    <hi>力隄/切</hi>
+                    <graphic n="KR3418" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3418.png" mimeType="image/png"/>
+                    <hi>音收</hi>
+兮剡殷殷其䡾<hi>魚竭切</hi>轢混枚枚其攅喆<hi>知列/切</hi>兮庢<hi>音只</hi>皇<lb/>
+皇其劙劃衆闞既尼浰<hi>力見切</hi>然而洫總戎司馬指揮退<lb/>
+迪篥鐲烝烝其鴻葛兮旌旄肅肅其揄扐斯時夏說専<lb/>
+諸之流方援龍泉以揮霍㓶雞嗚以摮<hi>音遨</hi>䢰盤旋倩倩<lb/>
+低昻畟畟援刺雲而劼劼臘奏空而騞騞<hi>大麥切</hi>心霸霸<lb/>
+<pb n="KR4h0152_WYG_001-12a"/>
+以横騖兮神滛滛於邉場九貉八蠻孔淑不逆負畫石<lb/>
+之隂謀兮蓄鬬神之餘力仰蒼昊而悲咤兮化蠛䝉之<lb/>
+紛㥶<hi>音塞</hi>百歩之外樹以正的烏號下嚼<hi>子召切</hi>忘歸承的<lb/>
+揺撓眡豐鴻之節鋌<hi>地頂切</hi>垸<hi>音完</hi>斟翔趮之則蕭臂參停<lb/>
+沓寓惟直巧能中蝨力能貫石百中焉獲獲呼嘖嘖環<lb/>
+以偪頸圍以綘額紓隆隆殺抑抑峙兀兀流奕奕重矛<lb/>
+如式三屬如滌既蛇勢之裊裊兮復魚貫之繹繹正綿<lb/>
+綿而不亂兮竒㢘㢘而㒺測轟巨砲而散列兮氣方突<lb/>
+<pb n="KR4h0152_WYG_001-12b"/>
+而未<graphic n="KR1224" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1224.png" mimeType="image/png"/>
+                    <hi>音劇</hi>對勇間間徒手搏<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>古柏/切</hi>撥局齊竪提矞<hi>休筆</hi>
+<hi>切</hi>復逆僉思奪終童之纓遺孔明之幗悵百年之偃息<lb/>
+而老死于軍籍又可見我朝治平之綿遐而千古莫敵<lb/>
+也大江之中爰集水戰黄龍青雀萬艘蔓莚<hi>音硯</hi>化波為<lb/>
+原平集組練䦨衞如墉朱牌上碾止類攅蜂行超飛燕<lb/>
+佩横磨之陸離兮摘神機之爝炫馬銜御濤而觖徙兮<lb/>
+竒相駕波而惕絢折兀术金山猶枝揮曹瞞赤壁若扇<lb/>
+實江南之長技眇四海之激漩别設錦衣以伺姦饕漇<lb/>
+<pb n="KR4h0152_WYG_001-13a"/>
+以撫軍天憲横操官配祝融薫岳燀濤旗校如雲滑栗<lb/>
+憍勦<hi>音巢</hi>取醒龍之珠㧞過雁之毛疑箵為罝兮意旌為<lb/>
+翢<hi>音陶</hi>聆浙瀝而掩雨兮聽䬃颾而補濤<hi>形容錦衣旗校緝事精神態度</hi>
+<hi>如畫</hi>淑良翼其奎桓兮壬慝曀其翔翶清九陌之游塵覺<lb/>
+六街之肅䫜<hi>音㘭</hi>守備之厰中官是府朔望㑹評冠盖如<lb/>
+堵水陸産鮮饗之皇祖獻之聖母則命代以行自删其<lb/>
+楛<hi>音苦</hi>畫船如櫛爛爚江滸錦䌫牙檣銀笳銅鼓鈴之揚<lb/>
+兮中流水增波兮雲横<hi>闕</hi>
+                    <graphic n="KR2515" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2515.png" mimeType="image/png"/>
+                    <graphic n="KR2515" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2515.png" mimeType="image/png"/>兮纎風棹忽艤兮南浦<lb/>
+<pb n="KR4h0152_WYG_001-13b"/>
+鑒乾逓兮鑣楚馳渹沄兮代烽火雖抵扡扡<hi>音唾</hi>兮猶原<lb/>
+瑛而化琥惟簿正之當然非尤物之為蠱抽億指以役<lb/>
+役亦不知水煙之稀夃<hi>音古</hi>至若竇王之家金許之族連<lb/>
+姻天室密邇輦轂則有朱户庨<hi>呼交切</hi>頑外<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>音怠</hi>行鹿日<lb/>
+食萬錢之俸月饗千鍾之祿墻壁衣文繡犬馬厭梁肉<lb/>
+蒒卞收其神劍張毅趨其懸箔梁鴦職其禽鳥郭駝理<lb/>
+其花木咸鐘鳴而鼎食䕃渠渠之夏屋壁鋪帓帓<hi>莫轄切</hi>
+其彪粲兮地衣摵摵其繁縟履綦俍俍<hi>音良</hi>其盤辟兮桂<lb/>
+<pb n="KR4h0152_WYG_001-14a"/>
+霏油油其芬馥公子王孫戴瑟頂之帽衣浪紋之服牽<lb/>
+黄臂蒼言駕騏騄挾彈從禽勍勍睩睩遵四望兮徘徊<lb/>
+欵牛首以彳于浩氣沴乎朱虚英風偃乎段叔内有信<lb/>
+陵之儔田文之屬傾身下士肝膽相續曳𥚑彈劒撫袂<lb/>
+而至者蛩蛩顣顣<hi>音促</hi>滿浮白兮賔𡨕落眼光兮自燭餞<lb/>
+飛英兮度新曲送春歸兮水<graphic n="KR2101" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2101.png" mimeType="image/png"/>
+                    <hi>音匊</hi>振<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <hi>音落</hi>兮停雲鼓<lb/>
+繁絃兮相逐主毋大怠賔忘小頊盖指長簜以儲慶揖<lb/>
+瓜埠而壘福畀衆無窮樂已不足而不知悉祖宗逐群<lb/>
+<pb n="KR4h0152_WYG_001-14b"/>
+雄之血刃集四方之膏鏃也墉之内外樓居如雲亂榮<lb/>
+劖<hi>初咸切</hi>义長櫩睘睘<hi>音/瓊</hi>數里齵<hi>音/鈎</hi>耞<hi>音/加</hi>卬罧<hi>音森</hi>齫以䕃<lb/>
+行兮逺不見其罛<hi>音呼</hi>
+                    <graphic n="KR0992" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0992.png" mimeType="image/png"/>
+                    <hi>音誇</hi>蓱翳去其浥沛兮羲和失其<lb/>
+赫赮<hi>音霞</hi>巷千衕百靡砌容碬<hi>音遐</hi>捆絲之工捲焉如麻法<lb/>
+五方以翟色代東皇而賦花耀光皉皉<hi>且禮切</hi>兮掩雪<hi>耀光</hi>
+<hi>綾名見晉書</hi>玉錦爓爓兮鑂霞<hi>玉錦錦之細者見周禮</hi>洒削追針之户<lb/>
+販脂礪寶之家各閃屍以逎術聫鳴雞而昬鴉以至斗<lb/>
+門淮清之橋三山大中之街烏倮白圭之儔駢背項兮<lb/>
+<pb n="KR4h0152_WYG_001-15a"/>
+交加日中貿易閧閧咤咤雲間之布雅安之茶吳㑹玉<lb/>
+栅之燈勾漏石牀之砂翠聚瓊臺之館麯連淮隂之車<lb/>
+萬貨各離其鄉土何聚㑹之紛拏反兮如潮之汗澷覆<lb/>
+兮類汐之榮查來無趾兮得得散無聲兮奓奓<hi>荘加切</hi>雖<lb/>
+殊途其貨殖而一致於金鎈<hi>音义</hi>方外之所寺觀<hi>矼石</hi>泰朝<lb/>
+天洞神報恩天界臺榭蜺兮其巹尨簷宇嬥乎其滛汰<lb/>
+<hi>音太</hi>神摹森羅之嵬翔意影兠率之偉怪象玉清之尊威<lb/>
+羅神兵之昧薆思凝疑兮札涪招葛洪於天外生金佛<lb/>
+<pb n="KR4h0152_WYG_001-15b"/>
+之泮奐鄒羅刹以承盖座繞繞兮圓光俟寶融之聆戒<lb/>
+占好山兮隆卉通幽徑兮昌䈚<hi>音代</hi>悵洞簫之捐纎鄙相<lb/>
+國之倮隘振以鐘鼓之瀧沓清以磬鈴之淅灑福無明<lb/>
+荅禍無顯害故能傾嫈<hi>音榮</hi>嫇之渥尊而來骯髒之瞻拜<lb/>
+也龍江之闗積薪如山錯岩嶽之崷<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>丘利切</hi>兮束危㟞<lb/>
+之蟠戔木土類兮寄育秀翠幄之拚拚<hi>音翻</hi>覺<graphic n="KR2060" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2060.png" mimeType="image/png"/>穴兮平<lb/>
+攤疑䕫魖兮悞撣<hi>音壇</hi>龍潭諸倉峙粟如海幻驚濤之騰<lb/>
+譎下暗浪之匯迨肆晃晃以永歸冰一凝兮數載閃蕪<lb/>
+<pb n="KR4h0152_WYG_001-16a"/>
+浥兮嶺榻類尾閭之所在大比之秋覩直𨽻之選豪聚<lb/>
+總總而<graphic n="KR0146" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0146.png" mimeType="image/png"/>
+                    <graphic n="KR0146" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0146.png" mimeType="image/png"/>
+                    <hi>音迷</hi>揷羽翼於纎辭㒠層漢而横<graphic n="KR2878" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2878.png" mimeType="image/png"/>
+                    <hi>音時</hi>叱吉<lb/>
+鄰與黄文<hi>吉隣黄文月中仙見萬花錦綉谷</hi>儲紅蕋之離仳孰䂓䂓於<lb/>
+殿葉兢緭緭<hi>音位</hi>於髙枝爭徒手以白戰希㸃頭于朱衣<lb/>
+<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <hi>力牛切</hi>經書之暗閡彼意䯻而吾髭同兮相是異兮相<lb/>
+嗤或導源赤水或爭雄黄池逮奮鵬程之路聽鹿鳴之<lb/>
+詩又或夙昔之熟蒸而睥睨苴汎而淹支者焉於是乎<lb/>
+有貝錦之加竹筒之吹<hi>韓文公詩熱如竹筒吹</hi>雖冥昬以摩索實<lb/>
+<pb n="KR4h0152_WYG_001-16b"/>
+神明之攸司增明堂之柱石礪後學之鋒錍萬石之長<lb/>
+嵗聽宣諭常蘇裕子於焉慺<hi>音閭</hi>□<hi>音著</hi>梯韓嫣兮齊駕拉<lb/>
+渠公兮並驅揮夜光兮為炷購委蘆兮為絮倐物價之<lb/>
+翔髙空群行之萃聚其各方游衍則有悲歌慷慨之士<lb/>
+升髙能賦之賢棄裘馬以易醉輕十萬之腰纒㩦以鐔<lb/>
+川鳯咮之硯囊以建安兔毫之牋洗華林之莽莽兮刷<lb/>
+烏衣之冕冕<hi>音淵</hi>於是奎來賔躋醉仙止梅妍宿輕烟<hi>來賔</hi>
+<hi>醉仙梅妍輕煙皆南京酒樓名</hi>脂臐<hi>許云/切</hi>膮<hi>呼堯切</hi>兮繹華筵售倩粲兮<lb/>
+<pb n="KR4h0152_WYG_001-17a"/>
+黄金千歌南呂兮雲韶諓舞料峭兮雪嬛傎<hi>音顛</hi>精隨聲兮<lb/>
+往滇滇<hi>音田</hi>思隨態兮逝淵淵恍難像兮忽難傳浮灙瀁<lb/>
+兮栖無邉化媚霞兮暈青天悵百嵗兮幾腲澷見東阬<lb/>
+兮屢田又有踵𢎞景之武歩劉計之躅恥干秦以飯牛<lb/>
+笑要湯兮烹鵠收疏嚲<hi>丁可切</hi>兮三苖散濡䬬<hi>倚兩切</hi>兮九<lb/>
+曲服春蘭兮飯秋菊皎白駒兮空谷孤吟絶兮誰續聞<lb/>
+禺于兮修竹所謂伊人溫其如玉遡流從之言采其藚<lb/>
+其能隂掩騷曄之門杜䕫澆之俗又足以勝千百懸群<lb/>
+<pb n="KR4h0152_WYG_001-17b"/>
+衆者之碌碌也<hi>荀子云功名未顯則羣衆不懸</hi>明道南軒過化存神又<lb/>
+有聆咳覓澌之儒真浸滛風月之趣控搏柳花之春麗<lb/>
+道徳為黼黻尊仁義為膏唇土苴罕形乎訓詁糠粃庸<lb/>
+鑄乎魁倫匪赫烜之若斯安劄<hi>丁盍切</hi>漼乎青燐其或<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+<hi>音低</hi>叔橋敄<hi>無慕切</hi>竒崛侅峋抹横渠之巾垂洓水之紳芽<lb/>
+遭踶兮殷殷粒值餐兮齗齗繪九苞以名鳯假一角而號<lb/>
+麟與其矯情於層崖莫若任意於平津盖京師人物之<lb/>
+都府似不能無聿悠而脆絬<hi>思列切</hi>錯擷而參忳也夫以<lb/>
+<pb n="KR4h0152_WYG_001-18a"/>
+王畿之内䒌焉千里經旬周乎外郭悉黔黎之所止聚<lb/>
+舟以南覆寶以北其中廣衍王氣所塞乗靈氣以鳩作<lb/>
+悉無求而不獲上江來薪兮陳陳下江繼粟兮淢淢奠<lb/>
+枕於中洫焉而食富有兼資貧不至貸故其民習於親<lb/>
+上俗矯於好徳豈若洛陽之桑梗闗中之删頟也哉論<lb/>
+者謂偏據之地易於分王想窺中原有限其望盖以萬<lb/>
+邦之方下民之王而視為三國之寓境六朝之寄鄉是<lb/>
+猶神淵浮螾即以為螾淵而不知蛟龍之所藏靈囿集<lb/>
+<pb n="KR4h0152_WYG_001-18b"/>
+胥即以為胥囿而不知鸞皇之所翔豈不繆歟且聖祖<lb/>
+定鼎於兹天下十二初得三四於焉寧齊魯定汴洛幽<lb/>
+燕妥收晉兾奄廓灤河之所經營遼海之所開拓阺<hi>音底</hi>
+兮若朽木之易摧迭乎若焦薪之易爚果地之不利也<lb/>
+耶太宗入繼大統盛徳守成憤徼外之覬覘建行營於<lb/>
+北平假天威以彈壓省防秋之萬兵命嗣皇以監國將<lb/>
+翠華之旋宖曷鄭重而不返慨鼎湖之龍升列聖慮遷<lb/>
+以勞民遂遥睇乎天宏是非此不足以宅壯麗而容衆<lb/>
+<pb n="KR4h0152_WYG_001-19a"/>
+庶也吾輩沾濡祖宗之恩逍遥根本之域安百年之衽<lb/>
+席目不睹乎鋒鍉特以䂓模之侈大氣象之深逖故閉<lb/>
+門足以守諸夏開闗足以闡遐烈挈入都之領袖而有<lb/>
+此夷逸也由是觀之南都之建尚何百二之所能敵哉<lb/>
+如子不以為然願聞雄辨僕將執白馬之靮焉<lb/>
+　　北都賦<hi>桑悅</hi>
+知今子嘆曰先生真覆中人耶生長於南得其膏髓莽<lb/>
+遊於北未能糠粃即渥彼泊此是知有矑而不知有目<lb/>
+<pb n="KR4h0152_WYG_001-19b"/>
+者也知有輪而不知有耳者也且元之季天下㴎<hi>奴大切</hi>
+淜偽漢歸墟偽吳西盈明昇擴廓之徒亦盜息壤而湮<lb/>
+騰我聖祖悉渟泓之既鞠瘁攸方因息搏金陵當是之<lb/>
+時威徳□□<hi>音楚</hi>䟦殪猘懲雖漭泱斯都亦百匝巉嶸思<lb/>
+業齊於圜燾燕聖嗣於北平意將黙啟此焉作京也先<lb/>
+生茍眩璉焉僕將北都之事以破之聞北之為都宿屬<lb/>
+於箕地名幽州神堯之聖域召公之賢丘地形累崇蹠<lb/>
+蹠捄捄膊<hi>音粕</hi>齊魯為柶<hi>音/四</hi>綴趙遼作旒東阬迻<hi>餘之切</hi>逈<lb/>
+<pb n="KR4h0152_WYG_001-20a"/>
+而左䢦<hi>山律切</hi>太行㠕<hi>於鬼/切</hi>峞<hi>牛罪/切</hi>而右<graphic n="KR0146" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0146.png" mimeType="image/png"/>
+                    <hi>音由</hi>濎濙無涯<lb/>
+峻峭莫儔眇轢長江之蠡㡿<hi>音齒</hi>芥鐘山之塿前奎滹沱<lb/>
+易河後<graphic n="KR2528" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2528.png" mimeType="image/png"/>
+                    <hi>匹迷切</hi>龍門狐嶺河濟碣石衛國之城隍居庸<lb/>
+鴨綠障逺之藩屏其西香金甕覺仰鐵綿玉泉盧師平<lb/>
+坡棋盤則貸空附形岟嶭<hi>五結切</hi>堞攅其大通盧溝黄花<lb/>
+濕餘髙梁固安龍泉琉璃則穴地纒軀批偪盤紆峙悉<lb/>
+延延流咸澞澞成險生潤作固於尼爾乃郊原墳盧掌<lb/>
+掌㧗㧗<hi>此禮切</hi>接天王氣隨地彭邐㬅泱無窮敦橆<hi>音武</hi>靡<lb/>
+<pb n="KR4h0152_WYG_001-20b"/>
+麗馳突㒺銜容光必峙又或靡板層胡良為坑羅埪垌<lb/>
+磨臺為<graphic n="KR2646" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2646.png" mimeType="image/png"/>
+                    <hi>音起</hi>約奐其歸聚英帝里天合其所人凝其績<lb/>
+築城伊域作都伊匹揆之以日其繩則直空材九有付<lb/>
+之偃翟䂓乾凖坤以䆒安宅堯之成陽似倮秦之阿房<lb/>
+太嫿<hi>呼麥切</hi>角樓畧摩乎漢䂓梧殿少武乎唐式五門環<lb/>
+環千廬㧖㧖<hi>音厄</hi>雙華嬛嬛<hi>音旋</hi>丹闕頟頟峙以文武列以<lb/>
+順掖東連宗廟西㠑社稷武英<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>力篤切</hi>譎而欒駢大善<lb/>
+臬窈而彪舄文華坺<hi>扶厥切</hi>㙐<hi>都果/切</hi>而枚塙<hi>口交切</hi>文淵實<lb/>
+<pb n="KR4h0152_WYG_001-21a"/>
+䫨<hi>五髙切</hi>而隆頔南薰仁智前經後緯思善翼善左輔右<lb/>
+弼奉天前迤齗齗特特若圜倪之無極華盖中蒞鏘鏘<lb/>
+礊礊<hi>音客</hi>若春盎之可即謹身後擁環環赫赫若混沌之<lb/>
+未畫悉䀛<hi>忘拜切</hi>其桷悉扛其楹剡柱乳楣巨纖<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>居僅切</hi>
+墿<hi>居石切</hi>欂<hi>歩碧/切</hi>櫖禁楄<hi>補沔/切</hi>疎戚<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>迸<hi>彼耕切</hi>陽栖其正<lb/>
+隂止其冥懸魚惃<hi>古䰟切</hi>凛而下垂拒鵲媋<hi>式均/切</hi>䐷<hi>丁安切</hi>
+而上騰彼<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>呼骨切</hi>之雄梁夥崇㙷<hi>除立切</hi>而獨承山林<lb/>
+之日既長廟廊之任孔宏群材膺職渠渠廼成㑹同萬<lb/>
+<pb n="KR4h0152_WYG_001-21b"/>
+象總暴單名<hi>曰楣曰柱之屬其名不一及殿既成楣柱之名盡隱總名曰殿而已如舜五人分治</hi>
+<hi>天下事五人之功成則曰舜之功也以殿比君梁比宰輔其餘楣柱比衆職意思深長非茍作者</hi>覆以<lb/>
+琉璃陸曄含黹<hi>音止</hi>曜靈接而㺯碧夜光交而成紫<hi>合色極上</hi>
+東西之序南北之偏墄<hi>蒼則切</hi>厓敖屴<hi>音力</hi>砌以花<graphic n="KR1897" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1897.png" mimeType="image/png"/>輦路<lb/>
+糾繚閣道廻旋髙以純升莫喻其然票彤庭之言言<graphic n="KR3097" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3097.png" mimeType="image/png"/>
+<hi>慈損切</hi>雙柱以擎天色侔截昉<hi>音/方</hi>文以蜿蜒□<hi>乙學切</hi>鱗甲<lb/>
+之<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>音論</hi>疑凝佇乎神淵呁<hi>尤峻切</hi>銳頂而夷堂恒薈萋<lb/>
+之糾纒游衍之區爰營西苑泓以太液之□□<hi>音炭</hi>峙以<lb/>
+<pb n="KR4h0152_WYG_001-22a"/>
+瓊華之夗夗<hi>音苑</hi>池則汪洋漫衍溔<hi>羊小切</hi>潢漂沱沄沄淨<lb/>
+練滈滈輕羅有約其駾<hi>它外切</hi>淃乎相磨禓以江蘺芙蓉<lb/>
+㸃以芳藻緑荷含英吐華<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>馝薫波島則巉巗磊砢岪<lb/>
+鬱危繃太湖輸精武康貢英竒寫宗師之文怪摹辟邪<lb/>
+之形薄平泉而不即眇艮嶽而弗登者悉茲攅掜數仞<lb/>
+廼成㸃以頻婆玉桃之菶菶綴以綿梨蜜杏之庭庭廼<lb/>
+築崇基殿以廣寒刺以複閣趽<hi>音彭</hi>以雕欄古栢十圍矮<lb/>
+松百盤俯雙橋之千柱仰萬嵗之層巒誠禁中之蓬島<lb/>
+<pb n="KR4h0152_WYG_001-22b"/>
+豈靈圉之敢般嗤秦皇之遭紿笑漢武之受姗<hi>于先切</hi>索<lb/>
+神居於海外類求唐而掲竿<hi>莊子云掲竿下海而求唐子</hi>南墉之中<lb/>
+亭館綿延迷以綺鋺復以粉眢除鋪太階療綴明媊<hi>音前</hi>
+擁以比目之扇鋪以半肩之氊培以長命之草栽以並<lb/>
+頭之蓮珠玕之樹苯苯純縞之禽翩翩東南其户寒暑<lb/>
+攸偏凉登洗髓之域和躋浴沂之天居止法乎天帝奚<lb/>
+必創乎神仙欽安而後皗<hi>直流切</hi>以日精月華之煌煌晃<lb/>
+以景福隆宗之瀴瀴<hi>音映</hi>乾清晫<hi>都角切</hi>兮其鴻葛坤寧<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+<pb n="KR4h0152_WYG_001-23a"/>
+<hi>紆云切</hi>乎其硎清六宮弮弮<hi>丘貟切</hi>七所夐敻蠶室同繅絲<lb/>
+之源昭徳異永巷之墱<hi>丁鄧切</hi>爰有仁夀聖母所靖下萐<lb/>
+莆之盈盈上鈎鈐之<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>音靜萐莆瑞草王者孝則生鈎鈐星名王者孝則明</hi>嬪<lb/>
+妃雍雍栗以宮正第禂嚴敇帷<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>肅敬爰遵内範匪姿<lb/>
+以貹<hi>他孟切</hi>絲纇必輯零帛必絎<hi>音柄</hi>爰洽彤史之化爰繼<lb/>
+闗雎之咏遵商周之家法豈漢唐之敢並奉先衝雲火<lb/>
+烹累䨠北海通乎御溝主山邇乎厚載王府十邐金水<lb/>
+之濵青宮一伉羅城之外無殿宇之甚庭明本支之共<lb/>
+<pb n="KR4h0152_WYG_001-23b"/>
+蔕司禮諸監二十有四惟披惟衆爰理厥事膺恩眷以<lb/>
+精忠保富貴以勤勩天財承運世資物斥循和鈞之䂓<lb/>
+刋不㑹之失夜光爍空而不離乎櫝辟寒委地而不出<lb/>
+乎閾鄭材諸垻神龍各廐蒭菣<hi>去刃切</hi>山積繁息官畜脫<lb/>
+騩違靮兟兟溜溜喜奕悠而轠<hi>音雷</hi>轔怒跅<graphic n="KR1375" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1375.png" mimeType="image/png"/>而决驟散<lb/>
+若旌旗合如錦繡尾拖鬼方之雲鬛帶北極之飀軒以<lb/>
+欒鍼御以泰豆代驂象輿探前趹<hi>烏穴切</hi>後者谷量野散<lb/>
+𨽻首莫䆒鄙衞以騋牝三千成咏𦕈唐以四十萬匹為<lb/>
+<pb n="KR4h0152_WYG_001-24a"/>
+富惟南有囿釗釗媞媞臺名呼鷹巋崱雲齊䂓以槢垣<lb/>
+衞以危梐<hi>車兮切</hi>佳實累<graphic n="KR1166" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1166.png" mimeType="image/png"/>
+                    <hi>音义</hi>灌木垂桋幻靈芝之䔄䔄<lb/>
+茁紫脫之萋萋蚑息蝡動鷙擊獷趧<hi>音堤</hi>或並命而比翼<lb/>
+或兩額而三蹄㩼<hi>音支</hi>獝領乎師師䎀<hi>許出/切</hi>狘<hi>許月切</hi>鎮乎<lb/>
+儀儀悉入營表接閧連矣<hi>音奚</hi>以至大月一峯之駝黄支<lb/>
+獨角之犀昆明吐金之鳥三佛吞火之鷄天山識樂之<lb/>
+帝江哈烈㺯毬之狻猊亦安薛公之鞠養受毛丘之羈<lb/>
+縻環以靈沼畫以崇谿水禽淵魚隨方躍栖悉涵負乎<lb/>
+<pb n="KR4h0152_WYG_001-24b"/>
+恩澤動濡爛而敷祈澄波<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>詞林切</hi>流澌癸湀牽牛織<lb/>
+女涵影東西青天鋪底籠以玻瓈七夕之鵲髙低瞑迷<lb/>
+膆<hi>音訴</hi>層漢而飜下駕雄梁而接隄疑仙駕之拂掠覺項<lb/>
+翼之酸<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <hi>音犀</hi>韮蒜芋茄𤓰蔔芥荽<hi>音綏</hi>湛露厭浥絡圃連<lb/>
+畦纖䰃儷金孴<hi>音疑</hi>㿸<hi>無願切</hi>成泥苑監是職衡牧分司覆<lb/>
+紅巾以進録伴玉食而生輝潞濟群河爰通漕運節宣<lb/>
+齊魯之流㒺京堂而不浚武夫役民彌搏劤劤香秔辭<lb/>
+越而遐征白粲别吳而時進銀灣克抵衞縣斯親<hi>子遴切</hi>
+<pb n="KR4h0152_WYG_001-25a"/>
+危檣連連矗如樷𥻘<hi>音吝</hi>麗新閘則倮載飛車則迅周章<lb/>
+聽瑩同儕相呹<hi>音舜</hi>偭挺途猶珠入太倉若糞一方之貢<lb/>
+可充四國之饔飱一嵗之儲可援十載之飢饉寶𤣥福<lb/>
+順連延官肆商賈如雲駢槅連肆孰為渠公孰為丙氏<lb/>
+南巴之竹扇東廣之藤笥蘄州抵金之簟滇南鏤銀之<lb/>
+轡江南之薑桂錫連雲委龍門之䈥角旃鐵棋置利十<lb/>
+倍質嬌麗承弊白台紫靨揄能獻技躡祧祧之利屣翹<lb/>
+榯榯<hi>音時</hi>之象揥轉咽緸緸<hi>音/因</hi>拉㧺<hi>徒合/切</hi>袲袲<hi>尺制切</hi>
+                    <graphic n="KR0146" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0146.png" mimeType="image/png"/>兮<lb/>
+<pb n="KR4h0152_WYG_001-25b"/>
+蕭蕭坲<hi>音佛</hi>兮餼霼歌歇舞收雨歸雲遲匪呰<hi>音紫</hi>窳而自<lb/>
+擅得褥翔於聖世侈隃<hi>音堯</hi>腴氓竒貨斯婪鶴頂貓睛繡<lb/>
+巾紫曇琨珮瓓環瑟帶瓊䀀<hi>音凢</hi>
+                    <graphic n="KR1362" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1362.png" mimeType="image/png"/>
+                    <graphic n="KR1362" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1362.png" mimeType="image/png"/>
+                    <hi>音屈</hi>耀日之簾皜皜<lb/>
+浣火之衫或襲以阿錫或<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>以珍椷儲白本受采希青<lb/>
+價出藍適沉珠而毁璧竟需象而得<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>群國賔興禮闈<lb/>
+披遴八表逄掖名坊茶頓叙名寸楮誰與悉問施笑鄒<lb/>
+語𦍑嗤楚韻爭投伐桂之銎㶴<hi>充尔切</hi>薫赤杏之焮百十<lb/>
+髙希乎及第萬一威彪乎令聞紛紛青年之英慨慨白<lb/>
+<pb n="KR4h0152_WYG_001-26a"/>
+戰之陣吐辭則終日不嗄<hi>老子云赤子終日號而不嗄此借以喻其出言之無窮</hi>
+繹理則畢生無□<hi>齊丘子云或寶一器至畢生無□此借喻其觀理之無渗漏</hi>占夣<lb/>
+於周宣推命於梓眘果耳不周之聲<hi>闕</hi>目鬱儀之暈簮<lb/>
+以宮花醉以内醖徤馬奕奕街遊一瞬惟煙霞填乎凢<lb/>
+格霜雪粘乎髭鬢多瀳<hi>多見切</hi>焉復潿<hi>音闕/韋</hi>升焉復揗<hi>音順</hi>
+似造化簡於老成隆於少進厥意尋丈而莫測其分寸<lb/>
+焉其設官也或象以天地或配以四時盛官屬以任使<lb/>
+為庶事於無為都臺肅朝廷之綱紀大理平訟獄之差<lb/>
+<pb n="KR4h0152_WYG_001-26b"/>
+池翰林根本之地通政㗋舌之司光禄<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>張嗉之燄<hi>張嗉</hi>
+<hi>星名主天飲食</hi>宗人綴天潢之支神州赤縣政沄怌<hi>鋪回/切</hi>甈<hi>五計</hi>
+<hi>切</hi>太學㡿序敎沃畬菑容臺掌乎大禮兵馬輯乎細辭<lb/>
+鴻臚太僕尚寶太醫廊列黄門科憇中書比屋隆夸彼<lb/>
+<graphic n="KR2515" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2515.png" mimeType="image/png"/>吾漦萬衞殊名五府相維扈從擒姧屬之錦衣欽天<lb/>
+之職宣髀兼<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>巻天道於二掌驗人事之災禠東閣元<lb/>
+老天子是毘止戯於剪桐充仁於折枝詹事春坊青宮<lb/>
+是師惟霡霂乎早諭冀峼□<hi>它果切</hi>乎崇基年有長季職<lb/>
+<pb n="KR4h0152_WYG_001-27a"/>
+有崇卑惟政舉而時贏各溫戚而存知奭錦袍之熉熉<lb/>
+<hi>音雲</hi>懸象牌之垂垂按節長安之街飲馬玉河之隄匪登<lb/>
+庸之<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>安冠盖之祈祈或來東海或朝西域置以㑹<lb/>
+同之館攭以烏蠻之驛觀其翠髮巻茸綠睛轉赤綺衣<lb/>
+並臂文面穿鼻露金齒之齗齲揺環耳之琅咋帽樺皮<lb/>
+而負金鏁戴皁<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>而纒<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>公亞切</hi>帛或厯細腰之沙或亂<lb/>
+熱身之澤或脫黄羊渡之險或撇白龍堆之厄莋馬僰<lb/>
+童旄牛婆律鼲納之裘雕化之勒桄榔之麵羊刺之蜜<lb/>
+<pb n="KR4h0152_WYG_001-27b"/>
+食藥之鹿伎伎銜燭之犬睪睪畢獻方物孔淑不逆此<lb/>
+盖周公之徳不能致立本之手不能格者也若乃驕民<lb/>
+渥夫舉肥漂斥佳辰令節嵗無虚擲迎嵗拜春殽核狼<lb/>
+籍三杯五觥孰主孰客柔遭茹而街卧剛被扶而巻格<lb/>
+<hi>茹扶皆指酒而言</hi>清明祭掃士女嫧嫧<hi>音責</hi>淡蕩雲天晴明風日<lb/>
+歸信未通婚期已迫彼跨金鞍此乗油壁逝将去而㥄㥄<lb/>
+<hi>直徵切</hi>語不通而黙黙金珠鳥止乎園林羅練花開乎阡<lb/>
+陌至如鞦韆凖乎良劑蹴鞠參乎上劇登髙屏難於重<lb/>
+<pb n="KR4h0152_WYG_001-28a"/>
+陽陳𤓰乞巧於七夕公子王孫内家外戚執樂千指萬<lb/>
+錢一食者承昇平之綿遐則又豫樂而無極者也熊熊<lb/>
+百萬列營十二六時簡閱山徒海騎苞兮嶫嶫流兮㵝<lb/>
+㵝文武吉甫諸營是司繹素王之理接𤣥女之思演星<lb/>
+袊之妙扐天髓之秘故能出神入鬼陽擒隂制係單于<lb/>
+之頸匪折鐵之難喋溫禺之血真摧木之易養翹闗之<lb/>
+全鋒逓千嵗而一試五方所聚人品無同或潤道而澤<lb/>
+徳或藏衺而蘊兇或悃<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>音白切</hi>而愛恬或譙<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>烏祿切</hi>而<lb/>
+<pb n="KR4h0152_WYG_001-28b"/>
+喜訟或如朱安世之虓悍或如魯仲連之豪雄守道者<lb/>
+自尊畏法者自䝉莫不漻乎無聲泯乎濞漴以至慶夀<lb/>
+大覺之寺朝天洞神之宮亦有躡文成之軌假逹磨之<lb/>
+蹤煉必䂓乎大道坐不落乎頑空者僔僔而蓬蓬雖騁<lb/>
+說之浮誇竟莫售乎明聰直𨽻諸藩三載一聘各率其<lb/>
+屬鬻鬻嫈嫈<hi>音映</hi>㑹朝之晨衣冠<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>音靜</hi>輿臺呼旦東方<lb/>
+尚懜<hi>音孟</hi>天顔未覩天居遥覴<hi>丑證切</hi>一祖四宗則篤其慶<lb/>
+四海來格九圍交亘<hi>四句想像來朝羣臣賛嘆之詞商頌云四海來格來格祁祁殷受命</hi>
+<pb n="KR4h0152_WYG_001-29a"/>
+<hi>咸宜百祿是荷與此意同</hi>爾乃鼉鼔振絶洪鐘聲競雞人未唱禁軍<lb/>
+絡堩<hi>居鄧切</hi>龍伯遺人操戈<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>郎定切</hi>盖天之幢獵峙耀<lb/>
+日之殳叠映鳴鞭三振乾荅坤應鴻臚肅班御史糾朚<lb/>
+<hi>音孟</hi>于時尹伯與屬畢獻方政天子廼御奉天負扆而聽<lb/>
+紫衣傳㫖寛刷㣲<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>廼命冡宰都憲稽嵗月之成下鈎<lb/>
+逆之令左陟而右勵前噴而後醒一麾靡靦三接弗驕<lb/>
+徂交求定除𤯝平豂<hi>音寥</hi>尤慮纎滯不宣儲沬成濤登聞<lb/>
+既建㣲鬨天囂門無九重之限堦通萬里之遥倣堯舜<lb/>
+<pb n="KR4h0152_WYG_001-29b"/>
+之庸才運元化而不勞時乎三陽郊祀天地夙戒其牲<lb/>
+蠒栗成隊置絼<hi>特忍切</hi>供槀<hi>古老切</hi>閱無染悴圜丘方澤合<lb/>
+一太祖太宗作配必齋心而來成禮而退然後元尊冨<lb/>
+媼留俞塞光而隂降大恵也<hi>齋心以下豫期獲福如是</hi>於是僃儀從<lb/>
+肅吏兵黑卵戴鶡<hi>音曷</hi>專諸縹纓廼擊掆鼓廼扣金鉦五<lb/>
+校沄沄建鉞欩<hi>音超</hi>旌導䍐罼之赫赫攅儀艎之熒熒由<lb/>
+基跡禽轇轕白軻車輻縱横偪頸援撥<hi>音伐</hi>而後擁豹尾<lb/>
+負弩而前征佽飛未離乎城闕遮列已簉乎郊坰天子<lb/>
+<pb n="KR4h0152_WYG_001-30a"/>
+廼慿載天之軾䕃覆地之盖絡結穂之翠毬垂飛龍之䋿<lb/>
+帶周鸞鳯之鳴鈴輾日月之脩軑<hi>音大</hi>揚黄麾與𤣥幢紛<lb/>
+□□而靄靄列以細梢巨扇標以通帛九斿遏雲之旌<lb/>
+㝐㝐<hi>音容</hi>掠漢之葆悠悠約祫<hi>古合切</hi>輅而齊發悉軒曵而<lb/>
+杼<hi>直呂切</hi>侔或駕以安南之白象或驂以渥洼之𤣥虬下<lb/>
+黄輜而收視與造物而周流儼天門洞開星辰扈駕忽<lb/>
+地户悠闢海岳參輶<hi>下黄輜而下皆言存想交格帝祗如是盖未祭時敬也</hi>意營<lb/>
+營而腲旋見雲翳於龍輈玉趾遲遲晚蒞齋宮燭以若<lb/>
+<pb n="KR4h0152_WYG_001-30b"/>
+木祥光溢空天狼挺戈靜室彎弓壁壘絫絫變扤足之<lb/>
+渠荅太白俒俒化洞胸之<graphic n="KR2097" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2097.png" mimeType="image/png"/>䂈<hi>音彤</hi>負山捧璧司馬元戎<lb/>
+明目張膽以俟晨鐘天未向旦玉漏猶滴天子已御具<lb/>
+服之殿輯纓簮理珮革玉珠綴旒紅羅蔽膝錦帶綵綬<lb/>
+朱韈赤舄色衞神而嶷嶷徳浮容而昔昔<hi>二句形容主祭者之氣象</hi>
+<hi>至矣盡矣</hi>思締交於神明敢扄畦以寧逸<hi>自色衞以下言將祭之敬</hi>逮大<lb/>
+祀啟扉庭燎焆焆<hi>於决切</hi>氊案陳皇邸設祭主就位百寮<lb/>
+陪列於是協律諸郎持麾相鼔襲榮猨之跡蹈杜䕫之<lb/>
+<pb n="KR4h0152_WYG_001-31a"/>
+武吹孤孫之管擊靁靈之鼓奏雲和空桑之瑟陳雲門<lb/>
+咸池之舞惴栗駕乎聲容浮青冥而上下<hi>樂舞之聲容乗煓栗之心</hi>
+<hi>以上下青冥之間盖臨祭之敬</hi>三獻既畢周旋傍徨餘愭<hi>音祈</hi>蒸蒸化為<lb/>
+馨香<hi>愭恭也此言祭畢之敬自未祭將祭臨祭祭畢凡言敬者四而用各不同</hi>帝示祖宗是<lb/>
+格是饗降福穰穰台輔匡衞隨日承光<hi>言内外之臣同受福也</hi>借<lb/>
+槱燎之餘輝燭幽昏于八荒<hi>言福及民也</hi>嵗時享乎宗廟春<lb/>
+秋祭乎社稷酬鞠聖躬之恩報粒蒸民之徳陳登設鉶<lb/>
+執事翼翼磬筦鏘鏘萬舞奕奕文孫薦誠靡幽弗格福<lb/>
+<pb n="KR4h0152_WYG_001-31b"/>
+祿攸降賚及蠻貊<hi>先臣而後民而後及于蠻貊降福之次第也</hi>山川旗纛馬<lb/>
+祖先農先師先帝靡祀弗崇澤被幽遐神㒺時恫當郊<lb/>
+祀而旋也遵鹿鳴之䂓舉慶成之宴司壺尚食物以等<lb/>
+辨珍饈醯醢黄封御膳盖以脩亭東西相面天顔降禮<lb/>
+而下垂臣采循班而上薦酒進樂奏和樂雍雍虡業維<lb/>
+樅賁鼔維鏞箜篌琴瑟聲㑹音同毛象畢來化産合桐<lb/>
+九奏將成身在心融亂以椌楬耳浮太空海洋洋而不<lb/>
+波山躍躍而弗童<hi>二句形容作樂之功</hi>筵之初列百戯秩秩售西<lb/>
+<pb n="KR4h0152_WYG_001-32a"/>
+域之技獻犂靬之術致豬韱馬吐火起䬑<hi>王勿切</hi>吹氣則<lb/>
+旌旗自鬬開口則旄毦<hi>音二</hi>亂出悉徹弗庸以閑冥愲䀜<lb/>
+䀜<hi>音忽</hi>諸伶忻承晏娭語齕音鴂狀異形殊都䕶屢請而<lb/>
+不至舉蹙額以攅眉奉質子而見納忽顔破而心愉繼<lb/>
+以採蓮之隊躍魚之嬉閃景態之横生何善幻之若斯<lb/>
+於是獻東坡之致語雜方朔之滑稽索循贋艷橦縁嬰<lb/>
+兒馴蟻解筒黠禽銜旗娱目電掣明明熙熙九爵告終<lb/>
+惟其令儀人醉天醺夜象彪機方三能之熚熚忽蓬宿<lb/>
+<pb n="KR4h0152_WYG_001-32b"/>
+之輝輝滿月當空元宵適届生金鰲於後宮運赤睛之<lb/>
+䤳䤳<hi>枯駕切</hi>委飛檄於馬童併三峰而悉借孰决江海而<lb/>
+上孰引星宿而下燭龍褪乎光輝熒惑輸乎赫煆<hi>音亞</hi>擬<lb/>
+登州之海市籠萬形之□□<hi>所化切</hi>仙人騎乎赤鯉壯士<lb/>
+御乎奔騇閃山原㺯影遊不盡之獐麝忽園林成象飛<lb/>
+無邉之鷃鵺<hi>音夜</hi>孰榮逡巡之草木孰造頃刻之臺榭奚<lb/>
+西𦍑之堋堋委生業於騎射何洞氓之軫軫御勍敵以<lb/>
+偏駕<hi>已上皆言燈中之景</hi>幻士女以遊觀雜人品之修跁<hi>所化切士女亦</hi>
+<pb n="KR4h0152_WYG_001-33a"/>
+<hi>燈中士女影中之影</hi>合四海而為燈又見觀於造化<hi>忽出此警語</hi>宜聖<lb/>
+心之洞徹付戯局于一㰤<hi>枯駕切</hi>惟思林總之欲愉詔錦<lb/>
+衣而放夜則有連鐵狡童盤金媚姹度萬寧而越木通<lb/>
+謂疾厄之可謝<hi>萬寧木通二橋名京師俗謂之走百病</hi>慶四難之畢㑹宜<lb/>
+酌醑而殽炙惟君樂之同民合歡聲之蹠蹠<hi>音蔗</hi>端陽之<lb/>
+辰百僚賜箑書面刻骨佳言喢喢<hi>叱渉切</hi>綵索角黍頒畀<lb/>
+沓帀拉上卿于南墉輟萬機於一霎中官如雲珮以韝<lb/>
+韘<hi>蘇協切</hi>逞陳音之長技睨遥鵠而不慴屢㤀歸之奏功<lb/>
+<pb n="KR4h0152_WYG_001-33b"/>
+發嚴鼓之宏鞳日中而散恩周禮洽惟好樂而無荒庶<lb/>
+天下之同攝草木隕落農務既隙靈囿無垠百獸蕃息<lb/>
+䂓其豢牢為之營域有司烝烝焚萊平埸禱蛛蝥而網<lb/>
+靈祀天駟而馬力䝉莊執劒子路援戚射付紀昌御司<lb/>
+三百部分既定闛闛洫洫盖將四膳咸收六禽畢獲續<lb/>
+渭濵之光益榮陽之色而使吁祛目乎兵制頑獷畏乎<lb/>
+威徳也驅逆䫃䫃<hi>切辰切</hi>置萃載牽褐纏旃以為門裘纒<lb/>
+質以為槸<hi>魚列切</hi>天子既出木輅札札大魔攃攃<hi>音殺</hi>升龍<lb/>
+<pb n="KR4h0152_WYG_001-34a"/>
+之纛掜掜<hi>五禮切</hi>象翟之鼓噆噆<hi>才逹切</hi>九仞之扛作氣九合<lb/>
+之弓去紥<hi>音札</hi>駕以角端引以舍利<hi>舍利亦能言之獸</hi>獸之所同<lb/>
+則言其處卒長執鐃司馬建旗韋韝逺部朱鬕<hi>莫亞切</hi>徤<lb/>
+兒或跿<hi>音徒</hi>跔而科頭或<graphic n="KR2155" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2155.png" mimeType="image/png"/>髽而貫頥操殳秉㦸林聚星<lb/>
+馳扚扚<hi>丁激切</hi>沄沄肅肅暆暆<hi>音/移</hi>萬足旋䢔<hi>胡荅切</hi>境塵不<lb/>
+知不傷稚牲不折季枝大庖未盈摝<hi>音鹿</hi>鐸下緌偉中黄<lb/>
+之執雕重西巴之放麋縱如黄之犬張箘簵之繒搏□<lb/>
+<hi>而占切</hi>耏<hi>音/端</hi>殪䰃鬇軫<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>徒郎/切</hi>戻㧙<hi>音/必</hi>抗掁其有敧<hi>曲蟻切</hi>
+<pb n="KR4h0152_WYG_001-34b"/>
+伏深窟扶揺太清者則命發豻矦擲鷄嗚足雖敜敜<hi>乃頰</hi>
+<hi>切</hi>委蛇染<graphic n="KR1873" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1873.png" mimeType="image/png"/>翼雖摯摯委曲為正<hi>平聲</hi>於是按三驅之義<lb/>
+彰一面之仁算蹄紀功舉柴頒臣小大稽首以物易身<lb/>
+觀畢命於禮羅思棄物而獲人孔明深伏心染枉顧之<lb/>
+輪四皓髙逝身羂<hi>古犬切</hi>卑詞之罠真情綴瑣而體乾實<lb/>
+徳結裹而絡坤網支伯於滄州掩許由於沛濵焚互而<lb/>
+旋萬物同春播對酒之長謡知恵及乎蟲昆春日遲遲<lb/>
+穉草萋萋帝籍千畝膴膴崇基廼呼蒼龍以駕紺犂三<lb/>
+<pb n="KR4h0152_WYG_001-35a"/>
+推即功親執洪縻<hi>牛轡也</hi>車子易成牧竪史妠變為耕黎<lb/>
+唱採蓮之曲歌大田之詩忽木徳之守心見聖化之閃<lb/>
+屍屢視太學道脈是滋躬服衣弁降禮先師翟翟賢闗<lb/>
+爰駐龍旂脗周壁廱之制陋魯泮宮之儀司成司業講<lb/>
+六籍之異司論百氏之背馳匪怒伊教樂此不疲實冲<lb/>
+虚而言旋見諸侯與太㣲夫以養由矯矢獸號於林蒲<lb/>
+盧縈繳神感飛禽矧綏來動和之妙得不蛻骨而孀心<lb/>
+於是四方殊風而同化千里異俗而同治雷興稼穡之<lb/>
+<pb n="KR4h0152_WYG_001-35b"/>
+功電流絃誦之懿齊民安瀾秀夫不敡至道下降天不<lb/>
+辭耗真寶上呈地不惜費甘露瀼瀼景星晢晢<hi>音制</hi>石有<lb/>
+發光之竒木有自行之異青蛇幻相而不螫烏鳥隨朝<lb/>
+而自致天人和同聖心未紓畏祖如天寶民如瑹<hi>音書</hi>惜<lb/>
+財如頭目密賢如襟裾繹皇陵之碑玩日厯之詞知創<lb/>
+業之艱難敢泮奐而提舒博莫約於莊心汎莫要於正<lb/>
+軀觀明徳之芬蔚駕唐虞而並幬宜天眷之毣毣永熈<lb/>
+皥乎皇居且自古群盜多起山東此塞其衝厯代繹繹<lb/>
+<pb n="KR4h0152_WYG_001-36a"/>
+多攝蠻戎此拉其胸長淮積貳彭城畸凶此操其饔訪<lb/>
+遺蹟於金元尚恃據而稱雄矧聖化如天仁為池義為<lb/>
+墉人人勵行比屋可封故能一視無外四方咸同先生<lb/>
+守乎雄辨意豈不曰聖祖氣象如神清明在躬靡幽不<lb/>
+燭靡窒不融奚栖吷而棄鋒若然文王曷不遷鎬而居<lb/>
+豐漢髙曷不即居天地之中勞有節而景或窮故耳盖<lb/>
+居豐者太祖遷洛者太宗交乎夏則姑洗代乎仲呂時<lb/>
+乎旦則土圭易乎銅龍當持守而持守當變通而變通<lb/>
+<pb n="KR4h0152_WYG_001-36b"/>
+所以延王業於悠久等神基於華嵩者也尚可泥于一<lb/>
+定而蹈子莫之踪哉抑又聞之惟髙則能制下惟下則<lb/>
+為髙制北之巍伉覆南若天南之卑延承北若地君惟<lb/>
+尊南是昧天經惟知地義抑非無舵之舟不當之器也<lb/>
+哉刋落四隅蕩蕩襄襄萬里一轍是謂大方君茍遊焉<lb/>
+則胸次堂堂然後以窮髪為已之故鄉吾言為已之文<lb/>
+章庶幾見北都之閫奥而不至於倀倀博古先生聞其<lb/>
+言不黨不揚以實鋪張然後茫然自失惕然若亡曰吾<lb/>
+<pb n="KR4h0152_WYG_001-37a"/>
+儕小人於道㒺識聞先生言心開意釋始知孟堅之兩<lb/>
+都平子之二京辭長意短語徒愲愲今承啓我以大道<lb/>
+之要納我以大公之域如脫鷃籬得見龍窟再拜受教<lb/>
+而去<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR4h0152_WYG_001-37b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　明文海卷一<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_187-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選卷一百八十七<lb/>
+　　鼓類<lb/>
+　　　五言律<lb/>
+　　　　詠鼓　　　　　　　　　　<hi>唐</hi>李　嶠<lb/>
+　舜日諧鼗響堯年韻土聲向樓疑吹擊震谷似雷驚仙<lb/>
+　鶴排門起靈鼉帶水鳴樂云行巳奏禮曰兾相成<lb/>
+　　　　同穉孝鼎卿詠津鼓限陽字　<hi>明</hi>程可中<lb/>
+<pb n="KR4h0141_WYG_187-1b"/>
+　戍鼓何蕭索闐闐水一方停抱留墮月流響激繁霜鄉<lb/>
+　夢秋難穩津樓夜正央三撾遺譜失悲壯憶漁陽<lb/>
+　　　五言絶句<lb/>
+　　　　寒食後北樓作　　　　　　<hi>唐</hi>韋應物<lb/>
+　園林過新節風花亂髙閣遥聞擊鼓聲蹴踘軍中樂<lb/>
+　　　　聽鼓　　　　　　　　　　<hi>唐</hi>李商隱<lb/>
+　城頭疊鼓聲城下暮江清欲問漁陽摻時無禰正平<lb/>
+　　　七言絶句<lb/>
+<pb n="KR4h0141_WYG_187-2a"/>
+　　　　蘇摩遮　　　　　　　　　<hi>唐</hi>張　說<lb/>
+　臘月凝隂積帝臺齊歌急鼓送寒来油囊取得天河水<lb/>
+　將添上壽萬年盃<lb/>
+　　　　遊仙詞　　　　　　　　　<hi>明</hi>張　泰<lb/>
+　魚軒輾破水中天霧鬢風鬟從列仙鼉鼓鼕鼕敲向月<lb/>
+　洞庭君女嫁涇川<lb/>
+　　　　宫詞　　　　　　　　　　<hi>明</hi>王叔承<lb/>
+　緑雲細草濕紅巾御酒傾霞欲醉春試奏教坊新鼓響<lb/>
+<pb n="KR4h0141_WYG_187-2b"/>
+　内園初賽百花神<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選卷一百八十七<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>本草綱目卷六目録</head> <lb/>
+    <p>
+<pb n="KR3e0079_WYG_023-1a"/>
+欽定四庫全書<lb/>
+　本草綱目卷六目録<lb/>
+　　火部<lb/>
+李時珍曰水火所以養民而民賴以生者也本草醫方<lb/>
+皆知辨水而不知辨火誠缺文哉火者南方之行其文<lb/>
+横則為三卦直則為火字炎上之象也其氣行于天藏<lb/>
+于地而用于人太古燧人氏上觀下察鑽木取火教民<lb/>
+熟食使无腹疾周官司烜氏以燧取明火于日鑑取明<lb/>
+<pb n="KR3e0079_WYG_023-1b"/>
+水于月以供祭祀司爟氏掌火之政令四時變國火以<lb/>
+救時疾曲禮云聖王用水火金木飲食必時則古先聖<lb/>
+王之于火政天人之間用心亦切矣而後世慢之何哉<lb/>
+今撰火之切于日用灸焫者凡一十一種為火部云<lb/>
+本草拾遺一種<hi>唐陳藏器</hi>　　本草綱目一十一種<hi>明李時珍</hi>
+附註<hi>元朱震亨</hi>
+　火　　　　　凡一十一種<lb/>
+　　　陽火隂火<hi>綱目</hi>
+<pb n="KR3e0079_WYG_023-2a"/>
+　　　燧火<hi>綱目</hi>
+　　　桑柴火<hi>綱目</hi>
+　　　炭火<hi>綱目</hi>
+　　　蘆火竹火<hi>綱目</hi>
+　　　艾火<hi>綱目珠陽燧火  附</hi>
+　　　神鍼火<hi>綱目</hi>
+　　　火鍼<hi>綱目</hi>
+　　　燈火<hi>綱目</hi>
+<pb n="KR3e0079_WYG_023-2b"/>
+　　　燈花<hi>拾遺</hi>
+　　　燭燼<hi>綱目</hi>
+　　　　右附方新一十三<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　本草綱目卷六目錄<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

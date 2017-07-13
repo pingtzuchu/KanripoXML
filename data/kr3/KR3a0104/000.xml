@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3a0104_WYG_000-1a"/>
+　　欽定四庫全書<lb/>
+　　御製日知薈説序<lb/>
+　　日知薈説者取予嚮日日課所為文刪擇編次合而録<lb/>
+　　之爰定之以名也予禀承<lb/>
+庭訓懋學書齋留連徃復於六經四子之書求其義藴精微<lb/>
+　　旁搜諸史通鑑考定得失區眀法戒以至儒先緒論詞<lb/>
+　　苑菁華莫不遍覧雖究心探索饜飫其中然考之古聖<lb/>
+　　賢躬行實踐之學盖恧焉而未逮自十有四嵗學屬文<lb/>
+<pb n="KR3a0104_WYG_000-1b"/>
+　　至於今又一紀矣其間日課詩論襍文未嘗少輟積成<lb/>
+　　卷帙瑕瑜各半踐阼以来萬㡬待理豈復得如曩時專<lb/>
+　　志篤學日與良師友敬業樂羣於翰墨之塲哉紬繹舊<lb/>
+　　聞念兹弗釋因取其精去其疵録其正棄其偏合二百<lb/>
+　　六十則釐為四卷而舉凡道徳性命之㫖學問政治之<lb/>
+　　要經傳之淵源古今之事蹟莫不略見梗概夫日知之<lb/>
+　　説出自子夏繼以無忘所能必所知者日新不失而賡<lb/>
+　　續以極扵髙眀乃為學問窽要若予嚮日所得尚非空<lb/>
+<pb n="KR3a0104_WYG_000-2a"/>
+言而無濟實用則今班朝莅政之間豈不足自考其知<lb/>
+行合一與否以發抒聞見遜敏敦脩乎<lb/>
+乾隆丙辰中秋日<lb/>
+<pb n="KR3a0104_WYG_000-3a"/>
+欽定四庫全書　　　　　子部一<lb/>
+御製日知薈説　　　　　　儒家類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案<lb/>
+　　御製日知薈説四卷乾隆元年<lb/>
+　　皇上取舊製各體文删擇精要得二百六十則釐<lb/>
+　　　　為四卷第一卷論帝王治化之要卷二卷論<lb/>
+　　　　天人性命之㫖第三卷論禮樂法度之用第四<lb/>
+<pb n="KR3a0104_WYG_000-3b"/>
+　　　　卷論古今得失之迹考三代以前帝王訓誡<lb/>
+　　　　多散見諸子百家中真膺相叅不盡可據漢<lb/>
+　　　　書所載黄帝以下諸目班固已注為依託亦<lb/>
+　　　　不足憑惟所載髙帝八篇文帝十二篇為帝<lb/>
+　　　　王御製著録儒家之始今其書不𫝊然髙帝<lb/>
+　　　　當戰伐之餘政兼覇術文帝崇清淨之學源<lb/>
+　　　　出道家其詞未必盡醇乆而散佚或以是歟<lb/>
+　　　　梁元帝金樓子體儕説部抑又次焉夫詞人<lb/>
+<pb n="KR3a0104_WYG_000-4a"/>
+　　　　所著作盛陳華藻而已帝王之學則必歸于<lb/>
+　　　　𫝊心之要義儒生所論説髙談性命而已帝<lb/>
+　　　　王之學則必徵諸經世之實功故必以聖人<lb/>
+　　　　之徳居天子之位而後吐詞為經足以垂萬<lb/>
+　　　　世之訓也我<lb/>
+　　皇上亶聰首出念典彌勤紬繹舊聞發揮新得所<lb/>
+　　　　謂為天地立心為生民立命為往聖繼絶學<lb/>
+　　　　為萬世開太平者具偹于斯迄今太和翔洽<lb/>
+<pb n="KR3a0104_WYG_000-4b"/>
+　　久道化成無逸作所之心與天行同其不息而百<lb/>
+　　　　度修明八紘砥屬<lb/>
+　　天聲赫濯尤簡冊之所未聞豈非内聖外王之道<lb/>
+　　　　文經武緯之原一一早握其樞要歟<hi>臣</hi>等校<lb/>
+　　　　録鴻編循環跪讀欽<lb/>
+　　聖學之髙深益知<lb/>
+　　聖功之有自也乾隆四十一年五月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+<pb n="KR3a0104_WYG_000-5a"/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+<pb n="KR3a0104_WYG_000-6a"/>
+欽定四庫全書　　　　　子部一<lb/>
+日知薈說　　　　　　　　儒家類<lb/>
+　第一卷<lb/>
+　　七十九則<lb/>
+　第二卷<lb/>
+　　六十則<lb/>
+　第三卷<lb/>
+　　五十七則<lb/>
+<pb n="KR3a0104_WYG_000-6b"/>
+　第四卷<lb/>
+　　六十四則<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

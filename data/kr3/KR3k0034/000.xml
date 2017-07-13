@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>姓氏急就篇</head>
+    <p>
+<pb n="KR3k0034_WYG_000-1a"/>
+欽定四庫全書　　　　　子部十一<lb/>
+　姓氏急就篇　　　　　　類書類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案姓氏急就篇二卷宋王應麟撰其<lb/>
+　　　　書仿史游急就篇體以姓氏諸字排纂成章<lb/>
+　　　　以便記誦文詞古雅不減㳺書又雖以記録<lb/>
+　　　　姓氏為主而臚列名物組織典故意義融貫<lb/>
+　　　　亦可為小學之資篇中凡單姓皆無重字篇<lb/>
+<pb n="KR3k0034_WYG_000-1b"/>
+　　　　末列二字三字諸姓則不免複出盖義取兼<lb/>
+　　　　載故勢難相避其中稀僻之字如梁四公記<lb/>
+　　　　之類雖託言沈約所撰實詭立稱號本無其<lb/>
+　　　　人未免失之稍雜然載籍既有此姓刪之反<lb/>
+　　　　有挂漏之譏過而存之亦不足為累每句之<lb/>
+　　　　下各注其受氏之源與厯代知名之士必一<lb/>
+　　　　一標所據之書尤為詳宻篇末有自跋一章<lb/>
+　　　　以歐陽修州名急就篇自比修書今載居士<lb/>
+<pb n="KR3k0034_WYG_000-2a"/>
+　　　　集中字數無多亦無注釋實不及此書之善<lb/>
+　　　　其跋亦作韻語舊本遂誤合于正文考應麟<lb/>
+　　　　所作爾雅翼序即用此體盖馬融廣成頌序<lb/>
+　　　　之支流與本書實不相屬今離析書之庶不<lb/>
+　　　　失應麟之意焉乾隆四十六年十月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

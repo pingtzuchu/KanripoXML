@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>提要</head>
+    <p>
+<pb n="KR4d0500_WYG_000-1a"/>
+欽定四庫全書　　　　　集部五<lb/>
+　提要　　　　　　　　　别集類四<hi>元</hi>
+　　伊濱集二十四卷<lb/>
+　　　　<hi>臣</hi>等謹案伊濱集二十四卷元王沂撰沂字<lb/>
+　　　　思魯先世雲中人徙于真定父元父官至承<lb/>
+　　　　事郎監黄池税務馬祖常石田集有所作元<lb/>
+　　　　父墓碣銘叙其家世甚詳而沂始末不槩見<lb/>
+　　　　今以集中所自述與他書參考之尚可得其<lb/>
+<pb n="KR4d0500_WYG_000-1b"/>
+　　　　大略據馬祖常碣銘稱與沂同榜則當為延<lb/>
+　　　　祐初進士據集中送李縣令序則嘗為臨淮<lb/>
+　　　　縣尹據義應候廟記稱延祐四年佐郡伊陽<lb/>
+　　　　考地理志伊陽在嵩州則嘗為嵩州同知又<lb/>
+　　　　詩中有綸巾羽服卧伊濱之句則集名伊濱<lb/>
+　　　　亦即起于此時據祀南鎮北嶽諸記則至順<lb/>
+　　　　三年嘗為國史院編修官據送翟生序及胡<lb/>
+　　　　節母詩序諸篇則元統三年嘗在國子學為<lb/>
+<pb n="KR4d0500_WYG_000-2a"/>
+　　　　博士據送余闕序稱元統初佐考試見闕對<lb/>
+　　　　策云云則嘗入試院同考而余闕實為所得<lb/>
+　　　　士據祀西鎮記御書䟦諸篇則至元六年嘗<lb/>
+　　　　為翰林待制並嘗待詔宣文閣又宋遼金三<lb/>
+　　　　史成于至正五年而書前列諸臣修史有總<lb/>
+　　　　裁官中大夫禮部尚書王沂之名則是時已<lb/>
+　　　　位至列卿其後遷轉遂不可考疑即致仕以<lb/>
+　　　　去然集中壬寅紀異詩有壬寅仲春天雨電<lb/>
+<pb n="KR4d0500_WYG_000-2b"/>
+　　　　南平城中晝驚愕自從兵革十年來澒洞風<lb/>
+　　　　塵亘沙漠之句又鄰冦逼境倉皇南渡詩有<lb/>
+　　　　隣邑舉烽燧長驅冦南平中宵始聞警挈家<lb/>
+　　　　遂逺行之句又有寓吉林塘避桃林兵警詩<lb/>
+　　　　壬寅為至正二十二年正中原盗起之時距<lb/>
+　　　　沂登第已五十載尚轉側兵戈間計其年亦<lb/>
+　　　　當過七十矣沂歴躋舘閣多居文字之職廟<lb/>
+　　　　堂著作多出其手與傳若金許有壬周伯琦<lb/>
+<pb n="KR4d0500_WYG_000-3a"/>
+　　　　陳旅等俱相唱和故所作詩文舂容和雅猶<lb/>
+　　　　有先正軌度惜其名不甚著集亦絶尠流傳<lb/>
+　　　　選元詩者并不能舉其名氏今從永樂太典<lb/>
+　　　　中裒掇編次釐為二十四卷庶梗概尚具不<lb/>
+　　　　致遂就湮没焉乾隆四十六年九月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　　總　校　官<hi>臣</hi>陸　費墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

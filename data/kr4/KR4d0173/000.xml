@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>陵陽集</head>
+    <p>
+<pb n="KR4d0173_WYG_000-1a"/>
+欽定四庫全書　　　　　集部四<lb/>
+　陵陽集　　　　　　　　别集類三<hi>宋</hi>
+　　提要<lb/>
+　　　　臣等謹案陵陽集四巻宋韓駒撰駒字子<lb/>
+　　　　蒼蜀仙井監人政和中召試賜進士出身累<lb/>
+　　　　除中書舎人權直學士院南渡初知江州事<lb/>
+　　　　蹟具宋史文苑傳駒學原出蘇氏吕本中作<lb/>
+　　　　江西宗派圗列駒其中駒頗不樂然駒詩磨<lb/>
+<pb n="KR4d0173_WYG_000-1b"/>
+　　　　淬剪截亦頗渉豫章之格其不願寄黄氏門<lb/>
+　　　　下亦猶陳師道之瓣香南豐不㤀所自爾非<lb/>
+　　　　必其宗旨之逈别也陸㳺䟦其詩草謂反覆<lb/>
+　　　　塗乙又歴疏語所從來詩成既以予人乆或<lb/>
+　　　　累月逺或千里復追取更定無毫髪恨乃止<lb/>
+　　　　亦可謂苦吟者矣晁公武讀書志謂王黼嘗<lb/>
+　　　　命駒題其家藏太乙真人圗盛傳一時今其<lb/>
+　　　　詩具在集中有玉堂學士今劉向之句推許<lb/>
+<pb n="KR4d0173_WYG_000-2a"/>
+　　　　甚至劉克荘謂子蒼諸人自鬻其技至貴顯<lb/>
+　　　　蓋指此類其亦陸㳺南園記之比乎要其文<lb/>
+　　　　章不可掩也乾隆四十六年九月恭校上<lb/>
+　　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2m0053_WYG_295-1a"/>
+欽定四庫全書<lb/>
+欽定八旗通志卷二百八十一<lb/>
+　世職表四<lb/>
+　　正黄旗滿洲世職下<hi>騎都尉</hi>　<hi>雲騎尉/</hi>　<hi>恩騎尉</hi>
+　　　騎都尉<lb/>
+<pb n="KR2m0053_WYG_295-2a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-3a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-4a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-5a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-6a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-7a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-8a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-9a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-10a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-11a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-12a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-13a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-14a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-15a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-16a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-17a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-18a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-19a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-20a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-21a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-22a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-23a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-24a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-25a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-26a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-27a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-28a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-29a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-30a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-31a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-32a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-33a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-34a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-35a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-36a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-37a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-38a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-39a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-40a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-41a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-42a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-43a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-44a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-45a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-46a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-47a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-48a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-49a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-50a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-51a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-52a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-53a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-54a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-55a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-56a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-57a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-58a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-59a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-60a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-61a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-62a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-63a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-64a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-65a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-66a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-67a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-68a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-69a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-70a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-71a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-72a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-73a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_295-74a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0053_WYG_295-74b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+欽定八旗通志卷二百八十一<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

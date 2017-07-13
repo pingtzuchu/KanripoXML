@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_012-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選巻十二<lb/>
+　　露類<lb/>
+　　　四言古<lb/>
+　　　　甘露頌　　　　　　　　<hi>北齊</hi>邢　邵<lb/>
+　休徵屢動感極廻天流甘委素玉潤冰鮮密房下結珠<lb/>
+　琲上懸布濩林野灑散旌旃<lb/>
+　　　　芳林園甘露頌　　　　　<hi>北齊</hi>梁神洊<lb/>
+<pb n="KR4h0141_WYG_012-1b"/>
+　福以德彰慶沿業皎矧兹嘉露因祥特表翻潤星夕流<lb/>
+　甘月曉竒越彫氛珍逾素鳥至道伊融大化期肇惟此<lb/>
+　大化實感天眷降液丹墀飛津綺殿九服依風八荒改<lb/>
+　面敢述朦詞式旌舞忭<lb/>
+　　　五言古<lb/>
+　　　　賦得露　　　　　　　　　<hi>梁</hi>顧　煊<lb/>
+　飛空猶藴狀集物始呈華萎黄壓秋筍厭浥長春芽非<lb/>
+　惟溥蔓草頗亦變蒹葭仍增江海浪聊㸃木蘭花<lb/>
+<pb n="KR4h0141_WYG_012-2a"/>
+　　　驚早露　　　　　　　　　<hi>梁</hi>劉　憺<lb/>
+九畹凝芳葉百草瑩新珠盈荷雖不潤拂竹竟難枯<lb/>
+　　　詠采甘露應詔　　　　　　<hi>陳</hi>江　總<lb/>
+祥露曉氛氳上林朝晃朗千行珠樹出萬葉瓊枝長徐<lb/>
+輪動仙駕清晏留神賞丹水波濤泛黄山煙霧上風亭<lb/>
+翠斾開雲殿朱絃響徒知恩禮洽自慚名實爽<lb/>
+　　　應詔甘露寺　　　　　　<hi>北齊</hi>邢　邵<lb/>
+膏露且漸洽凝液汭旍旂草木盡沾被玉散復珠霏誰<lb/>
+<pb n="KR4h0141_WYG_012-2b"/>
+謂穹昊逺道合若應機<lb/>
+　　　詠露　　　　　　　　　　<hi>唐</hi>董思恭<lb/>
+夜色凝仙掌晨甘下帝庭不覺九秋至逺向三危零蘆<lb/>
+渚花初白葵園葉尚青晞陽一灑恵方願益滄溟<lb/>
+　　　尹相公京兆府中棠樹降甘露詩<lb/>
+　　　　　　　　　　　　　　　<hi>唐</hi>岑　參<lb/>
+相國尹京兆政成人不欺甘露降府庭上天表無私非<lb/>
+無他人家豈少羣木枝被兹甘棠樹美掩召伯詩團團<lb/>
+<pb n="KR4h0141_WYG_012-3a"/>
+甜如蜜皛皛凝若脂千柯玉光碎萬顆珠葉垂崑崙何<lb/>
+時來慶雲相逐飛魏宮銅盤貯漢帝金掌持王澤布人<lb/>
+和精心動靈祗君臣日同德禎瑞方潛施何術令大臣<lb/>
+感通能及兹忽驚政化理暗與神物期却笑趙張輩徒<lb/>
+稱古今稀為君下天酒麴蘖將用時<lb/>
+　　五言律<lb/>
+　　　秋露　　　　　　　　　　<hi>唐</hi>駱賔王<lb/>
+玉闗寒氣早金塘秋色歸泛掌光逾淨添荷滴尚微變<lb/>
+<pb n="KR4h0141_WYG_012-3b"/>
+霜凝曉液承月委圓輝别有呉臺上應濕楚臣衣<lb/>
+　　　露　　　　　　　　　　　<hi>唐</hi>李　嶠<lb/>
+滴<graphic n="KR0377" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0377.png" mimeType="image/png"/>明花苑葳蕤泫竹叢玉垂丹棘上珠湛綠荷中夜<lb/>
+警千年鶴朝零七月風願凝仙掌内長奉未央宮<lb/>
+　　　白露　　　　　　　　　　唐杜　甫<lb/>
+白露團甘子清晨散馬蹄圃開連石樹船渡入江谿憑<lb/>
+几看魚樂廻鞭急鳥棲漸知秋實美幽徑恐多蹊<lb/>
+　　五言排律<lb/>
+<pb n="KR4h0141_WYG_012-4a"/>
+　　　賦得金莖露　　　　　　　<hi>唐</hi>徐　敞<lb/>
+漢帝貴長生延年餌玉英銅盤滴珠露仙掌抗金莖拂<lb/>
+曙氛埃歛凌空沆瀣清岧嶤捧瑞氣巃嵸出宮城勢入<lb/>
+浮雲聳形標霽色明大君當御宇何必去蓬瀛<lb/>
+　　　賦得清露被臯蘭　　　　　<hi>唐</hi>孫　顧<lb/>
+九臯蘭葉茂八月露華清稍與秋陰合還將曉色并向<lb/>
+空羅細影臨水泫微明的皪添幽興芊緜動逺情夕芳<lb/>
+人未采初降鶴先驚為感生成恵心同葵藿傾<lb/>
+<pb n="KR4h0141_WYG_012-4b"/>
+　　　賦得春草凝露　　　　　　<hi>唐</hi>張友正<lb/>
+蒼蒼芳草色含露對青春巳頼陽和長仍慙潤澤頻日<lb/>
+臨殘未滴風度欲成津蕙葉垂偏重蘭叢洗轉新將行<lb/>
+愁裛徑欲采畏濡身獨愛池塘畔清華逺襲人<lb/>
+　　五言絶句<lb/>
+　　　詠露珠　　　　　　　　　<hi>唐</hi>元　稹<lb/>
+秋荷一滴露清夜墜元天將來玉盤上不定始知圓<lb/>
+　　七言絶句<lb/>
+<pb n="KR4h0141_WYG_012-5a"/>
+　　　奉和三日祓褉渭濵應制　　<hi>唐</hi>張　說<lb/>
+青郊上已艶陽年紫禁皇逰祓渭川幸得歡娯承湛露<lb/>
+心隨草樹樂春天<lb/>
+　　　甘泉歌　　　　　　　　　<hi>唐</hi>王昌齡<lb/>
+乘輿執玉已登壇細草沾衣春殿寒昨夜雲生拜初月<lb/>
+萬年甘露水晶盤<lb/>
+　　　長安秋夜　　　　　　　　<hi>唐</hi>李徳裕<lb/>
+内官傳詔問戎機載筆金鑾夜始歸萬户千門皆寂寂<lb/>
+<pb n="KR4h0141_WYG_012-5b"/>
+月中清露㸃朝衣<lb/>
+　　　秋思　　　　　　　　　　<hi>唐</hi>王　涯<lb/>
+宮連太液見滄波暑氣微消秋氣多一夜輕風蘋末起<lb/>
+露珠翻盡滿池荷<lb/>
+　　　露　　　　　　　　　　　<hi>唐</hi>袁　郊<lb/>
+湛湛騰空下碧霄地卑濕處更偏饒菅茅豐草皆沾潤<lb/>
+不道良田有旱苗<lb/>
+　　　野塘　　　　　　　　　　<hi>唐</hi>韓　偓<lb/>
+<pb n="KR4h0141_WYG_012-6a"/>
+侵曉乘凉偶獨來不因魚躍見萍開巻荷忽被微風觸<lb/>
+瀉下清香露一杯<lb/>
+　　　中秋前偶成　　　　　　　<hi>元</hi>虞　集<lb/>
+空林月落大如盤雞犬無聲曉氣寒童子擬謀朝一食<lb/>
+玉杯盛得露漙漙<lb/>
+　　　上京即事　　　　　　　　<hi>元</hi>薩都剌<lb/>
+五更寒襲紫毛衫睡起東窗酒尚酣門外日髙晴不得<lb/>
+滿城濕露似江南<lb/>
+<pb n="KR4h0141_WYG_012-6b"/>
+　　　絶句　　　　　　　　　　<hi>元</hi>呉景奎<lb/>
+蘆花方褥竹方牀葛帳含風薤簟凉半夜起來山月白<lb/>
+滿天清露灑衣裳<lb/>
+　　　江上曲　　　　　　　　　<hi>明</hi>劉　基<lb/>
+月出前山青黛寒鴈聲遥下碧雲端草頭錯認驪珠吐<lb/>
+自是西風白露團<lb/>
+　　　小逰仙　　　　　　　　　<hi>明</hi>王　澤<lb/>
+獨繞瑶壇歌洞章青天如水月華凉閒將一掬芙蓉露<lb/>
+<pb n="KR4h0141_WYG_012-7a"/>
+　乞與神龍作雨香<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR4h0141_WYG_012-7b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選巻十二<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

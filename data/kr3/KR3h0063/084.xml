@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3h0063_WYG_084-1a"/>
+欽定四庫全書<lb/>
+石渠寶笈卷四十一<lb/>
+　　貯<lb/>
+　　學詩堂<lb/>
+　　　列朝人書畫<lb/>
+　　畫册上等<lb/>
+　　　宋馬和之畫弼風七篇圗<lb/>
+　　　元四大家名蹟<lb/>
+<pb n="KR3h0063_WYG_084-1b"/>
+　　　明人集錦畫<lb/>
+　　　明沈周倣倪瓚筆意<lb/>
+　　　明沈周冩景<lb/>
+　　　明唐寅摹古<lb/>
+　　　明文嘉詩意圗<lb/>
+　　　明居節八景詩意圗<lb/>
+　　　明王時敏畫杜甫詩<lb/>
+　　畫册次等<lb/>
+<pb n="KR3h0063_WYG_084-2a"/>
+　　　宋馬遠小品<lb/>
+　　　元柯九思竹譜<lb/>
+　　　明呂紀花竹冩生<lb/>
+　　　明沈周摹古<lb/>
+　　　明沈周倣吳鎭畫<lb/>
+　　　明陳楫雲巖佳勝圗<lb/>
+　　　明曹有光孫杖畫合册<lb/>
+　　　明人蘇臺古蹟<lb/>
+<pb n="KR3h0063_WYG_084-2b"/>
+　　　明陳繼儒梅花<lb/>
+　　　明人便靣畫<lb/>
+　　　明董其昌便靣畫<lb/>
+　　　無名氏書畫<lb/>
+　　畫册次等<lb/>
+　　　歴朝集錦畫<lb/>
+　　國朝人書畫<lb/>
+　　畫册上等<lb/>
+<pb n="KR3h0063_WYG_084-3a"/>
+　　　惲夀平摹古<lb/>
+　　　王翬山水<lb/>
+　　　王原祁山水<lb/>
+　　　沈宗敬山水<lb/>
+　　　張偉冩生花卉<lb/>
+　　　蔣廷錫畫鳥譜<lb/>
+　　　焦秉貞畫歴朝賢后故事<lb/>
+　　畫册次等<lb/>
+<pb n="KR3h0063_WYG_084-3b"/>
+　　　惲夀平冩生<lb/>
+　　　王原祁仿古<lb/>
+　　　沈宗敬山水<lb/>
+　　　沈宗敬山水<lb/>
+　　　沈宗敬山水<lb/>
+　　　蔣廷錫臨宋徽宗花卉冩生<lb/>
+　　　蔣廷錫倣宋人筆意<lb/>
+　　　蔣廷錫倣宋人筆意<lb/>
+<pb n="KR3h0063_WYG_084-4a"/>
+　　　蔣廷錫倣元人筆意<lb/>
+　　　蔣廷錫花卉<lb/>
+　　　蔣廷錫花卉<lb/>
+　　　蔣廷錫畫牡丹譜<lb/>
+　　　蔣廷錫百種牡丹譜<lb/>
+　　　院本夀意圗<lb/>
+　　朱倫瀚畫詩意圗<lb/>
+　　　張鵬翀十景詩意圗<lb/>
+<pb n="KR3h0063_WYG_084-4b"/>
+　　　强國忠山水<lb/>
+　　　郎世寜冩生<lb/>
+　　　列朝人書畫<lb/>
+　　書畫合册上等<lb/>
+　　　宋髙宗書孝經馬和之繪圗<lb/>
+　　　明宣宗書畫合璧<lb/>
+　　　明陸治蔡羽書畫合璧<lb/>
+　　書畫合册次等<lb/>
+<pb n="KR3h0063_WYG_084-5a"/>
+　　　明唐寅仇英畫前後逰赤壁二圗文徴明書賦<lb/>
+　　　明董其昌書畫合璧<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

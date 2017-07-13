@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2a0029_WYG_230-1a"/>
+　舊五代史巻一百十五攷證<lb/>
+周世宗紀二癸丑西南面行營都部署王景奏收復鳯<lb/>
+　州　案癸丑歐陽史作戊申<lb/>
+己未邢州奏河東劉崇死　案通鑑作顯徳元年十一<lb/>
+　月北漢主殂遣使告于契丹攷異据王保衡見聞要<lb/>
+　録及劉繼顒神道碑疑是書作二年為誤今改遼史<lb/>
+　穆宗紀應厯五年十一月漢王崇殂應厯五年即周<lb/>
+　廣順二年也與是書合盖薛史遼史皆以實録為據<lb/>
+<pb n="KR2a0029_WYG_230-1b"/>
+　五代春秋亦作二年<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　舊五代史巻一百十五攷證<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

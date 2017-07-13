@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3k0018_WYG_003-1a"/>
+　　　　命為右迪功郎王應麟玉海所載亦同惟言<lb/>
+　　　　名世初以草澤得召上書後始詔賜出身充<lb/>
+　　　　史館校勘朱子語類又謂其以趙汝愚薦以白<lb/>
+　　　　衣起為著作郎後忤秦檜勒停均與心傳所<lb/>
+　　　　記不同則未詳孰是耳文獻通考宋藝文志<lb/>
+　　　　俱作四十卷惟宋㑹要作十四卷中興書目<lb/>
+　　　　作十二卷殆傳寫之訛其書長於辯論大扺<lb/>
+　　　　以左傳國語為主自風俗通以下各采其是<lb/>
+<pb n="KR3k0018_WYG_003-1b"/>
+　　　　者従之而於元和姓纂抉摘獨詳又以熙寜<lb/>
+　　　　姓纂宋百官公卿家譜二書互為㕘校亦往<lb/>
+　　　　往足補史傳之闕盖始於政宣而成於紹興<lb/>
+　　　　之中年父子相繼以就是編故較他姓氏書<lb/>
+　　　　特為精核朱子語類謂名世學甚博姓氏一<lb/>
+　　　　部考證甚詳不虚也後椿作畫斷亦號賅洽<lb/>
+　　　　殆承其討論之餘緒乎宋時紹興有刋本今<lb/>
+　　　　已散佚永樂大典散附千家姓下已非舊苐<lb/>
+<pb n="KR3k0018_WYG_003-2a"/>
+　　　　惟考王應麟所引原序稱始於國姓餘分四<lb/>
+　　　　聲則其體例與元和姓纂相同今亦以韻𨽻<lb/>
+　　　　姓重為編輯仍釐為四十卷目録二卷其複<lb/>
+　　　　姓則以首字為主附見于各韻之後間有徴<lb/>
+　　　　引訛<graphic n="KR0861" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0861.png" mimeType="image/png"/>者併附著按語各為糾正焉乾隆四<lb/>
+　　　　十六年三月恭校上<lb/>
+　　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

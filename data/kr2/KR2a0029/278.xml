@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2a0029_WYG_278-1a"/>
+　　舊五代史巻一百四十攷證<lb/>
+志二厯志正元厯　案玉海作正統五代會要作正元<lb/>
+創為新厯一部二十一巻　案玉海引崇文總目作二<lb/>
+　十巻<lb/>
+五行得朞之數　五行原本訛五之今據五代會要改<lb/>
+　正<lb/>
+法者數之節也　法原本訛百今據五代會要改正<lb/>
+以通法進統法得七十二萬　案七十二萬原本作七<lb/>
+<pb n="KR2a0029_WYG_278-1b"/>
+　千二百萬考下文以通法進全率得七千二百萬謂<lb/>
+　之大率則此當云以通法進統法得七十二萬謂之<lb/>
+　全率原本全率之數併作大率之數蓋傳寫之訛今<lb/>
+　據歐陽史改正<lb/>
+欽天步月離術離䇿二十七　二十七原本訛作一十<lb/>
+　七案以統法除離率得二十七日及餘分今據歐陽<lb/>
+　史改正<lb/>
+交中一十三四千三百六十三　四千三百原本訛作<lb/>
+<pb n="KR2a0029_WYG_278-2a"/>
+　四千四百案交䇿半之為交中當從歐陽史作四千<lb/>
+　三百今改正<lb/>
+欽天歩五星術歳星厯率二百六十二萬九千七百六<lb/>
+　十一<hi>七十八</hi>　案七百六十一歐陽史作九百六十六<lb/>
+　非也據厯率半之為率中彼此互訂此條當以是書<lb/>
+　為正<lb/>
+厯中一百八十二四千四百八十<hi>八十九</hi>　案小分八十<lb/>
+　九原本作九十六非也據厯中倍之為厯率倍八十<lb/>
+<pb n="KR2a0029_WYG_278-2b"/>
+　九適得大分一小分七十八此條當以歐陽史為正<lb/>
+　今據改<lb/>
+太白周䇿五百八十三　案原本作周䇿五百八十三<lb/>
+　萬考周率滿統法得周䇿五百八十三日及餘分萬<lb/>
+　字係衍文歐陽史亦無萬字今刪去<lb/>
+厯中一百八十二　案原本作厯中一百八十二萬考<lb/>
+　厯率半之滿統法得厯中一百八十二日萬字係衍<lb/>
+　文歐陽史亦無萬字今刪去<lb/>
+<pb n="KR2a0029_WYG_278-3a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2a0029_WYG_278-3b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　舊五代史巻一百四十攷證<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

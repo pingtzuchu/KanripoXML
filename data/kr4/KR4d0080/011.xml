@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4d0080_WYG_011-1a"/>
+宋孝宗贈蘇文忠公太師敕<lb/>
+朕承絶學於百聖之後探㣲言於六籍之中将興起於<lb/>
+斯文爰緬懐於故老雖儀刑之莫覿尚簡䇿之可求掲<lb/>
+為儒者之宗用錫帝師之寵故禮部尚書端眀殿學士<lb/>
+贈資政殿學士諡文忠蘇軾養其氣以剛大尊所聞而<lb/>
+髙眀博觀載籍之傳㡬海涵而地負逺追正始之作殆<lb/>
+玉振而金聲知言自况於孟軻論事肯卑於陸贄方嘉<lb/>
+祐全盛甞膺特起之招至熙寧紛更廼陳長治之䇿歎<lb/>
+<pb n="KR4d0080_WYG_011-1b"/>
+異人之間出驚讒口之中傷放浪嶺海而如在朝廷斟<lb/>
+酌古今而若斡造化不可奪者嶤然之節莫之致者自<lb/>
+然之名經綸不究於生前議論常公於身後人傳元祐<lb/>
+之學家有眉山之書朕三復遺編久欽髙躅王佐之才<lb/>
+可大用恨不同時君子之道闇而彰是以論世儻九原<lb/>
+之可作庶千載以聞風惟而英爽之靈服我衮衣之命<lb/>
+可特贈太師餘如故<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

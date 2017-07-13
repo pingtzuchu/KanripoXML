@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>古今姓氏書辯證目録巻一<lb/>
+                </head>
+    <p>
+<pb n="KR3k0018_WYG_001-1a"/>
+欽定四庫全書　　　　子部十一　類書類<lb/>
+　古今姓氏書辯證目録巻一<lb/>
+　　上平聲<lb/>
+　　　一東<lb/>
+　　　　東　同　桐　蟲　冲　終　衆　崇　嵩<lb/>
+　　　　娀　戎　茙　弓　宫　融　肜　熊　馮<lb/>
+　　　　芃　風　豐　酆　充　公　功　蒙　紅<lb/>
+　　　　鴻　叢　翁　鬷　蓬　<graphic n="KR0146" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0146.png" mimeType="image/png"/>
+<pb n="KR3k0018_WYG_001-1b"/>
+　　　　東郭　東里　東宫　東門　東陵　東關<lb/>
+　　　　東方　東閭　東鄉　東陽　東丹　東野<lb/>
+　　　　東萊　同蹄　同官　桐里　桐門　銅鞮<lb/>
+　　　　中行　中央　中英　中梁　中叔　中壘<lb/>
+　　　　終葵　終古　戎子　弓里　宫孫　熊相<lb/>
+　　　　熊率　公冶　公乗　公孫　公西　公叔<lb/>
+　　　　公子　公羊　公析　公劉　公肩　公牛<lb/>
+　　　　公師　公旗　公右　公巫　公仲　公檮<lb/>
+<pb n="KR3k0018_WYG_001-2a"/>
+　　　　公族　公孟　公他　公玉　公泥　公綦<lb/>
+　　　　公舌　公帥　公甲　公明　公歛　公上<lb/>
+　　　　公山　公罔　公齊　公牽　公仇　公幹<lb/>
+　　　　公之　公勝　公城　公若　公緒　公儀<lb/>
+　　　　公晳　公輸　公丘　公思　公襄　公户<lb/>
+　　　　公慎　公房　公車　公言　公金　公獻<lb/>
+　　　　公息　公畱　公朱　公旅　公冉　空桐<lb/>
+　　　　空桑　空相　工師　工婁　紅陽　鬷夷<lb/>
+<pb n="KR3k0018_WYG_001-2b"/>
+　　　二冬<lb/>
+　　　　冬　佟　儂　宗<lb/>
+　　　　彤魚　宗伯　宗正<lb/>
+　　　三鍾<lb/>
+　　　　鍾　龍　庸　雍　重　從　蹤　樅　恭<lb/>
+　　　　龔　共<lb/>
+　　　　鍾離　鍾吾　龍丘　封人　封父　雍人<lb/>
+　　　　雍丘　逢公　逢孫　逢侯　逢丘<lb/>
+<pb n="KR3k0018_WYG_001-3a"/>
+　　　四江<lb/>
+　　　　江　厖　邦　龎　逄<lb/>
+　　　五支<lb/>
+　　　　支　移　為　媯　隨　竒　岐　羲　宜<lb/>
+　　　　儀　皮　兒　離　驪　訾　卑　裨　諀<lb/>
+　　　　施　彌　池　眭　危　蕃　郫<lb/>
+　　　　支離　隨巢　竒斤　﨑丘　戯陽　施屠<lb/>
+　　　　斯引　彌且　彌牟　蛇丘　訾陬<lb/>
+<pb n="KR3k0018_WYG_001-3b"/>
+　　　六脂<lb/>
+　　　　脂　夷　師　資　飢　茨　尸　耆　伊<lb/>
+　　　　刕　追　惟　纍　嫘　遺　䕫　騅　誰<lb/>
+　　　　夷陽　夷門　師宜　師延　毗沙　茨芘<lb/>
+　　　　祁夜　伊耆　伊力　葵丘　鴟夷<lb/>
+　　　七之<lb/>
+　　　　台　時　思　其　亓　期　旗　綦　蘄<lb/>
+　　　　詩　耏　娸　姬　箕　釐　狸　茬　僖<lb/>
+<pb n="KR3k0018_WYG_001-4a"/>
+　　　　嬉　熈　治　蚩　慈　兹<lb/>
+　　　　司馬　司城　司空　司冦　司鴻　期思<lb/>
+　　　　綦連　釐子　淄丘　兹母<lb/>
+　　　八微<lb/>
+　　　　賁<lb/>
+　　　　沂相<lb/>
+　　　九魚<lb/>
+　　　　擧<lb/>
+<pb n="KR3k0018_WYG_001-4b"/>
+　　　　漁陽<lb/>
+　　　十虞<lb/>
+　　　　厨人　邾婁<lb/>
+　　　十一模<lb/>
+　　　　瓠<lb/>
+　　　　孤竹　徒人　徒何　莵裘　莵賴<lb/>
+　　　十二齊<lb/>
+　　　　齊　䧑　提　奚　郳　兒　梯　犀　泥<lb/>
+<pb n="KR3k0018_WYG_001-5a"/>
+　　　　鮭　洼　畦　<graphic n="KR1978" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1978.png" mimeType="image/png"/>　毒　䙵　<graphic n="KR3536" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3536.png" mimeType="image/png"/>
+　　　　西周　西郭　西方　西河　西乞　西陵<lb/>
+　　　　西樓　西門　西宫　西王　西鄉　西都<lb/>
+　　　　西閭　西素<lb/>
+　　　　奚計盧<lb/>
+　　　十三佳<lb/>
+　　　　媧　柴　娃<lb/>
+　　　　鮭陽<lb/>
+<pb n="KR3k0018_WYG_001-5b"/>
+　　　十四皆<lb/>
+　　　　懐　淮<lb/>
+　　　十五灰<lb/>
+　　　　回　槐　枚　梅　雷　悝　頽　崔　裴<lb/>
+　　　　桮<lb/>
+　　　十六咍<lb/>
+　　　　來　郲　㯁　台　邰　敳　哀　萊<lb/>
+　　　十七真<lb/>
+<pb n="KR3k0018_WYG_001-6a"/>
+　　　　真　甄　因　闉　辛　辰　仁　人　申<lb/>
+　　　　鄰　鱗　陳　秦　蠙　邠　新<lb/>
+　　　　新垣　新孫　新和　辛廖　申公　申叔<lb/>
+　　　　申鮮　申章　申屠　因孫　真人<lb/>
+　　　十八諄<lb/>
+　　　　荀　郇　淳　倫<lb/>
+　　　　淳于<lb/>
+　　　十九臻<lb/>
+<pb n="KR3k0018_WYG_001-6b"/>
+　　　　莘　㜪　詵<lb/>
+　　　二十文<lb/>
+　　　　文　雲　妘　云　䢵　員　君　軍　芬<lb/>
+　　　　紛<lb/>
+　　　　聞人　軍車<lb/>
+　　　二十一欣<lb/>
+　　　　訢　勤<lb/>
+　　　　勤宿<lb/>
+<pb n="KR3k0018_WYG_001-7a"/>
+　　　二十二元<lb/>
+　　　　元　袁　原　爰　垣　轅　榬　樊　言<lb/>
+　　　　軒轅　軒丘　原伯　原仲<lb/>
+　　　二十三魂<lb/>
+　　　　渾　昆　温　門　孫　敦　㑮　盆　賁<lb/>
+　　　　孫陽　昆吾　屯渾　温稽　奔水<lb/>
+　　　二十四痕<lb/>
+　　　　恩<lb/>
+<pb n="KR3k0018_WYG_001-7b"/>
+　　　　根牟　根水<lb/>
+　　　二十五寒<lb/>
+　　　　寒　單　韓　丹　安　難　但　䢴　蘭<lb/>
+　　　　刋<lb/>
+　　　　韓餘　韓侯　韓褐　邯鄲　安丘　安國<lb/>
+　　　　安陵　安是　安都　安遲　蘭喬<lb/>
+　　　二十六桓<lb/>
+　　　　桓　官　觀　欒　讙　<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>　瞞　潘　芈<lb/>
+<pb n="KR3k0018_WYG_001-8a"/>
+　　　　冠<lb/>
+　　　　完顔<lb/>
+　　　二十七删<lb/>
+　　　　關　環　班　蠻　顔<lb/>
+　　　　關龍　馯臂<lb/>
+　　　二十八山<lb/>
+　　　　山　間　蕳　<graphic n="KR1486" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1486.png" mimeType="image/png"/>
+　　下平聲<lb/>
+<pb n="KR3k0018_WYG_001-8b"/>
+　　　一先<lb/>
+　　　　先　阡　天　賢　弦　燕　田　顛　牽<lb/>
+　　　　淵　邊　縣<lb/>
+　　　　先縠　先賢　千乗　涓濁<lb/>
+　　　二仙<lb/>
+　　　　鮮　錢　然　延　連　偏　便　綿　全<lb/>
+　　　　泉　宣　翾　船　顓　歂　員　䖍　騫<lb/>
+　　　　權　拳　鄢　嫣<lb/>
+<pb n="KR3k0018_WYG_001-9a"/>
+　　　　鮮于　延陵　延州　宣于　顓臾　顓孫<lb/>
+　　　　顓頊　攣鞮　焉耆　鮮陽　鮮虞<lb/>
+　　　三蕭<lb/>
+　　　　蕭　貂　刁　凋　條　調　聊　遼　堯<lb/>
+　　　　鄡<lb/>
+　　　四宵<lb/>
+　　　　蛸　朝　晁　朝　囂　譙　焦　椒　饒<lb/>
+　　　　傜　繇　銚　姚　揺　韶　昭　招　苗<lb/>
+<pb n="KR3k0018_WYG_001-9b"/>
+　　　　要　喬　橋　僑<lb/>
+　　　　昭渉　昭武　朝臣<lb/>
+　　　　憍陳如<lb/>
+　　　五肴<lb/>
+　　　　洨　巢　茅　包　苞　麃<lb/>
+　　　六豪<lb/>
+　　　　髙　臯　勞　牢　襃　陶　桃　敖　曹<lb/>
+　　　　毛<lb/>
+<pb n="KR3k0018_WYG_001-10a"/>
+　　　　陶丘　陶叔　曹牟　曹丘　饕餮　臯落<lb/>
+　　　七歌<lb/>
+　　　　柯　多　佗　羅　那　何　阿<lb/>
+　　　　柯祗　多蘭　羅侯　何柰　荷訾　阿跌<lb/>
+　　　　阿熱　阿每　阿那　阿賀　阿伏<lb/>
+　　　　佗駱㧞　多覽葛　阿伏干　阿鹿桓　阿<lb/>
+　　　　史那　阿史徳　阿逸多　阿鹿孤<lb/>
+　　　八戈<lb/>
+<pb n="KR3k0018_WYG_001-10b"/>
+　　　　戈　過　繁　番　和　禾<lb/>
+　　　　磨離　波斯　婆衍　和㧞　和稽<lb/>
+　　　九麻<lb/>
+　　　　車　蛇　瓜　花　家　瑕　巴　沙　牙<lb/>
+　　　　衙　茶　佘　杷　查　樝<lb/>
+　　　　車非　車焜　車遽　車成　瑕吕<lb/>
+　　　　沙陀　沙咤　佘丘　蛇丘　華原<lb/>
+　　　　霞露　瑕丘<lb/>
+<pb n="KR3k0018_WYG_001-11a"/>
+　　　十陽<lb/>
+　　　　陽　楊　揚　羊　洋　良　凉　香　鄉<lb/>
+　　　　商　房　防　方　章　昌　羌　姜　良<lb/>
+　　　　張　襄　相　將　莊　嘗　常　霜　王<lb/>
+　　　　匡　芳　狂<lb/>
+　　　　陽成　陽丘　楊孫　羊舌　羊角　梁垣<lb/>
+　　　　梁餘　梁于　梁石　商丘　商宻　房當<lb/>
+　　　　防風　章仇　羌憲　羌丘　羌師　相里<lb/>
+<pb n="KR3k0018_WYG_001-11b"/>
+　　　　將閭　將軍　將梁　將其　王史　王孫<lb/>
+　　　　王叔　王官　王子　王人　長勺　長盧<lb/>
+　　　　長魚　長狄　長吾<lb/>
+　　　十一唐<lb/>
+　　　　唐　棠　郎　琅　狼　倉　蒼　剛　桑<lb/>
+　　　　喪　康　荒　鄺　黄　皇　湯　汪　芒<lb/>
+　　　　臧　嚢　卬<lb/>
+　　　　唐溪　唐山　唐孫　堂邑　棠谿　當塗<lb/>
+<pb n="KR3k0018_WYG_001-12a"/>
+　　　　蒼林　桑丘　桑扈　皇甫　皇子　湯滂<lb/>
+　　　　臧㑹　臧文<lb/>
+　　　十二庚<lb/>
+　　　　更　彭　英　平　荆　明　鳴　榮　卿<lb/>
+　　　　黥　行　衡<lb/>
+　　　　彭祖　平林　平寧　平陵　京城　京相<lb/>
+　　　　榮錡　榮叔　行人<lb/>
+　　　十三耕<lb/>
+<pb n="KR3k0018_WYG_001-12b"/>
+　　　　閎　訇　萠<lb/>
+　　　十四清<lb/>
+　　　　清　嬴　<graphic n="KR3169" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3169.png" mimeType="image/png"/>　營　嬰　成　郕　程　并<lb/>
+　　　　精縱　嬰齊　成公　成陽　并官<lb/>
+　　　十五青<lb/>
+　　　　青　經　邢　陘　丁　星　靈　泠　㝠<lb/>
+　　　　缻<lb/>
+　　　　青史　青陽　青牛　青烏　經孫　邢莫<lb/>
+<pb n="KR3k0018_WYG_001-13a"/>
+　　　　形成　涇陽　丁若　泠淪　泠州<lb/>
+　　　十六蒸<lb/>
+　　　　承　陵　凌　應　乘　勝　仍　徴　繒<lb/>
+　　　　鄫<lb/>
+　　　　陵陽　勝屠<lb/>
+　　　十七登<lb/>
+　　　　登　曾　傰　𢎞<lb/>
+　　　　滕叔<lb/>
+<pb n="KR3k0018_WYG_001-13b"/>
+　　　十八尤<lb/>
+　　　　郵　鄾　劉　畱　摎　秋　猷　㳺　遊<lb/>
+　　　　牛　脩　犨　周　州　舟　丘　鄒　郰<lb/>
+　　　　騶　稠　裘　仇　求　牟<lb/>
+　　　　由吾　由余　游梓　游水　游棣　修魚<lb/>
+　　　　讐子　周生　周陽　丘敦　丘林　鄒屠<lb/>
+　　　　仇由　牟孫<lb/>
+　　　　投和羅　侯莫陳<lb/>
+<pb n="KR3k0018_WYG_001-14a"/>
+　　　十九侯<lb/>
+　　　　侯　歐　謳　區　樓　婁　緱　句　鈎<lb/>
+　　　　鯫　裒<lb/>
+　　　　侯岡　歐陽　歐侯　樓季　鍮勿　投壺<lb/>
+　　　　鈎弋　勾龍　取慮<lb/>
+　　　二十一侵<lb/>
+　　　　侵　尋　鐔　鄩　<graphic n="KR3339" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3339.png" mimeType="image/png"/>　灊　臨　綝　斟<lb/>
+　　　　箴　蒧　湛　諶　任　禽　金　隂　參<lb/>
+<pb n="KR3k0018_WYG_001-14b"/>
+　　　　葠　岑<lb/>
+　　　　斟灌　斟戈　沈猶<lb/>
+　　　二十二覃<lb/>
+　　　　覃　譚　南　男　堪<lb/>
+　　　　南郭　南宫　南史　南鄉　南榮<lb/>
+　　　二十三談<lb/>
+　　　　談　郯　甘　媣　儋　聃<lb/>
+　　　　澹臺　甘先　甘莊　三州　三飯　三伉<lb/>
+<pb n="KR3k0018_WYG_001-15a"/>
+　　　　三種<lb/>
+　　　二十四鹽<lb/>
+　　　　鹽　閻　廉　詹　占　苫　淹　?　黔<lb/>
+　　　　鍼<lb/>
+　　　　瞻葛　鍼巫　黔婁　箝耳<lb/>
+　　　二十五添<lb/>
+　　　　謙　兼<lb/>
+　　　二十六咸<lb/>
+<pb n="KR3k0018_WYG_001-15b"/>
+　　　　咸　函<lb/>
+　　　　咸丘　函輿　函洽　函谷<lb/>
+　　　二十八嚴<lb/>
+　　　　嚴<lb/>
+　　　二十九凡<lb/>
+　　　　凡閭<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

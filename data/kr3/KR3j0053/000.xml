@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>䑕璞</head>
+    <p>
+<pb n="KR3j0053_WYG_000-1a"/>
+欽定四庫全書　　　　　子部十<lb/>
+　䑕璞　　　　　　　　　雜家類二<hi>雜考之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹按䑕璞二卷宋戴埴撰埴字仲培桃<lb/>
+　　　　源人仕履無考書中楮券源流一條歴陳慶<lb/>
+　　　　元開禧嘉定之弊知為南宋末人故書録解<lb/>
+　　　　題著録而讀書志不著録也是書皆考証經<lb/>
+　　　　史疑義名物典故之異同持論多精宻其論<lb/>
+<pb n="KR3j0053_WYG_000-1b"/>
+　　　　麟趾為衰世之語過泥序文論性惡曲解荀<lb/>
+　　　　子以為與孟子同功論崖蜜字承洪覺範之<lb/>
+　　　　悞不知鬼谷子實無此文雖不免小疵然如<lb/>
+　　　　論彭祖房中太公隂謀蘇軾非武王立説皆<lb/>
+　　　　正大其他辨正如謂詩序毛公無注知即所<lb/>
+　　　　作以絲衣引髙子靈星之言知有講師附益<lb/>
+　　　　之類率皆確實有據足禆後學其曰䑕璞者<lb/>
+　　　　盖取周人宋人同名異物之義通考列之小<lb/>
+<pb n="KR3j0053_WYG_000-2a"/>
+　　　　説家失其倫矣乾隆四十二年三月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

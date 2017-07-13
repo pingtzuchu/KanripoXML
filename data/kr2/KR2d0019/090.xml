@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2d0019_WYG_090-1a"/>
+　欽定四庫全書<lb/>
+御定厯代紀事年表卷九十四<lb/>
+　　元世系表畧<lb/>
+　　　却特氏䝉古部人十世祖曰勃端察爾母曰阿倫<lb/>
+　　　果斡嫁托本黙爾根生二子既而夜夢金色神人<lb/>
+　　　來趨卧榻阿倫果斡驚覺遂有娠生一子即勃端<lb/>
+　　　察爾也勃端察爾狀貌竒異沈黙寡言家人謂之<lb/>
+　　　癡阿倫果斡語人曰此兒非癡後世子孫必有大<lb/>
+<pb n="KR2d0019_WYG_090-1b"/>
+　　　貴者勃端察爾生巴噶哩台哈必齊巴噶哩台哈<lb/>
+　　　必齊生瑪哈多丹瑪哈多丹生濟農達爾罕濟農<lb/>
+　　　達爾罕生海都海都生拜星呼爾拜星呼爾生敦<lb/>
+　　　巴該敦巴該生噶布勒汗噶布勒汗生巴爾達木<lb/>
+　　　巴爾達木生伊蘇克依是為烈祖烈祖生太祖特<lb/>
+　　　穆津始稱帝於鄂諾河尋定都於哈喇和林河之<lb/>
+　　　西因名其城曰和林太宗七年城之世祖中統初<lb/>
+　　　遷於上都至元初又遷都於燕改曰中都尋升為<lb/>
+<pb n="KR2d0019_WYG_090-2a"/>
+　　大都建國號曰元自世祖至元十三年受宋降至<lb/>
+　　順帝厯十主凡九十三年<lb/>
+<pb n="KR2d0019_WYG_090-3a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-4a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-5a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-6a"/>
+年表<hi>一</hi>
+　<hi>起丙寅宋寧宗開禧二年年止甲申宋寧宗嘉定十七</hi>凡十九年<lb/>
+　表例説<lb/>
+　　<hi>臣</hi>之樞謹按元太祖稱帝於鄂諾河自是與金並<lb/>
+　　列但其時國號䝉古年表之體按年以紀事故以<lb/>
+　　䝉古書如遼之始稱契丹金之始稱女直例也<lb/>
+<pb n="KR2d0019_WYG_090-7a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-8a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-9a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-10a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-11a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-12a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-13a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-14a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-15a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-16a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-17a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-18a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-19a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-20a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-21a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-22a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-23a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-24a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-25a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-26a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-27a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-28a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-29a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-30a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-31a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-32a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-33a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-34a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-35a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-36a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-37a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-38a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-39a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-40a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-41a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-42a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-43a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-44a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-45a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-46a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-47a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-48a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-49a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-50a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-51a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-52a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-53a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-54a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-55a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-56a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-57a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-58a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-59a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-60a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-61a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-62a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-63a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-64a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-65a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-66a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-67a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-68a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-69a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-70a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-71a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-72a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-73a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-74a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-75a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-76a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-77a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-78a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-79a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-80a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_090-81a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2d0019_WYG_090-81b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定歴代紀事年表卷九十四<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

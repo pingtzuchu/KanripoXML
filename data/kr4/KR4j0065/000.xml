@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4j0065_SBCK_000-1a"/>
+樂府雅詞<lb/>
+余所蔵名公長短句裒合成萹或後或先非有詮次多<lb/>
+是一家難分優劣渉諧謔則去之名曰樂府雅詞九重<lb/>
+傳出以冠于萹首諸公轉踏次之歐公一代儒宗風流<lb/>
+自命詞章幼眇世所矜式當時小人或作艶曲<graphic n="KR0861" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0861.png" mimeType="image/png"/>為公<lb/>
+詞今悉剛除凢三十有四家雖女流亦不廢此外又有<lb/>
+百餘闋平日膾炙人口咸不知姓名則類于卷末以俟<lb/>
+詢訪標目拾遺云紹興丙寅上元日温陵曾慥引<lb/>
+<pb n="KR4j0065_SBCK_000-1b"/>
+<pb n="KR4j0065_SBCK_000-2a"/>
+　楽府雅詞上<lb/>
+　轉踏<lb/>
+　　集句調笑<lb/>
+　　調笑　鄭彦能　同前　晁無咎<lb/>
+　　九張機<lb/>
+　大曲<lb/>
+　　道宫薄媚　董頴<lb/>
+　雅詞<lb/>
+　　歐陽永叔　八十三首　王介甫　十三首<lb/>
+　　晁無咎　二十八首<lb/>
+<pb n="KR4j0065_SBCK_000-2b"/>
+李元<graphic n="KR0574" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0574.png" mimeType="image/png"/>八首張子野十一首<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

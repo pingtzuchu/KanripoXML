@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3k0012_SBCK_712-1a"/>
+太平御覽卷第七百一十二<lb/>
+服用部十四<lb/>
+　　　熨斗　澡盤<lb/>
+　　　澡灌　伏虎<lb/>
+　　　　　熨斗<lb/>
+通俗文曰火斗曰熨<lb/>
+帝王丗紀曰紂欲重刑乃先作大熨斗以火爇之使人舉<lb/>
+不能勝輙爛手與妲己爲戯笑<lb/>
+魏末傳曰優人欲使㓜帝取大將軍昭昌熨斗柄帝不敢<lb/>
+發<lb/>
+晉書曰韓康伯年數歳殷氏髙明時大寒母方爲作袴令<lb/>
+康伯捉熨斗而謂之曰且着𥜗尋當作複袴康伯曰火在<lb/>
+斗中而柄尚熱今旣着𥜗下亦當煖<lb/>
+<pb n="KR3k0012_SBCK_712-1b"/>
+又張蕪别傳曰蕪小時母謂其寒且作袴蕪曰且作𥜗如<lb/>
+熨斗着火柄亦熱<lb/>
+隋書曰尉遲逈反於鄴時李穆在并州髙祖獻慮其爲逈<lb/>
+所誘遣使往布腹心穆遽奉熨斗於髙祖曰願以此慰安<lb/>
+天下也高祖大恱<lb/>
+三輔故事曰董卓壞銅人十枚爲小錢熨斗<lb/>
+淮南子曰糟丘生於象箸炮烙始於熱斗<hi>許愼曰熱斗熨斗也爛人手遂</hi>
+<hi>作炮格之刑也</hi>
+晉東宫舊事曰皇太子納妃有金塗熨斗三枚<lb/>
+魏武帝集上騰所得順帝賜物銅熨斗二枚<lb/>
+　　　　　澡盤<lb/>
+魏武上雜物䟽曰御物有純銀盤又有容五石銅澡盤也<lb/>
+杜預奏事曰澡盤熨斗民間要用<lb/>
+<pb n="KR3k0012_SBCK_712-2a"/>
+丗說曰大將軍王敦至石崇家如厠還有數十婢曳羅縠<lb/>
+擎金澡盤盛水琉璃盛澡豆因令著水調而飲之謂是乾<lb/>
+飯群婢莫不大笑也<lb/>
+述征記云長安逍遥宫門裏有澡盤靣徑丈二也<lb/>
+異苑曰中朝有人畜銅澡盤旦夕恒鳴張華曰與洛鍾宫<lb/>
+啇相諧故聲相應錯鑢之乃止<lb/>
+傳玄澡盤銘曰與其澡於水寕澡於德水之清猶可穢也<lb/>
+徳之興不可塵也<lb/>
+　　　　　澡灌<lb/>
+四王起事曰惠帝征成都軍敗帝渇帳下齎五升銅灌就<lb/>
+民家取水就灌飲之<lb/>
+齊書曰劉悛少與齊武欵好帝常至悛宅晝卧覺悛自奉<lb/>
+金澡灌受四升水以沃盥因以與帝前後所納稱此<lb/>
+<pb n="KR3k0012_SBCK_712-2b"/>
+東宫舊事曰皇太子𥘉拜有金塗澡灌一枚青絲三合繩<lb/>
+一枚長二丈五尺<lb/>
+又曰皇太子納妃有金澡灌二枚<lb/>
+西域諸國志曰月支國有佛澡灌受二升許青石名羅勒<lb/>
+色碧玉班白受水無定隨其多少<lb/>
+惠逺法師澡灌銘序曰得摩羅偷石澡灌一枚故以此銘<lb/>
+荅之<lb/>
+　　　　　伏虎<lb/>
+周禮天官曰大尉掌王燕衣服凢䙝器<hi>鄭司農云䙝器溺器虎子也</hi>
+春秋後語曰智伯圍趙襄子於晉陽襄子大敗智伯軍殺<lb/>
+智伯<graphic n="KR0238" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0238.png" mimeType="image/png"/>其頭以爲飲器<hi>穢器虎子也</hi>
+史記曰凶奴破月氏王以其頭爲飲器<lb/>
+魏略曰蘇則爲侍中舊侍中親省起居故俗因謂執虎子<lb/>
+<pb n="KR3k0012_SBCK_712-3a"/>
+始蘇則同隱吉茂後見嘲之曰仕䆠不巳執虎子<lb/>
+録異傳曰呉時嘉興倪彦思忽有鬼魅其家能與人語飲<lb/>
+食如人唯不見形思乃延道士逐之酒肴旣設道士便擊<lb/>
+鼔召請諸神魅乃取伏虎於神坐吹作角聲以亂音頃道<lb/>
+士忽覺背中冷驚起解衣乃伏虎也<lb/>
+馬融遺令曰穿中不得下銅虎况它銅物<lb/>
+太平御覽卷第七百一十二<lb/>
+<pb n="KR3k0012_SBCK_712-3b"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

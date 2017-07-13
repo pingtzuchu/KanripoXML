@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_095-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選卷九十五<lb/>
+　　渚類<lb/>
+　　　五言古<lb/>
+　　　　和徐都曹出新亭渚　　　　<hi>齋</hi>謝　脁<lb/>
+　宛洛佳遨遊春色滿皇州結軫青郊路廻瞰蒼江流日<lb/>
+　華川上動風光草際浮桃李成蹊徑桑榆蔭道周東都<lb/>
+　巳俶載言歸望緑疇<lb/>
+<pb n="KR4h0141_WYG_095-1b"/>
+　　　　至牛渚憶魏少英　　　　　<hi>梁</hi>王僧孺<lb/>
+　楓林曖似畫沙岸淨如掃空巃望懸石回斜見危島緑<lb/>
+　草閒遊蜂青葭集輕鴇徘徊洞初月浸滛潰春潦非願<lb/>
+　歳物華徒用風光好<lb/>
+　　　　曉入宜都渚　　　　　　　<hi>唐</hi>閻　寛<lb/>
+　問俗周楚甸川行渺江潯興隨曉光發道會春言深回<lb/>
+　眺佳氣象逺懷得山林佇應舟楫用曷務歸閒心<lb/>
+　　　五言律<lb/>
+<pb n="KR4h0141_WYG_095-2a"/>
+　　　後渚置酒　　　　　　　　<hi>唐</hi>陳叔達<lb/>
+大渚初驚夜中流沸鼓鼙寒沙滿曲浦夕霧上耶谿岸<lb/>
+廣鳬飛急雲深鴈度低嚴關猶未遂此夕待晨雞<lb/>
+　　　銅官渚守風　　　　　　　<hi>唐</hi>杜　甫<lb/>
+不夜楚帆落避風湘渚間水耕先浸草春火更燒山早<lb/>
+泊雲物晦逆行波浪慳飛來雙白鶴過去杳難攀<lb/>
+　　　枉渚　　　　　　　　　　<hi>元</hi>薛　漢<lb/>
+枉渚倚孤棹意行隨杖藜鷗邊漁艇小牛後牧童低秋<lb/>
+<pb n="KR4h0141_WYG_095-2b"/>
+色多因樹寒聲半是谿何當買茅屋此地卜幽棲<lb/>
+　　七言絶句<lb/>
+　　　牛渚　　　　　　　　　　<hi>唐</hi>胡　曽<lb/>
+溫嶠南歸輟棹晨然犀牛渚照通津誰知萬丈洪流下<lb/>
+更有朱衣躍馬人<lb/>
+　　　竈渚　　　　　　　　　　<hi>宋</hi>范成大<lb/>
+白魚出水卧銀刀紫筍堆盤脫錦袍捫腹將軍猶未快<lb/>
+掉船西岸摘蔞蒿<lb/>
+<pb n="KR4h0141_WYG_095-3a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR4h0141_WYG_095-3b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選卷九十五<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4c0097_SBCK_002-1a"/>
+此唐人朱慶餘詩集目録五葉詩三十四葉<lb/>
+宋刻之極精者余以番錢十圎易諸五柳<lb/>
+居初書主人有札来云尊藏書棚夲朱慶<lb/>
+餘集有否有人託售價貴余即訂其往<lb/>
+觀是日肩輿出金閶過而訪焉見案頭<lb/>
+有紅綢包知必是書在其中故鄭重若<lb/>
+斯㩦歸與舊藏鈔本勘之雖行欵相<lb/>
+同捴不及宋刻之眞席氏百家唐詩夲<lb/>
+更無論矣　嘉慶癸亥閏二月蕘翁記<lb/>
+<pb n="KR4c0097_SBCK_002-1b"/>
+余所藏鈔夲有二一為舊鈔夲而崇禎年間葉奕校者一為栁大中鈔<lb/>
+本而為毛豹孫藏者葉所據校謂出扵柳氏原夲悉用朱筆校正<lb/>
+然余以柳氏原夲核之實多不合未知葉之紅筆又何據也柳本<lb/>
+有何義門手校字如送陳摽云滿酌歡僮僕相隨即馬蹄何<lb/>
+校歡為勸即為郎宋刻不如是也舊鈔本有葉校字如看濤<lb/>
+云風雨驅玉葉校驅玉為翻前駐宋刻亦不如是也惟兩鈔夲<lb/>
+多空字而此宋刻半有填𥙷之字余以宋刻夲羅昭諫甲乙集<lb/>
+證之知所空者皆墨釘妄人不知謬以意補去其墨釘耳从<lb/>
+前影冩所據本猶是墨釘故兩本空字皆合今宋刻𥙷字讀<lb/>
+者細辨之便可得其作偽之跡至于席刻何葉所校盡入行<lb/>
+間諺云火棗兒餻非目覩諸家藏夲烏能一訂其是非邪<lb/>
+　　　　　　　　　　蕘翁<lb/>
+<pb n="KR4c0097_SBCK_002-2a"/>
+張文通似是吴江人復社中名彦<lb/>
+也予家藏其手札數通乃　金<lb/>
+孝章者癸亥三月晦<lb/>
+蕘翁出宋刻朱慶餘詩集相<lb/>
+賞見卷首有文通啚記因附<lb/>
+識冊尾亦足為是書珎重也<lb/>
+　　　　　萇生瞿中容觀<lb/>
+<pb n="KR4c0097_SBCK_002-2b"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

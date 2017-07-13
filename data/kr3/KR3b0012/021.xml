@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3b0012_WYG_021-1a"/>
+武經總要後集原序<lb/>
+叙曰三代以来尚矣用兵之道以仁義為本以權謀為<lb/>
+用仁義者所以撫士民服豪傑權謀者所以濟機務成<lb/>
+功業也上自吕尚興周之畧下及戰國變詐之術觀其<lb/>
+乗機决筞因形立算微宻之際閴忽若神是豈不用謀<lb/>
+哉夫謀者不可以預傳亦難以言盡獨可見者驗之於<lb/>
+前古已然之事使人彰往察来據今鑒古雖云明睿自<lb/>
+天尙貴博識不惑以淮隂之戰功而本出書生以營平<lb/>
+<pb n="KR3b0012_WYG_021-1b"/>
+之老將而動引兵法是豈不學哉故曰垂之空言不若<lb/>
+見之行事今採春秋以来列國行師制敵之謀出竒决<lb/>
+勝之筞並著於篇隨其效應依倣兵法以分其類目謂<lb/>
+之故事總一百八十五門古今陳迹不必盡録每目取<lb/>
+數事尤切者以為法庶乎發智士之聰明佐将士之術<lb/>
+畧聞一知十觸類而長誠有補云耳曾公亮集<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

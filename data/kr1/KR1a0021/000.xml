@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>紫巖易𫝊</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　經部一<lb/>
+　紫巖易𫝊　　　　　　易𩔖<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案紫巖易傳十卷宋張浚撰紫巖者<lb/>
+　　　　浚自號也其曽孫獻之跋云忠獻公潛心於<lb/>
+　　　　易嘗為之傳前後兩著稿親題第二稿云此<lb/>
+　　　　本改正處極多紹興戊寅四月六日某書始<lb/>
+　　　　為定本矣獻之嘗繕録之附以讀易襍説通<lb/>
+<pb n="1b"/>
+　　　　為十卷藏之於家據此則襍説一卷似獻之<lb/>
+　　　　所續附者然考獻之是跋在嘉定庚辰而朱<lb/>
+　　　　子作浚行狀已稱有易解及襍説共十卷則<lb/>
+　　　　獻之特繕録而已未嘗編次也其書立言醇<lb/>
+　　　　粹凡説隂陽動静皆適於義理之正末一卷<lb/>
+　　　　即所謂襍説胡一桂議其専主劉牧今觀所<lb/>
+　　　　論河圖信然朱子不取牧説而作浚行狀但<lb/>
+　　　　稱尤深於易春秋論孟不言其易出於牧殆<lb/>
+<pb n="2a"/>
+　　　　諱之歟乾隆四十五年九月恭校上<lb/>
+　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

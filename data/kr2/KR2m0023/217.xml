@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>政和五禮新儀卷二百十一</head> <lb/>
+    <p>
+<pb n="KR2m0023_WYG_217-1a"/>
+欽定四庫全書<lb/>
+　政和五禮新儀卷二百十一<lb/>
+　　凶禮<lb/>
+　　　臨奠吊䘮儀<lb/>
+　　　　皇帝臨奠諸王以下䘮<lb/>
+　　　　皇帝遣使吊諸王以下䘮<lb/>
+　　　　皇帝遣使奠諸王以下䘮<lb/>
+　　　㑹䘮儀<lb/>
+<pb n="KR2m0023_WYG_217-1b"/>
+　　　　皇帝遣百僚㑹䘮<lb/>
+　　　皇帝臨奠諸王以下䘮<lb/>
+訃奏命太史擇日臨奠前一日尚舍奉御於受奠者之<lb/>
+第大㕔中間設御幄周以簾帷有司於大門之外設從<lb/>
+駕臣僚次其日質明皇帝常服出東内門文武從駕臣<lb/>
+僚及侍衛應奉人起居如常儀尚輦奉御奉輦稍前典<lb/>
+御進輦皇帝乗輦以出侍衛警蹕如常儀<hi>不由宣德門餘皆臨時取</hi>
+<hi>㫖</hi>將至主人服縗免絰去杖哭出於門外立班<hi>如未成服則着</hi>
+<pb n="KR2m0023_WYG_217-2a"/>
+<hi>㡌收髪皂衫紫㡌帶</hi>望見乗輿止哭迎駕起居<hi>本家人各從其後</hi>舍人賛<lb/>
+拜主人以下皆再拜訖退<hi>俟宣乃入</hi>從駕臣僚至門外退就<lb/>
+次皇帝至御幄降輦歩至靈座前<hi>婦人縗服起居於堂西階下</hi>三上<lb/>
+香三奠酒訖退歸幄南向坐宣主人入立於階下北面<lb/>
+宣問賜賻贈訖<hi>無男子者遣内侍宣問本家婦人之長者</hi>舍人賛拜主人皆<lb/>
+再拜訖退出門外立班拜送奉御奉輦稍前典御進輦<lb/>
+皇帝乗輦還内如常儀<hi>有陳乞者皆即時附表以聞</hi>
+　　　皇帝遣使弔諸王以下䘮<lb/>
+<pb n="KR2m0023_WYG_217-2b"/>
+前期所司於受弔者之第大門外設使者次使者至賛<lb/>
+者引入次内外縗服賛者引受弔者以下降立哭於東<lb/>
+階下婦人立哭於殯所使者常服出次於門外西向立<lb/>
+史二人以案奉詔書立於使者之側賛者引受弔者免<lb/>
+絰去杖出門止哭迎使者大門外見訖先入庭下望闕<lb/>
+立史二人捧詔書案前行者賛引使者從入内外止哭<lb/>
+使者詣庭下少北向立史以案進使者搢笏詔書加於<lb/>
+笏上史以案退使者少進於受弔者前稱有詔弔受弔<lb/>
+<pb n="KR2m0023_WYG_217-3a"/>
+者舉哭再拜稽顙内外皆哭賛者引受弔者進詣使者<lb/>
+前跪受詔書興復位賛者引使者歸次受弔者以詔書<lb/>
+授執事者舉哭拜送使者於大門外使者還賛者引受<lb/>
+弔者杖哭而入升堂取詔書奠於柩前若致<graphic n="KR0608" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0608.png" mimeType="image/png"/>或賵如<lb/>
+受弔書之儀<lb/>
+　　　皇帝遣使奠諸王以下䘮<lb/>
+前期所司於受奠者之第大門外設使者次使者至賛<lb/>
+者引入次内外縗服賛者引主人以下降立哭於東階<lb/>
+<pb n="KR2m0023_WYG_217-3b"/>
+下婦人升立哭於柩之右使者常服出次立於大門外<lb/>
+有司陳饌於柩前賛者引主人去杖出中門止哭於大<lb/>
+門外迎見使者訖先入立於門右賛者引使者入内外<lb/>
+止哭使者升自東階立柩前之右賛者引主人升自西<lb/>
+階立當使者前使者以餞奠酒訖曰某官封謚将歸幽<lb/>
+宅詔使某奠<hi>有祭文則賛者宣讀</hi>主人降階間北靣舉哭再拜稽<lb/>
+顙内外俱哭主人退哭於東階下賛者引使者出從者<lb/>
+從出主人止哭拜送使者於大門外使者還主人杖哭<lb/>
+<pb n="KR2m0023_WYG_217-4a"/>
+而入<lb/>
+　　㑹䘮儀<lb/>
+　　　皇帝遣百僚㑹䘮<lb/>
+前期一日所司於主人第大門右量地之宜設百官<hi>朔参</hi>
+<hi>官以上</hi>㑹弔者次其日先於主人寢庭設百官位重行應<lb/>
+㑹吊者集於門外次各常服賛者以次引入就位立定<lb/>
+賛者曰可哭百官在位者皆哭十五舉音賛者曰可止<lb/>
+百官在位皆止哭賛者引為首一員升詣主人前展慰<lb/>
+<pb n="KR2m0023_WYG_217-4b"/>
+訖賛者引降出諸在位者以次而出<hi>應致恭者皆再拜而出</hi>㑹葬<lb/>
+如㑹䘮之儀<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　政和五禮新儀卷二百十一<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

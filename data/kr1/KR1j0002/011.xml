@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="1a"/>
+有穴為岫<hi>謂巖穴</hi>山西曰夕陽<hi>暮乃/見日</hi>山東曰朝陽<hi>旦即見日</hi>泰山爲<lb/>
+東嶽華山爲西嶽霍山爲南嶽<hi>即天柱山潜水所出</hi>恒山爲北嶽<hi>常山</hi>
+嵩髙爲中嶽<hi>大室山也</hi>梁山晉望也<hi>晉國所望祭者今在馮翊夏陽縣西北臨河上</hi>
+釋水第十二<lb/>
+泉一見一否爲瀐<hi>瀐纔有貌</hi>井一有水一無水爲瀱汋<hi>山海經曰天井夏有水冬無水即此類也</hi>濫泉正出正出涌出也<hi>公羊傳曰直出直猶正也</hi>沃泉縣出縣出下出<lb/>
+也<hi>從上溜下</hi>沈泉穴出穴出庂出也<hi>從旁/出也</hi>湀闢流川<hi>通/流</hi>過辨回川<hi>旋流</hi>
+灉反入<hi>即河水決岀復還入者河之有灉猶江之有沱</hi>潬沙出<hi>今江東呼水中/沙堆爲潬音但</hi>汧出不流<hi>水泉潜出便自停成汙池</hi>歸異出同流肥<hi>毛詩傳曰所出/同所歸異爲肥</hi>瀵大出尾下<hi>今河東汾隂縣有水口如車輪許濱沸漏出其深無限名之爲瀵馮翊郃陽縣復有瀵亦如之相去數里而夾河河中陼上又有一瀵瀵源皆潛相通在汾隂者人壅其流以爲陂種稻呼其<pb n="1b"/>本所出處爲瀵魁此是也尾猶底也</hi>水醮曰厬<hi>謂水/醮盡</hi>水自河出爲灉<hi>書曰灉沮會同</hi>濟爲濋<lb/>
+汶爲瀾洛爲波漢爲濳<hi>書曰沱潜旣道</hi>淮爲滸江爲沱<hi>書曰岷山導江東别爲沱</hi>
+濄爲洵潁爲沙汝爲濆<hi>詩曰遵彼汝濆皆大水溢出别爲小水之名</hi>水決之澤爲汧<lb/>
+<hi>水決入澤中者亦名爲汧</hi>決復入爲汜<hi>水出去/復還</hi>河水清且灡漪大波爲瀾<hi>言渙瀾</hi>小波爲淪<hi>言藴淪</hi>直波爲徑<hi>有徑/涏</hi>江有沱河有灉汝有濆<hi>此故上水别出耳所作者重見</hi>滸水厓<hi>水邊/地</hi>水草交爲湄<hi>詩曰居/河之湄</hi>濟有深渉<hi>渭濟渡之處</hi>
+深則厲淺則揭揭者揭衣也<hi>謂褰裳也</hi>以衣渉水爲厲<hi>衣謂禈</hi>繇<lb/>
+膝以下爲揭繇膝以上爲渉繇帶以上爲厲<hi>繇自也</hi>濳行<lb/>
+爲泳<hi>水底行也晏子春秋曰濳行逆流百歩順流七里</hi>汎汎楊舟紼縭維之紼<graphic n="KR1762" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1762.png" mimeType="image/png"/>也<hi>
+                        <graphic n="KR1762" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1762.png" mimeType="image/png"/>索</hi>
+縭緌也<hi>緌繫</hi>天子造舟<hi>比舩/爲橋</hi>諸侯維舟<hi>維連/四舩</hi>大夫方舟<hi>併兩舩</hi>士特<lb/>
+<pb n="2a"/>
+舟<hi>單舩</hi>庶人乗泭<hi>併木以渡</hi>水注川曰谿注谿曰谷注谷曰溝注溝<lb/>
+曰澮注澮曰瀆<hi>此皆道水轉相灌注所入之處名</hi>逆流而上曰泝洄順流而下曰<lb/>
+泝游<hi>皆見詩</hi>正絕流曰亂<hi>直横渡也書曰亂于河</hi>江河淮濟爲四瀆四瀆者<lb/>
+發原注海者也<lb/>
+　　　　水泉<lb/>
+水中可居者曰洲小洲曰陼小陼曰沚小沚曰坻人所爲爲<lb/>
+潏<hi>人力所作</hi>
+　　　　水中<lb/>
+河出崐崘虚色白<hi>山海經曰河出崐崘西北隅虚山下基也</hi>所渠并千七百一川色<lb/>
+黃<hi>潜流地中汩漱沙壤所受渠多衆水溷淆冝其濁黄</hi>百里一小曲千里一曲一直<hi>公羊傳曰河曲流河千里<pb n="2b"/>一曲一直</hi>
+　　　　河曲<lb/>
+徒駭<hi>今在成平縣義所未聞</hi>太史<hi>今所在/未詳</hi>馬頰<hi>河勢上廣下/狹狀如馬頰</hi>覆鬴<hi>水中可居往往而有狀如覆釡</hi>胡蘇<hi>東莞縣今有胡/蘇亭其義未詳</hi>簡<hi>水道/簡易</hi>絜<hi>水多/約絜</hi>鉤盤<hi>水曲如鉤/流盤桓也</hi>鬲津<hi>水多阨狹可隔以爲津而横渡</hi>
+　　　　九河<lb/>
+從釋地已下至九河皆禹所名也<lb/>
+爾雅卷中<hi>經三千五百六十四字注四千三百二十二字</hi>
+<pb n="3a"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

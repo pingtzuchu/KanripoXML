@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2d0019_WYG_016-1a"/>
+　欽定四庫全書<lb/>
+御定歴代紀事年表卷十八<lb/>
+　　<hi>起戊寅周威烈王二十有三年○止丙午周愼靚王六年</hi>凡八十九年<lb/>
+　　表例説<lb/>
+　　　<hi>臣</hi>之樞謹按朱子綱目始於周威烈王之二十三<lb/>
+　　　年分注止載秦楚齊晉燕及魏趙韓八國今年表<lb/>
+　　　接前卷仍照前備列魯宋等國於中云<lb/>
+<pb n="KR2d0019_WYG_016-2a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-3a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-4a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-5a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-6a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-7a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-8a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-9a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-10a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-11a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-12a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-13a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-14a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-15a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-16a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-17a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-18a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-19a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-20a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-21a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-22a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-23a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-24a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-25a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-26a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-27a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-28a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-29a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-30a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-31a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-32a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-33a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-34a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-35a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-36a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-37a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-38a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-39a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-40a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-41a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-42a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-43a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-44a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-45a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-46a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-47a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-48a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-49a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-50a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-51a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-52a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-53a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-54a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-55a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-56a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-57a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-58a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-59a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-60a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-61a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-62a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-63a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-64a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-65a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-66a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-67a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-68a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-69a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-70a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-71a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_016-72a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2d0019_WYG_016-72b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定歴代紀事年表卷十八<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

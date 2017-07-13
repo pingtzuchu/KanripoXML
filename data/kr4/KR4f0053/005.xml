@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4f0053_SBCK_005-1a"/>
+戴東原集卷弟五<lb/>
+　四庫館纂修官翰林院庶吉士戴震譔<lb/>
+　　　原象<lb/>
+　　　迎日推䇿記<lb/>
+　　　九道八行說<lb/>
+　　　周髀北極璿機四游解一<lb/>
+　　　周髀北極璿機四游解二<lb/>
+　　　記夏小正星象<lb/>
+　　　與丁升衢書<lb/>
+　　　再與丁升衢書<lb/>
+<pb n="KR4f0053_SBCK_005-1b"/>
+　　　續天文略序<lb/>
+原象<lb/>
+日循黄道右旋斜絡乎赤道而南北者寒暑之<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>也其<lb/>
+隨大氣而左準赤道爲出沒者晝夜之<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>也虞夏書以<lb/>
+璿機玉衡寫天遺製猶見周髀之書論語之北辰周髀<lb/>
+所謂正北極<hi>步算家所謂不動處亦曰赤道極</hi>是爲左旋之樞日躔黄<lb/>
+道其極曰黄道極周髀所謂北極璿機環繞正北極者<lb/>
+也月道之極又環繞璿機者也是爲右旋之樞璿機之<lb/>
+環繞正北極而成規也冬至夜漏中起正北極之下日<lb/>
+加卯在正北極左日加午在正北極上日加酉在正北<lb/>
+<pb n="KR4f0053_SBCK_005-2a"/>
+極右晝夜一周而過一度春分夜漏中則起正北極之<lb/>
+左夏至起正北極之上秋分起正北極之右冬至而復<lb/>
+起於正北極下如是終古不變以與日躔黄道相應凡<lb/>
+三百六十五日小餘不滿四分日之一日發斂一終月<lb/>
+道斜交乎黄道凡二十七日小餘過日之半月逡其道<lb/>
+一終日月之會凡二十九日小餘過日之半以起朔十<lb/>
+二朔凡三百五十四日有奇分而近歲終積其<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>數置<lb/>
+閏月然後時序之從乎日行發斂者以正<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>堯典曰朞<lb/>
+三百有六旬有六日以閏月定四時成歲<hi>言六日者舉成數</hi>日<lb/>
+兆月而月乃有灮人自地視之惟於望得見其光之盈<lb/>
+<pb n="KR4f0053_SBCK_005-2b"/>
+朔則日之兆月其光嚮日下民不可得見餘以側見而<lb/>
+闕日月之行朔而薄於交道日爲月所揜則日食日高<lb/>
+月卑其閒相厺葢遠<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>其食分淺㴱隨地之方所見者<lb/>
+不同望薄交道而月入闇虛則月食張衡靈憲之文曰<lb/>
+當日之衝光常不合者蔽於地也是謂闇虛月過則食<lb/>
+闇虛之爲地景<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>食分淺㴱見者皆同月岀入黃道表<lb/>
+裏冣遠不及六度日發斂於赤道外內四十餘度之閒<lb/>
+赤道者中衡也古有分至啟閉謂之八節準以設衡其<lb/>
+五衡與外衡內衡發斂所極至也中衡南北之中分也<lb/>
+自南斂北入次四衡爲春入次二衡爲夏當其衡啟也<lb/>
+<pb n="KR4f0053_SBCK_005-3a"/>
+自北發南出次二衡爲秋出次四衡爲冬當其衡閉也<lb/>
+周髀之七衡六閒則凖乎中氣十有二其衡之規㳒由<lb/>
+來遠矣日之發斂以赤道爲中月之出入以黄道爲中<lb/>
+此天所以有寒暑進退成生物之功也凡地之方所近<lb/>
+日下盛陽下行<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>暑日遠側照則氣寒寒暑之候因地<lb/>
+而殊中土値內衡之下巳北其外衡之下巳南寒暑與<lb/>
+中土互易中衡之下雨暑而無寒暑漸退如春秋分乃<lb/>
+復南北極下凝陰常寒矣<lb/>
+　　　　璿機玉衡<lb/>
+堯典日中星鳥以殷仲春日永星火以正仲夏宵中星<lb/>
+<pb n="KR4f0053_SBCK_005-3b"/>
+虛以殷仲秋日短星昴以正仲冬日夜分曁永短終古<lb/>
+不變者也星鳥之屬<graphic n="KR0844" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0844.png" mimeType="image/png"/>星之舉目可見大小有<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>闊狹<lb/>
+有常相距不移徙者也終古不變者因乎地而生里<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>
+相距不移徙者以考日躔而生歲<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>唐虞時春分日在<lb/>
+胃昴之閒故鳥中夏至日在七星<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>火中火心也秋分<lb/>
+日在氐房之閒故虛中冬至日在虛<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>昴中鳥南陸蒼<lb/>
+龍房心東陸玄武虛危北陸昴西陸昴同日西下龍角<lb/>
+東陞鳥値南虛在極之北四正之位各恊其方然則<graphic n="KR0844" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0844.png" mimeType="image/png"/>
+星四象辨自羲和仲春初昏不違天部也夏小正五月<lb/>
+初昏大火中協於星火仲夏之文而春秋傳張趯日火<lb/>
+<pb n="KR4f0053_SBCK_005-4a"/>
+星中而寒暑退謂季冬寒退旦中季夏暑退昏中也凡<lb/>
+星未中見而東陞過中乃西流季夏六月火中故豳詩<lb/>
+曰七月流火小正與堯典合春秋傳與詩合星以紀候<lb/>
+者先後一月虞夏日躔所在與周<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>一次與今<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>二次<lb/>
+星之見伏昏旦中悉因之而異此其大經也二十八舍<lb/>
+十二次周時之文始詳春秋傳婺女爲玄枵維首又曰<lb/>
+玄枵虛中也據是遞之星紀斗牽牛也玄枵婺女虛危<lb/>
+也娵訾之口營室東壁也降婁奎婁也大梁胃昴也實<lb/>
+沈畢胔觿參也鶉首東井輿鬼也鶉火柳七星張也鶉<lb/>
+㞑翼軫也壽星角亢也大火氐房心也析木之津㞑箕<lb/>
+<pb n="KR4f0053_SBCK_005-4b"/>
+也玄枵一曰天黿一曰顓頊之虚娵訾之口一日豕韋<lb/>
+斗或以建星觜觿以罰東井輿鬼以狼弧假恆星識日<lb/>
+月之躔逡恆星葢二萬五千餘秊循黃道右旋一終古<lb/>
+在赤道外者今迤而入乎赤道內古在赤道內者今迆<lb/>
+而出乎赤道外星之與內外衡相値也竝古今殊日發<lb/>
+斂一終而成歲於黄道無<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>數冬至起外衡仍復乎外<lb/>
+衡而星則異其所其爲<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>數也微是謂歲<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>
+                    <graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>歲功終<lb/>
+古不忒而星之見伏昏旦中隨時爲書以示民千百秊<lb/>
+然後一易周人以斗牽牛爲紀首命曰星紀自周而上<lb/>
+日月之行不起於斗牽牛也然則十二次之名葢周時<lb/>
+<pb n="KR4f0053_SBCK_005-5a"/>
+始定唐虞冬至日在虛玄枵次也今冬至日在箕初析<lb/>
+木之津次也<lb/>
+　　　　中星<lb/>
+周官經土圭之灋測土㴱正日景以求地中日南景短<lb/>
+日北景長取中而得尺有五寸以是求南北之中日東<lb/>
+景夕日西景朝時刻相<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>比以是求東西之中葢所謂<lb/>
+測土㴱者以南北言也聖人南面而聽天下以灋天<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>
+南北爲經東西爲緯南北爲㴱爲輪東西爲廣表景短<lb/>
+長卽南北遠近必測之而得<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>曰測土㴱所謂正日景<lb/>
+者以東西言也地中景正日加午東方已過午後而爲<lb/>
+<pb n="KR4f0053_SBCK_005-5b"/>
+景夕西方尚在午前而爲景朝周髀立晝夜異處加四<lb/>
+時相及之算謂地中與東西相距四分圜周之一則地<lb/>
+中午東方酉西方卯自卯至午自午至酉皆四時也必<lb/>
+正其日中之景以審時之相<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>故曰正日景兼是二者<lb/>
+一爲南北里<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>一爲東西里<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>測非獨夏至夏至日中<lb/>
+景冣短及其冣長皆以土圭度之古人用是考黃赤二<lb/>
+道猶漢巳降之考北極高下也寒暑進退晝夜永短悉<lb/>
+因之而隨地不同土圭之㳒不惟建王國用之封國必<lb/>
+以度地以此知某國或偏南偏北或偏西偏東然後可<lb/>
+定各地之分至啟閉陰陽大論之文曰地之爲下否乎<lb/>
+<pb n="KR4f0053_SBCK_005-6a"/>
+地爲人之下太虛之中者也馮乎大氣舉之也歩算家<lb/>
+測北極曁月食得地體周九萬里環地之周戴天曰上<lb/>
+<graphic n="KR1755" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1755.png" mimeType="image/png"/>地曰下南行二百餘里而北極下一度北行二百餘<lb/>
+里而北極高一度處乎地者無敧側之患何也大氣使<lb/>
+然也晝夜永短南北以漸而<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>南至赤道下南北極與<lb/>
+地適平晝夜漏均無永短北至極下赤道與地適平如<lb/>
+帶自春分至秋分爲晝秋分至春分爲夜凡氣朔之時<lb/>
+刻漸西則氣朔早漸東則氣朔遲月過闇虛而虧食西<lb/>
+見食早東見食遲此地與天相應之大較也地之廣輪<lb/>
+隨其方所皆可假天度測之矣<lb/>
+<pb n="KR4f0053_SBCK_005-6b"/>
+　　　　土圭<lb/>
+洪範五紀一曰歲二曰月三曰日四曰星辰五曰歷數<lb/>
+分至啟閉紀於歲者也朔朢朏霸紀於月者也永短昏<lb/>
+昕紀於日者也<graphic n="KR0844" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0844.png" mimeType="image/png"/>星見伏昏旦中日月躔逡紀於星辰<lb/>
+者也盈縮經緯終始相<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>紀於歷數者也紀於歲者察<lb/>
+之日行發斂紀於月者察之日月之會交道表裏紀於<lb/>
+日者察之晝夜刻漏出入里<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>紀於星辰者察之十有<lb/>
+二次曁星與黄赤道相値紀於歷數者察之圭槷隨時<lb/>
+測驗積微成著修正而不失<lb/>
+　　　　五紀<hi>案此章複見迎日推策記姑兩存之此多曁星與黄赤道相值察之圭槷兩句</hi>
+<pb n="KR4f0053_SBCK_005-7a"/>
+　先生作七經小記原象其一也以此四章合句股割<lb/>
+　圜記迎日推䇿記共稱原象曲<graphic n="KR0671" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0671.png" mimeType="image/png"/>孔氏已有刋本但<lb/>
+　文集當仍其分篇之舊原象說天體割圜說步算言<lb/>
+　各有當也又如原善三篇嘗分析數十章稱引六經<lb/>
+　疏通證明之別成一書亦七經小記之一而集中俱<lb/>
+　仍其舊至水地記則小記中言地理之書僅成一卷<lb/>
+　制數記則言禮樂制度故訓記則言小學書皆未成<lb/>
+　梗槩具見斯集段玉裁附識<lb/>
+迎日推䇿記<lb/>
+爲儀象考識日躔渾圜而中規之象赤道距規四分圜<lb/>
+<pb n="KR4f0053_SBCK_005-7b"/>
+周之一設其樞象北極也爲規載之曰子午之規半出<lb/>
+於地平規隨北極高下以察各方之節氣刻分斜絡赤<lb/>
+道外內爲規象黄道距黄道四分圜周之一是爲北極<lb/>
+璿機璿機者黄道極也準赤道爲規㳒二分之規曰中<lb/>
+衡赤道也冬至之規曰外衡夏至之規曰內衡凡十有<lb/>
+三衡分至之閒<graphic n="KR0914" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0914.png" mimeType="image/png"/>黄道爲六者四應一歲之中氣節氣<lb/>
+衡百度度六十分應晝夜之刻分分十有二秒以知里<lb/>
+<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>經歲三百六十有五日不滿四分日之一以是爲日<lb/>
+躔黃道之度分是故黄道日也赤道刻也星儀考識昏<lb/>
+旦中設其樞以象星極爲游規而載之以知歲<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>規設<lb/>
+<pb n="KR4f0053_SBCK_005-8a"/>
+北極焉載於子午之規以周知一歲婺女爲玄枵之維<lb/>
+首而周分十有二次以紀日月之躔離察星極以知右<lb/>
+旋察北極以知左旋天行之大致舉矣天左旋日月星<lb/>
+隨之而左者晝夜之象也各爲經緯是以知日月星皆<lb/>
+右旋右旋者發斂之軌也日之盈縮月之遲疾五歩之<lb/>
+益以畱退有規㳒以知<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>數日月五歩之規㳒盈縮之<lb/>
+<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>也一逆一順自然而成至動有常之機也洪範五紀<lb/>
+一曰歲二曰月三曰日四曰星辰五曰歷數分至啟閉<lb/>
+紀於歲者也朔朢朏霸紀於月者也永短昏昕紀於日<lb/>
+者也<graphic n="KR0844" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0844.png" mimeType="image/png"/>星見伏昏旦中日躔月逡紀於星辰者也盈縮<lb/>
+<pb n="KR4f0053_SBCK_005-8b"/>
+經緯終始相<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>紀於歴數者也紀於歲者察之日行發<lb/>
+斂紀於月者察之日月之會交道表裹紀於日者察之<lb/>
+晝夜刻漏出入里<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>紀於星辰者察之十有二次紀於<lb/>
+歷數者隨時測驗積微成著修正而不失凡推歩久則<lb/>
+必<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>非失在天行亦非立㳒之宐於時革渾圜至大數<lb/>
+所難竆譬猶寸寸度之至尺則<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>銖銖權之至兩則<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>
+是故設氣觀象與㳒相濟俾<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>數未覩者仍之<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>數旣<lb/>
+覩者修正之此終始相<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>之無定者也日月之盈縮遲<lb/>
+疾此之謂有定之<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>數歩算家積驗於旣往定爲規㳒<lb/>
+日躔黄道其高下逆順以成盈縮者日左旋之規<hi>今歩算家</hi>
+<pb n="KR4f0053_SBCK_005-9a"/>
+<hi>名本輪下半周厺地近爲卑極近爲冣卑又名高衝上半周厺地遠爲高極遠爲冣高本輪之左右遠近高卑</hi>
+<hi>適中爲中距</hi>中其規屬於黃道循黄道而右所謂平行者此<lb/>
+也凡三百六十五日小餘不及四分日之一適終其道<lb/>
+謂之經歲<hi>名平歲實亦名恆歲實</hi>其周曰右旋之規<hi>名均輪以近本輪心爲冣</hi>
+<hi>近</hi>中其規屬於左旋之規隨之而左<hi>名引數</hi>歲不及一終<lb/>
+<hi>今歩算家謂<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>數爲冣卑歲行又剖之爲冣卑日行</hi>積至五十餘秊而<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>及一度<lb/>
+日屬於右旋之規隨之而右左旋之規一終右旋之規<lb/>
+恆倍之而再終<hi>名倍引數</hi>四分左旋之規以爲四限其下半<lb/>
+周之半爲盈初<hi>下半周爲縮未盈初兩限與平行之勢順而加速</hi>上半周之半<lb/>
+爲縮初<hi>上半周爲盈末縮初兩限與平行之勢逆<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>遲</hi>自盈初至盈末日之實<lb/>
+<pb n="KR4f0053_SBCK_005-9b"/>
+體前於平行<hi>爲加<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>
+                    </hi>自縮初至縮末日之實體後於平行<lb/>
+也<hi>爲減<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>
+                    </hi>月道<hi>今名白道</hi>其高下之規㳒以生遲疾者曰左旋<lb/>
+之規<hi>名本輪其冣卑名入轉最高名月孛</hi>中其規屬於月道循月道而右<lb/>
+凡二十七日近少半日平行終其道其周曰右旋之規<lb/>
+<hi>名均輪</hi>中其規屬於左旋之規隨之而左<hi>名轉周</hi>不及一終<lb/>
+而<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>數生焉<hi>今歩算家謂<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>數爲冣高行又名月孛行</hi>三千二百三十餘日<lb/>
+<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>數之積滿一周四分左旋之規以爲四限其上半周<lb/>
+之半爲遲初<hi>上半周爲疾末遲初兩限與平行之勢逆故遲</hi>下半周之半爲疾<lb/>
+初<hi>下半周爲遲末疾初兩限與平行之勢順而加速</hi>遲初至遲末猶日之縮初<lb/>
+縮末也疾初至疾末猶日之盈初盈末也<hi>自疾初爲入轉滿四限謂</hi>
+<pb n="KR4f0053_SBCK_005-10a"/>
+<hi>之轉終</hi>屬於右旋之規者曰附綴之規<hi>名負圈合均輪全徑及次輪半徑爲</hi>
+<hi>負圈半徑其心在均輪上當次輪冣近點對衝之處</hi>其周曰次右旋之規<hi>名次輪其心在</hi>
+<hi>負圈上負圈不旋轉</hi>與右旋之規恆相切也其周曰次左旋之規<lb/>
+<hi>名次均輪其心在次輪上右旋月在次均輪上左旋</hi>月距日一度則次右旋之規<lb/>
+其旋也二度<hi>名倍離朔至朢朢至朔而兩周朔朢時則次均輪心冣近於均輪心兩<graphic n="KR1243" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1243.png" mimeType="image/png"/>時冣遠於</hi>
+<hi>均輪心</hi>次左旋之規亦如之<hi>朔朢時次均輪心正値次輪均輪相切之處從地心作直</hi>
+<hi>線過次均輪心朔朢時月必在下兩<graphic n="KR1243" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1243.png" mimeType="image/png"/>時必在上皆正當直線</hi>月屬於次左旋之規朔<lb/>
+朢恆旋而在下上下<graphic n="KR1243" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1243.png" mimeType="image/png"/>恆旋而在上也二十九日過日<lb/>
+之半而月與日會是謂朔䇿<hi>有平朔有定朔平朔者本輪心所到定朔者月之實</hi>
+<hi>體與日會</hi>月道交於黃道自南而北其交日中交<hi>又名計都</hi>於是<lb/>
+<pb n="KR4f0053_SBCK_005-10b"/>
+月逡黄道之北謂之陰歷自北而南其交日正交<hi>又名羅睺</hi>
+<hi>今歐巴謂中交爲正正交爲中</hi>於是月逡黄道之南謂之陽歷其入陰<lb/>
+歷也巳及六度中土測之尙在日南其入陽歷也尙<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>
+六度中土測之巳在日南黃道高於月道<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>也月之南<lb/>
+北行以玉衡界黄道而入古推歩㳒謂之九道八行其<lb/>
+二十七日有奇而月道一終也二交不復於其所<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>而<lb/>
+西凡一度又幾度之半<hi>歩算家謂之交行亦謂之羅計左㫌行度</hi>自外衡以<lb/>
+起<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>數三十交而值次四衡三十交而值中衡赤道三<lb/>
+十交而值次二衡三十交而值內衡三十交而復値次<lb/>
+二衡如是以底於外衡凡十有八秊過秊之半而八行<lb/>
+<pb n="KR4f0053_SBCK_005-11a"/>
+一終日入次二衡而暑盛出次二衡而暑以漸微月入<lb/>
+次一衡而減夏之暑增冬之寒出次二衡反是是<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>知<lb/>
+九道八行之用可以知寒暑之所由消息矣月道極之<lb/>
+環繞黃極也日左旋之規<hi>名白極繞黄極本輪</hi>以黄極爲之中日<lb/>
+月道極所屬之規<hi>名負白極均輪</hi>中其規屬於左旋之規隨之<lb/>
+而左十八秊過秊之半而一終交道之有<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>數以此月<lb/>
+道極所屬之規亦左旋其旋也一月而再終<hi>名倍離</hi>朔朢<lb/>
+月道極近黄極故月道與黃道相距<hi>名黄白大距</hi>爲之加邇<lb/>
+焉上下<graphic n="KR1243" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1243.png" mimeType="image/png"/>月道遠於黄極故月道與黄道相距爲之加<lb/>
+遠焉黄道與赤道相距近較數百秊閒漸<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>而近雖翕<lb/>
+<pb n="KR4f0053_SBCK_005-11b"/>
+闢之節未昭然明著其<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>亦猶是也屈原賦之文曰圜<lb/>
+則九重九重者自下而上數之月一辰星二太白三日<lb/>
+四熒惑五歲星六塡星七恆星八有象之高下止於八<lb/>
+竝各爲右旋然則大氣左旋而九歟塡星歲星熒惑在<lb/>
+日之上爲三重太白辰星在日之下爲二重古之治歷<lb/>
+者考日月之行以授時表中星以著候不言五步也漢<lb/>
+以降推測滋繁於是五步之遲疾畱退見伏有稽其規<lb/>
+㳒曰左旋之規<hi>名本輪</hi>中其規各屬於其道循其道而右<lb/>
+其周曰右旋之規<hi>名均輪</hi>中其規屬於左旋之規隨之而<lb/>
+左塡星歲星熒惑太白左旋之規一終右旋之規倍之<lb/>
+<pb n="KR4f0053_SBCK_005-12a"/>
+而再終辰星左旋之規一終右旋之規其旋也再倍之<lb/>
+而三終五歩之平行終其道也塡星凡二十有九秊幾<lb/>
+秊之半歲星幾十有二秊熒惑幾二秊太白二百二十<lb/>
+有四日過日之半辰星過八十有八日左旋之規不及<lb/>
+一終而<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>數生焉<hi>皆名冣高行</hi>星所屬之規<hi>名歲輪又名次輪</hi>中其<lb/>
+規屬於右旋之規在日上者三星以日躔相推而遲<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>
+星所屬之規右旋在日下者星二以速於日躔<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>星所<lb/>
+屬之規左旋凡日月五歩之規㳒其循之而旋也漸高<lb/>
+則距地遠而人視之加小漸下則距地邇而人視之加<lb/>
+大星之見伏環日上下各有定距成環日之規<hi>名伏見輪</hi>在<lb/>
+<pb n="KR4f0053_SBCK_005-12b"/>
+日上者環日之規類於左旋以就日在日下者類於右<lb/>
+旋以就日也<lb/>
+九道八行說<lb/>
+月道出入黃道內外二十七日有奇而交道一終交終<lb/>
+不復於原處其<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>一度又幾半度每秊之<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>自東而西<lb/>
+十九度奇古歷家有九道八行之說所以考其<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>也借<lb/>
+靑朱白黑以別之借八節之名以命之春分靑道爲正<lb/>
+東立春靑道爲東南冬至黑道爲正北立冬黑道爲東<lb/>
+北秋分白道爲正西立秋白道爲西北夏至朱道爲正<lb/>
+南立夏朱道爲西南如交在冬至南緯二十三度半而<lb/>
+<pb n="KR4f0053_SBCK_005-13a"/>
+入陰歷半交必在春分黃道內五度半春分無南北緯<lb/>
+則月北緯五度半是爲春分靑道凡三十交退在立冬<lb/>
+南緯十六度奇而入陰歷半交必在立春黄道內五度<lb/>
+半立春南緯十六度奇則月南緯幾十一度是爲立春<lb/>
+靑道又三十交退在秋分無南北緯而入陰歷半交必<lb/>
+在冬至黄道裏五度半冬至南緯二十三度半則月南<lb/>
+緯十八度是爲冬至黑道又三十交退在立秋北緯十<lb/>
+六度奇而入陰歷半交必在立冬黄道裏五度半立冬<lb/>
+南緯十六度奇則月南緯幾十一度是爲立冬黑道又<lb/>
+三十交退在夏至北緯二十三度半而入陰歷半交必<lb/>
+<pb n="KR4f0053_SBCK_005-13b"/>
+在秋分黄道裏五度半秋分無南北緯則月北緯五度<lb/>
+半是爲秋分白道又三十交退在立夏北緯十六度奇<lb/>
+而入陰歷半交必在立秋黄道裏五度半立秋北緯十<lb/>
+六度奇則月北緯幾二十二度是爲立秋白道又三十<lb/>
+交退在春分無南北緯而入陰歷半交必在夏至黃道<lb/>
+裏五度半夏至北緯二十三度半則月北緯二十九度<lb/>
+是爲夏至朱道又三十交退在立春南緯十六度奇而<lb/>
+入陰歷半交必在立夏黄道裏五度半立夏北緯十六<lb/>
+度奇則月北緯幾二十二度是爲立夏朱道又三十交<lb/>
+退在冬至月復循靑道以四秊過半循二靑道四秊過<lb/>
+<pb n="KR4f0053_SBCK_005-14a"/>
+半循二黑道四秊過半循二白道四秊過半循二朱道<lb/>
+十八秊過半八行一周古歷以自南而北交於黃道爲<lb/>
+中交常以中交爲主今歷謂之正交古歷自北而南爲<lb/>
+正交今歷謂之中交日食朔當交也月食朢當交也九<lb/>
+道自宋人疑之至元而遂廢考諸古歷未有明析其必<lb/>
+分之<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>者由今恖之可以知交道出入焉可以考當交<lb/>
+半交距赤道遠近焉可以明交終所<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>每月交於某宮<lb/>
+某度焉可以辨交之中終與朔朢不齊每朔朢厺交遠<lb/>
+近及當交而有食焉古㳒之廢而宐舉者此也<lb/>
+周髀北極璿機四游解一<hi>乙亥</hi>
+<pb n="KR4f0053_SBCK_005-14b"/>
+今人所謂赤道極者卽魯論之北辰周髀之正北極也<lb/>
+又曰北極樞今人所謂黃道極者卽周髀之北極璿機<lb/>
+也虞夏書在璿機玉衡以齊七政葢設璿機以擬黄道<lb/>
+極後失其傳紛紜殊說私臆罔據矣正北極者左旋之<lb/>
+樞北極璿機每晝夜環繞之而成規冬至夜半在正北<lb/>
+極下<hi>正北子位</hi>是爲北游所極日加卯之時在正北極左<hi>正東</hi>
+<hi>卯位</hi>是爲東游所極日加午之時在正北極上<hi>正南午位</hi>是爲<lb/>
+南游所極日加酉之時在正北極右<hi>正西酉位</hi>是爲西游所<lb/>
+極此璿機之一日四游所極也冬至夜半起正北子位<lb/>
+晝夜左旋一周而又過一度<hi>古度㳒</hi>漸進至四分周之一<lb/>
+<pb n="KR4f0053_SBCK_005-15a"/>
+則春分夜半實爲東游所極<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>夏至夜半南游所極秋<lb/>
+分夜半西游所極此璿機之一歲四游所極也古者冬<lb/>
+夏致日故周髀之文但舉二至則二分可知也又䥘舉<lb/>
+冬至卯酉則每日必周四游皆可知也<lb/>
+周髀北極璿機四游解二<lb/>
+月建之說由來古矣漢人據逸周書以爲斗杓移辰者<lb/>
+失其傳也正北極以爲中北極璿機環繞而成規均分<lb/>
+之爲十有二宮冬至夜半璿機起正北子位是謂建子<lb/>
+晝夜一周又過一度<hi>古度㳒</hi>小寒則過丑宮大寒爰直丑<lb/>
+位是謂建丑立春過寅宮啟蟄<hi>今爲雨水</hi>爰直寅位是謂建<lb/>
+<pb n="KR4f0053_SBCK_005-15b"/>
+寅雨水<hi>今爲驚蟄</hi>過卯宮春分爰直卯位<hi>東游所極</hi>是爲建卯榖<lb/>
+雨<hi>今爲淸明</hi>過辰宮淸明<hi>今爲穀雨</hi>爰直辰位是謂建辰立夏過<lb/>
+巳宮小滿爰直已位是謂建巳<graphic n="KR0621" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0621.png" mimeType="image/png"/>種過午宮夏至爰直<lb/>
+午位<hi>南游所極</hi>是謂建午小暑過未宮大暑爰直未位是謂<lb/>
+建未立秋過申宮處暑爰直申位是謂建申白露過酉<lb/>
+宮秋分爰直酉位<hi>西游所極</hi>是謂建酉寒露過戌宫霜降爰<lb/>
+直戌位是謂建戌立冬過亥宮小雪爰直亥位是謂建<lb/>
+亥大雪過子宮冬至而復起子宮<hi>北游所極</hi>如是終古不變<lb/>
+非若北杓所指虞夏迄今巳<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>兩次也<lb/>
+　祖沖之日月位稱建諒以氣之所本名隨實著非謂<lb/>
+<pb n="KR4f0053_SBCK_005-16a"/>
+　斗杓所指近校漢時巳<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>半次審斗節時其效安在<lb/>
+　今考北極璿機四游與日躔黄道發斂相應而二十<lb/>
+　四氣因之祖氏所謂諒以氣之所本雖未能確言其<lb/>
+　識卓矣<lb/>
+記夏小正星象<lb/>
+建寅之月夏以爲正月於時日躔降婁初昏參巳過中<lb/>
+猶云參中者舉大體言之非若後代求諸度分之細也<lb/>
+斗杓縣在下者史記杓攜龍角衡殷南斗魁枕參首參<lb/>
+中則魁南上杓北下矣二月日躔大梁三月日躔實沈<lb/>
+參伏者日所在之㝛<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>伏而不見也四月日躔鶉首<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>
+<pb n="KR4f0053_SBCK_005-16b"/>
+昴朝覿南門在亢氐之南五月日躔鶉火<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>參朝覿大<lb/>
+火中者夏以建午之月合於堯典日永星火以正仲夏<lb/>
+之文時之相厺未遠也周以建未之月春秋傳張趯曰<lb/>
+火星中而寒暑退謂建未之月暑退昏中建丑之月寒<lb/>
+退旦中也此惟周時則然凡星未中左旋進而上過中<lb/>
+左旋流而下詩七月流火合乎月令季夏昏火中皆周<lb/>
+時數百秊閒也六月日躔鶉㞑斗魁北下<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>杓南上也<lb/>
+七月日躔壽星漢案月者與戶南北直也織女三星恆<lb/>
+嚮降婁壽星西沒則降婁東升故初昏織女東嚮斗杓<lb/>
+縣在下者魁枕參首旦參中<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>斗杓北下而旦魁參相<lb/>
+<pb n="KR4f0053_SBCK_005-17a"/>
+應也八月日躔大火辰則伏者爾雅大火謂之大辰大<lb/>
+辰房心㞑也心三星中明大者凡言大火主焉此所謂<lb/>
+辰也日在則其心不見<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>曰伏同日岀沒矣厺日半次<lb/>
+而後朝覿旦參中者巳過中猶言之舉大體也九月日<lb/>
+躔析木之津辰繫於日者辰心也日將岀心乃見東方<lb/>
+十月日躔星紀南門二星朝見於東南隅非昏見也言<lb/>
+初昏者失其傳也織女北嚮而旦星紀東升<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>降婁直<lb/>
+北織女恆嚮降婁者也十有一月日躔玄枵十有二月<lb/>
+日躔娵訾之口凡夏時日躔所在與今<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>二次與周時<lb/>
+<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>一次星之見伏旦昏中悉因之而異<lb/>
+<pb n="KR4f0053_SBCK_005-17b"/>
+與丁升衢書<hi>丁酉</hi>
+易玄星紀譜頗不通上層<graphic n="KR0844" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0844.png" mimeType="image/png"/>二十八㝛各注總度終於<lb/>
+三百六十五無小餘次層<graphic n="KR0844" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0844.png" mimeType="image/png"/>十二次注分野終於三百<lb/>
+六十後不接續三層用孟喜易坎離震兌四正卦之爻<lb/>
+配二十四氣者四層用李漑所傳卦氣圖十二辟卦之<lb/>
+爻配七十二候者亦終於三百六十後不接續五層用<lb/>
+諸侯大夫卿公辟六十卦之爻爻䥘綜之以一爻配玄<lb/>
+之二贊亦終於三百六十後不接續六層<graphic n="KR0844" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0844.png" mimeType="image/png"/>玄之八十<lb/>
+一首及其準易因空格附記諸家所推玄之九贊配日<lb/>
+躔㝛度與節氣次舍之屬七層八層<graphic n="KR0844" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0844.png" mimeType="image/png"/>玄之九贊與五<lb/>
+<pb n="KR4f0053_SBCK_005-18a"/>
+層相配楊子雲本太初三統之㳒作玄而此乃用四分<lb/>
+㳒巳不合子雲意矣襲漢人卦氣又不解六日七分之<lb/>
+㳒使不能循環相接由疏於算學強作解事也舊本式<lb/>
+様不分曉今擬一式使開卷了然整齊易寫譌脫處皆<lb/>
+推明粘簽可照改也<lb/>
+再與丁升衢書<hi>丁酉</hi>
+太玄之七百二十九贊兩贊配一日終於三百六十四<lb/>
+日有半末有踦贏兩贊配半日及歲之小餘太初歷一<lb/>
+晝夜千五百三十九小分是爲日㳒卽爲度㳒其周天<lb/>
+五十六萬二千一百二十滿度㳒得三百六十五度有<lb/>
+<pb n="KR4f0053_SBCK_005-18b"/>
+小分三百八十五其歲周卽爲三百六十五日小餘三<lb/>
+百八十五因而四之得千五百四十滿日㳒成日仍有<lb/>
+小餘一是四秊而大於四分歷者一小分六千一百五<lb/>
+十六秊而較四分歷少一日矣漢巳後歲實各歷不同<lb/>
+未有過四分日之一者獨太初歷過之晁說之謂溫公<lb/>
+本太初歷而作玄歷考其所計分秒徒用四分歷耳絕<lb/>
+不渉太初也此譜上一層㝛度次二層十二次皆取之<lb/>
+漢書乃赤道度後漢永元四秊賈逵奏稱日月實從黄<lb/>
+道官無其器十五秊詔書造太史黄道銅儀與赤道㝛<lb/>
+度多異節氣凖黃道不準赤道則凡就赤道言節氣者<lb/>
+<pb n="KR4f0053_SBCK_005-19a"/>
+謬也況<graphic n="KR0844" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0844.png" mimeType="image/png"/>㝛有歲<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>唐虞冬至日在虛乃玄枵之中殷<lb/>
+在婺女乃玄枵之維首周冬至日在牽牛至周末在斗<lb/>
+<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>周人名斗牽牛爲星紀之次今冬至日在箕初乃析<lb/>
+木之津正中漢書言星紀中牽牛初冬至者未測驗<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>
+也四分歷改爲斗十九度冬至太初之失見矣次隨星<lb/>
+名義合㝛體分至雖遷而厥位不改祖沖之論之甚詳<lb/>
+則凡以十二次之初爲節氣十二次之中爲中氣者謬<lb/>
+也此兩層其謬多端次三層乃易緯所謂四正之卦卦<lb/>
+有六爻爻主一氣者次四層乃易緯所謂十二辟卦爻<lb/>
+配一候者次五層雖取易緯卦氣起中孚之說彼以矦<lb/>
+<pb n="KR4f0053_SBCK_005-19b"/>
+大夫卿公辟六十卦之爻均分三百六十五日四分日<lb/>
+之一卦主六日又八十分日之七是爲六日七分㳒此<lb/>
+以相比之矦大夫卿公辟五卦六爻相閒乃兼用齊天<lb/>
+<graphic n="KR0854" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0854.png" mimeType="image/png"/>歷所謂五卦初爻相次用事者此層當與子雲八十<lb/>
+一首準易六十四卦者合而乃與上次四層爻準一候<lb/>
+五日皆終於三百六十闕玄之馴準坤九贊及將凖未<lb/>
+濟之初一此十贊合爲五位<graphic n="KR0856" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0856.png" mimeType="image/png"/>而不續上次三層爻凖<lb/>
+一氣者亦不數此五位因傅會其說謂坤無當於卦則<lb/>
+無當於爻示八十一首虚一不用夫子雲以踦贏繫養<lb/>
+之末欲該歷日與天度之餘分未聞闕馴不用且闕將<lb/>
+<pb n="KR4f0053_SBCK_005-20a"/>
+之初不用也次六層<graphic n="KR0844" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0844.png" mimeType="image/png"/>玄之八十一首次七層八層<graphic n="KR0844" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0844.png" mimeType="image/png"/>
+玄之七百二十九贊其次六層空格附錄范叔明郭元<lb/>
+亯司馬溫公三家異同范叔明以二十四氣均分七百<lb/>
+二十九贊氣得三首三贊又二十四分贊之七所云氣<lb/>
+起者以餘分在此贊也旣詳其餘分而氣終定於前一<lb/>
+贊則餘分未盡是自亂其例矣郭元亯以兩贊配一日<lb/>
+而分晝夜自中之初一起終於養上九三百六十五日<lb/>
+之晝餘歸踦贏溫公以一首得三百六十四分十六秒<lb/>
+一贊得四十分十六秒合八十一首之贊共得二萬九<lb/>
+千五百二十四分十六秒於四分歷仍有六十分二十<lb/>
+<pb n="KR4f0053_SBCK_005-20b"/>
+四秒以四十分十六秒繫之踦二十分八秒繫之贏二<lb/>
+㳒歸餘於踦贏優於冣上兩層起大雪要其不知<graphic n="KR0844" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0844.png" mimeType="image/png"/>㝛<lb/>
+有歲<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>失則均焉<lb/>
+續天文略序<lb/>
+<hi>臣</hi>震謹案書言敬授人時易言天垂象見吉凶其在周<lb/>
+官推步掌於馮相氏占變掌於<graphic n="KR0854" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0854.png" mimeType="image/png"/>章氏各有專司<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>司<lb/>
+馬遷史記分爲八書之二古者小民咸識天象仰瞻星<lb/>
+漢用知時節而趣耕作夏小正月令諸書示農事女工<lb/>
+弗怠緩也而律設科條私習天文有禁乃以絶民閒或<lb/>
+妄語禨祥是二者又有宐講求不宐講求之別矣然施<lb/>
+<pb n="KR4f0053_SBCK_005-21a"/>
+之於用雖二事苟溯而上之日月星運行有常其爲體<lb/>
+也則一宋鄭樵通志錄步天歌兼及其注文繼以晉書<lb/>
+所<graphic n="KR0844" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0844.png" mimeType="image/png"/>天漢起沒十二次度數州郡躔次又參以隋書所<lb/>
+<graphic n="KR0844" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0844.png" mimeType="image/png"/>七曜述是數者爲天文略樵稱歌詞句中有圖言下<lb/>
+見象不語休<graphic n="KR1444" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1444.png" mimeType="image/png"/>而注內仍不免渉災祥休咎至若十二<lb/>
+次㝛度襍舉劉歆費直蔡邕三家則由未解歲<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>
+                    <graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>存<lb/>
+其殊致莫之折衷其以郡隸州國也如曰㷼幽州而所<lb/>
+隸有西河上郡北地此三郡實古雍州曰衞而配以幷<lb/>
+州下<graphic n="KR0844" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0844.png" mimeType="image/png"/>安定天水隴西酒泉張掖武都金城武威敦煌<lb/>
+此九郡遠出雍西日魏而配以益州隸廣漢越巂蜀郡<lb/>
+<pb n="KR4f0053_SBCK_005-21b"/>
+犍爲牂牁巴郡漢中於下實非魏之疆土曰秦雍州而<lb/>
+所隸乃雲中定襄鴈門代郡大原上黨又屬戰國時趙<lb/>
+域晉書此條譌舛特甚旣無從是正不宐取以滋惑葢<lb/>
+天文一事樵所不知而欲成全書固不可闕而不載是<lb/>
+以徒襲舊史未能擇之精語之詳也今㪅爲目十曰星<lb/>
+見伏昏旦中曰<graphic n="KR0844" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0844.png" mimeType="image/png"/>㝛十二次曰星象曰黄道㝛度曰七<lb/>
+衡六閒曰晷景短長曰北極高下曰日月五歩規㳒曰<lb/>
+儀象曰漏刻或補前書闕遺或賡所未及凡占變推歩<lb/>
+不與焉考自唐虞巳來下迄元明見於六經史籍有關<lb/>
+運行之體者約而論之著於篇<lb/>
+<pb n="KR4f0053_SBCK_005-22a"/>
+</p>
+<p>
+戴東原集卷弟五<lb/>
+<pb n="KR4f0053_SBCK_005-22b"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

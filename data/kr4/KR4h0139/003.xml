@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0139_WYG_003-1a"/>
+　　蝨賦<hi>唐李商隠</hi>
+　　後蝨賦<hi>唐陸龜䝉</hi>
+　　又後蝨賦<hi>明顧大韶</hi>
+　　罵蝨賦<hi>元楊維楨</hi>
+　　蟄蟲始振賦<hi>唐王起</hi>
+　　　　<hi>臣</hi>等謹案<lb/>
+　御定厯代賦彚一百四十巻外集二十巻逸句一巻<lb/>
+　　　　補遺二十二巻康熈四十五年<lb/>
+<pb n="KR4h0139_WYG_003-1b"/>
+　聖祖仁皇帝御定賦雖古詩之流然自屈宋以來即<lb/>
+　　　　與詩别體自漢迄宋文質逓變格律日新元<lb/>
+　　　　祝堯作古賦辨體於源流正變言之詳矣至<lb/>
+　　　　於厯代鴻篇則不能備載明人作賦苑近人<lb/>
+　　　　作賦格均千百之中録存十一未能賅備無<lb/>
+　　　　遺也是編所録上起周末下訖明季以有闗<lb/>
+　　　　於經濟學問者為正集分三十類計三千四<lb/>
+　　　　十二篇其勞人思婦哀怨窮愁畸士幽人放<lb/>
+<pb n="KR4h0139_WYG_003-2a"/>
+　　　　言任達者别為外集分八類計四百二十三<lb/>
+　　　　篇旁及佚文墜簡片語单詞見於諸書所引<lb/>
+　　　　者碎璧零璣亦多資考證裒為逸句二巻計<lb/>
+　　　　一百一十七篇又書成之後補遺三百六十<lb/>
+　　　　九篇散附逸句五十篇二千餘年體物之作<lb/>
+　　　　散在藝林者耳目所及亦約畧備焉楊雄有<lb/>
+　　　　言能讀千賦則善賦是編且四倍之學者沿<lb/>
+　　　　波得竒于以黼黻太平潤色<lb/>
+<pb n="KR4h0139_WYG_003-2b"/>
+　鴻業亦足和聲鳴盛矣乾隆四十六年三月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

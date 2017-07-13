@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>青山續集</head> <lb/>
+    <p>
+<pb n="KR4d0097_WYG_000-1a"/>
+欽定四庫全書<lb/>
+　青山續集<lb/>
+　　提要<lb/>
+　　　　臣等謹案青山續集七巻宋郭祥正撰祥正<lb/>
+　　　　所著青山集已著録宋史藝文志馬端臨經<lb/>
+　　　　籍考及晁公武讀書志陳振孫書録解題諸<lb/>
+　　　　書止載青山集三十巻均無續集之名此本<lb/>
+　　　　前後無序跋莫審誰所編次然核其詞意確<lb/>
+<pb n="KR4d0097_WYG_000-1b"/>
+　　　　為宋人舊本非後人所能依託也案宋史本<lb/>
+　　　　傳祥正致仕後居於姑孰不復干進所居有<lb/>
+　　　　醉吟菴久之起為通判汀州後知端州復棄<lb/>
+　　　　去家於當塗之青山以卒今續集中有浪士<lb/>
+　　　　歌一首自序云郭子棄官合肥歸姑孰自號<lb/>
+　　　　曰醉吟先生居五年或者謂其未老可仕以<lb/>
+　　　　事薦於上上即召之復序於朝俾監閩汀郡<lb/>
+　　　　尋攝守漳南上復召之行至半道閩使者狀<lb/>
+<pb n="KR4d0097_WYG_000-2a"/>
+　　　　其罪以聞遂下吏留於漳㡬三年又自號曰<lb/>
+　　　　漳南浪士云云集中留漳南詩甚多則史所<lb/>
+　　　　云知端州後復棄官者非也此可以補宋史<lb/>
+　　　　本傳之缺漳南書事云元豐五年秋七月十<lb/>
+　　　　九日猛風終夜發拔木壊廬室新昌吟寄頴<lb/>
+　　　　叔待制云元祐丙寅冬新昌有狂冦名探其<lb/>
+　　　　姓岑厥初善巫咒云云按元豐五年至元祐<lb/>
+　　　　元年丙寅正合詩序所云留漳南三年之數<lb/>
+<pb n="KR4d0097_WYG_000-2b"/>
+　　　　然則祥正被議下吏在元豐五年而其得歸<lb/>
+　　　　也在元祐元年而岑探搆亂之事宋史亦未<lb/>
+　　　　及詳据此皆足與史傳相叅攷又青山集載<lb/>
+　　　　送蔣頴叔待制拜六路都運一詩云廊廟乏<lb/>
+　　　　材終大用願均和氣及巖幽自注云予已乞<lb/>
+　　　　骸將歸舊廬再送頴叔云雲間驥尾終難附<lb/>
+　　　　梅子黄時公自歸自注云公屢有佳句見約<lb/>
+　　　　同歸復有䝉詔許歸絶句二首其次韻林辨<lb/>
+<pb n="KR4d0097_WYG_000-3a"/>
+　　　　之長官送別之什云牢落名聲讒謗後支離<lb/>
+　　　　形影瘴氛餘重来仕路誰為援却返家園欲<lb/>
+　　　　自如以此數詩合之續集浪士歌之所自序<lb/>
+　　　　其再出一節事蹟始備惟史載祥正初以薦<lb/>
+　　　　王安石罷官青山集有奠王荆公墳三首云<lb/>
+　　　　大手曾將元鼎調龍沈鶴去事寥寥又云平<lb/>
+　　　　昔偏䝉愛小詩如今吟就誰復知其於安石<lb/>
+　　　　死後尚矜譽若此而續集内有熙寧口號五<lb/>
+<pb n="KR4d0097_WYG_000-3b"/>
+　　　　首末云百姓命懸三尺法千秋誰恤兩端情<lb/>
+　　　　近聞崇尚刑名學陛下之心得好生云云似<lb/>
+　　　　不類其平生所作然陳振孫書録解題謂李<lb/>
+　　　　端叔晩寓其鄉祥正與之爭名未嘗同堂語<lb/>
+　　　　至為俚語以譏之其為人不足道則祥正或<lb/>
+　　　　當罷官之後因致憾安石譏刺時政亦未可<lb/>
+　　　　知至其詩筆雄竒兀奡咄咄逼人雖才力稍<lb/>
+　　　　遜於蘇黄諸家要非北宋以下所能企及也<lb/>
+<pb n="KR4d0097_WYG_000-4a"/>
+　　　　東坡集有郭祥正家醉畫竹石壁上郭作詩<lb/>
+　　　　為謝且遺二古銅劍一首又祥正觀東坡畫<lb/>
+　　　　雪有感二首詩載王氏注中此三首青山集<lb/>
+　　　　俱失載而續集亦無之則知其散佚者尚多<lb/>
+　　　　矣乾隆四十三年七月恭校上<lb/>
+　　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

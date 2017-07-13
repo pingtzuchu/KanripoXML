@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>宋元詩㑹</head>
+    <p>
+<pb n="KR4h0158_WYG_000-1a"/>
+欽定四庫全書　　　　　集部八<lb/>
+　宋元詩㑹　　　　　　　總集類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案宋元詩㑹一百卷<lb/>
+　　　國朝陳焯撰焯字黙公桐城人順治壬辰進士<lb/>
+　　　　選庶吉士以耳聾告歸不復出覃思著述取<lb/>
+　　　　所見宋元詩人之作輯為此編每人各紀其<lb/>
+　　　　爵里本末于下以備考訂雖甄録篇什無多<lb/>
+<pb n="KR4h0158_WYG_000-1b"/>
+　　　　而摭拾家數頗為廣備王士禎香祖筆記稱<lb/>
+　　　　康熙甲子奉使南海次相城焯過其客署二<lb/>
+　　　　從者背負巨囊揖罷即呼具案顧從者取囊<lb/>
+　　　　書數十大冊羅列案上指示士禎曰此吾二<lb/>
+　　　　十年來所輯宋元詩㑹若干卷將待君决擇之<lb/>
+　　　　然後出而問世云云葢即指是書而言是其<lb/>
+　　　　卷帙本極繁富而今刋行之本僅止此數或<lb/>
+　　　　經士禎鑒别之後焯重加釐定而復為刪繁<lb/>
+<pb n="KR4h0158_WYG_000-2a"/>
+　　　　以就簡者然上下數百年間詩家林立其源<lb/>
+　　　　流姓氏一一粲然以視吳之振顧嗣立兩家<lb/>
+　　　　雖浩博不及之而梗概亦已略具矣乾隆四<lb/>
+　　　　十五年十月恭校上<lb/>
+　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

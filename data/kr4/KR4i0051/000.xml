@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>懷麓堂詩話</head>
+    <p>
+<pb n="KR4i0051_WYG_000-1a"/>
+欽定四庫全書　　　　　集部九<lb/>
+　懷麓堂詩話　　　　　　詩文評類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案懷麓堂詩話一巻明李東陽撰東<lb/>
+　　　　陽有東祀録已著録李何未出以前東陽實<lb/>
+　　　　以臺閣耆宿主持文柄其論詩主於法度音<lb/>
+　　　　調而極論剽竊摹擬之非當時奉以為宗至<lb/>
+　　　　李何既出始變其體然贋古之病適中其所<lb/>
+<pb n="KR4i0051_WYG_000-1b"/>
+　　　　詆訶故後人多抑彼而伸此此編所論多得<lb/>
+　　　　古人之意雖詩家三昧不盡于是要亦深知<lb/>
+　　　　甘苦之言矣姚希孟松癭集有此書䟦云李<lb/>
+　　　　長沙詩以勻穩為主其為古樂府弇州譏其<lb/>
+　　　　類小學史斷廼其談詩頗津津是時詞林諸<lb/>
+　　　　公多以詩為事巻中所載如彭民望謝方石<lb/>
+　　　　輩相與抨彈甚切讀之猶想見前輩風致云<lb/>
+　　　　云核其詞意似頗不滿于東陽然王世貞詆<lb/>
+<pb n="KR4i0051_WYG_000-2a"/>
+　　　　西涯樂府乃其少年盛氣之時迨其晩年作<lb/>
+　　　　西涯樂府䟦已自悔前論希孟所引殊不足<lb/>
+　　　　為憑惟好譽其子兆先殆有王福畤之癖是<lb/>
+　　　　其一瑕耳林炫巵言餘録曰成化間姑熟夏<lb/>
+　　　　宏集句有聨錦集懷麓堂詩話載其客醉已<lb/>
+　　　　無言秋蛩自相語為高季迪詩宏揑冩他人<lb/>
+　　　　姓名今考集中無之云云聨錦集今未見然<lb/>
+　　　　炫與東陽均正德間人所見之本不應有異<lb/>
+<pb n="KR4i0051_WYG_000-2b"/>
+　　　　或東陽偶誤記歟近時鮑氏知不足齋刻此<lb/>
+　　　　編於浦長源雲邊路繞巴山色樹裡河流漢水<lb/>
+　　　　聲句下注曰案二句宋詩紀事以為鬼詩今<lb/>
+　　　　考宋詩紀事所載呉簡詩誠有此聨惟上句<lb/>
+　　　　稍異一二字然厲鶚所據乃荆門紀畧其書<lb/>
+　　　　為康熈戊戌己亥間胡作柄所撰餖飣龎雜<lb/>
+　　　　頗無根據似未可執以駁東陽况浦源此事<lb/>
+　　　　都穆南濠詩話亦載之知當時必有所據安<lb/>
+<pb n="KR4i0051_WYG_000-3a"/>
+　　　　知非荆門紀畧反摭源此聨偽撰鬼詩耶是<lb/>
+　　　　尤不當輕信新聞遽疑舊記矣乾隆四十六<lb/>
+　　　　年九月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

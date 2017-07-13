@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>太常續考</head>
+    <p>
+<pb n="KR2l0011_WYG_000-1a"/>
+欽定四庫全書　　　　　史部十二<lb/>
+　太常續考　　　　　　　職官類一<hi>官制之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案太常續考八卷不著撰人名氏考<lb/>
+　　　　書中所錄葢明祟禎時太常寺官屬所輯也<lb/>
+　　　　凡祭祀典禮皆詳悉具載雖不免為案牘簿<lb/>
+　　　　籍之文而沿革損益之由名物度數之細條<lb/>
+　　　　分縷晰多明史禮志明㑹典明集禮及嘉靖<lb/>
+<pb n="KR2l0011_WYG_000-1b"/>
+　　　　祀典之所未載葢總括一代之掌故則體貴<lb/>
+　　　　簡要専錄一官之職守則義取博賅言各有<lb/>
+　　　　當故詳畧逈不同也况集禮作於洪武會典<lb/>
+　　　　作於成化嘉靖祀典惟載一時更張之事自<lb/>
+　　　　世宗以後百餘年之典制記載闕如此書職<lb/>
+　　　　官題名終於崇禎十六年則一代儀章始末<lb/>
+　　　　尤為完具固數典者所不可廢矣乾隆四十<lb/>
+　　　　四年二月恭校上<lb/>
+<pb n="KR2l0011_WYG_000-2a"/>
+　　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

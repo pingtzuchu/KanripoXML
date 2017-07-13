@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_339-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選巻三百三十九<lb/>
+　　瑞香花類<lb/>
+　　　五言古<lb/>
+　　　　次韻曹子方龍山真覺院瑞香花<lb/>
+　　　　　　　　　　　　　　　　<hi>宋</hi>蘇　軾<lb/>
+　幽香結淺紫来自孤雲岑骨香不自知色淺意殊深移<lb/>
+　栽青蓮宇遂冠薝蔔林紉為楚臣佩㪚落天女襟君持<lb/>
+<pb n="KR4h0141_WYG_339-1b"/>
+　風霜節耳冷歌笑音一逢蘭蕙質稍回鐡石心置酒要<lb/>
+　妍暖養花須晏隂及此隂晴間恐致慳嗇霖綵雲知易<lb/>
+　㪚鶗鴂憂先吟眀朝便陳迹試著丹青臨<lb/>
+　　　　次韻錢倅諸公瑞香花　　　<hi>宋</hi>陳　造<lb/>
+　鈎窗翫孤芳殘月衣上眀紫嚢坼蘭麝小風弄初晴<lb/>
+　　　長短句<lb/>
+　　　　瑞香花詩　　　　　　　　<hi>眀</hi>宣　宗<lb/>
+　瑞香花葉如織其葉非一状花開亦殊色或如瑪瑙之<lb/>
+<pb n="KR4h0141_WYG_339-2a"/>
+殷紅或如玉雪之姿容或含淺綘或深紫細蕤疊萼芬<lb/>
+玲瓏臘後春前花未放先春獨占梅花上繞枝芳意露<lb/>
+毰毸萬卉千葩總相譲曈曨旭日照階墀淡蕩香風拂<lb/>
+面時初疑沈檀爇寳鼎亦似蘭麝熏人衣瑞香花樹髙<lb/>
+三尺強山杏野桃動踰丈得似幽叢約馥香<lb/>
+　　五言律<lb/>
+　　　瑞香花　　　　　　　　　<hi>宋</hi>楊萬里<lb/>
+外著朝霞綺中裁淡玉紗森森千萬筍旋旋兩三花小<lb/>
+<pb n="KR4h0141_WYG_339-2b"/>
+霽迎風喜輕寒索幙遮香中真上瑞蘭麝敢名家<lb/>
+　　　其二<lb/>
+短短熏籠小團團錦帕圍浮陽烘酒思沈水著人衣茉<lb/>
+莉通家逺椒花具體微春愁渾瘦盡别有瘦中肥<lb/>
+　　七言律<lb/>
+　　　次韻楊廷秀待制瑞香花　　<hi>宋</hi>周必大<lb/>
+灞橋忍凍兩相攢漢殿含香别一般粉面故宜垂紫袖<lb/>
+錦裳何必著中襌禁<graphic n="KR1161" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1161.png" mimeType="image/png"/>侍史今同宿宫㡌花枝故自欒<lb/>
+<pb n="KR4h0141_WYG_339-3a"/>
+咀嚼新詩懐舊直刺貪寧不媿河檀<lb/>
+　　　瑞香花　　　　　　　　　<hi>宋</hi>楊萬里<lb/>
+侵雪開花雪不侵開時色淺未開深碧團圞裏筍成束<lb/>
+紫蓓蕾中香滿襟别𣲖近傳廬阜頂孤芳元自洞庭心<lb/>
+詩人自有熏籠錦不用衣篝炷水沈<lb/>
+　　　瑞香花　　　　　　　　　<hi>宋</hi>朱淑真<lb/>
+玲瓏巧蹙紫羅裳合得東君著意妆帶露破開宜曉日<lb/>
+臨風微困怯春霜發揮名字来廬阜彈壓芳菲入醉鄉<lb/>
+<pb n="KR4h0141_WYG_339-3b"/>
+㝡是午窗初睡醒重重贏得夢魂香<lb/>
+　　五言絶句<lb/>
+　　　瑞香花　　　　　　　　　<hi>宋</hi>王十朋<lb/>
+真是花中瑞本朝名始聞江南一夢後天下仰清芬<lb/>
+　　七言絶句<lb/>
+　　　瑞香花　　　　　　　　　<hi>宋</hi>楊萬里<lb/>
+織錦天孫矮作機紫茸翻了白花枝更将沈水濃熏却<lb/>
+日淡風微欲午時<lb/>
+<pb n="KR4h0141_WYG_339-4a"/>
+　　　　瑞香花　　　　　　　　　<hi>宋</hi>闕　名<lb/>
+　廬阜當年春睡濃花名從此擅春工紫葩四迸呈鮮粉<lb/>
+　如爇仙香透錦籠<lb/>
+　　　　其二<lb/>
+　拏花簇粉烘晴日藹有濃香透逺風六曲䦨干凝睇處<lb/>
+　錦籠真似玉為籠<lb/>
+　　　　瑞香花　　　　　　　　　<hi>元</hi>楊維楨<lb/>
+　一團華葢翠亭亭萬箇丁香露欲零日炙錦熏眠不得<lb/>
+<pb n="KR4h0141_WYG_339-4b"/>
+　玉人扶起酒初醒<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選巻三百三十九<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>提要<lb/>
+                </head>
+    <p>
+<pb n="KR4d0210_WYG_000-1a"/>
+欽定四庫全書　　　　　集部四<lb/>
+　提要<lb/>
+　　漢濱集十六巻　　　　别集類三<hi>宋</hi>
+　　　　臣等謹案漢濱集十六巻宋王之望撰之望<lb/>
+　　　　字瞻叔襄陽糓城人後寓台州登紹興八年<lb/>
+　　　　進士第累遷太府少卿孝宗即位除户部侍<lb/>
+　　　　郎充川陜宣諭使洊擢至參知政事勞師江<lb/>
+　　　　淮為言者論罷乾道元年起為福建安撫使<lb/>
+<pb n="KR4d0210_WYG_000-1b"/>
+　　　　加資政殿大學士移知温州卒事蹟具宋史<lb/>
+　　　　本傳錢漙秘閣書目載有之望漢濱集而佚<lb/>
+　　　　其册數焦竑經籍志作六十巻然趙希弁陳<lb/>
+　　　　振孫兩家俱未著録則宋代已罕傳本後遂<lb/>
+　　　　散佚不存今從永樂大典中採撮裒綴所存<lb/>
+　　　　什之三四而已之望當秦檜柄國時落落不<lb/>
+　　　　合人咸稱其有守其歴官亦頗著政績惟在<lb/>
+　　　　隆興時力主和議與湯思退相表裏專以割<lb/>
+<pb n="KR4d0210_WYG_000-2a"/>
+　　　　地啖敵為得計而極沮張浚恢復之謀考宋<lb/>
+　　　　南渡之初自當以北取中原為務然惟岳韓<lb/>
+　　　　諸將可冀圗功張浚狠愎迂疎但急於立功<lb/>
+　　　　以固位實非可倚以恢復之人一敗於富平<lb/>
+　　　　而喪師三十萬再衂於淮西而叛逃者七萬<lb/>
+　　　　三挫於符離而喪師又十三萬僨轅悞國其<lb/>
+　　　　騐昭然講學家以張栻之故回䕶其父殊未<lb/>
+　　　　免顛倒是非之望之沮浚不可不謂之知人<lb/>
+<pb n="KR4d0210_WYG_000-2b"/>
+　　　　至其論和氣之策以為南北之形已成未易<lb/>
+　　　　相兼惟當移功戰之力以自守然後隨機制<lb/>
+　　　　變又以為金人制勝之謀舉無遺策加以器<lb/>
+　　　　械之利形勢之便雖漢唐全盛之時猶未能<lb/>
+　　　　輕此敵而况於今日其斟酌時勢以立言與<lb/>
+　　　　史浩意頗相近亦不可謂之不知時務特其<lb/>
+　　　　朋比小人附和權倖與浩之出於老成忠藎<lb/>
+　　　　者不同又湯思退所主者乃六國賂秦之計<lb/>
+<pb n="KR4d0210_WYG_000-3a"/>
+　　　　與浩之主於持重俟釁者亦復逈異故當時<lb/>
+　　　　重為人所抨撃而宋史亦極不滿之誅其心<lb/>
+　　　　也至其詩文則皆疏暢明達猶有北宋遺矩<lb/>
+　　　　諸劄子亦多足以考見時事與正史相參未<lb/>
+　　　　可遽廢僅釐為十六巻著之於録庶其人其<lb/>
+　　　　文是非得失各不相掩焉乾隆四十六年七<lb/>
+　　　　月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+<pb n="KR4d0210_WYG_000-3b"/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

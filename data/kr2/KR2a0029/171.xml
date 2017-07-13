@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2a0029_WYG_171-1a"/>
+　舊五代史巻八十五攷證<lb/>
+晉少帝紀五己未杜威奏駐軍於中渡橋○案通鑑甲<lb/>
+　寅威等至中度橋十二月己未帝始聞大軍屯中度<lb/>
+　胡三省注云强冦深入諸軍孤危而驛報七日始逹<lb/>
+　晉之為兵可知矣歐陽史作己未杜威軍于中渡葢<lb/>
+　以奏聞之日為駐軍之日<lb/>
+降帝為光禄大夫○光禄遼史避諱作崇禄<lb/>
+内官三十人○案遼史作内宦三人<lb/>
+<pb n="KR2a0029_WYG_171-1b"/>
+軍健二十人○案遼史作健卒十人<lb/>
+富珠哩舊作傅住兒今改　按巴堅舊作阿保機今改<lb/>
+　　綽諾錫里舊作禪奴舍利今改　舒嚕舊作述律<lb/>
+　今改<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　舊五代史巻八十五攷證<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

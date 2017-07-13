@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>古今律厯考卷四十</head>
+    <p>
+<pb n="KR3f0008_WYG_040-1a"/>
+欽定四庫全書<lb/>
+　古今律厯考卷四十　　　明　邢雲路　撰<lb/>
+　　厯法五<lb/>
+　　　厯法<hi>授時</hi>
+太陽冬至前後立成　　　盈初縮末<lb/>
+<pb n="KR3f0008_WYG_040-2a"/>
+</p>
+<p>
+<pb n="KR3f0008_WYG_040-3a"/>
+</p>
+<p>
+<pb n="KR3f0008_WYG_040-4a"/>
+</p>
+<p>
+<pb n="KR3f0008_WYG_040-5a"/>
+</p>
+<p>
+<pb n="KR3f0008_WYG_040-6a"/>
+</p>
+<p>
+<pb n="KR3f0008_WYG_040-7a"/>
+　其法以次増加自上而下若以術則各推縮初同<lb/>
+太陽夏至前後立成　　　縮初盈末<lb/>
+<pb n="KR3f0008_WYG_040-8a"/>
+</p>
+<p>
+<pb n="KR3f0008_WYG_040-9a"/>
+</p>
+<p>
+<pb n="KR3f0008_WYG_040-10a"/>
+</p>
+<p>
+<pb n="KR3f0008_WYG_040-11a"/>
+</p>
+<p>
+<pb n="KR3f0008_WYG_040-12a"/>
+</p>
+<p>
+<pb n="KR3f0008_WYG_040-13a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3f0008_WYG_040-13b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　古今律厯考巻四十<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

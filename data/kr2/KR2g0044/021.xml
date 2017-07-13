@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>八旗滿洲氏族通譜目録</head> <lb/>
+    <p>
+<pb n="KR2g0044_WYG_021-1a"/>
+欽定四庫全書<lb/>
+　八旗滿洲氏族通譜目録<lb/>
+　　卷十<lb/>
+　　葉赫地方赫舍里氏<lb/>
+　　　蓋喀穆　　　　　　瑚禄<lb/>
+　　　喀塔哈　　　　　　舒賽<lb/>
+　　　赫勒　　　　　　　武爾佳齊<lb/>
+　　　巴達爾堪　　　　　音達渾<lb/>
+<pb n="KR2g0044_WYG_021-1b"/>
+　　　泰布<lb/>
+　　　　　以上俱有𫝊<lb/>
+　　　阿普代　　　　　　奮泰<lb/>
+　　　布占　　　　　　　那爾圖<lb/>
+　　　那秦　　　　　　　那親<lb/>
+　　　齊分　　　　　　　阿克占<lb/>
+　　　米哈納　　　　　　佟肯<lb/>
+　　　武錫　　　　　　　勒得<lb/>
+<pb n="KR2g0044_WYG_021-2a"/>
+　　　根特　　　　　　　葉赫穆<lb/>
+　　　滿丕　　　　　　　三陽<lb/>
+　　　希佛訥　　　　　　阿舜布禄<lb/>
+　　　滿達爾漢　　　　　都達哈<lb/>
+　　　達蘭　　　　　　　納親<lb/>
+　　　吳爾山<lb/>
+　　　　　以上俱附載<lb/>
+　　輝發地方赫舍里氏<lb/>
+<pb n="KR2g0044_WYG_021-2b"/>
+　　　伯格　　　　　　　桑務理<lb/>
+　　　　　以上俱有𫝊<lb/>
+　　　外蘭　　　　　　　阿普達理<lb/>
+　　　達隆阿　　　　　　布占<lb/>
+　　　達福　　　　　　　圖巴海<lb/>
+　　　臯官　　　　　　　阿克敦<lb/>
+　　　胡什穆　　　　　　碩濟<lb/>
+　　　蓀達理　　　　　　科普多<lb/>
+<pb n="KR2g0044_WYG_021-3a"/>
+　　　吳爾坤　　　　　　虎實穆<lb/>
+　　　伊拉親　　　　　　固賽<lb/>
+　　　　　以上俱附載<lb/>
+　　各地方赫舍里氏<lb/>
+　　　成固爾德　　　　　文柱<lb/>
+　　　薩弼圖　　　　　　烏雅納<lb/>
+　　　胡魯穆　　　　　　圖爾哈<lb/>
+　　　遂班　　　　　　　額森<lb/>
+<pb n="KR2g0044_WYG_021-3b"/>
+　　　　　以上俱有𫝊<lb/>
+　　　多博海　　　　　　烏敏特<lb/>
+　　　楚庫　　　　　　　何紹<lb/>
+　　　特爾瑟　　　　　　諾察<lb/>
+　　　布喀　　　　　　　西喀<lb/>
+　　　瑪福納　　　　　　何正<lb/>
+　　　石漢　　　　　　　翁鄂綽<lb/>
+　　　和善　　　　　　　色徳理<lb/>
+<pb n="KR2g0044_WYG_021-4a"/>
+　　　那穆占　　　　　　三達理<lb/>
+　　　雅爾那　　　　　　傅松阿<lb/>
+　　　舒倫　　　　　　　阿寧阿<lb/>
+　　　碩佛絡　　　　　　殷春<lb/>
+　　　達爾就　　　　　　拖和倫<lb/>
+　　　成尼理　　　　　　夏漢布禄<lb/>
+　　　賽漢　　　　　　　薩克薩哈<lb/>
+　　　張古理　　　　　　納顔泰<lb/>
+<pb n="KR2g0044_WYG_021-4b"/>
+　　　珠瑪那　　　　　　何書勒<lb/>
+　　　富色克　　　　　　魁徳<lb/>
+　　　拉栁　　　　　　　金都禪<lb/>
+　　　吳科達　　　　　　巴多<lb/>
+　　　碩納　　　　　　　巴爾布哈<lb/>
+　　　揚錫　　　　　　　岱音布<lb/>
+　　　額爾何圖　　　　　唐吉<lb/>
+　　　佛爾赫　　　　　　佛科<lb/>
+<pb n="KR2g0044_WYG_021-5a"/>
+　　　哈爾泰　　　　　　鄂倫<lb/>
+　　　赫隆　　　　　　　訥爾紏<lb/>
+　　　雷瑚　　　　　　　吳合齊<lb/>
+　　　德爾瑚理　　　　　瑚穆圖<lb/>
+　　　和博勒庫　　　　　方開<lb/>
+　　　額爾塞　　　　　　博爾卓海<lb/>
+　　　瑪濟根　　　　　　多林<lb/>
+　　　西大達　　　　　　英額勒<lb/>
+<pb n="KR2g0044_WYG_021-5b"/>
+　　　鄂齊　　　　　　　吳棣<lb/>
+　　　法穆　　　　　　　和碩圖<lb/>
+　　　雅普圖　　　　　　費色<lb/>
+　　　岱喜　　　　　　　章格<lb/>
+　　　金岱　　　　　　　福勒渾<lb/>
+　　　吳爾圖　　　　　　鄂克托<lb/>
+　　　額赫訥　　　　　　古理<lb/>
+　　　　　以上俱附載<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

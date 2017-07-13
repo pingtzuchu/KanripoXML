@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>劉左史集</head>
+    <p>
+<pb n="KR4d0128_WYG_000-1a"/>
+欽定四庫全書　　　　集部三<lb/>
+　劉左史集　　　　　　别集類二<hi>宋</hi>
+　　提要<lb/>
+　　　　臣等謹案劉左史集四巻宋劉安節撰安節<lb/>
+　　　　字元承永嘉人元符三年進士官至起居郎<lb/>
+　　　　擢太常少卿出知饒州遷知宣州卒于官是<lb/>
+　　　　集不知何人所編前有留元剛序標題雖稱<lb/>
+　　　　劉左史而其文始終以周行已劉安上與安<lb/>
+<pb n="KR4d0128_WYG_000-1b"/>
+　　　　節並稱謂之三先生又祗言其氣節而無一<lb/>
+　　　　字及文集莫之詳也其集編次頗無法首以<lb/>
+　　　　奏議次以表次以疏狀是矣而以功徳疏入<lb/>
+　　　　之疏狀則為失倫又次以應酬諸啓在墓銘<lb/>
+　　　　之前又次以祭文青詞冠經義論䇿之前則<lb/>
+　　　　顛倒尤甚終以漁樵問對其名與世傳邵子<lb/>
+　　　　書同核其文亦皆相同考晁公武讀書志曰<lb/>
+　　　　漁樵問對一巻邵雍撰設為問荅以論陰陽<lb/>
+<pb n="KR4d0128_WYG_000-2a"/>
+　　　　化育之端性命道徳之奥云邵氏言其祖之<lb/>
+　　　　書也當考云云則漁樵問對有謂出自邵子<lb/>
+　　　　者有謂出自邵子之祖者均不云安節所撰<lb/>
+　　　　不知何以編入集中然以太極圖歸鶴林寺<lb/>
+　　　　僧夀涯以先天圖歸華山道士陳搏儒者皆<lb/>
+　　　　齗齗爭之以此書歸于安節而儒者未嘗駁<lb/>
+　　　　其非或亦疑以傳疑歟安節出伊川程子之<lb/>
+　　　　門其生平本末畧見附録上蔡語録三則及<lb/>
+<pb n="KR4d0128_WYG_000-2b"/>
+　　　　許景衡所作祭文墓誌中其文章亦明白質<lb/>
+　　　　實不失為儒者之言經義尤為條暢葢當時<lb/>
+　　　　太學程試之作後来八比之權輿也凡周禮<lb/>
+　　　　十一篇論語三篇孟子二篇中庸一篇其中<lb/>
+　　　　庸一篇介孟子二篇之中葢繕寫者偶失其<lb/>
+　　　　次周禮第四篇前缺四行以文義考之其題<lb/>
+　　　　當為時見曰會其佚文三行則不可復補矣<lb/>
+　　　　乾隆四十六年五月恭校上<lb/>
+<pb n="KR4d0128_WYG_000-3a"/>
+　　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="KR4d0128_WYG_000-4a"/>
+劉左史集原序<lb/>
+元祐紹聖間程先生講道伊洛東南之士多從之㳺而<lb/>
+為永嘉倡者太學博士周公起居郎給事中二劉公也<lb/>
+嗟夫人不可不知學學不可不知道世之口先王行市<lb/>
+人者其誰曰不知學哉學而不至道文章字句之間聲<lb/>
+音笑貌之末外浮而内不實言出而行不逮非學也假<lb/>
+學以文姦飾學以欺人者也是其自媒寵利與俱齊汩<lb/>
+耳禍福得䘮之衝安有所存者邪夷考三公之出處時<lb/>
+<pb n="KR4d0128_WYG_000-4b"/>
+右新學違而之他甘心擯黜曽是師伊川為茍賤乎阻<lb/>
+鄒志完於譸張旁出之時挫蔡京於熖勢方張之日不<lb/>
+移不詘何恃能爾講學之功大矣不然以位達以文名<lb/>
+前後相望也而學者於三公則祠遺像而矜式誦空言<lb/>
+而則慕亦反其本而已矣留元剛序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

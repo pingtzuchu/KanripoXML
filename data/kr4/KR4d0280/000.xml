@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>江湖長翁集目録</head>
+    <p>
+<pb n="KR4d0280_WYG_000-1a"/>
+欽定四庫全書　　　　　集部四<lb/>
+　江湖長翁集目録　　　　别集類三<hi>宋</hi>
+　　巻一<lb/>
+　　　辭賦二十首<lb/>
+　　巻二<lb/>
+　　　五言古詩七十七首<lb/>
+　　巻三<lb/>
+　　　五言古詩八十八首<lb/>
+<pb n="KR4d0280_WYG_000-1b"/>
+　　巻四<lb/>
+　　　五言古詩八十一首<lb/>
+　　巻五<lb/>
+　　　五言古詩六十八首<lb/>
+　　巻六<lb/>
+　　　五言古詩五十七首<hi>附</hi>四言四首<lb/>
+　　巻七<lb/>
+　　　七言古詩五十首<lb/>
+<pb n="KR4d0280_WYG_000-2a"/>
+　　巻八<lb/>
+　　　七言古詩四十九首<lb/>
+　　巻九<lb/>
+　　　七言古詩四十七首<lb/>
+　　巻十<lb/>
+　　　七言古詩四十二首<lb/>
+　　巻十一<lb/>
+　　　五言律詩一百九十六首<hi>附</hi>排律十首<lb/>
+<pb n="KR4d0280_WYG_000-2b"/>
+　　巻十二<lb/>
+　　　七言律詩一百零三首<lb/>
+　　巻十三<lb/>
+　　　七言律詩八十三首<lb/>
+　　巻十四<lb/>
+　　　七言律詩八十三首<lb/>
+　　巻十五<lb/>
+　　　七言律詩九十八首<lb/>
+<pb n="KR4d0280_WYG_000-3a"/>
+　　巻十六<lb/>
+　　　七言律詩九十八首<lb/>
+　　巻十七<lb/>
+　　　五六言絶句四十六首<lb/>
+　　巻十八<lb/>
+　　　七言絶句二百五十二首<lb/>
+　　巻十九<lb/>
+　　　七言絶句二百三十七首<lb/>
+<pb n="KR4d0280_WYG_000-3b"/>
+　　巻二十<lb/>
+　　　七言絶句二百二十首<lb/>
+　　巻二十一<lb/>
+　　　記十九首<lb/>
+　　巻二十二<lb/>
+　　　記十八首<lb/>
+　　巻二十三<lb/>
+　　　序二十八首<lb/>
+<pb n="KR4d0280_WYG_000-4a"/>
+　　巻二十四<lb/>
+　　　書四首<lb/>
+　　巻二十五<lb/>
+　　　書十首<lb/>
+　　巻二十六<lb/>
+　　　書十七首<lb/>
+　　巻二十七<lb/>
+　　　劄子三首<lb/>
+<pb n="KR4d0280_WYG_000-4b"/>
+　　巻二十八<lb/>
+　　　劄子十一首<lb/>
+　　巻二十九<lb/>
+　　　傳贊銘箴偈説共二十七首<lb/>
+　　巻三十<lb/>
+　　　文四十八首<lb/>
+　　巻三十一<lb/>
+　　　題䟦五十七首<lb/>
+<pb n="KR4d0280_WYG_000-5a"/>
+　　巻三十二<lb/>
+　　　論九首<lb/>
+　　巻三十三<lb/>
+　　　䇿問三十四首<lb/>
+　　巻三十四<lb/>
+　　　易説十四首<lb/>
+　　巻三十五<lb/>
+　　　誌狀十一首<lb/>
+<pb n="KR4d0280_WYG_000-5b"/>
+　　巻三十六<lb/>
+　　　表牋六十四首<lb/>
+　　巻三十七<lb/>
+　　　啟三十七首<lb/>
+　　巻三十八<lb/>
+　　　啟三十三首<lb/>
+　　巻三十九<lb/>
+　　　疏青詞九十四首<lb/>
+<pb n="KR4d0280_WYG_000-6a"/>
+　　巻四十<lb/>
+　　　致語上梁文二十六首<lb/>
+　　　　<hi>臣</hi>等謹案江湖長翁文集四十巻宋陳造撰<lb/>
+　　　　造字唐卿髙郵人淳熙二年進士官至淮南<lb/>
+　　　　西路安撫司參議遭宋不競事多齟齬自以<lb/>
+　　　　為無補於世置之江湖乃宜遂號江湖長翁<lb/>
+　　　　造既不竟其用故事功不著於當時史亦不<lb/>
+　　　　為立傳元申屠駉為造作墓誌稱其於誨誘<lb/>
+<pb n="KR4d0280_WYG_000-6b"/>
+　　　　則良師於撫字則循吏身篤操修道兼體用<lb/>
+　　　　雖金石之文稱述類多溢量而當時未聞異<lb/>
+　　　　論則亦非純構虚詞也集中如罪言一篇專<lb/>
+　　　　論應敵備用之畧盖仿杜牧而作所言雖未<lb/>
+　　　　必悉當而比於牧則不足比於陳亮劉過則<lb/>
+　　　　恢奇排奡可以肩隨其他劄子諸篇亦多剴<lb/>
+　　　　切詳明不徒託之空言記序各體捶字鍊詞<lb/>
+　　　　稍覺有傷真氣而皆謹嚴有法綜其大要猶<lb/>
+<pb n="KR4d0280_WYG_000-7a"/>
+　　　　為不失典型在南宋諸作者中亦鐵中錚錚<lb/>
+　　　　者矣至易說一卷始於无妄終於比凡十五<lb/>
+　　　　篇疑其未竟之書中多以史證經乃楊萬里<lb/>
+　　　　誠齋易說李光讀易詳説之流殆為時事而<lb/>
+　　　　發託之詁經歟其集久無刻本明季之藻以<lb/>
+　　　　淮南自秦觀而後惟造有名於時始與觀集<lb/>
+　　　　同刻之於髙郵其中青詞疏語諸篇均非文<lb/>
+　　　　章正軌今以集祗抄錄亦姑仍其舊附存於<lb/>
+<pb n="KR4d0280_WYG_000-7b"/>
+　　　　巻内云乾隆四十二年三月恭校上<lb/>
+　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

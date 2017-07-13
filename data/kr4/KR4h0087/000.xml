@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>五山紀遊</head>
+    <p>
+<pb n="KR4h0087_WYG_000-1a"/>
+欽定四庫全書　　　　　集部八<lb/>
+　五山紀遊　　　　　　　總集類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案玉山紀遊一巻元顧瑛紀遊倡和<lb/>
+　　　　之作明袁華為類次成帙者也所遊自崑山<lb/>
+　　　　以外如天平山靈巖山虎邱西湖呉江錫山<lb/>
+　　　　上方山觀音山或有在數百里外者總題曰<lb/>
+　　　　玉山游非一人而瑛為之主游非一地而往<lb/>
+<pb n="KR4h0087_WYG_000-1b"/>
+　　　　來聚㑹悉歸玉山堂也每遊必有詩每詩必<lb/>
+　　　　有小序以志歳月所與遊者自華以外為㑹<lb/>
+　　　　稽楊維楨遂昌鄭元祐呉興郯韶沈明逺南<lb/>
+　　　　康于立天台陳基淮南張渥嘉典瞿智呉中<lb/>
+　　　　周砥釋良琦崑山陸仁皆一時風雅勝流又<lb/>
+　　　　有顧佐馮郁王濡之三人里貫事迹皆未詳<lb/>
+　　　　然以其儕偶推之定非俗士矣所收不及玉<lb/>
+　　　　山名勝集草堂雅集之富而山水清音琴樽<lb/>
+<pb n="KR4h0087_WYG_000-2a"/>
+　　　　佳興一時文采風流千載下尚如將見之也<lb/>
+　　　　華已入明然其詩皆作於至正中華編是集<lb/>
+　　　　之時亦尚在至正中故不以編集之人為斷<lb/>
+　　　　而以作詩之人為斷仍列諸元代焉乾隆四<lb/>
+　　　　十三年三月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>近事㑹元</head>
+    <p>
+<pb n="KR3j0030_WYG_000-1a"/>
+欽定四庫全書　　　　　子部十<lb/>
+　近事㑹元　　　　　　　雜家類二<hi>雜考之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案近事㑹元五卷宋李上交撰上交<lb/>
+　　　　賛皇人始末未詳是書成于嘉祐元年前有<lb/>
+　　　　上交自序陳振孫書録解題曰近事㑹元五<lb/>
+　　　　卷李上交撰自唐武徳至周顯徳雜事細務<lb/>
+　　　　皆紀之錢曽讀書敏求記曰上交退寓鍾陵<lb/>
+<pb n="KR3j0030_WYG_000-1b"/>
+　　　　尋近史及小説雜記之類凡五百事釐為五<lb/>
+　　　　卷目曰近事㑹元唐史所失記者此多載焉<lb/>
+　　　　此本末題萬厯壬午元素齋録副本猶明人<lb/>
+　　　　舊鈔卷數與二家所記合其紀事起訖年月<lb/>
+　　　　與振孫所言合條數及自序之文亦與曽所<lb/>
+　　　　言合葢即原本惟振孫以為皆記雜事細務<lb/>
+　　　　今觀其書自一卷至三卷首載宫殿之制次<lb/>
+　　　　載輿服之制次載官制軍制其次亦皆六曹<lb/>
+<pb n="KR3j0030_WYG_000-2a"/>
+　　　　之掌故四卷為樂曲為州郡沿革惟五卷頗<lb/>
+　　　　載瑣聞然如婦人檐子兠籠綫鞾綫鞵親迎<lb/>
+　　　　舉樂障車公主事姑舅公主賜諡山川岳瀆<lb/>
+　　　　封號國忌行香上元㸃燈散從親事官處士<lb/>
+　　　　諡先生律格赦書投匭刑統律令死罪覆奏<lb/>
+　　　　斷獄禁樂逐旬問罪人表狀書奏制勅及始<lb/>
+　　　　流沙門島始配衙前安置始貶厓州諸條亦<lb/>
+　　　　皆有闗于典制大抵體例在崔豹古今註髙<lb/>
+<pb n="KR3j0030_WYG_000-2b"/>
+　　　　承事物紀原之間其中如霓裳羽衣曲考證<lb/>
+　　　　亦極精核不可徒以雜事細務目之振孫殆<lb/>
+　　　　未詳核其書但見其標題列説如雲仙雜記<lb/>
+　　　　清異録之式遂漫以為小説歟乾隆四十六<lb/>
+　　　　年十一月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="KR3j0030_WYG_000-3a"/>
+原序<lb/>
+儒家者流誠資博洽天下之事故有本原茍道聽之未<lb/>
+詳則賓圍而奚觧實繁廣記以避無稽嘗謂經籍之淵<lb/>
+頗易探討耳目之接或難周知上交以退寓鍾陵静尋<lb/>
+近史及諸小說雜記之類起唐武徳而下盡周顯徳<lb/>
+之前擷細務之所因庶閒談之引據如曰小不足講懵<lb/>
+則包羞聊此篇聨無誚叢脞凡五百事釐為五卷曰近<lb/>
+事㑹元爾時丙申嘉祐改元長至日也<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

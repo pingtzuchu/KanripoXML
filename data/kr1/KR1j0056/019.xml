@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="1a"/>
+大廣益㑹玉篇卷第十九<hi>凡一部</hi>
+︻水部二百八十五<hi>九百五十七字</hi>水<hi>户癸切流津也記水曰/清滌仪礼所謂玄酒也</hi>汃<hi>彼銀切西方極逺国名尓雅西至於汃国</hi>
+河<hi>戸柯切河水出崐崘山</hi>
+                    <graphic n="KR2427" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2427.png" mimeType="image/png"/>
+                    <hi>且於切水/出直路縣</hi>湯<hi>他郎切热水也又始/陽切湯湯水盛皃</hi>涪<hi>扶鳩切水名出徼外南入漢又縣名</hi>
+江<hi>古双切山海經水出㟭山</hi>湳<hi>乃感切水/出西河</hi>滇<hi>丁田切滇他又/徒年他見二切</hi>潼<hi>大紅切水岀廣漢梓潼北界南入墊江</hi>
+池<hi>除知切渟水池溏又差池</hi>渽<hi>子來切渽/水出蜀郡</hi>湔<hi>子田切水出玉壘山又/浣也又子賤切水湔也</hi>浙<hi>之列切江也發源東陽至錢塘入海</hi>
+浩<hi>胡道切浩二水盛也大也</hi>沅<hi>牛袁切水/出蜀郡</hi>涂<hi>逹胡切水出益州/又涂涂露厚皃</hi>沫<hi>亡活莫盖二切水名又水流沫也</hi>
+潝<hi>虚及於夾二切水疾声</hi>汪<hi>烏光切水/深廣也</hi>濊<hi>呼活切水声又於衛/於外二切多水皃</hi>温<hi>於魂切水名又顔色和也善也漸热也</hi>
+澐<hi>禹軍切說文江水大波</hi>泚<hi>且礼切水/清泚也</hi>漻<hi>胡巧力彫二切/浩漻清水也</hi>灊<hi>似林切水又昨塩切出巴郡岩渠</hi>
+漣<hi>力纒切詩泣涕漣漣淚下皃</hi>渢<hi>扶弓切/水声</hi>汎<hi>同上說文浮皃今/爲汎濫字孚梵切</hi>淹<hi>於炎切水出醎巂徼外東南入弱水乆也漬也</hi>
+激<hi>公的切感激也說文水礙</hi>沄<hi>有軍切沄/沄轉流也</hi>泬<hi>古穴呼决二切/泬寥天氣清也</hi>沮<hi>七余切水名出房陵又才与子預二切</hi>
+洌<hi>力折切水清易井洌寒泉</hi>沆<hi>何黨切漭/沆廣皃</hi>潏<hi>古穴切流皃又潏/水在京兆又音聿</hi>波<hi>博何切水起大波爲瀾小波爲淪</hi>
+渾<hi>后昆後衮二切水漬涌声</hi>濞<hi>普秘切水/暴至声</hi>汜<hi>孚劒切普溥也氾濫/也亦作泛又扶嚴切</hi>滕<hi>大登切詩百川沸滕水上涌也</hi>
+潣<hi>莫殞切說文流皃又音浼</hi>瀺<hi>仕减切瀺/爵水声</hi>洞<hi>逹貢徒董二切疾/流皃又深逺也</hi>湁<hi>丑入切上林賦湁潗鼎沸謂水微細涌</hi>
+<pb n="1b"/>
+瀾<hi>力安切大波日瀾</hi>灡<hi>士旦切潘/也亦同上</hi>瀏<hi>力周切/深皃</hi>況<hi>吁放切/寒水也</hi>涳<hi>口江口東二切直流也又女江切姓也</hi>
+澹<hi>徒濫余贍二切水動皃</hi>淙<hi>在宗切說/文水声</hi>沖<hi>除隆切/冲虚也</hi>灂<hi>任角切/瀺灂</hi>溷<hi>胡困切濁也楚辝丗溷濁而不分兮乱也</hi>
+滿<hi>莫卵切实也盈也溢也</hi>漂<hi>芳妙切流/也浮也</hi>潐<hi>子召切/水尽也</hi>淪<hi>力均切/没也</hi>淈<hi>古没切說文濁也一曰滒泥一曰水出皃汩字</hi>
+滑<hi>戸八切滑利古忽切滑稽</hi>浮<hi>扶尤切水/上曰浮</hi>泓<hi>於絃切/水流也</hi>洸<hi>古皇切/水皃</hi>滋<hi>子怡切水名又長也益也液也</hi>
+泆<hi>余只切說文水所蕩泆也</hi>測<hi>楚力切度/也廣深也/𥘉瓦切/泥也</hi>漏<hi>力豆切/漏泄也</hi>潢<hi>後光切汙也說文積水池又胡曠切染潢也</hi>
+澤<hi>直格切氷渟曰澤又光潤</hi>溶<hi>俞種切水/皃又音容</hi>潿<hi>音韋濁/不流皃</hi>滓<hi>壮里切/澱也</hi>瀆<hi>徒鹿反尓雅水注澮又江河淮済爲四瀆</hi>
+滛<hi>余箴切浸潤潤也又乆雨</hi>淑<hi>時六切說/文淸湛也</hi>
+                    <graphic n="KR2166" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2166.png" mimeType="image/png"/>
+                    <hi>孚袁切/大波</hi>㳬<hi>似沿切/回泉也</hi>澗<hi>古鴈切澗水出弘農又山夾水曰澗</hi>
+淺<hi>七切水淺/則前切水流</hi>清<hi>且盈切澄/也潔也</hi>滲<hi>色䕃切/滲漉也</hi>潯<hi>寺林切/旁深也</hi>㶇<hi>胡觥切方舟謂之㶇航說/文小津一曰以船渡也</hi>
+瀰<hi>莫尓奴礼二切深也盛也/亡尓切/亦弥字</hi>泙<hi>白明切/谷名</hi>泏<hi>知律切/水出皃</hi>渡<hi>徒故切說文済也廣雅去也過也</hi>
+渻<hi>所景切减也一曰水門名</hi>瀳<hi>才寸在見/二切水至</hi>洊<hi>同上又/仍也</hi>濇<hi>所力切/不滑也</hi>瀧<hi>力公切方言瀧涿謂之沾漬又音双</hi>
+潪<hi>直赤直謫二切土得水也/同上見/說文</hi>溽<hi>如属切/<graphic n="KR0668" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0668.png" mimeType="image/png"/>暑也</hi>瀸<hi>作廉切/潰也</hi>潦<hi>郎道切田水盛也亦作澇又利皓切</hi>
+濢<hi>且遂切下<graphic n="KR0668" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0668.png" mimeType="image/png"/>/遵累切汁漬</hi>淖<hi>女教切泥也溺也</hi>潰<hi>胡對切/乱也</hi>濘<hi>奴定切/泥也</hi>溟<hi>莫經切溟濛小雨荘子溟者天也</hi>
+涅<hi>奴結切染也又水中黒土</hi>派<hi>普賣切水/分别曰派</hi>瀶<hi>力金切/寒也</hi>洐<hi>胡庚切/溝水也</hi>濃<hi>乃東女容二切露多也亦作</hi>
+<pb n="2a"/>
+瀨<hi>力大切說文水流沙上</hi>濆<hi>扶文扶刎/二切湧泉</hi>涘<hi>仕几切/水涯也</hi>淦<hi>古南切說文水入船中又泥也淺也又古暗切新淦縣名</hi>
+氿<hi>居洧切側出水曰氿泉</hi>湀<hi>口决口㒞/二切流泉</hi>沼<hi>支紹切/池沼也</hi>漘<hi>視均切/河涯也</hi>潨<hi>在宗在公二切水㑹說文小水入大水</hi>
+浦<hi>配戸切水源枝注江海边</hi>
+                    <graphic n="KR4397" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4397.png" mimeType="image/png"/>
+                    <hi>巨知之移/二切水流</hi>湖<hi>戸徒切/大陂也</hi>泛<hi>孚劒切/流皃</hi>澨<hi>視裔也水名也水边地也涯也</hi>
+沚<hi>之以切小渚也亦作洔</hi>洔<hi>同上水暫益/且止未减也</hi>浞<hi>仕角切/浞漬也</hi>淊<hi>胡感切/淊泥也</hi>濳<hi>慈廉切水名又水中行也藏也</hi>
+漥<hi>烏華切牛蹄跡水亦窊同</hi>洼<hi>同上又烏/佳切汙也</hi>濯<hi>直角切/澣濯也</hi>湆<hi>去及切/煑肉汁</hi>泱<hi>於黨於良二切水深廣皃又弘大声</hi>
+洫<hi>呼域切溝廣八尺曰洫</hi>溝<hi>古侯切廣四尺/深四尺曰溝</hi>渠<hi>強魚切/溝渠也</hi>瀋<hi>充甚切/汁也</hi>汧<hi>苦田切水出扶風汧縣又水不流皃</hi>
+汕<hi>所諌切說文魚游水皃</hi>湊<hi>青豆切聚/也競進也/且罪切/新也</hi>液<hi>余右切/津液也</hi>浪<hi>力唐切滄浪水名又力宕切波浪也</hi>
+澳<hi>於六切隈也又於报切</hi>㳻<hi>七故切所/以壅水</hi>㵾<hi>且定切/寒冷也</hi>漬<hi>疾賜切/浸也</hi>沔<hi>弥善切水出武都沮縣東南入江</hi>
+決<hi>公穴切判也又呼抉切</hi>灓<hi>力桓切沃/也清也</hi>澒<hi>胡動切/水銀也</hi>滂<hi>普方切/滂沱也</hi>深<hi>式針切水名又邃也逺也又式鴆切</hi>
+注<hi>之𥙿徴孺二切灌也㵼也</hi>泳<hi>為命切遊/泳潜行也</hi>瀼<hi>而章切/露盛皃</hi>潟<hi>鹵亦切/或滷字</hi>瀷<hi>余力昌力二切水岀河南宻縣</hi>
+淜<hi>備矜切徒渉也今馮字</hi>洄<hi>胡雷切逆/流曰泝洄</hi>溾<hi>於回切/溾没也</hi>沍<hi>胡故切/閉塞也</hi>沁<hi>先林七鴆二切漢書/水出上黨榖縣</hi>
+㳂<hi>余穿切从流而下亦作沿</hi>泝<hi>蘇故切逆流/而上或作遡</hi>滅<hi>弥絶切/尽也</hi>沌<hi>徒損切/混沌也</hi>澮<hi>古會切水出平陽絳縣西尓雅水注溝也</hi>
+游<hi>以周切浮也旌旗之遊也</hi>淒<hi>且溪切寒/風雨極也</hi>瀈<hi>許韋切/竭也</hi>澽<hi>巨庶切/乾澽也</hi>蕩<hi>逹朗切漢書水出河内隂縣又音湯廣皃</hi>
+<pb n="2b"/>
+㲻<hi>奴的切沉没於水今作溺</hi>湮<hi>於神切没/也落也</hi>没<hi>莫实切/溺也</hi>灩<hi>以冉切/㶑灩也</hi>溠<hi>仄架千河二切水名又溠浙也</hi>
+渨<hi>於回切水渨曲也亦作隈</hi>滃<hi>於孔切川/谷吐氣皃/才代切/測也</hi>泊<hi>歩各切/止舟也</hi>洭<hi>墟狂切含洭縣洭水所出</hi>
+澍<hi>之樹切時雨澍生万物</hi>湒<hi>子立切雨/下也沸也</hi>
+                    <graphic n="KR1081" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1081.png" mimeType="image/png"/>
+                    <hi>居况切/往也</hi>㵐<hi>丘月切/囯名</hi>潓<hi>胡桂切說文水出盧江入淮</hi>
+澬<hi>字私子私二切雨也水名</hi>瀑<hi>蒲到切疾/風也沬也/所革切/細雨落</hi>㵧<hi>一例切/清也</hi>濼<hi>力谷力各二切水在済南又音粕波濼也</hi>
+涿<hi>猪角切涿鹿縣亦作</hi>泔<hi>古三切米/汁謂之泔</hi>滫<hi>思酒切/米泔也/力涕切/滴也</hi>渮<hi>古河切河澤水在山陽湖陵縣</hi>
+渿<hi>奴大切渿沛波皃又水声</hi>泂<hi>乎頂切逺/也与逈同/子小切/釃酒也</hi>漀<hi>口冷切/出酒也</hi>淨<hi>仕耕切魯比城門池也又求性切</hi>
+漊<hi>力主切雨主又飲酒不醉</hi>消<hi>思遥切消/息也尽也</hi>湎<hi>亡兖切/沈湎也</hi>淡<hi>徒敢切薄味也</hi>漯<hi>通合切水在東都東/武陽說文亦作<graphic n="KR0668" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0668.png" mimeType="image/png"/>
+                    </hi>
+溦<hi>亡非切小雨又亡悲切</hi>洅<hi>予雷切雷/声震也/古文/字</hi>澉<hi>古淡切/薄味也</hi>泡<hi>普交薄交二切水出山陽又流皃</hi>
+浽<hi>先悲切小雨也又奴罪切</hi>濛<hi>莫公莫孔/二切微雨</hi>滖<hi>先悲切/小雨/余廉切/進也</hi>洋<hi>以凉切水出崑崙山比又音祥</hi>
+涵<hi>户男切水澤多也或作涵</hi>涵<hi>同上又下/䧟切没也</hi>㵦<hi>思累切/滑也/匹至切/敗皃</hi>濁<hi>直角切水出斉郡廣縣又不清也</hi>
+㴶<hi>口角公渥二切霑也漬也</hi>洽<hi>胡夾切合/也霑也</hi>漝<hi>時及切/影也</hi>澋<hi>户猛切/影也</hi>漑<hi>柯賚切水出東海桑瀆覆甑山又灌注</hi>
+瀁<hi>余掌切无涯際也古文漾</hi>淅<hi>桑激之舌/二切淅洗</hi>㶕<hi>剛限切/淅也</hi>㵊<hi>女狎切/影動也</hi>湡<hi>魚俱切水出襄囯縣東今作虞</hi>
+沾<hi>知廉切益也說文他兼切</hi>澱<hi>徒見切垽/也或作</hi>瀡<hi>息/切/滑也</hi>涂<hi>直都切/塗也</hi>治<hi>除之除旣二切水又脩治也岀曲城陽縣曲山</hi>
+<pb n="3a"/>
+湟<hi>胡光切水出金城臨羌縣</hi>汾<hi>扶云切汾/水出太原</hi>沶<hi>亦之切/水名</hi>㲽<hi>乃見切/水石也</hi>汳<hi>芳萬切水出浚縣北說文音沐</hi>
+澇<hi>力髙切水名廣雅洗也</hi>潞<hi>力故切水/岀上黨</hi>派<hi>音孤水/出鴈門</hi>溑<hi>酥果切/水名</hi>洨<hi>胡交切水出常山石邑縣井涇山東</hi>
+滻<hi>所簡切水出京兆又出涕</hi>淇<hi>渠箕切水/出林慮山</hi>淔<hi>恥力切/水名</hi>涺<hi>京於切/水名</hi>渚<hi>之与切水出中丘縣逢山又小洲</hi>
+洛<hi>力各切水出/西山東北注河</hi>沇<hi>惟沔切水/名亦作流/渠致切/水名</hi>沋<hi>禹牛切/水名</hi>沽<hi>公奴切水岀漁陽塞外又音故</hi>
+潩<hi>夷記切水岀河南至宻縣</hi>泲<hi>子礼切水/名今作済</hi>涃<hi>苦頓切/水名</hi>浝<hi>莫江切/水名</hi>沛<hi>傅盖普頼二切水出遼東塞外又縣名又滂沛</hi>
+汝<hi>如雨切山海經水岀天/恩山</hi>灌<hi>古換切水/岀庐江</hi>㳶<hi>乃口切/水名</hi>泈<hi>之戎切/水名</hi>瀤<hi>乎乖切山海經獄法山瀤澤之水出焉</hi>
+洈<hi>牛爲切漢書水岀髙城縣</hi>湞<hi>音貞湞陽/縣又水名</hi>汘<hi>青田切/水名</hi>㵚<hi>扶甫切/水名</hi>淶<hi>吕開切水出代郡東南入河</hi>
+漳<hi>至裳切水出南郡臨沮縣</hi>溱<hi>仄銀切水/岀桂陽</hi>浢<hi>音豆/水名</hi>滬<hi>胡古切/水名</hi>泥<hi>奴雞切水出/郁郅縣又奴礼切濃露皃</hi>
+㵋<hi>莫解切漢書水岀豫章</hi>湘<hi>思量切水/岀零陵</hi>淄<hi>仄其切/水名</hi>
+                    <graphic n="KR2838" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2838.png" mimeType="image/png"/>
+                    <hi>直連切/水名</hi>涶<hi>吐過切与唾同又土禾切水出西河</hi>
+溧<hi>理吉切溧陽縣又水名</hi>溜<hi>力救切水/出欎林</hi>澠<hi>市陵切/水名</hi>沘<hi>音比/水名</hi>澥<hi>户買切渤澥海之别名又澥谷</hi>
+油<hi>以周切水名又麻子汗也</hi>潭<hi>徒耽切水/出武陵</hi>
+                    <graphic n="KR3828" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3828.png" mimeType="image/png"/>
+                    <hi>父于切/水名</hi>㶆<hi>之余切/水名</hi>濥<hi>余刃切洪水演天/說文水行地中</hi>
+瀙<hi>且進切水出南陽/隂</hi>滶<hi>牛刀切水/出南陽/力盎切/水名/子盈切/水名</hi>漦<hi>力之仕緇二切水名又涎沬也</hi>
+潧<hi>仄銀切水岀囯亦作溱</hi>滍<hi>直里切水/出魯陽縣</hi>濋<hi>音楚/水名</hi>潙<hi>音爲/水名</hi>演<hi>弋展切計也長也延也長流也又水門也</hi>
+<pb n="3b"/>
+漷<hi>括鑊切水岀合郷縣</hi>淮<hi>胡乖切水/岀桐柏山/山吏切/水名/莫髙切/水名</hi>潖<hi>蒲巴切/水名</hi>
+                    <graphic n="KR1948" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1948.png" mimeType="image/png"/>
+                    <hi>胡戈切水名</hi>
+泗<hi>思至切水名州名又涕泗</hi>灃<hi>孚雄切水/岀右扶風/布堅切/水名</hi>汒<hi>亡谷切/水名</hi>灞<hi>布罵切/水名</hi>渣<hi>助訝切水名</hi>
+澶<hi>視然切澶渊在頓丘縣南</hi>澧<hi>力邸切水/出衡山</hi>潶<hi>呼得切/水名</hi>濠<hi>户刀切/水名/慈忍切/水名</hi>濾<hi>力預切水名</hi>
+沭<hi>時聿切今海州沭湯縣</hi>溳<hi>干墳切水/岀蔡陽縣</hi>洢<hi>一移切/水名</hi>濰<hi>夷隹切/水名/他六切/水名</hi>汌<hi>尺恋切水名</hi>
+洙<hi>時俱切水出泰山</hi>澺<hi>於力切水/出汝南</hi>瀘<hi>力呉切/水名</hi>洇<hi>於鄰切/水名</hi>㴒<hi>盈歴切/水名</hi>灙<hi>多/切水名</hi>
+沂<hi>魚衣切水出泰山琅玡縣/思計切水/也新郪縣/思焦切/水名</hi>㶀<hi>古爻切/水名</hi>淯<hi>余熟切/水名</hi>㳀<hi>古卧切水名</hi>
+㶟<hi>力進切水出鴈門</hi>潁<hi>余頃切水/岀陽城縣/虚冝切/水名/音斜/水名</hi>湨<hi>古壁切/水名</hi>沎<hi>呼卧切水名</hi>
+浯<hi>才都切水出琅邪縣</hi>洧<hi>爲軌切水/岀陽城山</hi>㳋<hi>可求切/水名</hi>浵<hi>徒冬切/水名</hi>滁<hi>直余切/水名</hi>渘<hi>而舟切水名</hi>
+汶<hi>亡運切水出朱虚山東</hi>㶏<hi>於謹切水/出少室山</hi>澦<hi>音預灩/澦水名</hi>滆<hi>下革切/水名</hi>濲<hi>古禄切/水名</hi>汱<hi>音畎水名</hi>
+㴲<hi>胡移切水出襄囯縣</hi>濄<hi>古訛切水/出扶溝縣/古外切/水名</hi>濎<hi>的領切/水名</hi>澊<hi>七昆切/水名</hi>泘<hi>虎孤切水名</hi>
+泜<hi>丈指切水中丘也俗作沍</hi>汴<hi>皮恋切水/出又州名</hi>
+                    <graphic n="KR2446" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2446.png" mimeType="image/png"/>
+                    <hi>力舒切/水名</hi>湤<hi>式之切/水名</hi>
+                    <graphic n="KR1424" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1424.png" mimeType="image/png"/>
+                    <hi>余灼切/水名</hi>湋<hi>音韋水名</hi>
+灅<hi>力水切水岀倰靡縣南</hi>淩<hi>力徴切水/岀臨淮</hi>汜<hi>詳子切/水名/音軌/水名/託藍切水名</hi>
+                    <graphic n="KR2160" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2160.png" mimeType="image/png"/>
+                    <hi>同上</hi>
+濡<hi>音儒水出涿郡又潤也</hi>濮<hi>𥙷禄切水/出東郡/地果切/水名</hi>瀚<hi>音汗/海名</hi>淞<hi>似龍切/江名</hi>漟<hi>徒郎切溪也</hi>
+<pb n="4a"/>
+<pb n="5a"/>
+<pb n="6a"/>
+泠<hi>郎丁切水清泠也</hi>渹<hi>虚觥切水/浪声也/匹制切/水声</hi>洀<hi>之游切/水文</hi>沺<hi>徒蓮切/大水</hi>淀<hi>徒練切淺水也</hi>
+潾<hi>力眞力刃二切水清皃</hi>漴<hi>柴融切漴/漴水声也</hi>
+                    <graphic n="KR1886" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1886.png" mimeType="image/png"/>
+                    <hi>秃聾切/水声</hi>灛<hi>赤善切/水文</hi>涱<hi>陟兩切/大水也</hi>浘<hi>音尾水流皃弋支切水文又徒羅切</hi>淠<hi>匹備切水声/又匹計切</hi>
+                    <graphic n="KR2699" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2699.png" mimeType="image/png"/>
+                    <hi>呼肱切/水声</hi>汐<hi>詞歴切/水也</hi>溎<hi>於見切/水大也</hi>潡<hi>徒損切大水也</hi>
+㲺<hi>資悉切又音莭水出也</hi>氻<hi>郎得切氻/切泉声</hi>濍<hi>先公切/水声</hi>渼<hi>莫彼切/水波</hi>湠<hi>吐旦切/大水也</hi>濗<hi>莫歴切淺水也</hi>
+瀿<hi>扶元切波也水暴益也</hi>㴐<hi>莫見切滇/㴐大水皃</hi>泃<hi>古侯切/水声</hi>濤<hi>徒刀切/大波也</hi>滐<hi>巨列切/大水皃</hi>涗<hi>始銳切温水也烏感於錦切大水至</hi>沜<hi>匹半切沜/沜水流也</hi>㵗<hi>蒲氷切/水声</hi>湍<hi>他端切/急瀬也</hi>㳹<hi>於晃切/大水皃</hi>渟<hi>逹丁切水正也乎冷切水盛皃亦作涬</hi>㴽<hi>思列切瀎/悉水流也</hi>
+                    <graphic n="KR1590" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1590.png" mimeType="image/png"/>
+                    <hi>音馮/水声/户工切/大波也</hi>漡<hi>式草切/水流皃</hi>瀯<hi>音營水洄也</hi>
+湃<hi>普拜切滂湃水勢也</hi>沏<hi>𥘉乙切沏/沏流皃</hi>渱<hi>胡公切/水声/七肖切/浚波也</hi>溒<hi>于暄切/水流皃</hi>渦<hi>古禾切渦水也</hi>
+汫<hi>口冷切汫涏/小水皃又漂流</hi>滔<hi>士牢切書/洪水滔天/音聚/水声/皮恋切/氷波也/音䀨水/流也</hi>洴<hi>毗名切水澼也</hi>
+湓<hi>丕寸切水声又音盆濆也</hi>流<hi>吕州切說/文水行也</hi>
+                    <graphic n="KR3228" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3228.png" mimeType="image/png"/>
+                    <hi>火界切/水声</hi>溭<hi>七力切/波也</hi>㳁<hi>音側㳁/汳流也</hi>泞<hi>直与切水停皃</hi>
+湢<hi>音逼湢㳁水驚涌皃</hi>溘<hi>口合切水/也奄也/匹芮切/水墳声</hi>淌<hi>音唱大/波也</hi>浟<hi>余周切/水流皃</hi>港<hi>古項切水派也</hi>
+漫<hi>莫半切水平逺皃又散也</hi>溗<hi>市陵切水/不流也</hi>湱<hi>火麥切/水声</hi>㵹<hi>音桓/波也/呼逼切/疾流皃</hi>滷<hi>音魯鹹水也</hi>
+潗<hi>七立子入二切湁潗水轉</hi>灕<hi>力支切水/滲入也</hi>穀<hi>胡谷切/水声/火活切/水声</hi>淲<hi>皮留切水流皃</hi>滮<hi>同上</hi>
+<pb n="6b"/>
+浤<hi>音宏浤浤汩汩海水騰涌/皃</hi>泀<hi>音移又音/司水名</hi>源<hi>語袁切/水本也</hi>滭<hi>俾逸切/泉出皃</hi>泩<hi>朔耕切/水張也</hi>涐<hi>吾哥切水名</hi>
+灆<hi>力甘切水清力敢切𦵔也</hi>㳅<hi>力周切古/文流字</hi>瀦<hi>音猪水/所渟也</hi>洤<hi>古文/泉字</hi>㳜<hi>虚尤切/水去皃</hi>泖<hi>音柳泖泖水㒵</hi>
+濜<hi>助謹切水勢又慈忍切</hi>滉<hi>胡廣切滉/瀁波也</hi>涯<hi>五佳切/水際也/户斬切/泉也</hi>㶞<hi>奴郎切/不流皃</hi>潑<hi>蒲末切水漏也</hi>
+汀<hi>他丁切水際平沙也洲也</hi>浛<hi>户紺切水/和泥也</hi>漈<hi>莭例也/水涯也</hi>灠<hi>盧瞰切/湧泉也/切輦切/水流也/補木切水也</hi>
+浼<hi>亡旦切汗也亡罪切水流</hi>泇<hi>音加水也/又各遐切</hi>渺<hi>亡少切/水長也</hi>漜<hi>余瓦切/泥水皃</hi>濔<hi>莫比切/水流皃</hi>溯<hi>音朔水也</hi>
+㳧<hi>丑渉切㳧湜纔有水</hi>
+                    <graphic n="KR2027" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2027.png" mimeType="image/png"/>
+                    <hi>子葉切/上注/火孔切/水風也</hi>溪<hi>口兮切/溪澗也</hi>灖<hi>文彼切/流也</hi>洁<hi>音吉水也音述水名任緒釣魚処</hi>汯<hi>音宏深馮/无舟涉也</hi>湕<hi>居偃切/湕水</hi>㵢<hi>力堆切/㵢澤也</hi>湴<hi>蒲監切/水泛也</hi>淂<hi>都勒切水也</hi>
+渝<hi>弋朱切変也汙也又水名</hi>漎<hi>所蓊切又/色講切</hi>溴<hi>尺又切/水氣也</hi>渤<hi>蒲没切/渤海也</hi>
+                    <graphic n="KR1934" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1934.png" mimeType="image/png"/>
+                    <hi>匹眇切/水流也/虚劫切水也</hi>
+漕<hi>才到切水轉/運也又才刀切</hi>瀛<hi>与成切/海也/奴候切/水漚</hi>濖<hi>常預切/溝也/善含切/流也/火麥切流也</hi>
+洱<hi>亡尓而至二切水出/罷谷山</hi>㳙<hi>古玄切/小流皃</hi>㶁<hi>古伯切/水裂也</hi>澈<hi>直列切/水澄也/音/水/流皃</hi>澓<hi>防斛切澓流也</hi>
+潬<hi>大亶切江南呼水中沙堆</hi>漨<hi>扶龍切也/也澤也</hi>漮<hi>苦郎切/水虚也</hi>瀊<hi>蒲漫切/洄也</hi>㵿<hi>户了切/流皃/莫百切水流皃子昔子結子未三切水岀</hi>溏<hi>逹郎切/池也</hi>汔<hi>許訖切/水涸也</hi>㵁<hi>呼光切/水廣也/羊水切/流皃</hi>㶠<hi>羊隻切水流皃</hi>
+涹<hi>於禾切山名也溾涹濁也</hi>泑<hi>伊紏切又/音幽山名</hi>瀱<hi>居义切/井水也</hi>漪<hi>於冝切/波動皃</hi>滵<hi>莫筆切/流皃</hi>㵫<hi>女立切水動皃</hi>
+<pb n="7a"/>
+溓<hi>里兼里忝二切薄也大水中絶小水出也又含鑒切</hi>濂<hi>同上</hi>
+                    <graphic n="KR3720" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3720.png" mimeType="image/png"/>
+                    <hi>户式切/露光也</hi>澂<hi>直陵切/清也</hi>瀓澄<hi>並同上</hi>
+瀲<hi>离冉切瀲灔水溢皃又水波皃亦作儉又力驗切</hi>澰<hi>同上亦/清也/𥘉委切/北方也</hi>漼<hi>靑罪切深皃</hi>㵏<hi>同上</hi>
+洒<hi>先礼先殄二切濯也深也滌也今爲洗又所賣切</hi>洗<hi>見上注/先典切</hi>浴<hi>余玉切/洗浴也/如庶切漸温也</hi>洳<hi>同上</hi>
+瀵<hi>甫問切汾隂有水口如車輪濆沸涌出其深无限/同上見/說文/力章切/古文梁</hi>泦<hi>居六切水文也</hi>淗<hi>同上</hi>
+潎<hi>孚切波浪皃今作漂又/匹袂普結二切漂潎也</hi>濩<hi>胡郭切/煑也/七海切/淸也</hi>涎<hi>似連切/口液也</hi>
+                    <graphic n="KR2516" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2516.png" mimeType="image/png"/>
+                    <hi>同上亦作攸</hi>
+汨<hi>莫歴切說文長沙汨羅渊也屈平所沉之水</hi>漞<hi>同上</hi>淏<hi>音昊/清皃</hi>潷<hi>音筆笮/去汁也同上</hi>
+漢<hi>呼岸切漢書水岀漢陽縣東又傳曰天河也</hi>㵄<hi>古文</hi>澯<hi>七旰切/清也</hi>漿<hi>子羊切/飲也古文</hi>
+涷<hi>先侯切濯生練也又洗候切与潄同又先卜切</hi>滀<hi>仲六切/滯也/音粲水/淸皃</hi>淚<hi>力季切/涕也</hi>㴃<hi>同上俗</hi>
+漆<hi>且栗切說文水出右扶風杜陵岐山東入渭/古文</hi>茫<hi>莫郎切/倉茫也</hi>液<hi>余石切/津液也</hi>湭<hi>才周切液也</hi>
+汁<hi>之入切液也又時入切</hi>濈<hi>壯立切和/也汗出也</hi>涰<hi>音輟/注也/詞林切/深也</hi>漧<hi>古乾字/猶燥也</hi>灢<hi>奴朗切於候切冬月疊草水中</hi>泣<hi>去急切无/声出涕淚</hi>㵤<hi>矢甲切/溢也</hi>㴀<hi>匹凡切/深也/予御切/<graphic n="KR0668" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0668.png" mimeType="image/png"/>也</hi>澃<hi>居詠切淸也</hi>
+涷<hi>都聾切水名都弄切露皃</hi>沷<hi>府伐切寒/也又音弗/力定切/銖</hi>淆<hi>户交切/渾也</hi>溻<hi>他盍切/<graphic n="KR0668" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0668.png" mimeType="image/png"/>也</hi>濣<hi>鳥活切取水也</hi>
+漙<hi>徒桓切詩零露漙兮</hi>㴼<hi>𥘉六思六/二切<graphic n="KR0668" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0668.png" mimeType="image/png"/>也/音渡過/江也</hi>瀞<hi>
+                        <graphic n="KR1282" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1282.png" mimeType="image/png"/>姓切/无姤也/竹洽切/<graphic n="KR0668" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0668.png" mimeType="image/png"/>也</hi>淴<hi>音怱汲也</hi>
+<pb n="7b"/>
+浥<hi>於立切<graphic n="KR0668" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0668.png" mimeType="image/png"/>潤/詩厭/行露</hi>洶<hi>許棋切洶湧水勢盛</hi>涌<hi>俞種切/水騰波</hi>湧<hi>同上</hi>澀<hi>所立切/不骨也</hi>澁<hi>俗同上</hi>
+漸<hi>慈斂切進也又子廉切</hi>洵<hi>相均切過/水中也</hi>濺<hi>子賤切/濺水也</hi>添<hi>他兼切/益也/下刮切/不浄也/丑刮切也</hi>
+洪<hi>胡工切大也說文洚也</hi>潚<hi>桑郁切水/深淸也</hi>渙<hi>呼換切/水盛皃</hi>海<hi>呼改切大也受/百川万谷流入同上</hi>
+洚<hi>胡江胡公二切水不遵道</hi>瀌<hi>扶彪切雨/雪又音鑣</hi>㵡<hi>音雹水/激也</hi>沙<hi>所加切說文水散/石也又素何切</hi>
+                    <graphic n="KR2788" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2788.png" mimeType="image/png"/>
+                    <hi>說文同上</hi>
+活<hi>户括古未二切詩北流活/二/同上見/說文</hi>
+                    <graphic n="KR2247" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2247.png" mimeType="image/png"/>
+                    <hi>同上</hi>澩<hi>胡角切呼䔍切尓雅夏有水冬无水</hi>㶅<hi>同上</hi>
+溥<hi>怖古切大也徧也普也</hi>泐<hi>力得切石/散泐也</hi>㵠<hi>口没切/水深皃</hi>津<hi>子鄰切潤也梁也/又水渡也古作/同上出說文</hi>
+潒<hi>徒黨切水像漾也今作湯</hi>混<hi>胡本切大/也又混濁/桑没切/没也</hi>汓<hi>似流余周二切/人浮水上也</hi>泅<hi>同上又從也</hi>
+湝<hi>户皆古諧二切詩風雨湝二</hi>汦<hi>之是切氏/著止也</hi>滌<hi>音迪/洗也/普計匹賣二切說文水在丹陽</hi>渒<hi>同上</hi>
+瀀<hi>於留切渥也清也又作</hi>渥<hi>烏角切厚/也沾濡也/七雜切/沸皃/子賃切水出武安縣東又寖漬</hi>浸<hi>同上</hi>
+洏<hi>音而不塾而煑又涕流皃</hi>渜<hi>奴管奴館/二切湯也</hi>洝<hi>於旦切/渜水也</hi>泄<hi>弋逝切水名在九江又思列切漏也</hi>洩<hi>同上</hi>
+汏<hi>徒蓋切洗也較逹切過也</hi>涫<hi>古乱胡乱/二切沸也</hi>涾<hi>徒荅切/沸溢也</hi>灉<hi>紆用切尔雅水/自何出又音雍</hi>㴩澭<hi>並同上</hi>
+漉<hi>力木切竭也涸也渗漉也</hi>
+                    <graphic n="KR1847" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1847.png" mimeType="image/png"/>
+                    <hi>同上</hi>渌<hi>同上又音/緑水/也</hi>濟<hi>子計子礼二切水/出常山又渡也</hi>㴉<hi>古/文俗</hi>
+滰<hi>巨仰切乾漬米也<graphic n="KR1847" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1847.png" mimeType="image/png"/>也</hi>渉<hi>是葉切徒/行渡水也</hi>濵<hi>俌辰切/涯也</hi>瀕<hi>蒲民切說文本作頻水臣也又所賔附頻蹙不前而止亦同上</hi>
+<pb n="8a"/>
+泯<hi>弥忍弥賔二切㓕也乱也</hi>澡<hi>子老切洗/子也治也/火管切/弄水也</hi>汲<hi>涺及切/引水也</hi>涔<hi>字廉切魚寒入水又仕林切涔陽地名</hi>
+漽<hi>大兮切研米槌亦作</hi>澣<hi>乎管切/濯也</hi>浣<hi>同上/亦同上/出說文</hi>瀎<hi>莫結切㓕也又莫割切</hi>
+浾<hi>仄加切滓也又棠木汁</hi>涷<hi>力見切煑/絲熟絹也</hi>涭<hi>音受/水皃/方免切/水皃</hi>㳚<hi>桑結切㳚瀎也又呼括許月二切</hi>
+㵼<hi>思野切傾也又相夜切</hi>
+                    <graphic n="KR2969" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2969.png" mimeType="image/png"/>
+                    <hi>魚列切議/也與讞同</hi>瀠<hi>烏逈切/大水也</hi>沰<hi>他各切茖/也磓也</hi>沑<hi>仁乆切水/吏也又女六女九二切泥也</hi>
+灝<hi>公道公禫二切煑豆汁</hi>減<hi>佳斬切少/也輕也</hi>浨<hi>力感切/棃汁也</hi>準<hi>之尹切平/也俗作准</hi>渴<hi>口遏切頻飲也說文尽也亦作㵣</hi>
+渳<hi>亡俾切飲也去汁又水皃</hi>浹<hi>子叶切通/也洽也/胡咸切/又音溓</hi>浧<hi>弋井切泥/也澱/也</hi>湫<hi>子由切水名在周地又子小切溢也又疾乆切</hi>
+潘<hi>孚袁切米汁普寒切姓也</hi>㵞<hi>仕留切腹/中有水氣/音鼻/涕也</hi>㵩<hi>以丗切/葱㵩也</hi>漭<hi>莫朗切平也廣也野也</hi>
+滯<hi>直厉切凝也淹也亦作滞</hi>洿<hi>放徒切黄/洿行潦也</hi>汙<hi>同上又/一故切</hi>浰<hi>力是切/浰疾/皃</hi>瀣<hi>乎代乎介二切沆瀣氣也</hi>
+沐<hi>莫卜切濯髪也斬樹皮也</hi>
+                    <graphic n="KR1008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1008.png" mimeType="image/png"/>
+                    <hi>所班所板/二切出涕</hi>涕<hi>恥礼切/目汁出</hi>洬<hi>先䔍切/洬雨声</hi>沕<hi>亡弗切没也<graphic n="KR0813" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0813.png" mimeType="image/png"/>紛軋沕不可分子也</hi>
+頮<hi>火内切洒靣也</hi>沫<hi>同上又莫/貝切水名</hi>湏<hi>古文/沐</hi>濧<hi>大内切淸/也濡/也</hi>瀢<hi>弋水切瀢瀢魚行相隨又水流皃</hi>
+淬<hi>七内切深也染也寒也</hi>濽<hi>子旦切相/<graphic n="KR3359" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3359.png" mimeType="image/png"/>灑也</hi>㶄<hi>余廉切/相汙也/甫休切/水声</hi>洟<hi>弋之他計二切鼻液也古作</hi>
+淤<hi>於去切水中泥草又濁也</hi>溢<hi>弋質切盈/也餘也</hi>汰<hi>音太汰/過也</hi>㴓<hi>山佳切/漉米也</hi>潤<hi>如舜切水閏下也滋也又州名</hi>
+滒<hi>公娥士雅二切多汁也/呼狄切/遑遽也/所患切/洗馬也/音鐓/舵也</hi>泭<hi>方无切編木以渡又防无切水上漚</hi>
+<pb n="8b"/>
+涼<hi>力匠切薄也力將切寒也</hi>淟<hi>他殄切淟/涊垢濁也</hi>㴦<hi>居隆切/縣名</hi>淕<hi>力鞫切/凝雨也</hi>漱<hi>所又思候二切盪也亦作涑</hi>
+涒<hi>他昆切歳在申曰涒灘</hi>涊<hi>乃殄切淟/涊惡醉皃</hi>㵬<hi>音盈魯/大夫名</hi>漁<hi>語居切/捕魚也</hi>瀹<hi>弋灼余召二切煑也内菜湯中而出</hi>
+渫<hi>息列切除去也又仕洽切</hi>淍<hi>之由切帀/也或作周</hi>
+                    <graphic n="KR1006" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1006.png" mimeType="image/png"/>
+                    <hi>力甚切/寒也</hi>溛<hi>烏瓜切/渦也</hi>溹<hi>所格切水名又溹溹雨下又桑各切</hi>
+湩<hi>都貢切江南呼乳爲湩</hi>汞<hi>户孔切鈆/汞水銀滓</hi>泰<hi>托頼切侈也/驕也又滑也</hi>汗<hi>何旦切小液也又占寒切餘汗縣名</hi>
+染<hi>如切染色/又如艶切</hi>泬<hi>呼决切泬/寥空皃</hi>漚<hi>於侯地漚麻也/乆漬也又音謳</hi>淋<hi>力金切水堯也又雨下皃</hi>
+溼<hi>尸及切不燥也水流就溼</hi>濕<hi>同上說文/他合切</hi>湑<hi>思吕切清也美皃/也溢也又零露皃</hi>淰<hi>奴感切濁也水无波也又式稔切</hi>
+渰<hi>音奄雲雨皃詩有渰淒淒/仄亮切/米入甑也</hi>溔<hi>弋沼切浩溔滉/瀁水无際也</hi>汛<hi>思見所賣二切洒掃也</hi>
+涆<hi>古旦切乾也又胡肝切</hi>漺<hi>初兩切净/也泠也/息靣湏芮二切飲/也歃也又吮也</hi>灑<hi>所買切汛也大瑟也又所綺切</hi>
+泟<hi>恥京切赤也亦作䞓</hi>㵍<hi>亡本切懣/也又音閔</hi>潠<hi>酥困切噴水/也又先絹切/力兊力活二切以酒祭地或作酹</hi>
+涏<hi>徒冷切洴涏徒/切好皃</hi>
+                    <graphic n="KR3483" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3483.png" mimeType="image/png"/>
+                    <hi>乎三切或/也声轉也</hi>澻<hi>似類切所以通水/廣二尺深二尺也</hi>浚<hi>思閏切/深也</hi>濬<hi>同/上/古文</hi>
+溞<hi>先勞切淅米声又思酒切</hi>潲<hi>山教切臭/汁也潘也</hi>
+                    <graphic n="KR1566" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1566.png" mimeType="image/png"/>
+                    <hi>踈有切<graphic n="KR1566" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1566.png" mimeType="image/png"/>麫也又/所留切小便也</hi>溲<hi>同上</hi>洎<hi>巨計居器二切肉汁溥各切潗/也又徒檀切/烏錦切古/文飲字/之純是倫二切沃也淸也淑也</hi>淳<hi>同上</hi>
+漶<hi>胡館切漫漶不可知也</hi>涖<hi>力二力計/二切水聲</hi>澆<hi>公堯切薄也沃也又五弔切寒浞子</hi>
+                    <graphic n="KR1935" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1935.png" mimeType="image/png"/>
+                    <hi>同上</hi>十五卷終<lb/>
+<pb n="9a"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

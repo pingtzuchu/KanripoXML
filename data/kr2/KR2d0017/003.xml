@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2d0017_SBCK_003-1a"/>
+罪惟録列傳卷之三<lb/>
+　　皇太子傳搃論<lb/>
+明東宫不幸者六而悼恭哀冲荘敬憲懐之但以夭不與<lb/>
+自懿文以悸恭愍以廢懐献以奪不長懐冲悼懐雖夭非<lb/>
+天年献愍以亂委運且夫懿文不悸㝎不至如子惠庙弱<lb/>
+愞不任且燕以弟而乗兄似更逆至扵懐献不幸而夭亦<lb/>
+幸而夭度代庙棄羣臣南内頋晏然己乎是不可以不夭<lb/>
+者也夭之所成者大也懐冲悼懐何嘗夭而使之夭是不<lb/>
+能不夭䖏客魏之日無夀皇太子也献愍若東監國南都<lb/>
+即不能己亂或不至連盡于亂若仁廟之一年光廟之一<lb/>
+<pb n="KR2d0017_SBCK_003-1b"/>
+月幾幾以東宫亦幸而不以東宫終㢤<lb/>
+<pb n="KR2d0017_SBCK_003-2a"/>
+　皇太子列傳<lb/>
+　　皇太子標<lb/>
+懿文皇太子標髙皇帝嫡長子也太祖初渡江下太平生<lb/>
+標冨民陳廸家淂報為鎸山以紀<hi>○曰到此山者之不怕無嗣</hi>六歳受<lb/>
+經宋濓上為呉王時標方十三稱王世子代徃臨濠謁墓<lb/>
+上曰而標徃流覧風俗悉艱難從父老問吾𧺫兵渡江時<lb/>
+事以知吾創業之不易濓為輔行所過郡邑山川之神皆<lb/>
+祭以少牢厯太平訪廸家賜白金五十两還從郊壇復令<lb/>
+徧觀農家衣食辛苦指道旁荆楚曰識之古朴刑以此傷<lb/>
+不殺人洪武元年冊為皇太子郡臣請如元制以太子為<lb/>
+<pb n="KR2d0017_SBCK_003-2b"/>
+中書令不許於是凡東宫師保傅諸勲舊大臣兼頓之特<lb/>
+置賔客諭徳䓁官輔成徳性選國子生周琦王璞䓁十人<lb/>
+侍禁中讀書己又令朝廷政事並啓太子䖏分然後奏聞<lb/>
+㑹大本堂成取古今圖籍充其中後徴四方名儒伴讀太<lb/>
+子及諸王分畨夜直間與賦詩裔確故事踰太子曰造邦<lb/>
+之君身固于艱艱則思思則睿承業之君身生于安安則<lb/>
+壅壅則爽惟仁不暴惟明不惑惟劳不佚惟断不牽惟怠<lb/>
+用爽朂哉上嘗御文楼太子侍講官論漢七國亊帝問曲<lb/>
+直講官曰曲在七囯帝曰不然景帝為太子時以慱局殺<lb/>
+呉世子及為帝又輕聼鼂錯黜削諸侯七囯之変所自𧺫<lb/>
+<pb n="KR2d0017_SBCK_003-3a"/>
+汝等為諸王講此則善矣時帝嚴極教盡刑太子慈仁慨<lb/>
+然思寛通平易之政帝嘗録囚命御史袁凱送太子覆審<lb/>
+太子逓减之凱覆奏陛下法之正也太子心之慈也太子<lb/>
+事濓最謹潜心六經讀左氏傳苦諸國之事雜見濂等以<lb/>
+太子意取諸國次苐分繫之題曰春秋本末嘗持豳風圖<lb/>
+示濂曰此周家王業所自始為一言圗後濓曰願殿下此<lb/>
+心朝夕如覧圖時太子跽受教濓孫慎坐胡黨上命即濓<lb/>
+家誅濓太子伏泣願矜濓上怫曰湏汝為天子行之太子<lb/>
+懼自沉河中官汪等𧺫之帝特為太子赦濂罵曰児痴殺<lb/>
+人何與汝時凡出太子水中濡衣者越三級觧衣棄市帝<lb/>
+<pb n="KR2d0017_SBCK_003-3b"/>
+㣲時或蹌踉失道髙皇后嘗掖以行后崩太子圖如其像<lb/>
+懐之帝大刑人一曰故遺巨荆地命太子持之太子弗勝<lb/>
+曰予懼汝之弗勝也乃者為汝琢治昜汝太子曰臣聞堯<lb/>
+舜之世不雕自䟽不<graphic n="KR0866" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0866.png" mimeType="image/png"/>自完臣碩陛下存其樸矣帝怒投<lb/>
+之以器不中太子走逐之太子為失圖帝發視慟而止時<lb/>
+有誣告晋府棡隂事謂蔵兵五臺上怒促動衆太子曰勿<lb/>
+遽臣請廵邊挟與俱來棡果入朝太子為哀祈廢庻人乆<lb/>
+棡自艾𣸪其爵二十四年擬遷都関中命太子徃視方渡<lb/>
+江雷起東南上傳諭此威震之兆也慎之還献関中地圖<lb/>
+仍使吏部尚書詹徽佐太子録囚太子咸如前徽輙重附<lb/>
+<pb n="KR2d0017_SBCK_003-4a"/>
+而先入奏至太子奏帝帝曰徽所執是法也太子頓首臣<lb/>
+聞立國之道仁厚為本法者附也非所以附帝益怒曰孺<lb/>
+子乃教我太子坐悸明年病且革語世子曰死我者詹徽<lb/>
+也四月薨禮官具䘮禮上為服齊衰十二日不忍除己狥<lb/>
+所請謚曰懿文祔葬孝陵之次惠宗即位追尊為孝康皇<lb/>
+帝廟號興宗燕師入削帝號復稱懿文皇太子萬暦中太<lb/>
+甞少卿謝杰奏太子誼至親分最貴歲行九祭祭之以文<lb/>
+稱御名乃僅以祠祭署之奉祀主之非禮乞從哀冲荘敬<lb/>
+例遣矦伯䓁官行礼從之弘光𥘉復孝康帝號不宗<lb/>
+論曰使懿文長視燕當奈何觀晋王棡太祖時便藏兵<lb/>
+<pb n="KR2d0017_SBCK_003-4b"/>
+　五臺則擁三護衞者之昜動可知也太祖既重慮太<lb/>
+　子仁柔而與論漢七國事廼歸罪輕聼鼂錯之黜削似明<lb/>
+　教燕他日壬午之故吾以此有逺計焉夲或撥而枝豊<lb/>
+　猶足恃也顧七國時寔由孝文姑息飬禍然建文中或<lb/>
+　亦有賜几杖老不朝諸權冝尚足支吾主兵者絶無周<lb/>
+　亞夫而遽以黜削不再計乎太祖曰果如漢文亦可澹釁<lb/>
+　然則非以教太子所以教太孫者至矣太子受經濂濓不<lb/>
+　䏻教其孫太孫在治傾聼濓門人正學正學不䏻寕其<lb/>
+　君搃不觧太祖文楼之諭矣夫錯之學寡情正學直以<lb/>
+　不及情學錯之學乎是故無情之理不足以治世<lb/>
+<pb n="KR2d0017_SBCK_003-5a"/>
+　　皇太子文奎<lb/>
+㳟愍皇太子文奎惠宗長子也洪武二十九年十月之晦<lb/>
+生上以日月皆終意不懌建文元年立為皇太子燕兵入<lb/>
+年七歲矣弟文圭方二歲並廢為庻人幽中都廣安宫英<lb/>
+宗復辟感南内事曰建庻人無罪請于太后出之左右㣲<lb/>
+語帝事或未可帝曰有天命者任為之乃令太監牛玉入<lb/>
+幽宣諭文奎己六十有二矣子年亦四十許大率配偶失<lb/>
+倫上不問文圭年五十有七尚不識牛馬詔建宅鳯陽歲<lb/>
+給薪米聼婚娶出入自便又與閽者二十人婢妾十餘人<lb/>
+給使令庻人後不傳弘光𥘉追復皇太子謚以㳟愍與諸<lb/>
+<pb n="KR2d0017_SBCK_003-5b"/>
+王允熥允熞允　俱祔孝康陵<lb/>
+　論曰𥘉譲皇果從尹昌隆之言恭詞召燕燕當奈何及<lb/>
+　金川急果虗左迎譲位燕又當奈何蹇出自焚义不及<lb/>
+　引二子奎圭並殉而俾有廣安之錮帝即决不如毅廟<lb/>
+　之死社禝為更烈㢤按文奎与慈烺俱不幸然慈烺𥘉<lb/>
+　奉䖏分或倖淂脱若文奎在燕時萬無可倖則何不並<lb/>
+　殉之為愈也或曰讓皇嘗出亡矣夫滇南㳺息与鳯陽遺<lb/>
+　　孽萬一交通文皇寕不過慮何俟英庙之破廣安㢤英庙自念<lb/>
+　　南内頗似鳯陽遂有自便之詔不必建庶人無後天命一<lb/>
+　　語則又感見濟之不長正非人力所能為也給婢妾使令<lb/>
+<pb n="KR2d0017_SBCK_003-6a"/>
+　　庻人子亦當有子迹繆恭之請封鑿有所指而䘚無所<lb/>
+　　見曰建庻人不敢有沒<lb/>
+<pb n="KR2d0017_SBCK_003-6b"/>
+<pb n="KR2d0017_SBCK_003-6b"/>
+　　皇太子見濟<lb/>
+懐献皇太子見濟代宗長子母杭妃景㤗三年以思明土<lb/>
+酋黄<graphic n="KR0939" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0939.png" mimeType="image/png"/>奏廢皇太子見深立子見濟為太子𥘉<graphic n="KR0939" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0939.png" mimeType="image/png"/>以功厯<lb/>
+都指揮使守偹潯州而其庻兄<graphic n="KR1215" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1215.png" mimeType="image/png"/>時為思明土知府<graphic n="KR1215" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1215.png" mimeType="image/png"/>老<lb/>
+二子鈞庻而長銶嫡而少<graphic n="KR1215" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1215.png" mimeType="image/png"/>欲以鈞代而銶怨<graphic n="KR0939" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0939.png" mimeType="image/png"/>計陽助<lb/>
+鈞而襲之矯軍門偽微兵思明令其子政夜集驍悍数百<lb/>
+人猝䧟城殺<graphic n="KR1215" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1215.png" mimeType="image/png"/>支觧鈞納甕中瘞後圃潜歸佯言盗入思<lb/>
+明府明日錄入城舉哀請<graphic n="KR0939" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0939.png" mimeType="image/png"/>為捕盗<graphic n="KR0939" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0939.png" mimeType="image/png"/>走思明彂䘮迹屍<lb/>
+不淂復大慟偽榜急捕盗方<graphic n="KR0939" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0939.png" mimeType="image/png"/>子殺<graphic n="KR1215" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1215.png" mimeType="image/png"/>時<graphic n="KR1215" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1215.png" mimeType="image/png"/>有僕福童見<lb/>
+<graphic n="KR0939" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0939.png" mimeType="image/png"/>子并識其左右人脱走訴憲司副使劉仁宅計縛<graphic n="KR0939" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0939.png" mimeType="image/png"/>二<lb/>
+<pb n="KR2d0017_SBCK_003-7a"/>
+子亦誘執<graphic n="KR0939" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0939.png" mimeType="image/png"/>于潯繫廣西獄<graphic n="KR0939" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0939.png" mimeType="image/png"/>惧使人謀于侍郎江渊淵<lb/>
+令<graphic n="KR0939" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0939.png" mimeType="image/png"/>遣千户袁洪走奏請立見濟為太子䟽畧曰徃駕䧟<lb/>
+鹵廷㓂至都門㡬䘮社禝不有皇上臣民何歸今踰二年<lb/>
+皇儲未定臣惟人心昜摇多言難㝎争奪一萌禍亂不息<lb/>
+皇上即循遜譲之羙恐事机叵測反覆靡常近觀天象土<lb/>
+星逆行入太㣲垣與諸灾變皆可畏憚願早留意萬一羽<lb/>
+翼長飬勢權轉移委爱子于他人寄空名于大寳階除之<lb/>
+下変為㓂仇肘腋之間自相殘蹙此時悔且晚矣乞與親<lb/>
+信文武大臣宻㝎大計以安中外之心以絶覬覦之望上<lb/>
+得䟽大喜曰萬里外乃有此忠臣亟下廷臣㑹議且令釋<lb/>
+<pb n="KR2d0017_SBCK_003-7b"/>
+<graphic n="KR0939" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0939.png" mimeType="image/png"/>罪與陞都督于是禮部尚書胡濙侍郎薛琦鄒幹集文<lb/>
+武群臣廷議相頋莫敢彂乆之司禮太監興安厲聲曰此<lb/>
+事不可己即以爲不可者勿署名陳循㘴左足而草奏請<lb/>
+署名于是群臣皆唯唯魏國公徐承宗暨寕陽侯陳𢡟等<lb/>
+㐮城伯李瑾等駙馬都尉薛桓等都督孫鏜䓁錦衣衞指<lb/>
+揮畢旺等尚書胡濙等左都御史王文等侍郎江淵等通<lb/>
+政司李錫等少卿張固等寺丞李茂䓁翰林學士啇輅等<lb/>
+六科都給事中李讃等十三道御史王震等上言陛下<graphic n="KR0574" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0574.png" mimeType="image/png"/>
+天明命中興邦家統緒之傳冝歸聖子黄<graphic n="KR0939" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0939.png" mimeType="image/png"/>奏是制曰可<lb/>
+上請聖母上聖皇太后太后言老婦髦矣願社稷安天下<lb/>
+<pb n="KR2d0017_SBCK_003-8a"/>
+得太平人心既如此不可拂遂令禮部具儀擇日以聞五<lb/>
+月甲午立皇子見濟為皇太子廢汪皇后立見濟母杭妃<lb/>
+為皇后詔曰天祐下民作之君寔遺安于四海父有天下<lb/>
+傳之子斯夲固于萬年此一聯出吏部尚書何文渊口授<lb/>
+于是簡置東宫官及群臣陞秩有差大赦天下先一日陳<lb/>
+儀仗奉天門有男子執赤挺直入擊香亭左右不及禦奮<lb/>
+呼曰先打東方甲乙木不知何謂内使急前縛男子以聞<lb/>
+詔付錦衣獄不及勘瘐死部議太子㓜百官朝朔望以栁<lb/>
+詩于謙充正副使持節更封故太子為沂王以后兄杭聚<lb/>
+為錦衣衛正千户四年二月太子冠命胡濙持莭掌冠高<lb/>
+<pb n="KR2d0017_SBCK_003-8b"/>
+糓賛冠蕭鎡宣戒勑亦冠沂王及荣王見清十一月太子<lb/>
+薨謚懐献葬西山太上𣸪辟監王誠舒良伏誅陳循江淵<lb/>
+彂戍鉄嶺商輅等廷杖除名為民王直高榖皆致仕文淵<lb/>
+以先致仕虞禍咽金死而都督黄<graphic n="KR0939" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0939.png" mimeType="image/png"/>聞之亦飲藥自盡上<lb/>
+命彂<graphic n="KR0939" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0939.png" mimeType="image/png"/>棺劚屍<graphic n="KR0939" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0939.png" mimeType="image/png"/>子政皆伏誅始署議時獨尚書王直有<lb/>
+難色不敢異科臣林聦李侃御史朱瑛力陳不可奏入而<lb/>
+太子見濟已立直歸奉所賜金擊案頓足曰此何等天事<lb/>
+岀蠻子口吾軰不能諍媿死矣累䟽求退而侃受新陞應<lb/>
+天府丞聦陞右春坊司直不辭天順元年復沂王東宫降<lb/>
+懐献復為卋子成化𥘉修英廟寔録史舘欲書江淵為<graphic n="KR0939" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0939.png" mimeType="image/png"/>
+<pb n="KR2d0017_SBCK_003-9a"/>
+草䟽丘濬曰此殊昜辨岀江公手必京師奏本楮否者<graphic n="KR0939" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0939.png" mimeType="image/png"/>
+自用圡産也騐之非奏本而淵免于深論<lb/>
+　論曰黄<graphic n="KR0939" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0939.png" mimeType="image/png"/>無其兄<graphic n="KR1215" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1215.png" mimeType="image/png"/>帝得䟽安淂不大喜頋此事難苐<lb/>
+　一言江淵借<graphic n="KR0939" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0939.png" mimeType="image/png"/>彂難即不為<graphic n="KR0939" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0939.png" mimeType="image/png"/>草䟽授指之律首論無<lb/>
+　辭也而瓊山乃因奏楮寛其特書哉陳循以内閣跪請<lb/>
+　致王直高糓胡濙軰素以奉迎朝門為切切者亦不能<lb/>
+　自異盖臨以至尊之勢強以衆論之同且係天子家事<lb/>
+　非他議之可獨見者此若于謙故以失國為辭益噤不<lb/>
+　能自食其言矣幸而懐獻不禄向使景皇病不起懷獻<lb/>
+　代立南錮開能不再見壬午故事乎即否沂王挟南宫<lb/>
+<pb n="KR2d0017_SBCK_003-9b"/>
+　之恨請還故東宫欲一見太上則為禍正未已已也惜<lb/>
+　諸臣将順急無念及此者天順之𥘉冝付循文淵滋䓁<lb/>
+　西市而謙以定社禝大勲劳宥為民襄迎有無不必問<lb/>
+　也若男子赤梃事大類萬暦中風差風差非風不淂不<lb/>
+　名之為風赤挺男子似風然寔非風者以風差為非風<lb/>
+　而滋多口斃赤梃于獄而滿朝捫舌則赤梃而外皆風<lb/>
+　矣雖然香亭一擊甲乙之木不拱東方詛咒亦毒矣而<lb/>
+　獨不淂其名天順中少此一䘏<lb/>
+<pb n="KR2d0017_SBCK_003-10a"/>
+<pb n="KR2d0017_SBCK_003-11a"/>
+　　皇太子祐極<lb/>
+悼恭皇太子祐極憲宗長子栢賢妃所生萬貴妃以為子<lb/>
+成化七年甫三歲十二月立為皇太子越月上旬彗星見<lb/>
+東方明年正月皇太子患痘瘡薨塟西山時有左道李孜<lb/>
+省能致太子䰟與貴妃相見<lb/>
+　論曰萬貞兒豈冝使之有子既無子豈冝使子栢賢妃<lb/>
+　之子且以立為皇太子者使之子甫月餘而天以彗除<lb/>
+　之而紀淑妃始不病痞不然孝廟即六歲胎髪委背豈<lb/>
+　敢以微見即見之帝帝亦不能遽曰類我當時左道李<lb/>
+　孜省能白日致太子䰟貞免欲見太子太子敢不䰟見<lb/>
+<pb n="KR2d0017_SBCK_003-11b"/>
+<pb n="KR2d0017_SBCK_003-11b"/>
+　　皇太子載<graphic n="KR1033" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1033.png" mimeType="image/png"/>載壑<lb/>
+哀冲太子載<graphic n="KR1033" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1033.png" mimeType="image/png"/>世宗長子也母曰閻䴡嬪上即位十二年<lb/>
+始得太子既越月當名諭礼部尚書夏言曰皇子命名有<lb/>
+敕諭故事乎言曰臣讀内則篇此夫婦對語非命子詞姆<lb/>
+先相曰母某敢用時日祗見孺子夫對曰欽有帥父執子<lb/>
+右手咳而名之妻對曰記有成上曰其儀上先日告太廟<lb/>
+寝殿至日保姆抱皇子于寝宫擇内夫人敬順者使剪髪<lb/>
+㽞角上皮弁御乾清宫皇后率䴡嬪具服見行四拜禮畢<lb/>
+皇后侍立東面䴡嬪後保姆抱皇子出寝西至殿内授后<lb/>
+内賛奏曰皇后率䴡嬪閻氏敢用吉日祗見皇子上降座<lb/>
+<pb n="KR2d0017_SBCK_003-12a"/>
+命制詞遂執皇子之右手而賜之名曰載<graphic n="KR1033" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1033.png" mimeType="image/png"/>皇后敬對畢<lb/>
+左還授皇子于保姆皇后率嬪再四拜次日上御奉天門<lb/>
+以皇子名勅禮部宗人府籍玉牒越月皇子薨勅曰朕荷<lb/>
+天眷予丈夫子雖即云亡然嘗告之皇天皇祖詔示中外<lb/>
+将冊命之矣其謚曰哀冲皇太子<lb/>
+荘敬皇太子載壑世宗第三子也以嘉靖十五年生母曰<lb/>
+王昭嬪娠時嬪夢神人星冠羽衣予之嬰児生三日上祭<lb/>
+告郊庙皆加太牢一頒詔朝鮮安南二國盖創禮也十八<lb/>
+年上将視顯陵因立為皇太子使監國并封次所生皇子<lb/>
+為𥙿王又次為景王同日受冊寳于文華殿故事冊立皇<lb/>
+<pb n="KR2d0017_SBCK_003-12b"/>
+太子于文華殿諸王奉天門東廊而己中官誤以皇太子<lb/>
+冊寳上宫中而𥙿王冊寳乃在太子所上不問太子雖立<lb/>
+㓜未見群臣也上自顯陵還疾良乆其明年得方士段朝<lb/>
+用将令太子監國而退行修挕之方諸大臣固争太僕卿<lb/>
+劉最以諌死其冬詞臣羅洪先唐時春等請以明歲朝賀<lb/>
+見太子于羣臣上怒曰諸歸誠儲貳有必君父心其皆革<lb/>
+職為民又明年御史楊爵極言朝政上復大怒吾其傳也<lb/>
+爵坐繫獄二十年上又以乆病欲傳位太子禮部尚書宷<lb/>
+請上以獻歲御朝上復恚曰爾等謂吾病矣即此新序傳<lb/>
+位太子于是群臣莫敢請上朝者然太子寔弱不任年十<lb/>
+<pb n="KR2d0017_SBCK_003-13a"/>
+四而冠冠二日薨太子生而靈静不恱紛華上方好神仙<lb/>
+以其動有仙氣異之既疾作忽北面拜地別帝曰児出矣<lb/>
+遂薨上痛甚諭群臣自引不孝禮官議喪禮上及百官期<lb/>
+上謂天子絶朞令百官齊衰哭臨冊謚曰荘敬工部尚書<lb/>
+頋可學言皇太子冠其日風壊㤗折坊二日逝㤗與太同<lb/>
+未婚而死曰折爾雅曰方澤㤗圻祭地也請昜折以圻以<lb/>
+基後祥不聼<lb/>
+　論曰帝急𣣔一試為父禮哀冲方賜名閱月夭追尊皇<lb/>
+　太子予謚曰其将冊命之矣以将冊為己建創制也荘<lb/>
+　敬数齡得立特詔四彛亦創制好陳古則而多臆行帝<lb/>
+<pb n="KR2d0017_SBCK_003-13b"/>
+　以為此禮矣廷臣力争太子監國重得罪継又請明年<lb/>
+　朝賀太子𣸪重淂罪指前後殊曰帝獨諱老也荘敬星<lb/>
+　冠羽衣入始無疾而拜别以折何怪乎世廟之晚惑青<lb/>
+　詞也㢤<lb/>
+<pb n="KR2d0017_SBCK_003-14a"/>
+<pb n="KR2d0017_SBCK_003-15a"/>
+　　皇太子翊釴<lb/>
+憲懐皇太子翊釴穆宗長子也五歲薨贈𥙿世子隆慶元<lb/>
+年追謚憲懐皇太子<lb/>
+　　皇太子慈甲皇太子慈乙<lb/>
+懐冲皇太子慈甲熹宗長子母范貴妃天啓三年十月生<lb/>
+明年二月薨追謚懐冲皇太子塟西山𥘉誕時客民與逆<lb/>
+魏合謀叵測時有雨雹黄霾之変礼部尚書林堯俞曲曉<lb/>
+諸璫以古今順逆報應大略遂有竦動泣下者客魏之計<lb/>
+亦沮五年皇苐二子慈乙生母任容妃詔陞妃父春為錦<lb/>
+衣千戸亦于明年六月薨追謚為悼懐皇太子塟西山<lb/>
+<pb n="KR2d0017_SBCK_003-15b"/>
+　論曰未册而輒追謚称皇太子憲懐從丗廟哀冲例哀<lb/>
+　冲悼懐從穆庙憲懐例也頋天啓中二太子何其若客<lb/>
+　魏意如此<lb/>
+<pb n="KR2d0017_SBCK_003-16a"/>
+　　皇太子慈烺<lb/>
+献愍皇太子慈烺毅宗長子也母周皇后崇禎元年冊立<lb/>
+為皇太子次子慈炤早世追封懐王謚隱塟西山三子慈<lb/>
+煥四子慈燦俱田貴妃生慈煥封永王慈燦封㝎王甲申<lb/>
+三月李賊東犯凡請太子監國南都者為李邦華李國禎<lb/>
+項煜李明睿史可法姜曰廣䓁皆不果賊圍京師急十九<lb/>
+日帝硃書諭内閣傳成國公朱純臣提督内外諸軍事夹<lb/>
+輔東宫内臣持諭至閣閣無人置案返上不知也及殉社<lb/>
+稷猶以閣臣得硃諭書襟遂有百官伹赴東宫行在之語<lb/>
+先是别有㫖太子二王送周田二戚臣家及城破太子倉<lb/>
+<pb n="KR2d0017_SBCK_003-16b"/>
+䘚詣周奎叩門不淂入復走㐮城伯李國禎家家無人踰<lb/>
+垣為賣漿嫗所覺間聞奎奎懼不識内臣淂太子以献賊<lb/>
+自成㽞之西宫封為宋王太子不為屈初偽丞相牛金星<lb/>
+方入朝有衲衣僧遮告曰願上急事金星停轡問之僧曰<lb/>
+明江山已入李家即未見太子處分金星以非所冝言怒<lb/>
+命左右提之僧笑曰和尚只一頭值甚若軰頭許萬将柰<lb/>
+何逐之数武忽不見己自成以太子付旗鼓王體中𬋩押<lb/>
+其永㝎二王令将軍劉宗敏收之許太子便服一謁東華<lb/>
+門大行帝后前體中號白相公河南洧川人也奉賊令栲<lb/>
+責故相魏藻徳等贖金訖間語太子及故亊太子曰己矣<lb/>
+<pb n="KR2d0017_SBCK_003-17a"/>
+苦先帝不然我果以史可法為督師唐通孫甲為将寕至<lb/>
+是因為體中草箑題杜詩秋興之一　聞道長安云云後署<lb/>
+故明皇太子慈烺書及賊東禦吳三桂三桂父吳襄及太<lb/>
+子二王俱在軍中敗還過通州西門有父老涕泣進果及<lb/>
+履于太子二王者己而體中挾太子随賊奔潼関此箑裂<lb/>
+両板矣自成死辰州之羅公山體中北歸箑猶在十一月<lb/>
+體中獻太子以付禮部傳故明官監等往襍認皇親周奎<lb/>
+太監賈應庚不認百姓閧毆之隨有認者保者　民十數<lb/>
+人俱坐死收太子刑部獄中太子曰謝先生尚在乎謝陞<lb/>
+至手書天字示太子無所答俄獄官進酒太子以獄官亦<lb/>
+<pb n="KR2d0017_SBCK_003-17b"/>
+曾逮事先帝為細述本末欷歔絶時部臣錢鳳覽手疏力<lb/>
+争以為真太子保騐有証在部五日悲歡言動絶無粉飾<lb/>
+朝論以太子必不真着錦衣衛重處而鳳覽亦坐誅後數<lb/>
+月謝陞出朝忽發狂口稱明太子令錦衣衞疾拏謝陞去<lb/>
+陞即日死福王立南都随有偽定王事以癎疾放言棄市<lb/>
+未㡬序班髙夣箕奏故太子在浙詔舊内官李継周即金<lb/>
+華觀音寺奉太子抵南都權住興善寺復命司礼監馬朝<lb/>
+進同東宫伴讀丘志忠䓁視之不識于是輔臣馬士英宻<lb/>
+請追謚先太子及永㝎二王以絶衆望太子謚献愍永王<lb/>
+謚悼㝎王謚哀有詔不許通私謁三月一日移太子入宫<lb/>
+<pb n="KR2d0017_SBCK_003-18a"/>
+越両日太子與髙成穆虎俱赴中城獄左都御史楊維垣<lb/>
+言駙馬都尉王昺姪孫王之明状醜酷類先太子奉㫖㑹<lb/>
+審大明門外兵科載英覆奏王之明假冐是實先帝嘗携<lb/>
+太子中左門親鞫吳昌時東宫立何䖏而不能荅問以嘉<lb/>
+㝎伯姓名亦不能荅遂有内官宻䟽云初東宫足骭異于<lb/>
+常形每骭則㕠莫之能誣随令盧太監宻語馬士英細閲<lb/>
+之士英䟽曰其言雖似骭則猶人且云既為東宫幸脱虎<lb/>
+口不即詣官却走紹興一疑東宮原質凝重此人機辯百<lb/>
+出二疑公主現飬周奎家而云己死三疑且左懋第在北<lb/>
+貽書蔡奕琛云先有假太子事是太子不死于㓂即死于<lb/>
+<pb n="KR2d0017_SBCK_003-18b"/>
+北朝矣奉詔復審于是三法司定招王之明係髙陽人駙<lb/>
+馬王<graphic n="KR3123" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3123.png" mimeType="image/png"/>孫家破南奔欲投寕南軍中遇髙夣箕家人穆乕<lb/>
+教以詐冒東宫非出己意次日髙夣　箕䟽云奸謀已露而御<lb/>
+史陳以瑞都察院掌院李沾並䟽詐冐上曰王之明勿驟加<lb/>
+刑俟正告天下然後盡法時有詩流傳東南不知何人所作<lb/>
+<hi>詩曰百神䕶蹕賊中来㑹見前星閉復開海上扶蘓原未死獄中病己又奚猜安危定是関宗忠義何曽到鼎台</hi>
+<hi>烈烈大行何䖏遇普天空向棘圜哀</hi>於是各鎮懐疑廣昌伯劉良佐寕南侯<lb/>
+左良玉各有䟽争之工部郎何楷䟽稱東宫甚明靖南侯<lb/>
+黄淂功亦䟽且勿加刑再待詳審江防督撫袁継咸日衣<lb/>
+悲憤且云各鎮武夫尚懐忠義以為先帝一脉紛紜角奏<lb/>
+<pb n="KR2d0017_SBCK_003-19a"/>
+我等讀聖賢書織君臣之義豈可依違苟且與馬阮諸臣<lb/>
+同負罪子先帝㑹有王妃童氏以間関自陳詔獄死人心<lb/>
+益憤於是左良玉挾文武二十七人合䟽𧺫兵以太子皇<lb/>
+后為名號清君側詔撤黄徳功等師以禦上流北兵遂下<lb/>
+五月辛卯帝奔蕪湖不返次日百姓集七八千人詣獄褁<lb/>
+出偽太子入西華門坐武英殿取戯具翊善冠頂之群臚<lb/>
+呼萬歲之明自殿中傳示略曰先皇帝竒禍凡有血氣裂<lb/>
+眦痛心注予小子奔投南都寔欲哭陳大義不意臣奸蔽<lb/>
+障桎梏幽獄今福邸聞聲逺遁其如髙皇帝陵寝何頼父老<lb/>
+民人抱持出獄擁入皇宫予身負重冤豈忍遽自尊<lb/>
+<pb n="KR2d0017_SBCK_003-19b"/>
+此布告在京勲舊文武先生暨士庻人等念此痛懐克勤<lb/>
+㑹議予當拱聼共抒皇猷勿以前不識予稍生嫌芥甲午<lb/>
+釋王鐸髙夢箕扵獄咸以為大學士夣箕出獄即逃馬士<lb/>
+英居第百姓立焚刼盡亦随盡阮大鋮楊維垣陳盟諸家<lb/>
+乙未留都門開豫王問太子何在忻城之龍以之明對須<lb/>
+史之明至王離席迎㘴己右及福邸𬒳執王令㘴偽太子<lb/>
+下云先帝自有子如此輒自立又刑苦之竟不即討賊何<lb/>
+意福邸不能荅北凱偽太子不知所終<lb/>
+　論曰余讀科臣李清偽太子紀事有云偽太子与髙夢<lb/>
+　箕家人穆　中途狎謬云我王子乆之見江南無不懐<lb/>
+<pb n="KR2d0017_SBCK_003-20a"/>
+　思故太子者遂易語皇太子以媒利及奉詔襍認講官<lb/>
+　中允劉正宗司業李景濓先言故太子眉長扵目此非<lb/>
+　真西宫袁妃云太子有乕牙足下有痣不果問講讀何<lb/>
+　所誤以端敬為文華問講讀先後誤以先讀為先講問<lb/>
+　冩倣何字誤以孝經為詩句問寫字㡬行講讀問難幾<lb/>
+　次講案何物俱不䏻對雖正宗景濂彼亦不識也継又<lb/>
+　問親鞫吳昌時事及嘉㝎伯姓名皆不䏻荅閣臣王鐸<lb/>
+　大言是假又發總憲李沾始跪乞憐自供王昺從孫之<lb/>
+　明非太子手蹟付沾㩀奏時召對群臣上淚下不成語若<lb/>
+　曰果故太子即以為皇太子若不真為欷歔嗟乎天故<lb/>
+<pb n="KR2d0017_SBCK_003-20b"/>
+　生一偽以疑真導乱㦲而所為王之明者又倒讀為明<lb/>
+　之王似有意諱之者疑却使人易信且適有童妃𬒳鞫<lb/>
+　一事則信者故外之而使為疑真偽淆惑中外遂以上<lb/>
+　不念骨肉𤇺火最急人情益觧散嗟乎雖人事亦天道<lb/>
+　因之矣<lb/>
+<pb n="KR2d0017_SBCK_003-21a"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_443-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選巻四百四十四<lb/>
+　　戴勝類<lb/>
+　　　七言古<lb/>
+　　　　戴勝詞　　　　　　　　　<hi>唐</hi>王　建<lb/>
+　戴勝誰與爾為名木中作窠牆上鳴聲聲催我急種榖<lb/>
+　人家向田不歸宿紫冠綵綵褐羽斑銜得蜻蜓飛過屋<lb/>
+　可憐白鷺滿緑池不如戴勝知天時<lb/>
+<pb n="KR4h0141_WYG_443-1b"/>
+　　　五言排律<lb/>
+　　　　織鳥　　　　　　　　　　<hi>唐</hi>張　何<lb/>
+　季春三月裏戴勝下桑来暎日華冠動迎風繡羽開候<lb/>
+　驚蠶事晩織向女工裁旅宿依花定輕飛遶樹廽欲過<lb/>
+　髙閣栁更拂小庭梅所寄一枝在寜憂弋者猜<lb/>
+　　　七言絶句<lb/>
+　　　　題載勝　　　　　　　　　<hi>唐</hi>賈　島<lb/>
+　星㸃花冠道士衣紫陽宫女化身飛能傳上界春消息<lb/>
+<pb n="KR4h0141_WYG_443-2a"/>
+　若到蓬山莫放歸<lb/>
+　　　　春日田家　　　　　　　　<hi>明</hi>朱真淤<lb/>
+　屋後青山門外谿小橋遥接稲秧畦人家逺近蒼烟裏<lb/>
+　桒柘隂隂戴勝啼<lb/>
+　　　　戴勝　　　　　　　　　　<hi>明</hi>僧守仁<lb/>
+　青林煖雨飽桑蟲勝羽離披濕翆紅亦有春思禁不得<lb/>
+　蕣花枝上訴東風<lb/>
+　<lb/>
+<pb n="KR4h0141_WYG_443-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選卷四百四十四<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

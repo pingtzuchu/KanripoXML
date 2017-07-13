@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3a0110_WYG_025-1a"/>
+欽定四庫全書<lb/>
+御覽經史講義卷十九目録<lb/>
+　　　詩經<lb/>
+　　於穆清廟肅雝顯相濟濟多士秉文之徳對越在<lb/>
+　　　天駿奔走在廟不顯不承無斁於人斯<lb/>
+　　　　　　　　　　　　給事中<hi>臣</hi>倪國璉<lb/>
+　　無封靡于爾邦惟王其崇之<lb/>
+　　　　　　　　　　　　　編修<hi>臣</hi>張映斗<lb/>
+<pb n="KR3a0110_WYG_025-1b"/>
+　　天作高山太王荒之彼作矣文王康之<lb/>
+　　　　　　　　　　　　右中允<hi>臣</hi>齊召南<lb/>
+　　昊天有成命二后受之成王不敢康夙夜基命宥<lb/>
+　　　密於緝熙單厥心肆其靖之<lb/>
+　　　　　　　　　　　　　侍講<hi>臣</hi>張映辰<lb/>
+　　　　　　　　　　　　　洗馬<hi>臣</hi>佟　保<lb/>
+　　　　　　　　　　　　　編修<hi>臣</hi>李龍官<lb/>
+　　成王不敢康夙夜基命宥密於緝熙單厥心肆其<lb/>
+<pb n="KR3a0110_WYG_025-2a"/>
+　　　靖之<lb/>
+　　　　　　　　　　　　　編修<hi>臣</hi>王居正<lb/>
+　　夙夜基命宥密於緝熙單厥心<lb/>
+　　　　　　　　　　　　　檢討<hi>臣</hi>葉一棟<lb/>
+　　夙夜基命宥密<lb/>
+　　　　　　　　　　　　　編修<hi>臣</hi>路斯道<lb/>
+　　　　　　　　　　　　編修<hi>臣</hi>歐陽正煥<lb/>
+　　我将我享維羊維牛維天其右之儀式刑文王之<lb/>
+<pb n="KR3a0110_WYG_025-2b"/>
+　　　典日靖四方伊嘏文王既右饗之我其夙夜畏<lb/>
+　　　天之威于時保之<lb/>
+　　　　　　　　　　　　　編修<hi>臣</hi>朱佩蓮<lb/>
+　　我其夙夜畏天之威于時保之<lb/>
+　　　　　　　　　　　　　編修<hi>臣</hi>秦蕙田<lb/>
+　　嗟嗟臣工敬爾在公王釐爾成來咨來茹<lb/>
+　　　　　　　　　　　　　編修<hi>臣</hi>沈昌宇<lb/>
+　　宣哲維人文武維后燕及皇天克昌厥後<lb/>
+<pb n="KR3a0110_WYG_025-3a"/>
+　　　　　　　　　　　　　侍讀<hi>臣</hi>吕　熾<lb/>
+　　敬之敬之天維顯思命不易哉無曰髙髙在上陟<lb/>
+　　　降厥士日監在兹<lb/>
+　　　　　　　　　　　　　侍讀<hi>臣</hi>雙　慶<lb/>
+　　　　　　　　　　　　　編修<hi>臣</hi>劉　慥<lb/>
+　　　　　　　　　　　　　編修<hi>臣</hi>趙青藜<lb/>
+　　　　　　　　　　　　　檢討<hi>臣</hi>陸宗楷<lb/>
+　　日就月將學有緝熙于光明<lb/>
+<pb n="KR3a0110_WYG_025-3b"/>
+　　　　　　　　　　　監察御史<hi>臣</hi>李文駒<lb/>
+　　自令以始歲其有君子有榖詒孫子<lb/>
+　　　　　　　　　　　監察御史<hi>臣</hi>陸　秩<lb/>
+　　聖敬日躋<lb/>
+　　　　　　　　　　　侍讀學士<hi>臣</hi>齊召南<lb/>
+　　　　　　　　　　　　　檢討<hi>臣</hi>徳　保<lb/>
+　　不競不絿不剛不柔敷政優優百禄是遒<lb/>
+　　　　　　　　　　　侍講學士<hi>臣</hi>鄒升恒<lb/>
+<pb n="KR3a0110_WYG_025-4a"/>
+　　　　　　　　　　　侍講學士<hi>臣</hi>陳悳華<lb/>
+　　不競不絿不剛不柔敷政優優<lb/>
+　　　　　　　　　　　監察御史<hi>臣</hi>周人驥<lb/>
+　　　　　　　　　　　監察御史<hi>臣</hi>宮煥文<lb/>
+　　天命降監下民有嚴不僭不濫不敢怠遑命于下<lb/>
+　　　國封建厥福<lb/>
+　　　　　　　　　　　侍讀學士<hi>臣</hi>汪由敦<lb/>
+　　　　　　　　　　　　　編修<hi>臣</hi>夏廷芝<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

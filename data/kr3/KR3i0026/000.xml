@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>北山酒經</head>
+    <p>
+<pb n="KR3i0026_WYG_000-1a"/>
+欽定四庫全書　　　　　子部九<lb/>
+　北山酒經　　　　　　　譜録類二飲饌<hi>之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案北山酒經三卷宋朱翼中撰陳振<lb/>
+　　　　孫書録解題但稱為大隱翁撰而不詳其姓<lb/>
+　　　　氏考宋李保有續北山酒經與此書並載陶<lb/>
+　　　　宗儀説郛保自敘云大隱先生朱翼中著書<lb/>
+　　　　釀酒僑居湖上朝廷大興醫學起為博士坐<lb/>
+<pb n="KR3i0026_WYG_000-1b"/>
+　　　　書東坡詩貶達州則大隱固翼中之自號也<lb/>
+　　　　是編首卷為總論二三卷載製麴造酒之法<lb/>
+　　　　頗詳宋史藝文志作一卷盖𫝊刻之誤説郛<lb/>
+　　　　所采僅總論一篇餘皆有録無書則此固為<lb/>
+　　　　完本矣明焦竑原序稱于田氏留青日札中<lb/>
+　　　　考得作者姓名似未見李保序者而程百二<lb/>
+　　　　又取保序冠于此書之前標曰題北山酒經<lb/>
+　　　　後亦為乖誤卷末有袁宏道觴政十六則王<lb/>
+<pb n="KR3i0026_WYG_000-2a"/>
+　　　　績醉鄉記一篇盖胡之衍所附入然古来著<lb/>
+　　　　述言酒事者多矣附録一明人一唐人何所<lb/>
+　　　　取義今併刋除焉乾隆四十六年十月恭校<lb/>
+　　　　上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

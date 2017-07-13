@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>褚氏遺書</head>
+    <p>
+<pb n="KR3e0011_WYG_000-1a"/>
+欽定四庫全書　　　　　子部五<lb/>
+　褚氏遺書　　　　　　　醫家類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案褚氏遺書一卷舊題南齊褚澄撰<lb/>
+　　　　澄字彦道陽翟人褚淵弟也尚宋文帝女廬<lb/>
+　　　　江公主拜駙馬都尉入齊為吳郡太守官至<lb/>
+　　　　左民尚書右軍將軍事迹具南齊書本傳是<lb/>
+　　　　書分受形本氣平脈津潤分體精血除疾審<lb/>
+<pb n="KR3e0011_WYG_000-1b"/>
+　　　　微辨書問子十篇大㫖發揮人身氣血陰陽<lb/>
+　　　　之奥宋史始著于録前有後唐清泰二年蕭<lb/>
+　　　　淵序云黄巢時羣盜發塚得石刻棄之先人<lb/>
+　　　　偶見載歸後遺命即以褚石為槨又有釋義<lb/>
+　　　　堪序云石刻得之蕭氏塚中凡十有九片其<lb/>
+　　　　一即蕭序也又有嘉泰元年丁介跋稱此書<lb/>
+　　　　初得蕭氏父子䕶其石而始全繼得僧義堪<lb/>
+　　　　筆之紙而始存今得劉義先鋟之木而始傳<lb/>
+<pb n="KR3e0011_WYG_000-2a"/>
+　　　　所云劉義先者亦不知何許人其書于靈樞<lb/>
+　　　　素問之理頗有發明李時珍王肯堂俱采用<lb/>
+　　　　之其論寡婦僧尼必有異乎妻妾之療發前<lb/>
+　　　　人所未發而論吐血便血飲寒涼百不一生<lb/>
+　　　　尤千古之龜鑒疑宋時精醫理者所著而偽<lb/>
+　　　　托澄以傳其序跋當亦後人所附會然其言<lb/>
+　　　　可采雖<graphic n="KR0915" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0915.png" mimeType="image/png"/>托不可廢也中頗論精血化生之<lb/>
+　　　　理所以辨病源戒保嗇耳髙儒百川書志列<lb/>
+<pb n="KR3e0011_WYG_000-2b"/>
+　　　　之房中類則其悞甚矣乾隆四十四年三月<lb/>
+　　　　恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="KR3e0011_WYG_000-3a"/>
+褚氏遺書原序<lb/>
+黄巢造變從亂羣盜發人冢墓掘取金寳遇大穴焉方<lb/>
+丈餘中環石十有八片形制如槨其盖穴石題曰有齊<lb/>
+褚澄所歸啟盖棺骨已蛇蟻所穴環石内向文字曉然<lb/>
+盜疑兵書移置穴外視之棄去先人偶見讀徹囑鄉鄰<lb/>
+慎䕶明年具舟載歸欲送官以廣其傳遭時兵革不息<lb/>
+先人亦不幸遺命異物終當化去神書理難乆藏其以<lb/>
+褚石為吾棺槨之實隱則骸骨全褚石或興吾名亦顯<lb/>
+<pb n="KR3e0011_WYG_000-3b"/>
+淵募能者調墨治刻百本散之餘遵遺戒先人諱廣字<lb/>
+叔常清泰二年五月十九日古揚蕭淵序<lb/>
+靖康初金人入境羣盜乗間在處有之去揚城北三十<lb/>
+五里陳源橋有蕭家世居其間葢貧不能自振矣守一<lb/>
+冢甚勤曰吾十二世祖𦵏父於此吾家冢凡數百世世<lb/>
+惟守此耳盜疑其起家者富而厚𦵏日夕窺之二家因<lb/>
+語人曰吾十二世祖𦵏其父明經廣叔常用石刻秘經<lb/>
+為槨從治遺命也已而不忍其柩有將發之兆遂敕子<lb/>
+<pb n="KR3e0011_WYG_000-4a"/>
+孫世守之耳窺者仍故二家因㑹鄉人啟視之漆棺如<lb/>
+新刻石十有九片其一葢蕭淵序也乃移柩𦵏居側而<lb/>
+舉石於門外有告蕭得埋寳者遂納石於今予時持鉢<lb/>
+將為南嶽之逰過蕭門結𦵏縁適見其事謾録諸䇿以<lb/>
+俟能者二年結制前五日衛國釋義堪書<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

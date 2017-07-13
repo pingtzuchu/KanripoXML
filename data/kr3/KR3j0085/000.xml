@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>灌畦暇語</head>
+    <p>
+<pb n="KR3j0085_WYG_000-1a"/>
+欽定四庫全書　　　　　子部十<lb/>
+　灌畦暇語　　　　　　　雜家類三<hi>雜説之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案灌畦暇語一卷不著撰人名氏書<lb/>
+　　　　中皆自稱曰老圃唐太宗一條獨稱臣稱皇<lb/>
+　　　　祖知為唐人蒲且子一條稱近吳道元亦師<lb/>
+　　　　張顛筆法又引韓愈詩二章云後來豈復有<lb/>
+　　　　如斯人則中唐以後人也前有自序稱早年<lb/>
+<pb n="KR3j0085_WYG_000-1b"/>
+　　　　血氣未定鋪方紙運寸管亟起以干一旦之<lb/>
+　　　　名力盡志殫僅能如願又稱决意勇退脱謝<lb/>
+　　　　纓弁則亦嘗登第從仕矣其書凡三十二條<lb/>
+　　　　觀其答黄仲秉一條宗旨盖出於黄老而大<lb/>
+　　　　抵持論篤實亦不悖於聖賢唐志宋志皆不<lb/>
+　　　　著録惟陳振孫書録解題始有其名所載魏<lb/>
+　　　　繁欽生茨詩一篇馮氏詩紀未載又北魏鹿<lb/>
+　　　　悆贈真定公子直詩二篇惟據北史引入不<lb/>
+<pb n="KR3j0085_WYG_000-2a"/>
+　　　　及此書盖亦未見其本然朱子作韓文考異<lb/>
+　　　　於岐山下一首註云世有灌畦暇語一書謂<lb/>
+　　　　子齊初應舉韓公賞之為作丹穴五色羽云<lb/>
+　　　　云則其傳已乆矣此本為陸氏竒晉齋所刋<lb/>
+　　　　末有李東陽䟦云余頃僦居京城之西有賣<lb/>
+　　　　雜物者過門見其篋有故書數種大抵首尾<lb/>
+　　　　不全灌畦暇語一編尤為斷爛余以數十錢<lb/>
+　　　　購得之因料理其可讀者才得三十餘條云<lb/>
+<pb n="KR3j0085_WYG_000-2b"/>
+　　　　云則此書乃東陽所理之殘本分彭寵奴一<lb/>
+　　　　條佚其後半韓愈詩一條佚其前半凡闕二<lb/>
+　　　　十八行有竒又非東陽所理之舊矣然核其<lb/>
+　　　　詞旨確為唐人著述雖殘闕終可貴也乾隆<lb/>
+　　　　四十六年十月恭校上<lb/>
+　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+<pb n="KR3j0085_WYG_000-3a"/>
+灌畦暇語自序<lb/>
+灌畦暇語者何老圃騰頰之云也嘗憶早年血氣未定<lb/>
+鋪方紙運寸管自許不落人後亟起以干一旦之名良<lb/>
+甚苦辛力盡志殫僅能如願終以枯腸不貯機穽不能<lb/>
+隨世低昂中年以來漸識悔吝顧胸中有所謂刮磨者<lb/>
+蟠不吐則更自懲艾伏不敢發乃知昔者所謂辛苦以<lb/>
+求者大可怪笑非但無益抑為有妨嗚呼大丈夫亦安<lb/>
+徃而失其貧賤者哉於是决意勇退脱<graphic n="KR1180" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1180.png" mimeType="image/png"/>纓弁故邱之<lb/>
+<pb n="KR3j0085_WYG_000-3b"/>
+旁有地彌甽蛇行趨隰土氣沃衍甘井在前不病於汲<lb/>
+除治以蒔蔬咸曰宜哉夫藉暄於春陽射利者不争資<lb/>
+潤於泉脈乾沒者不忌而又繼日以從事其為力可以<lb/>
+不匱卒歲而計入其為收亦足糊口每風日好時臯壤<lb/>
+悦暢負杖曵屨暫出郊塹比鄰之人偶相與立曹相與<lb/>
+談忽覺肳頤咄咤故態横發或童顛之叟或粗有知識<lb/>
+之少年時時相顧捧腹一笑意雖不倫棄亦可惜因取<lb/>
+而疏之以其縁隙日乃有得也故以暇語題辭<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

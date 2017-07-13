@@ -1,0 +1,1194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2m0036_WYG_016-1a"/>
+欽定四庫全書<lb/>
+皇朝禮器圖式卷十六<lb/>
+　　武備四<hi>火器</hi>
+<pb n="KR2m0036_WYG_016-2a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-2b"/>
+御製金龍礟　謹按明史兵志古所謂礟皆以機發石元<lb/>
+　　　初得西域礟攻金蔡州城始用火然造法不𫝊後<lb/>
+　　　亦罕用至明成祖平交阯得神機鎗礟法特置神<lb/>
+　　　機營肄習製用生熟赤銅相間其用鐵者建鐵柔<lb/>
+　　　為最西鐵次之大小不等大者發用車次及小者<lb/>
+　　　用架用樁用托大利於守小利於戰隨宜而用為<lb/>
+　　　行軍要器嘉靖八年造佛郎機礟謂之大將軍發<lb/>
+　　　諸邊鎮佛郎機者國名也正徳末其國舶至廣東<lb/>
+<pb n="KR2m0036_WYG_016-3a"/>
+　　　得其制以銅為之長五六尺大者重千餘斤小者<lb/>
+　　　百五十斤萬厯中大西洋船至復得巨礟曰紅夷<lb/>
+　　　長二丈餘重者至三千斤能洞裂石城震數十里<lb/>
+　　　邱濬大學衍義補元人始造礟以攻破襄陽世因<lb/>
+　　　目曰襄陽礟今礟之制用銅或鐵如筒状中實以<lb/>
+　　　藥而以石子塞其口旁通一線用火發之<lb/>
+聖祖仁皇帝御製金龍礟鑄銅為之前弇後豐厎如覆笠<lb/>
+　　　重自二百八十觔至三百七十觔長自五尺八寸<lb/>
+<pb n="KR2m0036_WYG_016-3b"/>
+　　　至六尺通髤以漆前<graphic n="KR1837" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1837.png" mimeType="image/png"/>金龍火珠後<graphic n="KR1837" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1837.png" mimeType="image/png"/>金回文蕉<lb/>
+　　葉文䕫龍厎<graphic n="KR1837" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1837.png" mimeType="image/png"/>金花文隆起四道旁為雙耳左右鐫<lb/>
+　大清康熈二十年<lb/>
+御製清漢文受藥自六兩五錢至八兩鐵子自十三兩至<lb/>
+　　　十六兩載以雙輪車通髤朱箱繪蟠䕫中加鐵盤<lb/>
+　　　<graphic n="KR1837" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1837.png" mimeType="image/png"/>銀花文施機使可低昂上為鐵鋬承礟耳礟口<lb/>
+　　　背轅轅長一丈有五寸兩端飾銅龍首鳳尾中繪<lb/>
+　　　雲文輪各十有八輻<lb/>
+<pb n="KR2m0036_WYG_016-4a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-4b"/>
+御製制勝將軍礟　謹按<lb/>
+聖祖仁皇帝御製制勝將軍礟鑄銅為之前弇後豐底分<lb/>
+　　　𤓰棱重五百觔長五尺不鍥花文隆起四道近口<lb/>
+　　　為照星面鐫<lb/>
+　大清康熈三十四年景山内<lb/>
+御製制勝將軍用藥一觔八兩生鐵子三觔星髙五分逺<lb/>
+　　　放酌量加藥移與斗上眼用之總管監造御前一<lb/>
+　　　等侍衛海清監造官員外郎巴福夀筆帖式碩思<lb/>
+<pb n="KR2m0036_WYG_016-5a"/>
+　　泰噶爾圖匠役李文徳袁四漢文載以雙輪車通<lb/>
+　　髤以朱横梁承礟轅長一丈前横木二道輪各十<lb/>
+　　有八輻<lb/>
+<pb n="KR2m0036_WYG_016-6a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-6b"/>
+御製威逺將軍礟　謹按<lb/>
+聖祖仁皇帝御製威逺將軍礟鑄銅為之前哆後歛形如<lb/>
+　　　仰鐘重七百五十觔長二尺五寸口鍥花文周鐫<lb/>
+　　　梵文中雙魚形間以荇藻隆起五道底横連鐵軸<lb/>
+　　　受藥自八兩至六觔鐵子自三十觔至三十五觔<lb/>
+　　　入藥礟内間以木加土寸許乃入鐵子復置藥子<lb/>
+　　　内以螺旋木繞藥線外裹朝鮮貢紙盛以竹筩入<lb/>
+　　　於子内後出線寸許以達礟藥前出六七寸以待<lb/>
+<pb n="KR2m0036_WYG_016-7a"/>
+　　然子外仍實火藥隔以濕土鐵鍱掩礟口固以蠟<lb/>
+　　發時先然鐵子藥線再速然火門藥礟發子出迸<lb/>
+　　裂四散為用最烈逺近以受藥若干及礟尺若干<lb/>
+　　度為凖載以四輪車通髤朱軨長四尺九寸面立<lb/>
+　　木以限鐵軸前後横梁後梁當礟中下承兩軸貫<lb/>
+　　板輪不施輻<lb/>
+<pb n="KR2m0036_WYG_016-8a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-8b"/>
+　　神威大將軍礟　謹按<lb/>
+　本朝制神威大將軍礟鑄銅為之前弇後豐厎少歛<lb/>
+　　長八尺五寸不鍥花文隆起四道面鐫神威大將<lb/>
+　　軍右鐫<lb/>
+大清崇徳八年十二月日造重三千八百觔漢文受藥<lb/>
+　　五觔鐵子十觔載以四輪車通髤朱横梁承礟耳<lb/>
+　　轅長一丈五寸輪各十有八輻轅間加直木二外<lb/>
+　　出端加横木鐵鐶九以挽之<lb/>
+<pb n="KR2m0036_WYG_016-9a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-9b"/>
+　　神威無敵大將軍礟　謹按<lb/>
+　本朝制神威無敵大將軍礟鑄銅為之前弇後豐底<lb/>
+　　如覆盂重自二千觔至三千觔長自七尺三寸至<lb/>
+　　八尺不鍥花文隆起五道面鐫<lb/>
+大清康熈十五年三月日造漢文受藥自三觔至四觔<lb/>
+　　鐵子自六觔至八觔載以三輪車横梁承礟轅長<lb/>
+　　一丈二尺二寸後二輪轅間一輪各十有八輻轅<lb/>
+　　旁施鐵鐶以挽之<lb/>
+<pb n="KR2m0036_WYG_016-10a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-10b"/>
+　　神威將軍礟　謹按<lb/>
+　本朝制神威將軍礟鑄銅為之前弇後豐厎如覆笠<lb/>
+　　重四百觔長六尺七寸不鍥花文隆起五道近口<lb/>
+　　為照星旁為雙耳中鐫<lb/>
+大清康熈二十年鑄造神威將軍用藥八九兩鉛子十<lb/>
+　　八兩星髙七分製法官南懐仁監造官法保錢齊<lb/>
+　　布陶三泰寜古塔吳喇代匠役李文德顔四漢文<lb/>
+　　載以雙輪車轅長九尺五寸不加繪飾端施鐵鐶<lb/>
+<pb n="KR2m0036_WYG_016-11a"/>
+　　　餘俱如<lb/>
+御製金龍礟車之制<lb/>
+<pb n="KR2m0036_WYG_016-12a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-12b"/>
+　　武成永固大將軍礟　謹按<lb/>
+　本朝制武成永固大將軍礟鑄銅為之前弇後微豐<lb/>
+　　底如竹節重自三千六百觔至七千觔長自九尺<lb/>
+　　六寸至一丈一尺一寸雜鍥花文蕉葉文回文隆<lb/>
+　　起十道皆鍥星文近口為照星厎左右鐫<lb/>
+大清康熙二十八年鑄造武成永固大將軍用藥十觔<lb/>
+　　生鐵礟子二十觔星髙四分九釐製法官南懐仁<lb/>
+　　監造官佛保碩思泰作官王之臣匠役李文徳顔<lb/>
+<pb n="KR2m0036_WYG_016-13a"/>
+　　四清漢文小者受藥五觔鐵子十觔載以四輪車<lb/>
+　　轅長一丈五尺鐵鐶七餘俱如神威大將軍礟車<lb/>
+　　之制<lb/>
+<pb n="KR2m0036_WYG_016-14a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-14b"/>
+　　神功將軍礟　謹按<lb/>
+　本朝制神功將軍礟鑄銅為之前弇後微豐厎如覆<lb/>
+　　笠重千觔長七尺不鍥花文隆起五道近口為照<lb/>
+　　星中鐫<lb/>
+大清康熙二十八年鑄造神功將軍用藥一觔十二兩<lb/>
+　　生鐵礟子三觔八兩星髙四分製法官南懐仁監<lb/>
+　　造官佛保碩思泰作官王之臣匠役李文徳顔四<lb/>
+　　漢文載以三輪車鐵索承礟轅長一丈二寸轅間<lb/>
+<pb n="KR2m0036_WYG_016-15a"/>
+　　板輪一不施輻餘俱如神威無敵大將軍礟車之<lb/>
+　　制<lb/>
+<pb n="KR2m0036_WYG_016-16a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-16b"/>
+　　得勝礟　謹按<lb/>
+　本朝制得勝礟鑄銅為之前弇後豐口如銅角重三<lb/>
+　　百六十五觔長六尺三寸通髤以漆不鍥花文隆<lb/>
+　　起三道旁為雙耳受藥六兩鐵子十二兩載以雙<lb/>
+　　輪車通髤朱正箱為鐵鋬以承礟耳轅前後出長<lb/>
+　　一丈二尺六寸端皆施鐵鐶輪在中各十有八輻<lb/>
+<pb n="KR2m0036_WYG_016-17a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-17b"/>
+　　九節十成礟　謹按<lb/>
+　本朝制九節十成礟鑄銅為之前後若一前分九節<lb/>
+　　後加厎各有螺旋分負以涉險逺用時合成之重<lb/>
+　　自七百九十觔至七百九十八觔長自五尺一寸<lb/>
+　　至六尺九寸底環螭三每節飾獸面三分鐫重若<lb/>
+　　干受藥自一觔四兩至一觔八兩鐵子二觔八兩<lb/>
+　　載以四輪車通髤朱軫平施輪處少濶長六尺一<lb/>
+　　寸中加立木半規以承礟立木左右為鐵柱夾礟<lb/>
+<pb n="KR2m0036_WYG_016-18a"/>
+　　右柱長倍左曲向前加立表以為凖板輪不施輻<lb/>
+<pb n="KR2m0036_WYG_016-19a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-19b"/>
+　　　衝天礟　謹按<lb/>
+　　本朝制衝天礟鑄鐵為之前哆後歛形如仰鐘重自<lb/>
+　　　三百觔至三百八十觔長一尺九寸五分隆起五<lb/>
+　　　道旁為雙耳近耳鍥花文受藥自六兩至一觔鐵<lb/>
+　　　子二十觔用法如<lb/>
+御製威逺將軍礟載以四輪車亦如<lb/>
+御製威逺將軍礟車之制<lb/>
+<pb n="KR2m0036_WYG_016-20a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-20b"/>
+　　鐵心銅礟　謹按<lb/>
+　本朝制鐵心銅礟鑄銅為體内以鐵前弇後微豐口<lb/>
+　　如螺旋重一百十觔長五尺六寸青緑色不鍥花<lb/>
+　　文隆起六道受藥二兩四錢鐵子四兩八錢載以<lb/>
+　　四輪車轅長一丈二尺一寸轅端横木加鐵鐶六<lb/>
+　　餘俱如神威大將軍礟車之制<lb/>
+<pb n="KR2m0036_WYG_016-21a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-21b"/>
+　　子母礟一　謹按<lb/>
+　本朝制子母礟鑄鐵為之前弇後豐厎如覆笠重九<lb/>
+　　十五觔長五尺三寸通髤以漆不鍥花文隆起五<lb/>
+　　道加星斗旁為雙耳子礟五如管連火門各重八<lb/>
+　　觔受藥二兩二錢鐵子五兩礟面開孔與子礟相<lb/>
+　　稱用時内之固以鐵鈕遞發之相續而速載以四<lb/>
+　　輪車如凳形中貫鐵機以鐵鋬承礟耳下施四足<lb/>
+　　横直皆楔以木後加斜木搘之足施鐵輪輪各八<lb/>
+<pb n="KR2m0036_WYG_016-22a"/>
+　　輻左右推挽惟所宜<lb/>
+<pb n="KR2m0036_WYG_016-23a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-23b"/>
+　　子母礟二　謹按<lb/>
+　本朝制子母礟鑄鐵為之重八十五觔長五尺八寸<lb/>
+　　末加木柄後曲而俯以鐵索聨於車上用法如子<lb/>
+　　母礟一載以四輪車亦如子母礟一之制<lb/>
+<pb n="KR2m0036_WYG_016-24a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-24b"/>
+　　　嚴威礟　謹按<lb/>
+　　本朝制嚴威礟鑄鐵為之前弇後豐厎如覆笠重三<lb/>
+　　　百十觔長五尺不鍥花文隆起五道旁為雙耳受<lb/>
+　　　藥十兩鐵子一觔四兩載以雙輪車如<lb/>
+御製制勝將軍礟車之制<lb/>
+<pb n="KR2m0036_WYG_016-25a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-25b"/>
+　　紅衣礟　謹按<lb/>
+　本朝制紅衣礟鑄鐵為之前弇後豐厎圓而淺重自<lb/>
+　　一千五百觔至五千觔長自六尺六寸至一丈五<lb/>
+　　寸中鍥雲螭隆起八道旁為雙耳受藥自二觔六<lb/>
+　　兩至七觔八兩鐵子自五觔至十五觔載以三輪<lb/>
+　　車如神威無敵大將軍礟車之制<lb/>
+<pb n="KR2m0036_WYG_016-26a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-26b"/>
+　　龍礟　謹按<lb/>
+　本朝制龍礟鑄鐵為之形如金龍礟重百觔長四尺<lb/>
+　　五寸通髤以漆口<graphic n="KR1837" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1837.png" mimeType="image/png"/>金蟬文中為雲龍近後為蟠<lb/>
+　　螭隆起六道加星斗旁為雙耳受藥二兩四錢鐵<lb/>
+　　子五兩二錢車如子母礟一之制<lb/>
+<pb n="KR2m0036_WYG_016-27a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-27b"/>
+　　竒礟　謹按<lb/>
+　本朝制竒礟鑄鐵為之後通厎旁如牡鑰重三十觔<lb/>
+　　長五尺五寸六分通髤以漆不鍥花文近口為照<lb/>
+　　星中加斗素鐵火機旁為雙耳子礟四如管連火<lb/>
+　　門受藥自九錢至一兩鐵子二兩六錢後加木柄<lb/>
+　　曲而俯下為屈戍開柄以内子礟從牡鑰中固以<lb/>
+　　鐵鈕遞發之相續而速柄末綴立𤓰形青縀為之<lb/>
+　　載以鐵盤鐵鋬承礟耳下以三木搘之末鐵鐏<lb/>
+<pb n="KR2m0036_WYG_016-28a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-28b"/>
+　　行營信礟　謹按<lb/>
+　本朝制行營信礟鑄鐵為之上下若一重自四十觔<lb/>
+　　至八十觔長自一尺六寸至一尺八寸不鍥花文<lb/>
+　　隆起四道受藥八兩置地發之<lb/>
+<pb n="KR2m0036_WYG_016-29a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-29b"/>
+　　　渾銅礟　謹按康熙二十年<lb/>
+聖祖仁皇帝平定吳逆獲其所製渾銅礟蔵之武庫以備<lb/>
+　　　軍行之用礟鑄銅為之前弇後微豐底如覆笠重<lb/>
+　　　自一千二百觔至二千一百觔長自六尺至六尺<lb/>
+　　　一寸不鍥花文隆起九道旁為雙耳受藥自一觔<lb/>
+　　　十二兩至二觔八兩鐵子自三觔八兩至五觔載<lb/>
+　　　以雙輪車轅長九尺四寸端施横木餘俱如<lb/>
+御製金龍礟車之製<lb/>
+<pb n="KR2m0036_WYG_016-30a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-30b"/>
+　　　臺灣礟謹按康熙二十二年<lb/>
+聖祖仁皇帝平定臺灣獲其所製礟蔵之武庫以備軍行<lb/>
+　　　之用礟鑄銅為之前弇後微豐口形如鉢重自三<lb/>
+　　　百觔至七千觔長自四尺三寸至一丈二寸雜鍥<lb/>
+　　　花文蕉葉文蟠螭人獸形間以畨書隆起十道中<lb/>
+　　　為龍文雙鈕可貫繩懸之受藥自一觔一兩至十<lb/>
+　　　觔鐵子自二觔二兩至二十觔載以四輪車通髤<lb/>
+　　　朱横梁承礟轅長一丈二尺七寸輪各十有八輻<lb/>
+<pb n="KR2m0036_WYG_016-31a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-31b"/>
+　　回礟　謹按乾隆二十四年平定西域俘獲軍器<lb/>
+　　無算<lb/>
+上命皆蔵<lb/>
+　紫光閣以紀<lb/>
+武成回礟鑄鐵為之前弇後豐長五尺口鍥蕉葉文通<lb/>
+　　<graphic n="KR1837" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1837.png" mimeType="image/png"/>金銀花文隆起七道素鐵火機下屬於鞍木質<lb/>
+　　䝉以革槖駞負之西師罙入屢得兹器即用以擊<lb/>
+　　賊遐方異製克厎<lb/>
+<pb n="KR2m0036_WYG_016-32a"/>
+膚功敬登於册以附諸礟之末<lb/>
+<pb n="KR2m0036_WYG_016-33a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-33b"/>
+御製自來火大鎗　謹按<lb/>
+聖祖仁皇帝御製自來火大鎗鑄鐵為之重五觔九兩長<lb/>
+　　　三尺三寸六分口為蓮瓣微凹近口<graphic n="KR1837" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1837.png" mimeType="image/png"/>金回文藻<lb/>
+　　　文前起脊中面分四稜後圓皆<graphic n="KR1837" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1837.png" mimeType="image/png"/>金回文藻文<graphic n="KR1837" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1837.png" mimeType="image/png"/>
+　　　金素火機銜石旁施<graphic n="KR1837" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1837.png" mimeType="image/png"/>金鏤花輪擊石發鎗受藥<lb/>
+　　　八分鐵子六分五釐芸香木牀末亦<graphic n="KR1837" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1837.png" mimeType="image/png"/>金义末飾<lb/>
+　　　羚羊角凡交鎗之制口加照星中加斗或於近火<lb/>
+　　　門加斗從斗中視星所指以為凖牀視鎗微短竅<lb/>
+<pb n="KR2m0036_WYG_016-34a"/>
+　　其端以内搠杖以樺木或角為之飾以銅或角長<lb/>
+　　於鎗寸許牀下加木义曲而前鋭中施横梁前却<lb/>
+　　惟所宜牀面置鎗束以韋三道<lb/>
+<pb n="KR2m0036_WYG_016-35a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-35b"/>
+御製自來火二號鎗　謹按<lb/>
+聖祖仁皇帝御製自來火二號鎗鑄鐵為之重三觔長二<lb/>
+　　　尺八寸口<graphic n="KR1837" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1837.png" mimeType="image/png"/>金獸面前起脊後四稜受藥一錢二<lb/>
+　　　分鐵子一錢八分五釐鸂鶒木牀牀末不加飾餘<lb/>
+　　　俱如<lb/>
+御製自來火大鎗之制<lb/>
+<pb n="KR2m0036_WYG_016-36a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-36b"/>
+御製自來火小鎗　謹按<lb/>
+聖祖仁皇帝御製自來火小鎗鑄鐵為之重二觔十二兩<lb/>
+　　　長二尺四寸九分口<graphic n="KR1837" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1837.png" mimeType="image/png"/>金蕉葉文鍥索文星文前<lb/>
+　　　起脊中四稜周<graphic n="KR1837" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1837.png" mimeType="image/png"/>金如鐶二道後圓近火門為蟠<lb/>
+　　　螭受藥七分鐵子一錢烏拉松木牀牀末不加飾<lb/>
+　　　餘俱如<lb/>
+御製自來火大鎗之制<lb/>
+<pb n="KR2m0036_WYG_016-37a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-37b"/>
+御製禽鎗　謹按<lb/>
+聖祖仁皇帝御製禽鎗鑄鐵為之重六觔長三尺五寸口<lb/>
+　　　<graphic n="KR1837" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1837.png" mimeType="image/png"/>金蓮瓣前起脊中四棱後圓近火門<graphic n="KR1837" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1837.png" mimeType="image/png"/>金雙螭<lb/>
+　　　環繞<lb/>
+御製禽鎗篆文<graphic n="KR1837" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1837.png" mimeType="image/png"/>金素火機加星斗受藥二錢鐵子三錢<lb/>
+　　　四分髙麗木牀义末飾以角<lb/>
+<pb n="KR2m0036_WYG_016-38a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-38b"/>
+御製小禽鎗　謹按<lb/>
+聖祖仁皇帝御製小禽鎗鑄鐵為之重五觔七兩長三尺<lb/>
+　　　二寸八分受藥一錢五分鐵子二錢七分鸂鶒木<lb/>
+　　　牀牀末飾象牙花文餘俱如<lb/>
+御製禽鎗之制<lb/>
+<pb n="KR2m0036_WYG_016-39a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-39b"/>
+皇帝御用虎神鎗　謹按<lb/>
+皇帝御用虎神鎗鑄鐵為之長四尺八寸口<graphic n="KR1837" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1837.png" mimeType="image/png"/>金蓮瓣<lb/>
+　　前圓起脊後四稜<graphic n="KR1837" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1837.png" mimeType="image/png"/>金花火機加星斗雲楸木牀<lb/>
+　　近斗處飾銀花文中<graphic n="KR1837" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1837.png" mimeType="image/png"/>金乾隆<lb/>
+御用漢文左右鐫<lb/>
+御製虎神鎗記清漢文牀末飾以角鏤花文底鐫虎神<lb/>
+　　鎗藥用二錢五分子用七錢鐵八觔十兩鞘三觔<lb/>
+　　十兩共重十二觔四兩漢文义以羚羊角為之<lb/>
+<pb n="KR2m0036_WYG_016-40a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-40b"/>
+皇帝御用舊神鎗　謹按<lb/>
+皇帝御用舊神鎗鑄鐵為之長三尺九寸通起脊<graphic n="KR1837" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1837.png" mimeType="image/png"/>金<lb/>
+　　花火機加星斗雲楸木牀近斗飾銀花文中<graphic n="KR1837" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1837.png" mimeType="image/png"/>金<lb/>
+　　乾隆<lb/>
+御用末飾以角厎鐫舊神鎗藥用一錢六分子用三錢<lb/>
+　　三分鐵六觔二兩鞘二觔六兩共重八觔八兩皆<lb/>
+　　漢文义以羚羊角為之<lb/>
+<pb n="KR2m0036_WYG_016-41a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-41b"/>
+皇帝御用花準鎗　謹按<lb/>
+皇帝御用花準鎗鑄鐡為之長四尺三寸口<graphic n="KR1837" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1837.png" mimeType="image/png"/>金蕉葉<lb/>
+　　文近口為索文前起脊中四稜周<graphic n="KR1837" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1837.png" mimeType="image/png"/>金如鐶四道<lb/>
+　　後圓牀厎鐫花準鎗藥用二錢子用四錢四分鐡<lb/>
+　　六觔八兩鞘二觔十二兩共重九觔四兩漢文餘<lb/>
+　　俱如<lb/>
+皇帝御用舊神鎗之制凡花鎗之制通冶鐡皺起為花<lb/>
+　　文<lb/>
+<pb n="KR2m0036_WYG_016-42a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-42b"/>
+皇帝御用大凖鎗　謹按<lb/>
+皇帝御用大凖鎗鑄鐵為之長四尺三寸六分口<graphic n="KR1837" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1837.png" mimeType="image/png"/>金<lb/>
+　　星文下亦為星文間索文近火門為蟠䕫牀厎鐫<lb/>
+　　大凖鎗藥用二錢子用三錢八分鐵六觔六兩鞘<lb/>
+　　二觔十四兩共重九觔四兩漢文餘俱如<lb/>
+皇帝御用舊神鎗之制<lb/>
+<pb n="KR2m0036_WYG_016-43a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-43b"/>
+御製竒凖神鎗　謹按<lb/>
+皇上御製竒凖神鎗鑄鐵為之口<graphic n="KR1837" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1837.png" mimeType="image/png"/>金回文蕉葉文前<lb/>
+　　起脊中四稜<graphic n="KR1837" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1837.png" mimeType="image/png"/>金為雙螭環繞<graphic n="KR1837" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1837.png" mimeType="image/png"/>金<lb/>
+大清乾隆年製漢文後圓加星斗<graphic n="KR1837" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1837.png" mimeType="image/png"/>金素火機雲楸木<lb/>
+　　牀牀末飾以角厎鐫特等第二鎗長四尺五寸重<lb/>
+　　七觔鞘重二觔二兩共重九觔二兩藥重二錢子<lb/>
+　　重五錢亦漢文樺木义末飾以角<lb/>
+<pb n="KR2m0036_WYG_016-44a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-44b"/>
+御製凖正神鎗　謹按<lb/>
+皇上御製凖正神鎗鑄鐵為之口髤漆素鐵火機牀厎<lb/>
+　　鐫頭等第二鎗長四尺三寸重六觔八兩鞘重二<lb/>
+　　觔共重八觔八兩藥二錢子重四錢漢文餘俱如<lb/>
+　　奇凖神鎗之制<lb/>
+<pb n="KR2m0036_WYG_016-45a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-45b"/>
+御製純正神鎗　謹按<lb/>
+皇上御製純正神鎗鑄鐵為之口髤漆素鐵火機牀厎<lb/>
+　　鐫頭等第三鎗長四尺五寸重七觔鞘重二觔二<lb/>
+　　兩共重九觔二兩藥二錢子重四錢五分漢文餘<lb/>
+　　俱如竒凖神鎗之制<lb/>
+<pb n="KR2m0036_WYG_016-46a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-46b"/>
+御製連中鎗　謹按<lb/>
+皇上御製連中鎗鑄鐵為之口髤漆素鐵火機牀厎鐫<lb/>
+　　頭等第四鎗長四尺四寸重六觔十二兩鞘重二<lb/>
+　　觔一兩共重八觔十三兩藥二錢子重四錢五分<lb/>
+　　漢文餘俱如竒準神鎗之制<lb/>
+<pb n="KR2m0036_WYG_016-47a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-47b"/>
+御製應手鎗　謹按<lb/>
+皇上御製應手鎗鑄鐵為之近口鍥索文花文中亦如<lb/>
+　　之近火門鍥花文素鐵火機髙麗木牀厎鐫頭等<lb/>
+　　第五鎗長四尺五寸重七觔鞘重三觔二兩共重<lb/>
+　　十觔二兩藥二錢子重五錢漢文餘俱如竒準神<lb/>
+　　鎗之制<lb/>
+<pb n="KR2m0036_WYG_016-48a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-48b"/>
+御製威赫鎗　謹按<lb/>
+皇上御製威赫鎗鑄鐵為之前起脊<graphic n="KR1837" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1837.png" mimeType="image/png"/>金索文花文中<lb/>
+　　亦如之後四棱近火門鍥花文素鐵火機髙麗木<lb/>
+　　牀厎鐫頭等第六鎗長四尺五寸重七觔鞘重三<lb/>
+　　觔二兩藥二錢子重五錢漢文餘俱如竒凖神鎗<lb/>
+　　之制<lb/>
+<pb n="KR2m0036_WYG_016-49a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-49b"/>
+御製威㨗鎗　謹按<lb/>
+皇上御製威㨗鎗鑄鐵為之口髤漆素鐵火機髙麗木<lb/>
+　　牀㡳鐫頭等第七鎗長四尺四寸重六觔十二兩<lb/>
+　　鞘重三觔一兩共重九觔十三兩藥二錢子重四<lb/>
+　　錢五分漢文餘俱如竒凖神鎗之制<lb/>
+<pb n="KR2m0036_WYG_016-50a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-50b"/>
+　　舊神花鎗　謹按<lb/>
+　本朝制舊神花鎗鑄鐵為之長三尺六寸二分口爪<lb/>
+　　棱近口鍥花文前起脊三中六棱亦鍥花文近火<lb/>
+　　門㣲凹三道加星斗<graphic n="KR1837" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1837.png" mimeType="image/png"/>金花火機雲楸木牀飾銀<lb/>
+　　花文牀末飾以角厎鐫神花鎗藥用二錢子用二<lb/>
+　　錢八分鐵五觔九兩鞘二觔二兩共重七觔十一<lb/>
+　　兩漢文羚羊角义<lb/>
+<pb n="KR2m0036_WYG_016-51a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-51b"/>
+　　素鐵大交鎗　謹按<lb/>
+　本朝制素鐵大交鎗鑄鐵為之重八觔長三尺七寸<lb/>
+　　五分通起脊不鍥花文素鐵火機受藥二錢鐵子<lb/>
+　　三錢六分樺木牀牀末飾以鹿角义末飾以銅<lb/>
+<pb n="KR2m0036_WYG_016-52a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-52b"/>
+　　金口交鎗　謹按<lb/>
+　本朝制金口交鎗鑄鐵為之重六觔十四兩長三尺<lb/>
+　　四寸六分口錽金蓮瓣前起脊後八棱素鐵火機<lb/>
+　　受藥二錢鐵子三錢榆木牀牀末飾以鹿角樺木<lb/>
+　　义不加飾<lb/>
+<pb n="KR2m0036_WYG_016-53a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-53b"/>
+　　素口花交鎗　謹按<lb/>
+　本朝制素口花交鎗鑄鐵為之重五觔八兩長三尺<lb/>
+　　三寸二分前起脊中四棱素鐵火機受藥二錢鐵<lb/>
+　　子四錢烏拉松木牀樺木义末飾以角<lb/>
+<pb n="KR2m0036_WYG_016-54a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-54b"/>
+　　八棱口花鎗　謹按<lb/>
+　本朝制八棱口花鎗鑄鐵為之通八棱近口弦文重<lb/>
+　　五觔十兩長三尺二寸受藥二錢鐵子三錢四分<lb/>
+　　餘俱如素口花交鎗之制<lb/>
+<pb n="KR2m0036_WYG_016-55a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-55b"/>
+　　仿神花大交鎗　謹按<lb/>
+　本朝制仿神花大交鎗鑄鐵為之重七觔十二兩長<lb/>
+　　三尺六寸二分口鍥蓮瓣近口為索文二重花文<lb/>
+　　前起脊中亦為索文花文後四棱微凹素鐵火機<lb/>
+　　受藥二錢鐵子三錢四分牀如素鐵大交鎗牀之<lb/>
+　　制<lb/>
+<pb n="KR2m0036_WYG_016-56a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-56b"/>
+　　仿神花小交鎗　謹按<lb/>
+　本朝制仿神花小交鎗鑄鐵為之長三尺六寸受藥<lb/>
+　　二錢鐵子三錢餘俱如仿神花大交鎗之制牀如<lb/>
+　　素鐵大交鎗牀之制<lb/>
+<pb n="KR2m0036_WYG_016-57a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-57b"/>
+　　仿神花鎗　謹按<lb/>
+　本朝制仿神花鎗鑄鐵為之雲楸木牀末飾以角厎<lb/>
+　　鐫仿神花鎗子重三錢六分藥重二錢長二尺六<lb/>
+　　寸鐵重五觔八兩鞘重一觔十二兩共重七觔四<lb/>
+　　兩漢文樺木义末亦飾角餘俱如仿神花大交鎗<lb/>
+　　之制<lb/>
+<pb n="KR2m0036_WYG_016-58a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-58b"/>
+　　摺花交鎗　謹按<lb/>
+　本朝制摺花交鎗鑄鐵為之重七觔十二兩長三尺<lb/>
+　　七寸前起脊後四棱受藥二錢鐵子三錢六分錽<lb/>
+　　金素火機餘俱如金口交鎗之制烏拉松木牀樺<lb/>
+　　木义末飾以角<lb/>
+<pb n="KR2m0036_WYG_016-59a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-59b"/>
+　　花口小交鎗　謹按<lb/>
+　本朝制花口小交鎗鑄鐵為之重五觔八兩長三尺<lb/>
+　　五寸受藥二錢鐵子三錢一分口棱微凹前起脊<lb/>
+　　中四棱後圓素鐵火機餘俱如金口交鎗之制樺<lb/>
+　　木牀末飾以角义末飾以銅<lb/>
+<pb n="KR2m0036_WYG_016-60a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-60b"/>
+　　䝉古花大交鎗一　謹按<lb/>
+　本朝制䝉古花大交鎗鑄鐵為之重七觔十二兩長<lb/>
+　　三尺七寸通八棱口周鍥星文近口為星文索文<lb/>
+　　花文周為䝉古花文素鐵火機受藥二錢鐵子三<lb/>
+　　錢九分牀如素鐵大交鎗牀之制<lb/>
+<pb n="KR2m0036_WYG_016-61a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-61b"/>
+　　䝉古花大交鎗二　謹按<lb/>
+　本朝制䝉古花大交鎗鑄鐵為之重八觔長三尺六<lb/>
+　　寸近口星文索文花文前起脊中四棱為花文横<lb/>
+　　鍥星文索文後圓亦如之受藥二錢鐵子四錢七<lb/>
+　　分牀如素鐵大交鎗牀之制<lb/>
+<pb n="KR2m0036_WYG_016-62a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-62b"/>
+　　䝉古花小交鎗一　謹按<lb/>
+　本朝制䝉古花小交鎗鑄鐵為之重八觔長三尺六<lb/>
+　　寸前後八棱中起脊花文與䝉古花大交鎗一同<lb/>
+　　受藥二錢鐵子四錢二分牀如素鐵大交鎗牀之<lb/>
+　　制<lb/>
+<pb n="KR2m0036_WYG_016-63a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-63b"/>
+　　䝉古花小交鎗二　謹按<lb/>
+　本朝制䝉古花小交鎗鑄鐵為之前起脊八稜後圓<lb/>
+　　花文與䝉古花大交鎗二同素鐵火機髙麗木牀<lb/>
+　　末飾以鹿角厎鐫䝉古花鎗子重三錢三分藥重<lb/>
+　　二錢長三尺五寸四分鐵重五觔四兩鞘重二觔<lb/>
+　　四兩共重七觔八兩漠文义末飾以角<lb/>
+<pb n="KR2m0036_WYG_016-64a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-64b"/>
+　　回部花套鎗　謹按<lb/>
+　本朝制回部花套鎗鑄鐵為之重八觔二兩長三尺<lb/>
+　　四寸二分口蓮瓣内各鍥䕫龍近口亦鍥䕫龍二<lb/>
+　　重前起脊中亦鍥䕫龍後六棱近火門錽銀回部<lb/>
+　　花文加星斗素鐵火機受藥一錢五分鐵子二錢<lb/>
+　　雲楸木牀义末飾以角<lb/>
+<pb n="KR2m0036_WYG_016-65a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-65b"/>
+　　新回部花套鎗　謹按<lb/>
+　本朝制新回部花套鎗鑄鐵為之重六觔十兩長三<lb/>
+　　尺五寸七分口錽金回文中起脊後四稜横周星<lb/>
+　　文二重近火門錽銀回部花文加星斗素鐵火機<lb/>
+　　受藥一錢五分鐵子一錢八分牀如摺花交鎗牀<lb/>
+　　之制<lb/>
+<pb n="KR2m0036_WYG_016-66a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-66b"/>
+　　大線鎗　謹按<lb/>
+　本朝制大線鎗鑄鐵為之重八觔十四兩長五尺五<lb/>
+　　寸素鐵火機受藥一錢五分砂子八錢雲楸木牀<lb/>
+　　末飾以銅煖木托凡線鎗之制皆周為八棱不加<lb/>
+　　星斗牀及鎗之半不内搠杖牀下無义而有托束<lb/>
+　　銅鐶二道或錽金<lb/>
+<pb n="KR2m0036_WYG_016-67a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-67b"/>
+　　小線鎗　謹按<lb/>
+　本朝制小線鎗鑄鐵為之重七觔十兩受藥一錢五<lb/>
+　　分砂子八錢餘俱如大線鎗之制<lb/>
+<pb n="KR2m0036_WYG_016-68a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-68b"/>
+　　舊神花線鎗　謹按<lb/>
+　本朝制舊神花線鎗鑄鐵為之重七觔十五兩長五<lb/>
+　　尺七寸受藥一錢五分砂子八錢餘俱如大線鎗<lb/>
+　　之制<lb/>
+<pb n="KR2m0036_WYG_016-69a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-69b"/>
+　　麗花線鎗　謹按<lb/>
+　本朝制麗花線鎗鑄鐵為之重六觔三兩長四尺八<lb/>
+　　寸受藥一錢二分砂子五錢餘俱如大線鎗之制<lb/>
+<pb n="KR2m0036_WYG_016-70a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-70b"/>
+　　秀花線鎗　謹按<lb/>
+　本朝制秀花線鎗鑄鐵為之重七觔三兩長四尺八<lb/>
+　　寸受藥一錢二分砂子五錢餘俱如大線鎗之制<lb/>
+<pb n="KR2m0036_WYG_016-71a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-71b"/>
+　　輕鋭花線鎗　謹按<lb/>
+　本朝制輕鋭花線鎗鑄鐵為之重四觔十兩長四尺<lb/>
+　　錽金素火機受藥一錢砂子四錢雲楸木牀束以<lb/>
+　　錽金鐶末飾錽金蟠螭煖木托輕便花線鎗同<lb/>
+<pb n="KR2m0036_WYG_016-72a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-72b"/>
+　　輕㨗花線鎗　謹按<lb/>
+　本朝制輕㨗花線鎗鑄鐵為之受藥一錢砂子四錢<lb/>
+　　素鐵火機牀末飾以銅餘俱如輕鋭花線鎗之制<lb/>
+<pb n="KR2m0036_WYG_016-73a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-73b"/>
+　　輕花線鎗　謹按<lb/>
+　本朝制輕花線鎗鑄鐵為之受藥一錢砂子四錢牀<lb/>
+　　末錽銀蟠螭餘俱如輕鋭花線鎗之制<lb/>
+<pb n="KR2m0036_WYG_016-74a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-74b"/>
+　　落禽花線鎗　謹按<lb/>
+　本朝制落禽花線鎗鑄鐵為之重七觔十四兩長五<lb/>
+　　尺七寸通起棱素鐵火機受藥一錢五分砂子八<lb/>
+　　錢鸂鶒木牀牀及鎗之少半束以錽金鐶末亦錽<lb/>
+　　金煖木托賽海青花線鎗鵏神花線鎗連墜花線<lb/>
+　　鎗勝鴉鶻花線鎗皆同<lb/>
+<pb n="KR2m0036_WYG_016-75a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-75b"/>
+　　神海青花線鎗　謹按<lb/>
+　本朝制神海青花線鎗鑄鐵為之重七觔十二兩長<lb/>
+　　五尺七寸受藥一錢五分砂子八錢餘俱如大線<lb/>
+　　鎗之制<lb/>
+<pb n="KR2m0036_WYG_016-76a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-76b"/>
+　　鴈神花線鎗　謹按<lb/>
+　本朝制鴈神花線鎗鑄鐵為之重八觔一兩受藥一<lb/>
+　　錢五分砂子八錢餘俱如落禽花線鎗之制山鷄<lb/>
+　　花線鎗同<lb/>
+<pb n="KR2m0036_WYG_016-77a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-77b"/>
+　　鳬神花線鎗　謹按<lb/>
+　本朝制鳬神花線鎗鑄鐵為之重七觔十三兩受藥<lb/>
+　　一錢五分砂子八錢餘俱如落禽花線鎗之制水<lb/>
+　　札子花線鎗同<lb/>
+<pb n="KR2m0036_WYG_016-78a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-78b"/>
+　　孤頂花線鎗　謹按<lb/>
+　本朝制孤頂花線鎗鑄鐵為之重八觔八兩長五尺<lb/>
+　　五寸受藥一錢五分砂子八錢雲楸木牀餘俱如<lb/>
+　　落禽花線鎗之制<lb/>
+<pb n="KR2m0036_WYG_016-79a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-79b"/>
+　　樹鷄神花竒鎗　謹按<lb/>
+　本朝制樹鷄神花竒鎗鑄鐵為之重六觔長三尺五<lb/>
+　　分口錽金蓮瓣前起脊後八棱加星斗錽金素火<lb/>
+　　機受藥二錢鐵子三錢八分核桃木牀末飾以鹿<lb/>
+　　角榆木叉末飾以羚羊角凡竒鎗皆通厎旁如牡<lb/>
+　　鑰連牀柄處下為屈戌可開闔藥子皆實子鎗内<lb/>
+　　開厎納之從牡鑰中固以鐵鈕子鎗六長二寸四<lb/>
+　　分如管連火門遞發之相續而速其制或如交鎗<lb/>
+<pb n="KR2m0036_WYG_016-80a"/>
+　　或如線鎗皆不用搠杖<lb/>
+<pb n="KR2m0036_WYG_016-81a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-81b"/>
+　　花竒鎗　謹按<lb/>
+　本朝制花竒鎗鑄鐵為之重五觔十二兩長三尺五<lb/>
+　　分口錽金蓮瓣前起脊中四棱錽金如鐶二道後<lb/>
+　　圓錽金素火機受藥二錢鐵子三錢八分餘俱如<lb/>
+　　樹雞神花竒鎗之制烏拉松木牀末飾以角樺木<lb/>
+　　义末亦如之<lb/>
+<pb n="KR2m0036_WYG_016-82a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-82b"/>
+　　花線竒鎗　謹按<lb/>
+　本朝制花線竒鎗鑄鐵為之重四觔十二兩長三尺<lb/>
+　　三寸五分通八棱錽金素火機受藥二錢砂子三<lb/>
+　　錢二分烏拉松木牀末飾以金煖木托<lb/>
+<pb n="KR2m0036_WYG_016-83a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0036_WYG_016-83b"/>
+　　兵丁鳥鎗　謹按<lb/>
+　本朝制兵丁鳥鎗鑄鐵為之重六觔長六尺一寸不<lb/>
+　　鍥花文素鐵火機受藥三錢鐵子一錢木牀滿洲<lb/>
+　　䝉古俱髤以黄漢軍髤以黒緑營髤以朱束鐵鐶<lb/>
+　　二鐵义長一尺<lb/>
+　<lb/>
+　<lb/>
+皇朝禮器圖式卷十六<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

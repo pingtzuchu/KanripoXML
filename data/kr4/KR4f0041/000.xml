@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>因園集</head>
+    <p>
+<pb n="KR4f0041_WYG_000-1a"/>
+欽定四庫全書　　　　　集部七<lb/>
+　因園集　　　　　　　　别集類六<hi>國朝</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案因園集十三巻<lb/>
+　　　國朝趙執信撰執信字伸符號秋谷晩號飴山<lb/>
+　　　　老人益都人雍正中益都置博山縣今為博<lb/>
+　　　　山人康熙己未進士官至左春坊左賛善其<lb/>
+　　　　詩集流傳頗夥諸本往往不同此本末有乾<lb/>
+<pb n="KR4f0041_WYG_000-1b"/>
+　　　　隆辛酉執信門人丁際隆䟦稱是秋重謁秋<lb/>
+　　　　谷先生於因園時先生病目彌甚不作詩者<lb/>
+　　　　六年矣從仲君羮梅得先生手定詩稿分十<lb/>
+　　　　三集録副未及校而羮梅遽索原本以去嵗<lb/>
+　　　　寒無事乃校一過曩見手書濟南竹枝及宿<lb/>
+　　　　法慶寺二律皆不在葢所刪多矣云云羮梅<lb/>
+　　　　者常熟仲是保之字為執信門人之冠最為<lb/>
+　　　　篤契則是集為執信晩年定本手以授之者<lb/>
+<pb n="KR4f0041_WYG_000-2a"/>
+　　　　矣十三集者一曰并門集二曰閒齋集三曰<lb/>
+　　　　還山集四曰觀海集五曰鼓枻集六曰涓流<lb/>
+　　　　集七曰葑溪集八曰紅葉山樓集九曰浮家<lb/>
+　　　　集十曰金鵞館集十一曰回㠶集十二曰懷<lb/>
+　　　　舊集十三曰磺菴集集各一巻以存其舊不<lb/>
+　　　　復以篇頁多寡為分也執信娶王士禎之甥<lb/>
+　　　　女初相契重相傳以求作觀海集序士禎屢<lb/>
+　　　　失其期遂漸相詬厲讐隙終身今觀還山集<lb/>
+<pb n="KR4f0041_WYG_000-2b"/>
+　　　　中尚有酬士禎詩二首又為士禎作西城别<lb/>
+　　　　墅十三咏至鼓枻集中渡江一首已有祗應<lb/>
+　　　　羨詩老持節問岷源句註曰謂阮翁又悼呉<lb/>
+　　　　孝亷一首有漁洋未識名先著句其詞氣已<lb/>
+　　　　不和平自是以還遂互相排擊則謂二人之<lb/>
+　　　　釁生於作觀海集時其説當信迨其後沿波<lb/>
+　　　　逐流逓相祖述堅持門戸入主出奴數十年<lb/>
+　　　　迄無定說平心而論王以神韻縹緲為宗趙<lb/>
+<pb n="KR4f0041_WYG_000-3a"/>
+　　　　以思路劖刻為主王之規模濶於趙而流弊<lb/>
+　　　　傷於膚廓趙之才力銳於王而末流病於纎<lb/>
+　　　　小使兩家互救其短乃可以各見所長正不<lb/>
+　　　　必論甘而忌辛是丹而非素也乾隆四十五<lb/>
+　　　　年九月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

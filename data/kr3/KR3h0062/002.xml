@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3h0062_WYG_002-1a"/>
+欽定四庫全書<lb/>
+秘殿珠林凡例<lb/>
+　　　一是書首載<lb/>
+四朝宸翰次載厯代名人及無名氏以至古刻繡織各<lb/>
+　　　書畫以時代為序冊居前卷軸居後次編<lb/>
+四朝御書刻本及<lb/>
+欽定書籍又次收貯供奉之本又次臣工進呈之本並<lb/>
+　　　按釋道分編<lb/>
+<pb n="KR3h0062_WYG_002-1b"/>
+　　　一各類書畫收入是編者俱<lb/>
+　　内府舊藏名蹟其中品格差等以的係真蹟而筆<lb/>
+　　　墨至佳者列為上等若雖係真蹟而神韻稍遜<lb/>
+　　　及筆墨頗佳而未能確辨真贗者列為次等又<lb/>
+　　　有一種而數本相同者騐係真蹟俱入上等亦<lb/>
+　　　有不能確辨真贗因其筆墨並佳附入上等以<lb/>
+　　　俟考証者其的係後人摹本但果能曲肖亦入<lb/>
+　　　次等凡入上等者紙絹尺寸及跋語鑒藏圖章<lb/>
+<pb n="KR3h0062_WYG_002-2a"/>
+　　　全載入次等者只載欵識及題跋人姓氏餘不<lb/>
+　　　全録<lb/>
+　　　一各類書畫分别冊卷軸名人則各按朝代編<lb/>
+　　　列字號每人分編一字内有一人兼數種者即<lb/>
+　　　用此字依數順編<hi>如天一天二之類</hi>無名氏書畫亦按<lb/>
+　　　朝代每件分編一字舊刻經典各按經名每經<lb/>
+　　　各編一字内有一經數部者編次之法與名人<lb/>
+　　　同編號字様倣項氏天籟閣收藏欵式用周興<lb/>
+<pb n="KR3h0062_WYG_002-2b"/>
+　　　嗣千文排次<lb/>
+　　　一書畫中雖無欵識圖記而姓氏見題跋中可<lb/>
+　　　據者俱載入名人門類其無欵識圖記并題跋<lb/>
+　　　中無可據者列入無名氏門類仍辨其紙絹之<lb/>
+　　　新舊筆墨之𣲖别及題跋姓氏之前後分别朝<lb/>
+　　　代<lb/>
+　　　一<lb/>
+四朝宸翰謹依類分編不記字號臣工書畫依時先後<lb/>
+<pb n="KR3h0062_WYG_002-3a"/>
+　　　排次刻絲繡線為件無多俱不列號<lb/>
+　　　一書畫中有書附見于畫者歸畫類畫附見于<lb/>
+　　　書者歸書類有書畫合作難以偏附及書畫經<lb/>
+　　　典兼備釋道者另編入合璧門類<lb/>
+　　　一卷冊之尾間有雜以他書者從附見之例仍<lb/>
+　　　歸釋道門類以舊時裝池無庸割截也<lb/>
+　　　一上等中䟦語間有字畫殘缺糢糊及鑒賞圖<lb/>
+　　　章漫漶不可識者則從闕疑其字跡錯落文義<lb/>
+<pb n="KR3h0062_WYG_002-3b"/>
+　　　顯然者間有補正<lb/>
+　　　一書中標目與囊籖面籖俱從畫一唯經名字<lb/>
+　　　數因有金書雕刻織繡等件未便更易俱仍舊<lb/>
+　　　貫不與標目相同至書多于畫者標目只載某<lb/>
+　　　人書某經畫多于書者標目只載某人畫某圖<lb/>
+　　　其餘補圖并書等字俱不全載<lb/>
+　　　一<lb/>
+四朝御書石刻木刻並<lb/>
+<pb n="KR3h0062_WYG_002-4a"/>
+　　内府御刻諸經典及近代刻本經典俱分别釋道<lb/>
+　　　語録附釋典後科儀附道經後分貯各處<lb/>
+御書石刻木刻俱歸慈寧宫收貯<lb/>
+　　内府御刻及近代刻本釋經歸萬善殿收貯道經<lb/>
+　　　歸欽安殿天穹殿大高殿分貯其西梵字經典<lb/>
+　　　歸慈寧宫中正殿分貯以上只載經名目録附<lb/>
+　　　于卷末<lb/>
+　　　一是書編始于乾隆八年十二月成于九年五<lb/>
+<pb n="KR3h0062_WYG_002-4b"/>
+　　　月現在各種<lb/>
+　御筆謹編<lb/>
+四朝宸翰之後我<lb/>
+　皇上稽古典學幾餘翰藻富有日新擬俟次第載入<lb/>
+　　　續編書成後所得書畫亦擬異日附列臣張照<lb/>
+　　　臣梁詩正臣勵宗萬臣張若靄恭紀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

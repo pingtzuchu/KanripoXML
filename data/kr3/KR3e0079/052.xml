@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>本草綱目卷十九目錄</head> <lb/>
+    <p>
+<pb n="KR3e0079_WYG_052-1a"/>
+欽定四庫全書<lb/>
+　本草綱目卷十九目錄<lb/>
+　　草之八　　　水草類二十二種<hi>内附四種</hi>
+　　　澤瀉<hi>本經酸惡附</hi>
+　　　蔛草<hi>唐本</hi>
+　　　羊蹄<hi>本經</hi>
+　　　酸模<hi>日華蛇牛舌麕舌  舌附</hi>
+　　　龍舌草<hi>綱目</hi>
+<pb n="KR3e0079_WYG_052-1b"/>
+　　　菖蒲<hi>本經</hi>
+　　　白菖<hi>别録</hi>
+　　　香蒲<hi>本經</hi>
+　　　蒲黄<hi>本經</hi>
+　　　菰<hi>别錄</hi>
+　　　苦草<hi>綱目</hi>
+　　　水萍<hi>本經</hi>
+　　　蘋<hi>吳普</hi>
+<pb n="KR3e0079_WYG_052-2a"/>
+　　　萍蓬草<hi>拾遺</hi>
+　　　莕菜<hi>唐本草</hi>
+　　　蓴<hi>别錄</hi>
+　　　水藻<hi>綱目</hi>
+　　　海藻<hi>本經</hi>
+　　　海藴<hi>拾遺</hi>
+　　　海帶<hi>嘉祐</hi>
+　　　昆布<hi>别錄</hi>
+<pb n="KR3e0079_WYG_052-2b"/>
+　　　越王餘算<hi>拾遺</hi>
+　　　石帆<hi>日華</hi>
+　　　水松<hi>綱目</hi>
+　　　　右附方舊四十八新七十一<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　本草綱目卷十九目錄<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

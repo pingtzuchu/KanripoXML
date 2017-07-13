@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>張燕公集</head>
+    <p>
+<pb n="KR4c0009_WYG_000-1a"/>
+欽定四庫全書　　　　　集部二<lb/>
+　張燕公集　　　　　　　别集類一<hi>唐</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案張燕公集二十五巻唐張説撰説<lb/>
+　　　　字道濟一字説之洛陽人官至左丞相封燕<lb/>
+　　　　國公事蹟具唐書夲傳其文章典麗宏贍當<lb/>
+　　　　時與蘇頲並稱朝廷大述作多出其手號曰<lb/>
+　　　　燕許唐書藝文志載其集三十巻今所傳夲<lb/>
+<pb n="KR4c0009_WYG_000-1b"/>
+　　　　止二十五巻然自宋以後諸家著録並同則<lb/>
+　　　　其五巻之佚久矣集中元處士碣銘稱序為<lb/>
+　　　　處士子将作少監行冲撰而唐書行冲傳乃<lb/>
+　　　　不載其為此官為留守奏慶山醴泉表稱萬<lb/>
+　　　　年縣令鄭固忠狀六月十四日縣界霸陵鄉<lb/>
+　　　　有慶山見醴泉出而唐書武后傳載此事乃<lb/>
+　　　　作新豐縣皆與史傳頗有異同然説在當時<lb/>
+　　　　必無訛誤知唐書之疏舛多矣此書所以貴<lb/>
+<pb n="KR4c0009_WYG_000-2a"/>
+　　　　舊本也是書至嘉靖間其子孫始為梓行而<lb/>
+　　　　訛舛特甚又叅考本傳及文粹文苑英華諸<lb/>
+　　　　書其文不載於集者尚多今旁加捜輯於集<lb/>
+　　　　外得頌一首箴一首表十八首疏二首狀六首<lb/>
+　　　　䇿三首批答一首序十一首啟一首書二首露<lb/>
+　　　　布一首碑四首墓誌九首行狀一首凡六十<lb/>
+　　　　餘首皆依類補入而原集目次錯互者亦詮<lb/>
+　　　　次更定仍釐為二十五巻庶㡬復成完本<lb/>
+<pb n="KR4c0009_WYG_000-2b"/>
+　　　　焉乾隆四十六年十二月恭校上<lb/>
+　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

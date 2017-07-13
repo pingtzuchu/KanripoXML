@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4j0039_WYG_004-1a"/>
+龍川詞補遺䟦<lb/>
+余正喜同甫不作妖語媚語偶閲中興詞選得水龍吟<lb/>
+以後七闋亦未能超然但無一調合本集者或云贋作<lb/>
+葢花菴與同甫俱南渡後人何至誤謬若此或花菴專<lb/>
+選綺艷一種而同甫子沈所編本集特表阿翁磊落骨<lb/>
+幹故若出二手况本集云詞選則知同甫之詞不止於<lb/>
+三十闋即補此花菴所選亦安得云全豹耶姑梓之以<lb/>
+俟博雅君子湖南毛晉又識<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3k0012_SBCK_908-1a"/>
+太平御覽卷第九百八<lb/>
+　獸部二十<lb/>
+　　貔　熊　羆　猰窳<lb/>
+　　<graphic n="KR1236" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1236.png" mimeType="image/png"/>　貘　騊駼　猩猩<lb/>
+　　<graphic n="KR0859" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0859.png" mimeType="image/png"/>
+                    <graphic n="KR0859" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0859.png" mimeType="image/png"/>風母　豻　蹷<lb/>
+　　　　　貔<lb/>
+爾雅曰貔白狐其子豰<hi>郭璞注曰一名執夷虎豹之属<graphic n="KR2680" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2680.png" mimeType="image/png"/>許卜切</hi>
+說文曰貔豹屬出貉<hi>音陌</hi>國<hi>猛獸也</hi>
+尚書曰如虎如貔如熊如羆<lb/>
+毛詩曰獻其貔皮赤豹黃羆<lb/>
+禮記曲禮曰前有摯獸則戴貔貅<lb/>
+莊子曰豊狐文貔摶於山林伏於岩穴夜行晝居求食江<lb/>
+湖之上○韓子曰虎貔不用爪牙與鼢䑕同威<lb/>
+<pb n="KR3k0012_SBCK_908-1b"/>
+毛詩草木蟲魚䟽曰貔似虎或曰似熊白一名執庚一名<lb/>
+白狐其子爲豰遼東人謂之熊羆<lb/>
+　　　　　熊<lb/>
+說文曰熊獸似豕山居冬蟄<lb/>
+詩義䟽曰熊能攀縁上髙樹見人則顚倒投地而下冬入<lb/>
+穴而蟄始春而出<lb/>
+孝經援神契曰赤熊見則姦宄自逺<lb/>
+夲草經曰熊脂一名熊白味甘微温無毒主風痺<lb/>
+穆天子傳曰㫪山百獸所聚也爰有赤豹熊羆<lb/>
+六韜曰文王囚羑里散冝生受命而行宛懷條塗之山有<lb/>
+黄熊得而獻於紂<lb/>
+左傳曰晉靈公使宰夫臑熊蹯不熟殺之寘諸畚載以過<lb/>
+朝<lb/>
+<pb n="KR3k0012_SBCK_908-2a"/>
+又曰楚子將以商臣爲太子令尹子上諌之不聽又欲立<lb/>
+王子職而黜商臣商臣以宫甲圍成王王請食熊蹯而死<lb/>
+弗聽王縊<lb/>
+史記曰趙簡子病不知人五日而寤曰我之帝所見一熊<lb/>
+欲援我帝命我射之中熊死有當道者曰帝令主君滅晉<lb/>
+二卿熊其祖也<lb/>
+漢書曰昌邑王賀在藩帝見熊以問左右左右皆荅不見<lb/>
+又曰孝元帝馮昭儀上幸虎圈鬪獸後宮皆坐熊出圈攀<lb/>
+檻欲上殿昭儀乃當熊而立及左右格殺熊上問人情驚<lb/>
+懼何故當熊昭儀曰夫猛獸得人而止妾恐熊至御坐故<lb/>
+身當之耳帝嗟嘆以此倍敬重之<lb/>
+淮南子曰誠中之人樂而彶<hi>彶急也忠信之人自樂爲之非彶彶也</hi>如鶚之<lb/>
+好聲熊之好經夫有誰爲務<lb/>
+<pb n="KR3k0012_SBCK_908-2b"/>
+又曰愛熊而食之鹽愛獺而飲之酒雖欲養之非其道<hi>熊食</hi>
+<hi>監而死獺飲酒而敗故曰非其道也</hi>
+周書王㑹曰成王時不屠何國獻青熊一<lb/>
+孟子曰魚我所欲熊掌亦我所欲二者不可得兼舎魚取<lb/>
+熊掌義者我所欲生亦我所欲二者不可得兼舎生取義<lb/>
+列子曰黄帝戰於阪泉帥熊貙虎爲前驅<lb/>
+纏子曰桀王天下酒濁而殺厨人紂王天下熊蹯不熟而<lb/>
+殺厨人<lb/>
+抱朴子曰玉䇿記稱熊壽五百歲五百歲則能化<lb/>
+瑣語曰晉平公夢見赤熊闚屏惡之而有疾使問子産子<lb/>
+産曰昔共工之卿曰浮逰旣敗於顓頊自没沉淮之淵其<lb/>
+色赤其言善笑其行善頋其狀如熊常爲天王崇見之堂<lb/>
+上則止天下者死見堂下則邦人駭見門近臣憂見庭則無<lb/>
+<pb n="KR3k0012_SBCK_908-3a"/>
+傷窺君之屏病而無傷祭顓頊共工則瘳公如其言而疾<lb/>
+間<lb/>
+魏略曰大秦國出玄熊赤螭<lb/>
+建武故事曰咸和七年左右啓以米飴熊上曰此無益而<lb/>
+費於榖且是惡獸所不冝畜使遣打殺以肉賜左右直人<lb/>
+異苑曰邵陵髙平黄秀以元嘉三年入山經月不還其兒<lb/>
+根生㝷覔蹲空樹中從頭至腰毛色如熊問其何故荅曰<lb/>
+天讁如此汝但自去生哀慟而歸踰年人見其形盡爲熊<lb/>
+矣○又曰熊獸藏於山穴穴裏不得見穢及傷殘見則舎<lb/>
+穴自死<lb/>
+續搜神記曰晉升平中有人入山射鹿忽墮一坎窅然深<lb/>
+絶内有數頭熊子湏臾有一大熊來入瞪視此人人謂必<lb/>
+以害巳良乆出藏果分與諸子末後作一分着此人前人<lb/>
+<pb n="KR3k0012_SBCK_908-3b"/>
+飢乆於是冒死取噉之旣轉相狎熊母毎旦覔食果還輒<lb/>
+分此人人頼以支命後熊子大其母一一負將出子旣盡<lb/>
+人分死坎中窮無出路熊母㝷復還入坐人邊人解意便<lb/>
+抱羆之足於是跳出遂得無他<lb/>
+又曰熊無穴居大樹孔中東土呼熊爲子路以物擊樹云<lb/>
+子路可起於是便下不呼則不動也<lb/>
+　　　　　羆<lb/>
+爾雅曰羆如熊黄白文郭璞注曰似熊而長頭髙脚猛憨<lb/>
+多力能拔樹木關西呼爲猳羆<lb/>
+援神契曰赤羆見姦宄息倿人離則岀<lb/>
+山海經曰嶓冡之山其獸多羆<lb/>
+尚書禹貢曰熊羆狐狸織皮<lb/>
+詩曰吉夢維何維熊維羆男子之祥<lb/>
+<pb n="KR3k0012_SBCK_908-4a"/>
+詩蕩韓弈曰獻其貔皮赤豹黄羆<lb/>
+毛詩草木蟲魚䟽曰黄羆大如熊脂如熊白而租粗理<lb/>
+史記曰趙簡子疾夢之帝所聽鈞天之樂次射殺熊又有<lb/>
+一羆來亦殺之天帝甚喜<lb/>
+晉書載記曰符徤字業洪第三子也𥘉母姜氏夢大羆而<lb/>
+孕長而勇果<lb/>
+北史曰齊神武遣韓軌司馬子如從河東霄濟華州襲王<lb/>
+羆羆不覺比曉䡄衆巳乗梯入城羆尚卧未起聞閤外匈<lb/>
+匈有聲便袒身露髻徒跣持一白挺大呼而詬曰老羆當<lb/>
+道卧貛子那敢過敵見驚退<lb/>
+　　　　　猰窳<hi>上音軋下音庾</hi>
+爾雅曰猰窳類<graphic n="KR1236" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1236.png" mimeType="image/png"/>虎食人迅走<hi>
+                        <graphic n="KR1236" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1236.png" mimeType="image/png"/>勑俱切</hi>
+海内經曰猰窳龍首而虵身人靣居於弱水中食人<lb/>
+<pb n="KR3k0012_SBCK_908-4b"/>
+山海經曰少咸之山獸其狀如牛而赤身人靣馬足名曰<lb/>
+窫窳其音如嬰兒食人<lb/>
+淮南子曰堯時猰窳爲民害堯乃使羿殺之<lb/>
+　　　　　<graphic n="KR1236" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1236.png" mimeType="image/png"/>
+爾雅曰<graphic n="KR1236" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1236.png" mimeType="image/png"/>似狸<hi>郭璞曰今<graphic n="KR1236" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1236.png" mimeType="image/png"/>虎大於虎豹文如/狸山民呼<graphic n="KR1236" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1236.png" mimeType="image/png"/>虎大者爲<graphic n="KR1236" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1236.png" mimeType="image/png"/>犴</hi>
+搜神記曰江漢之域有<graphic n="KR1236" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1236.png" mimeType="image/png"/>人其先　君之苗裔也能化爲<lb/>
+虎長沙所屬蠻縣東髙居民作檻捕虎得一亭長赤幘大<lb/>
+冠在檻中問其故亭長大怒曰昨忽𬒳縣召避雨遂誤入<lb/>
+此中於是即出之乃化爲虎上山俗云<graphic n="KR1236" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1236.png" mimeType="image/png"/>虎化爲人好着<lb/>
+葛衣其足無踵虎有五指者皆是<graphic n="KR1236" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1236.png" mimeType="image/png"/>
+　　　　　貘<hi>莫格切</hi>
+爾雅曰貘白豹也<hi>郭璞注曰似熊小頭痺脚黑白駮能䑛食銅鐵及竹骨骨節強直中實少髓皮</hi>
+<hi>辟濕</hi>
+<pb n="KR3k0012_SBCK_908-5a"/>
+說文曰貘似熊黄色出蜀<lb/>
+廣志曰貘大如驢色蒼白舐鐵消十斤其皮温煗<lb/>
+抱朴子曰劉子知二負之尸東方生識啖鐵之獸實頼鳥<lb/>
+禹之書大荒之籍矣<lb/>
+神異經曰西荒之中有人焉頭如人着百結敗衣手足虎<lb/>
+爪名曰貘<graphic n="KR4589" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4589.png" mimeType="image/png"/>
+                    <hi>音僞</hi>伺人獨自輒徃就人睡先使捕蝨得卧而<lb/>
+舌出槃地丈餘燒大石投舌上於是而死<lb/>
+　　　　　騊駼<hi>上音陶下音途</hi>
+周書曰正北空桐槖駞騊駼爲獻<lb/>
+爾雅曰騊駼馬<hi>郭璞注曰出山海經其色青</hi>
+說文曰騊駼野馬之良也<lb/>
+史記曰匈奴竒畜則騊駼<hi>廣志曰騊駼匈奴名馬也</hi>
+山海經曰北海内有獸焉其狀如馬名曰騊駼<lb/>
+<pb n="KR3k0012_SBCK_908-5b"/>
+　　　　　猩猩<lb/>
+爾雅曰猩猩小兒啼<hi>今交趾封溪出猩猩狀如貛㹠聲似小児啼</hi>
+禮記曰猩猩能言不離禽獸<lb/>
+春秋說題辭曰猩猩者矜精者也故能言可使陽烈之類<lb/>
+以撿下<hi>宋均曰矜謂使人自矜㽵精審也猩猩言說人善惡是陽氣之烈好善王者所以検下也</hi>
+廣志曰猩猩似狟<hi>音丸</hi>聲如兒啼不聞其言出交阯封溪縣<lb/>
+山海經曰有獸人面名曰猩猩<lb/>
+又曰猩猩知人名其爲獸如豕而人面<lb/>
+山海經讃曰猩猩似狐走立行伏懷木挺刀少辛明目<lb/>
+華陽國志曰永昌郡有猩猩能言其血可以染朱罽<lb/>
+孫卿子曰猩猩能言笑亦二足無毛而君子啜其羮食其<lb/>
+肉故人非以二足無毛以知禮也<lb/>
+吕氏春秋曰伊尹說曰肉之美者猩猩之脣<lb/>
+<pb n="KR3k0012_SBCK_908-6a"/>
+淮南萬畢術曰歸終知來猩猩知往<hi>注曰歸終猩猩並神獸</hi>
+括地圖曰猩猩人面豕身知人名<lb/>
+蜀志曰封溪縣有獸曰猩猩體似猪面似人音作小兒啼<lb/>
+聲旣能語又知人姓名人知以酒取之猩猩覺𥘉暫甞之<lb/>
+得其味甘而飲之終見羈纓也<lb/>
+酈善長注水經曰西蜀封溪縣猩猩人面獸形能言語<lb/>
+南方草物狀曰猩猩之獸生在野中狀如㹠子民人捕取<lb/>
+交阯武平興古有之<lb/>
+晉郭璞猩猩讃曰能言之獸是謂猩猩厥狀似貛號音若<lb/>
+嬰自然知徃頗測物情<lb/>
+　　　　　<graphic n="KR0859" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0859.png" mimeType="image/png"/>
+                    <graphic n="KR0859" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0859.png" mimeType="image/png"/>
+                    <hi>音翡</hi>
+爾雅曰<graphic n="KR0859" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0859.png" mimeType="image/png"/>
+                    <graphic n="KR0859" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0859.png" mimeType="image/png"/>如人𬒳髮迅走食人<lb/>
+說文曰<graphic n="KR0859" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0859.png" mimeType="image/png"/>
+                    <graphic n="KR0859" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0859.png" mimeType="image/png"/>
+                    <hi>人身反踵笑即上脣掩其目一名梟羊北方謂之土螻</hi>
+<pb n="KR3k0012_SBCK_908-6b"/>
+山海經曰<graphic n="KR0859" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0859.png" mimeType="image/png"/>
+                    <graphic n="KR0859" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0859.png" mimeType="image/png"/>如人面脣黒身有毛反踵見人則笑笑則<lb/>
+上脣掩目交廣及南康山中有大者丈餘俗呼爲山都<lb/>
+山海經圗讃曰<graphic n="KR0859" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0859.png" mimeType="image/png"/>
+                    <graphic n="KR0859" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0859.png" mimeType="image/png"/>怪獸𬒳髮操竹獲人則笑脣蓋其目<lb/>
+終亦號咷反爲我戮<lb/>
+呉都賦曰猩猩啼而就擒<graphic n="KR0859" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0859.png" mimeType="image/png"/>
+                    <graphic n="KR0859" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0859.png" mimeType="image/png"/>笑而𬒳格<lb/>
+　　　　　風母<lb/>
+十洲記曰炎州有風生獸似豹青色大如猩猩燒之不死<lb/>
+斫刺不入以鐵椎鍜其刀頭乃死以其口向風湏臾活以<lb/>
+石上菖蒲塞其鼻即死取其腦菊華和服之盡卜斤夀五<lb/>
+百嵗<lb/>
+南州異物記曰風母獸一名平猴狀如猴無毛赤目若行<lb/>
+逢人便叩頭似如懼罪自乞人若撾打之愜然死地無復<lb/>
+氣息小得風吹湏臾能起<lb/>
+<pb n="KR3k0012_SBCK_908-7a"/>
+抱朴子曰内篇曰風生獸似豹青色大如猩猩生南海大<lb/>
+林中張取積薪數車以燒之薪盡此獸在灰中不然其毛<lb/>
+不燋斫刺不入打之如皮囊以錐鎪其頭數十乃死<lb/>
+嶺南異物志風猩如猿猴而小晝日踡伏不能動夜則騰<lb/>
+躍甚疾好食蜘蛛蟲打殺以口向風復活唯破腦不復生<lb/>
+矣以酒浸愈風疾南人相傳云此獸常持一小杖遇物則<lb/>
+指飛走悉不能去人有得之者所指必有獲夷人施罟網<lb/>
+旣得其獸不復見其杖杖之數百乃肯爲人取或云邕州<lb/>
+首領寗洄得之洄資産巨萬僮伎數百洄甚秘其事<lb/>
+　　　　　豻<hi>音岸</hi>
+說文曰豻胡地野狗也<lb/>
+異物志曰豻猨屬頭形正方髮長尺餘皆蒼色犬類似人<lb/>
+欲有所視輒揺頭兩手𬒳髮不爾則覆鄣其兩目衣毛皤<lb/>
+<pb n="KR3k0012_SBCK_908-7b"/>
+皤若披狐裘木居洄藏宻向乃得見耳<lb/>
+　　　　　蹷<lb/>
+爾雅曰西方有比肩獸與卭卭矩　比焉其名曰蹷<lb/>
+孫子曰北方有獸其名曰蹷前足䑕後足兎是獸也甚矣<lb/>
+其愛蛩蛩巨虚也食得甘草必齧以遺蛩蛩巨虚蛩蛩巨<lb/>
+虚見人將來必負蹷以走蹷非性心愛蛩蛩巨虚也爲假<lb/>
+足也二獸者亦非性心愛蹷也爲其得甘草而遺之故也<lb/>
+太平御覽卷第九百八<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

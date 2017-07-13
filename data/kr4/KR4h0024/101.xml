@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0024_SBCK_101-1a"/>
+唐文粹後序<lb/>
+故姚右史纂唐賢之文百卷用意精博丗尤重<lb/>
+之然卷帙繁浩人欲傳録未易爲力臨安進士<lb/>
+孟琪代襲儒素家富文央爰事摹印以廣流布<lb/>
+觀其校之是寫之工鏤之善勤亦至矣噫古之<lb/>
+藏書者必芟竹鏟木殫絙竭毫盛其藴宏其載<lb/>
+乃能有之今是書也積之不盈几祕之不滿笥<lb/>
+無煩簡札而坐獲至寶士君子有志于學其將<lb/>
+捨諸若夫述作之旨悉於前序此不復云寶元<lb/>
+二年嘉平月　殿中侍御史吳興施昌言敘<lb/>
+<pb n="KR4h0024_SBCK_101-1b"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2a0029_WYG_193-1a"/>
+　舊五代史巻九十六攷證<lb/>
+晉列傳十一孔崇弼傳　案新唐書世系表作昌弼字<lb/>
+　佐化是書作崇弼益避後唐廟諱改<lb/>
+時族兄昭序案新唐書世系表作昌序字昭舉是書<lb/>
+　作昭序疑亦因避諱而改也<lb/>
+程遜傳天福三年秋命使吳越及使迴遭風水而溺焉<lb/>
+　案通鑑攷異晉實録天福二年十一月加錢元瓘副<lb/>
+　元帥國王程遜等為加恩使四年十月丙午以程遜<lb/>
+<pb n="KR2a0029_WYG_193-1b"/>
+　没于海廢朝贈官程遜傳云天福三年秋使吳越使<lb/>
+　回溺死元瓘傳云天福三年封吳越國王葢三年冬<lb/>
+　制下遜等以三年至杭州不知溺死在何年而晉朝<lb/>
+　以四年十月始聞之也<lb/>
+馬重績傳八象三統　三統原本作三紀今從歐陽史<lb/>
+　改正<lb/>
+　<lb/>
+　舊五代史巻九十六攷證<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

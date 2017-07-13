@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0015_WYG_009-1a"/>
+跋<lb/>
+慎早聞詩於李文正先生曰唐人號能詩者無慮千家<lb/>
+其有傳者百餘集而止其集可以諷詠興觀難以章什<lb/>
+拈摘者自李杜外雖髙岑王孟固有憾然矣又曰選唐<lb/>
+者凡幾人雖精駁相出入然而良金美玉人共珍拾未<lb/>
+有隠焉者也慎周於是言則取唐集之存者披之其的<lb/>
+然可傳者昔人蓋嘗表之矣棄餘雖富平漫實繁山林<lb/>
+遐逺篇籍罕具者不必以未見為恨也河中劉閏之苦<lb/>
+<pb n="KR4h0015_WYG_009-1b"/>
+勤聲律於唐尤數數者近輯二皇甫集將鍥布之吾觀<lb/>
+二子生實伯仲故調亦雅似時以方張景陽孟陽焉然<lb/>
+二張集吾不見其全矣跡若是者吾見二陸焉評者舎<lb/>
+陸而稱張知儗倫矣鳴呼二陸之集自昭明選外無留<lb/>
+良者况又甚亞乎吾於是安得不重有於文正之言也<lb/>
+正徳戊寅六月成都楊慎書<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

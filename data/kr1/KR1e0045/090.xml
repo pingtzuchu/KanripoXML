@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>春秋分記卷九十</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書<lb/>
+　春秋分記卷九十　　　　　宋　程公說　撰<lb/>
+　　四夷附録第三<lb/>
+　　　介　　　　　　　　　淮夷<lb/>
+　　　山夷　　　　　　　　　濮夷<lb/>
+　　　夷虎　　　　　　　　　羣蠻<lb/>
+　　　肅慎<lb/>
+　　　　介<lb/>
+<pb n="1b"/>
+　　今宻州膠西縣杜日東夷國<lb/>
+僖公經二十有九年春介葛盧來冬介葛盧來<lb/>
+傳二十九年春介葛盧來朝舍于昌衍之上公在㑹<hi>㑹晉圍許</hi>饋之芻米禮也冬介葛盧來以未見公故復來朝禮之加<lb/>
+燕好介葛盧聞牛鳴曰是生三犧皆用之矣其音云問之而信<lb/>
+經三十年秋介人侵蕭<lb/>
+　　　　淮夷<lb/>
+　　東夷居淮水者又有敖東夷地<lb/>
+<pb n="2a"/>
+僖公傳十三年夏㑹于鹹淮夷病杞故<hi>經見齊</hi>
+昭公經四年夏楚子蔡侯陳侯鄭伯許男徐子滕子頓<lb/>
+子胡子沈子小邾子宋世子佐淮夷㑹于申秋七月楚<lb/>
+子蔡侯陳侯許男頓子胡子沈子淮夷伐吳<lb/>
+哀公傳十九年秋楚沈諸梁伐東夷三夷男女及楚師<lb/>
+盟于敖<hi>從越之夷三種</hi>
+　　　　山夷<lb/>
+　　杜預此年戎即山夷<lb/>
+<pb n="2b"/>
+文公傳十六年秋八月楚大饑戎伐其西南至于阜山<lb/>
+師于大林又伐其東南至于陽丘以侵訾枝<lb/>
+　　　　濮夷<lb/>
+　　南夷也建寧縣南有濮夷<lb/>
+文公傳十六年秋八月麇人率百濮聚于選將伐楚楚<lb/>
+人謀徙阪髙蒍賈曰麇與百濮謂我饑不能師故伐之<lb/>
+也若我出師必懼而歸百濮離居誰暇謀人乃出師旬<lb/>
+有五日百濮乃罷<lb/>
+<pb n="3a"/>
+昭公傳九年春二月楚然丹遷城父人於陳以夷濮西<lb/>
+田益之<lb/>
+傳十九年夏五月楚子為舟師以伐濮<lb/>
+　　　　夷虎<lb/>
+　　蠻夷叛楚者<lb/>
+哀公傳四年夏楚人既克夷虎乃謀北方圍蠻氏<hi>詳見楚及戎蠻</hi>
+　　　　羣蠻<lb/>
+<pb n="3b"/>
+文公傳十六年秋八月庸人帥羣蠻以叛楚子分為二<lb/>
+隊以伐庸羣蠻從楚子盟<hi>見楚莊强故</hi>
+　　　　肅慎<lb/>
+　　北夷也在渤海國都三十里<lb/>
+昭公傳九年周王<hi>景王</hi>使辭於晉曰肅慎燕亳吾北土也<lb/>
+論曰余讀書至肅慎來賀而有感焉成王東伐淮夷曽<lb/>
+何與於肅慎氏而能格其來賀乎先王以徳懷要荒其<lb/>
+有叛亂者則先以文告次以威讓而猶有不服焉則行<lb/>
+<pb n="4a"/>
+征誅以正之罪之大者或至於遷滅蓋徳以起其仁心<lb/>
+威以折其彊很故畏威者服懐徳者來周成王東伐淮<lb/>
+夷遂踐奄遷其君於蒲姑威亦怒矣肅慎氏懷其德以<lb/>
+來則非有所彊而致也肅慎為國逺在東北其事莫得<lb/>
+而詳傳載景王之辭曰肅慎燕亳吾北土也則肅慎之<lb/>
+世服於周室於是見矣嗚呼天下有道守在四夷先王<lb/>
+以徳懷要荒則逺人安有覬覦之心王者之跡熄而戎狄<lb/>
+之患啟故春秋撥亂世反之正則内齊晉而外呉楚所<lb/>
+<pb n="4b"/>
+以嚴其訓也自王氏以新説為國是春秋之學為世大<lb/>
+禁斷國論者無所折𠂻人欲日長天理日消其效使神<lb/>
+州陸沈而莫之拯物極必反否必泰二帝三王之道有<lb/>
+能紹而明之推原春秋大公至正之法則闢邪説正人<lb/>
+心用夏變夷復帝王之治舉而措之無難矣<lb/>
+　<lb/>
+　<lb/>
+　春秋分記卷九十<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

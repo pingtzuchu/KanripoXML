@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>張子抄釋</head>
+    <p>
+<pb n="KR3a0090_WYG_000-1a"/>
+欽定四庫全書　　　　　子部一<lb/>
+　張子抄釋　　　　　　　儒家類<lb/>
+　　提要<lb/>
+　　　<hi>臣</hi>等謹案張子抄釋六卷明吕柟撰是編摘<lb/>
+　　　録張子之書以西銘東銘為冠次正蒙十九<lb/>
+　　　篇次經學理窟十一篇次語録次文集而終<lb/>
+　　　以行狀亦每條各附以釋如周子抄釋之例<lb/>
+　　　首有嘉靖辛丑柟自序稱張子書存者止二<lb/>
+<pb n="KR3a0090_WYG_000-1b"/>
+　　　銘正䝉理窟語録文集而文集又未完止得<lb/>
+　　　二卷於馬伯循氏諸書皆言簡意實出於精<lb/>
+　　　思力行之後顧其書散見漫行渙無統紀而<lb/>
+　　　一義重出亦容有之暇嘗稡抄成帙注釋數<lb/>
+　　　言畧發大㫖以便初學觀省葢其謫官解州<lb/>
+　　　時作也案虞集作吳澄行状稱澄校正張子<lb/>
+　　　之書挈東西銘於篇首而正䝉次之大意與<lb/>
+　　　柟此本合澄本今未見柟此本簡汰不茍較<lb/>
+<pb n="KR3a0090_WYG_000-2a"/>
+　　　　世所行張子全書亦為精要矣乾隆四十五<lb/>
+　　　　年七月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+<pb n="KR3a0090_WYG_000-3a"/>
+張子抄釋原序<lb/>
+横渠張子書甚多今其存者止二銘正䝉理窟語録及<lb/>
+文集而文集又未完止得二卷於三原馬伯循氏然諸<lb/>
+書皆言簡意實出於精思力行之後至論仁孝神化政<lb/>
+教禮樂蓋自孔孟後未有能如是切者也顧其書散見<lb/>
+漫行涣無統紀而一義重出亦容有之暇嘗稡抄成帙<lb/>
+注釋數言略發大㫖以便初學者之觀省謫解之第三<lb/>
+年廵按潛江初公恐四方無是本也命刻諸解梁書院<lb/>
+<pb n="KR3a0090_WYG_000-3b"/>
+以廣布云嘉靖五年三月辛丑後學髙陵吕柟序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

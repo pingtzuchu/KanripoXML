@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>銅人鍼灸經</head>
+    <p>
+<pb n="KR3e0017_WYG_000-1a"/>
+欽定四庫全書　　　　　子部五<lb/>
+　銅人鍼灸經　　　　　　醫家類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案銅人鍼灸經七卷不著撰人名氏<lb/>
+　　　　按晁公武讀書後志曰銅人腧穴鍼灸圖三<lb/>
+　　　　卷皇朝王惟徳撰仁宗嘗詔惟徳攷次鍼灸<lb/>
+　　　　之法鑄銅人為式分臟腑十二經旁注腧穴<lb/>
+　　　　所㑹刻題其名併為圖法及主療之術刻板<lb/>
+<pb n="KR3e0017_WYG_000-1b"/>
+　　　　傳於世王應麟玉海曰天聖五年十月壬辰<lb/>
+　　　　醫官院上所鑄腧穴銅人式二詔一置醫官<lb/>
+　　　　院一置大相國寺仁濟殿先是上以鍼砭之<lb/>
+　　　　法𫝊述不同命尚藥奉御王惟一考明堂氣<lb/>
+　　　　穴經絡之㑹鑄銅人式又纂集舊聞訂正訛<lb/>
+　　　　謬為銅人腧穴鍼灸圖經三卷至是上之摹<lb/>
+　　　　印頒行翰林學士夏竦序所言與晁氏畧同<lb/>
+　　　　惟王惟徳作惟一人名小異耳此本卷數不<lb/>
+<pb n="KR3e0017_WYG_000-2a"/>
+　　　　符而大致與二家所言合疑或天聖之舊本<lb/>
+　　　　而後人析為七卷歟周宻齊東野語曰嘗聞<lb/>
+　　　　舅氏章叔恭云昔倅襄州日嘗獲試鍼銅人<lb/>
+　　　　全像以精銅為之腑臟無一不具其外腧穴<lb/>
+　　　　則錯金書穴名於旁凡背面二器相合則渾<lb/>
+　　　　然全身葢舊都用此以試醫士者其法外塗<lb/>
+　　　　黄蠟中實以水俾醫工以分析寸按穴試鍼<lb/>
+　　　　中穴則鍼入而水出稍差則鍼不可入矣亦<lb/>
+<pb n="KR3e0017_WYG_000-2b"/>
+　　　　竒巧之器也後趙南仲歸之内府叔恭嘗寫<lb/>
+　　　　二圖刻梓以𫝊焉今宋銅人及章氏圖皆不<lb/>
+　　　　𫝊惟此書存其梗槪爾乾隆四十六年正月<lb/>
+　　　　恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

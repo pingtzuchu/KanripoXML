@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>東里集總目</head>
+    <p>
+<pb n="KR4e0090_WYG_000-1a"/>
+欽定四庫全書　　　　　集部六<lb/>
+　東里集總目　　　　　　别集類五<hi>明</hi>
+　　文集二十五巻<lb/>
+　　詩集三巻<lb/>
+　　續集六十二巻<lb/>
+　　别集三巻<lb/>
+　　　　<hi>臣</hi>等謹案東里集九十三巻明楊士竒撰士<lb/>
+　　　　竒名寓以字行泰和人建文初以薦入翰林<lb/>
+<pb n="KR4e0090_WYG_000-1b"/>
+　　　　充編纂官成祖即位授編修尋簡入内閣典<lb/>
+　　　　機務厯官少師華盖殿大學士卒贈太師諡<lb/>
+　　　　文貞事蹟具明史本傳明初三楊並稱而士<lb/>
+　　　　竒文筆特優制誥碑版多出其手仁宗雅好<lb/>
+　　　　歐陽修之文士竒文亦平正紆餘得其彷彿<lb/>
+　　　　可稱舂容典雅之音當時館閣著作遂沿為<lb/>
+　　　　流派李夢陽詩所云宣徳文體多渾淪偉哉<lb/>
+　　　　東里廊廟珍者盖亦推本於士竒而言其後<lb/>
+<pb n="KR4e0090_WYG_000-2a"/>
+　　　　效尤既久或病其漸入於膚庸然亦不善學<lb/>
+　　　　者索貌遺神之過若就其所作論之實能不<lb/>
+　　　　失古格者其轉移一代之風氣非偶然也集<lb/>
+　　　　分正續二編正集所載較少續集幾至倍之<lb/>
+　　　　其别集四種曰代言録乃制勅之類曰聖諭<lb/>
+　　　　録曰奏對録曰附録則士竒之傳誌諸文咸<lb/>
+　　　　在焉李東陽懐麓堂詩話曰楊文貞東里集<lb/>
+　　　　手自選擇刻之廣東為人竄入數首後其子<lb/>
+<pb n="KR4e0090_WYG_000-2b"/>
+　　　　孫又刻為續集非公意也然則續集乃士竒<lb/>
+　　　　所自芟棄非盡得意之作以其搜羅較富故<lb/>
+　　　　仍其舊併録之焉乾隆四十四年正月恭校<lb/>
+　　　　上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="KR4e0090_WYG_000-3a"/>
+東里文集原序<lb/>
+天生間世之才必予之以清明粹温之資際夫重熙累<lb/>
+洽之運發為事業参贊經綸輔成國家之盛著為文章<lb/>
+宣金石垂汗簡以彰文明之治夫豈偶然哉觀於今少<lb/>
+師東里楊公士竒可見矣公江右西昌宦族蚤失怙奮<lb/>
+志卓立讀書數行俱下既冠涉迹湖湘漢沔所交鴻儒<lb/>
+碩士所談道徳仁義而所受清明粹温者養之直而資<lb/>
+之深芳潤内融彪炳煜乎外見濡豪引紙力追古作於<lb/>
+<pb n="KR4e0090_WYG_000-3b"/>
+是聲名洋溢受薦而起際遇太宗文皇帝正位宸極建<lb/>
+内閣以嚴禁宻公與淮等七人首膺拔擢之命典中秘<lb/>
+兼知外制厯事四聖熙洽之朝凡大論議大制作出公<lb/>
+居多肆其餘力旁及應世之文率皆關乎世教吐辭賦<lb/>
+詠沖澹和平渢渢乎大雅之音其可謂雄傑俊偉者矣<lb/>
+公之立心制行本之以忠貞亮直持之以和厚謙慎以<lb/>
+故清議咸歸重之洪惟我朝自太祖高皇帝肇開文運<lb/>
+儒雅彬彬軰出以公述作徵諸前烈頡頏下上能幾人<lb/>
+<pb n="KR4e0090_WYG_000-4a"/>
+焉方之當時齊驅並駕復幾人焉謂之間世之才其信<lb/>
+然哉淮也孱弱無似旦夕相聚處聆笑語接矩範禆益<lb/>
+良多屬以抱疾怠事上疏乞骸蒙㤙賜歸調息旋軫之<lb/>
+後雲泥逈隔離羣索居荒落殆甚公不遐棄貽書以文<lb/>
+集序見屬輒以平昔之所知公論之共推者序述如右<lb/>
+昔昌黎之文李漢序之歐陽之文蘇軾序之交輝迭映<lb/>
+於千百世之逺淮豈知言者哉公命也其奚敢辭正統<lb/>
+五年嵗次庚申秋八月既朢榮禄大夫少保户部尚書<lb/>
+<pb n="KR4e0090_WYG_000-4b"/>
+兼武英殿大學士永嘉黄淮序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_388-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選巻三百八十九<lb/>
+　　荇花類<hi>附葓</hi>
+　　　七言絶句<lb/>
+　　　　胥門閒泛　　　　　　　　<hi>唐</hi>皮日休<lb/>
+　青翰虚徐夏思清愁煙漠漠荇花平醉来欲把田田葉<lb/>
+　盡裹當時醒酒鯖<lb/>
+　　　　次余仲庸松風閣韻　　　　<hi>宋</hi>裘萬頃<lb/>
+<pb n="KR4h0141_WYG_388-1b"/>
+　已著遺經洗此心更尋流水濯吾襟經旬不渉谿邉路<lb/>
+　荇帯苔錢如許深<lb/>
+　　　　水荇　　　　　　　　　　<hi>明</hi>彭紹賢<lb/>
+　泉分石竇瀉珠光坐挹磯邉水荇香何處歌聲最幽窕<lb/>
+　臨流那復羡滄浪<lb/>
+　　　附葓<lb/>
+　　　七言絶句<lb/>
+　　　　經舊逰　　　　　　　　　<hi>唐</hi>張　祜<lb/>
+<pb n="KR4h0141_WYG_388-2a"/>
+　去年来送行人處依舊蟲聲古岸南斜日照谿雲影斷<lb/>
+　水葓花穂倒空潭<lb/>
+　　　　湖上暮歸　　　　　　　　<hi>明</hi>史　鑑<lb/>
+　鴨羣呼去水雲空香滴葓花露氣濃僧寺茫茫看不見<lb/>
+　暮煙生處忽聞鐘<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR4h0141_WYG_388-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選巻三百八十九<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>石門集目錄</head>
+    <p>
+<pb n="KR4d0594_WYG_000-1a"/>
+欽定四庫全書　　　　　集部五<lb/>
+　石門集目錄　　　　　　别集類四<hi>元</hi>
+　　巻一<lb/>
+　　　古賦<lb/>
+　　巻二<lb/>
+　　　五言古詩<lb/>
+　　　歌行<lb/>
+　　巻三<lb/>
+<pb n="KR4d0594_WYG_000-1b"/>
+　　　樂府辭<lb/>
+　　　五言律詩<lb/>
+　　　五言絶句<lb/>
+　　巻四<lb/>
+　　　七言律詩<lb/>
+　　巻五<lb/>
+　　　七言抝體<lb/>
+　　　七言長律<lb/>
+<pb n="KR4d0594_WYG_000-2a"/>
+　　　七言絶句<lb/>
+　　巻六<lb/>
+　　　記<lb/>
+　　巻七<lb/>
+　　　序<lb/>
+　　　　臣等謹案石門集七巻明梁寅撰寅字孟敬<lb/>
+　　　　新喻人世業農寅獨自力於學淹貫五經百<lb/>
+　　　　氏元末辟集慶路儒學訓導以親老乞歸隠<lb/>
+<pb n="KR4d0594_WYG_000-2b"/>
+　　　　居教授明洪武初徵修禮書寅年已六十餘<lb/>
+　　　　書成將授官稱老病辭還結廬石門山四方<lb/>
+　　　　士多從學稱為梁五經又稱石門先生事蹟<lb/>
+　　　　具明史儒林傳寅平生著述甚富於易書詩<lb/>
+　　　　春秋周禮禮記皆有訓釋其史學則䇿要史<lb/>
+　　　　斷等書雜著則耄言論林蒐古集格物編等<lb/>
+　　　　書不下数千巻今俱已散佚惟詩文集僅存<lb/>
+　　　　而世所行又有二本一即此本乃馬氏玲瓏<lb/>
+<pb n="KR4d0594_WYG_000-3a"/>
+　　　　山館所抄一為新喻知縣崇安暨用其所刋<lb/>
+　　　　本分為十巻與此本稍有詳畧而大致不甚<lb/>
+　　　　相逺寅邃於經術故其文皆能原本注䟽經<lb/>
+　　　　義紛綸頗為醇雅有法詩亦舂容淡逺規仿<lb/>
+　　　　陶韋殊無塵俗之氣惟河源一記過信傳聞<lb/>
+　　　　之説其失正與潘昻霄相同書生拘墟之見<lb/>
+　　　　承譌襲謬無足多責固存而不論焉可矣乾<lb/>
+　　　　隆四十三年十一月恭校上<lb/>
+<pb n="KR4d0594_WYG_000-3b"/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

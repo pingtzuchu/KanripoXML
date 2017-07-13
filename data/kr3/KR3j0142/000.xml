@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>庶齋老學叢談</head>
+    <p>
+<pb n="KR3j0142_WYG_000-1a"/>
+欽定四庫全書　　　　　子部十<lb/>
+　庶齋老學叢談　　　　　雜家類三<hi>雜説之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案庶齋老學叢談三卷元盛如梓撰<lb/>
+　　　　如梓衢州人庶齋其自號也嘗官崇明縣判<lb/>
+　　　　官其書多辨論經史評隲詩文之語而朝野<lb/>
+　　　　逸事亦間及之分為三巻而第二卷别析一<lb/>
+　　　　子巻實四卷也大抵皆隨時掇拾而成如載<lb/>
+<pb n="KR3j0142_WYG_000-1b"/>
+　　　　陸游姚將軍趙宗印二詩惜不得姚名字而<lb/>
+　　　　渭南集實有姚平仲傳王士禎居易録已摘<lb/>
+　　　　其疎他若引左傳晉景公病如厠陷而卒謂<lb/>
+　　　　國君何必如厠而以為文勝其實不知國策<lb/>
+　　　　趙襄子史記慎夫人皆載有此事古人朴質<lb/>
+　　　　不以為怪豈可執此以證左傳之誣又於賈<lb/>
+　　　　似道有豪傑之譽載曹東畎媟俚之詞皆為<lb/>
+　　　　失當然如駁吹劍録謂廣陵散不始於王陵<lb/>
+<pb n="KR3j0142_WYG_000-2a"/>
+　　　　毋邱儉以姑蔑墓證韋昭註國語之非此類<lb/>
+　　　　亦頗見考據又各條之下間註出某人説盖<lb/>
+　　　　如梓猶及與元初故老游故所紀多前人緒<lb/>
+　　　　論頗有可採云乾隆四十六年十月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

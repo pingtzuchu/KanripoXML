@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>周易舉正</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　經部一<lb/>
+　周易舉正　　　　　　易類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案周易舉正三卷舊本題唐郭京撰<lb/>
+　　　　京不知何許人崇文總目稱其官為蘇州司<lb/>
+　　　　户㕘軍據自序言御注孝經刪定月令則當<lb/>
+　　　　為開元後人序稱曽得王輔嗣韓康伯手寫<lb/>
+　　　　真本比校今世流行本及國鄉貢學人等本<lb/>
+<pb n="1b"/>
+　　　　舉正其謬凡所改定以朱墨書别之其書崇<lb/>
+　　　　文總目始著録書録解題於宋咸易補注條<lb/>
+　　　　不稱咸得此書於歐陽修是天聖慶厯間乃<lb/>
+　　　　行于世也洪邁李燾並以為信晁公武則謂<lb/>
+　　　　以繇彖相正有闕漏可推而知託言得王韓<lb/>
+　　　　手札及石繼趙汝楳亦詆其挾王韓之名以<lb/>
+　　　　更古文王應麟又援後漢書左雄傳職斯禄<lb/>
+　　　　薄句證其改旅卦斯字為㒋之非近時恵棟<lb/>
+<pb n="2a"/>
+　　　　作九經古義駁之尤力今考是書唐志不載<lb/>
+　　　　李燾以為京開元後人故所為書不得著録<lb/>
+　　　　<hi>案燾説見文獻通考</hi>然但可以解舊書經籍志耳若新<lb/>
+　　　　書藝文志則唐末之書無不具列豈因開元<lb/>
+　　　　以後而遺之疑其書出宋人依託非惟王韓<lb/>
+　　　　手札不可信併唐郭京之名亦在有無疑似<lb/>
+　　　　之間也顧其説推究文義往往近理故晁公<lb/>
+　　　　武雖知其為託名而所進易解乃多引用即<lb/>
+<pb n="2b"/>
+　　　　朱子本義於坤象𫝊之履霜堅氷賁象𫝊之<lb/>
+　　　　剛柔交錯震彖𫝊之不喪匕鬯亦頗從其説<lb/>
+　　　　則亦未嘗無可取矣晁公武讀書志載原序<lb/>
+　　　　自稱所改正者一百三十五處二百七十三<lb/>
+　　　　字而洪邁容齋隨筆趙汝楳易序叢書皆作<lb/>
+　　　　一百三處今本所載原序亦稱差謬處一百<lb/>
+　　　　三節則晁氏所云殆為疎舛又原本稱别以<lb/>
+　　　　朱墨葢用經典釋文之例今所行本已全以<lb/>
+<pb n="3a"/>
+　　　　墨書葢非其舊以非宏㫖之所繫故仍從近<lb/>
+　　　　刻焉乾隆四十六年十月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="4a"/>
+周易舉正原序<lb/>
+我唐御注孝經刪定月令盖為前儒用意未及精研後<lb/>
+漢太學刋石撰集說文慮其日月浸深轉冩訛謬京也<lb/>
+厯代𫝊授五經為業其於易道討覈偏深曽得王輔嗣<lb/>
+韓康伯手冩註定𫝊授真本讀誦比校今世流行本及<lb/>
+國學鄉貢學人等本或將經入註用註作經小象中間<lb/>
+以下句反居其上爻辭註内移後義却䖏於前又兼有<lb/>
+脫漏兩字顛倒訛誤増省義理不通今并依定本舉正<lb/>
+<pb n="4b"/>
+其謬仍於謬誤之處以朱書異之希好事君子志學通<lb/>
+儒詳而觀之則經註通流雅鄭不紊都計一部中差謬<lb/>
+䖏總一百三節列為一部具述訛舛因目為周易舉正<lb/>
+分為上中下三卷𫝊諸志學者云<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

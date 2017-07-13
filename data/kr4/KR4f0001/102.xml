@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4f0001_WYG_102-1a"/>
+　欽定四庫全書<lb/>
+聖祖仁皇帝御製文第二集巻六目録<lb/>
+　　勅諭<lb/>
+　　　　諭禮部<lb/>
+　　　　諭學士舜拜<lb/>
+　　　　諭宗人府<lb/>
+　　　　諭内閣<lb/>
+　　　　諭吏部<lb/>
+<pb n="KR4f0001_WYG_102-1b"/>
+　　　　諭大學士伊桑阿梁清標學士齊穡舜拜趙山<lb/>
+　　　　　拜里阿喇密石文桂盧琦<lb/>
+　　　　諭大學士伊桑阿王熙梁清標學士凱音布趙<lb/>
+　　　　　山拜里阿喇密朱都納薩穆哈石文桂王封<lb/>
+　　　　　濚<lb/>
+　　　　諭内閣<lb/>
+　　　　諭大學士伊桑阿王熙梁清標學士凱音布拜<lb/>
+　　　　　里朱都納薩穆哈吳什巴石文桂王封濚<lb/>
+<pb n="KR4f0001_WYG_102-2a"/>
+　　　諭大學士伊桑阿等<lb/>
+　　　諭都統瓦岱<lb/>
+　　　諭大學士伊桑阿學士薩穆哈石文桂<lb/>
+　　　諭大學士伊桑阿尚書阿蘭泰紀爾塔布侍郎<lb/>
+　　　　額爾赫圖<lb/>
+　　　諭大學士伊桑阿學士凱音布薩穆哈吳什巴<lb/>
+　　　　石文桂<lb/>
+　　　諭湖廣巡撫丁思孔<lb/>
+<pb n="KR4f0001_WYG_102-2b"/>
+　　　諭學士凱音布吳什巴石文桂<lb/>
+　　　諭學士凱音布吳什巴石文桂<lb/>
+　　　諭内閣<lb/>
+　　　諭大學士伊桑阿學士凱音布朱都納薩穆哈<lb/>
+　　　　邁圖索諾和<lb/>
+　　　諭大學士伊桑阿王熙梁清標學士凱音布朱<lb/>
+　　　　都納邁圖索諾和彭孫遹李振裕郭琇<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

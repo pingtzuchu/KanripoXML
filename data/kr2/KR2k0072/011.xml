@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>河源紀畧卷四</head> <lb/>
+    <p>
+<pb n="KR2k0072_WYG_011-1a"/>
+欽定四庫全書<lb/>
+　河源紀畧卷四<lb/>
+　列表一<lb/>
+　　河源分合伏見表一<hi>自發源至合流處喀什噶爾源二千七百里葉爾羌源二</hi>
+　　　<hi>千一百里和闐源一千一百里</hi>
+<pb n="KR2k0072_WYG_011-2a"/>
+</p>
+<p>
+<pb n="KR2k0072_WYG_011-3a"/>
+</p>
+<p>
+<pb n="KR2k0072_WYG_011-4a"/>
+</p>
+<p>
+<pb n="KR2k0072_WYG_011-5a"/>
+</p>
+<p>
+<pb n="KR2k0072_WYG_011-6a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　　　按漢書言河有二源今攷喀什噶爾河葉爾羌<lb/>
+　　　河皆出蔥嶺和闐河自南來合謹列大河正源<lb/>
+<pb n="KR2k0072_WYG_011-6b"/>
+　　　為第一格左右來㑹諸水為第二格凡諸水伏<lb/>
+　　　流者據圖審勢可以定其歸墟其有隔一隔二<lb/>
+　　　隔三隔四來㑹者則依其遞注之次第分格斜<lb/>
+　　　排俾各相連屬以便省覽<lb/>
+　　河源分合伏見表二<hi>自合流至羅布淖爾一千六百里</hi>
+<pb n="KR2k0072_WYG_011-7a"/>
+</p>
+<p>
+<pb n="KR2k0072_WYG_011-8a"/>
+</p>
+<p>
+<pb n="KR2k0072_WYG_011-9a"/>
+</p>
+<p>
+<pb n="KR2k0072_WYG_011-10a"/>
+</p>
+<p>
+<pb n="KR2k0072_WYG_011-11a"/>
+　　　按大河合流東行其北境會合諸源最為盛大<lb/>
+　　　如阿克蘇河庫車河海都河皆源逺流長支渠<lb/>
+　　　交貫南境則沙山延亘可見之水不過十之一<lb/>
+　　　二概從闕疑以昭矜慎<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

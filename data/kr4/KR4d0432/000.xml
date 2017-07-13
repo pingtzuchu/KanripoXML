@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>提要<lb/>
+                </head>
+    <p>
+<pb n="KR4d0432_WYG_000-1a"/>
+欽定四庫全書　　　　　　集部五<lb/>
+　提要<lb/>
+　　剩語二巻　　　　　　　别集類四<hi>元</hi>
+　　　　<hi>臣</hi>等謹案是集見永樂大典中或題曰艾性夫<lb/>
+　　　　剰語或題曰艾性夫孤山晩稿而不著性夫為<lb/>
+　　　　名為字亦不載時代考江西通志稱撫州三艾<lb/>
+　　　　叔可字無可憲可字元徳性字天謂皆工于詩<lb/>
+　　　　性闔門教授執經者盈門著有孤山詩集與永<lb/>
+<pb n="KR4d0432_WYG_000-1b"/>
+　　　　樂大典所題孤山晩稿相合呉澄支言集有髙一<lb/>
+　　　　䕫妻艾氏墓誌稱為咸淳貢士性夫之女習見<lb/>
+　　　　其家儒效屢以朂其夫云云與永樂大典所題<lb/>
+　　　　艾性夫合疑江西通志作性夫字天謂傳刻失一<lb/>
+　　　　夫字也考集中有謝枋得輓詩一首則性夫元<lb/>
+　　　　初尚存又曹安讕言長語稱于成化五年之元江<lb/>
+　　　　署學一家多蔵書内一詩集乃江浙道提舉艾性<lb/>
+　　　　夫作貫酸齋作序云云宋無江浙道提舉盖<lb/>
+<pb n="KR4d0432_WYG_000-2a"/>
+　　　　其晩年已仕元矣性雖亦講學之家而其詩<lb/>
+　　　　氣韻清㧞以妍雅為宗絶不似宋末有韻之<lb/>
+　　　　語録五七言古體筆力排盪尤為擅長曹安<lb/>
+　　　　稱其七言律太辣五七言絶歌行語多闗世<lb/>
+　　　　教併稱其銅雀研撲滿吟臨卭道士招魂歌<lb/>
+　　　　三首所論頗為得實謹採掇排次釐為二巻<lb/>
+　　　　用存其概至原書本分集編次其巻目已不<lb/>
+　　　　可見而永樂大典内題作剰語者較多今故<lb/>
+<pb n="KR4d0432_WYG_000-2b"/>
+　　　　　用以標名不復更為分析焉乾隆四十六年<lb/>
+　　　　　九月恭校上<lb/>
+　　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　　　　總　校　官　<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

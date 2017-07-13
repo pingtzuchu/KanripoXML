@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>農政全書卷五十七</head> <lb/>
+    <p>
+<pb n="KR3d0007_WYG_057-1a"/>
+欽定四庫全書<lb/>
+　農政全書卷五十七<lb/>
+　　　　　　　　　　　　明　徐光啓　撰<lb/>
+　　荒政<hi>採周憲王救荒本草</hi>
+　　　米穀部<hi>實可食</hi>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_057-1b"/>
+野豌豆　生田野中苗初就地拖秧而生後分生莖又<lb/>
+苗長二尺餘葉似胡豆葉稍大又似苜蓿葉亦大開淡<lb/>
+粉紫花結角似家豌豆角但秕小味苦<lb/>
+　　救飢　採角煮食或收取豆煮食或磨麵製造食<lb/>
+　　　　　用與家豆同<lb/>
+<pb n="KR3d0007_WYG_057-2a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_057-2b"/>
+<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>豆　生平野中北土處處有之莖蔓延附草木上葉<lb/>
+似黒豆葉而窄小微尖開淡粉紫花結小角其豆似黒<lb/>
+豆形極小味甘<lb/>
+　　救飢　採取豆淘洗浄煮食或磨為麫打餅蒸食<lb/>
+　　　　　皆可<lb/>
+<pb n="KR3d0007_WYG_057-3a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_057-3b"/>
+山扁豆　生田野中小科苗髙一尺許葉似蒺䔧葉㣲<lb/>
+大根葉比苜蓿葉頗長又似初生豌豆葉開黄花結小<lb/>
+匾角兒味甜<lb/>
+　　救飢　採嫩角煠食其豆熟時收取豆煮食<lb/>
+<pb n="KR3d0007_WYG_057-4a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_057-4b"/>
+回回豆　又名那合豆生田野中莖青葉似蒺䔧葉又<lb/>
+似初生嫩皂莢而有細鋸齒開五瓣淡紫花如蒺䔧花<lb/>
+様結角如杏仁様而肥有豆如牽牛子㣲大味甜<lb/>
+　　救飢　採豆煮食<lb/>
+<pb n="KR3d0007_WYG_057-5a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_057-5b"/>
+胡豆　生田野間其苗初搨地生後分莖又葉似苜蓿<lb/>
+葉而細莖葉稍間開淡䓤白榻花結小角有豆如<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>豆<lb/>
+狀味甜<lb/>
+　　救飢　採取豆煑食或磨麫食皆可<lb/>
+<pb n="KR3d0007_WYG_057-6a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_057-6b"/>
+蚕豆　今處處有之生田園中科苗髙二尺許莖方其<lb/>
+葉狀類黒豆葉而團長光澤紋脉堅直色似豌豆頗白<lb/>
+莖葉稍間開白花結短角其豆如豇豆而小色赤味甜<lb/>
+　　救飢　採豆煮食炒食亦可<lb/>
+<pb n="KR3d0007_WYG_057-7a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_057-7b"/>
+山菉豆　生輝縣太行山車箱衝山野中苗莖似家菉<lb/>
+豆莖㣲細葉比家菉豆葉狹窄<graphic n="KR1359" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1359.png" mimeType="image/png"/>開白花結角亦瘦其<lb/>
+豆黯緑色味甘<lb/>
+　　救飢　採取其豆煮食或磨麫攤煎餅食亦可<lb/>
+<pb n="KR3d0007_WYG_057-8a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_057-8b"/>
+蕎麥苗　處處種之苗髙二三尺許就地科乂生其莖<lb/>
+色紅葉似杏葉而軟㣲<graphic n="KR1359" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1359.png" mimeType="image/png"/>開小白花結實作二小蒴味<lb/>
+甘平性寒無毒<lb/>
+　　救飢　採苗葉煠熟油鹽調食多食㣲瀉其麥或<lb/>
+　　　　　蒸使氣餾<hi>音溜</hi>於烈日中晒令口開舂取人<lb/>
+　　　　　煮作飯食或磨為麵作餅蒸食皆可<lb/>
+<pb n="KR3d0007_WYG_057-9a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_057-9b"/>
+御米花　本草名甖子粟一名象榖一名米囊一名囊<lb/>
+子䖏䖏有之苗髙一二尺葉似靛葉色而大邊皺多有<lb/>
+花乂開四瓣紅白花亦有千葉花者結榖似骲<hi>音雹</hi>箭頭<lb/>
+殻中有米數千粒似葶藶子色白隔年種則佳米味甘<lb/>
+性平無毒<lb/>
+　　救飢　採嫩葉煠熟油鹽調食取米作粥或與麵<lb/>
+　　　　　作餅皆可食其米和竹瀝煑粥食之皆美<lb/>
+　玄扈先生曰甞過嘉蔬嘉實不必救荒<lb/>
+<pb n="KR3d0007_WYG_057-10a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_057-10b"/>
+赤小豆　夲草舊云江淮間多種蒔今北土亦多有之<lb/>
+苗髙一二尺葉似豇豆葉㣲團<graphic n="KR1359" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1359.png" mimeType="image/png"/>開花似豇豆花㣲小<lb/>
+淡銀褐色有腐氣人故亦呼為腐婢結角比菉豆角頗<lb/>
+大角之皮角㣲白帶紅其豆有赤白䵩色三種味甘酸<lb/>
+性平無毒合鮓食成消渇為醬合鮓食成口瘡人食則<lb/>
+體重<lb/>
+　　救飢　採嫩葉煠熟水淘洗浄油鹽調食眀目豆<lb/>
+　　　　　角亦可煮食又法赤小豆一升半炒大黄<lb/>
+<pb n="KR3d0007_WYG_057-11a"/>
+　　　　　豆一升半焙二味搗末每服一合新水下<lb/>
+　　　　　日三服盡三升可度十一日不飢又説小<lb/>
+　　　　　豆食之逐津液行小便乆服則虚人令人<lb/>
+　　　　　黒痩枯燥<lb/>
+<pb n="KR3d0007_WYG_057-12a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_057-12b"/>
+山絲苗　夲草有麻蕡<hi>音焚</hi>一名麻勃一名茡<hi>音字</hi>一名麻<lb/>
+母生太山川谷今皆處處有之人家園圃中多種之績<lb/>
+其皮以為布苗髙四五尺莖有細線楞葉形狀似栁葉<lb/>
+而邊皆有乂牙鋸齒每八九葉攅生一處又似荆葉而<lb/>
+狹色深青開淡黄白花結實小如菉豆顆而匾圗經云<lb/>
+麻蕡此麻上花勃勃者味辛性平有毒麻子味甘性平<lb/>
+㣲寒滑利無毒入土者損人畏牡蠣白㣲惡茯苓<lb/>
+　　救飢　採嫩葉煠熟换水浸去邪惡氣味再以水<lb/>
+<pb n="KR3d0007_WYG_057-13a"/>
+　　　　　淘洗浄油鹽調食不可多食亦不可乆食<lb/>
+　　　　　動風子可炒食亦可打油用<lb/>
+<pb n="KR3d0007_WYG_057-14a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_057-14b"/>
+油子苗　本草有白油麻俗名脂麻舊不著所出州上<lb/>
+今䖏䖏有之人家園圃中多種苗髙三四尺莖方窊面<lb/>
+四楞對節分生枝乂葉類蘓子葉而長尖<graphic n="KR1359" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1359.png" mimeType="image/png"/>邊多花乂<lb/>
+葉間開白花結四稜蒴兒毎蒴中有子四五十餘粒其<lb/>
+子味甘㣲苦生則性大寒無毒炒熟則性熱壓窄為油<lb/>
+大寒<lb/>
+　　救飢　採嫩苗葉煠熟水浸淘洗淨油鹽調食其<lb/>
+　　　　　子亦可炒熟食或煑食及笮為油食皆可<lb/>
+<pb n="KR3d0007_WYG_057-15a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_057-15b"/>
+黄豆苗　今處處有之人家田園中多種苗髙一二尺<lb/>
+葉似黒豆葉而大結角比黒豆葉角稍肥大其葉味甘<lb/>
+　　救飢　採嫩苗葉煠熟水浸淘浄油鹽調食或採<lb/>
+　　　　　角煮食或収豆煮食及磨為麵食皆可<lb/>
+<pb n="KR3d0007_WYG_057-16a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_057-16b"/>
+刀豆苗　處處有之人家園籬邉多種之苗葉似豇豆<lb/>
+葉肥大開淡粉紅花結角如皂角狀而長其形似屠刀<lb/>
+様故以名之味甜㣲淡<lb/>
+　　救飢　採嫩苗葉煠熟水浸淘淨油鹽調食豆角<lb/>
+　　　　　嫩時煮食豆熟之時収豆煮食或磨麫食<lb/>
+　　　　　亦可<lb/>
+<pb n="KR3d0007_WYG_057-17a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_057-17b"/>
+眉兒豆苗　人家園圃中種之妥<hi>他果切</hi>蔓而生葉似<lb/>
+菉豆葉而肥大濶厚潤澤光俊毎三葉攅生一處開淡<lb/>
+粉紫花結匾角毎角有豆止三四顆其豆色黒匾而皆<lb/>
+白眉故名味甜<lb/>
+　　救飢　採嫩苗葉煠食豆角嫩時採角煮食豆成<lb/>
+　　　　　熟時打取豆食<lb/>
+　𤣥扈先生曰南名匾豆種類甚多植其佳者<lb/>
+<pb n="KR3d0007_WYG_057-18a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_057-18b"/>
+紫豇豆苖　人家園圃中種之莖葉與豇豆同但結角<lb/>
+色紫長尺許味微甜<lb/>
+　　救飢　採嫩苖葉煠熟油鹽調食角嫩時採角煮<lb/>
+　　　　　食亦可做菜食豆熟時打取豆食之<lb/>
+<pb n="KR3d0007_WYG_057-19a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_057-19b"/>
+蘇子苗　人家園圃中多種之苗髙二三尺莖方窊面<lb/>
+四楞上有澁毛葉皆對生似紫蘇葉而大開淡紫花結<lb/>
+子比紫蘇子亦大味㣲辛性溫<lb/>
+　　救飢　採嫩葉煠熟換水淘洗浄油鹽調食子可<lb/>
+　　　　　炒食亦可笮油用<lb/>
+<pb n="KR3d0007_WYG_057-20a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_057-20b"/>
+豇豆苗　今處處有之人家田園多種就地拖秧而生<lb/>
+亦延籬落葉似赤小豆葉而極長<graphic n="KR1359" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1359.png" mimeType="image/png"/>開淡紫粉花結角<lb/>
+長五七寸其豆味甘<lb/>
+　　救飢　採嫩葉煠熟水浸淘浄油鹽調食及採嫩<lb/>
+　　　　　角煠熟食亦可其豆成熟時打取豆食<lb/>
+<pb n="KR3d0007_WYG_057-21a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_057-21b"/>
+山黑豆　生宻縣山野中苗似家黒豆毎三葉攅生一<lb/>
+處居中大葉如菉豆葉傍兩葉似黒豆葉㣲圓開小粉<lb/>
+紅花結角比家黒豆角極瘦小其豆亦極細小味㣲苦<lb/>
+　　救飢　苗葉嫩時採取煠熟水淘去苦味油鹽調<lb/>
+　　　　　食結角時採角煮食或打取豆食皆可<lb/>
+<pb n="KR3d0007_WYG_057-22a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_057-22b"/>
+舜芒榖　俗名紅落䔧生田野及人家舊㽵窠<hi>音科</hi>上多<lb/>
+有之科苗髙五尺餘葉似灰菜葉而大㣲帶紅色莖亦<lb/>
+髙麄可為拄扙其中心葉甚紅葉間出穗結子如粟米<lb/>
+顆灰青色味甜<lb/>
+　　救飢　採嫩苗葉晒乾揉<hi>音柔</hi>去灰煠熟油鹽調食<lb/>
+　　　　　子可磨麵做燒餅蒸食<lb/>
+　<lb/>
+　農政全書卷五十七<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0140_WYG_742-1a"/>
+　欽定四庫全書<lb/>
+御定全唐詩巻七百四十二<lb/>
+　　張泌<hi>一作佖</hi>
+　張泌字子澄淮南人仕南唐為句容縣尉累官至内史<lb/>
+　舍人詩一巻<lb/>
+　　　　惜花<lb/>
+　蝶㪚鶯啼尚數枝日斜風定更離披㸔多記得傷心事<lb/>
+　金谷樓前委地時<lb/>
+<pb n="KR4h0140_WYG_742-1b"/>
+　　　　寄人<lb/>
+　别夢依依到謝家小廊廻合曲闌斜多情只有春庭月<lb/>
+　猶為離人照落花<lb/>
+　酷憐風月為多情還到春時别恨生倚柱尋思倍惆悵<lb/>
+　一場春夢不分眀<lb/>
+　　　　邉上<lb/>
+　戍樓吹角起征鴻獵獵寒旌背晚風千里暮烟愁不盡<lb/>
+　一川秋草恨無窮山河慘澹關城閉人物蕭條市井空<lb/>
+<pb n="KR4h0140_WYG_742-2a"/>
+只此旅魂招未得更堪回首夕陽中<lb/>
+　　　長安道中蚤行<lb/>
+客離孤館一燈殘牢落星河欲曙天雞唱未沈函谷月<lb/>
+鴈聲新度㶚陵烟浮生已悟荘周蝶壮志仍輸祖逖鞭<lb/>
+何事悠悠策羸馬此中辛苦過流年<lb/>
+　　　洞庭阻風<lb/>
+空江浩蕩景蕭然盡日菰蒲泊釣船青草浪髙三月渡<lb/>
+綠楊花撲一溪煙情多莫舉傷春目愁極兼無買酒錢<lb/>
+<pb n="KR4h0140_WYG_742-2b"/>
+猶有漁人數家住不成村落夕陽邊<lb/>
+　　　春日旅泊桂州<lb/>
+暖<hi>一作曉</hi>風芳草竟芊綿多病多愁負少年弱柳未勝寒<lb/>
+食雨好花争奈夕陽天溪邉物色堪<hi>一作宜</hi>圗畫林畔鶯<lb/>
+聲似管弦獨有離人開淚眼强憑杯酒亦潸然<lb/>
+　　　晚次<hi>一作歇</hi>湘源縣<lb/>
+煙郭遥聞向晚雞水平舟静浪聲齊髙林帶雨楊梅熟<lb/>
+曲岸籠雲謝豹啼二女廟荒汀<hi>一作宫</hi>樹老九疑山碧楚<lb/>
+<pb n="KR4h0140_WYG_742-3a"/>
+天低湘南自古多離怨莫動哀吟易慘悽<lb/>
+　　　惆悵吟<lb/>
+秋風丹葉動荒城慘澹雲遮日半明晝夢却因惆悵得<lb/>
+晩愁多為别離生江淹彩筆空留恨荘叟元譚未及情<lb/>
+千古怨魂銷不得一江寒浪若為平<lb/>
+　　　秋晚過洞庭<lb/>
+征帆初<hi>一作高</hi>挂酒初酣莫景離情兩不堪千里晚霞雲<lb/>
+夢北一洲霜橘洞庭南溪風送雨過秋寺磵石驚龍落<lb/>
+<pb n="KR4h0140_WYG_742-3b"/>
+夜潭莫把羇魂弔湘魄九疑愁絶鎻煙嵐<lb/>
+　　　題華嚴寺木塔<lb/>
+六街晴色動秋光雨霽憑髙只易傷一曲晩煙浮渭水<lb/>
+半橋斜日照咸陽休将世路悲塵事莫指雲山認故鄉<lb/>
+回首漢宫樓閣暮數聲鐘鼓自㣲茫<lb/>
+　　　經舊逰<lb/>
+暫到髙唐暁又還丁香結夢水潺潺不知雲雨歸何處<lb/>
+歴歴空留十二山<lb/>
+<pb n="KR4h0140_WYG_742-4a"/>
+　　　碧户<lb/>
+碧户扄魚鏁蘭窗掩鏡臺落花疑悵望歸燕自裵囬詠<lb/>
+絮知難敵傷春不易裁恨從芳草起愁為晚風来衣惹<lb/>
+湘雲薄眉分楚岫開香濃眠舊枕夢好醉春杯小障眀<lb/>
+金鳳幽屏㸃翠苔寳筝横塞鴈怨笛落江梅卓氏仍多<lb/>
+酒相如正富才莫教琴上意翻作鶴聲哀<lb/>
+　　　芍藥<lb/>
+香清粉澹怨殘春蝶翅蜂鬚戀蘂塵閑倚晚風生悵望<lb/>
+<pb n="KR4h0140_WYG_742-4b"/>
+静留遲日學因循休将薜荔為青𤨏好與玫瑰作近鄰<lb/>
+零落若教隨暮雨又應愁殺别離人<lb/>
+　　　春晩謡<lb/>
+雨微微煙霏霏小庭半拆紅薔薇鈿筝斜倚畫屏曲零<lb/>
+落㡬行金鴈飛蕭關夢斷無尋處萬疊春波起南浦凌<lb/>
+亂楊花撲繡簾晩窗時有流鶯語<lb/>
+　　　所思<lb/>
+空塘水碧春雨微東風㪚漫楊柳飛依依南浦夢猶在<lb/>
+<pb n="KR4h0140_WYG_742-5a"/>
+脉脉髙唐雲不歸江頭日暮多芳草極目傷心煙悄悄<lb/>
+隔江紅杏一枝眀似玉佳人俯清沼休向春臺更廻望<lb/>
+銷魂自古因惆悵銀河碧海共無情兩處悠悠起風浪<lb/>
+　　　春夕言懐<lb/>
+風透踈簾月滿庭倚欄無事倍傷情煙垂栁帶<graphic n="KR0655" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0655.png" mimeType="image/png"/>腰軟<lb/>
+露滴花房怨臉眀愁逐野雲銷不盡情隨春浪去難平<lb/>
+幽窗謾結相思夢𣣔化西園蝶未成<lb/>
+　　　春江雨<lb/>
+<pb n="KR4h0140_WYG_742-5b"/>
+雨溟溟風泠泠老松瘦竹臨煙汀空江冷落野雲重村<lb/>
+<hi>一作雲</hi>中鬼火<hi>一作孤月</hi>㣲如星夜驚溪上漁人起滴瀝篷聲<lb/>
+滿愁耳子規叫斷獨未眠罨岸春濤打船尾<lb/>
+　　　送容州中丞赴鎮<lb/>
+交趾同星坐龍泉佩斗文燒香翠羽帳㸔舞鬰金裙鷁<lb/>
+首衝瀧浪犀渠拂嶺雲莫教銅柱北祇說馬將軍<lb/>
+　　　贈韓道士<lb/>
+日暮秋風吹野花上清歸客意無涯桃源寂寂煙霞閉<lb/>
+<pb n="KR4h0140_WYG_742-6a"/>
+　天路悠悠星漢斜還似世人生白髪定知仙骨變黄芽<lb/>
+　東城南陌頻相見應是壺中别有家<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR4h0140_WYG_742-6b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定全唐詩巻七百四十二<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

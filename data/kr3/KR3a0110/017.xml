@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3a0110_WYG_017-1a"/>
+欽定四庫全書<lb/>
+御覽經史講義卷十一目録<lb/>
+　　　書經<lb/>
+　　臣哉鄰哉鄰哉臣哉<lb/>
+　　　　　　　　　　　　　侍讀<hi>臣</hi>蔡揚宗<lb/>
+　　　　　　　　　　　　　檢討<hi>臣</hi>陳世烈<lb/>
+　　予欲左右有民汝翼予欲宣力四方汝為<lb/>
+　　　　　　　　　　　　　編修<hi>臣</hi>何其睿<lb/>
+<pb n="KR3a0110_WYG_017-1b"/>
+　　予違汝弼汝無面從退有後言欽四鄰<lb/>
+　　　　　　　　　　　　　編修<hi>臣</hi>雷　鋐<lb/>
+　　帝庸作歌曰勅天之命惟時惟㡬乃歌曰股肱喜<lb/>
+　　　哉元首起哉百工熙哉臯陶拜手稽首颺言曰<lb/>
+　　　念哉率作興事愼乃憲欽哉屢省乃成欽哉乃<lb/>
+　　　賡載歌曰元首明哉股肱良哉庶事康哉又歌<lb/>
+　　　曰元首叢脞哉股肱惰哉萬事墮哉帝拜曰俞<lb/>
+　　　往欽哉<lb/>
+<pb n="KR3a0110_WYG_017-2a"/>
+　　　　　　　　　　　　　檢討<hi>臣</hi>伊興阿<lb/>
+　　　　　　　　　　　監察御史<hi>臣</hi>歐堪善<lb/>
+　　帝庸作歌曰勅天之命惟時惟㡬<lb/>
+　　　　　　　　　　　　　編修<hi>臣</hi>朱　桓<lb/>
+　　勅天之命惟時惟㡬乃歌曰股肱喜哉元首起哉<lb/>
+　　　百工熙哉<lb/>
+　　　　　　　　　　　監察御史<hi>臣</hi>徐以升<lb/>
+　　勅天之命惟時惟㡬<lb/>
+<pb n="KR3a0110_WYG_017-2b"/>
+　　　　　　　　　　　　左中允<hi>臣</hi>于敏中<lb/>
+　　　　　　　　　　　監察御史<hi>臣</hi>張　湄<lb/>
+　　臯陶拜手稽首颺言曰念哉率作興事愼乃憲欽<lb/>
+　　　哉屢省乃成欽哉<lb/>
+　　　　　　　　　　　　　編修<hi>臣</hi>秦勇均<lb/>
+　　元首明哉股肱良哉庶事康哉<lb/>
+　　　　　　　　　　　　右中允<hi>臣</hi>于　振<lb/>
+　　祗台徳先不距朕行<lb/>
+<pb n="KR3a0110_WYG_017-3a"/>
+　　　　　　　　　　　監察御史<hi>臣</hi>李　㥳<lb/>
+　　惟王不邇聲色不殖貨利徳懋懋官功懋懋賞用<lb/>
+　　　人惟已改過不吝克寛克仁彰信兆民<lb/>
+　　　　　　　　　　　　　侍講<hi>臣</hi>任啟運<lb/>
+　　　　　　　　　　　　　侍講<hi>臣</hi>張映辰<lb/>
+　　克寛克仁<lb/>
+　　　　　　　　　　　　　編修<hi>臣</hi>熊暉吉<lb/>
+　　王懋昭大徳建中于民以義制事以禮制心垂裕<lb/>
+<pb n="KR3a0110_WYG_017-3b"/>
+　　　後昆<lb/>
+　　　　　　　　　　　　　編修<hi>臣</hi>沈文鎬<lb/>
+　　建中于民以義制事以禮制心<lb/>
+　　　　　　　　　　　監察御史<hi>臣</hi>薛　澂<lb/>
+　　建中于民<lb/>
+　　　　　　　　　　　監察御史<hi>臣</hi>葛峻起<lb/>
+　　以義制事以禮制心<lb/>
+　　　　　　　　　　　　　編修<hi>臣</hi>杜若拙<lb/>
+<pb n="KR3a0110_WYG_017-4a"/>
+　　　　　　　　　　　　　編修<hi>臣</hi>李龍官<lb/>
+　　好問則裕自用則小<lb/>
+　　　　　　　　　　　監察御史<hi>臣</hi>李清芳<lb/>
+　　好問則裕<lb/>
+　　　　　　　　　　　監察御史<hi>臣</hi>張孝挰<lb/>
+　　湯誥曰惟皇上帝降衷于下民若有恒性克綏厥<lb/>
+　　　猷惟后<lb/>
+　　仲虺之誥曰惟天生民有欲無主乃亂惟天生聰<lb/>
+<pb n="KR3a0110_WYG_017-4b"/>
+　　　明時乂<lb/>
+　　秦誓曰惟天地萬物父母惟人萬物之靈亶聰明<lb/>
+　　　作元后元后作民父母<lb/>
+　　洪範王訪于箕子曰惟天陰隲下民相協厥居我<lb/>
+　　　不知其彛倫攸叙<lb/>
+　　　　　　　　　　　　　侍講<hi>臣</hi>于　振<lb/>
+　　惟皇上帝降衷于下民若有恒性克綏厥猷惟后<lb/>
+　　　　　　　　　　　　　侍讀<hi>臣</hi>周玉章<lb/>
+<pb n="KR3a0110_WYG_017-5a"/>
+　　惟皇上帝降衷于下民若有恒性<lb/>
+　　　　　　　　　　　監察御史<hi>臣</hi>柴潮生<lb/>
+　　立愛惟親立敬惟長始于家邦終于四海<lb/>
+　　　　　　　　　　　　　侍讀<hi>臣</hi>赫　瞻<lb/>
+　　無輕民事惟難無安厥位惟危<lb/>
+　　　　　　　　　　　監察御史<hi>臣</hi>熊學鵬<lb/>
+　　有言逆于汝心必求諸道有言遜于汝志必求諸<lb/>
+　　　非道<lb/>
+<pb n="KR3a0110_WYG_017-5b"/>
+　　　　　　　　　　　　　編修<hi>臣</hi>葉　酉<lb/>
+　　臣罔以寵利居成功<lb/>
+　　　　　　　　　　　監察御史<hi>臣</hi>李清芳<lb/>
+　　終始惟一時乃日新<lb/>
+　　　　　　　　　　　侍讀學士<hi>臣</hi>吕　熾<lb/>
+　　　　　　　　　　　　　修撰<hi>臣</hi>于敏中<lb/>
+　　任官惟賢才左右惟其人臣為上為徳為下為民<lb/>
+　　　其難其愼惟和惟一<lb/>
+<pb n="KR3a0110_WYG_017-6a"/>
+　　　　　　　　　　　監察御史<hi>臣</hi>郭石渠<lb/>
+　　　　　　　　　　　監察御史<hi>臣</hi>陸尹耀<lb/>
+　　臣為上為徳為下為民<lb/>
+　　　　　　　　　　　　　編修<hi>臣</hi>蔣元益<lb/>
+　　　　　　　　　　　監察御史<hi>臣</hi>沈廷芳<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

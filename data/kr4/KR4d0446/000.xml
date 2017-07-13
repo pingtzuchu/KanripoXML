@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>呉文正集</head> <lb/>
+    <p>
+<pb n="KR4d0446_WYG_000-1a"/>
+欽定四庫全書<lb/>
+　呉文正集<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹按呉文正集一百巻元呉澄撰澄有<lb/>
+　　　　易纂言已著録是集為其孫當所編永樂丙<lb/>
+　　　　戌其五世孫爟所重刋後有爟䟦曰支言集<lb/>
+　　　　一百巻私録二巻皆大父縣尹公手所編類<lb/>
+　　　　刋行於世不幸刻板俱燬於兵火舊本散落<lb/>
+<pb n="KR4d0446_WYG_000-1b"/>
+　　　　雖獲存者間亦殘缺迨永樂甲申始克取家<lb/>
+　　　　藏舊刻本重壽諸梓篇類巻次悉仍其舊不<lb/>
+　　　　敢更改惟巻首増入年譜神道碑行狀國史<lb/>
+　　　　傳以冠之但舊所缺簡遍求不得完本今故<lb/>
+　　　　止將殘缺篇題列於各巻之末以俟補續云<lb/>
+　　　　云則此本乃殘缺之餘非初刻之舊矣然檢<lb/>
+　　　　其巻尾缺目惟十七巻徐君順詩序一篇五<lb/>
+　　　　十四巻題趙天放桃源巻後一篇五十七巻<lb/>
+<pb n="KR4d0446_WYG_000-2a"/>
+　　　　題約説後一篇又三十七巻滹南王先生祠<lb/>
+　　　　堂記末註此下有缺文而已所佚尚不多也<lb/>
+　　　　初許衡之卒詔歐陽元作神道碑及澄之卒<lb/>
+　　　　又詔揭徯斯撰神道碑首稱皇元受命天降<lb/>
+　　　　真儒北有許衡南有呉澄所以恢宏至道潤<lb/>
+　　　　色鴻業有以知斯文未䘮景運方興云云當<lb/>
+　　　　時盖以二人為南北學者之宗然衡之學主<lb/>
+　　　　於篤寔以化人澄之學主於著作以立教故<lb/>
+<pb n="KR4d0446_WYG_000-2b"/>
+　　　　世傳魯齋遺書僅寥寥數巻而澄於注解諸<lb/>
+　　　　經以外訂正張子邵子書旁及老子荘子太<lb/>
+　　　　元樂律八陣圖葬經之類皆有撰論而文集<lb/>
+　　　　尚裒然盈百巻衡之文明白朴質達意而止<lb/>
+　　　　澄則詞華典雅往往斐然可觀據其文章論之<lb/>
+　　　　澄其尤彬彬乎呉當所編過於求備片言隻<lb/>
+　　　　字無不収拾有不必存而存者未免病於稍<lb/>
+　　　　濫然此亦南宋以來編次遺集之通弊亦不<lb/>
+<pb n="KR4d0446_WYG_000-3a"/>
+　　　　能獨為當責矣乾隆五十四年二月恭校上<lb/>
+　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

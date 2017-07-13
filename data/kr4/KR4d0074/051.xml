@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4d0074_WYG_051-1a"/>
+　王荆公詩注補遺<lb/>
+　　古今體詩五首<lb/>
+　　　車螯<hi>俗本在次韻游山門寺望文脊山後</hi>
+海於天地間萬物無不容車螯亦其一埋没沙水中獨<lb/>
+取常苦易衛生乏明聰機緘誰使然含蓄畧相同坐欲<lb/>
+腸胃得要令湯火攻置之先生盤噉客為一空蠻夏怪<lb/>
+四坐不論殻之功狼籍堆左右棄置任兒童何當强收<lb/>
+拾持問大毉工<lb/>
+<pb n="KR4d0074_WYG_051-1b"/>
+　　　信陵坊有籠山樂官<hi>俗本在次韻和中甫兄春日有感後</hi>
+萬里山林姿羽毛何璀璀鳴聲應律呂惟有知者愛都<lb/>
+門市井兒誰翫汝文采應須鎖樊籠勿受丸矰害<lb/>
+　　　致仕邵少卿挽詞二首<hi>俗本在永夀縣太君周氏挽詞二首後</hi>
+謝朓城中守梁鴻基下歸素車馳吉路丹旐卷寒輝撫<lb/>
+几虚容在瞻圖實貌非無因置一酹空此歎長違<lb/>
+　　　其二<lb/>
+杯酒䢴溝上紛紛巳十年音容常想見風跡每流傳老<lb/>
+<pb n="KR4d0074_WYG_051-2a"/>
+去元卿位新開太守阡慶門當更大子弟固多賢<lb/>
+　　　偶成<lb/>
+漸老偏諳世上情巳知吾事獨難行脱身負米將求志<lb/>
+勠力求田豈為名高論頗隨衰俗廢壯懐難值故人傾<lb/>
+相逢始覺寛愁病搔首還添白髮生<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR4d0074_WYG_051-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　王荆公詩注補遺<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>增注唐䇿</head>
+    <p>
+<pb n="KR4h0064_WYG_000-1a"/>
+欽定四庫全書　　　　　集部八<lb/>
+　增注唐䇿　　　　　　　總集類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案增注唐䇿十巻不著編輯者名氏<lb/>
+　　　　前有明正徳丁丑新安汪燦序惟言舊刋唐<lb/>
+　　　　䇿不知誰集考書中避宋諱與古文集成相同<lb/>
+　　　　則亦宋人所編輯也其中所録兼有唐人䇿<lb/>
+　　　　論書狀表奏之文而獨以唐䇿為名者蓋輯<lb/>
+<pb n="KR4h0064_WYG_000-1b"/>
+　　　　以備答䇿之用從所重耳中間注語有崇曰<lb/>
+　　　　張曰李曰竇曰董曰諸目崇曰一處作王崇<lb/>
+　　　　則是其名而餘又皆題其姓均莫詳其所自<lb/>
+　　　　亦不知諸人為誰殆當時盛行其本互相訓<lb/>
+　　　　釋而書賈合刋之者也所注雖簡畧而所録<lb/>
+　　　　皆唐人名作持擇頗審非明代坊選冗濫無<lb/>
+　　　　緒者可比以其舊本存備採擇焉乾隆四十<lb/>
+　　　　六年三月恭校上<lb/>
+<pb n="KR4h0064_WYG_000-2a"/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="KR4h0064_WYG_000-3a"/>
+增注唐䇿序<lb/>
+舊刋有唐䇿行於世不知集於誰氏一日黄司空蕨山<lb/>
+先生出以眎燦曰子讀之乎燦曰未也先生曰是集所<lb/>
+載䇿疏表議狀論書畧其體雖殊要之皆為國家畫竒<lb/>
+吐良之逺謀可讀也然其製之純駁則在善擇耳燦唯<lb/>
+唯即歸而讀之歎曰集者其有心哉有味哉先生惠我<lb/>
+多矣先生聞之喜復命以授其子㠏㠏亦有得新其梓<lb/>
+以授天下燦遂以是為之序云正徳十有二年嵗在丁<lb/>
+<pb n="KR4h0064_WYG_000-3b"/>
+丑二月新安晴雲生汪燦序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>鄮峯真隠漫録</head>
+    <p>
+<pb n="KR4d0219_WYG_000-1a"/>
+欽定四庫全書　　　　　集部四<lb/>
+　鄮峯真隠漫録　　　　　别集類三<hi>宋</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹按鄮峯真隠漫録五十巻宋史浩撰<lb/>
+　　　　浩有尚書講義巳著録其集見於陳振孫書<lb/>
+　　　　録解題宋史藝文志者皆五十巻此本巻數<lb/>
+　　　　並合浩事孝宗于濳邸隆興淳熙中兩為宰<lb/>
+　　　　揆没後至配享廟廷其推轂善類寛厚不争<lb/>
+<pb n="KR4d0219_WYG_000-1b"/>
+　　　　亦頗為世所稱許當孝宗任張浚銳意用兵<lb/>
+　　　　浩獨以為不然遂以論劾罷去元代史臣作<lb/>
+　　　　浩傳贊亦頗詆其不能贊襄恢復之謀今考<lb/>
+　　　　集中如論山東未可用兵論歸正人論未可<lb/>
+　　　　北伐囘奏條具弊事諸劄子皆極言李顯忠<lb/>
+　　　　卲宏淵之輕銳寡謀不宜輕舉而欲練士卒<lb/>
+　　　　積資糧以蓄力於十年之後既而淮西奔潰<lb/>
+　　　　其言竟騐若蓍龜不可謂非老成謀國之見<lb/>
+<pb n="KR4d0219_WYG_000-2a"/>
+　　　　雖厥後再秉國政亦未能收富强之效以自<lb/>
+　　　　踐其言而量力知難其初說固有未可深議<lb/>
+　　　　者至本傳稱浩因轉對請於普安恩平二王<lb/>
+　　　　内擇立一人為皇子高宗亟稱為有用之才<lb/>
+　　　　而集中輪對有司不能推廣恩意劄子下注<lb/>
+　　　　云見知高宗只因此劄此事乃當在請定繼<lb/>
+　　　　嗣之先而本傳顧未之及集為門弟子編排<lb/>
+　　　　所言當必有據是亦足與史相叅考也集凡<lb/>
+<pb n="KR4d0219_WYG_000-2b"/>
+　　　　詩五巻雜文三十九巻詞曲四巻末二巻為<lb/>
+　　　　童丱須知分三十章所言皆治家修身之道<lb/>
+　　　　而諧以韻語乃録之家塾以訓子孫者自署<lb/>
+　　　　辛丑為淳熙八年蓋其罷官以少傅侍經筵<lb/>
+　　　　時所著云乾隆四十六年三月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

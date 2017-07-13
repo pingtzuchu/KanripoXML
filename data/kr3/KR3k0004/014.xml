@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>北堂書鈔卷十四</head> <lb/>
+    <p>
+<pb n="KR3k0004_WYG_014-1a"/>
+欽定四庫全書<lb/>
+　北堂書鈔卷十四<lb/>
+　　　　　　　　　　　唐　虞世南　撰<lb/>
+　　　　　　　　　　　明　陳禹謨　補註<lb/>
+　帝王部<lb/>
+　　謀猷四十七　　　雄才四十八<lb/>
+　　蒐狩四十九<lb/>
+　　　謀猷四十七<lb/>
+<pb n="KR3k0004_WYG_014-1b"/>
+作事謀始　信誠好謀<hi>漢書</hi>三聖合謀<hi>琴操</hi>詢謀僉同　其<lb/>
+治多撥畧<hi>魏志</hi>親入閭巷即賢人謀<hi>谷永</hi>謀出帷幄決勝千<lb/>
+里<hi>東觀</hi>於鑠王師遵養時晦　納五音之策<hi>抱朴子</hi>量敵受<lb/>
+勝<hi>東觀</hi>因事設竒　我取天下可不以萬全<hi>漢書</hi>圖畫成敗<lb/>
+皆從所言<hi>東觀</hi>從命者克捷違教者負敗<hi>魏書</hi>畫蚩尤形像<lb/>
+以威天下<hi>龍魚圖</hi>爲鳥銜書以感殷人<hi>吕氏/春秋</hi>獨車渡河<hi>漢書</hi>
+以少敵衆<hi>魏武</hi>前有梅林可以解渴<hi>世說</hi>交馬而語不及軍<lb/>
+事<lb/>
+<pb n="KR3k0004_WYG_014-2a"/>
+　　　雄才四十八<lb/>
+雄才大略<hi>漢書</hi>雄才逺略<hi>魏/志</hi>雄畧之主<hi>呉/志</hi>一世之雄<hi>徐爰宋書</hi>
+天姿傑邁<hi>晉陽</hi>意思安閒<hi>魏氏/春秋</hi>威鑒電斷<hi>晉/陽</hi>論決大事<hi>魏書</hi>
+沈毅大畧<hi>晉陽</hi>舉止自若<hi>續漢/書</hi>謀經藝發圖讖<hi>東觀</hi>不震不<lb/>
+動不戁不竦　才直驚人勇非人敵　見小敵怯見大<lb/>
+敵勇<hi>東觀</hi>壯士何畏<hi>漢/書</hi>按行賊營<hi>東觀</hi>迴山倒海　迴天倒<lb/>
+日<hi>陸機</hi>鞭笞天下<hi>史/記</hi>囊括天下<hi>繆襲鼔吹曲</hi>席捲天下包舉㝢<lb/>
+内　執朴鞭笞<hi>賈誼</hi>折箠以笞之<hi>東觀</hi>拔萬國之地九州之<lb/>
+<pb n="KR3k0004_WYG_014-2b"/>
+結<hi>傳子</hi>心如饑虎志若秋鷹<hi>虞/丘</hi>據河爲塞塹山堙谷<hi>史記</hi>直<lb/>
+抵南山以為闕立石東海以為門<hi>史秦本紀曰始皇作阿房自殿下直抵南</hi>
+<hi>山表南山之巔以為闕為複道自阿房渡渭屬之咸陽以象天極立石東海上朐界中以為秦東門補</hi>
+　　　蒐狩四十九<lb/>
+大田簡衆<hi>周禮</hi>蒐狩習武<hi>左氏</hi>君臣田獵以講武事　王者<lb/>
+田獵以戒不虞<hi>五經要義</hi>建大麾<hi>周禮</hi>下大綏　田則張幕<lb/>
+田則設席<hi>周禮</hi>天子不合圍春田不圍澤　遏防不逐面<lb/>
+傷不獻　刈蘭以為防置旌以為門<hi>春秋</hi>虎落三嵕以為<lb/>
+<pb n="KR3k0004_WYG_014-3a"/>
+司馬圍經百里而為殿門<hi>揚雄</hi>禦自汧渭經營酆鎬<hi>揚雄</hi>掩<lb/>
+長楊而連五柞繞黄山而凝牛首命荆州使起鳥詔梁<lb/>
+野而驅獸<hi>班固</hi>荷垂天之罼張竟壄之罘靡日月之朱竿<lb/>
+曳彗星之飛旗<hi>掦雄</hi>屬車轇轕羽騎騰驤<hi>應瑒</hi>選徒囂囂<lb/>
+選徒萬騎<hi>司馬相如</hi>駕言行狩　斿車載旌<hi>周禮</hi>載翠胄倚金<lb/>
+鞍<hi>張衡</hi>乗鏤象馭玉門<hi>司馬/相如</hi>駕雕六駮<hi>張衡</hi>乗雕輅駟飛黄<lb/>
+<hi>應瑒</hi>文王所以大蒐　成有岐陽之蒐<hi>春/秋</hi>大蒐於岐陽<hi>帝王</hi>
+<hi>世紀</hi>獵於漆澤<hi>穆天/子傳</hi>升彼大阜　獵於陘山<hi>穆天子傳</hi>獵長楊<lb/>
+<pb n="KR3k0004_WYG_014-3b"/>
+<hi>漢書</hi>厯上蘭<hi>班固</hi>悉率左右　漆沮之從　田獲三品　一<lb/>
+發五豝　逐禽輒十里馳射常百步　弓燥手柔草淺<lb/>
+獸肥<hi>典論曰歳之暮春勾芒司節和風扇物弓燥手柔草淺獸肥與族兄子丹獵於鄴西終日手獲麞鹿</hi>
+<hi>九雉兔三十補</hi>背夏涉冬<hi>司馬相如</hi>
+　<lb/>
+　<lb/>
+　<lb/>
+　北堂書鈔卷十四<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

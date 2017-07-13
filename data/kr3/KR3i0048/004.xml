@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>異魚圖贊卷四</head> <lb/>
+    <p>
+<pb n="KR3i0048_WYG_004-1a"/>
+欽定四庫全書<lb/>
+　異魚圖贊卷四<lb/>
+　　　　　　　　　　　　　明　楊慎　撰<lb/>
+　　<graphic n="KR2167" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2167.png" mimeType="image/png"/>
+                    <graphic n="KR2086" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2086.png" mimeType="image/png"/>
+                    <hi>音迷麻</hi>
+<graphic n="KR2167" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2167.png" mimeType="image/png"/>
+                    <graphic n="KR2086" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2086.png" mimeType="image/png"/>海魧名曰匽鼂形大如䕠出自沙嚻一枚剖之有<lb/>
+三斛膏<hi>説文名匽鼂江賦名<graphic n="KR2167" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2167.png" mimeType="image/png"/>
+                        <graphic n="KR2086" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2086.png" mimeType="image/png"/>臨海水土志曰海魧實一物也</hi>
+　　□鼊<lb/>
+□鼊龜頭鼈身蝦尾斑似玳瑁漫無甲指贉餙<graphic n="KR1505" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1505.png" mimeType="image/png"/>軸緗<lb/>
+<pb n="KR3i0048_WYG_004-1b"/>
+帙增美<lb/>
+　　海月<lb/>
+海物正圓名曰海月指如搔頭有緑無骨海賦江圖藻<lb/>
+詠互發<lb/>
+　　海鏡<lb/>
+海鏡殻圓中甚瑩膩腹有小蟹朝出暮至或生剖之蟹<lb/>
+子跂跂逡廵亦斃<lb/>
+　　又<lb/>
+<pb n="KR3i0048_WYG_004-2a"/>
+海鏡蟹為腹水母蝦為日虚有咸受羡補不足人固有<lb/>
+之無惑乎物<lb/>
+　　陵龍<lb/>
+陵龍之體黄身四足形短尾長有鱗無角南越海人嘉<lb/>
+羞見逐<hi>臨海水上志本贊</hi>
+　　山蠵<lb/>
+嶺表蟕蠵是曰山龜人立其背可負而馳木楔其肉聲<lb/>
+吼如牛巧匠琢之以為梳箆<lb/>
+<pb n="KR3i0048_WYG_004-2b"/>
+　　水蠵<lb/>
+<graphic n="KR3083" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3083.png" mimeType="image/png"/>惟水龜涪陵是育其縁中文其甲堪卜馮夷所命切<lb/>
+和靈曲<hi>漢郊祀歌馮夷切和注馮夷水神命靈蠵也</hi>
+　　海蛤<lb/>
+海蛤魁陸瓦瓏鑛殻外眉内渠形勢渾朴<hi>萬震南州志贊注眉髙為</hi>
+<hi>眉渠䟽為渠</hi>
+　　江瑶柱<lb/>
+江瑶柱<hi>句</hi>厥甲美<hi>句王/音裕</hi>肉柱膚寸名江瑶柱<hi>萬震此贊尤古</hi>
+<pb n="KR3i0048_WYG_004-3a"/>
+　　又<lb/>
+今之馬甲柱古曰玉珧厥名之珍海圖所標昔人賞之<lb/>
+謂美無涯取類南果以配荔枝<lb/>
+　　紫紶<lb/>
+蘭陵紫紶江淹紫<graphic n="KR2134" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2134.png" mimeType="image/png"/>是惟蚌類發華應春珠瑕錦蛤玉<lb/>
+盤同珍<hi>荀子東海有紫紶即石刧也江淹石<graphic n="KR0917" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0917.png" mimeType="image/png"/>賦又名/紫舊江賦石<graphic n="KR0917" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0917.png" mimeType="image/png"/>應節而楊葩謝眺詩紫<graphic n="KR2134" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2134.png" mimeType="image/png"/>煜春</hi>
+<hi>流王維詩云問珠官俗來經石<graphic n="KR0917" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0917.png" mimeType="image/png"/>春或曰即石决明又名龜脚</hi>
+　　石决明<lb/>
+<pb n="KR3i0048_WYG_004-3b"/>
+鰒<hi>朱角切句</hi>似蛤<hi>句/</hi>無鱗有殻一靣附石<hi>石叶音錯</hi>細孔雜雜或<lb/>
+七或八<hi>入藥品者以七孔八孔為佳九孔十孔不堪用也  郭璞爾雅贊  此贊尤竒</hi>
+　　東海夫人<hi>淡菜</hi>
+東海夫人淡菜有殻形雖不典而益帷箔求以象類堪<lb/>
+為一<graphic n="KR1744" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1744.png" mimeType="image/png"/>
+　　海牛<lb/>
+海牛魚皮潮信可卜潮至毛張潮退則伏刻像押簾招<lb/>
+風斯速<lb/>
+<pb n="KR3i0048_WYG_004-4a"/>
+　　大蟹<lb/>
+女牛大蟹其廣千里舉螯為山身故在水海陽專車曷<lb/>
+云其比<hi>又丑見山海經海陽見王曾</hi>
+　　彭螖<lb/>
+爾雅彭螖𤣥經郭索均為蟹謚螖訛以越梁王醢化兹<lb/>
+乃臆説<lb/>
+　　沙狗<lb/>
+蟹有沙狗亦似彭螖穿沙為穴見人則蟄曲徑易道了<lb/>
+<pb n="KR3i0048_WYG_004-4b"/>
+不可得<lb/>
+　　擁劒<lb/>
+蟹有擁劒一螯偏大隨潮退殻隨退復裏力能聞虎利<lb/>
+甚㦸剉<lb/>
+　　招潮<lb/>
+蟹有招潮遡月而翹背向不失與潮相招□物有知云<lb/>
+誰之教<lb/>
+　　倚望<lb/>
+<pb n="KR3i0048_WYG_004-5a"/>
+蟹有倚望常起顧睨東西其形兩翹八跂望常如此入<lb/>
+穴乃止<lb/>
+　　石蜠　蜂江　蘆虎<lb/>
+蟹有石蜠蜂江蘆虎石殻而卵不中鼎爼好事取之充<lb/>
+畫圖譜<hi>蜂江又作<graphic n="KR1526" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1526.png" mimeType="image/png"/>/江<graphic n="KR1526" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1526.png" mimeType="image/png"/>音流</hi>
+　　車螯<lb/>
+海物惟錯車螯蠣蚶眉目内鈌鑛殻外緘瓦礫何異庖<lb/>
+厨是堪<lb/>
+<pb n="KR3i0048_WYG_004-5b"/>
+　　蠣房<hi>房讀作阿房之房音傍</hi>
+海曲蠣房或名蠔山眉渠磊砢牡牝異斑肉曰蠣黄醰<lb/>
+味海蠻<hi>南州志舊贊</hi>
+　　蚶子<lb/>
+蚶為蚌屬文似瓦屋殻中有肉紫色滿腹縱横其理伍<lb/>
+味具足<hi>盛𢎞之荆州記</hi>
+　　貝<lb/>
+夏𤣥周錦貨貝以市砑磥暈紙光我髦士厥有神功消<lb/>
+<pb n="KR3i0048_WYG_004-6a"/>
+霧寜水豈特把玩止娯童子<hi>塩鉄論夏后氏以𤣥貝詩曰成是貝錦貝文如錦也</hi>
+<hi>餘見嚴助相貝經</hi>
+　　蚌<lb/>
+蚌為鷸訹今日不出明日不出必有死鷸鷸為蚌語今<lb/>
+日不雨明日不雨必有蚌脯兩國相爭不亡則傾兩士<lb/>
+相闘兵㐲其後不闘不爭鷸蚌兩生<hi>衍春秋後語</hi>
+　　螺<lb/>
+香螺文贆錦蛤珠龜視雷開閉與月盛衰明璣無脛走<lb/>
+<pb n="KR3i0048_WYG_004-6b"/>
+于天涯<hi>淮南子曰哈䖴珠龜與月盛衰左思賦曰蛤蚌珠胎與月虧全吕覽日月空望則蚌哈實月晦</hi>
+<hi>則蚌哈虚又淮南子明月之珠出于蠬蜄</hi>
+　　蜃<lb/>
+蜃乃雉化氣成樓臺摩殻以耨始于姫郃農耨从辰文<lb/>
+有自來<hi>篆書農耨皆从辰以古者摩蜃而耨也</hi>
+　　蠯<lb/>
+蠯式玉度蚌象寳爻螺書□籕篆□蟲琱取類斯大稱<lb/>
+名則<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>何傷磊落無損賢毫<hi>蠯蚌之狹而長者見周禮  易離為螺寳爻見京房</hi>
+<pb n="KR3i0048_WYG_004-7a"/>
+<hi>易傳楚唐崔融贊神禹峋嶁碑云龍畫傍分螺書匾刻  徐  金言篆法貴□匾□音果其字从虫从□當作</hi>
+<hi>□𨽻變作□今訛作□見湘山野録<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>見史記敘傳</hi>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3i0048_WYG_004-7b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　異魚圖贊卷四<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

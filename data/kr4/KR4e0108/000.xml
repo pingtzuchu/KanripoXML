@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4e0108_SBCK_000-1a"/>
+刻白沙子叙<lb/>
+夫道貫古今匪明弗在孔孟而後延　盖<lb/>
+昭如矣唯　明嗣興若白沙先生都其周程之<lb/>
+徒與盖先生起扵南粤獨悟道妙而非有䏻授<lb/>
+之者是故其見道明故其體道至其體道至故<lb/>
+其言論簡易而弗支且多夫其弗支且多也故<lb/>
+凢形諸動静存諸語黙播諸詩文徴諸出䖏罔<lb/>
+非道妙呈華譬諸化工流形萬彚森布各止其<lb/>
+所而其文固煥煥乎莫之繪焉夫豈雕鏤綴竒<lb/>
+<pb n="KR4e0108_SBCK_000-1b"/>
+苦思模擬役心垂後而故存之簡冊者㢤雖然<lb/>
+其猶先生之緒餘焉矣乎是故道𥙿諸心精明<lb/>
+應妙固莫能覿矣而自有與天地悠乆不㓕者<lb/>
+存非頼是能彰之也然志士君子非得之其胡<lb/>
+所考見儀刑故其門人張東所旣采集之梓諸<lb/>
+其里矣四方猶罕覩焉予柄維楊敎與諸士講<lb/>
+學暇偶談及兹書共以未得爲憾遂出予本命<lb/>
+卞生　也軰刻之因訪諸吾友沈汝淵氏得遺<lb/>
+集二三冊焉爰増其未有者削其不必存者以<lb/>
+<pb n="KR4e0108_SBCK_000-2a"/>
+付梓人　也軰廼欣然成之其志可知矣因謂<lb/>
+之曰兹刻也豈徒存載籍巳㢤将以求先生之<lb/>
+心焉耳不然彌文而已矣生軰謝曰謹受敎因<lb/>
+識之且題曰白沙子猶孟氏七篇而題曰孟子<lb/>
+之義也<lb/>
+嘉靖癸已仲秋吉旦前進士西蜀後學髙簡謹<lb/>
+序<lb/>
+<pb n="KR4e0108_SBCK_000-2b"/>
+<pb n="KR4e0108_SBCK_000-3a"/>
+白沙子目録<lb/>
+　　　　　一卷<lb/>
+　　　　　　前叙<lb/>
+　　　　　　目録<lb/>
+　　　　　　奏䟽<hi>二首</hi>
+　　　　　　序<hi>十八首</hi>
+　　　　　　記<hi>二十二首</hi>
+　　　　　　論<hi>六首</hi>
+　　　　　二卷<lb/>
+<pb n="KR4e0108_SBCK_000-3b"/>
+　　　　　　書簡<hi>八十七首</hi>
+　　　　　三卷<lb/>
+　　　　　　書簡<hi>八十九首</hi>
+　　　　　四卷<lb/>
+　　　　　　墓誌銘表<hi>十五首</hi>
+　　　　　　祭文<hi>三十首</hi>
+　　　　　　賦<hi>二首</hi>
+　　　　　　賛<hi>一首</hi>
+　　　　　　銘<hi>四首</hi>
+<pb n="KR4e0108_SBCK_000-4a"/>
+　　　　　啓<hi>四首</hi>
+　　　　　說<hi>五首</hi>
+　　　　　批荅張廷實詩箋<hi>十首</hi>
+　　　　　傳状<hi>三首</hi>
+　　　　　題䟦<hi>三十二首</hi>
+　　　　五卷<lb/>
+　　　　　古選<hi>一百二十七首</hi>
+　　　　　五言絶句<hi>一<折 t="33"/>百九十首</hi>
+　　　　　六言絶句<hi>十一<折 t="33"/>首</hi>
+<pb n="KR4e0108_SBCK_000-4b"/>
+　　　　七言絶句<hi>二百一十一首</hi>
+　　　六卷<lb/>
+　　　　七言絶句<hi>四百七十首</hi>
+　　　七卷<hi>九十八葉</hi>
+　　　　五言律詩<hi>二百九十六首</hi>
+　　　　五言六句<hi>一首</hi>
+　　　　七言律詩<hi>一百三十一首</hi>
+　　　八卷<lb/>
+　　　　七言律詩<lb/>
+<pb n="KR4e0108_SBCK_000-5a"/>
+　　　　　四言詩<hi>四首</hi>
+　　　　　五言排律<hi>四首</hi>
+　　　　　七言排律<hi>三首</hi>
+　　　　　古風歌行<hi>三十八首</hi>
+<pb n="KR4e0108_SBCK_000-5b"/>
+</p>
+<p>
+白沙子目録<hi>終</hi>
+<pb n="KR4e0108_SBCK_000-6a"/>
+論白沙子<lb/>
+丼泉子曰夫先生聖人之徒也先生詩文其中<lb/>
+　　古之制作乎其詩歌如風雅頌其文詞如<lb/>
+　　謨訓誥或聞之愕然曰何㢤若是其大也<lb/>
+　　不亦少誇矣乎今觀其詩歌之體裁猶夫<lb/>
+　　今之詩也何耴乎風雅頌觀其文詞之矱<lb/>
+　　度猶夫今之文也何耴乎謨訓誥曰非是<lb/>
+　　之謂也孟軻有言今之樂猶古之樂也何<lb/>
+　　謂乎聖賢之言發乎人心之同然故與古<lb/>
+<pb n="KR4e0108_SBCK_000-6b"/>
+　　訓異體而同道夫惟求於牝牡驪黄之外<lb/>
+　　者而后得馬之真相忘於言語形似之外<lb/>
+　　者而后得聖賢之藴是故以其中和之性<lb/>
+　　情發而爲中和之永嘆優柔而敦厚焉是<lb/>
+　　亦風雅頌而巳矣以其自得之精意以發<lb/>
+　　其未發之藴載道而典則焉是亦謨訓誥<lb/>
+　　而巳矣曰然則何以異乎曰言詞古今之<lb/>
+　　不同猶之東西南北之方言聲氣之異耳<lb/>
+　　矣而因以爲人情有異可乎今以詞之古<lb/>
+<pb n="KR4e0108_SBCK_000-7a"/>
+　　今而疑聖賢之異者則亦猶求人性扵東<lb/>
+　　西南北之音之類也求馬扵牝牡驪黄之<lb/>
+　　類也曰然則果若是同乎曰以詩觀之風<lb/>
+　　殊于頌頌殊于雅矣遂謂詩果不同可乎<lb/>
+　　以書觀之誥殊于訓訓殊于謨矣遂謂書<lb/>
+　　果不同可乎則又何疑乎后世之詩之文<lb/>
+　　也㢤故求先生之詩文者當求先生之道<lb/>
+　　扵言外之意以合扵古訓而不當求先生<lb/>
+　　扵言詞之間則惑也夫然后知先生之詩<lb/>
+<pb n="KR4e0108_SBCK_000-7b"/>
+　　文不可以后之詩人文士之詩文觀之矣<lb/>
+<hi>門人髙簡曰吾師丼泉先生過維揚謂灤州亦刻是集乃吾同年友柯侍御意也先</hi>
+<hi>生既手校付之而因序焉此論是也簡請觀之真足以破文人才子之訾矣因畧其</hi>
+<hi>序刻之由而附其要語于此以俟眀者覧焉</hi>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

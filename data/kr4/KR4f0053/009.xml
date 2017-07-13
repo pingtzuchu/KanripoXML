@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4f0053_SBCK_009-1a"/>
+戴東原集卷弟九<lb/>
+　四庫館纂修官翰林院庶吉士戴震譔<lb/>
+　　　與任孝廉幼植書<lb/>
+　　　荅朱方伯書<lb/>
+　　　與是仲明論學書<lb/>
+　　　與姚孝廉姬傳書<lb/>
+　　　荅鄭丈用牧書<lb/>
+　　　與某書<lb/>
+　　　與方希原書<lb/>
+與任孝廉幼植書<hi>庚辰</hi>
+<pb n="KR4f0053_SBCK_009-1b"/>
+幼植足下承示褅祫喪服等辨今之治此者葢希矣好<lb/>
+學㴱恖如幼植誠震所想見其人不可得者況恖之銳<lb/>
+辨議之堅而緻以此爲文直造古人不難以此治經則<lb/>
+恖之所入願弗遽以爲得勿以前師之說可奪而㪅之<lb/>
+也今幼植奮筆加駁於孔沖遠賈公彥諸儒進而難漢<lb/>
+之先師鄭君康成矣進而訾漢巳來相傳之子夏喪服<lb/>
+傳爲劉歆王莽傅會矣進而遂訾儀禮之經周公之制<lb/>
+作爲歆莽之爲之矣烏呼記不云乎母輕議禮方周官<lb/>
+經初出未立學官馬融所謂入於秘府五家之儒莫得<lb/>
+見是也迄王莽時劉歆置博士永平之初杜子春秊且<lb/>
+<pb n="KR4f0053_SBCK_009-2a"/>
+九十能通其讀賈逵鄭眾往受業然後頗行於世俗學<lb/>
+膚淺往往求之不可通輒肆指摘云劉歆竄入若士禮<lb/>
+十七篇漢興高堂生傳之以授蕭奮蕭授孟卿孟授后<lb/>
+蒼后授戴德戴聖慶暜武帝時后氏立於學官宣帝復<lb/>
+立大小戴蓺文志<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>云禮經十七篇后氏戴氏此後師<lb/>
+師相傳絕不聞此經與歆莽相涉史絕不聞歆莽改博<lb/>
+士之業博士失其師承也今目爲劉歆傅會者於傳則<lb/>
+所謂小功者兄弟之服不敢以兄弟之服服至尊於經<lb/>
+則女子子爲父母世父母叔父母出降服也記曰至親<lb/>
+以期<graphic n="KR0856" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0856.png" mimeType="image/png"/>試以此言㫄<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>之昆弟期從父昆弟大功從祖<lb/>
+<pb n="KR4f0053_SBCK_009-2b"/>
+昆弟小功族昆弟總由族昆弟而上族父族祖父族曾<lb/>
+祖父皆總由從祖昆弟而上從祖父從祖祖父皆小功<lb/>
+此制服之易知者由從父昆弟而上世父叔父何以不<lb/>
+大功也自至親以期<graphic n="KR0856" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0856.png" mimeType="image/png"/>之言上<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>之父何以不期祖不<lb/>
+大功曾祖不小功四世祖不總也立期之節象天地則<lb/>
+已易四時則巳變凡在天地之中者莫不㪅始然而孝<lb/>
+子之心不能以巳也使倍之而爲制三秊之喪<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>曰三<lb/>
+秊以爲隆人子不隆於其親不可以爲子父在爲母期<lb/>
+屈於至尊不敢伸其私尊而猶無不及其節也爲人後<lb/>
+者爲其父母期持重於大宗者降其小宗而猶無不及<lb/>
+<pb n="KR4f0053_SBCK_009-3a"/>
+其節也幼植有取於孔沖遠謂至親以期<graphic n="KR0856" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0856.png" mimeType="image/png"/>專爲此二<lb/>
+者則失制禮之㴱意矣祖父母世父母叔父母之期也<lb/>
+亦隆也不隆於祖不隆於父之昆弟不可以爲孫子總<lb/>
+麻之加一等而小功小功之加一等而大功不可謂之<lb/>
+隆聖人於是爲齊衰三月之服以上殺之義<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>減九月<lb/>
+五月之數而三月以祖雖百世有隆無暜<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>不敢以功<lb/>
+總加於祖考而齊衰傳云不敢以兄弟之服服至尊意<lb/>
+如是康成申之曰重其衰麻尊尊也減其日月恩殺也<lb/>
+且喪服及曾祖不及四世祖巳上康成因傳文小功者<lb/>
+兄弟之服而明之曰正言小功者服之數盡於五則高<lb/>
+<pb n="KR4f0053_SBCK_009-3b"/>
+祖宐總麻曾祖宐小功也據祖期則曾祖宐大功高祖<lb/>
+宐小功也高祖曾祖皆有小功之<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>則曾孫玄孫爲之<lb/>
+服同也又於總麻三月章曰族曾祖父者曾祖昆弟之<lb/>
+親也族祖父者亦高祖之孫則高祖有服明矣葢通乎<lb/>
+經所不言之意也然而猶未盡夫子孫之於祖考不相<lb/>
+逮則巳矣雖不相逮必不可曰有無服之祖也茍相逮<lb/>
+皆齊衰三月其殺也者以上殺爲義其不復殺也者以<lb/>
+有隆無暜爲義道竝行而不相悖夫是之謂文詩曰曾<lb/>
+孫篤之鄭箋云曾猶重也自孫之子而下事先祖皆稱<lb/>
+曾孫禮注云於曾祖巳上稱曾孫而巳由是言之儀禮<lb/>
+<pb n="KR4f0053_SBCK_009-4a"/>
+言曾祖卽關四世祖巳上也幼植知昆弟之昆爲兄不<lb/>
+審古人㳒度之言兄弟與昆弟異義不惟儀禮他經及<lb/>
+爾雅皆然傳曰何如則可謂之兄弟傳曰小功以下爲<lb/>
+兄弟此傳中引傳相證明也爾雅曰母與妻之黨爲兄<lb/>
+弟又曰婦之黨爲婚兄弟壻之黨爲姻兄弟詩小雅兄<lb/>
+弟無遠鄭箋云兄弟父之黨母之黨葢兄弟云者或專<lb/>
+言異姓或兼同姓異姓皆舉遠不以關大功之親記曰<lb/>
+兄弟皆在他邦加一等不及知父母與兄弟居加一等<lb/>
+此惟小功已下卽於疏<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>加等若大功巳上則昆弟也<lb/>
+世父母叔父母也從父昆弟也豈可以皆在他邦及少<lb/>
+<pb n="KR4f0053_SBCK_009-4b"/>
+孤相依而加等哉大功之親分當相恤其不相恤是賊<lb/>
+其性者也小功已下而相恤斯進之也<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>傳有曰子無<lb/>
+大功之親不言小功古人立言精微若此記曰夫之所<lb/>
+爲兄弟服妻降一等或欲援此爲叔㛮有服之證則與<lb/>
+檀弓奔喪逸禮相背戾且本篇傳文言夫之昆弟無服<lb/>
+亦相與背戾閻百詩解之曰夫之所爲兄弟服卽夫之<lb/>
+所爲小功服妻降一等爲總麻也服問之外兄弟指外<lb/>
+祖父母從母在小功者是其證百詩此論精矣惜尙未<lb/>
+吿之以昆弟不言兄弟及舉遠不可關大功之親使其<lb/>
+義益曉然也若女子子出降服此與男女異長意同以<lb/>
+<pb n="KR4f0053_SBCK_009-5a"/>
+女子生而有適人之道使之異於男子豈若幼植之意<lb/>
+必十五巳後許嫁筓始別異哉服有出降或緣有適人<lb/>
+之道而卽降以異於男子世父母叔父母姑姊妹之大<lb/>
+功是也或旣適人而後降爲眾昆弟大功是也或不敢<lb/>
+降祖父母期曾祖父母齊衰三月是也㫺儒謂降㫄親<lb/>
+不降正尊可與至親以期<graphic n="KR0856" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0856.png" mimeType="image/png"/>之言外親之服皆總之言<lb/>
+小功已下爲兄弟之言合爲義例之大要惟降㫄親而<lb/>
+父沒則不降昆弟之爲父後者然後婦人雖在外必有<lb/>
+歸宗之義明惟不降正尊而當其旣嫁從夫不能二尊<lb/>
+且降父之服而爲期舅姑亦期然後所謂父者子之天<lb/>
+<pb n="KR4f0053_SBCK_009-5b"/>
+夫者妻之天婦人不貳斬者猶曰不貳天之義明聖人<lb/>
+制爲父在爲母期女子子適人者爲其父母期是二者<lb/>
+義之至也以幼植所㴱訾爲劉歆傅會者二條今姑據<lb/>
+此疏通證明之其精微非聖人不足與於此餘皆可類<lb/>
+推震曏病同學者多株守古人今於幼植反是凡學未<lb/>
+至貫本末徹精粗徒以意衡量就令載籍極博猶所謂<lb/>
+恖而不學則殆也遠如鄭漁仲近如毛大可祇賊經害<lb/>
+道而巳矣今幼植具異質而秊富成就當不可量是以<lb/>
+不敢不盡言震再拜<lb/>
+荅朱方伯書<lb/>
+<pb n="KR4f0053_SBCK_009-6a"/>
+古禮之不行於今巳久雖然士君子不可不講也況冠<lb/>
+婚喪祭之大豈可與流俗不用禮者同喪服昆弟之子<lb/>
+期從父昆弟大功此正服也大夫爲昆弟之子爲士者<lb/>
+大功大夫之子爲從父昆弟爲士者小功此降服也記<lb/>
+曰大功之末可以冠子可以嫁子父小功之末可以冠<lb/>
+子可以嫁子可以取婦己雖小功旣卒哭可以冠取妻<lb/>
+震竊觀後人於禮之名無不從其重未嘗聞大夫及大<lb/>
+夫之子降㫄期巳下之爲士者也而於禮之實幾蕩然<lb/>
+不用與其實厺而名徒存何如古人有正有降一一各<lb/>
+盡其實也今欲講明古禮而但從正服不從降服則是<lb/>
+<pb n="KR4f0053_SBCK_009-6b"/>
+用其一不用其一竊亦以爲不可以今準古名爲期名<lb/>
+爲大功古禮<graphic n="KR0856" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0856.png" mimeType="image/png"/>然爲大功及小功也小功卒哭之後卽<lb/>
+可以取妻況越過大功除服之後乎然必父亦在小功<lb/>
+之末方可若父在大功之末則可以冠子嫁子不可以<lb/>
+取婦凡言末者謂卒哭之後非謂除服之後然則旣虞<lb/>
+卒哭服雖未除可借吉明矣大功之末不可以取婦大<lb/>
+功旣除服固可取婦甚明兹斟酌古今名實兩得倘猶<lb/>
+云失禮則據禮證之固無失倘云執禮太過則必至是<lb/>
+始於禮無譏君子行禮不求變俗要歸於無所茍而巳<lb/>
+矣<lb/>
+<pb n="KR4f0053_SBCK_009-7a"/>
+與是仲明論學書<hi>癸酉</hi>
+僕所爲經考未嘗敢以聞於人恐聞之而驚顧狂惑者<lb/>
+眾昨遇名賢枉駕望德盛之容令人整肅不侍加以誨<lb/>
+語也又欲觀末學所事得失僕敢以詩補傳序竝辨鄭<lb/>
+衞之音一條檢出呈覽今程某奉其師命來取詩補傳<lb/>
+僕此書尙俟改正未可遽進請進一二言惟名賢教之<lb/>
+僕自少時家貧不獲親師聞聖人之中有孔子者定六<lb/>
+經示後之人求其一經啟而讀之茫茫然無覺尋恖之<lb/>
+久計於心曰經之至者道也所以明道者其詞也所以<lb/>
+成詞者字也由字以通其詞由詞以通其道必有漸求<lb/>
+<pb n="KR4f0053_SBCK_009-7b"/>
+所謂字考諸篆書得許氏說文解字三秊知其節目漸<lb/>
+覩古聖人制作本始又疑許氏於<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>訓未能盡從友人<lb/>
+假十三經注疏讀之則知一字之義當貫羣經本六書<lb/>
+然後爲定至若經之難明尙有若干事誦堯典數行至<lb/>
+乃命羲和不知恆星七政所以運行則掩卷不能卒業<lb/>
+誦周南召南自關雎而往不知古音徒強以協韵則齟<lb/>
+齬失讀誦古禮經先士冠禮不知古者宮室衣服等制<lb/>
+則迷於其方莫辨其用不知古今地名沿革則禹貢職<lb/>
+方失其處所不知少廣㫄要則考工之器不能因文而<lb/>
+推其制不知鳥獸蟲<graphic n="KR1813" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1813.png" mimeType="image/png"/>草木之狀類名號則比興之意<lb/>
+<pb n="KR4f0053_SBCK_009-8a"/>
+乖而字學<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>訓音聲未始相離聲與音又經緯衡從宐<lb/>
+辨漢末孫叔然刱立反語厥後考經論韵悉用之釋氏<lb/>
+之徒從而習其㳒因竊爲己有謂來自西域儒者數典<lb/>
+不能記憶也中土測天用句股今西人易名三角八綫<lb/>
+其三角卽句股八綫卽綴術然而三角之㳒竆必以句<lb/>
+股御之用知句股者㳒之盡僃名之至當也管呂言五<lb/>
+聲十二律宮位乎中黃鐘之宮四寸五分爲起律之本<lb/>
+學者蔽於鐘律失傳之後不追溯未失傳之先宐乎說<lb/>
+之多鑿也凡經之難明右若干事儒者不宐忽置不講<lb/>
+僕欲究其本始爲之又十秊漸於經有所會通然後知<lb/>
+<pb n="KR4f0053_SBCK_009-8b"/>
+聖人之道如縣繩樹槷豪釐不可有<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>僕聞事於經學<lb/>
+葢有三難淹博難識<graphic n="KR0856" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0856.png" mimeType="image/png"/>難精審難三者僕誠不足與於<lb/>
+其閒其私自持曁爲書之大槩端在乎是前人之博聞<lb/>
+強識如鄭漁仲楊用修諸君子著書滿家淹博有之精<lb/>
+審未也别有略是而謂大道可以徑至者如宋之陸明<lb/>
+之陳王廢講習討論之學假所謂尊德性以美其名然<lb/>
+舍夫道問學則惡可命之尊德性乎未得爲中正可知<lb/>
+羣經六蓺之未達儒者所恥僕用是戒其穨惰據所察<lb/>
+知特懼忘失筆之於書識見稍定敬進於前不晩名賢<lb/>
+幸諒震白<lb/>
+<pb n="KR4f0053_SBCK_009-9a"/>
+與姚孝廉姬傳書<hi>乙亥</hi>
+日者紀太史曉嵐欲刻僕所爲考工記圖是以向足下<lb/>
+言欲改定足下應詞非所敢聞而意主不必汲汲成書<lb/>
+僕於時若雷霆驚耳自始知學每憾㫺人成書太早多<lb/>
+未定之說今足下以是規教退不敢忘自賀得師何者<lb/>
+凡僕所以尋求於遺經懼聖人之緖言闇汶於後世也<lb/>
+然尋求而獲有十分之見有未至十分之見所謂十分<lb/>
+之見必徵之古而靡不條貫合諸道而不畱餘議鉅細<lb/>
+畢究本末兼察若夫依於傳聞以擬其是擇於眾說以<lb/>
+裁其優出於空言以定其論據於孤證以信其通雖溯<lb/>
+<pb n="KR4f0053_SBCK_009-9b"/>
+流可以知源不目覩淵泉所導循根可以達杪不手披<lb/>
+枝肄所岐皆未至十分之見也以此治經失不知爲不<lb/>
+知之意而徒增一惑以滋識者之辨之也先儒之學如<lb/>
+漢鄭氏宋程子張子朱子其爲書至詳博然猶得失中<lb/>
+判其得者取義遠資理閎書不克盡言言不克盡意學<lb/>
+者㴱恖自得漸近其區不㴱恖自得斯草薉於畦而茅<lb/>
+塞其陸其失者卽目未覩淵泉所導手未披枝肄所岐<lb/>
+者也而爲說轉易曉學者淺涉而堅信之用自滿其量<lb/>
+之能容受不復求遠者閎者<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>誦㳒康成程朱不必無<lb/>
+人而皆失康成程朱於誦㳒中則不志乎聞道之過也<lb/>
+<pb n="KR4f0053_SBCK_009-10a"/>
+誠有能志乎聞道必厺其兩失殫力於其兩得旣㴱恖<lb/>
+自得而近之矣然後知孰爲十分之見孰爲未至十分<lb/>
+之見如繩繩木㫺以爲直者其曲於是可見也如水準<lb/>
+地㫺以爲平者其坳於是可見也夫然後傳其信不傳<lb/>
+其疑疑則闕庶幾治經不害僕於考工記圖重違知己<lb/>
+之意遂欲刪取成書亦以其義淺特考覈之一端差可<lb/>
+自決足下之教其敢忽諸至欲以僕爲師則別有說非<lb/>
+徒自顧不足爲師亦非謂所學如足下<graphic n="KR0856" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0856.png" mimeType="image/png"/>然以不敏謝<lb/>
+也古之所謂友固分師之半僕與足下無妨交相師而<lb/>
+參互以求十分之見茍有過則相規使道在人不在言<lb/>
+<pb n="KR4f0053_SBCK_009-10b"/>
+斯不失友之謂固大善昨辱簡自謙太過稱夫子非所<lb/>
+敢當之謹奉繳承示文論延陵季子處識數語竝考工<lb/>
+記圖呈上乞教正也<lb/>
+荅鄭丈用牧書<lb/>
+立身守二字日不茍待人守二字曰無憾事事不茍猶<lb/>
+未能寡恥辱念念求無憾猶未能免怨尢此數十秊得<lb/>
+於行事者其得於學不以人蔽已不以己自蔽不爲一<lb/>
+時之名亦不期後世之名有名之見其獘二非掊擊前<lb/>
+人以自表襮卽依傍㫺儒以附驥㞑二者不同而鄙陋<lb/>
+之心同是以君子務在聞道也今之博雅能文章善考<lb/>
+<pb n="KR4f0053_SBCK_009-11a"/>
+覈者皆未志乎聞道徒株守先儒而信之篤如南北朝<lb/>
+人所譏寧言周孔誤莫道鄭服非亦未志乎聞道者也<lb/>
+私智穿鑿者或非盡掊擊以自表襮積非成是而無從<lb/>
+知先入爲主而惑以終身或非盡依傍以附驥㞑無鄙<lb/>
+陋之心而失與之等<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>學難言也好友數人恖歸而共<lb/>
+講明正道不入四者之獘修詞立誠以俟後學其或聽<lb/>
+或否或傳或墜或尊信或非議述古賢聖之道者所不<lb/>
+計也<lb/>
+與某書<lb/>
+足下制義直造古人冠絕一時夫文無古今之異聞道<lb/>
+<pb n="KR4f0053_SBCK_009-11b"/>
+之君子其見於言也皆足以羽翼經傳此存乎識趣者<lb/>
+也而詞不純樸高古亦不貴此存乎行文之氣體格律<lb/>
+者也因題成文如造化之生物官骸畢具根葉竝茂少<lb/>
+闕則非完物此存乎冶鑄之㳒者也精心於制義一事<lb/>
+又不若精心於一經其功力同也未有能此而不能彼<lb/>
+者治經先考字義次通文理志存聞道必空所依傍漢<lb/>
+儒<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>訓有師承亦有時傅會晉人傅會鑿空益多宋人<lb/>
+則恃胷臆爲<graphic n="KR0856" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0856.png" mimeType="image/png"/>
+                    <graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>其襲取者多謬而不謬者在其所棄<lb/>
+我輩讀書原非與後儒競立說宐平心體會經文有一<lb/>
+字非其的解則於所言之意必<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>而道從此失學以牖<lb/>
+<pb n="KR4f0053_SBCK_009-12a"/>
+吾心知猶飲食以養吾血氣雖愚必明雖柔必強可知<lb/>
+學不足以益吾之智勇非自得之學也猶飲食不足以<lb/>
+增長吾血氣食而不化者也君子或出或處可以不見<lb/>
+用用必措天下於治安宋巳來儒者以己之見硬坐爲<lb/>
+古賢聖立言之意而語言文字實未之知其於天下之<lb/>
+事也以己所謂理強<graphic n="KR0856" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0856.png" mimeType="image/png"/>行之而事情原委隱曲實未能<lb/>
+得是以大道失而行事乖孟子曰生於其心害於其政<lb/>
+發於其政害於其事自以爲於心無愧而天下受其咎<lb/>
+其誰之咎不知者且以躳行實踐之儒歸焉不疑夫躳<lb/>
+行實踐勸善懲惡釋氏之教亦爾也君子何以必闢之<lb/>
+<pb n="KR4f0053_SBCK_009-12b"/>
+孟子闢楊墨退之闢釋老當其時孔墨竝稱尊楊墨尊<lb/>
+釋老者或曰是聖人也是正道也吾所尊而守者躳行<lb/>
+實踐勸善懲惡救人心贊治化天下尊之帝王尊之之<lb/>
+人也然則君子何以闢之哉愚人覩其功不知其害君<lb/>
+子㴱知其害<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>也烏呼今之人其亦弗恖矣聖人之道<lb/>
+使天下無不逹之情求遂其欲而天下治後儒不知情<lb/>
+之至於纖微無憾是謂理而其所謂理者同於酷吏之<lb/>
+所謂㳒酷吏以㳒殺人後儒以埋殺人<graphic n="KR1171" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1171.png" mimeType="image/png"/>
+                    <graphic n="KR1171" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1171.png" mimeType="image/png"/>乎舍㳒而<lb/>
+論理死矣㪅無可救矣聖賢之道德卽其行事釋老乃<lb/>
+別有其心所獨得之道德聖賢之理義卽事情之至是<lb/>
+<pb n="KR4f0053_SBCK_009-13a"/>
+無憾後儒乃別有一物焉與生倶生而制夫事古人之<lb/>
+學在行事在通民之欲體民之情故學成而民賴以生<lb/>
+後儒冥心求理其繩以理嚴於商韓之㳒<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>學成而民<lb/>
+情不知天下自此多迂儒及其責民也民莫能辨彼方<lb/>
+自以爲理得而天下受其害者眾也<lb/>
+與方希原書<hi>乙亥</hi>
+得鄭君手札言足下大肆力古文之學僕嘗以爲此事<lb/>
+在今日絕少能者且其途易岐一入岐途漸去古人遠<lb/>
+矣古今學問之途其大致有三或事於理義或事於制<lb/>
+數或事於文章事於文章者等而末者也然自子長孟<lb/>
+<pb n="KR4f0053_SBCK_009-13b"/>
+堅退之子厚諸君子之爲之曰是道也非蓺也以云道<lb/>
+道固有存焉者矣如諸君子之文亦惡覩其非蓺歟夫<lb/>
+以蓺爲末以道爲本諸君子不願據其末畢力以求據<lb/>
+其本本旣得矣然後曰是道也非蓺也循本末之說有<lb/>
+一末必有一本譬諸草木彼其所見之本與其末同一<lb/>
+株而根枝殊爾根固者枝茂世人事其枝得朝露而榮<lb/>
+失朝露而瘁其爲榮不久諸君子事其根朝露不足以<lb/>
+榮瘁之彼又有所得而榮所失而瘁者矣且不廢<graphic n="KR1171" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1171.png" mimeType="image/png"/>灌<lb/>
+之資雨露之潤此固學問功㴱而不巳於其道也而卒<lb/>
+不能有榮無瘁<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>文章有至有未至至者得於聖人之<lb/>
+<pb n="KR4f0053_SBCK_009-14a"/>
+道則榮未至者不得於聖人之道則瘁以聖人之道被<lb/>
+乎文猶造化之終始萬物也非曲盡物情游心物之先<lb/>
+不易解此然則如諸君子之文惡覩其非蓺歟諸君子<lb/>
+之爲道也譬猶仰觀泰山知羣山之卑臨視北海知眾<lb/>
+流之小今有人<graphic n="KR1755" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1755.png" mimeType="image/png"/>泰山之巓跨北海之涯所見不又縣<lb/>
+殊乎哉足下好道而肆力古文必將求其本求其本㪅<lb/>
+有所謂大本大本旣得矣然後曰是道也非蓺也則彼<lb/>
+諸君子之爲道固待斯道而榮瘁也者聖人之道在六<lb/>
+經漢儒得其制數失其義理宋儒得其義理失其制數<lb/>
+譬有人焉<graphic n="KR1755" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1755.png" mimeType="image/png"/>泰山之巓可以言山有人焉跨北海之涯<lb/>
+<pb n="KR4f0053_SBCK_009-14b"/>
+可以言水二人者不相謀天地閒之鉅觀目不全收其<lb/>
+可哉抑言山也言水也時或不盡山之奥水之奇奥奇<lb/>
+山水所有也不盡之闕物情也今足下同鄭君汪君相<lb/>
+與聚處勉而薄乎巓涯究乎奧奇不難僕奔走避難嚮<lb/>
+之所欣久棄不治數千里外聞足下爲之意志動盪不<lb/>
+禁有言足下試察其言漫散不可收拾其近況可弗贅<lb/>
+陳矣置身無所如僕者起古人於今日必哀而憐之凡<lb/>
+事<graphic n="KR1755" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1755.png" mimeType="image/png"/>而後知歷而後難曾不如古人而恖得古人憐我<lb/>
+若強其乞憐於異乎古人者則亦不爲也<lb/>
+<pb n="KR4f0053_SBCK_009-15a"/>
+戴東原集卷弟九<lb/>
+<pb n="KR4f0053_SBCK_009-15b"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>清正存稿</head>
+    <p>
+<pb n="KR4d0335_WYG_000-1a"/>
+欽定四庫全書　　　　集部四<lb/>
+　清正存稿　　　　　　别集類三<hi>宋</hi>
+　　提要<lb/>
+　　　　臣等謹案清正存稿六巻附録一巻宋徐鹿<lb/>
+　　　　卿撰鹿卿字徳夫號泉谷豐城人嘉定十六<lb/>
+　　　　年進士官至禮部侍郎以華文閣待制致仕<lb/>
+　　　　卒諡清正事蹟具宋史本傳其所著有泉谷<lb/>
+　　　　文集奏議講義鹽楮議政稿厯官對越集諸<lb/>
+<pb n="KR4d0335_WYG_000-1b"/>
+　　　　書今俱散佚此本乃明萬厯中其十二世孫<lb/>
+　　　　鑒巡按福建于家乘中搜輯刋行者也鹿卿<lb/>
+　　　　博通經史居官㢘約清峻多恵政凡所建白<lb/>
+　　　　皆忠悃激發不少隠諱今觀是集如都城火<lb/>
+　　　　則上封事言惑嬖寵溺燕私用小人三事遷<lb/>
+　　　　國子監主簿入對則陳洗凡陋昭勸懲等六<lb/>
+　　　　事為太府少卿入對則言定國本正紀綱立<lb/>
+　　　　規模諸事大抵真摯<graphic n="KR0548" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0548.png" mimeType="image/png"/>切深中當時積弊劉<lb/>
+<pb n="KR4d0335_WYG_000-2a"/>
+　　　　克莊以董子之醇賈生之通許之雖標榜之<lb/>
+　　　　詞不無稍過其實而純忠亮節無愧古人固<lb/>
+　　　　非矯激以取名者所得而比擬矣乾隆四十<lb/>
+　　　　六年三月恭校上<lb/>
+　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸費墀<lb/>
+<pb n="KR4d0335_WYG_000-3a"/>
+清正存稿原序<lb/>
+按宋史理宗朝吾家蓋有兩名卿云一為泉谷公鹿卿<lb/>
+以樞密使封豐城男一為矩山公經孫以學士封豐城<lb/>
+伯二公當宋祚垂亡之秋適權奸柄國之際均不得有<lb/>
+為於時然矩山公乃理宗末季或倦於勤故不得盡其<lb/>
+言而泉谷公正當其壯年勵精之日其言猶得以自盡<lb/>
+登嘗從家乗中見公年譜蓋自嘉定登第以後諸凡所<lb/>
+闗職守與國家大計無事而不言無言而不盡其最著<lb/>
+<pb n="KR4d0335_WYG_000-3b"/>
+者若疏都城災而歸咎積隂之極刺其君之惑寵嬖溺<lb/>
+燕安觸犯忌諱既言人之所不敢言其幹辦閩事也時<lb/>
+山冦日熾所與當事徃還書論動中機宜以書生而談<lb/>
+軍旅之事又言人之所不能言至積强之敵積輕之楮<lb/>
+二者當時急務而人槩諉之無可為公獨奏之未已又<lb/>
+白之廟堂必欲起衰救弊于萬一又言人之所不及言<lb/>
+乃輪對二劄言尤激切至謂以越王勾踐之規模用今<lb/>
+日東南之天下庶乎其可使人主竦然動色則人之所<lb/>
+<pb n="KR4d0335_WYG_000-4a"/>
+不可言者而亦言之其忠悃何篤摯也公之疏札固不<lb/>
+止此而此其大者當時不免見忌至累乞祠而獨西山<lb/>
+真先生與之契合其舉備獻納也則曰學術精深節操<lb/>
+方正其辟知南安也則曰才識不羣强毅有立至謂求<lb/>
+以答民望而寛時憂則示以吾黨道同志合之意語云<lb/>
+道不同不相為謀同聲相應同氣相求公于西山儻非<lb/>
+其道之相為謀而何聲應氣求之若是哉葢公之從事<lb/>
+于學也壯年嘗立青雲社約友朋輔仁于㑹文之外及<lb/>
+<pb n="KR4d0335_WYG_000-4b"/>
+仕而教授南安訓諸弟子由濓洛以溯洙泗之源故公<lb/>
+之立朝寕與逐客俱退而不與諂子同進其守制寧違<lb/>
+審察之旨而不肯冒起復之名此其平日之所得于學<lb/>
+問者深故其所契合于西山必有出於言語行事之上<lb/>
+者在也世多訾儒者迂腐不適于用以公之儒而其言<lb/>
+鑿鑿可用若此劉克莊稱其有董子之醇賈生之通信<lb/>
+不誣矣嘗讀西山大學衍義見儒者經世之實用則其<lb/>
+所取于公者豈徒迂腐云爾哉此公文字之可傳非區<lb/>
+<pb n="KR4d0335_WYG_000-5a"/>
+區子弟之私盖於儒先之言信之也時觀叔以按閩過<lb/>
+家命録出年譜中諸疏札將與矩山公集並刻以傳夫<lb/>
+泉谷公欲為于猶可為之日故其言詳矩山公欲為于<lb/>
+不可為之時故其言畧此前人一時之雙美也其並傳<lb/>
+也固宜登忝逺裔竊願蠅附故述梗槩以引其端云徐<lb/>
+即登拜手謹撰<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR4d0335_WYG_000-5b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　清正存稿原序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

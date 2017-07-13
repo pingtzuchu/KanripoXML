@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2f0008_WYG_126-1a"/>
+　欽定四庫全書<lb/>
+世宗憲皇帝上諭内閣卷一百二十六<lb/>
+　　雍正十年十二月<lb/>
+上諭二道<lb/>
+　　十五日奉<lb/>
+上諭據署陜西巡撫史貽直奏稱武功縣生員李倬同州<lb/>
+　生員劉運惇承家孝謹七傳皆合族而居懇請旌揚以<lb/>
+　光盛典等語李倬劉運惇同居七世敦睦可風朕親書<lb/>
+<pb n="KR2f0008_WYG_126-1b"/>
+　扁額頒賜以示嘉奬其建坊題碑之處仍著照例行<lb/>
+　　二十四日管理正紅旗漢軍都統事務和碩莊親王<lb/>
+　　允祿㕘奏該旗太原府知府劉崇元涇陽縣縣丞羅<lb/>
+　　思哈將子姪私留任所奉<lb/>
+上諭旗員子弟久随外任不但伊等安逸遊蕩荒廢無成<lb/>
+　而在署干預地方之事每壊伊等父兄聲名是以從前<lb/>
+　議定外官子弟十八嵗以上者悉令歸旗或讀書肄業<lb/>
+　或披甲食糧使之各有成就不至廢棄此朕教養之恩<lb/>
+<pb n="KR2f0008_WYG_126-2a"/>
+　也至伊等子弟中有可以助其父兄辦理事務或另有<lb/>
+　情節不能相離者朕原准其奏聞請㫖而道府以下官<lb/>
+　員不能自達於朕亦有督撫代奏之例今太原府知府<lb/>
+　劉崇元將伊姪劉度昭私留任所不令來京涇陽縣縣<lb/>
+　丞羅思哈將伊子什勒誑稱年歳未及不行咨送似此<lb/>
+　怠玩功令之員不可不加懲戒劉崇元羅思哈俱著解<lb/>
+　任送伊子姪來京該旗大臣奏聞請㫖著將此㫖通行<lb/>
+　曉諭八旗嗣後倘有不行奏聞而私留子姪在任所者<lb/>
+<pb n="KR2f0008_WYG_126-2b"/>
+　一經㕘奏悉照劉崇元等之例解任親送子弟來京仍<lb/>
+　交部照例議處<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+世宗憲皇帝上諭内閣卷一百二十六<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

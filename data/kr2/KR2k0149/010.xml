@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2k0149_WYG_010-1a"/>
+　皇清膺<lb/>
+大寳命拓迹垂統四裔逖聽冠帶偕來<lb/>
+　皇上纉<lb/>
+武䇿勲西陲大功載蕆垓埏所極莫不尊親用弼億萬<lb/>
+　　　禩丕丕基訖乎無外三古之隆方斯蔑矣先是<lb/>
+　　　乾隆嵗戊辰<lb/>
+　　王師平定金川<lb/>
+　皇上念<lb/>
+<pb n="KR2k0149_WYG_010-1b"/>
+列朝服屬外臣式増式擴爰<lb/>
+　敕所司繪職貢圖以詔方來而資治鏡不數年間舉<lb/>
+　　　濛瀛二萬餘里悉就戎索<lb/>
+鴻貺響臻有若為兹圖集大成者臣等伏思自有志乘<lb/>
+　　　以來爻閭所處王會所登鋪陳景鑠率體専乎<lb/>
+　　　史厥後以圖著例如梁蕭緯所繪三十餘圖既<lb/>
+　　　地限偏隅無可稱引惟唐閻立本應詔作圖其<lb/>
+　　　事為後賢津逮顧尚論者猶以一代時勢轉移<lb/>
+<pb n="KR2k0149_WYG_010-2a"/>
+　　　於突厥囘鶻不免委蛇求濟或結為兄弟或重<lb/>
+　　　以和親且不足以語羈縻又何懐徳畏威之有<lb/>
+　　　若我<lb/>
+　　國家久道化成中外禔福<lb/>
+　皇上以怙冒法<lb/>
+天而<lb/>
+天庥滋至以覲揚法<lb/>
+祖而<lb/>
+<pb n="KR2k0149_WYG_010-2b"/>
+祖烈益光披兹圖也大之可以徴分野規方之略精之<lb/>
+　　　可以體服食好尚之情然非我監臣所手量我<lb/>
+　　　將帥所目擊我驛使所口陳者不以登槧削焉<lb/>
+　　　統計以部曲區名者凡三百數以男女别幅者<lb/>
+　　　凡六百數猗歟韙哉蓋<lb/>
+　　册府傳信之鉅觀於是乎在而<lb/>
+　皇上睿題往復惟<lb/>
+　保泰拊循為兢兢則信乎運世有本<hi>臣</hi>等雒誦之下<lb/>
+<pb n="KR2k0149_WYG_010-3a"/>
+　　　尤願拜手稽首而申重之且自慶其遭逢之盛<lb/>
+　　　也大學士公<hi>臣</hi>傅恒大學士<hi>臣/</hi>來保<hi>臣</hi>劉統勲<lb/>
+　　　協辦大學士尚書公<hi>臣</hi>兆惠尚書公<hi>臣</hi>阿里衮<lb/>
+　　　尚書侯<hi>臣</hi>富徳尚書<hi>臣/</hi>劉綸都統侍郎<hi>臣</hi>納延<lb/>
+　　　泰侍郎<hi>臣</hi>于敏中恭跋<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

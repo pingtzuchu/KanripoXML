@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>提要<lb/>
+                </head>
+    <p>
+<pb n="KR3e0030_WYG_000-1a"/>
+欽定四庫全書　　　　　子部五<lb/>
+　提要<lb/>
+　　全生指迷方四卷　　　醫家類<lb/>
+　　　　臣等謹案全生指迷方四卷宋王貺撰按書<lb/>
+　　　　録解題貺字子亨考城人名醫宋毅叔之婿<lb/>
+　　　　宣和中以醫得幸官至朝請大夫是書宋史<lb/>
+　　　　藝文志作三巻而𫝊本乆絶故醫家罕所徵<lb/>
+　　　　引或至不知其名今檢永樂大典所収按條<lb/>
+<pb n="KR3e0030_WYG_000-1b"/>
+　　　　掇拾雖未必盡符原本然大要已畧具矣方<lb/>
+　　　　書所載大都皆標某湯某丸主治某病詳其<lb/>
+　　　　藥品銖兩而止獨貺此書於每證之前非惟<lb/>
+　　　　具其病狀且一一論其病源使讀者有所据<lb/>
+　　　　依易於運用其脈論及辨脈法諸條皆明白<lb/>
+　　　　曉暢凡三部九候之形病證變化之象及脈<lb/>
+　　　　與病相應不相應之故無不辨其疑似剖析<lb/>
+　　　　微茫亦可為診家之樞要謹詳加訂正分為<lb/>
+<pb n="KR3e0030_WYG_000-2a"/>
+　　　　二十一門依類編次而以論脈諸篇冠之於<lb/>
+　　　　首因篇頁稍繁釐為四卷不復如其原數焉<lb/>
+　　　　乾隆四十六年九月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+<pb n="KR3e0030_WYG_000-3a"/>
+原序<lb/>
+余昔任左史遇疾瀕死考城王貺子亨為察衆工之用<lb/>
+藥而余以生因以其所著全生方一編遺余藏之未暇<lb/>
+讀也繼掌外制一日得異疾謀諸醫未决子亨笑曰毋<lb/>
+恐此吾書所有也視某章病當某藥如方信宿而病良<lb/>
+已於是始竒之歸居淮南去王城國偶有病秪訊於書<lb/>
+謫三巴遷百粤去醫益逺又槖本以歸余余因為之表<lb/>
+其端曰此書直而邃曲而通部居彪列而脉絡潛流形<lb/>
+<pb n="KR3e0030_WYG_000-3b"/>
+色昭彰而對治要妙知方者讀之智思横生不知者猶<lb/>
+可按圖而愈疾真衞生之竒寳濟物之良術也至理不<lb/>
+煩至語不費余非知道者而於此乎取之子亨當官不<lb/>
+苟遇世變嘗慨然再請出疆萬里其論著此書用心救<lb/>
+世利物不特此矣吴敏序<lb/>
+<pb n="KR3e0030_WYG_000-4a"/>
+自序<lb/>
+徳彌大者常存乎好生之心志彌廣者每切于立言為<lb/>
+教在上世則有伊尹逮後漢乃見張機祖述神農之經<lb/>
+發明黄帝之道雖然術至通神之妙在乎知慮以為先<lb/>
+藥至起生之功必因精能而後效天無棄物非人莫知<lb/>
+所能人有常心非道莫知所適凝神自悟觸理皆分故<lb/>
+能贊益天機悉體隂陽之變深窮造化博極生死之源<lb/>
+候色驗形自契一時之理刳腸剖臆難傳後代之精至<lb/>
+<pb n="KR3e0030_WYG_000-4b"/>
+于湯液除疴砭石起死必當研窮性味斟酌淺深治理<lb/>
+在于君臣協攻資乎佐使方書之行其來尚矣而人猶<lb/>
+不能刻意研求專心致志攖邪抱病則束手無能制療<lb/>
+處方則委身紕繆余竊悲之于是採古人之緒餘分病<lb/>
+證之門類别其疑似定其指歸隂陽既明虚實可攷若<lb/>
+能按圖求治足以解惑指迷雖未起死回生庻幾扶危<lb/>
+拯困故號曰全生指迷以崇大倫之道焉考成王貺子<lb/>
+亨序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

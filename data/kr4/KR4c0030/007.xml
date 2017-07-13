@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4c0030_WYG_007-1a"/>
+宗𤣥集原序<lb/>
+予於開元中著𤣥綱論及養形論行于世詔授江州刺<lb/>
+史辭而不受晦跡隠於驪山養胎息至元和中遊淮西<lb/>
+遇王師討蔡賊吳元濟避辭東之於岳遇李謫仙以斯術<lb/>
+授予曰此南統大君之生門也入其門則我命在我九<lb/>
+章象陽之爻數也其文畧其事簡實學道之漸階為求<lb/>
+生之真路也又曰内丹者即此也吾今授汝慎勿泄無<lb/>
+器識誷神靈之徒否則罹灾矣九章之㫖許度後人但<lb/>
+<pb n="KR4c0030_WYG_007-1b"/>
+不授中下之才者爾故録為之序引唐元和戊戌吳筠<lb/>
+序<lb/>
+<pb n="KR4c0030_WYG_007-2a"/>
+宗𤣥集原序<lb/>
+予於開元中著𤣥綱論及養形論行于世詔授江州刺<lb/>
+史辭而不受晦跡隠於驪山養胎息至元和中遊淮西<lb/>
+遇王師討蔡賊吳元濟避辭東之於岳遇李謫仙以斯術<lb/>
+授予曰此南統大君之生門也入其門則我命在我九<lb/>
+章象陽之爻數也其文畧其事簡實學道之漸階為求<lb/>
+生之真路也又曰内丹者即此也吾今授汝慎勿泄無<lb/>
+器識誷神靈之徒否則罹灾矣九章之㫖許度後人但<lb/>
+<pb n="KR4c0030_WYG_007-2b"/>
+不授中下之才者爾故録為之序引唐元和戊戌吳筠<lb/>
+序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

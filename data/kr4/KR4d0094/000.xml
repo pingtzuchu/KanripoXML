@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>寶晉英光集序</head> <lb/>
+    <p>
+<pb n="KR4d0094_WYG_000-1a"/>
+欽定四庫全書　　　　　集部三<lb/>
+　寳晉英光集　　　　　　别集類二<hi>宋</hi>
+　　提要<lb/>
+　　　　臣等謹案寳晉英光集八巻宋米芾撰芾有<lb/>
+　　　　畫史已著録其集於南渡之後業已散佚紹<lb/>
+　　　　定壬辰岳珂官潤州時既葺芾祠因摭其遺<lb/>
+　　　　文為一編併為之序序中不言巻數而稱山<lb/>
+　　　　村集舊一百卷今所薈稡附益未十之一似<lb/>
+<pb n="KR4d0094_WYG_000-1b"/>
+　　　　即此本然陳振孫書録解題稱寳晉集十四<lb/>
+　　　　巻與此本不同又此本後有張丑跋云得於<lb/>
+　　　　呉寛家中間詩文或註從英光堂帖增入或<lb/>
+　　　　注從羣玉堂增入則必非岳珂原本又有注<lb/>
+　　　　從戲鴻堂帖增入者則併非呉寛家原本考<lb/>
+　　　　寳晉乃芾齋名英光乃芾堂名合二名以名<lb/>
+　　　　一書古無是例得無初名寳晉集後人以英<lb/>
+　　　　光堂帖補之改題此名歟芾以書畫名而文<lb/>
+<pb n="KR4d0094_WYG_000-2a"/>
+　　　　章亦頗不俗曾敏行獨醒雜志載其常以詩<lb/>
+　　　　一巻投許沖元云芾自㑹道言語不襲古人<lb/>
+　　　　年三十為長沙掾盡焚燬以前所作平生不<lb/>
+　　　　録一篇投王公貴人遇知己索一二篇則以<lb/>
+　　　　往元豐中至金陵識王介甫過蘇州識蘇子<lb/>
+　　　　美比日不執弟子禮云云其自負殊甚殆猶<lb/>
+　　　　顛態然呉可藏海詩話引韓駒之言謂芾詩<lb/>
+　　　　有惡無凡岳珂序引思陵翰墨志曰芾之詩<lb/>
+<pb n="KR4d0094_WYG_000-2b"/>
+　　　　文語無蹈襲出風烟之上覺其詞翰似有凌<lb/>
+　　　　雲之氣<hi>案此條今本思陵翰墨志不載</hi>敏行又記蘇軾嘗言<lb/>
+　　　　自海南歸舟中聞諸子誦所作古賦始恨知<lb/>
+　　　　之之晩蓋其胸次既髙故吐言天拔雖不規<lb/>
+　　　　規繩墨而氣韻自殊也乾隆四十六年十月<lb/>
+　　　　恭校上<lb/>
+　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="KR4d0094_WYG_000-3a"/>
+欽定四庫全書<lb/>
+　寶晉英光集序<lb/>
+予仕居潤餘十年會羽書交馳凡訪古摭竒皆日力所<lb/>
+不暇僅能考海岳一遺址塹槿為園薦菊為祠倚江為<lb/>
+堂礱石為刻時一至其間徙倚縱目慨想摩挲而已夫<lb/>
+自江而南名城奥都潤為大六朝而下賢規雋轍潤為<lb/>
+古而又據景物之會窮心目之趣惟潤為多人或咎予<lb/>
+謂歴數千百載它豈無名人才士可以表著而獨惓惓<lb/>
+<pb n="KR4d0094_WYG_000-3b"/>
+於英光予每應之曰境無凡勝以會心為悦人無今古<lb/>
+以合蹟為竒若杖履無日涉之勞江山有天境之助風<lb/>
+帆沙鳥晨雨夜虹凡是園之所包羅衆目之所覩記者<lb/>
+莫不挾英秀露光彩雖微遺跡猶將强附而爼豆之而<lb/>
+况我宋人物如南宫者邪夫既卜園觀則不可以不祠<lb/>
+既蕆祠則不可以不摭遺考文翰以備一堂之缺既竣<lb/>
+摹瑑之事而攟放失恪編次為是集以傳又次序之所<lb/>
+當舉而必不可無者也則又奚疑或者無以答予按山<lb/>
+<pb n="KR4d0094_WYG_000-4a"/>
+林集舊一百卷今所會萃附益未十之一南渡而後文<lb/>
+獻不足固無可議若曰南宫被天鑒流榮名其在兩朝<lb/>
+元不顓以結字思陵翰墨志有曰芾之詩文語無蹈襲<lb/>
+出風煙之上覺其詞翰同有凌雲之氣噫<graphic n="KR1077" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1077.png" mimeType="image/png"/>此漢武帝<lb/>
+所以知相如也冠於篇端庶幾覽者有以自得焉紹定<lb/>
+壬辰嵗上巳日鄂國岳珂序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

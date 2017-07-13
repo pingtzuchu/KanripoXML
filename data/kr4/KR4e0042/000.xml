@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>靜居集</head>
+    <p>
+<pb n="KR4e0042_WYG_000-1a"/>
+欽定四庫全書　　　　　集部六<lb/>
+　靜居集　　　　　　　　别集類五<hi>明</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案靜居集四巻明張羽撰羽字來儀<lb/>
+　　　　後以字行更字附鳳本潯陽人僑居呉興元<lb/>
+　　　　末領鄉薦為安定書院山長再徙於呉洪武<lb/>
+　　　　初徴授太常寺丞尋坐事竄嶺南未半道召<lb/>
+　　　　還羽自知不免投龍江死明史文苑傳附載<lb/>
+<pb n="KR4e0042_WYG_000-1b"/>
+　　　　髙啟傳中史稱其文章精潔有法尤長於詩<lb/>
+　　　　太祖重其文洪武十六年嘗自述滁陽王事<lb/>
+　　　　令羽撰廟碑何喬逺名山藏亦稱其文詞典<lb/>
+　　　　雅紀載行事詳而有體顧其詩名尤著故編<lb/>
+　　　　集者亦僅錄其詩而文則未之及也朱彛尊<lb/>
+　　　　靜志居詩話謂其五言微嫌鬰轖近體亦非<lb/>
+　　　　所長頗不免於微詞今觀其集律詩意取俊<lb/>
+　　　　逸誠多失之平熟五言古體低昂婉轉殊有<lb/>
+<pb n="KR4e0042_WYG_000-2a"/>
+　　　　瀏亮之作亦不盡如彛尊所云至於歌行筆<lb/>
+　　　　力雄放音節諧暢足為一時之豪以之接跡<lb/>
+　　　　青邱先驅北郭盧前王後之間亦未必遽作<lb/>
+　　　　蜂腰矣乾隆四十五年九月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

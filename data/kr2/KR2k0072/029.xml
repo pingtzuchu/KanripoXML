@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>河源紀畧</head> <lb/>
+    <p>
+<pb n="KR2k0072_WYG_029-1a"/>
+欽定四庫全書<lb/>
+　河源紀畧<lb/>
+　辨訛<lb/>
+　　<hi>臣</hi>等謹案尚論必期於徴信而考覈尤貴於謹嚴<lb/>
+　　故欲求古人之是必當察古人之非能察古人之<lb/>
+　　非然後可得古人之是此證古所以必資于辨訛<lb/>
+　　者也盖地志之書核實為難而河源之説鑿空尤<lb/>
+　　甚即如崑崙一山也或以為在于闐之南又或以<lb/>
+<pb n="KR2k0072_WYG_029-1b"/>
+　　為在蔥嶺之西或以為即吐蕃之紫山又或以為<lb/>
+　　即吐蕃之大雪山其他非河源所出之崑崙更無<lb/>
+　　論矣積石一山也或以為在臨羌之外又或以為<lb/>
+　　在河闗之内或以為河水所冒又或以為河水所<lb/>
+　　出其他謂積石反在崑崙之西益難憑矣河水發<lb/>
+　　於崑崙伏於蒲昌出於吐蕃此確乎不易之論也<lb/>
+　　漢使未至羌中故不知積石之上有重源唐人不<lb/>
+　　考西域故不知蒲昌之下有伏流此兩家之説所<lb/>
+<pb n="KR2k0072_WYG_029-2a"/>
+　　以互有得失也後之談河源者好為異同或信吐<lb/>
+　　蕃而疑西域或信西域而疑吐蕃此説之所以不<lb/>
+　　一也盖自周秦以降載籍難免于𫝊訛聲教不通<lb/>
+　　於殊域談天志怪多有其書别國方言不流中土<lb/>
+　　此向來考古之士所以昧於裁取者也所賴者聖<lb/>
+　　經猶存禹貢之篇班史尚留西域之𫝊我<lb/>
+皇疆圉邁絶古今<lb/>
+昭代圖書同文内外故敢用為據依得折𠂻夫<lb/>
+<pb n="KR2k0072_WYG_029-2b"/>
+聖訓因河之初源以定崑崙因河之重源以知積石考<lb/>
+　　諸西域而知蒲昌海之下伏流匪虚騐諸吐蕃而<lb/>
+　　知星宿海之上真源顯著其他無稽之説附㑹之<lb/>
+　　書目不覩疆域之情形耳未聞山川之向背鬬麗<lb/>
+　　誇竒證無為有甚至强指方隅横徴故實東流所<lb/>
+　　逕之山反在發源以上西海已歸之水仍出濫觴<lb/>
+　　之前若此類者雖言之鑿鑿實索之冥冥尤當辨<lb/>
+　　其是以正其非盖正其非乃所以存其是此豈<hi>臣</hi>
+<pb n="KR2k0072_WYG_029-3a"/>
+　　等顓䝉之所及哉抑亦遭逢之至幸也云爾<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2m0055_WYG_023-1a"/>
+欽定四庫全書<lb/>
+大清律例卷四目錄<lb/>
+　名例律上<lb/>
+　　　五刑<lb/>
+　　　十惡<lb/>
+　　　八議<lb/>
+　　　應議者犯罪<lb/>
+　　　應議者之父祖有犯<lb/>
+<pb n="KR2m0055_WYG_023-1b"/>
+　　　職官有犯<lb/>
+　　　文武官犯公罪<lb/>
+　　　文武官犯私罪<lb/>
+　　　犯罪免發遣<lb/>
+　　　軍籍有犯<lb/>
+　　　犯罪得累減<lb/>
+　　　以理去官<lb/>
+　　　無官犯罪<lb/>
+<pb n="KR2m0055_WYG_023-2a"/>
+　　　除名當差<lb/>
+　　　流囚家屬<lb/>
+　　　常赦所不原<lb/>
+　　　流犯在道㑹赦<lb/>
+　　　犯罪存留養親<lb/>
+　　　天文生有犯<lb/>
+　　　工樂户及婦人犯罪<lb/>
+　　　徒流人又犯罪<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

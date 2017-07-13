@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>江南餘載</head>
+    <p>
+<pb n="KR2i0012_WYG_000-1a"/>
+欽定四庫全書　　　　　史部九<lb/>
+　江南餘載　　　　　　　載記𩔖<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案江南餘載二卷不著撰人名氏宋<lb/>
+　　　　史藝文志載之霸史𩔖中亦不云誰作馬端<lb/>
+　　　　臨文獻通考戚光南唐書音釋並作江南館<lb/>
+　　　　載字之訛也陳氏書録解題載是書原序畧<lb/>
+　　　　曰徐鉉始奉詔為江南録其後王舉路振陳<lb/>
+<pb n="KR2i0012_WYG_000-1b"/>
+　　　　彭年楊億皆有書大概六家皆不足以史稱<lb/>
+　　　　而龍衮為尤甚熙寧八年得鄭君所述於楚<lb/>
+　　　　州其事迹有六家所遺或小異者刪落是正<lb/>
+　　　　取百九十五段以𩔖相從云云振孫謂鄭君<lb/>
+　　　　者莫知何人考鄭文寳有南唐近事二卷作<lb/>
+　　　　於太平興國二年丁丑又江表志三卷作于<lb/>
+　　　　大中祥符三年庚戌不在此序所列六家之<lb/>
+　　　　内則所稱得于楚州者當即文寳之書檢此<lb/>
+<pb n="KR2i0012_WYG_000-2a"/>
+　　　　書所録雜事亦與文寳江表志所載互相出<lb/>
+　　　　入然則所謂刪落是正者實據江表志為稿<lb/>
+　　　　本矣今世所行江表志名為三卷實止二十<lb/>
+　　　　四頁葢殘闕掇拾已非完書此書所謂一百<lb/>
+　　　　九十五段者今雖不可全見而永樂大典内<lb/>
+　　　　所引尚夥多有江表志所不載者則江表志<lb/>
+　　　　雖存而實佚此書雖佚尚有大半之存也宋<lb/>
+　　　　志載此書二卷書録解題及諸家書目並同<lb/>
+<pb n="KR2i0012_WYG_000-2b"/>
+　　　　今採輯其文仍為二卷以補江表志之闕焉<lb/>
+　　　　乾隆四十六年三月恭校上<lb/>
+　　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　　　　總　校　官　<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4j0081_SBCK_000-1a"/>
+　　　　胡紫山　仇州判　王伯成　李徳載<lb/>
+　　　　呉克齋　王敬甫　曽瑞卿　程景𥘉<lb/>
+　　　　鍾繼先　趙彦輝　杜遵禮　孫季昌<lb/>
+　　　　趙明道　鄭徳輝　秦竹村　周仲彬<lb/>
+　　　　李致逺　童童學士　沙正卿　王仲誠<lb/>
+　　　　李邦基　王仲元　庾吉甫　睢景臣<lb/>
+　　　　曽褐夫　孛羅御史　㠯大用　陸仲良<lb/>
+　　　　任則明　姚守中　楊澹齋　楊立齋<lb/>
+　　　　侯正卿　髙安道　董君瑞　行院王氏<lb/>
+　　　　珠簾秀歌者<lb/>
+　　　　　　　　　巳上八十五人外又有不知名氏者所<lb/>
+　　　　　　　　　作具見集中比它編有名無曲者不同<lb/>
+　姓氏<hi>畢</hi>
+<pb n="KR4j0081_SBCK_000-2a"/>
+太平楽府序<lb/>
+楽府本乎詩也三百篇之変至扵五言有楽府有五<lb/>
+言有歌有曲為詩之别名矣及乎製曲以腔音調滋<lb/>
+巧盛而曲犯雜　者改曲之名曰詞以重之而<lb/>
+有詩詞之分矣今中州　𢾗之曲人目之曰楽<lb/>
+府亦以重其名也舉丗所尚辭意爭新是又詞之一<lb/>
+変而去詩逾逺矣雖然古人作詩歌之以奏楽而八<lb/>
+音諧神人和今詩無復論是楽府調聲按律務合音<lb/>
+節盖猶有歌詩之遺意焉澹齋楊君有選集陽春白<lb/>
+雪流行乆矣兹又新選太平楽府一編分宫類調皆<lb/>
+<pb n="KR4j0081_SBCK_000-2b"/>
+當代朝野名筆而不複出諸編之所載者且以燕山<lb/>
+卓氏北腔韵類冠之期扵朔南同調聲和氣和而為<lb/>
+治丗安楽之音不徒羡乎秦青之喉吻也昔酸齋貫<lb/>
+公與澹齋遊曰我酸則子當澹遂以號之常相評今<lb/>
+日詞手以馮海粟為豪辣浩爛乃其所畏也是編首<lb/>
+采海粟所和白仁甫黒<graphic n="KR0238" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0238.png" mimeType="image/png"/>弩為之始盖嘉其字按四<lb/>
+聲字字不茍辭壮而麗不淫不傷澹齋刪存之意亦<lb/>
+知楽府之所本與遂為之序<lb/>
+至正辛夘春巴西鄧于晉書<lb/>
+<pb n="KR4j0081_SBCK_000-3a"/>
+朝野新聲太平樂府目錄<lb/>
+　卷之一<lb/>
+　　　鸚鵡曲<hi>即黒<graphic n="KR0238" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0238.png" mimeType="image/png"/>弩</hi>賽鴻秋　叨叨令<lb/>
+　　　蟾官曲<hi>即折桂令</hi>殿前歡<lb/>
+卷之二<lb/>
+　　　夀陽曲<hi>即落梅風</hi>水仙子　水仙子帶折桂令<lb/>
+　　　驟雨打新荷　阿納忽　撥不㫁<lb/>
+　　　慶宣和　慶東原　沉醉東風<lb/>
+　　　賣花聲<hi>即昇平楽</hi>清江引<lb/>
+卷之三<lb/>
+　　　徳勝令　鴈兒落帶徳勝令<lb/>
+　　　碧玉蕭　清江引<lb/>
+　　　白鶴子　一錠銀帶大徳樂<lb/>
+<pb n="KR4j0081_SBCK_000-3b"/>
+　　　凭䦨人　天淨紗　栁管曲<hi>即寨兒令</hi>
+　　　小桃紅<hi>又名採蓮曲</hi>黄薔薇帶慶元貞<lb/>
+　卷之四<lb/>
+　　　陽春曲<hi>即喜春来</hi>醉髙歌　又帶喜春来紅綉鞋<lb/>
+　　　紅綉鞋<hi>又名朱履曲</hi>滿庭芳　普天樂<lb/>
+　　　朝天子　上小樓　山坡羊<lb/>
+　　　快活三帶朝天子四換頭四邉靜<lb/>
+　卷之五<lb/>
+　　　閱金經<hi>即金字經</hi>四塊玉　醉太平<lb/>
+　　　罵玉郎帶感皇恩採茶歌<lb/>
+　　　后庭花　寄生草　醉中天<lb/>
+　　　節節髙<lb/>
+　　　梧葉兒<lb/>
+　　　刮地風<lb/>
+<pb n="KR4j0081_SBCK_000-4a"/>
+　　　　　一半兒　晝夜樂　人月圎<lb/>
+　　卷之六<lb/>
+　　　　　賞花時　點絳唇　翠裙腰<lb/>
+　　　　　祅神急<lb/>
+　　　　　端正好　月照庭<lb/>
+　　　　　夜行舡　駐馬聴近　喬木查<lb/>
+　　　　　蝶恋花　行香子<lb/>
+　　卷之七<lb/>
+　　　　　新水今<lb/>
+　　　　　鬪鵪鶉<lb/>
+　　　　　黄鶯兒　集賢賔<lb/>
+　　　　　青杏子　好觀音　六國朝<lb/>
+　　卷之八<lb/>
+　　　　　　一枝花　梁州第七<lb/>
+<pb n="KR4j0081_SBCK_000-4b"/>
+　　　粉蝶兒　菩薩蠻　醉春風<lb/>
+　　　願成雙　醉花隂<lb/>
+　卷之九<lb/>
+　　　耍孩兒　哨遍<lb/>
+　朝野新聲太平樂府目錄終<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

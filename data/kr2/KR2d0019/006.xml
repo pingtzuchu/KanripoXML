@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2d0019_WYG_006-1a"/>
+　欽定四庫全書<lb/>
+御定歴代紀事年表卷七<lb/>
+　　<hi>起丁卯周夷王元年○止戊午周平王四十有八年</hi>凡一百七十二年<lb/>
+　　表例説<lb/>
+　　　<hi>臣</hi>之樞謹按史記十二諸侯年表起於共和元年<lb/>
+　　　通鑑前編及綱目前編入周夷王後所載諸侯生卒<lb/>
+　　　傳國皆有年可紀今從前編次十二諸侯自夷王元<lb/>
+　　　年始十二國外尚百餘邦或以附庸或以同姓或以<lb/>
+<pb n="KR2d0019_WYG_006-1b"/>
+　　　地相近有事可紀則次第附見之<lb/>
+<pb n="KR2d0019_WYG_006-2a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_006-3a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_006-4a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_006-5a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_006-6a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_006-7a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_006-8a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_006-9a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_006-10a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_006-11a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_006-12a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_006-13a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_006-14a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_006-15a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_006-16a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_006-17a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_006-18a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_006-19a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_006-20a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_006-21a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_006-22a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_006-23a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_006-24a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_006-25a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_006-26a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_006-27a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_006-28a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_006-29a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_006-30a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_006-31a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_006-32a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_006-33a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_006-34a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_006-35a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_006-36a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_006-37a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_006-38a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_006-39a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_006-40a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_006-41a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_006-42a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_006-43a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_006-44a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_006-45a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_006-46a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_006-47a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_006-48a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_006-49a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_006-50a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_006-51a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_006-52a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_006-53a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_006-54a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_006-55a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_006-56a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_006-57a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_006-58a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_006-59a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_006-60a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_006-61a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2d0019_WYG_006-61b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定歴代紀事年表卷七<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>儒門事親</head>
+    <p>
+<pb n="KR3e0051_WYG_000-1a"/>
+欽定四庫全書　　　　　子部五<lb/>
+　儒門事親　　　　　　　醫家類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案儒門事親十五卷金張從正撰從<lb/>
+　　　　正字子和號戴人睢州考城人興定中召補<lb/>
+　　　　太醫尋辭去與麻知幾常仲明輩講求醫理<lb/>
+　　　　輯為此書有説有辨有記有解有誡有箋有<lb/>
+　　　　詮有式有斷有論有疏有述有衍有訣有十<lb/>
+<pb n="KR3e0051_WYG_000-1b"/>
+　　　　形三療有六門三法名目頗煩碎而大㫖主<lb/>
+　　　　於用攻其曰儒門事親者以為惟儒者能明<lb/>
+　　　　其理而事親者當知醫也從正宗河間劉守<lb/>
+　　　　真用藥多寒凉其汗吐下三法當時已多異<lb/>
+　　　　議故書中辨謗之處為多丹溪朱震亨亦譏<lb/>
+　　　　其偏後人遂并其書置之然病情萬状各有<lb/>
+　　　　所宜當攻不攻與當補不補厥弊維均偏執<lb/>
+　　　　其法固非竟斥其法亦非也惟中間負氣求<lb/>
+<pb n="KR3e0051_WYG_000-2a"/>
+　　　　勝不免太激欲矯庸醫恃補之失或至于過<lb/>
+　　　　直又𫝊其學者不知察脉虗實論病久暫概<lb/>
+　　　　以峻利施治遂致為世所藉口要之未明從<lb/>
+　　　　正本意耳乾隆四十三年三月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="KR3e0051_WYG_000-3a"/>
+儒門事親原序<lb/>
+是書也戴人張子和専為事親者著論議淵㣲調攝有<lb/>
+法其術與東垣丹溪並𫝊名書之義葢以醫家奥㫖非<lb/>
+儒不能明藥裹酒食非孝不能備也故曰為人子者不<lb/>
+可不知醫予幼失怗慈親在堂踰七望八<graphic n="KR0949" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0949.png" mimeType="image/png"/>髓既具未<lb/>
+嘗不防以藥物每慮當有所饋委之時醫恐為盡道之<lb/>
+累將欲遍閲方書諸家著述繁雜竊為是皇皇者數載<lb/>
+矣近得是書如獲寳璐執是以証何慮臆説之能惑惜<lb/>
+<pb n="KR3e0051_WYG_000-3b"/>
+其板乆失𫝊本多亥豕之訛因付儒醫聞忠較訂鋟梓<lb/>
+與世之事親者共云嘉靖辛丑三月戊子復元道人邵<lb/>
+輔序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

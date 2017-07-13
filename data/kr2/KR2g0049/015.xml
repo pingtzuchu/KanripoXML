@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>儒林宗派卷十五</head> <lb/>
+    <p>
+<pb n="KR2g0049_WYG_015-1a"/>
+欽定四庫全書<lb/>
+　儒林宗派卷十五<lb/>
+　　　　　　　　　　　　　　　鄞縣萬斯同撰<lb/>
+　明<lb/>
+王守仁<hi>伯安陽明餘姚文成</hi>
+　　王氏學派<lb/>
+<pb n="KR2g0049_WYG_015-2a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+徐愛<hi>曰仁横山餘姚</hi>
+魏良弼<hi>師説水洲新建</hi>
+魏良政<hi>師伊</hi>
+魏良器<hi>師顔藥湖</hi>
+陳九川<hi>惟進明水臨川</hi>
+<pb n="KR2g0049_WYG_015-2b"/>
+舒芬<hi>國裳梓谿進賢</hi>
+南大吉<hi>元善瑞泉渭南</hi>
+馬明衡<hi>子莘莆田</hi>
+蔣信<hi>卿實道林常徳</hi>
+冀惟乾<hi>元亨闇齋武陵</hi>
+陸澄<hi>元静歸安</hi>
+蔡宗兖<hi>希淵山陰</hi>
+季本<hi>明徳彭山會稽</hi>
+<pb n="KR2g0049_WYG_015-3a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+劉邦采<hi>君亮獅泉安福</hi>
+劉曉<hi>伯光梅源安福</hi>
+劉秉鑑<hi>尊都印山安福</hi>
+<pb n="KR2g0049_WYG_015-3b"/>
+王臣<hi>公弼南昌</hi>
+<pb n="KR2g0049_WYG_015-4a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+黃宗明<hi>誠甫鄞縣</hi>
+<pb n="KR2g0049_WYG_015-4b"/>
+黃綰<hi>宗賢久庵黄岩</hi>
+應良<hi>原忠天台</hi>
+朱節<hi>守忠白浦山陰</hi>
+聞人詮<hi>邦正北江餘姚</hi>
+張元冲<hi>叔浮浮峯山陰</hi>
+孫應奎<hi>文卿䝉泉餘姚</hi>
+聶豹<hi>文蔚雙江永豐貞襄</hi>
+萬虞愷<hi>楓潭南昌</hi>
+<pb n="KR2g0049_WYG_015-5a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2g0049_WYG_015-5b"/>
+顧應祥<hi>惟賢箬溪長興</hi>
+戚賢<hi>秀夫南𤣥全椒</hi>
+馮恩<hi>子仁南江華亭</hi>
+朱得之<hi>本思近齋靖江</hi>
+黃省曾<hi>勉之五岳吳縣</hi>
+王道<hi>純甫武定</hi>
+穆孔暉<hi>伯潜𤣥庵堂邑</hi>
+<pb n="KR2g0049_WYG_015-6a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+楊仕鳴<lb/>
+楊士徳<hi>名驥潮州</hi>
+薛俊<hi>尚哲掲陽</hi>
+　<lb/>
+　<lb/>
+<pb n="KR2g0049_WYG_015-6b"/>
+　　　　葉峕<hi>允中歸善</hi>
+方獻夫<hi>希哲西樵南海</hi>
+梁焯<hi>日孚南海</hi>
+鄭一初<hi>朝叔掲陽</hi>
+<pb n="KR2g0049_WYG_015-7a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2g0049_WYG_015-7b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+范瓘<hi>廷□栗齋山陰</hi>
+管洲<hi>子行石屏餘姚</hi>
+柴鳯<hi>後愚餘姚</hi>
+楊珂<hi>汝鳴餘姚</hi>
+<pb n="KR2g0049_WYG_015-8a"/>
+徐珊<hi>汝佩餘姚</hi>
+周衝<hi>道通静庵宜興</hi>
+劉觀時<hi>武陵</hi>
+周積<hi>以善江山</hi>
+范引年<hi>半野餘姚</hi>
+夏淳<hi>惟初復吾餘姚</hi>
+黃驥<hi>徳良餘姚</hi>
+黃文煥<hi>吳南餘姚</hi>
+<pb n="KR2g0049_WYG_015-8b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+唐愈賢<hi>子克沅陵</hi>
+李珙<hi>侯璧永永</hi>
+程梓<hi>養之永康</hi>
+<pb n="KR2g0049_WYG_015-9a"/>
+徐芾<hi>孔霖江山</hi>
+孫景時<hi>成叔杭州</hi>
+陳善<hi>思敬仁和</hi>
+王潼<hi>本澄錢塘</hi>
+袁慶麟<hi>徳彰雩都</hi>
+管登<hi>𢎞升雩都</hi>
+童世堅<hi>克剛連城</hi>
+周禄<hi>以道廬陵</hi>
+<pb n="KR2g0049_WYG_015-9b"/>
+王舜鵬<hi>萬安</hi>
+劉勉<hi>和平廬陵</hi>
+王貴<hi>道充清江</hi>
+謝魁<hi>文杓興國</hi>
+況澄<hi>仲元高安</hi>
+應典<hi>天彝永康</hi>
+李呈祥<hi>時龍貴池</hi>
+柯喬<hi>遷之青陽</hi>
+<pb n="KR2g0049_WYG_015-10a"/>
+陳傑<hi>國英莆田</hi>
+林學道<hi>致之莆田</hi>
+郭慶<hi>善甫黃岡</hi>
+吳良吉<hi>亦良黄岡</hi>
+程文徳<hi>松谿永康</hi>
+<pb n="KR2g0049_WYG_015-11a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+萬表<hi>民望鹿園鄞縣</hi>
+程黙<hi>子木休寧</hi>
+王釗<hi>子懋栁川安福</hi>
+黃嘉愛<hi>懋仁餘姚</hi>
+黃元釡<hi>丁山餘姚</hi>
+<pb n="KR2g0049_WYG_015-11b"/>
+黃䕫<hi>子韶後川餘姚</hi>
+王璣<hi>西安</hi>
+張瀚<hi>仁和</hi>
+路迎<hi>𤾉叔汶上</hi>
+徐樾<hi>子直波石貴溪</hi>
+王襞<hi>宗順東崖艮子</hi>
+董榖<hi>碩甫澐子海寜</hi>
+歐陽瑜<hi>汝重泰和</hi>
+<pb n="KR2g0049_WYG_015-12a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　　右王氏門人<lb/>
+劉宗周<hi>起東念臺山陰忠正</hi>
+　　劉氏學派<lb/>
+<pb n="KR2g0049_WYG_015-12b"/>
+吳麟徵<hi>采玉磊齊海鹽忠節</hi>
+葉廷秀<hi>潤山濮州</hi>
+王毓蓍<hi>𤣥趾會稽</hi>
+祝淵<hi>開美海寜</hi>
+祁彪佳<hi>世培山陰</hi>
+何𢎞仁<hi>仲淵山陰</hi>
+傅日炯<hi>中黃諸暨</hi>
+劉汋<hi>伯繩宗周子</hi>
+<pb n="KR2g0049_WYG_015-13a"/>
+陳確<hi>乾初海寜</hi>
+章正震<hi>格庵會稽</hi>
+金鉉<hi>伯玉大興</hi>
+惲日初<hi>仲升武進</hi>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2g0049_WYG_015-13b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　儒林宗派卷十五<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

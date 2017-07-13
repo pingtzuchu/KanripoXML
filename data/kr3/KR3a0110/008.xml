@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3a0110_WYG_008-1a"/>
+欽定四庫全書<lb/>
+御覽經史講義卷二目録<lb/>
+　　　周易<lb/>
+　　乾元用九乃見天則<lb/>
+　　　　　　　　　　　　　檢討<hi>臣</hi>何徳新<lb/>
+　　乾始能以美利利天下不言所利大矣哉<lb/>
+　　　　　　　　　　　　　編修<hi>臣</hi>趙青藜<lb/>
+　　　　　　　　　　　監察御史<hi>臣</hi>黄元鐸<lb/>
+<pb n="KR3a0110_WYG_008-1b"/>
+　　大哉乾乎剛健中正純粹精也<lb/>
+　　　　　　　　　　　監察御史<hi>臣</hi>周祖榮<lb/>
+　　時乗六龍以御天也雲行雨施天下平也<lb/>
+　　　　　　　　　　　　　編修<hi>臣</hi>李清芳<lb/>
+　　雲行雨施天下平也<lb/>
+　　　　　　　　　　　　　編修<hi>臣</hi>何其睿<lb/>
+　　　　　　　　　　　監察御史<hi>臣</hi>趙青藜<lb/>
+　　君子學以聚之問以辨之寛以居之仁以行之<lb/>
+<pb n="KR3a0110_WYG_008-2a"/>
+　　　　　　　　　　　監察御史<hi>臣</hi>毛旭旦<lb/>
+　　直其正也方其義也君子敬以直内義以方外敬<lb/>
+　　　義立而徳不孤直方大不習无不利則不疑其<lb/>
+　　　所行也<lb/>
+　　　　　　　　　　　　少詹事<hi>臣</hi>張鵬翀<lb/>
+　　　　　　　　　　　　　編修<hi>臣</hi>吳履泰<lb/>
+　　君子敬以直内義以方外敬義立而徳不孤<lb/>
+　　　　　　　　　　　　給事中<hi>臣</hi>倪國璉<lb/>
+<pb n="KR3a0110_WYG_008-2b"/>
+　　君子敬以直内義以方外<lb/>
+　　　　　　　　　　　　　編修<hi>臣</hi>張若需<lb/>
+　　　　　　　　　　　　給事中<hi>臣</hi>周祖榮<lb/>
+　　　　　　　　　　　監察御史<hi>臣</hi>李清芳<lb/>
+　　　　　　　　　　　監察御史<hi>臣</hi>周　禮<lb/>
+　　象曰地中有水師君子以容民畜衆<lb/>
+　　　　　　　　　　　監察御史<hi>臣</hi>李敏第<lb/>
+　　九五顯比王用三驅失前禽邑人不誡吉<lb/>
+<pb n="KR3a0110_WYG_008-3a"/>
+　　　　　　　　　　　侍講學士<hi>臣</hi>鶴　年<lb/>
+　　上天下澤履君子以辨上下定民志<lb/>
+　　　　　　　　　　　　右庶子<hi>臣</hi>林蒲封<lb/>
+　　　　　　　　　　　　右中允<hi>臣</hi>錢維城<lb/>
+　　　　　　　　　　　　　洗馬<hi>臣</hi>國　柱<lb/>
+　　　　　　　　　　　　　侍讀<hi>臣</hi>齊召南<lb/>
+　　　　　　　　　　　　　編修<hi>臣</hi>竇光鼐<lb/>
+　　　　　　　　　　　　　編修<hi>臣</hi>莊有信<lb/>
+<pb n="KR3a0110_WYG_008-3b"/>
+　　　　　　　　　　　監察御史<hi>臣</hi>趙青藜<lb/>
+　　君子以辨上下定民志<lb/>
+　　　　　　　　　　　　　編修<hi>臣</hi>周玉章<lb/>
+　　　　　　　　　　　　　編修<hi>臣</hi>王際華<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

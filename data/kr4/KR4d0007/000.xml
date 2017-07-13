@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>法藏碎金錄</head>
+    <p>
+<pb n="KR4d0007_WYG_000-1a"/>
+欽定四庫全書　　　　　子部十三<lb/>
+　法藏碎金錄　　　　　　　釋家𩔖<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案法藏碎金錄十卷宋晁迥撰迥字<lb/>
+　　　　明逺澶州清豐人其父始徙家彭門太平興<lb/>
+　　　　國五年登進士第至道末擢右正言直史館<lb/>
+　　　　知制誥旋為翰林學士加承㫖天禧中判西<lb/>
+　　　　京留司御史臺以太子少保致仕卒諡文元<lb/>
+<pb n="KR4d0007_WYG_000-1b"/>
+　　　　迥受學於王禹偁以文章典贍擅名而性躭<lb/>
+　　　　禪悦喜究心内典是編乃天聖五年退居昭<lb/>
+　　　　徳里所作皆融會禪理隨筆記載蓋亦宗門<lb/>
+　　　　語錄之𩔖其曰碎金取世説新語謝安碎金<lb/>
+　　　　義也孫覿謂其宗向佛乘以莊老儒書彚而<lb/>
+　　　　為一蓋嘉祐治平以前濂洛之説未盛儒者<lb/>
+　　　　沿唐代餘風大抵歸心釋教以范仲淹之賢<lb/>
+　　　　而手製疏文請道古開壇説法其他可知迥<lb/>
+<pb n="KR4d0007_WYG_000-2a"/>
+　　　　作是書蓋不足異南宋初年迥五世孫公武<lb/>
+　　　　作郡齋讀書志乃附載迥道院集後列之别<lb/>
+　　　　集門中殊為不𩔖殆二程以後諸儒之辯漸<lb/>
+　　　　明公武既不敢削其祖宗之書不著于錄又<lb/>
+　　　　不肯列之釋氏貽論者口實進退維谷故姑<lb/>
+　　　　以附載囘䕶觀其條下所列僅叙迥仕履始<lb/>
+　　　　末行誼文章而無一字及本書其微意盖可<lb/>
+　　　　見矣然自阮孝緒七錄以後釋氏之書久已<lb/>
+<pb n="KR4d0007_WYG_000-2b"/>
+　　　　自為一𩔖歴朝史志著錄並同不必曲為推<lb/>
+　　　　崇亦不必巧為𨼆諱今從陳振孫書錄解題<lb/>
+　　　　入之釋氏𩔖中存其實也其書傳本頗稀明<lb/>
+　　　　嘉靖乙巳迥裔孫翰林院檢討瑮始從内閣<lb/>
+　　　　錄出鋟板以行改其名曰迦談殊為無謂今<lb/>
+　　　　亦仍迥原名以著于錄焉乾隆四十二年五<lb/>
+　　　　月恭校上<lb/>
+　　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+<pb n="KR4d0007_WYG_000-3a"/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+<pb n="KR4d0007_WYG_000-4a"/>
+法藏碎金録原序<lb/>
+予爰自弱齡逮兹暮齒探古聖之域闚衆妙之門渉獵<lb/>
+儒道諸經必也考求微㫖修身慎行著為葴規又於貝<lb/>
+典詳觀了義法喜融液映奪居多倦聞世諦不争戯論<lb/>
+洞見至理新新無窮然知撫心馴柔道所由致而且揮<lb/>
+翰祖述志未能忘暨挂冠之後棲息乎浚都昭徳坊之<lb/>
+舊居别葺静齋翛然獨處素所樂欲習以成性手不釋<lb/>
+卷筆不停綴貫微臻極深入骨髄消憂釋結大沃襟靈<lb/>
+<pb n="KR4d0007_WYG_000-4b"/>
+雖患思縈亦慶緣熟斐然章句聮翩衍溢開陳有補弗<lb/>
+忍遐棄衆製詞律存乎别集每分𩔖例頗煩命篇自今<lb/>
+聴覽機會或該演勸屬文導意靡拘詳畧片言鱗次混<lb/>
+而編之數無預定興盡當止奉法寳而推美非小智之<lb/>
+自矜故名之曰法蔵碎金録内有意渉重出積習之故<lb/>
+前軰亦爾不復刪簡若其束於教者或以迦談見誚亦<lb/>
+無憚焉不能以外妨内也時天聖五年丁卯嵗季秋望<lb/>
+日序云爾天聖九年仲冬月稍量字數分為十卷晁逈<lb/>
+<pb n="KR4d0007_WYG_000-5a"/>
+撰<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

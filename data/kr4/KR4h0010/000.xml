@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0010_SBCK_000-1a"/>
+國秀集序<lb/>
+昔陸平原之論文曰詩縁情而綺靡是彩色相<lb/>
+宣烟霞交映風流婉麗之謂也仲尼定禮樂正<lb/>
+雅頌采古詩三千餘什得三百五篇皆舞而蹈<lb/>
+之弦而歌之亦取其順澤者也近秘書監陳公<lb/>
+國子司業蘇公嘗從容謂芮候曰風雅之後數<lb/>
+千載間詞人才子禮樂大壞諷者溺於所譽志<lb/>
+者乖其所之務以聲折爲宏壯勢奔爲清逸此<lb/>
+蒿視者之目聒聽者之耳可爲長太息也運屬<lb/>
+皇家否終復泰優游闕里唯聞子夏之言惆悵<lb/>
+<pb n="KR4h0010_SBCK_000-1b"/>
+河梁獨見少卿之作及源流浸廣風雲極致雖<lb/>
+發詞遣句未協風騷而披林擷秀掲厲良多自<lb/>
+開元以來維天寳三載譴謫蕪穢登納菁英可<lb/>
+𬒳管絃者都爲一集芮候即探書禹穴求珠赤<lb/>
+水取太冲之清詞無嫌近溷得興公之佳句寧<lb/>
+止擲金道茍可得不棄於厮養事非適理何貴<lb/>
+於膏粱其有巖壑孤貞市朝大隱神珠匿耀剖<lb/>
+巨蚌而寜周寳劍韜精望斗牛而未獲目之縑<lb/>
+素有愧遺才尚欲廵采風謠㫄求側陋而陳公<lb/>
+巳化爲異物堆案颯然無與樂成遂因絶筆今<lb/>
+<pb n="KR4h0010_SBCK_000-2a"/>
+<pb n="KR4h0010_SBCK_000-3a"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

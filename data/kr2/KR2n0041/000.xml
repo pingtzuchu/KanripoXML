@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>嵩陽石刻集記</head>
+    <p>
+<pb n="KR2n0041_WYG_000-1a"/>
+欽定四庫全書　　　　　史部十四<lb/>
+　嵩陽石刻集記　　　　　目錄類二<hi>金石之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案嵩陽石刻集記二卷<lb/>
+　　　國朝葉封撰封字井叔黄州人順治己亥進士<lb/>
+　　　　官至工部虞衡司主事是編乃康熙癸丑封<lb/>
+　　　　官登封知縣時作也登封地在嵩山南故其<lb/>
+　　　　所録碑刻以嵩陽為名考此書初出之時顧<lb/>
+<pb n="KR2n0041_WYG_000-1b"/>
+　　　　炎武潘耒皆嘗議之炎武之言曰開母廟石<lb/>
+　　　　闕銘重曰二字出楚辭逺遊篇所謂言之不<lb/>
+　　　　足而長言之也井叔誤以為重日而言是年<lb/>
+　　　　月一行按此一行今存六字二年之下重曰<lb/>
+　　　　之上空石未鐫益明其非紀日矣耒之言曰<lb/>
+　　　　太安二年後魏中嶽廟碑今在登封縣天寳<lb/>
+　　　　十四載少林寺還天王師子記今在少林寺<lb/>
+　　　　井叔石刻集記不知何以遺之此其説誠然<lb/>
+<pb n="KR2n0041_WYG_000-2a"/>
+　　　　然炎武金石文字記采此記者不一而足而<lb/>
+　　　　景日昣説嵩金石類亦全用此記古今金石<lb/>
+　　　　之書其備載全文者在宋惟洪适之隸釋隸<lb/>
+　　　　續在明惟都穆之金薤琳瑯餘不過題跋而<lb/>
+　　　　已此書録取碑文便於㕘考漢嵩山太室神<lb/>
+　　　　闕銘開母廟石闕銘少室神道石闕銘以及<lb/>
+　　　　唐之則天封祀壇碑夏日逰石淙詩歐陽趙<lb/>
+　　　　洪皆失載而此記能收之洪書但載漢魏歐<lb/>
+<pb n="KR2n0041_WYG_000-2b"/>
+　　　　趙二録僅迄五代此書載及宋金元明東魏<lb/>
+　　　　嵩陽寺碑文東譌柬矩譌短馴譌巡苑譌菀<lb/>
+　　　　洋譌庠此書能是正之王士禎蠶尾集有封<lb/>
+　　　　墓誌稱其精爾雅説文訓故工於篆隸又稱<lb/>
+　　　　其手輯嵩志二十一卷復旁搜漢唐以來碑<lb/>
+　　　　版文字别為石刻集記二卷辨證精博人比<lb/>
+　　　　之劉原父薛尚功則當時亦重其書矣乾隆<lb/>
+　　　　四十六年三月恭校上<lb/>
+<pb n="KR2n0041_WYG_000-3a"/>
+　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

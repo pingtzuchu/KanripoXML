@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>詩紀匡謬</head>
+    <p>
+<pb n="KR4h0108_WYG_000-1a"/>
+欽定四庫全書　　　　　集部八<lb/>
+　詩紀匡謬　　　　　　　總集類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案詩紀匡謬一巻<lb/>
+　　　國朝馮舒撰舒字已蒼號黙庵常熟人舒因李<lb/>
+　　　　攀龍詩刪鍾惺譚元春詩歸所載古詩輾轉<lb/>
+　　　　沿訛而其源總出于馮惟訥之古詩紀因作<lb/>
+　　　　是書以糾之凡一百一十二條其中如於忽<lb/>
+<pb n="KR4h0108_WYG_000-1b"/>
+　　　　操三章為宋王令詩兩頭纖纖青玉玦一章<lb/>
+　　　　為王建詩休洗紅為楊慎詩一一辨之而楊<lb/>
+　　　　慎石鼓文偽本全載巻中置不一詰何也又<lb/>
+　　　　蘇伯玉妻盤中詩詩紀作漢人固謬宋本玉<lb/>
+　　　　臺新詠列于傅休奕詩後不別出伯玉妻名<lb/>
+　　　　乃嘉定間陳玉父刻本偶佚其名觀滄浪詩<lb/>
+　　　　話稱蘇伯玉妻有此體見玉臺集則嚴羽所<lb/>
+　　　　見之本實題伯玉妻舒執宋刻駁惟訥惟訥<lb/>
+<pb n="KR4h0108_WYG_000-2a"/>
+　　　　無辭如執宋刻以駁羽則羽為宋人凡所見<lb/>
+　　　　無非宋刻乃於數百年後執一宋刻以傲之<lb/>
+　　　　恐羽轉咥然笑矣然舒所抉摘多中其失攷<lb/>
+　　　　證之精實出惟訥之上原原本本証佐確然<lb/>
+　　　　固於讀古詩者大有所禆不得議為吹求也<lb/>
+　　　　古詩全本明代凡有四家梅禹金之詩乗惟<lb/>
+　　　　漢魏全録而六朝則刪節不完張之象之古<lb/>
+　　　　詩類苑近于𨽻事之書但供剽掇不足見作<lb/>
+<pb n="KR4h0108_WYG_000-2b"/>
+　　　　者源流臧懋循之古詩所分體猥襍補綴冗<lb/>
+　　　　脞義例尤不足觀惟惟訥書自古逸以至隋<lb/>
+　　　　末沿革正變始末秩然號為善本而不免小<lb/>
+　　　　有疎漏得舒是書糾之俾讀者棄其瑕疵而<lb/>
+　　　　挹其英華相輔而行雖謂之羽翼詩紀可矣<lb/>
+　　　　乾隆四十三年七月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

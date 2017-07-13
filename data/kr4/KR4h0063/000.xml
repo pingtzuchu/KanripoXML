@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>三國志文類</head>
+    <p>
+<pb n="KR4h0063_WYG_000-1a"/>
+欽定四庫全書　　　　　集部八<lb/>
+　三國志文類　　　　　　總集類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案三國志文類六十巻不著撰人名<lb/>
+　　　　氏今流傳有宋刋本宋史藝文志載此書注<lb/>
+　　　　云集者不知名則當時已無可考也案栁宗<lb/>
+　　　　元河東集有栁宗直西漢文類序其文皆採<lb/>
+　　　　之漢書是編惟採三國志之文盖沿其例凡<lb/>
+<pb n="KR4h0063_WYG_000-1b"/>
+　　　　分二十三門曰詔書曰教令曰表奏曰書疏<lb/>
+　　　　曰諫諍曰戒責曰薦稱曰勸說曰對問曰議<lb/>
+　　　　曰論曰書曰牋曰評曰檄曰盟曰序曰祝文<lb/>
+　　　　曰祭文曰誄曰詩賦曰雜文曰傳所採上涉<lb/>
+　　　　漢末而下及晉初則以魏志載曹操事皆在<lb/>
+　　　　建安中而裴松之註所采多晉人書也惟其<lb/>
+　　　　中勸説對問二門皆當時口語本非詞翰取<lb/>
+　　　　盈巻帙於義未安又陳夀所評亦猶馬班之<lb/>
+<pb n="KR4h0063_WYG_000-2a"/>
+　　　　贊摘出别立篇名亦乖體例以其宋人舊本<lb/>
+　　　　姑存之以備考証焉乾隆四十四年正月<lb/>
+　　　　恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

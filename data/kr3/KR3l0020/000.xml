@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>開元天寳遺事</head>
+    <p>
+<pb n="KR3l0020_WYG_000-1a"/>
+欽定四庫全書　　　　　子部十二<lb/>
+　開元天寳遺事　　　　　小説家𩔖一<hi>雜事之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案開元天寳遺事四巻五代王仁裕<lb/>
+　　　　撰仁裕字徳輦天水人唐末為秦州節度判<lb/>
+　　　　官後仕蜀為翰林學士唐荘宗平蜀復為秦<lb/>
+　　　　州節度判官廢帝時以都官郎中充翰林學<lb/>
+　　　　士晉髙祖時為諫議大夫漢髙祖時復為翰<lb/>
+<pb n="KR3l0020_WYG_000-1b"/>
+　　　　林學士承㫖遷户部尚書罷為兵部尚書太<lb/>
+　　　　子少保周顯德三年卒事迹具五代史襍傳<lb/>
+　　　　晁公武讀書志曰蜀亡仁裕至鎬京採摭民<lb/>
+　　　　言得開元天寳遺事一百五十九條分為四<lb/>
+　　　　巻洪邁容齋隨筆則以為托名仁裕摘其中<lb/>
+　　　　舛謬者四事一為姚崇在武后時已為宰相<lb/>
+　　　　而云開元初作翰林學士一為郭元振貶死<lb/>
+　　　　後十年張嘉貞乃為宰相而云元振少時宰<lb/>
+<pb n="KR3l0020_WYG_000-2a"/>
+　　　　相張嘉貞納為壻一為張九齡去位十年楊<lb/>
+　　　　國忠始得官而云九齡不肯及其門一為蘇<lb/>
+　　　　頲為宰相時張九齡尚未逹而云九齡覧其<lb/>
+　　　　文巻稱為文陣雄師所駁詰皆為確當然蘇<lb/>
+　　　　軾集中有讀開元天寳遺事四絶句司馬光<lb/>
+　　　　作通鑑亦採其中張彖指楊國忠為氷山語<lb/>
+　　　　則其書實在二人以前非雲仙㪚録龍城録<lb/>
+　　　　之流晩出於南宋者可比葢委巷相傳語多<lb/>
+<pb n="KR3l0020_WYG_000-2b"/>
+　　　　失實仁裕採摭於遺民之口不能證以國史<lb/>
+　　　　是即其失必以為依託其名則事無顯證劉<lb/>
+　　　　義慶世説新語劉孝標註往往摘其牴牾要<lb/>
+　　　　不以是謂不出義慶手也故今仍從舊本題<lb/>
+　　　　為仁裕撰焉乾隆四十六年十月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

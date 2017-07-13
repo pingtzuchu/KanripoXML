@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>十先生奥論註</head>
+    <p>
+<pb n="KR4h0066_WYG_000-1a"/>
+欽定四庫全書　　　　　集部八<lb/>
+　十先生奥論註　　　　　總集類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案十先生奥論註四十巻不著編輯者<lb/>
+　　　　名氏亦無刋書年月驗其板式乃宋時建陽<lb/>
+　　　　麻沙坊本也書中集程子張耒楊時朱子張<lb/>
+　　　　栻吕祖謙楊萬里胡寅方恬陳傅良葉適劉<lb/>
+　　　　穆元戴溪張震陳武鄭湜諸人所作之論分<lb/>
+<pb n="KR4h0066_WYG_000-1b"/>
+　　　　類編之加以注釋據其原目凡前集後集續<lb/>
+　　　　集各十五巻此本續集脱去前五巻僅存十<lb/>
+　　　　巻而前集第七巻以上亦屬後人抄補其原<lb/>
+　　　　註并佚去不存所亡之巻己無篇目可考不<lb/>
+　　　　知作者凡㡬即此四十巻中核其作者已十<lb/>
+　　　　六人但題曰十先生中間宋史有傳者凡十<lb/>
+　　　　一人其餘若張震字東父益寧人孝宗時中<lb/>
+　　　　書舍人龍大淵曽覿除知閤門事嘗繳回詞<lb/>
+<pb n="KR4h0066_WYG_000-2a"/>
+　　　　頭事見胡沂傳鄭湜有二其一字溥之福州<lb/>
+　　　　人光宗時為従臣奏立太子監國見留正傳<lb/>
+　　　　其一則紹熙元年為従政郎進治術十巻見<lb/>
+　　　　書録解題此所載之鄭湜其進治術者歟方<lb/>
+　　　　恬劉穆元陳武三人則史傳俱無可考見矣<lb/>
+　　　　宋人文集名著史冊者今已十佚其八九而<lb/>
+　　　　名姓無聞篇章湮滅如集中方恬諸人者更<lb/>
+　　　　指不勝屈此書雖不出於科舉之學而殘編<lb/>
+<pb n="KR4h0066_WYG_000-2b"/>
+　　　　㫁簡得存於遺佚之餘議論往往可觀詞采<lb/>
+　　　　亦一一可取固網羅放失者所不廢也乾隆<lb/>
+　　　　四十六年九月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

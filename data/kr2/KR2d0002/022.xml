@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>東觀漢記卷二十二</head> <lb/>
+    <p>
+<pb n="KR2d0002_WYG_022-1a"/>
+欽定四庫全書<lb/>
+　東觀漢記卷二十二<lb/>
+　　列傳十七<hi>列女</hi>　<hi>外裔</hi>
+　　鮑宣妻<lb/>
+鮑宣之妻桓氏女也字少君宣嘗就少君父學父竒其<lb/>
+清苦以女妻之装送甚盛宣不悦謂妻曰少君生而驕<lb/>
+富習羙餙而吾貧賤不敢當禮妻曰大人以先生修德<lb/>
+守約故使賤妾侍執巾櫛既奉君子惟命是從妻乃悉<lb/>
+<pb n="KR2d0002_WYG_022-1b"/>
+歸侍御服餙更著短布裳與宣共挽鹿車歸鄉里拜姑<lb/>
+禮畢提甕出汲修行婦道鄉邦稱之<hi>案鮑宣已見班書此篇以補其闕范</hi>
+<hi>書列女傳襲之</hi>
+　　江伯姊<lb/>
+山陽郡人江伯欲嫁姊姊引鎌欲自割<lb/>
+　　匈奴南單于<lb/>
+單于北匈奴頭曼十八代孫十二月癸丑匈奴始分為<lb/>
+南北單于<hi>案范書本傳此為建武二十四年事</hi>單于歳祭三龍祠走馬鬬<lb/>
+<pb n="KR2d0002_WYG_022-2a"/>
+橐駝以為樂事建武二十六年南單于遣使獻駱駝二<lb/>
+頭文馬二匹南單于來朝賜御食及橙橘龍眼荔枝<hi>案范</hi>
+<hi>書光武紀及本傳並未有單于來朝事此文疑誤</hi>南單于上書獻槖駝賜谷蠡<lb/>
+王玉具劍羽蓋車一駟中郎將持節衞䕶焉<hi>案范書和帝紀此賜</hi>
+<hi>北單于之谷蠡王於除鞬也</hi>上遣單于饗賜作樂百戯上幸離宫臨<lb/>
+觀<hi>案范書順帝紀此漢安二年夏六月事</hi>
+　　莋都夷<lb/>
+遠夷樂德歌詩曰提官傀搆<hi>大漢是治</hi>魏冒踰糟<hi>與天意合</hi>罔驛<lb/>
+<pb n="KR2d0002_WYG_022-2b"/>
+劉脾<hi>吏譯平端</hi>旁莫支留<hi>不從/我未</hi>徴衣隨旅<hi>聞風/向化</hi>知唐桑艾<hi>所見</hi>
+<hi>竒異</hi>邪毗<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>䋠<hi>多賜/繪布</hi>推潭僕遠<hi>甘羙/酒食</hi>拓拒蘇便<hi>昌樂肉飛</hi>局後<lb/>
+仍離<hi>屈申悉備</hi>僂讓龍洞<hi>蠻夷/貧薄</hi>莫支度由<hi>無所/報嗣</hi>陽雒僧麟<hi>願主</hi>
+<hi>長夀</hi>莫穉角存<hi>子孫/昌熾</hi>遠夷慕德歌詩曰僂讓皮尼<hi>蠻夷所處</hi>且<lb/>
+交陵悟<hi>日入之部</hi>繩動隨旅<hi>慕義/向化</hi>路且揀雒<hi>歸日出主</hi>聖德渡諾<lb/>
+<hi>聖德深㤙</hi>魏菌度洗<hi>與人/富厚</hi>綜邪流藩<hi>冬多/霜雪</hi>莋邪尋螺<hi>夏多和雨</hi>藐<lb/>
+潯瀘灕<hi>寒温時適</hi>菌補邪推<hi>部人/多有</hi>辟危歸險<hi>渉危歴險</hi>莫受萬桞<lb/>
+<hi>不遠萬里</hi>術疊附徳<hi>去俗/歸徳</hi>仍路孶摸<hi>心歸慈母</hi>遠夷懐德歌詩曰<lb/>
+<pb n="KR2d0002_WYG_022-3a"/>
+荒服之儀<hi>芃服之外</hi>犂籍憐憐<hi>土地/墝埇</hi>阻蘇邪犂<hi>食肉衣皮</hi>莫碭麤<lb/>
+沭<hi>不見鹽穀</hi>罔譯傳㣲<hi>吏譯/傳風</hi>是漢夜拒<hi>大漢/安樂</hi>蹤優佫仁<hi>攜負歸仁</hi>
+雷折險龍<hi>觸肯險狹</hi>倫狼藏幢<hi>髙山/岐峻</hi>扶路側禄<hi>緑崖磻石</hi>息落服<lb/>
+滛<hi>木薄發家</hi>理瀝髭雒<hi>百宿/到雒</hi>捕<graphic n="KR0581" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0581.png" mimeType="image/png"/>菌毗<hi>父子/同賜</hi>懐稾匹漏<hi>懐抱匹帛</hi>
+傳言呼敕<hi>傳告種人</hi>陵陽臣僕<hi>長願臣僕○案范書本傳永平中益州刺史朱輔宣示漢</hi>
+<hi>徳白狼槃木唐菆等百餘國慕化歸義作詩三章輔令犍為郡椽田恭訊其風俗譯其辭語遣從事史李陵與</hi>
+<hi>黎䕶送詣闕并上其樂詩此文提官傀搆以下竝夷人本語注大漢是治云云則田恭所譯華言載之范書者</hi>
+<hi>也</hi>
+<pb n="KR2d0002_WYG_022-3b"/>
+　　西羌<lb/>
+西羌祖爰劔為秦所奴𨽻而亡藏巖穴中見焚有影象<lb/>
+如虎為蔽火得不死諸羌以為神推以為豪䕶羌竇林<lb/>
+奉使羌顚岸降詣林林欲以為功效奏言大豪後顚岸<lb/>
+兄顚吾復詣林林言其第一豪問事狀林對前後兩屈<lb/>
+林以誣罔詣獄上不忍誅免官後涼州刺史奏林贓罪<lb/>
+復收繫羽林監遂死獄中<hi>案顚岸顚吾范書本傳作滇岸滇吾</hi>羌什長鞏<lb/>
+便<hi>案此上下文闕</hi>金城隴西卑湳勒姐種羌反出塞外<lb/>
+<pb n="KR2d0002_WYG_022-4a"/>
+　　西域<lb/>
+永元二年安息王獻條支大雀此雀卵大如甕<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2d0002_WYG_022-4b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　東觀漢記卷二十二<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>本草綱目卷二十三目録</head> <lb/>
+    <p>
+<pb n="KR3e0079_WYG_060-1a"/>
+欽定四庫全書<lb/>
+　本草綱目卷二十三目録<lb/>
+　　穀之二　　　稷粟類十八種<lb/>
+　　　稷<hi>别録</hi>
+　　　黍<hi>别録</hi>
+　　　蜀黍<hi>食物</hi>
+　　　玉蜀黍<hi>綱目</hi>
+　　　粱<hi>别録</hi>
+<pb n="KR3e0079_WYG_060-1b"/>
+　　　粟<hi>别録</hi>
+　　　秫<hi>别録</hi>
+　　　穇子<hi>救荒</hi>
+　　　稗<hi>綱目</hi>
+　　　狼尾草<hi>拾遺</hi>
+　　　東廧<hi>拾遺</hi>
+　　　菰米<hi>綱目</hi>
+　　　蓬草子<hi>拾遺</hi>
+<pb n="KR3e0079_WYG_060-2a"/>
+　　　芮草子<hi>拾遺</hi>
+　　　蒒草子<hi>海藥</hi>
+　　　薏苡<hi>本經</hi>
+　　　罌子粟<hi>開寶米即御</hi>
+　　　阿芙蓉<hi>綱目</hi>
+　　　　右附方舊二十七新五十三<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3e0079_WYG_060-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　本草綱目卷二十三目録<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

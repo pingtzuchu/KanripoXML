@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2f0008_WYG_160-1a"/>
+　　乾隆六年三月二十四日奉<lb/>
+㫖開列編次校刋諸臣名銜<lb/>
+　　和　　　碩　　　和　　親　　　王<hi>臣</hi>𢎞　晝<lb/>
+　　太　保　保和　殿大學　士三　等伯<hi>臣</hi>鄂爾泰<lb/>
+　　太保兼太子太保保和殿大學士三等伯<hi>臣</hi>張廷玉<lb/>
+　　太　　保　武　英　殿　大　學　士<hi>臣</hi>福　敏<lb/>
+　　太　子　太　保　東　閣　大學　士<hi>臣</hi>徐　本<lb/>
+　　協　辦　大　學士　事禮　部尚　書<hi>臣</hi>三　泰<lb/>
+<pb n="KR2f0008_WYG_160-1b"/>
+　　禮　　部　尚　書　革　職　留　任<hi>臣</hi>任蘭枝<lb/>
+　　太　　子　少　　保　尚　書　　銜<hi>臣</hi>徐元夢<lb/>
+　　都　　察　院　　左　都　御　　史<hi>臣</hi>杭奕禄<lb/>
+　　禮　　　部　　　右　　侍　　　郎<hi>臣</hi>吳家騏<lb/>
+　　工　　　部　　　左　　侍　　　郎<hi>臣</hi>張廷瑑<lb/>
+　　刑　　　部　　　左　　侍　　　郎<hi>臣</hi>張　照<lb/>
+　　工　　　部　　　右　　侍　　　郎<hi>臣</hi>許希孔<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

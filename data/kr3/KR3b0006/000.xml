@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>尉繚子</head>
+    <p>
+<pb n="KR3b0006_WYG_000-1a"/>
+欽定四庫全書　　　　　子部二<lb/>
+　尉繚子　　　　　　　　兵家類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案尉繚子五卷周尉繚撰其人當六<lb/>
+　　　　國時不知其本末或曰魏人以天官篇有梁<lb/>
+　　　　惠王問知之或又曰齊人鬼谷子之弟子劉<lb/>
+　　　　向别錄又云繚為南君學未詳孰是也漢志<lb/>
+　　　　雜家有尉繚三十九篇隋志作五卷唐志作<lb/>
+<pb n="KR3b0006_WYG_000-1b"/>
+　　　　六卷亦並入於雜家鄭樵譏其見名而不見<lb/>
+　　　　書馬端臨亦以為然然漢志兵形勢家内實<lb/>
+　　　　别有尉繚三十一篇故胡應麟謂兵家之尉<lb/>
+　　　　繚即今所傳而雜家之尉繚並非此書今雜<lb/>
+　　　　家亡而兵家獨傳鄭以為孟堅之誤者非也<lb/>
+　　　　特今書止二十四篇與所謂三十一篇者數<lb/>
+　　　　不相合則後來已有所亡佚耳其書大㫖主<lb/>
+　　　　於分本末别賓主明賞罰所言往往有合於<lb/>
+<pb n="KR3b0006_WYG_000-2a"/>
+　　　　正如云兵不攻無過之城不殺無罪之人又<lb/>
+　　　　云兵者所以誅暴亂禁不義也兵之所加者<lb/>
+　　　　農不離其田業賈不離其肆宅士大夫不離<lb/>
+　　　　其官府故兵不血刃而天下親皆戰國談兵<lb/>
+　　　　者所不道而兵令一篇於誅逃之法尢詳亦<lb/>
+　　　　可想見其節制周氏涉筆謂雖未純王政亦<lb/>
+　　　　庶幾能窺見本統者自孫武吳起而下未有<lb/>
+　　　　能通之者也其書坊行本無卷數今依隋志<lb/>
+<pb n="KR3b0006_WYG_000-2b"/>
+　　　　之目分為五卷畧存其舊焉乾隆四十五年<lb/>
+　　　　四月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

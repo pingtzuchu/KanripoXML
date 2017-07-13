@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>元史巻一百九</head> <lb/>
+    <p>
+<pb n="KR2a0036_WYG_109-1a"/>
+欽定四庫全書<lb/>
+　元史巻一百九<lb/>
+　　明翰林學士亞中大夫知制誥兼修國史宋濂等修<lb/>
+　表第四<lb/>
+　　諸公主表<lb/>
+昔者史臣有言婦人内夫家雖天姬之貴史氏猶外而<lb/>
+弗詳然元室之制非勲臣世族及封國之君則莫得尚<lb/>
+主是以世聨戚畹者親視諸王其藩翰屏垣之寄葢亦<lb/>
+<pb n="KR2a0036_WYG_109-1b"/>
+重矣則其世次顧可以弗之著耶且秦漢以來惟帝姬<lb/>
+得號公主而元則諸王之女亦槩稱焉是又不可不知<lb/>
+也惜乎記載弗備所可見者僅此而已作諸公主表<lb/>
+<pb n="KR2a0036_WYG_109-2a"/>
+</p>
+<p>
+<pb n="KR2a0036_WYG_109-3a"/>
+</p>
+<p>
+<pb n="KR2a0036_WYG_109-4a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2a0036_WYG_109-4b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　元史巻一百九<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

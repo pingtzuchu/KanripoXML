@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2a0029_WYG_205-1a"/>
+　舊五代史巻一百二考證<lb/>
+漢隱帝紀中安州節度使楊信　案楊信本名承信在<lb/>
+　隱帝時避御名去承字是書仍當時實錄之舊<lb/>
+丁已永興都部署郭從義奏新除華州留後趙思綰與<lb/>
+　一行徒黨竝處置訖　案歐陽史作郭威殺華州留<lb/>
+　後趙思綰于京兆蓋威命從義圖之耳<lb/>
+甲子樞宻使郭威奏收復河中府逆賊李守貞自燔而<lb/>
+　死　案通鑑壬戌李守貞自焚死歐陽史作甲子克<lb/>
+<pb n="KR2a0029_WYG_205-1b"/>
+　河中祗以奏聞之日為㩀也五代春秋繫於六月殊誤<lb/>
+　亥宰臣竇貞固加守司徒　案宋史竇貞固傳作隱<lb/>
+　帝即位加司徒考貞固加司徒在乾祐二年宋中作<lb/>
+　即位所加盖未詳考<lb/>
+以利州節度使宋延渥為滑州節度使　案延渥為利<lb/>
+　州節度使於前未見王禹偁宋公神道碑云少帝嗣<lb/>
+　統授檢校太尉使持節利州諸軍事行利州刺史盖<lb/>
+　延渥扵元年出鎮利州二年復改鎮也是書未及詳<lb/>
+<pb n="KR2a0029_WYG_205-2a"/>
+　載<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2a0029_WYG_205-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　舊五代史巻一百二考證<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

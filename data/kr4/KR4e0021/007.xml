@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4e0021_SBCK_007-1a"/>
+　重刻宻菴先生稿䟦<lb/>
+　　歲乙丑余徃蒞武進事伯氏侍御公狷齋手是編曰此吾<lb/>
+　宻菴祖集也歲久殘闕家藏者鮮閒索諸親友故家得數<lb/>
+　本參互補輯庶幾乎完帙矣呉中多良梓人汝其擕以就<lb/>
+　梓焉余敬受命武邑在三呉號稱繁劇又附郭而衝拒役<lb/>
+　　三年畫夜兢兢殫厥心力凛然鰥曠之虞唯是前命耿耿<lb/>
+　　於懷而未之逮也戊辰夏濫轉工曹適中當道議待罪錫<lb/>
+　　山館於陳君貞父課試諸子毎暇捧是編而誦且惟焉武<lb/>
+　故延陵季子之鄉流風未泯而南方之學得其精華者淵<lb/>
+　　源有自故士習郁郁彬彬敦義而尚禮余待罪荒郊不逺<lb/>
+　　百里來來輙五六軰或十餘軰來無定期期無定人皆余<lb/>
+　視事時不相接跡焉者斯時也義重聚樂身隱神怡即是<lb/>
+<pb n="KR4e0021_SBCK_007-1b"/>
+　編與文士復加考訂謬者正之疑者闕之付之梓人凡一<lb/>
+　閲歲余罪狀得白而書亦告成矣書成而伯氏已蚤世矣<lb/>
+　嗟夫昔宋曽南豐氏悲其先代功行不得收於史氏紀籍<lb/>
+　乃至慨慷自為之序以期表見吾祖是集有<lb/>
+昭代名公評隲於前而傳記諸文太史程公編入<lb/>
+皇明文衡為政規模載在一統人物誌班班可考如此其與<lb/>
+　曽氏之幸不幸又何如也哉顧余小子淺陋寡學何足與<lb/>
+　於斯文謹承伯氏之命為之識其重梓之始末云爾<lb/>
+　隆慶三年秋八月吉旦<lb/>
+賜進士第六世從孫師嚴百拜謹䟦<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

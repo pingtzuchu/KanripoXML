@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+  <div> <head>御製讀易繋辭上𫝊第五章書義</head>
+    <p>
+<pb n="1a"/>
+御製讀易繋辭上𫝊第五章書義<lb/>
+此章與中庸首章相表裏子思或有承乎是章之義乎<lb/>
+盖一隂一陽之謂道繼之者善成之者性即所謂天命<lb/>
+之謂性也仁者見之謂之仁知者見之謂之知即所謂<lb/>
+率性之謂道也百姓日用而不知故君子之道鮮矣即<lb/>
+所謂修道之謂教也至於顯諸仁藏諸用鼓萬物而不<lb/>
+與聖人同憂註疏家皆作一句讀余則以為鼓萬物而<lb/>
+不與應作一句而與應作去聲如舜禹有天下而不與<lb/>
+<pb n="1b"/>
+之與盖所謂不居而已耳不居則不知不知則無為無<lb/>
+為則無心設以上聲讀而貫下文是視天地與聖人有<lb/>
+間然且有心矣夫大易一乾坤乾坤一隂陽隂陽一天<lb/>
+地天地一易簡春生夏長天地之顯諸仁也秋收冬藏<lb/>
+天地之藏諸用也而天地實不居其功此即天地之無<lb/>
+心也若夫聖人輔相左右是有心也有心則不能無為<lb/>
+不能無為則不能不代天地同憂矣咨政之暇與諸皇<lb/>
+子及數儒臣示及此並命各抒其見以論之皆以為不<lb/>
+<pb n="2a"/>
+出所示故不復繁文闡論而直陳其義如此然予亦未<lb/>
+肯遂信以為韙爰簡筆書之以俟後之深於易者<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

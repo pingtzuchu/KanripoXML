@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="1a"/>
+<hi>所傳是前言也公戸切/古文/古/大逺也从古叚叚聲古雅切</hi>文二　重一<lb/>
+十數之具也一爲東西丨爲南北則四方中央備<lb/>
+　　矣凡十之屬皆从十<hi>是執切十尺也从又持十直兩切/十百也从十/从人此先切/響布也从十从䏌臣鉉/等曰䏌振䏌也義乙切/卙卙盛也从十从甚汝南名𧖟盛曰卙子入切/大通也从十从尃/尃布也𥙷各切/材十人也从十/力聲盧則切/二十并也古文省人汁切/詞之/矣从十咠聲秦入切</hi>文九<lb/>
+　　三十并也古文省凡卉之屬皆从卉<hi>蘇沓切三十年爲一丗从卉而曳長之亦取其聲也舒制切</hi>文二<lb/>
+　　直言曰言論難曰語从口䇂聲凡言之屬皆<lb/>
+　从言<hi>語軒切<pb n="1b"/>聲也从言賏聲烏莖切/欬也从言殸聲殸/籀文磬字去挺切/論也从言吾/聲魚舉切/語也从/言炎聲徒甘切/報也从言胃/聲于貴切/信也从言京/聲力讓切/致言也从言从先先亦聲詩曰螽斯羽詵詵兮所臻切謁也从言青/聲七井切/白也从言曷/聲於歇切/聽也从言午/聲虚吕切/譍也从言若聲奴各切/以言對也从言/聲於證切/猶譍也从言/雔聲市流切/辯也从言者/聲章魚切志也从言寺聲書之切/古文/詩省/驗也从言韱/聲楚䕃切/誦也从言風/聲芳奉切/諷也从言甬聲似用切/誦書也从言/賣聲徒谷切/快也从言从/中於力/切/說敎也从言/川聲許運切/䁱教也从言每聲荒内切/專敎也从言/巽聲此縁切/諭也从言辟/聲匹至切/徐語也从言原罄孟子曰故謜謜而來魚怨切/早知也从言/央聲於亮切/告也从言俞/聲羊戍切/辯論也古文从爲頗字从言皮聲彼義切吿曉之孰也从言<graphic n="KR1647" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1647.png" mimeType="image/png"/>/聲讀若庉章倫切/語諄䜄也从言/犀聲直离切/論訟也傳曰諮詻孔子/容从言各聲五陌切和說而諍也从言門聲語巾切/慮難曰謀从言/某聲莫浮切/古文/謀/亦古/文/議謀也从言莫</hi>
+<pb n="2a"/>
+<pb n="3a"/>
+<hi>深諫也从言念聲春秋傳曰辛伯諗周桓公式荏切/試也从言果/聲苦卧切/用也从言式聲虞書曰明試以功式吏切和也从言咸聲周書曰不能諴于小民胡毚切/徒歌从言/肉余招切/具也从言全/聲此縁切/喜也从言斤聲許斤切/說釋也从言兌一曰談/說失爇切又弋雪切/㑹也筭也从言/从十古詣切/詥也从言皆聲戸皆切諧也从言合聲候閤切/和也从言周/聲徒/遼切/合㑹善言也从言<graphic n="KR2140" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2140.png" mimeType="image/png"/>聲/傳曰告之話言胡快切/籀文䛡从㑹/諈諉纍也从言/垂聲竹/寘切/纍也从言委/聲女恚切/戒也从言从敬/敬亦聲居影切/静語也从言聲一曰/無聲也彌必切/敬也从言兼/聲苦兼切/人所宜也从言从宜/宜亦聲儀寄切/大言也从言羽聲況羽切/善言也从言戔聲/一曰謔也慈衍切/嘉善也从言我聲詩/曰誐以溢我五何切/共也一曰譀也从言同聲周書曰在夏后之詷徒紅切/施陳也从言从殳/殳使人也識列切/救視也从言/蒦聲胡故切/譞慧也从言圜省聲許縁切大也一曰人相助也从言甫聲讀若逋博孤切/思之意从言/从思胥里切/寄也从言乇/聲他各切/䟽也从言己聲居吏切/稱也从言與/聲羊茹切/敷也从言番聲商書/曰王譒告之補過切/辤去也从言䠶聲辤夜切<pb n="3b"/>齊歌也从言區聲烏侯切/歌也从言永/聲爲命切/詠或/从口/止也从言爭/聲側迸切/召也从言乎聲荒烏切/評謼也从言/虖聲荒故切/止也从言气/聲居迄切/傳言也从言/彦聲魚變切/相迎也从言牙聲周禮曰諸侯有卿訝發吾駕切/訐或/从辵/候至也从言/旨聲五計切/和解也从言冓聲古項切迻書也从言朕聲徒登切/頓也从言刃聲論語/曰其言也訒而振切/言難也从言/从内内骨切/謯娽也从言虘聲側加切待也从言伿聲讀若䭆胡禮切/痛呼也从言/敫聲古弔切/恚呼也从言/堯聲女交切/小聲也从言/熒省聲詩曰謍謍靑蠅余傾切/大聲也从言昔聲/讀若笮壯革/切/諧或/从口/諂也从言臾/聲羊朱切/䛕也从言閻聲丑琰切/譋或/省/詐也从言爰/聲況袁切/不肖人也从言敖聲一曰哭不止悲聲謷謷五牢切誘也从言术聲思律切/沇州謂欺曰詑从/言它聲託何切/欺也从言曼/聲母官切/譇拏羞窮也从言奢聲陟加切/慙語也从言/作聲鉏駕切/謺讘也从言/執聲之涉切/謰謱也从言/連聲力延切/謰謱也从言婁聲陟侯切/相欺詒也一曰遺也/从言台聲與之/切/相怒使也从言/參聲倉南/切/欺也从言狂/聲居況切/騃也从言<pb n="4a"/>疑聲五介切/相誤也从言/哭聲古罵切/謗也从言山/聲所晏切/誹也从言幾/聲居衣切/加也从言巫聲武扶切/謗也从言非/聲敷尾切/毁也从言㫄/聲補浪切/詶也从言壽聲讀若醻周書曰無或譸張爲幻張流切/譸也从言州/聲市流切/詶也从言且/聲莊助切/詶也从言由/聲直又切/離别也从言多聲讀若論語跢予之足周景王作洛陽誃臺尺氏切/亂也从言孛/聲蒲没切/誖或/从心/籀文誖从二或亂也一曰治也一曰不絶也从言絲吕眞/切/古文/<graphic n="KR1163" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1163.png" mimeType="image/png"/>/謬也从言吴/聲五故切/誤也从言圭聲古賣切可惡之辭从言矣聲一曰誒然春秋傳曰誒誒出出許其切/痛也从言喜/聲火衣切/膽气滿聲在人上从言自聲讀若反目相睞荒内切/謧泄多言也从/言离聲呂之切/多言也从言世聲詩/曰無然詘詘余制切/不思稱意也从言此聲詩曰翕翕䚹䚹將此切/往來言也一曰小兒未能正言也/一曰祝也从言匋聲大/牢切/䛬或/从包/䛁䛁多語也从言冄聲樂浪有䛁邯縣汝間切/語相反䜚也从/言遝聲他合切/䜚諮也从言/㳫聲徒合切/諍語訮訮也从言开聲呼堅切言壯㒵一曰數相怒也从言巂聲讀若畫呼麥切/騃言聲从言勻省聲漢中西/城有訇郷又讀若玄虎横切/籀文不省<pb n="4b"/>便巧言也从言扁聲用書曰<graphic n="KR0914" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0914.png" mimeType="image/png"/>
+                        <graphic n="KR0914" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0914.png" mimeType="image/png"/>/善諞言論語曰友諞倿部田切/四也从言頻/聲符/眞切/扣也如求婦先/言叕之从言从口口亦聲苦后切/言相誽司也从/言兒聲女家切/相呼誘也从言/兆聲徒了切/加也从言从曽聲作滕切忘也从言失聲徒結切/忌也从言其聲周書曰/上不諅于凶德渠記切/誕也从言敢/聲下闕切/俗譀从忘譀也从言夸聲苦瓜切/詞誕也从言/延聲徒旱切/籀文誕/省正/譀也从言萬/聲莫/話切/戯也从言䖒聲詩曰善戲謔兮虚納切/眼戾也从言/聲乎<graphic n="KR1908" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1908.png" mimeType="image/png"/>切/䜋也从言工聲詩曰/蟊賊内訌戸工切/中止也从言貴聲司馬法曰師多則人䜋䜋止也胡對切/聲也从言歳聲詩曰/有/其聲呼會切/疾言也从言咼聲呼卦切譟也从言魋聲杜回切/擾也从言喿/聲蘇到切/大呼也从言丩聲春秋傳/曰或訆于宋大廟古弔切/號也从言从虎乎刀切/譁也从言雚/聲呼官切/讙也从言華/聲呼瓜切/妄言也从言/雩聲羽俱切/謣或从荂譌言也从言爲聲詩曰民之譌言五禾切/誤也从言隹/省聲古賣切/謬也从言呉/聲五故切/狂者之妄言也从言翏聲靡㓜切/夢言也从言/巟聲呼光切/大呼自勉也从言/暴省/聲蒲角切/訬擾也二曰訬獪从言少聲讀<pb n="5a"/>若毚楚交切/欺也从言其/聲去其切/權詐也益梁曰謬欺天下/曰譎从言矞聲古穴切/欺也从言乍聲側駕切/詭譌也从言于聲一曰訏/齊楚謂信曰訏況于切/咨也一曰痛惜也/从言差聲子/邪/失气言一曰不止也从言龖省聲傅毅讀若慴之涉切/籀文讋/不省/言謂讋也从言/習聲秦入切/相毁也从言亞聲一曰畏亞宛古切/相毁也从言隨/省聲雖遂切/嗑也从言闒/聲徒盍切/說也从言匈/聲許容切或省/詾或/从兇/爭也从言公聲/曰謌訟似用切/古支/訟/恚也从言眞聲賈侍中說謓笑一曰讀若振昌眞切/多言也从言聶聲河/東有狐讘縣之涉切/大言而恕也从/言可聲虎何切/訐也从言臣聲讀若指職雉切/面相厈罪相告訐也/从言干聲/居謁切/告也从言厈省聲論語曰訴子路於季孫臣鉉等曰厈非聲蓋古之字音多与今異如皀亦音香釁亦音門乃亦音仍他皆放此古今失傳不可詳究桑故切/訴或从/言朔/訴或从朔心愬也从言㬱聲荘䕃切/譛也从言毚/聲士咸切/謫問也从言/遣聲去戰切/罰也从言啇聲陟革切數也一曰相讓也从言耑聲讀/若專尺絹切/相責讓从言/襄聲人漾切/嬈譊也从言焦聲/讀若噍/才肖切/古文<pb n="5b"/>譙从肖周書曰亦未敢誚公/數諫也从言/朿聲七賜切/讓也从言卒聲國語/曰誶申胥雖遂切/問也从言吉聲去吉切/責望也从言/望聲巫放切/貴也从言危/聲過委切/告也从言登/聲諸應切/詰詘也一曰屈襞从言出聲區勿切/詘或/从屈/尉也从言夗/聲於願切/知處告言之从/言向聲朽正切/㳘言也从言敻聲夾縣切/苛也一曰訶也从/言氏聲都禮切/何也从言隹/聲示隹切/飾也一曰更也从/言革聲讀若戒古覈切/怟讕也从言/闌聲洛干切/讕或/从閒/視也从言㐱聲/直刃切又之忍切/悲聲也从言斯省聲先稽切/罪也从言尤聲周書/曰報以庶訧羽求切/計也从言朱/聲陟輸切/冶也从言从寸他皓切悉也从言音聲烏/含切/禱也累功德以求福論語云讄曰禱/尔于上下神祇从言纍省聲力軌切/或不省行之迹也从言兮皿闕徐鍇曰兮聲也神至切/謚也从言耒/聲力軌切/恥也从言奚/聲胡禮切/謑或从奊/謑詬恥也从言/后聲呼冦切/詬或/从句/軍中反閒也从/言枼聲徒叶切/軍中約也从言亥聲讀若心中滿該古哀切/傳譯四夷之言者/从言睪聲羊昔切/迫也从言九聲/讀若求巨鳩切/笑㒵从言益聲<pb n="6a"/>伊昔切又呼狄切/疾言也从三言讀若沓徒合切</hi>
+　　　　　文二百四十五　重三十三<lb/>
+<hi>謀也从言旬聲相倫切/直言也从言/黨聲多朖切/籍錄也从言普聲/史記从並博古切/詎猶豈也从言巨聲其㠯切/小也誘也从言麥聲禮/記曰足以/聞先鳥切/隱語也从言迷/迷亦聲莫計切/記誌也从言志聲職吏切/訣别也一曰法也从/言決省聲古穴切</hi>文八<hi>新附</hi>
+　　競言也从二言凡誩之屬皆从誩讀若競<hi>渠慶切吉也从誩从羊此與義美同意常/衍切/篆文<graphic n="KR3415" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3415.png" mimeType="image/png"/>/从言/彊語也一曰逐也从/誩从二人/渠慶切/痛怨也从誩賣聲春秋傳曰民無怨讟徒谷切</hi>文四　重一<lb/>
+　　聲也生於心有節於外謂之音宫商角徴羽<lb/>
+　　聲絲竹金石匏土革木音也从言含一凡音<lb/>
+<pb n="6b"/>
+<pb n="6b"/>
+<hi>大版也所以飾縣鐘鼓捷業如鋸齒以白畫之象其/鉏鋙相承也从丵从巾巾象版詩曰巨業維樅魚怯切/古文業聚也从丵取/聲徂紅切/譍無方也从丵从/口从寸都隊切/對或从士漢文帝以爲責對而爲言多非誠對故去其口以从士也</hi>文四　重二<lb/>
+　　瀆菐也从丵从廾廾亦聲凡菐之屬皆<lb/>
+　　从菐<hi>臣鉉等曰瀆讀爲煩瀆之瀆一本注云丵衆多也兩手奉之是煩瀆也蒲沃切/給事者从人从菐菐亦聲滿沃切/古文/从臣/賦事也从菐从八八分之也八亦/聲讀若頒一曰讀若非布還切</hi>文三　重一<lb/>
+　　竦手也从　从又凡廾之屬皆从廾<hi>居竦切今變隸作廾揚雄說廾从兩手/承也从手从廾/半聲扶/隴切/翊也从廾从卩从山山/髙奉承之義署陵/切/取奐也一曰大也从廾夐省臣鉉等曰夐營求也取之義也呼貫切/蓋也从廾从合古/南切又一儉切/古文/弇/引給也从廾睪聲羊益切/舉也从廾甶聲春秋傳曰晉人或以廣墜楚人<graphic n="KR3656" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3656.png" mimeType="image/png"/>之黄/顥說廣車陷楚人爲舉之杜林以爲騏麟字渠記切/舉也<pb n="7a"/>从廾㠯聲虞書曰岳曰异哉羊吏切/玩也从廾持/玉盧貢切/兩手盛也从廾/聲余六切/摶飯也从廾釆聲釆古文辦字讀若書卷居劵切/持弩拊从廾肉讀若逵臣/鉉等曰从肉未詳渠追切/警也从廾持戈以戒不虞居拜切/械也从廾持斤并/力之皃補明切/古文兵从/人廾干/籀/文/慤也从廾龍/聲紀庸切圍棊也从廾亦聲論語曰不有愽弈者乎羊益切/共置也从廾从貝省古以貝爲貨其遇切</hi>
+　　　　　文十七　重四<lb/>
+　　引也从反廾凡<graphic n="KR2433" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2433.png" mimeType="image/png"/>之屬皆从<graphic n="KR2433" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2433.png" mimeType="image/png"/>
+                    <hi>普班切今變隷作大
+                        <graphic n="KR2433" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2433.png" mimeType="image/png"/>或从/手从癸/鷙不行也从<graphic n="KR2433" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2433.png" mimeType="image/png"/>从/棥棥亦聲附袁切/樊也从<graphic n="KR2433" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2433.png" mimeType="image/png"/>
+                        <graphic n="KR1163" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1163.png" mimeType="image/png"/>聲吕員切</hi>
+　　　　　文三　重一<lb/>
+　　同也从廿廾凡共之屬皆从共<hi>渠用切古文共/給也从共龍/聲俱容切</hi>文二　重一<lb/>
+<pb n="7b"/>
+　　分也从廾从卑卑予也凡異之屬皆从異<hi>徐鍇曰將欲與物先分異之也禮曰賜君子小人不同日羊/吏切/分物得增益曰戴/从異<graphic n="KR2392" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2392.png" mimeType="image/png"/>聲都代切/籀文戴</hi>
+　　　　文二　重一<lb/>
+　共　也从臼从廾凡舁之屬皆从舁讀若余<hi>以諸切升髙也从㫒囟聲七然切/或/从卩/古文/黨與也从舁/从与余㠯切/古文與起也从舁从同同力也虚陵切</hi>文四　重三<lb/>
+　叉手也从　彐凡<graphic n="KR0875" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0875.png" mimeType="image/png"/>之屬皆从<graphic n="KR0875" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0875.png" mimeType="image/png"/>
+                    <hi>居玉切身中也象人要自<graphic n="KR0875" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0875.png" mimeType="image/png"/>之形从/臼交省聲於消切又於笑切/古文要</hi>文二　重一<lb/>
+　　早昧爽也从<graphic n="KR0875" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0875.png" mimeType="image/png"/>从辰辰時也辰亦聲丮夕爲<lb/>
+　䢅爲䢅皆同意凡䢅之屬皆从䢅<hi>衾鄰切</hi>
+<pb n="8a"/>
+<pb n="9a"/>
+<hi>母官切/小兒履也从革及/聲讀若沓穌合切/靴角鞮屬从革/卬聲五岡切/革履也从革是聲都兮切鞮沙也从革从/來夾亦聲古洽切/鞮屬从革徙/聲所綺切/革生鞮也从革/奚聲戸佳切/補履下也从革丁聲當經切/蹋鞠也从革/匊聲居六切/鞠或/从䉅/鞀遼也从革/召聲徙刀切/鞀或/从兆/鞀或从鼓从兆/籀文鞀/从殸召/量物之/一曰杍井/古/以革从革冤聲於/袁切/或/从宛/刀室也从革卑聲并頂切車革前曰鞎从革良聲户恩切/車軾也从革弘聲詩曰鞹/鞃淺幭讀若穹丘弘切/車軸束也从革敄聲莫卜切車束也从革必聲毗必切/車衡三東也曲轅/縳直轅/縳从/革爨聲讀若論語鑚燧之鑚借官切/或从革贊蓋杠絲也从革旨聲徐錯/曰絲其繫系也脂利切/車駕具也从革/皮聲乎祕切/轡鞥从革弇聲讀若譍一曰龍頭繞者烏合切/轡革也从革/巴聲必駕切/著掖鞥也从革/顯聲呼典切/當膺也从革斤聲居近切驂具也从革蚩聲讀若騁蜃丑郢切/引軸也从革/引聲余忍切/籀文/靷/車鞁具也从革官聲古滿切車鞁具也从革/豆聲田俟切/輨内環靻也从/革于聲羽俱切/車下索也从革尃聲補各切<pb n="9b"/>車具也从革奄聲烏合切/車具也从革/叕聲陟劣切/馬鞁具也从革/从安烏寒切/鞌毳飾也从革茸聲而隴切/鞌飾从革古/聲他叶切/防汗也从革/合聲古洽切/馬頭絡銜也从革力聲盧則切大車縛軛靻从革月聲狂沇切/勒靻也从革/面聲弥沇切/鞮也从革今/聲巨今切/所以戢弓矢从革建聲居言切/弓欠韇也从革/賣聲徒谷切/緌也从革巂/聲山垂切/急也从革亟/聲紀力切/驅也从革聲/卑連切/古文/頸靻也从革/央聲於兩切/佩刀絲也从革/蒦聲乙白切/馬尾也从革它聲今之般緧徒何切/繫牛脛也从革見聲已彳切</hi>文五十七　重十一<lb/>
+<hi>刀室也从革肖聲私妙切/馬鞁具也从革/薦聲則前切/鞮屬从革華/聲許/切/馬羈也从革勺聲都歷切</hi>文四<hi>新附</hi>
+　　鼎屬實五觳斗二升曰觳象腹交文三<lb/>
+　　足凡鬲之屬皆从鬲<hi>郎激切<pb n="10a"/>鬲或从瓦/漢令鬲从/瓦厤聲/三足鍑也一曰滫米器/也从鬲支聲魚綺切/三足釡也有柄喙讀若嬀从鬲規聲居隨切/釡屬从鬲㚇/聲子紅切/秦名土釡曰<graphic n="KR3085" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3085.png" mimeType="image/png"/>从鬲/㐄聲讀若過古禾切/大釡也一曰鼎大上小下若甑曰鬵从鬲兓聲讀若岑才林切/籀文/鬵/鬵屬从鬲曽/聲子孕切/鍑屬从鬲甫聲扶雨切/鬴或从/釡金聲/鬲屬从鬲虍/聲牛建切/炊气上出也从鬲/蟲省聲以戎切/籀文融不省炊气㒵从鬲嚻聲許嬌切/煑也从鬲羊/聲式羊切/涫也从鬲沸聲芳未切</hi>
+　　　　文十三　重五<lb/>
+　　㽁也古文亦鬲字象孰飪五味气上出<lb/>
+　　也凡䰜之屬皆从<graphic n="KR2471" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2471.png" mimeType="image/png"/>
+                    <hi>郎激切鬻也从<graphic n="KR2471" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2471.png" mimeType="image/png"/>侃/聲諸延切/鬻或从/食衍聲/或从/干聲/或从/建聲/䭈也从<graphic n="KR2471" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2471.png" mimeType="image/png"/>米聲武悲切臣鉉等曰今俗粥作粥音之六切/䭈也从<graphic n="KR2471" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2471.png" mimeType="image/png"/>吉/聲戸吴切/五味盉羹也从<graphic n="KR2471" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2471.png" mimeType="image/png"/>从羔/詩曰亦有和古行切</hi>
+<pb n="10b"/>
+<pb n="10b"/>
+　　讀若戟<hi>凡辟切種也从坴丮持亟種之書曰我埶黍稷徐鍇曰坴土也育祭切/食飪也从丮重聲/易曰孰飪殊六切/設食也从丮从食才聲讀若載作代切/袌也从丮工/聲居悚/切/巩或/加手/相踦之也从丮/谷聲其虐切/擊踝也从丮从戈讀若踝胡瓦切/拖持也从反就闕居王切</hi>文八　重一<lb/>
+　　兩士相對兵杖在後象鬥之形凡鬥之屬<lb/>
+　　皆从鬥<hi>都豆切遇也从鬥斵聲都豆切/鬭也从鬥共聲孟子/曰鄒與魯閧下降切/經繆殺也从鬥/翏聲力求切/鬪取也从鬥龜聲讀若三合繩糾古矦切/智少力劣也从/鬥爾聲奴礼切/鬭連結/紛相牽也从鬥燹聲臣鉉等案燹今先典切从豩聲豩呼還切蓋燹亦有豩音故得爲聲一本从/說文無/字撫文切/鬭也从鬥賔省聲/讀若賔匹賔切/恒訟也詩云兄弟鬩于牆从鬥从兒兒善訟者也許激切/試力士錘也从鬥从戈或从戰省讀若縣胡畎切</hi>文十<lb/>
+<pb n="11a"/>
+<hi>不静也从市鬥奴敎切</hi>文一<hi>新附</hi>
+　　手也象形三指者手之<graphic n="KR0844" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0844.png" mimeType="image/png"/>多略不過三也凡<lb/>
+　　又之屬皆从又<hi>于救切手口相助也从又从口臣鉉等曰今俗别作佑于救切/臂上也从又从/古文古薨切/古文厷/象形/厷或从肉/手指相錯也从又/象又之形初牙切/手足甲也从又/象又形側狡切/矩也家長率敎者从又舉杖扶雨切老也从又从灾闕穌后切/籀文/从寸/叜或/从人/和也从言从又炎籀文夑从<graphic n="KR2423" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2423.png" mimeType="image/png"/>/<graphic n="KR2423" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2423.png" mimeType="image/png"/>音飪讀若涇臣鉉等案燮字義大孰也从炎从又即孰物可持也此燮蓋从燮省言語以和之也二字義相出入故也穌叶切/引也从又冐聲無販切抻也从又聲/古文申失人切/分决也从又中象決形徐鍇曰/物也丨所以快之古賣切/治也从又丿握事者也余準切/古文/尹/又卑也从又/虚聲側如切/引也从又<graphic n="KR2773" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2773.png" mimeType="image/png"/>/聲里之切/拭也从又持巾在尸下所劣切逮也从又从人徐鍇曰及前人也巨立切/古文及秦刻/后及如此/亦古/文及/亦古文及<pb n="11b"/>禾束也从又持禾兵永切/覆也从又厂/反形府逺切/古/文/治也从又从卪卪/事之節也房六切/滑也詩云<graphic n="KR2093" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2093.png" mimeType="image/png"/>兮達兮从又/屮一曰取也土刀切/楚人謂卜問吉凶曰/从又持/祟祟亦聲讀若贅之芮切/拾也从又尗聲汝南名收芌爲叔式竹切/叔或/从寸/入水有所取也从又在回下回古/文回回淵水也讀若沬莫勃切/捕取也从又从耳周禮獲者取左耳司馬法曰載獻聝聝者耳也七庾切/掃竹也从又/持/祥歳切/彗或/从竹/古文彗从竹从習/借也闕/古雅切/古文/段/譚長說/段如此/同志爲友从二又相交友也云久切古文友/亦古/文友/法制也从又庶省聲徒故切</hi>文二十八　重十六<lb/>
+　　<graphic n="KR1664" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1664.png" mimeType="image/png"/>手也象形凡<graphic n="KR1664" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1664.png" mimeType="image/png"/>之屬皆从<graphic n="KR1664" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1664.png" mimeType="image/png"/>
+                    <hi>臧可切賤也執事也从<graphic n="KR1664" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1664.png" mimeType="image/png"/>甲/徐鍇曰右重面左卑故在甲下補移切</hi>文二<lb/>
+　　記事者也从又持中中正也凡史之屬<lb/>
+　　皆从史<hi>䟽士切<pb n="12a"/>職也从史之省聲鉏史切/古文事</hi>文二　重一<lb/>
+　　去竹之枝也从手持半竹凡支之屬皆从支<lb/>
+<hi>章移切古文支/持去也从支竒聲去竒切</hi>文二　重一<lb/>
+　　手之疌巧也从又持巾凡聿之屬皆从聿<hi>尼輒切習也从聿聲羊至/切/籀文/篆文/持事振敬也从聿/在<graphic n="KR1570" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1570.png" mimeType="image/png"/>上戰戰兢兢也息逐切/古文肅从心从卪</hi>文三　重三<lb/>
+　所以書也楚謂之聿呉謂之不律燕謂之<lb/>
+　弗从聿一聲凡聿之屬皆从聿<hi>余律切秦謂之筆从聿从竹徐鍇曰筆尚便疌故从聿鄙密切/聿飾也从聿从彡俗語以書/好爲<graphic n="KR2638" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2638.png" mimeType="image/png"/>讀若/將鄰切<pb n="12b"/>箸也从聿者聲商魚切</hi>文四<lb/>
+　　界也象田四界聿所以畫之凡畫之屬皆从<lb/>
+　　畫<hi>胡麥切古文畫省/亦古/文畫/日之出入與夜爲界/从畫省从日陟救切/籀文晝</hi>
+　　　　文二　重三<lb/>
+　及也从又从㞑省又持㞑者从後及之也凡隶之<lb/>
+　屬皆从隶<hi>徒耐切反也从隶枲聲詩曰天之未隂/雨臣鉉等曰枲非聲未詳徒耐切/附箸也从隶/柰聲郎計切/篆文隷从古文之體臣鉉等未詳古文所出</hi>文三　重一<lb/>
+　堅也从又臣聲凡臤之屬皆从臤讀若鏗鏘<lb/>
+<pb n="13a"/>
+<pb n="14a"/>
+<hi>殳也从殳示聲或說城郭市里高縣羊皮有不當入而欲入者暫下以驚牛馬曰祋故从示殳詩曰何戈與祋丁外切軍中士所持殳也从木从殳司馬法曰執羽从杸市朱切/相擊中也如車相擊/故从殳从軎古歷切/从上擊下也一曰素也从殳青聲苦角切<graphic n="KR4066" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4066.png" mimeType="image/png"/>苦江切/下擊上也从殳/冘聲知朕切/繇擊也从殳豆聲古文投如此度矦切縣物/擊从殳/聲巿流切/推毄物也从殳/豖聲冬毒切/捶毄物也从殳區聲烏后切擊頭也从殳高聲口卓切/擊聲也从殳/聲堂諫切/擊中聲也从殳/医聲於計切/推物也从殳耑省聲徒玩切擊空聲也从殳宫聲/徒冬切又火宫切/相雜錯也从殳/肴聲胡茅切/妄怒也一曰有決也从殳豙聲魚旣切/揉屈也从殳从/古文叀字廏字从此/臣鉉等曰叀小謹也亦屈服之意居又切/戍邊也从殳从彳臣鉉等曰彳歩也彳亦聲營隻切/古文役/从人/㱾改大剛夘也以逐精鬼从殳亥聲古哀切</hi>文二十重一<lb/>
+　　戮也从殳杀聲凡殺之屬皆从殺<hi>臣鉉等曰說文無杀字相傳云音察未知所出所八切<pb n="14b"/>古文殺/古文/殺/古文/殺/臣殺君也易曰臣弑其君从殺省式聲式吏切</hi>
+　　　　文二　重四<lb/>
+　鳥之短羽飛几几也象形凡几之屬皆从几讀<lb/>
+　若殊<hi>市朱切新生羽而飛也从几从彡之忍切/舒鳧鶩也从鳥几聲房無切</hi>文三<lb/>
+　十分也人手卻一寸動衇謂之寸口从又从一凡<lb/>
+　　寸之屬皆从寸<hi>倉困切廷也有法度者也从寸之聲祥吏切/帥也从寸/省聲即諒切/繹理也从工从口从又从寸工口亂也又十分理之彡聲此與同意度人之兩/臂爲尋八尺也徐林切/六寸簿也从寸叀聲/一曰專紡專職縁切/布也从寸甫聲芳無切導引也从寸道聲徒皓切</hi>文七<lb/>
+<pb n="15a"/>
+　　剥取獸革者謂之皮从又爲省聲凡皮之屬<lb/>
+　　皆从皮<hi>符羈切古文皮/籀文/皮/面生气也从皮/包聲㫄敎切/面黑气也从皮干聲古旱切</hi>
+　　　　文三　重二<lb/>
+<hi>足坼也从皮軍聲矩云切/皮細起也从皮夋聲七倫切</hi>文二<hi>新附</hi>
+　　柔韋也从北从皮省从敻省凡㼱之屬皆从㼱<lb/>
+　　讀若耎一曰若儁<hi>臣鉉等曰北者反覆柔治之也夐營也而兖切古文㼱/籀文㼱/从夐省/羽獵韋絝从㼱/灷聲而隴切/或从衣从/虞/書曰鳥獸毛</hi>
+　　　　文三　重二<lb/>
+　　小擊也从又卜聲凡攴之屬皆从攴<hi>普木切<pb n="15b"/>教也从支启聲論語日不憤不啓康禮切/通也从彳从攴/从育聲丑列切/古文/徹/擊也从攴肇省聲治小切/疾也从攴每/聲眉/殞切/彊也从攴民/聲眉/殞切/彊也从攴矛/聲亡遇切迮也从攴白聲周書曰敀常任博陌切/齊也从攴从束从/正正亦聲之郢切/象也从攴交/聲胡教切/使爲之也从攴古聲古慕切/正也从攴从正/正亦聲之盛切/軟也从攴也聲讀/與施同式攴切/<graphic n="KR3372" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3372.png" mimeType="image/png"/>也从攴専聲周書曰用遺後/人芳无切/主也从攴典/聲多殄切/數也从攴麗/聲力米切/計也从攴婁聲所矩切辟潄鐵也从攴从涑郎電切/汲汲也从攴子聲周書/曰孜孜無怠子之切/分也从攴分/聲周書曰乃惟孺子攽亦讀與彬同布還切/止也从攴旱聲周書/曰㪋我干艱矦旰切/有所治也从攴豈聲讀若豤五來切/平治髙土可以逺望/也从攴尚聲昌两切/理也从攴伸/聲直刃切/更也从攴已李陽氷曰己有過攴之即改古亥切/更也从攴<graphic n="KR1163" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1163.png" mimeType="image/png"/>/聲祕戀切/改也从攴丙聲古/孟切又古行切/誠也臿地曰敕从攴束聲耻力切/使也从攴耴/省聲而涉切/牧也从攴僉/聲良冉切/擇也从攴/聲周/書曰<graphic n="KR3124" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3124.png" mimeType="image/png"/>乃甲冑洛</hi>
+<pb n="16a"/>
+<pb n="17a"/>
+<hi>擊也从攴句聲讀若扣苦候切/擊也从攴/聲古洪切/横㰅也从攴/高聲口交切/擊也从攴豕聲竹角切/放也从攴/聲迀往切/坼也从支从厂厂之性坼果孰有/味亦坼故謂之<graphic n="KR2773" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2773.png" mimeType="image/png"/>从未聲徐鍇曰厂厓也許其切/去隂之刑也从攴蜀聲周/書曰則劓<graphic n="KR2228" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2228.png" mimeType="image/png"/>黥竹角切/貟也从攴昬聲周書/曰<graphic n="KR3680" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3680.png" mimeType="image/png"/>不畏死眉殞切禁也一曰樂器椌楬也形如木虎从攴吾聲魚舉切/研治也从攴果聲舜/女弟名㪙首苦果切/持也从攴金聲讀若琴巨今切/棄也从攴<graphic n="KR1319" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1319.png" mimeType="image/png"/>聲周書以爲/討詩云無我/兮市流切/平田也从攴田周書/曰畋尒田待年切/㱾改大剛夘以逐鬼鬼也从攴巳聲讀若巳古亥切/次弟也从攴/余聲徐㠯切/毁也从攴卑/聲辟米切/㪏也从攴兒聲五計切/養牛人也从攴从牛詩/曰牧人乃夢莫卜切/擊馬也从攴/束聲楚革切/小春也从攴算聲初絭切䚫田也从攴堯聲牽遥切</hi>文七十七　重六<lb/>
+　　上所施下所効也从攴从孝凡敎之屬皆从<lb/>
+　教<hi>古孝切<pb n="17b"/>古文敎/亦古/文敎/覺悟也从敎从冂冂/尚矇也<graphic n="KR0875" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0875.png" mimeType="image/png"/>聲胡覺切/篆文斆省</hi>
+　　　　　　　　文二　重二<lb/>
+　　灼剥龜也象炙龜之形一曰象龜兆之從横<lb/>
+　　也凡卜之屬皆从卜<hi>博木切古文卜/筮也从卜圭聲臣鉉等曰圭字/聲不相近當从挂省聲古壞切/卜以問疑也从口卜讀與稽同書云叶疑古兮切/卜問也从卜貝以爲贄一曰/鼎省聲京房/所說陟盈切/易卦之上體也商書/曰貞曰<graphic n="KR1194" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1194.png" mimeType="image/png"/>从卜每聲荒内切/視兆問也从卜/从口職廉切/卜問也从卜/召聲市沼切/灼龜坼也从卜/<graphic n="KR3471" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3471.png" mimeType="image/png"/>象形治小切/古文兆省</hi>文八　重二<lb/>
+　　可施行也从卜从中䘙宏說凡用之屬皆从用<lb/>
+<hi>臣鉉等曰卜中乃可用也余訟切</hi>
+<pb n="18a"/>
+<pb n="19a"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

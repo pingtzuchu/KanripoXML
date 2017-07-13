@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>春秋左氏傳小疏</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　　經部五<lb/>
+　春秋左氏傳小疏　　　　春秋類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案春秋左氏傳小疏一卷<lb/>
+　　　國朝沈彤撰彤有尚書小疏已著錄是編以趙<lb/>
+　　　　汸顧炎武所補左傳杜註為未盡更為訂正<lb/>
+　　　　其中得失互見如文公二十六年傳享子展<lb/>
+　　　　賜之先路三命之服先八邑賜子産次路再<lb/>
+<pb n="1b"/>
+　　　　命之服先六邑彤謂八邑六邑其數少乃司<lb/>
+　　　　勲所云賞地非采邑之加田疏亦誤今考司<lb/>
+　　　　勲曰凡頒賞地參之一食惟加田無國正註<lb/>
+　　　　曰加田既賞之又加賜以田所以厚恩也據<lb/>
+　　　　此則是特以賞田有所未盡更加以賞未有<lb/>
+　　　　賞田反少加田反多者今彤謂八邑六邑為<lb/>
+　　　　數少當是賞地則加田為數當多矣與周禮<lb/>
+　　　　殊為未合葢彤著周官祿田考誤以大司徒<lb/>
+<pb n="2a"/>
+　　　　註小都大都旁加之數即為司勲之加田故<lb/>
+　　　　今以子展子産皆國卿若受加田則約得小<lb/>
+　　　　都旁加四里傳云八邑者據註不過三十二<lb/>
+　　　　井云六邑者不過二十四井故疑其數少非<lb/>
+　　　　加田其實皆不然也又如文公元年傳歸餘<lb/>
+　　　　于終彤謂積氣朔餘日以置閏在四季月故<lb/>
+　　　　曰歸餘于終經傳所書閏月皆不得其正惟<lb/>
+　　　　昭公二十年閏八月于夏時適為閏六月偶<lb/>
+<pb n="2b"/>
+　　　　合耳今考昭公二十年書春王正月傳曰二<lb/>
+　　　　十年春二月己丑日南至杜註謂當言正月<lb/>
+　　　　己丑日南至時史失閏更在二月後故經因<lb/>
+　　　　史而書正月傳更具于二月疏謂厯之正法<lb/>
+　　　　往年十二月後宜置閏月即此年正月當是<lb/>
+　　　　往年閏月此年二月乃是正月時史于往年<lb/>
+　　　　錯不置閏閏更在二月之後傳于八月之下<lb/>
+　　　　乃云閏月戊辰殺宣姜是也註不言在八月<lb/>
+<pb n="3a"/>
+　　　　後而云在二月後者以正月之前當置閏二<lb/>
+　　　　月之後即不可也據此則是年八月置閏正<lb/>
+　　　　史官之失彤反以為偶合亦非也然如襄公<lb/>
+　　　　二十八年傳今倍其賦孔疏謂賞地之税三<lb/>
+　　　　分王食其一二入于王臣此采邑貢王之數<lb/>
+　　　　然則諸侯之臣受采地者亦當三分之一歸<lb/>
+　　　　于公言重倍其賦當以三分而二入公今考<lb/>
+　　　　采邑貢王大司徒註曰采地食者皆四之一<lb/>
+<pb n="3b"/>
+　　　　百里之國凡四都一都之田税入于王五十<lb/>
+　　　　里之國凡四縣一縣之田税入于王二十五<lb/>
+　　　　里之國凡四甸一甸之田税入于王其賞地<lb/>
+　　　　貢王則孔疏所引司勲註三分計税王食其<lb/>
+　　　　一是也然則采地賞地貢數顯異今孔疏于<lb/>
+　　　　侯國采地之賦不計四分之一而計三分之<lb/>
+　　　　一是誤以賞地為采地矣彤辨正其非足闢<lb/>
+　　　　相沿之謬又如文公二十五年傳賦車兵徒<lb/>
+<pb n="4a"/>
+　　　　兵杜註云車兵甲士孔疏云知非兵器者上<lb/>
+　　　　云數甲兵下云甲楯之數故知此謂人也顧<lb/>
+　　　　炎武謂執兵者之稱兵自秦漢始三代以上<lb/>
+　　　　無之凡杜之以士卒解兵者皆非彤引隠公<lb/>
+　　　　五年傳諸侯之師敗鄭徒兵襄公元年傳敗<lb/>
+　　　　其徒兵于洧上云徒兵則不得謂非士卒矣<lb/>
+　　　　亦可以補正顧氏之失雖未完之書錄而存<lb/>
+　　　　之于讀左傳者亦有所禆也乾隆四十六年<lb/>
+<pb n="4b"/>
+　　　　十月恭校上<lb/>
+　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

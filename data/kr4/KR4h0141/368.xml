@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_368-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選巻三百六十九<lb/>
+　　杜若花類<lb/>
+　　　五言古<lb/>
+　　　　詠杜若　　　　　　　　　<hi>梁</hi>沈　約<lb/>
+　生在窮絶地豈與世相親不顧逢采擷本欲芳幽人<lb/>
+　　　五言絶句<lb/>
+　　　　池上亭　　　　　　　　　<hi>唐</hi>錢　起<lb/>
+<pb n="KR4h0141_WYG_368-1b"/>
+　臨池構杏梁待客歸煙塘水上褰簾好蓮開杜若香<lb/>
+　　　七言絶句<lb/>
+　　　　六月二十七日望湖樓醉書　<hi>宋</hi>蘇　軾<lb/>
+　獻花遊女木蘭橈細雨斜風濕翠翹無限芳洲生杜若<lb/>
+　呉兒不識楚詞招<lb/>
+　　　　題畫圖　　　　　　　　　<hi>元</hi>陳　旅<lb/>
+　雨餘空翠轉霏霏杜若洲邉小艇歸又為故人臨野閣<lb/>
+　江雲日暮濕秋衣<lb/>
+<pb n="KR4h0141_WYG_368-2a"/>
+　　　　謾成　　　　　　　　　　<hi>元</hi>馬　臻<lb/>
+　蕭蕭野老髮垂肩家住湖西杜若煙載得茭根入城賣<lb/>
+　西風落日滿歸船<lb/>
+　　　　望武昌　　　　　　　　　<hi>明</hi>楊　基<lb/>
+　吹面風来杜若香離離煙栁拂鷗長人家鸚鵡洲邊住<lb/>
+　一向開門對漢陽<lb/>
+　　　　越江曲　　　　　　　　　<hi>明</hi>梁有譽<lb/>
+　横塘風起送新凉蒲葉拍波江水長莫道春歸光落盡<lb/>
+<pb n="KR4h0141_WYG_368-2b"/>
+　中流還有杜蘅香<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選巻三百六十九<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

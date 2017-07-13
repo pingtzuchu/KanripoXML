@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4c0027_SBCK_013-1a"/>
+元集補<lb/>
+　元集初據郭本上版印成又從唐音丙籖得序二<lb/>
+　首從别本得詩一首不同者一首爲補錄扵此無<lb/>
+　錫孫毓修識<lb/>
+　　　劉侍御月夜讌㑹<hi>并序詩見卷四</hi>
+兵興以來十一年矣獲與同心歡醉達旦詠歌取適<lb/>
+無一二焉乙巳嵗彭城劉靈源在衡陽逢故人或有<lb/>
+在者曰昔相㑹第歡逺遊始與諸公待月而笑語竟<lb/>
+與諸公愛月而歡醉詠歌夜久賦詩言懷扵戯文章<lb/>
+道䘮葢久矣時之作者煩雜過多歌兒舞女且相喜<lb/>
+<pb n="KR4c0027_SBCK_013-1b"/>
+愛系之風雅誰道是邪諸公嘗欲變時俗之淫靡為<lb/>
+後生之規範今夕豈不能道達情性成一時之美乎<lb/>
+　　　送孟校書往南海<hi>并序詩見卷四題作别孟校書</hi>
+平昌孟雲卿與元次山同州里以詞學相友幾二十<lb/>
+年次山今罷守春陵雲卿始典校芸閣扵戯材業次<lb/>
+山不如雲卿詞賦次山不如雲卿通知次山不如雲<lb/>
+卿在次山又詡然求進者也誰言時命吾欲聽之次<lb/>
+山今且未老雲卿少次山六七嵗雲卿聲名滿天下<lb/>
+知己在朝廷及次山之年雲卿何事不可至勿隨長<lb/>
+風乘興蹈海勿愛羅浮往而不歸南海幕府有樂安<lb/>
+<pb n="KR4c0027_SBCK_013-2a"/>
+任鴻與次山最舊請任公為次山一白府主趣資裝<lb/>
+雲卿使北歸慎勿令徘徊海上諸公第作歌送之<lb/>
+　　　朝陽巖下歌<hi>詩見卷四與此不同</hi>
+朝陽巖下湘水深朝陽洞口寒泉清零陵城郭夾湘<lb/>
+岸巖洞幽奇帶郡城荒蕪自古人不見零陵徒有先<lb/>
+賢傳水石爲娛安可羡長歌一曲留相勸<lb/>
+　　　橘井<hi>卷四欵乃曲後</hi>
+靈橘無根井有泉世間如夢又千年鄉園不見重歸<lb/>
+鶴姓字今為第幾仙風冷露壇人悄悄地閑荒逕草<lb/>
+綿綿如何躡得蘇君跡白日霓旌擁上天<lb/>
+<pb n="KR4c0027_SBCK_013-2b"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

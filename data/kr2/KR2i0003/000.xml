@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2i0003_SBCK_000-1a"/>
+重刋華陽國志叙<lb/>
+古者封建五等諸侯國皆有史以記事后丗罷封建<lb/>
+爲郡縣然亦必有圖志以具述蓋以疆域旣殊風俗<lb/>
+各異山川有險要阨塞之當備郡邑有廢置割隷之<lb/>
+不常至於一士之行一民之謡皆有不可歿者顧非<lb/>
+筆之於書則不能也周官職方氏掌天下之地圗辨<lb/>
+其郡國<graphic n="KR1726" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1726.png" mimeType="image/png"/>鄙夷蠻閩貊五戎六狄之人民與其財用<lb/>
+之數要至於九榖之所　六畜之所産亦未嘗不佔<lb/>
+畢而紀其詳况夫環數千里之地分城置邑殆踰數<lb/>
+十中間時異事變徃徃裂爲偏方覇國其理亂得失<lb/>
+蓋有繫天下大數安可使放絶而無聞虖此晉常璩<lb/>
+<pb n="KR2i0003_SBCK_000-1b"/>
+華陽國志之作所以有補於史家者流也子嘗攷其<lb/>
+書郶分區别各有條理其指歸有三焉首述巴蜀漢<lb/>
+中南中之風土次列公孫述劉二牧蜀二主之興廢<lb/>
+及晉太康之混一以迄於特䧺壽勢之僣竊繼之以<lb/>
+兩漢以來先後賢人梁益寧三州士女揔讃序志終<lb/>
+焉就其三者之間於一方人物尤致深意雖侏離之<lb/>
+氓賤俚之婦苟有可取在所不棄此尤足以弘宣風<lb/>
+教使善惡知所懲勸豈但屑屑於山川物産以資廣<lb/>
+見異聞而已乎<lb/>
+本朝元豐間吕汲公守成都嘗刋是書以廣其傳而<lb/>
+載祀荒忽刓缺愈多觀者莫暁所謂予毎患此久矣<lb/>
+<pb n="KR2i0003_SBCK_000-2a"/>
+假守臨邛官居有暇蓋嘗博訪善本以證其誤而莫<lb/>
+之或得因摭兩漢史陳夀蜀書益郶耆舊傳互相參<lb/>
+訂以决所疑凡一事而先後失序本末舛逆者則考<lb/>
+而正之一意而詞㫖重複句讀錯雜者則刋而去之<lb/>
+設或字誤而文理眀白者則因而全之其他㫄捜逺<lb/>
+取求通於義者又非一端凡此皆有眀驗可信不誣<lb/>
+者若其無所考據則亦不散臆决姑闕之以竢能者<lb/>
+然較以舊本之訛謬大略十得五六矣鋟木旣具輒<lb/>
+叙所以冠於篇首好古博雅與我同志者願無以夏<lb/>
+五郭公之義而律之嘉泰甲子季夏朔眉丹稜李墍<lb/>
+叔廑甫謹叙<lb/>
+<pb n="KR2i0003_SBCK_000-2b"/>
+<pb n="KR2i0003_SBCK_000-3a"/>
+華陽國志目錄<lb/>
+　　　苐一　巴志<lb/>
+　　　苐二　漢中志<lb/>
+　　　苐三　蜀志<lb/>
+　　　苐四　南中志<lb/>
+　　　苐五　公孫述鎦二牧志<lb/>
+　　　苐六　鎦先主志<lb/>
+　　　苐七　鎦後主志<lb/>
+　　　苐八　大同志<lb/>
+　　　苐九　李特雄夀勢志<lb/>
+　　　苐十　先賢士女揔讚<lb/>
+<pb n="KR2i0003_SBCK_000-3b"/>
+　　　苐十一　後賢志<lb/>
+　　　苐十二　序志幷益梁寜三州先漢<lb/>
+　　　　　　　　　　以來士女名目錄<lb/>
+華陽國志目錄<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

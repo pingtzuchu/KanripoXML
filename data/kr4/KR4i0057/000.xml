@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>金石要例</head>
+    <p>
+<pb n="KR4i0057_WYG_000-1a"/>
+欽定四庫全書　　　　　集部九<lb/>
+　金石要例　　　　　　　詩文評類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案金石要例一巻<lb/>
+　　　國朝黄宗羲撰宗羲有明儒學案已别著録是<lb/>
+　　　　書櫽括古人金石之例凡三十六則後附論<lb/>
+　　　　文管見九則自序謂潘蒼崖有金石例大段<lb/>
+　　　　以昌黎為例顧未嘗著為例之義與壊例之<lb/>
+<pb n="KR4i0057_WYG_000-1b"/>
+　　　　始亦有不必例而例之者如上代兄弟宗族<lb/>
+　　　　姻黨有書有不書不過以著名不著名初無<lb/>
+　　　　定例故摘其要領稍為辨正所以補蒼崖之<lb/>
+　　　　缺云云蒼崖者元潘昂霄之號此書盖補其<lb/>
+　　　　金石例之所遺者也所収如比干銅槃銘出<lb/>
+　　　　王球嘯堂集古録乃宋人偽作夏侯嬰石槨<lb/>
+　　　　銘出呉均西京雜記亦齊梁人影撰引為證<lb/>
+　　　　佐未免失考又據孫何碑觧論碑非文章之<lb/>
+<pb n="KR4i0057_WYG_000-2a"/>
+　　　　名不知劉勰文心雕龍已列此目如樂府本<lb/>
+　　　　官署之名而相沿既久無不稱歌詞為樂府<lb/>
+　　　　者宗羲必䋲以古義亦未免太拘然宗羲於<lb/>
+　　　　文律本嫻其所考證實較昂霄原書為精宻<lb/>
+　　　　講金石之文者固不能不取裁于斯焉乾隆<lb/>
+　　　　四十二年八月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

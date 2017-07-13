@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>青城山人集</head>
+    <p>
+<pb n="KR4e0089_WYG_000-1a"/>
+欽定四庫全書　　　　　集部六<lb/>
+　青城山人集　　　　　　别集類五<hi>明</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹按青城山人集八巻明王燧撰燧字<lb/>
+　　　　汝玉長洲人洪武中舉浙江鄉試以薦攝府<lb/>
+　　　　學教授改應天訓導擢翰林五經博士官至<lb/>
+　　　　春坊贊善洪熙初贈太子賔客諡文靖所著<lb/>
+　　　　詩稿在當日已多散佚正統十二年其孫鏜<lb/>
+<pb n="KR4e0089_WYG_000-1b"/>
+　　　　始裒次為編其婣家華靖刪定為八巻即此<lb/>
+　　　　本也朱彛尊靜志居詩話稱其詩不費𠖇索<lb/>
+　　　　斤斤唐人之調呉人徐用理集永樂後詩家<lb/>
+　　　　三百三十人以燧壓巻今觀其詩音節色澤<lb/>
+　　　　皆力摹古格頗近於髙棅林鴻一派誠有擬<lb/>
+　　　　議而不能變化之嫌然當元之季詩格靡麗<lb/>
+　　　　往往體近填詞燧能毅然以六代三唐為模<lb/>
+　　　　楷亦卓然特立之士又不得以後來王李之<lb/>
+<pb n="KR4e0089_WYG_000-2a"/>
+　　　　流弊預繩明初人矣乾隆四十二年五月恭<lb/>
+　　　　校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="KR4e0089_WYG_000-3a"/>
+青城山人集原序<lb/>
+余弱冠時已聞青城王先生刻厲於詩之名矣及遊京<lb/>
+師獲拜先生於給事中天台蔣君所辱先生不以後生<lb/>
+待余而與之進頃之蔣君以送宋侍書歸金華詩求於<lb/>
+先生先生即伸巻濡墨題曰少小離鄉國歸時及壯年<lb/>
+三巴百指住萬里一家全青瑣榮新秩金華復舊田聖<lb/>
+恩何以報晚節保貞堅題竟即擲筆而去予時異先生<lb/>
+於詩不涉搆思才之敏句之新也有如此而不負昔之<lb/>
+<pb n="KR4e0089_WYG_000-3b"/>
+所聞也矣兹呉門華君彚粹先生之詩凡若干巻欲命<lb/>
+工以鍥於梓徴予序其首簡惟詩為文之至精者也發<lb/>
+乎情性而止乎禮義夫豈可易言者哉故知非賦禀清<lb/>
+明才趣超踔之士不足以語此若先生者自少負聰明<lb/>
+特達之資才清趣㓗宜其平日之詩之文輙與海内作<lb/>
+者齊驅而並駕間有或之而先者也若兹集不淪虚寂<lb/>
+不流靡漫洋洋乎渢渢乎縁情指事駕蘓李而凌元白<lb/>
+其慨而不激直而不肆殊得詩人温柔敦厚之㫖誠不<lb/>
+<pb n="KR4e0089_WYG_000-4a"/>
+負為一代之名家也兹辱華君之請序顧余之昏庸膚<lb/>
+陋奚足以當特念不拜先生者垂五十年餘因覩斯集<lb/>
+而感慨係之姑强言以弁其端者用識予景仰之私云<lb/>
+爾先生名璲字汝玉姑蘇人青城其號也官至右春坊<lb/>
+右贊善兼翰林院檢討贈太子賔客謚文靖華君名靖<lb/>
+字彦謀讀書惇行士也以先生沒而欲不沒先生之善將<lb/>
+刋是集以行於世亦可見其為人云故併序之景泰元<lb/>
+年八月初吉資善大夫南京吏部尚書蕭山魏驥書<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

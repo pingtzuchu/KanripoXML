@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>分門古今𩔖事縂目</head>
+    <p>
+<pb n="KR3l0119_WYG_000-1a"/>
+欽定四庫全書　　　　　子部十二<lb/>
+　分門古今𩔖事縂目　　　小説家𩔖二<hi>異聞之屬</hi>
+　　卷一<lb/>
+　　　帝王運兆門上<lb/>
+　　卷二<lb/>
+　　　帝王運兆門下<lb/>
+　　卷三<lb/>
+　　　異兆門上<lb/>
+<pb n="KR3l0119_WYG_000-1b"/>
+　　卷四<lb/>
+　　　異兆門中<lb/>
+　　卷五<lb/>
+　　　異兆門下<lb/>
+　　卷六<lb/>
+　　　夢兆門上<lb/>
+　　卷七<lb/>
+　　　夢兆門中<lb/>
+<pb n="KR3l0119_WYG_000-2a"/>
+　　卷八<lb/>
+　　　夢兆門下<lb/>
+　　卷九<lb/>
+　　　相兆門上<lb/>
+　　卷十<lb/>
+　　　相兆門下<lb/>
+　　卷十一<lb/>
+　　　卜兆門上<lb/>
+<pb n="KR3l0119_WYG_000-2b"/>
+　　卷十二<lb/>
+　　　卜兆門下<lb/>
+　　卷十三<lb/>
+　　　䜟兆門上<lb/>
+　　卷十四<lb/>
+　　　䜟兆門下<lb/>
+　　卷十五<lb/>
+　　　祥兆門<lb/>
+<pb n="KR3l0119_WYG_000-3a"/>
+　　卷十六<lb/>
+　　　婚兆門<lb/>
+　　卷十七<lb/>
+　　　墓兆門<lb/>
+　　卷十八<lb/>
+　　　雜誌門<lb/>
+　　卷十九<lb/>
+　　　為善而增門<lb/>
+<pb n="KR3l0119_WYG_000-3b"/>
+　　卷二十<lb/>
+　　　為惡而削門<lb/>
+　　　　<hi>臣</hi>等謹案分門古今𩔖事二十卷不著撰人<lb/>
+　　　　姓名宋史藝文志亦未著録卷首題蜀本二<lb/>
+　　　　字葢宋時四川書肆刋行之本第八卷内載<lb/>
+　　　　有先大夫龍泉夢記一篇末署政和七年三<lb/>
+　　　　月宋如璋記記中自稱崇寧乙酉拔漕解次<lb/>
+　　　　年叨第是如璋本蜀士嘗舉進士入官其作<lb/>
+<pb n="KR3l0119_WYG_000-4a"/>
+　　　　此書者即如璋之子故書中稱如璋為先大<lb/>
+　　　　夫特前後無序跋其名已不可復考矣書分<lb/>
+　　　　十二𩔖凡帝王運兆門二卷異兆門三卷夢<lb/>
+　　　　兆門三卷相兆門二卷卜兆門二卷讖兆門<lb/>
+　　　　二卷祥兆門一卷婚兆門一卷墓兆門一卷<lb/>
+　　　　雜誌門一卷為善而增門一卷為惡而削門<lb/>
+　　　　一卷大㫖在徵引故事以明事有定數無容<lb/>
+　　　　妄覬而又推及於天人感應之捷以著惠廸<lb/>
+<pb n="KR3l0119_WYG_000-4b"/>
+　　　　吉從逆凶之所以然雖採摭叢瑣不無涉於<lb/>
+　　　　誕幻而警發世俗意頗切至葢亦前定録樂<lb/>
+　　　　善録之𩔖且其書成於南渡之初中間所引<lb/>
+　　　　如成都廣記該聞集廣徳神異録唐宋遺史<lb/>
+　　　　賔仙傳蜀異記搢紳脞説靈驗記靈應集等<lb/>
+　　　　諸書皆後世所不傳亦可以資博識之助故<lb/>
+　　　　存之以備小説家之一種焉乾隆四十三年<lb/>
+　　　　六月恭校上<lb/>
+<pb n="KR3l0119_WYG_000-5a"/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_378-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選巻三百七十九<lb/>
+　　黄精類<lb/>
+　　　五言古<lb/>
+　　　　餌黄精　　　　　　　　　<hi>唐</hi>韋應物<lb/>
+　靈藥出西山服食採其根九蒸換凡骨經著上世言候<lb/>
+　火起中夜馨香滿南軒齋居感衆靈藥術啟妙門自懐<lb/>
+　物外心豈與俗士論終期脫印綬永與天壤存<lb/>
+<pb n="KR4h0141_WYG_378-1b"/>
+　　　　再賦天池　　　　　　　　<hi>元</hi>張　雨<lb/>
+　巃嵸古墩丘泓潭浸其股金碧爭蕩磨穿穴稍旁午斬<lb/>
+　松羅石榻𤣥芝錯神滸遥應玉女盆潤及黄精圃<lb/>
+　　　七言絶句<lb/>
+　　　　期王鍊師不至　　　　　　<hi>唐</hi>秦　系<lb/>
+　黄精蒸罷洗瓊杯林下從留石上苔昨日圍碁未終局<lb/>
+　已乗白鶴下山来<lb/>
+　　　　寄王奉御　　　　　　　　<hi>唐</hi>張　籍<lb/>
+<pb n="KR4h0141_WYG_378-2a"/>
+　愛君紫閣峯前好新作書堂藥竈成見欲移居相近住<lb/>
+　有田多與種黄精<lb/>
+　　　　黄精鹿<hi>書艾宣畫</hi>　　　　　<hi>宋</hi>蘇　軾<lb/>
+　太華西南第幾峯落花流水自重重幽人只採黄精去<lb/>
+　不見青山鹿養茸<lb/>
+　　　　雪曉懐西清田舍　　　　　<hi>明</hi>楊承鯤<lb/>
+　種来黄獨巳如拳手劚氷膚煮澗泉酒醒雪晴無一事<lb/>
+　竹窓炊火送新煙<lb/>
+<pb n="KR4h0141_WYG_378-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選巻三百七十九<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

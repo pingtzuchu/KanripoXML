@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4c0005_SBCK_000-1a"/>
+幽憂子集題詞<lb/>
+古今文士竒窮未有如盧昇之<lb/>
+之甚者夫其仕宦不逹則亦已<lb/>
+耳沉疴永痼無復聊頼至自投<lb/>
+魚腹中古来膏肓無此死法也<lb/>
+昇之方始寝瘵自以僊方爲必<lb/>
+<pb n="KR4c0005_SBCK_000-1b"/>
+可期嘗遇異人授以大丹㑹邅<lb/>
+父䘮躃踴號慟丹輒吐出而疾<lb/>
+轉増倫常之際天性之篤有足<lb/>
+憐者母老身廢仰給交知如鄰<lb/>
+舍隙光詎易長燃竊謂天地大<lb/>
+矣無所不有或儷景争暉或埋<lb/>
+<pb n="KR4c0005_SBCK_000-2a"/>
+烟剜骨或百靈供其驅遣或四<lb/>
+大無以自容脆漏偶邅勢必任<lb/>
+受無䖏訴屈安得以㨗足笑跛<lb/>
+譏彼蹣<graphic n="KR1552" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1552.png" mimeType="image/png"/>自貽坑塹㢤早嵗秩<lb/>
+滿棲遅山水間比疾篤買園繞<lb/>
+水舎下又豫為墓依稀逹人之<lb/>
+<pb n="KR4c0005_SBCK_000-2b"/>
+風若夫馴鳶病梨之賦五悲釋<lb/>
+疾之文筆端尚存曷禁輸寫乃<lb/>
+持議者訝其不能義命自安亦<lb/>
+太甚矣因梓昇之集而詳掲之<lb/>
+　　　石户主人張爕題<lb/>
+<pb n="KR4c0005_SBCK_000-3a"/>
+幽憂子集七卷<hi>張爕識</hi>
+<hi>僅二卷今彚詩文共七卷盧照鄰本傳存二十卷近代永嘉单行詩賦</hi>
+　　叅訂諸名公姓氏<lb/>
+　　　　　　　　姚江施邦曜爾韜<lb/>
+　　　　　　　　梁谿曹　荃元宰定<lb/>
+　　　　　　　　㑹稽曹惟才無奇<lb/>
+　　　　　　　　甬東楊德周南仲較<lb/>
+　　　　　　　　三山徐　<graphic n="KR0958" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0958.png" mimeType="image/png"/>興公<lb/>
+　　　　　　　　　　曹學佺能始<lb/>
+<pb n="KR4c0005_SBCK_000-3b"/>
+</p>
+<p>
+　　　　　　　　閩漳王志道而弘<lb/>
+　　　　　　　　　　盧化鰲爾騰<lb/>
+　　　　　　　　　　黃道周幼玄<lb/>
+　　　　　　　　　　魏呈潤中嚴<lb/>
+　　　　　　　　溫陵池顯方直夫<lb/>
+　　　　　　　　　弟張紹科烴叔閲<lb/>
+<pb n="KR4c0005_SBCK_000-4a"/>
+幽憂子集目錄<lb/>
+　卷之一<lb/>
+　　賦<lb/>
+　　　秋霖賦　馴鳶賦<lb/>
+　　　窮魚賦<hi>并序</hi>
+　　　䨇槿樹賦<hi>同崔少監作并序</hi>
+　　　病梨樹賦<lb/>
+　　五言古詩<lb/>
+　　　詠史四首<lb/>
+<pb n="KR4c0005_SBCK_000-4b"/>
+　　　結客少年塲行<lb/>
+　　　贈李榮道士　早度分水嶺<lb/>
+　　　三月曲水宴得樽字<lb/>
+　　　　王勃和詩得煙字附<lb/>
+　　　奉使益州至長安發鍾陽驛<lb/>
+　　　和王奭秋夜有所思<lb/>
+　　　望宅中樹有所思<lb/>
+　　　宿晉安寺<lb/>
+　　　干時春也慨然有江湖之思寄此贈柳<lb/>
+<pb n="KR4c0005_SBCK_000-5a"/>
+　　　九隴<lb/>
+　　　至望喜矚目言懐貽劍外知巳<lb/>
+　　　赤谷安禪師塔<lb/>
+　　　贈益府裴錄事　贈益府群官<lb/>
+　卷之二<lb/>
+　　七言古詩<lb/>
+　　　失羣鴈<hi>并序</hi>行路難<lb/>
+　　　長安古意<lb/>
+　　　明月引　懐仙引<lb/>
+<pb n="KR4c0005_SBCK_000-5b"/>
+　　五言律<lb/>
+　　　劉生　隴頭水<lb/>
+　　　巫山高　芳樹<lb/>
+　　　雨雪曲　昭君怨<lb/>
+　　　折楊柳　梅花落<lb/>
+　　　關山月　上之囬<lb/>
+　　　紫騮馬　戰城南<lb/>
+　　　十五夜觀燈　入秦川界<lb/>
+　　　文翁講堂　相如琴䑓<lb/>
+<pb n="KR4c0005_SBCK_000-6a"/>
+　　　石鏡寺<lb/>
+　　　<graphic n="KR0605" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0605.png" mimeType="image/png"/>法司宅觀妓<lb/>
+　　　春晚山荘率題二首<lb/>
+　　　江中望月　元日述懐<lb/>
+　　　益州城西張超亭觀妓<lb/>
+　　　還京贈别<lb/>
+　　　至陳倉曉晴望京邑<lb/>
+　　　晚渡滹沱敬贈魏大<lb/>
+　　　和吳侍御被使燕然<lb/>
+<pb n="KR4c0005_SBCK_000-6b"/>
+　　　七夕泛舟二首<lb/>
+　　　送梓州髙叅軍還京<lb/>
+　　　大劒送别劉右史<lb/>
+　卷之三<lb/>
+　　五言排律<lb/>
+　　　同臨津紀明府孤鴈<lb/>
+　　　西使兼送孟學士南逰<lb/>
+　　　送鄭司倉入蜀<lb/>
+　　　綿州官池贈别同賦灣字<lb/>
+<pb n="KR4c0005_SBCK_000-7a"/>
+　　　還赴蜀中貽示京邑逰好<lb/>
+　　　初夏日幽莊　山莊休沐<lb/>
+　　　山林休日田家<lb/>
+　　　宴梓州南亭得池字<lb/>
+　　　山行寄劉李二叅軍<lb/>
+　　　首春貽京邑文士<lb/>
+　　　贈許左丞從駕萬年宫<lb/>
+　　　晚渡渭橋寄示京邑逰好<lb/>
+　　　覊臥山中<lb/>
+<pb n="KR4c0005_SBCK_000-7b"/>
+　　　酬張少府柬之<lb/>
+　　　過東山谷口<lb/>
+　　　送幽州陳叅軍赴任寄呈鄕曲父老<lb/>
+　　　哭金部韋郞中<lb/>
+　　　哭明堂裴簿<lb/>
+　　　同崔錄事哭鄭員外<lb/>
+　　五言絶句<lb/>
+　　　登玉淸　曲池荷<lb/>
+　　　浴浪烏　臨堦竹<lb/>
+<pb n="KR4c0005_SBCK_000-8a"/>
+　　　含風蟬　葭川獨泛<lb/>
+　　　送二兄入蜀　宿玄武二首<lb/>
+　　　九隴津集　逰昌化山精舍<lb/>
+　　七言絶句<lb/>
+　　　豋封大酺歌四首<lb/>
+　　　九月九日豋玄武山旅眺<lb/>
+　　　　王勃九月九日登玄武山附<lb/>
+　　　　邵大震九月九日登玄武山附<lb/>
+　　樂歌<lb/>
+<pb n="KR4c0005_SBCK_000-8b"/>
+　　　中和樂九章<lb/>
+　　　　登封第一　明堂第二<lb/>
+　　　　東軍第三　南郊第四<lb/>
+　　　　中宮第五　儲宮第六<lb/>
+　　　　諸王第七　公卿第八<lb/>
+　　　　總歌第九<lb/>
+　卷之四<lb/>
+　　騷<lb/>
+　　　五悲<hi>并序</hi>
+<pb n="KR4c0005_SBCK_000-9a"/>
+　　　獄中學騷體<lb/>
+　卷之五<lb/>
+　　騷<lb/>
+　　　釋疾<hi>并序</hi>
+　卷之六<lb/>
+　　序<lb/>
+　　　駙馬都尉喬君集序<lb/>
+　　　南陽公集序<lb/>
+　　　樂府雜詩序<lb/>
+<pb n="KR4c0005_SBCK_000-9b"/>
+</p>
+<p>
+　　　宴梓州南亭詩序<lb/>
+　　　宴鳳泉石翁神祠詩序<lb/>
+　　　七日綿州泛舟詩序<lb/>
+　　　楊明府過訪詩序<lb/>
+　　<graphic n="KR0863" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0863.png" mimeType="image/png"/>問<lb/>
+　　　<graphic n="KR0863" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0863.png" mimeType="image/png"/>蜀父老問<lb/>
+　卷之七<lb/>
+　　書<lb/>
+　　　與在朝諸賢書<lb/>
+<pb n="KR4c0005_SBCK_000-10a"/>
+　　　與洛陽名流朝士乞藥直書<lb/>
+　　　寄裴舎人諸公遺衣藥直書<lb/>
+　　讚<lb/>
+　　　相樂夫人檀龕讚<lb/>
+　　　益州長史胡樹禮爲亾女造畵讚<lb/>
+　　碑<lb/>
+　　　益州至眞觀主黎君碑<lb/>
+　　附錄<lb/>
+　　　盧照隣小傳　晉劉　昫<lb/>
+<pb n="KR4c0005_SBCK_000-10b"/>
+　　　盧照隣小傳　宋宋　祁<lb/>
+　　　豔情代郭氏答盧照隣<lb/>
+　　　　　　　　　　　　唐駱賓王<lb/>
+　　　遣事　集評<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

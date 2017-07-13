@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>道園遺稿</head>
+    <p>
+<pb n="KR4d0494_WYG_000-1a"/>
+欽定四庫全書　　　　　集部五<lb/>
+　道園遺稿　　　　　　　别集類四<hi>元</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案道園遺稿六卷元虞集撰集平生<lb/>
+　　　　所為文凡萬餘篇門人李本編為道園學古<lb/>
+　　　　録五十卷有劉基所刻大字本又有烏克章<lb/>
+　　　　所刻建寧本後人又編其詩文曰道園類稿<lb/>
+　　　　與學古録互有出入此遺稿一編則其從孫<lb/>
+<pb n="KR4d0494_WYG_000-1b"/>
+　　　　堪補輯也凡古律詩七百四十一篇附以樂<lb/>
+　　　　府刻于至正十四年其中有類稿已載者百<lb/>
+　　　　餘篇而類稿所無者尚五百餘篇集之詩文<lb/>
+　　　　為有元一代冠冕而稿多散佚當李本編學<lb/>
+　　　　古録時已有泰山一豪芒之歎堪續加蒐訪<lb/>
+　　　　用心甚勤雖不能搜括無遺然其掛漏者亦<lb/>
+　　　　已少矣又考黄溍序學古録以為集所手編<lb/>
+　　　　而此書前有至正已亥眉山楊椿序以為集<lb/>
+<pb n="KR4d0494_WYG_000-2a"/>
+　　　　季子翁歸及其門人所編與李本序合葢集<lb/>
+　　　　母楊氏為衡陽守楊文仲之女楊椿即其外<lb/>
+　　　　家後人其言自當無誤亦可證黄溍所云之<lb/>
+　　　　不足據也虞堪字克用一字勝伯隠居長洲<lb/>
+　　　　明洪武中嘗為雲南府學教授好學有文所<lb/>
+　　　　著有鼓枻稿已别著録云乾隆四十六年九<lb/>
+　　　　月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+<pb n="KR4d0494_WYG_000-2b"/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="KR4d0494_WYG_000-3a"/>
+道園遺稿序<lb/>
+自昔文章家著述之盛其集有内外前後續别之分葢<lb/>
+由其體製有同異嵗月有早暮故其編纂彚次之法各<lb/>
+有所存然其文之可傳者雖片言半簡皆不得而棄置<lb/>
+又復有所謂拾遺者焉國朝一代文章家莫盛於閣學<lb/>
+蜀郡虞公公之詩文曰道園學古錄者其類目皆公手<lb/>
+所編定天下學者既已家傳而人誦之矣然其散逸遺<lb/>
+落者猶不可勝計也其從孫堪乃為博加討訪積累之<lb/>
+<pb n="KR4d0494_WYG_000-3b"/>
+久得古律詩七百四十一篇而呉郡金君伯祥為鋟諸<lb/>
+梓是編之傳其殆所謂拾遺者乎予嘗獲執筆從公之<lb/>
+後而竊誦公之詩以為國朝之宗工碩生後先林立其<lb/>
+於詩尤長者如公及臨江范公葢不可一二數也學者<lb/>
+讀乎是編則知其殘膏賸馥所以沾丐後人者多矣今<lb/>
+公已不可復作予是以三復是編而為之永慨也抑公<lb/>
+平生所為文無慮萬餘篇今道園錄中所載不啻十之<lb/>
+三四而已然則并加討訪而使之盡傳焉豈非堪之志<lb/>
+<pb n="KR4d0494_WYG_000-4a"/>
+而予之所深望者乎是故昌黎之集成於門人河東之<lb/>
+集託於朋友惟廬陵歐陽公之集其嗣人能致其力焉<lb/>
+若堪之汲汲於此其亦可以無愧於歐陽氏矣堪字克<lb/>
+用<hi>一字勝伯</hi>好學有文能世其家而公之行能官伐已具於<lb/>
+歐陽内翰所為碑銘兹不著至正二十年正月十日金<lb/>
+華黄溍序<lb/>
+<pb n="KR4d0494_WYG_000-5a"/>
+先叔祖學士虞公詩文有道園學古錄翰林珠玉等編<lb/>
+已行於世然竊讀之每慮其有所遺落凡南北士夫間<lb/>
+輙為蒐獵求之累年始得詩章七百餘首皆章章在人<lb/>
+耳目及得之親筆者葢懼其以偽亂真故不敢不為之審<lb/>
+擇也惟先叔祖鴻文鉅筆著在天下家傳人誦其大篇<lb/>
+大什諸編蓋已得其八九此蓋拾遺補缺庶免有湮沒<lb/>
+之嘆方類聚成編以便觀覽而吾友金伯祥乃必用夀<lb/>
+諸梓以廣其傳命其子鏐書以入刻伯祥之施不其永<lb/>
+<pb n="KR4d0494_WYG_000-5b"/>
+耶外有雜文諸賦尚有俟于他日云至正十四年五月<lb/>
+甲子從孫堪百拜謹識<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

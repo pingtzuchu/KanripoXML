@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>八旗滿洲氏族通譜目録</head> <lb/>
+    <p>
+<pb n="KR2g0044_WYG_049-1a"/>
+欽定四庫全書<lb/>
+　八旗滿洲氏族通譜目録<lb/>
+　　卷二十四<lb/>
+　　輝發地方納喇氏<lb/>
+　　　通貴　　　　　　　薩碧圗<lb/>
+　　　莽科　　　　　　　三檀<lb/>
+　　　博爾濟　　　　　　碩色吳巴世<lb/>
+　　　屯泰　　　　　　　碩<lb/>
+<pb n="KR2g0044_WYG_049-1b"/>
+　　　蘇札庫　　　　　　阿鼐<lb/>
+　　　謨式　　　　　　　恩格徳<lb/>
+　　　伊哈那<lb/>
+　　　　　以上俱有𫝊<lb/>
+　　　額徳　　　　　　　葉普肯<lb/>
+　　　蘇巴泰　　　　　　瑚錫布<lb/>
+　　　吳喀　　　　　　　和順<lb/>
+　　　尼喀達　　　　　　額爾徳穆<lb/>
+<pb n="KR2g0044_WYG_049-2a"/>
+　　　吳什泰　　　　　　羅察<lb/>
+　　　喀爾喀瑪　　　　　温濟赫<lb/>
+　　　納秦　　　　　　　寛泰<lb/>
+　　　庫布輝　　　　　　璧桑阿<lb/>
+　　　鄂克遜　　　　　　托絡<lb/>
+　　　約唐阿　　　　　　圗碧赫<lb/>
+　　　徳啟訥　　　　　　伊喇布<lb/>
+　　　索渾　　　　　　　色資<lb/>
+<pb n="KR2g0044_WYG_049-2b"/>
+　　　薩哈廉　　　　　　雅爾布<lb/>
+　　　翁藹　　　　　　　曹桂<lb/>
+　　　鄂托巴彦<lb/>
+　　　　　以上俱附載<lb/>
+　　各地方納喇氏<lb/>
+　　　巴奇蘭　　　　　　懇<lb/>
+　　　奇排達爾漢　　　　扎拉庫哈思瑚<lb/>
+　　　多博諾　　　　　　哈克薩哈<lb/>
+<pb n="KR2g0044_WYG_049-3a"/>
+　　　瑚錫布　　　　　　納林<lb/>
+　　　勒殷　　　　　　　徹臣<lb/>
+　　　岱達　　　　　　　拖圗<lb/>
+　　　博徳訥　　　　　　阿庫密<lb/>
+　　　佟那宻　　　　　　英安<lb/>
+　　　鼐庸伊<lb/>
+　　　　　以上俱有𫝊<lb/>
+　　　達齊納　　　　　　岱都<lb/>
+<pb n="KR2g0044_WYG_049-3b"/>
+　　　尼喀理　　　　　　齊努渾<lb/>
+　　　殷塔　　　　　　　和穆多<lb/>
+　　　席伯　　　　　　　察庫<lb/>
+　　　布顔　　　　　　　達密善<lb/>
+　　　吳爾齊海　　　　　鼐格<lb/>
+　　　莽健　　　　　　　顔錫<lb/>
+　　　達禮瑚　　　　　　巴顔<lb/>
+　　　常武　　　　　　　西喇渾<lb/>
+<pb n="KR2g0044_WYG_049-4a"/>
+　　　掖　　　　　　　　洪果爾岱<lb/>
+　　　齊瑪庫　　　　　　謨爾渾<lb/>
+　　　董錫庫　　　　　　翁果托<lb/>
+　　　南都理　　　　　　阿郎阿<lb/>
+　　　元泰　　　　　　　索爾蓀<lb/>
+　　　外圖　　　　　　　渾塔<lb/>
+　　　海鼐　　　　　　　金特<lb/>
+　　　尼瑪善　　　　　　碩禮喀<lb/>
+<pb n="KR2g0044_WYG_049-4b"/>
+　　　碩色　　　　　　　阿克瞻<lb/>
+　　　衮善　　　　　　　二格<lb/>
+　　　泰布　　　　　　　察海<lb/>
+　　　對喀那　　　　　　額爾格圗<lb/>
+　　　確爾那　　　　　　福徳理<lb/>
+　　　台禮　　　　　　　漢儀布吉<lb/>
+　　　采柱　　　　　　　賴色<lb/>
+　　　和拖　　　　　　　伍什<lb/>
+<pb n="KR2g0044_WYG_049-5a"/>
+　　　薩穆哈　　　　　　吳瑚訥<lb/>
+　　　阿爾那　　　　　　武達哈<lb/>
+　　　安珠瑚　　　　　　和敏<lb/>
+　　　杭什庫　　　　　　徳保<lb/>
+　　　渾岱　　　　　　　珠爾泰<lb/>
+　　　渾齊理　　　　　　喀喀<lb/>
+　　　鄂謨克托<lb/>
+　　　　　以上俱附載<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

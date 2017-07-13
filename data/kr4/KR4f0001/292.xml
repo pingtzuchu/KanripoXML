@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4f0001_WYG_292-1a"/>
+　欽定四庫全書<lb/>
+聖祖仁皇帝御製文第三集巻四十八目錄<lb/>
+　　古今體詩三十七首<lb/>
+　　　　元旦朝罷<lb/>
+　　　　甲申春謁<lb/>
+　陵回鑾路經盤山有僧智朴呈接駕詩即用原韻二首<lb/>
+　　　　春雪晴望<lb/>
+　　　　康熙四十二年夏秋間恒雨為菑山左尤甚朕<lb/>
+<pb n="KR4f0001_WYG_292-1b"/>
+　　　　　夙夜靡寧宵旰焦勞減膳撤樂坐不安席自<lb/>
+　　　　　冬至夏自夏至秋未嘗晷刻少安雖設法拯<lb/>
+　　　　　救㡬乎難保幸四十三年二麥大熟秋成頗<lb/>
+　　　　　佳饑者未轉溝壑窮者皆得衣食實非朕之<lb/>
+　　　　　凉徳所感賴上天之所鑒祐也故喜而不寐<lb/>
+　　　　　作長歌以示<lb/>
+　　　　山莊書懷賜大學士<lb/>
+　　　　詠醫<lb/>
+<pb n="KR4f0001_WYG_292-2a"/>
+　　　山菊藍雀花<lb/>
+　　　靜坐偶成<lb/>
+　　　賦得霜葉紅於二月花<lb/>
+　　　看運河建壩處<lb/>
+　　　題邊景昭鳴禽圖<lb/>
+　　　翰林魏學誠該直命大學士陳廷敬出題考得<lb/>
+　　　　四方無事太平年朕喜其句而偶成四韻<lb/>
+　　　立冬微雨雪偶成<lb/>
+<pb n="KR4f0001_WYG_292-2b"/>
+　　　冬月微雨聞落葉<lb/>
+　　　燈月文房戲作<lb/>
+　　　園中十種葡萄味甚甘美戲作近體一律以示<lb/>
+　　　　南書房諸臣<lb/>
+　　　乏良醫<lb/>
+　　　冬晴<lb/>
+　　　題閩粤進貢小香荔枝<lb/>
+　　　題墨竹<lb/>
+<pb n="KR4f0001_WYG_292-3a"/>
+　　　詠燈<lb/>
+　　　賦得梅雪爭春<lb/>
+　　　臘日<lb/>
+　　　季冬南苑十首<lb/>
+　　　南苑晩雪<lb/>
+　　　總兵劉漢業補授肅州因地逺職重特書御製<lb/>
+　　　　詩絶句一首賜之以奬武職惜兵愛民之意<lb/>
+　　　　也<lb/>
+<pb n="KR4f0001_WYG_292-3b"/>
+　　　除夕晩宴<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

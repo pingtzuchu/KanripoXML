@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>蓮洋詩鈔巻六</head> <lb/>
+    <p>
+<pb n="KR4f0033_WYG_006-1a"/>
+欽定四庫全書<lb/>
+　蓮洋詩鈔巻六<lb/>
+　　　　　　　　　　　　　　蒲州吳雯撰<lb/>
+　五絶<lb/>
+　　野渡<lb/>
+野渡添秋水危橋一線通臨深能自力終不汙泥中<lb/>
+　　渡河<lb/>
+曲岸鴛鴦穩囬村荻葦秋傷心今昔事不肯付東流<lb/>
+<pb n="KR4f0033_WYG_006-1b"/>
+　　寳公<lb/>
+拙龍千柱少巧鳩一柴足忽罷滏陽工西山坐茅屋<lb/>
+　　卦山四首<hi>録一首</hi>
+石路何盤盤老栢一萬樹風吹栢子烟引入繙經處<lb/>
+　　團雲寺即事以空山不見人但聞人語響為韻十<lb/>
+　　首<hi>寺在山海闗  録一首</hi>
+危坐傍東巖衣襵縁蒼䑕恰到㑹心時前峰對無語<lb/>
+　　同雷道生昆仲晩眺<lb/>
+<pb n="KR4f0033_WYG_006-2a"/>
+沙苑晴無風金光乍明滅蒼茫河渭間人家在春雪<lb/>
+　　題孟氏山堂<lb/>
+彈琴坐風柳明月臨髙臺新凉破清曉一一水花開<lb/>
+　　再過山堂三首<hi>録一首</hi>
+新荷滿清池屈曲朱䦨靜波光曉鏡開半入垂楊影<lb/>
+　　題梅淵公黄山畫冊八首為陳子文<hi>録二首</hi>
+懶雲横山腰怒雲起山足千道百道泉一間兩間屋<lb/>
+碧玉作屏風蒼蒼沉落照孤亭阻白雲終古無人到<lb/>
+<pb n="KR4f0033_WYG_006-2b"/>
+　　潁川宿公㦷先生書屋<lb/>
+北風無停時聲動萬竿竹凄然聼已悲况是他鄉宿<lb/>
+　　邯鄲歌<lb/>
+暮踏邯鄲月曉踏邯鄲塵邯鄲朝復暮不見邯鄲人<lb/>
+　　懐子文<lb/>
+鹿脯曽留帖鵞羣更頌書還經王母廟不饌錦江魚<hi>初子</hi>
+<hi>文傳轉蜀餉</hi>
+　　晩春五絶句<hi>録一首</hi>
+<pb n="KR4f0033_WYG_006-3a"/>
+鸂鶒交前浦鴛鴦過别灘莫因風雨惡吹動釣魚竿<lb/>
+　　見山色不斷口號<lb/>
+芳草正萋萋垂楊絲不齊青山如送客直過鴈門西<lb/>
+　　過子覲不值云在宫東酒肆二首<hi>録一首</hi>
+行行緑隂下禽聲隔溪水一片華山雲吹入宫槐裏<lb/>
+　　送張翼雲之馬首兼語續方山之游二首<hi>録一首</hi>
+春雨濕桃花匹馬花中去若過神福山為禮繙經處<lb/>
+　　出都别友人二首<hi>録一首</hi>
+<pb n="KR4f0033_WYG_006-3b"/>
+匹馬青門外垂楊覆板橋莫傷摇落盡猶有最長條<lb/>
+　　出郭<lb/>
+出郭饒清事溪流一帶斜浮萍翻惱客一半是楊花<lb/>
+　　西溪<lb/>
+西溪清淺流洄洄雜菱荇白鳥忽飛來萍開見山影<lb/>
+　　謝亞夫先生送桂花醬<lb/>
+桂父昔食桂分此為清惠採得小山花釀作江南味<lb/>
+　　女朝汲<lb/>
+<pb n="KR4f0033_WYG_006-4a"/>
+郎行秋澗上妾行秋澗底秋澗濁水泥不入銀瓶裏<lb/>
+　　逰棲巖寺六首<hi>録一首</hi>
+危磴一百盤巖風蕩林藪滴瀝石門泉飛作人間雨<lb/>
+　　訪隱者不遇<lb/>
+白雲滿前山山門亂溪水幽人何處尋立久聞松子<lb/>
+　　和聞雁<lb/>
+月裏參差影風前次第聲清商天外落多少世人驚<lb/>
+　　懐山堂<lb/>
+<pb n="KR4f0033_WYG_006-4b"/>
+山中有草堂未得山中住白雲不讓人占盡讀書處<lb/>
+　　晩行山下<lb/>
+林深如風雨黄葉下山路日暮不逢人寒溪獨延佇<lb/>
+　　送張健一之魏郡三首<hi>録一首</hi>
+顛倒不成眠殘鐘天欲曙何事最闗人聞君濮陽去<lb/>
+　<lb/>
+　<lb/>
+　蓮洋詩鈔巻六<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

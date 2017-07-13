@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3j0020_WYG_006-1a"/>
+宋史本𫝊<lb/>
+李衡字彦平江都人髙祖昭素仕至侍御史衡幼善博<lb/>
+誦為文操筆立就登進士第授吴江主簿有部使者怙<lb/>
+勢作威侵刻下民衡不忍以敲扑迎合投劾於府拂衣<lb/>
+而歸後知溧陽専以誠意化民民莫不敬夏秋二稅以<lb/>
+期日榜縣門鄉無吏迹而輸送先它邑辦因任歴四年<lb/>
+獄戸未嘗繫一重囚隆興二年金犯淮堧人相驚曰寇<lb/>
+深矣官沿江多送其孥衡獨自浙右移家入縣民心大<lb/>
+<pb n="KR3j0020_WYG_006-1b"/>
+安盜蝟起旁邑而溧陽靖晏自如帥江澈轉運使韓元<lb/>
+吉等列上治状詔進一秩尋召入為監察御史歴司封<lb/>
+郎中樞宻院檢詳出知温婺台三州惟婺嘗涖其治加<lb/>
+直袐閣而衡引年乞身懇懇不休上累却其奏除秘閣<lb/>
+修撰致仕上思其忠樸旋召落致仕除侍御史以老固<lb/>
+辭不獲命差同知貢舉㑹外戚張説以節度使掌兵柄<lb/>
+衡力疏其事謂不當以母后肺腑為人擇官廷争移時<lb/>
+改除起居郎衡曰與其進而負於君孰若退而合於道<lb/>
+<pb n="KR3j0020_WYG_006-2a"/>
+章五上請老愈力上知不可奪仍以秘撰致仕時給事<lb/>
+中莫濟不書敕翰林周必大不草制右正言王希吕亦<lb/>
+與衡相繼論奏同時去國士為四賢詩以紀之衡後定<lb/>
+居崑山結茅别墅杖履徜徉左右惟二蒼頭聚書踰萬<lb/>
+卷號曰樂菴卒年七十九衡自宣和間入辟雍同舎有<lb/>
+趙孝孫者洛人也其父實師程頥家學有源勸衡讀論<lb/>
+語曰學非記誦辭章之謂所以學聖賢也不可有絲毫<lb/>
+偽實處方可以言學衡心佩其訓雖博通羣書而以論<lb/>
+<pb n="KR3j0020_WYG_006-2b"/>
+語為根本臨没沐浴冠櫛翛然而逝周必大聞之曰世<lb/>
+謂潜心釋氏乃能逹死生衡非逃儒入釋者而臨終超<lb/>
+然如此殆㡬孔門所謂聞道者與<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

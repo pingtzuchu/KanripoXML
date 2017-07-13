@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>本草綱目巻四十入目錄</head> <lb/>
+    <p>
+<pb n="KR3e0079_WYG_111-1a"/>
+欽定四庫全書<lb/>
+　本草綱目巻四十入目錄<lb/>
+　　禽之二　　　原禽類二十三種<hi>附一種</hi>
+　　　鷄<hi>本經</hi>
+　　　雉<hi>别錄</hi>
+　　　鸐雉<hi>食療雞即山</hi>
+　　　鷩雉<hi>拾遺雞即錦</hi>
+　　　鶡雞<hi>拾遺</hi>
+<pb n="KR3e0079_WYG_111-1b"/>
+　　　鷴<hi>圖經</hi>
+　　　鷓鴣<hi>唐本</hi>
+　　　竹鷄<hi>拾遺附杉鷄</hi>
+　　　英鷄<hi>拾遺</hi>
+　　　秧鷄<hi>食物</hi>
+　　　鶉<hi>嘉祐</hi>
+　　　鷃<hi>拾遺</hi>
+　　　鷸<hi>拾遺</hi>
+<pb n="KR3e0079_WYG_111-2a"/>
+　　　鴿<hi>嘉祐</hi>
+　　　突厥雀<hi>拾遺</hi>
+　　　雀<hi>别錄</hi>
+　　　蒿雀<hi>拾遺</hi>
+　　　巧婦鳥<hi>拾遺鷯即鷦</hi>
+　　　燕<hi>别錄</hi>
+　　　石燕<hi>日華</hi>
+　　　伏翼<hi>本經蝠即蝙</hi>
+<pb n="KR3e0079_WYG_111-2b"/>
+　　　䴎鼠<hi>本經生即飛</hi>
+　　　寒號蟲<hi>開寳脂即五靈</hi>
+　　　　右附方舊八十二新二百三十七<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　本草綱目巻四十八目録<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

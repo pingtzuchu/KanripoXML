@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>葬書</head>
+    <p>
+<pb n="KR3g0020_WYG_000-1a"/>
+欽定四庫全書　　　　　子部七<lb/>
+　葬書　　　　　　　　　術數類三<hi>相宅相墓之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案葬書一卷舊本題晉郭璞撰璞有<lb/>
+　　　　爾雅註已著録葬地之説莫知其所自來周<lb/>
+　　　　官冡人墓大夫之職稱皆以族葬是三代以<lb/>
+　　　　上葬不擇地之明證漢書藝文志形法家以<lb/>
+　　　　宮宅地形與相人相物之書並列則其數自<lb/>
+<pb n="KR3g0020_WYG_000-1b"/>
+　　　　漢始明然尚未專言葬法也後漢書袁安傳<lb/>
+　　　　載安父沒訪求葬地道逢三書生指一處當<lb/>
+　　　　世為上公安從之故累世貴盛是其術盛傳<lb/>
+　　　　於東漢以後其特以是擅名者則璞為最著<lb/>
+　　　　考璞本傳載璞從河東郭公受青囊中書九<lb/>
+　　　　卷遂洞天文五行卜筮之術璞門人趙載嘗<lb/>
+　　　　竊青囊書為火所焚不言其嘗著葬書唐末<lb/>
+　　　　有葬書地脈經一卷葬書五隂一卷又不言<lb/>
+<pb n="KR3g0020_WYG_000-2a"/>
+　　　　為璞所作惟宋志載有璞葬書一卷是其書<lb/>
+　　　　自宋始出其後方技之家競相粉飾遂有二<lb/>
+　　　　十篇之多蔡元定病其蕪雜為刪去十二篇<lb/>
+　　　　存其八篇吳澄又病蔡氏未盡藴奥擇至純<lb/>
+　　　　者為内篇精麤純駁相半者為外篇麤駁當<lb/>
+　　　　去而姑存者為雜篇新喻劉則章親受之吳<lb/>
+　　　　氏為之註釋今此本所分内篇外篇雜篇盖<lb/>
+　　　　猶吳氏之舊本至注之出於劉氏與否則不<lb/>
+<pb n="KR3g0020_WYG_000-2b"/>
+　　　　可考矣宋志本名葬書後來術家尊其説者<lb/>
+　　　　改名葬經毛晉汲古閣刻本亦承其譌殊為<lb/>
+　　　　失考今仍題舊名以從其朔焉乾隆四十六<lb/>
+　　　　年十月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

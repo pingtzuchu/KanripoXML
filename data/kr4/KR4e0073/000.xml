@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>練中丞集</head>
+    <p>
+<pb n="KR4e0073_WYG_000-1a"/>
+欽定四庫全書　　　　　集部六<lb/>
+　練中丞集　　　　　　别集類五<hi>明</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案練中丞集二巻明練子寜撰子寜<lb/>
+　　　　名安以字行號松月居士新淦人洪武乙丑<lb/>
+　　　　進士建文時官左副都御史燕兵入殉節死<lb/>
+　　　　事迹具明史本傳當燕王簒立之初誣建文<lb/>
+　　　　諸臣為姦黨禁其文字甚嚴宏治中王佐始<lb/>
+<pb n="KR4e0073_WYG_000-1b"/>
+　　　　輯其遺文名曰金川玉屑故徐泰詩説有金<lb/>
+　　　　川練子寜玉屑無多為世所寳之語此本乃<lb/>
+　　　　泰和郭子章重編附以遺事一巻其裔孫綺<lb/>
+　　　　復增輯之黄溥簡籍遺聞嘗記集中可疑者<lb/>
+　　　　三事一曰送花狀元歸娶詩謂洪武辛亥至<lb/>
+　　　　建文庚辰狀元但有呉伯宗丁顯任亨泰許<lb/>
+　　　　觀張信陳䢿胡靖七人無所謂狀元花綸綸<lb/>
+　　　　乃洪武十七年浙江鄉試第二不應有奉詔<lb/>
+<pb n="KR4e0073_WYG_000-2a"/>
+　　　　歸娶事一曰故耆老理庭黄公墓誌謂子寜<lb/>
+　　　　及第在洪武十八年此誌後題洪武丙辰三<lb/>
+　　　　月之吉乃洪武九年不應結銜稱賜進士及<lb/>
+　　　　第授翰林院修撰一曰集後雜考引葉盛水<lb/>
+　　　　東曰記載長樂鄭氏有手巻練子寜賦張顯<lb/>
+　　　　宗跋稱顯宗狀元及第洪武時亦無此狀元<lb/>
+　　　　其言頗核葢子寜一代偉人人争依託因而<lb/>
+　　　　影撰者有之然終不以偽廢其真也乾隆四<lb/>
+<pb n="KR4e0073_WYG_000-2b"/>
+　　　　十二年六月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

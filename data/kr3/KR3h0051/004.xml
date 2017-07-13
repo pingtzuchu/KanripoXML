@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3h0051_WYG_004-1a"/>
+寒山金石林甲乙表<hi>後論移甲下辛以便法書之次</hi>
+甲集　　字義部<hi>一</hi>
+乙之一　篆籀部<hi>二</hi>　<hi>古文/玉筯</hi>　<hi>大篆/艸篆</hi>　<hi>小篆/</hi>　<hi>繆篆</hi>
+　　二　歀識部<hi>三</hi>
+丙集　　符印部<hi>四</hi>　<hi>古款識/漢字法</hi>　<hi>先秦文虎符文</hi>
+　　三　分隸部<hi>五</hi>　<hi>八分/</hi>　<hi>徒隸</hi>
+丁之一　　小楷部<hi>六</hi>　二王小楷<hi>七</hi>
+　　二　眞書部<hi>八</hi>
+<pb n="KR3h0051_WYG_004-1b"/>
+戊之一　大書部<hi>九</hi>
+　　二　署書部<hi>附</hi>
+已之一　章草部<hi>十</hi>　二王章草<hi>十一</hi>
+　　二　行楷部<hi>十二</hi>二王行楷<hi>十三/</hi>蘭亭部<hi>十四</hi>
+　　三　行草部<hi>十五</hi>二王行草<hi>十六</hi>
+庚集　　狂草部<hi>十七</hi>
+辛之一　二王全帖部<hi>十八</hi>
+　　二　集王部<hi>十九</hi>冒王部<hi>二十</hi>
+<pb n="KR3h0051_WYG_004-2a"/>
+壬之一　書法部<hi>廿</hi>
+　　二　評鑒部<hi>廿二</hi>
+癸之一　千文部<hi>廿三</hi>
+　　二　類聚部<hi>廿四</hi>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

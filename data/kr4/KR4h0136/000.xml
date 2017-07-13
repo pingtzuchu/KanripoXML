@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>三家宫詞</head>
+    <p>
+<pb n="KR4h0136_WYG_000-1a"/>
+欽定四庫全書　　　　　集部八<lb/>
+　三家宫詞　　　　　　　總集類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案三家宫詞三巻明毛晉編晉有毛<lb/>
+　　　　詩草木鳥獸蟲魚疏廣要已著録三家者一<lb/>
+　　　　為唐王建一為蜀花蘂夫人一為宋王珪各<lb/>
+　　　　七言絶句一百首建集别著録其宫詞百首<lb/>
+　　　　舊刻雜入王昌齡長信秋詞一首劉禹錫魏<lb/>
+<pb n="KR4h0136_WYG_000-1b"/>
+　　　　宫詞二首白居易後宫詞一首張籍宫詞二<lb/>
+　　　　首杜牧秋夕作一首出宫人一首晉並考舊<lb/>
+　　　　本釐正花蘂夫人蜀孟昶妃費氏也宋熙寜<lb/>
+　　　　五年王安國檢校官書始得其手書於敝簏<lb/>
+　　　　紙中以語王安石王安石以語王珪馮京始<lb/>
+　　　　傳于世珪所撰華陽集明代巳佚今始以永<lb/>
+　　　　樂大典所載裒輯成帙惟此宫詞以别行之<lb/>
+　　　　本僅存而流俗傳寫誤以其中四十一首竄<lb/>
+<pb n="KR4h0136_WYG_000-2a"/>
+　　　　　入花蘂夫人詩中而移花蘂夫人詩三十九<lb/>
+　　　　　首屬之於珪又摭唐詩二首足之顛舛殊甚<lb/>
+　　　　　此本亦一一校改建贈王守澄詩有不是當<lb/>
+　　　　　家親向説九重争得外人知句雖一時刼制<lb/>
+　　　　　之詞而宫禁深嚴流傳𤨏事亦未必不出於<lb/>
+　　　　　若輩其語殆不盡誣費氏身備掖庭述所聞<lb/>
+　　　　　見珪出入禁闥歴仕四朝不出國門而至宰<lb/>
+　　　　　相耳濡目染亦異乎草野傳聞晉裒而編之<lb/>
+<pb n="KR4h0136_WYG_000-2b"/>
+　　　　　皆足以考當日之軼事不但取其詞之工也<lb/>
+　　　　　乾隆四十六年十二月恭校上<lb/>
+　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

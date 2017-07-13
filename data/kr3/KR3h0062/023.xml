@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3h0062_WYG_023-1a"/>
+欽定四庫全書<lb/>
+秘殿珠林卷十目録<lb/>
+　　貯<lb/>
+　乾清宫<lb/>
+　　　名人畫<lb/>
+　　釋氏圖卷次等<lb/>
+　　　宋劉松年畫五百羅漢圖一卷<lb/>
+　　　宋劉松年畫禮佛圖一卷<lb/>
+<pb n="KR3h0062_WYG_023-1b"/>
+　　　宋李公麟畫羅漢圖一卷<lb/>
+　　　宋李公麟畫阿羅漢圖一卷<lb/>
+　　　宋李公麟畫羅漢圖一卷<lb/>
+　　　宋李公麟畫羅漢圖一卷<lb/>
+　　　宋李公麟畫畨王禮佛圖一卷<lb/>
+　　　宋李公麟畫揭鉢圖一卷<lb/>
+　　　宋李公麟畫龍宫赴齋圖一卷<lb/>
+　　　宋李公麟畫十六應真圖一卷<lb/>
+<pb n="KR3h0062_WYG_023-2a"/>
+　　　宋李公麟畫渡海應真圖一卷<lb/>
+　　　宋僧梵隆畫游戲應真圖一卷<lb/>
+　　　宋僧海崙畫五十三叅圖一卷<lb/>
+　　　宋僧海崙畫五十三叅圖一卷<lb/>
+　　　宋僧海崙畫羅漢圖一卷<lb/>
+　　　宋僧海崙畫十八尊者圖一卷<lb/>
+　　　元顔輝畫羅漢圖一卷<lb/>
+　　　元趙孟頫畫蓮社圖一卷<lb/>
+<pb n="KR3h0062_WYG_023-2b"/>
+　　　元趙孟頫臨蓮社圖一卷<lb/>
+　　　元趙孟頫畫五百阿羅漢圖一卷<lb/>
+　　　元趙孟頫畫十六應真圖一卷<lb/>
+　　　元錢選畫石勒禮澄圖一卷<lb/>
+　　　明王徴鳯畫羅漢圖一卷<lb/>
+　　　明丁雲鵬畫羅漢圖一卷<lb/>
+　　　明丁雲鵬畫羅漢圖一卷<lb/>
+　　　明仇英畫羅漢圖一卷<lb/>
+<pb n="KR3h0062_WYG_023-3a"/>
+　　　明仇英畫羅漢圖一卷<lb/>
+　　　明仇英畫渡水羅漢圖一卷<lb/>
+　　　明仇英畫蓮社圖一卷<lb/>
+　　　明仇英畫大士三十二相一卷<lb/>
+　　　明馬徴仿李公麟龍女受經圖一卷<lb/>
+　　　明商喜畫羅漢渡海圖一卷<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

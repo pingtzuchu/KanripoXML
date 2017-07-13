@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>尊前集</head>
+    <p>
+<pb n="KR4j0063_WYG_000-1a"/>
+欽定四庫全書　　　　　集部十<lb/>
+　尊前集　　　　　　　　詞曲類二<hi>詞選之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案尊前集二巻原本不著撰人名氏<lb/>
+　　　　前有萬厯間嘉興顧梧芳序云余愛花間集<lb/>
+　　　　欲播傳之而余斯編第有類焉似即梧芳所<lb/>
+　　　　輯故毛晉亦謂梧芳採録名篇釐為二巻而<lb/>
+　　　　朱彞尊跋則謂於吳下得吳寛手抄本取顧<lb/>
+<pb n="KR4j0063_WYG_000-1b"/>
+　　　　本勘之詞人之先後樂章之次第靡有不同<lb/>
+　　　　因定為宋初人編輯考宋張炎樂府指迷曰<lb/>
+　　　　粤自隋唐以来聲詩間為長短句至唐人則<lb/>
+　　　　有尊前花間集似乎此書與花間集皆為五<lb/>
+　　　　代舊本然陳振孫書録解題歌詞類以花間<lb/>
+　　　　集為首注曰此近世倚聲填詞之祖而無尊<lb/>
+　　　　前集之名不應張炎見之而陳振孫不見彞<lb/>
+　　　　尊定為宋本亦未可盡憑疑以傳疑無庸強<lb/>
+<pb n="KR4j0063_WYG_000-2a"/>
+　　　　指且就詞而論原不失為花間之驂乗玩其<lb/>
+　　　　情采足資沾溉亦不必定求其人以實之也<lb/>
+　　　　乾隆四十六年正月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

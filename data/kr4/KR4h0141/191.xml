@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_191-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選卷一百九十一<lb/>
+　　笙類<lb/>
+　　　五言古<lb/>
+　　　　詠笙　　　　　　　　　　<hi>梁</hi>陸　罩<lb/>
+　管清羅袖拂響合絳唇吹含情應節轉逸態逐聲移所<lb/>
+　美周王子弄羽一參差<lb/>
+　　　　笙　　　　　　　　　　　<hi>梁</hi>沈　約<lb/>
+<pb n="KR4h0141_WYG_191-1b"/>
+　彼美實竒枝孤篠定參差鵾雞已啁哳棗下復林離本<lb/>
+　期王子宴寧待洛濱吹<lb/>
+　　　　笙　　　　　　　　　　　<hi>唐</hi>楊希道<lb/>
+　短長插鳳翼洪細摹鸞音能令楚妃歎復使荆王吟切<lb/>
+　切孤竹管来應雲和琴<lb/>
+　　　　嵩嶽聞笙　　　　　　　　<hi>唐</hi>劉希夷<lb/>
+　月出嵩山東月明山益空山人愛清景散髪卧秋風風<lb/>
+　止夜何清獨夜草蟲鳴仙人不可見乗月近吹笙絳唇<lb/>
+<pb n="KR4h0141_WYG_191-2a"/>
+吸靈氣玉指調眞聲眞聲是何曲三山鸞鶴情昔去落<lb/>
+塵俗願言聞此曲今来卧嵩岑何幸承幽音神仙樂吾<lb/>
+事笙歌銘夙心<lb/>
+　　七言古<hi>附長短句</hi>
+　　　鳳笙曲　　　　　　　　　<hi>梁</hi>武　帝<lb/>
+綠耀尅碧雕管笙朱脣玉指學鳳鳴流連參差飛且停<lb/>
+飛且停在鳳樓弄嬌響間清謳<lb/>
+　　　玉笙謡為鐵門笙伶周竒賦　<hi>元</hi>張　雨<lb/>
+<pb n="KR4h0141_WYG_191-2b"/>
+我有紫霞想愛聞白玉笙懸匏比竹無靈氣昆丘採此<lb/>
+十二莖鳳咮啣明珠鳳翼排素翎金華周郎妙宫徵子<lb/>
+晉仙人初教成月下吹參差羣雛亦和鳴緱氏山頭白<lb/>
+雲起七月七日来相迎長謝時人一揮手飄下滿空鸞<lb/>
+鶴聲<lb/>
+　　五言律<lb/>
+　　　笙　　　　　　　　　　　<hi>唐</hi>李　嶠<lb/>
+懸匏曲沃上孤篠汶陽隈形寫歌鸞翼聲隨舞鳳裁歡<lb/>
+<pb n="KR4h0141_WYG_191-3a"/>
+娛分北里純孝即南陔今日虞音奏蹌蹌鳥獸来<lb/>
+　　五言排律<lb/>
+　　　緱山月夜聞王子晉吹笙　　<hi>唐</hi>厲　元<lb/>
+緱山明月夜岑寂隔塵氛紫府參差曲清宵次第聞韻<lb/>
+流多入洞聲度半和雲拂竹鸞驚侣經松鶴舞羣蟾光<lb/>
+聽處合仙路望中分坐惜千巖曙遺音過汝濆<lb/>
+　　　笙磬同音　　　　　　　　<hi>唐</hi>闕　名<lb/>
+笙磬聞何處凄鏘宛在東激揚音自徹髙下曲宜同歴<lb/>
+<pb n="KR4h0141_WYG_191-3b"/>
+歴俱盈耳泠泠逺散空獸因繁奏舞人感至和通詎間<lb/>
+洪纎韻能齊搏拊功四懸今盡美一聽辨移風<lb/>
+　　七言律<lb/>
+　　　題笙　　　　　　　　　　<hi>唐</hi>羅　鄴<lb/>
+筠管參差排鳳翅月堂凄切勝龍吟㝡宜輕動纎纎玉<lb/>
+醉送當觀灩灩金緱嶺獨能徵妙曲嬴臺相並吹清音<lb/>
+好將宫徴陪歌扇莫遣新聲鄭衛侵<lb/>
+　　七言絶句<lb/>
+<pb n="KR4h0141_WYG_191-4a"/>
+　　　殿前曲　　　　　　　　　<hi>唐</hi>王昌齡<lb/>
+幾部笙歌西殿頭梨園弟子和凉州新聲一段髙樓月<lb/>
+聖主千秋樂未休<lb/>
+　　　聽鄰家吹笙　　　　　　　<hi>唐</hi>郎士元<lb/>
+鳳吹聲如隔彩霞不知牆外是誰家重門深鎻無尋處<lb/>
+疑有碧桃千樹花<lb/>
+　　　秋夜安國觀聞笙　　　　　<hi>唐</hi>劉禹錫<lb/>
+織女分明銀漢秋桂枝梧葉共颼颼月露滿庭人寂寂<lb/>
+<pb n="KR4h0141_WYG_191-4b"/>
+霓裳一曲在髙樓<lb/>
+　　　吹笙歌　　　　　　　　　<hi>唐</hi>殷堯藩<lb/>
+伶兒竹聲聲繞空秦女欲濕臙脂紅玉桃花片落不住<lb/>
+三十六簧能喚風<lb/>
+　　　小遊仙　　　　　　　　　<hi>唐</hi>曹　唐<lb/>
+笑擎雲液紫瑶觥共請雲和碧玉笙花下偶然吹一曲<lb/>
+人間因識董雙成<lb/>
+　　　其二<lb/>
+<pb n="KR4h0141_WYG_191-5a"/>
+玉洞長春風景鮮丈人私宴就芝田笙歌蹔向花間盡<lb/>
+便是人間一萬年<lb/>
+　　　理笙　　　　　　　　　　<hi>唐</hi>卓英英<lb/>
+頻倚銀屏理鳳笙調中幽意起春情因思往事成迢遞<lb/>
+安得緱山和一聲<lb/>
+　　　王都事家聽周子竒吹笙　　<hi>元</hi>倪　瓚<lb/>
+隔水吹笙引鳳鳴十三聲外柳風清風流自有王子晉<lb/>
+留取清樽吸月明<lb/>
+<pb n="KR4h0141_WYG_191-5b"/>
+　　　飲春㑹　　　　　　　　　<hi>明</hi>木　公<lb/>
+官家春㑹與民同土釀鵞竿節節通一匝蘆笙吹未斷<lb/>
+蹋歌起舞月明中<lb/>
+　　　擬古宫詞　　　　　　　　<hi>明</hi>蘇　祐<lb/>
+水殿凉生獨不眠風来忽謾鳳笙傳尋常明月娟娟夜<lb/>
+似向今宵分外圓<lb/>
+　　　道院秋夕　　　　　　　　<hi>明</hi>謝　榛<lb/>
+秋河一帶月光圓露坐空除夜欲䦨却訝西樓降仙子<lb/>
+<pb n="KR4h0141_WYG_191-6a"/>
+　玉笙吹徹萬家寒<lb/>
+　　　　恭送曇陽大師　　　　　　<hi>明</hi>屠　隆<lb/>
+　西池南嶽坐相邀髣髴煙中白玉橋手炙鵞笙踏雲路<lb/>
+　靈音一半入瓊簫<lb/>
+　　　　唐詞　　　　　　　　　　<hi>明</hi>徐定夫<lb/>
+　禁門秋草雨中生睡醒芙蓉小帳清幾日内廷宣喚少<lb/>
+　紫薇花底學吹笙<lb/>
+　<lb/>
+<pb n="KR4h0141_WYG_191-6b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選卷一百九十一<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

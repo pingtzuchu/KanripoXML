@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>春秋通論目録</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　　經部五<lb/>
+　春秋通論目録　　　　　春秋類<lb/>
+　　卷一<lb/>
+　　　王室伐救㑹盟<hi>三章</hi>
+　　　王使至魯魯君臣朝聘于王<hi>三章</hi>
+　　　天王崩葬<hi>二章</hi>
+　　　王室禍亂<hi>二章</hi>
+　　　逆后歸王姬<lb/>
+<pb n="1b"/>
+　　　戰伐㑹盟<hi>三章</hi>
+　　　㑹盟<hi>八章</hi>
+　　卷二<lb/>
+　　　戰伐<hi>八章</hi>
+　　　魯君即位薨葬<hi>二章子卒附</hi>
+　　　諸侯見弑見殺<hi>四章</hi>
+　　　討賊<lb/>
+　　　呉楚徐越<hi>二章</hi>
+<pb n="2a"/>
+　　　滅國<hi>四章遷國邑降國邑取邑附</hi>
+　　　諸侯奔執歸入<hi>二章</hi>
+　　　執諸侯大夫<lb/>
+　　　納君大夫世子<lb/>
+　　卷三<lb/>
+　　　殺大夫公子<hi>三章</hi>
+　　　大夫奔<lb/>
+　　　外大夫叛復入<lb/>
+<pb n="2b"/>
+　　　諸侯兄弟<hi>四章</hi>
+　　　遷國<lb/>
+　　　齊桓城三國<hi>三章</hi>
+　　　内大夫卒<hi>二章</hi>
+　　　内夫人<hi>九章</hi>
+　　　内女<hi>四章</hi>
+　　卷四<lb/>
+　　　魯滅國取田邑齊取魯田邑<lb/>
+<pb n="3a"/>
+　　　内圍邑<lb/>
+　　　諸國伐魯<lb/>
+　　　歸田<lb/>
+　　　蒐狩<lb/>
+　　　城築<lb/>
+　　　内嵗祲有年<lb/>
+　　　内災<lb/>
+　　　内毁作<lb/>
+<pb n="3b"/>
+　　　魯君臣如列國諸侯來諸侯如外大夫來<lb/>
+　　　内外平<lb/>
+　　　書爵書行次書名<hi>五章</hi>
+　　　書人<lb/>
+　　　隱桓莊三世大夫書繫書族書名<lb/>
+　　　通例<hi>七章</hi>
+　　　　<hi>臣</hi>等謹案春秋通論四卷<lb/>
+　　　國朝方苞撰苞字靈臯桐城人康熈丙戌㑹試<lb/>
+<pb n="4a"/>
+　　　　中式舉人官至内閣學士縁事禠職校書<lb/>
+　　　武英殿後以翰林院侍講銜致仕是編本孟子<lb/>
+　　　　其文則史其義則某竊取之意貫穿全經按<lb/>
+　　　　所屬之辭核以所比之事辨其孰為舊文孰<lb/>
+　　　　為筆削分類排比為篇四十毎篇之内又各<lb/>
+　　　　以類從凡分章九十有九其間據理而談有<lb/>
+　　　　似是而非者如王室伐救㑹盟篇中稱周之<lb/>
+　　　　東遷晉鄭焉依平王之初文侯武公心在王<lb/>
+<pb n="4b"/>
+　　　　室故數十年中諸夏之邦無簒弑滅國之事<lb/>
+　　　　是統紀猶未盡散云云今考寄帑取虢載在<lb/>
+　　　　鄭語虢叔死焉亦見隱元年克段之𫝊則噬<lb/>
+　　　　鄰自廣即在武侯苞謂無滅國之事殆乖其<lb/>
+　　　　實至於桓公無王之類亦尚沿舊觧然掃除<lb/>
+　　　　二𫝊附㑹之談蕩滌宋儒鍥薄之論息心微<lb/>
+　　　　氣以經求經多有合於情理之正雖孰為舊<lb/>
+　　　　聞孰為筆削或不免斷之太確如親見尼山<lb/>
+<pb n="5a"/>
+　　　　之操觚而論其宏㫖亦大致不悖於聖人矣<lb/>
+　　　　乾隆四十二年六月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

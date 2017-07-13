@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3k0035_SBCK_002-1a"/>
+余向蔵古賢小字錄係昭文郡朖僊贈余者<lb/>
+云以青蚨三星淂淂書攤者陳思纂次一行<lb/>
+後多崑山後學吴大有較刋一行此冊無無始<lb/>
+猶疑其板刻有異細審之皆活字板而前所<lb/>
+淂者為後印兹所淂者為初印也何以明明<lb/>
+蓋此板後帰吴氏故增入一行其收易原書<lb/>
+一行以姓劉二字移宋髙祖武帝下而去氏<lb/>
+字又去小注宋本紀三字以遷就之其痕迩<lb/>
+顯然兹冊古色古香初入眼疑為舊刻<lb/>
+<pb n="KR3k0035_SBCK_002-1b"/>
+故書友欲以充宋元版余六因其古而岀番<lb/>
+餅二枚易易重付裝潢可渭好事矣辛未<lb/>
+十月二十有五日𣸪翁記<lb/>
+慧震即以所得故爲小字<hi>卦<折 t="33"/>故校</hi>師利揔適岀<hi>揔<折 t="33"/>揔校</hi>鎮惡<lb/>
+事騎冲没陣<hi>陷<折 t="33"/>没校</hi>豹奴恒逾不悦<hi>恒<折 t="33"/>恒校</hi>崖遂不得佳者<hi>園云<折 t="33"/>遂放</hi>曰<lb/>
+徳之体明<hi>僧崖<折 t="33"/>曰上校</hi>斑獸常日早晚<hi>增視<折 t="33"/>日上校</hi>此入<hi>比<折 t="33"/>此校</hi>慮其不法<hi>去<折 t="33"/>法校</hi>
+巳上係舊箴本紅筆校正之字文理差順附錄滿考彼荅尾皆<lb/>
+以古賢小字錄標題此但曰小字錄必修本增加也　𣸪翁又記<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

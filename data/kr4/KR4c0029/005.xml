@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4c0029_SBCK_005-1a"/>
+岑嘉州詩卷之五<lb/>
+　七言律詩<hi>十一首</hi>
+　　　和祠部王員外雪後早朝即事<lb/>
+長安雪後似春歸積素凝華連曙暉色借玉<lb/>
+珂迷曉騎光添銀燭晃朝衣西山落月臨天<lb/>
+仗北闕晴雲捧禁闈聞道仙郎歌白雪由來<lb/>
+此曲和人稀<lb/>
+　　　奉和中書賈至舎人早朝大明宫<lb/>
+雞鳴紫陌曙光寒鶯囀皇州春色䦨金闕曉<lb/>
+鐘開萬户玉階仙仗擁千官花迎劔佩星𥘉<lb/>
+<pb n="KR4c0029_SBCK_005-1b"/>
+落柳拂旌旗露未乾獨有鳯凰池上客陽春<lb/>
+一曲和皆難<lb/>
+　　　西掖省即事<lb/>
+西掖重雲開曙輝北山踈雨點朝衣千門柳<lb/>
+色連青鎻三殿花香入紫㣲平明端笏陪鴛<lb/>
+列薄莫垂鞭信馬歸官拙自悲頭白盡不如<lb/>
+巖下偃荆扉<lb/>
+　　　九月使君席奉餞衛中丞赴長水<lb/>
+節使横行西出師鳴弓擐甲羽林兒䑓上霜<lb/>
+威凌草木軍中殺氣傍旌旗預知漢將宣威<lb/>
+<pb n="KR4c0029_SBCK_005-2a"/>
+日正是胡塵欲㓕時爲報使君多泛菊更將<lb/>
+弦管醉東籬<lb/>
+　　　使君席夜送嚴河南赴長水<lb/>
+嬌歌急管雜青絲銀燭金杯映翠眉使君地<lb/>
+主能相送河尹天明坐莫辭春城月出人皆<lb/>
+醉野戌花深馬去遲寄聲報爾山翁道今日<lb/>
+河南勝昔時<lb/>
+　　　暮春<graphic n="KR0593" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0593.png" mimeType="image/png"/>州東亭送李司馬歸扶風别<lb/>
+　　　廬<lb/>
+柳嚲鶯嬌花復殷紅亭緑酒送君還到來函<lb/>
+<pb n="KR4c0029_SBCK_005-2b"/>
+谷愁中月歸去磻溪夢裏山簾前春色應須<lb/>
+惜世上浮名好是閒西望鄕關腸欲㫁對君<lb/>
+衫䄂淚痕斑<lb/>
+　　　赴嘉州過城固縣尋永安超禪師房<lb/>
+滿寺枇杷冬着花老僧相見具袈裟漢王城<lb/>
+北雪𥘉霽韓信壇西日欲斜門外不須催五<lb/>
+馬林中且聽演三車豈料巴川多勝事為君<lb/>
+書此報京華<lb/>
+　　　奉和相公發益昌<lb/>
+相國臨戎别帝京擁旄持節逺横行朝登劔<lb/>
+<pb n="KR4c0029_SBCK_005-3a"/>
+閣雲随馬夜渡巴江雨洗兵山花萬朶迎征<lb/>
+盖川柳千條拂去旌暫到蜀城應計日須知<lb/>
+明主待持衡<lb/>
+　　　奉和春日幸望春宫應制<lb/>
+和風助律應韶年清蹕乗髙出望仙花笑鶯<lb/>
+歌迎帝輦雲消日霽俯皇川南山近獻仙杯<lb/>
+上北斗平臨御扆前一奉恩榮歡在鎬空知<lb/>
+率舞聽薫絃<lb/>
+　　　首春渭西郊行呈藍田張主簿<lb/>
+廽風度雨渭城西細草新花踏作泥秦女峯<lb/>
+<pb n="KR4c0029_SBCK_005-3b"/>
+頭雪未盡胡公陂上日𥘉低愁窺白髪羞微<lb/>
+禄悔别青山憶舊磎聞道輞川多勝事玉壷<lb/>
+春酒正堪攜<lb/>
+　　　秋夕讀書秋幽興獻兵部李侍郎<lb/>
+年紀蹉跎四十强自憐頭白始為郎雨滋苔<lb/>
+蘚侵堦緑秋颯梧桐覆井黄驚蟬也觧求髙<lb/>
+樹旅鴈還應厭後行覧卷試穿隣舎壁明燈<lb/>
+何惜借餘光<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>易經蒙引</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　經部一<lb/>
+　易經蒙引　　　　　　　易類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案易經蒙引十二卷明蔡清撰清字<lb/>
+　　　　介夫號虚齋晉江人成化甲辰進士官至南<lb/>
+　　　　京國子監祭酒事蹟具明史儒林傳是書專<lb/>
+　　　　以發明朱子本義為主故其體例以本義與<lb/>
+　　　　經文並書但於本義每條之首加一圈以示<lb/>
+<pb n="1b"/>
+　　　　别蓋尊之亞於經也然實多與本義異同如<lb/>
+　　　　經分上下朱子云以其簡袠重大故分為上<lb/>
+　　　　下二篇清則云六十四卦何以不三十二卦<lb/>
+　　　　為上經三十二卦為下經而乃上經三十卦<lb/>
+　　　　下經三十四卦也用九見羣龍无首朱子云<lb/>
+　　　　用九是諸卦百九十二陽爻之通例見羣龍<lb/>
+　　　　无首是此卦六爻皆用九者之占詞清則云<lb/>
+　　　　孔子象傳及文言節節皆是主六爻皆用九<lb/>
+<pb n="2a"/>
+　　　　者言但本義不主此説又云若依朱子之説<lb/>
+　　　　則于用九下又當添六爻皆用九者一句知<lb/>
+　　　　至至之知終終之朱子説上句知字重下句<lb/>
+　　　　終字重清則云此未必是本文之意本文下<lb/>
+　　　　句一知字豈偶然哉豈姑以對上句而無所<lb/>
+　　　　當哉其他不肯委曲附和大率類此朱子不<lb/>
+　　　　全從程傳而能發明程傳者莫若朱子清不<lb/>
+　　　　全從本義而能發明本義者莫若清醇儒心<lb/>
+<pb n="2b"/>
+　　　　得之學所由與争門户者異歟乾隆四十三<lb/>
+　　　　年六月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

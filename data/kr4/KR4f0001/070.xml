@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4f0001_WYG_070-1a"/>
+　欽定四庫全書<lb/>
+聖祖仁皇帝御製文集巻三十三目録<lb/>
+　　古今體詩三十六首<lb/>
+　　　　恭謁<lb/>
+　孝陵<lb/>
+　太皇太后駕到温泉<lb/>
+　　　　雨後經明總兵戚繼光所作八角石亭<lb/>
+　　　　清晨入盤山二首<lb/>
+<pb n="KR4f0001_WYG_070-1b"/>
+　　　　古中盤望蓮花峰<lb/>
+　　　　盤山絶頂三首<lb/>
+　　　　晩過李靖菴二首<lb/>
+　　　　星出歸營<lb/>
+　　　　奉侍<lb/>
+　太皇太后臨御温泉因孟冬享<lb/>
+　廟暫回京<lb/>
+　　　　夜半覽本<lb/>
+<pb n="KR4f0001_WYG_070-2a"/>
+　　　山中曉色<lb/>
+　　　由鮎魚池出闗咏瀑布水<lb/>
+　　　登景忠山<lb/>
+　　　灤河<lb/>
+　　　冬至回京齋戒夜坐<lb/>
+　　　登邊城作<lb/>
+　　　温泉行<lb/>
+　　　温泉流杯戲作<lb/>
+<pb n="KR4f0001_WYG_070-2b"/>
+　　　南苑橋上大風<lb/>
+　　　雪<lb/>
+　　　景山積雪侍衛下趨如飛<lb/>
+　　　元旦<lb/>
+慈寜宫行禮<lb/>
+　　　春<lb/>
+　　　上元幸萬善殿戲作<lb/>
+　　　收復岳州作<hi>幷序</hi>
+<pb n="KR4f0001_WYG_070-3a"/>
+　　　恭上<lb/>
+太皇太后萬壽詩二首<lb/>
+　　　賜大將軍安親王岳樂二首<lb/>
+　　　賜䕶軍統領桑格<lb/>
+　　　春夜月<lb/>
+　　　題周文矩畫説劒圖<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

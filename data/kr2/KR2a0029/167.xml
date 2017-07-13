@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2a0029_WYG_167-1a"/>
+　舊五代史巻八十三攷證<lb/>
+晉少帝紀三八月辛丑命十五將以禦契丹　案東都<lb/>
+　事畧亦載出帝命十五將出征事歐陽史云劉知逺<lb/>
+　為北面行營都統杜威為都招討使葢畧之也<lb/>
+壬辰太原奏代州刺史白文珂破契丹于七里烽　案<lb/>
+　通鑑作丙子契丹冦遂城樂壽深州刺史康彥進擊<lb/>
+　却之與是書異歐陽史契丹國志並與是書同<lb/>
+圍恒州分兵陷鼓城槀城元氏髙邑昭慶寧晉蒲澤欒<lb/>
+<pb n="KR2a0029_WYG_167-1b"/>
+　城栢鄉等縣　案遼史已卯圍恒州下其九縣歐陽<lb/>
+　史繫于乙酉之後疑誤<lb/>
+易州奏郎山塞將孫方簡破契丹千餘人　案孫方簡<lb/>
+　歐陽史作孫方諫<lb/>
+賊勢稍却渡白溝而去　案通鑑庚申契丹大至晉軍<lb/>
+　與戰逐北十餘里契丹踰白溝而去歐陽史庚申杜<lb/>
+　威及契丹戰于陽城敗之俱與是書同惟遼史云己<lb/>
+　未重威守貞引兵南遁追至陽城大敗之復以走卒<lb/>
+<pb n="KR2a0029_WYG_167-2a"/>
+　為方陣來拒與戰十餘合是遼師未嘗言敗也葢當<lb/>
+　時南北軍俱有掩飾故紀載不同如此<lb/>
+大軍至白團衛村下營　案歐陽史作衞村通鑑攷異<lb/>
+　引漢高祖實録作白檀遼史從是書作白團衞村<lb/>
+嘉哩舊作諧里今改　黙埒舊作沒剌今改<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2a0029_WYG_167-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　舊五代史巻八十三攷證<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

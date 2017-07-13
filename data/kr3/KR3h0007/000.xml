@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>述書賦</head>
+    <p>
+<pb n="KR3h0007_WYG_000-1a"/>
+欽定四庫全書　　　　　子部八<lb/>
+　述書賦　　　　　　　　藝術類一<hi>書畫之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案述書賦二卷唐竇臮撰竇蒙注臮<lb/>
+　　　　字靈長扶風人官至檢校户部員外郎宋汴<lb/>
+　　　　節度叅謀蒙字子全臮之兄官至試國子司<lb/>
+　　　　業兼太原縣令並見徐浩古迹記按張彦逺<lb/>
+　　　　法書要録稱臮作述書賦精窮㫖要詳辨秘<lb/>
+<pb n="KR3h0007_WYG_000-1b"/>
+　　　　義今觀其賦上篇所述自上古至南北朝下<lb/>
+　　　　篇所述自唐代高祖太宗武后睿宗明皇以<lb/>
+　　　　下而終於其兄蒙及劉秦之妹葢其文成於<lb/>
+　　　　天寶中也首尾凡一十三代一百九十八人<lb/>
+　　　　篇末系以徐僧權等署證八人太平公主等<lb/>
+　　　　印記十一家徵求寶翫韋述等二十六人利<lb/>
+　　　　通貨易穆韋等八人文與上篇相屬葢以卷<lb/>
+　　　　帙稍重故分而為二耳其品題叙述皆極精<lb/>
+<pb n="KR3h0007_WYG_000-2a"/>
+　　　　核其印記一章兼畫印模于句下遂為朱存<lb/>
+　　　　理鐵網珊瑚張丑清河書畫舫真蹟日録之<lb/>
+　　　　祖注文尤典要不支舊以為出其兄䝉考賦<lb/>
+　　　　中䝉條下注曰家兄䝉字子全司議郎安南<lb/>
+　　　　都䕶又似乎臮所自注且所叙仕履與卷首<lb/>
+　　　　結銜亦不同均為疑竇然張彦逺法書要録<lb/>
+　　　　所題已同今本單文孤證未敢遽易舊文<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+　　　　仍原本録之焉乾隆四十六年十月恭校上<lb/>
+<pb n="KR3h0007_WYG_000-2b"/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

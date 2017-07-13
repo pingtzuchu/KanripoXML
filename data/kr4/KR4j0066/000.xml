@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>花菴詞選</head>
+    <p>
+<pb n="KR4j0066_WYG_000-1a"/>
+欽定四庫全書　　　　　　集部十<lb/>
+　花菴詞選　　　　　　　　詞曲類二<hi>詞選之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案花菴詞選十巻續集十巻宋黄昇輯<lb/>
+　　　　昇字叔暘號玉林又號花菴詞客以所居有玉<lb/>
+　　　　林又有散花菴也毛晉刻六十家詞以昇作昃<lb/>
+　　　　以叔暘作叔陽而諸本實多作黄昇考此書舊<lb/>
+　　　　傳刋本又題曰黄□而詩人玉屑前有昇序<lb/>
+<pb n="KR4j0066_WYG_000-1b"/>
+　　　　世所傳翻刻宋本猶鈎摹當日手書亦作黄<lb/>
+　　　　□檢此書序末尚有當時姓名小印實作□<lb/>
+　　　　字葢許慎説文昇字篆文作□昇特以篆體<lb/>
+　　　　署名故作□字晉不考六書妄改為昃殊為<lb/>
+　　　　舛謬至叔陽乃盧炳之字炳即作哄堂詞者<lb/>
+　　　　晉乃移而為昇之字益桃僵李代矣此乃所<lb/>
+　　　　選南宋詞人之作自康與之至洪瑹凡八十<lb/>
+　　　　八家而以已作附録於末共七百五十餘首<lb/>
+<pb n="KR4j0066_WYG_000-2a"/>
+　　　　即所稱中興以來絶妙詞選者是也其意葢<lb/>
+　　　　欲以繼趙宏祚花間集曾慥樂府雅詞之後<lb/>
+　　　　故蒐羅頗廣又於作者姓氏下各綴數語畧<lb/>
+　　　　具始末亦足以資考核惟所裒詞人祇有此<lb/>
+　　　　數而自序乃云得數百家則未免夸詞非其<lb/>
+　　　　實耳昇論詞最服膺姜䕫故所錄多典雅清<lb/>
+　　　　俊非草堂詩餘專取俗體者可比又草堂詩<lb/>
+　　　　餘刻本多訛字及失名者而此猶舊帙於彼<lb/>
+<pb n="KR4j0066_WYG_000-2b"/>
+　　　　此並收之作亦可互相參證云乾隆四十六<lb/>
+　　　　年九月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="KR4j0066_WYG_000-3a"/>
+花菴詞選序<lb/>
+長短句始於唐盛於宋唐詞具載花間集宋詞多見於<lb/>
+曽端伯所編而復雅一集又兼采唐宋迄於宣和之季<lb/>
+凡四千三百餘首吁亦備矣況中興以來作者繼出及<lb/>
+乎近世人各有詞詞各有體知之而未見見之而未盡<lb/>
+者不勝算也暇日裒集得數百家名之曰絶妙詞選佳<lb/>
+詞豈能盡録亦嘗鼎一臠而巳然其盛麗如㳺金張之<lb/>
+堂妖冶如攬嬙施之袪悲壯如三閭豪俊如五陵花前<lb/>
+<pb n="KR4j0066_WYG_000-3b"/>
+月底舉盃清唱合以紫簫節以紅牙飄飄然作騎鶴揚<lb/>
+州之想信可樂也親友劉誠甫謀刋諸梓傳之好事者<lb/>
+此意善矣又録予舊作數十首附於後不無珠玉在側<lb/>
+之媿有愛我者其為刪之淳祐已酉百五玉林<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

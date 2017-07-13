@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_313-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選巻三百十三<lb/>
+　　林檎花類<lb/>
+　　　五言古<lb/>
+　　　　月臨花<hi>即林檎花</hi>　　　　　　　<hi>唐</hi>元　稹<lb/>
+　凌風颺颺花透影朧朧月巫峽隔波雲姑峰漏霞雪鏡<lb/>
+　匀嬌靣粉燈泛髙籠纈夜久清露多啼珠墜還結<lb/>
+　　　七言古<lb/>
+<pb n="KR4h0141_WYG_313-1b"/>
+　　　　來禽花　　　　　　　　　<hi>宋</hi>陳與義<lb/>
+　來禽花髙不受折滿意清明好時節人間風日不貸春<lb/>
+　昨夜臙脂今日雪舎東蕪菁滿眼黄蝴蝶飛去專斜陽<lb/>
+　妍媸都無十日事付與梧桐一夏凉<lb/>
+　　　五言律<lb/>
+　　　　水林檎花　　　　　　　　<hi>唐</hi>鄭　谷<lb/>
+　一露一朝新簾籠曉景分艶和蜂蝶動香帶管絃聞笑<lb/>
+　擬春無力粧濃酒漸醺直疑風起夜飛去替行雲<lb/>
+<pb n="KR4h0141_WYG_313-2a"/>
+　　　七言絶句<lb/>
+　　　　來禽　　　　　　　　　<hi>宋</hi>劉子翬<lb/>
+　粲粲來禽巳著花芳根誰徙向天涯好尋青李相遮映<lb/>
+　風味應同逸少家<lb/>
+　　　　十五夜飲王敬止園亭　　　<hi>明</hi>方太古<lb/>
+　客子未歸天一涯滄江亭上聽新蛙春風莫漫隨人老<lb/>
+　吹落來禽千樹花<lb/>
+　<lb/>
+<pb n="KR4h0141_WYG_313-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選巻三百十三<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

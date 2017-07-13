@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>本草綱目卷一目録</head> <lb/>
+    <p>
+<pb n="KR3e0079_WYG_009-1a"/>
+欽定四庫全書<lb/>
+　本草綱目卷一目録<lb/>
+　　序例<lb/>
+　　　歴代諸家本草<lb/>
+　　　引據古今醫家書目<lb/>
+　　　引據古今經史百家書目<lb/>
+　　　采集諸家本草藥品總數<lb/>
+　　　神農本經名例<lb/>
+<pb n="KR3e0079_WYG_009-1b"/>
+　　　陶氏别録合藥分劑法則<lb/>
+　　　采藥六氣嵗物<lb/>
+　　　七方<lb/>
+　　　十劑<lb/>
+　　　氣味陰陽<lb/>
+　　　五味宜忌<lb/>
+　　　標本陰陽<lb/>
+　　　升降浮沉<lb/>
+<pb n="KR3e0079_WYG_009-2a"/>
+　　　四時用藥例<lb/>
+　　　五運六滛用藥式<lb/>
+　　　五臓六腑用藥氣味補瀉<lb/>
+　　　五臟五味補瀉<lb/>
+　　　臟腑虚實標本用藥式<lb/>
+　　　引經報使<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3e0079_WYG_009-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　本草綱目卷一目錄<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

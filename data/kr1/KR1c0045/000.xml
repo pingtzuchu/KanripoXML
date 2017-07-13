@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="1a"/>
+欽定四庫全書<lb/>
+御纂詩義折中序<lb/>
+詩之教大矣古今言詩者衆矣自小序而下箋䟽𫝊注<lb/>
+各名其家各是其説辨難紏紛㡬如聚訟曩嘗肄業於<lb/>
+此流連諷咏豁然心有所得而考之昔人成說徃徃拘<lb/>
+牽扞格不能相通辛未秋間與尚書孫嘉淦論及諸經<lb/>
+其所見平實近理因先從事毛詩授以大指命之疏次<lb/>
+其義凡舊説之可從者從之當更正者正之一無成心<lb/>
+<pb n="1b"/>
+唯義之適視事餘功親為釐定以備葩經之一解編既<lb/>
+竣在館諸臣以序請夫詩之道何仿乎其在虞書則曰<lb/>
+詩言志志者詩之本也聲與律其後起者也其在魯論<lb/>
+則曰一言蔽之思無邪無邪者詩之教也興觀羣怨事<lb/>
+父事君其道不越乎此也其在子輿氏則曰以意逆志<lb/>
+是為得之此説詩者之宗也逆志而得其志之所在則<lb/>
+詩之本得而其為教也正矣𫝊曰衆言淆亂折諸聖用<lb/>
+中者聖學之大成也雖不能至心嚮徃之爰竊取<lb/>
+<pb n="2a"/>
+皇祖周易命名之義命之曰詩義折中而叙其槩以為弁<lb/>
+　乾隆二十年夏四月御製<lb/>
+<pb n="3a"/>
+欽定四庫全書　　　　　經部三<lb/>
+御纂詩義折中篇目　　　　　詩𩔖<lb/>
+　第一卷<lb/>
+　　國風<lb/>
+　　　周南<hi>關雎桃夭</hi>　<hi>葛覃/兎罝</hi>　<hi>卷耳/芣苢</hi>　<hi>樛木/漢廣</hi>　<hi>螽斯汝墳</hi>
+　　　　　<hi>麟之趾</hi>
+　第二卷<lb/>
+　　　召南<hi>鵲巢行露</hi>　<hi>采蘩/羔羊</hi>　<hi>草蟲靁采蘋/殷其</hi>　<hi>甘棠梅摽有</hi>
+<pb n="3b"/>
+　　　　　<hi>小星穠江有汜騶虞何彼  矣</hi>　<hi>野有死麕</hi>
+　第三卷<lb/>
+　　　邶　<hi>柏舟撃鼔</hi>　<hi>緑衣/凱風</hi>　<hi>燕燕/雄雉</hi>　<hi>日月苦終風匏有  葉</hi>
+　　　　　<hi>谷風北門</hi>　<hi>式微/北風</hi>　<hi>旄丘/靜女</hi>　<hi>簡兮/新臺</hi>　<hi>泉水乗舟二子</hi>
+　第四卷<lb/>
+　　　鄘　<hi>柏舟桑中</hi>　<hi>牆有<graphic n="KR1492" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1492.png" mimeType="image/png"/>奔/鶉之奔</hi>　　<hi>君子偕老定之方中</hi>
+　　　　　<hi>蝃蝀干旄</hi>　<hi>相鼠載馳</hi>
+　　　衛　<hi>淇奥芄蘭</hi>　<hi>考槃/河廣</hi>　<hi>碩人/伯兮</hi>　<hi>氓狐/有</hi>　<hi>竹竿木𤓰</hi>
+<pb n="4a"/>
+　第五卷<lb/>
+　　　王　<hi>黍離水君子于役谷有君子陽陽爰揚之        中    蓷    兎</hi>
+　　　　　<hi>葛藟大車</hi>　<hi>采葛有麻丘中</hi>
+　　　鄭　<hi>緇衣于將仲子清人大叔  田</hi>　<hi>叔于田遵大路羔裘</hi>
+　　　　　<hi>女曰雞鳴童蘀兮  狡</hi>　<hi>有女同車/褰裳  丰</hi>　　<hi>山有扶蘇東門之墠</hi>
+　　　　　<hi>風雨蔓子衿野有  草</hi>　<hi>揚之水/溱洧</hi>　　　<hi>出其東門</hi>
+　第六卷<lb/>
+　　　齊　<hi>雞鳴未還東方  明</hi>　　<hi>著山/南</hi>　<hi>東方之日令甫田  盧</hi>
+<pb n="4b"/>
+　　　　　<hi>敝笱猗嗟</hi>　<hi>載驅</hi>
+　　　魏　<hi>葛屨陟岵</hi>　<hi>汾沮洳閒/十畝之</hi>　　<hi>園有桃碩鼠伐檀</hi>
+　第七卷<lb/>
+　　　唐　<hi>蟋蟀椒聊</hi>　<hi>山有樞杕杜/綢繆</hi>　<hi>揚之水鴇羽羔裘</hi>
+　　　　　<hi>無衣葛生</hi>　<hi>有杕之杜采苓</hi>
+　　　秦　<hi>車鄰黄鳥</hi>　<hi>駟驖/晨風</hi>　<hi>小戎/無衣</hi>　<hi>蒹葭/渭陽</hi>　<hi>終南權輿</hi>
+　第八卷<lb/>
+　　　陳　<hi>宛丘之東門之枌門東門  楊    墓</hi>　<hi>衡門鵲東門之池防有  巢</hi>
+<pb n="5a"/>
+　　　　　<hi>月出澤陂</hi>　<hi>株林</hi>
+　　　檜　<hi>羔裘匪風</hi>　<hi>素冠/</hi>　<hi>隰有萇楚</hi>
+　第九卷<lb/>
+　　　曹　<hi>蜉蝣鳲鳩</hi>　<hi>候人下泉</hi>
+　　　豳　<hi>七月伐柯</hi>　<hi>鴟鴞/九罭</hi>　<hi>東山/狼跋</hi>　<hi>破斧</hi>
+　第十卷<lb/>
+　　小雅<lb/>
+　　　鹿鳴之什　<hi>鹿鳴常棣</hi>　<hi>四牡/伐木</hi>　<hi>皇皇者華薇天保  采</hi>
+<pb n="5b"/>
+　　　　　<hi>出車南陔</hi>　<hi>杕杜</hi>
+　　　白華之什　<hi>白華嘉華黍南有  魚</hi>　<hi>魚麗/崇丘</hi>　<hi>由庚有臺南山</hi>
+　　　　　<hi>由儀湛露</hi>　<hi>蓼蕭</hi>
+　第十一卷<lb/>
+　　　彤弓之什　<hi>彤弓采芭</hi>　<hi>菁菁者莪日/車攻  吉</hi>　<hi>六月鴻鴈</hi>
+　　　　　<hi>庭燎鶴鳴</hi>　<hi>沔水</hi>
+　第十二卷<lb/>
+　　　祈父之什　<hi>祈父斯干</hi>　<hi>白駒/無羊</hi>　<hi>黄鳥山我行其野節南</hi>
+<pb n="6a"/>
+　　　　　<hi>正月正十月之交雨無</hi>
+　第十三卷<lb/>
+　　　小旻之什　<hi>小旻斯小宛何人</hi>　<hi>小弁/巷伯</hi>　<hi>巧言谷風</hi>
+　　　　　<hi>蓼莪四月</hi>　<hi>大東</hi>
+　第十四卷<lb/>
+　　　北山之什　<hi>北山鼓鐘</hi>　<hi>無將大車南山小明楚茨  信</hi>
+　　　　　<hi>甫田者大田裳裳  華</hi>　<hi>瞻彼洛矣</hi>
+　第十五卷<lb/>
+<pb n="6b"/>
+　　　桑扈之什　<hi>桑扈青蠅</hi>　<hi>鴛鴦𥘉頍弁/賓之  筵</hi>　<hi>車舝魚藻</hi>
+　　　　　<hi>采菽菀柳</hi>　<hi>角弓</hi>
+　　　都人士之什<hi>都人士白華隰桑</hi>　<hi>采緑/緜蠻</hi>　<hi>黍苖瓠葉</hi>
+　　　　　<hi>漸漸之石何草不黄</hi>　　<hi>苕之華</hi>
+　第十六卷<lb/>
+　　大雅<lb/>
+　　　文王之什　<hi>文王旱麓</hi>　<hi>大明/思齊</hi>　<hi>緜矣/皇</hi>　<hi>棫樸靈臺</hi>
+　　　　　<hi>下武有聲文王</hi>
+<pb n="7a"/>
+　第十七卷<lb/>
+　　　生民之什　<hi>生民假樂</hi>　<hi>行葦/公劉</hi>　<hi>旣醉/泂酌</hi>　<hi>鳬鷖卷阿</hi>
+　　　　　<hi>民勞板</hi>
+　第十八卷<lb/>
+　　　蕩之什　　<hi>蕩高崧</hi>　<hi>抑民/烝</hi>　<hi>桑柔/韓奕</hi>　<hi>雲漢江漢</hi>
+　　　　　<hi>常武召旻</hi>　<hi>瞻卬</hi>
+　第十九卷<lb/>
+　　頌<lb/>
+<pb n="7b"/>
+　　　周頌清廟之什　　<hi>清廟維清</hi>　<hi>維天之命作烈文  天</hi>
+　　　　　<hi>昊天有成命時邁  執競</hi>　<hi>我將思文</hi>
+　　　周頌臣工之什　　<hi>臣工豐年</hi>　<hi>噫嘻/有瞽</hi>　<hi>振鷺潛</hi>
+　　　　　<hi>雝客有</hi>　<hi>載見武</hi>
+　　　周頌閔予小子之什<hi>閔予小子毖敬之  小</hi>　<hi>訪落載芟</hi>
+　　　　　<hi>良耜桓</hi>　<hi>絲衣/賚</hi>　<hi>酌般</hi>
+　第二十卷<lb/>
+　　　魯頌<hi>駉水泮</hi>　<hi>有駜閟宫</hi>
+<pb n="8a"/>
+　　　商頌<hi>那發長</hi>　<hi>烈祖/殷武</hi>　<hi>𤣥鳥</hi>
+　　　　<hi>臣</hi>等謹按詩義折中二十卷乾隆二十年<lb/>
+　　皇上御纂鎔鑄衆説演闡經義體例與周易述義<lb/>
+　　　　同訓釋多參稽古義大㫖亦同盖我<lb/>
+　聖祖仁皇帝欽定詩經𫝊説彚纂於集𫝊之外多附録舊<lb/>
+　　　　説實昭千古之至公我<lb/>
+　　皇上幾暇研經洞周窔奥於漢以來諸儒之論無<lb/>
+　　　　不衡量得失鏡别異同伏讀<lb/>
+<pb n="8b"/>
+　　御製七十二侯詩中虹始見一篇有晦翁舊解我<lb/>
+　　　　疑生句句下<lb/>
+　　御注於詩集𫝊所釋蝃蝀之義詳為辨證併於所<lb/>
+　　　　釋鄭風諸篇槩作淫詩者亦根據毛鄭訂正<lb/>
+　　　　其訛反覆一二百言益足見<lb/>
+　聖<lb/>
+　　聖相承心源如一是以諸臣恭承<lb/>
+　　彛訓編校是書分章多凖康成徴事率從小序使<lb/>
+<pb n="9a"/>
+　　　　孔門大義上溯淵源卜氏舊𫝊逺承端緒因<lb/>
+　欽定詩經以樹義即因<lb/>
+　御纂周易以立名<lb/>
+　作述之隆後先輝耀經術昌明洵無過於<lb/>
+　　　昭代者矣乾隆四十年五月恭校上<lb/>
+　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>六經圖卷六</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書<lb/>
+　六經圖卷六　　　　　宋　楊　甲　撰<lb/>
+　　　　　　　　　　　　　　毛邦翰　補<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="1b"/>
+形似壺大者一斛刻木為之畫為山雲之形<lb/>
+<pb n="2a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="2b"/>
+坫以致爵漆赤中畫赤雲氣亦隨爵為飾<lb/>
+<pb n="3a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="3b"/>
+玉爵受一升口徑四寸底二寸上下徑二寸二分<lb/>
+<pb n="4a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="4b"/>
+柄長二尺四寸受五升為龍頭<lb/>
+<pb n="5a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="5b"/>
+畫五色雲氣冪六彛二尺二寸之幅而圓<lb/>
+<pb n="6a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="6b"/>
+祭天地以疏布巾冪六尊用二尺二寸<lb/>
+<pb n="7a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="7b"/>
+周制房俎漆兩端赤中央黑<lb/>
+<pb n="8a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="8b"/>
+尊下臺若今承槃外漆朱中足隨舟刻畫<lb/>
+<pb n="9a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="9b"/>
+豆髙尺二寸漆赤中畫飾不同<lb/>
+<pb n="10a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="10b"/>
+詩云于豆于登形象與豆同畫飾異耳<lb/>
+<pb n="11a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="11b"/>
+外方内圓曰簠漆赤中稻粱器<lb/>
+<pb n="12a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="12b"/>
+内方外圓曰簋足髙二寸漆赤中盛黍稷<lb/>
+<pb n="13a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="13b"/>
+受一斛口徑一尺脛髙五寸後旁一寸<lb/>
+<pb n="14a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="14b"/>
+洗髙三尺口徑一尺五寸足徑三尺<lb/>
+<pb n="15a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="15b"/>
+籩以竹為之口以縢緣形如豆亦受四升<lb/>
+<pb n="16a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="16b"/>
+春祠夏禴朝踐用兩獻尊一盛𤣥酒一盛醴齊並刻全<lb/>
+牛之形鑿背為尊<lb/>
+<pb n="17a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="17b"/>
+春祠夏禴其再獻用兩象尊一盛𤣥酒一盛盎齊以象<lb/>
+骨飾尊<lb/>
+<pb n="18a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="18b"/>
+秋甞冬烝朝獻用兩著尊著著地無足與獻尊象尊形<lb/>
+制容受並同<lb/>
+<pb n="19a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="19b"/>
+秋甞冬烝饋獻用兩壺尊一盛𤣥酒一盛盎齊王以玉<lb/>
+爵酌獻尸受五㪷漆赤中<lb/>
+<pb n="20a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="20b"/>
+追享朝享朝踐用兩大尊一盛𤣥酒一盛醴齊太古之瓦<lb/>
+尊也與瓦甒形制容受同<lb/>
+<pb n="21a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="21b"/>
+追享朝享再獻用兩山尊一盛𤣥酒一盛盎齊亦刻而<lb/>
+畫之為山雲形<lb/>
+<pb n="22a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="22b"/>
+春祠夏禴祼用雞彛鳥彛刻而畫之為雞鳯皇之形著<lb/>
+於尊上受三升盛明水<lb/>
+<pb n="23a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="23b"/>
+制度容受一同雞彛用盛鬱鬯鳥即謂畫鳯皇形於尊<lb/>
+上鳴鳥謂之鳯皇故也<lb/>
+<pb n="24a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="24b"/>
+　<lb/>
+斝彛盛明水先儒讀斝為稼謂畫禾稼於尊因為尊名<lb/>
+彛與舟並漆赤中其扃足内亦畫禾稼<lb/>
+<pb n="25a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="25b"/>
+秋甞冬烝祼用斝彛黄彛皆有舟盛鬱鬯黄目者以黄<lb/>
+金為目彛舟並以金漆<lb/>
+<pb n="26a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="26b"/>
+追享朝享祼用虎彛蜼彛虎彛盛明水彛舟並漆赤中<lb/>
+其扃足内亦漆及畫虎為飾<lb/>
+<pb n="27a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="27b"/>
+蜼彛盛鬱鬯蜼卬鼻似彌猴而大黄黒色尾長數尺似<lb/>
+獺尾末有歧鼻露向上雨即以尾塞鼻<lb/>
+<pb n="28a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="28b"/>
+　<lb/>
+酒壺受一斛口徑尺足髙二寸徑尺反爵著壺漆赤中<lb/>
+有畫飾<lb/>
+<pb n="29a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="29b"/>
+　<lb/>
+罋盛醯醢髙一尺受三㪷醯人云王舉供醯五十罋醢<lb/>
+五十罋<lb/>
+<pb n="30a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="30b"/>
+以竹為之受五㪷以盛米國君致饔餼於聘賢雜筥用<lb/>
+之<lb/>
+<pb n="31a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="31b"/>
+篚以竹為之長三尺廣一尺深六寸足髙三寸<lb/>
+<pb n="32a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="32b"/>
+圓曰筥受半斛主君致饔餼於賓與大夫上介皆以筥<lb/>
+盛米<lb/>
+<pb n="33a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="33b"/>
+醴有柶用角為之鉶有柶用木為之柶長一尺㯿博三<lb/>
+寸<lb/>
+<pb n="34a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="34b"/>
+山川四方用蜃漆尊畫為蜃形蚌曰含漿尊之象也容<lb/>
+五斗<lb/>
+<pb n="35a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="35b"/>
+祼用槩黑漆為尊以朱絡腹形制容受與蜃等<lb/>
+<pb n="36a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="36b"/>
+漆尊無飾曰散疈事用散疈磔牲體者形制容受如槩<lb/>
+尊<lb/>
+<pb n="37a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="37b"/>
+祭祀社稷用大罍即瓦罍也取質略之意<lb/>
+<pb n="38a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="38b"/>
+禜門用瓢齎禜祭名門國門取甘瓠割去柢以為尊<lb/>
+<pb n="39a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="39b"/>
+廟用修讀曰卣卣中尊謂獻象<hi>獻亦讀作犧</hi>之屬<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　六經圗卷六<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0042_WYG_003-1a"/>
+囘文類聚序<lb/>
+囘文類聚四巻乃宋臣桑世昌澤卿所纂後明人張之<lb/>
+象𤣥超復加增訂披閲之次似覺𤣥超之所增訂者雜<lb/>
+亂無緒是以將彼舊増并予所習見之什纂為續集<lb/>
+附於巻後重鋟諸木因題於簡端曰靖節陶公有云<lb/>
+竒文共欣賞盖以文之竒者不忍獨得故必期共人欣<lb/>
+賞而後快如璇璣一圖非文之竒者乎字如碁置按誦<lb/>
+成章字不數百詩幾千首何物女郎以錦心織成錦字令<lb/>
+<pb n="KR4h0042_WYG_003-1b"/>
+千古騷流不能卒讀天才耶仙才耶雖仿其製者代不<lb/>
+乏人類不能出其規範然集中所録諸圖及其餘詩詞<lb/>
+皆各有其妙足以竝傳間有瑕瑜不掩亦存之以俟大<lb/>
+方鑒别可也存孝椎魯無文與騷雅之道相逺其偶涉<lb/>
+及於此者亦陶公共欣賞之意夫康熙戊子五月望日玉<lb/>
+山牧豎朱存孝<lb/>
+<pb n="KR4h0042_WYG_003-2a"/>
+囘文類聚原序<lb/>
+詩苑云囘文始於竇滔妻反覆皆可成章舊為二體<lb/>
+今合為一止兩韻者謂之囘文而舉一字皆成讀者<lb/>
+謂之反覆又上官儀曰凡詩對有八其七曰囘文對<lb/>
+情親因得意得意逐情親是也自爾或四言或六言<lb/>
+或唐律或短語既極其工且流而為樂章盖情詞交<lb/>
+通妙均造化此文之所以為無窮也淮海桑世昌<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

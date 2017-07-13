@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>施註蘇詩巻首</head> <lb/>
+    <p>
+<pb n="KR4d0080_WYG_003-1a"/>
+欽定四庫全書<lb/>
+　施註蘇詩巻首<lb/>
+　　原序<lb/>
+　　宋序<lb/>
+　　註蘇例言<lb/>
+　　正註正偽<lb/>
+　　註蘇姓氏<lb/>
+　　贊<lb/>
+<pb n="KR4d0080_WYG_003-1b"/>
+　　勅<lb/>
+　　本傳<lb/>
+　　墓誌銘<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

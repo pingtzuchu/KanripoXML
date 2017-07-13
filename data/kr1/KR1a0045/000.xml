@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>易禆傳</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　經部一<lb/>
+　易禆傳　　　　　　　易類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案易禆傳二卷宋林至撰至字徳久<lb/>
+　　　　松江人書録解題作檇李人未詳孰是淳熙<lb/>
+　　　　中登進士第官至秘書省正字朱子集中有<lb/>
+　　　　答林徳久書即其人也是書宋史藝文志作<lb/>
+　　　　一卷文獻通考於二卷之外又有外篇一卷<lb/>
+<pb n="1b"/>
+　　　　此本為元至正間陳泰所刻總為二卷葢泰<lb/>
+　　　　所併也凡三篇一曰法象一曰極數一曰觀<lb/>
+　　　　變自序稱法象本之太極極數本之天地數<lb/>
+　　　　觀變本之卦揲十有八變皆據易大傳之文<lb/>
+　　　　凡論太極者惑于四象之説而失卦畫之本<lb/>
+　　　　論天地之數者惑于圖書之文而失參兩之<lb/>
+　　　　宗論揲蓍者惑于掛扐之間而失陰陽之變<lb/>
+　　　　各釐而正之其外篇則論反對相生世應互<lb/>
+<pb n="2a"/>
+　　　　體納甲變爻動爻卦氣八事自序稱謂其非<lb/>
+　　　　易之道則不可謂易盡在于是則非今觀其<lb/>
+　　　　書雖未免有主持稍過之處而所論多中説<lb/>
+　　　　易之弊其謂易道變化不窮得其一端皆足<lb/>
+　　　　以為説尤至論也乾隆四十六年十月恭校<lb/>
+　　　　上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="3a"/>
+易禆傳序<lb/>
+易之為道生生而不窮其著之卦變皆本於氣數之自<lb/>
+然非私智之能及也昔河南夫子為易傳一書使學者<lb/>
+因辭以逹義象數之説夫子雖未嘗言亦曰得其義則<lb/>
+象數在其中矣今世之言易者往往喜談象數或出已<lb/>
+智或摭先儒之説牽合傅㑹似若可聴者然其巧愈甚<lb/>
+其失彌逺不知易之謂象數者初不若是其紛紛也至<lb/>
+不佞竊有意於此輒本之易大傳為禆傳三篇曰法象<lb/>
+<pb n="3b"/>
+曰極數曰觀變法象則本之太極極數則本之天地之<lb/>
+數觀變則本之蓍之十有八變是三者大傳之中嘗言<lb/>
+之矣惟其論太極者惑於四象之説而失卦畫之本論<lb/>
+天地之數者惑於圖書之文而失參兩之宗論揲蓍者<lb/>
+惑於挂扐之間而失陰陽之變今各釐而正之使不失<lb/>
+其條理則知象數皆自然而然果非私智之能及也至<lb/>
+於數變之説曰反對曰相生曰世應曰互體曰納甲曰<lb/>
+變爻曰勤爻曰對氣謂非易之道則不可謂易盡在於<lb/>
+<pb n="4a"/>
+是則非也要之易道變通不窮得其一端皆足以為説<lb/>
+以其大傳未嘗有言故亦總其大略以為外篇或曰子<lb/>
+之於易皆本之大傳是也而諸儒之説皆略之毋乃自<lb/>
+為是不韙也葢易雖寓之象數孰知論象數者至大傳<lb/>
+而無餘矣凡大傳之所不言亦何敢言哉故寧得是不<lb/>
+韙而不辭也谷水林至序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

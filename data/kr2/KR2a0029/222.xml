@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2a0029_WYG_222-1a"/>
+　舊五代史卷一百十一攷證<lb/>
+周太祖紀二相州張彦成　張彦成原本作彦威今據<lb/>
+　列傳改正<lb/>
+丙子幸宰臣王峻第　案丙子歐陽史作戊寅<lb/>
+癸亥定州奏契丹永康王鄂約為部下所殺　案遼史<lb/>
+　世宗以九月癸亥遇弑不應定州即能于癸亥入奏<lb/>
+　疑原文有舛誤<lb/>
+烏裕舊作兀欲今改　郭濟舊作骨支今改　努瑚舊<lb/>
+<pb n="KR2a0029_WYG_222-1b"/>
+　作耨姑今改<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　舊五代史巻一百十一攷證<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

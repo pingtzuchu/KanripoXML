@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>讀易述目錄</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　　經部一<lb/>
+　讀易述目錄　　　　　　易𩔖<lb/>
+　　卷一<lb/>
+　　　乾　　坤<lb/>
+　　卷二<lb/>
+　　　屯　　蒙　　需　　訟　　師　　比<lb/>
+　　　小畜<lb/>
+　　卷三<lb/>
+<pb n="1b"/>
+　　　履　　泰　　否　　同人　大有　謙<lb/>
+　　　豫<lb/>
+　　卷四<lb/>
+　　　隨　　蠱　　臨　　觀　　噬嗑　賁<lb/>
+　　　剝<lb/>
+　　卷五<lb/>
+　　　復　　无妄　大畜　頤　　大過　坎<lb/>
+　　　離<lb/>
+<pb n="2a"/>
+　　卷六<lb/>
+　　　咸　　恒　　遯　　大壯　晉　　明夷<lb/>
+　　　家人<lb/>
+　　卷七<lb/>
+　　　睽　　蹇　　解　　損　　益　　夬<lb/>
+　　　姤<lb/>
+　　卷八<lb/>
+　　　萃　　升　　困　　井　　革　　鼎<lb/>
+<pb n="2b"/>
+　　　震<lb/>
+　　卷九<lb/>
+　　　艮　　漸　　歸妹　豐　　旅　　巽<lb/>
+　　　兌<lb/>
+　　卷十<lb/>
+　　　渙　　節　　中孚　小過　既濟　未濟<lb/>
+　　卷十一<lb/>
+　　　繫辭上<lb/>
+<pb n="3a"/>
+　　卷十二<lb/>
+　　　繫辭上<lb/>
+　　卷十三<lb/>
+　　　繫辭下<lb/>
+　　卷十四<lb/>
+　　　繫辭下<lb/>
+　　卷十五<lb/>
+　　　說卦<lb/>
+<pb n="3b"/>
+　　卷十六<lb/>
+　　　序卦<lb/>
+　　卷十七<lb/>
+　　　雜卦<lb/>
+　　　　<hi>臣</hi>等謹案讀易述十七卷明潘士藻撰士藻<lb/>
+　　　　字去華號雪松婺源人萬厯癸未進士官至<lb/>
+　　　　尚寳司少卿其書上下經十卷繫辭至雜卦<lb/>
+　　　　七卷毎條皆先發已意而采綴諸儒之說於<lb/>
+<pb n="4a"/>
+　　　　後前有焦竑序稱主理莫備於房審權主數<lb/>
+　　　　莫備於李鼎祚士藻裒而擇之則所據舊說<lb/>
+　　　　惟采周易義海周易集解二書然大旨多主<lb/>
+　　　　於義理故取義海者較多其集解所載如虞<lb/>
+　　　　翻干寳諸家涉於象數者率置不録蓋以房<lb/>
+　　　　書為主而李書輔之也案義海一百卷久佚<lb/>
+　　　　今所存者乃李衡撮要十五卷非其舊本竑<lb/>
+　　　　序云云豈萬厯中舊本猶存耶然宋志已不<lb/>
+<pb n="4b"/>
+　　　　著録陳振孫書録解題亦云惟見四卷其一<lb/>
+　　　　百卷者不見士藻安得而見之竑殆夸飾之<lb/>
+　　　　詞歟乾隆四十五年十二月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="5a"/>
+讀易述序<lb/>
+聖人洗心退藏於宻而吉凶與民同患者莫辨於易故<lb/>
+處而修身出而經世率繇此出而退蔵者其體也但動<lb/>
+之變者百姓可與能而靜之微者賢智未易知聖人於<lb/>
+是立𧰼倚數探賾索𨼆而寓之於書使人探有以取無<lb/>
+立於隂陽之先而隂陽之用動乃不窮措諸事業施諸<lb/>
+天下國家豈虚也哉葢易周萬變而卦止六十有四卦<lb/>
+六十有四而用止九六藉令陽為九用而不能用九則<lb/>
+<pb n="5b"/>
+亢隂為六用而不能用六則戰參同契云二用無爻位<lb/>
+周流行六虛非左之微言道家者流猶得而聞之故耶<lb/>
+余友潘去華刳心孔孟之學晚獨研精於易仰思有得<lb/>
+時時私草其事緒正之每就一章未嘗不津津有味其<lb/>
+言也已而歎曰易如鴻鵠然一人射之不若合衆力之<lb/>
+猶有中也乃盡取諸家參究之博考前聞精思其義而<lb/>
+加折衷焉大抵王主理而莫備於房審權鄭主𧰼而莫<lb/>
+備於李鼎祚去華裒而擇之順而圓之補不足表未明<lb/>
+<pb n="6a"/>
+以指南來學而引之勝地可不謂勤乎去華談易不去<lb/>
+口求其書輒拒而不出葢其意方進而未止也不幸被<lb/>
+疾而殉顧其所就者已可傳矣子師魯輩不以自私梓<lb/>
+而公諸同好有能繇諸𧰼數契其根源出入以度外内<lb/>
+而不懼者斯其為已易也夫萬厯丙午冬瑯琊焦竑書<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

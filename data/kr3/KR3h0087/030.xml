@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>重修宣和博古圖卷三十</head> <lb/>
+    <p>
+<pb n="KR3h0087_WYG_030-1a"/>
+欽定四庫全書<lb/>
+　重修宣和博古圖卷三十<lb/>
+　　鑑三<hi>三十八器</hi>
+　　　龍鳳門<lb/>
+　　　　唐<hi>一十五器</hi>
+　　　　　龍鑑<lb/>
+　　　　　雲龍鑑<lb/>
+　　　　　雲龍八花鑑<lb/>
+<pb n="KR3h0087_WYG_030-1b"/>
+　　　　　雲龍花雀鑑<lb/>
+　　　　　鸞鳳鑑<lb/>
+　　　　　舞鳳狻□鑑<lb/>
+　　　　　蓮鳳鑑<lb/>
+　　　　　鳳銜花鑑<lb/>
+　　　　　鹿鳳蒲萄鑑<lb/>
+　　　　　象鑑<lb/>
+　　　　　饕餮鑑<lb/>
+<pb n="KR3h0087_WYG_030-2a"/>
+　　　　　瑞圖鑑<hi>銘四十三字</hi>
+　　　　　寳花鑑<lb/>
+　　　　　海獸鑑<lb/>
+　　　　　海獸蒲萄鑑<lb/>
+　　　素質門<lb/>
+　　　　漢<hi>一器</hi>
+　　　　　純素鑑<lb/>
+　　　鐵鑑門<lb/>
+<pb n="KR3h0087_WYG_030-2b"/>
+　　　　隋<hi>一器</hi>
+　　　　　十六符鐵鑑<hi>銘三十四字</hi>
+　　　　唐<hi>二十一器</hi>
+　　　　　二十八宿鐵鑑<hi>銘六十一字</hi>
+　　　　　八卦鐵鑑一<hi>銘二十二字</hi>
+　　　　　八卦鐵鑑二<hi>銘二十八字</hi>
+　　　　　十二辰鐵鑑<hi>銘二十四字</hi>
+　　　　　日月鐵鑑<hi>銘四十字</hi>
+<pb n="KR3h0087_WYG_030-3a"/>
+　　　　　鳳龜八卦鐵鑑<lb/>
+　　　　　八卦龜鳳鐵鑑<lb/>
+　　　　　四靈八卦鐵鑑<lb/>
+　　　　　八卦方鐵鑑<lb/>
+　　　　　八角八卦鐵鑑<lb/>
+　　　　　千秋萬歲鐵鑑<hi>銘八字</hi>
+　　　　　玉堂鐵鑑<hi>銘一十六字</hi>
+　　　　　自明鐵鑑<hi>銘二十字</hi>
+<pb n="KR3h0087_WYG_030-3b"/>
+　　　　　晉陽龍鐵鑑<hi>銘四十六字</hi>
+　　　　　戲水龍鐵鑑<lb/>
+　　　　　鳳花鐵鑑<lb/>
+　　　　　雙鳳鐵鑑<lb/>
+　　　　　花雀鐵鑑<lb/>
+　　　　　寳花鐵鑑一<lb/>
+　　　　　寳花鐵鑑二<lb/>
+　　　　　素圜鐵鑑<lb/>
+<pb n="KR3h0087_WYG_030-4a"/>
+</p>
+<p>
+<pb n="KR3h0087_WYG_030-5a"/>
+</p>
+<p>
+<pb n="KR3h0087_WYG_030-6a"/>
+</p>
+<p>
+<pb n="KR3h0087_WYG_030-7a"/>
+</p>
+<p>
+<pb n="KR3h0087_WYG_030-8a"/>
+</p>
+<p>
+<pb n="KR3h0087_WYG_030-9a"/>
+</p>
+<p>
+<pb n="KR3h0087_WYG_030-10a"/>
+</p>
+<p>
+<pb n="KR3h0087_WYG_030-11a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3h0087_WYG_030-11b"/>
+龍鳳門<lb/>
+唐龍鑑徑八寸八分重三斤十有五兩無銘<lb/>
+唐雲龍鑑徑三寸八分重十有一兩三分無銘<lb/>
+唐雲龍八花鑑徑六寸三分重十有二兩無銘<lb/>
+唐雲龍花雀鑑徑六寸二分重一斤九兩無銘<lb/>
+唐鸞鳳鑑徑六寸一分重二斤十有五兩無銘<lb/>
+唐舞鳳狻猊鑑徑七寸五分重三斤無銘<lb/>
+唐蓮鳳鑑徑八寸二分重三斤一十兩無銘<lb/>
+<pb n="KR3h0087_WYG_030-12a"/>
+唐鳳銜花鑑徑七寸六分重四斤六兩無銘<lb/>
+唐鹿鳳蒲萄鑑徑六寸五分重一斤十有四兩無銘<lb/>
+唐象鑑徑六寸五分重二斤七兩無銘<lb/>
+唐饕餮鑑徑五寸四分重一斤三兩無銘<lb/>
+唐瑞圖鑑徑六寸五分重二斤三兩銘四十三字<lb/>
+唐寳花鑑徑一尺二寸重八斤四兩無銘<lb/>
+唐海獸鑑徑五寸重一斤十有四兩無銘<lb/>
+唐海獸蒲萄鑑徑八寸三分重四斤五兩無銘<lb/>
+<pb n="KR3h0087_WYG_030-12b"/>
+右三十五鑑凡致養之道不特人然也鳥獸草木皆有<lb/>
+之是以至治之世百獸率舞鳳皇來儀以至萬物之生<lb/>
+各得其宜有如由儀萬物得極其高大有如崇丘皆致<lb/>
+養然也此又次之以龍鳳花鳥海獸焉<lb/>
+<pb n="KR3h0087_WYG_030-13a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3h0087_WYG_030-13b"/>
+素質門<lb/>
+右一鑑徑五寸四分重一斤一兩無銘列子曰太初未<lb/>
+見氣也太易氣之始也太素質之始也然則氣變而有<lb/>
+形形具而有質則色色自是而起矣故以純質者終之<lb/>
+<pb n="KR3h0087_WYG_030-14a"/>
+</p>
+<p>
+<pb n="KR3h0087_WYG_030-15a"/>
+</p>
+<p>
+<pb n="KR3h0087_WYG_030-16a"/>
+</p>
+<p>
+<pb n="KR3h0087_WYG_030-17a"/>
+</p>
+<p>
+<pb n="KR3h0087_WYG_030-18a"/>
+</p>
+<p>
+<pb n="KR3h0087_WYG_030-19a"/>
+</p>
+<p>
+<pb n="KR3h0087_WYG_030-20a"/>
+</p>
+<p>
+<pb n="KR3h0087_WYG_030-21a"/>
+</p>
+<p>
+<pb n="KR3h0087_WYG_030-22a"/>
+</p>
+<p>
+<pb n="KR3h0087_WYG_030-23a"/>
+</p>
+<p>
+<pb n="KR3h0087_WYG_030-24a"/>
+</p>
+<p>
+<pb n="KR3h0087_WYG_030-25a"/>
+鐵鑑門<lb/>
+隋十六符鐵鑑徑七寸九分重一斤十有一兩銘三十<lb/>
+四字<lb/>
+唐二十八宿鐵鑑徑七寸二分重二斤五兩銘六十一<lb/>
+字<lb/>
+唐八卦鐵鑑一徑八寸重三斤六兩銘二十二字未詳<lb/>
+唐八卦鐵鑑二徑七寸二分重二斤十有一兩銘二十<lb/>
+八字<lb/>
+<pb n="KR3h0087_WYG_030-25b"/>
+唐十二辰鐵鑑徑七寸九分重三斤一十兩銘二十四<lb/>
+字未詳<lb/>
+唐日月鐵鑑徑五寸八分重十有一兩銘四十字<lb/>
+唐鳳龜八卦鐵鑑徑一尺二分重四斤有半無銘<lb/>
+唐八卦龜鳳鐵鑑徑八寸三分重三斤四兩無銘<lb/>
+唐四靈八卦鐵鑑徑七寸二分重三斤無銘<lb/>
+唐八卦方鐵鑑徑四寸九分重一斤十有二兩無銘<lb/>
+唐八角八卦鐵鑑徑七寸八分重二斤七兩無銘<lb/>
+<pb n="KR3h0087_WYG_030-26a"/>
+唐千秋萬歲鐵鑑徑七寸六分重三斤十有五兩銘八<lb/>
+字<lb/>
+唐玉堂鐵鑑徑一尺一寸六分重九斤有半銘一十六<lb/>
+字<lb/>
+唐自明鐵鑑徑七寸一分重二斤十有四兩銘二十字<lb/>
+唐晉陽龍鐵鑑徑八寸三分重二斤一十四兩銘四十<lb/>
+六字<lb/>
+唐戲水龍鐵鑑徑七寸四分重一斤十有二兩無銘<lb/>
+<pb n="KR3h0087_WYG_030-26b"/>
+<hi>闕</hi>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　重修宣和博古圖卷三十<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

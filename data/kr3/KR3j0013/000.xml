@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>劉子</head>
+    <p>
+<pb n="KR3j0013_WYG_000-1a"/>
+欽定四庫全書　　　　　子部十<lb/>
+　劉子　　　　　　　　　雜家類一<hi>雜學之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案劉子十卷隋志不著録唐志作梁<lb/>
+　　　　劉勰撰陳振孫書録解題晁公武讀書志俱<lb/>
+　　　　據唐播州録事參軍袁孝政序作北齊劉晝<lb/>
+　　　　撰宋史藝文志亦作劉晝自明以來刋本<lb/>
+　　　　不載孝政註亦不載其序惟陳氏載其序畧<lb/>
+<pb n="KR3j0013_WYG_000-1b"/>
+　　　　曰晝傷已不遇天下陵遲播遷江表故作此<lb/>
+　　　　書時人莫知謂為劉勰劉歆劉孝標作云云<lb/>
+　　　　不知所據何書故陳氏以為終不知晝為何<lb/>
+　　　　代人按梁通事舍人劉勰史惟稱其撰文心<lb/>
+　　　　雕龍五十篇不云更有别書且文心雕龍樂<lb/>
+　　　　府篇稱塗山歌於候人始為南音有娀謡乎<lb/>
+　　　　飛燕始為北聲夏甲歎於東陽東音以發殷<lb/>
+　　　　整思于西河西音以興此書辨樂篇稱夏甲<lb/>
+<pb n="KR3j0013_WYG_000-2a"/>
+　　　　作破斧之歌始為東音與勰説合其稱殷辛<lb/>
+　　　　作靡靡之樂始為北音則與勰説逈異必不<lb/>
+　　　　出于一人又史稱勰長於佛理嘗定東林寺<lb/>
+　　　　經蔵後出家改名慧地此書末篇乃歸心道<lb/>
+　　　　教與勰志趣逈殊白雲霽道蔵目録亦收之<lb/>
+　　　　太元部無字號中其非奉佛者明甚近本仍<lb/>
+　　　　刋劉勰殊為失考至劉孝標之説南史梁書<lb/>
+　　　　俱無明文未足為據劉歆之説則激通篇稱<lb/>
+<pb n="KR3j0013_WYG_000-2b"/>
+　　　　班超憤而習武卒建西域之績其説可不攻<lb/>
+　　　　而破矣惟北齊劉晝字孔昭渤海阜城人名<lb/>
+　　　　見北史儒林傳然未嘗播遷江表與孝政之<lb/>
+　　　　序不符傳稱晝孤貧愛學恣意披覽晝夜不<lb/>
+　　　　息舉秀才不第乃恨不學屬文方復綴緝詞<lb/>
+　　　　藻言甚古拙與此書之縟麗輕蒨亦不合又<lb/>
+　　　　稱求秀才十年不得乃發憤撰髙才不遇傳<lb/>
+　　　　孝昭時出詣晉陽上書言亦切直而多非世<lb/>
+<pb n="KR3j0013_WYG_000-3a"/>
+　　　　要終不見收乃編録所上之書為帝道河清<lb/>
+　　　　中又著金箱璧言以指機政之不良亦不云<lb/>
+　　　　有此書豈孝政所指又别一劉晝歟觀其書<lb/>
+　　　　末九流一篇所指得失皆與隋書經籍志子<lb/>
+　　　　部所論相同使隋志襲用其説不應反不録<lb/>
+　　　　其書使其剽襲隋志則貞觀以後人作矣或<lb/>
+　　　　袁孝政採掇諸子之言自為此書而自注之<lb/>
+　　　　又恍惚其著書之人使後世莫究詰亦未可<lb/>
+<pb n="KR3j0013_WYG_000-3b"/>
+　　　　知也然劉勰之名今既確知其非自當刋正<lb/>
+　　　　劉晝之名則介在疑似之間難以確斷姑仍<lb/>
+　　　　晁氏陳氏二家之目題晝之名而附著牴牾<lb/>
+　　　　如右乾隆四十六年十月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

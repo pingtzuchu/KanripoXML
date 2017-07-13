@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>北堂書鈔巻十六</head> <lb/>
+    <p>
+<pb n="KR3k0004_WYG_016-1a"/>
+欽定四庫全書<lb/>
+　北堂書鈔巻十六<lb/>
+　　　　　　　　　　　唐　虞世南　撰<lb/>
+　　　　　　　　　　　明　陳禹謨　補註<lb/>
+　帝王部<lb/>
+　　　巡行五十三<lb/>
+徯我后　望君來<hi>漢書</hi>望翠華蓋<hi>漢書舊儀</hi>王有巡狩　天子<lb/>
+展義<hi>春秋</hi>太平巡狩<hi>白虎/通</hi>觀風設教<hi>張衡</hi>五年一巡　十二<lb/>
+<pb n="KR3k0004_WYG_016-1b"/>
+年王巡狩<hi>周禮</hi>先王卜征<hi>春/秋</hi>外事以剛日　歳習其祥<hi>春秋</hi>
+王者應人<hi>豫章列士傳</hi>時邁　外事翔行<hi>穆天子傳</hi>諸侯待有功<lb/>
+進律　太師陳詩命市納賈　納詩書審量衡<hi>越記</hi>考制<lb/>
+度　祀四岳懷百神　望秩山川　舉功行賞<hi>史記</hi>肆覲<lb/>
+東后　省方觀民　因名山　巡行邦國　就見百年<lb/>
+　吏民懽悅<hi>東觀</hi>周流八丘<hi>淮南/子</hi>周行天下<hi>春秋</hi>戒守四方<lb/>
+<hi>周官</hi>造於祖禰<hi>孔叢/子</hi>格于藝祖　王行洗乗石<hi>周禮</hi>已駕僕<lb/>
+展軨　清道案行<hi>杜預</hi>清宫後徃<hi>漢書/舊儀</hi>巾車飾路<hi>劉珍</hi>出撞<lb/>
+<pb n="KR3k0004_WYG_016-2a"/>
+黄鐘入撞𬎼賓　衛官塡街騎士塞路<hi>漢書舊儀</hi>乘鸞輅駕<lb/>
+蒼龍乗朱輅駕赤騮乗戎輅駕白駱乗𤣥輅駕鐵驪<lb/>
+前朱雀後𤣥武左青龍右白虎　前有水則載青旌前<lb/>
+有塵埃則載鳴鳶前有摯獸則載貔貅前有士師則載<lb/>
+虎皮　于是乗輿登天靈之威路駕太一之象車升九<lb/>
+龍之華旗建掃霓之旌旄<hi>崔駰頌</hi>雲旗逶迤<hi>離騷</hi>羽蓋葳蕤<lb/>
+<hi>王沈</hi>雲蓋<hi>山海/經</hi>風車<hi>春/秋</hi>登天靈之威輅<hi>崔駰</hi>運天官之法駕<lb/>
+<hi>班固</hi>乗兩儀<hi>郭/象</hi>駕五行<hi>傅元/大言</hi>千乗雷動萬騎龍趨<hi>張衡賦</hi>千<lb/>
+<pb n="KR3k0004_WYG_016-2b"/>
+乗雷動萬騎雲舒<hi>王沉</hi>千乗方轂萬騎龍翥<hi>應貞七章</hi>秉玉戚<lb/>
+方玉車<hi>揚雄</hi>人皇駕六羽<hi>春/秋</hi>神農駕六龍<hi>春秋</hi>春夏乗龍秋<lb/>
+冬乗馬<hi>大戴禮</hi>伯禹御二龍<hi>括地/圖</hi>穆王駕八駿<hi>穆天子傳</hi>駕象<lb/>
+車<hi>韓子</hi>飾玉輅<hi>利/貞</hi>黄帝馭紫虬<hi>符/子</hi>帝堯駕白馬<hi>典畧</hi>舞九馬<lb/>
+<hi>山海經</hi>駕八龍<hi>楚/辭</hi>乗龍西濟<hi>大/戴</hi>輿服東巡登龍舟<hi>班固</hi>乗鳥<lb/>
+舟<hi>穆天子</hi>汎樓船<hi>漢武/帝</hi>浮文鷁<hi>司馬/相如</hi>舳艫千里<hi>漢書</hi>旌旗數<lb/>
+百里<hi>魏志</hi>風伯進掃雨師洒道<hi>韓/子</hi>雲師灑路雷公驚蹕<hi>劉楨</hi>
+逺祖前驅松喬夾轂<hi>孫綽子</hi>畢方竝轄蚩尤居前<hi>韓子</hi>河靈<lb/>
+<pb n="KR3k0004_WYG_016-3a"/>
+驚而承旗馮夷儼其操[車*犬]<hi>劉珍</hi>吐風伯於南北呵雨師於<lb/>
+西東<hi>揚雄</hi>神農出地輔<hi>春/秋</hi>靈龜負書鳳凰覆上<hi>韓子</hi>黄帝極<lb/>
+天衢<hi>孫綽子</hi>黄帝合鬼神<hi>韓/子</hi>帝嚳通風雨<hi>春秋</hi>巡北而羣鶴<lb/>
+見<hi>漢書</hi>居山隅而鳯凰集<hi>劉珍</hi>駕黿鼉以為梁遂伐越至于<lb/>
+紆<hi>紀年</hi>升舂山望四野<hi>穆天/子</hi>宿于崑崙之阿<hi>穆天子</hi>適昆吾<lb/>
+之丘<hi>符子</hi>南登熊山東至九山上㑹稽<hi>並史/記</hi>登之罘<hi>漢書</hi>西<lb/>
+登隴首<hi>漢武</hi>北出蕭關<hi>史/記</hi>東巡碣石<hi>漢/書</hi>北升孟門<hi>穆天子</hi>至<lb/>
+琅邪臺上鄒嶧山<hi>史記</hi>登天柱山<hi>漢/書</hi>堯亭<hi>王/歆</hi>堯跡<hi>三齊畧記</hi>秦<lb/>
+<pb n="KR3k0004_WYG_016-3b"/>
+履<hi>南徐州</hi>觀河洛受圖書<hi>帝王/世紀</hi>宛委金簡玉字<hi>呉越春秋</hi>披圖<lb/>
+視典　曝書羽陵　藏書策府　取玉三乗載玉萬隻<lb/>
+<hi>穆天子傳曰天子至羣玉之山於是云云補</hi>觀黄帝之宫<hi>穆天/子</hi>歡虞之風<hi>崔駰</hi>
+見皇人於玉堂<hi>抱朴子</hi>求仙人<hi>漢/書</hi>見玉女<hi>嵩高/記</hi>禮名山<hi>漢書</hi>
+望祀九疑<hi>史記</hi>望祀蓬萊<hi>漢/書</hi>祭于鐵山祀于郊門<hi>穆天子</hi>祠<lb/>
+孔子宅<hi>東觀</hi>祠魏公<hi>漢/書</hi>問樂毅後<hi>史/記</hi>祭橋𤣥墓<hi>魏武帝</hi>巡狩<lb/>
+大越<hi>越絶</hi>祭單于臺<hi>漢/書</hi>遊大樂之野<hi>山海經</hi>升大比隥入南<lb/>
+鄭<hi>穆天子</hi>至朔方<hi>史記</hi>祭于宜軫之鄭升于長松之隥舍于<lb/>
+<pb n="KR3k0004_WYG_016-4a"/>
+珠澤　東遊黄澤<hi>並穆天子</hi>厯鳴澤<hi>漢/書</hi>臨江<hi>呉/録</hi>射魚<hi>史記</hi>射蛟<lb/>
+<hi>漢書</hi>飲丹巒之山<hi>抱朴/子</hi>休𤣥池之上<hi>穆天子傳曰天子西征至于𤣥池天子三</hi>
+<hi>日休于𤣥池之上乃奏廣樂三日而終是曰樂池補</hi>飲于枝洔　觴于瑶池　具<lb/>
+牛馬之湩　飲左驂之血<hi>穆天子傳曰天子渴于沙衍求飲未至七萃之士高奔戎</hi>
+<hi>刺其左驂之頸取其青血以飲天子補</hi>飲白鶴之血<hi>穆天子傳曰天子乃遂東南翔行馳驅千</hi>
+<hi>里至于巨蒐之人□奴乃獻白鵠之血以飲天子因其牛羊之湩以洗天子之足  注曰所以飲血益人氣力</hi>
+<hi>湩乳也令肌膚滑補</hi>殽陵風雨<hi>春/秋</hi>犬戎雨雪<hi>穆天子傳曰天子北征于犬戎庚寅北風</hi>
+<hi>雨雪天子以寒之故命王屬休補</hi>答西王母謠<hi>穆天子傳曰天子觴西王母于瑤池之上西王</hi>
+<pb n="KR3k0004_WYG_016-4b"/>
+<hi>母爲天子謠曰白雲在天山䧙自出道里悠逺山川間之將子無死尚能復來天子答之曰予歸東土和治諸</hi>
+<hi>夏萬民平均吾顧見汝比及三年將復而野補</hi>作秋風辭<hi>漢武帝</hi>作盛唐歌　工<lb/>
+人見謁<hi>列子</hi>執白圭獻好錦<hi>穆天子傳</hi>觀舊廬祠舊宅　置酒<lb/>
+舊宅<hi>東觀</hi>置酒沛宫歸新豐起舞<hi>史/記</hi>過沛作歌<hi>漢武帝</hi>自擊<lb/>
+筑<hi>史記</hi>明帝自御塤箎<hi>東/觀</hi>道舊故<hi>史/記</hi>問吏民<hi>漢/武</hi>問三老<hi>東觀</hi>
+饗六軍<hi>魏書</hi>在靈囿　宴華池<hi>魏文帝</hi>厯覽宫觀步觀部署<lb/>
+<hi>東觀</hi>過鳷鵲望露寒下棠棃息宜春<hi>文選注曰皆宫觀名也張楫曰此皆漢武</hi>
+<hi>帝建元年中所作在雲陽甘泉宫之外補</hi>乗雲閣而上下<hi>揚雄</hi>步雕輦以周遊<lb/>
+<pb n="KR3k0004_WYG_016-5a"/>
+<hi>王沈</hi>坐鳯凰之堂聽和鳴之音<hi>王注</hi>載之後車　從在屬車<lb/>
+<hi>漢武</hi>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3k0004_WYG_016-5b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　北堂書鈔卷十六<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

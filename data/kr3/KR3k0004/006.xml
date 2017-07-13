@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>北堂書鈔卷六</head> <lb/>
+    <p>
+<pb n="KR3k0004_WYG_006-1a"/>
+欽定四庫全書<lb/>
+　北堂書鈔卷六<lb/>
+　　　　　　　　　　　唐　虞世南　撰<lb/>
+　　　　　　　　　　　明　陳禹謨　補註<lb/>
+　帝王部<lb/>
+　　孝德十四　　　　睦親十五<lb/>
+　　體仁十六　　　　寛惠十七<lb/>
+　　　孝德十四<lb/>
+<pb n="KR3k0004_WYG_006-1b"/>
+克諧以孝　永言孝思　孝子不匱永錫爾類　惟余<lb/>
+小子夙夜敬止　富有天下不足解憂　舜大孝　禹<lb/>
+致孝　孝友聞於四方　仁孝聞於天下　履大舜之<lb/>
+孝　至孝惻隠　五日一朝　如家人之禮　昧爽定<lb/>
+省　不暇食粥　三年不言　不忍言政　仰見榱桷<lb/>
+俯視几筵　眞覺悲不能寐　視鏡奩而流涕　爲木<lb/>
+主不敢自專　營洛邑武王之意奉建武王之政　恭<lb/>
+奉遺業　龍負圖　龜出書　烏瑞臻　烏集庭　甘<lb/>
+<pb n="KR3k0004_WYG_006-2a"/>
+露降<lb/>
+　　　睦親十五<lb/>
+惇敘九族　以親九族　親睦九族　篤厚親戚愛樂<lb/>
+諸弟　以爲首命　立愛惟親立敬惟長　兄及弟矣<lb/>
+式相好矣　宜兄宜弟令德壽愷　戚戚兄弟莫逺具<lb/>
+爾　凡今之人莫如兄弟　友于之志通於神明　或<lb/>
+肆之筵或授之几　迎拜於階　奉觴上壽　置其驛<lb/>
+馬傳起居　興席改容與車升殿　君子不弛其親<lb/>
+<pb n="KR3k0004_WYG_006-2b"/>
+能庇昭穆之門　蔦與女蘿施於松柏　緜緜葛藟在<lb/>
+河之滸<lb/>
+　　　體仁十六<lb/>
+何以守位曰仁　體仁足以長人　其仁如天　仁育<lb/>
+萬物　仁以接物　仁風遐揚　仁風潛扇　仁義爲<lb/>
+巢　仁義爲郭　仁義爲凖　仁義爲繩　醉於仁義<lb/>
+　隂行仁義　履行仁義　克寛克仁　寛仁篤仁<lb/>
+寛仁温惠　仁而愛人　本仁祖義　仁如騶虞　蹈<lb/>
+<pb n="KR3k0004_WYG_006-3a"/>
+顔子之仁　仁智明達　仁及草木　仁歌行葦　視<lb/>
+民如子　視民如傷　兼愛百姓　弗侮鰥寡　敬老<lb/>
+慈少　慈幼養老　嘉孺子兼哀婦人<hi>莊子舜問於堯曰天王之用心</hi>
+<hi>何如堯曰吾不敖無告不廢窮民苦死者嘉孺子而哀婦人此吾所以用心也補</hi>䕃暍人於樾<lb/>
+下　扇暍更葬<hi>帝王世紀云武王見暍人王自左擁而右扇之又吕氏春秋曰周文王使人抇</hi>
+<hi>地得死人之骸吏以聞於文王文王曰更葬之吏曰此無主矣文王曰有天下者天下之主也有一國者一國</hi>
+<hi>之主也遂令吏以衣冠更葬之天下聞之曰文王賢矣澤及髊骨補</hi>好生之德洽於民心<lb/>
+　無肆掠止獄訟　挺重囚　益其食　省囹圄　出<lb/>
+<pb n="KR3k0004_WYG_006-3b"/>
+輕繫　除肉刑　泣罪人　去網去鉤　焚鴆　春田<lb/>
+不澤圍　田獵唯時不殺童羊<hi>童牛也</hi>　無殺孩蟲胎夭<lb/>
+飛鳥　川澤不入網罟以成魚鱉之長山林不登斧以<lb/>
+成草木之長<hi>汲冡周書春三月山林不登斧以成草木之長夏三月川澤不入網罟以成魚鱉之</hi>
+<hi>長補</hi>王在靈囿麀鹿攸伏　芃芃黍苗隂雨膏之　方苞<lb/>
+方體維葉泥泥<lb/>
+　　　寛惠十七<lb/>
+寛以受人　寛以濟衆　撫民以寛　代虐以寛　寛<lb/>
+<pb n="KR3k0004_WYG_006-4a"/>
+而有制　易簡之善　文王惠和　惠康小民　布惠<lb/>
+於民王命於專　勤施德惠　惠鮮鰥寡　子惠困窮<lb/>
+　施惠振窮<hi>淮南子</hi>賜寡貧窮　分貧窮　恢𢎞博施<lb/>
+徳施周普　施禄及下　恩無不逮　以恩悅人　澤<lb/>
+潤生民　澤及天下<hi>莊子</hi>四海渥澤<hi>辛/伯</hi>德澤洋溢<hi>東觀</hi>澤<lb/>
+如時雨𤣥澤滂流　惠澤播於黎苗　燭八紘<hi>劉公幹</hi>苑<lb/>
+彼桑柔<lb/>
+　<lb/>
+<pb n="KR3k0004_WYG_006-4b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　北堂書鈔卷六<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

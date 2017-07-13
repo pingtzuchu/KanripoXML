@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4c0004_SBCK_000-1a"/>
+楊盈川集序<hi>明</hi>皇甫汸<lb/>
+嘗觀經籍阨於先秦之火擾於中原之兵浸聚浸逸<lb/>
+幸遇好文之主下求遺之詔括以輶使寵以官資魯<lb/>
+壁既罕汲冡斯發隋唐而後始廣備云經傳子史曰<lb/>
+闕矧文集乎大唐弘文風沿江左道盛開元時則王<lb/>
+勃楊炯盧照鄰駱賓王並稱年少俱擅髙才海内號<lb/>
+為四傑馬氏云王集二十卷劉元濟為之序駱集十<lb/>
+卷郝雲卿為之序然王詩賦之餘未覩他撰駱書啟<lb/>
+之外罕載雜篇盧惟詩賦附以五悲咸似未全書也<lb/>
+楊集□□卷後止二十卷今皆無存焉童氏子鳴耽<lb/>
+書籍謂淫嗜成癖而盈川者其所産地也參兹下民<lb/>
+脊言父母年祀緜隔桑梓猶存遡瀫水以興懐眺龍<lb/>
+<pb n="KR4c0004_SBCK_000-1b"/>
+<pb n="KR4c0004_SBCK_000-2a"/>
+楊盈川集<lb/>
+　　　　　　　　　　　唐　華隂　楊烱　撰<lb/>
+　　　　　　　　　　　皇明龍游　童珮詮次<lb/>
+　卷一<lb/>
+　　賦<lb/>
+　　　渾天賦<hi>并序</hi>
+　　　靑苔賦<lb/>
+　　　卧讀書架賦<lb/>
+　　　幽蘭賦<lb/>
+　　　老人星賦<lb/>
+　　　庭菊賦<hi>并序</hi>
+<pb n="KR4c0004_SBCK_000-2b"/>
+　　　浮漚賦<lb/>
+　　　盂蘭盆賦<lb/>
+　卷二<lb/>
+　　五言古詩<lb/>
+　　　廣溪峽<lb/>
+　　　巫峽<lb/>
+　　　西陵峽<lb/>
+　　　奉和上元酺宴應詔<lb/>
+　　五言律詩<lb/>
+　　　從軍行<lb/>
+　　　劉生<lb/>
+<pb n="KR4c0004_SBCK_000-3a"/>
+　　　送臨津王少府<lb/>
+　　　送豐城王少府<lb/>
+　　　送鄭州周司功<lb/>
+　　　騘馬<lb/>
+　　　出塞<lb/>
+　　　有所思<lb/>
+　　　梅花落<lb/>
+　　　折楊栁<lb/>
+　　　紫騮馬<lb/>
+　　　戰城南<lb/>
+　　　送梓州同司功<lb/>
+<pb n="KR4c0004_SBCK_000-3b"/>
+　　　送楊處士反初卜居曲江<lb/>
+　　五言排律<lb/>
+　　　送劉校書從軍<lb/>
+　　　遊廢觀<lb/>
+　　　和石侍御山莊<lb/>
+　　　和崔司空傷<lb/>
+　　　和騫右丞省中暮望<lb/>
+　　　和劉侍郎入隆唐觀<lb/>
+　　　和輔先入昊天觀<lb/>
+　　　和酬號州李司法<lb/>
+　　　和旻上人傷果禪師<lb/>
+<pb n="KR4c0004_SBCK_000-4a"/>
+　　　和鄭校讐内省眺矚思鄕懷友<lb/>
+　　　和劉長史答十九兄<lb/>
+　　　送李庻子致仕還洛<lb/>
+　　　早行<lb/>
+　　　途中<lb/>
+　　五言絶句<lb/>
+　　　夜送趙縱<lb/>
+　　　附烱姪女臨鏡暁粧<lb/>
+　卷三<lb/>
+　　序<lb/>
+　　　王勃集序<lb/>
+<pb n="KR4c0004_SBCK_000-4b"/>
+　　　宴族人楊八宅序<lb/>
+　　　送東海孫尉詩序<lb/>
+　　　登秘書省閣詩序<lb/>
+　　　崇文舘宴集詩序<lb/>
+　　　李舍人山亭詩序<lb/>
+　　　送徐録事詩序<lb/>
+　　　送并州旻上人詩序<lb/>
+　　　晦日藥園詩序<lb/>
+　　　群官尋楊隱居詩序<lb/>
+　　　宴皇甫兵曹宅詩序<lb/>
+　卷四<lb/>
+<pb n="KR4c0004_SBCK_000-5a"/>
+　　碑<lb/>
+　　　大唐益州大都督府新都縣學先聖廟堂碑<lb/>
+　　　文<lb/>
+　　　遂州長江縣先聖孔子廟堂碑<lb/>
+　卷五<lb/>
+　　碑<lb/>
+　　　少室山少姨廟碑<lb/>
+　　銘<lb/>
+　　　梓州惠義寺重閣銘<lb/>
+　　表<lb/>
+　　　爲劉少傳等謝勑書慰勞表<lb/>
+<pb n="KR4c0004_SBCK_000-5b"/>
+　　議<lb/>
+　　　公卿巳下冕服議<lb/>
+　卷六<lb/>
+　　神道碑<lb/>
+　　　後周靑州剌史齊貞公宇文公神道碑<lb/>
+　　　後周明威將軍梁公神道碑<lb/>
+　　　唐同州長史宇文公神道碑<lb/>
+　卷七<lb/>
+　　神道碑<lb/>
+　　　唐恒州剌史建昌公王公神道碑<lb/>
+　　　唐贈荆州剌史成公神道碑<lb/>
+<pb n="KR4c0004_SBCK_000-6a"/>
+　　　益州温江縣令任君神道碑<lb/>
+　　　原州百泉縣令李君神道碑<lb/>
+　卷八<lb/>
+　　神道碑<lb/>
+　　　瀘州都督王湛神道碑<lb/>
+　　　唐右將軍魏哲神道碑<lb/>
+　　　唐上騎都尉高君神道碑<lb/>
+　　　唐昭武校尉曹君神道碑<lb/>
+　卷九<lb/>
+　　墓誌<lb/>
+　　　<graphic n="KR0566" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0566.png" mimeType="image/png"/>國公墓誌銘<lb/>
+<pb n="KR4c0004_SBCK_000-6b"/>
+　　　常州剌史伯父東平楊公墓誌銘<lb/>
+　　　杜袁州墓誌銘<lb/>
+　　　隰川令李公墓誌銘<lb/>
+　　　李懷州墓誌銘<lb/>
+　　　從弟去盈墓誌銘<lb/>
+　　　從弟去溢墓誌銘<lb/>
+　　　從甥梁錡墓誌銘<lb/>
+　卷十<lb/>
+　　行狀<lb/>
+　　　中書令汾隂公薛振行狀<lb/>
+　　　左武衛將軍成安子崔獻行狀<lb/>
+<pb n="KR4c0004_SBCK_000-7a"/>
+　　祭文<lb/>
+　　　爲薛令祭劉少監文<lb/>
+　　　詹事府官寮祭郝少保文<lb/>
+　　　爲梓州官屬祭陸郪縣文<lb/>
+　　　祭汾隂公文<lb/>
+　附録<lb/>
+　　　唐書本傳<lb/>
+　　　新唐書本傳<lb/>
+　　　温泉莊卧病寄楊七烱<lb/>
+　　　贈别楊盈川箴<lb/>
+　　　祭楊盈川文<lb/>
+<pb n="KR4c0004_SBCK_000-7b"/>
+　　　唐會要<lb/>
+　　　文獻通攷<lb/>
+　　　容齋隨茟<lb/>
+　　　唐書裴行儉傳<lb/>
+　　　唐詩紀事<lb/>
+　　　唐詩品彚<lb/>
+　　　楊烱集序<lb/>
+楊盈川集目録<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

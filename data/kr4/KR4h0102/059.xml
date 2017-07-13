@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0102_SBCK_059-1a"/>
+皇明文衡卷之五十九<lb/>
+　傳<lb/>
+　　　攖寧生傳　朱右<lb/>
+攖寧生出滑伯後名壽字伯仁世為許襄城大家元初祖父<lb/>
+官江南自許徙儀眞而壽生焉性警敏習儒書於韓說先生<lb/>
+日記千餘言操筆為文辭有思致尤長於楽府京口王居中<lb/>
+客醫儀眞治方<graphic n="KR0899" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0899.png" mimeType="image/png"/>術有時名壽数往叩之居中曰醫祖黃帝<lb/>
+𡵨伯其言佚不傳世傳者唯素問難經子其習之乎壽遂受<lb/>
+之旣終卷乃進請其師曰素問為說備矣篇次無緒錯簡不<lb/>
+無愚将分藏象經度<graphic n="KR0899" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0899.png" mimeType="image/png"/>候病能攝生論治色<graphic n="KR0899" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0899.png" mimeType="image/png"/>鍼刺隂陽標<lb/>
+本運氣彚萃凡十二類鈔而讀之難經又本素問靈樞之旨<lb/>
+設難釋義其間榮衛部位藏府<graphic n="KR0899" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0899.png" mimeType="image/png"/>法與夫經絡腧穴辨之博<lb/>
+<pb n="KR4h0102_SBCK_059-1b"/>
+矣而闕悞或多愚將本其旨義註而讀之何如居中曰甚矣<lb/>
+子之善學也善哉子學之得其道也予守師說者子識卓理<lb/>
+融契悟前訓子過我矣他日以醫名世其子也邪自是壽學<lb/>
+日進益叅考張仲景劉守眞李明之三家而大同之攄其所<lb/>
+得投之所向莫不中肯綮旣又傳鍼法於東平高洞陽得其<lb/>
+開闔流注方圓𥙷㵼之道又究夫十二經走㑹屬絡流輸交<lb/>
+别之要至若隂陽維蹻衝帶六<graphic n="KR0899" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0899.png" mimeType="image/png"/>雖皆有繫屬而唯督任二<lb/>
+經則苞乎腹背而有專穴諸經滿而溢者此則受之宜與十<lb/>
+二經竝論乃取內經骨空諸論及靈樞本輸篇所𫐠經<graphic n="KR0899" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0899.png" mimeType="image/png"/>著<lb/>
+十四經發揮三卷䟽其本旨釋其名義通考隧穴六百四十<lb/>
+有七而施治功以盡醫之神祕他如讀傷寒論鈔診家樞要<lb/>
+痔瘻篇及聚諸書本草為醫韻皆有功後學故其行有治驗<lb/>
+<pb n="KR4h0102_SBCK_059-2a"/>
+所至人爭延致以得攖寧生診視一决生死爲無憾生無間<lb/>
+貧富皆往治報不報弗較也遂知名呉楚間在淮南曰滑壽<lb/>
+在呉曰伯仁氏在鄞越曰攖寧生云生年七十餘顔容如童<lb/>
+行歩輕捷飮酒無筭人有請雖祁寒暑雨弗憚世多德之其<lb/>
+治法往往奇中人間能言之故記者頗多其徒日采表著者<lb/>
+成編以傳其在儀眞御史中丞八臣亦家焉其內人病艱於<lb/>
+小溲中滿喘渴門僧寳頗知醫投以蕖麥梔苓諸滑利藥而<lb/>
+閟益甚召壽候其<graphic n="KR0899" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0899.png" mimeType="image/png"/>三部皆弦而濇壽曰經云膀胱者州都<lb/>
+之官津液藏焉氣化則能出矣所謂水出高源者也膻中之<lb/>
+氣不化則水液不行病因於氣徒行水無益也法當治上焦<lb/>
+乃製朱雀湯倍以枳桔煎用長流水一飮而溲再飮氣平數<lb/>
+服病巳端君寳毋六十餘亦病小溲閟若淋狀小腹脹口吻<lb/>
+<pb n="KR4h0102_SBCK_059-2b"/>
+渴邀壽診其<graphic n="KR0899" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0899.png" mimeType="image/png"/>沈且澁曰此病在下焦血分隂火盛而水不<lb/>
+足法當治血血與水同血有形而氣無形有形之疾當以有<lb/>
+形法治之卽以東垣家滋腎丸服之而瘉三寳廉使仲子之<lb/>
+妻㤗不華尚書妹也病滯下晝夜五七十起後重下迫且娠<lb/>
+九月衆醫率爲淸暑散滯痛苦尤甚壽至診視曰須下去滯<lb/>
+衆以娠不肯壽曰素問有云有故無損亦無損也動卽正産<lb/>
+乃以消滯導氣丸藥進之得順利再進滯去繼以淸暑利溲<lb/>
+苦堅之劑病瘉而果孕不動足月乃産童氏婦年三十毎經<lb/>
+水將來三五日前臍下㽲痛如刀刺狀寒熱交作下如黑豆<lb/>
+汁旣而水行因之無妊招壽診視之兩尺<graphic n="KR0899" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0899.png" mimeType="image/png"/>沉澀欲絶餘部<lb/>
+皆弦急曰此由下焦寒濕邪氣搏於衝任衝爲血海任主胞<lb/>
+胎爲婦人血室故經事將來邪與血爭作㽲痛寒氣生濁下<lb/>
+<pb n="KR4h0102_SBCK_059-3a"/>
+如豆汁宜治下焦遂以辛散苦温理血藥爲劑令先經期十<lb/>
+日服之凡三次而邪去經調是年有孕丘仲山女纔八歲病<lb/>
+傷食煎<graphic n="KR1572" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1572.png" mimeType="image/png"/>內閟悶口乾唇舌燥黑腹痛不可忍或以剛燥丸<lb/>
+藥利之而痛閟益甚壽遂以牽牛大黃淸快藥爲丸以伏其<lb/>
+燥利而瘉天寧寺僧病發狂譫妄視人皆爲鬼壽診其<graphic n="KR0899" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0899.png" mimeType="image/png"/>纍<lb/>
+纍如薏苡子且喘且搏曰此得之陽明胃實素問云陽明主<lb/>
+肉其經血氣竝盛甚則衰衣升高踰垣妄罵壽以三化湯三<lb/>
+四下復進以火劑乃脫然如故馬萬戸妻體肥而氣盛自以<lb/>
+無子嘗多服煖宮藥積乆火甚迫血上行爲䘐衂必數升餘<lb/>
+靣赤<graphic n="KR0899" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0899.png" mimeType="image/png"/>躁疾神怳怳如癡醫者猶以治上盛下虚丹劑鎭墜<lb/>
+之壽曰經云上者下之今血氣俱盛溢而上行法當下導奈<lb/>
+何實實邪卽與桃仁承氣湯三四下積瘀旣去繼服旣濟湯<lb/>
+<pb n="KR4h0102_SBCK_059-3b"/>
+二十劑而瘉楊子縣吏陳某當臘月鼻衂至正月凡十三日<lb/>
+始定其<graphic n="KR0899" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0899.png" mimeType="image/png"/>實而數治法與前證同蓋馬婦過服剛劑陳過食<lb/>
+煎炙飮醇酒皆積熱所致也鄧千戸二婢子七八月間同患<lb/>
+滯下壽至診視一婢<graphic n="KR0899" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0899.png" mimeType="image/png"/>鼓急大熱喘悶曰此必死一婢<graphic n="KR0899" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0899.png" mimeType="image/png"/>洪<lb/>
+大而虚軟微熱而小便利曰此可治即下之巳而調以苦溫<lb/>
+苦堅之劑果一死一瘉張佛兒暑月患中滿泄瀉小便赤四<lb/>
+肢疲困不欲舉自汗微熱口渴且素羸瘠衆醫以虚勞将峻<lb/>
+𥙷之邀壽至診視六<graphic n="KR0899" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0899.png" mimeType="image/png"/>虚微曰此東垣所謂夏月中暑飮食<lb/>
+勞倦法宜服淸暑益氣湯没三劑而病如失記其在儀眞時<lb/>
+所治若是什無一二焉至正間趙璉守杭州以同里知壽且<lb/>
+邀之與俱過嘉興汪澤民病怔忡善忘口澹舌燥多汗四肢<lb/>
+疲軟發熱小便白而濁衆醫以內傷不足擬進茸附趙彥博<lb/>
+<pb n="KR4h0102_SBCK_059-4a"/>
+爭之未决固招伯仁至視其<graphic n="KR0899" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0899.png" mimeType="image/png"/>虚大而數曰是由思慮過度<lb/>
+厥陽之火爲患耳夫君火以名相火以位相火代君火行事<lb/>
+者也相火一擾能爲百病况厥陽乎百端之起皆自心生越<lb/>
+人云憂愁思慮則傷心汪君平生志大心高所謀不遂抑鬱<lb/>
+積乆致內傷也然抱薪救火望安奚能遂命服東垣補中益<lb/>
+氣湯朱砂安神丸空心則進小坎離九月餘彥博抵書云汪<lb/>
+之疾瘳矣尹安卿妻妊五月病咳痰氣逆惡寒咽膈不利不<lb/>
+嗜食者浹旬招伯仁診視其<graphic n="KR0899" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0899.png" mimeType="image/png"/>浮弦形體淸羸伯仁曰此上<lb/>
+受風寒也越人云形寒飮冷則慯肺投以辛温劑與之致津<lb/>
+液開腠理散風寒而嗽自安矣旣之錢唐館郡守第時出治<lb/>
+病卽瘉屬縣有不能治之證皆來就伯仁臨安沈君彰者病<lb/>
+自汗如雨不少止靣赤身熱口燥心煩輿來杭城舍客樓盛<lb/>
+<pb n="KR4h0102_SBCK_059-4b"/>
+暑中帷幙周密自云至虚亡陽服术附藥巳數劑伯仁診其<lb/>
+<graphic n="KR0899" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0899.png" mimeType="image/png"/>虚而洪數視其舌上胎黃曰前藥誤矣輕病重治醫者死<lb/>
+之素問云必先歲氣無伐天和术附之熱其可輕用以犯時<lb/>
+令邪又云<graphic n="KR0899" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0899.png" mimeType="image/png"/>虚身熱得之傷暑暑家本多汗加以剛劑<graphic n="KR0899" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0899.png" mimeType="image/png"/>洪<lb/>
+數則汗益甚悉令撤幔開窻𥘉亦難之少頃漸覺淸爽為製<lb/>
+黃連人參白虎等湯三進而汗止大半諸證亦稍解旣而兼<lb/>
+以旣濟湯渴則用氷水調天水散服七日而病悉去後遍身<lb/>
+發瘍疹更服防風通聖散乃已其同縣陳元善病氣發則臍<lb/>
+下築築漸上至心下嘔涌痛懣手足淸喉中淫淫而痒眉本<lb/>
+疼疫目不欲視頭不欲舉神昬昬欲睡而不寐惡食氣睪丸<lb/>
+控引小便數而欠年未三十尫瘠若衰耄人劣劣不自持伯<lb/>
+仁視其<graphic n="KR0899" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0899.png" mimeType="image/png"/>沉弦而澀曰是得之憂鬱憤怒寒濕風雨乘之為<lb/>
+<pb n="KR4h0102_SBCK_059-5a"/>
+肝疝也屬在厥隂故當<graphic n="KR0899" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0899.png" mimeType="image/png"/>所過處皆病焉厥隂肝也張從正<lb/>
+云諸疝皆屬肝素問云肝欲散亟以辛散之遂取呉茱茰佐<lb/>
+以姜桂及治氣引經藥兼製回練等丸毎十日二溫利之三<lb/>
+月而病瘉俞彥良亦臨安人病嘔血或滿桮或盈盆盎且二<lb/>
+三年其人平昔嗜市利不憚作勞中氣因之侵損伯仁視之<lb/>
+且先與八寳散一二日服黃芩芍藥湯少有動作卽急進犀<lb/>
+角地黃湯加桃仁大黃稍間服抑氣寧神散有痰月礞石丸<lb/>
+其始<graphic n="KR0899" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0899.png" mimeType="image/png"/>芤大後<graphic n="KR0899" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0899.png" mimeType="image/png"/>漸平三月而瘉彥良遂以此法治他人皆<lb/>
+驗宋可與妾暑月身冷自汗口乾煩躁欲臥泥水中伯仁診<lb/>
+其<graphic n="KR0899" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0899.png" mimeType="image/png"/>浮而數沉之豁然虚散曰素問云<graphic n="KR0899" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0899.png" mimeType="image/png"/>至而從按之不鼓<lb/>
+諸陽皆然此爲隂盛隔陽得之飮食生冷坐臥風露煎眞武<lb/>
+湯冷飮之一進汗止再進煩躁去三進平復如初杭妓有患<lb/>
+<pb n="KR4h0102_SBCK_059-5b"/>
+心疾狂歌痛哭祼裎妄罵問之則瞪視黙黙其父母固邀伯<lb/>
+仁診視<graphic n="KR0899" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0899.png" mimeType="image/png"/>沉堅而結曰得之憂憤沉鬱食與痰交積胸中涌<lb/>
+之皆積痰褁血復與火劑淸上膈數日如故旣而左丞楊完<lb/>
+者統苗兵守江浙民頗不安居㑹故舊陳性中王叔雨招乃<lb/>
+挈家渡浙江往來鄞越居虞姚間最乆人皆稱之曰攖寧生<lb/>
+初叔雨寓錢唐病傷寒他醫至皆以爲痓證當進附子持論<lb/>
+未决其弟熈暘謁攖寧生曰舍兄病亟唯幾生忍坐視不捄<lb/>
+乎至切其<graphic n="KR0899" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0899.png" mimeType="image/png"/>兩手俱沉實而滑四末覺微淸以燈燭之徧體<lb/>
+皆赤班舌上胎黒而燥如芒刺身大熱神恍惚多譫妄語攖<lb/>
+寧生曰此始以表不得解邪氣入裏裏熱極甚若投附必死<lb/>
+乃以小柴胡劑益以知母石膏飮之終夕二進次日以大承<lb/>
+氣湯下之調治兼旬乃安比來上虞熈暘館于魏氏一日乘<lb/>
+<pb n="KR4h0102_SBCK_059-6a"/>
+盛暑肩輿入邑途中吐血数口亟還則吐甚胷拒痛體熱頭<lb/>
+眩病且殆或以爲勞心焦思所致與茯苓補心湯生至診其<lb/>
+<graphic n="KR0899" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0899.png" mimeType="image/png"/>洪而滑曰是大醉飽胃血壅遏爲暑迫上行先與犀角地<lb/>
+黃湯継以桃仁承氣湯去瘀血宿積後治暑卽安陸用和病<lb/>
+惡寒發熱頭體微痛苦嘔下泄五日矣其親亦知醫以小柴<lb/>
+胡湯治之不解招攖寧生診視<graphic n="KR0899" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0899.png" mimeType="image/png"/>弦而遲曰是在隂當溫之<lb/>
+爲製眞武湯其親爭之强與人參竹葉湯進卽泄甚<graphic n="KR0899" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0899.png" mimeType="image/png"/>且䧟<lb/>
+弱始亟以前劑服之連進四五劑乃効人始服攖寧生之賢<lb/>
+於人遠矣余子元病惡寒戰慄持捉不定兩手背冷汗浸淫<lb/>
+雖厚衣熾火不能解攖寧卽與眞武湯凡用附六枚一日病<lb/>
+者忽出人恠之病者曰吾不惡寒卽無事矣或以問攖寜生<lb/>
+生曰其<graphic n="KR0899" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0899.png" mimeType="image/png"/>兩手皆沉微餘無表裏證此蓋體虚受寒亡陽之<lb/>
+<pb n="KR4h0102_SBCK_059-6b"/>
+極也初皮表氣隧爲寒邪壅遏陽不得伸而然也是故血隧<lb/>
+熱壅須用硝黄氣隧寒壅須用桂附隂陽之用不同者無<lb/>
+形有形之異也魏士圭妻徐病寒爲疝自臍下上至心皆脹<lb/>
+滿攻痛而脇疼尤甚嘔吐煩懣不進飮食攖寧生視之<graphic n="KR0899" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0899.png" mimeType="image/png"/>兩<lb/>
+手沉結不調曰此由寒在下焦宜亟攻其下無攻其上爲炙<lb/>
+章門氣海中脘服玄胡桂榝佐以蘹木諸香茯苓靑皮等十<lb/>
+日一服溫利丸藥聚而散之也士圭守其法治之果効王宗<lb/>
+祥之父年老病臍腹㽲痛其里醫爲溫中散寒卒無驗宗祥<lb/>
+固邀攖寧往視<graphic n="KR0899" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0899.png" mimeType="image/png"/>兩尺搏堅而沉曰此大寒由外入也寒喜<lb/>
+中下因為疝治宜在下加沉降之劑引入下焦数服㝷瘉陳<lb/>
+伯英病肺氣焦滿攖寧生視之曰病得之多欲善飮其殫營<lb/>
+慮中積痰延外受風邪發卽喘喝痰咳不能自安爲製淸肺<lb/>
+<pb n="KR4h0102_SBCK_059-7a"/>
+泄滿降火潤燥苦辛等劑服之旣安衆詰之曰是出何方書<lb/>
+名何散飮生應之曰是爲混沌湯聞者皆大笑曰混沌湯有<lb/>
+用也潘子庸得感冒証巳汗而愈數日復大發熱惡寒頭痛<lb/>
+眩暈嘔吐卻食煩滿咳而多汗攖寧生診之<graphic n="KR0899" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0899.png" mimeType="image/png"/>兩手三部皆<lb/>
+浮而緊曰在仲景法勞復證浮以汗解沉以下解今脈浮緊<lb/>
+且證在表當汗衆以虚憊難之且圖溫𥙷生曰法當如是爲<lb/>
+作麻黃葛根湯三進更汗旋調數日乃瘉時淮南丞相方公<lb/>
+分省四明聞攖寧生名禮致見之館穀留城中一日公壻戴<lb/>
+頴仲以使事往奉化雪中且進冷食病內外傷惡寒頭疼腹<lb/>
+心痛而嘔診之<graphic n="KR0899" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0899.png" mimeType="image/png"/>沉且緊時伏而不見曰在法下利淸穀當<lb/>
+急救裏淸便自調當急救表今所患內傷冷飮食外受寒沴<lb/>
+淸便自調救表裏急以桂枝湯力微遂爲變法與四逆湯服<lb/>
+<pb n="KR4h0102_SBCK_059-7b"/>
+之晬時服附子一兩明日則脈在肌肉唯緊自若外證巳去<lb/>
+內傷獨存乃以丸藥下去宿食後調中氣數日卽安方惟益<lb/>
+患消渴衆醫以爲腎虚水竭洋不能上升合附子大丸服之<lb/>
+旣服渴甚舊有目疾兼作其人素豐肥因是頓瘦損倉皇中<lb/>
+召攖寧生視之生曰隂陽之道相爲損益水不足則濟以水<lb/>
+火不足則濟以火未聞水不足而以火濟之不焦則枯乃令<lb/>
+屛去前藥更寒劑下之蕩去火毒繼以苦寒淸潤之製竟月<lb/>
+乃平復適方明禮寵姬新産受寒四肢逆冷<graphic n="KR0899" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0899.png" mimeType="image/png"/>沉弱亟令取<lb/>
+向所製附子大丸三四粒餌之立効生曰不得於彼而得於<lb/>
+此蓋用有不同耳丘彥材平居苦胷中痞滿憒憒若怔忡狀<lb/>
+頭目昬痛欲吐不吐忽忽善忘時一臂偏痺召攖寧生視之<lb/>
+當關以上<graphic n="KR0899" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0899.png" mimeType="image/png"/>溜而滑按之沉而有力攖寧曰積飲滯痰橫於<lb/>
+<pb n="KR4h0102_SBCK_059-8a"/>
+胸膈蓋得之厚味醇酒肥膩煎灸蓄熱而生濕濕聚而痰涎<lb/>
+宿飮皆上甚也王冰云上甚不巳吐而奪之法當吐候春日<lb/>
+開明如法治之以物撩咽中須臾大吐異色頑痰如膠飴者<lb/>
+三四升一二日更吐之三四次則胸中洞爽平復矣龍君澤<lb/>
+分院餘姚其室張暑月中病經事沉滯身寒熱自汗咳嗽有<lb/>
+痰體瘦悴腹臍刺痛招攖寧生至診視<graphic n="KR0899" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0899.png" mimeType="image/png"/>弦數六至有餘生<lb/>
+曰此二陽病也素問云二陽之病發心脾女子得之則不月<lb/>
+二陽陽明也陽明爲金爲燥化今其所以不月者因其所遭<lb/>
+也陽明本爲燥金適遭於暑暑火也以火爍金則愈燥矣血<lb/>
+者水類金爲化源宜月事沉滯不來也他醫方爲製歸茸桂<lb/>
+附丸以溫經而未進生曰夫血得寒則止得溫則行得熱則<lb/>
+搏搏則燥復加燥劑血益乾則病必甚亟令郤之更以當歸<lb/>
+<pb n="KR4h0102_SBCK_059-8b"/>
+柴胡飮子爲之淸陽㵼火流濕潤燥三五進而經事通餘病<lb/>
+悉除龍君曰微生幾爲人所誤矣宋無逸餘姚大儒也病瘧<lb/>
+瘠損饘粥難下咽六十餘日殆甚攖寧生聞而往視之<graphic n="KR0899" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0899.png" mimeType="image/png"/>數<lb/>
+兩關上尤弦疾乆體瘠而神則完生曰是積熱居脾且滯於<lb/>
+食飮法當下衆疑而難之藥再進而疾去其半復製丼露飮<lb/>
+柴胡白虎等劑浹旬而起如故後四歳無逸客昌國病頭靣<lb/>
+䤚赤妨於飮食或進以姜附攖寧爲製劑淸上散火而瘉無<lb/>
+逸曰嚮得淸凉藥以濟危急否則誤於剛劑矣德之不忘嘗<lb/>
+以語人云夏思忠病胸膈脹痛心怔忡嘔逆煩懣不食情思<lb/>
+惘惘不暫安目<graphic n="KR0617" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0617.png" mimeType="image/png"/>
+                    <graphic n="KR0617" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0617.png" mimeType="image/png"/>無所睹攖寧生視之六<graphic n="KR0899" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0899.png" mimeType="image/png"/>皆結澀不調<lb/>
+無復參伍甚恠之旣徐而察之其人機深憂思太過加之脾<lb/>
+胃內傷積爲痰涎鬱干上膈然也素問云思則氣結又云隂<lb/>
+<pb n="KR4h0102_SBCK_059-9a"/>
+氣者靜則神藏躁則消亡飮食自倍腸胃乃傷其是之謂乎<lb/>
+爲製袪順丸服之旋復平和思忠曰吾疾諸治罔効始以爲<lb/>
+天下無藥兹服生袪順丸乃知天下有藥矣金丙病韓自行<lb/>
+邀攖寧生往視之<graphic n="KR0899" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0899.png" mimeType="image/png"/>數而散體寒熱咳血痰生曰此二陽病<lb/>
+也在法不治當以夏月死至立夏果死自行愀然曰攖寧生<lb/>
+能知死必能知人生矣乎方德明七月内病發熱或令其服<lb/>
+小柴胡湯必二十六劑乃瘉如其言服之未盡二劑則升發<lb/>
+太過多汗亡陽惡寒甚肉瞤筋愓乃固請攖寧生視<graphic n="KR0899" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0899.png" mimeType="image/png"/>微欲<lb/>
+無卽以眞武湯進七八服稍有緒更服附子七八枚然後瘉<lb/>
+夏子韶妻始病瘧當六七月他醫以爲脾寒胃弱乆服桂附<lb/>
+後瘧雖退而積火燔熾致消穀善饑日數十飯猶不足終日<lb/>
+端坐如常人第目昬不能視足弱不能履腰胯困軟肌肉虚<lb/>
+<pb n="KR4h0102_SBCK_059-9b"/>
+肥至初冬子韶謁攖寧生往候<graphic n="KR0899" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0899.png" mimeType="image/png"/>洪大而虚濡曰此痿證也<lb/>
+長夏過服熱藥所致蓋夏令濕當權剛劑太過火濕俱甚肺<lb/>
+熱葉焦故兩足痿易而不爲用也東垣有長夏濕熱成痿之<lb/>
+法當以此治之食日益减目漸能視至冬末忽自起下榻行<lb/>
+歩如故其姪夏仲儒因拘留赴海積恐怖心常惕惕如畏人<lb/>
+捕之狀攖寧生視之<graphic n="KR0899" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0899.png" mimeType="image/png"/>豁豁然虚大而浮體熱多汗曰凡病<lb/>
+得之從高墜下驚仆擊搏留滯惡血皆從中風論終歸厥隂<lb/>
+此海藏之說也蓋厥隂多血其化風木然也有形當從血論<lb/>
+無形當從風論今仲儒之疾是走無形也從風家治之兼爲<lb/>
+化痰散結佐以鐵粉朱砂丸良瘉鄭高卿毋倪病瘧寒熱嘔<lb/>
+涌中滿而痛下利不食年五十餘殊困頓他醫爲淸脾氣理<lb/>
+中脘不效邀攖寧生視<graphic n="KR0899" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0899.png" mimeType="image/png"/>沉而遲生曰是積暑與食伏痰在<lb/>
+<pb n="KR4h0102_SBCK_059-10a"/>
+中當下之或曰人疲倦若是且下痢不食烏可下方儗進參<lb/>
+附生曰<graphic n="KR0899" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0899.png" mimeType="image/png"/>雖沉遲按之有力雖痢而後重下迫不下則積不<lb/>
+能去病必不巳其母弟倪仲權獨是之乃以消滯丸藥微得<lb/>
+通利卽少快明日復加數服之宿積腸垢盡去向午卽思食<lb/>
+旋以姜橘參苓淡滲和平飮子調之旬餘乃復王敬中毋病<lb/>
+反胃毎隔夜食飮至明日中昃皆出不消化他醫以暖胃之<lb/>
+藥悉試之罔効敬中詣攖寧生言且固請往視<graphic n="KR0899" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0899.png" mimeType="image/png"/>在肌肉之<lb/>
+下甚微而弱生揆衆醫用藥無遠於病何至不効心歉然未<lb/>
+决一日讀東垣書謂吐有三證氣積寒也上焦吐者從於氣<lb/>
+中焦從於積下焦從於寒其<graphic n="KR0899" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0899.png" mimeType="image/png"/>沉而遲朝食莫吐莫食朝吐<lb/>
+小溲利大便秘爲下焦吐也法當通其秘溫其寒氣復以中<lb/>
+焦藥和之生得此說而喜起嘆曰其合於王毋之證歟但王<lb/>
+<pb n="KR4h0102_SBCK_059-10b"/>
+毋大便不秘遂再往視專治下焦散寒以茱茰茴香爲君丁<lb/>
+桂半夏爲佐服至二三十劑而飮食晏然生曰經不云乎寒<lb/>
+淫所勝平以辛熱其是之謂歟俞德明嘗病傷寒經汗下病<lb/>
+既去而人虚背獨惡寒<graphic n="KR0899" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0899.png" mimeType="image/png"/>微細如線湯熨不應攖寧生乃以<lb/>
+理中湯劑加薑桂藿附大作服外以蓽撥良姜呉榝桂椒諸<lb/>
+品大辛熱爲末和姜糊爲膏厚付滿背以𥿄覆之稍乾卽易<lb/>
+如是半月竟平復不寒矣此尤治法之變者也頋機仲病傷<lb/>
+寒後勞復發熱自汗經七日或以爲病後勞將復補之攖寧<lb/>
+生曰不然勞復爲病<graphic n="KR0899" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0899.png" mimeType="image/png"/>浮以汗解奚補爲以小䓱葫湯三進<lb/>
+再汗而瘉胡茂林子婦魏仲彬妹也新産二日惡露不行臍<lb/>
+腹痛頭疼身寒熱當隆冬時衆醫皆以爲感寒溫以姜附益<lb/>
+大熱手足搐搦語譫目攛仲彬固邀生往診脈弦而洪數靣<lb/>
+<pb n="KR4h0102_SBCK_059-11a"/>
+赤目閉語喃喃不可辨舌黒如炲燥無津潤胸腹按之不勝<lb/>
+手蓋燥劑搏其血內熱而風生血蓄而爲痛也生曰此産後<lb/>
+熱入血室因而生風卽先爲淸熱降火治風凉血兩服頗爽<lb/>
+繼以琥珀牛黃等稍解人事後以張從正三和散行血破瘀<lb/>
+三四服惡露大下如𥘉時産巳十日矣於是諸證悉平方明<lb/>
+禮內人盛暑病洞泄厥逆惡寒胃脘當心而痛自腹引脇轉<lb/>
+爲滯下嘔噦不食人以巾暑霍亂療之益劇攖寧生診其<graphic n="KR0899" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0899.png" mimeType="image/png"/>
+三部俱微短沉弱不應呼吸曰此隂寒極矣不亟溫之則無<lb/>
+生理內經雖曰用熱遠熱又曰有假其氣則無禁也於是以<lb/>
+薑附溫劑三四進間以丹藥脈稍有力厥逆漸退更服姜附<lb/>
+七日衆證悉去遂以丸藥除其滯下而臓腑自安矣生之活<lb/>
+人率類此然頗有不盡述者生嘗語其徒曰予在儀眞時聞<lb/>
+<pb n="KR4h0102_SBCK_059-11b"/>
+友人王德全言江西有醫士曰黃子厚爲術精詣其治往往<lb/>
+出人意表有富家子年十七八病徧體肌肉圻裂召子厚治<lb/>
+子厚偕門生四五輩往診視各以所見陳論皆未當子厚乃<lb/>
+屛人詰病者曰童㓜時曾近女色犯天眞乎曰當十三四曾<lb/>
+近之巳子厚曰得其說矣禇澄云精未通而御女則四體有<lb/>
+不滿之處後日有難狀之疾在法爲不可療後果惡汁淋漉<lb/>
+痛楚而死又鄰郡一富翁病泄瀉彌年禮致子厚診療浹旬<lb/>
+莫効子厚曰予未得其說求歸一日讀易至乾卦天行徤朱<lb/>
+子有曰天之氣運轉不息故閣得地在中間如人弄捥珠只<lb/>
+運動不住故在空中不墜少有息則墜矣因悟向者富翁之<lb/>
+病乃氣不能舉爲下脫也又作字持水滴吸水𥘉以大指按<lb/>
+滴上竅則水滿筒放其按則水下溜無餘乃豁然悟曰吾可<lb/>
+<pb n="KR4h0102_SBCK_059-12a"/>
+治翁證矣卽治裝往翁家驚喜至卽爲治艾灸百㑹穴未三<lb/>
+四十壯泄瀉止矣生自少識之後在鄞胡元望女生始六月<lb/>
+亦病泄㵼不巳因教以前灸卽瘉子厚在至治天曆間術甚<lb/>
+行虞文靖公嘗有贈醫士黃子厚詩云<lb/>
+史右曰予㓜喜業醫遇醫士輙近之覩其治往往誤藥死若<lb/>
+以試其術然予懼隂殺人而莫之罪必不逭於天刑遂棄不<lb/>
+復習襄城攖寧生夀能活人反掌間而奇驗若此時人爲之<lb/>
+語曰世以人試術生以術活人其相去奚啻千萬予聞盧扁<lb/>
+曰聞病之陽論得其隂聞病之隂論得其陽倉意曰吾以<graphic n="KR0899" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0899.png" mimeType="image/png"/>
+法治之而瘉生其有得於二子者歟<lb/>
+　　　唐珏傳　張孟兼<lb/>
+唐珏字玉濳㑹稽人也少孤能力學以明經教授鄉里子弟<lb/>
+<pb n="KR4h0102_SBCK_059-12b"/>
+而養其母至元戊寅浮圖總統楊璉眞伽利宋<graphic n="KR1148" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1148.png" mimeType="image/png"/>宮金玉故<lb/>
+爲妖言惑主聽發之珏獨懷痛忿乃貨家具行資得白金若<lb/>
+干爲酒食隂召諸惡少享于家衆皆驚駭前請曰平日且不<lb/>
+敢見今召我飮又過禮不審欲何爲雖死不避珏因泣數行<lb/>
+下謂之曰爾輩皆宋人吾不忍陵寢之暴露巳造石函六刻<lb/>
+紀年一字爲號自思陵以下欲隨號收殯之衆皆諾中一人<lb/>
+曰此固義事也然今無有知者恐萬一事露禍不測不得終<lb/>
+志奈何珏曰吾以籌之矣要當易以他骨焉衆如珏言夜往<lb/>
+收貯遺骸瘞蘭亭山後上種冬靑樹爲識約明日復來㑹出<lb/>
+金帛爲人人壽戒勿泄也璉又易宋內爲諸浮圖乃裒陵骨<lb/>
+雜馬牛枯骼築白塔號曰鎭南以爲陵骨良已鎭而不知眞<lb/>
+之他存也亡何汴人袁俊爲越治中招珏爲子師間問曰吾<lb/>
+<pb n="KR4h0102_SBCK_059-13a"/>
+聞越有唐姓瘞宋諸陵骨豈君邪坐有指珏者俊大奇之手<lb/>
+加額曰先生義士哉豫讓不及也竊聞高義之日乆矣不意<lb/>
+得與先生處因訊珏以故甚貧俊亟為買田宅居之先是珏<lb/>
+臥疾一夕夢吏持文來召曰帝召君速之行至見宮闕邃麗<lb/>
+一人冕旒中坐旁一人延上殿又數黃衣進揖珏曰賴收遺<lb/>
+骸無以報俄曰第報良田二頃有妻孥以養乃復揖及闕翻<lb/>
+然而北覺莫省謂何已而㑹俊料理事如夢中始悟夢中見<lb/>
+也有謝翺者文丞相客也與珏友善甞感珏事為作冬靑樹<lb/>
+引語甚悽苦時讀者莫不灑泣翺宇臯羽閩人亦奇士云<lb/>
+傳者曰余讀晉世家知趙氏有後矣非程嬰公孫杵臼而莫<lb/>
+存其孤今十七廟不食而有暴骸之難獨珏能瘞之甚義乎<lb/>
+哉嗚呼珏一布衣爾蓋其義視程公孫何媿哉千載而下有<lb/>
+<pb n="KR4h0102_SBCK_059-13b"/>
+國士之風者非珏誰歟吾所以傳之毋亦使其無傳<lb/>
+　　　鄭烈婦傳　宋濂<lb/>
+烈婦姓石氏金華人諱勝字文素敏慧而勤柔順而婉嫁爲<lb/>
+浦江義門鄭洪妻鄭氏以禮法齊家石氏奉尊能敬事夫盡<lb/>
+禮處衆以和上下咸悅而安之洪性聦敏受業太史宋公通<lb/>
+尚書要旨識見明達臨事機变<lb/>
+國朝開基建業今曹國李公分鎭嚴陵辟洪叅謀軍事陳善<lb/>
+効忠甚見禮重乆之用薦者入　朝爲引禮郞轉江西行省<lb/>
+照磨有能聲秩滿改內藏庫提點未幾同官有坐法者以辭<lb/>
+累洪竟死於獄石氏從處宦寓悲號痛哭若不欲生吏議當<lb/>
+配石氏仰天慟曰生爲義氏婦死則爲其鬼耳吾夫巳亡豈<lb/>
+使汙其身以玷旌門乎遂絶粒不食鄰媪强以糜粥不聽如<lb/>
+<pb n="KR4h0102_SBCK_059-14a"/>
+是者八月求其死而弗得引䋲自絶公卿朝士聞者皆稱為<lb/>
+烈婦事聞<lb/>
+皇上嘉嘆曰此眞義門婦矣濂承乏國史旣登載其事復著<lb/>
+為家傳而歸之鄭氏云<lb/>
+史官曰余居金華熟聞鄭氏孝義之著禮法之盛今觀吕氏<lb/>
+操行皎如白日可謂難能者矣雖其染濡家訓亦天性然也<lb/>
+稱為烈婦不亦宜哉使其守志不堅苟幸以偷生其於旌門<lb/>
+寧不有玷乎今蒙<lb/>
+玉音之嘉美公卿之稱譽則其門益有光矣庸表而出之以<lb/>
+勵風俗云<lb/>
+　　　豐本傳　唐肅<lb/>
+豐本蓋古仙人也一號乆眎先生相傳伊耆氏之世磵居學<lb/>
+<pb n="KR4h0102_SBCK_059-14b"/>
+道得不死術後出仕子周其　爲醢人屬與昌氏菁氐茆氏<lb/>
+共掌爼豆凡祭祀燕饗王及后世子之內羞咸取給焉故周<lb/>
+公天官書列其職戴氏禮記載其名豳七月詩亦歌其中春<lb/>
+薦廟事周亡不知所之或云隱畦町間與農圃者伍人多怪<lb/>
+之或執而髠其首或戕其支體㝷復生完衆始知先生為仙<lb/>
+人也漢時與處士郭林宗友林宗館于家客至輙命與同食<lb/>
+晉衛尉石崇豪侈擅一世知先生賢咄嗟名之先生亦不拒<lb/>
+徃就然䇿崇必敗曰不去將累我我固不憂為彼累也遂逸<lb/>
+去南齊侍中庾杲之家貧好淸士毎延先生共飯人皆曰庾<lb/>
+郞得豊本為不貧矣唐隱者衛賔與拾遺杜甫善甫嘗過賔<lb/>
+宿先生亦冐雨至相與酣飮甚適甫有詩美之載甫集中先<lb/>
+生貌蒼古緑髪白趾常𬒳翠羽衣所棲止人望之恒有氣鬰<lb/>
+<pb n="KR4h0102_SBCK_059-15a"/>
+葱然卽之咀嚼其言論有至味令人灑然忘俗壽莫知其幾<lb/>
+也今游會稽巖壑中時時過山人韓氏亭上吟翁錬士多見<lb/>
+之者云<lb/>
+野史氏曰列仙傳不載豐本失矣其所載亦未有壽如豐本<lb/>
+至今尚存者莊生言古之太椿以八千歲爲一春物且壽若<lb/>
+是矧仙乎豐本仕于周間出于漢晉齊唐所與皆有德者獨<lb/>
+齊奴否耳然左慈見曹孟德頗類蓋和光同塵玩世不羈仙<lb/>
+之常也今在越不之他獨之韓氏韓亦郭庾杜衛之流歟<lb/>
+皇明文衡卷之五十九<lb/>
+<pb n="KR4h0102_SBCK_059-15b"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

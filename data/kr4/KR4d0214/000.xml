@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>提要<lb/>
+                </head>
+    <p>
+<pb n="KR4d0214_WYG_000-1a"/>
+欽定四庫全書　　　　　集部四<lb/>
+　提要<lb/>
+　　竹軒雜著六巻　　　　别集類三<hi>宋</hi>
+　　　　<hi>臣</hi>等謹案竹軒雜著六巻宋林季仲撰季仲<lb/>
+　　　　字懿成永嘉人登進士第厯官太常少卿知<lb/>
+　　　　婺州自號蘆山老人嘗僑居暨陽集中又自<lb/>
+　　　　稱濟南林某者葢其祖貫也宋史不為立傳<lb/>
+　　　　其行事不少槩見惟陳振孫書錄解題稱季<lb/>
+<pb n="KR4d0214_WYG_000-1b"/>
+　　　　仲以趙鼎薦入朝奏疏沮和議得罪仲熊叔<lb/>
+　　　　豹季貍其弟也皆知名云云今案集中與趙<lb/>
+　　　　僕射書有相公過聽引而置諸朝鹿鹿三年<lb/>
+　　　　蔑有報稱之語與趙鼎薦引之說合惟沮和<lb/>
+　　　　議一疏已不見于集中其得罪貶謫之事遂<lb/>
+　　　　畧而弗顯集中又有祭德和弟察院弟諸文<lb/>
+　　　　据所云同祖所出兄弟八人者知其弟兄甚<lb/>
+　　　　多而仲熊叔豹之名亦已不可復考然宋史<lb/>
+<pb n="KR4d0214_WYG_000-2a"/>
+　　　　趙鼎傳稱鼎之再相嘗奏言今清議所與如<lb/>
+　　　　劉大本胡寅吕本中常同林季仲之流陛下<lb/>
+　　　　能用之乎是季仲在紹興中實負清流重望<lb/>
+　　　　故集中劄子雖所存無㡬而多力持正論深<lb/>
+　　　　切時弊之言其趙鼎南遷以後所與簡牘數<lb/>
+　　　　篇無不反覆慰藉詞意諄摯交道之篤尤可<lb/>
+　　　　槩見又庚溪詩話稱季仲頗喜為詩語佳而<lb/>
+　　　　意深今觀所作雖邊幅稍狹已逗江湖一泒<lb/>
+<pb n="KR4d0214_WYG_000-2b"/>
+　　　　而筆力挺㧞其清雋亦可喜也集本十五巻<lb/>
+　　　　世久失傳論宋代人物者或不能知其姓氏<lb/>
+　　　　今從永樂大典中搜輯編綴釐為詩一巻文<lb/>
+　　　　四巻用存其槩且為畧攷本末附著于此俾<lb/>
+　　　　不至無聞于後焉乾隆四十六年九月恭校<lb/>
+　　　　上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

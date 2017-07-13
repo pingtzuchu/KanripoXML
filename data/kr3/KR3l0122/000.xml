@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>夷堅志</head>
+    <p>
+<pb n="KR3l0122_WYG_000-1a"/>
+欽定四庫全書　　　　　子部十二<lb/>
+　夷堅志　　　　　　　　小説家𩔖二<hi>異聞之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案夷堅志五十卷宋洪邁撰邁所著<lb/>
+　　　　容齋隨筆已别著録是書所記皆神怪之説<lb/>
+　　　　故以列子夷堅志事為名考列子謂大禹行<lb/>
+　　　　而見之伯益知而名之夷堅聞而志之正謂<lb/>
+　　　　珍禽異獸如山海經之𩔖邁襍録仙鬼諸事<lb/>
+<pb n="KR3l0122_WYG_000-1b"/>
+　　　　而名取于斯非其本義然唐義原尉張慎素<lb/>
+　　　　已有夷堅録之名則邁之名亦有所本也陳<lb/>
+　　　　振孫書録解題載夷堅志甲至癸二百卷支<lb/>
+　　　　甲至支癸一百卷三甲至三癸一百卷四甲<lb/>
+　　　　四乙二十卷共四百二十卷趙與峕賓退録<lb/>
+　　　　亦載邁夷堅志三十二編凡三十一序不相<lb/>
+　　　　重複各節録其序之大畧頗為詳備此本僅<lb/>
+　　　　存自甲至戊五十卷標題但曰夷堅志而失<lb/>
+<pb n="KR3l0122_WYG_000-2a"/>
+　　　　載其原序証以與峕之所載乃支甲至支戊<lb/>
+　　　　非其正集惟與峕記支丙作支景謂避其曽<lb/>
+　　　　祖之嫌名而此仍作丙疑傳冩者所改也胡<lb/>
+　　　　應麟筆叢謂所藏之本有百卷周亮工書影<lb/>
+　　　　謂應麟所藏乃支甲至三甲此殆即胡氏之<lb/>
+　　　　本而又佚其半歟朱國禎湧幢小品不知為<lb/>
+　　　　志中之一集乃云夷堅志本四百二十卷今<lb/>
+　　　　行者五十一卷盖病其煩蕪而刪之則悮之<lb/>
+<pb n="KR3l0122_WYG_000-2b"/>
+　　　　甚矣陳振孫譏邁為謬用其心其説頗正張<lb/>
+　　　　世南㳺宦紀聞則謂邁欲修國史借此以練<lb/>
+　　　　習其筆似乎曲為之詞然其中詩詞之𩔖往<lb/>
+　　　　往可資采録而遺聞𤨏事亦多足為勸戒非<lb/>
+　　　　盡無益于人心者小説一家厯來著録亦何<lb/>
+　　　　必拘于方隅獨為邁書責歟乾隆四十三年<lb/>
+　　　　五月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+<pb n="KR3l0122_WYG_000-3a"/>
+　　　　　　　　　總　校　官　<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

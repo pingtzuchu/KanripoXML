@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>杜工部詩年譜</head>
+    <p>
+<pb n="KR2g0008_WYG_000-1a"/>
+欽定四庫全書　　　　　史部七<lb/>
+　杜工部詩年譜　　　　　𫝊記類二<hi>名人之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案杜工部詩年譜一巻宋魯訔撰訔<lb/>
+　　　　字季欽嘉興人官至福建提㸃刑獄公事周必<lb/>
+　　　　大平園集有訔墓誌述其官階始未甚詳諸<lb/>
+　　　　書或云字季卿或云海鹽人或云仕至大府卿<lb/>
+　　　　皆誤也訔曽注杜詩今存者惟此譜篇首有<lb/>
+<pb n="KR2g0008_WYG_000-1b"/>
+　　　　訔編次杜工部詩序末有王士禎䟦謂甫年譜<lb/>
+　　　　創始於吕汲公大防訔以甫生於睿宗先天元<lb/>
+　　　　年壬子卒於大厯五年庚戌蓋承吕譜之舊也<lb/>
+　　　　考甫生卒之嵗諸書徃往錯互舊唐書謂甫卒<lb/>
+　　　　於永㤗二年永㤗在大厯之前甫詩有大厯三<lb/>
+　　　　年以下諸作則舊書為誤王觀國辯之是也然<lb/>
+　　　　觀國云甫生於先天元年癸丑卒於大厯五年<lb/>
+　　　　辛亥不知癸丑乃先天之二年即開元元年辛<lb/>
+<pb n="KR2g0008_WYG_000-2a"/>
+　　　　亥乃大厯六年則觀國亦未深考矣元禛作<lb/>
+　　　　甫墓誌云享年五十九王洙原叙注子羙詩<lb/>
+　　　　序曰大厯五年甫下夾入湖南游衡山寓居<lb/>
+　　　　耒陽五年夏一夕醉飽卒大厯五年為庚戌<lb/>
+　　　　嵗上距先天元年壬子適五十有九年則甫<lb/>
+　　　　生於壬子無疑訔此譜根據吕譜未嘗誤也<lb/>
+　　　　姚桐夀樂郊私語云杜少陵集自㳺龍門至<lb/>
+　　　　過洞庭詩目次第為季卿編定一循少陵平<lb/>
+<pb n="KR2g0008_WYG_000-2b"/>
+　　　　生行蹟可以見其詩法近時滏陽張氏吴江<lb/>
+　　　　朱氏所注杜詩其年譜大率仿此而推拓之<lb/>
+　　　　知宻於趙子櫟譜多矣雖間有附㑹又烏可<lb/>
+　　　　以一𤯝掩乎乾隆四十六年九月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　　總　校　官　<hi>臣</hi>陸費墀<lb/>
+<pb n="KR2g0008_WYG_000-3a"/>
+杜工部詩年譜原序<lb/>
+騷人雅士同知祖尚少陵同欲模楷聲韻同苦其意律<lb/>
+深嚴難讀也余謂少陵老人初不事艱澁左隠以病人<lb/>
+其平易處有賤夫老婦所可道者至其深純宏妙千古<lb/>
+不可追跡則序事穏實立意渾大遇物寫難状之景紓<lb/>
+情出不説之意借古的確感時深逺若江海浩溔<hi>溔以沼切</hi>
+<hi>大水貌</hi>風雲蕩汩蛟龍黿鼉出沒其間而變化莫測風澄<lb/>
+雲霽象緯回薄錯峙偉麗細大無不可觀離而序之次<lb/>
+<pb n="KR2g0008_WYG_000-3b"/>
+其先後時危平俗媺惡山川夷險風物明晦公之所寓<lb/>
+舒局皆可槩見如陪公杖屨而㳺四方數百年間猶對<lb/>
+面語何患於難讀耶名公巨儒譜敘注釋是不一家用<lb/>
+意率過異説如蝟余因舊集略加編次古詩近體一其<lb/>
+先後摘諸家之善有考於當時事實及地理嵗月與古<lb/>
+語之的然者聊注其下若其意律乃詩之六經神㑹意<lb/>
+得隨人所到不敢易而言之敘次既倫讀之者如親罹<lb/>
+艱棘虎狼之慘為可驚愕目見當時甿庶被削刻轉塗<lb/>
+<pb n="KR2g0008_WYG_000-4a"/>
+炭為可憫因感公之流徙始而適中而瘁卒至為少年<lb/>
+輩侮忽以訖死為可傷也紹興癸酉五月晦日丹丘冷<lb/>
+齋魯訔序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

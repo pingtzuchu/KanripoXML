@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2k0039_WYG_087-1a"/>
+欽定四庫全書<lb/>
+欽定皇輿西域圖志卷四十七<lb/>
+　雜録<lb/>
+　　<hi>臣</hi>等謹按歴代正史分門編纂外或綴以自序或<lb/>
+　　附以語觧至雜録之目則間見於後世郡國志乗<lb/>
+　　大都錯舉遺聞軼事無可附麗者别成卷帙用𨽻<lb/>
+　　全書之末所以廣蒐羅便省覽也兹編西域圖志<lb/>
+　　凡天文纒度之逺山川疆域之廣暨入版圖後建<lb/>
+<pb n="KR2k0039_WYG_087-1b"/>
+　　官行政良法鴻規旁及土風物産以至來王奉朔<lb/>
+　　之區固已次第就裁偹登鉛槧因復近稽凖部源<lb/>
+　　流當我<lb/>
+　朝底定更始之餘四衛拉特雖舊聞零落而受氏傳<lb/>
+　　國之大凡世系宗支之分派猶有可考回部於兩<lb/>
+　　和卓木伏辜後諸城望風輸欵溯自青吉斯汗以<lb/>
+　　下暨派噶木巴爾諸族屬尤堪詳詢縷指至兩部<lb/>
+　　字書母子孳生㸃畫配合為法逈殊標例發凡總<lb/>
+<pb n="KR2k0039_WYG_087-2a"/>
+　　不外十五字頭二十九字頭之推衍若簡牘之用<lb/>
+　　原於唇齒凖噶爾為䝉古苖裔本不待舌人臚句<lb/>
+　　而通而回部語言畧分三種一譯再譯皆得近𨽻<lb/>
+　　典屬仰惟<lb/>
+大聖人昭同文之郅治會絶域之方言每於<lb/>
+勤政幾餘隨時諮詢且復為辨其異同訂其訛舛洵乎<lb/>
+知臨之無外已餘凡剰事零文為專門所不載或互見<lb/>
+　　而未詳者咸勤搜討條系卷内徃代史傳所垂事<lb/>
+<pb n="KR2k0039_WYG_087-2b"/>
+　　屬創聞亦堪資該洽之助並為酌存一二若荒誕<lb/>
+　　傅會詞不雅馴則概置弗録仍别為五類曰世系<lb/>
+　　曰字書曰語言曰故事曰附記庶於旁搜博採中<lb/>
+　　寓雜而不越之義云志雜録第二十<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>鬼谷子序</head> <lb/>
+    <p>
+<pb n="KR3j0008_WYG_000-1a"/>
+欽定四庫全書<lb/>
+　鬼谷子序<lb/>
+隋書經籍志鬼谷子三卷皇甫謐註鬼谷子楚人也周<lb/>
+世隱於鬼谷梁有陶𢎞景注三卷又有樂壹注三卷從<lb/>
+横者所以明辯說善辭令以通上下之志者也漢世以<lb/>
+為本行人之官受命出疆臨事而制故曰誦詩三百使<lb/>
+於四方不能專對雖多亦奚以為周官掌交以節與幣<lb/>
+巡邦國之諸侯及萬姓之聚導王之德意志慮使辟行<lb/>
+<pb n="KR3j0008_WYG_000-1b"/>
+之而和諸侯之好達萬民之說諭以九稅之利九儀之<lb/>
+親九牧之維九禁之難九戎之威是也佞人為之則便<lb/>
+辭利口傾危變詐至於賊害忠信覆亂邦家監修國史<lb/>
+趙國公長孫無忌等上<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>子畧</head>
+    <p>
+<pb n="KR2n0004_WYG_000-1a"/>
+欽定四庫全書　　　　　史部十四<lb/>
+　子畧　　　　　　　　　目錄類一<hi>經籍之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案子畧四卷宋髙似孫撰似孫有剡<lb/>
+　　　　録等書已著錄是書詳載諸家説部卷一始<lb/>
+　　　　漢志所載次隋志所載次唐志所載次庾仲<lb/>
+　　　　容子鈔馬總意林所載次鄭樵通志藝文畧<lb/>
+　　　　所載皆削其門類而存其書名畧注撰人卷<lb/>
+<pb n="KR2n0004_WYG_000-1b"/>
+　　　　數于下其一書而有諸家注者則惟列本書<lb/>
+　　　　而注家細字附録焉其有題識者凡陰符經<lb/>
+　　　　握竒經八陣圖鬻子六韜孔叢子曽子魯仲<lb/>
+　　　　連子晏子老子莊子列子文子戰國䇿管子<lb/>
+　　　　尹文子韓非子墨子鄧析子亢桑子鶡冠子<lb/>
+　　　　孫子呉子范子鬼谷子吕氏春秋素書淮南<lb/>
+　　　　子賈誼新書鹽鐵論論衡太元經新序説苑<lb/>
+　　　　抱朴子文中子元子皮子隠書凡三十八家<lb/>
+<pb n="KR2n0004_WYG_000-2a"/>
+　　　　其中説苑新序合一篇而八陣圖附于握竒<lb/>
+　　　　經實共三十六篇惟陰符經握竒經録其原<lb/>
+　　　　書于前餘皆不録似乎後人刪節之本未必<lb/>
+　　　　完書也馬端臨通考多引之亦頗有所考證<lb/>
+　　　　發明然似孫能知亢桑子之偽而於陰符經<lb/>
+　　　　握竒經三畧諸葛亮將苑十六䇿之類乃皆<lb/>
+　　　　以為真則鑒别亦未為甚確其盛稱鬼谷子<lb/>
+　　　　尤為好竒以其㑹梓諸家且所見之本猶近<lb/>
+<pb n="KR2n0004_WYG_000-2b"/>
+　　　　古終非焦竑經籍志流輾轉販鬻徒搆虛詞<lb/>
+　　　　者比故錄而存之備考證焉乾隆四十六年<lb/>
+　　　　十二月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+<pb n="KR2n0004_WYG_000-3a"/>
+子畧原序<lb/>
+六經後以士才藝自聲於戰國秦漢間往往騁辭立言<lb/>
+成一家法觀其跌宕古今之變發揮事物之機智力足<lb/>
+以盡其神思致足以殫其用其指心運志固不能盡宗<lb/>
+於經而經緯表裏亦有不能盡忘乎經者使之純乎道<lb/>
+昌乎世豈不可馳騁規畫鍧錚事功而與典謨風雅並<lb/>
+傳乎所逢如此所施又如此終亦碌碌與羣言如一百<lb/>
+氏同流可不嗟且惜哉嗚呼仲尼皇皇孟子切切猶不<lb/>
+<pb n="KR2n0004_WYG_000-3b"/>
+克如臯夔如伊吕周召况他乎至若荀況揚雄氏王通<lb/>
+韓愈氏是學孔孟者也又不可與諸子同日語或知此<lb/>
+意則一言可以明道藝究訏謨可以立身養性致廣大<lb/>
+盡髙明可以著書立言丹青金石垂訓乎後世顧所擇<lb/>
+如何耳審哉審哉乃系以諸子之學必有因其學而决<lb/>
+其傳存其流而辨其術者斯可以通名家究指歸矣作<lb/>
+子畧<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

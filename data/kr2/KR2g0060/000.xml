@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>松亭行紀</head>
+    <p>
+<pb n="KR2g0060_WYG_000-1a"/>
+欽定四庫全書　　　　史部七<lb/>
+　松亭行紀　　　　　　傳記𩔖四<hi>雜録之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案松亭行紀二卷<lb/>
+　　　國朝髙士竒撰康熙辛酉二月癸酉<lb/>
+　聖祖仁皇帝恭奉<lb/>
+　太皇太后行幸温泉四月戊子<lb/>
+　駕出喜峰口士竒皆扈從因記其往來所經謂喜峰<lb/>
+<pb n="KR2g0060_WYG_000-1b"/>
+　　　　口為古松亭闗故以名書然松亭闗在喜峰<lb/>
+　　　　口外八十里士竒合而一之未詳攷也所述<lb/>
+　　　　灤河源流亦不明確至温泉有朱砂礬石硫<lb/>
+　　　　黄三種<lb/>
+　聖祖御製㡬暇格物編中言之甚明士竒日侍<lb/>
+　　禁闥典文翰之職不應不睹乃仍襲宋唐庚揣測<lb/>
+　　　　之説殆不可解以其叙出山川風景足資考<lb/>
+　　　　證而附載詩文亦皆可觀故所著塞北小抄<lb/>
+<pb n="KR2g0060_WYG_000-2a"/>
+　　　　别存其目而此編則仍録之焉乾隆四十六<lb/>
+　　　　年三月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

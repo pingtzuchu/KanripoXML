@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>清異録</head>
+    <p>
+<pb n="KR3l0127_WYG_000-1a"/>
+欽定四庫全書　　　　　子部十二<lb/>
+　清異録　　　　　　　　小説家𩔖三<hi>瑣記之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案清異録二卷宋陶榖撰榖字秀<lb/>
+　　　　實邠州新平人本唐彦謙之孫後避晉諱<lb/>
+　　　　改陶氏仕晉為知制誥倉部郎中仕漢為給<lb/>
+　　　　事中仕周為兵部侍即翰林承旨入宋仍原<lb/>
+　　　　官加户部尚書事迹具宋史本傳是書皆採<lb/>
+<pb n="KR3l0127_WYG_000-1b"/>
+　　　　摭唐及五代新頴之語分三十七門各為標<lb/>
+　　　　題而注事實縁起於其下陳振孫書録解題<lb/>
+　　　　以為不𩔖宋初人語胡應麟筆叢嘗辨之今<lb/>
+　　　案榖雖入宋實五代舊人當時文格不過如是<lb/>
+　　　　應麟所云良是惟榖本北人僅一使南唐而<lb/>
+　　　　花九品九命一條云張翊者世本長安因亂<lb/>
+　　　　南來先主擢置上列乃似江南人語是則稍<lb/>
+　　　　不可解耳豈亦雜録舊文刪除未盡耶所記<lb/>
+<pb n="KR3l0127_WYG_000-2a"/>
+　　　　諸事如出一手大抵即榖所造亦雲仙散録<lb/>
+　　　　之流而猶不偽造書名故後人頗引為詞藻<lb/>
+　　　　之用樓鑰攻媿集有白醉軒詩據其自序亦<lb/>
+　　　　引此書則宋代名流即已用為故實相沿既<lb/>
+　　　　久遂亦不可廢焉乾隆四十三年五月恭校<lb/>
+　　　　上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+<pb n="KR3l0127_WYG_000-3a"/>
+欽定四庫全書　　　　　子部十二<lb/>
+　清異録總目　　　　　　小説家𩔖三<hi>瑣記之屬</hi>
+　　卷上<lb/>
+　　　天文門<hi>十七事</hi>
+　　　地理門<hi>十四事</hi>
+　　　君道門<hi>十二事</hi>
+　　　官志門<hi>十六事</hi>
+　　　人事門<hi>十五事</hi>
+<pb n="KR3l0127_WYG_000-3b"/>
+　　　女行門<hi>凡五事</hi>
+　　　君子門<hi>凡十事</hi>
+　　　么麽門<hi>凡四事</hi>
+　　　釋族門<hi>二十一事</hi>
+　　　<graphic n="KR0726" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0726.png" mimeType="image/png"/>宗門<hi>凡六事</hi>
+　　　草木門<hi>十五事</hi>
+　　　竹木門<hi>十九事</hi>
+　　　百花門<hi>二十六事</hi>
+<pb n="KR3l0127_WYG_000-4a"/>
+　　　百菓門<hi>三十八事</hi>
+　　　蔬菜門<hi>二十五事</hi>
+　　　藥品門<hi>二十事</hi>
+　　　禽名門<hi>三十二事</hi>
+　　　獸名門<hi>二十事</hi>
+　　　百蟲門<hi>凡六事</hi>
+　　　魚門<hi>凡三十三事</hi>
+　　卷下<lb/>
+<pb n="KR3l0127_WYG_000-4b"/>
+　　　肢體門<hi>凡八事</hi>
+　　　作用門<hi>凡八事</hi>
+　　　居室門<hi>二十四事</hi>
+　　　衣服門<hi>二十五事</hi>
+　　　裝飾門<hi>凡七事</hi>
+　　　陳設門<hi>十四事</hi>
+　　　器具門<hi>五十四事</hi>
+　　　文用門<hi>二十六事</hi>
+<pb n="KR3l0127_WYG_000-5a"/>
+　　　武器門<hi>十一事</hi>
+　　　酒漿門<hi>十六事</hi>
+　　　茗荈門<hi>三十五事</hi>
+　　　饌羞門<hi>三十九事</hi>
+　　　薫燎門<hi>三十四事</hi>
+　　　喪塟門<hi>凡九事</hi>
+　　　鬼門<hi>一事</hi>
+　　　神門<hi>二事</hi>
+<pb n="KR3l0127_WYG_000-5b"/>
+　　　妖門<hi>一事</hi>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

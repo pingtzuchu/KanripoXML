@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>朱子禮纂</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　經部四<lb/>
+　朱子禮纂　　　　　　禮類六<hi>雜禮書之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案朱子禮纂五卷<lb/>
+　　　國朝李光地撰是書於朱子儀禮經傳通解及<lb/>
+　　　　家禮二書外凡説禮之條散見於文集語類<lb/>
+　　　　者分類纂集分為五目曰總論曰冠昏曰喪<lb/>
+　　　　曰祭曰雜儀縷析條分具有統貫雖採輯不<lb/>
+<pb n="1b"/>
+　　　　無遺闕若文集有答潘恭叔書論編儀禮禮<lb/>
+　　　　記章句答王子合書論居喪家祭又有周禮<lb/>
+　　　　三徳説樂記動靜説書程子禘説後等篇此<lb/>
+　　　　書皆不見録又與吳晦叔書論太廟當南向<lb/>
+　　　　太祖當東向雖與此書所録答王子合書大<lb/>
+　　　　義相似然答晦叔書更為詳盡今乃刪詳而<lb/>
+　　　　存略又集載鄂州社壇記前列羅鄂州所定<lb/>
+　　　　壇壝制度及社稷向位朱子必以其深合典<lb/>
+<pb n="2a"/>
+　　　　禮故詳述之以補禮文之闕而此書乃盡刪<lb/>
+　　　　前篇但存某按以下云云亦失朱子備載之<lb/>
+　　　　意然朱子説禮之言參差散見猝不能得其<lb/>
+　　　　端緒光地類聚而區分之使秩然有理於學<lb/>
+　　　　禮者亦為有功矣乾隆四十三年九月恭校<lb/>
+　　　　上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

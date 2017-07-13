@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>八旗滿洲氏族通譜目録</head> <lb/>
+    <p>
+<pb n="KR2g0044_WYG_116-1a"/>
+欽定四庫全書<lb/>
+　八旗滿洲氏族通譜目録<lb/>
+　　卷五十八<lb/>
+　　卓晉氏<lb/>
+　　　滿都渾　　　　　　塞赫<lb/>
+　　色穆奇理氏<lb/>
+　　　岱達理　　　　　　阿郎阿<lb/>
+　　廣佳喇氏<lb/>
+<pb n="KR2g0044_WYG_116-1b"/>
+　　　奇堂儀　　　　　　札爾布<lb/>
+　　吳察喇氏<lb/>
+　　　聶爾蘇　　　　　　克星額<lb/>
+　　蒼瑪爾紀氏<lb/>
+　　　阿禄　　　　　　　額聶赫<lb/>
+　　赫書氏<lb/>
+　　　什圖　　　　　　　赫爾喜<lb/>
+　　康傑達氏<lb/>
+<pb n="KR2g0044_WYG_116-2a"/>
+　　　色爾古楞　　　　　奇希圖<lb/>
+　　吉魯氏<lb/>
+　　　噶爾圖　　　　　　博爾渾<lb/>
+　　都魯氏<lb/>
+　　　吳爾蛟　　　　　　薩穆哈理<lb/>
+　　沙拉氏<lb/>
+　　　楚楞　　　　　　　瓦爾達<lb/>
+　　鄂穆綽氏<lb/>
+<pb n="KR2g0044_WYG_116-2b"/>
+　　　阿圖理　　　　　　巴斯克<lb/>
+　　培佳氏<lb/>
+　　　二格色　　　　　　巴哈達<lb/>
+　　舒穆理氏<lb/>
+　　　鄂偲　　　　　　　三達理<lb/>
+　　鄂爾綽絡氏<lb/>
+　　　巴爾達　　　　　　雅爾吉勒<lb/>
+　　徐吉氏<lb/>
+<pb n="KR2g0044_WYG_116-3a"/>
+　　　巴顔　　　　　　　達成<lb/>
+　　達爾充阿氏<lb/>
+　　　巴賽　　　　　　　謨綽海<lb/>
+　　烏爾瑚濟氏<lb/>
+　　　古思克　　　　　　桑格<lb/>
+　　顏濟理氏<lb/>
+　　　雅郎阿　　　　　　和爾親<lb/>
+　　卓起氏<lb/>
+<pb n="KR2g0044_WYG_116-3b"/>
+　　　耀徳尼　　　　　　輝色<lb/>
+　　鄂索絡氏<lb/>
+　　　岱音布禄　　　　　塞克<lb/>
+　　鈕瑚特氏<lb/>
+　　　佛特訥　　　　　　囊努<lb/>
+　　盛佳氏<lb/>
+　　　那瑪理　　　　　　庫爾禪<lb/>
+　　倭徹赫氏<lb/>
+<pb n="KR2g0044_WYG_116-4a"/>
+　　　燕泰　　　　　　　永安<lb/>
+　　索察氏<lb/>
+　　　那穆岱　　　　　　伊拉理<lb/>
+　　赫葉勒氏<lb/>
+　　　赫碩色　　　　　　巴爾瑪<lb/>
+　　禄葉勒氏<lb/>
+　　　穆魯肯　　　　　　阿爾炳阿<lb/>
+　　拜晉氏<lb/>
+<pb n="KR2g0044_WYG_116-4b"/>
+　　　茂訥爾特　　　　　布濟爾岱<lb/>
+　　烏雅察氏<lb/>
+　　　沙渾　　　　　　　那爾布<lb/>
+　　穆克圖氏<lb/>
+　　　佛<graphic n="KR2498" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2498.png" mimeType="image/png"/>　　　　　　　烏喀<lb/>
+　　札拉氏<lb/>
+　　　巴瑚　　　　　　　托羅<lb/>
+　　傅佳氏<lb/>
+<pb n="KR2g0044_WYG_116-5a"/>
+　　　尼雅哈　　　　　　覺禪<lb/>
+　　郭渾氏<lb/>
+　　　科濶理　　　　　　克爾格<lb/>
+　　尼錫理氏<lb/>
+　　　徳普古　　　　　　方喀納<lb/>
+　　赫佳氏<lb/>
+　　　馬福納　　　　　　拉理喀<lb/>
+　　强恰理氏<lb/>
+<pb n="KR2g0044_WYG_116-5b"/>
+　　　强効　　　　　　　强玉昇<lb/>
+　　鍾吉氏<lb/>
+　　　齊布　　　　　　　鍾元徳<lb/>
+　　梅楞氏<lb/>
+　　　三保　　　　　　　錫爾騰<lb/>
+　　舒禄氏<lb/>
+　　　凖布魯　　　　　　保住<lb/>
+　　琨都勒氏<lb/>
+<pb n="KR2g0044_WYG_116-6a"/>
+　　　額圖楞　　　　　　喀爾魁<lb/>
+　　額色氏<lb/>
+　　　呉成額　　　　　　達濃阿<lb/>
+　　伏爾哈氏<lb/>
+　　　碩色　　　　　　　哲庫訥<lb/>
+　　覺佳氏<lb/>
+　　　尹達瑚齊　　　　　法庫理<lb/>
+　　瑚雅氏<lb/>
+<pb n="KR2g0044_WYG_116-6b"/>
+　　　艾丹布　　　　　　瑚什塔<lb/>
+　　都佳氏<lb/>
+　　　墨爾根　　　　　　穆訥克<lb/>
+　　謨克拖氏<lb/>
+　　　登尼費　　　　　　克什布魯<lb/>
+　　虞佳氏<lb/>
+　　　英額理　　　　　　虞萬良<lb/>
+　　碧喇氏<lb/>
+<pb n="KR2g0044_WYG_116-7a"/>
+　　　烏努瑚齊　　　　　常綬<lb/>
+　　伊庫魯氏<lb/>
+　　　伊爾琥　　　　　　蘇庫納<lb/>
+　　多羅宏氏<lb/>
+　　　索諾　　　　　　　庫楞徳<lb/>
+　　鈕赫氏<lb/>
+　　　福幹　　　　　　　衮布魯<lb/>
+　　翁鈕絡氏<lb/>
+<pb n="KR2g0044_WYG_116-7b"/>
+　　　本拜　　　　　　　二武<lb/>
+　　吉普禇氏<lb/>
+　　　車克穆　　　　　　薩爾泰<lb/>
+　　金佳氏<lb/>
+　　　晉什納密　　　　　固實<lb/>
+　　石穆魯氏<lb/>
+　　　布札　　　　　　　葉錫<lb/>
+　　馬察氏<lb/>
+<pb n="KR2g0044_WYG_116-8a"/>
+　　　瑚什喀　　　　　　瑚拉爾岱<lb/>
+　　赫濟理氏<lb/>
+　　　蘭達　　　　　　　揚著<lb/>
+　　蒙鄂絡氏<lb/>
+　　　鄂什　　　　　　　科多<lb/>
+　　郭羅氏<lb/>
+　　　嘉喬資　　　　　　安布禄<lb/>
+　　納塔氏<lb/>
+<pb n="KR2g0044_WYG_116-8b"/>
+　　　雅爾納　　　　　　莽吉理<lb/>
+　　佟塞勒氏<lb/>
+　　　富德　　　　　　　達爾濟<lb/>
+<pb n="KR2g0044_WYG_116-9a"/>
+欽定四庫全書<lb/>
+　八旗滿洲氏族通譜目録<lb/>
+　　卷五十八<lb/>
+　　卓晉氏<lb/>
+　　　滿都渾　　　　　　塞赫<lb/>
+　　色穆奇理氏<lb/>
+　　　岱達理　　　　　　阿郎阿<lb/>
+　　廣佳喇氏<lb/>
+<pb n="KR2g0044_WYG_116-9b"/>
+　　　奇堂儀　　　　　　札爾布<lb/>
+　　吳察喇氏<lb/>
+　　　聶爾蘇　　　　　　克星額<lb/>
+　　蒼瑪爾紀氏<lb/>
+　　　阿禄　　　　　　　額聶赫<lb/>
+　　赫書氏<lb/>
+　　　什圖　　　　　　　赫爾喜<lb/>
+　　康傑達氏<lb/>
+<pb n="KR2g0044_WYG_116-10a"/>
+　　　色爾古楞　　　　　奇希圖<lb/>
+　　吉魯氏<lb/>
+　　　噶爾圖　　　　　　博爾渾<lb/>
+　　都魯氏<lb/>
+　　　吳爾蛟　　　　　　薩穆哈理<lb/>
+　　沙拉氏<lb/>
+　　　楚楞　　　　　　　瓦爾達<lb/>
+　　鄂穆綽氏<lb/>
+<pb n="KR2g0044_WYG_116-10b"/>
+　　　阿圖理　　　　　　巴斯克<lb/>
+　　培佳氏<lb/>
+　　　二格色　　　　　　巴哈達<lb/>
+　　舒穆理氏<lb/>
+　　　鄂偲　　　　　　　三達理<lb/>
+　　鄂爾綽絡氏<lb/>
+　　　巴爾達　　　　　　雅爾吉勒<lb/>
+　　徐吉氏<lb/>
+<pb n="KR2g0044_WYG_116-11a"/>
+　　　巴顔　　　　　　　達成<lb/>
+　　達爾充阿氏<lb/>
+　　　巴賽　　　　　　　謨綽海<lb/>
+　　烏爾瑚濟氏<lb/>
+　　　古思克　　　　　　桑格<lb/>
+　　顏濟理氏<lb/>
+　　　雅郎阿　　　　　　和爾親<lb/>
+　　卓起氏<lb/>
+<pb n="KR2g0044_WYG_116-11b"/>
+　　　耀徳尼　　　　　　輝色<lb/>
+　　鄂索絡氏<lb/>
+　　　岱音布禄　　　　　塞克<lb/>
+　　鈕瑚特氏<lb/>
+　　　佛特訥　　　　　　囊努<lb/>
+　　盛佳氏<lb/>
+　　　那瑪理　　　　　　庫爾禪<lb/>
+　　倭徹赫氏<lb/>
+<pb n="KR2g0044_WYG_116-12a"/>
+　　　燕泰　　　　　　　永安<lb/>
+　　索察氏<lb/>
+　　　那穆岱　　　　　　伊拉理<lb/>
+　　赫葉勒氏<lb/>
+　　　赫碩色　　　　　　巴爾瑪<lb/>
+　　禄葉勒氏<lb/>
+　　　穆魯肯　　　　　　阿爾炳阿<lb/>
+　　拜晉氏<lb/>
+<pb n="KR2g0044_WYG_116-12b"/>
+　　　茂訥爾特　　　　　布濟爾岱<lb/>
+　　烏雅察氏<lb/>
+　　　沙渾　　　　　　　那爾布<lb/>
+　　穆克圖氏<lb/>
+　　　佛<graphic n="KR2498" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2498.png" mimeType="image/png"/>　　　　　　　烏喀<lb/>
+　　札拉氏<lb/>
+　　　巴瑚　　　　　　　托羅<lb/>
+　　傅佳氏<lb/>
+<pb n="KR2g0044_WYG_116-13a"/>
+　　　尼雅哈　　　　　　覺禪<lb/>
+　　郭渾氏<lb/>
+　　　科濶理　　　　　　克爾格<lb/>
+　　尼錫理氏<lb/>
+　　　徳普古　　　　　　方喀納<lb/>
+　　赫佳氏<lb/>
+　　　馬福納　　　　　　拉理喀<lb/>
+　　强恰理氏<lb/>
+<pb n="KR2g0044_WYG_116-13b"/>
+　　　强効　　　　　　　强玉昇<lb/>
+　　鍾吉氏<lb/>
+　　　齊布　　　　　　　鍾元徳<lb/>
+　　梅楞氏<lb/>
+　　　三保　　　　　　　錫爾騰<lb/>
+　　舒禄氏<lb/>
+　　　凖布魯　　　　　　保住<lb/>
+　　琨都勒氏<lb/>
+<pb n="KR2g0044_WYG_116-14a"/>
+　　　額圖楞　　　　　　喀爾魁<lb/>
+　　額色氏<lb/>
+　　　呉成額　　　　　　達濃阿<lb/>
+　　伏爾哈氏<lb/>
+　　　碩色　　　　　　　哲庫訥<lb/>
+　　覺佳氏<lb/>
+　　　尹達瑚齊　　　　　法庫理<lb/>
+　　瑚雅氏<lb/>
+<pb n="KR2g0044_WYG_116-14b"/>
+　　　艾丹布　　　　　　瑚什塔<lb/>
+　　都佳氏<lb/>
+　　　墨爾根　　　　　　穆訥克<lb/>
+　　謨克拖氏<lb/>
+　　　登尼費　　　　　　克什布魯<lb/>
+　　虞佳氏<lb/>
+　　　英額理　　　　　　虞萬良<lb/>
+　　碧喇氏<lb/>
+<pb n="KR2g0044_WYG_116-15a"/>
+　　　烏努瑚齊　　　　　常綬<lb/>
+　　伊庫魯氏<lb/>
+　　　伊爾琥　　　　　　蘇庫納<lb/>
+　　多羅宏氏<lb/>
+　　　索諾　　　　　　　庫楞徳<lb/>
+　　鈕赫氏<lb/>
+　　　福幹　　　　　　　衮布魯<lb/>
+　　翁鈕絡氏<lb/>
+<pb n="KR2g0044_WYG_116-15b"/>
+　　　本拜　　　　　　　二武<lb/>
+　　吉普禇氏<lb/>
+　　　車克穆　　　　　　薩爾泰<lb/>
+　　金佳氏<lb/>
+　　　晉什納密　　　　　固實<lb/>
+　　石穆魯氏<lb/>
+　　　布札　　　　　　　葉錫<lb/>
+　　馬察氏<lb/>
+<pb n="KR2g0044_WYG_116-16a"/>
+　　　瑚什喀　　　　　　瑚拉爾岱<lb/>
+　　赫濟理氏<lb/>
+　　　蘭達　　　　　　　揚著<lb/>
+　　蒙鄂絡氏<lb/>
+　　　鄂什　　　　　　　科多<lb/>
+　　郭羅氏<lb/>
+　　　嘉喬資　　　　　　安布禄<lb/>
+　　納塔氏<lb/>
+<pb n="KR2g0044_WYG_116-16b"/>
+　　　雅爾納　　　　　　莽吉理<lb/>
+　　佟塞勒氏<lb/>
+　　　富德　　　　　　　達爾濟<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

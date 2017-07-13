@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_329-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選巻三百二十九<lb/>
+　　繡毬花類<lb/>
+　　　七言律<lb/>
+　　　　繡毬花次兀顔廉使韻　　　<hi>元</hi>張　昱<lb/>
+　繡毬春晚欲生寒滿樹玲瓏雪未乾落遍楊花渾不覺<lb/>
+　飛來蝴蝶忽成團釵頭嬾戴應嫌重手裏閒抛却好看<lb/>
+　天女夜凉乗月到羽車偷駐碧欄干<lb/>
+<pb n="KR4h0141_WYG_329-1b"/>
+　　　七言絶句<lb/>
+　　　　繡毬花　　　　　　　　　<hi>明</hi>謝　榛<lb/>
+　髙枝帶雨壓雕欄一蔕千花白玉團怪殺芳心春歴亂<lb/>
+　捲簾誰向月中看<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選巻三百二十九<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>介菴詞</head>
+    <p>
+<pb n="KR4j0036_WYG_000-1a"/>
+欽定四庫全書　　　　集部十<lb/>
+　介菴詞　　　　　　　詞曲類一<hi>詞集之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案介菴詞一巻宋趙彦端撰彦端字<lb/>
+　　　　徳莊號介菴魏王廷美七世孫乾道淳熙間<lb/>
+　　　　以直寶文閣知建寧府終左司郎官宋史藝<lb/>
+　　　　文志彦端有介菴集十巻外集三巻又有介<lb/>
+　　　　菴詞四巻馬端臨經籍考則僅稱介菴詞一<lb/>
+<pb n="KR4j0036_WYG_000-1b"/>
+　　　　巻此本為毛晉所刻亦止一巻與通考合然<lb/>
+　　　　據其巻後跋語似又舊刻散佚僅存此一巻<lb/>
+　　　　者未之詳也彦端嘗賦西湖謁金門有波底<lb/>
+　　　　斜陽紅濕之句為髙宗所喜有我家裡人也<lb/>
+　　　　會作此等語之稱其他篇亦多婉約纖穠不<lb/>
+　　　　愧作者集末鷓鴣天十闋乃為京口角妓蕭<lb/>
+　　　　秀蕭瑩歐懿桑雅劉雅歐倩文秀王婉楊蘭<lb/>
+　　　　吳玉九人而作詞格凡猥皆無足取且連名<lb/>
+<pb n="KR4j0036_WYG_000-2a"/>
+　　　　入之集中殆于北里之志殊乖雅音葢唐宋<lb/>
+　　　　以来士大夫不禁狎斜之遊彦端是作葢亦<lb/>
+　　　　移于習俗存而不論可矣乾隆四十六年十<lb/>
+　　　　月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

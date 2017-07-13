@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>長安志</head>
+    <p>
+<pb n="KR2k0092_WYG_000-1a"/>
+欽定四庫全書　　　　史部十一<lb/>
+　長安志　　　　　　　地理𩔖七古蹟之屬<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹按長安志二十巻宋宋敏求撰敏求<lb/>
+　　　　有唐大詔令己著錄是編皆考訂長安古蹟<lb/>
+　　　　以唐韋述西京記疎畧不備因更博採羣籍<lb/>
+　　　　叅校成書凡城郭官府山川道里津梁郵驛<lb/>
+　　　　以至風俗物產宫室寺院纎悉畢具其坊市<lb/>
+<pb n="KR2k0092_WYG_000-1b"/>
+　　　　曲折及唐盛時士夫夫第宅所在皆一一能<lb/>
+　　　　舉其處粲然如指諸掌司馬光嘗以為考之<lb/>
+　　　　韋記其詳不啻十倍今韋氏之書久已亡佚<lb/>
+　　　　而此志精博宏贍舊都遺事藉以獲傳實非<lb/>
+　　　　他地志所能及程大昌雍錄稱其引𩔖相従<lb/>
+　　　　最為明晰然細細校之亦不免時有駁複如<lb/>
+　　　　曲臺既入未央而又入之三雍是分一為二<lb/>
+　　　　矣長門宫在都城之外長門亭畔而列諸長<lb/>
+<pb n="KR2k0092_WYG_000-2a"/>
+　　　　信宫内則失其位置矣况宫殿園囿又多空<lb/>
+　　　　存其名不著事蹟則無可尋繹矣云云其説<lb/>
+　　　　雖不為無見實則凌雲之才不可以寸朽為<lb/>
+　　　　病也敏求尚有河南志與此凡例稍異而並<lb/>
+　　　　稱贍博今已不存又楊慎丹鉛錄謂杜常華<lb/>
+　　　　清宫詩見長安志詩中曉風乃作曉星檢今<lb/>
+　　　　本實無此詩盖慎喜偽托古書不足為據非<lb/>
+　　　　此志有所殘缺惟晁公武讀書志載有趙彥<lb/>
+<pb n="KR2k0092_WYG_000-2b"/>
+　　　　若序今本無之則當屬傳寫佚脫耳乾隆四<lb/>
+　　　　十六年六月㳟校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="KR2k0092_WYG_000-3a"/>
+長安志原序<lb/>
+雍之為都渉三代歴漢唐之全盛世統屢更累起相襲<lb/>
+神靈所儲事變叢聚宜其較然有明册大典暴天下耳<lb/>
+目而圖牒殘脫宿老無傳求諸故志唯韋氏所記為一<lb/>
+時全書遺文古事悉散入他說班班梗槩不可復完非<lb/>
+好學深思博物善作孰能盡收其軼而追成之長安志<lb/>
+者今史官諫議大夫龍圖閤學士常山公所定著也公<lb/>
+以文章世家為朝廷名臣器業之餘紀述自命盖考論<lb/>
+<pb n="KR2k0092_WYG_000-3b"/>
+都邑網羅舊聞詞人所銳精而載筆之先務也近代建<lb/>
+國率繇西遷崤函之區陶冶渭洛實上游要會最重之<lb/>
+地而陊毁零落寖就堙沒將無以自振校之本末先後<lb/>
+二京巳録固不得獨闕於此前在河南旁接三輔嘗有<lb/>
+意於搜采矣然猶未遑暇又踰二紀乃創屬體緒纘次<lb/>
+其言窮傳記諸子鈔𩔖之語絶編斷簡靡不總萃<graphic n="KR1357" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1357.png" mimeType="image/png"/>括<lb/>
+而究極之上下浹通為二十巻用備舊都古今之制俾<lb/>
+其風壤光塵有以奮於永久故夫府縣有政官尹有職<lb/>
+<pb n="KR2k0092_WYG_000-4a"/>
+河渠關塞有利病皆干於治而施於用取諸地記集而<lb/>
+讀之而後見其法叙列往躅逺者謹嚴而簡近者周宻<lb/>
+而詳各有所因布規模猶親處其世畫里陌同經行之<lb/>
+熟而後見其功自本而推始終大畧其所昭發又不特<lb/>
+如是而已竊嘗望丹鳯門故址勢侔碣石疑非人力所<lb/>
+為自想當時真偉觀也及驗未央建章殿堂宫闕之峻<lb/>
+則其繁夥宏廓氣象飛動過大明逺甚以漢室之隆兼<lb/>
+制夷夏非壯麗無以重威亦可信也復上觀於周唯有<lb/>
+<pb n="KR2k0092_WYG_000-4b"/>
+鎬京靈臺辟雍明堂豐宫詩所謂經始勿亟庶民子來<lb/>
+又稱自西自東自南自北無思不服昔之與衆同樂遂<lb/>
+物之性所以致之之效乃能至於此乎察其故專尚簡<lb/>
+易儉約曾不言形勝强富益知仁義之尊道德之貴彼<lb/>
+阻固雄豪皆有不足漢唐之迹更為可羞於乎盛夫若<lb/>
+然得以貢於明朝監千載餘敝修豐鎬故事以澤吾人<lb/>
+豈曰小補哉熙寧九年二月五日大常博士充集賢校<lb/>
+理崇文院檢討<hi>原闕四字</hi>同知<hi>缺</hi>　丞事趙彦若撰<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

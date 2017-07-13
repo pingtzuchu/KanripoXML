@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4c0061_SBCK_000-1a"/>
+李賀歌詩集序<lb/>
+　　　　　　　　京兆杜　牧　牧之<lb/>
+大和五年十月中半夜時舎外有疾呼傳緘書<lb/>
+者牧曰必有異亟取火來及發之果集賢學士<lb/>
+沈公子明書一通曰我亾友李賀元和中義愛<lb/>
+甚厚日多相與起居飲㑹賀且死常授我平生<lb/>
+所著歌詩離爲四編凡二百二十三首數年來<lb/>
+東西南北良爲巳失去今夕醉解不復得寐即<lb/>
+閱理篋帙忽得賀詩前所授我者思理往事凡<lb/>
+與賀話言嬉遊一處所一物候一日一夕一觴<lb/>
+<pb n="KR4c0061_SBCK_000-1b"/>
+一飯顯顯然無有忘棄者不覺出涕賀復無家<lb/>
+室子弟得以給養䘏問常恨想其人味其言止<lb/>
+矣子厚於我與我爲賀集序盡道其所來由亦<lb/>
+少解我意牧其夕不果以書道不可明日就公<lb/>
+謝且曰世謂賀才絶出于前讓居數日牧深惟<lb/>
+公曰公於詩爲深妙竒博且復盡知賀之得失<lb/>
+短長今實敘賀不讓必不能當公意如何復就<lb/>
+謝極道所不敢敘賀公曰子固若是是當慢我<lb/>
+牧因不敢復辭勉爲賀序然其甚慙唐皇諸孫<lb/>
+賀字長吉元和中韓吏部亦頗道其歌詩雲煙<lb/>
+<pb n="KR4c0061_SBCK_000-2a"/>
+綿聮不足爲其態也水之迢迢不足爲其情也<lb/>
+春之盎盎不足爲其和也秋之明潔不足爲其<lb/>
+格也風檣陣馬不足爲其勇也瓦棺篆鼎不足<lb/>
+爲其古也時花美女不足爲其色也荒國陊殿<lb/>
+梗莽丘隴不足爲其恨怨悲愁也鯨呿鼇擲牛<lb/>
+鬼蛇神不足爲其虚荒誕幻也葢騷之苗裔理<lb/>
+雖不及辭或過之騷有感怨刺懟言及君臣理<lb/>
+亂時有以激發人意乃賀所爲無得有是賀復<lb/>
+探尋前事所以深歎恨古今未甞經道者如金<lb/>
+銅仙人辭漢歌補梁庾肩吾宫體謡求取情狀<lb/>
+<pb n="KR4c0061_SBCK_000-2b"/>
+離絶逺去筆墨畦逕閒亦殊不能知之賀生二<lb/>
+十七年死矣世皆曰使賀且未死少加以理奴<lb/>
+僕命騷可也賀死後凡十有某年京兆杜牧爲<lb/>
+其序<lb/>
+<pb n="KR4c0061_SBCK_000-3a"/>
+歌詩目録編弟一<lb/>
+　　　　　　　　　　　　隴西李　賀　長吉<lb/>
+　　　　　　　　凡五十九首<lb/>
+李慿箜篌引　殘絲曲<lb/>
+還自㑹稽歌　寄權璩楊敬之<lb/>
+示第　竹<lb/>
+同沈駙馬賦得御溝水　始爲奉禮憶昌谷山居<lb/>
+七夕　過華清宫<lb/>
+送沈亞之歌　詠懐<hi>二首</hi>
+追和栁惲　春坊正字劒子歌<lb/>
+<pb n="KR4c0061_SBCK_000-3b"/>
+　貴公子夜䦨曲　鴈門太守行<lb/>
+　大堤曲　蜀國絃<lb/>
+　蘇小小歌　夢天<lb/>
+　唐兒歌　緑章封事<lb/>
+　十二月樂辭<hi>并閠月十三首</hi>天上謡<lb/>
+　浩歌　秋来<lb/>
+　帝子歌　秦王飲酒<lb/>
+　洛妹眞珠　李夫人<lb/>
+　走馬引　湘妃<lb/>
+　三月過行宫　南園<hi>十三首</hi>
+<pb n="KR4c0061_SBCK_000-4a"/>
+歌詩目録編弟二<lb/>
+　　　　　　　　凡五十四首<lb/>
+金銅僊人辭漢歌　古悠悠行<lb/>
+黄頭郎　馬詩<hi>二十三首</hi>
+申胡子觱栗歌　老夫採玉歌<lb/>
+傷心行　湖中曲<lb/>
+黄家洞　屏風曲<lb/>
+南山田中行　貴主征行樂<lb/>
+贈時張𥘉効潞幕　羅敷交與葛篇<lb/>
+仁和里雜敘皇甫湜　宫娃歌<lb/>
+<pb n="KR4c0061_SBCK_000-4b"/>
+　堂堂　送小季之廬山<hi>二首</hi>
+　致酒行　長歌續短歌<lb/>
+　公莫舞歌　昌谷北園新笋<hi>四首</hi>
+　惱公　感諷<hi>五首</hi>
+歌詩目録編弟三<lb/>
+　　　　　　　　　凡五十七首<lb/>
+　追何謝銅雀妓　送秦光禄北征<lb/>
+　酬荅<hi>二首</hi>畫角東城<lb/>
+嘲謝秀才<hi>四首</hi>昌谷讀書示巴童<lb/>
+　巴童荅　代崔家送客<lb/>
+<pb n="KR4c0061_SBCK_000-5a"/>
+　出城　莫種樹<lb/>
+　將發　畫江潭苑<hi>四首</hi>
+　張大宅病曲　難忘曲<lb/>
+　賈公閭貴壻曲　夜飲長眠曲<lb/>
+　王濬墓下作　客遊<lb/>
+　崇義里滯雨　馮小憐<lb/>
+　贈陳商　釣魚<lb/>
+　奉和二兄罷使　荅贈<lb/>
+　題趙生壁　感春<lb/>
+　仙人　河陽歌<lb/>
+<pb n="KR4c0061_SBCK_000-5b"/>
+　花逰曲　春晝<lb/>
+　安樂宫　胡蝶飛<lb/>
+　梁公子　牡丹種曲<lb/>
+　後園鑿井　開愁歌<lb/>
+　秦宫詩　古鄴城童子謡<lb/>
+　楊生青花石硯歌　房中思<lb/>
+　石城曉　苦晝短<lb/>
+　章和二年中　春㱕昌谷<lb/>
+　昌谷詩　銅駞悲<lb/>
+　自昌谷到洛後　曉入太行<lb/>
+<pb n="KR4c0061_SBCK_000-6a"/>
+　　秋涼詩<lb/>
+歌詩目録編弟四<lb/>
+　　　　　　　　　凡五十首<lb/>
+　艾如張　上雲樂<lb/>
+　　巫山髙　摩多棲子<lb/>
+　　猛<graphic n="KR0849" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0849.png" mimeType="image/png"/>行　日出行<lb/>
+　苦篁調嘨引　拂舞歌辭<lb/>
+　夜㘴吟　箜篌引<lb/>
+　　平城下　江南弄<lb/>
+　榮華樂　相勸酒<lb/>
+<pb n="KR4c0061_SBCK_000-6b"/>
+　　瑶華樂　北中寒<lb/>
+　　梁臺古愁　公無出門<lb/>
+　　神絃别曲　緑水辭<lb/>
+　　沙路曲　上之回<lb/>
+　　髙軒過　貝宫夫人<lb/>
+　　蘭香神女廟　送韋仁實<lb/>
+　　洛陽别皇甫湜　溪晚<graphic n="KR0765" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0765.png" mimeType="image/png"/>
+　　官不来　長平箭頭歌<lb/>
+　　江樓曲　塞下曲<lb/>
+　　染絲上春機　五粒小松歌<lb/>
+<pb n="KR4c0061_SBCK_000-7a"/>
+　　塘上行　吕將軍歌<lb/>
+　　休洗紅　神絃曲<lb/>
+　　野歌　神泣<lb/>
+　　將進酒　美人梳頭歌<lb/>
+　　月漉漉篇　亰城<lb/>
+　　官街皷　許公子鄭姬歌<lb/>
+　　新夏歌　題歸夢<lb/>
+　　經沙苑　出城别張艾新酬李漢<lb/>
+<pb n="KR4c0061_SBCK_000-7b"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

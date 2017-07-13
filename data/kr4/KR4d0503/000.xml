@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4d0503_SBCK_000-1a"/>
+黄學士文集序<lb/>
+翰林侍講學士金華黄先生文集総四十三卷其初稾三卷則<lb/>
+未第時作監察御史臨川危素所編次續稾四十卷則皆豋苐<lb/>
+後作門人王生宋生所編次也先生之文章刮劘澡雪如眀珠<lb/>
+白璧藉之繅綺讀之者但見其光瑩而含蓄華縟而粹温令人<lb/>
+愛玩嘆息之不已而不知其致力之勤用心之苦也故其見諸<lb/>
+朝廷簡册之紀載山林泉石之詠謌無不各得其體而極其趣<lb/>
+以自成一家之言不既甚盛矣乎余甞論之文章與世運同為<lb/>
+盛衰或百年或數十年輒一見焉先生當科目久廢之餘文治<lb/>
+復興之日淂大肆力於為已之學以擅名于海内雖其超見卓<lb/>
+識有以異於人其亦適值也運之一盛也耶譬諸山川之風氣<lb/>
+草木之花實息者必復悴者必榮盖亦理埶之必然者夫豈偶<lb/>
+<pb n="KR4d0503_SBCK_000-1b"/>
+然而已㦲先生領延祐甲寅郷薦先文靖公實為考官扵師泰<lb/>
+有契家之好其後同居史舘又同侍　經筵交詃為尤篤比㢘<lb/>
+問閩南過金華得先生之集扵王生故叙而授之三山學官俾<lb/>
+刻梓以恵耒學先生豋進士苐授将仕郎台州寍海縣丞歷石<lb/>
+堰塲監運諸暨州判官浮沈州縣㡬二十年始入翰林應奉文<lb/>
+字尋丁外艱服除改國子愽士居六年以太夫人春秋髙乞外<lb/>
+補遂提舉江淛儒學年六十有四竟辤禄歸養以中順大夫秘<lb/>
+書少監致仕及終大夫人喪年已踰七十矣復被　召為翰林直<lb/>
+學士兼　經筵官陞侍講學士中奉大夫同知　經筵事數告<lb/>
+老不許乆廼得<graphic n="KR1180" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1180.png" mimeType="image/png"/>去仐年七十又九猶康強善飲啖援筆騁馳<lb/>
+如壮歲云至正十五年十月既望朝𣪚大夫福建閩海道肅政<lb/>
+㢘訪使宣城貢師泰序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

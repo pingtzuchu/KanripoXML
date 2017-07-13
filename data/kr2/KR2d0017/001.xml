@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2d0017_SBCK_001-1a"/>
+罪惟録列傳卷之一<lb/>
+　　祖禰傳搃論<lb/>
+明運似成周咸以農事𧺫家農職土尊土所自生故並以<lb/>
+火徳旺尚赤而金為土之所洩且遇火見剋淘金輒弱有<lb/>
+自来也太祖自述源流但言務本積善𥘉不矯為履拇哇<lb/>
+氷諸荒語然則詒謀有素保世滋大禹稷躬稼而有天下<lb/>
+或得之于身或得之于子孫又何疑焉臣自有臣祖誠足<lb/>
+述也小明羽翼帝龍鳯之封上及三世胡足諱而諸册之<lb/>
+言之者故口吃欤特為正其封而進之列祖<lb/>
+<pb n="KR2d0017_SBCK_001-1b"/>
+<pb n="KR2d0017_SBCK_001-1b"/>
+　　皇祖禰列傳<lb/>
+德祖玄皇帝<hi>諱未詳</hi>稱百六公姓朱氏丗居金陵句容通徳<lb/>
+鄉之朱家巷力農業父仲八公元配陳氏生子三長六二<lb/>
+公次十二公百六其季也為太祖皇髙祖考配胡氏生子<lb/>
+二長四五公次四九公即懿祖太祖既貴追尊玄皇帝廟<lb/>
+號徳祖胡氏為玄皇后𥘉太祖渡<hi>江</hi>先取句容明年克金<lb/>
+陵句容距城四十里族父昆弟四十餘人咸來展親後修<lb/>
+玉牒廷臣或請祖先賢朱熹光帝系偶一典史籍新安姓<lb/>
+朱氏帝曰熹後乎伏謝曰臣自有臣祖太祖惻然為玄罷<lb/>
+此請<lb/>
+<pb n="KR2d0017_SBCK_001-2a"/>
+懿祖恒皇帝<hi>諱未詳</hi>即四九公為太祖皇曾祖考元配侯氏<lb/>
+生子四長初一公即熈祖次初二公次初五公次初十公<lb/>
+宋龍鳳九年太祖為宋呉國公追贈四九公資德大夫江<lb/>
+南等䖏行中書省左丞上䕶軍司空呉國公配侯氏呉國<lb/>
+夫人太祖既即位追尊呉國公為恒皇帝廟號懿祖夫人<lb/>
+恒皇后生卒在句容<lb/>
+熈祖𥙿皇帝<hi>諱未詳</hi>稱初一公生宋季元初為太祖皇祖考<lb/>
+配王氏生子二長五一公夀春王次四五公即皇考仁祖<lb/>
+元初初一公籍淘金户金非土産不勝徭棄田廬携二子<lb/>
+遷泗州旴眙縣時仁祖方八歲熈祖以忠厚营家泗上置<lb/>
+<pb n="KR2d0017_SBCK_001-2b"/>
+田産稍給太祖為宋呉國公追贈熈祖光祿大夫江南䓁<lb/>
+䖏行中書省平章政事柱國司徒呉國公配王氏呉國夫<lb/>
+人既即位追尊𥘉一公為𥙿皇帝廟號熈祖夫人𥙿皇后<lb/>
+仁祖淳皇帝諱世珍年五十時熈祖己歾家漸落同兄夀<lb/>
+春王遷旴𣅿之五河郷配皇妣陳氏生子四長皇嫡兄重<lb/>
+四公南昌王生旴𣅿次重六公旴𣅿王次重七公臨濠王<lb/>
+次即太祖皆生五河太祖十歲後遷鍾離之東郷未㡬又<lb/>
+徙西鄉又徙太平郷無定居仁祖兄弟皆淳謹務脩徳仁<lb/>
+祖常言吾等服勤亦猶置田地即不豊歲常入若悖理取<lb/>
+之如溺吏驟冨徃徃以身從之矣郷之人揖為長者太祖<lb/>
+<pb n="KR2d0017_SBCK_001-3a"/>
+為宋呉國公以龍鳯九年封仁祖開府儀同三司上柱國録<lb/>
+軍國重事中書左丞相呉國公配陳氏呉國夫人先是仁<lb/>
+祖方負日果<graphic n="KR0585" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0585.png" mimeType="image/png"/>有髯道士過之揖曰羙哉公公八十三乃<lb/>
+受贈適符其年元天暦元年戊辰秋九月十有七日淳皇<lb/>
+后夢一黄冠自西北来止麥塲與白丸一視漸恢大令吞<lb/>
+之曰大丹淳皇后受置口覺謂仁祖餘香在也旦帝生似<lb/>
+一白氣自東南貫室夜嘗有光隣人誤奔火至無所淂異<lb/>
+香經宿不散浴於河忽有紅羅片浮至以衣帝<hi>相傳室傍二郎神庙</hi>
+<hi>夜徙百歩所浴䖏水俱香分紅白二色産異草状如緑縷</hi>三日不受乳仁祖夢持捨寺<lb/>
+寺空返遇一僧東<graphic n="KR0585" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0585.png" mimeType="image/png"/>面壁頋曰與受記夜子可矣果愈至<lb/>
+<pb n="KR2d0017_SBCK_001-3b"/>
+正丁丑俄有一老翁髪皤逺至門諦視曰而家豢一龍不<lb/>
+言姓名竟去仁祖亦嘗自詡吾晚淂一子甲申仁祖年六<lb/>
+十有四淳皇后不及五與長子南昌王咸疫厲相繼即丗<lb/>
+太祖年十有七矣及即位追尊四五公淳皇帝廟號仁祖<lb/>
+夫人進淳皇后<lb/>
+　論曰白氣紅羅彷彿白魚流火之祥真人之生自有殊<lb/>
+　兆太祖云吾祖父丗食元德存元庙享用以不忘其丗<lb/>
+　較之丗庙之黜元祀益以成其大頋徳懿熈皆宋人而<lb/>
+　太祖附宋起亦宋人特仁祖為元人耳兹為正之曰明<lb/>
+　之祖宋㩀明王出丗四字且䜟其主國號不從地從流<lb/>
+<pb n="KR2d0017_SBCK_001-4a"/>
+　言特竒而又仍韓林児之舊瓜渚後不𣸪更搃以成其<lb/>
+　大也此四祖者明之所自来也<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

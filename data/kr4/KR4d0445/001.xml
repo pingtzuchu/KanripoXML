@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4d0445_SBCK_001-1a"/>
+松雪齋文集卷苐一<lb/>
+　賦<lb/>
+　　　吴興賦<lb/>
+猗與休㦲吴興之為郡也蒼峰北峙群山西迤龍騰獸舞<lb/>
+雲蒸霞起造太空自古始雙谿夾流繇天目而来者三百<lb/>
+里曲折委蛇演漾漣漪束為碕灣匯為湖陂泓渟皎澈百<lb/>
+尺無泥貫乎城中繚于諸毗東注具區渺渺漭漭以天為<lb/>
+隄不然誠未知所以受之觀夫山川暎彂照朗日月清氣<lb/>
+焉鍾沖和攸集星列乎斗野勢雄乎楚越神禹之所厎定<lb/>
+泰伯之所奄宅自漢而下徃徃開國洎晉城之攬秀據實<lb/>
+沿流千雉面勢作邑是故㦄代慎牧必掄大才選有識前<lb/>
+有王謝周虞後有何栁顏蘇風流互暎治行同苻皆所以<lb/>
+<pb n="KR4d0445_SBCK_001-1b"/>
+宣上徳意俾民<graphic n="KR0794" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0794.png" mimeType="image/png"/>娱況乎土地之所生風氣之所宜人無<lb/>
+外求用之有餘其東則塗泥膏腴畒鍾之田宿麦再收秔<lb/>
+稻所便玉粒長腰照筥及箱轉輸旁郡常無凶年其南則<lb/>
+伏虎之山金盖之麓浮圗標其巔蘭若栖其足鼓鍾相聞<lb/>
+飛甍華屋衡山絶水魯史所録盤紆犬牙陂澤相属蒹葭<lb/>
+孤盧鴻頭荷華菱苕鳬茨萑蒲軒于四望弗極烏可勝數<lb/>
+其中則有魴鯉鰷鱨鍼頭白小鱸鱖膾餘黿鼉龜鼈有蛟<lb/>
+龍焉長魚如人歕浪生風一舉百鈞漁師来同冈罟笭箵<lb/>
+罩汕是工鳴榔鼓枻隱然啇宫巨細不遺噞噞喁喁日亦<lb/>
+無竆其西則重岡複領川原是来其北則黄龍瑶阜之洞<lb/>
+玲瓏長夀之塢縣水百仞既髙且阻<graphic n="KR1713" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1713.png" mimeType="image/png"/>砑嶔崟崴磊碅磳<lb/>
+恠石萬數旅乎如林其髙陵則有楊梅棗㮚樝梨木瓜橘<lb/>
+<pb n="KR4d0445_SBCK_001-2a"/>
+柚夏孕枇杷冬華槐檀松柏椅桐<graphic n="KR0922" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0922.png" mimeType="image/png"/>
+                    <graphic n="KR0238" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0238.png" mimeType="image/png"/>之属文竿緑竹篠<lb/>
+簜雜遝味登爼豆才中宮室下逮薪槱無求不得其平陸<lb/>
+則有桒麻如雲郁郁紛紛嘉𬞞含液不蓄長新陸伐雉兎<lb/>
+水弋鳬鴈舟楫之利率十過半衣食滋殖容容衎衎既樂<lb/>
+且庶匪教伊慢扵是有搢紳先生眀先聖之道以道之建<lb/>
+學校立庠序服逢掖戴章甫濟濟多士日躋于古廼擇元<lb/>
+日用量幣尊玄酒陳簠簋選䏻者秉周禮賛者在前獻者<lb/>
+在後雍容俯仰周旋莭奏成禮而退神人和右當是之時<lb/>
+家有詩書之聲戶習㢘恥之道辟雍耴法列郡觀效誠不<lb/>
+朽之盛事巳或者難曰自古論著之士曷嘗不識人物紀<lb/>
+風俗㢤夫人才者濟時之具而風俗者爲治之質也今子<lb/>
+徒捃摭細碎排比貨食髙談不切炫燿自飾莫大扵斯二<lb/>
+<pb n="KR4d0445_SBCK_001-2b"/>
+者頋乃略而弗録雖文奪組繍聲諧金石竊為子不取也<lb/>
+㒒應之曰否子獨不聞夫子之言乎十室之邑必有忠信<lb/>
+今年且千載地且千里人物之富胡可殫紀史册畢書可<lb/>
+無贅矣若乃風俗之隆汙在為政者之所移易又弗可淂<lb/>
+而㝎著也夫呉雖介在江左嘗𬒳至徳之風矣且吾聞之<lb/>
+風行而草偃日中而表正上行下效置郵傳命辟若季子<lb/>
+為守言㳺為令以仁義為化禮樂為政鎮以不貪之寳喻<lb/>
+以不言之信即刑可使不用俗可使益盛方将還敦朴扵<lb/>
+上古<graphic n="KR0690" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0690.png" mimeType="image/png"/>休祥扵庶徴今羙則羙矣又可遂以為定乎扵是<lb/>
+難者唯唯逡廵而失意<lb/>
+　　　求友賦荅袁養直<lb/>
+思古人之不可見兮心欝結而不舒登髙丘而逺望兮獨<lb/>
+<pb n="KR4d0445_SBCK_001-3a"/>
+歎慨乎増<graphic n="KR1187" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1187.png" mimeType="image/png"/>波洋洋其汜濫兮欲濟而無航膏吾車而孤<lb/>
+徃兮山欎乎其蒼蒼四顧閴其寂寥兮思蹇産而不鑠采<lb/>
+衆芳以自娱兮聊假日以媮樂搴長洲之夫容兮擥大澤<lb/>
+之蘭茞擷江蘺之秀穎兮結秋蘭以為佩丗俗方尚同兮<lb/>
+余獨異乎今之人謂蘭茞爲不芳兮䖸眉枉之以善媱衆<lb/>
+不可以戶說兮㦄年嵗而覯閔變心以從俗兮而吾又不<lb/>
+忍徯朝陽之鳴鳯兮企空谷之白駒何駑駘之衆多兮鷃<lb/>
+雀紛其瞿瞿寧飢渴以需時兮恥屬饜乎腥腐古道久其<lb/>
+弗繼兮吾惕焉為此懼何羙人之好脩兮獨與余其同心<lb/>
+懐余以<graphic n="KR0779" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0779.png" mimeType="image/png"/>徳兮遺余以好音丗固有同居而不察兮何千<lb/>
+里而䏻同亂淛江之滔滔兮渉逺道以相從覿清揚之信<lb/>
+羙兮懐盛年而莫當子濯足扵東海兮晞髮乎扶桒吸沆<lb/>
+<pb n="KR4d0445_SBCK_001-3b"/>
+瀣以為飲兮飡朝霞以為粮被列星之粲爛兮抱眀月之<lb/>
+夜光駕青雲而髙駝兮鳴和鸞之鏘鏘擾蒼龍使挾輈兮<lb/>
+服白虎以驅不祥願發軔其勿亟兮聊弭莭而抑志指黄<lb/>
+昬以為期兮夫孰逺而弗至亂曰鹿鳴<graphic n="KR0687" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0687.png" mimeType="image/png"/>
+                    <graphic n="KR0687" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0687.png" mimeType="image/png"/>猶求友兮曾<lb/>
+謂斯人不如物之知兮獨行無儔吾将與子為類兮<lb/>
+　　　紈扇賦<lb/>
+炎暑時至陽烏怒飛金石為流白汗沾衣候吹纎條延爽<lb/>
+南靡玉枕徒設桃笙安施旁皇躑躅不知所為扵是裂䡖<lb/>
+紈兮似雪製圎扇兮如月光揺懐袖涼生毛髮起遐想扵<lb/>
+青蘋引清颸于天末蕭然襟帶淒其絺葛醒人肌骨袢歊<lb/>
+如脫須臾或離中膓為熱殆造物者欲觧民之愠假人力<lb/>
+以為之不然豈天時之可奪也復有題詩欣賞因書竒絶<lb/>
+<pb n="KR4d0445_SBCK_001-4a"/>
+障䡖塵以寄恨揚仁風而言别或畫乗鸞之女或誤成蠅<lb/>
+之茟白羽䙰褷而自愧蒲葵比方而知劣及乎啇氣應<graphic n="KR0847" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0847.png" mimeType="image/png"/>
+民夷玉露降兮百草金風生兮桂枝羅衣重拂秋蘭復菲<lb/>
+孤螢冷照寒螿暗啼棄捐篋笥綢<graphic n="KR1230" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1230.png" mimeType="image/png"/>䋄絲班姬形中道之<lb/>
+怨江淹賦零落之詩嗟夫用舎有時岀䖏有宜惟人亦尓<lb/>
+扵物奚疑彼狐貉之御冬豈當暑而亦悲苟行蔵之任道<lb/>
+願竢時乎安之伊聖賢其不可見兮之二人又何知<lb/>
+　　　脩竹賦<lb/>
+猗猗脩竹不卉不蔓非草非木操挺特以髙丗姿蕭洒以<lb/>
+㧞俗葉深翠羽榦森蒼玉孤生太山之阿千畒渭川之曲<lb/>
+来清飈扵逺岑娱佳人扵空谷觀其臨曲檻俯清池色侵<lb/>
+雲漢影動漣漪蒼雲夏集絲霧朝霏蕭蕭雨沐裊裊風披<lb/>
+<pb n="KR4d0445_SBCK_001-4b"/>
+露鶴長歗秋蟬獨嘶金石間作笙竽誰吹若乃良夜眀月<lb/>
+竆冬積雪掃石上之隂聴林間之折意叅太古聲沉寥泬<lb/>
+耳目為之開滌神情以之怡恱盖其嫓秀碧梧託友青松<lb/>
+蒲栁慚弱桃李羞容歌籊籊扵衛女詠淇奥扵國風故子<lb/>
+猷吟嘯扵其下宣仲息宴乎其中七賢同調六逸齊蹤良<lb/>
+有以也又况鳴嶰谷之鳯化葛陂之龍者㢤至扵虗其心<lb/>
+實其莭貫四時而不改柯易葉則吾以是觀君子之徳<lb/>
+　　　赤兎鶻賦<lb/>
+　皇慶元年<lb/>
+上賜大都留守臣伯怗木兒白兔鶻一翎翮皓㓗白雪同<lb/>
+　　皎至延祐元年凡三籠而毛羽變赤光采艶奕異扵<lb/>
+　　尋常搏擊勇鷙加扵疇昔雖老扵五坊者亦不知其<lb/>
+<pb n="KR4d0445_SBCK_001-5a"/>
+　　所以然豈若君子進扵徳以潤身者耶公既寫其形<lb/>
+　　質集賢侍讀學士<hi>臣</hi>趙孟頫為之賦其詞曰<lb/>
+猗鷙禽兮出<lb/>
+金門賜貴臣兮示殊恩色霜雪兮耀前軒觧絛鏇兮縦平<lb/>
+原狐兎駭兮不及奔㦄年歲兮毳如璊粲晨霞兮炫朝暾<lb/>
+剛氣勝兮肆飛騫徳愈進兮義愈敦炯雙眸兮睨乾坤<lb/>
+松雪齋文集卷苐一<lb/>
+<pb n="KR4d0445_SBCK_001-5b"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

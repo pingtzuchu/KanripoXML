@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>韓集舉正</head>
+    <p>
+<pb n="KR4c0042_WYG_000-1a"/>
+欽定四庫全書　　　　　集部二<lb/>
+　韓集舉正　　　　　　　别集類一<hi>唐</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案韓集舉正十巻外集舉正一巻宋<lb/>
+　　　　方崧卿撰崧卿莆田人孝宗時嘗知台州軍<lb/>
+　　　　事是書後有淳熈已酉崧卿自跋稱古昌黎<lb/>
+　　　　先生集四十巻外集一巻附録五巻増考年<lb/>
+　　　　譜一巻復次其異同為舉正十巻陳振孫書<lb/>
+<pb n="KR4c0042_WYG_000-1b"/>
+　　　　録解題所載同而多外抄八巻其注稱年譜<lb/>
+　　　　洪興祖撰莆田方崧卿増考且撰舉正以校<lb/>
+　　　　其同異而刻之南安外集但據嘉祐劉煜所<lb/>
+　　　　録二十五篇而附以石刻聮句詩文之遺見<lb/>
+　　　　於他集者及葛嶠刻栁文又以大庾丞韓郁<lb/>
+　　　　所編註諸本號外集者併考疑悮輯遺事共<lb/>
+　　　　為外抄刻之然則外抄非方氏書特葛氏刻<lb/>
+　　　　栁集以配韓因而増入故崧卿跋不之及也<lb/>
+<pb n="KR4c0042_WYG_000-2a"/>
+　　　　據跋與陳氏所録則此書原與文集外集附<lb/>
+　　　　録年譜並刻此本惟有舉正葢所存止此也<lb/>
+　　　　十巻之末又有外集舉正一巻而跋中不及<lb/>
+　　　　陳氏亦不及核其原刻不標巻第殆即附之<lb/>
+　　　　十巻中與自朱子因崧卿是書作韓文考異<lb/>
+　　　　盛名所掩原本遂㣲越及元明㡬希冺滅此<lb/>
+　　　　本紙墨精好内完字缺筆避欽宗諱敦字全<lb/>
+　　　　書不避光宗諱盖即淳熈舊刻越五百載而<lb/>
+<pb n="KR4c0042_WYG_000-2b"/>
+　　　　幸存者閻若璩號最博洽而其潜丘劄記中<lb/>
+　　　　不知李浙東為誰稱得李翺全集或可考今<lb/>
+　　　　觀此本第六巻代張籍書下明注為李遜且<lb/>
+　　　　引舊書本傳遜以元和五年刺浙東九年召<lb/>
+　　　　還此書作於六七年間云云則若璩亦未見<lb/>
+　　　　此本可稱罕覯之笈其名曰舉正盖因郭京<lb/>
+　　　　易舉正之舊見於首篇之自注考異刪去此<lb/>
+　　　　條遂莫知其命名之義其於改正之字用朱<lb/>
+<pb n="KR4c0042_WYG_000-3a"/>
+　　　　書衍去之字以圓圈圍之増入之字以方圏<lb/>
+　　　　圍之顛倒之字以墨線曲折乙之體例亦似<lb/>
+　　　　較考異為明晰所據碑本凡十有七所據諸<lb/>
+　　　　家之書凡唐令狐澄本南唐保大本秘閣祥<lb/>
+　　　　符杭本嘉祐蜀本謝克家本李炳本参以唐<lb/>
+　　　　趙徳文録宋白文苑英華姚鉉唐文粹参互<lb/>
+　　　　鈎貫用力杰勤雖偏信閣本是其一失宜為<lb/>
+　　　　朱子所糾然司馬遷因國䇿作史記不以史<lb/>
+<pb n="KR4c0042_WYG_000-3b"/>
+　　　　記廢國䇿班固因史記作漢書不以漢書廢<lb/>
+　　　　史記倪思嘗作國䇿史記漢書之同異纂為<lb/>
+　　　　二書今其班馬異同猶有傳本然則雖有考<lb/>
+　　　　異正不妨並存此書以備参訂矣書録解題<lb/>
+　　　　又曰韓昌黎集四十巻外集十巻朱侍講以<lb/>
+　　　　方氏本校㝎凡異同㝎歸扵一多所發明外<lb/>
+　　　　集皆如舊本獨用方本益大顛三書今考外<lb/>
+　　　　集舉正所引自海水詩至明水賦二十五篇<lb/>
+<pb n="KR4c0042_WYG_000-4a"/>
+　　　　之數俱全無所謂大顛三書者亦無所謂石<lb/>
+　　　　刻聮句詩文之遺於他集者不知考異所據<lb/>
+　　　　何本疑以傳疑闕所不知可矣乾隆四十六<lb/>
+　　　　年十月恭校上<lb/>
+　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

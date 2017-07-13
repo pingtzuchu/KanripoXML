@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="1a"/>
+　　五禮通考自序<lb/>
+　　蕙田性拙鈍少讀書不敢為詞章淹博之學塾師<lb/>
+　　授之經循行數墨恐恐然若失也嵗甲辰年甫逾<lb/>
+　　冠偕同邑蔡學正宸錫吴主事大年學士尊彛兄<lb/>
+　　弟為讀經之會相與謂三禮自秦漢諸儒抱殘守<lb/>
+　　闕註疏雜入䜟緯轇輵紛紜宋史載子朱子當日<lb/>
+　　嘗欲取儀禮周官二戴記為本編次朝廷公卿大<lb/>
+　　夫士民之禮盡取漢唐以下諸儒之説考訂辨正<lb/>
+<pb n="1b"/>
+　　以為當代之典今觀所著經傳通解繼以黄勉齋<lb/>
+　　楊信齋兩先生修述究未足為完書是以三禮疑<lb/>
+　　義至今猶蔀迺於禮經之文如郊祀明堂宗廟禘<lb/>
+　　嘗饗宴朝㑹冠昏賓祭宫室衣服器用等先之以<lb/>
+　　經文之互見錯出足相印証者繼之以註疏諸儒<lb/>
+　　之牴牾訾議者又益以唐宋以來専門名家之考<lb/>
+　　論發明者每一事一義輒集百氏之説而諦審之<lb/>
+　　審之久思之深往往如入山得逕榛蕪豁然又如<lb/>
+<pb n="2a"/>
+　　掘井逢源溢然自出然猶未敢自信也半月一㑹<lb/>
+　　問者難者辨者答者迴旋反覆務期惬諸已信諸<lb/>
+　　人而後乃筆之箋釋存之考辨如是者十有餘年<lb/>
+　　而裒然漸有成帙矣丙辰通籍供奉<lb/>
+　内廷見聞所及時加釐正乙丑<lb/>
+簡佐秩宗奉<lb/>
+命校閱禮書時方纂修㑹典<lb/>
+天子以聖人之徳制作禮樂百度聿新蕙田職業攸司<lb/>
+<pb n="2b"/>
+　　源流沿革不敢不益深考究丁卯戊辰治喪在籍<lb/>
+　　杜門讀禮見崑山徐健菴先生通考規模義例具<lb/>
+　　得朱子本意惟吉嘉賓軍四禮尚屬闕如惜宸錫<lb/>
+　　大年相繼徂謝乃與學士吴君尊彝陳舊篋置抄<lb/>
+　　胥發凡起例一依徐氏之本並取向所考定者分<lb/>
+　　類排輯補所未及服闋後再任容臺徧覽典章日<lb/>
+　　以増廣適同學桐山宜田領軍見而好之且許同<lb/>
+　　訂宜田受其世父望溪先生家學夙精三禮郵籖<lb/>
+<pb n="3a"/>
+　　往來多所啟發并促早為卒業施之剞氏以諗同<lb/>
+　　志徳水盧君抱孫元和宋君慤庭従而和之戊寅<lb/>
+　　移長司寇兼攝司空事繁少暇嘉定錢宫允曉徵<lb/>
+　　實㐮參校之役辛巳冬爰始竣事凡為門類七十<lb/>
+　　有五為卷二百六十有二自甲辰至是閲寒暑三<lb/>
+　　十有八而年亦已六十矣顧以蕙田之謭陋遭遇<lb/>
+聖明復理舊業以期無瘝厥職而已至于朱子之規模<lb/>
+　　遺意未知果有合焉否也是為序金匱秦蕙田<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

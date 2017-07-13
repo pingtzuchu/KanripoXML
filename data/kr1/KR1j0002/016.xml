@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="1a"/>
+寶龜<hi>書曰遺我大寶龜</hi>五曰文龜<hi>甲有文彩者河圖曰/靈龜負書丹甲青文</hi>六曰筮龜<hi>常在著叢下潜伏見龜䇿傳</hi>七曰山龜八曰澤龜九曰水龜十曰火龜<hi>此皆說龜生之處所火龜猶火䑕耳物有含異氣者不可以常理推然亦無所怪</hi>
+釋鳥第十七<lb/>
+隹其鳺鴀<hi>今䳕鳩</hi>鶌鳩鶻鵃<hi>似山鵲而小短尾青黒色多聲今江東亦呼爲鶻鵃</hi>鳲鳩鴶鵴<lb/>
+<hi>今之布穀也江東呼爲穫穀</hi>鷑鳩鵧鷑<hi>小黒鳥鳴自呼/江東名爲鳥鳴</hi>鴡鳩王鴡<hi>鵰類今江東呼之爲鶚好在江渚山邊食魚毛詩傳曰鳥摯而有别</hi>鵅鵋䳢<hi>今江東呼鵂鶹爲鵋/䳢亦謂之鴝鵅音格</hi>鶅鵵軌<hi>未詳</hi>鴗天狗<lb/>
+<hi>小鳥也青似翠食魚江東呼爲水狗</hi>鷚天鸙<hi>大如鷃雀色似鶉好髙飛作/聲今江東名之天鷚音綢繆</hi>鵱鷜鵝<hi>今之野鵝</hi>
+鶬麋鴰<hi>今呼鶬鴰</hi>鵅烏<graphic n="KR1410" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1410.png" mimeType="image/png"/>
+                    <hi>水鳥也似鶂而短鵛腹翅紫白/背上緑色江東呼烏<graphic n="KR1410" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1410.png" mimeType="image/png"/>音駮</hi>舒鴈鵝<hi>禮記曰出如舒鴈今江東呼<graphic n="KR1391" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1391.png" mimeType="image/png"/>音加</hi>舒鳧鶩<hi>鴨/也</hi>鳽鵁鶄<hi>似鳧脚髙毛冠江東人家養之以厭火災</hi>輿鵛鷋<lb/>
+<pb n="1b"/>
+<hi>未詳</hi>鵜鴮鸅<hi>今之鵜鶘也好羣飛沈水食/魚故名洿澤俗呼之爲淘河</hi>鶾天鷄<hi>鶾鷄赤羽逸周書曰文鶾若彩鷄成王時蜀人獻之</hi>鷽山鵲<hi>似鵲而有文彩/長尾觜脚赤</hi>鷣負雀<hi>鷣鷂也江南呼之爲鷣善捉雀因名云音淫</hi>齧齒<lb/>
+艾<hi>未詳</hi>鶨䳢老<hi>鴒鶨也俗/呼爲癡鳥</hi>鳸鴳<hi>今鴳/雀</hi>桑鳸竊脂<hi>俗謂之青雀觜曲食肉好盗脂膏因名云</hi>鳭鷯剖葦<hi>好剖葦皮食其中蟲因名云/江東呼蘆虎似雀青班長尾</hi>桃蟲鷦其雌鴱<hi>鷦<graphic n="KR1775" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1775.png" mimeType="image/png"/>桃雀也俗呼爲巧婦</hi>鶠鳳其雌皇<hi>瑞應鳥鷄頭蛇頸燕頷龜背/魚尾五彩色其髙六尺許</hi>䳭鴒雝渠<hi>雀屬也飛則鳴行則揺</hi>鸒斯鵯鶋<hi>雅烏也小而多羣腹下白江東亦呼爲鵯烏音匹</hi>燕白脰烏<hi>脰/頸</hi>鴽鴾母<hi>鸙也青州呼鴾母</hi>密肌繫英<hi>釋蟲以有此/名疑誤重</hi>巂周<hi>子巂鳥/出蜀中</hi>燕燕鳦<hi>詩云燕燕于飛一名玄鳥齊人呼鳦</hi>鴟鴞鸋鴂<hi>鴟/類</hi>狂茅鴟<hi>今<graphic n="KR2301" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2301.png" mimeType="image/png"/>鴟也/似鷹而白</hi>怪鴟<hi>即鴟鵂也見廣雅今江東通呼此屬爲怪鳥</hi>梟<lb/>
+鴟<hi>土梟</hi>鶛劉疾<hi>未/詳</hi>生哺鷇<hi>鳥子須/母食之</hi>生噣雛<hi>能自/食</hi>爰居雜縣<hi>國語曰海鳥爰居漢元帝時琅邪有大鳥如馬駒時人謂之爰居</hi>春鳸鳻鶞夏鳸竊玄秋鳸竊<lb/>
+<pb n="2a"/>
+藍冬鳸竊黃桑鳸竊脂棘鳸竊丹行鳸唶唶宵鳸<lb/>
+嘖嘖<hi>諸鳸皆因其毛色音聲以爲名竊藍青色</hi>鵖鴔戴鵀<hi>鵀即頭上勝今亦呼爲戴/勝鵖鴔猶鶝語聲轉耳</hi>鶭澤<lb/>
+虞<hi>今婟澤鳥似水鴞蒼黒色常在澤中見人輒鳴喚不去有象主守之官因名云俗呼爲護田鳥</hi>鶿鷧<hi>即鸕鶿也觜頭曲如鈎食魚</hi>
+鷯鶉其雄鶛牝痺<hi>鴞䳺屬</hi>鸍沈鳧<hi>似鴨而小長尾背上有文今江東亦呼爲鸍音施</hi>鴢頭<lb/>
+鵁<hi>似鳧脚近尾略不能行江東謂之魚鵁音髐箭</hi>鵽鳩宼雉<hi>鵽大如鴿似雌雉䑕脚無後指岐尾爲鳥愍急羣飛出北方沙漠地</hi>
+萑老鵵<hi>木兎也似鴟鵂而小兎頭有角毛脚夜飛好食鷄</hi>鶟鶦鳥<hi>似雉青/身白頭</hi>狂㝱鳥<hi>狂鳥五色有冠見山海經</hi>皇黃鳥<hi>俗呼黃離留/亦名摶黍</hi>翠鷸<hi>似燕紺色/生鬱林</hi>鸀山烏<hi>似烏而小赤觜穴乳出西方</hi>蝙蝠服翼<hi>齊人呼爲蟙䘃或謂之仙䑕</hi>晨風鸇<hi>鷂屬詩曰/鴪彼晨風</hi>鸉白鷢<hi>似鷹尾上白</hi>
+寇雉泆泆<hi>即鵽鳩也</hi>鷆蟁母<hi>似烏<graphic n="KR1410" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1410.png" mimeType="image/png"/>而大黃白雜文鳴如鴿聲/今江東呼爲蚊母俗說此鳥常吐蚊故以名云</hi>鷉<lb/>
+須鸁<hi>鷉鷿鷉似鳧而小膏中瑩刀</hi>鼯䑕夷由<hi>狀如小狐似蝙蝠肉翅翅尾項脅毛紫赤色背上蒼艾色腹下黃喙頷雜白脚<pb n="2b"/>短爪長尾三尺許飛且乳亦謂之飛生聲如人呼食火煙能從髙赴下不能從下上髙</hi>倉庚商庚<hi>即鵹黃也</hi>鳺餔敊<lb/>
+<hi>未詳</hi>鷹鶆鳩<hi>鶆當爲/字之誤耳/左傳作/鳩是也</hi>鶼鶼比翼<hi>說已/在上</hi>鵹黃楚雀<hi>即倉庚也</hi>鴷斵木<hi>口如錐長數寸常/斵樹食蟲因名云</hi>鸄鶶鷵<hi>似烏蒼/白色</hi>鸕諸雉<hi>未詳或云即今雉</hi>
+鷺舂鉏<hi>白鷺也頭翅背上皆有長翰毛今江東人取以爲睫攡名之曰白鷺縗</hi>鷂雉<hi>青質/五彩</hi>鷮雉<hi>即鷮雞也長尾走且鳴</hi>鳪雉<hi>黃色鳴/自呼</hi>鷩雉<hi>似山雞而小冠背毛黃/腹下赤項緑色鮮明</hi>秩秩海雉<hi>如雉而黒在海中山上</hi>鸐山雉<hi>長尾者</hi>雗雉鵫雉<hi>今白鵫也江東呼/白雗亦名白雉</hi>雉絶有力奮<hi>最健鬪</hi>
+伊洛而南素質五采皆備成章曰翬<hi>翬亦雉屬言其毛色光鮮</hi>江淮而南<lb/>
+青質五采皆備成章曰鷂<hi>即鷂雉也</hi>南方曰<graphic n="KR1319" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1319.png" mimeType="image/png"/>東方曰鶅北方<lb/>
+曰鵗西方曰鷷<hi>說四方雉之名</hi>鳥䑕同穴其鳥爲鵌其䑕爲鼵<hi>鼵如人家䑕而短尾鵌似鵽而小黃黒色入地三四尺䑕在内鳥在外今在隴西首陽縣鳥䑕同穴山中孔氏尚書傳云共爲雄雌張氏地理記云不爲牝牡</hi>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>郴江百詠</head>
+    <p>
+<pb n="KR4d0186_WYG_000-1a"/>
+欽定四庫全書　　　　　集部四<lb/>
+　郴江百詠　　　　　　　别集類三<hi>宋</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案郴江百詠一巻宋阮閲撰閲字閎<lb/>
+　　　　休舒城人建炎初官至知袁州所撰有詩話<lb/>
+　　　　總龜别著錄又有松菊集今佚不傳此郴江<lb/>
+　　　　百詠則其宣和中知郴州時作其詩多入論<lb/>
+　　　　宗葢宋代風氣如是而閲素留心吟詠多識<lb/>
+<pb n="KR4d0186_WYG_000-1b"/>
+　　　　遺篇故尚不落為酸腐之語如東山詩云藜<lb/>
+　　　　杖芒鞵過水東紅裙寂寞酒樽空郡人見我<lb/>
+　　　　應相笑不似山公與謝公又乾明寺詩云直<lb/>
+　　　　松曲棘都休道庭下山茶為甚紅往往自有<lb/>
+　　　　思致又如愈泉一首所謂古來詩病知多少<lb/>
+　　　　試問從來療得無語雖著相然自為其詩話<lb/>
+　　　　一編而作是亦詩中有人異乎馬首之絡者<lb/>
+　　　　矣此本出自厲鶚家百詠尚缺其八考郴州<lb/>
+<pb n="KR4d0186_WYG_000-2a"/>
+　　　　志亦不載呉之振選宋詩鈔及曹庭棟選宋<lb/>
+　　　　詩存均未及收存之亦可補各家選本之遺<lb/>
+　　　　惟每題之下不註本事非對圖經而讀之有<lb/>
+　　　　茫不知為何語者或傳寫佚之歟袁州府志<lb/>
+　　　　載其宣風道上詩一首題春波亭詩一首鮑<lb/>
+　　　　氏知不足齋本錄于此集之末以補松菊集<lb/>
+　　　　之遺今亦從鮑本並錄存之焉乾隆四十六<lb/>
+　　　　年五月恭校上<lb/>
+<pb n="KR4d0186_WYG_000-2b"/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+<pb n="KR4d0186_WYG_000-3a"/>
+郴江百詠原序<lb/>
+郴古桂陽郡陳迹故事盡載圖史亦間見于名人才士<lb/>
+歌詠如杜子羙寄聶令入郴州韓退之郴江桞子厚登<lb/>
+北樓沈佺期望仙山戴叔倫過郴州之類是也山川寺<lb/>
+觀之勝城郭臺榭之壯未經品題者尚多亦可惜爾余<lb/>
+官于郴三年常欲補其闕愧無大筆雅思可為然因暇<lb/>
+日時強作一二小詩遂積至於百篇雖不敢比迹前軰<lb/>
+使未嘗到湖湘者觀之亦可知郴在荆楚自是一佳郡<lb/>
+<pb n="KR4d0186_WYG_000-3b"/>
+也宣和甲辰二月中和日舒城阮閱序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

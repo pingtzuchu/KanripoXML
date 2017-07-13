@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>竹雲題跋</head>
+    <p>
+<pb n="KR2n0045_WYG_000-1a"/>
+欽定四庫全書　　　　史部十四<lb/>
+　竹雲題跋　　　　　　目錄類二金石之屬<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案竹雲題跋四卷<lb/>
+　　　國朝王㴻撰皆其臨摹古帖題跋裒合成編㴻<lb/>
+　　　　本工書故精於鑒别而於源流同異考証尤<lb/>
+　　　　詳如論西岳華山廟碑郭香察書為校勘刻<lb/>
+　　　　石鍾繇薦季直表祝希哲誤作焦季直及繇<lb/>
+<pb n="KR2n0045_WYG_000-1b"/>
+　　　　結御與史異蘭亭序派别聖教序始末王羲<lb/>
+　　　　之裹鮓帖釋文誤作十九字瘞鶴銘非顧况<lb/>
+　　　　亦非陶宏景同州聖教序稱龍朔三年時禇<lb/>
+　　　　遂良卒已五年魏栖梧善才寺碑偽題遂良<lb/>
+　　　　名遂良髙士贊誤題永徽二年為甲寅岳珂<lb/>
+　　　　䟦寶章集誤以竇<graphic n="KR2116" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2116.png" mimeType="image/png"/>為竇泉朱巨川誥非徐<lb/>
+　　　　浩書李陽冰縉雲城隍廟碑篆文訛字靈飛<lb/>
+　　　　經非鍾紹京書裴耀卿等奏狀非耀卿書唐<lb/>
+<pb n="KR2n0045_WYG_000-2a"/>
+　　　　明皇批荅中桓山之頌乃用王獻之事顔真<lb/>
+　　　　卿宋廣平碑考異乞米帖所稱太保是李光<lb/>
+　　　　弼非光顔爭坐位帖年月顧炎武金石文字<lb/>
+　　　　未考祭姪文告伯父文結䘖與史異江淮帖<lb/>
+　　　　為集字偽作李紳告身與史異葉慧明碑非<lb/>
+　　　　韓擇木書撰皆引據有根柢惟諸禇遂良書<lb/>
+　　　　出於曹全碑則殊臆度此碑近代始出明以<lb/>
+　　　　前未有言之者也又排鄭簠蔣衡而自稱腕<lb/>
+<pb n="KR2n0045_WYG_000-2b"/>
+　　　　有元章鬼亦未免文人相輕之習焉乾隆四<lb/>
+　　　　十二年五月㳟校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

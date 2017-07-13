@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>易小帖</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　　經部一<lb/>
+　易小帖　　　　　　　　易類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案易小帖五卷<lb/>
+　　　國朝毛竒齡説易之語而其門人編次成書者<lb/>
+　　　　也竒齡所著經解諸書惟仲氏易及春秋傳<lb/>
+　　　　二種是其自編餘皆出門人之手故中間有<lb/>
+　　　　附入門人語者此小帖凡一百四十三條皆<lb/>
+<pb n="1b"/>
+　　　　講易之雜説與仲氏易相為引伸朱彛尊載<lb/>
+　　　　之經義考云皆西河氏紀説易之可議者今<lb/>
+　　　　觀其書徵引前人之訓詁以糾近代説易之<lb/>
+　　　　失於王弼陳摶二派攻擊尤力其間雖不免<lb/>
+　　　　有强詞漫衍以博濟辨之處而自明以來申<lb/>
+　　　　明漢儒之學使儒者不敢以空言説經實竒<lb/>
+　　　　齡開其先路其論子夏易傳及連山歸藏尤<lb/>
+　　　　詳核第五卷所記皆商㩁仲氏易之語初稿<lb/>
+<pb n="2a"/>
+　　　　原附載仲氏易末後乃移入此編舊目本十<lb/>
+　　　　卷今本五卷蓋其門人編録有所刋削考盛<lb/>
+　　　　唐所為西河傳又稱易小帖八卷蓋十卷刪<lb/>
+　　　　為八卷又刪為五卷也儒者尊奉一先生每<lb/>
+　　　　一字一句奉為蓍蔡多以未定之説編入語<lb/>
+　　　　録故二程遺書朱子有疑朱子語類又每與<lb/>
+　　　　四書章句集註或問相左皆失於簡汰之故<lb/>
+　　　　若竒齡之門人可謂能愛其師矣乾隆四十<lb/>
+<pb n="2b"/>
+　　　　三年三月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

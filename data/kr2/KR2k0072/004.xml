@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2k0072_WYG_004-1a"/>
+河源紀畧凢例<lb/>
+　一從來叙述河源率多失實葢由於未經其地故附<lb/>
+　　㑹𫝊聞今恭逢<lb/>
+神武耆定而聞見乃真又仰荷<lb/>
+聖訓昭垂而異同乃决實為千古未有之盛謹㳟錄<lb/>
+御製詩文為全書綱領併恭録此次欽奉<lb/>
+諭㫖弁冕簡端以誌縁起且以見是非折𠂻纂録諸<hi>臣</hi>
+　　悉禀<lb/>
+<pb n="KR2k0072_WYG_004-1b"/>
+睿裁<lb/>
+　一水道委曲非繪畫不明但輟耕録所載舊圖疎舛<lb/>
+　　殊甚今擬按<lb/>
+欽定西域圖志先列地圖一切開方分度務與測驗相<lb/>
+　　符然後以河流所逕依道里方向繪入以揭全書<lb/>
+　　之眉目其今地名擬用硃書古地名擬用墨書刻<lb/>
+　　本内古地名加用圓圈以示分别庶使舊説之得<lb/>
+　　失開卷釐然<lb/>
+<pb n="KR2k0072_WYG_004-2a"/>
+　一水道曼衍縱横雖頗紛雜該以分合伏見四例足<lb/>
+　　括大凢既繪圖以盡其詳更當立表以提其要今<lb/>
+　　擬以河之分合伏見列為第一格以來㑹之水為<lb/>
+　　第二格其隔一隔二隔三隔四來㑹者以次分格<lb/>
+　　使旁行斜上綱目相牽檢圖檢書尤易明其端緒<lb/>
+　一河之源流今所勘騐悉有確據與訛𫝊影射者迥<lb/>
+　　殊必須叙述詳明始足祛疑𫝊信今擬立質實一<lb/>
+　　門兼仿桑經酈注之例以河所流逕標其地名方<lb/>
+<pb n="KR2k0072_WYG_004-2b"/>
+　　隅為綱而詳列其道里形勢為目務使曲折咸備<lb/>
+　　使讀者有若目經<lb/>
+　一古來考訂河源舛謬者十之七八其確有典據者<lb/>
+　　亦偶逢十之二三未可槩為屛棄今擬立證古一<lb/>
+　　門凢史漢以下迄於萬斯同胡渭諸書苟有一說<lb/>
+　　可采者悉仿張鳯桂勝桂故之例標列原文而以<lb/>
+　　今所實驗加案互證於下其某地即今某地亦一<lb/>
+　　一申明<lb/>
+<pb n="KR2k0072_WYG_004-3a"/>
+　一羣言淆亂最易熒聽儒者株守舊聞尤多拘執必<lb/>
+　　須詳為駁正始真妄分明今擬立辯訛一門凢舊<lb/>
+　　説紕繆者亦標列原文逐條各加案語紏正其失<lb/>
+　　庶諸家纂述可一一知其虚誣<lb/>
+　一<lb/>
+聖朝削平西域崑崙月<graphic n="KR1208" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1208.png" mimeType="image/png"/>悉𨽻版圖為開闢以來所未<lb/>
+　　睹凢大河流逕之地或撻伐所經由或部族所聚<lb/>
+　　處或沿波列戍或夾岸開屯均足為考鏡地理之<lb/>
+<pb n="KR2k0072_WYG_004-3b"/>
+　　資今擬立紀事一門以著實有其地得以詳核之<lb/>
+　　由其前代軼事確有可據者亦附見焉<lb/>
+　一酈道元注水經並博引遺文旁徴古蹟既資叅考<lb/>
+　　亦廣見聞今擬立雜録一門凢諸書所載西域山<lb/>
+　　川物產古蹟遺蹤在河流所經之地者悉分條臚<lb/>
+　　載以備旁稽其傳訛傅㑹之詞亦附加訂正<lb/>
+　一劉知㡬作史通深明斷限此書既以河源為名則<lb/>
+　　圖表及以上五門應均以在西域者為斷至流入<lb/>
+<pb n="KR2k0072_WYG_004-4a"/>
+　　秦隴以後厯代遷徙之蹟自有治河各書詳晰記<lb/>
+　　載無待贅陳<lb/>
+　一譯語𫝊訛最為舛互河源所逕多有介在藩部聲<lb/>
+　　音文字尤錯雜難稽今所用地名一以<lb/>
+欽定西域同文志為凖或三合四合之字亦一一遵録<lb/>
+　　不用古來假借失真之音其志中所譯名義係何<lb/>
+　　語即一一註於句下併可訂古籍音譯之訛<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

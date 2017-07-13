@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2m0055_WYG_001-1a"/>
+聖祖仁皇帝上諭<lb/>
+　　　康熙十八年九月十四日奉<lb/>
+　上諭國家設立法制原以禁暴止姦安全良善故律例<lb/>
+　　繁簡因時制宜總期合於古帝王欽恤民命之意向<lb/>
+　　因人心滋偽輕視法網及强暴之徒陵虐小民故於<lb/>
+　　定律之外復設條例俾其畏而知警免罹刑辟乃近<lb/>
+　　來犯法者多而姦偽未見衰止人命闗係重大朕心<lb/>
+　　深用惻然其定律之外所有條例如罪不至死而新<lb/>
+<pb n="KR2m0055_WYG_001-1b"/>
+　　例議死或情罪原輕而新例過嚴者應去應存著九<lb/>
+　　卿詹事科道㑹同詳加酌定確議具奏特諭<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4c0044_SBCK_041-1a"/>
+朱文公校昌黎先生外集目録<lb/>
+︻第一卷<lb/>
+　　　明水賦　芍藥賦<lb/>
+　　　海水　贈崔立之<lb/>
+　　　贈河陽李大夫　苦寒歌<lb/>
+　　　請遷玄宗廟議<lb/>
+︻第二卷<lb/>
+　　　上賈滑州書　上考功崔虞部書<lb/>
+　　　與少室李拾遺書　答劉秀才論史書<lb/>
+　　　與大顚師書<lb/>
+︻第三卷<lb/>
+　　　送汴州監軍俱文珍序<lb/>
+　　　送浮屠令縱西遊序<lb/>
+<pb n="KR4c0044_SBCK_041-1b"/>
+︻第四卷<lb/>
+　　　　通解　擇言解<lb/>
+　　　　鄠人對　河南府同官記<lb/>
+　　　　記宜城驛　題李生壁<lb/>
+︻第五卷<lb/>
+　　　除崔户部侍郎制　祭董相公文<lb/>
+　　　祭石君文　祭房君文<lb/>
+　　　髙君仙硯銘　髙君畫賛<lb/>
+　　　潮州請置郷校牒<lb/>
+︻第六卷<lb/>
+　　　順宗實録卷第一<lb/>
+︻第七卷<lb/>
+　　　順宗實録卷第二<lb/>
+<pb n="KR4c0044_SBCK_041-2a"/>
+︻第八卷<lb/>
+　　　　順宗實録卷第三<lb/>
+︻第九卷<lb/>
+　　　順宗實録卷第四<lb/>
+︻第十卷<lb/>
+　　　順宗實録卷第五<lb/>
+︻集傳　新書本傳　文録序<lb/>
+　　　　記舊本韓文後　潮州韓文公廟碑<lb/>
+︻遺文　有所思聮句<lb/>
+　　　遣興聮句　贈劔客李園聮句<lb/>
+︻遺詩<lb/>
+　　　同竇韋㝷劉尊師不遇　春雪<lb/>
+　　　贈族姪　嘲鼾睡<lb/>
+<pb n="KR4c0044_SBCK_041-2b"/>
+　　　晝月　贈張徐州莫辭酒<lb/>
+　　　辭唱歌　知音者誠希<lb/>
+　　　酬藍田崔丞立之詠雪見寄　潭州泊船呈諸公<lb/>
+　　　飲城南道邉古墓上逢中丞過贈禮部衛貟外少室張道士<lb/>
+　　　池上絮　書答侯生問論語書<lb/>
+　墓誌相州刺史御史中丞田公故夫人魏氏墓誌銘<lb/>
+　　啓皇帝即位賀宰相啓　狀奏汴州得嘉禾嘉瓜狀<lb/>
+　　　皇帝即位賀諸道狀　皇帝即位降赦賀觀察使狀<lb/>
+　　　潮州謝孔大夫狀　䟽憲宗崩慰諸道䟽<lb/>
+　題名長安慈恩塔題名　洛北惠林寺題名<lb/>
+　　　謁少室李渤題名　福先塔寺題名<lb/>
+　　　嵩山天封宫題名　迓杜兼題名<lb/>
+　　　華嶽題名　昌黎先生外集目録終<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

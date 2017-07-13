@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>嵗寒堂詩話目録</head>
+    <p>
+<pb n="KR4i0021_WYG_000-1a"/>
+欽定四庫全書　　　　　集部九<lb/>
+　嵗寒堂詩話目録　　　　詩文評類<lb/>
+　　巻上<lb/>
+　　　三十四條<lb/>
+　　巻下<lb/>
+　　　三十三條<lb/>
+　　　　<hi>臣</hi>等謹案嵗寒堂詩話宋張戒撰錢曽讀書<lb/>
+　　　　敏求記作趙戒傳寫誤也考戒名附見宋史<lb/>
+<pb n="KR4i0021_WYG_000-1b"/>
+　　　　趙鼎傳不詳其始末惟李心傳建炎以来繫<lb/>
+　　　　年要録載戒正平人紹興五年四月以趙鼎<lb/>
+　　　　薦得召對授國子監丞鼎稱其登第十餘年<lb/>
+　　　　曽作縣令則嘗舉進士也又載紹興八年三<lb/>
+　　　　月戒以兵部員外郎守監察御史是年八月<lb/>
+　　　　守殿中侍御史十一月為司農少卿旋坐疏<lb/>
+　　　　留趙鼎改外任十二年羅汝楫劾其沮和議<lb/>
+　　　　黨於趙鼎岳飛特勒停二十七年九月以左<lb/>
+<pb n="KR4i0021_WYG_000-2a"/>
+　　　　宣教郎主管台州崇道觀不言所終殆即終<lb/>
+　　　　於奉祠矣初戒以論事切直為髙宗所知其<lb/>
+　　　　言當以和為表以備為裏以戰為不得已頗<lb/>
+　　　　中時勢故淮西之戰則力劾張浚趙開而秦<lb/>
+　　　　檜欲屈已求和則又力沮卒與趙鼎並逐盖<lb/>
+　　　　亦鯁亮之士也是書通論古今詩人由宋蘓<lb/>
+　　　　軾黄庭堅上遡漢魏風騷分為五等大旨尊<lb/>
+　　　　李杜而推陶阮始眀言志之義而終之以無<lb/>
+<pb n="KR4i0021_WYG_000-2b"/>
+　　　　邪之旨可謂不詭於正其論唐諸臣詠楊太<lb/>
+　　　　真事皆為無禮獨杜甫立言為得體尤足維<lb/>
+　　　　世教而正人心又専論杜甫詩三十餘條亦<lb/>
+　　　　多宋人詩話所未及攷説郛及學海類編均<lb/>
+　　　　載此書僅寥寥三四頁此本為永樂大典所<lb/>
+　　　　載猶屬完帙然有二條此本遺去而見於學<lb/>
+　　　　海類編者今謹據以増入庶為全璧讀書敏<lb/>
+　　　　求記本作一巻今以篇頁稍繁釐為上下巻云<lb/>
+<pb n="KR4i0021_WYG_000-3a"/>
+　　　　乾隆四十四年十一月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

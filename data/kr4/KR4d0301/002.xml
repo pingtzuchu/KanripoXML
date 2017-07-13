@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4d0301_WYG_002-1a"/>
+𤓰廬集附錄<lb/>
+　　四靈留題奉贈薛景石𤓰廬<lb/>
+何地有𤓰廬平湖四畆餘自鋤畦上草不放手中書人<lb/>
+逺來求字童閑去釣漁山民山上住却羡水邊居<hi>徐照</hi>
+不作封侯念悠然逺世紛惟應種𤓰事猶被讀書分野<lb/>
+水多于地春山半是雲吾生嫌已老學圃未如君<hi>趙師秀</hi>
+近舍新為圃澆鉏及晚凉因看𤓰蔓吐識得道心長隔<lb/>
+沼嘉蔬㓗侵畦異草香小舟應買在門外是漁鄉<hi>徐璣</hi>
+<pb n="KR4d0301_WYG_002-1b"/>
+卜得無塵地栽花仍結廬雖然親隴畆還不離琴書洲<lb/>
+暖煙蔵樹波寒月照魚東陵人已逺新興復何如<hi>翁巻</hi>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　𤓰廬集附錄<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

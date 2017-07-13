@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>儒林宗派卷八</head> <lb/>
+    <p>
+<pb n="KR2g0049_WYG_008-1a"/>
+欽定四庫全書<lb/>
+　儒林宗派卷八<lb/>
+　　　　　　　　　　　　　鄞縣萬斯同撰<lb/>
+　宋<lb/>
+周敦頥<hi>茂叔濓溪營道元公</hi>
+程顥<hi>伯淳明道洛陽純公</hi>
+程頥<hi>正叔伊川顥弟正公</hi>
+　　程子學派<lb/>
+<pb n="KR2g0049_WYG_008-2a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+張繹<hi>思叔夀安</hi>
+<pb n="KR2g0049_WYG_008-2b"/>
+劉絢<hi>質夫常山</hi>
+李籲<hi>端伯洛陽</hi>
+吕大忠<hi>晉伯藍田</hi>
+吕大鈞<hi>和叔</hi>
+吕大臨<hi>與叔</hi>
+吕希哲<hi>原明滎陽</hi>
+蘇昞<hi>季明武功</hi>
+楊國寶<hi>應之</hi>
+<pb n="KR2g0049_WYG_008-3a"/>
+潘旻<hi>子文瑞安</hi>
+陳經正<hi>貴一平陽</hi>
+陳經邦<hi>貴叔經正弟</hi>
+周孚先<hi>伯忱晉陵</hi>
+周恭先<hi>伯温孚先弟</hi>
+<pb n="KR2g0049_WYG_008-4a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+暢大隠<hi>潜道洛陽</hi>
+暢中伯<lb/>
+<pb n="KR2g0049_WYG_008-4b"/>
+謝天申<hi>用休</hi>
+楊迪<hi>遵道時子</hi>
+朱光庭<hi>公挟偃師</hi>
+王岩叟<hi>彦霖</hi>
+王蘋<hi>信伯福清</hi>
+李樸<hi>先之平川</hi>
+孟厚<hi>敦夫潁川</hi>
+康棣<hi>彦思宜興</hi>
+<pb n="KR2g0049_WYG_008-5a"/>
+</p>
+<p>
+<pb n="KR2g0049_WYG_008-6a"/>
+　<lb/>
+劉立之<hi>宗禮河間</hi>
+范文甫<lb/>
+林大節<lb/>
+張閎中<lb/>
+馮理<hi>聖先</hi>
+李處遯<lb/>
+劉安節<hi>元承永嘉</hi>
+<pb n="KR2g0049_WYG_008-6b"/>
+劉安上<hi>元禮安節從弟</hi>
+鮑若雨<hi>商霖永嘉</hi>
+<pb n="KR2g0049_WYG_008-7a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2g0049_WYG_008-7b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<hi>右四十二人見伊洛淵録</hi>
+賈易<hi>明叔無為</hi>
+范仲　<hi>革陽</hi>
+<pb n="KR2g0049_WYG_008-8a"/>
+晏敦復<hi>景初臨川</hi>
+許景衡<lb/>
+吳給<hi>敦仁</hi>
+鄒柄<hi>徳久毘陵</hi>
+時紫芝<lb/>
+謝佃<hi>用休瑞安</hi>
+沈躬行<hi>彬老永嘉</hi>
+陳經郛<hi>邦弟經</hi>
+<pb n="KR2g0049_WYG_008-8b"/>
+陳經徳<hi>經郛弟</hi>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+趙彦道<lb/>
+趙孝孫<lb/>
+羅從彦<lb/>
+<pb n="KR2g0049_WYG_008-9a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+李參<hi>籲弟</hi>
+范棫<hi>洛陽</hi>
+邵溥<hi>洛陽</hi>
+練繪<hi>質夫浦城</hi>
+張杲<hi>𤾉叔</hi>
+<pb n="KR2g0049_WYG_008-9b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　　右程子門人<lb/>
+胡瑗<hi>翼之安定</hi>
+　　胡氏學派<lb/>
+程頥<hi>正叔伊川</hi>
+范純仁<hi>堯夫仲淹子</hi>
+<pb n="KR2g0049_WYG_008-10a"/>
+吕希哲<lb/>
+孫覺<hi>莘老髙郵</hi>
+朱光庭<lb/>
+錢公輔<lb/>
+錢藻<hi>醇老</hi>
+劉彞<hi>執中閩縣</hi>　鄒棐<hi>克恭泰寧</hi>
+林晟<hi>美中福清</hi>
+游烈<hi>晉老邵武</hi>
+<pb n="KR2g0049_WYG_008-10b"/>
+滕甫<hi>元發東陽</hi>
+翁仲達<hi>濟可崇安</hi>
+徐唐<hi>守忠寜化</hi>
+徐積<hi>仲車山陽</hi>
+歐陽發<hi>伯和修長子</hi>
+饒子儀<hi>元禮臨川</hi>
+陳聖俞<hi>合舉嘉興</hi>
+周頴<hi>伯堅江山</hi>
+<pb n="KR2g0049_WYG_008-11a"/>
+管師復<hi>龍泉</hi>
+徐中行<hi>徳臣臨海</hi>
+羅適<hi>寧海</hi>
+祝常<hi>履中江山</hi>
+翁升<hi>南仲慈谿</hi>
+江致一<hi>得之休寧</hi>
+汪澥<hi>仲溶涇縣</hi>
+陳敏<hi>伯修無錫</hi>
+<pb n="KR2g0049_WYG_008-11b"/>
+朱臨<hi>浦陽</hi>
+杜汝霖<hi>仁翁蘭谿</hi>
+　　右胡氏門人<lb/>
+張載<hi>子厚横渠郿縣明公</hi>
+　　張氏學派<lb/>
+張戩<lb/>
+吕大忠<lb/>
+吕大鈞<lb/>
+<pb n="KR2g0049_WYG_008-12a"/>
+吕大臨<lb/>
+蘇昞<lb/>
+范育<hi>巽之三水</hi>
+种師道<hi>彞淑洛陽莊愍</hi>
+游思<hi>景景叔  武功</hi>
+薛昌朝<hi>景庸</hi>
+潘康仲<lb/>
+邵清<hi>彦明古田</hi>
+<pb n="KR2g0049_WYG_008-12b"/>
+李復<hi>履中</hi>
+　　右張子門人<lb/>
+　附録<lb/>
+<pb n="KR2g0049_WYG_008-13a"/>
+邵雍<hi>堯夫康節洛陽</hi>
+　　邵氏學派<lb/>
+王豫<hi>天悅四川</hi>
+邵伯温<hi>雍子</hi>　趙鼎<hi>元鎮聞喜忠簡</hi>
+晁說之<hi>以道景迂</hi>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2g0049_WYG_008-13b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　儒林宗派卷八<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

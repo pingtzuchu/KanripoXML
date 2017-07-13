@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>易數鈎隠圖</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　經部一<lb/>
+　易數鈎隠圖　　　　　易類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案易數鈎隠圖三卷附遺論九事一<lb/>
+　　　　卷宋劉牧撰牧字長民其墓志作字先之未<lb/>
+　　　　詳孰是或有兩字也彭城人官至太常博士<lb/>
+　　　　宋志載牧新注周易十一卷圖一卷晁公武<lb/>
+　　　　讀書志則作圖三卷其注今不傳惟圖尚在<lb/>
+<pb n="1b"/>
+　　　　卷數與晁氏本同漢儒言易多主象數至宋<lb/>
+　　　　而象數之中復岐出圖書一派牧在邵子之<lb/>
+　　　　前其首倡者也牧之學出於种放放出於陳<lb/>
+　　　　搏其源流與邵子之出於穆李者同而以九<lb/>
+　　　　為河圖十為洛書則與邵異其學盛行於仁<lb/>
+　　　　宗時黄黎獻作畧例隠訣吳秘作通神程大<lb/>
+　　　　昌作易原皆發明牧説而葉昌齡則作圖義<lb/>
+　　　　以駁之宋咸則作王劉易辨以攻之李覯復<lb/>
+<pb n="2a"/>
+　　　　有刪定易圖論至蔡元定則以為與孔安國<lb/>
+　　　　劉歆所𫝊不合而以十為河圖九為洛書朱<lb/>
+　　　　子從之著易學啟蒙自是以後若胡一桂董<lb/>
+　　　　楷吳澄之書皆宗朱蔡牧之圖幾於不𫝊此<lb/>
+　　　　本為通志堂所刋何焯以為自道藏録出今<lb/>
+　　　　考道藏目録實在洞真部靈圖類雲字號中<lb/>
+　　　　是即圖書之學出於道家之一証録而存之<lb/>
+　　　　亦足廣異聞也南宋時劉敏士嘗刻於浙右<lb/>
+<pb n="2b"/>
+　　　　漕司前有歐陽修序吳澄曰修不信河圖而<lb/>
+　　　　有此序殆後人所偽為而牧之後人誤信之<lb/>
+　　　　者俞琰亦曰序文淺俚非修作其言有見故<lb/>
+　　　　今據而削之其遺論九事一為太皥受龍馬<lb/>
+　　　　負圖二為六十四卦推盪訣三為大衍之數<lb/>
+　　　　五十四為八卦變六十四卦五為辨隂陽卦<lb/>
+　　　　六為復見天地之心七為卦中九事八為竒<lb/>
+　　　　偶揲法九為隂陽律吕圗以先儒之所未及<lb/>
+<pb n="3a"/>
+　　　　故曰遺論本别為一卷徐氏刻九經解附之<lb/>
+　　　　鈎隠圖末今亦仍之焉乾隆四十四年八月<lb/>
+　　　　恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

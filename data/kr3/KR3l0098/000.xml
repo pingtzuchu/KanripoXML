@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>拾遺記</head>
+    <p>
+<pb n="KR3l0098_WYG_000-1a"/>
+欽定四庫全書　　　　　子部十二<lb/>
+　拾遺記　　　　　　　　小説家𩔖二<hi>異聞之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案拾遺記十巻秦王嘉撰嘉字子年<lb/>
+　　　　隴西安陽人事迹具晉書萟術傳故舊本繋<lb/>
+　　　　之晉代然嘉實苻秦方士是時關中雲擾與<lb/>
+　　　　典午隔絶已久稱晉人者非也其書本十九<lb/>
+　　　　巻二百二十篇後經亂亡失殘缺梁蕭綺搜<lb/>
+<pb n="KR3l0098_WYG_000-1b"/>
+　　　　羅補綴定為十巻併附注所論命之曰録即<lb/>
+　　　　此本也綺序稱文起羲炎以來事迄西晉之<lb/>
+　　　　末然第九巻記石虎燋龍至石氏破滅則事<lb/>
+　　　　在穆帝永和六年之後入東晉久矣綺亦約<lb/>
+　　　　畧言之也嘉書盖仿郭憲洞㝠記而作厯代<lb/>
+　　　　詞人取材不竭亦劉勰所謂事豐奇偉辭富<lb/>
+　　　　膏腴無益經典而有助文章者歟虞初九百<lb/>
+　　　　漢人具著於録此本既六朝舊笈今亦存備<lb/>
+<pb n="KR3l0098_WYG_000-2a"/>
+　　　　採掇焉乾隆四十三年七月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+<pb n="KR3l0098_WYG_000-3a"/>
+拾遺記原序<lb/>
+拾遺記者晉隴西安陽人王嘉字子年所撰凡十九巻<lb/>
+二百二十篇皆為殘缺當偽秦之季王綱遷號五都淪<lb/>
+覆河洛之地沒為戎墟宫室榛蕪書藏堙毁荆棘霜露<lb/>
+豈獨悲於前王鞠為禾黍彌深嗟於兹代故使典章散<lb/>
+滅<graphic n="KR1274" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1274.png" mimeType="image/png"/>館焚埃皇圖帝冊殆無一存故此書多有亡敗文<lb/>
+起羲炎以來事訖西晉之末五運因循十有四代王子<lb/>
+年乃搜撰異同而殊怪必舉紀事存朴受廣向竒憲章<lb/>
+<pb n="KR3l0098_WYG_000-3b"/>
+稽古之文綺綜編雜之部山海經所不載夏鼎未之或<lb/>
+存乃集而記矣辭趣過誕音㫖迂濶推理陳迹恨為繁<lb/>
+冗多涉禎祥之書博採神仙之事妙萬物而為言盖絶<lb/>
+世而𢎞博矣世徳凌夷文頗缺畧綺更刪其繁紊紀其<lb/>
+實美捜刋幽秘捃採殘落言匪浮詭事弗空誣推詳徃<lb/>
+迹則影徹經史考驗真怪則叶符圖籍若其道業逺者<lb/>
+則辭省朴素世徳近者則文存靡麗編言貫物使宛然<lb/>
+成章數運則與世推移風政則因時㢠廻改至如金繩鳥<lb/>
+<pb n="KR3l0098_WYG_000-4a"/>
+篆之文玉牒蟲章之字末代流傳多乖曩迹雖探研鐫<lb/>
+冩抑多疑悟及言乎政化訛乎禎祥隨代而次之土地<lb/>
+山川之域或以名例相疑草木鳥獸之𩔖亦以聲状相<lb/>
+惑隨所載而區别各因方而釋之或變通而會其道寧<lb/>
+可採於一説今捜撿殘遺合為一部凡一十卷序而錄<lb/>
+焉梁蕭綺撰<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

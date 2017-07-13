@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>醫閭集</head>
+    <p>
+<pb n="KR4e0129_WYG_000-1a"/>
+欽定四庫全書　　　　　集部六<lb/>
+　醫閭集　　　　　　　　别集類五<hi>明</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案醫閭集九巻明賀士諮編輯其父<lb/>
+　　　　賀欽平生言行及詩文稿而成欽字克恭其<lb/>
+　　　　先浙之定海人以戎籍𨽻遼東義州衞欽登<lb/>
+　　　　成化丙戌進士授户科給事中謝病歸𢎞治<lb/>
+　　　　初起陜西㕘議檄未至而母歿乃上疏懇辭<lb/>
+<pb n="KR4e0129_WYG_000-1b"/>
+　　　　服闋遂不復出事蹟具明史儒林傳是書前<lb/>
+　　　　三巻為言行録四巻至七巻為存稿皆雜文<lb/>
+　　　　第八巻為奏稿第九巻為詩稿欽官給事時<lb/>
+　　　　聞陳獻章名遂師事之及謝病歸里杜門不<lb/>
+　　　　出惟以進修為事其學不務博涉専讀經書<lb/>
+　　　　小學期於返身實踐嘗言為學不在求之髙<lb/>
+　　　　逺在主敬以收放心而已故集中所録言行<lb/>
+　　　　皆切近真實非髙談性命者可比而所上諸<lb/>
+<pb n="KR4e0129_WYG_000-2a"/>
+　　　　奏疏亦無不通達治理確然可見諸施行獻<lb/>
+　　　　章之學當時或病其近禪欽雖學於獻章而<lb/>
+　　　　性情篤實循循下學平日論工夫次第亦往<lb/>
+　　　　往指獻章議論為過髙其氣象殊不相似在<lb/>
+　　　　講學諸人中粹然獨為純正文章雖多信筆<lb/>
+　　　　揮灑而仁義之言藹然可見固不必以工拙<lb/>
+　　　　論之也欽少讀書醫無閭山自號醫閭山人<lb/>
+　　　　並以名其集云乾隆四十五年十一月恭校<lb/>
+<pb n="KR4e0129_WYG_000-2b"/>
+　　　　上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

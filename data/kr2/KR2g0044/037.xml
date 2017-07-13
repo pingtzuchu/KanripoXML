@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>八旗滿洲氏族通譜目錄</head> <lb/>
+    <p>
+<pb n="KR2g0044_WYG_037-1a"/>
+欽定四庫全書<lb/>
+　八旗滿洲氏族通譜目錄<lb/>
+　　卷十八<lb/>
+　　雅爾湖地方通顔覺羅氏<lb/>
+　　　茂海　　　　　　　圖爾渾<lb/>
+　　　　　以上俱有傳<lb/>
+　　　蘇扎理　　　　　　布顔柱<lb/>
+　　　　　以上俱附載<lb/>
+<pb n="KR2g0044_WYG_037-1b"/>
+　　各地方阿顔覺羅氏<lb/>
+　　　星額理　　　　　　諾恩珠瑚<lb/>
+　　　阿普察　　　　　　碩色<lb/>
+　　　鑾　　　　　　　　貝和齊<lb/>
+　　　松愛　　　　　　　柏泰<lb/>
+　　　扎海<lb/>
+　　　　　以上俱有傳<lb/>
+　　　阿爾當阿　　　　　拉塔<lb/>
+<pb n="KR2g0044_WYG_037-2a"/>
+　　　諾爾巴哈　　　　　阿精阿<lb/>
+　　　佛訥赫　　　　　　納穆泰<lb/>
+　　　屯珠瑚　　　　　　赫什恒<lb/>
+　　　　　以上俱附載<lb/>
+　　各地方呼倫覺羅氏<lb/>
+　　　烏禄遜<lb/>
+　　　　　右係有傳<lb/>
+　　　噶塔布　　　　　　豐盛額<lb/>
+<pb n="KR2g0044_WYG_037-2b"/>
+　　　阿哈尼堪　　　　　雅爾布<lb/>
+　　　阿林　　　　　　　哈爾哈齊<lb/>
+　　　　　以上俱附載<lb/>
+　　各地方阿哈覺羅氏<lb/>
+　　　阿爾達世<lb/>
+　　　　　右係有傳<lb/>
+　　　蘇成額　　　　　　科濶<lb/>
+　　　穆進泰　　　　　　滿丕<lb/>
+<pb n="KR2g0044_WYG_037-3a"/>
+　　　克丑　　　　　　　阿庫納<lb/>
+　　　鄂通果　　　　　　扎秦<lb/>
+　　　松吉納　　　　　　胡謨色<lb/>
+　　　庫圖訥　　　　　　夸察<lb/>
+　　　拖海　　　　　　　哈喇<lb/>
+　　　鼐格　　　　　　　胡巴理<lb/>
+　　　諾爾布爾　　　　　胡實屯<lb/>
+　　　塞爾弼　　　　　　哈克占<lb/>
+<pb n="KR2g0044_WYG_037-3b"/>
+　　　瑚達理　　　　　　費揚古<lb/>
+　　　汪珠瑚　　　　　　薩哈廉<lb/>
+　　　郭精義　　　　　　博竒納<lb/>
+　　　瑪沙　　　　　　　岱福哈<lb/>
+　　　額思特　　　　　　費揚古<lb/>
+　　　汪顔　　　　　　　瑪福塔<lb/>
+　　　額爾金　　　　　　瑚什霸<lb/>
+　　　碩塞　　　　　　　達漢法克什<lb/>
+<pb n="KR2g0044_WYG_037-4a"/>
+　　　哈什　　　　　　　喀齊喀<lb/>
+　　　瑪爾吉　　　　　　頼庫<lb/>
+　　　邁斯哈　　　　　　鈕赫<lb/>
+　　　　　以上俱附載<lb/>
+　　長白山地方察喇覺羅氏<lb/>
+　　　托鈕　　　　　　　岱斌<lb/>
+　　　　　以上俱附載<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

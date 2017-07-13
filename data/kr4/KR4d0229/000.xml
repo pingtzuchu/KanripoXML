@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>梁谿遺稿</head>
+    <p>
+<pb n="KR4d0229_WYG_000-1a"/>
+欽定四庫全書　　　　　集部四<lb/>
+　梁谿遺稿　　　　　　　别集類三<hi>宋</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案梁谿遺稿二巻宋尤袤撰袤有遂<lb/>
+　　　　初堂書目已著録宋史袤本傳載所著有遂<lb/>
+　　　　初小藁六十巻内外制三十巻陳振孫書録<lb/>
+　　　　解題載梁谿集五十巻今並久佚<lb/>
+　　　國朝康熈中翰林院侍講長洲尤侗自以為袤<lb/>
+<pb n="KR4d0229_WYG_000-1b"/>
+　　　　之後人因裒輯遺詩編為此本葢百分僅存<lb/>
+　　　　其一矣厲鶚作宋詩紀事即據此本為主而<lb/>
+　　　　别摭三朝北盟㑹編所載淮民一首茅山志<lb/>
+　　　　所載庚子嵗除前一日逰茅山一首荆溪外<lb/>
+　　　　紀所載逰張公洞一首揚州府志所載重登<lb/>
+　　　　斗野亭一首郁氏書畫題跋記所載題米元<lb/>
+　　　　暉瀟湘圖二首後村詩話所載逸句四聫而<lb/>
+　　　　去年江南荒兩聯即淮民謡中之語前後複<lb/>
+<pb n="KR4d0229_WYG_000-2a"/>
+　　　　出良由瑣碎捃拾故失於檢核知其㪚亡已<lb/>
+　　　　甚不可復収拾也方回嘗作袤詩跋稱中興<lb/>
+　　　　以來言詩必曰尤楊范陸誠齋時出奇峭放<lb/>
+　　　　翁善為悲壯公與石湖冠冕佩玉度騷婉雅<lb/>
+　　　　則袤在當時本與楊萬里陸游范成大並駕<lb/>
+　　　　齊驅今三家之集皆有完本而袤集獨湮没<lb/>
+　　　　不存葢文章傳不傳亦有幸不幸焉然即今<lb/>
+　　　　所存諸詩觀之殘章斷簡尚足與三家抗行<lb/>
+<pb n="KR4d0229_WYG_000-2b"/>
+　　　　以少見珍彌增寶惜又烏可以殘賸棄歟乾<lb/>
+　　　　隆四十六年十二月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+<pb n="KR4d0229_WYG_000-3a"/>
+梁谿遺稿序<lb/>
+宋南渡後以詩齊名者四家楊廷秀所稱尤蕭范陸是<lb/>
+已千巖詩學于曾幾吉甫授之姜夔堯章當時劉潛又<lb/>
+許為誠齋敵手而方萬里謂其詩苦硬頓挫而極其工<lb/>
+使不早死雖誠齋猶出其下蓋為詩家矜許若是顧其<lb/>
+詩曾刋于永州歳久散失而尤公梁谿集五十巻公之<lb/>
+孫藻鋟木新安焚于兵火故范陸詩盛行而尤公之作<lb/>
+流傳者寡蕭特僅見其數首而已後之論者遂易之曰<lb/>
+<pb n="KR4d0229_WYG_000-3b"/>
+尤楊范陸於是蕭愈湮晦至有不能舉其姓氏者翰林檢<lb/>
+討西堂先生自梁谿徙吳實文簡裔孫慮公之詩文罕<lb/>
+傳于世乃抄撮其僅存者為二巻鏤板行之屬其同年<lb/>
+友秀水朱彝尊為之序予因摭其大畧書之簡端蕭西<lb/>
+江人諱徳藻字東夫别字千巖潛夫稱其咏梅絶句有<lb/>
+云湘妃危立凍蛟背海月冷挂珊瑚枝又云百千年蘚<lb/>
+著枯樹一兩㸃花供老枝造句奇崛洵足與文簡公梁<lb/>
+谿西畔小橋東之作竝傳者也<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

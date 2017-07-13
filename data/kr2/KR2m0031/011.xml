@@ -1,0 +1,775 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>明諡紀彚編卷十一</head> <lb/>
+    <p>
+<pb n="KR2m0031_WYG_011-1a"/>
+欽定四庫全書<lb/>
+　明諡紀彚編卷十一<lb/>
+　　　　　　　　　　　　明　郭良翰　撰<lb/>
+　　尊諡八<lb/>
+　　　郡王上<lb/>
+宣靖　宣懿　宣和　宣穆　宣惠　宣僖　宣思<lb/>
+端憲　端靖　端肅　端簡　端懿　端穆　端和<lb/>
+端定　端僖　端裕　端惠　端康　端恪　端襄<lb/>
+<pb n="KR2m0031_WYG_011-1b"/>
+端順　端𨼆<lb/>
+定恭　定肅　定惠<lb/>
+昭靖　昭定　昭簡　昭憲　昭毅　昭安　昭裕<lb/>
+昭穆　昭和　昭順　昭僖　昭榮<lb/>
+憲穆　憲惠<lb/>
+肅簡　肅安<lb/>
+荘靖　荘定　荘獻　荘憲　荘懿　荘簡　荘穆<lb/>
+荘安　荘僖　荘裕　荘康　荘和　荘惠　荘恪<lb/>
+<pb n="KR2m0031_WYG_011-2a"/>
+荘順　荘隠<lb/>
+恭靖　恭定　恭懿　恭簡　恭憲　恭肅　恭荘<lb/>
+恭昭　恭裕　恭端　恭恪　恭惠　恭和　恭穆<lb/>
+恭安　恭康　恭順　恭僖　恭懷<lb/>
+敬安<lb/>
+簡靖　簡定<lb/>
+靖懿　靖荘　靖恭　靖肅　靖簡　靖惠　靖和<lb/>
+靖安　靖僖<lb/>
+<pb n="KR2m0031_WYG_011-2b"/>
+僖靖　僖簡　僖裕　僖安　僖康　僖穆　僖順<lb/>
+僖和<lb/>
+和靖<lb/>
+穆憲<lb/>
+順簡　順靖　順僖<lb/>
+惠簡　惠靖　惠恭　惠荘　惠懿　惠穆　惠順<lb/>
+惠榮<lb/>
+温憲　温肅　温恭　温靖　温定　温簡　温穆<lb/>
+<pb n="KR2m0031_WYG_011-3a"/>
+温懿　温裕　温僖　温和　温惠　温隠<lb/>
+安簡　安憲　安肅　安靖　安荘　安裕　安和<lb/>
+安定　安恭　安懿　安僖　安穆　安惠　安恪<lb/>
+懿荘　懿安　懿定　懿簡<lb/>
+思裕<lb/>
+裕安　裕穆<lb/>
+康懿　康肅　康敬　康簡　康靖　康端　康定<lb/>
+康憲　康裕　康僖　康惠　康穆　康恪　康和<lb/>
+<pb n="KR2m0031_WYG_011-3b"/>
+康順　康悼　康隠<lb/>
+榮懿　榮昭　榮荘　榮靖　榮肅　榮端　榮憲<lb/>
+榮簡　榮康　榮定　榮恪　榮惠　榮安　榮和<lb/>
+榮穆　榮裕　榮僖　榮順　榮懷　榮悼　榮隠<lb/>
+榮繆　榮虚　榮戾<lb/>
+悼恭　悼懿　悼荘　悼簡　悼定　悼靖　悼康<lb/>
+悼安　悼平　悼懐　悼惠　悼和　悼僖　悼昭<lb/>
+悼順　悼隠　悼戾<lb/>
+<pb n="KR2m0031_WYG_011-4a"/>
+懷懿　懷端　懷僖　懷順　懷和　懷穆　懷隠<lb/>
+懷悼　懷荘　懷康　懷恪　懷靖　懷安　懷簡<lb/>
+哀簡<lb/>
+宣靖<lb/>
+　慶府安塞王秩炅<hi>成化</hi>
+　周府胙城王安瀏<hi>嘉靖</hi>
+　趙府南樂王祐檟<lb/>
+宣懿<lb/>
+<pb n="KR2m0031_WYG_011-4b"/>
+　唐府新野王彌鎘<hi>𢎞治</hi>
+　代府和川王聰潪<lb/>
+　魯府樂陵王陽舘<hi>正徳</hi>
+　晉府襄隂王表楗<lb/>
+　榮府惠安王載塾<hi>嘉靖</hi>
+　周府㑹稽王睦杉<lb/>
+宣和<lb/>
+　寧府宜春王奠坫<hi>𢎞治</hi>
+<pb n="KR2m0031_WYG_011-5a"/>
+　韓府寧逺王旭栓<hi>正徳</hi>
+　代府廣靈王聰漢<hi>嘉靖</hi>
+宣穆<lb/>
+　遼府沅陵王恩鈰<hi>𢎞治</hi>
+　瀋府遼山王㓜墏<lb/>
+宣惠<lb/>
+　韓府褒城王徴鉅<hi>𢎞治</hi>
+　代府潞城王聰蒗<hi>嘉靖</hi>
+<pb n="KR2m0031_WYG_011-5b"/>
+　徽府嘉定王厚焃<lb/>
+宣僖<lb/>
+　周府鄢陵王安沅<hi>嘉靖</hi>
+宣思<lb/>
+　周府汝陽王睦槿<hi>嘉靖</hi>
+　魯府館陶王當漗<lb/>
+端憲<lb/>
+　瀋府心源王幼埼<hi>成化</hi>
+<pb n="KR2m0031_WYG_011-6a"/>
+　周府崇善王睦槤<hi>嘉靖</hi>
+　代府潞城王俊槤<lb/>
+　肅府㑹寧王弼楹<hi>萬厯</hi>
+端靖<lb/>
+　岷府沙陽王膺鉋<hi>正徳</hi>
+　瀋府内丘王勛漴<hi>嘉靖</hi>
+　遼府湘隂王寵湳<lb/>
+　周府臨湍王勤緂<lb/>
+<pb n="KR2m0031_WYG_011-6b"/>
+　　　遂平王睦檗<hi>追封</hi>
+　晉府義寧王知爀<lb/>
+　榮府貴溪王厚<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <hi>萬厯</hi>
+端肅<lb/>
+　魯府東甌王當沘<hi>嘉靖</hi>
+　　　鉅野王健櫏<lb/>
+　唐府蕩隂王彌鍔<lb/>
+端簡<lb/>
+<pb n="KR2m0031_WYG_011-7a"/>
+　周府臨湍王安瀺<hi>正徳</hi>
+　　　堵陽王勤炈<hi>萬厯</hi>
+　瀋府稷山王勛㳋<hi>嘉靖</hi>
+　晉府榮澤王知<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+　魯府樂陵王當㴎<hi>追封</hi>
+　寧府樂安王拱欏<lb/>
+　韓府保徳王璟<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>萬厯</hi>
+端懿<lb/>
+<pb n="KR2m0031_WYG_011-7b"/>
+　秦府汧陽王公鏳<hi>𢎞治</hi>
+　魯府東阿王泰壄<lb/>
+　周府臨汝王子塼<lb/>
+　楚府崇陽王均鐓<hi>正徳</hi>
+　瀋府沁水王詮鐟<lb/>
+　伊府靖江王約麒<lb/>
+　代府靈丘王聰滆<lb/>
+　慶府夀陽王鼒㭿<hi>嘉靖</hi>
+<pb n="KR2m0031_WYG_011-8a"/>
+　　　華陰王倪焯<hi>萬厯</hi>
+　徳府泰安王厚燌<hi>嘉靖</hi>
+　遼府枝江王致樨<hi>隆慶</hi>
+　　　蘄水王致<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>萬厯</hi>
+　益府羅川王常湑<lb/>
+端穆<lb/>
+　代府博野王聰溙<hi>𢎞治</hi>
+　周府河清王安沈<lb/>
+<pb n="KR2m0031_WYG_011-8b"/>
+　魯府新蔡王當泘<hi>嘉靖</hi>
+　崇府慶元王厚焞<hi>追封</hi>
+　楚府通山王顯楀<lb/>
+　慶府延川王鼒檟<lb/>
+　荆府永定王載墭<lb/>
+　晉府河東王新墤<hi>隆慶</hi>
+　趙府成臯王載垸<hi>萬厯</hi>
+端和<lb/>
+<pb n="KR2m0031_WYG_011-9a"/>
+　瀋府遼山王詮鉞<hi>嘉靖</hi>
+　晉府新化王知櫛<lb/>
+　　　交城王表<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>隆慶</hi>
+　韓府襄陵王偕浰<hi>嘉靖追封</hi>
+　　　慶世子鼒櫍<lb/>
+　周府信陵王勤熩<lb/>
+　　　原武王勤爚<hi>萬厯</hi>
+　　　保寧王在鍛<lb/>
+<pb n="KR2m0031_WYG_011-9b"/>
+　瀋府清源王勛瀳<hi>嘉靖</hi>
+端定<lb/>
+　周府菜陽王睦桄<hi>嘉靖</hi>
+端僖<lb/>
+　周府富陽王睦桴<hi>嘉靖</hi>
+　徽府太和王祐檖<lb/>
+　楚府江夏王榮漠<lb/>
+　韓府永福王旭橝<lb/>
+<pb n="KR2m0031_WYG_011-10a"/>
+　趙府汝源王厚焆<lb/>
+　晉府靖安王表秩<lb/>
+　徽府新昌王厚燇<hi>隆慶</hi>
+　益府銅陵王翊銋<hi>萬厯</hi>
+端裕<lb/>
+　淮府清江王見澱<hi>𢎞治</hi>
+　趙府廣安王祐枳<lb/>
+　代府山陰王仕堸<lb/>
+<pb n="KR2m0031_WYG_011-10b"/>
+　周府鎮平王同䥸<hi>正徳</hi>
+　　　益陽王朝墰<hi>萬厯</hi>
+　韓府通安王謨墆<lb/>
+　衡府髙唐王厚煐<lb/>
+端惠<lb/>
+　晉府雲丘王鍾鋋<hi>𢎞治</hi>
+　鄭府東垣王見[泳-永+貢]<lb/>
+　周府汾西王睦桍<hi>嘉靖</hi>
+<pb n="KR2m0031_WYG_011-11a"/>
+　　　封丘王安湜<lb/>
+　　　内鄉王勤烰<hi>萬厯</hi>
+　　　胙城王勤燇<lb/>
+　　　柘城王勤煫<lb/>
+　　　瑞金王在鈉<lb/>
+　　　弋陽王拱樻<hi>嘉靖</hi>
+　肅府淳化王真泓<lb/>
+　瀋府宿遷王勛澤<lb/>
+<pb n="KR2m0031_WYG_011-11b"/>
+　魯府安丘王健樸<lb/>
+　衡府新樂王厚熑<lb/>
+　淮府髙安王載湷<hi>萬厯</hi>
+　崇府歸徳王載壃<lb/>
+　徽府延津王載塤<lb/>
+　韓府休寧王朗鏐<lb/>
+　唐府承休王宙校<lb/>
+　代府吉陽王俊槿<lb/>
+<pb n="KR2m0031_WYG_011-12a"/>
+端康<lb/>
+　周府海陽王睦杲<hi>嘉端</hi>
+　　　應城王勤燝<hi>萬厯</hi>
+　慶府豐林王台瀚<hi>嘉靖</hi>
+端恪<lb/>
+　周府汝寧王勤然<hi>隆慶</hi>
+　遼府廣元王憲爀<hi>萬厯</hi>
+端襄<lb/>
+<pb n="KR2m0031_WYG_011-12b"/>
+　代府昌化王聰濜<hi>嘉靖</hi>
+端順<lb/>
+　遼府應山王豪環<hi>𢎞治</hi>
+　蜀府慶符王申鐓<hi>嘉靖</hi>
+　晉府慶成王竒湞<lb/>
+　周府永寧王勤燭<lb/>
+　　　博平王勤㶼<hi>萬厯</hi>
+　韓府通渭王融烍<hi>嘉靖</hi>
+<pb n="KR2m0031_WYG_011-13a"/>
+　唐府衛輝王宇漳<lb/>
+　趙府襄邑王厚燔<lb/>
+　徳府堂邑王翊鐖<hi>萬厯</hi>
+　魯府陽信王夀鈔<lb/>
+端隠<lb/>
+　寧府石城王覲鏑<hi>𢎞治追封</hi>
+定恭<lb/>
+　韓府長洲王融焌<hi>萬厯</hi>
+<pb n="KR2m0031_WYG_011-13b"/>
+定肅<lb/>
+　韓府樂平王沖<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <hi>成化</hi>
+定惠<lb/>
+　晉府寧河王新䝽<hi>萬厯</hi>
+昭靖<lb/>
+　晉府河東王鍾鏸<hi>成化</hi>
+　瀋府稷山王𦙍柯<hi>隆慶</hi>
+　寧府建安王拱桭<lb/>
+<pb n="KR2m0031_WYG_011-14a"/>
+昭定<lb/>
+　晉府永和王濟烺<hi>正統</hi>
+　寧府樂安王奠壘<hi>𢎞治</hi>
+　趙府獲嘉王載培<hi>嘉靖</hi>
+　楚府永安王<lb/>
+　瀋府沁水王<lb/>
+　周府柘城王<lb/>
+昭簡<lb/>
+<pb n="KR2m0031_WYG_011-14b"/>
+　楚府東安王<lb/>
+　韓府髙平王<lb/>
+昭憲<lb/>
+　遼府松滋王寵洌<hi>嘉靖</hi>
+　唐府郾城王宇清<lb/>
+　吉府榖城王翊鉉<hi>萬厯</hi>
+昭毅<lb/>
+　唐府承休王彌鋠<hi>嘉靖</hi>
+<pb n="KR2m0031_WYG_011-15a"/>
+昭安<lb/>
+　遼府沅陵王豪塶<hi>𢎞治</hi>
+　唐府蕩隂王芝𤬪<hi>嘉靖</hi>
+　周府義寧王安涘<lb/>
+昭裕<lb/>
+　韓府褒城王範堮<hi>成化</hi>
+　趙府成臯王翊錝<hi>萬厯追封</hi>
+昭穆<lb/>
+<pb n="KR2m0031_WYG_011-15b"/>
+　周府富陽王安濯<hi>嘉靖</hi>
+昭和<lb/>
+　伊府靖江王規裕<hi>𢎞治</hi>
+　周府河清王同鐪<lb/>
+　秦府保安王誠渌<hi>正徳</hi>
+　遼府長陽王豪㙷<lb/>
+　瀋府吳江王詮鏗<lb/>
+　趙府襄邑王祐櫸<lb/>
+<pb n="KR2m0031_WYG_011-16a"/>
+　伊府方城王訐注<hi>嘉靖</hi>
+　　　萬安王褒<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>萬厯</hi>
+　淮府崇安王祐榦<hi>嘉靖</hi>
+　魯府髙宻王觀煐<lb/>
+　　　新蔡王健榔<hi>萬厯</hi>
+　韓府長泰王夀錥<lb/>
+昭順<lb/>
+　周府鎮平王有爌<hi>嘉靖</hi>
+<pb n="KR2m0031_WYG_011-16b"/>
+　韓府樂平王融熨<hi>萬厯</hi>
+　代府和川王廷堿<lb/>
+昭僖<lb/>
+　瀋府黎城王佶燏<hi>正統</hi>
+　周府胙成王同<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <hi>𢎞治</hi>
+　秦府永興王公鉐<lb/>
+　晉府方山王鍾鋌<hi>正徳</hi>
+　韓府西徳王偕瀞<lb/>
+<pb n="KR2m0031_WYG_011-17a"/>
+昭榮<lb/>
+　代府宣寧王俊相<hi>隆慶</hi>
+憲穆<lb/>
+　周府宜陽王有炥<hi>成化</hi>
+　趙府秀水王厚<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>嘉靖</hi>
+憲惠<lb/>
+　魯府福安王夀鉁<hi>萬厯</hi>
+肅簡<lb/>
+<pb n="KR2m0031_WYG_011-17b"/>
+　淮府吉安王厚㸋<hi>嘉靖</hi>
+肅安<lb/>
+　周府封丘王睦訸<hi>隆慶</hi>
+荘靖<lb/>
+　秦府宜川王志堢<hi>正統</hi>
+　　　沂陽王秉楱<hi>嘉靖</hi>
+　楚府通城王孟燦<hi>景泰</hi>
+　瀋府稷山王幼垬<hi>天順</hi>
+<pb n="KR2m0031_WYG_011-18a"/>
+　魯府鄒平王泰塍<lb/>
+　徽府慶雲王載壂<lb/>
+　晉府臨泉王知炪<hi>正徳追封</hi>
+　韓府長吉王璟<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>萬厯</hi>
+　蜀府華陽王承爝<lb/>
+　周府封丘王勤□<lb/>
+　　　奉新王朝埏<lb/>
+荘定<lb/>
+<pb n="KR2m0031_WYG_011-18b"/>
+　秦府永興王秉櫸<hi>嘉靖</hi>
+　魯府鄒平王當潩<lb/>
+　周府河隂王安坵<lb/>
+　楚府江夏王顯桔<hi>萬厯</hi>
+　晉府寧化王新壟<lb/>
+　　　永和王新壎<lb/>
+荘獻<lb/>
+　追封静樂王瞻垠<hi>永樂</hi>
+<pb n="KR2m0031_WYG_011-19a"/>
+荘憲<lb/>
+　晉府方山王美垣<hi>成化</hi>
+　襄府寧鄉王祁鐄<lb/>
+　魯府鉅野王當涵<hi>嘉靖</hi>
+　周府河清王安泗<lb/>
+　　　魯陽王勤灰<hi>萬厯</hi>
+　　　安吉王勤<graphic n="KR0958" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0958.png" mimeType="image/png"/>
+　瀋府永年王恬<graphic n="KR2044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2044.png" mimeType="image/png"/>
+                    <hi>嘉靖</hi>
+<pb n="KR2m0031_WYG_011-19b"/>
+　代府博野王俊櫍<hi>嘉靖一作莊惠</hi>
+荘懿<lb/>
+　蜀府内江王友墦<hi>正徳</hi>
+　崇府慶元王載圿<hi>嘉靖</hi>
+　韓府髙淳王謨□<lb/>
+　　　慶陽王謨塾<lb/>
+　周府臨湍王睦檠<hi>萬厯一作莊毅</hi>
+　　　沈丘王勤㷒<lb/>
+<pb n="KR2m0031_WYG_011-20a"/>
+　　　萊陽王勤煗<lb/>
+　益府黎丘王常溱<lb/>
+　瀋府内丘王恬熈<lb/>
+　遼府松滋王憲<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+　肅府延長王真滰<lb/>
+　周府益陽王憲熽<lb/>
+　楚府通山王英炊<lb/>
+　襄府棗陽王載<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>追封</hi>
+<pb n="KR2m0031_WYG_011-20b"/>
+荘簡<lb/>
+　晉府臨泉王美塎<hi>正統</hi>
+　周府胙城王有燆<hi>景泰</hi>
+　　　汝陽王朝䜃<hi>萬厯</hi>
+　　　儀封王肅㴵<lb/>
+　蜀府永川王悦烯<hi>天順</hi>
+　伊府靖江王佐敬<hi>成化</hi>
+　楚府通山王季垟<lb/>
+<pb n="KR2m0031_WYG_011-21a"/>
+　韓府通渭王範墅<lb/>
+　　　崑山王朗鏛<hi>萬厯</hi>
+　秦府保安王公錬<hi>成化</hi>
+　魯府安丘王陽鐆<hi>追封</hi>
+　瀋府清源王幼㘧<hi>𢎞治</hi>
+　代府懐仁王俊榭<hi>萬厯</hi>
+荘穆<lb/>
+　韓府襄陵王冲秌<hi>成化</hi>
+<pb n="KR2m0031_WYG_011-21b"/>
+　楚府夀昌王均<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>正徳</hi>
+荘安<lb/>
+　周府信陵王睦楃<hi>嘉靖</hi>
+　代府河内王充燨<lb/>
+　瀋府陵川王𦙍果<lb/>
+荘僖<lb/>
+　楚府崇陽王季堞<hi>景泰</hi>
+　岷府江川王音坄<hi>成化</hi>
+<pb n="KR2m0031_WYG_011-22a"/>
+　趙府湯陰王祁鏋<lb/>
+　徽府景寧王厚焮<lb/>
+　秦府永夀王誠淋<hi>𢎞治</hi>
+　晉府交城王鍾鐻<lb/>
+　寧府弋陽王宸汭<hi>正徳</hi>
+　淮府徳興王見㴫<lb/>
+　周府東㑹王安瀉<hi>嘉靖</hi>
+　　　義陽王睦楪<hi>萬厯</hi>
+<pb n="KR2m0031_WYG_011-22b"/>
+荘裕<lb/>
+　代府廣靈王仕<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>𢎞治</hi>
+　周府南陵王睦楧<hi>隆慶</hi>
+　蜀府江安王宣址<hi>萬厯</hi>
+荘康<lb/>
+　魯府樂陵王健概<lb/>
+荘和<lb/>
+　遼府衡陽王貴㷂<hi>天順</hi>
+<pb n="KR2m0031_WYG_011-23a"/>
+　周府永寧王同釾<hi>𢎞治</hi>
+　代府靈丘王成鈫<lb/>
+　荆府樊山王祐<graphic n="KR1712" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1712.png" mimeType="image/png"/>
+                    <hi>嘉靖</hi>
+　瀋府沁水王𦙍欀<lb/>
+荘惠<lb/>
+　晉府慶成王濟炫<hi>宣徳</hi>
+　寧世子　　磐烒<hi>正統</hi>
+　慶府真寜王秩熒<hi>景泰</hi>
+<pb n="KR2m0031_WYG_011-23b"/>
+　遼府枝江王貴熠<lb/>
+　秦府興平王志㙞<hi>天順</hi>
+　楚府永安王季塾<hi>成化</hi>
+　瀋府黎城王幼<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>一諡莊憲</hi>
+　　　唐山王恬熇<hi>萬厯</hi>
+　周府上洛王同<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>𢎞治</hi>
+　　　原武王睦㰋<hi>萬厯</hi>
+　　　順慶王朝埴<lb/>
+<pb n="KR2m0031_WYG_011-24a"/>
+　淮府南康王見湁<hi>嘉靖</hi>
+　崇府瑞安王載埴<lb/>
+　　　懐安王厚熑<hi>萬厯</hi>
+　益府金谿王厚煌<hi>嘉靖</hi>
+　代府進賢王俊樻<lb/>
+　　　隰川王俊栢<hi>隆慶</hi>
+　肅府㑹寧王真潤<lb/>
+　趙府江寧王載墣<hi>萬厯</hi>
+<pb n="KR2m0031_WYG_011-24b"/>
+　徽府懐慶王載塣<lb/>
+荘恪<lb/>
+　遼府沅陵王恩鈼<hi>𢎞治</hi>
+　周府海陽王勤炵<hi>萬厯</hi>
+荘順<lb/>
+　岷府南渭王譽橎<hi>嘉靖</hi>
+　周府内鄉王睦檝<lb/>
+　寧府建安王宸潚<lb/>
+<pb n="KR2m0031_WYG_011-25a"/>
+　遼府湘陰王憲烟<hi>萬厯</hi>
+荘隠<lb/>
+　代府隰川王成鈞<hi>𢎞治追封</hi>
+恭靜<lb/>
+　秦府興平王尚烐<hi>正統一作恭簡</hi>
+　周府鎮平王有爌<hi>成化</hi>
+　　　上洛王勤<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>萬厯</hi>
+　寧府石城王奠堵<hi>成化</hi>
+<pb n="KR2m0031_WYG_011-25b"/>
+　伊府西鄂王訏漈<hi>正徳</hi>
+　唐府文城王彌鉗<lb/>
+　襄府鎮寧王見瀷<hi>嘉靖</hi>
+　　　棗陽王厚爥<hi>萬厯</hi>
+　益府王山王厚㷷<hi>嘉靖</hi>
+　瀋府定陶王詮鑨<lb/>
+　　　遼山王勛澄<hi>萬厯</hi>
+　魯府鄒平王觀爁<hi>嘉靖</hi>
+<pb n="KR2m0031_WYG_011-26a"/>
+　韓府寧逺王謨垙<lb/>
+　　　永福王融樊<hi>萬厯</hi>
+　晉府河中王知炬<lb/>
+恭定<lb/>
+　瀋府沁源王佶㷆<hi>正統</hi>
+　楚府東安王季塛<hi>天順</hi>
+　趙府襄邑王祁鋥<hi>成化</hi>
+　魯府鉅野王陽鎣<hi>正德史作懿安</hi>
+<pb n="KR2m0031_WYG_011-26b"/>
+　周府永寧王睦橪<hi>嘉靖</hi>
+　鄭府繁昌王見寖<lb/>
+　慶府𢎞農王台泙<lb/>
+　晉府西河王竒溯<hi>通考作順簡</hi>
+　遼府湘陰王致梠<lb/>
+　秦府永興王惟<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>萬厯</hi>
+恭懿<lb/>
+　鄭府盟津王見<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>嘉靖追封</hi>
+<pb n="KR2m0031_WYG_011-27a"/>
+　周府胙城王睦梔<lb/>
+　淮府順昌王見漽<lb/>
+　秦府保安王秉棧<lb/>
+　唐府衛輝王彌鋿<lb/>
+　瀋府唐山王勛<graphic n="KR0697" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0697.png" mimeType="image/png"/>
+　代府進賢王充炨<lb/>
+　　　棗强王充燤<hi>萬厯</hi>
+　　　溧陽王俊椐<lb/>
+<pb n="KR2m0031_WYG_011-27b"/>
+　趙府江寧王厚煉<hi>嘉靖</hi>
+　韓府寧逺王融焕<lb/>
+　　　襄陵王謨墡<hi>萬厯</hi>
+　楚府東安王榮淑<hi>嘉靖</hi>
+　　　江夏王英熼<hi>萬厯</hi>
+　襄府鎮寧王厚熧<lb/>
+　荆府永新王載壕<lb/>
+　肅府㑹寧王縉□<lb/>
+<pb n="KR2m0031_WYG_011-28a"/>
+　遼府肅寧王致<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+　慶府豐林王鼒樲<lb/>
+　寧府弋陽王多焜<lb/>
+　晉府永和王慎鐳<lb/>
+　　　寧和王知灵<lb/>
+　　　靖安王知焝<lb/>
+恭簡<lb/>
+　代府襄垣王遜墰<hi>天順</hi>
+<pb n="KR2m0031_WYG_011-28b"/>
+　唐府新野王芝城<hi>成化</hi>
+　遼府湘陰王思鍖<hi>正徳</hi>
+　徳府泰安王祐<graphic n="KR4450" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4450.png" mimeType="image/png"/>
+　周府新㑹王同鏘<hi>嘉靖</hi>
+　　　保寧王朝堵<lb/>
+　　　義寧王勤<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <hi>萬厯</hi>
+　崇府瑞安王祐桓<hi>嘉靖</hi>
+　蜀府石泉王申鏄<lb/>
+<pb n="KR2m0031_WYG_011-29a"/>
+　晉府交城王竒洢<hi>追封</hi>
+　淮府徳興王祐槤<lb/>
+　趙府洛川王載墝<lb/>
+　魯府陽信王頥埔<lb/>
+　益府銅陵王載壤<lb/>
+　鄭府崇徳王載陞<hi>隆慶</hi>
+　韓府長泰王融焯<hi>萬厯</hi>
+恭憲<lb/>
+<pb n="KR2m0031_WYG_011-29b"/>
+　秦府永興王志墣<hi>景泰</hi>
+　遼府沅陵王貴燏<hi>成化</hi>
+　晉府河東王表枋<hi>正徳追封</hi>
+　代府河内王廷堄<hi>嘉靖</hi>
+　周府益陽王勤煜<lb/>
+　益府金谿王翊鑠<hi>萬厯</hi>
+恭肅<lb/>
+　周府河陰王睦橘<hi>隆慶</hi>
+<pb n="KR2m0031_WYG_011-30a"/>
+　遼府松滋王致槺<hi>萬厯</hi>
+恭荘<lb/>
+　周府内鄉王有焵<hi>天順</hi>
+恭昭<lb/>
+　周府鄢陵王睦枸<hi>萬厯</hi>
+恭裕<lb/>
+　韓府通渭王偕浢<hi>正徳</hi>
+　蜀府徳陽王申銈<hi>嘉靖</hi>
+<pb n="KR2m0031_WYG_011-30b"/>
+　晉府新化王表槏<hi>正徳</hi>
+　　　慶成王表欒<hi>嘉靖</hi>
+　周府博平王安㳚<lb/>
+　　　㑹稽王勤遴<hi>萬厯</hi>
+　瀋府永年王𦙍橚<hi>嘉靖</hi>
+　　　靈川王勛潪<hi>萬厯</hi>
+　　　清源王𦙍㭁<lb/>
+　魯府滋陽王觀煒<hi>嘉靖</hi>
+<pb n="KR2m0031_WYG_011-31a"/>
+　荆府樊山王厚焌<lb/>
+　遼府長陽王<lb/>
+　徽府景寧王祐椀<hi>萬厯</hi>
+　岷府唐年王膺録<lb/>
+恭端<lb/>
+　周府義陽王安汥<hi>嘉靖</hi>
+　　　儀封王在鑾<hi>萬厯</hi>
+　唐府郾城王彌鈱<hi>嘉靖</hi>
+<pb n="KR2m0031_WYG_011-31b"/>
+　晉府寧化王知爧<hi>萬厯</hi>
+恭恪<lb/>
+　魯府東甌王健楸<hi>隆慶</hi>
+　趙府南樂王載墲<hi>萬厯</hi>
+　瀋府鎮康王恬焯<lb/>
+恭惠<lb/>
+　岷府江川王徽煝<hi>成化</hi>
+　魯府樂陵王泰<graphic n="KR1551" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1551.png" mimeType="image/png"/>
+<pb n="KR2m0031_WYG_011-32a"/>
+　遼府衡山王貴煘<lb/>
+　韓府襄陵王範址<hi>正徳</hi>
+　周府魯陽王同鈮<hi>嘉靖</hi>
+　　　安昌王在鉷<hi>萬厯</hi>
+　代府和川王俊㰍<hi>嘉靖</hi>
+　徽府遂昌王祐樌<lb/>
+　伊府靖江王邦薴<hi>萬厯</hi>
+　鄭府徳慶王載封<lb/>
+<pb n="KR2m0031_WYG_011-32b"/>
+　淮府上饒王厚爚<lb/>
+　伊府方城王珂墦<lb/>
+恭和<lb/>
+　淮府永豐王祁鉞<hi>成化</hi>
+　周府項城王子堰<lb/>
+　　　曲江王安㵩<hi>正徳</hi>
+　代府懐仁王成鈀<hi>𢎞治</hi>
+　慶府安化王邃墁<hi>追封</hi>
+<pb n="KR2m0031_WYG_011-33a"/>
+　襄府陽山王見芳<hi>正徳</hi>
+　遼府益陽王恩銅<hi>嘉靖</hi>
+　瀋府福山王勛<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+　徽府伍城王載埻<lb/>
+　秦府永夀王秉欓<lb/>
+　蜀府慶符王賓沽<hi>隆慶</hi>
+　徳府寧海王載㘧<lb/>
+　楚府通城王英焀<hi>萬厯</hi>
+<pb n="KR2m0031_WYG_011-33b"/>
+　趙府平鄉王厚燝<lb/>
+　衡府髙唐王載墀<hi>追封</hi>
+恭穆<lb/>
+　周府應城王睦桎<hi>嘉靖</hi>
+　　　華亭王朝桓<hi>萬厯</hi>
+　徽府建徳王載塨<lb/>
+恭安<lb/>
+　趙府臨漳王祁鋆<hi>成化</hi>
+<pb n="KR2m0031_WYG_011-34a"/>
+　周府遂平王同鐎<hi>𢎞治</hi>
+　代府宣寧王成鈷<hi>正徳</hi>
+　魯府翼城王當澐<hi>嘉靖</hi>
+　韓府樂平王徴錏<lb/>
+　　　建寧王旭㮁<lb/>
+　益府王山王厚<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+恭康<lb/>
+　周府臨汝王同銜<hi>嘉靖</hi>
+<pb n="KR2m0031_WYG_011-34b"/>
+恭順<lb/>
+　遼府長垣王恩鉀<hi>正徳</hi>
+　周府崇善王安㴦<lb/>
+　　　原武王安淇<hi>嘉靖</hi>
+　　　邵陵王安潿<hi>萬厯</hi>
+　　　潁川王睦棌<lb/>
+　楚府永安王英焌<hi>嘉靖</hi>
+　代府吉陽王聰注<lb/>
+<pb n="KR2m0031_WYG_011-35a"/>
+　蜀府華陽王賔泟<lb/>
+　寧府臨川王奠埨<hi>追封</hi>
+　徽府嘉定王載㙐<hi>萬厯</hi>
+　韓府崐山王謨埦<lb/>
+　慶府𢎞農王倪<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+恭僖<lb/>
+　周府汝陽王有煽<hi>正統</hi>
+　　　奉新王勤<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>萬厯</hi>
+<pb n="KR2m0031_WYG_011-35b"/>
+　楚府岳陽王季境<hi>天順</hi>
+　晉府慶成王美埥<hi>景泰</hi>
+　　　雲丘王竒渲<hi>正徳</hi>
+　寧府瑞昌王奠墠<hi>成化</hi>
+　代府隰川王仕𡑞<lb/>
+　蜀府慶符王友墂<hi>𢎞治末年</hi>
+　　　汶川王賔沙<hi>嘉靖</hi>
+　瀋府内丘王幼璌<hi>正徳</hi>
+<pb n="KR2m0031_WYG_011-36a"/>
+　徽府陽城王祐欒<hi>嘉靖</hi>
+　魯府樂陵王觀燔<lb/>
+　淮府髙安王厚炅<lb/>
+　遼府光澤王致榞<lb/>
+　　　沅陵王致枇<hi>萬厯</hi>
+恭懐<lb/>
+　韓府漢陰王徴鍉<hi>成化</hi>
+敬安<lb/>
+<pb n="KR2m0031_WYG_011-36b"/>
+　韓世子　　璟浤<hi>萬厯</hi>
+簡靖<lb/>
+　晉府雲丘王美堣<hi>成化</hi>
+　　　廣昌王鍾䥏<lb/>
+　韓府長洲王謨墷<hi>萬厯</hi>
+　周府湯溪王朝型<lb/>
+簡定<lb/>
+　寧府建安王覲鋉<hi>嘉靖</hi>
+<pb n="KR2m0031_WYG_011-37a"/>
+靖懿<lb/>
+　趙府洛川王祁鋹<hi>成化</hi>
+　楚府永安王榮澹<hi>正徳</hi>
+靖荘<lb/>
+　代府宣寧王遜炓<hi>成化</hi>
+　寧府樂安王宸湔<hi>嘉靖</hi>
+靖恭<lb/>
+　楚府通山王孟爚<hi>正統</hi>
+<pb n="KR2m0031_WYG_011-37b"/>
+　晉府西河王美埻<hi>景泰</hi>
+　魯府安丘王泰坾<hi>成化</hi>
+　周府麗水王安汾<hi>正德一作恭順</hi>
+靖肅<lb/>
+　周府魯陽王安汞<hi>嘉靖</hi>
+靖簡<lb/>
+　楚府崇陽王孟煒<hi>正統</hi>
+　遼府松滋王豪堙<hi>𢎞治</hi>
+<pb n="KR2m0031_WYG_011-38a"/>
+　周府鄢陵王同鋖<hi>正徳</hi>
+靖惠<lb/>
+　晉府永和王表桻<hi>正徳</hi>
+靖和<lb/>
+　遼府蘄水王貴熡<hi>成化</hi>
+　晉世子　　竒源<hi>𢎞治</hi>
+　楚府夀昌王季㘧<lb/>
+　鄭府丹陽王見淕<hi>正徳</hi>
+<pb n="KR2m0031_WYG_011-38b"/>
+　秦府保安王誠漖<lb/>
+　周府沈丘王安涪<hi>嘉靖</hi>
+靖安<lb/>
+　代府棗强王成釨<hi>𢎞治史作安靖</hi>
+　周府汾西王安漕<hi>嘉靖</hi>
+　徽府太和王厚炬<hi>萬厯</hi>
+靖僖<lb/>
+　遼府枝江王豪壂<hi>天順</hi>
+<pb n="KR2m0031_WYG_011-39a"/>
+　周府永寧王有<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>成化</hi>
+僖靖<lb/>
+　瀋府平遙王佶煟<hi>正統</hi>
+　遼府衡陽王豪□<hi>𢎞治</hi>
+　代府靈丘王仕<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+　岷世子　　幹跬<hi>萬厯</hi>
+僖簡<lb/>
+　遼府蘄水王寵澍<lb/>
+<pb n="KR2m0031_WYG_011-39b"/>
+僖裕<lb/>
+　晉府義寧王表槻<hi>正徳</hi>
+僖安<lb/>
+　蜀府徳陽王友域<hi>成化</hi>
+　韓府樂平王範場<hi>𢎞治追封</hi>
+僖康<lb/>
+　代府懐仁王聰洌<hi>嘉靖追封一諡康僖</hi>
+僖穆<lb/>
+<pb n="KR2m0031_WYG_011-40a"/>
+　楚府通城王均钃<hi>𢎞治追封</hi>
+　趙府平鄉王祐楸<hi>嘉靖追封</hi>
+僖順<lb/>
+　魯府鉅野王泰墱<hi>成化</hi>
+　晉府寧化王美壤<lb/>
+　代府潞城王遜<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+　　　山陰王聰澍<hi>𢎞治</hi>
+　襄府棗陽王見沔<lb/>
+<pb n="KR2m0031_WYG_011-40b"/>
+　寧府弋陽王覲鐰<lb/>
+　周府封丘王同鉻<hi>嘉靖</hi>
+僖和<lb/>
+　韓府褒城王謨垣<hi>萬厯</hi>
+和靖<lb/>
+　慶府夀陽王台濠<hi>正徳</hi>
+和僖<lb/>
+　代府宣寧王仕嬴<hi>𢎞治</hi>
+<pb n="KR2m0031_WYG_011-41a"/>
+　秦府臨潼王誠澯<lb/>
+　遼府應山王恩鎦<lb/>
+穆憲<lb/>
+　周府魯陽王朝垬<hi>萬厯</hi>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0031_WYG_011-41b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　明諡紀彚編卷十一<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

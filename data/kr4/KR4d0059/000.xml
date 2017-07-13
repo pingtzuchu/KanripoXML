@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>提要<lb/>
+                </head>
+    <p>
+<pb n="KR4d0059_WYG_000-1a"/>
+欽定四庫全書　　　　　集部三<lb/>
+　提要<lb/>
+　　王魏公集七巻　　　　别集類二<hi>宋</hi>
+　　　　<hi>臣</hi>等謹案王魏公集七巻宋王安禮撰安禮<lb/>
+　　　　字和甫臨川人安石之弟也登嘉祐六年進<lb/>
+　　　　士第厯官翰林學士知開封府尚書左丞遷<lb/>
+　　　　資政殿學士知太原府事蹟具宋史本傳安<lb/>
+　　　　石兄弟三人惟安國數以正議見絀其文集<lb/>
+<pb n="KR4d0059_WYG_000-1b"/>
+　　　　亦湮没不傳安禮位稍通顯史稱其以經濟<lb/>
+　　　　自任而濶畧細謹故其生平一以知湖潤兩<lb/>
+　　　　州與倡女共飲論罷一以貪論罷屢躓屢起<lb/>
+　　　　蓋亦跅弛於法度之外者然其知制誥時因<lb/>
+　　　　彗星見極言執政大臣不察上惠養元元之<lb/>
+　　　　意用力殫于溝瘠取利究于園夫其語皆以<lb/>
+　　　　譏刺新法則于大體尚能持正固未可以一<lb/>
+　　　　節概貶之矣其集本二十卷見于宋史藝文<lb/>
+<pb n="KR4d0059_WYG_000-2a"/>
+　　　　志陳振孫書録解題者並同明葉盛菉竹堂<lb/>
+　　　　書目亦載有王魏公集六冊是明初尚有傳<lb/>
+　　　　本厥後諸家書目皆不著録葢自明中葉以<lb/>
+　　　　後已佚不存今從永樂大典散見各韻者裒<lb/>
+　　　　輯彚編釐為七巻其中内外制草頗典重可<lb/>
+　　　　觀敘事之文亦具有法度如沈季長元絳諸<lb/>
+　　　　誌銘尤足補史傳之闕以視安石雖規模稍<lb/>
+　　　　隘而核其體格固亦約畧相似也安禮封魏<lb/>
+<pb n="KR4d0059_WYG_000-2b"/>
+　　　　公史所不載惟田晝所撰王和甫家傳有云<lb/>
+　　　　累勲至上柱國爵魏郡開國公食邑三千户<lb/>
+　　　　食實封五百户葢宋每遇郊恩輙賜羣臣勲<lb/>
+　　　　封名號冗濫故史不盡載觀安禮所修靈䑓<lb/>
+　　　　秘苑今著録子部中者書前有安禮署銜一<lb/>
+　　　　條題上騎都尉劇縣開國男而本傳亦未之<lb/>
+　　　　及則其為史所畧者固已多矣乾隆四十六<lb/>
+　　　　年九月恭校上<lb/>
+<pb n="KR4d0059_WYG_000-3a"/>
+　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

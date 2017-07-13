@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>海鹽澉水志巻三</head> <lb/>
+    <p>
+<pb n="KR2k0019_WYG_003-1a"/>
+欽定四庫全書<lb/>
+　海鹽澉水志巻三<lb/>
+　　　　　　　　　　　　宋　常棠　撰<lb/>
+　　水門<lb/>
+　　　海在鎮東五里東達泉潮西通交廣南對㑹稽<lb/>
+　　　　北接江陰許浦中有蘇州洋逺徹化外西南<lb/>
+　　　　一潮至浙江名曰上潭自浙江一潮歸泊黄<lb/>
+　　　　灣又一潮到鎮岸名曰下潭東北十二里名<lb/>
+<pb n="KR2k0019_WYG_003-1b"/>
+　　　　曰白塔潭可泊舟㠶亦險要處雖在澉浦金<lb/>
+　　　　山兩軍之間相去隔遠夜暮緩急卒難應援<lb/>
+　　　　昔日朝廷欲立巡檢寨今澉浦水軍置舖於<lb/>
+　　　　此<lb/>
+　　　招寳塘在鎮市中海濱高峻易涸易盈淳熙元<lb/>
+　　　　年奉御筆命守臣趙善悉相視重濬面闊三<lb/>
+　　　　丈底闊二丈二尺深五丈市鎮止有此<lb/>
+　　　　渠<lb/>
+<pb n="KR2k0019_WYG_003-2a"/>
+　　　永安湖在鎮西南五里周圍一十二里元以民<lb/>
+　　　　田為湖儲水灌溉均其税於湖側田上税雖<lb/>
+　　　　重而田少旱四圍皆山中間小堤春時遊人<lb/>
+　　　　競渡行樂號為小西湖<lb/>
+　　　東浦在鎮東大海透入東北□頭潮入汲煑鹽<lb/>
+　　　鮑郎浦在鎮西北十二里古老云昔鹽塲開基<lb/>
+　　　　於此有姓鮑者鑿浦煑鹽因名曰鮑郎者吳<lb/>
+　　　　俗女夫之通稱也後沙漲移入東浦側紹興<lb/>
+<pb n="KR2k0019_WYG_003-2b"/>
+　　　　經界為田是浦接連招寳塘為河至今俗呼<lb/>
+　　　　為鮑郎浦又按南史孫恩作亂海鹽令鮑陋<lb/>
+　　　　遣子嗣之追奔陷沒於此<lb/>
+　　　放生池南渡以來本鎮創亭於海瀕收税即今<lb/>
+　　　　之弦風亭也亭之東鑿小湫每遇聖節鎮官<lb/>
+　　　　率合鎮見任寄居文武兩班於此祝聖放生<lb/>
+　　　艮澤黄道山下枕龍眼潭泊舟處地勢高峻客<lb/>
+　　　　旅居民無井可汲山之腰有泉源先是廟僧<lb/>
+<pb n="KR2k0019_WYG_003-3a"/>
+　　　　善機用工浚鑿以濟汲用淳祐十一年統制<lb/>
+　　　　邢子政開廣立屋三間因扁斯名<lb/>
+　　　六里堰在鎮西六里高下相去數仞為惠商澉<lb/>
+　　　　浦石帆三村灌田隄防之所縁舟船往來實<lb/>
+　　　　為入鎮門户因置車索今屬本鎮提督<lb/>
+　　　三里堰在鎮西三里元無此堰淳祐九年六月<lb/>
+　　　　大旱居民沿河私捺小堰至水通諸堰悉復<lb/>
+　　　　毁去獨此堰為居民私置車索邀求過往久<lb/>
+<pb n="KR2k0019_WYG_003-3b"/>
+　　　　為定例然軍船之往來鹽塲之綱運酒庫之<lb/>
+　　　　上下與夫税務諸塲之版解商旅搬載海崖<lb/>
+　　　　南貨别無他岐河流易涸實為不便況此方<lb/>
+　　　　既有六里堰足以防閉水利此堰贅立委是<lb/>
+　　　　為害淳祐十年茶院酒官朱南杰申縣開握<lb/>
+　　　　濟利一方但提督諸堰實𨽻鎮官常宜覺察<lb/>
+　　　　重捺邀求之弊<lb/>
+　　　孫家堰在鎮西南四里<lb/>
+<pb n="KR2k0019_WYG_003-4a"/>
+　　　沈家堰在鎮西南半里<lb/>
+　　　北湖堰在鎮西南蔡灣側<lb/>
+　　　鎮閘在鎮市中今𨽻鎮官司<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2k0019_WYG_003-4b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　海鹽澉水志巻三<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

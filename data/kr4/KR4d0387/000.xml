@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>蛟峯文集</head>
+    <p>
+<pb n="KR4d0387_WYG_000-1a"/>
+欽定四庫全書　　　　　集部四<lb/>
+　蛟峯文集　　　　　　　别集類三<hi>宋</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案蛟峯文集八巻宋方逢辰撰逢辰<lb/>
+　　　　初名夢魁字君錫淳安人登淳祐十年進士<lb/>
+　　　　第一理宗改賜今名官至吏部侍郎以母憂<lb/>
+　　　　歸徳祐初徴拜禮部尚書會父疾未赴宋亡<lb/>
+　　　　元世祖詔御史中丞崔彧起之于家以疾堅<lb/>
+<pb n="KR4d0387_WYG_000-1b"/>
+　　　　辭不出至正間修宋史有司不得其事狀故<lb/>
+　　　　不為立傳惟黄溍集中有所作逢辰墓表尚<lb/>
+　　　　畧見其始末明邵經邦作宏簡録始為補傳<lb/>
+　　　　然亦據溍所述不能有所增益也是集乃其<lb/>
+　　　　五世從孫䝉城知縣淵等所輯正集八巻前<lb/>
+　　　　七巻為逢辰詩文末一巻附以其弟逢振所<lb/>
+　　　　作逢振字君玉景定中登進士官至太府寺<lb/>
+　　　　簿亦國亡之後抗節不仕者也外集四巻則<lb/>
+<pb n="KR4d0387_WYG_000-2a"/>
+　　　　其七世從孫玉山知縣中所續輯凡逢辰厯<lb/>
+　　　　官誥勅及酬贈詩文皆在焉逢辰當丁大全<lb/>
+　　　　賈似道柄國之時皆能力抗其鋒持正不屈<lb/>
+　　　　其提㸃川東刑獄及爲江西轉運副使政績<lb/>
+　　　　亦俱有可觀惜其遺篇散佚所録奏劄惟寳<lb/>
+　　　　祐三年請除内豎一䟽尚存餘若論雷變論<lb/>
+　　　　邊備論吴潜去位賈似道匿敗諸劄子皆平<lb/>
+　　　　生建白之最著者墓表略見大槩而悉不載<lb/>
+<pb n="KR4d0387_WYG_000-2b"/>
+　　　　于集中其所掇拾大抵案牘簡札之文爲多<lb/>
+　　　　而策問一首至并考官評語載之盖散佚之<lb/>
+　　　　餘區區搜輯而成故不免識小而遺其大矣<lb/>
+　　　　乾隆四十六年四月恭校上<lb/>
+　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

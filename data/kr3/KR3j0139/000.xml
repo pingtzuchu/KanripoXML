@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>提要<lb/>
+                </head>
+    <p>
+<pb n="KR3j0139_WYG_000-1a"/>
+欽定四庫全書　　　　　子部十<lb/>
+　提要<lb/>
+　　日聞録　　　　　　　雜家類三<hi>雜説之屬</hi>
+　　　　<hi>臣</hi>等謹案日聞録一卷元李翀撰翀不見史<lb/>
+　　　　𫝊惟書中紀至正甲辰丙午間事下距洪武<lb/>
+　　　　元年僅一二載其人當巳入明然書中皆稱<lb/>
+　　　　元為國朝則前代遺老抱節不仕者也是書<lb/>
+　　　　多及厯代故事略如蔡邕獨斷崔豹古今註<lb/>
+<pb n="KR3j0139_WYG_000-1b"/>
+　　　　之體而辨論差詳多有可采亦間及元代軼<lb/>
+　　　　事蓋雜家者流其中如謂典命以九為節以<lb/>
+　　　　七為節以五為節即掌節之節殊屬臆斷又<lb/>
+　　　　謂唐以後有司給門旗二龍虎旗一之類乃<lb/>
+　　　　變節為旗不知周禮司常諸侯建旗孤卿建<lb/>
+　　　　旜大夫士建物師都建旂州里建旟縣鄙建<lb/>
+　　　　旐已各以旂常為表識不得云自唐以後始<lb/>
+　　　　變節為旗考證未免少疎又如真徳秀題三<lb/>
+<pb n="KR3j0139_WYG_000-2a"/>
+　　　　教圖之類亦未免𫝊聞附㑹然大致引據詳<lb/>
+　　　　核足與史志相㕘考數典者固宜有取也舊<lb/>
+　　　　本久佚今以永樂大典所載抄合排比編為<lb/>
+　　　　一卷千頃堂書目載有是書而題作者為凌<lb/>
+　　　　翀永樂大典所題亦有一條作凌翀然其餘<lb/>
+　　　　無作凌翀者今仍題李翀之名而附載姓氏<lb/>
+　　　　異同備考核焉<lb/>
+　　勤有堂隨録　　　　　雜家類三<hi>雜説之屬</hi>
+<pb n="KR3j0139_WYG_000-2b"/>
+　　　　臣等謹案勤有堂隨録一卷元陳櫟撰櫟有<lb/>
+　　　　書𫝊纂疏已著録此其隨筆劄記之文也雖<lb/>
+　　　　多談義理而頗兼考證於宋末元初諸人各<lb/>
+　　　　舉其學問之源流文章之得失非泛泛托諸<lb/>
+　　　　空言者其謂陳安卿為朱門第一人黄直卿<lb/>
+　　　　李方子多有差處謂楊誠齋亦間氣所生何<lb/>
+　　　　可輕議謂劉辰翁父喪七年不除為好怪釣<lb/>
+　　　　名尤平情之論不規規於門户之見者矣櫟<lb/>
+<pb n="KR3j0139_WYG_000-3a"/>
+　　　　定宇集前載有年表一卷稱至治三年年七<lb/>
+　　　　十二作勤有堂記則是書當成於晩年然其<lb/>
+　　　　記集中不載而集末别有朱升記一篇述其<lb/>
+　　　　曾孫鎜之言曰辛勤三十年始有此室廬韓<lb/>
+　　　　公詩也詩書勤乃有亦韓公詩也觀吾家堂<lb/>
+　　　　名者惑而弗辨請為記以昭之云云詳其詞<lb/>
+　　　　意主於櫟夫婦辛勤以有此堂蓋宋末建陽<lb/>
+　　　　余氏書坊亦名曰勤有堂故有是辨歟乾隆<lb/>
+<pb n="KR3j0139_WYG_000-3b"/>
+　　　　四十六年十二月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

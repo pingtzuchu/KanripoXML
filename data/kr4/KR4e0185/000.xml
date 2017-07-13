@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>遵巖集</head>
+    <p>
+<pb n="KR4e0185_WYG_000-1a"/>
+欽定四庫全書　　　　　集部六<lb/>
+　遵巖集　　　　　　　　别集類五<hi>明</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案遵巖集二十四巻眀王慎中撰慎<lb/>
+　　　　中字道思晉江人嘉靖丙戌進士官至河南<lb/>
+　　　　布政司参政事跡具眀史文苑傳正嘉之際<lb/>
+　　　　北地信陽聲華藉甚教天下無讀唐以後書<lb/>
+　　　　然七子之學得於詩者較深得於文者頗淺<lb/>
+<pb n="KR4e0185_WYG_000-1b"/>
+　　　　故其詩能自成家而古文則鉤章棘句剽襲<lb/>
+　　　　秦漠之面目遂成偽體史稱慎中為文初亦<lb/>
+　　　　髙談秦漢謂東京以下無可取已而悟歐曽<lb/>
+　　　　作文之法乃盡焚舊作一意師仿尤得力於<lb/>
+　　　　曽鞏唐順之初不服其説乆乃變而從之壯<lb/>
+　　　　年廢業益肆力於文演迤詳贍卓然成家與<lb/>
+　　　　順之齊名天下稱之曰王唐李攀龍王世貞<lb/>
+　　　　力排之卒不能掩也其詩則初為藻艶之格<lb/>
+<pb n="KR4e0185_WYG_000-2a"/>
+　　　　歸田以後又雜入講學之語頺然自放亦與<lb/>
+　　　　順之相似朱彛尊眀詩綜乃謂其五言文理<lb/>
+　　　　精宻嗣響顔謝而論者輙言文勝於詩未為<lb/>
+　　　　知音今考集中五言如逰西山普光寺睡起<lb/>
+　　　　登金山逰大眀湖諸篇固皆邃穆簡逺七言<lb/>
+　　　　如每夜猿聲如舎裏四時山色在城中萬井<lb/>
+　　　　遥分初日下羣山微見逺煙中琴聲初歇月<lb/>
+　　　　掛樹蓮唱㣲聞風滿川亦頗有風調然綜其<lb/>
+<pb n="KR4e0185_WYG_000-2b"/>
+　　　　全集之詩與文相較則淺深髙下自不能掩<lb/>
+　　　　文勝之論殆不盡誣彛尊之論不揣本而齊<lb/>
+　　　　其末矣慎中集舊有玩芳堂摘稿遵巖家居<lb/>
+　　　　諸刻率雜以少作是本乃隆慶辛未慎中子<lb/>
+　　　　同康及壻莊國禎稍為芟削重鋟較為精整<lb/>
+　　　　云乾隆四十六年十月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

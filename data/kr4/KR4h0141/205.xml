@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_205-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選卷二百五<lb/>
+　　爐類<hi>附火籠</hi>
+　　　四言古<lb/>
+　　　　熏爐銘　　　　　　　　　<hi>漢</hi>劉　向<lb/>
+　嘉此正器嶄巖若山上貫太華承以銅盤中有蘭綺朱<lb/>
+　火青煙<lb/>
+　　　　熏爐銘　　　　　　　　　<hi>漢</hi>李　尤<lb/>
+<pb n="KR4h0141_WYG_205-1b"/>
+　上似蓬萊吐氣委蛇芳煙布繞遥沖紫㣲<lb/>
+　　　五言古<lb/>
+　　　　古詩　　　　　　　　　　　闕　名<lb/>
+　四坐且莫喧願聽歌一言請說銅爐器崔巍象南山上<lb/>
+　枝似松柏下根據銅盤雕文各異類離婁自相連誰能<lb/>
+　為此器公輸與魯班朱火然其中青煙颺其間從風入<lb/>
+　君懐四座莫不歡香風難久居空令蕙草殘<lb/>
+　　　　詠竹火籠　　　　　　　　<hi>齊</hi>謝　朓<lb/>
+<pb n="KR4h0141_WYG_205-2a"/>
+庭雪亂如花井氷粲成玉因炎入貂袖懐温奉芳褥體<lb/>
+宻用宜通文邪性非曲本自江南墟㛹娟修且緑暫承<lb/>
+君玉指請謝陽春旭<lb/>
+　　　詠博山香爐　　　　　　　<hi>齊</hi>劉　繪<lb/>
+參差鬱佳麗合沓紛可憐蔽虧千種樹出没萬重山上<lb/>
+鏤秦王子駕鶴乘紫煙下刻蟠龍勢矯首半銜連傍為<lb/>
+伊水麗芝蓋出巖間復有漢遊女拾翠弄餘妍榮色何<lb/>
+雜糅縟繡更相鮮麕麚或騰倚林薄杳芊眠掩華終不<lb/>
+<pb n="KR4h0141_WYG_205-2b"/>
+發含薫未肯然風生玉階樹露湛曲池蓮寒蟲飛夜室<lb/>
+秋雲没曉天<lb/>
+　　　詠竹火籠　　　　　　　　<hi>梁</hi>蕭正徳<lb/>
+楨榦屈曲盡蘭麝氤氲消欲知懐炭日正是履霜朝<lb/>
+　　　和劉雍州博山香爐　　　　<hi>梁</hi>沈　約<lb/>
+範金誠可則摛思必良工凝芳自朱燎先鑄首山銅瓌<lb/>
+姿信嵒崿奇態實玲瓏峯嶝互相拒巖岫杳無窮赤松<lb/>
+遊其上斂足御輕鴻蛟螭盤其下驤首盻層穹嶺側多<lb/>
+<pb n="KR4h0141_WYG_205-3a"/>
+奇樹或孤或複叢巖間有佚女垂袂似含風翬飛若未<lb/>
+已虎視鬱餘雄登山起重障左右引絲桐百和清夜吐<lb/>
+蘭煙四面充如彼崇朝氣觸石繞華嵩<lb/>
+　　　詠五彩竹火籠　　　　　　　<hi>梁</hi>沈　氏<lb/>
+可憐潤霜質纎剖復毫分織作廻風縷製為縈綺文含<lb/>
+芳出珠被耀彩接緗裙徒嗟今麗飾豈念昔凌雲<lb/>
+　　長短句<lb/>
+　　　夜㑹問答　　　　　　　　　<hi>唐</hi>陸龜蒙<lb/>
+<pb n="KR4h0141_WYG_205-3b"/>
+金火障<hi>皮日休問</hi>紅獸飛光射羅幌夜來斜展掩深爐半睡芙<lb/>
+蓉香蕩漾<lb/>
+　　五言律<lb/>
+　　　別春爐　　　　　　　　　<hi>唐</hi>白居易<lb/>
+煖閣春初入温爐興稍闌晚風猶冷在夜火且留看獨<lb/>
+宿相依久多情欲別難誰能共天語長遣四時寒<lb/>
+　　　香鴨　　　　　　　　　　<hi>唐</hi>徐　夤<lb/>
+不假陶鎔妙誰敎羽翼全五金池畔質百和口中煙觜<lb/>
+<pb n="KR4h0141_WYG_205-4a"/>
+　鈍魚難啄心空火自燃御香如待爇須進聖君前<lb/>
+　　　五言絶句<lb/>
+　　　　香毬　　　　　　　　　　<hi>唐</hi>元　稹<lb/>
+　順俗惟團轉居中莫動揺愛君心不側猶訝火長燒<lb/>
+　　　　火爐前坐　　　　　　　　<hi>唐</hi>李羣玉<lb/>
+　孤燈照不寐風雨滿西林多少關心事書灰到夜深<lb/>
+　　　七言絶句<lb/>
+　　　　正月五日以送伴借官侍宴集英殿口號<lb/>
+<pb n="KR4h0141_WYG_205-4b"/>
+　　　　　　　　　　　　　　　　<hi>宋</hi>楊萬里<lb/>
+　金鬛狻猊立玉臺䨇瞻御座首都回水沈山麝薔薇露<lb/>
+　潄作香雲噴出來<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選卷二百五<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

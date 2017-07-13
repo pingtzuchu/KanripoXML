@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>資暇集</head>
+    <p>
+<pb n="KR3j0026_WYG_000-1a"/>
+欽定四庫全書　　　　　子部十<lb/>
+　資暇集　　　　　　　　雜家類二<hi>雜考之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案資暇集三巻唐李匡乂撰舊本或<lb/>
+　　　　題李濟翁葢宋刻避太祖諱故書其字如唐<lb/>
+　　　　修晋書稱石虎為石季龍或作李乂亦避諱<lb/>
+　　　　刋除一字如唐修隋書稱韓擒虎為韓擒實<lb/>
+　　　　一人也文獻通考一入雜家引書錄解題作<lb/>
+<pb n="KR3j0026_WYG_000-1b"/>
+　　　　李匡文一入小說家引讀書志作李匡義而<lb/>
+　　　　字濟翁則同陸㳺集有此書䟦亦作李匡文<lb/>
+　　　　王楙野客叢書作李正文然讀書志實作匡<lb/>
+　　　　乂諸書傳寫自悞耳匡乂始末未詳書中稱<lb/>
+　　　　再從叔翁汧公知為李勉從孫又稱宗人瀚<lb/>
+　　　　作蒙求載蘇武鄭衆事云云則晉翰林學士<lb/>
+　　　　李瀚之族其人當在唐末唐書藝文志有李<lb/>
+　　　　匡文兩漢至唐年紀一卷註曰昭宗時宗正<lb/>
+<pb n="KR3j0026_WYG_000-2a"/>
+　　　　少卿葢即匡乂書中但自稱守南漳葢所歴<lb/>
+　　　　之官非所終之官也讀書志載是書有匡乂<lb/>
+　　　　自序曰世俗之談類多訛誤雖有見聞嘿不<lb/>
+　　　　敢證故著此書上篇正誤中篇談原下篇本<lb/>
+　　　　物此本前有虞山錢遵王氏藏書印葢也是<lb/>
+　　　　園舊物末題埭川顧氏家塾梓行中間貞字<lb/>
+　　　　徴字完字皆闕筆葢南來所刋殷字亦尚闕<lb/>
+　　　　筆則猶刻於理宗以前宣祖未祧之時較近本<lb/>
+<pb n="KR3j0026_WYG_000-2b"/>
+　　　　為善然無此序疑裝緝者佚之書中亦不標<lb/>
+　　　　三篇之目其所說之事則皆與目應疑自序<lb/>
+　　　　乃櫽括之詞原未標目也其書大抵考訂舊<lb/>
+　　　　文黄伯思東觀餘論嘗駁其茶托一條黄朝<lb/>
+　　　　英緗素襍記嘗駁其儤直一條胡仔苕溪漁<lb/>
+　　　　隱叢話嘗駁其藥欄一條王楙野客叢書嘗<lb/>
+　　　　駁其急急如律令一條今觀所辨如千里不<lb/>
+　　　　唾井事云本因南朝宋之計吏不知玉臺新<lb/>
+<pb n="KR3j0026_WYG_000-3a"/>
+　　　　詠舊本載曹植代劉勲出妻王氏詩已有千<lb/>
+　　　　里不唾井况乃昔所奉句則宋計吏之說為<lb/>
+　　　　誤又蜀妓薛濤見於唐人詩集者無不作濤<lb/>
+　　　　此書獨作薛陶顯為訛字又解龍鍾為龍所<lb/>
+　　　　踐處亦渉穿鑿又全書均考證之文而穆寕<lb/>
+　　　　㗖熊白一條忽襍嘲謔襍事於體例尤為不<lb/>
+　　　　倫然如謂荀悦漢紀防將來之誤角里直書<lb/>
+　　　　禄里足騐用字上加一拂别作甪字之非謂<lb/>
+<pb n="KR3j0026_WYG_000-3b"/>
+　　　　論語宰予晝寝作畫寝乃梁武帝之說傷人<lb/>
+　　　　乎不問馬不字斷句乃經典釋文之說均不<lb/>
+　　　　始於韓愈筆解謂五臣註文選竊據李善之<lb/>
+　　　　本謂韓愈諱辨誤以杜度為氏謂有母之人<lb/>
+　　　　不可稱舅氏為渭陽謂作詩疏之陸璣名從<lb/>
+　　　　玉傍非士衡謂萬幾字訛作機由漢王嘉封<lb/>
+　　　　事謂除授二字有分以至座前閣下之别竹<lb/>
+　　　　甲題籖門杖之始皆引證分明足為典據其<lb/>
+<pb n="KR3j0026_WYG_000-4a"/>
+　　　　中鄼侯音鹺一條明焦竑作筆乗摭為異聞<lb/>
+　　　　不知属沛國者音鹺属南陽者音賛匡乂<lb/>
+　　　　已引鄒氏史記注駁讀鹺之非竑殆未見此<lb/>
+　　　　書也歟乾隆四十三年六月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

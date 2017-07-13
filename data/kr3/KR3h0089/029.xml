@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>西清古鑑卷二十六</head> <lb/>
+    <p>
+<pb n="KR3h0089_WYG_029-1a"/>
+欽定四庫全書<lb/>
+　西清古鑑卷二十六<lb/>
+　　觶<lb/>
+　　　商<lb/>
+　　　　祖已觶<hi>有銘</hi>
+　　　　父乙觶<hi>有銘</hi>
+　　　　父辛觶一<hi>有銘</hi>
+　　　　父辛觶二<hi>有銘</hi>
+<pb n="KR3h0089_WYG_029-1b"/>
+　　　　父辛觶三<hi>有銘</hi>
+　　　　父丁觶<hi>有銘</hi>
+　　　　饕餮觶<lb/>
+　　　　素觶<lb/>
+　　　周<lb/>
+　　　　庚觶<hi>有銘</hi>
+　　　　莽觶<hi>有銘</hi>
+　　　　<graphic n="KR1163" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1163.png" mimeType="image/png"/>觶<hi>有銘</hi>
+<pb n="KR3h0089_WYG_029-2a"/>
+　　　　車觶<hi>有銘</hi>
+　　　　女觶<hi>有銘</hi>
+　　　　邢觶<hi>有銘</hi>
+　　　　史觶<hi>有銘</hi>
+　　　　舉觶一<hi>有銘</hi>
+　　　　舉觶二<hi>有銘</hi>
+　　　　伯觶<hi>有銘</hi>
+　　　　季觶<hi>有銘</hi>
+<pb n="KR3h0089_WYG_029-2b"/>
+　　　　子觶<hi>有銘</hi>
+　　　　子東觶<hi>有銘</hi>
+　　　　子弓觶<hi>有銘</hi>
+　　　　執戈觶<hi>有銘</hi>
+　　　　豕觶<hi>有銘</hi>
+　　　　亞觶<hi>有銘</hi>
+　　　　䕫鳳觶<lb/>
+　　　　鳳紋觶<lb/>
+<pb n="KR3h0089_WYG_029-3a"/>
+　　　　饕餮觶<lb/>
+　　　　雷紋觶一<lb/>
+　　　　雷紋觶二<lb/>
+　　　　雷紋觶三<lb/>
+　　　　素觶一<lb/>
+　　　　素觶二<lb/>
+　　　　素觶三<lb/>
+　　　　素觶四<lb/>
+<pb n="KR3h0089_WYG_029-3b"/>
+　　　　素觶五<lb/>
+　　　　素觶六<lb/>
+　　　　素觶七<lb/>
+　　　　素觶八<lb/>
+　　　　素觶九<lb/>
+　　　　素觶十<lb/>
+　　　　素觶十一<lb/>
+　　角<lb/>
+<pb n="KR3h0089_WYG_029-4a"/>
+　　　周<lb/>
+　　　　子孫角<hi>有銘</hi>
+　　　　庚角<hi>有銘</hi>
+　　　　亞角<hi>有銘</hi>
+　　斗<lb/>
+　　　漢<lb/>
+　　　　錢文斗<lb/>
+　　　五代<lb/>
+<pb n="KR3h0089_WYG_029-4b"/>
+　　　　布泉斗<hi>有銘</hi>
+　　勺<lb/>
+　　　周<lb/>
+　　　　龍勺<lb/>
+　　卮<lb/>
+　　　漢<lb/>
+　　　　螭耳卮<lb/>
+　　　　素卮<lb/>
+<pb n="KR3h0089_WYG_029-5a"/>
+</p>
+<p>
+<pb n="KR3h0089_WYG_029-6a"/>
+右高三寸四分深二寸八分口徑一寸九分重四兩有<lb/>
+半博古圖有祖已爵銘與此同<lb/>
+<pb n="KR3h0089_WYG_029-7a"/>
+</p>
+<p>
+<pb n="KR3h0089_WYG_029-8a"/>
+右高四寸一分深三寸六分口縱二寸三分横二寸六<lb/>
+分重一十一兩<lb/>
+<pb n="KR3h0089_WYG_029-9a"/>
+</p>
+<p>
+<pb n="KR3h0089_WYG_029-10a"/>
+右高四寸四分深三寸五分口徑二寸三分重一十一<lb/>
+兩<lb/>
+<pb n="KR3h0089_WYG_029-11a"/>
+</p>
+<p>
+<pb n="KR3h0089_WYG_029-12a"/>
+右高三寸八分深三寸五分口縱二寸四分横二寸九<lb/>
+分重一十四兩<lb/>
+<pb n="KR3h0089_WYG_029-13a"/>
+</p>
+<p>
+<pb n="KR3h0089_WYG_029-14a"/>
+右高四寸六分深三寸七分口縱二寸横二寸三分重<lb/>
+一十兩<lb/>
+<pb n="KR3h0089_WYG_029-15a"/>
+</p>
+<p>
+<pb n="KR3h0089_WYG_029-16a"/>
+右高四寸一分深三寸三分口徑一寸九分重八兩<lb/>
+<pb n="KR3h0089_WYG_029-17a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3h0089_WYG_029-17b"/>
+右高五寸一分深四寸五分口徑二寸五分重一十一<lb/>
+兩<lb/>
+<pb n="KR3h0089_WYG_029-18a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3h0089_WYG_029-18b"/>
+右高四寸七分深四寸口徑二寸三分重一十一兩<lb/>
+<pb n="KR3h0089_WYG_029-19a"/>
+</p>
+<p>
+<pb n="KR3h0089_WYG_029-20a"/>
+右高四寸四分深三寸七分口縱一寸九分横二寸二<lb/>
+分重一十兩商三傳為沃丁之子太庚十四傳為沃甲<lb/>
+之子南庚十六傳為陽甲之子盤庚二十傳為武丁之<lb/>
+子祖庚二十四傳為廩辛之弟庚丁此銘庚作下曰辛<lb/>
+或疑為商器然只曰庚則太庚南庚庚丁又何以辨且<lb/>
+下曰辛又何以知非祖辛小辛廩辛而必於庚之一字<lb/>
+齗齗然也按商銘只一二字此稱作尊彝云云與他周<lb/>
+器類故當仍繫於周又博古圖於祖庚卣謂商二十五<lb/>
+<pb n="KR3h0089_WYG_029-20b"/>
+代之君曰祖庚考成湯至祖庚二十一世即史記殷譜<lb/>
+系圖並列未立之太丁亦二十二世耳兹並正之<lb/>
+<pb n="KR3h0089_WYG_029-21a"/>
+</p>
+<p>
+<pb n="KR3h0089_WYG_029-22a"/>
+右高四寸三分深三寸七分口徑二寸五分重一十兩<lb/>
+按列子周穆王篇西極之南隅名古莽之國此名一字<lb/>
+曰莽豈國名耶又鐘鼎欵識有莽史鼎薛尚㓛云莽則<lb/>
+薙氏掌殺草是莽又其官矣<lb/>
+<pb n="KR3h0089_WYG_029-23a"/>
+</p>
+<p>
+<pb n="KR3h0089_WYG_029-24a"/>
+右高四寸二分深三寸四分口徑二寸二分重九兩有<lb/>
+半按宋黄伯思作宋公鼎説謂<graphic n="KR1163" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1163.png" mimeType="image/png"/>者宋景公也以史記<lb/>
+年表考之則名頭曼以漢書古今人表考之則名兠欒<lb/>
+獨汲冡竹書稱景公<graphic n="KR1163" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1163.png" mimeType="image/png"/>者昭公子此名<graphic n="KR1163" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1163.png" mimeType="image/png"/>實宋景公物<lb/>
+博古圖有<graphic n="KR1163" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1163.png" mimeType="image/png"/>鼎謂<graphic n="KR1163" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1163.png" mimeType="image/png"/>於經傳無所見至<graphic n="KR1163" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1163.png" mimeType="image/png"/>鼎蓋亦謂為<lb/>
+宋景公而弗著竹書文今特詳之下曰女送女器也<lb/>
+<pb n="KR3h0089_WYG_029-25a"/>
+</p>
+<p>
+<pb n="KR3h0089_WYG_029-26a"/>
+右高四寸五分深三寸七分口徑二寸二分重一十一<lb/>
+兩<lb/>
+<pb n="KR3h0089_WYG_029-27a"/>
+</p>
+<p>
+<pb n="KR3h0089_WYG_029-28a"/>
+右通蓋高五寸六分深三寸口縱二寸一分横二寸七<lb/>
+分重二十五兩<lb/>
+<pb n="KR3h0089_WYG_029-29a"/>
+</p>
+<p>
+<pb n="KR3h0089_WYG_029-30a"/>
+右高五寸七分深五寸口徑二寸六分重一十一兩<lb/>
+<pb n="KR3h0089_WYG_029-31a"/>
+</p>
+<p>
+<pb n="KR3h0089_WYG_029-32a"/>
+右高四寸二分深三寸三分口縱二寸三分横二寸六<lb/>
+分重二十四兩<lb/>
+<pb n="KR3h0089_WYG_029-33a"/>
+</p>
+<p>
+<pb n="KR3h0089_WYG_029-34a"/>
+右通蓋高四寸一分深二寸四分口縱二寸六分横三<lb/>
+寸二分重一十五兩<lb/>
+<pb n="KR3h0089_WYG_029-35a"/>
+</p>
+<p>
+<pb n="KR3h0089_WYG_029-36a"/>
+右高四寸二分深三寸七分口徑一寸九分重一十一<lb/>
+兩<lb/>
+<pb n="KR3h0089_WYG_029-37a"/>
+</p>
+<p>
+<pb n="KR3h0089_WYG_029-38a"/>
+右高四寸五分深三寸九分口徑二寸六分重一十兩<lb/>
+<pb n="KR3h0089_WYG_029-39a"/>
+</p>
+<p>
+<pb n="KR3h0089_WYG_029-40a"/>
+右高四寸深三寸六分口縱二寸七分横三寸五分重<lb/>
+一十九兩<lb/>
+<pb n="KR3h0089_WYG_029-41a"/>
+</p>
+<p>
+<pb n="KR3h0089_WYG_029-42a"/>
+右高三寸六分深三寸四分口縱三寸四分横二寸九<lb/>
+分重一十二兩<lb/>
+<pb n="KR3h0089_WYG_029-43a"/>
+</p>
+<p>
+<pb n="KR3h0089_WYG_029-44a"/>
+右高四寸五分深三寸八分口縱二寸一分横二寸三<lb/>
+分重一十兩<lb/>
+<pb n="KR3h0089_WYG_029-45a"/>
+</p>
+<p>
+<pb n="KR3h0089_WYG_029-46a"/>
+右高三寸八分深三寸口縱二寸横二寸二分重九兩<lb/>
+有半<lb/>
+<pb n="KR3h0089_WYG_029-47a"/>
+</p>
+<p>
+<pb n="KR3h0089_WYG_029-48a"/>
+右高三寸九分深三寸三分口縱二寸二分横二寸五<lb/>
+分重一十三兩<lb/>
+<pb n="KR3h0089_WYG_029-49a"/>
+</p>
+<p>
+<pb n="KR3h0089_WYG_029-50a"/>
+右高三寸七分深三寸一分口縱二寸一分横二寸七<lb/>
+分重一十三兩凡象形曰羊曰豕者皆周制銘稱齊蓋<lb/>
+齊國物也<lb/>
+<pb n="KR3h0089_WYG_029-51a"/>
+</p>
+<p>
+<pb n="KR3h0089_WYG_029-52a"/>
+右通蓋高五寸深三寸口縱二寸四分横二寸六分重<lb/>
+二十三兩<lb/>
+<pb n="KR3h0089_WYG_029-53a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3h0089_WYG_029-53b"/>
+右高四寸二分深三寸三分口縱二寸一分横二寸五<lb/>
+分重一十二兩<lb/>
+<pb n="KR3h0089_WYG_029-54a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3h0089_WYG_029-54b"/>
+右高三寸三分深二寸四分口縱一寸八分横二寸一<lb/>
+分重九兩有半<lb/>
+<pb n="KR3h0089_WYG_029-55a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3h0089_WYG_029-55b"/>
+右高三寸八分深三寸四分口徑二寸七分重一十三<lb/>
+兩<lb/>
+<pb n="KR3h0089_WYG_029-56a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3h0089_WYG_029-56b"/>
+右高五寸一分深四寸四分口縱二寸二分横三寸二<lb/>
+分重二十五兩<lb/>
+<pb n="KR3h0089_WYG_029-57a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3h0089_WYG_029-57b"/>
+右高四寸五分深三寸六分口縱二寸一分横二寸三<lb/>
+分重九兩<lb/>
+<pb n="KR3h0089_WYG_029-58a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3h0089_WYG_029-58b"/>
+右高四寸五分深三寸九分口縱二寸二分横二寸五<lb/>
+分重九兩<lb/>
+<pb n="KR3h0089_WYG_029-59a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3h0089_WYG_029-59b"/>
+右高五寸三分深四寸四分口徑二寸二分重一十一<lb/>
+兩<lb/>
+<pb n="KR3h0089_WYG_029-60a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3h0089_WYG_029-60b"/>
+右高四寸二分深三寸六分口縱二寸五分横二寸九<lb/>
+分重一十三兩<lb/>
+<pb n="KR3h0089_WYG_029-61a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3h0089_WYG_029-61b"/>
+右高四寸一分深三寸六分口徑一寸六分重一十二<lb/>
+兩<lb/>
+<pb n="KR3h0089_WYG_029-62a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3h0089_WYG_029-62b"/>
+右高四寸五分深三寸六分口徑一寸九分重一十一<lb/>
+兩<lb/>
+<pb n="KR3h0089_WYG_029-63a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3h0089_WYG_029-63b"/>
+右高三寸九分深三寸二分口徑二寸一分重一十兩<lb/>
+<pb n="KR3h0089_WYG_029-64a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3h0089_WYG_029-64b"/>
+右高三寸二分深二寸八分口縱一寸八分横二寸三<lb/>
+分重七兩<lb/>
+<pb n="KR3h0089_WYG_029-65a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3h0089_WYG_029-65b"/>
+右高三寸一分深二寸五分口縱一寸九分横二寸四<lb/>
+分重九兩<lb/>
+<pb n="KR3h0089_WYG_029-66a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3h0089_WYG_029-66b"/>
+右高四寸深三寸二分口徑二寸二分重一十三兩<lb/>
+<pb n="KR3h0089_WYG_029-67a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3h0089_WYG_029-67b"/>
+右高三寸八分深三寸二分口縱一寸九分横二寸一<lb/>
+分重八兩<lb/>
+<pb n="KR3h0089_WYG_029-68a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3h0089_WYG_029-68b"/>
+右高　寸八分深二寸一分口徑二寸重六兩有半<lb/>
+<pb n="KR3h0089_WYG_029-69a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3h0089_WYG_029-69b"/>
+右高四寸九分深四寸口徑二寸重八兩<lb/>
+<pb n="KR3h0089_WYG_029-70a"/>
+</p>
+<p>
+<pb n="KR3h0089_WYG_029-71a"/>
+右通蓋高八寸八分深四寸口縱三寸六分横六寸五<lb/>
+分重六十九兩三足有鋬禮明堂位加以璧散璧角則<lb/>
+以玉為之周禮内宰謂之瑤爵至禮器所云卑者舉角<lb/>
+又特牲饋食禮主人洗角則此器是也銘作兩手拱物<lb/>
+形亦致敬之意云<lb/>
+<pb n="KR3h0089_WYG_029-72a"/>
+</p>
+<p>
+<pb n="KR3h0089_WYG_029-73a"/>
+右通蓋高七寸九分深三寸二分口縱二寸九分横六<lb/>
+寸二分重四十八兩三足有鋬庚字下象星為連珠形<lb/>
+兩旁曰丁易稱先庚三日而朱子謂先三日為丁良是<lb/>
+<pb n="KR3h0089_WYG_029-74a"/>
+</p>
+<p>
+<pb n="KR3h0089_WYG_029-75a"/>
+右通蓋高七寸三分深二寸四分口縱二寸五分横五<lb/>
+寸八分重三十二兩三足有流有鋬<lb/>
+<pb n="KR3h0089_WYG_029-76a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3h0089_WYG_029-76b"/>
+右通長一尺一寸二分深一寸五分口徑四寸八分重<lb/>
+一十九兩有柄<lb/>
+<pb n="KR3h0089_WYG_029-77a"/>
+</p>
+<p>
+<pb n="KR3h0089_WYG_029-78a"/>
+右通長一尺一寸五分深一寸三分口徑五寸一分重<lb/>
+二十一兩有柄按後周書武帝紀保定元年秋七月更<lb/>
+鑄錢文曰布泉又梁初所用男錢亦曰布泉列其文其<lb/>
+寓宜男之祝耶<lb/>
+<pb n="KR3h0089_WYG_029-79a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3h0089_WYG_029-79b"/>
+右高九分深八分通長二寸九分濶一寸八分重三兩<lb/>
+按龍勺雞彝並重皆宗廟器也<lb/>
+<pb n="KR3h0089_WYG_029-80a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3h0089_WYG_029-80b"/>
+右高三寸三分深三寸二分口徑二寸八分腹圍一尺<lb/>
+一寸一分重一十九兩按卮字惟卮言見於莊子至玉<lb/>
+卮上壽及賜以卮酒皆楚漢時語今内府二器與博古<lb/>
+圖所載諸漢卮相近因錄之<lb/>
+<pb n="KR3h0089_WYG_029-81a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3h0089_WYG_029-81b"/>
+右高四寸三分深四寸二分口徑三寸三分腹圍一尺<lb/>
+五寸重一十七兩<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　西清古鑑卷二十六<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

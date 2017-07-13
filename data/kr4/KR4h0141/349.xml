@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_349-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選巻三百四十九<lb/>
+　　山丹花類<lb/>
+　　　五言古<lb/>
+　　　　次韻子由所居　　　　　　<hi>宋</hi>蘇　軾<lb/>
+　堂前種山丹錯落馬腦盤堂後種秋菊碎金收辟寒草<lb/>
+　木如有情慰此芳嵗闌幽人正獨樂不知行路難<lb/>
+　　　　山丹　　　　　　　　　　<hi>宋</hi>朱子<lb/>
+<pb n="KR4h0141_WYG_349-1b"/>
+　昔遊嶺海間㡬見蠻卉拆素英溥夕露朱蘤爛晴日歸<lb/>
+　来今㡬年晤對秪寒碧因君賦山丹恱復見顔色<lb/>
+　　　七言律<lb/>
+　　　　山丹花　　　　　　　　　<hi>宋</hi>楊萬里<lb/>
+　春去無芳可得尋山丹最晚出雲林柿紅一色眀羅袖<lb/>
+　金粉羣蟲集寳簮花似鹿葱還耐久葉如芍藥不多深<lb/>
+　青泥瓦斛移山蘤聊著書窗伴小吟<lb/>
+御定佩文齋詠物詩選巻三百四十九<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

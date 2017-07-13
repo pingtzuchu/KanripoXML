@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>麗澤論説集錄</head>
+    <p>
+<pb n="KR3a0052_WYG_000-1a"/>
+欽定四庫全書　　　　　子部一<lb/>
+　麗澤論説集錄　　　　　儒家類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案麗澤論說集録十卷宋吕祖謙門<lb/>
+　　　　人雜錄其師之説也前有祖謙從子喬年題<lb/>
+　　　　記稱先君嘗所裒輯不可以不傳故今仍據<lb/>
+　　　　舊錄頗附益次比之喬年爲祖謙弟祖儉之<lb/>
+　　　　子則蒐錄者爲祖儉喬年又補綴次第之矣<lb/>
+<pb n="KR3a0052_WYG_000-1b"/>
+　　　　凡易説二卷詩説拾遺一卷周禮説一卷禮<lb/>
+　　　　記説一卷論語説一卷孟子説一卷史説一<lb/>
+　　　　卷雜説二卷皆冠以門人集錄字明非祖謙<lb/>
+　　　　所手著也祖謙初與朱子相得後以爭論毛<lb/>
+　　　　詩不合遂深相排斥黎靖徳所編語類以論<lb/>
+　　　　祖謙兄弟者别爲一卷其中論祖謙者凡三<lb/>
+　　　　十二條惟病中讀論語一條稍稱其善答項<lb/>
+　　　　平甫書罵曹立之書一條稱編其集者誤収<lb/>
+<pb n="KR3a0052_WYG_000-2a"/>
+　　　　他文其餘三十條於其著作詆繫辭精義者<lb/>
+　　　　二詆讀詩記者二詆大事記者五詆少儀外<lb/>
+　　　　傳者一詆宋文鑑者五詆東萊文集者三其<lb/>
+　　　　餘十一條則皆詆其學問如云東萊博學多<lb/>
+　　　　識則有之矣守約恐未也又云伯恭之弊盡<lb/>
+　　　　在於巧又云伯恭説義理大都傷巧未免杜<lb/>
+　　　　撰又云伯恭教人㸔文字也麤又云東萊聰<lb/>
+　　　　明㸔文理却不仔細緣他先讀史多所以㸔<lb/>
+<pb n="KR3a0052_WYG_000-2b"/>
+　　　　麤著眼又云伯恭於史分外仔細於經却不<lb/>
+　　　　甚理㑹又云伯恭要無不包羅只是撲過都<lb/>
+　　　　不精可謂抵隙攻瑕不遺餘力托克托等脩<lb/>
+　　　　宋史因置祖謙儒林傳中使不得列于道學<lb/>
+　　　　吕喬年記亦稱講說所及而門人記錄之者<lb/>
+　　　　祖謙無恙時嘗以其多舛戒無傳習殆亦陰<lb/>
+　　　　解朱子之説欲歸其失于門人也然當其投<lb/>
+　　　　契之時則引之同定近思錄使預聞道統之<lb/>
+<pb n="KR3a0052_WYG_000-3a"/>
+　　　　傳當其牴牾以後則字字譏彈身無完膚毋<lb/>
+　　　　亦負氣相攻有激而然歟語類載李方子所<lb/>
+　　　　記云伯恭更不教人讀論語而此書第六卷<lb/>
+　　　　爲門人集錄論語説六十八條又何以稱焉<lb/>
+　　　　道學之譏儒林也曰不聞道儒林之譏道學<lb/>
+　　　　也曰不稽古齗齗相持至今未已夫學者窮<lb/>
+　　　　研經義始可斷理之是非亦必博覽史書始<lb/>
+　　　　可知事之得失博學反約古有明訓朱氏之<lb/>
+<pb n="KR3a0052_WYG_000-3b"/>
+　　　　學精矣吕氏之學亦何可盡廢耶乾隆四十<lb/>
+　　　　六年四月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

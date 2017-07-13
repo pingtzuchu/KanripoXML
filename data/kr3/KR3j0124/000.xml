@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3j0124_SBCK_000-1a"/>
+愧郯録序<lb/>
+　　　　　　　相　臺　岳　珂<lb/>
+昔者吾夫子求文獻於𣏌而不足證學雲户<lb/>
+於郯而有餘師方春秋時二國在諸使間爙<lb/>
+地生齒廣輪衆寡亡以大相過也其齊僅存<lb/>
+焉耳矣而𣏌之志若曰吾蕞爾邑要非天下<lb/>
+之所取正周禮秉魯夏盟主晉舊章故府之<lb/>
+藏不彼即焉而遐哉邈乎之問乃及於我是<lb/>
+何庸知維郯則異然謂吾之𥚹陋誠不足以<lb/>
+<pb n="KR3j0124_SBCK_000-1b"/>
+儕諸建國而金天百丗之澤且幸至于今而<lb/>
+未斬况夫統系之所接傳聞之所逮是區區<lb/>
+者而不余守則暴棄之<graphic n="KR1412" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1412.png" mimeType="image/png"/>其將何辭以諉夫<lb/>
+人是故典則之在王府一忽其詒則與和鈞關<lb/>
+石俱蕩於浮埃惟不自安於陋顧如典墳朴<lb/>
+略之餘聖人之所不能悉識者亦或可歷陳<lb/>
+而枚舉然則謂丗有先後國有聾昭而不存<lb/>
+乎其人焉可不可也<lb/>
+國朝受命<lb/>
+<pb n="KR3j0124_SBCK_000-2a"/>
+丗有顯德<lb/>
+典章文物之盛跨王軼帝二百七八十年間<lb/>
+名公鉅卿所以討論潤色之者固巳無餘藴<lb/>
+矣而又禮掌於頌臺議參於儒館彌闕軼訂<lb/>
+同異間承之以有位之文者俾畢得以獻疑<lb/>
+而稡聞則出位之言固非羣有司之所當與<lb/>
+抑猶聞之郯之來也魯固逆陋之矣叔孫昭<lb/>
+子之問聊以藉俎豆之口而郯子奮然曰我<lb/>
+知之不俟申言之及纚纚其辭累數百言而<lb/>
+<pb n="KR3j0124_SBCK_000-2b"/>
+不少止郯未甞以揜人自疑而魯多君子亦<lb/>
+不以其強聒爲疑也若夫𣏌則自棄矣襲媮<lb/>
+益洿毎視己爲不足進至取通國之禮而夷<lb/>
+之一字之貶屢加而曽不知所以爲耻學者循<lb/>
+其末流而遡其所志輕重且將誰擇哉珂晚<lb/>
+學其位于<lb/>
+朝又羣有司之賤者也譬諸小國無證𣏌之<lb/>
+責而有睎郯之心凡其廷紳之所緒聞諜記<lb/>
+之所膚受隱而不合必求其當博取精覈使<lb/>
+<pb n="KR3j0124_SBCK_000-3a"/>
+皆有据依而後牘之蓋不敢以陋自處而懼<lb/>
+其班於學域之夷博識之士或以吾夫子之<lb/>
+不耻於問者而就正焉則亦庶乎其有一得<lb/>
+之愚也凡書皆<lb/>
+祖宗若<lb/>
+當丗事名前哲所以尊<lb/>
+朝廷爲卷者十有五緫一百十七則命之曰<lb/>
+郯以志其愧嘉定焉逢淹茂歲圉如旣望<lb/>
+謹序<lb/>
+<pb n="KR3j0124_SBCK_000-3b"/>
+<pb n="KR3j0124_SBCK_000-4a"/>
+愧郯録目録<lb/>
+　　　　　　　相　臺　岳　珂<lb/>
+　卷第一<hi>十一則</hi>
+　　　祖宗徽稱<lb/>
+　　　五字定制<lb/>
+　　　崇政改謚<lb/>
+　　　后謚因革<lb/>
+　　　隆祐壽康宫<lb/>
+　　　申福殿<lb/>
+<pb n="KR3j0124_SBCK_000-4b"/>
+　　　永崇陵<lb/>
+　　　追改陵名<lb/>
+　　　郊廟之誄<lb/>
+　　　號謚之異<lb/>
+　　　宗室聮名<lb/>
+　卷第二<hi>八則</hi>
+　　　近屬名制<lb/>
+　　　宗廟舊諱<lb/>
+　　　舊諱訓名<lb/>
+<pb n="KR3j0124_SBCK_000-5a"/>
+　　　御名不聮字<lb/>
+　　　淳熈南衙<lb/>
+　　　孝明后制<lb/>
+　　　宗族之别<lb/>
+　　　聖旨教令之别<lb/>
+　卷第三<hi>六則</hi>
+　　　南北郊<lb/>
+　　　思陵近誤<lb/>
+　　　諸陵複名<lb/>
+<pb n="KR3j0124_SBCK_000-5b"/>
+　　　館學輕重<lb/>
+　　　階官避家諱<lb/>
+　　　贈官回避<lb/>
+　卷第四<hi>五則</hi>
+　　　先廟後郊<lb/>
+　　　魚袋<lb/>
+　　　服章入銜<lb/>
+　　　執政階官封爵<lb/>
+　　　尚書之名<lb/>
+<pb n="KR3j0124_SBCK_000-6a"/>
+　卷第五<hi>九則</hi>
+　　　永固更號<lb/>
+　　　熈寧崇寧年號<lb/>
+　　　泰安宫<lb/>
+　　　五齊三酒<lb/>
+　　　齊酒廢革<lb/>
+　　　牲牢均胙<lb/>
+　　　副本縁起<lb/>
+　　　百官轉對<lb/>
+<pb n="KR3j0124_SBCK_000-6b"/>
+　　　任子分授<lb/>
+　卷第六<hi>十二則</hi>
+　　　寺監簿職守<lb/>
+　　　牙魚不可服用<lb/>
+　　　眞徽沔三州<lb/>
+　　　國名寓意<lb/>
+　　　辛簡穆謚<lb/>
+　　　修書恩數<lb/>
+　　　閩中譌傳兆域<lb/>
+<pb n="KR3j0124_SBCK_000-7a"/>
+　　　開元寺<lb/>
+　　　紹興嘉泰二詞<lb/>
+　　　北使借官<lb/>
+　　　官年實年<lb/>
+　　　仙釋異教之禁<lb/>
+　卷第七<hi>二則</hi>
+　　　官品名意之訛<lb/>
+　　　散階勲官寄禄功臣檢校試銜<lb/>
+　卷第八<hi>十則</hi>
+<pb n="KR3j0124_SBCK_000-7b"/>
+　　　年號閣名<lb/>
+　　　陞建府鎭<lb/>
+　　　昇定建府<lb/>
+　　　鎭號封國<lb/>
+　　　詞科宗室二制<lb/>
+　　　中司論事<lb/>
+　　　給舎論駮<lb/>
+　　　帶節降麻<lb/>
+　　　納節舊典<lb/>
+<pb n="KR3j0124_SBCK_000-8a"/>
+　　　彭輅告詞<lb/>
+　卷第九<hi>十則</hi>
+　　　禮殿坐像<lb/>
+　　　作邑之制<lb/>
+　　　歳降度牒<lb/>
+　　　宣緫公移<lb/>
+　　　書記支使<lb/>
+　　　樞宻稱呼<lb/>
+　　　國忌日斷刑<lb/>
+<pb n="KR3j0124_SBCK_000-8b"/>
+　　　官品不分别<lb/>
+　　　金年號<lb/>
+　　　場屋編類之書<lb/>
+　卷第十<hi>七則</hi>
+　　　人品明證<lb/>
+　　　改易職事官名稱<lb/>
+　　　李文簡奏藁<lb/>
+　　　同二品<lb/>
+　　　旌節<lb/>
+<pb n="KR3j0124_SBCK_000-9a"/>
+　　　慈德宫<lb/>
+　　　寺觀勑差住持<lb/>
+　卷第十一<hi>五則</hi>
+　　　制舉科目<lb/>
+　　　追冊后<lb/>
+　　　后陵名樂舞<lb/>
+　　　上后謚官<lb/>
+　　　告謚祖廟<lb/>
+　卷第十二<hi>七則</hi>
+<pb n="KR3j0124_SBCK_000-9b"/>
+　　　文武服帶之制<lb/>
+　　　非宰執賜笏頭帶<lb/>
+　　　開禧復泗州赦<lb/>
+　　　宫禁進見<lb/>
+　　　刋進書載表卷首<lb/>
+　　　金銀牌<lb/>
+　　　古今祠厲<lb/>
+　卷第十三<hi>十則</hi>
+　　　指南記里鼓車<lb/>
+<pb n="KR3j0124_SBCK_000-10a"/>
+　　　京師木工<lb/>
+　　　國忌設齋<lb/>
+　　　皇祐差牒<lb/>
+　　　紹興儲議<lb/>
+　　　遂國記誤<lb/>
+　　　武定軍<lb/>
+　　　金版<lb/>
+　　　薦饗太廟<lb/>
+　　　冷端甲<lb/>
+<pb n="KR3j0124_SBCK_000-10b"/>
+　卷第十四<hi>七則</hi>
+　　　九閣<lb/>
+　　　天章閣侍講班次<lb/>
+　　　天章閣<lb/>
+　　　天章閣官名<lb/>
+　　　敷文閣<lb/>
+　　　直省官<lb/>
+　　　藩邸旌節<lb/>
+　卷第十五<hi>八則</hi>
+<pb n="KR3j0124_SBCK_000-11a"/>
+　　　外戚贈王爵<lb/>
+　　　贈官不改國<lb/>
+　　　鎻小殿子<lb/>
+　　　國𥘉宫禁節料錢<lb/>
+　　　赦宥之數<lb/>
+　　　祖宗朝田米直<lb/>
+　　　潜藩節鎮<lb/>
+　　　官稱不避曹司<lb/>
+<pb n="KR3j0124_SBCK_000-11b"/>
+<pb n="KR3j0124_SBCK_000-12a"/>
+</p>
+<p>
+此宋刻愧郯錄八册計十五卷雖其間抄者<lb/>
+七十五葉空白者十葉然以意揣之抄者必<lb/>
+非無據空白者亦是闕疑仍不失爲古書<lb/>
+之舊頃從杭州書友處寄来易白金一<lb/>
+觔而去余取知不足齋所刻本相勘行<lb/>
+欵正同空白亦合當是此刻所翻則此<lb/>
+誠祖本矣卷中有楊夢羽圖章知<lb/>
+爲吴郡故物今復得弓玉之還不亦<lb/>
+<pb n="KR3j0124_SBCK_000-12b"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

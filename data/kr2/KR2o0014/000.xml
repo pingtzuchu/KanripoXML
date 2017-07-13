@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>通鑑答問</head>
+    <p>
+<pb n="KR2o0014_WYG_000-1a"/>
+欽定四庫全書　　　　　史部十五<lb/>
+　通鑑答問　　　　　　　史評類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案通鑑答問五卷宋王應麟撰應麟<lb/>
+　　　　有周易鄭康成註已著錄此玉海之未附刋<lb/>
+　　　　十三種之一始自周威烈王終於漢元帝葢<lb/>
+　　　　未成之本也其書以通鑑問答為名而多涉<lb/>
+　　　　於朱子綱目葢綱目本因通鑑而作故應麟<lb/>
+<pb n="KR2o0014_WYG_000-1b"/>
+　　　　所論出入於二書之間其所評隲惟漢高白<lb/>
+　　　　帝子事以為二家偶失刋削孔臧元朔三年<lb/>
+　　　　免太常一條疑誤採孔叢子其餘則尊崇新<lb/>
+　　　　例似尹起莘之發明刻覈古人似胡寅之管<lb/>
+　　　　見如漢高帝過魯祀孔子本無可貶乃反譏<lb/>
+　　　　漢無真儒文帝除盜鑄之令本不可訓乃反<lb/>
+　　　　稱仁及天下與應麟所著他書殊不相類其<lb/>
+　　　　真贗葢不可知或王厚孫刻玉海時偽作此<lb/>
+<pb n="KR2o0014_WYG_000-2a"/>
+　　　　編以附其祖於道學歟然别無顯證無由確<lb/>
+　　　　驗其非姑取其大㫖之不詭於正可矣乾隆<lb/>
+　　　　四十六年十一月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2k0039_WYG_004-1a"/>
+欽定四庫全書<lb/>
+欽定皇輿西域圖志卷八<lb/>
+　疆域<lb/>
+　　<hi>臣</hi>等謹按古者度地分野辨服區州禹跡成經職<lb/>
+　　方命氏申郊圻而固封守列藩鎮以周天下莫不<lb/>
+　　賅通八埏條貫九域此地理郡國之志所由作也<lb/>
+　　若夫大荒以外提封不及號稱四塞而西境尤廣<lb/>
+　　夏書即叙之義僅紀流沙王制狄鞮之通未區方<lb/>
+<pb n="KR2k0039_WYG_004-1b"/>
+　　域三代以降紀載日詳班范二史舊稱該洽亦不<lb/>
+　　過臚列國之名稱凖道里之逺近其於都城亭堡<lb/>
+　　之殊形原隰墟沙之異致罕得而詳焉唐志西域<lb/>
+　　兼採釋氏所述稱名頗異於古列為州府僅曰羈<lb/>
+　　縻錯壤之疆域不分領州之名號或缺揆厥所由<lb/>
+　　豈非存駕馭之名鮮開闢之實有都䕶校尉之置<lb/>
+　　而不能革單于之頭銜有安西北庭之𨽻而不能<lb/>
+　　登農部之版籍是以方隅觕具圭臬難徴也歟我<lb/>
+<pb n="KR2k0039_WYG_004-2a"/>
+　　朝統壹函夏式廓丕基兹復㑹逄<lb/>
+　　盛際收凖夷之疆索輯回部之昄章其人民足以守<lb/>
+　　　耕牧之業其土宜足以昭貢賦之經爰設郡縣建<lb/>
+　　　學校與内地赤縣神州相表裏固已逺軼漢唐而<lb/>
+　　　上矣今試覧其崖畧玉闗東峙洱海西環廬帳區<lb/>
+　　　分城垣保界莫不仰流鱗集繩貫絲聯以成大一<lb/>
+　　　統之盛於是區列部以居方辨廣輪而知數首紀<lb/>
+　　　安西南北路次紀天山南北路表百餘年<lb/>
+<pb n="KR2k0039_WYG_004-2b"/>
+謨烈之長著二萬里<lb/>
+　聲靈之逺其歴代以來沿革故寔史傳足徵者亦隨地<lb/>
+　　　引證使首尾貫穿用資考鏡夫不履虞淵之濵不<lb/>
+　　　知日月之所届不登崑崙之頂不悟天地之無窮<lb/>
+　　　<hi>臣</hi>等躬逢<lb/>
+　郅治記載<lb/>
+　鴻圖括兩戒於階庭鞏九州如戸闥是誠伊古以來郡<lb/>
+　　　國地理諸書所未臻之極軌也志疆域第五<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

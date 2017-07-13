@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>海鹽澉水志巻四</head> <lb/>
+    <p>
+<pb n="KR2k0019_WYG_004-1a"/>
+欽定四庫全書<lb/>
+　海鹽澉水志巻四<lb/>
+　　　　　　　　　　　　宋　常棠　撰<lb/>
+　　廨舎門<lb/>
+　　　鎮廨昔鹽塲兼職嘉定十四年察院羅君相請<lb/>
+　　　　分專員紹定六年羅叔韶始買丁橋東民地<lb/>
+　　　　以剏廨<lb/>
+　　　鮑郎鹽塲廨在通江橋側<lb/>
+<pb n="KR2k0019_WYG_004-1b"/>
+　　　巡檢廨在安德橋側<lb/>
+　　坊巷門<lb/>
+　　　阜民坊在鎮前街西<lb/>
+　　　張家衖在鎮市北<lb/>
+　　　張搭衖在鎮市南<lb/>
+　　　義井巷在鎮市南<lb/>
+　　　塘門衖在鎮市南<lb/>
+　　　廣福坊在鎮前街東<lb/>
+<pb n="KR2k0019_WYG_004-2a"/>
+　　　馬官人衖在鎮市南<lb/>
+　　　海鹽衖在鎮市北<lb/>
+　　坊塲門<lb/>
+　　　澉浦税塲係鎮官兼職嘉定十四年朱俯修鹽<lb/>
+　　　　塲得舊額有騎都尉監澉浦鎮税兼鮑郎鹽<lb/>
+　　　　塲大觀二年重修字朱俯以前却以鮑郎鹽<lb/>
+　　　　塲兼澉浦鎮税烟火公事繋衘至是始分專<lb/>
+　　　　員<lb/>
+<pb n="KR2k0019_WYG_004-2b"/>
+　　　鮑郎鹽塲東亭元五竈南亭四竈縁東亭人貧<lb/>
+　　　　額重南亭人多盤少嘉定十四年十二月申<lb/>
+　　　　明倉臺移東亭一盤過南亭添作五舎東亭<lb/>
+　　　　減作四舍<lb/>
+　　　戸部犒賞子庫酒庫昔在璵城後遷茶院去鎮<lb/>
+　　　　西一十二里紹興初有鞠姓者抱倅㕔緡錢<lb/>
+　　　　繼屬漕司庫官兼之因立子庫於市淳祐八<lb/>
+　　　　年增剏新樓<lb/>
+<pb n="KR2k0019_WYG_004-3a"/>
+　　　市舶塲在鎮東海岸淳祐六年創市舶官十年<lb/>
+　　　　置塲<lb/>
+　　　抽解竹木舊係監鎮提督抱納漕司竹木錢淳<lb/>
+　　　　祐四年漕使袁右司差專官下鎮抽解自後<lb/>
+　　　　為例鎮官無預抽解抱納錢如故雇𤼵<lb/>
+　　　鐵布軍需塲鐵布舊屬鎮税淳祐九年浙西安<lb/>
+　　　　撫司差官下鎮置局<lb/>
+　　軍寨門<lb/>
+<pb n="KR2k0019_WYG_004-3b"/>
+　　　水軍寨在鎮東海岸淳祐間撥許浦水軍百人<lb/>
+　　　　於長墻山下嵗易一戍開禧丙寅統制王復<lb/>
+　　　　古置寨𨽻殿司<lb/>
+　　　巡檢營在鎮市浦東<lb/>
+　　亭堂門<lb/>
+　　　弦風亭在海岸即鎮官收税之地紹熙間監鎮<lb/>
+　　　　葉樾創名曰觀瀾寳慶三年監鎮趙潜夫改<lb/>
+　　　　今名<lb/>
+<pb n="KR2k0019_WYG_004-4a"/>
+　　　宣詔亭在鎮前端平元年監鎮張思齊立<lb/>
+　　　閲武亭在長墻山上王復古立<lb/>
+　　　時阜堂即鎮廨之東㕔監鎮傅朋壽扁斯名<lb/>
+　　　秀野堂在鮑郎塲西側<lb/>
+　　　美固堂在水軍寨淳祐九年統制邢子政立<lb/>
+　　橋梁門<lb/>
+　　　跨浦橋在鎮東浦上<lb/>
+　　　新橋在鎮東五里<lb/>
+<pb n="KR2k0019_WYG_004-4b"/>
+　　　閘橋在鎮市中<lb/>
+　　　丁家橋在鎮廨前<lb/>
+　　　通江橋在鮑郎塲前<lb/>
+　　　鴻橋在鎮市北浦上<lb/>
+　　　西石橋在鎮市西犒賞子庫側過橋南為入永<lb/>
+　　　　安湖路<lb/>
+　　　鹽倉橋在鎮西橋下水通□頭鹽倉舍<lb/>
+　　　安得橋在巡檢廨側<lb/>
+<pb n="KR2k0019_WYG_004-5a"/>
+　　　柵橋在鎮西三里本鎮纂節發引收税之處<lb/>
+　　　望湖橋在鎮西南五里地至澉墅西通永安湖<lb/>
+　　　　東至海岸中分水□至錢家港入鎮市<lb/>
+　　　戴家橋與望湖橋為八字橋下南至東王村通<lb/>
+　　　　海岸北通孫家堰<lb/>
+　　　新浦橋在鎮北二里入縣路上<lb/>
+　　　張公橋在六里堰下本鎮運河水脈至此始分<lb/>
+　　　　為二由橋側上西南王家庄到茶園通港由<lb/>
+<pb n="KR2k0019_WYG_004-5b"/>
+　　　　橋下入西北火燒涇到通𤣥通港然皆淺狹<lb/>
+　　　　易涸欠浚鑿<lb/>
+　　　金家橋在鎮西北六里客旅巨舟重販者多於<lb/>
+　　　　此泊入鎮貿易復歸解纜<lb/>
+　　　孫老橋在六里堰下或遇淺涸客貨多以步擔<lb/>
+　　　　運於此發舟<lb/>
+　<lb/>
+　海鹽澉水志巻四<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0140_WYG_527-1a"/>
+　欽定四庫全書<lb/>
+御定全唐詩巻五百二十七<lb/>
+　　杜牧<hi>補遺</hi>
+　　　　九日<lb/>
+　金英繁亂拂䦨香明府辭官酒滿缸還有玉樓輕薄女<lb/>
+　笑他寒燕一雙雙<lb/>
+　　　　寄牛相公<lb/>
+　漢水横衝蜀浪分危樓㸃的拂孤雲六年仁政謳歌去<lb/>
+<pb n="KR4h0140_WYG_527-1b"/>
+　栁遶春堤處處聞<lb/>
+　　　　為人題贈二首<lb/>
+　我乏青<hi>一作凌</hi>雲稱君無買笑金虚傳南國貎爭奈五陵<lb/>
+　心桂席塵瑶珮瓊鑪燼水沈凝魂空<hi>一作輕</hi>薦夢低耳悔聽<lb/>
+　琴月落珠簾捲春寒錦幕深誰家樓上笛何處月明砧<lb/>
+　蘭徑飛蝴蝶筠籠語翠襟和簪抛鳳髻將淚入鴛衾的<lb/>
+　的新添恨迢迢絶好音文園終病渴休詠白頭吟<lb/>
+　緑樹鶯鶯語平江燕燕飛枕前聞去鴈樓上送春歸半<lb/>
+<pb n="KR4h0140_WYG_527-2a"/>
+月縆雙臉凝腰素一圍西牆苔漠漠南浦夢依依有恨<lb/>
+簪花懶無聊鬬草稀雕籠長慘淡蘭畹漫芳菲鏡斂青<lb/>
+蛾黛燈挑<hi>一作抛</hi>皓腕肌避人匀迸淚拖袖倚殘暉有貎<lb/>
+雖桃李單棲足是非雲輧載馭去寒夜看裁衣<lb/>
+　　　懷紫閣山<lb/>
+學他趨世少深機紫閣青霄半掩扉山路逺懷王子晉<lb/>
+詩家長憶謝𤣥暉百年不肯疎榮辱雙鬢終應老是非<lb/>
+人道青山歸去好青山曾有幾人歸<lb/>
+<pb n="KR4h0140_WYG_527-2b"/>
+　　　題孫逸人山居<lb/>
+長懸青紫與芳枝塵刹<hi>一作塵世</hi>無應免别離馬上多于在<lb/>
+家日罇前堪憶少年時闗河客夢還鄉逺雨雪山程出<lb/>
+店遲却羨髙人終此老軒車過盡不知誰<lb/>
+　　　中途寄友人<lb/>
+道旁髙木盡依依落葉驚風處處飛未到鄉闗聞早鴈<lb/>
+獨於客路授寒衣煙霞舊想長相阻書劒投人久不歸<lb/>
+何日一名隨事了與君同採碧溪薇<lb/>
+<pb n="KR4h0140_WYG_527-3a"/>
+　　　悵詩<hi>牧佐宣城幕遊湖州刺史崔君張水戲使州人畢觀令牧閒行閲竒麗得垂髫者十</hi>
+　　　<hi>餘歳後十四年牧刺湖州其人已嫁生子矣乃悵而為詩</hi>
+自是尋春去校遲不須惆悵怨芳時狂風落盡深紅色<lb/>
+緑葉成隂子滿枝<lb/>
+　　　吳宫詞二首<lb/>
+越兵驅綺羅越女唱吳歌宫燼花聲少臺荒麋跡多茱<lb/>
+萸垂曉露菡萏落秋波無遣君王醉滿城嚬翠蛾<lb/>
+香逕遶吳宫千帆落照中鶴鳴山苦雨魚躍水多風城<lb/>
+<pb n="KR4h0140_WYG_527-3b"/>
+帶晩莎緑池連秋蓼紅當年國門外誰信伍員忠<lb/>
+　　　金陵<lb/>
+始發碧江口曠然諧逺心風清舟在鑑日落水浮金瓜<lb/>
+步逢潮信臺城過鴈音故鄉何處是雲外即喬林<lb/>
+　　　即事<lb/>
+小院無人雨長苔滿庭修竹間疎槐春愁兀兀成幽夢<lb/>
+又被流鶯喚醒來<lb/>
+　　　七夕<lb/>
+<pb n="KR4h0140_WYG_527-4a"/>
+　雲堦月地一相過未抵經年别恨多最恨明朝洗車雨<lb/>
+　不教回脚渡天河<lb/>
+　　　　薔薇花<lb/>
+　朶朶精神葉葉柔雨晴香拂醉人頭石家錦幛依然在<lb/>
+　閒倚狂風夜不收<lb/>
+　　　　句<lb/>
+　幽人聽達曙聊罷蘇琴牀<hi>海録碎事</hi>　魚多知海熟藥少覺<lb/>
+　山貧<hi>以下方輿勝覽</hi>　土控吳兼越州連歙與池山河地襟帶<lb/>
+<pb n="KR4h0140_WYG_527-4b"/>
+　軍鎮國藩維　緑水櫂雲月洞庭歸路長春橋垂酒幔<lb/>
+　夜柵集茶檣箬影沈溪暖蘋花遶郭香<hi>出守吳興</hi>　經冬野<lb/>
+　菜青青色未臘山梅樹樹花<hi>優古堂詩話</hi>　半破前峰月<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定全唐詩巻五百二十七<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

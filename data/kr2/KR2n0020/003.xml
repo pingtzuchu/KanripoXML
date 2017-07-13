@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2n0020_WYG_003-1a"/>
+石刻鋪敘跋<lb/>
+石刻鋪敘二卷宋建昌曽宏父撰卷末有後序書字季<lb/>
+卿其敘孟蜀九經及思陵御書石經本末特詳又南渡<lb/>
+以後袐閣帖亦詮訂有序按宏父本名惇紹興十三年<lb/>
+以右朝散郎知台州府事其以字稱者避光宗諱也臨<lb/>
+安書肆陳思輯寶刻叢編援据頗廣顧不及是編予從<lb/>
+躬瀆就堂上人抄而藏之不啻象犀珠玉之外網得珊<lb/>
+瑚木難然<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

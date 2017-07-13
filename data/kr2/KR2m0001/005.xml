@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>通典總目</head>
+    <p>
+<pb n="KR2m0001_WYG_005-1a"/>
+欽定四庫全書　　　　　史部十三<lb/>
+　通典總目　　　　　　　政書類一<hi>通制之屬</hi>
+　　食貨<hi>凡一十二巻</hi>
+　　　巻一<hi>至</hi>巻十二止<lb/>
+　　選舉<hi>凡六卷</hi>
+　　　巻十三<hi>至</hi>巻十八止<lb/>
+　　職官<hi>凡二十二卷</hi>
+　　　巻十九<hi>至</hi>巻四十止<lb/>
+<pb n="KR2m0001_WYG_005-1b"/>
+　　禮<hi>凡一百卷五卷</hi>　<hi>厯代沿革六十五巻開元禮三十</hi>
+　　　巻四十一<hi>至</hi>巻一百四十止<lb/>
+　　樂<hi>凡七卷</hi>
+　　　卷一百四十一<hi>至</hi>卷一百四十七止<lb/>
+　　兵<hi>凡</hi>一<hi>十五卷</hi>
+　　　卷一百四十八<hi>至</hi>巻一百六十二止<lb/>
+　　刑<hi>凡八卷</hi>
+　　　卷一百六十三<hi>至</hi>卷一百七十止<lb/>
+<pb n="KR2m0001_WYG_005-2a"/>
+　　州郡<hi>凡一十四卷</hi>
+　　　巻一百七十一<hi>至</hi>卷一百八十四止<lb/>
+　　邉防<hi>凡十六卷</hi>
+　　　巻一百八十五<hi>至</hi>二百止<lb/>
+　　　　其各卷細目詳載本門巻首<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

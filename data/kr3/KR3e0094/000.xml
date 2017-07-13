@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>傷寒兼證析義</head>
+    <p>
+<pb n="KR3e0094_WYG_000-1a"/>
+欽定四庫全書　　　　　子部五<lb/>
+　傷寒兼證析義　　　　　醫家類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案傷寒兼證析義一卷<lb/>
+　　　國朝張倬撰倬字飛疇吳江人著醫通之張璐<lb/>
+　　　　即其父也專論傷寒而挾雜病者分中風虛<lb/>
+　　　　勞中滿腫脹噎膈反胃内傷宿食咳𠻳咽乾<lb/>
+　　　　閉塞頭風心腹痛亡血多汗積聚動氣疝氣<lb/>
+<pb n="KR3e0094_WYG_000-1b"/>
+　　　　淋濁瀉痢胎産凡十七種設為問答以發明<lb/>
+　　　　之按傷寒論所謂合病併病止言六經兼症<lb/>
+　　　　而不及雜病醫家不明兼證之意往往於脉<lb/>
+　　　　證參差之際或顧彼而失此或治此而妨彼<lb/>
+　　　　為害頗深此書一一剖析使治病者不拘于<lb/>
+　　　　一隅不惑於多岐亦可謂有功於傷寒矣乾<lb/>
+　　　　隆四十六年四月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+<pb n="KR3e0094_WYG_000-2a"/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>沙溪集巻十九</head> <lb/>
+    <p>
+<pb n="KR4e0156_WYG_019-1a"/>
+欽定四庫全書<lb/>
+　沙溪集巻十九<lb/>
+　　　　　　　　　　　　　明　孫緒　撰<lb/>
+　五言律<lb/>
+　　古松<lb/>
+萬壑千巖裏誰憐孤立情臨風雜鶴唳過雨帯龍腥遶<lb/>
+逕霜根滑當牕月影清嵗寒終未改不羡大夫榮<lb/>
+　　挽陸提學<lb/>
+<pb n="KR4e0156_WYG_019-1b"/>
+一經魁兩浙蚤歲擅時名腰帶黄金瘦心憂白髪明機<lb/>
+雲看世業羣愈愧門生永夜文星在空山暮雨聲<lb/>
+　　送劉子靜侍御兩淮廵鹽<lb/>
+孤鶴揚州路雙旌淮水波風霜看豸史花柳怨驪歌夜<lb/>
+久江聲逺天空月色多估客俱含笑豪家柰我何<lb/>
+　　送潘司諌守漢中<lb/>
+沃野南山逺居人日更多半符聊試爾太守欲如何春<lb/>
+晩褒斜路風清漢水波故園經别久綵服趂重過<lb/>
+<pb n="KR4e0156_WYG_019-2a"/>
+　　旅中早秋<lb/>
+商飇動凉吹誰念旅中孤白髪二親景黄塵千里途家<lb/>
+山秋斷雁庭樹夜多烏凄凉悲徃事潦倒笑今吾<lb/>
+　　三忠祠<hi>諸葛武穆文山也又曰三賢祠</hi>
+拂袖拜三賢雲霞映暮天孤忠徒自許一死竟誰憐𤣥<lb/>
+化昭心事丹誠付簡編明禋逢盛世肹蠁自年年<lb/>
+　　池亭晩坐有懐<lb/>
+池上晩成趣雨餘凉不禁濕雲低閣水癡霧逺迷林去<lb/>
+<pb n="KR4e0156_WYG_019-2b"/>
+馬慿誰辨哀蛩識此心美人在何處良夜自沈沈<lb/>
+　　爛柯圖<lb/>
+不畏山蹊險來叅國手仙兩賢豈相戹一著竟誰先苔<lb/>
+滑經微雨松聲應瀑泉楸枰纔半局柯爛已多年<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　沙溪集巻十九<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

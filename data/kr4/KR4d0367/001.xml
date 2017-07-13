@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4d0367_SBCK_001-1a"/>
+疊山集卷之一　里生潭石黃溥編<lb/>
+　絕句<lb/>
+　　思親五首<hi>壬午九月寄書老母</hi>
+九十萱親天下稀十年甘㫖誤庭闈臨行有懇慈心<lb/>
+喜再覩衣冠兒便歸<lb/>
+九十萱親天下稀吾王何在子何之倚閭旦暮無他<lb/>
+念一片好心天得知<lb/>
+九十萱親天下稀人無容力荷天慈衣冠禮樂江東<lb/>
+聚此是癡兒奉母時<lb/>
+九十萱親天下稀平生敎子欲何為楚王肯立韓公<lb/>
+<pb n="KR4d0367_SBCK_001-1b"/>
+子良也歸韓亦有辭<lb/>
+九十萱親天下稀敎兒只誦白華詩溪氷山玉人無<lb/>
+愧百拜慈闈喜可知<lb/>
+　　代上杜按察三首<lb/>
+東南官吏欠淸風五十年来世道窮須信太平在今<lb/>
+日人間又有杜祁公<lb/>
+慶暦諸公開太平選賢按察救生靈當時只有一杜<lb/>
+𣏌豈若先生眞福星<lb/>
+萬物寧無吐氣時平生愛誦杜陵詩如今天下知元<lb/>
+結六百年間再見之<lb/>
+<pb n="KR4d0367_SBCK_001-2a"/>
+　　送程楚翁遠游<lb/>
+近日人傳庾嶺梅南枝落盡北枝開長安舊日元無<lb/>
+此盡是江南人送來<lb/>
+　　寄謝叔魯三首<lb/>
+紅葉飄揺霜露淸去年今日正同行夜来似與君相<lb/>
+見明月一窓梅影横<lb/>
+一歲思君君不来君来我去欠徘徊歸時只見留詩<lb/>
+在何日相逢暢好懷<lb/>
+平生結客知心少亂世逢人笑口難近日老天頻送<lb/>
+喜誰来對酒共淸歡<lb/>
+<pb n="KR4d0367_SBCK_001-2b"/>
+　　五星<lb/>
+五緯煌煌聚在秦項王稱覇沛公臣誰知四百年天<lb/>
+下巳属寛仁大度人<lb/>
+　　元旦阻雨二首<lb/>
+洪鈞一轉歲開端草木羣生亦喜懽安得明年此時<lb/>
+節江東重覩舊衣冠<lb/>
+莫道新年賀客遲晴天暖日却相期春風只被多情<lb/>
+苦紅嫩靑新總要詩<lb/>
+　　戯道士阮太虚<lb/>
+阮郞正好住天台玉女多情忍放回雨散雲收一天<lb/>
+<pb n="KR4d0367_SBCK_001-3a"/>
+碧薫風吹夣到瑶䑓<lb/>
+　　春日聞杜宇<lb/>
+杜䳌日日勸人歸一片歸心誰得知望帝有神如可<lb/>
+問謂余何日是歸期<lb/>
+　　謝送夏衣<lb/>
+南州乆客困炎歊汗浥春衫上白毛細葛含風常着<lb/>
+㸔此情猶勝舊祶袍<lb/>
+　　謝惠楮衾<lb/>
+吳宫金蹙鳯花綾春暖熏蘢換水沉那似氷橋楮夫<lb/>
+子滿床明月解㣲吟<lb/>
+<pb n="KR4d0367_SBCK_001-3b"/>
+　　贈儒醫陳西岩<lb/>
+猪苓桔梗■為竒藥蘢書囊用有時莫把眼前窮逹<lb/>
+論要知良相即良醫<lb/>
+　　桃<lb/>
+㝷得桃源好避秦桃紅又見一年春花飛莫遣随流<lb/>
+水怕有漁郞来問津<lb/>
+　　覔茶<lb/>
+茂綠林中三五家短墻半露小桃花客行馬上多春<lb/>
+日特扣柴門覔一茶<lb/>
+　　贈畫士劉信可二首<lb/>
+<pb n="KR4d0367_SBCK_001-4a"/>
+毛頴摧鋒入墨池白雲窓下展烏絲乘君袖裏孤山<lb/>
+月冩盡橫斜竹外枝<lb/>
+譜係庭筠岀管城<graphic n="KR0909" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0909.png" mimeType="image/png"/>中千畒盡秋清兒童不悞揮毫<lb/>
+意閑傍虚簷聽雨聲<lb/>
+　　竹<lb/>
+新篁姢姢如綠玉瀟然出塵澹無欲淸風明月誰主<lb/>
+張留得此君在空谷<lb/>
+　　扇<lb/>
+蒲葵也解歸掌握紈素未應捐篋中莫把暗塵涴明<lb/>
+月好驅大暑来淸風<lb/>
+<pb n="KR4d0367_SBCK_001-4b"/>
+　　菊<lb/>
+淵明豈但隱逸人淵明素懷諸葛志淸香不獨占秋<lb/>
+天菊潭一滴三千歲<lb/>
+　　賦松<lb/>
+喬松磊磊多竒節冬無霜雪夏無熱根頭更有千歲<lb/>
+苓知誰可語長生訣<lb/>
+　　與魏梅墅<lb/>
+義熈陶令書甲子春秋仲尼尊天王孔明漢賊不兩<lb/>
+立梁公寸念臣而皇<lb/>
+　　花影<lb/>
+<pb n="KR4d0367_SBCK_001-5a"/>
+重重疊疊上瑶䑓幾度呼童掃不開剛被太陽收拾<lb/>
+去又敎明月送將来<lb/>
+　　絶粒偶書二首<lb/>
+丹府金童善主家百神聽命靜無譁從今何必餐松<lb/>
+栢但吸日精吐月華<lb/>
+龜㗸甘露爭先到鳯吸醴泉随後来投在太淸仙酒<lb/>
+甕道人日飲兩三盃<lb/>
+疊山集卷之一<lb/>
+<pb n="KR4d0367_SBCK_001-5b"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

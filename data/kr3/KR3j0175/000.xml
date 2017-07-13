@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>韻石齋筆談</head>
+    <p>
+<pb n="KR3j0175_WYG_000-1a"/>
+欽定四庫全書　　　　　子部十<lb/>
+　韻石齋筆談　　　　　　雜家類四<hi>雜品之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案韻石齋筆談二卷<lb/>
+　　　國朝姜紹書撰紹書有無聲詩史已著録是書<lb/>
+　　　　仿周宻雲烟過眼録記所見古噐書畵及諸<lb/>
+　　　　竒玩惟宻書以收藏之人標題此書即以其<lb/>
+　　　　物標題宻書但記其名此書並詳其形模及<lb/>
+<pb n="KR3j0175_WYG_000-1b"/>
+　　　　諸家授受得失之始末其體例小異耳其天<lb/>
+　　　　成太極圖一條不過石中圓理偶爾黒白相<lb/>
+　　　　間遂執以駁朱子太極無形之説殊為迂謬<lb/>
+　　　　延陵十字碑一條力辨孔子未嘗至吳之説<lb/>
+　　　　引後世書墓誌者不必皆至墓門為證然墓<lb/>
+　　　　之建碑自是漢以下事越國數千里乞人表<lb/>
+　　　　墓自是唐宋以下事以例三代殆恐不然至<lb/>
+　　　　其辨黄氏文王鼎為附㑹博古圖辨天啟甲<lb/>
+<pb n="KR3j0175_WYG_000-2a"/>
+　　　　子所得玉璽非秦物辨河莊淳化帖為宋人<lb/>
+　　　　所重刻非王著原摹辨句容崇明寺藏經有<lb/>
+　　　　宋元祐五年張暉潘澤題名無斗神幻書之<lb/>
+　　　　事辨宋徽宗山居圖董其昌誤以為王維辨<lb/>
+　　　　宋藏經多仿蘇黄字體非必二人真迹皆鑿<lb/>
+　　　　然有理其他亦多可資考証猶近代説部之<lb/>
+　　　　可觀者其上卷秘閣藏書永樂大典名賢著<lb/>
+　　　　述朝鮮人好書四條下卷晚季音樂白兎沙<lb/>
+<pb n="KR3j0175_WYG_000-2b"/>
+　　　　雞文臣玉帯四條雜説他事於全書為不類<lb/>
+　　　　盖隨筆記録偶失刋削以原夲所有仍並存<lb/>
+　　　　之焉乾隆四十六年十二月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀旳<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="KR3j0175_WYG_000-3a"/>
+韻石齋筆談原序<lb/>
+人之所以衞身者道而已道之為物清寧平夷不尨不<lb/>
+競故達人必於近道者寄吾意焉則氣不煩而慮澂視<lb/>
+不壅而志曠然後可以居高明而康强也今之塗亦棘<lb/>
+矣奔車蕩舟塵驚濤駭持顛不暇而晏如姜公獨能怡<lb/>
+情於游息之具風雅之林斯其度越儔俗為深逺也葢<lb/>
+公少而種學長益博綜竹書蝌蚪多所研究鍾王顧陸<lb/>
+蘇米倪黄之流日與拱揖進退於几席之上故胸無俗<lb/>
+<pb n="KR3j0175_WYG_000-3b"/>
+趣口無鄙言雖當雄艶之劇而若忘乎人間神解𤣥契<lb/>
+之若斯也昔嵗作噩舉國狂酣走權倖如鶩公獨先幾<lb/>
+解組棄鳩署歸寂寥希夷以全其天彌復肆力於攷鑒宅<lb/>
+東有園林木蓊蔚溪流潺湲虚亭一楹幽翳不見日時<lb/>
+與余把臂入焉撫殘楮掇㫁縑推論得失搜攷同異别<lb/>
+白真贗有倫有脊意之所極夢亦同趣幾於昌歜之嗜<lb/>
+者然而公知道者也翫物而不溺於物娱意而不滯於<lb/>
+意於其所著韻石齋筆談見之舉其中數端如黄石以<lb/>
+<pb n="KR3j0175_WYG_000-4a"/>
+定鼎隕軀文泉以玉杯繫獄項氏以多蔵被掠程生以<lb/>
+善墨致傾乃至秦璽無救於陸沈唐錢悉燬於鑄局宋<lb/>
+帖仍歸於煨燼凡以見多賄之焚身而金玉之非寳也<lb/>
+盛衰之靡常而聚散之有數也物之尤者應如烟雲過<lb/>
+眼斯言亮不欺我至於辯覈精詳通涉淹雅特其餘事<lb/>
+非公澂懷觀道之幽指耳時余寄席於公之鶴臯别業<lb/>
+接公手札以所著見示且索敘言因述其大較如此同<lb/>
+里蔣清序<lb/>
+<pb n="KR3j0175_WYG_000-4b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　韻石齋筆談原序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

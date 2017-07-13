@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>西溪樷語</head>
+    <p>
+<pb n="KR3j0036_WYG_000-1a"/>
+欽定四庫全書　　　　子部十<lb/>
+　西溪樷語　　　　　　　雜家類二<hi>雜考之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案西溪樷語三卷宋姚寛撰寛字令<lb/>
+　　　　威嵊縣人父舜明紹聖四年進士南渡後官<lb/>
+　　　　户部侍郎徽猷閣待制寛以父任補官仕至<lb/>
+　　　　權尚書户部員外郎樞宻院編修官其書多<lb/>
+　　　　考證典籍之異同如辨文選神女賦玉字為<lb/>
+<pb n="KR3j0036_WYG_000-1b"/>
+　　　　王字之誤辨劉攽論蕭何不為功曹之誤辨<lb/>
+　　　　黄庭堅論徐浩詩瓌能字押奴來切之誤辨<lb/>
+　　　　歐陽修論張繼半夜鐘之誤辨王安石詩經<lb/>
+　　　　新義彤管為簫笙之誤皆極精審至攷感甄<lb/>
+　　　　賦之始末不辨其非謂陶潛詩中之田子春<lb/>
+　　　　即漢書劉澤傳之田生謂杜甫詩中之黄衫<lb/>
+　　　　少年為霍小玉傳之黄衫客又謂甫俊逸鮑<lb/>
+　　　　參軍句為譏李白皆失之穿鑿附㑹註劉禹<lb/>
+<pb n="KR3j0036_WYG_000-2a"/>
+　　　　錫詩翁仲字不知其不作于洛陽註李白詩<lb/>
+　　　　唾井字不知其出於玉臺新咏王宋詩引秦<lb/>
+　　　　嘉贈婦詩誤以第一首為徐淑作引詩品誤<lb/>
+　　　　改寳釵字皆為疎舛然大致瑜多而瑕少考<lb/>
+　　　　証家之有根柢者也葉適水心集有西溪集<lb/>
+　　　　䟦其稱此書以易肥遯為飛遯以孟子不若<lb/>
+　　　　是恝為不若是<graphic n="KR2202" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2202.png" mimeType="image/png"/>二條又謂金海陵王南侵<lb/>
+　　　　時寛推論太乙熒惑行次决其必敗未㡬果<lb/>
+<pb n="KR3j0036_WYG_000-2b"/>
+　　　　有<graphic n="KR1000" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1000.png" mimeType="image/png"/>洲之事又謂其著書二百卷古今同異<lb/>
+　　　　無不該括又謂其古樂府流麗哀思頗襍近<lb/>
+　　　　體詩長短皆絶去尖巧乃全入古律加於作<lb/>
+　　　　者一等盖亦一代博洽工文之士矣乾隆四<lb/>
+　　　　十二年十月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

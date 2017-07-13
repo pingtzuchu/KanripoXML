@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3f0026_WYG_046-1a"/>
+凡例<lb/>
+　按西士羅雅谷自序謂譯書草創潤色之増補之必<lb/>
+　有其時今之釋例不嫌小有同異所以相成當亦作<lb/>
+　書者之所欲得也<lb/>
+　比例規觧原列十線為十種比例之法今仍之<lb/>
+　比例既有十種可各為一尺今總歸一尺者便攜也<lb/>
+　一尺中列十線則一尺而有十尺之用恐其不清故<lb/>
+　各線之端書某線以别之<lb/>
+<pb n="KR3f0026_WYG_046-1b"/>
+　各線並從心起數惟立方線初㸃最大割線亦然又<lb/>
+　五金線之用近尺末故俱不到心以便他線之書字<lb/>
+　然其實並從心起算用者詳之<hi>尺心即尺端也兩尺端聫于樞心成一㸃</hi>
+　<hi>故從兹起算</hi>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

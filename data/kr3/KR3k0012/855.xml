@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3k0012_SBCK_855-1a"/>
+太平御覽卷第八百五十五<lb/>
+　飲食部十三<lb/>
+　　　䜴　韲<lb/>
+　　　　　䜴<lb/>
+釋名曰䜴嗜也五味調和湏之而成乃可甘嗜也故齊人<lb/>
+謂鼔聲如嗜<lb/>
+史記曰蘖麫鹽䜴千荅<hi>徐廣日或作合器名</hi>
+謝承後漢書曰羊續爲南陽太守塩䜴共壷<lb/>
+袁宏漢紀曰李<graphic n="KR1336" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1336.png" mimeType="image/png"/>數設酒請郭汜或留汜汜妻懼與<graphic n="KR1336" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1336.png" mimeType="image/png"/>婢妾<lb/>
+私而奪巳愛思有以離間之<graphic n="KR1336" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1336.png" mimeType="image/png"/>送饋汜妻乃以䜴爲藥汜<lb/>
+將食妻曰食從外來儻或有故遂<graphic n="KR0933" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0933.png" mimeType="image/png"/>藥示之曰一栖不兩<lb/>
+雄我固疑將軍之信李公也明日<graphic n="KR1336" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1336.png" mimeType="image/png"/>請汜大醉汜疑<graphic n="KR1336" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1336.png" mimeType="image/png"/>藥<lb/>
+之絞糞　汁飲之乃解於是遂相疑猜也<lb/>
+<pb n="KR3k0012_SBCK_855-1b"/>
+三輔决録曰南陽舊語曰前隊大夫范仲公塩䜴蒜果共<lb/>
+一䇶言其廉儉也<lb/>
+豫章列士傳曰羊茂爲東郡太守岀界買塩䜴<lb/>
+博物志曰外國有豉法以苦酒溲豆暴令極慘以油<lb/>
+麻蒸訖復暴三過乃止然後細擣椒屑篩下隨多少合<lb/>
+投之<lb/>
+金樓子曰五色茄一名金塩地榆一名玉䜴惟此二物可<lb/>
+以煑石<lb/>
+廣志曰苦秦䜴也<lb/>
+楚辭招魂曰大苦酸醎<hi>大苦謂䜴</hi>辛甘行<hi>言取䜴調和以椒薑鹹酢酪則辛甘之味</hi>
+<hi>皆發而行</hi>
+古歌曰美䜴出魯門<lb/>
+　　　　　韲<lb/>
+<pb n="KR3k0012_SBCK_855-2a"/>
+周禮曰醯人掌共五齊<hi>昌本脾折蜃豚拍深蒲也</hi>
+記曰卒食客自前跪徹飯韲以授相者<lb/>
+釋名曰蟹韲去其匡熟擣合如韲也<lb/>
+通俗文曰淹韭曰韲淹薤曰<lb/>
+東觀漢記曰王莽將敗北海逢萌載韲器於市曰辛乎因<lb/>
+潜藏不見<lb/>
+魏志曰華佗嘗見病咽塞者語之曰向來道隅有賣餅人<lb/>
+萍韲甚酸可取三升飲之如言立吐一虵<lb/>
+王隱晉書曰袁甫曰美莫過稻不可以爲韲<lb/>
+語林曰石崇嘗冬月得韭韲王愷貨崇帳下督云是擣韭<lb/>
+根雜以麥苗耳<lb/>
+楚辭曰懲於羹者而吹虀<lb/>
+又曰呉酸毛蔞不沾薄<hi>毛菜也言呉人善爲致美其菜若蔞味無沾薄言有調也又曰蒿也</hi>
+<pb n="KR3k0012_SBCK_855-2b"/>
+<hi>蔞不沾薄繁草也蔞香沾多汗也薄無味也言呉人工調鹹酸使偷蒿蔞以爲虀味酸又不薄適甘美人也</hi>
+崔寔四民月令曰八月収韭菁作擣韲<lb/>
+弘君舉食撽曰大市覆甖之蒜東里獨姥之醯大塩雜以<lb/>
+薑椒叛奴使之春韲<lb/>
+嶺表異録曰容南土風好食水牛肉言其脆美則柔毛肥<lb/>
+彘不足比也毎軍衙有局筵必先此物或炮或炙盡此一<lb/>
+牛旣飽即以聖韲銷之<hi>聖韲如有菘云是牛膓胃中巳化草</hi>旣至即以塩酪<lb/>
+薑桂調而啜之腹遂不脹北客到彼多赴此筵但能食肉<lb/>
+罔有啜韲者<lb/>
+太平御覽卷第八百五十五<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

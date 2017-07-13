@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>景定建康志巻十</head>
+    <p>
+<pb n="KR2k0021_WYG_010-1a"/>
+欽定四庫全書<lb/>
+　景定建康志巻十　　　　宋　周應合　撰<lb/>
+建康表六<hi>起蕭梁天監壬午至太平丁丑凡五十六年為年表</hi>
+　梁<hi>髙祖武皇帝姓蕭名衍字叔達與齊朝同為漢相國何之後皇考順之字文緯齊髙祖族弟參預佐</hi>
+　<hi>命封臨湘侯累至領軍将軍丹陽内史髙祖以宋大明元年甲辰嵗生於秣陵縣同夏里三橋宅初皇妣</hi>
+　<hi>張氏常夢抱日已而有孕乃生帝帝生有竒異之光兩骻駢骨状貌殊特頂上隆起日角龍顔重嶽虎顧</hi>
+　<hi>舌文為八字頂有浮光身映日無影為兒童能蹈空而行有文在左手曰武及長博學多通好籌畧有文</hi>
+　<hi>武才幹流輩咸推許焉所居宅常若有雲氣人有遇者體輒肅然起家巴陵王參軍遷衛軍王儉府東閣</hi>
+<pb n="KR2k0021_WYG_010-1b"/>
+　<hi>祭酒王儉一見深相器異請為户曹屬謂廬江何憲曰此蕭郎三十内當作侍中出此則貴不可言齊竟</hi>
+　<hi>陵王子良開西邸招文學之士髙祖與沈約謝朓王融蕭琛范雲任昉陸倕等並逰焉號為八友王融俊</hi>
+　<hi>爽識鑒過人尤敬異髙祖毎謂所親曰宰制天下必在此人累遷隨王諮議行經牛渚逢風入泊龍瀆有</hi>
+　<hi>一老人謂曰君龍行虎步貴不可言天下将亂能安之者其在君乎拜黄門侍郎入直殿省與蕭諶等定</hi>
+　<hi>䇿封建陽侯建武二年解司州圍走魏軍還為太子中庶子領羽林監頃之出鎮石頭四年敗魏軍於雍</hi>
+　<hi>州進使持節雍樂南北秦四州軍事雍州刺史東昏侯立六貴八要擅權用事髙祖曰政出多門亂其階</hi>
+　<hi>矣永元二年長兄懿自益州刺史罷還朝被害髙祖宻謀曰昏虐暴主誅戮朝賢生民塗炭卿等同心嫉</hi>
+　<hi>惡共興義舉良在今日是日建牙於軍門收拾甲士三萬餘人馬一千匹船三百艘引荆州軍下沔南立</hi>
+<pb n="KR2k0021_WYG_010-2a"/>
+　<hi>新野郡以集新附三年二月已已南康王寶融即帝位於江陵改永元二年為中興元年遥廢東昏為涪</hi>
+　<hi>陵王以髙祖為左僕射假黄鉞西臺置百官司馬八月次蕪湖據姑孰使曹景宗蕭穎達領馬步進屯江</hi>
+　<hi>寧使王茂進據越城十月壬午髙祖鎮石頭命衆軍圍城衛尉張稷北徐州刺史王珍國斬東昏首送髙</hi>
+　<hi>祖使吕僧珍勒兵封府庫圖籍嬖庶凶黨王咺之以下四十八人並誅之宣徳皇后下令追廢涪陵王為</hi>
+　<hi>東昏侯依漢海昏故事授髙祖中書監揚徐軍事大司馬録尚書驃騎大將軍揚州刺史封建安公食邑</hi>
+　<hi>萬户給班劍四十人假黄鉞依晉武陵王司馬遵承制故事已夘髙祖入屯閲武堂下令一切淫刑濫罰</hi>
+　<hi>賦役並原放明年正月齊和帝自江陵遣侍中席闡文黄門侍郎樂法才慰勞京邑詔進髙祖劍履上殿</hi>
+　<hi>入朝不趨贊拜不名加前後羽葆鼓吹置左右長史從事中郎掾屬各四人尋進相國封十郡為梁王備</hi>
+<pb n="KR2k0021_WYG_010-2b"/>
+　<hi>九錫丙午命王冕十有二旒建天子旌旗出警入蹕丙辰齊帝禪位於梁依晉宋故事齊百官豫章王綝</hi>
+　<hi>等八百一十九人及梁臺侍中臣雲等百一十七人並上表勸進太史令蔣道秀陳天文符䜟六十四條</hi>
+　<hi>乃即位改元自天監壬午至太平丙子四主都建康合五十五年而禪於陳</hi>
+<pb n="KR2k0021_WYG_010-3a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-4a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-5a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-6a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-7a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-8a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-9a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-10a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-11a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-12a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-13a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-14a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-15a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-16a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-17a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-18a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-19a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-20a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-21a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-22a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-23a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-24a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-25a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-26a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-27a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-28a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-29a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-30a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-31a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-32a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-33a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-34a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-35a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-36a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-37a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-38a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-39a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-40a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-41a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-42a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-43a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-44a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-45a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-46a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-47a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-48a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-49a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-50a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-51a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-52a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-53a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-54a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-55a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-56a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-57a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-58a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-59a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-60a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-61a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-62a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-63a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-64a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-65a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-66a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-67a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-68a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-69a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-70a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-71a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-72a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-73a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-74a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-75a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-76a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-77a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-78a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-79a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-80a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-81a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-82a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-83a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-84a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_010-85a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2k0021_WYG_010-85b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　景定建康志巻十<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

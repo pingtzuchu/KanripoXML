@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4f0001_WYG_160-1a"/>
+　欽定四庫全書<lb/>
+聖祖仁皇帝御製文第二集巻三十五目錄<lb/>
+　　頌<lb/>
+　　　　祈榖壇頌<hi>有序</hi>
+　　　　二典頌<hi>有序</hi>
+　　　　禹陵頌<hi>有序</hi>
+　　贊<lb/>
+　　　　王右軍洗硯池贊<hi>有序</hi>
+<pb n="KR4f0001_WYG_160-1b"/>
+　　　石鼓贊<hi>有序</hi>
+　　箴<lb/>
+　　　河臣箴<lb/>
+　　　漕臣箴<lb/>
+　　　臺省箴<lb/>
+　　　太常箴<lb/>
+　　　提鎮箴<lb/>
+　　銘<lb/>
+<pb n="KR4f0001_WYG_160-2a"/>
+　　　淵鑒齋銘<lb/>
+　　　佩文齋銘<lb/>
+　　　知稼軒銘<lb/>
+　　　察罕七羅勒石銘<lb/>
+　　　拖諾山勒石銘<lb/>
+　　　昭木多勒石銘<lb/>
+　　　狼居胥山勒石銘<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

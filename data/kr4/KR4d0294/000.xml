@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>提要<lb/>
+                </head>
+    <p>
+<pb n="KR4d0294_WYG_000-1a"/>
+欽定四庫全書　　　　　集部四<lb/>
+　提要<lb/>
+　　性善堂稿十五巻　　　别集類三<hi>宋</hi>
+　　　　<hi>臣</hi>等謹案性善堂稿十五巻宋度正撰正有<lb/>
+　　　　周子年譜已著錄宋史本傳載正有性善堂<lb/>
+　　　　集而不著巻數趙希弁讀書附志始列其目<lb/>
+　　　　凡十五巻曹彦約為之序自明以來世久失<lb/>
+　　　　傳今從永樂大典中採撮裒次以類排纂仍<lb/>
+<pb n="KR4d0294_WYG_000-1b"/>
+　　　　析為十五巻以還其舊正㳺于朱子之門文<lb/>
+　　　　章質實大都原本經濟不為流連光景之語<lb/>
+　　　　其條奏便民諸疏不下萬餘言指陳利弊明<lb/>
+　　　　晰剴切亦可謂留心世務不徒為性命空談<lb/>
+　　　　詩品雖不甚髙而詞意暢達頗與朱子格律<lb/>
+　　　　相近觀其書易學啟蒙後書晦菴所釋西銘<lb/>
+　　　　後䟦申請釋奠禮諸篇悉於師説篤信不疑<lb/>
+　　　　宜其亦歩亦趨矣魏了翁朱子語類序稱輔<lb/>
+<pb n="KR4d0294_WYG_000-2a"/>
+　　　　漢卿授以所集朱子語言文字度周卿從予<lb/>
+　　　　乞本刋諸青衣因屬其以學者之病著于篇<lb/>
+　　　　端云云是正又嘗梓行語類且為之序而集<lb/>
+　　　　中無此文又史稱正官太常時適太廟災為<lb/>
+　　　　二説以獻其一用朱子之議其一則因宋朝<lb/>
+　　　　廟制而參以朱子之説本傳中具載其畧集<lb/>
+　　　　中亦無此文葢刪汰編纂之餘固不免有所<lb/>
+　　　　缺佚也乾隆四十六年九月恭校上<lb/>
+<pb n="KR4d0294_WYG_000-2b"/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　總　校　官<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

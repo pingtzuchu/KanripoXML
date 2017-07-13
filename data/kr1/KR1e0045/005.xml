@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>春秋分記卷五</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書<lb/>
+　春秋分記卷五　　　　　宋　程公說　撰<lb/>
+　　年表五<lb/>
+天子之妃曰后諸侯曰夫人有常稱也王后在父母家<lb/>
+亦曰王后天下皆王土也夫人稱婦有姑之辭也王后<lb/>
+見於春秋者二餘則采之傳夫人見於春秋者八而如<lb/>
+會享孫並詳譜之夫惟觀其名則其人可考矣觀其文<lb/>
+則其事可見矣作王后内夫人年表<lb/>
+<pb n="1b"/>
+　　　王后年表第一<hi>名譜附</hi>
+桓王　<hi>桓八年祭公來遂逆王后于紀</hi>　<hi>九年紀季姜歸于京師歸不書</hi>
+靈王　<hi>襄十五年劉夏逆王后于齊</hi>
+　　王姚<hi>姚姓荘王妾生子顔</hi>
+　　隗氏狄后<hi>襄王以狄女為后又廢之</hi>
+　　陳媯惠后<hi>陳女媯姓荘十八年原莊公逆王后于陳歸京師為惠王后生大叔帶</hi>
+　　穆后<hi>景王后生太子壽昭十五年八月戊寅崩</hi>
+　　　内夫人年表第二<lb/>
+<pb n="2a"/>
+</p>
+<p>
+<pb n="3a"/>
+嗚呼諸侯無再娶於禮無二適魯在春秋不法不正妾<lb/>
+之亂常甚矣然不得稱夫人也稱夫人自成風始由是<lb/>
+乃有二祔春秋傷焉作内妾母年表<lb/>
+　　　内妾母年表第三<lb/>
+桓仲子　　<hi>隠元年天王使宰咺來歸惠公仲子之賵</hi>　<hi>五年九月考仲子之宫</hi>
+般孟任<lb/>
+僖成風<lb/>
+宣敬嬴　　　　　　︵字位過密　無法显示︶<lb/>
+<pb n="3b"/>
+襄定姒　<hi>四年七月戊子夫人姒氏薨</hi>　　　　　<hi>八月辛亥葬我小君定姒</hi>
+野敬歸<lb/>
+昭齊歸　<hi>十一年五月甲申夫人歸氏薨</hi>　　　　　<hi>九月己亥葬我小君齊歸</hi>
+哀定姒　<hi>定十五年七月壬申姒氏卒</hi>　　　　　<hi>九月辛巳葬定似</hi>
+　　　　　薨四　　歸賵二　葬五　　會葬一<lb/>
+　　　　　卒一　　　　　　不書三<lb/>
+　　　　　不書三　　　　　考宫一<lb/>
+嗚呼春秋之明人倫信人情也至矣書王姬魯為之主<lb/>
+<pb n="4a"/>
+也内女適於諸侯及其大夫皆書焉以為夫婦之道敎<lb/>
+之本也適諸侯則尊同而卒葬不書常事爾其書之者<lb/>
+義各有見也未嫁而已許嫁笄而字之故死以成人禮<lb/>
+書之春秋之明人倫信人情也至矣於此乎見之矣作<lb/>
+王姬内女年表<lb/>
+　　　王姬年表第四<lb/>
+齊王姬　<hi>荘元年單伯送王姬秋築王姬之舘于外冬王姬歸于齊</hi>　二年七月齊王姬卒<lb/>
+齊王姬　荘十一年冬王姬歸于齊<lb/>
+<pb n="4b"/>
+　　　　　歸二　　　　卒一　　　不書一<lb/>
+　　　内女年表第五<lb/>
+紀伯姬　　　　　︵字位過密　無法显示︶<lb/>
+紀叔姬　　　　　︵字位過密　無法显示︶<lb/>
+杞伯姬　　　　　<hi>莊二十五年夏六僖二十八年月伯姬歸于杞  秋杞伯姬來</hi>
+鄫季姬　　　　　<hi>僖十五年九月季姬歸于鄫</hi>　<hi>十六年四月丙申鄫季姬卒</hi>
+郯伯姬　　　　　　　　　　　　<hi>宣十六年秋郯伯姬來歸</hi>
+齊子叔姬　　　　　　　　　　　<hi>文十五年十二月齊人來歸子叔姬</hi>
+<pb n="5a"/>
+杞叔姬<lb/>
+宋伯姬　︵字位過密　無法显示︶<lb/>
+莒慶叔姬　　　　<hi>莊二十七年冬莒慶來逆叔姬</hi>
+宋蕩伯姬<lb/>
+齊高固叔姬　　　<hi>宣五年九月齊高固來逆叔姬</hi>
+　伯姬　　　　　　　　　　<hi>僖九年七月乙酉伯姬卒</hi>
+　叔姬　　　　　　　　　　<hi>文十二年二月庚子子叔姬卒</hi>
+　　　　納幣一　逆而歸一　卒六　　葬三<lb/>
+<pb n="5b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　春秋分記卷五<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

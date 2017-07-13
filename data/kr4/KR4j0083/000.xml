@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>渚山堂詞話</head>
+    <p>
+<pb n="KR4j0083_WYG_000-1a"/>
+欽定四庫全書　　　　　　集部十<lb/>
+　渚山堂詞話　　　　　　詞曲類三<hi>詞話之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹按渚山堂詞話三巻明陳霆撰霆字<lb/>
+　　　　聲伯徳清人𢎞治壬戌進士官至山西提學<lb/>
+　　　　僉事是編與所作詩話並刋而較詩話為稍<lb/>
+　　　　勝盖霆詩格頗纎于詞為近故論詞轉用所<lb/>
+　　　　長其中如韋莊雨餘風軟碎鳴禽句本用杜<lb/>
+<pb n="KR4j0083_WYG_000-1b"/>
+　　　　荀鶴春宫怨語南卓羯鼓録所謂透空碎逺<lb/>
+　　　　之聲即此碎字當訓細瑣襍亂之義霆乃謂<lb/>
+　　　　鳴禽碎于理不通改為暖風嬌鳥碎鳴音未<lb/>
+　　　　免㸃金成鐡又謂楊孟載雪詞簌簌颺颺古<lb/>
+　　　　無所出欲據黄庭堅詩改為疎疎密密不知<lb/>
+　　　　以疎疎密密詠雪黄詩又何所出亦未免涉<lb/>
+　　　　于膠固然其他持論多確又宋元明佚篇斷<lb/>
+　　　　句徃徃而有如宋徐一初九日登髙之類其<lb/>
+<pb n="KR4j0083_WYG_000-2a"/>
+　　　　本集不傳于世者亦頗賴以存王昭儀滿江<lb/>
+　　　　紅詞為其位下宫人張瓊瑛作垂楊玉耳墜<lb/>
+　　　　金環二曲為唐宋舊譜所無之類亦足資考<lb/>
+　　　　証猶明人詞話之善本也乾隆四十一年十<lb/>
+　　　　月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

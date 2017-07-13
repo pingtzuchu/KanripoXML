@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2d0019_WYG_069-1a"/>
+　欽定四庫全書<lb/>
+御定歴代紀事年表卷七十三<lb/>
+　　梁世系表畧<lb/>
+　　　朱氏宋州碭山人髙祖黯生茂林茂林生信信生<lb/>
+　　　誠以五經教授鄉里誠生温是為太祖温仕唐唐<lb/>
+　　　僖宗賜名全忠以梁王受唐禪更名晃國號梁都<lb/>
+　　　汴州尋遷洛陽傳二主凡十七年<lb/>
+<pb n="KR2d0019_WYG_069-2a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_069-3a"/>
+御定歴代紀事年表卷七十三<lb/>
+　　<hi>起丁卯梁太祖開平元年四月  止甲戌梁主瑱乾化四年</hi>凡七年有奇<lb/>
+　　表例説<lb/>
+　　　<hi>臣</hi>之樞謹按歐陽修起梁唐歴晉漢周作五代史<lb/>
+　　　司馬光通鑑亦訖於五代而於梁唐等紀之上加<lb/>
+　　　一後字以别於前代之號後五代之稱自此始<lb/>
+　　　自唐季天下割裂至是諸國諸鎮據土稱雄莫能<lb/>
+　　　相一綱目以為無綂分注之今倣其義虛天位於<lb/>
+<pb n="KR2d0019_WYG_069-3b"/>
+　　　上天位之下首表梁事次書諸國諸鎮後唐至後<lb/>
+　　　周例同<lb/>
+<pb n="KR2d0019_WYG_069-4a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_069-5a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_069-6a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_069-7a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_069-8a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_069-9a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_069-10a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_069-11a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_069-12a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_069-13a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_069-14a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_069-15a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_069-16a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_069-17a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_069-18a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_069-19a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_069-20a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_069-21a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_069-22a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_069-23a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_069-24a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_069-25a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_069-26a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_069-27a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_069-28a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_069-29a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_069-30a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_069-31a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_069-32a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_069-33a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_069-34a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_069-35a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_069-36a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_069-37a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_069-38a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_069-39a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_069-40a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_069-41a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_069-42a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_069-43a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_069-44a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_069-45a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_069-46a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_069-47a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_069-48a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_069-49a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_069-50a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_069-51a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_069-52a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_069-53a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_069-54a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_069-55a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_069-56a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_069-57a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_069-58a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_069-59a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_069-60a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_069-61a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_069-62a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_069-63a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_069-64a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_069-65a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_069-66a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_069-67a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_069-68a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_069-69a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2d0019_WYG_069-69b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定歴代紀事年表巻七十三<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

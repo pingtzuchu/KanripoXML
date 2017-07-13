@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>左史諫草</head>
+    <p>
+<pb n="KR2f0016_WYG_000-1a"/>
+欽定四庫全書　　　　　史部六<lb/>
+　左史諫草　　　　　　　詔令奏議類二<hi>奏議之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案左史諫草一巻宋吕午撰午字伯<lb/>
+　　　　可歙縣人嘉定四年官至進士起居郎右文<lb/>
+　　　　殿修撰知漳州事蹟具宋史本𫝊是編凡奏<lb/>
+　　　　議六首後附其子沆奏議一首後又附載家<lb/>
+　　　　𫝊詩文之類最後載吕氏節女事皆因家𫝊<lb/>
+<pb n="KR2f0016_WYG_000-1b"/>
+　　　　附編者也午兩為諫官以風節自勵知無不<lb/>
+　　　　言理宗嘗稱其議論甚明切又謂其論邊事<lb/>
+　　　　甚好此六疏皆理宗嘉熙二年所上雖篇數<lb/>
+　　　　無多而宋末時事頗可考見其論宋宰相臺<lb/>
+　　　　諫之弊尤極詳懇其子沆一疏并方回所為<lb/>
+　　　　午及沆傳亦多與宋史本傳可以相證回稱<lb/>
+　　　　午文集名竹坡類藁是午本有全集而今佚<lb/>
+　　　　之茲六疏葢存於散佚之餘者其他遺文則<lb/>
+<pb n="KR2f0016_WYG_000-2a"/>
+　　　頗散見於新安文獻志諸書云乾隆四十六<lb/>
+　　　年十月恭校上<lb/>
+　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

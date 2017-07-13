@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>明謚紀彚編卷二十二</head> <lb/>
+    <p>
+<pb n="KR2m0031_WYG_022-1a"/>
+欽定四庫全書<lb/>
+　明謚紀彚編卷二十二<lb/>
+　　　　　　　　　　　　明　郭良翰　撰<lb/>
+　　臣謚<lb/>
+　　　外夷<hi>天下大一統也故外夷得附之臣</hi>
+恭獻<lb/>
+　日本國王源道義<hi>永樂</hi>
+恭愍<lb/>
+<pb n="KR2m0031_WYG_022-1b"/>
+　髙麗國王王顓<hi>洪武</hi>
+恭順<lb/>
+　浡泥國王麻那惹加那乃<hi>永樂</hi>
+　朝鮮國王李珦<hi>景泰</hi>
+恭定<lb/>
+　蘇禄國東王巴都葛叭荅剌<hi>永樂</hi>
+　朝鮮國王李芳逺<hi>永樂</hi>
+恭靖<lb/>
+<pb n="KR2m0031_WYG_022-2a"/>
+　朝鮮國權署國事李曔<hi>永樂</hi>
+恭僖<lb/>
+　朝鮮國王李懌<hi>嘉靖</hi>
+恭憲<lb/>
+　朝鮮國王李峘<hi>隆慶</hi>
+康獻<lb/>
+　朝鮮國王李旦<hi>永樂</hi>
+康靖<lb/>
+<pb n="KR2m0031_WYG_022-2b"/>
+　古麻剌國王幹剌義亦敦<hi>永樂</hi>
+　朝鮮國王李娎<hi>𢎞治</hi>
+莊憲<lb/>
+　朝鮮國王李祹<hi>景泰</hi>
+惠莊<lb/>
+　朝鮮國王李瑈<hi>成化</hi>
+襄悼<lb/>
+　朝鮮國王李晄<hi>成化</hi>
+<pb n="KR2m0031_WYG_022-3a"/>
+懷簡<lb/>
+　朝鮮國王世子贈王李暲<hi>成化</hi>
+榮靖<lb/>
+　朝鮮國王李峼<hi>嘉靖</hi>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0031_WYG_022-3b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　明謚紀彚編卷二十二<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4b0007_SBCK_023-1a"/>
+陽明先生集要經濟編目錄<lb/>
+　卷七<lb/>
+　平諸<graphic n="KR0889" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0889.png" mimeType="image/png"/>賊<lb/>
+　　議處江古諸處<graphic n="KR0889" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0889.png" mimeType="image/png"/>賊<lb/>
+　　行南韶二府招集民兵牌<lb/>
+　　批嶺西道議處兵屯事宜呈<lb/>
+　　行領兵官勦牛腸六寺磨刀等<graphic n="KR0889" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0889.png" mimeType="image/png"/>賊<lb/>
+　　行左江道勦撫仙臺白竹<graphic n="KR0889" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0889.png" mimeType="image/png"/>賊<lb/>
+　　征勦稔惡<graphic n="KR0889" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0889.png" mimeType="image/png"/>賊疏<lb/>
+　　綏柔流賊<lb/>
+<pb n="KR4b0007_SBCK_023-1b"/>
+　　邊方缺官薦才贊理疏<lb/>
+　　征勦八寨斷藤峽牌<lb/>
+　　行叅將沈希儀守八寨牌<lb/>
+　　戒諭土目<lb/>
+　　行叅將沈希儀計勦韋召假等賊巢<lb/>
+　　分調土官韋虎林勦韋召蠻等賊<lb/>
+　　牌行委官林應驄督諭土目<lb/>
+　　牌委拮揮趙璇畱勦餘賊<lb/>
+　　牌行副總兵張祐摉勦餘賊<lb/>
+　　八寨斷藤峽㨗音疏<lb/>
+<pb n="KR4b0007_SBCK_023-2a"/>
+　　追捕逋賊<lb/>
+　　撫恤來降<lb/>
+　　行潯州府撫恤新民牌<lb/>
+　　處置八寨斷藤事宜疏<lb/>
+　　立議縣衞<lb/>
+　　乞　恩囘籍養病疏<lb/>
+　　　附<lb/>
+　　裁革文移<lb/>
+　　平茶寮碑<lb/>
+　　平浰頭碑<lb/>
+<pb n="KR4b0007_SBCK_023-2b"/>
+　　平田州立碑<lb/>
+　　田州石刻<lb/>
+　　　原集分奏疏公移别錄續集四種今就其一<lb/>
+　　　事之終始依次分敘各立標題似便於省覽<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

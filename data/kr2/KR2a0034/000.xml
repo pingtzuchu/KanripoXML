@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>遼史拾遺</head>
+    <p>
+<pb n="KR2a0034_WYG_000-1a"/>
+欽定四庫全書　　　　史部一<lb/>
+　遼史拾遺　　　　　　　正史類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案遼史拾遺二十四卷<lb/>
+　　　國朝厲鶚撰鶚字太鴻錢唐人康熙庚子舉人<lb/>
+　　　　是書拾遼史之遺有注有補均摘録舊文為<lb/>
+　　　　綱而㕘考他書條列於下凡有異同悉分析<lb/>
+　　　　考證綴以按語國語解先後次第與目録有<lb/>
+<pb n="KR2a0034_WYG_000-1b"/>
+　　　　不合者亦悉為釐正又補輯遼境四至及風<lb/>
+　　　　俗物産諸條於後其中如劉守光自為節度<lb/>
+　　　　使唐書及五代史列傳載之最詳乃獨取資<lb/>
+　　　　治通鑑一條李嗣源之救幽州不引契丹國<lb/>
+　　　　志亦僅引通鑑王都破唐兵五代史與諸書<lb/>
+　　　　互有同異而不加考辨金克中京大金國志<lb/>
+　　　　敘次最悉乃獨取松漠紀聞數言保大以後<lb/>
+　　　　遼事載於宋史紀傳者最多皆略而不取似<lb/>
+<pb n="KR2a0034_WYG_000-2a"/>
+　　　　此之類皆頗有所遺又蘭亭石刻之類蔓延<lb/>
+　　　　鋪敘與史事毫無所關亦未免嗜博愛竒傷<lb/>
+　　　　於泛濫然元脩三史莫繁冗於宋莫疎略于<lb/>
+　　　　遼又遼時書禁最嚴不得傳布於境外故一<lb/>
+　　　　朝圖籍澌滅無徴鶚采摭羣書至三百餘種<lb/>
+　　　　均以旁見側出之文㕘考而求其端緒年月<lb/>
+　　　　事迹一一鈎稽其補唐中和諸人之傳及禮<lb/>
+　　　　志之補幡勝樂志之補䀨帳輿服志之補金<lb/>
+<pb n="KR2a0034_WYG_000-2b"/>
+　　　　冠穿袍食貨志之補賦税名目皆採輯散佚<lb/>
+　　　　足備考證鶚樊榭詩集中自稱所注遼史比<lb/>
+　　　　于裴松之之三國史注亦不誣也至于卷末<lb/>
+　　　　國語解對音舛誤名義多乖由作史者昧於<lb/>
+　　　　翻譯故因仍故牘致失其真鶚雖釐正其次<lb/>
+　　　　第而索倫舊語既非所知故舊史駁文未能<lb/>
+　　　　考定今三史國語悉蒙<lb/>
+　　欽定一洗前代之訛足以昭示萬古鶚所附贅存<lb/>
+<pb n="KR2a0034_WYG_000-3a"/>
+　　　　而不論可矣乾隆四十六年四月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

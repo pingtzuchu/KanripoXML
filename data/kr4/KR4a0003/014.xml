@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>楚詞補注巻十四</head> <lb/>
+    <p>
+<pb n="KR4a0003_WYG_014-1a"/>
+欽定四庫全書<lb/>
+　楚詞補注巻十四<lb/>
+　　　　　　　　　　　　宋　洪興祖　撰<lb/>
+　哀時命章句第十四　楚詞<lb/>
+哀時命者嚴夫子之所作也夫子名忌<hi>忌㑹稽吴人本姓荘當時尊尚</hi>
+<hi>號曰夫子避漢明帝諱曰嚴一云名忌字夫子</hi>與司馬相如俱好辭賦客逰於<lb/>
+梁梁孝王甚竒重之忌哀屈原受性忠貞<hi>一云受命而生</hi>不遭<lb/>
+明君而遇暗世斐然作辭歎而述之<hi>一云追以述之</hi>故曰哀時<lb/>
+<pb n="KR4a0003_WYG_014-1b"/>
+命也<lb/>
+哀時命之不及古人兮夫何予生之不遘時<hi>遘遇也詩云遘閔既</hi>
+<hi>多言巳自哀生時年命不及古賢聖之出遇清明之時而當貪亂之世也遘一作遭閔一作愍</hi>往者不<lb/>
+可扳援兮倈者不可與期<hi>言往者聖帝不可扳引而及後世明王亦不可須待與期</hi>
+<hi>傷生不遇時遭困戹也扳一作攀倈一作来補曰扳與攀同引也</hi>志憾恨而不逞兮<hi>憾亦</hi>
+<hi>恨也論語曰與朋友共敝之而無憾逞解也補曰逞丑郢切説文逞通也楚謂疾行為逞一曰快也</hi>杼中<lb/>
+情而屬詩<hi>屬續也言已上下無所遭遇意中憾恨憂而不解則杼我中情屬續詩文以敶已志也杼</hi>
+<hi>一作抒補曰抒常與切屬音燭</hi>夜炯炯而不寐兮懐隠憂而歴兹<hi>言巳中心</hi>
+<pb n="KR4a0003_WYG_014-2a"/>
+<hi>愁怛目為炯炯而不能眠如遭大憂常懐戚戚經歴年嵗以至於此也炯一作<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>釋文作烱隠一作殷補曰炯</hi>
+<hi>古茗切光也烱俱永切炎蒸也隠痛也殷大也注云大憂疑作殷者是</hi>心鬱鬱而無告兮<lb/>
+衆孰可與深謀<hi>言巳心中憂毒而無所告語衆皆謟䛕無可與議忠信也</hi>欿愁悴而<lb/>
+委惰兮<hi>欿愁貎也委惰懈惓也惰釋文作<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>補曰欿音坎不自滿足意</hi>老冉冉而逮之<lb/>
+<hi>言已欲行忠信而不得進欿然愁悴意中懈惓年復已過為老所及而志不立也</hi>居處愁以隠<lb/>
+約兮<hi>居一作凥以一作㠯</hi>志沈抑而不揚<hi>言已放於山澤隠身守約而志意沈抑不得揚</hi>
+<hi>見於君而永憂恨也</hi>道壅塞而不通兮<hi>通一/作達</hi>江河廣而無梁<hi>言已欲竭</hi>
+<hi>忠謀䜛邪壅塞而不得達若臨江河無橋梁以濟也</hi>願至崑崙之懸圃兮采鍾山<lb/>
+<pb n="KR4a0003_WYG_014-2b"/>
+之玉英<hi>鍾山在崑崙山西北淮南言鍾山之玉燒之三日其色不變言已自知不用願避世逺去上崑</hi>
+<hi>崙山遊於懸圃采玉英咀而嚼之以延壽也補曰淮南云鍾山之玊炊以鑪炭三日三夜而色澤不變則至徳</hi>
+<hi>天地之精也許慎云鍾山北陸無日之地出美玉援神契曰玉英玉有英華之色</hi>擥瑶木之橝<lb/>
+枝兮<hi>擥一作<graphic n="KR1158" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1158.png" mimeType="image/png"/>樿一作撣補曰橝大男切木名</hi>望閬風之板桐<hi>板桐山名也在閬風之上</hi>
+<hi>言已既登崑崙復欲引玉樹之枝上望閬風板同之山遂陟天庭而遊戲也板一作阪補曰博雅云崑崙虚有</hi>
+<hi>三山閬風板桐𤣥圃水經云崑崙三級下曰樊桐一名板松二曰𤣥圃一名閬風上曰層城一名天庭淮南云</hi>
+<hi>懸圃凉風樊桐在崑崙閶闔之中樊讀如飯</hi>弱水汩其為難兮<hi>尚書曰道弱水至於合黎</hi>
+<hi>也補曰汩音骨一于筆切應劭曰弱水出張掖刪丹西至酒泉合黎餘波入于流沙師古曰弱水謂西域絶逺</hi>
+<pb n="KR4a0003_WYG_014-3a"/>
+<hi>之水乘毛車以渡者耳非張掖弱水也</hi>路中㫁而不通<hi>言已想得登神山顧以娱憂廹弱水</hi>
+<hi>不得涉渡路絶不通所為無可也㫁一作絶</hi>勢不能凌波以徑度兮<hi>以一作而度一</hi>
+<hi>作渡</hi>又無羽翼而髙翔<hi>言已勢不能為船乘波渡水又無羽翼可以飛翔當亦窮困也</hi>然<lb/>
+隠憫而不達兮<hi>憫一作閔</hi>獨徙倚而彷徉<hi>徙倚猶低佪也言已隠身山澤内自</hi>
+<hi>憫傷志不得達獨徘徊彷徉而逰戲也一作仿佯</hi>悵惝罔㠯永思兮<hi>㠯一作而補曰惝昌</hi>
+<hi>掌切驚貌</hi>心紆<graphic n="KR0942" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0942.png" mimeType="image/png"/>而増傷<hi>言巳含憂彷徉意中悵然惝罔長/思心屈纒痛苦重傷也補曰<graphic n="KR0942" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0942.png" mimeType="image/png"/>當</hi>
+<hi>作軫</hi>倚躊躇以淹留兮<hi>以一/作㠯</hi>日飢饉而絶糧<hi>蔬不熟曰饉言已欲躊躇</hi>
+<hi>久留恐百姓飢餓糧食絶乏也絶古本作<graphic n="KR1247" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1247.png" mimeType="image/png"/>糧/一作粻補曰<graphic n="KR1247" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1247.png" mimeType="image/png"/>古絶字反<graphic n="KR1247" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1247.png" mimeType="image/png"/>為繼或作㡭非是</hi>廓抱景<lb/>
+<pb n="KR4a0003_WYG_014-3b"/>
+而獨倚兮超永思乎故鄉<hi>言已在於山澤廓然無耦獨抱形景而立長念楚國心不</hi>
+<hi>能已惝惘長思故鄉也乎一作兮一云超永思乎此故鄉</hi>廓落寂而無友兮誰可與<lb/>
+玩此遺芳<hi>玩習也言已居處廓落又無知友當誰與講習忠信之謀也</hi>白日晼晚其<lb/>
+將入兮哀余壽之弗將<hi>將猶長也言日月西流晼晚而歿天時不可留哀我年命不得</hi>
+<hi>長乆也弗一作不補曰晼音苑</hi>車既弊而馬罷兮蹇邅徊而不能行<lb/>
+<hi>言已周行四方車以弊敗馬又罷極蹇然邅徊不能復前而不遇賢君也徊一作廻補曰罷音疲</hi>身既<lb/>
+不容於濁世兮不知進退之冝當<hi>言巳執貞潔之行不能自入貪濁之世愁</hi>
+<hi>不知進止之冝當何所行者也</hi>冠崔嵬而切雲兮劒淋離而從横<hi>淋離長貌</hi>
+<pb n="KR4a0003_WYG_014-4a"/>
+<hi>也言已雖不見容猶整飾衣服冠則崔嵬上摩於雲劒則長好文武並盛與衆異也補曰崔音摧淋音林</hi>衣<lb/>
+攝葉以儲與兮<hi>攝葉儲與不舒展貌補曰攝之葉切曲折也儲音宁又音佇</hi>左袪挂<lb/>
+於榑桑<hi>袪袖也詩云羔裘豹袪言已衣服長大攝葉儲與不得舒展徳能𢎞廣不得施用東行則左袖</hi>
+<hi>挂於榑桑無所不覆也挂一作絓榑一作扶桑一作乘補曰榑與扶同</hi>右衽拂於不周兮<lb/>
+六合不足以肆行<hi>六合謂天地四方也言已西行則右衽拂於不周之山以六合為小不足</hi>
+<hi>肆行言道徳盛大無所不包也</hi>上同鑿枘於伏戲兮<hi>戲一作羲</hi>下合矩矱於<lb/>
+虞唐<hi>言已徳能純美冝上輔伏戲與同制量下佐堯舜與合法度而共治也合一作同矩一作規</hi>願<lb/>
+尊節而式高兮志猶卑夫禹湯<hi>言已雖不見用猶尊髙節度意卑禹湯不欲事</hi>
+<pb n="KR4a0003_WYG_014-4b"/>
+<hi>也</hi>雖知困其不改操兮終不以邪枉害方<hi>言已雖自知貧賤困極不</hi>
+<hi>能變志易操終不能邪枉其身以害公方之行也</hi>世並舉而好朋兮壹斗斛而<lb/>
+相量<hi>言今世之人皆好朋黨竝相薦舉持其貪佞之心以量清潔之士壹或作一斗一作升</hi>衆比<lb/>
+周以肩廹兮<hi>比親也周合也以一作而</hi>賢者逺而隠藏<hi>言衆佞相與合同並肩親</hi>
+<hi>比故賢者逺逝而藏隠匿也一云隐而退藏</hi>為鳯皇作鶉籠兮雖翕翅其不容<lb/>
+<hi>為鳳皇作棲以鶉鴳之籠雖翕其翅翼猶不能容其形體也以言賢者遭世亂雖屈其身亦不能自容入一本</hi>
+<hi>作上有而字翅一作翼補曰翕虚及切</hi>靈皇其不寤知兮<hi>一無寤字</hi>焉陳詞而<lb/>
+効忠<hi>言懐王闇蔽心不覺寤安所陳詞効已之忠信乎詞一作辭</hi>俗嫉妬而蔽賢兮<lb/>
+<pb n="KR4a0003_WYG_014-5a"/>
+孰知余之從容<hi>言楚國風俗嫉妬蔽賢無有知我進退執守忠信也</hi>願舒志而抽<lb/>
+馮兮<hi>馮一作慿一作懣一作愁補曰馮音慿亦音憤</hi>庸詎知其吉凶<hi>庸用也言已思舒志</hi>
+<hi>意援引憤懣盡極忠信當何縁知其逢吉将被凶也</hi>璋珪雜於甑窐兮<hi>璋珪玉名也窐甑土</hi>
+<hi>孔一作珪璋補曰甑子孕切窐音攜又音鼃淮南云弊箄甑瓾在袇菌之上注云瓾甑帶音鼃</hi>隴亷與<lb/>
+孟娵同宫<hi>隴㢘醜婦也孟娵好女也言世人不識善惡乃以甑窐之士雜厠圭玊又使醜婦與好女</hi>
+<hi>同室也以言君闇惑不别賢愚也補曰娵女名音鄒一音須</hi>舉世以為恒俗兮<hi>恒常</hi>固<lb/>
+將愁苦而終窮<hi>言舉世不識賢愚以為常俗我固當終身窮困而已</hi>幽獨轉而不<lb/>
+寐兮惟煩懣而盈匈<hi>懣憤也言巳愁思展轉而不能卧心中煩憤氣結滿匈也</hi>䰟眇<lb/>
+<pb n="KR4a0003_WYG_014-5b"/>
+眇而馳騁兮心煩寃之<graphic n="KR0885" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0885.png" mimeType="image/png"/>
+                    <graphic n="KR0885" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0885.png" mimeType="image/png"/>
+                    <hi>言巳精䰟眇眇獨馳心中煩懣<graphic n="KR0885" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0885.png" mimeType="image/png"/>
+                        <graphic n="KR0885" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0885.png" mimeType="image/png"/>而憂也䰟一作</hi>
+<hi>魂之一作而補曰<graphic n="KR0885" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0885.png" mimeType="image/png"/>丑弓切</hi>志欿憾而不憺兮<hi>憺安補曰大暫切</hi>路幽昧而<lb/>
+甚難<hi>言巳心中欿恨意識不安欲復逺去以道路深冥難數移也</hi>塊獨守此曲隅兮<lb/>
+然欿切而永歎<hi>言巳獨處山野塊然守此山曲心為切痛長歎而已</hi>愁脩夜而宛<lb/>
+轉兮<hi>而一作之</hi>氣涫<graphic n="KR1594" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1594.png" mimeType="image/png"/>其若波<hi>言巳心憂宛轉而不能卧愁/夜之長氣為涫<graphic n="KR1594" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1594.png" mimeType="image/png"/>若水之波</hi>
+<hi>也其一作而波一作湯補曰涫沸也釋文音館集韻官貫二音<graphic n="KR1594" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1594.png" mimeType="image/png"/>與沸同</hi>握剞劂而不用兮<lb/>
+<hi>剞劂刻鏤刀也補曰剞居綺切劂居衛切又九月切應劭曰剞曲刀劂曲鑿説文云剞<graphic n="KR1403" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1403.png" mimeType="image/png"/>曲刀也</hi>操規<lb/>
+榘而無所施<hi>言已懐徳不用若工握剞劂而無所刻鏤持方圜而無所錯也一云而無施</hi>騁<lb/>
+<pb n="KR4a0003_WYG_014-6a"/>
+騏驥於中庭兮焉能極夫逺道<hi>言騏驥壹馳千里乃騁之中庭促狹之處不得</hi>
+<hi>展足以極逺道也以言使賢者執洒掃之役亦不得展志意也</hi>置猨狖於櫺檻兮夫何<lb/>
+以責其㨗巧<hi>言猨狖當居髙木茂林見其才力而置之櫺檻之中廹局之處責其㨗巧非其理也</hi>
+<hi>以言君子當在廟堂為政而棄之山林責其智能亦非其冝也猨一作蝯狖一作㹸㨗一作㨗補曰櫺音零階</hi>
+<hi>際欄</hi>駟跛鼈而上山兮吾固知其不能陞<hi>言巳念君信用衆愚欲以致治</hi>
+<hi>猶若駕跛鼈而欲上山我固知其不能登也補曰跛波可切</hi>釋管晏而任臧獲兮<hi>臧為</hi>
+<hi>人所賤繫也獲為人所係得也賤繫一作殘擊補曰方言云臧獲奴婢賤稱也罵奴曰臧罵婢曰獲男兒聓婢</hi>
+<hi>曰臧女而婦奴曰獲亡奴為之臧亡婢謂之獲</hi>何權衡之能稱<hi>言君欲為政反置管仲晏嬰任</hi>
+<pb n="KR4a0003_WYG_014-6b"/>
+<hi>用敗軍賤辱係獲之士何能稱權衡興至治乎或曰臧守藏者也獲生禽者也皆卑賤無知之人</hi>箟簬<lb/>
+雜於黀蒸兮機蓬矢以䠶革<hi>巳解於七諌也箟竹也一作菎蕗黀一作菆一作叢</hi>
+<hi>一作靡䠶一作射</hi>負檐荷以丈尺兮欲伸要而不可得<hi>背曰負荷曰檐</hi>
+<hi>言巳居於衰亂之世常低頭俛視若以背肩負檐丈尺而歩不敢伸要仰首以逺罪過也檐一作擔補曰檐擔</hi>
+<hi>並都濫切負也擔又都甘切釋名曰任也任力所勝也要與腰同</hi>外廹脅於機臂兮<hi>廹脅</hi>
+<hi>近附也機臂弩身也於一作以臂一作辟補曰莊子云中於機辟辟毗亦切疏云辟法也機關之類</hi>上牽<lb/>
+聫於矰隿<hi>言已居常怖懼若附强弩機臂畏其妄發上恐牽聨於隿䠶身被矰繳也隿一作弋補曰</hi>
+<hi>聫音連矰音増隿與弋同</hi>肩傾側而不容兮<hi>一云不得容補曰孟子云脅肩謟笑</hi>固陿<lb/>
+<pb n="KR4a0003_WYG_014-7a"/>
+腹而不得息<hi>言已欲傾側肩背容頭自入又不見納故陿腹小息畏懼患禍也陿一作愜腹一作</hi>
+<hi>膓補曰陿音狹隘也</hi>務光自投於深淵兮<hi>務光古清白之士也補曰務光見莊子</hi>不<lb/>
+獲世之塵垢<hi>言古有賢士務光憎惡濁世言不見從自投深淵而死不謂䜛佞所塵汚已慕其行</hi>
+<hi>也垢一作埃補曰屈原傳不獲世之滋垢</hi>孰魁摧之可乆兮願退身而窮處<lb/>
+<hi>言已為諛佞所譛被過魁摧不可久止願退我身處於貧窮而巳</hi>鑿山楹而為室兮<hi>楹柱</hi>
+<hi>而一作以</hi>下被衣於水渚<hi>渚水涯也言巳雖窮猶鑿山石以為室柱下洗浴水涯被已衣裳不</hi>
+<hi>失清潔也</hi>霧露濛濛其晨降兮<hi>一作/朦朦</hi>雲依斐而承宇<hi>言幽居山谷霧</hi>
+<hi>露濛濛而晨來下浮雲依斐承我屋霤晝夜闇冥也斐一作霏一云雲衣斐斐而承宇補曰斐音非</hi>虹霓<lb/>
+<pb n="KR4a0003_WYG_014-7b"/>
+紛其朝霞兮<hi>霓一作蜺</hi>夕滛滛而淋雨<hi>言天雲雜色虹霓揚光紛然炫燿日未明</hi>
+<hi>旦復有朝霞則夕淋雨愁且思也補曰詩云朝隮于西崇朝其雨</hi>怊茫茫而無歸兮<hi>茫一</hi>
+<hi>作芒</hi>悵逺望此曠野<hi>言已幽居遇雨愁思茫茫無所依歸但見曠野草木盛茂也曠一作廣</hi>
+下垂釣於谿谷兮上要求於僊者<hi>言已幽居無事下則垂釣餌於谿谷上則要結</hi>
+<hi>僊人從之受道也求一作結補曰要平聲</hi>與赤松而結友兮<hi>一無而字</hi>比王僑而<lb/>
+為耦<hi>言已執守清潔遂與二子為羣黨也</hi>使梟楊先導兮<hi>梟楊山神名即狒狒也導一作</hi>
+<hi>道補曰説文周成王時州靡國獻狒人身反踵自笑笑則上脣掩其目食人爾雅狒狒如人被髪迅走食人注</hi>
+<hi>云梟羊也山海經曰其狀如人靣長脣黒身有毛反踵見人則笑狒父費切淮南云山出嘄陽注云山精也一</hi>
+<pb n="KR4a0003_WYG_014-8a"/>
+<hi>説云梟羊大口其初得人喜而笑却脣上覆額移時而後食之張衡𤣥圖曰梟羊喜獲先笑後愁謂人鑿其脣</hi>
+<hi>於額而得禽之也</hi>白虎為之前後浮雲霧而入冥兮騎白鹿而<lb/>
+容與<hi>言已與仙人俱出則山神先道乘雲霧騎白鹿而游戲也</hi>䰟眐眐以寄獨兮<hi>眐眐</hi>
+<hi>獨行貌也補曰眐音征从目眐眩獨視也博雅云眐眐行也其字从耳</hi>汩徂往而不歸<hi>言我</hi>
+<hi>䰟神眐眐獨行寄居而處汩然遂往而不還也補曰汩于筆切</hi>處卓卓而日逺兮<hi>卓卓高貌</hi>
+<hi>卓一作逴逺一作高補曰逴音卓</hi>志浩蕩而傷懐<hi>言巳随從仙人上㳺所居卓卓日以高逺</hi>
+<hi>中心浩蕩罔然愁思念楚國也</hi>鸞鳯翔於蒼雲兮故矰繳而不能加<hi>一無</hi>
+<hi>而字補曰繳音酌</hi>蛟龍潜於旋淵兮身不挂於罔羅<hi>言鸞鳯飛于千仞蛟</hi>
+<pb n="KR4a0003_WYG_014-8b"/>
+<hi>龍藏於旋淵故矰<graphic n="KR0819" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0819.png" mimeType="image/png"/>不能逮羅罔不能加也以言賢者亦宜髙舉隠藏法令不能拘也旋一作深罔一作網補</hi>
+<hi>曰淮南云藏志乎九旋之淵注云九廻之淵至深也</hi>知貪餌而近死兮不如下㳺<lb/>
+乎清波<hi>清波清潔之流無人之處也言蛟龍明於避害知貪香餌必近於死故下㳺於清波無人之處</hi>
+<hi>也以言賢者亦不宜貪禄位以危其身也而一作之</hi>寜幽隠以逺禍兮孰侵辱之<lb/>
+可為<hi>言巳亦寕隠身幽藏以逺患禍不能久被侵辱誠為難也</hi>子胥死而成義兮屈<lb/>
+原沈於汨羅雖體解其不變兮<hi>其一作而</hi>豈忠信之可化<hi>補曰</hi>
+<hi>化音花</hi>志怦怦而内直兮<hi>怦一作恲補/曰披耕切</hi>履繩墨而不頗<hi>皆已</hi>
+<hi>解於離騷九辯七諫</hi>執權衡而無私兮稱輕重而不差<hi>差過也言已如得執</hi>
+<pb n="KR4a0003_WYG_014-9a"/>
+<hi>持權衡能無私阿稱量賢愚必不過差各如其理也補曰差七何切</hi>摡塵垢之枉攘兮<hi>枉攘</hi>
+<hi>亂貌概一作慨一作狂攘一作枉攘摡滌也</hi>除穢累而反真<hi>言巳又欲摡激濁亂之臣使君</hi>
+<hi>除去穢累而反於清明之徳真一作惪</hi>形體白而質素兮中皎潔而淑清<lb/>
+<hi>言已自念形體潔白表裏如素心中皎潔内有善性清明之質也</hi>時猒飫而不用兮且<lb/>
+隠伏而逺身<hi>言時君不好忠直之士猒倦其言而不肯用故且隠伏山澤斥逺已身也補曰飫於</hi>
+<hi>據切</hi>聊竄端而匿迹兮嗼寂黙而無聲<hi>言已竭忠而不見用且逃頭匿足竄</hi>
+<hi>伏自藏執守寂寞吞舌無聲也嗼一作漠一作歎一作嘆一云歎寂漠補曰嗼音莫説文<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>嗼也</hi>獨便<lb/>
+悁而煩毒兮<hi>便悁一作悁悒</hi>焉發憤而抒情<hi>言巳懐忠直之志獨悁悒煩毒無所</hi>
+<pb n="KR4a0003_WYG_014-9b"/>
+<hi>發我憤懣泄已忠信也</hi>時曖曖其將罷兮<hi>曖一作薆補曰罷音皮</hi>遂悶歎而<lb/>
+無名<hi>言已遭時不明行善罷倦心遂煩悶傷無美名以流後世也歎一作漠一作嗼</hi>伯夷死於<lb/>
+首陽兮<hi>一作首山一云首陽之山</hi>卒夭隠而不榮<hi>言伯夷餓於首陽夭命而死不饗其</hi>
+<hi>爵禄得其榮寵也夭一作殀補曰夭於表切</hi>太公不遇文王兮身至死而不<lb/>
+得逞<hi>言太公不遇文王至死不得解于厮賤一無得字補曰逞丑京切縱也</hi>懐瑶象而佩<lb/>
+瓊兮願陳列而無正<hi>言已懐玊象履忠信願陳列己志無有明正之君聼而受之也</hi>生<lb/>
+天墜之若過兮忽爛漫而無成<hi>爛漫猶消散也言已生於天地之間忽若風雨</hi>
+<hi>之過晻然而消散恨無成功也爛一作瀾</hi>邪氣襲余之形體兮<hi>一無體字</hi>疾憯怛<lb/>
+<pb n="KR4a0003_WYG_014-10a"/>
+而萌生<hi>襲及也言已常恐邪惡之氣及我形體疾病憯痛横發而生身僵仆也補曰怛多達切</hi>願<lb/>
+壹見陽春之白日兮恐不終乎永年<hi>言已被疾憂懼恐隨草木徂落不能</hi>
+<hi>至陽春見白日不終年命遂委棄也</hi>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR4a0003_WYG_014-10b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　楚詞補注巻十四<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

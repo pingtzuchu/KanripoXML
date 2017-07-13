@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3a0007_SBCK_000-1a"/>
+說苑序<lb/>
+　　　　　　南　豊　曽　鞏<lb/>
+劉向所序說苑二十篇崇文總目云今<lb/>
+存者五篇餘皆亡臣從士大夫間得之<lb/>
+者十有五篇與舊為二十五篇正其脫<lb/>
+<graphic n="KR0861" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0861.png" mimeType="image/png"/>疑者闕之而叙其目曰向采傳記百<lb/>
+家所載行事之迹以為此書奏之欲以<lb/>
+為法戒然其所取或有不當於理故不<lb/>
+得而不論也夫學者之於道非知其大<lb/>
+<pb n="KR3a0007_SBCK_000-1b"/>
+略之難也知其精微之際固難矣孔子<lb/>
+之徒三千其顯者七十二人皆髙世之<lb/>
+材也然獨稱顔氏之子其殆庶㡬乎及<lb/>
+回死又以為無好學者而回亦稱夫子<lb/>
+曰仰之彌髙鑚之彌堅子貢又以謂夫<lb/>
+子之言性與天道不可得而聞也則其<lb/>
+精微之際固難知久矣是以取舎不能<lb/>
+無失於其間也故曰學然後知不足豈<lb/>
+虚言哉向之學博矣其著書及建言尤<lb/>
+<pb n="KR3a0007_SBCK_000-2a"/>
+欲有為扵世忘其枉已而為之者有矣<lb/>
+何其徇物者多而自為者少也盖古之<lb/>
+聖賢非不欲有為也然而曰求之有道<lb/>
+得之有命故孔子所至之邦必聞其政<lb/>
+而子貢以謂非夫子之求之也豈不求<lb/>
+之有道哉子曰道之將行也歟命也道<lb/>
+之将廢也歟命也豈不得之有命哉令<lb/>
+向知岀此安扵行止以彼其志能擇其<lb/>
+所學其盡乎精微則其所至未可量也<lb/>
+<pb n="KR3a0007_SBCK_000-3a"/>
+是以夫子稱古之學者為已孟子稱君<lb/>
+子欲其自得之自得之則取諸左右逢<lb/>
+其原豈汲汲扵外哉向之得失如此亦<lb/>
+學者之戒也故見之叙論令讀其書者<lb/>
+知考而擇之也然向數困扵䜛而不改<lb/>
+其操與夫患失者異矣可謂有志者也<lb/>
+　目錄<lb/>
+　　卷第一　君道　卷第二　臣術<lb/>
+　　卷第三　建本　卷第四　立節<lb/>
+<pb n="KR3a0007_SBCK_000-3b"/>
+　　卷第五　貴徳　卷第六　復恩<lb/>
+　　卷第七　政理　卷第八　尊賢<lb/>
+　　卷第九　正諫　卷第十　敬慎<lb/>
+　　卷十一　善説　卷十二　奉使<lb/>
+　　卷十三　權謀　卷十四　至公<lb/>
+　　卷十五　指武　卷十六　叢談<lb/>
+　　卷十七　雜言　卷十八　辨物<lb/>
+　　卷十九　修文　卷二十　反質<lb/>
+護左都水使者光禄大夫臣向言所校<lb/>
+<pb n="KR3a0007_SBCK_000-4a"/>
+中書說苑雜事及臣向書民間書誣校<lb/>
+讎其事類衆多章句相溷或上下<graphic n="KR0861" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0861.png" mimeType="image/png"/>亂<lb/>
+難分别次序除去與新序復重者其餘<lb/>
+者淺薄不中義理别集以為百家後令<lb/>
+以類相從一一條别篇目更以造新事<lb/>
+十萬言以上凡二十篇七百八十四章<lb/>
+號曰新苑皆可觀臣向昧死<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

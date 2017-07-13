@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>畫禪室隨筆目録</head>
+    <p>
+<pb n="KR3j0158_WYG_000-1a"/>
+欽定四庫全書　　　　　子部十<lb/>
+　畫禪室隨筆目録　　　　雜家類三<hi>雜說之屬</hi>
+　　卷一<lb/>
+　　　論用筆　　　　　　　評法書<lb/>
+　　　䟦自書　　　　　　　評古帖<lb/>
+　　卷二<lb/>
+　　　畫訣　　　　　　　　畫源<lb/>
+　　　題自畫　　　　　　　評舊畫<lb/>
+<pb n="KR3j0158_WYG_000-1b"/>
+　　卷三<lb/>
+　　　記事　　　　　　　　記游<lb/>
+　　　評詩　　　　　　　　評文<lb/>
+　　卷四<lb/>
+　　　雜言上　　　　　　　雜言下<lb/>
+　　　楚中隨筆　　　　　　禪悦<lb/>
+　　　　<hi>臣</hi>等謹案畫禪室隨筆四卷明董其昌撰其<lb/>
+　　　　昌字元宰松江華亭人萬厯己丑進士改庶<lb/>
+<pb n="KR3j0158_WYG_000-2a"/>
+　　　　吉士官至禮部尚書掌詹事府事加太子太<lb/>
+　　　　保致仕卒諡文敏事蹟具明史文苑傳其昌<lb/>
+　　　　天才俊逸以書畫擅名人擬之米芾趙孟頫<lb/>
+　　　　此乃所作雜記其第一卷皆論書語第二卷<lb/>
+　　　　皆論畫語類多手蹟題跋之文而後人為編<lb/>
+　　　　次成帙者凡所評隲頗得書畫三昧葢於此<lb/>
+　　　　道解悟甚深故談言微中洵足為藝事指南<lb/>
+　　　　之助第三卷分記事記逰評詩評文四子部<lb/>
+<pb n="KR3j0158_WYG_000-2b"/>
+　　　　中如記楊成以蔡經為蔡京之類頗涉輕薄<lb/>
+　　　　以陸龜蒙白蓮詩為皮日休未免舛誤又其<lb/>
+　　　　昌於八股最有法度故評文多談制藝亦自<lb/>
+　　　　舉其所得力者言之然大致雅馴實有可採<lb/>
+　　　　第四卷亦分子部四襍言上下皆小品閒文<lb/>
+　　　　楚中隨筆則冊封楚王時所作並足以資檢<lb/>
+　　　　核惟禪悦一門摭拾宗門餘唾推重李贄陶<lb/>
+　　　　望齡諸人殊為漸染習氣然當時士大夫大<lb/>
+<pb n="KR3j0158_WYG_000-3a"/>
+　　　　槩皆然固不足為其昌責矣乾隆四十三年<lb/>
+　　　　八月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4c0081_SBCK_009-1a"/>
+李羣玉詩後集卷第五<lb/>
+　　　中秋寄南海侍御<lb/>
+海静天髙景氣殊鯨睛失彩蚌潜珠不知今夜<lb/>
+越臺上望見瀛洲方丈無<lb/>
+　　　戯贈姬人<lb/>
+骰子廵抛裏手拈無因得見玉纎纎但知謔道<lb/>
+金釵落圗向人前露指尖<lb/>
+　　　大庾山嶺别友人<lb/>
+篔簹無子鵷鶵飢毛彩凋摧不得歸誰念火雲<lb/>
+千嶂裏低身猶傍鷓鴣飛<lb/>
+<pb n="KR4c0081_SBCK_009-1b"/>
+　　　石門戍<lb/>
+到此空思呉隱之潮痕草蔓上幽碑人來皆望<lb/>
+珠璣去誰詠貪泉四句詩<lb/>
+　　　文殊院避暑<lb/>
+赤日黃埃滿丗間松聲入耳即心閑願㝷五百<lb/>
+仙人去一丗清凉住雪山<lb/>
+　　　南莊春晚二首<lb/>
+連雲草映一條陂鸂䳵雙雙帶水飛南村小路<lb/>
+桃花落細雨斜風獨自歸<lb/>
+草暖沙長望去舟微茫烟浪向巴丘沅湘寂寂<lb/>
+<pb n="KR4c0081_SBCK_009-2a"/>
+春歸盡水緑蘋香人自愁<lb/>
+　　　懷𥘉公<lb/>
+不見休上人空傷碧雲思何處開寳書秋風海<lb/>
+光寺<lb/>
+　　　龍安寺佳人阿最歌八首<lb/>
+團團明月面冉冉栁枝腰未入鴛鴦𬒳心長似<lb/>
+火燒<lb/>
+見面知何益聞名憶轉深拳攣荷葉子未得展<lb/>
+蓮心<lb/>
+欲摘不得摘如看波上花若教親玉樹情願作<lb/>
+<pb n="KR4c0081_SBCK_009-2b"/>
+蒹葭<lb/>
+門路穿茶焙房門映竹烟㑹湏隨鹿女乞火到<lb/>
+䆫前<lb/>
+不是求心印都縁愛緑珠何湏同㤗寺然後始<lb/>
+爲奴<lb/>
+旣爲金界客任改浄人名願掃琉璃地燒香過<lb/>
+一生<lb/>
+素腕撩金索輕紅約翠紗不如欄下水終日見<lb/>
+桃花<lb/>
+第一龍宫女相憐是阿誰好魚輸獺畫白鷺鎮<lb/>
+<pb n="KR4c0081_SBCK_009-3a"/>
+長飢<lb/>
+　　　病起别主人<lb/>
+益媿千金少情將一飯殊恨無泉客淚盡泣感<lb/>
+恩珠<lb/>
+　　　火爐前坐<lb/>
+孤燈照不寐風雨滿西林多少關心事書灰到<lb/>
+夜深<lb/>
+　　　古詞<lb/>
+一合相思淚臨江灑素秋碧波如㑹意却與向<lb/>
+西流<lb/>
+<pb n="KR4c0081_SBCK_009-3b"/>
+　　　投從叔<lb/>
+可惜出羣蹄毛焦乆卧泥孫陽如不願騏驥向<lb/>
+誰嘶<lb/>
+　　　惱自澄<lb/>
+常聞天女㑹玉指散天花莫遣春風裏紅芳點<lb/>
+袈裟<lb/>
+　　　讀賈誼傳<lb/>
+卑濕長沙地空抛岀丗才巳齊生死理鵩鳥莫<lb/>
+爲災<lb/>
+　　　寄人<lb/>
+<pb n="KR4c0081_SBCK_009-4a"/>
+寄語雙蓮子湏知用意深莫嫌一點苦便擬棄<lb/>
+蓮心<lb/>
+　　　寄韋秀才<lb/>
+荆臺蘭渚客寥落共含情空館相思夜孤燈照<lb/>
+雨聲<lb/>
+　　　春日寄友<lb/>
+晴氣熏櫻蘂丰𪷟雪滿林請君三斗酒醉卧白<lb/>
+羅岑<lb/>
+　　　題竹<lb/>
+一頃含秋緑森風十萬竿氣吹朱夏轉聲掃碧<lb/>
+<pb n="KR4c0081_SBCK_009-4b"/>
+霄寒<lb/>
+　　　　野鴨<lb/>
+鸂䳵借毛衣喧呼鷹隼稀雲披菱藻地任汝作<lb/>
+群飛<lb/>
+李羣玉詩後集卷第五<lb/>
+　　　　　　　臨安府棚北大街睦親坊南陳解元宅書籍鋪印<lb/>
+　　　　　　　　　　　　　　　㤗興季振宜滄葦氏珍藏<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

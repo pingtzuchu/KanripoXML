@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>續茶經</head>
+    <p>
+<pb n="KR3i0024_WYG_000-1a"/>
+欽定四庫全書　　　　　子部九<lb/>
+　續茶經　　　　　　　　譜録類二<hi>飲饌之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案續茶經三卷附録一卷<lb/>
+　　　國朝陸廷燦撰廷燦字秩昭嘉定人官崇安縣<lb/>
+　　　　知縣候補主事自唐以來茶品推武夷武夷<lb/>
+　　　　山即在崇安境故廷燦官是縣時習知其說<lb/>
+　　　　剏為此藁歸田後訂緝成編冠以陸羽茶經<lb/>
+<pb n="KR3i0024_WYG_000-1b"/>
+　　　　原本而從其原目採摭諸書以續之上卷續<lb/>
+　　　　其一之源二之具三之造中卷續其四之器<lb/>
+　　　　下卷自分三子卷下之上續其五之煮六之<lb/>
+　　　　飲下之中續其七之事八之出下之下續其<lb/>
+　　　　九之畧十之圖而以厯代茶法附為末卷則<lb/>
+　　　　原目所無廷燦補之也自唐以來閱數百載<lb/>
+　　　　凡産茶之地製茶之法業已厯代不同即烹<lb/>
+　　　　煮器具亦古今多異故陸羽所述其書雖古<lb/>
+<pb n="KR3i0024_WYG_000-2a"/>
+　　　　而其法多不可行於今廷燦一一訂定補葺<lb/>
+　　　　頗切實用其徴引亦頗繁富觀所作南村筆<lb/>
+　　　　記引李日華紫桃軒又綴五臺凍泉一條自<lb/>
+　　　　稱此書失載補録於彼則其捜葺亦可謂勤<lb/>
+　　　　矣録而存之亦足以資考訂至於陸羽舊本<lb/>
+　　　　廷燦雖用以弁首而其書久已别行未可以<lb/>
+　　　　續補之書掩其原目故今削去不載惟録廷<lb/>
+　　　　燦之書焉乾隆四十六年九月恭校上<lb/>
+<pb n="KR3i0024_WYG_000-2b"/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="KR3i0024_WYG_000-3a"/>
+續茶經凡例<lb/>
+一茶經著自唐桑苧翁迄今千有餘載不獨製作各殊<lb/>
+　而烹飲迥異即出産之處亦多不同余性嗜茶承乏<lb/>
+　崇安適係武夷産茶之地值制府滿公鄭重進獻究<lb/>
+　悉源流毎以茶事下詢查閲諸書於武夷之外毎多<lb/>
+　見聞因思採集為續茶經之舉曩以簿書鞅掌有志<lb/>
+　未遑及䝉量移奉文赴部以多病家居翻閲舊稿不<lb/>
+　忍委棄爰為序次第恐學術乆荒見聞疎漏為識者<lb/>
+<pb n="KR3i0024_WYG_000-3b"/>
+　所鄙謹質之髙明幸有以教之幸甚<lb/>
+一茶經之後有茶記及茶譜茶録茶論茶疏茶解等書<lb/>
+　不可枚舉而其書亦多湮沒無𫝊茲特採所見各書<lb/>
+　依茶經之例分之源之具之造之器之煮之飲之事<lb/>
+　之出之畧至其圖無𫝊不敢臆補以茶具茶器圖足<lb/>
+　之<lb/>
+一茶經所載皆初唐以前之書今自唐宋元明以至<lb/>
+本朝凡有緒論皆行採録有其書在前而茶經未録者<lb/>
+<pb n="KR3i0024_WYG_000-4a"/>
+　亦行補入<lb/>
+一茶經原本止三卷恐續者太繁是以諸書所見止摘<lb/>
+　要分錄<lb/>
+一各書所引相同者不取重複偶有議論各殊者姑兩<lb/>
+　存之以示論定至歴代詩文暨當代名公鉅卿著述<lb/>
+　甚多因訪茶經之例不敢備録容俟另編以為外集<lb/>
+一原本茶經另列卷首<lb/>
+一歴代茶法附後<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

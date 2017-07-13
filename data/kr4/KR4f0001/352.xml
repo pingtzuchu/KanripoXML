@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4f0001_WYG_352-1a"/>
+　欽定四庫全書<lb/>
+聖祖仁皇帝御製文第四集巻二十六目錄<lb/>
+　　雜著<lb/>
+　　康熙幾暇格物編<lb/>
+　　　星宿海<lb/>
+　　　䝉氣<lb/>
+　　　方音<lb/>
+　　　窩集<lb/>
+<pb n="KR4f0001_WYG_352-1b"/>
+　　　鳥䑕同穴<lb/>
+　　　白粟米<lb/>
+　　　使鹿使犬<lb/>
+　　　哈宻引雪山水灌田<lb/>
+　　　榖穂變蚊<lb/>
+　　　土伯特<lb/>
+　　　石鹽<lb/>
+　　　氷厚數尺<lb/>
+<pb n="KR4f0001_WYG_352-2a"/>
+　　察哈延山<lb/>
+　　南無字義<lb/>
+　　達發哈魚<lb/>
+　　地絶處<lb/>
+　　南方物性<lb/>
+　　山海闗<lb/>
+　　哈宻𤓰<lb/>
+　　三門砥柱<lb/>
+<pb n="KR4f0001_WYG_352-2b"/>
+　　雷聲不過百里<lb/>
+　　海魚化麅<lb/>
+　　石魚<lb/>
+　　山氣<lb/>
+　　秦達罕<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

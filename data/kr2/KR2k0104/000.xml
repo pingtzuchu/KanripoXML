@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>南方草木状</head>
+    <p>
+<pb n="KR2k0104_WYG_000-1a"/>
+欽定四庫全書　　　　　史部十一<lb/>
+　南方草木状　　　　　　地理類八雜記之屬<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹按南方草木状三卷晉嵇含撰含事<lb/>
+　　　　蹟附載晉書嵇紹𫝊考隋志舊唐志俱有含<lb/>
+　　　　集十卷<hi>隋志云其集已亡但附載郭象集下舊唐志仍著錄</hi>而不載此<lb/>
+　　　　書至宋志始著錄觀此書載指甲花自大秦<lb/>
+　　　　國移植南海是晉時已有此花而唐叚公路<lb/>
+<pb n="KR2k0104_WYG_000-1b"/>
+　　　　北户錄乃云指甲花本出外國梁大同二年<lb/>
+　　　　始來中國知公路未見此書盖唐時尚不甚<lb/>
+　　　　顯故史志不載也諸本但題譙國嵇含惟宋<lb/>
+　　　　麻沙舊板前題曰永興元年十一月丙子振<lb/>
+　　　　威将軍襄陽太守嵇含撰云云載其年月仕<lb/>
+　　　　履頗為詳具盖舊本如是明人始刋削之然<lb/>
+　　　　晉書恵帝本紀永寧二年正月改元永安七<lb/>
+　　　　月改建武十一月復為永安十二月丁亥立<lb/>
+<pb n="KR2k0104_WYG_000-2a"/>
+　　　　豫章王熾為太弟始改永興是永興元年不<lb/>
+　　　　得有十一月又永興二年正月甲午朔以干<lb/>
+　　　　支推之丙子當在上年十二月中旬尚在改<lb/>
+　　　　元前十二日其時亦未稱永興或其時改元<lb/>
+　　　　之後併十二月一月皆追稱永興而輾轉𫝊<lb/>
+　　　　刻又誤十二月為十一月歟惟隋志稱廣州<lb/>
+　　　　太守嵇含而此作襄陽太守考書中所載皆<lb/>
+　　　　嶺表之物則疑襄陽或誤題也其書凡分草<lb/>
+<pb n="KR2k0104_WYG_000-2b"/>
+　　　　朩果竹四類共八十種叙述典雅非唐以後<lb/>
+　　　　人所能偽不得以始見宋志疑之其本亦最<lb/>
+　　　　完整盖宋以後花譜地志援引者多其字句<lb/>
+　　　　可以互校故獨尠訛闕焉乾隆四十三年九<lb/>
+　　　　月㳟校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　總　校　官　<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

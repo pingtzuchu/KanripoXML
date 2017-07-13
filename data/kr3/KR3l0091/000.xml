@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>山海經廣注</head>
+    <p>
+<pb n="KR3l0091_WYG_000-1a"/>
+欽定四庫全書　　　　　子部十二<lb/>
+　山海經廣注　　　　　　小説家𩔖二<hi>異聞之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案山海經廣注十八巻<lb/>
+　　　國朝呉任臣撰任臣有十國春秋已著録是書<lb/>
+　　　　因郭璞山海經注而補之故曰廣注於名物<lb/>
+　　　　訓詁山川道里皆有所訂正雖嗜竒愛博引<lb/>
+　　　　據稍繁如堂庭山之黄金青邱山之鴛鴦雖<lb/>
+<pb n="KR3l0091_WYG_000-1b"/>
+　　　　販婦傭奴皆識其物而旁徵典籍未免贅疣<lb/>
+　　　　然掎摭宏富多足為考證之資所列逸文三<lb/>
+　　　　十四條自楊慎丹鉛録以下十八條皆明代<lb/>
+　　　　之書所見實無别本其為稗販誤記無可致<lb/>
+　　　　疑至應劭漢書注以下十四條則或古本有<lb/>
+　　　　異亦頗足以廣見聞也舊本載圖五巻分為<lb/>
+　　　　五𩔖曰靈祇曰異域曰獸族曰羽禽曰鱗介<lb/>
+　　　　云本宋咸平舒雅舊稿雅本之張僧繇其説<lb/>
+<pb n="KR3l0091_WYG_000-2a"/>
+　　　　影響依稀未之敢據其圖亦以意為之無論<lb/>
+　　　　不真出雅與僧繇即説果確實二人亦何由<lb/>
+　　　　見而圖之故今惟録其注圖則從刪又前列<lb/>
+　　　　引用書目五百三十餘種多採自𩔖書虚陳<lb/>
+　　　　名目亦不瑣録焉乾隆四十六年九月恭校<lb/>
+　　　　上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

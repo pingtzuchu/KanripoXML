@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0148_WYG_012-1a"/>
+欽定四庫全書<lb/>
+御選唐宋詩醇巻五<lb/>
+　　隴西李白詩五<lb/>
+　　　目録<lb/>
+　　襄陽歌<lb/>
+　　江上吟<lb/>
+　　侍從宜春苑奉詔賦龍池桞色初靑聽新鶯百囀<lb/>
+　　歌<lb/>
+<pb n="KR4h0148_WYG_012-1b"/>
+　　西嶽雲臺歌送丹丘子<lb/>
+　　梁園吟<lb/>
+　　鳴臯歌送岑徵君<lb/>
+　　横江詞<lb/>
+　　白雲歌送劉十六歸山<lb/>
+　　秋浦歌<lb/>
+　　當塗趙炎少府粉圖山水歌<lb/>
+　　上皇西廵南京歌<lb/>
+<pb n="KR4h0148_WYG_012-2a"/>
+　　峨眉山月歌<lb/>
+　　江夏行<lb/>
+　　清溪行<lb/>
+　　贈孟浩然<lb/>
+　　見京兆韋參軍量移東陽<lb/>
+　　贈韋侍御黄裳二首<lb/>
+　　贈裴十四<lb/>
+　　贈清漳明府姪聿<lb/>
+<pb n="KR4h0148_WYG_012-2b"/>
+　　贈新平少年<lb/>
+　　口號贈徵君鴻<lb/>
+　　秋日鍊藥院鑷白髪贈元六兄林宗<lb/>
+　　憶襄陽舊遊贈馬少府巨<lb/>
+　　對雪獻從兄虞城宰<lb/>
+　　贈昇州王使君忠臣<lb/>
+　　贈别從甥髙五<lb/>
+　　醉後贈從甥髙鎮<lb/>
+<pb n="KR4h0148_WYG_012-3a"/>
+　　贈秋浦桞少府<lb/>
+　　中丞宋公以吳兵三千赴河南軍次尋陽脫予之<lb/>
+　　囚參謀幕府因贈之<lb/>
+　　流夜郎贈辛判官<lb/>
+　　贈常侍御<lb/>
+　　贈易秀才<lb/>
+　　經亂離後天恩流夜郎憶舊遊書懷贈江夏韋太<lb/>
+　　守良宰<lb/>
+<pb n="KR4h0148_WYG_012-3b"/>
+　　贈漢陽輔録事<lb/>
+　　贈盧司户<lb/>
+　　贈從弟南平太守之遙<lb/>
+　　流夜郎半道承恩放還兼欣剋復之美書懷示息<lb/>
+　　秀才<lb/>
+　　宿清溪主人<lb/>
+　　巴陵贈賈舎人<lb/>
+　　贈從弟宣州長史昭<lb/>
+<pb n="KR4h0148_WYG_012-4a"/>
+　　陳情贈友人<lb/>
+　　贈錢徵君少陽<lb/>
+　　登敬亭山南望懷古贈竇主簿<lb/>
+　　經亂後將避地剡中留贈崔宣城<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>讀易日鈔總目</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　經部一<lb/>
+　讀易日鈔總目　　　　　易類<lb/>
+　　卷一<lb/>
+　　　上經<lb/>
+　　卷二<lb/>
+　　　上經二<lb/>
+　　卷三<lb/>
+　　　上經三<lb/>
+<pb n="1b"/>
+　　卷四<lb/>
+　　　下經一<lb/>
+　　卷五<lb/>
+　　　下經二<lb/>
+　　卷六<lb/>
+　　　下經三<lb/>
+　　卷七<lb/>
+　　　繫辭上<lb/>
+<pb n="2a"/>
+　　卷八<lb/>
+　　　繫辭下<lb/>
+　　　説卦傳<lb/>
+　　　序卦傳<lb/>
+　　　雜卦傳<lb/>
+　　　　<hi>臣</hi>等謹案讀易日鈔八卷<lb/>
+　　　國朝張烈撰烈字武承大興人康熙庚戌進士<lb/>
+　　　　已未舉博學宏詞厯官左春坊左贊善是書<lb/>
+<pb n="2b"/>
+　　　　一以朱子本義為宗謂易者象也言有盡象<lb/>
+　　　　無窮伏羲畫為竒偶再倍而三因重而六文<lb/>
+　　　　周逐卦繫彖逐畫繫爻全是假物取象不言<lb/>
+　　　　理不指事而萬事萬理畢具大指在因象設<lb/>
+　　　　事就事陳理猶説易家之切實者舊有其子<lb/>
+　　　　益孫升孫紀實云此稿已刪潤四十餘過至<lb/>
+　　　　易簀前數日尚合蒙引通典存疑諸書考訂<lb/>
+　　　　知來藏往二義旋加改補云云則其用力亦<lb/>
+<pb n="3a"/>
+　　　　可謂勤矣烈之沒也門人私謚曰志道先生<lb/>
+　　　　楊允長作私謚議一篇冠于此書之首昔宋<lb/>
+　　　　儒張載之沒門人欲為作私謚司馬光力言<lb/>
+　　　　其非當時手帖猶載張子全書之首古人以<lb/>
+　　　　禮處人不欲妄相尊重干國家易名之典其<lb/>
+　　　　謹嚴如是允長等豈未之聞乎今録是書而<lb/>
+　　　　削除此議用杜虚聲標榜之漸焉乾隆四十<lb/>
+　　　　四年二月恭校上<lb/>
+<pb n="3b"/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

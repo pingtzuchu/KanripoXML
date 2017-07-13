@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>樵香小記</head>
+    <p>
+<pb n="KR3j0075_WYG_000-1a"/>
+欽定四庫全書　　　　　子部十<lb/>
+　樵香小記　　　　　　　雜家類二<hi>雜考之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案樵香小記二卷<lb/>
+　　　國朝何琇撰琇字君琢號勵菴宛平人雍正癸<lb/>
+　　　　丑進士官至宗人府主事是編皆考證之文<lb/>
+　　　　凡一百二十條論經義者居其大半亦頗及<lb/>
+　　　　字學韻學其論六書頗與舊説異同如謂禿<lb/>
+<pb n="KR3j0075_WYG_000-1b"/>
+　　　　字當從禾㑹意説文謂人伏禾下固屬<graphic n="KR0861" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0861.png" mimeType="image/png"/>妄<lb/>
+　　　　即六書正譌改為從木諧聲亦非確論謂説<lb/>
+　　　　文訓為字為母猴本末倒置當是先有為字<lb/>
+　　　　乃借以名猴謂射字從身從寸為籕文象手<lb/>
+　　　　持弓形之訛其説皆未免于獨創至其解春<lb/>
+　　　　秋西狩獲麟解周禮奔者不禁解詩野有死<lb/>
+　　　　麕亦時能發先儒所未發其學問大㫖蓋出<lb/>
+　　　　入於閻若璩顧炎武朱彝尊毛竒齡諸家故<lb/>
+<pb n="KR3j0075_WYG_000-2a"/>
+　　　　多演其緒論云乾隆四十六年六月恭校<lb/>
+　　　　上<lb/>
+　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

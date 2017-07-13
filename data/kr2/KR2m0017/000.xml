@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2m0017_WYG_000-1a"/>
+欽定四庫全書<lb/>
+皇朝通典總目<lb/>
+　食貨典<hi>凡十七卷</hi>
+　　卷一<hi>至</hi>卷十七<lb/>
+　選舉典<hi>凡五卷</hi>
+　　卷十八<hi>至</hi>卷二十二<lb/>
+　職官典<hi>凡十八卷</hi>
+　　卷二十三<hi>至</hi>卷四十<lb/>
+<pb n="KR2m0017_WYG_000-1b"/>
+　禮典<hi>凡二十二卷</hi>
+　　卷四十一<hi>至</hi>卷六十二<lb/>
+　樂典<hi>凡五卷</hi>
+　　卷六十三<hi>至</hi>卷六十七<lb/>
+　兵典<hi>凡十二卷</hi>
+　　卷六十八<hi>至</hi>卷七十九<lb/>
+　刑典<hi>凡十卷</hi>
+　　卷八十<hi>至</hi>卷八十九<lb/>
+<pb n="KR2m0017_WYG_000-2a"/>
+　州郡典<hi>凡七卷</hi>
+　　卷九十<hi>至</hi>卷九十六<lb/>
+　邊防典<hi>凡四卷</hi>
+　　卷九十七<hi>至</hi>卷一百<lb/>
+　　　　<hi>臣</hi>等謹按<lb/>
+　　皇朝通典百卷乾隆三十二年奉<lb/>
+　　勅撰分門隸事一如杜佑之舊其中條例或革或<lb/>
+　　　　因於理相通於義有取者今亦無所更易至<lb/>
+<pb n="KR2m0017_WYG_000-2b"/>
+　　　　於古今異宜不可强同如食貨典之𣙜酤算<lb/>
+　　　　緡禮典之封禪前朝弊法久已為<lb/>
+　　聖代所除即一例從刪不復更存虚目若兵典首<lb/>
+　　　　登八旗地理典分省臚列謹遵今制况乎<lb/>
+　　威弧震叠式廓昄章東西南朔職貢所圖<lb/>
+　　皇輿所表更非九州舊域所能包舉而八旗創建<lb/>
+　　　　古所未聞尤宜専門紀述以昭世守不必拘<lb/>
+　　　　之於大刑用甲兵之一語也至杜氏述唐朝<lb/>
+<pb n="KR2m0017_WYG_000-3a"/>
+　　　　掌故與歴代共為一書故皆分綴篇終其文<lb/>
+　　　　簡畧亦體裁所限不得不然今則専勒成編<lb/>
+　　　　式昭<lb/>
+　　　國典當法制修明之世<lb/>
+　　鴻猷善政史不勝書故卷目加繁溢於舊笈且杜<lb/>
+　　　　氏所採者惟開元禮為詳今則<lb/>
+　謨烈昭垂各成完帙禮有<lb/>
+　　大清通禮<lb/>
+<pb n="KR2m0017_WYG_000-3b"/>
+　　皇朝禮器圖式樂有<lb/>
+　聖祖御製律吕正義<lb/>
+　　皇上御製律吕正義後編刑有<lb/>
+　　大清律例兵有中樞政考地理有<lb/>
+　　皇輿表<lb/>
+　　大清一統志<lb/>
+　　欽定日下舊聞考<lb/>
+　　　盛京通志熱河志<lb/>
+<pb n="KR2m0017_WYG_000-4a"/>
+　　皇輿西域圖志又有<lb/>
+　　大清㑹典及則例總其綱領八旗及六部則例具<lb/>
+　　　　其條目故縷分件繫端委詳明用以昭示萬<lb/>
+　　　　年又豈杜氏之掇拾殘文合裒成帙者所可<lb/>
+　　　　同日語哉<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0017_WYG_000-4b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+皇朝通典總目<lb/>
+<pb n="KR2m0017_WYG_000-5a"/>
+　欽定四庫全書<lb/>
+　皇朝通典凡例<lb/>
+　　一杜佑通典八門由食貨以訖邊防本末次第具有<lb/>
+　　　條理續通典因之我<lb/>
+　　朝制度典章因革損益盡美盡善載在<lb/>
+　大清㑹典者實有以酌時㑹之宜立質文之準若禮制<lb/>
+　　　則有<lb/>
+　大清通禮<lb/>
+<pb n="KR2m0017_WYG_000-5b"/>
+　皇朝禮器圖式樂制則有<lb/>
+聖祖御製律吕正義<lb/>
+　皇上御製律吕正義後編兵制則八旗兵部有中樞政<lb/>
+　　　考刑制則有<lb/>
+　大清律集解<lb/>
+　大清律例地理則有<lb/>
+　皇輿表<lb/>
+　大清一統志<lb/>
+<pb n="KR2m0017_WYG_000-6a"/>
+　盛京通志熱河志<lb/>
+皇輿西域圖志諸書煌煌乎經國之良模足以垂憲萬<lb/>
+　　世今宜以類編次至於八旗則例各部院則例及<lb/>
+　　諸家著述亦並廣為甄采舉要提綱務期簡而不<lb/>
+　　遺核而不冗庶足勒為成書傳示永久<lb/>
+　　一通典紀事之外每雜載議論於選舉職官禮樂<lb/>
+　　刑典諸門為尤多今倣其例凡特頒<lb/>
+諭㫖及臣工奏議有當於振興文治澄敘官方改立科<lb/>
+<pb n="KR2m0017_WYG_000-6b"/>
+　　場條規増定武職品級者無不仰奉<lb/>
+聖裁下經部議兼即令刋入現行則例悉於各門依類<lb/>
+　　采入以備攷稽<lb/>
+　　一通典各門中如錢幣附於食貨馬政附於軍禮<lb/>
+　　今並仍其舊惟諸門細目今昔沿革不同如食貨<lb/>
+　　典𣙜酤算緡之類禮典封禪之類凡昔有今無者<lb/>
+　　一併從刪<lb/>
+　　一通典州郡分别九州唐以前之郡縣皆析載於<lb/>
+<pb n="KR2m0017_WYG_000-7a"/>
+　　下我<lb/>
+　朝幅員之廣超越千古非可概執禹迹以論今謹遵<lb/>
+本朝之制凡直省新疆各地名之因廢増省悉以見在<lb/>
+　　者登載無庸仍以九州為綱至邊防一門唯載荒<lb/>
+　　外諸國而不及内地沿邊屯戍之政盖以中外一<lb/>
+　　統邊徼敉寧即用列史四裔傳之例分方敘載以<lb/>
+　　表歸向之誠<lb/>
+　<lb/>
+<pb n="KR2m0017_WYG_000-7b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+皇朝通典凡例<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

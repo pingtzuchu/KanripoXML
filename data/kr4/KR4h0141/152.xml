@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_152-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選卷一百五十二<lb/>
+　　珠類<lb/>
+　　　五言古<lb/>
+　　　　擬古　　　　　　　　　　<hi>宋</hi>朱　子<lb/>
+　夫君滄海至贈我一篋珠誰言君行近南北萬里餘結<lb/>
+　作同心花綴在紅羅襦䨇垂合歡帶麗服眷微軀為君<lb/>
+　一起舞君情定何如<lb/>
+<pb n="KR4h0141_WYG_152-1b"/>
+　　　　古樂府　　　　　　　　　<hi>元</hi>黄清老<lb/>
+　君好錦繡叚妾好明月珠錦繡可為服服美令人愚不<lb/>
+　如珠夜光可以照讀書<lb/>
+　　　五言律<lb/>
+　　　　詠珠　　　　　　　　　　<hi>唐</hi>李　嶠<lb/>
+　燦爛金輿側玲瓏玉殿隈昆池明月滿合浦夜光廻彩<lb/>
+　逐靈蛇轉形隨舞鳯來甘泉宮起罷花媚望風臺<lb/>
+　　　　奉試明堂火珠　　　　　　<hi>唐</hi>崔　曙<lb/>
+<pb n="KR4h0141_WYG_152-2a"/>
+正位開重屋凌空出火珠夜來䨇月滿曙後一星孤天<lb/>
+淨光難滅雲生望欲無遥知太平代國寳在名都<lb/>
+　　五言排律<lb/>
+　　　省試驪珠詩　　　　　　　<hi>唐</hi>耿　湋<lb/>
+是日重淵下言探徑寸珠龍鱗今不逆魚目也應殊掌<lb/>
+上星初滿<graphic n="KR0777" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0777.png" mimeType="image/png"/>中月正孤酬恩光莫及照乗色難踰欲問<lb/>
+投人否先論按劒無儻憐希代價敢對此氷壺<lb/>
+　　　賦得沈珠於淵　　　　　　<hi>唐</hi>獨孤綬<lb/>
+<pb n="KR4h0141_WYG_152-2b"/>
+至道歸淳朴明珠被棄捐失眞來照乗成性却沈泉不<lb/>
+是靈蛇吐猶疑合浦旋岸傍隨日落波底共星懸致逺<lb/>
+終無脛懷貪遂比肩欲知恭儉徳所寳在惟賢<lb/>
+　　　賦得珠還合浦　　　　　　<hi>唐</hi>鄧　陟<lb/>
+至寳含冲粹清虛映浦灣素輝明蕩漾圓彩色紛㻞昔<lb/>
+逐諸侯去今隨太守還影揺波裏月光動水中山魚目<lb/>
+徒相比驪龍乍可攀願將車飾用長得耀君顔<lb/>
+　　　賦得濁水求珠　　　　　　<hi>唐</hi>項　斯<lb/>
+<pb n="KR4h0141_WYG_152-3a"/>
+靈魄自沈浮從來任濁流願從深處得不向暗中投圓<lb/>
+月時堪惜滄波路可求沙尋龍窟逺泥訪蚌津幽是寳<lb/>
+終知貴惟恩且用酬如能在公掌的不負明眸<lb/>
+　　　賦得暗投明珠　　　　　　<hi>唐</hi>崔　藩<lb/>
+至寳㸔懐袖明珠出復收向人光不定離掌勢難畱皎<lb/>
+澈虛臨夜孤圓冷瑩秋徐來驚月落疾轉怕星流有淚<lb/>
+甘瑕棄無媒自暗投今朝感恩處將欲報隋侯<lb/>
+　　　賦得水懷珠　　　　　　　<hi>唐</hi>莫宣卿<lb/>
+<pb n="KR4h0141_WYG_152-3b"/>
+長川含媚水波底孕靈珠素魄生蘋末圓規照水隅淪<lb/>
+漣氷彩動蕩漾瑞光鋪夜迥星同貫秋清岸不枯江妃<lb/>
+思在掌海客亦忘軀合浦當還日恩威信已敷<lb/>
+　　　被褐懷珠玉　　　　　　　<hi>宋</hi>黄庭堅<lb/>
+國士懐珠玉通津不易杠櫝藏心有待褐短義難降寳<lb/>
+唾歸青簡晴虹貫夜窓直言方按劒豈是故迷邦彈雀<lb/>
+輕千仭連城買一雙安知藍縷底明月弄寒江<lb/>
+　　五言絶句<lb/>
+<pb n="KR4h0141_WYG_152-4a"/>
+　　　　桂水五千里　　　　　　　<hi>元</hi>楊維楨<lb/>
+　桂水五千里南風大府開象王新貢入鮫女送珠來<lb/>
+　　　七言絶句<lb/>
+　　　　小遊仙詩　　　　　　　　<hi>唐</hi>曹　唐<lb/>
+　滄海令抛即未能且緣鸞鶴立相仍蔡家新婦莫嫌少<lb/>
+　領取眞珠三五升<lb/>
+　　　　遊仙　　　　　　　　　　<hi>明</hi>湯穎績<lb/>
+　掛樹蒼猿朗朗呼蘚侵石壁字糢糊癡龍頷下珠如月<lb/>
+<pb n="KR4h0141_WYG_152-4b"/>
+　照見寰中五嶽圖<lb/>
+　　　　武皇南廵舊京歌　　　　　<hi>明</hi>顧　璘<lb/>
+　石壁斜臨元武湖中開天府貯民圖文魚在藻承皇澤<lb/>
+　來傍龍舟夜吐珠<lb/>
+　　　　嘉靖宮詞　　　　　　　　<hi>明</hi>李　蓘<lb/>
+　小車飛曳向元都翠羽金翹笑自扶玉蝀橋邉長日市<lb/>
+　内官爭買大秦珠<lb/>
+御定佩文齋詠物詩選卷一百五十二<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

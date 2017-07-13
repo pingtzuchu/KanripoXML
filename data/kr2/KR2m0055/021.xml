@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2m0055_WYG_021-1a"/>
+欽定四庫全書<lb/>
+大清律例卷二<lb/>
+　諸圖<lb/>
+　　六贓圖　　　　　　納贖諸例圖<lb/>
+　　過失殺傷收贖圖　　徒限内老疾收贖圖<lb/>
+　　誣輕為重收贖圖　　五刑圖<lb/>
+　　獄具圖　　　　　　喪服圖<lb/>
+<pb n="KR2m0055_WYG_021-2a"/>
+</p>
+<p>
+<pb n="KR2m0055_WYG_021-3a"/>
+</p>
+<p>
+<pb n="KR2m0055_WYG_021-4a"/>
+</p>
+<p>
+<pb n="KR2m0055_WYG_021-5a"/>
+</p>
+<p>
+<pb n="KR2m0055_WYG_021-6a"/>
+</p>
+<p>
+<pb n="KR2m0055_WYG_021-7a"/>
+</p>
+<p>
+<pb n="KR2m0055_WYG_021-8a"/>
+</p>
+<p>
+<pb n="KR2m0055_WYG_021-9a"/>
+</p>
+<p>
+<pb n="KR2m0055_WYG_021-10a"/>
+</p>
+<p>
+<pb n="KR2m0055_WYG_021-11a"/>
+</p>
+<p>
+<pb n="KR2m0055_WYG_021-12a"/>
+</p>
+<p>
+<pb n="KR2m0055_WYG_021-13a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0055_WYG_021-13b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　　<hi>按此凡各受杖贖銀計算無異惟已役徒一月有  八釐七毫五絲者七釐五毫者六釐八毫七絲</hi>
+　　　<hi>五忽者六釐五毫者六釐二毫五絲者其不同何也蓋徒之全贖原有差等也</hi>
+<pb n="KR2m0055_WYG_021-14a"/>
+</p>
+<p>
+<pb n="KR2m0055_WYG_021-15a"/>
+</p>
+<p>
+<pb n="KR2m0055_WYG_021-16a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0055_WYG_021-16b"/>
+　　此贖與老幼婦人收贖不同彼徒流皆直照徒年<lb/>
+　　　限收贖此徒流皆折杖照杖收贖<lb/>
+　　按<hi>圖内已論決之笞杖徒流全抵剩罪俱無異即未論決之笞杖准贖亦無異惟未論決之徒流</hi>
+　　　<hi>折杖既毎一等折杖二十則杖六十徒一年者當於原杖六十之上加杖二十似不應折杖至</hi>
+　　　<hi>一百二十不知徒罪起於一年杖數起於六十折杖之法即視其原杖之數徒一年者原杖六</hi>
+　　　<hi>十將徒一年亦折杖六十合之原杖六十得一百二十徒一年半者原杖七十將徒一年半亦</hi>
+　　　<hi>折杖七十合之原杖七十得一百四十徒二年者原杖八十將徒二年亦折杖八十合之原杖</hi>
+　　　<hi>八十得一百六十徒二年半者原杖九十將徒二年半亦折杖九十合之原杖九十得一百八</hi>
+<pb n="KR2m0055_WYG_021-17a"/>
+　　　<hi>十徒三年者原杖一百將徒三年亦折杖一百合之原杖一百得二百此徒罪折杖之法也過</hi>
+　　　<hi>此以往即入於流罪三流原杖總皆一百流二千里者較徒三年加一等徒三年折杖一百則</hi>
+　　　<hi>流二千里應折杖一百二十合之原杖一百得二百二十流二千五百里較流二千里又加一</hi>
+　　　<hi>等流二千里折杖一百二十則流二千五百里應折杖一百四十合之原杖一百得二百四十</hi>
+　　　<hi>流三千里較流二千五百里又加一等流二千五百里折杖一百四十則流三千里應折杖一</hi>
+　　　<hi>百六十合之原杖一百得二百六十此流罪折杖之法也凡被吿之人本係近流而誣入逺流</hi>
+　　　<hi>未決者俱准此科算若被吿之人本係笞杖及徒罪而乃誣入流罪未決則不論逺近三流准</hi>
+　　　<hi>徒四年皆以一年為剩罪蓋徒五等至三年而止今准徒四年則比滿徒多一年即比滿徒多</hi>
+<pb n="KR2m0055_WYG_021-17b"/>
+　　　<hi>二等每一等折杖二十應折杖四十連滿徒之折杖一百原杖一百共該折杖二百四十内將</hi>
+　　　<hi>告實或笞或杖或徒之本罪照數除去外餘下折杖不及一百俱收贖若過一百則決杖一百</hi>
+　　　<hi>外所剩杖數收贖</hi>
+<pb n="KR2m0055_WYG_021-18a"/>
+</p>
+<p>
+<pb n="KR2m0055_WYG_021-19a"/>
+</p>
+<p>
+<pb n="KR2m0055_WYG_021-20a"/>
+</p>
+<p>
+<pb n="KR2m0055_WYG_021-21a"/>
+</p>
+<p>
+<pb n="KR2m0055_WYG_021-22a"/>
+</p>
+<p>
+<pb n="KR2m0055_WYG_021-23a"/>
+</p>
+<p>
+<pb n="KR2m0055_WYG_021-24a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0055_WYG_021-24b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+大清律例卷二<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

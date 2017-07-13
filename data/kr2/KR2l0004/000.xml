@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>翰苑羣書目錄</head>
+    <p>
+<pb n="KR2l0004_WYG_000-1a"/>
+欽定四庫全書　　　　　史部十二<lb/>
+　翰苑羣書目錄　　　　　職官類一<hi>官制之屬</hi>
+　　卷一<lb/>
+　　　李肇翰林志<lb/>
+　　卷二<lb/>
+　　　元稹承㫖學士院記<lb/>
+　　卷三<lb/>
+　　　韋處厚翰林學士記<lb/>
+<pb n="KR2l0004_WYG_000-1b"/>
+　　卷四<lb/>
+　　　韋執誼翰林院故事<lb/>
+　　卷五<lb/>
+　　　楊鉅翰林學士院舊規<lb/>
+　　卷六<lb/>
+　　　丁居晦重修承㫖學士壁記<lb/>
+　　卷七<lb/>
+　　　李昉禁林讌㑹集<lb/>
+<pb n="KR2l0004_WYG_000-2a"/>
+　　卷八<lb/>
+　　　蘇易簡續翰林志<lb/>
+　　卷九<lb/>
+　　　蘇耆次續翰林志<lb/>
+　　卷十<lb/>
+　　　學士年表<lb/>
+　　卷十一<lb/>
+　　　翰苑題名<lb/>
+<pb n="KR2l0004_WYG_000-2b"/>
+　　卷十二<lb/>
+　　　翰苑遺事<lb/>
+　　　　<hi>臣</hi>等謹案翰苑羣書十二卷宋學士承㫖洪<lb/>
+　　　　遵編後有乾道九年遵題記陳振孫書錄解<lb/>
+　　　　題曰自李肇而下十一家及年表中興後題<lb/>
+　　　　名共為一書此本所載為李肇翰林志元稹<lb/>
+　　　　承㫖學士院記韋處厚翰林學士記韋執誼<lb/>
+　　　　翰林院故事楊鉅翰林學士院舊規丁居晦<lb/>
+<pb n="KR2l0004_WYG_000-3a"/>
+　　　　重修承㫖學士壁記李昉禁林宴㑹集蘇易<lb/>
+　　　　簡續翰林志蘇耆次續翰林志學士年表翰<lb/>
+　　　　苑題名翰苑遺事凡十二種其遺事為遵所<lb/>
+　　　　續年表題名之外所收不過九家與振孫所<lb/>
+　　　　記不合案文獻通考所載尚有唐張著翰林<lb/>
+　　　　盛事宋李宗諤翰苑襍記若合此二家正足<lb/>
+　　　　十一家之數殆原本有之而今佚也其書於<lb/>
+　　　　厯代翰林典故頗為詳贍足資考覆錄之以<lb/>
+<pb n="KR2l0004_WYG_000-3b"/>
+　　　　備職官類之一種焉乾隆四十二年八月恭<lb/>
+　　　　校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

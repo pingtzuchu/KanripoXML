@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>毛詩草木鳥獸蟲魚疏</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　　經部三<lb/>
+　毛詩草木鳥獸蟲魚疏　　詩𩔖<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案毛詩草木鳥獸蟲魚疏二卷吳陸<lb/>
+　　　　璣撰明北監本詩正義全部所引皆作陸機<lb/>
+　　　　考隋書經籍志毛詩草木蟲魚疏二巻注云<lb/>
+　　　　烏程令吳郡陸璣撰陸徳明經典釋文序録<lb/>
+　　　　陸璣毛詩草木鳥獸蟲魚疏二巻注云字元<lb/>
+<pb n="1b"/>
+　　　　恪吳郡人吳太子中庶子烏程令唐書藝文<lb/>
+　　　　志亦作陸璣則監本為悞又毛晉津逮秘書<lb/>
+　　　　所刻援陳振孫之言謂其書引爾雅郭璞注<lb/>
+　　　　當在郭後未必吳人因而題曰唐陸璣夫唐<lb/>
+　　　　代之書隋志烏能著録且書中所引爾雅注<lb/>
+　　　　僅及漢犍為文學樊光實無一字涉郭璞不<lb/>
+　　　　知陳氏何以云然姚士粦跋已辨之或晉未<lb/>
+　　　　見士粦跋歟原本久佚此本不知何人所輯<lb/>
+<pb n="2a"/>
+　　　　大抵從詩正義中録出然正義衛風淇澳篇<lb/>
+　　　　引陸璣疏淇澳二水名今本乃無此條知由<lb/>
+　　　　採摭未周故有所漏非璣之舊帙矣又衛風<lb/>
+　　　　椅桐梓漆一條稱今雲南䍧牱人績以為布<lb/>
+　　　　考漢書地理志益州郡有雲南縣後漢書郡<lb/>
+　　　　國志永昌郡有雲南縣皆一邑之名唐書地<lb/>
+　　　　理志姚州雲南郡武徳四年以漢雲南縣地<lb/>
+　　　　置盖至是始升為大郡而𡊮滋雲南記竇滂<lb/>
+<pb n="2b"/>
+　　　　雲南别錄諸書作焉璣在三國即以雲南配<lb/>
+　　　　䍧牱似乎諸家傳寫又有所竄亂非盡原文<lb/>
+　　　　然勘驗諸書所引一一符合要非依託之本<lb/>
+　　　　也末附載四詩源流四篇而毛詩特詳考王<lb/>
+　　　　柏詩疑已詆璣所載與經典釋文不合王應<lb/>
+　　　　麟困學紀聞亦議其誤以曽申為申公則宋<lb/>
+　　　　本已有之非後人所附益矣蟲魚草木今昔<lb/>
+　　　　異名年代迢遥傳疑彌甚璣去古未逺所言<lb/>
+<pb n="3a"/>
+　　　　猶不甚失真詩正義全用其說陳啟源作毛<lb/>
+　　　　詩稽古編其駁正諸家亦多以璣說為據講<lb/>
+　　　　多識之學者固當以此為最古焉乾隆四十<lb/>
+　　　　六年九月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

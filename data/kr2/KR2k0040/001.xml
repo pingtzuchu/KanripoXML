@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2k0040_WYG_001-1a"/>
+欽定四庫全書<lb/>
+欽定盛京通志<lb/>
+　　　總裁纂修校對諸臣職名<lb/>
+　　　　總裁<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2k0040_WYG_001-1b"/>
+　<lb/>
+　御前大臣内大臣署兵部尚書内務府大臣户部左侍郎<hi>臣</hi>福長安<lb/>
+　經　筵　講　官　户　部　左　侍　郎　<hi>臣</hi>董　誥<lb/>
+　　　　總纂<lb/>
+　　禮　科　掌　印　給　事　中　<hi>臣</hi>劉謹之<lb/>
+　　吏　部　考　功　司　員　外　郎　<hi>臣</hi>程維岳<lb/>
+　　　　滿纂修<lb/>
+　　原　任　内　閣　侍　讀　<hi>臣</hi>呈　麟<lb/>
+<pb n="KR2k0040_WYG_001-2a"/>
+　　原任理藩院筆帖式今授江蘇鎮江府理事同知<hi>臣</hi>七徳<lb/>
+　　户　　部　　　主　　　事　　　<hi>臣</hi>善　慶<lb/>
+　　刑　　部　　筆　　帖　　式　　<hi>臣</hi>文　海<lb/>
+　　大　　理　寺　筆　帖　式　　<hi>臣</hi>馬廷模<lb/>
+　　　漢纂修<lb/>
+　　翰　　林　　院　　編　　修　　<hi>臣</hi>闗　槐<lb/>
+　　刑　部　湖　廣　司　郎　中　<hi>臣</hi>馮　培<lb/>
+　　吏　部　騐　封　司　員　外　郎　<hi>臣</hi>呉　俊<lb/>
+<pb n="KR2k0040_WYG_001-2b"/>
+　　吏　部　騐　封　司　主　事　<hi>臣</hi>杜兆基<lb/>
+　　兵　部　職　方　司　主　事　<hi>臣</hi>趙秉淵<lb/>
+　　内　　　閣　　中　　書　　　<hi>臣</hi>張姚成<lb/>
+　　　滿校對<lb/>
+　　理　　藩　院　員　外　郎　<hi>臣</hi>巴達爾湖<lb/>
+　　原　　任　　户　部　主　事　<hi>臣</hi>穆　圖<lb/>
+　　翰　　林　院　筆　帖　式　　<hi>臣</hi>朝　樂<lb/>
+　　工　　部　　筆　　帖　　式　　<hi>臣</hi>齡　椿<lb/>
+<pb n="KR2k0040_WYG_001-3a"/>
+　　　漢校對<lb/>
+　　翰　　林　　院　　編　　修　　<hi>臣</hi>馮集梧<lb/>
+　　候　補　户　部　主　事　　<hi>臣</hi>王學海<lb/>
+　　内　　　閣　　中　　書　　　<hi>臣</hi>程　琰<lb/>
+　　内　　　閣　　中　　　書　　　<hi>臣</hi>沈　琨<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

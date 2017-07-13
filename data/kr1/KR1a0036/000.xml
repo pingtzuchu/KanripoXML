@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>復齋易説</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　經部一<lb/>
+　復齋易説　　　　　　易類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案復齋易説六卷宋宗室趙彦肅撰<lb/>
+　　　　彦肅字子欽復齋其號也嘗舉進士掌寧國<lb/>
+　　　　軍書記調秀州推官移華亭縣丞攝縣事以<lb/>
+　　　　内艱歸趙汝愚奏薦為寧海軍節度推官旋<lb/>
+　　　　病卒蓋朱子薦之汝愚也彦肅所著有廣雜<lb/>
+<pb n="1b"/>
+　　　　學辨士冠禮婚禮饋食圖皆為朱子所稱惟<lb/>
+　　　　論易與朱子不合故朱子語録謂其為説太<lb/>
+　　　　精取義太宻或傷簡易之趣然彦肅説易在<lb/>
+　　　　即象數以求義理以六畫為主故其言曰先<lb/>
+　　　　聖作易有畫而已後聖繫之一言一字皆自<lb/>
+　　　　畫中來譬如畫師傳神非畫煙雲草木比也<lb/>
+　　　　然則彦肅冥思力索固皆研搜爻義務求其<lb/>
+　　　　所以然耳其沈潛於易中猶勝支離於易外<lb/>
+<pb n="2a"/>
+　　　　矣乾隆四十六年二月恭校上<lb/>
+　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

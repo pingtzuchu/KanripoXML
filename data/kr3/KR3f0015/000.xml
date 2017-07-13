@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>渾蓋通憲圖説</head>
+    <p>
+<pb n="KR3f0015_WYG_000-1a"/>
+欽定四庫全書　　　　　子部六<lb/>
+　渾蓋通憲圖説　　　　　天文算法類一<hi>推步之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案渾蓋通憲圖説二卷明李之藻撰<lb/>
+　　　　之藻有頖宫禮樂疏己著錄是書出自西洋<lb/>
+　　　　簡平儀法蓋渾天與蓋天皆立圓而簡平則<lb/>
+　　　　繪渾天為平圓渾天為全形人目自外還視<lb/>
+　　　　蓋天為半形人目自内還視簡平止于一面<lb/>
+<pb n="KR3f0015_WYG_000-1b"/>
+　　　　則以人目定於一處而直視之之所成也其<lb/>
+　　　　法設人目自南極或北極以視黄道赤道及<lb/>
+　　　　晝長晝短諸規憑視線所經之㸃歸界於一<lb/>
+　　　　平圓之上次依各地北極出地以視法取天<lb/>
+　　　　頂及地平之周亦歸界于前平圓之内次依<lb/>
+　　　　赤道經緯度以視法取七曜恒星亦取歸于<lb/>
+　　　　前平圓之内赤道為中圏赤道以外愈近目<lb/>
+　　　　則圏愈大而徑愈長赤道以外愈逺目則圏<lb/>
+<pb n="KR3f0015_WYG_000-2a"/>
+　　　　愈小而徑愈短之藻取晝短規為最大圏乃<lb/>
+　　　　自南極視之晝短規近目而圏大其意以為<lb/>
+　　　　中華之地北極髙凡距北極百一十三度半<lb/>
+　　　　以内者皆在其大圏内也卷首總論儀之形<lb/>
+　　　　體上卷以下規晝度分時刻及制用之法後<lb/>
+　　　　卷諸圖咸根柢於是梅文鼎嘗作訂補一卷<lb/>
+　　　　其説曰渾蓋之器以蓋天之法代渾天之用<lb/>
+　　　　其製見於元史札馬魯丁所用儀器中竊疑<lb/>
+<pb n="KR3f0015_WYG_000-2b"/>
+　　　　為周髀遺術流入西方然本書黄道分星之<lb/>
+　　　　法尚缺其半故此器甚少蓋無從得其制也<lb/>
+　　　　兹為完其所缺正其所誤可以依法成造云<lb/>
+　　　　云又有璇璣尺解一卷皆足與此書相輔而<lb/>
+　　　　行以己見文鼎書中兹不復贅焉乾隆四十<lb/>
+　　　　六年十一月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_358-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選巻三百五十九<lb/>
+　　葵花類<lb/>
+　　　四言古<lb/>
+　　　　蜀葵　　　　　　　　　　<hi>宋</hi>顔延之<lb/>
+　井維降精岷絡升靈物微氣麗卉草之生喻艷衆葩冠<lb/>
+　冕羣英類麻能直方葵不傾<lb/>
+　　　五言古<lb/>
+<pb n="KR4h0141_WYG_358-1b"/>
+　　　　蜀葵　　　　　　　　　　<hi>宋</hi>司馬光<lb/>
+　白若繒初斷紅如顔欲酡坐令仙駕儼幢節紛駢羅物<lb/>
+　性有常好人情輕所多菖蒲儻自秀棄擲不我過<lb/>
+　　　　王伯敭所藏趙昌花<hi>黄葵</hi>　　<hi>宋</hi>蘇　軾<lb/>
+　弱質困夏永奇姿蘇晚凉低昻黄金杯照耀初日光檀<lb/>
+　心自成暈翠葉森有芒古來寫生人妙絶誰似昌晨粧<lb/>
+　與午醉真態含陰陽君看此花枝中有風露香<lb/>
+　　　　葵　　　　　　　　　　　<hi>明</hi>呉　寛<lb/>
+<pb n="KR4h0141_WYG_358-2a"/>
+託身北牆隅幸免人所踐苗長已過牆入土根不淺葉<lb/>
+間蘂何多濈濈滿圎繭此種覺尤佳觀者盡云鮮傾心<lb/>
+識忠臣衞足存古典作羮諒非菜名同亦須辨<lb/>
+　　五言律<lb/>
+　　　宜陽所居白蜀葵答詠簡諸公<lb/>
+　　　　　　　　　　　　　　　<hi>唐</hi>武元衡<lb/>
+冉冉衆芳歇亭亭虛室前敷榮時已背幽賞地宜偏紅<lb/>
+艷世方重素華徒可憐何當君子願知不近暄妍<lb/>
+<pb n="KR4h0141_WYG_358-2b"/>
+　　　蜀葵　　　　　　　　　　<hi>唐</hi>徐　夤<lb/>
+劍門南面樹移向㑹仙亭錦水饒花艷岷山帶葉青文<lb/>
+君慚婉娩神女譲娉婷爛熳紅兼紫飄香入繡扃<lb/>
+　　　葵　　　　　　　　　　　<hi>宋</hi>韓　琦<lb/>
+炎天花盡歇錦繡獨成林不入當時眼其如向日心寶<lb/>
+釵知見棄幽蝶或來尋誰許清風下芳醪對一斟<lb/>
+　　　葵花　　　　　　　　　　<hi>明</hi>高　啟<lb/>
+艷發朱光裏叢依緑蔭邊夕同山蕣落午並海榴燃幽<lb/>
+<pb n="KR4h0141_WYG_358-3a"/>
+馥流珍簟鮮輝照藻筵羣芳已謝賞孤植轉成憐<lb/>
+　　七言律<lb/>
+　　　使院黄葵花　　　　　　　<hi>唐</hi>韋　莊<lb/>
+薄粧新著澹黄衣對捧金爐侍醮遲向月似矜傾國貌<lb/>
+倚風如唱步虚詞乍開檀炷疑聞語試與雲和必解吹<lb/>
+為報同人看來好不禁秋露即離披<lb/>
+　　　繼人葵花韻　　　　　　　<hi>元</hi>許　衡<lb/>
+戎葵花色耀深濃偏稱修叢映短叢絳臉有情爭向日<lb/>
+<pb n="KR4h0141_WYG_358-3b"/>
+錦苞無語細含風舒開九夏天真秀壓倒千年畫史工<lb/>
+但恐主人貧且窶不教相對舞衣紅<lb/>
+　　五言絶句<lb/>
+　　　蜀葵　　　　　　　　　　<hi>金</hi>姚孝錫<lb/>
+傾心知向日布葉解成陰空側黄金盞誰人與對斟<lb/>
+　　　黄葵詞　　　　　　　　　<hi>元</hi>趙孟頫<lb/>
+仙掌鬱金衣朝陽風露晞可憐蜂與蝶祗解弄春暉<lb/>
+　　　黄蜀葵　　　　　　　　　<hi>元</hi>虞　集<lb/>
+<pb n="KR4h0141_WYG_358-4a"/>
+花萼立清晨鵞黄向日新金杯承玉露偏醉蜀鄉人<lb/>
+　　七言絶句<lb/>
+　　　蜀葵　　　　　　　　　　<hi>唐</hi>陳　標<lb/>
+眼前無奈蜀葵何淺紫深紅數百窠能共牡丹爭幾許<lb/>
+得人輕處祇縁多<lb/>
+　　　和知已秋懷　　　　　　　<hi>唐</hi>鄭　谷<lb/>
+流水歌聲共不迴去年天氣舊亭臺梁塵寂寞燕歸去<lb/>
+黄蜀葵花一朶開<lb/>
+<pb n="KR4h0141_WYG_358-4b"/>
+　　　葵　　　　　　　　　　　<hi>宋</hi>劉　敞<lb/>
+白露清風催八月紫蘭紅藥共凄凉黄花冷落無人看<lb/>
+獨自傾心向太陽<lb/>
+　　　黄葵　　　　　　　　　　<hi>宋</hi>宋　祁<lb/>
+黄葵貴麗不夭饒一朶新晴松下高還似邇英臨黼座<lb/>
+曚曨曉日照天袍<lb/>
+　　　題畫黄葵　　　　　　　　<hi>元</hi>袁　易<lb/>
+憶昔戎葵花下飲金杯春灧緑鬟欹祇今花似金杯側<lb/>
+<pb n="KR4h0141_WYG_358-5a"/>
+　獨對西風詠折枝<lb/>
+　　　　題葵花　　　　　　　　<hi>明</hi>占城使臣<lb/>
+　花於木槿渾相似葉比芙蓉只一般五尺闌干遮不盡<lb/>
+　獨留一半與人看<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR4h0141_WYG_358-5b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選巻三百五十九<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

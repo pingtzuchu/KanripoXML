@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3h0089_WYG_001-1a"/>
+　　　乾隆十四年十一月初七日奉<lb/>
+　上諭邃古法物流𫝊有自者惟尊彞鼎鼐厯世恒遠良<lb/>
+　　以質堅而體厚不為燥濕所移剥蝕所損淵然之光<lb/>
+　　穆乎可見三代以上規模氣象故嗜古之士亟有取<lb/>
+　　焉宣和博古一圖播在藝苑繼之者有吕氏考古圖<lb/>
+　　而外此紀載寂寥豈非力能致之而弗能聚所見隘<lb/>
+　　而無足紀歟我朝<lb/>
+家法不事玩好民間鑒賞概弗之禁而殿廷陳列與夫内<lb/>
+<pb n="KR3h0089_WYG_001-1b"/>
+　　府儲藏者未嘗不富朕於幾務晏閒間加品題夷考<lb/>
+　　舊圖多所未載因思古器顯晦有時及今不為之表<lb/>
+　　章載之簡牘考索者其奚取徵焉爰命尚書梁詩正<lb/>
+　　蔣溥汪由敦率同内廷翰林倣博古圖遺式精繪形<lb/>
+　　模備摹款識為西清古鑑一編以游藝之餘功寄鑒<lb/>
+　　古之遠思亦足稱昇平雅尚云特諭<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

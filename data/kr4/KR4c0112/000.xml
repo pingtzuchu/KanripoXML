@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>廣成集</head>
+    <p>
+<pb n="KR4c0112_WYG_000-1a"/>
+欽定四庫全書　　　　　集部二<lb/>
+　廣成集　　　　　　　　别集類一<hi>唐</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案廣成集十二巻蜀杜光庭撰光庭<lb/>
+　　　　以道士事後蜀王建王衍賜號廣成先生後<lb/>
+　　　　歸隠青城山年八十五乃卒所著洞天福地<lb/>
+　　　　記道教靈驗記墉城集仙録神仙感遇傳俱<lb/>
+　　　　别著録道家類中宋史藝文志載光庭廣成<lb/>
+<pb n="KR4c0112_WYG_000-1b"/>
+　　　　集一百巻又壺中集三巻通志藝文略載光<lb/>
+　　　　庭集三十巻今此本十二巻僅表及齋醮文<lb/>
+　　　　二體十國春秋所載序毛仙翁略文一篇又<lb/>
+　　　　瀘州劉真人碑記青城縣重修沖妙觀碑記<lb/>
+　　　　雲昇宫廣雲外尊師碑記三學山功徳碑文<lb/>
+　　　　諸目皆不在集中蓋殘缺之餘已非完本也<lb/>
+　　　　考通鑑載蜀主以光庭為諫議大夫而集有<lb/>
+　　　　謝除户部侍郎表史並不言其為此官又考<lb/>
+<pb n="KR4c0112_WYG_000-2a"/>
+　　　　通鑑載王宗綰取寶雞岐保勝節度使李繼<lb/>
+　　　　岌降復姓名為桑宏志而集中賀收復隴州<lb/>
+　　　　表稱節度使桑簡以手下兵士歸降是宏志<lb/>
+　　　　又名簡而史不之及又有賀太陽當虧不虧<lb/>
+　　　　表稱今月一日丁未巳時太陽合虧於軫十<lb/>
+　　　　一度今以史志核之蜀髙祖永平元年正月<lb/>
+　　　　丁亥朔後主乾徳三年六月乙夘朔五年十<lb/>
+　　　　月辛未朔皆當日食而獨無丁未日蜀用胡<lb/>
+<pb n="KR4c0112_WYG_000-2b"/>
+　　　　秀林永昌歴或其法與中國不同是可以備<lb/>
+　　　　叅考又其在唐末時所為王建作醮詞有稱<lb/>
+　　　　川主相公者有稱司徒者有稱蜀王者有稱<lb/>
+　　　　太師者考之於史建以西川節度同平章事<lb/>
+　　　　守司徒封蜀王一一皆合而獨失載其太師<lb/>
+　　　　之號又有稱漢州尚書王宗䕫鎮江侍中王<lb/>
+　　　　宗黯者二人皆王建養子十國春秋具詳其<lb/>
+　　　　官而獨不紀其嘗為漢州刺史鎮江軍節度<lb/>
+<pb n="KR4c0112_WYG_000-3a"/>
+　　　　使又有越國夫人為都統宗侃還願詞稱俯<lb/>
+　　　　迫孤城遽淹旬月俄聞壁壘大破兇狂成掃<lb/>
+　　　　蕩之功副聖明之奨云云而史載王宗侃為<lb/>
+　　　　北路行營都統伐岐青泥嶺之戰侃兵大敗<lb/>
+　　　　為蜀主所責無功而還與所言亦全不相合<lb/>
+　　　　光庭駢偶之文詞頗贍麗而多涉其教中荒<lb/>
+　　　　誕之説不能悉軌於正獨是五季文字缺略<lb/>
+　　　　集中所存足與正史互證者尚多故具録之<lb/>
+<pb n="KR4c0112_WYG_000-3b"/>
+　　　　以為稽考同異之助焉乾隆四十三年五月<lb/>
+　　　　恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4d0593_SBCK_008-1a"/>
+元張光弼詩二卷爲不觧事書人強為觧事作七卷分<lb/>
+之遂失其本来面目一卷之五卷元合作苐一卷六卷<lb/>
+之七卷元合作苐二卷也其書借海塩胡孝轅氏所録<lb/>
+徃數年前聞孫唐卿氏有是集碌碌南北未及假録昨<lb/>
+歲差旋徃謁孝轅遂携之歸錄之以償夙昔然胡本中<lb/>
+頗多浥爛損壊字尚須假孫氏本𥙷之集有輦下曲一<lb/>
+百二首宮中詞二十一首皆道胡元宫闈中事也别有<lb/>
+　國初宗室得所賜元老宫人言庚申君宫中事為作<lb/>
+宮詞百今見丈園謾錄惜為刪去五十二章今惟存四<lb/>
+<pb n="KR4d0593_SBCK_008-1b"/>
+十八章録作一家亦俻一代之遺事云旹天啟二年壬<lb/>
+戌正月上元後一日書於武源山中連隂雨二十日矣<lb/>
+尚未有晴意恐復作元年連綿四五月也清常道人書<lb/>
+<pb n="KR4d0593_SBCK_008-2a"/>
+<pb n="KR4d0593_SBCK_008-3a"/>
+<pb n="KR4d0593_SBCK_008-4a"/>
+嘉慶甲戌収淂明刻夲校非特浥爛損壊<lb/>
+字与趙所據抄之夲合且此夲有墨筆<lb/>
+旁添之字皆刻本所有其爲海塩胡<lb/>
+孝轅夲無疑明刻新從湖賈之趕考<lb/>
+玉峯銷中所收來自浙中當不誣也<lb/>
+趙㨿抄于前余覆勘于後尚有<lb/>
+一二實为趙抄时所遺書經三寫<lb/>
+魯魚亥豕　故樂淂祖夲也校注<lb/>
+記　閏二月十九正下𣸪爲識<lb/>
+<pb n="KR4d0593_SBCK_008-4b"/>
+　此夲多為唐卿夲校補一過<lb/>
+　幸先由此而刻夲反可藉是<lb/>
+　獲今書　可編　如此<lb/>
+　　　　　　𣸪爲又記<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

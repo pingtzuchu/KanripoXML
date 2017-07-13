@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4d0586_SBCK_015-1a"/>
+鐡雅先生復古詩集卷之五　古樂府卷十五<lb/>
+　　　　　　　　　　太史紹興楊維禎廉夫著<lb/>
+　　　　　　　　　　太史金華黄溍　晋卿評<lb/>
+　　　　　　　　　　門生雲間章琬　孟文註<lb/>
+　古樂府<lb/>
+　　香奩集<hi>并序</hi>
+　　雲間詩社香奩八題無春坊才情者多為題所<lb/>
+　　困縦有篇什正如三家邨媍學宫粧院軆終帶<lb/>
+　　鄙状可醜也晚得玉樓子八作衆推為甲而長<lb/>
+　　短句樂府絶無可拈出者雲菴老先生寄示踏<lb/>
+<pb n="KR4d0586_SBCK_015-1b"/>
+　　莎行八闋讀之驚喜先生盖松雪翁門倩今年<lb/>
+　　八十有三矣而堅强清爽岀語姢麗流便此殆<lb/>
+　　雪月中神仙人也謹以付翠兒度腔歌之又評<lb/>
+　　付龍洲生附八詠詩後綉梓以見王孫門中舊<lb/>
+　　時月色雖閱喪亂固無恙也至正丙午春三月<lb/>
+　　𥘉吉錦窶老人楊禎叙<lb/>
+　　香奩八題<lb/>
+　　　金盆沐髮<lb/>
+華清春晝賜温泉綰脫青絲撒一編翠雨亂跳花厎<lb/>
+月黒雲半掩鏡中天銅仙盤滿添香露玉女盆傾拾<lb/>
+翠鈿攏得雲鬟髙一尺罟冠新上玉䑓前<lb/>
+<pb n="KR4d0586_SBCK_015-2a"/>
+　　　踏莎行　雲菴叜王徳璉撰<lb/>
+　寳鑑凝膏温泉流膩璚纎一把青絲墜氷膚淺漬<lb/>
+　麝煤春花香石髄和雲洗○玉女峰前咸池月厎<lb/>
+　臨風輕把犀梳理陽䑓行雨乍歸来羅中猶帶瀟<lb/>
+　湘水<hi>錢雅評曰作家語自别雅華如何可到</hi>
+　　　月奩勻面<lb/>
+一片清光照膽寒玉容滿鏡掩飛鸞素娥照見黄金<lb/>
+闕綘雪鎔開白玉盤翠點栁尖春未透紅生櫻顆落<lb/>
+𥘉乾好風與我披羅幙一朶芙蓉正面㸔<lb/>
+　　　踏莎行　雲菴叜<lb/>
+　氷鑑懸秋瓊腮凝素鉛華夜搗長生兎<hi>用事善斡達</hi>玉<lb/>
+<pb n="KR4d0586_SBCK_015-2b"/>
+　容自擬比姮娥粧成尖恐姮娥妬○花影涵空蟾<lb/>
+　光籠霧芙蓉一朶漙秋露年年只在廣寒宫今宵<lb/>
+　鸞影驚相遇<lb/>
+　　　玉頰啼痕<lb/>
+天然玉質洗鉛華恠厎偏将半面遮紅滴香氷融獺<lb/>
+髄彩粘膩雨上梨花收乾通徳言難盡點濕明妃畫<lb/>
+莫加聚得班班在何䖏軟綃寄與薄情家<lb/>
+　　　踏莎行　雲菴叜<lb/>
+　粉凝紅氷香銷獺髄鏡鸞影裏人憔悴梨花帶雨<lb/>
+　不禁愁玉纎彈盡相思淚○恨鎻春山嬌横秋水<lb/>
+　臉桃零落臙脂碎故将羅帕揾啼痕寄情欲比相<lb/>
+<pb n="KR4d0586_SBCK_015-3a"/>
+　思字<hi>亦善插意</hi>
+　　　黛眉顰色<lb/>
+按樂圖開列滿堂春愁何獨損青揚蜀山烟雨雙尖<lb/>
+痩漢栁風霜两葉蒼索画未成京兆譜欲啼先學壽<lb/>
+陽粧蕭郎忽有歸期報喜色天長一點黄<lb/>
+　　　踏莎行　雲菴叜<lb/>
+　淡掃春痕輕籠芳靨捧心不效吴宮怨楚梅酸蹙<lb/>
+　翠尖纎湘烟碧聚愁萋蒨<hi>善扵形容</hi>○紺羽寒凝月鈎<lb/>
+　金灔鶯吭咽䖏㣲偷歛新翻嫵態太嬌嬈鏡中蛾<lb/>
+　緑和香點<hi>因有嗚咽而有矉色/詞手<graphic n="KR0933" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0933.png" mimeType="image/png"/>姦䖏</hi>
+　　　芳塵春迹<lb/>
+<pb n="KR4d0586_SBCK_015-3b"/>
+是誰歩屧印㣲茫便似名家春滿床軟雪消時痕晃<lb/>
+厎好風生䖏歩生香綵雲飛上踿躚蹬芳草侵来蹴<lb/>
+踘塲愁似　成獨立綵鴛拾得在東墻<lb/>
+　　　踏莎行　雲菴叜<lb/>
+　金谷逰情消磨不盡軟紅香裏雙鴛印蘭膏歩滑<lb/>
+　翠生痕金蓮脫落凌波影○蝶徑遺踪鴈沙凝潤<lb/>
+　為誰留下東風恨玉兒飛化夣中雲青蘋流水空<lb/>
+　仙咏<hi>銕雅評曰非舊時月色誰能道此</hi>
+　　　雲窓秋夢<lb/>
+骨冷魂清酒力㣲路迷錯草是還非羅浮暁月相将<lb/>
+落巫峽斷雲何䖏飛金彈撇過驚忽忽玉龍嘶了尚<lb/>
+<pb n="KR4d0586_SBCK_015-4a"/>
+依依不知直到鈞天所記得霓裳樂譜歸<lb/>
+　　　踏莎行　雲菴叜<lb/>
+　烟冷瑶<graphic n="KR0905" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0905.png" mimeType="image/png"/>神逰貝闕芙蓉城裏花如雪<hi>便有後語</hi>仙郎<lb/>
+　同躡鳯凰翎千門萬户皆明月<hi>自然見夣</hi>○海碧山青<lb/>
+　天荒地老滿身風露飄環玦髙樓畫角苦無情一<lb/>
+　聲吹散雙飛蝶<hi>銕雅評曰栩栩蘧<graphic n="KR1355" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1355.png" mimeType="image/png"/>結尤飄洒</hi>
+　　　繡床凝思<lb/>
+綵線添来日正遲香絨倦理一支頥心逰飛絮渾無<lb/>
+著身蛻枯蟬忽若痴花幀錯描愁伴覺金針閣住許<lb/>
+誰知絶怜小玉情縁重倒死春蠶始絶絲<lb/>
+　　　踏莎行　雲菴叜<lb/>
+<pb n="KR4d0586_SBCK_015-4b"/>
+　翠藻文鴛交枝連理金鍼停䖏渾如醉楊花一點<lb/>
+　是春心䳌聲啼到人千里○喚醒離魂猶疑夣裡<lb/>
+　此情恰似東流水雲窓霧閤沒人知綃痕浥透紅<lb/>
+　鉛淚<hi>銕雅評曰用意措辭髙出衆作</hi>
+　　　金錢卜歡<lb/>
+𬗋姑壇上嘱方兄忽聴呼盧擲地聲星斗未分牛女<lb/>
+㑹隂陽先判雨雲生青蚨孕子寧無兆玉蝶化身元<lb/>
+有情寳鏡重圓三五夜重摩半月問虧盈<lb/>
+　　　踏莎行　雲菴叜<lb/>
+　暗擲龍文㝷盟鸞鏡龜兒不似青蚨凖<hi>好句</hi>花房羞<lb/>
+　化彩蛾飛銀橋宻逓仙娥信○錦屋璚樓薄情飄<lb/>
+<pb n="KR4d0586_SBCK_015-5a"/>
+　　性碧雲望斷紅輪暝珠簾立盡海棠隂待温遥夜<lb/>
+　　鴛衾冷<hi>銕雅評曰雪月神仙語意</hi>
+<pb n="KR4d0586_SBCK_015-5b"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

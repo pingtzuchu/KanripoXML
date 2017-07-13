@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>廟學典禮</head>
+    <p>
+<pb n="KR2m0027_WYG_000-1a"/>
+欽定四庫全書　　　　　史部十三<lb/>
+　廟學典禮　　　　　　　政書類二<hi>儀制之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案廟學典禮六卷不著撰人名氏諸<lb/>
+　　　　家書目皆不著録核其所載始於元太宗丁<lb/>
+　　　　酉而終於成宗大徳間盖元人所録也其書<lb/>
+　　　　襍鈔案牘排綴成編未經文士之修飾故詞<lb/>
+　　　　多椎朴又原序原目散佚無考亦無從得其<lb/>
+<pb n="KR2m0027_WYG_000-1b"/>
+　　　　門類幸其年月先後皆有可稽尚可排比成<lb/>
+　　　　帙謹釐析其文勒為六卷雖繁複之失在所<lb/>
+　　　　未免而一代廟學之制措置規畫梗概具存<lb/>
+　　　　頗可與元史相叅考如至元六年設學校官<lb/>
+　　　　一條稱儒學提舉司秩從六品而百官志作<lb/>
+　　　　從五品各路儒學教授秩八品而百官志作<lb/>
+　　　　九品至元十九年郡縣學院官職員數一條<lb/>
+　　　　稱總管府設教授二員學録學正各二員散<lb/>
+<pb n="KR2m0027_WYG_000-2a"/>
+　　　　府設教授二員學録學正各一員而百官志<lb/>
+　　　　作總管府教授一員學正一員學録一員散<lb/>
+　　　　府上中州教授一員俱不相合盖宋濓等修<lb/>
+　　　　史之時據其末年之制而大徳以前之舊典<lb/>
+　　　　則未及詳考也又選舉志稱至元二十八年<lb/>
+　　　　令江南諸路學及各縣學内設立小學選老<lb/>
+　　　　成之士教之其他先儒過化之地名賢經行<lb/>
+　　　　之所與好事之家出錢粟贍學者並立為書<lb/>
+<pb n="KR2m0027_WYG_000-2b"/>
+　　　　院是明言小學書院設於世祖之時而此書<lb/>
+　　　　載立小學書塾乃在大徳四年以成宗時人<lb/>
+　　　　記成宗時事不應訛異如是或至元時雖有<lb/>
+　　　　此議實未及施行至成宗乃補定其規制而<lb/>
+　　　　史未及詳歟元史一書自開局至告成僅閲<lb/>
+　　　　八月其間潦草闕畧不一而足諸志尤不賅<lb/>
+　　　　偹留此一編猶足以見一朝養士之典固考<lb/>
+　　　　古者所必稽矣其中有當日文書程式後人<lb/>
+<pb n="KR2m0027_WYG_000-3a"/>
+　　　　不能盡解以致傳冩訛脱者並詳核釐正無<lb/>
+　　　　可考者則闕之人名地名官名譯語對音尤<lb/>
+　　　　多舛異今皆一一核定俾不失其真以糾向<lb/>
+　　　　來流傳之悞焉乾隆四十六年九月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

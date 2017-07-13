@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4d0056_SBCK_062-1a"/>
+宛陵先生集拾遺<lb/>
+　　　得餘干李尉録示唐人干越亭詩因以<lb/>
+　　　寄題<lb/>
+餘水之干越之鄙築基相對琵琶尾琵琶日日<lb/>
+有秋聲鴈過洞庭風入葦南斗戞湖波不起長<lb/>
+刀剡峰碧耳耳姱娥夜出在寒谿青銅瑩磨光<lb/>
+幾里朝因吳客幅蒲輕滿𥿄如𧖟書可喜<lb/>
+　　　送君石祕校尉河内<lb/>
+古縣太行下老槐三四株以言新作吏不似舊<lb/>
+<pb n="KR4d0056_SBCK_062-1b"/>
+爲儒黃綬心猶壯青雲志豈無漢朝吾逺祖不<lb/>
+道此官麤<lb/>
+　　　雙羊山㑹慶堂記<lb/>
+余以附城之地勢勝神靈所栖故建閣曰寶章<lb/>
+以嚴帝書爲堂曰㑹慶以安吾先君先叔畫像<lb/>
+有僧澄展願歲時奉香火澄展先叔於其有恩<lb/>
+雖然抑之不欲背本堂之前許其置佛俾報恩<lb/>
+奉佛兩得焉况吾之親域在其右欲因以固護<lb/>
+初余一發意吾鄕孝子義士咸助以資噫愛人<lb/>
+<pb n="KR4d0056_SBCK_062-2a"/>
+之愛親者知其有親也不愛人之愛親者知其<lb/>
+不有親也不有其親則孟子所謂慕少艾慕妻<lb/>
+子慕君者歟余老矣慕親而不可得見見墳傍<lb/>
+之草樹不敢慢常若吾親髣髴在其下唯恐令<lb/>
+傷一草樹切切焉不忍去欲常居此則業爲王<lb/>
+官欲致爲臣又無以自給僧能專事藉以守之<lb/>
+守之必精㓗其宇無令棄俗趣而樂處之余之<lb/>
+存心者此耳堂之經畫始終由吾里人張景崇<lb/>
+景崇力爲之者愛吾有其心以吾貧不能自爲<lb/>
+<pb n="KR4d0056_SBCK_062-2b"/>
+也衆人亦由景崇然後從而愛之愛他人之愛<lb/>
+親者於其親可知矣吾不得不書以示後人知<lb/>
+吾鄕之多禮義又書其姓于石隂至和二年八<lb/>
+月初吉宛陵梅堯臣記<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

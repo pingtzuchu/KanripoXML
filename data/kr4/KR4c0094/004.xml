@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4c0094_SBCK_004-1a"/>
+跋<lb/>
+新唐書藝文志載谷有雲臺編三卷宜陽集三卷晁氏郡齋讀<lb/>
+書志有雲臺編三卷宜陽外編一卷晁志又稱谷字守愚宜陽<lb/>
+人光啓三年擢高第遷右拾遺歴都官郞中乾寧四年歸宜春<lb/>
+卒于別墅其集號雲臺編者以其扈從華山觀居所編次云是<lb/>
+本前有谷自序次總目凡三卷每卷首行標鄭守愚文集卷第<lb/>
+幾下題子目雲臺編殆猶華山觀手編舊第歟是爲南宋蜀本<lb/>
+首尾有翰林國史院官書長方木記周香嚴所謂元官印可貴<lb/>
+也今行谷詩全唐作四卷席刻百名家作三卷無第四卷一至<lb/>
+三卷兩刻編次相同均與是本異且其篇數有岀是本外者全<lb/>
+唐第四卷贈咸陽王主簿七律一首乃見是本卷三中附注各<lb/>
+本異同之字與此亦不盡合孤本晩岀宜爲當時所不見也四<lb/>
+<pb n="KR4c0094_SBCK_004-1b"/>
+　庫總目稱谷以鷓鴣詩得名第七句相呼相喚字尤重複寇宗<lb/>
+　奭本草衍義引作相呼相應差無語病今是本正作相應則庫<lb/>
+　本所据又與此異矣全唐席刻傳世最廣因取兩本互讐一過<lb/>
+　錄爲校記附後民國二十三年十月崑山胡文楷<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

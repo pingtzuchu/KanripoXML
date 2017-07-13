@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_272-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選巻二百七十二<lb/>
+　　椒薑類<lb/>
+　　　四言古<lb/>
+　　　　椒華頌　　　　　　　　　<hi>晉</hi>成公綏<lb/>
+　嘉哉芳椒載繁其實厥味惟貞蠲除百疾肇惟歳始月<lb/>
+　正元日永介眉壽以祈初吉<lb/>
+　　　　椒贊　　　　　　　　　　<hi>晉</hi>郭　璞<lb/>
+<pb n="KR4h0141_WYG_272-1b"/>
+　椒之灌植實繁有榛薫林烈薄馞其芬辛服之不已洞<lb/>
+　見通神<lb/>
+　　　　元日椒花頌　　　　　　　<hi>晉</hi>劉臻妻<lb/>
+　璇穹周廻三朔肇建青陽散輝澄景載渙美哉靈花爰<lb/>
+　采爰獻聖容暎之永壽于萬<lb/>
+　　　五言律<lb/>
+　　　　地椒　　　　　　　　　　<hi>元</hi>許有壬<lb/>
+　凍雨催花紫輕風散野香刺沙尖葉細敷地亂條長楚<lb/>
+<pb n="KR4h0141_WYG_272-2a"/>
+客收成裹奚童擷滿筐行廚供草具調鼎爾非良<lb/>
+　　七言律<lb/>
+　　　花椒　　　　　　　　　　<hi>明</hi>僧宗林<lb/>
+欣欣笑口向西風噴出𤣥珠顆顆同采處倒含秋露白<lb/>
+曬時嬌映夕陽紅調漿美著<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>經上塗壁香凝漢殿中<lb/>
+鼎餗也應如此味莫教薑桂獨成功<lb/>
+　　五言絶句<lb/>
+　　　椒園　　　　　　　　　　<hi>唐</hi>裴　廸<lb/>
+<pb n="KR4h0141_WYG_272-2b"/>
+丹刺罥人衣芳香畱過客幸堪調鼎用願君垂采摘<lb/>
+　　　江行　　　　　　　　　　<hi>唐</hi>錢　起<lb/>
+映竹疑邨好穿蘆覺渚幽漸安無曠土薑芋當農收<lb/>
+　　　薑　　　　　　　　　　　<hi>宋</hi>劉子翬<lb/>
+新芽肌理膩映日淨如空恰似勻粧指柔尖帶淺紅<lb/>
+　　七言絶句<lb/>
+　　　寄懷歸州馬判官　　　　　<hi>唐</hi>僧齊已<lb/>
+三年為倅興何長髙卧應多事少忙又見秋風霜裛樹<lb/>
+<pb n="KR4h0141_WYG_272-3a"/>
+　滿山椒熟水雲香<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR4h0141_WYG_272-3b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選巻二百七十二<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

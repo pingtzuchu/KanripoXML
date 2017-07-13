@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>錢塘集</head>
+    <p>
+<pb n="KR4d0051_WYG_000-1a"/>
+欽定四庫全書　　　　　集部三<lb/>
+　錢塘集　　　　　　　　别集類二<hi>宋</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案錢塘集十四巻宋韋驤撰驤字子<lb/>
+　　　　駿錢塘人皇祐五年進士除知袁州萍鄉縣<lb/>
+　　　　厯福建轉運判官主官主中出為䕫路提刑<lb/>
+　　　　建中靖國初除知明州丐宮祠以左朝議大<lb/>
+　　　　夫提舉杭州洞霄宫卒其事蹟不見於宋史<lb/>
+<pb n="KR4d0051_WYG_000-1b"/>
+　　　　而集中所載袁狀祭文諸篇署銜尚存可以<lb/>
+　　　　得其大概焉端臨經籍考有錢塘韋先生集<lb/>
+　　　　十八巻宋史藝文志巻數亦同是編原本十<lb/>
+　　　　六巻前有収藏家題識宋板韋驤集係明呉<lb/>
+　　　　寛家藏本原關第一第二巻實止十四巻檢<lb/>
+　　　　勘書中凡構字皆空闕而注其下云太上皇<lb/>
+　　　　帝御名當由孝宗時刋本抄傳特所闕兩巻<lb/>
+　　　　諸本皆同今已末由考補耳驤少以詞賦知<lb/>
+<pb n="KR4d0051_WYG_000-2a"/>
+　　　　名王安石最稱其借箸賦而集中未見考宋<lb/>
+　　　　史藝文志驤别有賦二十巻當别在賦集之<lb/>
+　　　　内而今佚之矣其古體詩亦已不完而梗概<lb/>
+　　　　尚具觀其氣格大抵不屑屑于規橅唐人而<lb/>
+　　　　密詠恬吟頗有自然之趣雜文多安雅有法<lb/>
+　　　　而四六表啓為尤工其精麗流逸已闕南宋<lb/>
+　　　　一派雖未能接跡歐梅要亦一時才傑之士<lb/>
+　　　　也謹釐改目次即所存之本以第三巻為第<lb/>
+<pb n="KR4d0051_WYG_000-2b"/>
+　　　　一定為一十四巻著之於録屢經傳寫脱落<lb/>
+　　　　頗多世無别本其可知者隨文校正其不可<lb/>
+　　　　知者則姑從闕疑之義焉乾隆四十六年五月恭<lb/>
+　　　　校上<lb/>
+　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

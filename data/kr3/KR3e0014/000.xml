@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>銀海精微</head>
+    <p>
+<pb n="KR3e0014_WYG_000-1a"/>
+欽定四庫全書　　　　子部五<lb/>
+　銀海精微　　　　　　醫家類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案銀海精微二卷舊本題唐孫思邈<lb/>
+　　　　撰唐宋藝文志皆不著録思邈本傳亦不言<lb/>
+　　　　有是書其曰銀海者蓋取目為銀海之義考<lb/>
+　　　　蘇軾雪詩有凍合玉樓寒起粟光摇銀海炫<lb/>
+　　　　生花句瀛奎律髓引王安石之説謂道書以<lb/>
+<pb n="KR3e0014_WYG_000-1b"/>
+　　　　肩為玉樓目為銀海銀海為目僅見於此然<lb/>
+　　　　迄今無人能舉安石所引出何道書者則安<lb/>
+　　　　石以前絶此説其為宋以後書明矣前有齊<lb/>
+　　　　一經序稱管河北道時得於同僚李氏亦不<lb/>
+　　　　著時代年月莫知何許人也其中辨論諸證<lb/>
+　　　　頗為明晰其法補瀉兼施寒温互用亦無偏<lb/>
+　　　　主一格之弊方技之家率多依托但求其術<lb/>
+　　　　之可用無庸核其書之必真本草稱神農素<lb/>
+<pb n="KR3e0014_WYG_000-2a"/>
+　　　　問言黄帝固不能一一確鑿也此書載療目<lb/>
+　　　　之方較為可取則亦就書論書而已乾隆四<lb/>
+　　　　十六年二月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

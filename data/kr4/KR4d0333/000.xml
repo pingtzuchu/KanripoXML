@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>東野農歌集目錄</head>
+    <p>
+<pb n="KR4d0333_WYG_000-1a"/>
+原序<lb/>
+戴昺字景明號東野石屛之從孫嘉定己夘登第授贑<lb/>
+州法曹參軍有東野農歌集石屏稱其不學晩唐體曽<lb/>
+聞大雅音者也集中答妄論唐宋詩體者云安用雕鎪<lb/>
+嘔肺膓辭能達意即文章性情元自無今古格調何須<lb/>
+辨宋唐人道鳳簫諧律呂誰知牛鐸有宮商少陵甘作<lb/>
+村夫子不害光芒萬丈長知此可與言詩矣廬陵楊萬<lb/>
+里題<lb/>
+<pb n="KR4d0333_WYG_000-1b"/>
+余效官秋浦公餘弗暇他問獨未能忘情於吟凡得諸<lb/>
+山川之登覽景物之感觸賔友之應酬率於五七字寄<lb/>
+之雖草根喓喓栁梢嘒嘒視嗚髙岡唳九皋聲韻邈乎<lb/>
+不侔而發乎情則一也抖擻破嚢凡百篇輙忘其醜錄<lb/>
+以備或者楓落吴江之問寶祐改元癸丑修禊日東野<lb/>
+子戴昺自叙<lb/>
+<pb n="KR4d0333_WYG_000-2a"/>
+欽定四庫全書　　　　　集部四<lb/>
+　東野農歌集目錄　　　　别集類三<hi>宋</hi>
+　　巻一<lb/>
+　　　五言古詩<lb/>
+　　巻二<lb/>
+　　　七言古詩<lb/>
+　　巻三<lb/>
+　　　五言律<lb/>
+<pb n="KR4d0333_WYG_000-2b"/>
+　　巻四<lb/>
+　　　七言律<lb/>
+　　巻五<lb/>
+　　　七言絶<lb/>
+　　　　<hi>臣</hi>等謹案東野農歌集五巻宋戴昺撰昺字<lb/>
+　　　　景明東野其自號也天台人石屏居士復古<lb/>
+　　　　之從孫嘉定己夘登進士第授贑州法曹參<lb/>
+　　　　軍其自序有效官秋浦之語則寶祐中又嘗<lb/>
+<pb n="KR4d0333_WYG_000-3a"/>
+　　　　爲池州幕僚不知其終於何職也其詩世有<lb/>
+　　　　二本一爲兩淮所進題曰戴東野詩祇一巻<lb/>
+　　　　乃附錄石屏集後者一爲浙江所進分爲五<lb/>
+　　　　巻其編次稍有條理而詩視兩淮本較少數<lb/>
+　　　　篇今以浙江本爲主據兩淮本增入詩十三<lb/>
+　　　　首又據宋詩抄增入詩二首凡百有餘篇與<lb/>
+　　　　自序所云篇數相合殆可以稱足本矣昺少<lb/>
+　　　　工吟咏爲復古所稱許有不學晚唐體曾聞<lb/>
+<pb n="KR4d0333_WYG_000-3b"/>
+　　　　大雅音之句所作大抵天然神韻不費雕鏤<lb/>
+　　　　五言如眼明千樹底春入數花中秋牀梧葉<lb/>
+　　　　雨曉袂竹林風清池涵竹色老樹蝕藤陰草<lb/>
+　　　　澗蛩聲滑松凉鶴夢清七言如野水倒涵天<lb/>
+　　　　影動海雲平壓雁行低颺栁輕風寒忽暖催<lb/>
+　　　　花小雨濕還晴皆清婉可諷頗具石屏家法<lb/>
+　　　　云乾隆四十六年三月恭校上<lb/>
+　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+<pb n="KR4d0333_WYG_000-4a"/>
+　　　　　　　　　　總校官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

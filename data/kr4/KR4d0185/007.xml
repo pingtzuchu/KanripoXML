@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>王著作集巻七</head> <lb/>
+    <p>
+<pb n="KR4d0185_WYG_007-1a"/>
+欽定四庫全書<lb/>
+　王著作集巻七<lb/>
+　　　　　　　　　　　　　宋　王蘋　撰<lb/>
+　　著作與尹和靖講易<lb/>
+乾象<lb/>
+　慈溪本云偏言則一事　偏字為是　或本云徧言<lb/>
+　則一事<lb/>
+乾文言天下文明<lb/>
+<pb n="KR4d0185_WYG_007-1b"/>
+　慈溪本云天下見其文明之化也　或本云見其文<lb/>
+　明而化之　焞所収本見其文明而化之<lb/>
+乾元者始而亨者也<lb/>
+　慈溪本云既始則亨　或本云既始則必亨　既始<lb/>
+　則必亨為是<lb/>
+師九二<lb/>
+　慈溪本云恃專制失為下之道　或本云恃專則失<lb/>
+　為下之道　焞所収本無制字<lb/>
+<pb n="KR4d0185_WYG_007-2a"/>
+小畜彖<lb/>
+　慈溪本云加曰字者皆重卦名　或本云加曰字者<lb/>
+　皆重卦名<lb/>
+同人彖<lb/>
+　慈溪本云必與人同力乃能濟　焞所収本與此本<lb/>
+　同　或本云必與人同乃能有濟<lb/>
+大有九三<lb/>
+　慈溪本云公當亨於天子　或本云公當用亨於天<lb/>
+<pb n="KR4d0185_WYG_007-2b"/>
+　子　焞所収本必用亨通於天子<lb/>
+謙彖<lb/>
+　慈溪本云抑髙舉下損過抑不及　或本云抑髙舉<lb/>
+　下損過抑不及　焞所収本損過益不及恐抑字是<lb/>
+臨六五<lb/>
+　慈溪本云是不自任其知大矣　焞所収本是不自<lb/>
+　任其知則其知大矣　或本云是不自任其知則其<lb/>
+　知大矣<lb/>
+<pb n="KR4d0185_WYG_007-3a"/>
+大畜<lb/>
+　慈溪本云諸爻則惟有止畜之義　或本云諸爻則<lb/>
+　惟為止畜之義　焞所収本則惟為止畜之義<lb/>
+大過九五<lb/>
+　慈溪本云得過極之陰　焞所収本無以字　或本<lb/>
+　云以過極之陰<lb/>
+咸彖<lb/>
+　慈溪本云誠慤之義　堅慤之義　或本云誠慤之<lb/>
+<pb n="KR4d0185_WYG_007-3b"/>
+　義　堅慤之意<lb/>
+恒初六<lb/>
+　慈溪本云居常之始　或本云居恒之始　焞所収<lb/>
+　本居恒之始<lb/>
+家人<lb/>
+　慈溪本云至於天下治治天下之道　或本云至於<lb/>
+　天下治天下之道　焞所収本至於天下<lb/>
+解六三<lb/>
+<pb n="KR4d0185_WYG_007-4a"/>
+　慈溪本云曰作易者其知盜乎　或本云曰字作謂<lb/>
+　字　焞所収本作謂字<lb/>
+損六三<lb/>
+　慈溪本云醇謂濃厚厚猶精一也　或本云醇謂濃<lb/>
+　厚猶精一也　焞所収本醇謂濃厚濃厚由精<lb/>
+井彖<lb/>
+　慈溪本云無喪無得其徳也往來井井其用也用常<lb/>
+　也固也井之道也　或本云無喪無得其徳也常往<lb/>
+<pb n="KR4d0185_WYG_007-4b"/>
+　來井井其用也周常也周也井之道也　焞所収本<lb/>
+　無喪無得其徳也常往來井井其用也周常也周也<lb/>
+　井之道也<lb/>
+歸妺九四<lb/>
+　慈溪本云以無悔故為愆期之義　或本云以無應<lb/>
+　故為愆期之義　焞所収本以無應故為愆期之義<lb/>
+　<lb/>
+　王著作集巻七<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

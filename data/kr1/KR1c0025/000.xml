@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>詩攷</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　經部三<lb/>
+　詩攷　　　　　　　　詩類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案詩攷一卷宋王應麟撰隋書經籍<lb/>
+　　　　志云齊詩魏代已亡魯詩亡於西晉韓詩雖<lb/>
+　　　　存無傳之者今三家詩惟韓詩外傳僅存所<lb/>
+　　　　謂韓故韓内傳韓説者亦並佚矣應麟檢諸<lb/>
+　　　　書所引集以成帙曰韓詩曰魯詩曰齊詩以<lb/>
+<pb n="1b"/>
+　　　　存三家逸文又旁搜廣討曰詩異字異義曰<lb/>
+　　　　逸詩以附綴其後毎條各著其所出所引韓<lb/>
+　　　　詩較夥齊魯二家僅寥寥數條葢韓最後亡<lb/>
+　　　　唐以來註書之家引其説者多也卷末别為<lb/>
+　　　　補遺以掇拾所缺其蒐輯頗為勤摯明董斯<lb/>
+　　　　張嘗摘其遺漏十九條其中子華子清風婉<lb/>
+　　　　兮一條本北宋偽書不得謂之疎畧近人因<lb/>
+　　　　應麟之書撰三家詩拾遺十卷其所採録又<lb/>
+<pb n="2a"/>
+　　　　多斯張之所未蒐併摘應麟所録逸詩如楚<lb/>
+　　　　詞之駕辨夏侯元辨樂論之網罟豐年穆天<lb/>
+　　　　子傳之黄竹吕氏春秋之燕燕破斧葛天八<lb/>
+　　　　闋尚書大傳之晳陽南陽初慮朱干苓落歸<lb/>
+　　　　來縵縵皆子書雜説且不當録及殷以前所<lb/>
+　　　　言亦不為無理然古書散佚蒐採為難後人<lb/>
+　　　　踵事増修較創始易於為力篳路藍縷終當<lb/>
+　　　　以應麟為首庸也乾隆四十六年正月恭校<lb/>
+<pb n="2b"/>
+　　　　上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="3a"/>
+　詩攷自序<lb/>
+漢言詩者四家師異指殊賈逵撰齊魯韓與毛氏異同<lb/>
+梁崔靈恩采三家本為集注今惟毛傳鄭箋孤行韓㢙<lb/>
+存外傳而魯齊詩亡久矣諸儒説詩壹以毛鄭為宗未<lb/>
+有參攷三家者獨朱文公集傳閎意眇指卓然千載之<lb/>
+上言關雎則取匡衡柏舟婦人之詩則取劉向笙詩有<lb/>
+聲無辭則取儀禮上天甚神則取戰國䇿何以恤我則<lb/>
+取左氏傳抑戒自儆昊天有成命道成王之德則取國<lb/>
+<pb n="3b"/>
+語陟降庭止則取漢書注賓之初筵飲酒悔過則取韓<lb/>
+詩序不可休思是用不就彼岨者岐皆從韓詩禹敷下<lb/>
+土方又證諸楚辭一洗末師專已守殘之陋學者諷詠<lb/>
+涵濡而自得之躍如也文公語門人文選注多韓詩章<lb/>
+句嘗欲寫出應麟竊觀傳記所述三家緒言尚多有之<lb/>
+罔羅遺軼傅以説文爾雅諸書稡為一編以扶微學廣<lb/>
+異義亦文公之意云爾讀集傳者或有攷於斯王應麟<lb/>
+伯厚甫自序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

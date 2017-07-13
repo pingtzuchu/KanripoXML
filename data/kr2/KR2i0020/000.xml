@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>安南志畧</head>
+    <p>
+<pb n="KR2i0020_WYG_000-1a"/>
+欽定四庫全書　　　　　　史部九<lb/>
+　安南志畧　　　　　　　　載記𩔖<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案安南志畧二十卷元黎崱撰崱字<lb/>
+　　　　景髙號東山安南國人東晉交州刺史阮敷<lb/>
+　　　　之後世居愛州幼與黎琫為子因從其姓九<lb/>
+　　　　嵗試童科仕其國至侍郎遷左静海軍節度<lb/>
+　　　　使陳鍵幕至元中世祖伐安南鍵率崱等出<lb/>
+<pb n="KR2i0020_WYG_000-1b"/>
+　　　　降其國邀擊之鍵歿於軍崱入朝授奉議大<lb/>
+　　　　夫居於漢陽以鍵志不伸而名冺乃撰此志以<lb/>
+　　　　致其意所紀安南事實與元史列傳多有異<lb/>
+　　　　同如李公藴所奪是黎非丁張懐侯為國叔<lb/>
+　　　　張憲侯為日烜兄子俱非壻遭興道王之難<lb/>
+　　　　者乃明誠侯而非義國侯皆可證史氏之訛<lb/>
+　　　　又史於至元二十三年詔書内數安南罪有<lb/>
+　　　　戕害遺愛語而不著其事今志載至元十九<lb/>
+<pb n="KR2i0020_WYG_000-2a"/>
+　　　　年授柴椿元帥以兵千人送遺愛就國至永<lb/>
+　　　　平界安南勿納遺愛懼夜先逃歸世子廢遺<lb/>
+　　　　愛為庶人更足明史有脱漏其他山川人物<lb/>
+　　　　敘述亦皆詳贍洵可為參稽互考之助盖安<lb/>
+　　　　南文字通於中國其開科取士制亦略同故<lb/>
+　　　　所敘述彬彬然具有條理不在髙麗史下云<lb/>
+　　　　乾隆四十六年十一月恭校上<lb/>
+　　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+<pb n="KR2i0020_WYG_000-2b"/>
+　　　　　　　　　　　　　總　校　官<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

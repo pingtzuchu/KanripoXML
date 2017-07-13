@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="1a"/>
+重刻宋本儀禮䟽序<lb/>
+儀禮合䟽於經注而并其卷第始自明正德陳<lb/>
+鳳梧迨李元陽以下皆因之從事校讎者多言<lb/>
+其譌而宋景德官刊賈公彦元分五十卷不合<lb/>
+經注之䟽與唐舊新志同者則均未得見也宋<lb/>
+槧殘本幸存僅缺去卅二至卅七無恙者計卷<lb/>
+尚四十有四嘉慶初入吾郡黃氏於是張古餘<lb/>
+太守得其校本别合嚴州經注重編於江省後<lb/>
+阮宫保取配十行不足者也唯時段若膺大令<lb/>
+亦得此校本謂之單䟽儀禮亦訂正自來用經<lb/>
+<pb n="1b"/>
+傳通解轉改之失而單䟽之善旣有聞矣然五<lb/>
+十卷之面目仍未有見之者也吾郡宋槧轉歸<lb/>
+予藝芸書舎念世閒無二遂命工影寫重彫之<lb/>
+以餉學子使數百年來弗克寓目者今乃可家<lb/>
+置一部竟如前此馬廷鸞之得諸篋中豈非大<lb/>
+愉快哉宋每半葉十五行每行卄七字修者不<lb/>
+等各仍其舊缺卷亦然并卷内缺葉十有三翻<lb/>
+因他本盡割棄所標經注無由推知也其卷内<lb/>
+正誤補脫去衍乙錯數千百處視邇日諸家約<lb/>
+略是同究不若此次之行摹款倣尤傳景德之<lb/>
+<pb n="2a"/>
+眞矣若夫撰定異同不特出入紛紜恐致詞費<lb/>
+抑復管窺專輒曷若闕如悉心尋繹元文自見<lb/>
+云爾<lb/>
+道光十年歳次庚寅秋九月長洲汪士鐘序<lb/>
+<pb n="2b"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

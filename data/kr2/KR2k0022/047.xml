@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>咸淳臨安志卷四十七</head>
+    <p>
+<pb n="KR2k0022_WYG_047-1a"/>
+欽定四庫全書<lb/>
+　咸淳臨安志卷四十七　　宋　潜說友　撰<lb/>
+秩官五<lb/>
+<pb n="KR2k0022_WYG_047-2a"/>
+</p>
+<p>
+<pb n="KR2k0022_WYG_047-3a"/>
+</p>
+<p>
+<pb n="KR2k0022_WYG_047-4a"/>
+</p>
+<p>
+<pb n="KR2k0022_WYG_047-5a"/>
+</p>
+<p>
+<pb n="KR2k0022_WYG_047-6a"/>
+</p>
+<p>
+<pb n="KR2k0022_WYG_047-7a"/>
+</p>
+<p>
+<pb n="KR2k0022_WYG_047-8a"/>
+</p>
+<p>
+<pb n="KR2k0022_WYG_047-9a"/>
+</p>
+<p>
+<pb n="KR2k0022_WYG_047-10a"/>
+</p>
+<p>
+<pb n="KR2k0022_WYG_047-11a"/>
+</p>
+<p>
+<pb n="KR2k0022_WYG_047-12a"/>
+</p>
+<p>
+<pb n="KR2k0022_WYG_047-13a"/>
+</p>
+<p>
+<pb n="KR2k0022_WYG_047-14a"/>
+</p>
+<p>
+<pb n="KR2k0022_WYG_047-15a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2k0022_WYG_047-15b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　咸淳臨安志卷四十七<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

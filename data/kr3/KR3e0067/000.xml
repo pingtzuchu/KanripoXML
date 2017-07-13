@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>普濟方</head>
+    <p>
+<pb n="KR3e0067_WYG_000-1a"/>
+欽定四庫全書　　　　　子部五<lb/>
+　普濟方　　　　　　　　醫家類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案普濟方四百二十六卷明周王朱<lb/>
+　　　　橚撰橚太祖第五子初封吳王洪武十一年<lb/>
+　　　　改封周十四年就藩開封洪熙元年薨諡曰<lb/>
+　　　　定事蹟見明史諸王列𫝊橚好學能文留心<lb/>
+　　　　民事嘗作救荒本草已著於録是書取古今<lb/>
+<pb n="KR3e0067_WYG_000-1b"/>
+　　　　方劑彚輯成編乃橚所自訂而教授滕碩長<lb/>
+　　　　史劉醇等同攷定之凡一千九百六十論二<lb/>
+　　　　千一百七十五類七百七十八法六萬一千<lb/>
+　　　　七百三十九方二百三十九圖可謂集方書<lb/>
+　　　　之大全者李時珍本草綱目采録其方至多<lb/>
+　　　　然時珍稱為周憲王則以為橚子有燉所作<lb/>
+　　　　未免舛誤明史藝文志作六十八卷與此不<lb/>
+　　　　合則又誤脱一百二字也其書捃摭浩博重<lb/>
+<pb n="KR3e0067_WYG_000-2a"/>
+　　　　複牴牾頗不免雜糅之弊然醫理至深寒凉温<lb/>
+　　　　補用各攸宜虚實隂陽時亦有當俗師見聞<lb/>
+　　　　不廣往往株守一偏用之適足以致誤是書<lb/>
+　　　　於一症之下備列諸方使學者依類推求於<lb/>
+　　　　異同出入之間得以窺見古人之用意因而<lb/>
+　　　　折衷參伍不致為成法所拘其有益於醫術<lb/>
+　　　　者甚大正不必以繁蕪為病矣乾隆四十四<lb/>
+　　　　年正月恭校上<lb/>
+<pb n="KR3e0067_WYG_000-2b"/>
+　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

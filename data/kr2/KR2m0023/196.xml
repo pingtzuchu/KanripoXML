@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>政和五禮新儀卷一百九十</head> <lb/>
+    <p>
+<pb n="KR2m0023_WYG_196-1a"/>
+欽定四庫全書<lb/>
+　政和五禮新儀卷一百九十<lb/>
+　　嘉禮<lb/>
+　　　册皇后儀四<lb/>
+　　　皇后朝謁景靈宫<lb/>
+前一日有司於景靈東宫張大次於明福殿上<hi>西宫即於㓗誠</hi>
+<hi>殿</hi>又於天興殿之東廊設幄東南西向又於殿東階之<lb/>
+東西南設皇后褥位西向又於殿上設皇后褥位於香<lb/>
+<pb n="KR2m0023_WYG_196-1b"/>
+案南北向及供奉之物如常儀又設内命婦妃嬪以下<lb/>
+陪列位於殿庭之東外命婦陪列位於殿庭之西皆重<lb/>
+行北向保寕閣天元大始皇武儷極大定煇德熈文衍<lb/>
+慶美成繼仁治隆徽音景靈西宫大明坤元重光殿並<lb/>
+如上儀訖又設内命婦妃嬪以下及外命婦並應奉官<lb/>
+次於齊殿門内外量地之宜太僕寺陳重翟車於宣德<lb/>
+門内偏東南向其日未明前二刻有司陳小駕鹵簿儀<lb/>
+仗於重翟車左右以次排列外命婦先至景靈宫後門<lb/>
+<pb n="KR2m0023_WYG_196-2a"/>
+入就次皇后未出宫前一刻内侍引命婦妃嬪以下俱<lb/>
+詣殿庭起居訖内侍奏請中嚴少頃又奏外辦皇后首<lb/>
+餙褘衣乗龍餙肩輿如常儀障以行出内東門<hi>由宣祐門左銀臺門</hi>
+<hi>左嘉肅門左長慶門入左升龍門</hi>内侍詣皇后肩輿前俛伏跪奏具官<lb/>
+臣某言請皇后降肩輿升重翟車奏訖俛伏興少退<hi>凡内</hi>
+<hi>侍奏請之儀准此</hi>馭者執綏皇后升重翟車内侍詣車前奏請<lb/>
+重翟車進發車進行出東偏門内命婦妃嬪以下自内<lb/>
+東門升階乗車由左掖門至宣德門外從皇后車至景<lb/>
+<pb n="KR2m0023_WYG_196-2b"/>
+靈東宫昌福門<hi>西宫即於昭德門</hi>小駕鹵簿止於門外車入門<lb/>
+廻車南向内侍詣車前奏請皇后降車升肩輿皇后降<lb/>
+車升肩輿入大次内命婦妃嬪以下並降車以入内侍<lb/>
+引外命婦詣皇后大次前起居訖並先赴殿庭陪位少<lb/>
+頃内侍前𨗳皇后至天興殿幄次降簾又内侍詣幄次<lb/>
+請皇后行朝謁之禮簾卷内侍前𨗳皇后詣殿庭西向<lb/>
+褥位立内侍奏請再拜皇后再拜内命婦妃嬪以下及<lb/>
+外命婦皆再拜内侍前𨗳皇后升殿東階詣聖祖天尊<lb/>
+<pb n="KR2m0023_WYG_196-3a"/>
+大帝案前褥位北向立内侍奏請皇后上香再上香<lb/>
+三上香又奏請再拜皇后再拜内命婦妃嬪以下及外<lb/>
+命婦皆再拜内侍前𨗳皇后還幄次降簾内侍詣幄次<lb/>
+前奏言禮畢次詣保寕閣天元大始皇武儷極大定煇<lb/>
+德殿朝謁如天興殿謁訖歸大次内侍詣大次前奏内<lb/>
+解嚴内外命婦皆還次少頃小駕鹵簿轉仗衛於還途<lb/>
+如來儀外命婦先退太僕進重翟車於昌福門内南向<lb/>
+内侍奏請中嚴少頃又奏外辦皇后乗肩輿以出至車<lb/>
+<pb n="KR2m0023_WYG_196-3b"/>
+前内侍詣肩輿前奏請皇后降肩輿升重翟車皇后升<lb/>
+車馭者執綏内侍詣車前奏請重翟車進發内命婦妃<lb/>
+嬪以下升所乘車重翟車進行皷吹振作前𨗳車至宣<lb/>
+德東偏門廻車南向内侍詣車前奏請皇后降車升肩<lb/>
+輿皇后乗肩輿障以行帷由内東門還内内命婦妃嬪<lb/>
+以下從入内侍奏請解嚴将士各還其所次日又朝見<lb/>
+熈文衍慶美成繼仁治隆徽音殿並如天元殿之儀又<lb/>
+次日謁西宫朝謁大明坤元重光殿並如東宫之儀<lb/>
+<pb n="KR2m0023_WYG_196-4a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0023_WYG_196-4b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　政和五禮新儀卷一百九十<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>𫝊信適用方</head>
+    <p>
+<pb n="KR3e0034_WYG_000-1a"/>
+欽定四庫全書　　　　　子部五<lb/>
+　𫝊信適用方　　　　　　醫家類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案𫝊信適用方二卷舊本不著撰人<lb/>
+　　　　名氏宋史藝文志載此書亦不云誰作而别<lb/>
+　　　　有劉禹錫𫝊信方二卷考此書每方之下皆<lb/>
+　　　　註𫝊自某人中有引及和劑局方者必非禹<lb/>
+　　　　錫書也馬端臨文獻通考有𫝊道適用方二<lb/>
+<pb n="KR3e0034_WYG_000-1b"/>
+　　　　卷陳振孫云稱拙菴吴彦䕫淳熙庚子撰與<lb/>
+　　　　此卷帙正同知此即彦䕫之書通考屢經𫝊<lb/>
+　　　　寫訛信為道也此本由宋槧影寫前後無序<lb/>
+　　　　跋所録皆經騐之方最可依據中有八味圓<lb/>
+　　　　問難一條尤深得制方之㫖其餘各方雖經<lb/>
+　　　　後人選用而采擇未盡者尚多末附夏子益<lb/>
+　　　　治竒疾方三十八道其書罕見單行之本明<lb/>
+　　　　李時珍本草綱目所載疑或從此鈔出也乾<lb/>
+<pb n="KR3e0034_WYG_000-2a"/>
+　　　　隆四十六年九月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

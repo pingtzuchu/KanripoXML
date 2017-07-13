@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+  <div> <head>周易略例總目</head>
+    <p>
+<pb n="1a"/>
+　總目<lb/>
+　周易略例音義<hi>此是輔嗣所作旣釋經文故相承講之今亦隨世音焉或有題爲第十者</hi>
+　<hi>後人輒加之耳</hi>
+　明彖<lb/>
+　明爻通變<lb/>
+　明卦適變通爻音義<hi>本又作明卦通變適爻又一本直云適變通爻</hi>
+　明象<lb/>
+　辯位<lb/>
+<pb n="1b"/>
+　略例下音義<hi>舊本如此本或無下字</hi>
+　卦略音義<hi>凡十一卦</hi>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

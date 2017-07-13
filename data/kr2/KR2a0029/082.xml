@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2a0029_WYG_082-1a"/>
+　舊五代史巻四十攷證<lb/>
+唐明宗紀六贊年五歲黙念論語孝經　案宋史作贊<lb/>
+　七歲誦書二十七巻<lb/>
+宜賜别勅及第附今年春牓　案宋史云特賜童子及<lb/>
+　第附長興三年禮部春牓是書作天成四年春牓與<lb/>
+　宋史異<lb/>
+二月乙已王晏球奏此月三日收復定州　案歐陽史<lb/>
+　作二月癸卯王晏球克定州與是書合通鑑作癸丑<lb/>
+<pb n="KR2a0029_WYG_082-1b"/>
+　攷癸丑非二月三日也疑𫝊冩之誤<lb/>
+禁鐡鑞錢　鐡鑞錢通鑑作鐡錫錢攷胡三省注云馬<lb/>
+　殷得湖南鑄錫為錢本用之境内其後遂流入中國<lb/>
+　疑原本鑞字誤攷册府元龜亦作鐡鑞錢今仍其舊<lb/>
+以端明殿學士趙鳯為門下侍郎兼工部尚書平章事<lb/>
+　　案歐陽史本紀作端明殿學士尚書兵部侍郎趙<lb/>
+　鳯為門下侍郎兼工部尚書同平章事趙鳯𫝊作禮<lb/>
+　部侍郎與本紀異見吴縝纂誤<lb/>
+<pb n="KR2a0029_WYG_082-2a"/>
+伏以少帝今不入廟難以言宗　案舊唐書哀帝紀云<lb/>
+　中書奏少帝行事不合稱宗攷五代㑹要天成二年<lb/>
+　博士吕明龜議引君不逾年不入宗廟之禮請别立<lb/>
+　廟于園陵故不稱景宗非議其行事有失也舊唐書<lb/>
+　誤<lb/>
+丙辰權知荆南府事高從誨上章首罪　丙辰通鑑作<lb/>
+　庚申<lb/>
+使副劉玫　劉玫通鑑作韓玫<lb/>
+<pb n="KR2a0029_WYG_082-2b"/>
+徹伯爾舊作掣撥今改　托諾舊作秃餒今改　紐赫<lb/>
+　羙稜舊作捺括梅里今改　郭濟舊作骨至今改<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　舊五代史巻四十考證<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

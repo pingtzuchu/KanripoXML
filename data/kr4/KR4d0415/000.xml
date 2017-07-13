@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>提要<lb/>
+                </head>
+    <p>
+<pb n="KR4d0415_WYG_000-1a"/>
+欽定四庫全書　　　　　集部四<lb/>
+　提要<lb/>
+　　心泉學詩稿六巻　　　别集類三<hi>附録</hi>
+　　　　<hi>臣</hi>等謹案心泉學詩稿六巻宋蒲夀宬撰夀<lb/>
+　　　　宬之名不見於史其集亦不載於藝文志惟<lb/>
+　　　　明文淵閣書目載有蒲心泉詩一部一册檢<lb/>
+　　　　永樂大典各韻内所録頗多其間題名皆作<lb/>
+　　　　夀宬而凌廸知萬姓統譜則作夀<graphic n="KR0882" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0882.png" mimeType="image/png"/>黄仲昭<lb/>
+<pb n="KR4d0415_WYG_000-1b"/>
+　　　　八閩通志又作夀晟互有同異今按永樂大<lb/>
+　　　　典各巻皆作宬字當非偶誤其作晟<graphic n="KR0882" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0882.png" mimeType="image/png"/>字者<lb/>
+　　　　殆傳冩訛也夀宬家本泉州其官履不概見<lb/>
+　　　　惟萬姓統譜稱其于咸淳七年知蒲州按蒲<lb/>
+　　　　州非南宋地而集中有梅陽壬申劭農偶成<lb/>
+　　　　書呈同官詩壬申為咸淳八年梅陽即梅州<lb/>
+　　　　今為廣東嘉應州地是夀宬實知梅州萬姓<lb/>
+　　　　統譜又載其在官儉約于民一毫無所取建<lb/>
+<pb n="KR4d0415_WYG_000-2a"/>
+　　　　曾井汲水二缾置座右人頌曰曾氏井泉千<lb/>
+　　　　古冽蒲侯心事一般清是夀宬在當日為循<lb/>
+　　　　吏八閩通志則稱宋季益廣二王航海至泉<lb/>
+　　　　州守臣蒲夀庚距城不納皆出其兄夀宬隂<lb/>
+　　　　謀夀宬佯著黄冠野服入法石山下自稱處<lb/>
+　　　　士而宻令夀庚納欵于元既而夀庚以歸附<lb/>
+　　　　功授官平章富貴冠一時夀宬亦居甲第一<lb/>
+　　　　日二書生踵門獻詩有水聲禽語皆時事莫<lb/>
+<pb n="KR4d0415_WYG_000-2b"/>
+　　　　道山翁總不知之句夀宬惶汗失措追之不<lb/>
+　　　　復見云云則夀宬又一狡黠之叛人稗官小<lb/>
+　　　　説記載多岐宋元二史皆無明文其孰偽孰<lb/>
+　　　　真無從考證今觀其詩頗有冲澹閒逺之致<lb/>
+　　　　在宋元之際猶屬雅音裒録存之釐為六巻<lb/>
+　　　　亦足以備一家若其人則疑以傳疑姑附諸<lb/>
+　　　　南宋之末焉乾隆四十六年九月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+<pb n="KR4d0415_WYG_000-3a"/>
+　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

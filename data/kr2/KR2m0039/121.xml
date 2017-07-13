@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2m0039_WYG_121-1a"/>
+欽定四庫全書<lb/>
+欽定南巡盛典巻八十八<lb/>
+　　名勝<hi>江浙各名勝附識</hi>
+　　乾隆十六年辛未<lb/>
+聖駕駐蹕淮安<lb/>
+書賜山陽縣普濟堂額曰誼敦任䘏<lb/>
+駐蹕髙旻寺<lb/>
+書賜棲靈寺額曰蜀岡慧照聨曰淮安竒觀别開清净<lb/>
+<pb n="KR2m0039_WYG_121-1b"/>
+　　地江山静對逺契妙明心吉祥寺額曰智珠福祿<lb/>
+　　菴額曰福祿禪林<lb/>
+駐蹕鎮江<lb/>
+書賜三義閣額曰曲阿勝地<lb/>
+駐蹕江寧<lb/>
+書賜慧居寺額曰光明法界曰寳網長新曰精進正覺<lb/>
+　　聨曰地控秣陵金殿香浮華鬘動山盤句曲石壇<lb/>
+　　月朗戒珠圓慈應寺額曰慈應普應聨曰地近秣<lb/>
+<pb n="KR2m0039_WYG_121-2a"/>
+　　陵飛法雨江連天塹聴潮音永濟寺額曰徳水香<lb/>
+　　林曰江天净界曰覺岸聨曰吳楚江山通廣望華<lb/>
+　　嚴樓閣總懸居<lb/>
+　　乾隆二十二年丁丑<lb/>
+駐蹕金山寺<lb/>
+書賜五洲山寺額曰净因<lb/>
+駐蹕常州<lb/>
+書賜黄埠墩<lb/>
+<pb n="KR2m0039_WYG_121-2b"/>
+　觀音閣額曰水月澄觀<lb/>
+駐蹕恵山寺<lb/>
+書賜崇安寺額曰静慧<lb/>
+駐蹕蘇州<lb/>
+書賜圓妙觀<lb/>
+　玉皇閣額曰穆清元始三清殿額曰清虚静妙<lb/>
+　斗姆閣額曰珠杓朗耀又<lb/>
+書賜開元寺額曰靈著滄溟瑞光寺額曰慧燈無盡<lb/>
+<pb n="KR2m0039_WYG_121-3a"/>
+駐蹕靈巖寺<lb/>
+書賜石佛寺額曰普門香梵聨曰願力廣施甘露味聞<lb/>
+　　思逺應海潮音海潮菴額曰海潮又<lb/>
+書賜三山㑹館<lb/>
+　天后宫額曰徳孚廣濟聨曰忠信渉波濤周厯玉洲<lb/>
+　　瑶島神明昭日月指揮水伯天吳霞漳㑹館<lb/>
+　天后宫額曰祥飈慈應聨曰靈昭千里風濤看航通<lb/>
+　　絶域惠普萬帆雲影騐雅舞神霄邵武㑹館<lb/>
+<pb n="KR2m0039_WYG_121-3b"/>
+　天后宫額曰靈佑恬波聨曰廣著神庥錦浪平時開<lb/>
+　　素練長昭福佑彩雲飛處展靈旗<lb/>
+駐蹕江寧<lb/>
+書賜永濟寺額曰永濟宏覺寺殿額曰萬法皆如幽棲<lb/>
+　　寺額曰無去來處<lb/>
+　　乾隆二十七年壬午<lb/>
+駐蹕揚州<lb/>
+書賜救生寺額曰寳筏地藏菴額曰善因<lb/>
+<pb n="KR2m0039_WYG_121-4a"/>
+駐蹕金山寺<lb/>
+書題行館畫曰海闊天空<lb/>
+駐蹕焦山寺<lb/>
+書賜海潮菴額曰㑹音<lb/>
+駐蹕常州<lb/>
+書賜天寧寺殿額曰龍城象教聨曰合相澄三摩光融<lb/>
+　　西竺衆香超萬有界現南藍<lb/>
+駐蹕蘇州<lb/>
+<pb n="KR2m0039_WYG_121-4b"/>
+書賜圓妙觀額曰太初闡教聫曰圓筦叶三元仁宣槖<lb/>
+　　籥妙機含萬有夀溥垓埏報恩寺額曰吳雲香梵<lb/>
+　　聨曰茂苑霏春三果同叅開鹿苑祗林現瑞一峯<lb/>
+　　遥接證獅林<lb/>
+駐蹕杭州<lb/>
+書賜吳山文昌閣額曰斗匡司化<lb/>
+駐蹕安瀾園<lb/>
+書賜安國寺額曰法海安禪聨曰香水䕶須彌功徳常<lb/>
+<pb n="KR2m0039_WYG_121-5a"/>
+　　澄一鏡妙華現優鉢莊嚴合證三輪<lb/>
+駐蹕塘棲<lb/>
+書賜西塘萬夀山寺額曰本覺<lb/>
+駐蹕嘉興烟雨樓<lb/>
+書賜三塔寺額曰茶禪曰標示三乗聫曰湧塔同叅法<lb/>
+　　華品試茶分證趙州禪<lb/>
+　　乾隆三十年乙酉<lb/>
+駐蹕焦山寺<lb/>
+<pb n="KR2m0039_WYG_121-5b"/>
+書賜品泉亭額曰淙雲<lb/>
+駐蹕蘇州<lb/>
+書賜圓妙觀額曰梵籟清機<lb/>
+駐蹕杭州<lb/>
+書賜勝果寺額曰勝果曰阿閣禪枝聫曰半嶺妙鬘垂<lb/>
+　　翠微初上曲江毫相印渌净平鋪<lb/>
+　　乾隆四十五年庚子<lb/>
+駐蹕楊家莊<lb/>
+<pb n="KR2m0039_WYG_121-6a"/>
+書賜清江浦慈雲寺額曰慧照常圖<lb/>
+　斗姥宫額曰璇樞佑順<lb/>
+　　乾隆四十九年甲辰<lb/>
+駐蹕林家莊<lb/>
+書賜慈雲寺聫曰綠竹紅梅猶假色行雲流水是真詮<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0039_WYG_121-6b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+欽定南巡盛典卷八十八<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4d0569_SBCK_000-1a"/>
+　　　右九靈山房集凢三十卷吾曽叔祖提學公<lb/>
+　　　之所作叔祖司訓公吾先人純素䖏士之所<lb/>
+　　　編校者也其遺槀蔵于家乆矣昔先人扵宣<lb/>
+　　　徳中俾　洎二弟綎　師事暨陽姻友公夀<lb/>
+　　　倪先生而受業焉先人與先生平居交誼甚<lb/>
+　　　䔍因懼遺槀馴致散失乃出而示之相與議<lb/>
+　　　及鋟梓傳丗未㡬吾長兄統次兄紡不幸遽<lb/>
+　　　卒扵前先人繇是願莫之遂竟齎志以殁不<lb/>
+　　　肖孤　䓁追憶遺訓在耳耿耿不忘比扵去<lb/>
+　　　載冬獲㑹諸親舊謀勒先人墓誌銘昭示貞<lb/>
+　　　石而先生復申前議将成厥羙　䓁幸頼遺<lb/>
+　　　徳餘慶勉丗其業用敢謹扵正統甲子仲春<lb/>
+　　　倩摹工鋟梓今工旣訖嗚呼庶㡬始克少償<lb/>
+　　　先人夙志抑亦上纉前人之懿緒下詒後㣧<lb/>
+<pb n="KR4d0569_SBCK_000-1b"/>
+　　　之徽謨云集外有和陶集一卷刋版翰林行<lb/>
+　　　丗惟春秋經傳考三十二卷其同門友宋太<lb/>
+　　　史景濂公詳為之序惜未暇刋耳正統十年<lb/>
+　　　歲次乙丑夏六月望前一日從曽孫統拜手<lb/>
+　　　謹識<lb/>
+<pb n="KR4d0569_SBCK_000-2a"/>
+九靈山房集序<lb/>
+士未嘗欲以文名世也以文名丗者士<lb/>
+之不幸也有可用之村當可爲之時大<lb/>
+之推徳澤扵天下小之亦足以恵一邑<lb/>
+施一州盡其心力扵軄業之中固不睱<lb/>
+爲文然其名亦不待文而後傳也至扵<lb/>
+畸窮不偶略無所見扵世頗自意世之<lb/>
+人既不我知則奮其志慮扵文字之間<lb/>
+<pb n="KR4d0569_SBCK_000-2b"/>
+上以私託扵古之賢人下以待来世之<lb/>
+君子烏乎是豈其得巳㢤此余扵浦陽<lb/>
+戴先生而有感者也先生異時在承平<lb/>
+之世從鄊郡大儒待制栁公貫侍<graphic n="KR0688" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0688.png" mimeType="image/png"/>黄<lb/>
+公溍逰俊偉秀彂軒然時軰中已有文<lb/>
+名然志在用丗未暇切切扵此也及事<lb/>
+與志乖所如多不合知其無所就功名<lb/>
+遂抑情遁迹盤桓乎山顛海澨訪羽人<lb/>
+<pb n="KR4d0569_SBCK_000-3a"/>
+釋子而與之居益肆力扵文凢觸心抵<lb/>
+目天地日月寒暑山川草木竒異之觀<lb/>
+覊人狷士之遺跡隐行皆紀而載之因<lb/>
+以寓其無聊不暢之思彂其瑰傑磊落<lb/>
+之氣清深雅潔徃徃無媿扵古之能言<lb/>
+者雖其用意精絶而先生之窮不幸亦<lb/>
+至矣然丗之得所願欲食祿㩀位者何<lb/>
+限求其勲業則未之有聞問其同時之<lb/>
+<pb n="KR4d0569_SBCK_000-3b"/>
+人已不識其姓名者有矣彼雖幸未必<lb/>
+非不幸而先生之窮庸知非幸㢤先生<lb/>
+之子禮輯録成帙辱以相示余非能知<lb/>
+先生者然亦有志扵斯事故附私說于<lb/>
+後使觀先生之文幸者可以自省而不<lb/>
+幸者足以有彂也前太子正字奉議大夫<lb/>
+晋府左長史四明桂彦良叙<lb/>
+<pb n="KR4d0569_SBCK_000-4a"/>
+<pb n="KR4d0569_SBCK_000-5a"/>
+<pb n="KR4d0569_SBCK_000-6a"/>
+<pb n="KR4d0569_SBCK_000-7a"/>
+<pb n="KR4d0569_SBCK_000-8a"/>
+<pb n="KR4d0569_SBCK_000-9a"/>
+九靈山房集目録卷之二十四<lb/>
+　　越㳺槀<lb/>
+　　　辤<lb/>
+　　　　和陶淵明歸去来兮辭<lb/>
+　　　五言古詩<lb/>
+　　　　和陶淵明雜詩十一首<lb/>
+　　　　和陶淵明擬古九首<lb/>
+　　　　和陶淵明飲酒二十首<lb/>
+　　　　和陶淵明移居二首<lb/>
+　　　　和陶淵明歲暮荅張常侍一首<lb/>
+　　　　和陶淵明連雨獨飲一首<lb/>
+　　　　和陶淵明詠貧士七首<lb/>
+　　　　　題巽上人㳺息軒　次韻荅張静虚<lb/>
+　　　　觀雨憶竹梅翁<lb/>
+<pb n="KR4d0569_SBCK_000-9b"/>
+九靈山房集目録卷之二十五<lb/>
+　　越㳺槀<lb/>
+　　　　七言律詩<lb/>
+　　　　　秋日言懐　七夕有感<lb/>
+　　　　　九日感傷　寄鶴年<lb/>
+　　　　　寄天淵老禅　<graphic n="KR0585" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0585.png" mimeType="image/png"/>梅為秩天叙賦<lb/>
+　　　　　憶淬用剛　寄郁文海<lb/>
+　　　　　遟九思不至　寄駱以大<lb/>
+　　　　　寄紀宗正　寄胡仲孚<lb/>
+　　　　　寄宋廷臣　寄方盛齋<lb/>
+　　　　　寄錢仲仁　寄方梧竹<lb/>
+　　　　　寄胡宗器　寄羅彦直<lb/>
+　　　　　寄孫伯敬兄弟　寄掲平仲<lb/>
+　　　　　承君衡叔榦逺送賦北<lb/>
+<pb n="KR4d0569_SBCK_000-10a"/>
+　　　　　聞平仲有還鄉之志感念之餘為賦四韻<lb/>
+　　　　　寄胡舜<graphic n="KR0982" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0982.png" mimeType="image/png"/>　寄黄炳文<lb/>
+　　　　　寄張天民　寄茅元禮<lb/>
+　　　　　寄俞伯㷱兼柬李仲彬<lb/>
+　　　　　寄鄭彦博　秦湖居隐<lb/>
+　　　　　懐宋庸菴　懐滑櫻寕<lb/>
+　　　　　静虗翁以所和貟士詩見寄賦此以謝<lb/>
+　　　　　懐宋思賢　懐項彦章<lb/>
+　　　　　王國臣以龔翠崖先生所畫梨樹幽禽圖<lb/>
+　　　　　見贈賦此<lb/>
+　　　　　宗道師曽許尋鄭元秉春草圖見寄詩以<lb/>
+　　　　　促之<lb/>
+　　　　　近造嚴宗道蒼雲軒見庸庵舊題借韻嗣<lb/>
+　　　　　賦<lb/>
+<pb n="KR4d0569_SBCK_000-10b"/>
+　　　　　承景徳輝王漢章逺訪别後却寄<lb/>
+　　　　　葉孔昭爲尊公刋海隄集喜而有賦<lb/>
+　　　　　哭趙太初　哭張宜仲<lb/>
+　　　　　承李仲彬逺頋賦此贈别<lb/>
+　　　　　懐陳中復<lb/>
+　　　　　蔣彦章来訪别後懐之<lb/>
+　　　　　示唐生林　㳺髙莭書院<lb/>
+　　　　　訪楊季常　詠懷古迹<lb/>
+　　　　　哭陳夷白二首　喜謝宻庵至二首<lb/>
+　　　　　伏聞楊宋二公及應平仲出㳺且言囬舟<lb/>
+　　　　　見頋<lb/>
+　　　　　聞耕隐庸菴諸公㳺山累日用深歎羡<lb/>
+　　　　　九思彂背弥月心甚念之忽得安字喜而<lb/>
+　　　　　賦此<lb/>
+<pb n="KR4d0569_SBCK_000-11a"/>
+　　　　五言長律<lb/>
+　　　　　秦湖漁隐<lb/>
+九靈山房集目録卷之二十六<lb/>
+　　越㳺槀<lb/>
+　　　辨<lb/>
+　　　　　夏正辨<lb/>
+　　　觧<lb/>
+　　　　　萍居觧<lb/>
+　　　賛<lb/>
+　　　　蒼雲圖賛　生意垣賛<lb/>
+　　　　　黄元輔像賛　竹梅翁像賛<lb/>
+　　　　　趙摴菴像賛　郁文海像賛<lb/>
+　　　　　源道淵像賛<lb/>
+　　　銘<lb/>
+<pb n="KR4d0569_SBCK_000-11b"/>
+　　　　惟徴齋銘　仁齋銘<lb/>
+　　　　泉聲齋銘　清瀧硯銘<lb/>
+　　　葴<lb/>
+　　　　存省齋箴　樗菴葴<lb/>
+　　　說<lb/>
+　　　　李氏子字說<lb/>
+九靈山房集目録卷之二十七<lb/>
+　　越㳺槀<lb/>
+　　　傳<lb/>
+　　　　　石孝子傳　張婦傳<lb/>
+　　　　　汪莭婦傳　竹梅翁傳<lb/>
+　　　　滄洲翁傳　袁廷玉傳<lb/>
+九靈山房集目録卷之二十八<lb/>
+　　越㳺槀<lb/>
+<pb n="KR4d0569_SBCK_000-12a"/>
+　　　記<lb/>
+　　　　全有堂記　怡顔堂記<lb/>
+　　　　　谷口荘記　安貞堂記<lb/>
+　　　　重建東皋福昌寺記<lb/>
+　　　　　王氏思愛菴記<lb/>
+　　　　　大慈寺新建上蒙記<lb/>
+　　　　歸菴記　檀特精菴記<lb/>
+　　　　　四華世界記<lb/>
+九靈山房集目録卷之二十九<lb/>
+　　越㳺槀<lb/>
+　　　序<lb/>
+　　　　皇元風雅序　餘姚海隄集序<lb/>
+　　　　宻菴文集序　大梅常禅師語録序<lb/>
+　　　題䟦<lb/>
+<pb n="KR4d0569_SBCK_000-12b"/>
+　　　　䟦㝎武帖　䟦康里公臨懐素帖<lb/>
+　　　　龍山古跡記後題<lb/>
+　　　　䟦藪上人所書蓮經後<lb/>
+　　　　䟦袁文清公詩後　䟦東坡手帖後<lb/>
+　　　　題倪氏子瓊花燈詩後<lb/>
+　　　墓誌銘<lb/>
+　　　　蔡莭婦夏氏墓誌銘<lb/>
+　　　　止堂項府君墓誌銘<lb/>
+　　　　唐母姜氏墓誌銘　汪彦貞墓表<lb/>
+　　　　趙君夫人戴氏墓誌銘<lb/>
+　　　祭文<lb/>
+　　　　祭亡妻趙氏夫人文<lb/>
+九靈山房外集目録卷之三十終<lb/>
+　　　賛<lb/>
+<pb n="KR4d0569_SBCK_000-13a"/>
+　　　　　九靈山人戴先生像賛<lb/>
+　　　　序<lb/>
+　　　　　雲林先生詩序<lb/>
+<pb n="KR4d0569_SBCK_000-13b"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>默記</head>
+    <p>
+<pb n="KR3l0061_WYG_000-1a"/>
+欽定四庫全書　　　　子部十二<lb/>
+　默記　　　　　　　　　小說家𩔖一<hi>雜事之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案默記三卷宋王銍撰銍字性之汝<lb/>
+　　　　隂人自稱汝隂老民紹興初以廷臣奏薦詔<lb/>
+　　　　視秩史官給札奏御為樞密院編修官所著<lb/>
+　　　　有雪溪集已别著録集部中此編多載汴都<lb/>
+　　　　朝野雜事末一條乃考正陳思王感甄賦事<lb/>
+<pb n="KR3l0061_WYG_000-1b"/>
+　　　　所記頗有依據可信者多惟王朴引周世宗<lb/>
+　　　　見火輪小兒及宋太祖以周世宗子賜潘羙<lb/>
+　　　　二事似出附㑹又所紀江南野史李後主小<lb/>
+　　　　周后事參校龍衮書無此文然銍所著述以<lb/>
+　　　　此書為最純故李燾續通鑑長編亦多節取<lb/>
+　　　　其説固未可因雲仙𣗳萱諸録出銍僞託而<lb/>
+　　　　槩斥其為誣罔也乾隆四十二年五月恭校<lb/>
+　　　　上<lb/>
+<pb n="KR3l0061_WYG_000-2a"/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

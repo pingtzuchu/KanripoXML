@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>給事集目録</head>
+    <p>
+<pb n="KR4d0127_WYG_000-1a"/>
+欽定四庫全書　　　　集部三<lb/>
+　給事集目録　　　　　　别集類二<hi>宋</hi>
+　　巻一<lb/>
+　　　詩<lb/>
+　　　彈事<lb/>
+　　　奏議<lb/>
+　　　劄子<lb/>
+　　巻二<lb/>
+<pb n="KR4d0127_WYG_000-1b"/>
+　　　外制<lb/>
+　　巻三<lb/>
+　　　表<lb/>
+　　　啟<lb/>
+　　巻四<lb/>
+　　　策問<lb/>
+　　　記<lb/>
+　　　墓銘<lb/>
+<pb n="KR4d0127_WYG_000-2a"/>
+　　　頌<lb/>
+　　　銘<lb/>
+　　　偈<lb/>
+　　　祝文<lb/>
+　　　祭文<lb/>
+　　巻五<lb/>
+　　　經義<lb/>
+　　　附録<lb/>
+<pb n="KR4d0127_WYG_000-2b"/>
+　　　<hi>臣</hi>等謹按給事集五巻宋劉安上撰安上字<lb/>
+　　　元禮永嘉人紹聖四年進士丙科由錢塘尉<lb/>
+　　　歴擢殿中侍御史疏劾蔡京不報乃與石公<lb/>
+　　　弼等廷論之以劾京之故浮沈外郡者十六<lb/>
+　　　年晚以知舒州乞祠得提舉鴻慶宫靖康元<lb/>
+　　　年致仕建炎二年卒於家其平生風節甚著<lb/>
+　　　葢亦伉直之士據薛嘉言作安上行狀稱其<lb/>
+　　　有詩五百首制誥襍文三十巻篇帙頗富然<lb/>
+<pb n="KR4d0127_WYG_000-3a"/>
+　　　　焦竑國史經籍志載劉安上集實止五巻與<lb/>
+　　　　此本相合葢兵燬之餘後人掇拾而成非其<lb/>
+　　　　原本矣至宋史藝文志載安上文集作四巻<lb/>
+　　　　又與此互異則當由刋本訛五為四耳其集<lb/>
+　　　　自明以來流傳甚尠朱彛尊自潁州劉體仁<lb/>
+　　　　家借抄僅得其半後得福建林佶抄本始足<lb/>
+　　　　成之其詩醖釀未深而格意在中晚唐間頗<lb/>
+　　　　見風致文筆亦修潔自好無粗獷拉襍之習<lb/>
+<pb n="KR4d0127_WYG_000-3b"/>
+　　　　葢不惟其人足重即文章亦殊可觀也乾隆<lb/>
+　　　　四十一年十二月恭校上<lb/>
+　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

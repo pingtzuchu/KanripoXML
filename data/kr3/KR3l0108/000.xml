@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>桂苑叢談</head>
+    <p>
+<pb n="KR3l0108_WYG_000-1a"/>
+欽定四庫全書　　　　　子部十二<lb/>
+　桂苑叢談　　　　　　　小説家𩔖二<hi>異聞之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案桂苑叢談一卷考新唐書藝文志<lb/>
+　　　　載桂苑叢談註曰馮翊子子休撰不著姓名<lb/>
+　　　　晁公武引李淑邯鄲書目云姓嚴疑馮翊子<lb/>
+　　　　其號而子休其字也陳繼儒刻入祕笈乃題<lb/>
+　　　　為唐子休馮翊著顛倒其文誤之甚矣其書<lb/>
+<pb n="KR3l0108_WYG_000-1b"/>
+　　　　前十條皆載咸通以後鬼神怪異及瑣細之<lb/>
+　　　　事後為史遺十八條其十二條亦紀唐代雜<lb/>
+　　　　事餘六條則兼及南北朝然如髙浟捕賊髙<lb/>
+　　　　延宗縱恣崔宏度酷虐諸事齊隋本史皆已<lb/>
+　　　　載之又似摘鈔卷中未及刋削者疑已經後<lb/>
+　　　　人竄亂非原書也其甘露亭一條稱吴王收<lb/>
+　　　　復浙右之嵗者當為昭宗天復二年時始封<lb/>
+　　　　楊行密為吴王故子休以此稱之然則作是<lb/>
+<pb n="KR3l0108_WYG_000-2a"/>
+　　　　書者其江南人歟乾隆四十六年正月恭校<lb/>
+　　　　上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

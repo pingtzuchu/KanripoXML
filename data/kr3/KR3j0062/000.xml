@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>正楊</head>
+    <p>
+<pb n="KR3j0062_WYG_000-1a"/>
+欽定四庫全書　　　　子部十<lb/>
+　正楊　　　　　　　　　雜家類三<hi>雜考之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案正楊四巻明陳耀文撰耀文有經<lb/>
+　　　　典稽疑己著録是書凡一百五十條皆糾楊<lb/>
+　　　　慎之訛成于隆慶己巳前有李蓘序及耀文<lb/>
+　　　　自序慎於正徳嘉靖之間以博學稱而所作<lb/>
+　　　　丹鉛録諸書不免瑕瑜並見真偽互陳又晚<lb/>
+<pb n="KR3j0062_WYG_000-1b"/>
+　　　　謫永昌無書可檢惟憑記憶未免多疎耀文<lb/>
+　　　　考正其非不使轉滋疑誤於學者不為無功<lb/>
+　　　　然釁起争名語多攻訐醜詞惡謔無所不加<lb/>
+　　　　雖古人挾怨搆爭如吳縝之糾新唐書者亦<lb/>
+　　　　不至是殊乖著作之體又書成之後王世貞<lb/>
+　　　　頗有違言耀文復増益其書反唇辯難語同<lb/>
+　　　　詬詈憤若冦讐觀是書者取其博贍亦不可<lb/>
+　　　　不戒其浮囂也朱國楨湧幢小品曰有丹鉛<lb/>
+<pb n="KR3j0062_WYG_000-2a"/>
+　　　　録諸書便有正楊又有正正楊古人古事古<lb/>
+　　　　字此書如彼彼書如此散見雜出各不相同<lb/>
+　　　　見其一不見其二閧然糾駁不免為前人所<lb/>
+　　　　笑是亦善於解紛之說然博辯者固戒游詞<lb/>
+　　　　精核者終歸定論國楨之病是書竟欲舉考<lb/>
+　　　　証而廢之則又矯枉過直矣乾隆四十九年<lb/>
+　　　　八月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+<pb n="KR3j0062_WYG_000-2b"/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="KR3j0062_WYG_000-3a"/>
+正楊原序<lb/>
+余觀升菴氏書而深嘆立言之難也夫世之稱升菴者<lb/>
+不曰正平一覽則云管綜百氏即其自視也固已前無<lb/>
+古人後無來者今兹所見才數種耳迺譌盭自相違伐<lb/>
+若此豈率爾師心在大方之家爾邪抑葠菁並蓄傳載<lb/>
+者無藎臣耶故知舛駁無事於五車麟角取裁於四百<lb/>
+矣余明興傳疑者衆間為是正數條持布皷以過雷門<lb/>
+不覺失笑葉生梨之更為博笑也夫隆慶己巳孟冬望<lb/>
+<pb n="KR3j0062_WYG_000-3b"/>
+天中筆山山人陳耀文書於敦悦堂<lb/>
+近世推博辨多蓄曰成都楊用修用修著丹鉛餘録等<lb/>
+書至數十百種搜竒抉譎擷采鈎隠皆世所驟聞而學<lb/>
+士大夫所望而駭歎者以是聲譽籍甚從同無異詞顧<lb/>
+余峕峕闚其謬盭或事非幽邈而揜為祕藏或異本殊<lb/>
+途而牽為同致以是不了其故豈大觀者定小有遺耶<lb/>
+抑簡冊浩窅獨智難周耶韓退之稱張巡抽架上書皆<lb/>
+成口誦初不見其讀書而張安世劉貢父之在當時雖<lb/>
+<pb n="KR3j0062_WYG_000-4a"/>
+以歐蘇之名猶不許以博古固知學之道難矣而用修<lb/>
+者所謂未見其止也乎今朗陵陳君晦伯間取其誤謬<lb/>
+分疏其下得一百五十條悉撮原本無假辨説開卷瞭<lb/>
+然固譚藝者之一快也孟子輿云不直則道不見吕伯<lb/>
+恭云待人欲恕論人欲盡君鋭情紬索多所校讐聊相<lb/>
+與直之盡之耳亦楚人亡弓之遺意也隆慶三年歲在<lb/>
+己巳夏四月廿五日順陽李蓘子田甫謹篹<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

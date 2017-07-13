@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_163-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選卷一百六十三<lb/>
+　　履舄類<lb/>
+　　　四言古<lb/>
+　　　　襪銘　　　　　　　　　　<hi>漢</hi>崔　駰<lb/>
+　機衡建子萬物含滋黄鐘育化以飬元基長履景福至<lb/>
+　於億年皇靈既祐祉祿来臻本支百世子子孫孫<lb/>
+　　　五言古<lb/>
+<pb n="KR4h0141_WYG_163-1b"/>
+　　　　詠履　　　　　　　　　　<hi>陳</hi>後　主<lb/>
+　賢舍觀穴踵𤓰田睹躡跡矩步今有儀用此前嘉客<lb/>
+　　　七言古<lb/>
+　　　　苴履　　　　　　　　　　<hi>金</hi>李俊民<lb/>
+　待詔門前東郭趾藍闗路上仙人迹雪花紛披盖地白<lb/>
+　東家不借借不得雖然近市屨亦無以故為新即有餘<lb/>
+　同行留我木上座補過仰渠金十奴一生能著屐㡬兩<lb/>
+　用心猶在阮孚上不須更覓下邳侯<hi>時守下邳</hi>山林此計成<lb/>
+<pb n="KR4h0141_WYG_163-2a"/>
+長往<lb/>
+　　五言排律<lb/>
+　　　賦得履　　　　　　　　　<hi>明</hi>髙　啟<lb/>
+穏稱遊方脚新編楚岸蒲滑欺峰頂石危怯世間途輕<lb/>
+曵愁妨蟻髙飛笑化鳬上堂聲每衆度嶺影還孤著䖏<lb/>
+朝行道抛時夜結趺空山欲相訪落葉去蹤無<lb/>
+　　七言律<lb/>
+　　　薛侍御䖏乞靴　　　　　　<hi>唐</hi>李羣玉<lb/>
+<pb n="KR4h0141_WYG_163-2b"/>
+越客南来誇桂麖良工用意巧縫成看時共説茱萸縐<lb/>
+著䖏嫌無鸜鵒鳴百里奚身嗟甚似五羊皮價敢全輕<lb/>
+日於文苑陪髙步贏得芳塵接武名<lb/>
+　　　謝人恵方舄　　　　　　　<hi>宋</hi>蘓　軾<lb/>
+烏鞾短靿格粗疎古雅無如此様殊妙手不勞盤作鳳<lb/>
+輕身只欲化為鳬魏風褊儉堪羞葛楚客豪華可笑珠<lb/>
+擬學梁家名觧脱便於禅坐作跏趺<lb/>
+　　　謝僧恵蒲履　　　　　　　<hi>元</hi>張　昱<lb/>
+<pb n="KR4h0141_WYG_163-3a"/>
+丈夫此日可徒行蒲履深煩逺寄情除是髙僧求易得<lb/>
+自非巧手織難成春来見客身差健老去㸔花步覺輕<lb/>
+他日袈裟如過我定須着此出門迎<lb/>
+　　　贈鞋生　　　　　　　　　<hi>明</hi>僧溥洽<lb/>
+父子相傳履製竒青絲細軟合時宜聲随鳴珮君王識<lb/>
+影落飛鳬太史知泥滓乍離歸隠計香雲纔振上昇期<lb/>
+年来敝屣無心棄却笑干將補較遲<lb/>
+　　五言絶句<lb/>
+<pb n="KR4h0141_WYG_163-3b"/>
+　　　寄劉道士舄　　　　　　　<hi>唐</hi>張　說<lb/>
+真人降紫炁邀我丹田宫逺寄雙鳬舄飛飛不礙空<lb/>
+　　　送丘貟外歸山居　　　　　<hi>唐</hi>韋應物<lb/>
+郡閣始嘉宴青山憶舊居為君量革履且願駐籃轝<lb/>
+　　七言絶句<lb/>
+　　　謝雲居山人草鞋　　　　　<hi>宋</hi>張　詠<lb/>
+雲居山客草為鞋路轉千峰此寄来昨日公餘偷步躡<lb/>
+萬端心緒憶天台<lb/>
+<pb n="KR4h0141_WYG_163-4a"/>
+　　　　山居雜詠　　　　　　　　<hi>明</hi>僧大香<lb/>
+　接葉隂隂喚水鳩花坪草堰偶經逰芒鞋曬向西巖石<lb/>
+　露冷煙凄不記收<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR4h0141_WYG_163-4b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選卷一百六十三<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

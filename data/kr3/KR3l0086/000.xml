@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>菽園雜記</head>
+    <p>
+<pb n="KR3l0086_WYG_000-1a"/>
+欽定四庫全書　　　　子部十二<lb/>
+　菽園雜記　　　　　　　小說家𩔖一<hi>雜事之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案菽園雜記十五卷明陸容撰容字<lb/>
+　　　　文量號式齋太倉州人成化丙戌進士官至<lb/>
+　　　　浙江右㕘政事迹具明史文苑傳史稱容與<lb/>
+　　　　張泰陸釴齊名時號婁東三鳯其詩才不及<lb/>
+　　　　泰釴而博學過之是編乃其劄録之文於明<lb/>
+<pb n="KR3l0086_WYG_000-1b"/>
+　　　　代朝野故實叙述頗詳多可與史相考證旁<lb/>
+　　　　及談諧雜事皆並列簡編葢自唐宋以來説<lb/>
+　　　　部之體如是也中間頗有考辨如元王栢作<lb/>
+　　　　二南相配圖棄甘棠何彼穠矣野有死麕三<lb/>
+　　　　篇於經義極為乖剌而容獨歎為卓識又文<lb/>
+　　　　廟别作寢殿祀啓聖公而配以四配之父其<lb/>
+　　　　議發于熊禾而容謂叔梁紇為主出於無謂<lb/>
+　　　　孟孫激非聖賢之徒不當從祀尤昧於崇功<lb/>
+<pb n="KR3l0086_WYG_000-2a"/>
+　　　　報本之義皆不足為據然核其大致可採者<lb/>
+　　　　較多王鏊嘗謂其門人曰本朝紀事之書當<lb/>
+　　　　以陸文量為第一即指此書也雖無雙之譽<lb/>
+　　　　奬借過深要其所以取之者必有在矣乾隆<lb/>
+　　　　四十六年十一月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3e0003_SBCK_000-1a"/>
+集註難經序<lb/>
+黃帝八十一難經者斯乃勃海秦越人之所作也越<lb/>
+人受桑君之秘術遂洞明醫道至能徹視藏府刳腹<lb/>
+剔心以其與軒轅時扁鵲相類乃號之爲扁鵲又家<lb/>
+於盧國因命之曰盧醫世或以盧扁爲二人者斯實<lb/>
+謬矣按黃帝有內經二帙帙各九卷而其義幽賾殆<lb/>
+難窮覽越人乃採摘英華抄撮精要二部經內凡八<lb/>
+十一章勒成卷軸伸演其首探㣲索隱傳示後昆名<lb/>
+爲八十一難以其理趣深遠非卒易了故也旣弘暢<lb/>
+聖言故首稱黃帝斯乃醫經之心髓救疾之樞機所<lb/>
+<pb n="KR3e0003_SBCK_000-1b"/>
+謂脫牙角於象犀収羽毛於翡翠者矣逮于吳太醫<lb/>
+令呂廣爲之注解亦會合玄宗足可垂訓而所釋未<lb/>
+半餘皆見闕余性好醫方問道無倦斯經章句特承<lb/>
+師授旣而躭研無斁十載于茲雖未達其本源葢亦<lb/>
+舉其綱目此敎所興多歷年代非唯文句舛錯抑亦<lb/>
+事緒參差後人傳覽良難領會今輒條貫編次使類<lb/>
+例相從凡爲一十三篇仍舊八十一首吕氏未解今<lb/>
+並註釋呂氏注不盡因亦伸之並别爲音義以彰厥<lb/>
+㫖昔皇甫玄晏總三部爲甲乙之科近世華陽陶貞<lb/>
+白廣肘後爲百一之製皆所以留情極慮濟育羣生<lb/>
+<pb n="KR3e0003_SBCK_000-2a"/>
+者矣余今所演葢亦遠慕高仁邇遵盛德但恨庸識<lb/>
+有量聖旨無涯綆促汲深玄致難盡前歙州歙縣尉<lb/>
+楊玄操序<lb/>
+<pb n="KR3e0003_SBCK_000-2b"/>
+<pb n="KR3e0003_SBCK_000-3a"/>
+集註難經目錄<lb/>
+第一　經脉診候<hi>凡二十四首</hi>
+第二　經絡大數<hi>凡二首</hi>
+第三　竒經八脉<hi>凡三首</hi>
+第四　滎衞三焦<hi>凡二首</hi>
+第五　藏府配像<hi>凡六首</hi>
+第六　藏府度數<hi>凡十首</hi>
+第七　虛實邪正<hi>凡五首</hi>
+第八　藏府傳病<hi>凡二首</hi>
+第九　藏府積聚<hi>凡二首</hi>
+<pb n="KR3e0003_SBCK_000-3b"/>
+第十　五泄傷寒<hi>凡四首</hi>
+第十一　神聖工巧<hi>凡一首</hi>
+第十二　藏府井兪<hi>凡七首</hi>
+第十三　用鍼補㵼<hi>凡十三首</hi>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

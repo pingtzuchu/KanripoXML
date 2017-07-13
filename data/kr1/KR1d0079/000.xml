@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>三禮圖</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　經部四<lb/>
+　三禮圖　　　　　　　禮類四<hi>三禮縂義之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹按三禮圖四巻明劉績撰績字用熙號蘆<lb/>
+　　　　泉江夏人宏治庚戌進士官至鎮江府知府是書<lb/>
+　　　　所圖一本陸佃禮象陳祥道禮書林希亦考工<lb/>
+　　　　記解諸書而取諸博古圖者為尤多與舊圖<lb/>
+　　　　大異考漢時去古未逺車服禮器猶有存者<lb/>
+<pb n="1b"/>
+　　　　鄭康成圖雖非手撰要為傳鄭學者所為阮<lb/>
+　　　　諶夏侯伏朗張鎰梁正亦皆五代前人其時<lb/>
+　　　　儒風淳實尚不以鑿空臆斷相髙聶崇義叅<lb/>
+　　　　考六本定為一家之學雖踵謬沿訛在所不<lb/>
+　　　　免而遞相祖述終有典型至宣和博古圖所<lb/>
+　　　　載大半揣摩近似强命以名其間疎漏多端<lb/>
+　　　　洪邁諸人已屢攻其失績以漢儒為妄作而<lb/>
+　　　　依據是圖殊為顛倒然所採陸陳諸家之說<lb/>
+<pb n="2a"/>
+　　　　如齊子尾送女器出於魏太和中犧尊純為<lb/>
+　　　　牛形王肅據以証鳯羽婆娑之誤齊景公器<lb/>
+　　　　出晉永康中象尊純為象形劉杳據以証象<lb/>
+　　　　骨飾尊之非蒲璧刻文如蒲荏敷時穀璧如<lb/>
+　　　　粟粒其器出於宋時沈括據以正蒲形禾形<lb/>
+　　　　之謬此書並採用其說亦足以備一解至於<lb/>
+　　　　宫室制度輿輪名物凡房序堂夾之位輢較<lb/>
+　　　　賢藪之分亦皆一一分析不惟補崇義之闕<lb/>
+<pb n="2b"/>
+　　　　且以拾希逸之遺其他珽荼曲植之屬増舊<lb/>
+　　　　圖所未備者又七十餘事過而存之未始非<lb/>
+　　　　兼収並蓄之義也乾隆四十六年十月恭校<lb/>
+　　　　上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官　<hi>臣</hi>　陸費墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

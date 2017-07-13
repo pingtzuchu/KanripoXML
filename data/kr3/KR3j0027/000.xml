@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>刋誤</head>
+    <p>
+<pb n="KR3j0027_WYG_000-1a"/>
+欽定四庫全書　　　　　子部十<lb/>
+　刋誤　　　　　　　　　雜家類二<hi>雜考之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案刋誤二卷唐李涪撰舊本前有結<lb/>
+　　　　銜稱國子祭酒郭忠恕佩觿引此書亦稱李<lb/>
+　　　　祭酒涪五代去唐末未逺當得其真惟陸游<lb/>
+　　　　渭南集有是書跋曰王行瑜作亂宗正卿李<lb/>
+　　　　涪盛陳其忠必悔過及行瑜𫝊首京師涪亦<lb/>
+<pb n="KR3j0027_WYG_000-1b"/>
+　　　　放死嶺南疑即此人未詳孰是也前有自序<lb/>
+　　　　稱撰成五十篇此本惟四十九篇葢佚其一<lb/>
+　　　　其書皆考究典故引舊制以正唐末之失又<lb/>
+　　　　引古制以糾唐制之誤多可以訂正禮文下<lb/>
+　　　　卷間及雜事如論僅甥旁繆廏薦六字之訛<lb/>
+　　　　辨陸法言切韻之誤解論語不問馬之不本<lb/>
+　　　　非否音校左𫝊繕完葺牆之完為宇字以及<lb/>
+　　　　駁李商隠孔子師老耼老耼師竺乾之妄正<lb/>
+<pb n="KR3j0027_WYG_000-2a"/>
+　　　　賈耽七曜厯之繆亦頗資博識唐末之人爭<lb/>
+　　　　為佻巧而涪獨考證舊聞亦可謂學有根柢<lb/>
+　　　　者矣乾隆四十六年十一月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

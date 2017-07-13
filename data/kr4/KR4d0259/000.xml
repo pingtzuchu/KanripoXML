@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>提要<lb/>
+                </head>
+    <p>
+<pb n="KR4d0259_WYG_000-1a"/>
+欽定四庫全書　　　　　集部四<lb/>
+　提要<lb/>
+　　九華集二十五巻　　　别集類三<hi>宋</hi>
+　　　<hi>臣</hi>等謹案九華集二十五巻附録一巻宋員興<lb/>
+　　　　宗撰興宗有采石戰勝録已著録其集見于<lb/>
+　　　　焦竑國史經籍志者本五十巻乃寳慶三年<lb/>
+　　　　其孫榮祖所編興宗弟夢協井研李心傳俱<lb/>
+　　　　為之序明以來久佚不存今檢勘永樂大典<lb/>
+<pb n="KR4d0259_WYG_000-1b"/>
+　　　　所録摭拾詮次釐為詩六巻雜文十五巻又<lb/>
+　　　　論語解老子解畧西陲茟畧併紹興采石大<lb/>
+　　　　戰始末各一巻而原集所載同時祭文可以<lb/>
+　　　　互證興宗始末者則别為一巻附之于後集<lb/>
+　　　　中多與張栻陸九淵往復書簡葢亦講學之<lb/>
+　　　　家然所上奏議大扺毅然抗論指陳時弊多<lb/>
+　　　　引繩批根之言李心傳序謂歸附既留而垂<lb/>
+　　　　遣<graphic n="KR0591" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0591.png" mimeType="image/png"/>御因逐而旋召均輸久廢而驟復此三<lb/>
+<pb n="KR4d0259_WYG_000-2a"/>
+　　　　事皆朝廷所必行而興宗矢茟盡言斥逐不<lb/>
+　　　　悔則其經濟氣莭均有實事非徒侈空談者<lb/>
+　　　　矣又洪括撰隸釋時嘗咨以漢碑數事興宗<lb/>
+　　　　為之考核源委具見精博今答書一通具在<lb/>
+　　　　集中學問淹雅亦未易及雖其文力追韓栁<lb/>
+　　　　不無錘鍊過甚之弊然骨力峭勁要無南渡<lb/>
+　　　　以後冗長蕪蔓之習挺然一作者也乾隆四<lb/>
+　　　　十六年九月恭校上<lb/>
+<pb n="KR4d0259_WYG_000-2b"/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+<pb n="KR4d0259_WYG_000-3a"/>
+原序<lb/>
+三嵎介東西蜀之間雄秀而峻極士生其中大抵莊靖<lb/>
+篤實而文亦如之自入國朝以勛勞名節著見者代有<lb/>
+其人至於居言語風議之官而正色不回有殞無貳使<lb/>
+人望其風稜如與三嵎並立者則余於陳員二公為有<lb/>
+感也蓋司諫陳公純益以正論救時於封國之始而太<lb/>
+史員公顯道以忠言輔上於乾道之際流風餘韻士皆<lb/>
+宗之然陳公之文今不盡見獨封章之載書右録者僅<lb/>
+<pb n="KR4d0259_WYG_000-3b"/>
+存一二推此志也雖與日月争光可也若員公之文則<lb/>
+傳者衆矣髙古簡嚴惟陳言之務去極其所就必欲至<lb/>
+杜韓而後止李栁而降非所願也然余之所以重公者<lb/>
+豈獨文而已哉當公在館學時國有大議凡掌諫諍司<lb/>
+出納與夫執簡立柱者所不敢言而公獨言之歸附既<lb/>
+留而垂遣<graphic n="KR0591" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0591.png" mimeType="image/png"/>御因逐而旋召均輸久廢而驟復此三者<lb/>
+皆上意所深嚮朝廷所必行而公上不負明主下不阿<lb/>
+所好矢筆盡言嚢封亟上雖斥逐致死而不悔也余嘗<lb/>
+<pb n="KR4d0259_WYG_000-4a"/>
+奉詔増輯中興以来放失舊聞因得公諫草而讀之為<lb/>
+之三復流涕不能已也然則余之所有感於公者豈獨<lb/>
+文乎哉公沒垂六十年而心傳猥以非才誤膺招聘朅<lb/>
+來成府訪别父兄過公舊廬低回而不忍去公之孫榮<lb/>
+祖出公遺稿示余求為之序余於公既所深慕而先大<lb/>
+夫荷公之知又為有素因而不復辭特著其大節如此<lb/>
+使後之生三嵎者全其所鍾雄秀峻極之氣莊靖篤實<lb/>
+必如前人而後於斯文為無負尚公之志也始公未仕<lb/>
+<pb n="KR4d0259_WYG_000-4b"/>
+時屏居郡之九華山自號九華子後人因以名其文然<lb/>
+傳於世者視今書纔十七蓋猶有所避就既歴五紀而<lb/>
+後全書出焉公名興宗官著作郎兼國史編修官實録<lb/>
+院檢討官當修阜陵書時史無専官類以百司所報為<lb/>
+准故公之言與事畧不少見今方舉而重修之㑹有知<lb/>
+史法者表出之云寳慶三年嵗次丁亥夏四月哉生覇<lb/>
+越五日丙辰僰道李心傳序<lb/>
+先兄著作未第時著書州之九華山人莫見其靣晚策<lb/>
+<pb n="KR4d0259_WYG_000-5a"/>
+名奉詔入館慷慨立朝屢以論事辱上眷知視生平所<lb/>
+學不愧不幸已矣獨遺稿存耳敬出之與有志古文者<lb/>
+共觀焉弟左廸功郎成都府華陽縣尉典寅夢協書<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

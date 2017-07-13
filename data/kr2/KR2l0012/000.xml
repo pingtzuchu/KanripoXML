@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>土官底簿</head>
+    <p>
+<pb n="KR2l0012_WYG_000-1a"/>
+欽定四庫全書　　　　　史部十二<lb/>
+　土官底簿　　　　　　　職官類一<hi>官制之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案土官底簿二卷原本不題撰人姓<lb/>
+　　　　名朱彛尊跋但云抄之海鹽鄭氏亦不言作<lb/>
+　　　　者為何人凡明正德以前雲貴諸省土司爵<lb/>
+　　　　氏因襲皆載焉觀其命名與繕寫之式疑當<lb/>
+　　　　時案牘之文而好事者録存之也所載雲南<lb/>
+<pb n="KR2l0012_WYG_000-1b"/>
+　　　　百五十一家廣西百六十七家四川二十四<lb/>
+　　　　家貴州一十五家湖廣五家廣東一家共三<lb/>
+　　　　百六十三家其官雖世及而請襲之時必以<lb/>
+　　　　並無世襲之文上請所奉進止亦必以姑准<lb/>
+　　　　任事仍不世襲為詞欲以是示駕馭之權葢<lb/>
+　　　　其相沿體式如此明自中葉而後撫綏失宜<lb/>
+　　　　威柄日弛諸土司叛服不常僅能羈縻勿絶<lb/>
+　　　　我<lb/>
+<pb n="KR2l0012_WYG_000-2a"/>
+　　　國家聲靈赫濯蠻服向風逆命者必誅奉職者<lb/>
+　　　　䝉賞舊籍所載大半皆已改土歸流其存者<lb/>
+　　　　亦無不革心順化比於郡縣書中所列乃前<lb/>
+　　　　代一時茍且之制本不足道然明史土司列<lb/>
+　　　　傳祗記其征伐刑政之大端而於支派本末<lb/>
+　　　　未能具晰是編詞雖俚淺而建置源委一一<lb/>
+　　　　可徵存之亦有足資考証者焉乾隆四十二<lb/>
+　　　　年三月恭校上<lb/>
+<pb n="KR2l0012_WYG_000-2b"/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3h0062_WYG_029-1a"/>
+欽定四庫全書<lb/>
+秘殿珠林卷十三目録<lb/>
+　　貯<lb/>
+　乾清宫<lb/>
+　　　無名氏畫<lb/>
+　　釋氏圖軸上等<lb/>
+　　　唐人畫文殊像一軸<lb/>
+　　　唐人畫釋伽佛像一軸<lb/>
+<pb n="KR3h0062_WYG_029-1b"/>
+　　　唐人畫普賢像一軸<lb/>
+　　　唐人畫釋伽出山佛像一軸<lb/>
+　　　唐人畫羅漢像一軸<lb/>
+　　　唐人畫羅漢像一軸<lb/>
+　　　唐人畫羅漢像一軸<lb/>
+　　　唐人畫羅漢像一軸<lb/>
+　　　唐人畫逹摩像一軸<lb/>
+　　　宋人畫釋伽佛像一軸<lb/>
+<pb n="KR3h0062_WYG_029-2a"/>
+　　　宋人畫大士變相一軸<lb/>
+　　　宋人畫古大士像一軸<lb/>
+　　　宋院本畫大士像一軸<lb/>
+　　　宋人畫如意大士像一軸<lb/>
+　　　宋人畫文殊像一軸<lb/>
+　　　宋人畫文殊像一軸<lb/>
+　　　宋人畫文殊宴坐圖一軸<lb/>
+　　　宋人畫文殊像一軸<lb/>
+<pb n="KR3h0062_WYG_029-2b"/>
+　　　宋人畫文殊像一軸<lb/>
+　　　宋人畫文殊像一軸<lb/>
+　　　宋人畫維摩説法圖一軸<lb/>
+　　　宋人畫夀相尊者圖一軸<lb/>
+　　　宋人畫龍女受經圖一軸<lb/>
+　　　宋人畫蓮社圖一軸<lb/>
+　　　宋人畫羅漢像一軸<lb/>
+　　　宋人畫羅漢像一軸<lb/>
+<pb n="KR3h0062_WYG_029-3a"/>
+　　　宋人畫羅漢像一軸<lb/>
+　　　宋人畫羅漢像一軸<lb/>
+　　　宋人畫天王像一軸<lb/>
+　　　元人畫寒山拾得圖一軸<lb/>
+　　　元人畫大士像一軸<lb/>
+　　　元人畫文殊像一軸<lb/>
+　　　元人畫白睂羅漢像<lb/>
+　　　元人畫逹摩像一軸<lb/>
+<pb n="KR3h0062_WYG_029-3b"/>
+　　　元人畫羅漢像一軸<lb/>
+　　　元人畫羅漢像一軸<lb/>
+　　　元人畫羅漢像一軸<lb/>
+　　　元人畫羅漢像一軸<lb/>
+　　　元人畫龍王叅禪圖一軸<lb/>
+　　　元人畫摩耶正果圖一軸<lb/>
+　　　明人畫普陀山大士像一軸<lb/>
+　　　明人畫蓮<lb/>
+<pb n="KR3h0062_WYG_029-4a"/>
+　　　明人畫赤脚尊者圖一軸<lb/>
+　　　無名氏畫<lb/>
+　　釋氏圖軸次等<lb/>
+　　　唐人畫羅漢像一軸<lb/>
+　　　宋人畫羅漢像一軸<lb/>
+　　　宋人畫羅漢像一軸<lb/>
+　　　宋人畫羅漢像一軸<lb/>
+　　　宋人畫羅漢像一軸<lb/>
+<pb n="KR3h0062_WYG_029-4b"/>
+　　　宋人畫羅漢像一軸<lb/>
+　　　元人畫藥師佛像一軸<lb/>
+　　　元人畫羅漢像一軸<lb/>
+　　　元人畫羅漢像一軸<lb/>
+　　　元人畫羅漢像一軸<lb/>
+　　　元人畫羅漢像一軸<lb/>
+　　　元人畫羅漢像一軸<lb/>
+　　　元人畫羅漢像一軸<lb/>
+<pb n="KR3h0062_WYG_029-5a"/>
+　　　元人畫羅漢像一軸<lb/>
+　　　元人畫羅漢像一軸<lb/>
+　　　元人畫羅漢像一軸<lb/>
+　　　元人畫羅漢像一軸<lb/>
+　　　元人畫浴佛圖一軸<lb/>
+　　　元人畫空巖猿定圖一軸<lb/>
+　　　明人畫寒山拾得圖一軸<lb/>
+　　　明人畫寒山拾得圖一軸<lb/>
+<pb n="KR3h0062_WYG_029-5b"/>
+　　　明人畫羅漢飼雀圖一軸<lb/>
+　　　明人畫羅漢補衲圖一軸<lb/>
+　　　明人畫十八羅漢像一軸<lb/>
+　　　明人畫羅漢像一軸<lb/>
+　　　明人畫羅漢像一軸<lb/>
+　　　明人畫羅漢像一軸<lb/>
+　　　明人畫羅漢像一軸<lb/>
+　　　明人畫仙佛同定圖一軸<lb/>
+<pb n="KR3h0062_WYG_029-6a"/>
+　　　名人書畫<lb/>
+　　釋人書畫<lb/>
+　　　明李祖麟等大士像心經書畫合卷<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

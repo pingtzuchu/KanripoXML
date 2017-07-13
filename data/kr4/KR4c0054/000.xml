@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4c0054_SBCK_000-1a"/>
+皇甫持正文集目録<lb/>
+　　　　　　　　　皇甫　湜　字持正<lb/>
+　第一卷<lb/>
+　　雜箸<lb/>
+　　　東還賦　傷獨孤賦<lb/>
+　　　醉賦　明分<lb/>
+　　　公是　諭業<lb/>
+　　　岀丗　春心<lb/>
+　　　壽顔子辯　悲汝南子桑<lb/>
+　第二卷<lb/>
+　　論序<lb/>
+　　　夷恵清和論　編年紀傳論<lb/>
+<pb n="KR4c0054_SBCK_000-1b"/>
+　　　東晉元魏正閏論　荀孟言性論<lb/>
+　　　送丘儒序　送簡師序<lb/>
+　　　送孫生序　送王膠序<lb/>
+　　　顧况詩集序<lb/>
+　第三卷<lb/>
+　　制策<lb/>
+　　　制䇿一道<lb/>
+　第四卷<lb/>
+　　書<lb/>
+　　　上李大夫書　論進奉書<lb/>
+　　　荅李生第一書　荅李生第二書<lb/>
+　　　與李生第三書　荅劉敦質書<lb/>
+<pb n="KR4c0054_SBCK_000-2a"/>
+　第五卷<lb/>
+　　記<lb/>
+　　　朝陽樓記<lb/>
+　　　校江縣南亭記<lb/>
+　　　廬陵縣令㕔壁記<lb/>
+　　　吉州剌史㕔壁記<lb/>
+　　　荆南節度判官㕔壁記<lb/>
+　第六卷<lb/>
+　　碑銘<lb/>
+　　　韓文公神道碑<lb/>
+　　　韓文公墓銘<lb/>
+　　　廬陵香城寺碑<lb/>
+<pb n="KR4c0054_SBCK_000-2b"/>
+　　　護國寺威師碣<lb/>
+　　　祭栁子厚文<lb/>
+　　　佷石銘<lb/>
+　　　讓風<lb/>
+皇甫持正文集目録終<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

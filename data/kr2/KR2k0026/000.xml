@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>齊乗</head>
+    <p>
+<pb n="KR2k0026_WYG_000-1a"/>
+欽定四庫全書　　　　　史部十一<lb/>
+　齊乗　　　　　　　　　地理𩔖三<hi>都㑹郡縣之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案齊乗六卷元于欽撰欽字思容青<lb/>
+　　　　州人厯官兵部侍郎是書専記輿地凡分八<lb/>
+　　　　𩔖曰沿革曰分野曰山川曰郡邑曰古蹟曰<lb/>
+　　　　亭館曰風土曰人物叙述簡核而淹貫地志<lb/>
+　　　　中之有古法者其中間有舛誤如宋建隆三<lb/>
+<pb n="KR2k0026_WYG_000-1b"/>
+　　　　年改濰州置北海軍以昌邑縣𨽻之乾道三<lb/>
+　　　　年復陞濰州又增昌樂𨽻之均見宋史地理<lb/>
+　　　　志而是書獨遺漏未載又夀光為古莒國亦<lb/>
+　　　　不及詳其他如以華不注為磨笄山以臺城<lb/>
+　　　　為在濟南東北十三里顧炎武山東考古錄<lb/>
+　　　　皆嘗辯之然欽本齊人援據經史考證見聞<lb/>
+　　　　較他地志之但據輿圖憑空言以論斷者實<lb/>
+　　　　為詳確可信故向來推為善本卷首有至元<lb/>
+<pb n="KR2k0026_WYG_000-2a"/>
+　　　　五年蘇天爵序亦亟稱之云乾隆四十五年<lb/>
+　　　　二月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+<pb n="KR2k0026_WYG_000-3a"/>
+齊乘原序<lb/>
+齊乘六卷故兵部侍郎于公志齊之山川風土郡邑城<lb/>
+郭亭館丘壠人物而作也古者郡各有志中土多兵難<lb/>
+書弗克存我國家大德初始從集賢待制趙忭之請作<lb/>
+大一綂志蓋欲盡述天下都邑之盛書成藏之祕府世<lb/>
+莫得而見焉于公生于齊官于齊考訂古今質以見聞<lb/>
+歲乆始克成編辭約而事核公在中朝為御史憲臺都<lb/>
+事左司員外郎終益都田賦總管以文雅擅名當時旣<lb/>
+<pb n="KR2k0026_WYG_000-3b"/>
+卒其家蕭然獨遺是書于其子濳余官維揚始得閲之<lb/>
+嗚呼齊地之彊民物之夥自古然也桓公任管仲以成<lb/>
+霸業聖人嘗稱其功謂一變能至於魯後世去古雖逺<lb/>
+山川郡邑猶存革其俗以化其民獨不在夫上之人乎<lb/>
+當漢之始兵戈甫定曹參為齊相師禮蓋公以清靜化<lb/>
+民齊乃大治兹非其效歟今齊為山東重鎮所綂郡縣<lb/>
+五十有九宦游于齊者獲是書觀之寧無益乎予於于<lb/>
+公之言重有感焉謂三代兩漢人材夲乎學校之敎養<lb/>
+<pb n="KR2k0026_WYG_000-4a"/>
+謂風俗自漢晉以降愈變而愈下羙昔人之賑饑有道<lb/>
+歎近世之採金病民以稷下學術流于異端以海上求<lb/>
+仙惑于神異斯亦足以慨公之志矣夫公諱欽字思容<lb/>
+益都人濳擢南行臺掾云至元五年己卯冬十月丙戌<lb/>
+朔嘉議大夫江北淮東道肅政㢘訪使蘇天爵序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

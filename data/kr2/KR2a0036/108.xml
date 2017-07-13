@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>元史卷一百八</head> <lb/>
+    <p>
+<pb n="KR2a0036_WYG_108-1a"/>
+欽定四庫全書<lb/>
+　元史卷一百八<lb/>
+　　明翰林學士亞中大夫知制誥兼修國史宋濂等修<lb/>
+　表第三<lb/>
+　　諸王表<lb/>
+昔周封列國七十而同姓者五十三人漢申丹書之信<lb/>
+而外戚侯者恩寖廣矣詩曰大邦維屏大宗維翰其此<lb/>
+之謂乎元興宗室駙馬通稱諸王嵗賜之頒分地之入<lb/>
+<pb n="KR2a0036_WYG_108-1b"/>
+所以盡夫展親之義者亦優且渥然初制簡樸位號無<lb/>
+稱惟視印章以為輕重厥後遂有國邑之名而賜印之<lb/>
+等猶前日也得諸掌故具著于篇作諸王表<lb/>
+<pb n="KR2a0036_WYG_108-2a"/>
+</p>
+<p>
+<pb n="KR2a0036_WYG_108-3a"/>
+</p>
+<p>
+<pb n="KR2a0036_WYG_108-4a"/>
+</p>
+<p>
+<pb n="KR2a0036_WYG_108-5a"/>
+</p>
+<p>
+<pb n="KR2a0036_WYG_108-6a"/>
+</p>
+<p>
+<pb n="KR2a0036_WYG_108-7a"/>
+</p>
+<p>
+<pb n="KR2a0036_WYG_108-8a"/>
+</p>
+<p>
+<pb n="KR2a0036_WYG_108-9a"/>
+</p>
+<p>
+<pb n="KR2a0036_WYG_108-10a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2a0036_WYG_108-10b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　元史巻一百八<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

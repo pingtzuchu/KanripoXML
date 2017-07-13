@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>方齋存稿</head>
+    <p>
+<pb n="KR4e0174_WYG_000-1a"/>
+欽定四庫全書　　　　集部六<lb/>
+　方齋存稿　　　　　　　别集類五<hi>明</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案方齋存稿十巻明林文俊撰文俊<lb/>
+　　　　字汝英號方齋莆田人正徳辛未進士官至<lb/>
+　　　　南京吏部右侍郎諡文修事蹟具明史本傳<lb/>
+　　　　湛若水所撰神道碑載所著有方齋存稿世<lb/>
+　　　　無刋本此本乃其家藏舊抄疏表序文襍著<lb/>
+<pb n="KR4e0174_WYG_000-1b"/>
+　　　　九巻詩一巻史稱其文章醇雅雋永今觀其<lb/>
+　　　　詩亦舂容恬適不事雕琢<lb/>
+　　　國朝朱彞尊輯明詩綜乃獨不載之當由未見<lb/>
+　　　　此本非置之不録也又近人鄭王臣輯莆風<lb/>
+　　　　清籟集所選文俊詩尚有彭城夜泊七律一<lb/>
+　　　　首送黄主簿赴蘄水七絶二首為是集所未<lb/>
+　　　　收未知王臣何自得之王臣即莆田人于文<lb/>
+　　　　俊為鄉里或墨迹流傳据以載入歟今世傳<lb/>
+<pb n="KR4e0174_WYG_000-2a"/>
+　　　　明南監板二十一史即文俊所校刋竄改舛<lb/>
+　　　　訛頗為後人訾議然文俊為祭酒已在雕板<lb/>
+　　　　将竣之日陳騤館閣續録所謂經進不經修<lb/>
+　　　　者未可以是並訾其詩文也乾隆四十四年<lb/>
+　　　　三月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

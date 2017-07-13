@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3l0126_SBCK_005-1a"/>
+</p>
+<p>
+　　嘉慶丙寅孟夏月杭州書友介其族人陶藴輝<lb/>
+　　售宋刻李注文選扵余以此續幽怪録二册為副<lb/>
+　　藴輝曰此書向扵東城書坊獲之後歸知不足齋<lb/>
+　　今仍返故土古書殆亦有靈耶余檢卷中藏書家<lb/>
+　　圖記有鄭印敷教一章則其為東城故物無疑<lb/>
+　　桐菴先生秋水軒其去余縣橋新居不逺同里<lb/>
+　　旭亭韓文曽言之兹書歸吴而余適遷居東<lb/>
+　　城因遂淂此以慰書之願云尔　蕘翁<lb/>
+<pb n="KR3l0126_SBCK_005-1b"/>
+此臨安府太廟前尹家書籍鋪刋行本也余所<lb/>
+淂茅亭客話亦為尹家刋夲行字多寡与此正同<lb/>
+然茅亭曽經遵王记之而此書絶未有著于録者<lb/>
+可云竒祕矣此録續牛僧孺書夲名玄怪見於陳<lb/>
+晁两家之書其云幽怪者殆避宋諱欤陳云五卷<lb/>
+晁云十卷今多扵陳而少扵晁其分卷當出更<lb/>
+定晁又云分仙術感應三门此不分者殆合并<lb/>
+而去其门類也尹氏所見谅已不全就其所載<lb/>
+事核之　二十三則耳述古堂目所収抄夲正<lb/>
+三卷較此更少矣近彚刻書目云稽古堂日鈔<lb/>
+<pb n="KR3l0126_SBCK_005-2a"/>
+　亦列其名未知其卷若何然以宋刻爲據則此<lb/>
+　四卷者固足以覘前此之梗㮣而订後未之疎<lb/>
+　畧矣余喜讀未見書若此小　依然舊刻<lb/>
+　　不可備百宋一㕓書録之續尔　古翁　记<lb/>
+<pb n="KR3l0126_SBCK_005-2b"/>
+<pb n="KR3l0126_SBCK_005-2b"/>
+<pb n="KR3l0126_SBCK_005-2b"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

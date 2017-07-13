@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>閩中十子詩</head>
+    <p>
+<pb n="KR4h0098_WYG_000-1a"/>
+欽定四庫全書　　　　　集部八<lb/>
+　閩中十子詩　　　　　　總集類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案閩中十子詩三十巻明袁表馬熒<lb/>
+　　　　同編表字景從熒字用昭皆福州人閩中十<lb/>
+　　　　子者一曰福清林鴻有膳部集一曰長樂陳<lb/>
+　　　　亮有儲玉齋集一曰長樂髙廷禮有木天清<lb/>
+　　　　氣嘯臺集一曰閩縣王恭有白雲樵唱鳯臺<lb/>
+<pb n="KR4h0098_WYG_000-1b"/>
+　　　　清嘯草澤狂歌諸集一曰閩縣唐泰詩軼不<lb/>
+　　　　傳散見善鳴集中一曰閩縣鄭定有澹齋集<lb/>
+　　　　一曰永福王偁有虚舟集一曰閩縣王褒有<lb/>
+　　　　養靜集一曰閩縣周元有宜秋集一曰候官<lb/>
+　　　　黄元其集名不傳皆明初人萬厯丙子表等<lb/>
+　　　　即髙以陳家所藏諸人之詩選為是集考閩<lb/>
+　　　　中詩派多以十子為宗厥後輾轉流傳漸成<lb/>
+　　　　窠臼其初已有唐摹晉帖之評其後遂有詩<lb/>
+<pb n="KR4h0098_WYG_000-2a"/>
+　　　　必律有律必七言而晉安一派至為世所詬<lb/>
+　　　　厲要其濫觴之始不至是也十人遺集已不<lb/>
+　　　　盡傳傳者亦不盡可錄此編採擷菁華存其<lb/>
+　　　　梗概猶可以見一時之風氣固宜存以備一<lb/>
+　　　　格焉乾隆四十六年九月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

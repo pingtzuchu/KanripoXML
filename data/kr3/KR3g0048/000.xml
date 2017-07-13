@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>遁甲演義</head>
+    <p>
+<pb n="KR3g0048_WYG_000-1a"/>
+欽定四庫全書　　　　　子部七<lb/>
+　遁甲演義　　　　　　　術數類六<hi>隂陽五行之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹按遁甲演義四卷明程道生撰道生<lb/>
+　　　　字可生海寧人言遁甲者皆祖洛書然河圖<lb/>
+　　　　以圖名當有竒偶之象洛書以書名當有文<lb/>
+　　　　字之形故班固以為六十五字<hi>見漢書五行志</hi>劉向<lb/>
+　　　　以為三十八字劉歆以為二十字<hi>並見尚書正義洪範</hi>
+<pb n="KR3g0048_WYG_000-1b"/>
+　　　　<hi>篇</hi>是皆先漢以來洛書無圖之明證若如宋<lb/>
+　　　　以後所傳四十五㸃之狀與河圖不殊則當<lb/>
+　　　　名洛圖不名洛書矣考大戴禮載明堂古制<lb/>
+　　　　有二九四七五三六一八之文此九宫之法<lb/>
+　　　　所自昉而易緯乾鑿度載太乙行九宫尤詳<lb/>
+　　　　遁甲之法實從此起方技家不知求其源故<lb/>
+　　　　妄託也其法以九宫為本緯以三竒六曜八<lb/>
+　　　　門九星視其加臨之吉凶以為趨避以日生<lb/>
+<pb n="KR3g0048_WYG_000-2a"/>
+　　　　於乙月明於丙丁為南極為星精故乙丙丁<lb/>
+　　　　皆謂之竒而甲本諸陽首戊己下六儀分麗<lb/>
+　　　　焉以配九宫而起符使故號遁甲其離坎分<lb/>
+　　　　宫正授超神閏竒接氣與厯律通開生之取<lb/>
+　　　　北方三向與太乙通龍虎蛇雀刑囚旺墓之<lb/>
+　　　　義不外於乗承生尅與六壬星命通至風雲<lb/>
+　　　　緯候無不該備故神其說者以為出自黄帝<lb/>
+　　　　風后及九天元女其依托固不待辨而要於<lb/>
+<pb n="KR3g0048_WYG_000-2b"/>
+　　　　方技之中最有理致考漢志所列惟風鼓六<lb/>
+　　　　甲風后孤虚而已於竒遁尚無明文至梁簡<lb/>
+　　　　文帝樂府始有三門應遁甲語陳書武帝紀<lb/>
+　　　　遁甲之名遂見於史則其學殆盛於南北朝<lb/>
+　　　　隋志載有伍子胥遁甲文信都芳遁甲經葛<lb/>
+　　　　祕三元遁甲圖等十三家其遺文世不槩見<lb/>
+　　　　唐李靖有遁甲萬一訣胡乾有遁甲經俱見<lb/>
+　　　　於史志至宋而傳其説者愈多仁宗時嘗命<lb/>
+<pb n="KR3g0048_WYG_000-3a"/>
+　　　修景祐樂髓新經述七宗二變合古今之樂<lb/>
+　　　參以六壬遁甲又令司天正楊維徳撰遁甲<lb/>
+　　　玉函符應經親為製序故當時壬遁之學最<lb/>
+　　　盛談數者至今多援引之自好竒者援以談<lb/>
+　　　兵遂有靖康時郭京之輩以妖妄誤國後人<lb/>
+　　　又攙雜以道家符籙之法益怪誕不可究詰<lb/>
+　　　於是六壬盛行而遁甲之學㡬廢究之遁通<lb/>
+　　　於壬壬於人事為切遁於天文為優實亦未<lb/>
+<pb n="KR3g0048_WYG_000-3b"/>
+　　　有以軒輊也世所傳五總龜烟波釣叟訣稍存<lb/>
+　　　梗槩而是編旨約詞該於用竒置閏之要頗<lb/>
+　　　為詳具至論本命行年謂欲乗本局中吉星<lb/>
+　　　生旺其説亦他書所未及存之以備三式之<lb/>
+　　　一殆亦五行家所不廢歟乾隆四十六年十<lb/>
+　　　月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

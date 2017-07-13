@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2e0001_SBCK_000-1a"/>
+國語解敘<lb/>
+　　　　　　　　　　韋　昭<lb/>
+昔孔子發憤於舊史垂法於素王左丘<lb/>
+明因聖言以攄意託王義以流藻其淵<lb/>
+源深大沈懿雅麗可謂命世之才博物<lb/>
+善作者也其明識高遠雅思未盡故復<lb/>
+采録前世穆王以來下訖魯悼智伯之<lb/>
+<pb n="KR2e0001_SBCK_000-1b"/>
+誅邦國成敗嘉言善語隂陽律吕天時<lb/>
+人事逆順之數以為國語其文不主於<lb/>
+經故號曰外傳所以包羅天地探測禍<lb/>
+福發起幽微章表善惡者昭然甚明實<lb/>
+爲經蓻並陳非特諸子之倫也遭秦之<lb/>
+亂幽而復光賈生史遷頗綜述焉及劉<lb/>
+光祿於漢成世始更考校是正疑繆至<lb/>
+<pb n="KR2e0001_SBCK_000-2a"/>
+於章帝鄭大司農為之訓註解疑釋滯<lb/>
+昭晣可觀至於細碎有所闕略侍中賈<lb/>
+君敷而衍之其所發明大義略舉為已<lb/>
+憭矣然於文間時有遺忘建安黄武之<lb/>
+間故侍御史會稽虞君尚書僕射丹陽<lb/>
+唐君皆英才碩儒洽聞之士也采摭所<lb/>
+見因賈為主而損益之觀其辭義信多<lb/>
+<pb n="KR2e0001_SBCK_000-2b"/>
+善者然所理釋猶有異同昭以末學淺<lb/>
+闇寡聞階數君之成訓思事義之是非<lb/>
+愚心頗有所覺今諸家並行是非相貿<lb/>
+雖聦明疏達識機之士知所去就然淺<lb/>
+聞初學猶或未能袪過切不自料復為<lb/>
+之解因賈君之精實採唐虞之信善亦<lb/>
+以所覺增潤補綴參之以五經檢之以<lb/>
+<pb n="KR2e0001_SBCK_000-3a"/>
+内傳以世本考其流以爾雅齊其訓去<lb/>
+非要存事實凡所發正三百七事又諸<lb/>
+家紛錯載述為煩是以時有所見庶幾<lb/>
+頗近事情裁有補益猶恐人之多言未<lb/>
+詳其故欲世覽者必察之也<lb/>
+嘉靖戊子吴郡浚學金李校刻于澤逺堂<lb/>
+國語解敘<hi>畢</hi>
+<pb n="KR2e0001_SBCK_000-3b"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

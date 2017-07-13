@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4f0001_WYG_190-1a"/>
+　欽定四庫全書<lb/>
+聖祖仁皇帝御製文第二集巻五十目録<lb/>
+　　古今體詩五十首<lb/>
+　　　　示江南浙江守土諸臣<lb/>
+　　　　再過鷲峰<lb/>
+　　　　登吴山<lb/>
+　　　　望錢塘江<lb/>
+　　　　虎跑泉<lb/>
+<pb n="KR4f0001_WYG_190-1b"/>
+　　　　由淨慈寺經南屛諸山<lb/>
+　　　　孤山放鶴亭<lb/>
+　　　　玉泉有五色魚賜名清漣寺<lb/>
+　　　　西湖再作<lb/>
+　　　　浙省道上書懷<lb/>
+　　　　桑林乍綠蠶事方興詩以嘉之<lb/>
+　　　　曉發嘉興<lb/>
+　　　　花山<lb/>
+<pb n="KR4f0001_WYG_190-2a"/>
+　　　支硎山<lb/>
+　　　回鑾復過恵山<lb/>
+　　　舟行野望<lb/>
+　　　駐蹕江寧偶述<lb/>
+　　　修報恩寺塔初畢登之<lb/>
+　　　過明太祖陵有感<lb/>
+　　　月夜登燕子磯<lb/>
+　　　江行<lb/>
+<pb n="KR4f0001_WYG_190-2b"/>
+　　　憶暢春園牡丹<lb/>
+　　　金山雨望<lb/>
+　　　山中晩霽<lb/>
+　　　中泠泉<lb/>
+　　　望焦山念已已曽登其上<lb/>
+　　　念淮揚居民特留漕糧二十萬以濟之回鑾之<lb/>
+　　　　日復諄諭所司使布實恵<lb/>
+　　　泛洪澤湖偶詠<lb/>
+<pb n="KR4f0001_WYG_190-3a"/>
+　　　漁舟夜泊<lb/>
+　　　渡河北歸<lb/>
+　　　宿遷<lb/>
+　　　過八牐<lb/>
+　　　仲子廟<lb/>
+　　　途次端午<lb/>
+　　　山左道中<lb/>
+　　　望岱憶舊<lb/>
+<pb n="KR4f0001_WYG_190-3b"/>
+　　　闕里重修思欲一往以天氣日暑急奉<lb/>
+慈輿北歸未得瞻視紀詩八韻<lb/>
+　　　見途中夏麥将熟志喜<lb/>
+　　　北境<lb/>
+　　　候兄裕親王<lb/>
+　　　江南風雨阻回程二十天近京又是微旱五月<lb/>
+　　　　二十五日霖雨如注喜雨<lb/>
+　　　賜峨<graphic n="KR1453" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1453.png" mimeType="image/png"/>老僧<lb/>
+<pb n="KR4f0001_WYG_190-4a"/>
+　　　察永定河<lb/>
+　　　廵子牙河建壩<lb/>
+　　　盛夏晚偶成<lb/>
+　　　七夕觀千葉蓮<lb/>
+　　　暢春園觀稻時七月十一日也<lb/>
+　　　詠桐老圖賜裕親王<lb/>
+　　　為考試歎<lb/>
+　　　禁園秋霽<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

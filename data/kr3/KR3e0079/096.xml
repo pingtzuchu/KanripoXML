@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>本草綱目卷四十</head> <lb/>
+    <p>
+<pb n="KR3e0079_WYG_096-1a"/>
+欽定四庫全書<lb/>
+　本草綱目卷四十<lb/>
+　　　　　　　　　　　　明　李時珍　撰<lb/>
+　　蟲之二<hi>卵生類下二十二種</hi>
+青蚨<hi>拾遺</hi>
+　釋名蚨蟬　蟱蝸<hi>音謀𤓰</hi>
+                    <graphic n="KR1874" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1874.png" mimeType="image/png"/>
+                    <graphic n="KR1599" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1599.png" mimeType="image/png"/>
+                    <hi>音敦/隅</hi>蒲蝱<hi>音萌</hi>魚父　魚伯<lb/>
+　集解<hi>藏器曰青蚨生南海狀如蟬其子著木取以塗錢皆歸本處搜神記云南方有蟲名<graphic n="KR1874" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1874.png" mimeType="image/png"/>
+                        <graphic n="KR1599" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1599.png" mimeType="image/png"/>形大</hi>
+　<hi>如蟬辛美可食子着草葉上如蠶種取其子則母飛來雖潛取之亦知其處殺其母塗錢以子塗貫用錢</hi>
+<pb n="KR3e0079_WYG_096-1b"/>
+　<hi>去則自還淮南子萬畢術云青蚨還錢髙誘註云青蚨一名魚父魚伯以其子母各等置甕中埋東行垣</hi>
+　<hi>下三日開之即相從以母血塗入十一錢子血塗八十一錢留子用母留母用子皆自還也李恂曰按異</hi>
+　<hi>物志言<graphic n="KR1874" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1874.png" mimeType="image/png"/>
+                        <graphic n="KR1599" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1599.png" mimeType="image/png"/>生南海諸山雄雌常處不相捨青金色人采得以法末之用塗錢以貨易于人晝用夜歸又</hi>
+　<hi>能秘精縮小便亦人間難得之物也時珍曰按異物志云青蚨形如蟬而長其子如蝦子著草葉上得其</hi>
+　<hi>子則母飛來煎食甚辛而美<graphic n="KR1174" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1174.png" mimeType="image/png"/>嶁神書云青蚨一名蒲蝱似小蟬大如蝱青色有光生于池澤多集蒲葉</hi>
+　<hi>上春生子于蒲上八八為行或九九為行如大蠶子而圓取其母血及火炙子血塗錢市物仍自還歸用</hi>
+　<hi>之無窮誠仙術也其説俱彷彿但藏器云子著木上稍有不同而許氏説文亦曰青蚨水蟲也葢水蟲而</hi>
+　<hi>産子於草木爾</hi>
+<pb n="KR3e0079_WYG_096-2a"/>
+　附録龎降<hi>時珍曰按劉恂嶺表録異云龎降生子嶺南多在橄欖樹上形如蜩蟬腹青而薄其</hi>
+　<hi>名自呼但聞其聲而鮮能得之人以善價求為媚藥按此形狀似蟬可為媚藥與李珣海藥青蚨雌雄不</hi>
+　<hi>捨祕精之説相符恐亦青蚨之類在木上者也</hi>
+　氣味辛温無毒<lb/>
+　主治補中益陽道去冷氣令人悦澤<hi>藏器</hi>秘精縮小便<lb/>
+　<hi>藥普</hi>
+蛺蝶<hi>綱目</hi>
+　釋名<graphic n="KR3716" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3716.png" mimeType="image/png"/>蝶<hi>
+                        <graphic n="KR3716" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3716.png" mimeType="image/png"/>音葉</hi>蝴蝶<hi>時珍曰蛺蝶輕薄夾翅而飛枼枼然也蝶美於鬚䖸美於眉故</hi>
+<pb n="KR3e0079_WYG_096-2b"/>
+　<hi>又名蝴蝶俗謂鬚為胡也</hi>
+　集解<hi>時珍曰蝶蛾類也大曰蝶小曰䖸其種甚繁皆四翅有粉好嗅花香以鬚代鼻其交以鼻交則</hi>
+　<hi>粉退古今註謂橘蠧花蝶爾雅翼謂菜蟲花蝶列子謂鳥足之葉花蝶埤雅謂蔬菜花蝶酉陽雜俎謂百</hi>
+　<hi>合花化蝶比户録謂樹葉化蝶如丹青野史謂綵裙化蝶皆各據其所見者而言爾葢不知蠧蠋諸蟲至</hi>
+　<hi>老俱各蜕而為蝶為䖸如蠶之必羽化也朽衣物亦必生蟲而化草木花葉之化者乃氣化風化也其色</hi>
+　<hi>亦各隨其蟲所食花葉及所化之物色而然楊慎丹鉛録云有草蝶水蝶在水中嶺南異物志載有人浮</hi>
+　<hi>南海見蛺蝶大如蒲帆稱肉得八十斤噉之極肥美</hi>
+　氣味微寒無毒<lb/>
+<pb n="KR3e0079_WYG_096-3a"/>
+　主治小兒脱肛隂乾為末唾調半錢塗手心以瘥為<lb/>
+　度<hi>時珍</hi>
+　發明<hi>時珍曰蝴蝶古方無用者惟普濟方載此方治脱肛亦不知用何等蝶也</hi>
+蜻蛉<hi>别録下品</hi>
+　釋名蜻虰<hi>音丁</hi>蜻蝏<hi>亦作/蜓</hi>虰蛵<hi>音/馨</hi>負勞<hi>爾/雅</hi>䗓<hi>音/忽</hi>諸乗<hi>𢎞景</hi>
+　紗羊<hi>綱目</hi>赤者名赤卒<hi>時珍曰蜻䗓言其色青葱也蛉虰言其狀伶仃也或云其尾如</hi>
+　<hi>丁也或云其尾如亭而挺故曰蝏曰蛵俗名紗羊言其翅如紗也按崔豹古今註云大而色青者曰蜻蜓</hi>
+　<hi>小而黄者江東名胡黎淮南名䗧蛜鄱陽名江雞小而赤者名曰赤卒曰絳縐曰赤衣使者曰赤弁丈人</hi>
+<pb n="KR3e0079_WYG_096-3b"/>
+　<hi>大而𤣥紺者遼海名紺蠜亦曰天雞陶氏謂胡黎為蜻蛉采政此耳</hi>
+　集解<hi>𢎞景曰蜻蛉有五六種惟青色大眼一名諸乗俗呼謂胡黎者入藥道家云眼可化為青珠其</hi>
+　<hi>餘黄細及黒者不入藥保昇曰所在有之好飛水際六足四翼宗奭曰蜻蜓中一種最大汴人呼為馬大</hi>
+　<hi>頭者是也身緑色其雌者腰間有碧色一遭入藥用雄者此物生於水中故多飛水上其類眼皆大陶氏</hi>
+　<hi>獨言蜻蜓眼大何也時珍曰蜻蛉大頭露目短頸長腰軃尾翼薄如紗食蚊䖟飲露水造化權輿云水蠆</hi>
+　<hi>化䗓羅願云水蠆化蜻蛉蜻蛉仍交于水上附物散卵復為水蠆也張華博物志亦言五月五日埋蜻蛉</hi>
+　<hi>頭于户内可化青珠未知然否古方惟用大而青者近時房中術亦有用紅色者崔豹云遼海間有紺蠜</hi>
+　<hi>蟲如蜻蛉而𤣥紺色六七月羣飛闇天夷人食之云海中青蝦所化也雲南志云瀾滄蒲蠻諸地凡土蜂</hi>
+<pb n="KR3e0079_WYG_096-4a"/>
+　<hi>蜻蛉蚱蜢之類無不食之也</hi>
+　氣味微寒無毒<lb/>
+　主治强隂止精<hi>别録</hi>壯陽暖水臟<hi>日華</hi>
+樗雞<hi>本經中品</hi>
+　釋名紅娘子<hi>綱目</hi>灰花䖸<hi>時珍曰其鳴以時故得雞名廣雅作樗鳩廣志作犨雞皆</hi>
+　<hi>訛矣其羽文綵故俗呼紅娘子灰花䖸云</hi>
+　集解<hi>别錄曰生河内川谷樗樹上七月采暴乾𢎞景曰今出梁州形似寒螿而小樗樹似漆而臭亦</hi>
+　<hi>猶芫青亭長在芫葛上也恭曰河内無此今出岐州此有二種以五色具者為雄入藥良其青黑質白斑</hi>
+<pb n="KR3e0079_WYG_096-4b"/>
+　<hi>者是雌不入藥宗奭曰汴洛諸界尤多形類蠶䖸但腹大頭足微黒翅兩重外一重灰色内一重深紅五</hi>
+　<hi>色皆具頌曰爾雅云螒天雞郭璞註云小蟲也黒身赤頭一名莎雞又曰樗雞然今之莎雞生樗木上六</hi>
+　<hi>月中出飛而振羽索索作聲人或蓄之樊中但頭方腹大翅羽外青内紅而身不黒頭不赤此殊不類郭</hi>
+　<hi>説樗上一種頭翅皆赤者乃如舊説人呼為紅娘子然不名樗雞疑即是此葢古今之稱不同爾時珍曰</hi>
+　<hi>樗即臭椿也此物初生頭方而扁尖喙向下六足重翼黒色及長則能飛外翼灰黄有斑㸃内翅五色相</hi>
+　<hi>間其居樹上布置成行秋深生子在樗皮上蘇恭寇宗奭之説得之蘇頌引郭璞以為莎雞者誤矣莎雞</hi>
+　<hi>居莎草間蟋蟀之類似蝗而班有翅數重下翅正赤六月飛而振羽有聲詳見陸機毛詩疏義而羅願爾</hi>
+　<hi>雅翼以莎雞為絡緯即俗名紡絲者</hi>
+<pb n="KR3e0079_WYG_096-5a"/>
+　修治<hi>時珍曰凡使去翅足以糯米或用麫抄黄色去米麫用</hi>
+　氣味苦平有小毒不可近目<hi>别録</hi>
+　主治心腹邪氣隂痿益精强志生子好色補中輕身<lb/>
+　<hi>本經</hi>腰痛下氣强隂多精<hi>别/録</hi>通血閉行瘀血<hi>宗奭</hi>主瘰癧<lb/>
+　散目中結翳辟邪氣療猘犬傷<hi>時珍</hi>
+　發明<hi>𢎞景曰方藥稀用為大麝香丸用之時珍曰古方辟温殺鬼方中用之近世方中多用葢厥隂</hi>
+　<hi>經藥能行血活血也普濟方治目翳撥雲膏中與芫青斑蝥同用亦是活血散結之義也</hi>
+　附方<hi>新四</hi>子宫虚寒<hi>杏林摘要云婦人無子由子宫虚寒下元虚月水不調或閉或漏或</hi>
+<pb n="KR3e0079_WYG_096-5b"/>
+　<hi>崩中𢃄下或産後敗血未盡内結不散用紅娘子六十枚大黄皂莢葶藶各一兩巴豆一百二十枚為末</hi>
+　<hi>棗肉為丸如彈子大以綿褁留繫用竹筒送入隂户一時許發熱渴用熟湯一二盞解之後發寒静睡要</hi>
+　<hi>安三日方取出毎日空心以鷄子三枚胡椒末二分炒食酒下以補之乆則子宫暖矣</hi>瘰癧結<lb/>
+　核<hi>用紅娘子十四枚乳香砒礵各一錢硇砂一錢半黄丹五分為末糯米粥和作餅貼之不過一月其</hi>
+　<hi>核自然脱下矣  衞生簡易方</hi>風狗咬傷<hi>不治即死用紅娘子二箇斑蝥五箇並去翅足若四</hi>
+　<hi>十嵗各加一箇五十嵗各加二箇青娘子三箇去翅足四十嵗各一箇五十六嵗加二箇海馬半箇續隨</hi>
+　<hi>子一分乳香沈香桔梗各半分酥油少許為末十嵗者作四服十五嵗作三服二十嵗作二服三十嵗作</hi>
+　<hi>一服方談埜翁</hi>横痃便毒<hi>雞子一箇開孔入紅娘子六箇紙包煨熟去紅娘子食雞子以</hi>
+<pb n="KR3e0079_WYG_096-6a"/>
+　<hi>酒下小便淋瀝出濃血即愈  陸氏積徳堂方</hi>
+棗貓<hi>綱目</hi>
+　集解<hi>時珍曰棗貓古方無考近世方廣丹溪心法附餘治小兒方用之註云生棗樹上飛蟲也大如</hi>
+　<hi>棗子青灰色兩角采得隂乾用之</hi>
+　氣味<hi>缺</hi>
+　主治小兒臍風<hi>時珍曰按方廣云小兒初生以綿褁臍𢃄離臍五六寸札定咬斷以鵞翎</hi>
+　<hi>筒送藥一二分入臍大孔輕輕揉散以艾炷炙臍頭三壯結住勿打動候其自落永無臍風之患萬不失</hi>
+　<hi>一臍硬者用之軟者無病不必用也其法用隂乾棗貓兒研末三箇真珠搥研四十九粒炒黄丹五分白</hi>
+<pb n="KR3e0079_WYG_096-6b"/>
+　<hi>枯礬蛤粉血蛤各五分研勻如上法用臍有三孔一大二小也</hi>
+斑蝥<hi>本經下品</hi>　　校正<hi>陳藏器螌蝥蟲係重出今併為一</hi>
+　釋名斑貓<hi>本經</hi>螌蝥蟲<hi>拾/遺</hi>龍蚝<hi>音/刺</hi>斑蚝<hi>時珍曰斑言其色蝥刺言其毒</hi>
+　<hi>如矛刺也亦作螌蝥俗訛為斑貓又訛斑蚝為斑尾也呉普本草又名斑菌曰腃髮曰晏青</hi>
+　集解<hi>别録曰斑貓生河東山谷八月取隂乾呉普曰生河内山谷亦生木石保昇曰斑貓所在有之</hi>
+　<hi>七八月大豆葉上甲蟲也長五六分黄黒斑文鳥腹尖喙就葉上采取隂乾用𢎞景曰此一蟲五變主療</hi>
+　<hi>皆相似二三月在芫花上即呼為芫青四五月在王不留行草上即呼為王不留行蟲六七月在葛花上</hi>
+　<hi>即呼為葛上亭長八九月在豆花上即呼為斑蝥九月十月復還地蟄即呼為地膽此是偽地膽耳為療</hi>
+<pb n="KR3e0079_WYG_096-7a"/>
+　<hi>猶同也其斑蝥大如巴豆甲上有黄黒斑㸃芫青青黒色亭長身黒赤頭斆曰芫青斑蝥亭長赤頭四件</hi>
+　<hi>様各不同所居所食所效亦不同芫青嘴尖背上有一畫黄在芫花上食汁斑蝥背上一畫黄一畫黒嘴</hi>
+　<hi>尖處有一小赤㸃在豆葉上食汁亭長形黄黒在葛葉上食汁赤頭身黒額上有大紅一㸃也頌曰四蟲</hi>
+　<hi>皆是一類但隨時變耳深師方云四月五月六月為葛上亭長七月為斑貓九月十月為地膽今醫家知</hi>
+　<hi>用芫青斑蝥而地膽亭長少使故不得詳也恭曰本草古今諸方並無王不留行蟲若陶氏所言則四蟲</hi>
+　<hi>専在一處今地膽出幽州芫青出寜州亭長出雍州斑蝥所在皆有四蟲出四處可一嵗周遊四州乎芫</hi>
+　<hi>青斑蝥形段相似地膽狀貎大殊且采自草菜上陶葢浪言爾時珍曰按本經别録四蟲采取時月正與</hi>
+　<hi>陶説相合深師方用亭長所註亦同自是一類隨其所居所出之時而命名爾蘇恭强闢陶説亦自欠明</hi>
+<pb n="KR3e0079_WYG_096-7b"/>
+　<hi>按太平御覽引神農本草經云春食芫花為芫青夏食葛花為亭長秋食豆花為斑蝥冬入地中為地膽</hi>
+　<hi>黒頭赤尾其説甚明而唐宋校正者反失收取更致紛紜何哉陶氏之王不留行蟲雷氏之赤頭方藥未</hi>
+　<hi>有用者要皆此類固可理推餘見地膽</hi>
+　修治<hi>斆曰凡斑蝥芫青亭長地膽修事並漬糯米小麻子相拌炒至米黄黒色取出去頭足三翅以</hi>
+　<hi>血餘褁懸東牆角上一夜用之則毒去也大明曰入藥須去翅足糯米炒熟不可生用即吐㵼人時珍曰</hi>
+　<hi>一法用麩炒過醋煑用之也</hi>
+　氣味辛寒有毒<hi>普曰神農辛岐伯鹹扁鵲甘有大毒曰馬刀為之使畏巴豆丹參空青惡</hi>
+　<hi>膚青甘草豆花時珍曰斑貓芫青亭長地膽之毒靛汁黄連黒豆䓤茶皆能解之</hi>
+<pb n="KR3e0079_WYG_096-8a"/>
+　主治寒熱鬼疰蠱毒鼠瘻瘡疽蝕死肌破石癃<hi>本經</hi>血<lb/>
+　積傷人肌治疥癬墮胎<hi>别録</hi>治瘰癧通利水道<hi>甄權</hi>療淋<lb/>
+　疾傅惡瘡瘻爛<hi>日華</hi>治疝瘕解疔毒猘犬毒沙蝨毒蠱<lb/>
+　毒輕粉毒<hi>時珍</hi>
+　發明<hi>宗奭曰妊娠人不可服之為潰人肉治淋方多用極苦人須斟酌之時珍曰斑蝥人獲得之尾</hi>
+　<hi>後惡氣射出臭不可聞故其入藥亦専主走下竅直至精溺之處蝕下敗物痛不可當葛氏云凡用斑蝥</hi>
+　<hi>取其利小便引藥行氣以毒攻毒是矣楊登甫云瘰癧之毒莫不有根大抵以斑蝥地膽為主制度如法</hi>
+　<hi>能使其根從小便中出或如粉片或如血塊或如爛肉皆其騐也但毒之行小便必澀痛不可當以木通</hi>
+<pb n="KR3e0079_WYG_096-8b"/>
+　<hi>滑石燈心輩道之又葛洪肘後方云席辯刺史傳云凡中蠱毒用斑蝥蠱四枚去翅足炙熟桃皮五月初</hi>
+　<hi>五日采取去黒皮隂乾大㦸去骨各為末如斑蝥一分二味各用二分合和棗核大以米清服之必吐出</hi>
+　<hi>蠱一服不瘥十日更服此蠱洪州最多有老嫗解療之一人獲縑二十疋秘方不傳後有子孫犯法黄華</hi>
+　<hi>公若于則時為都督因而得之也</hi>
+　附方<hi>舊六新九</hi>内消瘰癧<hi>不拘大人小兒經騐方用斑蝥一个去翅足以粟一升同炒米</hi>
+　<hi>焦去米不用入薄荷四兩為末鳥雞子清丸如菉豆大空心臘茶下三丸加至五丸却毎日減一丸減至</hi>
+　<hi>一丸後每日五丸以消為度以廣利治瘰癧經久不瘥用斑蝥一枚去翅足微炙  漿水一盞空腹吞之</hi>
+　<hi>用蜜水亦可重者不過七枚瘥也</hi>瘻瘡有蟲<hi>八月中多取斑蝥以苦酒浸半日晒乾每用五</hi>
+<pb n="KR3e0079_WYG_096-9a"/>
+　<hi>箇銅器炒熟為末巴豆一粒黄犬背上毛二七根炒研硃砂五分同和苦酒頓服其蟲當盡出也</hi>癰<lb/>
+　疽拔膿<hi>癰疽不破或破而腫硬無膿斑蝥為末以蒜搗膏和水一豆許貼之少頃膿出即去藥</hi>
+　<hi>直指</hi>疔腫拔根<hi>斑蝥一枚捻破以鍼劃瘡上作米字形樣封之即出根也  外臺</hi>血疝<lb/>
+　便毒<hi>不拘已成未成隨即消散斑蝥三箇去翅足炒滑石三錢同研分作三服空心白湯下日一服</hi>
+　<hi>毒從小便出如痛以車前木通澤㵼猪苓煎飲名破毒散甚效  東垣方</hi>積年癬瘡<hi>外臺用斑</hi>
+　<hi>蝥半兩微炒為末蜜調傅之搽永類用斑蝥七箇醋浸露一夜  之</hi>面上㾦㿔<hi>大風面上有紫</hi>
+　<hi>㾦㿔未消用乾斑蝥末以生油調傅約半日㾦㿔脹起以軟帛拭去藥以棘鍼挑破近下令水出乾不得</hi>
+　<hi>剝其瘡皮及不可以藥近口眼若是尖㾦㿔子即勿用此别用膽礬缺藥以治之  聖濟總録</hi>疣痣<lb/>
+<pb n="KR3e0079_WYG_096-9b"/>
+　黒子<hi>斑蝥三箇人言少許以糯米五錢炒黄去米入蒜一箇搗爛㸃之</hi>風狗咬傷<hi>衞生</hi>
+　<hi>易簡方云此乃九死一生之病急用斑蝥七枚以糯米炒黄去米為末酒一盞煎半盞空心温服取下小</hi>
+　<hi>肉狗三四十枚為盡如數少數日再服七次無狗形永不再發也累試累騐  醫方大成用大斑蝥三七</hi>
+　<hi>枚去頭翅足用糯米一勺畧炒過去斑蝥别以七枚如前炒色變復去之别以七枚如前至青烟為度去</hi>
+　<hi>蝥只以米為粉用冷水入清油少許空心調服須臾再進一服以小便利下毒物為度如不利再進利後</hi>
+　<hi>肚疼急用冷水調青靛服之以解其毒否則有傷黄連水亦可解之但不宜服一切熱物也</hi>中沙<lb/>
+　風毒<hi>斑蝥二枚一枚末服一枚燒至烟盡研末傅瘡中立瘥  肘后</hi>塞耳治聾<hi>斑蝥炒二</hi>
+　<hi>枚生巴豆去皮心二枚杵丸棗核大綿褁塞之  聖惠方</hi>妊娠胎死<hi>斑蝥一枚燒研水服即下</hi>
+<pb n="KR3e0079_WYG_096-10a"/>
+　<hi>利廣  方</hi>
+芫青<hi>别録下品</hi>
+　釋名青娘子<hi>時珍曰芫花上而色青故名芫青世俗諱之呼為青娘子以配紅娘子也</hi>
+　集解<hi>别録曰三月取暴乾𢎞景曰二月三月在芫花上花時取之青黒色恭曰出寜州頌曰處處有</hi>
+　<hi>之形似斑蝥但色純青緑背上一道黄文尖喙三四月芫花發時乃生多就芫花上采之暴乾時珍曰但</hi>
+　<hi>連芫花莖葉采置地上一夕盡自出也餘見斑蝥</hi>
+　修治<hi>見斑蝥</hi>
+　氣味辛微温有毒<hi>時珍曰芫青之功同斑蝥而毒尤猛葢芫花有毒故也  畏惡同斑</hi>
+<pb n="KR3e0079_WYG_096-10b"/>
+　<hi>蝥</hi>
+　主治蠱毒風疰鬼疰墮胎<hi>别録</hi>治鼠瘻<hi>𢎞景</hi>主疝氣利小<lb/>
+　水消瘰癧下痰結治耳聾目翳猘犬傷毒餘功同斑<lb/>
+　蝥<hi>時珍</hi>
+　附方<hi>新三</hi>偏墮疼痛<hi>青娘子紅娘子各十枚白麫拌炒黄色去前二物熟湯調服立効也</hi>
+　<hi>翁談埜  方</hi>目中頑翳<hi>發背膏用青娘子紅娘子斑蝥各二箇去頭足麫炒黄色蓬砂一錢</hi>
+　<hi>㽔仁去油五箇為末每㸃少許日五六次仍同春雪膏㸃之膏見黄連下  普濟方</hi>塞耳治聾<lb/>
+　<hi>芫青巴豆仁蓖麻仁各一枚研丸棗核大綿包塞之  聖惠方</hi>
+<pb n="KR3e0079_WYG_096-11a"/>
+葛上亭長<hi>别録下品</hi>
+　釋名<hi>𢎞景曰此蟲黒身赤頭如亭長之著𤣥衣赤幘故名也</hi>
+　集解<hi>别録曰七月取暴乾𢎞景曰葛花開時取之身黒頭赤腹中有卵白如米粒恭曰出雍州保昇</hi>
+　<hi>曰處處有之五六月葛葉上采之形似芫青而蒼黒色斆曰亭長形黒黄在葛上食蔓膠汁又有赤頭身</hi>
+　<hi>黒色額上有大紅一㸃各有用處時珍曰陶言黒身赤頭故名亭長而雷氏别出赤頭不言出處似謬</hi>
+　修治<hi>同斑蝥</hi>氣味辛微温有毒<hi>惡畏同斑蝥</hi>
+　主治蠱毒鬼疰破淋結積聚墮胎<hi>别録</hi>通血閉癥塊鬼<lb/>
+　胎餘功同斑蝥<hi>時珍</hi>
+<pb n="KR3e0079_WYG_096-11b"/>
+　發明<hi>頌曰深師療淋用亭長之説最詳云取葛上亭長折斷腹腹中有白子如小米三二分安白板</hi>
+　<hi>上隂二三日收之若有人患十年淋服三枚八九年以還服二枚服時以水如棗許著小盃中爪用研之</hi>
+　<hi>當扁扁見於水中仰面吞之勿令近牙齒間藥雖微小下喉自覺至下焦淋所有頃藥作大煩急不可堪</hi>
+　<hi>者飲乾麥飯汁則藥熱止也若無乾麥飯但水亦可耳老小腹三分之一當下淋疾如膿血連連爾去者</hi>
+　<hi>或如指頭或青或黄不拘男女皆愈若藥不快淋不下以意節度更増服之此蟲五六月為亭長頭赤身</hi>
+　<hi>黒七月為斑蝥九月為地膽隨時變耳</hi>
+　附方<hi>新二</hi>經脈不通<hi>婦人經脈不通癥塊脹滿腹有鬼胎用葛上亭長五枚以糙米和炒</hi>
+　<hi>去翅足研末分三服空心甘草湯下須臾覺臍腹急痛以黒豆煎湯服之當通  聖惠方</hi>肺風白<lb/>
+<pb n="KR3e0079_WYG_096-12a"/>
+　癩<hi>方見蝮蛇</hi>
+地膽<hi>本經下品</hi>
+　釋名蚖青<hi>本經</hi>青蠵<hi>攜名𢎞景曰地膽是芫青所化故亦  蚖青用蚖字者亦承誤爾時</hi>
+　<hi>珍曰地膽者居地中其色如膽也按太平御覽引爾雅云地膽地要青蠵也又引呉普本草云地膽一名</hi>
+　<hi>杜龍一名青虹陶𢎞景以蠵字為蛙字音鳥媧切者誤矣宋本因之今俱釐政也</hi>
+　集解<hi>經曰生汶上山谷八月取之𢎞景曰真地膽出梁州狀如大馬蟻有翼偽者是斑蝥所化狀如</hi>
+　<hi>大豆大抵療體畧同亦難得真耳恭曰形如大馬蟻者今出邠州三月至十月草菜上采之非地中也狀</hi>
+　<hi>如大豆者未見之陶亦浪證爾保昇曰二月三月八月九月草菜上采之形倍黒色芫青所化也時珍曰</hi>
+<pb n="KR3e0079_WYG_096-12b"/>
+　<hi>今處處有之在地中或牆石内葢芫青亭長之類冬月入蟄者狀如斑蝥蘓恭未見反非陶説非也本經</hi>
+　<hi>别名芫青尤為可證既曰地膽不應復在草菜上矣葢芫青青緑色斑蝥黄斑色亭長黒身赤頭地膽黒</hi>
+　<hi>頭赤尾色雖不同功亦相近</hi>
+　修治<hi>同斑蝥</hi>
+　氣味辛寒有毒<lb/>
+　主治鬼疰寒熱鼠瘻惡瘡死肌破癥瘕墮胎<hi>本經</hi>蝕瘡<lb/>
+　中惡肉鼻中瘜肉散結氣石淋去子服一刀圭即下<lb/>
+　<hi>别録</hi>宣拔瘰癧從小便中出上亦吐出又治鼻齆<hi>藥性</hi>治<lb/>
+<pb n="KR3e0079_WYG_096-13a"/>
+　疝積疼痛餘功同斑蝥<hi>時珍</hi>
+　發明<hi>頌曰今醫家多用斑蝥芫青而稀用亭長地膽葢功亦相類爾時珍曰按楊氏直指方云有癌</hi>
+　<hi>瘡顆顆累垂裂如瞽眼其中帶青由是簇頭各類一舌毒深穿孔男則多發于腹女則多發于乳或項或</hi>
+　<hi>肩令人昏迷急宜用地膽為君佐以白牽牛滑石木通利小便以宣其毒更服童尿灌滌餘邪乃可得安</hi>
+　<hi>也</hi>
+　附方<hi>新二</hi>小腸氣痛<hi>地膽去翅足頭微炒硃砂各半兩滑石一兩為末每苦杖酒食前調</hi>
+　<hi>服二錢即愈  宣明</hi>鼻中瘜肉<hi>地膽生研汁灌之乾者酒煑取汁  又方細辛白芷等分為末</hi>
+　<hi>以生地膽汁和成膏每用少許㸃之取消為度  並聖惠</hi>
+<pb n="KR3e0079_WYG_096-13b"/>
+蜘蛛<hi>别録下品</hi>
+　釋名次蠹<hi>秩雅爾</hi>蠾蝓<hi>屬俞/方言</hi>　䖦蟱<hi>亦作鼇蝥音拙謀時珍曰按王安石</hi>
+　<hi>字説云設一面之網物觸而後誅之知乎誅義者故曰蜘蛛爾雅作䵹鼄從黽黽者大腹也楊雄方言云</hi>
+　<hi>自闗而東呼為蠾蝓侏儒語轉也北燕朝鮮之間謂之蟠蜍齊人又呼為杜公䖦蟱見下</hi>
+　集解<hi>𢎞景曰蜘蛛數十種今入藥惟用懸網如魚<graphic n="KR0699" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0699.png" mimeType="image/png"/>者亦名䖦蟱赤斑者名絡新婦亦入方術家用</hi>
+　<hi>其餘並不入藥頌曰蜘蛛處處有之其類極多爾雅云次蠹䵹鼄鼇蝥也土䵹鼄草䵹鼄蠨蛸長踦郭璞</hi>
+　<hi>註云今江東呼䵹鼄為鼇蝥長脚者為蟢子則陶云䖦蟱者即鼇蝥也藏器曰䖦蟱在孔穴中及草木上</hi>
+　<hi>陶言即蜘蛛非矣斆曰凡五色者及大身有刺毛生者并薄小者並不入藥惟身小尻大腹内有蒼黄膿</hi>
+<pb n="KR3e0079_WYG_096-14a"/>
+　<hi>者為真取屋西結網者去頭足研膏用宗奭曰蜘蛛品多皆有毒今人多用之家簷角籬頭陋巷之間空</hi>
+　<hi>中作懸網大腹深灰色者耳遺尿著人令人生瘡恭曰劒南山東為此蟲所囓瘡中出絲屢有死者時珍</hi>
+　<hi>曰蜘蛛布網其絲右繞其類甚多大小顔色不一爾雅但分蜘蛛草土及蠨蛸四種而已蜘蛛囓人甚毒</hi>
+　<hi>往往見于典籍按劉禹錫傳信方云判官張延賞為斑蜘蛛咬頸上一宿有二赤脈繞項下至心前頭面</hi>
+　<hi>腫如數斗幾至不救一人以大藍汁入麝香雄黄取一蛛投入隨化為水遂以㸃咬處兩日悉愈又云貞</hi>
+　<hi>元十年崔從質員外言有人被蜘蛛咬腹大如孕婦有僧教飲羊乳數日而平又李絳兵部手集云蜘蛛</hi>
+　<hi>咬人遍身成瘡者飲好酒至醉則蟲於肉中似小米自出也劉郁西域記云赤水兒城有蟲如蛛毒中人</hi>
+　<hi>則煩渴飲水立死惟飲葡萄酒至醉吐則解此與李絳所言蜘蛛毒人飲酒至醉則愈之意同葢亦蜘蛛</hi>
+<pb n="KR3e0079_WYG_096-14b"/>
+　<hi>也鄭曉吾學編云西域賽藍地方夏秋間草生小黒蜘蛛甚毒囓為痛聲徹地土人誦呪以薄荷枝拂之</hi>
+　<hi>或以羊肝遍擦其體經一日夜痛方止愈後皮脱如蜕牛馬被傷輒死也元稹長慶集云巴中蜘蛛大而</hi>
+　<hi>毒甚者身運數寸踦長數倍竹木被網皆死中人瘡痏痛痒倍常惟以苦酒調雄黄塗之仍用鼠負蟲食</hi>
+　<hi>其絲則愈不急救之毒及心能死人也段成式酉陽雜俎云深山蜘蛛有大如車輪者能食人物若此數</hi>
+　<hi>説皆不可不知淮南萬畢術言赤斑蜘蛛食猪肪百日殺以塗布雨不能濡殺以塗足可履水上抱朴子</hi>
+　<hi>言蜘蛛水馬合馮夷水仙丸服可居水中皆方士幻誕之談不足信也</hi>
+　氣味微寒有小毒<hi>大明曰無毒畏蔓青雄黄時珍曰蛛入飲食不可食</hi>
+　主治大人小兒㿉及小兒大腹丁奚三年不能行者<lb/>
+<pb n="KR3e0079_WYG_096-15a"/>
+　<hi>别録</hi>蜈蚣蜂蠆螫人取置咬處吸其毒<hi>𢎞景</hi>主蛇毒温虐<lb/>
+　止嘔逆癨亂<hi>蘇恭</hi>取汁塗蛇傷燒啖治小兒腹疳<hi>蘇頌</hi>主<lb/>
+　口喎脱肛瘡腫胡臭齒䘌<hi>時珍</hi>斑者治瘧疾疔腫<hi>日華</hi>
+　發明<hi>頌曰别録言蜘蛛治㿉張仲景治隂狐疝氣偏有大小時時上下者蜘蛛散主之蜘蛛十四枚</hi>
+　<hi>炒焦桂半兩為散毎服八分日再或以蜜丸亦通恭曰蜘蛛能制蛇故治蛇毒而本條無此時珍曰鶴林</hi>
+　<hi>玉露載蜘蛛能制蜈蚣以溺射之節節斷爛則陶氏言蜘蛛治蜈蚣傷亦相伏爾沈括筆談載蛛為蜂螫</hi>
+　<hi>能囓芋根摩創而愈今蛛又能治蜂<graphic n="KR1652" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1652.png" mimeType="image/png"/>螫何哉又劉義慶幽明録云張甲與司徒蔡謨有親謨晝寢夢甲</hi>
+　<hi>曰忽暴病心腹痛脹滿不得吐下名乾霍亂惟用蜘蛛生斷脚吞之則愈但人不知甲某時死矣謨覺使</hi>
+<pb n="KR3e0079_WYG_096-15b"/>
+　<hi>人驗之甲果死矣後用此治乾霍亂輒驗也按此説雖怪正合唐註治嘔逆霍亂之文當亦不謬葢蜘蛛</hi>
+　<hi>服之能令人利也</hi>
+　附方<hi>舊七新十四</hi>中風口喎<hi>向火取蜘蛛摩偏急頰上候正即止  千金方</hi>小兒<lb/>
+　口禁<hi>直指立聖散用乾蜘蛛一枚去足竹瀝浸一宿灸焦<graphic n="KR1652" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1652.png" mimeType="image/png"/>稍七箇膩粉少許為末毎用一字乳汁</hi>
+　<hi>調時時灌入口中足聖惠治小兒十日内口噤不能吮乳蜘蛛一枚去  炙焦研末入猪乳一合和匀分</hi>
+　<hi>作三服徐徐灌之神效無比</hi>止截瘧疾<hi>葛洪方用蜘蛛一枚同飯搗丸吞之  楊氏家藏用</hi>
+　<hi>蜘蛛一枚著蘆管中密塞綰項上勿令患人知之大海上用蜘蛛三五枚綿包繫寸口上  宣明方用</hi>
+　<hi>蜘蛛三枚信砒一錢雄黒豆四十九粒為末滴水為丸豌豆大先夜以一丸獻于北斗下次果紙褁挿耳</hi>
+<pb n="KR3e0079_WYG_096-16a"/>
+　<hi>内立見神聖一丸可醫二人</hi>泄痢脱肛<hi>已久者黒聖散主之大蜘蛛一箇瓠葉兩重包札定</hi>
+　<hi>燒存性入黄丹少許為末先以白礬䓤椒煎湯洗拭乾以前藥末置軟帛上托入收之甚是有效也  乗</hi>
+　<hi>閉方</hi>走馬牙疳<hi>出血作臭用蜘蛛一枚銅緑半錢麝香少許杵匀擦之無蛛用殻  直指</hi>齒<lb/>
+　䘌斷爛<hi>用大蜘蛛一箇以濕紙重褁荷葉包之灰火煨焦為末入麝香少許研傅  永類鈐方</hi>
+　聤耳出膿<hi>蜘蛛一箇臙脂坯子半錢香一字為末用鵞翎吹之</hi>麝吹奶疼痛<hi>蜘蛛</hi>
+　<hi>一枚麫褁燒存性為末酒服即止神效</hi>頦下結核<hi>大蜘蛛不計多少好酒浸過同研爛澄去</hi>
+　<hi>滓臨臥時服之最效  醫林集要</hi>瘰癧結核<hi>無問有頭無頭用大蜘蛛五枚日乾去足細研</hi>
+　<hi>酥調塗之日再上  聖惠方</hi>鼠瘻腫核<hi>已破出膿水者蜘蛛二七枚燒研傅之  千金</hi>便<lb/>
+<pb n="KR3e0079_WYG_096-16b"/>
+　毒初起<hi>大黒蜘蛛一枚研爛熱酒一椀攪服隨左右側卧取利不退再服必效  夀域</hi>丁腫<lb/>
+　拔根<hi>取户邉蜘蛛杵爛醋和先挑四畔血出根稍露傅之乾即易一日夜根拔出大有神效  千金</hi>
+　腋下胡臭<hi>大蜘蛛一枚以黄泥入少赤石脂末及鹽少許和匀褁蛛煅之為末入輕粉一字醋</hi>
+　<hi>調成膏臨臥傅腋下明早登厠必泄下黒汁也  三因方</hi>蜂<graphic n="KR1652" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1652.png" mimeType="image/png"/>螫傷<hi>蜘蛛研汁塗之并以生者</hi>
+　<hi>安咬處吸其毒  廣利方</hi>蜈蚣咬傷<hi>同/上</hi>蛇虺咬傷<hi>蜘蛛搗爛傅之甚效</hi>一切<lb/>
+　惡瘡<hi>蜘蛛晒研末入輕粉麻油塗之  直指方</hi>
+　蜕殻主治蟲牙牙疳<hi>時珍</hi>
+　附方<hi>舊一新一</hi>蟲牙有孔<hi>蜘蛛殻一枚綿/褁塞之  備急</hi>牙疳出血<hi>蜘蛛殻為</hi>
+<pb n="KR3e0079_WYG_096-17a"/>
+　<hi>末入臙脂麝香少許傅之  直指方</hi>
+　網主治喜忘七月七日取置衣領中勿令人知<hi>别録</hi>以<lb/>
+　纒疣贅七日消落有驗<hi>蘇恭</hi>療瘡毒止金瘡血出炒黄<lb/>
+　研末酒服治吐血<hi>時珍方出聖惠</hi>
+　發明<hi>時珍曰按侯延賞退齋閑録云凡人卒暴吐血者用大蜘蛛網搓成小團米飲吞之一服立止</hi>
+　<hi>此乃孫紹先所傳方也又酉陽雜俎云裴旻山行見蜘蛛結網如疋布引弓射殺斷其絲數尺收之部下</hi>
+　<hi>有金瘡者剪方寸貼之血立止也觀此則蛛網葢止血之物也</hi>
+　附方<hi>新四</hi>積年諸瘡<hi>蜘蛛膜貼之數/易  千金方</hi>反花瘡疾<hi>同上</hi>肛門<lb/>
+<pb n="KR3e0079_WYG_096-17b"/>
+　鼠痔<hi>蜘蛛絲纒之即落</hi>疣瘤初起<hi>柳樹上花蜘蛛纒之久則自消  簡便方</hi>
+草蜘蛛<hi>拾遺</hi>　　正誤<hi>舊標作䖦蟱今據爾雅改作草蜘蛛見下</hi>
+　集解<hi>藏器曰䖦蟱在孔穴中及草木稠宻處作網如吞絲為蒂就中開一門出入形段微似蜘蛛而</hi>
+　<hi>斑小陶言䖦蟱即蜘蛛誤矣時珍曰爾雅䵹鼄鼇蝥也草䵹鼄在草上絡幕者據此則陶氏所謂䖦蟱正</hi>
+　<hi>與爾雅相合而陳氏所謂䖦蟱即爾雅之草蜘蛛也今改正之然草上亦有數種入藥亦取其大者爾有</hi>
+　<hi>甚毒者不可不知李氏三元書云草上花蜘蛛絲最毒能纒斷牛尾有人遺尿絲纒其隂至斷爛也又沈</hi>
+　<hi>存中筆談言草上花蜘蛛咬人為天蛇毒則誤矣詳見鱗部天蛇下</hi>
+　氣味㣲寒有小毒<lb/>
+<pb n="KR3e0079_WYG_096-18a"/>
+　主治出疔腫根搗膏塗之<hi>藏器</hi>
+　絲主治去瘤贅疣子禳瘧疾<hi>時珍</hi>
+　附方<hi>新二</hi>瘤疣<hi>用桃上花蜘蛛十餘安桃枝上待絲垂下取東邉者撚為綿繫之七日一換自</hi>
+　<hi>消落也總微論</hi>　截瘧<hi>五月五日取花蜘蛛晒乾綘囊盛之臨期男左女右繫臂上勿令知之普</hi>
+　<hi>濟方</hi>
+壁錢<hi>拾遺</hi>
+　釋名壁鏡<hi>時珍曰皆以窠形命名也</hi>
+　集解<hi>藏器曰壁錢蟲似蜘蛛作白幕如錢貼牆壁間北人呼為壁繭時珍曰大如蜘蛛而形扁斑色</hi>
+<pb n="KR3e0079_WYG_096-18b"/>
+　<hi>八足而長亦時蜕殻其膜色光白如繭或云其蟲有毒咬人至死惟以桑柴灰煎取汁調白礬末傅之妙</hi>
+　氣味無毒<lb/>
+　主治鼻衂及金瘡出血不止捺取蟲汁注鼻中及㸃<lb/>
+　瘡上亦療五野雞病下血<hi>藏器</hi>治大人小人急疳牙蝕<lb/>
+　腐臭以壁蟲同人中白等分燒研貼之又主喉痺<hi>時珍</hi>
+　<hi>惠出聖  等方</hi>
+　附方<hi>新一</hi>喉痺乳蛾<hi>已死者復活用牆上壁錢七箇内要活蛛二枚撚作一處以白礬七</hi>
+　<hi>分一塊化開以壁錢惹礬燒存性出火毒為末竹管吹入立時就好忌熱肉硬物</hi>
+<pb n="KR3e0079_WYG_096-19a"/>
+　窠幕主治小兒嘔逆取二七枚煮汁飲之<hi>藏器</hi>産後欬<lb/>
+　逆三五日不止欲死者取三五個煎汁呷之良又止<lb/>
+　金瘡諸瘡出血不止及治瘡口不歛取繭頻貼之止<lb/>
+　蟲牙痛<hi>時珍</hi>
+　附方<hi>新一</hi>蟲牙疼痛<hi>普濟以壁上白蟢窠四五箇剝去黒者以鐵刀燒出汗將窠惹汗丸</hi>
+　<hi>之納入牙中甚效又以乳香入窠内燒存性納之亦效  一方用牆上白蛛窠包胡椒末塞耳左痛塞右</hi>
+　<hi>右痛塞左手掩住側臥待額上有微汗即愈</hi>
+螲蟷<hi>拾遺</hi>
+<pb n="KR3e0079_WYG_096-19b"/>
+　釋名蛈蜴<hi>爾雅</hi>顛當蟲<hi>拾/遺</hi>蛈母<hi>綱/目</hi>土蜘蛛<hi>藏器曰螲蟷音窒當爾雅</hi>
+　<hi>作蛈蜴音迭湯今轉為顛當蟲河北人呼為蛈蟷音姪唐鬼谷子謂之蛈母</hi>
+　集解<hi>藏器曰螲蟷是處有之形似蜘蛛穴土為窠穴上有葢覆穴口時珍曰蛈蝪即爾雅土蜘蛛也</hi>
+　<hi>土中布網按段成式酉陽雜俎云齋前雨後多顛當窠深如蚓穴網絲其中土葢與地平大如榆莢常仰</hi>
+　<hi>捍其葢伺蠅蠖過輒翻葢捕之纔入復閉與地一色無隙可尋而蜂復食之秦中兒謡云顛當顛當牢守</hi>
+　<hi>門蠮螉冦汝無處奔</hi>
+　氣味有毒<lb/>
+　主治一切疔腫附骨疽蝕等瘡宿肉贅瘤燒為末和<lb/>
+<pb n="KR3e0079_WYG_096-20a"/>
+　臘月豬脂傅之亦可同諸藥傅疔腫出根為上<hi>藏器</hi>
+<graphic n="KR1652" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1652.png" mimeType="image/png"/>
+                    <hi>開寳</hi>
+　釋名蛜<graphic n="KR1417" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1417.png" mimeType="image/png"/>
+                    <hi>音伊祁</hi>主簿蟲<hi>開/寳</hi>杜白<hi>廣/雅</hi>蠆尾蟲<hi>志曰段成式酉陽雜</hi>
+　<hi>俎云江南舊無<graphic n="KR1652" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1652.png" mimeType="image/png"/>開元初有主簿以竹筒盛過江至今往往有之故俗稱為主簿蟲時珍曰按唐史云劒</hi>
+　<hi>南本無<graphic n="KR1652" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1652.png" mimeType="image/png"/>有主簿將至遂呼為主簿蟲又張揖廣雅/云杜白<graphic n="KR1652" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1652.png" mimeType="image/png"/>也陸璣詩疏云蠆一名杜白幽州人謂之</hi>
+　<hi>
+                        <graphic n="KR1652" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1652.png" mimeType="image/png"/>觀此則主簿乃杜白之訛而後人遂𫝊㑹其説許/慎云<graphic n="KR1652" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1652.png" mimeType="image/png"/>蠆尾蟲也長尾為薑短尾為<graphic n="KR1652" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1652.png" mimeType="image/png"/>葛洪云<graphic n="KR1652" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1652.png" mimeType="image/png"/>前</hi>
+　<hi>為螫後為蠆古語云蜂蠆垂芒其毒在尾今入藥有全用者謂之全<graphic n="KR1652" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1652.png" mimeType="image/png"/>有用尾者謂之<graphic n="KR1652" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1652.png" mimeType="image/png"/>稍其力尤𦂳</hi>
+　集解<hi>志曰<graphic n="KR1652" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1652.png" mimeType="image/png"/>出全州形𦂳小者良段成式云鼠負蟲/巨者多化為<graphic n="KR1652" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1652.png" mimeType="image/png"/>
+                        <graphic n="KR1652" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1652.png" mimeType="image/png"/>子多負於背子色白纔如稻</hi>
+<pb n="KR3e0079_WYG_096-20b"/>
+　<hi>粒陳州古倉有<graphic n="KR1652" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1652.png" mimeType="image/png"/>形如錢螫人必死蝸能食之先以跡矩之不復去也宗奭曰今青州山中石下捕得慢</hi>
+　<hi>火逼之或烈日中晒至<graphic n="KR1652" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1652.png" mimeType="image/png"/>渴時食以青泥既飽以火逼殺之故其色多赤欲其體重而售之也用者當去</hi>
+　<hi>其土頌曰今汴洛河陜州郡皆有之采無時以火逼乾死之陶隐居集驗方言<graphic n="KR1652" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1652.png" mimeType="image/png"/>有雌雄雄者螫人痛止</hi>
+　<hi>一處用井泥傅之雌者痛牽諸處用瓦溝下泥傅之皆可畫地作十字取土水服方寸匕或在手足以冷</hi>
+　<hi>水漬之微暖即易在身以水浸布搨之皆騐又有咒禁法亦驗時珍曰<graphic n="KR1652" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1652.png" mimeType="image/png"/>形如水黽八足而長尾有節色</hi>
+　<hi>青今捕者多以鹽泥食之入藥去足焙用古今録驗云被<graphic n="KR1652" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1652.png" mimeType="image/png"/>螫者但以水椀合之神驗不𫝊之方也</hi>
+　氣味甘辛平有毒<lb/>
+　主治諸風<g n="病-丙+_穩-禾">]□</g>疹及中風半身不遂口眼喎斜語澀手<lb/>
+<pb n="KR3e0079_WYG_096-21a"/>
+　足抽掣<hi>開寳</hi>小兒驚癎風搐大人痎瘧耳聾疝氣諸風<lb/>
+　瘡女人帶下隂脱<hi>時珍</hi>
+　發明<hi>宗奭曰大人小人通用驚風尤不可闕頌曰古今治中風抽掣及小兒驚搐方多用之篋中方</hi>
+　<hi>治小兒風癎有方時珍曰<graphic n="KR1652" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1652.png" mimeType="image/png"/>産於東方色青屬木足厥隂經藥也故治厥隂諸病諸風掉眩搐掣瘧疾寒</hi>
+　<hi>熱耳聾無聞皆屬厥隂風木故東垣李杲云凡疝氣帶下皆屬於風<graphic n="KR1652" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1652.png" mimeType="image/png"/>乃活風要藥俱宜加而用之</hi>
+　附方<hi>舊三新二十</hi>小兒臍風<hi>宣風散治初生斷臍後傷風濕唇青口撮出白沫不乳用</hi>
+　<hi>全<graphic n="KR1652" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1652.png" mimeType="image/png"/>二十一箇無灰酒塗炙為末入麝香少許毎用金銀煎湯調半字服之  全㓜心鑑</hi>小兒風<lb/>
+　癎<hi>取<graphic n="KR1652" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1652.png" mimeType="image/png"/>五枚以一大石榴割頭剜空納<graphic n="KR1652" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1652.png" mimeType="image/png"/>於中以頭葢之紙筋和黄泥封襄微火炙乾漸加火煅赤候</hi>
+<pb n="KR3e0079_WYG_096-21b"/>
+　<hi>冷去泥取中焦黒者細研乳汁調半錢灌之便定兒稍大以防風湯調服  篋中方</hi>慢脾驚風<lb/>
+　<hi>小兒久病後或吐㵼後生驚轉成慢脾用<graphic n="KR1652" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1652.png" mimeType="image/png"/>稍一兩為末以石榴一枚剜空用無灰酒調末填入葢定坐</hi>
+　<hi>文武火上時時攪動熬膏取出放冷毎服一字金銀簿荷湯調下  本事方治吐利後昏睡生瘋癎慢脾</hi>
+　<hi>症全<graphic n="KR1652" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1652.png" mimeType="image/png"/>白术麻黄去節等分為末一嵗以下一字三嵗以上半錢薄荷湯下</hi>天釣驚風<hi>翻眼</hi>
+　<hi>向上用乾<graphic n="KR1652" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1652.png" mimeType="image/png"/>全者一箇瓦炒好硃砂三緑豆大為末飯丸緑豆大外以硃砂少許同酒化下一丸頓愈</hi>
+　<hi>聖惠</hi>小兒胎驚<hi>
+                        <graphic n="KR1652" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1652.png" mimeType="image/png"/>一枚薄荷葉包炙為末入硃砂麝香少許麥門冬煎湯調下一字效  湯氏</hi>
+　<hi>寳書</hi>小兒驚風<hi>用<graphic n="KR1652" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1652.png" mimeType="image/png"/>一箇頭尾全者以薄荷四葉裹定火上炙焦同研為末分四服白湯下</hi>
+　<hi>經驗方</hi>大人風涎<hi>即上方/作一服</hi>風淫濕痺<hi>手足不舉筋節攣疼先與通闗次以</hi>
+<pb n="KR3e0079_WYG_096-22a"/>
+　<hi>全<graphic n="KR1652" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1652.png" mimeType="image/png"/>七箇瓦炒入麝香一字研匀酒三盞空心調服如覺已透則止未透再服如病未盡除自後専以婆</hi>
+　<hi>蒿根洗浄酒煎日二服  直指方</hi>破傷中風<hi>普濟用乾<graphic n="KR1652" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1652.png" mimeType="image/png"/>麝香各一分為末傅患處令風速</hi>
+　<hi>愈湯聖惠用乾<graphic n="KR1652" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1652.png" mimeType="image/png"/>酒炒天庥各半兩為末以蟾酥二錢  化為糊和搗丸緑豆大每服一丸至二丸豆淋</hi>
+　<hi>酒下甚者加至三丸取汁</hi>腎氣冷痛<hi>聖惠定痛丸治腎藏虚冷氣攻臍腹疼痛不可忍及兩脅</hi>
+　<hi>疼痛用乾<graphic n="KR1652" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1652.png" mimeType="image/png"/>七錢半焙為末以酒及童便各三升煎/如稠膏丸梧子大毎酒下二十丸  又蛜<graphic n="KR1417" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1417.png" mimeType="image/png"/>散用蛜</hi>
+　<hi>
+                        <graphic n="KR1417" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1417.png" mimeType="image/png"/>二十枚頭足全者掘一地坑深濶各五寸用炭火/五斤燒赤去火淋醋一升入内待滲乾排蛜<graphic n="KR1417" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1417.png" mimeType="image/png"/>於坑</hi>
+　<hi>底椀葢一夜取出木香蘿蔔子炒各二分胡椒三十粒梹榔肉豆蔲一箇為末毎服一錢熱酒下</hi>小<lb/>
+　腸疝氣<hi>用𦂳小全<graphic n="KR1652" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1652.png" mimeType="image/png"/>焙為末每發時服一錢入麝香半字温酒調服少頃再進神效</hi>腎虚<lb/>
+<pb n="KR3e0079_WYG_096-22b"/>
+　耳聾<hi>十年者二服可愈小<graphic n="KR1652" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1652.png" mimeType="image/png"/>四十丸箇生薑如<graphic n="KR1652" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1652.png" mimeType="image/png"/>大四十九片同炒薑乾為度研末温酒服之至一</hi>
+　<hi>二更時更進一服至醉不妨次日耳中如笙簧聲即效  杜壬方</hi>耳暴聾閉<hi>全蝎去毒為末</hi>
+　<hi>酒服一錢以耳中聞水聲即效  周宻志雅堂雜鈔</hi>膿耳疼痛<hi>
+                        <graphic n="KR1652" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1652.png" mimeType="image/png"/>稍七枚焙去毒入麝香半錢</hi>
+　<hi>為末挑少許入耳中日夜三四次以愈為度  楊氏家藏</hi>偏正頭風<hi>氣上攻不可/忍用全<graphic n="KR1652" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1652.png" mimeType="image/png"/>二</hi>
+　<hi>十一箇地龍六條土狗三箇五倍子五錢為末酒調攤貼太陽穴上  徳生堂經驗方</hi>風牙疼<lb/>
+　痛<hi>全<graphic n="KR1652" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1652.png" mimeType="image/png"/>三個蜂房二錢/炒研擦之  直指方</hi>腸風下血<hi>乾<graphic n="KR1652" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1652.png" mimeType="image/png"/>炒白礬燒各二兩為末每服半</hi>
+　<hi>錢米飲下  聖惠方</hi>子腸不收<hi>全<graphic n="KR1652" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1652.png" mimeType="image/png"/>炒研末口噙水鼻中畜之立效衛生寳鑑</hi>諸痔發<lb/>
+　癢<hi>用全<graphic n="KR1652" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1652.png" mimeType="image/png"/>不拘多少燒烟熏/之即效秘法也  袖珍方</hi>諸瘡毒腫<hi>全<graphic n="KR1652" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1652.png" mimeType="image/png"/>七枚巵子七箇麻油</hi>
+<pb n="KR3e0079_WYG_096-23a"/>
+　<hi>煎黒去滓入黄蠟化成膏傅之  澹療方</hi>
+水蛭<hi>本經下品</hi>
+　釋名蚑<hi>與蜞同爾雅作虮</hi>至掌<hi>别/録</hi>大者名馬蜞<hi>唐/本</hi>馬蛭<hi>唐本</hi>馬<lb/>
+　蟥<hi>衍義</hi>馬鼈<hi>衍義痴時珍曰方音訛蛭為痴故俗有水痴草  之稱宗奭曰汴人謂大者為馬鼈</hi>
+　<hi>腹黄者為馬蟥</hi>
+　集解<hi>别録曰水蛭生雷澤池澤五月六月采暴乾𢎞景曰處處河池有之蚑有數種以水中馬蜞得</hi>
+　<hi>囓人腹中有血者乾之為佳山蚑及諸小者皆不堪用恭曰有水蛭草蛭大者長尺許並能咂牛馬人血</hi>
+　<hi>今俗多取水中小者用之大效不必食人血滿腹者其草蛭在深山草中人行即著脛股不覺入於肉中</hi>
+<pb n="KR3e0079_WYG_096-23b"/>
+　<hi>産育為害山人自有療法保昇曰惟采水中小者用之别有石蛭生石上泥蛭生泥中二蛭頭尖腰粗色</hi>
+　<hi>赤誤食之令人眼中如生烟漸致枯損時珍曰李石續博物志云南方水痴以鼻涕聞人氣閃閃而動就</hi>
+　<hi>人體成瘡惟以麝香硃砂塗之即愈此即草蛭也</hi>
+　修治<hi>保昇曰采得以䈽竹筒盛待乾用米泔浸一夜暴乾以冬豬脂煎令焦黄然後用之藏器曰收</hi>
+　<hi>乾蛭當展其身令長腹中有子者去之性最難死雖以火炙亦如魚子煙熏經年得水尤活也大明曰此</hi>
+　<hi>物極難修治須細剉以微火炒色黄乃熟不爾入腹生子為害時珍曰昔有途行飲水及食水菜誤吞水</hi>
+　<hi>蛭入腹生子為害噉咂臟血腸痛黄瘦者惟以田泥或擂黄土水飲數升則必盡下出也葢蛭在人腹忽</hi>
+　<hi>得土氣而下爾或以牛羊熱血一二升同猪脂飲之亦下也</hi>
+<pb n="KR3e0079_WYG_096-24a"/>
+　氣味鹹苦平有毒<hi>别録曰微寒畏石灰食鹽</hi>
+　主治逐惡血瘀血月閉破血癥積聚無子利水道<hi>本經</hi>
+　墮胎<hi>别録</hi>治女子月閉欲成血勞<hi>藥性</hi>咂赤白游疹及癰<lb/>
+　腫毒腫<hi>藏器</hi>治折傷墜蹼畜血有功<hi>寇宗奭</hi>
+　發明<hi>成無已曰鹹定血苦勝血水蛭之鹹苦以除畜血乃肝經血分藥故能通肝經聚血𢎞景曰楚</hi>
+　<hi>王食寒俎見蛭吞之果能去結積雖曰隂祐亦是物性兼然藏器曰此物難死故為楚王之病也時珍曰</hi>
+　<hi>按賈誼新書云楚惠王食寒葅得蛭恐監食當死遂吞之腹有疾而不能食令尹曰天道無親惟徳是輔</hi>
+　<hi>王有仁徳病不為傷王病果愈此楚王吞蛭之事也王充論衡亦云蛭乃食血之蟲楚王殆有積血之病</hi>
+<pb n="KR3e0079_WYG_096-24b"/>
+　<hi>故食蛭而病愈也與陶説相符</hi>
+　附方<hi>舊四新六</hi>漏血不止<hi>水蛭炒為末酒服一錢日二服惡血消即愈  千金</hi>産後<lb/>
+　血暈<hi>血結聚於胸中或偏於少腹或連於脇肋用水蛭炒䖟䖝去翅足炒没藥麝香各一錢為末以</hi>
+　<hi>四物湯調下血下痛止仍服四物湯  保命集</hi>折傷疼痛<hi>水蛭新瓦焙為細末酒服二錢食頃</hi>
+　<hi>作痛可更一服痛止便將折骨藥封以物夾定調理  經驗方</hi>跌撲損傷<hi>瘀血凝滯心腹脹痛</hi>
+　<hi>大小便不通欲死用紅蛭石灰炒黄半兩大黄牽牛頭末各二兩為末毎服二錢熱酒調下當下惡血以</hi>
+　<hi>盡為度名奪命散  濟生</hi>墜跌打擊<hi>内傷神效方水蛭麝香各一兩剉碎燒令烟盡為末酒服</hi>
+　<hi>一錢當下畜血未止再服其效如神  古今録驗方</hi>杖瘡腫痛<hi>水蛭炒研同朴消等分研末水</hi>
+<pb n="KR3e0079_WYG_096-25a"/>
+　<hi>調傅之堂周宻志雅  抄</hi>赤白丹腫<hi>藏器曰以水蛭十餘枚令咂病處取皮皺肉白為效冬月</hi>
+　<hi>無蛭地中掘取暖水養之令動先浄人皮膚以竹筒盛蛭合之須臾咬咂血滿自脱更用飢者</hi>癰腫<lb/>
+　初起<hi>同上方法</hi>紉染白鬚<hi>談埜翁方用水蛭為極細末以龜尿調撚鬚稍自行入根也</hi>
+　<hi>一用白烏骨雞一隻殺血入瓶中納活水蛭數十於内待化成水以猪膽皮包指蘸撚鬚稍自黒入根也</hi>
+　<hi>盒普濟用大水蛭七枚為末汞一兩以銀三兩作小  盛之用蚯蚓泥固濟半指厚深埋馬糞中四十九</hi>
+　<hi>日取出化為黒油以魚脬籠指每蘸少許撚鬚上其油自然倒行至根變為黑色也  又黒鬚倒捲簾方</hi>
+　<hi>用大馬蜞二三十條竹筒裝之夜置露處受氣餓過七日以雞冠血磨京墨與食過四五次復隂乾將猪</hi>
+　<hi>脛骨打斷放蜞入内仍合定鐵線纒住鹽泥塗之乾時放地上火煅五寸香二次退開三寸火又五寸香</hi>
+<pb n="KR3e0079_WYG_096-25b"/>
+　<hi>三次再退逺火又五寸香取出為末將猪膽皮包指承末搽鬚稍即倒上也</hi>
+蟻<hi>綱目</hi>
+　釋名𤣥駒<hi>亦作蚼</hi>蚍蜉<hi>時珍曰蟻有君臣之義故字從義亦作螘大者為蚍蜉亦曰馬</hi>
+　<hi>蟻赤者名蠪飛者名螱楊雄方言云齊魯之間謂之蚼蟻梁益之間謂之𤣥蚼幽燕謂之蟻蛘夏小正云</hi>
+　<hi>十二月𤣥蚼奔謂蟻入蟄也大蟻喜酣戰故有馬駒之稱而崔豹古今注遂以蟻妖附㑹其説謬矣今不</hi>
+　<hi>取</hi>
+　集解<hi>時珍曰蟻處處有之有大小黒白黄赤數種穴居卵生其居有等其行有隊能知雨候春出冬</hi>
+　<hi>蟄壅土成封曰蟻封又曰蟻垤蟻塿蟻冡壯其如封垤塿冡也其卵名蚳音遲山人掘之有至斗石者古</hi>
+<pb n="KR3e0079_WYG_096-26a"/>
+　<hi>人食之故内則周官饋食之豆者蚳醢也今惟南夷食之劉恂嶺表録異云交廣溪峒間酋長多取蟻卵</hi>
+　<hi>淘浄為醬云味似肉醤非尊貴不可得也又云嶺南多蟻其窠如薄絮嚢連帶枝葉彼人以布袋貯之賣</hi>
+　<hi>與養柑子者以辟蠧蟲五行記云後魏時兖州有赤蟻與黒蟻鬬長六七步廣四寸赤蟻斷頭死則離騷</hi>
+　<hi>所謂南方赤蟻若象𤣥蜂若壺者非寓言也又按陳藏器言嶺南有獨脚蟻一足連樹根下止能動揺不</hi>
+　<hi>能脱去亦一異者也</hi>
+　附録白蟻<hi>時珍曰白蟻即蟻之白者一名螱一名飛螘穴地而居蠧木而食因濕營土大為物</hi>
+　<hi>害初生為蟻蝝至夏遺卵生翼而飛則變黒色尋亦隕死性畏烰炭桐油竹雞云  蝝音鈆</hi>蟻蛭<lb/>
+　土　白蟻泥<hi>並見土部</hi>
+<pb n="KR3e0079_WYG_096-26b"/>
+　獨脚蟻主治丁腫疽毒搗塗之<hi>藏器</hi>
+青腰蟲<hi>拾遺</hi>
+　集解<hi>藏器曰蟲大如中蟻赤色腰中青黒似狗猲一尾而尖有短翅能飛春夏有之也</hi>
+　主治有大毒著人皮肉腫起剝人面皮除印字至骨<lb/>
+　者亦盡食惡瘡瘜肉殺癬䖝<hi>藏器</hi>
+蛆<hi>綱目</hi>
+　釋名<hi>時珍曰蛆行趦趄故謂之蛆或云沮洳則生亦通</hi>
+　集解<hi>時珍曰蛆蠅之子也凡物敗臭則生之古法治醤生蛆以草烏切片投之張子和治癰疽瘡瘍</hi>
+<pb n="KR3e0079_WYG_096-27a"/>
+　<hi>生蛆以木香梹榔散末傅之李樓治爛痘生蛆以嫩柳葉鋪臥引出之髙武用猪肉片引出以黎盧貫衆</hi>
+　<hi>白歛為末用真香油調傅之也</hi>
+　氣味寒無毒<lb/>
+　主治糞中蛆治小兒諸疳積疳瘡熱病譫妄毒痢作<lb/>
+　吐<lb/>
+　泥中蛆治目赤洗浄晒研貼之<lb/>
+　馬肉蛆治鍼箭入肉中及取蟲牙<lb/>
+　<graphic n="KR1961" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1961.png" mimeType="image/png"/>蟇肉蛆治小兒諸疳<hi>並時珍</hi>
+<pb n="KR3e0079_WYG_096-27b"/>
+　附方<hi>新十</hi>一切疳疾<hi>聖濟總録六月取糞坑中蛆淘浄入竹筒中封之待乾研末每服一</hi>
+　<hi>二錢入麝香米飲服之三又方用蛆蜕米疳逐日換浸五日再以清水換浸  日晒焙為末入黄連末等</hi>
+　<hi>分毎半兩入麝香五分以豶猪胆汁和丸黍米大每服三四十丸米飲下神效</hi>小兒熱疳<hi>尿如</hi>
+　<hi>米泔大便不調糞蛆燒灰雜物與食之</hi>小兒痺積<hi>用糞中蛆洗浸晒乾為末入甘草末少許</hi>
+　<hi>米糊丸梧子大每服五七丸米飲下甚妙  總微論</hi>小兒諸疳<hi>疳積及無辜疳一服退熱二服</hi>
+　<hi>煩渴止三服瀉痢住用端午午時取<graphic n="KR1961" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1961.png" mimeType="image/png"/>蟇金眼大腹不跳不鳴者槌死置尿桶中候生蛆食盡取蛆入新</hi>
+　<hi>布袋懸長流水中三月新瓦焙乾入麝香少許為末毎空心以砂糖湯調服一錢或粳米糊為丸每米飲</hi>
+　<hi>服二三十丸  直指</hi>齒鼻疳瘡<hi>糞蛆有尾者燒灰一錢褐衣灰五分和匀頻吹神效無比</hi>熱<lb/>
+<pb n="KR3e0079_WYG_096-28a"/>
+　痢吐食<hi>因服熱藥而致者用糞中蛆流水洗浄晒乾為末每服一錢米飲下</hi>眼目赤瞎<lb/>
+　<hi>青泥中蛆淘浄日乾為末令患人仰臥合目毎次用一錢散目上須臾藥行待少時去藥赤瞎亦然  保</hi>
+　<hi>命集</hi>利骨取牙<hi>普濟如神散取牙用肥赤馬肉一斤入/<graphic n="KR1288" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1288.png" mimeType="image/png"/>砂二兩拌和候生蛆取日乾為末毎</hi>
+　<hi>一兩入粉霜五分研匀先以鍼發動牙根四畔空虚次以燈心蘸末少許㸃之良久自落  秘韞利骨散</hi>
+　<hi>用白馬腦上肉一二斤待生蛆與烏骨白雞一隻食之取糞隂乾每一錢入<graphic n="KR1288" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1288.png" mimeType="image/png"/>砂一錢研匀用少許擦疼</hi>
+　<hi>處片時取之即落</hi>
+蠅<hi>綱目</hi>
+　釋名<hi>時珍曰蠅飛營營其聲自呼故名</hi>
+<pb n="KR3e0079_WYG_096-28b"/>
+　集解<hi>時珍曰蠅處處有之夏出冬蟄喜煖惡寒蒼者聲雄壯負金者聲清括青者糞能敗物巨者首</hi>
+　<hi>如火麻者茅根所化蠅聲在鼻而足喜交其蛆胎生蛆入灰中蜕化為蠅如蠶<graphic n="KR1652" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1652.png" mimeType="image/png"/>之化蛾也蠅溺水死得</hi>
+　<hi>灰復活故淮南子云爛灰生蠅古人憎之多有辟法一種小蟢蛛専捕食之謂之蠅虎者是也</hi>
+　主治拳毛倒睫以臘月蟄蠅乾研為末以鼻頻嗅之<lb/>
+　即愈<hi>時珍</hi>
+　發明<hi>時珍曰蠅古方未見用者近時普濟方載此法云出海上名方也</hi>
+狗蠅<hi>綱目</hi>
+　集解<hi>時珍曰狗蠅生狗身上狀如蠅黄色能飛堅皮利喙噉咂狗血冬月則藏狗耳中</hi>
+<pb n="KR3e0079_WYG_096-29a"/>
+　氣味㣲毒<lb/>
+　主治痰瘧不止活取一枚去翅足麫裹為丸衣以黄<lb/>
+　丹發日早米飲吞之得吐即止或以臘丸酒服亦可<lb/>
+　又擂酒服治痘瘡倒黶<hi>時珍</hi>
+　發明<hi>時珍曰狗蠅古方未見用者近世醫方大成載治瘧方齊東埜語載托痘方葢亦䑕負牛蝨之</hi>
+　<hi>類耳周宻云同僚括蒼陳坡老儒也言其孫三嵗時發熱七日痘出而倒黶色黒唇口冰冷危證也遍試</hi>
+　<hi>諸藥不效因求卜遇一士告以故士曰恰有藥可起此疾甚奇因為經營少許持歸服之移時即紅潤也</hi>
+　<hi>常懇求其方乃用狗蠅七枚擂細和醅酒少許調服爾夫痘瘡固是危事然不可擾大要在固臟氣之外</hi>
+<pb n="KR3e0079_WYG_096-29b"/>
+　<hi>任其自然爾然或有變證則不得不資于藥也</hi>
+　附録壁蝨<hi>時珍曰即臭蟲也狀如酸棗仁咂人血食與蚤皆為床榻之害古人多于蓆下置麝</hi>
+　<hi>香雄黄或菖蒲末或蒴藿末或揀花末或蓼末或燒木𤓰烟黄蘗烟牛角烟馬蹄烟以辟之也</hi>
+牛蝨<hi>綱目</hi>
+　釋名牛螕<hi>音卑時珍曰螕亦作蜱按吕忱字林云螕囓牛蝨也</hi>
+　集解<hi>時珍曰牛蝨生牛身上狀如蜱麻子有黒白二色囓血滿腹時自墜落也入藥用白色者</hi>
+　氣味㣲毒<lb/>
+　主治預解小兒痘疹毒焙研服之<hi>時珍</hi>
+<pb n="KR3e0079_WYG_096-30a"/>
+　發明<hi>時珍曰牛蝨古方未見用者近世預解痘毒方時或用之按髙仲武痘疹管見云世俗用牛蝨</hi>
+　<hi>治痘攷之本草不載竊恐牛蝨啖血例此䖟䖝終非痘家所宜而毒亦未必能解也</hi>
+　附方<hi>新一</hi>預解痘毒<hi>譚野翁方用白水牛蝨一嵗一枚和米粉作餅與兒空腹食之取下</hi>
+　<hi>惡糞終身可免痘瘡之患四一方用白牛蝨四十九枚焙緑豆四十九粒硃砂  分九釐研末蜜丸小豆</hi>
+　<hi>大以緑豆湯下</hi>
+人蝨<hi>拾遺</hi>
+　釋名虱<hi>時珍曰蝨從虱從蟲卂音迅蟲音昆蝨行迅疾而昆繁故也俗作虱</hi>
+　集解<hi>慎微曰按酉陽雜俎云人將死蝨離身或云取病人蝨於床前可卜病如蝨行向病者必死也</hi>
+<pb n="KR3e0079_WYG_096-30b"/>
+　<hi>荆州張典兵曽捫得兩頭蝨也時珍曰人物皆有蟲但形各不同始由氣化而後乃遺卵出蟣也草木子</hi>
+　<hi>言其六足行必向北抱朴子云頭蝨黒著身而白身蝨白著頭變黒所漸然也又有蝨癥蝨瘤諸方法可</hi>
+　<hi>見蝨之為害非小也千金方云有人囓蝨在腹中生長為癥能斃人用敗箆敗梳各以一半燒末一半煮</hi>
+　<hi>湯調服即從下部出也徐炫稽神録云浮梁李生背起如盂惟痒不可忍人皆不識醫士秦徳立云此蝨</hi>
+　<hi>瘤也以藥傅之一夕瘤破出蝨斗餘即日體輕但小竅不合時時蝨出無數竟死予記唐小説載滑臺一</hi>
+　<hi>人病此賈魏公言惟千年木梳燒灰及黄龍浴水乃能治之也洪邁夷堅志云臨川有人頰生瘤痒不可</hi>
+　<hi>忍惟以火炙一醫剖之出蝨無數最後出二大蝨一黒一白頓愈亦無瘢痕此蝨瘤也又今人隂毛中多</hi>
+　<hi>生隂蝨痒不可當肉中挑出皆八足而扁或白或紅古方不載醫以銀杏擦之或銀硃熏之皆愈也</hi>
+<pb n="KR3e0079_WYG_096-31a"/>
+　氣味鹽平微毒<hi>畏水銀銀硃百部菖蒲蝨建草木中竹葉赤龍<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>空</hi>
+　主治人大發頭熱者令腦縫裂開取黒蝨三五百搗<lb/>
+　傅之又治疔腫以十枚置瘡上用荻箔繩作炷炙蝨<lb/>
+　上即根出也又治脚指間肉刺瘡以黒蝨傅之根亦<lb/>
+　出也<hi>藏器</hi>眼毛倒睫者<hi>拔去毛以蝨血㸃上數次即愈  時珍</hi>
+　附方<hi>新一</hi>脚指雞眼<hi>先挑破取黒白蝨各一枚置於上縛之數用自愈也  便民圖纂</hi>
+　<lb/>
+　<lb/>
+<pb n="KR3e0079_WYG_096-31b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　本草綱目卷四十<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

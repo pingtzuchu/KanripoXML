@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>新安文獻志</head>
+    <p>
+<pb n="KR4h0103_WYG_000-1a"/>
+欽定四庫全書　　　　　集部八<lb/>
+　新安文獻志　　　　　　總集類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案新安文獻志一百巻明程敏政撰<lb/>
+　　　　敏政字克勤休寧人幼以神童召試詔讀書<lb/>
+　　　　翰林院中成化丙戌進士授編修厯官禮部<lb/>
+　　　　右侍郎贈禮部尚書事蹟具明史儒林傳是<lb/>
+　　　　書乃採録南北朝以後文章事蹟之有闗於<lb/>
+<pb n="KR4h0103_WYG_000-1b"/>
+　　　　新安者其六十巻以上為甲集皆本郡先達<lb/>
+　　　　詩文畧依真徳秀文章正宗之例分類輯録<lb/>
+　　　　其六十一巻以下則皆先達行實不必盡出<lb/>
+　　　　郡人所論撰分神蹟道原忠孝儒碩勲賢風<lb/>
+　　　　節才望吏治遺逸世徳寓公文苑材武列女<lb/>
+　　　　方技十五目其中有應考訂者敏政復間以<lb/>
+　　　　己意㕘核而附注之徵引繁博條理淹貫凡<lb/>
+　　　　徽州一郡之典故薈萃極為賅備遺文軼事<lb/>
+<pb n="KR4h0103_WYG_000-2a"/>
+　　　　咸得藉以考見大凡故自明以来推為鉅製<lb/>
+　　　　其中小小蹖駮者如凡例稱朱子詩文録其<lb/>
+　　　　涉於新安者而通判泰州江君墓銘竟爾見<lb/>
+　　　　遺又朱子所作其父松行狀松所作其父森<lb/>
+　　　　行狀既已並收而松韋齋集中有録曾祖父<lb/>
+　　　　詩後序一篇又復不録皆不免於脱畧然司<lb/>
+　　　　馬光資治通鑑已稱牴牾不能自保是書巻<lb/>
+　　　　帙繁重未可以稍有掛漏遂掩其蒐輯之功<lb/>
+<pb n="KR4h0103_WYG_000-2b"/>
+　　　　也乾隆四十三年六月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

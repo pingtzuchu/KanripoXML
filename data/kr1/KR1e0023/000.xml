@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>春秋意林</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　經部五<lb/>
+　春秋意林　　　　　　春秋類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案春秋意林二卷宋劉敞撰宋史藝文志<lb/>
+　　　　作二卷王應麟玉海作五卷馬端臨經籍考則併<lb/>
+　　　　春秋權衡春秋𫝊春秋意林總題三十四卷今考<lb/>
+　　　　權衡寔十七卷𫝊寔十五卷合以意林二卷<lb/>
+　　　　正得三十四卷與宋志合則玉海作五卷𫝊<lb/>
+<pb n="1b"/>
+　　　　寫誤也元呉萊常作是書後序云劉子作春<lb/>
+　　　　秋權衡自稱書成世無有能讀者至意林猶<lb/>
+　　　　未脱稿多遺闕今觀其書或僅標經文數字<lb/>
+　　　　不置一詞或草草數言文不相屬而下註云<lb/>
+　　　　云二字或一條之下别標他目一兩字與本<lb/>
+　　　　文逈不相閒或佶屈聱牙猝難句讀或僅引<lb/>
+　　　　其端而詞如未畢其為隨筆劄記屬稿未竟<lb/>
+　　　　之書顯然可証萊所説誠不誣也又敞既苦<lb/>
+<pb n="2a"/>
+　　　　志研求運意深曲又好雕琢其詞使在可解<lb/>
+　　　　不可解之間然考葉夢得石林春秋𫝊稱不<lb/>
+　　　　知經者以其難入或詆以為用意太過出于<lb/>
+　　　　穿鑿然熟讀深思其間正名分别嫌疑大義<lb/>
+　　　　微言灼然聖人之意者亦頗不少文體之澁<lb/>
+　　　　存而不論可矣乾隆四十五年二月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

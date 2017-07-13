@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2a0029_WYG_214-1a"/>
+　舊五代史卷一百七考證<lb/>
+漢列傳四史𢎞肇傳有燕人何福殷者　案歐陽史作<lb/>
+　何福進疑訛<lb/>
+乾祐三年冬十一月十三日𢎞肇入朝　十一月歐陽<lb/>
+　史漢臣傳作十月呉縝纂誤云漢隐帝紀周太祖紀<lb/>
+　俱作十一月傳誤也<lb/>
+楊邠傳用為左都押衙　左都歐陽史作右都<lb/>
+李業附傳業昆仲凢六人　案昭聖太后弟六人洪信<lb/>
+<pb n="KR2a0029_WYG_214-1b"/>
+　洪義宋史作昆弟七人<lb/>
+閻晋卿傳賊平為内客省使　案宋史李韜傳載晋卿<lb/>
+　討賊時已為客省使是書作賊平之後始授此職與<lb/>
+　宋史異<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　舊五代史卷一百七攷證<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

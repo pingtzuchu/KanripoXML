@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2n0002_SBCK_013-1a"/>
+二本四卷考異<lb/>
+　　　三種書同而名異<lb/>
+　袁本毗陵易傳十一卷　衢本作東坡易傳<lb/>
+　袁本芸閣先生易解一卷　衢本作吕氏章句易<lb/>
+　袁本陳叔易詩一卷　衢本作澗上丈人詩<lb/>
+　　　二十一種所載入類不同<lb/>
+　晁以道易玄星紀譜一卷<lb/>
+　左氏綱領四卷<lb/>
+　左氏䝉求三卷<lb/>
+　押韻一卷<lb/>
+<pb n="KR2n0002_SBCK_013-1b"/>
+　漁樵問對一卷<lb/>
+　程氏雜説一卷<lb/>
+　儒言一卷<lb/>
+　信聞記一卷<lb/>
+　　　　以上袁本經類　衢本子類<lb/>
+　古樂府十卷<lb/>
+　樂府古題要解十卷<lb/>
+　玉臺新詠十卷<lb/>
+　玉臺後集十卷<lb/>
+　　　　以上袁本經類　衢本集類<lb/>
+<pb n="KR2n0002_SBCK_013-2a"/>
+　松牎録一卷<lb/>
+　太和辨謗略三卷<lb/>
+　　　　以上袁本史類　衢本集類<lb/>
+　神仙傳十卷<lb/>
+　王氏神仙傳四卷<lb/>
+　高僧傳二卷<lb/>
+　求法高僧傳十卷<lb/>
+　僧寳傳三十二卷<lb/>
+　　　　以上袁本子類　衢本史類<lb/>
+　馭臣鑒古二十卷<lb/>
+<pb n="KR2n0002_SBCK_013-2b"/>
+　汲古論一卷<lb/>
+　　　　以上袁本集類　衢本子類<lb/>
+　　　二十九種袁本所載　衢本所遺<lb/>
+　六家經要四卷<lb/>
+　淳化法帖十卷<lb/>
+　武陵法帖二十二卷<lb/>
+　王曾筆録一卷<lb/>
+　英宗朝諸臣列傳三卷<lb/>
+　本朝事實三十卷<lb/>
+　青唐録二卷<lb/>
+<pb n="KR2n0002_SBCK_013-3a"/>
+　忠臣逆臣傳三卷<lb/>
+　藝文志見闕書目一卷<lb/>
+　酒經三卷<lb/>
+　晉公談録一卷<lb/>
+　該聞録十卷<lb/>
+　漫叟見聞録一卷<lb/>
+　劉辣小説五卷<lb/>
+　左氏要類<lb/>
+　職林二十卷<lb/>
+　骨鯁集二十卷<lb/>
+<pb n="KR2n0002_SBCK_013-3b"/>
+　蘇沈良方十五卷<lb/>
+　維摩詰所説經三卷<lb/>
+　六祖壇經二卷<lb/>
+　脩已金剛經㫖要一卷<lb/>
+　錦囊集一卷<lb/>
+　員半千三蓮集二十卷<lb/>
+　余氏至言十八卷<lb/>
+　藏寂軒文集<lb/>
+　趙延持盈要論<lb/>
+　聖紹堯章集十卷<lb/>
+<pb n="KR2n0002_SBCK_013-4a"/>
+　藝圃折衷六卷<lb/>
+　政和文選二十卷<lb/>
+<pb n="KR2n0002_SBCK_013-4b"/>
+</p>
+<p>
+二本四卷考異<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

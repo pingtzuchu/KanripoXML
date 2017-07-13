@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_209-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選巻二百九<lb/>
+　　投壺類<lb/>
+　　　七言律<lb/>
+　　　　郡閣閱書投壺和呈相國晏公<lb/>
+　　　　　　　　　　　　　　　　<hi>宋</hi>梅堯臣<lb/>
+　較量人世無窮樂羅列平生未見書聊奉投壺祭征虜<lb/>
+　休言擊劒馬相如畫樓晩去聞寒角縹帙看來落蠧魚<lb/>
+<pb n="KR4h0141_WYG_209-1b"/>
+　日獲誨言皆舊學不愁貧賤帶經鋤<lb/>
+　　　　時雨用東圃韻寫懐兼惠栁木壺矢<lb/>
+　　　　　　　　　　　　　　　　<hi>明</hi>顧　清<lb/>
+　束矢形裁出薊方㡬陪陳榻署東廊爭梟解奪由基巧<lb/>
+　失笑曽聞玉女忙分遺却隨詩併至試投誰合酒先嘗<lb/>
+　春風有約應非逺拍甕新醅夜已香<lb/>
+　　　七言絶句<lb/>
+　　　　小遊仙詩　　　　　　　　<hi>唐</hi>曹　唐<lb/>
+<pb n="KR4h0141_WYG_209-2a"/>
+　彤閣鐘鳴碧鷺飛皇君催熨紫霞衣丹房玉女心慵甚<lb/>
+　貪看投壺不肯歸<lb/>
+　　　　其二<lb/>
+　北斗西風吹白榆木公相笑夜投壺花前玉女來相問<lb/>
+　賭得青龍許贖無<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR4h0141_WYG_209-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選巻二百九<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

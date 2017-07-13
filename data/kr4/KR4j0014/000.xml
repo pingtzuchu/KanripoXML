@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>東堂詞</head>
+    <p>
+<pb n="KR4j0014_WYG_000-1a"/>
+欽定四庫全書　　　　　集部十<lb/>
+　東堂詞　　　　　　　　詞曲類一<hi>詞集之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案東堂詞一巻宋毛滂撰滂字澤民<lb/>
+　　　　江山人宋史藝文志載滂有東堂集十五巻<lb/>
+　　　　闕佚已久今從永樂大典所載採輯成書巳<lb/>
+　　　　別著録此詞一巻則毛晉所刻本也馬端臨<lb/>
+　　　　經籍考載東堂詞一巻併引百家詩序稱其<lb/>
+<pb n="KR4j0014_WYG_000-1b"/>
+　　　　為杭州法曹時以贈妓詞今夜山深處斷魂<lb/>
+　　　　分付潮回去句見賞於蘇軾其詞為惜分飛<lb/>
+　　　　今載集中然集中有太師生辰詞數首寔為<lb/>
+　　　　蔡京作揮麈後録又載其初附曾布後附蔡<lb/>
+　　　　卞在卞席上賦鴛鴦詩有惟戀恩波不肯飛<lb/>
+　　　　句致卞妻王氏有適從曾相公池中飛来之<lb/>
+　　　　誚則滂寔非端人方回瀛奎律髓乃以為守<lb/>
+　　　　正之士葢偶未及考其詞則清韻特勝陳振<lb/>
+<pb n="KR4j0014_WYG_000-2a"/>
+　　　　孫謂滂他詞雖工終無及蘇軾所賞一首者<lb/>
+　　　　亦隨人作計之見非篤論也滂令武康時改<lb/>
+　　　　盡心堂為東堂集中驀山溪一闋自注其事<lb/>
+　　　　甚悉故因以名集傳寫頗多闕文無從考補<lb/>
+　　　　今姑仍其舊焉乾隆四十四年三月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

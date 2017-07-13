@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>八旗滿洲氏族通譜目録</head> <lb/>
+    <p>
+<pb n="KR2g0044_WYG_086-1a"/>
+欽定四庫全書<lb/>
+　八旗滿洲氏族通譜目録<lb/>
+　　卷四十三<lb/>
+　　喜塔臘氏<lb/>
+　　　昻果都理巴顔　　　薩璧圖<lb/>
+　　　禪察都都　　　　　孔郭羅<lb/>
+　　　阿塔　　　　　　　布爾海<lb/>
+　　　艾蘇　　　　　　　愛圖喀<lb/>
+<pb n="KR2g0044_WYG_086-1b"/>
+　　　圖雅齊　　　　　　岳羅<lb/>
+　　　瑚桑阿<lb/>
+　　　　　以上俱有傳<lb/>
+　　　郎吉納　　　　　　巴星阿<lb/>
+　　　畢業素　　　　　　穆哈納<lb/>
+　　　業成格　　　　　　雅爾拜<lb/>
+　　　額圖理　　　　　　阿寧達理<lb/>
+　　　温普　　　　　　　溫達錫<lb/>
+<pb n="KR2g0044_WYG_086-2a"/>
+　　　瑪爾漢　　　　　喀柱<lb/>
+　　　楊崇阿　　　　　騰果<lb/>
+　　　班布理　　　　　蘇瓦顔<lb/>
+　　　扎蘇　　　　　　伊克賽<lb/>
+　　　哈克薩哈　　　　錫特庫<lb/>
+　　　羅克索　　　　　托布理<lb/>
+　　　那爾泰　　　　　遜塔<lb/>
+　　　瑪拉　　　　　　布舒庫<lb/>
+<pb n="KR2g0044_WYG_086-2b"/>
+　　　穆謄　　　　　　瑚錫圖<lb/>
+　　　德䝉額　　　　　岱蘇<lb/>
+　　　塞德理<lb/>
+　　　　　以上俱附載<lb/>
+　　秦楚魯氏<lb/>
+　　　卓和諾<lb/>
+　　　　　右係有傳<lb/>
+　　　哈柳克　　　　　馬克圖<lb/>
+<pb n="KR2g0044_WYG_086-3a"/>
+　　　貝努<lb/>
+　　　　　以上俱附載<lb/>
+　　性佳氏<lb/>
+　　　福瑚　　　　　　　巴都理<lb/>
+　　　剛格<lb/>
+　　　　　以上俱有傳<lb/>
+　　　性操宗　　　　　　和德<lb/>
+　　　漢都　　　　　　　三丹<lb/>
+<pb n="KR2g0044_WYG_086-3b"/>
+　　　倫圖　　　　　　　鼐琥<lb/>
+　　　索羅喜　　　　　　賴塔<lb/>
+　　　　　以上俱附載<lb/>
+　　穆爾察氏<lb/>
+　　　尼揚達　　　　　　扎努喀<lb/>
+　　　　　以上俱有傳<lb/>
+　　　拜穆哈　　　　　　佛訥亨<lb/>
+　　　外色納　　　　　　塔濟<lb/>
+<pb n="KR2g0044_WYG_086-4a"/>
+　　　福拉塔　　　　　　塔克圖<lb/>
+　　　　　以上俱附載<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

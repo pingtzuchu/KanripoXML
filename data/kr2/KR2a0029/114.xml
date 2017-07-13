@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2a0029_WYG_114-1a"/>
+　舊五代史巻五十六攷證<lb/>
+唐列𫝊八周徳威𫝊有陳章者以虓勇知名衆謂之夜<lb/>
+　乂言於叔琮曰晉人所恃者周陽五願擒之請賞以<lb/>
+　郡　案歐陽史作梁軍圍太原令軍中曰能生得周<lb/>
+　陽五者為刺史與是書微異<lb/>
+徳威前軍營横碾　横碾莊宗紀作黄展<lb/>
+徳威自率精騎擊其兩偏獲賊百餘人賊渡河而退徳<lb/>
+　威謂莊宗曰賊驕氣充盛宜按兵以待其衰　案歐<lb/>
+<pb n="KR2a0029_WYG_114-1b"/>
+　陽史祗載徳威勉諭其衆即告莊宗曰賊兵甚鋭未<lb/>
+　可與争不載精騎擊退賊兵之事考下文有去賊咫<lb/>
+　尺限此一渠水云云則賊渡河而退一節紀載殊不<lb/>
+　可闕<lb/>
+徳威遣將擒數十人皆倳刃於背縶而遣之　案通鑑<lb/>
+　從莊宗實録作擒其斥候者數十人斷腕而縱之<lb/>
+周侍中已據宗城矣　宗城通鑑作臨清考異曰劉鄩<lb/>
+　見在宗城薛史云周侍中據宗城盖臨清字誤耳<lb/>
+<pb n="KR2a0029_WYG_114-2a"/>
+符存審傳以功遙領邢洺磁團練使　案歐陽史作遷<lb/>
+　領邢州團練使<lb/>
+秋邢州閻寶降授存審安國軍節度　案五代㑹要同<lb/>
+　光元年始改邢州為安國軍据是書此傳則晉人得<lb/>
+　邢州即改軍額疑㑹要誤也詳見通鑑考異<lb/>
+符彦超傳皇弟存霸單騎奔河東與吕鄭謀殺彦超與<lb/>
+　留守張憲　案歐陽史作張憲欲納存霸是書作存<lb/>
+　霸謀殺張憲彦超兩史紀載微異<lb/>
+<pb n="KR2a0029_WYG_114-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　舊五代史巻五十六攷證<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

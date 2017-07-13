@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2d0010_WYG_038-1a"/>
+欽定四庫全書<lb/>
+欽定重訂大金國志卷三十八<lb/>
+　　京府州軍<lb/>
+　　　統分天下二十路<lb/>
+中都路　　南京路　　西京路　　東京路<lb/>
+北京路　　臨潢府路　㑹寧府路　咸平府路<lb/>
+河北東路　河北西路　河東南路　河東北路<lb/>
+山東東路　山東西路　大名府路　京兆府路<lb/>
+<pb n="KR2d0010_WYG_038-1b"/>
+鄜延路　　慶原路　　熈河路<hi>金史作臨洮路</hi>秦鳳路<hi>金史作鳳翔路</hi>
+　　京府都鎮防禦州軍等級<lb/>
+　　　京都留守司六處<lb/>
+　　　　上等二處<lb/>
+中都<hi>大興府</hi>南京<hi>開封府</hi>
+　　　　中等四處<lb/>
+北京<hi>大定府</hi>東京<hi>遼陽府/</hi>西京<hi>大同府/</hi>上京<hi>㑹寧府地名金源</hi>
+　　　都運司一處<lb/>
+<pb n="KR2d0010_WYG_038-2a"/>
+中都路<hi>大興府置司</hi>
+　　　轉運司十三處<lb/>
+南京路<hi>開封置司</hi>北京路<hi>大定/置司</hi>西京路<hi>大同/置司</hi>東京路<hi>咸平置司</hi>
+河東南路<hi>平陽置司</hi>河東北路<hi>太原/置司</hi>山東東路<hi>益都置司</hi>山東西<lb/>
+路<hi>東平置司</hi>河北東路<hi>河間/置司</hi>河北西路<hi>真定/置司</hi>陜西東路<hi>京兆置司</hi>
+陜西西路<hi>平涼置司</hi>㑹寧府路<hi>隆州置司</hi>
+　　　統軍司三處<lb/>
+南京路<hi>南京置司</hi>陜西路<hi>京北/置司</hi>山東東路<hi>益都置司</hi>
+<pb n="KR2d0010_WYG_038-2b"/>
+　　　招討司三處<lb/>
+西南路<hi>豐州置司</hi>西北路<hi>桓州/置司</hi>東北路<hi>泰州置司</hi>
+　　　提刑司九處<lb/>
+中都西京路<hi>大同置司</hi>南京路<hi>南京/置司</hi>北京臨潢路<hi>臨潢置司</hi>東京<lb/>
+咸平府路<hi>東京置司</hi>上京海蘭等路<hi>上京/置司</hi>河東南北路<hi>汾州置司</hi>
+河北東西大名府路<hi>河間置司</hi>陜西東西等路<hi>平涼置司</hi>山東東<lb/>
+西路<hi>濟南置司</hi>
+　　　總管府十四處<lb/>
+<pb n="KR2d0010_WYG_038-3a"/>
+　　　　上等七處<lb/>
+平陽府<hi>建雄軍</hi>真定府<hi>成徳/軍</hi>益都府<hi>鎮海/軍</hi>東平府<hi>天平軍</hi>京<lb/>
+兆府<hi>永興軍</hi>太原府<hi>武勇/軍</hi>大名府<hi>天雄軍</hi>
+　　　　中等四處<lb/>
+河間府<hi>瀛海軍</hi>慶陽府<hi>安國/軍</hi>臨洮府<hi>鎮洮/軍</hi>鳳翔府<hi>鳳翔軍</hi>
+　　　　下等三處<lb/>
+延安府<hi>彰武軍</hi>咸平府<hi>安東/軍</hi>臨潢府<hi>地名西樓</hi>
+　　　散府八處<hi>按金圖經散府九有㑹寧府而京惟五葢海陵曾廢上京改為散府也</hi>
+<pb n="KR2d0010_WYG_038-3b"/>
+　　　　上等二處<lb/>
+河中府<hi>䕶國軍</hi>濟南府<hi>興徳軍</hi>
+　　　　中等三處<lb/>
+歸徳府<hi>宣武軍</hi>河南府<hi>徳昌/軍</hi>平涼府<hi>平涼軍</hi>
+　　　　下等三處<lb/>
+廣寧府<hi>鎮寧軍</hi>興中府<hi>彰武/軍</hi>彰徳府<hi>彰徳軍</hi>
+　　　節鎮三十九處<lb/>
+　　　　上等十處<lb/>
+<pb n="KR2d0010_WYG_038-4a"/>
+絳州<hi>絳陽軍</hi>定州<hi>定武/軍</hi>懐州<hi>沁南/軍</hi>萊州<hi>定海/軍</hi>密州<hi>安化軍</hi>滄<lb/>
+州<hi>横海軍</hi>潞州<hi>昭義/軍</hi>汾州<hi>汾陽/軍</hi>冀州<hi>安武/軍</hi>邢州<hi>安國軍</hi>
+　　　　中等十處<lb/>
+代州<hi>震武軍</hi>同州<hi>定國/軍</hi>雄州<hi>永定/軍</hi>保州<hi>順天/軍</hi>兖州<hi>泰定軍</hi>邠<lb/>
+州<hi>靜難軍</hi>涇州<hi>彰化/軍</hi>朔州<hi>順義/軍</hi>平州<hi>興平/軍</hi>奉聖州<hi>武定軍</hi>
+　　　　下等十九處<lb/>
+蔚州<hi>忠順軍</hi>義州<hi>崇義/軍</hi>許州<hi>昌武/軍</hi>徐州<hi>武寧/軍</hi>豐州<hi>天徳軍</hi>嵐<lb/>
+州<hi>鎮西軍</hi>鄧州<hi>利汝軍○按金/史作武勝軍</hi>鄜州<hi>保大/軍</hi>鞏州<hi>通逺軍</hi>隆州<lb/>
+<pb n="KR2d0010_WYG_038-4b"/>
+<hi>利渉軍</hi>應州<hi>彰國/軍</hi>雲内州<hi>開逺/軍</hi>蓋州<hi>遼海/軍</hi>宗州<hi>歸化軍</hi>懿州<lb/>
+<hi>寧昌軍</hi>錦州<hi>臨海/軍</hi>泰州<hi>徳昌/軍</hi>衛州<hi>河平/軍</hi>桓州<hi>咸逺軍</hi>
+　　　防禦二十一處<lb/>
+　　　　上等七處<lb/>
+博州　徳州　洺州　棣州　孟州　亳州　沂州<lb/>
+　　　　中等七處<lb/>
+清州　蔡州　華州　濬州　鄭州　泗州　宿州<lb/>
+　　　　下等七處<lb/>
+<pb n="KR2d0010_WYG_038-5a"/>
+陜州　肇州　潁州<hi>按原書作棣州棣州為上防禦已見上此據金史當作潁今改正</hi>
+河州　泰州　陳州　隴州<lb/>
+　　　刺史七十五處<lb/>
+　　　　上等十四處<lb/>
+解州　景州　沃州　深州　澤州　石州　環州<lb/>
+原州　汝州　隰州　蘭州　㑹州　耀州　徳順州<lb/>
+　　　　中等二十五處<lb/>
+涿州　薊州　灤州　瀋州　曹州　淄州　登州<lb/>
+<pb n="KR2d0010_WYG_038-5b"/>
+嵩州　單州　唐州　祁州<hi>按原書誤作初州考金志無初州而河北西路有祁</hi>
+<hi>州中刺正史今改</hi>遼州　沁州　海州　濵州　濰州　恩州<lb/>
+濟州　邳州　開州　乾州　丹州　坊州　寧州<lb/>
+磁州<hi>按原書無磁州上言中等刺史州二十五而所列止於二十四考金史河北西路有磁州中刺史此</hi>
+<hi>書不載葢傳冩脫去耳今補正</hi>
+　　　　下等三十六處<lb/>
+易州　通州　順州　覇州　遂州　利州　信州<lb/>
+安州　慶州　澄州　復州　宏州　韓州　睢州<lb/>
+<pb n="KR2d0010_WYG_038-6a"/>
+夀州　建州　莫州　蠡州　威州　武州　滑州<lb/>
+管州　濮州　商州　虢州　獻州　吉州　忻州<lb/>
+洮州　浄州　撫州　安肅州　貴徳州　宣徳州<lb/>
+寧遷州　東勝州<lb/>
+　　　十六軍並改作州<lb/>
+　　　　上等三處<lb/>
+泰安州　滕州<hi>按原書作勝州考元史地理志云東勝州唐勝州即前下等刺史之東勝州也</hi>
+<hi>不應複出葢勝字當作滕金史地理志山東西路有滕州本宋滕陽軍大定二十二年升為滕陽州二十四年</hi>
+<pb n="KR2d0010_WYG_038-6b"/>
+<hi>更今名今改正</hi>寧海州<lb/>
+　　　　中等三處<lb/>
+平定州　鈞州　莒州<lb/>
+　　　　下等十處<lb/>
+岢嵐州　寧化州　保徳州　隩州　綏徳州　保安<lb/>
+州　葭州　鎮戎州　積石州　來逺州<lb/>
+　　　總計<lb/>
+京府州軍一百七十九處　城塞堡闗一百二十二處<lb/>
+<pb n="KR2d0010_WYG_038-7a"/>
+　縣六百八十三處　鎮四百八十八處　添稅務一<lb/>
+百八十二處<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2d0010_WYG_038-7b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+欽定重訂大金國志卷三十八<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

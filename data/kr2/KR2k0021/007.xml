@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>景定建康志巻七</head>
+    <p>
+<pb n="KR2k0021_WYG_007-1a"/>
+欽定四庫全書<lb/>
+　景定建康志巻七　　　　宋　周應合　撰<lb/>
+建康表三<hi>起西晉太康庚子至東晉元熙巳未凡一百四十年為年表</hi>
+　晉<hi>司馬氏受魏禪都洛陽是為西晉自武帝炎至愍帝鄴四主五十二年而中宗元帝睿即位於建康</hi>
+　<hi>遂都焉是為東晉元帝乃宣帝懿之曽孫琅琊恭王覲之子嗣父為琅琊王永嘉元年因陳敏作亂以琅</hi>
+　<hi>琊王為安東將軍都督揚州江南諸軍事假節鎮建業討陳敏餘黨廓清江表至建興戊戌受愍帝詔即</hi>
+　<hi>晉王位改元建武明年愍帝凶問至始即帝位改元大興其建武以前事屬西晉建武以後事屬東晉合</hi>
+　<hi>兩晉論之自泰始至太康元年凡十有六年而吳始平自太康元年至建武元年凡三十九年而西晉改</hi>
+<pb n="KR2k0021_WYG_007-1b"/>
+　<hi>為東晉都於建康自元帝建武至恭帝元熙十一主凡一百三年而禪於劉裕元熙以後事繫於宋太康</hi>
+　<hi>以前事繫於吳故建康晉表始於太康訖於元熙合一百四十年不分西東總曰晉表</hi>
+<pb n="KR2k0021_WYG_007-2a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-3a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-4a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-5a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-6a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-7a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-8a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-9a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-10a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-11a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-12a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-13a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-14a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-15a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-16a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-17a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-18a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-19a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-20a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-21a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-22a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-23a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-24a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-25a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-26a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-27a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-28a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-29a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-30a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-31a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-32a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-33a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-34a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-35a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-36a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-37a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-38a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-39a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-40a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-41a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-42a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-43a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-44a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-45a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-46a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-47a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-48a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-49a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-50a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-51a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-52a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-53a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-54a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-55a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-56a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-57a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-58a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-59a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-60a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-61a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-62a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-63a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-64a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-65a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-66a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-67a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-68a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-69a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-70a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-71a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-72a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-73a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-74a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-75a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-76a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-77a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-78a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-79a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-80a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-81a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-82a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-83a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-84a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-85a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-86a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-87a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-88a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-89a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-90a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-91a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-92a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-93a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-94a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-95a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-96a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-97a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-98a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-99a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-100a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-101a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-102a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-103a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-104a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-105a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-106a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-107a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-108a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-109a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-110a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-111a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-112a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-113a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-114a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-115a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-116a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-117a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-118a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-119a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-120a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-121a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-122a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-123a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-124a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-125a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-126a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-127a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-128a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-129a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-130a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-131a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-132a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-133a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-134a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-135a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-136a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-137a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-138a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-139a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-140a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-141a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-142a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_007-143a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2k0021_WYG_007-143b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　景定建康志巻七<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

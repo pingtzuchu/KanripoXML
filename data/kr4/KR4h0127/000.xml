@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>陳文紀</head>
+    <p>
+<pb n="KR4h0127_WYG_000-1a"/>
+欽定四庫全書　　　　　集部八<lb/>
+　陳文紀　　　　　　　　總集類<lb/>
+　　提要<lb/>
+　　　　臣等謹案陳文紀八巻明梅鼎祚編南朝六<lb/>
+　　　　代至陳而終文章亦至陳而極敝其時能自<lb/>
+　　　　成家者詩惟陰鏗張正見文則徐陵沈烱以<lb/>
+　　　　外惟江總所傳稍多而或久仕梁朝上承異<lb/>
+　　　　代或晩歸隋主尚署前銜鼎祚兼其前後諸<lb/>
+<pb n="KR4h0127_WYG_000-1b"/>
+　　　　作割併於陳以足巻帙揆以所編他集未免<lb/>
+　　　　自亂其例然鼎祚既取南北朝文通為編次<lb/>
+　　　　茍闕其一代則源流始末有所未詳不得以<lb/>
+　　　　泛濫譏也况永明天監相去未遥江左餘風<lb/>
+　　　　往往而在韓栁未出以前王楊之麗製燕許<lb/>
+　　　　之鴻篇多有取材於是者亦不能以其少而<lb/>
+　　　　廢之矣乾隆四十四年七月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+<pb n="KR4h0127_WYG_000-2a"/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

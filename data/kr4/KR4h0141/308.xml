@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_308-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選巻三百八<lb/>
+　　柿類<lb/>
+　　　五言古<lb/>
+　　　　詠無核紅柿　　　　　　　<hi>宋</hi>孔平仲<lb/>
+　林中有丹果壓枝一何稠為柿巳軟羙嗟爾骨亦柔風<lb/>
+　霜變顔色雨露如膏油大哉造化心于爾何綢繆荆筐<lb/>
+　載趨市價賤良易求剖心無所有入口頗相投為栗外<lb/>
+<pb n="KR4h0141_WYG_308-1b"/>
+　屈強老者所不収為棗中亦剛飼兒㦸其喉衆言咀嚼<lb/>
+　快唯爾無所憂排羅置前列圓熟當髙秋且以恱一時<lb/>
+　長久豈暇謀咄哉潰爛速棄擲將誰尤<lb/>
+　　　五言絶句<lb/>
+　　　　紅柿子　　　　　　　　　<hi>唐</hi>劉禹錫<lb/>
+　曉連星影出晩帶日光懸本因遺採掇翻自保天年<lb/>
+　　　　柿　　　　　　　　　　　<hi>宋</hi>韓　維<lb/>
+　朱果繁霜後甘甜半自零忽驚林色曙零落見殘星<lb/>
+<pb n="KR4h0141_WYG_308-2a"/>
+　　　七言絶句<lb/>
+　　　　華師　　　　　　　　　　<hi>唐</hi>李商隱<lb/>
+　孤鶴不睡雲無心衲衣笻杖來西林院門晝鎖廻廊静<lb/>
+　秋日當階柿葉隂<lb/>
+　　　　柿　　　　　　　　　　　<hi>宋</hi>劉子翬<lb/>
+　秋林黃葉晚霜嚴熟蒂甘香未得兼火傘虬珠浪褒拂<lb/>
+　風標却似色中黔<lb/>
+　　　　柿　　　　　　　　　　　<hi>明</hi>陳汝秩<lb/>
+<pb n="KR4h0141_WYG_308-2b"/>
+　晩風吹雨過林廬柿葉飄紅手自書無限瀟瀟江海意<lb/>
+　　一樽相對憶鱸魚<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選巻三百八<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

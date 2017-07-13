@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0021_SBCK_001-1a"/>
+古文苑卷第一<lb/>
+　　周宣王石鼔文<lb/>
+　　秦惠文王詛楚文<lb/>
+　　秦始皇嶧山刻石文<lb/>
+　　　石鼔文<lb/>
+<hi>周宣王狩于歧陽所刻石鼔文十篇近丗薛尚功鄭樵各爲之音釋王厚</hi>
+<hi>之攷正而集録之施宿又參以諸家之本訂以石鼔籕丈眞刻栞梓于淮</hi>
+<hi>東倉司其辨證訓釋盖亦詳俻按此編孫巨源得於僧寺佛書龕中以爲</hi>
+<hi>唐人所録審尓則又在薛鄭之前二三百年矣詳攷其文字畫音訓多與</hi>
+<pb n="KR4h0021_SBCK_001-1b"/>
+<hi>鄭本合豈鄭爲音釋時甞得此本參校邪惟甲乙之次與薛鄭本俱不同</hi>
+<hi>今合諸家之說併摘經傳語可爲證者載于下甲乙仍其舊以薛鄭之次</hi>
+<hi>附于左</hi>
+<graphic n="KR1014" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1014.png" mimeType="image/png"/>車旣工<graphic n="KR1014" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1014.png" mimeType="image/png"/>馬旣同<hi>
+                        <graphic n="KR1014" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1014.png" mimeType="image/png"/>石本作/薛音我工石本作王郭云籀文攻字眉山蘇</hi>
+<hi>氏石鼔詩亦作攻按車攻詩毛氏注攻堅也同齊也</hi>
+                    <graphic n="KR1014" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1014.png" mimeType="image/png"/>車旣好<graphic n="KR1014" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1014.png" mimeType="image/png"/>馬旣<graphic n="KR2425" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2425.png" mimeType="image/png"/>
+                    <hi>好石</hi>
+<hi>本作<graphic n="KR2425" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2425.png" mimeType="image/png"/>鄭音寳今作鴇郭云恐是籕文騊字騊北野良馬名</hi>君子員員邋邋員<lb/>
+斿<hi>員石本作說文員音云益也邋鄭通作獵字員又音貟君子指從獵諸臣員員衆多而有禮</hi>
+<hi>義也獵獵旌旗摇動皃員斿當讀作貟斿旌上贅旒詩悠悠斾旌</hi>麀鹿速速君子<lb/>
+之求<hi>麀牝鹿速速<graphic n="KR0858" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0858.png" mimeType="image/png"/>行皃田狩之所求</hi>○酋弓兹㠯寺<hi>酋石本作郭云恐當作</hi>
+<hi>鹵鹵弓即庾弓也薛作首鄭作酋周禮臾弓利射侯與弋弓薛作及㠯古以字下同寺諸家皆作時字</hi>
+<pb n="KR4h0021_SBCK_001-2a"/>
+<pb n="KR4h0021_SBCK_001-3a"/>
+<hi>郭云讀如繄語助也沔籕韻作泛音鄭云沔讀作綿盖用沔字平声以叶韻</hi>㞼　淖<lb/>
+淵<hi>㞼石本作鄭云㞼字見秦權郭云讀如蒸進也詩南有嘉魚烝然罩罩王肅云烝衆也</hi>
+<hi>石本作王云籕文皮字借作𬒳音文曰𬒳淖淵與尚書導菏澤𬒳孟豬之𬒳同義郭音</hi>
+<hi>彼淖淵水之深處也</hi>鯉處之君子　之<hi>鯉皆魚名鄭音鰸處鄭讀</hi>
+<hi>作居盖取叶韻籕文漁從寸今省作漁</hi>澫澫又　其斿<hi>鄭本</hi>
+<hi>蕅云即漫以萬通作曼漫漫水之瀰茫處也又通作有籕文省下同見詛楚文今作鯊魚名</hi>
+<hi>所加反斿今作游下同薛作/散字鄭云/即字相千反</hi>帛魚<graphic n="KR1788" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1788.png" mimeType="image/png"/>
+                    <graphic n="KR1788" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1788.png" mimeType="image/png"/>其<lb/>
+氐鮮<hi>帛从帛从水古文泊字今省水之淺處也歩各反下同鄭云皪音洛集韻云白色也</hi>
+<hi>薛作鱳字說文鱳盧各反魚名鄭云/亦作蕰讀與爼豆之爼同施云按說文側余反醢也</hi>
+<hi>氐典禮反按<graphic n="KR1788" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1788.png" mimeType="image/png"/>即皪字音歴的皪白貌言泊中之魚皪皪然㓗白登之於爼甚鮮也</hi>黄帛<lb/>
+<pb n="KR4h0021_SBCK_001-3b"/>
+其　又　又<graphic n="KR2362" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2362.png" mimeType="image/png"/>
+                    <hi>黄泊水濁而淺處鄭云即鯁字卑連反郭云卑即古卑字从魚从卑歩</hi>
+<hi>隹反魚名薛作鄭云今作鮒音附/郭云並呼反今從專<graphic n="KR2362" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2362.png" mimeType="image/png"/>鄭云鮊音白</hi>其豆孔庶<graphic n="KR1163" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1163.png" mimeType="image/png"/>之<lb/>
+<hi>豆石本作郭云/今作䏠乞及反博雅/謂之䏠鄭作豆字羉郭云籕文臠字鄭云羉謨官</hi>
+<hi>反施綱也舊注丑若反/相如大人賦休<graphic n="KR0930" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0930.png" mimeType="image/png"/>奔走也/郭云籕文洋字鄭/云音汗今作澣鄭</hi>
+<hi>云博或云即遄字</hi>其魚佳可佳鱮佳鯉可㠯　之隹楊及柳<hi>佳通</hi>
+<hi>作維可通作何下並同說文符霄反鄭云與標同舊本音瓢眉山蘇氏石皷詩作何以貫之</hi>
+　　　右二<hi>薛作戊文鄭作甲文</hi>
+<hi>施云十鼓中唯此完好無一字磨滅成文可讀然字多假借丗旣逾遠不能盡知故義亦</hi>
+<hi>有不通者更俟博雅君子辯而釋之庶可𥙷雅頌之亡逸</hi>
+田車旣安鋚○勤馬<hi>按詩注輶車田獵驅逆之車取其輕捷也鋚郭云大么反轡首銅也</hi>
+<pb n="KR4h0021_SBCK_001-4a"/>
+<hi>廣韻音條紖頭銅飾</hi>○衆旣簡<hi>簡選也</hi>左驂旛旛右驂騝騝<lb/>
+<hi>詩騧驪是驂注驂兩騑也車駕四馬在内兩馬謂之服在外兩馬謂之騑郭云旛妨圎反旌旗揔名旛旛取其</hi>
+<hi>輕舉皃騝居言反爾雅騝駵馬黄脊或云紀偃反取其壯健皃</hi>
+                    <graphic n="KR1014" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1014.png" mimeType="image/png"/>㠯隮于原<hi>
+                        <graphic n="KR1014" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1014.png" mimeType="image/png"/>讀作我隮升</hi>
+<hi>也原石本作邍古原字下同</hi>
+                    <graphic n="KR1014" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1014.png" mimeType="image/png"/>戎陣止<hi>施云鄭本戎字作我下有陣止二字今攷碑本此闕</hi>
+<hi>非有磨滅戎丗二字上下相承不容有陣止字於其間</hi>丗<hi>鄭作/云今作陸施云/又疑爲跌字薛作籕</hi>
+<hi>文</hi>宫車其冩秀弓時射<hi>宫車輦車也周禮輦車用於宫中秀與綉同綉弓戎弓也</hi>
+<hi>谷梁傳弓綉質質也戎弓綉其質示武中有文言田狩之時宫車冩而不用戎弓時施於射方言發稅舎車</hi>
+<hi>也舎音冩史記秦毎破諸侯冩放其宮室讀如卸字</hi>麋豕孔庶麀鹿雉兎<hi>言所獲多</hi>
+<hi>品</hi>其○又<hi>又通作有鄭云今作紳</hi>其○<hi>鄭云今作奔或作走</hi>大<lb/>
+○<hi>鄭本有字在大字/上音/古直字也</hi>岀各亞<hi>石本作/施云汗簡作亞古孝經作</hi>
+<pb n="KR4h0021_SBCK_001-4b"/>
+<hi>惡盖二字通用</hi>○○　○<hi>薛作卑字鄭云疑即思字碧落碑思/作卑郭云恐是字公老反大白澤</hi>
+<hi>也白澤獸名</hi>執而勿射○庻䟏<hi>䟏說文郎擊反動也郭云走也鄭云與轢同</hi>君<lb/>
+子廼樂<hi>廼石本作薛作廼郭鄭云逌今作攸所也按漢書地理志酆水逌同王行志彛倫逌叙皆古</hi>
+<hi>攸字</hi>
+　　　　右三<hi>薛作丙文鄭作丁文</hi>
+○○鑾車<hi>郭云人君乗車四馬鑣八鑾鈴象鸞鳥声从鑾从金省按經史或作鸞左傳錫鸞和鈴詩</hi>
+<hi>八鸞瑲瑲是也周礼王乗玉輅以封</hi>敕眞○<hi>石本作/施云說文呼骨反疾也薛作華字鄭云</hi>
+<hi>即拜字敕即䇿字並見義雲章眞薛作眞字鄭云即填字亦作鎭</hi>○弓孔碩<graphic n="KR0686" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0686.png" mimeType="image/png"/>矢○○<lb/>
+<hi>按詩<graphic n="KR0686" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0686.png" mimeType="image/png"/>弓<graphic n="KR0686" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0686.png" mimeType="image/png"/>矢天子以錫有功諸侯書文侯之命及左傳/寗武子所言<graphic n="KR0686" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0686.png" mimeType="image/png"/>弓一<graphic n="KR0686" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0686.png" mimeType="image/png"/>矢百是也毛氏注䑣弓朱弓也孔</hi>
+<hi>氏以<graphic n="KR0686" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0686.png" mimeType="image/png"/>弓爲周礼之唐弓大弓碩大也或曰碩實也筋角膠木各得其所則弓體實</hi>○馬其冩六<lb/>
+<pb n="KR4h0021_SBCK_001-5a"/>
+轡驁<hi>驁鄭云五到反讀若遇諸家本並驁字上闕一字無重文</hi>
+                    <graphic n="KR1921" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1921.png" mimeType="image/png"/>　孔庻<lb/>
+搏<hi>搏<graphic n="KR1921" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1921.png" mimeType="image/png"/>諸家本皆作徒字/鄭云今作馭/薛作廓鄭/云亦作/或云即廊字諸家本今作宣上闕一</hi>
+<hi>字施云宿本並不見重文岐城刻本亦無</hi>車載<hi>鄭云即酋字詩所謂輶車鸞鑣田狩之車也</hi>
+<hi>載石本作籕文/載字/今作道字</hi>○徒如章邍溼隂陽<hi>邍古原字溼鄭云今作濕</hi>
+<hi>通作隰徒從也徒從整布如文章然原高陸也隰卑濕也其髙低向背皆有隂陽公劉詩相其隂陽度其隰原</hi>
+<graphic n="KR2231" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2231.png" mimeType="image/png"/>
+                    <hi>
+                        <graphic n="KR2231" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2231.png" mimeType="image/png"/>
+                    </hi>六馬射之<hi>鄭云<graphic n="KR2231" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2231.png" mimeType="image/png"/>即趣字七走反詩蹶維/趣馬郭云/籀文族古作小</hi>
+<hi>異鄭云與李啇隱族字相近疑即族字借作鏃耳/今作徐六馬天子所駕也趣趣然調和閑習射則矢鍭之發</hi>
+<hi>舒徐不迫言皆合礼有一發五豝之意</hi>如虎獸麀如○○○<hi>麀字諸本皆作鹿獸</hi>
+<hi>猶禽謂搏取之也四方有不順王命者禽芟而獸彌之如虎搏鹿不勞餘力上章有弓矢之錫得專征伐</hi>多<lb/>
+賢迧<hi>石本作鄭/云迧今作徇</hi>禽○○<graphic n="KR1014" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1014.png" mimeType="image/png"/>兎允異<hi>兔字薛本作鹿鄭本作兎施云</hi>
+<pb n="KR4h0021_SBCK_001-5b"/>
+<hi>碑磨㓕不可辨</hi>
+　　　右四<hi>薛作丁文鄭作戊文言䇿命諸臣</hi>
+○○　霝雨○<hi>七西反亦作淒大田詩有渰萋萋興雨祁祁毛氏注萋</hi>
+<hi>萋雲行皃施本霝字上有天字鄭云霝亦作零東山詩零雨其濛又衛詩靈雨旣零毛氏注靈善也今省作</hi>
+<hi>流下同見說文</hi>迄湧盄㴕<hi>盄石本作盈說文盈字薛同鄭/作盄止遥反㴕鄭云今作私</hi>
+<hi>列反鄭云今/作滋郭云濕</hi>君子即渉<hi>石本作/施云即渉字見義雲章</hi>馬○<lb/>
+汧殹<hi>汧即前章所謂汧水殹即也字言君子將乗馬渉水而歸汧水流泛不可以渉</hi>洎<hi>洎</hi>淒<lb/>
+<hi>淒</hi>○○舫舟西䢜<hi>凄石本作鄭云今省作淒亦作萋舫符望反兩舟並也西石本作</hi>
+<hi>薛作思字鄭作西云見尹彛或作由䢜鄭云即歸字或作逯</hi>○○自<hi>薛郭作廓籕文</hi>
+<hi>鄭作鄠或作廊</hi>徒　湯<hi>湯</hi>佳舟㠯衍或隂或陽<hi>即馭字見前</hi>
+<pb n="KR4h0021_SBCK_001-6a"/>
+<hi>注湯音傷湯湯衆多皃佳維通用籕文道字前言乗馬以渉水漲不可次言並舟而歸路或</hi>
+<hi>悠長今徒馭衆多當維繫其舟遵道而行水北爲陽南爲隂或從水之陽或從水之隂皆可歸</hi>
+<hi>也</hi>极深㠯户○于水一方<hi>极薛作枝鄭云即楫字施云薛鄭本</hi>
+<hi>㠯下有户字碑本磨滅不可辨于水一方足上文或隂或陽意也</hi>勿○○止其奔其<lb/>
+<hi>鄭云今作禦</hi>○○其叓<hi>施云古文事字見說文</hi>
+　　　右五<hi>薛作壬文鄭作辛文言漁狩而歸</hi>
+猷乍邍乍<hi>籕文乍與作通邍古原字衛即導字</hi>遄我　除<hi>遄石本/作薛</hi>
+<hi>郭作徒字鄭作遄字鄭云今作治字/施云按古文孝經洽字作/與此小異</hi>帥<hi>𬒳</hi>
+                    <graphic n="KR2534" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2534.png" mimeType="image/png"/>
+                    <hi>音序郭作</hi>
+<hi>阪音反/薛作/音莾郭云恐是䒪䒪草之相紏者居/蚪反鄭本作云今省文作莫或作草未審</hi>
+<hi>孰是</hi>爲丗里<hi>丗石本作/施云丗三十也文曰爲三十里以三十爲丗書家謂之㑹意佛書謂之</hi>
+<pb n="KR4h0021_SBCK_001-6b"/>
+<hi>二合字書卉蘇合反非丗字也/即丗字</hi>微<hi>薛作徼鄭云/徼未詳音義</hi>逌<hi>直薛</hi>
+<hi>作廼鄭云<graphic n="KR3546" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3546.png" mimeType="image/png"/>作攸/薛作罟字/鄭云/亦作/並音古網罟也/薛作栗尚書栗/作與此相類</hi>
+<hi>說文省作㮚</hi>柞棫其㮽<hi>鄭云㮽亦作/槃或作棴字/說文讀作晧方老反薛作格字</hi>
+<hi>薛作庸鄭云未詳音義/或云遘字諸本無重文</hi>鳴亞箬<hi>石本作薛郭作籕</hi>
+<hi>文若字鄭作箬</hi>其<hi>石本作/薛作華鄭/云/亦作<graphic n="KR1191" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1191.png" mimeType="image/png"/>况于反</hi>爲所斿<hi>薛作</hi>
+<hi>憂鄭云今作䕫</hi>籃<hi>郭作/云籕/文盩字今省/導</hi>旨<hi>樹</hi>孫<hi>薛鄭音</hi>
+<hi>合字鄭云疑即畣字音響施云碑本雖稍磨滅上從五字尚可辨非從也又薛鄭本下有孫</hi>
+<hi>字今碑本無此字</hi>
+　　　右六<hi>薛作庚文鄭作乙文言除道</hi>
+<hi>施云此鼔乃向傳師皇祐間所搜訪而得之者毎行末僅存四字自四字</hi>
+<pb n="KR4h0021_SBCK_001-7a"/>
+<hi>而上磨滅者傳師磨去刻當時得之之由故今所存皆断續不成文鄭樵</hi>
+<hi>乃以猷作原作導遄我治除帥别<graphic n="KR2534" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2534.png" mimeType="image/png"/>莫爲丗里十六字爲成辤蓋鄭所見</hi>
+<hi>乃遺文之摹刻者不知眞本未甞相属也</hi>
+而師弓矢孔庶左驂滔滔<hi>據文理而字上當有闕文施云鄭本師字下有</hi>
+<hi>弓矢孔三字左字下有驂字今碑本磨滅</hi>是<hi>薛鄭本皆闕而不音施云按說文古熾字與此相類</hi>
+<hi>下同</hi>不具奪<hi>施云薛本有/字闕/音碑本磨滅不可辨</hi>後具䏏<hi>石本作/薛作肝鄭作肝音吁</hi>
+來其冩矢<hi>矢石本作施云恐是小大二字鍾鼎欵識多此類薛作尖字鄭作矢字</hi>具來樂<lb/>
+天子來<hi>施云鄭本子下有來字</hi>嗣王始古我來<lb/>
+　　　右七<hi>薛作甲文鄭作壬文</hi>
+<hi>音𬒳見上注</hi>走䮺䮺<hi>鄭音/劑</hi>馬<hi>鄭云今/作薦</hi>晢若<hi>若石本/作薛</hi>
+<pb n="KR4h0021_SBCK_001-7b"/>
+<hi>作奔鄭云即若字古諸字從此</hi>微<hi>石本作/施云/說文與微同薛作放音非也</hi>雉立其一<lb/>
+之<hi>施云宿二本下皆有止字按此本作之字</hi>
+　　　右八<hi>薛作巳文鄭作庚文</hi>
+<hi>施云此鼓最磨㓕僅存十三字不復成文</hi>
+<graphic n="KR1014" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1014.png" mimeType="image/png"/>
+                    <hi>我</hi>水<hi>古導字下同見上注按文導字上闕一字</hi>旣平旣止喜樹<graphic n="KR0767" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0767.png" mimeType="image/png"/>
+里天子永寍<hi>喜石本作鄭云即喜字薛作嘉施云說/文喜字如此冩籕文則字寍與寜同大</hi>
+<hi>意言水旣䟽導民可樹藝地可井里天子之心爲之安寧喜樹二字未必連屬</hi>日佳丙申○○<lb/>
+<hi>施云宿本丙申下二字尚可辨更俟攷之</hi>
+                    <graphic n="KR1014" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1014.png" mimeType="image/png"/>其用　馬旣申敕肅<hi>肅</hi>駕<hi>申重</hi>
+<hi>也敕戒也肅肅施本作康康駕石本作駱郭鄭音駕籕文按文駕字上闕一字</hi>左驂䮯<hi>䮯施云五到</hi>
+<hi>反馬怒也</hi>女扯女<hi>諸本無重文鄭音遫扯石本作施云說文識字與此相類薛郭鄭本</hi>
+<pb n="KR4h0021_SBCK_001-8a"/>
+<hi>並作扯字郭云子一反摘也鄭云疑即撻字皆摹本誤之也女通作汝</hi>不<hi>郭云籕文翰从飛鄭音同</hi>
+<hi>薛作郭云恐是籕/文霾字鄭云即霧字</hi>公謂天余及如周<hi>石本作施云</hi>
+<hi>說文害字鄭云周今省作周</hi>不余及<lb/>
+　　　右九<hi>薛作乙文鄭作癸文言除道</hi>
+<hi>施云上下皆磨滅不成文</hi>
+呉人憐<hi>王云呉通作虞鄭序曰呉人田享社也享社必狩以獻鮮焉汧水出于呉山故漁于汧而</hi>
+<hi>狩于呉也施云其說恐未然亦作憐鄭云/即亟字呉山即呉岳也漢地理志右扶風汧縣注吳山在西古文以爲汧</hi>
+<hi>山汧水岀西北入渭</hi>朝夕敬○<hi>朝石本作/薛作/敕字鄭云即朝字</hi>載<graphic n="KR1214" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1214.png" mimeType="image/png"/>載北<hi>載石</hi>
+<hi>本作見前注<graphic n="KR1214" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1214.png" mimeType="image/png"/>即/西字鄭云見曽侯彛</hi>勿奄勿伏<hi>奄石本作/鄭云見盄和鐘通作掩伏石本作</hi>
+<hi>薛作伐字鄭作仗字</hi>而出○<hi>鄭云/即嵒字或云即畢字碑巳磨滅薛音之</hi>○<lb/>
+<pb n="KR4h0021_SBCK_001-8b"/>
+<pb n="KR4h0021_SBCK_001-8b"/>
+　蘇　李嗣眞張懷瓘竇臮竇蒙徐浩咸以爲<lb/>
+　史籕筆蹟虞丗南歐陽詢禇遂良皆有墨妙<lb/>
+　之稱杜甫八分小篆歌叙歷代書亦厠之倉<lb/>
+　頡李斯之間其後韋應物韓愈稱述爲尤詳<lb/>
+　至本朝歐陽脩作集古録始設三疑以韋韓<lb/>
+　之說爲無所攷據後人因其疑而増廣之南<lb/>
+　渡之後有鄭樵者作釋音且爲之序乃摘㞼<lb/>
+<hi>丞</hi>殹<hi>也</hi>二字以爲見於秦斤秦權而指以爲<lb/>
+　秦鼓僞劉詞臣馬定國以宇文泰甞蒐歧陽<lb/>
+　而指以爲後周物嗚呼二子固不足爲石鼓<lb/>
+<pb n="KR4h0021_SBCK_001-9a"/>
+　重輕然近人稍有惑其說者故予不得不辨<lb/>
+　集古之一疑曰漢桓靈碑大書深刻磨滅十<lb/>
+　八九自宣王至今爲尤逺鼓文細而刻淺理<lb/>
+　豈得存予謂碑刻之存亡係石質之羙惡摹<lb/>
+　拓之多寡水火風雨之及與不及不可以年<lb/>
+　祀乆近論也且如詛楚文刻於秦惠文王時<lb/>
+　去宣王爲未逺而文細刻淺過於石鼔遠甚<lb/>
+　由始出於近歳戕害所不及至無一字磨滅<lb/>
+　者顔眞卿干禄字刻於大暦九年顯暴於丗<lb/>
+　工人以爲衣食業摹拓爲多至開成四年纔<lb/>
+<pb n="KR4h0021_SBCK_001-9b"/>
+　六十六載而遽已訛闕由是言之年祀乆近<lb/>
+　不足推其存亡無可疑者二疑以謂自漢以<lb/>
+　來博古之士略而不道三疑以謂隋氏蔵書<lb/>
+　最多獨無此刻予謂金石遺文溷於瓦礫歷<lb/>
+　代湮沒而後世始顯者爲多三代彛噐㦯得<lb/>
+　於近嵗其制度精妙有馬融鄭玄所不知者<lb/>
+　又詛楚文筆蹟髙妙丗人無復異論而歷秦<lb/>
+　漢以來數千百年湮沉泉壤近歳始岀於人<lb/>
+　間不可謂不稱於前人不録於隋氏而指爲<lb/>
+　近丗僞物也予意此鼔之刻雖載於傳記而<lb/>
+<pb n="KR4h0021_SBCK_001-10a"/>
+　經歷代亂離𣪚落草莽至唐之𥘉文物稍盛<lb/>
+　好事者始加採録乃復顯於丗及觀蘇朂叙<lb/>
+　記尤喜予言之爲得也則夫隋氏之不録又<lb/>
+　無足疑者況唐之文籍視今爲甚備而學者<lb/>
+　不敢爲臆說自貞觀以來諸公之說若岀一<lb/>
+　人固不特起於韋韓也而韋應物又以爲文<lb/>
+　王之鼓宣王刻詩言之如是之詳當時無一<lb/>
+　人非之傳記必有可考者矣小篆之作本於<lb/>
+　大篆㞼殹二字見於秦噐固無害況丞字從<lb/>
+　山取山髙奉丞之義著在說文字體冝然非<lb/>
+<pb n="KR4h0021_SBCK_001-10b"/>
+　始於秦也唐𥘉去宇文周爲甚近事語尚在<lb/>
+　於長老耳使文帝鐫功勒成以告萬丗豈細<lb/>
+　事哉冝時人共知之況蘇朂之祖邳公綽用<lb/>
+　事於周文物號令<graphic n="KR0662" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0662.png" mimeType="image/png"/>岀其手豈得其賢子孫<lb/>
+　乃不知其祖之所作者乎嗚呼三代石刻存<lb/>
+　於丗者壇山吉日癸巳刻與此耳而吉日癸<lb/>
+　巳無所攷據獨此鼔昔人稱說如是之詳觀<lb/>
+　其字畫竒古足以追想三代遺風而學者因<lb/>
+　可以知篆隷之所自岀好異者又附㑹異說<lb/>
+　而詆訾之亦巳甚矣其鼔有十因其石之自<lb/>
+<pb n="KR4h0021_SBCK_001-11a"/>
+　然粗有鼓形字刻於其旁石質堅頑類今人<lb/>
+　爲碓磑者其𥘉散在陳倉野中韓吏部爲博<lb/>
+　士時請於祭酒欲以數橐駞輿致太學不從<lb/>
+　鄭餘慶始遷之鳯翔孔子廟經五代之亂又<lb/>
+　復散失本朝司馬池知鳯翔復輦至于府學<lb/>
+　之門廡下而亡其一皇祐四年向傳師搜訪<lb/>
+　而足之大觀中歸于京師　詔以金塡其文<lb/>
+　以示貴重且絶摹拓之患𥘉致之辟廱後移<lb/>
+　入　保和殿靖康之末　保和珍異北去或<lb/>
+　傳濟河遇大風重不可致者棄之中流今其<lb/>
+<pb n="KR4h0021_SBCK_001-11b"/>
+　存亡特未可知則拓本留於丗者冝與法書<lb/>
+　並蔵詎可輕議也㦲紹興已夘歳予得此本<lb/>
+　於上庠喜而不寐手自裝治成秩因取薛尚<lb/>
+　功鄭樵二音參校同異并考覈字書而是正<lb/>
+　之書于帙之後其不至者姑兩存之以俟博<lb/>
+　洽君子而質焉<lb/>
+<hi>樵按歐陽氏有石鼓三疑終則曰觀其字畫髙妙非史籕不能作眉山蘇氏石鼓詩則曰勲勞至大不矜伐文武未</hi>
+<hi>逺猶忠厚又曰自從周衰更七國竟使秦人有九有登山刻石頌功烈後者無継前無偶皆云皇帝廵四國烹㓕強</hi>
+<hi>暴救黔首合二公之詞觀之則石鼓爲宣王時物不必多辯矣</hi>
+<pb n="KR4h0021_SBCK_001-12a"/>
+　　　詛楚文<lb/>
+<hi>秦告巫咸文說者皆謂近丗岀於鳯翔府祈年觀基之下眉山蘇氏形之</hi>
+<hi>詩詠亦以爲然此編旣云唐人所藏於佛書龕中得之則唐時此文巳流</hi>
+<hi>傳於丗惜無名士如韋應物韓退之輩題詠故其名不顯按巫咸在解州</hi>
+<hi>鹽池與古雍相逺盟石以吿神或瘞於土或沈於水皆當在本所如告乆</hi>
+<hi>湫文得於朝那湫傍是也告巫咸文不應逺在古雍以是推之此石岀於</hi>
+<hi>唐之前後復湮没於祈年觀下至近丗而復岀理無可疑文多古字間有</hi>
+<hi>假借王厚之音釋頗詳今載于后</hi>
+又<hi>通作有以下字多假借</hi>秦嗣王<hi>籕文敢/字後同</hi>用吉玉<hi>古宣字通</hi>
+<hi>作瑄璧六寸曰瑄</hi>璧使其宗祝邵鼛布忠<hi>篆文似作憨字又作愍王本作</hi>
+<pb n="KR4h0021_SBCK_001-12b"/>
+<hi>愍</hi>吿于不顯大神巫咸<hi>乆湫本作不顯大沈乆湫亞駞本作不顯大神亞駞</hi>
+<hi>乆讀作故亞讀作烏按文王詩有周不顯毛氏注甚顯也正與此不顯字同意或者假借爲丕顯正不必然</hi>㠯<lb/>
+<hi>古以字</hi>厎䠂<hi>楚</hi>王熊相之多辠<hi>罪</hi>㫺<hi>昔</hi>我先君<lb/>
+<hi>穆</hi>公及䠂成王是<hi>讀作寔</hi>繆<hi>讀作戮左傳成公十一年戮力同心</hi>力同心<lb/>
+兩邦<hi>古若字/古壹/字</hi>絆㠯<hi>婚姻</hi>袗㠯齊盟曰<lb/>
+枼<hi>葉</hi>萬子孫母相爲不利<hi>檀弓丗丗萬子孫母變也</hi>親即<hi>王作印讀作仰</hi>
+不顯大神巫咸<hi>乆湫本無不顯二字只作大沈乆湫亞駞本作不顯大神亞駞以下凡舉</hi>
+<hi>所祀神名皆同</hi>而質焉今䠂王熊相康<hi>讀作庸</hi>回無<hi>道</hi>淫<lb/>
+失<hi>讀作佚</hi>甚<hi>讀作/耽</hi>亂<hi>宣</hi>奓<hi>古文/侈字</hi>競從<hi>讀作/縱</hi>變輸<hi>讀作</hi>
+<hi>渝按春秋六年鄭人來渝平左氏傳作渝公羊糓梁作輸二字盖通用渝変也</hi>盟刺内之<graphic n="KR0767" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0767.png" mimeType="image/png"/>
+                    <hi>籕文</hi>
+<pb n="KR4h0021_SBCK_001-13a"/>
+<hi>則字下同</hi>虣<hi>古文暴字周/禮有司虣</hi>䖈不辜<hi>乆湫本作姑通用</hi>刑戮孕<lb/>
+<hi>婦</hi>幽刺親<hi>乆湫亞駞本作古文親字/戚字漢戚伯著碑夏承碑皆用此字法</hi>拘<lb/>
+圉其叔父窴者<hi>讀作諸下同</hi>冥室櫝棺之中外之<graphic n="KR0767" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0767.png" mimeType="image/png"/>
+<hi>則</hi>冒改乆心不畏皇天上帝及不顯大神巫咸<lb/>
+之光列<hi>烈</hi>威神而兼俖<hi>倍</hi>十八丗之詛盟率者<lb/>
+<hi>諸</hi>侯之兵㠯臨加我欲剗伐我社稷伐烕<hi>許劣及㓕也詩</hi>
+<hi>褒姒烕之</hi>我百<graphic n="KR4667" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4667.png" mimeType="image/png"/>
+                    <hi>姓</hi>求蔑灋<hi>古法字</hi>皇天上帝及不顯大<lb/>
+神巫咸之䘏祠圭玉羲<hi>犧</hi>牲逑取<graphic n="KR1803" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1803.png" mimeType="image/png"/>
+                    <hi>古我字一作吾</hi>邊城<lb/>
+新<graphic n="KR1609" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1609.png" mimeType="image/png"/>
+                    <hi>音皇</hi>及鄔<hi>王本作</hi>長<hi>親</hi>
+                    <graphic n="KR1803" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1803.png" mimeType="image/png"/>
+                    <hi>我</hi>不<hi>敢</hi>曰可今有<lb/>
+<hi>通作又乆湫亜駞本作又</hi>
+                    <graphic n="KR0662" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0662.png" mimeType="image/png"/>興其衆張矜意<hi>王本作意籕文億字說文云滿也左傳以</hi>
+<pb n="KR4h0021_SBCK_001-13b"/>
+<hi>馮陵我敝邑不可億逞</hi>怒飾甲底兵奮士盛師㠯偪<hi>王本作俖</hi>
+<hi>云乆湫亞駞本作偪字當作偪</hi>
+                    <graphic n="KR1803" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1803.png" mimeType="image/png"/>
+                    <hi>我</hi>邊競<hi>讀作境</hi>將欲復其<hi>貺</hi>迹<lb/>
+唯是秦邦之羸衆敝賦䩹<hi>王本作讀作鞹/革也皮去毛曰革</hi>䩱<hi>音俞</hi>
+<hi>刀鞘也言以革飾刀鞘也</hi>棧輿禮使<hi>上/聲</hi>介老將<hi>去聲</hi>之㠯自救殹<lb/>
+<hi>乆湫本作也殹古也字見石鼓文及秦權鞹䩱棧輿言非戎噐之俻也介老謂一介之老言又非將帥之才也秦自</hi>
+<hi>謂不得巳特遣一介之老將屯羸衆自救而巳言不敢飾甲底兵以先伐楚也曰禮使者言楚興師之不以礼也</hi>亦<lb/>
+應<hi>古受字</hi>皇天上帝及不顯大神巫咸之㡬靈<lb/>
+德賜<hi>古克字/王本作/古制字乆湫亞駞本/作劑劑遵爲反爾雅云翦齊也</hi>䠂師<hi>王本</hi>
+<hi>作楚楚云下一楚字乆湫亞駞本作師字當作師</hi>且復略我邊城<hi>敢</hi>數䠂<lb/>
+王熊相之俖<hi>倍</hi>盟犯詛箸<hi>著</hi>者<hi>諸</hi>石章㠯盟大<lb/>
+<pb n="KR4h0021_SBCK_001-14a"/>
+神之威神<lb/>
+詛楚文有三皆出於近世𥘉得告巫咸文於<lb/>
+鳯翔東坡鳯翔八觀詩甞紀其事舊在府廨<lb/>
+徽皇時歸御府次得告大沈乆湫文於渭時<lb/>
+蔡挺帥平涼携之以歸在南京蔡氏最後得<lb/>
+告亞駞文於洛在洛陽劉忱家其詞則一惟<lb/>
+質於神者隨號而異述秦穆公與楚成王相<lb/>
+好及熊相倍十八丗詛盟之罪以史記丗家<lb/>
+年表攷之秦自穆公十八丗至惠文王與䠂<lb/>
+懐王同時從横争覇此詛爲懐王也懐王十<lb/>
+<pb n="KR4h0021_SBCK_001-14b"/>
+　一年蘇秦<hi>戰國䇿作李兊</hi>約從山東六國共攻秦䠂<lb/>
+　懐王爲從長至函谷關秦岀兵擊之皆引而<lb/>
+　歸齊獨後今文曰熊相率諸侯之兵以臨加<lb/>
+　我是也後五年秦使張儀以啇於之地六百<lb/>
+　里欺䠂使絶齊懷王信之既與齊絶使一將<lb/>
+　軍西受封地秦倍約不與文又曰逑取我邉<lb/>
+　城新<graphic n="KR1609" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1609.png" mimeType="image/png"/>及　長親我不敢曰可是也懐王忿<lb/>
+　張儀之詐發兵攻秦文又曰今又<graphic n="KR0662" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0662.png" mimeType="image/png"/>興其衆<lb/>
+　以偪我邊境是也是歳秦遣庶長章拒䠂文<lb/>
+　又曰禮使介老將之以自救是也此文之作<lb/>
+<pb n="KR4h0021_SBCK_001-15a"/>
+　乃秦惠文王之後十二年楚懷王之十六年<lb/>
+　也明年春庶長章擊楚於丹陽虜其將屈匄<lb/>
+　又攻䠂漢中取地六百里乃既詛之後史楚<lb/>
+　王無名相者或以相與啇聲相近遂以熊相<lb/>
+　爲威王熊商攷秦惠文王之立雖在䠂威王<lb/>
+　二年然終威王之丗秦䠂未甞以兵相加也<lb/>
+　或以䠂自成王至頃襄王十八丗遂以爲頃<lb/>
+　㐮王横秦人之文自不應數楚之世況頃襄<lb/>
+　王立乃秦昭王九年歴恵文武王至昭王是<lb/>
+　時楚巳微弱非秦所畏不應有詛也或謂姓<lb/>
+<pb n="KR4h0021_SBCK_001-15b"/>
+　書以熊相爲芉姓如熊相禖熊相祈熊相冝<lb/>
+　僚皆芈姓列國類不名其君故特稱其姓然<lb/>
+　亦未安相疑懷王名丗家作槐年表作魏傳<lb/>
+　冩之誤也巫咸在解州鹽池西南乆湫在安<lb/>
+　定郡即朝郍湫也亞駞即呼沲河顧野王攷<lb/>
+　其地在靈丘竹書紀年穆公十一年取靈丘<lb/>
+　故亞駞自穆公以來爲秦境也時邵鼛徧走<lb/>
+　羣望想不止三所今見於丗者止此耳著諸<lb/>
+　石章或沉或瘞石麤可礪圖其乆而存也趙<lb/>
+　德甫金石録云張芸叟黄魯直皆有釋文丗<lb/>
+<pb n="KR4h0021_SBCK_001-16a"/>
+　必有存者偶未之見俟㝷訪以校今音之異<lb/>
+　同云臨川王厚之順伯<lb/>
+　　　嶧山刻石文<lb/>
+<hi>嶧音亦山在魯鄒縣爾雅嶧山純石相積<graphic n="KR0799" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0799.png" mimeType="image/png"/>連属而成山按史記秦始皇二十六年</hi>
+<hi>𥘉并天下自號曰皇帝二十八年東行郡縣上鄒嶧山遂上泰山封祀並勃海以東</hi>
+<hi>登之罘又作琅邪臺二十九年登之罘三十二年之碣石三十七年上㑹稽並刻石</hi>
+<hi>頌秦徳凢七處史載其辭者五二十九年之罘又載東觀刻辭惟二十八年嶧山并</hi>
+<hi>之罘二刻石辭不載豈偶遺佚抑有去取邪東南惟㑹稽尚存石刻宋書竟陵王子</hi>
+<hi>良剋日登秦望山主簿范雲以山上有始皇石刻文三句一韻又皆大篆人多不識</hi>
+<hi>乃夜取史記讀之明日登山賔僚皆茫然不識雲讀如流子良大恱以爲上賓</hi>
+<pb n="KR4h0021_SBCK_001-16b"/>
+皇帝立國維𥘉在昔嗣丗稱王<hi>毎三句爲韻始皇十三歳嗣位</hi>
+<hi>爲秦王</hi>討伐亂逆威動四極武義直方戎臣奉詔<lb/>
+<hi>戎臣將帥緫戎之臣詔者天子之命也</hi>經時不乆滅六暴強<hi>三晉楚燕齊六</hi>
+<hi>強國</hi>二十有六年<hi>句皆四字二十/當合爲廿音入</hi>上薦髙號<hi>兼并天下</hi>
+<hi>羣臣上尊號遂稱皇帝</hi>孝道顯明旣獻泰成<hi>謂告成于天</hi>乃降<lb/>
+專惠親廵逺方<hi>史記載泰山文親廵逺方黎民國朝大觀中汶陽劉跋親至泰山絶</hi>
+<hi>頂見其碑模之以歸乃作親<graphic n="KR1741" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1741.png" mimeType="image/png"/>逺黎</hi>登于嶧山群臣從者咸思攸<lb/>
+長追念亂丗分土建邦以開爭理攻戰日作流<lb/>
+血於野自㤗古始丗無萬數阤及五帝莫能禁<lb/>
+止廼今皇帝壹家天下兵不復起<hi>始皇罷侯置守以爲自古</hi>
+<pb n="KR4h0021_SBCK_001-17a"/>
+<hi>莫及已及羣臣稱頌之辭徃徃若此</hi>災害滅除黔首康定<hi>史記秦更名民爲黔首</hi>
+利澤長乆群臣誦略<hi>言功德隆盛羣臣莫能名言但誦其大畧而已</hi>刻此<lb/>
+樂石<hi>石之精堅堪爲樂噐者如泗濵浮磬之類</hi>以著經紀<lb/>
+　皇帝曰金石刻盡始皇帝所爲也今襲號而<lb/>
+　金石刻辭不稱始皇帝其於乆遠也如後嗣<lb/>
+　爲之者不稱成功盛德丞相臣斯<hi>李斯</hi>臣去疾<lb/>
+<hi>馮去疾</hi>御史大夫臣德昧死言<hi>秦尊君卑臣羣臣昧死而後言蔡邕</hi>
+<hi>獨断曰漢承秦法羣臣上書皆言昧死</hi>臣請具刻詔書金石刻<lb/>
+　因明白矣臣冒死請制曰可<hi>巳上二丗所刻辭按史記二丗東行</hi>
+<hi>郡縣李斯從到碣石並海南至㑹稽而盡刻始皇所刻石石旁著大臣從者名以章先帝成功盛德焉云云</hi>
+<pb n="KR4h0021_SBCK_001-17b"/>
+</p>
+<p>
+古文苑卷第一<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

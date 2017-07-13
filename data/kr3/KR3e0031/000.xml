@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>小兒衛生總微論方</head>
+    <p>
+<pb n="KR3e0031_WYG_000-1a"/>
+欽定四庫全書　　　　　子部五<lb/>
+　小兒衛生總微論方　　　醫家類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案小兒衛生總微論方二十卷不著<lb/>
+　　　　撰人名氏凡論一百條自初生以至成童無<lb/>
+　　　　不悉備論後各附以方前有嘉定丙午和安<lb/>
+　　　　大夫特差判太醫局何大任序稱家藏是書<lb/>
+　　　　六十餘載不知作者為誰博加搜訪亦未嘗<lb/>
+<pb n="KR3e0031_WYG_000-1b"/>
+　　　　聞此書之流播因鋟於行在太醫院以廣其<lb/>
+　　　　傳按宋錢乙仲陽以治小兒得名其藥證真<lb/>
+　　　　訣一書僅有傳本亦不免缺略其他如晁陳<lb/>
+　　　　二氏所著録者有兒童寶鏡小兒靈秘方小<lb/>
+　　　　兒至訣小兒醫方小兒斑疹論諸書皆不可<lb/>
+　　　　得見是書詳載各症如梗舌鱗瘡之類悉近<lb/>
+　　　　時醫書所未備其議論亦篤實明晰無明以<lb/>
+　　　　來諸醫家黨同伐異自立門户之習誠保嬰<lb/>
+<pb n="KR3e0031_WYG_000-2a"/>
+　　　　之要書也此本為明𢎞治已酉濟南朱臣刻<lb/>
+　　　　於寧國府者改名保幼大全今据嘉定本原<lb/>
+　　　　序復題本名臣序又稱得之醫者鄭和和稱<lb/>
+　　　　得之古冢中其説迂怪蓋方技家自神其授<lb/>
+　　　　受亦無取焉乾隆四十三年五月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+<pb n="KR3e0031_WYG_000-3a"/>
+小兒衛生總微論方原序<lb/>
+余先君有小兒衛生總㣲論方二十卷家藏甚久今六<lb/>
+十餘載矣不知作者謂誰博加捜訪未嘗聞此書之流<lb/>
+播也自嬰孩初育以至成童所謂保衛其生總括精微<lb/>
+視古今方書極為詳盡仁哉著書者之心也宗族親舊<lb/>
+間㓜稚有疾余毎口傳指授効如影響又取其可以通<lb/>
+用於大人者増湯劑而用之尤為神異豈此書不言之<lb/>
+妙有待於余而發耶烏可掩為一家之寶而不與人共<lb/>
+<pb n="KR3e0031_WYG_000-3b"/>
+之於是集二三同志訂正其騰冩之舛鋟於行在太醫<lb/>
+局以廣其傳得此者敬而用之當知余言不繆或未免<lb/>
+畫蛇添足之譏不暇顧矣吁齊魯大臣史失其名恨不<lb/>
+得詳其人也嘉定丙午立春日和安大夫特差判太醫<lb/>
+局何大任序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

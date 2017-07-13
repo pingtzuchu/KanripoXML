@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2m0053_WYG_297-1a"/>
+欽定四庫全書<lb/>
+欽定八旗通志卷二百八十三<lb/>
+　世職表六<lb/>
+　　正白旗滿洲世職下<hi>騎都尉</hi>　<hi>雲騎尉/</hi>　<hi>恩騎尉</hi>
+　　　騎都尉<lb/>
+<pb n="KR2m0053_WYG_297-2a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_297-3a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_297-4a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_297-5a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_297-6a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_297-7a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_297-8a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_297-9a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_297-10a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_297-11a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_297-12a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_297-13a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_297-14a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_297-15a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_297-16a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_297-17a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_297-18a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_297-19a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_297-20a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_297-21a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_297-22a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_297-23a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_297-24a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_297-25a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_297-26a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_297-27a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_297-28a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_297-29a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_297-30a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_297-31a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_297-32a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_297-33a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_297-34a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_297-35a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_297-36a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_297-37a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_297-38a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_297-39a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_297-40a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_297-41a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_297-42a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_297-43a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_297-44a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_297-45a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_297-46a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_297-47a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_297-48a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_297-49a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_297-50a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_297-51a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_297-52a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_297-53a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_297-54a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_297-55a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_297-56a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_297-57a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_297-58a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_297-59a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_297-60a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_297-61a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_297-62a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_297-63a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_297-64a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_297-65a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_297-66a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0053_WYG_297-66b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+欽定八旗通志卷二百八十三<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>傷寒㣲㫖論目録</head> <lb/>
+    <p>
+<pb n="KR3e0025_WYG_000-1a"/>
+欽定四庫全書　　　　　子部五<lb/>
+　提要<lb/>
+　　傷寒微㫖論二卷　　　醫家類<lb/>
+　　　　<hi>臣</hi>等謹案傷寒微㫖二卷宋韓祇和撰是書<lb/>
+　　　　宋史藝文志不載陳振孫書録解題載有其<lb/>
+　　　　名亦不著作者名氏但據序題元祐丙寅知<lb/>
+　　　　其為哲宗時人而已今檢永樂大典各卷内<lb/>
+　　　　此書散見頗多每條悉標韓祇和之名而元<lb/>
+<pb n="KR3e0025_WYG_000-1b"/>
+　　　　戴良九靈山房集亦稱自漢張機著傷寒論<lb/>
+　　　　晉王叔和宋成無已龎安常朱肱許叔微韓<lb/>
+　　　　祇和王賓之流皆互有闡發其間祇和姓名<lb/>
+　　　　與永樂大典相合是祇和實北宋名醫以傷<lb/>
+　　　　寒為專門者特宋史方技𫝊不載其履貫遂<lb/>
+　　　　不可考耳書凡十五篇間附方論大抵皆推<lb/>
+　　　　闡張機之㫖而能變通於其間其可下篇不<lb/>
+　　　　立湯液惟以早下為大戒盖為氣質羸弱者<lb/>
+<pb n="KR3e0025_WYG_000-2a"/>
+　　　　言然當以脈證相参知其邪入陽明與否以<lb/>
+　　　　分汗下不宜矯枉過直竟廢古方至如辨脈<lb/>
+　　　　篇據傷寒例桂枝下咽陽盛乃斃承氣入胃<lb/>
+　　　　隂盛乃亡之義以攻楊氏之謬誤可汗篇分<lb/>
+　　　　隂盛陽虚陽盛隂虚隂陽俱盛三門則俱能<lb/>
+　　　　師張氏而神明其意矣又如汗下温三法分<lb/>
+　　　　按時候辰刻而参之脈理病情乃因張機正<lb/>
+　　　　傷寒之法而通之於春夏傷寒更通之於冬<lb/>
+<pb n="KR3e0025_WYG_000-2b"/>
+　　　　月傷寒亦頗能察微知著又如以陽黄歸之<lb/>
+　　　　過下亡津則於金匱發陽發隂之論研析精<lb/>
+　　　　微不特傷寒之黄切中窽要即雜病之黄亦<lb/>
+　　　　可以例推矣其書向惟王好古隂證畧例中<lb/>
+　　　　間引其文而原本久佚今採掇薈稡復成完<lb/>
+　　　　帙謹依原目釐為上下二卷陳振孫所稱之<lb/>
+　　　　原序則永樂大典不載無從採補殆編纂之<lb/>
+　　　　時舊本已闕歟乾隆四十六年九月恭校上<lb/>
+<pb n="KR3e0025_WYG_000-3a"/>
+　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="KR3e0025_WYG_000-4a"/>
+欽定四庫全書<lb/>
+　傷寒㣲㫖論目録<lb/>
+　　卷上<lb/>
+　　　傷寒源篇<lb/>
+　　　傷寒平脈篇<lb/>
+　　　辨脈篇<lb/>
+　　　陰陽盛虚篇<lb/>
+　　　治病隨證加減藥篇<lb/>
+<pb n="KR3e0025_WYG_000-4b"/>
+　　　用藥逆篇<lb/>
+　　　可汗篇<lb/>
+　　　可下篇<lb/>
+　　卷下<lb/>
+　　　總汗下篇<lb/>
+　　　辨汗下藥力輕重篇<lb/>
+　　　溫中篇<lb/>
+　　　小便大便篇<lb/>
+<pb n="KR3e0025_WYG_000-5a"/>
+　　　畜血證篇<lb/>
+　　　隂黄證篇<lb/>
+　　　勞復證篇<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

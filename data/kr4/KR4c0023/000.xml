@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>高常侍集目録</head>
+    <p>
+<pb n="KR4c0023_WYG_000-1a"/>
+欽定四庫全書　　　　　集部二<lb/>
+　高常侍集目録　　　　　别集類一<hi>唐</hi>
+　　巻一<lb/>
+　　　詩一<lb/>
+　　巻二<lb/>
+　　　詩二<lb/>
+　　巻三<lb/>
+　　　詩三<lb/>
+<pb n="KR4c0023_WYG_000-1b"/>
+　　巻四<lb/>
+　　　詩四<lb/>
+　　巻五<lb/>
+　　　詩五<lb/>
+　　巻六<lb/>
+　　　詩六<lb/>
+　　巻七<lb/>
+　　　詩七<lb/>
+<pb n="KR4c0023_WYG_000-2a"/>
+　　巻八<lb/>
+　　　詩八<lb/>
+　　巻九<lb/>
+　　　雜著<lb/>
+　　巻十<lb/>
+　　　表<lb/>
+　　　　<hi>臣</hi>等謹按髙常侍集十巻唐髙適撰適字達<lb/>
+　　　　夫唐書作渤海人其集亦題曰渤海河間府<lb/>
+<pb n="KR4c0023_WYG_000-2b"/>
+　　　　志據其封丘縣詩我本漁樵孟諸野句又初<lb/>
+　　　　至封丘詩有去家百里不得歸句定為梁宋<lb/>
+　　　　間人而集中别孫沂詩題下又註時俱客宋<lb/>
+　　　　中則又似非生於梁宋者考唐代士人多題<lb/>
+　　　　其郡望史傳亦復因之往往失其里籍劉知<lb/>
+　　　　㡬作史通極言其弊而終不能更適籍既無<lb/>
+　　　　定辭則亦闕疑可也適集唐志十巻通考又<lb/>
+　　　　有集外文一巻詩一巻此本從宋本影鈔内<lb/>
+<pb n="KR4c0023_WYG_000-3a"/>
+　　　　廓字闕筆避寧宗嫌名當為慶元以後之本<lb/>
+　　　　凡詩八巻文二巻其集外詩文則無之考明<lb/>
+　　　　人所刻適集以太平廣記髙鍇侍郎墓中狐<lb/>
+　　　　妖絶句所謂危冠髙髻楚宫粧閒步前庭趂<lb/>
+　　　　夜涼自把玉簮敲砌竹清歌一曲月如霜者<lb/>
+　　　　併載入之蕪襍殊甚又九日一詩見宋程俱<lb/>
+　　　　北山集毛竒齡選唐人七律亦誤題適作此<lb/>
+　　　　本不載較他本特為精審第十巻中有賀安<lb/>
+<pb n="KR4c0023_WYG_000-3b"/>
+　　　　禄山死表稱臣得河南道及諸州牒皆言逆<lb/>
+　　　　賊安禄山苦痛而死手足俱落眼鼻殘壞則<lb/>
+　　　　禄山竟以病死與史載李猪兒事迥異葢兵<lb/>
+　　　　戈雲擾得諸傳聞不能盡確固未可據以訂<lb/>
+　　　　史耳乾隆四十一年十一月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　總　校　官<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

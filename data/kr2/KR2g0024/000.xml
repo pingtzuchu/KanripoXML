@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>宋名臣言行錄</head>
+    <p>
+<pb n="KR2g0024_WYG_000-1a"/>
+欽定四庫全書　　　　　史部七<lb/>
+　宋名臣言行錄　　　　　傳記類三<hi>總錄之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案宋名臣言行錄前集十巻後集十<lb/>
+　　　　四巻續集八巻别集二十六巻外集十七巻<lb/>
+　　　　前集後集並朱子撰續集别集外集李幼武<lb/>
+　　　　所補編㓜武字士英廬陵人據其續集序文<lb/>
+　　　　蓋理宗時所作其始末則未詳觀其外集所<lb/>
+<pb n="KR2g0024_WYG_000-1b"/>
+　　　　錄皆道學宗派則亦講學家矣趙希弁讀書<lb/>
+　　　　附志載此書七十二巻今合五集計之實七<lb/>
+　　　　十五巻殆傳刻者誤以五為二歟朱子自序<lb/>
+　　　　謂讀近代文集及紀傳之書多有禆於世教<lb/>
+　　　　於是掇取其要聚為此書乃編中所錄如趙<lb/>
+　　　　普之陰險王安石之堅僻吕惠卿之姦詐與<lb/>
+　　　　韓范諸人並列莫詳其㫖明楊以任序謂是<lb/>
+　　　　書各臚其實亦春秋勸懲之㫖非必専以取<lb/>
+<pb n="KR2g0024_WYG_000-2a"/>
+　　　　法又解名臣之義以為名以藏偽有敗而不<lb/>
+　　　　敗者其置詞頗巧然劉安世氣節凛然争光<lb/>
+　　　　日月盡言集元城語錄今日尚傳當日不容<lb/>
+　　　　不見乃不登一字則終非後人所能喻考吕<lb/>
+　　　　祖謙東萊集有與汪尚書書曰近建寧刻一<lb/>
+　　　　書名五朝名臣言行錄<hi>案祖謙所見係前集故但稱五朝</hi>云<lb/>
+　　　　是朱元晦所編其間當考訂處頗多近亦往<lb/>
+　　　　問元晦未報不知曽過目否晦庵集中亦有<lb/>
+<pb n="KR2g0024_WYG_000-2b"/>
+　　　　與祖謙書曰名臣言行錄一書亦當時草草<lb/>
+　　　　為之其間自知尚多謬誤編次亦無法初不<lb/>
+　　　　成文字因看得為訂正示及為幸云云則是<lb/>
+　　　　書瑕瑜互見朱子原自不諱講學家一字一<lb/>
+　　　　句尊若春秋恐轉非朱子之意矣又葉盛水<lb/>
+　　　　東日記曰今印行宋名臣言行錄前集後集<lb/>
+　　　　續集别集外集有景定辛酉浚儀趙崇硂引<lb/>
+　　　　云其外孫李㓜武所輯且云朱子所編止八<lb/>
+<pb n="KR2g0024_WYG_000-3a"/>
+　　　　朝之前士英所編則南渡中興之後四朝諸<lb/>
+　　　　名臣也今觀後集一巻有李綱二巻有吕頤<lb/>
+　　　　浩三巻有張浚皆另在巻前不在目錄中又<lb/>
+　　　　缺殘脱板甚多頗疑其非朱子手筆為後人<lb/>
+　　　　所増損必多葢朱子纂輯本意非為廣聞見<lb/>
+　　　　期有補於世教而深以虚浮怪誕之説為非<lb/>
+　　　　今其間吕夷簡非正人而記翦髭賜藥之詳<lb/>
+　　　　余襄公正人而有杖臀懐金之恥蘇子瞻蘇<lb/>
+<pb n="KR2g0024_WYG_000-3b"/>
+　　　　木私鹽等事亦無甚闗繫若此者葢不一也<lb/>
+　　　　李居安所謂翦裁纂要是之謂歟嘗見章副<lb/>
+　　　　使繪有此書巾箱小本又聞叔簡尚寳家有<lb/>
+　　　　宋末廬陵鍾堯俞所編言行類編舉要十六<lb/>
+　　　　巻前後集尚俟借觀以祛所惑云云則盛於<lb/>
+　　　　此書亦頗有所疑顧就其所錄觀之宋一代<lb/>
+　　　　之嘉言懿行畧具於斯旁資檢閲固亦無所<lb/>
+　　　　不可矣㓜武所補大扺一歩一趨無甚出入<lb/>
+<pb n="KR2g0024_WYG_000-4a"/>
+　　　　其所去取不足以為重輕以原本附驥而行<lb/>
+　　　　今亦姑並存之備考核焉乾隆四十四年正<lb/>
+　　　　月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸鍚熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官　<hi>臣</hi>陸費墀<lb/>
+<pb n="KR2g0024_WYG_000-5a"/>
+宋名臣言行錄前集原序<lb/>
+予讀近代文集及記事之書觀其所載國朝名臣言行<lb/>
+之迹多有補於世教者然以其散出而無統也既莫究<lb/>
+其始終表裏之㑹而又汨於虚浮怪誕之說予常病之<lb/>
+於是掇取其要聚為此書以便記覽尚恨書籍不備多<lb/>
+所遺闕嗣有所得當續書之新安朱熹序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

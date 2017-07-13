@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3j0095_WYG_003-1a"/>
+珩璜新論跋<lb/>
+右孔氏雜説毅父記録之文也三孔文字漫不可得獨<lb/>
+此編乃傳圖之珩璜論渝川丁氏嘗板於家視此為稍<lb/>
+畧且珩璜之名未知所由或謂玉之碎者豈其然乎舊<lb/>
+嘗見吳虎臣引其數則以為雜説兹故因之淳熈庚子<lb/>
+九日臨江假守吳興沈詵識<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>東臯錄</head>
+    <p>
+<pb n="KR4e0017_WYG_000-1a"/>
+欽定四庫全書　　　　集部六<lb/>
+　東臯錄　　　　　　　　别集類五<hi>明</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案東臯録三巻明釋妙聲撰妙聲字<lb/>
+　　　　九臯呉縣人元末居景徳寺後居常熟慧日<lb/>
+　　　　寺又主平江北禪寺洪武三年與釋萬金同<lb/>
+　　　　被召莅天下釋教所作詩文繕冩藏之山房<lb/>
+　　　　洪武十七年其徒徳瓛始刋行之明史藝文<lb/>
+<pb n="KR4e0017_WYG_000-1b"/>
+　　　　志明僧宏秀集皆作七巻此本有汲古閣印<lb/>
+　　　　葢毛晉家鈔本前有晉題識亦稱徳瓛所刻<lb/>
+　　　　凡詩三巻雜文四卷而其書雜文及詩僅共<lb/>
+　　　　為三卷葢傳録時所合併也妙聲入明時年<lb/>
+　　　　已六十餘詩文多至正中所作故顧嗣立元<lb/>
+　　　　詩選亦録是集然方外者流不攖爵禄不能<lb/>
+　　　　以受官與否為兩朝之斷限既已謁帝金門<lb/>
+　　　　即屬歸誠新主不能復以遺老稱矣今繫之<lb/>
+<pb n="KR4e0017_WYG_000-2a"/>
+　　　　明從其實也妙聲與袁桷張翥危素等俱相<lb/>
+　　　　友善故所作頗有士風當元李擾攘之時感<lb/>
+　　　　事抒懐往往激昻可誦雜文體裁清整四六<lb/>
+　　　　儷語亦具有南宋遺風在緇流之内雖未能<lb/>
+　　　　語帶烟霞猶非氣含蔬筍者也乾隆四十六<lb/>
+　　　　年九月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="KR4e0017_WYG_000-3a"/>
+東臯録題識<lb/>
+師名妙聲字九臯呉郡人也姑蘇志云景徳寺僧有詩<lb/>
+<hi>闕</hi>生平多著述名東臯錄命弟子繕冩蔵之山房總其<lb/>
+事者白蓮住山完敬修虎丘蔵主慧無盡善士陳君錫<lb/>
+也洪武十七年甲子春法孫徳瓛跋而授梓凡詩三巻<lb/>
+序記贊銘傳跋雜文四巻其中載記同衣行業既多且<lb/>
+詳劉子威呉釋傳皆拾其餘沫也尤長於四六儷語巻<lb/>
+末諸山江湖等疏堪與月泉吟社往復詩啟並傳其興<lb/>
+<pb n="KR4e0017_WYG_000-3b"/>
+福桃源諸記余已撰入邑乘云東呉毛晉子晉識<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

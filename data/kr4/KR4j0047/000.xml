@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>白石道人歌曲</head>
+    <p>
+<pb n="KR4j0047_WYG_000-1a"/>
+欽定四庫全書　　　　　集部十<lb/>
+　白石道人歌曲　　　　　詞曲類一<hi>詞集之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案白石道人歌曲四巻别集一巻宋<lb/>
+　　　　姜䕫撰䕫有綘帖平續書譜詩集詩説俱别<lb/>
+　　　　著録此其樂府詞也䕫詩格髙秀為楊萬里<lb/>
+　　　　等所推詞亦精深華妙尤善自度新腔故音<lb/>
+　　　　節文采並冠絶一時其詩所謂自製新詞韻<lb/>
+<pb n="KR4j0047_WYG_000-1b"/>
+　　　　最嬌小紅低唱我吹簫者風致尚可想見惟<lb/>
+　　　　其集久無善本舊有毛晉汲古閣刋板僅三<lb/>
+　　　　十四闋而題下小序往往不載原文康熙甲<lb/>
+　　　　午陳撰刻其詩集以詞附後亦僅五十八闋<lb/>
+　　　　且小序及題下自註多意為刪竄又出毛本<lb/>
+　　　　之下此本從宋槧翻刻最為完善巻一宋鐃<lb/>
+　　　　歌十四首越九歌十首琴曲一首巻二詞三<lb/>
+　　　　十三首總題曰令巻三詞二十首總題曰慢<lb/>
+<pb n="KR4j0047_WYG_000-2a"/>
+　　　　巻四詞十三首皆題曰自製曲别集詞十八<lb/>
+　　　　首不復標列總名疑後人所掇拾也其九歌<lb/>
+　　　　皆註律吕于字旁琴曲亦註指法于字旁皆<lb/>
+　　　　尚可解惟自製曲一巻及二巻鬲溪梅令杏<lb/>
+　　　　花天影醉吟商小品玉梅令三巻之霓裳中<lb/>
+　　　　序第一皆記拍于字旁宋代曲譜今不可見<lb/>
+　　　　亦無人能歌莫辨其節奏安在然歌詞之法<lb/>
+　　　　僅僅留此一線録而存之安知無懸解之士<lb/>
+<pb n="KR4j0047_WYG_000-2b"/>
+　　　　能尋其分别者乎魯鼓薛鼓亡其音而留其<lb/>
+　　　　譜亦此意也舊本巻首冠以詩説僅三頁有<lb/>
+　　　　餘殆以不成巻帙附詞以行然䕫自有白石<lb/>
+　　　　道人詩集列于詞集殊為不類今移附詩集<lb/>
+　　　　之末此不複錄焉乾隆四十六年十月恭校<lb/>
+　　　　上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4f0053_SBCK_006-1a"/>
+戴東原集卷弟六<lb/>
+　四庫館纂修官翰林院庶吉士戴震譔<lb/>
+　　　水經酈道元注序<lb/>
+　　　書水經注後<lb/>
+　　　荅曹給事書<lb/>
+　　　應州續志序<lb/>
+　　　記洞過水<lb/>
+水經酈道元注序<lb/>
+後魏御史中尉范陽酈道元字善長撰水經注四十卷<lb/>
+蕭寶夤之亂道元叱賊而死贈吏部尙書冀州刺史安<lb/>
+<pb n="KR4f0053_SBCK_006-1b"/>
+定縣男善長雖依經附注不言水經撰自何人唐書蓺<lb/>
+文志始以爲桑欽撰欽在班固前固嘗引其說與水經<lb/>
+違異晉巳來注水經凡二家郭璞注三卷唐時猶存杜<lb/>
+君卿言二家皆不詳所撰者名氏亦不知何代之書則<lb/>
+景純巳不能言其作者矣崇文總目水經注亾者五卷<lb/>
+今所傳卽宋之<graphic n="KR0714" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0714.png" mimeType="image/png"/>本後人又加割裂以傳合四十卷之<lb/>
+數如注文江水又東逕巫縣<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>城南注譌<graphic n="KR0844" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0844.png" mimeType="image/png"/>爲經遂與<lb/>
+前經文又東過巫縣南割分異卷唐六典注云水經所<lb/>
+引天下之水百三十七今自河水至斤員水<hi>案舊作斤江水今從</hi>
+<hi>漢志作員</hi>凡百二十三應脫逸十有四水葢在五卷中者也<lb/>
+<pb n="KR4f0053_SBCK_006-2a"/>
+王伯厚通鑑地理通釋引水經四事惟魏興安陽一事<lb/>
+屬經文餘三事咸酈注之譌爲經者<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>其作書時世益<lb/>
+莫能定水經立文首云某水所出巳下無庸重舉水名<lb/>
+而注內詳及所納羣川加以採摭<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>實彼此相襍則一<lb/>
+水之名不得不㪅端重舉經文敘次所過郡縣如云又<lb/>
+東過某縣之類一語實該一縣而注則沿溯縣西以終<lb/>
+於東詳記所逕委曲經據當時縣治至善長作注時縣<lb/>
+邑流移是以多稱<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>城經無言<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>城者也凡經例云過<lb/>
+注例云逕以是推之雖經注相淆而尋求端緒可俾歸<lb/>
+條貫善長於經文涪水至小廣魏解之曰小廣魏卽廣<lb/>
+<pb n="KR4f0053_SBCK_006-2b"/>
+漢縣也於鍾水過魏寧縣解之曰魏寧<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>陽安也晉太<lb/>
+康元秊改曰晉寧然則水經上不逮漢下不及晉初實<lb/>
+魏人纂敘無疑史言善長好學廣覽奇書<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>是注之傳<lb/>
+或以其綜覈或尙其文詞至於觸類引伸因川源之派<lb/>
+別知山勢之逶迤高高下下不失地阞取資信非一端<lb/>
+然譌舛旣久雖善讀古書如閻百詩顧景范胡朏明諸<lb/>
+子其論述所渉猶輒<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>違斯訂正之不可以巳也審其<lb/>
+義例按之地望兼以各本參<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>是書所由致謬之<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>昭<lb/>
+然可舉而正之至若四十卷之爲三十五合其所分無<lb/>
+復據證今以某水各自爲篇北方之水莫大於河而河<lb/>
+<pb n="KR4f0053_SBCK_006-3a"/>
+巳北河巳南眾川因之得其敘矣南方之水莫大於江<lb/>
+而江巳北江巳南眾川因之得其敘矣惟以地相連比<lb/>
+篇次不必一還其舊庶乎川渠纏絡有條而不紊焉休<lb/>
+寧戴震<lb/>
+　河水一河水二河水三渠陰溝水汳水獲水睢水瓠<lb/>
+　子河汾水晉水文水原公水同過水澮水涑水湛水<lb/>
+　沁水淸水渭水漆水沮水滻水洛水穀水㵎水瀍水<lb/>
+　甘水伊水淇水蕩水洹水濁漳水淸漳水滱水易水<lb/>
+　巨馬河聖水㶟水㶟餘水沽河鮑丘水濡水遼水<hi>小遼</hi>
+<hi>水</hi>浿水濟水汶水淄水巨洋水濰水東汶水膠水泗<lb/>
+<pb n="KR4f0053_SBCK_006-3b"/>
+　水洙水沂水沭水淮水汝水滍水潕水瀙水灈水潁<lb/>
+　水㶏水潩水洧水潧水決水沘水泄水肥水施水江<lb/>
+　水夷水夏水溳水漻水漾水潛水羌水涪水梓橦水<lb/>
+　南沮水漳水沔水涔水均水丹水粉水淯水湍水比<lb/>
+　水白水蘄水沫水靑衣水若水淹水油水澧水沅水<lb/>
+　延江水資水湘水鍾水㴱水耒水洣水漉水漣水瀏<lb/>
+　水㵋水廬江水贛水漸江水桓水葉榆河溫水存水<lb/>
+　泿水灕水洭水溱水斤員水禹貢山水澤地<hi>序</hi>
+書水經注後<lb/>
+夏六月閱胡朏明禹貢錐指所引水經注疑之因檢酈<lb/>
+<pb n="KR4f0053_SBCK_006-4a"/>
+氏書㞡轉推求始知朏明所由致謬之<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>是書至唐宋<lb/>
+閒遂<graphic n="KR0714" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0714.png" mimeType="image/png"/>闕淆紊經多誤入注內而注誤爲經校者往往<lb/>
+以意增改如河水注北河又東逕莎車國南北河又東<lb/>
+南逕溫㝛國北河皆當作枝河蒙上左合枝水之文今<lb/>
+本作北河者殆後人所改又如濟水經文東至北礫溪<lb/>
+南注文又東南礫石溪水注之水出滎陽城西南李澤<lb/>
+東北注於濟世謂之礫石㵎卽經所謂礫溪矣經云濟<lb/>
+水出其南非也今注重<graphic n="KR0844" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0844.png" mimeType="image/png"/>爲經胡朏明引其文乃曰上<lb/>
+有北礫溪<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>此爲南礫溪石字衍不知注明言礫石溪<lb/>
+東北注濟則濟實過其北且辨正經文不當云至礫溪<lb/>
+<pb n="KR4f0053_SBCK_006-4b"/>
+南其無二礫溪固顯然南北二字殆後人誤增書中類<lb/>
+此者不勝悉數據崇文總目酈氏書四十卷亾其五今<lb/>
+仍作四十卷者葢後人所分以傅合其卷數元和志寰<lb/>
+宇記等書引水經注滹沱河涇水洛水今皆無之或在<lb/>
+所亾之五卷內歟水經有郭璞注三卷唐時猶存杜氏<lb/>
+通典引水經四事證其爲順帝以後纂敘郡國志桂陽<lb/>
+郡漢寧永和元秊置吳改曰陽安晉太康元秊改曰晉<lb/>
+寧縣在桂陽郡東百二十里三國時吳與蜀分荆州南<lb/>
+郡零陵武陵巳西爲蜀江夏桂陽長沙巳東爲吳南陽<lb/>
+襄陽南鄕三郡爲魏吳志孫晧甘露元秊十一月以桂<lb/>
+<pb n="KR4f0053_SBCK_006-5a"/>
+陽南部爲始興郡十二月晉受魏禪未聞魏取陽安事<lb/>
+而水經鍾水北過魏寧縣之東葢作水經者魏人故於<lb/>
+廣漢漢寧悉改曰魏其書實出一手舊唐志云郭璞撰<lb/>
+新唐志以爲桑欽晁公武云欽爲此書而後人附益王<lb/>
+伯厚云酈氏附益皆非也今就酈氏所注考定經文別<lb/>
+爲一卷兼取注中前後倒紊不可讀者爲之訂正以附<lb/>
+於後是役也爲治酈氏書者棼如亂絲而還其注之脈<lb/>
+絡俾得條貫非治水經而爲之也乙酉秋八月戴震記<lb/>
+荅曹給事書<hi>庚寅</hi>
+承示元和志汾州一條僕有其全書曾摭入志其書之<lb/>
+<pb n="KR4f0053_SBCK_006-5b"/>
+可寶䝿自孟堅地理志道元水經注而外無有上之者<lb/>
+矣然地志至隋唐鑿空傅合之說又多於前人稍失精<lb/>
+覈不能無謬如敘汾州沿革數行云後屬魏謂之西河<lb/>
+子夏居西河吳起爲西河守皆謂此也謬一云武帝置<lb/>
+西河郡理富昌縣謬二云黃初二秊乃於漢兹氏縣置<lb/>
+西河郡卽今州理謬三云高齊又於此城置南朔州謬<lb/>
+四云周宣帝於此置汾州謬五云大業三秊廢汾州謬<lb/>
+六水經注謁泉山崖半有一石室厺地可五十餘丈而<lb/>
+張守節引隨國集記云此爲子夏石室退老西河居此<lb/>
+有卜商神祠元和志西河縣卜商祠在縣北四十里考<lb/>
+<pb n="KR4f0053_SBCK_006-6a"/>
+之魏書太和八秊置西河郡治兹氏城是爲西河郡治<lb/>
+在兹氏之始道元注水經時西河郡治新在此地<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>於<lb/>
+謁泉山及文水汶水絕不渉及子夏設敎以此地近汾<lb/>
+遠河西河之上不得移而虚加之汾上耳武侯浮西河<lb/>
+而下中流顧而謂吳起曰美哉乎山河之固浮河非浮<lb/>
+汾也道元以浮河事繫之夏陽子夏陵及廟室繫之郃<lb/>
+陽咸於魏都安邑不遠況古所稱西河未嘗以名郡卽<lb/>
+吳起爲西河守亦非如後世之郡守特舉龍門西河該<lb/>
+河之左右諸城魏未失陰晉少梁巳前其疆土在河西<lb/>
+者南至<graphic n="KR0990" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0990.png" mimeType="image/png"/>陰西至洛水北至今榆林府之北鄂爾多斯<lb/>
+<pb n="KR4f0053_SBCK_006-6b"/>
+地而趙之西邉邑與魏鄰不與秦鄰<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>趙成矦三秊當<lb/>
+魏武矦之十五秊趙世家云魏敗趙藺及秦孝公八秊<lb/>
+與魏戰取少梁越四秊當趙成侯之二十四秊趙世家<lb/>
+始云秦攻我藺其後藺離石中陽屢失於秦力復之以<lb/>
+守險魏秦之㺳趙藺皆自河西來漢玆氏縣在離石正<lb/>
+東趙地非魏地凡以爲魏之西河者謬也東觀記西河<lb/>
+郡治平定縣離石在郡南五百九里吉甫言理富昌縣<lb/>
+者徒因地理志首<graphic n="KR0844" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0844.png" mimeType="image/png"/>富昌<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>云然後漢書始云凡縣名<lb/>
+先書郡所治也孟堅作志未有斯例閻百詩曾論之如<lb/>
+梁國先書碭而治睢陽汝南郡先書平輿而治上蔡是<lb/>
+<pb n="KR4f0053_SBCK_006-7a"/>
+也百詩於西河郡亦從元和志則偶失檢耳凡以爲漢<lb/>
+西河郡治富昌者謬也水經原公水岀玆氏縣西芉頭<lb/>
+山道元注云魏黄初二秊西河恭王司馬子盛廟碑文<lb/>
+云西河舊處山林漢末擾攘百姓失所魏興㪅開疆宇<lb/>
+分割太原四縣以爲邦邑其郡帶山側塞矣王以咸寧<lb/>
+四秊改命爵土其秊十二月喪國臣太農閻崇離石令<lb/>
+宗羣等二百三十四人刋立石碑以述功德今案晉書<lb/>
+西河繆王斌字子政魏中郎武帝受襌封陳三秊改封<lb/>
+西河咸寧四秊薨子隱立謚字及改封與水經注微異<lb/>
+水經以碑繫之魏黄初二秊尢可致疑元和志云魏黄<lb/>
+<pb n="KR4f0053_SBCK_006-7b"/>
+初二秊於漢玆氏置西河郡然則黄初二秊實魏置西<lb/>
+河郡之始前此建安十八秊省州併郡廢西河郡入太<lb/>
+原至是復分太原之四縣置西河郡也黄初二秊下當<lb/>
+有記置郡所起者脫厺其文自黃初二秊越二百六十<lb/>
+四秊爲北魏太和八秊西河郡始治兹氏城司馬斌葬<lb/>
+兹氏<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>有廟碑在此吉甫因水經注西河王廟碑繫之<lb/>
+兹氏繫之黃初遂以爲是時卽置郡玆氏殊疏晉書地<lb/>
+理志西河國領縣四首離石固用後漢書例縣名先書<lb/>
+郡所治況碑文言其郡帶山側塞宜爲離石甚明晉改<lb/>
+兹氏日隰城碑末稱離石合宗羣等不稱隰城魏晉之<lb/>
+<pb n="KR4f0053_SBCK_006-8a"/>
+西河皆因漢永和五秊徙治離石之舊可據證固不一<lb/>
+矣凡以爲魏晉之西河治兹氏者謬也元和志介休下<lb/>
+云後魏明帝時爲賊所破至孝静帝㪅修築遷朔州軍<lb/>
+人鎭之因立爲南朔州但領軍人不領郡縣隋書以南<lb/>
+朔州爲齊置與介州皆於西河郡下言之疏謬失覈南<lb/>
+朔州介州竝在介休而元和志又汾州下溷稱高齊於<lb/>
+此城置南朔州葢襍襲羣書前後失檢如是凡以南朔<lb/>
+州繫之高齊繫之汾州者謬也魏書地形志延和三秊<lb/>
+置吐京鎭太和十二秊改鎭爲汾州治蒲子城其地在<lb/>
+今隰州孝昌中陷移治西河事詳裴良傳是爲汾州治<lb/>
+<pb n="KR4f0053_SBCK_006-8b"/>
+在西河之始不待後周宣帝也且西魏別置汾州在今<lb/>
+陜西延安府宐川縣後周以東魏之南汾州爲汾州在<lb/>
+今吉州尋改置汾州於今霍州平齊後廢齊之汾州其<lb/>
+郡縣屬介州隋開皇十八秊改汾州曰呂州卽後周所<lb/>
+置在今霍州者唐武德初以介休郡爲介州西河郡爲<lb/>
+浩州三秊改浩州爲汾州是周隋之汾州皆非西河郡<lb/>
+境而漫曰宣帝於此置汾州大業三秊廢汾州甚矣沿<lb/>
+革之不易言也以近古而有㳒如吉甫之作圖志一條<lb/>
+中紛然不治者六焉此外府境<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>實水經河水南過西<lb/>
+河圁陽縣東又南過離石縣西又南過中陽縣西又南<lb/>
+<pb n="KR4f0053_SBCK_006-9a"/>
+過土軍縣西據地望考之中陽西濱河當在今寧鄉縣<lb/>
+境趙世家秦取我西都及中陽是也道元乃云中陽<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>
+城在東東翼汾水不濱於河也元和志於孝義縣下云<lb/>
+魏移西河郡中陽於今理此條可證明水經之中陽其<lb/>
+所本之書道元偶失檢元和志中如此事僕曩者嘗據<lb/>
+以證水經及道元注各一中陽至若漢志西都屬西河<lb/>
+郡中都屬太原郡魏王泰張守節溷而一之水經汾水<lb/>
+南過大陵縣東道元注云汾水於縣迆爲鄔澤其陂東<lb/>
+西四里南北一十餘里陂南接鄔地理志曰九澤在北<lb/>
+幷州藪也呂氏春秋謂之大陸又名之曰漚洟之澤俗<lb/>
+<pb n="KR4f0053_SBCK_006-9b"/>
+謂之鄔城泊許愼說文曰漹水出西河中陽縣之西南<lb/>
+入河卽此水也道元所言鄔澤北起大陵南接鄔正今<lb/>
+平遥之西孝義之東介休之北冣爲洿下汾川轉徙不<lb/>
+常之地說文之漹水乃入河非入汾後世凡流水俗多<lb/>
+呼某河叔重得古學於賈侍中未嘗少假借漢中陽西<lb/>
+濱黄河說文亦一證道元就漹字與鄔字牽合謬矣孟<lb/>
+堅以鄔縣北九澤當周職方昭餘祁然爾雅稱晉有大<lb/>
+陸㷼有昭餘祁呂氏春秋稱晉之大陸趙之鉅鹿㷼之<lb/>
+大昭而周禮昭餘祁與虖池嘔夷淶易竝舉鄭康成云<lb/>
+嘔夷祁夷歟考嘔夷卽滱水出靈丘祁夷出平舒竝今<lb/>
+<pb n="KR4f0053_SBCK_006-10a"/>
+大同府境源流各別道元溷昭餘祁大陸嘔夷而一之<lb/>
+尢誤嘔夷亦川而非澤祁縣本晉祁氏之田因一祁字<lb/>
+而牽昭餘祁於祁縣因一夷字而疑嘔夷卽祁夷古人<lb/>
+言地且彼此交糾又何多責後之地志歟爾雅呂覧所<lb/>
+稱昭餘祁大昭繫之㷼㷼之不得跨太原而有祁平遙<lb/>
+介休甚明葢以漢人言周秦則多失以後魏人言漢魏<lb/>
+晉則多失以唐人言後魏齊周隋則多失勢使然也魏<lb/>
+收卽後魏人而地形志不能詳魏之州郡興廢其餘史<lb/>
+厪後一代作前代地志疏漏譌舛實多子長良史也而<lb/>
+史記中往往渉傳聞失實之語謂介之推逃入緜山顯<lb/>
+<pb n="KR4f0053_SBCK_006-10b"/>
+戾於左氏春秋漢西河郡穀羅武澤在西北武澤本名<lb/>
+虎澤唐人避廟諱所改胡三省注資治通鑑云虎澤應<lb/>
+在五原曼伯之北後漢建武二十六秊詔使匈奴徙居<lb/>
+西河美稷之虎澤亦卽此澤也葢境相接矣其說得之<lb/>
+五原曼柏其<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>城在河之西而顧景范讀史方輿紀要<lb/>
+以穀羅城及虎澤在永寧州北美稷城在汾州府西北<lb/>
+皆無可指實自府而西北至永寧州之北羣山蔟擁巖<lb/>
+谷之險絕無平地以容所謂虎澤者平遥志有尹吉甫<lb/>
+將臺及墓則後人以晉地之太原釋涇陽西北之太原<lb/>
+而吉甫之跡不難東移千餘里且指一墓實之元和志<lb/>
+<pb n="KR4f0053_SBCK_006-11a"/>
+孝義縣西五里有魏文矦墳縣東北二十五里有段干<lb/>
+木墓縣志則城西五里有魏文侯墓與元和志合城東<lb/>
+六里有段干木墓與元和志不合縣西北七里又有三<lb/>
+子墓指爲卜子夏田子方段干木是一縣中而段干木<lb/>
+墓凡二三水經注河水自河北城南東逕芮城二城之<lb/>
+中有段干木塚唐貞觀中詔芮城之魏文侯墓段干木<lb/>
+墓竝禁樵採元和在貞觀後幾二百秊而在芮城者又<lb/>
+在孝義凡宗仰㫺賢用寄愛慕雖指不知誰氏之壟而<lb/>
+聞名起敬可也援以證實用資考覈必有起而辨之者<lb/>
+志事頃已告竣不敢苟同前人處略陳梗槩如右<lb/>
+<pb n="KR4f0053_SBCK_006-11b"/>
+應州續志序<hi>己丑代</hi>
+余曩因詩古文詞所涉檢尋郡邑志書其於經史中地<lb/>
+名山川<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>城廢縣以及境内之利病往往遺而不載或<lb/>
+載之又漫無據證志之失大致盡然南豐吳君爲應州<lb/>
+政事之餘暇取舊志續之旣見者不復贅於篇曰應州<lb/>
+續志書成請序於余余覽其書凡舊文失覈必按諸史<lb/>
+事糾謬補逸葢不徒踵續是任也君旣勤於考訂則余<lb/>
+㪅質以未入是編二事其一舊志相承襲謂秦漢爲陰<lb/>
+館縣考漢志雁門郡陰館累頭山治水所出東至泉州<lb/>
+入海而武五子傳作台水許叔重說文解字㶟水出陰<lb/>
+<pb n="KR4f0053_SBCK_006-12a"/>
+館累頭山㶟水卽治水也魏書道武帝西幸馬邑觀灅<lb/>
+源水經字譌作濕以爲出陰館則同寰宇記累頭山在<lb/>
+雁門縣西北六十里今山在朔代閒其東南三十五里<lb/>
+卽句注山陰館城在句注陘北水經注桑乾枝水東流<lb/>
+通結兩湖俗謂之南池池北對汪陶縣之<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>城<lb/>
+又東北注　㶟水又東北逕白狼堆南又東流<lb/>
+四十九里逕巨魏亭北其言崞川水也北逕繁畤巨魏<lb/>
+亭劇陽闞駰十三州志劇陽在陰館東北百三里顧景<lb/>
+范讀史方輿紀要汪陶廢縣在應州西一統志汪陶在<lb/>
+山陰縣東白狼堆在應州西北巨魏亭在州北劇陽在<lb/>
+<pb n="KR4f0053_SBCK_006-12b"/>
+州東北然則應州殆漢汪陶劇陽二縣地陰館於地非<lb/>
+比矣其一北魏天平二秊置善無郡領善無沃陽二縣<lb/>
+方輿紀要沃陽廢縣在應州西南善無城在代州西北<lb/>
+七十里本漢縣考漢志沃陽有鹽澤水經注鹽池西南<lb/>
+厺沃陽<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>城六十五里十三州志善無縣南七十五里<lb/>
+有中陵縣中陵今寧武之神池縣而善無又在其北沃<lb/>
+陽鹽池唐爲安北都護之胡落鹽池今偏關外歸化城<lb/>
+西蒙古部地也偏關五寨所食鹽今仍自蒙古來况中<lb/>
+陵善無沃陽之水歸樹頽水以注黃河然則漢沃陽東<lb/>
+南距應州遠甚古今沿革作志首以爲重吳君雅才閎<lb/>
+<pb n="KR4f0053_SBCK_006-13a"/>
+博舉其境內利民病民者旣殫心求之而於沿革山川<lb/>
+志之所<graphic n="KR0844" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0844.png" mimeType="image/png"/>咸務底精確不苟同積古以來守譌傳謬兹<lb/>
+二事度亦君之樂聞也夫<lb/>
+記洞過水<hi>己丑代</hi>
+西北之水多濁而趙地之水淸者有二其一曰晉水水<lb/>
+經所謂出晉陽縣西縣雍山者是也其一曰洞過水水<lb/>
+經所謂出沾縣北山者是也沾北山一名沾嶺嶺西鳴<lb/>
+水沾水所出皆至井陘合壽陽東界之桃水爲冶河北<lb/>
+入滹沱嶺之南少山大要谷淸漳所岀南流合於濁漳<lb/>
+自沾嶺南迆西爲木瓜嶺石堠嶺八賦嶺大廉山有古<lb/>
+<pb n="KR4f0053_SBCK_006-13b"/>
+石堠轑山武山分形如八字<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>石堠八賦以名其南水<lb/>
+悉歸漳北水歸洞過沾嶺近北二泉竝發爲洞過水者<lb/>
+與鳴水源同一山今呼陡泉嶺在樂平縣西其水西北<lb/>
+流經平定州西南木瓜嶺之水北流七十五里會之水<lb/>
+經注之南谿水也又西北至壽陽縣東南界戊子秋余<lb/>
+以公事往樂平得觀洞過水之淸駛㝛常村肩輿早行<lb/>
+山中見水流渾濁問諸從者曰此洞過水也何不類乃<lb/>
+爾從者應曰昨雨盛水從四山驟至洞過淸流濳於渾<lb/>
+水下余疑之復行十數里則淸澈鏘鳴者曲赴山石閒<lb/>
+問渾水安在從者曰渾水行遲少待當至矣旣而果至<lb/>
+<pb n="KR4f0053_SBCK_006-14a"/>
+余始信從者前言不我欺歎水性之淸濁遲迅不侔而<lb/>
+不相入也有如是復行三十里許經壽陽之芉頭崖洞<lb/>
+過水折而西南流又十餘里至趙家莊盧家莊之閒與<lb/>
+壽水會流七八里皆迆邐行石上汪洋澹泊激石有聲<lb/>
+淙淙然下落於建公潭潭方畞許㴱莫能測四面山皆<lb/>
+土戴石<graphic n="KR1132" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1132.png" mimeType="image/png"/>嵼刻秀建公村隱其閒居人涉水者或以砅<lb/>
+或以略彴余畱㝛村中詢其土俗無識字人無入城邑<lb/>
+識官長人其山川醇樸之氣可知也壽水控引夀陽全<lb/>
+境之水南會於洞過洞過於是始濁魏書地形志云同<lb/>
+過水出木瓜嶺一出沾嶺一出大廉山一出原過祠下<lb/>
+<pb n="KR4f0053_SBCK_006-14b"/>
+五水合道<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>曰同過然則同之爲洞因水名加偏㫄耳<lb/>
+志言五水而厪臚四源失舉者舍壽水無足以當之自<lb/>
+建公潭而西逕西落鎭至榆次縣東界游波西逝左則<lb/>
+涂水南來會之水經注所謂出大嵰山涂谷者也大嵰<lb/>
+山卽地形志之大廉山又西五里原過水自右會之統<lb/>
+納眾川勢亦始平居人用以灌漑<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>其地溝塍刻鏤䆉<lb/>
+稏千頃仿佛江南風景憶春中自汾州還道經晉祠觀<lb/>
+晉泉之正出淸鑑毛髮山下釃渠數十其穀亦宐稻之<lb/>
+二水之淸之利㪅何其相似歟晉水初岀而民利之洞<lb/>
+過必逕流百數十里而民始食其利則因乎地勢然矣<lb/>
+<pb n="KR4f0053_SBCK_006-15a"/>
+五水之合爲洞過也惟涂水冣古春秋時以名縣顧物<lb/>
+情隱顯有時是以水經魏志咸表洞過而壽陽命以夀<lb/>
+水酈道元乃稱曰黑水宐魏收作志失之也夫<lb/>
+戴東原集卷弟六<lb/>
+<pb n="KR4f0053_SBCK_006-15b"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

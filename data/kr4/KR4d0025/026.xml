@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4d0025_SBCK_026-1a"/>
+文正公尺牘目録<lb/>
+　卷上<lb/>
+　　家書<lb/>
+　　　中舎<hi>十六帖</hi>
+　　　忠宣公<hi>一呫</hi>
+　　　九國愽<hi>一帖</hi>
+　　　中書二子三監簿四太祝<hi>二帖</hi>
+　　　朱氏<hi>十五帖</hi>
+　　　指使魏佑<hi>一帖</hi>
+　卷中<lb/>
+　　與韓魏公<lb/>
+　　　共三十一帖<lb/>
+<pb n="KR4d0025_SBCK_026-1b"/>
+　卷下<lb/>
+　　交游<lb/>
+　　　晏尚書<hi>三帖</hi>
+　　　邵餗先生<hi>一帖</hi>
+　　　諌院郭舎人<hi>一帖</hi>
+　　　王狀元<hi>一帖</hi>
+　　　石曼卿<hi>一帖</hi>
+　　　曹都官<hi>一帖</hi>
+　　　孫元䂓<hi>一帖</hi>
+　　　孫明復<hi>一帖</hi>
+　　　滕子京<hi>一帖</hi>
+　　　李太白<hi>四帖</hi>
+<pb n="KR4d0025_SBCK_026-2a"/>
+　　　　張文定<hi>二帖</hi>
+　　　　陳水部<hi>一帖</hi>
+　　　　謝屯田<hi>二帖</hi>
+　　　　戚寺丞<hi>四帖</hi>
+　　　　知府太卿<hi>二帖</hi>
+　　　　蔡欽聖<hi>二帖</hi>
+　　　　工部同年<hi>二帖</hi>
+　　　　南陽著作<hi>一帖</hi>
+　　　　知郡職方<hi>三帖</hi>
+　　　　安撫内翰<hi>一帖</hi>
+　　　　翰長學士<hi>二帖</hi>
+　　　　安撫太保<hi>三帖</hi>
+<pb n="KR4d0025_SBCK_026-2b"/>
+　　　　李節推<hi>一帖</hi>
+　　　　通理虞部<hi>一帖</hi>
+　　　　仲儀待制<hi>三帖</hi>
+　　　　文鑒大師<hi>一帖</hi>
+　　　　朱校理<hi>一帖</hi>
+　　　　田元均<hi>一帖</hi>
+　　　　尹師魯<hi>二帖</hi>
+　　　　季寺丞<hi>一帖</hi>
+文正公尺牘目録<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

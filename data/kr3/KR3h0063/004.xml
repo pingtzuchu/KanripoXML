@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3h0063_WYG_004-1a"/>
+欽定四庫全書<lb/>
+石渠寳笈卷一目錄<lb/>
+　　　貯<lb/>
+　　乾清宫一<lb/>
+四朝宸翰<lb/>
+　　　書冊<lb/>
+世祖章皇帝御臨諸名家帖<lb/>
+　　　書卷<lb/>
+<pb n="KR3h0063_WYG_004-1b"/>
+世祖章皇帝御書聖經<lb/>
+世祖章皇帝御臨蘇軾滿庭芳詞<lb/>
+　　　書軸<lb/>
+世祖章皇帝御臨文徴明詩帖<lb/>
+　　　書軸<lb/>
+世祖章皇帝御筆梅花<lb/>
+世祖章皇帝御筆山水<lb/>
+世祖章皇帝御筆葡萄<lb/>
+<pb n="KR3h0063_WYG_004-2a"/>
+世祖章皇帝御筆畫竹<lb/>
+世祖章皇帝御筆竹石<lb/>
+世祖章皇帝御筆仿關仝山水<lb/>
+世祖章皇帝御筆仿董源山水<lb/>
+世祖章皇帝御筆仿郭熙山水<lb/>
+世祖章皇帝御筆仿范寛山水<lb/>
+世祖章皇帝御筆仿夏珪雪景<lb/>
+世祖章皇帝御筆仿米家山<lb/>
+<pb n="KR3h0063_WYG_004-2b"/>
+世祖章皇帝御筆仿米友仁山水<lb/>
+世祖章皇帝御筆仿米友仁山水<lb/>
+世祖章皇帝御筆仿黄公望山水<lb/>
+世祖章皇帝御筆仿倪瓚山水<lb/>
+　　　書冊<lb/>
+聖祖仁皇帝御書周易折中序<lb/>
+聖祖仁皇帝御書性理精義序<lb/>
+聖祖仁皇帝御書朱子全書序<lb/>
+<pb n="KR3h0063_WYG_004-3a"/>
+聖祖仁皇帝御書佩文韻府序<lb/>
+聖祖仁皇帝御書御選唐詩序<lb/>
+聖祖仁皇帝御書避暑山莊記<lb/>
+聖祖仁皇帝御書草訣百韻<lb/>
+聖祖仁皇帝御書千文<lb/>
+聖祖仁皇帝御書千文<lb/>
+　　　書卷<lb/>
+聖祖仁皇帝御書太極圖説<lb/>
+<pb n="KR3h0063_WYG_004-3b"/>
+聖祖仁皇帝御書上帝閣讚<lb/>
+聖祖仁皇帝御書操舟説<lb/>
+聖祖仁皇帝御書賜裕親王札<lb/>
+聖祖仁皇帝御書千文<lb/>
+聖祖仁皇帝御書䟦語<lb/>
+聖祖仁皇帝御書䟦語<lb/>
+聖祖仁皇帝御書長壽星賦<lb/>
+聖祖仁皇帝御書行殿讀書賦<lb/>
+<pb n="KR3h0063_WYG_004-4a"/>
+聖祖仁皇帝御書耕織圖序<lb/>
+聖祖仁皇帝御書古文淵鑒序<lb/>
+聖祖仁皇帝御書栢梁體詩序<lb/>
+聖祖仁皇帝御筆書通鑑綱目後<lb/>
+聖祖仁皇帝御書稼説<lb/>
+聖祖仁皇帝御書金蓮花賦<lb/>
+聖祖仁皇帝御書題畫詩<lb/>
+聖祖仁皇帝御臨蘇軾潁州西湖月夜泛舟詩<lb/>
+<pb n="KR3h0063_WYG_004-4b"/>
+聖祖仁皇帝御臨蘇軾前赤壁賦<lb/>
+聖祖仁皇帝御臨黄庭堅書孟郊詩<lb/>
+聖祖仁皇帝御臨米芾詩帖<lb/>
+聖祖仁皇帝御臨米芾詩帖<lb/>
+聖祖仁皇帝御筆仿米芾千字文<lb/>
+聖祖仁皇帝御臨趙孟頫書輞川詩<lb/>
+聖祖仁皇帝御臨趙孟頫書歸田賦<lb/>
+聖祖仁皇帝御臨趙孟頫書䊵扇賦<lb/>
+<pb n="KR3h0063_WYG_004-5a"/>
+聖祖仁皇帝御臨趙孟頫書秋聲賦<lb/>
+聖祖仁皇帝御臨董其昌詩帖<lb/>
+聖祖仁皇帝御臨董其昌書舞鶴賦<lb/>
+聖祖仁皇帝御臨董其昌書滕王閣序<lb/>
+聖祖仁皇帝御臨董其昌書駕幸太學賦<lb/>
+聖祖仁皇帝御臨董其昌書麒麟賦<lb/>
+聖祖仁皇帝御臨董其昌書五栁先生傳<lb/>
+　　　書軸<lb/>
+<pb n="KR3h0063_WYG_004-5b"/>
+聖祖仁皇帝御書乾九五爻辭<lb/>
+聖祖仁皇帝御書聖經<lb/>
+聖祖仁皇帝御書唐句<lb/>
+聖祖仁皇帝御書五臺碧山寺碑文<lb/>
+聖祖仁皇帝御書五臺殊象寺碑文<lb/>
+聖祖仁皇帝御臨米芾書泰階六符賦<lb/>
+聖祖仁皇帝御臨宋髙宗書漢髙祖求賢詔<lb/>
+聖祖仁皇帝御臨董其昌詩帖<lb/>
+<pb n="KR3h0063_WYG_004-6a"/>
+聖祖仁皇帝御臨董其昌詩帖<lb/>
+聖祖仁皇帝御臨董其昌書樂志論<lb/>
+聖祖仁皇帝御臨董其昌仿趙孟頫詩<lb/>
+聖祖仁皇帝御臨董其昌蘭亭帖<lb/>
+聖祖仁皇帝御臨董其昌書老人星賦<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="1a"/>
+輶軒使者絶代語釋別國方言第三<lb/>
+陳楚之間凡人嘼乳而雙産謂之釐孳<hi>音兹</hi>秦<lb/>
+晉之間謂之僆子<hi>音輦</hi>自關而東趙魏之間謂<lb/>
+之孿生<hi>蘇官反</hi>女謂之嫁子<hi>言往適人</hi>
+東齊之間<graphic n="KR2174" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2174.png" mimeType="image/png"/>謂之倩<hi>言可借倩也今俗呼女<graphic n="KR2174" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2174.png" mimeType="image/png"/>爲卒便是也卒便一作平使</hi>
+燕齊之間養馬者謂之娠<hi>今之温厚也音振</hi>官婢女<lb/>
+廝謂之娠<hi>女廝婦人給使者亦名娠</hi>
+楚東海之間亭父謂之亭公<hi>亭民</hi>卒謂之弩父<lb/>
+<pb n="1b"/>
+<hi>主擔幔弩導幨因名云</hi>或謂之褚<hi>言衣赤也褚音赭</hi>
+臧甬<hi>音勇</hi>侮獲奴婢賤稱也荆淮海岱雜齊之<lb/>
+間<hi>俗不純爲雜</hi>罵奴曰臧罵婢曰獲齊之北鄙燕<lb/>
+之北郊凡民男而<graphic n="KR2174" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2174.png" mimeType="image/png"/>婢謂之臧女而婦奴謂<lb/>
+之獲亡奴謂之臧亡婢謂之獲皆異方罵奴<lb/>
+婢之醜稱也自關而東陳魏宋楚之間保庸<lb/>
+謂之甬<hi>保言可保信也</hi>秦晉之間罵奴婢曰侮<hi>言爲人所輕弄</hi>
+蔿<hi>音花</hi>譌<hi>訛/言</hi>譁<hi>五瓜反皆化聲之轉也</hi>涅化也燕朝鮮洌<lb/>
+<pb n="2a"/>
+水之間曰涅或曰譁雞伏卵而未孚<hi>音赴</hi>始化<lb/>
+之時謂之涅<lb/>
+斟協汁也<hi>謂和協也或曰潘汁所未能詳</hi>北燕朝鮮洌水之<lb/>
+間曰斟自關而東曰協關西曰汁<lb/>
+蘓芥草也<hi>漢書曰樵蘓而爨蘓猶蘆語轉也</hi>江淮南楚之間<lb/>
+曰蘓自關而西或曰草或曰芥<hi>或言菜也</hi>南楚江<lb/>
+湘之間謂之芥<hi>嫫母</hi>蘓亦荏也<hi>荏屬也爾雅曰蘓桂荏也</hi>關<lb/>
+之東西或謂之蘓或謂之荏周鄭之間謂之<lb/>
+<pb n="2b"/>
+公蕡<hi>音翡翠今江東人呼荏爲䓊音魚</hi>沅湘之南或謂之<lb/>
+<hi>今長沙人呼野蘓爲音車轄沅水名在武陵</hi>其小者謂之䖆葇<hi>堇葇也亦蘓之種類因名云</hi>
+蘴<hi>舊音蜂今江東音嵩字作菘也</hi>蕘<hi>鈴鐃</hi>蕪菁也陳楚之郊謂<lb/>
+之蘴魯齊之郊謂之蕘關之東西謂之蕪菁<lb/>
+趙魏之郊謂之大芥其小者謂之辛芥或謂<lb/>
+之幽芥其紫華者謂之蘆菔<hi>今江東名爲温菘實如小豆羅匐二音</hi>東魯謂之菈<graphic n="KR2776" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2776.png" mimeType="image/png"/>
+                    <hi>洛荅大合兩反</hi>
+<pb n="3a"/>
+葰芡<hi>音儉</hi>雞頭也北燕謂之葰<hi>今江東亦呼葰耳</hi>青徐<lb/>
+淮泗之間謂之芡南楚江湘之間謂之雞頭<lb/>
+或謂之鴈頭或謂之烏頭<hi>狀似烏頭故傳以名之</hi>
+凡草木刺人北燕朝鮮之間謂之茦<hi>爾雅曰茦刺也</hi>
+或謂之壯<hi>今淮南人亦呼壯壯傷也山海經謂刺爲傷也</hi>自關而東<lb/>
+或謂之梗<hi>今云梗榆</hi>或謂之劌<hi>劌者傷割人名音鱥魚也</hi>自關<lb/>
+而西謂之刺江湘之間謂之棘<hi>楚詞曰曾枝剡棘亦通語耳音巳力反</hi>
+<pb n="3b"/>
+凡飲藥傅藥而毒南楚之外謂之瘌<hi>乖瘌</hi>北燕<lb/>
+朝鮮之間謂之癆<hi>癆瘌皆辛螫也音聊</hi>東齊海岱之間<lb/>
+謂之眠或謂之眩<hi>眠眩亦今通語耳</hi>自關而西謂之<lb/>
+毒瘌痛也<lb/>
+逞曉恔苦快也<hi>快即狡狡戲亦快事也</hi>自關而東或曰<lb/>
+曉或曰逞江淮陳楚之間曰逞宋鄭周洛韓<lb/>
+魏之間曰苦東齊海岱之間曰恔自關而西<lb/>
+曰快<lb/>
+<pb n="4a"/>
+膠譎詐也涼州西南之間曰膠自關而東西<lb/>
+或曰譎或曰膠<hi>汝南人呼欺爲讉訰回反亦曰詒音殆</hi>詐通語也<lb/>
+揠擢拂戎拔也<hi>今呼拔草心爲揠烏拔反</hi>自關而西或曰抜<lb/>
+或曰擢自關而東江淮南楚之間或曰戎東<lb/>
+齊海岱之間曰揠<lb/>
+慰廛度凥也<hi>周官云夫一廛宅也音纏約</hi>江淮青徐之間曰<lb/>
+慰東齊海岱之間或曰度或曰廛或曰踐<lb/>
+萃雜集也東齊曰聖<lb/>
+<pb n="4b"/>
+迨遝及也東齊曰迨<hi>音殆</hi>關之東西曰遝或<lb/>
+曰及<lb/>
+荄杜根也<hi>今俗名韭根爲荄音陔</hi>東齊曰杜<hi>詩曰徹彼桑杜是也</hi>
+或曰茇<hi>音撥</hi>
+班徹列也北燕曰班東齊曰徹<lb/>
+瘼<hi>音莫</hi>癁病也<hi>謂勞復也</hi>東齊海岱之間瘼或曰癁<lb/>
+秦曰瘎<hi>音閻或湛</hi>
+掩醜掍<hi>衮衣</hi>綷<hi>作憒反</hi>同也江淮南楚之間曰掩<lb/>
+<pb n="5a"/>
+宋衞之間曰綷或曰掍東齊曰醜<lb/>
+裕猷道也東齊曰裕或曰猷<lb/>
+䖍散殺也東齊曰散青徐淮楚之間曰䖍<lb/>
+氾<hi>音汎</hi>浼<hi>音/漫</hi>㶄<hi>湯/㶄</hi>洼<hi>烏蛙/反</hi>洿也<hi>皆洿池也</hi>自關而東<lb/>
+或曰洼或曰氾東齊海岱之間或曰浼或曰<lb/>
+㶄<hi>荆州呼潢也</hi>
+庸恣比<hi>比次</hi>侹<hi>侹/直</hi>更佚<hi>蹉跌</hi>代也齊曰佚江淮陳<lb/>
+楚之間曰侹餘四方之通語也<hi>今俗亦名更代作爲恣作也</hi>
+<pb n="5b"/>
+<pb n="5b"/>
+<pb n="5b"/>
+廋隱也<hi>謂隱匿也音捜索也</hi>
+銛取也<hi>謂挑取物音忝</hi>
+棖隨也<hi>棖柱令相隨也</hi>
+儓<hi>音臺</hi>
+                    <graphic n="KR2357" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2357.png" mimeType="image/png"/>
+                    <hi>音𤏡</hi>農夫之醜稱也南楚凡罵庸賤謂<lb/>
+之田儓<hi>㑣儓駑鈍㒵或曰僕臣儓亦至賤之號也</hi>或謂之<graphic n="KR2357" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2357.png" mimeType="image/png"/>
+                    <hi>
+                        <graphic n="KR2357" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2357.png" mimeType="image/png"/>丁㒓㒵也廣雅以爲奴字作僰音同</hi>或謂之辟辟商人醜稱也<hi>僻僻便黠㒵也音擘</hi>
+庸謂之倯轉語也<hi>倯猶保倯也今隴右人名孏爲倯相容反</hi>
+<pb n="6a"/>
+䄛裂須捷挾斯敗也南楚凡人貧衣被醜弊<lb/>
+謂之須捷<hi>須捷狎翣也</hi>或謂之䄛裂<hi>裂衣壞㒵音縷</hi>或謂<lb/>
+之襤褸故左傳曰蓽路襤褸以启山林<hi>蓽路柴車</hi>
+殆謂此也或謂之挾斯<hi>挾斯猶挾變也</hi>器物弊亦謂<lb/>
+之挾斯<lb/>
+<graphic n="KR2172" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2172.png" mimeType="image/png"/>
+                    <hi>打<graphic n="KR2172" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2172.png" mimeType="image/png"/>
+                    </hi>鋌<hi>音挺</hi>澌盡也南楚凡物盡生者曰<graphic n="KR2172" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2172.png" mimeType="image/png"/>生<lb/>
+<hi>今種物皆生云<graphic n="KR2172" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2172.png" mimeType="image/png"/>地生也</hi>物空盡者曰鋌鋌賜也<hi>亦中國之通語也</hi>連此<graphic n="KR2172" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2172.png" mimeType="image/png"/>斯㫮盡也鋌空也語之轉也<lb/>
+<pb n="6b"/>
+<graphic n="KR2172" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2172.png" mimeType="image/png"/>翕葉聚也<hi>
+                        <graphic n="KR2172" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2172.png" mimeType="image/png"/>屬藂相着㒵</hi>楚謂之<graphic n="KR2172" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2172.png" mimeType="image/png"/>或謂之翕葉<lb/>
+楚通語也<lb/>
+斟益也<hi>言斟酌益之</hi>南楚凡相益而又少謂之不<lb/>
+斟凡病少愈而加劇亦謂之不斟或謂之何<lb/>
+斟<hi>言雖小損無所益也</hi>
+差間知愈也南楚病愈者謂之差或謂之間<lb/>
+<hi>言有間隟</hi>或謂之知知通語也或謂之慧或謂之<lb/>
+憭<hi>慧憭皆意精明</hi>或謂之瘳或謂之蠲<hi>蠲亦除也音㳙一圭反</hi>
+<pb n="7a"/>
+<pb n="8a"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

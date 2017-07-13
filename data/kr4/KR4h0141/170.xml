@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_170-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選卷一百七十<lb/>
+　　史類<lb/>
+　　　四言古<lb/>
+　　　　于賈謐坐講漢書　　　　　<hi>晉</hi>潘　岳<lb/>
+　理道在儒𢎞儒由人顯允魯侯文質彬彬筆下摛藻席<lb/>
+　上敷珍前疑既辨舊史維新維新爾史既辨爾疑延我<lb/>
+　僚友講此微辭<lb/>
+<pb n="KR4h0141_WYG_170-1b"/>
+　　　五言古<lb/>
+　　　　詠司馬彪續漢志　　　　　<hi>唐</hi>太　宗<lb/>
+　二儀初創象三才乃分位非惟樹司牧固亦垂文字綿<lb/>
+　代更膺期芳圖無輟記炎漢承君道英謨纂神器濳龍<lb/>
+　既可躍術兔奚難致前史殫妙詞後昆沈雅思書言揚<lb/>
+　盛跡補闕興鴻志川谷猶舊途郡國開新意梅山未覺<lb/>
+　朽榖水誰云異車服隨名表文物因時置鳳㦸翼康衢<lb/>
+　鑾衡總柔轡清濁必能澄洪纎幸無棄觀儀不失序遵<lb/>
+<pb n="KR4h0141_WYG_170-2a"/>
+禮方由事政宣竹律和時平玉條備文囿雕竒彩藝門<lb/>
+藴深致雲飛星共流風揚月兼至類禋遵令典壇壝資<lb/>
+良地五勝竟無違百司誠有庇粤予承暇景談叢引衆<lb/>
+秘討論窮義府看覈披經笥大辨良難仰小學終先匱<lb/>
+聞道諒知榮含毫孰忘愧<lb/>
+　　五言律<lb/>
+　　　賦西漢　　　　　　　　　<hi>唐</hi>魏　徵<lb/>
+受降臨軹道爭長趨鴻門驅傳渭橋上觀兵細栁屯夜<lb/>
+<pb n="KR4h0141_WYG_170-2b"/>
+宴經柏谷朝遊出杜原終藉叔孫禮方知皇帝尊<lb/>
+　　　詠史　　　　　　　　　　<hi>唐</hi>李　嶠<lb/>
+馬記天官設班圖地理新善談方亹亹青簡見彬彬方<lb/>
+朔初聞漢荆軻昔向秦正辭堪載筆終兾作良臣<lb/>
+　　七言絶句<lb/>
+　　　唐堯　　　　　　　　　　<hi>唐</hi>周　曇<lb/>
+妖氛不起瑞煙輕端拱垂衣日月明何事四方無外役<lb/>
+茅茨深處土堦平<lb/>
+<pb n="KR4h0141_WYG_170-3a"/>
+　　　虞舜　　　　　　　　　　　周　曇<lb/>
+進善懲奸立帝功功成揖讓益温恭滿朝卿士多元凱<lb/>
+爲黜兜苖與四兇<lb/>
+　　　夏禹　　　　　　　　　　　周　曇<lb/>
+堯違天孽賴詢謨頓免洪波浸碧虚海内生靈微伯禹<lb/>
+盡應隨浪化爲魚<lb/>
+　　　后稷　　　　　　　　　　　周　曇<lb/>
+人惟邦本本由農曠古誰髙后稷功百榖且繁三曜在<lb/>
+<pb n="KR4h0141_WYG_170-3b"/>
+牲牢郊祀信無窮<lb/>
+　　　文王　　　　　　　　　　　周　曇<lb/>
+昭然明德報天休禴祭惟馨勝殺牛二老五侯何所詐<lb/>
+不歸商受盡歸周<lb/>
+　　　武王　　　　　　　　　　　周　曇<lb/>
+文王寢膳武王隨内豎言安色始怡七載豈堪拘羑里<lb/>
+一夫爲報亦何疑<lb/>
+　　　成王　　　　　　　　　　　周　曇<lb/>
+<pb n="KR4h0141_WYG_170-4a"/>
+成王有過伯禽知聖惠能新日自竒王道既成何所感<lb/>
+越裳呈瑞鳳來儀<lb/>
+　　　周公　　　　　　　　　　　周　曇<lb/>
+文武傳芳百代基幾多賢哲守成規仍聞吐握延儒素<lb/>
+猶恐民艱未盡知<lb/>
+　　　沛宮　　　　　　　　　　<hi>唐</hi>胡　曽<lb/>
+漢髙辛苦事干戈帝業興隆俊傑多猶恨四方無壯士<lb/>
+還鄉髙唱大風歌<lb/>
+<pb n="KR4h0141_WYG_170-4b"/>
+　　　圯橋　　　　　　　　　　　胡　曾<lb/>
+妙算張良獨有餘少年逃難下邳初逡廵不進泥中履<lb/>
+爭得先生一卷書<lb/>
+　　　細栁營　　　　　　　　　　胡　曾<lb/>
+文帝鑾輿勞北征條侯此地整嚴兵轅門不峻將軍令<lb/>
+今日爭知細柳營<lb/>
+　　　延平津　　　　　　　　　　胡　曾<lb/>
+延平津路水溶溶峭壁危岑一萬重昨夜七星潭底見<lb/>
+<pb n="KR4h0141_WYG_170-5a"/>
+　分明神劒化爲龍<lb/>
+　　　　山中作　　　　　　　　　<hi>唐</hi>僧處黙<lb/>
+　席簾髙挂枕髙欹門掩垂蘿蘸碧溪閒把史書眠一覺<lb/>
+　起來山月過松西<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR4h0141_WYG_170-5b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選卷一百七十<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

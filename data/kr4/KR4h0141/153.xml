@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_153-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選卷一百五十三<lb/>
+　　金類<hi>附銀</hi>
+　　　五言律<lb/>
+　　　　金　　　　　　　　　　　<hi>唐</hi>李　嶠<lb/>
+　南楚標前貢西秦識舊城祭天封漢嶺擲地警孫聲向<lb/>
+　日披沙淨含風振鐸鳴方同楊伯起獨有四知名<lb/>
+　　　　銀　　　　　　　　　　　<hi>唐</hi>李　嶠<lb/>
+<pb n="KR4h0141_WYG_153-1b"/>
+　思婦屏輝掩遊人燭影長玉壺初下箭桐井共安牀色<lb/>
+　帶明河色光浮滿月光靈山有珍甕仙闕薦君王<lb/>
+　　　五言排律<lb/>
+　　　　賦得金在鎔　　　　　　　<hi>唐</hi>白行簡<lb/>
+　巨槖方鎔物洪爐欲範金紫光看漸發赤氣望逾深燄<lb/>
+　熱晴雲變煙浮晝景隂堅剛由我性鼔鑄任君心踴躍<lb/>
+　徒標異沈潛自可欽何當得成器待叩向知音<lb/>
+　　　七言絶句<lb/>
+<pb n="KR4h0141_WYG_153-2a"/>
+　　　　路入金州江中作　　　　　<hi>唐</hi>方　干<lb/>
+　棹尋椒岸縈廻去數里時逢一兩家知是從來貢金處<lb/>
+　江邊牧豎亦披沙<lb/>
+　　　　雜詠　　　　　　　　　　<hi>明</hi>張　治<lb/>
+　紫宸宮闕九天開中使傳宣殿裏來紅玉雕盤宮錦覆<lb/>
+　上公含笑賜金回<lb/>
+　　　　西苑宮詞　　　　　　　　<hi>明</hi>張元凱<lb/>
+　蓬萊方丈可梯航勾漏丹砂近寄將昨鑄銀山髙㡬許<lb/>
+<pb n="KR4h0141_WYG_153-2b"/>
+　試持玉尺殿中量<lb/>
+　　　　南唐宮詞　　　　　　　　<hi>明</hi>范　汭<lb/>
+　女冠鳥爪解方音識得蓬瀛路淺深戲搦雪花鎔紫磨<lb/>
+　漢宮誰數辟寒金<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選卷一百五十三<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

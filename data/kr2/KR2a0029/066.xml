@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2a0029_WYG_066-1a"/>
+　舊五代史巻三十二攷證<lb/>
+唐莊宗紀六内園使　案歐陽史作内園裁接使攷五<lb/>
+　代㑹要内園裁接使係梁時雜使創置之官<lb/>
+契丹按巴堅東攻渤海　案遼史太祖紀天贊三年五<lb/>
+　月渤海殺其刺史張秀實而掠其民於東攻渤海之<lb/>
+　事闕而不載攷五代㑹要同光二年七月契丹東攻<lb/>
+　渤海與是書同<lb/>
+每兩與减五十文　案五代㑹要作每兩與减放五文<lb/>
+<pb n="KR2a0029_WYG_066-1b"/>
+已酉車駕發鄴宫辛亥至德勝城　案五代春秋作庚<lb/>
+　子帝幸鄴都遂幸德勝故城據是書則己酉發鄴宫<lb/>
+　辛亥至德勝城與五代春秋異盖五代春秋祇以詔<lb/>
+　下之日為據也<lb/>
+庚辰車駕至自鄴　庚辰歐陽史作庚申考通鑑及五<lb/>
+　代春秋皆作庚辰据上文正月甲午朔二月甲子朔<lb/>
+　三月癸已朔則三月不得有庚辰也盖其誤始於是<lb/>
+　書而通鑑五代春秋皆襲其訛耳今姑從原本仍為<lb/>
+<pb n="KR2a0029_WYG_066-2a"/>
+　辨正於此<lb/>
+夏四月癸亥朔　案五代春秋作辛亥朔通鑑從是書<lb/>
+中書侍郎兼工部尚書平章事趙光𦙍卒　案是書二年<lb/>
+　六月光𦙍加兼戶部尚書此處作工部前後互異未<lb/>
+　知何故<lb/>
+按巴堅舊作阿保機今改　裕悦舊作于越今改<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2a0029_WYG_066-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　舊五代史巻三十二考證<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

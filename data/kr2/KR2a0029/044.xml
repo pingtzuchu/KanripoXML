@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2a0029_WYG_044-1a"/>
+　舊五代史巻二十一攷證<lb/>
+梁列𫝊十一龎師古𫝊始表為天平軍節度留後尋授<lb/>
+　徐州節度使　案師古先為留後繼授節度通鑑止<lb/>
+　作留後誤<lb/>
+霍存𫝊用本部騎兵敗秦賢軍　秦賢王䖍裕𫝊作秦<lb/>
+　宗賢<lb/>
+有賊升眺樓大詬　眺樓原本作昭樓今据歐陽史改<lb/>
+符道昭𫝊符道昭淮西人　案歐陽史作蔡州人<lb/>
+<pb n="KR2a0029_WYG_044-1b"/>
+徐懐玉𫝊授左羽林統軍　案歐陽史作右羽林統軍<lb/>
+郭言𫝊破盱貽而還　案通鑑作言力戰得免梁祖紀<lb/>
+　亦作不克而還與此𫝊異<lb/>
+李唐賓𫝊時溥軍于吴康　吴康原本訛吴唐今據歐<lb/>
+　陽史改正<lb/>
+王䖍裕𫝊時太祖大軍方討兖鄆未及救援　案通鑑<lb/>
+　攷異云是時全忠方攻時溥未討兖鄆也𫝊誤<lb/>
+劉康乂𫝊尋遷宻州刺史　宻州原本訛宣州今據新<lb/>
+<pb n="KR2a0029_WYG_044-2a"/>
+　唐書昭宗紀改正<lb/>
+王彦章𫝊彦章字賢明鄆州夀張縣人也　賢明歐陽<lb/>
+　史作子明夀張歐陽史作夀昌<lb/>
+領保鑾騎士數千于東路守捉　案歐陽史從家𫝊作<lb/>
+　五百人又作畫像記極辨舊史領數千人以往之非<lb/>
+　攷通監云梁主命王彦章將保鑾士及他兵合萬人<lb/>
+　屯兖鄆之境又通鑑李嗣源敗彦章于遞坊鎮獲將<lb/>
+　士三百人斬首二百級使彦章所將止于五百恐師<lb/>
+<pb n="KR2a0029_WYG_044-2b"/>
+　徒盡喪不應尚能再戰也彦章忠于所事力竭而亡<lb/>
+　非戰之罪歐陽史必欲減其兵數轉非實録<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　舊五代史巻二十一攷證<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

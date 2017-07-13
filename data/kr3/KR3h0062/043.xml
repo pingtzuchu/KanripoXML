@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3h0062_WYG_043-1a"/>
+欽定四庫全書<lb/>
+秘殿珠林卷二十目録<lb/>
+　　貯<lb/>
+　乾清宫<lb/>
+　　　名人畫<lb/>
+　　道氏圖軸上等<lb/>
+　　　宋劉松年畫拐仙圖一軸<lb/>
+　　　宋李得柔畫藍采和圖一軸<lb/>
+<pb n="KR3h0062_WYG_043-1b"/>
+　　　元趙孟頫畫松石老子圖一軸<lb/>
+　　　明仇英畫松隂老子圖一軸<lb/>
+　　　明仇英畫南極老人像一軸<lb/>
+　　　陳子星畫叱石化羊圖一軸<lb/>
+　　　名人畫<lb/>
+　　道氏圖軸次等<lb/>
+　　　元趙孟頫畫軒轅問道圖一軸<lb/>
+　　　明宣宗畫南極老人像一軸<lb/>
+<pb n="KR3h0062_WYG_043-2a"/>
+　　　明憲宗畫純陽像一軸<lb/>
+　　　明文徴明畫老子煉丹圖一軸<lb/>
+　　　明商喜遐齡永禧圖一軸<lb/>
+　　　明劉越千壽字南極老人像一軸<lb/>
+　　　路從廣畫拐仙圖一軸<lb/>
+　　　陳昌畫麻姑仙一軸<lb/>
+　　　陸瀚畫南極老人像一軸<lb/>
+　　　無名氏畫<lb/>
+<pb n="KR3h0062_WYG_043-2b"/>
+　　道氏圖軸上等<lb/>
+　　　宋人畫軒轅問道圖一軸<lb/>
+　　　宋人畫老子過關圖一軸<lb/>
+　　　宋人畫劉海戲蟾圖一軸<lb/>
+　　　元人畫洪崖移居圖一軸<lb/>
+　　　無名氏畫<lb/>
+　　道氏圖軸次等<lb/>
+　　　宋人畫軒轅問道圖一軸<lb/>
+<pb n="KR3h0062_WYG_043-3a"/>
+　　　宋人畫南極老人像一軸<lb/>
+　　　元人畫七曜圖一軸<lb/>
+　　　元人畫陳摶問道圖一軸<lb/>
+　　　元人畫鐵拐鍊形圖一軸<lb/>
+　　　元人畫張果像一軸<lb/>
+　　　明人畫葛洪移居圖一軸<lb/>
+　　　明人畫長夀真人像一軸<lb/>
+　　　明人畫福徳星君圖一軸<lb/>
+<pb n="KR3h0062_WYG_043-3b"/>
+　　　明人畫洪崖渡海圖一軸<lb/>
+　　　明人畫張果像一軸<lb/>
+　　　明人畫鍾離像一軸<lb/>
+　　　明人畫老子像一軸<lb/>
+　　　明人畫東方朔獻桃圖一軸<lb/>
+　　　明人夀字南極老人像一軸<lb/>
+　　　明人夀字南極老人像一軸<lb/>
+　　　明人畫南極老人圖一軸<lb/>
+<pb n="KR3h0062_WYG_043-4a"/>
+　　　名人書畫<lb/>
+　　釋道合卷上等<lb/>
+　　　元趙孟頫書心經清靜經趙由宸書金剛經合<lb/>
+　　　卷<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

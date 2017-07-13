@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4c0082_SBCK_002-1a"/>
+　棃嶽詩集補遺目錄<lb/>
+　　　卽席送許◍之曹南省兄<lb/>
+　　　送羅著作兩浙按獄<lb/>
+　　　　右七律二首<lb/>
+　　　答韓中丞容不飮酒<lb/>
+　　　　右七絕一首<lb/>
+　　　暮夜宿淸源上人院<lb/>
+　　　秋夜宿重本上人院<lb/>
+　　　贈立規上人<lb/>
+　　　蘇州寒食日送人歸覲<lb/>
+　　　　右五律四首<lb/>
+　　　下第後屏居書懷寄張侍御<lb/>
+<pb n="KR4c0082_SBCK_002-1b"/>
+　　　　右五古一首<lb/>
+　　　寄舊友西乾耕隱童先輩<lb/>
+　　　　右五絕一首<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

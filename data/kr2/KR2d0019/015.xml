@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2d0019_WYG_015-1a"/>
+　欽定四庫全書<lb/>
+御定歴代紀事年表卷十七<lb/>
+　　<hi>起丙寅周元王元年○止丁丑周威烈王二十有二年</hi>凡七十二年<lb/>
+　　表例説<lb/>
+　　　<hi>臣</hi>之樞謹按史記因秦記起周元王元年表魏韓<lb/>
+　　　趙楚燕齊之事曰六國年表但魏韓趙至威烈王<lb/>
+　　　二十三年始受命為諸侯建國號相去尚七十餘<lb/>
+　　　年且晉主猶存史表列魏韓趙而附晉事於魏格<lb/>
+<pb n="KR2d0019_WYG_015-1b"/>
+　　　似亦未安今仍存晉格載魏韓趙之事於其中至<lb/>
+　　　威烈王二十三年方為三國置格庶不沒其實云<lb/>
+　　　○貞定王元年左傳已訖自是至威烈王二十二<lb/>
+　　　年紀事悉本前編<lb/>
+<pb n="KR2d0019_WYG_015-2a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_015-3a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_015-4a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_015-5a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_015-6a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_015-7a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_015-8a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_015-9a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_015-10a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_015-11a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_015-12a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_015-13a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_015-14a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_015-15a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_015-16a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_015-17a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_015-18a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_015-19a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_015-20a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_015-21a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_015-22a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_015-23a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_015-24a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_015-25a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_015-26a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_015-27a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_015-28a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_015-29a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_015-30a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_015-31a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_015-32a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_015-33a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_015-34a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_015-35a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_015-36a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_015-37a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_015-38a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_015-39a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_015-40a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_015-41a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_015-42a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_015-43a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_015-44a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_015-45a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_015-46a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_015-47a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_015-48a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_015-49a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_015-50a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_015-51a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_015-52a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_015-53a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_015-54a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_015-55a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_015-56a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_015-57a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_015-58a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_015-59a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_015-60a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_015-61a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_015-62a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_015-63a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_015-64a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_015-65a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_015-66a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_015-67a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_015-68a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2d0019_WYG_015-68b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定歴代紀事年表卷十七<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

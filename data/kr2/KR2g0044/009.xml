@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>八旗滿洲氏族通譜目録</head> <lb/>
+    <p>
+<pb n="KR2g0044_WYG_009-1a"/>
+欽定四庫全書<lb/>
+　八旗滿洲氏族通譜目録<lb/>
+　　卷四<lb/>
+　　各地方瓜爾佳氏<lb/>
+　　　呉理戡　　　　　　呉拜<lb/>
+　　　蘇拜　　　　　　　温都理<lb/>
+　　　桂勒赫　　　　　　拜音達理巴圖魯<lb/>
+　　　搆色　　　　　　　雅木達<lb/>
+<pb n="KR2g0044_WYG_009-1b"/>
+　　　噶哈　　　　　　　豐果<lb/>
+　　　阿球巴圖魯　　　　僧錫巴圖魯<lb/>
+　　　喀喀理　　　　　　甘塔堪<lb/>
+　　　寧古齊　　　　　　額赫愛達漢<lb/>
+　　　特庫尹　　　　　　伊巴庫<lb/>
+　　　卓當阿　　　　　　䝉古基巴顔<lb/>
+　　　格布庫　　　　　　郭和<lb/>
+　　　尼魯漢　　　　　　賽華<lb/>
+<pb n="KR2g0044_WYG_009-2a"/>
+　　　泰錫扎爾固齊　　　蘇炳額<lb/>
+　　　哈穆坦　　　　　　傅當阿<lb/>
+　　　博穆波　　　　　　赫英額<lb/>
+　　　赫墩　　　　　　　扣岱<lb/>
+　　　惠堂阿　　　　　　昭齊<lb/>
+　　　喀拜　　　　　　　阿都齊<lb/>
+　　　德備　　　　　　　哲爾球<lb/>
+　　　哈錫坦　　　　　　禇爾漢<lb/>
+<pb n="KR2g0044_WYG_009-2b"/>
+　　　瓦濟訥墨爾根　　　努山<lb/>
+　　　尤噶　　　　　　　成穆<lb/>
+　　　布蘭泰<lb/>
+　　　　　以上俱有傳<lb/>
+　　　栢盧喀　　　　　　殷達理<lb/>
+　　　尼雅哈齊　　　　　阿格聶<lb/>
+　　　博爾塞　　　　　　巴奇理<lb/>
+　　　海倫　　　　　　　布希蘭<lb/>
+<pb n="KR2g0044_WYG_009-3a"/>
+　　　塞爾特　　　　　　素色訥<lb/>
+　　　海格　　　　　　　呉霞拉<lb/>
+　　　顔塔海　　　　　　扎通阿<lb/>
+　　　哲爾瑚訥　　　　　哲爾克<lb/>
+　　　葉爾森　　　　　　章齊<lb/>
+　　　扎爾虎齊　　　　　進布<lb/>
+　　　剛阿岱　　　　　　薩克素<lb/>
+　　　楊額理　　　　　　登古<lb/>
+<pb n="KR2g0044_WYG_009-3b"/>
+　　　噶哈　　　　　　　布克察<lb/>
+　　　托和倫　　　　　　金達理<lb/>
+　　　哈理　　　　　　　布瑚那<lb/>
+　　　西特庫　　　　　　科布理<lb/>
+　　　顔岱　　　　　　　夸資<lb/>
+　　　諾海　　　　　　　鄂多<lb/>
+　　　海明阿　　　　　　嘉蘭布<lb/>
+　　　馬爾虎　　　　　　阿爾圖<lb/>
+<pb n="KR2g0044_WYG_009-4a"/>
+　　　伊克都　　　　　　孔果諾<lb/>
+　　　石留克　　　　　　果山<lb/>
+　　　謨喜　　　　　　　魁喀<lb/>
+　　　尹登　　　　　　　顔布禄<lb/>
+　　　克宜勒　　　　　　瑪庫理<lb/>
+　　　納朗阿　　　　　　索可習<lb/>
+　　　阿布賚　　　　　　塔穆<lb/>
+　　　呉寧額　　　　　　喀爾巴圖<lb/>
+<pb n="KR2g0044_WYG_009-4b"/>
+　　　法哈拉　　　　　　華瞻<lb/>
+　　　楊桑阿　　　　　　卓坦<lb/>
+　　　扎薩拉　　　　　　旺堂阿<lb/>
+　　　扎哈理　　　　　　阿格尼<lb/>
+　　　台哈　　　　　　　愛錫<lb/>
+　　　雅普達　　　　　　廣衮<lb/>
+　　　滿福理　　　　　　額爾赫濟<lb/>
+　　　噶濟納　　　　　　呉禮雅達<lb/>
+<pb n="KR2g0044_WYG_009-5a"/>
+　　　伊禮布　　　　　　㑹尼喀<lb/>
+　　　呉禮　　　　　　　外庫<lb/>
+　　　渾敦　　　　　　　阿賽<lb/>
+　　　愛那　　　　　　　薩諮那<lb/>
+　　　徳希訥　　　　　　阿蘇<lb/>
+　　　賚尚　　　　　　　常明<lb/>
+　　　阿濟格碩色　　　　烏達什<lb/>
+　　　新泰　　　　　　　碩色<lb/>
+<pb n="KR2g0044_WYG_009-5b"/>
+　　　尼堪　　　　　　　布塔<lb/>
+　　　三鼐　　　　　　　吉克濟理<lb/>
+　　　朔色　　　　　　　李成功<lb/>
+　　　特順　　　　　　　瓜爾察<lb/>
+　　　武留　　　　　　　羅起<lb/>
+　　　索吉鼐　　　　　　竒韜<lb/>
+　　　德昌　　　　　　　佟式<lb/>
+　　　吉那哈　　　　　　庫爾秦<lb/>
+<pb n="KR2g0044_WYG_009-6a"/>
+　　　薩爾泰　　　　　　薩爾那<lb/>
+　　　布延圖　　　　　　殷達渾<lb/>
+　　　鄂穆綽科　　　　　塔爾比希<lb/>
+　　　達漢　　　　　　　阿克東阿<lb/>
+　　　密拉他　　　　　　艾星阿<lb/>
+　　　阿拜　　　　　　　伊爾唐阿<lb/>
+　　　布塞赫　　　　　　邁圖<lb/>
+　　　達翰　　　　　　　阿爾布善<lb/>
+<pb n="KR2g0044_WYG_009-6b"/>
+　　　寧丹　　　　　　　瑚騰額<lb/>
+　　　福倫泰　　　　　　瑪當阿<lb/>
+　　　阿寔譚　　　　　　石達理<lb/>
+　　　阿鼐　　　　　　　艾當阿<lb/>
+　　　拉琥山　　　　　　達爾漢<lb/>
+　　　布爾山　　　　　　愛碧隆<lb/>
+　　　董安　　　　　　　巴顔<lb/>
+　　　國安　　　　　　　阿魯<lb/>
+<pb n="KR2g0044_WYG_009-7a"/>
+　　　蘇布理　　　　　　岳科<lb/>
+　　　齊克騰　　　　　　葉木濟<lb/>
+　　　常明　　　　　　　烏琳<lb/>
+　　　三達理　　　　　　僧額<lb/>
+　　　巴棣　　　　　　　呉訥格<lb/>
+　　　拖絡　　　　　　　科齊<lb/>
+　　　額赫尼堪　　　　　阿克塔<lb/>
+　　　渾托和　　　　　　文岱<lb/>
+<pb n="KR2g0044_WYG_009-7b"/>
+　　　布爾哈　　　　　　武和<lb/>
+　　　寧珠布　　　　　　栢爾克<lb/>
+　　　索諾圖　　　　　　馬晉<lb/>
+　　　星額理　　　　　　納衍太<lb/>
+　　　和索圖　　　　　　喀蘭濟<lb/>
+　　　星格理　　　　　　額昇<lb/>
+　　　達什　　　　　　　舒爾古<lb/>
+　　　巴穆習理　　　　　賽理<lb/>
+<pb n="KR2g0044_WYG_009-8a"/>
+　　　巴圖魯　　　　　　那哈徳<lb/>
+　　　阿都　　　　　　　達都<lb/>
+　　　托克多理　　　　　拖克拖頼<lb/>
+　　　巴拜　　　　　　　多璧<lb/>
+　　　努馬拉　　　　　　喀瑪岱<lb/>
+　　　薩穆棣　　　　　　額爾徳䝉格<lb/>
+　　　哈尚阿　　　　　　茂岱<lb/>
+　　　甘岱　　　　　　　鼐鍾阿<lb/>
+<pb n="KR2g0044_WYG_009-8b"/>
+　　　阿西那　　　　　　布濟格爾<lb/>
+　　　阿什圖　　　　　　薩木哈<lb/>
+　　　謨和絡　　　　　　錫禧<lb/>
+　　　星格理　　　　　　阿普薩哈<lb/>
+　　　巴哈察爾　　　　　阿晉泰<lb/>
+　　　索遜泰　　　　　　圖盧克<lb/>
+　　　謨克拖　　　　　　當色<lb/>
+　　　羅達哈　　　　　　阿哈圖<lb/>
+<pb n="KR2g0044_WYG_009-9a"/>
+　　　　　以上俱附載<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

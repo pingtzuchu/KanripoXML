@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4j0090_WYG_003-1a"/>
+中原音韻後序<lb/>
+泰定甲子秋予既作中原音韻并起例以遺青原蕭存<lb/>
+存未幾訪西域友人瑣非復初同志羅宗信見餉携東<lb/>
+山之妓開北海之樽於時英才若雲文筆如槊復初舉<lb/>
+觴命謳者歌樂府四塊玉至彩扇歌青樓飲宗信止其<lb/>
+音而謂予曰彩字對青字而歌青字為晴吾揣其音此<lb/>
+字合用平字聲必欲揚其音而青字乃抑之非也疇昔<lb/>
+嘗聞蕭存存言君所著中原音韻乃正語作詞之法以<lb/>
+<pb n="KR4j0090_WYG_003-1b"/>
+别隂陽字義予因大笑越席捋其鬚而言曰信哉吉之<lb/>
+多士而君又士之俊者也嘗遊江海觀其稱豪傑者非<lb/>
+富即貴求能正其音之訛顧其曲之誤者鮮矣復初前<lb/>
+驅紅袖而自用調歌曰買笑金纒頭錦以證其非復初<lb/>
+知某則是矣乃復歎曰予作樂府三十年未有如今日<lb/>
+之遇宗信知某曲之非某曲之是也舉首四顧螺山之<lb/>
+色鷺渚之波為之改容遂捧巨觴於二公之前口占折<lb/>
+桂詞一闋煩皓齒歌以送之以報其能賞音也明當盡<lb/>
+<pb n="KR4j0090_WYG_003-2a"/>
+攜音韵的本并諸起例以歸知音調曰宰金頭黒脚<lb/>
+天䳘客有鍾期座有韓娥吟既能吟聽還能聽歌也能<lb/>
+歌和白雪新来較可放行雲飛去如何醉覩銀河燦燦<lb/>
+蟾孤㸃㸃星多歌既畢客醉予亦大醉莫知所云挺齋<lb/>
+周徳清書<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

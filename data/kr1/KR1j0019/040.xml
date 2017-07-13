@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="1a"/>
+說文解字系述卷第四十<lb/>
+　　　繫傳四十<lb/>
+　　文林郎守袐書省校書郎臣徐鍇撰<lb/>
+說文之學逺矣時歴九代年移七百<lb/>
+保氏弛教學人墮業聖人不作神旨<lb/>
+幽沫故臣附其本書作通釋第一至<lb/>
+三十<lb/>
+<pb n="1b"/>
+分部相屬因而繹之觸類而長之以<lb/>
+究竟天下之事久則不昭昧則無次<lb/>
+抽其緒作部叙第三十一至三十二<lb/>
+文字者聖人之所以極深而研㡬也<lb/>
+天地日月之經也忠孝仁義之本也<lb/>
+朝廷上下之法也禮樂法度之規也<lb/>
+人君能明之立四極包四海之道也<lb/>
+<pb n="2a"/>
+人臣能明之事君理下之則也字別<lb/>
+有義具之則繁㳂流索潤以反其原<lb/>
+舉其要作通論三十三至三十五<lb/>
+字指澄深學者不曉譏者皆妄作祛<lb/>
+妄第三十六<lb/>
+禀受有義朋友有群譬諸草木區别<lb/>
+是分萬類紛糅不相奪倫作類聚第<lb/>
+<pb n="2b"/>
+三十七<lb/>
+文有不得盡言言有不得盡意曼者<lb/>
+失真拘者多滯或同或異推極其情<lb/>
+皦如也繹如也以成作錯綜第三十八<lb/>
+書闕簡脫傳者異詞述者不明後人<lb/>
+洞疑作疑義第三十九<lb/>
+昔在伏羲設卦興統<hi>去聲</hi>黄帝作書蒼<lb/>
+<pb n="3a"/>
+頡沮誦周宣中興史籀是承爰及許<lb/>
+慎維綱振繩勒成一家大義以弘傳<lb/>
+非其人訛僞相仍　聖皇紹祚粤若<lb/>
+稽古通幽洞冥萬物咸覩實生下臣<lb/>
+是經是綸作系述第四十<lb/>
+說文解字繫傳卷第四十<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

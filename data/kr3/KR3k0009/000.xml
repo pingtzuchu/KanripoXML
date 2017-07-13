@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>小名録</head>
+    <p>
+<pb n="KR3k0009_WYG_000-1a"/>
+欽定四庫全書　　　　子部十一<lb/>
+　小名録　　　　　　　　類書類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案小名録二卷唐陸龜蒙撰龜蒙事<lb/>
+　　　　迹具唐書隠逸傳是書所載皆古人小名始<lb/>
+　　　　于秦終于南北朝趙希弁郡齋讀書後志作<lb/>
+　　　　三卷此本僅二卷希弁稱其神仙玉女之名<lb/>
+　　　　婦人臧獲之字亦無棄焉此本但有婦人臧<lb/>
+<pb n="KR3k0009_WYG_000-1b"/>
+　　　　獲之字而無神仙玉女之名又稱其自秦至<lb/>
+　　　　隋而此本無隋人殆非完書矣所記頗為叢<lb/>
+　　　　襍如秦二世名胡亥漢光武帝名秀之類似<lb/>
+　　　　皆非小名王戎稱阿戎王僧謙稱阿謙似即<lb/>
+　　　　如吕蒙之稱阿蒙崔鴻之稱阿鴻王平子之<lb/>
+　　　　稱阿平似即如米元章之稱阿章皆即其名<lb/>
+　　　　字以示親暱亦不當在小名之列至於匡衡<lb/>
+　　　　小名為鼎出自西京襍記顔師古注漢書已<lb/>
+<pb n="KR3k0009_WYG_000-2a"/>
+　　　　深駁之龜蒙仍祖其説殊為不考况此書本<lb/>
+　　　　㫖為記小名而作因小名而引及事實已為<lb/>
+　　　　支蔓而謝朗王恭王修之類乃至於叠出不<lb/>
+　　　　已於體例亦頗有乖或原本散佚後人以意<lb/>
+　　　　補綴托之龜蒙歟然唐人著述傳世日稀龜<lb/>
+　　　　蒙此編雖未能必信其真亦無以必斷其偽<lb/>
+　　　　疑以傳疑備古書之一種可矣乾隆四十四<lb/>
+　　　　年三月恭校上<lb/>
+<pb n="KR3k0009_WYG_000-2b"/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

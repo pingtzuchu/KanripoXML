@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2b0004_SBCK_000-1a"/>
+後漢紀序<lb/>
+　　　　　　　　　　晉東陽太守袁<lb/>
+予嘗讀後漢書煩穢雜亂睡而不能竟也聊以暇日<lb/>
+撰集爲後漢紀其所掇㑹漢紀謝承書司馬彪書華<lb/>
+嶠書謝忱書漢山陽公記漢靈獻起居注漢名臣奏<lb/>
+㫄及諸郡耆舊先賢傳凢數百卷前史闕畧多不次<lb/>
+叙䥘謬同異誰使正之經營八季疲而不能定頗有<lb/>
+傳者始見張璠所撰書其言漢末之事差詳故復探<lb/>
+而益之夫史傳之興所以通古今而篤名教也丘明<lb/>
+之作廣大悉備史遷剖判六家建立十書非徒記事<lb/>
+而巳信足扶明義敎網羅治體然未盡之班固源流<lb/>
+<pb n="KR2b0004_SBCK_000-1b"/>
+周贍近乎通人之作然因籍史遷無所甄朙荀恱才<lb/>
+智經綸足爲嘉史所述當世大得治功巳矣然名敎<lb/>
+之本帝王髙義韞而未叙今因前代遺事畧舉義敎<lb/>
+所歸庻以弘敷王道前史之闕古者方今不同其流<lb/>
+亦異言行趣舍各以類書故觀其名迹想見其人丘<lb/>
+朙所以斟酌抑揚寄其髙懷末吏區區注疏而巳其<lb/>
+所稱美止於事義疏外之意歿而不傳其遺風餘趣<lb/>
+蔑如也今之史書或非古之人心恐千載之外所誣<lb/>
+者多所以悵怏躊躇操筆悢然者也<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

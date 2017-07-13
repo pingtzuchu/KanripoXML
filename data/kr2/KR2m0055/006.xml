@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2m0055_WYG_006-1a"/>
+　　内翰林國史院掌院事大學士<hi>臣</hi>剛林等謹<lb/>
+　題為清律奉<lb/>
+㫖審校<hi>臣</hi>等考訂已完恭請<lb/>
+聖裁頒布以昭法守事前刑部尚書吳達海等屢遵<lb/>
+諭㫖纂修清律該刑部侍郎党崇雅啓心郎額爾革圖<lb/>
+　　率同郎中耿愛主事科爾坤烏赫納員外郎柯士<lb/>
+　　芳許𢎞祚宋調元將前書纂完隨送到院該<hi>臣</hi>范<lb/>
+　　文程<hi>臣</hi>剛林<hi>臣/</hi>祁充格<hi>臣/</hi>馮銓<hi>臣/</hi>洪承疇<hi>臣</hi>甯完<lb/>
+<pb n="KR2m0055_WYG_006-1b"/>
+　　我暨刑部啓心郎額爾革圖裁議已定又該刑部<lb/>
+　　侍郎提橋房可壯再四詳核率同啟心郎白色純<lb/>
+　　周天成郎中范芝張毓中宋炳夏之中蕭應聘宋<lb/>
+　　從心周璜段騰藻毛永齡韓養醇員外郎王鳳林<lb/>
+　　司務周再勲傅作衡逐篇磨勘尚書吳達海督令<lb/>
+　　員外郎金燦繕寫進呈<lb/>
+皇上惟恐一有未當不便遵行仍命<hi>臣</hi>范文程<hi>臣</hi>剛林<lb/>
+　　<hi>臣</hi>祁充格<hi>臣/</hi>馮銓<hi>臣/</hi>甯完我<hi>臣</hi>宋權再加審定斟<lb/>
+<pb n="KR2m0055_WYG_006-2a"/>
+　　酌滿漢務合時宜<hi>臣</hi>等謹同學士蔣元恒督主事<lb/>
+　　科爾坤亢得時能圖他赤哈哈番薩爾圖及刑部<lb/>
+　　郎中范芝宋炳張毓中逐款繙閱校正他赤哈哈<lb/>
+　　番齊納紅筆帖式哈番莽伊圖筆帖式戴陽阿年<lb/>
+　　哈等繕寫完畢仍發刑部隨該侍郎房可壯員外<lb/>
+　　郎王鳳林司務傅作衡等對閱隨付郎中韓養醇<lb/>
+　　員外郎金燦訂刻今已告竣<hi>臣</hi>等謹將刊完大清<lb/>
+　　律集解附例十卷具疏奏<lb/>
+<pb n="KR2m0055_WYG_006-2b"/>
+　進伏乞<lb/>
+聖鑒裁定頒行中外庶法守昭明臣民永知遵守矣為<lb/>
+　　此具本謹題請<lb/>
+㫖奉<lb/>
+聖㫖是大清律著頒行<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

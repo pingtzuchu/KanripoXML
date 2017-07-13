@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>毛詩集解</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　　　經部三<lb/>
+　毛詩集解　　　　　　　　詩𩔖<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案毛詩集解四十二卷不著編錄人名氏<lb/>
+　　　　集宋李樗黄櫄兩家詩解合為一編附以李泳所<lb/>
+　　　　訂吕氏釋音樗字若林閩縣人嘗領鄉貢著毛詩詳<lb/>
+　　　　解三十六卷櫄字實夫龍溪人淳熈中以舍<lb/>
+　　　　選入對升進士兩科調南劍州教授終宣教<lb/>
+<pb n="1b"/>
+　　　　郎著詩解二十卷總論一卷泳字深卿始末<lb/>
+　　　　未詳與樗櫄皆閩人疑是書為建陽書肆所<lb/>
+　　　　合編也樗為林之竒外兄<hi>見書錄解題</hi>又為吕本<lb/>
+　　　　中門人<hi>見何喬逺閩書</hi>其學問具有淵源書錄解題<lb/>
+　　　　稱其書博取諸家訓釋名物文義末用己意<lb/>
+　　　　為論斷今觀櫄解體例亦同似乎相繼而作<lb/>
+　　　　而稍稍補苴其罅漏不相攻擊亦不相符合<lb/>
+　　　　如論詩序樗取蘇轍之說以為毛公作而衛<lb/>
+<pb n="2a"/>
+　　　　宏續櫄則用王安石程子之說以為非聖人<lb/>
+　　　　不能作所見逈為不同其學雖似少亞於樗<lb/>
+　　　　而其說實足以相輔編是書者惟音釋取吕<lb/>
+　　　　祖謙而訓釋之文則置讀詩記而取樗櫄殆<lb/>
+　　　　亦以二書相續如驂有靳故不欲恭以他說<lb/>
+　　　　歟乾隆四十五年五月恭校上<lb/>
+　　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

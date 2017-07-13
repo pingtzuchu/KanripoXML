@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>文章辨體彚選</head>
+    <p>
+<pb n="KR4h0132_WYG_000-1a"/>
+欽定四庫全書　　　　　集部八<lb/>
+　文章辨體彚選　　　　　總集類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案文章辨體彚選七百八十巻明賀<lb/>
+　　　　復徵編復徵字仲來丹陽人是書首無序目<lb/>
+　　　　書中有復徵自著道光和尚述云先憲副昔<lb/>
+　　　　宦䕫門時為天啓甲子六月越嵗乙丑予入<lb/>
+　　　　蜀悉其事先憲副為郎南都嗣後入粤歸吴<lb/>
+<pb n="KR4h0132_WYG_000-1b"/>
+　　　　又云先宫保中泠公請師演説金剛經又吴<lb/>
+　　　　吟題詞云辛未秋家大人粤西命下子以病<lb/>
+　　　　待行考丹陽賀氏一家登科名者邦泰嘉靖<lb/>
+　　　　已未進士邦泰孫世夀萬厯庚戌進士官總<lb/>
+　　　　督倉場户部尚書世夀子王盛崇禎戊辰進<lb/>
+　　　　士按之復徵所序祖父官階年月俱不相合<lb/>
+　　　　又每冊首有晉江黄氏父子藏書印記而千<lb/>
+　　　　頃堂書目乃不載是編均莫詳其故也復徵<lb/>
+<pb n="KR4h0132_WYG_000-2a"/>
+　　　　以吴訥文章辨體所收未廣因别為蒐討上<lb/>
+　　　　自三代下逮明末經史諸子百家山經地志<lb/>
+　　　　靡不收採分别各體為一百三十二類七百<lb/>
+　　　　八十巻每體之首多引劉勰文心雕龍及吴<lb/>
+　　　　訥徐師曽之言間叅以已説以為凡例其甄<lb/>
+　　　　錄之繁富為從來總集所罕見但其中有一<lb/>
+　　　　體而兩出者如祝文後既附致語後復有致<lb/>
+　　　　語一巻是也有一體而强分為二者如既有<lb/>
+<pb n="KR4h0132_WYG_000-2b"/>
+　　　　上書復有上言僅收賈山至言一篇既有墓<lb/>
+　　　　表復有阡表僅收歐陽修瀧岡阡表一篇記<lb/>
+　　　　與紀事之外復有紀雜文之外復有雜著是<lb/>
+　　　　也有一文而重見兩體者如王褒僮約一見<lb/>
+　　　　約再見雜文沈約修竹彈甘蕉文一見彈事<lb/>
+　　　　再見雜文孔璋請代李邕表一見表再見上<lb/>
+　　　　書孫樵書何易于事一見表再見紀事是也<lb/>
+　　　　又於金元之文所收過略而後人擬仿偽撰<lb/>
+<pb n="KR4h0132_WYG_000-3a"/>
+　　　　之作如黄帝金人銘張桓侯新都縣真多山<lb/>
+　　　　銘之類乃槩為收入未免失於别裁意其巻<lb/>
+　　　　帙既繁稿本初脱未經刋定不能盡削繁蕪<lb/>
+　　　　然其别類分門捜羅廣博殆積畢生心力抄<lb/>
+　　　　撮而成故墜典秘文亦往往有出人耳目之<lb/>
+　　　　外者且其書祗存抄本傳播甚稀錄而存之<lb/>
+　　　　固未始非撡觚家由博返約之一助爾乾隆四<lb/>
+　　　　十六年二月恭校上<lb/>
+<pb n="KR4h0132_WYG_000-3b"/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官　<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

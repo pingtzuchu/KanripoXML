@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0148_WYG_028-1a"/>
+欽定四庫全書<lb/>
+御選唐宋詩醇巻十三<lb/>
+　　襄陽杜甫詩五<lb/>
+　　　目録<lb/>
+　　冬日洛城北謁𤣥元皇帝廟<lb/>
+　　投贈哥舒開府翰二十韻<lb/>
+　　上韋左相二十韻<lb/>
+　　奉贈太常張卿二十韻<lb/>
+<pb n="KR4h0148_WYG_028-1b"/>
+　　奉贈鮮于京兆二十韻<lb/>
+　　贈特進汝陽王二十韻<lb/>
+　　鄭駙馬宅宴洞中<lb/>
+　　重題鄭氏東亭<lb/>
+　　題張氏隠居<lb/>
+　　天寶初南曹小司冦舅於我太夫人堂下累土為<lb/>
+　　山一匱盈尺以代彼朽木承諸焚香瓷甌甌甚安<lb/>
+　　矣旁植慈竹葢兹數峰<graphic n="KR0706" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0706.png" mimeType="image/png"/>岑嬋娟宛有塵外致乃<lb/>
+<pb n="KR4h0148_WYG_028-2a"/>
+　　不知興之所至而作是詩<lb/>
+　　龍門<lb/>
+　　奉寄河南韋尹大人<lb/>
+　　與任城許主簿逰南池<lb/>
+　　登兖州城樓<lb/>
+　　對酒書懷走邀許十一簿公<lb/>
+　　已上人茅齋<lb/>
+　　房兵曹胡馬詩<lb/>
+<pb n="KR4h0148_WYG_028-2b"/>
+　　畫鷹<lb/>
+　　過宋員外之問舊莊<lb/>
+　　夜宴左氏莊<lb/>
+　　送蔡希曽都尉還隴右因寄髙三十五書記<lb/>
+　　春日憶李白<lb/>
+　　贈陳二補闕<lb/>
+　　寄髙三十五書記<lb/>
+　　送裴二虬作尉永嘉<lb/>
+<pb n="KR4h0148_WYG_028-3a"/>
+　　贈田九判官<lb/>
+　　贈獻納起居田舍人<lb/>
+　　陪鄭廣文逰何將軍山林十首<lb/>
+　　重過何氏五首<lb/>
+　　冬日有懷李白<lb/>
+　　贈翰林張四學士<lb/>
+　　送張二十參軍赴蜀州因呈楊五侍御<lb/>
+　　陪諸貴公子丈八溝携妓納凉晩際遇雨二首<lb/>
+<pb n="KR4h0148_WYG_028-3b"/>
+　　贈髙式顔<lb/>
+　　故武衛將軍輓歌三首<lb/>
+　　官定後戯贈<lb/>
+　　九日藍田崔氏莊<lb/>
+　　崔氏東山草堂<lb/>
+　　對雪<lb/>
+　　月夜<lb/>
+　　遣興<lb/>
+<pb n="KR4h0148_WYG_028-4a"/>
+　　春望<lb/>
+　　憶幼子<lb/>
+　　喜達行在所三首<lb/>
+　　得家書<lb/>
+　　奉贈嚴八閣老<lb/>
+　　奉送郭中丞兼太僕卿充隴右節度使三十韻<lb/>
+　　送楊六判官使西畨<lb/>
+　　月<lb/>
+<pb n="KR4h0148_WYG_028-4b"/>
+　　晩行口號<lb/>
+　　行次昭陵<lb/>
+　　重經昭陵<lb/>
+　　喜聞官軍已臨賊冦二十韻<lb/>
+　　収京<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

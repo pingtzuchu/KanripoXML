@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_302-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選卷三百二<lb/>
+　　棗類<lb/>
+　　　五言古<lb/>
+　　　　棗　　　　　　　　　　<hi>後秦</hi>趙　整<lb/>
+　北園有一樹布葉垂重陰外雖多棘刺内實有赤心<lb/>
+　　　　賦棗　　　　　　　　　　<hi>梁</hi>簡文帝<lb/>
+　浮華齊水麗垂彩鄭都竒白英紛靡靡紫實標離離風<lb/>
+<pb n="KR4h0141_WYG_302-1b"/>
+　搖羊角樹日映雞心枝穀城踰石蜜蓬岳表仙儀已聞<lb/>
+　安邑羙永茂玉門垂<lb/>
+　　　　棗下何纂纂　　　　　　　　簡文帝<lb/>
+　垂花臨碧澗結翠依丹巘非直入遊宫兼期植靈苑落<lb/>
+　日芳春暮㳺人歌吹晚弱刺引羅衣朱實凌還幰且歡<lb/>
+　洛浦詞無羡安期逺<lb/>
+　　　　杏園中棗樹　　　　　　　<hi>唐</hi>白居易<lb/>
+　人言百果中惟棗凡且鄙皮皴似龜手葉小如䑕耳胡<lb/>
+<pb n="KR4h0141_WYG_302-2a"/>
+為不自知生花此園裏豈宜遇攀翫幸免遭傷毁二月<lb/>
+曲江頭雜英紅旖旎棗亦在其間如嫫對西子東風不<lb/>
+擇木吹苞長未已眼看欲合抱得盡生生理寄言逰春<lb/>
+客乞君一廻視君愛繞指柔從君憐柳杞君求恱目艶<lb/>
+不敢爭桃李君若作大車輪軸材須此<lb/>
+　　　賦棗　　　　　　　　　　<hi>宋</hi>王安石<lb/>
+種桃昔所傳種棗予所欲在實為羙果論材又良木餘<lb/>
+甘入鄰家尚得饞婦逐况予秋盤中快噉取饜足風包<lb/>
+<pb n="KR4h0141_WYG_302-2b"/>
+墮朱繒日顆皺紅玉贄享古已然豳詩自宜録<graphic n="KR1210" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1210.png" mimeType="image/png"/>懷青<lb/>
+齊間萬樹蔭平陸誰云食之昏匿志乃成俗廣庭觴聖<lb/>
+夀以此參肴蓛願比赤心投皇眀儻予燭<lb/>
+　　　棗亭春晩　　　　　　　　<hi>眀</hi>掲　軌<lb/>
+昨日花始開今日花已滿倚樹聼嚶嚶折花歌纂纂美<lb/>
+人浩無期青春忽已晩寫盡錦箋長燒殘紅燭短日夕<lb/>
+望江南綵雲天際逺<lb/>
+　　　棗　　　　　　　　　　　<hi>眀</hi>吴　寛<lb/>
+<pb n="KR4h0141_WYG_302-3a"/>
+荒園乏佳果棗樹八九株纂纂爭結實大率如琲珠此<lb/>
+種殊甘脆南方之所無日炙色漸赤兒童已窺覦剝擊<lb/>
+盈數斗鄰舍或求須早知實可食何須種檉榆此木頗<lb/>
+耐旱地宜土不濡所以齊魯間斬伐充薪芻近復得異<lb/>
+種攣拳類人痀曲木未可惡惟天付形軀良材却矯揉<lb/>
+不見笏與弧<lb/>
+　　五言絶句<lb/>
+　　　棗　　　　　　　　　　　<hi>宋</hi>蘇　軾<lb/>
+<pb n="KR4h0141_WYG_302-3b"/>
+居人㡬番老棗樹未成槎汝長才堪軸吾歸已及𤓰<lb/>
+　　七言絶句<lb/>
+　　　棗花寒　　　　　　　　　<hi>宋</hi>沈　遼<lb/>
+山禽哺雛半欲搏坐想葛帔臨風湍數日陰霖復未暢<lb/>
+不知更作棗花寒<lb/>
+　　　寳雞縣　　　　　　　　　<hi>眀</hi>汪廣洋<lb/>
+渭河霜滿水如苔一縣人家半草萊惟有秋風酸棗木<lb/>
+淡煙深鎖鬬雞䑓<lb/>
+<pb n="KR4h0141_WYG_302-4a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR4h0141_WYG_302-4b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選卷三百二<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

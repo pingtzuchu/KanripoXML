@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>提要<lb/>
+                </head>
+    <p>
+<pb n="KR3h0038_WYG_000-1a"/>
+欽定四庫全書　　　　　子部八<lb/>
+　提要<lb/>
+　　衍極二卷　　　　　　藝術類一<hi>書畫之屬</hi>
+　　　　<hi>臣</hi>等謹案衍極二卷元鄭枃撰案何喬逺閩<lb/>
+　　　　書曰枃字子經羅源人㤗定中官南安縣教諭<lb/>
+　　　　與陳旅為文字友著衍極五篇衍極記載三<lb/>
+　　　　篇其書自倉頡迄元代凡古文篆籀以及書<lb/>
+　　　　法之變皆在所論宣撫使齊伯亨採而上之<lb/>
+<pb n="KR3h0038_WYG_000-1b"/>
+　　　　作衍極堂以蔵其書陶宗儀書史㑹要又稱<lb/>
+　　　　其能大字兼工八分盖究心斯藝故能析其源<lb/>
+　　　　流如是也其書載永樂大典中而缺其記載<lb/>
+　　　　三篇别本又載有學書次第書法源流二圖<lb/>
+　　　　永樂大典亦缺然别本字句訛脱文注混淆<lb/>
+　　　　不及永樂大典之精善謹合兩本叅校補遺<lb/>
+　　　　正悞復還舊觀其注為劉有定所作有定字<lb/>
+　　　　能靜號原範莆田人其名載林承霖莆陽詩<lb/>
+<pb n="KR3h0038_WYG_000-2a"/>
+　　　　編亦見書史㑹要葢亦文雅之士云乾隆四<lb/>
+　　　　十六年九月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="KR3h0038_WYG_000-3a"/>
+衍極原序<lb/>
+書道其大矣斯文興焉世之學者往往務談髙虛謂書<lb/>
+非儒道之要而遂小之軌所以行車也車行而毁其軌<lb/>
+可乎水所以行舟也舟行而廢其水可乎予南游至無<lb/>
+諸城見莆田鄭君子經所著衍極五篇雄文卓論璀錯<lb/>
+玢豳如觀三代器物不可名狀軋芴澶曼如行洞庭之<lb/>
+野不見首尾夷考其說然後知子經得絶學於數千百<lb/>
+載之後曠世竒作也書道其大矣又嘗即其言而求其<lb/>
+<pb n="KR3h0038_WYG_000-3b"/>
+為人為之廢書而歎曰士之負材抱藝莫不欲有為也<lb/>
+修名未立老冉冉其將至平居里巷相接又無足與語<lb/>
+以發舒其所負抱者慨古道之浸邈憤俗尚之益乖乃<lb/>
+悠然獨往自託於著書以鳴其所不能自已者此衍極<lb/>
+之為言所以怫鬱而歔欷也觀是書者又不能無所感<lb/>
+云延祐七年庚申秋九月朔旦京口李齊仲思序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2k0039_WYG_041-1a"/>
+欽定四庫全書<lb/>
+欽定皇輿西域圖志卷三十一<lb/>
+　兵防<lb/>
+　　<hi>臣</hi>等謹按西域為古西戎土風剛勁民多桀黠樂<lb/>
+　　戰鬬顧其前代兵制所垂書缺有間孟堅為西域<lb/>
+　　傳頗稱賅備然所得而紀者或勝兵數十人或勝<lb/>
+　　兵數百人大略即人即兵選丁壮以供擊刺而已<lb/>
+　　欲進覈其卒伍之定數調遣之常期督察之成式<lb/>
+<pb n="KR2k0039_WYG_041-1b"/>
+　　糗糧之實用罕得而詳焉準噶爾四部及諸回部<lb/>
+　　曠處荒陲考其山川形勢崇岡壘嶂險足以守長<lb/>
+　　河廣澤深足以塹指顧二萬餘里中掃蕩廓清歸<lb/>
+　　我<lb/>
+皇化包戈偃伯以來非建制服屬無以善其後然地大<lb/>
+　　物博惟是戍代往來之孔亟即善後者又將何以<lb/>
+　　為繼我<lb/>
+皇上聖謨廣運集大勲於五載之中即為䇿永定於億<lb/>
+<pb n="KR2k0039_WYG_041-2a"/>
+　　萬斯年之後於是防守則取諸滿洲暨䝉古索倫<lb/>
+　　諸部屯種則兼用緑營咸有額設以資捍衛而又<lb/>
+　　為之隨宜定制因地分營或更番以均勞逸或永<lb/>
+　　駐以安室家凡皆以西域治西域而經費不取支<lb/>
+　　於中土且利興事集合計邊防兵弁郵傳之需準<lb/>
+　　以屯儲嵗入十盈四五焉猗歟<lb/>
+駿烈豐庸卓鑠曩古非賴我<lb/>
+皇上宵旰疇咨撫八荒如庭户何以使宏綱細目周備<lb/>
+<pb n="KR2k0039_WYG_041-2b"/>
+　　不遺若此又豈前代貳師廣武惟是一軍一旅一<lb/>
+　　亭一障之戔戔者乎兹於脱甲之餘備著纉戎之<lb/>
+　　畧俾天下後世仰<lb/>
+　盛朝所以敉絶徼而固丕基者具由<lb/>
+方畧精詳宏<lb/>
+綏逺之謨措施有本非僅修武備而繕軍儲已也志兵<lb/>
+　　防第九<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

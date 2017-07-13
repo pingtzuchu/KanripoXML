@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3l0062_SBCK_017-1a"/>
+揮麈第三録緫目<lb/>
+　卷之一<lb/>
+一孝宗登真如寺鍾樓<lb/>
+二髙宗東狩四明日録<lb/>
+三劉希范責鄒志全書<lb/>
+四婁陟明上　髙宗書<lb/>
+五呉處厚與蔡持正不和<lb/>
+六曾南豐辟陳無已邢和叔爲實録檢討官<lb/>
+　卷之二<lb/>
+七龍眠三李　八宋惠直樂語<lb/>
+九九江碑工李仲寧不肯刋黨籍姓名<lb/>
+<pb n="KR3l0062_SBCK_017-1b"/>
+十蘇叔黨善畫窠石<lb/>
+十一徽宗宣曾空青至行宫<lb/>
+十二錢遜叔治宿州<lb/>
+十三張夫人哭魏夫人詩<lb/>
+十四劉季髙謁詹安丗<lb/>
+十五秦㑹之陳議狀<lb/>
+十六王㓜安草檄<lb/>
+十七王禀徐微李邈忠義事迹<lb/>
+十八吕張以勤王檄諸郡<lb/>
+十九曾空青跋真草千字文略<lb/>
+二十李夫人盡獲群賊<lb/>
+<pb n="KR3l0062_SBCK_017-2a"/>
+二十一向伯恭徐端益忠義<lb/>
+二十二趙叔近守秀州<lb/>
+卷之三<lb/>
+二十☰劉廷黃大本朱弁行狀<lb/>
+二十四髙宗召見張九成<lb/>
+二十五吕元直趙元鎮相排<lb/>
+二十六許志仁善戯謔<lb/>
+二十七靠背交椅自梁仲謨始<lb/>
+二十八曾空青辯謗録<lb/>
+十十九岳侯與王樞宻葬地一同<lb/>
+三十黃逹如監察御史<lb/>
+<pb n="KR3l0062_SBCK_017-2b"/>
+三十一洪景伯試克敵弓銘<lb/>
+三十二鄭亨仲節制尊嚴<lb/>
+三十三曹庭堅遭遇秦相<lb/>
+三十四建炎荆州遺事　三十五湯致逺帥浙東<lb/>
+三十六陳師禹責降　三十七孟仁仲上表<lb/>
+三十八万俟元忠薦汪明逺<lb/>
+三十九鄭恭老上殿陳劄子<lb/>
+四十陳忠肅得罪秦師垣四一李泰發寓書秦相<lb/>
+四二汪明逺宣諭荆襄四三王權和州與虜接戰<lb/>
+四四胡昉夸誕　四五湯進之封慶國公<lb/>
+四六尤延之愽物洽聞　揮麈第三録緫目終<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

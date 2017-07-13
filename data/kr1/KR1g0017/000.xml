@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>五經稽疑</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　　經部七<lb/>
+　五經稽疑　　　　　　　五經縂義類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案五經稽疑八卷明朱睦㮮撰睦㮮<lb/>
+　　　　字灌甫號西亭周定王橚六世孫襲封鎮國<lb/>
+　　　　中尉萬厯初舉宗正睦㮮嘗築萬卷堂覃思<lb/>
+　　　　考索著述甚富所作授經圖已别著録是書<lb/>
+　　　　取五經疑義參考異同而斷以已意徵引極<lb/>
+<pb n="1b"/>
+　　　　為該博雖其中如郭京易舉正之類未免誤<lb/>
+　　　　采偽書春秋邾儀父為邾命卿之類未免太<lb/>
+　　　　涉臆斷而大致平允詞簡而明亦說經家當<lb/>
+　　　　考之書也惟禮記之末附以明代典禮八條<lb/>
+　　　　則殊乖說經之體云乾隆四十一年五月恭<lb/>
+　　　　校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="2a"/>
+五經稽疑序<lb/>
+屈平者楚之同姓也仕於懷王為三閭大夫屈平職掌<lb/>
+三姓叙其譜屬率其賢良以勵國人言行職修王甚珍<lb/>
+之為同列上官靳尚所譛王乃疏平平含忠履潔而遽<lb/>
+見放逰於江潭行吟澤畔鬱伊易感作離騷以此知古<lb/>
+之三百篇皆非無感而作也余少靡所好逰心六經嘗<lb/>
+作春秋稽疑餘未及為也癸未四月余病在告杜門謝<lb/>
+客頗多餘暇因思古人實有慨於余心乃取四經時披<lb/>
+<pb n="2b"/>
+閱焉或有疑者㕘訂諸家之説而折𠂻之且述且作得<lb/>
+若干卷雖不敢比跡昔賢然鬱伊之感庶幾同焉萬厯<lb/>
+十一年十月既朢周府宗正奉㫖督理宗學汴上睦㮮<lb/>
+題<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

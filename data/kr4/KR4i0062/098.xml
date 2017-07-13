@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>宋詩紀事巻九十八</head>
+    <p>
+<pb n="KR4i0062_WYG_098-1a"/>
+欽定四庫全書<lb/>
+　宋詩紀事巻九十八　　　　　錢塘厲鶚撰<lb/>
+　欽宗皇帝<lb/>
+　　　帝諱桓徽宗皇帝長子大觀五年立為皇太子<lb/>
+　　　宣和七年詔嗣位改元靖康在位二年金人圍<lb/>
+　　　汴脅上皇及帝北行康王即位于南京遙上尊<lb/>
+　　　號曰孝慈淵聖皇帝紹興三十一年帝崩問至<lb/>
+　　　上尊諡曰恭文順徳仁孝皇帝廟號欽宗<lb/>
+<pb n="KR4i0062_WYG_098-1b"/>
+　　降筆<lb/>
+星袍玉帶落邊塵幾見東風作好春因過江南省宗廟<lb/>
+眼前誰是舊京人<lb/>
+　　　<hi>齊東野語向嘗于貴家觀降仙叩其姓名不荅忽作薛稷體大書一詩云云捧箕者大驚知為</hi>
+　　　<hi>淵聖降也</hi>
+　　馬巫父<lb/>
+　　　巫父弋陽人玉華山地仙胡天放降仙作詩<lb/>
+　　絶句<lb/>
+<pb n="KR4i0062_WYG_098-2a"/>
+玉樓雲淡曉光浮中有飛仙駕鶴游下界此時方睡熟<lb/>
+誰尋紫氣問青牛<hi>志雅堂雜鈔</hi>
+　　三茅真人<lb/>
+　　　三茅真人胡天放降仙作詩<lb/>
+　　絶句<lb/>
+深深門巷老翁家自洗銅瓶浸杏花喚起承平當日夢<lb/>
+令人轉憶舊京華<hi>志雅堂雜鈔</hi>
+　　鄭文選<lb/>
+<pb n="KR4i0062_WYG_098-2b"/>
+　　　文選胡天放降仙作詩<lb/>
+　　九洞<lb/>
+拖露摶風海嶠來觚棱寂寂自樓臺春光不比承平日<lb/>
+淚眼看花薦一杯<hi>志雅堂雜鈔</hi>
+　　張君有<lb/>
+　　　君有眉山書房吏人胡天放降仙作詩<lb/>
+　　蘭渚<lb/>
+光轉東風弄暖天永和人物尚依然誰憐紉佩淒涼客<lb/>
+<pb n="KR4i0062_WYG_098-3a"/>
+倚䇿愁吟楚澤邊<hi>志雅堂雜鈔</hi>
+　　方武裘<lb/>
+　　　武裘莆人劉潛夫之友胡天放降仙求賦自稱<lb/>
+　　　大陽洞主<lb/>
+　　詠筆<lb/>
+貌出中山肯欲仙何人拔頴縳尖圓拙夫堪笑堆成冢<lb/>
+豪客曽聞掃似椽窗下玉蜍涵夜月几間雪繭湧春泉<lb/>
+當時定逺成何事輕擲毛錐恐未然<hi>志雅堂雜鈔</hi>
+<pb n="KR4i0062_WYG_098-3b"/>
+　　王大圭<lb/>
+　　　大圭江寧人胡天放降仙作詩<lb/>
+　　絶句<lb/>
+六朝盛事總成塵結綺樓前草自春一曲後庭何處覓<lb/>
+空留月伴倚闌人<hi>志雅堂雜鈔</hi>
+　　卟　仙<lb/>
+　　詠萍<lb/>
+㸃㸃青青浮野塘不容明月照滄浪風吹雨逐沙泥上<lb/>
+<pb n="KR4i0062_WYG_098-4a"/>
+燕子銜來遶畫梁<hi>全芳備祖</hi>
+　　吉州紫姑<lb/>
+　　詠手<lb/>
+笑折櫻桃力不禁時攀楊栁弄春隂管弦曲裏傳聲慢<lb/>
+星月樓前斂拜深繡幕偷回雙舞袖綠窗閒整小眉心<lb/>
+秋來幾度挑羅韈為憶相思放却針<hi>夷堅支志</hi>
+　　鄧氏紫姑<lb/>
+　　詠衣領二首<lb/>
+<pb n="KR4i0062_WYG_098-4b"/>
+小翦雲羅雪色明香煤隨意作真行新詩便是班昭戒<lb/>
+勝却閒書座右銘<lb/>
+時樣新裁鬬色衣不將綵線縷花枝殷勤只要詩仙句<lb/>
+繡出分明一段竒<lb/>
+　　桃花<lb/>
+武陵溪上舊時花兩岸晴紅爛彩霞試問劉郎緣底事<lb/>
+花開時節未還家<hi>以上夷堅志</hi>
+　　斜橋紫姑<lb/>
+<pb n="KR4i0062_WYG_098-5a"/>
+　　詠艣<lb/>
+寒巖雪壓松枝折班班剝盡青虯血運斤巧匠斲削成<lb/>
+劒脊半開魚尾裂五湖仙子多竒致欲駕神舟探仙穴<lb/>
+碧雲不動曉山橫數聲搖落江天月<lb/>
+　　　<hi>齊東野語紹興斜橋客邸有請紫姑者命艣為題賦詩云云</hi>
+　　紫姑神<lb/>
+　　句<lb/>
+簾巻滕王閣盆翻白帝城<hi>詠雨</hi>　<hi>許彦周詩話</hi>
+<pb n="KR4i0062_WYG_098-5b"/>
+　　周瑤英<lb/>
+　　　瑤英芙蓉城女仙<lb/>
+　　别王子高<lb/>
+久事屏帷不暫閒今朝離思尚闌珊臨行惟有相思淚<lb/>
+滴在羅衣一半斑<hi>王梅溪蘇詩注王子高傳</hi>
+　　無名女仙<lb/>
+　　三絶句<lb/>
+栁條金嫩不勝鴉青粉牆頭道韞家燕子未來春寂寞<lb/>
+<pb n="KR4i0062_WYG_098-6a"/>
+小窗和雨夢梨花<lb/>
+松影侵壇琳觀静桃花流水石橋寒東風吹過雙蝴蜨<lb/>
+人倚危樓第幾闌<lb/>
+屈曲闌干月半規藕花香澹水漪漪分明一夜文姬夢<lb/>
+只有青團扇子知<lb/>
+　　　<hi>癸辛雜識董無益所記友人姚天澤亦喜此</hi>
+　<lb/>
+　<lb/>
+<pb n="KR4i0062_WYG_098-6b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　宋詩紀事巻九十八<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

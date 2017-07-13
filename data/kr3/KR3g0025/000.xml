@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>靈城精義</head>
+    <p>
+<pb n="KR3g0025_WYG_000-1a"/>
+欽定四庫全書　　　　　子部七<lb/>
+　靈城精義　　　　　　　術數類三<hi>相宅相墓之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案靈城精義二卷舊本題南唐何溥<lb/>
+　　　　撰溥字令通履貫未詳是編上卷論形氣主<lb/>
+　　　　于山川形勢辨龍辨穴下卷論理氣主于天<lb/>
+　　　　星卦例生尅吉凶自宋以來諸家書目皆不<lb/>
+　　　　著録觀其言宇宙有大關合氣運為主又言<lb/>
+<pb n="KR3g0025_WYG_000-1b"/>
+　　　　地運有推移而天氣從之天運有轉旋而地<lb/>
+　　　　氣應之盖主元運之説者考元運之説以甲<lb/>
+　　　　子六十年為一元配以洛書九宫凡歴上中<lb/>
+　　　　下三元為一周更歴三周五百四十年為一<lb/>
+　　　　運凡為甲子者九每元六十年為大運一元<lb/>
+　　　　之中二十年為小運以卜地氣之旺相休囚<lb/>
+　　　　如上元甲子一白司運則坎得旺氣震巽得<lb/>
+　　　　生氣乾兑得退氣離得死氣坤得鬼氣大抵<lb/>
+<pb n="KR3g0025_WYG_000-2a"/>
+　　　　因皇極經世而推演之其法出自明初寧波<lb/>
+　　　　幕講僧五代時安有是説其非明以前書確<lb/>
+　　　　矣其注題曰劉基撰前列引用書目凡二十<lb/>
+　　　　二種如入式歌之類亦明中葉以後之偽書<lb/>
+　　　　則出於<graphic n="KR0915" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0915.png" mimeType="image/png"/>作亦無疑義但就其書而論則所<lb/>
+　　　　云大地無形看氣槩小地無勢看精神水成<lb/>
+　　　　形山上止山成形水中止龍為地氣水為天<lb/>
+　　　　氣諸語于彼法之中頗為近理註文亦發揮<lb/>
+<pb n="KR3g0025_WYG_000-2b"/>
+　　　　條暢勝他書之弇鄙猶解文義者之所為術<lb/>
+　　　　數之書無非依託所言可採即録存以備一<lb/>
+　　　　家真偽固無庸辨亦不足與辨也乾隆四十<lb/>
+　　　　六年十月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="KR3g0025_WYG_000-3a"/>
+靈城精義引用書目<lb/>
+　　呉公鉗龍經　　　　三寶經<lb/>
+　　呉公閒星説　　　　曽文遄龍歌<lb/>
+　　李家龍經　　　　　素書<lb/>
+　　郭璞𦵏經　　　　　詳節天表<hi>蔡西山所定</hi>
+　　劉公天機祕要　　　寶鏡<lb/>
+　　地理筌蹄　　　　　催官篇<lb/>
+　　梅花院纂　　　　　青囊經<lb/>
+<pb n="KR3g0025_WYG_000-3b"/>
+　　董氏明㫖　　　　　玉尺經<lb/>
+　　呉公解義　　　　　混元子<lb/>
+　　廖公洩天機　　　　靈轄經<lb/>
+　　入式歌　　　　　　白龍記<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

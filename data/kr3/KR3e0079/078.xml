@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>本草綱目卷三十二目録</head> <lb/>
+    <p>
+<pb n="KR3e0079_WYG_078-1a"/>
+欽定四庫全書<lb/>
+　本草綱目卷三十二目録<lb/>
+　　果之四　　　味類十三種<hi>内附四種</hi>
+　　　秦椒<hi>本經</hi>
+　　　蜀椒<hi>本經</hi>
+　　　崖椒<hi>圖經</hi>
+　　　蔓椒<hi>本經</hi>
+　　　地椒<hi>嘉祐</hi>
+<pb n="KR3e0079_WYG_078-1b"/>
+　　　胡椒<hi>唐本</hi>
+　　　畢澄茄<hi>開寳附山胡椒</hi>
+　　　呉茱茰<hi>本經</hi>
+　　　食茱茰<hi>唐本子即辣</hi>
+　　　鹽麩子<hi>開寳醎咸平樹酸角  草附</hi>
+　　　醋林子<hi>圖經</hi>
+　　　茗<hi>唐本即茶</hi>
+　　　臯蘆<hi>拾遺</hi>
+<pb n="KR3e0079_WYG_078-2a"/>
+　　　　右附方舊五十四新九十六<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3e0079_WYG_078-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　本草綱目卷三十二目録<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="1a"/>
+大廣益㑹玉篇卷第十三<hi>凡一部</hi>
+︻艸部一百六十二<hi>一千五十四字</hi>艸<hi>七老切百艸揔名/說文百卉今作非</hi>草<hi>同上說文音皁草/斗㦡实曰様斗</hi>
+苬<hi>叙留切苬芝也一年三秀</hi>蓏<hi>力果切草/实在地生</hi>虈<hi>許嬌切/香草也</hi>萐<hi>所治切萐莆瑞草王者孝至則生於樹葉如門自扇飲食以助供養</hi>
+莆<hi>方禹切萋莆灵艸</hi>薫<hi>許軍切香/草似蘼芜</hi>蓀<hi>息昆切/香草名/同上</hi>靃<hi>呼郭切豆葉/之少也</hi>藿<hi>同上</hi>
+蘭<hi>力干切香草春蘭也</hi>蕙<hi>胡桂切香/草秋蕙也</hi>蔨<hi>竒卷切/鹿豆巠</hi>茞<hi>齒改切/香草也</hi>虋<hi>莫温切赤苖即今赤粱粟</hi>
+                    <graphic n="KR1666" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1666.png" mimeType="image/png"/>
+                    <hi>俗</hi>
+蘺<hi>力支切香草芎藭苖也</hi>蘼<hi>蘼飢亡彼/二切釁冬</hi>葵<hi>渠追切/菜名</hi>葵<hi>同上</hi>莥<hi>女紂切草/子鹿霍实/同上</hi>
+葯<hi>於略切白芷葉即虈也</hi>芷<hi>支視切白芷/薬名/名茞</hi>芞<hi>去訖切/香草也</hi>苷<hi>古酣切/苷草</hi>䕬<hi>居良切辛/而不葷也</hi>薑<hi>同上</hi>
+萁<hi>居疑切菜也渠疑切豆莖</hi>蓂<hi>莫丁切蓂/莢又音覓</hi>薔<hi>所力切/虞蓼也</hi>苹<hi>皮/明切萍/也又藾/蕭</hi>萍<hi>部丁切草无/根浮水生</hi>䓑<hi>同上</hi>
+蒠<hi>私力切非息菜似芜菁</hi>蘅<hi>胡庚切香/草杜衡也</hi>薊<hi>古䴡切/薊芙也</hi>葪<hi>同上/俗</hi>薸<hi>毗招切水/草萍属</hi>䕯<hi>同上古豪切草名实似瓜食之治</hi>蘇<hi>先胡切草/薬荏属</hi>菁<hi>子丁切/芜菁也</hi>蕧<hi>扶福切/草似菊</hi>䔾<hi>去竭切香/草䔾車也</hi>藒<hi>同上</hi>
+茥<hi>徍切覆盆/也又音睽</hi>莧<hi>胡辨切莧/菜草䟽也</hi>蔦<hi>都了切/寄生也</hi>蘻<hi>公詣切/狗毒草</hi>薓<hi>所金切人/薓薬也</hi>蔘<hi>同上</hi>
+莞<hi>古桓切胡官切草可作席</hi>荏<hi>而錦切菽/豆又蘇属</hi>芥<hi>假拜切/菜名</hi>蕕<hi>与周切/臭草也</hi>
+                    <graphic n="KR1627" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1627.png" mimeType="image/png"/>
+                    <hi>徒合切草/名莐潘也</hi>蕁<hi>同上余招切銚芅詩亦作銚</hi>芅<hi>余識切/芅羊桃也</hi>藫<hi>杜含切/海藻也</hi>蒳<hi>奴荅切/香草名</hi>菼<hi>他敢切草名/藋初生也</hi>
+                    <graphic n="KR2784" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2784.png" mimeType="image/png"/>
+                    <hi>同上</hi>
+<pb n="1b"/>
+<pb n="1b"/>
+荷<hi>賀多切芙渠蓮也</hi>菡<hi>胡敢切菡/萏荷華也</hi>䓿<hi>同上</hi>莟<hi>同上/花開</hi>蔤<hi>美/切荷木也莖/弜在泥中者</hi>苾<hi>同上</hi>
+蕸<hi>何加切水中生荷葉</hi>薂<hi>胡激切菂/敫蓮实也</hi>萏<hi>徒敢切/菡萏/同上</hi>藕<hi>五後切荷/根曰藕</hi>蕅<hi>同上</hi>
+茄<hi>古遐切荷莖又巨迦切</hi>芙<hi>附俱切芙/蓉花名</hi>蓉<hi>俞鍾切/芙日</hi>芍<hi>都歴切蓮子又時灼切芍薬/上略切芍陂下了切<graphic n="KR1856" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1856.png" mimeType="image/png"/>茈也</hi>
+芡<hi>渠㰸切芡雞頭也</hi>菂<hi>上歷切蓮/实亦作的</hi>芰<hi>巨寄切/芰䔖也</hi>茤<hi>同上說林/芰从多</hi>蕮<hi>思亦切馬/蕮車前/同上</hi>
+䓈<hi>弋箠切芡也北燕謂之䓈</hi>蔆<hi>力升切芰/也水中生/同上</hi>䔖<hi>同上亦/作菱</hi>芓<hi>詳餌切麻/母也枲也</hi>茡<hi>同上</hi>
+苞<hi>博交切叢生又積也豐也</hi>菔<hi>扶福切庐/菔菘菜也</hi>䓜<hi>諸尸切/𦵔也/同上</hi>芩<hi>渠炎渠今二/切黄芩也</hi>菳<hi>同上</hi>
+䓶<hi>七漬切芒也草木針也</hi>茅<hi>亡交切草/也葦也</hi>䔂<hi>荘里切/羮菜也/青五切/草履也</hi>虉<hi>魚激切小/草有雜色/同上</hi>
+芐<hi>胡古切地黃又荷嫁切</hi>葖<hi>他忽切葖/草蘆/也</hi>菷<hi>炙乆切/俗菷也</hi>范<hi>音犯草/名又姓</hi>茢<hi>來桀切艸/名萑苕也</hi>䓟<hi>同上</hi>
+茁<hi>乆劣乆滑二切艸出皃</hi>菘<hi>思雄切菜/名蕪菁也</hi>莀<hi>奴冬切/古文農</hi>菊<hi>居六切大/菊蘧麥也/居六切曰精/也似秋華/同上</hi>
+蘜<hi>同上治蘠也今之耿華菊</hi>薠<hi>扶藩切水/草胃蘋也</hi>蒿<hi>呼豪切/蒿鼓也</hi>
+                    <graphic n="KR3713" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3713.png" mimeType="image/png"/>
+                    <hi>息夷切/茅秀也</hi>蓍<hi>舒夷切靈/草下卦者/古文是支切母/草即知母也</hi>菅<hi>賈顔切菅/草茅屬</hi>薟<hi>力検切/白薟</hi>蘞<hi>同上</hi>
+                    <graphic n="KR1637" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1637.png" mimeType="image/png"/>
+                    <hi>諸律切<graphic n="KR1637" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1637.png" mimeType="image/png"/>山/薊与术同/同上</hi>
+萉<hi>扶佛切枲实也或作黂</hi>蓷<hi>勑雷切萑/蓷草名</hi>萑<hi>至維切/萑蓷</hi>蔀<hi>歩口切/蔀覆也</hi>苽<hi>古胡切記/曰魚冝苽</hi>菰<hi>同上</hi>
+芣<hi>伏丘切芣苡一名車前</hi>苡<hi>余止切薏/苡香草也</hi>苢<hi>同上</hi>莊<hi>阻陽切草名又盛也/敬也又六逹道曰荘/古文</hi>
+<pb n="2a"/>
+芭<hi>去紀切白粱粟又菜也</hi>萯<hi>房乆切小/豆四月生/与六切/山韭也</hi>菨<hi>二葉切莕/菨水艸也</hi>莕<hi>何梗切菜也/俗呼曰猪蓴</hi>荇<hi>同上</hi>
+蓑<hi>素和切草衣也又素回切</hi>蔩<hi>余紳余善/二切菟瓜</hi>
+                    <graphic n="KR1999" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1999.png" mimeType="image/png"/>
+                    <hi>玉唐切/菖蒲也/䑓雞切草/名蕛苵也</hi>苵<hi>徒結切蕛/苵他生草/同上</hi>
+葶<hi>都挺切毒魚草文音亭</hi>藄<hi>勤之切草/似蕨可食</hi>蘀<hi>他洛切/落也/同上</hi>荆<hi>景貞切木/名又地名/古文</hi>
+葹<hi>舒移切卷施草抜心不死</hi>莃<hi>欣衣切草/名菟葵也</hi>莎<hi>素戈切/莎草也</hi>薃<hi>胡蒿切/莎草也</hi>菭<hi>徒來切艸生/水中緑色也</hi>苔<hi>同上</hi>
+茯<hi>音伏薬茯苓也又車茯兎</hi>苓<hi>郎丁切/扶苓</hi>蘨<hi>与招切/茂也</hi>蕍<hi>庾俱切/澤㵼也</hi>蔪<hi>疾斂切書/草木蔪苞/同上</hi>
+葍<hi>甫鞠切葍葍大葉曰華</hi>䔰<hi>甫又切草/名䔰䔰也</hi>虇<hi>丘逺切/蘆笥</hi>蔈<hi>芳燒切/黄花</hi>藙<hi>魚旣切薬/名煎茱茰</hi>
+                    <graphic n="KR3171" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3171.png" mimeType="image/png"/>
+                    <hi>同上</hi>
+㽔<hi>汝誰切葳㽔草木实垂皃</hi>蕀<hi>居力切/今逺志</hi>蒬<hi>於元切/蕀蒬</hi>蘤<hi>爲詭切/華榮也</hi>茭<hi>古爻切草也/又下絞切/古文息移切鳧茈或从</hi>茈<hi>積豕切染/草又音</hi>蕓<hi>禹軍切/蕓薹菜</hi>薳<hi>爲彼切/姓也</hi>蒸<hi>章繩切炬也衆/也君也塵也</hi>䒱<hi>同上</hi>
+茜<hi>此見切草名茅蒐可染絩/同上</hi>蒨<hi>同上青/葱之皃/公幸切/羊莖也</hi>芔<hi>許胃許偉二/切草揔名</hi>卉<hi>同上</hi>
+芾<hi>方味万大二切蔽芾小皃</hi>蒚<hi>良激切山/又蒲蒚</hi>䕹<hi>才市切/户薕也/才餘切/草䓚也</hi>薻<hi>子道切水/中菜也</hi>藻<hi>同上</hi>
+藨<hi>平表切前屬可爲席</hi>
+                    <graphic n="KR3628" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3628.png" mimeType="image/png"/>
+                    <hi>苦怪切草/也中爲索</hi>蒯<hi>同上</hi>葒<hi>胡公切/葒蘆草</hi>蘬<hi>丘非丘/丘追/三切大蘢古艸/古文</hi>
+萎<hi>於危於僞二切食牛也</hi>薽<hi>諸身切茢/薽豕首</hi>葑<hi>匪庸切葑/菜芜菁也</hi>菲<hi>孚尾切菜名又薄也語云菲飲食又芳把切芳菲也又父未切</hi>
+䒷<hi>公活切䒷蒌即瓜蒌</hi>董<hi>德孔切藕/根又正也/因纎切/菜也/口羊切/菜也</hi>藩<hi>輔園切蕁芜藩又莆煩切屏也籬也</hi>
+<pb n="2b"/>
+莩<hi>方俱曰葭莩葭中白皮</hi>芴<hi>亡勿切菲/芴土瓜也/一丘切/菜名</hi>䓱<hi>仕街切/草䓱也</hi>蓼<hi>力鞠切長大皃/又音了艸也/同上</hi>
+莦<hi>所交切艸根也又相遥切</hi>蕦<hi>相俞切蒿/蕦似羊蹄</hi>䔞<hi>吕僪切/草子甲/呼角切/艸声/諸翼切草名/葉似酸漿</hi>蘵<hi>同上</hi>
+䓄<hi>牛斤切草又江夏有䓄亭</hi>蓯<hi>子孔切草/名葑蓯也</hi>蕒<hi>母解切/苦蕒菜/普莫切/落也</hi>芛<hi>推畢羊箠二切/草木葉𥘉生也</hi>茟<hi>古文</hi>
+薉<hi>於吠切行之悪也又作穢</hi>茦<hi>楚革切芒/茦也刺也</hi>苪<hi>袐永切/明著也</hi>䒨<hi>徐雉切/蒿艸也</hi>䓠<hi>他市切菜/生水中者/古文</hi>
+茷<hi>符廢博頼二切草葉多也</hi>薞<hi>蘇昆切草/烏薞也/徒篤切/古文毒</hi>䕡<hi>吕居切/菴䕡也</hi>菴<hi>倚廉切蘆/舎又音諳</hi>葊<hi>言文</hi>
+萩<hi>且留切蒿也又七肖切</hi>葎<hi>陵出切葎/似葛有刺</hi>蔠<hi>音終蔠/葵栯也</hi>蘣<hi>他口切/好皃/居包切秦/薬名</hi>芁<hi>同上</hi>
+薋<hi>疾兹切蒺䔧也三角刺人</hi>蒺<hi>慈栗切蒺/藜棘草也</hi>蔾<hi>力脂切/蒺蔾</hi>藜<hi>旅題切/蒿属</hi>苘<hi>口頴切艸/也亦作</hi>䔛<hi>同上</hi>
+蕝<hi>子帨子芮二切束茅表位</hi>蘴<hi>孚雄切芜/菁苖也</hi>薆<hi>於戴切/薆隠也</hi>荳<hi>音豆荳/<graphic n="KR1958" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1958.png" mimeType="image/png"/>薬也</hi>荶<hi>牛金切艸似/蒜生水中</hi>䕾<hi>古文</hi>
+萆<hi>婢赤切雨衣也一曰蓑衣</hi>蔐<hi>舒王切草/薬蔐遂也</hi>
+                    <graphic n="KR3712" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3712.png" mimeType="image/png"/>
+                    <hi>他盍切/<graphic n="KR3712" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3712.png" mimeType="image/png"/>布也</hi>
+                    <graphic n="KR1856" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1856.png" mimeType="image/png"/>
+                    <hi>音苻<graphic n="KR1856" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1856.png" mimeType="image/png"/>/茈艸也</hi>菤<hi>九轉切草/名菤耳也/古文</hi>
+茸<hi>而容切乱皃而勇切不肖</hi>薛<hi>胥列切草/薬莎也/說文/薛字</hi>芘<hi>防脂切/蕃也</hi>芵<hi>古穴切芵/明也花黄/同上</hi>
+葆<hi>補道切草茂皃又羽葆也</hi>蓾<hi>来伍切杜/蓾似葵香/說文/同上</hi>薹<hi>音䑓菜/名芸薹</hi>莌<hi>他活徒活二/切艸生江南/同上</hi>
+薜<hi>補革切山芹又音臂薜荔</hi>茘<hi>力計切薜/茘香草也/香于切/草華也</hi>
+                    <graphic n="KR1929" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1929.png" mimeType="image/png"/>
+                    <hi>音孚花/<graphic n="KR1929" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1929.png" mimeType="image/png"/>也/力振力因二切/鬼火或作燐/同上</hi>
+蔜<hi>五髙切艸也尓雅蔜/千古切苴/草可作履/逐兮切/麻也</hi>蓖<hi>同上</hi>䕺<hi>在紅切草叢生皃</hi>藂<hi>俗</hi>
+<pb n="3a"/>
+菥<hi>思擊切菥又息移切</hi>菀<hi>於逺切紫/菀薬名</hi>莏<hi>素和切/挼莏也</hi>芒<hi>罔良切/稻麥芒</hi>蘋<hi>音頻水艸/大萍也/同上</hi>
+䔮<hi>思移切草生水中花可食</hi>苑<hi>於逺切苑/飬獸園也/得田切/草頭</hi>菖<hi>尺良切/菖蒲/音爻黄茅根/煎汁治消渴</hi>䒝<hi>同上</hi>
+蔣<hi>子羊切苽蔣子兩切姓也</hi>蒟<hi>俱羽切蒟/醬出蜀</hi>菾<hi>徒廉切/菜名</hi>萉<hi>扶佛切果/实或作黂/藥征切草/名/菊也</hi>萾<hi>同上</hi>
+薖<hi>苦戈切草也又寛大皃</hi>茱<hi>时朱切茱/茰薬也</hi>茰<hi>与朱切/茱茰</hi>蔱<hi>所戞切/似茱茰</hi>菣<hi>丘刃切草/名蒿菣也/同上</hi>
+萌<hi>麥耕切始也草木芽也</hi>芽<hi>語家切/萌芽也</hi>苤<hi>鋪悲切/花盛</hi>菄<hi>得紅切/東風菜/音膝薬名/牛/也/同上</hi>
+莖<hi>余更切枝本說文草木幹</hi>莛<hi>特丁切/莖也/海姑切/噐也</hi>葨<hi>烏回切/葨艸</hi>
+                    <graphic n="KR2522" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2522.png" mimeType="image/png"/>
+                    <hi>舒理切糞也亦作矢俗作屎</hi>
+薿<hi>言紀切荗皃又牛力切</hi>蘮<hi>居偈切蘮/蒘似芹/詞龍切/菜也</hi>䒧<hi>音佉草/噐名</hi>葐<hi>扶文切葐蒀盛皃又蒲昆切西復葐草</hi>
+蓻<hi>子習切茅牙又草木生皃</hi>䓏<hi>方扶切䓏/然華盛也</hi>苁<hi>自容切/古文從/防無切/姓也</hi>蒔<hi>石至切更種也植立也又音時</hi>
+芃<hi>扶戍歩同二切艸盛皃</hi>蘧<hi>其居切榖/名麥也</hi>
+                    <graphic n="KR3909" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3909.png" mimeType="image/png"/>
+                    <hi>而勇切/草毛厚</hi>
+                    <graphic n="KR4421" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4421.png" mimeType="image/png"/>
+                    <hi>側刮切/切菜也</hi>萴<hi>阻力切前子薬名或楚力切</hi>
+菿<hi>都角切与倬同又音到</hi>蒢<hi>直居切蘧/蒢草名/胡利切/野蘇也</hi>薺<hi>才礼切/甘菜也</hi>荹<hi>蒲故切牛馬草乱藁也又音蒲</hi>
+蓋<hi>胡獵切苦也古害切仍也</hi>葇<hi>汝游切香/葇菜蘇也</hi>蔄<hi>方莧切/姓也</hi>薇<hi>音微菜/也草也</hi>荑<hi>大奚切始主茅也荑桑也又音夷莁荑也</hi>
+菈<hi>洛台切芦菔即/<graphic n="KR2776" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2776.png" mimeType="image/png"/>子</hi>
+                    <graphic n="KR2776" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2776.png" mimeType="image/png"/>
+                    <hi>度合切/菈<graphic n="KR2776" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2776.png" mimeType="image/png"/>
+                    </hi>蘳<hi>呼規切/黃花也/音寢/覆也</hi>葠<hi>舒<graphic n="KR1069" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1069.png" mimeType="image/png"/>切葠猶苦也草自藉也或作苦</hi>
+茨<hi>疾資切茅茨也以茅覆屋</hi>蓈<hi>力當切草/蓈莠也</hi>莠<hi>余受切/草也</hi>虃<hi>子廉切/百足也</hi>藴<hi>紆文切積也聚也/聚草以火也</hi>
+<pb n="3b"/>
+蘘<hi>如章切蘘荷草名</hi>蒜<hi>蘇乱切辛/菜俗作䔉</hi>葫<hi>戸都切/大蒜/救立切/荲也</hi>荲<hi>丑力切又丑六切</hi>
+蕡<hi>佉云切草名多实</hi>䔿<hi>作緄切本/䔿草叢生</hi>蔗<hi>之夜切/甘蔗</hi>藷<hi>之余切藷/蔗可食也/薄丁切荓草馬帚也莫耕切苕草可爲帚/莫公切草/可以作帚</hi>蔞<hi>力俱力侯/二切蒌蒿</hi>葴<hi>至諶切馬/藍又寒将/何蘭切蔣草也</hi>
+蔡<hi>且蓋切草芥又妙</hi>萃<hi>疾酔切集/也又卦名</hi>䕩<hi>来道切果/名乾梅也</hi>蒙<hi>莫公切唐/蒙即女蘿</hi>薵<hi>直流切菜名蕏葱也</hi>
+藇<hi>徐与切酒美亦作</hi>藃<hi>呼到切耗/也縮也</hi>茫<hi>莫唐切速/也乆逺也</hi>藣<hi>𥙷為彼偽/二切草名</hi>苙<hi>閭及切白芷又音及</hi>
+荅<hi>都合切小豆又當也</hi>蓶<hi>以追切菜/似韭而黃</hi>葰<hi>相維切薑/属可香口</hi>蓩<hi>莫屋莫老/二切毒草/莫候切毒草</hi>
+䓮<hi>莫老切細草叢生</hi>藎<hi>疾刃切進/也又草名</hi>荵<hi>如軫切似/蘇有毛</hi>
+                    <graphic n="KR1520" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1520.png" mimeType="image/png"/>
+                    <hi>姑但切草/莖称也/狃庚切牂可作綆</hi>
+藸<hi>致如切草名又五味/陟隆直隆/二切草名</hi>菩<hi>防誘切香/草文音蒲/祇堯切草/名連翹</hi>蔁<hi>之羊切薬名蔁栁也</hi>
+䕼<hi>如旃切草名又藝也/同上又呼/旦切草也</hi>茮<hi>子消切莍/也与椒同</hi>莍<hi>渠牛切/也</hi>䔟<hi>弋支切草皃萎䔟也</hi>
+茲<hi>子支切草木多益也</hi>蕪<hi>亡孚切草/云芜薉也</hi>落<hi>郎閣切墮/也又始也</hi>蔽<hi>甫制切障/也隱也/於營切草/木萎也</hi>
+茀<hi>敕勿切茀蘺猶蒙蘢</hi>蔎<hi>舒列切蔎/香草也</hi>蓆<hi>詳亦切大/也草蓆也/力計切附/著亦作䴡</hi>䔯<hi>康路切醋𦵔謂之䔯</hi>
+苪<hi>文例切連也或爲綴</hi>蒪<hi>匹各切蓘/何苴也</hi>蓴<hi>常倫切蓴/菜水中生</hi>茵<hi>於仁切草/茵蓐也</hi>苣<hi>勤侣切苣蕂胡麻也</hi>
+薶<hi>莫皆切瘞也与埋同</hi>苟<hi>公后切菜/名又苟且</hi>萶<hi>齒允切萶/萶雜也</hi>菆<hi>阻留切草/也叢生也/胡拜切烏飱草也</hi>
+<pb n="4a"/>
+茠<hi>呼豪切除田草也</hi>薅<hi>同上出/說文</hi>萰<hi>落見切草/名白蘝也</hi>䕇<hi>胡罪公回/二切懷羊</hi>蘱<hi>閭遂切草似蒲而細</hi>
+薡<hi>都領切艸名薡董也</hi>藆<hi>居輦切草/名藆藅也</hi>藅<hi>扶發切/藆藅/奴結切菜似/蒜生水中</hi>薌<hi>許良切穀氣亦作香</hi>
+莘<hi>所巾切衆也又地名</hi>薝<hi>丁敢切草/名薝棘也</hi>蒀<hi>於云切葐/蒀盛皃</hi>
+                    <graphic n="KR1999" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1999.png" mimeType="image/png"/>
+                    <hi>巨凶切蓂/莢实也</hi>艻<hi>郎得切蘿艻香菜也</hi>
+芊<hi>七年切芊芊艸盛皃</hi>
+                    <graphic n="KR1958" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1958.png" mimeType="image/png"/>
+                    <hi>呼候切荳/蔲薬名</hi>蘩<hi>輔袁切草/名白蒿也</hi>蕭<hi>蘇條切香/蒿又蕭索</hi>蘥<hi>余灼切穀名雀麥也</hi>
+<graphic n="KR2906" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2906.png" mimeType="image/png"/>
+                    <hi>素老切蔜<graphic n="KR1562" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1562.png" mimeType="image/png"/>也</hi>
+                    <graphic n="KR1562" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1562.png" mimeType="image/png"/>
+                    <hi>力主切/蔜/<graphic n="KR1562" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1562.png" mimeType="image/png"/>
+                    </hi>薢<hi>古諧切庚/買切薢茩</hi>茩<hi>古后切/薢茩</hi>蔌<hi>桑卜切菜茹之緫名</hi>
+苕<hi>徒彫切苕草可作帚</hi>薔<hi>音檣花名/薔薇也</hi>蘠<hi>才良切虋/冬草也</hi>蘢<hi>盧功切馬/藻又音龍</hi>蔓<hi>忘怨切藤生蔓延也</hi>
+菋<hi>無貴切荎藸又五味</hi>荎<hi>雉之切草/荎藸也</hi>葛<hi>功遏切蔓/草根可食/古勞切/如葛白華</hi>芫<hi>牛袁切草芫花薬名</hi>
+艼<hi>秃鼎秃霝二切艼荧</hi>葋<hi>渠俱切葋/艼荧也</hi>莨<hi>來唐切草/也亦粱也</hi>蕈<hi>慈荏切地/菌謂之蕈</hi>菌<hi>竒隕切草芝地菌也</hi>
+䓴<hi>而兖切木耳生枯木</hi>萋<hi>且嵇切萋/萋草荗皃</hi>菶<hi>𥙷動切菶/菶多实也</hi>蓁<hi>疾陳切衆/也又草盛</hi>葼<hi>子公切木細枝直幹</hi>
+芼<hi>莫报切芼拔取菜也</hi>藥<hi>与灼切治/病草揔名</hi>蕰<hi>於粉切聚/也又菜也</hi>菸<hi>於去切臭/艸謂之菸</hi>藑<hi>巨營切草名藑茅也</hi>
+荋<hi>䜇之切艸哆又亭名</hi>藪<hi>桑後切大/澤曰薮</hi>䒹<hi>来潰切耕/多草也</hi>苫<hi>舒鹽切草/名茅苦也</hi>藹<hi>於蓋切腌藹樹茂也</hi>
+芻<hi>楚俱切茭草俗作芻</hi>蕢<hi>竒槐切草/器又音塊</hi>莜<hi>徒呌切草/器名也</hi>莝<hi>且卧切斬/草謂之莝</hi>蕘<hi>乳燒切芻蕘草薪也</hi>
+薪<hi>息秦切析木柴也</hi>艽<hi>勤牛切逺/荒之野也</hi>藶<hi>力秋切葶/藶薬名</hi>菉<hi>閭燭切菉/蓐又菉荳</hi>茿<hi>猪鞠切萹茿亦作竹</hi>
+<pb n="4b"/>
+藚<hi>似玉切草名生脣也</hi>䔚<hi>时均切草/也牛䔚也/𥙷位𥙷婢二/切/䑕莞也</hi>蕼<hi>相利切草/名菙也</hi>藘<hi>旅居切茹藘茅蒐也</hi>
+芨<hi>居及切芨革草烏頭</hi>菧<hi>之履切草/蒻本作底</hi>苨<hi>奴礼切草/名萕苨也</hi>苻<hi>輔俱切苻/草鬼目也</hi>蒫<hi>昨何祖邪二切萕实</hi>
+葟<hi>胡光切葟榮亦花美</hi>花<hi>呼瓜切今/爲華荂字</hi>菝<hi>蒲逹切瑞/艸名菝葀</hi>葀<hi>古活切拔葀狗脊根</hi>
+                    <graphic n="KR4044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4044.png" mimeType="image/png"/>
+                    <hi>苦八切/菝<graphic n="KR0797" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0797.png" mimeType="image/png"/>草</hi>
+英<hi>猗京切草木英華</hi>蕆<hi>敕展切備/也敕也</hi>蕞<hi>在㑹切蕞/尓小皃/力戈切草/器或作蔂/蒲骨切蒡又作葧</hi>
+䒲<hi>竹亞切䒲葿黄芩也</hi>葿<hi>亡悲切䒲/葿草也/禹俱切𦵔/草似韭</hi>䕞<hi>力盎切䕞/薚薬也</hi>薚<hi>荼盎切䕞薚</hi>
+苰<hi>胡胘切藤苰胡麻</hi>薱<hi>逹潰切艸/木茂之称/力豆切/蘆薬也/㪯魚切草/名直/也/胡鹿切菜生水中者子移切菜生水中/力戈切菜/生水中/孚陸切/子也可食/求元切敗/也委葾也</hi>䔷<hi>竒金切草根可縁器乙卓切英蒻謂之</hi>䕸<hi>余戞切麻/莖又音皆</hi>萳<hi>乃感切艸/長弱皃</hi>䕍<hi>余丗切逺/似蘇而赤</hi>䓌<hi>諸餌切逺恙薬名莫礼切菜名/子也/力胡切薬/名/薈也/且巳切即/葈耳也</hi>芚<hi>徒昆切菜/似莧可食</hi>菗<hi>丈牛切菗荼菜也似入切茵水草也/公玄切/明草也</hi>䕧<hi>下校古鮑/二切藕根/除類切禾/秀与穟同</hi>薈<hi>子登切草名菎薈也</hi>
+莒<hi>居吕切草也亦囯名</hi>茪<hi>古黄切/茪艸也/力鞠切蔐/艸薬也/甫俱切薬/名地</hi>䕪<hi>除格切薬名䕪蕩奴如切菜名藷</hi>蒵<hi>何雞切蘩/莬蒵也/荘卓切/蒵附子也/去用切/䕞薚也</hi>蓺<hi>魚制切種蒔並曰蓺音蒲雉有肉也</hi>茂<hi>莫遘切艸/木茂盛</hi>蔯<hi>音陳香菜/茵蔯也</hi>萄<hi>徒勞切果/名蒲萄</hi>萪<hi>苦過切莉藤生海傍</hi>
+<pb n="5a"/>
+莪<hi>五哥切艸名似斜蒿</hi>虆<hi>力垂切蔓/也又音累</hi>
+                    <graphic n="KR4551" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4551.png" mimeType="image/png"/>
+                    <hi>祝由切艸/名又盛也</hi>葙<hi>酥将切青/葙子薬名/借清切仙/草黄也語两切草出池水</hi>䒦<hi>孚㪘切草/浮出水皃</hi>䕌<hi>遲至切䕌/草也芽也</hi>蒩<hi>資都切蒩/茅藉也</hi>芤<hi>苦候切脉候又艸名</hi>
+薙<hi>杔計切芟去草也</hi>葸<hi>胥里切畏/懼曰葸</hi>苯<hi>畢衮切苯/尊艸生也</hi>菬<hi>之少切菬/子薬名也</hi>䕀<hi>苦菅切薬/名苳也</hi>
+蔃<hi>強两切艸也險年根可食</hi>蒼<hi>土狼切青/春爲蒼天/与職切艸/名藕翹</hi>莚<hi>以扇切蔓/莚草藤生/胡木切水草可食者</hi>
+苖<hi>靡驕切田木苖也又獵名</hi>蔢<hi>傍个切草/薬蔢<graphic n="KR4043" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4043.png" mimeType="image/png"/>
+                    </hi>
+                    <graphic n="KR4043" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4043.png" mimeType="image/png"/>
+                    <hi>火个切/蔢<graphic n="KR4043" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4043.png" mimeType="image/png"/>
+                    </hi>蔔<hi>傍北切菜/名蘆蔔</hi>菽<hi>升六切豆名亦作尗</hi>
+荒<hi>呼黄切荒蕪多艸又年飢</hi>
+                    <graphic n="KR3015" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3015.png" mimeType="image/png"/>
+                    <hi>什耕切<graphic n="KR3015" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3015.png" mimeType="image/png"/>/薴草名</hi>薴<hi>狃耕切草/乱曰薴</hi>薁<hi>於六切草/名蘡薁也</hi>䕉<hi>地革切草名䕉葛</hi>
+芮<hi>而銳切艸生皃又囯名</hi>莢<hi>公叶切豆/莢蓂莢也/渠立切冬/瓜一名</hi>䓃<hi>於及切草/菜茹熟也</hi>蔋<hi>徒的切旱氣亦作滌</hi>
+葺<hi>七入切修補子入切茨也</hi>芬<hi>音紛草木/芬芳盛也</hi>荀<hi>相倫切草/名又姓也</hi>荁<hi>音桓草芝/也堇類</hi>莬<hi>音問草木新生者</hi>
+莂<hi>彼列切種槪移㘽莳也/音祗繰絲/鉤緒也/音烏/蓲/即荻也/寒翰二音/白/草也/音瓊草旋皃与榮同</hi>
+蕊<hi>如累切艸木实莭二生</hi>蓘<hi>音衮藨蓘/壅養苖也/音漸麥之/秀白者</hi>薯<hi>音署薬名/薯蕷也</hi>蕷<hi>音預薯蕷</hi>
+薤<hi>胡戒切菜似非亦作</hi>苝<hi>音佩草名/山/也</hi>䔇<hi>音潰菜名/又音豈/于縛切菜/名/子</hi>蔧<hi>才歳切草蔧王帚也</hi>
+蘸<hi>側䧟切以物内水/之蘸</hi>蕂<hi>詩證切苣/蕂胡麻也/疾立切/菩草名也</hi>
+                    <graphic n="KR3104" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3104.png" mimeType="image/png"/>
+                    <hi>与良切<graphic n="KR3104" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3104.png" mimeType="image/png"/>葲薬草名</hi>葲<hi>音泉/<graphic n="KR3104" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3104.png" mimeType="image/png"/>葲亡泛切艸木芜蔓曰</hi>蕖<hi>音渠荷名/芙蕖也</hi>茳<hi>音江茳蘺/香艸也</hi>著<hi>直閭切菋荎著也又中恕馳/畧知畧三切䴡也述作也</hi>
+<pb n="5b"/>
+苜<hi>莫六切苜蓿本作目宿</hi>蓿<hi>私六切菜/名苜蓿也</hi>䔬<hi>莭記切/連翹草/力主切/小蒿草</hi>葷<hi>呼云切礼膳有葷桃茢葷葉所以辟凶邪胡懇切草名似蓍花青白</hi>蕿<hi>虚袁切令/人忘戞草</hi>藼<hi>同上</hi>萱<hi>同上</hi>薄<hi>蒲各切厚薄又林薄也一曰𧖟薄</hi>
+蘦<hi>来丁切大苦菜或似地黄/公橝公㨂/二切草名</hi>蔿<hi>于委切/草也</hi>荃<hi>趍縁切/香草</hi>蘄<hi>居衣渠之二切草名又縣名又音芹</hi>
+㪿<hi>之烈切今作折又常列切/同上出/說文</hi>蒘<hi>汝猪切/草名</hi>蓇<hi>古突切/不实草</hi>
+                    <graphic n="KR2299" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2299.png" mimeType="image/png"/>
+                    <hi>平表毗小二切落也正作莩</hi>
+蔍<hi>郎谷切蔍蹄草又蔍䓤也</hi>
+                    <graphic n="KR2801" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2801.png" mimeType="image/png"/>
+                    <hi>同上又側吏/切輻入轂也/渠周切/白芷</hi>茞<hi>时人切/草名</hi>䔑<hi>弋蛇切穗也蓄積也又似嗟切</hi>
+䔩<hi>所革切以榖和草餧馬也</hi>蓒<hi>虚言切蓒/艸生水中</hi>蒁<hi>来密切/草名</hi>䓞<hi>来計切/紫草</hi>莤<hi>余留切水草一名軒干又所六切苞茅莤酒也</hi>
+蔟<hi>青木切巢也又𧖟蓐也/力周切艸/木莖葉踈</hi>萭<hi>于矩切/草名/鼻<graphic n="KR4545" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4545.png" mimeType="image/png"/>切/蒿似蓍</hi>苴<hi>七閭切麻也子閭切苞苴子旅切履中薦</hi>
+䒼<hi>丘玉切䒼菹也養𧖟器也</hi>
+                    <graphic n="KR2783" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2783.png" mimeType="image/png"/>
+                    <hi>外諸切草/名魚斉也/公狄切/草名/胥潰切/草名</hi>茬<hi>在之切艸盛皃済北有茬平縣</hi>
+蕇<hi>丁殄切葉似芥一名狗萕</hi>葳<hi>於㱕切葳/㽔草皃/後堅切/草名</hi>荌<hi>於旦切/草名</hi>菟<hi>音兎莬絲子薬名又音徒地名</hi>
+藺<hi>旅進切似莞而細可為席</hi>蒤<hi>逹胡切虎/杖似紅草/有救切/草名/同上</hi>藉<hi>牆亦切狼藉殘也又疾夜切</hi>
+蒐<hi>所留切茅蒐也春獵為蒐/桑落色責/二切草名</hi>䔴<hi>义力切/草名/与鞠切/草名</hi>䕁<hi>甫尾切江湖之間兄卒相謂之棐也</hi>
+蕎<hi>居妖切大㦸也音橋麥也/居逆切薬/名木/也/公魂切/香草</hi>菎<hi>同上</hi>
+                    <graphic n="KR2240" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2240.png" mimeType="image/png"/>
+                    <hi>卑列切蕨也紫纂也𥘉生无葉可食</hi>
+蕨<hi>居越切筍蕨山菜也</hi>葩<hi>普華切草/木華也</hi>葚<hi>市枕切/桑实</hi>薾<hi>奴礼切草盛皃</hi>蓫<hi>抽陸切詩言采其蓫/牛<graphic n="KR2718" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2718.png" mimeType="image/png"/>又音逐烏尾草</hi>
+<pb n="6a"/>
+藬<hi>他雷切草名生頽也</hi>芭<hi>卜加切芭/蕉又香草</hi>蕉<hi>子消切/芭蕉</hi>蔇<hi>九利切/草多皃</hi>芏<hi>徒扈他護二切似莞藺越人以爲席</hi>
+萿<hi>古活切麋吉春生葉似舌/充受切草/名菝葀也</hi>蔫<hi>於焉切/草菸腐</hi>蓸<hi>在勞切/蓸草也</hi>蕃<hi>縛袁切息也滋也又甫煩切藩屏也</hi>
+荂<hi>許俱芳俱二切荂榮也</hi>䔹<hi>除季切蘧/蒢亦作/与周同/草也/說文</hi>
+                    <graphic n="KR1538" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1538.png" mimeType="image/png"/>
+                    <hi>宜居士余二切根似茅可食</hi>
+蓽<hi>𥙷密切似荆爲户謂之蓽/弥紹切/小草細也/市昭切/草也/雇后切/草也</hi>苛<hi>賀多切小艸生皃又政煩也怒也</hi>
+<graphic n="KR1767" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1767.png" mimeType="image/png"/>
+                    <hi>渠与切苦蕒菜也又音渠/音龍艸名/古文字/亡候切/草名</hi>苳<hi>丁彤切/草名</hi>藏<hi>慈郎切草名又隠匿又才浪切庫藏</hi>
+荼<hi>杜胡切苦菜也又除加切</hi>荈<hi>尺兖切荼/荈葉老者</hi>萒<hi>惟脔切/雀弁也</hi>苀<hi>胡唐切/苀東蠡</hi>茇<hi>莆逹切艸木根𥙷未切蓽茇</hi>
+藤<hi>逹曽切艸木蔓生者揔名</hi>茗<hi>冥頂切荼/茗荈也</hi>藗<hi>桑鹿切/白茅</hi>芀<hi>都聊切/葦花</hi>䖆<hi>女亮切菜也𦵔也說文而丈切</hi>
+莁<hi>武俱切莁羙一名白蕢/恥亮切草/木盛也</hi>䓉<hi>与蛇切/草名</hi>萊<hi>旅災切/藜草</hi>艿<hi>音仍舊艸不芟新艸又生也於亦切葢母草本作益</hi>茺<hi>齒戎切茺/蔚即益母</hi>葽<hi>於燒切/草也</hi>芟<hi>所嚴切/除草</hi>芿<hi>而証切艸芟陳者又新生者余斃切葉似竹生水中</hi>蔚<hi>烏貴於勿/二切茺蔚</hi>蒥<hi>力牛切/香草</hi>
+                    <graphic n="KR2995" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2995.png" mimeType="image/png"/>
+                    <hi>九岀切/草也</hi>菜<hi>且賚切草可食者揔名菜古畦苦畦二切鉤藈姑艸</hi>菇<hi>故呉切/藈菇</hi>葞<hi>亡此切/春草/疾来切/草也/居欠切草薬根可治喉痛</hi>
+茹<hi>而預而与而諸三切柔也菜茹也飲牛也又相牽引皃易按茅連茹</hi>蓄<hi>丑六切/蓄積也</hi>菑<hi>阻飢切一歲田又子来切害也</hi>
+荺<hi>營窘切茅根又藕根爲</hi>茆<hi>閭酉切茂盛皃又/亮葵也或亡絞切</hi>
+                    <graphic n="KR1732" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1732.png" mimeType="image/png"/>
+                    <hi>同上出/說文</hi>菏<hi>乎哥切艸也又音柯澤名</hi>
+<pb n="6b"/>
+菩<hi>薄胡切佛號歩亥切艸也</hi>薩<hi>桑葛切釋/興菩薩也</hi>䓝<hi>亡庚切/狼尾草/俞主切/草名</hi>蓪<hi>他公切/薬草</hi>䓂<hi>魚鞬切草名</hi>
+莋<hi>才亦才各二切如艸也/且栗切/葉似蘇</hi>葏<hi>才千切/草茂皃/莫侯切/草也/胡故切/草名</hi>
+                    <graphic n="KR1668" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1668.png" mimeType="image/png"/>
+                    <hi>力當切毒艸</hi>
+藖<hi>下間切堅也又下辨切</hi>䓵<hi>橅俱切䓵/萮花皃</hi>萮<hi>庾俱切/䓵萮</hi>蘛<hi>同上又/音育/亦同上</hi>䔜<hi>他甘切菜葱也</hi>
+䕣<hi>餘括切草似蕨生水中</hi>虂<hi>力故切草/蘩虂也</hi>
+                    <graphic n="KR2390" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2390.png" mimeType="image/png"/>
+                    <hi>有貴切/<graphic n="KR2390" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2390.png" mimeType="image/png"/>草也</hi>苭<hi>於皎切/草長</hi>葓<hi>音洪水/艸名/音詵地名</hi>
+蓊<hi>烏公切烏孔切木茂皃</hi>䔲<hi>音登草名/金䔲也</hi>䔶<hi>音提䔶/草也/同上/古治切/草名/音基種也</hi>
+<graphic n="KR3745" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3745.png" mimeType="image/png"/>
+                    <hi>以遮切枲属皮可爲索/鋤邪切/水草名/音劬芟/草也</hi>芝<hi>止而切/瑞草</hi>苸<hi>火烏切/草名/音毛薬名</hi>
+苶<hi>奴結切疲也又乃莢切</hi>蕫<hi>音童草名/又音董/得盧切/草也</hi>莫<hi>五姑切/茣草也</hi>䓙<hi>古懷切/䓙草也</hi>䓐<hi>食切切草名恱宣切尾/艸射干也</hi>
+                    <graphic n="KR3743" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3743.png" mimeType="image/png"/>
+                    <hi>力彫切/<graphic n="KR3743" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3743.png" mimeType="image/png"/>草也</hi>蘹<hi>户乖切/草名/作才切/草名</hi>菕<hi>律春切/菕草/古和切草也</hi>
+䕈<hi>思狹切艸也又徒叶切</hi>蕔<hi>愽蒿切/蕔草也/識余切/艸也</hi>蒢<hi>祥余切/艸也/羽鴈切/草名同上許往切<graphic n="KR2651" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2651.png" mimeType="image/png"/>/又詠永切艸/徒兼切薬/草名也/渠焉切/草名/苦婁切/草也</hi>䕱<hi>徒侯切/草也</hi>䒩<hi>胡戈切草名子了切草似薺菜</hi>蒖<hi>之仁切蒖/草䒢也</hi>萓<hi>魚飢切/草名</hi>莮<hi>奴含切/草也</hi>葁<hi>居良切/山草</hi>䕕<hi>莫半切草名</hi>
+䓼<hi>音尨又火角切並草名/昨寒切/草名/都昆切/草名/都官切/草也</hi>䒟<hi>都蘭切/薬艸</hi>䒶<hi>古文天字</hi>
+蕠<hi>音如蕠蘆艸也亦作茹/音緩香辛/草胡/也</hi>荽<hi>同上</hi>䒘<hi>同上</hi>䕊<hi>都闌切/草名</hi>荿<hi>時盈切荿草</hi>
+<pb n="7a"/>
+荄<hi>古菜切艸根也又音皆</hi>
+                    <graphic n="KR1342" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1342.png" mimeType="image/png"/>
+                    <hi>音盲薬/名貝母/同上/同上/余舟切/草</hi>䒜<hi>魚丘切䒜魚</hi>
+蔕<hi>都計切艸木綴实本也</hi>蔲<hi>古豆切/草薬名</hi>茴<hi>胡魁切/茴香</hi>茧<hi>遲隆切/草衰</hi>䕔<hi>胡監切/草名/直離切草也</hi>
+蘿<hi>盧多切托松而生女蘿也</hi>蓎<hi>徒郎切蓎/蒙女蘿也/戍江切/草也/時羊切/草名/防乆切/草也/夕預切草也</hi>
+䒕<hi>私沼切䒕草逺志也</hi>蕄<hi>莫耕切蕄/蕄在也</hi>
+                    <graphic n="KR3946" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3946.png" mimeType="image/png"/>
+                    <hi>同上本/或作萌/于矩切/草名/都朗切/草也</hi>蓰<hi>息紫切蓰草也</hi>
+<graphic n="KR1636" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1636.png" mimeType="image/png"/>
+                    <hi>祥由切夜也又与糟同/苦聾切/心草/与章切/草名</hi>藢<hi>張里切/火草名/式止切/草也/九輦切草名</hi>
+芋<hi>或虞切草盛皃又王遇切</hi>菠<hi>博何切菜/名菠薐</hi>薐<hi>勒登切/艸名</hi>苲<hi>阻假切/草名</hi>藠<hi>胡了切/草名/之两切草也</hi>
+蘡<hi>於盈切草名蘡薁</hi>莉<hi>力奚切/薬草名/息離切/草名/乃侯切/草名/滿/切/草也/巨錦切草名子隨切草地䓴也</hi>䔀<hi>汝佳切/薑倭也</hi>蕪<hi>亡夫切/荒地草/許俱切/芋也/胡降切/草似葵/虚鬼切草名</hi>
+䕒<hi>古牙切䕒是薬也/徒頓切/薬草名/息觜切/草名</hi>䔪<hi>史養切/䔪草也</hi>芠<hi>無分切/芠草也</hi>䒚<hi>舒小切䒚草也胡感切又胡紺切草也</hi>葔<hi>胡溝切/葔草名/渠救切/草薬名</hi>萀<hi>呼古切/萀草也</hi>
+                    <graphic n="KR2089" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2089.png" mimeType="image/png"/>
+                    <hi>奴低切/草露根/夕雨切草</hi>
+苾<hi>莆結切苾芳草名</hi>芳<hi>孚方切芬/芳香氣皃/七選切/薬草名</hi>䒴<hi>于九切/草也</hi>䒡<hi>於軫切/草名</hi>葤<hi>音紂草名</hi>
+荐<hi>在見切重也数也再也</hi>芦<hi>胡古切/芦葦草/尸枕切/草名/徒罪切/草也/無粉切/辛草也</hi>䓍<hi>胡但切草也普木切草生皃/莫後切/草也</hi>荱<hi>亡匪切/薬草名/巨矩切/草名/蒲桮切/草名</hi>䉈<hi>蘇剪切草也</hi>
+<pb n="7b"/>
+莅<hi>力至切臨莅治也与涖同</hi>
+                    <graphic n="KR0803" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0803.png" mimeType="image/png"/>
+                    <hi>音楼土瓜/<graphic n="KR0797" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0797.png" mimeType="image/png"/>
+                        <graphic n="KR0803" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0803.png" mimeType="image/png"/>也/亡板切/草名</hi>蘟<hi>於謹切/晦也</hi>苽<hi>荘巧切/薬草/徒爛切草也</hi>
+<graphic n="KR1938" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1938.png" mimeType="image/png"/>
+                    <hi>古郎切草名岡草也</hi>葻<hi>負弓切/草動皃/亡典切/草也</hi>蕺<hi>爼及切/菜名</hi>䒛<hi>胡貫切/草名</hi>萺<hi>莫报切萺草也</hi>
+䔺<hi>恱吹羊菙二切藍蓼秀也/盧到切/勞薅也</hi>莄<hi>古幸切/草名/煑扇切/草也/舒戰切/艸也/歩鉤切草爼也</hi>
+蓓<hi>薄亥切草名黄蓓又蓓蕾</hi>蕾<hi>落猥切蓓/蕾花綻皃</hi>菍<hi>奴佔切/草名</hi>葃<hi>慈作切/草名/千歷切/草名/音覓草也</hi>
+藰<hi>六九切草名草/也</hi>䔔<hi>居競切/䔔草也</hi>䓭<hi>楚戞切/䓭草也/先結切/草也</hi>蔛<hi>胡鹿切/石草名</hi>莈<hi>莫勃切薬草</hi>
+藞<hi>力无切藞磋不中皃</hi>䕢<hi>除瓦切/藞䕢</hi>莯<hi>母卜切/草也/甫禄切/草也/子昔切/石草</hi>䔁<hi>力質切草也</hi>
+䔭<hi>奴領切寗毒草也</hi>莡<hi>粗合切/行草声</hi>藌<hi>冥栗切/藌草也</hi>䔱<hi>伊立切/草名</hi>䖇<hi>於律切/香草/殂勒切草名</hi>
+菪<hi>徒閬切草名可席也</hi>
+                    <graphic n="KR3659" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3659.png" mimeType="image/png"/>
+                    <hi>渠列切/<graphic n="KR3659" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3659.png" mimeType="image/png"/>草也</hi>䕃<hi>於鴆切/草䕃地/莫卜切/菜名/胡眣切/草也</hi>䒸<hi>許大切草名於立切草名/尼立切/居滑切/草名</hi>䓇<hi>呼歷切/草盛皃</hi>薈<hi>烏會切/草盛皃</hi>䔏<hi>又敕切草根雜子合切又音雜草名/古八切/艸也</hi>蒒<hi>色淄切/草名/音機/草也</hi>苮<hi>音仙草/名似莞/音題說文草名</hi>
+蒴<hi>始卓切草名蒴/有五葉/仗卓切/蒴/音凋葫/茭实也</hi>䔸<hi>音表/草名/尺加切/草芽</hi>蓮<hi>力堅切荷实</hi>
+䕓<hi>𥘉戞切䕓艸有毒用殺魚</hi>蘪<hi>音縻切草/糜芜也</hi>菺<hi>居賢切荗/葵今蜀葵</hi>茙<hi>如終切菜名茙紫也</hi>
+<pb n="8a"/>
+</p>
+<p>
+大廣益㑹玉篇卷十三<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

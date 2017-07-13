@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>夢粱録巻十六</head>
+    <p>
+<pb n="KR2k0118_WYG_016-1a"/>
+欽定四庫全書<lb/>
+　夢粱録巻十六　　　　　宋　呉自牧　撰<lb/>
+　　茶肆<lb/>
+汴京熟食店張掛名畫所以勾引觀者留連食客今杭<lb/>
+城茶肆亦如之挿四時花掛名人畫裝㸃店面四時賣<lb/>
+竒茶異湯冬月添賣七寶擂茶饊子葱茶或賣鹽䜴湯<lb/>
+暑天添賣雪泡梅花酒或縮脾飲暑藥之屬向紹興年<lb/>
+間賣梅花酒之肆以鼔樂吹梅花引曲破賣之用銀盂<lb/>
+<pb n="KR2k0118_WYG_016-1b"/>
+杓盞子亦如酒肆論一角二角今之茶肆列花架安頓<lb/>
+竒松異檜等物于其上裝飾店面敲打響盞歌賣止用<lb/>
+瓷盞漆拓供賣則無銀盂物也夜市於大街有車擔設<lb/>
+浮鋪㸃茶湯以便逰觀之人大凡茶樓多有富室子弟<lb/>
+諸司下直等人㑹聚習學樂器上教曲賺之類謂之掛<lb/>
+牌兒人情茶肆本非以㸃茶湯為業但將此為由多覓<lb/>
+茶金耳又有茶肆專是五奴打聚處亦有諸行借工賣<lb/>
+妓人㑹聚行老謂之市頭大街有三五家開茶肆樓上<lb/>
+<pb n="KR2k0118_WYG_016-2a"/>
+專安著妓女名曰花茶坊如市西坊南潘節幹俞七郎<lb/>
+茶坊保佑坊北朱骷髏茶坊太平坊郭四郎茶坊太平<lb/>
+坊北首張七相幹茶坊盖此五處多有炒鬧非君子駐<lb/>
+足之地也更有張賣麪店隔壁黄尖嘴蹴毬茶坊又中<lb/>
+瓦内王媽媽家茶肆名一窟鬼茶坊大街車兒茶肆蔣<lb/>
+檢閲茶肆皆士大夫期朋約友㑹聚之處巷陌街坊自<lb/>
+有提茶瓶沿門㸃茶或朔望日如遇凶吉二事㸃送鄰<lb/>
+里茶水倩其往来傳語耳有一等街司衙兵百司人以<lb/>
+<pb n="KR2k0118_WYG_016-2b"/>
+茶水㸃送門靣鋪席乞覓錢物謂之齪茶僧道頭陀道<lb/>
+者欲行題注先以茶水沿門㸃送以為進身之階<lb/>
+　　酒肆<lb/>
+中瓦子前武林園向是三元樓康沈家在此開沽店門<lb/>
+首綵畫歡門設紅緑<graphic n="KR1166" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1166.png" mimeType="image/png"/>子緋緑簾幙貼金紅紗梔子燈<lb/>
+裝飾㕔院廊廡花朩森茂酒座瀟洒但此店入其門一<lb/>
+直主廊約一二十步分南北兩廊皆濟楚閣兒稳便坐<lb/>
+席向晚燈燭熒煌上下相照濃妝妓女數十聚于主廊<lb/>
+<pb n="KR2k0118_WYG_016-3a"/>
+槏靣上以待酒客呼喚望之宛如神仙次有南瓦子熙<lb/>
+春樓王㕑開沽新街巷口花月樓施㕑開沽融和坊嘉<lb/>
+慶樓聚景樓俱康沈腳店金波橋風月樓嚴㕑開沽靈<lb/>
+椒巷口賞新樓沈㕑開沽壩頭西市坊雙鳯樓施㕑開<lb/>
+沾下瓦子前日新樓鄭㕑開沽俱有妓女以待風流才<lb/>
+子買笑追歡耳如酒肆門首排設<graphic n="KR1166" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1166.png" mimeType="image/png"/>子及梔子燈筭盖<lb/>
+因五代時郭髙祖游幸汴京茶樓酒肆至今店家倣傚<lb/>
+成俗也大抵酒肆除官庫子庫脚店之外其餘謂之栢<lb/>
+<pb n="KR2k0118_WYG_016-3b"/>
+户兼賣諸般下酒食次隨意索喚酒家亦自有食牌從<lb/>
+便㸃供更有包子酒店專賣灌漿饅頭薄皮春繭包子<lb/>
+蝦肉包子魚兜雜合粉灌熝大骨之類又有肥羊酒店<lb/>
+如豐豫門歸家省馬院前<hi>闕</hi>家後市街口施家馬婆巷<lb/>
+雙羊店等鋪零賣軟羊大骨龜背爛烝大片羊雜鴦四<lb/>
+軟羊攛四件有一等直賣店不賣食次下酒謂之角毬<lb/>
+店零沽散賣或百單四七十七五十二三十八者是也<lb/>
+又有掛草葫蘆銀馬杓銀大碗亦有掛銀裹直賣牌多<lb/>
+<pb n="KR2k0118_WYG_016-4a"/>
+是竹柵布幕為之打碗頭只三二碗便行更有酒店兼<lb/>
+賣血臟豆腐羮熝螺螄煎豆腐蛤蜊肉之屬乃小輩去<lb/>
+處若酒力髙美者牌額賣過山之名其言一山二山三<lb/>
+山之類是也大凡入店不可輕易登樓恐飲宴短淺如<lb/>
+買酒不多只就樓下散坐謂之門床馬道初坐定酒家<lb/>
+人先下看菜問酒多寡然後别換好菜蔬有一等外郡<lb/>
+士夫未曽諳識者便下筯喫被酒家人哂笑然店肆飲<lb/>
+酒在人出著且如下酒品件其錢數不多謂之分茶小<lb/>
+<pb n="KR2k0118_WYG_016-4b"/>
+分下酒或命妓者被此輩索喚珍品下細食次使其髙<lb/>
+擡價數惟經慣者不堕其計曩者東京楊樓白礬八仙<lb/>
+樓等處酒樓盛于今日其富貴又可知矣且杭都如康<lb/>
+沈施㕑等酒樓店及薦橋豐禾坊王家酒店闇門外鄭<lb/>
+㕑分茶酒肆俱用全桌銀器皿沽賣更有碗頭店一二<lb/>
+處亦有銀臺碗沾賣於他郡却無之<lb/>
+　　分茶酒店<lb/>
+凡分茶酒肆賣下酒食品㕑子謂之量酒博士師公店<lb/>
+<pb n="KR2k0118_WYG_016-5a"/>
+中小兒謂之大伯更有百姓入酒肆見富家子弟等人<lb/>
+飲酒近前唱喏小心供過使人買物命妓謂之閑漢又<lb/>
+有向前換湯斟酒歌唱獻果燒香香藥謂之厮波有一<lb/>
+等下賤妓女不呼自来筵前祗應臨時以些少錢㑹贈<lb/>
+之而名打酒坐亦名禮客有賣食藥香藥果子等物不<lb/>
+問要與不要散與坐客名之散暫如此等類處處有之<lb/>
+杭城食店多是效學京師人開張亦效御㕑體式貴官<lb/>
+家品件凡㸃索茶食大要及時如欲速飽先重後輕兼<lb/>
+<pb n="KR2k0118_WYG_016-5b"/>
+之食次名件甚多姑以述于後曰百味羮錦絲頭羮十<lb/>
+色頭羮間細頭羮海鮮頭食酥沒辣象眼頭食蓮子頭<lb/>
+羮百味韻羮雜彩羮杴葉頭羮五軟羮四軟羮三軟羮<lb/>
+集脆羮三脆羮雙脆羮羣鮮羮落索兒焙腰子鹽酒腰<lb/>
+子脂蒸腰子釀腰子荔支焅腰子腰子假炒肺雞絲簽<lb/>
+雞黿魚雞脆緑笋鷄鵞奈香新法雞酒蒸雞炒雞蕈五<lb/>
+味焅雞鵞粉簽雞奪真五味杏酪鵞綉炊鵞間笋蒸鵞<lb/>
+鵞排炊羊大骨蒸軟羊鼎煮羊羊四軟酒蒸羊綉炊羊<lb/>
+<pb n="KR2k0118_WYG_016-6a"/>
+五味杏酪羊千里羊羊雜熝羊頭黿魚羊蹄笋細抺羊<lb/>
+生膾改炙羊攛粉細㸃羊頭三色肚絲羮銀絲肚肚絲<lb/>
+簽雙絲簽葷素簽大片羊粉大官粉三色團圓粉轉官<lb/>
+粉三鮮粉二色水龍粉鮮蝦粉肫掌粉梅血細粉鋪薑<lb/>
+粉雜合粉珍珠粉七寶科頭粉攛香螺酒燒香螺香螺<lb/>
+膾江瑤清羮酒燒江瑤生絲江瑤攛望潮青鰕蟑蚷酒<lb/>
+炙青鰕酒法青蝦青蝦辣羮酒掇蠣生燒酒蠣薑酒決<lb/>
+明五<hi>闕</hi>決明三陳羮決明簽決明四鮮羮赤魚分明薑<lb/>
+<pb n="KR2k0118_WYG_016-6b"/>
+□子赤魚膘二色膾海鮮膾鱸魚膾鯉魚膾鯽魚膾羣<lb/>
+鮮膾燥子炒魚絲兒清供沙魚拂兒清汁鰻鰾假團圓<lb/>
+□子襯腸血筒□子麻菇緑笋□子潭笋釀笋抹肉笋<lb/>
+簽酥骨魚釀魚兩熟鯽魚酒蒸石首白魚時魚酒吹鯚<lb/>
+魚春魚油煠春魚魴魚石首油煠<graphic n="KR3703" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3703.png" mimeType="image/png"/>
+                    <graphic n="KR3959" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3959.png" mimeType="image/png"/>油煠假河㹠石<lb/>
+首玉葉羮石首桐皮石首鯉魚炒鱔石首鱔生石首鯉<lb/>
+魚兜子銀魚炒鱔攛鱸魚清羮<graphic n="KR3703" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3703.png" mimeType="image/png"/>
+                    <graphic n="KR3959" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3959.png" mimeType="image/png"/>假清羮鰕魚肚兒<lb/>
+羮<graphic n="KR3703" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3703.png" mimeType="image/png"/>
+                    <graphic n="KR3959" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3959.png" mimeType="image/png"/>
+                    <hi>闕</hi>盒鰍江魚假蜮酒法白蝦紫蘇蝦水荷蝦兒<lb/>
+<pb n="KR2k0118_WYG_016-7a"/>
+蝦包兒蝦王蟬辣羮蝦蒸假妳茶蝦魚水龍蝦魚蝦圓<lb/>
+子麻飲雞蝦粉芥辣蝦蹄膾麻飲小雞頭汁小雞圓魚<lb/>
+羮小雞二色蓮子羮小雞假花紅清羮攛小雞拂兒笋<lb/>
+燠小雞五味炙小雞小雞假炙鴨紅熝小雞脯小雞五<lb/>
+色假料頭肚尖假炙江瑤肚尖煠肚山藥鵪子鳩子笋<lb/>
+焅鵪子假熝鴨清攛鵪子紅熝鳩子八糙鵪子蜜炙鵪<lb/>
+子鳩子黄雀釀黄雀煎黄雀辣麃野味清供野味假炙<lb/>
+野味鴨盤兎糊熝野味清攛鹿肉黄羊獐肉炙<graphic n="KR1571" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1571.png" mimeType="image/png"/>兒赤<lb/>
+<pb n="KR2k0118_WYG_016-7b"/>
+蟹假炙鱟橙醋赤蟹白蟹辣羮蛑蝤簽蛑蝤辣羮溪蟹<lb/>
+奈香盒蟹辣羮蟹簽糊齏蟹棖醋洗手蟹釀棖蟹五味<lb/>
+酒醤蟹酒潑蟹生蚶子煠肚□子蚶橙醋蚶五辣醋蚶<lb/>
+子明芽肚蚶子膾酒燒蚶子蚶子辣羮酒鴆鮮蛤蛤蜊<lb/>
+淡菜淡菜膾改汁辣淡菜米脯鮮米脯淡菜米脯風鰻<lb/>
+米脯羊米脯鳩子鮮蛤假熝蛤蜊肉葷素水龍白魚水<lb/>
+龍江魚水龍肉水龍腰子假淳菜腰子假炒肺羊熝下<lb/>
+飯假牛凍假驢事件凍蛤蝤凍雞凍三鮮凍石首白魚<lb/>
+<pb n="KR2k0118_WYG_016-8a"/>
+凍<graphic n="KR3703" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3703.png" mimeType="image/png"/>
+                    <graphic n="KR3959" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3959.png" mimeType="image/png"/>假蛤蜊三色水晶丝五辣醋羊生膾十色事件<lb/>
+凍三色炙潤鮮粥蜜燒膐肉炙<graphic n="KR1571" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1571.png" mimeType="image/png"/>兒江魚炙潤鹿獐肉<lb/>
+炙潤<hi>闕</hi>魚鹹䜴十色鹹䜴下飯膐肉假熝鴨下飯二色<lb/>
+炙潤骨頭等食品更有供未盡名件隨時索喚應手供<lb/>
+造品嘗不致缺典又有拓盤擔架至酒肆中歌叫買賣<lb/>
+者如炙雞八焙雞紅熝雞脯雞麃鴨八糙鵞鴨白煠春<lb/>
+鵞炙鵞糟羊蹄糟蟹熝肉蹄子糟鵞事件熝肝事件酒<lb/>
+香螺海腊糟脆筋千里羊諸色薑䜴波絲薑豉薑蝦海<lb/>
+<pb n="KR2k0118_WYG_016-8b"/>
+蟄鮓腰皮䐑子獐<graphic n="KR1571" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1571.png" mimeType="image/png"/>鹿脯影戲算條紅羊<graphic n="KR1571" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1571.png" mimeType="image/png"/>槌脯線條<lb/>
+界方條兒三和花桃骨鮮鵞鮓大魚鮓鮮鰉鮓寸金鮓<lb/>
+筯子鮓魚頭醤等鰇魚蝦葺鰻絲地青絲野味腊白魚<lb/>
+乾梅魚乾鱭魚乾銀魚兒乾<graphic n="KR2340" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2340.png" mimeType="image/png"/>魚乾銀魚脯紫魚螟脯<lb/>
+絲等脯腊從食葷素㸃心包兒旋炙<graphic n="KR1571" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1571.png" mimeType="image/png"/>兒灌熝雞粉羮<lb/>
+科頭攛魚肉細粉小素羮灌肺羊血糊齏海蟄螺頭辣<lb/>
+菜餅熟肉餅羊脂韭餅四時果子圓柑乳柑福柑甘蔗<lb/>
+土𤓰地栗麝香甘蔗沉香藕花紅金銀水蜜桃紫李水<lb/>
+<pb n="KR2k0118_WYG_016-9a"/>
+晶李蓮子桲桃新胡桃新銀杏花紅紫楊梅銀𤓰福李<lb/>
+台柑洞庭橘蜜橘匾橘衢橘金橘橄㰖紅柿方頂柿火<lb/>
+珠柿緑柿巧柿櫻桃豆角青梅黄梅枇杷金杏此果朩<lb/>
+遇時則有歌賣更有乾果子如錦荔朩彈京棗棗圈香<lb/>
+蓮串桃條梨旋勝畨糖糖霜番葡萄松子巴欖子人靣<lb/>
+子嘉慶子諸色韻果十色蜜煎蚫螺諸般糖煎細酸四<lb/>
+時像生兒時果春蘭秋菊石榴子兒馬院醍醐乳酪韻<lb/>
+果蜜薑䜴皂兒膏輕餳瑪瑙餳十色糖麝香豆沙糰子<lb/>
+<pb n="KR2k0118_WYG_016-9b"/>
+又有陳州果兒蜜<hi>闕</hi>柿糖絲梅山糖鳥反旋<hi>闕</hi>萵苣生<lb/>
+菜荀薑油多糟瓊芝四色辣菜四時細色菜蔬糟藏秋<lb/>
+天有炒栗子新銀杏香藥朩𤓰橙子等類更有擡床賣<lb/>
+熟羊炙鰍炙鰻炙魚粉鰍等物諸店肆俱有㕔院廊廡<lb/>
+排列小小穏便閤兒弔窗之外花竹掩映垂簾下幕隨<lb/>
+意命妓歌唱雖飲宴至達旦亦不妨也<lb/>
+　　麫食店<lb/>
+向者汴京開南食麪店川飯分茶以備江南往来士夫<lb/>
+<pb n="KR2k0118_WYG_016-10a"/>
+謂其不便北食故耳南渡以来㡬二百餘年則水土既<lb/>
+慣飲食混淆無南北之分矣大凢麪食店亦謂之分茶<lb/>
+店若曰分茶則有四軟羮石髓羮雜彩羮軟羊焅腰子<lb/>
+鹽酒腰子雙脆石肚羮猪羊大骨雜辣羮諸色魚羮大<lb/>
+小雞羮攛肉粉羮三鮮大麃骨頭羮飯食更有麪食名<lb/>
+件猪羊<graphic n="KR3367" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3367.png" mimeType="image/png"/>生麪絲雞麪三鮮麪魚桐皮麪鹽煎麪笋撥<lb/>
+肉麪炒雞麪大麃麪子科澆蝦燥麪熝汁米子諸色造<lb/>
+羮糊羮三鮮棊子蝦燥棊子蝦魚棊子絲雞棊子七寶<lb/>
+<pb n="KR2k0118_WYG_016-10b"/>
+棊子抹肉銀絲冷淘笋燥韲淘絲雞淘耍魚麪又有下<lb/>
+飯則有焅雞生熟燒對燒燒肉煎小雞煎鵞事件煎襯<lb/>
+肝腸肉煎魚煠梅魚<graphic n="KR3703" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3703.png" mimeType="image/png"/>鯽雜鴂䜴汁雞焅雞大熝㸇魚<lb/>
+等下飯更有專賣諸色羮湯川飯并諸煎肉魚下飯且<lb/>
+言食店門首及儀式其門首以枋朩及花樣沓結縛如<lb/>
+山棚上掛半邊猪羊一帶近裏門靣窗牖皆朱綠五彩<lb/>
+裝飾謂之驩門毎店各有㕔院東西廊廡稱呼坐以客<lb/>
+至坐定則一過賣執筯遍問坐客杭人侈甚百端呼索<lb/>
+<pb n="KR2k0118_WYG_016-11a"/>
+取覆或熱或冷或溫或絶冷精澆熝燒呼客隨意索喚<lb/>
+各卓或三樣皆不同名行菜得之走迎廚局前從頭唱<lb/>
+念報與當局者謂之鐺頭又曰著案訖行菜行菜詣竈<lb/>
+頭拓盤前去從頭散下盡合諸客呼索指揮不致錯悞<lb/>
+或有差錯坐客白之店主必致叱罵罰工甚是逐之有<lb/>
+店舎專賣䬣<graphic n="KR2571" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2571.png" mimeType="image/png"/>店如大熝䬣<graphic n="KR2571" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2571.png" mimeType="image/png"/>大燥子科澆蝦燥絲雞<lb/>
+三鮮等䬣<graphic n="KR2571" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2571.png" mimeType="image/png"/>并賣餛飩亦有專賣菜麪熟齏笋肉淘麪<lb/>
+此不甚尊重非君子待客之處也又有專賣素食分茶<lb/>
+<pb n="KR2k0118_WYG_016-11b"/>
+不悞齋戒如頭羮雙峰三峰四峰到底簽蒸果子鼈蒸<lb/>
+羊大段果子魚油煠魚繭兒三鮮奪真雞元魚元羊蹄<lb/>
+梅魚兩熟魚煠油河魨大片腰子鼎煮羊麩乳水龍麩<lb/>
+笋辣羮雜辣羮白魚辣羮飯又下飯如五味熝麩糟醬<lb/>
+燒麩假炙鴨乾簽雜鳩假羊事件假驢事件假前白腸<lb/>
+葱酷油渫骨頭米脯大片羊紅熝大件肉煎假烏魚等<lb/>
+下飯素麪如大片鋪羊麪三鮮麪炒鱔麪捲魚麪笋撥<lb/>
+刀笋辣麪乳<graphic n="KR1197" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1197.png" mimeType="image/png"/>淘笋<graphic n="KR1197" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1197.png" mimeType="image/png"/>淘笋菜淘麪七寶棊子百花棊<lb/>
+<pb n="KR2k0118_WYG_016-12a"/>
+子等麪皆精細乳麩笋粉素食又有專賣家常飯食如<lb/>
+攛肉羮骨頭羮蹄子清羮魚辣羮雞羮耍魚辣羮猪大<lb/>
+骨清羮雜合羮南北羮兼賣蝴蝶麪煎肉大熝蝦燥等<lb/>
+蝴蝶麪又有煎肉煎肝凍魚凍鯗凍肉煎鴨子煎鱭魚<lb/>
+醋鮝等下飯更有專賣血臓麪齏肉菜麫筍淘麫素骨<lb/>
+頭麩笋素羮飯又有賣菜羮飯店兼賣煎豆腐煎魚煎<lb/>
+鮝燒菜煎茄子此等店肆乃下等人求食粗飽往而市<lb/>
+之矣<lb/>
+<pb n="KR2k0118_WYG_016-12b"/>
+　　葷素從食店<hi>諸色㸃心事件附</hi>
+市食㸃心四時皆有任便索喚不悞主顧且如蒸作麫<lb/>
+行賣四色饅頭細餡大包子賣米薄皮春繭生餡饅䬦<lb/>
+餣子笑靨兒金銀炙焦牡丹餅雜色煎花饅頭棗篐荷<lb/>
+葉餅芙蓉餅菊花餅月餅梅花餅開爐餅夀帶龜仙桃<lb/>
+子母春繭子母龜子母仙桃閣歡喜駱駝蹄糖蜜果食<lb/>
+果食將軍肉果食重陽糕肉絲糕水晶包兒笋肉包兒<lb/>
+蝦魚包兒江魚包兒蟹肉包兒鵞鴨包兒鵞眉夾兒十<lb/>
+<pb n="KR2k0118_WYG_016-13a"/>
+色小從食細餡夹兒笋肉夹兒油煠夹兒金鋌夹兒江魚<lb/>
+夹兒甘露餅肉油餅菊花餅糖肉饅頭羊肉饅頭大學<lb/>
+饅頭笋肉饅頭魚肉饅頭蟹肉饅頭肉酸餡子層兒炊<lb/>
+餅鵞旦更有專賣素㸃心從食店如豐糖糕乳糕粟糕<lb/>
+鏡靣糕重陽糕棗糕乳餅麩笋絲假肉饅頭笋絲饅頭<lb/>
+裹蒸饅頭波菜果子饅頭七寳酸餡薑糖辣餡糖飯饅<lb/>
+頭活糖沙餡諸色春繭仙桃龜兒包子㸃子諸色油煠<lb/>
+素夾兒油酥餅兒筍絲麩兒果子韻果七寶包兒等㸃<lb/>
+<pb n="KR2k0118_WYG_016-13b"/>
+心更有饅頭店兼賣江魚兜子雜合細粉灌熝軟爛大<lb/>
+骨科頭七寶科頭又有粉食店專賣山藥丸子真珠丸<lb/>
+子金橘水糰澄粉水糰乳糖槌拍花糕糖蜜糕裹蒸粽<lb/>
+子栗粽金鋌裹蒸茭粽糖蜜韻果巧粽豆糰麻糰麻糍<lb/>
+及四時糖食㸃心及沿街巷陌盤賣㸃心饅頭炊餅及<lb/>
+糖蜜酥皮燒餅夾子薄脆油煠從食諸般糖食<hi>闕</hi>煠蝦<lb/>
+魚剗子常熟糍糕餶飩瓦鈴兒春餅菜餅圓子湯糰水<lb/>
+糰蒸粬粟粽裹蒸未食等㸃心及沿門歌叫熟食熝肉<lb/>
+<pb n="KR2k0118_WYG_016-14a"/>
+炙鴨熝鵝熟羊鷄鴨等類及羊血灌肺攛粉科頭應于市<lb/>
+食就門供賣可以應倉卒之需<lb/>
+　　米鋪<lb/>
+杭州人烟稠宻城内外不下數十萬户百十萬口每日街<lb/>
+市食米除府第官舍宅舍富室及諸司有該俸人外細民<lb/>
+所食每日城内外不下一二千餘口皆需之鋪家然本州<lb/>
+所賴蘇湖常秀淮廣等處客米到来市湖州米市橋黒橋<lb/>
+俱是米行接客出糶其米有數等如早米晚米新破礱冬<lb/>
+<pb n="KR2k0118_WYG_016-14b"/>
+舂上色白米中色白米紅蓮子黄芒上稈秔米糯米箭子<lb/>
+米黄籼米蒸米紅米黄米陳米且言城内外諸鋪户毎户<lb/>
+專憑頭於米市做價徑發未到各鋪出糶鋪家約定日子<lb/>
+支打米錢其米市小牙子親到各鋪支打發客又有新開<lb/>
+門外草橋下南街亦開米市三四十家接客打發分俵鋪<lb/>
+家及諸山鄉客販賣與街市鋪戸大有徑庭杭城常願米<lb/>
+船紛紛而来早夜不絶可也且乂袋自有債户肩駝脚夫<lb/>
+亦有甲頭管領船隻各有受載舟户雖米市搬運混雜皆<lb/>
+<pb n="KR2k0118_WYG_016-15a"/>
+無争差然鋪家不勞於力而米徑自到鋪矣<lb/>
+　　肉鋪<lb/>
+杭城内外肉鋪不知其㡬皆裝飾肉案動器新麗毎日<lb/>
+各舖懸掛成邊猪不下十餘邊如冬年兩節各舗日賣<lb/>
+數十邊案前操刀者五七人主顧從便索喚<graphic n="KR2871" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2871.png" mimeType="image/png"/>切且如<lb/>
+猪肉名件或細抹落索兒精鈍刀丁頭肉條攛精攛□<lb/>
+子肉燒猪煎肝肉膐肉<graphic n="KR1883" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1883.png" mimeType="image/png"/>蔗肉骨頭亦有數名件曰雙<lb/>
+條骨三層骨浮肋骨脊齦骨毬杖骨蘇骨寸金骨棒子<lb/>
+<pb n="KR2k0118_WYG_016-15b"/>
+蹄子<hi>闕</hi>頭大骨等肉市上紛紛賣者聴其分寸畧無錯<lb/>
+悞至飯前所掛之肉骨已盡矣盖人煙稠密食之者衆<lb/>
+故也更待日午各鋪又市熝𦢊熟食頭蹄肝肺四件雜<lb/>
+熝蹄爪事件紅白熝肉等亦有盤街貨賣更有<graphic n="KR1571" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1571.png" mimeType="image/png"/>鮓鋪<lb/>
+兼貨生熟肉且如<graphic n="KR1571" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1571.png" mimeType="image/png"/>鮓名件最多姑言一二其<graphic n="KR1571" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1571.png" mimeType="image/png"/>鮓者<lb/>
+筭條影戲鹽豉皂角鋌松脯界方條線條糟猪頭肉瑪<lb/>
+瑙肉鵞鮓旋鮓寸金鮓魚頭醬三和鮓切鮓桃花鮓骨<lb/>
+鮓飯鮓搥脯紅羊<graphic n="KR1571" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1571.png" mimeType="image/png"/>大魚鮓鱘鯉魚鮓等類冬間添賣<lb/>
+<pb n="KR2k0118_WYG_016-16a"/>
+凍薑䜴蹄子薑䜴雞凍白魚凍波斯薑䜴等壩北修義<lb/>
+坊名曰肉市巷内兩街皆是屠宰之家每日不下宰數<lb/>
+百口皆成邊及頭蹄等肉俱係城内外諸麪店分茶店<lb/>
+酒店<graphic n="KR1571" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1571.png" mimeType="image/png"/>鮓店及盤街賣熝肉等人自三更開行上市至<lb/>
+曉方罷市其街坊肉鋪各自作坊屠宰貨賣矣或遇婚<lb/>
+姻日及府第富家大筵華筵數十處欲收市腰肚頃刻<lb/>
+並皆辦集不勞力盖杭州廣闊可見矣<lb/>
+　　鯗鋪<lb/>
+<pb n="KR2k0118_WYG_016-16b"/>
+杭州内外户口浩繁州府廣闊遇坊巷橋門及隠僻去<lb/>
+處俱有鋪席買賣盖人家每日不可缺者柴米油鹽醤<lb/>
+醋茶或稍豐厚者下飯羮湯尤不可無雖貧下之人亦<lb/>
+不可免盖杭城人嬌細故也姑以魚鮝言之此物産于<lb/>
+溫台四明等郡城南渾水門有團招客旅鮝魚聚集於<lb/>
+此城内外鮝鋪不下一二百餘家皆就此上行合摭魚<lb/>
+鮝名件具載于後郎君鮝石首鮝望春春皮片□□鮝<lb/>
+䲄鮝鰙鮝鰻條彎鮝帶鮝短鮝黄魚鮝鯖魚鮝□鮝老<lb/>
+<pb n="KR2k0118_WYG_016-17a"/>
+鴉魚鮝海裏洋更有海味如酒江瑤酒香螺酒蠣酒䗯<lb/>
+龜脚瓦螺頭酒壠子酒鱦鱟醤<graphic n="KR1173" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1173.png" mimeType="image/png"/>蠣鎖官<graphic n="KR1173" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1173.png" mimeType="image/png"/>小丁頭魚<lb/>
+紫魚魚膘<hi>闕</hi>子鰿子魧子海水糰望潮滷蝦<graphic n="KR1173" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1173.png" mimeType="image/png"/>鱭鮝紅<lb/>
+魚明脯鰙乾比目蛤蜊醬蜜丁車螫江䘋蠶䘋膘腸等<lb/>
+類鋪中亦兼賣大魚鮓鱘魚鮓銀魚鮓飯鮓蠻鮓淮魚<lb/>
+乾蟛蚏鹽鴨子煎鴨子煎鱭魚凍耍魚凍魚凍鮝炙鯾<lb/>
+炙魚粉鰍炙鰻蒸魚炒白蝦又有盤街叫賣以便小街<lb/>
+狭巷主顧尤為快便耳<lb/>
+<pb n="KR2k0118_WYG_016-17b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　夢粱録巻十六<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

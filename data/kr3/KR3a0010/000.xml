@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3a0010_SBCK_000-1a"/>
+　　　　　　戊子六月得沈与又所蔵宋板<lb/>
+　　　　　　翻刻本囙命工印抄此書繆誤<lb/>
+　　　　　　頗多無從改㝎借筆點㝎一<lb/>
+　　　　　　次殊夫句讀後之讀者勿哂<lb/>
+　　　　　　　　　　七月初三日黙菴<lb/>
+　　　　　　　　　　老人書<lb/>
+　　　　　　　潜夫論時本不可讀此乃印<lb/>
+　　　　　　　抄宋本者馮巳蒼詳識扵其<lb/>
+　　　　　　　末校對六精湏珍之<lb/>
+<pb n="KR3a0010_SBCK_000-1b"/>
+<pb n="KR3a0010_SBCK_000-1b"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

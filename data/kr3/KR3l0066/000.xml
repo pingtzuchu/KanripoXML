@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>聞見録</head>
+    <p>
+<pb n="KR3l0066_WYG_000-1a"/>
+欽定四庫全書　　　　　子部十二<lb/>
+　聞見録　　　　　　　　小說家𩔖一<hi>雜事之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案聞見録二十卷宋邵伯溫撰伯溫<lb/>
+　　　　字子文邵子之子猶及見元祐諸耆舊故於<lb/>
+　　　　當時朝政具悉端委是書成於紹興二年前<lb/>
+　　　　十六卷記太祖以来故事而於王安石新法<lb/>
+　　　　始末及一時同異之論載之尤詳其論洛蜀<lb/>
+<pb n="KR3l0066_WYG_000-1b"/>
+　　　　朔三黨相攻惜其各立門户授小人以間又<lb/>
+　　　　引程子之言以為變法由於激成皆平心之<lb/>
+　　　　論其記燈籠錦事出文彦博之妻於事理較<lb/>
+　　　　近其記韓富之隙由撤簾不由定策亦足以<lb/>
+　　　　訂强至家𫝊之訛周必大跋吕獻可墓誌謂<lb/>
+　　　　伯溫是書頗多荒唐凡所書人及其嵗月鮮<lb/>
+　　　　不差悞殆好惡已甚之詞不盡然也十七卷<lb/>
+　　　　多記雜事其洛陽永樂諸條多寓麥秀黍離<lb/>
+<pb n="KR3l0066_WYG_000-2a"/>
+　　　　之感十八卷至二十卷皆記邵子之言行而<lb/>
+　　　　殤女轉生黑猿感孕意欲神竒其父轉涉妖<lb/>
+　　　　誣又記邵子之言謂老子得易之體孟子得<lb/>
+　　　　易之用文中子以佛為西方聖人亦不以為<lb/>
+　　　　非似乎附㑹至投壺一事益猥瑣不足紀葢<lb/>
+　　　　亦擇焉不精者取其大㫖可爾乾隆四十三<lb/>
+　　　　年三月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+<pb n="KR3l0066_WYG_000-2b"/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+<pb n="KR3l0066_WYG_000-3a"/>
+聞見録自序<lb/>
+易曰君子多識前言往行以畜其德孟子曰則聞而知<lb/>
+之則見而知之伯溫以先君子之故親接前輩與夫侍<lb/>
+家庭居鄉黨遊宦學得前言往行為多以畜其德則不<lb/>
+敢當而老景侵尋偶負後死者之責類之為書曰聞見<lb/>
+録尚庶幾焉紹興二年十一月十五日甲子河南邵伯<lb/>
+溫書<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

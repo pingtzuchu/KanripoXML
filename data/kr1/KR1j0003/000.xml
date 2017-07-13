@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="1a"/>
+爾雅䟽敘<lb/>
+　　　翰林侍講學士朝請大夫守國子祭酒上柱國賜紫金魚袋臣邢　昺　等奉<lb/>
+　　　勑校定<lb/>
+夫爾雅者先儒授敎之術後進索隱之方誠傳注之濫觴爲經籍之樞要者也<lb/>
+夫混元闢而三才肈位聖人作而六藝斯興本乎發德於衷將以納民於善洎<lb/>
+夫醇醨旣異歩驟不同一物多名繫方俗之語片言殊訓滯今古之情將使後生<lb/>
+若爲鑚仰繇是聖賢閒出詁訓遞陳周公倡之於前子夏和之於後蟲魚草木<lb/>
+爰自爾以昭彰禮樂詩書盡由斯而紛郁然又時經戰國運歷挾書傳授之<lb/>
+徒<graphic n="KR1051" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1051.png" mimeType="image/png"/>微發揮之道斯寡諸篇所釋世罕得聞惟漢終軍獨深其道豹䑕旣辨<lb/>
+斯文遂隆其後相傳乃可詳悉其爲注者則有犍爲文學劉歆樊光李廵孫炎<lb/>
+雖各名家猶未詳備惟東晉郭景純用心幾二十年注解方畢甚得六經之㫖<lb/>
+頗詳百物之形學者祖焉最爲稱首其爲義䟽者則俗閒有孫炎髙璉皆淺<lb/>
+近俗儒不經師匠今旣奉<lb/>
+勑校定考案其事必以經籍爲宗理義所詮則以景純爲主雖復研精覃思尚<lb/>
+慮學淺意䟽謹與尚書駕部貟外郎直祕閣臣杜鎬尚書都官貟外郎祕閣校<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

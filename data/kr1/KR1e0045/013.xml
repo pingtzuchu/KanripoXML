@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>春秋分記卷十三</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書<lb/>
+　春秋分記卷十三　　　　宋　程公說　撰<lb/>
+　　世譜四<lb/>
+　　　鄭公子公族諸氏世譜<lb/>
+<pb n="2a"/>
+</p>
+<p>
+<pb n="3a"/>
+</p>
+<p>
+<pb n="4a"/>
+</p>
+<p>
+<pb n="5a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　公孫𫉬　　公子歸生<hi>子家或云靈公弟</hi>公子宋<hi>子/公</hi>公子魚臣<hi>濮叔宣十之二年鄭殺</hi>
+　公子士洩　公子鰌　　　　　叔申　　叔禽<hi>申弟成十年殺之</hi>
+　公孫肹　　公孫登　　　　　公孫林<lb/>
+<pb n="5b"/>
+　　　　公族<lb/>
+<pb n="6a"/>
+</p>
+<p>
+<pb n="7a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="7b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　　　　諸氏<lb/>
+皇氏　武子　　戍<hi>武子之後</hi>　耳<hi>戍之子</hi>　辰　　頡<lb/>
+石氏　楚　　　首　　　制<hi>子服</hi>　　<graphic n="KR0930" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0930.png" mimeType="image/png"/>
+                    <hi>石/盂</hi>　甲父<hi>癸</hi>
+<pb n="8a"/>
+尉氏　止<hi>襄十年殺之</hi>　　翩<hi>止之子襄十年奔宋十五年醢之</hi>
+司氏　臣<hi>襄十年奔宋</hi>　　齊<hi>臣之子十五年醢之</hi>
+堵氏　堵叔　　　　女父<hi>襄十五年醢之</hi>　狗<hi>女父族</hi>
+侯氏　宣多　　　　羽　　　　　獳　　晉<lb/>
+洩氏　駕　　　　　堵寇<hi>僖二十年</hi>　　堵俞彌<hi>二十四年</hi>
+高氏　渠彌　　　　克<lb/>
+樂氏　耳　　　　　成<lb/>
+鄧氏　廖　　　　　析<lb/>
+<pb n="8b"/>
+王子氏伯廖　　　　伯駢<lb/>
+孔氏　叔　　　　　將鉏<lb/>
+　　　　雜臣名譜附<lb/>
+<pb n="9a"/>
+</p>
+<p>
+<pb n="10a"/>
+　<lb/>
+　<lb/>
+　　　　雜臣名譜附<lb/>
+　公孫會　　公孫彊<hi>哀八年宋滅曹執殺之</hi>　豎侯獳<lb/>
+　翰胡　　　僖負羈　　　　　大夫<hi>莊二十六年殺其大夫</hi>
+　　　秦公子諸氏世譜<lb/>
+　　　　公子<lb/>
+<pb n="11a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　　　公子縶<lb/>
+　　　　諸氏<lb/>
+子車氏　奄息<hi>以下三子子車之子文六年殉</hi>　仲行　鍼虎<lb/>
+百里氏　百里奚　　　　　孟明視<hi>族譜百里名視字孟明奚之子</hi>
+　　　　雜臣名譜附<lb/>
+<pb n="11b"/>
+　　公孫枝<hi>子桑</hi>　　冷至　　蹇叔　　　西乞<hi>西乞術蹇叔子</hi>
+　　白乙<hi>白乙丙或曰蹇叔子</hi>繞朝　　庶長無地　士雃<lb/>
+　　詹<hi>右大夫</hi>　　　庶長鮑　庶長武　　子蒲<lb/>
+　　子虎　　　　杞子　　杜囘　　　右大夫說<lb/>
+　　逢孫　　　　楊孫　　史顆　　　成差<lb/>
+　　不更女父<hi>不更秦爵</hi>
+醫卜　醫緩　　　醫和　　卜徒父<lb/>
+異國來奔㔻豹<hi>本晋臣</hi>
+<pb n="12a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="12b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　春秋分記卷十三<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>汝南遺事</head>
+    <p>
+<pb n="KR2e0017_WYG_000-1a"/>
+欽定四庫全書　　　　　史部五<lb/>
+　汝南遺事　　　　　　　雜史𩔖<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案汝南遺事四卷元王鶚撰鶚字百<lb/>
+　　　　一東名人金正大元年登進士第一哀宗時<lb/>
+　　　　為左右司員外郎金亡降元官至翰林學士<lb/>
+　　　　承㫖事迹具見元史本𫝊是編即從哀宗在<lb/>
+　　　　蔡州圍城所作故以汝南命名所記始天興<lb/>
+<pb n="KR2e0017_WYG_000-1b"/>
+　　　　二年六月迄三年正月随日編載有綱有目<lb/>
+　　　　共一百七條皆所身親目撃之事故紀載最<lb/>
+　　　　為詳確其稱哀宗為義宗則用息州行省所<lb/>
+　　　　上諡也金史哀宗本紀及烏庫哩鎬<hi>金史作烏古論</hi>
+　　　　<hi>鎬今改正</hi>完顔仲徳張天綱等𫝊皆全採用之足<lb/>
+　　　　徴其言皆實録矣鶚身事兩朝不能抗西山<lb/>
+　　　　之節然本𫝊載其祭哀宗一事猶有惓惓故主<lb/>
+　　　　之心其作是書於䘮亂流離亦但有痛悼而<lb/>
+<pb n="KR2e0017_WYG_000-2a"/>
+　　　　無怨謗較作南燼録者猶為末減焉自序云<lb/>
+　　　　四卷元史本𫝊作二卷葢𫝊刻之譌今仍從<lb/>
+　　　　自序所言編為四卷乾隆四十六年三月恭<lb/>
+　　　　校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

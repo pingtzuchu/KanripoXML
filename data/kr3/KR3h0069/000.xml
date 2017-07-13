@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>南宋院畫録目録</head>
+    <p>
+<pb n="KR3h0069_WYG_000-1a"/>
+欽定四庫全書　　　　　子部八<lb/>
+　南宋院畫録目録　　　　藝術類一<hi>書畫之屬</hi>
+　　卷一<lb/>
+　　　總述<lb/>
+　　卷二<lb/>
+　　　李唐<lb/>
+　　　劉宗古<lb/>
+　　　楊士賢<lb/>
+<pb n="KR3h0069_WYG_000-1b"/>
+　　　李迪<lb/>
+　　　李安忠<hi>子公茂</hi>
+　　　蘇漢臣<hi>子晉卿</hi>
+　　　朱銳<hi>弟森</hi>
+　　　李端<lb/>
+　　　張浹<lb/>
+　　　顧亮<lb/>
+　　　李從訓<hi>子章</hi>
+<pb n="KR3h0069_WYG_000-2a"/>
+　　　閻仲<hi>子次安</hi>
+　　　焦鍚<lb/>
+　　　胡舜臣　張著<lb/>
+　　卷三<lb/>
+　　　馬和之<lb/>
+　　　賈師古<lb/>
+　　　馬興祖<lb/>
+　　　李英<lb/>
+<pb n="KR3h0069_WYG_000-2b"/>
+　　　馬公顯<lb/>
+　　　陸青<lb/>
+　　　韓祐<lb/>
+　　　劉思義<lb/>
+　　　朱光普<lb/>
+　　　尹大夫<lb/>
+　　　林浚民<lb/>
+　　　蕭照<lb/>
+<pb n="KR3h0069_WYG_000-3a"/>
+　　　陳善<lb/>
+　　卷四<lb/>
+　　　閻次平　次于<lb/>
+　　　蘇焯<lb/>
+　　　毛益<hi>父松附</hi>
+　　　何世昌<lb/>
+　　　林椿<lb/>
+　　　劉松年<lb/>
+<pb n="KR3h0069_WYG_000-3b"/>
+　　卷五<lb/>
+　　　吳炳<lb/>
+　　　張茂<lb/>
+　　　李嵩<lb/>
+　　　蘇堅<lb/>
+　　　梁楷<lb/>
+　　　陳居中<lb/>
+　　　髙嗣昌<lb/>
+<pb n="KR3h0069_WYG_000-4a"/>
+　　　蘇顯祖<lb/>
+　　卷六<lb/>
+　　　夏珪<hi>子森</hi>
+　　　馬逵<lb/>
+　　卷七<lb/>
+　　　馬逺<lb/>
+　　卷八<lb/>
+　　　馬麟　白良玉　戚仲<lb/>
+<pb n="KR3h0069_WYG_000-4b"/>
+　　　孫覺<lb/>
+　　　魯宗貴<lb/>
+　　　陳宗訓<lb/>
+　　　俞珙<lb/>
+　　　胡彦龍<lb/>
+　　　史顯祖<lb/>
+　　　吳俊臣<lb/>
+　　　李徳茂<lb/>
+<pb n="KR3h0069_WYG_000-5a"/>
+　　　孫必逹<lb/>
+　　　顧興裔<lb/>
+　　　張仲<lb/>
+　　　崔友諒<lb/>
+　　　馬永忠<lb/>
+　　　陳清波<lb/>
+　　　范安仁<lb/>
+　　　陳可乆<lb/>
+<pb n="KR3h0069_WYG_000-5b"/>
+　　　陳珏<hi>子琳</hi>
+　　　朱玉<lb/>
+　　　白用和<lb/>
+　　　宋汝志<lb/>
+　　　毛允昇<lb/>
+　　　侯守中<lb/>
+　　　曹正國<lb/>
+　　　王華<lb/>
+<pb n="KR3h0069_WYG_000-6a"/>
+　　　方椿年<lb/>
+　　　豐興祖<lb/>
+　　　錢光甫<lb/>
+　　　徐道廣<lb/>
+　　　謝昇<lb/>
+　　　顧師顔<lb/>
+　　　朱懷瑾<lb/>
+　　　王輝<hi>子用之</hi>
+<pb n="KR3h0069_WYG_000-6b"/>
+　　　樓觀<lb/>
+　　　李永年<lb/>
+　　　李權<lb/>
+　　　梁松<lb/>
+　　　朱紹宗<lb/>
+　　　李永<lb/>
+　　　　<hi>臣</hi>等謹案南宋院畫録八卷<lb/>
+　　　國朝厲鶚撰鶚字太鴻錢塘人康熙庚子舉人<lb/>
+<pb n="KR3h0069_WYG_000-7a"/>
+　　　　乾隆元年嘗薦舉博學鴻詞所著遼史拾遺<lb/>
+　　　　諸書已别著録宋自髙宗南渡屈節偷安湖<lb/>
+　　　　山歌舞務在粉飾太平於是仿汴都故事置<lb/>
+　　　　御前畫院聚良工畫師其中有待詔祇候諸<lb/>
+　　　　官品其所作名為院畫當時如李唐劉松年<lb/>
+　　　　馬逺夏珪等至有四大家之稱說者或謂其<lb/>
+　　　　工巧太過視北宋門徑有殊然其初尚多宣<lb/>
+　　　　和舊人流派相傳各臻極妙専門名家之藝<lb/>
+<pb n="KR3h0069_WYG_000-7b"/>
+　　　　實非後来所能及故雖殘縑斷素收藏者無<lb/>
+　　　　不深寳重之鶚嘗撰宋詩紀事南宋雜事詩<lb/>
+　　　　於宋事最為詳熟因臚考院畫本末作為此<lb/>
+　　　　書首總述一卷次自李唐以下凡九十六人<lb/>
+　　　　每人詳其事履而以諸書所載真蹟題咏之<lb/>
+　　　　類附於其下叙次頗為賅贍其間如楊妹子<lb/>
+　　　　題趙清獻琴鶴圖絶句一以為馬和之畫一<lb/>
+　　　　以為劉松年畫諸書參錯不同此類亦未悉<lb/>
+<pb n="KR3h0069_WYG_000-8a"/>
+　　　　加考證然其徴引淵博於遺聞佚事殆已採<lb/>
+　　　　摭無遺賞鑒家将欲考騐源流則是書誠有<lb/>
+　　　　資於檢核矣乾隆四十六年十月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

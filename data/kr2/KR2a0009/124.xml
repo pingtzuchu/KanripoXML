@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2a0009_WYG_124-1a"/>
+　　原任詹事<hi>臣浩</hi>謹言按范氏後漢書隋志云九十<lb/>
+　　七卷唐志云九十二卷論賛五卷今論賛附於紀<lb/>
+　　傳共九十卷蓋自唐章懐作注付秘書省傳之至<lb/>
+　　今其篇第如此唐志又云賢注後漢書一百卷以<lb/>
+　　紀傳中分上下卷者凡十也劉昭注補志三十卷<lb/>
+　　陳振孫云本别為一書至乾興初孫奭建議校勘<lb/>
+　　補亡借闕館閣書目乃直以為百二十卷今考經<lb/>
+　　籍志云後漢書一百二十五卷范氏本劉昭注則<lb/>
+<pb n="KR2a0009_WYG_124-1b"/>
+　　志之合於書亦不自奭始矣晁以道謂范書創為<lb/>
+　　后紀及采風俗通枹朴子詭譎事失史之體按吕<lb/>
+　　后有紀見於前書不可謂創何焯云東京諸后臨<lb/>
+　　朝者六范書自合史家之變未可議也王喬左慈<lb/>
+　　附見於方術原未予立傳又何譏焉陳氏又云劉<lb/>
+　　昭所注乃司馬彪續漢書之八志今考章懐注所<lb/>
+　　引續漢書文多與志同其言足信然先范氏而有<lb/>
+　　作者若劉珍之東觀記謝承薛瑩華嶠謝沈袁山<lb/>
+<pb n="KR2a0009_WYG_124-2a"/>
+　　松諸家之書張瑩之漢南記今無一存者而彪書<lb/>
+　　之志以附於漢書而傳非其幸歟范氏既未嘗為<lb/>
+　　序卷目皆後人所定一志而分為數帙一傳而並<lb/>
+　　列數人皆非史氏之舊馬班可作當不謂然然作<lb/>
+　　者便於編輯讀者便於檢稽不啻為晉宋以後史<lb/>
+　　書導之先路矣兹奉<lb/>
+勅校勘監本漶漫剥落有他本可據者釐而正之疑不<lb/>
+　　可考者仍之刋誤諸家在景祐以前者間為補綴<lb/>
+<pb n="KR2a0009_WYG_124-2b"/>
+　　自呉仁傑刋誤補遺而下有前人所未及發者亦<lb/>
+　　分别采輯以備參考刋刻既竣<hi>臣浩</hi>復與同事諸<lb/>
+　　臣詳審校勘録為後漢書考證若干條汲深而後<lb/>
+　　知綆之短掃迅而後知葉之多為悚為慚㒺知所<lb/>
+　　措<hi>臣</hi>謹識<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

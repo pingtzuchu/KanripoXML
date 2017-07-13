@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>十國春秋卷一百十三</head> <lb/>
+    <p>
+<pb n="KR2i0021_WYG_112-1a"/>
+欽定四庫全書<lb/>
+　十國春秋卷一百十三<lb/>
+　　　　　　　　　　　　　檢討呉任臣撰<lb/>
+十國藩鎮表<lb/>
+十國撫有一隅競相夸侈大扺國内多設節度周徧諸<lb/>
+州以示幅<graphic n="KR0695" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0695.png" mimeType="image/png"/>之廣而軍監不與焉今畧采軍額名目作<lb/>
+十國藩鎮表<lb/>
+<pb n="KR2i0021_WYG_112-2a"/>
+</p>
+<p>
+<pb n="KR2i0021_WYG_112-3a"/>
+</p>
+<p>
+<pb n="KR2i0021_WYG_112-4a"/>
+</p>
+<p>
+<pb n="KR2i0021_WYG_112-5a"/>
+</p>
+<p>
+<pb n="KR2i0021_WYG_112-6a"/>
+</p>
+<p>
+<pb n="KR2i0021_WYG_112-7a"/>
+</p>
+<p>
+<pb n="KR2i0021_WYG_112-8a"/>
+</p>
+<p>
+<pb n="KR2i0021_WYG_112-9a"/>
+</p>
+<p>
+<pb n="KR2i0021_WYG_112-10a"/>
+</p>
+<p>
+<pb n="KR2i0021_WYG_112-11a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2i0021_WYG_112-11b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　十國春秋卷一百十三<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

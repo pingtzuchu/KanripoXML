@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>類博稿</head>
+    <p>
+<pb n="KR4e0109_WYG_000-1a"/>
+欽定四庫全書　　　　　集部六<lb/>
+　類博稿　　　　　　　　别集類五<hi>明</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案類博稿十巻明岳正撰正有類博<lb/>
+　　　　雜言已著録天順復辟後以奪門諸臣挾功<lb/>
+　　　　驕恣帝心畏之而不敢遽圖正以書生支撐<lb/>
+　　　　其間欲設計以離曹吉祥石亨之交事不能<lb/>
+　　　　成反為所中至於竄謫瀕死其策雖踈其志<lb/>
+<pb n="KR4e0109_WYG_000-1b"/>
+　　　　要為忠藎及羣姦繼敗又阨於李賢之媢嫉<lb/>
+　　　　淪落以終薑桂之性始終不改嘉靖初追贈<lb/>
+　　　　太常寺卿制詞有云嫉邪已甚受謗寖深左<lb/>
+　　　　謫南荒再編西戍既而逆臣伏鑕正士賜環<lb/>
+　　　　擬陟卿曹庶僉言之允協出分符守竟直道<lb/>
+　　　　之難容紀其實也其文章亦天真爛漫落落<lb/>
+　　　　自將史稱所草承天門宣諭廷臣詔剴切感<lb/>
+　　　　人舉朝傳誦足以見其一斑矣是集為其門<lb/>
+<pb n="KR4e0109_WYG_000-2a"/>
+　　　　人李東陽蒐輯遺稿而成凡詩二巻襍文八<lb/>
+　　　　巻又附録二巻前一巻載諸人誌録傳賛諸<lb/>
+　　　　作後一巻則東陽以葉盛所作誌銘多所隱<lb/>
+　　　　諱為正補傳也傳稱正晩好皇極書故所作<lb/>
+　　　　襍言二篇皆闡邵子之學而詩亦純為邵子<lb/>
+　　　　擊壤集體東陽懷麓堂詩話稱䝉翁才甚高<lb/>
+　　　　俯視一世獨不屑為詩云既要平仄又要對<lb/>
+　　　　偶安得許多工夫云云盖得其實而傳乃稱<lb/>
+<pb n="KR4e0109_WYG_000-2b"/>
+　　　　以雅健脫俗未免阿其所好至稱其文高簡<lb/>
+　　　　峻㧞追古作者則不失為公評正統成化以<lb/>
+　　　　後臺閣之體漸成嘽緩之音惟正文風格峭<lb/>
+　　　　勁如其為人東陽受學於正又娶正女其懷<lb/>
+　　　　麓堂集亦稱一代詞宗然雍容有餘氣骨終<lb/>
+　　　　不逮正也所謂言者心之聲歟乾隆四十六<lb/>
+　　　　年十月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+<pb n="KR4e0109_WYG_000-3a"/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

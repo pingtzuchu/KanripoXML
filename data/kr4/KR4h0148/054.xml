@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0148_WYG_054-1a"/>
+欽定四庫全書<lb/>
+御選唐宋詩醇巻二十六<lb/>
+　　太原白居易詩八<lb/>
+　　　目錄<lb/>
+　　池上小宴問程秀才<lb/>
+　　橋亭卯飲<lb/>
+　　西風<lb/>
+　　題岐王舊山池石壁<lb/>
+<pb n="KR4h0148_WYG_054-1b"/>
+　　履道池上作<lb/>
+　　和令狐相公寄劉郎中兼見示長句<lb/>
+　　期宿客不至<lb/>
+　　晚歸府<lb/>
+　　從龍潭寺至少林寺題贈同逰者<lb/>
+　　元相公輓歌詞三首<hi>録一首</hi>
+　　酬李二十侍郎<lb/>
+　　池上閒詠<lb/>
+<pb n="KR4h0148_WYG_054-2a"/>
+　　和髙僕射罷節度讓尚書授少保分司喜遂逰山<lb/>
+　　水之作<lb/>
+　　送考功崔郎中赴闕<lb/>
+　　同諸客題于家公主舊宅<lb/>
+　　菩提寺上方晚眺<lb/>
+　　楊栁枝詞八首<hi>録四首</hi>
+　　春早秋初因時即事兼寄浙東李侍郎<lb/>
+　　送姚杭州赴任因思舊逰<lb/>
+<pb n="KR4h0148_WYG_054-2b"/>
+　　種栁三詠<lb/>
+　　韋七自太子賔客再除秘書監以長句賀而餞之<lb/>
+　　九年十一月二十一日感事而作<lb/>
+　　春来頻與李二賔客郭外同逰因贈長句<lb/>
+　　三月三日<lb/>
+　　閒居春盡<lb/>
+　　香山避暑二絶<lb/>
+　　贈談客<lb/>
+<pb n="KR4h0148_WYG_054-3a"/>
+　　答夢得秋庭獨坐見贈<lb/>
+　　酬夢得霜夜對月見懐<lb/>
+　　初冬月夜得皇甫澤州手札并詩數篇因遣報書<lb/>
+　　偶題長句<lb/>
+　　寄獻北都留守裴令公<lb/>
+　　㸔夢得題答李侍郎詩詩中有文星之句因戲和<lb/>
+　　之<lb/>
+　　早春憶逰思黯南莊因寄長句<lb/>
+<pb n="KR4h0148_WYG_054-3b"/>
+　　杪秋獨夜<lb/>
+　　答閒上人来問因何風疾<lb/>
+　　夜聞箏中彈瀟湘送神曲感舊<lb/>
+　　戱禮經老僧<lb/>
+　　夢得前所酬篇有鍊盡美少年之句因思往事兼<lb/>
+　　詠今懐重以長句答之<lb/>
+　　春盡日宴罷感事獨吟<lb/>
+　　前有别栁枝絶句夢得繼和云春盡絮飛留不得<lb/>
+<pb n="KR4h0148_WYG_054-4a"/>
+　　隨風好去落誰家又復戱答<lb/>
+　　時熱少見客因詠所懐<lb/>
+　　宣州崔大夫閣老忽以近詩數十首見示吟諷之<lb/>
+　　下竊有所喜因成長句寄題郡齋<lb/>
+　　晚池汎舟遇景成詠贈吕處士<lb/>
+　　和楊尚書罷相後夏日逰永安水亭兼招本曹楊<lb/>
+　　侍郎同行<lb/>
+　　五年秋病後獨宿香山寺<lb/>
+<pb n="KR4h0148_WYG_054-4b"/>
+　　早入皇城贈王留守僕射<lb/>
+　　山中五絶句<hi>録三首</hi>
+　　　嶺上雲<lb/>
+　　　石上苔<lb/>
+　　　澗中魚<lb/>
+　　和敏中洛下即事<lb/>
+　　送敏中新授户部員外郎西歸<lb/>
+　　覽盧子䝉侍御舊詩多與微之唱和感今傷昔因<lb/>
+<pb n="KR4h0148_WYG_054-5a"/>
+　　贈子䝉題于巻後<lb/>
+　　新小灘<lb/>
+　　喜入新年自詠<lb/>
+　　夏日與閒禪師林下避暑<lb/>
+　　談氏小外孫玉童<lb/>
+　　楊栁枝詞<lb/>
+　　詔取永豐栁植禁苑感賦<lb/>
+　　池上篇<lb/>
+<pb n="KR4h0148_WYG_054-5b"/>
+　　齒落辭<lb/>
+　　不能忘情吟<lb/>
+　　江南喜逄蕭九徹因話長安舊逰戱贈五十韻<lb/>
+　　送劉郎中赴任蘇州<lb/>
+　　靈巖寺<lb/>
+　　寄韜光禪師<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

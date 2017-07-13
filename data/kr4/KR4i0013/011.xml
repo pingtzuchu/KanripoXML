@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4i0013_SBCK_011-1a"/>
+花間集卷十一<lb/>
+　鹿䖍扆<lb/>
+　　思越人<lb/>
+翠屏欹銀燭背漏殘清夜迢迢雙帯繍<lb/>
+窠盤錦薦淚侵花暗香銷　珊瑚枕膩<lb/>
+鴉鬟乱玉纎慵整雲散苦是適来新夢<lb/>
+<pb n="KR4i0013_SBCK_011-1b"/>
+見離腸争不千断<lb/>
+　　虞羙人<lb/>
+卷荷香澹浮煙渚緑嫩擎新雨鎖窓踈<lb/>
+透暁風清象床珍簟泠光輕水紋平<lb/>
+九疑黛色屏斜掩枕上眉心欽不堪相<lb/>
+望病将成鈿昏檀粉淚縦横不勝情<lb/>
+<pb n="KR4i0013_SBCK_011-2a"/>
+　閻選<hi>八首</hi>
+　　虞羙人<lb/>
+粉融紅膩蓮房綻臉動雙波慢小魚衘<lb/>
+玉鬢釵横石榴裙染象紗䡖轉娉婷<lb/>
+偷期錦浪荷深䖏一夢雲蕪雨臂留檀<lb/>
+印齒痕香深秋不寐漏𥘉長儘思量<lb/>
+<pb n="KR4i0013_SBCK_011-2b"/>
+　　其二<lb/>
+椘腰蠐領團香玉鬢疊深深緑月娥星<lb/>
+眼笑㣲頻栁夭桃艶不勝春晚粧勻<lb/>
+水紋簟映青紗帳霧罩秋波上一枝嬌<lb/>
+卧醉芙蓉良宵不得與君同恨忡忡<lb/>
+　　臨江僊<lb/>
+<pb n="KR4i0013_SBCK_011-3a"/>
+雨停荷芰逗濃香岸邉蝉噪垂楊物華<lb/>
+空有舊池塘不逢仙子何䖏夢㐮王<lb/>
+珍簟對欹鴛枕冷此来塵暗凄凉欲憑<lb/>
+危檻恨偏長藕花珠綴猶似汗凝粧<lb/>
+　　其二<lb/>
+十二高峰天外寒竹梢䡖拂仙壇寳衣<lb/>
+<pb n="KR4i0013_SBCK_011-3b"/>
+行雨在雲端画簾深殿香霧冷風殘<lb/>
+欲問椘王何䖏去翠屏犹掩金鵉猿啼<lb/>
+明月照空灘孤舟行客驚夢亦艱難<lb/>
+　　浣沙溪<lb/>
+寂寞流蘇冷綉茵倚屏山枕惹香塵小<lb/>
+庭花露泣濃春　劉阮信非仙洞客常<lb/>
+<pb n="KR4i0013_SBCK_011-4a"/>
+娥終是月中人此生無路訪東隣<lb/>
+　　八拍蛮<lb/>
+雲鎖嫩黄烟柳細風吹紅蔕雪梅殘光<lb/>
+影不勝閨閤恨行行坐㘴黛眉攅<lb/>
+　　其二<lb/>
+愁鎖黛眉烟易惨淚飄紅臉粉难勻憔<lb/>
+<pb n="KR4i0013_SBCK_011-4b"/>
+悴不知縁底事遇人推道不宜春<lb/>
+　　河傳<lb/>
+秋雨秌雨無畫無亱滴滴霏霏暗燈凉<lb/>
+簟怨分離妖姬不勝悲　西風稍急喧<lb/>
+窓竹停又續膩臉懸㕠玉几廻邀約雁<lb/>
+来時違期㕍㱕人不㱕<lb/>
+<pb n="KR4i0013_SBCK_011-5a"/>
+　尹鶚<hi>六首</hi>
+　　臨江仙<lb/>
+一畨荷芰生池沼槛前風送馨香昔年<lb/>
+於此伴蕭娘相偎竚立牽惹叙裏腸<lb/>
+時逞咲容無限態還如<graphic n="KR1341" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1341.png" mimeType="image/png"/>蓞爭芳别来<lb/>
+虗遣思悠颺慵窺徃亊金鎖小蘭房<lb/>
+<pb n="KR4i0013_SBCK_011-5b"/>
+　　其二<lb/>
+深秋寒夜銀河静月明深院中庭西窓<lb/>
+鄊夢等閑成逡廵斍後特地恨難平<lb/>
+紅燭半消殘熖短依稀暗背銀屏枕前<lb/>
+何亊最傷情梧桐葉上點點露珠零<lb/>
+　　滿官花<lb/>
+<pb n="KR4i0013_SBCK_011-6a"/>
+月沉沉人悄悄一炷後庭香<graphic n="KR1153" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1153.png" mimeType="image/png"/>風流帝<lb/>
+子不帰来滿地禁花慵掃　離恨多相<lb/>
+見少何䖏醉迷三島漏清宫樹子規啼<lb/>
+愁鎻碧窓春暁<lb/>
+　　杏園芳<lb/>
+嚴籹嫩臉花明教人見了関情含羞舉<lb/>
+<pb n="KR4i0013_SBCK_011-6b"/>
+歩越羅䡖稱娉停終朝咫尺窺香閣<lb/>
+迢遥似隔層城何時休遣夢相萦入雲<lb/>
+屏<lb/>
+　　醉公子<lb/>
+暮烟籠蘚砌㦸門猶未閉盡日醉㝷春<lb/>
+帰来月滿身離鞍偎繍𬒮墜巾花亂<lb/>
+<pb n="KR4i0013_SBCK_011-7a"/>
+綴何䖏恼佳人檀㾗衣上新<lb/>
+　　菩薩蛮<lb/>
+隴雲暗合秋天白俯窓獨坐窺烟陌樓<lb/>
+際角重吹黃昏方醉帰　荒唐難共語<lb/>
+明日還應去上馬出門時金鞍莫與伊<lb/>
+　　毛熈震<hi>二十一首</hi>
+<pb n="KR4i0013_SBCK_011-7b"/>
+　　浣沙溪<lb/>
+春暮黄鶯下砌前水晶簾影露珠懸綺<lb/>
+霞低映晚晴天　弱桞萬條垂翠帯殘<lb/>
+紅滿地碎香鈿蕙風飄蕩散輕烟<lb/>
+　　其二<lb/>
+花謝香紅烟景迷滿庭芳草緑萋萋金<lb/>
+<pb n="KR4i0013_SBCK_011-8a"/>
+鋪閑掩繍簾低紫燕一雙嬌語碎翠<lb/>
+屏十二晚峰齊夢魂銷散醉空閨<lb/>
+　　其三<lb/>
+晚起紅房醉欲銷緑鬟雲散<graphic n="KR1153" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1153.png" mimeType="image/png"/>金翹雪<lb/>
+香花語不朦嬌　好是向人柔弱䖏玉<lb/>
+纎時急繍裙腰春心牽惹轉無憀<lb/>
+<pb n="KR4i0013_SBCK_011-8b"/>
+　　其四<lb/>
+一隻横釵墜髻叢静眠珍簟起来慵繍<lb/>
+羅紅嫩抺酥<graphic n="KR0909" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0909.png" mimeType="image/png"/>羞歛細蛾魂暗㫁困<lb/>
+迷無語思猶濃小屏香靄碧山重<lb/>
+　　其五<lb/>
+雲薄羅裙綬帯長滿身新裛瑞龍香翠<lb/>
+<pb n="KR4i0013_SBCK_011-9a"/>
+鈿斜映艶梅籹　佯不覷人空婉約笑<lb/>
+和嬌語太娼狂忍教牽恨暗形相<lb/>
+　　其六<lb/>
+碧玉冠䡖<graphic n="KR1153" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1153.png" mimeType="image/png"/>燕釵捧心無語歩香堦緩<lb/>
+移弓底繍羅鞋　暗想歡娛何計好豈<lb/>
+堪期約有時乖日髙深院正忘懐<lb/>
+<pb n="KR4i0013_SBCK_011-9b"/>
+　　其七<lb/>
+半醉疑情臥繍茵睡容無力缷羅裙玉<lb/>
+籠鸚鵡厭聽聞　慵整落釵金翡翠像<lb/>
+梳欹鬂月生雲錦屏綃幌麝烟薫<lb/>
+　　臨江仙<lb/>
+南齊天子寵嬋姢六宫羅綺三千潘妃<lb/>
+<pb n="KR4i0013_SBCK_011-10a"/>
+嬌艶獨芳妍椒房蘭洞雲雨降神仙<lb/>
+縦態迷歡心不足風流可惜當年纎腰<lb/>
+婉約歩金蓮妖君傾國猶自至今傳<lb/>
+　　其二<lb/>
+幽閨𣣔曙聞鶯囀紅窓月影微明好風<lb/>
+頻謝落花聲隔幃殘燭猶照綺屏筝<lb/>
+<pb n="KR4i0013_SBCK_011-10b"/>
+繍𬒳錦茵眠玉煖炷香斜<graphic n="KR1153" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1153.png" mimeType="image/png"/>䡖烟澹蛾<lb/>
+羞歛不朦情暗思閑夢何䖏逐雲行<lb/>
+　　更漏子<lb/>
+秋色清河影澹深户燭寒光暗綃幌碧<lb/>
+錦衾紅博山香炷融　更漏咽蛩鳴切<lb/>
+滿院霜華如雪新月上薄雲收映簾懸<lb/>
+<pb n="KR4i0013_SBCK_011-11a"/>
+五鈎<lb/>
+　　其二<lb/>
+煙月寒秋夜静漏轉金壺初永羅幕下<lb/>
+繡屏空燈花結碎紅　人消悄愁無了<lb/>
+思夢不成難暁長憶淂與郎期竊香私<lb/>
+語時<lb/>
+<pb n="KR4i0013_SBCK_011-11b"/>
+　　女冠子<lb/>
+碧桃紅杏遲日媚籠光影綵霞深香煖<lb/>
+薫鶯語風清引鶴音　翠鬟冠玉葉霓<lb/>
+䄂捧瑶琹應共吹簫侣暗相㝷<lb/>
+　　其二<lb/>
+脩娥慢臉不語檀心一點小山粧蝉鬢<lb/>
+<pb n="KR4i0013_SBCK_011-12a"/>
+低含緑羅衣澹拂黄　悶来深院裡閑<lb/>
+歩落花傍纎手䡖䡖整玉爐香<lb/>
+　　清平樂<lb/>
+春光欲暮寂寞閒庭户粉蝶䨇䨇穿檻<lb/>
+舞簾卷晚天踈雨　含愁獨倚閨幃玉<lb/>
+罏烟㫁香微正是銷魂時莭東風滿樹<lb/>
+<pb n="KR4i0013_SBCK_011-12b"/>
+花飛<lb/>
+　　南歌子<lb/>
+逺山愁黛碧横波慢臉明膩香紅玉茜<lb/>
+羅䡖深院晚堂人静理銀筝鬢動行<lb/>
+雲影裙遮點屐聲嬌羞爱問曲中名楊<lb/>
+桞杏花時莭㡬多情<lb/>
+<pb n="KR4i0013_SBCK_011-13a"/>
+　　其二<lb/>
+惹恨還添恨牽膓即断腸凝情不語一<lb/>
+枝芳獨映画簾閒立繡衣香　暗想為<lb/>
+雲女應憐傅粉郎晚来輕歩出閨房髻<lb/>
+慢釵横無力縱猖狂<lb/>
+　　河滿子<lb/>
+<pb n="KR4i0013_SBCK_011-13b"/>
+寂寞芳菲暗度歲華如箭堪驚𬗟想舊<lb/>
+歡夛少亊轉添春思難平曲檻絲埀金<lb/>
+桞小牎絃断銀筝　深院空聞燕語滿<lb/>
+園閒落花輕一片相思休不得忍教長<lb/>
+日愁生誰見夕陽孤夢覺来無限傷情<lb/>
+　　其二<lb/>
+<pb n="KR4i0013_SBCK_011-14a"/>
+無語殘粧澹薄<graphic n="KR0877" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0877.png" mimeType="image/png"/>羞亸𬒮輕盈幾度香<lb/>
+閨眠過曉綺窓初日微明雲母帳中偷<lb/>
+惜水晶枕上初驚咲靨嫩疑花析愁<lb/>
+眉翠歛山横相望只教添悵恨整鬟時<lb/>
+見纎瓊獨倚朱扉閑立誰知别有深情<lb/>
+　　小重山<lb/>
+<pb n="KR4i0013_SBCK_011-14b"/>
+梁燕雙飛畫閣前寂寥多少恨懶孤眠<lb/>
+暁来閑䖏想君憐紅羅帳金鴨冷沉烟<lb/>
+　誰信損嬋姢倚屏啼玉筯濕香鈿四<lb/>
+肢無力上鞦韆羣花謝愁對艶陽天<lb/>
+　　定西畨<lb/>
+蒼翠濃隂滿院鶯對語蝶交飛戲薔薇<lb/>
+<pb n="KR4i0013_SBCK_011-15a"/>
+　斜日倚欄風好餘香出繡衣未得玉<lb/>
+郎消息幾時歸<lb/>
+　　木蘭花<lb/>
+掩朱扉鈎翠箔滿院鶯聲春寂寞匀粉<lb/>
+淚恨檀郎一去不歸花又落　對斜暉<lb/>
+臨小閣前亊豈堪重想着金帶冷画屏<lb/>
+<pb n="KR4i0013_SBCK_011-15b"/>
+幽寳帳慵薫蘭麝薄<lb/>
+花間集卷十一<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

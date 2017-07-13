@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>樂圃餘藁目録</head>
+    <p>
+<pb n="KR4d0106_WYG_000-1a"/>
+欽定四庫全書　　　　集部三<lb/>
+　樂圃餘藁目録　　　　　别集類二<hi>宋</hi>
+　　巻一<lb/>
+　　　古詩<lb/>
+　　巻二<lb/>
+　　　排律<lb/>
+　　　律詩<lb/>
+　　巻三<lb/>
+<pb n="KR4d0106_WYG_000-1b"/>
+　　　律詩<lb/>
+　　巻四<lb/>
+　　　律詩<lb/>
+　　巻五<lb/>
+　　　絶句<lb/>
+　　　輓詩<lb/>
+　　巻六<lb/>
+　　　記<lb/>
+<pb n="KR4d0106_WYG_000-2a"/>
+　　巻七<lb/>
+　　　序<lb/>
+　　　題辭<lb/>
+　　巻八<lb/>
+　　　啟<lb/>
+　　　律賦<lb/>
+　　巻九<lb/>
+　　　世譜<lb/>
+<pb n="KR4d0106_WYG_000-2b"/>
+　　　書<lb/>
+　　　題跋<lb/>
+　　　祭文<lb/>
+　　　銘<lb/>
+　　巻十<lb/>
+　　　墓誌<lb/>
+　　　　<hi>臣</hi>等謹按樂圃餘藁十巻宋朱長文撰長文<lb/>
+　　　　字伯原蘇州呉縣人未冠登進士乙科以足<lb/>
+<pb n="KR4d0106_WYG_000-3a"/>
+　　　　疾不仕築室樂圃坊著書閲古蘇軾等薦起<lb/>
+　　　　本州教授召為太常博士遷秘書省正字生<lb/>
+　　　　平著述甚富所撰詩詞賦辨表章雜説凡百<lb/>
+　　　　巻號樂圃集南渡後盡燬於兵其従孫知漢<lb/>
+　　　　陽軍思裒集遺文得詩百六十有三記五序<lb/>
+　　　　六啟七墓誌五襍文六類為十巻又以墓銘<lb/>
+　　　　表傳等為附録一巻鋟諸木嵗乆僅存寫本<lb/>
+　　　　康熈壬辰其裔孫岳夀重刋行之附補遺詩<lb/>
+<pb n="KR4d0106_WYG_000-3b"/>
+　　　　一贊一則明嘉定陸嘉穎所蒐補也稿中墓<lb/>
+　　　　銘或署其父公綽名銜盖長文少作従石刻<lb/>
+　　　　中録出者亦可見思當時搜討之勤矣乾隆<lb/>
+　　　　四十一年十月恭校上<lb/>
+　　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

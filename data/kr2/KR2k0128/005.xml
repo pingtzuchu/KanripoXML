@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2k0128_WYG_005-1a"/>
+跋<lb/>
+孝鄉之於郡邑亦不數數也昔明嘉靖間鄉之耆舊馮<lb/>
+海浮先生纂集郡志見稱於時萬厯中司空鍾公又取<lb/>
+而附益之二公於世既為聞人其書號為巨麗而其於<lb/>
+孝鄉頗為濶畧質諸所聞殆闕如也蓋孝鄉僻逺在郡<lb/>
+邑二百里外二公生平既未嘗攬轡從容一覽其溪山<lb/>
+省其風土而孝鄉之人又習為愿樸未嘗厚自雕飾取<lb/>
+名譽而冐進於名賢作者之前此其没没近於無聞者<lb/>
+<pb n="KR2k0128_WYG_005-1b"/>
+也初王元美創置顔城而李于鱗為之碑記則雜引外<lb/>
+事以作談鋒如妖女之祟九起之亂一切附麗文詞歸<lb/>
+之孝水此或因所寄託用壯蔚其文筆為銘功紀徳之<lb/>
+資則可要未得為衷言信史也至李中麓采掇流聞率<lb/>
+爾命筆其為疏濶抑又甚焉試規于近事如史賊揭竿<lb/>
+於萊野李孽肆踞於龍山謝遷播虐于淄川沂寇延蔓<lb/>
+於長峪是皆亂氓蠭起近在門庭獨孝鄉之民中處其<lb/>
+間按堵晏然無一人從亂者蓋其子弟之安於耕鑿習<lb/>
+<pb n="KR2k0128_WYG_005-2a"/>
+於教訓志定而難犯久矣此則元美氏之功為不没也<lb/>
+家相國自昔家食每言及此喟然興歎嘗以謂君子一<lb/>
+言之垂有風氣焉有法式焉有鑒戒焉故言不可以不<lb/>
+慎也兹以謝政餘閒優遊在里常侍讌談於先光祿公<lb/>
+每聞鄉中遺賢故老之行事退而察其習俗之變態乃<lb/>
+綜括大端作顔山雜記四卷以付小子校錄之竊惟古<lb/>
+者人物風土之書如三輔决錄西京雜記等篇並疎雅<lb/>
+散朗畧存舊觀意到則書初無倫次似不在甲觀七畧<lb/>
+<pb n="KR2k0128_WYG_005-2b"/>
+之中而百世之下讀之者若親侍昔賢語笑而揖讓其<lb/>
+間覽時變則慷慨傷懐撫山川則欣然欲徃昔漢武帝<lb/>
+讀司馬相如大人賦飄飄有凌雲氣遊天地之間意亦<lb/>
+文章之盛事也若聞詩而得興觀問禮而起莊敬則文<lb/>
+章不足以槩之矣敬因校讐之次撫卷興懐附識所聞<lb/>
+云爾<lb/>
+康熙丙午秋七月男寶仍謹書<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

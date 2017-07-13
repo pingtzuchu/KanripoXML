@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>存雅堂遺稿目錄</head>
+    <p>
+<pb n="KR4d0407_WYG_000-1a"/>
+欽定四庫全書　　　　集部四<lb/>
+　存雅堂遺稿目錄　　　　别集類三<hi>宋</hi>
+　　巻一<lb/>
+　　　五言古詩<lb/>
+　　　五言律詩<lb/>
+　　　五言排律<lb/>
+　　　五言絶句<lb/>
+　　巻二<lb/>
+<pb n="KR4d0407_WYG_000-1b"/>
+　　　七言古詩<lb/>
+　　　七言律詩<lb/>
+　　　七言排律<lb/>
+　　　七言絶句<lb/>
+　　巻三<lb/>
+　　　上書<lb/>
+　　　序跋<lb/>
+　　　記<lb/>
+<pb n="KR4d0407_WYG_000-2a"/>
+　　　行狀<lb/>
+　　　祭文<lb/>
+　　　牘<lb/>
+　　巻四<lb/>
+　　　紀上<lb/>
+　　巻五<lb/>
+　　　紀下<lb/>
+　　　　<hi>臣</hi>等謹案存雅堂遺稿五巻宋方鳳撰鳳字<lb/>
+<pb n="KR4d0407_WYG_000-2b"/>
+　　　　韶卿一字景山浦江人試太學舉上禮部不<lb/>
+　　　　第後以特恩授容州文學宋亡歸隱仙華山<lb/>
+　　　　同里義烏令吳渭闢家塾敬事之疾革命子<lb/>
+　　　　樗題其旌曰容州示不忘也時稱巖南先生<lb/>
+　　　　其門人栁貫輯其遺詩三百八十篇釐為九<lb/>
+　　　　巻屬永嘉尹趙敬叔刻置縣齋黄溍為之序<lb/>
+　　　　及宋濂作鳳傳又稱存雅堂稿三千餘篇蓋<lb/>
+　　　　據其未刻者而言故與溍序篇數多寡不合其<lb/>
+<pb n="KR4d0407_WYG_000-3a"/>
+　　　　後寖以散逸遂并板本而亦亡之<lb/>
+　　　國朝順治甲午其里人張燧乃博蒐諸書掇拾<lb/>
+　　　　殘剰彚為此編凡詩七十三首文十二首金<lb/>
+　　　　華洞天行紀一篇附以鳳子樗梓詩十六首<lb/>
+　　　　文五首鳳志節可稱而所作文章亦骯髒磊<lb/>
+　　　　落不屑為庸腐之語龔開嘗評其詩以為由<lb/>
+　　　　本論之在人倫不在人事等而上之在天地<lb/>
+　　　　不在古今蓋鳳澤畔行吟往往睠念宗邦不<lb/>
+<pb n="KR4d0407_WYG_000-3b"/>
+　　　　忘忠愛開亦以遺民終老故揚詡未免過情<lb/>
+　　　　然幽憂悲思再三致意有黍離麥秀之遺音<lb/>
+　　　　固猶不失風人之義也原本尚有物異考一<lb/>
+　　　　巻月泉吟社詩二巻外篇詩文二巻今案物<lb/>
+　　　　異考出自唐宋遺書寥寥數則無資考證月<lb/>
+　　　　泉吟社詩巳有單本别行至外篇所輯他人<lb/>
+　　　　贈答之作并謝翺傳吳萊碑而錄之尤為氾<lb/>
+　　　　濫今並從刪削焉乾隆四十六年十月恭校<lb/>
+<pb n="KR4d0407_WYG_000-4a"/>
+　　　　　上<lb/>
+　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

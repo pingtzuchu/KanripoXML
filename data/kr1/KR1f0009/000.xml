@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>提要</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　　經部六<lb/>
+　提要　　　　　　　　　孝經類<lb/>
+　　孝經述註一卷<lb/>
+　　　　<hi>臣</hi>等謹案孝經述註一卷明項霦撰霦始末<lb/>
+　　　　無可考惟江西志載項霦浙江臨海人洪武<lb/>
+　　　　間為按察司僉事與黄昭原序所言合當即<lb/>
+　　　　其人也是編用古文孝經本其所詮釋不務<lb/>
+　　　　為深奥之論而循文衍義按章標㫖詞意頗<lb/>
+<pb n="1b"/>
+　　　　為簡明猶説經家之不支蔓者明史藝文志<lb/>
+　　　　不著録朱彛尊經義考亦不載其名惟永樂<lb/>
+　　　　大典僅存此本然編次佚脱以第七章註文<lb/>
+　　　　入第六章經文下遂使六章無註七章無經<lb/>
+　　　　今以所佚經文按古文原本補入所佚註文<lb/>
+　　　　則世無别本無從葺完矣以其沉埋蠧簡之<lb/>
+　　　　内三百餘年世無能舉其名者今幸際<lb/>
+昌期發其光耀亦萬世一時之遭際故特采掇出之俾<lb/>
+<pb n="2a"/>
+　　　　聞於後不以殘缺而廢焉乾隆四十六年九<lb/>
+　　　　月恭校上<lb/>
+　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="3a"/>
+孝經述註原序<lb/>
+欽惟聖明天子應天啓運肇造區㝢薄海内外靡不臣<lb/>
+順首建宗廟報本追逺盖將以孝治天下為子孫帝王<lb/>
+萬世之業也嗚呼盛哉于是内設臺憲以振風紀外置<lb/>
+察司以糾奸慝法至宻矣江西為大藩府物盛人衆獄<lb/>
+訟繁滋彰善癉惡樹之風聲非學有經術亷慎明察者<lb/>
+不足以與兹選已酉冬乃命安君智來為憲副項君霦<lb/>
+郭君永錫共僉憲事受命陛辭玉音懇惻其所付任不<lb/>
+<pb n="3b"/>
+亦重乎安君舊歴顯仕有學有猷郭君由神童擢科第<lb/>
+累任繁劇項君家世業儒隐居十有餘載克承父志著<lb/>
+書立言其經濟之資盖可想見矣余以盲病告老寓洪<lb/>
+三君之來也廼不鄙而枉顧焉耳其言挹其氣雍容端<lb/>
+重意藹如也他日憲從事劉君鼎承憲副之意而致辭<lb/>
+曰項君之述作固多難以悉舉今姑取其集書内孝經<lb/>
+註一編將廣其傳盖樂其有關于治道也敢祈一言以<lb/>
+冠之余不得辭乃為之言曰孝百行之原行仁之本也<lb/>
+<pb n="4a"/>
+徳修于身教成家國而化行乎天下此自然之理也故<lb/>
+夫子稱舜為大孝而武王周公為天下之達孝然則帝<lb/>
+王之治孰有加於孝乎漢文置孝經博士幾致刑措唐<lb/>
+太宗以孝弟設科而死囚歸獄氣象雖殊理一而已後<lb/>
+世教化不明彛倫攸斁民之犯法也非出於不知則出<lb/>
+於不幸不揣其本一切以法繩之刑政日紊民乃不堪<lb/>
+是以治日常少而亂日常多也近草廬吳公以孝經分<lb/>
+經傳正訛闕為是書之㫖粲然明白今項君又為之註<lb/>
+<pb n="4b"/>
+正與吳公互相發明其亦可謂勤己君以觀風行部所<lb/>
+以發其所用之學迨將信而有徵安君又將鋟梓以播<lb/>
+之使江西之民家有是書人有是徳悖慢之俗除禮樂<lb/>
+之習興所謂振風紀者將於是乎在由是推之天下四<lb/>
+海人人有士君子之行則堯舜三代之治必將權輿於<lb/>
+此其於聖天子孝治天下之心顧不韙歟昭既慕項君<lb/>
+學術之正復嘉憲副公與人為善之美於是乎書前提<lb/>
+刑按察使副使臨川黄昭序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

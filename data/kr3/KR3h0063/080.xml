@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3h0063_WYG_080-1a"/>
+欽定四庫全書<lb/>
+石渠寶笈卷三十九<lb/>
+　　　貯<lb/>
+　　御書房<lb/>
+　　　列朝人<lb/>
+　　畫軸次等<lb/>
+　　　唐戴嵩春林放牧圖<lb/>
+　　　五代黄筌長春竹雀<lb/>
+<pb n="KR3h0063_WYG_080-1b"/>
+　　　五代黄筌乆安圖<lb/>
+　　　宋徽宗錦雞芙蓉圖<lb/>
+　　　宋許道寧關山密雪圖<lb/>
+　　　宋崔白蘆雁<lb/>
+　　　宋張擇端春山圖<lb/>
+　　　宋馬和之柳溪春舫圖<lb/>
+　　　宋李迪三顧圖<lb/>
+　　　宋林椿花鳥圖<lb/>
+<pb n="KR3h0063_WYG_080-2a"/>
+　　　宋蔡京環翠圖<lb/>
+　　　元趙孟頫窠木竹石<lb/>
+　　　元錢選秋葵<lb/>
+　　　元錢選觀梅覔句圖<lb/>
+　　　元商琦溪亭坐隱圖<lb/>
+　　　元方方壺高高亭圖<lb/>
+　　　元柯九思畫梅<lb/>
+　　　元王蒙松山書屋圖<lb/>
+<pb n="KR3h0063_WYG_080-2b"/>
+　　　元王蒙劍閣圖<lb/>
+　　　元王蒙溪山高逸圖<lb/>
+　　　元王蒙桃源春曉圖<lb/>
+　　　元王蒙層巒聳翠圖<lb/>
+　　　元吴鎮松下扶笻圖<lb/>
+　　　元盛懋栁隂書屋圖<lb/>
+　　　元盛懋授經圖<lb/>
+　　　明憲宗嵗朝佳兆圖<lb/>
+<pb n="KR3h0063_WYG_080-3a"/>
+　　　明冷謙山水<lb/>
+　　　明王紱古木竹石<lb/>
+　　　明王紱溪亭高話圖<lb/>
+　　　明王紱松亭高士圖<lb/>
+　　　明姚綬竹石<lb/>
+　　　明姚綬寒林讀書圖<lb/>
+　　　明吴偉歌舞圖<lb/>
+　　　明沈周秋林讀書圖<lb/>
+<pb n="KR3h0063_WYG_080-3b"/>
+　　　明沈周參天特秀圖<lb/>
+　　　明沈周山水<lb/>
+　　　明沈周蒼厓高話圖<lb/>
+　　　明沈周聼松圖<lb/>
+　　　明沈周䇿杖圖<lb/>
+　　　明唐寅芙蓉<lb/>
+　　　明唐寅洛神圖<lb/>
+　　　明唐寅山茶仕女圖<lb/>
+<pb n="KR3h0063_WYG_080-4a"/>
+　　　明文徴明春雲出山圖<lb/>
+　　　明文徴明雪滿羣峰圖<lb/>
+　　　明文徴明溪山秋霽圖<lb/>
+　　　明文徴明蒼巗漁隱圖<lb/>
+　　　明文徴明倣董源林泉静釣圖<lb/>
+　　　明文嘉聼泉圖<lb/>
+　　　明陳惠梅花<lb/>
+　　　明陳淳頳橊蒼石圖<lb/>
+<pb n="KR3h0063_WYG_080-4b"/>
+　　　明陳淳畫桃花<lb/>
+　　　明孫啟畫梅<lb/>
+　　　明王問雙鴛圖<lb/>
+　　　明陸師道攜巻對山圖<lb/>
+　　　明謝時臣夏山飛瀑圖<lb/>
+　　　明謝時臣林巒霽圖<lb/>
+　　　明陸治仿王蒙還丹圖<lb/>
+　　　明陸治仙山玉洞圖<lb/>
+<pb n="KR3h0063_WYG_080-5a"/>
+　　　明徐渭牡丹<lb/>
+　　　明項聖謨山水小景<lb/>
+　　　明項聖謨菊花竹石<lb/>
+　　　明顧正誼溪山秋爽<lb/>
+　　　明趙左秋山紅樹圖<lb/>
+　　　明趙左寒江草閣圖<lb/>
+　　　明周之冕枇杷珍禽<lb/>
+　　　明周之冕花竹鵪鶉<lb/>
+<pb n="KR3h0063_WYG_080-5b"/>
+　　　明尤求山水人物<lb/>
+　　　明李士達瑞蓮圖<lb/>
+　　　明王中立花鳥<lb/>
+　　　明董其昌畫王維詩意圖<lb/>
+　　　明陳繼孺倣倪瓚山水<lb/>
+　　　明倪元璐朱竹<lb/>
+　　　明王綦東籬秋色圖<lb/>
+　　　明張宏倣陸治茶花水仙<lb/>
+<pb n="KR3h0063_WYG_080-6a"/>
+　　　明楊文驄溪山訪友圖<lb/>
+　　　明陳洪綬花蝶寫生<lb/>
+　　　明陳洪綬瓶花<lb/>
+　　　明陳洪綬梅花<lb/>
+　　　明陳嘉言時時報喜圖<lb/>
+　　　明吴令棠上白頭圖<lb/>
+　　　明張寧嵗寒三友圖<lb/>
+　　　明俞笙花鳥<lb/>
+<pb n="KR3h0063_WYG_080-6b"/>
+　　　明王時敏松巗静樂圖<lb/>
+　　　明史端木倣黄公望山水<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

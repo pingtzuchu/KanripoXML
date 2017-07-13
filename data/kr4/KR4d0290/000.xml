@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>提要<lb/>
+                </head>
+    <p>
+<pb n="KR4d0290_WYG_000-1a"/>
+欽定四庫全書　　　　集部四<lb/>
+　提要<lb/>
+　　後樂集二十巻　　　　别集類三<hi>宋</hi>
+　　　　<hi>臣</hi>等謹案後樂集二十巻宋衛涇撰涇字清<lb/>
+　　　　叔華亭人徙居崑山登淳熙十一年進士第<lb/>
+　　　　一人王楙野客叢書乃謂潮至夷亭出狀元<lb/>
+　　　　甲辰衛涇果魁天下者也累官㕘知政事封<lb/>
+　　　　秦國公卒諡文節其事蹟不具於宋史惟南<lb/>
+<pb n="KR4d0290_WYG_000-1b"/>
+　　　　宋翰苑題名記載涇以開禧二年七月官中<lb/>
+　　　　書舍人兼修玊牒官直學士院十月除吏部<lb/>
+　　　　侍郎兼侍讀三年十月除禮部尚書十一月<lb/>
+　　　　除御史中丞宋史宰輔表載開禧三年十一<lb/>
+　　　　月丙戌涇自中奉大夫試御史中丞除端明<lb/>
+　　　　殿學士簽書樞宻院事丁亥兼權㕘知政事<lb/>
+　　　　十二月壬戌涇與雷孝友同除㕘知政事嘉<lb/>
+　　　　定元年六月乙亥罷為資政殿學士知潭州<lb/>
+<pb n="KR4d0290_WYG_000-2a"/>
+　　　　而集中謝表自潭州以後又嘗一知福州再<lb/>
+　　　　知隆興府其歴官歲月尚可考見涇初號拙<lb/>
+　　　　齋居士改號西園居士後築堂成取范仲淹<lb/>
+　　　　岳陽樓記中語題之曰後樂堂遂以自號并<lb/>
+　　　　名其集原本凡七十巻乃其子樵所編嘗刻<lb/>
+　　　　之於永州歲久亡佚明楊樞淞故述僅存其<lb/>
+　　　　名而其本已不可見今從永樂大典中裒輯<lb/>
+　　　　編次釐為二十巻衛氏在宋世以文學知名<lb/>
+<pb n="KR4d0290_WYG_000-2b"/>
+　　　　涇諸父膚敏紹興間為禮部侍郎立朝頗著<lb/>
+　　　　風采涇弟湜亦湛深經術所著禮記集說已<lb/>
+　　　　别著録涇所作大都和平温雅具有體裁歸<lb/>
+　　　　有光震川集稱其文章議論有禆當世當韓<lb/>
+　　　　侂胄用事時隠居十年於所居石浦闢西園<lb/>
+　　　　堅卧不出其進退之際盖能以禮自守者今<lb/>
+　　　　即集中諸奏疏考之其應詔論北伐劄子謂<lb/>
+　　　　兩國相敵持重者安輕動者危應兵常勝首<lb/>
+<pb n="KR4d0290_WYG_000-3a"/>
+　　　　事常沮力詆侂胄開釁之非詞意極為切直<lb/>
+　　　　其劾易祓朱質林行諸狀亦能抵觸奸佞侃<lb/>
+　　　　侃不阿他所論列並中窽要在當時可稱正<lb/>
+　　　　人特其執政未久宋史又佚不傳其大節幾<lb/>
+　　　　就湮没幸而遺文復顯猶可据以見其仕履<lb/>
+　　　　之大畧故著之於録補史文所未及焉乾隆<lb/>
+　　　　四十六年九月恭校上<lb/>
+　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+<pb n="KR4d0290_WYG_000-3b"/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

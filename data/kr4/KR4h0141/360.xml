@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_360-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選巻三百六十一<lb/>
+　　水仙花類<lb/>
+　　　五言古<lb/>
+　　　　詠鹿蔥　　　　　　　　　<hi>梁</hi>沈　約<lb/>
+　野馬不任騎兔絲不任織既非中野花無堪麕䴥食<lb/>
+　　　　詠水仙花五韻　　　　　　<hi>宋</hi>陳與義<lb/>
+　仙人緗色裘縞衣以裼之青<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>紛委地獨立東風時吹<lb/>
+<pb n="KR4h0141_WYG_360-1b"/>
+　香洞庭煖弄影清晝遲寂寂籬落英亭亭與予期誰知<lb/>
+　園中客能賦㑹眞詩<lb/>
+　　　　水仙花　　　　　　　　　<hi>宋</hi>陳傅良<lb/>
+　江梅丈人行歲寒固天姿蠟梅微著色標致亦背時胡<lb/>
+　然此柔嘉支本僅自持廼以平地尺氣與松篁夷粹然<lb/>
+　金玉相承以翠羽儀獨立萬槁中冰膠雪垂垂水仙誰<lb/>
+　强名相宜未相知刻畫近脂粉而况山谷詩吾聞抱太<lb/>
+　和未易形似窺當其自英華造物且霽威平生恨剛褊<lb/>
+<pb n="KR4h0141_WYG_360-2a"/>
+未老齒髮衰掇花寘膽瓶吾今得吾師<lb/>
+　　　題水仙圖　　　　　　　　<hi>元</hi>韓　性<lb/>
+洛下風流人人言影亦好况乃蛟宫仙迥立清漢表翠<lb/>
+裠濕凉蟾晴光白如掃坐對冰雪容不受東風老澄江<lb/>
+渺余懐相期拾瑶草<lb/>
+　　七言古<lb/>
+　　　水仙花效李長吉　　　　　<hi>明</hi>鄒　亮<lb/>
+馮夷鏤冰駐花魄竒芬染肌沁仙骨天風吹夢落瑶臺<lb/>
+<pb n="KR4h0141_WYG_360-2b"/>
+家住江南水雲窟弄珠拾草瀟湘渚帶月迷煙愁不語<lb/>
+小龍潛開水晶殿玉杯凉露承華宴青鳥銜書來閬苑<lb/>
+笑指蓬萊水清淺<lb/>
+　　七言律<lb/>
+　　　謝到水仙二本　　　　　　<hi>宋</hi>韓　維<lb/>
+黄中秀外榦虚通乃喜嘉名近帝聰密葉暗傳深夜露<lb/>
+殘花猶及早春風拒霜已失芙蓉艶出水難留菡萏紅<lb/>
+多謝使君憐寂寞許敎綽約伴仙翁<lb/>
+<pb n="KR4h0141_WYG_360-3a"/>
+　　　題錢山水仙花　　　　　　<hi>明</hi>顧　辰<lb/>
+宴罷瑶池曙色凉凌波仙子試新粧金盤露積珠襦重<lb/>
+玉佩風生翠帶長萬里弱流通閬苑一簾疎雨隔瀟湘<lb/>
+歲寒林下花時節只許梅花壓衆芳<lb/>
+　　　水仙花　　　　　　　　　<hi>明</hi>梁辰魚<lb/>
+幽花開處月微茫秋水凝神黯淡粧繞砌露濃空見影<lb/>
+隔簾風細但聞香瑶壇夜靜黄冠濕小洞秋深玉佩凉<lb/>
+一叚凌波堪畫處至今詞賦憶陳王<lb/>
+<pb n="KR4h0141_WYG_360-3b"/>
+　　五言絶句<lb/>
+　　　水仙　　　　　　　　　　<hi>明</hi>于若瀛<lb/>
+水花垂緑蔕嫋嫋緑雲輕自是壓羣卉誰言梅是兄<lb/>
+　　　水仙花　　　　　　　　　<hi>明</hi>僧船窗<lb/>
+如聞交佩響疑是洛妃來朔風欺羅袖朝霜滋玉臺<lb/>
+　　七言絶句<lb/>
+　　　水仙花　　　　　　　　　<hi>宋</hi>黄庭堅<lb/>
+得水能仙天與竒寒香寂寞動冰肌仙風道骨今誰有<lb/>
+<pb n="KR4h0141_WYG_360-4a"/>
+淡掃蛾眉篸一枝<lb/>
+　　　劉邦直送水仙花　　　　　　黄庭堅<lb/>
+錢塘昔聞水仙廟荆州今見水仙花暗香靚色掩詩句<lb/>
+宜在林逋處士家<lb/>
+　　　次韻中玉水仙花　　　　　　黄庭堅<lb/>
+借水開花自一竒水沈為骨玉為肌暗香巳壓酴醿倒<lb/>
+只比寒梅無好枝<lb/>
+　　　題水仙花圖　　　　　　　<hi>元</hi>陳　旅<lb/>
+<pb n="KR4h0141_WYG_360-4b"/>
+莫信陳王賦洛神凌波那得更生塵水香露影空清處<lb/>
+留得當年解珮人<lb/>
+　　　水仙　　　　　　　　　　<hi>元</hi>貢師泰<lb/>
+太液池邉雪始乾曉粧初試珮珊珊簾鈎欲上東風細<lb/>
+猶夢珠宫扇影寒<lb/>
+　　　其二<lb/>
+十二瑶臺風露寒銀河淡淡月團團龍宫自與塵凡隔<lb/>
+别有銖衣白玉冠<lb/>
+<pb n="KR4h0141_WYG_360-5a"/>
+　　　　題虞瑞巖描水仙花　　　　<hi>元</hi>姚文奐<lb/>
+　離思如雲賦洛神花容婀娜玉生春凌波韈冷香魂逺<lb/>
+　環珮珊珊月色新<lb/>
+　　　　水仙花　　　　　　　　　<hi>元</hi>丁鶴年<lb/>
+　湘雲冉冉月依依翠袖霓裳作隊歸怪底香風吹不斷<lb/>
+　水晶宫裏宴江妃<lb/>
+　　　　其二<lb/>
+　影娥池上曉凉多羅韈生塵水不波一夜碧雲凝作夢<lb/>
+<pb n="KR4h0141_WYG_360-5b"/>
+　醒來無奈月明何<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選巻三百六十一<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

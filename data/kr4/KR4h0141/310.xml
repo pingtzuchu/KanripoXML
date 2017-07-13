@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_310-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選卷三百十<lb/>
+　　核桃類<lb/>
+　　　七言古<lb/>
+　　　　送鶴林長老胡桃一裹茶三角<lb/>
+　　　　　　　　　　　　　　　　<hi>元</hi>薩都拉<lb/>
+　胡桃殻堅乳肉肥香茶雀舌細葉竒枯腸無物不可用<lb/>
+　寄與說法談禪師竹龍吐雪澗水活茅屋煙炊樹雲薄<lb/>
+<pb n="KR4h0141_WYG_310-1b"/>
+　竹院深沈有客過碎桃點茶亦不惡<lb/>
+　　　七言律<lb/>
+　　　　胡桃　　　　　　　　　　<hi>宋</hi>楊萬里<lb/>
+　三韓萬里半天松方丈蓬萊東復東珠玉鎖成千嵗實<lb/>
+　氷霜吹落九秋風酒邉腷膞牙車響座上須臾㯃櫑空<lb/>
+　新果新嘗正新暑繡衣使者念山翁<lb/>
+　　　七言絶句<lb/>
+　　　　對客　　　　　　　　　　<hi>元</hi>薩都拉<lb/>
+<pb n="KR4h0141_WYG_310-2a"/>
+　石橊花開光照屋胡桃葉大陰滿簾焚香終日對客坐<lb/>
+　時有白雲來纖纖<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR4h0141_WYG_310-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選巻三百十<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

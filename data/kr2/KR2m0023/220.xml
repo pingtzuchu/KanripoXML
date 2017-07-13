@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>政和五禮新儀卷二百十四</head> <lb/>
+    <p>
+<pb n="KR2m0023_WYG_220-1a"/>
+欽定四庫全書<lb/>
+　政和五禮新儀卷二百十四<lb/>
+　　凶禮<lb/>
+　　　東宫妃為祖父母以下䘮舉哀儀<lb/>
+　　　東宫妃為祖父母䘮成服儀<lb/>
+　　　東宫妃為祖父母以下䘮舉哀儀<lb/>
+訃至擇日舉哀前一日所司於舉哀所設次周以簾帷<lb/>
+其日皇太子妃服常服就次侍衛如常至次南向坐俟<lb/>
+<pb n="KR2m0023_WYG_220-1b"/>
+時至釋常服服素服尚儀<hi>以内臣揖不同</hi>詣次前跪曰請皇太<lb/>
+子妃為外祖父某官封薨舉哀<hi>或稱卒外祖母曰外祖妣某人某氏餘皆依所</hi>
+<hi>稱</hi>言訖俛伏興又躬曰請舉哭皇太子妃舉哭十五音<lb/>
+又躬曰可止皇太子妃哭止尚儀退西向立賛者<hi>以内臣揖</hi>
+<hi>下同</hi>引東宫命婦詣次前奉慰訖皇太子妃釋素服服常<lb/>
+服還東宫如儀<lb/>
+　　　東宫妃為祖父母䘮成服儀<lb/>
+訃至擇日成服前一日所司於主人正寢東階下設皇<lb/>
+<pb n="KR2m0023_WYG_220-2a"/>
+太子妃次周以簾帷所司設東宫内命婦次其日皇<lb/>
+太子妃服常服侍衛如常至主人第廳前降車賛者前<lb/>
+引詣次西向坐俟時至皇太子妃釋常服服素服尚儀<lb/>
+詣次前跪曰請皇太子妃為祖父某官封薨成服<hi>或稱卒祖</hi>
+<hi>母曰祖妣某官某氏父母隨所稱</hi>言訖俛伏興又躬曰請舉哭皇太子<lb/>
+妃舉哭十五舉音又躬曰可止皇太子妃止哭尚儀退<lb/>
+西向立賛者引東宫内命婦奉慰訖皇太子妃釋素服<lb/>
+服常服還東宫如儀<lb/>
+<pb n="KR2m0023_WYG_220-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　政和五禮新儀卷二百十四<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3g0051_WYG_009-1a"/>
+欽定四庫全書<lb/>
+欽定協紀辨方書卷九<lb/>
+　　立成<lb/>
+神煞之所由起義例備矣然各為一篇不能一覽而盡<lb/>
+其條理且年神方位通書時憲書取用各有不同而月<lb/>
+家吉凶神又合建除叢辰諸家以輕重為次第則義例<lb/>
+猶未盡焉今将時憲書及月表所用吉凶神另編立成<lb/>
+入萬年書外而合通書萬年書嵗月日時吉凶神煞彚<lb/>
+<pb n="KR3g0051_WYG_009-1b"/>
+列成表各分起例以類相從庶其例益明而其義亦從<lb/>
+可知也作立成<lb/>
+<pb n="KR3g0051_WYG_009-2a"/>
+年神從嵗干起者<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3g0051_WYG_009-2b"/>
+年神從嵗干取納甲卦變者<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+年神隨嵗方順行者<lb/>
+<pb n="KR3g0051_WYG_009-3a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+年神隨歲支順行者<lb/>
+<pb n="KR3g0051_WYG_009-4a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+年神隨嵗支退行者<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3g0051_WYG_009-4b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+年神從嵗支三合者<lb/>
+<pb n="KR3g0051_WYG_009-5a"/>
+</p>
+<p>
+<pb n="KR3g0051_WYG_009-6a"/>
+　<lb/>
+年神隨嵗支順行一方者<lb/>
+　<lb/>
+　<lb/>
+年神從嵗支取納甲卦變者<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3g0051_WYG_009-6b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+年神從三元起者<lb/>
+<pb n="KR3g0051_WYG_009-7a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+年神從嵗納音起者<lb/>
+<pb n="KR3g0051_WYG_009-8a"/>
+　<lb/>
+　<lb/>
+月神從嵗干起者<lb/>
+<pb n="KR3g0051_WYG_009-9a"/>
+</p>
+<p>
+<pb n="KR3g0051_WYG_009-10a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+月神從三元起者<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3g0051_WYG_009-10b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+月神從嵗支起者<lb/>
+<pb n="KR3g0051_WYG_009-11a"/>
+</p>
+<p>
+<pb n="KR3g0051_WYG_009-12a"/>
+</p>
+<p>
+<pb n="KR3g0051_WYG_009-13a"/>
+</p>
+<p>
+<pb n="KR3g0051_WYG_009-14a"/>
+</p>
+<p>
+<pb n="KR3g0051_WYG_009-15a"/>
+</p>
+<p>
+<pb n="KR3g0051_WYG_009-16a"/>
+</p>
+<p>
+<pb n="KR3g0051_WYG_009-17a"/>
+月神從八節九宫順逆行者<lb/>
+<pb n="KR3g0051_WYG_009-18a"/>
+</p>
+<p>
+<pb n="KR3g0051_WYG_009-19a"/>
+</p>
+<p>
+<pb n="KR3g0051_WYG_009-20a"/>
+</p>
+<p>
+<pb n="KR3g0051_WYG_009-21a"/>
+</p>
+<p>
+<pb n="KR3g0051_WYG_009-22a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3g0051_WYG_009-22b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+月神取月建三合者<lb/>
+<pb n="KR3g0051_WYG_009-23a"/>
+</p>
+<p>
+<pb n="KR3g0051_WYG_009-24a"/>
+　<lb/>
+　<lb/>
+月神隨四序者<lb/>
+<pb n="KR3g0051_WYG_009-25a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3g0051_WYG_009-25b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+月神隨建旺取墓辰者<lb/>
+<pb n="KR3g0051_WYG_009-26a"/>
+　<lb/>
+　<lb/>
+月神隨月建三合逆行一方者<lb/>
+　<lb/>
+　<lb/>
+月神隨四序行三合者<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3g0051_WYG_009-26b"/>
+月神隨四時行三合納甲者<lb/>
+　<lb/>
+　<lb/>
+月神隨月建行納甲六辰者<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+月神隨月建逆行一方者<lb/>
+<pb n="KR3g0051_WYG_009-27a"/>
+　<lb/>
+　<lb/>
+月神隨月建三合順行一方者<lb/>
+　<lb/>
+　<lb/>
+月神隨孟仲季順行三支者<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3g0051_WYG_009-27b"/>
+月神隨月建隂陽順行六辰者<lb/>
+<pb n="KR3g0051_WYG_009-28a"/>
+　<lb/>
+月神隨月將逆行者<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3g0051_WYG_009-28b"/>
+　<lb/>
+　<lb/>
+月神隨月建行隂陽六辰者<lb/>
+<pb n="KR3g0051_WYG_009-29a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+月神取月建生比者<lb/>
+<pb n="KR3g0051_WYG_009-29b"/>
+　<lb/>
+　<lb/>
+月神從厭建起者<lb/>
+<pb n="KR3g0051_WYG_009-30a"/>
+</p>
+<p>
+<pb n="KR3g0051_WYG_009-31a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3g0051_WYG_009-31b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+日神取一定干支者<lb/>
+天恩　　　　　　甲子　乙丑　丙寅　丁夘　戊辰己夘庚辰<lb/>
+　　　　　　　　辛巳壬午　癸未　己酉　庚戌辛亥壬子<lb/>
+<pb n="KR3g0051_WYG_009-32a"/>
+　　　　　　　　癸丑<lb/>
+五合　　　　　　寅夘<lb/>
+除神<hi>五離</hi>　　　　申酉<lb/>
+鳴吠　　　　　　甲午　丙午　庚午　壬午　甲申　丙申　庚申<lb/>
+　　　　　　　　壬申　乙酉　丁酉　己酉　辛酉　癸酉<lb/>
+鳴吠對　　　　　丙子　庚子　壬子　甲寅　丙寅　庚寅　壬寅<lb/>
+　　　　　　　　乙夘　丁夘　辛夘　癸夘<lb/>
+寶日　　　　　　丁丑　丙戌　甲午　庚子　壬寅　癸夘　乙巳<lb/>
+<pb n="KR3g0051_WYG_009-32b"/>
+　　　　　　　　丁未　戊申　己酉　辛亥　丙辰<lb/>
+義日　　　　　　甲子　丙寅　丁夘　己巳　辛未　壬申　癸酉<lb/>
+　　　　　　　　乙亥　庚辰　辛丑　庚戌　戊午<lb/>
+制日　　　　　　乙丑　甲戌　壬午　戊子　庚寅　辛夘　癸巳<lb/>
+　　　　　　　　乙未　丙申　丁酉　己亥　甲辰<lb/>
+專日　　　　　　戊辰　己丑　戊戌　丙午　壬子　甲寅　乙夘<lb/>
+　　　　　　　　丁巳　己未　庚申　辛酉　癸亥<lb/>
+伐日　　　　　　庚午　丙子　戊寅　己夘　辛巳　癸未　甲申<lb/>
+　　　　　　　　乙酉　丁亥　壬辰　癸丑　壬戌<lb/>
+<pb n="KR3g0051_WYG_009-32b"/>
+八専　　　　　　甲寅　丁未　己未　庚申　癸丑<lb/>
+<pb n="KR3g0051_WYG_009-33a"/>
+觸水龍　　　　　丙子　癸未　癸丑<lb/>
+無禄　　　　　　甲辰　乙巳　丙申　丁亥　戊戌　己丑　庚辰<lb/>
+　　　　　　　　辛巳　壬申　癸亥<lb/>
+重日　　　　　　己亥<lb/>
+日神按年取干支者<lb/>
+上朔　　　　　　甲年癸亥　乙年己巳　丙年乙亥<lb/>
+　　　　　　　　丁年辛巳　戊年丁亥　己年癸巳<lb/>
+　　　　　　　　庚年己亥　辛年乙巳　壬年辛亥<lb/>
+<pb n="KR3g0051_WYG_009-33b"/>
+　　　　　　　　癸年丁巳<lb/>
+日神按月取日數者<lb/>
+長星　　　　　　正月<hi>七日</hi>　　二月<hi>四日/</hi>三月<hi>一日/</hi>　　　四月<hi>九日</hi>
+　　　　　　　　五月<hi>十五日</hi>　六月<hi>十日/</hi>七月<hi>八日/</hi>　　　八月<hi>二日五日</hi>
+　　　　　　　　九月<hi>三日四日</hi>　　十月<hi>一日/</hi>十一月<hi>十二日/</hi>　十二月<hi>九日</hi>
+短星　　　　　　正月<hi>二十一日</hi>二月<hi>十九日/</hi>三月<hi>十六日/</hi>　四月<hi>二十五日</hi>
+　　　　　　　　五月<hi>二十五日</hi>六月<hi>二十日/</hi>七月<hi>二十二日/</hi>八月<hi>十八日十九日</hi>
+　　　　　　　　九月<hi>十六日十七日</hi>十月<hi>十四日/</hi>十一月<hi>二十二日/</hi>十二月<hi>二十五日</hi>
+日神按月朔取日數者<lb/>
+<pb n="KR3g0051_WYG_009-33b"/>
+反支　　　　　　子丑朔<hi>六日</hi>　寅夘朔<hi>五日/</hi>　辰巳朔<hi>四日</hi>
+<pb n="KR3g0051_WYG_009-34a"/>
+　　　　　　　　午未朔<hi>三日</hi>申酉朔<hi>二日/</hi>戌亥朔<hi>一日</hi>
+日神按節氣取日數者<lb/>
+四離　　　　　　冬至　夏至　春分　秋分　各前一日<lb/>
+四絶　　　　　　立春　立夏　立秋　立冬　各前一日<lb/>
+氣往亡　　　　　立春後<hi>七日</hi>　驚蟄後<hi>十四日/</hi>清明後<hi>二十一日</hi>
+　　　　　　　　立夏後<hi>八日</hi>　芒種後<hi>十六日/</hi>小暑後<hi>二十四日</hi>
+　　　　　　　　立秋後<hi>九日</hi>　白露後<hi>十八日/</hi>寒露後<hi>二十七日</hi>
+　　　　　　　　立冬後<hi>十日</hi>　大雪後<hi>二十日/</hi>小雪後<hi>三十日</hi>
+<pb n="KR3g0051_WYG_009-34b"/>
+時神從日干起者<lb/>
+　　　　　　日干<lb/>
+日禄<lb/>
+天乙貴人<lb/>
+喜神<lb/>
+天官貴人<lb/>
+福星貴人<lb/>
+五不遇時<lb/>
+路空<lb/>
+<pb n="KR3g0051_WYG_009-34b"/>
+時神從日支起者<lb/>
+<pb n="KR3g0051_WYG_009-35a"/>
+　　　　　　日支<lb/>
+日建<lb/>
+日合<lb/>
+日馬<lb/>
+日破<lb/>
+日害<lb/>
+日刑<lb/>
+青龍<lb/>
+<pb n="KR3g0051_WYG_009-35b"/>
+明堂<lb/>
+　　　　　　日支<lb/>
+天刑<lb/>
+朱雀<lb/>
+金匱<lb/>
+寶光<lb/>
+白虎<lb/>
+玉堂<lb/>
+天牢<lb/>
+<pb n="KR3g0051_WYG_009-35b"/>
+元武<lb/>
+<pb n="KR3g0051_WYG_009-36a"/>
+司命<lb/>
+勾陳<lb/>
+時神隨月將者<lb/>
+　<lb/>
+四大吉時<lb/>
+時神隨月將及日干支者<lb/>
+貴登天門時<lb/>
+　　　　　甲日<hi>旦夕</hi>
+<pb n="KR3g0051_WYG_009-36b"/>
+　　　　　乙日<hi>旦夕</hi>
+　　　　　丙日<hi>旦夕</hi>
+　　　　　丁日<hi>旦夕</hi>
+　　　　　戊庚日<hi>旦夕</hi>
+　　　　　己日<hi>旦夕</hi>
+　　　　　辛日<hi>旦夕</hi>
+　　　　　壬日<hi>旦夕</hi>
+　　　　　癸日<hi>旦夕</hi>
+九醜<lb/>
+<pb n="KR3g0051_WYG_009-36b"/>
+　　　　　戊子日<lb/>
+<pb n="KR3g0051_WYG_009-37a"/>
+　　　　　戊午日<lb/>
+　　　　　壬子日<lb/>
+　　　　　壬午日<lb/>
+　　　　　乙夘日<lb/>
+　　　　　己夘日<lb/>
+　　　　　辛夘日<lb/>
+　　　　　乙酉日<lb/>
+　　　　　己酉日<lb/>
+<pb n="KR3g0051_WYG_009-37b"/>
+　　　　　辛酉日<lb/>
+時神隨日六旬者<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+欽定協紀辨方書卷九<lb/>
+<pb n="KR3g0051_WYG_009-38a"/>
+　　　　　戊午日<lb/>
+　　　　　壬子日<lb/>
+　　　　　壬午日<lb/>
+　　　　　乙夘日<lb/>
+　　　　　己夘日<lb/>
+　　　　　辛夘日<lb/>
+　　　　　乙酉日<lb/>
+　　　　　己酉日<lb/>
+<pb n="KR3g0051_WYG_009-38b"/>
+　　　　　辛酉日<lb/>
+時神隨日六旬者<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+欽定協紀辨方書卷九<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

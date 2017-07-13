@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>六家詩名物疏提要中</head> <lb/>
+    <p>
+<pb n="1a"/>
+欽定四庫全書<lb/>
+　六家詩名物疏提要中<lb/>
+　　釋飲食<lb/>
+　　　酒<hi>邶柏舟篇</hi>　　　食<hi>王丘中有麻篇</hi>
+　　　粲<hi>鄭緇衣篇</hi>　　　飱<hi>魏伐檀篇</hi>
+　　　盬<hi>唐鴇羽篇</hi>　　　饁<hi>豳七月篇</hi>
+　　　春酒<hi>七月篇</hi>　　　餱<hi>小稚鹿鳴什伐木篇</hi>
+　　　酤<hi>伐木篇</hi>　　　　饎<hi>天保篇</hi>
+<pb n="1b"/>
+　　　飲<hi>天保篇</hi>　　　　膾<hi>南有嘉魚什六月篇</hi>
+　　　醴<hi>吉日篇</hi>　　　　饔<hi>鴻㕍什祈父篇</hi>
+　　　殽<hi>節南山什正月篇</hi>漿<hi>谷風什大東篇</hi>
+　　　燔<hi>楚茨篇</hi>　　　　炙<hi>楚茨篇</hi>
+　　　清酒<hi>信南山篇鬯𤣥酒  鬱</hi>　<hi>五齊三酒</hi>
+　　　菹<hi>信南山篇</hi>　　　齊<hi>甫田什甫田篇</hi>
+　　　核<hi>賔之初筵篇</hi>　　飴<hi>大雅文王什緜篇</hi>
+　　　清酒<hi>旱麓篇</hi>　　　醓醢<hi>生民什行葦篇</hi>
+<pb n="2a"/>
+　　　脾<hi>行葦篇</hi>　　　　　臄<hi>行葦篇</hi>
+　　　脯<hi>鳬鷖篇</hi>　　　　　積<hi>公劉篇</hi>
+　　　餴<hi>泂酌篇</hi>　　　　　羮<hi>蕩什蕩篇</hi>
+　　　毛炰<hi>魯頌閟官篇</hi>　　胾<hi>閟宫篇</hi>
+　　釋服飾<lb/>
+　　　私<hi>周南葛覃篇</hi>　　　衣<hi>葛覃篇服也王后六</hi>
+　　　被<hi>召南采蘩篇</hi>　　　衾<hi>小星篇</hi>
+　　　裯<hi>小星篇</hi>　　　　　帨<hi>野有死麕篇</hi>
+<pb n="2b"/>
+　　　裏<hi>邶緑衣篇</hi>　　　　裳<hi>緑衣篇</hi>
+　　　裘<hi>旄丘篇</hi>　　　　　充耳<hi>旄丘篇</hi>
+　　　髦<hi>鄘柏舟篇</hi>　　　　副<hi>君子偕老篇</hi>
+　　　笄<hi>君子偕老篇</hi>　　　珈<hi>君子偕老篇</hi>
+　　　翟<hi>君子偕老篇</hi>
+　　　瑱<hi>君子偕老篇</hi>　<hi>詳見邶充耳</hi>
+　　　揥<hi>君子偕老篇</hi>　　　展<hi>君子偕老篇</hi>
+　　　弁<hi>衛淇奥篇</hi>　<hi>皮弁也</hi>
+<pb n="3a"/>
+　　　褧衣<hi>碩人篇</hi>　　　　緫角<hi>氓篇</hi>
+　　　佩<hi>竹竿篇</hi>　　　　　帶<hi>芄蘭篇</hi>
+　　　琚<hi>木𤓰篇</hi>　　　　　毳衣<hi>王大車篇</hi>
+　　　緇衣<hi>鄭緇衣篇</hi>　　　豹飾<hi>羔裘篇</hi>
+　　　袪<hi>遵大路篇</hi>　　　　衿<hi>子衿篇</hi>
+　　　巾<hi>出其東門篇</hi>　　　屨<hi>齊南山篇</hi>
+　　　冠<hi>南山篇</hi>　　　　　緌<hi>南山篇</hi>
+　　　弁<hi>甫田篇</hi>　<hi>韋弁爵弁</hi>
+<pb n="3b"/>
+　　　要<hi>魏葛屨篇</hi>　　　　□<hi>葛屨篇</hi>
+　　　素<hi>唐揚之水篇</hi>　　　朱襮<hi>揚之水篇</hi>
+　　　褎<hi>唐羔裘篇</hi>　　　　七衣<hi>無衣篇</hi>
+　　　六衣<hi>無衣篇</hi>　　　　錦衣狐裘<hi>秦終南篇</hi>
+　　　黻衣<hi>終南篇</hi>　　　　袍<hi>無衣篇</hi>
+　　　澤<hi>無衣篇</hi>　　　　　狐裘<hi>檜羔裘篇黄衣狐篇</hi>
+　　　素冠<hi>素冠篇</hi>　　　　素衣<hi>素冠篇</hi>
+　　　素韠<hi>素冠篇</hi>　　　　韠<hi>素冠篇</hi>
+<pb n="4a"/>
+　　　麻衣<hi>曺蜉蝣篇</hi>　　　赤芾<hi>候人篇</hi>
+　　　騏弁<hi>鳲鳩篇</hi>　　　　裳衣<hi>豳東山篇韋弁服</hi>
+　　　縭<hi>東山篇</hi>　　　　　衮衣<hi>九罭篇</hi>
+　　　赤舄<hi>狼䟦篇</hi>
+　　　命服<hi>小雅南有嘉魚什采芑篇</hi>
+　　　葱珩<hi>采芑篇</hi>　　　　金舄<hi>車攻篇</hi>
+　　　裼<hi>鴻雁什斯干篇</hi>　　蓑<hi>無羊篇</hi>
+　　　笠<hi>無羊篇</hi>　　　　　熊羆裘<hi>谷風什大東篇</hi>
+<pb n="4b"/>
+　　　韎韐<hi>甫田什瞻彼洛矣篇</hi>
+　　　黼<hi>魚藻什采芑篇</hi>　　邪幅<hi>采菽篇</hi>
+　　　緇撮<hi>都人士篇</hi>　　　厲<hi>都人士篇</hi>
+　　　襜<hi>采緑篇</hi>　　　　　冔<hi>大雅文王什文王篇</hi>
+　　　絲衣<hi>周頌閔予小子什絲衣篇</hi>
+　　釋室<lb/>
+　　　室家<hi>周南桃夭篇</hi>　　城<hi>免罝篇</hi>
+　　　宫<hi>召南采蘩篇</hi>　<hi>廟也</hi>
+<pb n="5a"/>
+　　　牖<hi>采蘋篇</hi>　　　　　屋<hi>行露篇</hi>
+　　　獄<hi>行露篇</hi>　　　　　墉<hi>行露篇</hi>
+　　　畿<hi>邶谷風篇</hi>　　　　庭<hi>簡兮篇</hi>
+　　　門<hi>北門篇</hi>　　　　　新臺<hi>新臺篇</hi>
+　　　臺<hi>新臺篇</hi>　　　　　牆<hi>鄘牆有茨篇</hi>
+　　　中冓<hi>牆有茨篇</hi>　　　宫<hi>定之方中篇</hi>
+　　　朝<hi>衛碩人篇</hi>　　　　垝垣<hi>氓篇</hi>
+　　　背<hi>伯兮篇</hi>　　　　　塒<hi>王君子于役篇</hi>
+<pb n="5b"/>
+　　　桀<hi>君子于役篇</hi>　　　房<hi>君子陽陽篇</hi>
+　　　館<hi>鄭緇衣篇</hi>　　　　園<hi>將仲子篇</hi>
+　　　堂<hi>丰篇</hi>　<hi>附棖/</hi>　　　闕<hi>子衿篇</hi>
+　　　闉<hi>出其東門篇</hi>　　　闍<hi>出其東方篇</hi>
+　　　著<hi>齊著篇</hi>　　　　　闥<hi>東方之日篇</hi>
+　　　樊<hi>東方未明篇</hi>　　　圃<hi>東方未明篇</hi>
+　　　㕓<hi>魏伐檀篇</hi>　　　　囷<hi>伐檀篇</hi>
+　　　廷内<hi>唐山有樞篇</hi>　　隅<hi>唐綢繆篇</hi>
+<pb n="6a"/>
+　　　戶<hi>綢繆篇</hi>　　　　　梁<hi>秦小戎篇</hi>
+　　　板屋<hi>小戎篇</hi>　　　　夏屋<hi>權輿篇</hi>
+　　　市<hi>陳東門之枌篇</hi>　　衡門<hi>衡門篇</hi>
+　　　中唐<hi>防有鵲巢篇</hi>
+　　　堂<hi>檜羔裘篇</hi>　<hi>路寢之堂</hi>
+　　　宇<hi>豳七月篇</hi>　　　　向<hi>七月篇</hi>
+　　　凌隂<hi>七月篇</hi>
+　　　公堂<hi>七月篇</hi>　<hi>黨序/</hi>　<hi>大學</hi>
+<pb n="6b"/>
+　　　宗<hi>南有嘉魚什湛露篇</hi>　<hi>路寢/</hi>　　<hi>詳見斯千</hi>
+　　　庖<hi>車攻篇</hi>　　　　　堵<hi>鴻㕍什鴻㕍篇</hi>
+　　　宅<hi>鴻㕍篇</hi>　　　　　楹<hi>斯干篇</hi>
+　　　正<hi>斯干篇</hi>　　　　　冥<hi>斯干篇</hi>
+　　　寢<hi>斯干篇</hi>　　　　　岸<hi>節南山什小宛篇</hi>
+　　　寢<hi>巧言篇</hi>　<hi>廟寢/</hi>　　階<hi>巧言篇</hi>
+　　　楊園<hi>巷伯篇</hi>　　　　倉<hi>谷風什楚茨篇</hi>
+　　　庾<hi>楚茨篇</hi>　　　　　祊<hi>楚茨篇</hi>
+<pb n="7a"/>
+　　　㸑<hi>楚茨篇</hi>　　　　　廬<hi>信南山篇</hi>
+　　　茨<hi>甫田什甫田篇</hi>　　屏<hi>桑扈篇</hi>
+　　　翰<hi>桑扈篇</hi>　　　　　廐<hi>鴛鴦篇</hi>
+　　　陶復<hi>大雅文王什緜篇</hi>
+　　　穴<hi>緜篇</hi>　　　　　　臯門應門<hi>緜篇</hi>
+　　　冢土<hi>緜篇</hi>　　　　　靈臺<hi>靈臺篇</hi>
+　　　囿<hi>靈臺篇</hi>　　　　　辟雝<hi>靈臺篇</hi>
+　　　壼<hi>生民什旣醉篇</hi>　　廬<hi>公劉篇</hi>
+<pb n="7b"/>
+　　　屋漏<hi>蕩什抑篇</hi>　　　繹<hi>常武篇/</hi>　<hi>驛也</hi>
+　　　廩<hi>周頌臣工什豐年篇</hi>
+　　　百室<hi>閔予小子什良耜篇</hi>
+　　　基<hi>絲衣篇</hi>　　　　　泮水<hi>魯頌泮水篇</hi>
+　　　桷<hi>閟宫篇</hi>
+　　釋器<lb/>
+　　　筐<hi>周南卷耳篇</hi>　　　罍<hi>卷耳篇</hi>
+　　　觥<hi>卷耳篇</hi>　　　　　罝<hi>兔罝篇</hi>
+<pb n="8a"/>
+　　　筥<hi>召南采蘋篇</hi>　　　錡<hi>采蘋篇</hi>
+　　　釡<hi>采蘋篇</hi>　　　　　鑒<hi>邶柏舟篇</hi>
+　　　□<hi>柏舟篇</hi>　　　　　笱<hi>谷風篇</hi>
+　　　爵<hi>簡兮篇</hi>　　　　　彤管<hi>静女篇</hi>
+　　　網<hi>新臺篇</hi>　　　　　簀<hi>衛淇奥篇</hi>
+　　　槃<hi>考槃篇</hi>　　　　　罛<hi>碩人篇</hi>
+　　　觽<hi>芄蘭篇</hi>　　　　　羅<hi>王兎爰篇</hi>
+　　　罦罿<hi>兔爰篇</hi>　　　　升<hi>唐椒聊篇</hi>
+<pb n="8b"/>
+　　　匊<hi>椒聊篇</hi>　　　　　枕<hi>葛生篇</hi>
+　　　簋<hi>權輿篇</hi>　　　　　鬵<hi>檜匪風篇</hi>
+　　　耜<hi>豳七月篇</hi>　　　　牀<hi>七月篇</hi>
+　　　籩<hi>伐柯篇</hi>　　　　　豆<hi>伐柯篇</hi>
+　　　九罭<hi>九罭篇</hi>　　　　罶<hi>小雅鹿鳴什魚麗篇</hi>
+　　　罩<hi>南有嘉魚什南有嘉魚篇</hi>
+　　　汕<hi>南有嘉魚篇</hi>　　　簟<hi>鴻㕍什斯干篇</hi>
+　　　缾<hi>谷風什蓼莪篇</hi>　　匕<hi>大東篇</hi>
+<pb n="9a"/>
+　　　杼<hi>大東篇</hi>　　　　　柚<hi>大東篇</hi>
+　　　罟<hi>小明篇</hi>　　　　　俎<hi>楚茨篇</hi>
+　　　畢<hi>甫田什鴛鴦篇</hi>　　筵<hi>賔之初筵篇</hi>
+　　　煁<hi>魚藻什白華篇</hi>　　石<hi>白華篇/</hi>　<hi>乘石</hi>
+　　　綱紀<hi>大雅文王什棫樸篇</hi>
+　　　瓉<hi>旱麓篇</hi>　　　　　登<hi>生民什生民篇</hi>
+　　　几<hi>行葦篇</hi>　　　　　斝<hi>行葦篇</hi>
+　　　大斗<hi>行葦篇</hi>　　　　槖囊<hi>公劉篇</hi>
+<pb n="9b"/>
+　　　依<hi>公劉篇</hi>　　　　　匏<hi>公劉篇</hi>
+　　　壺<hi>蕩什韓弈篇</hi>　　　卣<hi>江漢篇</hi>
+　　　錢<hi>周頌臣工什臣工篇</hi>
+　　　鏄<hi>臣工篇</hi>　　　　　銍<hi>臣工篇</hi>
+　　　櫛<hi>閔予小子什良耜篇</hi>
+　　　鼐鼎鼒<hi>絲衣篇</hi>　　　犧尊<hi>魯頌閟宫篇</hi>
+　　　大房<hi>閟宫篇</hi>　　　　尋尺<hi>閟宫篇</hi>
+　　　䖍<hi>商頌殷武篇</hi>　<hi>椹也</hi>
+<pb n="10a"/>
+　　釋布帛<lb/>
+　　　絺綌<hi>周南葛覃篇</hi>　　絲<hi>召南羔羊篇</hi>
+　　　紽緎緫<hi>羔羊篇</hi>　　　組<hi>邶簡兮篇</hi>
+　　　錦<hi>衛碩人篇</hi>　　　　布<hi>氓篇</hi>
+　　　縞<hi>鄭出其東門篇</hi>　　素<hi>唐揚之水篇</hi>
+　　　繡<hi>揚之水篇</hi>　<hi>附綃/</hi>　鬷<hi>陳東門之枌篇</hi>
+　　　褐<hi>豳七月篇</hi>
+　　　白<hi>小雅南有嘉魚什六月篇</hi>　<hi>帛也</hi>
+<pb n="10b"/>
+　　　綅<hi>魯頌閟宫篇</hi>
+　　釋寳玉<lb/>
+　　　金<hi>周南巻耳篇</hi>　　　玉<hi>召南野有死麕篇</hi>
+　　　琇瑩<hi>衛淇奥篇</hi>　　　錫<hi>淇奥篇</hi>
+　　　圭<hi>淇奥篇</hi>　　　　　璧<hi>淇奥篇</hi>
+　　　遂<hi>芄蘭篇</hi>　<hi>佩璲也/</hi>　瓊<hi>木𤓰篇</hi>
+　　　瑶<hi>木𤓰篇</hi>　　　　　玖<hi>木𤓰篇</hi>
+　　　璊<hi>王大車篇</hi>　　　　瓊華瓊瑩瓊英<hi>齊著篇</hi>
+<pb n="11a"/>
+　　　瑰<hi>秦渭陽篇</hi>
+　　　百朋<hi>小雅南有嘉魚什菁莪篇</hi>
+　　　璋<hi>斯干篇</hi>　　　　　璲<hi>谷風什大東篇</hi>
+　　　鍜<hi>大雅生民什公劉篇</hi>
+　　　介圭<hi>蕩什崧髙篇</hi>　　琛<hi>魯頌泮水篇</hi>
+　　　球<hi>商頌長發篇</hi>　<hi>鎮圭/</hi>　<hi>大圭/</hi>　<hi>贄玉</hi>
+　　　共<hi>長發篇</hi>
+　　釋禮<lb/>
+<pb n="11b"/>
+　　　歸寕<hi>周南葛覃篇</hi>　　歸<hi>周南桃夭篇</hi>
+　　　在公<hi>召南小星篇</hi>　　喪<hi>邶谷風篇</hi>
+　　　方<hi>簡兮篇</hi>　<hi>祭山川也</hi>
+　　　錫爵<hi>簡兮篇</hi>　　　　飲餞<hi>泉水篇</hi>
+　　　揆日<hi>鄘定之方中篇</hi>　禮<hi>相䑕篇</hi>
+　　　唁<hi>載馳篇</hi>　　　　　洒掃<hi>魏山有樞篇</hi>
+　　　獻羔<hi>豳七月篇</hi>
+　　　饗<hi>七月篇</hi>　　<hi>黨正飲酒/</hi>　<hi>大飲烝</hi>
+<pb n="12a"/>
+　　　承筐<hi>小雅鹿鳴什鹿鳴篇</hi>
+　　　燕<hi>鹿鳴篇</hi>　　　　　飫<hi>常棣篇</hi>
+　　　陳饋<hi>伐木篇</hi>　　　　吉<hi>天保篇</hi>
+　　　蠲<hi>天保篇</hi>　　　　　禴祠烝嘗<hi>天保篇</hi>
+　　　夜飲<hi>南有嘉魚什湛露篇</hi>
+　　　饗<hi>彤弓篇</hi>　　　　　右<hi>彤弓篇</hi>
+　　　酬<hi>彤弓篇</hi>　　　　　會<hi>車攻篇</hi>
+　　　同<hi>車攻篇</hi>　　　　　禱<hi>吉日篇</hi>
+<pb n="12b"/>
+　　　朝<hi>鴻㕍什沔水篇</hi>　　宗<hi>沔水篇</hi>
+　　　明<hi>黄鳥篇</hi>　　<hi>盟也/</hi>　詛<hi>節南山什何人斯篇</hi>
+　　　享祀<hi>谷風什楚茨篇</hi>　妥<hi>楚茨篇</hi>
+　　　侑<hi>楚茨篇</hi>　　　　　絜牛羊<hi>楚茨篇</hi>
+　　　剥<hi>楚茨篇</hi>　　　　　亨<hi>楚茨篇</hi>
+　　　肆<hi>楚茨篇</hi>　　　　　將<hi>楚茨篇</hi>
+　　　祭<hi>楚茨篇</hi>　　　　　神保<hi>楚茨篇</hi>
+　　　獻酬交錯<hi>楚茨篇</hi>　　祝告<hi>楚茨篇</hi>
+<pb n="13a"/>
+　　　孝孫徂位<hi>楚茨篇</hi>　　送尸<hi>楚茨篇</hi>
+　　　徹<hi>楚茨篇</hi>　　　　　燕私<hi>楚茨篇</hi>
+　　　稽首<hi>楚茨篇</hi>　　　　啓毛取血膋<hi>信南山篇</hi>
+　　　社<hi>甫田什甫田篇</hi>　　方<hi>甫田篇</hi>
+　　　農夫慶<hi>甫田篇</hi>　<hi>蜡也</hi>
+　　　射<hi>賔之初筵篇</hi>　<hi>互見鄭大叔于田篇</hi>
+　　　子孫奏能<hi>賔之初筵篇</hi>
+　　　室人<hi>賔之初筵篇</hi>
+<pb n="13b"/>
+　　　祼將<hi>大雅文王什文王篇</hi>
+　　　嘉<hi>大明篇</hi>　　　　　文定厥祥<hi>大明篇</hi>
+　　　親迎<hi>大明篇</hi>　　　　造舟<hi>大明篇</hi>
+　　　問<hi>緜篇</hi>　　　　　　槱<hi>棫樸篇</hi>
+　　　在宫<hi>思齊篇</hi>　<hi>養老之禮</hi>
+　　　類<hi>皇矣篇</hi>　　　　　禡<hi>皇矣篇</hi>
+　　　禋祀<hi>生民什生民篇</hi>　<hi>郊禖</hi>
+　　　肇祀<hi>生民篇</hi>　　　　惟<hi>生民篇</hi>
+<pb n="14a"/>
+　　　軷<hi>生民篇</hi>　　　　　洗爵奠斝<hi>行葦篇</hi>
+　　　序賓<hi>行葦篇</hi>　　　　孝子<hi>既醉篇/</hi>　<hi>舉奠</hi>
+　　　公尸<hi>鳬鷖篇</hi>　<hi>繹祭尸/</hi>　<hi>二丘尸/</hi>　　<hi>七祀尸</hi>
+　　　徹<hi>公劉篇</hi>　　　　　郊<hi>蕩什雲漢篇</hi>
+　　　奠瘞<hi>雲漢篇</hi>　　　　宗<hi>雲漢篇</hi>
+　　　祈年<hi>雲漢篇</hi>　<hi>祈穀/</hi>　<hi>祈來年</hi>
+　　　受命<hi>韓弈篇</hi>　　　　覲<hi>韓弈篇</hi>
+　　　入覲<hi>韓弈篇</hi>　　　　贈<hi>韓弈篇</hi>
+<pb n="14b"/>
+　　　顯相<hi>周頌清廟什清廟篇</hi>
+　　　將享<hi>我將篇</hi>　<hi>明堂/</hi>　時邁<hi>時邁篇</hi>
+　　　祀<hi>臣工什雝篇</hi>　<hi>禘祫</hi>
+　　　飲酒<hi>魯頌泮水篇</hi>　　獻馘獻囚<hi>泮水篇</hi>
+　　　共<hi>商頌長發篇</hi>　　　享<hi>殷武篇</hi>
+　　　王<hi>殷武篇</hi>
+　　釋樂<lb/>
+　　　琴<hi>周南關雎篇</hi>　　　瑟<hi>關雎篇</hi>
+<pb n="15a"/>
+　　　鐘<hi>關雎篇</hi>　<hi>互見小雅鼓鐘篇磬</hi>
+　　　鼓<hi>關雎篇</hi>　　　　　歌<hi>召南江有汜篇</hi>
+　　　萬<hi>邶簡兮篇</hi>　　　　舞<hi>簡兮篇</hi>
+　　　籥<hi>簡兮篇</hi>　　　　　簧<hi>王君子陽陽篇笙也</hi>
+　　　翿<hi>君子陽陽篇</hi>　　　敖<hi>君子陽陽篇</hi>
+　　　謡<hi>魏園有桃篇</hi>　　　缶<hi>陳宛丘篇</hi>
+　　　笙<hi>小雅鹿鳴什鹿鳴篇</hi>
+　　　壎<hi>節南山什何人斯篇</hi>
+<pb n="15b"/>
+　　　篪<hi>何人斯篇</hi>　　　　鼛<hi>谷風什鼓鍾篇</hi>
+　　　笙磬<hi>鼓鐘篇</hi>　　　　音<hi>鼓鐘篇</hi>
+　　　雅<hi>鼓鐘篇</hi>　　　　　南<hi>鼓鐘篇</hi>
+　　　樂<hi>楚茨篇</hi>
+　　　鼓<hi>甫田什甫田篇</hi>　<hi>土鼓</hi>
+　　　簴業<hi>大雅文王什靈臺篇</hi>
+　　　賁<hi>靈臺篇</hi>　　　　　鏞<hi>靈臺篇</hi>
+　　　矇瞍<hi>靈臺篇</hi>　　　　咢<hi>生民什行葦篇</hi>
+<pb n="16a"/>
+　　　夏<hi>周頌清廟什時邁篇</hi>
+　　　筦<hi>執競篇</hi>　　　　　應<hi>臣工什有瞽篇</hi>
+　　　田<hi>有瞽篇</hi>　　　　　縣鼓<hi>有瞽篇</hi>
+　　　鞉<hi>有瞽篇</hi>　　　　　柷<hi>有鼓篇</hi>
+　　　圉<hi>有瞽篇</hi>　　　　　簫<hi>有瞽篇</hi>
+　　　置<hi>商頌那篇</hi>　　　　磬<hi>那篇/</hi>　<hi>玉磬</hi>
+　　釋兵<hi>附射器</hi>
+　　　干<hi>周南兔罝篇</hi>　<hi>盾也</hi>
+<pb n="16b"/>
+　　　鼓<hi>邶擊鼓篇</hi>　<hi>兵鼓/</hi>　兵<hi>擊鼔篇</hi>
+　　　干<hi>鄘干旄篇</hi>　<hi>旗竿/</hi>　旄<hi>干旄篇</hi>
+　　　旟<hi>干旄篇</hi>　　　　　旌<hi>干旄篇</hi>
+　　　容<hi>衛芄蘭篇</hi>　<hi>容刀/</hi>　韘<hi>芄蘭篇/</hi>　<hi>决/</hi>　<hi>沓</hi>
+　　　殳<hi>伯兮篇</hi>　　　　　田<hi>鄭叔于田篇</hi>
+　　　狩<hi>叔于田篇</hi>　　　　掤<hi>大叔于田篇</hi>
+　　　鬯<hi>大叔于田篇</hi>　　　弓<hi>大叔于田篇</hi>
+　　　介<hi>清人篇</hi>　　　　　矛<hi>清人篇</hi>
+<pb n="17a"/>
+　　　英<hi>清人篇</hi>　　　　　喬<hi>清人篇</hi>
+　　　中軍<hi>清人篇</hi>　　　　斧<hi>齊南山篇</hi>
+　　　侯<hi>猗嗟篇</hi>　　　　　正<hi>猗嗟篇</hi>
+　　　矢<hi>猗嗟篇</hi>　　　　　獵<hi>魏伐檀篇</hi>
+　　　拔<hi>秦駟驖篇</hi>　　　　厹矛<hi>小戎篇</hi>
+　　　錞<hi>小戎篇</hi>　　　　　伐<hi>小戎篇</hi>
+　　　閉<hi>小戎篇</hi>　　　　　師<hi>無衣篇</hi>
+　　　戈<hi>無衣篇</hi>　　　　　㦸<hi>無衣篇</hi>
+<pb n="17b"/>
+　　　祋<hi>曹候人篇</hi>　　　　斨<hi>豳七月篇</hi>
+　　　行<hi>東山篇</hi>　　　　　枚<hi>東山篇</hi>
+　　　錡<hi>破斧篇</hi>　　　　　銶<hi>破斧篇</hi>
+　　　柯<hi>伐柯篇</hi>　　　　　弭<hi>小雅鹿鳴什采薇篇</hi>
+　　　服<hi>采薇篇</hi>　　　　　旐<hi>出車篇</hi>
+　　　旂<hi>出車篇</hi>
+　　　彤弓<hi>南有嘉魚什彤弓篇</hi>
+　　　常<hi>六月篇</hi>　　　　　織文<hi>六月篇</hi>
+<pb n="18a"/>
+　　　白斾<hi>六月篇</hi>　　　　鉦<hi>采芑篇</hi>
+　　　旅<hi>采芑篇</hi>　　　　　振旅<hi>采芑篇</hi>
+　　　征伐<hi>采芑篇</hi>　　　　苗<hi>車攻篇</hi>
+　　　拾<hi>車攻篇</hi>　　　　　射夫<hi>車攻篇</hi>
+　　　徒<hi>車政篇</hi>　<hi>輦者/</hi>　　棘<hi>鴻㕍什斯干篇</hi>
+　　　鸞刀<hi>谷風什信南山篇</hi>
+　　　六師<hi>甫田什瞻彼洛矣篇</hi>
+　　　鞞<hi>瞻彼洛矣篇</hi>　　　琫珌<hi>瞻彼洛矣篇</hi>
+<pb n="18b"/>
+　　　的<hi>賔之初筵篇</hi>
+　　　敦弓<hi>大雅生民什行葦篇</hi>
+　　　鍭<hi>行葦篇</hi>　　　　　戚<hi>公劉篇</hi>
+　　　揚<hi>公劉篇</hi>　　　　　綏章<hi>蕩什韓奕篇</hi>
+　　　櫜<hi>周頌清廟什時邁篇</hi>
+　　　鈴<hi>臣工什載見篇</hi>　　胄<hi>魯頌閟宫篇</hi>
+　　　旒<hi>商頌長發篇</hi>
+　六家詩名物疏提要中<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>虚齋集</head>
+    <p>
+<pb n="KR4e0137_WYG_000-1a"/>
+欽定四庫全書　　　　集部六<lb/>
+　虚齋集　　　　　　　别集類五<hi>明</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案虚齋集五巻眀蔡清撰清字介夫<lb/>
+　　　　晉江人成化甲辰進士官至江西提舉副使<lb/>
+　　　　以守正忤寜王宸濠将中以罪謝病歸越數<lb/>
+　　　　月起為南京國子監祭酒未及上而卒萬厯<lb/>
+　　　　中賜謚文荘事蹟具眀史儒林傳清初學主<lb/>
+<pb n="KR4e0137_WYG_000-1b"/>
+　　　　於静後主於虚謂天下之理以虚而入亦以<lb/>
+　　　　虚而應故自號虚齋成化間士大夫多空談<lb/>
+　　　　理學惟清䔍實力行能不為訓詁支離所域<lb/>
+　　　　所著易蒙引四書蒙引諸書皆别著録眀史<lb/>
+　　　　藝文志載清所著虚齋文集五巻與此本合<lb/>
+　　　　清為學以窮理為主平生篤守朱子之説其<lb/>
+　　　　讀蜀阜存稿私計中謂朱陸俱宗孔孟而門<lb/>
+　　　　戸不同然陸學未盡符於大中至正之矩不<lb/>
+<pb n="KR4e0137_WYG_000-2a"/>
+　　　　免為偏安之業其宗㫖所在可以槩見及其<lb/>
+　　　　釋周易時於朱子之解意有未安者又多所<lb/>
+　　　　異同不為苟合是其識解通逹與諸儒之膠<lb/>
+　　　　固執滯者不同故其文章亦純厚朴質言皆<lb/>
+　　　　有物雖不以藻彩見長而布帛菽粟之言殊<lb/>
+　　　　非雕文刻鏤者所可㡬及至本傳稱清在吏<lb/>
+　　　　部因王恕訪以時事清上二札一請振紀綱<lb/>
+　　　　一薦劉大夏等三十餘人恕皆納用檢其文<lb/>
+<pb n="KR4e0137_WYG_000-2b"/>
+　　　　並不見集中盖編輯時巳有遺佚而今不可<lb/>
+　　　　考矣乾隆四十二年五月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="KR4e0137_WYG_000-3a"/>
+虚齋集原序<lb/>
+温陵蔡介夫虚齋飾躬砥行動凖古人其學以六經為<lb/>
+正宗四書為嫡傳四儒為真𣲖平生精力盡用之易四<lb/>
+書蒙引之間闡發幽秘梓學宫而行天下其於易深矣<lb/>
+究性命之原通幽微之故真有以見夫天下之賾象其<lb/>
+物宜天下之動通其典禮四方學士師宗之曰虚齋説<lb/>
+也守毋變扶衰振落温陵造就可謂易學一時矣經義<lb/>
+趣深理到論䇿諸作暢達疏爽詩文别出體格掖人心<lb/>
+<pb n="KR4e0137_WYG_000-3b"/>
+而繫名教卒澤於仁義道徳粹如也貞剛善晦而亦間<lb/>
+取夫名者之忌在禮曹三原王端毅公引入為吏曹竟<lb/>
+復為禮曹乞南又乞告特起按察副使督學江西寧庶<lb/>
+人仇予因仇介夫介夫引而去逆瑾亂政起祭酒以鎮<lb/>
+壓人望而介夫先沒矣嗚呼介夫之不為鼂錯龜山非<lb/>
+幸耶景尚遺徳姚英之諸君子為立祠葛石厓志貞為<lb/>
+輯遺文梓之一時交與予在也序其可辭夫有造道之<lb/>
+文有述事之文楊子雲曰商書灝灝爾周書噩噩爾後<lb/>
+<pb n="KR4e0137_WYG_000-4a"/>
+世有作其雄視前人亦不為少矣卒之無足嗣往徽而<lb/>
+歆来聽又況移情役物越禮分而為者嗚呼邪説也贅<lb/>
+言也雅論也知斯三者可以定是文矣其不然文華作<lb/>
+氣質雅收聲而去道逺而昔後村序艾軒之文曰以言<lb/>
+語文字行世非先生意也介夫言語文字間哉介夫初<lb/>
+主於靜既又主於虚楊月湖方正曰主於靜是時理學<lb/>
+中輟二公寗永貞丁王夫江朝東崛起於曠鈎深索隠<lb/>
+二公殆獨得云正徳辛巳夏仲道友見素林俊書于雲<lb/>
+<pb n="KR4e0137_WYG_000-4b"/>
+莊青野<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

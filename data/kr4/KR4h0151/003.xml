@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0151_WYG_003-1a"/>
+　欽定四庫全書<lb/>
+　欽定千叟宴詩總目<lb/>
+　　巻首一<lb/>
+御製詩<hi>附諸臣恭和詩</hi>
+　　巻首二<lb/>
+聨句詩<hi>柏梁體一百韻</hi>
+　　巻一<lb/>
+　　　預宴十八人詩六十三首<lb/>
+<pb n="KR4h0151_WYG_003-1b"/>
+　　巻二<lb/>
+　　　預宴五十二人詩六十四首<lb/>
+　　巻三<lb/>
+　　　預宴六十五人詩八十一首<lb/>
+　　巻四<lb/>
+　　　預宴六十四人詩七十二首<lb/>
+　　巻五<lb/>
+　　　預宴八十七人詩九十四首<lb/>
+<pb n="KR4h0151_WYG_003-2a"/>
+　巻六<lb/>
+　　預宴九十四人詩一百八首<lb/>
+　巻七<lb/>
+　　預宴七十八人詩八十六首<lb/>
+　巻八<lb/>
+　　預宴九十四人詩一百六首<lb/>
+　巻九<lb/>
+　　預宴八十八人詩九十九首<lb/>
+<pb n="KR4h0151_WYG_003-2b"/>
+　巻十<lb/>
+　　預宴九十二人詩九十九首<lb/>
+　巻十一<lb/>
+　　預宴六十九人詩八十四首<lb/>
+　巻十二<lb/>
+　　預宴七十七人詩八十七首<lb/>
+　巻十三<lb/>
+　　預宴九十二人詩一百四首<lb/>
+<pb n="KR4h0151_WYG_003-3a"/>
+　巻十四<lb/>
+　　預宴九十五人詩一百五首<lb/>
+　巻十五<lb/>
+　　預宴七十六人詩八十五首<lb/>
+　巻十六<lb/>
+　　預宴九十一人詩一百三首<lb/>
+　巻十七<lb/>
+　　預宴九十一人詩九十六首<lb/>
+<pb n="KR4h0151_WYG_003-3b"/>
+　巻十八<lb/>
+　　預宴九十六人詩一百七首<lb/>
+　巻十九<lb/>
+　　預宴九十三人詩一百五首<lb/>
+　巻二十<lb/>
+　　預宴八十八人詩一百首<lb/>
+　巻二十一<lb/>
+　　預宴九十人詩九十六首<lb/>
+<pb n="KR4h0151_WYG_003-4a"/>
+　巻二十二<lb/>
+　　預宴九十五人詩一百八首<lb/>
+　巻二十三<lb/>
+　　預宴九十四人詩一百二首<lb/>
+　巻二十四<lb/>
+　　預宴八十八人詩九十七首<lb/>
+　巻二十五<lb/>
+　　預宴九十四人詩一百四首<lb/>
+<pb n="KR4h0151_WYG_003-4b"/>
+　巻二十六<lb/>
+　　預宴一百十一人詩一百三十首<lb/>
+　巻二十七<lb/>
+　　預宴一百十一人詩一百三十一首<lb/>
+　巻二十八<lb/>
+　　預宴一百六人詩一百二十六首<lb/>
+　巻二十九<lb/>
+　　預宴一百五人詩一百二十五首<lb/>
+<pb n="KR4h0151_WYG_003-5a"/>
+　巻三十<lb/>
+　　預宴一百十二人詩一百二十七首<lb/>
+　巻三十一<lb/>
+　　預宴一百二人詩一百六首<lb/>
+　巻三十二<lb/>
+　　預宴九十五人詩一百五首<lb/>
+　巻三十三<lb/>
+　　預宴一百四人詩一百十九首<lb/>
+<pb n="KR4h0151_WYG_003-5b"/>
+　巻三十四<lb/>
+　　預宴九十三人詩一百四首<lb/>
+　　　綜計三十六巻預宴三千人詩三千四百二十<lb/>
+　　　九首<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

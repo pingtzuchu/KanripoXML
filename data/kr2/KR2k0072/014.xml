@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>河源紀畧卷七</head> <lb/>
+    <p>
+<pb n="KR2k0072_WYG_014-1a"/>
+欽定四庫全書<lb/>
+　河源紀畧卷七<lb/>
+　列表四<lb/>
+　　河源流行方向表<lb/>
+<pb n="KR2k0072_WYG_014-2a"/>
+</p>
+<p>
+<pb n="KR2k0072_WYG_014-3a"/>
+</p>
+<p>
+<pb n="KR2k0072_WYG_014-4a"/>
+</p>
+<p>
+<pb n="KR2k0072_WYG_014-5a"/>
+</p>
+<p>
+<pb n="KR2k0072_WYG_014-6a"/>
+</p>
+<p>
+<pb n="KR2k0072_WYG_014-7a"/>
+</p>
+<p>
+<pb n="KR2k0072_WYG_014-8a"/>
+</p>
+<p>
+<pb n="KR2k0072_WYG_014-9a"/>
+</p>
+<p>
+<pb n="KR2k0072_WYG_014-10a"/>
+</p>
+<p>
+<pb n="KR2k0072_WYG_014-11a"/>
+</p>
+<p>
+<pb n="KR2k0072_WYG_014-12a"/>
+</p>
+<p>
+<pb n="KR2k0072_WYG_014-13a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　　按洪河流逕之處雖百折必東然崇巖巨谷則隨<lb/>
+　　山勢以旋轉平原曠野又縱横曼衍各逐地形故<lb/>
+　　所向不能一定大抵東北向者十之六七惟伏入<lb/>
+<pb n="KR2k0072_WYG_014-13b"/>
+　　青海則東南流其繞磧石山者盤折幾遍但未西<lb/>
+　　南流耳謹以次表列凡黄河正源以大字書之其<lb/>
+　　旁源則以細字分行用作識别焉<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

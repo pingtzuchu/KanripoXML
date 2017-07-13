@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2k0039_WYG_025-1a"/>
+欽定四庫全書<lb/>
+欽定皇輿西域圖志卷四<lb/>
+　列表<lb/>
+　　<hi>臣</hi>等謹按史必有表所以詳世系紀沿革也自五<lb/>
+　　代史職方考其疆域分併之跡具列如譜後世作<lb/>
+　　地志者亦開有列表類以時代為經以古今郡國<lb/>
+　　為緯縱横求之較然可睹若西域之於中土通絶<lb/>
+　　不常且有從古未被聲教者史家紀載荒略率傳<lb/>
+<pb n="KR2k0039_WYG_025-1b"/>
+　　而不譜故自兩漢以來二十餘年之沿革即博雅<lb/>
+　　之士徴信無由矧在耳傭目僦者哉班志紀三十<lb/>
+　　六國某國某治距長安幾千幾百里宜可寸寸而<lb/>
+　　度不失絫黍而驛使取道紆廽譯言茫昧歴代足<lb/>
+　　跡未至承譌襲舛一經覈實鑿枘紛如下此又無<lb/>
+　　論已洪惟我<lb/>
+皇上戡定西域建設府州縣自昔曶爽闇昧之區分疆<lb/>
+　　畫界幾與内地形勢相埒因得詳其端委用<lb/>
+<pb n="KR2k0039_WYG_025-2a"/>
+皇朝一統志十九省之例表之若兩漢而下都䕶所<lb/>
+　　治校尉所居為詳悉分注李唐遥置都督諸州府<lb/>
+　　雖名號空存不歸版籍亦與附登用資攷証且以<lb/>
+　　見我<lb/>
+朝之中外一軌悉入幅<graphic n="KR0695" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0695.png" mimeType="image/png"/>之内實為曠古所未有也其<lb/>
+　　自嘉峪關至玉門縣界西漢屬酒泉郡禄福縣地<lb/>
+　　東漢三國因之晉改福禄縣周隋因之唐改酒泉<lb/>
+　　縣宋屬肅州元屬肅州路明屬肅州衞入<lb/>
+<pb n="KR2k0039_WYG_025-2b"/>
+皇朝并入甘州府改屬肅州髙臺縣久𨽻内省不復綴<lb/>
+　　述云志列表第三<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

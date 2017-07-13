@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3k0012_SBCK_910-1a"/>
+太平御覽卷第九百十<lb/>
+　獸部二十二<lb/>
+　　猨　猴　猱　玃　果然<lb/>
+　　　　猨<lb/>
+說文曰猨善猨<graphic n="KR2184" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2184.png" mimeType="image/png"/>屬也<hi>
+                        <graphic n="KR2184" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2184.png" mimeType="image/png"/>扶沸切</hi>
+山海經曰堂庭之山其上多白猨<lb/>
+淮南子曰五九四十五五主音音主猨猨故五月而生<lb/>
+列子曰老韭爲莧老羭爲猿<lb/>
+莊子曰夫不見騰猨乎其得柟<hi>音南</hi>梓䂊章覽蔓枝而巳<lb/>
+其間及得柘枳构之間危行仄視勢不便未足騁其能也<lb/>
+又曰人木處則煗慄恂懼猿猱然乎哉<lb/>
+又曰今取猨狙<hi>且余切</hi>而衣周公之服彼必齕囓梚裂盡去<lb/>
+而後慊觀古今之異猶狙之異乎周公也<lb/>
+<pb n="KR3k0012_SBCK_910-1b"/>
+又曰猿徧<hi>音編</hi>狙以爲雌<hi>司馬彪曰扁狙似猿而狗頭食弥猴好與雄狙接</hi>
+淮南子曰虎豹之文來射<hi>以虎豹有文章使人射取之</hi>猨豽<hi>女滑切</hi>之捷<lb/>
+來乍<hi>豹㣪属乍暫疾以其㨗故使人疾擊之</hi>
+又曰楚王亡其猨於林木爲之殘宋王亡其珠於池中魚<lb/>
+爲之殫<lb/>
+又曰置猨檻中則與豚同非不巧捷也無所肆其能也<lb/>
+呉越春秋曰趙王問范蠡手戰之術范蠡荅曰臣聞趙有<lb/>
+處女國人稱之願王請問之手戰之道也於是王乃請女<lb/>
+女將北見王道逢老人自稱袁公袁公問女曰聞子善爲<lb/>
+劒願得一觀之處女曰妾不敢有所隱也惟公所試公即<lb/>
+挽林抄之竹似桔橰末折墮地女接取其末袁公操其夲<lb/>
+而㓨處女應節入之三入女因舉杖擊之袁公則飛上樹<lb/>
+化爲白猨<lb/>
+<pb n="KR3k0012_SBCK_910-2a"/>
+吕氏春秋曰荆王有白猨三射之則摶樹而熈使飬由基<lb/>
+射之始調弓矯矢未發猨擁木而號<lb/>
+漢書曰李廣猨臂善射<lb/>
+春秋繁露曰猨似猴大而黒長前臂所以壽者好引其氣<lb/>
+也<lb/>
+抱朴子曰玉䇿記稱猨夀五百歲則變而爲玃<hi>居縳切</hi>千歲<lb/>
+則變爲老人<lb/>
+又曰周穆王南征一軍盡化君子爲猨爲鵠小人於千仞<lb/>
+爲沙爲泥<lb/>
+張載論曰白猨玄豹藏於櫺檻何以知其接垂條於千仞<lb/>
+孝子傳曰猨<graphic n="KR2184" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2184.png" mimeType="image/png"/>屬也或黄或黑通胂<hi>音申</hi>輕勦<hi>子小切</hi>善縁妙<lb/>
+吟雌爲人所得終不徒生<lb/>
+華陽國志曰鄧芝見猨抱子在樹上引弩射之中猿母其<lb/>
+<pb n="KR3k0012_SBCK_910-2b"/>
+子爲拔箭以葉塞瘡芝乃歎息投弩水中<lb/>
+冝都山川記曰峽中猿鳴至清山谷傳其響冷泠不絶行<lb/>
+者歌之曰巴東三峽猨鳴悲猨鳴三聲淚沾衣<lb/>
+荆州圗經曰冝都夷道縣西山頂上有古墓名曰女王冢<lb/>
+不詳其人林則女貞戰則白猨<lb/>
+范汪荆州記曰夷陵縣陜口山非日夜半不見日月多猿<lb/>
+鳴至清逺<lb/>
+山海經圗讃曰白猿肆巧由基撫弓數如循環其妙無窮<lb/>
+　　　　　猴<lb/>
+漢書曰韓生勸項羽都關中羽曰吾聞冨貴不還故郷如<lb/>
+衣錦夜行乃燒宮室都彭城韓生曰人言楚人沐猴而冠<lb/>
+果然<lb/>
+又曰張信少府檀長卿爲沐猴與狗鬪蓋寛饒奏免之<hi>張晏日沐</hi>
+<pb n="KR3k0012_SBCK_910-3a"/>
+<hi>猴猕猴也</hi>
+王隱晉書曰護軍張邵母病淳于筮之使西出市弥猴繫<lb/>
+母臂令傍人抱之拍猴恒使作聲三日三夜放去猴出門<lb/>
+即爲犬所殺母於此漸差〇郭頒魏晉丗語曰司馬宣王<lb/>
+辟州泰爲新城太守尚書鍾毓謂泰曰君釋褐登宰府乞<lb/>
+児乗小車一何駛泰曰君名公之子少有文彩故守吏職<lb/>
+猕猴乘土牛一何遲衆賔恱服<lb/>
+莊子曰呉王浮于江登于狙<hi>且余切</hi>之山衆狙見之恂然弃<lb/>
+而走有一狙焉委虵玃搔見巧乎王王射之敏給搏矢<hi>矢徃</hi>
+<hi>雖速而狙猶能將也</hi>王命相者趨射之狙死王頋謂其友顔不疑曰<lb/>
+狙之伐巧恃其便以傲子以至此<lb/>
+列子曰宋有狙公者飬之成群誑狙曰與若茅朝三而暮<lb/>
+四衆狙皆怒曰朝四而暮三衆狙皆喜<lb/>
+<pb n="KR3k0012_SBCK_910-3b"/>
+韓子曰燕王微巧術人請以棘刺之端爲母猴母猴成巧<lb/>
+人曰人主欲觀之必半歲不入宫不飲酒食肉雨霽日出<lb/>
+視之晏隂之間而棘刺之母猴乃可見也燕王恩飬之不<lb/>
+能觀也<lb/>
+譙子法訓曰人之所以貴者以其禮節也人而無禮者猕<lb/>
+猴乎雖人象而蟲質也<lb/>
+淮南子曰楚有烹猴者而紿<hi>徒亥切</hi>其邦人邦人以爲狗羮<lb/>
+而甘之後聞其猴也據地而吐之盡冩其所食此未爲知<lb/>
+味者也<lb/>
+抱朴子曰余友人騰永叔嘗養一大猕猴鏁着床間後忽<lb/>
+齧殺人永叔使合鏁埋之後百許日有見鬼者徃見猕猴<lb/>
+走上永叔承塵上不悟見鬼驚指之猕猴何以𬒳傷流血<lb/>
+永叔曰始乃知皆有鬼也<lb/>
+<pb n="KR3k0012_SBCK_910-4a"/>
+又曰山中由曰稱人君者猴也猴壽八百歲<lb/>
+王充論衡曰鹿之角足以觸大猴之手足以摶鼠然而鹿<lb/>
+制於大猴服於䑕氣不利也<lb/>
+神仙傳曰有人種黍山中正患猕猴食之聞介象有道聊<lb/>
+從之乞辟猴之法象曰無他法也汝明日徃黍所望見群<lb/>
+猴便大喚語之云巳白介君教莫復侵食黍此人明日視<lb/>
+黍遇群猴適欲下樹承象語猕猴各自還山遂絶跡<lb/>
+𫐠異記曰南康營氏伍考之伐舡材忽見太杜樹上有一<lb/>
+猴懷孕考之便登木逐猴騰赴如飛樹旣孤逈下又有人<lb/>
+猴知不脫因以左手抱樹枝右手撫腹考之禽得遥擺地<lb/>
+殺之割其腹有一子形狀垂産尓夜夢見一人稱神以殺<lb/>
+猴責讓之後考之病經旬𥘉如狂因漸化爲虎毛鬢爪牙悉<lb/>
+生音聲亦變遂逸走入山永失蹤跡<lb/>
+<pb n="KR3k0012_SBCK_910-4b"/>
+周景式孝子傳曰余嘗至綏安縣逢徒逐猴猴母負子沒<lb/>
+水水雖深而清乃以㦸㓨之自恊以下中斷脊尚連抄着<lb/>
+舡中子隨其傍以手捫子而死<lb/>
+陸機與弟雲書曰監徒武庫建始殿諸房中見有兩足猴<lb/>
+真恠物也<lb/>
+異物志曰南方人以猕猴頭爲鮓<lb/>
+袁淑排諧集常山王九命文曰及至圗身失所羈束人間<lb/>
+馴纓服制惟意所牽登㨕而遨抱梁而眠拾摭遺餘恣口<lb/>
+所便<lb/>
+後漢王延壽王孫賦曰原夫天地之造化實神偉之屈竒<lb/>
+道玄微以宻妙信無𥘉而弗爲王孫狡獸形陋觀而醜儀<lb/>
+顔狀類乎老公軀體似乎小児眼睚<hi>五皆切</hi>
+                    <graphic n="KR4209" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4209.png" mimeType="image/png"/>
+                    <hi>五構/切</hi>以<graphic n="KR3637" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3637.png" mimeType="image/png"/>
+                    <hi>音血</hi>
+視職<hi>音戢</hi>睫<hi>側夾/切</hi>以䀗<hi>乎恱/切</hi>睳䆕<hi>烏决/切</hi>髙匡而曲頞䁵<hi>音儇</hi>
+<pb n="KR3k0012_SBCK_910-5a"/>
+<hi>可切</hi>歴而隳離鼻<graphic n="KR2737" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2737.png" mimeType="image/png"/>
+                    <hi>許解/切</hi>齁<hi>許侯/切</hi>以䶋<hi>音/吸</hi>
+                    <graphic n="KR2435" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2435.png" mimeType="image/png"/>
+                    <hi>許夾切</hi>耳聿役<lb/>
+以䁤<hi>音䁤</hi>知口嗛<hi>呼忝/切</hi>呥<hi>音/冉</hi>以䶨<hi>則咸/切</hi>齺<hi>音/鄒</hi>脣<hi>蚩渉/切</hi>㗩<hi>而躡</hi>
+<hi>切</hi>以<graphic n="KR2863" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2863.png" mimeType="image/png"/>
+                    <hi>疋里切</hi>齒崖崖以齡<hi>音</hi>爵任<hi>音/荏</hi>
+                    <graphic n="KR3598" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3598.png" mimeType="image/png"/>
+                    <hi>音/染</hi>而囁<hi>入葉切</hi>兒儲<lb/>
+粮食於兩頰稍委輸於胃脾腃兎蹲而狗　聲歴鹿而啒<lb/>
+咿或嗝嗝<hi>苦革切</hi>而<graphic n="KR2203" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2203.png" mimeType="image/png"/>
+                    <graphic n="KR2203" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2203.png" mimeType="image/png"/>
+                    <hi>音/的</hi>嗅<hi>火歴/切</hi>若啼姿僣傔<hi>呼店切</hi>而<lb/>
+㹅贛<hi>音貢</hi>豁盱䦧以頊　生深山之茂林處嶃巖之嶔﨑性<lb/>
+猗<graphic n="KR1536" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1536.png" mimeType="image/png"/>之㺕<hi>音煩</hi>疾熊峯出而横施<lb/>
+　　　　　猱<lb/>
+說文曰猱貪獸也一曰母猴似人<lb/>
+毛詩草木蟲魚䟽曰猱猕猴也楚人謂之沐猴老者爲獑<lb/>
+猢駿捷也其鳴噭噭而悲<lb/>
+詩曰無教猱升木毛萇注曰猱猨屬也<lb/>
+爾雅曰猱蝯善縁孫炎注曰猱母猴也<lb/>
+<pb n="KR3k0012_SBCK_910-5b"/>
+江乗地記曰攝山有山猱赤足<lb/>
+　　　　　玃<hi>居縛切</hi>
+說文曰玃母猴也<lb/>
+爾雅曰玃父善頋<hi>郭璞日似猴而大倉黒也能玃持人好顧盻</hi>
+抱朴子曰猕猴及猿八百歲化爲玃<lb/>
+古今注曰猴五百歲化爲玃<lb/>
+吕氏春秋曰肉之美者玃猱之炙<lb/>
+又曰聞言不可不察數傳白爲黒故狗似玃玃似母猴母<lb/>
+猴似人人與狗則逺矣以<lb/>
+毛詩草木蟲魚䟽曰猱猕猴也楚人謂之木玃老者爲玃<lb/>
+大而黒長前辟玃之白腰者爲獑猢<lb/>
+博物志曰蜀中南髙山上有物似猕猴長七尺能行揵走<lb/>
+名曰猴玃一名馬化或曰猳玃同行道婦人有好者輙盗<lb/>
+<pb n="KR3k0012_SBCK_910-6a"/>
+之以去人不得知行者毎經過其旁皆以其長繩相引然<lb/>
+故不兔此能別男女氣臭故取女不取男取玄而爲家室<lb/>
+其無子者終身不得還十年之後形類之意亦迷惑不復<lb/>
+思歸有子者輒拘送還其家産子皆如人有不食飬者母<lb/>
+輒死故無敢不飬也及長與人不異皆以揚爲姓故今蜀<lb/>
+中西界多謂揚率皆猳玃馬化之子孫時時有玃瓜者<lb/>
+　　　　　果然<lb/>
+山海經曰果然獸似猕猴以名自呼聲蒼黒群行老者在<lb/>
+前少者在後得果食輙與老者似有義焉交趾諸山有之<lb/>
+獠人射之以其毛爲裘蓐甚温煖<lb/>
+蜀地志曰涪陵南界搸險中有果然獸形如狗子頭似虎<lb/>
+其尾柔滑白黒色皮可爲裘輕煖可珎<lb/>
+南中八郡志曰交趾有果然白面黒身毛采班䦨<lb/>
+<pb n="KR3k0012_SBCK_910-6b"/>
+呉録地理志曰九真咠浦縣有獸名果然猨狖類也色青<lb/>
+赤有文居樹上北郡及日南皆有之〇南方草物狀曰果<lb/>
+然獸生在山林上民人以毒箭射之剥取皮皮文青赤白<lb/>
+色縫相連作蓆出九真日南郡○南州異物志曰交州以<lb/>
+南有果然獸以名自呼身如猨大面通有白色其體不過<lb/>
+三尺而尾長四尺餘反尾度身過其頭視其鼻仍見兩孔<lb/>
+仰向其毛長柔細滑澤色以白爲質黒文視如蒼頭鴨<lb/>
+脇邊班文集十餘皮可得一蓐繁文麗好細厚温煖<lb/>
+魏鐘毓果然賦曰果然似猴象猨黒頰青身肉非嘉肴<lb/>
+唯皮爲珎<lb/>
+太平御覽卷第九百一十<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

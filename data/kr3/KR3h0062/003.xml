@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3h0062_WYG_003-1a"/>
+欽定四庫全書　　　　　　子部八<lb/>
+秘殿珠林　　　　　　　　　藝術類一<hi>書畫之屬</hi>
+　　提要<lb/>
+　　　　臣等謹案<lb/>
+　　秘殿珠林二十四卷乾隆九年奉<lb/>
+　　勅撰凡<lb/>
+　　　内府所藏書畫關於釋典道教者並别為編録<lb/>
+　　　　著為此書首載<lb/>
+<pb n="KR3h0062_WYG_003-1b"/>
+　三朝宸翰<lb/>
+　　皇上御筆次為厯代名人書畫而附以印本繡線<lb/>
+　　　　刻絲之屬次為臣工書畫次為石刻木刻經典語<lb/>
+　　　　録科儀及供奉經像其次序先釋後道用阮孝緒七<lb/>
+　　　　録例<hi>案七録今不傳其分類總目載道宣廣宏明集中</hi>其記載先書後畫先<lb/>
+　　　　冊次卷次軸用賞鑒家著録之通例而於絹本紙本<lb/>
+　　　　金書墨書水墨畫著色畫一一分别以及標題欵識<lb/>
+　　　　印記題跋髙廣尺寸亦一一詳列則較鐵網珊瑚之<lb/>
+<pb n="KR3h0062_WYG_003-2a"/>
+　　　　類體例更詳焉考宣和畫學分六科以佛道<lb/>
+　　　　為第一科<hi>案事見趙彦衛雲麓漫抄</hi>宣和畫譜分十類以<lb/>
+　　　　道釋為第一類<hi>案畫學稱佛道盖唐以來相沿舊語畫譜作於林靈素用</hi>
+　　　　<hi>事以後方改僧為徳士故易其次為道釋</hi>鄧椿畫繼分八目亦以<lb/>
+　　　　仙佛鬼神為第一目然均不必為一書至書<lb/>
+　　　　家著録則晉唐人所書經典均雜列古法帖<lb/>
+　　　　真迹之内無所區分其以書畫渉二氏者别<lb/>
+　　　　為一書實是編創始盖記載日衍而日多體<lb/>
+<pb n="KR3h0062_WYG_003-2b"/>
+　　　　例亦益分而益宻七畧例史記於春秋家列<lb/>
+　　　　離騷于賦家後史記别為正史離騷别為楚<lb/>
+　　　　詞文章流别以漸而増初附見而後特書往<lb/>
+　　　　往如此故諸家所録似諸史藝文志以釋道<lb/>
+　　　　為子部之一類是編所録則似釋家之列三<lb/>
+　　　　藏道家之紀七籖於四部之外各自别行古<lb/>
+　　　　畧今詳義各有當<lb/>
+　　聖人制作或創或因無非随事而恊其宜爾乾隆<lb/>
+<pb n="KR3h0062_WYG_003-3a"/>
+　　　　五十一年六月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

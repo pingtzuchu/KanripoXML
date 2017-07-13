@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3k0012_SBCK_685-1a"/>
+太平御覽卷第六百八十五<lb/>
+　服章部二<lb/>
+　　通天冠　進賢冠　逺遊冠　章甫冠<lb/>
+　　牟追<hi>音堆</hi>収　哻<hi>羽切</hi>委貌冠<lb/>
+　　髙山冠　法冠　武弁　鶡冠<lb/>
+　　却敵冠　却非冠　巧士冠　方山冠<lb/>
+　　長冠　樊噲冠<lb/>
+　　　　　通天冠<lb/>
+三禮圖曰通天冠一曰髙山冠上之所服<lb/>
+蔡邕獨斷曰天子冠通天漢制之秦禮無文祀天地明堂<lb/>
+平冕鄙人不識謂之平天冠<lb/>
+徐廣輿服雜注曰天子通天冠髙九寸黒介幘金博山<lb/>
+徐爰釋問曰通天冠金博山蟬謂之金顔<lb/>
+<pb n="KR3k0012_SBCK_685-1b"/>
+　　　　　進賢冠<lb/>
+三禮圖曰進賢冠前髙七寸長八寸後髙三寸一梁下大<lb/>
+夫一命所服兩梁再命大夫二千石所服三梁三命上大<lb/>
+夫公侯之服<lb/>
+董巴漢輿服志曰進賢冠古緇布冠文儒者之服也前髙<lb/>
+七寸後三寸長八寸公侯三梁中二千石巳下至愽士兩<lb/>
+梁千石巳下至小史私學弟子皆一梁宗室劉氏亦兩梁<lb/>
+蔡邕獨斷曰進賢冠文官服之漢制尚書兩梁禮無文<lb/>
+徐廣輿服志雜注曰天子雜服介幘五梁進賢冠太子諸<lb/>
+王三梁進賢冠<lb/>
+北齊書曰文襄嗣業以前司徒侯景進賢冠賜李繪曰卿<lb/>
+但直心事孤當用卿爲三公勿學侯景叛也<lb/>
+　　　　　逺遊冠<lb/>
+<pb n="KR3k0012_SBCK_685-2a"/>
+三禮圖曰逺遊冠諸王所服<lb/>
+徐廣輿服雜注曰天子雜服逺逰冠太子及諸王逺遊冠<lb/>
+制似通天也天子五梁太子三梁<lb/>
+董巴漢輿服志曰逺遊冠制如通天有展䇶横之于前無<lb/>
+山<lb/>
+張鏡宋東宮儀記曰皇太子逺遊冠翠緌<lb/>
+魏文帝與于禁詔曰昔漢髙脫衣以衣韓信光武解綬以<lb/>
+帶李忠誠皆人主當時貴敬功勞今以逺遊冠與將軍<lb/>
+梁書曰天監十四年正月朔旦帝臨軒冠太子于太極殿<lb/>
+舊制太子着逺遊冠金蟬翠緌纓至是詔加金博山<lb/>
+淮南子曰楚莊王通梁組纓<hi>髙誘曰通梁逺遊冠</hi>
+羅浮山記曰王方平着逺遊冠五色綬<lb/>
+　　　　　章甫<lb/>
+<pb n="KR3k0012_SBCK_685-2b"/>
+釋名曰章甫殷冠名甫大夫也殷以之表章大夫也<lb/>
+白虎通曰殷統十二月爲正其飾微大故爲章甫<lb/>
+儀禮士冠禮曰章甫殷道也<hi>鄭玄曰章明也殷質言以表明大夫也甫或爲斧所以服</hi>
+<hi>行道也</hi>
+禮記儒行曰孔子曰丘長居宋冠章甫之冠<lb/>
+論語先進曰赤爾何如對曰宗廟之事如㑹同端章甫願<lb/>
+爲小相焉<lb/>
+莊子曰宋人有資章甫而適於越越人斷髮文身無所用<lb/>
+之<lb/>
+孔藂子曰先君相魯三月政化旣行頌曰褒衣章甫實獲<lb/>
+我所章甫襃衣惠我無私<lb/>
+列仙傳曰稷丘君㤗山下道士漢武帝東廵君乃冠章甫<lb/>
+擁琴而見之<lb/>
+<pb n="KR3k0012_SBCK_685-3a"/>
+　　　　　牟追<lb/>
+釋名曰牟追牟冐也言其刑冐髪追追然也<lb/>
+周禮春官曰追帥掌王后之首服爲副編次追衡笄<hi>鄭司農云</hi>
+<hi>追冠名也禮曰牟追夏后氏之道也副者婦人之首服衡維持冠者</hi>
+儀禮士冠禮曰母追夏后氏之道也<lb/>
+白虎通曰夏正十三月其飾最大故爲無追無追者言其<lb/>
+追大也制冠法天天色玄不失其質夏之冠色純玄<lb/>
+　　　　　収<lb/>
+釋名曰収夏后氏冠名也言収歛髮也<lb/>
+白虎通曰夏収而祭謂之収者十三月陽氣収本舉生萬<lb/>
+物而逹出之故謂之収<lb/>
+禮王制曰夏后氏収而祭燕衣而養老<lb/>
+又郊特牲曰周弁殷<graphic n="KR1168" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1168.png" mimeType="image/png"/>夏収<lb/>
+<pb n="KR3k0012_SBCK_685-3b"/>
+五經通義曰王冠夏曰収以入宗廟長尺六寸廣八寸前<lb/>
+起<lb/>
+史記曰堯黄衣純冠<lb/>
+　　　　　<graphic n="KR1168" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1168.png" mimeType="image/png"/>
+詩曰殷士膚敏祼將于京厥作祼將常服黼<graphic n="KR1168" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1168.png" mimeType="image/png"/>
+                    <hi>黼白與黑也<graphic n="KR1168" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1168.png" mimeType="image/png"/>殷冠</hi>
+<hi>也</hi>
+白虎通曰殷<graphic n="KR1168" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1168.png" mimeType="image/png"/>而祭謂之<graphic n="KR1168" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1168.png" mimeType="image/png"/>者十二月施氣受化<graphic n="KR1168" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1168.png" mimeType="image/png"/>張而<lb/>
+後得牙<lb/>
+禮王制曰殷人<graphic n="KR1168" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1168.png" mimeType="image/png"/>而祭縞衣而養老<lb/>
+　　　　　委貌冠<lb/>
+釋名曰委貌其形委曲之貌上小下大<lb/>
+儀禮士冠禮曰委貌周道<hi>鄭玄曰委猶安也言以安正容貌也</hi>
+三禮圖曰玄冠一曰委貌今之進賢則其遺象也夏曰母<lb/>
+<pb n="KR3k0012_SBCK_685-4a"/>
+追殷曰章甫周曰委貌後丗轉以巧意改易其名耳<lb/>
+國語曰周襄王賜晉文公命晉侯端委而入<hi>孔朝曰玄端之衣委貌之</hi>
+<hi>冠也</hi>
+白虎通曰委貌者何周朝廷理正事行道徳之冠名所謂<lb/>
+委貌者周統十一月爲正萬物始萌冠飾最小故爲委貌<lb/>
+言委曲有貌也<lb/>
+董巴漢輿服志曰委貌冠以皂絹爲之大射辟雍公卿諸<lb/>
+侯大夫冠委貌<hi>續漢輿服志同</hi>〇神異經曰西荒有人不讀五經<lb/>
+而意合不觀天文而心通不誦禮律而精當天賜其衣男<lb/>
+朱衣縞帶委貌冠女碧衣戴勝皆無縫<lb/>
+　　　　　髙山冠<lb/>
+三禮圖曰髙山冠一曰側注髙九寸鐵爲卷梁秦制行人<lb/>
+使者所服今謁者服之<lb/>
+<pb n="KR3k0012_SBCK_685-4b"/>
+續漢輿服志曰安帝立太子太子謁髙廟洗馬冠髙山冠<lb/>
+侍御史奏謂不冝事下有司尚書陳忠奏洗馬職如謁者<lb/>
+服其服先帝之舊也奏可謁者古一名洗馬<lb/>
+董巴漢輿服志曰髙山冠一曰側注如通天謁者僕射所<lb/>
+服<lb/>
+太傳南郡胡廣說曰髙山冠蓋齊王冠也秦滅齊以其君<lb/>
+冠賜近臣謁者服之<lb/>
+傳子曰魏明帝以髙山制似通天逺遊乃毀變先形令行<lb/>
+人使者服之<lb/>
+㑹稽先賢像讃曰綦母文後爲交阯刺史詔賜髙山冠<lb/>
+　　　　　法冠<lb/>
+三禮圖曰法冠一曰柱後惠文一曰獬豸冠柱髙五寸以<lb/>
+縱裹鐵柱卷秦制法官服之禮不記<lb/>
+<pb n="KR3k0012_SBCK_685-5a"/>
+蔡邕獨斷曰法冠秦制執法者服之天子冠通天漢制之<lb/>
+侍中中常侍皆冠惠文加貂附蟬<lb/>
+董巴漢輿服志曰太傳胡公說春秋左氏傳有南冠而縶<lb/>
+者則楚冠也秦滅楚以其服賜執法近臣御史服之<lb/>
+又曰武冠一曰武弁大冠侍中中常侍加黄金璫附蟬爲<lb/>
+文貂尾爲飭謂之趙惠文冠<lb/>
+國語曰定王使單襄公聘於宋假道於陳陳靈公與孔寜<lb/>
+儀行父南冠以如夏氏留賔不見單子歸告王曰陳侯弃<lb/>
+衮冕而南冠以出不亦彛簡乎<hi>簡略彛常也言簡略常服</hi>犯先王之令<lb/>
+國其亡乎<hi>賈逵曰南冠楚冠也</hi>
+漢書曰張敞弟武爲梁相敞遣吏送之曰何以治梁武曰<lb/>
+馭黠馬者利其銜榮當以柱後惠文彈治之耳<hi>秦獄吏冠柱後惠文</hi>
+<hi>冠如淳曰蟪蟬也冠細如蟬翅今御史冠也</hi>
+<pb n="KR3k0012_SBCK_685-5b"/>
+又曰昌邑王賀短衣大袴冠惠文冠<hi>服䖍曰武冠也趙惠文所服故號惠文</hi>
+應劭漢官儀曰侍御史周官也爲柱下史冠法冠一曰柱<lb/>
+後以鐵爲柱言其審固不撓或說古有獬豸獸主觸不直<lb/>
+故執憲者以其角形爲冠耳<lb/>
+唐書曰侍御史朱放請復置朱衣豸冠於内廓有犯者御<lb/>
+史服以彈後御史張著服之以彈京兆尹嚴郢<lb/>
+　　　　　武弁<lb/>
+三禮圖曰武弁大冠也士服之或曰千歲涸澤之神名慶<lb/>
+忌冠大冠乗小車馬好疾馳齊人服之<lb/>
+董巴漢輿服志曰武冠一曰武弁大冠武官冠之侍中常<lb/>
+侍加黄金璫附蟬爲飾謂之趙惠文冠<lb/>
+蔡邕獨斷曰武冠或曰繁冠今謂之大冠<lb/>
+魏志曰陳思王植上䟽曰臣若得辭逺遊戴武弁解朱組<lb/>
+<pb n="KR3k0012_SBCK_685-6a"/>
+佩青紱乃臣之至願也<lb/>
+徐爰宋志曰武弁世謂籠冠也<lb/>
+　　　　　鶡冠<lb/>
+應劭漢官儀曰虎賁冠挿鶡尾鶡鷙鳥中之果勁者也毎<lb/>
+所攫撮應瓜摧碎尾上黨所貢<lb/>
+董巴漢輿服志曰武冠加雙鶡尾爲鶡冠羽林虎賁冠之<lb/>
+鶡鷄勇鬪死乃止故趙武靈王以表武士秦施用之<lb/>
+劉向七畧曰鶡冠子常吾深山以鶡爲冠故號冠子<lb/>
+　　　　　却敵冠<lb/>
+三禮圖曰却敵冠前廣四寸後三寸衛士服之<lb/>
+董巴漢輿服志曰却敵冠制似進賢衛士服之<lb/>
+　　　　　却非冠<lb/>
+三禮圖曰却非冠宫殿門僕射服髙五寸禮不記<lb/>
+<pb n="KR3k0012_SBCK_685-6b"/>
+又司馬彪續漢書云挿以鷰尾<lb/>
+董巴漢輿服志曰却非冠似長冠<lb/>
+　　　　　巧士冠<lb/>
+三禮圖曰巧士冠前髙五寸後相通掃除從官服之禮不<lb/>
+記<lb/>
+董巴漢輿服志曰巧士冠髙七寸不常服唯郊天黄門從<lb/>
+官四人冠之在鹵簿中次乗輿車前以備䆠者四星<lb/>
+　　　　　方山冠<lb/>
+三禮圖曰五彩方山冠各以其綵縠爲之祠廟天子八佾樂<lb/>
+五行舞人所服<lb/>
+董巴輿服志曰方山冠似進賢冠以五彩縠爲之<lb/>
+漢書五行志曰昌邑王賀爲王時冠方山冠<lb/>
+　　　　　長冠<lb/>
+<pb n="KR3k0012_SBCK_685-7a"/>
+三禮圖曰長冠竹裏髙七寸廣三寸漢髙祖以竹皮作之<lb/>
+丗云劉氏冠楚制禮不記<lb/>
+蔡邕獨斷曰小史祠宗廟則長冠<lb/>
+　　　　　樊噲冠<lb/>
+周遷輿服雜事曰樊噲冠楚漢㑹於鴻門項羽圖危髙祖<lb/>
+樊噲聞急乃裂衣苞楯戴以爲冠排入羽營<lb/>
+董巴漢輿服志曰樊噲造次所冠以入項羽軍廣九寸前<lb/>
+後各出四寸制似冕司馬殿門衛士服之<lb/>
+太平御覽卷第六百八十五<lb/>
+<pb n="KR3k0012_SBCK_685-7b"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

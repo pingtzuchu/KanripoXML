@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>兩宋名賢小集巻三百五十一</head> <lb/>
+    <p>
+<pb n="KR4h0067_WYG_351-1a"/>
+欽定四庫全書<lb/>
+　兩宋名賢小集巻三百五十一<lb/>
+　　　　　　　　　　　　宋　陳　思　編<lb/>
+　　　　　　　　　　　　元　陳世隆　補<lb/>
+　林湖遺藳<lb/>
+　髙鵬飛字南仲餘姚人有林湖遺藳<lb/>
+　　次王元吉詠梅<lb/>
+約畧陽和動琯灰南枝已冠百花魁莫教隴驛攜春去<lb/>
+<pb n="KR4h0067_WYG_351-1b"/>
+且向羅浮喚夢囘玉骨風標自仙種鐵腸賦詠漫多才<lb/>
+只應䞉結青青子調鼎功夫看後來<lb/>
+　　窗軒<lb/>
+一窗開永晝萬象出天成風力欺楊絮雷聲喚笋萌愁<lb/>
+多春不願病起眼猶明最喜今朝雨川原是暮耕<lb/>
+　　過王氏雲莊<lb/>
+十里雲莊路東風信杖藜好花連夜發幽鳥傍人啼香<lb/>
+宇禪心冷山容醉眼迷老僧春睡處明月映樓西<lb/>
+<pb n="KR4h0067_WYG_351-2a"/>
+　　孤吟<lb/>
+世景雲來去人情水淺深塵埃從滿眼交友欲知心山<lb/>
+簡豈愛酒陶潛元解琴對人不敢語仰面數歸禽<lb/>
+　　深夜風雨有懐故人<lb/>
+心馳流水髙山外身在落花啼鳥中滴得愁濃紅杏雨<lb/>
+吹教夢斷碧梧風垂堂逺愧千金子掃地空憐一畆宫<lb/>
+兩朶燈花伴孤獨清懽那得玉人同<lb/>
+　　首夏<lb/>
+<pb n="KR4h0067_WYG_351-2b"/>
+千里辭家不作難歸來春事總闌珊久留午夢梅黄雨<lb/>
+重索冬衣麥秀寒百箔老蠶鋪雪乳一庭新竹長琅玕<lb/>
+此時正喜民財阜野草閒花任自殘<lb/>
+　　湖上<lb/>
+舟載閒雲穩湖光盪碧天笑看沙上鳥終日伴雛眠<lb/>
+　　深夜獨步思兄南伯舉杯叩門則卧矣<lb/>
+緑柳橋邊古道横乾坤寂寂夜三更月窺門處君髙卧<lb/>
+露濕衣時夜獨行杯酒孰同驅俗意天風時下步虚聲<lb/>
+<pb n="KR4h0067_WYG_351-3a"/>
+明朝世界塵依舊試挽銀河一洗清<lb/>
+　　丈亭渡阻風<lb/>
+捲地西風翻巨浪小舟仍泊夜來灣行沽攜榼雖無酒<lb/>
+卧看開篷幸有山原草正肥黄犢飽汀蘋未老白鷗閒<lb/>
+平生遇險須知止眼對江神一解顔<lb/>
+　　湖上<lb/>
+好景難逢奈老何十年此地絶經過山如得意晚猶碧<lb/>
+雨亦知愁秋更多造化從渠旋磨蟻利名笑汝撲燈蛾<lb/>
+<pb n="KR4h0067_WYG_351-3b"/>
+湖邊直欲呼船去更共漁人掛緑蓑<lb/>
+　　晚興<lb/>
+風静湖光一鑑浮青山四顧淡舒秋松隂滿逕歸來晚<lb/>
+醉看巖花笑白頭<lb/>
+　　夜渡鄞江<lb/>
+睡起開篷月在沙晚江山影動龍蛇詩成索筆無人應<lb/>
+酒盡囊空何處賒船去船來數聲櫓江南江北㡬人家<lb/>
+星娥定怪歸來晚從此西風欲泛槎<lb/>
+<pb n="KR4h0067_WYG_351-4a"/>
+　　南溪<lb/>
+聞説南溪好肩車帶雨來澗泉鳴細石松木倚蒼苔雲<lb/>
+笑人情薄山隨客語回黄花幽意足知復為誰開<lb/>
+　　次静海令盖晞之食蟹<lb/>
+吳中郭索聲價髙草泥足上生青毛越中海市喧兒曹<lb/>
+白蟹厭飲霜前螯新豐逆旅酒濯足齊國相君飯脱粟<lb/>
+當時珍味無所需吳越土宜俱碌碌<lb/>
+　　復遊鄞江<lb/>
+<pb n="KR4h0067_WYG_351-4b"/>
+欲叩山扉汲野泉支筇且駐栁隂邊苦無平地休穿屐<lb/>
+待有輕風却放船孤笛吹開雲裏月一竿撑破水中天<lb/>
+舟人相戒低聲語沙上恐驚鷗鷺眠<lb/>
+　　次孫燭湖秋夜有感<lb/>
+忽作清宵夢非關世累長月隨花影轉水照木隂涼浴<lb/>
+露千峰碧梳風兩鬢蒼明朝須洗耳秋意過寒螿<lb/>
+　　舟中<lb/>
+木落山髙秋去後犬驚人語夜深時小舟滿載離愁重<lb/>
+<pb n="KR4h0067_WYG_351-5a"/>
+惟有孤鳴寒雁知<lb/>
+一水分流無限曲兩山村對不知名漁翁夜半歸南陌<lb/>
+認作中流擊楫聲<lb/>
+　　秋晚<lb/>
+斷雲送歸雁斜陽明晚楓西風灑雙鬢醉倚危闌東<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR4h0067_WYG_351-5b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　兩宋名賢小集巻三百五十一<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>江表志</head>
+    <p>
+<pb n="KR2i0011_WYG_000-1a"/>
+欽定四庫全書　　　　　史部九<lb/>
+　江表志　　　　　　　　載記𩔖<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案江表志三卷宋鄭文寳撰文寳字<lb/>
+　　　　仲賢寧化人南唐鎮海節度使彦華之子初<lb/>
+　　　　仕為校書郎入宋舉太平興國八年進士厯<lb/>
+　　　　官至陜西轉運使兵部員外郎東都事略載<lb/>
+　　　　入文藝𫝊中始徐鉉湯悦奉詔集李氏事作<lb/>
+<pb n="KR2i0011_WYG_000-1b"/>
+　　　　江南録多所遺落文寳因為此編上卷紀烈<lb/>
+　　　　祖事中卷紀元宗事下卷紀後主事不編年<lb/>
+　　　　月於諸王大臣並標其名亦無事實記載甚<lb/>
+　　　　簡又獨全録韓熙載歸國狀張䛑諫疏各一<lb/>
+　　　　首去取亦頗不可解然文寳為南唐舊臣硯<lb/>
+　　　　北雜志載其歸宋後常披蓑荷笠作漁者以<lb/>
+　　　　見李煜深加寛譬煜甚忠之鐵圍山叢談又<lb/>
+　　　　載其初受業於徐鉉及為陜西轉運使時鉉<lb/>
+<pb n="KR2i0011_WYG_000-2a"/>
+　　　　方謫居仍叩謁執弟子禮鉉亦坐受其拜盖<lb/>
+　　　　惓惓篤故舊之誼者故其紀後主亡國亦祇<lb/>
+　　　　以果於自信越人肆謀為言與徐鉉墓碑相<lb/>
+　　　　𩔖其意尚有足取其記李煜時貢獻賦歛一<lb/>
+　　　　條王鞏隨手雜録全取之且注其下曰江表<lb/>
+　　　　志鄭文寳撰則亦頗重其書又如江南江北<lb/>
+　　　　舊家鄉一詩文寳以為呉讓皇楊溥所作而<lb/>
+　　　　馬令南唐書則直以為後主作然文寳親事<lb/>
+<pb n="KR2i0011_WYG_000-2b"/>
+　　　　後主所聞當得其真是以可以訂馬書之誤<lb/>
+　　　　也晁氏讀書志稱文寳有序題庚戌乃大中<lb/>
+　　　　祥符三年此本無之今從學海𩔖編補録成<lb/>
+　　　　完帙焉乾隆四十三年九月恭校上<lb/>
+　　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸録熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　　　　總　校　官　<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

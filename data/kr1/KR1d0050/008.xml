@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="1a"/>
+雙峰先生内外服制通釋余聞其書舊矣今始獲一覩<lb/>
+其發明朱夫子家禮殆無餘藴豈曰小補之哉因思丱<lb/>
+角時從玉峰先生於上蔡東湖書院引試聖則堂舉孟<lb/>
+子使契為司徒教以人倫章為題先生曰此帝堯命契<lb/>
+教天下萬世以人道之始也余對曰朱夫子喪禮一書<lb/>
+豈非教天下萬世以人道之終乎先生喟然曰小子真<lb/>
+能以三隅反矣雙峰先生玉峰先生之委也宜其熟於<lb/>
+禮也烏乎微契不能啟之於前微朱夫子不能成之於<lb/>
+<pb n="1b"/>
+後微先生通釋又不能使人行著而習察也讀先生之<lb/>
+書者孝弟之心油然如風之於草雷之於蟄豈曰小補<lb/>
+之哉時至元後庚辰六月朢日東海布衣此山張復謹<lb/>
+跋<lb/>
+<pb n="2a"/>
+先君成此書未脱藁而更化及逃竄山谷竟以疾終家<lb/>
+塾悉為煨燼時瑢兄弟尚幼若罔聞知洎長有識而手<lb/>
+澤無存蚤夜痛心有負先志嵗庚午春先師栖筠鄭先<lb/>
+生亡瑢往吊于先生書房中見内外服制通釋一書儼<lb/>
+然具在驚喜無地栖筠葢先君之愛友曽傳之於是編<lb/>
+寫成帙衆謂是書有補世教瑢不敢私遂鋟諸梓與衆<lb/>
+共之至元後戊寅孟春朢日男瑢百拜謹識<lb/>
+是書之出可與文公喪禮相表裏而並行也或曰朱子<lb/>
+<pb n="2b"/>
+一代道學之宗其肩可比乎曰不然朱子于是書猶君<lb/>
+子之射也吾伯父雙峰于是書乃養由基之射也學專<lb/>
+而精詳而明有補家禮之未偹有發前賢之未發非謂<lb/>
+學問相高也為之圖使人易見為之釋使人易知易見<lb/>
+易知親疎隆殺之等人人可得而盡矣必師友講説云<lb/>
+乎有補于治教明矣時至元後戊寅仲夏中澣從子惟<lb/>
+賢百拜謹跋<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

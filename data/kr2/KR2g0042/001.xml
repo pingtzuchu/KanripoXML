@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2g0042_WYG_001-1a"/>
+欽定四庫全書<lb/>
+欽定宗室王公功績表傳卷一<lb/>
+　　　表一<hi>親王</hi>　<hi>郡王</hi>
+　　和碩禮親王<lb/>
+<pb n="KR2g0042_WYG_001-2a"/>
+　　和碩英親王<lb/>
+<pb n="KR2g0042_WYG_001-3a"/>
+　　和碩睿親王<lb/>
+<pb n="KR2g0042_WYG_001-4a"/>
+　　和碩豫親王<lb/>
+<pb n="KR2g0042_WYG_001-5a"/>
+　　和碩肅親王<lb/>
+<pb n="KR2g0042_WYG_001-6a"/>
+　　和碩承澤親王<lb/>
+<pb n="KR2g0042_WYG_001-7a"/>
+　　和碩鄭親王<lb/>
+<pb n="KR2g0042_WYG_001-8a"/>
+</p>
+<p>
+<pb n="KR2g0042_WYG_001-9a"/>
+　　和碩敬謹親王<lb/>
+<pb n="KR2g0042_WYG_001-10a"/>
+　　和碩頴親王<lb/>
+<pb n="KR2g0042_WYG_001-11a"/>
+　　和碩端重親王<lb/>
+<pb n="KR2g0042_WYG_001-12a"/>
+　　多羅饒餘郡王<lb/>
+<pb n="KR2g0042_WYG_001-13a"/>
+　　多羅克勤郡王<lb/>
+<pb n="KR2g0042_WYG_001-14a"/>
+　　多羅謙郡王<lb/>
+<pb n="KR2g0042_WYG_001-15a"/>
+　　多羅順承郡王<lb/>
+<pb n="KR2g0042_WYG_001-16a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2g0042_WYG_001-16b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+欽定宗室王公功績表傳卷一<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

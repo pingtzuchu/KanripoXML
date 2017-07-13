@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0042_WYG_001-1a"/>
+　　乾隆四十六年十一月初六日内閣奉<lb/>
+上諭昨閲四庫館進呈書有朱存孝編輯回文類聚補<lb/>
+　遺一種内載美人八詠詩詞意媟狎有乖雅正夫詩<lb/>
+　以温柔敦厚為教孔子不刪鄭衛所以示刺示戒也<lb/>
+　故三百篇之㫖一言蔽以無邪即美人香草以喻君<lb/>
+　子亦當原本風雅歸諸麗則所謂托興遥深語在此<lb/>
+　而意在彼也自玉臺新詠以後唐人韓偓軰務作綺<lb/>
+　麗之詞號香奩體漸入浮靡尤而效之者詩格更為<lb/>
+<pb n="KR4h0042_WYG_001-1b"/>
+　卑下今美人八詠内所列麗華髪等詩毫無寄託輒<lb/>
+　取俗傳鄙䙝之語曲為描寫無論詩固不工即其編<lb/>
+　造題目不知何所証據朕輯四庫全書當採詩文之<lb/>
+　有闗世道人心者若此等詩句豈可以體近香奩概<lb/>
+　行採録所有美人八詠詩著即行撤出至此外各種<lb/>
+　詩集内有似此者亦著該總裁督同總校分校等詳<lb/>
+　細檢查一併撤去以示朕釐正詩體崇尚雅醇之至<lb/>
+　意欽此<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

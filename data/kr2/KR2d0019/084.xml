@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2d0019_WYG_084-1a"/>
+　欽定四庫全書<lb/>
+御定歴代紀事年表卷八十八<lb/>
+　　金世系表畧<lb/>
+　　完顔氏其先出韎鞨氏唐初有黒水靺鞨居肅慎<lb/>
+　　地附髙麗五代時始稱女真其在南者繫籍於遼號<lb/>
+　　熟女真在北者不籍於遼號生女真既而避遼主宗<lb/>
+　　真諱改曰女直始祖函普自髙麗來居完顔布爾<lb/>
+　　罕水之涯後以部為姓遂為完顔氏云始祖生徳帝<lb/>
+<pb n="KR2d0019_WYG_084-1b"/>
+　　　烏嚕烏嚕生安帝巴哈巴哈生獻祖綏赫綏赫乃<lb/>
+　　　徙居於安春水之側耕墾樹藝始築室有棟宇<lb/>
+　　　之制綏赫生昭祖舒嚕以條教為治民頗聽從部<lb/>
+　　　落寖疆舒嚕生烏古鼐遼以為生女直部節度使<lb/>
+　　　是為景祖始有官屬紀綱漸立景祖卒子和哩布<lb/>
+　　　襲節度使基業自此大是為世祖即太祖之父也<lb/>
+　　　世祖卒弟肅宗頗拉淑嗣肅宗卒弟穆宗英格嗣<lb/>
+　　　自景祖以來兩世四主志業相因卒定離析一切<lb/>
+<pb n="KR2d0019_WYG_084-2a"/>
+　　治以本部法令穆宗卒世祖長子烏雅舒襲位是<lb/>
+　　為康宗康宗卒弟太祖阿固達襲位未幾稱帝於<lb/>
+　　上京改國號金廢主亮遷燕京號中都以汴京為<lb/>
+　　南京宣宗遷都於汴共傳九主凡一百二十年<lb/>
+<pb n="KR2d0019_WYG_084-3a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_084-4a"/>
+　欽定四庫全書<lb/>
+御定歴代紀事年表卷八十八<lb/>
+　　<hi>起乙未宋徽宗政和五年○止癸卯宋徽宗宣和五年</hi>凡九年<lb/>
+　　表例説<lb/>
+　　　<hi>臣</hi>之樞謹按女真自太祖阿固達稱帝改國號曰<lb/>
+　　　金始與遼並書例詳第八十二及八十三卷<lb/>
+<pb n="KR2d0019_WYG_084-5a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_084-6a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_084-7a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_084-8a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_084-9a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_084-10a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_084-11a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_084-12a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_084-13a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_084-14a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_084-15a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_084-16a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_084-17a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_084-18a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_084-19a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_084-20a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_084-21a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_084-22a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_084-23a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_084-24a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_084-25a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_084-26a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_084-27a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_084-28a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_084-29a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_084-30a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_084-31a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_084-32a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_084-33a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_084-34a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_084-35a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_084-36a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_084-37a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_084-38a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_084-39a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_084-40a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_084-41a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_084-42a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_084-43a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_084-44a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_084-45a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_084-46a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_084-47a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_084-48a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_084-49a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_084-50a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_084-51a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_084-52a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_084-53a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_084-54a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_084-55a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_084-56a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2d0019_WYG_084-56b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定歴代紀事年表卷八十八<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

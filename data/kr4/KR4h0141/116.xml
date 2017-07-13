@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_116-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選卷一百十六<lb/>
+　　苑類<lb/>
+　　　五言古<lb/>
+　　　　侍宴樂遊苑餞徐州刺史應詔<lb/>
+　　　　　　　　　　　　　　　　<hi>梁</hi>沈　約<lb/>
+　沃若動龍驂參差凝鳯管金塘草未合玉池泉將滿<lb/>
+　　　　遊建興苑　　　　　　　　<hi>梁</hi>紀少瑜<lb/>
+<pb n="KR4h0141_WYG_116-1b"/>
+　丹陵抱天邑紫淵更上林銀臺懸百仞玉樹起千尋水<lb/>
+　流冠葢影風揚歌吹音踟蹰憐拾翠顧歩惜遺簪日落<lb/>
+　庭光轉方幰屢移陰願言樂未極不道愛黃金<lb/>
+　　　　御幸樂遊苑侍宴　　　　　<hi>陳</hi>張正見<lb/>
+　大君臨四表榮光普八埏區中文化洽海外武功宣鳯<lb/>
+　下書丹篆龜符著緑編昆明不習戰雲夢豈遊畋軌文<lb/>
+　通萬國旌節靖三邊髙秋藐姑射睿想屬汾川兩宮明<lb/>
+　合璧雙闕帶非煙揚鑾出城觀詔蹕指郊㙻禁苑廻雕<lb/>
+<pb n="KR4h0141_WYG_116-2a"/>
+輦離宮建翠旃流水奔雷轂追風赴電鞭畫熊飄析羽<lb/>
+金埒響膠弦鳴玉升文砌稱觴溢綺筵獸舞依鐘石鸞<lb/>
+歌應管絃霞明黃鵠路風爽白雲天潦收荷葢折露重<lb/>
+菊花鮮上林賔早鴈長楊唱晩蟬小臣慚藝業擊壤慕<lb/>
+懷鉛康衢飛駛羽大海滴微涓詠歌還集木舞蹈遂臨<lb/>
+泉願薦南山夀明明奉萬年<lb/>
+　　五言律<lb/>
+　　　中秋月直禁苑　　　　　　<hi>唐</hi>鄭　畋<lb/>
+<pb n="KR4h0141_WYG_116-2b"/>
+禁署方懷忝綸闈已再加暫來西掖路還整上清槎恍<lb/>
+惚歸丹地深嚴宿綘霞幽襟聊自適閒㺯紫薇花<lb/>
+　　七言律<lb/>
+　　　苑中　　　　　　　　　　<hi>唐</hi>韓　偓<lb/>
+上苑離宮望處迷相風髙與露盤齊金階鑄出狻猊立<lb/>
+玉柱雕成翡翠棲外使調鷹初得按中官過馬不教嘶<lb/>
+笙歌錦繡雲霄裏獨許詞臣醉似泥<lb/>
+　　　從遊西苑　　　　　　　　<hi>明</hi>楊士竒<lb/>
+<pb n="KR4h0141_WYG_116-3a"/>
+廣寒宮殿屬天家曉從宸遊駐翠華瓊液總頒仙掌露<lb/>
+金枝皆挿御筵花棹穿萍藻波間雪旗颭芙蓉水上霞<lb/>
+身世直超人境外玉盤親捧棗如𤓰<lb/>
+　　　春日遊東苑應制　　　　　<hi>明</hi>林　鴻<lb/>
+長樂鐘鳴玉殿開千官歩輦出蓬萊已敎旭日催龍馭<lb/>
+更借春流泛羽杯堤柳欲眠鶯喚起宮花乍落鳥銜來<lb/>
+宸遊好續簫韶奏京國於今有鳯臺<lb/>
+　　　秋日再經西苑　　　　　　<hi>明</hi>文徵明<lb/>
+<pb n="KR4h0141_WYG_116-3b"/>
+内苑秋清宿露晞盈盈日采動金扉松間翠殿團華葢<lb/>
+天外銀橋入紫微錦纜稀遊青雀暗璚波無際白鷗飛<lb/>
+彤牆髙柳無人折時見中官一騎歸<lb/>
+　　七言絶句<lb/>
+　　　漢苑行　　　　　　　　　<hi>唐</hi>張仲素<lb/>
+二月春光變柳條九天清樂奏雲韶蓬萊殿後花如錦<lb/>
+紫閣堦前雪未消<lb/>
+　　　其二<lb/>
+<pb n="KR4h0141_WYG_116-4a"/>
+　回鴈髙飛太液池新花低發上林枝年光到處皆堪賞<lb/>
+　春色人間總未知<lb/>
+　　　　其三<lb/>
+　春風澹澹影悠悠鶯囀髙枝燕入樓千歩廻廊聞鳳吹<lb/>
+　珠簾處處上銀鈎<lb/>
+　　　　苑中寓直　　　　　　　　<hi>明</hi>夏　言<lb/>
+　湧玉亭前夜放舟碧荷香淨雨初收遥㸔北岸紅煙裏<lb/>
+　水殿珠簾盡上鈎<lb/>
+<pb n="KR4h0141_WYG_116-4b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選卷一百十六<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

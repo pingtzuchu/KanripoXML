@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>周官總義</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　經部四<lb/>
+　周官總義　　　　　　禮類一<hi>周禮之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案周官總義三十卷宋易祓撰祓有<lb/>
+　　　　易總義已著録是書陳振孫書録解題不載<lb/>
+　　　　惟趙希弁讀書附志著録稱許儀為之序刻<lb/>
+　　　　於衡陽今衡陽本世已無傳惟永樂大典尚<lb/>
+　　　　載其天官春官秋官考工記而地官夏官亦<lb/>
+<pb n="1b"/>
+　　　　佚謹裒合四官之文編次成帙以存其舊其<lb/>
+　　　　地官夏官則採王與之周禮訂義所引以補<lb/>
+　　　　其亡仍依讀書附志所列勒為三十卷雖非<lb/>
+　　　　完帙然十已得其八九矣其書研索經文斷<lb/>
+　　　　以已意與先儒頗有異同如論大宰九賦則<lb/>
+　　　　援載師之任地及司市司闗卝人角人職幣<lb/>
+　　　　等職以駁口率出泉之説論宗廟九獻則合<lb/>
+　　　　籩人醢人内宰司尊彛及行人王禮再祼之<lb/>
+<pb n="2a"/>
+　　　　文以駁列祼事於九獻之説論肆師之祈珥<lb/>
+　　　　則引羊人小子及山虞諸條以紏改祈為刉<lb/>
+　　　　改珥為䘏之説論輈人之四旗則厯辨巾車<lb/>
+　　　　司常大司馬大行人與考工記不合以明曲<lb/>
+　　　　禮車騎為戰國之制諸如此類雖持論互有<lb/>
+　　　　短長要皆以經釋經非鑿空杜撰至於内宰<lb/>
+　　　　二事則改為副貳之貳於酒正式灋則指為<lb/>
+　　　　九式之灋於園廛漆林諸賦則謂以什一取<lb/>
+<pb n="2b"/>
+　　　　民又於一分中分十一十二二十之三數等<lb/>
+　　　　而輸之於王於凌人斬冰則謂十二月為建<lb/>
+　　　　亥之月先令之於亥月而後三為凌室以待<lb/>
+　　　　亥子丑三月之藏亦皆自出新義而於職方<lb/>
+　　　　氏之地理山川尤為詳悉雖其釋三江則混<lb/>
+　　　　於蘇氏之説釋波溠則膠於唐志隨縣之文<lb/>
+　　　　釋泲水濟水則據漢志而强分為二多所未<lb/>
+　　　　安要其援引明晰自不可没葢祓雖人品卑<lb/>
+<pb n="3a"/>
+　　　　汚而於經義則頗有考據不以韓侂胄蘇師<lb/>
+　　　　旦故掩其著書之功也乾隆四十六年七月<lb/>
+　　　　恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

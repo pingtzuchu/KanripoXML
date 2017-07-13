@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>嘉祐集</head>
+    <p>
+<pb n="KR4d0072_WYG_000-1a"/>
+欽定四庫全書　　　　集部三<lb/>
+　嘉祐集　　　　　　　别集類二<hi>宋</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案嘉祐集十六巻宋蘇洵撰洵有諡<lb/>
+　　　　法巳著録考曽鞏作洵墓誌稱有集二十巻<lb/>
+　　　　晁公武讀書志陳振孫書録解題俱作十五<lb/>
+　　　　巻蓋宋時已有二本是本為徐乾學家傳是<lb/>
+　　　　樓所藏巻末題紹興十七年四月晦日婺州<lb/>
+<pb n="KR4d0072_WYG_000-1b"/>
+　　　　州學雕紙墨頗為精好又有康熙間蘇州邵<lb/>
+　　　　仁泓所刋亦稱從宋本校正然二本並十六<lb/>
+　　　　巻均與宋人所記不同徐本名嘉祐新集邵<lb/>
+　　　　本則名老泉先生集亦復互異未喻其故或<lb/>
+　　　　當時二本之外更有此一本與今世俗所行<lb/>
+　　　　又有二本一為明凌濛初刋朱墨本併為十<lb/>
+　　　　三巻一為<lb/>
+　　　國朝蔡士英所刋任長慶所校本凡十五巻與<lb/>
+<pb n="KR4d0072_WYG_000-2a"/>
+　　　　晁氏陳氏所載合然較蔡本闕洪範圖論一<lb/>
+　　　　巻史論前少引一篇又以史論中為史論下<lb/>
+　　　　而闕其史論下一篇又闕辨姦論一篇題張<lb/>
+　　　　仙畫像一篇送吳侯職方赴闕序一篇謝歐<lb/>
+　　　　陽樞宻啓一篇謝相府啓一篇香詩一篇朱<lb/>
+　　　　彝尊經義考載洵洪範圖論一巻註曰未見<lb/>
+　　　　疑所見洵集當即此本中間缺漏如是恐亦<lb/>
+　　　　未必晁陳著録之舊也今以徐本為主以邵<lb/>
+<pb n="KR4d0072_WYG_000-2b"/>
+　　　　本互相㕘訂正其譌脱亦有此存而彼逸者<lb/>
+　　　　並為補入又附録二巻為奉議郎充婺州學<lb/>
+　　　　教授沈斐所輯較邵本少國史本傳一篇而<lb/>
+　　　　多挽詞十餘首亦並録以備攷焉乾隆四十<lb/>
+　　　　六年三月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+<pb n="KR4d0072_WYG_000-3a"/>
+嘉祐集序<lb/>
+宋承五代之後文氣卑靡自廬陵歐陽氏宗昌黎先生<lb/>
+之學以為古文而後天下翕然知通經學古為髙然求<lb/>
+其接迹廬陵如鍼芥之相合水乳之交融者尤必推睂<lb/>
+山蘇氏父子間也二蘇具天授之雄才而又得老泉先<lb/>
+生為之先引其能卓然成一家言不足異也老泉先生<lb/>
+中年奮發無所師承而能以其文抗衡韓歐以傳之二<lb/>
+子斯足異已間嘗取先生之文而讀之大約以雄邁之<lb/>
+<pb n="KR4d0072_WYG_000-3b"/>
+氣堅老之筆而發為汪洋恣肆之文上之究極天人次<lb/>
+之修明經術而其於國家盛衰之故尤往往淋漓感慨<lb/>
+於翰墨間先生之文葢能馳騁於孟劉賈董之間而自<lb/>
+成一家者也可不謂純而肆者歟然如此者有本有源<lb/>
+觀先生上歐陽内翰書云始之屢躓而益困也盡焚其<lb/>
+平昔之文以為不足學也而益力於古人之文章始則<lb/>
+惶然以疑既而胷中豁然以明乆之渾渾乎覺其來之<lb/>
+之易葢先生自言其俗學之不足尚而用力於古之難<lb/>
+<pb n="KR4d0072_WYG_000-4a"/>
+如此昌黎先生云無誘於勢利無望其速成養其根而<lb/>
+竢其實加其膏而希其光其先生之學之所由成其即<lb/>
+先生之文之不可及歟然則以先生而上繼韓歐下開<lb/>
+長公昆仲殆不足為先生異矣予不敏不能仰窺先生<lb/>
+之文於萬一惟思先生之才尚好學不倦如此則凡才<lb/>
+之逺不及先生者更宜何如也集既刋成爰書數言以<lb/>
+自勉云康熈三十七年相月既望呉郡後學邵仁泓謹<lb/>
+序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

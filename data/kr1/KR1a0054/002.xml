@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>周易要義</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　　經部一<lb/>
+　周易要義　　　　　　易𩔖<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案周易要義十卷宋魏了翁撰了翁<lb/>
+　　　　字華夫號鶴山臨卭人慶元五年進士官至<lb/>
+　　　　資政殿大學士參知政事僉書樞宻院事事<lb/>
+　　　　迹具宋史本傳了翁以説經者但知誦習成<lb/>
+　　　　言不能求之詳博因取諸經註疏之文據事<lb/>
+<pb n="1b"/>
+　　　　别𩔖而録之謂之九經要義此其中之第一<lb/>
+　　　　部也方囘桐江集有周易集義跋載了翁嘗<lb/>
+　　　　言辭變象占易之綱領而繇彖象爻之辭畫<lb/>
+　　　　爻位虚之别互反飛伏之説乗承比應之例<lb/>
+　　　　有不知則義理闕焉葢其大㫖主於以象數<lb/>
+　　　　求義理折衷於漢學宋學之間故是編所録<lb/>
+　　　　雖主於注疏釋文而採掇謹嚴别裁精審可<lb/>
+　　　　謂剪除枝蔓獨擷英華王禕雜説云孔頴逹<lb/>
+<pb n="2a"/>
+　　　　作九經正義往往援引緯書之説歐陽公常<lb/>
+　　　　欲刪而去之其言不果行迨鶴山魏氏作要<lb/>
+　　　　義始加㸃削而其言絶焉則亦甚與以廓清<lb/>
+　　　　之功矣明萬厯中張萱重編内閣書目載九<lb/>
+　　　　經要義尚存儀禮七冊禮記三冊周易二冊<lb/>
+　　　　尚書一冊春秋二冊論語二冊孟子二冊又<lb/>
+　　　　𩔖目六卷本共為一編今諸經或存或佚不<lb/>
+　　　　能復合故以以世有傳本者各著於録朱彝<lb/>
+<pb n="2b"/>
+　　　　尊經義考羣經𩔖中載九經要義二百六十<lb/>
+　　　　三卷注曰分見各經然各經皆載要義而易<lb/>
+　　　　𩔖則但據宋志載了翁周易集義六十四卷<lb/>
+　　　　不載此書似乎即以集義為要義考方囘周<lb/>
+　　　　易集義跋曰鶴山先生謫靖州取諸經注疏<lb/>
+　　　　摘為要義又取濓洛以来諸大儒易説為周<lb/>
+　　　　易集義則為二書審矣乾隆四十二年二月<lb/>
+　　　　恭校上<lb/>
+<pb n="3a"/>
+　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

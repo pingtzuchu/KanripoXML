@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>八旗滿洲氏族通譜目録</head> <lb/>
+    <p>
+<pb n="KR2g0044_WYG_132-1a"/>
+欽定四庫全書<lb/>
+　八旗滿洲氏族通譜目録<lb/>
+　　卷六十六<lb/>
+　　附載滿洲旗分内之䝉古姓氏<lb/>
+　　西拉木楞地方博爾濟吉特氏<lb/>
+　　　恩格徳爾額駙　　古爾布什額駙<lb/>
+　　　達賴　　　　　　巴拜<lb/>
+　　　拉普什喜<lb/>
+<pb n="KR2g0044_WYG_132-1b"/>
+　　　　　以上俱有傳<lb/>
+　　兀魯特地方博爾濟吉特氏<lb/>
+　　　明安　　　　　　昂坤<lb/>
+　　　多爾濟　　　　　瑣諾木<lb/>
+　　　垂爾扎爾　　　　奇普塔爾<lb/>
+　　　拜音代　　　　　密賽<lb/>
+　　　布彦代　　　　　達賴<lb/>
+　　　布當　　　　　　恩格壘<lb/>
+<pb n="KR2g0044_WYG_132-2a"/>
+　　　常奇　　　　　　伊林齊<lb/>
+　　　鄂爾齋圖　　　　塞冷<lb/>
+　　　　　以上俱有傳<lb/>
+　　札魯特地方博爾濟吉特氏<lb/>
+　　　巴克貝勒　　　　喀喇巴拜<lb/>
+　　　額爾濟格　　　　碩賓<lb/>
+　　　　　以上俱有傳<lb/>
+　　　羅色和碩齊　　　羅色<lb/>
+<pb n="KR2g0044_WYG_132-2b"/>
+　　　　　以上俱附載<lb/>
+　　克爾倫地方博爾濟吉特氏<lb/>
+　　　噶爾馬葉爾登　　　誇巴特馬<lb/>
+　　　祁他特衛徵　　　　額爾格爾珠爾<lb/>
+　　　寨桑達爾漢和碩齊　塞冷<lb/>
+　　　瑣諾木塔思瑚爾海　納木<lb/>
+　　　　　以上俱有傳<lb/>
+　　　推特克　　　　　　圖巴<lb/>
+<pb n="KR2g0044_WYG_132-3a"/>
+　　　納穆春　　　　　和寧<lb/>
+　　　　　以上俱附載<lb/>
+　　把岳忒地方博爾濟吉特氏<lb/>
+　　　巴喇　　　　　　阿爾薩<lb/>
+　　　　　以上俱有傳<lb/>
+　　　布魯海　　　　　班第<lb/>
+　　　綽布海　　　　　巴金<lb/>
+　　　　　以上俱附載<lb/>
+<pb n="KR2g0044_WYG_132-3b"/>
+　　各地方博爾濟吉特氏<lb/>
+　　　圖爾濟葉爾登　　　巴爾巴圖魯<lb/>
+　　　昂坤杜稜　　　　　寨桑扎爾固齊<lb/>
+　　　阿玉石　　　　　　吳巴什<lb/>
+　　　阿禄哈　　　　　　德爾格爾<lb/>
+　　　噶爾馬瑣諾木　　　瑣諾木<lb/>
+　　　博羅特<lb/>
+　　　　　以上俱有傳<lb/>
+<pb n="KR2g0044_WYG_132-4a"/>
+　　　巴蘭　　　　　　　白瑚克什圖<lb/>
+　　　特墨　　　　　　　白顏圖<lb/>
+　　　托達<lb/>
+　　　　　以上俱附載<lb/>
+<pb n="KR2g0044_WYG_132-5a"/>
+欽定四庫全書<lb/>
+　八旗滿洲氏族通譜目録<lb/>
+　　卷六十六<lb/>
+　　附載滿洲旗分内之䝉古姓氏<lb/>
+　　西拉木楞地方博爾濟吉特氏<lb/>
+　　　恩格徳爾額駙　　古爾布什額駙<lb/>
+　　　達賴　　　　　　巴拜<lb/>
+　　　拉普什喜<lb/>
+<pb n="KR2g0044_WYG_132-5b"/>
+　　　　　以上俱有傳<lb/>
+　　兀魯特地方博爾濟吉特氏<lb/>
+　　　明安　　　　　　昂坤<lb/>
+　　　多爾濟　　　　　瑣諾木<lb/>
+　　　垂爾扎爾　　　　奇普塔爾<lb/>
+　　　拜音代　　　　　密賽<lb/>
+　　　布彦代　　　　　達賴<lb/>
+　　　布當　　　　　　恩格壘<lb/>
+<pb n="KR2g0044_WYG_132-6a"/>
+　　　常奇　　　　　　伊林齊<lb/>
+　　　鄂爾齋圖　　　　塞冷<lb/>
+　　　　　以上俱有傳<lb/>
+　　札魯特地方博爾濟吉特氏<lb/>
+　　　巴克貝勒　　　　喀喇巴拜<lb/>
+　　　額爾濟格　　　　碩賓<lb/>
+　　　　　以上俱有傳<lb/>
+　　　羅色和碩齊　　　羅色<lb/>
+<pb n="KR2g0044_WYG_132-6b"/>
+　　　　　以上俱附載<lb/>
+　　克爾倫地方博爾濟吉特氏<lb/>
+　　　噶爾馬葉爾登　　　誇巴特馬<lb/>
+　　　祁他特衛徵　　　　額爾格爾珠爾<lb/>
+　　　寨桑達爾漢和碩齊　塞冷<lb/>
+　　　瑣諾木塔思瑚爾海　納木<lb/>
+　　　　　以上俱有傳<lb/>
+　　　推特克　　　　　　圖巴<lb/>
+<pb n="KR2g0044_WYG_132-7a"/>
+　　　納穆春　　　　　和寧<lb/>
+　　　　　以上俱附載<lb/>
+　　把岳忒地方博爾濟吉特氏<lb/>
+　　　巴喇　　　　　　阿爾薩<lb/>
+　　　　　以上俱有傳<lb/>
+　　　布魯海　　　　　班第<lb/>
+　　　綽布海　　　　　巴金<lb/>
+　　　　　以上俱附載<lb/>
+<pb n="KR2g0044_WYG_132-7b"/>
+　　各地方博爾濟吉特氏<lb/>
+　　　圖爾濟葉爾登　　　巴爾巴圖魯<lb/>
+　　　昂坤杜稜　　　　　寨桑扎爾固齊<lb/>
+　　　阿玉石　　　　　　吳巴什<lb/>
+　　　阿禄哈　　　　　　德爾格爾<lb/>
+　　　噶爾馬瑣諾木　　　瑣諾木<lb/>
+　　　博羅特<lb/>
+　　　　　以上俱有傳<lb/>
+<pb n="KR2g0044_WYG_132-8a"/>
+　　　巴蘭　　　　　　　白瑚克什圖<lb/>
+　　　特墨　　　　　　　白顏圖<lb/>
+　　　托達<lb/>
+　　　　　以上俱附載<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

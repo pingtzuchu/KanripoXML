@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4f0005_WYG_046-1a"/>
+　御製詩初集恭録告成大學士率<hi>臣</hi>等恭跋<hi>臣</hi>溥既<lb/>
+　　　榮幸列名欽惟我<lb/>
+　皇上執中建極脩道敷文<lb/>
+　樂善堂全集久已信今傳後<lb/>
+　御極以來<lb/>
+　聖學日進無疆㡬務餘閑詩篇尤富<hi>臣</hi>以中外仰望<lb/>
+　　　敬録校刋伏念我<lb/>
+　皇上敬<lb/>
+<pb n="KR4f0005_WYG_046-1b"/>
+天法<lb/>
+祖勤民愛物時切為君難之一心其形諸歌詠者特流<lb/>
+　　　露之一端然而積日可按積月可攷積嵗可稽<lb/>
+　　　凡問<lb/>
+安視膳<lb/>
+　省方講武周咨農事<lb/>
+　勸戒臣工及大禮大典之所在固已持盈保泰三致<lb/>
+　　　意焉若夫晝夜寒暑之感乎時日星風雲之感<lb/>
+<pb n="KR4f0005_WYG_046-2a"/>
+　　　乎象鳥獸草木蟲魚之感乎物理情宣志兼體<lb/>
+　　　不遺而覽蹟考器法鑒攸存陟巘觀泉豫逰斯<lb/>
+　　　托以迨評品書畫與夫<lb/>
+　宸翰自題有為文人學士百思而不能到者偶爾及<lb/>
+　　　之皆以傾瀝液而潄芳潤矧惟<lb/>
+　聖心因物付物拈毫立就文不加㸃如天造地設<hi>臣</hi>
+　　　幸列<lb/>
+　　内廷親覩<lb/>
+<pb n="KR4f0005_WYG_046-2b"/>
+　天藻之敷華神機迅速冠古超今盖夫<lb/>
+　乾綱静握宻運萬㡬時措咸宜天人恊應而詩固其<lb/>
+　　　一端也至于體裁家數神眀規矩靡所不包而<lb/>
+　　　開闢變化生生而日新古體則舂容浩瀚今體<lb/>
+　　　則清麗沉雄此則有耳目見聞言思擬議之所<lb/>
+　　　不能盡者而援据淵博運用契合神理超逸意<lb/>
+　　　味醖藉不特以萹什之富為綱舉百家孕含萬<lb/>
+　　　彚也方今海内乂安禮隆樂盛我<lb/>
+<pb n="KR4f0005_WYG_046-3a"/>
+　皇上勅天基命詠歌具在盖總四千一百五十有竒<lb/>
+　　　之篇夫固曰悉本於為君難之一心而已矣<hi>臣</hi>
+　　　之敬刋<lb/>
+　御集也思慰一時之仰望而垂千古之訓行固将使<lb/>
+　　　天下文人學士識所依歸抑亦我<lb/>
+　聖子神孫億萬年所奉為標凖者矣而由兹托始編<lb/>
+　　　續将來<hi>臣</hi>與諸儒臣之校録正未有艾夫太子<lb/>
+　　　少保尚書<hi>臣</hi>蒋漙拜手稽首恭跋<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

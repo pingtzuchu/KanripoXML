@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_224-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選卷二百二十四<lb/>
+　　薪炭類<hi>附灰</hi>
+　　　五言古<lb/>
+　　　　詠灰　　　　　　　　　　<hi>隋</hi>岑德潤<lb/>
+　圖規暈不缺氣改律還虚欲燃愁獄吏棄道畏刑書未<lb/>
+　得逄强陣輕舉欲焉如<lb/>
+　　　七言古<lb/>
+<pb n="KR4h0141_WYG_224-1b"/>
+　　　　答友人贈炭　　　　　　　<hi>唐</hi>孟　郊<lb/>
+　青山白屋有仁人贈炭價重雙烏銀驅却座上千重寒<lb/>
+　燒出爐中一片春吹霞弄日光不定煖得曲身成直身<lb/>
+　　　　謝趙使君送烏薪　　　　　<hi>宋</hi>陳師道<lb/>
+　欲落未落雪近人将盡不盡冬壓春風枝氷瓦有去鳥<lb/>
+　逺坊窮巷無來人忽聞叩門聲遽速驚雞透籬犬升屋<lb/>
+　使君傳敎賜薪炭妓圍那解思寒谷老身曲直不足云<lb/>
+　冷窓凍壁作春溫定知和氣家家到不獨先生雪塞門<lb/>
+<pb n="KR4h0141_WYG_224-2a"/>
+　　　雪曉舟中生火　　　　　　　<hi>宋</hi>楊萬里<lb/>
+烏銀見火生緑霧便當水沈一濃炷却因斷續更氤氲<lb/>
+散作霏微煖袍袴須臾霧霽吐紅光歘如雲表生扶桑<lb/>
+陽春和日曛滿室蒼顔渥丹疑醉鄉忽然火冷霧亦滅<lb/>
+只見紅爐堆白雪窓外雪深三尺强窓裏雪深一寸香<lb/>
+　　五言律<lb/>
+　　　塵灰　　　　　　　　　　　<hi>唐</hi>駱賔王<lb/>
+洛川流雅韻秦道擅苛威聽歌梁上動應律管中飛光<lb/>
+<pb n="KR4h0141_WYG_224-2b"/>
+飄神女襪影落羽人衣願言心未翳終兾效輕微<lb/>
+　　五言排律<lb/>
+　　　初寒擁爐欣而成詠　　　　　<hi>明</hi>楊　慎<lb/>
+閉户當嚴候圍爐似故人胡桃無賜炭<hi>宋世御炭以胡桃文鵓鴿色為上</hi>榾<lb/>
+柮有窮薪兒免號寒喜翁便永夜親焰騰金菡萏灰聚<lb/>
+玉麒麟剪燭休論跋傳杯莫記巡煎茶浮蠏眼煨芋皺<lb/>
+虬鱗一點那容雪千門預借春㶚橋何事者凍縮苦吟<lb/>
+身<lb/>
+<pb n="KR4h0141_WYG_224-3a"/>
+　　七言律<lb/>
+　　　榾柮窩　　　　　　　　　<hi>元</hi>陸景龍<lb/>
+安樂窩中興澹然靈根斫得自樵仙地爐伏火春如海<lb/>
+雪屋圍風夜似年香透玉酥和芋撥脂流琥珀帶松燃<lb/>
+絶勝沈水燒金鴨吹徹參差惱醉眠<lb/>
+　　　董明府除夕惠炭　　　　　<hi>明</hi>謝應芳<lb/>
+范叔寒多正不禁烏薪意重比烏金賖來脱粟忙炊飯<lb/>
+留得焦桐好製琴環堵一龕春盎盎麗譙三鼔夜沈沈<lb/>
+<pb n="KR4h0141_WYG_224-3b"/>
+硯池氷釋龍香煖寫我朝來抱膝吟<lb/>
+　　　木炭　　　　　　　　　　<hi>明</hi>朱之蕃<lb/>
+墨沼蒼龍蛻骨堅氷霜難犯地爐邉送來雪裏寒威重<lb/>
+領取春回煖律先炙手何勞爭倚附熏心喜見息風煙<lb/>
+烏金聲實真相稱不朽精神藉火傳<lb/>
+　　七言絶句<lb/>
+　　　小遊仙詩　　　　　　　　<hi>唐</hi>曹　唐<lb/>
+去住樓臺一任風十三天洞暗相通行厨侍女炊何物<lb/>
+<pb n="KR4h0141_WYG_224-4a"/>
+　滿竈無煙玉炭紅<lb/>
+　　　　以少炭寄江子之　　　　　<hi>宋</hi>晁沖之<lb/>
+　金籍曽通玉虚殿仙曹擬拜翠微郎莫嫌薄上溫黁火<lb/>
+　猶得濃熏篤耨香<lb/>
+　　　　杜善甫乞炭　　　　　　　<hi>金</hi>劉　勲<lb/>
+　筆口酸嘶解說窮寒爐隨手變春紅因君大笑涪翁拙<lb/>
+　費盡竒香得馬通<lb/>
+　　　　仙居吟　　　　　　　　　<hi>元</hi>僧清珙<lb/>
+<pb n="KR4h0141_WYG_224-4b"/>
+　山風吹破故窓紙片片雪花飛入來添盡布裘渾不煖<lb/>
+　拾枯深撥地爐灰<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選巻二百二十四<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

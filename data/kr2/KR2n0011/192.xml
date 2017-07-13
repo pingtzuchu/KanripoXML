@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>經義考卷一百九十二</head> <lb/>
+    <p>
+<pb n="KR2n0011_WYG_192-1a"/>
+欽定四庫全書<lb/>
+　經義考卷一百九十二<lb/>
+　　　　　　　　　　翰林院檢討朱彞尊撰<lb/>
+　　　春秋<hi>二十五</hi>
+任氏<hi>公輔</hi>春秋明辨<hi>程氏本義作集解</hi>
+　　宋志十一卷<lb/>
+　　　佚<lb/>
+黎氏<hi>良能</hi>左氏釋疑<lb/>
+<pb n="KR2n0011_WYG_192-1b"/>
+　　宋志一卷<lb/>
+　　　佚<lb/>
+左氏譜學<lb/>
+　　宋志一卷<lb/>
+　　　佚<lb/>
+趙氏<hi>震揆</hi>春秋類論<lb/>
+　　宋志四十卷<lb/>
+　　　佚<lb/>
+<pb n="KR2n0011_WYG_192-2a"/>
+　　　　按王氏困學記聞載趙氏類論一條曰左氏<lb/>
+　　　　之害義未有甚於記女寛之論萇𢎞也自昔<lb/>
+　　　　聖賢未有以天廢人殷既錯天命王子則曰<lb/>
+　　　　自靖自獻周天命不又大夫則曰黽勉從事<lb/>
+　　　　治亂安危天之天也危持顚扶人之天也以<lb/>
+　　　　忠臣孝子為違天則亂臣賊子為順天矣而<lb/>
+　　　　可哉<lb/>
+鄧氏<hi>埏</hi>春秋類對<lb/>
+<pb n="KR2n0011_WYG_192-2b"/>
+　　　佚<lb/>
+張氏<hi>冒德</hi>春秋傳類音<lb/>
+　　宋志十卷<lb/>
+　　　佚<lb/>
+韓氏<hi>台</hi>春秋左氏傳口音<lb/>
+　　宋志三卷<lb/>
+　　　佚<lb/>
+陳氏<hi>德寧</hi>公羊新例<lb/>
+<pb n="KR2n0011_WYG_192-3a"/>
+　　宋志十四卷<lb/>
+　　　佚<lb/>
+榖梁新例<lb/>
+　　宋志六卷<lb/>
+　　　佚<lb/>
+張氏<hi>幹</hi>春秋排門顯義<lb/>
+　　宋志十卷<lb/>
+　　　佚<lb/>
+<pb n="KR2n0011_WYG_192-3b"/>
+袁氏<hi>希政</hi>春秋要類<lb/>
+　　宋志五卷<lb/>
+　　　佚<lb/>
+張氏<hi>德昌</hi>春秋傳類<lb/>
+　　宋志十卷<lb/>
+　　　佚<lb/>
+沈氏<hi>緯</hi>春秋諫類<lb/>
+　　宋志二卷<lb/>
+<pb n="KR2n0011_WYG_192-4a"/>
+　　　佚<lb/>
+王氏<hi>仲孚</hi>春秋類聚<lb/>
+　　宋志五卷<lb/>
+　　　佚<lb/>
+黄氏<hi>彬</hi>春秋叙鑑<lb/>
+　　宋志三卷<lb/>
+　　　佚<lb/>
+洪氏<hi>勳</hi>春秋圖鑑<lb/>
+<pb n="KR2n0011_WYG_192-4b"/>
+　　宋志五卷<lb/>
+　　　佚<lb/>
+王氏<hi>叡</hi>春秋守鑑<lb/>
+　　宋志一卷<lb/>
+　　　佚<lb/>
+塗氏<hi>昭良</hi>春秋科義雄覽<lb/>
+　　宋志十卷<lb/>
+　　　佚<lb/>
+<pb n="KR2n0011_WYG_192-5a"/>
+春秋應判<lb/>
+　　宋志三十卷<lb/>
+　　　佚<lb/>
+丁氏<hi>裔昌</hi>春秋解問<lb/>
+　　宋志一卷<lb/>
+　　　佚<lb/>
+邵氏<hi>川</hi>春秋括義<lb/>
+　　宋志三卷<lb/>
+<pb n="KR2n0011_WYG_192-5b"/>
+　　　佚<lb/>
+劉氏<hi>英</hi>春秋列國圖<lb/>
+　　宋志一卷<lb/>
+　　　佚<lb/>
+春秋十二國年厯<lb/>
+　　宋志一卷<lb/>
+　　　佚<lb/>
+謝氏<hi>璧</hi>春秋綴英<lb/>
+<pb n="KR2n0011_WYG_192-6a"/>
+　　宋志二卷<lb/>
+　　　佚<lb/>
+周氏<hi>彦熠</hi>春秋名義<hi>程氏本義作明義</hi>
+　　宋志二卷<lb/>
+　　　佚<lb/>
+　程端學曰廣信人<lb/>
+毛氏<hi>邦彦</hi>春秋正義<lb/>
+　　宋志十二卷<lb/>
+<pb n="KR2n0011_WYG_192-6b"/>
+　　　佚<lb/>
+　程端學曰三衢人<lb/>
+胡氏<hi>定</hi>春秋解<lb/>
+　　宋志十二卷<lb/>
+　　　佚<lb/>
+王氏<hi>汝猷</hi>春秋外傳<lb/>
+　　宋志十五卷<lb/>
+　　　佚<lb/>
+<pb n="KR2n0011_WYG_192-7a"/>
+　程端學曰不用三傳<lb/>
+章氏<hi>元崇</hi>春秋大㫖<lb/>
+　　　佚<lb/>
+毛氏<hi>友</hi>左傳類對賦<lb/>
+　　宋志六卷<lb/>
+　　　佚<lb/>
+蕭氏<hi>之美</hi>春秋三傳合璧要覧<lb/>
+　　宋志二卷<lb/>
+<pb n="KR2n0011_WYG_192-7b"/>
+　　　佚<lb/>
+宋氏<hi>宜春</hi>春秋新義<lb/>
+　　　佚<lb/>
+張氏<hi>應霖</hi>春秋纂記<lb/>
+　　　佚<lb/>
+朱氏<hi>由義</hi>春秋解<lb/>
+　　　佚<lb/>
+趙氏<hi>與權</hi>春秋奏議<lb/>
+<pb n="KR2n0011_WYG_192-8a"/>
+　　　佚<lb/>
+　程端學曰字説道號存畊四明人<lb/>
+方氏<hi>九思</hi>春秋或問<lb/>
+　　　佚<lb/>
+田氏<hi>君右</hi>春秋管見<lb/>
+　　　佚<lb/>
+戴氏<hi>銓</hi>春秋微<lb/>
+　　　佚<lb/>
+<pb n="KR2n0011_WYG_192-8b"/>
+　程端學曰字少胡四明人<lb/>
+戴氏<hi>培父</hi>春秋志<lb/>
+　　　佚<lb/>
+　程端學曰四明人<lb/>
+延陵先生春秋講義<lb/>
+　　宋志二卷<lb/>
+　　　佚<lb/>
+房氏春秋説<lb/>
+<pb n="KR2n0011_WYG_192-9a"/>
+　　　佚<lb/>
+　范仲淹序曰聖人之為春秋也因東魯之文追西周<lb/>
+　之制褒貶大舉賞罰盡在謹聖帝明王之法峻亂臣<lb/>
+　賊子之防其間華衮遺榮蕭斧示辱一字之下百王<lb/>
+　不刋游夏既無補於前公榖蓋有失於後雖丘明之<lb/>
+　傳頗多氷釋而素王之言尚或天遠不講不議其無<lb/>
+　津涯今褒博者流咸志於道以天命之正性修王佐<lb/>
+　之異材不深春秋吾未信也三傳房君有元凱之癖<lb/>
+<pb n="KR2n0011_WYG_192-9b"/>
+　兼仲舒之學丈席之際精義入神吾輩方扣聖門宜<lb/>
+　循師道率屬辭比事之教洞尊王黜霸之經由此登<lb/>
+　泰山而知高入宗廟而見美升堂覩奥必有人焉君<lb/>
+　子哉無廢<lb/>
+莆田陳氏春秋説<lb/>
+　　佚<lb/>
+東海徐氏春秋經㫖<lb/>
+　　　佚<lb/>
+<pb n="KR2n0011_WYG_192-10a"/>
+莆田方氏春秋集解<lb/>
+　　　佚<lb/>
+三山林氏春秋類考<lb/>
+　　　佚<lb/>
+神童江氏春秋説<lb/>
+　　　佚<lb/>
+楊氏春秋辨要<lb/>
+　　　佚<lb/>
+<pb n="KR2n0011_WYG_192-10b"/>
+孔氏春秋書法<lb/>
+　　　佚<lb/>
+范氏春秋斷例<lb/>
+　　　佚<lb/>
+王氏春秋直解<lb/>
+　　　佚<lb/>
+陳氏春秋解義<lb/>
+　　　佚<lb/>
+<pb n="KR2n0011_WYG_192-11a"/>
+鄒氏春秋筆記<hi>宋志作緫例</hi>
+　　宋志一卷<lb/>
+　　　佚<lb/>
+陳氏春秋世家<lb/>
+　　　佚<lb/>
+張氏春秋列傳<lb/>
+　　　佚<lb/>
+亡名氏春秋扶懸<lb/>
+<pb n="KR2n0011_WYG_192-11b"/>
+　　宋志三卷<lb/>
+　　　佚<lb/>
+春秋䇿問<lb/>
+　　宋志三十卷<lb/>
+　　　佚<lb/>
+春秋夾氏<lb/>
+　　宋志三十卷<lb/>
+　　　佚<lb/>
+<pb n="KR2n0011_WYG_192-12a"/>
+春秋釋疑<lb/>
+　　宋志二十卷<lb/>
+　　　佚<lb/>
+春秋考異<lb/>
+　　宋志四卷<lb/>
+　　　佚<lb/>
+春秋直指<lb/>
+　　宋志三卷<lb/>
+<pb n="KR2n0011_WYG_192-12b"/>
+　　　佚<lb/>
+春秋類<lb/>
+　　宋志六卷<lb/>
+　　　佚<lb/>
+春秋例<lb/>
+　　宋志六卷<lb/>
+　　　佚<lb/>
+春秋表記<lb/>
+<pb n="KR2n0011_WYG_192-13a"/>
+　　宋志一卷<lb/>
+　　　佚<lb/>
+春秋王侯世系<hi>本義作世家</hi>
+　　宋志一卷<lb/>
+　　　佚<lb/>
+春秋左氏傳鑑<lb/>
+　　通志三卷<lb/>
+　　　佚<lb/>
+<pb n="KR2n0011_WYG_192-13b"/>
+春秋機要<lb/>
+　　通志一卷<lb/>
+　　　佚<lb/>
+春秋國君名例<lb/>
+　　通志一卷<lb/>
+　　　佚<lb/>
+魯史春秋卦名<lb/>
+　　通志一卷<lb/>
+<pb n="KR2n0011_WYG_192-14a"/>
+　　　佚<lb/>
+春秋蒙求<lb/>
+　　三卷<lb/>
+　　　佚<lb/>
+　晁公武曰皇朝王舜俞序不知何人所作<lb/>
+　王應麟曰䝉求王舜俞序之<lb/>
+左傳類要<lb/>
+　　宋志五卷<lb/>
+<pb n="KR2n0011_WYG_192-14b"/>
+　　　佚<lb/>
+春秋義例<lb/>
+　　通志十卷<lb/>
+　　　佚<lb/>
+春秋氏族名諡譜<lb/>
+　　通志五卷<lb/>
+　　　佚<lb/>
+春秋括甲子<lb/>
+<pb n="KR2n0011_WYG_192-15a"/>
+　　　佚<lb/>
+春秋地名譜<lb/>
+　　　佚<lb/>
+春秋災異應錄<lb/>
+　　　佚<lb/>
+春秋三傳分門事類<lb/>
+　　宋志十二卷<lb/>
+　　　佚<lb/>
+<pb n="KR2n0011_WYG_192-15b"/>
+　趙希弁曰莫詳誰氏所編以類相從而分其門也<lb/>
+釋<hi>贊寧</hi>駁春秋繁露<lb/>
+　　二篇<lb/>
+　　　佚<lb/>
+　吳處厚曰近世釋子多務吟詠惟國初贊寧獨以著<lb/>
+　書立言尊崇儒術為事極為王禹偁所激賞與之書<lb/>
+　曰使聖人之道無傷於明夷儒家者流不至於迷復<lb/>
+　經義考卷一百九十二<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

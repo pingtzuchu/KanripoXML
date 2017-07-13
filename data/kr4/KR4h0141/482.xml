@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_482-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選巻四百八十三<lb/>
+　　促織類<hi>絡緯同</hi>
+　　　七言古<hi>附長短句</hi>
+　　　　促織鳴　　　　　　　　　<hi>元</hi>陳　髙<lb/>
+　促織鳴鳴唧唧嬾婦不驚客心悽惻秋夜月明露如雨<lb/>
+　西風吹凉透絺苧嬾婦無裳終懶織逺客衣單恨砧杵<lb/>
+　促織促織無復悲鳴客心良苦嬾婦不驚<lb/>
+<pb n="KR4h0141_WYG_482-1b"/>
+　　　　絡緯詞　　　　　　　　　<hi>明</hi>張　弼<lb/>
+　絡緯不停聲從昬直到眀不成一絲縷徒負織作名蜘<lb/>
+　蛛聲寂寂吐絲復自織織網網飛蟲飛蟲足充食事在<lb/>
+　力為不在聲思之令人三歎息<lb/>
+　　　　絡緯吟　　　　　　　　　<hi>明</hi>貝　翔<lb/>
+　髙城月白風凄凄夜聞絡緯迎秋啼初驚楊栁玉樓外<lb/>
+　又過梧桐金井西一絲不斷抽寒露宛轉猶悲嵗年暮<lb/>
+　機中少婦暗投梭愁絶寒窓不成素<lb/>
+<pb n="KR4h0141_WYG_482-2a"/>
+　　五言律<lb/>
+　　　促織　　　　　　　　　　<hi>唐</hi>杜　甫<lb/>
+促織甚微細哀音何動人草根吟不稳牀下夜相親久<lb/>
+客得無淚故妻難及晨悲絲與急管感激異天真<lb/>
+　　　促織　　　　　　　　　　<hi>金</hi>周　昻<lb/>
+促織来何處秋風暗與期苦吟人不觧多恨爾何知獨<lb/>
+枕難安夜寒衣欲及時凌晨攬清鏡一半忽成絲<lb/>
+　　　舟夜聞絡緯　　　　　　　<hi>明</hi>王　醇<lb/>
+<pb n="KR4h0141_WYG_482-2b"/>
+漸傷空杼軸為響亦徒然汝力雖無惜客衣曽未全殘<lb/>
+燈孤舫思秋草半江煙獨不闗心者篙師正倦眠<lb/>
+　　七言律<lb/>
+　　　促織　　　　　　　　　　<hi>明</hi>朱之蕃<lb/>
+閒階聲徹瑣窓中暗送梧桐落葉風髙韻不緣矜戰勝<lb/>
+微吟端欲助機工雨餘切切昬鐘動燈下叨叨午漏通<lb/>
+催得匹成輸稅早貽人安枕不言功<lb/>
+　　　絡緯　　　　　　　　　　　朱之蕃<lb/>
+<pb n="KR4h0141_WYG_482-3a"/>
+誰遣繅車徹夜鳴頻催雲錦織當成送来枕上縈詩思<lb/>
+聽向牀頭繫旅情露濯籬英増絢爛風傳鄰杵和凄清<lb/>
+冰蠶甕蠒知難覔何似秋蟲巧弄聲<lb/>
+　　　戲題鬪促織　　　　　　　<hi>明</hi>張　維<lb/>
+自離草莽得登堂賢主恩優念不忘飽食甕城常飬銳<lb/>
+怒臨沙塹敢摧强敵聲夜振鬚仍奮壮氣秋髙齒漸長<lb/>
+眼底孽餘平剪後功成誰復論青黄<lb/>
+　　五言絶句<lb/>
+<pb n="KR4h0141_WYG_482-3b"/>
+　　　促織　　　　　　　　　　<hi>宋</hi>蘇　軾<lb/>
+月叢號耿耿露葉泣溥溥夜長不自暖那憂公子寒<lb/>
+　　　促織　　　　　　　　　　<hi>元</hi>郝　經<lb/>
+亂聒霜前夜忙催機上秋無衣汝何益重作旅人愁<lb/>
+　　　吳子夜四時歌　　　　　　<hi>元</hi>楊維楨<lb/>
+秋風吹羅帷玊郎思寄衣多情雙絡緯啼近妾寒機<lb/>
+　　　秋夜　　　　　　　　　　<hi>明</hi>僧文貞<lb/>
+露氣夜凄迷空庭絡緯啼被他風引去忽過竹門西<lb/>
+<pb n="KR4h0141_WYG_482-4a"/>
+　　七言絶句<lb/>
+　　　促織　　　　　　　　　　<hi>唐</hi>張　喬<lb/>
+念爾無機自有情迎寒辛苦弄梭聲椒房金屋何曽識<lb/>
+偏向貧家壁下鳴<lb/>
+　　　宿石門山居　　　　　　　<hi>唐</hi>雍　陶<lb/>
+窓燈欲滅夜愁生螢火飛来促織鳴宿客㡬回眠又起<lb/>
+一谿秋水枕邊聲<lb/>
+　　　山間秋夜　　　　　　　　<hi>宋</hi>真山民<lb/>
+<pb n="KR4h0141_WYG_482-4b"/>
+夜色秋光共一䦨飽收風露入脾肝虛簷立盡梧桐影<lb/>
+絡緯數聲山月寒<lb/>
+　　　宫詞　　　　　　　　　　<hi>宋</hi>花蘂夫人<lb/>
+金井秋啼絡緯聲出花宫漏報嚴更不知誰是金鑾直<lb/>
+玊宇沉沉夜氣清<lb/>
+　　　絡緯　　　　　　　　　　<hi>明</hi>邾　經<lb/>
+牽牛風露滿籬根淡月疎星夜未分燈下有人抛錦字<lb/>
+機絲零亂不成文<lb/>
+<pb n="KR4h0141_WYG_482-5a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR4h0141_WYG_482-5b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選巻四百八十三<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

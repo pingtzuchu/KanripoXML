@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_291-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選巻二百九十一<lb/>
+　　烏桕類<lb/>
+　　　七言絶句<lb/>
+　　　　水亭秋日偶書　　　　　　<hi>宋</hi>林　逋<lb/>
+　巾子峰頭烏桕樹㣲霜未落已先紅憑欄髙看復低看<lb/>
+　半在石池波影中<lb/>
+　　　　行田　　　　　　　　　　<hi>宋</hi>方　岳<lb/>
+<pb n="KR4h0141_WYG_291-1b"/>
+　屋頭烏桕午隂宻牛與牧童相對眠不是官中催稅急<lb/>
+　十年前已學耕田<lb/>
+　　　　寄髙彬　　　　　　　　　<hi>明</hi>孫　蕡<lb/>
+　條風吹綠滿蟾谿蠟屐行春日向西獨木橋邊烏桕樹<lb/>
+　鵓鳩飛上上頭啼<lb/>
+　　　　湖邨晩眺　　　　　　　　<hi>明</hi>樊　阜<lb/>
+　邨南邨北總西風桕葉先霜淺著紅野鳥飛邊堪入畫<lb/>
+　數家籬落夕陽中<lb/>
+<pb n="KR4h0141_WYG_291-2a"/>
+　　　　征人早行圖　　　　　　　<hi>明</hi>楊　慎<lb/>
+　杜鵑花下杜鵑啼烏桕樹頭烏桕棲不待雞鳴度闗去<lb/>
+　夢中征馬尚聞嘶<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR4h0141_WYG_291-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選巻二百九十一<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

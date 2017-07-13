@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>讀易舉要目錄</head> <lb/>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　經部一<lb/>
+　讀易舉要　　　　　　易𩔖<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案讀易舉要四卷宋俞琰撰是書文<lb/>
+　　　　淵閣書目焦竑經籍志朱睦㮮授經圖皆著<lb/>
+　　　　於録然外間𫝊本殊稀故朱彝尊經義考亦<lb/>
+　　　　云未見今惟永樂大典尚散見于各韻之中<lb/>
+　　　　可以採輯謹裒合編次仍定為四卷考琰之<lb/>
+<pb n="1b"/>
+　　　　集説以朱子為宗而此書論剛柔往來則以<lb/>
+　　　　兩卦反對見義例以泰否二卦彖辭較朱子<lb/>
+　　　　卦變之説更近自然其易圖多本邵子而此<lb/>
+　　　　書論象數之學則駁張行成以元亨利貞為<lb/>
+　　　　周易起數於四之証蓋不為苟同者至於田<lb/>
+　　　　疇謂積乾坤屯蒙需訟之策至于師而六軍<lb/>
+　　　　之數皆全史璿謂革居四十九應大衍之數<lb/>
+　　　　故云天地革而四時成節居六十而甲子一<lb/>
+<pb n="2a"/>
+　　　　周故云天地節而四時成皆以偶合之見窺<lb/>
+　　　　聖人作易之意琰顧取之則殊非本㫖然琰<lb/>
+　　　　於易苦思力索積平生之力為之意所獨契<lb/>
+　　　　亦往往超出前人所列諸家著述雖多本於<lb/>
+　　　　晁公武陳振孫兩家而名字爵里間有異同<lb/>
+　　　　亦可資考證固宜與所撰集説並行也琰别<lb/>
+　　　　有六十四卦圖易圖合璧聯珠易圖纂要諸<lb/>
+　　　　書舊與此書合刻修永樂大典之時割裂龎<lb/>
+<pb n="2b"/>
+　　　　雜淆其端緒惟八分為十六十六分為三十<lb/>
+　　　　二兩圖猶標俞琰纂圖之目其餘諸圖盡冒<lb/>
+　　　　讀易舉要之名合併為一殊為瞀亂今悉考<lb/>
+　　　　訂汰除以還其舊焉乾隆四十六年九月恭<lb/>
+　　　　校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="3a"/>
+欽定四庫全書<lb/>
+　讀易舉要目錄<lb/>
+　　卷一<lb/>
+　　　易為卜筮之書<lb/>
+　　　卦畫取象<lb/>
+　　　占用隂陽老少<lb/>
+　　　占用貞悔<lb/>
+　　　卦爻之占辭<lb/>
+<pb n="3b"/>
+　　　象占所稱<lb/>
+　　　象辭占辭之異<lb/>
+　　　卦變<lb/>
+　　　剛來柔來上下圖<lb/>
+　　卷二<lb/>
+　　　易中雜例<lb/>
+　　　卦義<lb/>
+　　　八卦主爻圗<lb/>
+<pb n="4a"/>
+　　　十二卦主爻圖<lb/>
+　　　卦之主爻<lb/>
+　　　乘承比應<lb/>
+　　　辭韻之叶<lb/>
+　　卷三<lb/>
+　　　論象數之學<lb/>
+　　　論易數之是非<lb/>
+　　　河圖洛書之附㑹<hi>附圖三</hi>
+<pb n="4b"/>
+　　　卦氣之附㑹<lb/>
+　　　納甲之附㑹<lb/>
+　　　三易<lb/>
+　　　易字義<lb/>
+　　　卦象彖爻字義<lb/>
+　　　重卦之人<lb/>
+　　　名卦之人<lb/>
+　　　作彖辭爻辭之人<lb/>
+<pb n="5a"/>
+　　卷四<lb/>
+　　　經分上下二篇<hi>附圖三</hi>
+　　　十翼之目<lb/>
+　　　古文周易十二篇<lb/>
+　　　漢儒相傳之易<lb/>
+　　　魏晉以後唐宋以來諸家著述<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>誠齋詩話</head>
+    <p>
+<pb n="KR4i0033_WYG_000-1a"/>
+欽定四庫全書　　　　　集部九<lb/>
+　誠齋詩話　　　　　　　詩文評類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案誠齋詩話一巻宋楊萬里撰萬里<lb/>
+　　　　有誠齋易傳已著録此編題曰詩話而論文<lb/>
+　　　　之語乃多於詩又頗及諧謔雜事盖宋人所<lb/>
+　　　　著往往如斯不但萬里也萬里本以詩名故<lb/>
+　　　　所論往往中理而其為詩好用文句及俚語<lb/>
+<pb n="KR4i0033_WYG_000-1b"/>
+　　　　故以李師中之山如仁者夀水似聖之清為<lb/>
+　　　　善用經以蘇軾之避謗詩尋醫畏病酒入務<lb/>
+　　　　僧顯萬之探支春色墻頭朶闌入風光竹外<lb/>
+　　　　梢為善用字與自稱其立岸風大壯還舟燈<lb/>
+　　　　小明以詩篇名對易卦者均非定論又李商<lb/>
+　　　　隱夜半宴歸宫漏永薛王沉醉夀王醒暴揚<lb/>
+　　　　國惡至為無禮萬里以為微婉顯晦盡而不<lb/>
+　　　　朽尤宋人作詩好為訐激之習氣矣至於萬<lb/>
+<pb n="KR4i0033_WYG_000-2a"/>
+　　　　里時代距南渡初不逺乃以隆祐太后布告<lb/>
+　　　　中外手詔為勸進髙宗手書於考論典故亦<lb/>
+　　　　為紕謬殆所謂瑕瑜不掩利鈍互陳者歟全<lb/>
+　　　　書已編入誠齋集中此乃别行之本今亦别<lb/>
+　　　　著於録焉乾隆四十六年十二月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

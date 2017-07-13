@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>集玉山房稿</head>
+    <p>
+<pb n="KR4e0237_WYG_000-1a"/>
+欽定四庫全書　　　　集部六<lb/>
+　集玉山房稿　　　　　别集類五<hi>明</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案集玉山房稿十巻明葛昕撰昕字<lb/>
+　　　　幼明號龍池徳平人官尚寳司卿昕以䕃起<lb/>
+　　　　家初除都督府都事陽武侯薛鋹以貧故幾<lb/>
+　　　　不得襲昕力排羣議鋹始得襲封尋遷工部<lb/>
+　　　　屯田司郎中議裁惜薪司炭額百餘萬又汰<lb/>
+<pb n="KR4e0237_WYG_000-1b"/>
+　　　　厰司内官五百六十一人禍幾不測然連三<lb/>
+　　　　疏争之竟如議又争戚畹鄭福濫請䘏典雖<lb/>
+　　　　不行天下壯之其風節頗侃侃不阿其他文<lb/>
+　　　　亦踈爽駿快無媕妸齷齪之氣肖其為人惟<lb/>
+　　　　贈孔劍峯一序似乎溺于左道不類昕之所<lb/>
+　　　　為然昕不得其父母遺像孔以術追寫如生<lb/>
+　　　　故喜極而譽之發于孝子之心不自知其言<lb/>
+　　　　之失猶可以曲諒者也是集為其子如龍等<lb/>
+<pb n="KR4e0237_WYG_000-2a"/>
+　　　　所編凡疏一巻贊語一巻詩一巻序一巻誌<lb/>
+　　　　狀一巻記銘跋一巻啓一巻書二巻祭文一<lb/>
+　　　　巻今仍其舊第著之於錄焉乾隆四十四年<lb/>
+　　　　五月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

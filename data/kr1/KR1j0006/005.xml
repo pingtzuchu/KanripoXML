@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="1a"/>
+輶軒使者絶代語釋別國方言第五<lb/>
+鍑<hi>釡屬也音富</hi>北燕朝鮮洌水之間或謂之錪<hi>音腆</hi>
+或謂之鉼<hi>音餅</hi>江淮陳楚之間謂之錡<hi>或曰三脚釡也音技</hi>或謂之鏤呉揚之間謂之鬲<hi>音曆</hi>
+釡自關而西或謂之釡或謂之鍑<hi>鍑亦釡之揔名</hi>
+甑自關而東謂之甗<hi>音言</hi>或謂之<graphic n="KR1092" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1092.png" mimeType="image/png"/>
+                    <hi>音岑梁州呼鉹</hi>或<lb/>
+謂之酢餾<hi>屋霤</hi>
+盂<hi>音亐</hi>宋楚魏之間或謂之盌<hi>烏管反</hi>盌謂之盂<lb/>
+<pb n="1b"/>
+或謂之銚銳<hi>謡語</hi>盌謂之櫂盂謂之柯<hi>轉相釋者廣異語也</hi>海岱東齊北燕之間或謂之<graphic n="KR4071" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4071.png" mimeType="image/png"/>
+                    <hi>書卷</hi>
+㿿<hi>音雅</hi>椷<hi>封/緘</hi>盞<hi>酒/醆</hi>䀀<hi>薄淹/反</hi>閜<hi>呼雅/反</hi>
+                    <graphic n="KR2461" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2461.png" mimeType="image/png"/>
+                    <hi>音/章</hi>
+                    <graphic n="KR2168" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2168.png" mimeType="image/png"/>
+                    <hi>音摩</hi>桮<lb/>
+也秦晉之郊謂之㿿<hi>所謂伯㿿者也</hi>自關而東趙魏<lb/>
+之間曰椷或曰盞<hi>最小桮也</hi>或曰䀀其大者謂之<lb/>
+閜呉越之間曰<graphic n="KR2461" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2461.png" mimeType="image/png"/>齊右平原以東或謂之<graphic n="KR2168" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2168.png" mimeType="image/png"/>
+桮其通語也<lb/>
+㼖<hi>瓠勺也音麗</hi>陳楚宋魏之間或謂之簞或謂之<lb/>
+<pb n="2a"/>
+<graphic n="KR2714" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2714.png" mimeType="image/png"/>
+                    <hi>今江東通呼勺爲<graphic n="KR2714" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2714.png" mimeType="image/png"/>音羲</hi>或謂之瓢<lb/>
+案陳楚宋魏之間謂之　自關東西謂之案<lb/>
+桮<graphic n="KR4046" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4046.png" mimeType="image/png"/>
+                    <hi>盛桮器籠也</hi>陳楚宋衞之間謂之桮<graphic n="KR4046" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4046.png" mimeType="image/png"/>又謂<lb/>
+之豆筥自關東西謂之桮<graphic n="KR4046" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4046.png" mimeType="image/png"/>
+箸筩<hi>盛朼箸也</hi>陳楚宋魏之間謂之筲<hi>鞭鞘</hi>或謂<lb/>
+之籝<hi>漢書曰遺子黄金滿籝音盈也</hi>自關而西謂之桶檧<hi>今俗亦通呼小籠爲桶檧音籠冠檧蘇勇反或作筩</hi>
+㼚<hi>音岡</hi>瓭<hi>都感反/亦音沉/音/舞</hi>䍃<hi>音/由</hi>㽀<hi>音/鄭</hi>㼻<hi>胙江/反</hi>甀<hi>度睡<pb n="2b"/>反</hi>瓮瓿甊<hi>瓿音部甊洛口反</hi>㽈<hi>牛志/反</hi>甖<hi>於庚反</hi>靈桂之<lb/>
+郊謂之㼚<hi>今江東通名大瓮爲㼚</hi>其小者謂之瓭周魏<lb/>
+之間謂之<hi>今江東亦呼甖爲子</hi>秦之舊都謂之㽀<lb/>
+淮汝之間謂之䍃江湘之間謂之㼻自關而<lb/>
+西晉之舊都河汾之間<hi>汾水出大原經絳北西南入河</hi>其大<lb/>
+者謂之甀其中者謂之瓿甊自關而東趙魏<lb/>
+之郊謂之瓮或謂之甖東齊海岱之間謂之<lb/>
+㽈甖其通語也<lb/>
+<pb n="3a"/>
+罃陳魏宋楚之間曰㼶<hi>音臾</hi>或曰㼡<hi>音殊</hi>燕之東<lb/>
+北朝鮮洌水之間謂之瓺<hi>音暢亦膓</hi>齊之東北海<lb/>
+岱之間謂之儋<hi>所謂家無儋石之餘曲音擔字或作甔</hi>周洛韓<lb/>
+鄭之間謂之甀或謂之罃罃謂之㼰<hi>鼔鼙</hi>
+                    <graphic n="KR3943" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3943.png" mimeType="image/png"/>謂<lb/>
+之㽄<lb/>
+缶謂之瓿㼴<hi>即盆也音偶</hi>其小者謂之瓶<lb/>
+罃甈謂之盎<hi>案爾雅甈康壺而方言以爲盆未詳也甈郄罽反盎烏浪反</hi>
+自關而西或謂之盆或謂之盎其小者謂之<lb/>
+<pb n="3b"/>
+升甌<hi>惡牟反亦音憂</hi>
+甂<hi>音邊</hi>陳魏宋楚之間謂之㼵<hi>今河北人呼小盆爲㼵子杜啓反</hi>自關而西謂之甂其大者謂之甌<lb/>
+所以注斛<hi>盛米穀寫斛中者也</hi>陳魏宋楚之間謂之䈪<lb/>
+<hi>今江東亦呼爲䈪音巫覡</hi>自關而西謂之注箕陳魏宋楚<lb/>
+之間謂之籮<hi>䈪亦籮屬也形小而髙無耳</hi>
+炊䉛謂之縮<hi>漉米䉛也</hi>或謂之<hi>音/藪</hi>或謂之㔯<hi>音旋江東呼浙籖</hi>
+<pb n="4a"/>
+篝<hi>今薫籠也</hi>陳楚宋魏之間謂之牆居<lb/>
+扇自關而東謂之箑<hi>今江東亦通名扇爲箑音䈉</hi>自關而<lb/>
+西謂之扇<lb/>
+碓機<hi>碓梢也</hi>陳魏宋楚自關而東謂之梴<hi>音延</hi>磑<lb/>
+或謂之䃀<hi>即磨也錯碓反</hi>
+繘<hi>汲水索也音橘</hi>自關而東周洛韓魏之間謂之綆<lb/>
+或謂之絡<hi>音洛</hi>關西謂之繘綆<lb/>
+櫪<hi>養馬器也</hi>梁宋齊楚北燕之間或謂之樎<hi>音縮</hi>或<lb/>
+<pb n="4b"/>
+謂之皁<hi>皁隷之名於此乎出</hi>
+飲馬橐自關而西謂之裺囊<hi>音䳺</hi>或謂之裺篼<lb/>
+或謂之㡞篼<hi>音樓</hi>燕齊之間謂之帪<hi>廣雅作振字音同耳</hi>
+鉤<hi>懸昒者</hi>宋楚陳魏之間謂之鹿觡<hi>或呼鹿角</hi>或謂<lb/>
+之鉤格自關而西謂之鉤或謂之䥩<hi>音微</hi>
+臿燕之東北朝鮮洌水之間謂之<graphic n="KR1857" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1857.png" mimeType="image/png"/>
+                    <hi>湯料反此亦鍫聲轉也</hi>宋魏之間謂之鏵或謂之鍏<hi>音韋</hi>江淮南<lb/>
+楚之間謂之臿沅湘之間謂之畚趙魏之間<lb/>
+<pb n="5a"/>
+謂之喿<hi>字亦作鍫也</hi>東齊謂之梩<hi>音駭江東又呼鍫刃爲鐅普蔑反</hi>
+𣏌<hi>無齒爲朳</hi>宋魏之間謂之渠挐<hi>今江東名亦然諾猪反</hi>或<lb/>
+謂之渠䟽<hi>語轉也</hi>
+僉<hi>令連架所以打榖者</hi>宋魏之間謂之攝殳<hi>音殊亦杖名也</hi>或<lb/>
+謂之度<hi>今江東呼打爲度音量度也</hi>自關而西謂之棓<hi>蒲項反</hi>或謂之拂<hi>音拂</hi>齊楚江淮之間謂之柍<hi>音悵怏亦音爲車鞅此皆打之別名也</hi>或謂之桲<hi>音勃</hi>
+刈鈎江淮陳楚之間謂之鉊<hi>音召</hi>或謂之鐹<hi>音果</hi>
+<pb n="5b"/>
+自關而西或謂之鈎戓謂之鎌或謂之鍥<hi>音結</hi>
+薄宋魏陳楚江淮之間謂之䒼或謂之麴<hi>此直語楚聲轉也</hi>自關而西謂之薄南楚謂之蓬薄<lb/>
+橛燕之東北朝鮮洌水之間謂之椵<hi>揭杙也江東呼都音叚</hi>
+槌<hi>絲蠶薄柱也度畏反</hi>宋魏陳楚江淮之間謂之植<hi>音值</hi>
+自關而西謂之槌齊謂之样<hi>音陽</hi>其横關西曰<lb/>
+㮳<hi>音朕亦名校音交</hi>宋魏陳楚江淮之間謂之㯂<hi>音帶</hi>
+<pb n="6a"/>
+齊部謂之㭙<hi>丁謹反</hi>胡以縣㯂關西謂之䌞<hi>力冉反</hi>東齊海岱之間謂之<hi>相主反</hi>宋魏陳楚江<lb/>
+淮之間謂之繯<hi>擐甲</hi>或謂之環<hi>檈</hi>
+簟宋魏之間謂之笙<hi>今江東通言笙</hi>或謂之籧䒼自<lb/>
+關而西謂之簟或謂之䓆<hi>今云䓆篾篷也</hi>其粗者謂<lb/>
+之籧篨自關而東或謂之篕掞<hi>音剡江東呼籧篨爲䉬音廢</hi>
+筕篖<hi>似籧篨直文而粗江東呼笡音</hi>自關而東周洛楚魏<lb/>
+之間謂之倚佯<hi>音羊</hi>自關而西謂之筕篖南楚<lb/>
+<pb n="6b"/>
+之外謂之篖<lb/>
+牀齊魯之間謂之簀<hi>床版也音迮</hi>陳楚之間或謂<lb/>
+之笫<hi>音滓又音姊</hi>其杠北燕朝鮮之間謂之樹自<lb/>
+關而西秦晉之間謂之杠南楚之間謂之趙<lb/>
+<hi>趙當作兆聲之轉也中國亦呼杠爲桃牀皆通也</hi>東齊海岱之間謂<lb/>
+之樺<hi>音先</hi>其上板衞之北郊趙魏之間謂之牒<lb/>
+<hi>簡牒</hi>或曰牑<hi>履屬</hi>
+俎几也西南蜀漢之郊曰杫<hi>音賜</hi>
+<pb n="7a"/>
+榻前几江沔之間曰桯<hi>今江東呼爲承桯音刑</hi>趙魏之<lb/>
+間謂之椸<hi>音易</hi>凡其髙者謂之虡<hi>即筍虡也音巨</hi>
+篗榬也<hi>所以絡絲也音爰</hi>兖豫河濟之間謂之榬絡<lb/>
+謂之格<hi>所以轉篗給車也</hi>
+繀車<hi>蘇對反</hi>趙魏之間謂之轣轆車東齊海岱<lb/>
+之間謂之道䡄<lb/>
+戸鑰自關之東陳楚之間謂之鍵<hi>巨蹇反</hi>自關<lb/>
+之西謂之鑰<lb/>
+<pb n="7b"/>
+簙謂之蔽或謂之箘<hi>音囷</hi>秦晉之間謂之簙呉<lb/>
+楚之間或謂之蔽或謂之箭裏<hi>簿著名箭廣雅云</hi>或<lb/>
+謂之簙毒或謂之夗專<hi>夗於辯反專音轉</hi>或謂之<lb/>
+璇<hi>或曰竹器所以整頓簿者銓旋兩音</hi>或謂之棊所以投簙謂<lb/>
+之枰<hi>評論</hi>或謂之廣平所以行棊謂之局或謂<lb/>
+之曲道<lb/>
+圍棊謂之弈自關而東齊魯之間皆謂之弈<lb/>
+輶軒使者絶代語釋別國方言第五<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

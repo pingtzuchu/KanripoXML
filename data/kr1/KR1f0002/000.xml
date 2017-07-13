@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="1a"/>
+孝經序<lb/>
+　　唐玄宗皇帝御製<lb/>
+朕聞上古其風朴略雖因心之孝巳萌而資<lb/>
+敬之禮猶簡及乎仁義旣有親譽益著聖人<lb/>
+知孝之可以敎人也故因嚴以敎敬因親以<lb/>
+敎愛於是以順移忠之道昭矣立身揚名之<lb/>
+義彰矣子曰吾志在春秋行在孝經<hi>〇行下孟反下同</hi>是知孝者德之本歟經曰昔者明王之以<lb/>
+<pb n="1b"/>
+孝理天下也不敢遺小國之臣而況於公侯<lb/>
+伯子男乎朕甞三復斯言<hi>○三息暫反</hi>景行先哲<lb/>
+雖無德敎加於百姓庶幾廣愛刑于四海嗟<lb/>
+乎夫子沒而微言絕異端起而大義乖況泯<lb/>
+絕於秦<hi>〇泯彌忍反</hi>得之者皆煨燼之末<hi>○煨烏恢反燼徐忍反</hi>濫觴於漢<hi>○濫盧闞反</hi>傳之者皆糟粕之餘<lb/>
+<hi>○粕匹角反</hi>故魯史春秋學開五傳國風雅頌分<lb/>
+爲四詩去聖逾逺源流益別近觀孝經舊註<lb/>
+<pb n="2a"/>
+踳駮尤甚<hi>○踳尺尹反駮北角反</hi>至於跡相祖述殆且<lb/>
+百家<hi>○殆音待</hi>業擅專門猶將十室希升堂者必<lb/>
+自開戶牖攀逸駕者必騁殊軌轍<hi>○騁丑郢反</hi>是<lb/>
+以道隱小成言隱浮僞且傳以通經爲義<hi>〇傳直戀反</hi>義以必當爲主至當歸一精義無二安<lb/>
+得不翦其繁蕪<hi>○當去聲下同</hi>而撮其樞要也韋昭<lb/>
+王肅先儒之領袖虞翻劉邵抑又次焉劉炫<lb/>
+明安國之本<hi>○炫音縣</hi>陸澄譏康成之註在理或<lb/>
+<pb n="2b"/>
+當何必求人今故特舉六家之異同會五經<lb/>
+之旨趣<hi>○趣七聚反</hi>約文敷暢義則昭然分註錯<lb/>
+經理亦條貫寫之琬琰<hi>○琬音宛琰以冉反</hi>庶有補於<lb/>
+將來且夫子談經志取垂訓雖五孝之用則<lb/>
+別而百行之源不殊是以一章之中凡有數<lb/>
+句一句之內意有兼明具載則文繁略之又<lb/>
+義闕今存于䟽用廣發揮<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

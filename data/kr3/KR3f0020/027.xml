@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3f0020_WYG_027-1a"/>
+欽定四庫全書<lb/>
+欽定儀象考成卷二十七<lb/>
+　天漢經緯度表一<lb/>
+　　黄道北天漢度<lb/>
+<pb n="KR3f0020_WYG_027-2a"/>
+　　天漢黄赤經緯度表<lb/>
+晉書天文志云天漢起東方經箕尾之間謂之漢津乃<lb/>
+分為二道其南經傳説魚天籥天弁河鼓其北經龜貫<lb/>
+箕下次絡南斗魁左旗至天津下而合南道乃西南行<lb/>
+又分夾瓠𤓰絡人星杵造父螣蛇王良附路閣道北端<lb/>
+大陵天船卷舌而南行絡五車經北河之南入東井水<lb/>
+位而東南行絡南河闕邱天狗天記天稷至七星南而<lb/>
+没明史天文志云近年浮海之人至赤道以南見雲漢<lb/>
+<pb n="KR3f0020_WYG_027-2b"/>
+過天狗之墟抵天社海石之南踰南船帶海山貫十字<lb/>
+架蜜蜂傍馬腹經南門絡三角龜杵而屬扵尾宿是為帶<lb/>
+天一周靈䑓儀象志天漢經緯度分列黄道南北赤道南<lb/>
+北四表與明史合但不按宮次或分二界或分三界或分<lb/>
+四界逐度列表其分合曲折之處尚有未詳今亦分黄赤<lb/>
+南北四表而各按宮次分南界北界南之北界北之南界<lb/>
+各列四層其分合既為明晰至其曲折之處經緯或有<lb/>
+不同又扵每度之間細分列表按數圖之庶合懸象云<lb/>
+<pb n="KR3f0020_WYG_027-3a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_027-4a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_027-5a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_027-6a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_027-7a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_027-8a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_027-9a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_027-10a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_027-11a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_027-12a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_027-13a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_027-14a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_027-15a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_027-16a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3f0020_WYG_027-16b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+欽定儀象考成卷二十七<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

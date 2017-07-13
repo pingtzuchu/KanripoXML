@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>續詩話</head>
+    <p>
+<pb n="KR4i0007_WYG_000-1a"/>
+欽定四庫全書　　　　　集部九<lb/>
+　續詩話　　　　　　　　詩文評類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案續詩話一巻宋司馬光續六一詩<lb/>
+　　　　話而作傳家集未載惟見百川學海毛晉津<lb/>
+　　　　逮秘書亦錄之前有光自作小引光徳行功<lb/>
+　　　　業冠絶一時非斤斤於詞章之末者而品第<lb/>
+　　　　諸詩乃極精宻如林逋之疎影横斜水清淺<lb/>
+<pb n="KR4i0007_WYG_000-1b"/>
+　　　　暗香浮動月黄昏魏野之數聲離岸櫓幾㸃<lb/>
+　　　　别州山韓琦之花去曉叢蜂蝶亂雨餘春圃<lb/>
+　　　　桔槔閒耿仙芝之草色引開盤馬地簫聲吹<lb/>
+　　　　暖賣餳天冦準之江南春詩陳堯佐之吳江<lb/>
+　　　　詩暢當王之渙之鸛雀樓詩及其父池行色<lb/>
+　　　　詩相沿傳誦皆自光始表出之其論魏野詩<lb/>
+　　　　誤改葯字及説杜甫國破山河在一首尤妙<lb/>
+　　　　中理解非他詩話所及惟梅堯臣病死一條<lb/>
+<pb n="KR4i0007_WYG_000-2a"/>
+　　　　與詩無渉乃載之此書殊不可解者光别有<lb/>
+　　　　涑水紀聞皆記當時士大夫逸事或兩書並<lb/>
+　　　　修一時誤錄入此冊中亦未可定也乾隆四<lb/>
+　　　　十二年五月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

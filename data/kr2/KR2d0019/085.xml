@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2d0019_WYG_085-1a"/>
+　欽定四庫全書<lb/>
+御定歴代紀事年表卷八十九<lb/>
+　　<hi>起甲辰宋徽宗宣和六年○止丁未宋欽宗靖康二年四月</hi>凡三年有竒<lb/>
+　　表例説<lb/>
+　　　<hi>臣</hi>之樞謹按遼天祚以保大五年亡於金而西遼<lb/>
+　　　耶律達實稱帝但西遼於遼為疏族又僻處遐荒<lb/>
+　　　視後梁之偏安江陵等耳兹倣其例於金天㑹四<lb/>
+　　　年另置一格於金格之下<lb/>
+<pb n="KR2d0019_WYG_085-2a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_085-3a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_085-4a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_085-5a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_085-6a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_085-7a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_085-8a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_085-9a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_085-10a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_085-11a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_085-12a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_085-13a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_085-14a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_085-15a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_085-16a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_085-17a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_085-18a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_085-19a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_085-20a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_085-21a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_085-22a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_085-23a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_085-24a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_085-25a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_085-26a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_085-27a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_085-28a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_085-29a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_085-30a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_085-31a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_085-32a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_085-33a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_085-34a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_085-35a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_085-36a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_085-37a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_085-38a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_085-39a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_085-40a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_085-41a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_085-42a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_085-43a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_085-44a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_085-45a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_085-46a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_085-47a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_085-48a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_085-49a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_085-50a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_085-51a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_085-52a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_085-53a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_085-54a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_085-55a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_085-56a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_085-57a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_085-58a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_085-59a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_085-60a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_085-61a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2d0019_WYG_085-61b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定歴代紀事年表卷八十九<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

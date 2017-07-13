@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>海國聞見録</head>
+    <p>
+<pb n="KR2k0152_WYG_000-1a"/>
+欽定四庫全書　　　　　史部十一<lb/>
+　海國聞見録　　　　　　地理類十<hi>外紀之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案海國聞見録二卷<lb/>
+　　　國朝陳倫炯撰倫炯字資齋同安人父昻康熙<lb/>
+　　　　二十一年從靖海侯施烺平定臺灣烺又自<lb/>
+　　　　捜捕餘黨出入東西洋五年叙功授職官至<lb/>
+　　　　廣東副都統<hi>案副都統為滿洲額缺陳昻得授是職葢出      特典</hi>倫<lb/>
+<pb n="KR2k0152_WYG_000-1b"/>
+　　　　炯少從其父熟聞海道形勢及<graphic n="KR0670" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0670.png" mimeType="image/png"/>父䕃復由<lb/>
+　　　　侍衛厯任澎湖副將臺灣鎮總兵官移廣東<lb/>
+　　　　髙雷㢘江南崇明狼山諸鎮又為浙江寧波<lb/>
+　　　　水師提督皆濱海地也故以平生聞見著為<lb/>
+　　　　此書上卷記八篇曰天下沿海形勢録曰東<lb/>
+　　　　洋記曰東南洋記曰南洋記曰小西洋記曰<lb/>
+　　　　大西洋記曰崑屯記曰南澳氣記下卷圖六<lb/>
+　　　　幅曰四海總圖曰沿海全圖曰臺灣圖曰臺<lb/>
+<pb n="KR2k0152_WYG_000-2a"/>
+　　　　灣後山圖曰澎湖圖曰瓊州圖凡山川之扼<lb/>
+　　　　塞道里之逺近沙礁島嶼之夷險風雲氣候<lb/>
+　　　　之測騐以及外蕃民風物産一一備書雖卷<lb/>
+　　　　帙無多然積父子兩世之閱厯參稽考驗言<lb/>
+　　　　必有徵視𠞰傳聞而述新竒據故籍而談形<lb/>
+　　　　勢者其事固區以别矣其南澳氣記中稱萬<lb/>
+　　　　里長沙者即列子所謂歸墟莊子所謂尾閭<lb/>
+　　　　抱朴子所謂沃焦宋史琉球傳所謂落漈但<lb/>
+<pb n="KR2k0152_WYG_000-2b"/>
+　　　　諸書皆言注之不盈倫炯則推以潮長而此<lb/>
+　　　　溜落潮落而此溜長知水自上入仍自下出<lb/>
+　　　　其言確切近理足以決千古耳食之疑又史<lb/>
+　　　　稱丹落漈者一去不返倫炯則謂乗潮長之<lb/>
+　　　　時求出則外髙内下反不得出如潮落乗南<lb/>
+　　　　風棹船尚可出雍正丙午有閩船落漈者果<lb/>
+　　　　如其説得還此語亦前人所未發惟所記七<lb/>
+　　　　洲洋帶箭鳥謂由郤和呼鳥插箭為記以𨗳<lb/>
+<pb n="KR2k0152_WYG_000-3a"/>
+　　　　海船又記暹羅鬼與鄭和鬬法夜建寺塔今<lb/>
+　　　　尚在事則蕃俗信鬼有此附㑹之談倫炯不<lb/>
+　　　　為辨正是亦少疎然是書主于記海道不主<lb/>
+　　　　于考故實彼國既有此說據而録之固亦無<lb/>
+　　　　妨宏㫖耳乾隆四十六年十一月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

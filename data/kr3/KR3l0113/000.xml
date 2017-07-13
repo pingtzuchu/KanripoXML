@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>開天傳信記</head>
+    <p>
+<pb n="KR3l0113_WYG_000-1a"/>
+欽定四庫全書　　　　　子部十二<lb/>
+　開天傳信記　　　　　　小説家𩔖二<hi>異聞之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案開天傳信記一卷唐鄭綮撰綮字<lb/>
+　　　　藴武滎陽人登進士第累官右散騎常侍好<lb/>
+　　　　以詩謡託諷昭宗意其有所藴蓄擢為禮部<lb/>
+　　　　侍郎同中書門下平章事所謂歇後鄭五作<lb/>
+　　　　宰相時事可知者即其人也舊唐書本傳稱<lb/>
+<pb n="KR3l0113_WYG_000-1b"/>
+　　　　綮嘗厯監察殿中倉戸二員外金刑右司三<lb/>
+　　　　郎而是書原本首署其官為吏部員外郎本<lb/>
+　　　　傳顧未之及或史文有所脱漏歟書中皆記<lb/>
+　　　　開元天寳故事凡三十二條目序稱簿領之<lb/>
+　　　　暇捜求遺逸期於必信故以傳信為名其紀<lb/>
+　　　　明皇戲遊城南王琚延過其家謀誅韋氏一<lb/>
+　　　　條据唐書琚傳乃琚選補主簿過謝太子乗<lb/>
+　　　　機進説以除太平公主並無先過琚家之事<lb/>
+<pb n="KR3l0113_WYG_000-2a"/>
+　　　　司馬光作通鑑亦不從是書惟新唐書兼採<lb/>
+　　　　之然韋氏稱制時琚方以王同皎黨亡命江<lb/>
+　　　　都安得復卜居韋杜綮所紀恐非事實宜為<lb/>
+　　　　通鑑所不取又如華隂見岳神夢遊月宫羅<lb/>
+　　　　公逺𨼆形葉法善符籙諸事亦語涉神怪未<lb/>
+　　　　能盡出於雅馴然行世既久諸書言唐事者<lb/>
+　　　　多沿用之故録以備小説之一種焉乾隆四<lb/>
+　　　　十六年十二月恭校上<lb/>
+<pb n="KR3l0113_WYG_000-2b"/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

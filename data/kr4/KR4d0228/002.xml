@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>雪山集</head>
+    <p>
+<pb n="KR4d0228_WYG_002-1a"/>
+欽定四庫全書　　　　　集部四<lb/>
+　雪山集　　　　　　　　别集類三<hi>宋</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案雪山集十六巻宋王質撰質字景<lb/>
+　　　　文其先鄆州人後徙興國集中毎自稱東平<lb/>
+　　　　或稱汶陽不忘本也登紹興三十年進士召<lb/>
+　　　　試館職不就御史中丞汪澈宣諭荆襄樞密<lb/>
+　　　　使張浚都督江淮先後辟置幕府旋入為太<lb/>
+<pb n="KR4d0228_WYG_002-1b"/>
+　　　　學正孝宗時以上疏論事為忌者所中罷去<lb/>
+　　　　㑹虞允文宣撫川陜辟與偕行後入為敕令<lb/>
+　　　　所刪定官遷樞密院編修官出通判荆南府<lb/>
+　　　　改吉州皆不赴奉祠山居而卒質篤志經學<lb/>
+　　　　所撰詩總聞已别著録其文章氣節見重於<lb/>
+　　　　世亦深為宋史本傳所推惟周密齊東野語<lb/>
+　　　　載張説為承㫖時朝士多趨之惟質與沈瀛<lb/>
+　　　　相戒勿詣已而質潛往説所甫入客位瀛已<lb/>
+<pb n="KR4d0228_WYG_002-2a"/>
+　　　　先在物議喧傳久之皆不安而去與史殊相<lb/>
+　　　　乖剌攷史稱虞允文以質鯁亮不囘薦為右<lb/>
+　　　　正言時中貴人用事多畏憚質隂沮之云云<lb/>
+　　　　則質非附勢求進者殆張説等懼其彈劾反<lb/>
+　　　　造蜚語史所謂隂沮之者正指此事密不察<lb/>
+　　　　而誤載也觀其初受張浚之知又以湯思退<lb/>
+　　　　薦為太學正而論和戰守疏中排撃二人皆<lb/>
+　　　　無所假借此豈放利偷合者所能為歟其集<lb/>
+<pb n="KR4d0228_WYG_002-2b"/>
+　　　　久佚不傳僅散見永樂大典中史稱其嘗著<lb/>
+　　　　論五十篇言歴代君臣治亂謂之朴論今止<lb/>
+　　　　存漢高帝文帝五代梁末帝周世宗四篇又<lb/>
+　　　　質自序西征叢紀云自丁亥至庚寅得詩一<lb/>
+　　　　百三十有九詞五十有一記十序六銘二又<lb/>
+　　　　于淳熙二年作退文有六悔有六變永樂大<lb/>
+　　　　典所載乃總題曰雪山集無可辨别宋史藝<lb/>
+　　　　文志稱王景文集四十卷又别出雪山集三<lb/>
+<pb n="KR4d0228_WYG_002-3a"/>
+　　　　巻焦竑經籍志朱彝尊經義攷則俱云四十<lb/>
+　　　　卷攷王阮原序稱其家以遺稿見屬乃為蒐<lb/>
+　　　　羅刪次釐為四十卷名曰雪山本其舊也然<lb/>
+　　　　則質初有小集三卷自題曰雪山迨阮編次<lb/>
+　　　　全集篇帙雖增而標目如故故三卷之本與<lb/>
+　　　　四十卷之本諸書互見也至張端義貴耳集<lb/>
+　　　　載其何處難忘酒詩稱所撰有雪齋集則又<lb/>
+　　　　刋本流傳訛山為齋耳今據永樂大典所載<lb/>
+<pb n="KR4d0228_WYG_002-3b"/>
+　　　　分類排次共得一十六巻其詩文先後有嵗<lb/>
+　　　　月可稽者各加攷證附於題下雖殘缺之餘<lb/>
+　　　　十存四五其生平出處與文章宗㫖亦足以<lb/>
+　　　　見其梗概矣史稱質博通經史善屬文與九<lb/>
+　　　　江王阮齊名阮序是集亦稱聽其論古如讀<lb/>
+　　　　酈道元水經名川支川貫穿周匝無有間斷<lb/>
+　　　　自明以來阮義豐集尚傳而質集湮没不彰<lb/>
+　　　　談藝家亦罕能稱道今仰䝉<lb/>
+<pb n="KR4d0228_WYG_002-4a"/>
+　　睿鑒取其論和戰守疏及上宋孝宗疏諸篇詞㫖<lb/>
+　　　　剴切頗當事理<lb/>
+　　特命校正剞劂以發幽光洵為千載之一遇至集<lb/>
+　　　　中青詞一體本非文章之正軌今欽遵<lb/>
+　　諭㫖概予芟除又如㑹慶節功徳疏福勝化縁疏<lb/>
+　　　　真如修御書門疏天申節開啓疏滿散疏水<lb/>
+　　　　陸修齋懺經疏及修造榜文諸篇皆語渉異<lb/>
+　　　　教亦併為刋削以示别裁仍恭録<lb/>
+<pb n="KR4d0228_WYG_002-4b"/>
+　　聖訓冠諸卷首用以見表章散佚防遏竒衺之至<lb/>
+　　　　意焉乾隆四十六年四月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>崑崙河源考</head>
+    <p>
+<pb n="KR2k0073_WYG_000-1a"/>
+欽定四庫全書　　　　　史部十一<lb/>
+　崑崙河源考　　　　　　地理類四<hi>河渠之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案崑崙河源考一卷<lb/>
+　　　國朝萬斯同撰斯同有廟制圖考已著録是書<lb/>
+　　　　以元篤什言河源崑崙與史記漢書不合水<lb/>
+　　　　經所載亦有謬誤因厯引禹貢禹本紀爾雅<lb/>
+　　　　淮南子及各史之文以攷證之考張騫言河<lb/>
+<pb n="KR2k0073_WYG_000-1b"/>
+　　　　源出鹽澤司馬遷又言河源出于闐天子案<lb/>
+　　　　古圖書名河所出山曰崑崙後來諸書都無<lb/>
+　　　　異說唐書吐谷渾傳始有李靖望積石山覽<lb/>
+　　　　觀河源之言而亦未確有所指迨至篤什奉<lb/>
+　　　　命行求稱得之朶甘思西鄙潘昂霄等妄為<lb/>
+　　　　附㑹經傳音譯舛訛遂以鄂敦塔拉之潛行<lb/>
+　　　　復見者指為河源以阿木尼瑪勒占木遜山<lb/>
+　　　　即古積石山者指為崑崙元史因而採入地<lb/>
+<pb n="KR2k0073_WYG_000-2a"/>
+　　　　理志中耳食相沿混淆益甚我<lb/>
+　　　國家徳威遐播天山兩道盡入版圖月竁以西<lb/>
+　　　　皆我户闥案圖考索知河有重源篤什所訪<lb/>
+　　　　僅及其伏地再出者而河水之出葱嶺于闐<lb/>
+　　　　注鹽澤潛行至積石者則篤什皆未之見伏<lb/>
+　　　　讀<lb/>
+　　御批通鑑輯覽攷辨精詳河源始確有定論斯同<lb/>
+　　　　此書作於康熈之初核以今所目驗亦尚不<lb/>
+<pb n="KR2k0073_WYG_000-2b"/>
+　　　　盡脗合然其時西域未通尚未得其實據而<lb/>
+　　　　斯同穿穴古書㕘稽同異即能灼知張騫所<lb/>
+　　　　說之不誣而極論潘昂霄等之背馳瞀亂凡<lb/>
+　　　　所指陳俱不甚相逺亦可謂工於考證不汨<lb/>
+　　　　沒於舊說者矣録存其書益以見<lb/>
+　　睿鑒折衷超軼萬古也乾隆四十六年十月恭校<lb/>
+　　　　上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+<pb n="KR2k0073_WYG_000-3a"/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="KR2k0073_WYG_000-4a"/>
+　　崑崙河源考原序<lb/>
+　　河之患為日久矣至於今而挾清淮之勢以震撼<lb/>
+　　揚州環數千里潰決衝突岌岌有崩城壊郭之虞<lb/>
+　　上煩<lb/>
+萬乗之荒度下厪公卿百執事之胼胝迄無奏績之期<lb/>
+　　於是抵掌而談河防者各挾一必勝之策至源委<lb/>
+　　利弊之所以然或未必得其詳也季野萬先生留<lb/>
+　　心經世之學於前代治河開塞修防之策犁然有<lb/>
+<pb n="KR2k0073_WYG_000-4b"/>
+　　會於心顧未嘗肯輕言于人即雅重先生者亦未<lb/>
+　　知其用心之勤有如此也一日先生出崑崙考一<lb/>
+　　帙示予竊服其徵引之博辨証之精顧或以為不<lb/>
+　　究治河之流而徒探其源似非今日急務不知天<lb/>
+　　下事當其任者可言之可行之尚且有牽制之形<lb/>
+　　游移之見而書生抱杞人之憂㨿紙上之談於國<lb/>
+　　家大計何當焉惟是讀書論古辨畛畫疆上下於<lb/>
+　　古今得失之林斯誠博雅之所有事况河之源雖<lb/>
+<pb n="KR2k0073_WYG_000-5a"/>
+　　荒逺其載於史傳旁見於他書者皆一一可徵先<lb/>
+　　生據諸説而折衷之俾世之談治河者言流而不<lb/>
+　　昧源於立言之㫖又何傷乎設荷<lb/>
+天子寵靈河伯效若不日錫圭告功將有事於崑崙則<lb/>
+　　一介之使挾先生是書過積石踰䀋澤馳騁絶域<lb/>
+　　以求所謂真崑崙者一洗千古之惑豈不偉哉雖<lb/>
+　　然吾願世之人毋徒以是求先生也康熙庚辰夏<lb/>
+　　六月十有一日侯官林佶序於京師琉璃厰西栁<lb/>
+<pb n="KR2k0073_WYG_000-5b"/>
+　　巷之寓舍<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

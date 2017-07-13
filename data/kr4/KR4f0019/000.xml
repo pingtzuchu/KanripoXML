@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4f0019_SBCK_000-1a"/>
+萬曆<graphic n="KR0996" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0996.png" mimeType="image/png"/>戍之歲偕余舉南宫者關西文太青新城王季<lb/>
+木竟陵鍾伯敬皆雄駿君子掉鞅詞壇太青博而奥季<lb/>
+木贍而肆踔厲風發大放厥詞太青贈季木曰元美吾<lb/>
+兼愛空同爾獨師盖其宗法如此而伯敬以幽閒隱秀<lb/>
+之致標致詩歸竄易時人之耳目迄扵今輇材諷說簸<lb/>
+弄研削莫不援引鍾譚與王李徐袁分茅設蕝而關西<lb/>
+新城之集孤行秦齊間江表之士莫有過而問者三子<lb/>
+之才力伯仲之間耳而身後之名飛沈迥絶殆亦有幸<lb/>
+不幸焉千秋萬歲古人所以深歎扵寂寞也季木殁三<lb/>
+十餘年從孫貽上復以詩名鵲𧺫閩人林古度論次其<lb/>
+集推季木為先河謂家學門風淵源有自新城之壇墠<lb/>
+<pb n="KR4f0019_SBCK_000-1b"/>
+大振扵聲銷灰燼之餘而竟陵之光燄熸矣余盖為之<lb/>
+撫卷太息知文苑之乗除有刼運㕘錯其間殆亦可以<lb/>
+觀天咫也嗟乎詩道淪胥浮偽並作其大端有二學古<lb/>
+而<graphic n="KR0915" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0915.png" mimeType="image/png"/>者影掠滄溟弇山之賸語尺寸比儗此屈步之蟲<lb/>
+尋條失枝者也師心而妄者懲創品彚詩歸之流弊眩<lb/>
+運掉舉此牛羊之眼但見方隅者也之二人者其持論<lb/>
+區以別矣不知古學之繇來而勇扵自是䡖扵侮昔則<lb/>
+亦同歸扵狂易而巳貽上之詩文繁理富銜華佩實感<lb/>
+時之作惻愴扵杜陵縁情之什纏綿扵義山其談藝四<lb/>
+言曰典曰逺曰諧曰則沿波討源平原之遺則也截㫁<lb/>
+衆流杼山之微言也別裁偽體轉益多師草堂之金丹<lb/>
+<pb n="KR4f0019_SBCK_000-2a"/>
+大藥也平心易氣耽思㫄訊深知古學之繇來而扵前<lb/>
+二人者之為皆能洮汰其癥結祓除其嘈囋思深㦲小<lb/>
+雅之復作也微斯人其誰與歸貽上以余為孤竹之老<lb/>
+馬過而問道于余余遂趣舉其質言以為叙徃余嘗與<lb/>
+太青季木論文東闕下勸其追溯古學母沿洄扵今學<lb/>
+而不知返太青喟然謂季木曰虞山之言是也顧我老<lb/>
+不能用耳今二子墓木已拱聲塵蔑如余八十昏忘值<lb/>
+貽上代興之日向之鏃礪知已用古學勸勉者今得扵<lb/>
+身親見之豈不有厚幸㢤書之以慶余之遭也虞山䝉<lb/>
+叟錢謙益序<lb/>
+　古詩一首贈王貽上<hi>士禛</hi>謙益<lb/>
+<pb n="KR4f0019_SBCK_000-2b"/>
+　風輪持大地撃颺為風謡吹萬肇邃古賡歌暢唐姚<lb/>
+　朱絃汜漢魏麗藻沿六朝有唐盛詞賦貞符彚元包<lb/>
+　百靈聽驅使萬象窮鎪雕千燈咸一光異曲皆同調<lb/>
+　彼㢤諓諓者穿穴紛科條初盛別中晚畫地成狴牢<lb/>
+　妙悟掠影響指注闚釐毫甕天醯雞覆井月癡猿號<lb/>
+　化為劣詩魔飛精入府焦窮老蔽蔀屋不得瞻泬寥<lb/>
+　正始日以逺詞苑襍莠苗獻吉才雄驁學杜餔醨糟<lb/>
+　仲黙俊逸人放言訾謝陶考辭<graphic n="KR1313" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1313.png" mimeType="image/png"/>嘈囋懐響歸浮漂<lb/>
+　江河久雍决厬潏亦騰嚻么絃取偏張苦調搜啁噍<lb/>
+　鳥空而鼠即厥咎為詩訞喪亂亦云膴詩病不可瘳<lb/>
+　譬彼膏肓疾傳染非一朝嗚呼杜與韓萬古垂斗杓<lb/>
+<pb n="KR4f0019_SBCK_000-3a"/>
+　北征南山詩泰華爭岧嶤流傳到扵今不得免慠嘲<lb/>
+　况乃唐後人嗤點誰能跳窮子抵尺璧凍人裂復陶<lb/>
+　熠燿點須彌可為渠畧標昌黎笑羣兒少陵訶汝曹<lb/>
+　嗟我老無力掩耳任呌呶王君𧺫東海七葉光漢貂<lb/>
+　騏驥奮蹴踏萬馬喑不驕識字函雅故審樂辨簫韶<lb/>
+　落𥿄為歌詩絳雲卷青霄自顧骨骼馬創殘卧東郊<lb/>
+　敢云老識路昏忘慙招邀河源出星海東流日滔滔<lb/>
+　誰蹠巨靈掌一手堙崩濤古學喪根幹流俗沸螗蜩<lb/>
+　偽體不別裁何以親風騷珠林既深深玉河復迢迢<lb/>
+　方當剪榛楛未可榮蘭苕瓦釜正雷鳴君其信所操<lb/>
+　勿以獨角麟嫓彼萬牛毛伊余久歸佛繙經守僧寮<lb/>
+<pb n="KR4f0019_SBCK_000-3b"/>
+　棖觸為此詩狂言放調刁無乃禪病發放筆自抑搔<lb/>
+　𧺫挑常明燈懴除坐寒宵<lb/>
+<pb n="KR4f0019_SBCK_000-4a"/>
+<pb n="KR4f0019_SBCK_000-5a"/>
+方　厚所植　冥其<lb/>
+納衆㳅而洪纖不遺冠羣<lb/>
+言而聚精成　身著朝衫<lb/>
+頭戴笠孟縣睂山共標格<lb/>
+三百年來無此客宛陵梅庚<lb/>
+<pb n="KR4f0019_SBCK_000-6a"/>
+漁洋山人精華録總目　門人候官林佶編<lb/>
+　卷一<lb/>
+　　古體詩<lb/>
+　卷二<lb/>
+　　古體詩<lb/>
+　卷三<lb/>
+　　古體詩<lb/>
+　卷四<lb/>
+　　古體詩<lb/>
+　卷五<lb/>
+　　今體詩<lb/>
+<pb n="KR4f0019_SBCK_000-6b"/>
+　　卷六<lb/>
+　　　　今體詩<lb/>
+　　卷七<lb/>
+　　　　今體詩<lb/>
+　　卷八<lb/>
+　　　　今體詩<lb/>
+　　卷九<lb/>
+　　　　今體詩<lb/>
+　　卷十<lb/>
+　　　　今體詩<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>唐宋八大家文鈔</head> <lb/>
+    <p>
+<pb n="KR4h0115_WYG_115-1a"/>
+欽定四庫全書<lb/>
+　唐宋八大家文鈔<lb/>
+　　老泉文鈔引<lb/>
+蘇文公崛起蜀徼其學本申韓而其行文雜出於荀卿<lb/>
+孟軻及戰國策諸家不敢遽謂得古六藝者之遺然其<lb/>
+鑱畫之議幽悄之思博大之識奇崛之氣非近代儒生<lb/>
+所及要之韓歐而下與諸名家相為表裏及其二子繼<lb/>
+響嘉祐之文西漢同風矣予讀之錄其書狀十四首論<lb/>
+<pb n="KR4h0115_WYG_115-1b"/>
+三十七首記四首説二首引二首序一首釐為十卷歸<lb/>
+安鹿門茅坤題<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

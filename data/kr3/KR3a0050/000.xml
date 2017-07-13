@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>明本釋</head>
+    <p>
+<pb n="KR3a0050_WYG_000-1a"/>
+欽定四庫全書　　　　　子部一<lb/>
+　明本釋　　　　　　　　儒家類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案明本釋三卷宋劉荀撰荀東平人<lb/>
+　　　　尚書左僕射摯之孫書中所稱先文肅公即<lb/>
+　　　　謂摯也孝宗時嘗知盱眙軍其事迹則不可<lb/>
+　　　　考矣是書乃其講學之語大旨謂致力當求<lb/>
+　　　　其本因舉其切要者三十三條各為標目而<lb/>
+<pb n="KR3a0050_WYG_000-1b"/>
+　　　　著論以發明之論所不盡者又自為之註中<lb/>
+　　　　多稱引元祐諸人程門諸子及同時胡宏張<lb/>
+　　　　九成朱子之言持論頗醇正其文率詳明愷<lb/>
+　　　　切務逹其意而止北宋諸名臣之言行出處<lb/>
+　　　　亦附注焉葢黨籍子孫尊其先世之舊聞也<lb/>
+　　　　宋史藝文志眺公武讀書志皆不載陳振孫<lb/>
+　　　　書録解題馬端臨經籍考但載荀所載建炎<lb/>
+　　　　徳安守禦録而是書亦畧焉惟明文淵閣書<lb/>
+<pb n="KR3a0050_WYG_000-2a"/>
+　　　　目國史經籍志有之蓋其書在宋不甚顯至元明<lb/>
+　　　　間始行於世也楊士竒焦竑皆作明本二卷<lb/>
+　　　　劉荀撰然永樂大典所載實皆題曰明本釋<lb/>
+　　　　疑其書原名明本或後人因其註而増題釋<lb/>
+　　　　字歟乾隆四十三年九月恭校上<lb/>
+　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3d0002_WYG_005-1a"/>
+農書後跋<lb/>
+此書成於紹興十九年真州雖曽刋行而當時𫝊者失<lb/>
+真首尾㒹錯意義不貫者甚多又為或人不曉㫖趣妄<lb/>
+自刪改徒事絺章繪句而理致乖越是書也將以曉農<lb/>
+事之大使人人心喻志解今乃反惑其説使老於農圃<lb/>
+而視効於斯文者方且嗤鄙不暇其肯轉相讀説勸勉<lb/>
+而依倣之耶㒒誠憂之故取家藏副本繕冩成帙以待<lb/>
+當世之君子採取以獻于上然後鍥板流布必使天下<lb/>
+<pb n="KR3d0002_WYG_005-1b"/>
+之民咸究其利則區區之志願畢矣後五年甲戌元日<lb/>
+如是菴全真子題<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

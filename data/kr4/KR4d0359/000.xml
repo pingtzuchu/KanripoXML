@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>梅屋集</head>
+    <p>
+<pb n="KR4d0359_WYG_000-1a"/>
+欽定四庫全書　　　　　集部四<lb/>
+　梅屋集　　　　　　　　别集類三<hi>宋</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案梅屋集五卷宋許棐撰棐字忱夫<lb/>
+　　　　海鹽人嘉熙中居于秦溪自號曰梅屋因以<lb/>
+　　　　名集首為梅屋詩藁一卷次融春小綴一卷<lb/>
+　　　　次為苐三稿一卷次為第四稿一卷次為襍<lb/>
+　　　　著一卷盖梅屋詩藳其初集融春小綴其二<lb/>
+<pb n="KR4d0359_WYG_000-1b"/>
+　　　　集故以下稱第三第四稿厲鶚宋詩紀事但<lb/>
+　　　　稱其有梅屋詩稿融春小綴殊考之未審觀<lb/>
+　　　　其趁得山間筍蕨春一首本在梅屋稿中題<lb/>
+　　　　曰山間而鶚録此詩改其題曰筍蕨羮註曰<lb/>
+　　　　出山家清供知未細檢其集矣棐生當詩教<lb/>
+　　　　極弊之時沾染于江湖末派大抵以趙紫芝<lb/>
+　　　　等為矩矱襍著中跋四靈詩選曰斯五百篇<lb/>
+　　　　出自天成歸于神識多而不濫玉之純香之<lb/>
+<pb n="KR4d0359_WYG_000-2a"/>
+　　　　妙者歟後世學者愛之重之是也以髙翥等<lb/>
+　　　　為羽翼招髙菊磵詩所謂自改舊詩時未稳<lb/>
+　　　　獨斟新酒不成歡者是也以書賈陳起為聲<lb/>
+　　　　氣之聯絡贈陳宗之詩所謂六月長安熱似<lb/>
+　　　　焚鄽中清趣總輸君又謝陳宗之叠寄書籍<lb/>
+　　　　詩所謂君有新刊須寄我我逢佳處必思君<lb/>
+　　　　者是也以劉克莊為領袖讀南岳新稿詩所<lb/>
+　　　　謂細把劉郎詩讀後鶯花雖好不須看者是<lb/>
+<pb n="KR4d0359_WYG_000-2b"/>
+　　　　也厥後以江湖小集中秋雨梧桐一聨卒搆<lb/>
+　　　　詩禍起坐黥配克莊亦坐彈免官而流波推<lb/>
+　　　　蕩唱和相仍終南宋之世不出此派然其詠<lb/>
+　　　　歌閒適摹寫山林時亦有新語可觀録而存<lb/>
+　　　　之以覘詩道之變也乾隆四十五年三月恭<lb/>
+　　　　校上<lb/>
+　　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官　<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

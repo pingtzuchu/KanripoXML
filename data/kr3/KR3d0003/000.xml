@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>農桑輯要</head>
+    <p>
+<pb n="KR3d0003_WYG_000-1a"/>
+欽定四庫全書　　　　子部四<lb/>
+　農桑輯要　　　　　　農家類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案農桑輯要七卷元世祖時官撰頒<lb/>
+　　　　行本也前有至元十年翰林學士王磐序稱<lb/>
+　　　　詔立大司農司不治他事専以勸課農桑為<lb/>
+　　　　務行之五六年功効大著農司諸公又慮夫<lb/>
+　　　　播植之宜蠶繰之節未得其術於是徧求古<lb/>
+<pb n="KR3d0003_WYG_000-1b"/>
+　　　　今農家之書刪其繁重摭其切要纂成一書<lb/>
+　　　　鏤為板本進呈將以頒布天下云云案元史<lb/>
+　　　　司農司設於至元七年分布勸農官巡行郡<lb/>
+　　　　邑察舉農事成否達於户部以殿最牧民長<lb/>
+　　　　官史又稱世祖即位之初首詔天下崇本抑<lb/>
+　　　　末於是頒農桑輯要之書於民均與王磐所<lb/>
+　　　　言合惟至元七年至十年不足五六年之數<lb/>
+　　　　盤葢據建議設官之始約畧言之耳焦竑國<lb/>
+<pb n="KR3d0003_WYG_000-2a"/>
+　　　　史經籍志錢曾讀書敏求記皆作七卷永樂<lb/>
+　　　　大典所載僅有二卷盖編纂者所合併非有<lb/>
+　　　　闕佚永樂大典又載有至順三年印行萬部<lb/>
+　　　　官牒蘇天爵元文類又載有蔡文淵序一篇<lb/>
+　　　　稱延祐元年仁宗特命刋板於江浙行省明<lb/>
+　　　　宗文宗復申命頒布盖有元一代以是書為<lb/>
+　　　　經國要務也書凡分典訓耕墾播種栽桑養<lb/>
+　　　　蠶𤓰菜果實竹木藥草孳畜十門大致以齊<lb/>
+<pb n="KR3d0003_WYG_000-2b"/>
+　　　　民要術為藍本芟除其浮文瑣事而襍採他<lb/>
+　　　　書以附益之詳而不蕪簡而有要於農家之<lb/>
+　　　　中最為善本當時著為功令亦非漫然矣乾<lb/>
+　　　　隆四十二年三月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+<pb n="KR3d0003_WYG_000-3a"/>
+欽定四庫全書　　　　子部四<lb/>
+　農桑輯要目録　　　　　農家類<lb/>
+　　卷一<lb/>
+　　　典訓<lb/>
+　　　　農功起本　　　　蠶事起本<lb/>
+　　　　經史法言　　　　先賢務農<lb/>
+　　　耕墾<lb/>
+　　　　耕地　　　　　　代田<lb/>
+<pb n="KR3d0003_WYG_000-3b"/>
+　　　　區田<lb/>
+　　卷二<lb/>
+　　　播種<lb/>
+　　　　収九榖種　　　　種榖<lb/>
+　　　　大小麥<hi>青稞附</hi>　　　水稻<lb/>
+　　　　旱稻　　　　　　黍穄<hi>稗附</hi>
+　　　　梁秫　　　　　　大豆<hi>豍豆附</hi>
+　　　　小豆<hi>菉豆白豆附</hi>　　　豌豆<lb/>
+<pb n="KR3d0003_WYG_000-4a"/>
+　　　　薥黍　　　　　　蕎麥<lb/>
+　　　　胡麻　　　　　　麻子<hi>蘇子附</hi>
+　　　　麻　　　　　　　苧麻<lb/>
+　　　　木棉<lb/>
+　　　　論九榖風土及種蒔時月<lb/>
+　　　　論苧麻木棉<lb/>
+　　卷三<lb/>
+　　　栽桑<lb/>
+<pb n="KR3d0003_WYG_000-4b"/>
+　　　　論桑種　　　　　種椹<lb/>
+　　　　地桑　　　　　　移栽<lb/>
+　　　　壓桑　　　　　　栽條<lb/>
+　　　　栽桑梢　　　　　布行桑<lb/>
+　　　　修蒔<hi>治蟲蠧等法附</hi>　　　科斫<hi>採葉附</hi>
+　　　　接廢樹　　　　　接大小樹<lb/>
+　　　　義桑　　　　　　桑雜類<lb/>
+　　　　柘<lb/>
+<pb n="KR3d0003_WYG_000-5a"/>
+　　卷四<lb/>
+　　　養蠶<lb/>
+　　　　論蠶性　　　　収種<lb/>
+　　　　擇繭　　　　　浴連<hi>収貯蠶連附</hi>
+　　　　収乾桑葉　　　製豆粉米粉<lb/>
+　　　　収牛糞　　　　収蓐草<lb/>
+　　　　収蒿梢　　　　修治苫薦<lb/>
+　　　　治蠶具<hi>蠶糧附</hi>　　蠶室<lb/>
+<pb n="KR3d0003_WYG_000-5b"/>
+　　　　火倉　　　　　　安槌<lb/>
+　　　　變色　　　　　　生蛾<lb/>
+　　　　下蛾　　　　　　涼暖總論<lb/>
+　　　　飼養總論　　　　用葉<lb/>
+　　　　分擡總論　　　　初飼蛾<lb/>
+　　　　擘黒　　　　　　頭眠擡飼<lb/>
+　　　　停眠擡飼　　　　大眠擡飼<lb/>
+　　　　養四眠蠶　　　　稙蠶之利<lb/>
+<pb n="KR3d0003_WYG_000-6a"/>
+　　　　晚蠶之害　　　十體<lb/>
+　　　　三光　　　　　八宜<lb/>
+　　　　三稀　　　　　五廣<lb/>
+　　　　雜忌　　　　　簇蠶<lb/>
+　　　　擇繭　　　　　繰絲<lb/>
+　　　　蒸餾繭法　　　夏秋蠶法<lb/>
+　　卷五<lb/>
+　　　𤓰菜<lb/>
+<pb n="KR3d0003_WYG_000-6b"/>
+　　　　種𤓰<hi>黄𤓰附</hi>　　　　治𤓰籠法<lb/>
+　　　　區種𤓰法　　　　西𤓰<lb/>
+　　　　冬𤓰　　　　　　瓠<lb/>
+　　　　芋　　　　　　　葵<lb/>
+　　　　茄子　　　　　　蔓菁<lb/>
+　　　　蘿蔔<hi>胡蘿蔔附</hi>　　　　蜀芥芸薹芥子<lb/>
+　　　　薑　　　　　　　菌子<lb/>
+　　　　蒜　　　　　　　䪥<hi>薤同</hi>
+<pb n="KR3d0003_WYG_000-7a"/>
+　　　　葱　　　　　　韭<lb/>
+　　　　胡荽　　　　　菠薐<lb/>
+　　　　萵苣　　　　　同蒿<lb/>
+　　　　人莧　　　　　藍菜<lb/>
+　　　　莙薘　　　　　蘭香<hi>香菜附</hi>
+　　　　荏蓼　　　　　芹<graphic n="KR1767" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1767.png" mimeType="image/png"/>
+　　　　甘露子　　　　豆豉<lb/>
+　　　　麩豉<lb/>
+<pb n="KR3d0003_WYG_000-7b"/>
+　　　果實<lb/>
+　　　　種棃<hi>插棃附</hi>　　　　藏棃法<lb/>
+　　　　桃<hi>櫻桃蒲萄附</hi>　　　　李<lb/>
+　　　　梅杏　　　　　　柰林檎<lb/>
+　　　　棗<hi>㮕棗附</hi>　　　　　栗<hi>榛附</hi>
+　　　　柿　　　　　　　安石榴<lb/>
+　　　　木𤓰　　　　　　銀杏<lb/>
+　　　　橙　　　　　　　橘<lb/>
+<pb n="KR3d0003_WYG_000-8a"/>
+　　　　樝子　　　　　諸果<lb/>
+　　　　接諸果<lb/>
+　　卷六<lb/>
+　　　竹木<lb/>
+　　　　種竹　　　　　松<hi>杉柏檜附</hi>
+　　　　榆　　　　　　白楊<lb/>
+　　　　棠　　　　　　榖楮<lb/>
+　　　　槐　　　　　　栁<lb/>
+<pb n="KR3d0003_WYG_000-8b"/>
+　　　　楸　　　　　　梓<lb/>
+　　　　梧桐　　　　　漆<lb/>
+　　　　柞　　　　　　皂莢<lb/>
+　　　　楝　　　　　　椿<lb/>
+　　　　葦<hi>荻附</hi>　　　　　蒲<lb/>
+　　　　作園籬　　　　諸樹<lb/>
+　　　　伐木<lb/>
+　　　藥草<lb/>
+<pb n="KR3d0003_WYG_000-9a"/>
+　　　　種紫草　　　　紅花<lb/>
+　　　　藍　　　　　　梔子<lb/>
+　　　　茶　　　　　　椒<lb/>
+　　　　茱萸　　　　　茴香<lb/>
+　　　　蓮藕　　　　　芡<lb/>
+　　　　芰　　　　　　薯蕷<lb/>
+　　　　地黃　　　　　枸杞<lb/>
+　　　　菊花　　　　　蒼术<lb/>
+<pb n="KR3d0003_WYG_000-9b"/>
+　　　　黄精　　　　　百合<lb/>
+　　　　牛蒡子　　　　決明<lb/>
+　　　　甘蔗　　　　　薏苡<lb/>
+　　　　藤花　　　　　薄荷<lb/>
+　　　　罌粟　　　　　苜蓿<lb/>
+　　卷七<lb/>
+　　　孳畜<lb/>
+　　　　養馬牛總論　　馬<hi>驢騾附</hi>
+<pb n="KR3d0003_WYG_000-10a"/>
+　　　　牛<hi>水牛附</hi>　　　　羊<lb/>
+　　　　豬　　　　　　養雞<lb/>
+　　　　鵝鴨　　　　　魚<lb/>
+　　　　蜜蜂　　　　　嵗用雜事<lb/>
+<pb n="KR3d0003_WYG_000-11a"/>
+農桑輯要原序<lb/>
+聖天子臨御天下欲使斯民生業富樂而永無饑寒之<lb/>
+憂詔立大司農司不治他事而專以勸課農桑為務行<lb/>
+之五六年功效大著民間墾闢種藝之業増前數倍農<lb/>
+司諸公又慮夫田里之人雖能勤身從事而播殖之宜<lb/>
+蠶繰之節或未得其術則力勞而功寡獲約而不豐矣<lb/>
+於是徧求古今所有農家之書披閲參考刪其繁重摭<lb/>
+其切要纂成一書目曰農桑輯要凡七卷鏤為版本進<lb/>
+<pb n="KR3d0003_WYG_000-11b"/>
+呈畢將以頒布天下屬予題其卷首予嘗讀豳詩知周<lb/>
+家所以成八百年興王之業者皆由稼穡艱難積累以<lb/>
+致之讀孟子書見其論説王道丁寧反覆皆不出乎夫<lb/>
+耕婦蠶五雞二彘無失其時老者衣帛食肉黎民不饑<lb/>
+不寒數十字而已大哉農桑之業真斯民衣食之源有<lb/>
+國者富强之本王者所以興教化厚風俗敦孝悌崇禮<lb/>
+讓致太平躋斯民於仁壽未有不權輿於此者矣然則<lb/>
+是書之出其利益天下豈可一二言之哉施於家則陶<lb/>
+<pb n="KR3d0003_WYG_000-12a"/>
+朱猗頓之寶術也用於國則周成康漢文景之令軌也<lb/>
+又何待夫序引贊揚而後知其可重哉至元癸酉嵗季<lb/>
+秋中旬日翰林學士王磐題<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

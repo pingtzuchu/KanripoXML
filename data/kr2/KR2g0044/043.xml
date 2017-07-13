@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>八旗滿洲氏族通譜目録</head> <lb/>
+    <p>
+<pb n="KR2g0044_WYG_043-1a"/>
+欽定四庫全書<lb/>
+　八旗滿洲氏族通譜目録<lb/>
+　　卷二十一<lb/>
+　　那木都魯地方那木都魯氏<lb/>
+　　　康武理　　　　　　哲爾古<lb/>
+　　　汪什　　　　　　　福察拉<lb/>
+　　　薩爾佳達<lb/>
+　　　　　以上俱有𫝊<lb/>
+<pb n="KR2g0044_WYG_043-1b"/>
+　　　董訥科　　　　　　多什瑪<lb/>
+　　　富齊拉　　　　　　鄂奇塔<lb/>
+　　　恰塔　　　　　　　博爾鍾鄂<lb/>
+　　　伊穆薩喀　　　　　布勒亨<lb/>
+　　　　　以上俱附載<lb/>
+　　綏分地方那木都魯氏<lb/>
+　　　明安圗巴顔　　　　岳蘇納<lb/>
+　　　瑪林和碩　　　　　阿爾松阿<lb/>
+<pb n="KR2g0044_WYG_043-2a"/>
+　　　愛黨阿　　　　　　伊圗理<lb/>
+　　　　　以上俱有𫝊<lb/>
+　　　和爾尚阿　　　　　邁蘭<lb/>
+　　　栢爾都　　　　　　噶爾納<lb/>
+　　　托克楚　　　　　　阿爾喀<lb/>
+　　　珠爾哈納　　　　　穆爾察<lb/>
+　　　徳啟　　　　　　　額爾楚<lb/>
+　　　黨楚　　　　　　　瑪哈圗<lb/>
+<pb n="KR2g0044_WYG_043-2b"/>
+　　　庫濟訥　　　　　　塔爾瑚<lb/>
+　　　恩特　　　　　　　徳奇<lb/>
+　　　阿秋<lb/>
+　　　　　以上俱附載<lb/>
+　　渾春地方那木都魯氏<lb/>
+　　　本博科　　　　　　博周<lb/>
+　　　喀喇<lb/>
+　　　　　以上俱有𫝊<lb/>
+<pb n="KR2g0044_WYG_043-3a"/>
+　　　索碧喜　　　　　　庫庫渾扎<lb/>
+　　　瞻岱　　　　　　　都蘭泰<lb/>
+　　　　　以上俱附載<lb/>
+　　各地方那木都魯氏<lb/>
+　　　吉希勒<lb/>
+　　　　　右係有𫝊<lb/>
+　　　莽古楚　　　　　　伍什巴<lb/>
+　　　費桑阿　　　　　　伊爾奇勒<lb/>
+<pb n="KR2g0044_WYG_043-3b"/>
+　　　南泰　　　　　　　扎克蘇<lb/>
+　　　博和諾　　　　　　塔特庫善<lb/>
+　　　翁托<lb/>
+　　　　　以上俱附載<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

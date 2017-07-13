@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3f0040_WYG_001-1a"/>
+上緝古算經表<lb/>
+臣孝通言臣聞九疇載叙紀法著於彛倫六藝成功數<lb/>
+術參於造化夫為君上者司牧黔首布神道而設教采<lb/>
+能事而經綸盡性窮源莫重於筭昔周公制禮有九數<lb/>
+之名竊尋九數即九章是也其理幽而㣲其形祕而約<lb/>
+重句聊用測海寸木可以量天非宇宙之至精其孰能<lb/>
+與於此者漢代張蒼删補殘缺校其條目頗與古術不<lb/>
+同魏朝劉徽篤好斯言博綜纎隠更為之注徽思極毫<lb/>
+<pb n="KR3f0040_WYG_001-1b"/>
+芒觸類増長乃造重差之法列於終篇雖即未為司南<lb/>
+然亦一時獨步自兹厥後不繼前蹤賀循徐岳之徒王<lb/>
+彪甄鸞之輩㑹通之數無聞焉耳但舊經殘駮尚有闕<lb/>
+漏自劉已下更不足言其祖暅之綴術時人稱之精妙<lb/>
+曾不覺方邑進行之術全錯不通芻亭方亭之問於理<lb/>
+未盡臣今更作新術於此附伸臣長自閭閻少小學算<lb/>
+鐫磨愚鈍迄將皓首鑚尋祕奥曲盡無遺代乏知音終<lb/>
+成寡和伏蒙聖朝收拾用臣為太史丞比年已來奉勅<lb/>
+<pb n="KR3f0040_WYG_001-2a"/>
+校勘傅仁均厯凡駮正術錯三十餘道即付太史施行<lb/>
+伏尋九章商功篇有平地役功受袤之術至于上寛下<lb/>
+狹前高後卑正經之内闕而不論致使今代之人不達<lb/>
+深理就平正之門同欹邪之用斯乃圎孔方柄如何可<lb/>
+安臣晝思夜想臨書浩歎恐一旦瞑目将來莫覩遂於<lb/>
+平地之餘續狹斜之法凡二十術名曰緝古請訪能算<lb/>
+之人考論得失如有排其一字臣欲謝以千金輕用陳<lb/>
+聞伏深戰悚謹言<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

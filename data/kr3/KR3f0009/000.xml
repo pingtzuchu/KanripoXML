@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>乾坤體義</head>
+    <p>
+<pb n="KR3f0009_WYG_000-1a"/>
+欽定四庫全書　　　　　子部六<lb/>
+　乾坤體義　　　　　　　天文算法類一<hi>推步之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案乾坤體義三卷明利瑪竇撰利瑪<lb/>
+　　　　竇西洋人萬厯中航海至廣東是為西法入<lb/>
+　　　　中國之始利瑪竇兼通中西之文故凡所著<lb/>
+　　　　書皆華字華語不煩再譯是書上中卷皆言<lb/>
+　　　　天象以人居寒煖為五帶日月星天為九重<lb/>
+<pb n="KR3f0009_WYG_000-1b"/>
+　　　　以水火土氣為四大元行以日月地影三者<lb/>
+　　　　定薄蝕至於恒星七曜與地各有倍數日月<lb/>
+　　　　出入各有映蒙多發前人所未發其多方罕<lb/>
+　　　　譬亦皆委曲詳明下卷皆言算術以邊線面<lb/>
+　　　　積平圜撱圜互相容較補古方田之所未及<lb/>
+　　　　為今線面體之造端雖篇帙無多而其言皆<lb/>
+　　　　騐諸實測其法皆具得變通所謂詞簡而義<lb/>
+　　　　賅者我<lb/>
+<pb n="KR3f0009_WYG_000-2a"/>
+　　　朝<lb/>
+　御製數理精藴多因其說而推闡之當明季厯法乖<lb/>
+　　　　舛之餘鄭世子載堉邢雲路諸人皆力斥其<lb/>
+　　　　非而所學未足以相勝自徐光啟等改用新<lb/>
+　　　　法乃漸由䟽入宻至<lb/>
+　　　本朝而益為研究始盡精㣲則是書固亦大輅<lb/>
+　　　　之椎輪矣乾隆四十六年九月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+<pb n="KR3f0009_WYG_000-2b"/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

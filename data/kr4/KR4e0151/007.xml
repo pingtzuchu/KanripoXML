@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>山齋文集巻七</head> <lb/>
+    <p>
+<pb n="KR4e0151_WYG_007-1a"/>
+欽定四庫全書<lb/>
+　山齋文集巻七<lb/>
+　　　　　　　　　　　　　明　鄭岳　撰<lb/>
+　　七言絶句<lb/>
+　　　九江分司二首<lb/>
+　　　　分司相傳為岳武穆故宅中有石池尚為舊<lb/>
+　　　　物秦檜和敵而甘心武穆髙宗賜第葛嶺有<lb/>
+　　　　一徳格天閣今其遺址安在哉岳氏一池世<lb/>
+<pb n="KR4e0151_WYG_007-1b"/>
+　　　　猶愛䕶而不忍廢善惡之報必久而後定邪<lb/>
+石耳堆盤薦緑茸白魚紫笋亦時供日長分省無公事<lb/>
+坐對廬山雙劍峰<lb/>
+石甃方池幾百年岳王故宅世猶傳格天髙閣今安在<lb/>
+葛嶺荆榛野雉眠<lb/>
+　　　中秋夜宿蒜嶺驛<lb/>
+路隔家山只一程驛亭孤坐不勝情可憐今夜中秋月<lb/>
+猶作人間兩地明<lb/>
+<pb n="KR4e0151_WYG_007-2a"/>
+　　　蘭<lb/>
+短葉疎莖雜野蒿不隨清廟薦溪毛白頭空谷幽人老<lb/>
+夜雨篝燈讀楚騷<lb/>
+　　　菊<lb/>
+斗絶孤厓倚碧空秋深烟雨寄芳叢林坰寂寞誰相問<lb/>
+千載心期栗里翁<lb/>
+　　　夏日山中雜咏二首<lb/>
+隴上新開百荔莊交枝接葉覆茆堂青林結實殊稀少<lb/>
+<pb n="KR4e0151_WYG_007-2b"/>
+應笑山人嵗計荒<lb/>
+荒郊無雨再經旬豆葉禾苖赤色新宴坐樹隂猶覺暑<lb/>
+田中更有踏車人<lb/>
+　　　汝寧道中遇雪呈蔣升之太守<lb/>
+畿甸一冬愁少雪飛沙滿地麥苖稀黄河南渡春猶淺<lb/>
+始見郊原白雪飛<lb/>
+　　　北邙山<lb/>
+黄河南渡陟平岡迤邐坡陀接北邙一望荒丘秋草裏<lb/>
+<pb n="KR4e0151_WYG_007-3a"/>
+誰知庶姓與君王<lb/>
+　　　過洛陽故城<lb/>
+伊闕山髙伊水清洛陽形勝舊曽名累朝遺蹟今俱盡<lb/>
+斷塹荒郊只廢城<lb/>
+　　　新安縣即函谷關也其地阨塞秦東面以制諸<lb/>
+　　　侯故於此設鎮<lb/>
+雄關重鎻三秦地隘道曽摧六國師今日驛亭從夜度<lb/>
+却非齊客學雞時<lb/>
+<pb n="KR4e0151_WYG_007-3b"/>
+　　　陜州城有石刻魏野草堂即其舊隠處有司立<lb/>
+　　　堂祀之<lb/>
+白衣不受羣公薦紫禁曽傳處士詩今日乾坤猶有地<lb/>
+為君重作草堂基<lb/>
+　　　過貴溪風雨暴至<lb/>
+溽暑蒸人一洗空碧天逺影見歸鴻圗書小艇無官况<lb/>
+落日溪頭狎釣翁<lb/>
+　　　草萍驛<lb/>
+<pb n="KR4e0151_WYG_007-4a"/>
+蕭疎驛舎繞烟蘿二十年前此地過詩壁舊題無處覔<lb/>
+植松庭外已婆娑<lb/>
+　　　度分水關二首<lb/>
+泉聲鳥語隔溪聞楚越封疆此際分老眼欲窮閩海望<lb/>
+午風吹散隴頭雲<lb/>
+計偕當日此攀躋曽有狂詞嶺上題治策山河成漫語<lb/>
+千峰秋色夕陽西<hi>計偕過此甞題落句莫謂儒生無治策長扶明主鎮山河故今云云</hi>
+　　　邊戍馳馬圖詩<lb/>
+<pb n="KR4e0151_WYG_007-4b"/>
+同雲四野雪霏霏虎韉氊衫去欲飛猛氣衝風能破敵<lb/>
+邊烽無警羽書稀<lb/>
+　　　登舟<lb/>
+常山輿馬玉山舟客路驅人不自由却羡邊江幾家屋<lb/>
+柴門斜對白鷗洲<lb/>
+　　　重陽日社會梅莊三首<lb/>
+老至登髙力不任黄花短髮豈勝簪一年好景莫孤負<lb/>
+擬把茱萸滿琖斟<lb/>
+<pb n="KR4e0151_WYG_007-5a"/>
+小作温公獨樂園頻招几杖泛清樽曲欄短砌花如簇<lb/>
+看盡芳菲不出門<lb/>
+百卉逢秋半欲殘九天風露動微寒東籬黄菊花開未<lb/>
+移向堂前對酒看<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR4e0151_WYG_007-5b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　山齋文集巻七<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>五代詩話</head>
+    <p>
+<pb n="KR4i0064_WYG_000-1a"/>
+欽定四庫全書　　　　　集部九<lb/>
+　五代詩話　　　　　　　詩文評類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案五代詩話十巻<lb/>
+　　　國朝鄭方坤撰方坤有全閩詩話別著録初王<lb/>
+　　　　士禎欲作五代詩話僅草創而未成其門人<lb/>
+　　　　務尊師説遂以未成之本傳鈔闕漏實甚體<lb/>
+　　　　例尤疏宋弼嘗補其缺遺而刊之然弼平生<lb/>
+<pb n="KR4i0064_WYG_000-1b"/>
+　　　　篤信士禎非所著之書不讀故于舊籍遺文<lb/>
+　　　　仍多未睹後方坤得士禎殘稿於厯城朱氏<lb/>
+　　　　病其未備乃採摭諸書重為補正原本六百<lb/>
+　　　　四十二條之中刪其二百一十六條增入七<lb/>
+　　　　百八十九條共成一千二百一十五條凡所<lb/>
+　　　　増入仿宋庠國語補音吳師道補正戰國策<lb/>
+　　　　之例各以類相從次於本條之下凡國主宗<lb/>
+　　　　室一巻中朝一巻南唐一巻前蜀後蜀一巻<lb/>
+<pb n="KR4i0064_WYG_000-2a"/>
+　　　　吳越南漢一巻閩一巻楚荆南一巻宫閨仙<lb/>
+　　　　鬼緇流一巻羽士鬼怪一巻雜綴一巻其中<lb/>
+　　　　有尤而效之者如原本載羅隠謝表殷文圭<lb/>
+　　　　啓事本為四六駢詞無闗吟咏他若李氏藏<lb/>
+　　　　書太原草檄和凝之詅癡符桑維翰之鑄鐵<lb/>
+　　　　硯徐寅之獻過大梁賦直成雜事無預於詩<lb/>
+　　　　一概從刪殊有廓清之力而李後主跋懐素<lb/>
+　　　　書亦無闗詩事乃録之不遺原本方干鄭谷<lb/>
+<pb n="KR4i0064_WYG_000-2b"/>
+　　　　唐球諸人上連唐代方坤既已刋削而司空<lb/>
+　　　　圖之不受梁官韓偓之未食閩禄例以陶潛<lb/>
+　　　　稱晉仍是唐人列之五代亦乖斷限至潘慎<lb/>
+　　　　修獻宋太宗詩劉兼長春節詩宋事宋人一<lb/>
+　　　　併闌入尤泛濫矣又如蘇軾演陌上花晁補<lb/>
+　　　　之撰芳儀曲李淑題周恭帝陵宋徽宗書白<lb/>
+　　　　居易句雖詠五代之事實非五代之人一概<lb/>
+　　　　增入則詠明妃者皆當列之漢詩賦雀臺者<lb/>
+<pb n="KR4i0064_WYG_000-3a"/>
+　　　　悉應入之魏集自古以来無斯體例貪多務<lb/>
+　　　　得方坤亦自言之矣至於江南江北舊家鄉<lb/>
+　　　　一首江表志以為楊溥馬令南唐書以為李<lb/>
+　　　　煜嘲宋齊邱喪子一詩夢溪筆談以為老瞽<lb/>
+　　　　樂工漁隠叢話以為李家明如此之類不一<lb/>
+　　　　而足前後並載既不互註又不考定亦屬疎<lb/>
+　　　　舛然採摭繁富五代軼聞瑣事㡬於搜括無<lb/>
+　　　　餘較之士禎原書則賅備多矣固詩家之所<lb/>
+<pb n="KR4i0064_WYG_000-3b"/>
+　　　　取資也乾隆四十三年五月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

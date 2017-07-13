@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>洞冥記</head>
+    <p>
+<pb n="KR3l0097_WYG_000-1a"/>
+欽定四庫全書　　　　　子部十二<lb/>
+　洞冥記　　　　　　　　小説家𩔖二<hi>異聞之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案洞冥記四卷舊本題後漢郭憲撰<lb/>
+　　　　憲字子横汝南宋人官至光禄勲事迹具後<lb/>
+　　　　漢書方術傳是書隋志止一卷唐志始作四<lb/>
+　　　　卷文獻通考又有拾遺一卷晁公武讀書志<lb/>
+　　　　引憲自序謂漢武明雋特異之主東方朔因<lb/>
+<pb n="KR3l0097_WYG_000-1b"/>
+　　　　滑稽浮誕以匡諌洞心於道教使冥跡之奧<lb/>
+　　　　昭然顯著故曰洞冥陳振孫書録解題云其<lb/>
+　　　　别録又於御覽中抄出則四卷亦非全書别<lb/>
+　　　　録當即拾遺也今憲序與拾遺俱已佚惟存<lb/>
+　　　　此四巻核以諸書所引皆相符合盖猶舊本<lb/>
+　　　　考范史載憲初以不臣王莽至焚其所賜之<lb/>
+　　　　衣逃匿海濵後以直諌忤光武帝時有闗東<lb/>
+　　　　觥觥郭子横之語盖亦剛正忠直之士范史<lb/>
+<pb n="KR3l0097_WYG_000-2a"/>
+　　　　徒以世傳噀酒救火一事遂抑居方術之中<lb/>
+　　　　其事與欒巴相同或有或無已不可定至於<lb/>
+　　　　此書所載尤皆俶詭之談似未必真出憲手<lb/>
+　　　　又詞采縟艶亦迥異東京或六朝文士依託<lb/>
+　　　　為之歟然所言影娥池事唐上官儀用以入<lb/>
+　　　　詩時稱博洽後來詞賦引用尤多盖以字句<lb/>
+　　　　妍華足供采摭過而存之亦未嘗無禆於詞<lb/>
+　　　　翰也乾隆四十二年五月恭校上<lb/>
+<pb n="KR3l0097_WYG_000-2b"/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

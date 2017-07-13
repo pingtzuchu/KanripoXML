@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3f0040_WYG_003-1a"/>
+緝古算經䟦<lb/>
+按唐書選舉志制科之目明算居一其定制云凡算學<lb/>
+孫子五曹共限一嵗九章海島共三嵗張邱建夏侯陽<lb/>
+各一嵗周髀五經算共一嵗綴術四嵗緝古三嵗記遺<lb/>
+三等數皆兼習之竊惟數學為六藝之一唐以取士共<lb/>
+十經周髀家塾曾刋行之餘則世有不能舉其名者扆<lb/>
+半生求之從太倉王氏得孫子五曹張邱建夏侯陽四<lb/>
+種從章邱李氏得周髀緝古二種後從黄俞邰又得九<lb/>
+<pb n="KR3f0040_WYG_003-1b"/>
+章皆元豐七年秘書省刋板字畫端楷雕鏤精工真<lb/>
+世之寳也每卷後有秘書省官銜姓名一幅又一幅宰<lb/>
+輔大臣自司馬相公而下俱列名於後用見當時鄭重<lb/>
+若此因求善書者刻畫影摹不爽毫末什襲而藏之但<lb/>
+焉得海島五經綴術三種竟成完璧并得好事者刋刻<lb/>
+流布俾數學不絶於世所深願也<lb/>
+康熙甲子仲秋汲古後人毛扆謹識<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

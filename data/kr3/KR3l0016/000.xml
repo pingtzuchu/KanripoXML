@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3l0016_SBCK_000-1a"/>
+刻雲仙雜記序<lb/>
+梁任彦升家有書三萬卷捃拾<lb/>
+遐怪之事為二卷曰述異记唐<lb/>
+末時馮贄所纂雲仙雜記十卷<lb/>
+贄自序云家蔵九世之書二十<lb/>
+餘萬卷已數倍彦升之書雖古<lb/>
+蔵書之家當無以過之今觀其<lb/>
+所纂多所未見贄又云若見於<lb/>
+<pb n="KR3l0016_SBCK_000-1b"/>
+常常之書此必畛之信矣其事<lb/>
+顡皆幽间燕餙述異之外足以<lb/>
+資博聞而欣然惬賞者此書也<lb/>
+葉伯寅既乙校刻齋中𣸪屬余<lb/>
+序遂為序云<lb/>
+隆慶辛未夏六月俞允文撰<lb/>
+<pb n="KR3l0016_SBCK_000-2a"/>
+雲<graphic n="KR0726" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0726.png" mimeType="image/png"/>雜記序<lb/>
+　　　　　　　　唐金城馮　贄　編<lb/>
+纂類之書多矣其間所載世人用于文字者亦<lb/>
+不下數十軰則今未免為陳言也予事科舉三<lb/>
+十年蔑然無効天祐元年退㱕故里築選書室<lb/>
+以居取九世所蓄典籍經史子集二十萬八千<lb/>
+一百二十卷六千九百餘帙　其膏髓别為一<lb/>
+書其門目未暇派别也成于四年之秋由急於<lb/>
+應文房之用乃不䏻詳又數歳復淂終萹者四<lb/>
+部英華筆頭飛文壇戈㦸應題錄皆傳記集異<lb/>
+<pb n="KR3l0016_SBCK_000-2b"/>
+之說若見於常常之書者此必略之庻兵火煨<lb/>
+燼之後成者不至求手豈小𥙷欤同志者幸為<lb/>
+<graphic n="KR0903" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0903.png" mimeType="image/png"/>秘之天復元年十二月序<lb/>
+<pb n="KR3l0016_SBCK_000-3a"/>
+雲仙襍記目錄<lb/>
+　卷之一<lb/>
+　　幽人茟　飛雲履<lb/>
+　　孫豋琴　棋聲與律吕相應<lb/>
+　　紅白二墨　龍耳李<lb/>
+　　磂黄椀　夢裁錦<lb/>
+　　無塵子　惜春御史<lb/>
+　　黑松使者　桞神九烈君<lb/>
+　　六鼻鏡生雲烟　文星典吏<lb/>
+　　玄山印記　水玉數珠<lb/>
+<pb n="KR3l0016_SBCK_000-3b"/>
+　　為梨花洗粧　籠桶衫柿油巾<lb/>
+　　石斧銘　棠木印<lb/>
+　　鳯窠群女　地仙圓<lb/>
+　　凉物　梅粧閣<lb/>
+　　洛陽歲莭　<graphic n="KR0999" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0999.png" mimeType="image/png"/>檀寺春秋二㑹<lb/>
+　　㮻首問青天　清髙門戸<lb/>
+　　午橋荘　飬硯墨茟𥿄<lb/>
+　　迷香洞　袖裏春<lb/>
+　　金凰凰　三賢松<lb/>
+　　芋魁遭遇　山神以豐年相報<lb/>
+<pb n="KR3l0016_SBCK_000-4a"/>
+　　綰龍臺　呉興米<lb/>
+　　掃露眀軒　吞雲夢澤<lb/>
+　卷之二<lb/>
+　　田水聲過吾師　龍鬚友<lb/>
+　　隱士衫　俗耳鍼砭詩膓鼓吹<lb/>
+　　半月履　菱角巾<lb/>
+　　大鯉五色　烟姿玉骨<lb/>
+　　日精　火筯如両儀<lb/>
+　　羔羊揮淚　屋龍更衣<lb/>
+　　掌有卧蛇文　栗木為關<lb/>
+<pb n="KR3l0016_SBCK_000-4b"/>
+　　九華半臂　遷官靣長額有光氣<lb/>
+　　壺中景　辨琴秦楚聲<lb/>
+　　臨光宴　水松牌<lb/>
+　　泛春渠　百花獅子<lb/>
+　　桃花𥿄　酒器九品<lb/>
+　　暖香滿室如春　啼猿生蕨<lb/>
+　　買春錢　苦吟<lb/>
+　　蛻龍牙　碎金靣基盤<lb/>
+　　琴價与武庫争先　圍棋奪造化<lb/>
+　　墨紋如履皮　換茶醒酒<lb/>
+<pb n="KR3l0016_SBCK_000-5a"/>
+　　腸胃文章映日　天峰煤與綾文剌孰朦<lb/>
+　　粥飼鳩　花簮壓損㡌<graphic n="KR0585" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0585.png" mimeType="image/png"/>
+　　翡翠指環　赤将軍<lb/>
+　　地脂　胡麻啖犬<lb/>
+　　得意田<lb/>
+　卷之三<lb/>
+　　過門錢　虞永興書<lb/>
+　　一醉六日　𧺫宅刷以醇酒<lb/>
+　　題梁字　郇公厨<lb/>
+　　厠上以术湯盥手　書北山移文<lb/>
+<pb n="KR3l0016_SBCK_000-5b"/>
+　　争春館　薛家士風<lb/>
+　　食蒲桃　梅聘海棠棖子臣櫻桃<lb/>
+　　檜生藥圎　過<graphic n="KR0550" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0550.png" mimeType="image/png"/>羊<lb/>
+　　軟<graphic n="KR0238" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0238.png" mimeType="image/png"/>壥桑枝為籬障　嚼鷄舌香<lb/>
+　　䏻詩　朱書禹字渡江河<lb/>
+　　盡數天星知棊勢　雌雄樹<lb/>
+　　作詩如繡花　化玉膏<lb/>
+　　貯蘭蕙　百齒梳<lb/>
+　　科斗筯魚尾匙　唾地成文<lb/>
+　　菖蒲當拜此君　界尺茟槽<lb/>
+<pb n="KR3l0016_SBCK_000-6a"/>
+　　犀如意　萱艸浣衣<lb/>
+　　虎毛紅管茟　一詩輒洗其茟<lb/>
+　　句中喜得魚竹　洪兒𥿄<lb/>
+　　束修羊　惠一絲両絲<lb/>
+　　蕨成金叙　鷄鴨卵殻<lb/>
+　　八梭綾　染花奩<lb/>
+　　文享媚香無忝　少延淸歡<lb/>
+　　茟文章貨　降龍道者<lb/>
+　　何徴君隱吳郡　西昌逸士<lb/>
+　　享<graphic n="KR0951" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0951.png" mimeType="image/png"/>肉　獵蝇記室<lb/>
+<pb n="KR3l0016_SBCK_000-6b"/>
+　　租𬞞助鼎爼　蓄鴨<lb/>
+　卷之四<lb/>
+　　石鼈銜賦題　自負書劍<lb/>
+　　松精成使者　龍窠石<lb/>
+　　召客念無魚　金鷄抱卵時<lb/>
+　　胡松莭支琴　竊嚥棊子<lb/>
+　　墨染𥿄不昏　茶燋縛奴投火<lb/>
+　　袖餅班中　石蓮匣<lb/>
+　　鵝蒸　粉指印青編<lb/>
+　　一里更二馬　旋風茟<lb/>
+<pb n="KR3l0016_SBCK_000-7a"/>
+　　贈相淂以鳩　物價至微<lb/>
+　　夜飛蟬　羲之鬼<lb/>
+　　竹枝曲　却老先生<lb/>
+　　小兒司命　青蠅拜賀<lb/>
+　　葬得石牌　貧而圖婚<lb/>
+　　以海鮫皮為鼓　上元影燈<lb/>
+　　軟棗餻　竊花<lb/>
+　　酒窟　詩成裁囱𥿄<lb/>
+　　白羊粧點芳草　浮萍為鴨作茵褥<lb/>
+　　自為小君裁剪　貴家棊子<lb/>
+<pb n="KR3l0016_SBCK_000-7b"/>
+　　弄葫蘆成詩　好讀離騷<lb/>
+　　挼花浸酒　挑野𬞞<lb/>
+　　簇酒　祭詩以酒脯<lb/>
+　　碬磨齋　歛衣<lb/>
+　　凌虗宴　桃花醋<lb/>
+　　蟣肝龍首<lb/>
+　卷之五<lb/>
+　　茟描窻竹影　糖蜜莫逆交<lb/>
+　　印宫人臂　念金輪呪<lb/>
+　　水晶環渡舟　鳴牙餅<lb/>
+<pb n="KR3l0016_SBCK_000-8a"/>
+　　棠棣之好　金蘭簿<lb/>
+　　鴨邜成花　燭闈<lb/>
+　　宴客典斟　金牌盈座<lb/>
+　　聚香團　待闕鴛鴦社<lb/>
+　　咲春紅　二花<lb/>
+　　三鹿郡公　崑崙玉盞<lb/>
+　　坐間牡丹花　杜䳌喚㱕<lb/>
+　　遇河神　口吻生花<lb/>
+　　贈詩勝爛黄魚　折筯不休<lb/>
+　　防風粥　食蝤蛑<lb/>
+<pb n="KR3l0016_SBCK_000-8b"/>
+　　羣公對雪　屋瓦皆鏤<lb/>
+　　三年不見羊角　採星盆<lb/>
+　　作剪刀　左撚巾拭靣<lb/>
+　　碑石　漬𥿄<lb/>
+　　除夜歎老　印普賢像<lb/>
+　　三辰酒　桑木根可作沉香想<lb/>
+　　皂葢與日争功　雷門四老石<lb/>
+　　握麥芒刀字　麒麟草<lb/>
+　　魚藻洞　鼻出黄膠<lb/>
+　　數米而食　廬墓日影為之不移<lb/>
+<pb n="KR3l0016_SBCK_000-9a"/>
+　　飼牛以天麻飯　髙麗絲結<lb/>
+　　食牛肺犯天樞使　菖蒲成獅子鸞鳯状<lb/>
+　　鴨肝猪肚　吞花卧酒<lb/>
+　　<graphic n="KR1161" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1161.png" mimeType="image/png"/>椿不染風　屋竅如七星<lb/>
+　　斗麵為糊供緘封　<graphic n="KR1287" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1287.png" mimeType="image/png"/>如棗核而中空<lb/>
+　卷之六<lb/>
+　　讀書數真珠為記　竹粉湯<lb/>
+　　蜀中厚朴　碎錦坊<lb/>
+　　百年歌　夢青龍吐棊經<lb/>
+　　白眼蜂　安石㨨<lb/>
+<pb n="KR3l0016_SBCK_000-9b"/>
+　　嗜鴨腊　壬癸席<lb/>
+　　歛妓釵鈿以記意　沈秘景符<lb/>
+　　沙上玩味成詩　吟詩落齒<lb/>
+　　綠牝鞍　鳯眼窻<lb/>
+　　巨栗殻為盃　眉分九聚<lb/>
+　　洞天缺　賜成象殿茶果<lb/>
+　　夏雪價䓁金壁　蛙臺<lb/>
+　　棄官求道　携琴就松風澗響<lb/>
+　　出逰携圍棊短具　墨難减者萬金不換<lb/>
+　　孜茶三䓁　笏囊笏架<lb/>
+<pb n="KR3l0016_SBCK_000-10a"/>
+　　徐峰善棊　瞬碧侯<lb/>
+　　錢龍宴　王武子好馬<lb/>
+　　鸞手校尉　剪刀<graphic n="KR1287" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1287.png" mimeType="image/png"/>月兒羔<lb/>
+　　玄禄　大雅之文<lb/>
+　　二儀餅　槐膠禅子<lb/>
+　　酒神　九芒珠<lb/>
+　　石綠鏡臺　自課庵<lb/>
+　　淵眀拜火　筆封九錫<lb/>
+　　墨封九錫　𥿄封九錫<lb/>
+　　硯封九錫　為花樹洗瘡止痛<lb/>
+<pb n="KR3l0016_SBCK_000-10b"/>
+　卷之七<lb/>
+　　元白両不相下　仙人栢葉書<lb/>
+　　家庖百品　硯中出白影珠<lb/>
+　　陳蕃待客　桂人好食蝦蟇<lb/>
+　　霜露䏻染紅紫　蒲桃髻<lb/>
+　　方囊盛金錢　千眼仙人赴東林寺<lb/>
+　　洛如花　虱念阿房宫賦<lb/>
+　　甲乙膏　魚脊出金釵<lb/>
+　　團沙揑成睡嵇康　樂音泉<lb/>
+　　石斧欲斫斷詩手　清水郎君<lb/>
+<pb n="KR3l0016_SBCK_000-11a"/>
+　　徐鳯儀杖　劍生神芝天下晏清<lb/>
+　　聚芳圖百花帶　李花如飛仙<lb/>
+　　𧺫藁窻上　蜜浸烏梅觧宿醒<lb/>
+　　榕粉　灰山<lb/>
+　　嗜蛤蜊　諢衣<lb/>
+　　三様錢買二色酒　大筍中有眼睛<lb/>
+　　雨點螺磨𥿄　沈休文多病<lb/>
+　　畜郭璞　浄眼僧<lb/>
+　　竹莭中神水　醸換骨膠<lb/>
+　　畏薯藥　分香蓮<lb/>
+<pb n="KR3l0016_SBCK_000-11b"/>
+　　雪竹搔頭　遇棊仙<lb/>
+　　焚杜詩飲以膏蜜　蔵盤筵於水底<lb/>
+　　七井生凉<lb/>
+　卷之八<lb/>
+　　八角玉井　失去周字知唐必興<lb/>
+　　曲江春逰　毛詩卷染油代燭<lb/>
+　　眉睫間常化佛　好李花致富<lb/>
+　　一物如人眼睛　造笙<lb/>
+　　喬敷嗜魚　浮陽筍<lb/>
+　　瓜甲間皆出雲烟　石魚<lb/>
+<pb n="KR3l0016_SBCK_000-12a"/>
+　　王毋惜李過蟠桃　重黎盞酌水<lb/>
+　　時元亨煉真　孫逄年好酒老不衰<lb/>
+　　王維居不容塵　磁石盖眼<lb/>
+　　魚喜<graphic n="KR0951" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0951.png" mimeType="image/png"/>胎香　降魔寺僧以名召魚<lb/>
+　　并代人喜嗜麫　鶴識字<lb/>
+　　洗心糖　桃花絲<lb/>
+　　秘宻泉　怯夜幡<lb/>
+　　魚鱉隨世安危　書冊以竹<graphic n="KR0238" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0238.png" mimeType="image/png"/>為糊<lb/>
+　　真脫絲布　酒中沐浴毛髮識味<lb/>
+　　龍口渠　口中現五色牙齒<lb/>
+<pb n="KR3l0016_SBCK_000-12b"/>
+　　李有九標　斗盆燒乳頭香<lb/>
+　　䑕精李　猪肝中有䜟書<lb/>
+　　酒魔　糠市<lb/>
+　　品物互徴古事<lb/>
+　卷之九<lb/>
+　　一盃羔三萬錢　縑繫南山樹<lb/>
+　　心織茟耕　燕奴<lb/>
+　　三斗爛腸　金菜玉𬞞<lb/>
+　　無腸公子　駭鷄犀<lb/>
+　　天皷　虎狼稱呼<lb/>
+<pb n="KR3l0016_SBCK_000-13a"/>
+　　鵲巣獺穴　靈運鬚<lb/>
+　　沒了期　㧞釘錢<lb/>
+　　斧中龍　黄𥿄寫敕<lb/>
+　　金玉炊桂　鷸蚌<lb/>
+　　釐婦　螳蜋搏輪<lb/>
+　　銅鶴罇　鵲尾杓<lb/>
+　　麒麟楦　喙長三尺手重五斤<lb/>
+　　鶴鳴鷄樹　鳩集鳯池<lb/>
+　　金剛舞夜又歌　金戺玉階<lb/>
+　　傳座　寳苗<lb/>
+<pb n="KR3l0016_SBCK_000-13b"/>
+　　築糠三尺　飜綽入水<lb/>
+　　龍巢飜　見李思戒<lb/>
+　　一步一計　通神錢<lb/>
+　　九花虬　上清珠<lb/>
+　　副急淚　五花館<lb/>
+　　鳥龍　鬚髯如㦸<lb/>
+　　田舎翁十斛麥　赤鳯凰<lb/>
+　卷之十<lb/>
+　　蕤賔鐡　截鐙留鞭<lb/>
+　　蜂蝶慕香　自煖盃<lb/>
+<pb n="KR3l0016_SBCK_000-14a"/>
+<pb n="KR3l0016_SBCK_000-15a"/>
+　　龍牀　九色鳯鶵<lb/>
+　　懐夢艸　青鸐<lb/>
+　　寳井　瓊厨金穴<lb/>
+　　流香渠　書倉<lb/>
+　　如願　金<graphic n="KR1085" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1085.png" mimeType="image/png"/>玉膾<lb/>
+　　閃電窻<lb/>
+雲仙雜記目錄<hi>終</hi>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

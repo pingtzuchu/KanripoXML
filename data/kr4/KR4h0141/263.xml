@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_263-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選巻二百六十三<lb/>
+　　蓴菜類<lb/>
+　　　長短句<lb/>
+　　　　題彦臯蒓軒　　　　　　　<hi>明</hi>陳　璧<lb/>
+　芙蓉花冷煙作雨鯉魚風生紫蒓渚軒前秋容浩誰主<lb/>
+　江人倚楫煙中語纎莖采香光漉漉冰絲齊穿水晶綠<lb/>
+　蓴有羮菰有米綵衣奉壽阿母喜平生宦情一杯水<lb/>
+<pb n="KR4h0141_WYG_263-1b"/>
+　　　七言絶句<lb/>
+　　　　答朝士　　　　　　　　　<hi>唐</hi>賀知章<lb/>
+　鈒鏤銀盤盛蛤蜊鏡湖蓴菜亂如絲鄉曲近來佳此味<lb/>
+　遮渠不道是吳兒<lb/>
+　　　　西湖采蓴曲　　　　　　　<hi>明</hi>沈明臣<lb/>
+　西湖蓴菜勝東吳三月春波綠滿湖新様越羅裁窄袖<lb/>
+　著來人說是羅敷<lb/>
+　　　　蓴菜　　　　　　　　　　<hi>明</hi>陸樹聲<lb/>
+<pb n="KR4h0141_WYG_263-2a"/>
+　陸瑁湖邊水漫流洛陽城外問漁舟鱸魚正美蓴絲熟<lb/>
+　不到秋風已倦游<lb/>
+　　　　蓴菜　　　　　　　　　　<hi>明</hi>徐　桂<lb/>
+　波心未吐心如結水葉初齊葉尚含脂自凝膚柔繞指<lb/>
+　轉教風味憶江南<lb/>
+　　　　其二<lb/>
+　鮫紵紛紛散作絲龍涎宛宛滑流匙詩人采茆元從水<lb/>
+　莫誤嘉蔬嗔露葵<lb/>
+<pb n="KR4h0141_WYG_263-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選巻二百六十三<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

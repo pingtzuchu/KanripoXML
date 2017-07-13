@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>居濟一得</head>
+    <p>
+<pb n="KR2k0075_WYG_000-1a"/>
+欽定四庫全書　　　　　史部十一<lb/>
+　居濟一得　　　　　　　地理𩔖四<hi>河渠之屬</hi>
+　　提要<lb/>
+　　　　　<hi>臣</hi>等謹案居濟一得八卷<lb/>
+　　　　國朝張伯行撰是編乃伯行為河道總督時相<lb/>
+　　　　　度形勢録之以備𠫭考者前七卷條議東省<lb/>
+　　　　　運河壩閘隄岸及修䟽築濬蓄洩啟閉之法<lb/>
+　　　　　於諸水利病條分縷析疏證最詳後附河漕<lb/>
+<pb n="KR2k0075_WYG_000-1b"/>
+　　　　　𩔖纂一卷則僅撮大概葢伯行惟督河工故<lb/>
+　　　　　漕政在所畧也伯行大㫖謂河自宿遷而下<lb/>
+　　　　　河博而流迅法宜縱之宿遷而上河窄而流<lb/>
+　　　　　舒法宜束之徐邳水髙而岸平泛濫之患在<lb/>
+　　　　　上宜築堤以制其上河南水平而岸髙衝刷<lb/>
+　　　　　之患在下宜捲埽以制其下又有三禁之䇿<lb/>
+　　　　　四防八固諸條皆得諸閲厯非徒為紙上之<lb/>
+　　　　　談者迄今六七十載雖屢經修築形勢稍殊<lb/>
+<pb n="KR2k0075_WYG_000-2a"/>
+　　　　而因其所記以考因革損益之源流亦未為<lb/>
+　　　　無所禆焉乾隆四十五年十月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="KR2k0075_WYG_000-3a"/>
+居濟一得原序<lb/>
+古人之治河也治其汎濫横溢足為民害者引之於沮<lb/>
+洳窪下之處徐徐焉趨入於海而治河之事已畢盖其<lb/>
+時閒曠之地甚多委而棄之不與水爭故得施其䟽濬<lb/>
+之功絶無所頋惜而水亦順性以往無奔騰衝決之患<lb/>
+今也不然梁豫青兖淮徐之境郡縣村落星列碁布生<lb/>
+齒日繁桑麻遍野凡昔人所棄以與水者盡為沃壤民<lb/>
+所必争水既無容蓄而又為轉漕必由之要路不得已<lb/>
+<pb n="KR2k0075_WYG_000-3b"/>
+而大為之隄防跬歩之間紆逥屈曲使俯就吾之約束<lb/>
+幸而數千里間不至有尺寸之滲漏矣又恐其不足以<lb/>
+轉漕而濟運是必民不病水水為漕用而後可以言治<lb/>
+夫以今人之才力逺不逮古人乃其遭際之艱難似有<lb/>
+倍於古人者奈之何不智勇坐困用力多而成功少也<lb/>
+哉雖然滄桑變易自古有之彼蒼愛民之心決不忍使<lb/>
+數十郡縣無辜之赤子頻遭昬墊則所恃以利賴而安<lb/>
+全之者要在人事之補偏救弊相時度勢毋拘成格毋<lb/>
+<pb n="KR2k0075_WYG_000-4a"/>
+循覆轍善為之節宣而已矣豈宜諉之氣數之適然曰<lb/>
+古今人不相及耶余自庚辰歳奉<lb/>
+命効力河工日夕奔馳於淮揚徐泗數百里之間考古<lb/>
+人之制度驗今日之形情源流分合髙下險夷亦既悉<lb/>
+其大概矣閲四載而膺山東治河之<lb/>
+命甫視事適遇雨潦堤堘在在澷溢民田處處淹沒夙<lb/>
+夜殷憂求所以無負厥職者越歳又值亢旱運河水涸<lb/>
+致厪<lb/>
+<pb n="KR2k0075_WYG_000-4b"/>
+宸衷命廣善庫郎中徳成格馳赴封閘催漕並𫝊<lb/>
+諭宜設法蓄水量塘放船余與徳公恪遵<lb/>
+訓㫖體究詳盡漕運果得無阻早達<lb/>
+神京此皆<lb/>
+聖謨逺照足為千古之良法者余不揣固陋<graphic n="KR1574" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1574.png" mimeType="image/png"/>流窮源<lb/>
+力求有益於民生<lb/>
+國計數年以來越阡度陌相度經營兼詢之故老攷之<lb/>
+𫝊記凡蓄洩啟閉之方宜沿宜革或創或因偶有所得<lb/>
+<pb n="KR2k0075_WYG_000-5a"/>
+輙筆之於書以備他日㕘考積乆成帙分為若干卷敢<lb/>
+曰遵是説也將以補偏救弊獨任其難而不愧於古人<lb/>
+節宣之義乎亦聊以自盡其一得之愚云爾善乎印川<lb/>
+潘公有言曰時勢可行則行之不可行則緩之慎毋使<lb/>
+我誤後人後人更誤後人此即余之素志也抑有説焉<lb/>
+事不乆任權不歸一則功敗於垂成如同築舍前明宋<lb/>
+尚書之已事可鑑已夫以數十郡縣生靈之命而皆仰<lb/>
+藉一人之謀畫事寧有重大於此者惟在慎擇其人假<lb/>
+<pb n="KR2k0075_WYG_000-5b"/>
+以便宜之柄使得乆於其位而不為浮言衆議所揺奪<lb/>
+凡利多而害少者毅然獨斷行之無稍顧忌建非常之<lb/>
+原以貽千百世生民之福功孰偉焉若徒汲汲於補苴<lb/>
+罅漏防護壅塞歳縻<lb/>
+國家無窮之帑徼倖於旦夕之無事謂可藉手告無罪<lb/>
+於古人適足貽笑後人而已矣是烏足與言治河之術<lb/>
+哉<lb/>
+康熙戊子三月朔儀封張伯行書於榕城之正誼堂<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

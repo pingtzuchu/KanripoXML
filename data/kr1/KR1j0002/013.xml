@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="1a"/>
+謂之榮不榮而實者謂之秀榮而不實者謂之英<lb/>
+釋木第十四<lb/>
+槄山榎<hi>今之山楸</hi>栲山樗<hi>栲似樗色小白生山/中因名云亦類漆樹</hi>柏椈<hi>禮記曰鬯曰以椈</hi>髡梱<lb/>
+<hi>未詳</hi>椵柂<hi>白椵也樹/似白楊</hi>梅柟<hi>似杏/實酢</hi>柀煔<hi>煔似松生江南可以爲舩/及棺材作柱埋之不腐</hi>櫠椵<hi>柚屬也子大如盂皮厚二三寸中似枳食之少味</hi>杻檍<hi>似棣細葉葉新生可飼牛材中/車<graphic n="KR2495" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2495.png" mimeType="image/png"/>關西呼杻子一名土橿</hi>楙木瓜<hi>實如小瓜酢可食</hi>椋即來<hi>今椋材/中車<graphic n="KR2495" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2495.png" mimeType="image/png"/>
+                    </hi>栵栭<hi>樹似檞樕而庳小子如細粟/可食今江東亦呼爲栭栗</hi>檴落<hi>可以爲杯器素</hi>柚條<hi>似橙實酢/生江南</hi>時英梅<hi>雀/梅</hi>楥柜桏<hi>未詳或曰桏當爲柳柜桏似柳皮可以煑作飲</hi>栩杍<lb/>
+<hi>柞樹</hi>味荎著<hi>釋草已有此/名疑誤重出</hi>藲荎<hi>今之/刺榆</hi>杜甘棠<hi>今之杜梨</hi>狄臧橰貢綦<lb/>
+<hi>皆未詳</hi>朹檕梅<hi>朹樹狀似梅子如指/頭赤色似小㮈可食</hi>朻者聊<hi>未/詳</hi>魄榽橀<hi>魄大木細葉似檀今江東多有之齊人諺曰上山斫檀榽橀先彈</hi>梫木桂<hi>今南人呼桂厚皮者爲木桂桂樹葉似枇杷而大白華華而不著子叢生巖嶺枝葉冬夏常青<pb n="1b"/>閒無雜木</hi>棆無疵<hi>棆楩屬/似豫章</hi>椐樻<hi>腫節可/以爲杖</hi>檉河柳<hi>今河旁赤/莖小楊</hi>旄澤柳<hi>生澤中者</hi>
+楊蒲柳<hi>可以爲箭左傳所謂董澤之蒲</hi>權黃英輔小木<hi>權輔皆未詳</hi>杜赤棠白者棠<lb/>
+<hi>棠色異異其名</hi>諸慮山櫐<hi>今江東呼櫐爲/藤似葛而麤大</hi>欇虎櫐<hi>今虎豆纒蔓林樹而生莢有毛刺今江東呼爲㯿欇音涉</hi>杞枸檵<hi>今枸/杞也</hi>杬魚毒<hi>杬大木子似栗生南方/皮厚汁赤中藏卵果</hi>檓大椒<hi>今椒樹叢生實大者名爲檓</hi>
+楰䑕梓<hi>楸屬也今江東有虎梓</hi>楓欇欇<hi>楓樹似白楊葉貟而岐/有脂而香今之楓香是</hi>寓木宛童<hi>寄生樹一名蔦</hi>
+无姑其實夷<hi>无姑姑榆也生山中葉貟而厚剥取皮合漬之其味辛香所謂无夷</hi>櫟其實梂<hi>有梂彚自裹</hi>檖<lb/>
+羅<hi>今楊檖也實似梨而小酢可食</hi>楔荆桃<hi>今櫻/桃</hi>旄冬桃<hi>子冬/熟</hi>榹桃山桃<hi>實如桃而小不解核</hi>休<lb/>
+无實李<hi>一名趙李</hi>痤椄慮李<hi>今之/麥李</hi>駁赤李<hi>子/赤</hi>棗壷棗<hi>今江東呼棗大而銳上者爲壷壷猶瓠也</hi>邊要棗<hi>子細腰今謂/之鹿盧棗</hi>櫅白棗<hi>即今棗/子白熟</hi>樲酸棗<hi>樹小實酢孟子曰養其樲棗</hi>
+楊徹齊棗<hi>未詳</hi>遵羊棗<hi>實小而貟紫黒色今俗呼之爲羊矢棗孟子曰曽晢嗜羊棗</hi>洗大棗<lb/>
+<pb n="2a"/>
+<hi>今河東猗氏縣出大棗子如雞卵</hi>煑塡棗<hi>未/詳</hi>蹶洩苦棗<hi>子味/苦</hi>晳無實棗<hi>不著子者</hi>
+還味棯棗<hi>還味短苦</hi>櫬梧<hi>今梧/桐</hi>樸枹者<hi>樸屬叢生者爲枹詩所謂棫樸枹櫟</hi>謂櫬采薪<lb/>
+采薪即薪<hi>指解今樵薪</hi>棪㯈其<hi>棪實似奈/赤可食</hi>劉劉杙<hi>劉子生山中實如梨酢甜核堅出交趾</hi>
+櫰槐大葉而黒<hi>槐樹葉大色黒者名爲櫰</hi>守宫槐葉晝聶宵炕<hi>槐葉晝日聶合而夜炕布者名爲守宮槐</hi>槐小葉曰榎<hi>槐當爲楸楸/細葉者爲榎</hi>大而皵楸<hi>老乃皮麤皵者爲楸</hi>小而皵<lb/>
+榎<hi>小而皮麤皵者爲榎左傳曰使擇美榎</hi>椅梓<hi>即/楸</hi>桋赤梀白者梀<hi>赤棟樹葉細而岥銳皮理錯戾好叢生山中中爲車<graphic n="KR2495" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2495.png" mimeType="image/png"/>白/梀葉貟而岥爲大木</hi>終牛棘<hi>即馬棘也其刺麤而長</hi>灌木叢木<hi>詩曰集於灌木</hi>瘣<lb/>
+木苻婁<hi>謂木病尫傴癭腫無枝條</hi>蕡藹<hi>樹實繁/茂菴藹</hi>枹遒木魁瘣<hi>謂樹木叢生根枝節目盤結磈磊</hi>棫白桵<hi>桵小木叢生有刺實/如耳璫紫赤可啖</hi>棃山樆<hi>即今棃樹</hi>桑辨有葚梔<lb/>
+<hi>辨半也</hi>女桑桋桑<hi>今俗呼桑樹小而/條長者爲女桑樹</hi>榆白枌<hi>枌榆先生葉却著莢皮色白</hi>唐棣<lb/>
+<pb n="2b"/>
+栘<hi>似白楊江東呼夫栘</hi>常棣棣<hi>今山中有棣樹/子如櫻桃可食</hi>檟苦荼<hi>樹小似梔子冬生葉可煑作羹飲今呼早采者爲荼晚取者爲茗一名荈蜀人名之苦荼</hi>樕樸心<hi>槲樕/别名</hi>榮桐木<hi>即梧/桐</hi>棧木干木<hi>橿木也江東呼木觡</hi>檿桑山桑<hi>似桑材中作/弓及車轅</hi>木自弊柛<hi>弊/踣</hi>立死椔<hi>不弊頓</hi>蔽<lb/>
+者翳<hi>樹䕃翳覆地者詩云其椔其翳</hi>木相磨槸<hi>樹枝相/切磨</hi>棤皵<hi>謂木皮甲錯</hi>梢梢櫂<lb/>
+<hi>謂木无枝柯梢櫂長而殺者</hi>樅松葉柏身<hi>今大廟梁材用此木尸子所謂松柏之䑕不知堂宻之有美樅</hi>檜柏葉<lb/>
+松身<hi>詩曰檜楫松舟</hi>句如羽喬<hi>樹枝曲卷似鳥毛羽</hi>下句曰朻上句曰喬如木楸<lb/>
+曰喬<hi>楸樹性其上竦</hi>如竹箭曰苞<hi>篠竹性/叢生</hi>如松柏曰茂<hi>枝葉婆娑</hi>如槐曰茂<lb/>
+<hi>言亦扶踈茂盛</hi>柷州木髦柔英<hi>皆未/詳</hi>槐棘醜喬<hi>枝皆/翹竦</hi>桑柳醜條<hi>阿那垂條</hi>椒榝醜莍<hi>莍蓃子聚生成房貌今江東/亦呼莍榝似茱茰而小赤色</hi>桃李醜核<hi>子中有核人</hi>瓜曰<lb/>
+華之桃曰膽之棗李曰疐之樝棃曰鑚之<hi>皆啖食治擇之名樝似棃而酢澁見</hi>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

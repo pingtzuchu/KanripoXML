@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>尚書稗疏</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　經部二<lb/>
+　尚書稗疏　　　　　　書𩔖<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案尚書稗疏四卷<lb/>
+　　　國朝王夫之撰夫之有周易稗疏已著録是編<lb/>
+　　　　詮釋經文亦多出新意其間有失之太鑿者<lb/>
+　　　　如謂虞書自戛擊鳴球以下至庶尹允諧皆<lb/>
+　　　　韶樂之譜以詠二字貫下祖考來格三句為<lb/>
+<pb n="1b"/>
+　　　　升歌以配笙瑟之詩鳥獸蹌蹌為下管之所<lb/>
+　　　　舞鳯凰來儀為第九成吹簫之所舞百獸率<lb/>
+　　　　舞庶尹允諧為樂終擊磬之所舞又謂作歌<lb/>
+　　　　賡歌即大韶升歌之遺音䕫以被之管弦者<lb/>
+　　　　故繫之庶尹允諧之後前數語不用韻如樂<lb/>
+　　　　府之有艷有和有唱其三句一韻者如樂府<lb/>
+　　　　之有詞其說附㑹支離全無文義其論洛書<lb/>
+　　　　配九疇之數以履一為五皇極而以居中之<lb/>
+<pb n="2a"/>
+　　　　五為一五行雖推衍百端畫圖立説終于經<lb/>
+　　　　文本數相戾其于地理至以崑崙為洮州之<lb/>
+　　　　胭脂嶺尤為武斷然如蔡𫝊引爾雅水北曰<lb/>
+　　　　汭實無其文世皆知之夫之則推其致悞之<lb/>
+　　　　由以為訛記孔安國涇屬溈汭之𫝊謂禋非<lb/>
+　　　　周禮之禋𩔖非周禮之𩔖五服五章亦不以<lb/>
+　　　　周制解虞制與陳第論周之五玉不可解虞<lb/>
+　　　　之五玉者同一為古人所未發引矍相之射<lb/>
+<pb n="2b"/>
+　　　　證侯以明之謂以與射不與射為榮辱非以<lb/>
+　　　　射中不射中為優劣因引周禮日月辰次正<lb/>
+　　　　泰誓十三年為辛夘引説文大戴禮記證蠙<lb/>
+　　　　珠非蚌珠蔡傳不知古字假借引周禮王府<lb/>
+　　　　供王食玉證玉食引左𫝊證奄與淮夷為二<lb/>
+　　　　引喪大記證狄人引説文美字之訓以解美<lb/>
+　　　　若駁蘇軾傳及蔡傳之失則大抵詞有根據<lb/>
+　　　　不同游談雖醇庛互見而可取者較多焉乾<lb/>
+<pb n="3a"/>
+　　　　隆四十六年十月恭校上<lb/>
+　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　總　校　官　<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

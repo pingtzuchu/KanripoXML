@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>易學變通</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　　經部一<lb/>
+　易學變通　　　　　　　易類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案易學變通六卷元曽貫撰貫字𫝊<lb/>
+　　　　道泰和人天厯辛已舉于鄉官紹興府照磨<lb/>
+　　　　元季兵亂棄官家居鄉人推率義軍後禦龍<lb/>
+　　　　泉冦戰敗抗節死事蹟見江西通志所著四<lb/>
+　　　　書類辨學庸標旨諸書俱湮没不𫝊惟朱彞<lb/>
+<pb n="1b"/>
+　　　　尊經義考載有周易變通之名亦以為已佚<lb/>
+　　　　今檢永樂大典所録周易各卦下收入貫説<lb/>
+　　　　尚多其標題實作易學變通知彞尊未見原<lb/>
+　　　　書故稱名小悞矣謹裒輯彚次釐為六卷其<lb/>
+　　　　豫隨无妄大壯晉睽蹇中孚八卦為永樂大<lb/>
+　　　　典所原闕者今無可校補亦姑仍其舊是書<lb/>
+　　　　純以義理説易其體例每篇統論一卦六爻<lb/>
+　　　　之義又舉他卦辭義之相近者㕘伍以求其<lb/>
+<pb n="2a"/>
+　　　　異同之故如乾卦云乾六爻不言吉無往而<lb/>
+　　　　非吉也初九處之以勿用即初九之吉上九<lb/>
+　　　　處之以无悔即上九之吉二之見五之飛三<lb/>
+　　　　四之无咎皆然蓋位或過於中而聖人處之<lb/>
+　　　　則無不中位或失於正而聖人處之則無不<lb/>
+　　　　正所謂剛健中正純粹精者吉有大於此乎<lb/>
+　　　　坤卦云或疑六三王事為六五之事然乾主<lb/>
+　　　　君道坤主臣道王事乃九五大人之事故坤<lb/>
+<pb n="2b"/>
+　　　　卦三五聖人皆有戒辭者其所以正人臣之<lb/>
+　　　　體為慮深矣艮卦云敦臨敦艮皆吉何也曰<lb/>
+　　　　敦者厚道也厚於治人則人無不服者臨是<lb/>
+　　　　也厚於治已而已無不修者艮是也人之自<lb/>
+　　　　處容可處於薄乎凡此諸條立義皆為醇正<lb/>
+　　　　其他剖析微細往往能出前儒訓解之外間<lb/>
+　　　　取互體立説兼存古義尤善持平在説易諸<lb/>
+　　　　家可謂明白而篤實且其成仁取義無愧完<lb/>
+<pb n="3a"/>
+　　　　人而元史忠義𫝊失於紀載殊傷漏畧今蒐<lb/>
+　　　　輯遺文著之於録非惟其書足重亦因以表<lb/>
+　　　　章大節發潛徳之幽光焉乾隆四十六年九<lb/>
+　　　　月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

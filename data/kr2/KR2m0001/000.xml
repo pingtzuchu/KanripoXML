@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2m0001_WYG_000-1a"/>
+欽定四庫全書<lb/>
+御製重刻通典序<lb/>
+稽古帝王治天下之大經大法以及累朝名物制度因<lb/>
+革損益之詳紛綸浩博散見典籍未有統貫唐宰相杜<lb/>
+佑於為淮南節度書記時始出己意搜討類次勒成一<lb/>
+書名曰通典為類八為書二百巻自唐肅代間上溯唐<lb/>
+虞雖亦稍据劉秩政典及開元新禮諸書要其網羅百<lb/>
+代兼總而條貫之斯已勤矣厥後鄭樵廣之作通志馬<lb/>
+<pb n="KR2m0001_WYG_000-1b"/>
+端臨續之作通考三書並行於世朕以其歴年乆逺頗<lb/>
+有殘缺特命重為校正刋刻以廣其𫝊通典實先告竣<lb/>
+朕惟三書各有意義鄭樵主於考訂故旁及細微馬端<lb/>
+臨意在精詳故間出論斷此書則佑自言徴於人事將<lb/>
+施有政故簡而有要核而不文觀其分門起例由食貨<lb/>
+以訖邊防先養而後敎先禮而後刑設官以治民安内<lb/>
+以馭外本末次第具有條理亦恢恢乎經國之良模矣<lb/>
+書曰學於古訓乃有獲為國家者立綱陳紀斟酌古今<lb/>
+<pb n="KR2m0001_WYG_000-2a"/>
+將期與治同道而不泥其迹則是書實考鏡所必資豈<lb/>
+以供博覽而已哉爰揭之以告讀是書者<lb/>
+乾隆丁邜冬十二月<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

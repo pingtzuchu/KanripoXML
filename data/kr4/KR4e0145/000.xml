@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>方簡肅文集</head>
+    <p>
+<pb n="KR4e0145_WYG_000-1a"/>
+欽定四庫全書　　　　集部六<lb/>
+　方簡肅文集　　　　　别集類五<hi>明</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案方簡肅文集十巻明方良永撰良<lb/>
+　　　　永字夀卿莆田人𢎞治庚戌進士官至右副<lb/>
+　　　　都御史撫治鄖陽告歸再起巡撫應天於途<lb/>
+　　　　疾作乞致仕旋除南京刑部尚書良永已先<lb/>
+　　　　卒諡簡肅事迹具明史本傳是集為河南按<lb/>
+<pb n="KR4e0145_WYG_000-1b"/>
+　　　　察使鄭茂所編隆慶庚午其孫山東布政使<lb/>
+　　　　攸續刋之良永當正徳時厯任封疆皆著丰<lb/>
+　　　　采乞休後廷推屢及輙以養親辭今諸䟽俱<lb/>
+　　　　在集中進退頗為不茍其文信筆揮灑雖不<lb/>
+　　　　刻意求工而和平坦易不事鉤棘視後來摹<lb/>
+　　　　擬塗飾之習轉為本色其論劾朱寧一䟽慷<lb/>
+　　　　慨壯烈猶有牽裾折檻之風又嘗豫決寧王<lb/>
+　　　　宸濠反謀濠敗後貽書王守仁與論定亂大<lb/>
+<pb n="KR4e0145_WYG_000-2a"/>
+　　　　計及其生平言學則云近世學者出天入神<lb/>
+　　　　超悟獨到專以心學為言皆附於象山其妄<lb/>
+　　　　如此即所為象山者似矣而中實未然毋亦<lb/>
+　　　　優孟之為孫叔敖歟其語皆隠刺守仁可謂<lb/>
+　　　　卓然不阿其所好者矣乾隆四十六年十月<lb/>
+　　　　恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

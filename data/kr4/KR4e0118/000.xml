@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>石田詩選</head>
+    <p>
+<pb n="KR4e0118_WYG_000-1a"/>
+欽定四庫全書　　　　　集部六<lb/>
+　石田詩選　　　　　　　别集類五<hi>明</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案石田詩選十巻明沈周撰周有石<lb/>
+　　　　田雜記已著録此集不標體製不譜年月但<lb/>
+　　　　分天文時令等三十一類葢仿宋人分類杜<lb/>
+　　　　詩之例據慈谿張鈇跋葢其友光禄寺署丞<lb/>
+　　　　華汝徳所編也顧元慶夷白齋詩話載都穆<lb/>
+<pb n="KR4e0118_WYG_000-1b"/>
+　　　　學詩於周嘗作節婦詩有青燈淚眼枯句周<lb/>
+　　　　以禮寡婦不夜哭議燈字未穏是周於詩律<lb/>
+　　　　不為不細然周以畫名一代詩非其所留意<lb/>
+　　　　又晚年畫境彌髙頽然天放方圓自造惟意<lb/>
+　　　　所如詩亦揮灑淋漓自寫天趣葢不以字句<lb/>
+　　　　取工徒以棲心邱壑名利兩忘風月徃還烟<lb/>
+　　　　雲供飬其胸次本無塵累故所作亦不琱不<lb/>
+　　　　琢自然拔俗寄興於町畦之外可以意㑹而<lb/>
+<pb n="KR4e0118_WYG_000-2a"/>
+　　　　不可加之以繩削其於詩也亦可謂教外别<lb/>
+　　　　傳矣都穆南濠詩話稱其詠錢詠門神詠簾<lb/>
+　　　　詠混堂詠楊花詠落花諸聮皆未免索之於<lb/>
+　　　　句下葢穆於詩所得不深故所見止是也集<lb/>
+　　　　前有呉寛序稱其詩餘發為圖繪妙逼古人<lb/>
+　　　　核實而論周固以畫之餘事溢而為詩非以<lb/>
+　　　　詩之餘事溢而為畫寛序其詩故主詩而賔<lb/>
+　　　　畫耳又有李東陽後序東陽與周不相識時<lb/>
+<pb n="KR4e0118_WYG_000-2b"/>
+　　　　已為大學士與周勢分懸隔以呉寛嘗以寫<lb/>
+　　　　本示之重其為人故越三十年後又補為作<lb/>
+　　　　之然二序皆為全集而作華汝徳刋此選本<lb/>
+　　　　時仍而録之非序此本者也乾隆四十六年<lb/>
+　　　　十月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

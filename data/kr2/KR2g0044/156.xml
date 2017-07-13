@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>八旗滿洲氏族通譜目録</head> <lb/>
+    <p>
+<pb n="KR2g0044_WYG_156-1a"/>
+欽定四庫全書<lb/>
+　八旗滿洲氏族通譜目録<lb/>
+　　卷七十八<lb/>
+　　附載滿洲旗分内之尼堪姓氏<lb/>
+　　侯氏<lb/>
+　　　優才　　　　　　拜思胡朗<lb/>
+　　裴氏<lb/>
+　　　裴登舉　　　　　裴䕃柯<lb/>
+<pb n="KR2g0044_WYG_156-1b"/>
+　　方氏<lb/>
+　　　方義文　　　　　方敏東<lb/>
+　　馮氏<lb/>
+　　　馮士勇　　　　　馮允倫<lb/>
+　　譚氏<lb/>
+　　　譚景倉　　　　　譚俞<lb/>
+　　孔氏<lb/>
+　　　孔世圖　　　　　孔文遵<lb/>
+<pb n="KR2g0044_WYG_156-2a"/>
+　　夏氏<lb/>
+　　　夏德强　　　　　夏官<lb/>
+　　秦氏<lb/>
+　　　秦世傑　　　　　秦世德<lb/>
+　　倪氏<lb/>
+　　　伊圖善　　　　　倪三格<lb/>
+　　沈氏<lb/>
+　　　沈奪　　　　　　沈文煥<lb/>
+<pb n="KR2g0044_WYG_156-2b"/>
+　　宗氏<lb/>
+　　　宗起勝　　　　　宗德<lb/>
+　　龍氏<lb/>
+　　　龍永陞　　　　　龍得雲<lb/>
+　　林氏<lb/>
+　　　林尚宗　　　　　林大福<lb/>
+　　邊氏<lb/>
+　　　邊周　　　　　　邊祿<lb/>
+<pb n="KR2g0044_WYG_156-3a"/>
+　　傅氏<lb/>
+　　　傅天貴　　　　　傅仁<lb/>
+　　薛氏<lb/>
+　　　薛洪亮　　　　　永清<lb/>
+　　葉氏<lb/>
+　　　葉永泉　　　　　葉永祥<lb/>
+　　閔氏<lb/>
+　　　閔國瑞　　　　　閔世文<lb/>
+<pb n="KR2g0044_WYG_156-3b"/>
+　　衡氏<lb/>
+　　　衡久榮　　　　　衡有德<lb/>
+　　錢氏<lb/>
+　　　錢景春　　　　　錢識道<lb/>
+　　剛氏<lb/>
+　　　達色　　　　　　剛世貴<lb/>
+　　柴氏<lb/>
+　　　柴鳯鳴　　　　　柴定桂<lb/>
+<pb n="KR2g0044_WYG_156-4a"/>
+　　史氏<lb/>
+　　　史倚相　　　　　史紀由<lb/>
+　　雷氏<lb/>
+　　　雷明德<lb/>
+　　强氏<lb/>
+　　　强於義<lb/>
+　　蔣氏<lb/>
+　　　蔣國祚<lb/>
+<pb n="KR2g0044_WYG_156-4b"/>
+　　彭氏<lb/>
+　　　彭選<lb/>
+　　耿氏<lb/>
+　　　耿世龍<lb/>
+　　商氏<lb/>
+　　　商桂庭<lb/>
+　　勞氏<lb/>
+　　　學聖<lb/>
+<pb n="KR2g0044_WYG_156-5a"/>
+　　鄒氏<lb/>
+　　　鄒永明<lb/>
+　　司氏<lb/>
+　　　司天普<lb/>
+　　賈氏<lb/>
+　　　賈禄<lb/>
+　　喬氏<lb/>
+　　　商阿哈<lb/>
+<pb n="KR2g0044_WYG_156-5b"/>
+　　龔氏<lb/>
+　　　喜普蘓<lb/>
+　　靳氏<lb/>
+　　　靳可増<lb/>
+　　朴氏<lb/>
+　　　朴文孝<lb/>
+　　陸氏<lb/>
+　　　陸受萬<lb/>
+<pb n="KR2g0044_WYG_156-6a"/>
+　　牛氏<lb/>
+　　　牛國敏<lb/>
+　　辛氏<lb/>
+　　　辛鑑<lb/>
+　　穆氏<lb/>
+　　　穆森<lb/>
+　　屈氏<lb/>
+　　　屈英明<lb/>
+<pb n="KR2g0044_WYG_156-6b"/>
+　　盧氏<lb/>
+　　　盧湯敬<lb/>
+　　陶氏<lb/>
+　　　陶登雲<lb/>
+　　鍾氏<lb/>
+　　　鍾成管<lb/>
+　　松氏<lb/>
+　　　松選<lb/>
+<pb n="KR2g0044_WYG_156-7a"/>
+　　宣氏<lb/>
+　　　宣有福<lb/>
+　　寗氏<lb/>
+　　　寗德友<lb/>
+　　邢氏<lb/>
+　　　邢華源<lb/>
+　　顔氏<lb/>
+　　　顏廣仙<lb/>
+<pb n="KR2g0044_WYG_156-7b"/>
+　　岳氏<lb/>
+　　　岳兹全<lb/>
+　　曲氏<lb/>
+　　　曲三梅<lb/>
+　　屠氏<lb/>
+　　　屠必元<lb/>
+　　宜氏<lb/>
+　　　宜大明<lb/>
+<pb n="KR2g0044_WYG_156-8a"/>
+　　唐氏<lb/>
+　　　唐應祖<lb/>
+　　梅氏<lb/>
+　　　梅良<lb/>
+　　吕氏<lb/>
+　　　吕耀敏<lb/>
+　　鄢氏<lb/>
+　　　鄢紹勲<lb/>
+<pb n="KR2g0044_WYG_156-8b"/>
+　　段氏<lb/>
+　　　段成良<lb/>
+　　查氏<lb/>
+　　　查美倫<lb/>
+　　費氏<lb/>
+　　　永亷<lb/>
+　　鐵氏<lb/>
+　　　鐵邦有<lb/>
+<pb n="KR2g0044_WYG_156-9a"/>
+　　章氏<lb/>
+　　　章茂<lb/>
+　　井氏<lb/>
+　　　井計珠<lb/>
+　　鞏氏<lb/>
+　　　鞏天成<lb/>
+　　焦氏<lb/>
+　　　滿塞<lb/>
+<pb n="KR2g0044_WYG_156-9b"/>
+　　萬氏<lb/>
+　　　達節<lb/>
+　　苗氏<lb/>
+　　　苗成倉<lb/>
+　　郝氏<lb/>
+　　　郝應選<lb/>
+　　戚氏<lb/>
+　　　戚達<lb/>
+<pb n="KR2g0044_WYG_156-10a"/>
+　　時氏<lb/>
+　　　時文紳<lb/>
+　　尹氏<lb/>
+　　　尹得安<lb/>
+　　秋氏<lb/>
+　　　秋必成<lb/>
+　　蔡氏<lb/>
+　　　蔡國明<lb/>
+<pb n="KR2g0044_WYG_156-10b"/>
+　　受氏<lb/>
+　　　受得貴<lb/>
+　　洪氏<lb/>
+　　　洪化民<lb/>
+　　魯氏<lb/>
+　　　魯耀權<lb/>
+<pb n="KR2g0044_WYG_156-11a"/>
+欽定四庫全書<lb/>
+　八旗滿洲氏族通譜目録<lb/>
+　　卷七十八<lb/>
+　　附載滿洲旗分内之尼堪姓氏<lb/>
+　　侯氏<lb/>
+　　　優才　　　　　　拜思胡朗<lb/>
+　　裴氏<lb/>
+　　　裴登舉　　　　　裴䕃柯<lb/>
+<pb n="KR2g0044_WYG_156-11b"/>
+　　方氏<lb/>
+　　　方義文　　　　　方敏東<lb/>
+　　馮氏<lb/>
+　　　馮士勇　　　　　馮允倫<lb/>
+　　譚氏<lb/>
+　　　譚景倉　　　　　譚俞<lb/>
+　　孔氏<lb/>
+　　　孔世圖　　　　　孔文遵<lb/>
+<pb n="KR2g0044_WYG_156-12a"/>
+　　夏氏<lb/>
+　　　夏德强　　　　　夏官<lb/>
+　　秦氏<lb/>
+　　　秦世傑　　　　　秦世德<lb/>
+　　倪氏<lb/>
+　　　伊圖善　　　　　倪三格<lb/>
+　　沈氏<lb/>
+　　　沈奪　　　　　　沈文煥<lb/>
+<pb n="KR2g0044_WYG_156-12b"/>
+　　宗氏<lb/>
+　　　宗起勝　　　　　宗德<lb/>
+　　龍氏<lb/>
+　　　龍永陞　　　　　龍得雲<lb/>
+　　林氏<lb/>
+　　　林尚宗　　　　　林大福<lb/>
+　　邊氏<lb/>
+　　　邊周　　　　　　邊祿<lb/>
+<pb n="KR2g0044_WYG_156-13a"/>
+　　傅氏<lb/>
+　　　傅天貴　　　　　傅仁<lb/>
+　　薛氏<lb/>
+　　　薛洪亮　　　　　永清<lb/>
+　　葉氏<lb/>
+　　　葉永泉　　　　　葉永祥<lb/>
+　　閔氏<lb/>
+　　　閔國瑞　　　　　閔世文<lb/>
+<pb n="KR2g0044_WYG_156-13b"/>
+　　衡氏<lb/>
+　　　衡久榮　　　　　衡有德<lb/>
+　　錢氏<lb/>
+　　　錢景春　　　　　錢識道<lb/>
+　　剛氏<lb/>
+　　　達色　　　　　　剛世貴<lb/>
+　　柴氏<lb/>
+　　　柴鳯鳴　　　　　柴定桂<lb/>
+<pb n="KR2g0044_WYG_156-14a"/>
+　　史氏<lb/>
+　　　史倚相　　　　　史紀由<lb/>
+　　雷氏<lb/>
+　　　雷明德<lb/>
+　　强氏<lb/>
+　　　强於義<lb/>
+　　蔣氏<lb/>
+　　　蔣國祚<lb/>
+<pb n="KR2g0044_WYG_156-14b"/>
+　　彭氏<lb/>
+　　　彭選<lb/>
+　　耿氏<lb/>
+　　　耿世龍<lb/>
+　　商氏<lb/>
+　　　商桂庭<lb/>
+　　勞氏<lb/>
+　　　學聖<lb/>
+<pb n="KR2g0044_WYG_156-15a"/>
+　　鄒氏<lb/>
+　　　鄒永明<lb/>
+　　司氏<lb/>
+　　　司天普<lb/>
+　　賈氏<lb/>
+　　　賈禄<lb/>
+　　喬氏<lb/>
+　　　商阿哈<lb/>
+<pb n="KR2g0044_WYG_156-15b"/>
+　　龔氏<lb/>
+　　　喜普蘓<lb/>
+　　靳氏<lb/>
+　　　靳可増<lb/>
+　　朴氏<lb/>
+　　　朴文孝<lb/>
+　　陸氏<lb/>
+　　　陸受萬<lb/>
+<pb n="KR2g0044_WYG_156-16a"/>
+　　牛氏<lb/>
+　　　牛國敏<lb/>
+　　辛氏<lb/>
+　　　辛鑑<lb/>
+　　穆氏<lb/>
+　　　穆森<lb/>
+　　屈氏<lb/>
+　　　屈英明<lb/>
+<pb n="KR2g0044_WYG_156-16b"/>
+　　盧氏<lb/>
+　　　盧湯敬<lb/>
+　　陶氏<lb/>
+　　　陶登雲<lb/>
+　　鍾氏<lb/>
+　　　鍾成管<lb/>
+　　松氏<lb/>
+　　　松選<lb/>
+<pb n="KR2g0044_WYG_156-17a"/>
+　　宣氏<lb/>
+　　　宣有福<lb/>
+　　寗氏<lb/>
+　　　寗德友<lb/>
+　　邢氏<lb/>
+　　　邢華源<lb/>
+　　顔氏<lb/>
+　　　顏廣仙<lb/>
+<pb n="KR2g0044_WYG_156-17b"/>
+　　岳氏<lb/>
+　　　岳兹全<lb/>
+　　曲氏<lb/>
+　　　曲三梅<lb/>
+　　屠氏<lb/>
+　　　屠必元<lb/>
+　　宜氏<lb/>
+　　　宜大明<lb/>
+<pb n="KR2g0044_WYG_156-18a"/>
+　　唐氏<lb/>
+　　　唐應祖<lb/>
+　　梅氏<lb/>
+　　　梅良<lb/>
+　　吕氏<lb/>
+　　　吕耀敏<lb/>
+　　鄢氏<lb/>
+　　　鄢紹勲<lb/>
+<pb n="KR2g0044_WYG_156-18b"/>
+　　段氏<lb/>
+　　　段成良<lb/>
+　　查氏<lb/>
+　　　查美倫<lb/>
+　　費氏<lb/>
+　　　永亷<lb/>
+　　鐵氏<lb/>
+　　　鐵邦有<lb/>
+<pb n="KR2g0044_WYG_156-19a"/>
+　　章氏<lb/>
+　　　章茂<lb/>
+　　井氏<lb/>
+　　　井計珠<lb/>
+　　鞏氏<lb/>
+　　　鞏天成<lb/>
+　　焦氏<lb/>
+　　　滿塞<lb/>
+<pb n="KR2g0044_WYG_156-19b"/>
+　　萬氏<lb/>
+　　　達節<lb/>
+　　苗氏<lb/>
+　　　苗成倉<lb/>
+　　郝氏<lb/>
+　　　郝應選<lb/>
+　　戚氏<lb/>
+　　　戚達<lb/>
+<pb n="KR2g0044_WYG_156-20a"/>
+　　時氏<lb/>
+　　　時文紳<lb/>
+　　尹氏<lb/>
+　　　尹得安<lb/>
+　　秋氏<lb/>
+　　　秋必成<lb/>
+　　蔡氏<lb/>
+　　　蔡國明<lb/>
+<pb n="KR2g0044_WYG_156-20b"/>
+　　受氏<lb/>
+　　　受得貴<lb/>
+　　洪氏<lb/>
+　　　洪化民<lb/>
+　　魯氏<lb/>
+　　　魯耀權<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>千頃堂書目</head> <lb/>
+    <p>
+<pb n="KR2n0010_WYG_000-1a"/>
+欽定四庫全書<lb/>
+　千頃堂書目<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案千頃堂書目三十二卷<lb/>
+　　　國朝黄虞稷撰虞稷字俞邰先世泉州人明末<lb/>
+　　　　流寓上元書首自題曰閩人不忘本也所録<lb/>
+　　　　皆明一代之書經部分十一門既以四書為<lb/>
+　　　　一類又以論語孟子各為一類又以說大學<lb/>
+<pb n="KR2n0010_WYG_000-1b"/>
+　　　　中庸者入於三禮類中葢欲畧存古例用意<lb/>
+　　　　頗深然明人所說大學中庸皆為四書而解<lb/>
+　　　　非為禮記而解即論語孟子亦因四書而説<lb/>
+　　　　非若古人之别為一經專門授受其分合殊<lb/>
+　　　　為不當樂經雖亡而不置此門則律吕諸書<lb/>
+　　　　無所附其刪除亦未允也史部分十八門其<lb/>
+　　　　簿録一門用尤袤遂初堂書目之例以收錢<lb/>
+　　　　譜蟹録之屬古來無類可歸者最為允協至<lb/>
+<pb n="KR2n0010_WYG_000-2a"/>
+　　　　於典故以外又立食貨刑政二門則贅設矣<lb/>
+　　　　子部分十二門其墨家名家法家縱横家併<lb/>
+　　　　為一類總名雜家雖亦簡括然名家墨家縱<lb/>
+　　　　横家傳述者稀遺編無幾併之可也併法家<lb/>
+　　　　刪之不太簡乎集部分八門其别集以朝代<lb/>
+　　　　科分為先後無科分者則酌附於各朝之末<lb/>
+　　　　視唐宋二志之糅亂特為清析體例可云最<lb/>
+　　　　善惟制舉一門可以不立明以八比取士工<lb/>
+<pb n="KR2n0010_WYG_000-2b"/>
+　　　　是技者隸首不能窮其數即一日之中伸紙<lb/>
+　　　　搦管而作者不知其㡬億萬篇其不久而化<lb/>
+　　　　為故紙敗燼者又不知其㡬億萬篇其生其<lb/>
+　　　　滅殆如煙雲之變現泡沫之聚散虞稷乃據<lb/>
+　　　　所見而列之不亦傎耶每類之末各附以宋<lb/>
+　　　　金元人之書既不賅備又不及於五代以前<lb/>
+　　　　其體例特異亦不可解然焦竑國史經籍志<lb/>
+　　　　既誕妄不足為憑傅維鱗明書經籍志尤侗<lb/>
+<pb n="KR2n0010_WYG_000-3a"/>
+　　　　明史萟文志稿尤冗雜無緒考明一代著作<lb/>
+　　　　者終以是書為可據所以<lb/>
+　　欽定明史萟文志頗採錄之畧其舛駁而取其賅<lb/>
+　　　　贍可也乾隆四十六年五月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

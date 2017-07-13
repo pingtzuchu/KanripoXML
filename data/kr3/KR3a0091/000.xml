@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>二程子抄釋</head>
+    <p>
+<pb n="KR3a0091_WYG_000-1a"/>
+欽定四庫全書　　　　　子部一<lb/>
+　二程子抄釋　　　　　　儒家類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案二程子抄釋十卷明吕柟編前有<lb/>
+　　　　自序稱初得二程全書于崔銑以其中解説<lb/>
+　　　　六經四書之語與門弟子問答行事之言統<lb/>
+　　　　為一書浩大繁博初學難于觀覽因鈔出心<lb/>
+　　　　所好者集為八卷凡二十九篇而卷首所列<lb/>
+<pb n="KR3a0091_WYG_000-1b"/>
+　　　　程子門人姓氏後有嘉靖辛夘柟門人休寧<lb/>
+　　　　程爵重刋䟦乃稱涇野先生鈔釋程氏書凡<lb/>
+　　　　十卷此本為嘉靖丙申柟門人鄧浩所刋卷<lb/>
+　　　　數與爵䟦相合豈柟作序時其書尚止八卷<lb/>
+　　　　後或有所増益分晰而序文則未改歟其書<lb/>
+　　　　不分門類亦不叙先後仍以二程遺書原載<lb/>
+　　　　門人某某所記分編每條之末皆一二語標<lb/>
+　　　　其大意昔朱子編遺書嘗病其真贋相襍柟<lb/>
+<pb n="KR3a0091_WYG_000-2a"/>
+　　　　是書削駁留醇頗為不茍盖柟之學源于河<lb/>
+　　　　津最為篤實故去取皆有所見惟其文原出<lb/>
+　　　　李夢陽全集率詰屈不可讀故每條下所釋<lb/>
+　　　　詞㫖往往晦澁非初學所能洞曉云乾隆四<lb/>
+　　　　十二年八月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+<pb n="KR3a0091_WYG_000-3a"/>
+二程子抄釋原序<lb/>
+二程夫子明斯道於宋室盛時其言行多發孔孟之藴<lb/>
+人若有良心未死者讀之未嘗不忘寢食也柟年十七<lb/>
+八時嘗夢明道及呂東萊立涇野草堂之上而柟升階<lb/>
+質疑聆其語論雖夢中亦豁然以為東萊遠不及也以<lb/>
+後動静起居時復思見但愧恨末學實未有所得耳既<lb/>
+舉後得全書於安陽崔子鍾氏每諷誦之益不能釋手<lb/>
+但解說六經四書之語與門弟子問答行事之言統爲<lb/>
+<pb n="KR3a0091_WYG_000-3b"/>
+一書則浩大繁博初學觀覽不無難焉暇嘗抄出心所<lb/>
+好者集爲八卷凡二十九篇稍釋其下以備遺亾而於<lb/>
+詩文亦抄出數篇以爲外卷後廵按潜江初公見之命<lb/>
+刻諸解梁書院而以其贖罪金紙作工食費則斯抄釋<lb/>
+其是也柟何敢隱其非也柟又何敢以掩哉始學之士<lb/>
+儻因是而求二夫子之志以遡孔孟之道則亦其有小<lb/>
+補乎其傳是書之門人姓氏名地亦叙列諸後<lb/>
+嘉靖五年三月辛丑後學高陵呂柟序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

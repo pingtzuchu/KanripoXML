@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>春秋説</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　　經部五<lb/>
+　春秋説　　　　　　　　春秋類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案春秋説十五卷<lb/>
+　　　國朝惠士竒撰士竒有半農易説已著録士竒<lb/>
+　　　　父周惕長於説經力追漢儒之學士竒承其<lb/>
+　　　　家𫝊考證益密於三禮核辨尤精是書以禮<lb/>
+　　　　為綱而緯以春秋之事比類相從約取三傳<lb/>
+<pb n="1b"/>
+　　　　附于下亦間以史記諸書佐之大抵事實多<lb/>
+　　　　據左氏而論斷多採公榖毎條之下多附辨<lb/>
+　　　　諸儒之説毎類之後又各以己意為總論大<lb/>
+　　　　致出於宋張大亨春秋五禮例宗沈棐春秋<lb/>
+　　　　比事而不立門目不設凡例其引據證佐則<lb/>
+　　　　尤較二家為典核雖其中災異之類反復辨<lb/>
+　　　　詰務申董仲舒春秋隂陽劉向劉歆洪範五<lb/>
+　　　　行之説未免過信漢儒物而不化然全書言<lb/>
+<pb n="2a"/>
+　　　　必據典論必持平所謂原原本本之學非孫<lb/>
+　　　　復等之枵腹而談亦非葉夢得等之恃博而<lb/>
+　　　　辨也乾隆四十六年二月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="1a"/>
+經典釋文卷第二十九<lb/>
+　　　　爾雅音義上<lb/>
+　唐國子博士兼太子中允贈齊州刺史呉縣開國男陸德明撰<lb/>
+爾雅序<lb/>
+夫<hi>音符</hi>爾<hi>字又/作邇</hi>雅<hi>字亦/作疋</hi>詁<hi>音古又/音故</hi>興<hi>許應/反</hi>揔<hi>子孔反</hi>
+鈐<hi>其廉反</hi>鍵<hi>字又作楗其展反/字林巨偃反銳也一曰鎋也廣雅云鍵牡也小爾雅云鍵謂之鑰方言云鑰也自關而東陳楚之間謂鑰爲鍵或一音巨言反</hi>潭<hi>徒南/反</hi>奧<hi>烏報/反</hi>摛<hi>勑知反說文云舒也</hi>翰<hi>寒半/反</hi>華<hi>胡瓜/反</hi>苑<hi>於阮/反</hi>莫近<hi>如字又音附近之近</hi>中古<lb/>
+<hi>丁仲反又如字中古謂周公也</hi>豹<hi>百敎/反</hi>贍<hi>時豔/反</hi>玩<hi>五貫/反</hi>耽<hi>丁南反</hi>璞<lb/>
+<hi>普剥反</hi>不揆<hi>巨癸/反</hi>檮<hi>徒刀反檮/檮杌也</hi>少而<hi>詩照/反</hi>沈<hi>直金反</hi>研<lb/>
+<hi>五堅反</hi>鑚<hi>子官/反</hi>註<hi>之戍/反</hi>紛<hi>芳云/反</hi>謬<hi>靡幼反鄭注禮記云誤也方言云詐<pb n="1b"/>也本或作繆音同</hi>以復<hi>扶又/反</hi>綴<hi>丁衞反又/丁劣反</hi>會<hi>古外反周禮注云計也本又作檜音同廣雅云檜收也</hi>稡<hi>子外反又子/骨反聚也</hi>謡<hi>音/遥</hi>錯綜<hi>子宋/反</hi>剟<hi>丁恱反說文云利也廣雅云削也又都活反</hi>瑕<hi>戸加反/玉翳也</hi>礫<hi>力的反說文/云小礓石</hi>搴<hi>字又作/居展反又去䖍反拔也</hi>蕭<hi>先遼/反</hi>稂<hi>音郎稂童粱穢禾草/也詩云不稂不莠</hi>隱<hi>於謹/反</hi>滯<hi>直例反</hi>援<hi>音袁引也</hi>所易<hi>以豉/反</hi>了<hi>本亦作憭音/同照察也</hi>袪<hi>去魚反</hi>寤<lb/>
+<hi>五故反</hi>篲<hi>字又作彗似稅反又囚醉反/一音息遂反說文云掃竹也</hi>企<hi>丘豉/反</hi>躅<hi>本又作䠱直録反漢書音義躅迹也韋昭音擢云三輔謂牛蹄迹爲䠱鄭氏音拘<graphic n="KR2049" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2049.png" mimeType="image/png"/>案字林<graphic n="KR2049" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2049.png" mimeType="image/png"/>音竹足反</hi>
+釋詁第一<hi>音古又音故樊光李巡本作故說文云詁故言也字林同張揖雜字云詁者古今之異語也</hi>
+哉<hi>子來反亦作栽</hi>肈<hi>音/趙</hi>胎<hi>天才反孫炎大/才反本或作台</hi>俶<hi>字又作尺叔反</hi>權<lb/>
+<hi>巨貟反</hi>輿<hi>音/余</hi>令<hi>力政/反</hi>胚<hi>字又作衃同普才反又四尤反淮南子及文子並云婦孕三月而胚說文<pb n="2a"/>云胚婦孕一月也胚凝血</hi>烝<hi>本又作蒸/同之仍反</hi>辟<hi>必亦/反</hi>壬<hi>而心/反</hi>通見<hi>賢遍反下迄卷終注悉放此</hi>宏<hi>戸萌/反</hi>溥<hi>音/普</hi>介<hi>音/界</hi>夏<hi>户雅/反</hi>幠<hi>火呉反下同</hi>
+厖<hi>亡江反又亡項反方言云厖深之大也</hi>墳<hi>符云/反</hi>嘏<hi>古雅/反</hi>丕<hi>字又作㔻同普悲反</hi>
+奕<hi>以昔反</hi>誕<hi>音/但</hi>駿<hi>子浚反又/荀閏反</hi>假<hi>古雅/反</hi>濯<hi>直角/反</hi>訏<hi>本又作盱同香于反</hi>穹<hi>起弓/反</hi>壯<hi>側狀/反</hi>箌<hi>郭陟孝反顧野王都角反說文云草大也孫都耗反</hi>昄<lb/>
+<hi>沈旋蒲板反此依詩讀也孫郭方滿反字林方但方旦二反施乾蒲滿反顧音板又普姦普練二反</hi>晊<hi>舊音之日反本又作至又作胵顧音充尸反</hi>蓆<hi>音/席</hi>謨<hi>亡乎/反</hi>迄<hi>許訖/反</hi>臻<hi>側巾反</hi>弔<lb/>
+<hi>如字又音的/郭音届孫云古/届字顧子公反</hi>格<hi>更伯反字/或作<graphic n="KR1749" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1749.png" mimeType="image/png"/>
+                    </hi>戾<hi>力帝/反</hi>摧<hi>昨雷反又祖雷反</hi>詹<hi>音/占</hi>屆<hi>音/界</hi>適<hi>傷亦/反</hi>賚<hi>力代反又/力臺反</hi>貢<hi>字或作贛同</hi>
+卑<hi>必寐反下及注同</hi>予<hi>羊汝反/下同</hi>貺<hi>許誑反本/或作況</hi>淑<hi>市六/反</hi>鮮<hi>息淺反又音仙本或作沈云古斯字郭音義云本/或作尠非古斯字案字書/先奚反亦訓善</hi>省<hi>先郢反</hi>
+<pb n="2b"/>
+<pb n="2b"/>
+謔<hi>許虐反</hi>笑<hi>蘇誚/反</hi>敖<hi>五報/反</hi>戲<hi>虚寄/反</hi>調<hi>徒弔/反</hi>粤<hi>音越</hi>爰<lb/>
+<hi>音袁</hi>稼<hi>古乍/反</hi>穡<hi>音/色</hi>征<hi>之成/反</hi>那<hi>乃河/反</hi>繇<hi>除又反注同孫音由又音遥</hi>於<lb/>
+也<hi>音烏注同</hi>皐陶<hi>音/遥</hi>㪉<hi>古荅/反</hi>郃<hi>音合又/音洽</hi>盍<hi>胡獵/反</hi>翕<hi>許急反</hi>仇<hi>音求</hi>偶<hi>五口/反</hi>妃<hi>音配又芳/非反下同</hi>讎<hi>市周/反</hi>樂子<hi>音洛</hi>馮身<lb/>
+<hi>皮氷反</hi>媲<hi>普計反郭音譬/字林匹地反</hi>紹<hi>市小/反</hi>胤<hi>羊忍反又/以刃反</hi>纂<hi>子管反</hi>
+緌<hi>汝誰反</hi>績<hi>子狄/反</hi>係<hi>戸帝/反</hi>繼<hi>音/計</hi>忥<hi>本或作氣/同許氣反</hi>諡<hi>時至反</hi>溢<hi>以日反</hi>蟄<hi>直立/反</hi>貉<hi>莫白反又/武博反</hi>謐<hi>彌畢/反</hi>顗<hi>魚豈反又五愷反</hi>
+頠<hi>魚毁反沈王罪反孫郭五鬼反</hi>隕<hi>于閔/反</hi>磒<hi>于敏反/石落也</hi>湮<hi>郭音因又音烟又音翳</hi>降<hi>古巷反</hi>墜<hi>本又作隊/同直類反</hi>摽<hi>婢眇反又普/交符表二反</hi>蘦<hi>力丁反字或作苓說文云草曰苓木曰落</hi>沈<hi>直今/反</hi>令<hi>力政反說文/云發號也</hi>禧<hi>許其/反</hi>畛<hi>之忍反</hi>
+誶<hi>沈音粹郭音碎告也本作訊音信</hi>誥<hi>羔報反又/古酷反</hi>告<hi>古䔍/反</hi>悠<hi>音由</hi>
+<pb n="3a"/>
+迥<hi>户頂反</hi>逷<hi>說文云古逖字他/歷反郭湯革反</hi>闊<hi>苦活/反</hi>虧<hi>字又作虧袪危反郭又許冝反</hi>壞<hi>音怪說文云敗也籀文作<graphic n="KR2900" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2900.png" mimeType="image/png"/>字林云/壞自敗也下怪反<graphic n="KR2900" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2900.png" mimeType="image/png"/>毁也公壞反</hi>圮<hi>孫房美反岸毁也</hi>
+垝<hi>古委反</hi>垣<hi>音/袁</hi>𡱁<hi>本作矢同/失耳反</hi>繹<hi>音/亦</hi>旅<hi>音/吕</hi>尸寀<hi>李孫郭並七代反下句及注同樊七在反</hi>寮<hi>字又作僚/同力彫反</hi>采業<hi>七在/反</hi>服<hi>本或作/同符福反又作般字</hi>貫<hi>古玩/反</hi>羕<hi>羊讓反字從永/說文云水長也</hi>引<hi>以忍/反</hi>駿<hi>本或作俊又作峻同子閏反</hi>長<hi>直良/反</hi>喬<hi>郭音橋/或音驕</hi>嵩<hi>宿忠/反</hi>惈<hi>音果本/今作果</hi>捷<hi>才接反</hi>肩<hi>音堅</hi>堪<hi>字又作戡/同苦含反</hi>勝<hi>尸證反注/及下同</hi>夸<hi>口花反或作誇非</hi>
+                    <graphic n="KR2544" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2544.png" mimeType="image/png"/>
+<hi>郎兮反國名本作黎</hi>殺<hi>所黠反舊所例/反說文云戮也</hi>獮<hi>息淺反說/文或作</hi>刺<hi>七賜反說文云君殺大夫曰刺刺直傷也周禮司刺掌三刺之法以聽獄訟或七亦反</hi>應殺<hi>應對之應</hi>亹亹<lb/>
+<hi>字或作斖同亡匪反</hi>蠠<hi>彌畢反又亡忍反本或/作<graphic n="KR3900" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3900.png" mimeType="image/png"/>說文曰<graphic n="KR3900" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3900.png" mimeType="image/png"/>古蜜字/丁門反本今作敦</hi>勗<lb/>
+<hi>許玉反</hi>釗<hi>古堯反又/之遥反</hi>茂<hi>字又作懋亦作/<graphic n="KR1026" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1026.png" mimeType="image/png"/>同亡候反</hi>劭<hi>上照反或上遥反</hi>勔<lb/>
+<pb n="3b"/>
+<hi>字本作僶又作黽或音泯又彌兖反</hi>僶<hi>字又作黽亡忍/反又亡衍反</hi>茂哉<hi>或作/茂才</hi>騖<hi>音務</hi>
+暋<hi>音閔或作旻</hi>強也<hi>其丈反/注同</hi>卬<hi>五剛/反</hi>台<hi>孫羊而/反下同</hi>予余<hi>並羊如反</hi>姎<hi>烏郎烏黨烏浪三反說/文云女人稱我曰姎</hi>任<hi>而鴆/反</hi>畛<hi>之忍/反</hi>某<hi>音/畝</hi>躬<hi>音弓</hi>
+卑<hi>必二反</hi>陽<hi>音暘又如字/本或作暘</hi>予<hi>羊汝/反</hi>巴<hi>伯家/反</hi>濮<hi>音/卜</hi>誘<hi>余九反</hi>
+餤<hi>沈大甘反徐仙民詩音閻餘占反郭持鹽反</hi>晉<hi>本又/作㬜</hi>藎<hi>本又作燼/同徐刃反</hi>餞<hi>徂淺反</hi>迪<hi>大的反</hi>烝<hi>之仍/反</hi>左右<hi>音佐佑/下同</hi>相<hi>息亮反/下文同</hi>道<hi>徒報反本或作導注及下同</hi>勴<hi>力庶/反</hi>介<hi>音/界</hi>反覆<hi>芳服/反</hi>緝<hi>七入/反</hi>煕<hi>許其反</hi>
+晧<hi>胡老反</hi>熲<hi>古迥/反</hi>劼<hi>苦黠反郭苦八反/或作硈字古黠反</hi>鞏<hi>九勇/反</hi>篤<hi>丁毒反</hi>掔<hi>音牽又却閑反郭音義本與慳/物同</hi>䖍<hi>音/乾</hi>膠<hi>音/交</hi>疇<hi>本又作斖直留反</hi>祉<lb/>
+<hi>音恥</hi>暀<hi>于況反又/于<graphic n="KR2503" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2503.png" mimeType="image/png"/>反</hi>藐<hi>亡角/反</hi>禕<hi>於冝/反</hi>懿<hi>音/意</hi>鑠<hi>舒灼反</hi>巳上<lb/>
+<hi>時掌反</hi>美盛<hi>或作/晠同</hi>諧<hi>下階/反</hi>輯<hi>音集又/七入反</hi>噰噰<hi>於恭反</hi>勰<lb/>
+<pb n="4a"/>
+<hi>本又作協同戸牒反</hi>燮<hi>蘇頰/反</hi>弼<hi>白筆/反</hi>重也<hi>直龍反/注同</hi>疊<hi>音/牒</hi>觳<hi>胡角反又胡谷反</hi>卒<hi>子恤反字/或作</hi>泯<hi>亡忍/反</hi>罄<hi>苦定/反</hi>罊<hi>苦計反說文口地反云器中盡也本或作<graphic n="KR3138" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3138.png" mimeType="image/png"/>字音/同廣雅云<graphic n="KR3138" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3138.png" mimeType="image/png"/>劇也</hi>殱<hi>子廉反</hi>拔<hi>歩八/反</hi>殄<hi>大典/反</hi>厭<hi>一豔反</hi>苞<lb/>
+<hi>百交反</hi>蕪<hi>音無或亡甫反蕃滋/生長也古本作隷</hi>豐<hi>敷馮/反</hi>揫<hi>孫子由反郭音遒案遒音子由徂秋二反</hi>斂<hi>力儉/反</hi>屈<hi>丘勿/反</hi>戢<hi>側立/反</hi>蒐<hi>所求/反</hi>裒<hi>古字作襃蒲侯反下同字本或作桴</hi>
+鳩<hi>居牛反說文作勼音九尤反</hi>摟<hi>力侯反從手/本或作樓非</hi>隰<hi>音/習</hi>拘<hi>古侯/反</hi>遄<hi>市專反</hi>亟<hi>欺兾反又居力反</hi>屢<hi>力具/反</hi>數<hi>色角/反</hi>迅<hi>信峻/二音</hi>徂<hi>才孤/反</hi>寁<hi>本或作疌同子感反</hi>肅亟<hi>字又作急同居力/反經典亦作棘同</hi>壑<hi>本或作㕡同許各反郭胡郭反</hi>阬阬<lb/>
+<hi>苦衡反</hi>滕<hi>徒登/反</hi>隍<hi>音皇城/池也</hi>漮<hi>字又作㱂同苦郎反說文云水之空也方言作䆲亦空也郭云本或作荒荒亦丘墟之空無</hi>虚也<hi>許居/反</hi>谿<hi>音/溪</hi>壍<hi>七豔/反</hi>墟<hi>去魚反</hi>烝<lb/>
+<hi>之仍反</hi>洋<hi>音羊洋溢多貌讀/羊者或爲詳非也</hi>觀<hi>顧謝音官施/古喚反注同</hi>那<hi>奴多反本或作</hi>
+<pb n="4b"/>
+<pb n="4b"/>
+<hi>羊主反字林云汙也音烏說文云汙窬也案汙窬猶汙邪也</hi>勞<hi>力報反/注同</hi>來<hi>本又作勑力代反本或作賚</hi>強<hi>其丈反注同</hi>翦<hi>子淺/反</hi>篲<hi>本又作彗同息/遂反又徂歳反</hi>迨其<hi>音待</hi>悠<lb/>
+傷<hi>字書作慯尸羊反</hi>憂思<hi>司嗣反/注同</hi>惄<hi>乃歷/反</hi>如調<hi>竹留反毛詩傳云朝也</hi>
+祉<hi>音恥</hi>戩<hi>音翦又章善/反孫音箭</hi>祓<hi>音廢又音拂/又方妹反</hi>禧<hi>許其反</hi>禠<lb/>
+<hi>音斯郭常支巨移二反</hi>祜<hi>音/户</hi>俾<hi>必爾/反</hi>禋<hi>音因/注同</hi>祀<hi>音/似</hi>祠<hi>音詞周春祭名</hi>蒸<lb/>
+<hi>之升反冬祭名</hi>甞<hi>字又作常/秋祭名</hi>禴<hi>字又作礿同餘/若反夏祭名</hi>儼<hi>魚儉/反</hi>恪<hi>口各反</hi>
+祇<hi>旨夷反</hi>諲<hi>音因又/音眞</hi>熯<hi>而善反郭音罕說/文蒼頡篇皆同</hi>晙<hi>子峻反又音峻</hi>
+                    <graphic n="KR1220" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1220.png" mimeType="image/png"/>
+<hi>音須</hi>竢<hi>音仕字又作俟/亦作戺音同</hi>替<hi>他計/反</hi>戾<hi>音/麗</hi>厎<hi>之視反字冝從一或作底非也底音丁禮反</hi>徯<hi>胡禮/反</hi>噊<hi>郭音聿/施音述</hi>幾<hi>音祈又/音機</hi>
+                    <graphic n="KR2079" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2079.png" mimeType="image/png"/>
+                    <hi>音祈又音沂郭音剴案剴音公哀反說文云摩也</hi>汽<hi>古愛反施音旣/樊孫虚乞反</hi>摩<hi>莫河/反</hi>近<hi>附近/之近</hi>治<hi>如字施直吏反</hi>肆<hi>音/四</hi>惇<hi>字又作/丁門反</hi>亶<hi>多但/反</hi>祜<hi>音/戸</hi>掔<hi>却賢反又苦閒苦忍二反</hi>
+<pb n="5a"/>
+仍<hi>本或作扔同汝烝反</hi>肶<hi>音毗本或/作脾同</hi>埤<hi>避支反/又音椑</hi>竺<hi>字又作篤/同丁毒反</hi>腹<hi>分伏反</hi>皆重<hi>直龍反</hi>謨<hi>亡胡反/郭音慕</hi>詐<hi>側駕/反</hi>謀<hi>亡侯/反</hi>話<hi>胡快反</hi>猷<lb/>
+<hi>音由字亦從犭</hi>載行<hi>下庚反郭下/孟反注同</hi>訛<hi>字又作吪亦作/譌同五戍反</hi>盟<hi>音明</hi>詛<lb/>
+<hi>側慮反</hi>祅<hi>於喬反本/又作妖同</hi>遘<hi>古豆/反</hi>遻也<hi>字又作迕/同五故反</hi>轉復<hi>扶又反</hi>
+釗<hi>工堯反又章堯反</hi>覿見也<hi>賢遍反/注同</hi>監<hi>音鑒又工杉/反字又作</hi>涖<hi>音利又音類</hi>
+覜<hi>他弔反</hi>相<hi>施息亮反/又息良反</hi>訩<hi>音/凶</hi>閒<hi>古閑反隙/也舊音閑</hi>隙<hi>去㦸反</hi>瘞<lb/>
+<hi>猗例反郭音翳</hi>匿<hi>女力/反</hi>蔽<hi>必曳/反</hi>竄<hi>麤亂/反</hi>妥<hi>孫他果反郭他回反又他罪反劉昌宗音儀禮同字林亦同</hi>按<hi>一旦/反</hi>底<hi>丁禮/反/之視/反</hi>尼<hi>施女乙反/謝羊而反</hi>曷<hi>何末反</hi>
+遏<hi>烏割反</hi>抑<hi>於力/反</hi>射<hi>羊石反字/又作斁同</hi>厭<hi>於豔/反</hi>梏<hi>古沃反/郭音角</hi>梗<hi>古杏反</hi>較<hi>古學反</hi>頲<hi>他鼎/反</hi>密<hi>亡筆/反</hi>易也<hi>以豉反/注同</hi>弛也<hi>尸紙反</hi>弛<lb/>
+易<hi>施李音尸紙反下音亦顧謝本弛作施并易皆以豉反注同</hi>鮮<hi>息淺反/下同</hi>罕<hi>火旱反</hi>
+<pb n="5b"/>
+酢<hi>才各反</hi>侑<hi>本或作宥/同于救反</hi>毗<hi>如字樊光本/作庇云䕃也</hi>㬥<hi>本又作同邦角反</hi>樂<lb/>
+也<hi>本又作爍郭音洛又力角反</hi>廕<hi>於禁反又/作䕃同</hi>覭<hi>郭亡革反/又莫經反</hi>髳<hi>音蒙</hi>
+茀<hi>音弗</hi>叢<hi>才工/反</hi>茸<hi>如容反或/如融反</hi>薈<hi>烏會/反</hi>蠱<hi>音/古</hi>謟<hi>郭音縚他刀反字或作慆沈勑檢反</hi>楨<hi>音/貞</hi>榦<hi>本又作幹胡/旦反又作翰</hi>棐<hi>音/匪</hi>比<hi>毗志反/注同</hi>俌<hi>音輔郭方輔反字林音甫</hi>諶<hi>市林反本/今作忱</hi>壃<hi>字又作畺音姜經/典作疆假借字</hi>圉<hi>魚吕反</hi>埸<lb/>
+<hi>羊石反廣雅云界也</hi>旁<hi>歩郎/反</hi>聊<hi>音/遼</hi>敵<hi>音/狄</hi>彊<hi>巨良反/下注同</hi>應<hi>本或作膺同於矜反</hi>者好<hi>呼報/反</hi>浡<hi>歩忽/反</hi>蠢<hi>尺允/反</hi>俶<hi>昌育/反</hi>呰<hi>子爾反或子移反郭音些案廣雅些辭也息計反又息賀反謂語餘聲也</hi>巳此<hi>音/以</hi>
+                    <graphic n="KR1818" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1818.png" mimeType="image/png"/>
+                    <hi>本或作䦈字林云皆古嗟字</hi>
+罝<hi>音嗟</hi>狎<hi>乎甲/反</hi>串<hi>郭音五患反/沈謝古患反</hi>慣<hi>本又作貫又作遦同古患反</hi>厭<lb/>
+<hi>於豔反</hi>
+                    <graphic n="KR1016" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1016.png" mimeType="image/png"/>
+                    <hi>音逝又時設反張揖雜/字音曳云狃<graphic n="KR1016" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1016.png" mimeType="image/png"/>過度</hi>曩<hi>奴黨/反</hi>逮<hi>音代一音大計反</hi>曁<lb/>
+<hi>其器反</hi>騭<hi>之實反/又音陟</hi>假<hi>音/遐</hi>躋<hi>子兮/反</hi>陞<hi>音/升</hi>揮<hi>許韋/反</hi>盝<hi>音鹿</hi>
+<pb n="6a"/>
+歇<hi>虚謁反</hi>涸<hi>戸各/反</hi>渴<hi>音竭本/或作竭</hi>毋<hi>音無本/今作無</hi>漉<hi>音/鹿</hi>去水<hi>起吕反</hi>
+挋<hi>音震</hi>拭<hi>音/式</hi>刷<hi>字又作㕞所劣反說文/云刮也廣雅云削也</hi>淸也<hi>如字劉音儀禮慈性反</hi>抆<hi>亡粉反</hi>埽<hi>素老/反</hi>閒<hi>古莧反注同謝古閑反/郭古鴈反施胡瞎反</hi>饁<hi>于輒反字林于怯反</hi>饟<hi>式亮/反</hi>饋也<hi>本或作餽/同巨愧反</hi>遷<hi>七延反/注同</hi>徙<hi>斯尒反</hi>拱<lb/>
+<hi>九勇反</hi>廞<hi>郭音歆又音欽/字林火欽反</hi>興也<hi>如字又/許應反</hi>蹶<hi>居衞反/下同</hi>假<hi>户嫁反</hi>廢<hi>字亦作癈同甫穢反</hi>稅<hi>始銳/反</hi>舎<hi>音捨/注同</hi>棲<hi>音/西</hi>遲<hi>直釐反</hi>憩<lb/>
+<hi>起例反本或作愒同</hi>㕟<hi>苦怪反又墟季反字林以爲喟丘愧反孫本作快郭音苦槩反又作嘳墟愧苦怪二反</hi>齂<lb/>
+<hi>郭施謝海拜反孫虚貴反顧乎被反</hi>呬<hi>郭許四反孫許/器反施火季反</hi>供<hi>如字又/居用反</hi>峙<hi>直紀反</hi>共<lb/>
+<hi>音恭</hi>
+                    <graphic n="KR2359" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2359.png" mimeType="image/png"/>
+                    <hi>亡矩反/又音無</hi>憐<hi>力田/反</hi>娠<hi>指愼反/又音身</hi>蠢<hi>尺允/反</hi>戁<hi>奴板反</hi>妯<lb/>
+<hi>顧依詩勑留反郭盧篤反又徒歷反</hi>騷<hi>蘇刀/反</hi>訛<hi>五禾/反</hi>
+                    <graphic n="KR0868" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0868.png" mimeType="image/png"/>
+                    <hi>始銳反毛詩/傳云佩巾也</hi>覆<hi>芳福反後注同</hi>副<hi>音/赴</hi>校<hi>音/敎</hi>長<hi>丁丈反下/文并注同</hi>諦<hi>音/帝</hi>契<hi>郭苦計反字又作挈顧苦結反<pb n="6b"/>注同左傳云盡借邑人之車契其軸是也</hi>殄<hi>大典/反</hi>刻<hi>音/克</hi>斷<hi>大管/反</hi>迪<hi>音/狄</hi>繇<hi>音由</hi>道<lb/>
+也<hi>如字或徒報反非</hi>僉<hi>七廉/反</hi>胥<hi>息廬/反</hi>耆<hi>巨之反禮記/云六十曰耆</hi>艾<hi>五蓋反下同禮記曰五十曰艾</hi>多更<hi>音/庚</hi>秭<hi>音/姊</hi>算<hi>字又作筭素緩/反郭息轉反</hi>數也<hi>色具反注同謝色主反</hi>傅也<hi>符付反/注同</hi>覛<hi>字又作脈/亡革反</hi>相<hi>息羊反讀者或息亮反今不用</hi>
+乂<hi>字又作䢃亦作刈同魚廢反</hi>淈<hi>郭古没反/又胡忽反</hi>治<hi>直吏反/謝如字</hi>作汨<hi>古没反</hi>頤<lb/>
+<hi>以之反</hi>汱<hi>姑犬反施胡犬反顧/徒蓋反字冝作汏</hi>渾<hi>胡本/反</hi>隕<hi>于敏/反</hi>墜也<hi>直類反</hi>翜<lb/>
+<hi>所甲反</hi>捷<hi>才接/反</hi>毖<hi>音/祕</hi>溢<hi>音/逸</hi>陶<hi>徒刀/反</hi>繇<hi>音由一/音遥</hi>馘<hi>古獲反本又作聝音同</hi>穧<hi>本或作齊同才細/反依注字冝從禾</hi>穫禾<hi>一本作獲/禾戸郭反</hi>難<hi>奴旦反注同一音如字</hi>剡<hi>羊冉反</hi>㗉<hi>力約反詩/本作畧</hi>耜<hi>音/似</hi>允任<hi>而鴆反又而/淫反注同</hi>壬<hi>而今反注同</hi>俾<hi>必尒反</hi>拼<hi>北萌反以利使/人曰拼從手</hi>抨<hi>普耕反案字書拼抨並音普耕𥙷耕二反訓義亦同今旣二字相隨故多互其讀也亦從手彈也字又作伻音同使人也</hi>使令<hi>力呈/反</hi>儴<hi>樊孫如羊反引<pb n="7a"/>論語其父攘羊釋之作攘注云因來而盜曰攘施息羊反</hi>督<hi>多毒/反</hi>享<hi>虚丈反/下注同</hi>縱<hi>于用反</hi>
+縮<hi>所六反</hi>掣<hi>昌世/反</hi>探<hi>吐南/反</hi>篡<hi>初患/反</hi>俘<hi>音/孚</hi>摸<hi>亡各樓胡二反</hi>爲<lb/>
+治<hi>直吏反</hi>曩<hi>乃朗/反</hi>爲嚮<hi>許亮反本/今作曏</hi>省<hi>息井/反</hi>璿<hi>音旋又作璇</hi>枿<lb/>
+<hi>五割反本或作又作木注作蘖並同說文/作<graphic n="KR2305" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2305.png" mimeType="image/png"/>以/木爲古文蘖爲或體云伐木之餘</hi>訝<hi>五駕反本又作迓</hi>
+跛<hi>布我反</hi>軫<hi>之忍/反</hi>薦<hi>遭練/反</hi>摯<hi>之二/反</hi>臻<hi>則巾/反</hi>賡<hi>古孟反沈孫音庚說文以爲古文續</hi>續<hi>似欲/反</hi>祔<hi>音附郭/音付</hi>祪<hi>俱毁/反</hi>尼<hi>本亦作昵同女乙反謝羊而反顧奴啓反下同</hi>幾<hi>音機又/音祈</hi>暱<hi>女乙/反</hi>妥<hi>郭他回反沈他果反</hi>傳命<lb/>
+<hi>直攣反</hi>貉<hi>亡白反下同/施胡各反</hi>綸<hi>音/倫</hi>繩<hi>音/乗</hi>嗼<hi>音莫本/亦作莫</hi>卒<hi>子恤反又作下同</hi>猷<hi>音/由</hi>假<hi>古雅/反</hi>輟<hi>丁劣/反</hi>巳<hi>音/以</hi>殏<hi>巨牛反/又作求</hi>酋<hi>在由反又子由反郭音遒</hi>就<hi>如字或作噈子六子/合二反又作殧同/音終本/又作終</hi>薨<hi>火弘反</hi>殂<lb/>
+<hi>音徂本又作徂</hi>
+                    <graphic n="KR4055" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4055.png" mimeType="image/png"/>
+                    <hi>音落本/又作落</hi>殪<hi>於計/反</hi>同稱<hi>尺證反</hi>
+<pb n="7b"/>
+釋言第二<hi>魚鞬反詩傳云直言曰言書傳云言辭章也東方朔云誦詩九萬言謂一字爲一言也說文從口從辛聲左傳云介之推曰言身之文也仲尼曰言以足志文以足言廣雅云言從也此釋言篇者釋古今之訓義</hi>
+中<hi>如字又音仲又知衆反</hi>距<hi>又作岠/同音巨</hi>斯<hi>私貲所/冝二反</hi>誃<hi>尺氏/反</hi>謖<hi>所六反</hi>還<lb/>
+<hi>音旋</hi>復<hi>音/服</hi>返<hi>音反說文同云春/秋傳作/從彳</hi>徇<hi>本又作侚樊本作/並辭峻反郭音巡張揖字詁云徇今巡施音詢進本又爲均序</hi>徧<hi>古遍/字</hi>馹<hi>而實反郭音義云本或/作<graphic n="KR4015" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4015.png" mimeType="image/png"/>聲類云亦馹字同</hi>遽<hi>其據反</hi>
+傳也<hi>張戀反注同</hi>車<hi>音/居</hi>蒙<hi>莫公反小爾/雅云覆也</hi>覆<hi>音/副</hi>告<hi>古毒反</hi>
+噰<hi>於容反</hi>徠<hi>音來本/今作來</hi>畛<hi>之忍/反</hi>厎<hi>之視/反</hi>恀<hi>音/是</hi>怙<hi>音户</hi>恃<lb/>
+<hi>音市</hi>遹<hi>古述字一/音餘橘反</hi>俞<hi>羊朱/反</hi>畣<hi>古荅字一/本作荅</hi>男唯<hi>維癸反</hi>者<lb/>
+應<hi>音譍</hi>臚<hi>吕居/反</hi>幾<hi>音/機</hi>觀<hi>施音館謝/音官注同</hi>肯<hi>口等/反</hi>敖<hi>五刀反</hi>
+幠<hi>郭火孤反沈亡甫反</hi>傲也<hi>五報/反</hi>稺也<hi>直利反/又音稚</hi>諐<hi>去䖍/反</hi>戾<hi>力細<pb n="8a"/>反</hi>壯<hi>阻亮反</hi>悈<hi>本或作極又作亟/同紀力反或音戒</hi>褊<hi>必淺反說文云小衣也廣雅云褊狹陋也</hi>
+狹<hi>户甲反</hi>貿<hi>音茂字又/作/同</hi>賈<hi>音/古</hi>厞<hi>符沸反字/又作陫同</hi>側<hi>音仄</hi>遾<lb/>
+<hi>嘗例反</hi>逮<hi>音代一音/徒帝反</hi>圯<hi>皮美/反</hi>覆<hi>芳服反/注同</hi>荐<hi>徂薦反又徂遜反郭徂很反</hi>
+原<hi>舎人本作[蠢-春+原]音同</hi>再<hi>子代/反</hi>重<hi>直用反又/直龍反</hi>憮<hi>亡甫/反</hi>敉<hi>亡婢反郭敷靡反孫敷是反</hi>臞<hi>字又作癯/同求俱反</hi>脙<hi>音/求</hi>瘠<hi>秦昔/反</hi>桄<hi>孫作光/古黃反</hi>熲<hi>古迥反</hi>婁<lb/>
+<hi>本又作屢同力住反</hi>暱<hi>女乙/反</hi>亟<hi>墟記/反</hi>亦數<hi>色角/反</hi>忒<hi>他得反或作</hi>佴<lb/>
+<hi>而志反</hi>劑<hi>即隨/反</hi>翦<hi>子淺/反</hi>饙<hi>方云反字又作餴同說文作/云脩飯也饙餴並或也字書云一蒸米</hi>餾<hi>力又/反</hi>稔<hi>字又作餁同而審反</hi>
+                    <graphic n="KR2542" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2542.png" mimeType="image/png"/>
+                    <hi>音脩又西九反又所九反一/音孫廣雅饙謂之<graphic n="KR2542" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2542.png" mimeType="image/png"/>也蒼頡篇云<graphic n="KR2542" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2542.png" mimeType="image/png"/>/饋也</hi>飰<hi>字又作餅俗作飯同符萬反字林云飯食也扶晚反飤也</hi>媵<hi>以證反又繩證反方言云媵寄也記也送也</hi>造<hi>才早/反</hi>餥<hi>音/非</hi>餱<hi>音/侯</hi>呼<hi>或作/<graphic n="KR2588" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2588.png" mimeType="image/png"/>同</hi>鞫<hi>居六反字又作鞠同</hi>
+究<hi>音救</hi>滷<hi>音/魯</hi>鹶<hi>音矜本/又作矜</hi>鹹<hi>音/咸</hi>粦<hi>力田反本/今作憐同</hi>覃<hi>徒南反本又作</hi>
+<pb n="8b"/>
+<pb n="8b"/>
+薆僾<hi>皆音愛烏槩反/烏合/反</hi>祺<hi>音其/下同</hi>先見<hi>賢遍/反</hi>兆<hi>廣雅云葬地也本又作垗音同</hi>塋<hi>音/營</hi>挾<hi>戸牒/反</hi>浹<hi>子協反/郭音接</hi>徹<hi>直列/反</hi>霑<hi>竹簾反</hi>
+琛<hi>勑金反郭舒金反</hi>探<hi>吐南/反</hi>刺<hi>七赤/反</hi>選也<hi>宣戀/反</hi>俾<hi>必爾反沈方寐反</hi>紕<hi>婢寐反謝房彌反郭方寐反</hi>飾<hi>申職/反</hi>縁<hi>恱面/反</hi>淩<hi>力升反案郭注意當作陵埤蒼云淩慄也樊注作凌冰澟也力膺反</hi>慄<hi>音/栗</hi>懅<hi>舊音遽其據反亦謂戰慄也</hi>慼<lb/>
+<hi>字又作戚七歷反</hi>蠲<hi>古玄反/又音圭</hi>稱<hi>尺證/反</hi>好<hi>呼報反又/如字注同</hi>坎<hi>字又作欿苦感反</hi>銓<hi>七全反銓即稱</hi>舫<hi>方訪反/又音方</hi>併<hi>歩頂反字/又作並</hi>泳<hi>音/詠</hi>底<hi>丁禮反</hi>
+迨<hi>音待</hi>冥<hi>覓經反字林亡/經亡定二反</hi>降下<hi>古巷反下音如字一讀降音戸江反下音戸嫁反</hi>傭<hi>勑恭反</hi>均<hi>音/鈞</hi>暴<hi>字又作虣/同蒲報反</hi>窕<hi>吐彫/反</hi>好放<hi>呼報反</hi>俅<lb/>
+<hi>音求</hi>弁<hi>音/卞</hi>瘞<hi>於例反又於計/反或作/同</hi>薶<hi>莫皆/反</hi>氂<hi>力知反又力才反李本作毳吕銳反</hi>
+罽<hi>居例反</hi>烘<hi>沈顧火公反郭巨凶反孫/音恭字林巨凶甘凶二反</hi>燎<hi>力皎反又力召力弔二反</hi>煁<lb/>
+<pb n="9a"/>
+<hi>市針反</hi>烓<hi>郭音恚字林口穎反說文云/行竈也顧口井烏攜二反</hi>隅<hi>音/虞</hi>竈<hi>則到反</hi>陪<lb/>
+<hi>蒲回反</hi>朝也<hi>直遥反/注同</hi>苛<hi>音/何</hi>樊<hi>音/煩</hi>藩<hi>方元/反</hi>籬<hi>力支反</hi>量<lb/>
+<hi>音良一音亮</hi>以評<hi>音/病</hi>粻<hi>音張字林/又文庚反</hi>糧<hi>音/良</hi>侈也<hi>昌氏反又尸氏反</hi>
+幾<hi>音機</hi>僥<hi>古堯/反</hi>倖<hi>胡耿反與/幸通用</hi>筑<hi>音/竹</hi>掇<hi>丁活反說文云拾取</hi>奘<lb/>
+<hi>徂朗反秦晉謂大爲奘</hi>駔<hi>在魯反又子朗反沈集注本作/音同孫樊二本並作將且而無奘駔沈集衆本合爲一字</hi>
+                    <graphic n="KR2588" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2588.png" mimeType="image/png"/>
+                    <hi>火乎反或/作呼同</hi>舫<hi>謝音方詩亦作方施甫訪反樊本作坊符方反又音方</hi>泭也<lb/>
+<hi>郭音孚字或作<graphic n="KR1397" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1397.png" mimeType="image/png"/>同/樊本作坿沈音附</hi>[竺-二+稗]<hi>皮佳反本又作<graphic n="KR1097" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1097.png" mimeType="image/png"/>同</hi>筏<hi>音伐方言云泭謂之[竺-二+稗][竺-二+稗]謂之筏秦晉通語</hi>洵<hi>郭音巡注同謝/音荀下句放此</hi>龕<hi>苦南反字或作/含本今作龕</hi>逮<hi>音代一音大計反下同</hi>遝<hi>孫郭徒/荅反</hi>沓<hi>與上同亦/徒荅反</hi>畫<hi>胡卦/反</hi>賑<hi>之忍反又之人之刃二反字林云富也刃引反</hi>局<hi>彊六/反</hi>分也<hi>符問反/注同</hi>懠<hi>才計/反</hi>僁<hi>音屑動草聲也郭音與稷契同施私秩反字又作</hi>葵<hi>求維/反</hi>揆<hi>其水/反</hi>度也<hi>徒各反/注同</hi>惄<hi>本又作同奴歷反</hi>
+<pb n="9b"/>
+眕<hi>之忍反</hi>別二<hi>彼列/反</hi>戍<hi>式喻/反</hi>寇<hi>苦侯/反</hi>硈<hi>苦角/反</hi>鞏<hi>九勇反</hi>
+棄<hi>丘異反</hi>忘<hi>音/亡</hi>囂<hi>丘刀反又/許嬌反</hi>襄<hi>四羊反或/而羊反</hi>懟<hi>直類反</hi>縭<lb/>
+<hi>力知反</hi>介也<hi>音界李孫顧舎人本/並云䋠羅也介別也</hi>閡<hi>五代/反</hi>號<hi>戸羔反又胡到反</hi>
+謼也<hi>火故反又如字又作呼</hi>咎<hi>求九/反</hi>苞<hi>補茅/反</hi>稹<hi>謝之忍反郭振眞二音</hi>緻<lb/>
+<hi>直吏反</hi>逜<hi>五故反孫本吾/字作午吾補反</hi>寤<hi>五故/反</hi>顁<hi>丁佞反字又/作定注同</hi>題<hi>徒兮反</hi>麟<hi>力仁反</hi>肯<hi>苦等反或作古/字字林作/並同</hi>侮<hi>亡甫/反</hi>貽<hi>以之反</hi>遺也<lb/>
+<hi>唯季反注同</hi>歸<hi>臣位/反</hi>貿<hi>音/茂</hi>賄<hi>火罪/反</hi>狎<hi>乎甲/反</hi>菼<hi>字又作<graphic n="KR2784" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2784.png" mimeType="image/png"/>他敢反或待感反</hi>騅<hi>章誰反如/騅馬色也</hi>薍<hi>五患/反</hi>毳<hi>昌銳/反</hi>粲<hi>七旦/反</hi>飱<hi>謝素昆反說文云餔也字林云水澆飯也本又作䬸施七丹反字林作飱云吞食</hi>渝<hi>音榆舎人/作䞕同</hi>肴<hi>音爻</hi>
+恞<hi>本又作夷音同</hi>顚<hi>丁田/反</hi>耊<hi>田結反孫他結反/云老人面如鐵色</hi>輶<hi>由久反又餘周反</hi>俴<lb/>
+<hi>慈瞚反</hi>綯<hi>徒刀/反</hi>絞<hi>古卯/反</hi>糾<hi>吉<graphic n="KR0627" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0627.png" mimeType="image/png"/>/反</hi>索<hi>悉各/反</hi>跋<hi>蒲末反郭音貝<pb n="10a"/>又補葛反</hi>躐<hi>力輒/反</hi>狼<hi>音/郎</hi>疐<hi>竹利反又得異反又竹季反說文云礙足不行與躓同</hi>跲<lb/>
+<hi>其業反又居業反郭又音甲廣雅云跲我也</hi>烝<hi>之仍/反</hi>埃<hi>音/哀</hi>戎<hi>如字本或作顧如勇反沈如升反</hi>相也<hi>如字又/息亮反</hi>飫<hi>於庶/反</hi>
+                    <g n="孑*_焉-正+?">]□</g>
+                    <hi>如戍反本/今作孺</hi>屬<hi>雛欲/反</hi>幕<hi>音莫</hi>
+煽<hi>音扇</hi>熾<hi>昌至/反</hi>晠<hi>市正反本/作盛同</hi>柢<hi>謝音/帝</hi>窕<hi>郭徒了反舎人本作跳云跳者躍之間</hi>閒也<hi>音閑或/如字</hi>窈<hi>音/杳</hi>隙<hi>去逆/反</hi>罹<hi>力知/反</hi>憂思<hi>息吏反</hi>慘<lb/>
+<hi>七感反</hi>檢<hi>李郭居/儉反</hi>模<hi>亡胡/反</hi>郵<hi>音/尤</hi>過<hi>古臥反</hi>遯<hi>字又作遁又作/<graphic n="KR2581" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2581.png" mimeType="image/png"/>同徒頓反</hi>
+弊<hi>字亦作弊又作斃婢世反又婢設反郭歩計反</hi>踣<hi>蒲北反又音赴或/孚豆蒲侯二反</hi>前覆<hi>芳服反</hi>
+僨<hi>甫問反</hi>僵<hi>居良/反</hi>畛<hi>之引反又/之人反</hi>殄<hi>大典/反</hi>盍也<hi>戸臘/反</hi>虹<hi>音洪顧作訌音同李本作降下江反</hi>潰<hi>乎内/反</hi>隌<hi>字林或作晻/同烏感反</hi>闇<hi>音/暗</hi>冥<hi>莫定反</hi>
+䵑<hi>字又作同女/乙反郭音馹</hi>膠<hi>音/交</hi>黏<hi>女廉反字林云相/著也字書云糊也</hi>戛<hi>居八反</hi>闍<lb/>
+<hi>丁胡反</hi>拘<hi>音/俱</hi>休慶<hi>虚虯反/下注同</hi>叫<hi>古弔/反</hi>呼<hi>火故/反</hi>濬<hi>音/峻</hi>整<hi>之領<pb n="10b"/>反</hi>之令<hi>力呈反</hi>愧慙<hi>九位反本亦作媿小爾雅云不直失節謂/之慙慙愧也面慙曰戁心慙曰恧體慙曰逡方言云悔㥾𧹞慙也晉曰悔或曰㥾秦晉之間凡愧而見上謂之𧹞梁宋曰㥾又云倎恧慙也荆揚青徐之間曰倎若梁益秦晉之間言心内慙矣山之東西自愧曰恧趙魏之間謂之䎵㥾音匿倎音腆恧女六反䎵音宻亦音秘</hi>殛<hi>紀力反</hi>
+鯀<hi>古本反</hi>乃瘳<hi>勑留/反</hi>訩譊<hi>音凶許容反說文/作詾同譊即讙字</hi>冥也<hi>亡定反</hi>
+逡<hi>七旬反</hi>外傳<hi>直戀反下/左傳皆同</hi>巳復<hi>韋昭云巳畢/也復芳福反</hi>疐<hi>都麗反一音致</hi>
+仆也<hi>音赴</hi>頓躓<hi>音/致</hi>諗<hi>音審相思念也/說文式荏反/音/戒</hi>弇<hi>於簡反音揜</hi>
+謂覆<hi>敷救反</hi>恫<hi>音/通</hi>握<hi>李本作幄云居位處/之具也郭云謂備具</hi>訊也<hi>音信</hi>䦧<lb/>
+<hi>呼歷反</hi>恨也<hi>孫炎作很云相很/戾也很音戸墾反</hi>燬<hi>音毁李尋云燬一音火孫炎云方言有輕重故謂火爲燬郭云燬齊人語</hi>曩<hi>本亦作/乃黨反</hi>曏也<hi>許亮反/音向</hi>偟<hi>音/皇</hi>不遑<hi>音皇呼王反或作偟通作皇</hi>宵<hi>音消舎人云/陽氣消也</hi>懊忨<hi>烏報反下/五館反</hi>愒<hi>苦蓋反杜預注左傳云忨愒皆貪也</hi>搘<hi>音枝說/文作榰</hi>拄也<hi>音注說文作/柱皆從木旁</hi>併<hi>必頂/反</hi>卒<hi>子忽反</hi>
+<pb n="11a"/>
+慒<hi>音囚字書作悰/致恥/反</hi>紩也<hi>音抶郭云今人/呼紩衣爲黹</hi>縫<hi>奉容/反</hi>遞<hi>音悌他計反一音待結反</hi>迭也<hi>待結反/音絰</hi>更迭<hi>音/庚</hi>矧<hi>詩忍/反</hi>辟況<hi>本亦作譬同</hi>
+廩<hi>力錦反</hi>廯也<hi>息淺反廣雅云廯倉也孫炎云廯藏榖鮮絜也舎人云廩少鮮也郭云或說云即倉廩所未詳</hi>逭<hi>音/換</hi>閒<hi>音/諫</hi>俔也<hi>胡典/反</hi>之諜<hi>徒協反杜預注左傳云諜伺也說文云軍中反間也</hi>沄<hi>音/云</hi>沆也<hi>胡黨反說文云沄/轉流也一曰沆</hi>漭沆<hi>莫廣反一音莫郎反大水貌</hi>扞<lb/>
+<hi>戸旦反</hi>趾<hi>音/止</hi>䠊<hi>本亦作剕同扶味反/又枝迷反刖足曰剕</hi>刖也<hi>音月鄭注周/禮云斷足也</hi>忝<hi>他簟反</hi>
+燠<hi>於六反</hi>塊<hi>本作凷說文云塊俗/凷字也凷一名堛</hi>堛也<hi>孚逼/反</hi>齊也<hi>才細反郭云謂分齊王肅云分齊其肉所當用也分如字</hi>餬<hi>戸呉反說文/云寄食也</hi>饘<hi>之然/反</hi>糜也<hi>靡爲反粥之稠者曰麋</hi>
+跪<hi>求委反</hi>小跽<hi>渠几反說文云長跪也莊/子云擎跽曲拳臣之禮也</hi>矈<hi>武延反郭/云謂緻密</hi>謂緻<hi>之侍反一音智又音至</hi>闢<hi>本亦作辟婢亦/反又甫亦反</hi>袍<hi>包毛/反</hi>襺<hi>古典反本亦作繭緜衣也禮玉藻云纊爲襺緼爲袍鄭注云衣有著之别名也</hi>重襺<hi>直龍/反</hi>衣裘<hi>於旣/反</hi>障<hi>知亮反說文云隔也/又界也蔽也亦作鄣</hi>畛<hi>之忍反田間道</hi>謂<lb/>
+<pb n="11b"/>
+壅<hi>於勇反</hi>靦<hi>他典反舎人云擅也一曰/面貌也謂自專擅之貌</hi>姡<hi>戸刮反又户括反孫李云靦人面姡然也方言云楚鄭或謂狡獪爲姡姡猶獪也凡小兒多詐謂之姡郭注言黠也獪音古外反又音夬</hi>鬻<hi>之六反字林亦作粥云淖麋也又與六反</hi>淖<hi>奴孝反又文卓反/字林云濡甚也</hi>翿<hi>徒刀反又/徒報反</hi>纛<hi>字又作徒報反鄭衆云羽葆幢也蔡伯喈云以旄牛尾爲之大如斗在左騑馬軛上所謂黃屋左毒縣</hi>葆<hi>音/保</hi>幢<hi>丈江反</hi>壑<hi>火各反</hi>芼<hi>莫報/反</hi>搴也<hi>九輦反取也與<graphic n="KR2081" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2081.png" mimeType="image/png"/>同郭又音騫音義云本又作毛蹇</hi>拔<lb/>
+<hi>歩八反</hi>苛<hi>胡柯/反</hi>妎<hi>胡計反又胡界反又/音害說文云妎妬也</hi>芾<hi>芳味反又/方蓋反</hi>狃<hi>女九反</hi>
+復也<hi>扶又反注同孫郭云狃<graphic n="KR1016" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1016.png" mimeType="image/png"/>復爲/也李音服云狃能屈申曰復</hi>
+                    <graphic n="KR1016" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1016.png" mimeType="image/png"/>
+                    <hi>石世反</hi>逼<hi>彼力反本又作偪</hi>
+迫<hi>音百</hi>般<hi>郭音班左傳云役將般矣是也一音蒲/安反周易云般桓是也說文云般辟也</hi>還<hi>音旋或音環</hi>濟<hi>子細反下同</hi>益<hi>於亦/反</hi>緡<hi>亡巾/反</hi>綸<hi>音/倫</hi>繩<hi>音/乗</hi>辟<hi>婢亦反一音壁</hi>
+漦<hi>仕其反又吕其反郭音牛齝反又丑之反李云吐沫漦也</hi>盝<hi>音/鹿</hi>漉<hi>音/鹿</hi>唌<hi>囚延反字當作㳄又作涎字林云口液</hi>沫<hi>音/末</hi>綽<hi>昌斫/反</hi>裕<hi>音/喻</hi>衮<hi>古本反說文云從衣從㕣也㕣<pb n="12a"/>羊耎反或云從公衣</hi>黻<hi>音/弗</hi>華<hi>胡瓜/反</hi>皇<hi>胡光/反</hi>彌<hi>亡移反</hi>
+釋訓第三<hi>休運反張揖雜字云訓者謂字有意義也案釋詁巳下三篇皆釋古今之語方俗之言意義不同故立號亦異至於訓釋墳典其實一焉</hi>
+斤斤<hi>樊居覲反舎人云明明甚明也斤斤物精詳之察孫云斤斤重愼之察也</hi>聦<hi>七公反</hi>條條<lb/>
+<hi>舎人本作攸攸沈亦音條</hi>秩秩<hi>直栗/反</hi>智思<hi>息嗣反下/文并注同</hi>便便<hi>婢緜反</hi>廱<lb/>
+廱<hi>於容反</hi>優優<hi>音/憂</hi>和樂<hi>音/洛</hi>兢兢<hi>音/矜</hi>繩繩<hi>本或作憴同食蒸反</hi>
+戒<hi>音界</hi>蹌蹌<hi>七羊/反</hi>皆恐<hi>丘勇/反</hi>趨<hi>七俞/反</hi>業業<hi>魚法反郭五荅反</hi>翹翹<hi>巨遥反</hi>皆縣<hi>音/玄</hi>惴惴<hi>之瑞/反</hi>憢憢<hi>許堯反本又作嘵音同字林云懼也案詩云予維音嘵嘵是也</hi>番番<hi>布何反詩云/申伯番番</hi>矯矯<hi>居兆反舎人云矯矯得勝之勇也詩云矯矯虎臣</hi>洸洸<hi>女皇反舎人/本作僙音同</hi>赳赳<hi>居<graphic n="KR0627" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0627.png" mimeType="image/png"/>反說文云輕勁有才也詩云赳赳武夫</hi>惈<hi>音果本亦/作果同</hi>藹藹<hi>烏害/反</hi>濟濟<hi>咨禮/反</hi>悠悠<hi>音由</hi>
+<pb n="12b"/>
+洋洋<hi>音羊</hi>蹶蹶<hi>居衞/反</hi>踖踖<hi>音夕又/音藉</hi>皆便<hi>婢面/反</hi>捷<hi>才接反</hi>薨薨<hi>虎弘反顧舎人本作雄雄</hi>衆<hi>諸仲/反</hi>夥<hi>戸果反漢書云楚人謂多爲夥</hi>蒸<lb/>
+蒸<hi>諸仍反本今作丞烝</hi>作也<hi>子洛/反</hi>委委<hi>於危反詩云委委佗佗如山如河是也諸儒本並作褘於冝反舎人云褘褘者心之美引詩云亦作褘</hi>佗佗<hi>本或作它字音徒河反顧舎人引詩釋云褘褘它它如山如河謝羊兒反</hi>忯忯<hi>郭徒啓反與愷悌音同顧舎人渠支反李余之反忯忯和適之愛也</hi>惕惕<lb/>
+<hi>他狄反</hi>偁偁<hi>尺仍反本/亦作稱同</hi>蓁蓁<hi>郭側巾反/又子人反</hi>孽孽<hi>魚謁反又五葛反</hi>懕懕<hi>於占反說文/云安靜也</hi>媞媞<hi>徒低/反</hi>祁祁<hi>巨移反</hi>丕<lb/>
+丕<hi>本或作㔻同普悲反</hi>萌萌<hi>郭武耕反施云/朋反字或作蕄</hi>懋懋<hi>古茂字</hi>慔<lb/>
+慔<hi>音暮亦作慕</hi>強<hi>其丈/反</hi>庸庸<hi>音/容</hi>慅慅<hi>郭騷草蕭三音</hi>赫赫<lb/>
+<hi>郭音釋舎人本作奭失石反說文/云奭盛也謝許格反</hi>躍躍<hi>余斫反樊本作濯引詩釋云濯濯厥靈</hi>
+重語<hi>直用反又直龍反</hi>坎坎<hi>苦感/反</hi>墫墫<hi>七旬反舎人云舞貌毛傳同郭云謂<pb n="13a"/>鼓舞歡喜也說文云墫士舞也冝從士尊也本或作蹲同</hi>瞿瞿<hi>居具/反</hi>休休<hi>虚求反又虚虯反</hi>旭旭<hi>謝許玉反/郭呼老反</hi>蹻蹻<hi>郭居夭反案詩小雅小子蹻蹻音巨虐反今依詩讀</hi>
+憍<hi>九苗反</hi>夢夢<hi>亡工亡棟二反/沈施亡増反</hi>訰訰<hi>之閠之屯二反或作諄音同顧舎人云夢夢訰訰煩懣亂也</hi>紃<hi>囚春昌㳂二/反本無此字</hi>懪懪<hi>本又作/蒲卓反又布卓反說文云大呼也自冤也</hi>
+邈邈<hi>亡角反</hi>儚儚<hi>字或作懜孫亡/崩亡冰二反</hi>洄洄<hi>沈音回郭音韋音義云本或作音韋案字林重衣貌于回反</hi>惽<hi>音/昬</hi>版版<hi>詩作板並如字李云版版者失道之僻也</hi>蕩<lb/>
+蕩<hi>本或作盪徒朗反李云蕩蕩者弗思之僻也</hi>僻也<hi>匹亦/反</hi>皆衺<hi>本又作邪似嗟反</hi>
+爞爞<hi>郭徒冬反又直忠反</hi>炎炎<hi>于廉/反</hi>熏<hi>本亦作燻或/作薫許云反</hi>炙<hi>之石反</hi>
+究究<hi>九又反</hi>仇仇<hi>音/求</hi>敖敖<hi>本又作謷又作/嚻同五髙反</hi>傲<hi>本或作慠同五報反舎人本傲作毁釋云仇仇無倫理之貌謷謷衆口毁人之貌李同</hi>佌佌<hi>顧音此郭音徙謝音紫舎人云形容小貌</hi>
+瑣瑣<hi>星果反亦作璅</hi>悄悄<hi>七小/反</hi>慘慘<hi>七感/反</hi>愠也<hi>於問反</hi>痯<lb/>
+<pb n="13b"/>
+痯<hi>郭古卵反又古玩反</hi>瘐瘐<hi>羊主反又羊朱/反本今作庾庾</hi>慇慇<hi>於斤反樊光於謹反本今作殷殷</hi>惸惸<hi>本或作煢/巨營反</hi>忉忉<hi>都勞/反</hi>慱慱<hi>徒端反施逋莫反郭徂兖徂㳂二反</hi>忡忡<hi>恥忠/反</hi>惙惙<hi>丁劣/反</hi>怲怲<hi>彼病反</hi>奕奕<lb/>
+<hi>音亦</hi>畇畇<hi>本或作<graphic n="KR3398" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3398.png" mimeType="image/png"/>郭音/巡沈居/賔反謝/蘇旬反字林云均均田也又羊倫反</hi>墾<hi>苦很反蒼頡篇云耕也廣雅云治也</hi>辟<hi>婢亦反/開也</hi>畟畟<hi>楚力反字/或作稷</hi>耜<hi>音/似</hi>郝郝<hi>音釋又呼各反</hi>土解<hi>音/蟹</hi>繹繹<hi>音/亦</hi>種<hi>之用/反</hi>穟穟<hi>郭音遂說文云禾垂之貌</hi>緜<lb/>
+緜<hi>彌延反</hi>麃<hi>字書作穮同方遥反耘也字林云耕禾間也左傳云譬如農夫是穮是蓘是也說文云穮耨鋤田也</hi>耘<hi>字亦作芸/同音云</hi>挃挃<hi>郭丁秩反小雅/云截穎謂之挃</hi>穫也<hi>户郭/反</hi>刈<hi>魚廢反</hi>
+衆<hi>諸仲反</hi>緻<hi>直吏/反</hi>溞溞<hi>郭蘇刀反詩云淅/之溞溞謝所留反</hi>淅<hi>蘇歷/反</hi>洮<hi>徒刀反洮猶淅也</hi>烰烰<hi>吕郭並音浮又/符彪反詩作浮</hi>蒸<hi>之升反本/今作烝</hi>俅俅<hi>音求本亦作絿同</hi>載<hi>丁代反本/今作戴</hi>弁<hi>音/卞</hi>璋<hi>音/章</hi>韹韹<hi>詩作喤喤華盲反字書鍠鍠樂<pb n="14a"/>之聲也又作鍠一音胡光反</hi>樂<hi>如/字</hi>禳禳<hi>而羊反本/今作穰</hi>引<hi>余忍余愼二反引長多也</hi>
+顒顒<hi>魚恭反</hi>卬卬<hi>五剛反郭/魚殃反</hi>丁丁<hi>豬耕/反</hi>嚶嚶<hi>烏耕反</hi>
+斫<hi>音灼</hi>切磋<hi>七何/反</hi>藹藹<hi>於蓋/反</hi>萋萋<hi>七西/反</hi>盡力<hi>苦忍反</hi>
+噰噰<hi>本或作雍又作廱同於恭反</hi>喈喈<hi>古諧/反</hi>應德<hi>音/譍</hi>佻佻<hi>徒彫反詩云佻佻獨行歎息也</hi>契契<hi>苦結反詩云契契/字又作苦計反</hi>愈<hi>本或作俞同/瑜庾二音</hi>竭<hi>本又作■巨列反</hi>燕燕<hi>字又作宴烏/殿烏顯二反</hi>粲粲<hi>七旦/反</hi>尼<hi>女乙反謝羊而反又奴啓反</hi>
+飾<hi>音式</hi>處<hi>音/杵</hi>間<hi>音閑本/今作閑</hi>悽悽<hi>郭本或作萋/同古兮反</hi>苦<hi>如字又立故反</hi>
+思<hi>息嗣反郭音如字</hi>儵儵<hi>郭徒的反顧舒育反樊本/作攸引詩云攸攸我思</hi>嘒嘒<hi>虎惠反</hi>罹<hi>力支反</hi>悼<hi>音/盗</hi>己<hi>音/紀</hi>旦旦<hi>本或作<graphic n="KR1556" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1556.png" mimeType="image/png"/>/同都歎反</hi>忒<hi>佗得反</hi>皐皐<lb/>
+<hi>古豪反樊本作浩古老反</hi>㻆㻆<hi>胡犬古/犬二反</hi>鞙<hi>音與/㻆同</hi>贙<hi>胡犬反本今無鞙贙二字</hi>刺<lb/>
+<hi>字又作誄同七賜反</hi>灌灌<hi>本或作懽/同古玩反</hi>愮愮<hi>音遥本又作摇樊本作遥又作/佻恌與愮同訓也書云愮愮<pb n="14b"/>憂無告也廣雅云摇亂也</hi>吿<hi>如字又/古毒反</hi>訴<hi>音/素</hi>泄泄<hi>余誓反或/作呭同</hi>謔謔<hi>虚虐反</hi>謞謞<hi>郭虚各反或火角反</hi>慝<hi>謝切得反諸儒並女陟/反言隱匿其情以飾非</hi>熇<hi>許各火沃二反本今無此字</hi>樂<hi>如字又/音洛</hi>譖<hi>側禁/反</hi>訿訿<hi>子爾反字林云不思稱乎上之意</hi>供<lb/>
+<hi>音恭</hi>熾<hi>尺志/反</hi>背公<hi>音/佩</hi>蹙蹙<hi>子六/反</hi>惟逑<hi>巨鳩反郭云迫也字林云斂聚也本亦作求</hi>鞫<hi>居六/反</hi>迫<hi>音/伯</hi>抑抑<hi>音/億</hi>諦<hi>音/帝</hi>秩<hi>直乙/反</hi>泠<hi>郎丁反</hi>
+甹<hi>普經反</hi>夆<hi>孚逢/反</hi>掣<hi>本或作<graphic n="KR2106" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2106.png" mimeType="image/png"/>同充世反/說文云引而縱之</hi>曳<hi>餘世/反</hi>扡<hi>本或作拕同泰何達可二反廣雅云引也說文云曳也</hi>朔<hi>所角/反</hi>不<hi>事巳反待也冝從來本今作俟字</hi>
+不來<hi>本或作倈逨同力胎反</hi>不復<hi>如/字</hi>不遹<hi>古述字/一音聿</hi>不蹟<hi>子亦反詩云念彼不蹟傳云不循道也</hi>循<hi>音/巡</hi>徹<hi>直列/反</hi>忘<hi>音亡/下同</hi>萲<hi>施音袁謝許袁反郭云義見伯兮詩云焉得萲草毛傳云萲草令人善忘則謝讀爲是</hi>諼<hi>許爰/反</hi>考槃<hi>歩干反本又作盤一</hi>饎<lb/>
+<hi>尺志反字林云熟食也又充之反舎人本作喜釋云古曰饎</hi>饌<hi>乳戀/反</hi>號<hi>户髙反孫炎云雩之祭有舞有號</hi>
+<pb n="15a"/>
+雩<hi>音于祭名</hi>吁<hi>許于/反</hi>曁<hi>其器/反</hi>巳<hi>音/以</hi>蠢<hi>昌允/反</hi>磋<hi>七何/反</hi>琢<hi>丁角反治玉也本或作琢非也</hi>僩<hi>本或作<graphic n="KR0972" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0972.png" mimeType="image/png"/>同下/板反郭音簡</hi>恂<hi>音荀郭音峻鄭玄注禮記同云謂嚴慄也謝私尹反</hi>慄<hi>音/栗</hi>竦<hi>思勇/反</hi>赫<hi>火格/反</hi>烜<hi>吁逺反烜者光明宣/著今並作咺字音同</hi>斐<hi>孚尾反</hi>旣微<hi>如字字書作癓三蒼云足創</hi>尰<hi>本或作/同並籕文瘇/字也蜀勇時踵二反</hi>骭<hi>下諫反郭作扞音古案反謂脚脛也</hi>瘍<hi>音/羊</hi>腫足<hi>之勇/反</hi>脛<hi>戸定/反</hi>創<hi>初良/反</hi>是乂<hi>音刈本亦作刈</hi>鑊<hi>又作濩同/户郭反</hi>煮<hi>之與/反</hi>絺<hi>丑尼/反</hi>綌<hi>去逆/反</hi>敏<hi>如字舎人本作畝釋云古者姜嫄履天帝之迹於畎畝之中而生后稷</hi>拇<hi>音畝足/大指</hi>指處<hi>昌慮/反</hi>宿<hi>先六/反</hi>重言<hi>直用/反</hi>媛<hi>爲眷反</hi>好<hi>呼報反</hi>援<hi>音媛本/今作媛</hi>喭<hi>音彦本/今作彦</hi>猗嗟<hi>於冝/反</hi>眼<hi>五限反/或作目</hi>斥<hi>音尺</hi>挽<lb/>
+<hi>本亦作輓同亡逺反聲類云引也</hi>車<hi>音/居</hi>襢<hi>本或作袒同徒坦/徒丹二反下同</hi>裼<hi>蘇歷/反</hi>脫<hi>佗活反</hi>見體<lb/>
+<hi>賢遍反</hi>暴<hi>歩報/反</hi>搏<hi>連莫反/郭音付</hi>馮河<hi>字又作憑皮冰反依字當/作■說文云無船渡河</hi>檝<hi>本或作擑又作接同子葉才入二反方言曰檝橈也說文云檝舟棹也釋名曰在旁撥水曰櫂又謂之檝檝捷也</hi>籧<hi>本或作<graphic n="KR1952" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1952.png" mimeType="image/png"/>同巨原反</hi>篨<lb/>
+<pb n="15b"/>
+<hi>直閭反舎人云籧篨巧言也李云籧篨巧言辭以饒人謂之口柔孫郭並云籧篨之疾不能俯口柔之人視人顔色常亦不伏因以名云</hi>
+戚施<hi>七歷反下式支反舎人曰令色誘人李曰和顔恱色以誘人是謂面柔也賈逵注國語曰僂也孫郭並云戚施之疾不能仰面柔之人常俯似之因以名云字書作/<graphic n="KR3476" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3476.png" mimeType="image/png"/>同</hi>夸毗<hi>苦瓜反下鼻口反舎人曰卑身屈己也樊引詩云無爲夸毗李孫郭云屈已卑身以柔順人也字書作䠸</hi>已<hi>音/紀</hi>娑<hi>素河/反</hi>辟<hi>婢亦反字冝作擗詩云寤擗有摽</hi>拊心<lb/>
+<hi>本亦作撫同芳武反</hi>椎<hi>本或作槌同直追/反字林云擊也</hi>胷<hi>音/凶</hi>矜<hi>几陵/反</hi>憐<hi>力堅/反</hi>拍<hi>普伯反</hi>
+緎<hi>許域反又音域</hi>縫<hi>扶用/反</hi>殿屎<hi>丁練反下虚伊伊反或作敜吹又作/䐖說文作唸吚郭郭上音香惟反又音丁念反下許利反</hi>呻也<hi>音/申</hi>幬<hi>本或作/同直留反</hi>帳<hi>陟亮/反</hi>侜<hi>本或作倜/同張留反</hi>誑<hi>俱放反</hi>幻<lb/>
+<hi>胡辦反/本或作/同力九反</hi>薄<hi>蒲博反本/今作簿</hi>笱<hi>音茍</hi>
+釋親第四<hi>說文云親至也蒼頡篇云親愛也近也禮記云親親以三爲五以五爲九尚書云以親九族親者通謂五服九族之親也</hi>
+妣<hi>必里反</hi>嬪<hi>毗眞/反</hi>厥長<hi>丁文反/丁皆同</hi>彞<hi>音/夷</hi>喪<hi>息浪反/又如子</hi>頡<hi>戸結/反</hi>異稱<hi>尺證反</hi>
+晜<hi>音昆本亦作昆下同</hi>媦<hi>于貴反廣雅云媦妹也說文云楚人謂/女弟爲媦纂文云河南人云妹媦也</hi>重也<hi>直龍反下皆同</hi>
+<pb n="16a"/>
+而別<hi>彼列反又如字下皆同</hi>適者<hi>本或作嫡/同丁歷反</hi>徠<hi>音來本/亦作來</hi>汲<hi>居及/反</hi>冢<hi>竹奉反</hi>
+窋<hi>丁律反又丁滑反不窋后稷之子</hi>從舅<hi>才用反下注娣/從同下音臼</hi>甥<hi>音/生</hi>呼壻<hi>音細</hi>帝<lb/>
+館<hi>古半反</hi>更相<hi>音/庚</hi>譚<hi>大南/反</hi>姪<hi>大結反字林云/兄女又丈乙反</hi>姒<hi>音/似</hi>娣<hi>大計反</hi>娶<lb/>
+<hi>七具反</hi>媵<hi>以證/反</hi>㛮<hi>素早反本/今作嫂</hi>稺<hi>直吏反/又作稚</hi>先<hi>蘇練/反</hi>後<hi>胡遘反廣雅云先後妯娌韋昭云先謂姒後謂/娣</hi>妯娌<hi>音逐下音里廣雅云先後也郭注方/言云今關西兄弟婦相呼爲妯娌</hi>稱<hi>如字</hi>少姑<lb/>
+<hi>證照反</hi>兄妐<hi>音鍾本/今作公</hi>之轉<hi>丁戀反/又如字</hi>姻<hi>音/因</hi>亞<hi>一駕反/又作婭</hi>瑣<hi>桑果反</hi>僚<hi>力彫反</hi>
+釋宫第五<hi>世本云禹作宫室吕氏春秋云髙元作宫室尚書云王徂同宫左傳云虢公爲王宫于玤又云作王宮于踐土又云季平子立煬宫詩云作于楚宫又云作于楚室傳曰室猶宫也禮云由命士以上父子皆異宫又云杜氏葬入季武子宫不敢哭此文云或謂之室室謂之宫郭云皆所以通古今之語明同實而兩名案古者貴賤同稱宫秦漢以來唯王者所居稱宫焉</hi>
+牖<hi>羊九反</hi>扆<hi>於冝反郭音/依又意尾反</hi>䆫<hi>楚江/反</hi>別<hi>彼列/反</hi>奥<hi>本或作隩同於耗反尚書并說文皆云奥室也孔注論語云内也鄭注禮記云<pb n="16b"/>主也廣雅云藏也</hi>媿<hi>居位/反</hi>宧<hi>音怡李云東北者陽氣始起育養萬物故曰宧宧養也說文訓同與周易頤卦養義同</hi>見禮<hi>賢遍反他/皆放此</hi>㝔<hi>烏叫反字林同郭又音杳說文云深貌本或作䆞又作窔同</hi>埽<hi>素老/反</hi>柣<hi>郭千/結反顧丈乙反吕伯雍大一反廣雅云砌也</hi>閾<lb/>
+<hi>域洫一音</hi>棖<hi>直庚/反</hi>楔<hi>古黠反李謂/閫上兩旁木</hi>旁<hi>歩郎反</hi>楣<hi>忘悲反或/作<graphic n="KR2482" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2482.png" mimeType="image/png"/>亡報反埤蒼云梁也吕伯雍云門樞之橫梁說文云秦名屋櫋聯也齊謂之檐楚謂之梠</hi>樞<hi>昌朱反</hi>椳<lb/>
+<hi>烏回反郭又吾回反吕沈一罪反</hi>達<hi>火末/反</hi>檼<hi>於靳反字林云棼也廣雅云棟也下同</hi>
+                    <graphic n="KR2646" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2646.png" mimeType="image/png"/>
+<hi>本或作戺同音俟廣雅云兩砌也本或作扈同音户</hi>垝<hi>居毁反本/又作度同</hi>坫<hi>丁念反說文云屏牆</hi>
+墆<hi>達結達計二反髙貌也或作㙐丁果反本或作端</hi>墉<hi>音容或/作䧡同</hi>垣<hi>音/袁</hi>鏝<hi>本或作槾又作墁同亡旦武安二反說文云鐵杇也</hi>杇<hi>音烏又音胡李云泥鏝一名杇塗工之作具說文云所以塗也秦謂之杇關東謂之槾</hi>椹<hi>本或作砧/同張林反</hi>榩<hi>音虔本亦作虔/詩云方斲是虔</hi>斫<hi>音/灼</hi>櫍<hi>音質</hi>
+<graphic n="KR0627" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0627.png" mimeType="image/png"/>
+                    <hi>於糾反郭殃柳反</hi>飾<hi>音/式</hi>堊<hi>於故反又/於各反</hi>樴<hi>音特又/之力反</hi>杙<hi>羊式<pb n="17a"/>羊特二反下句雞棲於弋音同</hi>橜<hi>其厥反/後注同</hi>楎<hi>許韋/反</hi>縣於<hi>音玄</hi>箷<lb/>
+<hi>羊支反字林云竿也本或作椸音同字林云榻前机也</hi>臬<hi>魚列/反</hi>栱<hi>九勇反郭又音卬</hi>
+閣<hi>音各</hi>闍<hi>音都徐/持遮反</hi>榭<hi>音/謝</hi>栖<hi>音西下同/又作棲</hi>榤<hi>巨列反字林云弋也</hi>鑿<hi>在各/反</hi>塒<hi>音/時</hi>穿<hi>音/川</hi>植<hi>音/殖</hi>傳<hi>音椽/下同</hi>突<hi>本又作𣔻徒忽反</hi>鏁<hi>本又作瑣桑果反</hi>埤<hi>課移/反</hi>杗<hi>音/亡</hi>廇<hi>力又/反</hi>棳<hi>之劣反本或作梲音同</hi>侏<hi>音/朱</hi>儒<hi>日朱/反</hi>閞<hi>皮彦反本/亦作弁同</hi>槉<hi>音/疾</hi>欂<hi>皮麥反字林云櫨也又平各反</hi>枅<hi>音雞字林音肩/云柱上方木也</hi>㭼<hi>達合/反</hi>栭<hi>音/而</hi>楶<hi>作截反又音節本或作㮞同字林云櫨也舊本及論語禮記皆作節</hi>櫨<hi>力奴反即欂也字林云柱上祔也</hi>棟<hi>多洞反</hi>桴<hi>郭音浮又音孚字/林云極也棟也</hi>檼<hi>於靳/反</hi>桷<hi>音角</hi>榱<lb/>
+<hi>疎追反說文云秦名屋椽也周謂之榱齊魯謂之桷字林云周人名椽曰榱齊魯名榱曰桷</hi>椽<hi>直專反</hi>閱<hi>音恱</hi>檐<hi>餘占反/下同</hi>樀<hi>丁狄反字從木旁作啇郭又也赤反字合手旁作適</hi>梠<lb/>
+<pb n="17b"/>
+<hi>音吕</hi>牀<hi>助良/反</hi>屛<hi>歩形/反</hi>簃<hi>文知/反</hi>廚<hi>本或作/文誅反</hi>筄<hi>音曜又羊昭反</hi>
+                    <graphic n="KR2729" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2729.png" mimeType="image/png"/>
+                    <hi>阻格反本/或作笮</hi>郷<hi>本又作曏許/亮反注同</hi>屛<hi>卑并/反</hi>朝<hi>直遥反</hi>
+宁<hi>音佇</hi>閍<hi>補耕反說文作<graphic n="KR2358" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2358.png" mimeType="image/png"/>云或作/祊門内祭先祖所彷徨也</hi>祊<hi>音同/閍</hi>觀<hi>古玩反</hi>闈<hi>音韋劉昌宗儀禮音揮</hi>衖<hi>户絳反廣雅云道也聲類猶以爲巷字</hi>謂之<lb/>
+閎<hi>獲耕反左傳云髙其閈閎</hi>僖<hi>許其/反</hi>塾<hi>音熟劉儀/禮又音育</hi>夾<hi>古合反</hi>橛<lb/>
+<hi>其月反</hi>闑<hi>魚列/反</hi>閫<hi>說文作梱同苦本反鄭/注禮記云閫門限也</hi>闔<hi>胡臘反</hi>扉<lb/>
+<hi>音非</hi>著乎<hi>直畧/反</hi>所以止扉謂之閎<hi>音宏本亦作閣音各郭注本無此字</hi>
+辟<hi>匹亦反</hi>閈<hi>户旦反說文云閭也/汝南平輿里門曰閈</hi>瓴<hi>力丁反詩傳/作令音陵</hi>甋<hi>丁歷反詩傳作適音同</hi>甓<hi>蒲覓/反</hi>㼾<hi>力竹/反</hi>甎<hi>章㳂反字/林作塼同/本或作壼苦本反郭吕並立屯反或作韋</hi>䧜<hi>音唐本/今作唐</hi>徑<hi>古定/反</hi>旅<hi>音/吕</hi>場<hi>直良反字從/昜昜音陽</hi>歧旁<lb/>
+<hi>郭如字樊本作/音支</hi>劇<hi>巨戟/反</hi>冠軍<hi>古亂/反</hi>樂郷<hi>音岳又音各</hi>數<lb/>
+<pb n="18a"/>
+道<hi>色主反</hi>康<hi>苦郎/反</hi>莊<hi>側良/反</hi>車<hi>昌蛇/反</hi>驂<hi>七南反</hi>復有<lb/>
+<hi>扶又反下同</hi>逵<hi>求追反本或作馗字/林云隱也與逵同</hi>趨<hi>七朱/反</hi>走<hi>徂口反</hi>隄<lb/>
+<hi>都奚徒雞二反</hi>橋<hi>音/喬</hi>杠<hi>音/江</hi>徛<hi>郭居義反顧丘竒反說文云舉脚有度也廣雅云歩橋也案今關西呼徛與郭同</hi>彴<hi>音斫廣雅云歩橋也案今/江東呼彴音約沈徒的反</hi>廂<hi>音相</hi>
+寢<hi>七甚反</hi>堭<hi>音/皇</hi>陜<hi>户夾反說文云隘也從<graphic n="KR0935" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0935.png" mimeType="image/png"/>夾聲俗作狹或作狎字下甲反今人以陜弘農縣字書陜之字音失冉反狹代陜行之久矣</hi>
+釋器第六<hi>祛記反說文云器皿也飲食之器從犬從㗊聲也㗊莊立反衆口也</hi>
+豆<hi>如字本又作梪</hi>籩<hi>音/邊</hi>瓦<hi>五寡/反</hi>登<hi>本又/作鐙</hi>膏<hi>音/髙</hi>盎<hi>烏浪反</hi>
+缶<hi>方九反</hi>甌<hi>烏侯/反</hi>瓿<hi>歩口歩/侯二反</hi>瓵<hi>弋之/反</hi>甊<hi>路口反方言云罃也</hi>
+甖<hi>乙耕反字亦作罃</hi>康<hi>孫郭如字字書埤蒼作/音同李本作光字林作㼹口光反</hi>
+瓠<hi>音護</hi>甈<hi>丘例/反</hi>壺<hi>音/胡</hi>斪<hi>郭巨俱反謝古侯鳩于二反本或作拘非</hi>斸<lb/>
+<pb n="18b"/>
+<hi>本或作<graphic n="KR2049" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2049.png" mimeType="image/png"/>同丁録反說文云齊謂之玆箕一曰斤柄自曲李云斪斸鋤也</hi>定<hi>多佞反或作錠郭云鋤屬李云鋤別名</hi>鋤<hi>士魚/反</hi>屬<hi>音/蜀</hi>斫<hi>音/灼</hi>鐯<hi>字又作<graphic n="KR4059" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4059.png" mimeType="image/png"/>直畧反字林竹畧反郭云钁也</hi>
+钁<hi>九縛反字林云大鋤也</hi>
+                    <graphic n="KR3032" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3032.png" mimeType="image/png"/>
+                    <hi>郭云古鍬字/並七遥反/本或作疀郭云古鍤字並楚洽反</hi>
+緵<hi>子弄子公二反緵<graphic n="KR2529" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2529.png" mimeType="image/png"/>也</hi>罟<hi>音/古</hi>罭<hi>音/域</hi>囊<hi>乃當/反</hi>
+                    <graphic n="KR2529" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2529.png" mimeType="image/png"/>
+                    <hi>力回反</hi>嫠<lb/>
+<hi>字亦作釐力其反杜注左傳云寡婦爲嫠</hi>笱<hi>音/狗/力九反字/書作</hi>薄<hi>歩各反</hi>
+罺<hi>側交反</hi>汕<hi>所諫/反</hi>撩<hi>郭力堯反取也又/力弔反沈力到反</hi>篧<hi>郭七角反又捉廓二音</hi>罩<hi>陟孝陟角二反字林/云竹卓反字又作䈇</hi>捕魚<hi>音/歩</hi>槮<hi>沈桑感反謝胥寢反郭霜甚䟽廕二反爾雅舊文并詩傳並米旁作小爾雅木旁作其文云魚之所息謂之橬橬槮也積柴水中而魚舎焉郭因改米從木字林作罧山泌反其義同</hi>涔<hi>郭岑潛二音詩作潛字小爾雅作橬字亦音潛又時占反猶取積柴之義</hi>絡<hi>音/洛</hi>兔<hi>又作菟同/土故反</hi>罝<hi>子邪反說文子余反</hi>遮<hi>之蛇/反</hi>麋<hi>亡悲/反</hi>罞<hi>本或作茅同亡/包反又音蒙</hi>冒<hi>莫報反</hi>彘<lb/>
+<pb n="19a"/>
+<hi>直例反</hi>羉<hi>力端反又莫潘反本或作/罠亡巾反字林云罠釣也</hi>幕<hi>音/莫</hi>罛<hi>工胡/反</hi>繴<hi>郭卑覓反孫芳麥反或彼麥反</hi>罿<hi>昌凶反字/林上凶反</hi>罬<hi>謝丁劣反郭姜/恱反或九劣反</hi>罦<hi>浮孚二音</hi>
+覆<hi>音副又孚福反</hi>車也<hi>尺蛇/反</hi>翻<hi>孚袁/反</hi>罥<hi>古縣反又古犬/反廣雅云罟也</hi>解<hi>古買反</hi>絇<hi>謝其俱反孫九遇反施苦侯反</hi>版<hi>布綰/反</hi>㸣<hi>音業本/或作業</hi>繩<hi>音/乗</hi>縮<hi>所六反</hi>卣<hi>由酉二音下同</hi>罍<hi>音/雷</hi>盛<hi>音/成</hi>尊<hi>本又作罇酒器也又作樽同案曹獻文字指歸檢字無此從缶從木者說文云字從酋寸酒官法度也今之尊卑從此得名故尊亦爲君父之稱</hi>揔<hi>尊董反</hi>坎<lb/>
+<hi>口感反</hi>斛<hi>乎卜/反</hi>裗<hi>力求反本/又作流</hi>䘽<hi>五兮反又五啓反又/五結反俱謂裗也</hi>縷<hi>又作樓洛侯反</hi>攣<hi>力專/反</hi>袿<hi>音圭重/繒爲飾</hi>飾<hi>音/式</hi>黼<hi>音/甫</hi>袊<hi>本又作領音同</hi>襮<hi>音搏又/方沃反</hi>刺<hi>七亦/反</hi>褗<hi>音偃又作/偃衣領也</hi>縁<hi>恱絹反注同</hi>純<lb/>
+<hi>之閏反又章允反</hi>袕<hi>胡決反/一音術</hi>褮<hi>胡扃反又/於營反</hi>眥<hi>才細反又子移反</hi>衱<lb/>
+<hi>居怯反</hi>裾<hi>郭居渠/二音</hi>衿謂<hi>又音紟郭同今鉗二/音顧渠鳩渠金二反</hi>袸<hi>郭辭見反<pb n="19b"/>孫音荐謝徂悶反</hi>褑<hi>子眷反埤蒼/云佩絞也</hi>上屬<hi>音燭後注同上持掌反</hi>
+執<hi>至入反</hi>衽<hi>而甚反杜/預云裳際</hi>袺<hi>音結郭/居黠反</hi>扱<hi>楚洽/反</hi>襭<hi>胡結反廣雅云懷也</hi>蔽<hi>必袂/反</hi>幨<hi>本或作襜方言作/袡郭同昌占反</hi>膝<hi>音/悉</hi>幃<hi>本或作褘又作徽同暉韋二音</hi>縭<hi>本或作褵/同力知反</hi>緌<hi>汝誰/反</hi>邪<hi>字亦作衺/似嗟反</hi>削<hi>息畧反</hi>幅<hi>甫服反</hi>纀<hi>音/卜</hi>殺<hi>所例反又/色戒反</hi>輿<hi>音/余</hi>革<hi>姑麥反</hi>鞎<lb/>
+<hi>胡根反</hi>靶<hi>音霸字林云轡革也本/或作鞔亡安反次句同</hi>車<hi>音/居</hi>軾<hi>音/式</hi>笰<hi>音弗</hi>
+禦<hi>魚吕反</hi>簟衣<hi>於旣反/下皆同</hi>捐<hi>吕沈因絹反顧辭玄反郭與專反</hi>著<lb/>
+車<hi>直畧反</hi>鑣<hi>表驕/反</hi>钀<hi>郭魚謁反/沈魚桀反</hi>旁鐵<hi>他結/反</hi>轡<hi>音祕</hi>
+轙<hi>郭音儀施音蟻</hi>軛<hi>於革/反</hi>首<hi>本或作/古首字</hi>餀<hi>呼蓋苦蓋二反字林火刈反郭呼帶反</hi>餯<hi>許穢反李云餀/餯皆穢臭也</hi>臭<hi>昌又/反</hi>饐<hi>於器反葛洪音懿釋云饐餿臭也餿色留反字林云飯傷熱濕也央例央兾二反</hi>餲<hi>於介反字林乙例反一音於葛反食敗也</hi>飯<lb/>
+<pb n="20a"/>
+<hi>扶萬反</hi>饖<hi>於吠反說文云飯傷熱也字林/乙大反蒼頡篇云食臭敗也</hi>摶<hi>徒端反</hi>糷<lb/>
+<hi>郭音輦謝力丹反沈力旦反字林力但反李云糷飯淖/糜相著也</hi>著<hi>直畧/反</hi>糪<hi>郭普厄反施孚八反李云米飯半腥半熟名糪</hi>腥<hi>音/星</hi>餒<hi>奴罪反說文云魚敗曰餒字書作鯘同</hi>脫<lb/>
+<hi>吐奪反</hi>麋<hi>音/眉</hi>斮<hi>莊畧牀畧二反/字林云斬也</hi>鰭<hi>巨夷反子虚賦云揵鰭掉尾是也或作鱗</hi>冰<hi>彼凌反說文云水堅也孫/本作凝牛烝反膏凝曰脂</hi>羹<hi>又作/同古/衡下庚二反</hi>臛<hi>火各火沃二反字林云肉羮也</hi>湆<hi>丘及反/汁也</hi>鮨<hi>巨伊反字/林止尸反</hi>鮓<hi>側下反</hi>公食<lb/>
+<hi>音嗣又作飤音同</hi>醢<hi>虎改/反</hi>臡<hi>本又作/同奴黎反字林作腝音人兮反謂有骨醢也</hi>
+康<hi>說文作穅或省禾口郎反</hi>蠱<hi>音/古</hi>澱<hi>徒薦/反</hi>垽<hi>魚靳/反</hi>滓<hi>側里反</hi>
+鼐<hi>沈奴戴反郭音乃</hi>圜<hi>音/貟</hi>弇<hi>古奄字/於檢反</hi>鼒<hi>音咨施音災郭音才字林音載</hi>釴<hi>音/弋</hi>款<hi>本或作窾苦/管反闊也</hi>鬲<hi>力的/反</hi>脚<hi>居畧/反</hi>䰝<hi>本或作甑即凌反又子孕反</hi>鬵<hi>徐林反又嗣廉/反郭財金反</hi>漑<hi>古代/反</hi>釡<hi>音/父</hi>鉹<hi>昌紙反</hi>
+<pb n="20b"/>
+璲<hi>音遂</hi>鞙鞙<hi>胡犬反又/作㻆同</hi>區<hi>羌于反又/烏侯反/本或作與古學反說文云二玉相合爲與</hi>翮<hi>戸革反/羽本</hi>箴<hi>章諶反案周禮羽人職云十羽爲審百羽爲摶十摶爲縳鄭注云審摶縳羽數束名也爾雅曰一羽謂之箴十羽謂之縳/百羽謂之緷其名音相近也一羽則有名蓋失之矣孫同鄭意云蓋誤郭云凡物數無不從一爲始以爾雅不失周官未爲得也</hi>縳<lb/>
+<hi>音篆又竹眷反</hi>緷<hi>古本反又戸本苦本/二反埤蒼云大束也</hi>別羽<hi>彼列/反</hi>虡<hi>音巨</hi>
+縣鍾<hi>音玄</hi>植<hi>直吏/反</hi>旄<hi>音/毛</hi>藣<hi>方皮方/賜二反</hi>蔌<hi>速藪二音詩云其䔩維何維筍及蒲</hi>茹<hi>如庶/反</hi>蓋<hi>音/盍</hi>苫<hi>失占/反</hi>璗<hi>徒黨反說文云金與玉同色也</hi>鏐<hi>方幽其幽/力幼三反</hi>鐐<hi>力彫反說文云白金也/字林力召反云美金也</hi>磨<hi>莫佐反</hi>鉼<hi>必領反</hi>鈑<hi>音版本/亦作版</hi>鈏<hi>余緊弋刃/常刃三反</hi>鑞<hi>力盍反周禮職方氏揚州之利金錫鄭注云錫鑞也字或作</hi>鵠<hi>胡酷古毒二反白也本亦作䶜同廣雅作䚛</hi>觷<lb/>
+<hi>五角反沈音學</hi>犀<hi>蘇齎/反</hi>斮<hi>本或作厝/同七各反</hi>剫<hi>徒各/反</hi>雕<hi>丁腰反</hi>璞<lb/>
+<pb n="21a"/>
+<hi>字又作樸丕角反</hi>鏤<hi>字又作/<graphic n="KR1564" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1564.png" mimeType="image/png"/>音漏</hi>切<hi>本或作/同千結反</hi>磋<hi>七何/反</hi>琢<hi>丁角反</hi>
+璆<hi>音虯本或作球字渠周反</hi>畢<hi>如字禮記云呻其佔畢謂呻吟佔視簡畢之文也李本作篳同</hi>
+不律<hi>說文云呉謂筆爲不律</hi>點<hi>丁簟丁念二反李/本作沾孫本作坫</hi>銑<hi>蘇典反</hi>決<lb/>
+<hi>作玦反</hi>鏃<hi>作木/反</hi>鍭<hi>侯候/二音</hi>錍<hi>匹迷反方言云箭廣長而薄廉者謂之錍</hi>骲<lb/>
+<hi>火交反埤蒼云骨鏃也沈五爪反顧蒲交反</hi>有縁<hi>恱絹反/下同</hi>繳<hi>章弱反字林云生絲縷也</hi>纏<hi>直連/反</hi>宛<hi>於阮/反</hi>弭<hi>亡婢/反</hi>鞭<hi>卑緜/反</hi>銑<hi>蘇典/反</hi>蜃<hi>市忍反</hi>珧<hi>余招反蜯屬也案以蜯飾弓弭</hi>蚌<hi>本作蜯又/蒲項反</hi>玠<hi>音/介</hi>琡<hi>昌育常育二反</hi>
+宣<hi>如字本或作瑄音同</hi>肉倍<hi>如字又如授反璧/邊也注及下同</hi>好<hi>如字又音耗璧孔也注及下同</hi>瑗<hi>爲眷反蒼頡/篇云玊珮名</hi>繸<hi>音/遂</hi>綬<hi>音/受</hi>組<hi>音/祖</hi>染<hi>如琰反下同</hi>縓<lb/>
+<hi>七絹反說文云帛黃赤色</hi>赬<hi>恥貞/反</hi>纁<hi>詩云反說文云/淺綘也字林同</hi>葱<hi>七公反</hi>
+                    <graphic n="KR0627" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0627.png" mimeType="image/png"/>
+<hi>於糾反</hi>邸<hi>丁以/反</hi>柢<hi>丁計/反</hi>蓐<hi>音/辱</hi>玆<hi>子斯/反</hi>屬<hi>之欲反</hi>竿<lb/>
+<pb n="21b"/>
+<hi>乾幹二音</hi>箷<hi>李本作䈕同羊支/反字林上支反</hi>架<hi>音/駕</hi>簀<hi>音/責</hi>笫<hi>側子反</hi>
+辨<hi>郭普遍反下同孫蒲莧反釋云辨半分也</hi>斷<hi>都管/反</hi>韏<hi>音眷又九萬反</hi>復<lb/>
+分<hi>扶又反</hi>鏤<hi>音/漏</hi>
+                    <graphic n="KR2450" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2450.png" mimeType="image/png"/>
+                    <hi>字又作鎪同蘇婁反又色留反字書云鎪鏉也鏉音速</hi>卣<lb/>
+<hi>酉由二音</hi>
+釋樂第七<hi>五角反說文云揔五聲八音之名象鼓鞞之形木其虡也周禮有大司樂職掌六代之樂尚書云帝曰夔命汝典樂是也</hi>
+宫謂之重<hi>直冢反劉歆云宫中也居中央暢四方唱始施生爲四聲綱也孫云宫音濁而遲故曰重也</hi>商謂之敏<hi>亡謹反疾也成也審也達也劉歆云商章也物成孰可章度也白虎通云商彊也案商爲臣而佐君成政故曰敏敏成也</hi>角謂之經<hi>經常也劉歆云角觸也物觸地而出戴芒角也</hi>徴<hi>知里/反</hi>謂之迭<hi>大結反劉歆云徴祉也物盛大而繁祉也白虎通云徴止也</hi>羽謂之柳<hi>劉歆云羽宇也物聚藏宇覆之也白虎通云羽舒也鄭注禮云柳聚<pb n="22a"/>也</hi>大瑟<hi>字林云庖羲作瑟</hi>灑<hi>所蟹所綺二反又所買反孫云音多變布出如灑也</hi>長八<lb/>
+尺<hi>直亮反又如字下放此</hi>廣一尺<hi>古曠/反</hi>琴<hi>字林云神/農作琴</hi>鼖<hi>扶云反</hi>
+應<hi>音譍注同李云小者音聲相承故曰應應承也孫云和應大鼓也/本亦作<graphic n="KR0615" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0615.png" mimeType="image/png"/>余刃反詩云應<graphic n="KR0615" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0615.png" mimeType="image/png"/>縣鼓是也案<graphic n="KR0615" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0615.png" mimeType="image/png"/>/引也謂擊小鼓引樂聲</hi>縣<hi>音玄</hi>磬<hi>口定/反</hi>毊<hi>虚嬌反又音喬孫云毊喬也喬髙也謂其聲髙也李云大磬聲淸燥也故曰毊毊燥也</hi>犂<hi>郭奚/反</hi>錧<hi>古緩反沈古亂反字林云田器也江南人呼犂刀爲錧本亦作貫同</hi>笙<hi>世本云/隨作笙</hi>巢<hi>孫顧並仕交莊交二反孫又徂交反巢髙也言其聲髙</hi>瓠<hi>胡故/反</hi>簧<hi>音/黃</hi>和<hi>胡戈反下同李云小者聲少音相和也郭引儀禮云三笙一和而成聲鄭注云三人吹笙一人吹和又胡臥反孫云應和於笙</hi>篪<hi>字又作䶵同直知反管有七孔世本云蘇成公所作長一尺二寸</hi>沂<hi>郭魚斤反又魚靳反李孫云篪聲悲沂悲也或作<graphic n="KR2284" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2284.png" mimeType="image/png"/>又作/䇵音冝肌反</hi>翹<hi>巨遥反</hi>塤<hi>本或作壎字同許袁反說文云壎樂器名從土熏聲釋名云塤喧也聲濁喧喧然案世本云暴辛公所作也圍五寸半長三寸半六孔也</hi>嘂<hi>本或作叫字同<pb n="22b"/>居弔反李云大壎也</hi>鵞<hi>如/字</hi>銳<hi>余祭/反</hi>似稱<hi>尺證/反</hi>錘<hi>直危直僞二反廣雅云錘謂之權</hi>鍾<hi>章容反說文作鐘云樂器也字林同世本云垂所作以此鍾爲酒器今經典通爲樂器</hi>鏞<hi>音/容</hi>以閒<hi>間廁/之閒</hi>鑮<hi>音博字林云匹各反又音薄字書云大鍾也</hi>
+剽<hi>郭音瓢孫匹妙反釋云剽者聲輕疾李云其中微小故曰剽剽小也</hi>棧<hi>郭側簡反李云淺也東晉興元年會稽剡縣人家井中得一鍾長三寸口徑四寸上有銘古文云棧鍾之小者旣長三寸自然淺也或助板反</hi>言<hi>如字本或/作䇾音同</hi>編<hi>卑緜反又方千/反或音歩典反</hi>筊<hi>本或作笅字戸交反</hi>籟<hi>音/賴</hi>簥<hi>九遥/反</hi>併<hi>歩頂反又/并之去聲</hi>漆<hi>音/七</hi>篞<hi>乃結反</hi>篎<lb/>
+<hi>郭音妙又亡小反</hi>籥<hi>羊灼反管三孔/也本或作龠</hi>簅<hi>音産字/又作産</hi>笛<hi>徒歷反字或作篴</hi>仲<hi>或作/筗同</hi>箹<hi>烏角反/又音約</hi>徒吹<hi>本或作龡字/同昌睡反</hi>咢<hi>五各反字林或作㖾又本作鄂</hi>修<hi>如字本/作脩字</hi>寋<hi>李云置擊衆聲寋連也本或作謇字同紀展反或作蹇字非郭云未見義所出未知李何所據上重敏經迭柳郭云皆五音別名其義未詳諸<pb n="23a"/>家或有音訓亦可爲義上下皆類此</hi>柷<hi>昌熟/反</hi>桶<hi>音動又音甬/甬即斛也</hi>深<hi>尸鴆反或如字</hi>椎<hi>直追反/下同</hi>柄<hi>兵命/反</hi>底<hi>丁禮/反</hi>挏<hi>大孔/反</hi>令左<hi>力呈反</hi>敔<hi>魚吕反鄭衆云木虎</hi>籈<hi>郭之仁反又音戰謝居延反郭云以木長尺櫟之名籈字林云以竹長尺也</hi>鉏<hi>事吕反/又作鋤</hi>鋙<hi>魚吕/反</hi>櫟<hi>力的反廣雅云櫟擊也漢書音義云櫟捎也</hi>鼗<hi>徒刀反本或作鞀同說文云鞀遼也或作鞉又作/籀文作㲈同</hi>麻<hi>如/字</hi>料<hi>力彫反</hi>穊<hi>居器反</hi>
+釋天第八<hi>土堅反釋名云天豫司兖以舌腹言之天顯也在上髙顯也靑徐以舌頭言之天坦也坦然髙逺也說文云天巓也至髙無上從一大禮統云天之爲言鎭也神也陳也珍也施生爲本運轉精神功效列陳其道可珍重也春秋說題辭云天之言鎭也居髙理下爲人經緯故其字一大以鎭之也</hi>
+穹<hi>起宫反</hi>蒼<hi>且剛/反</hi>蒼天也<hi>郭以穹及蒼蒼倶爲天稱毛詩傳則以蒼天釋穹蒼</hi>
+<pb n="23b"/>
+隆<hi>吕穹反</hi>夏<hi>胡駕反/下同</hi>昊<hi>胡杲/反</hi>晧<hi>胡老反本亦作昊光明也日出也</hi>
+旰<hi>古案反日光出也</hi>旻<hi>亡巾/反</hi>愍<hi>亡忍/反</hi>彫<hi>都聊/反</hi>上<hi>時羕反</hi>藏<lb/>
+<hi>徂倉反</hi>英<hi>於京/反</hi>玉燭<hi>李云人君德美/如玉而明若燭</hi>長<hi>謝丁兩反李云萬物各發生長也施直良反</hi>嬴<hi>本或作嬴/以征反</hi>大平<hi>音泰或/作太</hi>醴<hi>本或作澧字音禮</hi>饑<hi>居疑反本或作飢又作古/字說/文字林皆云饑榖不熟飢餓也</hi>𬞞<hi>音踈</hi>饉<lb/>
+<hi>巨靳反</hi>荐<hi>李本作薦字/音同在見反</hi>大歳<hi>音泰下放此/本今作太</hi>閼<hi>烏割反又於歇反又於䖍反</hi>逢<hi>符隆/反</hi>旃<hi>之然/反</hi>蒙<hi>莫東/反</hi>強<hi>本或作彊字音同渠良反</hi>圉<lb/>
+<hi>魚吕反</hi>戊<hi>音/茂</hi>著<hi>施直魚反孫直畧反又陟慮遲/慮二反本或作祝字冝章六反</hi>廱<hi>字又作雍同於恭反本或作黎字冝力低反</hi>己<hi>音/紀</hi>重光<hi>直龍/反</hi>黓<hi>余職反</hi>提<lb/>
+<hi>徒兮反</hi>卯<hi>亡巧/反</hi>單<hi>音丹李云盡也/又音蟬或音善</hi>閼<hi>於葛反李云土也又於䖍反</hi>執徐<hi>此二字依文讀李云執蟄也徐舒也言蟄物皆敷舒而出故曰執徐也</hi>在巳<hi>音祀</hi>
+<pb n="24a"/>
+敦<hi>如字韋昭音頓</hi>牂<hi>子郎/反</hi>協<hi>音/叶</hi>洽<hi>户夾/反</hi>涒<hi>湯昆/反</hi>灘<hi>本或作攤郭勑丹勑旦二反字林大安他安二反</hi>噩<hi>本或作咢字同五各反漢書/作詻韋昭音折案聲類詻音五格反</hi>戌<hi>先律/反</hi>閹<hi>於撿反漢/書作掩</hi>困敦<hi>都鈍/反</hi>奮<hi>方問反</hi>夏<lb/>
+曰<hi>胡雅反</hi>歳<hi>胤征云每/歳孟春</hi>祀<hi>太甲云/惟元祀</hi>年<hi>見春秋/尚書</hi>載<hi>堯典云朕在位七十載</hi>橘<hi>均筆/反</hi>修<hi>本亦/作脩</hi>圉<hi>音/語</hi>已<hi>音/紀</hi>窒<hi>知乙反</hi>塞<lb/>
+<hi>先北反</hi>正<hi>音/征</hi>陬<hi>側留子侯二反/隅也又子瑜反</hi>寎<hi>本或作窉字同郭孚柄反又況病反又匡詠反李陂病反</hi>余<hi>餘舒二音孫作舒李云余舒/也萬物生枝葉故曰舒也</hi>皐<hi>或作髙同</hi>且<lb/>
+<hi>子余反</hi>相<hi>息亮/反</hi>壯<hi>側亮/反</hi>陽<hi>本或作霷字同詩/云日月陽止是也</hi>辜<hi>音姑</hi>涂<lb/>
+<hi>音徒</hi>颽<hi>口海反/又作凱</hi>涼<hi>本或作古/字同力張反</hi>隧<hi>音/遂</hi>棼<hi>符云反本或作焚</hi>頽<lb/>
+<hi>本或作穨隤同徒回反</hi>扶<hi>如字字林/作/同</hi>摇<hi>音遥字林/作颻同</hi>猋<hi>必遥反字林作飊音同</hi>下上<hi>時掌/反</hi>庉<hi>徒衮徒昆二反/本或作炖字同</hi>熾<hi>尺志/反</hi>飄<hi>音瓢</hi>暴<lb/>
+<pb n="24b"/>
+<hi>薄報反</hi>雨土<hi>音芋下雨䨘/注雨雪同/亡皆反字林云亡/戒反本今作霾</hi>曀<hi>於計反</hi>不應<hi>於證反下同</hi>雺<hi>或作霧字同亡/公亡侯二反</hi>霧<hi>亡弄反又亡付反字林作音司本亦作霿</hi>晦<hi>音/誨</hi>冥<hi>亡定/反</hi>螮<hi>丁訃反本或/作蝃蚚同</hi>蝀<hi>丁孔反詩作東音同又德紅反</hi>雩<hi>案字林越俱反今/借爲芌音于句反</hi>虹<hi>胡公反字林云工弄反陳國武古巷反郭音講俗亦呼爲靑絳也</hi>霓<hi>五兮反如淳五結反郭五擊反音義云雄曰虹雌曰霓說文曰屈虹靑赤也一曰白色隂氣也故孟子云若大旱之望雲霓也本或作蜺漢書同</hi>挈<hi>本或作契字同苦結反</hi>
+貳<hi>而至反</hi>弇<hi>音/掩</hi>暈<hi>音/運</hi>霆<hi>徒丁反字林同又徒佞徒頂二反說文云雷餘聲鈴鈴所以挺出萬物也</hi>激<hi>古歷/反</hi>霹<hi>普覓/反</hi>靂<hi>力狄反楊雄羽獵賦云霹靂列缺吐火施鞭史記云霹靂者陽氣動也</hi>䨘<hi>本或作霰/同悉練反</hi>霄<hi>音消本亦作消說文曰雨䨘爲霄齊語也</hi>凍<hi>都貢反/郭音東</hi>令飄<hi>力呈/反</hi>先驅<hi>如字下豈俱羌句二反</hi>灑<hi>所買所綺二反</hi>霡<hi>亡革反字林作霢/音同又亡狄反</hi>霂<hi>亡禄反</hi>以上<lb/>
+<pb n="25a"/>
+<hi>時掌反</hi>濟<hi>祖細/反</hi>霽<hi>字林子系反云雨止也/郭祖禮反一音祖細反</hi>亢<hi>音剛又口浪反或户剛反</hi>數<hi>色住/反</hi>列宿<hi>夙又反/下同</hi>之長<hi>丁丈/反</hi>氐<hi>都黎反郭音觝丁禮反注云若木之有根尋義應作丁計反</hi>析木<hi>星歷/反</hi>枵<hi>許嬌反左傳云枵耗名也</hi>
+耗<hi>呼報反</hi>顓<hi>音/專</hi>頊<hi>許玊反顓頊/帝髙陽氏</hi>之虚<hi>此一字音墟下如字</hi>顁<lb/>
+<hi>本或非定同多佞反</hi>娵<hi>子瑜/反</hi>觜<hi>咨移反又/子髓反</hi>辟<hi>本又作壁布覓反今案此星有人居之角象冝爲壁</hi>降<hi>胡江反又江/巷反注同</hi>婁<hi>郎侯/反</hi>奎<hi>口圭/反</hi>昴<hi>音卯本或作鼎同</hi>旄<hi>音/毛</hi>兔<hi>佗故/反</hi>咮<hi>猪究反本或作喙許穢反說文云喙口也昌銳反</hi>
+柳<hi>力九反</hi>鶉<hi>音/純</hi>何<hi>郭胡可反又胡多反注同小爾雅云任也說文云檐也注作荷字音同</hi>檐<hi>丁甘反字林負也</hi>启<hi>口禮/反</hi>晨見<hi>賢遍反/下同</hi>篲<hi>恤遂反又似酢似銳二反本今作彗</hi>欃<hi>初銜仕/杉二反</hi>槍<hi>初庚七/羊二反</hi>孛<hi>蒲忽反/或音佩</hi>埽<hi>素報反</hi>
+彗<hi>似銳反又音遂</hi>彴<hi>蒲博歩角/皮約三反</hi>約<hi>如字又於詔/反又音握</hi>祠<hi>如字或音祀</hi>
+<pb n="25b"/>
+食<hi>音嗣</hi>礿<hi>本或作禴字/同餘弱反</hi>汋<hi>余弱反/燂菜也</hi>蒸<hi>之升/反</hi>燔<hi>音煩猶焚也</hi>柴<hi>仕皆反說文作祡云燒柴燎祭天也</hi>瘞<hi>於例於/計二反</hi>薶<hi>音埋</hi>庪<hi>本或/作<graphic n="KR0869" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0869.png" mimeType="image/png"/>
+                    又作攱同居委居僞二反</hi>縣<hi>音玄/注同</hi>沈<hi>直今/反</hi>祭星曰布<hi>李曰祭星者以祭布露地故曰布孫曰旣祭布散於地似星布列也郭云布㪚祭於地也指謂敷列羅布也</hi>磔<hi>張洛反</hi>狗<hi>音茍</hi>禷<hi>音類經/典作類</hi>禡<hi>亡駕/反</hi>禱<hi>丁老反說文亦作禂同</hi>禘<lb/>
+<hi>大計反</hi>繹<hi>以石反五經及爾雅皆作此字本/或作襗字書爲䭞鐸二字同下同</hi>復祭<hi>扶又反下注不復同</hi>肜<hi>余終/反</hi>夏曰<hi>戸雅/反</hi>復<hi>音/服</hi>昨<hi>才各反本又作祚亦作胙同才故反祚福也胙祭肉也於義並同</hi>獵<hi>力渉/反</hi>蒐<hi>色留/反</hi>捜<hi>音同/上</hi>索<hi>色白反</hi>
+任<hi>而鴆反</hi>爲苗<hi>于僞/反</hi>獮<hi>息淺反說文從/繭或作襺從示</hi>狩<hi>手又反</hi>宵<lb/>
+<hi>音消夜也字從宀若雲霄之字即從雨</hi>獠<hi>郭音遼夜獵也又力召力弔二反或作燎宵田也</hi>罼<lb/>
+<hi>音畢本又作畢</hi>載鑪<hi>力呉反字/或作壚</hi>冢<hi>竹勇/反</hi>攸<hi>音/由</hi>大社<hi>音泰下大<pb n="26a"/>常同</hi>闐闐<hi>徒天/反</hi>整<hi>之領/反</hi>治<hi>音/持</hi>綢<hi>他刀/反</hi>杠<hi>音江廣雅云天子之杠髙九仞諸侯七仞卿大夫五仞士三仞</hi>韜<hi>他刀/反</hi>纁<hi>許云/反</hi>縿<hi>本或作<graphic n="KR1490" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1490.png" mimeType="image/png"/>又作襂衫字同所銜反下同</hi>旒<hi>力周反經典亦作流廣雅云天子十二旒至地諸侯九旒至軫卿大夫七旒至轂士二旒至肩</hi>所著<hi>直畧/反</hi>陞<hi>音/升</hi>令上<hi>力呈/反</hi>綦<hi>音其本亦作纂祖管反</hi>飾<lb/>
+<hi>音式</hi>緇<hi>側基/反</hi>廣<hi>古曠/反</hi>充<hi>方言云幅/廣曰充</hi>幅<hi>音/福</hi>長尋<hi>直亮反注同</hi>旐<hi>持小反</hi>旆<hi>蒲蓋/反</hi>注<hi>之樹/反</hi>旄<hi>云襃/反</hi>旌<hi>音精本又作旍</hi>幢<lb/>
+<hi>直江反</hi>竿<hi>音/干</hi>鈴<hi>郎丁/反</hi>旂<hi>音/祈</hi>縣<hi>音/玄</hi>錯<hi>七各反又七故反</hi>旟<lb/>
+<hi>羊諸反</hi>剥<hi>北角/反</hi>鳶<hi>以專反/鴟也</hi>旃<hi>之然反世本/云黃帝作旃</hi>旌旂<hi>本又作旗凡旌旗之字皆從音偃說文云旌旗得風靡也或示旁手旁者非也</hi>
+釋地第九<hi>徒利反一音徒細反釋名云地底也其體在底下載萬物也張顯古今訓云土乙力爲地許愼注淮南子云地麗也物理論云地底也著也隂體下著禮統云地施也諦也應變施化審諦不誤</hi>
+<pb n="26b"/>
+兩河閒曰冀州<hi>郭云自東河至西河周禮云河内曰冀州韋昭注漢書云東西南北皆有河故曰河内馬融曰在東河之西西河之東南河之北李巡云兩河閒其氣淸厥性相近故曰冀冀近也</hi>河南曰豫州<hi>郭云自南河至漢也周禮亦云河南曰豫州尚書云荆河惟豫州孔傳曰西南至荆山北距河水李巡云河南其氣著密厥性安舒故曰豫豫舒也春秋元命包云豫之言序也言陽氣分布各得其處故其氣平靜多序也</hi>河西曰雝州<hi>於用反郭云自西河至黒水尚書云黒水西河惟雍州孔傳云西距黒水東據河周禮云正西曰雍州雍者擁也東崤西漢南商於北居庸四山之内擁翳也李巡云河西其氣蔽壅厥性急凶故曰雍雍壅也太康地記云雍州兼得梁州之地西北之位陽所不及隂氣壅閼故取名焉案周禮及爾雅皆無梁州則雍州兼有梁州之地也禹貢云華陽黒水惟梁州孔傳云東據華山之南西距黒水韋昭云今益州也太康地記云梁州者言西方金剛之氣彊梁故因以爲名漢時改雍州爲梁州改梁州爲益州也</hi>漢南曰荆州<hi>郭云自漢南至衡山之陽尚書云荆及衡陽惟荆州孔傳云北據荆山南及衡山之陽周禮云正南曰荆州釋</hi>
+<pb n="27a"/>
+<pb n="28a"/>
+<hi>據海西南距岱則爾雅營州爲禹貢之靑州矣營者蓋取營丘以爲號周禮云正東曰靑州博物志云營與靑同海東有靑丘齊有營丘豈是名乎太康地記云東方少陽其色靑其氣淸歳之首事之始故以靑爲名焉</hi>九州<hi>案禹平水土畫爲九州禹貢所言是也其後舜分置十二州鄭玄云舜以靑州越海而分齊爲營州兾州南北太逺分衞爲并州燕以北爲幽州新置三州并舊爲十二州也夏家依禹貢九州爾雅所言李郭以爲殷制周禮職方氏之敘列是周制也禹貢無幽并營爾雅有徐幽營而無靑梁并職方有靑幽并而無徐梁營三代不同之故也</hi>鉅<hi>音/巨</hi>陓<hi>孫於于反郭烏花反本或作紆字非也</hi>汧<hi>苦堅反字林水/出隴右扶風也</hi>諸<hi>如字左傳同尚/書作豬丁魚反</hi>濉<hi>蘇維反水名也本今作睢</hi>夢<hi>本或作蒙亡/貢亡工二反</hi>大湖<hi>音泰本/今作太</hi>隅<hi>本或作嵎/同仰于反</hi>斥<hi>音赤</hi>
+余<hi>羊如反</hi>祁<hi>巨伊反又止尸反孫/本作厎音之視反</hi>鄔<hi>於慮反字林云太/原縣也又乙袪反</hi>圃<hi>本或作字同布/古反又音布</hi>熒<hi>乎銘/反</hi>穫<hi>胡故反又/作護同</hi>瓠<hi>胡故/反</hi>十藪<hi>素口反說文云大澤也風俗通云藪厚也有草木魚鼈所以厚養人也</hi>阠<hi>音信郭尸愼反字林所人反又所愼反</hi>
+                    <graphic n="KR4249" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4249.png" mimeType="image/png"/>
+<hi>徒登反又作滕同</hi>隃<hi>戍輸/二音</hi>溴<hi>古壁/反</hi>隄<hi>丁兮/反</hi>墳<hi>扶云/反</hi>防<hi>音房</hi>八陵<lb/>
+<pb n="28b"/>
+<hi>大阜曰陵</hi>醫<hi>於其反李本/作毉音同</hi>珣<hi>胥均反又音峻說文云/周書所謂美玉讀若宣</hi>玗<hi>音于</hi>琪<lb/>
+<hi>巨疑反</hi>會<hi>古外/反</hi>稽<hi>古兮/反</hi>箭<hi>子賤/反</hi>篠<hi>悉了/反</hi>犀<hi>音/西</hi>華<hi>户花反又戸化反</hi>礝<hi>本或作碝同如兖反應劭注子虚賦/云礝石出鴈門白者若冰半有赤色</hi>霍<hi>呼郭反</hi>崐<lb/>
+<hi>音昆</hi>崘<hi>路昆/反</hi>虚<hi>羌魚/反</hi>璆<hi>其樛反/又音求</hi>琳<hi>音/林</hi>瑯<hi>音郎又/作琅同</hi>玕<hi>音干</hi>
+筋<hi>音斤本或作䈥字非</hi>厈山<hi>昌亦反又/昌夜反</hi>縟<hi>音/辱</hi>饒<hi>而遥反</hi>九府<lb/>
+<hi>府猶庫藏也</hi>鰈<hi>本或作鰨同音牒/又勑臘他盍二反</hi>牛脾<hi>婢支/反</hi>翼<hi>本或作翌又作翼又作<graphic n="KR1786" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1786.png" mimeType="image/png"/>字同/羊式反</hi>鶼鶼<hi>古恬反</hi>鳧<hi>音/扶</hi>肩<hi>音/堅</hi>卭卭<hi>本或作巨凶反</hi>
+駏<hi>音巨本或作岠又作<graphic n="KR2629" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2629.png" mimeType="image/png"/>音同</hi>驉<hi>本或作虚又作/同許伯反</hi>爲<hi>于僞/反</hi>齧<hi>五結反本或作噬謝音逝</hi>難<hi>奴旦/反</hi>蟨<hi>郭音厥孫居衞反李云卭卭岠虚能走蟨知美草即若驚難者卭卭岠虚便負蟨而走故曰比肩獸孫云卭卭岠虚狀如馬前足鹿後足兔前髙不得食而善走蟨前足鼠後足兔善求食走則倒故齧甘草則仰食卭卭岠虚卭卭岠虚負以走郭云今鴈門夏屋山中有獸形如兔而大相負共行土俗名之爲蟨<pb n="29a"/>鼠穆天子傳云卭卭岠虚走百里之類也司馬相如子虚賦云蹵卭卭轔岠虚又爲二獸也</hi>趨<hi>七俞反作趍非</hi>
+食之<hi>音嗣</hi>夏屋<hi>户雅/反</hi>迭食<hi>徒結/反</hi>更望<hi>音/庚</hi>枳<hi>本或作䅩顧音居是諸是二反郭巨冝反孫音支云蛇有枝首者名曰率然施音指案枳首謂蛇有兩頭</hi>首<hi>舒酉/反</hi>牧<hi>亡卜反養也此謂牧養之地說文從牛或作目李本牧作田字釋云田敕也謂敕列種榖之處敕音陳</hi>野<hi>本或作埜古字羊者反</hi>坰<hi>古塋/反</hi>假令<hi>力呈/反</hi>溼<hi>俗作濕/申入反/本或作/隰音習</hi>種<hi>之用反</hi>
+陂者<hi>彼冝反字林或彼義反又作坡郭音普/何反</hi>阪<hi>甫晚反字/林父板反</hi>陀<hi>大何反</hi>葘<lb/>
+<hi>本或作甾同側基反孫音災</hi>畬<hi>本或作畭同羊如/反字林弋恕反</hi>泰<hi>音/太</hi>邠<hi>本或作豳字同彼貧反說文作汾字音同</hi>濮<hi>音/卜</hi>鈆<hi>恱全/反</hi>祝<hi>章六反又/昌六反</hi>觚<hi>姜胡反本又作孤同</hi>
+西王母<hi>是西方昬荒國名又曰西王母神名狀如人虎齒豹尾蓬頭戴勝善處穴宿周穆王巡狩至崐崘山見之西王母亦來賔昭宫見出竹書及穆天子傳</hi>岠<hi>音/巨</hi>大平<hi>音泰/下同</hi>濛<hi>音蒙本今作蒙</hi>
+汜<hi>音祀一音似或云祀似同音後放此</hi>
+<pb n="29b"/>
+釋丘第十<hi>羌牛反本又作丠古字非人所爲曰丘廣雅云小陵曰丘</hi>
+敦丘<hi>郭云音頓或丁回反謝如字讀注並如後二音</hi>重也<hi>直龍反/下同</hi>壇<hi>大干反</hi>堆<lb/>
+<hi>丁回反</hi>陶<hi>徒刀反孫云/形如累兩盂</hi>濟<hi>子禮/反</hi>銳<hi>唯歳/反</hi>鑯<hi>子廉反</hi>如乗<lb/>
+<hi>本又作椉繩證反注車乗同李郭皆云形如車乗又市陵反或云如稻田塍埒下文並放此</hi>塍<hi>市陵反許叔重云稻田畦隄埒畔</hi>埒<hi>音/劣</hi>陼<hi>章汝反/下同</hi>潦<hi>力道/反</hi>泥<hi>乃兮反依字作尼又作坭</hi>
+汚<hi>音烏又烏花反本或作洿</hi>所作<hi>子各/反</hi>所還<hi>户關反又音患下同施音旋</hi>繞<lb/>
+<hi>音遶</hi>涂<hi>字又作/途音圖</hi>梧<hi>五故反/又音吾</hi>畫<hi>郭音獲謝/胡卦反</hi>渻<hi>本或作字所景反</hi>
+沮<hi>孫郭同辭與慈吕二反謝子預反施子余反</hi>湽<hi>仄其/反</hi>過<hi>古臥/反</hi>覆<hi>孚服反</hi>敦<lb/>
+者<hi>丁回反下及注同</hi>邐<hi>吕紙反說文/云邐行也</hi>迆<hi>字或作迤余紙余支二反說文云迤邪行也</hi>旄<lb/>
+<hi>謝音毛字林作嵍又作堥俱亡付反</hi>偏<hi>音/篇</hi>宛<hi>施於阮反孫云謂中央汙也郭於粉反謂藴聚隆髙也下同</hi>
+隆<hi>力躬反</hi>解<hi>古買/反</hi>背<hi>如/字</hi>定<hi>丁佞/反</hi>畝<hi>本或/作畞</hi>隴界<hi>力勇反本<pb n="30a"/>又作壟</hi>不了<hi>或作/僚</hi>故重<hi>直用/反</hi>潛<hi>昨鹽/反</hi>黎<hi>力兮/反</hi>敦<hi>丁回反</hi>碌<lb/>
+碌<hi>音禄</hi>更<hi>古孟/反</hi>魁<hi>口回/反</hi>梧<hi>五故五/胡二反</hi>傑<hi>渠列反本今作桀</hi>望厓<lb/>
+<hi>字又作涯魚佳反</hi>洒<hi>蘇典反又西/禮反下同</hi>漘<hi>音/脣</hi>坦<hi>土但/反</hi>隩<hi>字林烏到反郭於六反注及下同本或作澳</hi>隈<hi>本或作渨同烏回/反字林一由反</hi>漁<hi>音/魚</hi>鞫<hi>如字字林作㘲云隈厓外也九六反</hi>別<hi>彼列/反</hi>裏<hi>音/里</hi>畢<hi>本又作/卑吉反</hi>重厓<hi>直龍/反</hi>滸<hi>呼五反</hi>墳<hi>符紛反</hi>防<hi>音/房</hi>隄<hi>丁兮/反</hi>涘<hi>舊音/仕</hi>瀆<hi>音/獨</hi>汜<hi>音/似</hi>溦<hi>本又作湄亡悲反又音微</hi>
+釋山第十一<hi>所閑反或所旃反廣雅云土髙有石曰山山產也能產萬物也說文云山宣也宣氣散生萬物也凡天下名山五千二百七十出銅之山四百六十七出鐡之山三千六百有九</hi>
+華<hi>戸花戸化二反字林作崋同</hi>呉嶽<hi>音吾周禮職方氏正西曰雍州其山鎭曰嶽後鄭云嶽呉嶽也與郭同</hi>襲<hi>音/習</hi>亦重<hi>直龍反/下皆同</hi>坯<hi>或作伾備悲反又備美反沈五窟反韋昭音<pb n="30b"/>說文作坏</hi>崧<hi>思忠反又作嵩崧即/嵩也俱是髙大之貌</hi>岑<hi>吉金反字/林才心反</hi>崟<hi>魚金反字又作崯</hi>嶠<hi>渠驕反郭又音驕字林作/㠐云山銳而長也巨照反</hi>鑯<hi>子廉/反</hi>卑<hi>如字又音婢</hi>
+<graphic n="KR2515" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2515.png" mimeType="image/png"/>
+                    <hi>音戸或作扈</hi>巋<hi>丘軌反巋然髙峻貌字/林丘追反小山而衆也</hi>叢<hi>才公/反</hi>岌<hi>魚泣反岌髙也</hi>峘<hi>胡官反一音袁埤蒼/云峘大山又音恒</hi>過<hi>古臥/反</hi>屬<hi>章玉時欲二反謂相連屬</hi>嶧<lb/>
+<hi>羊石反說文葛嶧山在東海下邳尚書云嶧陽孤桐</hi>駱<hi>音/洛</hi>驛<hi>音/亦</hi>宛<hi>於粉/反</hi>脊<hi>音積</hi>
+岡<hi>又作皆/古郎反</hi>翠<hi>七遂/反</hi>微<hi>亡非/反</hi>近上<hi>附近/之近</hi>陂<hi>普河反又彼義反</hi>崒<hi>子恤才戌二反字/林才没子出二反</hi>厜<hi>姊規反郭才規反字林同顧視規反本或作又作嵳皆才何反</hi>㕒<hi>郭語規反字林音危顧魚竒反/本或作/又作峩皆五何反</hi>巉<hi>士杉反又士咸反</hi>嵒<hi>五咸反本又作巖字林云巉巖山貌也</hi>密<hi>又作/<graphic n="KR2250" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2250.png" mimeType="image/png"/>
+                    </hi>美樅<hi>七容反/木名</hi>盛<hi>時征反又市政反謂山形如黍稷之在器</hi>巒<hi>力官反埤蒼/云山小而銳</hi>嶞<hi>湯果反狹而長也字林云山之施嶞者大果反</hi>狹<hi>乎夾/反</hi>喬<hi>巨苗/反</hi>重<hi>直龍/反</hi>甗<hi>魚蹇反郭音言又音彦字林牛建反</hi>
+<pb n="31a"/>
+隒<hi>本或作嵰字同郭魚檢反字林云山形似重甑居儉反顧力儉力儼二反</hi>甑<hi>子孕/反</hi>厒<hi>口閣反</hi>霍<hi>許郭反</hi>別大<hi>彼列反/下注同</hi>鮮<hi>息淺反李云大山少故/曰鮮或作字又音仙</hi>陘<lb/>
+<hi>郭胡經古定二反</hi>磝<hi>字或作磽同字林口交/反郭五交五角二反</hi>礓<hi>居羊反字/林云礫也</hi>礫<hi>力的反說文云小石也</hi>礐<hi>字或作确又作㙾又作/埆郭苦角反又戸角反</hi>磐<hi>歩丸反今/作盤同</hi>岵<hi>音戸</hi>
+峐<hi>三蒼字林聲類並云猶屺字音起阮孝緒字畧音古開反</hi>埒<hi>音劣字/或作浖</hi>渟<hi>音亭亦作停同</hi>澩<hi>字林火篤反郭/同又徂學反</hi>潦<hi>音/老</hi>豄<hi>說文云古文/<graphic n="KR2902" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2902.png" mimeType="image/png"/>字徒木反</hi>谿<hi>苦奚反</hi>
+戴土<hi>本或作載字同丁代反下同</hi>崔<hi>徂回/反</hi>嵬<hi>五回/反</hi>砠<hi>說文亦作岨七余反</hi>夾<lb/>
+<hi>古洽反</hi>澞<hi>魚倶反本/又作虞</hi>岫<hi>徐究反郭音胄又/音由字林弋又反</hi>泰山<hi>一名岱宗在兖州界漢在泰山博縣又云在奉髙縣</hi>華山<hi>在豫州界漢在/弘農華隂縣</hi>霍山<hi>一名衡山在荆州界漢在長沙湘南縣又云在廬江潛縣</hi>恒山<hi>在并州界漢在常山上曲陽縣以犯漢文帝諱改爲常山</hi>
+嵩髙<hi>在豫州界漢在河南</hi>馮翊<hi>音/翼</hi>夏陽<hi>戸雅/反</hi>臨河<hi>河或</hi>
+<pb n="31b"/>
+<pb n="31b"/>
+醮<hi>子召反盡也字或作潐同</hi>厬<hi>字又作/音軌</hi>爲灉<hi>於用反或於凶反字又作澭注及下同</hi>
+沮<hi>七余反</hi>濟<hi>本又作㴉/子禮反</hi>濋<hi>初吕/反</hi>汶<hi>音/問</hi>灛<hi>字或作/同昌善反李云溢也</hi>
+沱潛<hi>徒河反下文及注並同字亦作沲</hi>滸<hi>字五/反</hi>岷<hi>亡巾/反</hi>道江<hi>徒報反本或作導</hi>
+濄<hi>又作渦謝古禾反又烏禾反本或作過</hi>洵<hi>私旬/反</hi>潁<hi>餘頃反水名在汝南吕伯雍云水出陽成乾山</hi>
+濆<hi>符云反下同字林作㳙工玄反衆爾雅本亦作㳙</hi>汧<hi>苦見苦/堅二反</hi>汜<hi>音/似</hi>灡<hi>郭力旦反又力安反下及注同李依詩作漣音連</hi>漪<hi>本又作猗/於冝反</hi>渙<hi>呼貫/反</hi>淪<hi>音/輪</hi>藴<hi>紆云紆粉二反</hi>俓<hi>古定反字或/作徑注同</hi>侹<hi>字又作挺他定反又/徒頂反俓侹直也</hi>所作<hi>子各反</hi>
+重<hi>直用反</hi>見<hi>賢徧/反</hi>厓<hi>五街/反</hi>湄<hi>本或作/㵟四字同亡悲反</hi>濟<lb/>
+<hi>子細反</hi>則厲<hi>如字本或作濿說文云濿或/作砅履石渡水也倶力曵反</hi>則揭<hi>起例反褰衣渡水也下揭者爲揭同</hi>揭衣<hi>起例反或丘竭反/說文云髙舉也</hi>褰<hi>去焉/反</hi>褌<hi>音昆</hi>繇<lb/>
+<hi>古由字下同</hi>膝<hi>字又作䣛/辛七反</hi>以上<hi>時掌反/下同</hi>泳<hi>于柄/反</hi>底<hi>丁禮反</hi>
+<pb n="32a"/>
+汎汎<hi>孚劒反</hi>紼<hi>本或作綍又作/紱同甫勿反</hi>縭<hi>力知反/下同</hi>
+                    <graphic n="KR1762" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1762.png" mimeType="image/png"/>
+                    <hi>本或作繂字同音律</hi>索<hi>悉各/反</hi>緌<hi>如誰/反</hi>造<hi>草報反廣雅作艁音同又造舟爲浮梁謂比舟舩造作橋梁或作皁案說文艁古文造也郭圖云天子並七船諸侯四大夫二士一</hi>方<hi>音舫或作舫又音方</hi>倂<lb/>
+<hi>歩丁反</hi>特<hi>大得反本/或作犆同</hi>泭<hi>音桴倂/木以渡</hi>水注<hi>之樹反/下同</hi>谿<hi>苦兮反</hi>
+澮<hi>古外反</hi>灌<hi>古亂/反</hi>處<hi>昌預/反</hi>泝<hi>蘇故反/詩作遡</hi>洄<hi>胡恢反</hi>游<lb/>
+<hi>音由</hi>江<hi>出蜀郡/岷山</hi>河<hi>出崑崙山或/云出積石</hi>淮<hi>出南陽平氏縣胎簪山亦云出桐柏山</hi>
+濟<hi>子禮反出河東垣縣王屋山或云出河内温西北平地</hi>四瀆<hi>徒木反廣雅云江貢也河何也淮均也濟濟也</hi>洲<hi>音/州</hi>小洲曰陼<hi>字又作渚章汝反本/或直云小洲曰渚</hi>沚<hi>音止本或作洔音同又音市</hi>坻<hi>本或作墀同直基/反本又作泜音同</hi>潏<hi>郭述決二音吕伯雍音同案郭圖水中自然可居者爲洲人亦於水中作洲而小不可止住者名潏水中地也</hi>河出崐<hi>古門/反</hi>崘<hi>力門反</hi>虚<lb/>
+<hi>去魚反本亦作墟</hi>色白<hi>李云河水始出其色白也孫云崑崙山名也墟者山下之地白者西方之色也郭云山海<pb n="32b"/>經曰河出崐崘西北隅墟者山下基也發源處髙激峻湊故水色白也郭音義云禹本紀及山海經皆云河出崐崘山漢書曰張騫使西域窮河源其山多玉石而不見崐崘也世人皆以此疑河不出崐崘案山海經曰東望泑澤河水之所潛也其源渾渾泡泡又云敦夢之水注于泑澤出乎崐崘之西北隅實惟河源也西域傳又云河有兩源一出葱嶺山一出于闐于闐在南山下其河北流與葱嶺之河合東注鹽澤鹽澤一名蒲昌海去玉門陽關三百餘里輪廣三四百里其水停冬夏不増減皆以爲潛行地下而南出於積石山而爲中國河云然則河出崐崘便潛行地下至葱嶺及于闐復分流歧出也張騫所見蓋謂此矣其去崐崘里數逺近所未得而詳也泑澤即鹽澤也泑音於糾反闐徒偏反圖讃云崐崘三層號曰天柱實惟河源水之靈府是也</hi>隅<hi>又作嵎堣同音魚吁反</hi>所渠并千七百一川<lb/>
+色黃<hi>李云水流而分交錯相穿故曰川也孫云所受渠多轉流溷濁故色黃郭云潛流地中汨潄沙壤所受渠多衆水溷淆冝其濁黃</hi>汨<hi>于筆反流冰也方言云遥/疾行也字林云水聲急也</hi>潄<hi>色救反</hi>溷<lb/>
+<hi>户本反又戸困反謂雜亂字或作渾同</hi>淆<hi>戸交反本亦作濁</hi>百里一小曲千里<lb/>
+一曲一直<hi>李云水勢小曲乃大直也故曰小曲水隂節每一曲一直通無極也故曰千里一曲一直郭云公羊<pb n="33a"/>傳云河曲流河千里一曲一直也</hi>徒駭<hi>李云禹䟽九河以徒衆起故曰徒駭孫云禹䟽九河此河功難衆懼不成故曰徒駭</hi>大<hi>謝音泰孫如/字本今作太</hi>史<hi>李孫云禹大使徒衆於此通水故曰大史或云太史者史官記事之處</hi>馬頰<hi>李孫郭並云河勢上廣下狹狀如馬頰也</hi>狹<hi>胡夾/反</hi>覆<hi>孚腹反</hi>鬴<lb/>
+<hi>郭云古釡字李孫郭並云水中多渚往往而有可居之處狀如覆釡之形</hi>胡蘇<hi>李云其水下流故曰胡蘇胡下蘇流也孫云水流多散/胡蘇然也</hi>簡<hi>古限反李孫並云河水深/而簡大也郭云水道簡易</hi>易<hi>以豉反</hi>
+絜<hi>戸結反孫郭並云水多約絜又苦八反李云河水多山石之苦故曰絜絜苦也或音呼節反又音結</hi>鉤<lb/>
+<hi>古侯反</hi>般<hi>歩干反本又作盤李本作股云水曲如鉤折如人股故曰鉤股孫郭同云水曲如鉤流盤桓不直前也</hi>鬲<hi>音革施力的反與今注不同</hi>津<hi>李云河水狹小可隔以爲津故曰鬲津孫郭同云水多阨狹可隔以爲津而橫渡</hi>阨<hi>於懈/反</hi>隔<hi>音/革</hi>九河<hi>案禹貢在兖州界郭云徒駭今在成平縣胡蘇在東莞縣鬲津今皆爲縣屬平原郡周時齊桓公塞九河并爲一自鬲津以北至徒駭二百餘里渤海東莞成平平原河閒弓髙以東往往有其處焉</hi>
+經典釋文卷第二十九<lb/>
+<pb n="33b"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

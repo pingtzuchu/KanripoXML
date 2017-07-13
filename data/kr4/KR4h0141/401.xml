@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_401-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選巻四百二<lb/>
+　　豹類<lb/>
+　　　七言古<hi>附長短句</hi>
+　　　　臘日觀咸寧王部曲娑勒擒豹歌<lb/>
+　　　　　　　　　　　　　　　　<hi>唐</hi>盧　綸<lb/>
+　山頭曈曈日將出山下獵圍照初日前林有獸未識名<lb/>
+　將軍促騎無人聲潜形踠伏草不動雙雕旋轉羣鴉鳴<lb/>
+<pb n="KR4h0141_WYG_401-1b"/>
+　隂方質子才三十譯語受詞番語揖捨鞍解甲疾如風<lb/>
+　人忽虎蹲獸人立歘然扼吭批其頤爪牙委地涎淋漓<lb/>
+　既蘇復吼拗仍怒果決英謀生致之拖自深叢目如電<lb/>
+　萬夫失容千馬戰傳呼賀拜聲相連殺氣騰陵隂滿川<lb/>
+　始知縛虎如縛䑕敗敵降羗生眼前祝爾嘉詞爾毋苦<lb/>
+　獻爾將随犀象舞苑中流水禁中山期爾攫搏開天顔<lb/>
+　非熊之兆慶無極願紀雄名傳百蠻<lb/>
+　　　　文豹篇贈王介夫　　　　　<hi>宋</hi>梅堯臣<lb/>
+<pb n="KR4h0141_WYG_401-2a"/>
+　壯哉南山豹不畏白額虎澤霧毛雖雜鼮䑕朝捋其鬚<lb/>
+　暮飲乳文章子雲久巳許還笑大夫費五羖天子仗中<lb/>
+　儀物舉尾與旂常願看取<lb/>
+　　　五言律<lb/>
+　　　　詠豹　　　　　　　　　　<hi>唐</hi>李　嶠<lb/>
+　車法肇宗周鼷文闡大猷還將君子變来藴太公籌委<lb/>
+　質超羊鞟飛名列虎侯若令逢雨露長隠南山幽<lb/>
+　　　七言絶句<lb/>
+<pb n="KR4h0141_WYG_401-2b"/>
+　　　　雨中贈仙人山賈山人　　　<hi>唐</hi>柳宗元<lb/>
+　寒江夜雨聲潺潺曉雲遮盡仙人山遥知𤣥豹在深處<lb/>
+　下笑羈絆泥塗間<lb/>
+　　　　灤京雜詠　　　　　　　　<hi>元</hi>楊允孚<lb/>
+　撒道黄塵輦路過香焚萬室格天和兩行排列金錢豹<lb/>
+　欽察將軍上馬駝<lb/>
+　<lb/>
+御定佩文齋詠物詩選巻四百二<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

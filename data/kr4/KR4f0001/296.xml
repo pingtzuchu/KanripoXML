@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4f0001_WYG_296-1a"/>
+　欽定四庫全書<lb/>
+聖祖仁皇帝御製文第三集巻五十目録<lb/>
+　　熱河三十六景詩<lb/>
+　　　　烟波致爽<hi>并序</hi>
+　　　　芝逕雲隄<hi>并序</hi>
+　　　　無暑清凉<hi>并序</hi>
+　　　　延薫山館<hi>并序</hi>
+　　　　水芳巖秀<hi>并序</hi>
+<pb n="KR4f0001_WYG_296-1b"/>
+　　　　萬壑松風<hi>并序</hi>
+　　　　松鶴清越<hi>并序</hi>
+　　　　雲山勝地<hi>并序</hi>
+　　　　四面雲山<hi>并序</hi>
+　　　　北枕雙峰<hi>并序</hi>
+　　　　西嶺晨霞<hi>幷序</hi>
+　　　　錘峰落照<hi>并序</hi>
+　　　　南山積雪<hi>并序</hi>
+<pb n="KR4f0001_WYG_296-2a"/>
+　　　梨花伴月<hi>并序</hi>
+　　　曲水荷香<hi>并序</hi>
+　　　風泉清聼<hi>并序</hi>
+　　　濠濮間想<hi>并序</hi>
+　　　天宇咸暢<hi>并序</hi>
+　　　暖溜暄波<hi>并序</hi>
+　　　泉源石壁<hi>并序</hi>
+　　　青楓綠嶼<hi>并序</hi>
+<pb n="KR4f0001_WYG_296-2b"/>
+　　　鶯囀喬木<hi>并序</hi>
+　　　香逺益清<hi>幷序</hi>
+　　　金蓮映日<hi>并序</hi>
+　　　逺近泉聲<hi>并序</hi>
+　　　雲帆月舫<hi>并序</hi>
+　　　芳渚臨流<hi>并序</hi>
+　　　雲容水態<hi>并序</hi>
+　　　澄泉遶石<hi>并序</hi>
+<pb n="KR4f0001_WYG_296-3a"/>
+　　　澄波疊翠<hi>并序</hi>
+　　　石磯觀魚<hi>并序</hi>
+　　　鏡水雲岑<hi>并序</hi>
+　　　雙湖夾鏡<hi>并序</hi>
+　　　長虹飲練<hi>并序</hi>
+　　　甫田叢樾<hi>并序</hi>
+　　　水流雲在<hi>并序</hi>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

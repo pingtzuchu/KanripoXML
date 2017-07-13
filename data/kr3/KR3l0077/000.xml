@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>隨𨼆漫録</head>
+    <p>
+<pb n="KR3l0077_WYG_000-1a"/>
+欽定四庫全書　　　　　子部十二<lb/>
+　隨𨼆漫録　　　　　　　小說家𩔖一<hi>雜事之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案隨𨼆漫録五卷舊本題宋臨川陳<lb/>
+　　　　隨𨼆撰葢後人以書中自稱隨𨼆而稱陳郁<lb/>
+　　　　為先君知為臨川陳姓故題此名寔則隨𨼆<lb/>
+　　　　非名也據所載錢舜選詩其人嘗於理宗景<lb/>
+　　　　定四年以布衣官東宫掌書又載辛巳八月<lb/>
+<pb n="KR3l0077_WYG_000-1b"/>
+　　　　己丑為元世祖至元十八年則其人葢已入<lb/>
+　　　　元案劉壎𨼆居通議載宋度宗御批一道云<lb/>
+　　　　令㫖付藏一所有陳世崇詩文稿都好可再<lb/>
+　　　　揀㡬篇来在来日定要千萬千萬四月五日<lb/>
+　　　　辰初付陳藏一壎跋其後以為在春宫時盛<lb/>
+　　　　年潛躍汲汲斯文惜不遇園綺羽翼乃下訪<lb/>
+　　　　藏一父子之卑陋藏一為郁字則其子當即<lb/>
+　　　　世崇證以書中所記與此批皆脗合知隨𨼆<lb/>
+<pb n="KR3l0077_WYG_000-2a"/>
+　　　　即世崇號也其書多記同時人詩詞而於南<lb/>
+　　　　宋故事言之尤詳如紫宸殿上夀儀賜太子<lb/>
+　　　　玉食批直書閣夫人名數孩兒班服飾孟享<lb/>
+　　　　駕出儀太子問安展書儀帶格三十二種諸<lb/>
+　　　　條頗有史𫝊所未及者他所記詩話雜事亦<lb/>
+　　　　多可采其第二卷内論漢平帝后晉愍懐太<lb/>
+　　　　子妃以下五條皆借古事以寓宋亡後臣降<lb/>
+　　　　君辱之慘與所以致敗之由而終無一言之<lb/>
+<pb n="KR3l0077_WYG_000-2b"/>
+　　　　顯斥猶有黍離詩人悱惻忠厚之遺焉尤非<lb/>
+　　　　他説部所及也乾隆四十三年九月恭校上<lb/>
+　　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

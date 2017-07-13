@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2a0029_WYG_226-1a"/>
+　舊五代史巻一百十三攷證<lb/>
+周太祖紀四又殺牛族素與野雞族有憾　殺牛族原<lb/>
+　本作殺牛于族攷通鑑五代㑹要宋史東都事略俱<lb/>
+　作殺牛族知原本于字衍今刪<lb/>
+以前西京留守莒國公王守恩為左衛上将軍王守恩<lb/>
+　原本作守思今據通鑑改正<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2a0029_WYG_226-1b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　舊五代史卷一百十三攷證<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

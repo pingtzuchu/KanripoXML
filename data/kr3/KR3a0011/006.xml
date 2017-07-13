@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3a0011_SBCK_006-1a"/>
+䟦申鍳注後<lb/>
+右荀悅申鍳五卷乃吳郡黄文學勉之所注<lb/>
+也漢史載悅為獻帝黄門侍郎是時政移曹<lb/>
+操故申漢故事以為帝鍳及泄所藴負共五<lb/>
+篇以上一曰政體二曰時事三曰俗嫌四曰<lb/>
+雜言上五曰雜言下皆深切時弊關治化人<lb/>
+君所當遵行者悅之用心可謂勤矣勉之感<lb/>
+其所遭而<lb/>
+先帝之時適有姧臣心迹如操者竊弄威柄<lb/>
+<pb n="KR3a0011_SBCK_006-1b"/>
+遂憤激為注此書共得萬四千餘言中所引<lb/>
+據又皆漢事尤為博洽少傅守谿王公謂其<lb/>
+有感而為者誠然㢤昔揚雄自言所著太玄<lb/>
+經後世必有知子雲者今觀勉之之注殆亦<lb/>
+深知荀悅者與<lb/>
+正德<graphic n="KR0605" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0605.png" mimeType="image/png"/>巳冬十一月望白巗山人喬宇識<lb/>
+<pb n="KR3a0011_SBCK_006-2a"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

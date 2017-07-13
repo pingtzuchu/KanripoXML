@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>追昔遊集</head>
+    <p>
+<pb n="KR4c0066_WYG_000-1a"/>
+欽定四庫全書　　　　　集部二<lb/>
+　追昔遊集　　　　　　　别集類一<hi>唐</hi>
+　　提要<lb/>
+　　　　臣等謹案追昔遊集三巻唐李紳撰紳字公<lb/>
+　　　　垂亳州人元和元年進士武宗時為中書侍<lb/>
+　　　　即同中書門下平章事事蹟具唐書本傳此<lb/>
+　　　　集皆其未為相時所作晁公武讀書志載前<lb/>
+　　　　有開成戊午八月紳自序此本無之詩凡一<lb/>
+<pb n="KR4c0066_WYG_000-1b"/>
+　　　　百一首新唐書本傳所載貶端州司馬禱神<lb/>
+　　　　灘漲及㓨夀州虎不為暴為河南尹惡少斂<lb/>
+　　　　迹皆語出此集史傳事須寔録而宋祁以紳<lb/>
+　　　　所自言者為據殊乖徵信之義且考紳之赴<lb/>
+　　　　端州也在夏秋之間其妻子舟行十月始至<lb/>
+　　　　其時灘水減矣故以書祝媪龍祠而江復漲<lb/>
+　　　　紳詩内及所自注者如此祁乃以為紳自度<lb/>
+　　　　嶺時事是閲其集亦未審後儒以名之輕重<lb/>
+<pb n="KR4c0066_WYG_000-2a"/>
+　　　　為文之是非必謂新書勝舊書似非篤論也<lb/>
+　　　　紳與李徳裕元稹號三俊白居易亦有笑勸<lb/>
+　　　　迂辛酒閒吟短李詩句今觀此集音節嘽緩<lb/>
+　　　　似不能與同時諸人角爭強弱然舂容恬雅<lb/>
+　　　　無雕琢細碎之習其格究在晩唐諸人刻畫<lb/>
+　　　　纖巧之上也乾隆四十三年五月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　總　校　官<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

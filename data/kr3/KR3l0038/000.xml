@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>後山談叢</head>
+    <p>
+<pb n="KR3l0038_WYG_000-1a"/>
+欽定四庫全書　　　　　子部十二<lb/>
+　後山談叢　　　　　　　小説家𩔖一<hi>雜事之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案後山談叢四卷宋陳師道撰師道<lb/>
+　　　　字無已後山其别號也彭城人以薦為棣州<lb/>
+　　　　教授徽宗時官至秘書省正字事蹟具宋史<lb/>
+　　　　文苑傳陸游老學庵筆記頗疑此書之偽又<lb/>
+　　　　以為或其少作然師道後山集前有其門人<lb/>
+<pb n="KR3l0038_WYG_000-1b"/>
+　　　　魏衍附記稱談叢詩話别自為卷則是書實<lb/>
+　　　　出師道手又第四卷中記蘇軾卒時太學諸<lb/>
+　　　　生為飯僧考軾卒於徽宗建中靖國元年六<lb/>
+　　　　月師道亦以是年十一月二十九日從祀南<lb/>
+　　　　郊感寒疾卒則末年所作非少年所作審矣<lb/>
+　　　　洪邁容齋隨筆議其載呂許公惡韓范富一<lb/>
+　　　　條丁文簡陷蘇子羙以撼杜祁公一條丁晋<lb/>
+　　　　公賂中使沮張乖厓一條張乖厓買田宅自<lb/>
+<pb n="KR3l0038_WYG_000-2a"/>
+　　　　汚一條皆爽其實今考之良信然邁稱其筆<lb/>
+　　　　力髙簡必傳於後世不云他人所<graphic n="KR0915" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0915.png" mimeType="image/png"/>托邁去<lb/>
+　　　　師道不逺且其考證不草草知陸游之言未<lb/>
+　　　　免失之臆斷也乾隆四十六年十一月恭校<lb/>
+　　　　上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>本草綱目圖卷中之中</head> <lb/>
+    <p>
+<pb n="KR3e0079_WYG_004-1a"/>
+欽定四庫全書<lb/>
+　本草綱目圖卷中之中<lb/>
+　　　　　　　　　　　　明　李時珍　撰<lb/>
+　草部十一<lb/>
+　　有名未用<lb/>
+　穀部一<lb/>
+　　麻麥稻類<lb/>
+　穀部二<lb/>
+<pb n="KR3e0079_WYG_004-1b"/>
+　　稷粟類<lb/>
+　穀部三<lb/>
+　　菽豆類<lb/>
+　菜部一<lb/>
+　　葷辛類<lb/>
+　菜部二<lb/>
+　　柔滑類<lb/>
+　菜部三<lb/>
+<pb n="KR3e0079_WYG_004-2a"/>
+　　蓏菜類<lb/>
+　菜部四<lb/>
+　　水菜類<lb/>
+<pb n="KR3e0079_WYG_004-3a"/>
+</p>
+<p>
+<pb n="KR3e0079_WYG_004-4a"/>
+</p>
+<p>
+<pb n="KR3e0079_WYG_004-5a"/>
+</p>
+<p>
+<pb n="KR3e0079_WYG_004-6a"/>
+</p>
+<p>
+<pb n="KR3e0079_WYG_004-7a"/>
+</p>
+<p>
+<pb n="KR3e0079_WYG_004-8a"/>
+</p>
+<p>
+<pb n="KR3e0079_WYG_004-9a"/>
+</p>
+<p>
+<pb n="KR3e0079_WYG_004-10a"/>
+</p>
+<p>
+<pb n="KR3e0079_WYG_004-11a"/>
+</p>
+<p>
+<pb n="KR3e0079_WYG_004-12a"/>
+</p>
+<p>
+<pb n="KR3e0079_WYG_004-13a"/>
+</p>
+<p>
+<pb n="KR3e0079_WYG_004-14a"/>
+</p>
+<p>
+<pb n="KR3e0079_WYG_004-15a"/>
+</p>
+<p>
+<pb n="KR3e0079_WYG_004-16a"/>
+</p>
+<p>
+<pb n="KR3e0079_WYG_004-17a"/>
+</p>
+<p>
+<pb n="KR3e0079_WYG_004-18a"/>
+</p>
+<p>
+<pb n="KR3e0079_WYG_004-19a"/>
+</p>
+<p>
+<pb n="KR3e0079_WYG_004-20a"/>
+</p>
+<p>
+<pb n="KR3e0079_WYG_004-21a"/>
+</p>
+<p>
+<pb n="KR3e0079_WYG_004-22a"/>
+</p>
+<p>
+<pb n="KR3e0079_WYG_004-23a"/>
+</p>
+<p>
+<pb n="KR3e0079_WYG_004-24a"/>
+</p>
+<p>
+<pb n="KR3e0079_WYG_004-25a"/>
+</p>
+<p>
+<pb n="KR3e0079_WYG_004-26a"/>
+</p>
+<p>
+<pb n="KR3e0079_WYG_004-27a"/>
+</p>
+<p>
+<pb n="KR3e0079_WYG_004-28a"/>
+</p>
+<p>
+<pb n="KR3e0079_WYG_004-29a"/>
+</p>
+<p>
+<pb n="KR3e0079_WYG_004-30a"/>
+</p>
+<p>
+<pb n="KR3e0079_WYG_004-31a"/>
+</p>
+<p>
+<pb n="KR3e0079_WYG_004-32a"/>
+</p>
+<p>
+<pb n="KR3e0079_WYG_004-33a"/>
+</p>
+<p>
+<pb n="KR3e0079_WYG_004-34a"/>
+</p>
+<p>
+<pb n="KR3e0079_WYG_004-35a"/>
+</p>
+<p>
+<pb n="KR3e0079_WYG_004-36a"/>
+</p>
+<p>
+<pb n="KR3e0079_WYG_004-37a"/>
+</p>
+<p>
+<pb n="KR3e0079_WYG_004-38a"/>
+</p>
+<p>
+<pb n="KR3e0079_WYG_004-39a"/>
+</p>
+<p>
+<pb n="KR3e0079_WYG_004-40a"/>
+</p>
+<p>
+<pb n="KR3e0079_WYG_004-41a"/>
+</p>
+<p>
+<pb n="KR3e0079_WYG_004-42a"/>
+</p>
+<p>
+<pb n="KR3e0079_WYG_004-43a"/>
+</p>
+<p>
+<pb n="KR3e0079_WYG_004-44a"/>
+</p>
+<p>
+<pb n="KR3e0079_WYG_004-45a"/>
+</p>
+<p>
+<pb n="KR3e0079_WYG_004-46a"/>
+</p>
+<p>
+<pb n="KR3e0079_WYG_004-47a"/>
+</p>
+<p>
+<pb n="KR3e0079_WYG_004-48a"/>
+</p>
+<p>
+<pb n="KR3e0079_WYG_004-49a"/>
+</p>
+<p>
+<pb n="KR3e0079_WYG_004-50a"/>
+</p>
+<p>
+<pb n="KR3e0079_WYG_004-51a"/>
+</p>
+<p>
+<pb n="KR3e0079_WYG_004-52a"/>
+</p>
+<p>
+<pb n="KR3e0079_WYG_004-53a"/>
+</p>
+<p>
+<pb n="KR3e0079_WYG_004-54a"/>
+</p>
+<p>
+<pb n="KR3e0079_WYG_004-55a"/>
+</p>
+<p>
+<pb n="KR3e0079_WYG_004-56a"/>
+</p>
+<p>
+<pb n="KR3e0079_WYG_004-57a"/>
+</p>
+<p>
+<pb n="KR3e0079_WYG_004-58a"/>
+</p>
+<p>
+<pb n="KR3e0079_WYG_004-59a"/>
+</p>
+<p>
+<pb n="KR3e0079_WYG_004-60a"/>
+</p>
+<p>
+<pb n="KR3e0079_WYG_004-61a"/>
+</p>
+<p>
+<pb n="KR3e0079_WYG_004-62a"/>
+</p>
+<p>
+<pb n="KR3e0079_WYG_004-63a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3e0079_WYG_004-63b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　本草綱目圖卷中之中<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

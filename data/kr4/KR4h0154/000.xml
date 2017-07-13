@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>二家詩選</head>
+    <p>
+<pb n="KR4h0154_WYG_000-1a"/>
+欽定四庫全書　　　　　集部八<lb/>
+　二家詩選　　　　　　　總集類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案二家詩選二巻<lb/>
+　　　國朝王士禎删録明徐禎卿高叔嗣二人詩也<lb/>
+　　　　明自𢎞治以迄嘉靖前後七子軌範畧同惟<lb/>
+　　　　禎卿叔嗣雖名列七子之中而泊然於聲華<lb/>
+　　　　馳逐之外其人品本高其詩亦上規陶謝下<lb/>
+<pb n="KR4h0154_WYG_000-1b"/>
+　　　　摹韋栁清㣲婉約寄託遥深於七子為别調<lb/>
+　　　　越一二百年李何為衆口所攻而二人則物<lb/>
+　　　　無異議王世懋之所論其言竟果騐焉<hi>語詳蘓門</hi>
+　　　　<hi>集條下</hi>豈非務外飾者所得淺具内心者所造<lb/>
+　　　　深乎士禎之詩實沿其派故合二人所作簡<lb/>
+　　　　其菁華編為此集禎卿詩多取迪功集其少<lb/>
+　　　　年之作見於外集别集者十不存一叔嗣惟<lb/>
+　　　　取其五言詩其七言則闕焉取所長而棄所<lb/>
+<pb n="KR4h0154_WYG_000-2a"/>
+　　　　短二人佳什亦約畧備於是矣乾隆四十六<lb/>
+　　　　年四月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

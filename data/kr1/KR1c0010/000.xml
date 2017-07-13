@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>蘇氏詩集傳</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　經部三<lb/>
+　蘇氏詩集傳　　　　　詩類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案蘇氏詩集傳二十卷宋蘇轍撰其説以詩<lb/>
+　　　　之小序反復繁重類非一人之詞疑為毛公之學衛<lb/>
+　　　　宏之所集錄因惟存共𤼵端一言而以下餘文悉<lb/>
+　　　　從刪汰案禮記曰騶虞者樂官備也貍首者<lb/>
+　　　　樂㑹時也采蘋者樂循法也是足見古人言<lb/>
+<pb n="1b"/>
+　　　　詩率以一語括其㫖小序之體實肇於斯王<lb/>
+　　　　應麟韓詩考所載如闗雎刺詩也芣苢傷夫<lb/>
+　　　　有惡疾也漢廣恱人也汝墳辭家也蝃蝀刺<lb/>
+　　　　奔女也黍離伯封作也賓之初筵衛武公飲<lb/>
+　　　　酒悔過也劉元世元城語錄亦曰少年嘗記<lb/>
+　　　　讀韓詩<hi>案崇文總目韓詩北宋尚存范處義逸齋詩補傳謂韓詩世罕有之此語</hi>
+　　　　<hi>不可信葢偶未考</hi>有雨無極篇序云正大夫刺幽王<lb/>
+　　　　也首云雨無其極傷我稼穡云云是韓詩序<lb/>
+<pb n="2a"/>
+　　　　亦括以一語也又蔡邕書石經悉本魯詩所<lb/>
+　　　　作獨斷載周頌序三十一章大致皆與毛詩<lb/>
+　　　　同而但有首句是魯詩序亦括以一語也轍<lb/>
+　　　　取小序首句為毛公之學不為無見史傳言<lb/>
+　　　　詩序者以後漢書為近古而儒林傳稱謝曼<lb/>
+　　　　卿善毛詩乃為其訓衛宏從曼卿受學因作<lb/>
+　　　　毛詩序轍以為衛宏所集錄亦不為無徵唐<lb/>
+　　　　成伯瑜作毛詩指說雖亦以小序為出子夏<lb/>
+<pb n="2b"/>
+　　　　然其言曰衆篇之小序子夏惟裁初句耳葛<lb/>
+　　　　覃后妃之本也鴻雁美宣王也如此之類是<lb/>
+　　　　也其下皆大毛公自以詩中之意而繫其詞<lb/>
+　　　　云云然則惟取序首伯瑜已先言之不自轍<lb/>
+　　　　創矣厥後王得臣程大昌李樗皆以轍說為<lb/>
+　　　　祖良有由也轍自序又曰獨採其可者見于<lb/>
+　　　　今傳其尤不可者皆明著其失則轍于毛氏<lb/>
+　　　　之學亦不激不隨務持其平者而朱翌猗覺<lb/>
+<pb n="3a"/>
+　　　　竂雜記乃曰蘇子由解詩不用詩序亦未識<lb/>
+　　　　轍之本志矣乾隆四十年十二月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

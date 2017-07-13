@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0140_WYG_009-1a"/>
+　欽定四庫全書<lb/>
+御定全唐詩巻九<lb/>
+　　蜀太后徐氏<lb/>
+　成都徐耕生二女皆有國色能為詩蜀王建納之姊為<lb/>
+　賢妃娣為淑妃王衍即位冊賢妃為順聖太后淑妃為<lb/>
+　翊聖太妃咸康元年衍奉太后太妃同禱青城山凡游<lb/>
+　歴之處各賦詩刻於石共十六首<lb/>
+　　　　丈人觀<lb/>
+<pb n="KR4h0140_WYG_009-1b"/>
+　早與元妃慕至化<hi>一作𤣥</hi>同躋靈嶽訪眞仙當時信有壺<lb/>
+　中景今<hi>一作此</hi>日親來洞裏天儀仗影空寥廓外金絲聲<lb/>
+　揭翠㣲巔惟慙未致華胥理徒卜<hi>一作祝</hi>昇平萬萬年<lb/>
+　　　　𤣥都觀<lb/>
+　千尋緑嶂夾流溪登眺因知海<hi>一作衆</hi>岳低瀑布迸舂青<lb/>
+　石碎輪茵横翦翠峯齊歩黏苔蘚龍橋滑日閉煙蘿<hi>一作</hi>
+　<hi>巒</hi>鳥徑迷莫道穹天無路到此山便是碧雲梯<lb/>
+　　　　丈人觀謁先帝御容<lb/>
+<pb n="KR4h0140_WYG_009-2a"/>
+聖帝歸梧野躬來謁聖顏旋登三徑路似陟九嶷山日<lb/>
+照堆嵐迥雲横積翠間期修封禪禮方俟再躋攀<lb/>
+　　　題金華宫<lb/>
+再到金華頂𤣥都訪道回雲披分景象黛鎻<hi>一作斂</hi>顯樓<lb/>
+臺雨滌前山淨風吹去路開翠屏夾流水何必羡蓬萊<lb/>
+　　　丹景山至徳寺<lb/>
+周囘雲水遊丹景因與眞妃眺上方晴日曉升金晃曜<lb/>
+寒泉夜落玉丁當松梢月轉琴栖影柏徑風牽麝食香<lb/>
+<pb n="KR4h0140_WYG_009-2b"/>
+䖍煠六銖宜鑄祀惟祈聖祉保遐昌<lb/>
+　　　題彭州陽平化<lb/>
+尋眞游勝境廵禮到陽平水逺波瀾碧山髙氣象清殿<lb/>
+嚴孫氏貌碑暗係師名夜月登壇醮<hi>一作夜醮古壇月</hi>松風森<lb/>
+磬聲<lb/>
+　　　三學山夜看聖燈<lb/>
+䖍禱游靈境元妃夙志同玉香焚静夜銀燭炫遼空泉<lb/>
+潄雲根月鐘敲檜杪風印金標聖迹飛石顯神功滿望<lb/>
+<pb n="KR4h0140_WYG_009-3a"/>
+天涯極平臨日脚紅猿來齋石上僧集講筵中頓作超<lb/>
+三界渾疑證六通願成修偃化社稷保延洪<lb/>
+　　　題天廻驛<lb/>
+周遊靈境散幽情千里江山暫得行所恨風<hi>一作煙</hi>光看<lb/>
+未足却驅金翠入龜城<lb/>
+　蜀太妃徐氏<lb/>
+　　　丈人觀<lb/>
+獲陪翠輦喜殊常同渉仙壇豈厭長不羡乘鸞入煙霧<lb/>
+<pb n="KR4h0140_WYG_009-3b"/>
+此中便是五雲鄉<lb/>
+　　　𤣥都觀<lb/>
+登尋丹壑到𤣥都接日紅霞照座隅即向周回巖下看<lb/>
+似看曾進畫圖無<lb/>
+　　　游丈人觀謁先帝御容<lb/>
+共謁御容儀還同在禁闈笙歌<hi>一作篁</hi>喧寶殿彩仗耀金<lb/>
+徽清淚霑羅袂紅霞拂繡衣九嶷山水逺無路繼湘妃<lb/>
+　　　題金華宫<lb/>
+<pb n="KR4h0140_WYG_009-4a"/>
+碧煙<hi>一作雲</hi>紅霧漾<hi>一作/撲</hi>人衣宿露蒼<hi>一作沾</hi>苔石徑危風<lb/>
+巧觧吹松上曲蝶嬌頻采臉邊脂同尋僻境思攜手暗<lb/>
+指遥山學畫睂好把身心清淨處<hi>一作出</hi>角冠霞帔事希<lb/>
+夷<lb/>
+　　　和題丹景山至徳寺<lb/>
+丹景山頭宿梵宫玉輪<hi>一作軒</hi>金輅駐虚空軍持無水注<lb/>
+寒碧蘭若有花開晩紅武士盡排青嶂下内人皆在講<lb/>
+筵中我家帝子傳王業積善終期四海同<lb/>
+<pb n="KR4h0140_WYG_009-4b"/>
+　　　題彭州陽平化<lb/>
+雲浮翠輦屆陽平眞似驂鸞到上清風起半厓聞虎嘯<lb/>
+雨來當面見龍行晩尋水澗聽松韻夜上星壇看月明<lb/>
+長恐前身居此境玉皇教向錦城生<lb/>
+　　　三學山夜看聖燈<lb/>
+聖燈千萬炬旋向碧空生細雨濕<hi>一作瀝</hi>不暗好風吹更<lb/>
+明磬敲金地響僧唱梵天聲若說無心法此光如有情<lb/>
+　　　題天廻驛<lb/>
+<pb n="KR4h0140_WYG_009-5a"/>
+　翠驛紅亭近玉京夢魂猶是在青城比來出看江山景<lb/>
+　却被江山看出行<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR4h0140_WYG_009-5b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定全唐詩巻九<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

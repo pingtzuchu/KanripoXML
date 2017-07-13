@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>本草綱目卷五十一目録</head> <lb/>
+    <p>
+<pb n="KR3e0079_WYG_118-1a"/>
+欽定四庫全書<lb/>
+　本草綱目卷五十一目録<lb/>
+　　獸之二　　　獸類三十八種<hi>内附十一種</hi>
+　　　獅<hi>綱目</hi>
+　　　虎<hi>别録搜酋耳駮馬渠  黄腰附</hi>
+　　　豹<hi>别録</hi>
+　　　貘<hi>圖經</hi>
+　　　象<hi>開寳</hi>
+<pb n="KR3e0079_WYG_118-1b"/>
+　　　犀<hi>本經</hi>
+　　　犛牛<hi>綱目支犩牛<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>牛海牛日  牛山牛附</hi>
+　　　牦牛<hi>綱目</hi>
+　　　野馬<hi>綱目</hi>
+　　　野豬<hi>唐本草</hi>
+　　　豪豬<hi>綱目</hi>
+　　　熊<hi>本經附羆魋</hi>
+　　　麢羊<hi>本經附山驢</hi>
+<pb n="KR3e0079_WYG_118-2a"/>
+　　　山羊<hi>日用</hi>
+　　　鹿<hi>本經</hi>
+　　　麋<hi>本經</hi>
+　　　雙頭鹿<hi>拾遺</hi>
+　　　麂<hi>開寳</hi>
+　　　麞<hi>别録</hi>
+　　　麝<hi>本經</hi>
+　　　靈貓<hi>拾遺</hi>
+<pb n="KR3e0079_WYG_118-2b"/>
+　　　貓<hi>蜀本草</hi>
+　　　貍<hi>别録</hi>
+　　　風貍<hi>拾遺</hi>
+　　　狐<hi>别録</hi>
+　　　貉<hi>衍義</hi>
+　　　貒<hi>唐本草</hi>
+　　　貛<hi>食物</hi>
+　　　木狗<hi>綱目</hi>
+<pb n="KR3e0079_WYG_118-3a"/>
+　　　豺<hi>唐本草</hi>
+　　　狼<hi>拾遺</hi>
+　　　兔<hi>别録</hi>
+　　　敗筆<hi>唐本草</hi>
+　　　山獺<hi>綱目</hi>
+　　　水獺<hi>别録</hi>
+　　　海獺<hi>拾遺</hi>
+　　　腽肭獸<hi>開寳</hi>
+<pb n="KR3e0079_WYG_118-3b"/>
+　　　猾<hi>炮炙論</hi>
+　　　　右附方舊八十七新一百四十六<lb/>
+　　獸之三　　　䑕類一十二種<hi>内附九種</hi>
+　　　䑕<hi>别録冷鼨䑕<graphic n="KR0146" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0146.png" mimeType="image/png"/>䑕<graphic n="KR0146" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0146.png" mimeType="image/png"/>
+                        <graphic n="KR0146" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0146.png" mimeType="image/png"/>鼩鼱水鼠  鼠火䑕鼵䑕蟨鼠附</hi>
+　　　鼹鼠<hi>别録</hi>
+　　　隱鼠<hi>拾遺</hi>
+　　　鼫鼠<hi>綱目</hi>
+　　　竹䶉<hi>綱目</hi>
+<pb n="KR3e0079_WYG_118-4a"/>
+　　　土撥鼠<hi>拾遺</hi>
+　　　貂鼠<hi>綱目</hi>
+　　　黄鼠<hi>綱目</hi>
+　　　鼬鼠<hi>綱目狼即鼠</hi>
+　　　鼷鼠<hi>拾遺</hi>
+　　　食蛇鼠<hi>綱目</hi>
+　　　猬<hi>本經</hi>
+　　　　右附方舊二十四新四十二<lb/>
+<pb n="KR3e0079_WYG_118-4b"/>
+　　獸之四　　　寓類怪類共八種<hi>内附九種</hi>
+　　　獮猴<hi>類證附玃豦</hi>
+　　　狨<hi>拾遺附猨獨</hi>
+　　　果然<hi>拾遺湖蒙頌獑  附</hi>
+　　　猩猩<hi>綱目附野女</hi>
+　　　狒狒<hi>拾遺客山都山<graphic n="KR0968" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0968.png" mimeType="image/png"/>木  山<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>附</hi>
+　　　罔兩<hi>綱目</hi>
+　　　彭侯<hi>綱目</hi>
+<pb n="KR3e0079_WYG_118-5a"/>
+　　　封<hi>綱目</hi>
+　　　　右附方舊一新無<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3e0079_WYG_118-5b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　本草綱目卷五十一目録<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>六經圖卷七</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書<lb/>
+　六經圖卷七　　　　　宋　楊　甲　撰<lb/>
+　　　　　　　　　　　　　　毛邦翰　補<lb/>
+<pb n="2a"/>
+巾車玉輅金木象革四輅其飾雖異制則同今特圖玉<lb/>
+輅之一兼太常之旂以備祭祀所乘其餘車式皆具考<lb/>
+工記則諸路可知矣<lb/>
+<pb n="3a"/>
+</p>
+<p>
+<pb n="4a"/>
+</p>
+<p>
+<pb n="5a"/>
+葢斗曰部部徑六寸厚一寸上隆一分斗下達常長二<lb/>
+尺徑一寸達常下入杠杠長八尺徑二寸足以合達常<lb/>
+也用弓二十有八毎弓長六尺廣四分<lb/>
+<pb n="6a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="6b"/>
+司常日月為常　巾車玉路建太常十二斿畫三辰升<lb/>
+龍降龍弧矢設崇牙<lb/>
+<pb n="7a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="7b"/>
+司常交龍為旂諸侯建旂　巾車金路建大旂以賓同<lb/>
+姓以封上公九斿侯伯七子男五<lb/>
+<pb n="8a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="8b"/>
+司常通帛為旜孤卿建旜注曰謂大赤從周正色無飾<lb/>
+　巾車象路建大赤以朝異姓以封<lb/>
+<pb n="9a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="9b"/>
+司常雜帛為物大夫士建物注曰以帛素飾其側商之<lb/>
+正色　巾車革路建大白以即戎以封四衛<lb/>
+<pb n="10a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="10b"/>
+司常熊虎為旗師都建旗考工記熊旗六斿以象伐<lb/>
+<pb n="11a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="11b"/>
+司常鳥隼為旟州里建旟考工記曰鳥旟七斿以象鶉<lb/>
+火　畫朱雀與隼<lb/>
+<pb n="12a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="12b"/>
+司常龜虵為旐縣鄙建旐考工記龜虵四斿以象營室<lb/>
+<pb n="13a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="13b"/>
+司常全羽為旞道車載旞　注曰道車象路也王以朝<lb/>
+夕燕出入<lb/>
+<pb n="14a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="14b"/>
+司常析羽為旌斿車載旌　斿車木路也王以田以鄙<lb/>
+全羽析羽皆五綵繫之於旌旞之上注旄於干首也<lb/>
+<pb n="15a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="15b"/>
+虎侯謂以虎皮飾其侯之側其鵠亦虎皮<lb/>
+<pb n="16a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="16b"/>
+熊侯以熊皮飾侯側兼以熊皮方制其鵠<lb/>
+<pb n="17a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="17b"/>
+豹侯以豹皮飾侯側兼以豹皮方制其鵠<lb/>
+<pb n="18a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="18b"/>
+諸侯自射之侯其侯道鵠居與王熊侯同<lb/>
+<pb n="19a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="19b"/>
+麋侯以麋皮飾侯側又以皮方制其鵠<lb/>
+<pb n="20a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="20b"/>
+大侯九十弓畿外諸侯將祭先祖所射之侯<lb/>
+<pb n="21a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="21b"/>
+糝侯七十弓畿外諸侯卿大夫助祭所射之侯<lb/>
+<pb n="22a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="22b"/>
+豻侯五十弓畿外諸侯之士助祭所射之侯<lb/>
+<pb n="23a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="23b"/>
+五正侯九十弓三分其侯正居一焉<lb/>
+<pb n="24a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="24b"/>
+三正侯七十弓三分其侯正居一焉<lb/>
+<pb n="25a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="25b"/>
+二正侯五十弓三分其侯正居其一<lb/>
+<pb n="26a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="26b"/>
+獸侯王以息燕畫獸為侯象熊頭狀<lb/>
+<pb n="27a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="27b"/>
+王燕勞之侯諸侯射亦畫雲氣飾其側<lb/>
+<pb n="28a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="28b"/>
+王燕射則卿大夫射畫虎豹頭狀也<lb/>
+<pb n="29a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="29b"/>
+王燕射士射五十弓鹿豕之侯<lb/>
+經曰飾中舍算射於榭用虎中大夫射於庠用兕中國<lb/>
+君國中射用皮樹中諸侯立學於郊行大射用閭中諸<lb/>
+侯與鄰國射於境用虎中并弓制樂節備見禮記習射<lb/>
+禮圖<lb/>
+<pb n="30a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="30b"/>
+馮相氏掌十二嵗嵗謂太嵗嵗星與日同次之月斗所<lb/>
+建之辰也嵗星為陽右行於天太嵗為陰左行於地十<lb/>
+二嵗而小周與日常應太嵗月建以見<lb/>
+<pb n="31a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="31b"/>
+龜人取龜用秋攻龜用春時春灼後左夏灼前左秋灼<lb/>
+前右冬灼後右<lb/>
+<pb n="32a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="32b"/>
+燋存火之炬灼龜之時用燃楚焞也<lb/>
+<pb n="33a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="33b"/>
+楚焞者謂荆為楚用之焞龜開兆<lb/>
+<pb n="34a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="34b"/>
+蓍以為筮策韇藏筮之器<lb/>
+<pb n="35a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="35b"/>
+古者用木畫地記爻金以錢<lb/>
+<pb n="36a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="36b"/>
+所筮六爻俱了卦體得成更以方版畫卦體示人也<lb/>
+<pb n="37a"/>
+</p>
+<p>
+<pb n="38a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="38b"/>
+王莽時劉歆為國師始建立周官經以為周禮河南緱<lb/>
+氏杜子春受業於歆還家以教門徒鄭興父子等多往<lb/>
+師之興衆並作周禮解詁賈景伯亦作周禮詁馬融作<lb/>
+周禮傳授鄭𤣥𤣥作周禮注注多引杜子春鄭大夫鄭<lb/>
+司農之義其後又有王肅注十二卷于寶注十三卷<lb/>
+　<lb/>
+　<lb/>
+　六經圖卷七<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

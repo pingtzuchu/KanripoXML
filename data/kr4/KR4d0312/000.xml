@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>䝉齋集目錄</head>
+    <p>
+<pb n="KR4d0312_WYG_000-1a"/>
+欽定四庫全書　　　　　集部四<lb/>
+　䝉齋集目錄　　　　　　别集類三<hi>宋</hi>
+　　巻一<lb/>
+　　　經筵講義七首　　　經筵進講故事八首<lb/>
+　　巻二<lb/>
+　　　奏疏四首<lb/>
+　　巻三<lb/>
+　　　奏疏三首<lb/>
+<pb n="KR4d0312_WYG_000-1b"/>
+　　巻四<lb/>
+　　　奏疏三首<lb/>
+　　巻五<lb/>
+　　　奏疏四首<lb/>
+　　巻六<lb/>
+　　　奏疏八首<lb/>
+　　巻七<lb/>
+　　　奏疏六首<lb/>
+<pb n="KR4d0312_WYG_000-2a"/>
+　　巻八<lb/>
+　　　制四十七首<lb/>
+　　巻九<lb/>
+　　　制五十三首<lb/>
+　　巻十<lb/>
+　　　表一首　　　　　　狀三十首<lb/>
+　　　書啓二首<lb/>
+　　巻十一<lb/>
+<pb n="KR4d0312_WYG_000-2b"/>
+　　　序二十六首<lb/>
+　　巻十二<lb/>
+　　　記十五首<lb/>
+　　巻十三<lb/>
+　　　記十四首<lb/>
+　　巻十四<lb/>
+　　　記十七首<lb/>
+　　巻十五<lb/>
+<pb n="KR4d0312_WYG_000-3a"/>
+　　　説十一首　　　　　題跋二十九首<lb/>
+　　巻十六<lb/>
+　　　箴十四首　　　　　銘二十五首<lb/>
+　　　贊六首<lb/>
+　　巻十七<lb/>
+　　　祭文十六首　　　　誌銘七首<lb/>
+　　巻十八<lb/>
+　　　誌銘十三首<lb/>
+<pb n="KR4d0312_WYG_000-3b"/>
+　　巻十九<lb/>
+　　　賦三首　　　　　　四言詩十八首<lb/>
+　　　五言古詩六首　　　七言古詩六首<lb/>
+　　巻二十<lb/>
+　　　五言律詩二首　　　七言律詩二十六首<lb/>
+　　　五言絶句三首　　　七言絶句七十首<lb/>
+　　　　<hi>臣</hi>等謹案䝉齋集宋袁甫撰甫字廣微鄞縣<lb/>
+　　　　人禮部侍郎燮之子舉嘉定七年進士歴官<lb/>
+<pb n="KR4d0312_WYG_000-4a"/>
+　　　　吏部侍郎兼國子祭酒權兵部尚書贈少傅<lb/>
+　　　　諡正肅事蹟具宋史本傳焦竑國史經籍志<lb/>
+　　　　載甫所著䝉齋集本四十巻自明以來傳本<lb/>
+　　　　甚稀近時李鄴嗣等輯甬上耆舊詩蒐羅頗<lb/>
+　　　　廣而亦未見甫集僅從他書摭拾編次則其<lb/>
+　　　　佚固已久矣甫胚胎家學經術湛深闡發理<lb/>
+　　　　道之言皆能得其精藴歴官所至汲汲以興<lb/>
+　　　　利除害為事凡有奏請鑿然可見諸施行其<lb/>
+<pb n="KR4d0312_WYG_000-4b"/>
+　　　　在徽州所上便民諸條迄今利賴不同空談<lb/>
+　　　　無補之流至於遇朝廷大事侃侃直陳尤為<lb/>
+　　　　切中<graphic n="KR1094" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1094.png" mimeType="image/png"/>要如史嵩之議約䝉古伐金甫力持<lb/>
+　　　　不可且言嵩之輕脱難信幾罹危禍又力斥<lb/>
+　　　　史彌逺之専政而勸理宗以獨攬乾綱更為<lb/>
+　　　　人所難言今諸疏雖不盡傳而所存劄子尚<lb/>
+　　　　夥要皆劘切權貴抗論不阿可稱忠鯁之士<lb/>
+　　　　其他詩文類多明白曉暢切理饜心不屑屑<lb/>
+<pb n="KR4d0312_WYG_000-5a"/>
+　　　　為粉飾藻繢之詞而有體有用務衷諸道洵<lb/>
+　　　　能不負所學者維袁氏祖孫父子以儒術傳<lb/>
+　　　　家經明行修世濟其美其名姓固已昭著史<lb/>
+　　　　冊獨其遺編湮沒幾數百年今幸逢網羅放<lb/>
+　　　　佚之時甫之祖文所著甕牖閒評既已裒輯<lb/>
+　　　　刋布甫之父燮所著絜齋集及毛詩講義並<lb/>
+　　　　仰邀<lb/>
+　宸章褒詠光賁藝林兹甫所著全集又得排次成帙<lb/>
+<pb n="KR4d0312_WYG_000-5b"/>
+　　　　勒為完書實賴<lb/>
+　聖朝表章遺籍闡發幽光復於蠧蝕之餘乘時並顯<lb/>
+　　　　而其禔躬砥行之大略益藉以叅攷而知其<lb/>
+　　　　文傳而其人亦彌足重矣乾隆四十七年四<lb/>
+　　　　月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

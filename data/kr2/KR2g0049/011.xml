@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>儒林宗派卷十一</head> <lb/>
+    <p>
+<pb n="KR2g0049_WYG_011-1a"/>
+欽定四庫全書<lb/>
+　儒林宗派卷十一<lb/>
+　　　　　　　　　　　　　　鄞縣萬斯同撰<lb/>
+　宋<lb/>
+林光朝<hi>謙之外軒莆田文節</hi>
+　　林氏學派<lb/>
+<pb n="KR2g0049_WYG_011-2a"/>
+卓先<hi>進之莆田</hi>
+魏几<hi>天隨福清</hi>
+林阿盥<hi>載徳福清</hi>
+陳叔盥<hi>福清</hi>
+傅䝉<hi>景初仙遊</hi>
+林用中<hi>擇之古田</hi>
+林肅<hi>恭之仙遊</hi>
+楊興宗<hi>似之興化</hi>
+<pb n="KR2g0049_WYG_011-2b"/>
+林恂如<hi>莆田</hi>
+　　右林氏門人<lb/>
+吕祖謙<hi>伯恭東萊金華成公</hi>
+　　吕氏學派<lb/>
+吕祖儉<hi>子約大愚</hi>
+　<lb/>
+　<lb/>
+潘景憲<hi>叔度可庵金華</hi>
+<pb n="KR2g0049_WYG_011-3a"/>
+潘瀾<hi>婺源</hi>
+　<lb/>
+　<lb/>
+　　　　　應㒡<lb/>
+　　　　　趙與權<lb/>
+　　　　　鄭次申<lb/>
+喬行簡<hi>夀朋東陽文恵</hi>
+葛洪<hi>容甫東陽端獻</hi>
+<pb n="KR2g0049_WYG_011-3b"/>
+李誠之<hi>茂欽東陽</hi>
+朱塾<hi>文公子</hi>
+喬夢符<hi>世用東陽</hi>
+王瀚<lb/>
+石範<hi>宗卿浦江</hi>
+朱質<hi>仲文義烏</hi>
+葉秀發<hi>茂叔金華</hi>
+杜旟<hi>伯高蘭谿</hi>
+<pb n="KR2g0049_WYG_011-4a"/>
+鞏豐<hi>仲至武義</hi>
+戚如圭<lb/>
+戚如玉<lb/>
+戚如琥<hi>少白金華貞白</hi>
+趙彦秬<hi>周錫東陽</hi>
+夏明誠<hi>敬仲金華</hi>
+鄭宗强<hi>南夫金華</hi>
+潘時<hi>徳鄜金華</hi>
+<pb n="KR2g0049_WYG_011-4b"/>
+汪大亨<hi>時升西山</hi>
+汪大明<hi>時晦</hi>
+汪大度<hi>時法金華</hi>
+汪大章<hi>得叟</hi>
+林謩<hi>丕顯連江</hi>
+黃煥<hi>徳亨邵武</hi>
+黃謙<hi>徳柄</hi>
+汪淳<lb/>
+<pb n="KR2g0049_WYG_011-5a"/>
+邢世材<hi>邦用</hi>
+丁希亮<hi>少詹</hi>
+石宗昭<hi>應之新昌</hi>
+陳孔碩<hi>膚仲侯官</hi>
+孫應時<hi>季和餘姚</hi>
+陳黼<hi>斯士東陽</hi>
+李厚之<lb/>
+王時敏<hi>徳修上饒</hi>
+<pb n="KR2g0049_WYG_011-5b"/>
+吳必大<hi>興國</hi>
+唐復<hi>來復零陵</hi>　樂韶<hi>賡敬零陵</hi>
+鄒補之<hi>公兗西安</hi>
+詹儀之<hi>體仁遂安</hi>
+胡子亷<hi>淳安</hi>
+許文蔚<hi>衡甫休寜</hi>
+徐侃<hi>義烏</hi>
+林頴<hi>叔嘉福清</hi>
+<pb n="KR2g0049_WYG_011-6a"/>
+徐倬<lb/>
+　　右吕氏門人<lb/>
+張栻<hi>敬夫南軒宣公廣漢</hi>
+　　張氏學派<lb/>
+胡大時<hi>季隨宏子</hi>
+彭龜年<hi>子夀湇江</hi>
+范仲黻<hi>文叔</hi>
+游九思<hi>誠之建陽</hi>
+<pb n="KR2g0049_WYG_011-6b"/>
+游九言<hi>受齋</hi>
+周奭<hi>允升</hi>
+陳平甫<lb/>
+趙善佐<hi>佐卿邵武</hi>
+趙方<hi>彦直棠子衡山忠肅</hi>
+簡克己<lb/>
+蔣復<hi>汝行零陵</hi>
+陳琦<lb/>
+<pb n="KR2g0049_WYG_011-7a"/>
+吳獵<hi>徳夫畏齋醴陵</hi>
+鍾如愚<lb/>
+徐椿年<hi>夀卿永豐</hi>
+吳倫<hi>子常零陵</hi>
+謝用賓<hi>白雲祁陽</hi>
+吳必大<hi>興國</hi>
+張巽<hi>子文晉江</hi>
+舒璘<hi>元質奉化</hi>
+<pb n="KR2g0049_WYG_011-7b"/>
+馬之純<hi>師文東陽</hi>
+黃執矩<hi>才用高要</hi>
+吕陟<hi>升卿零陵</hi>
+李義山<hi>嘉魚</hi>
+吕勝已<hi>季克邵武</hi>
+曹建<hi>立之餘干</hi>
+蘇權<hi>元中仙遊</hi>
+周去非<hi>永嘉</hi>
+<pb n="KR2g0049_WYG_011-8a"/>
+王遇<hi>子合龍谿</hi>
+潘時<hi>徳鄜金華</hi>
+鍾炤之<hi>彦昭樂平</hi>
+吳儆<hi>益恭休寜</hi>
+　　右張氏門人<lb/>
+陸九韶<hi>子美梭山金谿</hi>
+陸九齡<hi>子夀復齋文違</hi>
+陸九淵<hi>子靜象山文安</hi>
+<pb n="KR2g0049_WYG_011-8b"/>
+　　陸氏學派<lb/>
+<pb n="KR2g0049_WYG_011-9a"/>
+</p>
+<p>
+<pb n="KR2g0049_WYG_011-10a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+傅夢泉<hi>子淵</hi>
+鄧約禮<hi>文範直齋</hi>
+傅子雲<hi>季魯金谿</hi>
+黃裳<hi>元吉福寧</hi>
+<pb n="KR2g0049_WYG_011-10b"/>
+陳去華<lb/>
+詹阜民<hi>子南</hi>
+徐誼<hi>子宜平陽</hi>
+陳剛<hi>正已</hi>
+彭興宗<hi>世昌</hi>
+朱桴<hi>濟道</hi>
+朱泰卿<hi>亨道</hi>
+李伯敏<hi>敏求</hi>
+<pb n="KR2g0049_WYG_011-11a"/>
+章節夫<hi>仲制臨川</hi>
+游元<hi>淳夫臨川</hi>
+沈炳<hi>季父煥弟</hi>
+陸持之<hi>伯微九淵子</hi>
+周清叟<hi>亷夫</hi>
+嚴松<hi>松平</hi>
+嚴滋<hi>太伯臨川</hi>
+孫應時<hi>季和餘姚</hi>
+<pb n="KR2g0049_WYG_011-11b"/>
+林夢英<hi>叔虎福清</hi>
+曹建<hi>立之餘干</hi>
+陸濬<hi>深甫九淵從孫</hi>
+張孝直<hi>英甫臨川</hi>
+鄧泳<hi>徳載約禮子</hi>
+舒琥<hi>奉化</hi>
+<pb n="KR2g0049_WYG_011-12a"/>
+舒琪<hi>璘弟</hi>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+饒延年<hi>伯永臨川</hi>
+<pb n="KR2g0049_WYG_011-12b"/>
+鄒斌<hi>俊父臨川</hi>
+曾滂<hi>孟博臨川</hi>
+包約<hi>詳道南城</hi>
+　<lb/>
+　<lb/>
+趙師雍<hi>然道</hi>
+趙師㸃<hi>詠道</hi>
+髙商老<lb/>
+<pb n="KR2g0049_WYG_011-13a"/>
+高宗商<lb/>
+羅㸃<hi>春伯崇仁</hi>
+石宗昭<hi>應之</hi>
+石斗文<hi>天民新昌</hi>
+胡珙<hi>達才</hi>
+諸葛誠之<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2g0049_WYG_011-13b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　　右陸氏門人<lb/>
+　附録<lb/>
+葉適<hi>正則水心永嘉文定</hi>
+　　葉氏學派<lb/>
+陳耆卿<hi>夀老篔忩臨海</hi>吕大亨　洪霖　　　方來<hi>齊英永嘉</hi>
+<pb n="KR2g0049_WYG_011-14a"/>
+邵持正<hi>子文温州</hi>　王植<hi>立之/金華</hi>　王象祖<hi>徳父/臨海</hi>沈昌<hi>叔阜</hi>
+林頥叔<hi>正仲瑞安</hi>　林淵叔<hi>懿仲/</hi>陳端已<hi>子益/</hi>陳說<hi>習之</hi>
+高松<hi>國楹福寜</hi>　　陳鞾　　　章用中<hi>端叟/</hi>湯建<hi>達可樂清</hi>
+朱黼　　　胡時<lb/>
+　　右葉氏門人<lb/>
+陳傅良<hi>君舉止齋瑞安文節</hi>
+　　陳氏學派<lb/>
+蔡幼學<hi>行之瑞安文懿</hi>周南<hi>南仲/遂昌</hi>　林頥叔<hi>正仲瑞安</hi>林君實<lb/>
+<pb n="KR2g0049_WYG_011-14b"/>
+孫之宏<hi>偉之</hi>　沈體仁　　曹叔逺<hi>器逺瑞安文肅</hi>趙汝讜<lb/>
+孟導<hi>達甫</hi>　　陳昻　　　滕窚<hi>季度</hi>　厲詳<lb/>
+丁希亮<hi>少詹</hi>林居安<hi>徳叟/</hi>　趙汝鐸<hi>振文/</hi>孟猷<hi>良甫</hi>
+高松<hi>國楹福寧</hi>　陳應龍<hi>定夫福寜</hi>
+　　右陳氏門人<lb/>
+陳亮<hi>同甫龍川永康文毅</hi>
+　　陳氏學派<lb/>
+喻偘<hi>伯經義烏</hi>　喻南強<hi>伯強/義烏</hi>　吳深<hi>思齊子䆳/    永康</hi>　<hi>孫</hi>
+<pb n="KR2g0049_WYG_011-15a"/>
+孫貫<hi>冲季</hi>　章椿　　　章湜　　　陳頥<lb/>
+錢廓<hi>叔因</hi>　方垣　　　陳檜　　　郎景明<lb/>
+金潚　　　凌堅　　　劉範　　　胡括<lb/>
+何大猷<hi>少嘉</hi>
+　　右陳氏門人<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2g0049_WYG_011-15b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　儒林宗派卷十一<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

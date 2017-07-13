@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3a0037_WYG_004-1a"/>
+　昉兒時侍鄉長老嘗從旁竊闚所謂吕氏童䝉訓者<lb/>
+　其間格言至論粗可記者一二稍長務鑽<hi>闕</hi>舉子業<lb/>
+　而親舊几案上亦不復有此<hi>闕</hi>矣世道之升降於此<lb/>
+　可占也客授金華太守丘公先生語次及之且曰昔<lb/>
+　先公每以訓子姪某初在傅日誦習焉將求善本刻<lb/>
+　之學宫或太史祠中使流布於世昉因從臾成之曰<lb/>
+　書出於吕氏刻於祠堂宜也會公有民曹之命迺出<lb/>
+　錢五萬以從初約吕兄巽<hi>闕</hi>　　家所臧本最為精<lb/>
+<pb n="KR3a0037_WYG_004-1b"/>
+　密前此長沙郡龍溪學皆嘗鋟木而譌舛特甚丘公<lb/>
+　所誦習者未知何所從得也初舍人吕公以正獻長<lb/>
+　孫逮事元祐遺老與諸名勝游淵源所漸者逺<hi>闕</hi>
+　轉徙流落之餘中原文獻與之俱南<hi>闕</hi>即疇昔所聞<lb/>
+　見者輯為是編倉部既手寫而臧之巽伯又是正而<lb/>
+　刋之庶幾可以傳矣書之所載自立身行已讀書取<lb/>
+　友撫世醻物仕州縣立朝廷綱條本末皆有稽据大<lb/>
+　要欲學者反躬抑志循序務本切近篤實不累於虚<lb/>
+<pb n="KR3a0037_WYG_004-2a"/>
+　驕不騖於高逺由成已以至成物豈特施之童蒙而<lb/>
+　已哉雖推之天下國家可也巽伯屬記始末因輙附<lb/>
+　所聞於其後是亦丘公之志焉爾公名壽雋字真長<lb/>
+　文定公之嫡長子云嘉定乙亥中秋日四明樓昉謹<lb/>
+　書<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3a0037_WYG_004-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　童䝉訓䟦<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

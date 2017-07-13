@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="1a"/>
+大廣益㑹玉篇卷第九<hi>凡二十九部</hi>
+︻言部第九十<hi>四百八十二字</hi>言<hi>魚鞬切言辝/也問也我也/古文古文</hi>
+談<hi>徒甘切論言也戯調也</hi>謁<hi>於歇切告/也白也</hi>語<hi>魚巨切/言說也</hi>譬<hi>匹臂切/喻也</hi>請<hi>且井疾盈二切問也求也乞也又疾性切</hi>
+謂<hi>烏沸切云也道也報也</hi>讖<hi>楚䕃切讖/言也驗也</hi>譻<hi>於耕切/声也</hi>謦<hi>枯鼎切/声也</hi>詯<hi>胡内切瞻氣蒲声在人之上也又胡市也</hi>
+諒<hi>力尚切信也相也助也</hi>諷<hi>方鳯切誦/也譬喻也</hi>詩<hi>舒之切/詩書也</hi>誦<hi>徐用切/暗誦也</hi>訌<hi>胡東切敗也潰也諍訟相䧟人之言</hi>
+詵<hi>所陳切衆多也又致言也</hi>訰<hi>之閏之純/二切乱也</hi>讀<hi>徒鹿切/誦也</hi>誨<hi>呼繢切/教示也</hi>䛄<hi>於万於阮二切慰也从也亦作婉</hi>
+許<hi>虚語切進也從也聽也</hi>詻<hi>魚格切教/令嚴也</hi>謜<hi>魚園切/徐語也</hi>誎<hi>且録切/從也/呼歷切私訟也恨也内悔也亦作䦧</hi>
+諾<hi>那各切荅也說文應言也</hi>諮<hi>子詞切問/也謀也</hi>謨<hi>莫胡切/議謀也</hi>謩<hi>同上</hi>譩<hi>於熈切不平之声也恨辝也作噫同</hi>
+詇<hi>於竟於仗二切早知也</hi>訪<hi>孚望切問/也謀也</hi>詢<hi>息遵切/咨問也/同上</hi>譜<hi>布魯切屬也牒也布列見其事也</hi>
+譔<hi>仕卷切又此專切專教也</hi>謹<hi>居隱切敬/也/也</hi>誥<hi>古到切/誥告也</hi>詧<hi>楚黠切/与察同</hi>詪<hi>古恨古很二切難語皃又乎典切</hi>
+訂<hi>他丁唐頂二切平議也</hi>詁<hi>姑五切訓/故言也</hi>謄<hi>逹曽切/傳寫也</hi>䛢<hi>他鹿/切/詆䛢狡猾</hi>詆<hi>他狄切詆䛢狡猾也又音底訶也</hi>
+論<hi>力昆力困二切言議也</hi>諗<hi>尸枕切念/也告也</hi>詥<hi>胡答切/諧詥也</hi>証<hi>之盛切/諫也</hi>謏<hi>蘇口切小也又思了切亦作</hi>
+議<hi>魚寄切論也法有八議</hi>諫<hi>柯鴈切正/也諍也</hi>䚻<hi>与周切/從也</hi>謐<hi>莫橘切/静也</hi>誯<hi>𥘉障切導也發歌句亦作唱</hi>
+<pb n="1b"/>
+謷<hi>五勞五交二切不肖人一曰哭不止悲声謷謷</hi>譞<hi>呼縁切/慧也</hi>謡<hi>与招切/徒歌也</hi>讃<hi>子旦切解也哀也發揚美德也</hi>
+說<hi>始恱切言也釋也又音稅談說也又余輟切懌也</hi>訒<hi>而振切/言難也</hi>訥<hi>奴骨切/言難也</hi>誧<hi>滂古切大言也又匹布切謀也</hi>
+諏<hi>子須切問正事也聚謀也</hi>警<hi>居影切戒/也敕也</hi>
+                    <graphic n="KR2588" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2588.png" mimeType="image/png"/>
+                    <hi>火呉切/喚也</hi>諄<hi>之閠之淳二切佐也/可悪也告曉之熟也/同上</hi>
+詳<hi>似良切審也又音羊詐也</hi>謙<hi>苦嫌切遜/讓也卦名</hi>諦<hi>都計切/審也</hi>䛕<hi>與朱切/諂也</hi>訓<hi>許運切教/也誡也/古文</hi>
+識<hi>時力切知也始志切記也</hi>計<hi>居詣切㑹/也筭謀也</hi>讇<hi>丑冉切/佞也</hi>諂<hi>同上</hi>誾<hi>魚巾切誾誾中/正皃又和敬皃</hi>訔<hi>同上</hi>
+䚮<hi>如陵切厚也就也重也</hi>諓<hi>疾箭疾剪/二切巧言</hi>訹<hi>思聿切/訹誘也</hi>謺<hi>之陟切/拾也</hi>訊<hi>思進切問/也辝也/古文</hi>
+訦<hi>時林市荏二切亦與諶同</hi>諶<hi>恃林切信/也誠也/仕亞切/蹔語也</hi>謰<hi>力前切/繁拏也</hi>話<hi>胡卦切善/言也調也</hi>䛡<hi>同上</hi>
+誠<hi>是征切審也信也敬也</hi>信<hi>思刃切明/也敬也</hi>䚱<hi>古文又/作扣</hi>謱<hi>洛由切/謰謱也</hi>謝<hi>詞夜切辝/也去也</hi>
+                    <graphic n="KR1180" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1180.png" mimeType="image/png"/>
+                    <hi>說文</hi>
+誡<hi>居拜切警也命也告也</hi>
+                    <graphic n="KR2237" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2237.png" mimeType="image/png"/>
+                    <hi>且送切<graphic n="KR2237" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2237.png" mimeType="image/png"/>/詷言急也</hi>詷<hi>徒貢也/<graphic n="KR2237" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2237.png" mimeType="image/png"/>詷也</hi>譏<hi>居依切/嫌也</hi>誃<hi>舒𥿄直移二/切離也脫也</hi>謻<hi>同上</hi>
+譣<hi>虚儉息廉二切問也詖也</hi>諰<hi>思理切思/之意也</hi>誑<hi>俱放切/誑惑也/古罵切/欺也</hi>誖<hi>補潰歩没二/切乱也逆也/同上</hi>
+誓<hi>時丗切命也謹也約束也</hi>䜋<hi>胡退切中/止也譯也</hi>譖<hi>莊賃切/譛愬也</hi>訕<hi>所晏切/毀語也</hi>訿<hi>子尓切不/善也毀也</hi>訾<hi>同上</hi>
+譪<hi>於害切止也臣盡力也</hi>託<hi>他各切寄/也依慿也</hi>誣<hi>武虞切/欺罔也</hi>誹<hi>甫尾切/誹謗也</hi>䛬<hi>道刀切小兒/未能正語也</hi>䛌<hi>同上</hi>
+譮<hi>許戒切怒声也籀文作諙</hi>記<hi>居意切録/也識也</hi>詛<hi>側助切/盟詛也</hi>䛆<hi>丈又切/祝也</hi>訇<hi>呼宏切駭/言声也/籕文</hi>
+<pb n="2a"/>
+諈<hi>竹恚切託也又諈諉累也</hi>諉<hi>女恚切/諈諉</hi>誤<hi>牛故切/誤謬也</hi>詿<hi>古賣切/詿誤也</hi>䜕<hi>火界切怒/皃又音邁/同上</hi>
+誼<hi>冝寄切理也人所冝也</hi>訖<hi>居迄切畢/也止也</hi>詍<hi>余丗切/多言也</hi>䛖<hi>同上</hi>譌<hi>五戈切爲也/妖言曰譌</hi>訛<hi>同上</hi>
+詡<hi>虚甫切普也偏也人語也</hi>謳<hi>於侯切齊/歌也吟也</hi>讗<hi>胡麥切/疾言皃</hi>噭<hi>空後切/扣也/子邪切咨也/樂類辝也/同上</hi>
+設<hi>尸熱切置也陳也合也</hi>諍<hi>側迸切諫/也止也</hi>譄<hi>子恒切/加也</hi>諅<hi>渠記切/忌也</hi>讋<hi>章葉切言/不止也/同上</hi>
+訝<hi>魚稼切相迎也與迓同</hi>詠<hi>爲命切長/言亦作咏/呼㑹切/声也</hi>諠<hi>虚袁切/諠譁也</hi>訟<hi>似縱切辝/爭訟也/古文子斜切也/側雅切訶皃</hi>諺<hi>魚建切俗/傳言也</hi>譁<hi>呼瓜切/諠也/同上</hi>訴<hi>蘇故切訟也告/訴冤枉亦作愬</hi>
+                    <graphic n="KR2859" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2859.png" mimeType="image/png"/>
+                    <hi>同上</hi>
+謘<hi>直梨直利二切語諄謘</hi>詣<hi>魚計切往/也到也</hi>諣<hi>呼卦切/疾言也/徒回切/譟也</hi>讕<hi>落于力但二切/誣言相加被也/同上</hi>
+詒<hi>與支切遺也相欺詒也</hi>講<hi>古項切習/也論也</hi>訆<hi>公弔切/妄言也/符眞切/多言也</hi>診<hi>除刃之忍二切視驗也</hi>侯<hi>俗</hi>
+謗<hi>補浪切誹也人道其悪也</hi>讎<hi>視周切匹/也用也</hi>譎<hi>公穴切/詐也/之耳切/計也</hi>讄<hi>力水切累功/德以祈福也/同上</hi>
+諐<hi>祛言切過失也籕文愆字/下啓切/待也</hi>讘<hi>之渉切/多言也</hi>䜆<hi>同上</hi>謑<hi>胡啓切謑/詬恥辱也/同上</hi>
+詶<hi>時遊切荅也職又切詛也</hi>譥<hi>古弔切大/呼痛呼也/勿放切/相責也</hi>訧<hi>有求切/過也</hi>訞<hi>於嬌切灾也/又巧言皃/說文</hi>
+謧<hi>力支力泥二切慢言也</hi>謍<hi>余瓊切小/声往來皃</hi>詘<hi>丘物切/枉曲也</hi>誳<hi>同上</hi>譿<hi>胡桂切材/智也察也</hi>譓<hi>同上</hi>
+詜<hi>他刀切䛬詜言語不節也</hi>譊<hi>女交切爭/也恚呼也</hi>諲<hi>之神切/敬也</hi>謖<hi>山六切/起皃</hi>諳<hi>烏含切記也/知也或作喑/同上</hi>
+<pb n="2b"/>
+訮<hi>呼田切訶也五閑切訟也</hi>譟<hi>桑到切羣/呼煩擾也</hi>諻<hi>呼撗切/音也</hi>詅<hi>力丁切/衒也</hi>譅<hi>色立切言/甚多也/同上</hi>
+諞<hi>歩連符善二切巧言也</hi>謲<hi>千紺切相/怒使也</hi>譝<hi>視陵切/譽也</hi>誕<hi>徒旱徒旦二切大/也天子生曰降誕/籀文</hi>
+䜚<hi>逹合切䜚誻語相及</hi>誻<hi>徒合切䜚/誻妄語也</hi>讜<hi>丁勆切/直言也</hi>譡<hi>丁浪切/言中也</hi>誘<hi>余手切引也相/勸動也亦作</hi>䛻<hi>同上丑脂丑利二切不知也</hi>誺<hi>同上又切/代切誤也</hi>讑<hi>羊照切/誤言也</hi>䛟<hi>古恊切/妄語也</hi>譀<hi>户濫切誕也/火鑑切叫怒/同上</hi>
+誽<hi>女佳切詁誽言不正也</hi>諼<hi>許圜切忘/也詐也</hi>䜜<hi>以醉切/恨言也/許亮切/不乆也</hi>諸<hi>至如切非一也皆言也又助語</hi>
+詄<hi>徒結切天門開詄蕩也</hi>謾<hi>莫般馬諫/二切欺也</hi>詝<hi>知與切/智也/必奚切/誤也</hi>詖<hi>彼寄切佞謟也辯論也慧也</hi>
+讙<hi>虚元呼丸二切讙嚻声</hi>譺<hi>魚記五界/二切欺也</hi>䛿<hi>公核切/智慧也</hi>䛎<hi>呼决切/怒訶也</hi>課<hi>枯過切議也試也又苦訛切</hi>
+誂<hi>徒了切弄也說文相呼誘</hi>譸<hi>竹尤切譸/張誑也</hi>訄<hi>去牛渠牛/二切迫也</hi>誔<hi>逹鼎切/詭言也</hi>諧<hi>胡皆切和也合也調也偶也或作</hi>
+訬<hi>楚交切擾也疾也健也</hi>誒<hi>虛冝切可/悪之辝也</hi>譆<hi>許其切悲/恨声也</hi>䜃<hi>丁回切/謫也</hi>譽<hi>余怒切稱也声美也又音余</hi>
+諆<hi>居疑切謀也又去其切</hi>謔<hi>虚虐切喜/樂也戲言</hi>謈<hi>蒲剥切大/呼自冤也</hi>
+                    <graphic n="KR2990" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2990.png" mimeType="image/png"/>
+                    <hi>力足切/謔也</hi>詑<hi>湯何逹可二切詑謾而不疑</hi>
+訏<hi>况俱切大也張口鳴也/虚光呼晃/二切夢言</hi>謬<hi>靡㓜切誤/也乱也</hi>譫<hi>之閻切/多言也</hi>謵<hi>叱渉丑渉二切謵讋言不正也</hi>
+訐<hi>居竭切攻人之隂私也</hi>誋<hi>渠記切禁/也戒也</hi>䜐<hi>虚規切言/相毀也</hi>諵<hi>女函切/語声也</hi>
+                    <graphic n="KR1163" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1163.png" mimeType="image/png"/>
+                    <hi>力官力全二切乱也理也不絶也</hi>
+諯<hi>尺絹至縁二切相讓也</hi>謓<hi>昌仁切怒/也今作嗔</hi>譴<hi>詰戰切責/也謫問也/昌脂切/訶怒也</hi>詀<hi>陟咸切多言又知䧟尺占二切</hi>
+<pb n="3a"/>
+<pb n="4a"/>
+詎<hi>其吕渠遽二切止也至也</hi>諊<hi>居六切窮/也治罪也</hi>
+                    <graphic n="KR2595" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2595.png" mimeType="image/png"/>
+                    <hi>大計切<graphic n="KR3134" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3134.png" mimeType="image/png"/>/<graphic n="KR2595" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2595.png" mimeType="image/png"/>審諦</hi>
+                    <graphic n="KR3134" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3134.png" mimeType="image/png"/>
+                    <hi>於計切/<graphic n="KR3134" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3134.png" mimeType="image/png"/>
+                        <graphic n="KR2595" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2595.png" mimeType="image/png"/>
+                    </hi>䛘<hi>女林切/多言</hi>讒<hi>仕銜切佞也</hi>
+讞<hi>魚列牛箭二切議罪也</hi>䛠<hi>丁逅切䛠/詀誽作㛒同</hi>譳<hi>奴言切/䛠譳也</hi>誴<hi>殂冬切/謀也/宅江切/質也</hi>
+                    <graphic n="KR2520" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2520.png" mimeType="image/png"/>
+                    <hi>普布切諫也</hi>
+詨<hi>許教切大叫噑又呼交切</hi>謉<hi>居位切慙/恥與愧同/附夫切/詞也</hi>諃<hi>五林切/善言也/息移切/諒也</hi>
+                    <graphic n="KR2071" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2071.png" mimeType="image/png"/>
+                    <hi>如詹切多言</hi>
+訃<hi>芳付切告䘮也又至也</hi>讆<hi>爲歳切夢/言不譓也</hi>䛏<hi>奴奚切/呼人声</hi>䛣<hi>匹丁切/言也/方凡切/言急也</hi>訸<hi>胡戈切平也卑宻切止行也本作䟆蹕</hi>諤<hi>五各切正/直之言也/宜巾切/頑也/五駭切/謹也/陟由切/多言也</hi>謅<hi>𥘉卯切弄人言</hi>
+譈<hi>徒對切怨也惡也亦作憝</hi>譵<hi>直類切怨/也或作懟</hi>譯<hi>余石切/傳言也/疾歷切/静也</hi>䚵<hi>他口切/䚵誘也</hi>䛞<hi>何蒲切多言</hi>
+䜈<hi>楚交切代人說文與勦同</hi>謮<hi>側革切怒/也譲也</hi>誢<hi>乎典切/諍語也</hi>詃<hi>古犬切/誘也</hi>誷<hi>无紡切/誣也</hi>䛰<hi>戸衮切謀也</hi>
+謞<hi>火角火各二切䜛慝也</hi>
+                    <graphic n="KR2452" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2452.png" mimeType="image/png"/>
+                    <hi>居宥切禁/也助也/丑利切/笑也/之勢切/語不正</hi>諢<hi>五困切/弄言也/子就切吏也火内切休市也與詯同</hi>䚴<hi>魚刮切怒/也訶也</hi>䜗<hi>火禁切/祝也/子禁切/怒言也</hi>䚿<hi>同上啼/不止也/魚向切止也渠竟切強争也古文競</hi>䚹<hi>匹示切具/也今作它/胡/切/言皃/火个切/譀/也/莫駕切/多言也</hi>詐<hi>之訝切詐僞也古蛙五華二切嬾也不正/奴力切喜/也/也/司夜切/話/也</hi>諎<hi>七个切/䜆也</hi>䛍<hi>府味也/多言也</hi>䛾<hi>先護切諧䛾也</hi>
+詴<hi>烏回切呼人也又户罪切/以端切笑/皃入善言</hi>䚸<hi>胡介切/善也</hi>誎<hi>七賜切/数諫也/七賜切/謀也</hi>誌<hi>之吏切記也</hi>
+詉<hi>女加切譇詉言不可解也</hi>讉<hi>以加切譯/惡言也</hi>謎<hi>米閉切/隱言也</hi>諕<hi>火訝切/誑也/同上/𥘉稼切異言也</hi>
+<pb n="4b"/>
+認<hi>而振而證二切識認也</hi>䚳<hi>之豉切不/知也快也</hi>讌<hi>烏見切/讌設也/胡到切/相欺也</hi>誆<hi>巨妄切/狂言也</hi>誜<hi>所化切俊言也</hi>
+誏<hi>郎宕切閑言也與勆同</hi>訠<hi>式忍切况/也或作矧</hi>詺<hi>名聘切/詺讜也</hi>誟<hi>許交切/声也</hi>詋<hi>職救切/詋詚也</hi>
+                    <graphic n="KR3251" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3251.png" mimeType="image/png"/>
+                    <hi>力制切言美也</hi>
+諹<hi>與章切譽也又余亮切</hi>訜<hi>筆云切入/不知也</hi>護<hi>胡故切/救護也</hi>
+                    <graphic n="KR1018" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1018.png" mimeType="image/png"/>
+                    <hi>扶泛切/多言</hi>訣<hi>古穴切/死别也/兵列切分契也</hi>
+誐<hi>五歌切吟也又牛可切</hi>訑<hi>弋支切訑/訑自得也</hi>諿<hi>七入切/和也</hi>[言*翕]<hi>許及切/疾言/許縛切/妄言/居力切訥言</hi>
+諭<hi>揚樹切譬也他口切誘也</hi>譒<hi>補過切敷/也謡也</hi>䛛<hi>戸對切/胡市也/蘇奚切/声振也</hi>䛩<hi>烏古切/相毀皃</hi>䚷<hi>於礼切譍声</hi>
+諟<hi>水𥿄切審也諦也</hi>訅<hi>渠留切安/也謀也</hi>
+                    <graphic n="KR3250" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3250.png" mimeType="image/png"/>
+                    <hi>蘇戈切佞/也動也</hi>試<hi>始志切/用也</hi>謼<hi>荒烏切/人叫也</hi>䛮<hi>巨九切毀也俄寒切山形出皃</hi>誗<hi>直嚴切言/利美也</hi>諝<hi>相吕切才/智之稱</hi>詮<hi>七全切具/也評也</hi>訢<hi>許殷切樂/也喜也</hi>訨<hi>諸是切訏也</hi>
+謋<hi>虎伯切恐也亦作諕</hi>䜅<hi>以隹子惟/二切就也</hi>譭<hi>許委切謗/也怒言也/時志切/者行之跡</hi>謚<hi>同上又伊昔切笑皃</hi>諡<hi>說文胡故切誌也認也</hi>譇<hi>知加切譇/拏羞窮也</hi>調<hi>徒聊切和合大弔切選也</hi>
+︻誩部九十一<hi>凡七字</hi>誩<hi>䖍仰切/競言也</hi>譶<hi>徒荅切/疾言也</hi>讟<hi>徒木切謗讟也痛怨也左傳民无怨讟渠慶切強語也逐也</hi>競<hi>同上又爭/也敵也</hi>譱<hi>是闡切大/也吉也</hi>
+                    <graphic n="KR3415" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3415.png" mimeType="image/png"/>
+                    <hi>同上今作善</hi>
+︻曰部九十二<hi>凡十二字</hi>曰<hi>禹月切言詞/也語端也/楚革切/告也/同上籕文</hi>
+㬱<hi>且感切曽也又音潜</hi>沓<hi>徒荅切重/疊也多言</hi>曷<hi>何葛切何/也盍也</hi>
+                    <graphic n="KR1311" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1311.png" mimeType="image/png"/>
+                    <hi>昨勞切/輩羣也</hi>曹<hi>同上/今文</hi>暹<hi>思廉切進也長也</hi>
+<pb n="5a"/>
+<pb n="6a"/>
+<pb n="7a"/>
+︻喿部一百五<hi>凡三字</hi>喿<hi>先到切鳥羣鳴又七/俏切臿属今作鐰/才心切掘地也又臿属今作鈂部巧切鈍刀也</hi>
+︻龠部一百六<hi>凡八字</hi>龠<hi>余酌切樂管五孔/以和衆声今作籥/充垂充瑞二切樂人以吹管中氣今作吹</hi>
+龣<hi>古斈切東方音今作角/充尚切導/也今作唱</hi>䶵<hi>直離切/或作篪</hi>龢<hi>胡戈切/今作和/胡皆切/今作諧/思條切今作簫</hi>
+︻冊部一百七<hi>凡五字</hi>冊<hi>楚責切立也簡也說文符/命也諸侯進受於王也古文</hi>
+嗣<hi>似利切續也習也/力丁切/空也</hi>扁<hi>補淺切署門戸之文也又音篇音辮</hi>
+︻㗊部一百八<hi>凡一十一字</hi>㗊<hi>壯立切/衆口也</hi>噩<hi>魚各切/驚也</hi>囂<hi>許朝切喧也又五髙切思唐切亡也古文喪/荒貫切呼/也与喚同</hi>嚚<hi>彦陳切/愚也/古文/古弔切大呼也髙声也荒旦切呼也或作喚</hi>器<hi>祛記切/器皿也</hi>噐<hi>同上俗</hi>
+︻只部一百九<hi>凡二字</hi>只<hi>之移之爾二切語巳辝/也从口象气下引之形</hi>
+                    <graphic n="KR2066" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2066.png" mimeType="image/png"/>
+                    <hi>乎丁切声也</hi>
+︻　部一百十<hi>凡六字/奴没切又女滑如劣二切下声也言不出口也</hi>
+矞<hi>余出切出也况出切飛皃</hi>商<hi>舒羊切五/音又囯名/籕文/古文古文</hi>
+︻欠部一百十一<hi>一百四十八字</hi>欠<hi>江劒切張/口氣悟也</hi>欽<hi>去金切/欽敬也</hi>欨<hi>泥娯吁禹二切吹欨又笑意也</hi>
+<pb n="7b"/>
+<pb n="7b"/>
+次<hi>且吏切叙也近也第也</hi>歛<hi>呼濫呼甘/二切欲也</hi>歖<hi>欣疑切/樂也</hi>欮<hi>居月切/掘也/丁錬切/呻也/同上</hi>
+弞<hi>式忍切笑不壞顔又音引</hi>㰳<hi>於雅切欭/㰳馿鳴也/丘凡切/多智也</hi>
+                    <graphic n="KR2627" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2627.png" mimeType="image/png"/>
+                    <hi>子合才六二切嗚也亦作噈又爼敢切菖蒲𦵔也</hi>
+歈<hi>大侯切歌也又羊朱切</hi>㰥<hi>呼丗切欨/㰥笑意也/許角切/嘔吐也</hi>㱊<hi>於牛切/逆氣也</hi>㰭<hi>虚娯切/喜樂也</hi>㰢<hi>口莖切咳也</hi>
+㰯<hi>他走他豆二切㰯唾也</hi>㰰<hi>呼洽切㰰/㰨氣逆也</hi>㰨<hi>呼飢切/㰰㰨/客加切/出氣也</hi>㰿<hi>呼兮切/歎息也</hi>
+                    <graphic n="KR3589" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3589.png" mimeType="image/png"/>
+                    <hi>尺脂切笑也</hi>
+㰪<hi>於佳切㰪声又居攜切</hi>㰤<hi>丘睱切大/張口笑也/戸甘切沆/湘人言也/助咸切/笑也/胡沼切/丗氣也</hi>㰧<hi>許來切飲也</hi>
+歅<hi>一辛切人名方歅相馬者/呼昆切不/可知也/烏口切/吐也/於逞切/怒氣也</hi>㱃<hi>一錦切/古飲字</hi>㰴<hi>普口切苦言也</hi>
+歄<hi>古蛙切歄猶歄<graphic n="KR3497" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3497.png" mimeType="image/png"/>也/五瓜切/歄/居委切/疲極也</hi>㰝<hi>余耳切/欬也</hi>欳<hi>口怪切/大息也</hi>㱁<hi>思萃切問也五困切又竒逆切氣逆也/舒臣切吟/也亦作呻/詡政切/含笑皃/去劒切/古欠字</hi>㰡<hi>呼介切/声也</hi>㰼<hi>苦叶切欲也</hi>
+歠<hi>昌恱甞恱二切大欱也</hi>㰫<hi>恥南切欣/也惏也/秦力切汁/錯/也/余六切/驚詞</hi>㰵<hi>子律切/吮也</hi>欰<hi>私律切鳴也丑歷切痛也又知力切</hi>欹<hi>於宜切欹/歎詞也/於伯胡陌/二切吐声/毗必切/吹也/古勿切/飲声</hi>缼<hi>輕歷切吹声許勿虚記二切急怒声</hi>㰬<hi>息均切信/也逆氣也/許狄切/出鼻涕/子六切/欻悲皃/於六切/愁皃</hi>赥<hi>許迪切笑皃</hi>
+歏<hi>去靳切又丘云切氣盛/去斤切口/孕切嚏也/年支切匹/婢切声也/秦力切錯/喉与/同/火盍切/啜也</hi>㱌<hi>於業切取也</hi>
+歂<hi>視專視兖二切口氣引也</hi>欴<hi>來當切欴/㰠貪皃</hi>㰠<hi>火郎切/欣㰠</hi>歕<hi>普門普悶二切歕氣也</hi>
+<pb n="8a"/>
+︻食部一百十二<hi>凡二百二十字</hi>食<hi>是力切飯/食飲食也/說文/食</hi>
+                    <graphic n="KR2542" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2542.png" mimeType="image/png"/>
+                    <hi>思流切饙也</hi>
+                    <graphic n="KR4191" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4191.png" mimeType="image/png"/>
+                    <hi>同上</hi>
+養<hi>余掌切育也守也樂也畜也長也又弋尚切供養也</hi>飴<hi>翼之切/餳也/同上籀文</hi>䬮<hi>古文</hi>
+饙<hi>甫云切半蒸飯也</hi>餴<hi>並同/上</hi>飪<hi>如甚切/大熟食</hi>餁<hi>同上</hi>饘<hi>之延切饘/粥糜也</hi>
+                    <graphic n="KR0673" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0673.png" mimeType="image/png"/>
+                    <hi>同上</hi>
+飯<hi>扶晚切餐飯符萬切食也</hi>
+                    <graphic n="KR3905" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3905.png" mimeType="image/png"/>飰<hi>並同/上俗</hi>饔<hi>於㳟切/熟食也/女又切/雜飯也</hi>饎<hi>充志切酒食/也黍稷也/同上於革切飽声也</hi>
+                    <graphic n="KR3101" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3101.png" mimeType="image/png"/>
+                    <hi>並同/上</hi>
+                    <graphic n="KR3377" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3377.png" mimeType="image/png"/>
+                    <hi>式掌切/晝食也/同上/子旦切以/羹澆飯</hi>䬤<hi>古文</hi>
+飽<hi>補挍切食充飽蒲也/並古/文</hi>餫<hi>于問切/野饋也</hi>䬼<hi>於縣切/猒也</hi>餬<hi>户吾切寄食/也或作糊䊀/同上</hi>
+餔<hi>補胡切甲時食亦作脯</hi>餱<hi>胡溝切乾/食曰餱糧</hi>飻<hi>他結切/貪食也</hi>餮<hi>同上</hi>饕<hi>敕髙切貪/食貪財也/籀文</hi>
+䭑<hi>力冉切嘰也一曰廉累</hi>餳<hi>徒當切飴/和饊也</hi>饊<hi>先但切/饊飯也</hi>餅<hi>卑井切/麫餈也</hi>饐<hi>於利切臭/味変也</hi>䬥<hi>古文</hi>
+饟<hi>式尚式章二切饋食也</hi>饛<hi>莫東切盛/器蒲皃</hi>饁<hi>爲輙切/餉田食</hi>餉<hi>式亮切/饋也</hi>䬽<hi>始銳切小餟/也又力外切</hi>䭨<hi>同上</hi>
+饗<hi>許掌切設盛礼以飯賔也</hi>䭓<hi>五恨五寸/二切饐也</hi>飢<hi>几夷切/餓也/古文/飢</hi>䬷<hi>尸野切䬼/飫䬷飽也/同上</hi>
+飵<hi>在各族故二切食麥也</hi>餞<hi>自剪切送/行設宴也</hi>餀<hi>呼帶切/食臭也</hi>䭒<hi>胥弋切/氣息也</hi>餐<hi>七安切吞/也食也</hi>湌<hi>同上</hi>
+䬯<hi>女兼切相謁而食麥也</hi>館<hi>古換切舎/也逆旅名</hi>饉<hi>竒振切/𬞞不熟</hi>䬴<hi>莫逹切/馬食穀</hi>䭔<hi>丁回切蜀呼/蒸餅曰䭔/同上</hi>
+䭡<hi>於寸於恨二切食欲飽也</hi>餤<hi>弋廉徒甘/二切進也</hi>饑<hi>紀衣切/穀不熟</hi>餓<hi>五賀切/飢也</hi>饌<hi>士卷切飯/饌飯食也</hi>籑<hi>同上</hi>
+<pb n="8b"/>
+飶<hi>蒲結蒲必二切食香也</hi>餌<hi>如至切食/也餅也</hi>飤<hi>夕恣切/食也</hi>飼<hi>同上</hi>飾<hi>舒弋切修飾粧飾也</hi>餝<hi>俗</hi>
+餥<hi>甫鬼切餱也又甫違切</hi>餾<hi>力救切/氣蒸也</hi>䭐<hi>余障切/餌也</hi>
+                    <graphic n="KR2449" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2449.png" mimeType="image/png"/>
+                    <hi>於勿於月二切䭉也/飴和豆也亦作/同上</hi>
+餘<hi>与居切殘也剰也多也</hi>䬵<hi>古來切飴/曰䬵<graphic n="KR2449" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2449.png" mimeType="image/png"/>
+                    </hi>餗<hi>思榖切/鼎實也/力丁切/餌也</hi>饒<hi>如燒切多也飽也豐也厚也餘也</hi>
+餲<hi>於利於介二切飯臭也</hi>䭞<hi>余石切祭/之明日也</hi>餣<hi>於劫切/餈也</hi>餭<hi>戸光切/乾飴也</hi>餟<hi>張芮切祭酹也餽也亦作醊</hi>
+䭕<hi>子敢切无味也又慙濫切</hi>飩<hi>徒昆切餛/飩食也</hi>餛<hi>戸昆切/餛飩</hi>餦<hi>猪良切/餌也/力甑力烝二切馬食穀多氣流四下也</hi>
+䭉<hi>思累弋累二切豆屑雜糖</hi>餹<hi>徒當切餹/䬾餌也</hi>䬾<hi>徒兮切/餹䬾/普力切/飽也</hi>餧<hi>奴罪切飢也一曰魚敗又於僞切飼也</hi>
+䭢<hi>奴耕切又内充實/女江切䭢/強食也</hi>餄<hi>公洽切/餌也</hi>餼<hi>虚氣切/饋餉也</hi>䭈<hi>記言切粥也</hi>飦<hi>同上子荏切餂也或作</hi>䭤<hi>去善切噍/也乾麫餅</hi>䬧<hi>五丸切/餌也</hi>䬫<hi>徒奚切/䬫餬也/蒲突切/饇也</hi>䬬<hi>於仰切也</hi>
+䭇<hi>於結切食不下或作噎/力拾切糝/也古文粒</hi>䭘<hi>乙錦切/飽蒲也</hi>䭊<hi>同上</hi>飬<hi>金媛切/祭也</hi>餂<hi>逹兼切古文䀨</hi>
+餽<hi>居位求位二切遺食也/視利切貪/欲与嗜同</hi>䭖<hi>之庶切/呼豕食</hi>餪<hi>奴管切/餽女也/胡郭切/无味也</hi>飷<hi>子也切无味也</hi>
+饍<hi>時戦切食也与膳同</hi>飲<hi>於錦切咽/水亦歠也/古文飲/亦作㱃/思敢切/羹/也/苦到切/勞也</hi>䬿<hi>亡鬼切微也</hi>
+飳<hi>竹句之句二切祀也</hi>饀<hi>杜刀切他/刀切食也/居六切/饘也</hi>餩<hi>於北切/噎也</hi>餕<hi>子殉切/熟食也</hi>䭂<hi>倚及切䭂濕也魚據切以酒食送人</hi>䭁<hi>之例切臭/敗味也/視豔切/亦贍也</hi>飺<hi>疾移切/嫌食皃</hi>飫<hi>於據切食過多</hi>
+                    <graphic n="KR3561" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3561.png" mimeType="image/png"/>
+                    <hi>同上</hi>
+<pb n="9a"/>
+飧<hi>蘇昆切水和飯也/莫彼切哺/小兒也/於元切/貪也</hi>
+                    <graphic n="KR2730" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2730.png" mimeType="image/png"/>
+                    <hi>莫波切/<graphic n="KR2730" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2730.png" mimeType="image/png"/>食也</hi>餈<hi>疾資切/餈糕也同上烏告切妬食也</hi>餻<hi>古刀切餻/糜餻餅也</hi>餚<hi>胡交切/饌也/止盈切/煑食也</hi>䭅<hi>戸烏切/餅也</hi>餇<hi>徒紅切食也</hi>
+饋<hi>渠位切餉也</hi>饞<hi>士咸切食/不嫌也/蜀容切/饞/也/都滕切/飽也/色求切飯壞也</hi>餿<hi>同上尺志切酒食多也/都獵切/食皃/奴盍切</hi>䬲<hi>古侯切/牛飽也</hi>
+                    <graphic n="KR2148" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2148.png" mimeType="image/png"/>
+                    <hi>杜刀切/餌也</hi>饇<hi>於遇切飽也</hi>
+饆<hi>卑吉切饆饠修食也</hi>饠<hi>洛河切/饆饠/素回切/飯也/直知切/飴/也</hi>餜<hi>古火切/餅子也</hi>
+                    <graphic n="KR3287" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3287.png" mimeType="image/png"/>
+                    <hi>口敢切飢也</hi>
+餺<hi>浦各切餺飥米食也</hi>飥<hi>他各切/餺飥/古迴切/飽也</hi>餒<hi>奴罪切/飢餓也/丑善切/長味也/郞外切門祭名</hi>
+飣<hi>丁定切貯食也</hi>餖<hi>徒候切/飣餖也</hi>
+                    <graphic n="KR1882" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1882.png" mimeType="image/png"/>
+                    <hi>於外切/飽也</hi>饚<hi>火蓋切/食臭也/鋤吏切嗜食也</hi>䭄<hi>同上</hi>
+饜<hi>於艶切飽也</hi>䬨<hi>九右切/飽也</hi>
+                    <graphic n="KR4606" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4606.png" mimeType="image/png"/>
+                    <hi>居戀切/饌也/奴倒切/熟食也/古卧切/食也</hi>
+                    <graphic n="KR4082" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4082.png" mimeType="image/png"/>
+                    <hi>人又切餾也</hi>
+䬣<hi>去毅切食怒也/許氣切/食怒也</hi>䬶<hi>五良切/餒也/而至切/祭也/力谷切/食也</hi>
+                    <graphic n="KR1882" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1882.png" mimeType="image/png"/>
+                    <hi>徒屋切粥也直六切食皃/胡瞎切/飽也</hi>䭦<hi>蒲莫切/餅也</hi>餑<hi>蒲没切/麫餅也</hi>飭<hi>恥力切/謹皃/昨結切食也</hi>
+䭆<hi>女厄切炙餅餌也</hi>
+                    <graphic n="KR1917" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1917.png" mimeType="image/png"/>
+                    <hi>昨糟切/食䧟也/而勇切/食也</hi>䭃<hi>如枕切/飽也/古洽切餅也</hi>
+                    <graphic n="KR2410" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2410.png" mimeType="image/png"/>
+                    <hi>同上</hi>
+䬳<hi>方蒲切屑米餅也</hi>饏<hi>徒敢切无味也</hi>
+︻甘部一百十三<hi>凡十二字</hi>甘<hi>古藍切甘心快意/也楽也說文美也/說文/甘</hi>甛<hi>徒兼切甘美也</hi>
+<pb n="9b"/>
+猒<hi>於豔於塩二切足也飽也又方冉於甲於渉三切/同上</hi>甚<hi>市荏切孔/也劇也/古文/徒戴切甘也古三紅談二切和也</hi>甞<hi>市揚切試/也又祭名</hi>㽑<hi>徒紺徒含二切/長味也或作醰</hi>㽐<hi>呼兼切香也或作馦</hi>
+︻旨部一百十四<hi>凡四字</hi>旨<hi>支耳切美/味也意也/古/文/古文</hi>嘗<hi>市羊切口味之也与甞同</hi>
+︻㳄部一百十五<hi>凡五字</hi>㳄<hi>徐仙切說文慕欲/口液也亦作涎<graphic n="KR2516" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2516.png" mimeType="image/png"/>
+                    </hi>
+                    <graphic n="KR4554" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4554.png" mimeType="image/png"/>
+                    <hi>籕文/弋之切歠也</hi>
+盜<hi>徒到切逃也私利物也</hi>羨<hi>徐箭切饒也貪欲也</hi>
+︻　部一百十六<hi>凡八字/女涉切盗不止也所以驚/人也一曰大声也今作幸/𥙷到切酧荅也余石切同人也捕罪也生也楽也好也/張流切引擊也/文盩厔縣名/之入切持也守也結也魚距切養馬者又垂也退也禁也使也/居六切窮/治罪人也同上</hi>
+︻夲部一百十七<hi>凡九字</hi>夲<hi>丑髙切往來見貌/也說文進趣也/同/上/歩到切耗也猝也今作暴呼物呼貴二切疾也</hi>皋<hi>古刀切/澤也</hi>皐<hi>同上</hi>
+                    <graphic n="KR2273" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2273.png" mimeType="image/png"/>
+                    <hi>余凖切進/也或作允</hi>奏<hi>子漏切進/奏也書也/說文奏</hi>
+︻夰部一百十八<hi>凡六字</hi>夰<hi>公道切/放也</hi>昦<hi>乎老切昦天/元氣廣大也</hi>昊<hi>同上俗居遇切㪯自驚/然/也</hi>奡<hi>午到切慢/也亦作傲</hi>臩<hi>俱永切驚走也又往來皃</hi>
+大廣益㑹玉篇卷第九<hi>終</hi>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

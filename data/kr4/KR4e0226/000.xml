@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>馮少墟集</head>
+    <p>
+<pb n="KR4e0226_WYG_000-1a"/>
+欽定四庫全書　　　　　集部六<lb/>
+　馮少墟集　　　　　　　别集類五<hi>明</hi>
+　　提要<lb/>
+　　　　臣等謹案馮少墟集二十二巻明馮從吾撰<lb/>
+　　　　從吾有元儒考略己著錄其文集初刻止于<lb/>
+　　　　萬厯壬子此本乃其次子嘉年益以癸丑以<lb/>
+　　　　後至天啟辛酉作類序重刻自巻一至巻十<lb/>
+　　　　二皆語錄巻十三至巻十八皆詩文巻十九<lb/>
+<pb n="KR4e0226_WYG_000-1b"/>
+　　　　至巻二十為族譜家乗巻二十一至巻二十<lb/>
+　　　　二為闗學編葢生平著作彚于此集其中講<lb/>
+　　　　學之作主於明理論事之作主于達意不復<lb/>
+　　　　以辭采為工然有物之言篤實切明雖字句<lb/>
+　　　　間涉俚俗固不以弇陋譏也惟其與朱童䝉<lb/>
+　　　　争論首善書院講學一疏稱宋之不兢以禁<lb/>
+　　　　講學故非以講學故也先臣守仁當兵事倥<lb/>
+　　　　偬不廢講學卒成大功此臣之所以不恤毁<lb/>
+<pb n="KR4e0226_WYG_000-2a"/>
+　　　　譽而為此也又郭元厚郭興治等劾鄒元標<lb/>
+　　　　從吾又上疏力争稱京師講學昔已有之云<lb/>
+　　　　云其説頗為固執夫士大夫自甲科通籍於<lb/>
+　　　　聖賢大義不患不知顧實踐何如耳不在乎<lb/>
+　　　　聚而講也維古極盛之治有臯䕫稷契亦越<lb/>
+　　　　小康之世有房杜王魏韓范富歐陽亦何嘗<lb/>
+　　　　招百司執事環坐而談心性哉無故而舎其<lb/>
+　　　　職司呼朋引類使其中為君子者授人以攻<lb/>
+<pb n="KR4e0226_WYG_000-2b"/>
+　　　　擊之間為小人者借此為攀附之途黨禍之<lb/>
+　　　　興未必非賢者開門而揖盜也至於謂宋之<lb/>
+　　　　不競由禁講學尤為牽合考宋之黨禁始于<lb/>
+　　　　寜宗慶元二年八月弛于嘉泰二年二月中<lb/>
+　　　　間不過六七年耳至於寳慶以後周程張邵<lb/>
+　　　　並從祀孔子廟庭紫陽東萊之流並邀褒贈<lb/>
+　　　　理宗得諡為理實由於是葢道學大盛者四<lb/>
+　　　　五十年而宋乃亡焉史傳具存可以覆按安<lb/>
+<pb n="KR4e0226_WYG_000-3a"/>
+　　　　得以徳祐之禍歸咎於慶元之禁乎從吾初<lb/>
+　　　　為御史拒絶閹人劾罷胡汝寧禁大計苞苴<lb/>
+　　　　又上疏諫神宗不親政事㡬遘危禍後廷議<lb/>
+　　　　三案亦持正不阿卓然不愧為名臣惟此兩<lb/>
+　　　　疏意雖善而未計其流弊故附糾其失俾來<lb/>
+　　　　者無惑焉乾隆四十七年二月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>文定集目録</head>
+    <p>
+<pb n="KR4d0204_WYG_000-1a"/>
+欽定四庫全書　　　　　集部四<lb/>
+　文定集目録　　　　　　别集類三<hi>宋</hi>
+　　巻一<lb/>
+　　　奏議三首<lb/>
+　　巻二<lb/>
+　　　奏議三首<lb/>
+　　巻三<lb/>
+　　　奏議三首<lb/>
+<pb n="KR4d0204_WYG_000-1b"/>
+　　巻四<lb/>
+　　　奏議十首<lb/>
+　　巻五<lb/>
+　　　奏議八首<lb/>
+　　巻六<lb/>
+　　　狀劄十九首<lb/>
+　　　表八首<lb/>
+　　巻七<lb/>
+<pb n="KR4d0204_WYG_000-2a"/>
+　　　䇿論二首<lb/>
+　　巻八<lb/>
+　　　制九十二首<lb/>
+　　巻九<lb/>
+　　　序八首<lb/>
+　　　記七首<lb/>
+　　　説一首<lb/>
+　　　銘二首<lb/>
+<pb n="KR4d0204_WYG_000-2b"/>
+　　巻十<lb/>
+　　　題跋二十七首<lb/>
+　　巻十一<lb/>
+　　　題跋二十二首<lb/>
+　　巻十二<lb/>
+　　　題跋二十首<lb/>
+　　巻十三<lb/>
+　　　書十八首<lb/>
+<pb n="KR4d0204_WYG_000-3a"/>
+　　巻十四<lb/>
+　　　書十八首<lb/>
+　　巻十五<lb/>
+　　　書三十一首<lb/>
+　　巻十六<lb/>
+　　　書十九首<lb/>
+　　巻十七<lb/>
+　　　啓十九首<lb/>
+<pb n="KR4d0204_WYG_000-3b"/>
+　　巻十八<lb/>
+　　　啓三十首<lb/>
+　　巻十九<lb/>
+　　　啓六十六首<lb/>
+　　巻二十<lb/>
+　　　祝文九首<lb/>
+　　　祭文七首<lb/>
+　　　誌銘二首<lb/>
+<pb n="KR4d0204_WYG_000-4a"/>
+　　巻二十一<lb/>
+　　　誌銘三首<lb/>
+　　巻二十二<lb/>
+　　　誌銘四首<lb/>
+　　巻二十三<lb/>
+　　　誌銘五首<lb/>
+　　巻二十四<lb/>
+　　　五言古詩八首<lb/>
+<pb n="KR4d0204_WYG_000-4b"/>
+　　　七言古詩一首<lb/>
+　　　七言律詩十一首<lb/>
+　　　七言律詩十二首<lb/>
+　　　五言絶句三首<lb/>
+　　　七言絶句十四首<lb/>
+　　　　<hi>臣</hi>等謹案文定集一名玉山集宋汪應辰撰<lb/>
+　　　　應辰字聖錫信州玉山人初名洋紹興五年<lb/>
+　　　　登進士第一高宗特爲改名初授鎮東軍僉<lb/>
+<pb n="KR4d0204_WYG_000-5a"/>
+　　　　判後官至敷文閣學士四川制置使知成都<lb/>
+　　　　府事蹟具宋史本傳應辰少從喻樗張九成<lb/>
+　　　　吕本中胡安國諸人㳺後與吕祖謙張栻相<lb/>
+　　　　善于朱子爲從表叔恒相與商㩁往返其授<lb/>
+　　　　敷文閣待制也舉朱子以自代契分尤深故<lb/>
+　　　　其學問具有淵源又官秘書省正字時以上<lb/>
+　　　　書迕秦檜外謪建州通判困頓州郡者凡十<lb/>
+　　　　七年史稱其直言無隱于吳芾王十朋陳良<lb/>
+<pb n="KR4d0204_WYG_000-5b"/>
+　　　　翰諸人中最爲骨鯁立身亦具有本末宋史<lb/>
+　　　　藝文志載其集凡五十巻明初已罕流傳𢎞<lb/>
+　　　　治中程敏政于内閣得其本以巻帙繁重不<lb/>
+　　　　能盡録乃摘抄其要編爲廷試䇿十巻奏議<lb/>
+　　　　二巻内制一巻雜文八巻嘉靖間其鄉人夏<lb/>
+　　　　浚刻之又附以遺事志傳等文凡二巻今世<lb/>
+　　　　所行皆從程本傳録不見完帙者已二三百<lb/>
+　　　　年今攷永樂大典所載爲程本不載者幾十<lb/>
+<pb n="KR4d0204_WYG_000-6a"/>
+　　　　　　之四五蓋姚廣孝等所據之本卽敏政所見<lb/>
+　　　　　　之内閣本而敏政取便抄録所採太狹故奏<lb/>
+　　　　　　議長篇多所缺遺謹以浙江所購本與永樂<lb/>
+　　　　　　大典參互比較除其重複増所未備勒為二<lb/>
+　　　　　　十四巻雖未能復五十巻之舊而業已得其<lb/>
+　　　　　　大半精華亦約略具是矣乾隆四十五年十<lb/>
+　　　　月恭校上<lb/>
+　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士　毅<lb/>
+<pb n="KR4d0204_WYG_000-6b"/>
+　　　　　　　　　　總　校　官　<hi>臣</hi>陸　費　　墀<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　文定集目録<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

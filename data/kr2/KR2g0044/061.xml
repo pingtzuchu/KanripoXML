@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>八旗滿洲氏族通譜目録</head> <lb/>
+    <p>
+<pb n="KR2g0044_WYG_061-1a"/>
+欽定四庫全書<lb/>
+　八旗滿洲氏族通譜目録<lb/>
+　　卷三十<lb/>
+　　烏喇地方兀札喇氏<lb/>
+　　　福蘭　　　　　　　達賴<lb/>
+　　　栢起訥　　　　　　德楚庫<lb/>
+　　　　　以上俱有傳<lb/>
+　　　塔第　　　　　　　福噶保<lb/>
+<pb n="KR2g0044_WYG_061-1b"/>
+　　　鐘古　　　　　　　和濟格<lb/>
+　　　吳什哈　　　　　　達爾球<lb/>
+　　　掖普綬　　　　　　武訥塞<lb/>
+　　　貝德勒　　　　　　巴爾都<lb/>
+　　　雅魯　　　　　　　武巴塔<lb/>
+　　　特斗　　　　　　　塔爾謙<lb/>
+　　　恩額圖　　　　　　穆成額<lb/>
+　　　　　以上俱附載<lb/>
+<pb n="KR2g0044_WYG_061-2a"/>
+　　薩哈爾察地方兀札喇氏<lb/>
+　　　穆穆理德特赫　　　札蘭<lb/>
+　　　滚布　　　　　　　陶納<lb/>
+　　　薩進泰　　　　　　第優格<lb/>
+　　　　　以上俱有傳<lb/>
+　　　索爾吉納　　　　　鄂齊蘭<lb/>
+　　　　　以上俱附載<lb/>
+　　黑龍江地方兀札喇氏<lb/>
+<pb n="KR2g0044_WYG_061-2b"/>
+　　　正特克　　　　　　尼堪<lb/>
+　　　舒松阿　　　　　　哲楚克<lb/>
+　　　察漢　　　　　　　和齊喀<lb/>
+　　　瑪納　　　　　　　備達<lb/>
+　　　福帖　　　　　　　嘉勒尼<lb/>
+　　　　　以上俱有𫝊<lb/>
+　　　錫普克尼　　　　　濟普古<lb/>
+　　　德善　　　　　　　薩楞塔<lb/>
+<pb n="KR2g0044_WYG_061-3a"/>
+　　　索渾　　　　　　　素愷<lb/>
+　　　完達錫　　　　　　秦道海<lb/>
+　　　塔恰喇　　　　　　穆丹<lb/>
+　　　三崇阿　　　　　　博爾輝<lb/>
+　　　布濟達　　　　　　那穆達<lb/>
+　　　桑格　　　　　　　薩爾機達<lb/>
+　　　阿拉哈　　　　　　塔庫秦<lb/>
+　　　阿爾楚　　　　　　喀濟納<lb/>
+<pb n="KR2g0044_WYG_061-3b"/>
+　　　達爾華　　　　　　沙諾<lb/>
+　　　特爾德尼　　　　　剛齊喀<lb/>
+　　　塔宻那　　　　　　圖黙圖<lb/>
+　　　勒克楚　　　　　　鄂爾諾<lb/>
+　　　圖爾都瑚　　　　　薩爾格達<lb/>
+　　　揚桑阿<lb/>
+　　　　　以上俱附載<lb/>
+　　各地方兀札喇氏<lb/>
+<pb n="KR2g0044_WYG_061-4a"/>
+　　　色紐　　　　　　　瓦納蓀<lb/>
+　　　尼喀達　　　　　　素克臣<lb/>
+　　　賽達　　　　　　　布雅理墨爾根<lb/>
+　　　布克韜　　　　　　舒爾漢<lb/>
+　　　蘓完顔　　　　　　竒扣<lb/>
+　　　吉瑪納　　　　　　伊留<lb/>
+　　　　　以上俱有傳<lb/>
+　　　吳三泰　　　　　　岱祿<lb/>
+<pb n="KR2g0044_WYG_061-4b"/>
+　　　貳格　　　　　　　鄂錫塔<lb/>
+　　　那爾彪　　　　　　孔果絡<lb/>
+　　　札拉察　　　　　　武克都理<lb/>
+　　　薩克薩哈　　　　　武尼庫<lb/>
+　　　僧額　　　　　　　外都理<lb/>
+　　　札哈理　　　　　　拉普都哈<lb/>
+　　　塔克唐阿　　　　　活隆鄂<lb/>
+　　　阿都喀　　　　　　色穆斗<lb/>
+<pb n="KR2g0044_WYG_061-5a"/>
+　　　福爾哈塔　　　　赫努懇<lb/>
+　　　西爾口　　　　　達普唐阿<lb/>
+　　　勒克車慕　　　　拉喀布<lb/>
+　　　武本格　　　　　鈕爾謨諾<lb/>
+　　　諾爾布　　　　　諾穆圖<lb/>
+　　　艾雅爾圖　　　　塔奇理<lb/>
+　　　鄂爾綽　　　　　武倫圖<lb/>
+　　　訥爾泰<lb/>
+<pb n="KR2g0044_WYG_061-5b"/>
+　　　　　以上俱附載<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

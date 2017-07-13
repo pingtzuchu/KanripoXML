@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3a0110_WYG_009-1a"/>
+欽定四庫全書<lb/>
+御覧經史講義卷三目録<lb/>
+　　　周易<lb/>
+　　泰小往大來吉亨<lb/>
+　　　　　　　　　　　監察御史<hi>臣</hi>張孝挰<lb/>
+　　泰小往大來吉亨則是天地交而萬物通也上下<lb/>
+　　　交而其志同也内陽而外陰内健而外順内君<lb/>
+　　　子而外小人君子道長小人道消也<lb/>
+<pb n="KR3a0110_WYG_009-1b"/>
+　　　　　　　　　　　　少詹事<hi>臣</hi>許王猷<lb/>
+　　　　　　　　　　　　右贊善<hi>臣</hi>錢本誠<lb/>
+　　　　　　　　　　　監察御史<hi>臣</hi>陸尹耀<lb/>
+　　泰小往大來吉亨則是天地交而萬物通也上下<lb/>
+　　　交而其志同也<lb/>
+　　　　　　　　　　　　給事中<hi>臣</hi>衛廷璞<lb/>
+　　則是天地交而萬物通也上下交而其志同也<lb/>
+　　　　　　　　　　　　　編修<hi>臣</hi>賴翰顒<lb/>
+<pb n="KR3a0110_WYG_009-2a"/>
+　　　　　　　　　　　監察御史<hi>臣</hi>富　徳<lb/>
+　　　　　　　　　　　監察御史<hi>臣</hi>馬　丙<lb/>
+　　　　　　　　　　　監察御史<hi>臣</hi>周祖榮<lb/>
+　　上下交而其志同也<lb/>
+　　　　　　　　　　　監察御史<hi>臣</hi>葛峻起<lb/>
+　　内君子而外小人君子道長小人道消也<lb/>
+　　　　　　　　　　　監察御史<hi>臣</hi>陳　仁<lb/>
+　　天地交泰后以財成天地之道輔相天地之宜以<lb/>
+<pb n="KR3a0110_WYG_009-2b"/>
+　　　左右民<lb/>
+　　　　　　　　　　　　　編修<hi>臣</hi>甄　□<lb/>
+　　　　　　　　　　　　　編修<hi>臣</hi>曹　經<lb/>
+　　　　　　　　　　　　　檢討<hi>臣</hi>韓彦曽<lb/>
+　　　　　　　　　　　監察御史<hi>臣</hi>陸尹耀<lb/>
+　　　　　　　　　　　監察御史<hi>臣</hi>劉永泰<lb/>
+　　　　　　　　　　　監察御史<hi>臣</hi>史積𤦺<lb/>
+　　后以財成天地之道輔相天地之宜以左右民<lb/>
+<pb n="KR3a0110_WYG_009-3a"/>
+　　　　　　　　　　　　　編修<hi>臣</hi>陳顧㶌<lb/>
+　　　　　　　　　　　監察御史<hi>臣</hi>戴章甫<lb/>
+　　后以財成天地之道輔相天地之宜<lb/>
+　　　　　　　　　　　　　編修<hi>臣</hi>王覺蓮<lb/>
+　　輔相天地之宜<lb/>
+　　　　　　　　　　　　給事中<hi>臣</hi>倪國璉<lb/>
+　　初九拔茅茹以其彚征吉<lb/>
+　　　　　　　　　　　監察御史<hi>臣</hi>李　㥳<lb/>
+<pb n="KR3a0110_WYG_009-3b"/>
+　　拔茅征吉志在外也<lb/>
+　　　　　　　　　　　　　檢討<hi>臣</hi>周　燾<lb/>
+　　九二包荒用馮河不遐遺朋亡得尚于中行象曰<lb/>
+　　　包荒得尚于中行以光大也<lb/>
+　　　　　　　　　　　監察御史<hi>臣</hi>王興吾<lb/>
+　　九二包荒用馮河不遐遺朋亡得尚于中行<lb/>
+　　　　　　　　　　　監察御史<hi>臣</hi>陶正靖<lb/>
+　　九三无平不陂无往不復艱貞无咎勿恤其孚于<lb/>
+<pb n="KR3a0110_WYG_009-4a"/>
+　　　食有福<lb/>
+　　　　　　　　　　　　　編修<hi>臣</hi>蔡　新<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

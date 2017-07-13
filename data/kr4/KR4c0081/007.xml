@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4c0081_SBCK_007-1a"/>
+李羣玉詩後集卷第三<lb/>
+　　　醉後贈馮姬<lb/>
+黃昏歌舞促瓊筵銀燭臺西見小蓮二寸横波<lb/>
+回慢水一䨇纎手語香絃桂形淺拂梁家黛瓜<lb/>
+字𥘉分碧玉年願托襄王雲雨夢陽臺今夜降<lb/>
+神仙<lb/>
+　　　廣州陪涼公從叔越臺宴集<lb/>
+一徑松梢踏石梯步窮身在白雲西日銜赤浪<lb/>
+金車没天拂滄浪翠幕低髙鳥散飛驚大斾長<lb/>
+風萬里卷秋鼙玉鈎掛海笙歌合珠履三千半<lb/>
+<pb n="KR4c0081_SBCK_007-1b"/>
+似<lb/>
+　　　留别馬使君<lb/>
+俱來海上嘆烟波君佩銀魚我觸羅蜀國才微<lb/>
+甘放蕩專城年少豈蹉跎應怜旅夢千重思共<lb/>
+愴離心一曲歌唯有管絃知客意分明吹出感<lb/>
+恩多<lb/>
+　　　洞庭遇秋<lb/>
+塵愁老來顔乆與江山隔逍遥澄湖上洗眼見<lb/>
+秋色涼波弄輕棹湘月生逺碧未減遥客情西<lb/>
+望杳何極<lb/>
+<pb n="KR4c0081_SBCK_007-2a"/>
+　　　游玉芝觀<lb/>
+尋仙向玉清獨倚雪𥘉晴木落寒郊逈烟開疊<lb/>
+嶂明片雲盤鶴影孤磬雜松聲且共探玄理歸<lb/>
+途月未生<lb/>
+　　　將欲南行陪崔八宴海榴亭<lb/>
+朝宴華堂暮未休幾人偏得謝公留風傳皷角<lb/>
+霜侵㦸雲卷笙歌月上樓賔館盡開徐孺榻客<lb/>
+㠶空戀李膺舟謾誇書劔無歸處水逺山長歩<lb/>
+歩愁<lb/>
+　　　湖寺清明夜遣懷<lb/>
+<pb n="KR4c0081_SBCK_007-2b"/>
+栁暗花香愁不眠獨凭危檻思悽然野雲將雨<lb/>
+渡微月沙鳥帶聲飛逺天乆向飢寒抛弟妹毎<lb/>
+因時節憶團圎餳飡冷酒明年在未定萍蓬何<lb/>
+處邊<lb/>
+　　　移松竹<lb/>
+龍髯鳯尾亂颼颼帶霧停風一畒秋待取滿庭<lb/>
+蒼翠合酒尊書案閉門休<lb/>
+　　　歎靈鷲寺山榴<lb/>
+水蝶巖蜂俱不知露紅凝豔數千枝山深春晚<lb/>
+無人賞即是杜䳌催落時<lb/>
+<pb n="KR4c0081_SBCK_007-3a"/>
+　　　中秋夜南樓寄友人<lb/>
+海月出白浪湖光射髙樓朗吟無緑酒賤價買<lb/>
+清秋氣冷魚龍寂輪髙星漢幽他郷此夜客對<lb/>
+酌餞多愁<lb/>
+　　　九日<lb/>
+年年羞見菊花開十度悲秋上楚臺半嶺殘陽<lb/>
+銜樹落一行斜鴈向人來行雲永絶襄王夢野<lb/>
+水偏傷宋玉材絲筦䦨珊歸客盡黃昏獨自詠<lb/>
+詩廻<lb/>
+　　　同鄭相并歌姬小飲戯贈<lb/>
+<pb n="KR4c0081_SBCK_007-3b"/>
+裙拖六幅湘江水鬢聳巫山一叚雲風格只應<lb/>
+天上有歌聲豈合丗間聞胷前瑞雪燈斜照眼<lb/>
+底桃花酒半醺不是相如怜賦客争教容易見<lb/>
+文君<lb/>
+　　　秣陵懷古<lb/>
+野花黄葉舊呉宫六代豪華燭散風龍虎勢衰<lb/>
+佳氣歇鳯凰名在故臺空市朝遷變秋蕪緑墳<lb/>
+塜髙低落照紅覇業鼎圗人去盡獨來惆悵水<lb/>
+雲中<lb/>
+　　　人日梅花病中作<lb/>
+<pb n="KR4c0081_SBCK_007-4a"/>
+去年今日湘西寺獨把寒梅愁斷腸今年此日<lb/>
+江邊宅卧見瓊枝低壓墻半開半落臨野岸團<lb/>
+情團思醉韶光玉麟寂寂飛斜月素豔亭亭對<lb/>
+夕陽巳𬒳兒童苦攀折更遭風雪損馨香洛陽<lb/>
+桃李漸撩亂回首行宫春景長<lb/>
+　　　黄陵廟二首<lb/>
+小哀洲北浦雲邊二女容華自儼然野廟向江<lb/>
+春寂寂古碑無字草芊芊廻風日暮吹芳芷落<lb/>
+月山深哭杜䳌猶似含顰望廵狩九疑愁絶隔<lb/>
+湘川<lb/>
+<pb n="KR4c0081_SBCK_007-4b"/>
+黃陵廟前莎草春黄陵女兒茜裙新輕舟小檝<lb/>
+唱歌去水逺山長愁殺人<lb/>
+　　　北亭<lb/>
+斜雨飛絲織晚空踈簾半捲野亭風荷花向盡<lb/>
+秋光晚零落殘紅緑沼中<lb/>
+　　　送客往涔陽<lb/>
+春與春愁逐日長逺人天畔逺思郷蘋生水緑<lb/>
+不歸去孤負東溪七里莊<lb/>
+李羣玉詩後集卷第三<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

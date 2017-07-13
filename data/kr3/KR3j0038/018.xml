@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3j0038_SBCK_018-1a"/>
+右容齋随筆續筆三十二卷宋嘉㝎刊本每半葉十行<lb/>
+行廿一字高七寸二分廣五寸五分白口口上有刻上姓名題下四格<lb/>
+卷後書名空兩行皆宋板例日本鞠山文庫所藏荆州田監督<lb/>
+伏侯載以歸以馬刻校之止十三卷中落一行续茟目錄落一目<lb/>
+及總目後凡二百四十九則一條續茟卷十四尹文子條葢晉宋時<lb/>
+細人所作細不作衲卷十六計然意林條如伊尹不以一衣與人亦不取<lb/>
+一衣扵人衣不作介今意林作介後人以孟子改之此爲至善是書向<lb/>
+以李瀚本㑹通館活字本最善馬本自序云向淂沁水李公不全本<lb/>
+又淂友人殘本彚而刻之乃其校訂並不甚謬亦可見前輩用力<lb/>
+之勤矣學部圖書館止存二冊一随筆苐四卷一四筆苐五卷行歀<lb/>
+<pb n="KR3j0038_SBCK_018-1b"/>
+冋而有大德乙亥補板中貞元貞觀貞㝎貞惠並作正桓公作烕公<lb/>
+魏公徵作魏證殷武作商武顓頊作顓帝慎戒作謹戒完顔亮作元顔亮<lb/>
+至匡朗勖樹玄弘讓殷徴則缺筆慎貞桓缺二畫与他宋本不同　冩如先朝<lb/>
+諱号提行上字有提行有不提行二筆銅雀瓦硯先公亦提行例均不一<lb/>
+惜止存兩筆不知天壤問尚有全部否江陰繆荃孫跋<hi>時年七有五</hi>
+<pb n="KR3j0038_SBCK_018-2a"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

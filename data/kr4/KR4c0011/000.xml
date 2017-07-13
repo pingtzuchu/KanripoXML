@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4c0011_SBCK_000-1a"/>
+　曲江集序<lb/>
+　古今說者咸曰唐相張文獻公嶺南第<lb/>
+　一流人物也嗟乎公之人物豈但超出<lb/>
+　嶺南而巳哉盖自三代以至于唐人才<lb/>
+　之生盛在江北開元天寳以前南士未<lb/>
+　有以科第顯者而公首以道侔伊吕科<lb/>
+　進未有以詞翰顯者而公首掌制誥內<lb/>
+　供奉未有以相業顯者而公首相玄宗<lb/>
+<pb n="KR4c0011_SBCK_000-1b"/>
+　公薨後四十餘年浙士始有陸敬輿閩<lb/>
+　士始有歐陽行周又二百四十餘年江<lb/>
+　西之士始有歐陽永叔王介甫諸人起<lb/>
+　於易代之後由是以觀公非但超出嶺<lb/>
+　南盖江以南第一流人物也公之風度<lb/>
+　先知見重於玄宗氣節功業著在信史<lb/>
+　播揚於天下後世唐三百年賢相前稱<lb/>
+　房杜後稱姚宋胡明仲謂姚非宋比可<lb/>
+<pb n="KR4c0011_SBCK_000-2a"/>
+　與宋齊名者公也由是以觀公又非但<lb/>
+　超出江南乃有唐一代第一流人物也<lb/>
+　然公聲名燁燁在人口耳非直以其相<lb/>
+　業在當時且甚有文名史稱其七歲知<lb/>
+　屬文張說謂其為後出詞人之冠又與<lb/>
+　徐堅評其文如䡖縑素練實濟時用柳<lb/>
+　宗元亦謂其能以比興兼著述予生公<lb/>
+　六百餘年之後慕公之為人童稚時嘗<lb/>
+<pb n="KR4c0011_SBCK_000-2b"/>
+　得韶郡所刻金鑑録讀之灼知其偽有<lb/>
+志求公全集刻梓以行世自來<lb/>
+京師㳺太學入官翰林毎遇藏書家輙訪<lb/>
+　求之竟不可得盖餘二十年矣歲己丑<lb/>
+　始得公曲江集於舘閣群書中手自鈔<lb/>
+　録僅成帙聞先妣太宜人䘮因携南歸<lb/>
+　期免䘮後自備梓刻之道韶適友人五<lb/>
+羊涂君暲倅郡偶語及之太守毘陵蘇<lb/>
+<pb n="KR4c0011_SBCK_000-3a"/>
+　　　奉和聖製賜諸州刺史以題坐右<lb/>
+聖人合天徳洪覆在元元毎勞蒼生念不以黄屋尊<lb/>
+興化俟群辟擇賢守列藩得人此爲盛咨岳今復存<lb/>
+降鑒引君道慇懃啓政門容光無不照有象必爲言<lb/>
+成憲知所奉致理歸其根肅肅稟玄猷煌煌戒朱軒<lb/>
+豈徒任遇重兼爾宴錫䌓載聞勵臣節持答明主恩<lb/>
+　　　奉和聖製瑞雪篇<hi>雜言</hi>
+萬年春三朝日上御明䑓旅庭實𥘉瑞雪兮霏微俄<lb/>
+同雲兮蒙宻此時騷切隂風生先過金殿有餘清信<lb/>
+宿嬋姢飛雪度能使玉人俱掩嫮皓皓樓前月𥘉白<lb/>
+<pb n="KR4c0011_SBCK_000-3b"/>
+講學士瓊臺丘濬序<lb/>
+<pb n="KR4c0011_SBCK_000-4a"/>
+　書文獻張公文集後<lb/>
+　韡承乏韶郡之又明日進拜文獻公<lb/>
+　祠退求夫文獻之猶有存者僅得詩<lb/>
+　文二十許篇而已餘未得也成化己<lb/>
+　丑冬始得全集於翰林學士瓊臺丘<lb/>
+　公仲深所因念古君子之爲政必因<lb/>
+　其俗尚又必表章其鄕之先賢以爲<lb/>
+<pb n="KR4c0011_SBCK_000-4b"/>
+　之勸俾人樂而從之蓋恱於使民之<lb/>
+　道固如斯也文獻公之集一時治道<lb/>
+　之盛靡不具載而此郡之俗易治樂<lb/>
+　從者亦多見焉垂之後世足以爲訓<lb/>
+　捐俸重刋惠此學者有能於此契其<lb/>
+　道而施之於時則豈徒爲此郡人而<lb/>
+　已㦲蓋文之行矣尚有望於所謂獻<lb/>
+<pb n="KR4c0011_SBCK_000-5a"/>
+　者之復起也<lb/>
+　常郡江隂蘇韡書<lb/>
+<pb n="KR4c0011_SBCK_000-5b"/>
+<pb n="KR4c0011_SBCK_000-5b"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

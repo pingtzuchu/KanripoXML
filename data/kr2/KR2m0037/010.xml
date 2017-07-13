@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2m0037_WYG_010-1a"/>
+欽定四庫全書<lb/>
+國朝宮史卷十<lb/>
+　　典禮六<lb/>
+　　　儀衛<lb/>
+皇太后儀駕<lb/>
+　　　鳯轎一<lb/>
+　　　　通髤以黃繪金雲龍鳯頂二層飾金鳯十二<lb/>
+　　　　中安鈒花赤金頂銜珊瑚青金緑松等石明<lb/>
+<pb n="KR2m0037_WYG_010-1b"/>
+　　　　黄綾重幨繪金龍鳳舁以十六人<lb/>
+　　　鳯輿一<lb/>
+　　　　通髤以黄繪金雲龍鳯頂二層飾金鳯十二<lb/>
+　　　　中安鈒花赤金頂銜珊瑚青金緑松等石明<lb/>
+　　　　黄綾重幨繪金龍鳯輪亦黄髤<lb/>
+　　　儀轎二<lb/>
+　　　　通髤以黄赤金頂明黄雲縀為衣舁均以八<lb/>
+　　　　人<lb/>
+<pb n="KR2m0037_WYG_010-2a"/>
+　　　儀輿二<lb/>
+　　　　通髤以黄赤金頂明黄雲縀為衣輪均黄髤<lb/>
+　　　朱氂拂塵二<lb/>
+　　　金提鑪二<lb/>
+　　　金香合二<lb/>
+　　　金洗一<lb/>
+　　　金水盂一<lb/>
+　　　金瓶二<lb/>
+<pb n="KR2m0037_WYG_010-2b"/>
+　　　　自提鑪以下並赤金質鈒龍鳯山水珠火飾<lb/>
+　　　　珊瑚青金緑松等石陳於八角盤氶以方几<lb/>
+　　　　並木質朱髤繪金龍鳯<lb/>
+　　　金交椅一<lb/>
+　　　　木質金髤背飾鈒金龍鳯<lb/>
+　　　金方几一<lb/>
+　　　　木質金髤繪龍鳯<lb/>
+　　　明黄縀繡九鳯三幨曲蓋一<lb/>
+<pb n="KR2m0037_WYG_010-3a"/>
+　　　金節二<lb/>
+　　　　以黄紗繡五色龍鳯長八尺懸於竿綴朱旄<lb/>
+　　　　五<lb/>
+　　　青縀繡九鳯<graphic n="KR1259" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1259.png" mimeType="image/png"/>二<lb/>
+　　　黄縀繡九鳯<graphic n="KR1259" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1259.png" mimeType="image/png"/>二<lb/>
+　　　紅縀繡九鳯<graphic n="KR1259" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1259.png" mimeType="image/png"/>二<lb/>
+　　　白縀繡九鳯<graphic n="KR1259" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1259.png" mimeType="image/png"/>二<lb/>
+　　　黑縀繡九鳯<graphic n="KR1259" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1259.png" mimeType="image/png"/>二<lb/>
+<pb n="KR2m0037_WYG_010-3b"/>
+　　　黄縀繡寶相花<graphic n="KR1259" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1259.png" mimeType="image/png"/>四<lb/>
+　　　紅縀方<graphic n="KR1259" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1259.png" mimeType="image/png"/>四<lb/>
+　　　　自青縀九鳯<graphic n="KR1259" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1259.png" mimeType="image/png"/>以下並三幨直柄<lb/>
+　　　黄縀繡龍鳯扇四<lb/>
+　　　紅縀繡龍鳯扇四<lb/>
+　　　黄羅繡雉羽扇四<lb/>
+　　　紅羅繡雉羽扇四<lb/>
+　　　青雲縀繪金龍鳯旂二<lb/>
+<pb n="KR2m0037_WYG_010-4a"/>
+　　　黄雲縀繪金龍鳯旂二<lb/>
+　　　紅雲縀繪金龍鳯旂二<lb/>
+　　　白雲縀繪金龍鳯旂二<lb/>
+　　　黑雲縀繪金龍鳯旂二<lb/>
+　　　卧瓜四<lb/>
+　　　立瓜四<lb/>
+　　　吾仗四<lb/>
+　皇后儀駕<lb/>
+<pb n="KR2m0037_WYG_010-4b"/>
+　　　鳯轎一<lb/>
+　　　　通髤以黄繪金雲鳯頂二層飾金鳯十二中<lb/>
+　　　　安鈒花赤金頂銜珊瑚青金緑松等石明黄<lb/>
+　　　　綾重幨繪金鳯舁以十六人<lb/>
+　　　鳯輿一<lb/>
+　　　　通髤以黄繪金雲鳯頂二層飾金鳯十二中<lb/>
+　　　　安鈒花赤金頂銜珊瑚青金緑松等石明黄<lb/>
+　　　　綾重幨繪金鳯輪亦黄髤<lb/>
+<pb n="KR2m0037_WYG_010-5a"/>
+　　　儀轎二<lb/>
+　　　　通髤以黄赤金頂明黄雲縀為衣舁均以八<lb/>
+　　　　人<lb/>
+　　　儀輿二<lb/>
+　　　　通髤以黄赤金頂明黄雲縀為衣輪均黄髤<lb/>
+　　　朱氂拂塵二<lb/>
+　　　金提鑪二<lb/>
+　　　金香合二<lb/>
+<pb n="KR2m0037_WYG_010-5b"/>
+　　　金洗一<lb/>
+　　　金水盂一<lb/>
+　　　金瓶二<lb/>
+　　　　自提鑪以下並赤金質鈒雲鳯花草飾珊瑚<lb/>
+　　　　青金緑松等石陳於八角盤承以方几並木<lb/>
+　　　　質朱髤繪金鳯<lb/>
+　　　金交椅一<lb/>
+　　　　木質金髤背飾鈒金雲鳯<lb/>
+<pb n="KR2m0037_WYG_010-6a"/>
+　　　金方几一<lb/>
+　　　　木質金髤繪雲鳯<lb/>
+　　　明黄縀繡九鳯三幨曲蓋一<lb/>
+　　　金節二<lb/>
+　　　　以黄紗繡五色鳯長八尺懸於竿綴朱旄五<lb/>
+　　　青縀繡九鳯<graphic n="KR1259" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1259.png" mimeType="image/png"/>二<lb/>
+　　　黄縀繡九鳯<graphic n="KR1259" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1259.png" mimeType="image/png"/>二<lb/>
+　　　紅縀繡九鳯<graphic n="KR1259" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1259.png" mimeType="image/png"/>二<lb/>
+<pb n="KR2m0037_WYG_010-6b"/>
+　　　白縀繡九鳯<graphic n="KR1259" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1259.png" mimeType="image/png"/>二<lb/>
+　　　黑縀繡九鳯<graphic n="KR1259" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1259.png" mimeType="image/png"/>二<lb/>
+　　　黄縀繡寶相花<graphic n="KR1259" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1259.png" mimeType="image/png"/>四<lb/>
+　　　紅縀方<graphic n="KR1259" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1259.png" mimeType="image/png"/>四<lb/>
+　　　　自青縀九鳯<graphic n="KR1259" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1259.png" mimeType="image/png"/>以下並三幨直柄<lb/>
+　　　黄縀繡鳯扇四<lb/>
+　　　紅縀繡鳯扇四<lb/>
+　　　黄羅繡雉羽扇四<lb/>
+<pb n="KR2m0037_WYG_010-7a"/>
+　　　紅羅繡雉羽扇四<lb/>
+　　　青雲縀繪金鳯旂二<lb/>
+　　　黄雲縀繪金鳯旂二<lb/>
+　　　紅雲縀繪金鳯旂二<lb/>
+　　　白雲縀繪金鳯旂二<lb/>
+　　　黑雲縀繪金鳯旂二<lb/>
+　　　卧瓜四<lb/>
+　　　立瓜四<lb/>
+<pb n="KR2m0037_WYG_010-7b"/>
+　　　吾仗四<lb/>
+　　　　凡儀駕旂<graphic n="KR1259" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1259.png" mimeType="image/png"/>頂俱以金擎執輿尉俱用旂尉<lb/>
+　　　　内廷陳設則用内監服紅袖繡小團花遜衣<lb/>
+　　　　繫緑紬帶戴青氊㡌紅絨纓銅頂挿明黄翎<lb/>
+　　皇貴妃儀仗<lb/>
+　　　翟轎一<lb/>
+　　　　通髤以黄繪金雲翟鳥頂二層飾金翟十中<lb/>
+　　　　安素金頂明黄綾重幨繪金翟舁以八人<lb/>
+<pb n="KR2m0037_WYG_010-8a"/>
+　　　儀輿一<lb/>
+　　　　通髤以黄頂二層飾金翟十中安素金頂明<lb/>
+　　　　黄雲縀為衣重幨輪亦黄髤<lb/>
+　　　儀轎一<lb/>
+　　　　通髤以黄金頂明黄雲縀為衣舁以八人<lb/>
+　　　朱氂拂塵二<lb/>
+　　　金提鑪一<lb/>
+　　　金香合一<lb/>
+<pb n="KR2m0037_WYG_010-8b"/>
+　　　金洗一<lb/>
+　　　金水盂一<lb/>
+　　　金瓶二<lb/>
+　　　　自提鑪以下並金質鈒雲翟花草陳於八角<lb/>
+　　　盤承以方几並木質朱髤<lb/>
+　　　金交椅一<lb/>
+　　　　木質金髤背飾鈒金雲翟<lb/>
+　　　金方几一<lb/>
+<pb n="KR2m0037_WYG_010-9a"/>
+　　　　木質金髤<lb/>
+　　　明黄縀繡七鳯三幨曲蓋一<lb/>
+　　　金節二<lb/>
+　　　　以紅紗繡五色鳯長八尺懸於竿綴朱旄五<lb/>
+　　　明黄縀繡寶相花<graphic n="KR1259" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1259.png" mimeType="image/png"/>二<lb/>
+　　　紅縀繡寳相花<graphic n="KR1259" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1259.png" mimeType="image/png"/>二<lb/>
+　　　黑縀繡寶相花<graphic n="KR1259" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1259.png" mimeType="image/png"/>二<lb/>
+　　　紅縀繡瑞草<graphic n="KR1259" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1259.png" mimeType="image/png"/>二<lb/>
+<pb n="KR2m0037_WYG_010-9b"/>
+　　　黑縀繡瑞草<graphic n="KR1259" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1259.png" mimeType="image/png"/>二<lb/>
+　　　　自明黄縀寶相花<graphic n="KR1259" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1259.png" mimeType="image/png"/>以下並三幨直柄<lb/>
+　　　紅羅繡雉羽扇二<lb/>
+　　　黑羅繡雉羽扇二<lb/>
+　　　金黄雲縀素扇二<lb/>
+　　　紅雲縀素扇二<lb/>
+　　　黑雲縀素扇二<lb/>
+　　　金黄縀繪金鳯旂二<lb/>
+<pb n="KR2m0037_WYG_010-10a"/>
+　　　紅縀繪金鳯旂二<lb/>
+　　　黑縀繪金鳯旂二<lb/>
+　　　紅雲縀素旂二<lb/>
+　　　黑雲縀素旂二<lb/>
+　　　卧瓜二<lb/>
+　　　立瓜二<lb/>
+　　　吾仗二<lb/>
+　　貴妃儀仗<lb/>
+<pb n="KR2m0037_WYG_010-10b"/>
+　　　翟轎一<lb/>
+　　　　通髤以金黄繪金雲翟鳥頂二層飾金翟十<lb/>
+　　　　中安素金頂金黄綾重幨繪金翟舁以八人<lb/>
+　　　翟輿一<lb/>
+　　　　通髤以金黄頂二層飾金翟十中安素金頂<lb/>
+　　　　金黄雲縀為衣重幨輪亦金黄髤<lb/>
+　　　儀轎一<lb/>
+　　　　通髤以金黄金頂金黄雲縀為衣舁以八人<lb/>
+<pb n="KR2m0037_WYG_010-11a"/>
+　　　朱氂拂塵二<lb/>
+　　　金提鑪一<lb/>
+　　　金香合一<lb/>
+　　　金洗一<lb/>
+　　　金水盂一<lb/>
+　　　金瓶二<lb/>
+　　　　自提鑪以下並金質鈒雲翟花草陳於八角<lb/>
+　　　　盤承以方几並木質朱髤<lb/>
+<pb n="KR2m0037_WYG_010-11b"/>
+　　　金交椅一<lb/>
+　　　金方几一<lb/>
+　　　　並木質金髤<lb/>
+　　　金黄縀繡七鳯三幨曲蓋一<lb/>
+　　　金節二<lb/>
+　　　　以紅紗繡五色鳯長八尺懸於竿綴朱旄五<lb/>
+　　　金黄縀繡寶相花<graphic n="KR1259" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1259.png" mimeType="image/png"/>二<lb/>
+　　　紅縀繡寶相花<graphic n="KR1259" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1259.png" mimeType="image/png"/>二<lb/>
+<pb n="KR2m0037_WYG_010-12a"/>
+　　　黑縀繡寶相花<graphic n="KR1259" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1259.png" mimeType="image/png"/>二<lb/>
+　　　紅縀繡瑞草<graphic n="KR1259" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1259.png" mimeType="image/png"/>二<lb/>
+　　　黑縀繡瑞草<graphic n="KR1259" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1259.png" mimeType="image/png"/>二<lb/>
+　　　　自金黄縀寶相花<graphic n="KR1259" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1259.png" mimeType="image/png"/>以下並三幨直柄<lb/>
+　　　紅羅繡雉羽扇二<lb/>
+　　　黑羅繡雉羽扇二<lb/>
+　　　紅雲縀素扇二<lb/>
+　　　黑雲縀素扇二<lb/>
+<pb n="KR2m0037_WYG_010-12b"/>
+　　　紅縀繪金鳯旂二<lb/>
+　　　黑縀繪金鳯旂二<lb/>
+　　　紅雲縀素旂二<lb/>
+　　　黑雲縀素旂二<lb/>
+　　　卧瓜二<lb/>
+　　　立瓜二<lb/>
+　　　吾仗二<lb/>
+　　　　凡儀仗旂<graphic n="KR1259" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1259.png" mimeType="image/png"/>頂俱塗金擎執輿尉俱用旂尉<lb/>
+<pb n="KR2m0037_WYG_010-13a"/>
+　　　　内廷陳設則用内監服紅袖繡小團花遜衣<lb/>
+　　　　繫緑紬帶戴青氊㡌紅絨纓銅頂挿金黄翎<lb/>
+　　妃采仗<lb/>
+　　　翟轎一<lb/>
+　　　　通髤以金黄繪金雲翟鳥頂二層飾金翟十<lb/>
+　　　　中安銅質塗金頂金黄綾重幨繪金翟舁以<lb/>
+　　　　八人<lb/>
+　　　翟輿一<lb/>
+<pb n="KR2m0037_WYG_010-13b"/>
+　　　　通髤以金黄頂二層飾金翟十中安銅質塗<lb/>
+　　　　金頂金黄雲縀為衣重幨輪亦金黄髤<lb/>
+　　　儀轎一<lb/>
+　　　　通髤以金黄銅質塗金頂金黄雲縀為衣舁<lb/>
+　　　　以四人<lb/>
+　　　朱氂拂塵二<lb/>
+　　　銀提鑪一<lb/>
+　　　銀香合一<lb/>
+<pb n="KR2m0037_WYG_010-14a"/>
+　　　銀洗一<lb/>
+　　　銀水盂一<lb/>
+　　　銀瓶二<lb/>
+　　　　自提鑪以下並銀質鈒花飾金陳於八角盤<lb/>
+　　　　承以方几並木質朱髤<lb/>
+　　　金交椅一<lb/>
+　　　金方几一<lb/>
+　　　　並木質金髤<lb/>
+<pb n="KR2m0037_WYG_010-14b"/>
+　　　金黄縀繡七鳯三幨曲蓋一<lb/>
+　　　金節二<lb/>
+　　　　以紅紗繡五色鳯長八尺懸於竿綴朱旄五<lb/>
+　　　金黄縀素<graphic n="KR1259" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1259.png" mimeType="image/png"/>二<lb/>
+　　　紅縀繡寶相花<graphic n="KR1259" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1259.png" mimeType="image/png"/>二<lb/>
+　　　黑縀繡寶相花<graphic n="KR1259" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1259.png" mimeType="image/png"/>二<lb/>
+　　　　自金黄縀素<graphic n="KR1259" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1259.png" mimeType="image/png"/>以下並三幨直柄<lb/>
+　　　紅雲縀素扇二<lb/>
+<pb n="KR2m0037_WYG_010-15a"/>
+　　　黑雲縀素扇二<lb/>
+　　　紅縀繪金鳯旂二<lb/>
+　　　黑縀繪金鳯旂二<lb/>
+　　　卧瓜二<lb/>
+　　　立瓜二<lb/>
+　　　吾仗二<lb/>
+　　嬪采仗<lb/>
+　　　翟轎一<lb/>
+<pb n="KR2m0037_WYG_010-15b"/>
+　　　　通髤以金黄繪金雲翟鳥頂二層飾金翟十<lb/>
+　　　　中安銅質塗金頂金黄綾重幨繪金翟舁以<lb/>
+　　　　八人<lb/>
+　　　翟輿一<lb/>
+　　　　通髤以金黄頂二層飾金翟十中安銅質塗<lb/>
+　　　　金頂金黄雲縀為衣重幨輪亦金黄髤<lb/>
+　　　儀轎一<lb/>
+　　　　通髤以金黄銅質塗金頂金黄雲縀為衣舁<lb/>
+<pb n="KR2m0037_WYG_010-16a"/>
+　　　　以四人<lb/>
+　　　銀提鑪一<lb/>
+　　　銀香合一<lb/>
+　　　銀洗一<lb/>
+　　　銀水盂一<lb/>
+　　　銀瓶二<lb/>
+　　　　自提鑪以下並銀質鈒花陳於八角盤承以<lb/>
+　　　　方几並木質朱髤<lb/>
+<pb n="KR2m0037_WYG_010-16b"/>
+　　　金交椅一<lb/>
+　　　金方几一<lb/>
+　　　　並木質金髤<lb/>
+　　　紅縀繡七鳯三幨曲蓋一<lb/>
+　　　金節二<lb/>
+　　　　以紅紗繡五色鳯長八尺懸於竿綴朱旄五<lb/>
+　　　金黄縀繡寶相花<graphic n="KR1259" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1259.png" mimeType="image/png"/>二<lb/>
+　　　紅縀繡寶相花<graphic n="KR1259" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1259.png" mimeType="image/png"/>二<lb/>
+<pb n="KR2m0037_WYG_010-17a"/>
+　　　　並三幨直柄<lb/>
+　　　紅雲縀素扇二<lb/>
+　　　紅縀繪金鳯旂二<lb/>
+　　　卧瓜二<lb/>
+　　　立瓜二<lb/>
+　　　吾仗二<lb/>
+　　　　凡采仗旂<graphic n="KR1259" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1259.png" mimeType="image/png"/>頂俱塗金擎執輿尉俱用旂尉<lb/>
+　　　　内廷陳設則用内監服紅紬繡小團花遜衣<lb/>
+<pb n="KR2m0037_WYG_010-17b"/>
+　　　　繫緑紬帶戴青氊㡌紅絨纓銅頂挿金黄翎<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+國朝宮史卷十<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

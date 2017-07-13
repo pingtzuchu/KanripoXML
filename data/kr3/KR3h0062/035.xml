@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3h0062_WYG_035-1a"/>
+欽定四庫全書<lb/>
+秘殿珠林卷十六目録<lb/>
+　　貯<lb/>
+　乾清宫<lb/>
+　　　名人書<lb/>
+　　道氏經卷上等<lb/>
+　　　唐褚遂良書西昇經一卷<lb/>
+　　　唐歐陽詢臨黄庭經一卷<lb/>
+<pb n="KR3h0062_WYG_035-1b"/>
+　　　唐僧懐素書老子清靜經一卷<lb/>
+　　　宋髙宗臨黄庭經一卷<lb/>
+　　　宋楊后書度人經一卷<lb/>
+　　　宋張即之書清靜經一卷<lb/>
+　　　元趙孟頫書黄庭經一卷<lb/>
+　　　元趙孟頫書黄庭經一卷<lb/>
+　　　元趙孟頫書道徳經上下二卷合卷<lb/>
+　　　元趙孟頫書道徳經一卷<lb/>
+<pb n="KR3h0062_WYG_035-2a"/>
+　　　元趙孟頫書道徳經一卷<lb/>
+　　　元趙孟頫書道徳經一卷<lb/>
+　　　元趙孟頫書道徳經一卷<lb/>
+　　　元趙孟頫書老子一卷<lb/>
+　　　元趙孟頫書金丹四百字一卷<lb/>
+　　　元趙孟頫書陰符經一卷<lb/>
+　　　元蕭宗元𨽻書道徳經一卷<lb/>
+　　　明董其昌書黄庭經一卷<lb/>
+<pb n="KR3h0062_WYG_035-2b"/>
+　　　明董其昌書旁釋聖母帖一卷<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

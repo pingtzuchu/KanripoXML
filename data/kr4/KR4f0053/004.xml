@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4f0053_SBCK_004-1a"/>
+戴東原集卷弟四<lb/>
+　四庫館纂修官翰林院庶吉士戴震譔<lb/>
+　　　荅段若膺論韵<lb/>
+　　　書廣韵目錄後一<lb/>
+　　　書廣韵目錄後二<lb/>
+　　　書廣韵四江後<lb/>
+　　　書盧侍講所藏宋本廣韵後<lb/>
+　　　顧氏音論跋<lb/>
+　　　書玉篇卷末聲論反紐圖後<lb/>
+　　　書劉鑑切韵指南後<lb/>
+<pb n="KR4f0053_SBCK_004-1b"/>
+　　　轉語二十章序<lb/>
+荅段若膺論韵<hi>丙申</hi>
+陸德明於邶風南字云古人韵緩不煩改字顧氏取其<lb/>
+說江愼修先生見於覃至凡八韵字實有古音改讀入<lb/>
+㑴者元寒至仙七韵字實有古音改讀入眞者音韵卽<lb/>
+至諧<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>眞巳下十四韵㑴巳下九韵各析而二自信剖<lb/>
+别入微在此大著㪅析眞臻先與諄文殷魂痕爲二尢<lb/>
+幽與侯爲二且悟古四聲不同今韵猶古本音不同今<lb/>
+韵遂以此<graphic n="KR0856" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0856.png" mimeType="image/png"/>古無平仄通押厺入通押書中自信剖別<lb/>
+入微亦在古音韵至諧之云然僕謂古人以音韵從其<lb/>
+<pb n="KR4f0053_SBCK_004-2a"/>
+意言帝舜歌喜起熈二上一平音節自佳若竝讀平聲<lb/>
+喜起轉嫌於積韵夫音韵之諧密近而成節奏爲諧稍<lb/>
+遠而成節奏亦諧遠而隔礙爲不諧字異音同或積相<lb/>
+似之音亦不諧癸巳春僕在浙東據廣韵分爲七類㑴<lb/>
+巳下九韵皆收脣音其入聲古今無異說又方之諸韵<lb/>
+聲氣冣斂詞家謂之閉口音在廣韵雖屬有入之韵而<lb/>
+其無入諸韵無與之配仍居後爲一類其前㫺無入者<lb/>
+今皆得其入聲兩兩相配以入聲爲相配之樞紐眞巳<lb/>
+下十四韵皆收舌齒音脂微齊皆灰亦收舌齒音入聲<lb/>
+質術櫛物迄月沒曷末黠鎋㞕薛合爲一類東冬鍾江<lb/>
+<pb n="KR4f0053_SBCK_004-2b"/>
+陽唐庚耕淸靑蒸登皆收鼻音支佳之咍蕭宵肴豪尢<lb/>
+侯幽亦收鼻音入聲屋沃燭覺藥陌麥㫺錫職德分蒸<lb/>
+登之咍職德爲一類東冬鍾江尢侯幽屋沃燭覺爲一<lb/>
+類陽唐蕭宵肴豪藥爲一類庚耕淸靑支佳陌麥㫺錫<lb/>
+爲一類弓馮熊雄夢　等字由蒸登轉東尢郵牛丘裘<lb/>
+紑謀等字由之咍轉尢服伏鞴福郁彧牧㙁穋等字由<lb/>
+職德轉屋而東冬轉爲江尢侯轉爲蕭屋獨韵字轉爲<lb/>
+覺陽唐轉爲庚及藥韵字轉陌麥㫺錫音之流變無定<lb/>
+方而可以推其相配者有如是歌戈麻皆收喉音魚虞<lb/>
+模亦收喉音入聲鐸合爲一類以七類之平上厺分十<lb/>
+<pb n="KR4f0053_SBCK_004-3a"/>
+三部及入聲七部得二十部陸德明所謂古人韵緩者<lb/>
+仍有取焉大著内第一部之咍第十五部脂微齊皆灰<lb/>
+第十六部支佳分用說至精確舉三部入聲諭其分用<lb/>
+之<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>尢得之其餘論異平同入或得或失蒸之職登咍<lb/>
+德一類如陾由之轉登能由咍轉登等由海轉等及凝<lb/>
+从疑之屬書内舉得來爲登來螟<graphic n="KR2833" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2833.png" mimeType="image/png"/>爲螟螣證陸韵以<lb/>
+職德配蒸登非無見因謂蒸登與之咍同入此說是也<lb/>
+陸氏惟此類所分之韵多寡適同餘則或此分而彼合<lb/>
+葢陸氏未知音聲洪細如陰陽表裏之相配是以參<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>
+不均眞諄臻<hi>分爲三</hi>脂<hi>合爲/一</hi>質術櫛<hi>亦分/爲三</hi>文殷<hi>分爲/二</hi>微<hi>合爲</hi>
+<pb n="KR4f0053_SBCK_004-3b"/>
+<hi>一</hi>物迄<hi>亦分爲二</hi>元廢月魂痕<hi>分爲/二</hi>灰<hi>合爲/一</hi>沒<hi>亦合/爲一</hi>寒桓<hi>分爲</hi>
+<hi>二</hi>泰<hi>合爲一</hi>曷末<hi>亦分爲二</hi>刪皆黠山夬鎋先齊㞕仙祭薛一<lb/>
+類如寅由眞轉脂揮暉翬由文轉微旂圻沂由殷轉微<lb/>
+西由先轉齊洗洒由銑轉薺獮由旨轉獮浼由銑轉賄<lb/>
+敦由魂轉灰竄由泰轉換及吻从勿讞䡾从獻之屬書<lb/>
+内言第十三部諄文欣魂痕第十四部元寒桓刪山仙<lb/>
+與第十五部同入是也而遺第十二部眞臻先則於脂<lb/>
+韵字以質櫛爲入者及齊以㞕爲入有未察矣眞巳下<lb/>
+分三部脂微諸韵與相配者僅一部又言第十一部庚<lb/>
+耕淸靑與第十二部同入殊失其倫第十一部乃與第<lb/>
+<pb n="KR4f0053_SBCK_004-4a"/>
+<pb n="KR4f0053_SBCK_004-5a"/>
+而爲蘤再轉而爲今音及若婼惹作啞咋檴等字皆鐸<lb/>
+之類平上厺聲見於麻馬箇禡數韵同類互轉也陸氏<lb/>
+所分有入聲及無入聲之韵<graphic n="KR0914" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0914.png" mimeType="image/png"/>然不同惟歌戈麻與有<lb/>
+入者同與無入者異陸氏溷同藥鐸爲一<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>失其入聲<lb/>
+不知覺藥一類鐸又一類鐸韵之襮樂櫟鑿鶴熇等字<lb/>
+當別出歸於藥而屋韵之熇瀑毣等字沃韵之沃翯襮<lb/>
+等字陌韵之翟搦等字麥韵之覈字錫韵之的趯轢溺<lb/>
+激等字古音皆與覺藥爲一類覺韵之朔斮簎等字藥<lb/>
+韵之若著略<graphic n="KR2577" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2577.png" mimeType="image/png"/>郤臄碏斫縛矍彠等字當別出歸於鐸<lb/>
+一爲陽唐之入一爲歌戈麻之入不可溷也陽唐與蕭<lb/>
+<pb n="KR4f0053_SBCK_004-5b"/>
+<pb n="KR4f0053_SBCK_004-5b"/>
+衣之裏故有入之入與無入之厺近從此得其陰陽雌<lb/>
+雄表裏之相配而㑴已下九韵獨無配則以其爲閉口<lb/>
+音而配之者㪅微不成聲也顧氏分古音十部入聲僅<lb/>
+分爲四部㑴已下如舊餘則以配其無入之韵其第五<lb/>
+部雖誤以尢幽合於蕭宵肴豪而分一屋之半二沃之<lb/>
+半四覺之半十八藥之半十九鐸之半二十三錫之半<lb/>
+爲蕭宵肴豪之入者獨得之其第三部雖誤轉侯以合<lb/>
+於魚虞模又誤以一屋之半二沃之半三燭四覺之半<lb/>
+爲魚虞模之入而不知此乃尢侯幽之入也其以十八<lb/>
+藥之半十九鐸之半二十陌二十一麥之半二十二㫺<lb/>
+<pb n="KR4f0053_SBCK_004-6a"/>
+之半爲魚虞模之入者亦得之其第二部雖溷淆不分<lb/>
+從而分之以五質六術七櫛八物九迄爲脂微齊灰之<lb/>
+入十月十一沒十二曷十三末十四黠十五鎋十六㞕<lb/>
+十七薛爲皆祭泰夬廢之入二十一麥之半二十二㫺<lb/>
+之半二十三錫之半爲支佳之入二十四職二十五德<lb/>
+一屋之半爲之咍之入此四者之平上厺㫺人溷淆不<lb/>
+分而入聲有分顧氏因其平上厺不分幷入聲亦合之<lb/>
+然顧氏<graphic n="KR0844" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0844.png" mimeType="image/png"/>眞至仙爲第四部庚之半及耕淸靑爲第八<lb/>
+部蒸登爲第九部苟知相配之說㫺人以入聲隸於四<lb/>
+部者非無見則知入聲當分爲四知入聲可隸於彼又<lb/>
+<pb n="KR4f0053_SBCK_004-6b"/>
+可隸於此必無平上厺分而入不分入分而平上厺不<lb/>
+分則彼分爲四此亦當分爲四今書內舉入聲以論三<lb/>
+部之分實發㫺人所未發然㫺人以職德隸蒸登今以<lb/>
+隸之咍而明其同入於彼此相配得矣㫺人以陌麥㫺<lb/>
+錫隸庚耕淸靑今以隸支佳而譏㫺人於音理未審則<lb/>
+於彼此相配未有見<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>耳㫺人以質術櫛物迄月沒曷<lb/>
+末黠鎋㞕薛隸眞諄臻文殷元魂痕寒桓刪山先仙今<lb/>
+獨質櫛㞕仍其舊餘以隸脂微齊皆灰而謂諄文至山<lb/>
+仙同入是諄文至山仙與脂微齊皆灰相配亦得矣特<lb/>
+彼分二部此僅一部分合未當又六術韵字不足配脂<lb/>
+<pb n="KR4f0053_SBCK_004-7a"/>
+合質櫛與術始足相配其平聲亦合眞臻諄始足相配<lb/>
+㞕配齊者也其平聲則先齊相配今不能別出六脂韵<lb/>
+字配眞臻質櫛者合齊配先㞕爲一部且別出脂韵字<lb/>
+配諄術者合微配文殷物迄灰配魂痕沒爲一部廢配<lb/>
+元月泰配寒桓曷末皆配刪黠夬配山鎋祭配仙薛爲<lb/>
+一部而以質櫛㞕隸舊有入之韵餘乃隸舊無入之韵<lb/>
+或分或合或隸彼或隸此尙宐詳審第九第十第十一<lb/>
+此三部之次觀江從東冬流變庚從陽唐流變得其序<lb/>
+矣東韵字有從蒸登流變者而<graphic n="KR0844" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0844.png" mimeType="image/png"/>爲第六部隔越七八<lb/>
+兩部尢從之咍流變蕭從尢幽流變而以蕭宵肴豪處<lb/>
+<pb n="KR4f0053_SBCK_004-7b"/>
+之咍後尢幽侯前未知音聲相配故耳支佳韵字雖有<lb/>
+從歌戈流變者虞韵字雖有從侯幽流變者皆屬㫄轉<lb/>
+不必以例正轉其正轉之㳒有三一爲轉而不出其類<lb/>
+脂轉皆之轉咍支轉佳是也一爲相配互轉眞文魂先<lb/>
+轉脂微灰齊換轉泰咍海轉登等侯轉東厚轉講模轉<lb/>
+歌是也一爲聮貫遞轉蒸登轉東之咍轉尢職德轉屋<lb/>
+東冬轉江尢幽轉蕭屋燭轉覺陽唐轉庚藥轉錫眞轉<lb/>
+先㑴轉覃是也以正轉知其相配及次序而不以㫄轉<lb/>
+惑之以正轉之同入相配定其分合而不徒恃古人用<lb/>
+韵爲證僕之所見如此葢援古以證其合易明也援古<lb/>
+<pb n="KR4f0053_SBCK_004-8a"/>
+以證其分不易明也古人用韵之文傳者希矣或偶用<lb/>
+此數字或偶用彼數字似彼此不相渉未足<graphic n="KR0856" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0856.png" mimeType="image/png"/>其<graphic n="KR0914" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0914.png" mimeType="image/png"/>然<lb/>
+爲二爲三也況據其不相渉者分之其又有相渉者則<lb/>
+不得不歸之合韵是合韵適以通吾說之竆<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>曰援古<lb/>
+以證其分不易明也江先生分眞巳下十四韵㑴巳下<lb/>
+九韵各爲二今又分眞巳下爲三分尢幽與侯爲二而<lb/>
+脂微齊皆灰不分爲三東冬鍾不分爲二諄文至山仙<lb/>
+雖分而同入不分尢幽侯雖分而同入不分試以聲位<lb/>
+之洪細言之眞之筠與文之雲本無以別猶脂之帷與<lb/>
+微之韋本無以別也侯之鉤謳與尢之鳩憂雖洪細不<lb/>
+<pb n="KR4f0053_SBCK_004-8b"/>
+同矣猶東之公翁與鍾之恭雍洪細不同也他如模之<lb/>
+孤烏與魚之居於痕之根恩與殷之斤殷魂之昆溫與<lb/>
+文之君煴<hi>於分切</hi>豪之高<graphic n="KR2057" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2057.png" mimeType="image/png"/>
+                    <hi>於刀切</hi>與宵之驕夭其洪細皆<lb/>
+然而據三百篇山有樞首章樞榆婁驅愉二章栲杻埽<lb/>
+考<graphic n="KR0854" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0854.png" mimeType="image/png"/>南山有臺五章枸楰耇後四章栲杻壽茂謂侯與<lb/>
+尢幽不相襍載馳之驅侯則謂其不連悠漕憂爲一韵<lb/>
+生民之揄蹂叜浮棫樸之槱趣角弓之裕瘉則謂爲合<lb/>
+韵僕謂審音本一類而古人之文偶有相涉有不相渉<lb/>
+不得舍其相渉者而以不相涉爲<graphic n="KR0856" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0856.png" mimeType="image/png"/>審音非一類而古<lb/>
+人之文偶有相涉始可以五方之音不同<graphic n="KR0856" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0856.png" mimeType="image/png"/>爲合韵今<lb/>
+<pb n="KR4f0053_SBCK_004-9a"/>
+書內<graphic n="KR0844" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0844.png" mimeType="image/png"/>十七部僕之意第三第四當幷第十二第十三<lb/>
+亦當幷惟第七第八及第十四江先生力辨其當分僕<lb/>
+曩者亦以爲然<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>江先生撰古韵標準時曾代爲舉艱<lb/>
+鰥二字辨論其偏㫄得聲江先生喜而採用之後以眞<lb/>
+至先皆收舌齒音㑴至凡皆收脣音其各分爲二也不<lb/>
+過在侈斂之閒遂主陸氏古人韵緩爲<graphic n="KR0856" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0856.png" mimeType="image/png"/>上秊於永樂<lb/>
+大典內得宋淳熈初楊倓韵譜校正一過其書亦卽呼<lb/>
+等之說於舊有入者不改舊無入者悉以入隸之與江<lb/>
+先生四聲切韵表合僕巳秊定聲韵考別十九鐸不與<lb/>
+覺藥通者又分覺藥陌麥㫺錫之通鐸者爲歌戈之入<lb/>
+<pb n="KR4f0053_SBCK_004-9b"/>
+謂江先生以曷爲歌之入末爲戈之入者應改正楊氏<lb/>
+雖不能辨別藥鐸之異而以藥鐸配陽唐配蕭宵肴豪<lb/>
+又以鐸配歌僕因究韵之呼等一東內一等字與二冬<lb/>
+無別六脂內三等字與八微無別十七眞內二等字與<lb/>
+十九臻無別十七眞十八諄內三等合口呼與二十文<lb/>
+三韵皆無別眞韵內三等開口呼與二十一殷無別二<lb/>
+十七刪與二十八山無別二仙內四等字與一先無別<lb/>
+四宵內四等字與三蕭無別十二庚內二等字與十三<lb/>
+耕無別十二庚十四淸內三等開口呼兩韵無別淸韵<lb/>
+內四等字與十五靑無別十八尢内四等字與二十幽<lb/>
+<pb n="KR4f0053_SBCK_004-10a"/>
+無別二十二覃與二十三談無別二十四鹽內四等字<lb/>
+與二十五添無別鹽韵内三等字與二十八嚴二十九<lb/>
+凡三韵皆無別二十六咸與二十七銜無別其餘呼等<lb/>
+同者音必無別葢定韵時有意求其密用意太過強生<lb/>
+輕重其讀一東內一等字必稍重讀二冬內字必稍輕<lb/>
+觀東德紅切冬都宗切洪細自見然人之語言音聲或<lb/>
+此方讀其字洪大彼方讀其字微細或其一方而此人<lb/>
+讀之洪大易一人讀之又微細或一人語言此時言之<lb/>
+洪大移時而言之微細強生重輕定爲音切不足慿也<lb/>
+唐國子祭酒李涪撰刋誤論陸㳒言切韵一條有云上<lb/>
+<pb n="KR4f0053_SBCK_004-10b"/>
+聲爲厺厺聲爲上又有字同一聲分爲兩韵㳒言平聲<lb/>
+以東農非韵以東崇爲切上聲以董勇非韵以董動爲<lb/>
+切厺聲以送種非韵以送眾爲切入聲以屋燭非韵以<lb/>
+屋㝛爲切何須東冬中終妄別聲律涪厺㳒言未遠巳<lb/>
+讀東冬如一中終如一譏其妄別矣又今人語言矢口<lb/>
+而出作厺聲者廣韵多在上聲作上聲者廣韵多在厺<lb/>
+聲李涪又云余今別白厺上各歸本音詳較輕重以符<lb/>
+古義理盡於此豈無知音是今人語言與廣韵上厺互<lb/>
+異者非後代始流變在唐人巳語言與韵書互異矣韵<lb/>
+書旣出視爲約定俗成然如東冬中終之妄別不必強<lb/>
+<pb n="KR4f0053_SBCK_004-11a"/>
+爲之詞也僕巳秊分七類爲二十部者上秊以呼等考<lb/>
+之眞至仙㑴至凡同呼而具四等者二脂微齊皆灰及<lb/>
+祭泰夬廢亦同呼而具四等者二仍分眞巳下十四韵<lb/>
+㑴巳下九韵各爲二而脂微諸韵與之配者亦各為二<lb/>
+其配元寒至山仙者周南芣苢二章掇捋召南草蟲二<lb/>
+章蕨惙說甘棠首章伐茇二章敗憩三章拜說野有死<lb/>
+麕三章脫帨吠邶擊鼓四章闊說五章闊活匏有苦葉<lb/>
+首章厲揭泉水三章舝邁衞害二子椉舟二章逝害衞<lb/>
+碩人四章活濊發揭孼朅伯兮首章朅桀有狐二章厲<lb/>
+帶王君子于役二章月佸桀括渴采葛首章葛月三章<lb/>
+<pb n="KR4f0053_SBCK_004-11b"/>
+艾歲鄭子衿三章達闕月齊東方之日二章月闥闥發<lb/>
+甫田二章桀怛魏十畞之閒二章外泄逝唐蟋蟀二章<lb/>
+逝邁外蹶陳東門之枌三章逝邁東門之楊二章肺晢<lb/>
+檜匪風首章發偈怛曹蜉蝣三章閱雪說候人首章祋<lb/>
+芾豳七月首章發烈褐歲小雅采薇二章烈渴庭燎三<lb/>
+章艾晣噦正月八章厲滅烕<hi>此章第二句結字非韵乃四句見韵之例</hi>小旻<lb/>
+五章艾敗蓼莪五章烈發害大東七章舌揭四月三章<lb/>
+烈發害鴛鴦三章秣艾車舝首章舝逝渴括菀柳二章<lb/>
+愒瘵邁都人士二章撮髪說四章厲蠆邁白<graphic n="KR0990" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0990.png" mimeType="image/png"/>五章外<lb/>
+邁大雅文王二章世世緜八章拔兌駾喙皇矣二章翳<lb/>
+<pb n="KR4f0053_SBCK_004-12a"/>
+栵三章拔兌<hi>此章拔兌一韵對季一韵下重季字及友字不入韵</hi>生民二章月達<lb/>
+害七章軷烈歲民勞四章愒泄厲敗大板二章蹶泄蕩<lb/>
+八章揭害撥世抑六章舌逝烝民三章舌外發瞻卬首<lb/>
+章厲瘵<hi>此章及後二章皆四句見韵次句惠字非韵下四句疾屆一韵收瘳一韵</hi>二章奪說<lb/>
+召旻六章竭竭害周頌載芟活達傑魯頌泮水首章茷<lb/>
+噦大邁閟宫五章大艾歲害商頌長發二章撥達達越<lb/>
+發烈<graphic n="KR0914" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0914.png" mimeType="image/png"/>六章旆<hi>此字誤荀子引此詩作載發說文引作載坺發坺皆於韵合</hi>鉞烈曷<lb/>
+櫱達<graphic n="KR0914" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0914.png" mimeType="image/png"/>伐桀已上分岀以配元寒桓刪山仙之別於眞<lb/>
+諄臻文殷魂痕僕初定七類者上秊改爲九類以九類<lb/>
+分二十五部若入聲附而不<graphic n="KR0844" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0844.png" mimeType="image/png"/>則十六部阿第一烏第<lb/>
+<pb n="KR4f0053_SBCK_004-12b"/>
+二堊第三此三部皆收喉音膺第四噫第五億第六翁<lb/>
+第七謳第八屋第九央第十夭第十一約第十二嬰第<lb/>
+十三娃第十四戹第十五此十二部皆收鼻音殷第十<lb/>
+六衣第十七乙第十八安第十九靄第二十遏第二十<lb/>
+一此六部皆收舌齒音音第二十二邑第二十三醃第<lb/>
+二十四　第二十五此四部皆收脣音收喉音者其音<lb/>
+引喉收鼻音者其音引喉穿鼻收舌齒音者其音舒舌<lb/>
+而衝齒收脣音者其音斂脣以此爲次似幾於自然鄭<lb/>
+庠古音辨分陽支先虞尢覃六部顧氏古音表析東陽<lb/>
+耕蒸而四析魚歌而二<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>增多四部江先生古韵標準<lb/>
+<pb n="KR4f0053_SBCK_004-13a"/>
+㪅析眞元而二宵侯而二㑴談而二<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>多於顧氏三部<lb/>
+今析支脂之祭而四<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>又多三部入聲顧氏僅分屋質<lb/>
+藥緝四部江君析質月錫職而四析緝盇而二<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>增多<lb/>
+四部今㪅析藥鐸而二顧氏鐸幷屋後而藥鐸有分江<lb/>
+君適未省照也顧以屋質藥緝隸魚支宵㑴江以屋質<lb/>
+月藥錫職緝盇隸東眞元陽耕蒸㑴談又以屋隸矦質<lb/>
+月錫職隸支藥隸魚緝盇隸㑴談而廣韵歌戈麻取其<lb/>
+所分月之屬曷末及藥之屬陌㫺隸之葢江君未知音<lb/>
+聲相配<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>分合猶未當知皆有入聲而未知歌戈本與<lb/>
+舊有入之韵近因引喉而不激揚㫺人遂以其所定無<lb/>
+<pb n="KR4f0053_SBCK_004-13b"/>
+入之韵例之凡音聲皆起於喉故有以歌韵爲聲音之<lb/>
+元者其同於舊有入之韵不同於舊無入之韵明矣江<lb/>
+君亦未明於音聲相配此雖僕所獨得而非敢穿鑿也<lb/>
+僕以爲考古宐心平凡論一事勿以人之見蔽我勿以<lb/>
+我之見自蔽嘗恐求之太過強生區別<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>寧用陸德明<lb/>
+古人韵緩之說後以殷衣乙及音邑五部字數過多推<lb/>
+之等韵他部皆止於四等此獨得四等者二<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>增安靄<lb/>
+遏及醃　五部至若殷乙及謳㪅析之則呼等不全於<lb/>
+三百篇以合韵之說通其竆者必多凡五方之音不同<lb/>
+古猶今也<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>有合韵必轉其讀彼此不同乃爲合韵如<lb/>
+<pb n="KR4f0053_SBCK_004-14a"/>
+載馳之濟閟抑之疾戾此不必改讀而自諧者也閟屬<lb/>
+六至濟屬十二霽在厺聲本一類卽讀入聲如五質之<lb/>
+珌脂旨至質眞軫震質相配共入亦無不諧疾屬質韵<lb/>
+戾屬霽韵亦然特以質櫛㞕專隷眞臻先使眞臻先不<lb/>
+與諄文殷魂痕通以脂微齊皆灰與諄文至山仙共入<lb/>
+不與眞臻先共入而濟戾二字便將脂微齊皆灰及術<lb/>
+物迄沒諸韵字牽連而至割之不<graphic n="KR0856" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0856.png" mimeType="image/png"/>矣揄趣苟驅附奏<lb/>
+垢裕之互相牽連亦然顧氏於古音有草刱之功江君<lb/>
+與足下皆因而加密顧改矦從虞江改虞從矦此江優<lb/>
+於顧處顧藥鐸有別而江不分此顧優於江處其鄭爲<lb/>
+<pb n="KR4f0053_SBCK_004-14b"/>
+六顧爲十江爲十三江補顧之不逮用心亦勤矣此其<lb/>
+得者宐引顧江之說述而不作至支脂之有別此足下<lb/>
+卓識可以千古矣僕㪅分祭泰夬廢及月曷末黠鎋薛<lb/>
+而後彼此相配四聲一貫則僕所以補前人而整之就<lb/>
+敘者願及大著未刻或降心相從而參酌焉<lb/>
+諧聲字半主義半主聲說文九千餘字以義相統今作<lb/>
+諧聲表若盡取而<graphic n="KR0844" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0844.png" mimeType="image/png"/>之使以聲相統條貫而下如譜繫<lb/>
+則亦必傳之絕作也<lb/>
+詩經韵分若干部表羣經韵分若干部表合倂爲古韵<lb/>
+分若干部表每部作四條曰詩經韵曰羣經韵曰古本<lb/>
+<pb n="KR4f0053_SBCK_004-15a"/>
+音曰古合韵似省兩閲亦免羣經韵內字有<graphic n="KR0844" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0844.png" mimeType="image/png"/>於古本<lb/>
+音古合韵兩條者離在兩處<lb/>
+詩中上下句相閒爲節奏者以下句韵爲正上句本可<lb/>
+不用韵故多假借近似之音十月之交四章士宰史氏<lb/>
+桑柔三章資疑維階四章慇辰東<graphic n="KR2188" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2188.png" mimeType="image/png"/>五章毖恤熱淑襍<lb/>
+用氏疑熱相近之音及東淑至遠之音此等乃相閒成<lb/>
+節奏非用韵之正俱不以爲韵亦可<lb/>
+六月首章飭服熾急國鹽鐡論引我用是戒戒僃也義<lb/>
+優於急不特於韵得也熾字亦不當略之<lb/>
+月出三章正月十一章抑十一章此三處慘字皆懆之<lb/>
+<pb n="KR4f0053_SBCK_004-15b"/>
+譌懆愁不安也傪毒也以義考之亦作懆爲得今於月<lb/>
+出作慘以爲合韵於正月略之抑作懆應合考<lb/>
+匏有苦葉二章應是軌字軌車轍也謂道路中車行之<lb/>
+轍迹濟雖盈於道路兩不相涉<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>云不濡軌與雉鳴求<lb/>
+其牡意相反對不必泥於車前軓也毛傳不可從旣曰<lb/>
+濟盈則必濡軓車不可行水中矣引起下句之意不知<lb/>
+所屬雉鳴求其牡譏求非其牡者耳援前矦以證前軓<lb/>
+而讀軓如阜太迂曲<hi>段玉裁案軌非車轍之專名毛詩傳本作由輈以下爲軌是以車之</hi>
+<hi>高下言之高誘注淮南覧冥云兩輪之閒爲軌是以車之廣狹言之禮記車同軌當兼高下廣狹兩說毛傳以</hi>
+<hi>下誤作以上唐人遂妄改軌字爲軓合韵讀如阜之說今已改附正於此</hi>
+<pb n="KR4f0053_SBCK_004-16a"/>
+小旻三章古韵標凖以厭集爲韵似得之<lb/>
+女曰雞鳴三章贈字江先生謂貽字譌爲贈不必以改<lb/>
+字爲嫌而讀來如凌也<lb/>
+疧釋文作疷都禮反則此字非唐人避諱所改明矣然<lb/>
+不必非<graphic n="KR2188" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2188.png" mimeType="image/png"/>字之譌也<lb/>
+詩中第四句始用韵者甚多如生民首章民嫄江漢五<lb/>
+章卣字之類不必以爲合韵<lb/>
+緜首章瓞漆穴室爲韵節奏自合葢緜緜瓜瓞一句其<lb/>
+意巳足民之初生自土沮漆兩句一氣讀其意始足詩<lb/>
+中用韵使語止而有餘音此類甚多今以瓞生爲韵穴<lb/>
+<pb n="KR4f0053_SBCK_004-16b"/>
+室爲韵反遺漆字似未允<lb/>
+正月十二章鄰云慇乃眞文殷不可分之證非合韵<lb/>
+賓之初筵首章第三句始用韵三章第四句始用韵三<lb/>
+章之第一句承首章起句發端偶與下韵同耳秩字恭<lb/>
+字不必以爲合韵<lb/>
+載芟篇載穫濟濟一句其意巳足有實其積萬億及秭<lb/>
+兩句一氣讀其意始足<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>積字非韵<lb/>
+書廣韵目錄後一<lb/>
+切韵之大要有三雙聲一也區別呼等二也聲類異同<lb/>
+三也所謂聲類異同者就二百六韵之次第考之亦不<lb/>
+<pb n="KR4f0053_SBCK_004-17a"/>
+遠東冬鍾一類也<hi>劉鑑切韵指南別之爲通攝</hi>江則古音同東冬一<lb/>
+類今音同陽唐一類<hi>切韵指南江攝</hi>支脂之微一類也<hi>切韵指南止攝</hi>
+魚虞模一類也<hi>切韵指南遇攝</hi>齊佳皆灰咍一類也<hi>切韵指南蟹攝</hi>古<lb/>
+人有韵之文支脂齊佳兩類通用齊韵與支韵幾若無<lb/>
+別考其呼等竝同者支韵爲貲雌斯在齊韵爲齎妻犀<lb/>
+自有區分而五方語言齊韵字往往張口出之比支韵<lb/>
+之微斂脣吻固殊佳皆咍三韵古今音尢弇侈不同如<lb/>
+釐來古通作一字今來字必轉其讀方合於古其爲二<lb/>
+類<graphic n="KR0914" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0914.png" mimeType="image/png"/>然在古音猶江之於東冬鍾麻之於歌戈魚虞實<lb/>
+合爲一類眞諄臻殷文魂痕一類也<hi>切韵指南臻攝</hi>元寒桓刪<lb/>
+<pb n="KR4f0053_SBCK_004-17b"/>
+山先仙一類也<hi>切韵指南山攝</hi>唐宋韵譜次弟元在魂痕之前<lb/>
+或因文殷元同爲三等魂痕寒桓同爲一等以等<graphic n="KR0844" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0844.png" mimeType="image/png"/>之<lb/>
+同相附近而未辨於其類在三百篇用元韵字必與寒<lb/>
+桓一類通而絕不通魂痕用魂韵字必與眞諄一類通<lb/>
+而絕不通元<hi>痕韵字未見詩</hi>二百六韵之譜次弟雖疏部分不<lb/>
+淆唐人奏合而用之者詳議未審遂致自唐已來用韵<lb/>
+戾於三百篇論古者莫之或覺也蕭宵肴豪一類也<hi>切韵</hi>
+<hi>指南效攝</hi>歌戈一類也<hi>切韵指南果攝</hi>麻一類也古音半同歌戈一<lb/>
+類半同魚虞一類<hi>切韵指南假攝</hi>陽唐一類也<hi>切韵指南宕攝</hi>庚耕淸<lb/>
+靑一類也<hi>切韵指南梗攝</hi>蒸登一類也<hi>切韵指南曾攝</hi>尢侯幽一類也<lb/>
+<pb n="KR4f0053_SBCK_004-18a"/>
+<hi>切韵指南流攝</hi>㑴一類也<hi>切韵指南淡攝</hi>覃談鹽添咸銜㘙凡一類也<lb/>
+<hi>切韵指南咸攝凡十有六攝</hi>今音葢十五類古音十三類上厺入統<lb/>
+乎此音之流變有古今而聲類大限無古今鄭樵通志<lb/>
+內外轉圖覃已後八韵移唐陽之前蒸登移㑴之後於<lb/>
+十五類不相謬顔元孫干祿字書覃談在陽之前蒸登<lb/>
+在鹽之後吳棫韵補刱立古通某韵及古轉聲入某韵<lb/>
+之注今人韵目下所注古通轉本之鄭庠古音辨分六<lb/>
+部明顧炎武音學五書考證古音分爲十部按之聲類<lb/>
+俱疏舛未爲得也<lb/>
+書廣韵目錄後二<lb/>
+<pb n="KR4f0053_SBCK_004-18b"/>
+隋陸㳒言定切韵五卷凡萬二千一百五十八字宋景<lb/>
+德中重修增多萬四千三十六字自隋仁壽元秊辛酉<lb/>
+歫宋景德四秊丁未四百七秊明秊大中祥符元秊戊<lb/>
+申敕改名大宋重修廣韵㳒言書今不傳廣韵卷首猶<lb/>
+題云陸㳒言撰本長孫訥言箋注葢二百六韵實㳒言<lb/>
+舊目廣韵上聲二腫湩字下云此是冬字上聲葢㫺人<lb/>
+論韵審其洪細爲一二三四等<graphic n="KR0844" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0844.png" mimeType="image/png"/>如平聲二冬十一模<lb/>
+十五灰二十三魂二十六桓全韵皆一等合口呼十六<lb/>
+咍二十四痕二十五寒六豪七歌二十二覃二十三談<lb/>
+全韵皆一等開口呼十九臻五肴二十六咸二十七銜<lb/>
+<pb n="KR4f0053_SBCK_004-19a"/>
+全韵皆二等開口呼二十文全䪨皆三等合口呼二十<lb/>
+八嚴二十九凡全韵皆三等開口呼三蕭二十幽二十<lb/>
+五添全韵皆四等開口呼上厺入大致準此餘韵或主<lb/>
+辨等兼合口呼開口呼爲一韵如十一唐十七登及十<lb/>
+四泰一等四江十三佳十四皆二十七刪二十八山十<lb/>
+三耕及十七夬二等八微十二齊二十二元三等一先<lb/>
+十五靑四等竝兼合口呼開口呼上厺入準此或因字<lb/>
+少不煩別出則兼數等爲一韵鍾韵兼三等四等腫韵<lb/>
+之三等四等字爲鍾之上聲惟湩<graphic n="KR2301" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2301.png" mimeType="image/png"/>二字屬一等爲冬<lb/>
+之上聲以字少不別立部目又臻櫛二韵無上厺聲字<lb/>
+<pb n="KR4f0053_SBCK_004-19b"/>
+者其上厺聲字在隠焮二韵內臻韵櫛韵竝二等欣韵<lb/>
+迄韵竝三等惟上聲隠韵厺聲焮韵兼二等三等其二<lb/>
+等　齔等字卽臻櫛二韵之上厺也亦以字少不別立<lb/>
+部目然則欣隱焮迄宐改文吻問物之前而眞與諄臻<lb/>
+欣通軫與準隠通震與稕焮通質與術櫛迄通斯於四<lb/>
+聲無所觤戾不當如宋人之改文與欣通吻與隱通問<lb/>
+與焮通物與迄通使欣隠焮迄相隔絕此唐宋韵所可<lb/>
+詳議者顧炎武音論曰唐時二十一殷<hi>宋時避宣祖廟諱改殷爲欣</hi>
+雖云獨用而字少韵窄無獨用成篇者往往於眞韵中<lb/>
+閒一用之如杜甫崔氏東山艸堂詩用芹字獨孤及送<lb/>
+<pb n="KR4f0053_SBCK_004-20a"/>
+韋明府答李滁州二詩用勤字是也然絕無通文者而<lb/>
+二十文獨用則又絕無通殷者合爲一韵始自景祐厺<lb/>
+聲問焮亦然惟上聲今本目錄十八吻下注云隠同用<lb/>
+其卷中十八吻十九隠又各自爲部不相連屬而其下<lb/>
+各注云獨用友人富平李子德因篤以爲目錄誤又考<lb/>
+唐人如李白寄韋六孫逖登會稽山杜甫贈鄭十八賁<lb/>
+詩皆以隠韵字同軫準用其不與吻同用明矣顧君於<lb/>
+殷隠二韵辨之甚詳後有吳下張刻宋本廣韵文注欣<lb/>
+同用吻注隠同用曹刻宋本廣韵同皆景祐禮部韵略<lb/>
+頒行後塗改之本非廣韵舊注也張刻曹刻注文完善<lb/>
+<pb n="KR4f0053_SBCK_004-20b"/>
+別有注文删整者余曾見大小二本及顧氏刻惟顧刻<lb/>
+厺聲隊注代廢同用餘皆隊下注代同用廢注獨用卽<lb/>
+顧氏音論中<graphic n="KR0844" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0844.png" mimeType="image/png"/>廣韵韵目亦與各本注同而所刻獨違<lb/>
+異此正朱人改倂之一顧氏考唐宋韵譜異同遺而未<lb/>
+舉葢其疏忽處也曹刻入聲目錄物注與迄通而卷內<lb/>
+各注獨用與各本注同上厺聲末六韵各本改從禮部<lb/>
+韵略集韵而於注仍改之未盡小本注文删整者上聲<lb/>
+琰注與忝同用無儼字目錄下注忝儼同用曹刻厺聲<lb/>
+釅雖移陷鑑之前而豓注㮇同用釅注𣑽同用陷注鑑<lb/>
+同用猶屬舊注未改目錄豓第五十五注㮇釅同用釅<lb/>
+<pb n="KR4f0053_SBCK_004-21a"/>
+第五十七注鑑同用鑑第五十九注梵同用葢舊次陷<lb/>
+第五十七是以有鑑同用之注釅第五十九是以有梵<lb/>
+同用之注景祐後塗改陷鑑釅三字而注未改也吳才<lb/>
+老韵補上聲五十二豏五十三檻五十四玁可證廣韵<lb/>
+舊次厺聲亦同禮部韵略集韵矣宋初徐楚金說文解<lb/>
+字韵譜<hi>今人以李燾說文解字五音譜爲徐氏書非也</hi>序稱取叔重所記以切<lb/>
+韵次之後序稱又得李舟所著切韵殊有補益其閒有<lb/>
+說文不載而見於序例注義者必知脫漏竝從編錄疑<lb/>
+者則以李氏切韵爲正殆無遺矣是書在廣韵前上聲<lb/>
+豏作湛而湛第五十二檻第五十三儼第五十四厺聲<lb/>
+<pb n="KR4f0053_SBCK_004-21b"/>
+釅作醶<hi>注云俗作釅非</hi>而陷第五十七鑑第五十八醶第五十<lb/>
+九尢足證唐人舊次如是紀學士曉嵐曰惟徐氏此書<lb/>
+及明嘉靖閒朱氏石金石韵府皆於下平聲二仙內分<lb/>
+出三宣豈明時人亦本李舟韵乎余曰朱氏書未知本<lb/>
+何韵豐坊爲作序云取夏竦道參薛尙功楊桓諸編增<lb/>
+其文按四聲<graphic n="KR0844" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0844.png" mimeType="image/png"/>之此言其字之所本不言韵所本今考<lb/>
+其書上聲檻儼范三韵及厺聲釅韵適無字不<graphic n="KR0844" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0844.png" mimeType="image/png"/>而平<lb/>
+聲嚴在咸銜之前入聲業在洽狎之前宋景祐巳後乃<lb/>
+有此次視徐氏書之足證唐韵舊次者迥異矣<lb/>
+書廣韵四江後<lb/>
+<pb n="KR4f0053_SBCK_004-22a"/>
+隋唐二百六韵據當時之音撰爲定本至若古音固未<lb/>
+之考也然別立四江以次東冬鍾後似有見於古用韵<lb/>
+之文江合於東冬鍾不入陽唐<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>使之特自爲部不附<lb/>
+東冬鍾韵內者今音顯然不同不可沒今音且不可使<lb/>
+今音古音相襍成一韵也不次陽唐後者撰韵時以可<lb/>
+通用字相附近不使以今音之近似而淆紊古音也惜<lb/>
+不能盡從斯例如七麻當分爲二韵一次魚虞模之後<lb/>
+一次歌戈之後五支當分爲二韵一與支脂微附近一<lb/>
+與歌戈附近十虞當分爲二韵一與魚模附近一與矦<lb/>
+幽附近一先當分爲二韵一與眞諄臻殷文魂痕附近<lb/>
+<pb n="KR4f0053_SBCK_004-22b"/>
+一與元寒桓刪山仙附近三蕭四宵五肴六豪之字當<lb/>
+別岀古與尢侯幽通者爲一韵次尢矦幽之後十二庚<lb/>
+十三耕十四淸當別出古與陽唐通者爲一韵次陽唐<lb/>
+後十八尢當分爲二韵一與脂之微附近一與侯幽附<lb/>
+近二十二覃二十三談二十四鹽當別岀古與㑴通者<lb/>
+爲一韵以次㑴後上厺入準此分之定韵時厪厪明於<lb/>
+江韵餘諸韵則在明昧之閒不能<graphic n="KR0914" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0914.png" mimeType="image/png"/>然分別宐乎好古<lb/>
+者譏其論韵之疏歟古音之說雖近日始明然鄭康成<lb/>
+氏箋毛詩云古聲塡寘塵同及注他經言古者聲某某<lb/>
+同古讀某爲某之類不一而足是古音之說漢儒明知<lb/>
+<pb n="KR4f0053_SBCK_004-23a"/>
+之非後人刱議也唐陸德明毛詩音義雖引徐邈沈重<lb/>
+諸人紛紛謂合韵取韵叶句而於召南<graphic n="KR0990" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0990.png" mimeType="image/png"/>字云古讀<graphic n="KR0990" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0990.png" mimeType="image/png"/>
+爲敷於邶風南字下云古人韵緩不煩改字是陸氏已<lb/>
+明言古韵特不能持其說耳宋吳才老刱爲古通某韵<lb/>
+及古轉聲入某韵之說戴仲達則有古正音非協韵之<lb/>
+說明陳氏近顧氏考證益詳而古韵今韵究未得其條<lb/>
+貫葢隋唐諸人辨聲之功多考古之功少吳氏陳氏顧<lb/>
+氏則又考古之功多辨聲之功少也<lb/>
+書盧侍講所藏宋本廣韵後<lb/>
+余少時得顧寧人氏所校刻廣韵後又於友人處見大<lb/>
+<pb n="KR4f0053_SBCK_004-23b"/>
+版廣韵與顧刻無異殆卽顧君所據之書也朱錫鬯爲<lb/>
+吳下張氏重刻宋本廣韵作序有曰曩崐山顧處士炎<lb/>
+武校廣韵力欲復古刊之淮陰苐仍明內庫鋟版緣古<lb/>
+本箋注多寡不齊中涓取而刪之略均其字數所稱中<lb/>
+涓取而删者未知其審而序端言周顒以天子聖哲分<lb/>
+四聲則已誤舉周捨對梁武帝語歸之顒此本無從得<lb/>
+其刻書秊月注文亦旣刪整者矣韵自淳祐末劉淵倂<lb/>
+後幾莫復識別二百六韵之舊明內庫猶取廣韵鋟版<lb/>
+事屬希有詎旋有刻此本者歟抑此本實在前爲宋時<lb/>
+詳略兼行厺其繁重者歟上聲目錄十八吻注隱同用<lb/>
+<pb n="KR4f0053_SBCK_004-24a"/>
+而卷內仍各注獨用不使連屬厺聲代廢連屬於隊注<lb/>
+通用目錄隊下注代同用廢注獨用上厺之末六韵儼<lb/>
+釅<graphic n="KR0844" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0844.png" mimeType="image/png"/>豏檻陷鑑之前連屬爲二與平聲入聲連屬爲三<lb/>
+者違異而五十琰注與忝同用無儼字目錄下注忝儼<lb/>
+同用此宋景祐寶元已前所決無有也其閒或云某同<lb/>
+用或云某通用或云與某同用參<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>不治如此當景祐<lb/>
+中修禮部韵略以賈昌朝請韵窄者凡十三處許令附<lb/>
+近通用於是平聲合欣於文合嚴於鹽添合凡於咸銜<lb/>
+上聲合隱於吻合儼於琰忝合范於豏檻厺聲合廢於<lb/>
+隧代合焮於問合釅於豓㮇合梵於陷鑑入聲合迄於<lb/>
+<pb n="KR4f0053_SBCK_004-24b"/>
+物合業於葉帖合乏於洽狎毛大可臆爲之說曰其所<lb/>
+云窄者如冬臻殷痕山談添銜凡等何弗之考也後人<lb/>
+不覩廣韵善木卽吳下張氏所重刋注文完好而二十<lb/>
+文下注欣同用十八吻下注隱同用及上厺之末六韵<lb/>
+與平入齟齬皆自禮部韵略施行檢廣韵者依見行新<lb/>
+例加塗乙遂致舛謬幸其參<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>不治改之未盡苟尋求<lb/>
+䡮跡古書所由舛謬之故章章具存復閱數十百秊舊<lb/>
+本蕩然泯滅學者將益茫如豈不愈可致惜乎哉盧公<lb/>
+雅才閎博今之篤古君子也余從假此本因志數言而<lb/>
+歸之<lb/>
+<pb n="KR4f0053_SBCK_004-25a"/>
+顧氏音論跋<hi>癸未</hi>
+右三卷考論韵之原委葢欲據唐人正宋巳後之失據<lb/>
+古音正唐人之失意甚善也隋陸㳒言唐孫愐之書不<lb/>
+可得見顧君所見止於宋陳彭秊丘雍所刋益名廣韵<lb/>
+者耳廣韵巳無善本致使唐宋用韵沿革異同莫之或<lb/>
+知以顧君之精博而猶覈之疏他人無論矣方開皇初<lb/>
+㳒言同劉臻蕭該顔之推等八人論難後十數秊八人<lb/>
+或亾或存㳒言獨自屛居乃定爲切韵五卷唐儀鳳二<lb/>
+秊長孫訥言爲之箋注歫仁壽初㳒言撰韵時凡七十<lb/>
+有七秊其後郭知玄㪅以朱箋三百字越七十有五秊<lb/>
+<pb n="KR4f0053_SBCK_004-25b"/>
+爲天寶十載孫愐増修改名唐韵天寶末集賢注記稱<lb/>
+上以自古用韵不甚區分陸㳒言切韵又未能釐革乃<lb/>
+改撰韵英仍舊爲五卷舊韵四百三十九新加一百五<lb/>
+十一合五百八十韵一萬九千一百七十七字分析至<lb/>
+細而南部新書天寶時有陳廷堅撰韵英十卷然則注<lb/>
+記所謂舊韵四百三十九殆廷堅之爲歟所謂仍舊爲<lb/>
+五卷者殆仍㳒言卷祑歟自天寶末又二百五十三秊<lb/>
+爲宋景德四秊而崇文院上校定切韵五卷依九經書<lb/>
+例頒行明秊大中祥符元秊改爲大宋重修廣韵㳒言<lb/>
+韵凡萬二千一百五十八字孫愐自序侈<graphic n="KR0844" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0844.png" mimeType="image/png"/>其前後引<lb/>
+<pb n="KR4f0053_SBCK_004-26a"/>
+據入注中諸書總加四萬二千三百八十三言晁公武<lb/>
+誤以爲增加字至是其多非也集韵韵例曰先帝時令<lb/>
+陳彭秊丘雍因㳒言韵就爲刋益葢二百六韵實㳒言<lb/>
+區分舊目<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>廣韵卷首猶題云陸㳒言撰本㳒言韵旣<lb/>
+經郭知玄關亮等九人增加㪅有諸家增字至宋合集<lb/>
+共勒成一部是以改廣韵之名而字數止二萬六千一<lb/>
+百九十四孫愐亦九人者之一耳寶元集韵就廣韵刋<lb/>
+修新増字二萬七千三百三十一合新舊字凡五萬三<lb/>
+千五百二十五當景德中詔<graphic n="KR2204" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2204.png" mimeType="image/png"/>中丞丘雍重定切韵也<lb/>
+龍圖待制戚綸復承詔詳定考試聲韵於是略取切韵<lb/>
+<pb n="KR4f0053_SBCK_004-26b"/>
+要字僃禮部科試謂之韵略其同用獨用例未改後三<lb/>
+十有一秊爲景祐四秊㪅刋修廣韵韵略以賈昌朝請<lb/>
+韵窄者凡十三處許令附近通用是秊四月奉詔修韵<lb/>
+六月卽以所修禮部韵略頒行今廣韵上厺聲末六韵<lb/>
+與禮部韵略集韵同而與平聲入聲齟齬前此不宐爾<lb/>
+也吳才老韵補上聲五十二豏五十三檻五十四儼猶<lb/>
+舊次厺聲亦同集韵葢由習於景祐通用例合儼於琰<lb/>
+忝合范於豏檻合釅於豓㮇合梵於陷鑑遂迷失乎舊<lb/>
+顧君嚴辨廣韵禮部韵略之異同於廣韵上厺聲末六<lb/>
+韵弗省於禮部韵略合廢於隊代遺而未舉所舉二書<lb/>
+<pb n="KR4f0053_SBCK_004-27a"/>
+同用獨用例異者八處不知倂是而十有三處犂然可<lb/>
+考而唐宋用韵沿革之大節目實存其閒巳上音論中<lb/>
+所失考曁考之而疏足以滋惑余<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>書其詳補正之至<lb/>
+如三百篇古人之音用元韵字與寒桓刪山先仙通而<lb/>
+必不通魂痕用魂痕韵字與眞諄臻殷文通而必不通<lb/>
+元唐人用韵乃溷而通之顧君泥於陸德明古人韵緩<lb/>
+不煩改字一語不復致考且於二十八山及一先二仙<lb/>
+内字有從眞諄一類流變而入者不復知其古音也音<lb/>
+論載六書轉注一條所是者蕭楚諸人臆說所非者裵<lb/>
+務齊鄭漁仲諸人之謬誤古之所謂轉注漢許氏之所<lb/>
+<pb n="KR4f0053_SBCK_004-27b"/>
+傳槩未之有聞焉余別有辨正見荅江丈論小學書兹<lb/>
+不具論論其尢關音韵者<lb/>
+書玉篇卷末聲論反紐圖後<lb/>
+朱元巳來爲反切字母之學者歸之西域歸之釋神珙<lb/>
+葢由鄭樵沈括諸人論古疏漏惑於釋氏一二剪劣之<lb/>
+徒眠娗誣欺據其言以爲言也今珙之反紐圖具存其<lb/>
+自爲序曰㫺梁沈約刱立紐字之圖然則珙所爲圖遠<lb/>
+在沈休文後祖述休文者也彼夫競指珙爲北魏時人<lb/>
+始傳西域三十六字母於中土徒因世俗言休文始造<lb/>
+韵欲追而上之以前於休文爲中土之有反切韵學本<lb/>
+<pb n="KR4f0053_SBCK_004-28a"/>
+乎西域左證耳釋氏之徒舉凡書傳所必資竊取而學<lb/>
+之旣得則相欺相誕以造爲西域之說固不足指數獨<lb/>
+怪信之者之數典不能稽遠又筆之書以惑後人噫其<lb/>
+陋也況珙序內倂及元和韵譜自齊永明梁天監下迄<lb/>
+唐憲宗元和閒三百二三十載珙㪅後乎元和而移其<lb/>
+人於四三百載之前而莫之或辨何哉珙圖無所謂字<lb/>
+母者惟五音聲論<graphic n="KR0844" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0844.png" mimeType="image/png"/>字四十而不曰字母與今所傳三<lb/>
+十六字相與齟齬王伯厚言玉篇卷末附以沙門神珙<lb/>
+五音聲論四聲五音九弄反紐圖考珙自序不一語渉<lb/>
+及五音聲論殆唐末宋初或襍取以附玉篇末非珙之<lb/>
+<pb n="KR4f0053_SBCK_004-28b"/>
+爲<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>
+                    <graphic n="KR0844" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0844.png" mimeType="image/png"/>之珙反紐圖前不題作者姓氏玉海有三十六<lb/>
+字母圖一卷僧守溫撰呂介孺曰大唐舍利刱字母三<lb/>
+十後溫首座益以孃牀幫滂微奉六母然則字母三十<lb/>
+六定於守溫在珙後者也雖唐之季巳有是而其學不<lb/>
+著<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>終唐之代以迄宋初絕不聞字母之稱今經傳字<lb/>
+書所有反切仍魏晉齊梁隋唐相傳之舊方漢時崇治<lb/>
+經<graphic n="KR2887" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2887.png" mimeType="image/png"/>鄭康成氏尢爲世所宗其後樂安孫炎受學康成<lb/>
+之門人稱東州大儒顔之推家訓陸德明經典釋文張<lb/>
+守節史記正義皆曰孫炎刱立反語崇文目序曰孫炎<lb/>
+始作字音於是有音韵之學王伯厚曰世謂倉頡制字<lb/>
+<pb n="KR4f0053_SBCK_004-29a"/>
+孫炎作音沈約撰韵爲椎輪之始此唐宋人論反切字<lb/>
+音咸溯源叔然也逮乎末失則謂出神珙出梵僧矣反<lb/>
+語之興不啻七八百載而後競傳守溫之字母近儒乃<lb/>
+莫有能言叔然者吾故書此以見經史字音儒生結髪<lb/>
+從事勿迷失其師承也<lb/>
+書劉鑑切韵指南後<lb/>
+世之傳書論字母等韵者多不本所始何歟其㳒以唐<lb/>
+之季釋守溫爲<graphic n="KR0856" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0856.png" mimeType="image/png"/>稱之若無足徵信然流俗惑於字母<lb/>
+之云疑聲音文字諒由母滋生況其又假古人所謂宮<lb/>
+商角徵羽自文以取重哉前乎守温有辨字五音㳒凡<lb/>
+<pb n="KR4f0053_SBCK_004-29b"/>
+十字五音聲論凡四十字皆與字母三十六參互齟齬<lb/>
+而宋時之以三十六分隸脣齒喉舌牙與近所傳復違<lb/>
+異劉士明是編獨有取於金韓道昭五音集韵次成十<lb/>
+六通攝辨其開口呼合口呼其譜之也橫爲字母三十<lb/>
+六從爲平上厺入曁一二三四等<graphic n="KR0844" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0844.png" mimeType="image/png"/>一等洪大二等次<lb/>
+大三四俱細而四尢細其以配五音也牙爲角舌爲徴<lb/>
+脣爲羽齒爲商喉爲宮方未有四聲之前就用韵比類<lb/>
+區分擬於五音魏書江式傳言呂忱弟靜放<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>左校令<lb/>
+李登聲類之㳒作韵集五卷宫商龣徵羽各爲一篇是<lb/>
+也齊永明中周顒沈約始以平上厺入製韵平聲字繁<lb/>
+<pb n="KR4f0053_SBCK_004-30a"/>
+釐爲上下徐景安樂書乃曰凡宮爲上平商爲下平角<lb/>
+爲入徴爲上羽爲厺逮宋人競傳字母則譏江左撰韵<lb/>
+時識四聲不識七音近又或析等<graphic n="KR0844" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0844.png" mimeType="image/png"/>之四成五謂五音<lb/>
+乃在是者於是五音之說岐而傅會誠無施不可余以<lb/>
+謂皆非也虞夏書曰詩言志歌永言聲依永律和聲古<lb/>
+之所謂五聲宮商角徵羽也者非以定文字音讀也凡<lb/>
+一字則圅五聲誦歌者欲大不踰宮細不過羽使如後<lb/>
+之人膠於一字謬配宮商將作詩者此字用商彼字用<lb/>
+宮合宮商矣有不失其性情違其志意乎惟宮商非字<lb/>
+之定音而字字可宮可商以爲高下之節抑揚之序<graphic n="KR0862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0862.png" mimeType="image/png"/>
+<pb n="KR4f0053_SBCK_004-30b"/>
+作者寫其性情而誦之者宛轉高下以成歌樂語言文<lb/>
+字其音讀本乎師承者有定而及夫歌以永其言大而<lb/>
+爲宮細而爲羽無一定也學病於後人皮傅烏呼此古<lb/>
+義之所以流失其本歟<lb/>
+轉語二十章序<lb/>
+人之語言萬變而聲氣之微有自然之節限是故六書<lb/>
+依聲託事假借相禪其用至博操之至約也學士茫然<lb/>
+莫究今別爲二十章各從乎聲以原其義夫聲自微而<lb/>
+之顯言者未終聞者已解辨於口不繁則耳治不惑人<lb/>
+口始喉下底脣末按位以譜之其爲聲之大限五小限<lb/>
+<pb n="KR4f0053_SBCK_004-31a"/>
+各四於是互相參伍而聲之用葢僃矣參伍之㳒台余<lb/>
+予陽自稱之詞在次三章吾卬言我亦自稱之詞在次<lb/>
+十有五章<graphic n="KR0914" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0914.png" mimeType="image/png"/>四章爲一類類有四位三與十有五數其<lb/>
+位皆至三而得之位同也凡同位爲正轉位同爲變轉<lb/>
+爾女而戎若謂人之詞而如若然義又交通竝在次十<lb/>
+有一章周語若能有濟也注云若乃也檀弓而曰然注<lb/>
+云而乃也魯論吾末如之何卽柰之何鄭康成讀如爲<lb/>
+那<hi>乃箇切案集韵三十八箇云如乃個切若也書曰如五器卒乃復鄭康成讀今尙書音義無此葢開寶中</hi>
+<hi>所刪丁度等據未改釋文有之毛詩柔遠能邇箋云能侞也侞字當亦音乃個切</hi>曰乃曰柰曰<lb/>
+那在次七章七與十有一數其位亦至三而得之若此<lb/>
+<pb n="KR4f0053_SBCK_004-31b"/>
+類遽數之不能終其物是以爲書明之凡同位則同聲<lb/>
+同聲則可以通乎其義位同則聲變而同聲變而同則<lb/>
+其義亦可以比之而通㪅就方音言吾郡歙邑讀若攝<lb/>
+<hi>失葉切</hi>唐張參五經文字顔師古注漢書地理志已然歙<lb/>
+之正音讀如翕翕與歙聲之位同者也用是聽五方之<lb/>
+音及少兒學語未淸者其㞡轉譌溷必各如其位斯足<lb/>
+證聲之節限位次自然而成不假人意厝設也古今言<lb/>
+音聲之書紛然淆襍大致厺其穿鑿自然符合者近是<lb/>
+㫺人旣作爾雅方言釋名余以謂猶闕一卷書刱爲是<lb/>
+篇用補其闕俾疑於義者以聲求之疑於聲者以義正<lb/>
+<pb n="KR4f0053_SBCK_004-32a"/>
+之說經之士<graphic n="KR0679" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0679.png" mimeType="image/png"/>小學之奇觚訪六書之逸簡溯厥本始<lb/>
+其亦有樂乎此也時乾隆丁卯仲春戴震撰<lb/>
+戴東原集卷弟四<lb/>
+<pb n="KR4f0053_SBCK_004-32b"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>經外雜抄</head>
+    <p>
+<pb n="KR3j0048_WYG_000-1a"/>
+欽定四庫全書　　　　　子部十<lb/>
+　經外雜抄　　　　　　　雜家類二<hi>雜考之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案經外雜抄二卷宋魏了翁撰了翁<lb/>
+　　　　有周易要義已著録是編皆雜録諸書而略<lb/>
+　　　　以己意標識于下多有不載全文而但書云<lb/>
+　　　　云字者又有如元子心規之類一條而兩卷<lb/>
+　　　　互見者葢隨手記載以備考證之用本無意<lb/>
+<pb n="KR3j0048_WYG_000-1b"/>
+　　　　于著書後人得其稿本傳寫成帙也其中如<lb/>
+　　　　摘録古詩十九首及摘録素問數條之類頗<lb/>
+　　　　無所取義龜字元緒桑字子明之類尤傷冗<lb/>
+　　　　瑣然如鄒淮所記星象之數楊鼎臣方圓相<lb/>
+　　　　生圖吳沆對問録論明堂制度任直翁易心<lb/>
+　　　　學先天圜中圖之類頗足以資考證又如論<lb/>
+　　　　虞仲房所編説文五音譜失李燾本意論李<lb/>
+　　　　燾疑説文籕體為吕忱竄入之非論像設始<lb/>
+<pb n="KR3j0048_WYG_000-2a"/>
+　　　　于招魂論常元楷壅門為劣論師不專在傳<lb/>
+　　　　授友不專為講習精神氣貌之間自有相激<lb/>
+　　　　發處論陸贄識權字在伊川之前論韓愈上<lb/>
+　　　　李實書與順宗實録相矛盾論保蜀碑徒知<lb/>
+　　　　張大吳氏之功而不知傷中國之體論皆中<lb/>
+　　　　理其引古詩凜凜嵗云暮一首次句作螻蛄<lb/>
+　　　　多鳴悲與宋本玉臺新咏合亦足證今文選<lb/>
+　　　　刋本之誤也乾隆四十六年十一月恭校上<lb/>
+<pb n="KR3j0048_WYG_000-2b"/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

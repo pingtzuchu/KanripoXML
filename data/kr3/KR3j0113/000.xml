@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>寓簡</head>
+    <p>
+<pb n="KR3j0113_WYG_000-1a"/>
+欽定四庫全書　　　　子部十<lb/>
+　寓簡　　　　　　　　　雜家類三<hi>雜説之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案寓簡十巻宋沈作喆撰作喆字明<lb/>
+　　　　逺號寓山湖州人紹興五年進士以左奉議<lb/>
+　　　　郎為江西漕司幹官據書中所敘當和議初<lb/>
+　　　　成之時賜諸將田宅作喆為岳飛作謝表忤<lb/>
+　　　　秦檜則似嘗在飛幕中又自稱嘗官維揚亦<lb/>
+<pb n="KR3j0113_WYG_000-1b"/>
+　　　　不知為何官惟梅磵詩話記其官江西時作<lb/>
+　　　　哀扇工詩忤漕帥魏道弼捃深文劾之坐奪<lb/>
+　　　　三官後從人使金韓元吉贈之以詩有但如<lb/>
+　　　　王粲賦從軍莫為班姬詠團扇句盖指此事<lb/>
+　　　　此書自序題甲午嵗以長厯推之為孝宗淳<lb/>
+　　　　熙元年乃放廢以後所作開巻一條即以古<lb/>
+　　　　詩諷諫為說盖由此也作喆與葉夢得相善<lb/>
+　　　　然夢得之學宗王安石作喆之學則出於蘇<lb/>
+<pb n="KR3j0113_WYG_000-2a"/>
+　　　　軾非惟才辨縦横與軾相似即菲薄王安石<lb/>
+　　　　牴牾伊川程子以及談養生躭禪悦亦一一<lb/>
+　　　　皆軾之緒餘又為丞相沈該之從子該有易<lb/>
+　　　　小傳六巻作喆沿其家傳是書亦頗言易理<lb/>
+　　　　然所言與該頗殊其解帝乙歸妹以為人君<lb/>
+　　　　之徳與帝者相甲乙故能正人倫頗為好異<lb/>
+　　　　其解卦終于未濟以為即道家所謂神轉不<lb/>
+　　　　回回則不轉釋家所謂不住無為不斷有為<lb/>
+<pb n="KR3j0113_WYG_000-2b"/>
+　　　　亦竟以二氏詁經然其論乾鑿度太乙行九<lb/>
+　　　　宫之法出於黄帝素問則能抉䜟緯之本根<lb/>
+　　　　論五行者經世之用紀嵗時行氣運不可闕<lb/>
+　　　　一邵堯夫皇極經世用揚雄之四數加以本<lb/>
+　　　　無之一而去其本有之二為不合于古亦能<lb/>
+　　　　判述數之牽合至于謂劉敞解春秋新作南<lb/>
+　　　　門為僭天子其說本陸龜蒙兩觀銘謂子路<lb/>
+　　　　結纓在獲麟之後二年公羊傳所記孔子之<lb/>
+<pb n="KR3j0113_WYG_000-3a"/>
+　　　　言為妄謂蘇軾解論語患得之當作患不得<lb/>
+　　　　之證以韓愈圬者王承福傳知古本原如是<lb/>
+　　　　謂揚雄之姓從才不從木楊修牋不應稱修<lb/>
+　　　　家子雲謂栁宗元集栁州謝上表稱于頔在<lb/>
+　　　　襄陽相留不知是時頔去襄陽已二年又有<lb/>
+　　　　代劉禹錫同州謝上表不知禹錫遷同州時<lb/>
+　　　　宗元沒已十七年斷其出於偽託皆具有考<lb/>
+　　　　據而掊擊王安石之尊揚雄在朱子綱目之<lb/>
+<pb n="KR3j0113_WYG_000-3b"/>
+　　　　前尤為偉論作喆所著别有一書名已意第<lb/>
+　　　　三巻論淮隂侯為治粟都尉一條註曰其詳<lb/>
+　　　　見已意又云司馬氏許氏二夫人事予於己<lb/>
+　　　　意既言之葢二書本相輔今已不傳又有寓<lb/>
+　　　　林集三十卷亦久佚惟哀扇工歌全篇見周<lb/>
+　　　　煇清波雜志中然詞殊不工此十巻中亦無<lb/>
+　　　　一論詩之語知吟詠非其所長矣乾隆四十<lb/>
+　　　　一年十月恭校上<lb/>
+<pb n="KR3j0113_WYG_000-4a"/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="KR3j0113_WYG_000-5a"/>
+寓簡原序<lb/>
+莊周氏疾夫世士之沈濁不可與莊語也則託意於荒<lb/>
+唐謬悠之説以翫世滑稽而其文壞瑋連犿諔詭可觀<lb/>
+葢實無心於言也寓焉而已爾予屏居山中無與晤語<lb/>
+有所記憶輒寓諸簡牘紛綸叢脞雖詼諧俚語無所不<lb/>
+有而至言妙道間有存焉已而誦言之則欣然如見平<lb/>
+生故人抵掌劇談一笑相樂也因名之曰寓簡聊以自<lb/>
+娱庶幾漆園之無心抑有如惠子者或知其為無用之<lb/>
+<pb n="KR3j0113_WYG_000-5b"/>
+用乎甲午夏寓山沈作喆序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

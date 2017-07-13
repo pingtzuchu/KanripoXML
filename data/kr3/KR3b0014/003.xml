@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3b0014_WYG_003-1a"/>
+右何博士備論二十八篇今缺二篇而符秦論頗有脱<lb/>
+悞又編寫失次未得善本校之宋世士大夫憤於功之<lb/>
+不競而喜論兵如此熈寧間徐僖蕭注熊本沈起之徒<lb/>
+用之而輒敗天子㝷以為悔元符政和開邊之議復起<lb/>
+馴致國亡嗚呼兵豈易言哉歸震川先生題詞庚寅四<lb/>
+月二日錄于貞復堂<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

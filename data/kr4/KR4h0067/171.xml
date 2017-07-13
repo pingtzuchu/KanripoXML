@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>兩宋名賢小集巻一百七十一</head> <lb/>
+    <p>
+<pb n="KR4h0067_WYG_171-1a"/>
+欽定四庫全書<lb/>
+　兩宋名賢小集巻一百七十一<lb/>
+　　　　　　　　　　　　宋　陳　思　編<lb/>
+　　　　　　　　　　　　元　陳世隆　補<lb/>
+　椒亭小集<lb/>
+　康與之字伯可嘉興人建炎中駕駐維揚與之上中<lb/>
+　興十䇿聲名大振宰相汪黄輩不能用及秦檜當國<lb/>
+　擢為䑓郎専應制善為樂府時以栁耆卿目之有詞<lb/>
+<pb n="KR4h0067_WYG_171-1b"/>
+　五巻凡中興粉飾治具及慈寜歸養兩宫歡集必假<lb/>
+　伯可之歌咏嘗與檜對局格天閣下檜戲曰此卒渡<lb/>
+　河是爾將軍之疥癩伯可應曰今皇御極視公宰相<lb/>
+　如腹心檜大喜撤碁酣飲而罷檜死與之亦謫五羊<lb/>
+　名勝志云番禺縣玉虹洞之南曰聚龍岡宋嘉興人<lb/>
+　康與之流五羊時居此桯史載其在髙宗時與左璫<lb/>
+　狎適睿思殿有徽宗御畫扇上時持玩流涕璫偶下<lb/>
+　直竊擕至家而康適來留之燕飲出以示康康紿璫<lb/>
+<pb n="KR4h0067_WYG_171-2a"/>
+　入取肴核輙泚筆書一絶於上即玉輦神遊之句也<lb/>
+　璫出見之大恐而康已醉無可奈何明日伺間叩頭<lb/>
+　請死上大怒亟取視之天顔頓霽但一慟而已<lb/>
+　　題徽宗宸翰<lb/>
+玉輦宸遊事已空尚餘奎藻繪春風年年花鳥無窮恨<lb/>
+盡在蒼梧夕照中<lb/>
+　　遊慧力寺<hi>在清江縣</hi>
+天涯芳草盡綠路旁栁絮爭飛啼鳥一聲春晚落花滿<lb/>
+<pb n="KR4h0067_WYG_171-2b"/>
+地人歸<lb/>
+江上濃隂曉未開瘦笻支我上蒼苔春寒前日去已盡<lb/>
+今日又從何處來<lb/>
+　　僻居<lb/>
+巷僻過從少柴門盡日闗鶯聲常在栁雲影不離山有<lb/>
+道難言<hi>缺</hi>雖貧未厭閒川原煙四暝春思有無間<lb/>
+　　鷺<lb/>
+春暗汀洲杜若香風標公子白霓裳碧天片雪忽飛去<lb/>
+<pb n="KR4h0067_WYG_171-3a"/>
+何處人家水滿塘<lb/>
+　　琵琶<lb/>
+夜深琵琶聲似裂一曲霓裳一庭月曲終人影在西階<lb/>
+困倚東風步揺折<lb/>
+　　可惜<lb/>
+簾幕重重下玉鈎隔簾春在栁梢頭東風著意相料理<lb/>
+吹去楊花不自由<lb/>
+　　鶴舒臺<lb/>
+<pb n="KR4h0067_WYG_171-3b"/>
+白雲深處路﨑嶇鶴去臺空景物殊山展翠屏連紫幕<lb/>
+泉分清溜滴明珠道人秪問丹砂井隠客猶尋九節蒲<lb/>
+試問葛仙仙去後至今遺蹟事如何<lb/>
+　　招真詞<hi>并記</hi>
+　自姑蘇出齊門沿而北望山如巨鼇盖常熟縣之虞<lb/>
+　山也邑去江不及一程陂湖畎澮之積自南至者傾<lb/>
+　馳㑹於江江河既應則迅瀾倒流二水相制移時而<lb/>
+　不能去山無竒谷惟荒墟白草醜石散亂陂陀迤邐<lb/>
+<pb n="KR4h0067_WYG_171-4a"/>
+　而西有修竹横林隠見於兩山之間其中為招真菴<lb/>
+　元祐中道人申氏泰陵徐處士弟子也松林森茂亭<lb/>
+　宇簡寂如隠君子之居通州道士喻抱元増治之舊<lb/>
+　名竹林至是更以招真請記於僕乃歌招真之詞以<lb/>
+　系之曰<lb/>
+白鶴巢兮丹井空蓬山杳兮煙霞濛陵谷變兮今古木<lb/>
+葉下兮秋風飛仙去兮朝太㣲黄冠野服兮以遊以嬉<lb/>
+飡霞臥月兮世不我違與世滌映兮天門可馳蒼龍嘷<lb/>
+<pb n="KR4h0067_WYG_171-4b"/>
+兮雲漫扉石泉冽兮山芋肥俯仰宇宙兮日月蔽虧靈<lb/>
+秀回薄兮野芳呈姿山中之樂兮萬化莫移仙人不來<lb/>
+兮隠者曷歸<lb/>
+　　嚴陵懐古<lb/>
+建武中興寳運開股肱俱是濟時才漢家鼎祚如磐石<lb/>
+此老方圖拂袖來<lb/>
+　　玉虹洞二首<lb/>
+睡起踈簾一半開更無人迹過青苔須㬰蒼狗風前變<lb/>
+<pb n="KR4h0067_WYG_171-5a"/>
+雷雨驅潮出海來<lb/>
+滿山一夜風篁響透屋三更月露寒自掩殘書推枕睡<lb/>
+江湖秋夢水雲寛<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR4h0067_WYG_171-5b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　兩宋名賢小集巻一百七十一<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>
