@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3a0110_WYG_026-1a"/>
+欽定四庫全書<lb/>
+御覽經史講義卷二十目録<lb/>
+　　　春秋<lb/>
+　　春王正月<hi>隱公元年</hi>
+　　　　　　　　　　　監察御史<hi>臣</hi>劉方藹<lb/>
+　　冬十有二月祭伯來<hi>隠公元年</hi>
+　　　　　　　　　　　　　侍講<hi>臣</hi>劉　藻<lb/>
+　　春齊侯衛侯胥命于蒲<hi>桓公三年</hi>
+<pb n="KR3a0110_WYG_026-1b"/>
+　　　　　　　　　　　　　編修<hi>臣</hi>金　相<lb/>
+　　夏五<hi>桓公十有四年</hi>
+　　　　　　　　　　　監察御史<hi>臣</hi>張　漢<lb/>
+　　春王正月不雨夏四月不雨六月雨<hi>僖公三年</hi>
+　　　　　　　　　　　監察御史<hi>臣</hi>宮煥文<lb/>
+　　六月雨<hi>僖公三年</hi>
+　　　　　　　　　　　監察御史<hi>臣</hi>趙青藜<lb/>
+　　凡分至啓閉必書雲物為備故也<hi>左氏傳僖公五</hi>
+<pb n="KR3a0110_WYG_026-2a"/>
+　　　<hi>年</hi>
+　　　　　　　　　　　　　編修<hi>臣</hi>周　煌<lb/>
+　　衛侯使孫良夫石稷寗相向禽將侵齊與齊師遇<lb/>
+　　　新築人仲叔于奚救孫桓子桓子是以免既衛<lb/>
+　　　人賞之以邑辭請曲縣繁纓以朝許之仲尼聞<lb/>
+　　　之曰惜也不如多與之邑唯器與名不可以假<lb/>
+　　　人君之所司也名以出信信以守器器以蔵禮<lb/>
+　　　禮以行義義以生利利以平民政之大節也若<lb/>
+<pb n="KR3a0110_WYG_026-2b"/>
+　　　以假人與人政也政亡則國家從之弗可止也<lb/>
+　　　已<hi>左氏傳成公二年</hi>
+　　　　　　　　　　　監察御史<hi>臣</hi>西　成<lb/>
+　　君子謂祁奚於是能舉善矣稱其讐不為諂立其<lb/>
+　　　子不為比舉其偏不為黨商書曰無偏無黨王<lb/>
+　　　道蕩蕩祁奚之謂矣解狐得舉祁午得位伯華<lb/>
+　　　得官建一官而三物成能舉善也夫惟善故能<lb/>
+　　　舉其類詩曰惟其有之是以似之祁奚有焉<hi>左</hi>
+<pb n="KR3a0110_WYG_026-3a"/>
+　　　<hi>氏傳襄公三年</hi>
+　　　　　　　　　　　　　編修<hi>臣</hi>楊開鼎<lb/>
+　　冬公會晉侯宋公衛侯曹伯莒子邾子滕子薛伯<lb/>
+　　　杞伯小邾子齊世子光伐鄭十有二月己亥同<lb/>
+　　　盟于戲<hi>㐮公九年</hi>
+　　　　　　　　　　　監察御史<hi>臣</hi>沈懋華<lb/>
+　　子太叔問政于子産子産曰政如農功日夜思之<lb/>
+　　　思其始而成其終朝夕而行之行無越思如農<lb/>
+<pb n="KR3a0110_WYG_026-3b"/>
+　　　之有畔其過鮮矣<hi>左氏傳襄公二十有五年</hi>
+　　　　　　　　　　　　　編修<hi>臣</hi>萬年茂<lb/>
+　　鄭子産謂子太叔曰唯有徳者能以寛服民其次<lb/>
+　　　莫如猛仲尼曰善哉政寛則民慢慢則糾之以<lb/>
+　　　猛猛則民殘殘則施之以寛寛以濟猛猛以濟<lb/>
+　　　寛政是以和<hi>左氏傳昭公二十年</hi>
+　　　　　　　　　　　　　編修<hi>臣</hi>周玉章<lb/>
+　　政寛則民慢慢則糾之以猛猛則民殘殘則施之<lb/>
+<pb n="KR3a0110_WYG_026-4a"/>
+　　　以寛寛以濟猛猛以濟寛政是以和<hi>左氏傳昭</hi>
+　　　<hi>公二十年</hi>
+　　　　　　　　　　　　　編修<hi>臣</hi>白　瀛<lb/>
+　　　　　　　　　　　　　檢討<hi>臣</hi>周孔從<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

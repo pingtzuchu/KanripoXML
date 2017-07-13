@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>乾道臨安志</head>
+    <p>
+<pb n="KR2k0011_WYG_000-1a"/>
+御製題乾道臨安志<lb/>
+南渡忘讐久論之最初輿志始觀兹武林掌故因堪考<lb/>
+宋紙存刋乃更奇官署宫城寧復昔呉山越水鎮如斯<lb/>
+臨安四度親訪古當面失哉此細披<hi>臨安即今杭州府自辛未至乙酉凡</hi>
+<hi>四次南巡皆駐杭州數日均未得覯此書雖尋訪古蹟無可考證今始見此宋槧初本追憶舊游不啻覿面失</hi>
+<hi>之矣</hi>
+<pb n="KR2k0011_WYG_000-2a"/>
+欽定四庫全書　　　　　史部十一<lb/>
+　乾道臨安志　　　　　　地理類三<hi>都㑹郡縣之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案乾道臨安志三巻宋右文殿脩撰<lb/>
+　　　　知臨安府周淙撰臨安自南渡後建為行都<lb/>
+　　　　淙於乾道五年再任杭帥始創為之志凡十<lb/>
+　　　　五巻見於宋史藝文志其後淳祐間施諤咸<lb/>
+　　　　淳間潛説友厯事編纂皆有成書今惟潛志<lb/>
+<pb n="KR2k0011_WYG_000-2b"/>
+　　　　尚存抄帙周施二志世久無傳此本為杭州<lb/>
+　　　　孫仰曾家所藏宋槧本巻首但題曰臨安志<lb/>
+　　　　而中間稱髙宗為光堯太上皇帝孝宗為今<lb/>
+　　　　上紀牧守至淙而止其為乾道志無疑惜其<lb/>
+　　　　自第四巻以下俱已缺佚所存者僅什之一<lb/>
+　　　　二也第一巻紀宫闕官署題作行在所以别<lb/>
+　　　　於郡志體例最善後潛志實遵用之二巻分<lb/>
+　　　　沿革星野風俗州境城社户口廨舍學校科<lb/>
+<pb n="KR2k0011_WYG_000-3a"/>
+　　　　舉軍營坊市界分橋梁物産土貢税賦倉場<lb/>
+　　　　館驛等諸子目而以亭堂樓觀閣軒附其後<lb/>
+　　　　叙録簡括深有體要三巻紀自三國吳至宋<lb/>
+　　　　乾道中諸牧守詳畧皆極得宜淙字彦廣湖<lb/>
+　　　　州人其尹京時撩湖浚渠頗著政績故所著<lb/>
+　　　　述亦具有條理今其書雖殘缺不完而在南<lb/>
+　　　　宋地志中實為最古之本考武林掌故者要<lb/>
+　　　　必以是書稱首焉乾隆四十四年三月恭校<lb/>
+<pb n="KR2k0011_WYG_000-3b"/>
+　　　　上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

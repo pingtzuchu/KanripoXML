@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2m0055_WYG_041-1a"/>
+欽定四庫全書<lb/>
+大清律例卷十三目録<lb/>
+　戸律<lb/>
+　　課程<lb/>
+　　　鹽法<lb/>
+　　　監臨勢要中鹽<lb/>
+　　　阻壊鹽法<lb/>
+　　　私茶<lb/>
+<pb n="KR2m0055_WYG_041-1b"/>
+　　　私礬<lb/>
+　　　匿税<lb/>
+　　　舶商匿貨<lb/>
+　　　人戸虧兌課程<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

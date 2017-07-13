@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>赤城志巻十五</head>
+    <p>
+<pb n="KR2k0017_WYG_015-1a"/>
+欽定四庫全書<lb/>
+　赤城志巻十五　　　　宋　陳耆卿　撰<lb/>
+　　版籍門四<lb/>
+　　　户口<lb/>
+古者獻民數於王王拜受之重邦本也譬如草木風霆<lb/>
+雨露之滋長豈不日蕃月盛也哉按地志諸書晉不滿<lb/>
+二萬户至唐武德始及八萬三千八百六十自是至乾<lb/>
+寧末又蹙耗矣蓋遭世亂離且刳於兵其變故可勝道<lb/>
+<pb n="KR2k0017_WYG_015-1b"/>
+哉宋興天下平積而至熙豐間戸口寖衍咸可考見而<lb/>
+余不復著獨斷自大觀之已丑迄於嘉定之壬午昔之<lb/>
+為戸者二十四萬三千而今則二十六萬六千矣昔之<lb/>
+為口者四十八萬九千而今則五十四萬八千矣僧道<lb/>
+離於民者也畧附見之亦以驗其消長云<lb/>
+　　　戸口<lb/>
+<pb n="KR2k0017_WYG_015-2a"/>
+</p>
+<p>
+<pb n="KR2k0017_WYG_015-3a"/>
+</p>
+<p>
+<pb n="KR2k0017_WYG_015-4a"/>
+</p>
+<p>
+<pb n="KR2k0017_WYG_015-5a"/>
+</p>
+<p>
+<pb n="KR2k0017_WYG_015-6a"/>
+</p>
+<p>
+<pb n="KR2k0017_WYG_015-7a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2k0017_WYG_015-7b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　赤城志巻十五<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

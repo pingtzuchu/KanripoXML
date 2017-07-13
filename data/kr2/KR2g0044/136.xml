@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>八旗滿洲氏族通譜目録</head> <lb/>
+    <p>
+<pb n="KR2g0044_WYG_136-1a"/>
+欽定四庫全書<lb/>
+　八旗滿洲氏族通譜目録<lb/>
+　　卷六十八<lb/>
+　　附載滿洲旗分内之䝉古姓氏<lb/>
+　　烏新氏<lb/>
+　　　昂靄　　　　　　　昂阿<lb/>
+　　　　　以上俱有傳<lb/>
+　　　謨泰　　　　　　　布楞泰<lb/>
+<pb n="KR2g0044_WYG_136-1b"/>
+　　　　　以上俱附載<lb/>
+　　把岳忒氏<lb/>
+　　　諾爾布　　　　　　巴爾<lb/>
+　　　阿齋　　　　　　　耨克<lb/>
+　　　　　以上俱有傳<lb/>
+　　　克什克諾爾蓀　　　烏薩齊<lb/>
+　　　濟雅泰　　　　　　克特<lb/>
+　　　班札克　　　　　　渾<lb/>
+<pb n="KR2g0044_WYG_136-2a"/>
+　　　鄂濟拜　　　　　　卓理<lb/>
+　　　外庫　　　　　　　忠克<lb/>
+　　　諾爾布逹史　　　　巴顔齊<lb/>
+　　　南泰　　　　　　　索爾和<lb/>
+　　　濟賴　　　　　　　錫泰<lb/>
+　　　阿爾瑚圖　　　　　範泰<lb/>
+　　　法莽阿　　　　　　巴珠納<lb/>
+　　　阿爾圖　　　　　　綽克托<lb/>
+<pb n="KR2g0044_WYG_136-2b"/>
+　　　謨和托　　　　　　巴顔<lb/>
+　　　洪恵　　　　　　　博爾和<lb/>
+　　　瑚岱　　　　　　　巴哈逹<lb/>
+　　　　　以上俱附載<lb/>
+　　科本氏<lb/>
+　　　巴朗<lb/>
+　　　　　右係有傳<lb/>
+　　　優陞<lb/>
+<pb n="KR2g0044_WYG_136-3a"/>
+　　　　　右係附載<lb/>
+　　佟尼果特氏<lb/>
+　　　圖爾噶圖<lb/>
+　　　　　右係有傳<lb/>
+　　阿穆尼普塔斯氏<lb/>
+　　　唐古泰<lb/>
+　　　　　右係有傳<lb/>
+　　布魯特氏<lb/>
+<pb n="KR2g0044_WYG_136-3b"/>
+　　　托謨渾<lb/>
+　　　　　右係有傳<lb/>
+　　烏濟吉特氏<lb/>
+　　　烏巴璽<lb/>
+　　　　　右係有傳<lb/>
+　　　文圖蓀　　　　　　白奇<lb/>
+　　　瀋揚　　　　　　　巴逹穆札<lb/>
+　　　阿蘭圖<lb/>
+<pb n="KR2g0044_WYG_136-4a"/>
+　　　　　以上俱附載<lb/>
+　　劉佳氏<lb/>
+　　　劉柱<lb/>
+　　　　　右係有傳<lb/>
+　　　誠德<lb/>
+　　　　　右係附載<lb/>
+　　翁科特氏<lb/>
+　　　班布海<lb/>
+<pb n="KR2g0044_WYG_136-4b"/>
+　　　　　右係有傳<lb/>
+　　　錫喇奇塔特　　　　烏納海<lb/>
+　　　六十　　　　　　　西爾拉岱<lb/>
+　　　齊格　　　　　　　薩穆岱<lb/>
+　　　察漢羅思<lb/>
+　　　　　以上俱附載<lb/>
+　　烏齊喜特氏<lb/>
+　　　竇濟<lb/>
+<pb n="KR2g0044_WYG_136-5a"/>
+　　　　　右係有傳<lb/>
+　　　多鼐　　　　　　　劉塔<lb/>
+　　　逹爾漢　　　　　　逹賴<lb/>
+　　　定柱<lb/>
+　　　　　以上俱附載<lb/>
+　　兀魯特氏<lb/>
+　　　拜琥賚<lb/>
+　　　　　右係有傳<lb/>
+<pb n="KR2g0044_WYG_136-5b"/>
+　　　阿爾古　　　　　　阿巴哈<lb/>
+　　　沙岱　　　　　　　阿穆哈都<lb/>
+　　　吳什喜　　　　　　巴章武<lb/>
+　　　　　以上俱附載<lb/>
+　　庫布特氏<lb/>
+　　　格梅<lb/>
+　　　　　右係有傳<lb/>
+　　　額森圖　　　　　　諾穆齊<lb/>
+<pb n="KR2g0044_WYG_136-6a"/>
+　　　車本泰　　　　　　逹都爾<lb/>
+　　　丹巴　　　　　　　巴朗<lb/>
+　　　拜岳絡<lb/>
+　　　　　以上俱附載<lb/>
+　　龔吉爾氏<lb/>
+　　　巴拜<lb/>
+　　　　　右係有傳<lb/>
+　　　拜桑　　　　　　　和尼齊<lb/>
+<pb n="KR2g0044_WYG_136-6b"/>
+　　　　　以上俱附載<lb/>
+　　布爾哈齊氏<lb/>
+　　　鄂通<lb/>
+　　　　　右係有傳<lb/>
+　　伊圖黙氏<lb/>
+　　　阿哈麻色<lb/>
+　　　　　右係有傳<lb/>
+　　鄂卓氏<lb/>
+<pb n="KR2g0044_WYG_136-7a"/>
+　　　薩穆哈<lb/>
+　　　　　右係有傳<lb/>
+　　威古特氏<lb/>
+　　　哈逹漢<lb/>
+　　　　　右係有傳<lb/>
+　　吹霍克親氏<lb/>
+　　　逹蘭<lb/>
+　　　　　右係有傳<lb/>
+<pb n="KR2g0044_WYG_136-7b"/>
+　　鄂爾圖特氏<lb/>
+　　　耨德<lb/>
+　　　　　右係有傳<lb/>
+　　完顔氏<lb/>
+　　　逹賚<lb/>
+　　　　　右係有傳<lb/>
+　　海佳氏<lb/>
+　　　海潮龍<lb/>
+<pb n="KR2g0044_WYG_136-8a"/>
+　　　　　右係有傳<lb/>
+　　扣懇氏<lb/>
+　　　諾米徹沉<lb/>
+　　　　　右係有傳<lb/>
+　　烏亮海氏<lb/>
+　　　庫布克　　　　　　壯圖<lb/>
+　　　　　以上俱有傳<lb/>
+　　　巴得馬<lb/>
+<pb n="KR2g0044_WYG_136-8b"/>
+　　　　　右係附載<lb/>
+　　札拉爾氏<lb/>
+　　　巴圖<lb/>
+　　　　　右係有傳<lb/>
+　　　古穆　　　　　　　特古<lb/>
+　　　　　以上俱附載<lb/>
+<pb n="KR2g0044_WYG_136-9a"/>
+欽定四庫全書<lb/>
+　八旗滿洲氏族通譜目録<lb/>
+　　卷六十八<lb/>
+　　附載滿洲旗分内之䝉古姓氏<lb/>
+　　烏新氏<lb/>
+　　　昂靄　　　　　　　昂阿<lb/>
+　　　　　以上俱有傳<lb/>
+　　　謨泰　　　　　　　布楞泰<lb/>
+<pb n="KR2g0044_WYG_136-9b"/>
+　　　　　以上俱附載<lb/>
+　　把岳忒氏<lb/>
+　　　諾爾布　　　　　　巴爾<lb/>
+　　　阿齋　　　　　　　耨克<lb/>
+　　　　　以上俱有傳<lb/>
+　　　克什克諾爾蓀　　　烏薩齊<lb/>
+　　　濟雅泰　　　　　　克特<lb/>
+　　　班札克　　　　　　渾<lb/>
+<pb n="KR2g0044_WYG_136-10a"/>
+　　　鄂濟拜　　　　　　卓理<lb/>
+　　　外庫　　　　　　　忠克<lb/>
+　　　諾爾布逹史　　　　巴顔齊<lb/>
+　　　南泰　　　　　　　索爾和<lb/>
+　　　濟賴　　　　　　　錫泰<lb/>
+　　　阿爾瑚圖　　　　　範泰<lb/>
+　　　法莽阿　　　　　　巴珠納<lb/>
+　　　阿爾圖　　　　　　綽克托<lb/>
+<pb n="KR2g0044_WYG_136-10b"/>
+　　　謨和托　　　　　　巴顔<lb/>
+　　　洪恵　　　　　　　博爾和<lb/>
+　　　瑚岱　　　　　　　巴哈逹<lb/>
+　　　　　以上俱附載<lb/>
+　　科本氏<lb/>
+　　　巴朗<lb/>
+　　　　　右係有傳<lb/>
+　　　優陞<lb/>
+<pb n="KR2g0044_WYG_136-11a"/>
+　　　　　右係附載<lb/>
+　　佟尼果特氏<lb/>
+　　　圖爾噶圖<lb/>
+　　　　　右係有傳<lb/>
+　　阿穆尼普塔斯氏<lb/>
+　　　唐古泰<lb/>
+　　　　　右係有傳<lb/>
+　　布魯特氏<lb/>
+<pb n="KR2g0044_WYG_136-11b"/>
+　　　托謨渾<lb/>
+　　　　　右係有傳<lb/>
+　　烏濟吉特氏<lb/>
+　　　烏巴璽<lb/>
+　　　　　右係有傳<lb/>
+　　　文圖蓀　　　　　　白奇<lb/>
+　　　瀋揚　　　　　　　巴逹穆札<lb/>
+　　　阿蘭圖<lb/>
+<pb n="KR2g0044_WYG_136-12a"/>
+　　　　　以上俱附載<lb/>
+　　劉佳氏<lb/>
+　　　劉柱<lb/>
+　　　　　右係有傳<lb/>
+　　　誠德<lb/>
+　　　　　右係附載<lb/>
+　　翁科特氏<lb/>
+　　　班布海<lb/>
+<pb n="KR2g0044_WYG_136-12b"/>
+　　　　　右係有傳<lb/>
+　　　錫喇奇塔特　　　　烏納海<lb/>
+　　　六十　　　　　　　西爾拉岱<lb/>
+　　　齊格　　　　　　　薩穆岱<lb/>
+　　　察漢羅思<lb/>
+　　　　　以上俱附載<lb/>
+　　烏齊喜特氏<lb/>
+　　　竇濟<lb/>
+<pb n="KR2g0044_WYG_136-13a"/>
+　　　　　右係有傳<lb/>
+　　　多鼐　　　　　　　劉塔<lb/>
+　　　逹爾漢　　　　　　逹賴<lb/>
+　　　定柱<lb/>
+　　　　　以上俱附載<lb/>
+　　兀魯特氏<lb/>
+　　　拜琥賚<lb/>
+　　　　　右係有傳<lb/>
+<pb n="KR2g0044_WYG_136-13b"/>
+　　　阿爾古　　　　　　阿巴哈<lb/>
+　　　沙岱　　　　　　　阿穆哈都<lb/>
+　　　吳什喜　　　　　　巴章武<lb/>
+　　　　　以上俱附載<lb/>
+　　庫布特氏<lb/>
+　　　格梅<lb/>
+　　　　　右係有傳<lb/>
+　　　額森圖　　　　　　諾穆齊<lb/>
+<pb n="KR2g0044_WYG_136-14a"/>
+　　　車本泰　　　　　　逹都爾<lb/>
+　　　丹巴　　　　　　　巴朗<lb/>
+　　　拜岳絡<lb/>
+　　　　　以上俱附載<lb/>
+　　龔吉爾氏<lb/>
+　　　巴拜<lb/>
+　　　　　右係有傳<lb/>
+　　　拜桑　　　　　　　和尼齊<lb/>
+<pb n="KR2g0044_WYG_136-14b"/>
+　　　　　以上俱附載<lb/>
+　　布爾哈齊氏<lb/>
+　　　鄂通<lb/>
+　　　　　右係有傳<lb/>
+　　伊圖黙氏<lb/>
+　　　阿哈麻色<lb/>
+　　　　　右係有傳<lb/>
+　　鄂卓氏<lb/>
+<pb n="KR2g0044_WYG_136-15a"/>
+　　　薩穆哈<lb/>
+　　　　　右係有傳<lb/>
+　　威古特氏<lb/>
+　　　哈逹漢<lb/>
+　　　　　右係有傳<lb/>
+　　吹霍克親氏<lb/>
+　　　逹蘭<lb/>
+　　　　　右係有傳<lb/>
+<pb n="KR2g0044_WYG_136-15b"/>
+　　鄂爾圖特氏<lb/>
+　　　耨德<lb/>
+　　　　　右係有傳<lb/>
+　　完顔氏<lb/>
+　　　逹賚<lb/>
+　　　　　右係有傳<lb/>
+　　海佳氏<lb/>
+　　　海潮龍<lb/>
+<pb n="KR2g0044_WYG_136-16a"/>
+　　　　　右係有傳<lb/>
+　　扣懇氏<lb/>
+　　　諾米徹沉<lb/>
+　　　　　右係有傳<lb/>
+　　烏亮海氏<lb/>
+　　　庫布克　　　　　　壯圖<lb/>
+　　　　　以上俱有傳<lb/>
+　　　巴得馬<lb/>
+<pb n="KR2g0044_WYG_136-16b"/>
+　　　　　右係附載<lb/>
+　　札拉爾氏<lb/>
+　　　巴圖<lb/>
+　　　　　右係有傳<lb/>
+　　　古穆　　　　　　　特古<lb/>
+　　　　　以上俱附載<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

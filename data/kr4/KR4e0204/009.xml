@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4e0204_WYG_009-1a"/>
+存家詩稿䟦<lb/>
+余自㓜習舉子業不知為詩至嘉靖乙夘外補晋臬時<lb/>
+督學使者為曹君紀山始提挈余為詩謂以唐人為宗<lb/>
+且辨其體格余不甚解及余歸田有四明吕山人者往<lb/>
+来海上相與倡和共明此道聴其所談亦不甚解平生<lb/>
+得詩總之不下千篇門人李生善楷書因命収掌及余<lb/>
+宦京師李生病故此物亦隨化去子姪輩復隨處抄録<lb/>
+無論嵗月朝野得詩六百餘篇亦多矣乃就正於臨邑<lb/>
+<pb n="KR4e0204_WYG_009-1b"/>
+邢侍御知吾為更數處加之評品今年舎弟岑以公事<lb/>
+寓維揚将此稿再就正於雲夢鄒君大澤鄒君舊銓部<lb/>
+郎與余有共事之雅改竄逾多又序之乃加灾於木夫<lb/>
+唐之詩人抉胃嘔心終身焉方傳於世余疎㪚人也况<lb/>
+習禪寂不好苦思此物徒資後人談笑耳顧倡之者曺<lb/>
+君紀山也共藝者吕山人甬東也改竄且序之者邢君<lb/>
+知吾鄒君大澤也筆跡猶新未敢遽棄乃書諸後存於<lb/>
+家以示吾子孫焉客見之問曰公登仕籍五十年刻中<lb/>
+<pb n="KR4e0204_WYG_009-2a"/>
+不及勲名何也余笑而不答又問曰陳思王謂後世誰<lb/>
+知竄吾文者公顧歸美於紀山諸君何也余亦笑而不<lb/>
+答萬歴壬寅仲冬夢山翁書於藜莧居中時年八十有<lb/>
+六<lb/>
+　　紀山名忭　　山人名時臣<lb/>
+　　知吾名侗　　大澤名觀光<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2b0038_WYG_005-1a"/>
+　　凡例<lb/>
+　一綱目三編現在遵<lb/>
+㫖照<lb/>
+御批通覽輯覽改纂凡紀年系統諸大端及一切書法<lb/>
+　　均應仰遵<lb/>
+筆削定例永示凖繩至三編原本毎年所列綱目不過<lb/>
+　　數條而輯覽内條數較多于一代治忽所闗更為<lb/>
+　　明偹自應將輯覽所増一併敬謹添輯<lb/>
+<pb n="KR2b0038_WYG_005-1b"/>
+　一查朱子綱目原有尹起莘發明劉友益書法及質<lb/>
+　　實正誤附入各條綱目之下明代所修續綱目内<lb/>
+　　亦有發明廣義諸條皆所以推闡大義考證故實<lb/>
+　　足為本書羽翼而綱目三編内從前未經辦及現<lb/>
+　　在<lb/>
+御批通鑑輯覧俱仰稟<lb/>
+睿裁大㫖㣲言昭掲星日<hi>臣</hi>等遵照改輯自應于<lb/>
+特筆所在各倣照前例恭加發明詳悉闡繹庶<lb/>
+<pb n="KR2b0038_WYG_005-2a"/>
+衮鉞謹嚴大公至正之意更足昭示萬世至其間姓名<lb/>
+　　爵里及輿地官制等類本文内未能該盡者並擬<lb/>
+　　各加質實俾讀者開卷了然似于軆例尤為周宻<lb/>
+　一原書内如載福王之國撥給莊田四萬頃一條葉<lb/>
+　　向髙集内實作二萬頃仰蒙<lb/>
+聖明指示<hi>臣</hi>等因檢明史福王傳内詔賜莊田四萬頃<lb/>
+　　句下有所司力争常洵亦奏辭得減半之文因原<lb/>
+　　書採摘未全紀載遂致失實又福王傳于此條下<lb/>
+<pb n="KR2b0038_WYG_005-2b"/>
+　　尚有奏乞張居正沒産沿江洲税四川茶銀淮揚<lb/>
+　　鹽引河南北齊楚間所至騷動等事必須連類並<lb/>
+　　載足以見神宗寵溺失徳之實而原書概行刋除<lb/>
+　　亦不免過于簡畧今擬各條紀事俱將明史紀傳<lb/>
+　　逐一參訂考核異同如有舛漏即行詳確改正其<lb/>
+　　或有情事未能詳盡者亦各酌量添修務令首尾<lb/>
+　　該具核實無訛庶足永稱傳信<lb/>
+　一綱目三編内所有蒙古等人地官名之對音訛舛<lb/>
+<pb n="KR2b0038_WYG_005-3a"/>
+　　譯字鄙俚者均應倣照現辦遼金元國語解之例<lb/>
+　　譯改<lb/>
+　一此次改編綱目折衷論定均仰荷<lb/>
+聖訓詳明應請㳟録前後<lb/>
+諭㫖冠于簡編次列<lb/>
+御製原序庶俾辦理原委次第秩然<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

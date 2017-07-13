@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2d0019_WYG_070-1a"/>
+　欽定四庫全書<lb/>
+御定歴代紀事年表卷七十四<lb/>
+　　遼世系表略<lb/>
+　　　耶律氏炎帝之裔世雄朔陲後居鮮卑山號鮮卑氏慕<lb/>
+　　　容燕破之析其部曰宇文曰庫莫奚曰契丹契丹<lb/>
+　　　之名昉見於此始祖曰竒善汗生安圖山徙潢水之<lb/>
+　　　濱傳至聶哷始立制度置官屬刻木為契穴地為牢<lb/>
+　　　讓約尼氏蘇爾威汗而不肯自立聶哷生必塔必塔生<lb/>
+<pb n="KR2d0019_WYG_070-1b"/>
+　　　海蘭海蘭生努爾蘇大度寡欲令不嚴而人化是為肅<lb/>
+　　　祖肅祖生薩喇達嘗與黄室韋戰矢貫數札是為<lb/>
+　　　懿祖懿祖生伊徳實始教民稼穡善畜牧國以殷富<lb/>
+　　　是為𤣥祖𤣥祖生色勒迪仁民愛物始鑄鐵冶教民<lb/>
+　　　鼓鑄是為徳祖即太祖之父也世為約尼氏之額爾<lb/>
+　　　竒木執其政柄徳祖之弟蘇哷北征於厥室韋南略易<lb/>
+　　　定奚霤始興版築置城邑教民種桑麻習織組巳有<lb/>
+　　　廣土衆民之志及太祖安巴堅為約尼氏大徳哷勒府<lb/>
+<pb n="KR2d0019_WYG_070-2a"/>
+　　額爾竒木拜裕恱總知軍國事約尼氏哈陶津汗殂太<lb/>
+　　祖遂受禪建國仍號契丹太宗時改國號遼自太祖至<lb/>
+　　天祚帝凡九主歴二百一十九年　天祚帝為金<lb/>
+　　所執太祖八代孫達實稱帝於竒爾愛滿是為西遼傳<lb/>
+　　三主凡七十七年　遼史國語解云額爾竒木統軍馬大<lb/>
+　　官裕悦貴官無所職居北南大王上非有功徳者不授又<lb/>
+　　特哩衮典族屬官見後世系圖<lb/>
+<pb n="KR2d0019_WYG_070-3a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_070-4a"/>
+　欽定四庫全書<lb/>
+御定歴代紀事年表卷七十四<lb/>
+　　<hi>起乙亥梁主瑱貞明元年止壬午梁主瑱龍徳二年</hi>　凡八年<lb/>
+　　表例説<lb/>
+　　　見第七十三卷<lb/>
+<pb n="KR2d0019_WYG_070-5a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_070-6a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_070-7a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_070-8a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_070-9a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_070-10a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_070-11a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_070-12a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_070-13a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_070-14a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_070-15a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_070-16a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_070-17a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_070-18a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_070-19a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_070-20a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_070-21a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_070-22a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_070-23a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_070-24a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_070-25a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_070-26a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_070-27a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_070-28a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_070-29a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_070-30a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_070-31a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_070-32a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_070-33a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_070-34a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_070-35a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_070-36a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_070-37a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_070-38a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_070-39a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_070-40a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_070-41a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_070-42a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_070-43a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_070-44a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_070-45a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_070-46a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_070-47a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_070-48a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_070-49a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_070-50a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_070-51a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_070-52a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_070-53a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_070-54a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_070-55a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_070-56a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_070-57a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_070-58a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_070-59a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_070-60a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_070-61a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_070-62a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_070-63a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_070-64a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_070-65a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_070-66a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_070-67a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_070-68a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_070-69a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_070-70a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2d0019_WYG_070-70b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定歴代紀事年表卷七十四<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>野趣有聲畫</head>
+    <p>
+<pb n="KR4d0429_WYG_000-1a"/>
+欽定四庫全書　　　　　集部五<lb/>
+　野趣有聲畫　　　　　　别集類四<hi>元</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案野趣有聲畫二巻元楊公逺撰公<lb/>
+　　　　逺字叔明歙縣人是集前有咸淳中吴龍翰<lb/>
+　　　　序稱一巻而此本二卷然至元乙酉方囘跋<lb/>
+　　　　原本在上卷末所載囘溪道中一詩乃在下<lb/>
+　　　　巻中使原為二巻則此跋不應介在其間使<lb/>
+<pb n="KR4d0429_WYG_000-1b"/>
+　　　　集中原載此詩則囘又必不更錄其全文知<lb/>
+　　　　原集止一卷而下巻為後人所續輯故又有<lb/>
+　　　　丙戌初度詩在作跋後一年也其詩不出宋<lb/>
+　　　　末江湖之格葢一時風尚使然然一邱一壑<lb/>
+　　　　亦時有佳致以久無刋本故選宋元詩者多<lb/>
+　　　　遺之明嘉靖丙申汪元鍚始得本於其族子<lb/>
+　　　　瀚乃復傳鈔集中有至元二十二年乙酉生<lb/>
+　　　　朝詩稱六十平頭慳兩嵗則是年為五十八<lb/>
+<pb n="KR4d0429_WYG_000-2a"/>
+　　　　以長厯推之當生於理宗紹定元年宋亡時<lb/>
+　　　　年已十九入元未仕當従周宻之例稱宋之<lb/>
+　　　　遺民然集中春雪詩題下註己夘正月初三<lb/>
+　　　　作正張世傑陸秀夫等蹈海捐生之歳而其<lb/>
+　　　　詩有向曉披衣更擁衾略無一事惱胸襟語<lb/>
+　　　　則是以宋之存亡付諸度外與前朝故老惓<lb/>
+　　　　惓舊國者頗殊且入元以後干謁當路頌揚<lb/>
+　　　　徳政之詩不一而足其未出仕當由梯進無<lb/>
+<pb n="KR4d0429_WYG_000-2b"/>
+　　　　媒固不能與宻之終身遁跡者同日稱矣今<lb/>
+　　　　繫之元人従其志也乾隆四十五年四月恭<lb/>
+　　　　校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　　總　校　官<hi>臣</hi>陸　費墀<lb/>
+<pb n="KR4d0429_WYG_000-3a"/>
+野趣有聲畫原序<lb/>
+楊君家松蘿白嶽下園池林木蔚然大類魏野之居多<lb/>
+所得趣故其襟懷玉雪不涴㸃塵然天地間風月常新<lb/>
+煙雲不斷君磨墨濡毫畫難畫之景以詩凑成吟難吟<lb/>
+之詩以畫補足觀此一巻則知意匠經營亦良苦矣抑<lb/>
+作詩如市肆冕旒無人問當疇若顧虎頭畫維摩一日<lb/>
+責施十萬二日五萬乎予坐詩窮未之能畫今則自惜<lb/>
+君當自勉云咸淳六四一古梅吳龍翰拜手<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

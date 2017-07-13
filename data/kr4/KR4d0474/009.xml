@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>此山詩集卷九</head> <lb/>
+    <p>
+<pb n="KR4d0474_WYG_009-1a"/>
+欽定四庫全書<lb/>
+　此山詩集卷九<lb/>
+　　　　　　　　　　　　　元　周權　撰<lb/>
+　五言絶句<lb/>
+　　次韻僧惠茶<lb/>
+開樽酌溪渌秋興何蕭騷重哦惠休句目送吳鴻高<lb/>
+　　悼白石道士馮鶴嶼<lb/>
+白石長碧苔閒庭落珠蕋老鶴去不還空山自流水<lb/>
+<pb n="KR4d0474_WYG_009-1b"/>
+　　雜興<lb/>
+泉花濕堦雲篆烟寒瓦鼎柴門閒樹隂坐玩清晝永<lb/>
+閉門屏來轍枕書睡初熟覺來淡無悰看遍堦南竹<lb/>
+流水數家邨青山白雲塢春晚落紅深夜寒溪上雨<lb/>
+凉蟾凈如洗酒醒夜初寂山簷宿雨多空堦響餘滴<lb/>
+枯藤墜晚花竹外溪光滿山僧出幾時石上雲猶暖<lb/>
+酸風侵短褐野路迂澗南薄暮欲飛雪梅香㸃歸驂<lb/>
+晨光爛烏几博山穗烟碧山童汲泉花來作硯蟾滴<lb/>
+<pb n="KR4d0474_WYG_009-2a"/>
+倦迹無造請卜居翠微深幽意素所愜泉聲隔空林<lb/>
+蹇童引羸驂路入蒼巘去深處有人家雞鳴白雲樹<lb/>
+暮霰襲吟袍夜火然枯竹盎然坐春和爐香芋初熟<lb/>
+看松坐危石瀹茗㸑枯籜振衣下山去白雲滿幽<graphic n="KR0676" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0676.png" mimeType="image/png"/>
+西陽轉林腰水木愈清麗歸雲不肯棲浩蕩弄山翠<lb/>
+野芳韻幽襟暄景逗春意僧居白雲深清磬出林際<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR4d0474_WYG_009-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　此山詩集卷九<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

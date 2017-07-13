@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="1a"/>
+　引用姓氏<lb/>
+　漢<lb/>
+　　董氏<hi>仲舒</hi>
+　　孔氏<hi>安國</hi>　<hi>子國</hi>
+　　司馬氏<hi>遷</hi>　<hi>子長</hi>
+　　京氏<hi>房</hi>　<hi>君明</hi>
+　　劉氏<hi>向</hi>　<hi>子政</hi>
+　　揚氏<hi>雄</hi>　<hi>子雲</hi>
+<pb n="1b"/>
+　　班氏<hi>固</hi>　<hi>孟堅</hi>
+　　馬氏<hi>融</hi>　<hi>季長</hi>
+　　服氏<hi>䖍</hi>　<hi>子慎</hi>
+　　荀氏<hi>爽</hi>　<hi>慈明/</hi>　<hi>一名諝</hi>
+　　鄭氏<hi>𤣥</hi>　<hi>康成</hi>
+　　宋氏<hi>衷</hi>　<hi>仲子/</hi>　<hi>一作忠</hi>
+　　虞氏<hi>翻</hi>　<hi>仲翔</hi>
+　　陸氏<hi>績</hi>　<hi>公紀</hi>
+<pb n="2a"/>
+　　王氏<hi>肅</hi>　<hi>子邕</hi>
+　　姚氏<hi>信</hi>　<hi>徳祐</hi>
+　　王氏<hi>弼</hi>　<hi>輔嗣</hi>
+　　翟氏<hi>子𤣥</hi>　　　　<hi>未詳世次見荀爽九家易今附於此</hi>
+　晉<lb/>
+　　干氏<hi>寳</hi>　<hi>令升</hi>
+　　范氏<hi>長生</hi>　<hi>蜀才/</hi>　<hi>一名賢</hi>
+　　韓氏<hi>伯</hi>　<hi>康伯</hi>
+<pb n="2b"/>
+　齊<lb/>
+　　沈氏<hi>驎士</hi>　<hi>雲禎</hi>
+　北魏<lb/>
+　　關氏<hi>朗</hi>　<hi>子明</hi>
+　隋<lb/>
+　　王氏<hi>通</hi>　<hi>仲淹/</hi>　<hi>文中子</hi>
+　唐<lb/>
+　　陸氏<hi>𤣥朗</hi>　<hi>徳明</hi>
+<pb n="3a"/>
+　　孔氏<hi>穎達</hi>　<hi>仲達/</hi>　<hi>一作沖遠</hi>
+　　房氏<hi>喬</hi>　<hi>𤣥齡</hi>
+　　侯氏<hi>行果</hi>　<hi>李鼎祚集觧作侯果</hi>
+　　陸氏<hi>䞇</hi>　<hi>敬輿</hi>
+　　韓氏<hi>愈</hi>　<hi>退之</hi>
+　　王氏<hi>凱沖</hi>
+　　崔氏<hi>憬</hi>　　　　　<hi>以上二人未詳世次見李鼎祚集觧今附於此</hi>
+　　李氏<hi>鼎祚</hi>
+<pb n="3b"/>
+　　陸氏<hi>希聲</hi>　<hi>君陽遯叟</hi>
+　　劉氏<hi>蛻</hi>　<hi>復愚</hi>
+　宋<lb/>
+　　王氏<hi>昭素</hi>　<hi>酸棗</hi>
+　　句氏<hi>微</hi>
+　　代氏<hi>淵</hi>　<hi>仲顔</hi>
+　　范氏<hi>仲淹</hi>　<hi>希文</hi>
+　　劉氏<hi>牧</hi>　<hi>長民</hi>
+<pb n="4a"/>
+　　胡氏<hi>瑗</hi>　<hi>翼之/</hi>　<hi>安定</hi>
+　　王氏<hi>逢</hi>　<hi>㑹之</hi>
+　　石氏<hi>介</hi>　<hi>守道/</hi>　<hi>徂徠</hi>
+　　歐陽氏<hi>脩</hi>　<hi>永叔/</hi>　<hi>廬陵</hi>
+　　蘇氏<hi>舜欽</hi>　<hi>子美</hi>
+　　周子<hi>敦頤</hi>　<hi>茂叔/</hi>　<hi>濂溪</hi>
+　　邵子<hi>雍</hi>　<hi>堯夫/</hi>　<hi>康節</hi>
+　　王氏<hi>安石</hi>　<hi>介甫/</hi>　<hi>臨川</hi>
+<pb n="4b"/>
+　　司馬氏<hi>光</hi>　<hi>君實/</hi>　<hi>涑水</hi>
+　　張子<hi>載</hi>　<hi>子厚/</hi>　<hi>横渠</hi>
+　　程子<hi>顥</hi>　<hi>伯淳/</hi>　<hi>明道</hi>
+　　程子<hi>頤</hi>　<hi>正叔/</hi>　<hi>伊川</hi>
+　　蘇氏軾　<hi>子瞻</hi>　<hi>東坡</hi>
+　　呂氏<hi>大臨</hi>　<hi>與叔/</hi>　<hi>藍田</hi>
+　　楊氏<hi>繪</hi>　<hi>元素</hi>
+　　陸氏<hi>佃</hi>　<hi>農師</hi>
+<pb n="5a"/>
+　　沈氏<hi>括</hi>　<hi>存中</hi>
+　　晁氏<hi>說之</hi>　<hi>以道/</hi>　<hi>嵩山</hi>
+　　龔氏<hi>原</hi>　<hi>深父/</hi>　<hi>括蒼</hi>
+　　薛氏<hi>温其</hi>
+　　盧氏<lb/>
+　　集氏　　　　　　<hi>以上三人未詳世次見房審權義海今附於此</hi>
+　　謝氏<hi>良佐</hi>　<hi>顯道/</hi>　<hi>上蔡</hi>
+　　游氏<hi>酢</hi>　<hi>定夫/</hi>　<hi>廣平</hi>
+<pb n="5b"/>
+　　楊氏<hi>時</hi>　<hi>中立/</hi>　<hi>龜山</hi>
+　　尹氏<hi>焞</hi>　<hi>彦明/</hi>　<hi>和靖</hi>
+　　郭氏<hi>忠孝</hi>　<hi>立之/</hi>　<hi>兼山</hi>
+　　耿氏<hi>南仲</hi>　<hi>希道/</hi>　<hi>開封</hi>
+　　李氏<hi>元量</hi>
+　　閻氏<hi>彦升</hi>
+　　李氏<hi>彦章</hi>　<hi>元逹</hi>
+　　李氏<hi>開</hi>　<hi>去非/</hi>　<hi>小舟</hi>
+<pb n="6a"/>
+　　張氏<hi>浚</hi>　<hi>徳遠/</hi>　<hi>紫巖</hi>
+　　劉氏<hi>子翬</hi>　<hi>彦沖/</hi>　<hi>屏山</hi>
+　　鄭氏<hi>剛中</hi>　<hi>亨仲</hi>
+　　沈氏<hi>該</hi>　<hi>守約</hi>
+　　朱氏<hi>震</hi>　<hi>子發/</hi>　<hi>漢上</hi>
+　　郭氏<hi>雍</hi>　<hi>子和/</hi>　<hi>白雲</hi>
+　　程氏<hi>迥</hi>　<hi>可乆/</hi>　<hi>沙隨</hi>
+　　鄭氏<hi>東卿</hi>　<hi>少梅/</hi>　<hi>合沙</hi>
+<pb n="6b"/>
+　　鄭氏<hi>汝諧</hi>　<hi>舜舉/</hi>　<hi>東谷</hi>
+　　楊氏<hi>萬里</hi>　<hi>庭秀/</hi>　<hi>誠齋</hi>
+　　蘭氏<hi>廷瑞</hi>　<hi>惠卿</hi>
+　　馮氏<hi>當可</hi>　<hi>時行/</hi>　<hi>縉雲</hi>
+　　王氏<hi>宗傳</hi>　<hi>景孟/</hi>　<hi>童溪</hi>
+　　林氏<hi>栗</hi>　<hi>黄中</hi>
+　　袁氏<hi>樞</hi>　<hi>機仲/</hi>　<hi>梅巖</hi>
+　　鄭氏<hi>樵</hi>　<hi>漁仲/</hi>　<hi>夾漈</hi>
+<pb n="7a"/>
+　　朱子<hi>熹</hi>　<hi>元晦/</hi>　<hi>紫陽</hi>
+　　張氏<hi>栻</hi>　<hi>敬夫/</hi>　<hi>南軒</hi>
+　　呂氏<hi>祖謙</hi>　<hi>伯恭/</hi>　<hi>東萊</hi>
+　　陸氏<hi>九淵</hi>　<hi>子静/</hi>　<hi>象山</hi>
+　　李氏<hi>舜臣</hi>　<hi>子思/</hi>　<hi>隆山</hi>
+　　項氏<hi>安世</hi>　<hi>平父/</hi>　<hi>平庵</hi>
+　　易氏<hi>祓</hi>　<hi>彦章/</hi>　<hi>山齋</hi>
+　　趙氏<hi>彦肅</hi>　<hi>子欽/</hi>　<hi>復齋</hi>
+<pb n="7b"/>
+　　蔡氏<hi>元定</hi>　<hi>季通/</hi>　<hi>西山</hi>
+　　陳氏<hi>淳</hi>　<hi>安卿/</hi>　<hi>北溪</hi>
+　　黄氏<hi>榦</hi>　<hi>直卿/</hi>　<hi>勉齋</hi>
+　　董氏<hi>銖</hi>　<hi>叔重/</hi>　<hi>磐澗</hi>
+　　陳氏<hi>埴</hi>　<hi>器之/</hi>　<hi>潛室</hi>
+　　楊氏<hi>簡</hi>　<hi>敬仲/</hi>　<hi>慈湖</hi>
+　　蔡氏<hi>淵</hi>　<hi>伯静/</hi>　<hi>節齋</hi>
+　　李氏<hi>過</hi>　<hi>季辨/</hi>　<hi>西溪</hi>
+<pb n="8a"/>
+　　馮氏<hi>椅</hi>　<hi>儀之/</hi>　<hi>厚齋</hi>
+　　毛氏<hi>璞</hi>　<hi>伯玉</hi>
+　　柴氏<hi>中行</hi>　<hi>與之</hi>
+　　真氏<hi>徳秀</hi>　<hi>希元/</hi>　<hi>西山</hi>
+　　魏氏<hi>了翁</hi>　<hi>華父/</hi>　<hi>鶴山</hi>
+　　趙氏<hi>汝騰</hi>　<hi>茂實</hi>
+　　趙氏<hi>汝楳</hi>
+　　李氏<hi>心傳</hi>　<hi>微之/</hi>　<hi>秀巖</hi>
+<pb n="8b"/>
+　　劉氏<hi>彌劭</hi>　<hi>夀翁/</hi>　<hi>習静</hi>
+　　錢氏<hi>時</hi>　<hi>子是/</hi>　<hi>融堂</hi>
+　　饒氏<hi>魯</hi>　<hi>仲元/</hi>　<hi>雙峯</hi>
+　　稅氏<hi>與權</hi>　<hi>巽父</hi>
+　　潘氏<hi>夢旂</hi>　<hi>天錫</hi>
+　　楊氏<hi>文煥</hi>　<hi>彬夫/</hi>　<hi>釋褐</hi>
+　　徐氏<hi>幾</hi>　<hi>子與/</hi>　<hi>進齋</hi>
+　　翁氏<hi>泳</hi>　<hi>永叔/</hi>　<hi>思齋</hi>
+<pb n="9a"/>
+　　丘氏<hi>富國</hi>　<hi>行可/</hi>　<hi>建安</hi>
+　　吳氏<hi>綺</hi>　<hi>終畆</hi>
+　　田氏<hi>疇</hi>　<hi>興齋/</hi>　<hi>雲閒</hi>
+　　徐氏<hi>直方</hi>　<hi>立大/</hi>　<hi>古為</hi>
+　　陳氏<hi>友文</hi>　<hi>隆山</hi>
+　　王氏<hi>應麟</hi>　<hi>伯厚/</hi>　<hi>深寧叟</hi>
+　　吳氏<hi>應回</hi>
+　　鄭氏<hi>湘鄉</hi>
+<pb n="9b"/>
+　　陳氏<lb/>
+　　劉氏<lb/>
+　　董氏<lb/>
+　　楊氏<lb/>
+　　鄭氏　　　　　　<hi>以上五人未詳世次或失其名字今附於此</hi>
+　金<lb/>
+　　單氏<hi>渢</hi>
+　　雷氏<hi>思</hi>　<hi>西仲</hi>
+<pb n="10a"/>
+　元<lb/>
+　　許氏<hi>衡</hi>　<hi>平仲/</hi>　<hi>魯齋</hi>
+　　李氏<hi>簡</hi>　<hi>䝉齋</hi>
+　　王氏<hi>申子</hi>　<hi>巽卿/</hi>　<hi>秋山</hi>
+　　熊氏<hi>朋來</hi>　<hi>與可</hi>
+　　胡氏<hi>方平</hi>　<hi>師魯/</hi>　<hi>玉齋</hi>
+　　吳氏<hi>澄</hi>　<hi>㓜清/</hi>　<hi>草廬/</hi>　<hi>臨川</hi>
+　　龔氏<hi>煥</hi>　<hi>㓜文/</hi>　<hi>泉峯</hi>
+<pb n="10b"/>
+　　胡氏<hi>允</hi>　<hi>潛齋</hi>
+　　齊氏<hi>夢龍</hi>　<hi>覺翁/</hi>　<hi>節初</hi>
+　　胡氏<hi>一桂</hi>　<hi>庭芳/</hi>　<hi>雙湖</hi>
+　　鮑氏<hi>雲龍</hi>　<hi>景翔/</hi>　<hi>魯齋</hi>
+　　徐氏<hi>之祥</hi>　<hi>麒父/</hi>　<hi>方塘</hi>
+　　胡氏<hi>炳文</hi>　<hi>仲虎/</hi>　<hi>雲峯</hi>
+　　張氏<hi>清子</hi>　<hi>希獻/</hi>　<hi>中溪</hi>
+　　熊氏<hi>良輔</hi>　<hi>任重/</hi>　<hi>梅邉</hi>
+<pb n="11a"/>
+　　萬氏<hi>善</hi>　<hi>明復</hi>
+　　余氏<hi>芭舒</hi>　<hi>徳新/</hi>　<hi>息齋</hi>
+　　龍氏<hi>仁夫</hi>　<hi>觀復</hi>
+　　黄氏<hi>瑞節</hi>　<hi>觀樂</hi>
+　　董氏<hi>真卿</hi>　<hi>季真/</hi>　<hi>番陽</hi>
+　　保氏<hi>八</hi>　<hi>公孟/</hi>　<hi>普庵</hi>
+　　俞氏<hi>琰</hi>　<hi>玊吾/</hi>　<hi>石澗</hi>
+　明<lb/>
+<pb n="11b"/>
+　　梁氏<hi>寅</hi>　<hi>孟敬/</hi>　<hi>石門</hi>
+　　蔣氏<hi>悌生</hi>　<hi>仁叔</hi>
+　　薛氏<hi>瑄</hi>　<hi>徳温/</hi>　<hi>敬軒</hi>
+　　劉氏<hi>定之</hi>　<hi>主静/</hi>　<hi>保齋</hi>
+　　胡氏<hi>居仁</hi>　<hi>叔心/</hi>　<hi>敬齋</hi>
+　　蔡氏<hi>清</hi>　<hi>介夫/</hi>　<hi>虚齋</hi>
+　　邵氏<hi>寳</hi>　<hi>國賢/</hi>　<hi>二泉</hi>
+　　林氏<hi>希元</hi>　<hi>懋貞/</hi>　<hi>次崖</hi>
+<pb n="12a"/>
+　　陳氏<hi>琛</hi>　<hi>思獻/</hi>　<hi>紫峯</hi>
+　　余氏<hi>本</hi>　<hi>子華</hi>
+　　金氏<hi>賁亨</hi>　<hi>汝白</hi>
+　　豐氏<hi>寅初</hi>　<hi>復初</hi>
+　　葉氏<hi>良佩</hi>　<hi>敬之</hi>
+　　姜氏<hi>寳</hi>　<hi>廷善/</hi>　<hi>鳳阿</hi>
+　　楊氏<hi>時喬</hi>　<hi>宜遷/</hi>　<hi>止庵</hi>
+　　歸氏<hi>有光</hi>　<hi>熙甫/</hi>　<hi>震川</hi>
+<pb n="12b"/>
+　　趙氏<hi>玉泉</hi>
+　　沈氏<hi>一貫</hi>　<hi>肩吾/</hi>　<hi>蛟門</hi>
+　　錢氏<hi>一本</hi>　<hi>國瑞/</hi>　<hi>啟新</hi>
+　　唐氏<hi>鶴徴</hi>　<hi>元卿/</hi>　<hi>凝庵</hi>
+　　髙氏<hi>萃</hi>
+　　蘇氏<hi>濬</hi>　<hi>君禹/</hi>　<hi>紫溪</hi>
+　　顧氏<hi>憲成</hi>　<hi>叔時/</hi>　<hi>涇陽</hi>
+　　鄭氏<hi>維嶽</hi>　<hi>孩如</hi>
+<pb n="13a"/>
+　　姚氏<hi>舜牧</hi>　<hi>虞佐/</hi>　<hi>承庵</hi>
+　　潘氏<hi>士藻</hi>　<hi>去華/</hi>　<hi>雪松</hi>
+　　髙氏<hi>攀龍</hi>　<hi>存之/</hi>　<hi>景逸</hi>
+　　許氏<hi>聞至</hi>　<hi>長聖</hi>
+　　焦氏<hi>竑</hi>　<hi>弱侯/</hi>　<hi>澹漪</hi>
+　　陸氏<hi>銓</hi>　<hi>君啟</hi>
+　　來氏<hi>知徳</hi>　<hi>矣鮮/</hi>　<hi>瞿唐</hi>
+　　章氏<hi>潢</hi>　<hi>本清</hi>
+<pb n="13b"/>
+　　江氏<hi>盈科</hi>　<hi>楚餘/</hi>　<hi>緑蘿</hi>
+　　方氏<hi>時化</hi>　<hi>雨若</hi>
+　　楊氏<hi>啓新</hi>　<hi>文源</hi>
+　　趙氏<hi>光大</hi>
+　　陸氏<hi>振竒</hi>　<hi>庸成</hi>
+　　繆氏<hi>昌期</hi>　<hi>當時/</hi>　<hi>西谿</hi>
+　　方氏<hi>應祥</hi>　<hi>孟旋</hi>
+　　陳氏<hi>仁錫</hi>　<hi>明卿</hi>
+<pb n="14a"/>
+　　張氏<hi>振淵</hi>　<hi>彦陵</hi>
+　　谷氏<hi>家杰</hi>　<hi>拙侯</hi>
+　　喬氏<hi>中和</hi>　<hi>還一</hi>
+　　何氏<hi>楷</hi>　<hi>𤣥子</hi>
+　　黄氏<hi>淳耀</hi>　<hi>藴生/</hi>　<hi>陶庵</hi>
+　　錢氏<hi>志立</hi>　<hi>爾卓</hi>
+　　趙氏<hi>振芳</hi>　<hi>胥山</hi>
+　　徐氏<hi>在漢</hi>　<hi>天章/</hi>　<hi>寒泉</hi>
+<pb n="14b"/>
+　　顧氏<hi>象徳</hi>　<hi>善伯</hi>
+　　錢氏<hi>澄之</hi>　<hi>㓜光</hi>
+　　吳氏<hi>曰慎</hi>　<hi>徽仲/</hi>　<hi>敬齋</hi>
+　　葉氏　　　<hi>爾瞻</hi>
+　　汪氏　　　<hi>砥之</hi>
+　　程氏　　　<hi>敬承</hi>
+　　張氏　　　<hi>雨若</hi>
+　　孫氏　　　<hi>質卿</hi>
+<pb n="15a"/>
+　　吳氏　　　<hi>一源</hi>
+　　汪氏　　　<hi>咸池</hi>
+　　盧氏　　　<hi>中庵</hi>
+　　郭氏　　　<hi>鵬海</hi>
+　　游氏　　　<hi>譲溪</hi>　<hi>以上十人未詳世次或失其名字今附於此</hi>
+<pb n="16a"/>
+　　　奉<lb/>
+旨開列<lb/>
+御纂周易折中總裁校對分脩校錄監造諸臣職名<lb/>
+　　　總裁<lb/>
+　　　文淵閣大學士兼吏部尚書<hi>臣</hi>李光地<lb/>
+御前校對<lb/>
+　　　翰　林　　院　侍　講<hi>臣</hi>魏廷珍<lb/>
+　　　右春坊右中允兼翰林院編脩<hi>臣</hi>何國宗<lb/>
+<pb n="16b"/>
+　　　右春坊右中允兼翰林院編脩<hi>臣</hi>吳孝登<lb/>
+　　　翰　林　院　庶　吉　士<hi>臣</hi>梅㲄成<lb/>
+　　　舉　　　　　　　　　人<hi>臣</hi>王蘭生<lb/>
+　　　南書房校對<lb/>
+　　　詹事府少詹事兼翰林院侍講學士<hi>臣</hi>蔣廷錫<lb/>
+　　　翰　林　院　侍　講　學　士<hi>臣</hi>張廷玉<lb/>
+　　　翰　林　院　侍　講　學　士<hi>臣</hi>陳邦彦<lb/>
+　　　翰　林　　院　侍　讀<hi>臣</hi>趙熊詔<lb/>
+<pb n="17a"/>
+　　候　補　翰　林　院　侍　講<hi>臣</hi>楊名時<lb/>
+　　右春坊右中允兼翰林院編脩<hi>臣</hi>王圖炳<lb/>
+　　分脩<lb/>
+　　翰　林　　院　編　　脩<hi>臣</hi>儲在文<lb/>
+　　翰　林　　院　　檢　　討<hi>臣</hi>胡　煦<lb/>
+　　翰　林　院　庶　吉　士<hi>臣</hi>何　焯<lb/>
+　　户　　部　　主　　事<hi>臣</hi>李鼎徴<lb/>
+　　進　　　　　　　　　　士<hi>臣</hi>蔣　杲<lb/>
+<pb n="17b"/>
+　　舉　　　　　　　　　　人<hi>臣</hi>陳萬策<lb/>
+　　貢　生　候　選　知　縣<hi>臣</hi>王之鋭<lb/>
+　　監　　　　　　　　　　生<hi>臣</hi>陳汝楫<lb/>
+　　生　　　　　　　　　　員<hi>臣</hi>李清植<lb/>
+　　生　　　　　　　　　　員<hi>臣</hi>郭珣<lb/>
+　　生　　　　　　　　　　員<hi>臣</hi>李璣<lb/>
+　　武英殿校對<lb/>
+　　翰　林　　院　　編　　脩<hi>臣</hi>張起麟<lb/>
+<pb n="18a"/>
+　　翰　　林　　院　　編　　脩<hi>臣</hi>徐用錫<lb/>
+　　舉　　　　　　　　　　　人<hi>臣</hi>成　文<lb/>
+　　武英殿繕寫<lb/>
+　　翰　　林　　院　　脩　　撰<hi>臣</hi>王世琛<lb/>
+　　翰　　林　　院　　編　　脩<hi>臣</hi>嵇曽筠<lb/>
+　　翰　　林　　院　　編　　脩<hi>臣</hi>蔣　漣<lb/>
+　　翰　　林　　院　　編　　脩<hi>臣</hi>徐葆光<lb/>
+　　翰　　林　　院　　編　　脩<hi>臣</hi>劉於義<lb/>
+<pb n="18b"/>
+　　翰　　林　　院　　編　　脩<hi>臣</hi>潘允敏<lb/>
+　　翰　　林　　院　　編　　脩<hi>臣</hi>狄貽孫<lb/>
+　　翰　　林　　院　　編　　脩<hi>臣</hi>薄　海<lb/>
+　　翰　　林　　院　　編　　脩<hi>臣</hi>任蘭枝<lb/>
+　　翰　　林　　院　　檢　　討<hi>臣</hi>陳世侃<lb/>
+　　原　任　光　禄　寺　署　丞<hi>臣</hi>伊都立<lb/>
+　　候　補　翰　林　院　待　詔<hi>臣</hi>曹曰瑛<lb/>
+　　留　京　食　俸　知　縣<hi>臣</hi>王曽期<lb/>
+<pb n="19a"/>
+　　進　　　　　　　　　　　士<hi>臣</hi>張榮源<lb/>
+　　在館校對繕寫<lb/>
+　　翰　　林　　院　　編　　脩<hi>臣</hi>繆　沅<lb/>
+　　翰　　林　　院　　編　　脩<hi>臣</hi>李鍾僑<lb/>
+　　原　任　翰　林　院　編　脩<hi>臣</hi>程夢星<lb/>
+　　翰　　林　　院　　檢　　討<hi>臣</hi>張　照<lb/>
+　　翰　　林　　院　　檢　　討<hi>臣</hi>董　宏<lb/>
+　　原　任　内　閣　中　書<hi>臣</hi>閻　詠<lb/>
+<pb n="19b"/>
+　　武英殿監造<lb/>
+　　總　監　造　兼　佐　領<hi>臣</hi>張常住<lb/>
+　　總　　　　監　　　　造<hi>臣</hi>李國屏<lb/>
+　　監　造　兼　驍　騎　校<hi>臣</hi>巴　實<lb/>
+　　監　　　　　　　　　造<hi>臣</hi>神　保<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

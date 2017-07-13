@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>提要<lb/>
+                </head>
+    <p>
+<pb n="KR3l0078_WYG_000-1a"/>
+欽定四庫全書　　　　　子部十二<lb/>
+　提要<lb/>
+　　東南紀聞三卷　　　　小説家𩔖一<hi>雜事之屬</hi>
+　　　　<hi>臣</hi>等謹案東南紀聞三卷不著撰人名氏諸<lb/>
+　　　　家書目亦不載考書中有丙子之事非復庚<lb/>
+　　　　申之役語丙子為至元十三年前一年巴延<lb/>
+　　　　渡江臨安失守矣當為元人所作故稱宋為<lb/>
+　　　　東南而其中鄭紳一條稱外戚生封王爵者<lb/>
+<pb n="KR3l0078_WYG_000-1b"/>
+　　　　宋蓋自紳始論乗簥一條稱宋朝渡江以前<lb/>
+　　　　無今之簥論三五九月一條稱宋朝於此三<lb/>
+　　　　月不支羊肉錢亦皆屬元人之語然於宋之<lb/>
+　　　　諸帝稱陵名稱廟號年號往往多内詞殆江<lb/>
+　　　　左遺民所追記歟所載惟論蚳醢論揖兩條<lb/>
+　　　　偶渉古事餘皆南北宋之軼聞間與他書相<lb/>
+　　　　出入疑亦雜采説部為之至於韓淲之清節<lb/>
+　　　　何自之抗直張惟孝之任俠單煒之書法趙<lb/>
+<pb n="KR3l0078_WYG_000-2a"/>
+　　　　執中之木箭史嵩之之忮忍以及徽宗時瑞<lb/>
+　　　　禽迎駕出市儈之智術紹興中韋后欲觀石<lb/>
+　　　　塔得寺僧之譎諌則皆史𫝊所佚足補紀載<lb/>
+　　　　之闕惟楊談耗用茶局官錢一事足見宋政<lb/>
+　　　　之不綱乃載之以為豪舉殊不可訓又汪勃<lb/>
+　　　　調官一事稱張浚韓世忠迎合秦檜浚之心<lb/>
+　　　　術不可知世忠當萬萬不至此恐未免𫝊聞<lb/>
+　　　　失真而南嶽夫人一事尤為猥䙝亦未免堕<lb/>
+<pb n="KR3l0078_WYG_000-2b"/>
+　　　　小説窠臼自穢其書然大㫖記述近實持論<lb/>
+　　　　近正在説部之中猶為善本原書久佚卷帙<lb/>
+　　　　無考今以永樂大典分載於各韻下者裒合<lb/>
+　　　　排纂勒為三卷乾隆四十六年九月恭校上<lb/>
+　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　　　總　校　官<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

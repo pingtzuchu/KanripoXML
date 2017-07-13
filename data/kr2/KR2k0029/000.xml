@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>姑蘇志</head>
+    <p>
+<pb n="KR2k0029_WYG_000-1a"/>
+欽定四庫全書　　　　　史部十一<lb/>
+　姑蘇志　　　　　　　　地理𩔖三<hi>都會郡縣之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案姑蘇志六十卷明王鏊撰鏊所著<lb/>
+　　　　震澤紀聞震澤集俱别著錄蘇州自宋范成<lb/>
+　　　　大明初盧熊二志後纂輯久闕𢎞治中呉寛<lb/>
+　　　　嘗與張習都穆有志修述未成而卒遺稿尚<lb/>
+　　　　存後廣東林世逺為蘇州守以其事屬鏊鏊<lb/>
+<pb n="KR2k0029_WYG_000-1b"/>
+　　　　乃與郡人杜啟祝允明蔡羽文璧等共相討<lb/>
+　　　　論發凡舉例咸本於寛而芟繁訂譌多所更<lb/>
+　　　　益凡八月而書成首列沿革守令科第三表<lb/>
+　　　　沿革分野以下分為三十一門而人物門中<lb/>
+　　　　又分子目十三繁簡得中考核精審為地志<lb/>
+　　　　之有體要者陳繼儒見聞錄稱鏊修志時以<lb/>
+　　　　揚循吉喜謡諑不願與之同局志成遣使送<lb/>
+　　　　之循吉循吉方櫛沐不暇抽看但顧簽票云<lb/>
+<pb n="KR2k0029_WYG_000-2a"/>
+　　　　不通不通使者還述其語鏊以問之循吉曰<lb/>
+　　　　府志修於我朝原當以蘇州名志姑蘇呉王<lb/>
+　　　　臺名也以此名志可乎鏊始大服然考鏊自<lb/>
+　　　　序紀其初修志時有欲屬諸楊儀部而儀部<lb/>
+　　　　辭之語是鏊未嘗擯去循吉不與共事繼儒<lb/>
+　　　　所載恐不足信且范成大原書已題呉郡志<lb/>
+　　　　亦不標宋時州名鏊實沿用其例固未可以<lb/>
+　　　　此苛責之矣乾隆四十五年十月恭校上<lb/>
+<pb n="KR2k0029_WYG_000-2b"/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2c0009_WYG_000-1a"/>
+　欽定四庫全書　　　　　史部三<lb/>
+平定三逆方畧　　　　　　　紀事本末類<lb/>
+　　　提要<lb/>
+　　　　　<hi>臣</hi>等謹案<lb/>
+　　平定三逆方畧六十卷康熙二十一年奉<lb/>
+　　詔修纂恭紀<lb/>
+　　平定逆藩吳三桂耿精忠尚之信事敬考<lb/>
+　　實録以大學士勒徳洪明珠李霨王熙黄機吳正治<lb/>
+<pb n="KR2c0009_WYG_000-1b"/>
+　　　　　為總裁官内閣學士阿蘭泰達岱張玉書翰<lb/>
+　　　　　林院掌院學士牛鈕為副總裁官其承纂銜<lb/>
+　　　　　名則原書未載莫能詳也仰惟我<lb/>
+　　聖祖仁皇帝神武天授統壹寰宇是時平西王吳三<lb/>
+　　　　　桂封藩雲貴平南王尚可喜封藩廣東靖南<lb/>
+　　　　　王耿精忠封藩福建恃<lb/>
+　　恩驕恣日形跋扈康熙十二年因其自乞移藩<lb/>
+　　詔允所請逆謀既伐是年十一月三桂舉兵反直窺<lb/>
+<pb n="KR2c0009_WYG_000-2a"/>
+　　　　湖廣乃<lb/>
+　遣將馳赴荆州進據常徳以遏賊勢復<lb/>
+　簡八旗勁旅<lb/>
+　命將總統隨機剿禦其明年三月耿精忠亦據福建<lb/>
+　　　　反而尚可喜子之信迫其父從賊可喜憤死<lb/>
+　　　　之信遂遥為煽附閩粤郡縣並時騷動於是<lb/>
+　　　　分<lb/>
+　遣諸將<lb/>
+<pb n="KR2c0009_WYG_000-2b"/>
+　指授方畧撫剿並施以次戡定三桂旋伏冥誅逆孫<lb/>
+　　　　世璠尚踞滇中拒命而耿精忠歸正自請入<lb/>
+　朝旋訊得其通賊反覆狀磔于市尚之信雖嘗歸正<lb/>
+　　　　而心懷兩端鞫實賜死廣東平逮二十年十<lb/>
+　　　　月大兵攻圍雲南省城世璠惶懼自殺其屬<lb/>
+　　　　悉以衆降乃戮世璠首獻馘京師雲南平用<lb/>
+　　　　兵甫八年三逆悉已掃蕩集勲之速<lb/>
+　耆定之隆亘古未覩也是編吿成年月<lb/>
+<pb n="KR2c0009_WYG_000-3a"/>
+　實録亦未載惟恭載康熙二十五年十一月<lb/>
+　上諭閣臣曰爾等所進平定三逆方畧四冊朕已覽<lb/>
+　　畢其中舛錯頗多如王輔臣由雲南援勦總兵官<lb/>
+　　授為陜西提督今謂由陜西總兵官陞任至論贊<lb/>
+　　中援宋太祖杯酒釋兵權事吳三桂非宋功臣可<lb/>
+　　比乃唐藩鎮之流耳爾等其酌改之仰見是書纂<lb/>
+　　　　輯悉經<lb/>
+　聖訓裁定詳慎成編是以紀事精審措詞簡括於以<lb/>
+<pb n="KR2c0009_WYG_000-3b"/>
+　　　　彰<lb/>
+　盛烈而昭萬世洵足嫓徽謨典矣當時未奉刋布僅<lb/>
+　　　　有寫本尊藏<lb/>
+　　　大内今䝉<lb/>
+　　皇上宣示<lb/>
+　　特命繕録編入史庫臣等校録之餘既欣睹<lb/>
+　聖祖仁皇帝實兼守成創業之隆亦彌仰我<lb/>
+　　皇上覲揚<lb/>
+<pb n="KR2c0009_WYG_000-4a"/>
+　光烈之盛云乾隆四十八年三月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

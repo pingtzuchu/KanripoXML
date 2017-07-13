@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>營造法式卷二十六</head> <lb/>
+    <p>
+<pb n="KR2m0056_WYG_026-1a"/>
+欽定四庫全書<lb/>
+　營造法式卷二十六<lb/>
+　　　　　　　　　　　　　宋　李誡　撰<lb/>
+　諸作料例一<lb/>
+　　　　石作　　　　　大木作<hi>小木作附</hi>
+　　　　竹作　　　　　<graphic n="KR1769" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1769.png" mimeType="image/png"/>作<lb/>
+　　　石作<lb/>
+　蠟面每長一丈廣一尺<hi>碑身鼇坐同</hi>
+<pb n="KR2m0056_WYG_026-1b"/>
+　　黄蠟五錢<lb/>
+　　木炭三斤<hi>一段通及一丈以上者減一斤</hi>
+　　細墨五錢<lb/>
+　安砌每長三尺廣二尺礦石灰五斤<hi>贔屓碑一坐三十斤笏頭碣一</hi>
+　<hi>十斤</hi>
+　每段<lb/>
+　　孰鐵鼓卯二枚<hi>上下大頭各廣二寸長一寸腰長四寸厚六分每一枚重一斤</hi>
+　　鐵葉每鋪石二重隔一尺用一段<hi>每段廣三寸五分厚三分如並</hi>
+<pb n="KR2m0056_WYG_026-2a"/>
+　　<hi>四造長七尺並三長五尺</hi>
+　灌鼓卯縫每一枚用白錫三斤<hi>如用黒錫加一斤</hi>
+　　　大木作<hi>小木作附</hi>
+　用方木<lb/>
+　　大料摸方長八十尺至六十尺廣三尺五寸至二<lb/>
+　　尺五寸厚二尺五寸至二尺充十二架椽至八架<lb/>
+　　椽栿<lb/>
+　　廣厚方長六十尺至五十尺廣三尺至二尺厚二<lb/>
+<pb n="KR2m0056_WYG_026-2b"/>
+　　尺至一尺八寸充八架椽栿并擔栿綽幕大檐額<lb/>
+　　長方長四十尺至三十尺廣二尺至一尺五寸厚<lb/>
+　　一尺五寸至一尺二寸充出跳六架椽至四架椽<lb/>
+　　栿<lb/>
+　　松方長二丈八尺至二丈三尺廣二尺至一尺四<lb/>
+　　寸厚一尺二寸至九寸充四架椽至三架椽栿大角<lb/>
+　　梁檐額壓槽方髙一丈五尺以上版門及裹栿版<lb/>
+　　佛道帳所用枓槽壓厦版<hi>其名件廣厚非小松方以下可充者同</hi>
+<pb n="KR2m0056_WYG_026-3a"/>
+　　朴柱長三十尺徑三尺五寸至二尺五寸充五間<lb/>
+　　八架椽以上殿柱<lb/>
+　　松柱長二丈八尺至二丈三尺徑二尺至一尺五<lb/>
+　　寸就料剪截充七間八架椽以上殿副階柱或五<lb/>
+　　間三間八架椽至六架椽殿身柱或七間至三間<lb/>
+　　八架椽至六架椽㕔堂柱<lb/>
+　　就全條料及剪截解割用下項<lb/>
+　　　小松方長二丈五尺至二丈二尺廣一尺三寸<lb/>
+<pb n="KR2m0056_WYG_026-3b"/>
+　　　至一尺二寸厚九寸至八寸<lb/>
+　　　常使方長二丈七尺至一丈六尺廣一尺二寸<lb/>
+　　　至八寸厚七寸至四寸<lb/>
+　　　官様方長二丈至一丈六尺廣一尺二寸至九<lb/>
+　　　寸厚七寸至四寸<lb/>
+　　　截頭方長二丈至一丈八尺廣一尺三寸至一<lb/>
+　　　尺一寸厚九寸至七寸五分<lb/>
+　　　材子方長一丈八尺至一丈六尺廣一尺二寸<lb/>
+<pb n="KR2m0056_WYG_026-4a"/>
+　　　至一尺厚八寸至六寸<lb/>
+　　　方八方長一丈五尺至一丈三尺廣一尺一寸<lb/>
+　　　至九寸厚六寸至四寸<lb/>
+　　　常使方八方長一丈五尺至一丈三尺廣八寸<lb/>
+　　　至六寸厚五寸至四寸<lb/>
+　　　方八子方長一丈五尺至一丈二尺廣七寸至<lb/>
+　　　五寸厚五寸至四寸<lb/>
+　　　竹作<lb/>
+<pb n="KR2m0056_WYG_026-4b"/>
+　色額等第<lb/>
+　　上等<hi>每徑一寸分作四片每片廣七分每徑加一分至一寸以上準此計之中等同其打笆用</hi>
+　　<hi>下等者只椎竹造</hi>
+　　　漏三長二丈徑二寸一分<hi>係除梢實收數下並同</hi>
+　　　漏二長一丈九尺徑一寸九分<lb/>
+　　　漏一長一丈八尺徑一寸七分<lb/>
+　　中等<lb/>
+　　　大竿條長一丈六尺<hi>織簟減一尺次竿頭竹同</hi>徑一寸五分<lb/>
+<pb n="KR2m0056_WYG_026-5a"/>
+　　　次竿條長一丈五尺徑一寸三分<lb/>
+　　　頭竹長一丈二尺徑一寸二分<lb/>
+　　　次頭竹長一丈一尺徑一寸<lb/>
+　　下等<lb/>
+　　　笪竹長一丈徑八分<lb/>
+　　　大管長九尺徑六分<lb/>
+　　　小管長八尺徑四分<lb/>
+　織細棊文素簟<hi>織華或龍鳯造同</hi>每方一尺徑一寸二分竹<lb/>
+<pb n="KR2m0056_WYG_026-5b"/>
+　一條<hi>襯簟在内</hi>
+　織粗簟<hi>假棊文簟同</hi>每方二尺徑一寸二分竹一條八分<lb/>
+　織雀眼網<hi>每長一丈廣五尺</hi>以徑一寸二分竹<lb/>
+　　渾青造一十一條<hi>内一條作貼如用木貼即不用下同</hi>
+　　青白造六條<lb/>
+　笍索每一束<hi>長二百尺廣一寸五分厚四分</hi>以徑一寸三分竹<lb/>
+　　渾青疊四造一十九條<lb/>
+　　青白造一十三條<lb/>
+<pb n="KR2m0056_WYG_026-6a"/>
+　障日䈳每三片各長一丈廣二尺<lb/>
+　　徑一寸三分竹二十一條<hi>劈篾在内</hi>
+　　蘆蕟八領<hi>壓縫在内如織簟造不用</hi>
+　每方一丈<lb/>
+　　打笆以徑一寸三分竹為率用竹三十條造<hi>一十二條</hi>
+　　<hi>作經一十八條作緯鉤頭攙壓在内其竹若㼧瓦結瓦六椽以上用上等四椽及瓪瓦六椽以上用</hi>
+　　<hi>中等㼧瓦兩椽瓪瓦四椽以下用下等若闕本等以别等竹比折充</hi>
+　　編道以徑一寸五分竹為率用二十三條造<hi>㯒并竹釘</hi>
+<pb n="KR2m0056_WYG_026-6b"/>
+　　<hi>在内闕以别色若照壁中縫及髙不滿五尺或栱壁山斜泥道以次竿或頭竹次頭竹比折充</hi>
+　　竹柵以徑八分竹一百八十三條造<hi>四十條作經一百四十三</hi>
+　　<hi>條編造如髙不滿一丈以大管竹或小管竹比折充</hi>
+　　夾截<lb/>
+　　　中箔五領<hi>攙壓在内</hi>
+　　　徑一寸二分竹一十條<hi>劈蔑在内</hi>
+　搭蓋涼棚每方一丈二尺<lb/>
+　　　中箔三領半<lb/>
+<pb n="KR2m0056_WYG_026-7a"/>
+　　　徑一寸三分竹四十八條<hi>三寸二條作椽四條走水四條裹脣三條</hi>
+　　　<hi>壓縫五條劈篾青白用</hi>
+　　　蘆蕟九領<hi>如打笆造不用</hi>
+　　　<graphic n="KR1769" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1769.png" mimeType="image/png"/>作<lb/>
+　用純石灰<hi>謂礦灰下同</hi>
+　　結<graphic n="KR1769" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1769.png" mimeType="image/png"/>每一口<lb/>
+　　　㼧瓦一尺二寸二斤<hi>即澆灰結瓦用五分之一每増減一等各加減八兩</hi>
+　　　<hi>至一尺以下各減所減之半下至壘脊條子瓦同其一尺二寸瓪瓦凖一尺㼧瓦法</hi>
+<pb n="KR2m0056_WYG_026-7b"/>
+　　　仰瓪瓦一尺四寸三斤<hi>每増減一等各加減一斤</hi>
+　　　㸃節㼧瓦一尺二寸一兩<hi>每増減一等各加減四錢</hi>
+壘脊<hi>以一尺四寸瓪瓦結瓦為率</hi>
+　　　大當溝<hi>以㼧瓦一口造</hi>每二枚七斤八兩<hi>每増減一等各加減四分</hi>
+　　　<hi>之一線道同</hi>
+　　　線道<hi>以㼧瓦一口造二片</hi>每一尺兩壁共二斤<lb/>
+　　　條子瓦<hi>以㼧瓦一口造四片</hi>每一尺兩壁共一斤<hi>每増減一等各</hi>
+　　　<hi>加減五分之一</hi>
+<pb n="KR2m0056_WYG_026-8a"/>
+　　　泥脊白道每長一丈一斤四兩<lb/>
+　用墨煤染脊每層長一丈四錢<lb/>
+　用泥壘脊九層為率每長一丈<lb/>
+　　麥䴬一十八斤<hi>每増減二層各加減四斤</hi>
+　　紫土八擔<hi>每一擔重六十斤餘應用土並同每増減二層各加減一擔</hi>
+　小當溝每瓪瓦一口造二枚<hi>仍取條子瓦二片</hi>
+　鷰頷或牙子版每合角處用鐵葉一段<hi>殿宇長一尺廣六寸餘長</hi>
+　<hi>六寸廣四寸</hi>
+<pb n="KR2m0056_WYG_026-8b"/>
+　結<graphic n="KR1769" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1769.png" mimeType="image/png"/>以瓪瓦長每口攙壓四分收長六分<hi>其解撟剪截不得過</hi>
+　<hi>三分</hi>合溜處火斜瓦者並計整口<lb/>
+　布瓦隴每一行依下項<lb/>
+　　㼧瓦<hi>以仰瓪瓦為計</hi>
+　　　長一尺六寸每一尺<lb/>
+　　　長一尺四寸每八寸<lb/>
+　　　長一尺二寸每七寸<lb/>
+　　　長一尺每五寸八分<lb/>
+<pb n="KR2m0056_WYG_026-9a"/>
+　　　長八寸每五寸<lb/>
+　　　長六寸每四寸八分<lb/>
+　　瓪瓦<lb/>
+　　　長一尺九寸每四寸<lb/>
+　　　長一尺二寸每七寸五分<lb/>
+　結瓦每方一丈<lb/>
+　　中箔每重二領半<hi>壓占在内殿宇樓閣五間以上用五重三間四重㕔堂三重餘</hi>
+　　<hi>並二重</hi>
+<pb n="KR2m0056_WYG_026-9b"/>
+　　土四十擔<hi>係㼧瓪結瓦以一尺四寸瓪瓦為率下<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>䴬同每増一等加一十擔每減一等</hi>
+　　<hi>減五擔其散瓪瓦各減半</hi>
+　　麥䴬二十斤<hi>每増一等加一斤每減一等減八兩散瓪瓦各減半如純灰結瓦不用其</hi>
+　　<hi>麥<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>同</hi>
+　　麥<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>一十斤<hi>每増一等加八兩每減一等減四兩散瓪瓦不用</hi>
+　　泥籃二枚<hi>散瓪瓦一枚用徑一寸三分竹一條織造二枚</hi>
+　　繫箔常使麻一錢五分<lb/>
+　抺柴棧或版笆箔每方一丈<hi>如純灰於版并笆箔上結瓦者不用</hi>
+<pb n="KR2m0056_WYG_026-10a"/>
+　　土十二擔<lb/>
+　　麥<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>十一斤<lb/>
+　安卓<lb/>
+　　鴟尾每一隻<hi>以髙三尺為率龍尾同</hi>
+　　　鐵脚子四枚各長五寸<hi>每髙増一尺長加一寸</hi>
+　　　鐵束一枚長八寸<hi>每髙増一尺長加二寸其束子大頭廣二寸小頭廣一寸</hi>
+　　　<hi>二分為定法</hi>
+　　　搶鐵三十二片長視身三分之一<hi>每髙増一尺加八片大頭</hi>
+<pb n="KR2m0056_WYG_026-10b"/>
+　　　<hi>廣二寸小頭廣一寸為定法</hi>
+　　　拒鵲子二十四枚<hi>上作五叉子每髙増一尺加三枚</hi>各長五寸<lb/>
+　　　<hi>每髙増一尺加六分</hi>
+　　　安拒鵲等石灰八斤<hi>坐鴟尾及龍尾同每増減一尺各加減一斤</hi>
+　　　墨煤四兩<hi>龍尾三兩每増減一尺各加減一兩三錢龍尾加減一兩其瑠璃者不用</hi>
+　　　鞠六道各長一尺<hi>曲在内為定法龍尾同每増一尺添八道龍尾添六道其</hi>
+　　　<hi>髙不及三尺者不用</hi>
+　　　栢樁二條<hi>龍尾同髙不及三尺者減一條</hi>長視髙徑三寸五分<lb/>
+<pb n="KR2m0056_WYG_026-11a"/>
+　　　<hi>三尺以下徑三寸</hi>
+　　龍尾<lb/>
+　　　鐵索二條<hi>兩頭各帶獨脚屈膝其髙不及三尺者不用</hi>
+　　　一條長視髙一倍外加三尺<lb/>
+　　　一條長四尺<hi>每増一尺加五寸</hi>
+　　火珠每一坐<hi>以徑二尺為率</hi>
+　　　栢樁一條長八尺<hi>每増減一等各加減六寸其徑以三寸五分為定法</hi>
+　　　石灰一十五斤<hi>每増減一等各加減二斤</hi>
+<pb n="KR2m0056_WYG_026-11b"/>
+　　　墨煤三兩<hi>每増減一等各加減五錢</hi>
+　　獸頭每一隻<lb/>
+　　　鐵鉤一條<hi>髙二尺五寸以上鉤長五尺髙一尺八寸至二尺鉤長三尺髙一尺四寸</hi>
+　　　<hi>至一尺六寸鉤長二尺五寸髙一尺二寸以下鉤長二尺</hi>
+　　　繫顋鐵索一條長七尺<hi>兩頭各帶直脚屈膝獸髙一尺八寸以下並不</hi>
+　　　<hi>用</hi>
+　　　滴當子每一枚<hi>以髙五寸為率</hi>石灰五兩<hi>每増減一等各加減一兩</hi>
+　　　嬪伽每一隻<hi>以髙一尺四寸為率</hi>石灰三斤八兩<hi>每増減一等各</hi>
+<pb n="KR2m0056_WYG_026-12a"/>
+　　　<hi>加減八兩至一尺以下減四兩</hi>
+　　　蹲獸每一隻<hi>以髙六寸為率</hi>石灰二斤<hi>每増減一等各加減八兩</hi>
+　石灰每三十斤用麻擣一斤<lb/>
+　出光瑠璃瓦每方一丈用常使麻八兩<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0056_WYG_026-12b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　營造法式卷二十六<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

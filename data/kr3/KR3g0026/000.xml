@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>催官篇</head>
+    <p>
+<pb n="KR3g0026_WYG_000-1a"/>
+欽定四庫全書　　　　　子部七<lb/>
+　催官篇　　　　　　　　術數類三<hi>相宅相墓之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案催官篇二卷宋賴文俊撰文俊字<lb/>
+　　　　太素處州人嘗官於建陽好相地之術棄職<lb/>
+　　　　浪逰自號布衣子故世稱曰賴布衣所著有<lb/>
+　　　　紹興大地八鈐及三十六鈐今俱未見是書<lb/>
+　　　　分龍穴砂水四篇各為之歌龍以二十四山<lb/>
+<pb n="KR3g0026_WYG_000-1b"/>
+　　　　分隂陽以震庚亥為三吉巽辛艮丙兑丁為<lb/>
+　　　　六秀而著其變換受穴吉凶之應穴仍以龍<lb/>
+　　　　為主而受氣有挨左挨右之異砂水二篇亦<lb/>
+　　　　以方位為斷其説頗具懸解如謂寅甲二龍<lb/>
+　　　　出瘋跛者木盛生風又星應尾箕而好風震<lb/>
+　　　　為足風淫末疾故主瘋跛丙方上應星馬故<lb/>
+　　　　有蠶絲之祥丁方上應夀星故多夀考之兆<lb/>
+　　　　兑龍辰水辰有金殺兑為口舌為毁折故主<lb/>
+<pb n="KR3g0026_WYG_000-2a"/>
+　　　　缺唇露齒又辰酉逢合土塞金聲故主重舌<lb/>
+　　　　含糊其言雖頗涉於神怪而於隂陽五行生<lb/>
+　　　　尅制化實能言之成理視悠謬無根之談侈<lb/>
+　　　　言休咎而不能明其所以然者勝之多矣書<lb/>
+　　　　中舊有注解不知何人所作闡發頗為詳盡<lb/>
+　　　　其𫝊已久併錄之以資考焉乾隆四十六年<lb/>
+　　　　十月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+<pb n="KR3g0026_WYG_000-2b"/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

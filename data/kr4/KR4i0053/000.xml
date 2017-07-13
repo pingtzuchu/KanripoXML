@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>詩話補遺</head>
+    <p>
+<pb n="KR4i0053_WYG_000-1a"/>
+欽定四庫全書　　　　　集部九<lb/>
+　詩話補遺　　　　　　　詩文評類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案詩話補遺三巻明楊慎撰慎有檀<lb/>
+　　　　弓叢訓等書已著録又嘗作升庵詩話其門<lb/>
+　　　　人楊達之刻之此其戌雲南後所作其門人<lb/>
+　　　　曹命編次者也慎在戌所無文籍可稽著書<lb/>
+　　　　惟憑腹笥中如稱宋本杜甫集麗人行中有<lb/>
+<pb n="KR4i0053_WYG_000-1b"/>
+　　　　足下何所有紅渠羅襪穿鐙銀二句之類已<lb/>
+　　　　為前人之所糾至於稱渤海北海之地今哈<lb/>
+　　　　宻扶餘中國之滄州景州名渤海者葢僑稱<lb/>
+　　　　以張休盛云云不知哈宻在西扶餘在東絶<lb/>
+　　　　不相及滄景一帶地皆瀕海故又有瀛州瀛<lb/>
+　　　　海諸名謂曰僑置殊非事實又香雲香雨並<lb/>
+　　　　出王嘉拾遺記而引李賀元稹之詩又以盧<lb/>
+　　　　象雲氣杳流水句誤為香字如斯之類亦引<lb/>
+<pb n="KR4i0053_WYG_000-2a"/>
+　　　　據疎舛然其賅博淵通究在明人諸家之上<lb/>
+　　　　去瑕存瑜可采者固不少也乾隆四十六年<lb/>
+　　　　十月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>睽車志</head>
+    <p>
+<pb n="KR3l0121_WYG_000-1a"/>
+欽定四庫全書　　　　　子部十二<lb/>
+　睽車志　　　　　　　　小説家𩔖二<hi>異聞之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案睽車志六卷宋郭彖撰彖字次象<lb/>
+　　　　和州人由進士厯官知興國軍是書皆紀鬼<lb/>
+　　　　怪神異之事為當時耳目所聞見者其名睽<lb/>
+　　　　車志蓋取睽上六載鬼一車之語也宋史藝<lb/>
+　　　　文志載有是書一卷陳振孫書錄解題馬端<lb/>
+<pb n="KR3l0121_WYG_000-1b"/>
+　　　　臨經籍考俱作五卷而明㑹稽商濬刻入稗<lb/>
+　　　　海者又作六卷參錯不一蓋後人屢有所分<lb/>
+　　　　析故卷目多寡互異耳書中所載多建炎紹<lb/>
+　　　　興乾道淳熙間事而汴京舊聞亦間為錄入<lb/>
+　　　　各條之末悉分注某人所説蓋用洪邁夷堅<lb/>
+　　　　志之例其大㫖亦主於因果報應以為世勸<lb/>
+　　　　戒特摭拾既廣有聞即錄往往傳述附㑹於<lb/>
+　　　　事實不免荒唐如米芾本北宋名流而疑為<lb/>
+<pb n="KR3l0121_WYG_000-2a"/>
+　　　　蟒精程迥亦南渡後儒宿多所著述而以為<lb/>
+　　　　其家奉玉真娘子由此致富張觷能斥奸平<lb/>
+　　　　亂志操甚正身後至廟食邵武而以為挾嫌<lb/>
+　　　　殺人白晝見鬼而卒此𩔖皆灼然可知其妄<lb/>
+　　　　其他紀載亦多渉瑣碎然齊諧志怪之書古<lb/>
+　　　　所不廢雖無禆考證而有助談資此書亦搜<lb/>
+　　　　神記稽神錄之支流故仍錄而存之以備小<lb/>
+　　　　説家之一種焉乾隆四十三年六月恭校上<lb/>
+<pb n="KR3l0121_WYG_000-2b"/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

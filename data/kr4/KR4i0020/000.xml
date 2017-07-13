@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>風月堂詩話</head>
+    <p>
+<pb n="KR4i0020_WYG_000-1a"/>
+欽定四庫全書　　　　　集部九<lb/>
+　風月堂詩話　　　　　　詩文評類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案風月堂詩話二巻宋朱弁撰弁有<lb/>
+　　　　曲洧舊聞已著録是編多記元祐中歐陽修<lb/>
+　　　　蘇軾黄庭堅陳師道梅堯臣及諸晁遺事首<lb/>
+　　　　尾兩條皆發明鍾嶸思君如流水既是即目<lb/>
+　　　　明月照積雪羌無故實之義盖其宗㫖所在<lb/>
+<pb n="KR4i0020_WYG_000-1b"/>
+　　　　其論黄庭堅用崑體工夫而造老杜渾成之<lb/>
+　　　　地尤為窺見深際後來論黄詩者皆所未及<lb/>
+　　　　前有自序題庚申閏月考庚申為紹興十年<lb/>
+　　　　當金熙宗天眷三年弁以建炎元年使金留<lb/>
+　　　　十七年乃還則在金時所作也末有咸淳壬<lb/>
+　　　　申月觀道人䟦稱得于永城人朱伯玉家盖<lb/>
+　　　　北方所傳之本意弁使金時遺其藁于燕京<lb/>
+　　　　度宗時始傳至江左故晁陳二家皆不著録<lb/>
+<pb n="KR4i0020_WYG_000-2a"/>
+　　　　觀元好問中州集収録弁詩知其著作散落<lb/>
+　　　　北方者多固不得以晚出疑之矣其序但題<lb/>
+　　　　甲子不著紹興紀年殆亦金人傳寫不用敵<lb/>
+　　　　國之號為之削去歟乾隆四十六年九月恭<lb/>
+　　　　校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="KR4i0020_WYG_000-3a"/>
+風月堂詩話原序<lb/>
+予在東里於所居之東小園之西有堂三楹壁間多皇<lb/>
+朝以来諸名卿畫像而文籍中多與左司馬班韓歐蘇<lb/>
+數公相對以其地無松竹且去山水甚逺而三徑閒寂<lb/>
+庭字虛敞凡過我門而滿吾座者唯風與月耳故斯堂<lb/>
+也以風月得名又予心空洞無城府見人雖昧生平必<lb/>
+出肺腑相示以此語言多觸忌諱而招悔吝每客至必<lb/>
+戒之曰是間止可談風月捨此不談而泛及時事請釂<lb/>
+<pb n="KR4i0020_WYG_000-3b"/>
+吾大白厥後山淵反覆兵火肆虐堂扵兹時均被赭垣<lb/>
+之酷風月雖存賓客安徃予復以使事羈絆㶟河閲厯<lb/>
+星紀追思曩游風月之談十僅省四五乃纂次為二巻<lb/>
+號風月堂詩話歸詒子孫異時幅巾林下摩挲泉石時<lb/>
+取觀之則曲洧風月猶在吾目中也庚申閏月戊子觀<lb/>
+如居士朱弁叙<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

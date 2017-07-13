@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2d0018_SBCK_000-1a"/>
+　東山國語目錄<lb/>
+　　浙語一<lb/>
+　　　徐石麒<hi>缺</hi>
+　　浙語二　查東山筆　沈仲方閱<lb/>
+　　　高岱高朗朱大綱張鵬翼周宗彝馬鳴雷方維新沈陵<lb/>
+<hi>蔡瑛許定俞元良潘起龍僧穎石徐職方徐汝琦運城王盛澂</hi>
+　　浙語三　查東山筆　沈仲方閱<lb/>
+　　　陸士鉉陸韜黄銑張實孚錢士馨吳統持<lb/>
+　　浙語四　東山散筆　墨庵補述<lb/>
+　　　朱大典張國維<hi>張世鳯沈蘭吳邦璿方召熊汝霖</hi>
+　　浙語五　東山散筆　墨庵補述<lb/>
+　　　陳函輝陳潛夫<lb/>
+<pb n="KR2d0018_SBCK_000-1b"/>
+<pb n="KR2d0018_SBCK_000-1b"/>
+　　　王朝先<hi>劉孔昭徐孚遠阮駿江天保黄斌卿陳九徵李思密鄭遵儉周崔之周瑞王衡楊璣孫延齡黄甲李國禎楊鼎臣李開國</hi>
+<hi>李向榮焦文玉劉世勳馬泰單登雲蘇兆人黄忠孝顧明復陳六御姚志卓劉永錫楊晉爵郭貞一義英標官羅若騰沈荃期紀日靑林復齋僧無</hi>
+<hi>凡王妃張氏宮眷十三人一内監</hi>
+　　臨門語　查東山散紀　沈墨庵補述<lb/>
+　　　張煌言<lb/>
+　　䖍南語　查東山散紀　沈墨庵補述<lb/>
+　　　楊廷麟萬元吉郭維經彭期生楊文薦姚奇胤黎遂球<lb/>
+<hi>龔棻盧觀象月中桂王其<折 t="33"/>其窿萬發祥莊以蒞鍾良則袁從諤劉孟鍧于斯昌劉天駟汪起龍程必進程矩</hi>
+　　江右語一　查東山筆　沈墨庵述<lb/>
+　　　揭重熙傅鼎銓<hi>曹大鎬傅雲龍</hi>
+　　江右語二　查東山散筆　沈墨庵補述<lb/>
+　　　姜曰廣<hi>二子失名</hi>劉士禎<hi>子肇泰肇臨肇升/肇履肇謙肇順</hi>梁于涘<hi>妾張氏</hi>陳泰來<lb/>
+<pb n="KR2d0018_SBCK_000-2a"/>
+<hi>子正儀文學熊維樸</hi>曾亨應<hi>兄大應詹兆恆</hi>
+　　中州語　查東山筆　沈墨庵閱<lb/>
+　　　吳汝琦<hi>凌駉蔡鳳張垣</hi>
+　　楚語　查東山筆　沈墨庵閱<lb/>
+　　　何騰蛟<lb/>
+　　閩語一<lb/>
+　　　黃道周<hi>缺</hi>
+　　閩語二　查東山筆　沈墨庵閱<lb/>
+　　　曹學佺齊巽周之䕫<lb/>
+　　閩語三　查東山散筆　沈墨庵補述<lb/>
+　　　黃大鵬林垐林汝翥劉中藻謝宮錦陳際熙陳泰鍾潘<lb/>
+　　　啓烺吳炳金麗澤王士和胡奇偉周定礽<lb/>
+<pb n="KR2d0018_SBCK_000-2b"/>
+　　閩語四　查東山筆　沈墨庵閱<lb/>
+　　　王祁<lb/>
+　　粤徼語　查東山筆　沈墨庵閱<lb/>
+　　　李定國<lb/>
+　　粤語一　查東山散筆　沈墨庵補述<hi>下同</hi>
+　　　陳子壯陳邦彥麥而炫朱實蓮張家玉林洊張恂<hi>楊景華楊可觀</hi>
+<hi>張珣尹端安蘇觀生李翔</hi>
+　　粤語二<lb/>
+　　　王興連城璧郭之奇<hi>馬應房馮恊颺</hi>
+　　粤語三<lb/>
+　　　梁朝鍾陳嘉會陸應珪鄺露黄襄卿朱家臣梁萬爵梁<lb/>
+　　　萬采<hi>嚴起恆吳貞毓張三果曾起莘</hi>金堡<hi>陳學/銓</hi>張同敞傅作霖<hi>侯偉米素圖李如星</hi>
+<pb n="KR2d0018_SBCK_000-3a"/>
+　　西粤語一　查東山筆　沈仲方閱<hi>下同</hi>
+　　　瞿式耜<lb/>
+　　西粤語二<lb/>
+　　　楊畏知王運開王運閎劉廷標王祚吳貞毓<hi>張鐫蔣乾昌李欣李元開</hi>
+<hi>徐拯楊鍾胡士瑞趙賡禹蔡紬鄭允元周允吉朱議㫤朱東旦任斗垣易士佳内監張福祿全爲國曾英</hi>
+　　臺灣前語　查東川筆　沈仲方閱<hi>下同</hi>
+　　　東寧國<lb/>
+　　臺灣後語<lb/>
+　　　東寧國國姓成功<lb/>
+　　國語補　沈仲方筆<lb/>
+　　　　南<lb/>
+　　　夏完淳<hi>父允彝陳子龍沈猶龍章簡李待間股之輅黄蜚沈雲生薛去疾吳勝兆侯承祖其杰徐式榖吳總兵</hi>
+<pb n="KR2d0018_SBCK_000-3b"/>
+　　　許德溥<lb/>
+　　　　楚<lb/>
+　　　湘女<lb/>
+　　　　浙<lb/>
+　　　丁烈婦　袁烈婦<lb/>
+　　墨子語後自序幷詩十九章<lb/>
+<pb n="KR2d0018_SBCK_000-4a"/>
+<pb n="KR2d0018_SBCK_000-5a"/>
+浙語一<lb/>
+　　　徐石麒<hi>缺</hi>
+<pb n="KR2d0018_SBCK_000-5b"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>西渡集補遺</head> <lb/>
+    <p>
+<pb n="KR4d0141_WYG_003-1a"/>
+欽定四庫全書<lb/>
+　西渡集補遺<lb/>
+　　　　　　　　　　　　　宋　洪炎　撰<lb/>
+　　石湖院<lb/>
+古木參天水一溝潮来曲折可蔵舟招提密映晴嵐起<lb/>
+滄海潛通夜氣浮丹茘薦盤驚北客青蟳供饌識炎州<lb/>
+却疑江左知名士不作乗桴浩蕩遊<lb/>
+　　逍遥閣<lb/>
+<pb n="KR4d0141_WYG_003-1b"/>
+傑閣龍樓倚翠微中秋午夜望清輝桂枝委地三千尺<lb/>
+柏影垂壇四十圍簫鼔或疑風雨下雲霞猶想錦㠶飛<lb/>
+只今井臼依然在不見歸来丁令威<lb/>
+　　月夜登滕王閣<lb/>
+桃花亂打散花樓南浦西山送客愁為理伊州十二疊<lb/>
+緩歌聲裏看洪州<lb/>
+西江東畔見江樓江月江風萬斛愁試問海潮應念我<lb/>
+為将雙淚到南州<lb/>
+<pb n="KR4d0141_WYG_003-2a"/>
+　　菊坡叢話洪玉父舎人有侍兒曰小九知書能為<lb/>
+　　洪檢閱洪甚愛之嘗月夜登滕王閣洪賦詩云云<lb/>
+　　後因兵亂失之洪悵恨不已又和前詩云云巳而<lb/>
+　　洪復㝷得其人<lb/>
+　　再任秘書少監<lb/>
+再入蘭臺逢舊史重逰東觀閱新書家徒四壁今無屋<lb/>
+誰為君王奏子虚<lb/>
+　<lb/>
+<pb n="KR4d0141_WYG_003-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　西渡集補遺<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4d0083_SBCK_000-1a"/>
+欒城應詔集目錄<lb/>
+　第一卷<lb/>
+　　　進論五首<lb/>
+　　　　夏<lb/>
+　　　　商<lb/>
+　　　　周<lb/>
+　　　　六國<lb/>
+　　　　秦<lb/>
+　第二卷<lb/>
+　　進論五首<lb/>
+<pb n="KR4d0083_SBCK_000-1b"/>
+　　　　　漢<lb/>
+　　　　　三　國<lb/>
+　　　　　晉<lb/>
+　　　　　七代<lb/>
+　　　　　隋<lb/>
+　　第三卷<lb/>
+　　　　進論五首<lb/>
+　　　　　唐<lb/>
+　　　　　五代<lb/>
+　　　　　周公<lb/>
+<pb n="KR4d0083_SBCK_000-2a"/>
+　　　　　老聃上<lb/>
+　　　　　老聃下<lb/>
+　　第四卷<lb/>
+　　　　進論五首<lb/>
+　　　　　禮<lb/>
+　　　　　易<lb/>
+　　　　　書<lb/>
+　　　　　詩<lb/>
+　　　　　春秋<lb/>
+　　第五卷<lb/>
+<pb n="KR4d0083_SBCK_000-2b"/>
+　　　　進論五首<lb/>
+　　　　　燕趙<lb/>
+　　　　　　蜀<lb/>
+　　　　　北狄<lb/>
+　　　　　西戎<lb/>
+　　　　　　西南夷<lb/>
+　　第六卷<lb/>
+　　　　進策<lb/>
+　　　　　　君術五道<lb/>
+　　第七卷<lb/>
+<pb n="KR4d0083_SBCK_000-3a"/>
+　　　進策<lb/>
+　　　　　臣事五道上<lb/>
+　　第八卷<lb/>
+　　　進策<lb/>
+　　　　　臣事五道下<lb/>
+　　第九卷<lb/>
+　　　進策<lb/>
+　　　　　民政五道上<lb/>
+　　第十卷<lb/>
+　　　進策<lb/>
+<pb n="KR4d0083_SBCK_000-3b"/>
+　　　民政五道下<lb/>
+　第十一卷<lb/>
+　　秘閣試論六首<lb/>
+　　　王者不治夷狄<lb/>
+　　　劉愷丁鴻孰賢<lb/>
+　　　禮義信足以成德<lb/>
+　　　形勢不如德<lb/>
+　　　禮以養人爲本<lb/>
+　　　旣醉備五福<lb/>
+　　秋試論一　首<lb/>
+<pb n="KR4d0083_SBCK_000-4a"/>
+　　　史官助賞罰<lb/>
+　　省試論一　首<lb/>
+　　　刑賞忠厚之至<lb/>
+　第十二卷<lb/>
+　　御試制科策一道<lb/>
+<pb n="KR4d0083_SBCK_000-4b"/>
+</p>
+<p>
+欒城應詔集目錄終<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

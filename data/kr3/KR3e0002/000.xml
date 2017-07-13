@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3e0002_SBCK_000-1a"/>
+黃帝素問靈樞經敘<lb/>
+昔黃帝作内經十八卷靈樞九卷素問九卷<lb/>
+廼其數焉世所奉行唯素問耳越人得其一<lb/>
+二而述難經皇甫謐次而爲甲乙諸家之說<lb/>
+悉自此始其間或有得失未可爲後世灋則<lb/>
+謂如南陽活人書稱欬逆者噦也謹按靈樞<lb/>
+經曰新榖氣入于胃與故寒氣相爭故曰噦<lb/>
+舉而並之則理可斷矣又如難經第六十五<lb/>
+<pb n="KR3e0002_SBCK_000-1b"/>
+篇是越人標指靈樞本輸之大略世或以爲<lb/>
+流注謹按靈樞經曰所言節者神氣之所遊<lb/>
+行出入也非皮肉筋骨也又曰神氣者正氣<lb/>
+也神氣之所遊行出入者流注也井滎輸經<lb/>
+合者本輸也舉而並之則知相去不啻天壤<lb/>
+之異但恨靈樞不傳久矣世莫能究夫爲醫<lb/>
+者在讀醫書耳讀而不能爲醫者有矣未有<lb/>
+不讀而能爲醫者也不讀醫書又非世業殺<lb/>
+<pb n="KR3e0002_SBCK_000-2a"/>
+人尤毒於梃刃是故古人有言曰爲人子而<lb/>
+不讀醫書由爲不孝也僕本庸昧自髫迄壯<lb/>
+濳心斯道頗渉其理輙不自揣叅對諸書再<lb/>
+行校正家藏舊本靈樞九卷共八十一篇增<lb/>
+修音釋附于卷末勒爲二十四卷庶使好生<lb/>
+之人開卷易朙了無差别除巳具狀經所屬<lb/>
+申朙外准使府指揮依條申轉運司選官詳<lb/>
+定具書送祕書省國子監今崧專訪請名醫<lb/>
+<pb n="KR3e0002_SBCK_000-2b"/>
+更乞叅詳免誤將來利益無竆功實有自時<lb/>
+宋紹興乙亥仲夏望日錦官史崧題<lb/>
+<pb n="KR3e0002_SBCK_000-3a"/>
+黃帝素問靈樞經目錄<lb/>
+　卷之一<lb/>
+　　九鍼十二原第一<hi>法天</hi>
+　　本輸第二<hi>法地</hi>
+　　小鍼解第三<hi>法人</hi>
+　　邪氣藏府病形第四<hi>法時</hi>
+　卷之二<lb/>
+　　根結第五<hi>法音</hi>
+<pb n="KR3e0002_SBCK_000-3b"/>
+　　夀夭剛柔第六<hi>法律</hi>
+　　官鍼第七<hi>法星</hi>
+　　本神第八<hi>法風</hi>
+　　終始第九<hi>法野</hi>
+　卷之三<lb/>
+　　經脉第十<lb/>
+　　經别第十一<lb/>
+　　經水第十二<lb/>
+<pb n="KR3e0002_SBCK_000-4a"/>
+　卷之四<lb/>
+　　經筋第十三<lb/>
+　　骨度第十四<lb/>
+　　五十營第十五<lb/>
+　　營氣第十六<lb/>
+　　脉度第十七<lb/>
+　　營衛生會第十八<lb/>
+　　四時氣第十九<lb/>
+<pb n="KR3e0002_SBCK_000-4b"/>
+　卷之五<lb/>
+　　五邪第二十<lb/>
+　　寒熱病第二十一<lb/>
+　　癲狂病第二十二<lb/>
+　　熱病第二十三<lb/>
+　　厥病第二十四<lb/>
+　　病本第二十五<lb/>
+　　雜病第二十六<lb/>
+<pb n="KR3e0002_SBCK_000-5a"/>
+　　周痺第二十七<lb/>
+　　口問第二十八<lb/>
+　卷之六<lb/>
+　　師傳第二十九<lb/>
+　　决氣第三十<lb/>
+　　腸胃第三十一<lb/>
+　　平人絶榖第三十二<lb/>
+　　海論第三十三<lb/>
+<pb n="KR3e0002_SBCK_000-5b"/>
+　　五亂第三十四<lb/>
+　　脹論第三十五<lb/>
+　　五癃津液别第三十六<lb/>
+　　五閱五使第三十七<lb/>
+　　逆順肥瘦第三十八<lb/>
+　　血絡論第三十九<lb/>
+　　隂陽清濁第四十<lb/>
+　卷之七<lb/>
+<pb n="KR3e0002_SBCK_000-6a"/>
+　　隂陽繫日月第四十一<lb/>
+　　病傳第四十二<lb/>
+　　滛邪發夢第四十三<lb/>
+　　順氣一日分爲四時第四十四<lb/>
+　　外揣第四十五<lb/>
+　　五變第四十六<lb/>
+　　本藏第四十七<lb/>
+　卷之八<lb/>
+<pb n="KR3e0002_SBCK_000-6b"/>
+　　禁服第四十八<lb/>
+　　五色第四十九<lb/>
+　　論勇第五十<lb/>
+　　背腧第五十一<lb/>
+　　衛氣第五十二<lb/>
+　　論痛第五十三<lb/>
+　　天年第五十四<lb/>
+　　逆順第五十五<lb/>
+<pb n="KR3e0002_SBCK_000-7a"/>
+　　五味第五十六<lb/>
+　卷之九<lb/>
+　　水脹第五十七<lb/>
+　　賊風第五十八<lb/>
+　　衛風失常第五十九<lb/>
+　　玉版第六十<lb/>
+　　五禁第六十一<lb/>
+　　動輸第六十二<lb/>
+<pb n="KR3e0002_SBCK_000-7b"/>
+　　五味論第六十三<lb/>
+　　隂陽二十五人第六十四<lb/>
+　卷之十<lb/>
+　　五音五味第六十五<lb/>
+　　百病始生第六十六<lb/>
+　　行鍼第六十七<lb/>
+　　上膈第六十八<lb/>
+　　憂恚無言第六十九<lb/>
+<pb n="KR3e0002_SBCK_000-8a"/>
+　　寒熱第七十<lb/>
+　　邪客第七十一<lb/>
+　　通天第七十二<lb/>
+　卷之十一<lb/>
+　　官能第七十三<lb/>
+　　論疾診尺第七十四<lb/>
+　　剌節眞邪第七十五<lb/>
+　　衛氣行第七十六<lb/>
+<pb n="KR3e0002_SBCK_000-8b"/>
+　　九宮八風第七十七<lb/>
+　卷之十二<lb/>
+　　九鍼論第七十八<lb/>
+　　歳露論第七十九<lb/>
+　　大惑論第八十<lb/>
+　　癰疽第八十一<lb/>
+　元二十四卷今倂爲十二卷計八十一篇<lb/>
+黃帝素問靈樞經目錄<hi>終</hi>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3a0002_SBCK_021-1a"/>
+國子監准熈寍元年九月八日<lb/>
+中書劄子節文校定荀揚書所狀先准<lb/>
+中書劄子奉<lb/>
+聖旨校定荀子揚子内揚子一部先次校<lb/>
+畢巳於治平二年十二月内申納訖今來<lb/>
+再校到荀子一部計二十卷裝寫已了續<lb/>
+次申納者申聞事右奉<lb/>
+聖旨荀子送國子監開版依揚子并音義<lb/>
+<pb n="KR3a0002_SBCK_021-1b"/>
+例印造進　呈及宣賜劄付國子監准此<lb/>
+　　　　　　　　　　　臣盧　侗<lb/>
+　　　　　　　　　　　臣王　汝翼<lb/>
+　　　　　　　　　　　臣顔　復<lb/>
+　　　　　　　　　　　臣焦　千之<lb/>
+　　　　　　　　　　　臣梁　師孟<lb/>
+<pb n="KR3a0002_SBCK_021-2a"/>
+　　　　　　　　　　　臣董　唐臣<lb/>
+　　　　　　　　　　　臣黎　錞<lb/>
+　　　　　　　　　　　臣韓　端彦<lb/>
+　　　　　　　　　　　臣程　伯孫<lb/>
+　　　　　　　　　　　臣畢　之翰<lb/>
+　　　　　　　　　　　臣吕　誨<lb/>
+　　　　　　　　　　　臣錢　公輔<lb/>
+<pb n="KR3a0002_SBCK_021-2b"/>
+</p>
+<p>
+朝散大夫給事中叅知政事上輕車都尉北海郡開國公食邑二千三百<lb/>
+　　　　戸食實封肆伯戸賜紫金魚袋臣唐　介<lb/>
+朝散大夫右諫議大夫叅知政事上護軍天水郡開國<lb/>
+　　　　侯食邑一千戸賜紫金魚袋臣趙　抃<lb/>
+　　　　　　　　　　　臣曽　公亮<lb/>
+<pb n="KR3a0002_SBCK_021-3a"/>
+荀子二十卷三十二篇唐揚倞注初漢劉<lb/>
+向校讎中孫卿書凡三百二十一篇除復<lb/>
+重定箸三十二篇爲孫卿新書十二卷至<lb/>
+倞分易卷第更名荀子<lb/>
+皇朝熈寍初儒官校上<lb/>
+詔國子監刋印頒行之<lb/>
+中興蒐補遺逸監書<graphic n="KR0906" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0906.png" mimeType="image/png"/>具獨荀子猶闕學<lb/>
+者不見舊書傳習閩本文字舛異仲友於三<lb/>
+<pb n="KR3a0002_SBCK_021-3b"/>
+館睹舊文大懼湮没訪得善本假守餘隙<lb/>
+迺以公帑鋟木悉視熈寍之故詩曰雖無<lb/>
+老成人尚有典刑卿不可作其書獨非典<lb/>
+刑乎向博極羣書序卿事大氐本司馬遷<lb/>
+於遷書有三不合春申君死當齊王建二<lb/>
+十八年距宣王八十七年向言卿以宣王<lb/>
+時來㳺學春申君死而卿廢設以宣王末<lb/>
+年㳺齊年巳百三十七矣遷書記孟子以<lb/>
+<pb n="KR3a0002_SBCK_021-4a"/>
+惠王三十五年至梁當齊宣王七年惠王<lb/>
+以叟稱孟子計亦五十餘後二十三年子<lb/>
+之亂燕孟子在齊若卿來以宣王時不得<lb/>
+如向言後孟子百餘歳田忘薦孫臏爲軍<lb/>
+師敗魏桂陵當齊威王二十六年距趙孝<lb/>
+成王七十八年臨武若與卿議兵於王前<lb/>
+向以爲孫臏倞以敗魏馬陵疑年馬陵去<lb/>
+桂陵又十三年矣崇文揔目言卿楚人楚<lb/>
+<pb n="KR3a0002_SBCK_021-4b"/>
+禮爲客卿與遷書向序駮益難信据遷傳<lb/>
+參卿書其大略可睹卿名况趙人以齊襄<lb/>
+王時㳺稷下距孟子至齊五十年矣於列<lb/>
+大夫三爲祭酒去之楚春申君以爲蘭陵<lb/>
+令以䜛去之趙與臨武君議兵入秦見應<lb/>
+侯昭王以聘反乎楚復爲蘭陵令旣廢家<lb/>
+蘭陵以終自戰國爭冨彊儒道絀孟子學<lb/>
+孔子言王可反掌致卒不見用卿後孟子<lb/>
+<pb n="KR3a0002_SBCK_021-5a"/>
+亦尊孔氏子思作中庸孟子述之道性善<lb/>
+至卿以爲人性惡故非子思孟軻揚雄以<lb/>
+爲同門異戸孟子與告子言性卒絀告子<lb/>
+惜卿不見孟子不免異說方說士徼時好<lb/>
+卿獨守儒議兵以仁義冨以儒術彊以道<lb/>
+德之威旨意與孟子同見應侯病秦無儒<lb/>
+昭王謂儒無益人之國極明儒效秦并天<lb/>
+下以力意儒果無用至於坑焚减不旋踵<lb/>
+<pb n="KR3a0002_SBCK_021-5b"/>
+漢奮布衣終假儒以定卿言不用而後驗<lb/>
+自董仲舒韓愈皆美卿書言王道雖不及<lb/>
+孟子抑其流亞廢於衰世亦命矣夫學者<lb/>
+病卿以李斯韓非卿老師學者已衆二子<lb/>
+適見世晝寢餔啜非師之過使卿登孔門<lb/>
+去異意書當與七篇比此君子所爲太息<lb/>
+大宋涥熈八年歳在辛丑十有一月甲申<lb/>
+朝請郎權發遣台州軍州事唐仲友後序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

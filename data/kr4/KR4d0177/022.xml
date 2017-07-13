@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4d0177_WYG_022-1a"/>
+䟦家藏劉病翁遺帖<lb/>
+病翁先生壯嵗棄官端居味道一室蕭然無異禪衲視<lb/>
+世之聲色權利人所競逐者漠然若亡見也熹蚤以童<lb/>
+子獲侍左右先生始亦但以舉子見期而熹竊窺觀見<lb/>
+其自為與所以教人者若不相似暇日僭有請焉先生<lb/>
+欣然嘉其有志始為開示為學門户朝夕誨誘亹亹不<lb/>
+倦其後先生屬疾熹適行役在外亟歸省問先生喜甚<lb/>
+顧而語曰病中無可與語幸吾子之來歸也自是日奉<lb/>
+<pb n="KR4d0177_WYG_022-1b"/>
+湯藥先生所以教詔益詳期許益重至為俱道平生問<lb/>
+學次第傾倒亡餘一日從容因出詩一篇見授先生性<lb/>
+不喜書常時詩文率多口占使諸生執筆獨此與贈劉<lb/>
+致明丈長句皆手書之其意可見也既又發故篋得碎<lb/>
+紙數十皆平日省躬自勵之言稍以先後次為一篇命<lb/>
+熹與同舍生黄銖筆之復取閲視手自更定數十字間<lb/>
+不一日遂啓手足諸子姪乃共發其先所緘封遺書數<lb/>
+副皆熹未歸時所畱處畫庶事遍及遺孤復有片紙屬<lb/>
+<pb n="KR4d0177_WYG_022-2a"/>
+熹為作張公書末有勉力大業之語熹始得拱受而寶<lb/>
+藏之以至於今不敢失墜然而躬行不力老大無成不<lb/>
+能有以仰副當日付授之意抱此衷愧恨毎念将無以<lb/>
+見先生於地下今病已力何所復云始取遺墨聯為一<lb/>
+編而序其本末以示子孫且以示諸同志使於前修景<lb/>
+行之懿知所跂慕而又視熹之慵惰亡聞以為前車之<lb/>
+戒也熹字元晦亦先生所命其祝詞具在以非臨終手<lb/>
+筆别附他巻先生沒以紹興十七年丁卯後五十二年<lb/>
+<pb n="KR4d0177_WYG_022-2b"/>
+慶元己未五月丙申門人朱熹書<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

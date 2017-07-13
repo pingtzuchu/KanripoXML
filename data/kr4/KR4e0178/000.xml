@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>夢澤集</head>
+    <p>
+<pb n="KR4e0178_WYG_000-1a"/>
+欽定四庫全書　　　　　集部六<lb/>
+　夢澤集　　　　　　　　别集類五<hi>明</hi>
+　　提要<lb/>
+　　　　臣等謹案夢澤集二十三巻明王廷陳撰廷<lb/>
+　　　　陳字稚欽黄岡人正徳丁丑進士選庶吉士<lb/>
+　　　　以言事廷杖出知裕州事蹟具明史文苑傳<lb/>
+　　　　其集一刻於淮安再刻於蘇州此夲為其從<lb/>
+　　　　孫追淳知潁州時所校刻乃第三夲也廷陳<lb/>
+<pb n="KR4e0178_WYG_000-1b"/>
+　　　　少年髙第以恃才傲物致放廢終身其噐量<lb/>
+　　　　殊為淺狹至其詩意警語圓軒然出俗則不<lb/>
+　　　　得不稱為一時之秀王世貞藝苑巵言稱其<lb/>
+　　　　如良馬走坂美女舞竿五言尤屬長城又稱<lb/>
+　　　　王稚欽吳明卿之五言律各極妙境専至而<lb/>
+　　　　有餘朱彛尊静志居詩話亦謂其音髙秋竹<lb/>
+　　　　色艶春蘭樂府古詩殊多精詣盖在正嘉之<lb/>
+　　　　間何景明最為俊逸廷陳之天骨雄秀抑亦<lb/>
+<pb n="KR4e0178_WYG_000-2a"/>
+　　　　驂乘矣若雜文則藻采太多華掩其實等諸<lb/>
+　　　　自鄶無譏無庸深論也乾隆四十六年十月<lb/>
+　　　　恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

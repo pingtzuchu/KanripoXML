@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>新法算書卷五十三</head>
+    <p>
+<pb n="KR3f0013_WYG_053-1a"/>
+欽定四庫全書<lb/>
+　新法算書卷五十三　　　明　徐光啟等　撰<lb/>
+　　五緯表卷八<hi>金星下</hi>
+　查金星加減如他星無異距髙低較分或有度分秒<lb/>
+　　即度分皆寫一行内用時核覺之<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3f0013_WYG_053-1b"/>
+金星　初宫　　　十一宫　　一宫　　　　　　十宫<lb/>
+<pb n="KR3f0013_WYG_053-2a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3f0013_WYG_053-2b"/>
+　初宫　　　　　十一宫　　一宫　　　　　　十宫<lb/>
+<pb n="KR3f0013_WYG_053-3a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3f0013_WYG_053-3b"/>
+　初宫　　　　　十一宫　　一宫　　　　　　十宫<lb/>
+<pb n="KR3f0013_WYG_053-4a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3f0013_WYG_053-4b"/>
+　初宫　　　　　十一宫　　一宫　　　　　　十宫<lb/>
+<pb n="KR3f0013_WYG_053-5a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3f0013_WYG_053-5b"/>
+　初宫　　　　　十一宫　　一宫　　　　　　十宫<lb/>
+<pb n="KR3f0013_WYG_053-6a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3f0013_WYG_053-6b"/>
+　初宫　　　　　十一宫　　一宫　　　　　　十宫<lb/>
+<pb n="KR3f0013_WYG_053-7a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3f0013_WYG_053-7b"/>
+　初宫　　　　　十一宫　　一宫　　　　　　十宫<lb/>
+<pb n="KR3f0013_WYG_053-8a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3f0013_WYG_053-8b"/>
+　初宫　　　　　十一宫　　一宫　　　　　　十宫<lb/>
+<pb n="KR3f0013_WYG_053-9a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3f0013_WYG_053-9b"/>
+　初宫　　　　　十一宫　　一宫　　　　　　十宫<lb/>
+<pb n="KR3f0013_WYG_053-10a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3f0013_WYG_053-10b"/>
+　初宫　　　　　十一宫　　一宫　　　　　　十宫<lb/>
+<pb n="KR3f0013_WYG_053-11a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3f0013_WYG_053-11b"/>
+　初宫　　　　　十一宫　　一宫　　　　　　十宫<lb/>
+<pb n="KR3f0013_WYG_053-12a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3f0013_WYG_053-12b"/>
+　初宫　　　　　十一宫　　一宫　　　　　　十宫<lb/>
+<pb n="KR3f0013_WYG_053-13a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3f0013_WYG_053-13b"/>
+　初宫　　　　　十一宫　　一宫　　　　　　十宫<lb/>
+<pb n="KR3f0013_WYG_053-14a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3f0013_WYG_053-14b"/>
+　二宫　　　　　九宫　三宫　　　　　　八宫<lb/>
+<pb n="KR3f0013_WYG_053-15a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3f0013_WYG_053-15b"/>
+　二宫　　　　　　九宫　三宫　　　　　　八宫<lb/>
+<pb n="KR3f0013_WYG_053-16a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3f0013_WYG_053-16b"/>
+　二宫　　　　　　九宫　三宫　　　　　　八宫<lb/>
+<pb n="KR3f0013_WYG_053-17a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3f0013_WYG_053-17b"/>
+　二宫　　　　　　九宫　　三宫　　　　　　八宫<lb/>
+<pb n="KR3f0013_WYG_053-18a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3f0013_WYG_053-18b"/>
+　二宫　　　　　　九宫　三宫　　　　　　八宫<lb/>
+<pb n="KR3f0013_WYG_053-19a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3f0013_WYG_053-19b"/>
+　二宫　　　　　　九宫　　三宫　　　　　　八宫<lb/>
+<pb n="KR3f0013_WYG_053-20a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3f0013_WYG_053-20b"/>
+　二宫　　　　　九宫　三宫　　　　　　八宫<lb/>
+<pb n="KR3f0013_WYG_053-21a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3f0013_WYG_053-21b"/>
+　二宫　　　　　九宫　三宫　　　　　　八宫<lb/>
+<pb n="KR3f0013_WYG_053-22a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3f0013_WYG_053-22b"/>
+　二宫　　　　　　九宫　三宫　　　　　　八宫<lb/>
+<pb n="KR3f0013_WYG_053-23a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3f0013_WYG_053-23b"/>
+　二宫　　　　　　九宫　三宫　　　　　　八宫<lb/>
+<pb n="KR3f0013_WYG_053-24a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3f0013_WYG_053-24b"/>
+　二宫　　　　　　九宫　　三宫　　　　　　八宫<lb/>
+<pb n="KR3f0013_WYG_053-25a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3f0013_WYG_053-25b"/>
+　二宫　　　　　　九宫　三宫　　　　　　八宫<lb/>
+<pb n="KR3f0013_WYG_053-26a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3f0013_WYG_053-26b"/>
+　二宫　　　　　　九宫　三宫　　　　　　八宫<lb/>
+<pb n="KR3f0013_WYG_053-27a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3f0013_WYG_053-27b"/>
+　四宫　　　　　七宫　五宫　　　　　　六宫<lb/>
+<pb n="KR3f0013_WYG_053-28a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3f0013_WYG_053-28b"/>
+　四宫　　　　　　七宫　五宫　　　　　　六宫<lb/>
+<pb n="KR3f0013_WYG_053-29a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3f0013_WYG_053-29b"/>
+　四宫　　　　　　七宫　五宫　　　　　　六宫<lb/>
+<pb n="KR3f0013_WYG_053-30a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3f0013_WYG_053-30b"/>
+　四宫　　　　　　七宫　五宫　　　　　　六宫<lb/>
+<pb n="KR3f0013_WYG_053-31a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3f0013_WYG_053-31b"/>
+　四宫　　　　　　七宫　五宫　　　　　　六宫<lb/>
+<pb n="KR3f0013_WYG_053-32a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3f0013_WYG_053-32b"/>
+　四宫　　　　　七宫　五宫　　　　　　六宫<lb/>
+<pb n="KR3f0013_WYG_053-33a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3f0013_WYG_053-33b"/>
+　四宫　　　　　　七宫　五宫　　　　　　六宫<lb/>
+<pb n="KR3f0013_WYG_053-34a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3f0013_WYG_053-34b"/>
+　四宫　　　　　　七宫　五宫　　　　　　六宫<lb/>
+<pb n="KR3f0013_WYG_053-35a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3f0013_WYG_053-35b"/>
+　四宫　　　　　　七宫　　五宫　　　　　　六宫<lb/>
+<pb n="KR3f0013_WYG_053-36a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3f0013_WYG_053-36b"/>
+　四宫　　　　　　七宫　五宫　　　　　　六宫<lb/>
+<pb n="KR3f0013_WYG_053-37a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3f0013_WYG_053-37b"/>
+　四宫　　　　　　七宫　　五宫　　　　　　六宫<lb/>
+<pb n="KR3f0013_WYG_053-38a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3f0013_WYG_053-38b"/>
+　四宫　　　　　七宫　五宫　　　　　　六宫<lb/>
+<pb n="KR3f0013_WYG_053-39a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3f0013_WYG_053-39b"/>
+　四宫　　　　　　七宫　　五宫　　　　　　六宫<lb/>
+<pb n="KR3f0013_WYG_053-40a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3f0013_WYG_053-40b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　新法算書卷五十三<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

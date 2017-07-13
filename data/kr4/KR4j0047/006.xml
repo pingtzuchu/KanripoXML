@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4j0047_WYG_006-1a"/>
+白石道人歌曲跋<lb/>
+歌曲特文人餘事耳或者少諧音律白石留心學古有<lb/>
+志雅樂如㑹要所載奉常所録未能盡見也聲文之美<lb/>
+槩具此編嘉泰壬戌刻於雲間之東巖其家轉徙自隨<lb/>
+珍藏者五十載淳祐辛亥復歸嘉禾郡齋千嵗令威夫<lb/>
+豈偶然因筆之以識嵗月端午日菊坡趙與訔書<lb/>
+至正十年嵗在庚寅正月望日閲葉君居仲本於錢唐<lb/>
+之用拙幽居既畢因以識其後云天台陶宗儀九成<lb/>
+<pb n="KR4j0047_WYG_006-1b"/>
+此書俾他人抄録故多有悞字今將善本勘讎方可人<lb/>
+意後十一年庚子夏四月也<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

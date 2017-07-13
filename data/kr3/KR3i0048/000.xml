@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>異魚圖贊</head>
+    <p>
+<pb n="KR3i0048_WYG_000-1a"/>
+欽定四庫全書　　　　　　　子部九<lb/>
+　異魚圖贊　　　　　　　　　譜録類三<hi>草木禽魚之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案異魚圖贊四卷明楊慎撰慎所著<lb/>
+　　　　古音畧例諸書已别著録是書前有嘉靖甲<lb/>
+　　　　辰自序稱西州畫史録南朝異物圖將補繪<lb/>
+　　　　之閱其名多蹖錯文不雅馴乃取萬震沈懷<lb/>
+　　　　逺之物志效郭璞張駿之贊體或述其成製<lb/>
+<pb n="KR3i0048_WYG_000-1b"/>
+　　　　或演以新文句中足徴言表即見不必張之<lb/>
+　　　　粉繪□之艷彩凡魚圖三卷共八十七種為<lb/>
+　　　　贊八十六首附以海錯一卷共三十五種為<lb/>
+　　　　贊三十首詞頗古雋雖詮釋名義不過形容<lb/>
+　　　　厓畧而遽云可以代圖未免自詡之過然大<lb/>
+　　　　㫖雅贍固博物者之所宜㕘考也乾隆四十<lb/>
+　　　　六年五月恭校上<lb/>
+　　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+<pb n="KR3i0048_WYG_000-2a"/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+<pb n="KR3i0048_WYG_000-3a"/>
+刻異魚圖讃題辭<lb/>
+昔周公教成王讀爾雅而孔子訓門人學詩亦曰多識<lb/>
+於鳥獸草木之名然則博物洽聞固聖哲所不廢已用<lb/>
+修書破萬卷學擅五車乃以其緒捜剔異聞旁采稗史<lb/>
+譔為異魚圖讃時出新裁襍以古語窮極於蚌貝蜃螺<lb/>
+細極於鯤鮞跳䱓竭江羅海括怪囊竒玉屑霏香雅致<lb/>
+可誦此亦爾雅之註脚矣昔張司空博物而百嵗老狐<lb/>
+千年華表莫逃精鑑懼而夜泣温嶠然犀而水府畢獻<lb/>
+<pb n="KR3i0048_WYG_000-3b"/>
+其狀用修此讃母乃令海藏鮫人散落珠璣江淮水族<lb/>
+朝宗學海耶是書向未<graphic n="KR0866" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0866.png" mimeType="image/png"/>板臨從友人朱汝修氏得鈔<lb/>
+本録之藏為帳中之秘葢千載於兹矣滇雲萬里負笈<lb/>
+為難巾笥偶携聊充枵腹<lb/>
+直指周公見而嘉之曰子思論道始於夫婦知能終於<lb/>
+鳶飛魚躍而荘子知濠上之鯈魚謂性天之相契用修<lb/>
+所著母乃非道機乎君子茂對天地樂育羣生欲使昆<lb/>
+蟲草木並暢鳥獸魚鼈咸若其可以細故忽諸詩紀牧<lb/>
+<pb n="KR3i0048_WYG_000-4a"/>
+人乃□而稽諸大人之占曰衆維魚矣實維豐年魚鱗<lb/>
+族也而□占若此則周宣中興之盛可想見矣是用付<lb/>
+之剞劂以廣<lb/>
+直指公對育之化用徴大人之占刻成於萬歴戊申之<lb/>
+旦月而提學道僉事范允臨謹識嵗月於左<lb/>
+<pb n="KR3i0048_WYG_000-5a"/>
+異魚圖賛引<lb/>
+有西州畫史録南朝異魚圖將補繪之予閲其名多蹐<lb/>
+錯文不雅馴乃取萬震沈懐逺之物志效郭璞張駿之<lb/>
+賛體或述其成製或演以新文其辭質而不文明而不<lb/>
+晦蕳而易盡韵而易諷句中足徴言表即見不必張之<lb/>
+粉繪□之<graphic n="KR2594" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2594.png" mimeType="image/png"/>彩矣異鄉素居枕<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>罕營為之猶賢聊以<lb/>
+永日<lb/>
+　魚圖三卷賛八十六首異魚八十七種附以螺貝蜃<lb/>
+<pb n="KR3i0048_WYG_000-5b"/>
+　蚶海錯為第四卷賛三十首海物三十五種<lb/>
+　總之凡一百二十二種嘉靖甲辰十一月望日升菴<lb/>
+　楊慎書<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

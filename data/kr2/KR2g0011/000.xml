@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>象臺首末</head>
+    <p>
+<pb n="KR2g0011_WYG_000-1a"/>
+欽定四庫全書　　　　史部七<lb/>
+　象臺首末　　　　　　傳記𩔖二<hi>名人之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案象臺首末五巻宋胡知柔編述其<lb/>
+　　　　父夢昱獲譴始末夢昱字季昭號竹林愚隠<lb/>
+　　　　吉水人嘉定丁丑進士官大理評事以論濟<lb/>
+　　　　王事貶死象州寳慶元年追贈員外郎咸淳<lb/>
+　　　　三年追諡剛簡知柔於寳祐四年編其奏疏<lb/>
+<pb n="KR2g0011_WYG_000-1b"/>
+　　　　遺文後又益以諡議及諸家贈答題跋之作<lb/>
+　　　　以成此書而彈文亦具載焉其編次頗無法<lb/>
+　　　　度如第一巻封事及上史彌逺書之下忽攙<lb/>
+　　　　以李知孝梁成大糾彈夢昱二疏及徐瑄救<lb/>
+　　　　夢昱書其下又為夢昱祭弟文一篇其下又<lb/>
+　　　　以追復省劄之𩔖共為一巻第二巻告詞行<lb/>
+　　　　𫐠之下忽攙以夢昱所進劄子四篇其下又<lb/>
+　　　　贅以趙文等所作夢昱水石圖贊五首共為<lb/>
+<pb n="KR2g0011_WYG_000-2a"/>
+　　　　一巻第三巻諸人贈詩十九首之下忽攙入<lb/>
+　　　　夢昱自詠歩王盧溪韻詩二首再寄一首其<lb/>
+　　　　下又載他人詩八首忽又攙入夢昱自詠榕<lb/>
+　　　　隂圖一首其下又載他人詩十八首共為一<lb/>
+　　　　巻第四巻為諸家哀詞祭文題跋而第五卷<lb/>
+　　　　省劄諡議又居其後末附像贊六首又與水<lb/>
+　　　　石圖贊各編而出身印紙題跋亦與封事題<lb/>
+　　　　跋各編均龎雜無緒又其書作於宋理宗時<lb/>
+<pb n="KR2g0011_WYG_000-2b"/>
+　　　　安得載及元明人詩文殆必其後人所竄亂<lb/>
+　　　　非知柔之舊矣徒以夢昱氣節足重故流𫝊<lb/>
+　　　　至今而宋史夢昱無傳所載亦不免闕漏今<lb/>
+　　　　特著之録以示表章之義焉乾隆四十四年<lb/>
+　　　　正月恭校上<lb/>
+　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

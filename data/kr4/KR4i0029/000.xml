@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>漁隠叢話</head>
+    <p>
+<pb n="KR4i0029_WYG_000-1a"/>
+欽定四庫全書　　　　　集部九<lb/>
+　漁隠叢話　　　　　　　詩文評類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案漁隠叢話前集六十巻後集四十<lb/>
+　　　　巻宋胡仔撰仔字元任績溪人舜陟之子以<lb/>
+　　　　蔭授迪功郎兩浙轉運司幹辦公事官至奉<lb/>
+　　　　議郎知常州晉陵縣後卜居湖州自號苕溪<lb/>
+　　　　漁隠其書繼阮閲詩話總龜而作前有自序<lb/>
+<pb n="KR4i0029_WYG_000-1b"/>
+　　　　稱閲所載者皆不録二書相輔而行北宋以<lb/>
+　　　　前之詩話大抵畧備矣然閲書多録雜事頗<lb/>
+　　　　近小説此則論文考義者居多去取較為謹<lb/>
+　　　　嚴閲書分類編輯多立門目此則惟以作者<lb/>
+　　　　時代為先後能成家者列其名瑣聞軼句則<lb/>
+　　　　或附録之或類聚之體例亦較為明晣閲書<lb/>
+　　　　惟采摭舊文無所考正此則多附辨證之語<lb/>
+　　　　尤足以資㕘訂故閲書不甚見重于世而此<lb/>
+<pb n="KR4i0029_WYG_000-2a"/>
+　　　　書則諸家援据多所取資焉新安文獻志引<lb/>
+　　　　方回漁隠叢話考曰元任寓居霅上謂阮閲<lb/>
+　　　　閎休詩總成于宣和癸卯遺落元祐諸公乃<lb/>
+　　　　增纂集自國風漢魏六朝以至南渡之初最<lb/>
+　　　　大家數特出其名餘入雜紀以年代為後先<lb/>
+　　　　回幼好之學詩寔自此始元任以閎休分門<lb/>
+　　　　為未然有湯巖起者閎休鄉人著詩海遺珠<lb/>
+　　　　又以元任為不然回聞之吾州羅任臣毅卿<lb/>
+<pb n="KR4i0029_WYG_000-2b"/>
+　　　　所病者元任紀其自作之詩不甚佳耳其以<lb/>
+　　　　厯代詩人為先後於諸家詩話有去有取間<lb/>
+　　　　斷以已意視皇朝類苑中槩而並書者豈不<lb/>
+　　　　為優云云雖鄉曲之言要亦不失公論也乾<lb/>
+　　　　隆四十四年十月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="KR4i0029_WYG_000-3a"/>
+漁隱叢話前集原序<lb/>
+紹興丙辰余侍親赴官嶺右道過湘中聞舒城阮閲昔<lb/>
+為郴江守嘗編詩總頗為詳備行役匆匆不暇從知識<lb/>
+間借觀後十三年余居苕水友生洪慶逺從宗子彦章<lb/>
+獲傳此集余取讀之葢阮因古今詩話附以諸家小説<lb/>
+分門増廣獨元祐以來諸公詩話不載焉考編此詩總<lb/>
+乃宣和癸卯是時元祐文章禁而弗用故阮因以畧之<lb/>
+余今遂取元祐以來諸公詩話及史傳小説所載事實<lb/>
+<pb n="KR4i0029_WYG_000-3b"/>
+可以發明詩句及増益見聞者纂為一集凡詩總所有<lb/>
+此不復纂集庶免重複一詩而二三其説者則類次為<lb/>
+一間為折衷之又因以余舊所聞見為説以附益之或<lb/>
+者謂余不能分明纂集如阮之詩總是未知詩之㫖矣<lb/>
+昔有詩客嘗以神聖工巧四品分類古今詩句為説以<lb/>
+獻半山老人得之未及觀遽問客曰如老杜勲業頻看<lb/>
+鏡行藏獨倚樓之句當入何品客無以對遂以其説還<lb/>
+之曰嘗鼎一臠他可知矣則知詩之不可分門纂集葢<lb/>
+<pb n="KR4i0029_WYG_000-4a"/>
+出此意也余今但以年代人物之先後次第纂集則古<lb/>
+今詩話不待撿尋巳粲然畢陳于前顧不佳哉今老矣<lb/>
+日以廢亡此集之作聊自備觀覽而巳匪敢傳之當世<lb/>
+君子故不愧戊辰春三月上已苕溪漁隱胡仔元任序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

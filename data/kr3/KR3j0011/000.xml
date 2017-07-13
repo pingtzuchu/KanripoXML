@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3j0011_SBCK_000-1a"/>
+序人物志後<lb/>
+余嘗三復人物志而竊有感焉夫人徳性<lb/>
+資之繼成𥘉未始有異也而終之相去懸<lb/>
+絶者醇駁較於材隆汚判諸習曰三品曰<lb/>
+五儀胥是焉而賢不肖殊途矣是以知人<lb/>
+之哲古人難之言貌而取人者聖人弗是<lb/>
+也茲劉邵氏之有以志人物也乎修巳者<lb/>
+得之以自觀用人者持之以照物烏可廢<lb/>
+<pb n="KR3j0011_SBCK_000-1b"/>
+諸然用舎之際人材之趋向由之可弗慎<lb/>
+乎精於擇而庸適其能篤於任而弗貳以<lb/>
+私則真材獲用大猷允升矣其或偏聽昡<lb/>
+志而用不以道動曰才難吾恐蕭艾弗擇<lb/>
+魚目混珍也左馮翊王三省識<lb/>
+<pb n="KR3j0011_SBCK_000-2a"/>
+　人物志目録<lb/>
+　　上卷<lb/>
+　　　　　九徴一　體别二<lb/>
+　　　　　流業三　材理四<lb/>
+　　中卷<lb/>
+　　　　　材能五　利害六<lb/>
+　　　　　接識七　英雄八<lb/>
+　　　　　八觀九<lb/>
+<pb n="KR3j0011_SBCK_000-2b"/>
+　　下卷<lb/>
+　　　　七繆十　效難十一<lb/>
+　　　　釋爭十二<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

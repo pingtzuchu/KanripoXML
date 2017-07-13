@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2a0028_SBCK_017-1a"/>
+新唐書糾謬卷第十七<lb/>
+　　　　　　　　　　　宋咸林吳縝纂<lb/>
+　十七曰編次未當<lb/>
+　　蕭瑀傳書太子師保等事<lb/>
+　　太子三太三少次序<lb/>
+　　孟詵無隱槩而入隱逸傳<lb/>
+　　李栖筠傳方清事<lb/>
+　　僕固懷恩馬存亮贊失所附<lb/>
+　　　蕭瑀傳書太子師保等事<lb/>
+<pb n="KR2a0028_SBCK_017-1b"/>
+蕭瑀傳云晉王爲皇太子拜太子太保同中書<lb/>
+門下三品帝曰三師以德導太子者也禮不尊<lb/>
+則無所取法乃詔師入謁太子出門迎拜<lb/>
+　今案晉王之爲皇太子也太宗以司徒長孫<lb/>
+　無忌爲太子太師同中書門下三品<hi>同三品自此始</hi>
+<hi>此見於長孫無忌傳</hi>以司空房喬爲太子太傅知門下<lb/>
+　省事<hi>此見於房喬傳</hi>而瑀自特進爲太子太保李勣<lb/>
+　自兵部尚書爲特進太子詹事並同中書門<lb/>
+　下三品<hi>此見於李勣傳</hi>此乃一時之所謂妙選者今<lb/>
+<pb n="KR2a0028_SBCK_017-2a"/>
+　史欲著其事宜於無忌傳僃書所命師傅保<lb/>
+　詹事等姓名及所除之職次載帝所言尊敬<lb/>
+　師傅之意至於喬瑀勣傳則略陳其事仍指<lb/>
+　諸傳以相援證庻後世僃見一時之事此亦<lb/>
+　央體當然者也今則太師傳内旣不具載始<lb/>
+　末而太傅詹事傳内但各述拜官至太保傳<lb/>
+　内始書其事又不云同時拜師傅詹事者何<lb/>
+　人使覽者不能推見更有師傅詹事此亦記<lb/>
+　述之未允者也<lb/>
+<pb n="KR2a0028_SBCK_017-2b"/>
+　　　太子三太三少次序<lb/>
+食貨志唐世百官俸錢會昌後不復增今著其<lb/>
+數太師太傅太保錢二百萬太尉司徒司空一<lb/>
+百六十萬太子太師太保太傅一百四十萬太<lb/>
+子少師少保少傅百萬<lb/>
+　今案百官志云太師太傅太保各一人是爲<lb/>
+　三師太尉司徒司空各一人是爲三公又東<lb/>
+　宫官太子太師太傅太保各一人從一品少<lb/>
+　師少保少傅各一人從二品其次序皆如此<lb/>
+<pb n="KR2a0028_SBCK_017-3a"/>
+　獨食貨志太子太傅少傅反居太保少保之<lb/>
+　下何也<lb/>
+　　　孟詵無隱槩而入隱逸傳<lb/>
+　今案孟詵本方術養生之士也舊書止列于<lb/>
+　藝術傳且未嘗有隱槩今書乃入隱逸傳莫<lb/>
+　諭其說<lb/>
+　　　李栖筠傳方清事<lb/>
+李栖筠傳云出爲常州刺史蘇州豪士方清因<lb/>
+歲凶誘流殍爲盗積數萬依黟歙間阻山房東<lb/>
+<pb n="KR2a0028_SBCK_017-3b"/>
+南厭苦詔李光弼分兵討平之<lb/>
+　今案方清阻亂事本紀及李光弼傳皆不載<lb/>
+　惟栖筠傳有之及劉晏李芃傳略見姓名然<lb/>
+　栖筠方是時止爲常州刺史且無討伐之職<lb/>
+　而方清自是蘇州士豪依阻黟歙詔自委李<lb/>
+　光弼討平與栖筠無所干預何爲乃見於栖<lb/>
+　筠傳乎此當載之光弼傳也<lb/>
+　　　僕固懷恩馬存亮賛失所附<lb/>
+僕固懷恩賛而列于陳少㳺傳後馬存亮賛而<lb/>
+<pb n="KR2a0028_SBCK_017-4a"/>
+列于仇士良楊復光之後<lb/>
+<pb n="KR2a0028_SBCK_017-4b"/>
+</p>
+<p>
+　　　　　　　　　　　　海虞趙開美校刋<lb/>
+新唐書糾謬卷第十七<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

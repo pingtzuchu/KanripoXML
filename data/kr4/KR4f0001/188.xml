@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4f0001_WYG_188-1a"/>
+　欽定四庫全書<lb/>
+聖祖仁皇帝御製文第二集巻四十九目録<lb/>
+　　古今體詩四十一首<lb/>
+　　　　興京<lb/>
+　　　　駐蹕奉天府<lb/>
+　　　　渡遼河<lb/>
+　　　　所過松山杏山大凌河皆<lb/>
+　聖祖用武之地有述<lb/>
+<pb n="KR4f0001_WYG_188-1b"/>
+　　　　入山海闗<lb/>
+　　　　廣寧道中<lb/>
+　　　　永平駐蹕<lb/>
+　　　　豐潤即事<lb/>
+　　　　望海<lb/>
+　　　　歊蒸暑氣賦得漠漠水田飛白鷺<lb/>
+　　　　賜髙士奇<lb/>
+　　　　示諸皇子<lb/>
+<pb n="KR4f0001_WYG_188-2a"/>
+　　　賦得雨去花光濕風歸葉影疎<lb/>
+　　　出畿東觀秋成<lb/>
+　　　萬樹叢中月一輪<lb/>
+　　　詠林檎<lb/>
+　　　用皇三子秋日郊行應制詩韻<lb/>
+　　　八哥兒<lb/>
+　　　潞河發舟<lb/>
+　　　天津<lb/>
+<pb n="KR4f0001_WYG_188-2b"/>
+　　　徳州<lb/>
+　　　東昌道中<lb/>
+　　　舟過濟寧<lb/>
+　　　入江南境<lb/>
+　　　經邳徐界上<lb/>
+　　　雨<lb/>
+　　　閱河<lb/>
+　　　渡揚子江<lb/>
+<pb n="KR4f0001_WYG_188-3a"/>
+　　　金山寺月夜<lb/>
+　　　巡厯江南示意<lb/>
+　　　虎丘<lb/>
+　　　閱河之便奉<lb/>
+皇太后臨幸武林是日喜晴<lb/>
+　　　雲栖寺<lb/>
+　　　西湖<lb/>
+　　　湖心亭閒覽<lb/>
+<pb n="KR4f0001_WYG_188-3b"/>
+　　　宋臣蘇軾開湖溉田築隄瀦水杭民利之為政<lb/>
+　　　　者不當如是乎<lb/>
+　　　鷲峰<lb/>
+　　　雲林寺<lb/>
+　　　菜畦<lb/>
+　　　行宮雨中望吴山<lb/>
+　　　閱浙江駐防将士射<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

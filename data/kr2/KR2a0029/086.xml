@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2a0029_WYG_086-1a"/>
+　舊五代史巻四十二攷證<lb/>
+唐明宗紀八壬申契丹東丹托雲自渤國國率衆到闕<lb/>
+　　案托雲歸唐五代春秋作二年正月蓋以到闕之<lb/>
+　日為據歐陽史作四年十一月丙戌盖以奏聞之日<lb/>
+　為據<lb/>
+以沙州節度使曹義金兼中書令　沙州原本作汝州<lb/>
+　今據通鑑改正<lb/>
+甲寅以遂州節度使夏魯竒没于王事廢朝　案通鑑<lb/>
+<pb n="KR2a0029_WYG_086-1b"/>
+　庚月庚午李仁罕䧟遂州夏魯竒自殺毆陽史作四<lb/>
+　月甲寅董璋䧟遂州武信軍節度使夏魯竒死之蓋<lb/>
+　歐陽史以奏聞之日為䧟城之月也<lb/>
+見禁囚徒除死罪外並放　案歐陽史作乙卯以旱赦<lb/>
+　流罪以下囚與是書作壬子異<lb/>
+詔安重誨宜削奪在身官爵並妻阿張男崇贊崇緒等<lb/>
+　並賜死　案重誨見殺是書作閏月已亥歐陽史作<lb/>
+　閏五月丁酉五代春秋作五月<lb/>
+<pb n="KR2a0029_WYG_086-2a"/>
+以前黔州節度使楊漢賔為羽林統軍　漢賔原本作<lb/>
+　漢章考上文有雲州節度使楊漢章不應黔州節度<lb/>
+　使與之同名今據通鑑改正<lb/>
+辛亥詔五坊見在鷹準之類並可就山林解放　辛亥<lb/>
+　歐陽史作丁亥通鑑從是書<lb/>
+托雲舊作突欲今改　哩衮舊作惕隱今正　托古舊<lb/>
+　則骨今改　錫里扎拉舊作舍利則剌今改　勒古<lb/>
+　舊作棫骨今改　格斯齊舊作竭失訖今改<lb/>
+<pb n="KR2a0029_WYG_086-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　舊五代史巻四十二攷證<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

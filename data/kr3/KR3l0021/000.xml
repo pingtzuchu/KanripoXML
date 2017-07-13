@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>鑑戒錄</head>
+    <p>
+<pb n="KR3l0021_WYG_000-1a"/>
+欽定四庫全書　　　　　子部十二<lb/>
+　鑑戒錄　　　　　　　　小説家𩔖一<hi>雜事之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案鑑戒錄十巻蜀何光逺撰光逺字<lb/>
+　　　　輝夫東海人孟昶廣政初官普川軍事判官<lb/>
+　　　　其書多記唐及五代間事而蜀事為多皆近<lb/>
+　　　　俳諧之言各以三字標題凡六十六則趙希<lb/>
+　　　　弁讀書後志以為輯唐以來君臣事迹可為<lb/>
+<pb n="KR3l0021_WYG_000-1b"/>
+　　　　世鑑者似未覩其書因其名而臆説也舊本<lb/>
+　　　　前有劉曦度序亦見希弁志宋史藝文志遂<lb/>
+　　　　以劉曦度鑑戒錄三巻何光逺鑑戒錄三巻<lb/>
+　　　　分為二書益舛誤矣書中間有夾注如判木<lb/>
+　　　　夾一條云此答本夾書元是胡曾與路巖相<lb/>
+　　　　公鎮蜀日修之非為髙駢相公也何光逺悞<lb/>
+　　　　述危亂黜一條云據禪月詩集中此詩自哭<lb/>
+　　　　涪州張侍郎非張拾遺何光逺錯舉證也四<lb/>
+<pb n="KR3l0021_WYG_000-2a"/>
+　　　　公㑹一條云此篇元在本事詩中叙説甚詳<lb/>
+　　　　何光逺重取論説又加改易非也皆駁正光<lb/>
+　　　　逺之説不知出自何人此本析為十巻有朱<lb/>
+　　　　彛尊䟦稱從項于汴家宋本影寫則猶宋人<lb/>
+　　　　所分也今觀所記如徐后事一條所載王承<lb/>
+　　　　㫖詩後山詩話以為花蕊夫人作蜀門諷一<lb/>
+　　　　條所載向瓉嘲蔣鍊師詩南唐近事以為廬<lb/>
+　　　　山道士其語大同小異猶可曰𫝊聞異詞鑑<lb/>
+<pb n="KR3l0021_WYG_000-2b"/>
+　　　　寃辱一條全剽襲殷芸小説東方朔辨怪哉<lb/>
+　　　　蟲事<hi>案小説已佚此條見太平廣記四百七十三</hi>已為附㑹鬼傳<lb/>
+　　　　書一條不知水經注有梁孝直事更屬粗疏<lb/>
+　　　　至逸士諌一條稱昭宗何后荒于從禽考新<lb/>
+　　　　唐書后妃列𫝊昭宗奔播岐梁后侍膳服無<lb/>
+　　　　須臾去舊唐書亦云后於蒙塵薄狩之中嘗<lb/>
+　　　　膳禦侮不離左右安得有畋遊之事且昭宗<lb/>
+　　　　寄命強藩不能自保又安能縱后畋遊恒至<lb/>
+<pb n="KR3l0021_WYG_000-3a"/>
+　　　　六十里外殊為誣誕灌鐵汁一條稱秦宗權<lb/>
+　　　　本不欲叛乃太山神追其魂以酷刑逼之倡<lb/>
+　　　　亂是為盜賊藉口尤不可以訓特以其為五<lb/>
+　　　　代舊書所載軼事遺文往往可資采掇故仍<lb/>
+　　　　錄之小説家焉乾隆四十六年十二月恭校<lb/>
+　　　　上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

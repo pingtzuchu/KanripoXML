@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>蘇魏公文集</head>
+    <p>
+<pb n="KR4d0035_WYG_000-1a"/>
+欽定四庫全書　　　　　集部三<lb/>
+　蘇魏公文集　　　　　　别集類二<hi>宋</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案蘇魏公文集七十二巻宋蘇頌撰<lb/>
+　　　　頌字子容南安人徙居丹陽慶歴二年進士<lb/>
+　　　　官至右僕射同中書門下平章事罷為集禧<lb/>
+　　　　觀使徽宗立進太子太保累爵趙郡公卒贈<lb/>
+　　　　司空魏國公事蹟具宋史本傳集為其子携<lb/>
+<pb n="KR4d0035_WYG_000-1b"/>
+　　　　所編宋史藝文志陳振孫書錄解題皆作七十<lb/>
+　　　　二巻今本與之相合蓋猶原帙惟藝文志尚<lb/>
+　　　　載有外集一卷而今本無之則其書已佚也<lb/>
+　　　　史稱頌天性仁厚宇量恢廓在哲宗時稱為<lb/>
+　　　　賢相平生嗜學自書契以來經史九流百家<lb/>
+　　　　之説至於圖緯隂陽五行律吕星官山經本<lb/>
+　　　　草無所不通葉夢得石林燕語亦載頌為試<lb/>
+　　　　官因神宗問暨陶之姓頌引三國志證其當<lb/>
+<pb n="KR4d0035_WYG_000-2a"/>
+　　　　從入聲不當從洎音神宗甚喜是其學本博<lb/>
+　　　　洽故發之于文亦多清麗雄贍卓然可為典<lb/>
+　　　　則石林燕語又稱神宗用呂公著為中丞召<lb/>
+　　　　頌使就曽公亮第中草制又稱頌為晏殊諡<lb/>
+　　　　議以其能薦范仲淹富弼比之胡廣謝安又<lb/>
+　　　　稱頌過省時以歴者天地之大紀賦為本塲<lb/>
+　　　　魁既登第遂留意天文術數之學陸游老學<lb/>
+　　　　菴筆記又引頌起草才多封巻速把麻人衆<lb/>
+<pb n="KR4d0035_WYG_000-2b"/>
+　　　　引聲長之句以證當時宣麻之制徐度卻掃<lb/>
+　　　　編又稱頌奉使契丹文彦博留守北京與之<lb/>
+　　　　宴問魏收逋峭難為之語何謂頌言梁上小<lb/>
+　　　　柱名取曲折之義因即席作詩以獻今檢是<lb/>
+　　　　集凡諸家所舉各篇悉在其中足知完本尚<lb/>
+　　　　存無所闕佚而頌文翰之羙單詞隻句膾炙<lb/>
+　　　　人口即此亦可見其槩矣乾隆四十六年六<lb/>
+　　　　月恭校上<lb/>
+<pb n="KR4d0035_WYG_000-3a"/>
+　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

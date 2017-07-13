@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_361-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選巻三百六十二<lb/>
+　　金沙花類<lb/>
+　　　五言絶句<lb/>
+　　　　池上荼䕷架金沙花盛開　　<hi>宋</hi>王安石<lb/>
+　故作荼䕷架金沙祗漫栽似矜顔色好飛度雪前開<lb/>
+　　　　次王荆公韻　　　　　　　<hi>宋</hi>蘇　軾<lb/>
+　甲第非眞有閒花亦偶栽聊為清淨供却對道人開<lb/>
+<pb n="KR4h0141_WYG_361-1b"/>
+　　　七言絶句<lb/>
+　　　　金沙花　　　　　　　　　<hi>宋</hi>王安石<lb/>
+　海棠開後數金沙髙架層層吐絳葩咫尺西城無力到<lb/>
+　不知誰賞魏家花<lb/>
+　　　　其二<lb/>
+　荼䕷一架最先來夾竹金沙次第栽濃緑扶疎雲對起<lb/>
+　醉紅撩亂雪先開<lb/>
+　　　　次荆公韻　　　　　　　　<hi>宋</hi>蘇　軾<lb/>
+<pb n="KR4h0141_WYG_361-2a"/>
+　青李扶疎禽自來清眞逸少手親栽深紅淺紫從爭發<lb/>
+　雪白鵞黄也鬭開<lb/>
+　　　　其二<lb/>
+　斫竹穿籬破綠苔小詩端為覓榿栽細看造物初無物<lb/>
+　春到江南花自開<lb/>
+　　　　聞西省賞荼䕷芍藥戲成小詩簡泰之侍講舍<lb/>
+　　　　　人年兄并以丁香橄欖百枚助筵却求殘花<lb/>
+　　　　　數枝　　　　　　　　　<hi>宋</hi>周必大<lb/>
+<pb n="KR4h0141_WYG_361-2b"/>
+　滿架冰肌含碧雲翻階翠袖映紅裠玉堂只有金沙在<lb/>
+　伴直明朝又屬君<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選巻三百六十二<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

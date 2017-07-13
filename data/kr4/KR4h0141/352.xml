@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_352-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選巻三百五十二<lb/>
+　　瓊花類<hi>附瑶花</hi>　<hi>琪花</hi>
+　　　長短句<lb/>
+　　　　賦得瓊花觀送人　　　　　<hi>眀</hi>劉　溥<lb/>
+　瓊花觀在江都雲忩月館仙人居無雙亭前一方地昔<lb/>
+　日瓊花今已無玉女香車遊碧落回首人間塵漠漠重<lb/>
+　欄空䕶八仙花飛佩誰乗九臯鶴古城楊栁接東橋十<lb/>
+<pb n="KR4h0141_WYG_352-1b"/>
+　里紅樓路不遥行舟過此一停泊琪樹隂中聽紫簫<lb/>
+　　　七言律<lb/>
+　　　　約黄成之觀瓊花予不及從以詩代簡<lb/>
+　　　　　　　　　　　　　　　　<hi>宋</hi>方　岳<lb/>
+　杜宇聲中鬢欲華春風將緑又天涯欠隨江夏無雙士<lb/>
+　共㸔揚州第一花想像煙雲人跨鶴淋漓詩句字栖鴉<lb/>
+　蹇驢不管唐衫濕醉兀歸鞍暮雨斜<lb/>
+　　　五言絶句<lb/>
+<pb n="KR4h0141_WYG_352-2a"/>
+　　　揚州廣城店　　　　　　　<hi>眀</hi>張以寧<lb/>
+潮落䢴江夜先將夢到家揚州無賴月獨自照瓊花<lb/>
+　　七言絶句<lb/>
+　　　小遊仙　　　　　　　　　<hi>唐</hi>曹　唐<lb/>
+雲隴瓊花滿地香碧沙紅水遍朱堂外人欲壓長生籍<lb/>
+拜請飛瓊報玉皇<lb/>
+　　　后土廟瓊花詩　　　　　　<hi>宋</hi>王禹偁<lb/>
+春氷薄薄壓枝柯分與清香是月娥忽似暑天深澗底<lb/>
+<pb n="KR4h0141_WYG_352-2b"/>
+老松擎雪白娑婆<lb/>
+　　　揚州后土祠瓊花　　　　　<hi>元</hi>尹廷髙<lb/>
+無雙亭下萬人㸔欲覓殘英一片難夜静月眀猿鶴唳<lb/>
+誤翻玉雪墮闌干<lb/>
+　　　續遊仙詩　　　　　　　　<hi>眀</hi>馬　洪<lb/>
+侍兒扶上紫鸞車一笑相逢蕚緑華今夜蕪城好眀月<lb/>
+無雙亭上㸔瓊花<lb/>
+　　附瑶花<lb/>
+<pb n="KR4h0141_WYG_352-3a"/>
+　　七言古<lb/>
+　　　瑶花<hi>花白色而變殘紅而碧</hi>　　　　　<hi>元</hi>郭　鈺<lb/>
+瑶䑓仙子初相見迥立天風飄雪練東華夢破歸去遲<lb/>
+素衣總被緇塵染芳心不委春蝶狂水瞐簾捲凝清香<lb/>
+臙脂洗紅留殘暈海雲翦碧浮霓裳揚州瓊花舊同譜<lb/>
+零落誰知到南土聞君愛花最有情亭䑓五月清無暑<lb/>
+君不見花開今日多有酒不飲君如何<lb/>
+　　附琪花<lb/>
+<pb n="KR4h0141_WYG_352-3b"/>
+　　五言古<lb/>
+　　　琪樹下因吟六韻呈先達者　<hi>唐</hi>劉　駕<lb/>
+舉世愛嘉樹此樹何人識清秋逺山意偶向亭際得竒<lb/>
+柯交若鬪生葉宻如織塵中尚青葱更想塵外色所宜<lb/>
+巢三鳥影入瑶池碧移根豈無時一問紫煙客<lb/>
+　　五言絶句<lb/>
+　　　初移琪樹　　　　　　　　<hi>唐</hi>羊士諤<lb/>
+愛此丘中物煙霜盡日㸔無窮碧雲意更助緑窗寒<lb/>
+<pb n="KR4h0141_WYG_352-4a"/>
+　　　　石橋琪樹　　　　　　　　<hi>唐</hi>僧隱丘<lb/>
+　山上天將近人間路漸遥誰當雲裏見知欲度仙橋<lb/>
+　　　七言絶句<lb/>
+　　　　歩虛詞　　　　　　　　　<hi>唐</hi>陳　羽<lb/>
+　樓殿層層阿母家崑崙山頂駐紅霞笙歌出見穆天子<lb/>
+　相引笑㸔琪樹花<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR4h0141_WYG_352-4b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選巻三百五十二<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

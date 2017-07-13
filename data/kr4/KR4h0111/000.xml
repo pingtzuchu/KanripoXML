@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>唐宋元名表</head>
+    <p>
+<pb n="KR4h0111_WYG_000-1a"/>
+欽定四庫全書　　　　　　集部八<lb/>
+　唐宋元名表　　　　　　　總集類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案唐宋元名表二巻明胡松編松有<lb/>
+　　　　滁州志已著録明史松本傳稱松㓜嗜學嘗<lb/>
+　　　　輯古名臣章奏今未見其本是編乃松督學<lb/>
+　　　　山西時選為士子程式之書雖所録皆各集<lb/>
+　　　　所有無竒祕未睹之篇而去取極為不茍前有<lb/>
+<pb n="KR4h0111_WYG_000-1b"/>
+　　　　自序曰是學也昉於漢魏六朝盛於隋唐而<lb/>
+　　　　極於宋其體不能盡同然其意同于宣上徳<lb/>
+　　　　而達下情明已志而述物則其後相沿猥下<lb/>
+　　　　競趨新巧爭尚衍博往往貪用事而晦其意<lb/>
+　　　　務屬詞而滅其質盖四六之本意失之逺矣<lb/>
+　　　　其言頗為明切自明代二塲用表而表遂夷<lb/>
+　　　　為時文久而偽體雜出或㕘以長聨如王世<lb/>
+　　　　貞所作一聨多至十餘句如四書文之二小<lb/>
+<pb n="KR4h0111_WYG_000-2a"/>
+　　　　比或㕘以五七詩句以為源出徐庾及王駱<lb/>
+　　　　不知徐庾王駱用之于賦賦為古詩之流其<lb/>
+　　　　體相近若以詩入文豈復成格至於全用成<lb/>
+　　　　句毎生硬而杈椏間雜俗語多鄙俚而率易<lb/>
+　　　　冠冕堂皇之調剽襲者陳膚餖飣割裂之詞<lb/>
+　　　　小才者纎巧其弊尤不勝言松選此編挽頺<lb/>
+　　　　波而歸之雅亦可謂有功於駢體者矣乾隆<lb/>
+　　　　四十六年十二月恭校上<lb/>
+<pb n="KR4h0111_WYG_000-2b"/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陵錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+<pb n="KR4h0111_WYG_000-3a"/>
+唐宋元名表原序<lb/>
+説者曰表之言明也標也譬物之標表言標表事序要<lb/>
+於章顯而巳奚駢儷之上也余竊以其言徒取一隅要<lb/>
+未為通論今夫人之於文猶其之於言語之於衣服飲<lb/>
+食與其宫室噐用者也且夫言語之於達意衣服之於<lb/>
+蔽體飲食之於滿腹宫室之於安身噐物之於利用以<lb/>
+今方古其可得而齊諸譬則四時之行萬物之生江河<lb/>
+之流轉各因其時以為變故易曰損益盈虚與時偕行<lb/>
+<pb n="KR4h0111_WYG_000-3b"/>
+自天地且不能違時而况於人乎故善學者從今之文<lb/>
+以明古之道不善學者執古之跡以失今之宜斯其行<lb/>
+之所以弗逺而施之則泥者也是學也昉於漢魏六朝<lb/>
+盛於隋唐而極於宋彼其工拙繁簡駢儷直致要之其<lb/>
+體不能盡同然其意同於宣上徳而達下情明己志而<lb/>
+述物則其後相沿猥下競趨新巧爭上衍博往往貪用<lb/>
+事而晦其意務屬辭而滅其質蓋四六之本意失之逺<lb/>
+矣今世士業文益又轉甚曾不深惟體裁之所從始勉<lb/>
+<pb n="KR4h0111_WYG_000-4a"/>
+思搆撰而乃掇拾補綴勦竊沿襲是曾弗若直致之為<lb/>
+章明較著也余是用悲乃輯斯以式晉士要使學者敦<lb/>
+尚本實優㳺道藝期可愛而傳爾或者弗察以為斯特<lb/>
+文詞之華而巳是非士所先過矣夫召賔客者必善其<lb/>
+辭命告氓黎者必悉其志慮矧乎以詔君上以交鬼神<lb/>
+以諭邦國以動天地而可弗脩其辭乎傳曰脩辭立其<lb/>
+誠所以居業也故夫以唐宋之體裁陳虞夏之謨典用<lb/>
+休文之聲律冩孔明之忠義神而明之存乎其人此則<lb/>
+<pb n="KR4h0111_WYG_000-4b"/>
+不穀之所深望抑亦吾黨所當自朂者哉時嘉靖壬寅<lb/>
+夏五月望日前山西按察司提學副使滁陽胡松識<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

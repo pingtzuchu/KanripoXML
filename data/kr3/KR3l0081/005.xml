@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3l0081_WYG_005-1a"/>
+山居新話後序<lb/>
+國家承平日乆制度文物禮樂之盛無不著在大典布<lb/>
+之成書其底治於我朝實比隆於三代予歸老山中習<lb/>
+閱舊卷或友朋清談舉凢事有古今相符者上至天音<lb/>
+之密勿次及名臣之事蹟與夫師友之言行隂陽之變<lb/>
+異凢有益於世道資於談柄者不論目之所擊耳之所<lb/>
+聞悉皆引據而書之積嵗月而成帙名之曰山居新話<lb/>
+其不敢飾於文者將欲使後之覧者便於通曉抑且為<lb/>
+<pb n="KR3l0081_WYG_005-1b"/>
+他日有補於信史之一助云爾爰是為序至正三月庚<lb/>
+子既朢中奉大夫浙東道宣慰使都元帥楊瑀識<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

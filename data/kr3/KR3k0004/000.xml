@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>北堂書鈔</head>
+    <p>
+<pb n="KR3k0004_WYG_000-1a"/>
+欽定四庫全書　　　　　子部十一<lb/>
+　北堂書鈔　　　　　　　類書類<lb/>
+　　提要<lb/>
+　　　　臣等謹案北堂書鈔一百六十卷唐虞世南<lb/>
+　　　　撰世南字伯施餘姚人官至銀青光禄大夫<lb/>
+　　　　宏文館學士諡文懿事蹟具唐書本傳北堂<lb/>
+　　　　者秘書省之後堂此書葢世南在隋為秘書<lb/>
+　　　　郎時所作也分八十部凡八百一類唐志作<lb/>
+<pb n="KR3k0004_WYG_000-1b"/>
+　　　　一百七十三卷晁公武讀書志因之中興書<lb/>
+　　　　目作一百六十卷宋史藝文志因之今本卷<lb/>
+　　　　帙與中興書目同其地部至泥沙石而畢度<lb/>
+　　　　非完帙豈原書在宋已有亡佚耶王應麟云<lb/>
+　　　　二館舊闕書鈔惟趙安仁家有本真宗命内<lb/>
+　　　　侍取之手詔襃美葢前代甚珍其書矣是編<lb/>
+　　　　為明萬厯間常熟陳禹謨所校刻錢曾讀書<lb/>
+　　　　敏求記云世行北堂書鈔攙亂增改無從訂<lb/>
+<pb n="KR3k0004_WYG_000-2a"/>
+　　　　正向聞嘉禾收藏家有原書尋訪十餘年而<lb/>
+　　　　始得繙閲之令人心目朗然朱彞尊亦稱曾<lb/>
+　　　　見大唐類要百六十卷反覆觀之即虞氏北<lb/>
+　　　　堂書鈔今世所行者出陳禹謨刪補至以貞<lb/>
+　　　　觀後事及五代十國之書雜入其中盡失其<lb/>
+　　　　舊類要大畧出於原書殊未易得云云葢明<lb/>
+　　　　人好增刪古書逞臆妄改其雜亂無識誠有<lb/>
+　　　　如錢朱二氏所譏然今嘉禾舊本及大唐類<lb/>
+<pb n="KR3k0004_WYG_000-2b"/>
+　　　　要均已不可得見獨禹謨此本猶存其增加<lb/>
+　　　　各條幸皆注明補字猶有蹤跡可尋則存什<lb/>
+　　　　一於千百未始非唐人舊籍所藉以留貽者<lb/>
+　　　　也乾隆四十四年正月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

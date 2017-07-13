@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>襄毅文集</head>
+    <p>
+<pb n="KR4e0107_WYG_000-1a"/>
+欽定四庫全書　　　　　集部六<lb/>
+　襄毅文集　　　　　　　别集類五<hi>明</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案襄毅文集十五巻明韓雍撰雍字<lb/>
+　　　　永熙呉縣人正統壬戌進士官至右僉都御<lb/>
+　　　　史總督兩廣正徳間諡襄毅事迹具明史本<lb/>
+　　　　傳明自正統以後正徳以前金華青田流風<lb/>
+　　　　漸逺而茶陵震澤猶未奮興數十年間惟相<lb/>
+<pb n="KR4e0107_WYG_000-1b"/>
+　　　　沿臺閣之體漸就庸膚雍當其時雖威行兩<lb/>
+　　　　廣以武畧雄一世不屑屑以雕章繪句為工<lb/>
+　　　　而英多磊落之氣時時發見於文章故雖未<lb/>
+　　　　變體裁而特饒風骨其雜文亦髙視濶歩氣<lb/>
+　　　　象逈殊韓愈所謂獨得雄直氣者殆於近之<lb/>
+　　　　朱彛尊明詩綜但稱雍有集而不著集名所<lb/>
+　　　　錄雍詩一篇又非佳作其賜逰西苑記日下<lb/>
+　　　　舊聞亦不載靜志居詩話絶無一字及雍殆<lb/>
+<pb n="KR4e0107_WYG_000-2a"/>
+　　　　偶未見斯集歟乾隆四十六年十月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

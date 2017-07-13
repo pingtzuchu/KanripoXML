@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>優古堂詩話</head>
+    <p>
+<pb n="KR4i0011_WYG_000-1a"/>
+欽定四庫全書　　　　　集部九<lb/>
+　優古堂詩話　　　　　　詩文評類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案優古堂詩話一巻宋吳幵撰幵字<lb/>
+　　　　正仲滁州人紹聖丁丑中宏詞科靖康中官<lb/>
+　　　　翰林承旨與耿南仲力主割地之議卒悞國<lb/>
+　　　　事又為金人往來傳道意旨立張邦昌而事<lb/>
+　　　　之建炎後竄謫以死其人本不足道而所作<lb/>
+<pb n="KR4i0011_WYG_000-1b"/>
+　　　　詩話乃頗有可采其書凡一百五十四則皆<lb/>
+　　　　記北宋人事多論詩家句律相承變化之由<lb/>
+　　　　亦間有旁及他義者惟巻末載楊萬里一條<lb/>
+　　　　時代殊不相及疑傳寫有訛或後人有所竄<lb/>
+　　　　亂歟乾隆四十二年五月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

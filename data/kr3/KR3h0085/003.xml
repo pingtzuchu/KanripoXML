@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3h0085_WYG_003-1a"/>
+書嘯堂集古録後<lb/>
+武王戒書鑑矛等銘凡十有四規警備至成書具在廼<lb/>
+知古人一械一物必有頴識非特文字刻畫之為諒也<lb/>
+吕劉相嬗日益趍便簡器用淪圮更百千載如嶧山火<lb/>
+泐石鼔泥蟠何可勝紀先正歐陽文忠先生始集名碑<lb/>
+遺篆而録之盖精力斯盡而所著無幾元祐以竣地不<lb/>
+愛寳頹堤廢墓堙鼎藏敦所觸呈露由是考古博古之<lb/>
+書生焉盖盈編鱗秩而包羅莫究王君子併嘯堂集古<lb/>
+<pb n="KR3h0085_WYG_003-1b"/>
+最為後出然而竒文名蹟自商及秦纍纍凡數百章尤<lb/>
+為精夥初不曉其前晦而今見意者天地之氣運必有<lb/>
+與立於此否則中原故物將有不得揖讓其間之歎者<lb/>
+此尤君子之所深感也余因得其鋟板試摘所臧邵康<lb/>
+節秦權篆銘較之毫髪不舛益信子併裒類之不妄敬<lb/>
+書于後且掇古人所為觸物存戒之意以拜之庶幾不<lb/>
+徒字畫之泥而古意之未忘也淳熈丙申六月既望廬<lb/>
+陵曽機伯虞謹識<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

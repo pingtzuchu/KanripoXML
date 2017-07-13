@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2m0055_WYG_004-1a"/>
+　　御製大清律例序<lb/>
+　　象刑有典肇見虞書其用之之道則曰欽曰恤曰明曰允<lb/>
+　　一篇之中三致意焉武王誥康叔以用其義刑義殺而<lb/>
+　　呂刑則曰士制百姓於刑之中以教祗徳古先哲王所<lb/>
+　　為設法飭刑布之象魏縣之門閭自朝廷達於邦國共<lb/>
+　　知遵守者惟是適於義協於中弼成教化以洽其好生<lb/>
+　　之徳非徒示之禁令使知所畏懼而已我<lb/>
+列祖受<lb/>
+<pb n="KR2m0055_WYG_004-1b"/>
+天明命撫綏萬邦頒行大清律例仁育義正各得其宜<lb/>
+聖祖仁皇帝至仁如天化成久道徳洋恩溥涵浹羣生<lb/>
+皇考世宗憲皇帝際重熙累洽之運振起而作新之<lb/>
+親定大清律集解刊示中外甄陶訓迪刑期無刑法外之仁<lb/>
+　　垂為<lb/>
+明訓有曰寛嚴之用必因乎其時洋洋<lb/>
+聖謨洵用法之權衡制刑之準則也朕寅紹丕基恭承<lb/>
+徳意深念因時之義期以建中於民簡命大臣取律文及遞<lb/>
+<pb n="KR2m0055_WYG_004-2a"/>
+　　年奏定成例詳悉叅定重加編輯揆諸天理準諸人情<lb/>
+　　一本於至公而歸於至當折衷損益為四百三十六門<lb/>
+　　千有餘條凡四十七卷條分縷析倫敘秩然頒布宇内<lb/>
+　　用昭畫一之守於戲五刑五用以彰天討而嚴天威予<lb/>
+　　一人恭<lb/>
+天成命監<lb/>
+成憲以布於下民敢有弗欽雖然有定者律令無窮者情偽<lb/>
+　　也易曰君子以明慎用刑而不留獄書曰式敬爾由獄<lb/>
+<pb n="KR2m0055_WYG_004-2b"/>
+　　以長我王國忠信之長慈惠之師尚其慎厥用敬厥由<lb/>
+　　體欽恤明允之意率乂於民棐彞克協于中以弼予祈<lb/>
+天永命允升于大猷從事於斯者胥懋敬哉是為序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

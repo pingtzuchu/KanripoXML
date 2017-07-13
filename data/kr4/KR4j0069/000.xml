@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4j0069_SBCK_000-1a"/>
+吳騷合編小序<lb/>
+曲之爲義也緣於心曲之微蕩<lb/>
+漾盤折而幽情躍然故其言語<lb/>
+文章别是一色從來稱擅塲者<lb/>
+引商刻羽娬媚天成每好句入<lb/>
+人夢思咀之愈多味之不盡㫖<lb/>
+<pb n="KR4j0069_SBCK_000-1b"/>
+哉其爲曲也然而曲有遇焉作<lb/>
+家者流昔以長言單辭舒一時<lb/>
+怨愬幸而後來人士起焉玄賞<lb/>
+詠其曲恍見其人都雅雍容盈<lb/>
+諸口角悠揚欵乃應於肺附作<lb/>
+者謌者後先稱兩相知詎非曲<lb/>
+<pb n="KR4j0069_SBCK_000-2a"/>
+之遇歟爾乃遊腔襍拍信口酣<lb/>
+闐唫笑溷塲句讀割裂則曲之<lb/>
+竆于唱也晚近淺俗見聞側陋<lb/>
+且以香奩湮没之詞目爲新裁<lb/>
+以詞塲手授之曲謬日附會則<lb/>
+曲之竆於觀也甚至終日爭作<lb/>
+<pb n="KR4j0069_SBCK_000-2b"/>
+者誰行而於曲學爲指月或僞<lb/>
+摭他人之剰唾而於譜法爲操<lb/>
+戈則曲之竆于傳也若夫檀口<lb/>
+空餘藥欄寂寞行雲夜冷珠串<lb/>
+無聲則曲之竆於景也至使梨<lb/>
+棗濫觴傳訛附影塵蒙本色閉<lb/>
+<pb n="KR4j0069_SBCK_000-3a"/>
+嗇新詞則曲之竆于選也責在<lb/>
+我輩矣是集也余始博收之今<lb/>
+仲弟旭初嚴覈之惟其詞弗計<lb/>
+其人課其法斯收其曲非他刻<lb/>
+汜汜比也丙子冬杪余病臥無<lb/>
+聊因手拈新本閱之快然破悶<lb/>
+<pb n="KR4j0069_SBCK_000-3b"/>
+而師齡姪知音以授諸<graphic n="KR0922" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0922.png" mimeType="image/png"/>越二<lb/>
+月<graphic n="KR0922" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0922.png" mimeType="image/png"/>成余喜書其端因撫卷日<lb/>
+此於曲苑可謂無遺憾矣<lb/>
+崇禎丁丑春仲騷隱居士楚叔<lb/>
+　　父題於小墨墨居<lb/>
+<pb n="KR4j0069_SBCK_000-4a"/>
+白雪齋選訂樂府吳騷合編目次<lb/>
+　第四卷<lb/>
+仙吕人雙調<lb/>
+　夜行船序<lb/>
+　　翠擁紅遮<hi>題情</hi>周秋汀<lb/>
+　黑䗫序<lb/>
+　　點簡梅花<hi>冬閨</hi>陳秋碧<lb/>
+　　兩字鴛鴦<hi>題情</hi>馮二酉<lb/>
+　惜奴嬌<lb/>
+<pb n="KR4j0069_SBCK_000-4b"/>
+　　出抺微雲<hi>惜别止二闋</hi>王伯良<lb/>
+　步步嬌<lb/>
+　　月夕花朝<hi>閨情</hi>劉東生<lb/>
+　　昨夜春歸<hi>閨怨</hi>舊　詞<lb/>
+　　樓閣重重<hi>怨别</hi>唐伯虎<lb/>
+　　一夜梧桐<hi>秋日懷舊</hi>梁少白<lb/>
+　　簾控金鈎<hi>閨思</hi>文衡山<lb/>
+　　暗想當年<hi>閨怨</hi>元　詞<lb/>
+　　半夜蕭疎<hi>同胥姬坐雨感舊</hi>梁少白<lb/>
+<pb n="KR4j0069_SBCK_000-5a"/>
+　沉醉東風<lb/>
+　　海棠花開還未開<hi>春閨</hi>鄭虚舟<lb/>
+　嬌鶯兒<lb/>
+　　春寒成陳<hi>四時題情各韻計四闋</hi>陳秋碧<lb/>
+　園林好<lb/>
+　　常相傍淮南小山<hi>贈徐飛卿叅禪</hi>汪伯玉<lb/>
+　攤破金字令<lb/>
+　　芳容竝月<hi>遇虞山張姬於虎丘作</hi>梁少白<lb/>
+　二犯江兒水<lb/>
+<pb n="KR4j0069_SBCK_000-5b"/>
+　　減盡了花容月豔<hi>四時閨怨</hi>陳秋碧<lb/>
+　　看姐姐風流聰俊<hi>贈石城美人小令</hi>梁少白<lb/>
+　　覻着俺娘行清秀<hi>贈戴膩兒小令</hi>梁少白<lb/>
+　　記得他霧鬟雲鬢<hi>紀情小令</hi>周幼海<lb/>
+　江頭金桂<lb/>
+　　最苦是深閨人靜<hi>春閨</hi>騒隱生<lb/>
+　桂花遍南枝<lb/>
+　　前生冤債<hi>爲顧郎芙初戲筆</hi>張旭初<lb/>
+附錄譜内新增體并各宮花犯曲<lb/>
+<pb n="KR4j0069_SBCK_000-6a"/>
+　小措大<lb/>
+　　暗潮泊岸<hi>旅思</hi>古　調<lb/>
+　　𫾣氷進舫<hi>旅思</hi>史叔考<lb/>
+　　桂堂東畔<hi>懷馬湘蘭</hi>梁少白<lb/>
+　六犯淸音<lb/>
+　　瑣窗人靜<hi>宫詞</hi>李日華<lb/>
+　　小窗雲重<hi>冬閨</hi>虞交俞<lb/>
+　　玄陰觱發<hi>冬閨</hi>何西來<lb/>
+　　華林百種<hi>贈魏湘鴻</hi>梁少白<lb/>
+<pb n="KR4j0069_SBCK_000-6b"/>
+　七犯玲瓏<lb/>
+　　新紅上海裳<hi>四時閨情</hi>祝枝山<lb/>
+　　凝粧上翠樓<hi>閨思</hi>楊升菴<lb/>
+　　琳宫驀地逢<hi>過陳芳蘭於虎丘作</hi>梁少白<lb/>
+　　芙蓉翠館仙<hi>再寄陳芳蘭</hi>梁少白<lb/>
+　七賢過關<lb/>
+　　雕簷風馬馳<hi>代王姬錫山惜别</hi>梁少白<lb/>
+　　春風花草香<hi>春思</hi>元　詞<lb/>
+　九廻腸<lb/>
+<pb n="KR4j0069_SBCK_000-7a"/>
+　　一從他春思牽掛<hi>題情計二闋</hi>張伯起<lb/>
+　　<graphic n="KR0863" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0863.png" mimeType="image/png"/>燈兒幾畨思想<hi>懷舊計一闋</hi>孫百川<lb/>
+　　爲一點香生九畹<hi>贈李姬湘蘭一闋</hi>史叔考<lb/>
+　巫山十二峯<lb/>
+　　院落清明左右<hi>春日題情</hi>梁少白<lb/>
+　　一片情雲引弄<hi>友人談夢戲贈</hi>沈伯英<lb/>
+　十二紅<lb/>
+　　伴孤燈<hi>曉夜閨情</hi>陳秋碧<lb/>
+　　照孤衾<hi>閨情</hi>林石岡<lb/>
+<pb n="KR4j0069_SBCK_000-7b"/>
+　　鷄聲兒<hi>題情</hi>吳載伯<lb/>
+　　冷蕭蕭<hi>紀情</hi>王玉陽<lb/>
+附錄譜外變調<lb/>
+　漁燈兒<lb/>
+　　没來繇惹相思<hi>閨情</hi>陸包山<lb/>
+　　從那日冷桃源<hi>秋夜懷程文卿</hi>沈孚中<lb/>
+附錄南北間調<lb/>
+　新水令<lb/>
+　　　一春無事爲花愁<hi>閨怨</hi>祝枝山<lb/>
+<pb n="KR4j0069_SBCK_000-8a"/>
+　　水沉消盡瑞爐煙<hi>閨情</hi>唐伯虎<lb/>
+　　　一聲孤雁送新秋<hi>閨情</hi>沈靑門<lb/>
+　　半窗殘月夢初醒<hi>閨情</hi>沈靑門<lb/>
+　　夜窗相<graphic n="KR0863" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0863.png" mimeType="image/png"/>一燈微<hi>話舊</hi>凌初成<lb/>
+附錄北調<lb/>
+　黃鐘醉花陰<lb/>
+　　窗外芭蕉戰秋雨<hi>秋思</hi>陳秋碧<lb/>
+　　春困書齋夢初醒<hi>春懷</hi>舊　詞<lb/>
+　正宫端正好<lb/>
+<pb n="KR4j0069_SBCK_000-8b"/>
+　　珊枕畔麝蘭香<hi>懷舊</hi>陳秋碧<lb/>
+　仙呂點絳唇<lb/>
+　　月戸雲窗<hi>贈妓</hi>舊　詞<lb/>
+　中呂粉蝶兒<lb/>
+　　如月如花<hi>贈美</hi>蘭楚芳<lb/>
+　南呂一枝花<lb/>
+　　嬌滴滴千金玉體輕<hi>詠遇</hi>陳秋碧<lb/>
+　雙調新水令<lb/>
+　　鴛鴦夢斷藕絲鄕<hi>秋閨</hi>視枝山<lb/>
+<pb n="KR4j0069_SBCK_000-9a"/>
+　　碧桃花外一聲鐘<hi>春閨</hi>周秋汀<lb/>
+雙調夜行船<lb/>
+　　缺月風簾碎影篩<hi>憶所見</hi>毛蓮石<lb/>
+　　太乙峯頭玉井蓮<hi>爲妓白蓮賦</hi>沈青門<lb/>
+　商調集賢賔<lb/>
+　　憶吹簫玉人何處也<hi>秋懷</hi>陳秋碧<lb/>
+吳騒合編卷四目次終<lb/>
+<pb n="KR4j0069_SBCK_000-9b"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

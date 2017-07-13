@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>景定建康志巻十三</head>
+    <p>
+<pb n="KR2k0021_WYG_013-1a"/>
+欽定四庫全書<lb/>
+　景定建康志巻十三　　　宋　周應合　撰<lb/>
+建康表九<hi>國朝建隆以來為年表</hi>
+　<hi>少保馬亮序金陵古之名地也昔周太王長子避位奔江南百姓從而君之自號勾吳太伯吳亡於越越</hi>
+　<hi>亡於楚楚亡於秦其間千餘年不常厥居秦有天下置三十六郡涉歴兩漢其地尚屬丹陽郡三國時孫</hi>
+　<hi>權始建都邑晉室渡江宋齊梁陳因之無遷易焉隋滅陳而禪唐至𤣥宗時乃為昇州唐祚告絶五代繼</hi>
+　<hi>立當是時也九州分裂海内横流擅其地而稱霸王者非一江淮則楊氏據之西都廣陵李氏承之而都</hi>
+　<hi>金陵憲章紀律惟李氏可採金陵則輒號江寧府矣聖宋開基混一區宇後主以開寳八年乙亥嵗十一</hi>
+<pb n="KR2k0021_WYG_013-1b"/>
+　<hi>月二十七日城陷歸闕金陵復為昇州至丙午嵗凡三十二年且牧守一十七人慮年代寖逺好事者無</hi>
+　<hi>以詰其姓名余忝守郡條職參史氏故為題名記欲使往者来者得以顯其名位到罷月日庶㡬乎千載</hi>
+　<hi>之下知皇宋之有人焉</hi>
+<pb n="KR2k0021_WYG_013-2a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-3a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-4a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-5a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-6a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-7a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-8a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-9a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-10a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-11a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-12a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-13a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-14a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-15a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-16a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-17a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-18a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-19a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-20a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-21a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-22a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-23a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-24a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-25a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-26a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-27a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-28a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-29a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-30a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-31a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-32a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-33a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-34a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-35a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-36a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-37a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-38a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-39a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-40a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-41a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-42a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-43a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-44a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-45a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-46a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-47a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-48a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-49a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-50a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-51a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-52a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-53a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-54a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-55a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-56a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-57a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-58a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-59a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-60a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-61a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-62a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-63a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-64a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-65a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-66a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-67a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-68a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-69a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-70a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-71a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-72a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-73a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-74a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-75a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-76a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-77a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-78a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-79a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-80a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-81a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-82a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-83a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-84a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-85a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-86a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-87a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-88a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-89a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-90a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-91a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-92a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-93a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-94a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-95a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-96a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-97a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-98a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-99a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-100a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-101a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-102a"/>
+</p>
+<p>
+<pb n="KR2k0021_WYG_013-103a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2k0021_WYG_013-103b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　景定建康志巻十三<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

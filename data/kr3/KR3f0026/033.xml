@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3f0026_WYG_033-1a"/>
+籌算自序<lb/>
+唐有九執厯不用布算唯以筆記史謂其繁重其法不<lb/>
+傳今西儒筆算或其遺意歟筆算之法詳見同文算指<lb/>
+中厯書出乃有籌算其法與舊傳鋪地錦相似而加便<lb/>
+㨗又昔但以乘者今兼以除且益之開方諸率可謂盡<lb/>
+變矣但本法横書彷彿於珠算之位至於除法則實横<lb/>
+而商數縱頗難定位愚謂既用筆書宜一行直下為便<lb/>
+輒以鄙意改用横籌直寫而于定位之法尤加詳焉俾<lb/>
+<pb n="KR3f0026_WYG_033-1b"/>
+用者無復纎疑即不敢謂兼中西兩家之長而於籌算<lb/>
+庶幾無憾矣<lb/>
+康熙戊午九月已亥朔日躔在角宛陵梅文鼎勿菴撰<lb/>
+　籌算有數便奚囊逺涉便於佩帶一也所用乘除存<lb/>
+　諸片楮久可覆核二也斗室匡坐㸃筆徐觀諸數厯<lb/>
+　然人不能測三也布算未終無妨泛應前功可續四<lb/>
+　也乘除一理不湏歌括五也尤便學習朝得暮能六也<lb/>
+　原法横書故用直籌籌直則積數横彼中文字實用<lb/>
+<pb n="KR3f0026_WYG_033-2a"/>
+　横書也今直書故用横籌籌横則積數直其理一也<lb/>
+　亦有數便自上而下乃中土筆墨之宜便寫一也兩<lb/>
+　半圓合一位便查數二也商數與實平行便定位三<lb/>
+　也<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

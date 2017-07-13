@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>補後漢書年表卷三</head>
+    <p>
+<pb n="KR2a0010_WYG_003-1a"/>
+欽定四庫全書<lb/>
+　補後漢書年表卷三　　　　　宋　熊方　撰<lb/>
+　　異姓諸矦<lb/>
+世祖倉卒擾攘之初亟侯諸將矣盖激礪磨淬亦事之常至<lb/>
+起卓茂伏湛為三公剖符而封之功臣不假以權革西京之<lb/>
+弊天下靡然以名節相先及叔季李膺范滂軰雖相枕就死<lb/>
+而不悔曹操豺虎之姿猶懼孔融荀彧等終其身不敢為盜<lb/>
+徳義之足以服人心也如此可不尚兹作異姓矦表<lb/>
+<pb n="KR2a0010_WYG_003-2a"/>
+</p>
+<p>
+<pb n="KR2a0010_WYG_003-3a"/>
+</p>
+<p>
+<pb n="KR2a0010_WYG_003-4a"/>
+</p>
+<p>
+<pb n="KR2a0010_WYG_003-5a"/>
+</p>
+<p>
+<pb n="KR2a0010_WYG_003-6a"/>
+</p>
+<p>
+<pb n="KR2a0010_WYG_003-7a"/>
+</p>
+<p>
+<pb n="KR2a0010_WYG_003-8a"/>
+</p>
+<p>
+<pb n="KR2a0010_WYG_003-9a"/>
+</p>
+<p>
+<pb n="KR2a0010_WYG_003-10a"/>
+</p>
+<p>
+<pb n="KR2a0010_WYG_003-11a"/>
+</p>
+<p>
+<pb n="KR2a0010_WYG_003-12a"/>
+</p>
+<p>
+<pb n="KR2a0010_WYG_003-13a"/>
+</p>
+<p>
+<pb n="KR2a0010_WYG_003-14a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2a0010_WYG_003-14b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　補後漢書年表卷三<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

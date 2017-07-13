@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4e0021_SBCK_006-1a"/>
+宻菴詩藁後序<lb/>
+余自㓜時余先人常率余拜從姑之夫宻菴扵蓀溪先人<lb/>
+嘗謂宻菴曰吾児年雖㓜姿頗敏願君親教之宻菴曰凢<lb/>
+從余㳺者咸以覺覺之吾寕舎姻戚而外頋㦲後先人旣<lb/>
+殁而宻菴比㳺齊魯晋趙燕魏之郊閲数歲始歸田里而<lb/>
+余年稍長復拜宻菴扵蓀溪則慨余先人所與之語遂俯<lb/>
+而教之撃蒙發蔀靡所不至常語以天地隂陽五行萬化<lb/>
+微妙至極之理堯舜禹湯文武周孔治世不易之道六經<lb/>
+傳記百氏子史之格言與夫制作之繩墨學書之徑庭無<lb/>
+不指授漸磨淬礪兾余成學寔不後吾先人之所謂㢤非<lb/>
+謹義其孰能然乎洪武十有六年冬而宻菴領薦于朝出<lb/>
+僉閩憲則余莫能從以竹嗚呼宻菴之誨靡能尽听宻菴<lb/>
+<pb n="KR4e0021_SBCK_006-1b"/>
+之學靡能盡傳和風未暢甘雨未濡焦未沃而枯未甦深<lb/>
+有企扵宻菴而終余之所未至不幸遽絶余巳逝可勝痛<lb/>
+㢤可勝痛㢤然其殁後之六年余亦察薦于天官遂得拜<lb/>
+命南宫裒宻菴所著詩文凢十卷編類成帙置諸座右嘗<lb/>
+與四方往来鴻生碩彦相加訂証閲八年始克先鋟梓<lb/>
+詩然詩五卷卷以天干為第其卷文帙亦如之嗟夫宻菴<lb/>
+之詩𥙷誌闕証史繆動関丗教足厚風俗人𣣔閟而不傳<lb/>
+自有不容扵不傳矣其詩體裁音莭声律髙下則九灵山<lb/>
+人戴先生良備𫐠之矣余何敢言㢤始書鋟梓之歲月云<lb/>
+洪武戊寅春正月上丁沛郡劉翼南謹序<lb/>
+<pb n="KR4e0021_SBCK_006-2a"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

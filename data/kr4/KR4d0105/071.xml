@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4d0105_SBCK_071-1a"/>
+　從兄无<graphic n="KR3102" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3102.png" mimeType="image/png"/>平曰著述甚冨元祐末<lb/>
+　在館閣時嘗自製其序宣和以前<lb/>
+　世莫散傳今所得者古賦騷辭四十<lb/>
+　有三古律詩六百三十有三表<graphic n="KR2227" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2227.png" mimeType="image/png"/>雜文<lb/>
+　史評六百九十有三自捐館舍逮今二<lb/>
+　十八年始得編次爲七十卷刋于建陽<lb/>
+<pb n="KR4d0105_SBCK_071-1b"/>
+　紹興七年丁巳十一月旦日弟右朝奉<lb/>
+　郎權福建路轉運判官謙之謹題<lb/>
+<pb n="KR4d0105_SBCK_071-2a"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

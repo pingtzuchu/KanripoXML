@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4d0033_SBCK_000-1a"/>
+雪竇顯和尚明覺大師頌古集序<lb/>
+昔雪峯以吾佛之道唱於閩雲門繼而和於<lb/>
+而降賡厥聲者夥矣然皆未甚燀赫於世也天禧中<lb/>
+雪竇始以是道宏其音髙其調藹然皷之于呉繇是<lb/>
+呉之學佛輩翕然魯變格于正始迨今洋洋焉不可<lb/>
+勝計大哉眞諦之爲言也視焉而無際徇焉而無朕<lb/>
+非夫至神洞照者雖復歷于丗數勤以求之勞形骸<lb/>
+竭思慮曾莫得其髣髴焉必藉先覺爲之啓發不一<lb/>
+瞬間而妙圎巳極今雪竇應昌期以挺其粹嗣智門<lb/>
+以恢其宗軟語微言固巳盛行於丗矣今又採古聖<lb/>
+機縁之妙者凡百則發言以爲頌由頌以宣義由義<lb/>
+<pb n="KR4d0033_SBCK_000-1b"/>
+以垂𥙿俾夫昧者明窒者通泥而不能致逺者咸有<lb/>
+所救焉且夫靜以虚其應動以利于物此先聖人之<lb/>
+能事也掲是事而行之于澆季循循而不怠愚未見<lb/>
+有如雪竇者矣門弟子逺塵旣繕録之小子曇玉復<lb/>
+繼而序之歳攝提格月仲牡哉生魄<lb/>
+　　　　　　　　　　參學小師　逺塵　集<lb/>
+舉梁武帝問達磨大師如何是聖諦第一義達磨<lb/>
+　云廓然無聖帝云對朕者誰達磨云不識帝不契<lb/>
+遂渡江至魏武帝舉問志公志公云陛下還識此<lb/>
+　人否帝曰不識志公云此是觀音大士傳佛心印<lb/>
+帝悔遂遣使取志公云莫道陛下發使去取闔國<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

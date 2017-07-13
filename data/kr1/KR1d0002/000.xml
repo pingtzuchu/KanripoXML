@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="1a"/>
+周禮目録<lb/>
+　卷第一<lb/>
+　　　天官冡宰上<lb/>
+　卷第二<lb/>
+　　　天官冡宰下<lb/>
+　卷第三<lb/>
+　　　地官司徒上<lb/>
+　卷第四<lb/>
+<pb n="1b"/>
+　　　地官司徒下<lb/>
+　　卷第五<lb/>
+　　　春官宗伯上<lb/>
+　　卷第六<lb/>
+　　　春官宗伯下<lb/>
+　　卷第七<lb/>
+　　　夏官司馬上<lb/>
+　　卷第八<lb/>
+<pb n="2a"/>
+　　　夏官司馬下<lb/>
+　　卷第九<lb/>
+　　　秋官司㓂上<lb/>
+　　卷第十<lb/>
+　　　秋官司㓂下<lb/>
+　　卷第十一<lb/>
+　　　冬官考工記上<lb/>
+　　卷第十二<lb/>
+<pb n="2b"/>
+　　冬官考工記下<lb/>
+周禮目録<hi>畢</hi>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4e0135_WYG_037-1a"/>
+見素續集序<lb/>
+素翁續集十二巻我先師見素林公起廢以後作也盖<lb/>
+是時公已七十矣後二年乃請老又後四年遂以永逝<lb/>
+悲夫士有童而習之白首茫如也宦成業隳以文字為土<lb/>
+芻窮年彌性概無述焉而碩輔元僚所以彌綸翊贊者<lb/>
+竭思盡慮其於述作又未暇數數然者非有兼知之資<lb/>
+日孶之學而欲文行蔚其相宣功言同於不朽固甚難<lb/>
+矣公以直毅忠勤受知四聖自部郎臬使厯御史中丞<lb/>
+<pb n="KR4e0135_WYG_037-1b"/>
+大司空司寇晉秩宫保而歸中間論妖僧按逆寧平蜀<lb/>
+寇持詔獄光輔新政天下想望風儀如赤麟青鳯莫能<lb/>
+為象而其出處大致昭掲日月則人皆仰之也雄文秀<lb/>
+句流播綺石胡然而嶽峙胡然而川注一時師匠寔推<lb/>
+先焉文集三十五巻詩集十四巻公令子吏部大夫愧<lb/>
+吾君達先已録次刻行是集出最後以别諸前刻乃稱<lb/>
+續集云集而續之是述作之全也夫以功成之末慮老<lb/>
+盡之餘年而猶矢筆成編積言累萬有他人沒齒擅門<lb/>
+<pb n="KR4e0135_WYG_037-2a"/>
+所不能幾者公所謂獨智兼人好學不勌非與或謂公<lb/>
+道危履獨於事主酬世為難所為文語竒而思苦後進<lb/>
+或不能以誦法今觀其垂終數疏懇惻忠慕讀之可使<lb/>
+人涕其與群公相和答披豁𠂻素貞而婉情至而可深<lb/>
+思奬賢嘉善㤀巳而欲寘之懐如贈黄余三慰諸篇真<lb/>
+休休有容之度謂危與獨也乎哉若乃微言奥義蓄而<lb/>
+約於文詞則自艾軒而上遡于檀弓左榖無異趨者公<lb/>
+有所誦法而然矣抑平生不負文節道固有同者誦其<lb/>
+<pb n="KR4e0135_WYG_037-2b"/>
+詩讀其書不可不論其世然則公是集也於詩書為絶<lb/>
+筆於世為完局盖棺事定此尤足以觀矣悲夫嘉靖丙<lb/>
+申冬十月初吉門人耕原王鳳靈序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

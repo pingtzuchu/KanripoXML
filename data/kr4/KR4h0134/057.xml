@@ -1,0 +1,1516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>漢魏六朝百三家集卷五十七</head> <lb/>
+    <p>
+<pb n="KR4h0134_WYG_057-1a"/>
+欽定四庫全書<lb/>
+　漢魏六朝百三家集卷五十七<lb/>
+　　晉郭璞集<lb/>
+　目録<lb/>
+　　讚<lb/>
+　　　山海經圖讚<lb/>
+　　　桂<lb/>
+　　　迷穀<lb/>
+<pb n="KR4h0134_WYG_057-1b"/>
+　　　狌狌<lb/>
+　　　水玉<lb/>
+　　　白猿<lb/>
+　　　鹿蜀<lb/>
+　　　鯥<lb/>
+　　　類<lb/>
+　　　猼<graphic n="KR1138" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1138.png" mimeType="image/png"/>
+　　　祝荼草旋龜<graphic n="KR2112" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2112.png" mimeType="image/png"/>鵂魚<lb/>
+<pb n="KR4h0134_WYG_057-2a"/>
+　　　灌灌鳥赤鱬<lb/>
+　　　鴸鳥<lb/>
+　　　猾褢<lb/>
+　　　長右彘<lb/>
+　　　㑹稽山<lb/>
+　　　䍺<lb/>
+　　　犀<lb/>
+　　　兕<lb/>
+<pb n="KR4h0134_WYG_057-2b"/>
+　　　象<lb/>
+　　　纂雕瞿如鳥虎蛟<lb/>
+　　　鳯<lb/>
+　　　育隧谷<lb/>
+　　　鱄魚顒鳥<lb/>
+　　　白䓘<hi>以上南山</hi>
+　　　羬羊<lb/>
+　　　太華山<lb/>
+<pb n="KR4h0134_WYG_057-3a"/>
+　　　肥遺蛇<lb/>
+　　　䳋渠赤鷩鳥文莖木鴖鳥<lb/>
+　　　流赭<lb/>
+　　　豪彘<lb/>
+　　　黄雚草肥遺鳥囂獸<lb/>
+　　　槖<graphic n="KR1446" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1446.png" mimeType="image/png"/>
+　　　桃枝<lb/>
+　　　杜衡<lb/>
+<pb n="KR4h0134_WYG_057-3b"/>
+　　　蓇容草邊谿獸櫟鳥<lb/>
+　　　礜石<lb/>
+　　　<graphic n="KR1649" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1649.png" mimeType="image/png"/>如<lb/>
+　　　鸚䳇<lb/>
+　　　數斯鳥<graphic n="KR2261" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2261.png" mimeType="image/png"/>獸鸓鳥<lb/>
+　　　鸞鳥<lb/>
+　　　鳬徯鳥朱厭獸<lb/>
+　　　蠻蠻<lb/>
+<pb n="KR4h0134_WYG_057-4a"/>
+　　　丹木玉膏<lb/>
+　　　瑾瑜玉<lb/>
+　　　鍾山之子鼓欽䲹<lb/>
+　　　鰩魚<lb/>
+　　　神英招<lb/>
+　　　榣木<lb/>
+　　　崑崙丘<lb/>
+　　　神陸吾<lb/>
+<pb n="KR4h0134_WYG_057-4b"/>
+　　　土螻獸欽原鳥<lb/>
+　　　沙棠<lb/>
+　　　鶉鳥沙棠實薲草<lb/>
+　　　神長乘<lb/>
+　　　西王母<lb/>
+　　　積石<lb/>
+　　　白帝少昊<lb/>
+　　　猙<lb/>
+<pb n="KR4h0134_WYG_057-5a"/>
+　　　畢方<lb/>
+　　　文貝<lb/>
+　　　天狗<lb/>
+　　　三青鳥<lb/>
+　　　江疑獓<graphic n="KR2525" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2525.png" mimeType="image/png"/>獸<graphic n="KR2253" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2253.png" mimeType="image/png"/>鳥<lb/>
+　　　神耆童<lb/>
+　　　帝江<lb/>
+　　　獂獸鵸䳜鳥<lb/>
+<pb n="KR4h0134_WYG_057-5b"/>
+　　　當扈<lb/>
+　　　白狼<lb/>
+　　　白虎<lb/>
+　　　駮<lb/>
+　　　神□蠻蠻髯遺魚<lb/>
+　　　櫰木<lb/>
+　　　鳥鼠同穴山<lb/>
+　　　<graphic n="KR1736" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1736.png" mimeType="image/png"/>魮魚<lb/>
+<pb n="KR4h0134_WYG_057-6a"/>
+　　　丹木<lb/>
+　　　窮竒獸蠃魚孰湖獸<lb/>
+　　　鰠魚<hi>以上西山</hi>
+　　　水馬<lb/>
+　　　儵魚<lb/>
+　　　䑏疏獸鵸䳜鳥何羅魚<lb/>
+　　　孟槐<lb/>
+　　　鰼鰼魚<lb/>
+<pb n="KR4h0134_WYG_057-6b"/>
+　　　槖駝<lb/>
+　　　耳鼠<lb/>
+　　　幽鴳<lb/>
+　　　寓鳥孟極足訾獸<lb/>
+　　　鵁鳥<lb/>
+　　　諸犍獸白鵺竦斯鳥<lb/>
+　　　磁石<lb/>
+　　　旄牛<lb/>
+<pb n="KR4h0134_WYG_057-7a"/>
+　　　長蛇<lb/>
+　　　山<graphic n="KR0968" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0968.png" mimeType="image/png"/>
+　　　窫窳諸懐獸䲃魚肥遺蛇<lb/>
+　　　鮆魚<lb/>
+　　　狍鴞<lb/>
+　　　狕閭<graphic n="KR1411" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1411.png" mimeType="image/png"/>馬獨𤞞<lb/>
+　　　<graphic n="KR1829" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1829.png" mimeType="image/png"/>
+                    <graphic n="KR2061" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2061.png" mimeType="image/png"/>
+　　　居暨獸囂鳥三桑<lb/>
+<pb n="KR4h0134_WYG_057-7b"/>
+　　　䮝獸<lb/>
+　　　天馬<lb/>
+　　　鶌居<lb/>
+　　　飛䑕<lb/>
+　　　䴅䴅象蛇<graphic n="KR1515" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1515.png" mimeType="image/png"/>父魚<lb/>
+　　　酸與<lb/>
+　　　鴣<graphic n="KR2570" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2570.png" mimeType="image/png"/>黄鳥<lb/>
+　　　精衛<lb/>
+<pb n="KR4h0134_WYG_057-8a"/>
+　　　䍶䍶羆九獸大蛇<hi>以上北山</hi>
+　　　鱅鱅魚從從獸䖪鼠<lb/>
+　　　䖺䗤<lb/>
+　　　狪狪<lb/>
+　　　堪㐨魚軨軨獸<lb/>
+　　　珠蟞魚<lb/>
+　　　犰狳<lb/>
+　　　狸力獸<graphic n="KR1916" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1916.png" mimeType="image/png"/>胡鳥<lb/>
+<pb n="KR4h0134_WYG_057-8b"/>
+　　　朱獳<lb/>
+　　　獙獙蠪蚳獸絜鉤鳥<lb/>
+　　　峳峳<lb/>
+　　　蠵龜<lb/>
+　　　妴胡精精獸鮯鮯魚<lb/>
+　　　猲狙獸鬿雀<lb/>
+　　　芑木<lb/>
+　　　茈魚薄魚<lb/>
+<pb n="KR4h0134_WYG_057-9a"/>
+　　　合窳<lb/>
+　　　當康獸䱻魚<lb/>
+　　　蜚<hi>以上東山</hi>
+　　　桃林<lb/>
+　　　鳴石<lb/>
+　　　旋龜人魚修辟<lb/>
+　　　帝臺棋<lb/>
+　　　若華烏酸草<lb/>
+<pb n="KR4h0134_WYG_057-9b"/>
+　　　䔄草<lb/>
+　　　山膏獸黄棘<lb/>
+　　　三足龜<lb/>
+　　　嘉榮<lb/>
+　　　天楄牛傷文獸鰧魚<lb/>
+　　　帝休<lb/>
+　　　泰室<lb/>
+　　　栯木<lb/>
+<pb n="KR4h0134_WYG_057-10a"/>
+　　　<graphic n="KR1938" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1938.png" mimeType="image/png"/>草<lb/>
+　　　鶡鳥<lb/>
+　　　鳴蛇化蛇<lb/>
+　　　赤銅<lb/>
+　　　神熏池<lb/>
+　　　神武羅<lb/>
+　　　鴢鳥<lb/>
+　　　荀草<lb/>
+<pb n="KR4h0134_WYG_057-10b"/>
+　　　馬腹獸飛魚<lb/>
+　　　神泰逢<lb/>
+　　　葪栢<lb/>
+　　　橘櫾<lb/>
+　　　<graphic n="KR1668" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1668.png" mimeType="image/png"/>
+　　　鮫魚<lb/>
+　　　鴆鳥<lb/>
+　　　椒<lb/>
+<pb n="KR4h0134_WYG_057-11a"/>
+　　　神<graphic n="KR2416" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2416.png" mimeType="image/png"/>圍計蒙渉<graphic n="KR2416" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2416.png" mimeType="image/png"/>
+　　　岷山<lb/>
+　　　䕫牛<lb/>
+　　　猍山<lb/>
+　　　<graphic n="KR2579" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2579.png" mimeType="image/png"/>狼雍和<graphic n="KR2672" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2672.png" mimeType="image/png"/>獸<lb/>
+　　　蜼<lb/>
+　　　熊穴<lb/>
+　　　跂踵<lb/>
+<pb n="KR4h0134_WYG_057-11b"/>
+　　　蛟<lb/>
+　　　神耕父<lb/>
+　　　九鍾<lb/>
+　　　嬰勺<lb/>
+　　　獜<lb/>
+　　　帝臺漿<lb/>
+　　　狙如<lb/>
+　　　帝女桑<lb/>
+<pb n="KR4h0134_WYG_057-12a"/>
+　　　梁渠<graphic n="KR2490" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2490.png" mimeType="image/png"/>即聞<graphic n="KR2113" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2113.png" mimeType="image/png"/>獸䳅鵌鳥<lb/>
+　　　神于兒<lb/>
+　　　神二女<lb/>
+　　　飛蛇<hi>以上中山</hi>
+　　　自此山來蟲為蛇蛇號為魚<lb/>
+　　　羽民國<lb/>
+　　　神人二八<lb/>
+　　　讙頭國<lb/>
+<pb n="KR4h0134_WYG_057-12b"/>
+　　　厭火國<lb/>
+　　　三珠樹<lb/>
+　　　臷國<lb/>
+　　　貫胸交脛攴舌國<lb/>
+　　　不死國<lb/>
+　　　鑿齒國<lb/>
+　　　三首國<lb/>
+　　　焦僥國<lb/>
+<pb n="KR4h0134_WYG_057-13a"/>
+　　　長臂國<lb/>
+　　　狄山帝堯塟於陽帝嚳塟於陰<lb/>
+　　　視肉<lb/>
+　　　南方祝融<hi>以上海外南經圖</hi>
+　　　夏后啟<lb/>
+　　　三身國一臂國<lb/>
+　　　竒肱國<lb/>
+　　　形天<lb/>
+<pb n="KR4h0134_WYG_057-13b"/>
+　　　女祭女戚<lb/>
+　　　䳐鳥<graphic n="KR2485" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2485.png" mimeType="image/png"/>鳥<lb/>
+　　　丈夫國<lb/>
+　　　女丑尸<lb/>
+　　　巫咸<lb/>
+　　　并封<lb/>
+　　　女子國<lb/>
+　　　軒轅國<lb/>
+<pb n="KR4h0134_WYG_057-14a"/>
+　　　乘黄<lb/>
+　　　滅蒙鳥大運山雄常樹<lb/>
+　　　龍魚<lb/>
+　　　西方蓐收<hi>以上海外西經圖</hi>
+　　　無䏿國<lb/>
+　　　燭龍<lb/>
+　　　一目國<lb/>
+　　　柔利國<lb/>
+<pb n="KR4h0134_WYG_057-14b"/>
+　　　共工臣相柳<lb/>
+　　　深目國<lb/>
+　　　聶耳國<lb/>
+　　　夸父<lb/>
+　　　尋木<lb/>
+　　　跂踵國<lb/>
+　　　歐絲野<lb/>
+　　　無腸國<lb/>
+<pb n="KR4h0134_WYG_057-15a"/>
+　　　平丘<lb/>
+　　　騊駼<lb/>
+　　　北方禺彊<hi>以上海外北經圖</hi>
+　　　君子國<lb/>
+　　　天呉<lb/>
+　　　九尾狐<lb/>
+　　　竪亥<lb/>
+　　　十日<lb/>
+<pb n="KR4h0134_WYG_057-15b"/>
+　　　毛民國<lb/>
+　　　黒齒國雨師妾𤣥股國勞民國<lb/>
+　　　東方勾芒<hi>以上海外</hi>　<hi>經圖</hi>
+　　　梟陽<lb/>
+　　　狌狌<lb/>
+　　　夏后啟臣孟涂<lb/>
+　　　建木<lb/>
+　　　氐人<lb/>
+<pb n="KR4h0134_WYG_057-16a"/>
+　　　巴蛇<hi>以上海内南經圖</hi>
+　　　貳負臣危<lb/>
+　　　流黄酆氏國<lb/>
+　　　大澤方百里<lb/>
+　　　流沙<lb/>
+　　　木禾<lb/>
+　　　開明<lb/>
+　　　文玉玗琪樹<lb/>
+<pb n="KR4h0134_WYG_057-16b"/>
+　　　不死樹<lb/>
+　　　甘水聖木<lb/>
+　　　窫窳<lb/>
+　　　服常琅玕樹<hi>以上海内西經圖</hi>
+　　　吉良<lb/>
+　　　蛇巫山鬼神蜪犬羣帝臺大蜂朱蛾<lb/>
+　　　闒非據比尸祙戎<lb/>
+　　　騶虞<lb/>
+<pb n="KR4h0134_WYG_057-17a"/>
+　　　氷夷<lb/>
+　　　王子夜尸<lb/>
+　　　宵明燭光<lb/>
+　　　列姑射山大蟹陵魚<lb/>
+　　　蓬萊山<hi>以上海内北經圖</hi>
+　　　郁州<lb/>
+　　　韓雁始鳩雷澤神瑯琊臺<lb/>
+　　　竪沙居繇埻端璽㬇國<lb/>
+<pb n="KR4h0134_WYG_057-17b"/>
+　　　大江北江南江浙江廬淮湘漢濛温潁汝涇渭<lb/>
+　　　白沅贑泗鬱肄潢洛汾沁濟潦虖沱漳水<hi>以上</hi>
+　　　<hi>海内東經圖</hi>
+　　　封豕<lb/>
+　　　鼯鼠<lb/>
+　　　弱水<lb/>
+　　　都廣之野<lb/>
+　　　猩猩<lb/>
+<pb n="KR4h0134_WYG_057-18a"/>
+　　　若木<lb/>
+　　　翡翠<lb/>
+　　　欵冬<lb/>
+　　　鬼草<lb/>
+　　　蟒蛇<lb/>
+　　　枳首蛇<lb/>
+　　　䲃魚<lb/>
+　　　飛魚<lb/>
+<pb n="KR4h0134_WYG_057-18b"/>
+　　　焦堯<hi>以上補遺</hi>
+　　　釋天地圖讚<lb/>
+　　　星圖讚<lb/>
+　　　炎山讚<lb/>
+　　　筆讚<lb/>
+　　　龜讚<lb/>
+　　　蚌讚<lb/>
+　　　蟬讚<lb/>
+<pb n="KR4h0134_WYG_057-19a"/>
+　　　螢火讚<lb/>
+　　　芣苢讚<lb/>
+　　　杜若讚<lb/>
+　　　芙蓉讚<lb/>
+　　　麻讚<lb/>
+　　　珪讚<lb/>
+　　　尺蠖讚<lb/>
+　　　菊讚<lb/>
+<pb n="KR4h0134_WYG_057-19b"/>
+　　　萍讚<lb/>
+　　　巻施讚<lb/>
+　　　螳蜋讚<lb/>
+　　　麟讚<lb/>
+　　　比肩獸讚<lb/>
+　　　鼎讚<lb/>
+　　　金銀讚<lb/>
+　　　柚讚<lb/>
+<pb n="KR4h0134_WYG_057-20a"/>
+　　　梧桐讚<lb/>
+　　　燕讚<lb/>
+　　　馬讚<lb/>
+　　　貔讚<lb/>
+　　　鼮鼠讚<lb/>
+　　　鼷鼠讚<lb/>
+　　　鼫鼠讚<lb/>
+　　記<lb/>
+<pb n="KR4h0134_WYG_057-20b"/>
+　　　遷州記<hi>缺</hi>
+　　詩<lb/>
+　　　贈温嶠<lb/>
+　　　遊仙詩<hi>十四首</hi>
+　　　贈潘尼<lb/>
+　　　春<lb/>
+　　　夏<lb/>
+　　　别<lb/>
+<pb n="KR4h0134_WYG_057-21a"/>
+　　　題墓詩<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR4h0134_WYG_057-21b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　漢魏六朝百三家集巻五十七目録<lb/>
+<pb n="KR4h0134_WYG_057-22a"/>
+欽定四庫全書<lb/>
+　漢魏六朝百三家集巻五十七<lb/>
+　　　　　　　　　　　　　明　張溥　輯<lb/>
+　晉郭璞集<lb/>
+　　南山經圗讚<lb/>
+　　　桂<lb/>
+桂生南裔拔萃岑嶺廣莫熈葩凌霜津潁氣王百藥森<lb/>
+然雲挺<lb/>
+<pb n="KR4h0134_WYG_057-22b"/>
+　　　迷榖<lb/>
+爰有竒樹産自招揺厥華流光上映垂霄佩之不惑濳<lb/>
+有靈標<lb/>
+　　　狌狌<lb/>
+狌狌似㺅走立行伏櫰木挺力少辛明目蜚廉迅足豈<lb/>
+食斯肉<lb/>
+　　　水玉<lb/>
+水玉沐浴濳映洞淵赤松是服靈蛻乘煙吐納六氣昇<lb/>
+<pb n="KR4h0134_WYG_057-23a"/>
+降九天<lb/>
+　　　白猿<lb/>
+白猿肆巧繇基撫弓應眄而號神有先中數如循環其<lb/>
+妙無窮<lb/>
+　　　鹿蜀<lb/>
+鹿蜀之獸馬質虎文攘首吟鳴矯足騰羣佩其皮尾子<lb/>
+孫如雲<lb/>
+　　　鯥<lb/>
+<pb n="KR4h0134_WYG_057-23b"/>
+魚號曰鯥處不在水厥狀如牛鳥翼蛇尾隨時隱見倚<lb/>
+乎生死<lb/>
+　　　類<lb/>
+類之為獸一體兼二近取諸身用不假器窈窕是佩不<lb/>
+知妬忌<lb/>
+　　　猼<graphic n="KR1138" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1138.png" mimeType="image/png"/>
+猼<graphic n="KR1138" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1138.png" mimeType="image/png"/>似羊眼反在背視之則竒推之無怪若欲不恐厥<lb/>
+皮可佩<lb/>
+<pb n="KR4h0134_WYG_057-24a"/>
+　　　祝荼草旋龜<graphic n="KR2112" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2112.png" mimeType="image/png"/>
+                    <graphic n="KR1872" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1872.png" mimeType="image/png"/>魚<lb/>
+祝荼嘉草食之不饑鳥首虺尾其名旋龜<graphic n="KR2112" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2112.png" mimeType="image/png"/>
+                    <graphic n="KR1872" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1872.png" mimeType="image/png"/>六足三<lb/>
+翅竝翬<lb/>
+　　　灌灌鳥赤鱬<lb/>
+厥聲如訶厥形如鳩佩之辨惑出自青丘赤鱬之物魚<lb/>
+身人頭<lb/>
+　　　鴸鳥<lb/>
+彗星横天鯨魚死浪鴸鳴於邑賢士見放厥理至微言<lb/>
+<pb n="KR4h0134_WYG_057-24b"/>
+之無況<lb/>
+　　　猾褢<lb/>
+猾褢之獸見則興役膺政而出匪亂不適天下有道幽<lb/>
+形匿跡<lb/>
+　　　長右彘<lb/>
+長右四耳厥狀如㺅實為水祥見則横流彘虎其身厥<lb/>
+尾如牛<lb/>
+　　　㑹稽山<lb/>
+<pb n="KR4h0134_WYG_057-25a"/>
+禹徂㑹稽爰朝羣臣不䖍是討乃戮長人玉匱表夏𤣥<lb/>
+石勒秦<lb/>
+　　　䍺<lb/>
+有獸無口其名曰䍺害氣不入厥體無間至理之盡出<lb/>
+乎自然<lb/>
+　　　犀<lb/>
+犀頭如猪形兼牛質角則倂三分身互出鼓鼻生風壯<lb/>
+氣隘溢<lb/>
+<pb n="KR4h0134_WYG_057-25b"/>
+　　　兕<lb/>
+兕推壯獸似牛青黑力無不傾自焚以革及充武備角<lb/>
+助文徳<lb/>
+　　　象<lb/>
+象實魁梧體巨貎詭肉兼十牛目不踰豕望頭如尾動<lb/>
+若丘徙<lb/>
+　　　纂雕瞿如鳥虎蛟<lb/>
+纂雕有角聲若兒號瞿如三手厥狀似鵁魚身蛇尾是<lb/>
+<pb n="KR4h0134_WYG_057-26a"/>
+謂虎蛟<lb/>
+　　　鳯<lb/>
+鳯皇靈鳥實冠羽羣八象其體五徳其文羽翼來儀應<lb/>
+我聖君<lb/>
+　　　育隧谷<lb/>
+育隧之谷爰含凱風青陽旣謝氣應祝融炎雰是扇以<lb/>
+散鬱隆<lb/>
+　　　鱄魚顒鳥<lb/>
+<pb n="KR4h0134_WYG_057-26b"/>
+顒鳥栖林鱄魚處淵俱為旱徵災延普天測之無象厥<lb/>
+數推𤣥<lb/>
+　　　白䓘<lb/>
+白䓘睪蘇其汁如飴食之辟榖味有餘滋逍遥忘勞窮<lb/>
+生盡期<lb/>
+　　西山經圖讚<lb/>
+　　　羬羊<lb/>
+月氏之羊其類在野厥髙六尺尾亦如馬何以審之事<lb/>
+<pb n="KR4h0134_WYG_057-27a"/>
+見爾雅<lb/>
+　　　太華山<lb/>
+華嶽靈峻削成四方爰有神女是挹玉漿其誰逰之龍<lb/>
+駕雲裳<lb/>
+　　　肥遺蛇<lb/>
+肥遺為物與災合契鼓翼陽山以表亢厲桑林旣禱倐<lb/>
+忽濳逝<lb/>
+　　　䳋渠赤鷩鳥文莖木鴖鳥<lb/>
+<pb n="KR4h0134_WYG_057-27b"/>
+䳋渠已殃赤鷩辟火文莖愈聾是則嘉果鴖亦衛災厥<lb/>
+形惟麽<lb/>
+　　　流赭<lb/>
+沙則濳流亦有運赭于以求鐵趨在其下蠲牛之癘作<lb/>
+采于社<lb/>
+　　　豪彘<lb/>
+剛鬛之族號曰豪彘毛如攢錐中有激矢厥體兼資自<lb/>
+為牝牡<lb/>
+<pb n="KR4h0134_WYG_057-28a"/>
+　　　黄雚草肥遺鳥囂獸<lb/>
+浴疾之草厥子赭赤肥遺似鶉其肉已疫囂獸長臂為<lb/>
+物好擲<lb/>
+　　　槖<graphic n="KR1446" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1446.png" mimeType="image/png"/>
+有似人靣一脚孤立性與時反冬出夏蟄帶其羽毛迅<lb/>
+雷不入<lb/>
+　　　桃枝<lb/>
+嶓冢美竹厥號桃枝叢薄幽藹從容鬱猗簟以安寢杖<lb/>
+<pb n="KR4h0134_WYG_057-28b"/>
+以扶危<lb/>
+　　　杜衡<lb/>
+狌狌犇人杜衡走馬理固須因體亦有假足駿在感安<lb/>
+事御者<lb/>
+　　　蓇容草邉谿獸櫟鳥<lb/>
+有華無實蓇容之樹邉谿類狗皮厭妖蠱黑文赤翁鳥<lb/>
+愈隱痔<lb/>
+　　　礜石<lb/>
+<pb n="KR4h0134_WYG_057-29a"/>
+稟氣方殊舛錯理微礜石殺䑕蠶食而肥物性雖反齊<lb/>
+之一歸<lb/>
+　　　<graphic n="KR1649" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1649.png" mimeType="image/png"/>如<lb/>
+<graphic n="KR1649" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1649.png" mimeType="image/png"/>如之獸鹿狀四角馬足人手其尾則白貎兼三形攀<lb/>
+木縁石<lb/>
+　　　鸚䳇<lb/>
+鸚䳇慧鳥青羽赤喙四指中分行則以觜自貽伊籠見<lb/>
+幽坐趾<lb/>
+<pb n="KR4h0134_WYG_057-29b"/>
+　　　數斯鳥<graphic n="KR2261" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2261.png" mimeType="image/png"/>獸鸓鳥<lb/>
+數斯人脚厥狀似鴟<graphic n="KR2261" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2261.png" mimeType="image/png"/>獸大眼有鳥名鸓兩頭四足翔<lb/>
+若合飛<lb/>
+　　　鸞鳥<lb/>
+鸞翔女牀鳯出丹穴拊翼相和以應聖哲擊石靡詠韶<lb/>
+音其絶<lb/>
+　　　鳬徯鳥朱厭獸<lb/>
+鳬徯朱厭見則有兵類異感同理不虚行推之自然厥<lb/>
+<pb n="KR4h0134_WYG_057-30a"/>
+數難明<lb/>
+　　　蠻蠻<lb/>
+比翼之鳥似鳬青赤雖云一形氣同體隔延頸離鳥翻<lb/>
+飛合翮<lb/>
+　　　丹木玉膏<lb/>
+丹木煒燁沸沸玉膏黄軒是服遂攀龍豪眇然升遐羣<lb/>
+下烏號<lb/>
+　　　瑾瑜玉<lb/>
+<pb n="KR4h0134_WYG_057-30b"/>
+鍾山之寳爰有玉華光彩流映氣如虹霞君子是佩象<lb/>
+徳閑邪<lb/>
+　　　鍾山之子鼔欽䲹<lb/>
+欽䲹及鼓是殺祖江帝乃戮之崑崙之東二子皆化矯<lb/>
+翼亦同<lb/>
+　　　鰩魚<lb/>
+見則邑穰厥名曰鰩經營二海矯翼閒霄唯味之竒見<lb/>
+歎伊庖<lb/>
+<pb n="KR4h0134_WYG_057-31a"/>
+　　　神英招<lb/>
+槐江之山英招是主巡逰四海撫翼雲儛實惟帝囿有<lb/>
+謂𤣥圃<lb/>
+　　　榣木<lb/>
+榣惟靈樹爰生若木重根増駕流光㫄燭食之靈化榮<lb/>
+名仙録<lb/>
+　　　崑崙丘<lb/>
+崑崙月精水之靈府惟帝下都西姥之宇嵥然中峙號<lb/>
+<pb n="KR4h0134_WYG_057-31b"/>
+曰天柱<lb/>
+　　　神陸吾<lb/>
+肩吾得一以處崑崙開明是對司帝之門吐納靈氣熊<lb/>
+熊魂魂<lb/>
+　　　土螻獸欽原鳥<lb/>
+土螻食人四角似羊欽原類蜂大如鴛鴦觸物則斃其<lb/>
+銳難當<lb/>
+　　　沙棠<lb/>
+<pb n="KR4h0134_WYG_057-32a"/>
+安得沙棠制為龍舟汎彼滄海眇然遐逰聊以逍遥任<lb/>
+波去畱<lb/>
+　　　鶉鳥沙棠實薲草<lb/>
+司帝百服其鳥名鶉沙棠之實惟果是珍爰有竒菜厥<lb/>
+號曰薲<lb/>
+　　　神長乘<lb/>
+九徳之氣是生長乘人狀豹尾其神則凝妙物自濳世<lb/>
+無得稱<lb/>
+<pb n="KR4h0134_WYG_057-32b"/>
+　　　西王母<lb/>
+天帝之女蓬髪虎顔穆王執贄賦詩交歡韻外之事難<lb/>
+以具言<lb/>
+　　　積石<lb/>
+積石之中實生重河夏后是導石門湧波珍物斯備比<lb/>
+竒崑阿<lb/>
+　　　白帝少昊<lb/>
+少昊之帝號曰金天磈氏之宮亦在此山是司日入其<lb/>
+<pb n="KR4h0134_WYG_057-33a"/>
+景則圎<lb/>
+　　　猙<lb/>
+章峩之山竒怪所宅有獸似豹厥色惟赤五尾一角鳴<lb/>
+如擊石<lb/>
+　　　畢方<lb/>
+畢方赤文離精是炳旱則髙翔鼓翼陽景集乃流災火<lb/>
+不炎正<lb/>
+　　　文貝<lb/>
+<pb n="KR4h0134_WYG_057-33b"/>
+先民有作龜貝為貨貴以文彩賈以小大簡則易資犯<lb/>
+而不過<lb/>
+　　　天狗<lb/>
+乾麻不長天狗不大厥質雖小禳災除害氣之相旺在<lb/>
+乎食帶<lb/>
+　　　三青鳥<lb/>
+山名三危青鳥所憩徃來崑崙王母是隸穆王西征旋<lb/>
+軫斯地<lb/>
+<pb n="KR4h0134_WYG_057-34a"/>
+　　　江疑獓<graphic n="KR2525" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2525.png" mimeType="image/png"/>獸<graphic n="KR2253" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2253.png" mimeType="image/png"/>鳥<lb/>
+江疑所居風雲是濳獸有獓<graphic n="KR2525" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2525.png" mimeType="image/png"/>毛如披蓑<graphic n="KR2253" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2253.png" mimeType="image/png"/>鳥一頭厥<lb/>
+身則兼<lb/>
+　　　神耆童<lb/>
+顓頊之子嗣作火正鏗鏘其鳴聲如鐘磬處于騩山唯<lb/>
+靈之盛<lb/>
+　　　帝江<lb/>
+質則混沌神則旁通自然靈照聼不以聰強為之名曰<lb/>
+<pb n="KR4h0134_WYG_057-34b"/>
+惟帝江<lb/>
+　　　獂獸鵸䳜鳥<lb/>
+鵸䳜三頭獂獸三尾俱禦不祥消凶辟眯君子服之不<lb/>
+逢不韙<lb/>
+　　　當扈<lb/>
+鳥飛以翼當扈則鬚廢多任少沛然有餘輪運於轂至<lb/>
+用在無<lb/>
+　　　白狼<lb/>
+<pb n="KR4h0134_WYG_057-35a"/>
+矯矯白狼有道則逰應符變質乃銜靈鉤惟徳是適出<lb/>
+殷見周<lb/>
+　　　白虎<lb/>
+甝□之虎仁而有猛其質載皓其文載炳應徳而擾止<lb/>
+我交境<lb/>
+　　　駮<lb/>
+駮惟馬類實畜之英騰髦驤首嘘天雷鳴氣無不凌吞<lb/>
+虎辟兵<lb/>
+<pb n="KR4h0134_WYG_057-35b"/>
+　　　神魑蠻蠻髯遺魚<lb/>
+其音如吟一脚人面䑕身鼈頭厥號曰蠻目如馬耳食<lb/>
+厭妖變<lb/>
+　　　櫰木<lb/>
+櫰之為木厥形似槤若能長服拔樹排山力則有之夀<lb/>
+亦宜然<lb/>
+　　　鳥䑕同穴山<lb/>
+䳜□二蟲殊類同歸聚不以方或走或飛不然之然難<lb/>
+<pb n="KR4h0134_WYG_057-36a"/>
+以理推<lb/>
+　　　<graphic n="KR1736" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1736.png" mimeType="image/png"/>魮魚<lb/>
+形如覆銚包玉含珠有而不積泄以尾閭闇與道會可<lb/>
+謂竒魚<lb/>
+　　　丹木<lb/>
+爰有丹木生彼洧盤厥實如𤓰其味甘酸蠲痾辟火用<lb/>
+竒桂蘭<lb/>
+　　　窮竒獸蠃魚孰湖獸<lb/>
+<pb n="KR4h0134_WYG_057-36b"/>
+窮竒如牛蝟毛自表濛水之蠃匪魚伊鳥孰湖之獸見<lb/>
+人則抱<lb/>
+　　　鰠魚<lb/>
+物以感應亦不數動壯士挺劍氣激白虹鰠魚濳淵出<lb/>
+則邑悚<lb/>
+　　北山經圖讚<lb/>
+　　　水馬<lb/>
+馬寔龍精爰出水類渥洼之駿是靈是瑞昔在夏后亦<lb/>
+<pb n="KR4h0134_WYG_057-37a"/>
+有何駟<lb/>
+　　　儵魚<lb/>
+涸和損平莫惨於憂詩詠萱草帶山則儵壑焉遺岱聊<lb/>
+以盤逰<lb/>
+　　　䑏疏獸鵸䳜鳥何羅魚<lb/>
+厭火之獸厥名䑏疏有鳥自化號曰鵸䳜一頭十身何<lb/>
+羅之魚<lb/>
+　　　孟槐<lb/>
+<pb n="KR4h0134_WYG_057-37b"/>
+孟槐似貆其豪則赤列象畏獸凶邪是辟氣之相勝莫<lb/>
+見其迹<lb/>
+　　　鰼鰼魚<lb/>
+鼓翮一揮十翼翩翻厥鳴如鵲鱗在羽端是謂怪魚食<lb/>
+之辟燔<lb/>
+　　　槖駝<lb/>
+駝惟竒畜肉鞍是被迅景流沙顯功絶地濳識泉源微<lb/>
+乎其智<lb/>
+<pb n="KR4h0134_WYG_057-38a"/>
+　　　耳䑕<lb/>
+蹠實以足排虚以羽翹尾飜飛竒哉耳䑕厥皮惟良百<lb/>
+毒是禦<lb/>
+　　　幽鴳<lb/>
+幽鴳似㺅俾愚作智觸物則笑見人佯睡好用小慧終<lb/>
+是嬰繫<lb/>
+　　　寓鳥孟極足訾獸<lb/>
+䑕而傅翼厥聲如羊孟極似豹或倚無良見人則呼號<lb/>
+<pb n="KR4h0134_WYG_057-38b"/>
+曰足訾<lb/>
+　　　鵁鳥<lb/>
+毛如雌雉朋翔羣下飛則籠日集則蔽野肉驗鍼石不<lb/>
+勞補寫<lb/>
+　　　諸犍獸白鵺竦斯鳥<lb/>
+諸犍善吒行則銜尾白鵺竦斯厥狀如雉見人則跳頭<lb/>
+文如繡<lb/>
+　　　磁石<lb/>
+<pb n="KR4h0134_WYG_057-39a"/>
+磁石吸鐡瑇瑁取芥氣有濳感數亦㝠會物之相投出<lb/>
+乎意外<hi>瑇瑁一作琥珀</hi>
+　　　旄牛<lb/>
+牛充兵機兼之者旄冠于旌鼓為軍之標匪肉致災亦<lb/>
+毛之招<lb/>
+　　　長蛇<lb/>
+長蛇百尋厥鬛如彘飛羣走類靡不吞噬極物之惡盡<lb/>
+毒之厲<lb/>
+<pb n="KR4h0134_WYG_057-39b"/>
+　　　山<graphic n="KR0968" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0968.png" mimeType="image/png"/>
+山<graphic n="KR0968" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0968.png" mimeType="image/png"/>之獸見人歡謔厥性善投行如矢激是惟氣精出<lb/>
+則風作<hi>謔一作虎</hi>
+　　　窫窳諸懷獸䲃魚肥遺蛇<lb/>
+窫窳諸懷是則害人䲃之為狀羊鱗黑文肥遺之蛇一<lb/>
+頭兩身<lb/>
+　　　鮆魚<lb/>
+陽鑒動日土蛇致宵微哉鮆魚食則不驕物在所感其<lb/>
+<pb n="KR4h0134_WYG_057-40a"/>
+用無標<lb/>
+　　　狍鴞<lb/>
+狍鴞貪惏其目在腋食人未盡還自齦割圖形妙鼎是<lb/>
+謂不若<lb/>
+　　　狕閭<graphic n="KR1411" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1411.png" mimeType="image/png"/>馬獨𤞞<lb/>
+有獸如豹厥文惟縟閭善躍嶮<graphic n="KR1411" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1411.png" mimeType="image/png"/>馬一角虎狀馬尾號<lb/>
+曰獨𤞞<lb/>
+　　　<graphic n="KR1829" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1829.png" mimeType="image/png"/>
+                    <graphic n="KR2061" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2061.png" mimeType="image/png"/>
+<pb n="KR4h0134_WYG_057-40b"/>
+禦暍之鳥厥名<graphic n="KR1829" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1829.png" mimeType="image/png"/>
+                    <graphic n="KR2061" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2061.png" mimeType="image/png"/>昏明是互晝隱夜覿物貴應用安<lb/>
+事鸞鵠<lb/>
+　　　居曁獸囂鳥三桑<lb/>
+居曁豚鳴如彚赤毛四翼一目其名曰囂三桑無枝厥<lb/>
+樹唯髙<lb/>
+　　　䮝獸<lb/>
+䮝獸四角馬尾有距渉歴歸山騰嶮躍岨厥貎惟竒如<lb/>
+是旋舞<lb/>
+<pb n="KR4h0134_WYG_057-41a"/>
+　　　天馬<lb/>
+龍馮雲遊騰蛇假霧未若天馬自然凌翥有理懸運天<lb/>
+機濳御<lb/>
+　　　鶌居<lb/>
+鶌居如烏青身黄足食之不饑可以辟榖内厥唯珍配<lb/>
+彼丹木<lb/>
+　　　飛鼠<lb/>
+或以尾翔或以髯凌飛鼠鼓翰翛然皆騰用無常所惟<lb/>
+<pb n="KR4h0134_WYG_057-41b"/>
+神是馮<lb/>
+　　　䴅䴅象蛇<graphic n="KR1515" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1515.png" mimeType="image/png"/>父魚<lb/>
+有鳥善驚名曰䴅䴅象蛇似雉自生子孫<graphic n="KR1515" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1515.png" mimeType="image/png"/>父魚首厥<lb/>
+體如豚<lb/>
+　　　酸與<lb/>
+景山有鳥稟形殊類厥狀如蛇脚二翼四見則色恐食<lb/>
+之不醉<lb/>
+　　　鴣<graphic n="KR2570" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2570.png" mimeType="image/png"/>黄鳥<lb/>
+<pb n="KR4h0134_WYG_057-42a"/>
+鴣<graphic n="KR2570" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2570.png" mimeType="image/png"/>之鳥食之不瞧爰有黄鳥其鳴自呌婦人是服矯<lb/>
+情易操<lb/>
+　　　精衛<lb/>
+炎帝之女化為精衛沈形東海靈爽西邁乃銜木石以<lb/>
+塡波害<lb/>
+　　　䍶䍶羆九獸大蛇<lb/>
+䍶䍶似羊眼在耳後竅生尾上號曰羆九幽都之山大<lb/>
+蛇牛呴<lb/>
+<pb n="KR4h0134_WYG_057-42b"/>
+　　東山經圖讚<lb/>
+　　　鱅鱅魚<graphic n="KR1703" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1703.png" mimeType="image/png"/>
+                    <graphic n="KR1703" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1703.png" mimeType="image/png"/>獸䖪䑕<lb/>
+魚號鱅鱅如牛虎駮<graphic n="KR1703" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1703.png" mimeType="image/png"/>
+                    <graphic n="KR1703" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1703.png" mimeType="image/png"/>之狀似狗六脚䖪䑕如雞見<lb/>
+則旱涸<lb/>
+　　　䖺䗤<lb/>
+䖺䗤蛇狀振翼灑光憑波騰逝出入江湘見則歲旱是<lb/>
+維火祥<lb/>
+　　　狪狪<lb/>
+<pb n="KR4h0134_WYG_057-43a"/>
+蚌則含珠獸胡不可狪狪如豚被褐懷禍患難無繇招<lb/>
+之自我<lb/>
+　　　堪㐨魚軨軨獸<lb/>
+堪㐨軨軨殊氣同占見則洪水天下昏墊豈伊妄降亦<lb/>
+應圖䜟<lb/>
+　　　珠蟞魚<lb/>
+澧水之鮮形如浮肺體兼三才以貨賈害厥用既多何<lb/>
+以自衛<lb/>
+<pb n="KR4h0134_WYG_057-43b"/>
+　　　犰狳<lb/>
+犰狳之獸見人佯眠與災協氣出則無年此豈能為歸<lb/>
+之於天<lb/>
+　　　狸力獸<graphic n="KR1916" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1916.png" mimeType="image/png"/>胡鳥<lb/>
+狸力<graphic n="KR1916" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1916.png" mimeType="image/png"/>胡或飛或伏是惟土祥出興功築長城之役同<lb/>
+集秦域<lb/>
+　　　朱獳<lb/>
+朱獳無竒見則色駭通感靡誠維數所在因事而作未<lb/>
+<pb n="KR4h0134_WYG_057-44a"/>
+始無待<lb/>
+　　　獙獙蠪蚳獸絜鉤鳥<lb/>
+獙獙如狐有翼不飛九尾虎爪號曰蠪蚳絜鉤似鳬見<lb/>
+則民悲<lb/>
+　　　峳峳<lb/>
+治在得賢亡由失人峳峳之來乃致狡賔歸之㝠應誰<lb/>
+見其津<lb/>
+　　　蠵龜<lb/>
+<pb n="KR4h0134_WYG_057-44b"/>
+水圓四十濳源溢沸靈龜爰處掉尾養氣莊生是感揮<lb/>
+竿傲貴<lb/>
+　　　妴胡精精獸鮯鮯魚<lb/>
+妴胡之狀似麋魚眼精精如牛以尾自辨鮯鮯所濳厥<lb/>
+深無限<lb/>
+　　　猲狙獸鬿雀<lb/>
+猲狙狡獸鬿雀惡鳥或狼其體或虎其爪安用甲兵擾<lb/>
+之以道<lb/>
+<pb n="KR4h0134_WYG_057-45a"/>
+　　　芑木<lb/>
+馬維剛駿塗之芑汁不勞孫陽自然閒習厥術無方理<lb/>
+有濳執<lb/>
+　　　茈魚薄魚<lb/>
+有魚十身蘼蕪其臭食之和體氣不下溜薄之躍淵是<lb/>
+維災候<lb/>
+　　　合窳<lb/>
+豬身人面號曰合窳厥性貪殘物為不咀至陰之精見<lb/>
+<pb n="KR4h0134_WYG_057-45b"/>
+則水雨<lb/>
+　　　當康獸䱻魚<lb/>
+當康如豚見則歲穰䱻魚鳥翼飛乃流光以出殊應或<lb/>
+災或祥<lb/>
+　　　蜚<lb/>
+蜚則災獸跂踵厲深㑹所經渉竭水槁林禀氣自然體<lb/>
+此殃淫<lb/>
+　　中山經圖讚<lb/>
+<pb n="KR4h0134_WYG_057-46a"/>
+　　　桃林<lb/>
+桃林之谷實惟塞野武王克商休牛風馬阨越三塗作<lb/>
+嶮西夏<lb/>
+　　　鳴石<lb/>
+金石同類濳響是韞擊之雷駭厥聲逺聞茍以數通氣<lb/>
+無不運<lb/>
+　　　旋龜人魚修辟<lb/>
+聲如破木號曰旋龜修辟似黽厥鳴如䲭人魚類䱱出<lb/>
+<pb n="KR4h0134_WYG_057-46b"/>
+于洛伊<lb/>
+　　　帝䑓棋<lb/>
+茫茫帝臺維靈之貴爰有石棋五彩煥蔚觴禱百神以<lb/>
+和天氣<lb/>
+　　　若華烏酸草<lb/>
+療瘧之草厥實如𤓰烏酸之葉三成黄華可以為毒不<lb/>
+畏蚖蛇<lb/>
+　　　䔄草<lb/>
+<pb n="KR4h0134_WYG_057-47a"/>
+䔄草黄華實如莵絲君子是佩人服媚之帝女所化其<lb/>
+理難思<lb/>
+　　　山膏獸黄棘<lb/>
+山膏如豚厥性好罵黄棘是食匪子匪化雖無貞操理<lb/>
+同不嫁<lb/>
+　　　三足龜<lb/>
+造物維均靡偏靡頗少不為短長不為多賁能三足何<lb/>
+異黿鼉<lb/>
+<pb n="KR4h0134_WYG_057-47b"/>
+　　　嘉榮<lb/>
+霆維天精動心駭目曷以禦之嘉榮是服所正者神用<lb/>
+口腸腹<lb/>
+　　　天楄牛傷文獸鰧魚<lb/>
+牛傷鎭氣天楄弭噎文獸如蜂枝尾反舌鰧魚赤斑處<lb/>
+于逵穴<lb/>
+　　　帝休<lb/>
+帝休之樹厥枝交對竦本少室曾陰雲䨴君子服之匪<lb/>
+<pb n="KR4h0134_WYG_057-48a"/>
+怒伊愛<lb/>
+　　　泰室<lb/>
+嵩維岳宗華岱恒衡氣通天漢神洞幽明巍然中立衆<lb/>
+山之英<hi>天漢一作元漠</hi>
+　　　栯木<lb/>
+爰有嘉樹厥名曰栯薄言采之窈窕是服君子維歡家<lb/>
+無反目<lb/>
+　　　<graphic n="KR1938" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1938.png" mimeType="image/png"/>草<lb/>
+<pb n="KR4h0134_WYG_057-48b"/>
+<graphic n="KR1938" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1938.png" mimeType="image/png"/>草赤莖實如蘡薁食之益智忽不自覺殆齊生知功<lb/>
+竒於學<lb/>
+　　　鶡鳥<lb/>
+鶡之為鳥同羣相為畸類被侵雖死不避毛飾武士兼<lb/>
+厲以義<lb/>
+　　　鳴蛇化蛇<lb/>
+鳴化二蛇同類異狀拂翼俱逰騰波漂浪見則竝災或<lb/>
+滛或亢<lb/>
+<pb n="KR4h0134_WYG_057-49a"/>
+　　　赤銅<lb/>
+昆吾之山名銅所在切玉如泥火炙有彩尸子所歎驗<lb/>
+之彼宰<hi>彼一作汲</hi>
+　　　神熏池<lb/>
+泰逢虎尾武羅人面熏池之神厥狀不見爰有美玉河<lb/>
+林如蒨<lb/>
+　　　神武羅<lb/>
+有神武羅細腰白齒聲如鳴珮以鐻貫耳司帝宻都是<lb/>
+<pb n="KR4h0134_WYG_057-49b"/>
+宜女子<lb/>
+　　　鴢鳥<lb/>
+鴢鳥似鳬翠羽朱目旣麗其形亦竒其肉婦女是食子<lb/>
+孫繁育<lb/>
+　　　荀草<lb/>
+荀草赤實厥狀如菅婦人服之練色易顔夏姫是艶厥<lb/>
+媚三遷<lb/>
+　　　馬腹獸飛魚<lb/>
+<pb n="KR4h0134_WYG_057-50a"/>
+馬腹之物人面似虎飛魚如豚赤文無羽食之辟兵不<lb/>
+畏雷鼓<lb/>
+　　　神泰逢<lb/>
+神號泰逢好遊山陽濯足九州出入流光天氣是動孔<lb/>
+甲迷惶<lb/>
+　　　葪栢<lb/>
+葪栢白華厥子如丹實肥變氣食之忘寒物隨所染墨<lb/>
+子所歎<lb/>
+<pb n="KR4h0134_WYG_057-50b"/>
+　　　橘櫾<lb/>
+厥包橘櫾竒者維甘朱實金鮮葉蒨翠藍靈均是詠以<lb/>
+為美談<lb/>
+　　　<graphic n="KR1668" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1668.png" mimeType="image/png"/>
+大騩之山爰有苹草青華白實食之無夭雖不增齡可<lb/>
+以窮老<lb/>
+　　　鮫魚<lb/>
+魚之别屬厥號曰鮫珠皮毒尾匪鱗匪毛可以錯角兼<lb/>
+<pb n="KR4h0134_WYG_057-51a"/>
+飾劒刀<lb/>
+　　　鴆鳥<lb/>
+蝮維毒魁鴆鳥是噉拂翼鳴林草瘁木慘羽行隱戮厥<lb/>
+罰難犯<lb/>
+　　　椒<lb/>
+椒之灌植實繁有倫拂穎霑霜朱實芬辛服之不已洞<lb/>
+見通神<hi>倫一本作榛</hi>
+　　　神<graphic n="KR2416" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2416.png" mimeType="image/png"/>圍計蒙渉<graphic n="KR2416" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2416.png" mimeType="image/png"/>
+<pb n="KR4h0134_WYG_057-51b"/>
+渉<graphic n="KR2416" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2416.png" mimeType="image/png"/>三腳<graphic n="KR2416" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2416.png" mimeType="image/png"/>圍虎爪計蒙龍首獨稟異表升降風雨茫<lb/>
+茫𣺌𣺌<lb/>
+　　　岷山<lb/>
+岷山之精上絡東井始出一勺終致淼㝠作紀南夏天<lb/>
+清地静<lb/>
+　　　䕫牛<lb/>
+西南巨牛出自江岷體若垂雲肉盈千鈞雖有逸力難<lb/>
+以揮輪<lb/>
+<pb n="KR4h0134_WYG_057-52a"/>
+　　　崍山<lb/>
+卭崍峻嶮其坂九折王陽逡巡王尊逞節殷有三仁漢<lb/>
+稱二哲<lb/>
+　　　<graphic n="KR2579" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2579.png" mimeType="image/png"/>狼雍和<graphic n="KR2672" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2672.png" mimeType="image/png"/>獸<lb/>
+<graphic n="KR2579" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2579.png" mimeType="image/png"/>狼之出兵不外擊雍和作恐<graphic n="KR2672" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2672.png" mimeType="image/png"/>乃流疫同惡殊災氣<lb/>
+各有適<lb/>
+　　　蜼<lb/>
+寓屬之才莫過于蜼雨則自懸塞鼻以尾厥形雖隨列<lb/>
+<pb n="KR4h0134_WYG_057-52b"/>
+象宗彛<lb/>
+　　　熊穴<lb/>
+熊山有穴神人是出與彼石鼓象殊應一祥雖先見厥<lb/>
+事非吉<lb/>
+　　　跂踵<lb/>
+青耕禦疫跂踵降災物之相反各以氣來見則民咨實<lb/>
+為病媒<lb/>
+　　　蛟<lb/>
+<pb n="KR4h0134_WYG_057-53a"/>
+匪蛇匪龍鱗彩炳煥騰躍波濤蜿蜒江漢漢武飲羽飛<lb/>
+佽疊斷<lb/>
+　　　神耕父<lb/>
+清泠之水在乎山頂耕父是游流光灑景黔首祀禜以<lb/>
+弭災眚<lb/>
+　　　九鐘<lb/>
+嶢崩涇竭麟鬬日薄九鐘將鳴凌霜乃落氣之相應觸<lb/>
+感而作<lb/>
+<pb n="KR4h0134_WYG_057-53b"/>
+　　　嬰勺<lb/>
+支離之山有鳥似鵲白身赤眼厥尾如勺維彼有斗不<lb/>
+可以酌<lb/>
+　　　獜<lb/>
+有獸虎爪厥號曰獜好自跳撲鼓甲振奮若食其肉不<lb/>
+覺風迅<lb/>
+　　　帝臺漿<lb/>
+帝臺之水飲蠲心病靈府是滌和神養性食可逍遥濯<lb/>
+<pb n="KR4h0134_WYG_057-54a"/>
+髪浴泳<lb/>
+　　　狙如<lb/>
+狙如微蟲厥體無害見則師興兩陣交㑹物之所感焉<lb/>
+有小大<lb/>
+　　　帝女桑<lb/>
+爰有洪桑生濵淪潭厥圍五丈枝相交參園客是採帝<lb/>
+女所蠶<lb/>
+　　　梁渠<graphic n="KR2490" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2490.png" mimeType="image/png"/>即聞<graphic n="KR2113" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2113.png" mimeType="image/png"/>獸䳅鵌鳥<lb/>
+<pb n="KR4h0134_WYG_057-54b"/>
+梁渠致兵<graphic n="KR2490" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2490.png" mimeType="image/png"/>即起災䳅鵌辟火物各有能聞<graphic n="KR2113" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2113.png" mimeType="image/png"/>之見大<lb/>
+風乃來<lb/>
+　　　神于兒<lb/>
+于兒如人蛇頭有兩常遊江淵見于洞廣乍濳乍出神<lb/>
+光惚恍<lb/>
+　　　神二女<lb/>
+神之二女爰宅洞庭游化五江惚恍窈㝠號曰夫人是<lb/>
+維湘靈<lb/>
+<pb n="KR4h0134_WYG_057-55a"/>
+　　　飛蛇<lb/>
+騰蛇配龍因霧而躍雖欲登天雲罷陸莫材非所任難<lb/>
+以乆託<lb/>
+　　海外南經圖讚<lb/>
+　　　自此山來蟲為蛇蛇號為魚<lb/>
+賤無定貢貴無常珍物不自物名物由人萬事皆然豈<lb/>
+伊蛇鱗<lb/>
+　　　羽民國<lb/>
+<pb n="KR4h0134_WYG_057-55b"/>
+鳥喙長頰羽生則卵矯翼而翔龍飛不逺人維倮屬何<lb/>
+狀之反<lb/>
+　　　神人二八<lb/>
+羽民之東有神司夜二八連臂自相羈駕晝隱宵出詭<lb/>
+時淪化<lb/>
+　　　讙頭國<lb/>
+讙國鳥喙行則仗羽濳于海濵維食䄫秬實維嘉穀所<lb/>
+謂濡黍<lb/>
+<pb n="KR4h0134_WYG_057-56a"/>
+　　　厭火國<lb/>
+有人獸體厥狀怪譎吐絡炎精火隨氣烈推之無竒理<lb/>
+有不熱<lb/>
+　　　三珠樹<lb/>
+三珠所生赤水之際翹葉栢竦美壯若彗濯彩丹波自<lb/>
+相霞映<lb/>
+　　　臷國<lb/>
+不蠶不絲不稼不穡百獸率儛羣鳥拊翼是號臷民自<lb/>
+<pb n="KR4h0134_WYG_057-56b"/>
+然衣食<lb/>
+　　　貫胸交脛支舌國<lb/>
+鑠金洪鑪灑成萬品造物無私各任所稟歸於曲成是<lb/>
+見兆朕<lb/>
+　　　不死國<lb/>
+有人爰處員邱之上赤泉駐年神木養命稟此遐齡悠<lb/>
+悠無竟<lb/>
+　　　鑿齒國<lb/>
+<pb n="KR4h0134_WYG_057-57a"/>
+鑿齒人類實有傑牙猛越九嬰害過長蛇堯乃命羿斃<lb/>
+之壽華<lb/>
+　　　三首國<lb/>
+雖云一氣呼吸異道觀則俱見食則皆飽物形自周造<lb/>
+化非巧<lb/>
+　　　焦僥國<lb/>
+羣籟舛吹氣有萬殊大人三丈焦僥尺餘混之一歸此<lb/>
+亦僑如<lb/>
+<pb n="KR4h0134_WYG_057-57b"/>
+　　　長臂國<lb/>
+雙肱三尺體如巾人彼曷為者長臂之民修腳是負捕<lb/>
+魚海濵<lb/>
+　　　狄山帝堯葬于陽帝嚳葬于陰<lb/>
+聖徳廣被物無不懷爰乃殂落封墓表哀異類猶然矧<lb/>
+乃華黎<lb/>
+　　　視肉<lb/>
+聚肉有眼而無腸胃與彼馬勃頗相髣髴奇在不盡食<lb/>
+<pb n="KR4h0134_WYG_057-58a"/>
+人薄味<lb/>
+　　　南方祝融<lb/>
+祝融火神雲駕龍驂氣御朱明正陽是含作配炎帝列<lb/>
+位于南<lb/>
+　　海外西經圖讚<lb/>
+　　　夏后啓<lb/>
+筮御飛龍果儛九代雲融是揮玉璜是佩對揚帝徳禀<lb/>
+天靈誨<lb/>
+<pb n="KR4h0134_WYG_057-58b"/>
+　　　三身國一臂國<lb/>
+品物流行以散混沌増不為多減不為損厥變難原請<lb/>
+尋其本<lb/>
+　　　竒肱國<lb/>
+妙哉工巧竒肱之人因風搆思制為飛輪凌頽遂軌帝<lb/>
+湯是賔<lb/>
+　　　形天<lb/>
+爭神不勝為帝所戮遂厥形天臍口乳目仍揮干戚雖<lb/>
+<pb n="KR4h0134_WYG_057-59a"/>
+化不服<lb/>
+　　　女祭女戚<lb/>
+彼姝者子誰氏二女曷為水間操魚持爼厥儷安在離<lb/>
+羣逸處<lb/>
+　　　䳐鳥<graphic n="KR2485" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2485.png" mimeType="image/png"/>鳥<lb/>
+有鳥青黄號曰<graphic n="KR2485" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2485.png" mimeType="image/png"/>䳐與妖㑹合所集㑹至類則梟鶹厥<lb/>
+狀難媚<lb/>
+　　　丈夫國<lb/>
+<pb n="KR4h0134_WYG_057-59b"/>
+陰有偏化陽無産理丈夫之國王孟是始感靈所通桑<lb/>
+石無子<lb/>
+　　　女丑尸<lb/>
+十日竝熯女丑以斃暴于山阿揮袖自翳彼美誰子逢<lb/>
+天之厲<lb/>
+　　　巫咸<lb/>
+羣有十巫巫咸所綂經技是搜術藝是綜採藥靈山隨<lb/>
+時登降<lb/>
+<pb n="KR4h0134_WYG_057-60a"/>
+　　　并封<lb/>
+龍過無頭并封連載物狀相乖如驥分背數得自通尋<lb/>
+之愈閡<lb/>
+　　　女子國<lb/>
+簡狄有吞姜嫄有履女子之國浴于黄水乃娠乃字生<lb/>
+男則死<lb/>
+　　　軒轅國<lb/>
+軒轅之人承天之祐冬不襲衣夏不扇暑猶氣之和家<lb/>
+<pb n="KR4h0134_WYG_057-60b"/>
+為彭祖<lb/>
+　　　乘黄<lb/>
+飛黄竒駿乘之難老揣角輕騰忽若龍矯實鑒有徳乃<lb/>
+集厥皁<lb/>
+　　　滅䝉鳥大運山雄常樹<lb/>
+青質赤尾號曰滅蒙大運之山百仭三重雄常之樹應<lb/>
+徳而通<lb/>
+　　　龍魚<lb/>
+<pb n="KR4h0134_WYG_057-61a"/>
+龍魚一角似狸處陵俟時而出神聖攸乘飛騖九域乘<lb/>
+雲上昇<lb/>
+　　　西方蓐收<lb/>
+蓐收金神白毛虎爪珥蛇執鉞專司無道立號西阿恭<lb/>
+行天討<lb/>
+　　海外北經圖讚<lb/>
+　　　無䏿國<lb/>
+萬物相傳非子則根無䏿因心構肉生魂所以能然尊<lb/>
+<pb n="KR4h0134_WYG_057-61b"/>
+形者存<lb/>
+　　　燭龍<lb/>
+天缺西北龍銜火精氣為寒暑眼作昏明身長千里可<lb/>
+謂至神<lb/>
+　　　一目國<lb/>
+蒼四不多此一不少于野㝠瞽洞見無表形逰逆旅所<lb/>
+貴維眇<lb/>
+　　　柔利國<lb/>
+<pb n="KR4h0134_WYG_057-62a"/>
+柔利之人曲腳反肘子求之容方此無醜所貴者神形<lb/>
+於何有<lb/>
+　　　共工臣相栁<lb/>
+共工之臣號曰相栁禀此奇表蛇身九首恃力桀暴終<lb/>
+禽夏后<lb/>
+　　　深目國<lb/>
+深目類胡但胡絶縮軒轅道降欵塞歸服穿胸長腳同<lb/>
+㑹異族<lb/>
+<pb n="KR4h0134_WYG_057-62b"/>
+　　　聶耳國<lb/>
+聶耳之國海渚是縣雕虎斯使奇物畢見形有相須手<lb/>
+不離面<lb/>
+　　　夸父<lb/>
+神哉夸父難以理尋傾沙逐目遯形鄧林觸類而化應<lb/>
+無常心<lb/>
+　　　尋木<lb/>
+眇眇尋木生于河邉疎枝千里上干雲天垂陰四極下<lb/>
+<pb n="KR4h0134_WYG_057-63a"/>
+葢虞淵<lb/>
+　　　跂踵國<lb/>
+厥形雖大斯脚則企跳歩雀踴踵不閡地應徳而臻欵<lb/>
+塞歸義<lb/>
+　　　歐絲野<lb/>
+女子鮫人體近蠶蚌出珠匪甲吐絲匪蛹化出無方物<lb/>
+豈有種<lb/>
+　　　無腸國<lb/>
+<pb n="KR4h0134_WYG_057-63b"/>
+無腸之人厥體維洞心實靈府餘則外用得一自全理<lb/>
+無不共<lb/>
+　　　平丘<lb/>
+兩山之閒丘號曰平爰有遺玉駿馬維青視肉甘華奇<lb/>
+果所生<lb/>
+　　　騊駼<lb/>
+騊駼野駿産自北域交頸相摩分背翹陸雖有孫陽終<lb/>
+不能服<lb/>
+<pb n="KR4h0134_WYG_057-64a"/>
+　　　北方禺彊<lb/>
+禺彊水神靣色黧黒乘龍踐蛇凌雲附翼靈一𤣥㝠立<lb/>
+于此極<lb/>
+　　海外東經圖讚<lb/>
+　　　君子國<lb/>
+東方氣仁國有君子薰華是食雕虎是使雅好禮讓委<lb/>
+蛇論理<lb/>
+　　　天呉<lb/>
+<pb n="KR4h0134_WYG_057-64b"/>
+眈眈水伯號曰谷神八頭十尾人靣虎身龍據兩川威<lb/>
+無不震<lb/>
+　　　九尾狐<lb/>
+青丘奇獸九尾之狐有道翔見出則銜書作瑞周文以<lb/>
+標靈符<lb/>
+　　　豎亥<lb/>
+禹命豎亥青丘之北東盡太遠西窮邠國步履宇宙以<lb/>
+明靈徳<lb/>
+<pb n="KR4h0134_WYG_057-65a"/>
+　　　十日<lb/>
+十日竝出草木焦枯羿乃控弦仰落陽烏可謂洞感天<lb/>
+人懸符<lb/>
+　　　毛民國<lb/>
+牢悲海鳥西子駭麋或貴穴倮或尊裳衣物我相傾孰<lb/>
+了是非<lb/>
+　　　黒齒國雨師妾𤣥股國勞民國<lb/>
+陽谷之山國號黑齒雨師之妾以蛇掛耳𤣥股食䳼勞<lb/>
+<pb n="KR4h0134_WYG_057-65b"/>
+民黑趾<lb/>
+　　　東方勾芒<lb/>
+有神人面身鳥素服銜帝之命錫齡秦穆皇天無親行<lb/>
+善有福<lb/>
+　　海内南經圖讚<lb/>
+　　　梟陽<lb/>
+髴髴怪獸被髪操竹獲人則笑脣蔽其目終亦號咷反<lb/>
+為我戮<lb/>
+<pb n="KR4h0134_WYG_057-66a"/>
+　　　狌狌<lb/>
+狌狌之狀形乍如犬厥性識徃為物警辨以酒招災自<lb/>
+詒纓罥<lb/>
+　　　夏后啓臣孟涂<lb/>
+孟涂司巴聼訟是非厥理有曲血乃見衣所請靈斷嗚<lb/>
+呼神微<lb/>
+　　　建木<lb/>
+爰有建木黄實紫柯皮如蛇纓葉有素羅絶蔭弱水異<lb/>
+<pb n="KR4h0134_WYG_057-66b"/>
+人則過<lb/>
+　　　氐人<lb/>
+炎帝之苗實生氐人死則復蘇厥身為鱗雲南是託浮<lb/>
+游天津<lb/>
+　　　巴蛇<lb/>
+象實巨獸有蛇吞之越出其骨三年為期厥大何如屈<lb/>
+生是疑<lb/>
+　　海内西經圖讚<lb/>
+<pb n="KR4h0134_WYG_057-67a"/>
+　　　貳負臣危<lb/>
+漢擊磐石其中則危劉生是識羣臣莫知可謂博物山<lb/>
+海乃奇<lb/>
+　　　流黄鄷氏國<lb/>
+城圍三百連河比棟動是塵昏烝氣霧重焉得遊之以<lb/>
+遨以縱<lb/>
+　　　大澤方百里<lb/>
+地號積羽厥方百里羣鳥雲集鼓翅雷起穆王旋軫爰<lb/>
+<pb n="KR4h0134_WYG_057-67b"/>
+榮騄耳<lb/>
+　　　流沙<lb/>
+天限内外分以流沙經帶西極頹塘委蛇注于黑水永<lb/>
+溺餘波<lb/>
+　　　木禾<lb/>
+崑崙之陽鴻鷺之阿爰有嘉榖號曰木禾匪植匪藝自<lb/>
+然靈播<lb/>
+　　　開明<lb/>
+<pb n="KR4h0134_WYG_057-68a"/>
+開明天獸禀兹乾精虎身人面表此桀形瞪視崑山威<lb/>
+懾百靈<lb/>
+　　　文玉玗琪樹<lb/>
+文玉玗琪方以類叢翠葉猗萎丹柯玲瓏玉光爭煥彩<lb/>
+艷火龍<lb/>
+　　　不死樹<lb/>
+萬物暫見人生如寄不死之樹壽蔽天地請藥西姥烏<lb/>
+得如羿<lb/>
+<pb n="KR4h0134_WYG_057-68b"/>
+　　　甘水聖木<lb/>
+醴泉睿木養靈盡性増氣之和祛神之㝠何必生知然<lb/>
+後為聖<lb/>
+　　　窫窳<lb/>
+窫窳無罪見害貳負帝命羣巫操藥夾守遂淪溺淵變<lb/>
+為龍首<lb/>
+　　　服常琅玕樹<lb/>
+服常琅玕崑山竒樹丹實珠離綠葉碧布三頭是伺遞<lb/>
+<pb n="KR4h0134_WYG_057-69a"/>
+望遞顧<lb/>
+　　海内北經圖讚<lb/>
+　　　吉良<lb/>
+金精朱鬛龍行駿跱拾節鴻鶩塵不及起是謂吉良釋<lb/>
+聖牖里<lb/>
+　　　蛇巫山鬼神蜪犬羣帝臺大蜂朱蛾<lb/>
+蛇巫之山有人操杯鬼神蜪犬主為妖災大蜂朱蛾羣<lb/>
+帝之臺<lb/>
+<pb n="KR4h0134_WYG_057-69b"/>
+　　　闒非據比尸祙戎<lb/>
+人面獸身是謂闒非被髪折頸據比之尸戎三其角祙<lb/>
+豎其睂<lb/>
+　　　騶虞<lb/>
+怪獸五彩尾㕘於身矯足千里儵忽若神是謂騶虞詩<lb/>
+歎其仁<lb/>
+　　　氷夷<lb/>
+禀華之精練食八石乘龍隱淪往來海若是謂水仙號<lb/>
+<pb n="KR4h0134_WYG_057-70a"/>
+曰河伯<lb/>
+　　　王子夜尸<lb/>
+子夜之尸體分成七離不為疏合不為宻茍以神御形<lb/>
+歸於一<lb/>
+　　　宵明燭光<lb/>
+水有佳人宵明燭光流燿河湄禀此奇祥維舜二女别<lb/>
+處一方<lb/>
+　　　列姑射山大蟹陵魚<lb/>
+<pb n="KR4h0134_WYG_057-70b"/>
+姑射之山寔栖神人大蟹千里亦有陵鱗曠哉溟海含<lb/>
+怪藏珍<lb/>
+　　　蓬萊山<lb/>
+蓬莱之山玉碧構林金臺雲館皜哉獸禽實維靈府玉<lb/>
+主甘心<lb/>
+　　海内東經圖讚<lb/>
+　　　郁州<lb/>
+南極之山越處東海不行而至不動而改維神所運物<lb/>
+<pb n="KR4h0134_WYG_057-71a"/>
+無常在<lb/>
+　　　韓鴈始鳩雷澤神瑯琊臺<lb/>
+韓鴈始鳩在海之州雷澤之神鼔腹優游瑯琊嶕嶢邈<lb/>
+若雲樓<lb/>
+　　　豎沙居繇埻端璽㬇國<lb/>
+㬇沙居繇埻端璽㬇沙漠之鄉絶地之館或羈于秦或<lb/>
+賔于漢<lb/>
+　　　大江北江南江浙江廬淮湘漢濛温潁汝涇渭<lb/>
+<pb n="KR4h0134_WYG_057-71b"/>
+　　　白沅贑泗鬱肄潢洛汾沁濟潦虖沱漳水<lb/>
+川瀆交錯渙瀾流帶通濳潤下經營華外殊出同歸混<lb/>
+之東㑹<hi>交一作綺</hi>
+　　補遺<lb/>
+　　　封豕<lb/>
+有物貪婪號曰封豕薦食無厭肆其殘毁羿乃飲羽獻<lb/>
+帝效伎<lb/>
+　　　鼯䑕<lb/>
+<pb n="KR4h0134_WYG_057-72a"/>
+鼯之為鼠食烟棲林載飛載乳乍獸乍禽皮藉孕婦人<lb/>
+為大任<lb/>
+　　　弱水<lb/>
+弱出崑山鴻毛是沈北淪流沙南暎火林惟水之奇莫<lb/>
+測其深<lb/>
+　　　都廣之野<lb/>
+都廣之野珍怪所聚爰有羔榖鸞歌鳯舞后稷託終樂<lb/>
+哉斯土<lb/>
+<pb n="KR4h0134_WYG_057-72b"/>
+　　　猩猩<lb/>
+能言之獸是謂猩猩厥狀似㺅號音若嚶自然知徃頗<lb/>
+測物情<lb/>
+　　　若木<lb/>
+若木之生崑山是濵朱華電照碧葉玉津食之靈知為<lb/>
+力為神<lb/>
+　　　翡翠<lb/>
+翠雀麋鳥越在南海羽不供用肉不足宰懷璧其罪賈<lb/>
+<pb n="KR4h0134_WYG_057-73a"/>
+害以采<lb/>
+　　　欵冬<lb/>
+吹萬不同陽煦陰蒸欵冬之生擢頴堅氷物休所安焉<lb/>
+知渙凝<lb/>
+　　　鬼草<lb/>
+焉得鬼草是樹是萟服之不憂樂天儀世如彼滚舟任<lb/>
+波流滯<lb/>
+　　　蟒蛇<lb/>
+<pb n="KR4h0134_WYG_057-73b"/>
+蠢蠢萬生咸以類長惟蛇之君是謂巨蟒小則數尋大<lb/>
+或百丈<lb/>
+　　　枳首蛇<lb/>
+䕫稱一足蛇則二首少不知無多不覺有雖資天然無<lb/>
+異駢拇<lb/>
+　　　䲃魚<lb/>
+䲃之為狀半鳥半鱗形如雞鯉食之已疣<lb/>
+　　　飛魚<lb/>
+<pb n="KR4h0134_WYG_057-74a"/>
+飛魚如豚赤文無羽服之不雷可以禦兵<lb/>
+　　　焦堯<lb/>
+焦堯極麽靖人唯小四體具足鬚眉才了<lb/>
+　　讚<lb/>
+　　　釋天地圖讚<lb/>
+祭地肆瘞郊天致煙氣升太一精淪九泉至敬不文明德惟鮮<lb/>
+　　　星圗讚<lb/>
+茫茫地理燦爛天文四靈垂象萬類羣分眇觀六沴咎<lb/>
+<pb n="KR4h0134_WYG_057-74b"/>
+徵惟君<lb/>
+　　　炎山讚<lb/>
+木含陽氣精構則燃焚之無盡是生火山理見乎微其<lb/>
+妙在傳<lb/>
+　　　筆讚<lb/>
+上古結繩易以書契經緯天地錯綜羣萟日用不知功<lb/>
+葢萬世<lb/>
+　　　龜讚<lb/>
+<pb n="KR4h0134_WYG_057-75a"/>
+天生神物十朋之龜或游于火或游于蓍雖云類殊象<lb/>
+二一歸亹亹致用極數盡幾<lb/>
+　　　蚌讚<lb/>
+萬物變蛻其理無方雀雉之化含珠懷璫與月盈虧協<lb/>
+氣晦望<lb/>
+　　　蟬讚<lb/>
+蟲之精絜可貴惟蟬濳蛻棄穢飲露恒鮮萬物皆化人<lb/>
+胡不然<lb/>
+<pb n="KR4h0134_WYG_057-75b"/>
+　　　螢火讚<lb/>
+熠燿宵行蟲之㣲么出自腐草烟若散漂物之相喣孰<lb/>
+知其陶<lb/>
+　　　芣苢讚<lb/>
+車前之草别名芣苢王㑹之云其實如李名之相亂在<lb/>
+乎疑似<lb/>
+　　　杜若讚<lb/>
+蘼蕪善草亂之蛇牀不隕其實自别以芳佞人似智巧<lb/>
+<pb n="KR4h0134_WYG_057-76a"/>
+言如簧<lb/>
+　　　芙容讚<lb/>
+芙容麗草一曰澤芝泛葉雲布映波赮熈伯陽是食饗<lb/>
+比靈期<lb/>
+　　　麻讚<lb/>
+草皮之良莫貴於麻用無不給服無不加至物在邇求<lb/>
+之好遐<lb/>
+　　　珪讚<lb/>
+<pb n="KR4h0134_WYG_057-76b"/>
+玉作五瑞辯章有國君子鳴佩亦以表德永觀厥祭時<lb/>
+惟文則<lb/>
+　　　尺蠖讚<lb/>
+貴有可賤賤有可珍嗟兹尺蠖體此屈伸論配龍蛇見<lb/>
+歎聖人<lb/>
+　　　菊讚<lb/>
+菊名白精布華𤣥月仙客薄采何憂華髪<lb/>
+　　　萍讚<lb/>
+<pb n="KR4h0134_WYG_057-77a"/>
+萍之在水猶卉植地靡見其布漠爾鱗被物無常託孰<lb/>
+知所寄<lb/>
+　　　巻施讚<lb/>
+巻施之草㧞心不死屈平嘉之諷詠以比取類雖邇興<lb/>
+有逺旨<lb/>
+　　　螳螂讚<lb/>
+螳蜋飛蟲揮斧奮臂當轍不迴可踐可避勇士致斃厲<lb/>
+之以義<lb/>
+<pb n="KR4h0134_WYG_057-77b"/>
+　　　麟讚<lb/>
+麟惟靈獸與麏同體智在隱蹤仁表不抵孰為來哉宣<lb/>
+尼揮涕<lb/>
+　　　比肩獸讚<lb/>
+蟨與岠虚乍兎乍䑕長短相濟彼我俱舉有若自然同<lb/>
+心共膂<lb/>
+　　　鼎讚<lb/>
+九牧貢金鼎出夏后和味養賢以無化有赫赫三事鑒<lb/>
+<pb n="KR4h0134_WYG_057-78a"/>
+干覆餗<lb/>
+　　　金銀讚<lb/>
+惟金三品揚越作貢五材之珍是謂國用務經軍農爰<lb/>
+及雕弄<lb/>
+　　　柚讚<lb/>
+厥包橘柚精者曰甘實染繁霜葉鮮翠藍屈生嘉歎以<lb/>
+為美談<lb/>
+　　　梧桐讚<lb/>
+<pb n="KR4h0134_WYG_057-78b"/>
+桐實嘉木鳯凰所棲爰伐琴瑟八音克諧歌以永言噰<lb/>
+噰喈喈<lb/>
+　　　燕讚<lb/>
+燕燕于飛瑞娥以卵𤣥玉爰發聖敬日逺商人是頌詠<lb/>
+之弦管<lb/>
+　　　馬讚<lb/>
+馬出明精祖自天駟十閑六種各有名類三才五御駑<lb/>
+駿異轡<lb/>
+<pb n="KR4h0134_WYG_057-79a"/>
+　　　貔讚<lb/>
+書稱猛士如虎如貔貔葢豹屬亦曰執夷白狐之云似<lb/>
+是而非<lb/>
+　　　鼮䑕讚<lb/>
+有䑕豹彩厥號為鼮漢朝莫知郎中能名賞以束帛雅<lb/>
+業遂盛<lb/>
+　　　鼷䑕讚<lb/>
+小鼠曰鼷實有螫毒乃食郊牛不恭是告厥譴惟明徵<lb/>
+<pb n="KR4h0134_WYG_057-79b"/>
+乎其覺<lb/>
+　　　鼫鼠讚<lb/>
+五能之䑕技無所執應氣而化翻飛鴽集詩人歌之無<lb/>
+食我粒<lb/>
+　　詩<lb/>
+　　　贈温嶠<lb/>
+人亦有言松竹有林及爾臭味異苔同岑言以忘得交<lb/>
+以淡成匪同伊和惟我與生爾神余契我懷子情攜手<lb/>
+<pb n="KR4h0134_WYG_057-80a"/>
+一豁安知塵㝠<lb/>
+　　　遊仙詩十四首<lb/>
+京華游俠窟山林隱遯棲朱門何足榮未若託蓬萊臨<lb/>
+源挹清波陵岡掇丹荑靈谿可濳盤安事登雲梯漆園<lb/>
+有傲吏萊氏有逸妻進則<graphic n="KR0854" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0854.png" mimeType="image/png"/>龍見退為觸藩羝髙蹈風<lb/>
+塵外長揖謝夷齊<lb/>
+青溪千餘仭中有一道士雲生梁棟間風出<graphic n="KR1624" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1624.png" mimeType="image/png"/>户裏借<lb/>
+問此何誰云是鬼谷子翹迹企潁陽臨河思洗耳閶闔<lb/>
+<pb n="KR4h0134_WYG_057-80b"/>
+西南來濳波渙鱗起靈妃顧我笑粲然啟玉齒蹇修時<lb/>
+不存要之將誰使<lb/>
+翡翠戯蘭苕容色更相鮮緑蘿結髙林蒙籠葢一山中<lb/>
+有㝠寂士静嘯撫清絃放情凌霄外嚼蘂挹飛泉赤松<lb/>
+臨上游駕鴻乘紫煙左挹浮丘袖右拍洪崖肩借問蜉<lb/>
+蝣輩寧知龜鶴年<lb/>
+六龍安可頓運流有代謝時變感人思已秋復願夏淮<lb/>
+海變微禽吾生獨不化雖欲騰丹谿雲螭非我駕愧無<lb/>
+<pb n="KR4h0134_WYG_057-81a"/>
+魯陽徳迴日向三舎臨川哀年邁撫心獨悲咤<lb/>
+逸翮思拂霄迅足羡逺遊清源無增瀾安得運吞舟珪<lb/>
+璋雖特逹明月難闇投濳頴怨青陽陵苕哀素秋悲來<lb/>
+惻丹心零淚緣纓流<lb/>
+雜縣寓魯門風暖將為災吞舟涌海底髙浪駕蓬萊神<lb/>
+僊排雲出但見金銀臺陵陽挹丹溜容成揮玉杯姮娥<lb/>
+揚妙音洪崖頷其頥升降隨長煙飄颻戯九垓奇齡邁<lb/>
+五龍千嵗方嬰孩燕昭無靈氣漢武非仙才<lb/>
+<pb n="KR4h0134_WYG_057-81b"/>
+晦朔如循環月盈已復魄蓐收清西陸朱羲將由白寒<lb/>
+露拂陵苕女蘿辭松柏蕣榮不終朝蜉蝣豈見夕圓丘<lb/>
+有奇草鍾山出靈液王孫列八珍安期錬五石長揖當<lb/>
+途人去來山林客<lb/>
+暘谷吐靈曜扶桑森千丈朱霞升東山朝日何晃朗迴<lb/>
+風流曲櫺幽室發逸響悠然心永懷眇爾自遐想仰思<lb/>
+舉雲翼延首矯玉掌嘯傲遺世羅縱情任獨往明道雖<lb/>
+若昧其中有妙象希賢宜勵徳羡魚當結網<lb/>
+<pb n="KR4h0134_WYG_057-82a"/>
+採藥遊名山將以救年頽呼吸玉滋液妙氣盈胸懐登<lb/>
+仙撫龍駟迅駕乘奔雷鱗裳逐電曜雲蓋隨風迴手頓<lb/>
+羲和轡足蹈閶闔開東海猶蹄涔崑崙若蟻堆遐邈㝠<lb/>
+茫中俯視令人哀<lb/>
+璇臺冠崑嶺西海濱招揺瓊林籠藻映碧樹疏英翹丹<lb/>
+泉漂朱沬黒水鼓𤣥濤尋仙萬餘日今乃見子喬振髪<lb/>
+晞翠霞解褐被絳綃總轡臨少廣盤虬舞雲軺永偕帝<lb/>
+鄉侣千齡共逍遙<lb/>
+<pb n="KR4h0134_WYG_057-82b"/>
+登嶽採五芝渉澗將六草散髮蕩𤣥溜終年不華皓<lb/>
+四瀆流如淚五嶽羅若垤尋我青雲友永與時人絶<lb/>
+静歎亦何念悲此妙齡逝在世無千月命如秋葉蔕蘭<lb/>
+生蓬芭間榮曜常幽翳<lb/>
+縱酒濛汜濱結駕尋木末翹手攀金梯飛步登玉闕左<lb/>
+顧擁方目右眷極朱髪<lb/>
+　　　贈潘尼<lb/>
+把梓生南荆竒才應世出擢穎葢漢陽鴻聲駭皇室遂<lb/>
+<pb n="KR4h0134_WYG_057-83a"/>
+應四科運朱衣耀玉質<lb/>
+　　　春<lb/>
+青陽暢和氣谷風穆以温英茝曄林薈昆蟲咸啟門髙<lb/>
+臺臨迅流四座列王孫羽葢停雲陰翠鬱映玉樽<lb/>
+　　　夏<lb/>
+羲和騁丹衢朱明赫其猛融風拂晨霄陽精一何冏間<lb/>
+宇静無娯端坐愁日永<lb/>
+　　　别<lb/>
+<pb n="KR4h0134_WYG_057-83b"/>
+君如秋日雲妾似突中烟髙下理自殊一乖雨絶天<lb/>
+　　　題墓詩<lb/>
+北阜烈烈巨海混混壘壘三墳唯母與昆<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　漢魏六朝百三家集巻五十七<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

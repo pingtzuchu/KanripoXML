@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2a0029_WYG_110-1a"/>
+　舊五代史巻五十四考證<lb/>
+唐列𫝊六王鎔𫝊紹鼎卒子景崇立　案新唐書藩鎮<lb/>
+　𫝊紹鼎卒子幼未能事以元逵次子紹懿為留後紹<lb/>
+　懿卒乃復授紹鼎子景崇與是書異<lb/>
+自是燕帥李匡威頻嵗出軍以為鎔援　案太平廣記<lb/>
+　引劉氏耳目記趙王鎔方在幼沖而燕軍冦北鄙王<lb/>
+　選將拒之有勇士陳立劉幹投刺軍門願以五百人<lb/>
+　當冦翼日立卒于鋒刃之下幹唱凱而還據是書鎔<lb/>
+<pb n="KR2a0029_WYG_110-1b"/>
+　方以燕帥為援未嘗與燕軍戰疑耳目記𫝊聞之誤<lb/>
+館于寶壽佛寺　案歐陽史作館于梅子園<lb/>
+和昭訓為都籌畫　和昭訓宋史趙上交𫝊作和少微<lb/>
+都又與青徐岐潞梓五帥蠟書以離間之　案通鑑作<lb/>
+　青徐潞益梓五帥胡三省注云是時青帥霍彦威徐<lb/>
+　帥房知温潞帥毛璋益帥孟知祥梓帥董璋是書有<lb/>
+　岐帥而無益帥與通鑑異歐陽史從是書<lb/>
+托諾舊作秃餒今改<lb/>
+<pb n="KR2a0029_WYG_110-2a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2a0029_WYG_110-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　舊五代史巻五十四攷證<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

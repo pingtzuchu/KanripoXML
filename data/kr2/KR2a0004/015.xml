@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>史記正義卷十五</head> <lb/>
+    <p>
+<pb n="KR2a0004_WYG_015-1a"/>
+欽定四庫全書<lb/>
+　史記正義卷十五<lb/>
+　　　　　　　　　　　　唐　張守節　撰<lb/>
+六國表第三　　　　　　　　史記十五<lb/>
+太史讀秦記至犬戎敗幽王周東徙洛邑秦襄公始封<lb/>
+為諸侯作西畤用事上帝僭端見矣禮曰天子祭天地<lb/>
+諸侯祭其域内名山大川今秦雜戎翟之俗先暴戾後<lb/>
+仁義位在藩臣而臚於郊祀君子懼焉<hi>臚作□音旅祭名又旅陳也</hi>
+<pb n="KR2a0004_WYG_015-1b"/>
+及文公踰隴攘夷狄尊陳寳營岐雍之間而穆公修政<lb/>
+東竟至河則與齊桓晉文中國侯伯侔矣是後陪臣執<lb/>
+政大夫世禄六卿擅晉權征伐㑹盟威重於諸侯及田<lb/>
+常殺簡公而相齊國諸侯晏然弗討海内争於戰功矣<lb/>
+三國終之卒分晉田和亦滅齊而有之六國之盛自此<lb/>
+始務在彊兵并敵謀詐用而從衡短長之説起矯稱蠭<lb/>
+出誓盟不信雖置質剖符猶不能約束也秦始小國僻<lb/>
+逺諸夏賓之比於戎翟至獻公之後常雄諸侯論秦之<lb/>
+<pb n="KR2a0004_WYG_015-2a"/>
+徳義不如魯衛之暴戻者量秦之兵不如三晉之彊也<lb/>
+然卒并天下非必險固便形埶利也葢若天所助焉或<lb/>
+曰東方物所始生西方物之成孰夫作事者必於東南<lb/>
+收功實者常於西北故禹興於西羌<hi>禹生於茂州汶川縣本冉駹國皆西</hi>
+<hi>羌</hi>湯起于亳周之王也以豐鎬伐殷秦之帝用雍州興<lb/>
+漢之興自蜀漢秦既得意燒天下詩書諸侯史記尤甚<lb/>
+為其有所刺譏也詩書所以復見者多藏人家而史記<lb/>
+獨藏周室以故滅惜哉惜哉獨有秦記又不載日月其<lb/>
+<pb n="KR2a0004_WYG_015-2b"/>
+文畧不具然戰國之權變亦有可頗采者何必上古秦<lb/>
+取天下多暴然世異變成功大傳曰法後王何也以其<lb/>
+近已而俗變相類議卑而易行也<hi>易以豉反後王近代之王法與已連接世</hi>
+<hi>俗之變及相類也故議卑淺而易識行耳</hi>學者牽於所聞見秦在帝位日淺<lb/>
+不察其終始因舉而笑之不敢道此與以耳食無異悲<lb/>
+夫余於是因秦記踵春秋之後起周元王表六國時事<lb/>
+訖二世凡二百七十年著諸所聞興壊之端後有君子<lb/>
+以覽觀焉<lb/>
+<pb n="KR2a0004_WYG_015-3a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_015-4a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_015-5a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_015-6a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_015-7a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_015-8a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_015-9a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_015-10a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_015-11a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_015-12a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_015-13a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_015-14a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_015-15a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_015-16a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_015-17a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_015-18a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_015-19a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_015-20a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_015-21a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_015-22a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_015-23a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_015-24a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_015-25a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_015-26a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_015-27a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_015-28a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_015-29a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_015-30a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_015-31a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2a0004_WYG_015-31b"/>
+二十八<hi>為阿房宫之衡山治馳道帝之琅邪道南郡入為太極廟賜户三十爵一級</hi>
+二十九<hi>郡縣大索十日帝之琅邪道上黨入</hi>
+三十<lb/>
+三十一<hi>更命臘曰嘉平賜黔首里六石米二羊以嘉平大索二十日</hi>
+三十二<hi>帝之碣石道上郡入</hi>
+三十三<hi>遣諸逋亡及賈人贅壻路取陸梁為桂林南海象郡以適戍西北戎為四十四縣</hi>
+三十四<hi>適治獄吏不直者築長城及南方越地覆獄故失</hi>
+三十五<hi>為直道道九原通甘泉</hi>
+<pb n="KR2a0004_WYG_015-32a"/>
+三十六<hi>徙民於北河榆中耐徙三處</hi>
+三十七<hi>十月帝之㑹稽琅邪還至沙丘崩子胡亥立為二世皇帝殺蒙恬道九原入復行錢</hi>
+二世元年<hi>十月戊寅大赦罪人十一月為兔園十二月就阿房宫具九月郡縣皆反楚兵至戲章邯擊卻</hi>
+　　　<hi>之出衛君角為庶人</hi>
+二<hi>將軍章邯長史司馬欣都尉董翳追楚兵至河誅丞相斯去疾將軍馮劫</hi>
+三<hi>趙髙反二世自殺髙立二世凡子嬰立刺殺髙夷漢三族諸侯入秦嬰降為項羽所殺尋誅羽天下屬</hi>
+　<lb/>
+　<lb/>
+<pb n="KR2a0004_WYG_015-32b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　史記正義卷十五<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

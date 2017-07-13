@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3h0039_SBCK_005-1a"/>
+圗畫攷卷之五<lb/>
+　　紀藝<lb/>
+　　　　竹木<lb/>
+訣云近世喜畫枯木及竹然枯木須作霜髙脱<lb/>
+葉之狀不可作枯死木也竹須是作竹葉今往<lb/>
+往似栁葉<lb/>
+米芾云唐人作著色竹比他竹大粗也唐有蕭<lb/>
+悦畫竹深得竹之生意<lb/>
+郭熙云學畫竹者取一枝竹月夜照其影於素<lb/>
+<pb n="KR3h0039_SBCK_005-1b"/>
+壁上則竹之形出矣<lb/>
+蘇子瞻作墨竹從地一直𧺫至頂余問何不逐<lb/>
+節分曰竹生時何嘗逐節生運思清拔出於文<lb/>
+同與可自謂與文拈一瓣香以墨深為面淡為<lb/>
+背自與可始也作成林竹尤精子瞻作枯木枝<lb/>
+幹虬屈無端石皺硬亦恠恠奇奇如其胸中<graphic n="KR0777" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0777.png" mimeType="image/png"/>
+欝也<lb/>
+　　　　花鳥<lb/>
+見聞志云花果草木自有四時景候隂陽向背<lb/>
+<pb n="KR3h0039_SBCK_005-2a"/>
+笋條老嫩苞萼後先<lb/>
+又云黄家富貴徐熙野逸不惟各志有異蓋亦<lb/>
+耳目所習得之扵心而應之扵手也何故知其<lb/>
+然黄筌父子給事内宫多寫禁籞珍禽瑞鳥奇<lb/>
+花恠石今世傳桃花鷹鶻純白雉兎金盆鵓鴿<lb/>
+孔雀龜鶴之類是也又翎毛骨氣尚豐滿而天<lb/>
+水分色徐熙江南處士志節髙邁放達不覊多<lb/>
+狀江湖所有汀花野草水鳥囦魚今世傳鳬雁<lb/>
+鷺鷥蒲藻鰕魚叢艷折枝園蔬藥苗之類是也<lb/>
+<pb n="KR3h0039_SBCK_005-2b"/>
+又翎毛骨貴輕秀而天水通色<hi>大抵江南之藝骨氣多不及蜀</hi>
+<hi>人而瀟洒過之</hi>二者春蘭秋菊各擅重名下筆成珍揮<lb/>
+毫可範復有居寀兄居寳徐熙之孫曰崇嗣曰<lb/>
+崇矩蜀有刁處士光胤劉賛滕昌祐夏侯延祐<lb/>
+李懐衮江南有唐希雅希雅之孫曰中祚曰宿<lb/>
+及解處中輩都下有李符李吉之等及後來名<lb/>
+手間出企望徐生與二黄繇山水之有正經<hi>黄筌</hi>
+<hi>之師曰刁處士闗仝之師荆浩也</hi>
+畫翎毛者必須知識諸禽形體名件自嘴喙口<lb/>
+<pb n="KR3h0039_SBCK_005-3a"/>
+<pb n="KR3h0039_SBCK_005-4a"/>
+　　　　蔬果<hi>草蟲附</hi>
+宣和畫譜云蔬果扵寫生最為難工論者以謂<lb/>
+郊外之蔬易工扵水濵之蔬水濵之蔬又易工<lb/>
+扵園畦之蔬墜地之果易工扵折枝之果折枝<lb/>
+之果又易工扵林間之果若草蟲者凡見諸詩<lb/>
+人之比興陳有顧野王五代有唐垓宋有郭元<lb/>
+方釋居寧<lb/>
+　　　　龍魚<lb/>
+見聞志云畫龍者析出三停分成九似<hi>自首至膊膊至</hi>
+<pb n="KR3h0039_SBCK_005-4b"/>
+<hi>腰腰至尾爲三停鹿角駝頭鬼眼蜃腹蛇項魚鱗鷹爪虎掌牛耳謂之九似也</hi>窮㳺泳<lb/>
+蜿蜒之妙得蟠回昇降之宜仍要騣鬛肘毛筆<lb/>
+畫壯快直自肉中生出爲佳也<lb/>
+畫魚者多作庖中几上物乏乘風破浪之勢五<lb/>
+代袁㠖以魚蠏馳譽若崔白徐皐輩無涵泳噞<lb/>
+喁之態使人但垂涎耳<lb/>
+劉寀畫魚深得戯廣浮深相忘於江湖之意盖<lb/>
+畫者以鬐鱗刺分明則非水中矣安得有涵泳<lb/>
+自然之勢若在水中則無由顯露<lb/>
+<pb n="KR3h0039_SBCK_005-5a"/>
+　　　　畜獸<lb/>
+郭若虚云畫畜獸者全要停分向背筋力精神<lb/>
+肉分肥圎毛骨隠𧺫仍分諸物所禀動止之性<lb/>
+<hi>四足惟兎掌底有毛謂之建毛</hi>
+晉武帝得八駿圗穆王時畫黄素上為之腐敗<lb/>
+而骨氣宛在歴代以為國寳貞觀中傳模扵世<lb/>
+一曰渠黄二曰山子三曰盜驪四曰緑耳五曰<lb/>
+赤驥六曰　驑七曰踰輪八曰白<graphic n="KR2059" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2059.png" mimeType="image/png"/>
+唐開元天寳世尚輕肥三花飾馬剪鬃為三辮<lb/>
+<pb n="KR3h0039_SBCK_005-5b"/>
+韓幹畫三花御馬張萱畫虢國出行圗亦有三<lb/>
+花馬<lb/>
+畫譜云畫史狀牛馬而得名者爲多至虎豹鹿<lb/>
+豕獐兎取其原野荒寒跳梁奔逸不覊之状以<lb/>
+寄筆間豪邁之氣若乃犬羊猫狸又其近人之<lb/>
+物最爲難工花間竹外舞裀綉幄得其不爲揺<lb/>
+尾乞憐之態馬則晉有史道碩唐有韓幹曹霸<lb/>
+牛則唐有戴嵩與其弟戴嶧五代及宋有朱羲<lb/>
+輩犬則唐有趙博文五代有張及之宋有趙令<lb/>
+<pb n="KR3h0039_SBCK_005-6a"/>
+松羊則五代有羅塞翁虎則唐有李漸宋有趙<lb/>
+邈齡貓則五代有李靄之宋有王凝何尊師<lb/>
+又云士人多善畫馬者以馬之取譬駑驥遲疾<lb/>
+隠顯遇否如士之㳺世<lb/>
+胡瓌用畫駞馬鬃尾人衣毛毳以狼毫縛筆疏<lb/>
+渲之取其纎健也<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

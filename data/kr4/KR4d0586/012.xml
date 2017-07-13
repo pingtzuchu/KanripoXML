@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4d0586_SBCK_012-1a"/>
+鐵雅先生復古詩集卷之二　古樂府卷十二<lb/>
+　　　　　　　　　太史紹興揚維禎廉夫著<lb/>
+　　　　　　　　　太史金華黄溍　晋卿評<lb/>
+　古樂府<hi>二十二首</hi>
+　　先生自言予用三軆詠史用七言絶句軆者三<lb/>
+　　百首古樂府軆者二百首古樂府小絶句軆者<lb/>
+　　四十首絶句人易到吾門章木能之古樂府不<lb/>
+　　易到吾門張憲能之至小樂府二三兮不能惟<lb/>
+　　吾能之故五峰李著作推爲詠史上手云至正<lb/>
+<pb n="KR4d0586_SBCK_012-1b"/>
+　　丙午夏五上吉門生章琬謹拜手識<lb/>
+　　　炮烙辭<lb/>
+炮烙復炮烙是不還是不終殺䜛人乕不殺羑中囚<lb/>
+　　　　評云此獨夫可取䖏古人未言<lb/>
+　　　烽燧曲<lb/>
+羙人方一咲烽火不須驚昨夜驪山下西戎巳結兵<lb/>
+　　　　評云用事不費餘力<lb/>
+　　　放麑辭<lb/>
+母麑急麑子獵父眎如傷太子奔城父君王赦奮揚<lb/>
+　　　　評云託物悟人亦由天理<lb/>
+　　　牧羝曲<lb/>
+<pb n="KR4d0586_SBCK_012-2a"/>
+老羝何日乳歸鴈忽能言不逐虞常死丁零尚有恩<lb/>
+　　　漸䑓曲<lb/>
+皎日常持信倉皇不改貞君王符不到水長漸䑓傾<lb/>
+　　　　評云春秋直筆句律<lb/>
+　　　北郭辭<lb/>
+瓜田不納履北郭䜛招汚覆鼎重開日宫中殺破胡<lb/>
+　　　　評云用事如放麑篇<lb/>
+　　　城門曲<lb/>
+諜報越玉兵城門夜不扃孤臣睛不死門月照人青<lb/>
+　　　　評云事傪景慘世間稚語如何可到<lb/>
+　　　蘇䑓曲<lb/>
+<pb n="KR4d0586_SBCK_012-2b"/>
+吴王張髙宴䑓下閱犀兵髙䑓三百里不見越玉城<lb/>
+　　　　評云十字貶意無盡<lb/>
+　　　望郷䑓<lb/>
+望郷䑓上客秋至望郷關中原遮望眼可柰咽支山<lb/>
+　　　飲馬窟<lb/>
+長城飲馬窟飲馬馬還驚寧知嗚咽水猶作寳刀鳴<lb/>
+　　　　評云無中生岀興象之妙<lb/>
+　　　俠客辭<lb/>
+未許仝交死全身報國仇大阿飛出匣欲取賈充頭<lb/>
+　　　　評云此俠客自是義俠<lb/>
+　　　劍客辭<lb/>
+<pb n="KR4d0586_SBCK_012-3a"/>
+丈夫萬人敵拙計哂荆軻昨夜西征去生擒李左車<lb/>
+　　　　評云此客方是壮夫<lb/>
+　　　昭陽曲<lb/>
+羙人新睡起内史報蘭湯散盡黄金餅無㝷赤鳳凰<lb/>
+　　　　評云譏得是譏得是可與秦官同㸔<lb/>
+　　　銅雀曲<lb/>
+帳中歌吹作玉座奉晨曛西陵迷望眼日莫起浮雲<lb/>
+　　　　評云以雲興無心之物不必刻苦<lb/>
+　　　妲已圖<lb/>
+小白竿頭血新圗入漢廷宫中雙燕子齊作牝鷄鳴<lb/>
+　　　秦宮曲<lb/>
+<pb n="KR4d0586_SBCK_012-3b"/>
+妾自夫君戍桑隂路不通将軍哮佀乕少婦竊秦宫<lb/>
+　　　　評云必有鉗制扵乕者不然是不可曉<lb/>
+　　　三閣辭<lb/>
+江南龍乕氣樓閣照金銀望見長安道不知塵汙人<lb/>
+　　　臙脂井<lb/>
+昨夜韓擒乕金陵奏凱廽井中人不死重帶羙人来<lb/>
+　　　　評云尤物之溺人如此<lb/>
+　　　焦仲卿妻<lb/>
+生爲仲卿婦死與仲卿齊廬江同樹鳥不過别枝啼<lb/>
+　　　朱厓令女<lb/>
+關珠争两死两死獨誰當關吏不垂泣青天應雨霜<lb/>
+<pb n="KR4d0586_SBCK_012-4a"/>
+　　　　評云十字見天理人心<lb/>
+　　　摘瓜辭<lb/>
+黄䑓八瓜熟瓜熟瓞綿綿惟有大瓜好狐来瓜巳穿<lb/>
+　　　　評云又向本題外彂意<lb/>
+　　　食桃辭<lb/>
+二挑䧟忠勇晏子設危謀半桃䧟姑息彌子復誰尤<lb/>
+<pb n="KR4d0586_SBCK_012-4b"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

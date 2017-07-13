@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>春秋大事表卷五</head> <lb/>
+    <p>
+<pb n="1a"/>
+欽定四庫全書<lb/>
+　春秋大事表卷五<lb/>
+　　　　　　　　　　國子監司業顧棟髙撰<lb/>
+　　列國爵姓及存滅表<lb/>
+　余既輯春秋疆域自成周以迄齊楚秦晉凡十一國<lb/>
+　而當日之形勢如鱗次櫛比犬牙相錯凡行軍用師<lb/>
+　出入往來之迂直逺近及築城戍守之輕重疎宻莫<lb/>
+　不瞭然具見繼為原其封爵之所由及其姓氏與小<lb/>
+<pb n="1b"/>
+　國之入于某國為某邑而春秋之列侯始而星羅棊<lb/>
+　布繼而疆兼弱削究其源流指掌可數作而歎曰封<lb/>
+　建之裂為郡縣葢不自秦始也自莊公之世而楚文<lb/>
+　王巳縣申息封畛于汝逮後而晉有四十縣哀二年<lb/>
+　趙鞅為銕之師誓曰克敵者上大夫受縣下大夫受<lb/>
+　郡終春秋之世而國之滅為縣邑者强半天下而諸<lb/>
+　國卒以强盛則當日之勢較之周初已稍稍異矣雖<lb/>
+　聖王復起不得不變其制也且入春秋以來周室得<lb/>
+<pb n="2a"/>
+　以綿延數百年者賴齊與晉耳而齊晉之兼國為不<lb/>
+　少也假令齊晉謹守侯度猶然臨淄太原百里之封<lb/>
+　而周天子能統虞虢譚遂諸國以鞭笞荆楚披攘戎<lb/>
+　狄乎不能也其不能者何也其勢散且有土之諸侯<lb/>
+　未必皆賢即使因其不賢而易置之而其政令不能<lb/>
+　盡出于王朝其民之視聽不能盡屬于天子故常散<lb/>
+　而不能聚弱而不能强其易而縣邑也則不然度才<lb/>
+　而使之程能而任之朝不道則夕斥之矣夕不道則<lb/>
+<pb n="2b"/>
+　朝罷之矣晉文難守原之大夫而得趙衰鄭子皮欲<lb/>
+　使尹何為邑而子産曰少未知可否其操縱由一巳<lb/>
+　其呼吸若一氣其簡練教訓如親父兄之于子弟也<lb/>
+　故能抗方張之敵而成翼戴之勢嗚呼世變之所趨<lb/>
+　如天地之化隂陽積而成寒暑豈一朝一夕之故哉<lb/>
+　雖聖人復起無如之何也西漢之興侯國與郡縣參<lb/>
+　半未幾而反者四起其存者皆淫侈不軌逮國除為<lb/>
+　郡而黎民乂安垂數百年漢之國除為郡而地入于<lb/>
+<pb n="3a"/>
+　天子春秋之國滅為邑而地歸于强侯漢以淫侈不<lb/>
+　軌而除春秋以弱小不能自立而滅其事不同而世<lb/>
+　變之所趍則一也天下之勢合則治而分則亂自三<lb/>
+　代以來莫之有易矣輯春秋列國爵姓及存滅表第<lb/>
+　五<lb/>
+<pb n="4a"/>
+</p>
+<p>
+<pb n="5a"/>
+</p>
+<p>
+<pb n="6a"/>
+</p>
+<p>
+<pb n="7a"/>
+</p>
+<p>
+<pb n="8a"/>
+</p>
+<p>
+<pb n="9a"/>
+</p>
+<p>
+<pb n="10a"/>
+</p>
+<p>
+<pb n="11a"/>
+</p>
+<p>
+<pb n="12a"/>
+</p>
+<p>
+<pb n="13a"/>
+</p>
+<p>
+<pb n="14a"/>
+</p>
+<p>
+<pb n="15a"/>
+</p>
+<p>
+<pb n="16a"/>
+</p>
+<p>
+<pb n="17a"/>
+</p>
+<p>
+<pb n="18a"/>
+</p>
+<p>
+<pb n="19a"/>
+</p>
+<p>
+<pb n="20a"/>
+</p>
+<p>
+<pb n="21a"/>
+</p>
+<p>
+<pb n="22a"/>
+</p>
+<p>
+<pb n="23a"/>
+</p>
+<p>
+<pb n="24a"/>
+</p>
+<p>
+<pb n="25a"/>
+</p>
+<p>
+<pb n="26a"/>
+</p>
+<p>
+<pb n="27a"/>
+</p>
+<p>
+<pb n="28a"/>
+</p>
+<p>
+<pb n="29a"/>
+</p>
+<p>
+<pb n="30a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="30b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　春秋大事表卷五<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

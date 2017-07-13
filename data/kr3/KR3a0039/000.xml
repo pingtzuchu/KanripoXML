@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>上蔡語錄</head>
+    <p>
+<pb n="KR3a0039_WYG_000-1a"/>
+欽定四庫全書　　　　子部一<lb/>
+　上蔡語錄　　　　　　　儒家類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案上蔡語錄三卷宋曾恬胡安國所<lb/>
+　　　　錄謝良佐語朱子又為刪定者也良佐字顯<lb/>
+　　　　道上蔡人登進士第建中靖國初官京師召<lb/>
+　　　　對忤㫖出監西京竹木場復坐事廢為民事<lb/>
+　　　　蹟具宋史道學傳恬字天隠温陵人安國有<lb/>
+<pb n="KR3a0039_WYG_000-1b"/>
+　　　　春秋傳已著録是書成于紹興二十九年朱<lb/>
+　　　　子年三十嵗監潭州南岳廟時生平論著此<lb/>
+　　　　為最早據朱子後序稱初得括蒼吳任寫本<lb/>
+　　　　二篇皆曾天𨼆所記最後得胡文定公寫本<lb/>
+　　　　二篇凡書四篇以相參校胡氏上篇五十五<lb/>
+　　　　章記文定公問答下篇四十九章與版本吳<lb/>
+　　　　氏本畧同然時有小異輒因其舊定著為二<lb/>
+　　　　篇獨板本所增多猶百餘章或失本㫖雜他<lb/>
+<pb n="KR3a0039_WYG_000-2a"/>
+　　　　書其尤者五十餘章至詆程氏以助佛學輒<lb/>
+　　　　放而絶之其餘亦頗刋去而得先生遺語三<lb/>
+　　　　十餘章别為一篇凡所定著書三篇云云是<lb/>
+　　　　朱子於此書芟薙特嚴後乾道戊子重為編<lb/>
+　　　　次益以良佐與安國手簡數條定為今本又<lb/>
+　　　　作後記稱胡憲於吕祖謙家得江民表辨道<lb/>
+　　　　錄見所刪五十餘章首尾次序無一字之差<lb/>
+　　　　然後知果為江氏所著非謝氏之書則去取<lb/>
+<pb n="KR3a0039_WYG_000-2b"/>
+　　　　亦為精審觀語錄稱某二十年前得上蔡語<lb/>
+　　　　錄觀之初用朱筆畫出合處及再觀則不同<lb/>
+　　　　乃用粉筆三觀則又用墨筆數過之後全與<lb/>
+　　　　原看時不同則精思熟讀研究至深非漫然<lb/>
+　　　　而定也良佐之學以切問近思為要其言論<lb/>
+　　　　閎肆足以啟發後進惟才髙意廣不無過中<lb/>
+　　　　之弊故語錄云看道理不可不仔細程門髙<lb/>
+　　　　弟如謝上蔡游定夫楊龜山下稍皆入禪學<lb/>
+<pb n="KR3a0039_WYG_000-3a"/>
+　　　　去又云上蔡觀復齋記中説道理皆是禪底<lb/>
+　　　　意思又云程子諸門人上蔡有上蔡之病龜<lb/>
+　　　　山有龜山之病和靖有和靖之病也是合下<lb/>
+　　　　見得不周徧差了其論皆頗以良佐近禪為<lb/>
+　　　　譏然為良佐作祠記則又云以生意論仁以<lb/>
+　　　　實理論誠以常惺惺論敬以求是論窮理其<lb/>
+　　　　命意皆精當而直指窮理居敬為入徳之門<lb/>
+　　　　尤得明道敎人之綱領乃深相推重蓋良佐<lb/>
+<pb n="KR3a0039_WYG_000-3b"/>
+　　　　之學醇疵相半朱子於語錄舉其疵於祠記<lb/>
+　　　　舉其醇似矛盾而非矛盾也合而觀之良佐<lb/>
+　　　　之短長可見矣乾隆四十六年十月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

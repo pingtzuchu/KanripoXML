@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3h0062_WYG_038-1a"/>
+欽定四庫全書<lb/>
+秘殿珠林卷十七<lb/>
+　　貯<lb/>
+　乾清宫十七<lb/>
+　　名人書<lb/>
+　　道氏經卷<lb/>
+　　唐栁公權書常清静經一卷<hi>次等天一</hi>
+　　素箋本楷書欵云起居郎栁公權敬書拖尾有<lb/>
+<pb n="KR3h0062_WYG_038-1b"/>
+　　張栻廉布任詢鄧文原諸跋<lb/>
+　　宋黄庭堅臨黄庭經一卷<hi>次等地一</hi>
+　　素絹本無欵經末有山谷道人印一<lb/>
+　　宋朱子書隂符經一卷<hi>次等元一</hi>
+　　素箋本泥金篆書欵識云大宋淳熙十有五年<lb/>
+　　嵗在戊申七月甲子提舉浙東崇政殿學士臣<lb/>
+　　新安朱熹沐手拜臨經後有陳履脱脱記語二<lb/>
+　　又未識文一類元代國書引首有立天之道四<lb/>
+<pb n="KR3h0062_WYG_038-2a"/>
+　　字按跋語云明太祖筆又前有未識文四字類<lb/>
+　　元代國書拖尾有耶律楚材陳履脱脱汪廣洋<lb/>
+　　詹同宋濓𫝊有徳楊榮楊一清林俊焦竑諸跋<lb/>
+　　按此前後題跋俱非眞跡其金書葢後人從拓<lb/>
+　　本塗冩者究為先賢之跡故入次等<lb/>
+　　元趙孟頫書黄庭經一卷<hi>次等黄一</hi>
+　　素箋本欵識云大徳四年二月之既朢呉興趙<lb/>
+　　孟頫臨又自跋一前有素絹本梁楷白描畫換<lb/>
+<pb n="KR3h0062_WYG_038-2b"/>
+　　鵞圖欵署梁楷引首有文徴明大隸書換鵞圖<lb/>
+　　三字欵署徴明拖尾有鄧文原淩宴如倪瓚許<lb/>
+　　衡諸跋<lb/>
+　　元趙孟頫書黄庭經一卷<hi>次等黄二</hi>
+　　素箋本欵識云大徳二年七月十三日趙孟頫<lb/>
+　　臨拖尾有鄧文原王世貞項元汴諸跋<lb/>
+　　元趙孟頫書太上感應篇一卷<hi>次等黄三</hi>
+　　素箋本楷書欵識云大徳二年九月呉興趙孟<lb/>
+<pb n="KR3h0062_WYG_038-3a"/>
+　　頫謹書又自跋一鮮于樞跋一拖尾文徴明跋<lb/>
+　　一王世貞記語一<lb/>
+　　明董其昌書太上感應篇一卷<hi>次等宇一</hi>
+　　素絹本楷書欵識云太上垂訓甚多獨感應一<lb/>
+　　篇於居常日用之間尤為親切詳盡吾人能力行<lb/>
+　　之未有不蒙天之祐者也今夏掩闗無事敬録<lb/>
+　　一篇置之座右以當清夜晨鐘耳辛未四月下<lb/>
+　　浣併識董其昌<lb/>
+<pb n="KR3h0062_WYG_038-3b"/>
+　　無名氏書<lb/>
+　道氏經卷<lb/>
+　　唐人摹王羲之黄庭經一卷<hi>上等天一</hi>
+　　素絹本第三十七行缺三字經前一印缺其半<lb/>
+　　存圖書二字經後有台僊二字上鈐陳氏圖書<lb/>
+　　印一又寳字韓逢禧印劉完私印劉中守氏王<lb/>
+　　用文氏忠孝之家諸法空相諸印又二印不可<lb/>
+　　識前隔水有晉王羲之黄庭經七字上鈐雙螭<lb/>
+<pb n="KR3h0062_WYG_038-4a"/>
+　　　璽一葢宋徽宗筆也押縫有宣和小璽一雲東<lb/>
+　　　藏室印一又御書璽一缺其半後隔水有大觀<lb/>
+　　　長璽押縫有宣和政和小璽二拖尾有昆侖山<lb/>
+　　　房圖書内府圖書之印韓世熊印韓逢禧書畫<lb/>
+　　　印韓逢禧印諸印卷末有崇禎十七年甲申春<lb/>
+　　　二月睢陽袁樞楊羡張永禧同觀於韓古洲半<lb/>
+　　　山草堂古洲名逢禧三十四字下有雲東藏空<lb/>
+　　　印一絹高七寸四分廣一丈八寸六分<lb/>
+<pb n="KR3h0062_WYG_038-4b"/>
+　　　無名氏書<lb/>
+　　道氏經卷<lb/>
+　　　唐人臨王羲之道徳經一卷<hi>次等天一</hi>
+　　　素絹本楷書拖尾有蕭子雲智永虞世南禇遂<lb/>
+　　　良顔真卿蔡京賈似道鮮于樞趙孟頫許國諸<lb/>
+　　　跋又靈徹蔡卞呉居厚鄧文原諸記語<lb/>
+　　　名人書<lb/>
+　　道氏經軸<lb/>
+<pb n="KR3h0062_WYG_038-5a"/>
+　　　眀董其昌書清静經一軸<hi>上等天一</hi>
+　　　素箋本大行書清静經二句欵識云仲醇稱西<lb/>
+　　　蜀趙文肅公語曰人知呼吸天地不知天地亦<lb/>
+　　　呼吸我余今以清静經意書此二語董其昌下<lb/>
+　　　有董元宰印一箋髙三尺八寸廣九寸六分<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3h0062_WYG_038-5b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+秘殿珠林卷十七<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

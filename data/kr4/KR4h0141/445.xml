@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_445-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選巻四百四十六<lb/>
+　　提壺類<lb/>
+　　　長短句<lb/>
+　　　　提壺　　　　　　　　　　<hi>宋</hi>梅堯臣<lb/>
+　提壺蘆沽羙酒風為賔樹為友山花撩亂目前開勸爾<lb/>
+　今朝千萬夀<lb/>
+　　　七言律<lb/>
+<pb n="KR4h0141_WYG_445-1b"/>
+　　　　早春聞提壺鳥因題鄰家　　<hi>唐</hi>白居易<lb/>
+　厭聽秋猿催下淚喜聞春鳥勸提壺誰家紅樹先花發<lb/>
+　何處青樓有酒沽進士粗豪尋淨盡拾遺風采近都無<lb/>
+　欲期明日東鄰醉變作騰騰一俗夫<lb/>
+　　　五言絶句<lb/>
+　　　　提壺蘆　　　　　　　　　<hi>宋</hi>文　同<lb/>
+　花開已堪摘酒熟正好沽山禽㑹人意勸我提壺蘆<lb/>
+　　　　譙國嘲提壺　　　　　　　<hi>宋</hi>晁補之<lb/>
+<pb n="KR4h0141_WYG_445-2a"/>
+　何處提壺鳥荒園自叫春夕陽深樾裏持此勸何人<lb/>
+　　　六言絶句<lb/>
+　　　　漫題　　　　　　　　　　<hi>元</hi>蒲道源<lb/>
+　花下提壺勸酒桑間布榖催耕甚欲晴天行樂却因春<lb/>
+　雨關情<lb/>
+　　　七言絶句<lb/>
+　　　　初入山聞提壺鳥　　　　　<hi>宋</hi>王禹偁<lb/>
+　遷客由來長合醉不煩幽鳥道提壺商州未是無人境<lb/>
+<pb n="KR4h0141_WYG_445-2b"/>
+　一路山邨有酒沽<lb/>
+　　　　花前獨酌　　　　　　　　<hi>金</hi>姚孝錫<lb/>
+　移得名花手自栽花知不為老人開興來誰是尊前客<lb/>
+　惟有提壺送酒杯<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選巻四百四十六<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

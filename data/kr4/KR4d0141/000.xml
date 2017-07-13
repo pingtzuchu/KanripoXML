@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>西渡集</head>
+    <p>
+<pb n="KR4d0141_WYG_000-1a"/>
+欽定四庫全書　　　　　集部四<lb/>
+　西渡集　　　　　　　　别集類三<hi>宋</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案西渡集宋洪炎撰炎字玉父南昌<lb/>
+　　　　人元祐末登進士官至著作郎祕書少監炎<lb/>
+　　　　與兄朋芻弟羽號四洪皆黄庭堅之甥受詩<lb/>
+　　　　法于庭堅羽入黨籍早卒其集在南宋時陳<lb/>
+　　　　振孫已云不傳故書録解題惟載朋龜父集<lb/>
+<pb n="KR4d0141_WYG_000-1b"/>
+　　　　一巻芻老圃集一巻炎西渡集一巻自明以<lb/>
+　　　　来龜父老圃二集並佚今乃從永樂大典復<lb/>
+　　　　裒輯成帙惟炎此集僅存而亦無刋本此本<lb/>
+　　　　為浙江鮑氏知不足齋所藏僅分上下二巻<lb/>
+　　　　與陳氏所載少異然老圃集陳氏亦稱一巻<lb/>
+　　　　而今掇拾殘䞉尚非一巻所能容則或書録<lb/>
+　　　　解題傳寫之訛宋史因之均未可知也炎詩<lb/>
+　　　　酷似其舅今全集巋然獨完殊足寳貴巻末<lb/>
+<pb n="KR4d0141_WYG_000-2a"/>
+　　　　所附朋詩九首芻詩二十四首記二篇不知<lb/>
+　　　　何人所輯觀其所引之書如宋元詩㑹辟彊<lb/>
+　　　　園宋文選皆康熙中人所集則亦近時人矣<lb/>
+　　　　二人集已别著録此為複贅然芻文則老圃<lb/>
+　　　　集中所不收未可全從刪薙故仍舊本附録<lb/>
+　　　　焉乾隆四十四年三月恭校上<lb/>
+　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

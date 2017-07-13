@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>滄浪集</head>
+    <p>
+<pb n="KR4d0337_WYG_000-1a"/>
+御製題嚴羽滄浪集<lb/>
+言志曾聞舜典宣爾時誰識所為禪假禪宗以定詩品<lb/>
+混儒釋兼紊後先<lb/>
+　按嚴羽滄浪集詩辨以為禪道在妙悟詩道亦在妙<lb/>
+　悟且婁舉正法眼小乗禪臨濟曹洞之類以定詩品<lb/>
+　不惟引釋教以證儒宗已為冠履倒置比儗弗倫豈<lb/>
+　知佛生於周昭王時至漢明帝時始入中國其教亦<lb/>
+　惟演經守律而已至達摩於蕭梁時至中國始倡禪<lb/>
+<pb n="KR4d0337_WYG_000-1b"/>
+　宗頓悟之法是虞廷所為詩言志者乃數典之最祖<lb/>
+　彼時之詩亦可以禪宗槩之乎夫詩有别裁偶涉禪<lb/>
+　趣固無不可若宋之蘇軾及我朝之張照每有吟咏<lb/>
+　託禪意者十之七八已失詩之本㫖若嚴羽此集津<lb/>
+　津以禪門乗果定詩之品格其所謂不涉理路不落<lb/>
+　言筌者羽早自犯涉理路而落言筌即禪家所謂擔<lb/>
+　板漢未必非此人也詩以闢之用示後之學詩者<lb/>
+<pb n="KR4d0337_WYG_000-2a"/>
+欽定四庫全書　　　　　集部四<lb/>
+　滄浪集　　　　　　　　别集類三宋<lb/>
+　　提要<lb/>
+　　　　臣等謹按滄浪集二巻宋嚴羽撰羽字儀卿一<lb/>
+　　　　字丹邱邵武人自號滄浪逋客與嚴仁嚴參<lb/>
+　　　　齊名世號三嚴今仁與參詩集無傳惟羽集<lb/>
+　　　　在其滄浪詩話有曰論詩如論禪漢魏晉與<lb/>
+　　　　盛唐之詩則第一義也大厯以還之詩則小<lb/>
+<pb n="KR4d0337_WYG_000-2b"/>
+　　　　乘禪也晚唐之詩則聲聞辟支果也盛唐諸<lb/>
+　　　　人惟在興趣羚羊挂角無迹可求故其妙處<lb/>
+　　　　透徹玲瓏不可湊泊如空中之音相中之色<lb/>
+　　　　水中之月鏡中之象言有盡而意無窮近代<lb/>
+　　　　諸公乃作奇特解會以才學為詩以議論為<lb/>
+　　　　詩夫豈不工終非古人之詩也云云其生平<lb/>
+　　　　大旨具在于是考困學紀聞載唐戴叔倫詩<lb/>
+　　　　謂詩家之景如藍田日暖良玉生煙可望而<lb/>
+<pb n="KR4d0337_WYG_000-3a"/>
+　　　　不可即司空圖詩品有不著一字盡得風流<lb/>
+　　　　語其與李秀才書又有梅止于酸鹽止于鹹<lb/>
+　　　　而味在酸鹹之外語葢推闡叔倫之意羽之<lb/>
+　　　　持論又源于圖特圖列二十四品不名一格<lb/>
+　　　　羽則専主于妙逺故其所自為詩獨任性靈<lb/>
+　　　　掃除美刺清音獨逺切響遂稀五言如一徑<lb/>
+　　　　入松雪數峯生暮寒七言如空林木落長疑<lb/>
+　　　　雨别浦風多欲上潮洞庭旅雁春歸盡𤓰步<lb/>
+<pb n="KR4d0337_WYG_000-3b"/>
+　　　　寒潮夜落遲皆志在天寶以前而格實不能<lb/>
+　　　　超大厯之上由其持詩有别才不闗于學詩<lb/>
+　　　　有别趣不闗于理之説故止能摹王孟之餘<lb/>
+　　　　響不能追李杜之巨觀也李東陽懷麓堂詩<lb/>
+　　　　話曰嚴滄浪所論超羣軼俗真若有所自得<lb/>
+　　　　反覆譬説未嘗有失顧其所自為作徒得唐<lb/>
+　　　　人體面而亦少超拔警策之處予嘗謂識得<lb/>
+　　　　十分只做得八九分其一二分乃拘于才力<lb/>
+<pb n="KR4d0337_WYG_000-4a"/>
+　　　　其滄浪之謂乎云云是猶徒知其病未中其<lb/>
+　　　　所以病矣其詩話一巻舊本别行此本為明<lb/>
+　　　　正徳中淮陽胡仲器所編置之詩集之前作<lb/>
+　　　　第一巻意在標明宗㫖殊乖體例今惟以詩<lb/>
+　　　　二卷著錄别集類其詩話别入詩文評類以<lb/>
+　　　　還其舊焉乾隆四十二年十月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸費　墀<lb/>
+<pb n="KR4d0337_WYG_000-5a"/>
+欽定四庫全書薈要　　　集部四<lb/>
+　滄浪集目録　　　　　　别集類三<hi>宋</hi>
+　　卷一<lb/>
+　　　詩辨<lb/>
+　　　詩體<lb/>
+　　　詩法<lb/>
+　　　詩評<lb/>
+　　　詩證<lb/>
+<pb n="KR4d0337_WYG_000-5b"/>
+　　　<hi>附</hi>答出繼叔臨安吳景仙書<lb/>
+　　巻二<lb/>
+　　　五言絶句<lb/>
+　　　七言絶句<lb/>
+　　　五言八句<lb/>
+　　　七言八句<lb/>
+　　　古詩<lb/>
+　　巻三<lb/>
+<pb n="KR4d0337_WYG_000-6a"/>
+　　　楚詞<lb/>
+　　　操<lb/>
+　　　吟<lb/>
+　　　引<lb/>
+　　　謡<lb/>
+　　　歌<lb/>
+　　　行<lb/>
+　　　詞<lb/>
+<pb n="KR4d0337_WYG_000-6b"/>
+　　滄浪逸詩<lb/>
+　　　五言絶句<lb/>
+　　　五言八句<lb/>
+　　　七言絶句<lb/>
+　　　四言<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

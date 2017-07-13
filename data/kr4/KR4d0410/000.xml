@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>紫巖詩選</head> <lb/>
+    <p>
+<pb n="KR4d0410_WYG_000-1a"/>
+欽定四庫全書　　　　　集部四<lb/>
+　紫巖詩選　　　　　　　别集類三<hi>宋</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹按紫巖詩選三卷宋于石撰石字介<lb/>
+　　　　翁蘭谿人宋亡不仕因所居自號紫巖晚徙<lb/>
+　　　　城中更號兩谿浙江通志載入文苑傳中又<lb/>
+　　　　載入隠逸傳中蓋二者均所不愧不可偏舉<lb/>
+　　　　故兩見也集有丁丑巳夘紀年乃臨安初破<lb/>
+<pb n="KR4d0410_WYG_000-1b"/>
+　　　　之後又有丁亥戊子嵗作乃至元二十四五<lb/>
+　　　　年皆其中年以後之詩每巻題門人吳師道<lb/>
+　　　　選僅古今體詩二百首殆意求精汰故少作<lb/>
+　　　　皆不錄與其古詩感時傷事者多哀厲之音<lb/>
+　　　　而或失之太盡㳺覽閒適者有清迥之致而<lb/>
+　　　　或失之稍薄如鄰叟言母子别路傍女諸篇<lb/>
+　　　　欲摹少陵而不免入于元白山中晚步諸篇<lb/>
+　　　　欲擬襄陽而不免入于錢郎皆取法乎上僅<lb/>
+<pb n="KR4d0410_WYG_000-2a"/>
+　　　　得其中然在江湖集盛行以後則啾啾百鳥羣忽<lb/>
+　　　　見孤鳳皇矣律詩不及古詩特大勢尚為清<lb/>
+　　　　整至如題淨居寺之雪墮枯枝龍解甲藤纒<lb/>
+　　　　怪石虎生鬚題棲真院之禪家也辨吟邊料<lb/>
+　　　　不種閒花只種梅頗不脱宋季俗格是則風<lb/>
+　　　　氣之移人也乾隆四十五年六月恭校上<lb/>
+　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　總　校　官　<hi>臣</hi>陸　費　墀<lb/>
+<pb n="KR4d0410_WYG_000-3a"/>
+欽定四庫全書<lb/>
+　紫巖詩選<lb/>
+　　巻一<lb/>
+　　　五言古詩<lb/>
+　　巻二<lb/>
+　　　歌行長短篇<lb/>
+　　巻三<lb/>
+　　　五言律詩<lb/>
+<pb n="KR4d0410_WYG_000-3b"/>
+　　　七言律詩<lb/>
+　　　七言絶句<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

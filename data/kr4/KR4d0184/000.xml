@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>和靖集目錄</head>
+    <p>
+<pb n="KR4d0184_WYG_000-1a"/>
+欽定四庫全書　　　　　集部四<lb/>
+　和靖集目錄　　　　　　别集類三<hi>宋</hi>
+　　巻一<lb/>
+　　　奏劄<hi>上</hi>
+　　巻二<lb/>
+　　　奏劄<hi>下</hi>
+　　巻三<lb/>
+　　　詩<lb/>
+<pb n="KR4d0184_WYG_000-1b"/>
+　　　雜文<lb/>
+　　　書<lb/>
+　　巻四<lb/>
+　　　壁帖<lb/>
+　　巻五<lb/>
+　　　師說<hi>上</hi>
+　　巻六<lb/>
+　　　師說<hi>中</hi>
+<pb n="KR4d0184_WYG_000-2a"/>
+　　巻七<lb/>
+　　　師說<hi>下</hi>
+　　巻八<lb/>
+　　　年譜<lb/>
+　　　　<hi>臣</hi>等謹案和靖集八巻宋徽猷閣待制河南<lb/>
+　　　　尹焞撰焞字彦明年十二應進士舉䇿問議<lb/>
+　　　　誅元祐黨籍不對而出靖康初賜號和靖處<lb/>
+　　　　士後以范冲張浚薦入經筵列侍從旋乞致<lb/>
+<pb n="KR4d0184_WYG_000-2b"/>
+　　　　仕集凡八巻首列奏劄二巻次詩文一巻次<lb/>
+　　　　壁帖一巻是其手書聖賢治氣飬心之要帖<lb/>
+　　　　之屋壁以自警惕又次師說三巻則其門人<lb/>
+　　　　王時敏編輯末附年譜為第八巻朱子語錄<lb/>
+　　　　謂焞文字其有闗朝廷者多門人代作今亦<lb/>
+　　　　不可復考然指授㸃定亦必焞所自為亦猶<lb/>
+　　　　㑹昌一品集序雖李商隠作究以鄭亞改本<lb/>
+　　　　為勝正不必盡自己出也乾隆四十二年五<lb/>
+<pb n="KR4d0184_WYG_000-3a"/>
+　　　　　月恭校上<lb/>
+　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

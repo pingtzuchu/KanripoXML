@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2a0017_WYG_060-1a"/>
+　　知州<hi>臣祖庚</hi>謹言梁臣蕭子顯齊之宗室仕梁而<lb/>
+　　修齊史以故事多附㑹辭有溢羙且以時尚瞿曇<lb/>
+　　黜儒崇釋其是非大謬于聖人昔曾鞏譏其喜自<lb/>
+　　馳騁刻彫藻繢之變尤多而文益下洵非誣也初<lb/>
+　　江淹已作十志沈約又有紀二十篇子顯别自表<lb/>
+　　修淹約注紀遂不復存矣當時奉朝請吳均亦嘗<lb/>
+　　著齊春秋三十篇劉子𤣥稱其該實而曾鞏目録<lb/>
+　　馬端臨經籍考並不及載夫子顯才氣過人以著<lb/>
+<pb n="KR2a0017_WYG_060-1b"/>
+　　作自命然沿襲卑靡故識復猥𤨏即如天文但紀<lb/>
+　　災祥州郡不著户口未免疎漏而祥瑞一志多載<lb/>
+　　圖讖尤為近誣宜乎司馬光謂李延夀書叙事簡<lb/>
+　　徑勝于正史也雖然蕭齊一代君臣行事之得失<lb/>
+　　論議之徃復未嘗表見他書即古人著述亦復不<lb/>
+　　傳于世所可考見者惟是編而是編之在今日惟<lb/>
+　　監本若任其魚豕相仍不益將訛以傳訛㡬於殘<lb/>
+　　缺無徴哉臣等仰承<lb/>
+<pb n="KR2a0017_WYG_060-2a"/>
+詔命博采前議廣集衆思敬謹編校不敢率略從事爰<lb/>
+　　考宋魏二書南北二史資治通鑑暨通典通考諸<lb/>
+　　書擇其事涉蕭齊精詳切要者或别其是非或訂<lb/>
+　　其疑似條分目晰附於各卷之末俾覽者有所依<lb/>
+　　據以仰副<lb/>
+聖天子修眀正史之至意云<hi>臣</hi>謹識<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

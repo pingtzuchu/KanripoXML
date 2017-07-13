@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0044_WYG_036-1a"/>
+崇古文訣後叙<lb/>
+迂齋先生深於古文嘗掇取菁華以惠四明學者迨分<lb/>
+教金華横經璧水傳授浸廣天下始知所宗師森曩偕<lb/>
+先生季弟為館下生就得繕本玩味不釋恨未鋟梓適<lb/>
+先生守莆幸備冷官因間叩請盡得所藏自先秦迄<lb/>
+於我宋上下千餘年間其頴出者網羅無遺軼竊謂古<lb/>
+今文章浩無津涯學者窮日之力不啻河伯之望海若<lb/>
+此編鈎𤣥而提要抉幽而洩庾波詭濤譎星囬漢翻眩<lb/>
+<pb n="KR4h0044_WYG_036-1b"/>
+晃萬状一經指摘關鍵瞭然其幸後學𢎞矣子曰人莫<lb/>
+不飲食也鮮能知味也先生之於文其知味也歟陳森<lb/>
+䟦<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

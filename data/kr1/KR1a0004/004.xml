@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <head>鄭氏周易爻辰圖</head>
+    <p>
+<pb n="1a"/>
+                    <graphic url="http://img.kanripo.org/general/skqs/wyg//WYG0007/WYG0007-0182a.png"/>
+                    <pb n="1b"/>
+周易乾鑿度曰乾陽也坤陰也並如而交錯行乾貞於<lb/>
+十一月子左行陽時六<hi>鄭注云貞正也初爻以此為正次爻左右者各從次數之</hi>坤<lb/>
+貞於六月未<hi>乾坤陰陽之主陰退一辰故貞於未</hi>右行陰時六以順成其<lb/>
+嵗嵗終從於屯蒙<hi>嵗終則從其次屯蒙需訟是也</hi>又云陰卦與陽卦同<lb/>
+位者退一辰以未為貞其爻右行間時而治六辰<hi>陰陽同位陰退一辰左右交錯相避</hi>棟案乾鑿度之説與十二律相生圖合鄭<lb/>
+于周禮太師注云黃鍾初九也下生林鍾之初六林鍾<lb/>
+又上生太蔟之九二太蔟又下生南吕之六二南吕又<lb/>
+<pb n="2a"/>
+上生姑洗之九三姑洗又下生應鍾之六三應鍾又上<lb/>
+生蕤賔之九四蕤賔又上生大吕之六四大吕又下生<lb/>
+夷則之九五夷則又上生夾鍾之六五夾鍾又下生無<lb/>
+射之上九無射又上生中吕之上六韋昭注周語云十<lb/>
+一月黃鍾乾初九也十二月大吕坤六四也正月太蔟<lb/>
+乾九二也二月夾鍾坤六五也三月姑洗乾九三也四<lb/>
+月中吕坤上六也五月蕤賔乾九四也六月林鍾坤初<lb/>
+六也七月夷則乾九五也八月南吕坤六二也九月無<lb/>
+<pb n="2b"/>
+射乾上九也十月應鍾坤六三也鄭氏注易陸績注太<lb/>
+𤣥皆同前説是以何妥文言注以初九當十一月九二<lb/>
+當正月九三當三月九四當五月九五當七月上九當<lb/>
+九月也宋朱震作十二律圖六二在已六三在卯六五<lb/>
+在亥上六在酉是坤貞于未而左行誤甚作圖以正之<lb/>
+<pb n="3a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="3b"/>
+右圖朱子發云子寅辰午申戌陽也乾之六位未已卯<lb/>
+丑亥酉<hi>此亦誤當云未酉亥丑卯已所謂右行陰時六也</hi>陰也坤之六位位之<lb/>
+升降不違其時故曰大明終始六位時成棟案康成注<lb/>
+月令云正月宿直尾箕八月宿直昴畢六月宿直鬼<hi>又云六月宿直東井</hi>九月宿直奎十月宿直營室又云卯宿直房心<lb/>
+<hi>二月</hi>申宿直參伐<hi>七月</hi>又注季冬云此月之中日厯虚危參<lb/>
+同契曰青龍處房六兮春花震東卯白虎在昴七兮秋<lb/>
+芒兌西酉朱雀在張二兮離南午又云含元虚危播精<lb/>
+<pb n="4a"/>
+於子皆與圖合若以日所厯言之則右行而周二十八<lb/>
+舍明堂月令所謂孟春之月日在營室是也與此不同<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

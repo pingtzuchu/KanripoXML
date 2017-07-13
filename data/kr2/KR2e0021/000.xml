@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>革除逸史</head>
+    <p>
+<pb n="KR2e0021_WYG_000-1a"/>
+欽定四庫全書　　　　史部五<lb/>
+　革除逸史　　　　　　雜史類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹按革除逸史二卷明朱睦㮮撰睦㮮<lb/>
+　　　　周藩宗室居於開封授鎮國中尉博學通經<lb/>
+　　　　著述極富是書以編年體紀建文帝一朝事<lb/>
+　　　　蹟明史藝文志載有睦㮮遜國志二卷當即<lb/>
+　　　　此書盖其後所改名也革除間事明人撰述<lb/>
+<pb n="KR2e0021_WYG_000-1b"/>
+　　　　者極多皆據從亡致身諸録所紀往往失實<lb/>
+　　　　睦㮮自序獨力辨建文帝髠緇遯去及正統<lb/>
+　　　　間迎入大内之説乃好事者為之故載建文<lb/>
+　　　　四年六月事祗以宫中火起帝遜位為𫝊疑<lb/>
+　　　　之詞其識視諸家為卓矣乾隆四十一年十<lb/>
+　　　　月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　總　校　官　<hi>臣</hi>陸　費　墀<lb/>
+<pb n="KR2e0021_WYG_000-2a"/>
+革除逸史原序<lb/>
+夫載籍之興可以勸善可以懲慝可以奬成可以懼敗<lb/>
+斯有國之常訓也革除間史臣逺嫌不紀建文之事以<lb/>
+致四年政令闕而不𫝊自仁宣以後山林之士稍稍出<lb/>
+逸文談往事于是有撰靖難録者有撰革除録者余嘗<lb/>
+觀二録其辭或抑或揚俱失太過而革除録失實尤多<lb/>
+如謂遜國君假髠緇遯去又謂正統間自滇雲歸入居<lb/>
+大内以夀終𦵏之西山不封不樹又撰偽詩三章有流<lb/>
+<pb n="KR2e0021_WYG_000-2b"/>
+落西南四十秋之語此皆好事者為之也嗚呼一倡羣<lb/>
+和至今百餘年疑者半信者半即海鹽玉山東莞皆稱<lb/>
+博雅之儒而不能辨諸說之誤可慨也已今上嗣統首<lb/>
+詔有司表章遜國諸臣余感其事乃取諸家論述參以<lb/>
+所聞為書一編略具四年之事名曰革除逸史愧非茂<lb/>
+先之彊記子産之博聞爰因舊聞聊寓筆削雖不足裨<lb/>
+補闕遺庶覽者或有稽焉萬厯二年秋七月既望汴上<lb/>
+睦㮮撰<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

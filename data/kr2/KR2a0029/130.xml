@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2a0029_WYG_130-1a"/>
+　舊五代史卷六十四考證<lb/>
+唐列傳十六霍彦威傳存憐其爽邁飬為已子　案通<lb/>
+　鑑注以彦威為霍存之子與是書異<lb/>
+值青州王公儼拒命改平盧節度至鎮擒公儼斬之<lb/>
+　案歐陽史彦威徙鎮平盧朱守殷反伏誅考朱守殷<lb/>
+　反明宗遣范延光馳兵斬之非出彦威之力疑以是<lb/>
+　書所載為得其實<lb/>
+王晏球傳髙行周以龍武右軍攻其右　行周歐陽史<lb/>
+<pb n="KR2a0029_WYG_130-1b"/>
+　作行珪<lb/>
+朱漢賓傳謚曰貞恵　案五代㑹要作正慧引太常博<lb/>
+　士林弼議曰漢賔散已俸以代荒逋濟疲俗而臻富<lb/>
+　庶所涖之地綽有政聲知進退存亡之理得善始令<lb/>
+　終之道謹案諡法中道不撓保節掦名曰正愛民好<lb/>
+　學寛裕慈仁曰慧請諡曰正慧從之是書及歐陽史<lb/>
+　俱作貞恵未知何据<lb/>
+劉圯傳翌日受賀衙庭享士伏甲幕下盡斬其亂将<lb/>
+<pb n="KR2a0029_WYG_130-2a"/>
+　案通鑑考異引梁祖實録八月丁酉賜劉玘王延順<lb/>
+　物以其違亂将之命來歸編遺録斬李洪勅云始扶<lb/>
+　劉圮既奔竄以歸朝若使圯翌日便斬亂将則襄州<lb/>
+　何以至九月始収復盖圮脱身歸朝及梁亡入唐妄<lb/>
+　云斬亂以自誇大耳<lb/>
+周知裕傳清㤗初卒於官　案歐陽史作應順中卒<lb/>
+托諾舊作秃餒今改　特哩衮舊作惕隠今改<lb/>
+　<lb/>
+<pb n="KR2a0029_WYG_130-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　舊五代史巻六十四攷證<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

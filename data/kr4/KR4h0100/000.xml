@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>元詩體要</head>
+    <p>
+<pb n="KR4h0100_WYG_000-1a"/>
+欽定四庫全書　　　　　集部八<lb/>
+　元詩體要　　　　　　　總集類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案元詩體要十四巻明宋緒編緒字<lb/>
+　　　　公傳以字行餘姚人成祖時預修永樂大典<lb/>
+　　　　時同邑被徴者五人及書成宋孟嶽趙膚迪<lb/>
+　　　　朱徳茂張廷皆授官緒獨辭不受是集録元<lb/>
+　　　　一代之詩凡為體三十有六各體之中或以<lb/>
+<pb n="KR4h0100_WYG_000-1b"/>
+　　　　體分或以題分體例頗不畫一其以體分者<lb/>
+　　　　選體别於五言古吟歎怨引之類别於樂府<lb/>
+　　　　長短句别於雜古體未免治絲而棼其以題<lb/>
+　　　　分者香奩無題詠物既各為類則行役邊塞<lb/>
+　　　　贈答諸門將不勝載更不免於挂漏又第八<lb/>
+　　　　巻楊維楨出浴絶句實唐韓偓七言律詩後<lb/>
+　　　　四句採録亦間有疎舛然去取頗有鑒裁自<lb/>
+　　　　明以來傳本頗稀此本為秀水曹溶家所藏<lb/>
+<pb n="KR4h0100_WYG_000-2a"/>
+　　　　書中間有缺葉既無别本可校今亦姑仍其<lb/>
+　　　　舊焉乾隆四十三年三月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

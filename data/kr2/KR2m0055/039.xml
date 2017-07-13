@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2m0055_WYG_039-1a"/>
+欽定四庫全書<lb/>
+大清律例卷十二目録<lb/>
+　戸律<lb/>
+　　倉庫下<lb/>
+　　　那移出納<lb/>
+　　　庫秤雇役侵欺<lb/>
+　　　冒支官糧<lb/>
+　　　錢糧互相覺察<lb/>
+<pb n="KR2m0055_WYG_039-1b"/>
+　　　倉庫不覺被盜<lb/>
+　　　守支錢糧及擅開官封<lb/>
+　　　出納官物有違<lb/>
+　　　收支留難<lb/>
+　　　起解金銀足色<lb/>
+　　　損壊倉庫財物<lb/>
+　　　轉解官物<lb/>
+　　　擬斷贓罰不當<lb/>
+<pb n="KR2m0055_WYG_039-2a"/>
+　　　守掌在官財物<lb/>
+　　　隱瞞入官家産<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

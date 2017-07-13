@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>墓銘舉例目録</head>
+    <p>
+<pb n="KR4i0050_WYG_000-1a"/>
+欽定四庫全書　　　　　集部九<lb/>
+　墓銘舉例目録　　　　　詩文評類<lb/>
+　　巻一<lb/>
+　　　韓文公<hi>六十六首</hi>
+　　　李文公<hi>九首</hi>
+　　　柳河東<hi>二十七首</hi>
+　　巻二<lb/>
+　　　歐陽文忠公<hi>三十一首</hi>
+<pb n="KR4i0050_WYG_000-1b"/>
+　　　尹河南<hi>七首</hi>
+　　　曽南豐<hi>十八首</hi>
+　　　王荆公<hi>三十三首</hi>
+　　　蘇文忠公<hi>九首</hi>
+　　　朱文公<hi>二十首</hi>
+　　巻三<lb/>
+　　　陳后山<hi>三首</hi>
+　　　黄山谷<hi>二首</hi>
+<pb n="KR4i0050_WYG_000-2a"/>
+　　　陳了齋<hi>七首</hi>
+　　　晁濟北<hi>四首</hi>
+　　巻四<lb/>
+　　　張宛丘<hi>三首</hi>
+　　　吕成公<hi>三首</hi>
+　　　　<hi>臣</hi>等謹案墓銘舉例四巻明王行撰行字止<lb/>
+　　　　仲長洲人洪武初辟為本郡文學行以墓誌<lb/>
+　　　　銘書法有例其大要十有三事曰諱曰字曰<lb/>
+<pb n="KR4i0050_WYG_000-2b"/>
+　　　　姓氏曰鄉邑曰族出曰行治曰履厯曰卒日<lb/>
+　　　　曰夀年曰妻曰子曰葬日曰葬地序次或有<lb/>
+　　　　先後不越此十餘事耳取韓愈李翺栁宗元<lb/>
+　　　　歐陽修尹洙曽鞏王安石蘇軾朱子陳師道<lb/>
+　　　　黄庭堅陳瓘晁補之張耒吕祖謙一十五家<lb/>
+　　　　之文所載碑誌錄其目而舉其例以補元潘<lb/>
+　　　　昻霄金石例之遺墓誌之興或云宋顔延之<lb/>
+　　　　或云晉王戎或云魏繆襲或云漢杜子夏其<lb/>
+<pb n="KR4i0050_WYG_000-3a"/>
+　　　　源不可詳考由齊梁以至隋唐諸家文集傳<lb/>
+　　　　者頗多然詞皆駢偶不為典要惟韓愈始以<lb/>
+　　　　史法作之後之文士率祖其體故是編所述<lb/>
+　　　　以愈為始焉乾隆四十二年五月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

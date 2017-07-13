@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3j0155_WYG_011-1a"/>
+題南園漫録後跋<lb/>
+徃草此以付㓜子合合時方九齡今合試京師五年偶<lb/>
+於其書笥中見之殆不復記憶悵然興懷乃自録出然<lb/>
+以是是非非枉枉直直斤斤明明視筆談不及士夫毁<lb/>
+譽者異矣復欲藏之適見廣昌何公喬新集所載撫夷<lb/>
+録謬甚然後知姦邪矯誣足以欺一時矣而其術又足<lb/>
+以假名臣聞人文其惡而惑後世用是刻以乆之或以<lb/>
+招尤速累為虞者則曰孫盛紀枋頭之敗桓温謂關門<lb/>
+<pb n="KR3j0155_WYG_011-1b"/>
+戸事諸子請改盛大怒更為定本寄慕容雋孔子曰斯<lb/>
+民也三代所以直道而行也吾不佞敢自棄不如春秋<lb/>
+之民不如東晉之士而又敢以不如桓温待今世之賢<lb/>
+哉<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

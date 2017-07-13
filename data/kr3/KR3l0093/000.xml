@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>神異經</head>
+    <p>
+<pb n="KR3l0093_WYG_000-1a"/>
+欽定四庫全書　　　　　子部十二<lb/>
+　神異經　　　　　　　　小説家𩔖二<hi>異聞之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案神異經一卷舊本題漢東方<lb/>
+　　　　朔撰所載皆荒外之言怪誕不經共四<lb/>
+　　　　十七條陳振孫書録解題已極斥此書稱東<lb/>
+　　　　方朔撰張茂先傳之偽今考漢書朔本傳厯<lb/>
+　　　　叙朔所撰述言凡劉向所録朔書俱是世所<lb/>
+<pb n="KR3l0093_WYG_000-1b"/>
+　　　　傳他事皆非其贊又言後世好事者取竒言<lb/>
+　　　　怪語附著之朔云云則朔書多出附㑹在班<lb/>
+　　　　固時已然此書既劉向七略所不載則其為<lb/>
+　　　　依托更無疑義晉書張華本傳亦無註神異<lb/>
+　　　　經之文則併華注亦屬假借振孫所欵誠為<lb/>
+　　　　有見然隋志載此書已稱東方朔撰張華注<lb/>
+　　　　則其偽在隋以前矣觀其詞華縟麗格近齊<lb/>
+　　　　梁當由六朝文士影撰而成與洞㝠拾遺諸<lb/>
+<pb n="KR3l0093_WYG_000-2a"/>
+　　　　記先後並出其中西北荒金闕銀盤明月珠<lb/>
+　　　　事陸倕石闕銘引用之其中王女投壺事徐<lb/>
+　　　　陵玉臺新詠序引用之流傳既久固不妨過<lb/>
+　　　　而存之以廣異聞又考廣韻去聲四十一漾<lb/>
+　　　　收㺊字説文玉篇皆所不載注稱獸似獅子<lb/>
+　　　　實本此經北方有獸焉其狀如獅子名曰㺊<lb/>
+　　　　之文則小學家已相援據不但文人詞藻轉<lb/>
+　　　　相採摭已也隋志列之史部地理𩔖唐志又<lb/>
+<pb n="KR3l0093_WYG_000-2b"/>
+　　　　列之子部神仙𩔖今核所言多世外恍惚之<lb/>
+　　　　事既有異於輿圖亦無闗於修煉其分𨽻均<lb/>
+　　　　屬未安今從文獻通考列小説𩔖中庶得其<lb/>
+　　　　實焉乾隆四十五年十月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

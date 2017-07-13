@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>明文海巻三百四</head>
+    <p>
+<pb n="KR4h0152_WYG_304-1a"/>
+欽定四庫全書<lb/>
+　明文海巻三百四　　　　　餘姚黄宗羲編<lb/>
+　　序九十五<lb/>
+　　　雜序<lb/>
+　　跋梅江與姊夫書<lb/>
+當肅皇帝初蒞宸極㑹稽沈黄門束上十八事規帝帝<lb/>
+大震怒廷杖下獄垂十八年莫有救之者迨海忠介疏<lb/>
+上即舉朝譁然救之帝曰沈束上疏無人申救何救瑞<lb/>
+<pb n="KR4h0152_WYG_304-1b"/>
+疏之夥特旨赦沈公出之公出而土木形骸傫然囚也<lb/>
+己感疾其妾毛氏未曾識公適當詔獄事故也毛獨守<lb/>
+二十年公屢於獄中傳諭改適而毛不然之公出始侍<lb/>
+巾櫛年己四十矣公疾捐館毛哭泣過多病卒以死殉<lb/>
+公此書乃公與姊丈張君者中間委曲不異少壯而毫<lb/>
+素有法得蘭亭筆意又公在獄中搏土為博山為銅鼓<lb/>
+摩拊如銅有聲亦竒且異矣㑹稽陳右將軍好古博雅<lb/>
+惜公翰墨後人不謹付之脂燭獨此一紙尚存正論毛<lb/>
+<pb n="KR4h0152_WYG_304-2a"/>
+妾之事也豈造物愛䕶之歟裝潢成巻擕以示余且丐<lb/>
+題其後敬書所聞如此<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR4h0152_WYG_304-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　明文海巻三百四<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

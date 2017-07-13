@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>七國攷目錄</head>
+    <p>
+<pb n="KR2m0011_WYG_000-1a"/>
+欽定四庫全書　　　　　史部十三<lb/>
+　七國攷目錄　　　　　　政書類一<hi>通制之屬</hi>
+　卷一<lb/>
+　　　職官<lb/>
+　　卷二<lb/>
+　　　食貨<lb/>
+　　卷三<lb/>
+　　　都邑<lb/>
+<pb n="KR2m0011_WYG_000-1b"/>
+　　卷四<lb/>
+　　　宫室<lb/>
+　　卷五<lb/>
+　　　國名<lb/>
+　　卷六<lb/>
+　　　羣禮<lb/>
+　　卷七<lb/>
+　　　音樂<lb/>
+<pb n="KR2m0011_WYG_000-2a"/>
+　　卷八<lb/>
+　　　器服<lb/>
+　　卷九<lb/>
+　　　雜祀<lb/>
+　　卷十<lb/>
+　　　䘮制<lb/>
+　　卷十一<lb/>
+　　　兵制<lb/>
+<pb n="KR2m0011_WYG_000-2b"/>
+　　卷十二<lb/>
+　　　刑法<lb/>
+　　卷十三<lb/>
+　　　災異<lb/>
+　　卷十四<lb/>
+　　　𤨏徴<lb/>
+　　　　<hi>臣</hi>等謹案七國攷十四卷明董説撰説字雨<lb/>
+　　　　若烏程人所著有易發吳興備志諸書已别<lb/>
+<pb n="KR2m0011_WYG_000-3a"/>
+　　　　著錄是編載秦齊楚趙韓魏燕七國制度分<lb/>
+　　　　職官食貨都邑宫室國名羣禮音樂器服雜<lb/>
+　　　　記喪制兵制刑法災異𤨏徴等十四門皆採<lb/>
+　　　　掇諸書以相佐證畧如兩漢㑹要之體大致<lb/>
+　　　　以戰國䇿史記為本而以諸子雜史補其遺<lb/>
+　　　　缺其所援引如劉向列仙傳張華感應類從<lb/>
+　　　　志子華子符子王嘉拾遺記之類或文士之<lb/>
+　　　　寓言或小説之雜記皆據為典要而月令所<lb/>
+<pb n="KR2m0011_WYG_000-3b"/>
+　　　　載太尉大酋之屬註者明曰秦官乃反遺漏<lb/>
+　　　　未免去取不倫又既以七國為名自應始自<lb/>
+　　　　分晉以後而秦之寺人上引車轔楚之兩廣<lb/>
+　　　　逺徵左傳則於斷限有乖新序載魏王欲為<lb/>
+　　　　中天之臺許綰諫止未必實有其事即有之<lb/>
+　　　　亦議而未行而魏宫室門中乃出一中天臺<lb/>
+　　　　莊子所載麗譙乃城闕之通名非魏所獨有<lb/>
+　　　　乃於魏宫室中標一目曰麗譙琴操載韓殺<lb/>
+<pb n="KR2m0011_WYG_000-4a"/>
+　　　　聶政之父乃古來之常刑非韓所剏乃於韓<lb/>
+　　　　刑法中標一目曰殺亦嫌於隨意撦撏苟盈<lb/>
+　　　　卷帙至於秦水心劍事本見續齊諧記乃云<lb/>
+　　　　白帖秦舎晉侯於靈臺本見左傳乃云列女<lb/>
+　　　　傳亦往往不得其出典觀其前後無序䟦而<lb/>
+　　　　齊職官門注封君后妃附乃祗有封君而無<lb/>
+　　　　后妃殆説未成之稿偶為後人傳錄歟然春<lb/>
+　　　　秋以前之制度有經傳可稽秦漢以下之故<lb/>
+<pb n="KR2m0011_WYG_000-4b"/>
+　　　　事有史志可考惟七雄雲擾䇿士縱横中間<lb/>
+　　　　一二百年典章制作實蕩然不可復徵説能<lb/>
+　　　　叅考諸書排比鉤貫尚一一各得其崖畧俾<lb/>
+　　　　考古者有徵焉雖間傷蕪漫固不妨過而存<lb/>
+　　　　之矣乾隆四十三年七月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

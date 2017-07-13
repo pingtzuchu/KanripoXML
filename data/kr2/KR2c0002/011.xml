@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2c0002_SBCK_011-1a"/>
+　刻汲冡周書䟦<lb/>
+　汲冡周書自漢巳入中秘晉太康間竹<lb/>
+　簡古書稍稍復岀云書疑戰國士綴拾<lb/>
+　成之藉周爲名孔氏殆未之見者凡七<lb/>
+　十篇眞贋醇駁讀者類能辨之然藝圃<lb/>
+　菁蕐芬芳縟采上遡二京而先秦七國<lb/>
+　則斯編也其逸響高韻之存乎余念莆<lb/>
+　爲書學淵藪以手抄善本刻此俾誦者<lb/>
+<pb n="KR2c0002_SBCK_011-1b"/>
+　知爲經之别録俱不可捐爾峕<lb/>
+　嘉靖癸丣長至月吉旦<lb/>
+賜進士福建興化府推官前山西道監察<lb/>
+　御史四朙後學章檗謹䟦<lb/>
+<pb n="KR2c0002_SBCK_011-2a"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

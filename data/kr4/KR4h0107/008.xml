@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>古詩紀巻八</head>
+    <p>
+<pb n="KR4h0107_WYG_008-1a"/>
+欽定四庫全書<lb/>
+　古詩紀巻八　　　　　　明　馮惟訥　撰<lb/>
+古逸第八<lb/>
+　詩<lb/>
+　　　石鼓詩<hi>十章</hi>
+　　<hi>風雅逸篇曰石鼔詩周宣王獵碣也於詩體屬小雅或以為周成王時詩以左傳成有岐陽之蒐證</hi>
+　　<hi>之亦一説也○按古文苑所載石鼓文稱孫巨源得於佛書龕中盖唐人所錄僅四百九十七言耳</hi>
+　　<hi>章樵為之考正集釋之又薛尚功鄭樵潘迪諸家咸有音訓然於闕文靡所増益楊用脩自言受學</hi>
+<pb n="KR4h0107_WYG_008-1b"/>
+　　<hi>於李文正公得蘇文忠舊本盖六百五十七言而訓釋亦簡要楊子易以今文傳之矣陜西志亦載</hi>
+　　<hi>此文其文悉與楊本同而字盡訓釋頗異今以二本㕘較著之其古文苑舊註有可采者亦間取附</hi>
+　　<hi>入註中姓氏薛鄭章潘巳見前施謂施宿王王厚之蘇疑即文忠也</hi>
+<graphic n="KR1014" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1014.png" mimeType="image/png"/>
+                    <hi>本音吾讀作我</hi>車既㠪<hi>籀文工/讀作攻</hi>
+                    <graphic n="KR1014" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1014.png" mimeType="image/png"/>馬既同<graphic n="KR1014" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1014.png" mimeType="image/png"/>車既<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>古文好</hi>
+                    <graphic n="KR1014" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1014.png" mimeType="image/png"/>
+馬既□<hi>音阜與<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>同馬肥貌一從缶籀文□音騊北野良馬也</hi>君子<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <hi>籀文員通作爰</hi>
+邋邋<hi>讀作獵</hi>
+                    <graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>斿<hi>通作游當讀作君/子爰獵爰獵爰游</hi>麀鹿速速君子㞢<hi>之</hi>
+求□□<hi>古文關讀作彎</hi>
+                    <graphic n="KR1234" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1234.png" mimeType="image/png"/>
+                    <hi>音/條</hi>弓<hi>石本弓古及/字舊作弓</hi>弓玆㠯<hi>以/</hi>
+                    <graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <hi>本寺字讀</hi>
+<hi>作時古文省</hi>
+                    <graphic n="KR1014" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1014.png" mimeType="image/png"/>敺<hi>驅/</hi>其□<hi>畤音/止</hi>其來趩趩<hi>音亦楊曰/讀作彳</hi>
+                    <graphic n="KR1946" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1946.png" mimeType="image/png"/>
+                    <graphic n="KR1946" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1946.png" mimeType="image/png"/>
+                    <hi>音憲</hi>
+<pb n="KR4h0107_WYG_008-2a"/>
+<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <hi>大來切今作炱音臺煙塵也</hi>郎<graphic n="KR1014" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1014.png" mimeType="image/png"/>
+                    <hi>音御與/□小異</hi>即□麀鹿趚趚<hi>音即</hi>其<lb/>
+來大垐<hi>音茨大逍也</hi>
+                    <graphic n="KR1014" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1014.png" mimeType="image/png"/>敺其欉<hi>朴同楊曰/讀作僕</hi>其來<graphic n="KR0146" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0146.png" mimeType="image/png"/>
+                    <graphic n="KR0146" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0146.png" mimeType="image/png"/>
+                    <hi>音/獨</hi>
+                    <graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>古文</hi>
+<hi>射</hi>其<graphic n="KR2210" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2210.png" mimeType="image/png"/>
+                    <hi>音堅獸三歲/曰肩楊作豚</hi>蜀<hi>讀作屬古省文</hi>
+　　　右一<hi>薛作辛文共鄭作丙文重文十    七十六字</hi>　<hi>文六十六一十九句</hi>
+<graphic n="KR0648" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0648.png" mimeType="image/png"/>
+                    <hi>
+                        <graphic n="KR0648" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0648.png" mimeType="image/png"/>音牽/水名</hi>殹<hi>王曰古也字見詛楚文楊云音繄</hi>沔沔<hi>章音泛泛當作□篆文反正為乏今</hi>
+<hi>從丏恐非</hi>㞼<hi>與□/同</hi>□<hi>籀文皮/讀作彼</hi>□<hi>古文苑作/淖楊作潮</hi>淵□<hi>古文/鰋</hi>□處<hi>上聲</hi>
+<hi>叶作居</hi>㞢君子□<hi>漁/</hi>㞢澫澫<hi>澫通/作漫</hi>又<hi>通作有/下皆同</hi>□<hi>古鯊字魚名</hi>其<lb/>
+斿<hi>游</hi>□□<hi>音㪚叶/作跚</hi>帛<hi>讀作白/下同</hi>□<hi>魚/</hi>
+                    <graphic n="KR1788" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1788.png" mimeType="image/png"/>
+                    <graphic n="KR1788" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1788.png" mimeType="image/png"/>
+                    <hi>音洛/白兒</hi>其□<hi>蕰與𦵔同</hi>
+<pb n="KR4h0107_WYG_008-2b"/>
+氐<hi>古作底至也</hi>□黃帛其□<hi>古文/鯿</hi>又□<hi>今作/鮒</hi>又□<hi>即白字○志云與鮊</hi>
+<hi>同叶音綿</hi>其<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>乞反/切</hi>孔□<hi>庶/</hi>□<hi>臠/</hi>㞢<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <hi>音决獸似狌狌下當从夬楊從史註</hi>
+<hi>云生兾切</hi>
+                    <graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <hi>籀文/洋</hi>
+                    <graphic n="KR0146" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0146.png" mimeType="image/png"/>
+                    <graphic n="KR0146" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0146.png" mimeType="image/png"/>
+                    <hi>音/搏</hi>其□佳<hi>讀作惟古文/省下皆同</hi>可<hi>讀作何亦古省</hi>
+<hi>文下同</hi>佳□<hi>似呂/切</hi>佳□可㠯□<hi>普刀切隷作櫜又作□音托</hi>㞢佳楊及<lb/>
+□<hi>古文柳</hi>
+　　　右二<hi>薛作戊文共鄭作甲文重文七    六十八字</hi>　<hi>文六十一一十七句</hi>
+　　<hi>施云石鼔中唯此完好無一字磨滅然字多假借世既逾逺不能盡知故義亦有不通處更俟博雅</hi>
+　　<hi>君子辯而釋之庶可補雅頌之亡逸</hi>
+<pb n="KR4h0107_WYG_008-3a"/>
+田車孔<hi>章作既</hi>安□<hi>音條轡首/垂銅也</hi>勒□□<hi>□與駻同/馬行也</hi>六□<hi>古文</hi>
+<hi>師</hi>既簡左驂旛旛<hi>妨圓切旌旗總名/旛旛取其輕舉皃</hi>右驂騝騝<hi>紀偃切壯徤皃</hi>
+<graphic n="KR1014" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1014.png" mimeType="image/png"/>㠯□<hi>古作躋</hi>亐邍<hi>古原/字</hi>
+                    <graphic n="KR1014" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1014.png" mimeType="image/png"/>戎止<hi>石本/作□</hi>□<hi>古文陸</hi>宫車其寫<lb/>
+<hi>寫舍也讀如卸史記秦每破諸侯寫放其宫室</hi>秀弓<hi>秀通作繡繡弓戎弓/也穀梁傳弓繡質</hi>
+                    <graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <hi>時</hi>
+<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>麋豕孔□麀鹿雉兎其邍又<hi>有</hi>□<hi>□或作□音循</hi>其戎□□<lb/>
+<hi>音奔又作走音奏鄭本有□字在大字上音□古直字也</hi>大車出各<hi>洛/</hi>□<hi>古文作惡堊</hi>獸<lb/>
+<hi>楊作亞獻</hi>白□<hi>古文澤白/澤獸名</hi>
+                    <graphic n="KR1014" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1014.png" mimeType="image/png"/>□而勿<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>叶音/杓</hi>多□䟏䟏<hi>音力叶音</hi>
+<hi>約</hi>君子逌<hi>音乃楊/作攸</hi>樂<hi>音洛</hi>
+<pb n="KR4h0107_WYG_008-3b"/>
+　　　右三<hi>薛作丙文共鄭作丁文重文五    七十四字</hi>　<hi>文六十九一十八句</hi>
+□<hi>帥</hi>□鑾車<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <hi>音忽疾也下/从本音叨</hi>敕<hi>音/速</hi>眞<hi>讀作填古文省</hi>如秀弓孔<lb/>
+碩<hi>叶式畧反</hi>彤矢□□<hi>古鏃/字</hi>四馬其寫六□<hi>轡/</hi>沃若□<hi>徒</hi>□<lb/>
+<hi>
+                        <graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>從馬从便舊本云/未詳楊云恐當作駢</hi>孔□□<hi>廓</hi>騎□<hi>籀文/宣</hi>博<hi>古文苑作廓宣搏搏</hi>
+□<hi>鄭云即酋字通作輶石本作□音首</hi>車□<hi>古文/載</hi>□<hi>古文道</hi>如□如章邍溼<lb/>
+<hi>古文濕</hi>隂陽趍趍<hi>音池調和閑習之貌鄭/作<graphic n="KR2231" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2231.png" mimeType="image/png"/>即趣字七走反</hi>六馬<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>射</hi>㞢□<lb/>
+□<hi>籀文族矢鋒也叶音㮶</hi>又<hi>有/</hi>貙<hi>音/樞</hi>如虎獸鹿如□<hi>兕/</hi>台<hi>讀作怡古省文</hi>
+邇多賢□<hi>音循</hi>禽□<hi>奉</hi>雉<graphic n="KR1014" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1014.png" mimeType="image/png"/>兎允異<lb/>
+<pb n="KR4h0107_WYG_008-4a"/>
+　　　右四<hi>薛作丁文共鄭作戊文重文三    七十二字</hi>　<hi>文六十九一十八句</hi>
+<graphic n="KR1014" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1014.png" mimeType="image/png"/>來自東<hi>古文苑有凄凄二字</hi>霝<hi>古零/字</hi>雨<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>□<hi>古文流</hi>逆湧盈盈□<lb/>
+<hi>與渫同音屑楊云水名</hi>溼<hi>古文/濕</hi>君子既□<hi>古文/涉</hi>
+                    <graphic n="KR1014" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1014.png" mimeType="image/png"/>馬□<graphic n="KR0648" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0648.png" mimeType="image/png"/>
+                    <graphic n="KR0648" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0648.png" mimeType="image/png"/>
+                    <hi>古文苑無</hi>
+<hi>重文</hi>殹<hi>也/</hi>洎<hi>暨/同</hi>淒<hi>二字古文苑/俱有重文</hi>㞼<hi>丞/</hi>士駋<hi>古文/駕</hi>言<graphic n="KR1214" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1214.png" mimeType="image/png"/>
+                    <hi>古文西</hi>
+䢜<hi>籀文歸</hi>方<hi>作/舫</hi>□<hi>舟/</hi>自□<hi>廓/</hi>□□<hi>楊作/駢</hi>逴逴<hi>音/綽</hi>佳<hi>維</hi>□㠯<lb/>
+□<hi>逍</hi>或隂或陽极<hi>即笈字志云音結</hi>㴱㠯戶出亐水一方□□<lb/>
+遑<hi>楊作徨</hi>止其<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <graphic n="KR1014" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1014.png" mimeType="image/png"/>
+                    <hi>古文苑作其/奔其□音禦</hi>㠯且<hi>讀作阻/古省文</hi>其□<hi>乃</hi>□<lb/>
+<hi>古文事</hi>
+<pb n="KR4h0107_WYG_008-4b"/>
+　　　右五<hi>薛作壬文共鄭作辛文重文三    六十九字</hi>　<hi>文六十六一十六句</hi>
+□□乍<hi>古文作下同</hi>邍乍周□<hi>導/</hi>□<hi>古遄/省文</hi>□<hi>我/</hi>□<hi>籀文辭</hi>攸除<lb/>
+帥□□田□<hi>舊音莾或作䒪居幽切</hi>為□里<hi>世从三十為世施云世三十也以三十為</hi>
+<hi>世書家謂之會意佛書謂之二合字□蘇合反非世字也</hi>希□□□<hi>音/徼</hi>□<hi>乃/</hi>□<hi>古文□</hi>
+桼<hi>桼木汁也可以髤物別作漆水名</hi>
+                    <graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <hi>籀文/栗</hi>柞<hi>音昨/櫟也</hi>棫<hi>音域白桵也</hi>其㧞□<lb/>
+<hi>即椶字音宗</hi>□<hi>音咎又/音杲</hi>□□<hi>未詳音義楊作/庸或云遘字</hi>鳴<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <hi>條山楸也</hi>亞□<lb/>
+<hi>箬</hi>其<graphic n="KR1191" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1191.png" mimeType="image/png"/>
+                    <hi>華/</hi>可<hi>何/</hi>為所斿□□<hi>音夒或/作夔</hi>水盭<hi>音利或音周非</hi>□□<lb/>
+<hi>古文㫖</hi>□<hi>樹/</hi>□<hi>與幽/同</hi>□<hi>古文晤</hi>
+<pb n="KR4h0107_WYG_008-5a"/>
+　　　右六<hi>薛作庚文共鄭作乙文重文三    五十五字</hi>　<hi>文五十二</hi>
+　　<hi>施云此鼓乃皇祐閒向傅師搜訪而得者每行术僅存四字故今所傳皆斷續不成文</hi>
+□<graphic n="KR1014" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1014.png" mimeType="image/png"/>嘽嘽<hi>音檀衆盛也</hi>□<hi>然/</hi>□師旅<hi>章云旅字之/下磨滅二字</hi>眞<hi>填</hi>□會<lb/>
+同又<hi>有楊云如字</hi>□㠯左<hi>施云左字下有驂/字今碑本磨滅</hi>戎<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>音章<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>徨行遽□蘇</hi>
+<hi>讀作障</hi>弓矢孔□滔滔是□<hi>熾/</hi>
+                    <graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>夫寫矢<hi>古文苑/有不字</hi>其□<hi>即奪</hi>
+<hi>字</hi>
+                    <graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <hi>古文/舉</hi>㧘<hi>音自積禽也/詩助我舉㧘</hi>其□□<hi>鄭作䏏音吁蘇作肝</hi>來或羣或<lb/>
+㕛<hi>友</hi>悉率左右燕樂<hi>音/洛</hi>天子來嗣王始□□<hi>振音/真</hi>□<hi>復</hi>
+古我來攸止<lb/>
+<pb n="KR4h0107_WYG_008-5b"/>
+　　　右七<hi>薛作甲文共鄭作壬文重文三    六十二字</hi>　<hi>文五十九一十五句</hi>
+□<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <hi>走</hi>䮺䮺<hi>未詳音義/鄭音劑</hi>馬□<hi>即麃字音標或云音袍麋屬</hi>晳晳□□<lb/>
+<hi>華</hi>雉㲋<hi>音綽似兎/青色而大</hi>
+                    <graphic n="KR1390" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1390.png" mimeType="image/png"/>
+                    <hi>舊音位</hi>多□微我師氏憲憲文武可<lb/>
+<hi>如字</hi>其一㞢<lb/>
+　　　右八<hi>薛作巳文共鄭作庚文重文四    二十七字</hi>　<hi>文二十三</hi>
+　　<hi>施云此鼔最磨滅不復成文</hi>
+<graphic n="KR1014" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1014.png" mimeType="image/png"/>水既□<hi>與净同</hi>
+                    <graphic n="KR1014" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1014.png" mimeType="image/png"/>□<hi>導通作道</hi>既□<graphic n="KR1014" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1014.png" mimeType="image/png"/>行既止嘉□<graphic n="KR0767" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0767.png" mimeType="image/png"/>里天<lb/>
+子永㝕<hi>古文寧</hi>日□<hi>惟/</hi>丙□<hi>申/</hi>旭旭杲杲<graphic n="KR1014" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1014.png" mimeType="image/png"/>其雱<hi>籀文旁爾雅二</hi>
+<pb n="KR4h0107_WYG_008-6a"/>
+<hi>達曰旁</hi>□<hi>叶上/聲</hi>□<hi>乘/</hi>馬既□<hi>音/循</hi>□<hi>未詳音義/章作敕</hi>□<hi>古文夏</hi>□□<lb/>
+<hi>康</hi>□<hi>駕/</hi>□四黄左驂□䮯<hi>音/敖</hi>右驂□□<hi>音/速</hi>□<hi>音/啔</hi>戟<hi>㦸</hi>㠯<lb/>
+□<hi>奕</hi>女<hi>讀作/汝</hi>□□㥁<hi>□/</hi>旛□<hi>籀文翰平聲鳥羽也析羽而注於旗首故曰旛翰</hi>
+□□<hi>音□</hi>猋<hi>古飆字音標/盖通作□</hi>斿<hi>族旗之/未垂者</hi>□□<hi>音宜旗動也</hi>公□大<lb/>
+來余及如玆邑周<hi>即害字讀作曷何也</hi>不余及<lb/>
+　　　右九<hi>薛作乙文共鄭作癸文重文七    八十一字</hi>　<hi>文七十四二十句</hi>
+　　<hi>施云上下磨滅不成文</hi>
+呉<hi>古作虞</hi>人㥕<hi>古文/憐</hi>□<hi>□與/亟同</hi>□<hi>朝/</hi>夕憼<hi>警同</hi>惕□卥□北勿<lb/>
+<pb n="KR4h0107_WYG_008-6b"/>
+□<hi>通作掩</hi>勿伐□<hi>若石本作□/或云卑字</hi>□出奇<hi>竒/</hi>進□<hi>古文獻</hi>用□<lb/>
+䢜格□<hi>藝同</hi>祖告于大祝禘嘗□<hi>古文/受</hi>□<hi>享/</hi>致其方□<hi>與藝</hi>
+<hi>同叶音亦</hi>寓逄□<hi>□文/中</hi>□<hi>籀文□</hi>孔□麀鹿□□既坦疆理□<lb/>
+□<hi>音蕃盛也</hi>大田不<graphic n="KR0679" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0679.png" mimeType="image/png"/>
+                    <hi>音蒐即/搜字</hi>君子可<hi>何/</hi>求又<hi>有</hi>□又始周<lb/>
+爰止于是<lb/>
+　　　右十<hi>薛作癸文共鄭作巳文重文一    七十三字</hi>　<hi>文七十二一十八句</hi>
+　　　蠶叢詩<hi>四章篇華陽志不載詩名風雅逸  題曰𧖟叢不知何據</hi>
+　　<hi>華陽國志巴志篇其民質直好義土風敦厚有先民之流故其詩曰</hi>
+<pb n="KR4h0107_WYG_008-7a"/>
+川崖惟平其稼多黍㫖酒嘉榖可以養父野惟阜丘彼<lb/>
+稷多有嘉榖㫖酒可以養母<lb/>
+　　　其二<hi>祭祀之詩</hi>
+惟月孟春獺祭彼崖<hi>叶魚覊反</hi>永言孝思享祀孔嘉<hi>叶居之反</hi>彼<lb/>
+黍既潔彼儀既澤蒸命良辰祖考來格<lb/>
+　　　其三<hi>好古樂道之詩</hi>
+日月明明亦惟其名誰能長生不朽難獲<lb/>
+　　　其四<hi>好士樂道之詩</hi>
+<pb n="KR4h0107_WYG_008-7b"/>
+惟徳實寶富貴何常我思古人令問令望<hi>平聲</hi>
+　　　佹詩<lb/>
+　　<hi>佹詩者荀卿子之所作也或曰荀卿既為蘭陵令客有説春申君者曰湯以亳武王以鎬皆有天下</hi>
+　　<hi>今荀子賢而君借以百里之勢臣為君危之春申君乃謝荀子荀子去之趙人又説春申君曰昔伊</hi>
+　　<hi>尹去夏入殷殷王而夏亡管仲去魯入齊魯弱而齊强賢者所在其君未嘗不尊榮也今荀子天下</hi>
+　　<hi>賢士君何為謝之春申君又使人請荀子荀子不還而遺之賦盖即此佹詩也</hi>
+天下不治請陳佹詩<hi>佹與詭同佹異激切之詩也</hi>天地易位四時易<lb/>
+鄉列星隕墜旦暮晦盲<hi>叶芒</hi>幽闇登昭<hi>或作照</hi>日月下藏公<lb/>
+<pb n="KR4h0107_WYG_008-8a"/>
+正無私反見縱橫<hi>叶音黃反見謂為縱橫反覆之人也</hi>志愛公利重樓䟽<lb/>
+堂<hi>愛猶貪也竊取公家之利而反得華屋以居也</hi>無私罪人憼<hi>儆/同</hi>革二兵<hi>叶逋旁反</hi>
+<hi>憼戒也革甲也二副也言無私心而治有罪之人反恐為所害而常為兵革以備之也</hi>道徳純備<lb/>
+讒口將將<hi>讀作鏘</hi>仁人絀約敖<hi>傲同</hi>㬥擅强天下幽險恐失<lb/>
+世英<hi>叶央</hi>螭龍為蝘蜓<hi>音偃典</hi>鴟梟爲鳳凰比干見刳孔子<lb/>
+拘匡昭昭乎其知之明<hi>叶</hi>也郁郁乎其遇時之不祥也<lb/>
+拂乎其欲禮義之大行<hi>叶杭</hi>也<hi>郁郁與拂字疑錯互</hi>闇乎天下之晦<lb/>
+盲<hi>叶</hi>也皓<hi>與昊同</hi>天不復憂無疆也千秋必反古之常也<lb/>
+<pb n="KR4h0107_WYG_008-8b"/>
+弟子勉學天不忘也聖人共手時幾將矣<hi>共讀為拱拱手言不得用</hi>
+<hi>也將謂時運將開也</hi>與愚亦疑願聞反辭<hi>此為弟子問詞</hi>其小歌也念彼<lb/>
+逺方何其塞<hi>疑作蹇</hi>矣仁人絀約㬥人衍矣忠臣危殆讒<lb/>
+人般矣<hi>般叶蒲典反般樂也集作服用也</hi>璇玉瑤珠不知佩<hi>叶備</hi>也雜布<lb/>
+與錦不知異也閭娵<hi>子侯反</hi>子奢莫之媒<hi>叶莫佩反</hi>也嫫母刀<lb/>
+父是之喜<hi>許既反</hi>也以盲為明以䏊為聰以危為安以吉<lb/>
+為凶嗚呼上天曷維其同<lb/>
+　　　荀卿與春申君書後賦<hi>見戰國䇿</hi>
+<pb n="KR4h0107_WYG_008-9a"/>
+寶珍隨珠不知俾<hi>上聲</hi>兮禕衣與絲不知異<hi>上聲</hi>兮閭姝子<lb/>
+奢莫知媒<hi>古音美</hi>兮嫫母求之又甚喜之兮以瞽為明以<lb/>
+聾為聰以是為非以吉為凶嗚呼上天曷謂其同<hi>風雅逸篇</hi>
+<hi>曰按戰國策及韓非子荀卿為書謝春申君書後有此賦即荀子書中佹詩之少歌也佹詩其為春申君作乎</hi>
+<hi>又按春秋後語載蘇秦上秦王書書後亦有韻語後世類書引之以為蘇秦之詩秦語今附此後</hi>
+　　　蘇秦上秦惠王詩<lb/>
+言語相結<hi>盧藏用春秋後語注曰結音吉古韻叶也</hi>天下為一合從連橫<hi>音黃</hi>
+兵革不藏文士竝飭諸侯亂惑萬端俱起不可勝理科<lb/>
+<pb n="KR4h0107_WYG_008-9b"/>
+條既備民多偽態<hi>音替</hi>書䇿稠濁<hi>廚玉反</hi>百姓不足上下相<lb/>
+愁民無所聊<hi>音留</hi>明言章理甲兵愈起辯言偉服<hi>蒲北反</hi>戰<lb/>
+攻不息繁稱文辭天下不治<hi>平聲</hi>舌敝耳聾不見成功行<lb/>
+義約信<hi>音新</hi>天下不親<lb/>
+　　　遊南嶽讃<lb/>
+　　<hi>王子年拾遺記曰舜葬蒼梧之野有鳥如雀常遊丹海之際時來蒼梧之野衘青砂珠積成壟阜名</hi>
+　　<hi>曰珠丘冥珠輕細風吹如塵起名曰珠塵今蒼梧之外山人採藥時有青石圓潔如珠服之不死故</hi>
+　　<hi>仙人方廻遊南嶽有七言讃○劉向列仙傳曰方㢠堯時隐人</hi>
+<pb n="KR4h0107_WYG_008-10a"/>
+珠塵圓潔輕且明有道服者得長生<lb/>
+　　　遊海詩<lb/>
+　　<hi>十真記曰寗先生者古之神仙在黃帝之前常逰崑丘之外有蘭沙之地去中都萬里其沙如細塵</hi>
+　　<hi>風吹成霧泛泛而起有石藍之花輕而堅勁千年一開隨風霏霏名曰青藍花又有魚鼈龍蛇飛於</hi>
+　　<hi>塵霧中先生常逰其地食飛魚而死臥沙百餘年蹶然而起形容復故乃作逰海詩○列仙傳曰寗</hi>
+　　<hi>封子黃帝時人</hi>
+竒藍灼灼千載舒百齡暫死食飛魚<lb/>
+　　　采藥詩<lb/>
+<pb n="KR4h0107_WYG_008-10b"/>
+　　<hi>拾遺記曰闇河之北有紫桂成林其實如棗羣仙餌焉韓終采藥四言詩云</hi>
+闇河之桂實大如棗得而食之後天而老<lb/>
+　　　時俗四言詩<lb/>
+　　<hi>拾遺記曰成王五年因祇之國去王都九萬里其丈夫勤於耕稼一日鋤十頃之地貢嘉禾一莖盈</hi>
+　　<hi>車故時俗四言詩云</hi>
+力勤十頃能致嘉穎<lb/>
+　<lb/>
+　古詩紀巻八<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

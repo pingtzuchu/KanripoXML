@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="1a"/>
+詩解頤跋<lb/>
+詩經解頤一編先師文淵閣大學士一齋朱先生之所<lb/>
+述也先生得家學之傳經籍無不考頤至古詩三百篇<lb/>
+尤博極其趣每授諸弟子于發明肯綮處輒録之時愚<lb/>
+亦在門不數年成集俾誦之者不待玩諸心而喜形于<lb/>
+色先生遂取匡說詩解人頤之語以名之其子叔既鋟<lb/>
+諸梓逺邇讀詩之士往往稱之不啻良金美玉之重焉<lb/>
+比年愚承乏南昌司訓上下亦莫不重是編之便學者<lb/>
+<pb n="1b"/>
+但嵗久不能無亥豕魯魚之難辨于是僉議命工重刋<lb/>
+以廣其傳愚僭分章析類正其譌誤以便觀覽亦未必<lb/>
+無小補云洪武三十五年嵗在壬午孟夏上瀚後學豐<lb/>
+城丁隆謹識<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

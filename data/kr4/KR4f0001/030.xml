@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4f0001_WYG_030-1a"/>
+　欽定四庫全書<lb/>
+聖祖仁皇帝御製文集卷十三目錄<lb/>
+　　勅諭<lb/>
+　　　　諭將軍巴海副都統薩布蘇瓦里虎等<lb/>
+　　　　諭大學士勒徳洪明珠李霨王熙學士噶爾圖<lb/>
+　　　　　石柱張玉書<lb/>
+　　　　諭部院諸臣<lb/>
+　　　　諭户部<lb/>
+<pb n="KR4f0001_WYG_030-1b"/>
+　　　　諭刑部<lb/>
+　　　　諭吏部<lb/>
+　　　　諭户部尚書梁清標侍郎李天馥<lb/>
+　　　　諭兵部<lb/>
+　　　　諭議政王貝勒大臣内閣九卿詹事科道<lb/>
+　　　　諭禮部<lb/>
+　　　　諭兵部<lb/>
+　　　　諭禮部<lb/>
+<pb n="KR4f0001_WYG_030-2a"/>
+　　　諭部院大臣<lb/>
+　　　諭朝覲各官<lb/>
+　　　諭刑部<lb/>
+　　　諭户部<lb/>
+　　　諭大學士勒徳洪明珠李霨王熙黄機呉正治<lb/>
+　　　　學士薩海阿蘭泰石柱王守才金汝祥胡簡<lb/>
+　　　　敬孫在豊<lb/>
+　　　諭刑部<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

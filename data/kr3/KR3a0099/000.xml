@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>榕壇問業十八卷</head>
+    <p>
+<pb n="KR3a0099_WYG_000-1a"/>
+欽定四庫全書　　　　　子部一<lb/>
+　榕壇問業十八卷　　　　儒家類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案榕壇問業十八卷明黄道周撰道<lb/>
+　　　　周有易象正已著録此編乃其家居時講學<lb/>
+　　　　之語考道周自崇禎壬申削籍歸石養山守<lb/>
+　　　　墓是年講學于浦之北山越二年甲戌夏始<lb/>
+　　　　入郡就芝山之正學堂為講舍至乙亥冬以<lb/>
+<pb n="KR3a0099_WYG_000-1b"/>
+　　　　原官召用始罷講故此書起甲戌五月至乙<lb/>
+　　　　亥仲冬者凡十六卷其十七卷有云丙子春<lb/>
+　　　　者則道周已罷講還家取他方友人書牘問<lb/>
+　　　　難之詞當時未即答者續為發明綴入其十<lb/>
+　　　　八卷則同年蒋徳璟所問之詞道周屬諸弟<lb/>
+　　　　子代答間亦𠂻以已説併以徳璟原問十八<lb/>
+　　　　條附録于後其書毎卷分載所編弟子姓氏<lb/>
+　　　　卷之前後道周復各綴以題識其大㫖以致<lb/>
+<pb n="KR3a0099_WYG_000-2a"/>
+　　　　知明善為宗大約宗法考亭而益加駿厲書<lb/>
+　　　　内所論凡天文地志經史百家之説無不隨<lb/>
+　　　　問闡發不盡作性命空談盖由其博洽精研<lb/>
+　　　　靡所不究故能有叩必竭響應不窮雖詞意<lb/>
+　　　　間涉深奥而指歸可識不同于禪門機括幻<lb/>
+　　　　窅無歸明人語録每以陳因迂腐為博學之<lb/>
+　　　　士所輕道周此編可以一雪斯誚矣乾隆四<lb/>
+　　　　十六年十一月恭校上<lb/>
+<pb n="KR3a0099_WYG_000-2b"/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

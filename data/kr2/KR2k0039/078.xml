@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2k0039_WYG_078-1a"/>
+欽定四庫全書<lb/>
+欽定皇輿西域圖志巻二十七目録<lb/>
+　水四<lb/>
+　　天山南路一<lb/>
+　　　塔呼庫勒<lb/>
+　　　納呼庫勒<lb/>
+　　　齊克塔木郭勒<lb/>
+　　　闢展郭勒<lb/>
+<pb n="KR2k0039_WYG_078-1b"/>
+　　　魯克察克郭勒<lb/>
+　　　洋赫郭勒<lb/>
+　　　土爾番郭勒<lb/>
+　　　招哈郭勒<lb/>
+　　　哈喇和卓郭勒<lb/>
+　　　濟木薩郭勒<lb/>
+　　　托克三郭勒<lb/>
+　　　伊拉里克布拉克<lb/>
+<pb n="KR2k0039_WYG_078-2a"/>
+　　　博羅圖郭勒<lb/>
+　　　塔什海郭勒<lb/>
+　　　楚輝郭勒<lb/>
+　　　竒爾歸圖郭勒<lb/>
+　　　特伯勒克布拉克<lb/>
+　　　哈喇烏蘇<lb/>
+　　　博斯騰淖爾<lb/>
+　　　海都郭勒<lb/>
+<pb n="KR2k0039_WYG_078-2b"/>
+　　　羅布淖爾<lb/>
+　　　車爾楚郭勒<lb/>
+　　　額什墨郭勒<lb/>
+　　　䇿特爾郭勒<lb/>
+　　　恩楚魯克郭勒<lb/>
+　　　伊蘭布拉克<lb/>
+　　　第納爾郭勒<lb/>
+　　　塔什阿里克郭勒<lb/>
+<pb n="KR2k0039_WYG_078-3a"/>
+　　　巴巴淖爾<lb/>
+　　　竒里什郭勒<lb/>
+　　　哈喇庫勒<lb/>
+　　　額什克巴什郭勒<lb/>
+　　　赫色勒郭勒<lb/>
+　　　烏恰特達里雅<lb/>
+　　　額爾勾郭勒<lb/>
+　　　哈喇烏蘇<lb/>
+<pb n="KR2k0039_WYG_078-3b"/>
+　　　哈布薩朗郭勒<lb/>
+　　　木素爾郭勒<lb/>
+　　　綽爾噶布拉克<lb/>
+　　　阿察哈喇郭勒<lb/>
+　　　庫克墨爾根郭勒<lb/>
+　　　特木爾烏蘇郭勒<lb/>
+　　　呼木阿里克郭勒<lb/>
+　　　托什干達里雅<lb/>
+<pb n="KR2k0039_WYG_078-4a"/>
+　　　阿克蘇郭勒<lb/>
+　　　敖爾他克齊諤斯騰<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2k0039_WYG_078-4b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+欽定皇輿西域圖志巻二十七目録<lb/>
+<pb n="KR2k0039_WYG_078-5a"/>
+欽定四庫全書<lb/>
+欽定皇輿西域圖志巻二十七目録<lb/>
+　水四<lb/>
+　　天山南路一<lb/>
+　　　塔呼庫勒<lb/>
+　　　納呼庫勒<lb/>
+　　　齊克塔木郭勒<lb/>
+　　　闢展郭勒<lb/>
+<pb n="KR2k0039_WYG_078-5b"/>
+　　　魯克察克郭勒<lb/>
+　　　洋赫郭勒<lb/>
+　　　土爾番郭勒<lb/>
+　　　招哈郭勒<lb/>
+　　　哈喇和卓郭勒<lb/>
+　　　濟木薩郭勒<lb/>
+　　　托克三郭勒<lb/>
+　　　伊拉里克布拉克<lb/>
+<pb n="KR2k0039_WYG_078-6a"/>
+　　　博羅圖郭勒<lb/>
+　　　塔什海郭勒<lb/>
+　　　楚輝郭勒<lb/>
+　　　竒爾歸圖郭勒<lb/>
+　　　特伯勒克布拉克<lb/>
+　　　哈喇烏蘇<lb/>
+　　　博斯騰淖爾<lb/>
+　　　海都郭勒<lb/>
+<pb n="KR2k0039_WYG_078-6b"/>
+　　　羅布淖爾<lb/>
+　　　車爾楚郭勒<lb/>
+　　　額什墨郭勒<lb/>
+　　　䇿特爾郭勒<lb/>
+　　　恩楚魯克郭勒<lb/>
+　　　伊蘭布拉克<lb/>
+　　　第納爾郭勒<lb/>
+　　　塔什阿里克郭勒<lb/>
+<pb n="KR2k0039_WYG_078-7a"/>
+　　　巴巴淖爾<lb/>
+　　　竒里什郭勒<lb/>
+　　　哈喇庫勒<lb/>
+　　　額什克巴什郭勒<lb/>
+　　　赫色勒郭勒<lb/>
+　　　烏恰特達里雅<lb/>
+　　　額爾勾郭勒<lb/>
+　　　哈喇烏蘇<lb/>
+<pb n="KR2k0039_WYG_078-7b"/>
+　　　哈布薩朗郭勒<lb/>
+　　　木素爾郭勒<lb/>
+　　　綽爾噶布拉克<lb/>
+　　　阿察哈喇郭勒<lb/>
+　　　庫克墨爾根郭勒<lb/>
+　　　特木爾烏蘇郭勒<lb/>
+　　　呼木阿里克郭勒<lb/>
+　　　托什干達里雅<lb/>
+<pb n="KR2k0039_WYG_078-8a"/>
+　　　阿克蘇郭勒<lb/>
+　　　敖爾他克齊諤斯騰<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2k0039_WYG_078-8b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+欽定皇輿西域圖志巻二十七目録<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>陵陽集</head>
+    <p>
+<pb n="KR4d0389_WYG_000-1a"/>
+欽定四庫全書　　　　集部四<lb/>
+　陵陽集　　　　　　　别集類三<hi>宋</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案陵陽集二十四巻宋牟巘撰巘<lb/>
+　　　　字獻之湖州人父子才理宗朝官端明殿<lb/>
+　　　　學士禮部尚書以剛直著名巘亦登進士第<lb/>
+　　　　官至大理少卿入元不仕閉户三十六年故<lb/>
+　　　　其集中九日五言詩序論陶潜於王宏中路<lb/>
+<pb n="KR4d0389_WYG_000-1b"/>
+　　　　具酒食事及題淵明圖諸文意皆自寓又甞<lb/>
+　　　　謂世喜稱淵明入宋書甲子無年號黄豫章<lb/>
+　　　　亦曰甲子不數義煕前然今陶集詩本無書<lb/>
+　　　　年號者淵明恥事劉裕大節較然此未須深<lb/>
+　　　　論云云故巘文中多書至元年號意本此也<lb/>
+　　　　是集凡詩六巻襍文十八巻前有至順二年<lb/>
+　　　　程端學序王士禎居易錄稱其詩有坡谷門<lb/>
+　　　　風襍文皆典實詳雅今觀所作知士禎之論<lb/>
+<pb n="KR4d0389_WYG_000-2a"/>
+　　　　不誣巘本蜀之井研人世居陵山之陽至子<lb/>
+　　　　才始著籍湖州其以陵陽名集者蓋不忘本<lb/>
+　　　　也乾隆四十六年十月恭校上<lb/>
+　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸費墀<lb/>
+<pb n="KR4d0389_WYG_000-3a"/>
+陵陽集原序<lb/>
+文者言語之精華也因吾道以有傳然古者文以道傳<lb/>
+後世道以飾文古之人有是道然後托於文以達之道<lb/>
+若斯文亦若斯故其言約以實是謂文以傳道易詩<lb/>
+書春秋論孟是也後世不必皆以其道亦欲為文以自<lb/>
+見道若斯文不若斯故其言支以虚是謂道以飾文文<lb/>
+士之文是也然則終不復古乎復古有道道弸乎中不<lb/>
+得巳而有言文斯復古矣故周程張朱數君子者出而<lb/>
+<pb n="KR4d0389_WYG_000-3b"/>
+太極圖説西銘易傳語類諸書不在中庸孟子下誰謂<lb/>
+文不可復古乎亦在實之而巳矣西漢之文道雖不醇<lb/>
+大畧言由事發猶近古也自餘隨其人品以為重輕若<lb/>
+諸葛孔明陶元亮杜子美陸敬輿韓退之歐陽永叔蘇<lb/>
+子瞻曾子固數子者其忠義直諒磊磊落落有以自顯<lb/>
+於世而其文亦可相為不朽至如司馬相如揚雄栁宗<lb/>
+元王安石之流其聲音步驟盖亦無媿乎數子然予不<lb/>
+知讀其言者視其人何如也由是觀之傳道之文與天<lb/>
+<pb n="KR4d0389_WYG_000-4a"/>
+地悠久其㳄與其重輕下此猶榮華飄風而殫一世之<lb/>
+力而為之者惑也故元初陵陽先生牟公巘博學實徳<lb/>
+為時名卿天下之書無所不讀古今典禮無所不考其<lb/>
+源出於伊洛其出處有元亮大節故其發於文章淵源<lb/>
+雅淡從容造理其法度之妙盖有與歐曽並馳而其實<lb/>
+則吾道之言也天下後世當有慕其人而愛其文誦其<lb/>
+文而想見其人者矣端學自史院歸田於鄞公之㳄子<lb/>
+浙東帥府都事應復景陽甫在鄞出公詩文若干巻將<lb/>
+<pb n="KR4d0389_WYG_000-4b"/>
+鋟諸梓屬端學序引自惟庸陋生晚於公無能為役其<lb/>
+敬贊一辭然亦嘗登公之堂而識公之容亦嘗誦公之<lb/>
+文於學者所傳且得交於景陽悉觀公之著述非幸歟<lb/>
+敬附一言以志予之幸若公之徳業文章則不待贊也<lb/>
+至順二年八月朔從仕郎前翰林國史院編修官程端<lb/>
+學序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

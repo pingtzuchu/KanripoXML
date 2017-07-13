@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>唐僧𢎞秀集</head>
+    <p>
+<pb n="KR4h0051_WYG_000-1a"/>
+欽定四庫全書　　　　　集部八<lb/>
+　唐僧𢎞秀集　　　　　　總集類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案唐僧𢎞秀集十巻宋李龏編龏有<lb/>
+　　　　梅花衲翦綃集已著録此所選唐代釋子之<lb/>
+　　　　詩自皎然以下凡五十二人詩五百首前有<lb/>
+　　　　寳祐六年龏自序採摭頗富而亦時有不檢<lb/>
+　　　　如釋寳月行路難一首載玉臺新詠第九巻<lb/>
+<pb n="KR4h0051_WYG_000-1b"/>
+　　　　中本非僻書又鍾嶸詩品下巻以齊釋惠休<lb/>
+　　　　道猷寳月共為一條且詳録其事曰行路難<lb/>
+　　　　是東陽柴廓所造寳月嘗憇其家會廓亡因<lb/>
+　　　　竊而有之廓子賫手本出都欲訟此事乃宻<lb/>
+　　　　賂止之云云亦非僻書龏乃録之第五巻中<lb/>
+　　　　殊為舛誤至賈島始為浮屠名無本周朴始<lb/>
+　　　　為浮屠名清塞後島遇韓愈勸返初服仕至<lb/>
+　　　　長江簿朴為姚合所賞亦加冠巾黄巢之亂<lb/>
+<pb n="KR4h0051_WYG_000-2a"/>
+　　　　抗節罵賊而死其在士大夫中亦卓然不愧<lb/>
+　　　　于儒者龏乃録其詩四十五首入此集亦為<lb/>
+　　　　不類如云追録其為僧之作則賈島一集何<lb/>
+　　　　以又不採録此亦自亂其例也豈誤以七巻<lb/>
+　　　　所録吟馬嵬漢上諸詩之別一無本為即島<lb/>
+　　　　耶唐釋能詩者衆其最著者莫過皎然齊已<lb/>
+　　　　貫休然皎然稍弱貫休稍麤要當以齊已為<lb/>
+　　　　第一今觀龏所録如集中聽琴劍客登南岳<lb/>
+<pb n="KR4h0051_WYG_000-2b"/>
+　　　　祝融峯諸篇不見收則別裁去取亦未盡諸<lb/>
+　　　　僧所長然唐僧有專集者不過數家其餘散<lb/>
+　　　　見諸書漸就澌滅龏能裒合而存之俾殘章<lb/>
+　　　　斷簡一一有傳于後其收拾散亡要亦不能<lb/>
+　　　　謂之無功也乾隆四十五年十月恭校上<lb/>
+　　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="KR4h0051_WYG_000-3a"/>
+唐僧𢎞秀集原序<lb/>
+古之吟詠情性一本於詩詩至唐為盛唐之詩僧亦盛<lb/>
+唐一代為高道為内供奉名𢎞材秀者三百年間今得<lb/>
+五十二人詩五百首或取於各僧本集或出於諸家纂<lb/>
+録皆有拔山之力搜海之功風製不塵一字弗贅發音<lb/>
+雄富羣立崢嶸名曰唐僧𢎞秀集不敢藏於巾笥刋梓<lb/>
+用傳識者第毫殘松管燈焰蘭膏截錦揚珠神愁鬼毒<lb/>
+詩教湮微取以為緇流砥柱藝苑䂓衡非假沽名鼓吹<lb/>
+<pb n="KR4h0051_WYG_000-3b"/>
+於江湖也兼禪餘風月客外山川千古之下一目可見<lb/>
+耳皇宋寳祐第六春中和節日荷澤李龏和父序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2a0029_WYG_072-1a"/>
+　舊五代史巻三十五攷證<lb/>
+唐書明宗紀三代祖諱敎　敎原本作敖今據五代㑹<lb/>
+　要改正<lb/>
+皇考諱霓　歐陽史云父電未知孰是<lb/>
+襲破李存信於莘縣　莘縣原本作華縣今據新唐書<lb/>
+　藩鎮𫝊改正<lb/>
+柏鄉之役　柏鄉原本訛松鄉今據通鑑改正<lb/>
+吾當與天皇較力耳　天皇原本作人皇攷遼史太祖<lb/>
+<pb n="KR2a0029_WYG_072-1b"/>
+　稱為天皇讓宗追稱人皇莊宗初年侵幽州者乃太<lb/>
+　祖非讓宗也今改正<lb/>
+十二月契丹入冦三年正月帝領兵破契丹于涿州<lb/>
+　案歐陽史云冬契丹侵漁陽嗣源敗之於涿州入冦<lb/>
+　破敵皆作冬間事盖順文併叙之耳當以是書為徴<lb/>
+　實<lb/>
+請令公帝河北　河北原本作河中今據通鑑改正<lb/>
+獲官馬二千匹　案歐陽史作掠小坊馬三千匹<lb/>
+<pb n="KR2a0029_WYG_072-2a"/>
+四月丁亥朔　案丁亥朔與莊宗紀異據莊宗紀三月<lb/>
+　丁未朔則四月當作丁丑據此紀下文有已丑甲午<lb/>
+　則當作丁亥前後參差未詳孰是<lb/>
+已丑　案通鑑作乙丑疑傳冩之訛歐陽史從是書作<lb/>
+　已丑<lb/>
+以樞密副使孔循為樞密使　案歐陽史作左驍衞大<lb/>
+　將軍孔循為樞密使呉縝纂誤云孔循傳作左衞大<lb/>
+　將軍為樞密使俱與是書異<lb/>
+<pb n="KR2a0029_WYG_072-2b"/>
+按巴堅舊作阿保機今改<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　舊五代史巻三十五攷證<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

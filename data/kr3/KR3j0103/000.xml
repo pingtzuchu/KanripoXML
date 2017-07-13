@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>嬾真子</head>
+    <p>
+<pb n="KR3j0103_WYG_000-1a"/>
+欽定四庫全書　　　　　子部十<lb/>
+　嬾真子　　　　　　　　雜家類三<hi>雜説之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案嬾真子五巻宋馬永卿撰是編乃<lb/>
+　　　　其雜記之書然亦多述劉安世語又開巻冠<lb/>
+　　　　以司馬光事書中亦多稱光盖其淵源所自<lb/>
+　　　　出也宋史藝文志著録晁陳二家書目乃皆<lb/>
+　　　　不載然袁文為建炎紹興間人王楙為慶元<lb/>
+<pb n="KR3j0103_WYG_000-1b"/>
+　　　　嘉泰間人費衮為紹熙開禧間人文甕牖閒<lb/>
+　　　　評駁其中印文五字一條楙野客叢書駁其<lb/>
+　　　　中承露囊一條衮梁溪漫志駁其漢太公無<lb/>
+　　　　名母媪無姓一條是其書未嘗不行于世特<lb/>
+　　　　二家偶遺之耳其書末稱紹興六年盖成於<lb/>
+　　　　南渡以後中間頗及雜事而考證之文為多<lb/>
+　　　　如據漢書王嘉封事謂書無教逸欲有邦教<lb/>
+　　　　當作敖謂陶潛游斜川詩開嵗倐五十當作<lb/>
+<pb n="KR3j0103_WYG_000-2a"/>
+　　　　五日與殷晉安别詩本十韻傳本誤脱一韻<lb/>
+　　　　東坡亦誤和九韻謂杜甫詩虬鬚十八九字<lb/>
+　　　　出漢書丙吉傳謂韓愈感二鳥賦序貞元十<lb/>
+　　　　一年誤作十五年又考正曹成王碑衍文訛<lb/>
+　　　　字及箋釋句讀謂前漢百官表少府之遵官<lb/>
+　　　　據唐百官志當作導官謂成元英莊子疏不<lb/>
+　　　　知其時已有縣令誤讀縣為懸解為髙名令<lb/>
+　　　　聞謂古者席面之賓乃稱客列座之賓皆稱<lb/>
+<pb n="KR3j0103_WYG_000-2b"/>
+　　　　旅引左傳為證謂二十八宿中亢氐觜三星<lb/>
+　　　　韻略皆誤音謂賜酺始趙武靈王謂河鼓之<lb/>
+　　　　河當作何謂唐中興頌復復指期復復字本<lb/>
+　　　　漢書匡衡傳皆引据確鑿不同臆說其謂離<lb/>
+　　　　騷正則靈均乃小名小字雖無所考亦足以<lb/>
+　　　　備一解惟頗㕘雜以二氏至謂韓愈亦深明<lb/>
+　　　　佛理是亦安世之學喜談禪悦之餘派存而<lb/>
+　　　　不論可矣乾隆四十六年四月恭校上<lb/>
+<pb n="KR3j0103_WYG_000-3a"/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

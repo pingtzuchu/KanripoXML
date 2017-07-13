@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>農政全書卷五十一</head> <lb/>
+    <p>
+<pb n="KR3d0007_WYG_051-1a"/>
+欽定四庫全書<lb/>
+　農政全書卷五十一<lb/>
+　　　　　　　　　　　　明　徐光啓　撰<lb/>
+　　荒政<hi>救荒本草</hi>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_051-1b"/>
+沙參　一名知母一名苦心一名志取一名虎鬚一名<lb/>
+白參一名識美一名文希生河内川谷及寃句般陽續<lb/>
+山并淄齊潞隨歸州而江淮荆湖州郡皆有今輝縣太<lb/>
+行山邊亦有之苗長一二尺叢生崖坡間葉似枸杞葉<lb/>
+微長而有乂牙鋸齒開紫花根如葵根赤黄色中正白<lb/>
+實者佳味微苦性微寒無毒惡防已反䔧蘆又有杏葉<lb/>
+沙參及細葉沙參氣味與此相類但圖經内不曾該載<lb/>
+此二種葉苗形容未敢併入本條今皆另條開載<lb/>
+<pb n="KR3d0007_WYG_051-2a"/>
+　救飢　掘根浸洗極淨換水煮去苦味再以水煮極<lb/>
+　　　　熟食之<lb/>
+<pb n="KR3d0007_WYG_051-3a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_051-3b"/>
+百合　一名重箱一名摩羅一名中逢花一名强瞿生<lb/>
+荆州山谷今處處有之苗髙數尺幹麄如箭面有葉如<lb/>
+鷄距又似大栁葉而寛青色稀疎葉近莖微紫莖端碧<lb/>
+白開淡黄白花如石榴嘴而大四垂向下覆長蘂花心<lb/>
+有檀色每一顆須五六花子色圓如梧桐子生於枝葉<lb/>
+間每葉一子不在花中此又異也根色白形如松子殻<lb/>
+四向攢生中間出苗又如葫蒜重叠生二三十瓣味甘<lb/>
+辛平無毒一云有小毒又有一種開紅花名山丹不堪<lb/>
+<pb n="KR3d0007_WYG_051-4a"/>
+用<lb/>
+　救飢　採根煮熟食之甚益人氣又云蒸過與蜜食<lb/>
+　　　　之或為粉尤佳<lb/>
+　𤣥扈先生曰嘗過根本嘉蔬不必救荒<lb/>
+<pb n="KR3d0007_WYG_051-5a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_051-5b"/>
+萎㽔　本草一名女萎一名荧一名玉竹一名患薫生<lb/>
+太山山谷及舒州滁州均州今南陽府馬鞍山亦有苗<lb/>
+高一二尺莖斑葉似竹葉濶短而肥厚葉尖處有黄㸃<lb/>
+又似百合葉却頗窄小葉下結青子如椒粒大其根似<lb/>
+黄精而小異節上有顔味甘性平無毒<lb/>
+　救飢　採根換水煮極熟食之<lb/>
+<pb n="KR3d0007_WYG_051-6a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_051-6b"/>
+天門冬　俗名萬嵗藤又名娑羅樹本草一名顛勒或<lb/>
+名地門冬或名筵門冬或名巔棘或名淫羊食或名管<lb/>
+松生奉高山谷及建州漢州今處處有之春生藤蔓大<lb/>
+如釵股長至丈餘延附草木上葉如茴香極尖細而疎<lb/>
+滑有逆刺亦有澁而無刺者其葉如絲杉而細散皆名<lb/>
+天門冬夏生白花亦有黄花及紫花者秋結黑子在其<lb/>
+根枝傍入伏後無花暗結子其根白或黄紫色大如手<lb/>
+指長二三寸大者為勝其生髙地根短味甜氣香者上<lb/>
+<pb n="KR3d0007_WYG_051-7a"/>
+其生水側下地者葉細似藴而微黄根長而味多苦氣<lb/>
+臭者下亦可服味苦甘性平大寒無毒垣衣地黄及貝<lb/>
+母為之使畏曾青服天門冬誤食鯉魚中毒<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>萍解之<lb/>
+　救飢　採根換水浸去邪味去心煮食或晒乾煮熟<lb/>
+　　　　入蜜食<lb/>
+<pb n="KR3d0007_WYG_051-8a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_051-8b"/>
+章栁根　本草一名商陸一名䓪根一名夜呼一名白<lb/>
+昌一名當陸一名章陸爾雅則謂之蓫廣雅則謂之馬<lb/>
+尾亦謂之莧陸生咸陽川谷今處處有之苗髙三四尺<lb/>
+<graphic n="KR1520" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1520.png" mimeType="image/png"/>麄似鷄冠花<graphic n="KR1520" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1520.png" mimeType="image/png"/>微有線楞色微紫赤葉青如牛舌微<lb/>
+濶而長根如人形者有神亦有赤白二種花赤根亦赤<lb/>
+花白根亦白赤者不堪服食傷人乃至痢血不已白者<lb/>
+堪服食亦有一種名赤昌苗葉絶相類不可用須細辨<lb/>
+之商陸味辛酸一云味苦性平有毒一云性冷得大蒜<lb/>
+<pb n="KR3d0007_WYG_051-9a"/>
+良<lb/>
+　救飢　取白色根切作片子煠熟換水浸洗淨淡食<lb/>
+　　　　得大蒜良凡製薄切以東流水浸二宿撈出<lb/>
+　　　　與豆葉隔間入甑蒸従午至亥如無葉用豆<lb/>
+　　　　依法蒸之亦可花白者年多仙人採之作脯<lb/>
+　　　　可為下酒<lb/>
+<pb n="KR3d0007_WYG_051-10a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_051-10b"/>
+麥門冬　本草云秦名羊韭齊名愛韭楚名馬韭越名<lb/>
+羊蓍一名禹葭一名禹餘糧生隨州陸州及函谷堤坂<lb/>
+肥土石間久廢處有之今輝縣山野中亦有葉似韭葉<lb/>
+而長冬夏長生根如穬麥而白色出江寧者小潤出新<lb/>
+安者大白大者苗如鹿葱小者如韭味甘性平微寒無<lb/>
+毒地黄車前為之使惡欵冬苦瓠苦芙畏木耳苦參青<lb/>
+蘘<lb/>
+　救飢　採根換水浸去邪味淘洗淨蒸熟去心食<lb/>
+<pb n="KR3d0007_WYG_051-11a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_051-11b"/>
+苧根　舊云閩蜀江浙多有之今許州人家田園中亦<lb/>
+有種者苗髙七八尺一科十數莖葉如楮葉而不花叉<lb/>
+面青背白上有短毛又似蘇子葉其葉間出細穗花如<lb/>
+白楊而長每一朶凡十數穗花青白色子熟茶褐色其<lb/>
+根黄白色如手指麄宿根地中至春自生不須藏種根<lb/>
+味甘性寒<lb/>
+　救飢　採根刮洗去皮煮極熟食之甜美<lb/>
+<pb n="KR3d0007_WYG_051-12a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_051-12b"/>
+蒼术　一名山薊一名山薑一名山連一名山精生由<lb/>
+漢中山谷今近郡山谷亦有嵩山茅山者佳苗淡青色<lb/>
+髙二三尺莖作蒿<graphic n="KR1520" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1520.png" mimeType="image/png"/>葉抪莖而生稍葉似棠葉脚葉有<lb/>
+三五乂皆有鋸齒小刺開花深碧色亦似刺薊花或有<lb/>
+黄白花者根長如指大而肥實皮黒茶褐色味苦甘一<lb/>
+云味甘辛性温無毒防風地榆為之使<lb/>
+　救飢　採根去黒皮薄切浸二三宿去苦味煮熟食<lb/>
+　　　　亦作煎<lb/>
+<pb n="KR3d0007_WYG_051-13a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_051-13b"/>
+菖蒲　一名堯韭一名昌陽生上洛池澤及蜀郡嚴道<lb/>
+戎衛衡州并嵩岳石磧上今池澤處處有之葉似蒲而<lb/>
+匾有脊一如劒刅其根盤屈有節狀如馬鞭<graphic n="KR1520" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1520.png" mimeType="image/png"/>大根傍<lb/>
+引三四小根一寸九節者良節尤密者佳亦有十二節<lb/>
+者露根者不可用又一種名蘭蓀又謂溪蓀根形氣色<lb/>
+極似石上菖蒲葉正如蒲無脊俗謂菖蒲生於水次失<lb/>
+水則枯其菖蒲味辛性温無毒秦皮秦芃為之使惡地<lb/>
+膽麻黄不可犯鐵令人吐逆<lb/>
+<pb n="KR3d0007_WYG_051-14a"/>
+　救飢　採根肥大節稀水浸去邪味製造作果食之<lb/>
+　𤣥扈先生曰難食<lb/>
+<pb n="KR3d0007_WYG_051-15a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_051-15b"/>
+葍子根　俗名打碗花一名兔兒苗一名狗兒秧幽薊<lb/>
+間謂之燕葍根千葉者呼為纒枝牡丹亦名穰花生平<lb/>
+澤中今處處有之延蔓而生葉似山藥葉而狹小開花<lb/>
+狀似牽牛花微短而圓粉紅色其根甚多大者如小筯<lb/>
+麄長一二尺色白味甘性温<lb/>
+　救飢　採根洗淨蒸食之或晒乾杵碎炊飯食亦好<lb/>
+　　　　或磨作麫作燒餅蒸食皆可久食則頭暈破<lb/>
+　　　　腹間食則宜<lb/>
+<pb n="KR3d0007_WYG_051-16a"/>
+　𤣥扈先生曰嘗過吳人呼秧子根弃地宜移植備荒<lb/>
+<pb n="KR3d0007_WYG_051-17a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_051-17b"/>
+䓮䕅根　俗名麫碌碡<hi>音禄軸</hi>生水邊下濕地其葉就地<lb/>
+叢生葉似蒲葉而肥短葉背如劒脊様葉叢中間攛葶<lb/>
+上開淡粉紅花俱皆六瓣花頭攢開如傘葢狀結子如<lb/>
+韭花蓇葖其根如鷹爪黄連様色如墐泥色味甘<lb/>
+　救飢　採根揩去皴及毛用水淘淨蒸熟食或晒乾<lb/>
+　　　　炒熟食或磨作麫蒸食皆可<lb/>
+<pb n="KR3d0007_WYG_051-18a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_051-18b"/>
+野胡蘿蔔　生荒野中苗葉似家胡蘿蔔俱細小葉間<lb/>
+攛生莖乂稍頭開小白花衆花攢開如傘葢狀比蛇床<lb/>
+子花頭又大結子比蛇床子亦大其根比家胡蘿蔔尤<lb/>
+細小味甘<lb/>
+　救飢　採根洗淨去皮生食亦可<lb/>
+<pb n="KR3d0007_WYG_051-19a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_051-19b"/>
+綿棗兒　一名石棗兒出密縣山谷中生石間苗髙三<lb/>
+五寸葉似韭葉而濶瓦隴様葉中攛葶出穗似鷄冠莧<lb/>
+穗而細小開淡紅花微帶紫色結小蒴兒其子似大藍<lb/>
+子而小黒色根類獨顆蒜又似棗形而白味甜性寒<lb/>
+　救飢　採取根添水久煮極熟食之不換水煮食後<lb/>
+　　　　腹中鳴有下氣<lb/>
+<pb n="KR3d0007_WYG_051-20a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_051-20b"/>
+土圞兒　一名地栗子出新鄭山野中細莖延蔓而生<lb/>
+葉似菉豆葉微尖<graphic n="KR1359" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1359.png" mimeType="image/png"/>苺三葉攢生一處根似土𤓰兒根<lb/>
+微團味甜<lb/>
+　救飢　採根煮熟食之<lb/>
+<pb n="KR3d0007_WYG_051-21a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_051-21b"/>
+野山藥　生輝縣太行山山野中妥藤而生其藤似葡<lb/>
+萄條稍細藤頗紫色其葉似家山藥葉而大微尖根比<lb/>
+家山藥極細瘦甚硬皮色微赤味微甜温平無毒<lb/>
+　救飢　採根煮熟食之<lb/>
+<pb n="KR3d0007_WYG_051-22a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_051-22b"/>
+金𤓰兒　生鄭山田野中苗初生似小葫蘆葉而㣲小<lb/>
+又似赤雹兒葉莖方莖葉俱有毛刺每葉間出一細藤<lb/>
+延蔓而生開五瓣尖碗子黄花結子如馬㼎<hi>音雹</hi>大生青<lb/>
+熟紅根形如鷄彈微小其皮土黄色内則青白色味微<lb/>
+苦性寒與酒相反<lb/>
+　救飢　掘取根換水煮浸去苦味再以水煮極熟食<lb/>
+　　　　之<lb/>
+<pb n="KR3d0007_WYG_051-23a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_051-23b"/>
+細葉沙參　生輝縣太行山山衝間苗髙一二尺莖似<lb/>
+蒿<graphic n="KR1520" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1520.png" mimeType="image/png"/>葉似石竹子葉而細長又似水蓑衣葉亦細長稍<lb/>
+間開紫花根似葵根而麄如拇<hi>音母</hi>指大皮色灰中間白<lb/>
+色味甜性微寒本草有沙參苗葉莖狀所說與此不同<lb/>
+未敢併入條下今另為一條開載於此<lb/>
+　救飢　掘取根洗淨煮熟食之<lb/>
+<pb n="KR3d0007_WYG_051-24a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_051-24b"/>
+雞腿兒　一名飜白草出鈞州山野中苗髙七八寸細<lb/>
+長鋸齒葉硬厚背白其葉似地榆葉而細長開黄花根<lb/>
+如指大長三寸許皮赤内白兩頭尖<graphic n="KR1359" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1359.png" mimeType="image/png"/>味甜<lb/>
+　救飢　採根煮熟食生食亦可<lb/>
+<pb n="KR3d0007_WYG_051-25a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_051-25b"/>
+山蔓菁　出鈞州山野中苗髙一二尺莖葉皆萵苣色<lb/>
+葉似桔梗葉頗長<graphic n="KR1359" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1359.png" mimeType="image/png"/>而不對生又似山小菜葉微窄根<lb/>
+形類沙參如手指麄其皮灰色中間白色味甜<lb/>
+　救飢　採根煮熟生食亦可<lb/>
+<pb n="KR3d0007_WYG_051-26a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_051-26b"/>
+老鴉蒜　生水邊下濕地中其葉直生出土四垂葉狀<lb/>
+似蒲而短背起劒脊其根形如蒜瓣味甜<lb/>
+　救飢　採根煠熟水浸淘淨油鹽調食<lb/>
+　𤣥扈先生曰此草中顔神用<lb/>
+<pb n="KR3d0007_WYG_051-27a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_051-27b"/>
+山蘿蔔　生山谷間田野中亦有之苗髙五七寸四散<lb/>
+分生莖葉其葉似菊葉而濶大微有艾香每莖五七排<lb/>
+生如一大葉稍間開紫花根似野胡蘿蔔根而帶黲白<lb/>
+色味苦<lb/>
+　救飢　採根煠熟水浸淘去苦味油鹽調食<lb/>
+<pb n="KR3d0007_WYG_051-28a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_051-28b"/>
+地參　又名山蔓菁生鄭州沙崗間苗髙一二尺葉似<lb/>
+初生桑科小葉微短又似桔梗葉微長開花似鈴鐸様<lb/>
+淡紅紫花根如母指大皮色蒼肉黲白色味甜<lb/>
+　救飢　採根煮食<lb/>
+<pb n="KR3d0007_WYG_051-29a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_051-29b"/>
+獐牙菜　生水邊苗初搨地生葉似龍鬚菜葉而長窄<lb/>
+葉頭頗團而不尖其葉嫩薄又似牛尾菜葉亦長窄其<lb/>
+根如芽根而嫩皮色灰黑味甜<lb/>
+　救飢　掘根洗淨煮熟油鹽調食<lb/>
+<pb n="KR3d0007_WYG_051-30a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_051-30b"/>
+雞兒頭苗　生祥符西田野中就地妥秧生葉甚疎稀<lb/>
+每五葉攅生狀如一葉其葉花乂有小鋸齒葉間生蔓<lb/>
+開五瓣黄花根又甚多其根形如香附子而鬚長皮黑<lb/>
+肉白味甜<lb/>
+　救飢　採根換水煮熟食<lb/>
+　<lb/>
+　<lb/>
+　農政全書卷五十一<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

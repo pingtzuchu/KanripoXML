@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>名疑</head>
+    <p>
+<pb n="KR3k0042_WYG_000-1a"/>
+欽定四庫全書　　　　　子部十一<lb/>
+　名疑　　　　　　　　　類書類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案名疑四卷明陳士元撰是書上自<lb/>
+　　　　三皇下迄元代博採史傳及百家襍説凡古<lb/>
+　　　　人姓名之異字及更名更字與同姓名者皆<lb/>
+　　　　彚萃之其所徵引較之各姓氏書頗為詳備<lb/>
+　　　　如洞神部載三皇姓名列仙傳稱介子推姓<lb/>
+<pb n="KR3k0042_WYG_000-1b"/>
+　　　　王名光之類皆指其謬又據史記佞幸傳辨<lb/>
+　　　　朱建傳誤閎孺為閎籍孺據顔延之誄辨陶<lb/>
+　　　　徴士本名淵明字元亮皆為確鑿然以司馬<lb/>
+　　　　遷諱談為同謂談一音同以童烏為揚雄小<lb/>
+　　　　字又謂雄本姓楊字訛為揚字之類訛誤者<lb/>
+　　　　亦復不少又神仙鬼怪之名如呉剛姮娥豐<lb/>
+　　　　隆屏翳神荼欝壘等皆詳載之體例頗為冗<lb/>
+　　　　襍又不著所出不盡可以徵信特其採摭繁<lb/>
+<pb n="KR3k0042_WYG_000-2a"/>
+　　　　富頗有足資参證者固不妨存以備考焉乾<lb/>
+　　　　隆四十六年閏五月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="KR3k0042_WYG_000-3a"/>
+名疑原序<lb/>
+海宇之廣齊民林總不可勝計雖僻壤遐陬生同時者<lb/>
+奚翅億萬數哉䆳古之代書契未立莫之稽已三五以<lb/>
+來史牒所載姓名無論賢愚或億萬數中僅存一二乃<lb/>
+又傳録謬訛可嘅也余讀史又博觀百家雜説凡古人<lb/>
+姓名異同輒記手簡以備質問乆之成帙用示塾童題<lb/>
+曰名疑仲尼曰多聞闕疑余非多聞者也其不能闕疑<lb/>
+也亦不免玩物喪志之誚也與隆慶己巳上元日陳士<lb/>
+<pb n="KR3k0042_WYG_000-3b"/>
+元書<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>提要<lb/>
+                </head>
+    <p>
+<pb n="KR4d0160_WYG_000-1a"/>
+欽定四庫全書　　　　集部四<lb/>
+　提要<lb/>
+　　忠穆集八巻　　　　别集類三<hi>宋</hi>
+　　　　臣等謹案忠穆集八巻宋吕頥浩撰頥浩字<lb/>
+　　　　元直其先樂陵人徙齊州中進士第徽宗時<lb/>
+　　　　歴官至河北都轉運使高宗南渡起知揚州<lb/>
+　　　　兩入政府為同中書門下平章事後以少傅<lb/>
+　　　　醴泉觀使致仕卒贈太師秦國公諡忠穆事<lb/>
+<pb n="KR4d0160_WYG_000-1b"/>
+　　　　蹟具宋史本傳頥浩集凡十五巻見於陳振<lb/>
+　　　　孫書録解題宋史藝文志者並同舊本久佚<lb/>
+　　　　惟今永樂大典頗散見其遺篇裒而輯之尚<lb/>
+　　　　得文一百三十七首詩詞五十八首今重為<lb/>
+　　　　排輯勒成八巻頥浩在相位時顓肆自用力<lb/>
+　　　　排李綱李光諸人創立月樁錢貽東南患深<lb/>
+　　　　為公論所不與然宣和伐燕之役頥浩隨轉<lb/>
+　　　　輪奏燕山河北危急五事請議長久之策一<lb/>
+<pb n="KR4d0160_WYG_000-2a"/>
+　　　　時稱其切直至建炎中苗傅劉正彦為逆頥<lb/>
+　　　　浩與張浚倡議勤王卒平内難又少長西北<lb/>
+　　　　兩邊於軍旅頗為嫻習其應詔上戰守諸策<lb/>
+　　　　載於徐夢莘三朝北盟㑹編者大約皆謂和<lb/>
+　　　　議之必不可成而勸高宗為乗機進取之計<lb/>
+　　　　凡分兵策應機宜籌畫頗備雖都督江淮迄<lb/>
+　　　　未建恢復之績不能盡酬其所言然較張浚<lb/>
+　　　　之迂誕寡謀<graphic n="KR0945" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0945.png" mimeType="image/png"/>嫉悞國富平諸役流毒蒼生<lb/>
+<pb n="KR4d0160_WYG_000-2b"/>
+　　　　者則固有間矣集中上時政一書乃作於靖<lb/>
+　　　　康初年能預決金兵之必來諄諄以遷避為<lb/>
+　　　　說亦復具有先見而本傳獨未及此事是亦<lb/>
+　　　　足以補史闕也書録解題又稱集後三巻皆<lb/>
+　　　　燕魏襍記盖頥浩在河北時所作今祗存二<lb/>
+　　　　十九條於古蹟頗有典据又其集在孝宗時<lb/>
+　　　　嘗付兩浙漕司鏤板詳見其子搢所作謝表<lb/>
+　　　　中今與頥浩配饗省劄一通並付於末以備<lb/>
+<pb n="KR4d0160_WYG_000-3a"/>
+　　　　稽核焉乾隆四十六年三月恭校上<lb/>
+　　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

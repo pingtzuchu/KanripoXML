@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4a0005_WYG_005-1a"/>
+離騷草木疏後序<lb/>
+仁傑少喜讀離騷文今老矣猶時時手之不但覧其昌<lb/>
+辭正以其竭忠盡節凛然有國士之風每正冠歛衽如<lb/>
+見其人凡芳草嘉木一經品題者謂皆可敬也因按爾<lb/>
+雅神農書所載根莖花葉之相亂名實之異同悉本本元<lb/>
+元分别部居次之於槧㑹萃成書區以别矣夫榝似椒<lb/>
+蕭艾似<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>與夫紫䕮之似蘭及巳之似杜蘅猶夫大佞<lb/>
+之於忠鄉愿之於徳也得是書形見色屈或庶幾焉舉<lb/>
+<pb n="KR4a0005_WYG_005-1b"/>
+無以亂其真昔劉杳為草木疏二巻見於本傳其書今<lb/>
+亡矣杳疏凡王逸所集者皆在焉而仁傑獨取諸二十<lb/>
+篇之文故命曰離騷草木疏夫子不云乎詩可以興可<lb/>
+以觀可以羣可以怨邇之事父遠之事君多識於鳥獸<lb/>
+草木之名班固譏三閭怨恨懷王是未知離騷之近於<lb/>
+詩而詩之可以怨也劉勰亦譏三閭鴆鳥媒娀女為迂<lb/>
+怪詭異之說又王逸注鴆媒謂鴆食虵羽有毒可以殺<lb/>
+人者按鴆有二焉瑶碧之山有鳥如雉其名曰鴆郭璞<lb/>
+<pb n="KR4a0005_WYG_005-2a"/>
+謂此更一種非食蛇者也離騷之文多怪怪奇奇亦非<lb/>
+鑿空置辭實本之山經其言鷖鸞皇鴆鳥與詩麟騶鳯<lb/>
+凰何異勰又何足以知之離騷以薌草為忠正蕕草為<lb/>
+小人蓀芙蓉以下凡四十有四種猶青史忠義獨行之<lb/>
+有全傳也薋菉葹之類十一種傅著巻末猶佞倖姦臣<lb/>
+傳也彼既不能流芳後世姑使之遺臭萬載云歲在慶<lb/>
+元丁已四月三日通直郎行國子録河南吳仁傑書<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

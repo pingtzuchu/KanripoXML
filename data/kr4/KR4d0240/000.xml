@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>樂軒集</head>
+    <p>
+<pb n="KR4d0240_WYG_000-1a"/>
+欽定四庫全書　　　　　集部四<lb/>
+　樂軒集　　　　　　　　别集類三<hi>宋</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案樂軒集八卷宋陳藻撰藻字元潔<lb/>
+　　　　福清人林亦之之弟子樂軒其自號也是集<lb/>
+　　　　為其門人林希逸所編劉克莊序希逸竹溪<lb/>
+　　　　詩集稱乾淳間艾軒林光朝始好深湛之思<lb/>
+　　　　加煅煉之功有經嵗累月繕一章未就者盡<lb/>
+<pb n="KR4d0240_WYG_000-1b"/>
+　　　　生平所作不數卷能以約敵繁密勝疎精掩<lb/>
+　　　　粗一傳而為網山林亦之再傳而為樂軒陳<lb/>
+　　　　藻又稱艾軒歿門人盡散或更名他師獨網<lb/>
+　　　　山樂軒篤守舊聞窮死不悔云云今觀集中<lb/>
+　　　　所載各體詩俱以清刻新穎為長古文亦主<lb/>
+　　　　於煅煉字句而不為奔放閎肆之作與艾軒<lb/>
+　　　　網山二集體格相近雖其蹊逕太僻不免寒<lb/>
+　　　　瘦之譏然在南宋諸家中實亦自成一派也<lb/>
+<pb n="KR4d0240_WYG_000-2a"/>
+　　　　乾隆四十五年七月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

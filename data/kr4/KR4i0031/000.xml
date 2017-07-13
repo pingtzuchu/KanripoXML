@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>提要<lb/>
+                </head>
+    <p>
+<pb n="KR4i0031_WYG_000-1a"/>
+欽定四庫全書　　　　　　集部九<lb/>
+　提要<lb/>
+　　　文則二巻　　　　　　　詩文評類<lb/>
+　　　　<hi>臣</hi>等謹案文則二巻宋陳騤撰騤有南宋館<lb/>
+　　　　閣録已著録按太平御覽引摯虞文章流别<lb/>
+　　　　論曰古詩之三言者振振鷺鷺于飛是也漢郊廟<lb/>
+　　　　歌多用之五言者誰謂雀無角何以穿我屋<lb/>
+　　　　是也樂府用之六言者我姑酌彼金罍是也<lb/>
+<pb n="KR4i0031_WYG_000-1b"/>
+　　　　樂府亦用之七言者交交黄鳥止于桑是也<lb/>
+　　　　於俳諧倡樂用之九言者洞酌彼行潦挹彼<lb/>
+　　　　注兹是也不入歌謠之章故世稀為之文章<lb/>
+　　　　句法推本六經兹其權輿也劉知㡬史通特<lb/>
+　　　　出模擬一篇於貎同心異貎異心同辨析特<lb/>
+　　　　精是又不以句法求六經矣騤此書所列文<lb/>
+　　　　章體式雖該括諸家而大㫖皆凖經以立制<lb/>
+　　　　其不使人根據訓典鎔精理以立言而徒較<lb/>
+<pb n="KR4i0031_WYG_000-2a"/>
+　　　　量于文之増减未免逐末而遺本又分門别<lb/>
+　　　　類頗嫌於太𤨏太拘亦不免舍大而求細然<lb/>
+　　　　取格法于聖籍終勝摹機調于後人其所標<lb/>
+　　　　舉神而明之存乎其人固不必以定法泥此<lb/>
+　　　　書亦不必以定法病此書也乾隆四十六年<lb/>
+　　　　九月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="KR4i0031_WYG_000-3a"/>
+陳騤自序<lb/>
+騤始冠逰泮宫従老於文者問焉僅得文之端緒後三<lb/>
+年入成均復従老於文者問焉僅識文之利病彼老於<lb/>
+文者有進取之累所有吿於我與夫我所得唯利於進<lb/>
+取後四年竊第而歸未獲従仕凡一星終得以恣閲故<lb/>
+書始知古人之作嘆曰文當如是且詩書二禮易春秋<lb/>
+所載邱眀髙赤所傳老荘孟荀之徒所著皆學者所朝<lb/>
+夕諷誦之文也徒諷誦而弗考猶終日飲食而不知味<lb/>
+<pb n="KR4i0031_WYG_000-3b"/>
+騤竊每有考焉随而録之遂盈簡牘古人之文其則著<lb/>
+矣因號曰文則或曰方今宗匠鉅儒濟濟盈庭下筆語<lb/>
+妙天下雖與日月争光可也奚以吾子文則為騤曰盖<lb/>
+将所以自則也如示人以為則則吾豈敢<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2a0029_WYG_228-1a"/>
+　舊五代史巻一百十四攷證<lb/>
+周世宗紀一賊軍又潰臨陣斬賊大將張暉　案九國<lb/>
+　志作張元徽乗勝復入馬倒為周師所擒殺之與是<lb/>
+　書異通鑑從是書<lb/>
+戊戌車駕至潞州　案歐陽史作丁酉幸潞州與是書<lb/>
+　異通鑑從歐陽史五代春秋作丙戌誤<lb/>
+鐡騎第一軍都指揮使趙宏殷　案原本註宣祖廟諱<lb/>
+　四字今据宋史改作宏殷<lb/>
+<pb n="KR2a0029_WYG_228-1b"/>
+偽代州防禦使鄭處謙以城歸順　案遼史穆宗紀四<lb/>
+　年五月乙亥忻代二州叛据是書則忻州歸順在四<lb/>
+　月代州歸順在五月丙子與遼史日月互異<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　舊五代史巻一百十四攷證<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

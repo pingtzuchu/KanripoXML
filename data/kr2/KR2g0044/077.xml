@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>八旗滿洲氏族通譜目録</head> <lb/>
+    <p>
+<pb n="KR2g0044_WYG_077-1a"/>
+欽定四庫全書<lb/>
+　八旗滿洲氏族通譜目録<lb/>
+　　卷三十八<lb/>
+　　松花江地方巴雅拉氏<lb/>
+　　　圖勒慎　　　　　　富喀那<lb/>
+　　　勒騰　　　　　　　柴達<lb/>
+　　　哈爾庫　　　　　　恩庫納<lb/>
+　　　噶哈<lb/>
+<pb n="KR2g0044_WYG_077-1b"/>
+　　　　　以上俱有傳<lb/>
+　　　舒舒那　　　　　　善道<lb/>
+　　　錫魯　　　　　　　策爾錦<lb/>
+　　　法克塔喀　　　　　哈里休<lb/>
+　　　達斗　　　　　　　博爾騰<lb/>
+　　　勒福　　　　　　　海塔<lb/>
+　　　阿穆竒拉　　　　　倭理克<lb/>
+　　　瑪圖堪<lb/>
+<pb n="KR2g0044_WYG_077-2a"/>
+　　　　　以上俱附載<lb/>
+　　虎爾哈地方巴雅拉氏<lb/>
+　　　夸克塔喀　　　　　薩哈連<lb/>
+　　　　　以上俱有傳<lb/>
+　　　阿隆阿　　　　　　沙班<lb/>
+　　　瑪法察　　　　　　白魯<lb/>
+　　　都璧庫　　　　　　岱柱<lb/>
+　　　奇穆托　　　　　　薩米達<lb/>
+<pb n="KR2g0044_WYG_077-2b"/>
+　　　鈕爾虎山　　　　　伊塔堪<lb/>
+　　　牛爾胡順　　　　　洪科訥<lb/>
+　　　武苗　　　　　　　桑沙<lb/>
+　　　　　以上俱附載<lb/>
+　　木倫地方巴雅拉氏<lb/>
+　　　伊搆　　　　　　　喬萬<lb/>
+　　　胡克珍　　　　　　森都楞<lb/>
+　　　興相　　　　　　　賴鼐<lb/>
+<pb n="KR2g0044_WYG_077-3a"/>
+　　　　　以上俱有傳<lb/>
+　　　卿球　　　　　　　額爾森<lb/>
+　　　額樓　　　　　　　商堅<lb/>
+　　　　　以上俱附載<lb/>
+　　各地方巴雅拉氏<lb/>
+　　　尼堪　　　　　　　噶普塔喀<lb/>
+　　　通吉善　　　　　　奎泰<lb/>
+　　　舒寧阿　　　　　　多爾吉那<lb/>
+<pb n="KR2g0044_WYG_077-3b"/>
+　　　巴爾哈善　　　　　圖南<lb/>
+　　　　　以上俱有傳<lb/>
+　　　呉法哈　　　　　　綽寧阿<lb/>
+　　　蘇和　　　　　　　尼庫<lb/>
+　　　綬寧阿　　　　　　董蕭<lb/>
+　　　敖翁　　　　　　　索爾豪<lb/>
+　　　武爾登額　　　　　撓那<lb/>
+　　　蘇克蘇客　　　　　霍倫<lb/>
+<pb n="KR2g0044_WYG_077-4a"/>
+　　　尼永尼雅哈　　　　尼爾豪<lb/>
+　　　倭和　　　　　　　岱倫<lb/>
+　　　尼永尼堪　　　　　披揚郭<lb/>
+　　　庫坦　　　　　　　渾達喀<lb/>
+　　　恩努肯　　　　　　吳爾佳齊<lb/>
+　　　昭托倫　　　　　　尼雅瑚多<lb/>
+　　　顔徳福　　　　　　綽思圖<lb/>
+　　　外庫　　　　　　　道達喀<lb/>
+<pb n="KR2g0044_WYG_077-4b"/>
+　　　察爾拜　　　　　　巴楞太<lb/>
+　　　葉爾胡訥<lb/>
+　　　　　以上俱附載<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

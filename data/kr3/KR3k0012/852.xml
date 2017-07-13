@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3k0012_SBCK_852-1a"/>
+太平御覽卷第八百五十二<lb/>
+　飲食部十<lb/>
+　　　䴺<graphic n="KR3217" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3217.png" mimeType="image/png"/>　甘脆　安乾特　餳<hi>飴餳同序</hi>
+　　　　　　䴺<graphic n="KR3217" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3217.png" mimeType="image/png"/>
+束晢餅賦曰䴺<graphic n="KR3217" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3217.png" mimeType="image/png"/>髓燭<lb/>
+　　　　　甘脆<lb/>
+范汪祠制曰孟夏祭下甘脆<lb/>
+　　　　　安乾特<lb/>
+束晳餅賦曰安乾粔籹之倫<lb/>
+盧諶祭法曰四時祠皆用安乾特<lb/>
+　　　　　　餳<lb/>
+禮記内則曰棗栗飴蜜以甘之<lb/>
+方言曰餳謂之張皇<hi>即乾飴也</hi>飴謂之䬵<hi>音/該</hi>餳謂之餹<hi>江東皆言餹也</hi>
+<pb n="KR3k0012_SBCK_852-1b"/>
+凢飴謂之餳自關而東陳魏宋楚衛之間通語<lb/>
+說文曰飴米蘖煎也飴餳和饊也<lb/>
+釋名曰餳洋也煑米消爛洋洋然也飴小弱於餳形怡怡<lb/>
+然也哺餔也如餳而濁可哺也<lb/>
+後漢書曰明德馬皇后報章帝曰吾但當含飴弄孫不能<lb/>
+復關政矣<lb/>
+東觀漢記曰野王獻甘膠膏餳毎作大發吏以爲饒利樊<lb/>
+閎知之臨薨奏焉<lb/>
+四王起事曰惠帝到華隂河間王遣使上甘菓餔二百<lb/>
+幡<lb/>
+幽明録曰王胤祖安國張顯等以太元中乗舡見仙人賜<lb/>
+糖飴三餅大如比輪錢厚二分<lb/>
+淮南子曰栁下惠見飴曰可以養老盗跖見飴可以粘牝<lb/>
+<pb n="KR3k0012_SBCK_852-2a"/>
+見物同而用之異也<hi>壯門户籥壯也</hi>
+塩鐵論曰洗爵以盛水升降而進糖禮雖備然非其貴也<lb/>
+丗說曰王君夫飴餔澳釡<lb/>
+楚辭招魂曰粔籹蜜餌有張皇<hi>張皇賜也</hi>
+張衡七辨曰沙飴石蜜逺國貢儲<lb/>
+崔寔四民月令曰十月先水凍作煑餳煑暴飴<lb/>
+盧諶祭法曰冬祠用荆餳<lb/>
+太平御覽卷第八百五十二<lb/>
+<pb n="KR3k0012_SBCK_852-2b"/>
+<pb n="KR3k0012_SBCK_852-2b"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

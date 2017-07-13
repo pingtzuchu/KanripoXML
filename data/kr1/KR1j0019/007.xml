@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="1a"/>
+說文解字通釋卷第七<lb/>
+　　　　　　　繫傳七<lb/>
+　　　文林郎守祕書省校書郎臣徐鍇傳釋<lb/>
+　　　朝散大夫行祕書省校書郎臣朱翺反切<lb/>
+　　三十五部　文六百四十　重百十二<lb/>
+<hi>舉目使人也從攴目凡<graphic n="KR2138" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2138.png" mimeType="image/png"/>之属皆從/<graphic n="KR2138" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2138.png" mimeType="image/png"/>讀若臣鍇曰支止也隳恱反營求也從<graphic n="KR2138" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2138.png" mimeType="image/png"/>人在穴中商書高宗寢得說使百工營求得之傳巖巖穴也臣鍇曰人與目隔穴與人字也<pb n="1b"/>目經營而見之然後指使人求之也攴所以指畫也營經營也臣以爲高宗見湯得伊尹於負鼎又見朝士無可類此者乃使百工䖏處營求果得之於傳巖也尚書作營翾正反/低目視也從<graphic n="KR2138" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2138.png" mimeType="image/png"/>門聲弘農胡縣有闅郷汝南西乎有闅亭無云反/大視也從大<graphic n="KR2138" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2138.png" mimeType="image/png"/>聲讀若齤衢貟反</hi>
+　　　　　文四<lb/>
+<hi>人目也象形重童子也凡目之属皆從目莫叔反古文目/目也從目㫐/聲儒盞反/兒𥘉生瞥者從目睘聲讀若告之謂調臣鍇曰請轉目視人也靈光殿賦曰目䁵轉而意迷邦見反/目無常主也從目玄聲臣鍇曰目眩眩也迴茜反<pb n="2a"/>目匡也從目此聲寂帝反/目旁毛也從目夾聲臣鍇曰史云離婁不見目䀹者也節攝反盧童子也從目縣聲臣鍇曰盧黒也眼中黒子也楊雄甘泉賦曰玉女無所眺其清盧是也預犬反目童子精瞦也從目喜聲讀若爾雅禧福軒其反/目旁薄緻從宀宀也/從目聲臣鍇按楚辭曰靡顔膩理遺視矏矏今人云眼臉單也名連反/大目也從目/非聲甫肥反/大目也從目臤聲侯産反/大目也從目旱聲臣鍇按春秋左傳/曰睅其目注云睅出目也户版反/睅或從完大目也從目爰聲呼逺反/平目也從目㒼聲臣鍇曰目臉低也魏武小名瞞没團反大目出也從目軍聲工鈍反/目矕矕也從目/<graphic n="KR1163" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1163.png" mimeType="image/png"/>聲武版反/目大也從目侖聲春秋傳有鄭<pb n="2b"/>伯㫻孤損反/詩曰羙目盻兮從目分聲臣/鍇曰目好流視也鋪幻反/多白也從目干聲臣鍇曰張目也根旱反/多白眼也從目反聲春秋傳曰鄭游眅字子明臣鍇按周易曰巽為多白眼潘蠻反出目也從目見聲臣鍇曰詩云睍睆黄鳥易顯反/目多精也從目雚聲益州謂瞋目曰矔古翰反/目精也從目粦聲臣鍇曰左思/呉都賦曰鷹瞵鶚視里神反/深目也從穴中目臣鍇曰㑹意也倚了反/目少精也從目毛聲虞書/字從此/臣鍇曰古書耄字多作此手抱反/目無精直視也從目黨聲臣鍇曰莾黨然也他朗反/暫視貌從目炎聲若白蓋謂之苫相似臣鍇按郭璞江賦獱獺睒瞲干厱空収儼反/吴楚謂瞋目顧視曰/眮從目同聲頭貢反/直視也從目必聲讀若詩</hi>
+<pb n="3a"/>
+<pb n="4a"/>
+<hi>葵名反/視而止也從目/亶聲旨闡反/目冥逺視也從目勿聲一曰乆也一曰且明也莫隊反目有所恨而止也從目㐱聲臣鍇按/爾雅云眕重也目厚意也支允反/<graphic n="KR1353" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1353.png" mimeType="image/png"/>也從目爂聲臣鍇曰㣲視之也匹妙反/察也從目祭聲臣鍇曰左思魏都賦/曰有<graphic n="KR1353" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1353.png" mimeType="image/png"/>吕染言下視吕梁也刺細反見也從目者聲得古反/古文睹/従見/目相及也従目隶省聲讀若與隶同也道合反/目不相聽也従目癸聲臣鍇按易睽/卦曰二女同居其忠不相得弯圭反/望也從目希聲海岱之間謂眄曰睎臣鍇曰班固西都賦曰睎秦嶺大凡睎望字皆當如此忻祈反/目不明從目末聲門撥反/轉目視也従目/般聲别安反/小兒白眼也從/目辡聲鋪患反/目則視也從目<pb n="4b"/>
+                        <graphic n="KR1000" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1000.png" mimeType="image/png"/>聲臣鍇曰謂目略視之也古詩曰/盈盈一水間眽眽不得語也莫獲反/目睞謹也従目录聲讀若鹿盧木反/眄也從目各/聲勒託反/失意視也從目脩聲臣鍇曰左/思魏都賦曰焉失所他狄反謹鈍目也從目<graphic n="KR1647" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1647.png" mimeType="image/png"/>聲朱順反/目動也從目/閠聲然匀反/恨張目也從目賔聲詩曰國歩斯矉婢民反/目無明也從目夗聲讀若委臣鍇按春秋左傳曰目於眢井葢為隱語也言井無水若目無精也眢之九反/仰目也従目隹聲臣鍇曰睢/眄也又梁宋水名許惟反/目揺也従目匀省聲廻茜反/旬或従目旬臣鍇按史記項梁眴/籍曰可行矣謂動目私視之也/大視也從目蒦聲臣鍇曰驚視也吁醵反/目順也従目坴聲一曰敬和也臣鍇曰通論詳矣莫叔反</hi>
+<pb n="5a"/>
+<pb n="6a"/>
+<hi>嬿殷典反/短深目貌也從/目取聲烏未反/顧也從目/聲詩曰乃眷西顧便俱反察也從目叔聲一曰目病也得酷反/睎也從手下目臣鍇曰以手翳目而望也宋玉賦曰若姣姬楊𬒮鄣目而望所思此㑹意刻干反/㸔或從倝臣/鍇曰倝聲也/深視也一曰下視也又竊見也從目覃聲臣鍇按春秋左傳晉有狼瞫施甚反/長眙也從目宁聲一曰張眼臣鍇曰長乆也楚辭曰思美人兮涕/而眝陟臣反/坐寐也從目/垂聲時位反/翕目也從目冥冥亦聲臣揩按尚書曰若藥弗瞑眩謂藥若毒使人目閉而瞑眩之也民甹反/目病生翳也從目生聲臣鍇按春秋左傳曰日月之眚謂日月有蝕若月有翳也息永反/過目也又目翳也從目敝聲一曰財見也臣鍇曰瞥然暫見也<pb n="6b"/>僻列反/目傷眦也從目多聲一曰瞢兠臣鍇曰/瞢兠目汁疑也今人言眼兠眵齒離反/目眵也從目蔑省聲臣鍇按宋玉風賦曰中/為眕得目為/名噎反/睊也從目夬聲臣鍇曰目美也鵙穴反目病也從目/良聲力上反/目不明也從目未聲臣鍇按春秋左傳呉子夷昧亡貝反戴目也從目間聲江淮之間謂眡曰瞷臣鍇曰戴目目望陽也眡古視字候間反/艸入目中也從目米聲臣鍇按吕氏春秋瞽師之愛子也不免枕之以糠眯之也名洗反/目不正從目兆聲臣鍇曰潘岳射雉賦曰目不歩體哀眺旁剔惕弔反/目童子不正也從目來聲臣鍇日眄睞睞者目光聲也勤菜反/眣也從目攸聲臣鍇/曰脩自失也尹修反/脩或從丩臣/鍇曰斗聲/目不從正<pb n="7a"/>也從目失聲臣鍇曰其視散若有所失也暘七反/童蒙也從目蒙聲一曰不明也臣鍇按周禮樂師有瞽矇目不明者於聽聲審也母東反/一目小也從目少亦聲/臣鍇曰㑹意彌少反/目偏合也從目丏聲一曰衺視也秦語臣鍇曰楚辭曰滿堂兮美人忽獨與余兮目成弭釧反/目無眸子從目亡聲泛彭反/目䧟也從目/咸聲刻洽反/目但有朕也從目鼓聲臣鍇按說尚書者言目漫若鼓反也朕但有黒子外㣲黒影而已昆覩反/無目也従目/叜聲蘓后切/惑也従目榮省聲臣鍇按史記曰朝營/或天子玄經反/目小也從目/坐聲泉和反/棺目也從目叉聲臣鍇曰棺槄也又音晚字烏未反/目小哀視也從目弟聲南楚謂眄睇臣鍇按班固幽通賦曰養流睇而猨號苗計反<pb n="7b"/>開闔目數揺也從目寅聲臣鍇曰目/也失閠反/直視也從目台聲臣鍇曰視不移也靈光殿賦序曰覩斯而胎敕餌反/恨視也從目兮聲臣鍇曰/漢西京有盻胃殿異契反/目不明也從目弗聲普未反</hi>
+　　　　　文一百十三　重九<lb/>
+<hi>左右視也從二目几䀠之属皆從䀠讀若拘又若良士瞿瞿九遇反目圍也從䀠讀若書卷之卷古文以為/<graphic n="KR0804" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0804.png" mimeType="image/png"/>臣鍇曰/翳目也/字從此俱便反/目衺也從䀠従大大人也臣鍇曰字從此卷子反</hi>
+<pb n="8a"/>
+<pb n="9a"/>
+<pb n="10a"/>
+<hi>俱辭也從比從白臣鍇曰比皆也㑹意古諧反/鈍詞也從白鮺省聲論語曰參也魯臣鍇曰劉熈釋名曰魯國多山水民性樸鈍勒古反/别事詞也從白/聲/古文旅臣鍇曰凡文有者字者所以為分别隔異也煑也反/詞也從白<graphic n="KR3363" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3363.png" mimeType="image/png"/>聲虞書/曰帝曰/咨陳收反/識詞也從白亐知臣鍇曰亐亦气也此會意展避反/古文/十十也從一白數十百為一貫相章也臣鍇曰百亦成數故云一貫以詩言之為一章也會意慱陌反/古文百</hi>
+　　　　文七　重三<lb/>
+<hi>引气自卑也從自從卑凡鼻之属皆從鼻臣鍇曰卑與也助也會意頻至反</hi>
+<pb n="10b"/>
+<pb n="10b"/>
+<pb n="10b"/>
+<hi>也尾長從羽從隹臣鍇曰古謂雉爲翟故尚書曰羽畎夏翟注漢書有言翟方進姓本音狄後人姓乃音澤也田溺反赤羽雀也從羽非聲出鬱林臣鍇按左/思呉都賦翡翠列巢以重行符旣反/青羽雀也出鬱林從羽卒聲臣鍇按爾雅翠鶵也注似燕漢書南越王獻翠爲干此醉反/羽生也一曰羽從羽前聲子善反/頸毛也從羽公聲臣鍇曰爾雅多謂草華莖細葉叢出爲翁臺取名於此也又謂老人爲老翁言其頸毛白而彊短若此鳥頸也鳥公反/翼也從羽支/聲叱智反/翄或從羽氏趐也從羽革聲溝厄反/尾長毛也從羽尭聲臣鍇按班固西都賦曰發皓羽兮奮翹英尾毛光華也岐遥反/羽本也從羽侯聲一/曰羽初生河溝反/羽莖也從羽鬲聲臣鍇按史晉舩人曰鳥所恃<pb n="11a"/>者六翮也閑隔反/羽曲也從羽/句聲犀吁反/羽之/風亦古諸侯也一曰射師從羽幵臣鍇曰猶翳也古有窮之君名/一曰帝嚳射官五計反/飛舉也從羽/者聲只庶反/起也從羽合聲臣鍇曰相合起也希立反/小飛也從羽睘聲臣鍇曰文子云翾飛蝡動或作蜎虚全反大飛也從羽軍聲一曰伊雒而南雉五采皆備曰翬詩曰有翬斯飛大韋反/高飛也從羽㐱臣鍇曰㐱新生羽而飛也長羽短羽相副然後能高飛也㑹意良秀反/疾飛也從羽扁聲臣鍇曰魏文帝書云元瑜書記翩翩言疾速也僻連反/捷也飛之疾從羽夾聲讀/吿歰一曰俠也山洽反/飛皃也從羽立聲臣鍇曰今言輔翊猶翼戴也以即反/飛盛貌也從羽曰聲臣鍇曰盛也㑹意蹋從此他榼反</hi>
+<pb n="11b"/>
+<pb n="11b"/>
+<pb n="11b"/>
+<pb n="11b"/>
+<hi>秩海雉如雉而黒在海中山上翟山雉長尾雗雉鵫雉併之臣以為雗雉/今白雉<graphic n="KR4189" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4189.png" mimeType="image/png"/>白翬雉屬白貭五采皆備成章毛色光鮮揺青質五采皆備成章也<graphic n="KR3363" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3363.png" mimeType="image/png"/>音儔已下皆四/方雉名臣鍇以為雉豸豸然介直貌也陳匕反/古文雉從弟/雌雉鳴也雷始動雉鳴而鴝其頸從隹句句亦聲臣鍇曰禮月令曰雉始雊格漚反知時畜也從隹奚聲臣鍇曰以為雞稽也能考時也古兮反/籕文鷄/從鳥/鷄子也從隹芻聲臣鍇曰雛猶云𥘉也善于反/籕文雛/從鳥/天鸙也從隹翏聲一曰雉之莫子爲雡臣鍇按爾雅注鷚天鸙雀色似鶉好髙飛作聲雉之莫子晚生者也良秀反/黄蒼庚也鳴則蠶生從隹离聲臣鍇按爾雅注即楚雀又名商庚古有九雇官夏雇其一蔡邕曰夏雇趣民蠶麥爾雅雇竊玄此云雡累而黄疑之此即夏<pb n="12a"/>雇鄰之反/鷻也從隹周聲臣鍇按詩曰匪鷻匪/鳶翰飛戾天注云鷻之雕也覩姚反/籕文雕從鳥鳥也從隹瘖省聲或從人人亦聲臣/鍇曰鷹隨人所指蹤故從人倚氷反/籕文從鳥也從隹氏聲臣鍇曰今俗猶呼爲鷂嗔肌反/籕文鴟/從鳥/鴟也從隹垂聲時位反石鳥一名雝渠一曰精列從隹幵聲春秋傳秦有士雅臣鍇曰爾雅即雝渠雀屬飛則鳴行則揺士雅人姓名也弃妍反/雝渠也從隹/邕聲宛封反/鳥也從隹今聲春秋傳有公子若鴒臣鍇曰若鴒宋人也勤潜反/鳥也從隹從人厂聲讀若鴈臣鍇/按春秋後語楚有昭雁迎諌反黄也從隹黎聲一曰楚雀也其色黎黒而黄臣鍇曰即離黄也里西反/鳥也從崔虍聲臣鍇曰虧字從此虎<pb n="12b"/>鳥反/牟母也從隹奴聲臣鍇按爾/雅䳺也青州呼鴾母熱除反/或/從鳥/九雇農桑候鳥扈民不媱者也從隹户聲春雇鳻盾夏雇竊玄秋雇竊藍冬雇竊黄棘雇竊丹行雇唶唶宵雇嘖嘖桑雇竊脂老雇鷃鷃臣鍇按春秋左傳帝少昊以鳥名官故有九雇雇扈也扈止也故云雇民不娷娷過時也蔡邕獨断春扈氏趣民耕種夏扈氏趣民芸除秋扈氏趣民収歛冬扈氏趣民盖藏棘扈氏掌民百果行扈氏晝為民驅鳥宵扈氏夜為民駈獸桑扈氏趣民養蠶老扈氏趣民收麥唶音借嘖音仕䇿反臣鍇以為竊猶淺也桓土反/籕文雇從鳥/雇或/從雩/䳺屬也從隹/<graphic n="KR1647" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1647.png" mimeType="image/png"/>聲是倫反/屬也從隹酓聲思甘反籕文䨄從鳥/鳥也從隹支聲一曰䧴度臣鍇按漢西京有䧴䧿觀䧴度猶今言度支也章移反<pb n="13a"/>鳥肥大<graphic n="KR2896" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2896.png" mimeType="image/png"/>
+                        <graphic n="KR2896" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2896.png" mimeType="image/png"/>從/隹工聲貟聦反/<graphic n="KR2896" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2896.png" mimeType="image/png"/>或/從鳥/<graphic n="KR0819" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0819.png" mimeType="image/png"/>/也從隹<graphic n="KR2326" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2326.png" mimeType="image/png"/>聲一曰飛/<graphic n="KR2326" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2326.png" mimeType="image/png"/>也臣鍇曰繒<graphic n="KR0819" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0819.png" mimeType="image/png"/>以取鳥也<graphic n="KR2326" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2326.png" mimeType="image/png"/>音散/四旦反/<graphic n="KR0819" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0819.png" mimeType="image/png"/>射飛鳥也從隹弋聲臣鍇曰管/子曰田獵畢弋今作弋以即反/鳥父也從隹厷聲于戎反/鳥母也從隹/此聲千思反/覆鳥令不飛走也從网隹讀者到臣鍇曰䍜猶罩也咤孝反/肥肉也從弓所以射隹長沙有下雋縣臣鍇按楚辭鵠酸臇鳬煎鴻鶬蒯通著書號雋永言其説有味而長也下雋縣今鄂州唐年縣也自𥚹/反/飛也從隹隓聲式垂反</hi>
+　　　　　文三十九　重十二<lb/>
+<hi>鳥張毛羽自奮從大隹凡奞之属皆從奞讀若睢臣鍇曰大張大貌也指事思振反</hi>
+<pb n="13b"/>
+<pb n="13b"/>
+<hi>蒦或從尋尋亦度也楚辭曰求矩彠之所同/小爵也從萑吅聲詩曰雚鳴于垤臣鍇曰今俗作鸛古翰反/鴟舊留也從萑臼聲臣鍇曰即/怪鴟也今借為新舊字其救反/舊或從鳥休聲</hi>
+　　　　　文四　重二<lb/>
+<hi>羊角也象形凡<graphic n="KR1586" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1586.png" mimeType="image/png"/>之属/皆從<graphic n="KR1586" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1586.png" mimeType="image/png"/>讀若友買反戾也從<graphic n="KR1586" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1586.png" mimeType="image/png"/>而兆兆古文别/臣鍇曰兆重八也骨排反/相當也闕讀若宀臣鍇曰繭字從此没團反</hi>
+　　　　　文三<lb/>
+<pb n="14a"/>
+<hi>目不正也從<graphic n="KR1586" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1586.png" mimeType="image/png"/>從目凡首之属皆從首莧從此/讀若不臣鍇曰<graphic n="KR1586" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1586.png" mimeType="image/png"/>角戾也此㑹意名噎反目不明也從首從旬旬目數揺也臣鍇曰㑹意木空反/大不明也從苜火苜亦聲周書曰布重席織蒻席也讀與蔑同臣/鍇曰㑹意今尚書作蔑名噎反/勞目無猜也從苜人勞則蔑然從戍臣鍇曰㑹意名噎反</hi>
+　　　　文四<lb/>
+<hi>祥也從<graphic n="KR1586" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1586.png" mimeType="image/png"/>象四足尾之形孔子曰牛羊之字以形舉也凡羊之屬皆從羊臣鍇曰説禮者云羊吉祥也猶臭反</hi>
+<pb n="14b"/>
+<pb n="14b"/>
+<hi>黒羝羊朱反/夏羊牡曰羖從/羊殳聲昆覩反/羊羖犗也從羊曷聲臣鍇曰羊形也鳩歇反騬羊也從羊夷聲徐姉切/黄腹羊也從羊從畨聲臣鍇按爾雅曰羳羊黃腹也復喧反羊名也從羊巠聲懇耕反/羊名也從羊執聲汝南/與有摯亭讀若晉子印反/瘦也從羊羸聲臣鍇曰六畜之中駿馬多瘦牛亦瘦狗亦細形鷄之瘦不至於劣唯羊瘦則羸也逹垂反/羊相積也從羊委聲臣鍇曰羊性好䍴/也藴瑞反/䍴/也從羊/責聲替寄反/輩也從羊君聲臣鍇曰羊性好羣居也具分反/羣羊相/也一曰黒羊/也從羊垔聲鳥閑反/羊名<graphic n="KR1389" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1389.png" mimeType="image/png"/>皮可以割黍從羊此聲臣鍇曰言皮利也千思反/甘也從羊大羊在六畜主給膳也羙與善同臣鍇曰羊取大者也羊<pb n="15a"/>羙物也故以為摯會意免鄙反/西戎從羊人也從人從羊羊亦聲南方蠻閩從虫北方狄從犬東方貉從豸西方羗從羊此六種也西南𤏡人僬僥從人蓋在坤地頗有順理之性惟東夷從大大人也夷俗仁仁者夀有君子不死之國孔子曰道不行欲之九夷秉桴浮於海以也臣鍇曰東方行方也會意立香反/古文羌如此追善也從羊乆聲文王拘羑里在湯隂臣鍇曰若言誘善也慱物志曰殷名獄曰羑里湯隂在毫州夷酒反</hi>
+　　　　文二十六　重二<lb/>
+<hi>羊臭也從三羊也凡羴之属皆從羴相則臭禮月令曰其臭羶會意賖延反</hi>
+<pb n="15b"/>
+<pb n="15b"/>
+<pb n="15b"/>
+<pb n="15b"/>
+<pb n="15b"/>
+<hi>方反/鶻鳩也從鳥/九聲飢酬反/鶌鳩也從鳥屈聲臣鍇按爾雅注/似山鵲而小短尾多聲居屈反祝鳩也従鳥佳聲古滑反/鵻或從隹二曰鶉/字臣鍇曰執之也/鶻鳩也從鳥骨聲古忽反/鶻鵃也従鳥/舟聲陟牛反/桔鷨尸鳩従鳥/聲臣鍇按爾雅注布榖也堅祝反鳩屬也従鳥合聲茍合反/渇鴠也從鳥旦聲臣鍇按詩曰相彼鳱鴠尚或惡之夜鳴急旦也兠散反伯勞也從鳥臭聲臣鍇按鵙伯趙氏司至者也㳙寂反/鵙或/從隹/天鸙也從鳥翏聲良秀反/卑居也従鳥與聲臣鍇按/爾雅曰<graphic n="KR2207" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2207.png" mimeType="image/png"/>斯也玄遇反/雗鷽山鵲知來事鳥也從鳥學省聲臣鍇按爾雅注曰似鵲有文采尾長觜短赤西京雜記陸賈曰干鵲噪行人至即此也臣鍇以爲亦猶猩猩知<pb n="16a"/>人徃事也禮射鳱鵠即此也了卓反/鷽或/従隹/鳥黒色多子師曠曰南方有鳥名曰羌鷲黄頭赤目五色皆備從鳥就聲絶僦反/鴟鴞寜鳺也從鳥号聲臣鍇按爾雅注鴟屬詩曰占彼飛鴞集于泮林食我桑椹懐我好音然則鴞惡聲鳥也尤嬌反/寜鳺也從鳥/夬聲古穴切/鳥也從鳥祟聲相聿反/澤虞也從鳥方聲臣鍇按爾雅注涸澤鳥也似水鷄倉黒常在澤中有象主守之官故名澤虞分敞反/鳥也從鳥<graphic n="KR0914" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0914.png" mimeType="image/png"/>/聲姉薛反/鳥也從鳥/聲秋日反/鋪鼓也從鳥失聲臣鍇按爾雅鳺鋪鼓注未詳/亭結反/鶤鷄也從鳥軍聲讀若運臣鍇按楚/辭曰鶤鷄嘲<graphic n="KR1116" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1116.png" mimeType="image/png"/>而悲鳴爾雅鷄五尺為鶤古論反/鳥也從鳥芙/聲晏考反/鳥也從鳥臼/聲俱燭反/鷦<graphic n="KR1775" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1775.png" mimeType="image/png"/>桃虫也從<pb n="16b"/>從鳥焦聲臣鍇按爾雅桃虫鷦其䳄鴱注云鷦<graphic n="KR1775" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1775.png" mimeType="image/png"/>雀俗呼爲巧婦詩云肇凢彼桃虫拚飛維鳥注云始小終大之鳥也煎昭反/鷦<graphic n="KR1775" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1775.png" mimeType="image/png"/>也從鳥/眇聲彌小反/鳥少羙長醜爲鶹離從鳥畱聲臣鍇按爾雅少美長醜爲鶹鷅詩曰瑣兮尾兮留離之子里求反/鳥也從鳥堇/聲能闌反/<graphic n="KR3365" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3365.png" mimeType="image/png"/>或從隹臣鍇曰借爲難易之難/古文/<graphic n="KR3365" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3365.png" mimeType="image/png"/>/古文/<graphic n="KR3365" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3365.png" mimeType="image/png"/>/古文/<graphic n="KR3365" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3365.png" mimeType="image/png"/>/欺老也從鳥彖聲臣鍇按爾雅䳢老鴒鶨俗呼爲癡焦丑縜反/鳥也從鳥兊/聲與缺反/鳥也從鳥主聲土偶反鳥也從鳥昏聲眉匀反/刀鷯剖葦食其中蟲從鳥燎聲臣鍇按爾雅一名剖葦食其中虫江東呼盧虎虎絝虫衣也分昭反/鳥也其雌皇從鳥匽聲一曰鳯凰也臣鍇按爾雅注即鳯一名依逺反<pb n="17a"/>暝鴲也從鳥㫖聲眞夷反/鳥鸔也從鳥各聲臣鍇按爾雅注水鳥似鶂而短頸腹趐紫白背上緑色勒記反鳥鸔也從鳥/暴聲已㐲反/鳴九臯聲聞于天從鳥寉聲臣鍇按爾雅鶴鳴九臯聲聞于天臯澤也自外數之有九言幽逺也閑博反/白鷺也從鳥/路聲勤姑反/鴻鵠也從鳥告聲胡僕反鴻鵠也従鳥江聲貟聦反/秃/也從鳥尗聲七牛反臣次立按說文徐鉉曰尗非聲又按尗行反豆也字義不通疑從秋省乃得聲尗傳冩禾之誤也下文鶖即不省於義可見/或從秋鴛鴦也從鳥夗聲迂言反/鴛鴦也從鳥/央聲殷光反/鵽鳩也從鳥叕聲臣鍇按爾雅鵽鳩冠雉注大如鴿似䳄雉䑕脚無後趾歧尾為鳥憨急羣飛出北方沙漢誅貀反/鴚鵝也從鳥可聲臣鍇按子虗</hi>
+<pb n="17b"/>
+<pb n="17b"/>
+<hi>鵖鴒戴鵀注云即戴勝也其輙反/鴔鵖也従鳥/皂聲皮及反/鳥也肉出尺胾/從鳥聲臣鍇按鴇虎文無後趾大如鴈詩云肅肅鴇羽胾臠也言大也𥙷老反/鴇或/從包/<graphic n="KR1445" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1445.png" mimeType="image/png"/>也従鳥渠聲巨居反/水鴞也從鳥/區聲殷婁反/鳥也從鳥友聲讀若撥臣鍇/按郭璞江賦鷗䳁注曰䳁似鳬蒲特反/鳥也從鳥庸聲臣鍇按字書/渠似鳬一名水鷄與封反/鳥也從鳥兒聲春秋傳曰鶃退飛臣鍇按字書鶂水鳥一曰鷁一身九頭倪激反/鶂或/從鬲/司馬相如說鶃從赤鴺胡汚澤也從鳥夷聲敵反/鴺或/從弟/天狗也從鳥立聲臣鍇按爾雅注小鳥色青似翠食魚江東呼為水狗里汲反/麋鴰也從鳥倉聲臣鍇按/爾雅注今呼鶬鴰切陽反/鶬或<pb n="18a"/>從隹/麋鴰也從鳥/<graphic n="KR2140" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2140.png" mimeType="image/png"/>聲古活反/鵁<graphic n="KR2726" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2726.png" mimeType="image/png"/>也從鳥交聲一/曰鵁鸕也加肴反/鵁<graphic n="KR2726" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2726.png" mimeType="image/png"/>也從鳥青聲津貞反/鵁<graphic n="KR2726" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2726.png" mimeType="image/png"/>也從鳥幵聲臣鍇/按爾雅鳽鶄也激賢反/鷀也從鳥壹聲臣鍇曰盧鷀也即<graphic n="KR3084" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3084.png" mimeType="image/png"/>鴜/乙器反/<graphic n="KR3084" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3084.png" mimeType="image/png"/>鴜也從鳥/箴聲止沉反/<graphic n="KR3084" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3084.png" mimeType="image/png"/>鴜也從鳥/此聲即冝反/鵰也從鳥敦聲詩曰匪鷻匪鳶杜酸反/鷙鳥也從鳥/屰聲與川反/鴟也從鳥間/聲侯艱反/鷙鳥也從鳥䍃聲異召反/白鷢玉瞗也從鳥厥聲臣鍇按崔/豹古今注似鷹尾上白瞿月反/王鴡也從鳥且聲且渠反/鸛/畐蹂如鵲短尾射之銜矢射人從/鳥雚聲臣鍇按爾雅一名<graphic n="KR2432" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2432.png" mimeType="image/png"/>羿呼寛反鷐風也従鳥亶聲臣鍇按爾雅注曰鷂属也遮延反/籕文鸇/從㕓/鷐風也從鳥晨<pb n="18b"/>聲石倫反/撃殺鳥也從鳥/執聲戦媚反/鸇飛皃從鳥穴聲詩曰鴥彼鷐風與必反鳥也從鳥榮省聲詩曰有鶯其羽臣鍇又按詩傳鳥羽文也恩行反/鴝鵒也從鳥句聲羣吁反鴝鵒也從鳥谷聲古者鴝鵒不踰泲臣鍇曰泲子禮反水名此周禮文也余足反/鵒或從臾隹赤雉也從鳥敝聲周禮曰孤服鷩冕辟舌反/鵔鸃鷩也從鳥/夋聲蘇狥反/鵔鸃也從鳥義聲秦漢之𥘉侍中冠駿鸃冠研之反/雉属戇鳥也從/鳥啻聲顛狄反/似雉出上黨從鳥曷聲臣鍇按顔之推家訓曰鶡上黨數嘗見之黄黒無駮雜色衡割反/鳥似鶡而青岀羗中從鳥介聲臣鍇曰家訓又云竇如同自河州得䲸来也苟差反/鸚䳇也從鳥/嬰聲思行反/鸚䳇也從鳥母<pb n="19a"/>聲能言鳥也勿撫反/走鳴長尾雉也乗輿以為防釳著馬頭上從鳥喬聲臣鍇按蔡邕獨断釳方數寸以挿羽也伎昭反/䳄雉鳴也從鳥唯聲詩/曰有鷕雉鳴以沼反/䑕形飛走且乳之鳥也從鳥畾聲臣鍇曰飛生䑕也柳水反/籕文/䴎/雉肥/音者也從鳥倝聲魯郊以丹鷄祝曰以斯鶾音赤羽去魯侯之咎臣鍇按禮鷄曰翰音侯玩反/雇也從鳥安聲臣鍇按爾雅今鴳雀殷訕反毒鳥也從鳥穴聲一名運目臣鍇按鴪食蝮狀如鶚紫黒色一名運曰也直賃反/鳥子生哺者從鳥殻聲格漚反/鳥聲也從鳥口聲臣/鍇曰今㑹意眉平反/飛皃也從鳥寨省聲臣鍇按班固西都賦曰鳯騫翥於/棟忻元反/鳥聚皃也一曰飛皃/也從鳥分聲扶云反/蔞鵝也從鳥坴</hi>
+<pb n="19b"/>
+<pb n="19b"/>
+<hi>烏字也有連反</hi>
+　　　文三　重三<lb/>
+說文解字通釋卷第七<lb/>
+<pb n="20a"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

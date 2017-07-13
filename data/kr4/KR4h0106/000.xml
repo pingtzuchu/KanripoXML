@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>文編</head>
+    <p>
+<pb n="KR4h0106_WYG_000-1a"/>
+欽定四庫全書　　　　　集部八<lb/>
+　文編　　　　　　　　　總集類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案文編六十四巻明唐順之編順之<lb/>
+　　　　有左編已著錄是集取由周迄宋之文分體<lb/>
+　　　　排纂陳元素序稱以真徳秀文章正中為藁<lb/>
+　　　　本然徳秀書主於論理而此書主於論文宗<lb/>
+　　　　㫖逈異元素説似未確也其中如以莊韓孫<lb/>
+<pb n="KR4h0106_WYG_000-1b"/>
+　　　　子諸篇入之論中為强立名目又不錄史記<lb/>
+　　　　漢書列傳而獨取後漢書黄憲傳冠諸傳之<lb/>
+　　　　上進退亦多失據葢彚收太廣義例太多蹖<lb/>
+　　　　駁往往不免然順之深于古文能心知其得<lb/>
+　　　　失凡所别擇具有精意觀其自序云不能無<lb/>
+　　　　文即不能無法是編者文之工匠而法之至<lb/>
+　　　　也其平日又嘗謂漢以前之文未嘗無法而<lb/>
+　　　　未嘗有法法寓于無法之中故其為法也宻<lb/>
+<pb n="KR4h0106_WYG_000-2a"/>
+　　　　而不可窺唐與宋之文不能無法而能毫釐<lb/>
+　　　　不失乎法以有法為法故其為法也嚴而不<lb/>
+　　　　可犯其言皆妙解文理故是編所錄雖皆習<lb/>
+　　　　誦之文而標舉脈絡批導窽㑹使後人得以<lb/>
+　　　　窺見開闔順逆經緯錯綜之妙而神明變化<lb/>
+　　　　以蘄至於古學秦漢者當於唐宋求門徑學<lb/>
+　　　　唐宋者固當以此編為門徑矣自正嘉之後<lb/>
+　　　　北地信陽聲價奔走一世太倉歴下流派彌<lb/>
+<pb n="KR4h0106_WYG_000-2b"/>
+　　　　長而日久論定言古文者終以順之及歸有<lb/>
+　　　　光王慎中三家為歸豈非以學七子者畫虎<lb/>
+　　　　不成反類狗學三家者刻鵠不成尚類鶩耶<lb/>
+　　　　閻若璩潛邱劄記有與戴唐器書述宋實頴<lb/>
+　　　　之言曰荆川才大如海評書有詳有畧惟文<lb/>
+　　　　編出陳元素者非其原本又稱兩本舍下俱<lb/>
+　　　　有他日呈寄自知之云云今世所行惟此一<lb/>
+　　　　本其為原本陳本不復可考要其大㫖固皆<lb/>
+<pb n="KR4h0106_WYG_000-3a"/>
+　　　　出於順之也乾隆四十三年三月恭校上<lb/>
+　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="KR4h0106_WYG_000-4a"/>
+文編原序<lb/>
+歐陽子述揚子雲之言曰斷木為棋梡革為鞠莫不有<lb/>
+法而况於書乎然則又况於文乎以為神明乎吾心而<lb/>
+止矣則䷋之畫亦贅矣然而畫非贅也神明之用所<lb/>
+不得巳也畫非贅則所謂一與言為二二與一為三自<lb/>
+茲以往巧厯不能盡而又不可勝窮矣文而至於不可<lb/>
+勝窮其亦有不得巳而然者乎然則不能無文而文不<lb/>
+能無法是編者文之工匠而法之至也聖人以神明而<lb/>
+<pb n="KR4h0106_WYG_000-4b"/>
+逹之於文文士研精於文以窺神明之奥其窺之也有<lb/>
+偏有全有小有大有駁有醇而皆有得也而神明未嘗<lb/>
+不在焉所謂法者神明之變化也易曰剛柔交錯天文<lb/>
+也文明以止人文也學者觀之可以知所謂法矣嘉<lb/>
+靖丙辰夏五月既望武進唐順之應徳甫書<lb/>
+<pb n="KR4h0106_WYG_000-5a"/>
+欽定四庫全書　　　　　集部八<lb/>
+　文編目録　　　　　　　總集類<lb/>
+　　巻一<lb/>
+　　　制䇿<lb/>
+　　巻二<lb/>
+　　　對<lb/>
+　　巻三<lb/>
+　　　諫疏<lb/>
+<pb n="KR4h0106_WYG_000-5b"/>
+　　巻四<lb/>
+　　　論疏<lb/>
+　　巻五<lb/>
+　　　疏<lb/>
+　　巻六<lb/>
+　　　疏請<lb/>
+　　巻七<lb/>
+　　　疏議<lb/>
+<pb n="KR4h0106_WYG_000-6a"/>
+　　巻八<lb/>
+　　　封事<lb/>
+　　巻九<lb/>
+　　　表<lb/>
+　　巻十<lb/>
+　　　奏<lb/>
+　　巻十一<lb/>
+　　　上書<hi>一</hi>
+<pb n="KR4h0106_WYG_000-6b"/>
+　　巻十二<lb/>
+　　　上書<hi>二</hi>
+　　巻十三<lb/>
+　　　上書<hi>三</hi>
+　　巻十四<lb/>
+　　　説<lb/>
+　　巻十五<lb/>
+　　　劄子<hi>一</hi>
+<pb n="KR4h0106_WYG_000-7a"/>
+　　巻十六<lb/>
+　　　劄子<hi>二</hi>
+　　巻十七<lb/>
+　　　劄子<hi>三</hi>
+　　巻十八<lb/>
+　　　狀<hi>一</hi>
+　　巻十九<lb/>
+　　　狀<hi>二</hi>
+<pb n="KR4h0106_WYG_000-7b"/>
+　　巻二十<lb/>
+　　　狀<hi>三</hi>
+　　巻二十一<lb/>
+　　　論<hi>一</hi>
+　　巻二十二<lb/>
+　　　論<hi>二</hi>
+　　巻二十三<lb/>
+　　　論<hi>三</hi>
+<pb n="KR4h0106_WYG_000-8a"/>
+　　巻二十四<lb/>
+　　　論<hi>四</hi>
+　　巻二十五<lb/>
+　　　論<hi>五</hi>
+　　巻二十六<lb/>
+　　　論<hi>六</hi>
+　　巻二十七<lb/>
+　　　論<hi>七</hi>
+<pb n="KR4h0106_WYG_000-8b"/>
+　　巻二十八<lb/>
+　　　論<hi>八</hi>
+　　巻二十九<lb/>
+　　　論<hi>九</hi>
+　　巻三十<lb/>
+　　　論<hi>十</hi>
+　　巻三十一<lb/>
+　　　論<hi>十一</hi>
+<pb n="KR4h0106_WYG_000-9a"/>
+　　巻三十二<lb/>
+　　　論<hi>十二</hi>
+　　巻三十三<lb/>
+　　　年表論斷<lb/>
+　　巻三十四<lb/>
+　　　論斷<lb/>
+　　巻三十五<lb/>
+　　　論<lb/>
+<pb n="KR4h0106_WYG_000-9b"/>
+　　巻三十六<lb/>
+　　　議<lb/>
+　　巻三十七<lb/>
+　　　雜著<hi>一</hi>
+　　巻三十八<lb/>
+　　　雜著<hi>二</hi>
+　　巻三十九<lb/>
+　　　雜著<hi>三</hi>
+<pb n="KR4h0106_WYG_000-10a"/>
+　　巻四十<lb/>
+　　　雜著<hi>四</hi>
+　　巻四十一<lb/>
+　　　䇿<hi>一</hi>
+　　巻四十二<lb/>
+　　　䇿<hi>二</hi>
+　　巻四十三<lb/>
+　　　䇿<hi>三</hi>
+<pb n="KR4h0106_WYG_000-10b"/>
+　　巻四十四<lb/>
+　　　䇿<hi>四</hi>
+　　巻四十五<lb/>
+　　　辭命<lb/>
+　　巻四十六<lb/>
+　　　書<hi>一</hi>
+　　巻四十七<lb/>
+　　　書<hi>二</hi>
+<pb n="KR4h0106_WYG_000-11a"/>
+　　巻四十八<lb/>
+　　　書<hi>三</hi>
+　　巻四十九<lb/>
+　　　書<hi>四</hi>
+　　巻五十<lb/>
+　　　書五<lb/>
+　　巻五十一<lb/>
+　　　啓<lb/>
+<pb n="KR4h0106_WYG_000-11b"/>
+　　　狀<lb/>
+　　巻五十二<lb/>
+　　　序<hi>一</hi>
+　　巻五十三<lb/>
+　　　序<hi>二</hi>
+　　巻五十四<lb/>
+　　　序<hi>三</hi>
+　　巻五十五<lb/>
+<pb n="KR4h0106_WYG_000-12a"/>
+　　　記<hi>一</hi>
+　　巻五十六<lb/>
+　　　記<hi>二</hi>
+　　巻五十七<lb/>
+　　　記<hi>三</hi>
+　　巻五十八<lb/>
+　　　神道碑<lb/>
+　　巻五十九<lb/>
+<pb n="KR4h0106_WYG_000-12b"/>
+　　　碑銘<lb/>
+　　巻六十<lb/>
+　　　墓誌銘<hi>一</hi>
+　　巻六十一<lb/>
+　　墓誌銘<hi>二</hi>
+　　巻六十二<lb/>
+　　　墓誌銘<hi>三</hi>
+　　巻六十三<lb/>
+<pb n="KR4h0106_WYG_000-13a"/>
+　　　墓表<lb/>
+　　　傳<lb/>
+　　巻六十四<lb/>
+　　　行狀<lb/>
+　　　祭文<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

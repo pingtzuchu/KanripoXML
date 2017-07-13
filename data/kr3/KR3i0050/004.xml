@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3i0050_WYG_004-1a"/>
+閏集<lb/>
+　　摩竭大魚<lb/>
+摩竭大魚罟師莫干瀛淵角鼻可與齊觀<lb/>
+　四分律云摩竭大魚長三百由旬極大者長七百由<lb/>
+　旬　智度論云昔有五百估客下海採寳值摩伽羅<lb/>
+　魚王開口見三日出白山羅列一是實日兩是魚眼<lb/>
+　　海多<hi>贊缺</hi>
+　王照新志宋嘉祐末有人攜一巨魚入京師能作人<lb/>
+<pb n="KR3i0050_WYG_004-1b"/>
+　言號曰海多衒耀市井間亦嘗召入禁中自誦云海<lb/>
+　多風錯被漁人下網打住將在帝城中每日敎言語<lb/>
+　甚時放我歸去龍王傳與這底思量爾千回萬度後<lb/>
+　經李氏園中躍入池不可復獲是嵗黄河大決　靈<lb/>
+　怪集吳郡漁者張胡于太湖釣得一巨魚腹上有丹<lb/>
+　書云九登龍門山三飲太湖水畢竟不成龍命負張<lb/>
+　胡子<lb/>
+　　海魚逸品總贊<hi>凡二十種</hi>
+<pb n="KR3i0050_WYG_004-2a"/>
+海實魚府巨細紛游色味異系漁書是収<lb/>
+　　鱠楯<lb/>
+鱠之大者狀楯得名脯同嚼蠟市肆攸輕<lb/>
+　　烏頰　赤鯮<lb/>
+二魚異産形味稍同色羣可辨或釣或罿<lb/>
+　烏頰身㣣側視之則稍員厚鱗少骨多處水崖中漁<lb/>
+　人以釣得之色近黑脊上有刺數十枝長二三寸或<lb/>
+　亦藉此以防患者　赤鯮一名交鬛似烏頰而稍短<lb/>
+<pb n="KR3i0050_WYG_004-2b"/>
+　結陣而至大小交錯因名交鬛色淺絳故又名赤<lb/>
+　味不下烏頰黒赤之分衆寡之異小者名紅翅葢其<lb/>
+　子也<lb/>
+　　<graphic n="KR3338" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3338.png" mimeType="image/png"/>魚<lb/>
+身長骨弱性不樂羣豈懲鯧狎出處峻分<lb/>
+　<graphic n="KR3338" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3338.png" mimeType="image/png"/>魚首圓鱗細身長骨弱大者數十觔或云性徤不<lb/>
+　與諸魚為羣故名<graphic n="KR3338" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3338.png" mimeType="image/png"/>　雜書云鯧魚無定耦與衆魚<lb/>
+　狎<lb/>
+<pb n="KR3i0050_WYG_004-3a"/>
+　　帶魚<lb/>
+佩帶誰遺皚如曵練竒其説者原始僊媛<lb/>
+　帶魚生湥海中濶二三寸長可數尺色白如銀無鱗<lb/>
+　刺骨中有珠者名珠帶小者名帶絲皆因其狀似而<lb/>
+　名或云西王母渡東海侍女飛瓊腰帶為大風所飄<lb/>
+　化此魚<lb/>
+　　竹魚<lb/>
+竹魚條生博二寸許色奪浮筠寒食斯取貫尖無唇疑<lb/>
+<pb n="KR3i0050_WYG_004-3b"/>
+其黨與<lb/>
+　　水棍　松魚　沙姜魚<hi>贊缺</hi>
+　祭與赤魚同類而異名五鬚者為松三鬚者為赤而<lb/>
+　赤殊勝云　沙姜魚身圓有鱗而白肉厚無刺呼為<lb/>
+　飼子飰以其無骨便食但未免肉相耳<lb/>
+　　鰮魚　波郎　青鱗<lb/>
+聚族雖三羣游則一海若拯貧結夏可必<lb/>
+　鰮魚身圓鱗厚長數寸波郎無鱗刺五六月間多結<lb/>
+<pb n="KR3i0050_WYG_004-4a"/>
+　陣而來多者一網可售數百金漁人望海為田此其<lb/>
+　一也青鱗似鰮而薄至亦結羣天若以海利私此窮<lb/>
+　人者<lb/>
+　　黄雀　白雀<lb/>
+飛躍貿形味隨氣革昊頊乘權術衒黄白<lb/>
+　黄雀似箬葉而薄色黄異苑云魚以八月化為雀<lb/>
+　　花魿　娘哀<lb/>
+花魿身紋娘哀脊刺徑寸厥形醢供遠致<lb/>
+<pb n="KR3i0050_WYG_004-4b"/>
+　花魿大寸許上下身薄有花紋娘哀脊上有刺漁人<lb/>
+　或受其螫痛不可忍因致母戚故名形似魿而無花<lb/>
+　大如指皆可作醢行于四方<lb/>
+　　魢魚<lb/>
+孟貢産魢夷羞是供力反彎薑功配鹽龍<lb/>
+　滇程記雲南百夷中有小孟貢江産魢魚彼夷食之<lb/>
+　日御百婦故夷性極滛貴賤俱數妻山中亦産彎薑<lb/>
+　餌一刀圭終其世斷絶人道土人以飼牡馬不之宦<lb/>
+<pb n="KR3i0050_WYG_004-5a"/>
+　也　何春逺渚紀聞宋徽宗時將軍蕭注破南蠻得<lb/>
+　其所養鹽龍長尺餘藉以銀盤中置玉盂以玉箸摭<lb/>
+　海鹽飼之每鱗中出鹽則収用酒送一匕專興陽道<lb/>
+　　<graphic n="KR2752" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2752.png" mimeType="image/png"/>魚<lb/>
+比鯽則大膚縷玉瑩以膾諸庖無異雋永<hi>原贊</hi>
+　宋祁益州方物畧云<graphic n="KR2752" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2752.png" mimeType="image/png"/>魚出蜀江背鱗黑而膚理似<lb/>
+　王蜀人以為膾味美<lb/>
+　　石鼈魚<lb/>
+<pb n="KR3i0050_WYG_004-5b"/>
+鯫鱗幺質本不登俎以味見録雖細猶捕<hi>原贊</hi>
+　方物略云石鼈魚似䱀䰲而小上春時出自石間庖<lb/>
+　人取為竒味<lb/>
+　　魶魚<hi>或云卽蝦</hi>
+有足若鯢大首長尾其啼如嬰緣木弗墜<hi>原贊</hi>
+　方物略云魶魚出西山溪谷及雅江狀似鯢有足能<lb/>
+　緣木其聲如兒啼蜀人豢之　范鎭東齋筆錄蜀有<lb/>
+　魶魚善緣木有聲如啼孟子言緣木求魚是亦未聞<lb/>
+<pb n="KR3i0050_WYG_004-6a"/>
+　此也<lb/>
+　　江蟯<lb/>
+介屬根植其名江蟯殻分碧瓣肉緣素毫<lb/>
+　漁書江蟯生海泥中殻如花瓣而緣有根直植于泥<lb/>
+　白如豆芽殻軟肉邊有毛而白海味之佳者漳之詔<lb/>
+　安湖之海門皆有之郡中以為珍羞<lb/>
+　　<graphic n="KR3604" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3604.png" mimeType="image/png"/>
+漳海泥<graphic n="KR3604" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3604.png" mimeType="image/png"/>生繁質小種異蚶田霜候枯槁<lb/>
+<pb n="KR3i0050_WYG_004-6b"/>
+　漁書泥<graphic n="KR3604" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3604.png" mimeType="image/png"/>似蚌而小惟漳浦詔安海中産焉不種而<lb/>
+　生采之不竭大不盈寸鮮作湯佳七八月間為盛霜<lb/>
+　降則枯矣晒肉為米可藏乆用鹽連殻淹之可致遠<lb/>
+　　沙蠶　土穿<lb/>
+沙蠶類蚓味甘登俎别種土穿汁凝盛暑<lb/>
+　漁書沙蠶一名鳯腸似蚯蚓而大生於海沙中首尾<lb/>
+　無别穴地而處發房飲露未嘗外見取者惟認其穴<lb/>
+　荷挿捕之鮮食味甘脯而中俎又一種名土穿生海<lb/>
+<pb n="KR3i0050_WYG_004-7a"/>
+　泥中比沙蠶畧大其尾小六月煑之堅如凍漳浦雲<lb/>
+　霄多有之　蠡史曰沙蠶無筋骨之强爪牙之利穴<lb/>
+　沙吸露尚不免見食於人者以味美也近聞有捕蟬<lb/>
+　食者亷而受殃口腹何厭之有土穿六月汁可成凍<lb/>
+　以視越中蓴菜四五月葉下有霜皆造物之至竒不<lb/>
+　隨俗炎凉者也<lb/>
+　　半體魚<lb/>
+廣武山麓漢高殿前有井八角三魚泳旃其一半體云<lb/>
+<pb n="KR3i0050_WYG_004-7b"/>
+昔烹鮮刳腹圉圉新録攸傳<lb/>
+　陶朱新錄河南廣武山漢高皇廟在其麓殿前有八<lb/>
+　角井曰漢泉井中有三魚一金鱗一黑鱗一如常而<lb/>
+　半體鱗肉與骨皆無獨其首全與二魚並游水中但<lb/>
+　其游差緩不復有揚鬛撥剌之勢觀者憑欄俯窺雖<lb/>
+　異之而猶未審一日有墮井者因濾之遂得三魚鱗<lb/>
+　色如在水中時半體者五内皆無方大異之後復置<lb/>
+　井中至今三魚尚存俗傳漢高皇食膾庖人治魚及<lb/>
+<pb n="KR3i0050_WYG_004-8a"/>
+　半而楚軍至倉皇棄井中而遁語雖難信肰以刳魚<lb/>
+　而游泳亦可怪也<lb/>
+　　毬魚<lb/>
+朱崖之㵝有物鞠如貎形正號厥味雋腴<lb/>
+　宋范正敏遯齋閒覽海中異物不知名者甚多世人<lb/>
+　大抵以狀名之朱崖之傍溪有物正如鞠大小質狀<lb/>
+　無異亦有紋如線緣味極肥美土人但呼為毬魚<lb/>
+　<lb/>
+<pb n="KR3i0050_WYG_004-8b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+異魚圖贊補閏集<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

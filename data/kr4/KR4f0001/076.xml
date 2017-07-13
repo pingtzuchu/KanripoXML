@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4f0001_WYG_076-1a"/>
+　欽定四庫全書<lb/>
+聖祖仁皇帝御製文集巻三十六目録<lb/>
+　　古今體詩三十八首<lb/>
+　　　　東巡二首<hi>幷序</hi>
+　　　　玉田<lb/>
+　　　　駐蹕豐潤城西<lb/>
+　　　　夷齊廟<hi>幷序</hi>
+　　　　灤河泛舟<lb/>
+<pb n="KR4f0001_WYG_076-1b"/>
+　　　　經永平城南<lb/>
+　　　　撫寜<lb/>
+　　　　山海關<hi>幷序</hi>
+　　　　蒙恬所築長城<lb/>
+　　　　姜女祠<lb/>
+　　　　曉過寜逺<lb/>
+　　　　行殿夜覽章奏<lb/>
+　　　　呂翁山是<lb/>
+<pb n="KR4f0001_WYG_076-2a"/>
+聖祖太宗文皇帝擒洪承疇處<lb/>
+　　　松山<lb/>
+　　　杏山晩眺<lb/>
+　　　憩小凌河<lb/>
+　　　錦州道上<lb/>
+　　　駐蹕大凌河<lb/>
+　　　途次逢寒食<lb/>
+　　　十三山<lb/>
+<pb n="KR4f0001_WYG_076-2b"/>
+　　　過廣寜望醫巫閭山<lb/>
+　　　渡句驪河<lb/>
+　　　過永安橋口占<lb/>
+　　　盛京遣使請<lb/>
+太皇太后<lb/>
+皇太后起居夜書奏疏畢偶成<lb/>
+　　　三月初六日告祭<lb/>
+福陵恭述十韻<lb/>
+<pb n="KR4f0001_WYG_076-3a"/>
+　　　初八日告祭<lb/>
+昭陵恭述十二韻<lb/>
+　　　盛京舊宫<lb/>
+　　　告祀禮成宴諸臣於舊宫<lb/>
+　　　三月十一日雪中詣<lb/>
+永陵告祭<lb/>
+　　　薩爾滸<hi>幷序</hi>
+　　　栁條邊望月<lb/>
+<pb n="KR4f0001_WYG_076-3b"/>
+　　　望祀長白山<lb/>
+　　　松花江放船歌<lb/>
+　　　江中雨望<lb/>
+　　　經葉赫廢城<lb/>
+　　　鐵嶺<lb/>
+　　　雜詠<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

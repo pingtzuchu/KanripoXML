@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0140_WYG_778-1a"/>
+　欽定四庫全書<lb/>
+御定全唐詩卷七百七十八<lb/>
+　　李季華<hi>詩一首里以下無世次爵  可考</hi>
+　　　　題季子廟<lb/>
+　季子讓社稷又能聽國風寧知千載後蘋藻冷祠宫<lb/>
+　　王𤣥<hi>詩一首</hi>
+　　　聽琴<lb/>
+　拂塵開按匣何事獨顰眉古調俗不樂正聲君自知<lb/>
+<pb n="KR4h0140_WYG_778-1b"/>
+　　李歸唐<hi>詩一首</hi>
+　　　失鷺鶿<lb/>
+　惜養來來嵗月深籠開不見意沈吟也知祗在秋江上<lb/>
+　明月蘆花何處尋<lb/>
+　　朱光弼<hi>詩二首</hi>
+　　　　銅雀妓<lb/>
+　魏王銅雀妓日暮管弦清一見西陵樹心悲舞不成<lb/>
+　　　　宫詞<lb/>
+<pb n="KR4h0140_WYG_778-2a"/>
+夢裏君王近宫中河漢髙秋風能再熱團扇不辭勞<lb/>
+　顧甄逺<hi>詩九首</hi>
+　　　惆悵詩九首<lb/>
+魂黯黯兮情脈脈簾風清兮窗月白夢驚枕上爐燼銷<lb/>
+不見蘂珠宫裏客<lb/>
+禁漏聲稀蟾魄冷紗厨筠簟波光淨獨坐愁吟暗斷魂<lb/>
+滿窗風動芭蕉影<lb/>
+别恨離腸空惻惻風動虛軒池水白莫言靈圃歩難尋<lb/>
+<pb n="KR4h0140_WYG_778-2b"/>
+有心終效偷桃客<lb/>
+愁遇人間好風景焦桐韻滿華堂靜鑑鸞釵燕恨何窮<lb/>
+忍向銀牀空抱影<lb/>
+綠槐影裏傍青樓陌上行人空舉頭煙水露花無處問<lb/>
+揺鞭凝睇不勝愁<lb/>
+役盡心神銷盡骨恩情未斷忽分離平生此恨無言處<lb/>
+只有衣襟淚得知<lb/>
+濃醪豔唱愁難破骨瘦魂銷病已成若為多羅年少死<lb/>
+<pb n="KR4h0140_WYG_778-3a"/>
+始甘人道有風情<lb/>
+淚滿羅衣酒滿巵一聲歌斷怨傷離如今兩地心中事<lb/>
+直是瞿曇也不知<lb/>
+横泥杯觴醉復醒愁牽時有小詩成早知惹得千般恨<lb/>
+悔不天生解薄情<lb/>
+　魏巒<hi>詩一首</hi>
+　　　登清居臺<lb/>
+迤邐清居臺連延白雲外側聆天上語下視飛鳥背<lb/>
+<pb n="KR4h0140_WYG_778-3b"/>
+　柳明獻<hi>詩一首</hi>
+　　　游昌化精舍<lb/>
+寶臺侵漢逺金地接霞髙何必遊天外忻此契盧敖<lb/>
+　蔡崑<hi>詩一首</hi>
+　　　善巻先生壇<lb/>
+幾到壇邊登閣望因思遺跡詠今朝當時為有重華出<lb/>
+不是先生傲帝堯<lb/>
+　　　句<lb/>
+<pb n="KR4h0140_WYG_778-4a"/>
+飄飄隨暮雨颯颯落秋山<hi>落葉詩王正字  格</hi>
+　令狐挺<hi>詩一首</hi>
+　　　題鄜州相思鋪<hi>一作令狐楚詩</hi>
+誰把相思號此河塞垣車馬往來多只應自古征人淚<lb/>
+灑向空川作逝波<lb/>
+　滕潛<hi>詩二首</hi>
+　　　鳳歸雲二首<lb/>
+金井欄邊見羽儀梧桐枝上宿寒枝五陵公子憐文彩<lb/>
+<pb n="KR4h0140_WYG_778-4b"/>
+畫與佳人刺繡衣<lb/>
+飲啄蓬山最上頭和煙飛下禁城秋曽將弄玉歸雲去<lb/>
+金翿斜開十二樓<lb/>
+　夏侯子雲<hi>詩一首</hi>
+　　　藥圃<lb/>
+綠葉紅英遍僊經自討論偶移巖畔菊鋤斷白雲根<lb/>
+　方愚<hi>詩一首</hi>
+　　　讀孝經<lb/>
+<pb n="KR4h0140_WYG_778-5a"/>
+星彩滿天朝北極源流是處赴東溟為臣為子不忠孝<lb/>
+辜負宣尼一巻經<lb/>
+　潘雍<hi>詩一首</hi>
+　　　贈葛氏小娘子<lb/>
+曽聞仙子住天台欲結靈姻媿短才若許隨君洞中住<lb/>
+不同劉阮郤歸來<lb/>
+　梁陟<hi>詩一首</hi>
+　　　送孫舍人歸湘州<lb/>
+<pb n="KR4h0140_WYG_778-5b"/>
+盛才傾世重清論滿朝歸作隼他年計<hi>一作繫</hi>為鴛此日<lb/>
+飛比肩移<hi>一作趨</hi>日近抗首出郊畿為報清漳水分明照<lb/>
+錦衣<lb/>
+　朱延<hi>詩一首</hi>
+　　　再登河陽城懐古<lb/>
+客遊倦旅思憇駕陟崇墉元凱標竒跡安仁擅羙蹤逺<lb/>
+近<hi>一作逺逺</hi>濁河流<hi>一作/溜</hi>出没<hi>一作浸</hi>青山峰佇想空不極懐<lb/>
+古悵無從<lb/>
+<pb n="KR4h0140_WYG_778-6a"/>
+　　寇埴<hi>詩一首</hi>
+　　　　題瑩上人院<lb/>
+　捨筏求香偈因泉演妙音是明捐俗網何獨<hi>一作必</hi>在山<lb/>
+　林繚繞藤軒密逶迤竹徑深為傳同學志兹宇可清心<lb/>
+　　馮渚<hi>詩一首</hi>
+　　　　燕啣泥<hi>一作馮著詩</hi>
+　雙燕碌碌飛入屋屋中老人喜燕歸裵回繞我牀頭飛<lb/>
+　去年為爾逐黄雀雨多屋漏泥土落爾莫厭老翁茅屋<lb/>
+<pb n="KR4h0140_WYG_778-6b"/>
+　低梁頭作窠梁下棲爾不見東家黄<graphic n="KR1663" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1663.png" mimeType="image/png"/>鳴嘖嘖蛇盤瓦<lb/>
+　溝鼠穿壁豪家大屋爾莫居驕兒少婦採爾雛井旁寫<lb/>
+　水泥自足啣泥上屋隨爾欲<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定全唐詩卷七百七十八<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2k0039_WYG_080-1a"/>
+欽定四庫全書<lb/>
+欽定皇輿西域圖志卷二十八目録<lb/>
+　水五<lb/>
+　　天山南路二<lb/>
+　　　塔里木郭勒<lb/>
+　　　哲克得布拉克<lb/>
+　　　哈喇布拉克<lb/>
+　　　博羅和碩郭勒<lb/>
+<pb n="KR2k0039_WYG_080-1b"/>
+　　　木什諤斯騰<lb/>
+　　　特們郭勒<lb/>
+　　　赫色勒郭勒<lb/>
+　　　特爾墨楚克郭勒<lb/>
+　　　雅璊雅爾諤斯騰<lb/>
+　　　喀什噶爾達里雅<lb/>
+　　　察罕烏蘇<lb/>
+　　　哈喇庫勒<lb/>
+<pb n="KR2k0039_WYG_080-2a"/>
+　　　葉爾羌諤斯騰<lb/>
+　　　聴雜阿布諤斯騰<lb/>
+　　　哈喇烏蘇<lb/>
+　　　提斯衮諤斯騰<lb/>
+　　　庫森諤斯騰<lb/>
+　　　和闐達里雅<lb/>
+　　　玉隴哈什郭勒<lb/>
+　　　哈喇哈什郭勒<lb/>
+<pb n="KR2k0039_WYG_080-2b"/>
+　　　皂窪勒諤斯騰<lb/>
+　　　克勒底雅郭勒<lb/>
+　　　葉什勒庫勒<lb/>
+　　　烏蘭庫勒<lb/>
+　　　布隆庫勒<lb/>
+　　　葉什勒庫勒淖爾<lb/>
+　<lb/>
+欽定皇輿西域圖志巻二十八目録<lb/>
+<pb n="KR2k0039_WYG_080-3a"/>
+欽定四庫全書<lb/>
+欽定皇輿西域圖志卷二十八目録<lb/>
+　水五<lb/>
+　　天山南路二<lb/>
+　　　塔里木郭勒<lb/>
+　　　哲克得布拉克<lb/>
+　　　哈喇布拉克<lb/>
+　　　博羅和碩郭勒<lb/>
+<pb n="KR2k0039_WYG_080-3b"/>
+　　　木什諤斯騰<lb/>
+　　　特們郭勒<lb/>
+　　　赫色勒郭勒<lb/>
+　　　特爾墨楚克郭勒<lb/>
+　　　雅璊雅爾諤斯騰<lb/>
+　　　喀什噶爾達里雅<lb/>
+　　　察罕烏蘇<lb/>
+　　　哈喇庫勒<lb/>
+<pb n="KR2k0039_WYG_080-4a"/>
+　　　葉爾羌諤斯騰<lb/>
+　　　聴雜阿布諤斯騰<lb/>
+　　　哈喇烏蘇<lb/>
+　　　提斯衮諤斯騰<lb/>
+　　　庫森諤斯騰<lb/>
+　　　和闐達里雅<lb/>
+　　　玉隴哈什郭勒<lb/>
+　　　哈喇哈什郭勒<lb/>
+<pb n="KR2k0039_WYG_080-4b"/>
+　　　皂窪勒諤斯騰<lb/>
+　　　克勒底雅郭勒<lb/>
+　　　葉什勒庫勒<lb/>
+　　　烏蘭庫勒<lb/>
+　　　布隆庫勒<lb/>
+　　　葉什勒庫勒淖爾<lb/>
+　<lb/>
+欽定皇輿西域圖志巻二十八目録<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

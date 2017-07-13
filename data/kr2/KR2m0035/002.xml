@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2m0035_WYG_002-1a"/>
+欽定四庫全書<lb/>
+欽定大清通禮<lb/>
+　　︵字位過密　無法显示︶　　<hi>臣</hi>來保等恭承<lb/>
+勅㫖編纂<lb/>
+御定大清通禮今已成書謹奉<lb/>
+　表上<lb/>
+　進者<hi>臣</hi>等誠惶誠恐稽首頓首<lb/>
+　上言竊惟天秩天敘勅惇典而慎修人紀人綱本倫<lb/>
+<pb n="KR2m0035_WYG_002-1b"/>
+　　常以立極肇虞廷之咨命文在典謨繼周室以顯<lb/>
+　　庸制垂官禮治神人而和邦國百王循由舊之章<lb/>
+　　酌損益以洽時宜列代著維新之典然而叔孫綿<lb/>
+　　蕞法家具習其儀散騎胥鈔衆論咸非其記開元<lb/>
+　　之書未定不數唐時太常之禮粗成難遵宋代盖<lb/>
+　　勅㡬貞度必職要而職詳斯表立坊垂乃世法而<lb/>
+　　世則欽惟<lb/>
+皇帝陛下<lb/>
+<pb n="KR2m0035_WYG_002-2a"/>
+　　治建中和<lb/>
+　　業隆醇備<lb/>
+　　平天成地經綸持五運之中<lb/>
+　　觀賁乗乾制度洞六經之奥<lb/>
+武烈承而<lb/>
+文謨顯八表之軌來同<lb/>
+　聲律叶而<lb/>
+　身度章千億之程畫一固已夏時齊憲殷輅同經乃猶<lb/>
+<pb n="KR2m0035_WYG_002-2b"/>
+　　念典維勤<lb/>
+　　觀民攸切<lb/>
+　謂國朝掌故雖㕘覈靡遺而會典全書恐浩繁難讀爰<lb/>
+　　　精<lb/>
+　睿鑒五禮兼該用煥<lb/>
+　天章一編是式文成法立<lb/>
+　親分甲乙於簡端字櫛句疏<lb/>
+　手别丹鉛於幾暇<hi>臣</hi>等仰睹大經大法既嶽峙以川渟<lb/>
+<pb n="KR2m0035_WYG_002-3a"/>
+　　　凡諸貴少貴多亦條分而縷析盖王者以吉禮承<lb/>
+　　　祀事而大祀中祀羣祀統焉聖人以儼恪事神明<lb/>
+　　　而天神地示人鬼一矣<lb/>
+圜丘<lb/>
+方澤鉅典矞皇<lb/>
+清廟明堂孝思洋溢他如農蠶布化功徳勸忠各極儀文<lb/>
+　　　度數之詳分司有恪悉徵周浹旁皇之致合敬無<lb/>
+　　　殊朝會以舉典常燕饗以示慈恵<lb/>
+<pb n="KR2m0035_WYG_002-3b"/>
+帝錫之繁禧既荐<lb/>
+天保之福祉頻臻鳴鹿嘉賔承筐志美獻鳩國老執醤明<lb/>
+　　　恩本仁義於親賢嘉會所以合禮别等威於隆殺<lb/>
+　　　大文悉是流謙以若兵寓農祥義垂古昔文兼武<lb/>
+　　　備治洽隆平秉蒐狩之常經司馬實修其職遇師<lb/>
+　　　田之特舉春官必上其儀矧<lb/>
+　　國家綏服懐柔逺過銅柱珠厓之界而<lb/>
+　　盛世豐功偉績常播朱干玉戚之威三霄鳳紙頒來<lb/>
+<pb n="KR2m0035_WYG_002-4a"/>
+　　書庸不盡百代鴻猷允在頌烈無窮至如鶼鰈遐<lb/>
+　　方贄通聲教海山諸國禮盡賔王凖大鴻臚朝貢<lb/>
+　　通乎宴見推鄉祭酒師徒例以尊行凡諸揖讓之<lb/>
+　　無愆益見典章之大備若夫經𫝊報本語美慎終<lb/>
+　　辨服物而等人情<lb/>
+孝治感孚上下權易戚以當大事<lb/>
+仁風丕徧臣民共欽孺慕之難忘咸俾所生之無忝總<lb/>
+　　乎經禮三百曲禮三千無非佐一代休明之志比<lb/>
+<pb n="KR2m0035_WYG_002-4b"/>
+　　於五緯經天五嶽鎮地適以定萬年文質之中節<lb/>
+　　經<lb/>
+欽定而書成允睹<lb/>
+聖人之作兹繕全篇以恭<lb/>
+　進用垂册府之光<hi>臣</hi>等學愧面牆識慚窺管寅清曾<lb/>
+　　典毎憂夙夜之常疎<lb/>
+禁籞頻趨彌懼遵循之不逮南宫日永長年執簡旁皇<lb/>
+北闕恩深此日開函悚惕伏願<lb/>
+<pb n="KR2m0035_WYG_002-5a"/>
+　心𫝊周孔<lb/>
+　典邁唐虞<lb/>
+　式玉式金王度卑羣倫之矩範<lb/>
+　維人維烈單心偕奕䙫以楷模乙夜常披敬貯璚籖<lb/>
+　　於<lb/>
+　秘閣酉山重啓光昭鉅典於寰區将見文煥功成與<lb/>
+　　大訓圖球而並寳禮明樂備翊百王道法以俱留<lb/>
+　　矣謹編次三十六册目録五十卷繕寫告成<hi>臣</hi>等<lb/>
+<pb n="KR2m0035_WYG_002-5b"/>
+　　無任曕<lb/>
+天仰<lb/>
+聖激切屏營之至謹奉<lb/>
+　表隨<lb/>
+　進以<lb/>
+聞<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

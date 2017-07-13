@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4f0001_WYG_096-1a"/>
+　欽定四庫全書<lb/>
+聖祖仁皇帝御製文第二集巻三目録<lb/>
+　　勅諭<lb/>
+　　　　諭户部<lb/>
+　　　　諭大學士明珠<lb/>
+　　　　諭内閣<lb/>
+　　　　諭大學士勒德洪明珠王熙吳正治宋德宜學<lb/>
+　　　　　士麻爾圖牛鈕禪布吳興祖王起元徐乾學<lb/>
+<pb n="KR4f0001_WYG_096-1b"/>
+　　　　　韓菼<lb/>
+　　　　諭大學士勒德洪明珠王熙吳正治宋德宜學<lb/>
+　　　　　士麻爾圖牛鈕禪布吳興祖王起元徐乾學<lb/>
+　　　　　韓菼<lb/>
+　　　　諭大學士勒德洪學士麻爾圖<lb/>
+　　　　諭户部<lb/>
+　　　　諭政治典訓總裁大學士勒德洪明珠王熙吳<lb/>
+　　　　　正治宋德宜户部尚書余國柱左都御史陳<lb/>
+<pb n="KR4f0001_WYG_096-2a"/>
+　　　　廷敬<lb/>
+　　　諭吏兵二部<lb/>
+　　　諭禮部<lb/>
+　　　諭大學士勒德洪明珠王熙吳正治宋德宜學<lb/>
+　　　　士吳興祖王起元徐乾學韓菼<lb/>
+　　　諭刑部等衙門<lb/>
+　　　諭吏部<lb/>
+　　　諭吏兵二部<lb/>
+<pb n="KR4f0001_WYG_096-2b"/>
+　　　諭禮部翰林院<lb/>
+　　　諭吏部<lb/>
+　　　諭吏部<lb/>
+　　　諭内閣<lb/>
+　　　諭刑部<lb/>
+　　　諭大學士勒德洪明珠王熙吳正治宋德宜學<lb/>
+　　　　士麻爾圖牛鈕禪布蔡必漢噶思㤗<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

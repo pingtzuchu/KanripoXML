@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>春秋闕如編</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　　經部五<lb/>
+　春秋闕如編　　　　　　春秋類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹按春秋闕如編八巻<lb/>
+　　　國朝焦袁熹撰袁熹字廣期金山人康熙丙子<lb/>
+　　　　舉人是編為袁熹未成之書僅及成公八年<lb/>
+　　　　而止每卷有袁熹名印葢猶其稿本前有其<lb/>
+　　　　孫鍾璜跋亦當時手迹也自榖梁𤼵常事不<lb/>
+<pb n="1b"/>
+　　　　書之例孫復衍有貶無褒之文後代承流轉<lb/>
+　　　　相摹仿務以刻酷為經義二百四十二年之<lb/>
+　　　　中上至天王下至列國無一人得免于彈刺<lb/>
+　　　　遂使游夏贊之而不能者申韓為之而有餘<lb/>
+　　　　流弊所極乃有貶及天道者<hi>吕柟春秋説志謂書季孫意如</hi>
+　　　　<hi>卒所以見天道之左</hi>春秋于是乎亂矣袁熹是書獨酌<lb/>
+　　　　情理之平立褒貶之凖謹持大義而刋削繁<lb/>
+　　　　苛如隠公盟蔑諸家皆曰惡私盟袁熹則謂<lb/>
+<pb n="2a"/>
+　　　　繼好息民猶愈于相虞相詐至七年伐邾事<lb/>
+　　　　由後起不容逆料而加貶詞又謂㑹潛之戎<lb/>
+　　　　本雜處中國修好息民亦衰世之常事褒貶<lb/>
+　　　　俱無可加謂無駭之書名若後世帝室之胄<lb/>
+　　　　不繋以姓非貶而去之謂書齊候弟年見齊<lb/>
+　　　　之重我使其親貴非譏過寵其弟謂書螟為<lb/>
+　　　　蟲傷苗稼即當留意補助不以此一事便為<lb/>
+　　　　惡如此之類數十條皆一洗曲説至于武氏<lb/>
+<pb n="2b"/>
+　　　　子求賻乃魯不共命天王詰責豈敢反譏天<lb/>
+　　　　王家父求車乃天子責貢賦有闕經婉其文<lb/>
+　　　　曰求車不應舍其下責其上尤大義凜然非<lb/>
+　　　　陋儒所及末附讀春秋數條論即位或書或<lb/>
+　　　　不書四時或備或不備有史所本無有𫝊寫<lb/>
+　　　　脱佚非聖人増减于其間亦足破穿鑿之説<lb/>
+　　　　近代説春秋者當以此書為最雖編輯未終<lb/>
+　　　　而義例已備于經學深為有益非其經説諸<lb/>
+<pb n="3a"/>
+　　　　書出於門人雜録者比也乾隆四十二年九<lb/>
+　　　　月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

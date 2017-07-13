@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4d0590_SBCK_004-1a"/>
+夷白齋藁卷之四<lb/>
+　　　　　　　　　　　　　　臨海　陳　基　著<lb/>
+　　　　　　　　　　　　　　金華　戴　良　編<lb/>
+　　古詩五言<lb/>
+　　　公退述懐<lb/>
+鷄鳴戒徒御日入返柴荆素無希世心亦復勞其形間関用武<lb/>
+日百役有期程空言不足施退省汗沾纓中衢積塗潦滑滑不<lb/>
+堪行振轡筞羸馬一歩一凌兢入門無它慮偃卧就南榮永媿<lb/>
+逃名侣冥栖無所營<lb/>
+　　　成夫脩所居屋成赱筆戯贈<lb/>
+我昨戾東椘君方客中吴我至已授舘君来始營居我屋雖湫<lb/>
+隘可以置琴書並軒五六尺種菊三四株公退即就寝㦯擬陶<lb/>
+<pb n="KR4d0590_SBCK_004-1b"/>
+潜徒君居擇髙明塗塈加<graphic n="KR1355" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1355.png" mimeType="image/png"/>蒢背隂而面陽中宻而外䟽昔聞<lb/>
+真如室八寳羅明珠天女散妙花綽約麗且姝今𣣔人其人必<lb/>
+且廬其廬去草當去根愛屋庸愛烏我器若鉊刀僅堪一割需<lb/>
+君材如太阿可制千扵莬利鈍逈不侔趣舎冝爾殊雖居市[門@里]<lb/>
+内各在東西隅朝㳺或同幙暮歸仍異塗終然念覉旅時𣸪枉<lb/>
+軒車摘我黄金英浮君白玉壷議輪天人際咲傲羲皇𥘉麯生<lb/>
+有妙理不飲𣸪何如<lb/>
+　　　次韵荅趙夲𥘉<lb/>
+肅肅霜露下蕭蕭鴻鴈征春從越城戍秋随淮甸行觧却紫霞<lb/>
+佩换得曼胡纓覬酬一飯㤙遑恤千載名新詩辱逺寄金石鏗<lb/>
+有聲𣣔報乏瑶玉臨風空𣸪情<lb/>
+　　　海安過牐得風出爛泥洪<lb/>
+<pb n="KR4d0590_SBCK_004-2a"/>
+舟過海安牐路轉爛泥洪水行九十里泱<graphic n="KR1071" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1071.png" mimeType="image/png"/>趋秦潼月黒星漢<lb/>
+髙四頋無人蹤縱有百丈彈不如數尺蓬是時天宇霽餘霞散<lb/>
+晴空篙師無它術仰面呼南風夜乆水鳥鳴岀沒西𣸪東其聲<lb/>
+類人嘔見者思挽弓吾聞亦駭異莫䆒吉與㓙得非卑濕區池<lb/>
+汙蚊蜹鍾暑夕噆人膚蜂蠇尚可容此鳥號蚊母吐蚊利扵蜂<lb/>
+往往陂澤内雌呼命其雄春氣一以和託巢蘆葦叢此鳥信可<lb/>
+憎彼蚊欣未逢所憂亡命徒手刄匿草中晝伏夜狙伺為毒甚<lb/>
+斯蟲我方事師旅禁暴哀人窮此軰倘不除癘民安有終所過<lb/>
+戒吏卒反覆開盲聾尓實備官守責在兵與農自古䖏邉圍盗<lb/>
+戢商乃通陽徳始彂生人事冝肅雍簡書雖有程我行憂慮從<lb/>
+歎息長路人何由辭轉蓬<lb/>
+　　　聽謌水調有感<lb/>
+<pb n="KR4d0590_SBCK_004-2b"/>
+江流清復清江草接江亭何人謌水調餘韵入青冥歌者不知<lb/>
+苦聽者有餘情坐令離别客白髮鏡中生<lb/>
+　　　翠雨亭<lb/>
+華構帶脩竹窃窕清湖潯時雨積空翠綺䟽生晝隂飛盖集芳<lb/>
+侣鳴珂雜春禽中有孤栖鳯懐㢤多好音<lb/>
+　　　下塘道中<lb/>
+　　　　謝村<lb/>
+舟行謝村路却訪義橋營妖骨埋荒草秋風洗𣸪腥青山不改<lb/>
+色紅樹逺含情當日聞風鶴俱疑是晉兵<lb/>
+　　　　塘西<lb/>
+牽舟復揺櫓日出還亭午風逓五林秋雲挟塘西雨盈盈採蓮<lb/>
+槳坎坎迎神鼓對此𣣔忘歸停撓更容與<lb/>
+<pb n="KR4d0590_SBCK_004-3a"/>
+　　　　東阡<lb/>
+喧呼東阡道蒼皇競明彂萬斧入中林千夫編鉅筏関山日顦<lb/>
+顇世路増騷屑此物諒何尤徒以材見伐<lb/>
+　　　　南潯<lb/>
+南潯古名鎮欝為商賈區今日㽞兵戍壁壘控江湖遥空含鴈<lb/>
+鶩秋波秀芙蕖此地為邉圉何方非畏塗<lb/>
+　　　　荷葉蒲<lb/>
+昔年荷葉浦椎剽伏蒲萑日夕相狙伺承平為禍患兹辰乃夷<lb/>
+坦悉歸畊釣間但聞明月夜時唱采菱還<lb/>
+　　　中塘道中<lb/>
+　　　　鳯口<lb/>
+溪塢晚含風山營夜依谷栖鳥息復驚歸雲㫁還續畫舸止宵<lb/>
+<pb n="KR4d0590_SBCK_004-3b"/>
+征連艫㗸尾宿戍鼓雜鳴笳秋聲一何肅<lb/>
+　　　　東塘<lb/>
+輕舟下溪口却轉東塘路鷄犬近相聞漁樵逺城戍雖經䘮亂<lb/>
+後漸有承平趣䖏䖏白蘋花家家紅槿樹<lb/>
+　　　　大麻<lb/>
+大小兩麻村中蔵萬家塢樹連超山雲草著髙亭雨地力本冝<lb/>
+農民風近知武欲問漢文翁何時復淳古<lb/>
+　　　　<graphic n="KR0694" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0694.png" mimeType="image/png"/>家堰<lb/>
+依依楊栁津靡靡<graphic n="KR0694" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0694.png" mimeType="image/png"/>家堰水岀鳯溪口山聳臨平面地經兵甲<lb/>
+餘人佀官軍徤往歲羽書頻今年魚米賤<lb/>
+　　　上塘道中<lb/>
+　　　　尹山<lb/>
+<pb n="KR4d0590_SBCK_004-4a"/>
+人傳周吉甫遺墓在勾吳蕭條入墟里泱<graphic n="KR1071" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1071.png" mimeType="image/png"/>帶烟蕪豈伊姬臣<lb/>
+裔散落䖏江湖負耒林丘下容非隐者徒<lb/>
+　　　　吳江<lb/>
+城邑帶秋水盈盈笠澤湄西風一夜𧺫鴻鴈盡南飛晋日東曺<lb/>
+掾唐朝左拾遺長揖謝軒冤悠悠千載期<lb/>
+　　　　垂虹橋<lb/>
+出郭雨如注入舟天𣣔低飛梁跨雲渚嵽嵲亘長霓三江風水<lb/>
+急五湖烟月迷夙昔鴟夷子扁舟此入齊<lb/>
+　　　　平望<lb/>
+下田不憂旱髙田正冝雨四野己足霖三吳復無暑盂酒及豚<lb/>
+蹄盤羞雜鷄黍擊鼓樂社翁燒燈御田祖<lb/>
+　　　　嘉禾<lb/>
+<pb n="KR4d0590_SBCK_004-4b"/>
+欝欝由拳縣亭亭檇李城秦漢相吞噬吳越競戈兵靡靡風露<lb/>
+夕離離禾黍生千載陸夫子遺書昭日星<lb/>
+　　　　石門<lb/>
+迢迢石門路冉冉烟村暮眇眇櫂謌聲泠泠不知䖏水宿信風<lb/>
+波宵征犯霜露自愧匪賢勞何由拯黎庶<lb/>
+　　　　崇徳<lb/>
+崇川據四衝城郭開莾蒼水陸飛蒭粟軒車逓英蕩民和州牧<lb/>
+賢雨足田苗長我欲艤芳舟相尋慰懐想<lb/>
+　　　　長安<lb/>
+上堰如上山下堰如下陵躋攀劇分寸傍徨加戦兢有形必有<lb/>
+役無寵亦無驚為謝津頭吏誰是魯連生<lb/>
+　　　題蘇昌齡西澗詩意啚圖乃黄子乆所畫子乆自識云<lb/>
+<pb n="KR4d0590_SBCK_004-5a"/>
+　　　華陽逋客作<lb/>
+逍遥西澗翁汗漫華陽客渇飲杖頭瓢醉卧溪畔石澄觀無聲<lb/>
+趣黙聽寜有跡舉目雲鳥飛側耳川流激人籟静踰聞天機動<lb/>
+弥寂冥搜属意匠繪冩遺刻畫此客不可作斯翁老無敵窹寐<lb/>
+西澗啚令人心莫<graphic n="KR0647" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0647.png" mimeType="image/png"/>
+　　　題黄侍講所著王友樵先生墓銘後<lb/>
+隐君千載士太史百世師刻辭銘友樵其言玉無疵我觀讀騷<lb/>
+作古道殊未衰斯人不可見斯文其永垂<lb/>
+<pb n="KR4d0590_SBCK_004-5b"/>
+</p>
+<p>
+夷白齋藁卷之四<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

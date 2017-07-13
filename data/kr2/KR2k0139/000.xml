@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>諸蕃志</head>
+    <p>
+<pb n="KR2k0139_WYG_000-1a"/>
+欽定四庫全書　　　　　史部十一<lb/>
+　諸蕃志　　　　　　　　地理類十<hi>外紀之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案諸蕃志二卷宋趙汝适撰汝适始<lb/>
+　　　　末無考惟據宋史宗室世系表知其為岐王<lb/>
+　　　　仲忽之元孫安康郡王士説之曽孫銀青光<lb/>
+　　　　禄大夫不柔之孫善待之子出於簡王元份<lb/>
+　　　　房上距太宗八世耳此書乃其提舉福建路<lb/>
+<pb n="KR2k0139_WYG_000-1b"/>
+　　　　市舶時所作於時宋已南渡諸蕃惟市舶僅<lb/>
+　　　　通故所言皆海國之事宋史外國列傳實引<lb/>
+　　　　用之核其叙次事類嵗月皆合但宋史詳事<lb/>
+　　　　蹟而畧於風土物産此則詳風土物産而畧<lb/>
+　　　　於事蹟葢一則史傳一則雜志體各有宜不<lb/>
+　　　　以偏舉為病也所列諸國賔瞳龍史作賔同<lb/>
+　　　　隴登流眉史作丹流眉阿婆羅拔史作阿蒲<lb/>
+　　　　羅拔麻逸史作摩逸葢譯語對音本無定字<lb/>
+<pb n="KR2k0139_WYG_000-2a"/>
+　　　　龍隴三聲之通登丹蒲婆麻摩雙聲之轉呼<lb/>
+　　　　有輕重故文有異同無由核其是非今亦各<lb/>
+　　　　仍其舊惟南宋僻處臨安海道所通東南為<lb/>
+　　　　近志中乃兼載大秦天竺諸國似乎隔越西<lb/>
+　　　　域未必親覩其人然考冊府元龜載唐時袄<lb/>
+　　　　教稱大秦寺桯史所記廣州海獠即其種類<lb/>
+　　　　又法顯佛國記載陸行至天竺附商舶還晉<lb/>
+　　　　知二國皆轉海可通故汝适得于福州見其<lb/>
+<pb n="KR2k0139_WYG_000-2b"/>
+　　　　市易然則是書所記皆得諸見聞親為詢訪<lb/>
+　　　　宜其叙述詳核為史家之所依据矣乾隆四<lb/>
+　　　　十六年三月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

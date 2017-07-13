@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>古文尚書疏證</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　經部二<lb/>
+　古文尚書疏證　　　　書𩔖<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案古文尚書疏證八卷<lb/>
+　　　國朝閻若璩撰若璩字百詩太原人徙居山陽<lb/>
+　　　　康熈已未薦舉博學鴻詞古文尚書較今文<lb/>
+　　　　多十六篇晉魏以來絶無師説故左氏所引<lb/>
+　　　　杜預皆注曰逸書東晉之初其書始出乃増<lb/>
+<pb n="1b"/>
+　　　　多二十五篇初猶與今文並立自陸徳明據<lb/>
+　　　　以作釋文孔穎達據以作正義遂與伏生二<lb/>
+　　　　十九篇混合為一唐以來雖疑經惑古如劉<lb/>
+　　　　知㡬之流亦以尚書一家列之史通未言古<lb/>
+　　　　文之偽自呉棫始有異議朱子亦稍稍疑之<lb/>
+　　　　呉澄諸人本朱子之説相繼抉摘其偽益彰<lb/>
+　　　　然亦未能條分縷析以抉其罅漏明梅鷟始<lb/>
+　　　　參考諸書証其剽剟而見聞較狭蒐采未周<lb/>
+<pb n="2a"/>
+　　　　至若璩乃引經據古一一陳其矛盾之故古<lb/>
+　　　　文之偽乃大明所列一百二十八條毛竒齡<lb/>
+　　　　作古文尚書寃詞百計相軋終不能以强詞<lb/>
+　　　　奪正理則有據之言先立於不可敗也其書<lb/>
+　　　　初成四卷餘姚黄宗羲序之其後四卷又所<lb/>
+　　　　次第續成若璩没後傳寫佚其第三卷其二<lb/>
+　　　　卷第二十八條二十九條三十條七卷第一<lb/>
+　　　　百二條一百八條一百九條一百十條八卷<lb/>
+<pb n="2b"/>
+　　　　第一百二十二條至一百二十七條皆有錄<lb/>
+　　　　無書編次先後未歸條理蓋猶草創之本其<lb/>
+　　　　中偶爾未核者如據正義所載鄭元書序注<lb/>
+　　　　謂馬鄭所傳與孔傳篇目不符其説最確至<lb/>
+　　　　謂馬鄭注本亡於永嘉之亂則殊不然考二<lb/>
+　　　　家之本隋志尚皆著錄稱所注凡二十九篇<lb/>
+　　　　經典釋文備引之亦止二十九篇盖去其無<lb/>
+　　　　師説者十六篇止得二十九篇與伏生數合<lb/>
+<pb n="3a"/>
+　　　　非别有一本注孔氏書也若璩誤以鄭逸者<lb/>
+　　　　即為所注之逸篇不免千慮之一失又史記<lb/>
+　　　　漢書但有安國上古文尚書之説並無受詔<lb/>
+　　　　作傳之事此偽本鑿空之顯證亦辨偽本者<lb/>
+　　　　至要之肯綮乃置而未言亦稍疎畧其他諸<lb/>
+　　　　條之後往往衍及旁文動盈卷帙盖慮所著<lb/>
+　　　　潛邱劄記或不傳故附見於此究為支蔓又<lb/>
+　　　　前卷所論後卷往往自駁而不肯刪其前説<lb/>
+<pb n="3b"/>
+　　　　雖仿鄭元注禮先用魯詩後不追改之意於<lb/>
+　　　　體例亦究屬未安然反復釐剔以袪千古之<lb/>
+　　　　大疑考證之學則固未之或先矣乾隆四十<lb/>
+　　　　三年六月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官　<hi>臣</hi>　陸費墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

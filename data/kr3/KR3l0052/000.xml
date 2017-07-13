@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>國老談苑</head>
+    <p>
+<pb n="KR3l0052_WYG_000-1a"/>
+欽定四庫全書　　　　　子部十二<lb/>
+　國老談苑　　　　　　　小說家𩔖一<hi>雜事之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案國老談苑二卷舊本題夷門𨼆叟<lb/>
+　　　　王君玉撰考陳振孫書錄解題宋史藝文志<lb/>
+　　　　作國老閒談卷數與此相合而注稱夷門君<lb/>
+　　　　玉撰不著其姓然則此名後人所改王字亦<lb/>
+　　　　後人所加矣所記乃宋太祖太宗真宗三朝<lb/>
+<pb n="KR3l0052_WYG_000-1b"/>
+　　　　雜事於當時士大夫頗有所毁譽尤推重田<lb/>
+　　　　錫而貶斥陶榖其餘如馮拯諸人俱不免於<lb/>
+　　　　微詞雖間或抑揚過情而大致猶據實可信<lb/>
+　　　　如范質不受賂遺竇儀議今皇弟開封尹署<lb/>
+　　　　勅趙普請從征上黨曹彬平蜀回囊中惟圖<lb/>
+　　　　書諸條宋史皆採入本傳中他亦多叙述詳<lb/>
+　　　　贍足與史文相參攷惟記太祖清流闗之戰<lb/>
+　　　　謂臨陣親斬偽驍將皇甫暉不知暉兵敗見<lb/>
+<pb n="KR3l0052_WYG_000-2a"/>
+　　　　擒送夀州行在周世宗尚賜以金帶鞍馬因<lb/>
+　　　　創甚不肯治而死並非戮之陣前又謂是時<lb/>
+　　　　環滁僧寺皆鳴鐘遂為定制案滁人一日五<lb/>
+　　　　時鳴鐘乃後人感暉之意以資追薦亦非為<lb/>
+　　　　太祖助戰而起此則傳聞之訛異未可概從<lb/>
+　　　　至謂太宗嚮用老成冦準欲求速進遂餌地<lb/>
+　　　　黄蘆菔以求白髪恐準亦未必至是也乾隆<lb/>
+　　　　四十六年十月恭校上<lb/>
+<pb n="KR3l0052_WYG_000-2b"/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

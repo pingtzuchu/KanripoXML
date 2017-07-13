@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>文章辨體彚選卷八</head> <lb/>
+    <p>
+<pb n="KR4h0132_WYG_008-1a"/>
+欽定四庫全書<lb/>
+　文章辨體彚選卷八<lb/>
+　　　　　　　　　　　　明　賀復徴　編<lb/>
+詔八<lb/>
+　　宋太祖置賢良方正詔<lb/>
+先所置賢良方正能直言極諫經學優深可為師法詳<lb/>
+言吏理逹於教化等三科而自曩及今未有應者得非<lb/>
+抱倜儻者耻肩於常調懐讜直者難効於有司必欲興<lb/>
+<pb n="KR4h0132_WYG_008-1b"/>
+自朕躬乎繼今不限内外職官前資見任布衣黄衣許<lb/>
+詣閣門投牒自薦朕當親試焉<lb/>
+　　仁宗取士詔<lb/>
+儒者通天地人之理明古今治亂之原可謂博矣然學<lb/>
+者不得騁其說而有司務先聲病章句以拘牽之則吾<lb/>
+豪雋竒偉之士何以奮焉士以純明朴茂之美而無斆<lb/>
+學飬成之法使與不肖並進則夫懿徳敏行何以見焉<lb/>
+此取士之甚敝而學者自以為患夫遇人以薄者不可<lb/>
+<pb n="KR4h0132_WYG_008-2a"/>
+責其厚也今朕建學興善以尊子大夫之行更制革敝<lb/>
+以盡學者之才有司其務嚴訓導精察舉以稱朕意學<lb/>
+者進徳修業無失其時<lb/>
+　　神宗諭羣臣詔<lb/>
+朕毎思祖宗百戰得天下今州郡付之庸人常切痛心<lb/>
+卿軰謂何如而得選任之要<lb/>
+　　神宗賜韓琦詔<lb/>
+河北歳比不登水溢地震方春東作民携老㓜棄舊廬<lb/>
+<pb n="KR4h0132_WYG_008-2b"/>
+日流徙於道中夜以興惨怛不安其經制之方聽便宜<lb/>
+從事有可以左右吾民者宜為朕撫輯而振全之毋使<lb/>
+後時以重民困<lb/>
+　　神宗始䇿舉人罷詩論賦三題詔<lb/>
+化民成俗必自庠序進賢興能抑繇貢舉而四方執經<lb/>
+藝者專於誦讀趨鄉舉者狃於文辭與古所謂三物賔<lb/>
+興九年大成亦已盭矣今下郡國<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>徠雋賢其教育之<lb/>
+方課試之格令兩制兩省待制以上御史三司三館雜<lb/>
+<pb n="KR4h0132_WYG_008-3a"/>
+議以聞<lb/>
+　　神宗封太祖皇帝後詔<hi>王珪</hi>
+昔我藝祖皇帝之興以天發之期兵未始一血刄而卒<lb/>
+再造區夏其大謀盛烈被諸萬世而莫髙焉朕奉承聖<lb/>
+緒夙夜不敢康乃顧後之子孫寖㣲弗顯而有司未嘗<lb/>
+議封爵之文豈朕所以尊大統推親親之意哉宜令中<lb/>
+書門下考大宗之籍以屬近而行尊者一人裂土地而<lb/>
+王之使常從獻於郊廟世世勿復絶<lb/>
+<pb n="KR4h0132_WYG_008-3b"/>
+　　神宗允曾公亮乞免册禮詔<hi>王珪</hi>
+天子臨軒拜三公其禮舊矣今朕以上公之秩加於元<lb/>
+臣方戒有司卜日而冊授之乃援比固辭不能為朕引<lb/>
+紱廷下吁其禮何時而可復耶雖用勉從則匪朕心之<lb/>
+懌<lb/>
+　　理宗改元詔<lb/>
+春秋謂一為元謹始也朕以眇身託於萬民之上深懼<lb/>
+不徳戰戰兢兢自反而思惟日不足中外臣僚宜直言<lb/>
+<pb n="KR4h0132_WYG_008-4a"/>
+時政毋有所諱布告天下咸與維新<lb/>
+　　理宗追封周敦頤汝南伯張載郿伯程顥河南<lb/>
+　　　伯程頥伊陽伯朱熹徽國公並從祀孔子廟廷<lb/>
+　　　詔<lb/>
+朕惟孔子之道自孟軻後不得其傳至我朝周敦頥張<lb/>
+載程顥程頥真知實踐深探聖域千載絶學始有指歸<lb/>
+中興以來又得朱熹精思明辨表裏混融使大學論孟<lb/>
+中庸之書本末洞徹孔子之道益以大明於世朕毎觀<lb/>
+<pb n="KR4h0132_WYG_008-4b"/>
+五臣論註啟沃良多今視學有日其各加封爵令學官<lb/>
+列諸從祀以示崇奬之意<lb/>
+　　元英宗親祀詔<lb/>
+一歳惟四祀使人代之不能致如在之誠實所未安歳<lb/>
+必親祀以終朕身<hi>廷臣或言祀事畢宜赦天下帝諭之曰恩可常施赦不可屢下使殺人獲</hi>
+<hi>免則死者何辜遂命中書陳便宜事行之</hi>
+　<lb/>
+　文章辨體彚選卷八<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

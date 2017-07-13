@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>沙溪集巻二十一</head> <lb/>
+    <p>
+<pb n="KR4e0156_WYG_021-1a"/>
+欽定四庫全書<lb/>
+　沙溪集巻二十一<lb/>
+　　　　　　　　　　　　　明　孫緒　撰<lb/>
+　五言絶句<lb/>
+　　商景貞草蟲畵二絶<lb/>
+碣石移山小微風動紅蓼青蛙禁不鳴寂寞池塘曉<lb/>
+紅芳開未繁蜂蝶亂如織莫羡上林春同是東風色<lb/>
+　　李侍御秋霜瘁草巻<lb/>
+<pb n="KR4e0156_WYG_021-1b"/>
+攬轡西川路霜飛玉簡寒繁枝俱殞落明月滿秋山<lb/>
+　　魚樵圖<lb/>
+抱膝余長吟息肩君賞音歌罷解攜去山高江水深<lb/>
+　　野鶴圖<lb/>
+雲來雨滿溪天逈風生壑山水諧于心獨樹孤琴鶴<lb/>
+　　和楊師文短吟四首<lb/>
+春花饒艶色春禽鳴好音脉脉花前醉悠悠别後心<lb/>
+緑酒映花紅花枝美人醉非關醉欲眠思君坐成寐<lb/>
+<pb n="KR4e0156_WYG_021-2a"/>
+把手江頭别風波奈逺人清歡何日是擲珓問江神<lb/>
+羞整越羅裳晨梳到晩粧盟心秋水白舉首逺山蒼<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR4e0156_WYG_021-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　溪沙集巻二十一<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

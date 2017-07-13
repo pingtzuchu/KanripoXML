@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>愚菴小集目録</head>
+    <p>
+<pb n="KR4f0027_WYG_000-1a"/>
+欽定四庫全書　　　　　集部七<lb/>
+　愚菴小集目録　　　　　别集類六　<hi>國朝</hi>
+　　巻一<lb/>
+　　　賦<lb/>
+　　卷二<lb/>
+　　　五言古詩<lb/>
+　　卷三<lb/>
+　　　七言古詩<lb/>
+<pb n="KR4f0027_WYG_000-1b"/>
+　　巻四<lb/>
+　　　五言律詩<lb/>
+　　　五言排律<lb/>
+　　巻五<lb/>
+　　　七言律詩<lb/>
+　　卷六<lb/>
+　　　五言絶句<lb/>
+　　　七言絶句<lb/>
+<pb n="KR4f0027_WYG_000-2a"/>
+　　巻七<lb/>
+　　　序一<lb/>
+　　卷八<lb/>
+　　　序二<lb/>
+　　巻九<lb/>
+　　　記<lb/>
+　　巻十<lb/>
+　　　書<lb/>
+<pb n="KR4f0027_WYG_000-2b"/>
+　　巻十一<lb/>
+　　　論<lb/>
+　　巻十二<lb/>
+　　　辨<lb/>
+　　巻十三<lb/>
+　　　雜著一<lb/>
+　　巻十四<lb/>
+　　　雜著二<lb/>
+<pb n="KR4f0027_WYG_000-3a"/>
+　　卷十五<lb/>
+　　　傳<lb/>
+　　附録<lb/>
+　　　　<hi>臣</hi>等謹案愚菴小集十五巻<lb/>
+　　　國朝朱鶴齡撰鶴齡所著尚書埤傳諸書俱别<lb/>
+　　　　著録此集乃所著詩文凡賦一卷諸體詩五<lb/>
+　　　　巻雜文九巻末附傳家質言十三則鶴齡始<lb/>
+　　　　專力於詞賦自顧炎武勗以本原之學乃研<lb/>
+<pb n="KR4f0027_WYG_000-3b"/>
+　　　　思經義於漢唐注疏皆能爬梳抉摘獨出心<lb/>
+　　　　裁故所為文章悉能典雅醇實不墮剽竊摩<lb/>
+　　　　擬之習其邶鄘衛三國禹貢三江震澤太湖<lb/>
+　　　　嶓冢漢源諸辨多有禆於考證生平嘗箋注<lb/>
+　　　　杜甫李義山詩其作韻語頗出入二家之間<lb/>
+　　　　而寄興清逺亦復自饒神趣至其與錢謙益<lb/>
+　　　　同郡方謙益箋註杜詩時嘗館於其家乃集<lb/>
+　　　　中無一語推重之所作書元裕之集後一篇<lb/>
+<pb n="KR4f0027_WYG_000-4a"/>
+　　　　稱裕之舉金進士歴官左司員外郎及金亡<lb/>
+　　　　不仕隠居秀容詩文無一語指斥者裕之於<lb/>
+　　　　元既足踐其土口茹其毛即無訽詈之理非<lb/>
+　　　　獨免咎亦誼所當然乃今之訕辭詆語曾不<lb/>
+　　　　少避若欲掩其失身之事以誑國人者非徒<lb/>
+　　　　誖也其愚亦甚云云其言蓋隠刺謙益而發<lb/>
+　　　　尤可謂能知大義者矣乾隆四十二年十月<lb/>
+　　　　恭校上<lb/>
+<pb n="KR4f0027_WYG_000-4b"/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

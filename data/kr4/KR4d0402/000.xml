@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>富山遺稿</head>
+    <p>
+<pb n="KR4d0402_WYG_000-1a"/>
+欽定四庫全書　　　　　集部四<lb/>
+　富山遺稿　　　　　　　别集類三<hi>宋</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹按富山遺稿十巻宋方䕫撰䕫一名一<lb/>
+　　　　䕫字時佐淳安人生於宋季嘗從何夢桂游<lb/>
+　　　　攻舉子業不利於有司退隱富山之麓扁其<lb/>
+　　　　堂曰緑綺授徒講學其間自號知非子嘗著<lb/>
+　　　　漢論十巻富山懶稿三十巻行於世其後刋<lb/>
+<pb n="KR4d0402_WYG_000-1b"/>
+　　　　板散佚裔孫世徳等復裒集其詩輯為是編<lb/>
+　　　　䕫學有原本人品亦極高邁商輅嘗稱其詩<lb/>
+　　　　紆徐渾厚弗事雕琢可見其沖雅之操周瑄<lb/>
+　　　　亦稱其發之聲律不為體裁音節之所拘葢<lb/>
+　　　　䕫遇興揮毫所作頗乏研鍊之功故輅等云<lb/>
+　　　　然要其情致纒綿機趣自足五言一體氣勢<lb/>
+　　　　蒼莽尤較勝於七言淳安方氏自北宋以來<lb/>
+　　　　如殿中丞仲謀通判元修右文殿修撰誾太<lb/>
+<pb n="KR4d0402_WYG_000-2a"/>
+　　　　僕少卿聞等皆擅詩名為時所稱許今其集<lb/>
+　　　　雖已亡佚而流風餘韻沾丐後人知其濡染<lb/>
+　　　　固有自矣乾隆四十六年三月恭校上<lb/>
+　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+<pb n="KR4d0402_WYG_000-3a"/>
+原序<lb/>
+富山遺藁淳安方先生一䕫公所著詩也先生生宋元<lb/>
+間天資穎悟志學懇篤嘗從遊潛齋何先生究心義理<lb/>
+之學仕既勿顯因退而築室富山之麓授徒講學學者<lb/>
+稱之曰富山先生今所遺詩多五七言古體紆徐渾厚<lb/>
+弗事雕琢要其學有源委然亦足以觀先生沖雅之操<lb/>
+矣昔歐陽文忠公謂詩人多窮非詩能窮人殆窮而後<lb/>
+工世以為名言先生惟弗大用故事業無所見有藴於<lb/>
+<pb n="KR4d0402_WYG_000-3b"/>
+中皆於詩發之豈非窮而後工者耶先生五世孫文傑<lb/>
+彚輯將鋟梓以傳屬予一言未及答適文傑之子中領<lb/>
+鄉薦来京復介宗人兵科給事中廷臣促予言敬為書<lb/>
+此先生詩予友周𢎞璧言之備矣覽者當有得也商輅<lb/>
+序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

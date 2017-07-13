@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2d0019_WYG_088-1a"/>
+　欽定四庫全書<lb/>
+御定歴代紀事年表卷九十二<lb/>
+　　<hi>起辛酉宋髙宗紹興十一年  止甲申宋孝宗隆興二年</hi>凡二十四年<lb/>
+　　表例說<lb/>
+　　　<hi>臣</hi>之樞謹按宋自太祖傳位於弟子孫不得繼大<lb/>
+　　　統者凡百八十餘年迨髙宗以公天下之心擇太<lb/>
+　　　祖之後而立之乃得孝宗之賢自是以後嗣位者<lb/>
+　　　皆太祖之裔云詳具第八十一卷世系圖<lb/>
+<pb n="KR2d0019_WYG_088-2a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-3a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-4a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-5a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-6a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-7a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-8a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-9a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-10a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-11a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-12a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-13a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-14a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-15a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-16a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-17a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-18a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-19a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-20a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-21a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-22a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-23a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-24a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-25a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-26a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-27a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-28a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-29a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-30a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-31a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-32a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-33a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-34a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-35a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-36a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-37a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-38a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-39a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-40a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-41a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-42a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-43a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-44a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-45a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-46a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-47a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-48a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-49a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-50a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-51a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-52a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-53a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-54a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-55a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-56a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-57a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-58a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-59a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-60a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-61a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-62a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-63a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-64a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-65a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-66a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-67a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-68a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-69a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-70a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-71a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-72a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-73a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-74a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-75a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-76a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-77a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-78a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-79a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-80a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-81a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-82a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-83a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-84a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_088-85a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2d0019_WYG_088-85b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定歴代紀事年表卷九十二<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

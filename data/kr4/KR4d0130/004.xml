@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4d0130_SBCK_004-1a"/>
+眉山唐先生文集卷四<lb/>
+　　　　　　　　眉山　唐庚　子西<lb/>
+　近体詩<lb/>
+　　雜㒷<lb/>
+白日消諸妄青山对屡空著書防悪客斈<lb/>
+圃問隣翁織貝流肌<graphic n="KR0632" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0632.png" mimeType="image/png"/>仁頻入頰紅丹砂<lb/>
+落吾手秋至任飄蓬<lb/>
+　　其二<lb/>
+多事定何𥙷寡言聊自温蟹黄嗔止酒魚<lb/>
+<pb n="KR4d0130_SBCK_004-1b"/>
+白劝加飡濯足楼舡岸髙歌抱朴村愧無<lb/>
+魑可禦只益負君㤙<lb/>
+　　其三<lb/>
+閙窄良难入閑寛足見容竹根收白叠<hi>謂</hi>
+<hi>竹布</hi>木杪淂黄封<hi>謂椰酒</hi>問斈兼懦释交<lb/>
+㳺半士農行歌村落晚落日滿携笻<lb/>
+　　其四<lb/>
+為農沙子歩附保水西卿隐几江天遠開<lb/>
+門佛土香時情荒徑草埜色淡<hi>一作净</hi>漁<lb/>
+<pb n="KR4d0130_SBCK_004-2a"/>
+梁欲縦髙秋目東偏短作墻<lb/>
+　　其五<lb/>
+舊物盃中酒新䘖海上翁百非無一是顯<lb/>
+過豈㣲功引水江分碧烹丹井為红幽居<lb/>
+亦多事度日不全空<lb/>
+　　其六<lb/>
+小市江分破連<graphic n="KR1097" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1097.png" mimeType="image/png"/>水卷翻到今佛跡在千<lb/>
+古鶴峯尊浮嶠来何䖏豊湖入𢾗村登<graphic n="KR0916" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0916.png" mimeType="image/png"/>
+有何好秋至𢾗消䰟<lb/>
+<pb n="KR4d0130_SBCK_004-2b"/>
+　　其七<lb/>
+已分詩驅使寕辞酒过差南烹人釣蛤北<lb/>
+信峉占鴉年事侵膚理憂端宿肺家向来<lb/>
+功業㒷到晚詠餘霞<lb/>
+　　其八<lb/>
+覆載冝然䓁寒暄乃爾殊雪曽前歲有地<lb/>
+過此邦無煮海鯨鯢動烹山虎豹呼南来<lb/>
+何所淂詩語帶娵隅<lb/>
+　　其九<lb/>
+<pb n="KR4d0130_SBCK_004-3a"/>
+夜語不斍乆晨㒷良独难加之淂夘酒晚<lb/>
+矣恰朝飡筍蕨春生箸魚蝦海入盤南方<lb/>
+禁太飽茗椀直湏寛<lb/>
+　　其十<lb/>
+海氣東南上野烟申酉間草平連别洞雨<lb/>
+轉入他山道路魚塩去樵蘇竹木還西江<lb/>
+并北路相对各蒼顔<lb/>
+　　其十一<lb/>
+水過魚村<graphic n="KR0668" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0668.png" mimeType="image/png"/>沙寛牧地平片雲明外暗斜<lb/>
+<pb n="KR4d0130_SBCK_004-3b"/>
+日雨边晴山轉秋光曲川長瞑色横瘴鄉<lb/>
+人自楽耕釣各浮生<lb/>
+　　其十二<lb/>
+浪迹蒼梧外放怀黄木東人情双鬂雪天<lb/>
+色屡頭風國計中宵切家書隔歲通為儒<lb/>
+淂愁思一笑賴児童<lb/>
+　　其十三<lb/>
+萬里非吾土三年失我常只愁鳶跕跕敢<lb/>
+作寉昂昻白竹連閩越黄雲入夜郎何時<lb/>
+<pb n="KR4d0130_SBCK_004-4a"/>
+返栖息誰為問桃娘<lb/>
+　　閒居<lb/>
+未許幽人曉梦長朝朝親炷佛前香有詩<lb/>
+為爱袁家渇無病縁抄陸氏方身雜蜑中<lb/>
+誰是我食除蛇外縂隨郷白沙翠竹門前<lb/>
+路疑出西郊向草堂<lb/>
+　　又<lb/>
+細細敲門細細應老翁方曲晝眠肱魚陂<lb/>
+舊種千頭鱠桑徑新窠十𤱔繒菜足尚堪<lb/>
+<pb n="KR4d0130_SBCK_004-4b"/>
+分地主米餘翻欲供鄰僧平生雅有乗桴<lb/>
+㒷咫尺滄溟去未䏻<lb/>
+　　聞勾景山𥙷盩厔丞仍聞斈道有淂<lb/>
+　　　以詩調之彂萬里一笑<lb/>
+人言盩厔似江湖莫对丞㢤嘆負余别後<lb/>
+耳根無正始向来𥿄尾淂黄初可怜鬼谷<lb/>
+縦橫口今讀神溪縹白書臣朔許長錢許<lb/>
+少何當天子念公車<lb/>
+　　遣㒷<lb/>
+<pb n="KR4d0130_SBCK_004-5a"/>
+南来不斍両秋砧覧照驚呼雪满簮平日<lb/>
+不堪文舘冷暮年更賦武溪深敢縁三已<lb/>
+有愠色自笑一生䏻苦心安淂袁絲隨里<lb/>
+閈閗雞走狗任浮沉<lb/>
+　　又<lb/>
+八千岐路愁何𥙷四十光隂老亦冝此去<lb/>
+只堪犀首飲向来都是虎頭痴逢時有道<lb/>
+其如命淂意無言所恨遲詩債即今渾倚<lb/>
+閣新萹惟有莫相疑<lb/>
+<pb n="KR4d0130_SBCK_004-5b"/>
+　　甲午元日<lb/>
+非賢幸脱龍蛇歲上聖應怜蟣虱臣憶與<lb/>
+政和同度嶺朝来已點四年春<lb/>
+　　春帰<lb/>
+東風定何物所至輙蒼然小市花間合孤<lb/>
+城栁外圎禽声犯寒食江色帶新年無計<lb/>
+驅愁淂還推到酒边<lb/>
+　　春日五言<lb/>
+啼禽適梦寐芳草过比隣暖迫花期促愁<lb/>
+<pb n="KR4d0130_SBCK_004-6a"/>
+牽酒量伸<lb/>
+　　又<lb/>
+去就慚雲㕍浮沉羡海鷗妄心花片落豪<lb/>
+氣栁枝柔<lb/>
+　　春日七言<lb/>
+更與何人共寂寥竹君時引到溪橋是家<lb/>
+大似東郭子䏻使人之意也消<lb/>
+　　又<lb/>
+尚有小桃凌姹女豈無大杓飲衰翁老来<lb/>
+<pb n="KR4d0130_SBCK_004-6b"/>
+不𣸪談堅白醉去猶䏻爱淺红<lb/>
+　　鄭太玉送子魚<lb/>
+便當权閣太常齋薬灶于傍手自煨湏信<lb/>
+子魚藏妙理坐令母蟹媿凢才刀頭定向<lb/>
+何時得劒眷頻将好意来老去少陵雖病<lb/>
+肺尚堪持此荐寒醅<lb/>
+　　児曺送穷以詩晋之<lb/>
+世中貧冨両浮雲已着居陶比在陳就使<lb/>
+真䏻去穷鬼自量無以致錢神栁車作别<lb/>
+<pb n="KR4d0130_SBCK_004-7a"/>
+非吾意竹馬論交只汝親前此半痴今五<lb/>
+十欲将知命付何人<lb/>
+　　鄭二鎖試五羊乆而不返問之廣人<lb/>
+　　　云已失觧從海道帰潮矣聞之惘<lb/>
+　　　然唁以此詩<lb/>
+望君挹取裒然首為我迃囬長者車璧玉<lb/>
+已聞帰閒道足音那𣸪念迯虚卑微官職<lb/>
+縁親屈眊矂情怀頼酒除政使登名似韓<lb/>
+子十年曽不補遺餘<lb/>
+<pb n="KR4d0130_SBCK_004-7b"/>
+　　驟雨<lb/>
+黒雲驚小市白雨沸秋江声入家家樹凉<lb/>
+傳䖏䖏窓乱流鳴決決叠鼔閙龎龎蘋末<lb/>
+清風起斜陽覷海邦<lb/>
+　　江漲<lb/>
+秋来雨似澆雨罷水如潮市改依髙岸津<lb/>
+喧救断橋雲隂哭鳩婦池溢走魚苗天意<lb/>
+良难測前時旱欲焦<lb/>
+　　代書寄鄭二<lb/>
+<pb n="KR4d0130_SBCK_004-8a"/>
+别後定何似此中难具陳倦憎秋氣湿老<lb/>
+怯曉烟辛沸議今方尔帰期斍愈伸湏煩<lb/>
+三絶手時𣸪餉清新<lb/>
+　　八月十五夜月<lb/>
+應縁人望望故令出遲遲㡬歲一相見浮<lb/>
+雲寕别時吟拚雞腷膞玩斍兎迷離此夕<lb/>
+登楼㒷非関有所思<lb/>
+　　夜乆睡斍不復䏻寐凄然有感<lb/>
+無伏更残暑夜深清欲飢葉飛魂梦数露<lb/>
+<pb n="KR4d0130_SBCK_004-8b"/>
+重語音知月色到秋苦更声<graphic n="KR0916" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0916.png" mimeType="image/png"/>暁遅平生<lb/>
+憎墨翟老去亦悲絲<lb/>
+　　立冬後作<lb/>
+㗖蔗入佳境冬来幽㒷長瘴郷淂好語昨<lb/>
+夜有飛霜籬下重陽在醅中小至香西鄰<lb/>
+蕉向熟時致一梳黄<lb/>
+　　端孺糴米龍川淂粳糯数十帳以帰<lb/>
+　　　作詩調之<lb/>
+倒㧞孤舟入瘴烟帰来百斛㵼豊年炊香<lb/>
+<pb n="KR4d0130_SBCK_004-9a"/>
+未𢾗神江白<hi>米名</hi>釀<graphic n="KR0632" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0632.png" mimeType="image/png"/>偏宜佛跡泉飽去<lb/>
+定知頻梦與醉中何至便妨禅憑君為比<lb/>
+長安米㸔直公車牘㡬千<lb/>
+　　東鄰<lb/>
+即今楽事属墙東歲晚何曾酒盞空白蜜<lb/>
+巳輸仍莭近紅藤未動况年豊<lb/>
+　　又<lb/>
+肯聴寒梅暖暖消笛声夜夜到溪橋怪生<lb/>
+不似関山月新向城中淂徵招<lb/>
+<pb n="KR4d0130_SBCK_004-9b"/>
+　　謾成<lb/>
+雲暗便窓破山寒賴屋低徃还天外少早<lb/>
+晏雨中迷書冊開仍闔履声東𣸪西何常<lb/>
+有所賦得句旋安題<lb/>
+　　聞鄭二对吏五羊<lb/>
+舊友年来畧散亡新收鄭子亦遑遑歲云<lb/>
+暮矣無双㕍我所思兮在五羊獄吏事权<lb/>
+先自貴書生蹤跡况䏻狂風流人物今餘<lb/>
+㡬何忍群児𣸪謗傷<lb/>
+<pb n="KR4d0130_SBCK_004-10a"/>
+　　東麓<lb/>
+經旬不見小羗廬忽尔相逢喜欲呼自入<lb/>
+秋来更韶潤却從瘦裡帶敷腴人間信有<lb/>
+傷心碧坐上那無滿眼沽可是清暉觧娱<lb/>
+客䏻令腸断到愚儒<lb/>
+眉山唐先生文集卷四<lb/>
+<pb n="KR4d0130_SBCK_004-10b"/>
+<pb n="KR4d0130_SBCK_004-10b"/>
+<pb n="KR4d0130_SBCK_004-11a"/>
+眉山唐先生文集卷四目<lb/>
+　　　　　　　　　　　唐庚　子西<lb/>
+　　近体詩<lb/>
+　　　雜㒷<lb/>
+　　　其二<lb/>
+　　　其三<lb/>
+　　　其四<lb/>
+　　　其五<lb/>
+　　　其六<lb/>
+<pb n="KR4d0130_SBCK_004-11b"/>
+　　　　　　其七<lb/>
+　　　　　　其八<lb/>
+　　　　　　其九<lb/>
+　　　　　　其十<lb/>
+　　　　　　其　十一<lb/>
+　　　　　　其　十二<lb/>
+　　　　　　其　十三<lb/>
+　　　　　　間居<lb/>
+　　　　　　又<lb/>
+<pb n="KR4d0130_SBCK_004-12a"/>
+　　　　聞勾景山𥙷盩厔丞仍聞斈道有<lb/>
+　　　　　淂以詩調之彂萬里一笑<lb/>
+　　　　遣㒷<lb/>
+　　　　又<lb/>
+　　　　甲午元日<lb/>
+　　　　春帰<lb/>
+　　　　春日五言<lb/>
+　　　　又<lb/>
+　　　　春日七言<lb/>
+<pb n="KR4d0130_SBCK_004-12b"/>
+　　　　又<lb/>
+　　　　鄭太玉送子魚<lb/>
+　　　　児曺送窮以詩留之<lb/>
+　　　　鄭二鎖試五羊乆而不返問之廣<lb/>
+　　　　　人云已失觧從海道帰潮矣聞<lb/>
+　　　　　之惘然唁以此詩<lb/>
+　　　　驟雨<lb/>
+　　　　江漲<lb/>
+　　　　代書寄鄭二<lb/>
+<pb n="KR4d0130_SBCK_004-13a"/>
+　　　　八月十五夜月<lb/>
+　　　　夜乆睡斍不復䏻寐凄然有感<lb/>
+　　　　立冬後作<lb/>
+　　　　端孺糴米龍川淂粳糯数十帳以<lb/>
+　　　　　帰作詩調之<lb/>
+　　　　東鄰<lb/>
+　　　　又<lb/>
+　　　　謾成<lb/>
+　　　　聞鄭二对吏五羊<lb/>
+<pb n="KR4d0130_SBCK_004-13b"/>
+　　　東麓<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

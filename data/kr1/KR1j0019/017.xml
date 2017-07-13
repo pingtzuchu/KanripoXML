@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="1a"/>
+　說文解字通釋卷第十七<lb/>
+　　　　　　繋傳十七<lb/>
+　　　　文林郎守祕書省校書郎臣徐鍇傳釋<lb/>
+　　　　朝散大夫行祕書省校書郎臣朱翶反切<lb/>
+　　　　二十六部　文五百二十三　重六十三<lb/>
+<hi>頭也從頁從人古文䭫首如此凡頁之屬皆從頁頁者首字也臣鍇曰古文以爲首字也羊截反首也從頁豆聲時婁反/眉目之問也從頁彦聲臣鍇按史記漢高祖龍顔是也言關反<pb n="1b"/>籕文/皃也從頁公声臣鍇曰此容儀字歌頌者美盛德之形容頌故通作頌後人因爾亂之定以此為歌頌字然今世間詩本周頌亦或作訟與封反/籕/文/顱也從夏乇聲臣鍇曰今併作髑字陁谷反/顱首骨也從/頁盧聲論孤反/顛頂也從頁/声魚怨反/頂也從頁眞声臣鍇蹎倒字作蹎的烟反/顚也從頁丁/声顛茗反/或從/<graphic n="KR4010" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4010.png" mimeType="image/png"/>作/籕文從鼎額也從頁桑聲蘇朗反/額也從頁是聲臣鍇/曰義見爾雅敵圭反/顙也從頁各聲顔客反/鼻莖也從頁安声臣鍇按/史記曰蔡澤蹙頞厄渇反/或從/鼻曷/權也從頁
+                        <graphic n="KR3472" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3472.png" mimeType="image/png"/>声臣鍇按莊子曰其/顙頯頯塊然也權雖反/面旁也從頁/夾声居俠反/籕文/從<graphic n="KR4010" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4010.png" mimeType="image/png"/>
+                    <pb n="2a"/>頰也從頁声姦狠反/也從頁合/声候坎反/頥也從頁圅/声侯貪反/頭莖也從頁巠声居/反/頂也從頁令/声里井反/頭後也從頁工声臣鍇按詩曰四牡項領馬領冝細領大而難制故舉項領非訓項為大也限蚌反/項枕也從頁宂声臣鍇曰謂頂後承枕骨也之祍反出額也從頁隹声臣鍇曰言額如稚也眞誰反/曲頥也從頁/不声歩雷反/<graphic n="KR2874" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2874.png" mimeType="image/png"/>皃從頁僉声失檢反/面目不正皃從頁尹声/臣鍇曰頭大也主閔反/頭頵也從頁君声臣鍇曰頭大也宛旬反/面色顛皃從頁員声讀若隕臣鍇按詩云芸其黄矣古詩云黄華葉衰芸亦或音運與此義近也兩牝反/頭頰長也從頁/兼声五緘反/頭大也從頁石声臣鍇曰詩曰碩大且儼神隻反<pb n="2b"/>大頭也從羔頁声臣鍇按詩曰牂羊䫞首作墳/扶云反又口幺反/大頭也從頁分声一曰鬢也詩曰有頒其首布還反/大頭也從頁骨声讀若魁臣鍇按張衡思玄賦顝覉旅而無友顝猶塊大而獨立皃誇訥反/大頭也從頁/原声魚怨反/髙長頭從頁尭声臣鍇按靈光殿賦曰䫜顤顟而睢
+                        <graphic n="KR2214" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2214.png" mimeType="image/png"/>胡人皃/也五呌反/頭佳也從頁斤声讀又若鬢臣/鍇曰詩曰碩人其頎巨希反/贅顙高也從頁敖声五號反/前靣岳岳也從/頁岳声逆捉反/昧前也從頁/声莫隊反/靣瘐淺也從頁/霝声連丁反/頭蒯/也從頁㒸声臣鍇按字/書書蒯作頭惡也五夬反㮯頭也從頁元声臣鍇曰㮯㭬也五還反/小頭/也從頁枝声臣鍇曰顙猶規小皃堅隨反<pb n="3a"/>小頭也從頁果声臣鍇曰今言物一顆猶一頭也苦墮反/短靣也從頁/<graphic n="KR2140" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2140.png" mimeType="image/png"/>声戸刮反/狹頭頲也從頁廷声他挺反/頭閑習也從頁危声臣鍇曰/閑習謂低仰便也語委反/靣黄也從頁含声候坎反/靣不正也從頁/爰声魚怨反/舉頭也從頁支声詩曰有頍者弁頎箠反内頭水中從頁亦声臣/鍇曰/音没㑹意烏骨反/還視也從頁/雇声骨度反/理也從頁川声殊問反/顔色/慎事也從頁㐱声臣鍇曰䪾䫰猶隠磷難分皃不見于色故曰慎事支允反䪾䫰也從頁粦声一曰頭少髪力凖反/頭顓顓謹皃從頁耑声臣鍇按淮南子曰以害顓民顓謹也準旋反/頭頊頊謹皃從/頁王声喧玉反/低頭也從頁金声春秋傳曰迎于門顉之而已<pb n="3b"/>臣鍇曰點頭以應也今左傳作頷假借五感反/下首也從頁屯声臣鍇曰頓首下首也都異反低頭也從頁逃省声太史卜書頫仰字如此楊雄曰人靣頫分武反/俗頫字/從人免/舉目視人皃從頁臣声矢引反/倨視人也從頁/<graphic n="KR3415" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3415.png" mimeType="image/png"/>声旨闡反/直項也從頁/吉声羊截反/頭頡䪼也從頁出声讀又若骨之出反/白皃從景頁楚詞曰天白顥顥南山四顥白首人也臣鍇按班固西都賦曰鮮顥气之清英顥气白气也候抱反/大醜皃從頁/樊声復喧反/好皃從頁爭声詩所謂首臣鍇曰詩言螓首此/引詩以解誤作從爭疾性反/頨妍也從頁翩省声讀若翩臣鍇曰書傳多言孔子反字作此頨字云頭頂四崖峻起象厄丘山于甫反/謹荘皃從頁/豈声魚豈反/頭鬢少髪<pb n="4a"/>也從真肩声周禮數目顅脰臣鍇曰顅脰少髮也苦閑反/無髪也一曰耳門也從/頁困声臣鍇曰猶髪也苦敦反/秃也從頁气/声誇訥反/頭不正從頁耒耒頭傾亦声讀又若春秋陳夏齧之齧魯内反/傾首也從頁/卑声匹米反/伺人一曰恐也從頁/契声讀若楔異契反/頭不正也從頁鬼声臣鍇曰䫥猶<graphic n="KR1041" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1041.png" mimeType="image/png"/>嵬也口猥反/頭偏也從頁/皮声滂阿反/顫也從頁尤声延救反或從疒作/頭不正也從頁亶声臣鍇/曰俗言顫掉不正定彦反/飰不飽靣黄起行也從頁咸声讀若贛臣鍇按楚詞長顑頜兮可傷口糁反/靣䫲顲皃從頁/声臣/鍇曰音力甚反勒敢反熱頭痛也從頁從火一曰從焚省声臣鍇/按宋玉風賦<graphic n="KR1273" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1273.png" mimeType="image/png"/>勃煩冤煩熱冤亂復喧反/癡不<pb n="4b"/>聦明從頁声臣鍇曰癡/之狀見于頭靣也五隘反/難暁也從頁米一曰鮮白/皃從粉省臣鍇曰類從此勤㑹反/顦顇也從頁卒声臣鍇按楚詞曰/形容顦顇劳苦見于見夕位反/繫頭殟也從頁昏声臣鍇曰殟屈頭死之也莫魂反/醜也從頁亥/声候猜反/頭也從頁其声今逐疫有䫏頭臣鍇按靈光殿賦曰忔䫏<graphic n="KR1253" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1253.png" mimeType="image/png"/>以/鵰/䫏頭方相四目也遣之反/呼也從頁籥声尚書曰率籲衆戚云遇反頭明飾也從頁声臣鍇曰頁頭也若/具列物數一頭二頭也㑹意呼衍反/選具也從二頁士戀反/大頭也從頁禺声詩/曰其大有顒魚容反/顦顇也从頁焦声昨焦切</hi>
+　　　文九十三　重八<lb/>
+<pb n="5a"/>
+<hi>頭也象形几<graphic n="KR1315" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1315.png" mimeType="image/png"/>之屬皆從<graphic n="KR1315" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1315.png" mimeType="image/png"/>/臣鍇曰/髪也式九反靣和也從<graphic n="KR1315" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1315.png" mimeType="image/png"/>從肉讀若柔臣鍇曰爾雅戚施靣柔也肉物之柔者㑹意然尤反</hi>
+　　　　文二<lb/>
+<hi>顔前也從<graphic n="KR1315" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1315.png" mimeType="image/png"/>象人面形凡面之属皆從靣臣鍇曰顔額也弭釧反靣見也從靣見亦声詩曰有<graphic n="KR0804" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0804.png" mimeType="image/png"/>靣目臣鍇曰凡人所視瞻心實見之故有别識無耻之人面見之而已心實否山國語范蠡曰雖<graphic n="KR0804" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0804.png" mimeType="image/png"/>然/人面實禽獸也㑹意聽銑反/或從/旦/頰也從面甫声臣鍇按易曰咸其輔頰䩉與輔義相近浮甫反/面焦枯小也從面焦声前昭反</hi>
+<pb n="5b"/>
+<pb n="5b"/>
+<hi>倒首也賈侍中説此㫁首倒縣県字凡県之屬皆從<graphic n="KR3649" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3649.png" mimeType="image/png"/>臣鍇曰漢律有<graphic n="KR3649" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3649.png" mimeType="image/png"/>首多借梟字堅簫反繋也從系持県臣鍇按顔師古匡謬正俗云古書縣邕皆作此直縣挂字引説文為證此懸今人加心</hi>
+　　　　文二<lb/>
+<hi>靣毛也從頁彡凡須之属皆從須臣鍇曰㑹意四于反口上須也從須此声即冝反/頰須也從冄冄亦声臣/鍇曰今俗作髥而淹反/須髪半白也從須卑声賔而反/短須髮皃從須否声甫友反</hi>
+<pb n="6a"/>
+　　　　文五<lb/>
+<hi>毛飾畫之文也象形凡彡之屬皆從彡臣鍇曰古多以羽旄為餙象彡彡然所咸反象形也從彡幵声臣鍇曰彡以其冄弱委曲象之也賢星反/稠/從彡人声詩曰㐱髪如雲臣鍇曰從人物之人今詩作鬒又一㐱鳥羽也從几/音同而體小異也支允反/或從髟眞声飾也従彡攸声臣鍇曰尚書曰簡厥修息抽反/文章也從彡章声臣鍇曰文章飾也周良反瑑文也從彡周声覩挑反/飾也從彡青/声寂逞反/細文也從彡<graphic n="KR3004" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3004.png" mimeType="image/png"/>/省声臣鍇曰<graphic n="KR3004" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3004.png" mimeType="image/png"/>
+                    音郤穆從此莫叔反/撓也上象撓曲彡象毛氂撓弱也弱/物并故從二臣鍇曰指事如約反</hi>
+<pb n="6b"/>
+<pb n="6b"/>
+<hi>駮文也從文辡声臣鍇曰今作班也不攀反/微畫也從文從/<graphic n="KR2773" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2773.png" mimeType="image/png"/>声利之反</hi>
+　　　　文四<lb/>
+<hi>長髮猋猋也從長從彡凡髟之属皆從髟所咸反根也從髟犮声飛伐反/或從/首作/古/文/頰髮也從髟賔声比刃反髮長也從髟㒼声讀若蔓没團反/髪長也從髟監声讀若春/秋黒以濫來籠三反髪好也從髟差声千可反/髪好也從髟卷声詩曰其人羙且鬈臣鍇曰髪柔好也衝貟反髪也從髟毛声門髙反/髪皃從髟/臱米田反/髪多也從髟周声臣鍇曰詩曰綢道<pb n="7a"/>如髮陳收反/髪皃從髟爾声讀若江南謂酢母/為/臣鍇曰酢毋酢糟寜洗反/髪皃從髟咅声歩矛反/髪至眉也從髟敄声詩曰䋩彼/两/臣鍇曰今詩作髦莫浮反/或從敄省漢令有髳長臣鍇曰髳羌地名髳地之長也/女鬢垂皃從髟前声臣鍇按楚辭曰盛鬋不同即連反鬋也一曰長皃從髟兼声讀若慊連鹽反/束髪少也從髟<graphic n="KR0914" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0914.png" mimeType="image/png"/>声臣鍇按張衡西京賦曰朱鬕䰏即血反/髪也從髟易声臣鍇按周禮追師掌王后之首服為副編次注云副覆首以為餙其遺象若今歩揺服之從王祭祀編列髮為之若今假紒服之以桑也次次第髮長短為之若今髮鬄服以見王燕居則纚笄緫而已詩所謂鬒髪如雲不屑鬄也臣以為副若今三釵先為髪髪覆首上釵為鳯雉形口衘歩揺者也編若今編梳<pb n="7b"/>次第卷髮編列為之次即今髪也劉熈釋名鬄剔刑人為之髲則以續鬄則全假為之也思益反/鬄或從髟也声臣鍇曰春秋左傳衞公出見吕氏之妻髪羙以為吕姜髢/鬄也從髟皮声平義反用梳比也從髟次声臣鍇曰此即周禮所謂次今作次假借七恣反/㓗髪也從髟<graphic n="KR2140" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2140.png" mimeType="image/png"/>声臣鍇曰禮所云組括䯺作括假借儀禮鬠用組注古作括古括反/卧髻也從髟般声讀若槃臣鍇曰古今注所謂槃桓髻别安反/髻也從髟付/声方娶反/帶髻餙從髟/莫声悶亞反/屈髪也從髟貴声區師反簮髻也從髟介声臣鍇曰簮髻即假髻也荀差反/髪鬛鬛也從髟巤声律㨗反或從毛/或從/豕/鬛也從髟盧/声論孤反/也從髟竝声盤浪反<pb n="8a"/>髴若似也從髟弗声臣鍇曰毛髮髴髴然似之分勿反/亂髪也從髟茸/省声乳逄反/髪墮從髟墮省声直垂反/鬌髮也從髟/春声矢閏反/髪秃也從髟/間声苦閒反/髴髮也從髟剔声他狄反/<graphic n="KR1678" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1678.png" mimeType="image/png"/>髪也從髟/兀声苦敦反/或從/元/<graphic n="KR1678" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1678.png" mimeType="image/png"/>髮也從髟弟声大人曰髡小人曰鬀盡及身毛曰<graphic n="KR1678" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1678.png" mimeType="image/png"/>他計反/也忽見從髟录声籕/文魅亦忽見意芳未反/䘮髻禮女子髽哀弔則不髽魯臧武仲與齊戰于狐鮐魯人迎䘮者始髽從髟坐声鄒茶反</hi>
+　　　文三十八　重七<lb/>
+<hi>繼體君也象人之形施令以告四方故<graphic n="KR1763" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1763.png" mimeType="image/png"/>之從一口發號者君后也凡后之屬皆從后臣鍇曰通論詳矣</hi>
+<pb n="8b"/>
+<pb n="8b"/>
+<hi>一專言也章移反小巵有耳蓋者從巵專聲殊剸反/小巵也從巵耑声讀若棰撃之棰職仲反</hi>
+　　　文三<lb/>
+<hi>瑞信也守國者用玉卪守都鄙者用角卪使山邦者用虎節土邦者用人卪澤邦者用龍卪門關者用符卪貨賄用璽卪道路用旌卪象相合之形凡卪之屬皆從卪臣鍇曰周禮掌守邦節而别其用以輔王命注邦節鎮圭方璋糓圭琰圭也玉節之制如王以命數為大小角卪犀角為之山多虎平地多人澤多龍符卪如今宫中官詔符璽卪今之印章旌卪令使者所擁卪今皆作節字卪象半分之形守國者其卪半在内半在外即血反<pb n="9a"/>發號也從兮卩臣鍇曰號令者集而為之卩制㑹意力聘反/輔信也從卪從比聲虞書曰弼成五服臣鍇曰今尚書作弼皮宻反/有大度也從卩多/声讀若移真避反/宰之也從卪必声彼至反/高也從卩召/声食要反/科厄木節也從卪厂声賈侍中說以為厄裹也一曰巵蓋也臣鍇曰厂音移巵從此五果反/脛頭也從卩桼声臣鍇曰今/俗作膝膝人之節也恖一反/膝曲也從卩<graphic n="KR2790" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2790.png" mimeType="image/png"/>声臣鍇曰詩/有卷阿曲阿也俱兖反/節欲也從卩/谷声期灼反/二卩也巽從此闕助箭反/舍車解馬也從卩止午声讀若汝南/人冩書之冩臣鍇曰御從此蘇夜反/卩也闕則凑反</hi>
+　　　文十三<lb/>
+<pb n="9b"/>
+<hi>執政所持信也從瓜從卩凡印之屬皆從印臣鍇曰瓜手瓜以持印也㑹意伊鎮反按也從反印臣鍇曰者外向而印/之反印為内自抑也㑹意憂仄反/俗從手作</hi>
+　　　文二　重　一<lb/>
+<hi>顔气也從人從卪凡色之属皆從色臣鍇曰顔色人之儀卩也㑹意踈憶反古文/色艴如也從色弗声論語曰色艴如也臣鍇曰盛气色也孟子曰曽西艴然其字如此歩咄反/縹色也從色并声臣鍇按宋玉神女賦薄怒自以持曽不可乎犯干匹逈反</hi>
+　　　文三　重　一<lb/>
+<pb n="10a"/>
+<hi>事之制也從卩凡卯之属皆從卯闕臣鍇曰反覆卩之也起明反章也六卿天官冢宰地官司徒春官宗伯夏官司馬秋官司㓂冬官司空從卯皀声臣鍇按白虎通曰卿章也章善明理也反覆節其事也皀又音香起明反</hi>
+　　　　文二<lb/>
+<hi>法也從卩辛節制其<graphic n="KR1255" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1255.png" mimeType="image/png"/>也從口用法者也凡辟之屬皆從辟臣鍇曰口以理之㑹意卑僻反治也從辟井周書曰我之不臣鍇曰/并法也與荆同意今尚書作辟卑僻反/治也從辟乂声虞書曰有能俾臣鍇曰今尚書作乂偶喙反</hi>
+<pb n="10b"/>
+<pb n="10b"/>
+<hi>飽也從勹祭祀曰厭匓臣鍇曰禮有/隂厭陽厭厭匓也今禮作飫于㩀反/重也從勹復声伐六反/或省/彳/高墳也從勹豕声臣鍇曰地高起若有所包也知悚反</hi>
+　　　文十六　重三<lb/>
+<hi>象人裹妊巳在中象子未成形也元气起于子子所生也男左行三十女右行二十俱立于已爲大婦裹妊于巳巳爲子十月而生男起巳至寅女起巳至申故男年始寅女年始申也凡包之属皆從包臣鍇曰任懐任也巳爲四月萬物含實故象人懐子也子在北方冬至夜半一陽所起故曰子人所生男自子左數次寅次卯爲左行凡三十得巳女自子右數次亥次戍次酉凡二十亦得巳至此㑹合夫婦懐任之義巳爲子謂所生子也巳𥘉懐子<pb n="11a"/>男左行午次未凡十二月得寅女右行自已次辰次卯凡十月得申寅在東北爲夏正月物徹子甲而出陽𥘉出故爲男年之始甲在西南爲夏七月隂气至此始岀故爲女年之始也北交反兒生裹也從肉包浦包反/瓠也從夸包声取其可包藏物也歩交反</hi>
+　　　文三<lb/>
+<hi>自急敕也從羊省從包省徙口口猶慎言也從羊羊與義善羙同意凡苟之属皆從苟臣鍇按羊美物也人自美其身故目儆敕云與善同意包者自束歛春秋左傳張骼輔躒曰公孫之亟當也作此苟作亟假借已力反古文不省/肅也從攴苟臣鍇曰㑹意居竟反</hi>
+<pb n="11b"/>
+<pb n="11b"/>
+<hi>赤魃除牆星之物也詩曰旱魃為虐臣鍇按周禮犮氏掌除牆屋謂除自理之物若鼃及蝎之屬今周禮作犮歩将反老精物也從鬼彡/彡鬼毛宻至反/古/文/籕文魅從彖首從尾省声或從未/鬼服也一曰小兒鬼從鬼從支韓詩/傳曰鄭交甫逢二女鬾服臣寄反/鬼皃從鬼虎声虎烏反/鬼俗也/從鬼幾声淮/南傳曰吴人鬼越人<graphic n="KR4360" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4360.png" mimeType="image/png"/>也居希反/鬼鬽声䰰䰰不止也從鬼需声奴詬反/鬼變也從鬼/化声呼咵反/見鬼驚詞從鬼難省声讀若詩受福不儺臣鍇按歲終大儺娠子口呼<graphic n="KR4340" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4340.png" mimeType="image/png"/>
+                        <graphic n="KR4340" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4340.png" mimeType="image/png"/>也如何反/鬼皃從鬼賔/声婢民反/可惡也從鬼酉声稱肘反/神獸也從鬼隹声杜回切</hi>
+<pb n="12a"/>
+　　　文十七　重四<lb/>
+<hi>鬼頭也象形凡甶之屬皆從甶臣鍇曰靣髣髴之皃分勿反惡也從甶虎省臣鍇曰㑹意迃胃反/古文/省/母猴屬頭似鬼從甶從禸臣鍇曰禸禽獸迹也疑預反</hi>
+　　　文三　重一<lb/>
+<hi>姦邪也韓非曰蒼頡作字自營為厶凡厶之尸皆從厶臣鍇曰此公厶字今皆作私先兹反逆而奪取曰篡從厶算声臣鍇曰漢書曰篡取之測慣反/相訹呼也從厶臣鍇曰訹誘也夷</hi>
+<pb n="12b"/>
+<pb n="12b"/>
+</p>
+<p>
+說文解字通釋卷第十七<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

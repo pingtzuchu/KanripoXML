@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2i0017_SBCK_000-1a"/>
+南唐書序<lb/>
+傳曰太熈之後述史者㡬乎罵矣<lb/>
+唐季五代大盗割據各亦有史而<lb/>
+太熈之風徃徃有之南唐<graphic n="KR0906" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0906.png" mimeType="image/png"/>滅史<lb/>
+官髙逺慮貽後悔悉取史草焚之<lb/>
+而死徐鉉湯恱奉<lb/>
+太宗皇帝敕追錄所聞而忘逺取<lb/>
+<pb n="KR2i0017_SBCK_000-1b"/>
+近率皆踈畧先祖太博<hi>元康</hi>世家金<lb/>
+陵知多南唐故事旁搜舊史遺文<lb/>
+并集諸朝野之䏻道其事者未及<lb/>
+撰次遽捐舘舎今輙不自料纂先<lb/>
+志而成之列爲三十卷雖有愧於<lb/>
+筆削而誅亂尊王亦庻㡬焉崇寧<lb/>
+乙酉春正月陽羡馬　令<lb/>
+<pb n="KR2i0017_SBCK_000-2a"/>
+南唐書序<lb/>
+　　　　　　　　　馬令撰<lb/>
+嗚嘑五代之亂符璽竊扵大盗中<lb/>
+國變扵夷狄先王之禮樂制度掃<lb/>
+地盡矣李氏初據江淮建唐廟以<lb/>
+隆親與夫祖契丹而絶其父者孰<lb/>
+韙始郊祀扵圎丘與夫尚野祭而<lb/>
+<pb n="KR2i0017_SBCK_000-2b"/>
+焚𥿄䋋者孰重五代之君若彼南<lb/>
+唐之制若此則正統疑扵不存而<lb/>
+僣竊疑扵無罪也予作此書尊天<lb/>
+子扵中原而僣僞之事則不爲南<lb/>
+唐諱者豈無意哉蓋尊天子所以<lb/>
+一天下之統書其僣所以著李氏<lb/>
+之罪其統旣一其罪旣著則竊土<lb/>
+<pb n="KR2i0017_SBCK_000-3a"/>
+賊民者無遁刑扵天下後世矣昔<lb/>
+孔子作春秋非徒載其陳言也竊<lb/>
+耴其義以爲人道之大法而巳予<lb/>
+之所論有合扵此者弗可不察也<lb/>
+王通之作元經第以進退南北而<lb/>
+亂其正統輒自比扵孔子曰春秋<lb/>
+元經扵王道是輕重之權衡且孔<lb/>
+<pb n="KR2i0017_SBCK_000-3b"/>
+子所書彼善扵此則有之而正統<lb/>
+常在扵周通之所書者宋魏之間<lb/>
+其統未甞一也使後世擾擾而不<lb/>
+知其正者必自通始嗚嘑法春秋<lb/>
+而不知春秋之法者豈特王通乎<lb/>
+<pb n="KR2i0017_SBCK_000-4a"/>
+南唐書目録<lb/>
+　卷第一<lb/>
+　　　先主書<lb/>
+　卷第二<lb/>
+　　　嗣主書<lb/>
+　卷第三<lb/>
+　　　嗣主書<lb/>
+　卷第四<lb/>
+　　　嗣主書<lb/>
+　卷第五<lb/>
+<pb n="KR2i0017_SBCK_000-4b"/>
+　　後主書<lb/>
+　卷第六<lb/>
+　　女憲傳<lb/>
+　　　　元恭宋后　种氏　光穆鍾后　昭恵周后<lb/>
+　　　　周后　保儀黄氏　徐主　永興公主<lb/>
+　　　　余洪妻鄭氏<hi>附</hi>渤海呉媛<hi>附</hi>
+　卷第七<lb/>
+　　宗室傳<lb/>
+　　　　楚王景遷　晋王景遂齊王景逹　江王景逷<lb/>
+　　　　太子兾　慶王茂　韓王従善　鄧王従益<lb/>
+<pb n="KR2i0017_SBCK_000-5a"/>
+　　　　　吉王従謙　従度傳亡　従信傳亡　宣城公仲宣<lb/>
+　　卷第八<lb/>
+　　　義飬傳<lb/>
+　　　　　徐宣祖　徐知訓　徐知詢　稌知誨<hi>子景遼子景逰</hi>
+　　　　　徐知諌　徐知證　徐知諤<lb/>
+　　卷第九<lb/>
+　　　列傳<lb/>
+　　　　　周本　李徳誠　王輿　李章<lb/>
+　　　　　王安　韋建　髙審思<lb/>
+　　卷第十<lb/>
+<pb n="KR2i0017_SBCK_000-5b"/>
+　　　列傳<lb/>
+　　　　　李建勲　常夢錫　嚴續　潘承祐<lb/>
+　　　　　㳺簡言　張延翰　徐玠　李夷鄴<lb/>
+　　卷第十一<lb/>
+　　　列傳<lb/>
+　　　　　刁彦䏻　周宗　馬仁𥙿　何敬洙<lb/>
+　　　　　柴克宏　劉宗俊　王崇文　邊鎬<lb/>
+　　卷第十二<lb/>
+　　　列傳<lb/>
+　　　　　盧文進　李金全　王彦儔　林仁肈<lb/>
+<pb n="KR2i0017_SBCK_000-6a"/>
+　　　　　陳誨　申屠令堅<lb/>
+　　卷第十三<lb/>
+　　　儒者傳<lb/>
+　　　　　韓熈載　江文蔚　髙越　孫魴<lb/>
+　　卷第十四<lb/>
+　　　儒者傳<lb/>
+　　　　　劉洞　江爲　汪台符　史虗白<lb/>
+　　　　　郭昭慶　康仁傑　伍喬　周彬<lb/>
+　　　　　夏寳松　徐鍇<lb/>
+　　卷第十五<lb/>
+<pb n="KR2i0017_SBCK_000-6b"/>
+　　　隱者傳<lb/>
+　　　　　江夢孫　沈彬　陳貺　陳陶<lb/>
+　　　　　許堅　毛炳　顔詡　鄭元素<lb/>
+　　卷第十六<lb/>
+　　　義死傳<lb/>
+　　　　　劉仁贍　孫晟　張彦䏻<hi>鄭昭業附</hi>
+　　卷第十七<lb/>
+　　　義死傳<lb/>
+　　　　　皇甫暉　孟堅　陳喬　劉彦貞<lb/>
+　　　　　朱令贇　胡則<lb/>
+<pb n="KR2i0017_SBCK_000-7a"/>
+　　卷第十八<lb/>
+　　　廉隅傳<lb/>
+　　　　　姚景　魯崇範　馬文義　許規<lb/>
+　　　苛政傳<lb/>
+　　　　　張宣　李徳柔<lb/>
+　　卷第十九<lb/>
+　　　誅死傳<lb/>
+　　　　　禇仁規　王建封<hi>茫仲敏附</hi>李徳明　皇甫繼勲<lb/>
+　　　　　鍾謨　張巒傳亡<hi>餘附鍾謨</hi>潘佑　李平<lb/>
+　　卷第二十<lb/>
+<pb n="KR2i0017_SBCK_000-7b"/>
+　　　黨與傳<lb/>
+　　　　　宋齊丘<lb/>
+　　卷第二十一<lb/>
+　　　黨與傳<lb/>
+　　　　　陳覺　李徴古　馮延巳　馮延魯<lb/>
+　　　　　魏岑　查文徽<lb/>
+　　卷第二十二<lb/>
+　　　歸明傳<lb/>
+　　　　　蕭儼　劉承勲　邵拙　舒雅<lb/>
+　　　　　盧絳　劉茂忠　李元清　陸昭符<lb/>
+<pb n="KR2i0017_SBCK_000-8a"/>
+　　卷第二十三<lb/>
+　　　歸明傳<lb/>
+　　　　　朱弼　孟賔于<hi>子歸唐</hi>潘賁　蒯鼇<lb/>
+　　　　　羅頴　盧郢　丘旭　黄載<lb/>
+　　　　　湯悅<hi>附</hi>張洎<hi>附</hi>徐鉉<hi>附</hi>
+　　卷第二　十四<lb/>
+　　　方術傳<lb/>
+　　　　　吳紹　木平和尚　李冠　道士譚紫霄<lb/>
+　　　　　潘扆　女冠耿先生<lb/>
+　　卷第二十五<lb/>
+<pb n="KR2i0017_SBCK_000-8b"/>
+　　談諧傳<lb/>
+　　　　申漸髙　李家明　楊名髙　王感化<lb/>
+　　　　彭利用<hi>附</hi>
+　卷第二十六<lb/>
+　　浮屠傳<lb/>
+　　　　小長老　北僧<hi>附</hi>玄寂　應之<lb/>
+　　妖賊傳<lb/>
+　　　　張遇賢　諸祐<lb/>
+　卷第二十七<lb/>
+　　叛臣傳<lb/>
+<pb n="KR2i0017_SBCK_000-9a"/>
+　　　　劉澄　朱元　劉従効<hi>附</hi>
+　卷第二十八<lb/>
+　　　滅國傳<lb/>
+　　　　閩王氏　殷<lb/>
+　卷第二十九<lb/>
+　　滅國傳<lb/>
+　　　　楚馬氏<lb/>
+　卷第三十<lb/>
+　　　建國譜　世系譜<lb/>
+南唐書目録<hi>終</hi>
+<pb n="KR2i0017_SBCK_000-9b"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4d0520_SBCK_000-1a"/>
+澤民文章典雅<lb/>
+理致甚明獨惜以<lb/>
+畫事掩其名然識<lb/>
+者不厭其多䏻也<lb/>
+<pb n="KR4d0520_SBCK_000-1b"/>
+自兹以徃澤民當<lb/>
+豐扵文而嗇扵畫<lb/>
+可也<lb/>
+　　虞集題<lb/>
+<pb n="KR4d0520_SBCK_000-2a"/>
+存復齋文集序<lb/>
+朱澤民為桐子師時以文墨故與予交三十<lb/>
+餘年間得許道寧畫謾尓塗抺適臻其能在<lb/>
+仁廟時瀋王器其才引對于嘉禧殿授征東<lb/>
+提學以㱕人不知其扵鞭辟近裏尤用功也藝<lb/>
+扵聖門固曰小學之能事然以欲觀古人之<lb/>
+象與夫繪事後素可與言詩者推之其扵指<lb/>
+畫之形有切近扵書者聖人扵蓺以㳺而言<lb/>
+儕扵道徳與仁而四之一以小物不遺動息<lb/>
+<pb n="KR4d0520_SBCK_000-2b"/>
+有養故耳况夫以山水言亦仁知之所樂者<lb/>
+扵進而吾徃也逝而不舍晝夜也為學為道<lb/>
+一以體其重厚不遷周流無間凡得想象而求<lb/>
+以似之何藝非道耶使刻意扵文字不有以<lb/>
+載道而追逐扵月露風雲之狀庸何愈扵藝<lb/>
+成而下者此詩之國風所以出扵民俗之歌<lb/>
+謡後儒極力無䏻彷彿也澤民績學而為文<lb/>
+理到而詞不凡下神㑹心得有妙扵斵輪不<lb/>
+能以喻諸子者非詡詡以求售扵人如凡近<lb/>
+<pb n="KR4d0520_SBCK_000-3a"/>
+一軰也天下之物無影無形難以儗諸形容<lb/>
+者曰惟風聲莊子噫氣之論一以可聞而不<lb/>
+可見者之翏翏之調調之刁刁曰獨不聞曰<lb/>
+獨不見貌出天籟一節孑露無遺則亦深扵<lb/>
+文字者曰精扵藝耳不然孰無一畫筆䏻神<lb/>
+扵化工耶澤民藝䏻而妙由妙而神神有㡬<lb/>
+扵天者言之精者為文由精而超扵自得則<lb/>
+有配天扵無言者徳藝兩忘道術無蹟神而<lb/>
+明之亦存乎人澤民可與語道矣有不合天<lb/>
+<pb n="KR4d0520_SBCK_000-3b"/>
+人于一耶登峰造極風詠言㱕聖賢氣象相<lb/>
+與徃来扵文字以狀出之山立揚休不無悠<lb/>
+然扵一見者姑将以為序<lb/>
+至正九年秋閏七月望後合沙俞焯午翁序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

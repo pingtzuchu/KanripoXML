@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>古今源流至論</head>
+    <p>
+<pb n="KR3k0031_WYG_000-1a"/>
+欽定四庫全書　　　　　子部十一<lb/>
+　古今源流至論　　　　　類書類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案古今源流至論前集十卷後集十<lb/>
+　　　　卷續集十卷宋林駉撰别集十卷宋黄履翁<lb/>
+　　　　撰駉字徳頌寧徳人清脩苦學嘗以易魁鄉<lb/>
+　　　　薦著書授徒鄰境爭迎師之其事蹟見閩書<lb/>
+　　　　中履翁字吉父不詳其里貫葢亦閩中人也<lb/>
+<pb n="KR3k0031_WYG_000-1b"/>
+　　　　宋自神宗罷詩賦用策論取士學者咸思以<lb/>
+　　　　博綜古今㕘攷典制為務而又苦其浩瀚不<lb/>
+　　　　可猝窮於是類事之家往往排比聨貫薈稡<lb/>
+　　　　成書以供場屋採掇之用其時麻沙書坊刋<lb/>
+　　　　本最多大抵出自鄉塾陋儒勦襲陳言概無<lb/>
+　　　　足取惟章俊卿山堂羣書考索最為精博有<lb/>
+　　　　助考稽是編於經史百家之異同厯代制度<lb/>
+　　　　之沿革條列件繫亦尚有體要雖其書專為<lb/>
+<pb n="KR3k0031_WYG_000-2a"/>
+　　　　科舉而設而有宋一代之朝章國典分門别<lb/>
+　　　　類序述詳明多有諸書所不載者實考証家<lb/>
+　　　　所取資未可以體例近俗廢矣乾隆四十三<lb/>
+　　　　年七月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="KR3k0031_WYG_000-3a"/>
+古今源流至論前集原序<lb/>
+財貨而費於源流之知徳義而取夫源流之喻治不結<lb/>
+繩文籍以生三代而來至於我宋上下三千餘年帝王<lb/>
+代興聖明繼作典章文物宏模懿範本末源流所當講<lb/>
+明者奚獨財貨徳義而已儒家者流以多閲為貴以博<lb/>
+聞為高塞胷滿腹澒洞殽昧而無條貫或舉其中而不<lb/>
+知其本或原其始而不要其終高談有餘待問不足三<lb/>
+山先生林君徳頌雅有逺度志在邦典博古通今出於<lb/>
+<pb n="KR3k0031_WYG_000-3b"/>
+生知平居私淑嘗取夫治體之大者約百餘目參古今<lb/>
+之宜窮始終之要問而辨之端如貫珠舉而行之審如<lb/>
+中鵠嘻有大學問而後有大議論先生以其淹貫之學<lb/>
+發而為經濟之文是非品藻確乎其當昔漢武帝之策<lb/>
+仲舒欲聞大道至論先生之論其至論也歟故名之曰<lb/>
+古今源流至論以廣其傳焉黄履翁序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

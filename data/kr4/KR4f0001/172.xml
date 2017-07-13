@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4f0001_WYG_172-1a"/>
+　欽定四庫全書<lb/>
+聖祖仁皇帝御製文第二集巻四十一目録<lb/>
+　　祭文<lb/>
+　　　　躬詣<lb/>
+　天壇祈雨祭文<lb/>
+　天壇謝雨祭文<lb/>
+　　　　躬禱<lb/>
+　天壇文<lb/>
+<pb n="KR4f0001_WYG_172-1b"/>
+　天壇祈雨祭文<lb/>
+　　祈穀壇祭文<lb/>
+　　　　親征噶爾丹告祭<lb/>
+　天壇文<lb/>
+　　　　剿滅噶爾丹告祭<lb/>
+　天壇文<lb/>
+　　　　剿滅噶爾丹告祭<lb/>
+　　歴代帝王陵寢文<lb/>
+<pb n="KR4f0001_WYG_172-2a"/>
+　　　剿滅噶爾丹告祭<lb/>
+　先師孔子文<lb/>
+　　　祭<lb/>
+　禹陵文<lb/>
+　　　祭明太祖文<lb/>
+　　　祭西嶽華山文<lb/>
+　　　重修闕里<lb/>
+　聖廟告成遣皇子告祭文<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

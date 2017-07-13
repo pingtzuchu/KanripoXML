@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>絜齋毛詩經筵講義目録</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　　經部三<lb/>
+　絜齋毛詩經筵講義目録　詩𩔖<lb/>
+　　卷一<lb/>
+　　　詩序一<lb/>
+　　　詩序二<lb/>
+　　　卷耳<lb/>
+　　　樛木<lb/>
+　　　螽斯<lb/>
+<pb n="1b"/>
+　　　桃夭<lb/>
+　　　兔罝<lb/>
+　　　芣苢<lb/>
+　　　漢廣<lb/>
+　　　汝墳<lb/>
+　　　采蘩<lb/>
+　　　甘棠<lb/>
+　　卷二<lb/>
+<pb n="2a"/>
+　　　行露<lb/>
+　　　羔羊<lb/>
+　　　殷其靁<lb/>
+　　　江有汜<lb/>
+　　　何彼穠矣<lb/>
+　　　騶虞<lb/>
+　　　柏舟<lb/>
+　　　燕燕<lb/>
+<pb n="2b"/>
+　　　日月<lb/>
+　　　終風<lb/>
+　　　擊鼓<lb/>
+　　　凱風<lb/>
+　　卷三<lb/>
+　　　雄雉<lb/>
+　　　谷風<lb/>
+　　　式微<lb/>
+<pb n="3a"/>
+　　　旄丘<lb/>
+　　　泉水<lb/>
+　　　北門<lb/>
+　　　北風<lb/>
+　　　干旄<lb/>
+　　　考槃<lb/>
+　　　芄蘭<lb/>
+　　　木𤓰<lb/>
+<pb n="3b"/>
+　　　黍離<lb/>
+　　　揚之水<lb/>
+　　卷四<lb/>
+　　　羔裘<lb/>
+　　　女曰鷄鳴<lb/>
+　　　山有扶蘇<lb/>
+　　　風雨<lb/>
+　　　子衿<lb/>
+<pb n="4a"/>
+　　　鷄鳴<lb/>
+　　　還<lb/>
+　　　甫田<lb/>
+　　　猗嗟<lb/>
+　　　陟岵<lb/>
+　　　伐檀<lb/>
+　　　碩鼠<lb/>
+　　　　<hi>臣</hi>等謹案絜齋毛詩經筵講義宋袁燮撰燮<lb/>
+<pb n="4b"/>
+　　　　字和叔慶元府鄞縣人絜齋其自號也登進<lb/>
+　　　　士第調江隂尉歴官寳文閣直學士諡正獻<lb/>
+　　　　事蹟詳具宋史本傳燮素尚名節學有體用<lb/>
+　　　　嘉猷讜論無不卓然可紀所著文集巳經散<lb/>
+　　　　佚今從永樂大典中裒輯為二十四卷别著<lb/>
+　　　　録集部中此書乃其為崇政殿説書時撰進<lb/>
+　　　　之本宋史藝文志馬端臨通攷朱彝尊經義<lb/>
+　　　　攷皆不列其目惟永樂大典各韻經文之下<lb/>
+<pb n="5a"/>
+　　　　頗載其文蓋其失傳亦巳久矣宋代諸臣所<lb/>
+　　　　作講章如鄭朴敷文書説朱震范沖左氏講<lb/>
+　　　　義戴溪春秋講義𩔖多編輯單行燮此書亦<lb/>
+　　　　同其例其中議論切實和平通達頗得風人<lb/>
+　　　　本旨且宋自南渡以後國勢孱弱君若臣皆<lb/>
+　　　　懦怯偷安無肯志存逺略而燮獨以振興恢<lb/>
+　　　　復之事望其君經幄敷陳再三致意如論式<lb/>
+　　　　微篇則極稱太王勾踐轉弱為彊而貶黎侯<lb/>
+<pb n="5b"/>
+　　　　無奮發之心論揚之水篇則謂平王柔弱為<lb/>
+　　　　可憐論黍離篇則直以汴京宗廟宫闕為言<lb/>
+　　　　皆深有合于納約自牖之義昔人譏胡安國<lb/>
+　　　　春秋傳意主復讎割經義以從已説而燮則<lb/>
+　　　　因經旨所有而推闡之其發揮尤為平正雖<lb/>
+　　　　當時寜宗闇弱不能因此感悟而其拳拳忠<lb/>
+　　　　藎之意亦良足尚也謹以次編訂釐為四卷<lb/>
+　　　　惟雅頌諸篇講義永樂大典原本失載今無<lb/>
+<pb n="6a"/>
+　　　　　可攷補亦姑仍其缺焉乾隆四十三年六月<lb/>
+　　　　　恭校上<lb/>
+　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

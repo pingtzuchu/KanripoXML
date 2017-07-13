@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>嶺表錄異</head>
+    <p>
+<pb n="KR2k0108_WYG_000-1a"/>
+欽定四庫全書　　　　　　　史部十一<lb/>
+　嶺表錄異　　　　　　　　地理類八<hi>雜記之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹按嶺表錄異三巻舊本題唐劉恂撰<lb/>
+　　　　宋僧贊寧筍譜稱恂於唐昭宗朝出為廣州<lb/>
+　　　　司馬官滿上京擾攘遂居南海作嶺表錄陳<lb/>
+　　　　振孫書錄解題亦云昭宗時人然考書中云<lb/>
+　　　　唐乾符四年又云唐昭宗即位唐之臣子宜<lb/>
+<pb n="KR2k0108_WYG_000-1b"/>
+　　　　有内詞不應直稱其國號且昭宗時人不應<lb/>
+　　　　預稱諡號殆書成於五代時歟粤東輿地之<lb/>
+　　　　書如郭義㳟廣志沈懐逺南越志皆已不𫝊<lb/>
+　　　　諸家所援據者以恂是編為最古而百川學<lb/>
+　　　　海及説郛所載寥寥數頁首尾不完盖僅従<lb/>
+　　　　類書抄撮數條以備一種而恂之原本則已<lb/>
+　　　　久佚宋代太平寰宇記太平廣記太平御覧<lb/>
+　　　　諸書徵引頗夥然尚多挂漏惟㪚見永樂大<lb/>
+<pb n="KR2k0108_WYG_000-2a"/>
+　　　　典者條理較詳尚可編次謹逐巻裒輯而佐<lb/>
+　　　　以旁見諸書者排比其文仍成三巻以復唐<lb/>
+　　　　志之舊雖永樂大典缺巻數函無従考驗或<lb/>
+　　　　不免一二之遺而證以諸書似已十得其八<lb/>
+　　　　九唐人著述𫝊世者稀斷簡殘編已足珍惜<lb/>
+　　　　此更於放失之餘復成完帙使三四百年博<lb/>
+　　　　物君子所未覩者一旦頓還其舊觀彌足寳<lb/>
+　　　　矣恂書體例不可考今不敢強為分門僅使<lb/>
+<pb n="KR2k0108_WYG_000-2b"/>
+　　　　各以類聚庻便省覧其中記載博贍而文章<lb/>
+　　　　古雅於蟲魚草木所錄尤繁訓詁名義率多<lb/>
+　　　　精核葉廷珪海錄碎事釋爾雅魁陸引此書<lb/>
+　　　　瓦隴以證之張世南游宦紀聞引郭璞爾雅<lb/>
+　　　　注犀有三角之文據此書稱有二角以辨之<lb/>
+　　　　厯來考據之家皆資引證盖不特圖經之圭<lb/>
+　　　　臬抑亦蒼雅之支流有禆小學非淺尠也諸<lb/>
+　　　　書所引或稱嶺表錄或稱嶺表記或稱嶺表<lb/>
+<pb n="KR2k0108_WYG_000-3a"/>
+　　　　異錄或稱嶺表錄異記或稱嶺南錄異核其<lb/>
+　　　　文句實皆此書殆以舊本不存轉相稗販故<lb/>
+　　　　流𫝊訛異致有數名惟永樂大典所題與唐<lb/>
+　　　　志合今特従之以存其真焉乾隆四十一年<lb/>
+　　　　五月㳟校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

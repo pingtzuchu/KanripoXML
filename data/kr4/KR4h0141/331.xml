@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_331-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選巻三百三十一<lb/>
+　　玉蕊花類<lb/>
+　　　五言古<lb/>
+　　　　玉蕊花　　　　　　　　　<hi>宋</hi>王　琪<lb/>
+　玉蕊生禁林地崇姿亦貴散漫隂谷中蓬茨復何異清<lb/>
+　芬信幽逺素彩非妖麗蒼烟蔽山日瓊瑶為之晦嵗久<lb/>
+　自扶疎巖深愈凝邃請觀唐相吟俗眼無輕視<lb/>
+<pb n="KR4h0141_WYG_331-1b"/>
+　　　五言律<lb/>
+　　　　玉蕊花　　　　　　　　　<hi>唐</hi>李徳裕<lb/>
+　玉蕊中天樹金閨昔共窺落英閒舞雪宻葉乍低帷舊<lb/>
+　賞煙霄逺前懽歳月移今來想顔色還似憶瓊枝<lb/>
+　　　　<graphic n="KR2517" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2517.png" mimeType="image/png"/>花唐玉蕊花介甫謂之瑒花魯直謂之山礬<lb/>
+　　　　　武昌山中多有之其葉可供染事土人用之<lb/>
+　　　　　釀酒　　　　　　　　　<hi>宋</hi>薛季宣<lb/>
+　<graphic n="KR2517" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2517.png" mimeType="image/png"/>緑吐瑶琨泠然郭外邨仙人来玉蕊文士立山礬芳<lb/>
+<pb n="KR4h0141_WYG_331-2a"/>
+澤留絲素風流付酒尊莫言瑒酷似香處不勝繁<lb/>
+　　七言律<lb/>
+　　　次楊子直使君韻　　　　　<hi>宋</hi>周必大<lb/>
+雪蠒氷絲結素華天孫初織費繅車花開金谷空千種<lb/>
+蕊疉瑶英自一家下比山礬誰薄相上攀瓊木各雄夸<lb/>
+集仙翰苑須公等歸繼唐賢植此花<lb/>
+　　　趙正則彦法司户沿檄而歸玉蕊已過追賦車<lb/>
+　　　　字韻奉答　　　　　　　　周必大<lb/>
+<pb n="KR4h0141_WYG_331-2b"/>
+春深逰客競繁華寳馬香輪帶麴車不為来㸔招隐樹<lb/>
+有誰肯顧野人家飛飛粉蝶須相映皎皎銀蟾色共夸<lb/>
+今得審言詩勝畫傳神何必趙昌花<lb/>
+　　五言絶句<lb/>
+　　　玉蕊　　　　　　　　　　<hi>唐</hi>鄭　谷<lb/>
+唐昌樹巳荒天意眷文昌曉入微風起春時雪滿牆<lb/>
+　　七言絶句<lb/>
+　　　聞揚州唐昌觀玉蕊花拆有仙人逰悵然成二<lb/>
+<pb n="KR4h0141_WYG_331-3a"/>
+　　　　絶　　　　　　　　　　<hi>唐</hi>嚴休復<lb/>
+味道齋心禱玉宸魂銷眼冷未逢真不如滿樹瓊瑶蕊<lb/>
+笑對藏花洞裏人<lb/>
+　　　其二<lb/>
+羽車潛下玉龜山塵界何由覩蕣顔惟有無情枝上雪<lb/>
+好風吹綴綠雲鬟<lb/>
+　　　唐昌觀玉蕊花　　　　　　<hi>唐</hi>武元衡<lb/>
+琪樹年年玉蕊新洞中長閉彩霞春日暮落英鋪地雪<lb/>
+<pb n="KR4h0141_WYG_331-3b"/>
+獻花無復九天人<lb/>
+　　　唐昌觀玉蕊花　　　　　　<hi>唐</hi>楊　凝<lb/>
+瑶花瓊蕊種何年簫史秦嬴向紫煙時控彩鸞過舊邸<lb/>
+摘花持獻玉皇前<lb/>
+　　　唐昌觀玉蕊花　　　　　　<hi>唐</hi>劉禹錫<lb/>
+玉女來㸔玉蕊花異香先引七香車攀枝弄雪時回首<lb/>
+驚怪人間日易斜<lb/>
+　　　其二<lb/>
+<pb n="KR4h0141_WYG_331-4a"/>
+雪蕊瓊葩滿院春衣輕歩歩不生塵君平簾下徒相問<lb/>
+長伴吹簫别有人<lb/>
+　　　唐昌觀玉蕊花　　　　　　<hi>唐</hi>楊巨源<lb/>
+晴空素艶照霞新香灑天風不到塵持贈昔聞將白雪<lb/>
+蕊珠宮裏玉華春<lb/>
+　　　同嚴給事聞唐昌觀玉蕊開近有仙過因成絶<lb/>
+　　　　句二首　　　　　　　　<hi>唐</hi>張　籍<lb/>
+千枝花裏玉塵飛阿母宫中見亦稀應共諸仙鬪百艸<lb/>
+<pb n="KR4h0141_WYG_331-4b"/>
+獨来偷折一枝歸<lb/>
+　　　其二<lb/>
+五色雲中紫鳳車尋仙来到洞仙家飛輪囘處無蹤迹<lb/>
+惟有斑斑滿地花<lb/>
+　　　唐昌觀玉蕊花　　　　　　<hi>唐</hi>王　建<lb/>
+一樹瓏璁玉刻成飄廊㸃地色輕輕女冠夜覓香来處<lb/>
+唯見階前碎月眀<lb/>
+　　　酬嚴給事玉蕊花　　　　　<hi>唐</hi>白居易<lb/>
+<pb n="KR4h0141_WYG_331-5a"/>
+　嬴女偷乗鳳下遲洞中潛歇弄瓊枝不緣啼鳥春饒舌<lb/>
+　青瑣仙郎可得知<lb/>
+　　　　惜玉蕊花有懷集賢王校書起　白居易<lb/>
+　芳意將䦨風又吹白雲離葉雪辭枝集賢讐校無閒日<lb/>
+　落盡瑶花君不知<lb/>
+　　　　玉蕊院真人降　　　　　　<hi>唐</hi>元　稹<lb/>
+　弄玉潛過玉樹時不敎青鳥出花枝的應未有諸人覺<lb/>
+　只是嚴郎不得知<lb/>
+<pb n="KR4h0141_WYG_331-5b"/>
+　　　　送汪太學逰江都　　　　　<hi>明</hi>黄姬水<lb/>
+　薔薇芍藥與茱茰無數芳菲傍酒壚惟有蕃釐仙觀裏<lb/>
+　一枝玉蕊世間無<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選巻三百三十一<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

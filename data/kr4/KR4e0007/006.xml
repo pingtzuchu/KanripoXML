@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>鳳池吟稿巻六</head>
+    <p>
+<pb n="KR4e0007_WYG_006-1a"/>
+欽定四庫全書<lb/>
+　鳳池吟稿巻六　　　　明　汪廣洋　撰<lb/>
+　　七言長律<lb/>
+　　　上夀<lb/>
+節鉞專征握帝符東南黎獻望來蘇長驅白日浮雲浄<lb/>
+直掃滄江積翳無紫極髙秋逢電繞彤霞清曉聽嵩呼<lb/>
+諸侯玉帛承筐篚殊譯河山入版圖五福載陳昭往昔<lb/>
+百男重頌溥歡娛不期赫赫銘彜鼎况乃乾乾究典謨<lb/>
+<pb n="KR4e0007_WYG_006-1b"/>
+虚席每延多士語解衣終見逺人孚周家仁厚流芳盛<lb/>
+端與明時作範模<lb/>
+　　　大祀圜丘喜甘露降應制<lb/>
+至節圜丘祀顥穹先期法駕幸齋宫山紆紫氣排雙闕<lb/>
+日射紅雲擁六龍八表清明羣動喜一誠感格百靈從<lb/>
+露埀甘液凝珠顆松偃香蕤合翠幪凡物均霑神物化<lb/>
+天心允與帝心通絶勝寳甕陳終夕奚待金莖倚半空<lb/>
+漢苑醴泉非㫖美梁園瑞雪謾形容小臣際遇承恩澤<lb/>
+<pb n="KR4e0007_WYG_006-2a"/>
+涓滴何能答九重<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR4e0007_WYG_006-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　鳳池吟稿巻六<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

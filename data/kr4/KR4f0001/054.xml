@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4f0001_WYG_054-1a"/>
+　欽定四庫全書<lb/>
+聖祖仁皇帝御製文集巻二十五目録<lb/>
+　　贊<lb/>
+　　　　至聖先師孔子贊<hi>幷序</hi>
+　　　　顏子贊<lb/>
+　　　　曾子贊<lb/>
+　　　　子思子贊<lb/>
+　　　　孟子贊<lb/>
+<pb n="KR4f0001_WYG_054-1b"/>
+　　　　老子出關圖贊<lb/>
+　　　　畫馬贊<lb/>
+　　　　陳所翁畫龍贊<lb/>
+　　　　筆贊<lb/>
+　　箴<lb/>
+　　　　講官箴<lb/>
+　　　　督撫箴<lb/>
+　　　　祭酒箴<lb/>
+<pb n="KR4f0001_WYG_054-2a"/>
+　　　給事中箴<lb/>
+　　　御史箴<lb/>
+　　　守令箴<lb/>
+　銘<lb/>
+　　　硯銘<lb/>
+　　　鼎銘<lb/>
+　　　屏風銘<lb/>
+　　　鳥鎗銘<lb/>
+<pb n="KR4f0001_WYG_054-2b"/>
+　　　鳥鎗銘<lb/>
+　　　弩銘<lb/>
+　　　弩銘<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

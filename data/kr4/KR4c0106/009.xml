@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4c0106_WYG_009-1a"/>
+䟦<lb/>
+羅昭諫舊有江東甲乙等集讒書後集淮海寓言今不<lb/>
+復見戊申春予承乏新城新故先生里閈也偽梁時辟<lb/>
+太祖諱改名新登今治東鼉江即所謂青白二氣横亘<lb/>
+者也余閒與鄉先生諸生軰數凴眺其上登雞鳴山㝷<lb/>
+先生讀書處弔荒宅於茶枝瓦塊中彷彿如見先生焉<lb/>
+因購求先生遺書得江東集抄本於袁公卓湄嗣復得<lb/>
+甲乙集刻本合讀之雖全集不獲盡覩窺豹者已得一<lb/>
+<pb n="KR4c0106_WYG_009-1b"/>
+斑矣但字多陶隂不可辨遂弗辭鄙陋參互較訂分為<lb/>
+八巻重鋟諸木使天下之人知先生之名重當時聲施<lb/>
+後世者以此即新之人知先生之名重當時聲施後世<lb/>
+者亦以此庚戌桂月渤海張瓚䟦<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

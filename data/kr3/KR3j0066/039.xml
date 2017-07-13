@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>通雅卷三十九</head>
+    <p>
+<pb n="KR3j0066_WYG_039-1a"/>
+欽定四庫全書<lb/>
+　通雅卷三十九　　　　　明　方以智　撰<lb/>
+　　飲食<lb/>
+曰酎曰醖酘也酘以酒重投之也　字林曰酘<hi>音豆</hi>重醢<lb/>
+也誤矣廣韻曰酘重釀酒也宋朱翼仲酒經言齊民要<lb/>
+術桑落酒有六七投故知五酘五投也梁元帝樂府宜<lb/>
+城投酒今行熟停鞍駐馬暫棲宿是張蕐九醖酒所謂<lb/>
+多投漢之酎酒三重酒也酎酒一曰九醖張蕐取其名<lb/>
+<pb n="KR3j0066_WYG_039-1b"/>
+耳馬永卿之七舅何乃以五酘當五木解樂天杭州之<lb/>
+詩致永卿亦疑蘇秀道中之五木邪輦下嵗時記寒食<lb/>
+鈔火後鑽火賜宰臣以下酴醾酒白帖賜李綘酴醾即<lb/>
+重釀酒也荼<graphic n="KR1048" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1048.png" mimeType="image/png"/>花以酒得名而人反謂酒以花得名<lb/>
+上尊𤣥鬯也　漢書賜丞相養秊上尊注糯米酒一斗<lb/>
+為上尊稷為中粟為下師古非之是也自有醇醴豈分<lb/>
+米邪劉𢎞都督荆州舊有齋中酒聽事酒猥酒三品𢎞<lb/>
+禁之齋中上尊也抱朴子云𤣥鬯醇酒也周禮三酒注<lb/>
+<pb n="KR3j0066_WYG_039-2a"/>
+事酒酌有事者之酒其酒則今之醳酒也昔酒今之酋<lb/>
+乆白酒所謂舊醳者也清酒今中山之釀接夏而成内<lb/>
+則酒清白儀禮之醙白酒也<lb/>
+濁醪今浮滓酒也恬酒即甜酒酇白若縹清白□酒也<lb/>
+下酒謂曹床酒也造清陳釀也　酒正五齊泛者如今<lb/>
+宜城醪也醴猶體也成而汁滓相將如今恬酒也盎猶<lb/>
+翁也如今酇白矣緹者成而紅赤如今下酒矣疏曰曹<lb/>
+植酒賦曰宜成醴醪蒼梧縹清若馬融所云今之宜城<lb/>
+<pb n="KR3j0066_WYG_039-2b"/>
+會稽稻米清似宜城以為酒名恬酒於五齊中為恬酇<lb/>
+白蕭何所封地名酇下酒謂曹床下酒其色紅赤故以<lb/>
+緹名之漢時造清熟則滓沈故以況沈齊也按酇白釋<lb/>
+文所謂白□酒也酇有䣜字音□故借之謂酇地出酒<lb/>
+非也古酉時為丣而酉即酒字莤即糟字曹床糟床也<lb/>
+恬即甜字辨才設缸面酒即今之甕頭蟻浮甘酒也説<lb/>
+文□芳萬切酒疾熟也孫愐作□一宿酒也<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>即繫切<lb/>
+䣺也今作瀝<lb/>
+<pb n="KR3j0066_WYG_039-3a"/>
+漂玉漂醪漂言其清也　枚乗賦尊盈漂玉爵獻金漿<lb/>
+梁人<graphic n="KR3799" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3799.png" mimeType="image/png"/>蔗酒也不釋漂玉漂玉見西京雜記元魏大武<lb/>
+賜崔浩漂醪酒清曰漂<lb/>
+千日酒𤣥石中山也　張茂先載文𤣥石從中山酒家<lb/>
+飲歸塟而酒家來發之適醒又有趙英事同南史劉杳<lb/>
+所言程鄉千里酒竇苹引為千日誤矣弇州曰醉十日<lb/>
+而始醒者枸樓國仙漿酒也<lb/>
+酒或呼青州從事或呼顧建康　野客叢談曰徐彭秊<lb/>
+<pb n="KR3j0066_WYG_039-3b"/>
+引湘江野録謂青州從事善造酒考世説則桓公主簿<lb/>
+别酒謂好酒曰青州從事惡者曰平原督郵葢青為齊<lb/>
+郡而平原有鬲縣好酒下臍而惡者在膈也南史顧憲<lb/>
+之令建康甚清都下飲酒者醇輒號為顧建康<lb/>
+索郎桑落之反語也又轉為桑郎　水經注載劉墮者<lb/>
+善釀王公庶友牽拂相招者毎云索郎有顧思同旅語<lb/>
+索郎反語為桑落也智按桑字切索郎耳相傳河中桑<lb/>
+落坊井所釀魏饋黄憲桑落酒庾開府詩蒲城桑落酒<lb/>
+<pb n="KR3j0066_WYG_039-4a"/>
+碧湖雜録言桑隂時製麯鄒陽酒賦關中白薄向説即<lb/>
+指劉白墮居其下人酤其酒千里送人名曰鶴觴其曰<lb/>
+崑崙觴則魏賈鏘蒼頭接黄河水以釀者也吳曾曰舊<lb/>
+京呼桑落為索郎周繇看牡丹贈段成式云寄語集山<lb/>
+呼索郎黎美周詩剰有荔枝供木客新開㭨子勝桑郎<lb/>
+今陽信縣有桑落鎮造桑落酒<lb/>
+蘭陵酒即曲阿酒非金華也　李東壁曰東陽酒即金<lb/>
+華酒古蘭陵也太白所謂即此非矣舊傳曲阿美酒今<lb/>
+<pb n="KR3j0066_WYG_039-4b"/>
+之丹徒武進也又名蘭陵圖經言髙麗山原因女神覆<lb/>
+酒沈入曲阿誕矣曲阿後湖水及髙驪覆船山馬陵溪<lb/>
+水味甘釀酒醇烈其稱蘭陵酒即曲阿也或以嶧縣名<lb/>
+蘭陵李白在山東咏之此説亦非大約詩人隨興不必<lb/>
+苦註也疑耀曰蘭溪河清酒自宋元已有名第其時已<lb/>
+有甘滯不□之訾見范成大驂鸞録<lb/>
+酃淥因作醽緑醽醁　廣韻訓醽為渌酒則以渌為清<lb/>
+酒矣按衡陽縣有酃湖今之酃縣也土人取以釀晉<graphic n="KR1061" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1061.png" mimeType="image/png"/>
+<pb n="KR3j0066_WYG_039-5a"/>
+平吳薦醽酒于大廟荆州記云淥水出豫章康樂縣其<lb/>
+間烏程縣有井官取水為酒與湘東酃酒秊常獻之吳<lb/>
+都賦飛瓊觴而酌酃醁雜俎有緑醽法集韻作<graphic n="KR2837" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2837.png" mimeType="image/png"/>淥水<lb/>
+經注言郴縣有緑水注於耒謂之程鄉置官醖獻同酃<lb/>
+也此説近是或曰酃湖水緑故名酃緑加酉為醁醽耳<lb/>
+若烏程在西浙湖州秦時有程林烏金二家善釀南岸<lb/>
+曰上箬北岸曰下箬故名箬下酒豈與豫章之水相近<lb/>
+邪今廣東又有程鄉縣今一統志兩載之郴州興寧縣<lb/>
+<pb n="KR3j0066_WYG_039-5b"/>
+志有程鄉水醽醁泉則竝稱醽醁<lb/>
+阿剌吉酒燒酒也　飲膳正要燒酒之法自元始有無<lb/>
+功引暹羅國以燒酒復燒入異香二三秊人飲三杯即<lb/>
+醉此法即碧琳腴今曰密林檎宋竇苹酒譜有㰂酒燒<lb/>
+春升菴特賞燒春之名余謂是燒酒耳㰂酒見沈約詩<lb/>
+又皮日休詩云㰂酒三瓶寄夜航五色線引廣韻㰂式<lb/>
+徑反木名山海經木甘為酒式徑反則與<graphic n="KR1634" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1634.png" mimeType="image/png"/>近升菴以<lb/>
+<graphic n="KR1634" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1634.png" mimeType="image/png"/>音瓻鄺氏以㰂音汁孟竒引樂天曰茘枝新熟雞冠<lb/>
+<pb n="KR3j0066_WYG_039-6a"/>
+色燒酒初開琥珀香今廬州有鏡面燒廣州尚茘枝燒<lb/>
+蘆酒咂嘛酒也　謂置蘆植管于中而羣飲也今陜西<lb/>
+家家以此款客洞蠻名此為釣藤酒杜詩黄羊飲不羶<lb/>
+蘆酒還多醉何子元曰謂之瑣力麻酒<lb/>
+百末當是百味　漢景星歌曰百末旨酒布蘭生師古<lb/>
+曰百艸蕐之末龍城録曰太宗賜魏徵詩<graphic n="KR1641" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1641.png" mimeType="image/png"/>渌稱蘭生<lb/>
+翠濤過玉薤玉薤隋煬帝酒名醽渌翠濤皆魏左相酒<lb/>
+名蘭生乃漢武之百味旨酒也駱賓王用百味將愛百<lb/>
+<pb n="KR3j0066_WYG_039-6b"/>
+末新邪漢時酒名如拾遺記之洪梁大招注之楚瀝巵<lb/>
+言未載若西涼蒲萄蒼梧竹葉秦時之二箬與曲阿宜<lb/>
+城郫筒西市睦郎官清等多以地名洞𡨕之瑤琨酒安<lb/>
+期之𤣥碧酒王母飲帝以金液壽光之酒穆王薦琬琰<lb/>
+之膏以為酒則造名耳汶人竇苹酒譜<hi>説郛刻為竇革或作平按字子</hi>
+<hi>野則是苹</hi>稱唐名酒有瓊花露薔薇露玉窟春石煉春燒春<lb/>
+金陵春洞庭春蓬莱春錦波春又如裴晉公魚兒酒武<lb/>
+宗起望仙臺薦無憂酒宋名酒有向恭伯玉井秋香薌<lb/>
+<pb n="KR3j0066_WYG_039-7a"/>
+林秋露段子新嬌黄范才元蕚緑香易毅夫瓮中雲胡<lb/>
+長文銀光范至能雲露楊萬里桂子香冷冽香無功載<lb/>
+周弁翁秋玉永叔氷壺春東坡稱雪釀陸友仁稱瀑釀<lb/>
+今稱南茶北酒京師薏内易滄淶水皆醇玅刀酒則太<lb/>
+甘羊膏醍醐則濃青州從事桑落猶存古名紹興豆酒<lb/>
+青金蕐麻姑紅髙郵蒿酒苦蘇州蔣家三白蕪隂水楊<lb/>
+充之而蘇人但飲老酒江北楚中皆有數十秊臘酒但<lb/>
+以地名不必讓此<lb/>
+<pb n="KR3j0066_WYG_039-7b"/>
+麯<graphic n="KR2592" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2592.png" mimeType="image/png"/>酒母　<graphic n="KR2592" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2592.png" mimeType="image/png"/>魚列切周禮媒氏注今齊人名麴<graphic n="KR2592" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2592.png" mimeType="image/png"/>曰<lb/>
+媒漢書注孟康曰媒酒教小顔亦引齊人以麴餅為媒<lb/>
+書曰爾惟麴蘖蘖即<graphic n="KR2592" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2592.png" mimeType="image/png"/>也李陵傳媒蘖其短字本作酶<lb/>
+正謂釀成禍隙也釋名麯朽也今北方呼酒麴為丘上<lb/>
+聲説文䴭胙哉切□空谷切䴳户八切俱訓餅□也蘖<lb/>
+牙米也□即麴俗作麯金文宗天厯元秊額外課十八<lb/>
+曰酵泰和四秊定糟酵錢酵即孟康之教糟鄭司農作<lb/>
+莤齊民要術曰女麴小麴也今人以朽塊為大麴麴丸<lb/>
+<pb n="KR3j0066_WYG_039-8a"/>
+為小麴釋名一作杇轉注略收麴丘上聲鬱鬱使衣生<lb/>
+杇敗也則以杇為朽字細論丘上聲即曲音之轉猶鞠<lb/>
+之為毬丘之與區也米友石家以麵造麴不用馬蓼等<lb/>
+藥釀酒極醇<lb/>
+□<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>止酒之程也　□奇之切<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>已俱切説文稽<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>止<lb/>
+也一曰木名通釋云□<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>者詘曲不伸之意字書曰曲<lb/>
+枝果也枳椇枝上作房似珊瑚核在其端曰木蜜其木<lb/>
+近酒能薄酒味葢象枳椇之詘曲為酒經程寓止酒之<lb/>
+<pb n="KR3j0066_WYG_039-8b"/>
+義殷俎亦似椇故急就曰稽檠程檠乃<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>之訛耳韓詩<lb/>
+所傳齊桓置酒令大夫後者飲一經程管仲後當飲一<lb/>
+經程飲其半而棄其半趙徳麟曰陶器有酒經晉安郡<lb/>
+人嚮酒云一經二經至五乃五缾也修酌注齊人命浩<lb/>
+酒曰滌如今號酒也<lb/>
+厭□通作饜<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>周之飫歌謂立飲也　國語衛彪傒曰<lb/>
+武王克殷作厭□名之曰支曰天之所支不可壞<hi>音回</hi>也<lb/>
+其所壞亦不可支也夫禮之立成者為飫少曲與焉韋<lb/>
+<pb n="KR3j0066_WYG_039-9a"/>
+昭曰立行禮不坐也立曰飫坐曰宴今人因取觶之儀<lb/>
+號曰立飲説文引詩作飲酒之<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>或作饇秗通作淤後<lb/>
+漢書廣成頌曰淤賜犒功注與飫同書序虞書有藁飫<lb/>
+篇説文□一作□厭□也通作饜<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+大飲為上頓　宋明帝文章志曰王忱嗜酒醉經日自<lb/>
+號上頓世諺以大飲為上頓起自忱也又置食之所曰<lb/>
+頓見鄉語條隋置驛宫艸頓徐度卻掃編曰宋行大禮<lb/>
+猶準唐故事置五使有橋道頓遞使則京尹為之惟頓<lb/>
+<pb n="KR3j0066_WYG_039-9b"/>
+遞司例造酒分餉<lb/>
+步爵猶行酒也　大傳曰禨者醮者有折俎不坐未步<lb/>
+爵不嘗羞注步行也無算爵之禮行爵之後乃得嘗羞<lb/>
+儀禮曰騰羞乃入又之庶羞也禨音暨沐而飲酒也儀<lb/>
+禮崇酒充酒也智按禨字同嘰史大人賦嘰瓊蕐注嘰<lb/>
+小食也即吃之平<lb/>
+茶飲之妙古不如今　元美曰建州之北苑先春龍焙<lb/>
+洪州之西山白露鶴嶺穆州之鳩阬東川之獸目綿州<lb/>
+<pb n="KR3j0066_WYG_039-10a"/>
+之松嶺福州之柏巖雅州之露芽南康之雲居婺州之<lb/>
+舉岩碧乳宣城之陽坡横紋饒池之<graphic n="KR0726" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0726.png" mimeType="image/png"/>芝福合禄合蓮<lb/>
+合慶合蜀州之雀舌鳥觜片甲蟬翼潭州之獨行靈<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+彭州之<graphic n="KR0726" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0726.png" mimeType="image/png"/>崖石蒼臨江之玉津袁州之金片緑英龍安<lb/>
+之騎火涪州之賓化建安之青鳳髓岳州之黄翎毛建<lb/>
+安之石巖臼岳陽之金膏冷此唐宋時産茶地及名也<lb/>
+曰唐茶不重建以建未有竒産也至南唐初造硏膏繼<lb/>
+造蠟面又佳者號京挺宋初置龍鳯模號石乳又有的<lb/>
+<pb n="KR3j0066_WYG_039-10b"/>
+乳白乳而蠟面始下矣丁晉公進龍鳳團至蔡君謨又<lb/>
+進小龍團神宗時復製密雲龍即東坡供佳客者哲宗<lb/>
+改為瑞雲翔龍則益精而小龍團下矣徽宗品茶以白<lb/>
+茶第一又制三色細芽而瑞雲翔龍下矣宣和庚子漕<lb/>
+臣鄭可聞始創為銀絲氷芽葢將已檢熟芽再剔去祗<lb/>
+取其心一縷用清泉漬之光瑩如銀絲方寸新胯小龍<lb/>
+蜿蜒其上號龍團勝雪去龍腦諸香詳趙長白茶史宋<lb/>
+黄儒茶品要録曰精者曰鬭曰亞鬭西溪叢話曰建茶<lb/>
+<pb n="KR3j0066_WYG_039-11a"/>
+嫩者曰烏帶曰白合有十綱以前後分之郭相奎引學<lb/>
+林新編曰茶佳者造於社前其次火前謂寒食前其下<lb/>
+則雨前穀雨前也齊已詩曰髙人愛惜藏巖裡白甀封<lb/>
+題寄火前已亦未知社前佳也今人製茶精不在嫩故<lb/>
+不貴社前火前耳元美又言虎丘天池髙于<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>而六安<lb/>
+龍井下矣宜興老庿後之<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>片豈非第一乎六安貢尖<lb/>
+多致者不一二掬更能養人而又香白若松蘿則動火<lb/>
+矣蜀之蒙頂建之的乳已不必問又況竊山東之石苔<lb/>
+<pb n="KR3j0066_WYG_039-11b"/>
+而元美無功猶信以為茶邪<lb/>
+不托餠也薄夜薄餠也起溲今之蒸酥也　方言餠謂<lb/>
+之飥齊民要術青䴹麥麵堪作飯及餠飥五代史李茂<lb/>
+真傳朕與宫人一日食粥一日食不托不托當時語也<lb/>
+後加䬪飥又作餺飥王闢之澠水燕談曰筵饌以䬪飥<lb/>
+在水飯前近蒲左丞相坐先食之曰世謂䬪飥為頭食<lb/>
+范堯夫謫居永州以書寄人曰此中羊麵無異北方毎<lb/>
+日餐餺飥不知身之在逺束晳言春饅頭夏薄托秋起<lb/>
+<pb n="KR3j0066_WYG_039-12a"/>
+溲冬湯䬽起溲即今發酵入油糖之酥也湯䬽以湯沃<lb/>
+之襍俎作薄衍陰復春又作薄持歸田録作薄持疑即<lb/>
+今煎夾子陳無功所載一作薄扞荀氏四時列饌傳夏<lb/>
+祀以薄夜代饅頭夾子者殆今之合餠乎六朝又呼餠<lb/>
+為䬳南史郭原平感文帝文帝崩月食麥䬳一枚齊衡<lb/>
+陽王鈞生母病不肯食五色䬳林洪引崔元亮方作地<lb/>
+黄䬪飩則不飥之訛也<lb/>
+冰糖糖霜之凝者繭糖窠絲糖也　見齊民要術煎甘<lb/>
+<pb n="KR3j0066_WYG_039-12b"/>
+蔗成糖霜凝為冰糖窠絲糖今内府有之後漢顯宗紀<lb/>
+有猊糖獅子乳糖也乳糖今曰吹糖王灼有糖霜譜遂<lb/>
+寧有糖冰<lb/>
+牢九乃牢丸也　段成式食品有籠上牢丸湯中牢丸<lb/>
+元美曰即子瞻誤以為牢九者也東坡惠州詩豈惟牢<lb/>
+九薦古味要使真然晉已誤用之束晳賦終嵗飽食惟<lb/>
+牢九乎注牢九饅頭類永叔歸田録亦疑之今陰氏韻<lb/>
+書收此事入九字下皆相沿未考智按所謂籠上牢丸<lb/>
+<pb n="KR3j0066_WYG_039-13a"/>
+乃饅頭扁食之類湯中牢丸乃今元宵湯丸或水餃餌<lb/>
+之類説文鬻粉餠也即餌後謂之粉角北人讀角如矯<lb/>
+遂作餃餌<lb/>
+粔籹膏環安乾饆饠餦餭環餅粺<graphic n="KR2484" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2484.png" mimeType="image/png"/>
+                    <graphic n="KR2193" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2193.png" mimeType="image/png"/>
+                    <graphic n="KR1979" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1979.png" mimeType="image/png"/>
+                    <graphic n="KR2571" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2571.png" mimeType="image/png"/>
+                    <graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>皆寒具<lb/>
+粣子也　桓譚新論曰孔子匹夫莫不祭之下及酒脯<lb/>
+寒具致敬而去楚辭粔籹注吳謂之膏環亦曰寒具通<lb/>
+俗文曰寒具謂之餲一曰安乾盧湛祭法曰四時祠皆<lb/>
+用安乾粔籹之倫干寳周禮注祭用<graphic n="KR2193" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2193.png" mimeType="image/png"/>
+                    <graphic n="KR1979" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1979.png" mimeType="image/png"/>
+                    <hi>音連蔞</hi>晉呼為<lb/>
+<pb n="KR3j0066_WYG_039-13b"/>
+環餠晉時客食寒具汚桓𤣥衣𤣥自是不設<graphic n="KR2571" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2571.png" mimeType="image/png"/>
+                    <graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>劉禹<lb/>
+錫佳話以寒具為捻頭通鑑有茗粣一省曰粣<hi>色則反</hi>粽<lb/>
+也南史虞悰作扁米粣即今饊子一曰寒具一曰粔籹<lb/>
+一曰饆饠升菴以饆饠為波波磨磨粔籹則紐形者饆<lb/>
+饠有餡者餦餭則粉和餳者古所謂餈餌也此皆可充<lb/>
+乾物若京飩糯糍則必濡濕而熱食者南粤志閩中十<lb/>
+月一日作糯糍或京飩以祀祖告冬楚是日亦裹京飩<lb/>
+充節物嵗時記是日黍臛荆楚十月一日食燋糟或作<lb/>
+<pb n="KR3j0066_WYG_039-14a"/>
+燋糖糯糍今擣糍成餠者也京飩今之渾飩亦曰餃餌<lb/>
+時珍以捻頭環餅寒具粺<graphic n="KR2484" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2484.png" mimeType="image/png"/>為一物寒具一曰巨勝奴<lb/>
+郎瑛注繁祈雨引祭之以露毋<graphic n="KR1246" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1246.png" mimeType="image/png"/>注云禮有<graphic n="KR1246" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1246.png" mimeType="image/png"/>食乃飴<lb/>
+米□也黄朝瑛曰資暇集云蕃中畢氏羅氏好□此味<lb/>
+因謂之畢羅後人加食為饆饠又元和中有姦僧鑒虛<lb/>
+以羊之六府特造一味時號之曰鑒虛又加食為<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+然則糊餅謂之糊可知矣玉篇䭅<hi>音胡</hi>餅也諧聲别畫耳<lb/>
+柯古曰格糈粰<graphic n="KR2484" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2484.png" mimeType="image/png"/>饊也䭞䭣<graphic n="KR3000" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3000.png" mimeType="image/png"/>
+                    <graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>䬧餌也賓退録以糈<lb/>
+<pb n="KR3j0066_WYG_039-14b"/>
+專為神供見山海經粣即饊字禮記餈即糍<lb/>
+糊皴餅上之紋也糊餅蒸餅也　老學菴筆記楊朴詩<lb/>
+數個糊皴徹骨乾一壺村醪膠牙酸南楚新聞亦云一<lb/>
+楪羶根數十皴盤中猶自有紅麟紅麟當作紅綾葢唐<lb/>
+進士有紅綾餅餤市中餅或作豚耳狗舌之形見束晳<lb/>
+賦所謂安乾也顧遯園載南唐烈祖受禪有鷺鷥餤駞<lb/>
+蹄餤瓏璁餤子母饅䬦即饅頭餤非毛詩之餤葢與餡<lb/>
+通歐公所笑酸䭑為餕餡者燕翼貽謀錄言仁宗誕日<lb/>
+<pb n="KR3j0066_WYG_039-15a"/>
+賜包子即饅頭<lb/>
+逰水委綖即水引也今之切麵也　𢎞君舉食檄云催<lb/>
+厨人作茶餅剛輭中適然後引水傅𤣥七謨曰蕤賓之<lb/>
+時麵忽遊水而清引進飛羽之薄衍即束晳所云弱似<lb/>
+春綿皆謂今之切麵也六朝人常言水引餅齊書太祖<lb/>
+好水引餅何戢令婦自執事設上即水麵也程大昌載<lb/>
+毛植之為蝴蝶麵今山陜有此語<lb/>
+餫飩本渾沌之轉鶻突亦混沌之轉　程大昌言餛飩<lb/>
+<pb n="KR3j0066_WYG_039-15b"/>
+出于渾氏屯氏智按乃混沌之轉食物志言蘇家餛飩<lb/>
+可以瀹茗鼠璞戴埴何疑其食邊邪煑切麵過冷水重<lb/>
+作湯下之言其清也近時又名鶻突釋稗曰鶻者渾之<lb/>
+入突者暾之入夢蕐録有餶飿菜指南引名物考有骨<lb/>
+董羮燒樹根為榾柮升菴作□濁凡渾沌餛飩糊塗鶻<lb/>
+突榾柮皆聲轉<lb/>
+蜀有竹蜜石崖有白蜜高昌國有刺蜜　梁四公子紀<lb/>
+高昌國貢蜜杰<hi>音曷按是沈約所造</hi>公曰刺蜜是鹽城所産非南<lb/>
+<pb n="KR3j0066_WYG_039-16a"/>
+平城者竹蜜于竹上結窠者今火州産羊刺刺上生蜜<lb/>
+揚州人避楊行密名故呼蜜為蜂糖劉夢得以蜜名甘<lb/>
+少府郭璞注方言黑蜂穿竹木作孔亦有蜜者或呼笛<lb/>
+師蜜藏器曰方言竹蜂留師誤也本艸遂列留師蜜<lb/>
+看食飣坐也角子小粽也錮子粘果油燋物膸餅䭔饠<lb/>
+也　老學菴筆記曰淳熙間集英殿宴金國人使九盞<lb/>
+第一肉鹹豉第二爆肉雙下角子第三蓮花油餅骨頭<lb/>
+第四白肉糊餅第五羣<graphic n="KR0726" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0726.png" mimeType="image/png"/>炙大平畢羅第六假圓魚第<lb/>
+<pb n="KR3j0066_WYG_039-16b"/>
+七柰花索粉第八假沙魚第九水飰鹹䜴旋鮓瓜薑看<lb/>
+食棗䭅子膸餅白胡餅環餅智按蜀人以蒸餅為䭔<hi>音堆</hi>
+雲溪友議曰李日新題仙娥驛詩曰商山食店大悠悠<lb/>
+陳黯䭔饠古䭃頭更有鬲中牛肉炙尚盤數臠紫光毬<lb/>
+䭃頭即捻頭也看食今人列圍卓上者古稱釘坐謂釘<lb/>
+而不食者唐劉逺人目為釘坐棃宋祁益部方物圖云<lb/>
+海紅豆蜀人用為果釘嵇含曰人面子仁南海用為飣<lb/>
+餖<lb/>
+<pb n="KR3j0066_WYG_039-17a"/>
+牙盤看食盤也看卓一名香藥卓　唐少府監御饌器<lb/>
+用九飣食以牙盤九枚裝食亦謂之看食演繁露曰據<lb/>
+此即是以牙飾盤矣此説拘甚或曰牙盤謂其色白也<lb/>
+一曰看食飣坐如今粘果高卓牙列在前謂之牙盤隋<lb/>
+唐皆以牙盤進食高似孫言奉祀攢陵得牙盤食有薄<lb/>
+餌甘脆食經言五色小餅盛盒累積曰鬭飣今曰春盛<lb/>
+是也因作餖飣鼠璞曰香藥卓乃看卓也坡公與章質<lb/>
+夫帖云公會用香藥卓皆珍物為番商坐賈之苦今公<lb/>
+<pb n="KR3j0066_WYG_039-17b"/>
+宴以香藥别卓為盛禮私家亦用之<lb/>
+寛焦今之薄脆　真珠船曰今三原市賣餅有曰側厚<lb/>
+按東京夢蕐録糊餅店賣寛焦側厚乃知其稱有自即<lb/>
+武林舊事所謂寛薄脆者今但名薄脆髙似孫以安乾<lb/>
+即薄脆一名甘脆范注祠制曰孟夏祭有甘脆<lb/>
+䴹<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <graphic n="KR3204" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3204.png" mimeType="image/png"/>䵃麧皆麥屑也　皇甫謐曰況臣糠䵃糅之<lb/>
+雕胡䵃音鑛麥之麩殻也安慶緒淘牆䴬䴬麥殻破碎<lb/>
+者也要術云䴹<hi>音果</hi>者<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>音涓</hi>也唐將作寺丞以課麩<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>遲<lb/>
+<pb n="KR3j0066_WYG_039-18a"/>
+晚類篇曰麥莖也唐韻作䅌<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>䵀<hi>音滴瑣</hi>麥覈屑也見説<lb/>
+文漢書食糠麧<hi>音紇</hi>注今京師謂粗屑為麧頭陳平𫝊食<lb/>
+糠覈杜詩黎民糠麧窄韓詩士不厭糠籺籺覈即麧也<lb/>
+亦作<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>通作紇<lb/>
+甘麮煑麥為甘粥也　小顔曰麮之言齲也齲爛也一<lb/>
+曰麮者糗也糗亦作<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>今人通以麨<hi>音炒</hi>米麥為之麮甘<lb/>
+麮<hi>丘舉</hi>以蜜和糗味甘也孫愐曰麮麥粥汁也麨亦作<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+荀子曰夏日則與之瓜麮<lb/>
+<pb n="KR3j0066_WYG_039-18b"/>
+<graphic n="KR0673" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0673.png" mimeType="image/png"/>
+                    <graphic n="KR1464" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1464.png" mimeType="image/png"/>言其膏<graphic n="KR1464" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1464.png" mimeType="image/png"/>也　周禮玉人注瓚讀為<graphic n="KR0673" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0673.png" mimeType="image/png"/>
+                    <graphic n="KR1464" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1464.png" mimeType="image/png"/>
+                    <hi>作旦反</hi>之<lb/>
+<graphic n="KR1464" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1464.png" mimeType="image/png"/>疏云醢人有<graphic n="KR0673" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0673.png" mimeType="image/png"/>食漢時有膏<graphic n="KR1464" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1464.png" mimeType="image/png"/>按<graphic n="KR0673" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0673.png" mimeType="image/png"/>即饘字粥也釋<lb/>
+名曰粥粥然也一曰糜周謂之饘宋謂之糊説文以糊<lb/>
+為奇食而以鬻為饘粥之糊説文又有饡以羮澆食也<lb/>
+以作旦之音則<graphic n="KR1464" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1464.png" mimeType="image/png"/>當是饡今人以食物濡湯汁或醬醋<lb/>
+曰饡周禮四飲注漿今之酨漿也酏今之粥疏酨<hi>昨再切</hi>
+言載米汁漢時名為酨漿内則有黍酏酏飲粥之清也<lb/>
+涼州異物志高昌以粥為羅闍<lb/>
+<pb n="KR3j0066_WYG_039-19a"/>
+古人多麥飯故説文著其方言曰䬯曰餥曰䭡䭓曰飵<lb/>
+皆相謁食麥之名也　説文䬯<hi>奴亷切</hi>餥<hi>非尾/切</hi>飵<hi>在各切</hi>䭡<lb/>
+<hi>焉囷切</hi>䭓<hi>五困切</hi>不知于食麥飯一事而各記其方言何詳<lb/>
+也葢古多北人北人食米飯者少耳今山陜之民有終<lb/>
+身不識大米飯者飯作餅飰<lb/>
+熬煑之麥曰逢　朝事之籩其實麷蕡注熬麥也河間<lb/>
+以北煑穜麥賣之名曰逢賈公彦引漢法證麷是熬煮<lb/>
+之麥<lb/>
+<pb n="KR3j0066_WYG_039-19b"/>
+侊飯盛饌也　國語侊<hi>音肱</hi>飯不及壺餐又作觥飯觥本<lb/>
+作觵周禮閭胥比觵是也其狀觵觵然今猶得古玉觥<lb/>
+者葢觶類是也觥飯葢行觴而後飯也今吳下猶然中<lb/>
+原韻讀觥如公<lb/>
+青䭀飯烏飯也　今釋家四月八作或以烏桕或以楓<lb/>
+一曰青精飯綱目作□飯乃䭀訛也智謂因青精而造<lb/>
+耳吳曾曰神仙王褒傳太極真人以太極青精飯方授<lb/>
+之褒鍊服五秊色如少女杜詩惜無青精飯使我顔色<lb/>
+<pb n="KR3j0066_WYG_039-20a"/>
+好是也青精用南天燭葉染之所謂烏飯樹也林洪以<lb/>
+南燭即旱蓮草誤矣沈括云今人家所種之天竹有紅<lb/>
+子者智按不然登真隠訣<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>飯方始創䭀字<lb/>
+雲子飯言其白也　漢武内傳煉丹以赤者為風實白<lb/>
+者為雲子杜詩飯抄雲子白宋許顗彦周詩話曰雲子<lb/>
+雨也言如雨㸃耳出荀子雲篇智按荀子賦篇託地而<lb/>
+逰宇友風而子雨可以餖飣解雲子乎葛洪丹經用雲<lb/>
+子碎雲母也今蜀中有碎礫狀如米粒圓白雲子石也<lb/>
+<pb n="KR3j0066_WYG_039-20b"/>
+可證稱雲子者方言耳杜偶用之<lb/>
+紅白相雜曰桃花米　崔祖思稱宋武帝節儉有五盞<lb/>
+盤桃花米飯問奇廣曰紅白雜也智按是遲芒稻其米<lb/>
+赤號桃花米或曰赤米早稻名鬼見愁<lb/>
+後飯者先服藥也　岐伯曰病名酒風治之以澤㵼术<lb/>
+各三五分糜銜五分合以三指撮為後飯注曰先服藥<lb/>
+而從容飯也<lb/>
+温淘滲溲麵也　溲麵説文从泔也或作溞即古所謂<lb/>
+<pb n="KR3j0066_WYG_039-21a"/>
+<graphic n="KR0949" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0949.png" mimeType="image/png"/>也今南京皆以温麵為温淘東坡志林曰南都撥心<lb/>
+麵作槐芽温淘糝是也<lb/>
+輕髙麵發酵起麵也　蕭子顯齊書曰永明九秊正月<lb/>
+詔大廟四時祭薦宣皇帝起麵餅注曰今發酵也智按<lb/>
+韋巨源食單有婆羅門輕髙麵正籠蒸饅頭發酵浮起<lb/>
+者也賈公彦解<graphic n="KR0755" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0755.png" mimeType="image/png"/>食為起膠餅即此遼元志有酵課按<lb/>
+齊民要術奇字有酵餢<graphic n="KR2754" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2754.png" mimeType="image/png"/>糭䊦<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>籷□漤元美亦抄之<lb/>
+幷云無音其别條乃云餢<graphic n="KR2754" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2754.png" mimeType="image/png"/>起麵也陳懋仁曰海篇作<lb/>
+<pb n="KR3j0066_WYG_039-21b"/>
+倍偷餅也元美書多令客纂集得毋誤見上文之酵起<lb/>
+麵也而遂以下文之餢<graphic n="KR2754" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2754.png" mimeType="image/png"/>合之乎以義論之賈氏甞以<lb/>
+酻饇為泡起而轉其字為餢<graphic n="KR2754" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2754.png" mimeType="image/png"/>葢亦發酵之類是也<lb/>
+裹精菜餗蒸也　醢人<graphic n="KR0755" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0755.png" mimeType="image/png"/>食糝食賈公彦曰以酒<graphic n="KR0755" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0755.png" mimeType="image/png"/>為<lb/>
+餅若今起膠餅鄭司農曰糝食菜餗蒸疏曰若今之煑<lb/>
+菜謂之蒸菜涪翁雜説曰起膠餅今之炊餅蒸菜葢今<lb/>
+裹鯖智按新安與江左皆作蒸菜起膠即起麵膠即酵<lb/>
+也裹鯖葢麵煎鱠也唐元澹謂狄仁傑曰脯脂膎胰參<lb/>
+<pb n="KR3j0066_WYG_039-22a"/>
+术芝桂膎胰謂以菜炒肉襍膓胰之類也膎一作鮭注<lb/>
+東人謂之鮭菜京山以鮭菜即蝦菜<lb/>
+肺䐣肉蒸菜也　盧湛祭注曰四時祭皆用肺䐣<hi>音損</hi>切<lb/>
+熱肉于血中和也釋名肺䐣贊也全米糝之如膏饡也<lb/>
+即今蒸菜<lb/>
+和菜謂之冒　七發肥狗之和冒以山膚注即七啟𤣥<lb/>
+熊青膚之膚隋志山膚水豢襍俎載伊尹干湯言具三<lb/>
+羣之蟲又云五味三材九沸九變三臡七葅具酸楚酪<lb/>
+<pb n="KR3j0066_WYG_039-22b"/>
+楚苗挫槽山膚大苦或曰山膚石耳之類爾雅蘦大苦<lb/>
+或曰荼也<lb/>
+鬱養彊孰冬生茹也　貢禹傳言藴火所生鬱養彊熟<lb/>
+諸菜安帝永初六秊詔凡供薦新味鬱養彊孰多非其<lb/>
+節史照改彊上聲為去蜀音也今北京元旦獻牡丹花<lb/>
+一切瓜豆皆孰正地炕蓄火逼成冬生之菜<lb/>
+芥荃芥脃也　説文䵵一曰短黑讀若以芥為虀名曰<lb/>
+芥荃初刮切按荃訓芥脃也即今之芥辣脃俗作脆<lb/>
+<pb n="KR3j0066_WYG_039-23a"/>
+幽菽具染豆䜴也　説文謂䜴為配鹽幽菽者鹹䜴也<lb/>
+吕覽有具染注醬豆䜴也史㳺始言蕪荑鹽䜴史貨殖<lb/>
+言鹽䜴千答沒録言前隊大夫范仲公鹽䜴蒜果供一<lb/>
+籩善幽者不外醋鹽醬柯古曰醦醶䣳䤕醅也䴛<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+<graphic n="KR3380" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3380.png" mimeType="image/png"/>鹽也䤉<graphic n="KR1997" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1997.png" mimeType="image/png"/>䤅<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <graphic n="KR1753" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1753.png" mimeType="image/png"/>醬也此唐人字書所編醅謂酸酒<lb/>
+也<lb/>
+冥果蜜煎藏果也　三蒼曰靘冥果青色也冥果蜜煎<lb/>
+果也以銅青浸之加蜜而冥於缶中故曰冥果與幽菽<lb/>
+<pb n="KR3j0066_WYG_039-23b"/>
+同按古以冥為鼏猶幕之也故大招用<graphic n="KR2597" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2597.png" mimeType="image/png"/>勺長楊用<graphic n="KR2696" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2696.png" mimeType="image/png"/>
+蠡鼏从鼎而葢之省作冥耳非冥漠意<lb/>
+祭青今之蜜青梅類也杏炙今之杏酪也　成式食品<lb/>
+有祭青杏炙即今之杏酪也陸翽鄴中記曰寒食三日<lb/>
+煮粳米及麥為酪搗杏仁煮粥玉燭寳典曰今人麥粥<lb/>
+研杏仁為酪今京師勛戚猶然<lb/>
+體薦言全蒸也折俎言半體房蒸也齊蒸言列饌也<lb/>
+烝亦作脀周語曰禘祀之事則有全烝王公立飫則有<lb/>
+<pb n="KR3j0066_WYG_039-24a"/>
+房蒸親戚冥饗則有肴蒸全蒸全體也房蒸半體也故<lb/>
+曰體薦肴蒸骨折也故曰折俎士會曰王享有體薦宴<lb/>
+有折俎公當享卿當宴即儀禮所謂脀體儀也馮嗣宗<lb/>
+曰有薦爓乃中古禮有薦熟乃近代禮宋以重席所設<lb/>
+為體薦折俎其代餉亦云折俎乃借義也大昌駁之謂<lb/>
+當音浙拘矣<lb/>
+膹膾肌䐞細切之<graphic n="KR0796" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0796.png" mimeType="image/png"/>也　肌膚也祭有膚鼎少牢饋食<lb/>
+禮雍人倫膚肉表皮裏曰䐞<hi>而灼切</hi>山谷曰脆腝也膹<hi>房吻</hi>
+<pb n="KR3j0066_WYG_039-24b"/>
+<hi>切</hi>粗切生肉也膾細切生肉也成式膾有萬鑿蟁足言<lb/>
+其細也説文膹<graphic n="KR0796" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0796.png" mimeType="image/png"/>也虞悰曰何曾食疏有黄頷<graphic n="KR0796" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0796.png" mimeType="image/png"/>康成<lb/>
+注膷臐膮今時<graphic n="KR0796" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0796.png" mimeType="image/png"/>
+                    <hi>怱各切</hi>又作臛説文曰臛肉□也通鑑<lb/>
+起麵餅鴨<graphic n="KR0796" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0796.png" mimeType="image/png"/>禰衡在黄祖艨上會設黍臛衡先自飽食<lb/>
+不顧衆賓惟舉摶黍戲弄臛羮柯古曰膜膎<graphic n="KR4108" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4108.png" mimeType="image/png"/>脹膰肉<lb/>
+也<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>䐞膜也臇<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>䐣臛也宋楊伯嵒臆乗曰内則去其<lb/>
+皽注云皮肉上魄莫也正謂膜<lb/>
+膞胳腿肉也　饋食禮升羊豕肩臂臑<hi>音閙</hi>膞<hi>音/團</hi>胳<hi>音各</hi>葢<lb/>
+<pb n="KR3j0066_WYG_039-25a"/>
+髀下為膞猶前足之臂膞下為胳猶前足之臑也説文<lb/>
+曰膞<hi>孫氏市沇切劉氏音純</hi>切肉也鄉飲士虞特牲皆作肫然注<lb/>
+則曰後脛骨二膞胳也葢注音猶未舛誤胳字饋食作<lb/>
+胳少牢禮作骼當以胳為正考工記旊人器中膞膞崇<lb/>
+四又方四寸鄭氏讀如輇既祔泥而轉其均凱膞其側<lb/>
+以擬度端其器也髙于此則垺<hi>普回切</hi>不能相勝厚于此<lb/>
+則火氣不交因取式焉<lb/>
+<graphic n="KR2042" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2042.png" mimeType="image/png"/>室之肉燒肉也　周禮朝事之籩注鮑者於<graphic n="KR2042" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2042.png" mimeType="image/png"/>室中<lb/>
+<pb n="KR3j0066_WYG_039-25b"/>
+乾之出于江淮疏云<graphic n="KR2042" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2042.png" mimeType="image/png"/>室者<graphic n="KR2042" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2042.png" mimeType="image/png"/>土為室也説文<graphic n="KR2042" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2042.png" mimeType="image/png"/>以火<lb/>
+焙肉也本作<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>集韻或作煏又作㷶陸務觀所記爆肉<lb/>
+即此少儀燔亦如之注燔燒肉也曲良翰能驢駿馳峰<lb/>
+炙即焙肉<lb/>
+汁謂之湆湆滓曰䏙湆凝曰定　公食大夫禮云賓三<lb/>
+飯以湆醬鄭云每飯歠湆以殽擩醬食正饌也湆肉汁<lb/>
+也亦曰定大羮之定言肉汁凝定也湆音泣博雅曰<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+謂之䏠造䏠竝造<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>也集韻因作湆曰當從泣肉不當<lb/>
+<pb n="KR3j0066_WYG_039-26a"/>
+從水音因説文湆幽濕也徐鍇曰今人多言浥湆韻略<lb/>
+以湆為肉羮誤矣然則十三經監本之湆亦誤矣今章<lb/>
+黼韻學集成從之説文<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>血醢也他感切禮記有<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>醢<lb/>
+以牛乾脯梁□鹽酒也鉉曰䏙肉汁滓也智斷曰䏙即<lb/>
+湆之滓定乃湆之凝者湆葢汁之通稱<lb/>
+聶切曰䐑　内則皆聶而切之説文䐑<hi>直涉切</hi>薄切肉也<lb/>
+集韻或作<graphic n="KR3060" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3060.png" mimeType="image/png"/>亦作<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+腯胲肥肉也　肥盛為腯腯方言曰<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>腯也腯郭璞音<lb/>
+<pb n="KR3j0066_WYG_039-26b"/>
+腞左傳音突豚曰腯肥莊子曰臘者之腯胲腯亦音盾<lb/>
+今人但知元凱音突而不知彖遯楯三音之相因<lb/>
+血羮曰䘓今謂之□　説文䘓羊凝血也苦紺切徐曰<lb/>
+宋時大官作䘓削藕皮血不凝知藕散血然則䘓血羮<lb/>
+也今説文無徐語直翁必見别本凡夫直未見也智按<lb/>
+俗謂凝血皆曰□考説文□血也春秋傳士刲羊亦無<lb/>
+□也呼光切俗轉為去聲耳方言□兄也荆揚謂之□<lb/>
+桂林謂之<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>注未詳智以古兄如荒石經母兄即無遑<lb/>
+<pb n="KR3j0066_WYG_039-27a"/>
+葢謂□乃□也<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>音兮即血之聲<lb/>
+腹下肥曰腴　山谷曰燕人膾鯉方寸切其腴以啗所<lb/>
+貴此出天官籩人注證膴亦是腹腴子美詩云偏勸腹<lb/>
+腴貴秊少按説文螽醜螸垂腴也腹下肥也今人曰魚<lb/>
+肋廣川跋孔戣志言隋煬貢海錯鮸魚蝦子含肚膾蜜<lb/>
+擁劍桂蠧鯉腴動輒千品鯉腴專取鯉肋或<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>之以獻<lb/>
+九成言江鄰幾襍志云丁正臣齎玉腴來館中沈休文<lb/>
+云福州人謂之佩羮即今魚脬是也成式言細飄鰾<lb/>
+<pb n="KR3j0066_WYG_039-27b"/>
+漢有稱羊豬戔者唐謂羊豬脂為<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>　考工博以帴注<lb/>
+謂如俴淺之淺又為羊豬戔之戔疏曰俗以羊豬脂為<lb/>
+<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>素干反故知漢唐有此語<lb/>
+烏翅乾脯也煦煅即腶脩也　庖人注士虞禮注皆曰<lb/>
+今凉州烏翅疏曰漢時乾脯似之如今閩中千里脯色<lb/>
+黝紫江楚醬脯色黑類也方言曰吳越曰煦煅乾慘也<lb/>
+禮注薄析曰脯棰而施薑桂曰腶脩左朐朐謂中屈也<lb/>
+天官庖人注腒乾雉䐹乾魚刑膴䐑肉大臠而腊人膴<lb/>
+<pb n="KR3j0066_WYG_039-28a"/>
+胖注則曰魚之反覆可謂無定解矣説文膴無骨腊也<lb/>
+揚雄説烏腊也周禮有膴判判即胖誤也腒字曰北方<lb/>
+謂烏腊曰腒傳曰堯如腊舜如腒智謂此言其乾瘠也<lb/>
+總不必分烏腊雉腒皆指乾肉腊以析言腒即中屈之<lb/>
+煦漢曰解肆見周禮乾肉注疏<lb/>
+言寒者凍肉之類也　鹽鐵論羊淹雞寒子建寒鼈七<lb/>
+啟寒龜升菴所謂今人改寒為搴者也其曰本韓雞為<lb/>
+韓國之法則迂矣嵗時記雞寒狗熱是其意也周禮六<lb/>
+<pb n="KR3j0066_WYG_039-28b"/>
+飲有凉注如今寒粥<lb/>
+膾大者曰軒細者曰㔅亦曰纖　南史趙鬼食鴨㔅諸<lb/>
+鬼盡著調㔅與調叶當音蕭細剉肉糅以薑桂也葢即<lb/>
+説文䐹䐹之䐹鄭𤣥誤解定為乾魚耳軒見内則雞纖<lb/>
+細擗其腊令纖兔亦如之見釋名今謂之雞䐫肉䐫魚<lb/>
+䐫筆乗曰特牲饋食佐食舉幹注牲肉長脇也可證幹<lb/>
+訛為軒又禮記考異軒或作胖<lb/>
+熱洛何烙腥食也　唐𤣥宗射生官射鮮鹿血煮其膓<lb/>
+<pb n="KR3j0066_WYG_039-29a"/>
+食之謂之熱洛何賜安禄山今塞外皆然南方猺獞亦<lb/>
+唤肉生雖炮炙之然猶有血謂之肉脆如廣東人食魚<lb/>
+生以為美<lb/>
+鮨即鮓魚鮓曰藏魚蟹醢曰蟹胥　爾雅鮨音耆乃鮓<lb/>
+字也説文鮓藏魚也周禮庖人注曰若荆州之鮓魚青<lb/>
+州之蟹胥説文胥蟹醢也襍俎有蟹<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+豆乳脂酥即豆腐也　物性志曰豆以為腐傳自淮南<lb/>
+王以豆為乳脂為酥唐宋本艸止有豆黄卷乃以生豆<lb/>
+<pb n="KR3j0066_WYG_039-29b"/>
+為芽蘖也宋時稱之按老學菴筆記仲殊長老上堂辭<lb/>
+衆自縊而舎利五色性嗜蜜豆腐麵觔牛乳皆蜜漬東<lb/>
+坡為作安州老人食蜜歌<lb/>
+食單食經好事者為之茶酒之書筆乗詳矣　何曾有<lb/>
+安平公食單韋僕射巨源有燒尾宴食單段丞相文昌<lb/>
+有食經五十卷號鄒平公食憲艸庖榜曰煉珍堂在途<lb/>
+曰行珍館虞悰有食方謝諷有食經各十卷孟蜀食典<lb/>
+一百卷酉陽泗水所載隨時自創耳筆乗曰癸未讀田<lb/>
+<pb n="KR3j0066_WYG_039-30a"/>
+子秇日札載宋大隠朱翼中北山酒經三卷乃知即翼<lb/>
+中作然又有李保續北山酒經三卷前此更有汝陽王<lb/>
+璡甘露經王績追焦革釀法為酒經又采儀狄杜康以<lb/>
+來善釀者為酒譜竇子野亦有酒譜酒録一卷胡節還<lb/>
+醉鄉小略五卷白酒方一卷食圖四時酒要一卷藏釀<lb/>
+方一卷劉炫酒孝經一卷貞元飲略三卷皇甫崧醉鄉<lb/>
+日月三卷陽曾龜令圃芝蘭集一卷小酒令一卷同塵<lb/>
+先生庭萱譜一卷近又有酒史三卷田汝成醉鄉律令<lb/>
+<pb n="KR3j0066_WYG_039-30b"/>
+一卷陸羽茶經三卷茶記三卷皎然茶訣三卷陸魯望<lb/>
+茶品一篇温庭筠採茶録三卷張又新煎茶水記一卷<lb/>
+蜀毛錫茶譜一卷丁謂北苑茶録三卷又北苑拾遺一<lb/>
+卷蔡宗顔茶山接對一卷又茶譜遺事一卷北苑煎法<lb/>
+一卷曾伉茶苑總録十四卷茶法易覽十卷蔡襄有進<lb/>
+茶録黄儒有品茶要録熊蕃有宣化北苑貢茶録熊客<lb/>
+有北苑别録田秇蘅有煮茶小品客坐贅語載近時茶<lb/>
+酒之名頗㚌<lb/>
+<pb n="KR3j0066_WYG_039-31a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3j0066_WYG_039-31b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　通雅卷三十九<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

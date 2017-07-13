@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>淡然軒集</head>
+    <p>
+<pb n="KR4e0222_WYG_000-1a"/>
+欽定四庫全書　　　　集部六<lb/>
+　淡然軒集　　　　　　　别集類五<hi>明</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案淡然軒集八巻明余繼登撰繼登<lb/>
+　　　　字世用交河人萬厯丁丑進士官至禮部尚<lb/>
+　　　　書謚文恪是集分奏疏二巻序記三巻誌銘<lb/>
+　　　　及雜文二巻詩一巻繼登卒後其友人馮琦<lb/>
+　　　　選而刻之繼登當神宗朝以災異屢見上疏<lb/>
+<pb n="KR4e0222_WYG_000-1b"/>
+　　　　極陳一切誅求開採之害民者又請神宗躬<lb/>
+　　　　郊廟冊元子停礦税撤中使時將討播州楊<lb/>
+　　　　應龍因請罷四川礦税以佐兵食復上言近<lb/>
+　　　　者天地人皆不和怨毒凝結臣子不能感動<lb/>
+　　　　君父故天地人皆以非常之變警悟陛下不<lb/>
+　　　　可恬不為意云云語皆切中時弊其疏具載<lb/>
+　　　　此集中詩文則應酬之作未免失于刋削然<lb/>
+　　　　大抵平正淳實無萬厯中佻薄之習亦尚不<lb/>
+<pb n="KR4e0222_WYG_000-2a"/>
+　　　　　失典型也乾隆四十五年五月恭校上<lb/>
+　　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

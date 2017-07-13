@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>吳園周易解</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　經部一<lb/>
+　吳園周易解　　　　　易𩔖<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案吳園周易解九卷宋張根撰根字<lb/>
+　　　　知常徳興人年二十一登進士第大觀中官<lb/>
+　　　　至淮南轉運使以朝散大夫終于家事跡具<lb/>
+　　　　宋史本傳是書未有其孫垓跋稱為先祖太<lb/>
+　　　　師者其子燾孝宗時為參知政事追贈官也<lb/>
+<pb n="1b"/>
+　　　　根所撰述甚多垓跋稱有宋朝編年數百卷<lb/>
+　　　　五經諸子皆為之傳註晁公武讀書志載有<lb/>
+　　　　春秋指南十卷今亦未見惟此易解僅存明<lb/>
+　　　　祁承㸁家有其本此為徐氏傳是樓所鈔自<lb/>
+　　　　說卦傳乾徤也節以下蠧蝕殘缺末有康熈<lb/>
+　　　　壬申李良年跋亦稱此本不易得然通志堂<lb/>
+　　　　經解之中遺而不刻豈得本于刻成後耶書<lb/>
+　　　　中次第悉用王弼之本詮義理而不及象數<lb/>
+<pb n="2a"/>
+　　　　不襲河洛之談註文簡畧亦無支蔓之弊末<lb/>
+　　　　有序語五篇雜說一篇皆論繫辭又泰卦論<lb/>
+　　　　一篇專論泰卦于經義頗有發明而泰卦一<lb/>
+　　　　篇于人事三致意焉葢作于徽宗全盛時也<lb/>
+　　　　亦可云識微之士矣乾隆四十九年十月恭<lb/>
+　　　　校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2m0040_WYG_058-1a"/>
+欽定四庫全書<lb/>
+八旬萬壽盛典卷第五十八<lb/>
+　典禮<hi>九</hi>　<hi>樂章三</hi>
+　　　　一百一<hi>集積御製文二    千餘首</hi>
+　　　　慎<hi>徴工</hi>厥<hi>角/上</hi>身<hi>徴/上</hi>脩<hi>徴工</hi>
+謨<hi>角上</hi>訓<hi>羽/凡</hi>文<hi>角/上</hi>更<hi>徴/工</hi>思<hi>角/上</hi>風<hi>商/乙</hi>俗<hi>宫/四</hi>要<hi>徴/工</hi>還<hi>宫/四</hi>淳<hi>商乙</hi>
+帝<hi>羽凡</hi>王<hi>角/上</hi>學<hi>商/乙</hi>與<hi>宫/四</hi>儒<hi>角/上</hi>生<hi>徴/工</hi>異<hi>羽/凡</hi>元<hi>角/上</hi>氣<hi>羽/凡</hi>淋<hi>角上</hi>漓<lb/>
+　　　　<hi>角上</hi>運<hi>商/乙</hi>以<hi>宫/四</hi>神<hi>羽凡</hi>
+<pb n="KR2m0040_WYG_058-1b"/>
+　　　　凡工工上工四乙上<lb/>
+　　　　一百二<hi>開惑御製    論</hi>
+　　　　王<hi>角上</hi>褒<hi>徵/工</hi>四<hi>羽/凡</hi>子<hi>角/上</hi>講<hi>宫/四</hi>徳<hi>商/乙</hi>論<hi>角/上</hi>開<hi>羽凡</hi>惑<lb/>
+　　　　<hi>徵工</hi>昔<hi>角/上</hi>曽<hi>徴工</hi>
+著<hi>徴工</hi>論<hi>羽/凡</hi>辭<hi>徴/工</hi>與<hi>角/上</hi>縉<hi>羽/凡</hi>紳<hi>角/上</hi>士<hi>徴/工</hi>議<hi>羽/凡</hi>兵<hi>徴/工</hi>革<hi>角上</hi>深<lb/>
+　　　　<hi>角上</hi>長<hi>角/上</hi>可<hi>宫/四</hi>不<hi>商/乙</hi>惕<hi>宫/四</hi>然<hi>角/上</hi>思<hi>商乙</hi>
+　　　　工凡上乙四凡工凡<lb/>
+　　　　一百三<hi>節儉御製    論</hi>
+<pb n="KR2m0040_WYG_058-2a"/>
+　　　　萬<hi>羽凡</hi>年<hi>角/上</hi>君<hi>徴/工</hi>鑑<hi>羽/凡</hi>垂<hi>角/上</hi>明<hi>徴/工</hi>鑑<hi>羽凡</hi>
+示<hi>羽凡</hi>儉<hi>徴/工</hi>𫝊<hi>角/上</hi>茲<hi>角/上</hi>神<hi>宫/四</hi>禹<hi>商/乙</hi>風<hi>角/上</hi>物<hi>徴/工</hi>理<hi>角/上</hi>由<hi>徴工</hi>来<lb/>
+　　　　<hi>徴工</hi>貴<hi>宫/五</hi>莭<hi>徴/工</hi>制<hi>羽/凡</hi>絜<hi>徵/工</hi>厪<hi>角/上</hi>率<hi>徴/工</hi>作<hi>羽凡</hi>
+慎<hi>商乙</hi>吾<hi>宫/四</hi>躬<hi>羽凡</hi>
+　　　　上工凡五工上乙四<lb/>
+　　　　一百四<hi>讀召御製    誥</hi>
+　　　　奈<hi>徴工</hi>何<hi>角/上</hi>弗<hi>徴/工</hi>敬<hi>羽/凡</hi>召<hi>徵/工</hi>公<hi>角/上</hi>訓<hi>羽/凡</hi>挈<hi>徴工</hi>要<lb/>
+　　　　<hi>羽凡</hi>一<hi>角/上</hi>言<hi>徴/工</hi>迥<hi>宫/四</hi>鮮<hi>商/乙</hi>同<hi>角/上</hi>六<hi>徴/工</hi>卷<hi>角/上</hi>尚<hi>羽凡</hi>
+<pb n="KR2m0040_WYG_058-2b"/>
+　　　　書<hi>角上</hi>垂<hi>徵/工</hi>政<hi>宫/五</hi>要<hi>羽/凡</hi>孰<hi>角/上</hi>知<hi>徵/工</hi>其<hi>角/上</hi>意<hi>羽凡</hi>藴<lb/>
+　　　　<hi>徵工</hi>乎<hi>角/上</hi>中<hi>商乙</hi>
+　　　　凡工工上工四乙上<lb/>
+　　　　一百五<hi>讀洪御製    範</hi>
+　　　　太<hi>羽凡</hi>古<hi>徴/工</hi>圖<hi>角/上</hi>先<hi>徴/工</hi>書<hi>角/上</hi>後<hi>羽/凡</hi>出<hi>徴/工</hi>慶<hi>徴工</hi>惟<lb/>
+　　　　<hi>角上</hi>
+敷<hi>徴工</hi>錫<hi>羽/凡</hi>庶<hi>宫/五</hi>民<hi>羽/凡</hi>同<hi>徴/工</hi>九<hi>角/上</hi>疇<hi>徴/工</hi>箕<hi>羽/凡</hi>子<hi>角/上</hi>疇<hi>角上</hi>書<lb/>
+　　　　<hi>徴工</hi>演<hi>角/上</hi>已<hi>徴/工</hi>在<hi>羽/凡</hi>先<hi>角/上</hi>憂<hi>徴/工</hi>後<hi>商/乙</hi>樂<hi>宫/四</hi>中<hi>商乙</hi>
+<pb n="KR2m0040_WYG_058-3a"/>
+　　　　工凡上乙四凡工凡<lb/>
+　　　　一百六<hi>老五御製三    更説</hi>
+　　　　五<hi>角上</hi>車<hi>徴/工</hi>窮<hi>宫/四</hi>亦<hi>商/乙</hi>靣<hi>徴/工</hi>於<hi>角/上</hi>墻<hi>商/乙</hi>三<hi>羽凡</hi>五<lb/>
+　　　　<hi>徴工</hi>昔<hi>角/上</hi>經<hi>角上</hi>
+著<hi>宫五</hi>説<hi>羽/凡</hi>詳<hi>徵/工</hi>至<hi>羽/凡</hi>理<hi>徴/工</hi>子<hi>角/上</hi>輿<hi>徴/工</hi>言<hi>宫/四</hi>允<hi>商/乙</hi>中<hi>角上</hi>閔<lb/>
+　　　　<hi>角上</hi>民<hi>徴/工</hi>誰<hi>宫/四</hi>得<hi>商/乙</hi>似<hi>徴/工</hi>文<hi>角/上</hi>王<hi>商乙</hi>
+　　　　上工凡五工上乙四<lb/>
+　　　　一百七<hi>南巡御製    記</hi>
+<pb n="KR2m0040_WYG_058-3b"/>
+　　　　昔<hi>徴工</hi>來<hi>角/上</hi>辛<hi>徵/工</hi>未<hi>羽/凡</hi>今<hi>角/上</hi>甲<hi>羽/凡</hi>辰<hi>徴/工</hi>景<hi>宫四</hi>光<lb/>
+　　　　<hi>商乙</hi>随<hi>角/上</hi>遇<hi>徴/工</hi>毎<hi>宫/四</hi>生<hi>角/上</hi>欣<hi>商乙</hi>
+聖<hi>羽凡</hi>人<hi>角/上</hi>兩<hi>角/上</hi>語<hi>徴/工</hi>所<hi>宫/四</hi>包<hi>商/乙</hi>廣<hi>宫/四</hi>無<hi>徴/工</hi>易<hi>羽/凡</hi>言<hi>角上</hi>逰<lb/>
+　　　　<hi>徴工</hi>視<hi>羽凡</hi>
+記<hi>徴工</hi>文<hi>角上</hi>
+　　　　凡工工上工四乙上<lb/>
+　　　　一百八<hi>集積御製詩五    數萬首</hi>
+　　　　乾<hi>角上</hi>坤<hi>徴/工</hi>易<hi>羽/凡</hi>簡<hi>角/上</hi>總<hi>角/上</hi>包<hi>羽/凡</hi>全<hi>徴工</hi>
+<pb n="KR2m0040_WYG_058-4a"/>
+詩<hi>徴工</hi>本<hi>角/上</hi>例<hi>羽/凡</hi>分<hi>徴/工</hi>上<hi>宫/五</hi>下<hi>羽/凡</hi>編<hi>徴工</hi>
+四<hi>羽凡</hi>集<hi>徴/工</hi>吟<hi>角/上</hi>成<hi>徴/工</hi>三<hi>徴/工</hi>萬<hi>羽/凡</hi>首<hi>角/上</hi>傲<hi>徴/工</hi>他<hi>角/上</hi>學<hi>徴工</hi>士<lb/>
+　　　　<hi>羽凡</hi>澀<hi>宫/四</hi>成<hi>角/上</hi>篇<hi>商乙</hi>
+　　　　工凡上乙四凡工凡<lb/>
+　　　　一百九<hi>賦詩上毎日    十數篇</hi>
+　　　　毎<hi>角工</hi>從<hi>徴/工</hi>物<hi>羽/凡</hi>理<hi>角/上</hi>騐<hi>宫/五</hi>生<hi>羽/凡</hi>生<hi>徴/工</hi>排<hi>角上</hi>日<lb/>
+　　　　<hi>徴工</hi>
+詩<hi>角上</hi>篇<hi>角/上</hi>以<hi>徴/工</hi>例<hi>羽/凡</hi>呈<hi>角/上</hi>到<hi>宫/五</hi>䖏<hi>宫/五</hi>懋<hi>徴/工</hi>勤<hi>角/上</hi>供<hi>角上</hi>硏<lb/>
+<pb n="KR2m0040_WYG_058-4b"/>
+　　　　<hi>徴工</hi>匣<hi>角上</hi>
+立<hi>角上</hi>言<hi>徴/工</hi>炳<hi>宫/四</hi>若<hi>商/乙</hi>日<hi>宫/四</hi>星<hi>角/上</hi>晶<hi>商乙</hi>
+　　　　上工凡五工上乙四<lb/>
+　　　　一百十<hi>每疊御製詩    韻十全</hi>
+　　　　萬<hi>徴工</hi>有<hi>角/上</hi>都<hi>徴/工</hi>従<hi>徴/工</hi>箇<hi>羽/凡</hi>裏<hi>角/上</hi>生<hi>徴/工</hi>無<hi>角上</hi>勞<lb/>
+　　　　<hi>徴工</hi>響<hi>宫/四</hi>鉢<hi>商/乙</hi>亦<hi>宫四</hi>
+詩<hi>角上</hi>成<hi>商/乙</hi>歴<hi>徴/工</hi>年<hi>角/上</hi>舊<hi>羽/凡</hi>作<hi>徴/工</hi>聨<hi>角/上</hi>新<hi>徴/工</hi>句<hi>羽/凡</hi>九<hi>角上</hi>疊<lb/>
+　　　　<hi>徴工</hi>十<hi>宫/四</hi>全<hi>商/乙</hi>韻<hi>徴/工</hi>不<hi>角/上</hi>賡<hi>商乙</hi>
+<pb n="KR2m0040_WYG_058-5a"/>
+　　　　　　凡工工上工四乙上<lb/>
+　　　　　　一百十一<hi>新樂御製    府</hi>
+　　　　　　借<hi>羽凡</hi>問<hi>徴/工</hi>如<hi>角/上</hi>何<hi>徴/工</hi>迺<hi>角/上</hi>謂<hi>羽/凡</hi>詩<hi>徴/工</hi>香<hi>徴工</hi>山<lb/>
+　　　　　　<hi>角上</hi>居<hi>徴/工</hi>士<hi>羽/凡</hi>知<hi>徴/工</hi>不<hi>商/乙</hi>知<hi>角/上</hi>白<hi>角/上</hi>牋<hi>徴/工</hi>朱<hi>羽凡</hi>
+　　　　　　字<hi>宫五</hi>有<hi>角/上</hi>如<hi>徴/工</hi>是<hi>羽/凡</hi>氣<hi>羽/凡</hi>盛<hi>徴/工</hi>短<hi>宫/四</hi>長<hi>商乙</hi>無<lb/>
+　　　　　　<hi>宫四</hi>不<hi>角/上</hi>宜<hi>商乙</hi>
+　　　　　　工凡上乙四凡工凡<lb/>
+　　　　　　一百十二<hi>全韻御製    詩</hi>
+<pb n="KR2m0040_WYG_058-5b"/>
+　　　　　　昨<hi>角上</hi>曽<hi>徴/工</hi>全<hi>徴/工</hi>韻<hi>羽/凡</hi>畢<hi>角上</hi>
+　　吟<hi>羽凡</hi>披<hi>徴/工</hi>却<hi>徴/工</hi>匪<hi>角/上</hi>風<hi>羽/凡</hi>吟<hi>徴/工</hi>月<hi>宫/四</hi>弄<hi>角/上</hi>為<hi>商/乙</hi>百<hi>徴工</hi>世<lb/>
+　　　　　　<hi>羽凡</hi>聰<hi>徴/工</hi>聽<hi>角上</hi>
+彜<hi>徴工</hi>訓<hi>宫/五</hi>在<hi>羽/凡</hi>千<hi>徴/工</hi>秋<hi>角/上</hi>殷<hi>徴/工</hi>監<hi>羽/凡</hi>慎<hi>徴/工</hi>㢤<hi>角/上</hi>斯<hi>商乙</hi>
+　　　　　　上工凡五工上乙四<lb/>
+　　　　　　一百十三<hi>四生御製    詩</hi>
+　　　　　　祗<hi>徴工</hi>有<hi>角/上</hi>詩<hi>羽/凡</hi>人<hi>徴/工</hi>元<hi>角/上</hi>拾<hi>羽/凡</hi>遺<hi>角/工</hi>摛<hi>徴工</hi>吟<lb/>
+　　　　　　<hi>角上</hi>惟<hi>徴/工</hi>是<hi>羽/凡</hi>寸<hi>徴/工</hi>心<hi>角/上</hi>知<hi>商/乙</hi>春<hi>宫/四</hi>來<hi>商/乙</hi>有<hi>角上</hi>
+<pb n="KR2m0040_WYG_058-6a"/>
+　　　　象<hi>徴工</hi>由<hi>宫/四</hi>無<hi>商/乙</hi>象<hi>角上</hi>
+大<hi>羽凡</hi>徳<hi>徴/工</hi>曰<hi>宫/四</hi>生<hi>商/乙</hi>貫<hi>徵/工</hi>四<hi>角/上</hi>時<hi>商乙</hi>
+　　　　凡工工上工四乙上<lb/>
+　　　　一百十四<hi>十二御製七    候詩</hi>
+　　　　惟<hi>角上</hi>應<hi>徴/工</hi>造<hi>羽/凡</hi>物<hi>徵/工</hi>與<hi>角/上</hi>為<hi>羽/凡</hi>師<hi>徴/工</hi>色<hi>徴工</hi>色<lb/>
+　　　　<hi>羽凡</hi>形<hi>角/上</hi>形<hi>徴/工</hi>物<hi>角/上</hi>自<hi>羽/凡</hi>知<hi>徴/工</hi>戴<hi>羽/凡</hi>氏<hi>羽/凡</hi>掇<hi>角上</hi>
+　　　　其<hi>徵工</hi>吕<hi>宫/四</hi>氏<hi>角/上</hi>語<hi>商乙</hi>
+分<hi>徴工</hi>題<hi>角/上</hi>七<hi>徵/工</hi>十<hi>羽/凡</hi>二<hi>徴/工</hi>章<hi>角/上</hi>詩<hi>商乙</hi>
+<pb n="KR2m0040_WYG_058-6b"/>
+　　　　工凡上乙四凡工凡<lb/>
+　　　　一百十五<hi>三禮欽定    義疏</hi>
+　　　　大<hi>徴工</hi>三<hi>角/上</hi>百<hi>徴/工</hi>更<hi>羽/凡</hi>小<hi>角/上</hi>三<hi>羽/凡</hi>千<hi>徴/工</hi>校<hi>角上</hi>集<lb/>
+　　　　<hi>徴工</hi>因<hi>角/上</hi>之<hi>角/上</hi>考<hi>宫/四</hi>異<hi>徴/工</hi>詮<hi>角/上</hi>經<hi>徴/工</hi>以<hi>角/上</hi>漢<hi>羽凡</hi>
+　　　　明<hi>角上</hi>學<hi>宫/四</hi>以<hi>商/乙</hi>宋<hi>角/上</hi>禮<hi>角/上</hi>由<hi>徴/工</hi>義<hi>羽/凡</hi>起<hi>角上</hi>協<lb/>
+　　　　<hi>宫四</hi>經<hi>角/上</hi>權<hi>商乙</hi>
+　　　　上工凡五工上乙四<lb/>
+　　　　一百十六<hi>滿洲命纂    源流</hi>
+<pb n="KR2m0040_WYG_058-7a"/>
+祖<hi>角上</hi>功<hi>徴工</hi>
+宗<hi>羽凡</hi>徳<hi>角/上</hi>承<hi>角上</hi>
+天<hi>徴工</hi>貺<hi>羽/凡</hi>拓<hi>徴/工</hi>土<hi>角/上</hi>開<hi>羽/凡</hi>疆<hi>徴/工</hi>若<hi>宫/四</hi>契<hi>角/上</hi>符<hi>商/乙</hi>歴<hi>徴/工</hi>歴<hi>羽凡</hi>敬<lb/>
+　　　　　　<hi>宫五</hi>看<hi>羽凡</hi>
+開<hi>徴工</hi>創<hi>羽/凡</hi>蹟<hi>角/上</hi>白<hi>宫/四</hi>山<hi>商/乙</hi>黒<hi>角/上</hi>水<hi>徴/工</hi>本<hi>宫/四</hi>靈<hi>角/上</hi>區<hi>商乙</hi>
+　　　　　　凡工工上工四乙上<lb/>
+　　　　　　一百十七<hi>儲貳欽定    金鑑</hi>
+　　　　　　周<hi>羽凡</hi>監<hi>宫/五</hi>在<hi>徴/工</hi>殷<hi>角/上</hi>殷<hi>徴/工</hi>監<hi>宫/五</hi>夏<hi>羽/凡</hi>炳<hi>徴工</hi>然<lb/>
+<pb n="KR2m0040_WYG_058-7b"/>
+　　　　　　<hi>角上</hi>金<hi>徴/工</hi>鑑<hi>羽/凡</hi>耀<hi>徴/工</hi>光<hi>角/上</hi>晶<hi>角/上</hi>四<hi>徴/工</hi>千<hi>角/上</hi>年<hi>商乙</hi>
+　　　　　　裏<hi>宫四</hi>廢<hi>徴/工</hi>興<hi>角/上</hi>夥<hi>商/乙</hi>百<hi>徴/工</hi>世<hi>羽/凡</hi>千<hi>角/上</hi>秋<hi>角上</hi>慎<lb/>
+　　　　　　<hi>宫四</hi>奉<hi>角/上</hi>行<hi>商乙</hi>
+　　　　　　工凡上乙四凡工凡<lb/>
+　　　　　　一百十八<hi>製國史創  貳臣𫝊</hi>
+　　　　　　忠<hi>徴工</hi>我<hi>角上</hi>
+　　　　朝<hi>宫四</hi>歟<hi>商/乙</hi>抑<hi>角/上</hi>勝<hi>羽/凡</hi>國<hi>角/上</hi>勸<hi>羽/凡</hi>懲<hi>角/上</hi>一<hi>徴/工</hi>字<hi>羽凡</hi>必<lb/>
+　　　　　　<hi>角上</hi>湏<hi>羽/凡</hi>安<hi>徴/工</hi>貳<hi>徴/工</hi>臣<hi>角/上</hi>𫝊<hi>羽/凡</hi>復<hi>徴/工</hi>分<hi>宫/四</hi>甲<hi>商乙</hi>
+<pb n="KR2m0040_WYG_058-8a"/>
+　　　　乙<hi>角上</hi>臣<hi>徴/工</hi>則<hi>角/上</hi>千<hi>羽/凡</hi>秋<hi>徴/工</hi>永<hi>宫/四</hi>不<hi>商/乙</hi>刋<hi>角上</hi>
+　　　　上工凡五工上乙四<lb/>
+　　　　一百十九<hi>滕朝殉節諸臣    賜諡著錄</hi>
+　　　　垂<hi>角上</hi>思<hi>羽/凡</hi>琬<hi>角/上</hi>琰<hi>角/上</hi>忠<hi>徴/工</hi>明<hi>角/上</hi>著<hi>羽凡</hi>
+子<hi>羽凡</hi>諡<hi>宫/五</hi>仍<hi>角/上</hi>留<hi>徴/工</hi>兩<hi>宫/四</hi>字<hi>角/上</hi>芳<hi>商/乙</hi>潜<hi>角/上</hi>徳<hi>徴/工</hi>幽<hi>羽凡</hi>光<lb/>
+　　　　<hi>徴工</hi>賴<hi>羽凡</hi>
+褒<hi>角上</hi>闡<hi>商/乙</hi>勝<hi>羽/凡</hi>朝<hi>角/上</hi>殉<hi>宫/五</hi>節<hi>羽/凡</hi>與<hi>宫/四</hi>羶<hi>角/上</hi>薌<hi>商乙</hi>
+　　　　凡工工上工四乙上<lb/>
+<pb n="KR2m0040_WYG_058-8b"/>
+　　　　一百二十<hi>元三欽定遼金    史國語</hi>
+　　　　遼<hi>角上</hi>金<hi>徴/工</hi>元<hi>角/上</hi>事<hi>羽/凡</hi>率<hi>宫/四</hi>荒<hi>角/上</hi>畧<hi>商/乙</hi>立<hi>徴工</hi>字<lb/>
+　　　　<hi>羽凡</hi>安<hi>角/上</hi>名<hi>角/上</hi>有<hi>宫/四</hi>底<hi>商/乙</hi>真<hi>角/上</hi>全<hi>徴/工</hi>既<hi>羽/凡</hi>多<hi>角上</hi>
+　　　　訛<hi>角上</hi>經<hi>徵/工</hi>再<hi>宫/五</hi>訂<hi>羽/凡</hi>同<hi>角/上</hi>文<hi>角/上</hi>可<hi>宫/四</hi>識<hi>商乙</hi>正<lb/>
+　　　　<hi>徵工</hi>同<hi>角/上</hi>倫<hi>商乙</hi>
+　　　　工凡上乙四凡工凡<lb/>
+　　　　一百二十一<hi>通鑑御批    輯覽</hi>
+　　　　涑<hi>徴工</hi>水<hi>角/上</hi>編<hi>羽/凡</hi>年<hi>徴/工</hi>著<hi>宫/五</hi>通<hi>徴/工</hi>鑑<hi>羽/凡</hi>指<hi>徴工</hi>何<lb/>
+<pb n="KR2m0040_WYG_058-9a"/>
+　　　　<hi>角上</hi>無<hi>徴/工</hi>定<hi>羽/凡</hi>昔<hi>角/上</hi>今<hi>羽/凡</hi>非<hi>徴/工</hi>千<hi>徴/工</hi>年<hi>角/上</hi>下<hi>徴工</hi>
+　　　　議<hi>羽凡</hi>千<hi>徴/工</hi>年<hi>角/上</hi>上<hi>羽/凡</hi>輯<hi>徴/工</hi>覽<hi>角/上</hi>曽<hi>宫/四</hi>無<hi>商乙</hi>越<lb/>
+　　　　<hi>宫四</hi>
+範<hi>角上</hi>圍<hi>商乙</hi>
+　　　　上工凡五工上乙四<lb/>
+　　　　一百二十二<hi>明紀欽定    綱目</hi>
+　　　　總<hi>角上</hi>臚<hi>徴/工</hi>目<hi>宫/四</hi>舉<hi>商/乙</hi>目<hi>宫/四</hi>歸<hi>角/上</hi>綱<hi>商/乙</hi>信<hi>羽凡</hi>史<lb/>
+　　　　<hi>角上</hi>由<hi>徴/工</hi>來<hi>徴/工</hi>貴<hi>羽/凡</hi>癉<hi>角/上</hi>彰<hi>徴/工</hi>綈<hi>徴/工</hi>几<hi>角/上</hi>還<hi>宫四</hi>
+<pb n="KR2m0040_WYG_058-9b"/>
+　　　　親<hi>商乙</hi>
+乙<hi>徴工</hi>夜<hi>羽/凡</hi>勘<hi>角/上</hi>惕<hi>宫/四</hi>懐<hi>商/乙</hi>殷<hi>徴/工</hi>監<hi>羽凡</hi>
+念<hi>商乙</hi>尤<hi>宫/四</hi>長<hi>羽凡</hi>
+　　　　凡工工上工四乙上<lb/>
+　　　　一百二十三<hi>五代命輯薛居正    史編入正史</hi>
+　　　　舊<hi>羽凡</hi>史<hi>角/上</hi>原<hi>角/上</hi>監<hi>徴/工</hi>薛<hi>角/上</hi>居<hi>徴/工</hi>正<hi>羽/凡</hi>歐<hi>徴工</hi>陽<lb/>
+　　　　<hi>角上</hi>逸<hi>商/乙</hi>馬<hi>宫/四</hi>笑<hi>徴/工</hi>繁<hi>宫/四</hi>文<hi>商/乙</hi>分<hi>角/上</hi>原<hi>角/上</hi>為<hi>徴工</hi>
+　　　　二<hi>羽凡</hi>合<hi>角/上</hi>成<hi>羽/凡</hi>一<hi>徴/工</hi>續<hi>角/上</hi>合<hi>徴/工</hi>豊<hi>商/乙</hi>城<hi>宫四</hi>四<lb/>
+<pb n="KR2m0040_WYG_058-10a"/>
+　　　　　　<hi>徴工</hi>部<hi>角/上</hi>羣<hi>商乙</hi>
+　　　　　　工凡上乙四凡工凡<lb/>
+　　　　　　一百二十四<hi>明臣命選    奏議</hi>
+　　　　　　監<hi>宫五</hi>在<hi>徴/工</hi>勝<hi>羽/凡</hi>朝<hi>角上</hi>
+　　基<hi>徴工</hi>命<hi>羽/凡</hi>密<hi>角/上</hi>陶<hi>角/上</hi>鎔<hi>角/上</hi>不<hi>徴/工</hi>廢<hi>羽/凡</hi>鐡<hi>角/上</hi>中<hi>羽/凡</hi>錚<hi>徴工</hi>吁<lb/>
+　　　　　　<hi>商乙</hi>嗟<hi>宫/四</hi>門<hi>宫/四</hi>户<hi>商/乙</hi>害<hi>徴/工</hi>如<hi>角/上</hi>此<hi>商/乙</hi>同<hi>角/上</hi>異<hi>徴工</hi>
+　　　　　　齗<hi>宫四</hi>芟<hi>商/乙</hi>聚<hi>徴/工</hi>訟<hi>角/上</hi>爭<hi>商乙</hi>
+　　　　　　上工凡五工上乙四<lb/>
+<pb n="KR2m0040_WYG_058-10b"/>
+　　　　　　一百二十五<hi>音韻欽定    𫐠微</hi>
+　　　　　　紐<hi>角上</hi>圖<hi>徴/工</hi>縷<hi>宫/四</hi>晰<hi>商乙</hi>
+　　元<hi>宫四</hi>音<hi>商/乙</hi>契<hi>角/上</hi>因<hi>徴/工</hi>字<hi>羽/凡</hi>區<hi>角/上</hi>分<hi>角/上</hi>𫐠<hi>宫四</hi>
+舊<hi>角上</hi>章<hi>商/乙</hi>發<hi>羽/凡</hi>奥<hi>宫/五</hi>依<hi>羽/凡</hi>然<hi>徴/工</hi>凖<hi>角/上</hi>平<hi>徴/工</hi>正<hi>羽/凡</hi>信<hi>徴/工</hi>堪<hi>角上</hi>小<lb/>
+　　　　　　<hi>宫四</hi>學<hi>商/乙</hi>示<hi>徴/工</hi>津<hi>角/上</hi>梁<hi>商乙</hi>
+　　　　　　凡工工上工四乙上<lb/>
+　　　　　　一百二十六<hi>下舊欽定日    聞考</hi>
+　　　　　　重<hi>徴工</hi>考<hi>角/上</hi>彛<hi>宫/四</hi>尊<hi>商/乙</hi>書<hi>角/上</hi>以<hi>宫/四</hi>成<hi>商/乙</hi>金<hi>商乙</hi>元<lb/>
+<pb n="KR2m0040_WYG_058-11a"/>
+　　　　<hi>宫四</hi>遺<hi>宫/四</hi>迹<hi>商/乙</hi>逮<hi>徴/工</hi>前<hi>角/上</hi>明<hi>商乙</hi>
+皇<hi>宫四</hi>州<hi>商/乙</hi>氣<hi>羽/凡</hi>象<hi>羽/凡</hi>由<hi>角/上</hi>来<hi>商/乙</hi>好<hi>宫/四</hi>自<hi>羽/凡</hi>昔<hi>角/上</hi>周<hi>徴工</hi>詩<lb/>
+　　　　<hi>徴工</hi>詠<hi>宫/四</hi>镐<hi>角/上</hi>京<hi>商乙</hi>
+　　　　工凡上乙四凡工凡<lb/>
+　　　　一百二十七<hi>國子欽定    監志</hi>
+　　　　繫<hi>羽凡</hi>𫝊<hi>羽/凡</hi>明<hi>角/上</hi>云<hi>徴/工</hi>道<hi>羽/凡</hi>義<hi>徴/工</hi>門<hi>角/上</hi>不<hi>角上</hi>親<lb/>
+　　　　<hi>徴工</hi>到<hi>羽/凡</hi>者<hi>角/上</hi>不<hi>角/上</hi>䏻<hi>羽/凡</hi>言<hi>徴工</hi>
+　　宫<hi>徴工</hi>牆<hi>角/上</hi>乍<hi>羽/凡</hi>可<hi>角/上</hi>窺<hi>徴/工</hi>巍<hi>角/上</hi>煥<hi>羽/凡</hi>堂<hi>角/上</hi>貯<hi>羽凡</hi>芸<lb/>
+<pb n="KR2m0040_WYG_058-11b"/>
+　　　　<hi>角上</hi>編<hi>徴/工</hi>足<hi>商/乙</hi>討<hi>羽/凡</hi>源<hi>宫四</hi>
+　　　　上工凡五工上乙四<lb/>
+　　　　一百二十八<hi>一統欽定    志</hi>
+　　　　金<hi>徴工</hi>甌<hi>角/上</hi>玉<hi>徴/工</hi>燭<hi>羽/凡</hi>鞏<hi>角上</hi>
+軒<hi>羽凡</hi>圖<hi>徴/工</hi>統<hi>羽/凡</hi>志<hi>宫/五</hi>今<hi>羽/凡</hi>殊<hi>徴/工</hi>府<hi>角/上</hi>志<hi>羽/凡</hi>區<hi>徴/工</hi>中<hi>徵工</hi>外<lb/>
+　　　　<hi>羽凡</hi>一<hi>角/上</hi>家<hi>徴/工</hi>百<hi>商/乙</hi>年<hi>羽/凡</hi>久<hi>宫/四</hi>若<hi>宫/四</hi>兹<hi>商/乙</hi>形<hi>角上</hi>
+　　　　勝<hi>徴工</hi>古<hi>宫/四</hi>來<hi>角/上</hi>無<hi>商乙</hi>
+　　　　凡工工上工四乙上<lb/>
+<pb n="KR2m0040_WYG_058-12a"/>
+　　　　　　一百二十九<hi>熱河欽定    志</hi>
+　　　　　　欽<hi>徴工</hi>承<hi>角上</hi>
+家<hi>徴工</hi>法<hi>羽/凡</hi>聨<hi>角/上</hi>中<hi>徴/工</hi>外<hi>羽/凡</hi>毎<hi>羽/凡</hi>嵗<hi>宫/五</hi>秋<hi>羽凡</hi>
+　　臨<hi>徴工</hi>避<hi>羽/凡</hi>暑<hi>角/上</hi>莊<hi>徴/工</hi>郡<hi>羽/凡</hi>矣<hi>角/上</hi>縣<hi>羽/凡</hi>之<hi>徴/工</hi>新<hi>羽/凡</hi>創<hi>宫五</hi>建<lb/>
+　　　　　　<hi>羽凡</hi>熱<hi>徴/工</hi>河<hi>角/上</hi>數<hi>徴/工</hi>典<hi>羽/凡</hi>那<hi>徴/工</hi>云<hi>角/上</hi>忘<hi>商乙</hi>
+　　　　　　工凡上乙四凡工凡<lb/>
+　　　　　　一百三十<hi>河源欽定    紀畧</hi>
+　　　　　　所<hi>角上</hi>喜<hi>徴/工</hi>従<hi>角/上</hi>流<hi>角/上</hi>可<hi>徴/工</hi>識<hi>羽/凡</hi>源<hi>角/上</hi>曰<hi>角上</hi>宗<lb/>
+<pb n="KR2m0040_WYG_058-12b"/>
+　　　　　　<hi>徴工</hi>於<hi>宫/四</hi>漢<hi>商/乙</hi>義<hi>徴/工</hi>猶<hi>角/上</hi>殫<hi>商/乙</hi>大<hi>徴/工</hi>都<hi>角/上</hi>早<hi>徴工</hi>
+　　　　　　見<hi>羽凡</hi>
+　　簡<hi>角上</hi>明<hi>徴/工</hi>語<hi>羽/凡</hi>四<hi>宫/五</hi>海<hi>徴/工</hi>㑹<hi>羽/凡</hi>同<hi>角/上</hi>永<hi>宫/四</hi>宴<hi>角/上</hi>瀾<hi>商乙</hi>
+　　　　　　上工凡五工上乙四<lb/>
+　　　　　　一百三十一<hi>淮源御製    記</hi>
+　　　　　　潜<hi>角上</hi>流<hi>角/上</hi>誰<hi>徴/工</hi>識<hi>羽/凡</hi>源<hi>角/上</hi>同<hi>商/乙</hi>醴<hi>宫/四</hi>兼<hi>徴工</hi>喜<lb/>
+　　　　　　<hi>角上</hi>大<hi>羽/凡</hi>田<hi>角/上</hi>利<hi>宫/五</hi>黍<hi>羽/凡</hi>禾<hi>徴/工</hi>此<hi>徴/工</hi>意<hi>羽/凡</hi>分<hi>角上</hi>
+　　　　　　明<hi>角上</hi>具<hi>徴工</hi>
+<pb n="KR2m0040_WYG_058-13a"/>
+　　神<hi>宫四</hi>解<hi>商/乙</hi>夏<hi>徴/工</hi>書<hi>角/上</hi>桐<hi>徴/工</hi>栢<hi>羽/凡</hi>導<hi>徴/工</hi>非<hi>角/上</hi>訛<hi>商乙</hi>
+　　　　　　凡工工上工四乙上<lb/>
+　　　　　　一百三十二<hi>濟水御製    考</hi>
+　　　　　　不<hi>徴工</hi>是<hi>羽/凡</hi>濟<hi>宫/五</hi>源<hi>羽/凡</hi>經<hi>徴工</hi>
+　　考<hi>角上</hi>證<hi>羽/凡</hi>無<hi>角/上</hi>非<hi>徵/工</hi>本<hi>角/上</hi>計<hi>羽/凡</hi>厪<hi>徴/工</hi>黎<hi>角/上</hi>元<hi>商/乙</hi>潜<hi>宫四</hi>流<lb/>
+　　　　　　<hi>商乙</hi>原<hi>角/上</hi>具<hi>徵/工</hi>絶<hi>宫/四</hi>河<hi>商/乙</hi>力<hi>角/上</hi>隔<hi>徵/工</hi>省<hi>角/上</hi>因<hi>徵工</hi>
+　　　　　　之<hi>徴工</hi>溯<hi>商/乙</hi>逺<hi>羽/凡</hi>源<hi>宫四</hi>
+　　　　　　工凡上乙四凡工凡<lb/>
+<pb n="KR2m0040_WYG_058-13b"/>
+　　　　　　一百三十三<hi>唐宋御選    文醇</hi>
+　　　　　　幾<hi>羽凡</hi>度<hi>宫/五</hi>披<hi>羽/凡</hi>芸<hi>羽/凡</hi>欽<hi>徵工</hi>
+古<hi>角上</hi>鑑<hi>羽/凡</hi>文<hi>角/上</hi>非<hi>徴/工</hi>時<hi>徴/工</hi>調<hi>羽/凡</hi>去<hi>宫/五</hi>浮<hi>羽/凡</hi>誇<hi>徴/工</hi>唐<hi>角/上</hi>函<hi>角上</hi>宋<lb/>
+　　　　　　<hi>羽凡</hi>苑<hi>羽/凡</hi>實<hi>角/上</hi>應<hi>徴/工</hi>遜<hi>羽/凡</hi>鼻<hi>徴/工</hi>祖<hi>角/上</hi>終<hi>徴/工</hi>輸<hi>徵工</hi>
+　　　　　　十<hi>宫四</hi>大<hi>角/上</hi>家<hi>商乙</hi>
+　　　　　　上工凡五工上乙四<lb/>
+　　　　　　一百三十四<hi>唐宋御選    詩醇</hi>
+　　　　　　李<hi>角上</hi>仙<hi>徴/工</hi>杜<hi>宫/五</hi>聖<hi>宫/五</hi>兩<hi>角/上</hi>詩<hi>羽/凡</hi>人<hi>徴/工</hi>逐<hi>角上</hi>冊<lb/>
+<pb n="KR2m0040_WYG_058-14a"/>
+　　　　<hi>徴工</hi>識<hi>羽/凡</hi>言<hi>角上</hi>
+精<hi>徴工</hi>鑑<hi>羽/凡</hi>申<hi>角/上</hi>設<hi>徴/工</hi>使<hi>角/上</hi>無<hi>徴/工</hi>闗<hi>徴/工</hi>性<hi>宫/五</hi>情<hi>徴/工</hi>正<hi>羽凡</hi>六<lb/>
+　　　　<hi>宫四</hi>家<hi>商/乙</hi>詠<hi>角/上</hi>未<hi>徵/工</hi>入<hi>宫/四</hi>詩<hi>角/上</hi>醇<hi>商乙</hi>
+　　　　凡工工上工四乙上<lb/>
+　　　　一百三十五<hi>三武英殿刻十  經廿三史</hi>
+文<hi>羽凡</hi>教<hi>宫/五</hi>敷<hi>羽/凡</hi>宣<hi>徵/工</hi>事<hi>羽/凡</hi>匪<hi>角/上</hi>䡖<hi>徴/工</hi>淆<hi>角/上</hi>訛<hi>角/上</hi>時<hi>角上</hi>有<lb/>
+　　　　<hi>徵工</hi>校<hi>宫/四</hi>從<hi>角/上</hi>精<hi>宫/乙</hi>經<hi>徴/工</hi>鎔<hi>角/上</hi>史<hi>徴/工</hi>鑄<hi>羽/凡</hi>則<hi>角上</hi>
+　　　　堪<hi>羽凡</hi>取<hi>徵工</hi>
+<pb n="KR2m0040_WYG_058-14b"/>
+祕<hi>羽凡</hi>選<hi>角/上</hi>名<hi>宫/四</hi>山<hi>角/乙</hi>二<hi>徴/工</hi>酉<hi>角/上</hi>英<hi>商乙</hi>
+　　　　工凡上乙四凡工凡<lb/>
+　　　　一百三十六<hi>校刻續纂三通</hi>
+　　　　三<hi>徵工</hi>通<hi>角/上</hi>逮<hi>羽/凡</hi>蕆<hi>角/上</hi>催<hi>徵/工</hi>教<hi>角/上</hi>蕆<hi>商/乙</hi>型<hi>徴工</hi>典<lb/>
+　　　　<hi>角上</hi>猶<hi>徴/工</hi>存<hi>徴/工</hi>語<hi>羽/凡</hi>不<hi>角/上</hi>虚<hi>徴/工</hi>寧<hi>角/上</hi>曰<hi>徵/工</hi>纂<hi>羽凡</hi>
+　　　　言<hi>角上</hi>資<hi>徵/工</hi>博<hi>羽/凡</hi>考<hi>角/上</hi>便<hi>徵/工</hi>稱<hi>角/上</hi>續<hi>徴/工</hi>後<hi>羽凡</hi>此<lb/>
+　　　　<hi>宫四</hi>開<hi>角/上</hi>初<hi>商乙</hi>
+　　　　上工凡五工上乙四<lb/>
+<pb n="KR2m0040_WYG_058-15a"/>
+　　　　一百三十七<hi>校刻岳珂五經記  作五經萃室</hi>
+　　　　金<hi>角上</hi>陀<hi>角/上</hi>坊<hi>徴/工</hi>裏<hi>角/上</hi>尚<hi>宫/五</hi>存<hi>羽/凡</hi>名<hi>徴/工</hi>想<hi>徴工</hi>對<lb/>
+　　　　<hi>羽凡</hi>餘<hi>角/上</hi>杭<hi>角/上</hi>氣<hi>羽/凡</hi>未<hi>徴/工</hi>平<hi>角/上</hi>萃<hi>羽/凡</hi>室<hi>徵/工</hi>五<hi>宫四</hi>
+　　　　經<hi>商乙</hi>創<hi>徴工</hi>
+新<hi>角上</hi>詠<hi>商/乙</hi>夀<hi>羽/凡</hi>諸<hi>角/上</hi>梨<hi>角/上</hi>棗<hi>羽/凡</hi>宋<hi>徴/工</hi>雕<hi>角/上</hi>精<hi>商乙</hi>
+　　　　凡工工上工四乙上<lb/>
+　　　　一百三十八<hi>四庫欽定    全書</hi>
+　　　　四<hi>羽凡</hi>庫<hi>羽/凡</hi>全<hi>角/上</hi>書<hi>徴/工</hi>浩<hi>羽/凡</hi>烟<hi>徴/工</hi>海<hi>角/上</hi>較<hi>徴工</hi>于<lb/>
+<pb n="KR2m0040_WYG_058-15b"/>
+　　　　<hi>角上</hi>大<hi>羽/凡</hi>典<hi>角/上</hi>已<hi>角/上</hi>稱<hi>羽/凡</hi>良<hi>徵/工</hi>兹<hi>角/上</hi>三<hi>徵/工</hi>萬<hi>羽凡</hi>
+　　　　六<hi>角上</hi>千<hi>角/上</hi>冊<hi>徵/工</hi>内<hi>羽/凡</hi>芸<hi>角/上</hi>籍<hi>徴/工</hi>閒<hi>宫/四</hi>披<hi>商乙</hi>
+御<hi>徴工</hi>案<hi>角/上</hi>香<hi>商乙</hi>
+　　　　工凡上乙四凡工凡<lb/>
+　　　　一百三十九<hi>庫全欽定四    書薈要</hi>
+　　　　芸<hi>角上</hi>㡡<hi>角/上</hi>四<hi>羽/凡</hi>庫<hi>羽/凡</hi>收<hi>角/上</hi>藏<hi>徴/工</hi>富<hi>羽/凡</hi>彚<hi>羽凡</hi>要<lb/>
+　　　　<hi>徵工</hi>鈔<hi>角/上</hi>成<hi>角/上</hi>取<hi>宫/四</hi>㝡<hi>角/上</hi>精<hi>啇乙</hi>
+　　摛<hi>徴工</hi>藻<hi>角上</hi>
+<pb n="KR2m0040_WYG_058-16a"/>
+　　　　味<hi>羽凡</hi>腴<hi>角/上</hi>各<hi>宫/四</hi>分<hi>商/乙</hi>置<hi>角/上</hi>獨<hi>宫/四</hi>將<hi>商/乙</hi>書<hi>角/上</hi>史<hi>宫四</hi>騐<lb/>
+　　　　　　<hi>徴工</hi>生<hi>角/上</hi>平<hi>商乙</hi>
+　　　　　　上工凡五工上乙四<lb/>
+　　　　　　一百四十　<hi>大内建文淵閣</hi>
+　　　　　　四<hi>羽凡</hi>庫<hi>羽/凡</hi>編<hi>角/上</hi>書<hi>角/上</hi>成<hi>徴/工</hi>十<hi>羽/凡</hi>年<hi>角/上</hi>要<hi>徴工</hi>資<lb/>
+　　　　　　<hi>角上</hi>稽<hi>商/乙</hi>古<hi>宫/四</hi>得<hi>宫/四</hi>尋<hi>角/上</hi>沿<hi>商乙</hi>
+　　　　經<hi>徴工</hi>筵<hi>角/上</hi>例<hi>羽凡</hi>
+昔<hi>徴工</hi>賜<hi>宫/五</hi>茶<hi>徵/工</hi>典<hi>羽凡</hi>
+<pb n="KR2m0040_WYG_058-16b"/>
+　　題<hi>角上</hi>額<hi>徴/工</hi>從<hi>宫/四</hi>窺<hi>商乙</hi>
+　　聖<hi>徵工</hi>學<hi>宫/四</hi>淵<hi>商乙</hi>
+　　　　　　凡工工上工四乙上<lb/>
+　　　　　　一百四十一　<hi>盛京建文<graphic n="KR1574" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1574.png" mimeType="image/png"/>閣</hi>
+　　　　　　更<hi>宫五</hi>歩<hi>徴/工</hi>故<hi>羽/凡</hi>宫<hi>角上</hi>
+　　　　翔<hi>徵工</hi>鳯<hi>羽/凡</hi>閣<hi>徴工</hi>
+　　　　陪<hi>角上</hi>都<hi>角/上</hi>今<hi>徴/工</hi>次<hi>羽/凡</hi>溯<hi>徵/工</hi>其<hi>商/乙</hi>初<hi>角/上</hi>豈<hi>角/上</hi>無<hi>徴工</hi>絳<lb/>
+　　　　　　<hi>羽凡</hi>蠟<hi>徴/工</hi>將<hi>角/上</hi>銀<hi>商/乙</hi>燭<hi>宫/四</hi>㸃<hi>徴/工</hi>勘<hi>羽/凡</hi>新<hi>角/上</hi>増<hi>角上</hi>
+<pb n="KR2m0040_WYG_058-17a"/>
+　　　　四<hi>羽凡</hi>庫<hi>徴/工</hi>書<hi>角上</hi>
+　　　　工凡上乙四凡工凡<lb/>
+　　　　一百四十二　<hi>圓明園建文源閣</hi>
+　　　　識<hi>徴工</hi>其<hi>角/上</hi>委<hi>宫/四</hi>欲<hi>商/乙</hi>溯<hi>徴/工</hi>其<hi>角/上</hi>源<hi>商/乙</hi>自<hi>羽凡</hi>有<lb/>
+　　　　<hi>角上</hi>精<hi>徴/工</hi>微<hi>徴/工</hi>契<hi>羽/凡</hi>道<hi>徴/工</hi>原<hi>角/上</hi>却<hi>徴/工</hi>喜<hi>角/上</hi>芸<hi>徴工</hi>
+　　　　編<hi>徴工</hi>富<hi>宫/五</hi>二<hi>羽/凡</hi>酉<hi>徴/工</hi>樸<hi>角/上</hi>齋<hi>徴/工</hi>數<hi>羽/凡</hi>架<hi>羽凡</hi>搆<lb/>
+　　　　<hi>徴工</hi>山<hi>角/上</hi>園<hi>商乙</hi>
+　　　　上工凡五工上乙四<lb/>
+<pb n="KR2m0040_WYG_058-17b"/>
+　　　　一百四十三<hi>建避暑山莊    文津閣</hi>
+　　　　綈<hi>徴工</hi>几<hi>角/上</hi>芸<hi>徴/工</hi>編<hi>徴/工</hi>次<hi>羽/凡</hi>第<hi>徴/工</hi>陳<hi>角上</hi>
+　　山<hi>徴工</hi>莊<hi>角/上</hi>之<hi>徵/工</hi>閣<hi>羽/凡</hi>曰<hi>徴/工</hi>文<hi>角/上</hi>津<hi>商/乙</hi>興<hi>宫/四</hi>山<hi>商乙</hi>列<lb/>
+　　　　<hi>角上</hi>水<hi>宫/四</hi>蔚<hi>宫/四</hi>文<hi>商/乙</hi>氣<hi>角/上</hi>深<hi>徴/宫</hi>入<hi>角/上</hi>精<hi>徴/工</hi>微<hi>徴工</hi>
+　　　　迥<hi>宫四</hi>出<hi>角/上</hi>塵<hi>商乙</hi>
+　　　　凡工工上工四乙上<lb/>
+　　　　一百四十四<hi>楊州建文滙閣</hi>
+　　　　天<hi>徴工</hi>寧<hi>角/上</hi>别<hi>商/乙</hi>館<hi>宫/四</hi>書<hi>角/上</hi>樓<hi>商/乙</hi>聳<hi>宫/四</hi>數<hi>角上</hi>典<lb/>
+<pb n="KR2m0040_WYG_058-18a"/>
+　　　　<hi>徴工</hi>應<hi>角/上</hi>看<hi>角/上</hi>四<hi>羽/凡</hi>庫<hi>徴/工</hi>呈<hi>角/上</hi>三<hi>羽/凡</hi>月<hi>徴/工</hi>烟<hi>角上</hi>
+　　　　花<hi>角上</hi>雖<hi>徴/工</hi>入<hi>角/上</hi>畫<hi>羽/凡</hi>巡<hi>角/上</hi>檐<hi>角/上</hi>芸<hi>徴/工</hi>閣<hi>羽凡</hi>一<lb/>
+　　　　<hi>宫四</hi>
+怡<hi>角上</hi>情<hi>商乙</hi>
+　　　　工凡上乙四凡工凡<lb/>
+　　　　一百四十五<hi>金山建文宗閣</hi>
+　　　　理<hi>徴工</hi>趣<hi>羽凡</hi>
+　　文<hi>角上</hi>宗<hi>徴/工</hi>契<hi>羽/凡</hi>顯<hi>角/上</hi>藏<hi>徴/工</hi>果<hi>角/上</hi>然<hi>徴/工</hi>紹<hi>羽/凡</hi>逺<hi>角上</hi>藉<lb/>
+<pb n="KR2m0040_WYG_058-18b"/>
+　　　　<hi>宫五</hi>捜<hi>羽/凡</hi>旁<hi>徴/工</hi>百<hi>宫/四</hi>川<hi>商/乙</hi>扵<hi>角/上</hi>此<hi>商/乙</hi>朝<hi>宫/四</hi>宗<hi>商乙</hi>
+　　　　海<hi>宫四</hi>元<hi>徴/工</hi>氣<hi>羽/凡</hi>因<hi>角/上</hi>之<hi>角/上</hi>合<hi>徴/工</hi>混<hi>羽/凡</hi>茫<hi>角上</hi>
+　　　　上工凡五工上乙四<lb/>
+　　　　一百四十六<hi>杭州建文瀾閣</hi>
+　　　　范<hi>徴工</hi>家<hi>角/上</hi>天<hi>徴/工</hi>一<hi>羽/凡</hi>於<hi>角/上</hi>斯<hi>徴/工</hi>近<hi>羽/凡</hi>閲<hi>宫四</hi>盡<lb/>
+　　　　<hi>角上</hi>千<hi>商/乙</hi>秋<hi>商/乙</hi>逰<hi>宫/四</hi>賞<hi>羽/凡</hi>人<hi>宫/四</hi>左<hi>角/上</hi>江<hi>徴/工</hi>右<hi>羽凡</hi>
+　　　　湖<hi>角上</hi>互<hi>羽/凡</hi>環<hi>角/上</hi>抱<hi>徴工</hi>
+　　文<hi>角上</hi>瀾<hi>角/上</hi>不<hi>徴/工</hi>外<hi>羽/凡</hi>史<hi>宫/四</hi>經<hi>角/上</hi>循<hi>商乙</hi>
+<pb n="KR2m0040_WYG_058-19a"/>
+　　　　凡工工上工四乙上<lb/>
+　　　　一百四十七<hi>書詩御製題    數百首</hi>
+　　　　序<hi>羽凡</hi>以<hi>徴/工</hi>行<hi>角/上</hi>之<hi>徴/工</hi>詩<hi>羽/凡</hi>代<hi>宫/五</hi>序<hi>羽/凡</hi>欲<hi>角上</hi>因<lb/>
+　　　　<hi>徴工</hi>啟<hi>角/上</hi>秘<hi>羽/凡</hi>逓<hi>徴/工</hi>吟<hi>角/上</hi>之<hi>商/乙</hi>尼<hi>宫/四</hi>山<hi>商/乙</hi>刪<hi>角上</hi>
+　　　　定<hi>徴工</hi>開<hi>角/上</hi>宗<hi>商/乙</hi>旨<hi>宫/四</hi>是<hi>羽/凡</hi>用<hi>徴工</hi>
+摛<hi>角上</hi>豪<hi>角/上</hi>作<hi>宫/四</hi>弁<hi>角/上</hi>辭<hi>商乙</hi>
+　　　　工凡上乙四凡工凡<lb/>
+　　　　一百四十八<hi>書家賜藏    書籍</hi>
+<pb n="KR2m0040_WYG_058-19b"/>
+　　　　官<hi>角上</hi>書<hi>角/上</hi>率<hi>徴/工</hi>就<hi>羽/凡</hi>私<hi>角/上</hi>書<hi>徴/工</hi>獻<hi>羽/凡</hi>汲<hi>徴工</hi>古<lb/>
+　　　　<hi>角上</hi>深<hi>徴/工</hi>心<hi>徴/工</hi>有<hi>宫/四</hi>足<hi>角/上</hi>多<hi>商/乙</hi>莫<hi>羽/凡</hi>作<hi>徴/工</hi>崇<hi>角上</hi>
+　　　　儒<hi>角上</hi>例<hi>羽/凡</hi>事<hi>羽/凡</hi>看<hi>徴/工</hi>所<hi>角/上</hi>饒<hi>徵/工</hi>架<hi>羽/凡</hi>有<hi>角上</hi>縹<lb/>
+　　　　<hi>徴工</hi>緗<hi>角/上</hi>羅<hi>商乙</hi>
+　　　　上工凡五工上乙四<lb/>
+　　　　一百四十九<hi>製武英殿  聚珍版</hi>
+　　　　代<hi>徴工</hi>木<hi>角/上</hi>由<hi>徴/工</hi>來<hi>徵/工</hi>人<hi>角/上</hi>盡<hi>羽/凡</hi>知<hi>徴/工</hi>知<hi>徴工</hi>雕<lb/>
+　　　　<hi>角上</hi>不<hi>徴/工</hi>辨<hi>羽/凡</hi>鑿<hi>宫/四</hi>痕<hi>角/上</hi>施<hi>商/乙</hi>散<hi>徴/工</hi>編<hi>角/上</hi>裒<hi>徴工</hi>
+<pb n="KR2m0040_WYG_058-20a"/>
+　　　　　　集<hi>羽凡</hi>還<hi>角/上</hi>全<hi>商/乙</hi>璧<hi>宫/四</hi>薈<hi>羽/凡</hi>美<hi>角/上</hi>連<hi>徴/工</hi>珍<hi>徴工</hi>合<lb/>
+　　　　　　<hi>宫四</hi>在<hi>角/上</hi>斯<hi>商乙</hi>
+　　　　　　凡工工上工四乙上<lb/>
+　　　　　　一百五十<hi>學石重排太    鼓文</hi>
+　　　　　　十<hi>角上</hi>什<hi>徴/工</hi>排<hi>角/上</hi>成<hi>角/上</hi>十<hi>宫/四</hi>鼓<hi>商/乙</hi>咸<hi>角/上</hi>存<hi>角上</hi>亡<lb/>
+　　　　　　<hi>角上</hi>蜃<hi>徴/工</hi>市<hi>羽/凡</hi>閲<hi>徴/工</hi>荆<hi>角/上</hi>凡<hi>商/乙</hi>收<hi>徴/工</hi>三<hi>角/上</hi>百<hi>徴工</hi>
+　　　　　　又<hi>羽凡</hi>加<hi>角/上</hi>旬<hi>商/乙</hi>者<hi>宫/四</hi>擬<hi>角/上</hi>合<hi>徴/工</hi>從<hi>宫/四</hi>前<hi>商乙</hi>概<lb/>
+　　　　　　<hi>角上</hi>與<hi>宫/四</hi>芟<hi>商乙</hi>
+<pb n="KR2m0040_WYG_058-20b"/>
+　　　　　　工凡上乙四凡工凡<lb/>
+　　　　　　一百五十一<hi>書</hi>　<hi>御</hi>
+　　　　　　大<hi>羽凡</hi>塊<hi>羽/凡</hi>文<hi>角/上</hi>章<hi>角上</hi>
+　　振<hi>宫五</hi>藻<hi>羽/凡</hi>時<hi>徴工</hi>
+勲<hi>徵工</hi>華<hi>角/上</hi>家<hi>徵/工</hi>法<hi>羽/凡</hi>在<hi>角/上</hi>臨<hi>角/上</hi>池<hi>商/乙</hi>書<hi>宫/四</hi>中<hi>商/乙</hi>稱<hi>角上</hi>
+　　聖<hi>徴工</hi>誠<hi>宫/四</hi>無<hi>商/乙</hi>媿<hi>角/上</hi>亦<hi>徴/工</hi>曰<hi>羽/凡</hi>因<hi>角/上</hi>心<hi>角/上</hi>楷<hi>宫/四</hi>則<hi>角上</hi>知<lb/>
+　　　　　　<hi>商乙</hi>
+　　　　　　上工凡五工上乙四<lb/>
+<pb n="KR2m0040_WYG_058-21a"/>
+　　　　　一百五十二<hi>毎朔望令莭  御書心經</hi>
+　　　　　心<hi>徴工</hi>經<hi>徴/工</hi>二<hi>羽/凡</hi>百<hi>徴/工</hi>六<hi>宫/四</hi>十<hi>商/乙</hi>八<hi>角/上</hi>金<hi>徴工</hi>粟<lb/>
+　　　　　<hi>角上</hi>身<hi>徴/工</hi>存<hi>徴/工</hi>舊<hi>羽/凡</hi>卷<hi>角/上</hi>筒<hi>徴/工</hi>及<hi>角/上</hi>節<hi>徴/工</hi>祗<hi>宫四</hi>
+　　　　　湏<hi>商乙</hi>霏<hi>角/上</hi>法<hi>商/乙</hi>雨<hi>宫/四</hi>本<hi>宫/四</hi>来<hi>商/乙</hi>如<hi>角/上</hi>是<hi>徴工</hi>匪<lb/>
+　　　　　<hi>宫四</hi>神<hi>角/上</hi>通<hi>商乙</hi>
+　　　　　凡工工上工四乙上<lb/>
+　　　　　一百五十三<hi>勝齋御書敬    法帖</hi>
+　臨<hi>角上</hi>池<hi>角/上</hi>橅<hi>徴/工</hi>帖<hi>羽/凡</hi>三<hi>角/上</hi>倉<hi>商/乙</hi>衍<hi>宫/四</hi>詠<hi>徴/工</hi>矣<hi>角/上</hi>寫<hi>宫四</hi>之<lb/>
+<pb n="KR2m0040_WYG_058-21b"/>
+　　　　<hi>商乙</hi>都<hi>角/上</hi>與<hi>宫/四</hi>諧<hi>商/乙</hi>機<hi>羽/凡</hi>鑑<hi>宫/五</hi>豆<hi>徴/工</hi>觴<hi>角/上</hi>資<hi>徴工</hi>
+　　　　日<hi>角上</hi>用<hi>羽凡</hi>
+　　齊<hi>徴工</hi>斯<hi>角/上</hi>同<hi>宫/四</hi>一<hi>商/乙</hi>敬<hi>徵/工</hi>為<hi>角/上</hi>偕<hi>商乙</hi>
+　　　　工凡上乙四凡工凡<lb/>
+　　　　一百五十四<hi>希堂御刻三    法帖</hi>
+　　　　由<hi>角上</hi>来<hi>徴/工</hi>字<hi>羽/凡</hi>必<hi>角/上</hi>以<hi>角/上</hi>人<hi>羽/凡</hi>𫝊<hi>徴/工</hi>翰<hi>角上</hi>綜<lb/>
+　　　　<hi>徴工</hi>瑯<hi>宫/四</hi>琊<hi>商/乙</hi>得<hi>宫/四</hi>妙<hi>角/上</hi>筌<hi>角/上</hi>閲<hi>徴/工</hi>古<hi>角/上</hi>雖<hi>羽凡</hi>
+　　　　因<hi>徴工</hi>藏<hi>宫/四</hi>帖<hi>商/乙</hi>版<hi>宫/四</hi>士<hi>徴/工</hi>希<hi>角/上</hi>賢<hi>徴/工</hi>聖<hi>羽凡</hi>聖<lb/>
+<pb n="KR2m0040_WYG_058-22a"/>
+　　　　<hi>徴工</hi>希<hi>角/上</hi>天<hi>商乙</hi>
+　　　　上工凡五工上乙四<lb/>
+　　　　一百五十五<hi>妙軒御刻墨    法帖</hi>
+　　　　展<hi>角上</hi>濶<hi>徴/工</hi>縮<hi>羽/凡</hi>臨<hi>角/上</hi>皆<hi>徴/工</hi>自<hi>羽/凡</hi>我<hi>角/上</hi>精<hi>徴工</hi>華<lb/>
+　　　　<hi>角上</hi>四<hi>羽/凡</hi>壁<hi>徴/工</hi>萃<hi>宫/五</hi>球<hi>羽/凡</hi>琳<hi>徴/工</hi>三<hi>徴/工</hi>希<hi>角/上</hi>伯<hi>徴工</hi>
+　　　　仲<hi>羽凡</hi>開<hi>角/上</hi>生<hi>徴/工</hi>靣<hi>羽/凡</hi>歩<hi>羽/凡</hi>入<hi>徴工</hi>
+　　文<hi>宫四</hi>軒<hi>商/乙</hi>翰<hi>徴/工</hi>墨<hi>宫/四</hi>林<hi>商乙</hi>
+　　　　凡工工上工四乙上<lb/>
+<pb n="KR2m0040_WYG_058-22b"/>
+　　　　一百五十六<hi>刻淳御定重    化閣帖</hi>
+作<hi>徴工</hi>記<hi>羽/凡</hi>中<hi>徴/工</hi>曽<hi>角/上</hi>義<hi>宫/五</hi>備<hi>羽/凡</hi>宣<hi>徴/工</hi>非<hi>徴/工</hi>闗<hi>角/上</hi>治<hi>羽凡</hi>道<lb/>
+　　　　<hi>羽凡</hi>彼<hi>角/上</hi>稱<hi>羽/凡</hi>賢<hi>徵/工</hi>重<hi>角/上</hi>摹<hi>角/上</hi>淳<hi>徴/工</hi>化<hi>羽凡</hi>
+加<hi>角上</hi>評<hi>徴/工</hi>訂<hi>羽/凡</hi>精<hi>徴/工</hi>覈<hi>角/上</hi>過<hi>宫/四</hi>扵<hi>商/乙</hi>王<hi>宫/四</hi>氏<hi>角/上</hi>編<hi>商乙</hi>
+　　　　工凡上乙四凡工凡<lb/>
+　　　　一百五十七<hi>雪堂欽定快    法帖</hi>
+　　　　快<hi>羽凡</hi>雪<hi>徴/工</hi>為<hi>角/上</hi>倡<hi>徴/工</hi>松<hi>角/上</hi>雪<hi>徴/工</hi>殿<hi>羽/凡</hi>珍<hi>徵工</hi>同<lb/>
+　　　　<hi>角上</hi>淳<hi>徴/工</hi>化<hi>羽/凡</hi>砌<hi>徴/工</hi>廊<hi>商/乙</hi>俱<hi>角/上</hi>宣<hi>徴/工</hi>毫<hi>角/上</hi>端<hi>徴工</hi>
+<pb n="KR2m0040_WYG_058-23a"/>
+　　　　硯<hi>羽凡</hi>常<hi>宫/四</hi>随<hi>宫/四</hi>側<hi>商/乙</hi>消<hi>徴/工</hi>得<hi>羽/凡</hi>臨<hi>角/上</hi>池<hi>角上</hi>作<lb/>
+　　　　<hi>宫四</hi>
+靜<hi>角上</hi>娱<hi>商乙</hi>
+　　　　上工凡五工上乙四<lb/>
+　　　　一百五十八<hi>亭八御刻蘭    柱帖</hi>
+　　　　千<hi>角上</hi>巖<hi>角/上</hi>萬<hi>羽/凡</hi>壑<hi>徴/工</hi>靄<hi>宫/五</hi>春<hi>羽/凡</hi>烟<hi>徴/工</hi>天<hi>徴工</hi>朗<lb/>
+　　　　<hi>角上</hi>氣<hi>羽/凡</hi>清<hi>角/上</hi>三<hi>羽/凡</hi>月<hi>角/上</hi>天<hi>徴/工</hi>虞<hi>徵/工</hi>禇<hi>角/上</hi>馮<hi>徴工</hi>
+　　　　隣<hi>徴工</hi>唐<hi>角/上</hi>四<hi>羽/凡</hi>絶<hi>角/上</hi>蘭<hi>宫/四</hi>亭<hi>商/乙</hi>八<hi>角/上</hi>柱<hi>徴工</hi>已<lb/>
+<pb n="KR2m0040_WYG_058-23b"/>
+　　　　<hi>宫四</hi>精<hi>角/上</hi>鐫<hi>商乙</hi>
+　　　　凡工工上工四乙上<lb/>
+　　　　一百五十九<hi>畫</hi>　<hi>御</hi>
+題<hi>角上</hi>罷<hi>徵/工</hi>拈<hi>角/上</hi>毫<hi>角/上</hi>便<hi>羽/凡</hi>寫<hi>角/上</hi>之<hi>徵/工</hi>别<hi>角/上</hi>開<hi>徴/工</hi>生<hi>羽凡</hi>靣<lb/>
+　　　　<hi>宫五</hi>妙<hi>宫/五</hi>如<hi>羽/凡</hi>斯<hi>徴/工</hi>試<hi>徴/工</hi>看<hi>角/上</hi>色<hi>徴/工</hi>色<hi>羽/凡</hi>形<hi>角上</hi>
+　　　　形<hi>商乙</hi>者<hi>宫/四</hi>自<hi>羽/凡</hi>有<hi>角上</hi>
+心<hi>徴工</hi>中<hi>徵/工</hi>天<hi>宫/四</hi>地<hi>角/上</hi>師<hi>商乙</hi>
+　　　　工凡上乙四凡工凡<lb/>
+<pb n="KR2m0040_WYG_058-24a"/>
+　　　　一百六十<hi>每嵗嵗朝御筆畫    圖</hi>
+寓<hi>羽凡</hi>意<hi>羽/凡</hi>吉<hi>角/上</hi>言<hi>徴/工</hi>圖<hi>角/上</hi>嵗<hi>羽/凡</hi>朝<hi>徴/工</hi>熙<hi>角/上</hi>熙<hi>角/上</hi>物<hi>徴工</hi>意<lb/>
+　　　　<hi>羽凡</hi>總<hi>宫/四</hi>含<hi>商/乙</hi>韶<hi>角/上</hi>五<hi>宫/四</hi>辛<hi>商/乙</hi>盤<hi>商/乙</hi>與<hi>宫/四</hi>宜<hi>角上</hi>
+　　　　春<hi>羽凡</hi>帖<hi>徴/工</hi>最<hi>羽/凡</hi>切<hi>徴/工</hi>時<hi>角/上</hi>和<hi>角/上</hi>風<hi>徴/工</hi>雨<hi>宫四</hi>調<lb/>
+　　　　<hi>商乙</hi>
+　　　　上工凡五工上乙四<lb/>
+　　　　一百六十一<hi>待飼御臨李迪雞雛    圖    頒賜</hi>
+　　　　待<hi>羽凡</hi>飼<hi>羽/凡</hi>長<hi>角/上</hi>鳴<hi>角/上</hi>似<hi>羽/凡</hi>訴<hi>徴/工</hi>飢<hi>角/上</hi>古<hi>角上</hi>人<lb/>
+<pb n="KR2m0040_WYG_058-24b"/>
+　　　　<hi>徴工</hi>格<hi>宫/四</hi>物<hi>商/乙</hi>或<hi>宫/四</hi>遺<hi>角/上</hi>兹<hi>商乙</hi>
+詩<hi>徴工</hi>情<hi>角上</hi>
+畫<hi>羽凡</hi>意<hi>羽/凡</hi>時<hi>角/上</hi>相<hi>徴/工</hi>證<hi>羽/凡</hi>合<hi>角/上</hi>共<hi>徵/工</hi>思<hi>商/乙</hi>㢤<hi>商/乙</hi>良<hi>宫四</hi>有<lb/>
+　　　　<hi>羽凡</hi>司<hi>宫四</hi>
+　　　　凡工工上工四乙上<lb/>
+　　　　一百六十二<hi>摹樓御刻程<graphic n="KR1658" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1658.png" mimeType="image/png"/>    璹耕織圖</hi>
+　　　　程<hi>角上</hi>樓<hi>角/上</hi>妙<hi>羽/凡</hi>蹟<hi>徴/工</hi>石<hi>角/上</hi>碑<hi>羽/凡</hi>摹<hi>徴/工</hi>岸<hi>徴工</hi>轉<lb/>
+　　　　<hi>角上</hi>横<hi>宫/四</hi>陳<hi>商/乙</hi>耕<hi>徴/工</hi>織<hi>角/上</hi>圖<hi>商/乙</hi>飽<hi>宫/四</hi>食<hi>商/乙</hi>煖<hi>羽凡</hi>
+<pb n="KR2m0040_WYG_058-25a"/>
+　　　　衣<hi>宫四</hi>恒<hi>角/上</hi>願<hi>羽/凡</hi>衆<hi>徴/工</hi>重<hi>羽/凡</hi>農<hi>角/上</hi>兼<hi>商/乙</hi>及<hi>宫四</hi>重<lb/>
+　　　　<hi>徴工</hi>桑<hi>角/上</hi>夫<hi>商乙</hi>
+　　　　工凡上乙四凡工凡<lb/>
+　　　　一百六十三<hi>棉花御題    圖</hi>
+　　　　豈<hi>徴工</hi>止<hi>角/上</hi>千<hi>徴/工</hi>絲<hi>徴/工</hi>與<hi>角/上</hi>萬<hi>羽/凡</hi>絲<hi>徴/工</hi>玉<hi>角上</hi>題<lb/>
+　　　　<hi>徴工</hi>錦<hi>宫/四</hi>贉<hi>商/乙</hi>稱<hi>徴/工</hi>装<hi>角/上</hi>池<hi>商/乙</hi>布<hi>徴/工</hi>棉<hi>角上</hi>
+題<hi>徴工</hi>句<hi>羽/凡</hi>廑<hi>角/上</hi>民<hi>商/乙</hi>瘼<hi>宫/四</hi>絜<hi>徴/工</hi>矩<hi>角/上</hi>田<hi>宫/四</hi>家<hi>商/乙</hi>賣<hi>徴工</hi>榖<lb/>
+　　　　<hi>宫四</hi>詩<hi>商乙</hi>
+<pb n="KR2m0040_WYG_058-25b"/>
+　　　　上工凡五工上乙四<lb/>
+　　　　一百六十四<hi>射大西門中十御  二十矢    九</hi>
+　　　　金<hi>徴工</hi>桃<hi>角/上</hi>皮<hi>角/上</hi>弓<hi>徴/工</hi>雕<hi>羽/凡</hi>羽<hi>角/上</hi>箭<hi>徴工</hi>
+　　大<hi>羽凡</hi>西<hi>角/上</hi>門<hi>角/上</hi>迥<hi>商/乙</hi>亘<hi>角/上</hi>長<hi>宫/四</hi>樓<hi>商乙</hi>
+射<hi>宫四</hi>鵠<hi>商/乙</hi>廿<hi>角/上</hi>發<hi>宫/四</hi>中<hi>商/乙</hi>十<hi>宫/四</hi>九<hi>角/上</hi>染<hi>羽/凡</hi>翰<hi>徴/工</hi>詞<hi>宫四</hi>臣<lb/>
+　　　　<hi>商乙</hi>共<hi>宫/四</hi>舉<hi>角/上</hi>頭<hi>商乙</hi>
+　　　　凡工工上工四乙上<lb/>
+八旬萬夀盛典卷五十八<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

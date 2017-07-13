@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>東漢文紀</head>
+    <p>
+<pb n="KR4h0122_WYG_000-1a"/>
+欽定四庫全書　　　　　集部八<lb/>
+　東漢文紀　　　　　　　總集類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案東漢文紀三十二巻明梅鼎祚編<lb/>
+　　　　鼎祚西漢文紀根據史漢故多為典確是編<lb/>
+　　　　雖亦以正史為宗而雜書之作始盛于東漢<lb/>
+　　　　即劉珍張璠諸記著録正史者亦逾八家沿<lb/>
+　　　　及六代小説繁興其時去雒京最近故依託<lb/>
+<pb n="KR4h0122_WYG_000-1b"/>
+　　　　附㑹尤較西漢為多至于集古金石諸録博<lb/>
+　　　　古考古諸圖以迨𨽻釋𨽻續而下捜括舊刻<lb/>
+　　　　爭奇炫博者彌不一家而西漢自五鳳磚數<lb/>
+　　　　事以外寥寥無多其碑碣文詞器物銘識亦<lb/>
+　　　　往往惟稱東漢鼎祚蒐羅既富義取全收其<lb/>
+　　　　間真贋互陳異同蠭起而訂訛正舛亦不及<lb/>
+　　　　西漢文紀之詳固其所也至如曹全一碑近<lb/>
+　　　　代始出乃復捃摭不遺其采輯亦云勤矣若<lb/>
+<pb n="KR4h0122_WYG_000-2a"/>
+　　　　夫永和裴岑破呼衍王碑逺在西域自我<lb/>
+　　皇上天威耆定儒者始獲睹其文鼎祚生明季衰<lb/>
+　　　　微之時嘉峪闗外即為絶域其佚而不載固<lb/>
+　　　　未可以為疎漏焉乾隆四十三年五月恭校<lb/>
+　　　　上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

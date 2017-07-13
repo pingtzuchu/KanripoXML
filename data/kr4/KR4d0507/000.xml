@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>閒居叢稿</head>
+    <p>
+<pb n="KR4d0507_WYG_000-1a"/>
+欽定四庫全書　　　　集部五<lb/>
+　閒居叢稿　　　　　　别集類四<hi>元</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案閒居叢稿二十六卷元蒲道源撰<lb/>
+　　　　道源字得之號順齋世居眉州之青神徙居<lb/>
+　　　　興元初為郡學正罷歸皇慶中徴為國史院<lb/>
+　　　　編修官進國子博士年六十矣越嵗復引疾<lb/>
+　　　　去後十年召為陜西儒學提舉不就迹其生<lb/>
+<pb n="KR4d0507_WYG_000-1b"/>
+　　　　平恬於仕宦大扺間居之日為多故其子機<lb/>
+　　　　裒輯遺文題曰間居叢稿凡詩賦八卷雜文<lb/>
+　　　　樂府十八卷詩文俱平實顯易不尚華藻黄<lb/>
+　　　　溍為之序稱國家統一海宇士俗醇美一時<lb/>
+　　　　鴻生碩儒所為文皆雄深渾厚而無靡麗之<lb/>
+　　　　習承平滋乆風流未墜皇慶延祐間公以性<lb/>
+　　　　理之學施於臺閣之文譬如良金羙玉不假<lb/>
+　　　　鍜鍊琱琢而光耀自不掩云云亦言其文之<lb/>
+<pb n="KR4d0507_WYG_000-2a"/>
+　　　　真樸也葢元大徳以後亦如明宣徳正統以<lb/>
+　　　　後其文大扺雍容不迫淺顯不支雖流弊所<lb/>
+　　　　滋庸沓在所不免而不謂之盛時則不可顧<lb/>
+　　　　嗣立元詩選引溍此文謂當時風尚如此可<lb/>
+　　　　以觀世運焉斯言允矣乾隆四十一年十二月<lb/>
+　　　　恭校上<lb/>
+　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸鍚熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸費墀<lb/>
+<pb n="KR4d0507_WYG_000-3a"/>
+欽定四庫全書　　　　集部五<lb/>
+　閑居叢稿　　　　　　别集類四<hi>元</hi>
+　　目録<lb/>
+　　卷一<lb/>
+　　　古賦<lb/>
+　　　四言古詩<lb/>
+　　　五言古詩<lb/>
+　　卷二<lb/>
+<pb n="KR4d0507_WYG_000-3b"/>
+　　　七言古詩<lb/>
+　　　雜言<lb/>
+　　卷三<lb/>
+　　　五言律詩<lb/>
+　　卷四<lb/>
+　　　七言律詩上<lb/>
+　　卷五<lb/>
+　　　七言律詩中<lb/>
+<pb n="KR4d0507_WYG_000-4a"/>
+　　卷六<lb/>
+　　　七言律詩下<lb/>
+　　卷七<lb/>
+　　　四言絶句<lb/>
+　　　五言絶句<lb/>
+　　　六言絶句<lb/>
+　　　七言絶句上<lb/>
+　　卷八<lb/>
+<pb n="KR4d0507_WYG_000-4b"/>
+　　　七言絶句下<lb/>
+　　卷九<lb/>
+　　　銘<lb/>
+　　　箴<lb/>
+　　　贊<lb/>
+　　　解<lb/>
+　　　辯<lb/>
+　　　樂語<lb/>
+<pb n="KR4d0507_WYG_000-5a"/>
+　　　夀詞<lb/>
+　　　春帖<lb/>
+　　　疏<lb/>
+　　卷十<lb/>
+　　　跋<lb/>
+　　卷十一<lb/>
+　　　齋醮文<lb/>
+　　　祝詞<lb/>
+<pb n="KR4d0507_WYG_000-5b"/>
+　　　節辰致語<lb/>
+　　　上梁文<lb/>
+　　　詩聯<lb/>
+　　卷十二<lb/>
+　　　樂府<lb/>
+　　卷十三<lb/>
+　　　經㫖<lb/>
+　　　䇿<lb/>
+<pb n="KR4d0507_WYG_000-6a"/>
+　　卷十四<lb/>
+　　　傳<lb/>
+　　　記<lb/>
+　　卷十五<lb/>
+　　　制<lb/>
+　　　表牋<lb/>
+　　卷十六<lb/>
+　　　碑<lb/>
+<pb n="KR4d0507_WYG_000-6b"/>
+　　卷十七<lb/>
+　　　書<lb/>
+　　　啟<lb/>
+　　卷十八<lb/>
+　　　序上<lb/>
+　　卷十九<lb/>
+　　　序中<lb/>
+　　卷二十<lb/>
+<pb n="KR4d0507_WYG_000-7a"/>
+　　　序下<lb/>
+　　卷二十一<lb/>
+　　　字説<lb/>
+　　卷二十二<lb/>
+　　　祝文<lb/>
+　　卷二十三<lb/>
+　　　祭文<lb/>
+　　　哀辭<lb/>
+<pb n="KR4d0507_WYG_000-7b"/>
+　　卷二十四<lb/>
+　　　墓誌銘上<lb/>
+　　卷二十五<lb/>
+　　　墓誌銘下<lb/>
+　　　墓表<lb/>
+　　卷二十六<lb/>
+　　　行狀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

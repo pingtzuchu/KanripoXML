@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3k0012_SBCK_714-1a"/>
+太平御覽卷第七百一十四<lb/>
+服用部十六<lb/>
+　　梳箆　刷　鑷<lb/>
+　觹　剔齒纎<lb/>
+　　　　　梳箆<lb/>
+說文曰櫛梳枇惣名也<lb/>
+釋名曰梳言其齒䟽也枇言其細相枇也<lb/>
+禮記曲禮上曰男女不同巾櫛<lb/>
+又玉藻曰櫛用樿櫛髮晞用象櫛<lb/>
+左傳僖公中曰晉太子圉爲質於秦將逃歸謂羸氏曰與<lb/>
+子歸乎對曰寡君之使婢子侍執巾櫛以固子也從子而<lb/>
+歸弃君命也不敢從亦不敢言<lb/>
+漢書曰孝文帝遺匈奴𥜗𫀆梳枇各一也<lb/>
+<pb n="KR3k0012_SBCK_714-1b"/>
+續漢書曰季文德素善延篤謂公卿曰延篤有王佐之才<lb/>
+欲引進之篤聞爲書止文德曰吾常昧爽櫛梳坐於客堂<lb/>
+朝則誦虞夏之書歴公旦之典禮覽仲尼之春秋當此之<lb/>
+時不知天之爲蓋地之爲輿愼勿迷其夲棄其生也<lb/>
+魏志曰徐季龍取十三種物著大篋中使管輅占之輅先<lb/>
+說雞子後道𧖟蛹遂一一名之唯以梳爲枇耳<lb/>
+脩復山陵故事曰梓宫用象牙梳五枚后梓宫物象牙梳<lb/>
+六枚瑇瑁梳六枚<lb/>
+東宫舊事曰太子納妃有瑇瑁梳三枚<lb/>
+盛弘之荆州記曰臨賀興安縣東邊有平石其上有櫛履<lb/>
+各一具俗云越王渡溪脫履墜櫛於此<lb/>
+崔寔政論曰無賞罰而欲丗之治是猶不畜梳枇而欲髮<lb/>
+之治<lb/>
+<pb n="KR3k0012_SBCK_714-2a"/>
+物理論曰威行法明漏吞舟之魚法之不明則數於細櫛<lb/>
+細櫛則苛慝生也<lb/>
+夢書曰夢梳枇爲憂解也虱盡去百病愈<lb/>
+傳咸櫛賦叙曰夫才之治丗猶櫛之理髮<lb/>
+涂岑詩曰思見君巾櫛以弭我勞慙<lb/>
+蔡邕女誡曰用櫛則思其心之理<lb/>
+髙文惠與婦書曰今致瑇瑁梳一枚<lb/>
+陸雲與兄機書曰按行視曹公器物梳枇皆在<lb/>
+四愁詩曰美人遺我旃檀梳<lb/>
+晉傳咸櫛賦曰我嘉兹櫛惡亂好理一髮不順實以爲耻<lb/>
+雖日用而匪懈不告勞而自巳苟以理而委任期竭力以<lb/>
+没齒<lb/>
+　　　　　刷<lb/>
+<pb n="KR3k0012_SBCK_714-2b"/>
+說文曰荔草似蒲而小根可作刷<lb/>
+通俗文曰所以理髪謂之刷<lb/>
+釋名曰刷帥也帥髪長短皆令上從也<lb/>
+東宫舊事曰太子納妃有七猪氂刷<lb/>
+嵇康養生論曰勁刷理髮僅乃得之<lb/>
+陸雲與機書曰按行視曹公器物刷贓處尚識<lb/>
+　　　　　鑷<lb/>
+釋名曰鑷攝也攝取髮也<lb/>
+通俗文曰披減鬚鬢謂之鑷<lb/>
+說文曰作籋曰籋箱也<lb/>
+洞林曰卷縣令施安上懷鑷令郭璞射之璞曰此是鏡物<lb/>
+有兩歧<lb/>
+沈約宋書曰彭城王義康餉沈熈光銅鑷<lb/>
+<pb n="KR3k0012_SBCK_714-3a"/>
+脩復山陵故事曰梓宫中用鐵鏤鑷五枚<lb/>
+臨海水土記曰鑷魚長七寸頭如鑷<lb/>
+齊書曰高祖恒令左右抜白髪隆昌王高祖之孫年五歳<lb/>
+戲於牀前帝曰兒言我是誰荅曰太翁帝曰豈有爲人曾<lb/>
+祖抜白髪乎即擲去鏡鑷<lb/>
+　　　　　觹<lb/>
+說文曰觹角銳端可以解結<lb/>
+毛詩淇澳曰芄蘭之支童子佩觹<hi>芄蘭草觹所以解結</hi>
+禮記内則曰子事父母左佩小觹金燧右佩大觹木燧<lb/>
+　　　　　剔齒纎<lb/>
+陸雲與兄機書曰一日行曹公器物有剔齒纎今以一枚<lb/>
+寄兄<lb/>
+<pb n="KR3k0012_SBCK_714-3b"/>
+</p>
+<p>
+太平御覽卷第七百一十四<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

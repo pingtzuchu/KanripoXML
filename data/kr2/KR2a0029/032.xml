@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2a0029_WYG_032-1a"/>
+　舊五代史巻十五攷證<lb/>
+梁列傳五韓建傳又害太子詹事馬道殷將作監許巖<lb/>
+　士　案新唐書昭宗紀正月乙酉韓建殺扈蹕都將<lb/>
+　李筠二月殺太子詹事馬道殷將作監許巖士八月<lb/>
+　殺通王滋沂王湮韶王彭王嗣韓王嗣陳王嗣覃王<lb/>
+　嗣周王嗣延王戒丕嗣丹王允通鑑與新唐書同是<lb/>
+　書以殺李筠二月事以殺馬道殷許巖士為八月事<lb/>
+　蓋本于舊唐書昭宗紀<lb/>
+<pb n="KR2a0029_WYG_032-1b"/>
+李罕之傳伊鐸　案歐陽史作伊鐔<lb/>
+遣其子顥　案歐陽史作遣子頎<lb/>
+馮行襲傳尋授均州刺史　案新唐書本紀光啓元年<lb/>
+　四月武當賊馮行襲陷均州逐其刺史吕曄蓋行襲<lb/>
+　既殪孫喜遂自據其郡也是書作中和間事與唐書<lb/>
+　異歐陽史仍從是書<lb/>
+孫徳昭傳父惟晸有功于唐朝　案惟晸歐陽史作惟<lb/>
+　朂攷新唐書亦作惟晸今仍其舊<lb/>
+<pb n="KR2a0029_WYG_032-2a"/>
+乃與本軍孫承誨董從實二人　案孫承誨董從實新<lb/>
+　舊唐書並作周承誨董彦弼攷承誨姓周與孫未知<lb/>
+　孰是從實改名彦弼見本傳後文與是書同<lb/>
+趙克裕傳尋移理許田　案克裕移理許田是書未明<lb/>
+　言其故新唐書云紀朱全忠陷孟州逐河陽節度使<lb/>
+　趙克裕据通鑑則克裕移鎮因梁祖欲以張全義領<lb/>
+　河陽也新唐書所紀疑非事實<lb/>
+　<lb/>
+<pb n="KR2a0029_WYG_032-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　舊五代史巻十五攷證<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

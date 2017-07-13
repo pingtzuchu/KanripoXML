@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0140_WYG_873-1a"/>
+　欽定四庫全書<lb/>
+御定全唐詩卷八百七十三<lb/>
+　　李兼<lb/>
+　　　　題洛陽縣壁<hi>李果遷洛陽令民吏畏服時有李兼夜聞衢中有人語曰李令正人</hi>
+　　　　<hi>此中不可久居啟門視之寂無影響方知其妖兼遂書其壁云云</hi>
+　猾吏畏服縣妖破膽好録政聲聞於御覽<lb/>
+　　杜兼<lb/>
+　　　　題書卷後語<hi>兼字處𢎞洹水人貞元元和間歴濠蘇二州刺史終河南尹性豪侈</hi>
+<pb n="KR4h0140_WYG_873-1b"/>
+　　　　<hi>家聚書萬巻每巻後必自題云云</hi>
+　倩<hi>一作凊</hi>俸寫來手自校汝曹讀之知聖道墜之鬻之為<lb/>
+　不孝<lb/>
+　　舒元輿<lb/>
+　　　　題李陽冰玉箸篆詞<lb/>
+　斯去千年冰生唐時冰復去矣後來者誰後千年有人<lb/>
+　誰能待之後千年無人篆止於斯嗚呼主人為吾寳之<lb/>
+　<hi>附栁公權筆偈云圓如錐錼如鑿不得出只得却</hi>
+<pb n="KR4h0140_WYG_873-2a"/>
+　裵諝<lb/>
+　　　判誤書紙背<hi>諝素好詼諧為河南尹有投牒誤書紙背者判云云</hi>
+這畔似那畔那畔似這畔我也不辭與你判笑殺門前<lb/>
+著鞾漢<lb/>
+　　　又判争貓兒狀<hi>冇婦人同投狀争貓兒狀云若是兒貓兒即是兒貓兒若不是</hi>
+　　　<hi>兒貓兒即不是兒貓兒諝大笑判其狀云云遂納其貓兒争者亦止焉</hi>
+貓兒不識主傍家搦老䑕兩家不湏争將來與裵諝<lb/>
+　李翶<lb/>
+<pb n="KR4h0140_WYG_873-2b"/>
+　　　斷僧通狀<lb/>
+上嵗童子二十受戒君王不朝父母不拜口稱貧道有<lb/>
+錢放債量決十下牒出東界<lb/>
+　韓滉<lb/>
+　　　判僧雲晏五人聚賭喧諍語<lb/>
+正法何曾執貝空門不積餘財白日旣能賭博通宵必<lb/>
+醉尊罍強説天堂難到又言地獄長開竝付江神收管<lb/>
+波中便是泉臺<lb/>
+<pb n="KR4h0140_WYG_873-3a"/>
+　皇甫大夫<lb/>
+　　　判道士黄山隐<hi>山隱以道服謁大夫向竹而吟云古者有七賢六箇今何在意</hi>
+　　　<hi>氣甚傲大夫試以錢絹投之改儒服陳謝甚卑因判而刑之</hi>
+道士黄山隱輕人復重財太山將比甑東海只容杯緑<lb/>
+綬蔵雲帔烏巾換鹿胎黄泉六箇鬼今夜待君來<lb/>
+　羅紹威<lb/>
+　　　碾驢鞍判<hi>紹威俊邁有詞學尤好戲判有人向官街中鞴驢置鞍於地為駕牛車者</hi>
+　　　<hi>碾破相毆判其狀云云</hi>
+<pb n="KR4h0140_WYG_873-3b"/>
+鄴城大道甚寛何故駕車碾鞍領鞴驢漢子科決待駕<lb/>
+車漢子喜歡<lb/>
+　蕭結<lb/>
+　　　批州符<hi>結廬陵人五代時為祁陽縣令性不畏強禦方暮春時有州符下取競渡船刺</hi>
+　　　<hi>史將臨觀結怒批其符云云守為止</hi>
+秧開五葉蠶長三眠人皆忙廹划甚閑船<hi>末句一作詎任渡船</hi>
+　王魯<lb/>
+　　　判部民訴主簿牒<hi>魯為當塗宰頗以資産為務㑹部民連狀訴主簿貪賂魯</hi>
+<pb n="KR4h0140_WYG_873-4a"/>
+　　　<hi>判云云為好事者口實</hi>
+汝雖打草吾巳驚蛇<lb/>
+　伶人<lb/>
+　　　戲為冥吏判<hi>張崇帥廬州索錢無厭嘗因燕次一伶人假為死者被譴作水族冥</hi>
+　　　<hi>司判云云崇大慙</hi>
+焦湖百里一任作獺<lb/>
+　張翶<lb/>
+　　　自狀<hi>乾寧中翶游徐宿時宿州刺史陳璠以軍旅出身擅行威斷翶恃才傲物席上調其</hi>
+<pb n="KR4h0140_WYG_873-4b"/>
+　　　<hi>寵妓張小泰怒付吏責其無禮翶狀云云璠益怒云據此合喫㡬下翶又云只此兩句合喫三</hi>
+　　　<hi>下五下切求一笑宜費千金萬金竟鞭背而卒</hi>
+有張翶兮寓止淮隂來綺席兮放恣胷襟<lb/>
+　趙武建<lb/>
+　　　刺左右膊詩<hi>唐中葉長安惡少年多以詩句鑱湼肌膚夸詭力剽敓坊閭逺近效</hi>
+　　　<hi>之成習其他更有取名賢詩中意細刺樹木人物至有周身用白樂天詩意刺湼人呼為白舍</hi>
+　　　<hi>人行詩圖者名為劄青云</hi>
+野鴨灘頭宿朝朝被鶻梢忽驚飛入水留命到今朝<lb/>
+<pb n="KR4h0140_WYG_873-5a"/>
+　　宋元素<lb/>
+　　　　刺左臂膊詩<lb/>
+　昔日已前家未貧苦將錢物結交親如今失路尋知已<lb/>
+　行盡闗山無一人<lb/>
+　　張幹<lb/>
+　　　　刺左右膊句<lb/>
+　生不怕京兆尹<hi>左</hi>死不畏閻羅王<hi>右</hi>
+　<lb/>
+<pb n="KR4h0140_WYG_873-5b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定全唐詩巻八百七十三<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

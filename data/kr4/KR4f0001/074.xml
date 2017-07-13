@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4f0001_WYG_074-1a"/>
+　欽定四庫全書<lb/>
+聖祖仁皇帝御製文集巻三十五目錄<lb/>
+　　古今體詩二十一首<lb/>
+　　　　潞河三首<lb/>
+　　　　廵幸出喜峯口過黄土巖<lb/>
+　　　　大石磯<lb/>
+　　　　塞上宴諸藩<lb/>
+　　　　入喜峯口<lb/>
+<pb n="KR4f0001_WYG_074-1b"/>
+　　　　野望<lb/>
+　　　　夏日迎薰亭<lb/>
+　　　　午日<lb/>
+　　　　潭柘寺<lb/>
+　　　　戒壇卧松<lb/>
+　　　　早秋新霽<lb/>
+　　　　夜坐<lb/>
+　　　　瀛臺<lb/>
+<pb n="KR4f0001_WYG_074-2a"/>
+　　　天津<lb/>
+　　　通恵河閱運艘<lb/>
+　　　滇平<lb/>
+　　　宫門聽政示閣部諸臣<lb/>
+　　　昇平嘉宴同羣臣賦詩用柏梁體<hi>并序</hi>
+　　　元夜與諸王宴飲乾清宫<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

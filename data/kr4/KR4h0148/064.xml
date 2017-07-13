@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0148_WYG_064-1a"/>
+欽定四庫全書<lb/>
+御選唐宋詩醇巻三十一<lb/>
+　　昌黎韓愈詩五<lb/>
+　　　目録<lb/>
+　　短燈檠歌<lb/>
+　　病鴟<lb/>
+　　華山女<lb/>
+　　瀧吏<lb/>
+<pb n="KR4h0148_WYG_064-1b"/>
+　　除官赴闕至江州寄鄂岳李大夫<lb/>
+　　南山有高樹行贈李宗閔<lb/>
+　　猛虎行<lb/>
+　　雪後寄崔二十六丞公<lb/>
+　　奉酬盧給事雲夫四兄曲江荷花行見寄并呈上<lb/>
+　　錢七兄閣老張十八助教<lb/>
+　　記夢<lb/>
+　　南内朝賀歸呈同官<lb/>
+<pb n="KR4h0148_WYG_064-2a"/>
+　　讀東方朔雜事<lb/>
+　　庭楸<lb/>
+　　南溪始泛三首<lb/>
+　　題楚昭王廟<lb/>
+　　答張十一功曹<lb/>
+　　題木居士<lb/>
+　　和歸工部送僧約<lb/>
+　　入關詠馬<lb/>
+<pb n="KR4h0148_WYG_064-2b"/>
+　　木芙蓉<lb/>
+　　奉和庫部盧四兄曹長元日朝迴<lb/>
+　　奉和裴相公東征途經女几山下作<lb/>
+　　次潼關先寄張十二閣老使君<lb/>
+　　晉公破賊回重拜台司以詩示幕中賓客愈奉和<lb/>
+　　左遷至藍關示姪孫湘<lb/>
+　　晚次宣溪辱韶州張端公使君惠書叙别酬以絶<lb/>
+　　句二章<lb/>
+<pb n="KR4h0148_WYG_064-3a"/>
+　　量移袁州張韶州端公以詩相賀因酬之<lb/>
+　　奉和兵部張侍郎酬鄆州馬尚書祇召途中見寄<lb/>
+　　開緘之日馬帥已再領鄆州之作<lb/>
+　　奉酬天平馬十二僕射暇日言懷見寄之作<lb/>
+　　奉使鎮州行次承天行營奉酬裴司空<lb/>
+　　奉和僕射裴相公感恩言志<lb/>
+　　和僕射相公朝迴見寄<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2m0055_WYG_031-1a"/>
+欽定四庫全書<lb/>
+大清律例卷八目録<lb/>
+　戸律<lb/>
+　　戸役<lb/>
+　　　脱漏戸口<lb/>
+　　　人戸以籍為定<lb/>
+　　　私剙庵院及私度僧道<lb/>
+　　　立嫡子違法<lb/>
+<pb n="KR2m0055_WYG_031-1b"/>
+　　　收留迷失子女<lb/>
+　　　賦役不均<lb/>
+　　　丁夫差遣不平<lb/>
+　　　隱蔽差役<lb/>
+　　　禁革主保里長<lb/>
+　　　逃避差役<lb/>
+　　　點差獄卒<lb/>
+　　　私役部民夫匠<lb/>
+<pb n="KR2m0055_WYG_031-2a"/>
+　　　别籍異財<lb/>
+　　　卑幼私擅用財<lb/>
+　　　收養孤老<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="1a"/>
+釋言第二<lb/>
+殷齊中也<hi>書曰以殷仲春釋地曰岠齊州以南</hi>斯誃離也<hi>齊陳曰斯/誃見詩</hi>謖興起也<hi>禮記曰尸謖</hi>還復返也宣徇徧也<hi>皆周徧也</hi>馹遽傳也<hi>皆轉車驛馬之名</hi>蒙荒奄也<lb/>
+<hi>奄奄覆也皆見詩</hi>告謁請也<hi>皆求/請也</hi>肅噰聲也<hi>詩曰肅/噰和鳴</hi>格懷來也<hi>書曰格尓衆庶懷見詩</hi>畛厎致也<hi>皆見/詩傳</hi>恀怙恃也<hi>今江東呼母/爲恀音是</hi>律遹述也<hi>皆敘述也方俗語耳</hi>
+俞畣然也<hi>禮記曰男唯女俞畣者應也亦爲然</hi>豫臚敘也<hi>皆陳/敘也</hi>庶幾尚也<hi>詩曰不尚息焉</hi>
+觀指示也<hi>國語曰且觀之兵</hi>若惠順也<hi>詩曰惠/然肯來</hi>敖幠傲也<hi>禮記曰無幠無傲傲慢也</hi>
+幼鞠稚也<hi>書曰不念鞠子哀</hi>逸諐過也<hi>書曰汝則/有逸罰</hi>疑休戾也<hi>戾止也疑者亦止</hi>
+疾齊壯也<hi>壯壯事謂速也齊亦疾</hi>悈褊急也<hi>皆急/狹</hi>貿賈市也<hi>詩曰抱布貿絲</hi>厞<lb/>
+陋隱也<hi>禮記曰厞用席書曰揚側陋</hi>遏遾逮也<hi>東齊曰遏北燕/曰遾皆相及逮</hi>征邁行也<hi>詩曰</hi>
+<pb n="1b"/>
+<pb n="1b"/>
+<hi>行也詩曰齊子愷悌</hi>髦士官也<hi>取俊士/令居官</hi>畯農夫也<hi>今之嗇/夫是也</hi>蓋割裂也<hi>蓋未詳</hi>
+邕支載也<hi>皆方俗語亦未詳</hi>諈諉累也<hi>以事相屬/累爲諈諉</hi>漠察清也<hi>皆清明</hi>庇<lb/>
+庥廕也<hi>今俗語呼樹䕃爲庥</hi>榖履禄也<hi>書曰旣富方榖/詩曰福履將之</hi>履禮也<hi>禮可以履行見易</hi>
+隱占也<hi>隱度</hi>逆迎也㦧曽也<hi>發語辭/見詩</hi>増益也<hi>今江東通言増</hi>窶貧<lb/>
+也<hi>謂貧陋</hi>薆隱也<hi>謂隱/蔽</hi>僾唈也<hi>嗚唈短氣/皆見詩</hi>基經也<hi>基業所以自經營</hi>基設<lb/>
+也<hi>亦爲造設</hi>祺祥也<hi>謂徴/祥</hi>祺吉也<hi>祥吉之/先見</hi>兆域也<hi>謂塋/界</hi>肈敏也<hi>書曰肈牽車牛</hi>挾藏也<hi>今江東/通言挾</hi>浹徹也<hi>謂霑/徹</hi>替廢也替滅也<hi>亦爲滅絶</hi>速徴<lb/>
+也徴召也<hi>易曰不速之客</hi>琛寶也<hi>詩曰來/獻其琛</hi>探試也<hi>刺探/甞試</hi>髦選也<hi>俊士之選</hi>
+髦俊也<hi>士中之俊如毛中之髦</hi>俾職也<hi>使供/職</hi>紕飾也<hi>謂縁飾/見詩</hi>淩慄也<hi>淩懅戰慄</hi>
+慄慼也<hi>戰慄者憂慼</hi>蠲明也<hi>蠲清/明貌</hi>茅明也<hi>左傳曰前茅慮無</hi>明朗也猷圖<lb/>
+<pb n="2a"/>
+也<hi>周官曰以猷鬼神祇謂圖畫</hi>猷若也<hi>詩曰寔/命不猷</hi>偁舉也<hi>書曰爾/爾戈</hi>稱好也<hi>物稱人意亦爲好</hi>
+坎律銓也<hi>易坎卦主法法律皆所以銓量輕重</hi>矢誓也<hi>相約/誓</hi>舫舟也<hi>並兩船</hi>泳游<lb/>
+也<hi>潜行游水底</hi>迨及也<hi>東齊/曰迨</hi>冥幼也<hi>幼稚者/冥昧</hi>降下也傭均也<hi>齊等</hi>強暴<lb/>
+也<hi>強梁淩暴</hi>宨肆也<hi>輕宨者/好放肆</hi>肆力也<hi>肆極/力</hi>俅戴也<hi>詩曰戴弁俅俅</hi>瘞幽也<lb/>
+<hi>幽亦蕹也</hi>氂罽也<hi>毛氂所/以爲罽</hi>烘燎也<hi>謂燒/燎</hi>煁烓也<hi>今之三隅/竈見詩</hi>陪朝也<hi>陪位爲朝</hi>
+康苛也<hi>謂苛刻</hi>樊藩也<hi>謂藩/籬</hi>賦量也<hi>賦稅所/以評量</hi>粻糧也<hi>今江東通言粻</hi>
+庶侈也<hi>庶者衆多爲奢侈</hi>庶幸也<hi>庶㡬/僥倖</hi>筑拾也<hi>謂拾/掇</hi>奘駔也<hi>今江東呼大爲駔駔猶麤也</hi>集㑹也舫泭也<hi>水中/[竺-二+稗]筏</hi>洵均也<hi>謂調/均</hi>洵龕也<hi>未詳</hi>逮遝也<lb/>
+<hi>今荆楚人皆云遝音沓</hi>是則也<hi>是事可/法則</hi>畫形也<hi>畫者爲/形象</hi>賑富也<hi>謂隱賑富有</hi>局<lb/>
+分也<hi>謂分部</hi>懠怒也<hi>詩曰天之/方懠音薺</hi>僁聲也<hi>謂聲/音</hi>葵揆也<hi>詩曰天子葵之</hi>揆<lb/>
+<pb n="2b"/>
+度也<hi>商度</hi>逮及也惄飢也<hi>惄然/飢意</hi>眕重也<hi>謂厚重/見左傳</hi>獵虐也<hi>淩獵暴虐</hi>
+土田也<hi>别二名</hi>戍遏也<hi>戍守所以/止寇賊</hi>師人也<hi>謂人/衆</hi>硈鞏也<hi>硈然堅固</hi>棄<lb/>
+忘也嚻閑也<hi>嚻然閑暇貌</hi>謀心也<hi>謀慮/以心</hi>獻聖也<hi>謚法曰聦明睿智曰獻</hi>里邑也<lb/>
+<hi>謂邑居</hi>襄除也<hi>詩曰不/可襄</hi>振古也<hi>詩曰振古如兹/猶云乆若此</hi>懟怨也縭介也<hi>縭者繫介猶閡</hi>
+號謼也<hi>今江東皆言謼</hi>凶咎也苞稹也<hi>今人呼物叢/緻者爲稹</hi>逜寤也<hi>相干寤</hi>顁題<lb/>
+也<hi>題額也詩曰麟之定</hi>猷肯可也<hi>詩曰猷來無/棄肯今通言</hi>務侮也<hi>詩曰外/禦其侮</hi>貽遺也<hi>相歸遺</hi>貿買也<hi>廣二名</hi>賄財也甲狎也<hi>謂習/狎</hi>菼騅也菼薍也<hi>詩曰毳衣如菼菼草色如騅在青白之閒</hi>粲餐也<hi>今河北人/呼食爲餐</hi>渝變也<hi>謂變/易</hi>冝肴也<hi>詩曰與子冝之</hi>夷恱也<hi>詩曰我/心則夷</hi>顚頂也<hi>頭/上</hi>耋老也<hi>八十/爲耋</hi>輶輕也<hi>詩曰德輶如毛</hi>
+俴淺也<hi>詩曰小戎俴收</hi>綯絞也<hi>糾絞/繩索</hi>訛化也<hi>詩曰四/國是訛</hi>跋躐也<hi>詩曰狼跋其胡</hi>
+<pb n="3a"/>
+疐跲也<hi>詩曰載疐其尾</hi>烝塵也<hi>人衆所以/生塵埃</hi>戎相也<hi>相佐/助</hi>飫私也<hi>宴飲之私</hi>孺<lb/>
+屬也<hi>謂親屬</hi>幕暮也<hi>幕然/暮夜</hi>煽熾也熾盛也<hi>互相訓煽義見詩</hi>柢本<lb/>
+也<hi>謂根本</hi>窕閒也<hi>窈窕/閒隙</hi>淪率也<hi>相率/使</hi>罹毒也<hi>憂思/慘毒</hi>檢同也<hi>模範同等</hi>
+郵過也<hi>道路所經過</hi>遜遯也<hi>謂逃/去</hi>斃踣也<hi>前/覆</hi>僨僵也<hi>却/偃</hi>畛殄也<hi>謂殄絶</hi>曷盍也<hi>盍何不</hi>虹潰也<hi>謂潰/敗</hi>隌闇也<hi>隌然/冥貌</hi>䵑膠也<hi>膠黏䵑</hi>孔甚也<lb/>
+厥其也戛禮也<hi>謂常禮</hi>闍臺也<hi>城門/臺</hi>囚拘也<hi>謂拘執</hi>攸所也展<lb/>
+適也<hi>得自申展皆適意</hi>鬱氣也<hi>鬱然/氣出</hi>宅居也休慶也祈叫也<hi>祈祭者叫呼而請事</hi>濬幽深也<hi>濬亦/深也</hi>哲智也弄玩也尹正也<hi>謂官正也</hi>皇匡正也<lb/>
+<hi>詩曰四國是皇</hi>服整也<hi>服御之/令齊整</hi>聘問也<hi>見穀/梁傳</hi>愧慙也殛誅也<hi>書曰鯀則殛死</hi>克能<lb/>
+也翌明也<hi>書曰翌日乃瘳</hi>訩訟也<hi>言訩/譊</hi>晦冥也奔走也逡退也<hi>外傳曰巳<pb n="3b"/>復於事而逡</hi>疐仆也<hi>頓躓/倒仆</hi>亞次也諗念也<hi>相思/念</hi>届極也<hi>有所限極</hi>奄同也<lb/>
+<hi>詩曰奄有龜蒙</hi>弇蓋也<hi>謂覆/蓋</hi>恫痛也<hi>詩曰神/罔時恫</hi>握具也<hi>謂備/具</hi>振訊也<hi>振者奮迅</hi>䦧<lb/>
+恨也<hi>相怨恨</hi>越揚也<hi>謂發/揚</hi>對遂也<hi>詩曰對/揚王休</hi>燬火也<hi>詩曰王室如燬燬齊人語</hi>懈怠<lb/>
+也宣緩也<hi>謂寛緩</hi>遇偶也<hi>偶/相/值遇</hi>曩曏也<hi>國語曰曩/而言戲也</hi>偟暇也<hi>詩曰不遑啓處</hi>宵夜也懊忨也<hi>謂愛/忨</hi>愒貪也<hi>謂貪/羡</hi>榰柱也<hi>相榰柱</hi>裁節也並<lb/>
+併也<hi>詩曰並坐鼓瑟</hi>卒旣也<hi>旣/巳</hi>慒慮也<hi>謂謀/慮也</hi>將資也<hi>謂資/裝</hi>薾紩也<hi>今人呼縫紩衣爲薾</hi>遞迭也<hi>更/迭</hi>矧況也<hi>譬/況</hi>廩廯也<hi>或說云即倉/廩所未詳</hi>逭逃也<hi>亦見禮記</hi>
+訊言也<hi>相問訊</hi>閒俔也<hi>左傳謂之諜/今之細作也</hi>沄沆也<hi>水流/漭沆</hi>干扞也<hi>相扞衞</hi>
+趾足也<hi>足脚</hi>䠊刖也<hi>斷/足</hi>襄駕也<hi>書曰懷/山襄陵</hi>忝辱也燠煖也<hi>今江東通言燠</hi>塊堛也<hi>土塊也外傳/曰枕由以堛</hi>將齊也<hi>謂分齊也詩/曰或肆或將</hi>餬饘也<hi>麋也</hi>啓跪也<lb/>
+<pb n="1a"/>
+爾雅釋音卷中<lb/>
+釋宫第五<lb/>
+扆<hi>倚</hi>宧<hi>夷</hi>㝔<hi>要</hi>柣<hi>于結</hi>閾<hi>域</hi>楔<hi>古/黠</hi>樞<hi>昌/朱</hi>椳<hi>於回</hi>
+                    <graphic n="KR2646" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2646.png" mimeType="image/png"/>
+                    <hi>士</hi>坫<hi>店</hi>杇<hi>烏</hi>椹<hi>砧</hi>
+榩<hi>䖍</hi>
+                    <graphic n="KR0627" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0627.png" mimeType="image/png"/>
+                    <hi>於糾</hi>堊<hi>於/故</hi>樴<hi>徒/得</hi>杙<hi>亦</hi>楎<hi>暉</hi>臬<hi>魚列</hi>闍<hi>都</hi>榤<hi>竭</hi>垣<hi>袁</hi>塒<hi>時</hi>杗<hi>云</hi>
+廇<hi>力又</hi>梲<hi>拙</hi>䦕<hi>卞</hi>槉<hi>疾</hi>楶<hi>節</hi>桴<hi>浮</hi>榱<hi>衰</hi>檐<hi>簷</hi>樀<hi>滴</hi>簃<hi>丈知</hi>筄<hi>曜</hi>郷<hi>向</hi>
+屏<hi>卑井</hi>宁<hi>佇</hi>閍<hi>補/耕</hi>觀<hi>貫</hi>衖<hi>巷</hi>塾<hi>熟</hi>橛<hi>其/月</hi>闑<hi>魚/列</hi>瓴<hi>靈</hi>甋<hi>的</hi>甓<hi>蒲/覓</hi>壼<hi>苦本</hi>
+劇<hi>極</hi>隄<hi>低</hi>杠<hi>江</hi>徛<hi>寄</hi>陜<hi>狹</hi>
+釋器第六<lb/>
+籩<hi>邊</hi>盎<hi>烏浪</hi>缶<hi>方/九</hi>瓿<hi>蒲/口</hi>瓵<hi>移</hi>瓠<hi>胡</hi>甈<hi>契</hi>斪<hi>衢</hi>斸<hi>丁/録</hi>定<hi>多/倿</hi>鐯<hi>張/略鍬</hi>
+疀<hi>揷</hi>緵<hi>子弄</hi>罭<hi>域</hi>嫠<hi>離</hi>笱<hi>狗</hi>罺<hi>嘲</hi>汕<hi>所/諫</hi>篧<hi>士/角</hi>槮<hi>桑感</hi>罝<hi>嗟</hi>罞<hi>茆</hi>彘<hi>滯</hi>
+<pb n="1b"/>
+羉<hi>鸞</hi>罛<hi>孤</hi>繴<hi>壁</hi>罿<hi>衝</hi>罬<hi>拙</hi>罦<hi>浮</hi>絇<hi>其俱</hi>分<hi>粉</hi>卣<hi>由</hi>裗<hi>流</hi>䘽<hi>倪</hi>襮<hi>博</hi>
+縁<hi>餘絹</hi>純<hi>之/閏</hi>袕<hi>穴</hi>褮<hi>營</hi>眥<hi>才/細</hi>衱<hi>劫</hi>袸<hi>賤</hi>褑<hi>院</hi>衽<hi>稔</hi>袺<hi>結</hi>扱<hi>揷</hi>襜<hi>昌占</hi>
+褘<hi>暉</hi>縭<hi>离</hi>緌<hi>汝誰</hi>纀<hi>卜</hi>捐<hi>囚/絹</hi>鑣<hi>表/驕</hi>钀<hi>魚/列</hi>轙<hi>儀/呼/盖</hi>餯<hi>許穢</hi>饐<hi>意</hi>餲<hi>隘</hi>
+糷<hi>輦</hi>糪<hi>柏</hi>餒<hi>奴罪</hi>斮<hi>荘/略</hi>鮨<hi>祁</hi>醢<hi>海</hi>臡<hi>泥</hi>垽<hi>魚靳</hi>鼐<hi>耐</hi>圜<hi>袁</hi>鼒<hi>咨</hi>釴<hi>亦</hi>
+款<hi>苦管</hi>鬲<hi>力</hi>
+                    <graphic n="KR1092" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1092.png" mimeType="image/png"/>
+                    <hi>㝷</hi>鉹<hi>侈</hi>璲<hi>遂</hi>區<hi>羗/于</hi>翮<hi>戸革</hi>縳<hi>篆</hi>緷<hi>衮</hi>虡<hi>巨</hi>藣<hi>卑</hi>蔌<hi>速</hi>
+蓋<hi>合</hi>璗<hi>蕩</hi>鏐<hi>留</hi>鐐<hi>遼</hi>鉼<hi>餅</hi>鈑<hi>板</hi>鈏<hi>引</hi>鵠<hi>斛</hi>觷<hi>嶽</hi>剒<hi>錯</hi>剫<hi>鐸</hi>璆<hi>求</hi>
+銑<hi>蘇典</hi>鏃<hi>作/木</hi>縁<hi>椽</hi>弭<hi>尾</hi>蜃<hi>腎</hi>珧<hi>姚</hi>琡<hi>俶</hi>好<hi>耗</hi>瑗<hi>院</hi>縓<hi>缺/<graphic n="KR1163" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1163.png" mimeType="image/png"/>
+                    </hi>赬<hi>敕呈</hi>纁<hi>勲</hi>
+<graphic n="KR0627" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0627.png" mimeType="image/png"/>
+                    <hi>於糾</hi>邸<hi>氐</hi>蓐<hi>辱</hi>箷<hi>移/側/士</hi>辨<hi>片</hi>韏<hi>眷</hi>䤹<hi>蘇婁</hi>卣<hi>酉</hi>
+釋樂第七<lb/>
+徴<hi>知矢</hi>灑<hi>所/蟹</hi>鼖<hi>墳</hi>應<hi>膺</hi>毊<hi>虚嬌</hi>篪<hi>池</hi>沂<hi>銀</hi>塤<hi>喧</hi>嘂<hi>叫</hi>剽<hi>瓢</hi>棧<hi>盞</hi>筊<hi>爻</hi>
+<pb n="2a"/>
+簥<hi>嬌</hi>篞<hi>乃結</hi>篎<hi>妙</hi>籥<hi>藥</hi>箹<hi>渥</hi>吹<hi>昌/睡</hi>和<hi>胡/卧</hi>咢<hi>五/各</hi>寋<hi>紀/展</hi>柷<hi>昌孰</hi>敔<hi>語</hi>籈<hi>眞</hi>
+鼗<hi>桃</hi>料<hi>聊</hi>
+釋天第八<lb/>
+長<hi>丁丈</hi>嬴<hi>盈</hi>荐<hi>賤</hi>閼<hi>烏/割</hi>著<hi>直/略</hi>重<hi>直/龍</hi>黓<hi>亦</hi>牂<hi>臧</hi>洽<hi>峽</hi>涒<hi>湯/昆</hi>噩<hi>五各</hi>閹<hi>掩</hi>
+敦<hi>頓</hi>窒<hi>知乙</hi>塞<hi>先/北</hi>陬<hi>側/留</hi>寎<hi>孚/柄</hi>且<hi>子/余</hi>相<hi>息/亮</hi>涂<hi>徒</hi>凱<hi>口/改</hi>頽<hi>徒/回</hi>猋<hi>必遥</hi>庉<hi>徒</hi>
+飄<hi>瓢</hi>雨<hi>芋</hi>曀<hi>於計</hi>應<hi>譍</hi>雺<hi>蒙</hi>螮<hi>帝</hi>蝀<hi>丁/孔</hi>雩<hi>于/句</hi>挈<hi>苦結</hi>弇　霆<hi>廷</hi>霓<hi>倪</hi>
+䨘<hi>酥練</hi>涷<hi>東</hi>霡<hi>麥</hi>霂<hi>木</hi>霖<hi>林</hi>濟<hi>柤/細</hi>霽<hi>徂/計</hi>亢<hi>剛</hi>氏<hi>低</hi>析<hi>惜</hi>枵<hi>許嬌</hi>顓<hi>專</hi>
+頊<hi>旭</hi>虚<hi>墟</hi>定<hi>多佞</hi>娵<hi>子/瑜</hi>觜<hi>咨</hi>降<hi>胡/江</hi>咮<hi>渚/究</hi>何<hi>胡/可</hi>启<hi>啓</hi>欃<hi>初/銜</hi>槍<hi>初/庚</hi>彴<hi>蒲握</hi>
+礿<hi>藥</hi>燔<hi>煩</hi>庪<hi>居委</hi>縣<hi>玄</hi>磔<hi>責</hi>禷<hi>類</hi>禡<hi>罵</hi>禘<hi>大/計</hi>肜<hi>容</hi>胙<hi>昨</hi>蒐<hi>搜</hi>獮<hi>息淺</hi>
+狩<hi>手又</hi>獠<hi>遼</hi>闐<hi>田</hi>綢<hi>叨</hi>杠<hi>江</hi>纁<hi>勲</hi>縿<hi>杉</hi>廣<hi>土/曠</hi>長<hi>直/亮</hi>旐<hi>兆</hi>斾<hi>佩毛</hi>旟<hi>餘</hi>
+<pb n="2b"/>
+釋地第九<lb/>
+雝<hi>於用</hi>濟<hi>子/礼</hi>陓<hi>於/于</hi>藪<hi>叟</hi>阠<hi>信</hi>隃<hi>戍</hi>溴<hi>古/壁</hi>珣<hi>荀</hi>玗<hi>于</hi>㑹<hi>古/外</hi>稽<hi>古/兮</hi>崘<hi>路昆</hi>
+虚<hi>虚</hi>
+                    <graphic n="KR1676" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1676.png" mimeType="image/png"/>
+                    <hi>尺</hi>鰈<hi>牒</hi>鶼<hi>兼</hi>邛<hi>巨凶</hi>岠<hi>巨</hi>齧<hi>五/結</hi>難<hi>乃/旦</hi>蟨<hi>厥</hi>迭<hi>徒/結</hi>枳<hi>居/是</hi>坰<hi>古螢</hi>
+溼<hi>濕</hi>陂<hi>披</hi>阪<hi>反</hi>菑<hi>緇</hi>畬<hi>餘</hi>邠<hi>彬</hi>濮<hi>卜</hi>觚<hi>孤</hi>
+釋丘第十<lb/>
+敦<hi>都昆</hi>銳<hi>惠</hi>椉<hi>繩/正</hi>陼<hi>渚</hi>潦<hi>老</hi>而還<hi>旋</hi>渻<hi>所/景</hi>沮<hi>辭/與</hi>覆敦<hi>堆</hi>邐<hi>吕紙</hi>
+迆<hi>余紙</hi>定<hi>丁/佞</hi>厓<hi>牙</hi>洒<hi>先/典</hi>漘<hi>脣</hi>隩<hi>奥</hi>隈<hi>烏/回</hi>重<hi>直龍</hi>滸<hi>虎</hi>涘<hi>士</hi>汜<hi>似</hi>溦<hi>眉</hi>
+釋山第十一<lb/>
+坯<hi>備悲</hi>崧<hi>嵩</hi>嶠<hi>喬</hi>巋<hi>丘/鬼</hi>岌<hi>魚/泣</hi>峘<hi>桓</hi>屬<hi>燭/亦</hi>崒<hi>子/恤</hi>厜<hi>姊規</hi>㕒<hi>危</hi>盛<hi>成</hi>
+嶞<hi>湯果</hi>重<hi>直/龍</hi>甗<hi>言</hi>隒<hi>儼/口</hi>别<hi>彼/列</hi>鮮<hi>息/淺</hi>陘<hi>形</hi>磝<hi>苦/交</hi>礐<hi>殻</hi>岵<hi>戸起</hi>
+<pb n="3a"/>
+澩<hi>學</hi>豄<hi>讀</hi>崔<hi>徂回</hi>嵬<hi>五/回</hi>砠<hi>七余</hi>澞<hi>虞</hi>
+釋水第十二<lb/>
+見<hi>現</hi>否<hi>卑羙</hi>瀐<hi>纎</hi>瀱<hi>計</hi>汋<hi>仕/捉</hi>縣<hi>玄</hi>氿<hi>軌</hi>仄<hi>側</hi>湀<hi>揆</hi>過<hi>古/禾</hi>辨<hi>片</hi>灉<hi>於用</hi>
+潬<hi>但</hi>汧<hi>牽</hi>瀵<hi>糞軌</hi>濋<hi>楚</hi>汶<hi>問</hi>灛<hi>闡</hi>沱<hi>陀</hi>濄<hi>烏/禾</hi>潁<hi>餘頃</hi>濆<hi>墳</hi>灡<hi>爛</hi>
+漪<hi>衣</hi>湄<hi>眉</hi>濟<hi>子細</hi>揭<hi>上二字音/憩下丘竭</hi>繇<hi>由</hi>上<hi>時/掌</hi>紼<hi>弗</hi>縭<hi>离</hi>
+                    <graphic n="KR1762" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1762.png" mimeType="image/png"/>
+                    <hi>律</hi>緌<hi>如/誰</hi>造<hi>七到</hi>
+泭<hi>桴</hi>澮<hi>古外</hi>泝<hi>素</hi>陼<hi>渚</hi>坻<hi>池</hi>潏<hi>述</hi>虚<hi>墟</hi>駭<hi>諧/楷</hi>頰<hi>劫</hi>覆<hi>扶服</hi>鬴<hi>父</hi>鬲<hi>革</hi>
+爾雅卷中<lb/>
+<pb n="3b"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

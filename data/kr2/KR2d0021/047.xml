@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>補歴代史表卷四十九</head> <lb/>
+    <p>
+<pb n="KR2d0021_WYG_047-1a"/>
+欽定四庫全書<lb/>
+　補歴代史表卷四十九<lb/>
+　　　　　　　　　　　　　鄞縣萬斯同撰<lb/>
+　　五代<lb/>
+　　　五代諸王世表<lb/>
+<pb n="KR2d0021_WYG_047-2a"/>
+</p>
+<p>
+<pb n="KR2d0021_WYG_047-3a"/>
+　　右梁室諸王<lb/>
+<pb n="KR2d0021_WYG_047-4a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2d0021_WYG_047-4b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　右唐室諸王<lb/>
+<pb n="KR2d0021_WYG_047-5a"/>
+</p>
+<p>
+<pb n="KR2d0021_WYG_047-6a"/>
+</p>
+<p>
+<pb n="KR2d0021_WYG_047-7a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2d0021_WYG_047-7b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　　右周室諸王<lb/>
+　<lb/>
+　<lb/>
+　補歴代史表卷四十九<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

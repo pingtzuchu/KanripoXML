@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>提要<lb/>
+                </head>
+    <p>
+<pb n="KR4d0401_WYG_000-1a"/>
+欽定四庫全書　　　　　集部四<lb/>
+　提要<lb/>
+　　則堂集六巻　　　　　别集類三<hi>宋</hi>
+　　　　<hi>臣</hi>等謹案則堂集六巻宋家鉉翁撰翁喜談<lb/>
+　　　　春秋尤喜談易其河間假舘詩曰擬從諸君<lb/>
+　　　　豫乞石一方他年埋之冡前三四尺上書宋<lb/>
+　　　　使姓某其名某下書人是西州之西老縫掖平<lb/>
+　　　　生著書苦不多可傳者見之春秋與周易然<lb/>
+<pb n="KR4d0401_WYG_000-1b"/>
+　　　　春秋詳說至今尚有刋本已别著録其説易<lb/>
+　　　　之書與其文集二十巻則已全佚惟永樂大<lb/>
+　　　　典收其詩文尚夥謹裒合排比以類相從釐<lb/>
+　　　　為文一巻詩詞一巻核其所作大半皆在河<lb/>
+　　　　間而明神宗時樊深撰河間府志已不能採<lb/>
+　　　　録則其佚在萬歴前矣鉉翁𨽻籍眉山與蘇<lb/>
+　　　　軾為里人故集中如文品堂記養志堂記志<lb/>
+　　　　堂説篤信齋説䟦太白賞月圖和歸去來辭<lb/>
+<pb n="KR4d0401_WYG_000-2a"/>
+　　　　諸篇及豌豆菜詩自註間或稱述軾事迹廣<lb/>
+　　　　漢張拭亦其鄉人故敬室記首亦慨然於南<lb/>
+　　　　軒之學漸昧其傳然其學問淵源則實出金<lb/>
+　　　　谿觀集中心齋説主静箴諸篇可以槩見故<lb/>
+　　　　其持論浸滛於佛氏其説易亦惟以先天太<lb/>
+　　　　極研思於虚杳之中而尊教堂記一篇至援<lb/>
+　　　　陸九淵之言以三教歸一立説尤為乖舛顧<lb/>
+　　　　其立言大㫖皆歸於敦厚風俗崇奬名教隨<lb/>
+<pb n="KR4d0401_WYG_000-2b"/>
+　　　　事推闡無非以禮義為訓原未嘗滉漾恣肆<lb/>
+　　　　如明代姚江之末流其詞意真樸文不掩質<lb/>
+　　　　亦異乎南宋末年纎詭繁碎之格尚為多有<lb/>
+　　　　可取耳且迹厥生平上雖不及文天祥而下<lb/>
+　　　　比留夢炎軰則皭然其不侔零篇斷簡以其<lb/>
+　　　　人重之亦可也乾隆四十六年九月恭校上<lb/>
+　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

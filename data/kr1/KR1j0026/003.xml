@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="1a"/>
+汗簡卷中之一苐三<lb/>
+　　　　木凡木之属皆从木<lb/>
+<hi>㮚上同/困/松杶夲桐/櫱/上同樹上同梅/梓亦/李字/廉並某尚書直並說文/攅石/經/横/菜榮短簡亦/柬字/顛/彩隷槐杏/根帀<pb n="1b"/>箋義雲章/擇柅籜蕚/梧/極並裴光/逺集/綴/朱王存乂切韻輔王庶子碑/端/栔/闕闕闕並華岳碑文/簋郭顯/卿字指枝</hi>
+　　　　　　　　　　　　　　　　　　　　　　　東　凡東之属皆从東<lb/>
+<hi>荆出王庶子碑/<graphic n="KR1311" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1311.png" mimeType="image/png"/>/出/演説文/陳出陳逸人碑</hi>
+　　　　　　　　　　　　　　　　　　　　　　　　林　凡林之属皆从林<lb/>
+<hi>麓野並尚/書/椘見/石經/懋莫候切又莫報切<pb n="2a"/>闕農出樊先生碑</hi>
+　　　　才凡才之属皆从才<lb/>
+<hi>才章/存並出華岳碑</hi>
+　　　　叒<hi>若</hi>凡叒之属皆从叒<lb/>
+　　　　之凡之之属皆从之<lb/>
+<hi>户光切/恃/使亦事字/並見石經詩詩闕/闕之並出王存乂切韻</hi>
+　　　　帀　凡帀之属皆从帀<lb/>
+<pb n="2b"/>
+<pb n="2b"/>
+<hi>宅見說文/垂見/石經/<graphic n="KR3335" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3335.png" mimeType="image/png"/>徒各切出義雲章</hi>
+　　　　　　　　　　垂　凡垂之属皆从垂<lb/>
+<hi>脊出義雲章</hi>
+　　　　　　　　　　<graphic n="KR1191" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1191.png" mimeType="image/png"/>
+                    <hi>火于切</hi>凡<graphic n="KR1191" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1191.png" mimeType="image/png"/>之属皆从<graphic n="KR1191" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1191.png" mimeType="image/png"/>
+<hi>于鬼切見石經</hi>
+　　　　　　　　　　華<hi>户瓜切</hi>凡華之属皆从華<lb/>
+<hi>上同出諸家集</hi>
+　　　　　　　　　　<graphic n="KR2840" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2840.png" mimeType="image/png"/>
+                    <hi>工兮切</hi>凡<graphic n="KR2840" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2840.png" mimeType="image/png"/>之属皆从<graphic n="KR2840" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2840.png" mimeType="image/png"/>
+<pb n="3a"/>
+　　　　　　　　　　稽　凡稽之属皆从稽<lb/>
+　　　　　　　　　　巢　凡巢之属皆从巢<lb/>
+<hi>闕澡出義雲章</hi>
+　　　　　　　　　　桼　凡桼之属皆从桼<lb/>
+<hi>火牛切出王存乂切韻</hi>
+　　　　　　　　　　束　凡束之属皆从束<lb/>
+<hi>束出義雲章/柬亦簡字出/王庶子碑/速岀朱育集字</hi>
+　　　　　　　　　　口<hi>于非切</hi>凡口之属皆从口<lb/>
+<pb n="3b"/>
+<pb n="3b"/>
+　　　　邑凡邑之属皆从邑<lb/>
+<hi>都邢户丁切/並見石經/隙/郎並義/雲切韻闕黎韓/招/闕/温出王庶子碑歧徐並出王厥出李尚闕出牧/音年/存乂切韻隠字略子文鄈並出朱育集字</hi>
+　　　　<graphic n="KR2257" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2257.png" mimeType="image/png"/>凡<graphic n="KR2257" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2257.png" mimeType="image/png"/>之属皆从<graphic n="KR2257" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2257.png" mimeType="image/png"/>
+　　　　日　凡日之属皆从日<lb/>
+<hi>昔明/時昧宵<pb n="4a"/>朞慎/昏/朝並/尚書日昌量/涿並/說文/春/冬並石經媟先列切/鄙/翌/天暑冬昆/童/郎景晉農/圖/昏並碧/落文/圗出王存乂切韻冊出裴光逺集綴/曜/然/闕/日岀華岳碑早出王維盡記/文/曠/上同並孫/強集字</hi>
+　　　　　　　　　　　　　　　　　　　　　　旦　凡旦之属皆从旦<lb/>
+<pb n="4b"/>
+<hi>旬見石經/晝出裴光逺集綴</hi>
+　　　　　　　　　　　倝<hi>公旦切</hi>凡倝之属皆从倝<lb/>
+<hi>朝岀貝丘長碑/翰户丹切出古尔雅</hi>
+　　　　　　　　　　　㫃<hi>於蹇切</hi>凡㫃之属皆从㫃<lb/>
+<hi>工外切見石經/旗出李尚/隱字略/旇匹皮切岀義雲章</hi>
+　　　　　　　　　　　　冥　凡㝠之属皆从冥<lb/>
+　　　　　　　　　　　　晶　凡晶之属皆从晶<lb/>
+<hi>參岑切見尚書/晨出義雲章</hi>
+<pb n="5a"/>
+　　　　　　　　　　　　　　　　　　　　月　凡月之属皆从月<lb/>
+<hi>朔朞/期/霸並/尚書/月見說文恒見說文/晦出王庶子碑</hi>
+　　　　　　　　　　　　　　　　　　　　有　凡有之属皆从有<lb/>
+<hi>闕郁見古/論語/有見孔子題呉季子墓</hi>
+　　　　　　　　　　　　　　　　　　　　明　凡明之属皆从明<lb/>
+<hi>盟見說文古春秋</hi>
+　　　　　　　　　　　　　　　　　　　　　囧　凡囧之属皆从囧<lb/>
+<pb n="5b"/>
+<hi>睦見尚書/睦出郭顯/卿字指/省見說文</hi>
+　　　　　　　　　　　　　　　　　　　　　夕　凡夕之属皆从夕<lb/>
+<hi>夙夜/外並出/義雲章/名出華岳碑</hi>
+　　　　　　　　　　　　　　　　　　　　　多　凡多之属皆从多<lb/>
+<hi>多見說文/是碧/落文/侈出/史書/侈/宜並字略</hi>
+　　　　　　　　　　　　　　　　　　　　　毌　凡毌之属皆从毌<lb/>
+<hi>虜出張楫集古文</hi>
+　　　　　　　　　　　　　　　　　　　　　　弓　凡弓之属皆从弓<lb/>
+<pb n="6a"/>
+<hi>猶弋周切見尚書/湧出庾儼演說文</hi>
+　　　　　　　　　　<graphic n="KR3182" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3182.png" mimeType="image/png"/>
+                    <hi>乎南切</hi>凡<graphic n="KR3182" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3182.png" mimeType="image/png"/>之属皆从<graphic n="KR3182" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3182.png" mimeType="image/png"/>
+　　　　　　　　　　<graphic n="KR1234" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1234.png" mimeType="image/png"/>
+                    <hi>徒聊切</hi>凡<graphic n="KR1234" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1234.png" mimeType="image/png"/>之属皆从<graphic n="KR1234" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1234.png" mimeType="image/png"/>
+<hi>栗粟見尚書</hi>
+　　　　　　　　　　齊　凡齊之属皆从齊<lb/>
+<hi>嚌亦濟字/齊並史書</hi>
+　　　　　　　　　　朿<hi>千錫切</hi>凡朿之属皆从朿<lb/>
+<hi>膌秦昔切/䇿又丑力切並/岀義雲切韻</hi>
+<pb n="6b"/>
+　　　　片凡片之属皆从片<lb/>
+<hi>碣劈/雘/匹六切並出/義雲切韻</hi>
+　　　　鼎凡鼎之属皆从鼎<lb/>
+　　　　克凡克之属皆从克<lb/>
+<hi>克見石經/克見/說文/剋出顔黄門說文</hi>
+　　　　彔　凡录之属皆从彔<lb/>
+　　　　禾　凡禾之属皆从禾<lb/>
+<hi>稷穗/秋/上同/穆並見尚書</hi>
+<pb n="7a"/>
+<pb n="8a"/>
+　　　　　　　　　　　　　　　　　香　凡香之属皆从香<lb/>
+　　　　　　　　　　　　　　　　　米　凡米之属皆从米<lb/>
+<hi>粟見尚書/糂見/説文/閏/問弊蒸氣並見/義雲章/洎出王/庶子碑/掬出樊先生碑</hi>
+　　　　　　　　　　　　　　　　　毇　凡毇之属皆从毇<lb/>
+　　　　　　　　　　　　　　　　　<graphic n="KR0875" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0875.png" mimeType="image/png"/>
+                    <hi>巨九切</hi>凡　臼之属皆从　臼<lb/>
+<hi>糳則各切/毇出義/雲切韻/舊出/華岳碑臣忠恕</hi>
+　　　　　　　　　　　　　　　　　凶　凡凶之属皆从凶<lb/>
+<pb n="8b"/>
+　　　　　　　　　　　　朩　凡朩之属皆从朩<lb/>
+<hi>枲息子切見古礼記</hi>
+　　　　　　　　　　　　林<hi>匹賣切</hi>凡林之属皆从林<lb/>
+<hi>散見石經/檾口頴切出王存乂切韻</hi>
+　　　　　　　　　　　　麻　凡麻之属皆从麻<lb/>
+<hi>磨出義雲切韻</hi>
+　　　　　　　　　　　　　尗<hi>式六切</hi>凡尗之属皆从尗<lb/>
+<hi>淑見古孝經/豉出林/罕集字/<graphic n="KR1254" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1254.png" mimeType="image/png"/>出義雲切韻</hi>
+<pb n="9a"/>
+　　　　　　　　　　　　耑　凡耑之属皆从耑<lb/>
+<hi>
+                        <graphic n="KR0679" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0679.png" mimeType="image/png"/>先/刀切/端岀楊氏阡銘碧落文作</hi>
+　　　　　　　　　　　　韭<hi>九</hi>凡韭之属皆从韭<lb/>
+<hi>韲祖兮切見莊子/户戒切出古文尔雅</hi>
+　　　　　　　　　　　　瓜　凡瓜之属皆从瓜<lb/>
+<hi>瓞即結切見爾雅/音闕見字指</hi>
+　　　　　　　　　　　瓠　凡瓠之属皆从瓠<lb/>
+　　　　　　　　　　　　宀<hi>弥先切</hi>凡宀之属皆从宀<lb/>
+<pb n="9b"/>
+<pb n="9b"/>
+<hi>更運/闕/寕官</hi>
+　　　　　　　　　　　　　　　宫　凡宮之属皆从宮<lb/>
+<hi>宫出華岳碑義雲切韻亦如此</hi>
+　　　　　　　　　　　　　　　　　呂　凡呂之属皆从呂<lb/>
+<hi>躳出王存乂切韻/舒出楊大夫碑</hi>
+　　　　　　　　　　　　　　　　穴　凡穴之属皆从穴<lb/>
+<hi>竄奄並見/尚書/杳/杳並出李尚隱字略成邃出孫強/集字</hi>
+<pb n="10a"/>
+　　　　　　　　　　　㝱　凡㝱之属皆从㝱<lb/>
+<hi>火滑切又火骨切見說文</hi>
+　　　　　　　　　　　疒<hi>女戹切</hi>凡疒之属皆从疒<lb/>
+<hi>時腫切/疢丑刃切並/見/說文/瘠/上同並出/義雲章/癈出証俗古文</hi>
+　　　　　　　　　　　　<graphic n="KR1834" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1834.png" mimeType="image/png"/>
+                    <hi>莫保切</hi>凡<graphic n="KR1834" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1834.png" mimeType="image/png"/>之属皆从<graphic n="KR1834" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1834.png" mimeType="image/png"/>
+<hi>怨見尚書説文/䝉出朱育集字</hi>
+　　　　　　　　　　　冃<hi>莫報切</hi>凡冃之属皆从冃<lb/>
+<hi>賓見尚書/天出義雲章</hi>
+<pb n="10b"/>
+　　　　　　　　　　　冂<hi>亾狄切</hi>凡冂之属皆从冂<lb/>
+<hi>冒列/内/最宣亭两/親/再審上同並見義雲章/陋出牧/子文/天出華/岳碑/卿岀李尚/隱集字/軍出王庶子碑</hi>
+　　　　　　　　　　　两<hi>見石經</hi>凡兩之属皆从兩<lb/>
+　　　　　　　　　　　网<hi>亡两切</hi>凡网之属皆从网<lb/>
+<hi>冈羅出華/岳碑羈</hi>
+　　　　　　　　　　　　　覀<hi>火下切</hi>凡覀之属皆从覀<lb/>
+<pb n="11a"/>
+　　　　　　　　　　　　巿<hi>方勿切</hi>凡巿之属皆从巿<lb/>
+<hi>禹殺並見/尚書/綌出義/雲章/幡岀天台碑</hi>
+　　　　　　　　　　　帛　凡帛之属皆从帛<lb/>
+　　　　　　　　　　　白<hi>見石經亦伯字</hi>凡白之属皆从白<lb/>
+<hi>白見說文/貌/伯出義/雲/章隙出碧落文</hi>
+　　　　　　　　　　　㡀<hi>匹曵切</hi>凡㡀之属皆从㡀<lb/>
+<hi>敝必曵切見石經說文亦音曵歩切</hi>
+　　　　　　　　　　　黹<hi>竹几切</hi>凡黹之属皆从黹<lb/>
+<pb n="11b"/>
+<hi>粉米亦作䋛/並見尚書/音椘見義雲章</hi>
+　　　　人　凡人之属皆从人<lb/>
+<hi>陟夙/剛/侮保辟億並俻/尚書/兵/伇並見說文寳疆並見戮/石經/逼來俯並史書/弱/役/婕弔弔伏/竟傳顛殿/丞/丞乂<pb n="12a"/>多甜/軍/敦/宴並岀義雲章糜叟並出/林罕集綴/包一音/泡/仙人殿並出華岳碑/備/跗/延並出/王庶子碑伏儒館/顛/宅並出/碧落文傀黨佞/似/儔並岀林罕集綴火卦切</hi>凡　之属皆从<lb/>
+<hi>眞見說文/童見華/岳碑/疑出王庶子碑</hi>
+　　　　　　　　　　　　　　　　　　　匕<hi>必履切</hi>凡匕之属皆从　匕<lb/>
+<pb n="12b"/>
+<hi>仰魚兩切/此並/出/王庶子碑/良出碧/落文/仰出華岳碑</hi>
+　　　　　　　　　　　　　　　　从<hi>才容切</hi>凡从之属皆从从<lb/>
+<hi>從才用切亦移字/縱亦/縻字并並林罕集綴</hi>
+　　　　　　　　　　　　　　　　比　凡比之属皆从比<lb/>
+<hi>比比/比並出裴光逺集綴</hi>
+　　　　　　　　　　　　　　　　北　凡北之属皆从北<lb/>
+<hi>子冀並尚書</hi>
+　　　　　　　　　　　　　　　　丘　凡丘之属皆　从丘<lb/>
+<pb n="13a"/>
+<pb n="14a"/>
+<hi>壽見石經/孝見古孝經</hi>
+　　　　　　　　　　　　　　　　　　　　裘　凡裘之属皆从裘<lb/>
+　　　　　　　　　　　　　　　　　　　　　毛　凡毛之属皆从毛<lb/>
+<hi>耄見尚書/毨蘇典切出王存乂切韻</hi>
+　　　　　　　　　　　　　　　　　　　　毳　凡毳之属皆从毳<lb/>
+　　　　　　　　　　　　　　　　　　　　　　尸　凡尸之属皆从尸<lb/>
+<hi>夷見尚書尉字从此/居見/說文/良/兵沙厥矢/屧先/叶切/属並岀義/雲切韻殿<pb n="14b"/>握並出華岳碑/替/屠並岀朱育集字</hi>
+　　　　　　　　　　尺　凡尺之属皆从尺<lb/>
+　　　　　　　　　　尾<hi>見尚書</hi>凡尾之属皆从尾<lb/>
+　　　　　　　　　　卧　凡卧之属皆从卧<lb/>
+<hi>監見說文/臨出義/雲章/臨出華/岳碑/監出牧子文</hi>
+　　　　　　　　　身<hi>見說文</hi>凡身之属皆从身<lb/>
+　　　　　　　　　㐆<hi>於沂切</hi>凡㐆之属皆从㐆闕<lb/>
+　　　　　　　　　　衣　凡衣之属皆从衣<lb/>
+<pb n="15a"/>
+<hi>衺似嗟切/表/表/懷/襄並尚書裔見說文/哀/卒/寕/狄並見石經領領並出/義雲章/袤出義/雲章初</hi>
+　　　　　　　　　　　　履<hi>見說文</hi>凡履之属皆从履<lb/>
+　　　　　　　　　　　　舟　凡舟之属皆从舟<lb/>
+<hi>服津並見/說文/前/滕並見/石經/造見古尔雅周造/<graphic n="KR2048" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2048.png" mimeType="image/png"/>徒得切並出朱育集字古</hi>凡　之属皆从<lb/>
+<pb n="15b"/>
+</p>
+<p>
+汗簡卷中之一苐三<lb/>
+<pb n="16a"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

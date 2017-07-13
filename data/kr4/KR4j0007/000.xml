@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4j0007_SBCK_000-1a"/>
+山谷琴趣外篇目録<lb/>
+　　　　　　　南　昌黄　魯直　庭堅<lb/>
+○卷之一<lb/>
+　　　念奴嬌<hi>同諸甥待月飲酒賦此</hi>
+　　　水調歌頭<hi>遊覽</hi>
+　　　水調歌頭<lb/>
+　　　滿庭芳<hi>妓女</hi>
+　　　滿庭芳<hi>詠茶</hi>
+　　　鼔笛謾<hi>曹供備生日</hi>
+　　　洞仙歌<hi>王𥙷之生日</hi>
+<pb n="KR4j0007_SBCK_000-1b"/>
+　　　　雨中花<hi>送彭文思</hi>
+　　　　憶帝京<hi>宴飲</hi>
+　　　　醉蓬萊<lb/>
+　　　　南歌子<lb/>
+　　　　驀山溪<lb/>
+　　　　轉調醜奴兒<lb/>
+　　　　品令<hi>送曹供備</hi>
+　　　　踏莎行<lb/>
+　　　　踏莎行<lb/>
+　　　　定風波<lb/>
+<pb n="KR4j0007_SBCK_000-2a"/>
+　　　　定風波<lb/>
+　　　　定風波<hi>荔枝</hi>
+　　　　定風波<lb/>
+　　　　鵲橋仙<hi>七夕</hi>
+　　　　鵲橋仙<lb/>
+　　　　阮郎歸<lb/>
+　　　　阮郎歸<lb/>
+　　　　更漏子<hi>餘甘湯</hi>
+　　　　繡帶子<hi>梅</hi>
+　　　　撼庭竹<hi>離别</hi>
+<pb n="KR4j0007_SBCK_000-2b"/>
+○卷之二<lb/>
+　　　减字木蘭花<hi>春</hi>
+　　　减字木蘭花<hi>寄張仲謀</hi>
+　　　减字木蘭花<hi>登巫山縣樓</hi>
+　　　减字木蘭花<lb/>
+　　　减字木蘭花<hi>和趙文儀</hi>
+　　　减字木蘭花<lb/>
+　　　减字木蘭花<hi>私情</hi>
+　　　减字木蘭花<hi>中秋陪曹伯逹翫月</hi>
+　　　减字木蘭花<lb/>
+<pb n="KR4j0007_SBCK_000-3a"/>
+　　　　减字木蘭花<lb/>
+　　　　减字木蘭花<hi>黔守席上戯作</hi>
+　　　　减字木蘭花<lb/>
+　　　　减字木蘭花<lb/>
+　　　　木欄花令<lb/>
+　　　　木欄花令<lb/>
+　　　　木欄花令<lb/>
+　　　　木欄花令<lb/>
+　　　　木欄花令<lb/>
+　　　　木欄花令<lb/>
+<pb n="KR4j0007_SBCK_000-3b"/>
+　　　　淸平樂<lb/>
+　　　　淸平樂<hi>重九</hi>
+　　　　淸平樂<hi>同前</hi>
+　　　　淸平樂<hi>同前</hi>
+　　　　淸平樂<hi>同前</hi>
+　　　　淸平樂<hi>飲宴</hi>
+　　　　憶帝京<hi>琵琶</hi>
+　　　　憶帝京<hi>私情</hi>
+　　　　畫堂春<lb/>
+　○卷之三<lb/>
+<pb n="KR4j0007_SBCK_000-4a"/>
+<pb n="KR4j0007_SBCK_000-5a"/>
+　　　　南郷子<lb/>
+　　　　南郷子<lb/>
+　　　　南郷子<hi>重九寄懐永康彭使君</hi>
+　　　　點絳唇<hi>重九寄嗣直弟</hi>
+　　　　謁金門<hi>贈知命弟</hi>
+　　　　採桑子<hi>贈黄中行</hi>
+　　　　採桑子<hi>送彭道㣲</hi>
+　　　　採桑子<lb/>
+　　　　西江月<hi>茶</hi>
+　　　　鷓鴣天<hi>茶</hi>
+<pb n="KR4j0007_SBCK_000-5b"/>
+　　　　漁家傲<hi>戯効通襌作頌</hi>
+　　　　漁家傲<hi>同前</hi>
+　　　　漁家傲<hi>同前</hi>
+　　　　漁家傲<hi>同前</hi>
+　　　　漁家傲<hi>同前</hi>
+　　　　撥掉子<hi>退居</hi>
+　　　　訴衷情<hi>漁父</hi>
+　　　　浣溪沙<hi>同前</hi>
+　　　　菩薩蠻<hi>同前</hi>
+　　　　調笑歌<hi>俲李白長恨歌之句</hi>
+<pb n="KR4j0007_SBCK_000-6a"/>
+　　　歩蟾宫<hi>妓女</hi>
+　　　南柯子<hi>次東坡携妓見法通韻</hi>
+　　　南柯子<lb/>
+　　　醜奴兒<lb/>
+　　　　西江月<lb/>
+山谷琴趣外篇目録<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2d0019_WYG_049-1a"/>
+　欽定四庫全書<lb/>
+御定歴代紀事年表卷五十二<lb/>
+　　梁世系表畧<lb/>
+　　　蕭氏漢相國何之後也何生酇定侯延延生侍中<lb/>
+　　　彪彪生公府掾章章生皓皓生仰仰生太傅望之<lb/>
+　　　望之生光禒大夫育育生御史中丞紹紹生光禒<lb/>
+　　　勲閎閎生濟陰太守闡闡生呉郡太守永永生中<lb/>
+　　　山相苞苞生博士周周生虵丘長矯矯生州從事<lb/>
+<pb n="KR2d0019_WYG_049-1b"/>
+　　　逵逵生孝廉休休生廣陵郡丞豹豹生大中大夫<lb/>
+　　　裔裔生淮陰令整整生濟陰太守鎋鎋生州治中<lb/>
+　　　副子副子生南臺治書侍御史道賜道賜生皇考<lb/>
+　　　順之齊高帝族弟南蘭陵中都里人也初皇妣張<lb/>
+　　　氏嘗夢抱日已而有娠遂産高祖諱衍生而有異<lb/>
+　　　光狀貌殊特有文在右手曰武帝以梁王受齊<lb/>
+　　　國號梁都建康傳四主凡五十六年<lb/>
+<pb n="KR2d0019_WYG_049-2a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-3a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-4a"/>
+年表<lb/>
+　<hi>起壬午梁武帝天監元年四月魏宣武帝景明三年四月○止乙未梁武帝天監十四年魏孝明帝延昌</hi>
+　<hi>四年</hi>凡十三年有奇<lb/>
+　表例說<lb/>
+　　見第四十六卷<lb/>
+<pb n="KR2d0019_WYG_049-5a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-6a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-7a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-8a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-9a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-10a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-11a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-12a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-13a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-14a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-15a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-16a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-17a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-18a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-19a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-20a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-21a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-22a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-23a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-24a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-25a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-26a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-27a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-28a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-29a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-30a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-31a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-32a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-33a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-34a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-35a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-36a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-37a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-38a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-39a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-40a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-41a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-42a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-43a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-44a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-45a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-46a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-47a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-48a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-49a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-50a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-51a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-52a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-53a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-54a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-55a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-56a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-57a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-58a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-59a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-60a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-61a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-62a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-63a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-64a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-65a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-66a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-67a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-68a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-69a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-70a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-71a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-72a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-73a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_049-74a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2d0019_WYG_049-74b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定歴代紀事年表卷五十二<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

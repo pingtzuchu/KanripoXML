@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2k0095_WYG_007-1a"/>
+䟦<lb/>
+天地氣鍾江山靈炳述紀所由者爛然星陳迷軒轅駕<lb/>
+期汗澷逰何人躬接兹賞大滌洞天自漢來世名牋籙<lb/>
+道顯𤣥元棲真牝谷之士執青節駐鶴裝徳不泯絶厯<lb/>
+嵗既乆不能縷緝住山介石終日乾乾定為洞霄志委<lb/>
+心雲孫孟集虛攀迷途顧中峯漸磨成集宿心遂矣便<lb/>
+便夸毗之子悠悠白頭名利盛衰之感咄咄誰曷由纂<lb/>
+懿流光於斯為盛肯堂肯播弗棄基矣後之人後之人<lb/>
+<pb n="KR2k0095_WYG_007-1b"/>
+不越卬敉不亦宜乎大徳乙已冬至前三日大滌隱人<lb/>
+錢塘本山葉林儒藻父謹跋<lb/>
+十洲有志存而勿論可也如洞天福地固在職方之内<lb/>
+而雲笈之書不過舉其凡目或間見於郡國圖誌又語<lb/>
+而不詳其瑰偉之觀靈異之蹟湮没於雲煙縹緲林麓<lb/>
+莽蒼間者何限亦博物洽聞之士所病也况大滌之境<lb/>
+為東南最集虛孟尊師患紀載之闕承師命撰洞霄圖<lb/>
+志俯仰採拾彚成六巻語詳事核而大滌之勝於是乎<lb/>
+<pb n="KR2k0095_WYG_007-2a"/>
+大備余竊讀而有感焉兹山自東晉而名漸著往往皆<lb/>
+遺世絶俗者於焉逍遥迨宋中葉而後琳庭瓊館始峥<lb/>
+嶸甲于一方而主領兹山者亦名秩便蕃矣今又際遇<lb/>
+國朝崇奬𤣥教龍光赫奕其聲華氣槩視昔日為尤盛<lb/>
+然而昔之所謂霞舉之流顧迺淵潜而不露何耶豈果<lb/>
+山川夙水旋轉有時耶抑亦神仙混跡人間固未易識<lb/>
+也當俟暇日青鞋布襪往扣雲扄試酌蛟亭之水酹山<lb/>
+靈而問之上章閹茂中元台李洧孫䟦<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

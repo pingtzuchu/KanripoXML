@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>滎陽外史集巻八十八</head> <lb/>
+    <p>
+<pb n="KR4e0070_WYG_088-1a"/>
+欽定四庫全書<lb/>
+　滎陽外史集巻八十八<lb/>
+　　　　　　　　　　　　　明　鄭真　撰<lb/>
+　六言<lb/>
+　　題畫<lb/>
+綵雲影動丹崖皓月光寒珠樹待君載我扁舟萬里瀛<lb/>
+洲歸去<lb/>
+　　題山水畫<lb/>
+<pb n="KR4e0070_WYG_088-1b"/>
+疊嶂宻雲深樹前溪流水長橋天外鳥飛斜日蹇驢歸<lb/>
+興逍遥<lb/>
+重重石逕雲林灑灑竹窓松屋隠君試問何如高詠考<lb/>
+槃在谷<lb/>
+　　便面<lb/>
+縹緲雲山薄暮微茫野水清秋為問讀書千巻何如把<lb/>
+釣扁舟<lb/>
+　　題東坡墨竹<lb/>
+<pb n="KR4e0070_WYG_088-2a"/>
+湘水遥憐帝子彭城恍遇坡翁看畫不求形似筆端自<lb/>
+有清風<lb/>
+颯颯凉聲欲暮蕭蕭勁氣先秋笑問黄茅岡上誰知太<lb/>
+守風流<lb/>
+　　蕃邦進象二首<lb/>
+名應周詩五輅耳聞舜韶八音共向瑶階率舞九重喜<lb/>
+動天心<lb/>
+廣鼻深通兩竅長牙白聳雙尖沐浴天家雨露貢來南<lb/>
+<pb n="KR4e0070_WYG_088-2b"/>
+海蕃暹<lb/>
+　　山水畫<lb/>
+逺嶂白雲天半斷橋流水村孤高樹門前成列人來試<lb/>
+問吾廬<lb/>
+　　題畫<lb/>
+六月炎州如火秖思林下清風千里湘江帝子夜來遺<lb/>
+佩玲瓏<lb/>
+　　題卓民吉畫扇面貽葉太守<lb/>
+<pb n="KR4e0070_WYG_088-3a"/>
+天外雲霞欲曙山中樓閣先秋借問蹇驢雙去何如舴<lb/>
+艋同遊<lb/>
+　　題畫<lb/>
+萬仞蒼崖璧立雙溪碧水環流過眼浮塵滚滚山中好<lb/>
+度春秋<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR4e0070_WYG_088-3b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　滎陽外史集巻八十八<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

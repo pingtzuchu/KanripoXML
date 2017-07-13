@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>古今説海卷二十九</head> <lb/>
+    <p>
+<pb n="KR3j0189_WYG_029-1a"/>
+欽定四庫全書<lb/>
+　古今説海卷二十九<lb/>
+　　　　　　　　　　　　　明　陸楫　編<lb/>
+　説淵九<hi>别傳九</hi>
+　　趙合傳<hi>闕名</hi>
+進士趙合貌温氣直行義甚高太和初遊五原路經砂<lb/>
+磧覩物悲歎遂飲酒與僕使並醉因寢于砂磧中宵半<lb/>
+醒月色皎然聞砂中有女人悲吟曰雲鬟消盡轉蓬稀<lb/>
+<pb n="KR3j0189_WYG_029-1b"/>
+埋骨窮荒無所依牧馬不嘶沙月白孤魂空逐鴈南飛<lb/>
+合遂起而訪焉果有一女子年猶未笄容色絶代語合<lb/>
+曰某姓李氏居于奉天有姊嫁洛源鎮帥因往省焉道<lb/>
+遭党𦍑所虜至此撾殺刼其首飾而去後為路人所悲<lb/>
+掩于沙内經今三載知君頗有義心儻能為歸骨於奉<lb/>
+天城南小李村即某家枌榆耳當有奉報合許之請示<lb/>
+其掩骼處女子感泣告之合遂收其骨包於橐中伺旦<lb/>
+俄有紫衣丈人躍騎而至揖合曰知子仁而義信而亷<lb/>
+<pb n="KR3j0189_WYG_029-2a"/>
+女子咨祈尚有感激我李文悦尚書也元和十三年分<lb/>
+守五原為犬戎三十萬圍逼城池之四隅兵各厚數十<lb/>
+里連弩灑雨飛梯排雲穿壁決壕晝夜攻擊城危若累<lb/>
+卵大有瓦解之勢當其時禦捍之兵纔三千激勵其居<lb/>
+人婦女老幼負土而立者不知寒餒犬戎於城北建獨<lb/>
+脚樓高數十丈城中巨細咸得窺之某遂設奇定計其<lb/>
+樓立毁羌酋<graphic n="KR0787" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0787.png" mimeType="image/png"/>然以為神功又語城中人曰慎勿拆屋<lb/>
+燒吾且為汝取薪積於城下許人鈎上又太隂稍䀲即<lb/>
+<pb n="KR3j0189_WYG_029-2b"/>
+聞城之四隅多有人物行動聲云以夜攻城城中懾慄<lb/>
+不敢暫安某曰不然潛以鐵索下燭而照之乃空驅牛<lb/>
+羊行脅其城兵士稍安又西北隅被攻摧十餘丈將遇<lb/>
+昏晦羣冦大喜縱酒狂歌云候明晨而入某以馬弩五<lb/>
+百張而擬之遂下皮牆障之一夕併工暗築不使有聲<lb/>
+滌之以水時嚴寒來日氷堅城之瑩如銀不可攻擊又<lb/>
+羌酋建大將之旗乃贊普所賜立之於五花營内某夜<lb/>
+穿壁而奪之如飛衆羌號泣誓請還前擄掠之人而贖<lb/>
+<pb n="KR3j0189_WYG_029-3a"/>
+其旗納其老幼婦女百餘人待其盡歸然後擲旗而還<lb/>
+之時邠涇救兵二萬人臨其境股慄不進如此相持三<lb/>
+十七日羌酋乃遙拜曰此城内有神將吾今不敢欺遂<lb/>
+卷甲而去不信宿達宥州一晝夜而攻破其城老小三<lb/>
+萬人盡遭虜去以此利害則余之功及斯城不細但當<lb/>
+時賞罰無章不得仗節出此城空加一貂蟬耳余聞鍾<lb/>
+陵韋大夫舊築一隄將防水潦後三十年尚有百姓及<lb/>
+亷問周公感其功而奏立德政碑峨然若余當時守壁<lb/>
+<pb n="KR3j0189_WYG_029-3b"/>
+不堅城中之人盡為逺羌之賤𨽻豈存今日子孫乎知<lb/>
+子有心請白其百姓諷其州尊與立德政碑足矣言訖<lb/>
+長揖而去合既受教就五原以語百姓及刺史俱以為<lb/>
+妖不聽惆悵而返至沙中又逢昔日神人謝曰君為言<lb/>
+五原無知之俗刺史不明此城當有大災方與祈求幽<lb/>
+府吾言於五原之事不諧此意亦息其禍不三旬而及<lb/>
+矣言訖而没果如期災生五原城饉死萬人老幼相食<lb/>
+合挈女骸骨至奉天訪得小李村而葬之及明日道側<lb/>
+<pb n="KR3j0189_WYG_029-4a"/>
+遇昔日女子曰感君之義吾之大父乃貞元中得道之<lb/>
+士有演參同契續混元經子能窮之龍虎之丹不日而成<lb/>
+矣合受之女子已没合遂捨舉究其𤣥微居于少室燒<lb/>
+之一年能使瓦礫為金寶二年能起斃者三年餌之度<lb/>
+世今時有人遇之於嵩嶺耳<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3j0189_WYG_029-4b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　古今説海卷二十九<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

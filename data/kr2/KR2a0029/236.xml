@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2a0029_WYG_236-1a"/>
+　舊五代史巻一百十八攷證<lb/>
+周世宗紀五丙戌右龍武將軍王漢璋奏攻海州　案<lb/>
+　通鑑作丁亥王漢璋奏克海州歐陽史亦作丁亥取<lb/>
+　海州是書袛載丙戌攻海州而不載取城之日疑有<lb/>
+　闕文<lb/>
+丙午㧞之　案歐陽史通鑑俱作丁未充楚州與是書<lb/>
+　異五代春秋從是書作丙午<lb/>
+天長軍使易贇　易贇通鑑作易文贇<lb/>
+<pb n="KR2a0029_WYG_236-1b"/>
+乙未殿前都虞候慕容延釗奏大破賊軍于東㳍州<lb/>
+　案通鑑作甲午延釗奏大破唐兵于東㳍州與是書<lb/>
+　異日<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　舊五代史巻一百十八攷證<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

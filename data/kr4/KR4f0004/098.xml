@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4f0004_WYG_098-1a"/>
+欽定四庫全書<lb/>
+御製文餘集目録<lb/>
+　巻之一<lb/>
+　　詔<lb/>
+　　　丙辰元日𫝊位子皇帝並却上尊號詔<lb/>
+　　諭<lb/>
+　　　重舉千叟宴加恩百嵗夀民等諭<lb/>
+　　　授受禮成申未撰進頌冊諸臣諭<lb/>
+<pb n="KR4f0004_WYG_098-1b"/>
+　　　再免湖南湖北眀嵗應徵錢糧諭<lb/>
+　　　蠲承徳府屬眀嵗地丁錢糧諭<lb/>
+　　　命蠲免湖北被擾州縣及附近之湖南龍山四<lb/>
+　　　　川酉陽地方本年應徵錢糧諭<lb/>
+　　　命蠲免四川達州陜西漢中興安府所屬被賊<lb/>
+　　　　地方来嵗應徵錢糧諭<lb/>
+　　　命蠲免貴州南籠安順貴陽所屬地方未完銀<lb/>
+　　　　榖及本年應徵秋糧諭<lb/>
+<pb n="KR4f0004_WYG_098-2a"/>
+　　　再免貴州興義永豐等處一年錢糧及奬賞兵<lb/>
+　　　　勇諭<lb/>
+　　　命蠲免四川夔州府屬明年應徵錢糧諭<lb/>
+　　記<lb/>
+　　　匣衍記<lb/>
+　　　觀瀑亭紀實記<lb/>
+　　序<lb/>
+　　　補詠平苗戰圖四章序<lb/>
+<pb n="KR4f0004_WYG_098-2b"/>
+　巻之二<lb/>
+　　識語<lb/>
+　　　上元前一日家讌親藩及曽元詩識語<lb/>
+　　　二月朔日作詩識語<lb/>
+　　　詠和闐白玉椀詩識語<lb/>
+　　　題文津閣詩識語<lb/>
+　　　詠荷一律識語<lb/>
+　　　安眠口號識語<lb/>
+<pb n="KR4f0004_WYG_098-3a"/>
+　　　上元後一日小宴廷臣詩識語<lb/>
+　　　嫌偽詩識語<lb/>
+　　　題四朝選藻冊詩識語<lb/>
+　　　閲授受禮成示撰進頌冊諸臣諭識語<lb/>
+　　　上元日詩識語<lb/>
+　　　問津處口號識語<lb/>
+　　　鑑逺堂詩識語<lb/>
+　　　題和闐玉筆筒詩識語<lb/>
+<pb n="KR4f0004_WYG_098-3b"/>
+　　　題韓幹畫馬詩識語<lb/>
+　　　戲題眼鏡詩識語<lb/>
+　　　直𨽻總督胡季堂奏報二麥約收九分有餘詩<lb/>
+　　　　以誌慰識語<lb/>
+　　　口號識語<lb/>
+　　　鑑始齋題句識語<lb/>
+　　　含徳齋詩識語<lb/>
+　　　牣魚亭得句識語<lb/>
+<pb n="KR4f0004_WYG_098-4a"/>
+　　　石城詩識語<lb/>
+　　雜著<lb/>
+　　　書虞書舜典集傳<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

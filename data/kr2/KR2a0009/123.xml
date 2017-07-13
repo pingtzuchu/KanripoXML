@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2a0009_WYG_123-1a"/>
+景祐元年九月祕書丞余靖上言國子監所印兩漢書<lb/>
+文字舛譌恐誤後學臣謹參括衆本旁據他書列而辯<lb/>
+之望行刋正詔送翰林學士張觀等詳定聞奏又命國<lb/>
+子監直講王洙與靖偕赴崇文院讎對謹按後漢明帝<lb/>
+詔班固陳宗尹敏孟冀作世祖本紀及建武時功臣列<lb/>
+傳後有劉珍李充雜作建武已後至永初間紀傳又命<lb/>
+伏無忌黄景作諸王王子恩澤侯并單于西羌地理志<lb/>
+又邊韶崔寔朱穆曹夀作皇后外戚傳百官表及順帝<lb/>
+<pb n="KR2a0009_WYG_123-1b"/>
+功臣傳成一百一十四篇號曰漢紀嘉平中馬日磾蔡<lb/>
+邕楊劇盧植續為東觀漢紀呉武陵太守謝承作漢書<lb/>
+一百三十卷晉散騎常侍薛塋作後漢紀一百卷泰始<lb/>
+中祕書丞司馬彪始取衆説首光武至孝獻作續漢書<lb/>
+又散騎常侍華嶠刪定東觀記為漢後書九十七篇祠<lb/>
+部郎謝沈作後漢書一百二十二卷祕書監袁山松作<lb/>
+一百卷至宋宣城太守范曄益集諸家作十紀十志八<lb/>
+十列傳凡百篇十志未成曄被誅至梁世有剡令劉昭<lb/>
+<pb n="KR2a0009_WYG_123-2a"/>
+者補成之唐章懐太子賢詔集當時學者右庶子張太<lb/>
+安洗馬劉訥言洛州司戸參軍革希𤣥學士許叔牙成<lb/>
+𤣥一史藏諸周寳寧等同註范曄後漢書儀鳯初上之<lb/>
+詔付祕書省傳之至今靖洙悉取館閣諸本參校二年<lb/>
+九月校畢凡増五百一十二字損一百四十三字改正<lb/>
+四百一十一字<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

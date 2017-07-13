@@ -1,0 +1,2088 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>通雅</head>
+    <p>
+<pb n="KR3j0066_WYG_000-1a"/>
+欽定四庫全書　　　　　子部十<lb/>
+　通雅　　　　　　　　　雜家類二<hi>雜考之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案通雅五十二卷明方以智撰以智<lb/>
+　　　　字宻之桐城人崇禎庚辰進士官翰林院檢<lb/>
+　　　　討是書皆考證名物象數訓詁音聲首三卷<lb/>
+　　　　分五子目曰音義襍論曰讀書類畧曰小學<lb/>
+　　　　大畧曰詩説曰文章薪火皆不入卷數書中<lb/>
+<pb n="KR3j0066_WYG_000-1b"/>
+　　　　分二十四門曰疑始專論古篆古音凡二卷<lb/>
+　　　　曰釋詁分綴集古雋謰語重言四子目凡七<lb/>
+　　　　卷曰天文分釋天厯測陰陽月令農時五子<lb/>
+　　　　目凡二卷曰地輿分方域水經注地名異音<lb/>
+　　　　九州建都考釋地五子目凡五卷曰身體曰<lb/>
+　　　　稱謂各一卷曰姓名分姓氏人名同姓名鬼<lb/>
+　　　　神四子目凡二卷曰官職分仕進爵録文職<lb/>
+　　　　武職兵政五子目凡四卷曰事制分田賦貨<lb/>
+<pb n="KR3j0066_WYG_000-2a"/>
+　　　　賄刑法三子目凡二卷曰禮儀曰樂曲樂舞<lb/>
+　　　　附以樂器共三卷曰器用分書札碑帖金石<lb/>
+　　　　書法裝潢紙墨筆研印章古器襍器鹵簿戎<lb/>
+　　　　器車類戲具十三子目凡五卷曰衣服分彩<lb/>
+　　　　服佩飾布帛彩色四子目凡二卷曰宫室曰<lb/>
+　　　　飲食曰算數各一卷曰植物分草竹葦木糓<lb/>
+　　　　蔬四子目凡三卷曰動物分鳥獸蟲三子目<lb/>
+　　　　凡三卷曰金石曰諺原曰切韻聲原曰脈考<lb/>
+<pb n="KR3j0066_WYG_000-2b"/>
+　　　　曰古方解各一卷明中葉以後以博洽著者<lb/>
+　　　　稱楊慎而陳耀文起而與爭然慎好偽説以<lb/>
+　　　　售欺耀文好蔓引以求勝次則焦竑亦喜考<lb/>
+　　　　證而習與李䞇游動輙牽綴佛書傷於蕪雜<lb/>
+　　　　惟以智崛起崇禎中考據精核迥出其上風<lb/>
+　　　　氣既開<lb/>
+　　　國初顧炎武閻若璩朱彞尊等沿波而起始一<lb/>
+　　　　掃懸揣之空談雖其中千慮一失或所不免<lb/>
+<pb n="KR3j0066_WYG_000-3a"/>
+　　　　而窮源遡委詞必有徴在明代考證家中可<lb/>
+　　　　謂卓然獨立者矣乾隆四十六年二月恭校<lb/>
+　　　　上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="KR3j0066_WYG_000-4a"/>
+通雅自序<lb/>
+函雅故通古今此鼓篋之必有事也不安其藝不能樂<lb/>
+業不通古今何以協藝相傳詎曰訓詁小學可弁髦乎<lb/>
+理其理事其事時其時開而辯名當物未有離乎聲音<lb/>
+文字而可舉以正告者也爾雅之始於釋詁而綂當名<lb/>
+物也十三經從之博而約哉自篆而楷也聲而韵也義<lb/>
+而釋也三蒼五雅註疏字說金石古文日以犂然匿庸<lb/>
+嗜竒一襲一臆兩皆不免沿加辯駁愈成紕繆學者紛<lb/>
+<pb n="KR3j0066_WYG_000-4b"/>
+拏何所適從今以經史為槩遍覽所及輙為要刪古今<lb/>
+聚訟為徵攷而决之期於通逹免徇拘鄙之誤又免為<lb/>
+竒僻所惑不揣愚瑣名曰通雅雖挂一漏萬然從今以<lb/>
+往各出所核歲月甚長備物致用採獲省力諒亦汲古<lb/>
+者所樂遊之苑囿也辛巳夏日皖桐方以智密之題於<lb/>
+上江小館<lb/>
+學惟古訓博乃能約當其博即有約者通之博學不能<lb/>
+觀古今之通又不能疑焉貴書簏乎古有博於文畫者<lb/>
+<pb n="KR3j0066_WYG_000-5a"/>
+博於象數者典制者箋註者詞章者名物者隠怪者經<lb/>
+史既别各有專家小學原流忽為細故上下古今數千<lb/>
+年文字屢變音亦屢變學者相沿不考所稱音義傳訛<lb/>
+而已上古𦕈矣漢承秦焚儒以臆决至鄭許輩起似為<lb/>
+犂然後世因以為典故聞道者自立門庭糟粕文字不<lb/>
+復及此其能曼詞者又以其一得管見洸洋自恣逃之<lb/>
+虛空何便於此考究根極之士乃錯錯然元本不已苦<lb/>
+乎摭寔之病固自不一屬書贍給但取漁獵訓故專己<lb/>
+<pb n="KR3j0066_WYG_000-5b"/>
+多半傅㑹其以博自詡者造異志怪學子横子年且不<lb/>
+逮豈許差肩曼倩茂先間乎反不若君道至能草木狀<lb/>
+虞衡志為足佐景純元恪有禆多識矣宋之編考夾漈<lb/>
+頗有所見馬章次之伯厚次之金石則比輯於歐趙吕<lb/>
+王而原父子固彦逺長睿辯考為力朱子每慕六一而<lb/>
+於存中泰之襍說亦無不畱心也洪武初劉宋之根極<lb/>
+瓊山荆川之編彚潛谷本清之圖纂皆冒大略少有是<lb/>
+正子元仁寳瑣瑣記之陸文裕于文定時有一端京山<lb/>
+<pb n="KR3j0066_WYG_000-6a"/>
+若有所窺矣支與流裔未委悉也李大泌阮霧靈可謂<lb/>
+強記李屬方子謙補韵㑹其疎略猶之直翁無大發明<lb/>
+也新都最博而茍取僻異實未㑹通張東莞學新都竊<lb/>
+取尤多嶺南之九成子行也澹園有功於新都而晦伯<lb/>
+元美元瑞駁之不遺餘力以今論之當駁者多不能駁<lb/>
+駁又不盡當然因前人備列以貽後人因以起疑因以<lb/>
+旁徴其功豈可没哉今日之合而辯正也固諸公之所<lb/>
+望也壬午夏以智又記<lb/>
+<pb n="KR3j0066_WYG_000-7a"/>
+通雅凡例<lb/>
+此書本非類書何類也強記甚難隨手筆之以俟後證<lb/>
+　久漸以襍襍不如類矣亦子謙愚公俟子孫之意也<lb/>
+　爾雅為十三經之小學故用其分例釋詁則合其言<lb/>
+　訓而附以謰語重言一字之詁則别編字書此可不<lb/>
+　必矣其餘釋地釋天釋器之類則有專有合服食樂<lb/>
+　附器皆器也古人不似後人之求詳整也然後人之<lb/>
+　詳整便故分之草木鳥獸之後畜各為條此則附焉<lb/>
+<pb n="KR3j0066_WYG_000-7b"/>
+　其意猶之爾雅之箋翼也常所稱用不煩疑辯者無<lb/>
+　所事載矣<lb/>
+古人倣爾雅體若廣埤之類皆與方言釋名同規不載<lb/>
+　所出直是以意取玉篇之字耳無益後學此書必引<lb/>
+　出何書舊何訓何人辨之今辨其所辨或折𠂻誰是<lb/>
+　或存疑俟考便後者之因此加詳也士生古人之後<lb/>
+　貴集衆長必載前人之名不敢埋没<lb/>
+此書每則上標一語倣爾雅之遺使觀者望而知之然<lb/>
+<pb n="KR3j0066_WYG_000-8a"/>
+　後㝷繹下方<lb/>
+此書主于折𠂻音義其無辨難者或為語不經見又所<lb/>
+　忽畧或舊名紛糾為刪舉其要以便省覽又有異者<lb/>
+　疑者偶書以俟正故無斷詞<lb/>
+經傳字義連用者此則引之以為原本至于解經大指<lb/>
+　大經大制此不及也别載經學編中少受河洛于王<lb/>
+　虛舟先生又侍中丞于法司聞黄石齋先生之易别<lb/>
+　有折中論說此天人大原象數律厯之微盡本諸此<lb/>
+<pb n="KR3j0066_WYG_000-8b"/>
+　通雅類中或偶舉大槩不敢細述别作圖考<lb/>
+辨證以經史為本旁及諸子百家志書小說難可盡信<lb/>
+　然引以相叅自可證發方域官制容編一圖此舉其<lb/>
+　錯亂之尤者經制諸欵本非小學所收偶有音義論<lb/>
+　及因撮其槩此書主于辨當名物徴引以證其義不<lb/>
+　在鈔集編纂也<lb/>
+草木鳥獸之名最難考究蓋各方各代隨時變更東璧<lb/>
+　窮一生之力已正唐宋舛誤十之五六而猶有誤者<lb/>
+<pb n="KR3j0066_WYG_000-9a"/>
+　須足跡徧天下通曉方言方能核之爾雅詩注漢晉<lb/>
+　即多謬缺存中漁仲元晦伯厚升菴元美諸公皆不<lb/>
+　能定古人之名物而可責人乎<lb/>
+天地歲時推移而人隨之聲音亦隨之方言可不察乎<lb/>
+　古人名物本係方言訓詁相傳遂為典實智考古今<lb/>
+　之聲大槩五變此事無可明證惟以經傳諸子歌謡<lb/>
+　韵語徵古音漢注漢語徴漢音叔然以後有反切等<lb/>
+　韵矣宋之方言與韵異者時或見之至徳清而一改<lb/>
+<pb n="KR3j0066_WYG_000-9b"/>
+　終當以正韻為主而合編其下為一書<lb/>
+攷究之門雖卑然非比性命可自悟常理可守經而已<lb/>
+　也必博學積久待徵乃决故事至難而易漏若待全<lb/>
+　而後録則前者復忘之矣此藏智于物之道也人失<lb/>
+　弓人得之古今相續而成物惡其棄于地也不必藏<lb/>
+　于己力惡其不出于身也不必為己此則顒望後之<lb/>
+　君子<lb/>
+臨文不諱然同太之例自古有之此有論字者惟減其<lb/>
+<pb n="KR3j0066_WYG_000-10a"/>
+　畫也<lb/>
+<pb n="KR3j0066_WYG_000-11a"/>
+欽定四庫全書<lb/>
+　通雅卷首一　　　　　　明　方以智　撰<lb/>
+　　音義雜論<hi>攷古通說</hi>
+古今以智相積而我生其後攷古所以決今然不可泥<lb/>
+古也古人有讓後人者韋編殺青何如雕板龜山在今<lb/>
+亦能長律河源詳于濶濶江源詳于緬志南極下之星<lb/>
+唐時海中占之至太西入始為合圖補開闢所未有可<lb/>
+畫定禹貢之積石岷山太初之天官不必求多哉子思<lb/>
+<pb n="KR3j0066_WYG_000-11b"/>
+在魯繆時核以遷表自不得見孔子焦弱侯曰伯魚生<lb/>
+子思而卒在孔子前猶不決耶不告而娶在底豫後孔<lb/>
+子無誅少正卯之事三一公斷斷然也<hi>吳觀我宫諭别號三一</hi>學<lb/>
+庸貴闡禮經之心不必苦辨古文畫卦即是文字不必<lb/>
+苦辨倉帝詩之為樂琴曲之為兔園左傳非丘明夾漈<lb/>
+得之俊卿之論魯禮戴埴之言泮宫非學戴和之論雝<lb/>
+和張柬之明二十五月禫史繩祖明常儀為官升菴以<lb/>
+脩文御覽定西施之死郝京山之言周官春秋明辨類<lb/>
+<pb n="KR3j0066_WYG_000-12a"/>
+函言老子出於管子頤生微論明内經之附上此皆獨<lb/>
+發虛舟子衍河圖為洛書<hi>王化卿先生長於吾桐最精河洛</hi>漳浦公衍<lb/>
+天方圖<hi>庚辰中丞公與石齋先生在西庫論易衍此中丞公歎曰此方圓同時圖</hi>尤為絶學<lb/>
+曠代始聞智常見數千年不决者輙通攷而求證之春<lb/>
+王正月聚訟詞費明堂朝廟不悟通稱昭穆祫禘膠執<lb/>
+其名繪繡齋斧遂成典故合止祝敔乃限六聲黍離王<lb/>
+風豈得言降四時五行即為六宗娶妻生子辟卦周七<lb/>
+春官庿樂無商二十八調無徴葢必非缺一之說也生今<lb/>
+<pb n="KR3j0066_WYG_000-12b"/>
+之世承諸聖之表章經羣英之辯難我得以坐集千古<lb/>
+之智折中其間豈不幸乎客有過曼寓者問通雅音義<lb/>
+而及之且識其小辛巳涂月浮山愚者密記<lb/>
+古人說理事之音義轉假譬喻為多不可執後人之詳<lb/>
+例以論也况有巵寓附㑹者乎楊氏曰說築傅巗之野<lb/>
+築猶居也楚辭予築如云卜築王楙曰傅說胥靡乃傭<lb/>
+也而古今以為刑人葢板築胥靡刑人相沿也莊子曰<lb/>
+傅說騎箕尾此後世取以名星耳灊草曰鼎有實慎所<lb/>
+<pb n="KR3j0066_WYG_000-13a"/>
+之伊尹負鼎言負才也乃謂庖人遂作湯液天問縁鵠<lb/>
+飾玉竟有修飾玉鼎之註弋說曰割烹如借箸聚米說<lb/>
+命和羮之云也韓嬰引詩漢有游女而稱孔子至楚見<lb/>
+佩瑱浣女使賜挑之王逸方朔皆曰路女方桑孔父取<lb/>
+以自待子高荅平原君曰阿谷漂女之言出于近世何<lb/>
+待容齋之辨乎禆諶草創左氏遂謂謀野甯戚飯牛遂<lb/>
+作相牛之經青鳥來時註稱簡狄吞卵丣酉互取而旗<lb/>
+畫烏兎之象共觸媧補夸逐羿射上古荒唐隨人傅㑹<lb/>
+<pb n="KR3j0066_WYG_000-13b"/>
+如云蛇身牛首猶鳶肩燕頷也爾雅云西至于王母穆<lb/>
+傳西王母獻享天子其為西方國名明矣章亥歩地不<lb/>
+必胼胝閶闔天門非關冲舉挂瓢惡聲仍是枕流潄石<lb/>
+之話騎龍弄鳯其寔不過鷦鷯之枝自子思荅樂朔觀<lb/>
+之訓詞喜于深厚加以上古方言後世屬文襲取生割<lb/>
+是用約通其故以助讀書者但㑹其意勿為刻畫讔語<lb/>
+所迷<lb/>
+孔融曰郊天鼓必麒麟之皮寫孝經當曽子家䇿乎漢<lb/>
+<pb n="KR3j0066_WYG_000-14a"/>
+儒解經類多臆說宋儒惟守宰理至于考索物理時制<lb/>
+不逹其寔半依前人庿中行禮天子永無南面沂必温<lb/>
+泉正月何愛風涼半月周御分日可笑大房夏屋明證<lb/>
+反遺束晳補六笙詩大學補格物章贅矣或問西山餓<lb/>
+夫不食周粟有之乎程子曰不食周禄耳樂正子三月<lb/>
+不下堂果禁歩乎速貧速朽蚤知有為靡有孑遺不以<lb/>
+詞害鄭聲淫非鄭詩淫也可知回何敢死决不上告夫<lb/>
+子血流漂杵孟子多此一疑美丘欲葬則瑗請前决不<lb/>
+<pb n="KR3j0066_WYG_000-14b"/>
+如陳澔之解矣<lb/>
+學易齋稿曰世以莊列寓言而寓實始于易方圓圖書<lb/>
+萬變畢具初未嘗言理言事也畫前畫後非造閉解閉<lb/>
+之所出耶龍狐牛馬杞莧梯茹皆象教引觸不作譬况<lb/>
+者也化而言之曰法身曰牛車曰䤈眼曰六臂曰千手<lb/>
+摩尼寳珠隨人變色破塵經巻龍樹入澥嗅而知之果<lb/>
+恃鼻乎如㭨子大貯萬卷書天在山中大畜之象乘雲<lb/>
+氣騎日月惟逹觀者方可與語<lb/>
+<pb n="KR3j0066_WYG_000-15a"/>
+硎谷襍燒周易靈素以卜筮醫藥而全博士所職圖籍<lb/>
+可收原自歴歴不獨弇中共壁也陳農購後托者加者<lb/>
+譌者應不免耳古文尚書梅鷟議之郭公夏五顯然闕<lb/>
+失明堂戴記漢儒補苴他如山經穆傳周末好事握竒<lb/>
+六韜以兵而造秘焉堯日至虚而汲冢周書起牽牛秦<lb/>
+節曰臘爵曰庶長而乃見春秋左氏傳豨黥韓覆乃載<lb/>
+李斯之蒼頡篇若鶡冠鬻子鬼谷子華之類詎免張霸<lb/>
+劉炫之忍俊耶劉子𤣥云郭子横洞冥王子年拾遺全<lb/>
+<pb n="KR3j0066_WYG_000-15b"/>
+搆虛詞用驚愚俗任昉述異殷芸小說沈約四公子唐<lb/>
+杜陽襍編天寳遺事宋雲仙散録清異録相沿蝟起温<lb/>
+公作通鑑亦誤取天寳遺事况下此者乎西京襍記本<lb/>
+葛洪作而以偽劉歆亢倉子本唐王士源作乘檮杌乃<lb/>
+吾衍作元經出阮逸世以逸作孔叢出宋咸世以咸作<lb/>
+朱子以麻衣出戴師愈黄東發以文子出徐靈府宋景<lb/>
+濓以闗尹出孫定元美以元命包出張昇元瑞以三墳<lb/>
+出毛漸升菴疑隂符出李筌赤鳥果然飛去龍威何處<lb/>
+<pb n="KR3j0066_WYG_000-16a"/>
+蔽辜賢刦追辨七言大是癡人說夢貝編壺史總屬諾<lb/>
+臯隠形碔碌雲騢何為而受欺乎姑妄言之姑妄聴之<lb/>
+但以消閒小學技藝皆可東坡招人說鬼固不如博奕<lb/>
+也<lb/>
+馬子卿以石鼓為宇文時造弱侯以蘇綽傳證之吾衍<lb/>
+鄭瑗之斷比干盤永叔少游之斷季札碑黄伯思以詛<lb/>
+楚亞駞在烏氏而董斷為滹沱是也㑹稽李斯碑元申<lb/>
+屠駉所刻范雲所讀在秦望山後分吳㑹葢古㑹稽大<lb/>
+<pb n="KR3j0066_WYG_000-16b"/>
+也何疑塗山為㑹稽乎元瑞據晉武咸寧五年譏升菴<lb/>
+太康二年魏安釐王之誤則未見廣川書跋與書史也<lb/>
+秦少游言南齊雍州發楚王冢得竹簡則襄陽也秦璽<lb/>
+久亡段義楊桓熊翀所上者炫也周敬山之疏當矣段<lb/>
+書不必盡信貴明其理或以考事或以辨名當物或以<lb/>
+驗聲音稱謂之時變則秦漢以來之所造所附亦古今<lb/>
+之徵也即如素問本草業者㳂加豈可以漢郡名而疑<lb/>
+神農周公爾雅學者隨時増益自是通訓豈可以張仲<lb/>
+<pb n="KR3j0066_WYG_000-17a"/>
+而黜之不列十三經乎周髀捐悶夕桀疇人傳之寔乃<lb/>
+有用之度數天然之至理禹之所治不可忽也何疑吐<lb/>
+哺中無商高乎若嗜淺惡深一切疑之永叔疑文言象<lb/>
+山慈湖疑繫傳至今郝京山何元子信文王八卦而疑<lb/>
+伏羲先天圖豈不可笑辛巳曼寓隨筆<lb/>
+　　辨證説<lb/>
+是正古文必藉他證乃可明也博狼葆祠綽約果陏皆<lb/>
+以史漢互證蘇□煴火有召信臣之㸐藴火為證與語<lb/>
+<pb n="KR3j0066_WYG_000-17b"/>
+區脫有漢書傳之甌脫為證食貨志一黄金一斤得晉<lb/>
+灼說巴志黄龍而證觀于假貸乞匄而匄貸以明觀荀<lb/>
+子之區蓋刋謬之丘區而丘蓋亦可明矣焦字孝然是<lb/>
+光非先匡續子孝因訛俗而訛裕田疇子春史避作泰<lb/>
+陶言無終其明證也觀公卿表通鑑之張譚可知匡衡<lb/>
+傳之甄譚即張觀古今人表之尾生高尾生畝與小顔<lb/>
+之尾生注而論語之微生為尾矣楚䇿黄歇說秦昭鬼<lb/>
+神狐祥無所食得春申之孤傷新序之潢洋而明楊由<lb/>
+<pb n="KR3j0066_WYG_000-18a"/>
+傳風吹削哺得家訓削林滸滸而明本草留師密得郭<lb/>
+璞黑蜂為笛師而明葵菘通稱何疑菜部得詩傳之園<lb/>
+葵論衡之葵韭而明□脫跳脫足明平脫昆吾木吾足<lb/>
+明金吾僕姑脈肚瓜椎終葵土瓜曰鉤□姑足明𤓰葵<lb/>
+魁椎之聲碑下叭嗄足明負下未易居之語如旖旎十<lb/>
+四變逶迤三十二變皆謰謱通證而得也智每駁定前<lb/>
+人必不敢以無證妄說坤後得主六二直方之讀明有<lb/>
+文言猗嗟名兮居居究究明見爾雅故敢于補攷亭耳<lb/>
+<pb n="KR3j0066_WYG_000-18b"/>
+觀于三獻爓一獻<graphic n="KR0836" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0836.png" mimeType="image/png"/>羮獻而汁獻涗于醆酒何疑浴尸<lb/>
+必先掘坎為池推柩時填之則填池何疑康成竟讀汁<lb/>
+獻為汁挲填池為奠徹非猶是箕子荄茲旅獒酋豪之<lb/>
+臆耶<lb/>
+　　刋落折中說<lb/>
+虞仲翔斷桺戼之失杜元凱有門閏之辨緇衣注疑割<lb/>
+厥之聲西京雜記言璞朔之類魯論之通歸饋雞口轉<lb/>
+為雞尸往往而然漁仲謂武从□<hi>古舞作□撫作□可證左傳附㑹止戈耳</hi>
+<pb n="KR3j0066_WYG_000-19a"/>
+右軍改陳从車稚川加彡為影于理茍通雖剏何硋泀<lb/>
+溮可别而□丘則衍<hi>圗經兖州泀水申州溮川三蒼作□說文有丘</hi>逢逄可分<lb/>
+而佮敆實複安石喜為鑿說何異王育宦光主為專别<lb/>
+甚于佩觿蓋自篆籒流為真草衛包改去古文所存舊<lb/>
+跡定有乖異北齊大顔曰世間小學不通古今必依小<lb/>
+篆是正書記凡爾雅三蒼説文豈盡蒼頡本指哉亦是<lb/>
+隨代損益何况後來夾漈所謂眼學耳學日以難矣管<lb/>
+子六峜光武紀繡镼沮渠人趙<graphic n="KR1835" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1835.png" mimeType="image/png"/>山海經之□廣韵字<lb/>
+<pb n="KR3j0066_WYG_000-19b"/>
+彚韻㑹小補皆漏謂宜略耶孫休名子武曌强造何具<lb/>
+録乎不羮音郎金選音刷陸法言孫愐皆遺之而先儒<lb/>
+己誤者犧尊音娑業見辨于劉董<hi>劉杳董逌</hi>玉篇之䵬久條<lb/>
+論于家訓之推反皆收列全不分疏又况道㗖蹈函之<lb/>
+承誤較顜講斠之紛辨而望其攷定耶<hi>孔平仲曰荀子禮論云郊止于</hi>
+<hi>天子社至于諸侯道及士大夫言祭門及行也曰井曰行皆謂路也别本史記作㗖司馬貞因曰含苞也士大</hi>
+<hi>夫得苞立社也楊倞曰當是道誤為蹈又誤為㗖今史記直作函字音含矣一字而四變也升菴譏温公通鑑</hi>
+<hi>改斠作較元美曰乃漢書改也智按今監本凌本皆作講若畫一注或作較師古曰謹和也史記作顜若注徐</hi>
+<pb n="KR3j0066_WYG_000-20a"/>
+<hi>廣音古項反一音較漢書作講一作覯楊王各見本耳無作斠者以斠音較而誤</hi>
+𨽻變傳寫偶爾隨筆有之後人專主僻異則過矣七發<lb/>
+之□母<hi>乃胥母山也戚伯著碑作□馮煥詔作□韓非子作□</hi>賈子之□牙<hi>升菴所引</hi>
+<hi>即騶虞山海作□吾此芻訛刍耳</hi>元常之茤蕘<hi>西狹頌趨作趍芻借多也杜林以茤為芰</hi>逸<lb/>
+少之郗公<hi>絺綌聲轉郗借郄也郄乃郤耳</hi>南史之僧□<hi>因孟郁碑以孺作□</hi>常璩<lb/>
+之秭□<hi>紀産碑作歸孔龢碑作□歸藏作□匨</hi>北周書之莫郍<hi>宇文普回生莫郍北</hi>
+<hi>史作莫那</hi>南梁書之惣督<hi>鄭烮下旬碑總作揔訛作惣婁夀西狹督作□从日</hi>此隨筆<lb/>
+也以䦱門為闖門而反譏韋昭之誤以士雅為士稚而<lb/>
+<pb n="KR3j0066_WYG_000-20b"/>
+反指晉書為訛<hi>陳霆引魯語文伯之母季康子往焉闖門而與言韋昭注闖為闢今按闖馬不</hi>
+<hi>出門也智攷國語是䦱門音委弱侯音喎是也水南誤矣陳眉公據宋小說謂祖逖字士稚智遍攷諸本無作</hi>
+<hi>稚者魏書英結壘士雅山三省謂山以逖名</hi>以龜茲為<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>兹朱龜為侏虬亦<lb/>
+與通志不合漢譯何為用竒字乎<hi>漢書龜兹音丘慈升菴曰古<graphic n="KR2836" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2836.png" mimeType="image/png"/>音虬龍子</hi>
+<hi>也漢有侏<graphic n="KR2836" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2836.png" mimeType="image/png"/>讀如朱虬龜兹國之龜从此智按通志畧/龍子有角曰<graphic n="KR2836" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2836.png" mimeType="image/png"/>無角曰虬則<graphic n="KR2836" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2836.png" mimeType="image/png"/>與虬為二朱龜碑在亳</hi>
+<hi>州界中龜字伯靈無作<graphic n="KR2836" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2836.png" mimeType="image/png"/>者至西域龜兹原未有字譯/者求明顯何不以虬兹譯之乃故用多畫不經見之<graphic n="KR2836" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2836.png" mimeType="image/png"/>
+                    </hi>
+<hi>字乎葢古龜有丘音説文龜舊也馗逵頄顴互通宄从九紂醢九侯即鬼侯馬融頌芋渠即芋魁才老以厨珠</hi>
+<hi>殊灰入尤韻范曄龜兹作屈沮即此可推</hi>柳□作橮<hi>□見說文/橮屬訛誤</hi>改昳為映<hi>梁元</hi>
+<pb n="KR3j0066_WYG_000-21a"/>
+<hi>帝纂文日<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>因作日映而月令廣義承訛</hi>昃訛吳□<hi>說文引日□之離才老作<graphic n="KR0628" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0628.png" mimeType="image/png"/>
+                    </hi>丩造㢧<lb/>
+<graphic n="KR1505" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1505.png" mimeType="image/png"/>
+                    <hi>升菴音周因□音蚪長睿以㢧為卷省說郛詩紀作<graphic n="KR1505" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1505.png" mimeType="image/png"/>智按□古函字</hi>小黄訛小王<hi>京傳</hi>
+<hi>焦小王訛葢贛作小黄令</hi>牢丸作牢九<hi>襍爼可證/東坡誤</hi>祆自非祅<hi>唐官品有祆正</hi>
+<hi>音軒徐鉉所補張有戴侗作祅非</hi>葖自非□<hi>爾雅葖蘆萉陳李作□音要</hi>紫菘即蘿<lb/>
+蔔蘇頌不知謂菘入北而變封禪書導一莖六穗于庖<lb/>
+而造瑞禾之䆃凡夫不知反譏漢志導官河鼓訛黄姑<lb/>
+<hi>伯勞歌杜詩皆用之</hi>馬永卿不知爾雅兩牽牛而王道俊猶謂黄<lb/>
+姑為牛宿閼氏讀胭脂而竹坡怪樂天用□支貢父譏<lb/>
+<pb n="KR3j0066_WYG_000-21b"/>
+顔解皇后豈知遏安焉之轉乎<hi>甲歲閼逢史作焉逢董安于作閼于可證</hi>馬<lb/>
+流即馬留而程泰之但引夜奢馬人龍家即䮾家而元<lb/>
+美但記入水崑侖為龍戸李謩擫笛訛□笛而子賢竒<lb/>
+之嬃女訛㜑女而仁寳異之穆䕶轉木斛而山谷竟作<lb/>
+木瓠孫愐以<graphic n="KR2345" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2345.png" mimeType="image/png"/>為<graphic n="KR2345" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2345.png" mimeType="image/png"/>而季疵遂作馨□<hi>音備</hi>志林誤引相<lb/>
+訊<hi>樂記治樂以相訊疾以雅相雅皆節樂器也</hi>筆叢猶用九京<hi>檀弓京古原字人遂訛京</hi>
+李濟翁以行李作<graphic n="KR2139" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2139.png" mimeType="image/png"/>而永卿彭乗皆誤夏彦剛以襟穿<lb/>
+為船而王元之覺範皆誤八采盧郎虎臣證以白八采<lb/>
+<pb n="KR3j0066_WYG_000-22a"/>
+名而今猶用張祐八米詩<hi>孔毅父續世說云北齊盧思道挽歌八首時人號八采姚</hi>
+<hi>寛引秦語七米八米詩紀刻之</hi>劉蛻靄迺歌次山作欵乃歌而洪駒父<lb/>
+遂作<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>靄<hi>栁注棹聲一作襖靄而山谷實之冷齋遂引<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>靄葢欵與欸近欸有靄音</hi>咄嗟咄<lb/>
+唶咄叱自通貢父以司空圖咄喏而辦譏石崇之咄嗟<lb/>
+則不必矣剛卯縢綔訛為縢<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>陶九成謂無此字則未<lb/>
+攷漢志也陸友仁訝吳彩鸞鈔二十三先則未見孫愐<lb/>
+韻也鑿空掠虚也唐詩謂空中行而升菴猶引開山洞<lb/>
+<hi>然騫鑿空史㫁語也謂弄空媚武帝也注鑿孔泥矣</hi>禦兒亭訛語兒陸廣微附㑹<lb/>
+<pb n="KR3j0066_WYG_000-22b"/>
+之而陳胡反以訾楊耶<lb/>
+　　注釋正字說<lb/>
+伯于為公子公羊已識仲尼之歎助語為鳥名爾雅亦<lb/>
+有鸒斯之誤朱子改素隠為索隠因班孟堅退之改晝<lb/>
+寢為畫寢得水經注澅邑而信<hi>王蠋畫邑人孟子三宿此</hi>彖言全體<lb/>
+爻言分體不必引毛犀不必篆己亥<hi>魏篆作□楊引茅犀餘冬序録近是</hi>
+<hi>按古易遯卦作<graphic n="KR0735" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0735.png" mimeType="image/png"/>管子豚豚取團團之聲豚是體薦爻是折爼加肉為肴</hi>宗祀即尊祀<hi>伯宗公羊</hi>
+<hi>作伯尊可證</hi>明堂别于壇<hi>圜丘是壇宗祀屋之齊有明堂天子之行在所也漢說紛紜别有詳</hi>
+<pb n="KR3j0066_WYG_000-23a"/>
+<hi>論</hi>側匿論月魄<hi>漢五行志作仄慝</hi>朓朒猶嬴縮蔡許之說决無<lb/>
+此理<hi>邕曰元朔月見西方謂之側匿慎曰朔而月見東方謂之朒晦而月見西方謂之朓漢太初舛至此</hi>
+<hi>乎</hi>宗廟彞器用繪衣裳用繡<hi>郝辨鄭甚明</hi>最細曰纖粗白曰<lb/>
+縞<hi>厥篚青纖縞青白二色而纖縞二種祥而縞禫而纖舊解縞為細繒纖為黑經白緯臆也</hi>歲以星<lb/>
+一周祀以祭一徧年以禾一熟載以一歲事畢纔終又<lb/>
+始唐虞三代原通用也<hi>㒸遂通歲或曰越也或取歩戌一端之説</hi>且月為焦<lb/>
+涂月為除<hi>爾雅六月為且言熱也上林賦巴且即巴蕉可證十二月為涂注音徒智謂歲将除也李</hi>
+<hi>石臘丙作橘滁鑑修堂涂亦音除即今滁州可證</hi>左个即左間河干即河間<hi>讀書</hi>
+<pb n="KR3j0066_WYG_000-23b"/>
+<hi>通介干間聲轉</hi>尚書百姓為百官公姓子姓謂公孫子孫也<hi>振振</hi>
+<hi>公姓注公孫也玉藻子姓之冠田蚡傳跪起如子姓</hi>大麓為大録<hi>孔叢桓譚皆同張萱云大麓者</hi>
+<hi>古為壇國外㑹諸侯智按大傳曰招樂興于大麓報事還歸□然作大唐之歌此亦一證</hi>内録謂宰<lb/>
+相也<hi>桓温讓内録人稱道子東録元顯西録</hi>玉敦<hi>音/對</hi>猶瓚盤<hi>唐盛器瓚盤可證周禮玉</hi>
+<hi>敦當音堆</hi>舉案猶禁嶡<hi>孟光舉案子元讀案如椀楊取之元美譏楊非也智謂玉人案十有二寸</hi>
+<hi>非几也房爼非屋也萬石君對案不食案猶棜禁魯用梡嶡梡即椀以巵舟杯盤思之可知</hi>五更為<lb/>
+五叟<hi>伯喈以嫂作㛐字本叜更相近</hi>田更為田叟<hi>晉張湛注列子</hi>鄂不為萼□<lb/>
+<hi>鄭云承華曰鄂不柎也不象蒂形與荂□芙通</hi>不顯為丕顯<hi>不㔻丕通詛楚秦鍾皆然</hi>昧谷<lb/>
+<pb n="KR3j0066_WYG_000-24a"/>
+為栁榖<hi>翣栁注引書曰度西曰栁榖日没色曰榖虞翻奏鄭氏違失古篆古□□同字而以為昧今作</hi>
+<hi>宅西昧谷是鄭改□為昧矣其殆□訛□□訛夘夘音昧乎吳澄遂謂昴宿當作畱</hi>執禮為蓺禮<lb/>
+<hi>陸文裕説兼禮樂儀事言也智按説文引我埶黍稷可證蓺埶古通</hi>翦商是戩商<hi>胡庭芳取説文</hi>
+放桐為敎之<hi>孫奕示兒編□訛放</hi>攷據故實自當收存因昆吾知<lb/>
+昆于<hi>許氏曰壺昆吾圜器□昆于不可知智按吾于通轉</hi>因孰哉證安哉<hi>仲雍字孰哉李</hi>
+<hi>尤有安哉銘器也可證説文石鼓之□字</hi>雉噫矦兮于蒍輿謣之聲榆沈䘏<lb/>
+勿樊纓負劍之説黄淡鬱泥巻婁□<graphic n="KR2218" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2218.png" mimeType="image/png"/>之名韜沓即燼<lb/>
+湆定之解九拜謹空鹽<graphic n="KR1904" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1904.png" mimeType="image/png"/>之辨雖屬細故隨見而識之<lb/>
+<pb n="KR3j0066_WYG_000-24b"/>
+偶得之雞肋亦足供後人之一匕也<lb/>
+巻為衮端為冕佛時為弼調饑為周旦明為神相傳久<lb/>
+矣敦弓之為雕弓手仇之為手㪺此以器徴菆塗為攢<lb/>
+縿幕為綃䊷衣為緇此以事據臺鮐為狐苔惡池為滹<lb/>
+沱此以地知故赤白翟之圜洛以銀州而定為圁洛鄧<lb/>
+禹傳之元二李賢直改為元元吾則是之<hi>洪容齋言楊厥石門頌中</hi>
+<hi>遘元二孔躭碑遘元二坎坷為是元年二年王勉夫取之此是楊碑之誤容齋泥之而勉夫又泥之</hi>魏了<lb/>
+翁言賈公彦誤爂為㸑王勉夫喜師古解割炙為名雲<lb/>
+<pb n="KR3j0066_WYG_000-25a"/>
+母屏風為雲岳<hi>鄭𢎞傳</hi>吕覽瞽叟拌瑟為瞽□<hi>玉海訛</hi>寔則<lb/>
+訛耳漢時載籍類多别本石經碑刻文畫假借然後世<lb/>
+好古之士宜博稽廣參取其近理者從之疑則闕之異<lb/>
+則并存之直去本文徑加改字此京山之笑康成吳師<lb/>
+道之恨鮑彪也<hi>鄭好改字如包蒙改彪蕃庶改遮之類南宋鮑注國䇿詆髙誘元金華吳正傳</hi>
+<hi>因陶宏本極詆鮑氏如以魏幾鄢陵為人名公子牟非魏牟魯連約矢書為後補之類</hi>又有為國<lb/>
+諱者通嚴曳人之類而陽秋景午至今猶不知改<hi>王伯厚序</hi>
+<hi>四部書曰景部丁部葛常之作韻語陽秋非其時矣</hi>司馬康没于靖康前何乃預<lb/>
+<pb n="KR3j0066_WYG_000-25b"/>
+以烏桓為烏元邪寒鼈<hi>改炮鼈</hi>三竒戍<hi>在彭州導江今作三城</hi>白鷗<lb/>
+波<hi>改没</hi>浩蕩夜䦨更<hi>改/互</hi>秉燭曽閃朱旗北斗殷<hi>作閑閑乃子美父諱</hi>
+酷吏傳之媮快勝任今作愉快<hi>世不知媮音偷而讀愉故作愉</hi>貨殖傳<lb/>
+之千樹萩今刻作荻<hi>左傳雍門之萩方朔傳有萩竹今不知此云是荻誤</hi>相習而<lb/>
+忘之晉之干寳鄧潛谷趙凡夫作于荀朂公曽馬維銘<lb/>
+刻為公魯新刋監本爾雅李時珍本草綱目陸元恪皆<lb/>
+作士衡是則所當急改耳<lb/>
+　　古書參差說<lb/>
+<pb n="KR3j0066_WYG_000-26a"/>
+古人稱引略得其概則以意摛辭予乗四載孔注尸子<lb/>
+淮南說文史漢各異<hi>孔注謂水乘舟陸乗車泥乗楯山乗樏尸子泥行乗蕝淮南子注澤</hi>
+<hi>行乗蕝説文山行乗樏澤行乗䡅史記陸行乗車水行乗舟泥行蹈橇山行即橋橇音蕝徐廣曰橋一作輂漢</hi>
+<hi>溝洫志泥行乗毳山行則梮</hi>瑚璉之制明堂位與論語春秋正義左<lb/>
+傳注異<hi>明堂位有虞氏之兩對夏后氏之四璉殷之六瑚周之八簋論語夏曰瑚商曰璉說文作槤春</hi>
+<hi>秋正義依明堂位而包咸等注論語賈服杜注左傳皆云夏曰瑚康成則以論語為誤</hi>菑畬新田<lb/>
+爾雅與鄭氏異<hi>爾雅云一歲曰菑二歲曰新三歲曰畬鄭曰一歲曰菑二歲曰畬三歲曰新田</hi>
+甯戚飯牛歌凡三見<hi>淮南子劉向别録高誘吕覽注謂戚所歌乃詩碩䑕之詞則誘初未</hi>
+<pb n="KR3j0066_WYG_000-26b"/>
+<hi>見南山白石之歌也</hi>介山龍蛇歌凡五見<hi>吕覽史記新序説苑各異</hi>智嘗怪新<lb/>
+序說苑皆子政作而說苑載舟之僑歌與介之推歌同<lb/>
+何自決漏如此國語左傳皆丘明作而單襄火覿里革<lb/>
+斷罟雞丘異年夗支異名不特叔嚮咨才一字之訛也<lb/>
+<hi>單襄論朝覿道茀里革諌宣公夏濫泗淵皆左傳所無襄三年㑹雞澤作四年㑹雞丘鳶緹作夗支叔向作叔</hi>
+<hi>嚮咨事作咨才</hi>又奚問扈樂頃熊履緰軒酌歐蛇屈銀浩油郜<lb/>
+郎之於公榖乎又奚問為臘艾之於列女傳棼冒勃蘇<lb/>
+之於戰國䇿乎<hi>圉人犖弑子般公羊以為鄧扈樂宣八年敬嬴公榖作頃熊隠二裂繻公榖作</hi>
+<pb n="KR3j0066_WYG_000-27a"/>
+<hi>履緰昭元國弱公作國酌罕虎公作軒虎桓十二曲池公作歐蛇昭十一厥憖公作屈銀定四皋鼬作浩油莊</hi>
+<hi>時禚公榖作郜滑公榖作郎諸如蔑作昧駭作侅州作祝郕作盛頵作髠繹作蘱鸜作鸛輙作痤䴢作圏夔作</hi>
+<hi>隗首作手秀郪作犀師之類不可勝數蒍賈子蒍艾獵即孫叔敖列女傳作蒍臘艾申包胥哭秦庭國䇿作棼</hi>
+<hi>冒勃蘇</hi>至于諸家經本易字甚多焚後闇記口傳或誤方<lb/>
+漢購之容無偽邪子長言楚莊王相孫叔敖有虞丘子<lb/>
+薦左傳無所謂虞丘子也<hi>樊姬言虞丘子為相數十年而左傳宣四年令尹越椒殺</hi>
+<hi>蒍賈楚遂㓕若敖氏即鬬氏宣十一孫叔敖為令尹</hi>趙世家景公二年司冦屠岸<lb/>
+賈殺趙朔程嬰公孫杵臼匿趙孤十五年左傳無此三<lb/>
+<pb n="KR3j0066_WYG_000-27b"/>
+人與如許年也<hi>成五年為通莊姬放嬰齊八年姬譖討同括即以韓厥言立武反田與史全異</hi>
+自漢以後班馬異同吾可得而折中矣一人之書文重<lb/>
+思煩刋落不盡時自牴牾毋寡或為毋鼓粟客或謂票<lb/>
+客表殊年月温公嘗以厯知荀紀有差凌氏攷定其失<lb/>
+<hi>西域傳與貳師伐大宛一作毋寡一作毋鼓韓信傳歸漢為治粟都尉表以為票客按史記作典客索隠以為</hi>
+<hi>粟客師古以為票疾而賔客禮之此解非也司馬公曰史記將相表八年七月辛巳審食其為太傅九月丙戌</hi>
+<hi>復為丞相後九月免漢書百官表高后七年七月辛巳左丞相食其為太傅八年九月丙戌復為丞相以長厯</hi>
+<hi>推之八年七月無辛巳九月無丙戌二表皆誤凌氏按翟方進以永始二年二月為御史大夫至十一月而貶</hi>
+<pb n="KR3j0066_WYG_000-28a"/>
+<hi>凡居官八月耳故曰八月貶荀悦漢紀因以為秋八月貶也</hi>即莫煩於姓名地里合<lb/>
+集諸證亦有緒也<hi>同名如漢兩王莽兩京房同時有兩王章兩王商之類甬東俞寅詳矣地</hi>
+<hi>里之同如丹陽東陽新安石城硤石  山之類</hi>霧靈曰屯田必舉充國而趙寔<lb/>
+未嘗屯也東坡歎二疏見韓楊之誅則年次差矣垣䕶<lb/>
+之裔避欽宗諱改亙氏因曰亘䕶之自非史訛李密表<lb/>
+少仕偽朝亦後人改也史記以張良為申徒潛夫論以<lb/>
+良為信都即司徒也楚漢春秋謂韓王名信都知㡬訿<lb/>
+遷固羅璧識遺又訿知㡬歐陽集古子固且議而彦遠<lb/>
+<pb n="KR3j0066_WYG_000-28b"/>
+又議考究隨筆本待後證豈相諱乎<lb/>
+　　六書形聲轉假說<lb/>
+用脩曰六書當分六體班固云象形象事象意象聲假<lb/>
+借轉注是也四象為經假借轉注為緯漁仲論假借是<lb/>
+以偏旁諧聲為轉注則非老从匕音化考从丂音巧非<lb/>
+反考為老也毛晃蕭楚程端禮王栢皆駁叔重張謙中<lb/>
+曰假借者因其聲借其義如甲拆借為甲乙兵甲轉注<lb/>
+者轉其聲注其義如賁敦七音弱侯曰轉注為六書之<lb/>
+<pb n="KR3j0066_WYG_000-29a"/>
+變而趙古則所云雙音並義旁音協音又轉注之變也<lb/>
+愚者曰漢時碑記過於通如漯<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>芉陽形刑陸睦之類<lb/>
+説字家過於别如同詷合佮敆詥之分叔重主分别者<lb/>
+也加以附入舛牴益多夾漈乃明假借撝謙楊焦乃明<lb/>
+轉注凡夫復主考老以偏旁為轉注拘矣請通論之人<lb/>
+所貴者心而不離五官始造文字皆意也而不離五者<lb/>
+則當以意為第一然先形事者以就可見者起意也名<lb/>
+為五官用時並用名為六書一字並存如見日月之事<lb/>
+<pb n="KR3j0066_WYG_000-29b"/>
+<hi>即指日月之事即有日月之聲</hi>而指為日月之意即㑹焉特以因形立<lb/>
+事附聲見意而意多字少轉借為多總言之惟形與聲<lb/>
+兩端而意在其中意事與形聲為兩端而轉借寓焉形<lb/>
+聲事意皆有轉借而縱之平仄横之宫商填字歸韻倫<lb/>
+論必不可紊使宣尼生今日吾知其必樂遵正韻用新<lb/>
+譜也<lb/>
+　　說文槩論<lb/>
+庾元威云許慎穿鑿賈氏乃奏說文同時鄭氏即駁之<lb/>
+<pb n="KR3j0066_WYG_000-30a"/>
+何待少温漁仲辛泉合溪子才敬甫輩乎孫徐尊許尤<lb/>
+多回穴姑槩論之以俟明者有草無□有紗無妙有□<lb/>
+無頻無躐而通作獵猶有説也有瀏鎦而無劉<hi>漢姓可遺但訓</hi>
+<hi>殺乎</hi>無妥而綏从妥無春而有□□<hi>□即春□蠢从之</hi>無蹤而車<lb/>
+部有䡮無跬而□下讀若跬無□而有□<hi>與専切則是鳶說文亦不</hi>
+<hi>載鳶</hi>無希而禾部有稀俛凂勉冕皆免聲而無免各部引<lb/>
+□聲而無□即非紕繆豈無傳訛其他通用異筆輙乃<lb/>
+複載而複訓之鼓□鬲䰜不應為二<hi>此猶㜽子首<graphic n="KR1315" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1315.png" mimeType="image/png"/>耳漢令作□或作䰛</hi>
+<pb n="KR3j0066_WYG_000-30b"/>
+<hi>與鬲䰜同</hi>鞠分為五<hi>鞠□<graphic n="KR0146" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0146.png" mimeType="image/png"/>/趜□</hi>企别為四<hi>企□舉踵也跋多指也□頃也</hi>躇又<lb/>
+有□逪□又有□<hi>引書뗯咨</hi>徐本[瓜*見]復有脈踐有<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>俴湼湼<lb/>
+雙從兩吁重出孌攣訛<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>發鳩無涷<hi>楊去奢按水經無涷惟漳出上黨長</hi>
+<hi>子發鳩山</hi>妴□何分于婉孚保互引古文其解字立義更多<lb/>
+牽强麥為金生火死从來有穗从文逐為遯走頫从逃<lb/>
+省臼為合爪止為取象于艸勞為熒火燒門舟竟兩岸<lb/>
+為亙變形登天為真至孫徐之妄析造音尤不知所據<lb/>
+矣古自傳疑抄或錯簡必為曲説何益說文本多㡉令<lb/>
+<pb n="KR3j0066_WYG_000-31a"/>
+所加雲勝所注<hi>宋僧</hi>楚金所繫今皆遺失固當因他書捜<lb/>
+集之備參攷也守<graphic n="KR0714" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0714.png" mimeType="image/png"/>何為<lb/>
+說文引逸周書有竘匠士分民之祘周書維緢有稽緢<lb/>
+旄絲也戔戔巧言自是遺文可無論矣引易噬乾□<hi>揚雄</hi>
+<hi>說从胏</hi>乗馬驙如引傳癹夷藴崇之以備陳三愙孟子滰<lb/>
+淅詩既禡既禂周書王三宿三祭三㓃<hi>當故切</hi>此或古文<lb/>
+他如因亢龍作忼因再三瀆作黷其牛掣作觢豐其屋<lb/>
+作□的顙作馰五品不遜作愻藻火粉米作璪黺䋛剛<lb/>
+<pb n="KR3j0066_WYG_000-31b"/>
+塞作㥶缾罄作<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>諼草作藼啓予之足作跢立卓作<graphic n="KR1390" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1390.png" mimeType="image/png"/>
+□敵王所愾作鎎費誓作䉾<hi>凡夫引用宏兹䉾</hi>諒闇作□瘖叢<lb/>
+脞作䐝<hi>鉉作□</hi>㑹弁作䯤弁我興受其敗作䢙襍而不越<lb/>
+作<graphic n="KR2781" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2781.png" mimeType="image/png"/>既微且衝作□曾㸃作□言偃作㫃有能俾乂作<lb/>
+䢃我之弗辟作<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>菲飲食作餥秣馬作䬴常伯作<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>弼<lb/>
+成五服作邶䙝裘長作絬衣長<hi>又載䙝<graphic n="KR0591" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0591.png" mimeType="image/png"/>媟</hi>毁宗躐行作<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+惟家之索作<graphic n="KR2526" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2526.png" mimeType="image/png"/>壹戎衣作□彛倫攸斁作□服牛乗馬<lb/>
+作□瑟彼玉瓚作璱振振鷺作䟴衣裳□□信誓<graphic n="KR1556" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1556.png" mimeType="image/png"/>
+                    <graphic n="KR1556" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1556.png" mimeType="image/png"/>
+<pb n="KR3j0066_WYG_000-32a"/>
+冕旒作瑬含玉作琀率循作䢦將率作<graphic n="KR3121" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3121.png" mimeType="image/png"/>枯骨作骷厖<lb/>
+涼作<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>潰爛作<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>大夫死曰卒作□黧黑作□神主作<lb/>
+□朞作稘石作祏然作嘫之類不可勝數皆因有一義<lb/>
+即專一字以别之又如引□畎澮距川川訓引作濬袾<lb/>
+字引静女其袾祋字又引其祋<hi>又有<graphic n="KR2673" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2673.png" mimeType="image/png"/>字好也</hi>秩秩或引詩□<lb/>
+□豑豑秩秩天或引作袄又引作䄏几几引作掔又引<lb/>
+作己□<hi>而隴切</hi>羽獵韋絝或作□引鳥獸□毛<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>字亦引<lb/>
+<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>毛汜引詩江有汜洍又引江有洍蘄䓄□三字通言<lb/>
+<pb n="KR3j0066_WYG_000-32b"/>
+江夏亭名訓愉為薄而引私覿之愉愉訓坫為屏必誤<lb/>
+重上文之樹塞<hi>朱子曽以此問程大昌</hi>夕惕若夤乃合艮之列夤<lb/>
+詔志峯免諸叙注有之而無其文可謂之不漏乎攷叔<lb/>
+重時石經已定何獨異如此大氐漢以後名多事起稱<lb/>
+謂易淆故稍别之或轉其音晉唐所加附録牴牾愚者<lb/>
+曰爰歴凡將訓纂皆没漢籍惟此巋然因以攷古自是<lb/>
+苑囿歴代辨論今可集成金石漢碑之通何必强合説<lb/>
+文重複之文又何必强分乎學者但當依石經史漢旁<lb/>
+<pb n="KR3j0066_WYG_000-33a"/>
+證諸家以通古人比時義耳同文盛事有正韻在<lb/>
+趙宧光長箋也必作殹注必作丶好作□像作襐畢作<lb/>
+□重作緟方作匚入作臸姑論其一二□籒為□本匜<lb/>
+器<hi>音迻</hi>因用助詞加匜别之<hi>凡夫惡其訓醜耶豫章之廣州海何以避之</hi>匚本<lb/>
+是筐古方作口太簡故借方<hi>舊説方舟作□智按方本旁字象㫄視人形古方㫄</hi>
+<hi>聲近耳士喪禮握手緇纁裹牢中㫄寸注㫄為方荀子方皇周浹方音㫄</hi>今不借數千年所<lb/>
+常用之也與方而乃新借殹與匚乎<lb/>
+說文漏略李巽岩歎之如直翁伯厚考異所引多非今<lb/>
+<pb n="KR3j0066_WYG_000-33b"/>
+本合溪動引唐本蜀本徐本吳正儀之說文亦不同正<lb/>
+當輯之而凡夫于六書故所引尚書之亮皆不信别書<lb/>
+所引則似未過目也大約止翻字書未淹經史如旅於<lb/>
+泰山不知旅與臚通故為祭名不知夏屋為房爼不知<lb/>
+䳀餔鼓之出爾雅不知襐餙之出急就章外戚傳日月<lb/>
+為易乃漢儒說虞翻主之吾衍不從凡夫但云周伯琦<lb/>
+改日月為易豈知伯琦抄合溪之說乎极字以懐素改<lb/>
+為負笈而不知負笈先見于李郃疻痏見内經薛宣傳<lb/>
+<pb n="KR3j0066_WYG_000-34a"/>
+而乃以翻胃釋痏旪用見五行志而笑宋人之舌則未<lb/>
+讀漢書也米襄陽天馬賦籋雲出天馬歌而乃訝籋字<lb/>
+則未閱樂苑與漢志也琅玕似珠而欲改株則未閱素<lb/>
+問也既泥五十作卒亦不知乃劉元城之說則未見易<lb/>
+解也莤酒是鄭司農說而不引以證則未見周禮注疏<lb/>
+也改子雲令升之姓强責昌黎名愈之非寧知悆愈古<lb/>
+義姓苑昭然哉又可訝者史傳百家從不援引而數引<lb/>
+渚宫舊事<hi>後周余知古著</hi>何其獨愛此書也如引渚宫茹黄之<lb/>
+<pb n="KR3j0066_WYG_000-34b"/>
+狗則吕覽甚詳何不引吕覽耶惟論門法可取而改音<lb/>
+又失䫻颶颶之訛主臣皇恐之草猶可存證專精□扁<lb/>
+之法是其所長<lb/>
+韻㑹小補字彚盛行舛誤不少姑舉一二魏了翁曰左<lb/>
+傳齊有豸魯無鳩為好對襄十六年宣子曰匄在此敢<lb/>
+使魯無鳩乎宣十七年范武子曰使郤子逞其志庶有<lb/>
+豸乎韻㑹小補曰鳩有紙音春秋傳庶有鳩乎徐邈讀<lb/>
+按此則大誤矣酈食其傳握齱増韻誤見握<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>之本而<lb/>
+<pb n="KR3j0066_WYG_000-35a"/>
+直翁升菴引之吳越春秋甘密九欓直翁誤作丸欓以<lb/>
+證越椒子謙誕生皆對本抄載他如漢書于越不攷狥<lb/>
+高誘之于越<hi>王㑹於越納伯厚云定哀三書于越注于發語詞荀子亦是于越高誘注吕覽訛耳</hi>
+列子墨尿不攷竟收墨屎之訛<hi>顧遯園因作嚜尿共作一笑</hi>漆城光<lb/>
+光踵升菴<hi>攷諸本俱是漆城蕩蕩</hi>天命不謟仍書林<hi>昭廿六王子朝曰天命不</hi>
+<hi>謟廿七子家曰天命不慆音叨謟䧟从舀</hi>噫<hi>歐陽歸田録有論打字本謫耿切當是滴耿切今見字彚竟云</hi>
+<hi>打音滴更舛矣何異□音紂紅反而今音紂乎智按打从丁二王草等作才乃借打字也今都瓦切耶與邪同</hi>
+<hi>耶乃後作字彚耶反音斜非矣目部<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>引莊子以<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>合驩耳部又有聏亦引莊子此句其寔莊子以胹合驩音</hi>
+<pb n="KR3j0066_WYG_000-35b"/>
+<hi>兒與宰夫胹熊蹯同熟和也何况明星晰晰之借為□麾城□邑之訛為□䇾言蹏唬載其出于何本褎□爪</hi>
+<hi>仉詳其詳于何因乎</hi>
+　　古籒用篆不必改楷說<lb/>
+魏華甫熊與可以篆寓𨽻體王師魯賞蘭臺碑為書法<lb/>
+取態也命□臩□<hi>禹益□虺</hi>之類王起□□<hi>泰/丙</hi>劉杳<graphic n="KR2517" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2517.png" mimeType="image/png"/>酒<hi>
+                        <graphic n="KR2517" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2517.png" mimeType="image/png"/>音</hi>
+<hi>震楊音郗</hi>識之則已藏弆亦可藏㧁<hi>攷陳遵傳作藏去字書加弆鄭氏作㧁</hi>
+                    <graphic n="KR1636" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1636.png" mimeType="image/png"/>
+粕不若糟魄<hi>見莊子</hi>䀌傷内奰可矣䀌哭喜奰可乎如康<lb/>
+作□<hi>石鼓譯</hi>即作□<hi>弟子職執即注作□</hi>□作<graphic n="KR2962" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2962.png" mimeType="image/png"/>
+                    <hi>董逌用/堌<graphic n="KR2962" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2962.png" mimeType="image/png"/>
+                    </hi>□作□□<lb/>
+<pb n="KR3j0066_WYG_000-36a"/>
+作□□作□□作亢□作□□作□<hi>曶攀奏長克申</hi>字彚例收<lb/>
+欲篆則篆改楷失矣周禮之飌柝□<graphic n="KR0596" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0596.png" mimeType="image/png"/>
+                    <hi>風柝原拜</hi>史漢之□<lb/>
+㵒<graphic n="KR1007" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1007.png" mimeType="image/png"/>䬠<hi>遷沸朝霏</hi>尚且不必獺祭况緯書之覞□□庡<hi>耀莽吟扆</hi>
+碑本之<graphic n="KR2185" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2185.png" mimeType="image/png"/>漯昭隔乎<hi>郙閣碑<graphic n="KR2185" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2185.png" mimeType="image/png"/>漯即潮溼泰山碑昭隔内外史記作昭融宋人必從碑本</hi>
+金石古籀摹印則雅複篆漢𨽻可用顔署文以析理敘<lb/>
+事詩以比興陶情所貴流動入人自深餖飣竒古反傷<lb/>
+體致<lb/>
+　　古篆随意増減說<lb/>
+<pb n="KR3j0066_WYG_000-36b"/>
+六書略云古今殊文者如黄帝貨貨作斤帝嚳貨貨作<lb/>
+□高陽貨貨作忻又作<graphic n="KR0146" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0146.png" mimeType="image/png"/>之類是也有一代殊文者如<lb/>
+太昊金昊作□又作□高陽金高作□又作□又作□<lb/>
+堯泉堯作□又作垚又作□之類是也有諸國殊文者<lb/>
+如晉姜鼎通作□虢姜鼎通作□宋公鼎公作□魯公<lb/>
+鼎公作□之類是也嶧泰之篆□□□□漢碑□□□<lb/>
+之皆一篇間作可知古篆或複或減時出新意矣六書<lb/>
+綂言庚拜作子孫尊彛佳寳等字多至百計豈非三代<lb/>
+<pb n="KR3j0066_WYG_000-37a"/>
+之増減倍于鍾王乎秦一于秦漢漸别之晉唐乃嚴好<lb/>
+事家倣碑𨽻者皆陸顔所指為俗書者也以古文正小<lb/>
+篆之失直至夾漈乃得大端□□□□<hi>牙目舟車</hi>由縱而横<lb/>
+□□□□<hi>犬豕龜离</hi>各還本象後來楊戴周趙魏王吳朱皆<lb/>
+因此推論今用以屬文則不可存以泝源則有合者安<lb/>
+得謂後人不如前人哉<lb/>
+　　推論<lb/>
+止戈受辛皆一時隨意之言如賦詩斷章取所求耳後<lb/>
+<pb n="KR3j0066_WYG_000-37b"/>
+之推論豈可少哉平之从水<hi>古作</hi>亙之从月<hi>古有亙左蒼嶼曰亘</hi>
+<hi>从日主舟非</hi>者之為穗<hi>□古穗/象形</hi>□之象形<hi>古冕與弁皆象形</hi>□□从<lb/>
+車<hi>或謂从□土</hi>□之為□<hi>象/形</hi>㠱之為跽<hi>亦作/□</hi>□之象髪<hi>古□从人</hi>
+<hi>上聲</hi>□之為呵<hi>象呵/气</hi>□之為腎<hi>古□即腎與□皆象形□今□</hi>少温之論<lb/>
+首虫<hi>□<graphic n="KR1315" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1315.png" mimeType="image/png"/>頁一字/蟲<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>䖝一字</hi>漁仲之論□戊<hi>从亾戊</hi>季昭之論古乿<lb/>
+<hi>手治絲也乿為古治</hi>辛泉之載□□<hi>□即漢<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>即著表著也</hi>合溪之論㿝<graphic n="KR1570" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1570.png" mimeType="image/png"/>
+<hi>
+                        <graphic n="KR1570" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1570.png" mimeType="image/png"/>象簫形㿝音香因鍾鼎食㫄知之</hi>伯温之言□亞<hi>□本為岸之交㑹處借為辰宿古文作□</hi>
+<hi>子才以為七政亞惡一字</hi>子才之論<graphic n="KR0146" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0146.png" mimeType="image/png"/>亥□完<hi>丙从<graphic n="KR0146" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0146.png" mimeType="image/png"/>亥為荄作□象形完本寛字相易</hi>
+<pb n="KR3j0066_WYG_000-38a"/>
+泝原以<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>為儺<hi>喧除里中之意□嚲从之</hi>總要反身為臣<hi>□即身字</hi>鬱儀<lb/>
+之言□□<hi>□即病字<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>从□□即秬鬯之□</hi>皆有補于前人不能盡引<lb/>
+姑舉大端若疑之省文為□□之如射相儗画即為畵<lb/>
+寸即通又由義因田温从亚日<hi>今从□</hi>斷䒶繇<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>㕦之訛<lb/>
+决剬利迣迾之别因用之从才而知周為古琱□為官<lb/>
+守而知官从宦省<hi>戴作□魏朱从之吾衍駁之</hi>家因伏几之形而轉<lb/>
+从豕牙犬<hi>伯温與牢並論</hi>毌丘音貫而知毌為古冠屋履从□<lb/>
+而義非从尸卧古作□而<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>非从卧春□華卉其原相<lb/>
+<pb n="KR3j0066_WYG_000-38b"/>
+因□<hi>日</hi>□<hi>星/</hi>□<hi>圓/</hi>□<hi>圍稍方刓</hi>其形初變因毌焸音□而足<lb/>
+知<graphic n="KR2843" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2843.png" mimeType="image/png"/>為臦訛因觜觿巂□而雋巂之象鳥尾推至●<hi>音主</hi>
+<hi>又音丸丸即圓</hi>丶<hi>音/㸃</hi>丨<hi>音丁丁㸃聲形相轉</hi>一之始正可相商<lb/>
+　　方言說<lb/>
+劉歆取方言書曰詔問遒人軒使歲八月循路采童謡<lb/>
+歌戱欲頗得其最目因從事郝隆求之但有其目聞子<lb/>
+雲採取先代絶言異國殊詞非子澹雅沈鬱不能成此<lb/>
+欲騐考坐知雄曰先代輶軒奏籍皆藏周秦之室嚴君<lb/>
+<pb n="KR3j0066_WYG_000-39a"/>
+平林閭深好訓詁猶見輶使所奏言君平財有千言耳<lb/>
+是固國職而好學者増訪也北史劉延明亦著方言蘇<lb/>
+林曰如今秘書學外國書也漢北海劉熙作釋名吳韋<lb/>
+昭作辨釋名北史李鉉正經注中謬字曰字辨永徽中<lb/>
+符璽郎顔揚庭上父師古刋謬正俗唐祭酒李涪亦有<lb/>
+刋誤服䖍通俗文阮孝緒云李䖍葢俗說也愚者曰古<lb/>
+今方言亦變矣左傳鬬榖於莵虎也高誘注淮南楚人<lb/>
+謂恨不得為柸治謂牢曰霤招魂餘聲為些去聲陳渉<lb/>
+<pb n="KR3j0066_WYG_000-39b"/>
+傳夥頥貨殖傳果陏注今語為果揺服䖍曰楚人謂橋<lb/>
+曰圯音頥蘇林曰南方人謂抱小兒為面雍樹如淳曰<lb/>
+齊人以不知為丘章懐謂漢以蜀為叟水經注謂冢為<lb/>
+琴之類今皆無此鄉語方言所載十半與今不合即郭<lb/>
+璞所云㤿憸䦧榖們渾肥䑋<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>憡遽矜黠姞了戾胎<graphic n="KR3000" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3000.png" mimeType="image/png"/>
+律踞等語亦在彷彿間世說朴近如所云寧馨爾馨何<lb/>
+乃訇虺瓦弔俱無此聲於江南則聲與讀兩相轉耳其<lb/>
+可推者些去為平乃訇為那行是也<lb/>
+<pb n="KR3j0066_WYG_000-40a"/>
+愚歴考古今音義可知鄉談隨世變而改矣不攷世變<lb/>
+之言豈能通古今之詁而是正名物乎互詳諺原<lb/>
+漢以來傳注每用方言黨所也踊豫也㤜狂也昉適也<lb/>
+于諸置也如即不如讀伐長言之殷如衣帨為紛觓為<lb/>
+鼓祭為墮渜作湪疾為戚衡如椵絼為雉地堅為<graphic n="KR0982" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0982.png" mimeType="image/png"/>湯<lb/>
+熱為觀浩酒曰滌穿地曰竁蛤灰為义灰土釜為牟器<lb/>
+禿□楬櫫繩緘杯杆掉磬挾提脾肶烏翅轉轔伏兎胡<lb/>
+孑侏大等皆以此訓解後世卷帙浩汗何暇于察邇言<lb/>
+<pb n="KR3j0066_WYG_000-40b"/>
+間見才老讀務為䝉新都讀日如熱京山轉母為模豈<lb/>
+無稽者乎欲通古義先通古音聲音之道與天地轉歲<lb/>
+差自東而西地氣自南而北方言之變猶之草木移接<lb/>
+之變也歴代訓詁䜟緯歌謡小說即具各時之聲稱惟<lb/>
+畱心者察焉<lb/>
+　　四聲通轉說<lb/>
+桓帝時謡曰嚼復嚼今年尚可後年鐃鐃叶鐸提之為<lb/>
+擲毬之為鞠嘯或讀歗亞烏轉惡西方字母阿或兼遏<lb/>
+<pb n="KR3j0066_WYG_000-41a"/>
+固已明矣攷許慎召陵人鄭氏高密人服䖍滎陽人何<lb/>
+休任城樊人蔡邕圉人應劭南頓人高誘河東人徐邈<lb/>
+徐廣東莞姑幕人沂青相近亦北人也音皆有入聲如<lb/>
+莽啗鰒魚登萊呼近報字而注音蒲角切可謂正矣吾<lb/>
+故曰古不似今中原之入聲皆寄入三聲也四聲通轉<lb/>
+惟所用耳<lb/>
+荀子石中人觙音觸以笛軸鈒矟聲可証也伯厚云巵<lb/>
+觝觶相通日磾讀密低低从氏而月氏音支故知古呼<lb/>
+<pb n="KR3j0066_WYG_000-41b"/>
+觶磾鼎簟時轉也禮記薦豆執校執豆之跗也沈瓚戲<lb/>
+犯王亮父猷之諱曰犬傍無骹尊骹即脚也可知校脚<lb/>
+一聲<lb/>
+　　漢晉變古音沈韻填漢晉音說<lb/>
+漢書當蔡謨集解之時有二十四家而孟康音義或云<lb/>
+服䖍史記自後漢延篤乃為音義又有音隠直至徐廣<lb/>
+音注裴駰解釋始略詳定自服鄭應許之時已變古音<lb/>
+廣等沿之及沈韻出特取漢晉之音填入耳挺齋盡恨<lb/>
+<pb n="KR3j0066_WYG_000-42a"/>
+休文用四明土音能無誣乎然嚴切始于孫炎講求見<lb/>
+于東晉釋文所載史漢注所取皆本于此時之書是其<lb/>
+音響江左為多杭州呼負為阜三吳呼家麻皆與沈合<lb/>
+是也所以能知前代之音者如允吾音鉛牙中國竟譯<lb/>
+以鉛牙而乃作允吾乎譯南模為南無亦其類也康成<lb/>
+鉏牙即齟齬景純迮牙即錯互孟堅規橅即規模則漢<lb/>
+晉時猶有牙如吾無如毋之聲羅敷行言可共載不不<lb/>
+與敷叶則不歸尤韻可知矣洚水者洪水也周末已具<lb/>
+<pb n="KR3j0066_WYG_000-42b"/>
+二音而孟子合之紫玉歌雙協鳯光則已江陽合韻矣<lb/>
+不字平聲起杯讀佳畫為加化果待温公戴氏哉浮本<lb/>
+从孚雋本从佳狻竣本从夋其音涪剪酸旋者皆方言<lb/>
+之轉一儒偶注而後人典據也智嘗曰廣韻遵沈而古<lb/>
+音盡泯亦有功焉舉世不知其故不能正論亦不敢妄<lb/>
+改正叶時宜端在今日嗟乎以千年中原儒者不能著<lb/>
+中原之音而待徳清耶徳清無入聲今賴正韻其萬世<lb/>
+所當永奉者乎辛巳夏日筆<lb/>
+<pb n="KR3j0066_WYG_000-43a"/>
+　　音韻通别不紊說<lb/>
+旋韵以中和均平之聲音為四正支灣放閉為四隅倫<lb/>
+論森然其通轉之㡬于發送收餘可知矣<hi>旋韵因康節一行指出别</hi>
+<hi>詳圖説</hi>都俞發聲也㗋中滿呼合脣為吾<hi>吾從五口□從東呼㗋音圏脣</hi>
+<hi>為阿張口大放為哇阿哇即吾也□思翁切總毋也</hi>吾侷脣為余<hi>書曰其如台音怡余之轉也台</hi>
+<hi>轉治音持淮南子桮治可証余又轉邪漢書歸邪于終即歸餘斜舍皆从余余又轉噫噫送气為兮見後</hi>撮<lb/>
+脣為都抵齒為諸瀉齒為遮<hi>相如賦于遮曲名即于諸也此聲見公羊上林賦諸</hi>
+<hi>柘蔗也張協都蔗賦即諸蔗</hi>此模麻韻之通也<hi>瓠子歌吾山即魚山朱鷺注魚魚雅雅吾</hi>
+<pb n="KR3j0066_WYG_000-43b"/>
+<hi>吾讀衙衙御輅迓一聲烏鴉一聲周亞夫印作惡惡谷矦作亞董逌知銅互□即亞倉谷永傳□互一作牙郭</hi>
+<hi>璞牙見即互見荼陵即茶陵藏經四十二字茶作佗作擇曼荼羅即茶羅</hi>于轉噫吾轉唯此<lb/>
+魚支之通也<hi>漢書彡姐音姊日斜即暆匜也相轉李夫人傳注定知以否即與否也衝波傳孔子</hi>
+<hi>雉噫之歌甘泉賦辛雉即辛夷劉勰噅噅雉雉紫芝于蒍皆此聲也涇人呼餘作圍於戯戱下可證</hi>胡與<lb/>
+㗋轉矦與維轉此尤支模之通也<hi>詩矦栗矦梅猶言維也史樂書過沛三矦</hi>
+<hi>之章即三兮也凡維兮皆㗋音漢書捽胡謡歌鼔嚨胡即㗋淮南讐夷與䲭夷相轉</hi>于轉爰云圓<lb/>
+轉環丸此先魚寒山之通也<hi>聊樂我員爰居爰處于時廬旅皆助詞串夷即昆夷</hi>
+<hi>垣有二讀嶺南呼丸為圓</hi>些之助詞猶斯也□从麻䃺从靡此支歌<lb/>
+<pb n="KR3j0066_WYG_000-44a"/>
+麻之通也<hi>楚些音梭去聲張氏曰恩斯勤斯與些同有兔斯首箋云斯白也俗語鮮白孔子臨河歌</hi>
+<hi>斯與波叶左雄傳職斯禄薄謂些小也佌佌石經作<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>/<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>即些些班彪用□賈山自下劘上䃺古磨字洪适曰</hi>
+<hi>儀義古音俄何奚音通捫摸音通</hi>噫亦轉僾此皆支之通也<hi>僾見禮記漢書郎位</hi>
+<hi>星哀烏即依烏揚子王翦牙欸即偯呀聲</hi>他如東陽庚通真先寒山通蕭尤<lb/>
+侵覃通通以脣舌分倫而填韻自各别也<lb/>
+雙聲如彷彿<hi>遠遊篇髣髴典引仿佛練時日章相放<graphic n="KR1820" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1820.png" mimeType="image/png"/>震澹心師古作方弗陸雲用㑂佛郝并通</hi>
+<hi>方物怳惚荒忽</hi>□徨<hi>禮書房皇周浹一作傍偟荀子作/方皇集韻有□惶并通張皇倉黄</hi>徜徉<hi>郊祀</hi>
+<hi>歌常羊楚辭相羊上林儴佯李善本襄羊栁作倡佯亦通仿徉</hi>匍匐<hi>檀弓引詩扶服霍去病扶伏范睢傳</hi>
+<pb n="KR3j0066_WYG_000-44b"/>
+<hi>蒲服韓信蒲伏胯下秦和鍾銘匍百四方</hi>紛紜<hi>赤雀詩六紛員郊祀志紛云六幕唐扶頌用汾沄說文作</hi>
+<hi>□□</hi>趑趄<hi>易作次□或作/<graphic n="KR3027" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3027.png" mimeType="image/png"/>跙亦通恣睢</hi>栖遲<hi>嚴發碑作西遲/蘇氏作□□</hi>肸響<hi>子虛賦肸</hi>
+<hi>響布寫漢作肸蠁笛賦翕響</hi>蕭森<hi>上林蕭蔘六臣作箾蔘張/衡用櫹槮考工注揱參</hi>踟蹰<hi>劉宋</hi>
+<hi>書樂志引五馬立峙躇説文峙䠧楊作跢跦富嘉謨用遲佇通作躑躅彳亍</hi>龍種<hi>荀子隴種而退埤倉</hi>
+<hi>作躘踵韓詩白首夸龍鍾李穆鞭宇文泰曰籠東軍士方言瀧涿説文瀧涷</hi>臲卼<hi>韓非跀危藏子皋李</hi>
+<hi>白作<graphic n="KR1160" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1160.png" mimeType="image/png"/>屼杜甫用臬兀太絃□首圜/分杌棿或作揑扤說文引易曰𣙗<graphic n="KR1896" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1896.png" mimeType="image/png"/>
+                    </hi>
+謰語如昆侖<hi>言渾淪也山作崑崙人貌渾侖亦稱崑侖并通混沌坤屯困敦</hi>昆吾<hi>圜器也為</hi>
+<hi>國名出劍作錕鋙以□作琨珸焦收騉䮏</hi>侏儒<hi>短兒因以袾襦短衣/株檽短木又<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>獳獸</hi>滄浪<hi>水名</hi>
+<pb n="KR3j0066_WYG_000-45a"/>
+<hi>有蒼筤竹倉琅門鐶東門行倉浪天</hi>嵻㟍<hi>山空兒因分䆲䆡室空<graphic n="KR2981" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2981.png" mimeType="image/png"/>硠石聲躿躴身長䗧蜋蜓</hi>泭漚<lb/>
+<hi>浮渤也大釘曰鉜鏂似泡又籢飾也<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>饇飽食也</hi>屬婁<hi>為骨為劍因/以金骨㫄分</hi>肅爽<hi>馬名鳥名</hi>
+<hi>加□或作鷫鸘裘</hi>
+                    <graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <graphic n="KR2941" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2941.png" mimeType="image/png"/>
+                    <hi>足<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>立也說文䇬捀雙/也因為艂艭舩䜶䝄豆</hi>忽雷<hi>胡琴有大小忽雷馬</hi>
+<hi>有忽雷駁□亦名忽雷</hi>鎕銻<hi>火齊也恠石磄磃䖝名螗<graphic n="KR2171" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2171.png" mimeType="image/png"/>/弱矦刋誤又載棠棣音唐銻</hi>戚施<hi>詩注</hi>
+<hi>讀為䠞駞集韻作規䙾韓道昭作<graphic n="KR3296" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3296.png" mimeType="image/png"/>
+                        <graphic n="KR3476" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3476.png" mimeType="image/png"/>說文引詩得此/<graphic n="KR1434" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1434.png" mimeType="image/png"/>
+                        <graphic n="KR2100" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2100.png" mimeType="image/png"/>即戚施故薛君章句以戚施為蟾蜍升菴遂以鼁</hi>
+<hi>
+                        <graphic n="KR1434" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1434.png" mimeType="image/png"/>為戚施蘇𢎞家作□蠒音去秋誤</hi>大約謰語亦雙聲也崔嵬澎湃以聲<lb/>
+形容岣嶁巃嵸各隨所讀<hi>此舉以論聲轉俱詳通雅</hi>
+姓氏三十二類槩矣賁音肥不音彪玉音肅遺音惟吞<lb/>
+<pb n="KR3j0066_WYG_000-45b"/>
+音天能佴音耐柏伯袁爰之同疏棘桂痛之變京嵇自<lb/>
+取賀師避諱統譜詳哉然兒倪本為一姓鄩尋又合斟<lb/>
+尋顔籒不知求即裘伯厚且分角甪員半千慕子胥何<lb/>
+必音運<hi>五員杜注音云</hi>毋丘即貫而毋丘音無何也至如䨲軤<lb/>
+褟<graphic n="KR3619" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3619.png" mimeType="image/png"/>
+                    <hi>萬呼喧暴</hi>□<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>䎰侴<hi>盤亥昨丑</hi>之類直自造耳觀□□之因<lb/>
+厥<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>毑之因姐竒姓傳訛何限不如聴之<hi>漢賜衡山妾厥氏丁度韻</hi>
+<hi>古作□今有□氏按古尚書厥作<graphic n="KR2140" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2140.png" mimeType="image/png"/>則括厥音近而訛□耳漢彡姐羌後合為□音陕博雅有毑即姐字今字</hi>
+<hi>彚作□又訛矣</hi>
+<pb n="KR3j0066_WYG_000-46a"/>
+地名多異且舉得證者例之曲逆<hi>音去遇大顔譏之因曹參傳破楊熊曲遇</hi>
+<hi>而注户牖矦傳也按水經注博水濡水出蒲隂回湍曲復謂之曲逆水故縣名曲逆今焦張猶泥去遇耶</hi>鮦<lb/>
+陽<hi>孟康音紂紅反隂就傳訛字彚音紂止是踵誤</hi>葰人<hi>樊噲傳霍人注作葰人音雖孫愐音鎻智按雪</hi>
+<hi>賦靃靃霏霏石崇傳論春畦靃靡葢佳音追唯誰雖从之故靃霍本音荽而音隺者攉因㩁鸖因鶴形近也荽</hi>
+<hi>上聲為鎖</hi>狋氏<hi>音權精在代按犿音獾訛/狋轉權讀支如虀而轉精</hi>
+                    <graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>說文音孚智按包麃近而包孚</hi>
+<hi>通</hi>邪龍<hi>邪音牽此/汧邢之訛</hi>畨吾<hi>真定蒲吾也畨君音/婆番禺音潘此音蒲</hi>同並<hi>音伴智見</hi>
+<hi>吳元滿徽人讀半如笨而解</hi>盢町<hi>音倐盤江所出或/云盤訛恐是盢訛</hi>朐䏰<hi>洪陽音瞿閏字彚作</hi>
+<hi>
+                        <graphic n="KR1219" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1219.png" mimeType="image/png"/>音閏皆誤矣按合溪/<graphic n="KR1219" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1219.png" mimeType="image/png"/>䏰音瞬忍巴多此蟲</hi>淳于<hi>以敦圩名晉語戰以錞于丁寧樂器如碓始興王鑑</hi>
+<pb n="KR3j0066_WYG_000-46b"/>
+<hi>得之後周斛斯徵識之既音敦則姓同音</hi>物名異者茶首<hi>音蔡茂按博物志蔡余義本草蔡苴</hi>
+<hi>機叚柯古耶希皆兩頭鹿聲形互訛</hi>屏蓬<hi>即山海經之并封用修收□字江隣㡬以徐積見物如小兒手</hi>
+<hi>即白澤圖之□也山經敦隅視肉郭云封封篆□而訛耶此類蓬蓬然故有此音</hi>押不盧<hi>周宻載殺</hi>
+<hi>人復活之藥勝略曰黙徳那有押不廬即本草活鹿草</hi>酋耳<hi>即尊耳騶虞方朔作騶牙牙吾虞通</hi>服<lb/>
+匿<hi>單于與武者音避匿陸澄荅竟陵王程泰之又言高麗服席阮堅之曰扁瓶可佩者說文服牛作犕知其</hi>
+<hi>音通</hi>方良<hi>張衡賦腦方良即罔兩世家䕫罔閬/魯語作蝄蜽郝以罔象方相皆通</hi>榻布<hi>史記注白</hi>
+<hi>疊也或作荅馬援衣都布曹溪志屈眴即吉貝或作古貝按刼貝與吉近</hi>得董<hi>郭朝請曰唐歌得董紇那</hi>
+<hi>邪紇那得董邪得音丁紇反計有功紀事作紇囊得體邪體音都董反韋堅令陜尉唱得寳歌太真外傳曰得</hi>
+<pb n="KR3j0066_WYG_000-47a"/>
+<hi>□恐是鞛訛琫之别也紇那得董之音即今骨董說文匫古器也當作匫董小說有骨篤犀骨董羮皆此聲</hi>
+<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>鹿<hi>樂苑有獨漉篇荀成相辭曰獨鹿棄之江注網也元美作□鹿訛葢<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>从中土之□得聲訛為主□</hi>
+<hi>則音卦鄭箋曰樔今撩罟殆獨漉類</hi>篤䅶<hi>音禄張子賢曰宣和異香有篤䅶亞悉泊宅編市舶張苑進篤</hi>
+<hi>禄香得學士號篤禄學士按是都盧之轉</hi>都盧<hi>漢有都盧唐名戴竿或曰縁株釋名曰都盧負屋侏儒柱</hi>
+<hi>也按都从者有株音胥臣對晉文曰侏儒扶盧韋昭謂扶縁盧祕智按小顔曰都盧國人善髙跟挂腹旋</hi>鹿<lb/>
+盧<hi>禮注以紼繞碑間之鹿盧子雲賦轠轤一作樚轤<graphic n="KR2688" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2688.png" mimeType="image/png"/>轤音雷盧即兠零也光武紀注烽燧有兠零古玉圖</hi>
+<hi>攷有鹿盧謂連轉者</hi>搔勞<hi>隋帝嚫戒師銅搔勞一口南橊夾膝桃按搔勞簍籮也明皇作銀漉籬與禄山</hi>
+<hi>其類也漢書窶籔音摟捜凡呼郎當摟<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>之物皆然不必定執經戴</hi>夾膝桃<hi>桃與挑同陸魯望以竹夾</hi>
+<pb n="KR3j0066_WYG_000-47b"/>
+<hi>膝贈皮襲美即急就章所謂家也伏几也南橊即鬬斑柟癭子本也張子布有柟橊枕賦</hi>不落<hi>不音桮說</hi>
+<hi>文□滿爰也㔶桮也䇨笿也篝笿也□盨負戴器也□㔶同方言桮落謂之豆筥筥周官笲簝類則説文以藍</hi>
+<hi>籠為桮落古<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>即部皆不之音滿爰竹盛器如土器名撲滿也香山詩銀花不落從君勸開運馮相水晶不落</hi>
+<hi>退之用鑿落則竟指酒器</hi>柹心<hi>遯園載柹心筆格即棗心朱子䟦蔡藻筆棗心様山谷言郎竒棗心散卓</hi>
+<hi>古柹即柿柿棗聲轉羊杮一名㮕棗可証</hi>枕杫<hi>方言爼几蜀漢曰扯郭璞音賜按藥菘枕杫枕木器也几</hi>
+<hi>如盌案舉案可証集韻作<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>以<graphic n="KR3435" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3435.png" mimeType="image/png"/>訛</hi>偏諸<hi>賈䇿緁以偏諸縁顔引腰襻又云絛按光武紀諸于繡镼元后</hi>
+<hi>傳注袿衣繡镼半臂宋曰半除鄺音偏遮</hi>師比<hi>見國䇿即犀毗史記作胥紕淮南注私紕鞓帶也遼束䩞</hi>
+<hi>鞢阮諶解鉤䚢謂螳蜋拘</hi>毋追<hi>音堥堆大傳冒而句領荀作務務帽冕牟聲通禰衡岑牟可証布母繜鷦</hi>
+<pb n="KR3j0066_WYG_000-48a"/>
+<hi>袴也</hi>和門<hi>周禮旃建和門尹賞傳桓門/東棺前曰和葢横桓和通聲</hi>謻門<hi>音池遂作謻文選謻門曲</hi>
+<hi>榭劉曜傳謻門旦空陸雲云曹公謻堂子謙引作謻塘按爾雅簃通作卶吕覽夕室音迤室皆以聲</hi>辟祴<lb/>
+<hi>鄭注考工中督邊迤堂涂注令甓械即瓴甓階笙師祴夏音陔伯厚以南陔作祴梁有階歩歌可証祴陔階通</hi>
+央瀆<hi>荀子央瀆御覽引莊羊溝即傳之匽豬今陽溝也詳通雅</hi>由此論之隆準音䪼<lb/>
+文頴即以服應為非矣魚須音斑庾氏已知陸氏之非<lb/>
+矣存中譏樂天以殍音孚田汝成笑顔籀讀廷為定問<lb/>
+竒集譏人讀嘏為古沈寧菴譏徳清收浮于模夫豈知<lb/>
+其故乎檀弓免音問馬鬛封音窆筭選率刷夀<graphic n="KR0836" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0836.png" mimeType="image/png"/>璹束<lb/>
+<pb n="KR3j0066_WYG_000-48b"/>
+夫豈知其故乎靈素之炅當與熱同沈約雌蜺亦可平<lb/>
+聲退之咏芍藥何必附文選之勺略京山知劉杳何更<lb/>
+以羲獻父子附犧娑落魄不必音拓繁纓不必作鞶杜<lb/>
+用張翰音漢中興音仲香山一番音泛舎<graphic n="KR0992" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0992.png" mimeType="image/png"/>喎而造夭<lb/>
+音歪元美譏王敬夫以物作䕶正吳編論晚挽同收而<lb/>
+異讀史㷖蜀音三省辨誤必以太守環攻與上治同例<lb/>
+總是古通後别不得不然詩律詞譜時借用耳愚者曰<lb/>
+漢末孫炎爾雅音義始為反切魏通釋書此法大行音<lb/>
+<pb n="KR3j0066_WYG_000-49a"/>
+一定故莫逃字有盡故轉借然有古可通今不必通楷<lb/>
+可借篆不可借者郭恕先分屯□虵蛇勭動嚻囂審審<lb/>
+况况則造說也鄭魏推古意吳楊攷古音是也執古廢<lb/>
+今則非若執古之訛誤者更不必矣斷之曰古通有倫<lb/>
+謬誤宜正雅音宜習正韻為經學者講求聲韻之故旁<lb/>
+參列證以補前賢之未盡使萬世奉同文之化是所望<lb/>
+也<hi>詩書執禮皆雅言也孔鄭注典法必正言其音</hi>邵子歎韻一行旋應韻鑑縱<lb/>
+横中原隂陽確矣智嘗因悉曇泰西兩㑹通之酌正韻<lb/>
+<pb n="KR3j0066_WYG_000-49b"/>
+定正叶焉别作一編以俟知者<lb/>
+　　音義始論<lb/>
+音義何始乎無聲有聲而義生焉音心曰意而用於形<lb/>
+聲其事咸宜其義乃顯嘗自思惟風輪噫氣寓竅唱于<lb/>
+冬雷艮震帝與物出風雷益雷風恒聖時思睿萬古不<lb/>
+壊此貫乎有聲無聲而冒如斯者果何義耶人生下地<lb/>
+徼觀其竅中發而收何人不同阿哇之聲即是吾余脣<lb/>
+㗋豈有造作哉五音止是宫商而商皆歸宫平上去入<lb/>
+<pb n="KR3j0066_WYG_000-50a"/>
+止是平仄而仄皆歸平試以五方而音之中起東南西<lb/>
+而斂于北東西南北中惟北為入聲一二三四五六七<lb/>
+八九十惟三為平聲仄聲直而入聲斂足驗字頭平聲<lb/>
+則有餘聲發㗋收㗋皆其用也六七八九即一二三四<lb/>
+而十即中五之四破旋為四時分十二律以此辨字頭<lb/>
+辨發送辨餘收其用寧有遺乎萬法盡於小衍請以聲<lb/>
+衍吾余者中五之聲也一之聲為噫二之聲為唲三四<lb/>
+之聲為思隂陽意言皆一之因也你汝若人皆二之端<lb/>
+<pb n="KR3j0066_WYG_000-50b"/>
+也生死時事皆三四之參也二舌聲三四齒聲一與五<lb/>
+㗋聲而脣腭㑹矣九專腭八專脣七則齒之精六則舌<lb/>
+之盡十者宫商之時也中者宫商之統也東為舌頭西<lb/>
+為齒收南為舌收北則專合脣以㑹宫者也春聚聲夏<lb/>
+放聲秋收聲冬侷聲秩叙變化妙哉叶乎不入微至之<lb/>
+門且置勿論<lb/>
+　<lb/>
+　通雅卷首一<lb/>
+<pb n="KR3j0066_WYG_000-51a"/>
+欽定四庫全書<lb/>
+　通雅巻首二　　　　　　明　方以智　撰<lb/>
+　　讀書類略提語<lb/>
+士以讀書明理為業猶農工之刀耜也志道游藝外内<lb/>
+一致張弛鼓舞全以此養之而化之文章即性道豈曼<lb/>
+語哉進徳必居其業立誠用在修詞大畜日新道寓于<lb/>
+器㑹通典禮賾不可惡效天法地道不逺人所貴振衣<lb/>
+挈領播種培根一樹全仁何礙葱蔚吾嘗曰詩書禮樂<lb/>
+<pb n="KR3j0066_WYG_000-51b"/>
+擴充之灰斗優游之桑薪也㑹心開眼乃第一義發為<lb/>
+手筆揮洒天然力能攷究取資證據仲尼不厭叮嚀罔<lb/>
+殆子思曰吾嘗深有思而莫之得也于學則寤焉見性<lb/>
+之人學問視為衣食中材出楔古今即是參苓子弟少<lb/>
+年先洗温飽面目好古礪志庶免波流敦詩書悅禮義<lb/>
+之人無忝立本即未能葉落歸根且隨夏秋氣候故專<lb/>
+就讀書一門列其博約之槩書示弟子古今大矣隨人<lb/>
+所好殊途同歸吾祖父相傳中和正論汝等勉之澹泊<lb/>
+<pb n="KR3j0066_WYG_000-52a"/>
+真實其本也閒雅瀟灑其度也枕籍今古徴舉咏歌其<lb/>
+飲食也崇禎壬午浮山愚者識于曼寓<lb/>
+桐川寜澹語禔躬警心備矣孝弟學文詩禮象勺終世<lb/>
+如斯貴知味耳周公但無驕吝之我則材蓺即無技也<lb/>
+孔子博學無所成名即空空也士首三民文傳四教知<lb/>
+心必泯于事故合内外先後而表其倫物之經以詩書<lb/>
+禮樂安萬世之井竈費其智力即隠其智力矣朱子曰<lb/>
+時時窮理之謂居敬終身攷究事物不厭廷尉公曰毋<lb/>
+<pb n="KR3j0066_WYG_000-52b"/>
+自欺而好學正謂道存于忘忘㤀于勤材智之士豈甘<lb/>
+鬱塞因此養之而熏之不則欄牛遂鄙耳畫鬼掠虚耳<lb/>
+烏能禁乎天倫師友羣居麗澤一室自娯詩書交古山<lb/>
+川適性筆墨唱酬福有大于此者哉<lb/>
+明經正業今尚大全夫曰大全者謂合諸家之異同而<lb/>
+使參詳也執一乎水濟水耳四明施公曰天下病虛攷<lb/>
+亭捄之以實天下病實新建醒之以虚王虛舟師曰用<lb/>
+實者虛用虛者實虚實本一致也當合漢宋及今參集<lb/>
+<pb n="KR3j0066_WYG_000-53a"/>
+大成焉文孝先生曰虛靈備萬本如是也理明而貫實<lb/>
+事乃享中節時宜君子虛受即是充實願力誠實自然<lb/>
+虛公豈以我見滯寔之病而掃倫物學問之實務乎豈<lb/>
+以掠虛欺人之病而諱虚明神化之本體乎躬行自賢<lb/>
+而凌物嫉人是以誠寔而為虚憍也逃空䕶短而訿惡<lb/>
+實學其為我見滯實也大矣究竟人不一事而理自㑹<lb/>
+通時位有常變而君子道其常各煉短而用長勿欺則<lb/>
+同然而好學不厭綂御萬世者此聖人之所以光大中<lb/>
+<pb n="KR3j0066_WYG_000-53b"/>
+正也<lb/>
+白安石曰朱子教人半日静坐半日讀書有錯行之用<lb/>
+焉鬼神通之精神之極也有翕闢之幾焉聖人表中正<lb/>
+以與萬世化諸子各出一竒以與天下争逹士遣放自<lb/>
+怡耳才士標新博趣耳䇿諷必中隠情之利害琦辨必<lb/>
+用惠秉之顛倒讀書知言主僕明矣讀聖作當虚心以<lb/>
+從經覽百氏當化書以從我察其兩端由中道行中備<lb/>
+四時隨其環應<hi>惠秉者惠施公孫龍也</hi>
+<pb n="KR3j0066_WYG_000-54a"/>
+廿一史為緯通鑑為經其旁史則猶之涑水攷異也邵<lb/>
+子編年温公日録加酌略焉開卷徵盗賊之起止宰相<lb/>
+諫官賢者之去留天下事皆係宰相與諫官每一事追<lb/>
+視所言按其時勢豈不犁然<lb/>
+學校選舉賦役兵屯河漕鹽錢諸事利弊時宜貴知要<lb/>
+領漁仲約通典為志洪洲續貴與通攷稗編函史可撮<lb/>
+㑹之理原易簡史事自繁經濟類編古論大觀實用編<lb/>
+學古適用編弋說千百年眼尚論快編皆可折𠂻指其<lb/>
+<pb n="KR3j0066_WYG_000-54b"/>
+偏礉拘膠之兩病以醒後人約編在處寘之謨文詞可<lb/>
+略<lb/>
+治在君相人在師教學在實講公明而已不明時勢而<lb/>
+執成式者迂腐之弊愚一以翻案見竒者偏鋒之弊蕩<lb/>
+井田封建可印泥乎牛李蜀洛賢者不免追論古事好<lb/>
+惡蝸争何况同朝能無朋黨歐陽朋黨論高忠憲暢之<lb/>
+不可不知也唐丹稜言各盡其說不以同異為誅賞貴<lb/>
+和賤同臣下同則人主孤矣唐太宗曰卿等勸朕納諫<lb/>
+<pb n="KR3j0066_WYG_000-55a"/>
+卿等亦納諫否宗一公以此暢藏恕之喻切矣鄧潛谷<lb/>
+曰古方物出謀明于事情與權不激其心也以不激于<lb/>
+言宋賢方守徑遂主犯不知諷復過求不合則仇多拂<lb/>
+物理而病人情湛六公曰姚安偏才自遂因官敗而敢<lb/>
+于隠怪詬名以為名贊曌賞瀛翻案見竒偏訿洛閩以<lb/>
+媚縱情滅禮者楚望幾亭痛矣二無公曰今謂宋儒與<lb/>
+晉清談同弊過矣伊陽守禮嚴閑而文人尚灑脫經濟<lb/>
+言權變故齟齬耳蜀洛則争子瞻之服濂溪何如耶疆<lb/>
+<pb n="KR3j0066_WYG_000-55b"/>
+埸危疑豈堪局外吹疵髙人遁跡寧以常規自白體道<lb/>
+者不刻深膠柱也大人綂天從類辨而容之張弛互用<lb/>
+時為大矣胡安定教學分科安石選材以騐古今皆一<lb/>
+法也約于大學之休休公也能好能惡明也仁智乃不<lb/>
+偏見矣政府立而宰君民矣泰二晉五鼎鉉井收匪躬<lb/>
+即渙羣盍簪即由頤矣讀書者有宰古今之權焉薛文<lb/>
+清曰國制禮律皆觀攷之正虞好古而戾時宜也舎之<lb/>
+則藏淵明曰因疾守閒得體矣豈自髙而壊世法耶<lb/>
+<pb n="KR3j0066_WYG_000-56a"/>
+虛舟師曰生死鬼神疑城也既為生死所惑而談超生<lb/>
+死者又惑之告之曰萬物皆備于我去來皆備于今一<lb/>
+神于二即器是道必反隠騖希竒詎自信乎孔子屢稱<lb/>
+鬼神而黄帝曰道無鬼神蓋體道者鬼神無如之何通<lb/>
+晝夜而知之惟心識造莊子曰以有形象無形而定矣<lb/>
+善吾生所以善吾死通一寓庸而縁不得已神明至誠<lb/>
+貴貫仁智百姓之用耳三一公曰仙定者出世之毛道<lb/>
+也莊禪者出世之圜幾也秋濤曰二氏隠士之深者遯<lb/>
+<pb n="KR3j0066_WYG_000-56b"/>
+世無悶消心果有方便知其故乎無欲從心過生死關<lb/>
+造命知命非言所及<lb/>
+河洛卦䇿徵其端㡬物理畢矣岐伯曰六合之内不離<lb/>
+于五邵明小衍其約幾乎肢官蛻蝡象緯聲光是造化<lb/>
+物理之符厯律醫占為盈虛損益通類引觸之籥世士<lb/>
+苦于世累好修則守常理有才則溺詞章豁逹則喜放<lb/>
+嬾誰肯精致開成以决質俟之疑乎平子冲□一行康<lb/>
+節間出難遇也太西質測頗精通㡬未舉在神明者之<lb/>
+<pb n="KR3j0066_WYG_000-57a"/>
+取郯子耳朔易大衍聖人以厯徴㡬律襲旋宫倫類不<lb/>
+差節度人身一天地也醫騐微宻受命如嚮占攝誠神<lb/>
+此種論辨别彚一編以俟研極可也石齋先生曰吾道<lb/>
+最忌儱統交盤不得<lb/>
+開眼者轉文字不被文字轉乘物天遊矣澄懐喪我羮<lb/>
+牆遇之設身别路隨物巻舒貫蝨弄丸之候在人自得<lb/>
+　　襍學攷究類略<lb/>
+博物君子優游太平養士講問是飛耳長目也歐陽歸<lb/>
+<pb n="KR3j0066_WYG_000-57b"/>
+田原父遺以漢字存中筆談朱子采問大昌識威斗之<lb/>
+承天周譜訪杳老昏屈于劉顯陸倕擊節贊寧知晝夜<lb/>
+牛猶之刦灰韋若虚辨豹䑕而鼨鼮未竟詎以藻兼桐<lb/>
+魚附㑹萍實羵羊一例耶䇿事聊以嗺酒書厨正可代<lb/>
+勞竒文欣賞疑義相析豈不樂乎戊辰與周農父孫克<lb/>
+咸澤社讀書暇相問難皆以經辨史疑藥性物理為條<lb/>
+不獨董逌之𤓰吕徽之之驢也且曰消閒<lb/>
+温公曰備萬物之體用莫過于字包衆字之形聲莫過<lb/>
+<pb n="KR3j0066_WYG_000-58a"/>
+于韻是理事名物之辨當管庫也正韻注取毛晃孫吾<lb/>
+與韻㑹取黄公紹黄取孟昶書林而子謙補之字彚抄<lb/>
+之大約字書㳂集未淹經史何恠其舛漏訛謬耶今遵<lb/>
+正韻牋詳攷諸家上收金石古今辨難皆决其下此小<lb/>
+學必不可少者也<lb/>
+近代魏<hi>校</hi>王<hi>應/電</hi>吳<hi>元/滿</hi>朱<hi>謀/㙔</hi>因鄭<hi>樵/</hi>楊<hi>桓/</hi>戴<hi>侗/</hi>周<hi>伯琦</hi>而造<lb/>
+附古文二徐<hi>鍇鉉</hi>張<hi>有/</hi>郭<hi>忠/恕</hi>二趙<hi>撝謙/宧光</hi>柴<hi>廣/進</hi>李<hi>士龍</hi>專守說<lb/>
+文古人寄託通用後加分别今不可不知其故臨文通<lb/>
+<pb n="KR3j0066_WYG_000-58b"/>
+九經史漢而槩依正韻已矣署書行槀取態不拘字從<lb/>
+篆始方知畫沙印泥之妙<lb/>
+沈約知四聲珙温譜七音徳清明隂陽士龍並濁複吕<lb/>
+<hi>坤</hi>張<hi>位</hi>約字母愚者徧攷經籍證出歴代之方言始知<lb/>
+其所以訛所以通耳音定填字倫論不淆豈人力哉今<lb/>
+日定序正韻為萬世宗免王伯良音路未清之議固楊<lb/>
+去奢之志乎聲度妙叶通于樂律此物理微至之門别<lb/>
+有精論<lb/>
+<pb n="KR3j0066_WYG_000-59a"/>
+虛舟師授河洛為詳約之綱宗而乃歎圖學之妙也秩<lb/>
+叙變化頓時全舉使人㑹通多即一矣天文地理器象<lb/>
+制度之類非圖豈易學哉秦不焚圖蕭何取之故律令<lb/>
+章程綿蕝指掌而定向歆略圖任宏七略于兵有圖王<lb/>
+儉七志一志專收圖譜鄭夾漈見楊佺期洛京圖方省<lb/>
+張華知漢宫千門萬户之由見杜預公子譜方覺武平<lb/>
+一知魯三桓鄭七穆之故近世章本清作圖書編韓苑<lb/>
+洛于象數禮樂有圖盧廬江刻天祥圖于石亦餼羊也<lb/>
+<pb n="KR3j0066_WYG_000-59b"/>
+馬貴與曰漢易詩禮訓詁家傳而制氏鏗鏘徐生之容<lb/>
+京費之占無能知者數既亡則義孤行而襲談虚冒久<lb/>
+之陳腐翹明者厭之逃于洸洋于是乎圖書之秩叙奥<lb/>
+衍萬物之倫變㡬表竟絶學矣<lb/>
+郡縣更變最易淆亂孟子指夫差之䢴溝以為禹跡墨<lb/>
+翟相如誤說江湖桑欽水經江入㑹稽酈道元遂謂揚<lb/>
+子有口通淛淛即漸江以古㑹稽郡大後分吳㑹也陶<lb/>
+𢎞景不知沙苑孔安國不知大别襄鄢荆郢安陸乃建<lb/>
+<pb n="KR3j0066_WYG_000-60a"/>
+郢曲陽春之樓宋之應天乃是歸徳伯厚不知沮縣之<lb/>
+沔退之南陽乃在懐慶而傳作鄧州人何責一統勝略<lb/>
+不能分歴山首陽新刋資治通鑑卷首妄以城固為廣<lb/>
+固乎當以修攘攷朱思兼圖約一統志<lb/>
+官制貴與為槩而王鄧纂之侍中漢加官六朝為宰相<lb/>
+尚書侍郎古小今大唐之舎人權重漢太守方面統兵<lb/>
+今皆逺甚矣小顔誤注金吾歐公不知有秩况後人乎<lb/>
+當編一圖<lb/>
+<pb n="KR3j0066_WYG_000-60b"/>
+自子長冤宰我分伯翳與費益姓名本末苦于紛糾不<lb/>
+識撐犁乃皇甫謐而永叔以為陸機知豹䑕者竇攸而<lb/>
+藝文類聚以為終軍裴松之以慿黠為慿黙名畫記以<lb/>
+虎頭將軍為小字長睿譏崇文總目不知徳山為宣鑒<lb/>
+捫虱譏古今人表分士㑹與范武子仁寳曰都南濠誤<lb/>
+以王倫為王旦葛常之韻語陽秋誤以三國吳人曹弗<lb/>
+興為曹霸李少温見于宣和書譜吾子行乃云陽冰為<lb/>
+潮之子亦猶眺公武以張唐英為張君房也<hi>唐英商英兄仁宗時</hi>
+<pb n="KR3j0066_WYG_000-61a"/>
+<hi>狀元見黄東發古今紀要</hi>升菴辨矣而以劉徳昇為劉表索幼安為<lb/>
+管寧王筠誤融孫奕誤慥孝標孝綽本非一家王褒陳<lb/>
+咸張敞王渾自非一人若刪統譜附僧杲録一經掲出<lb/>
+便自不淆<lb/>
+朱子緑竹不從箋而執幽蘭不可佩貞白笑伭不識□<lb/>
+而信蘇合為獅屎閒因段柯古呉虎臣而攷之病學本<lb/>
+草而辨之傳訛甚多然攷究以資後人後人因辨加詳<lb/>
+則皆前功也<hi>段曰伯喈反舌謂蟇淮南蠛蠓謂蛩詩義螻蛄謂蟊髙誘乾鵲謂蟋吳日伯原搏黍</hi>
+<pb n="KR3j0066_WYG_000-61b"/>
+<hi>謂鶯朝英不知麥秋</hi>郭璞以楩為杞顔籀以鵙為鵑張揖以螻為<lb/>
+鼫叔重元恪分巂周□研北<hi>友仁</hi>因野王以㯶為蒲葵爾<lb/>
+雅並舉六魚而毛許謬解草木狀金樓子一木數香而<lb/>
+成式因誤陶駁祝蛉實則螫殺呼活之存中取石棗核<lb/>
+醫皆棄之山谷以土卵為芋景盧以山礬為玉蕋<hi>筆叢辨瓊</hi>
+<hi>蕋礬梔為四</hi>楊鄧以鬼芋為蒟醬焦顧以鱖為鮎鮰核實難<lb/>
+哉孔子以鳥獸草木與事君父並稱儻亦方言物理有<lb/>
+足引觸者乎醫尤貴明時珍辨唐宋十半猶未也學者<lb/>
+<pb n="KR3j0066_WYG_000-62a"/>
+各有一證集以貽後<lb/>
+宓山解曰茹吐古今一切淡泊矣一多相貫深造者泯<lb/>
+薪火矣理學經濟性命樹幡愈高覯而多責逃虛空乎<lb/>
+勿欺而已時宜而已中和而已賢者識大不賢者識小<lb/>
+樂天曰人各有一僻我僻在章句東坡曰君看厭事人<lb/>
+無事乃更悲故知學問飲啖也百物不廢各以類統不<lb/>
+安其蓺不能樂業皋比尊幢願以奉人其卑卑不屑為<lb/>
+者隨手度日以省後人之力是賢于博奕耳然何不可<lb/>
+<pb n="KR3j0066_WYG_000-62b"/>
+以萬物為坐隠耶更堪浮白<lb/>
+　　藏書刪書類略<lb/>
+經部凡十<hi>易附性理象數厯律圖攷録四書附孔子集語名物攷正註餘註道統  聖學宗傳  孝</hi>
+　<hi>經附五倫全書春尚書傳詩爾三禮附禮制義樂記附樂律器攷    秋三      雅附正韻音    諸</hi>
+　<hi>經總解别解</hi>
+<hi>若徹上徹下者刪註疏于前而旁通諸家則一書而天人理事畢矣名物音義辨訛攷證歸于正韻而小學易</hi>
+<hi>簡矣</hi>
+史部凡十四<hi>正史典編年職實録儀備史經襍史務傳記    故    官    注    濟諸</hi>
+<pb n="KR3j0066_WYG_000-63a"/>
+　<hi>譜諜大地志覽襍志小録易書目各載何代何人著判其  意一  燎然此最  通統類</hi>
+<hi>刪古今史為緯以編年大略為經典故經濟分類刪通攷編之則三書足矣姓譜統志各一襍志記聴采可也</hi>
+子部凡十二<hi>歴代儒學附楊墨名法竒縱横醫兵農象緯筭測  太西筭學  器</hi>
+<hi>説卜筮附三式堪輿等子藝術小説明物理總書過一  之通者俱附經下諸  各約一條  其長短不</hi>
+<hi>帙而農書醫學筭測工器乃是寔務各存專家九流各食其力聴之而已總為物理當作格致全書</hi>
+集部總别凡七<hi>騷賦文詩附詩話詩餘詞録奏議論䇿各體    制舉  金石諸    書畫法</hi>
+<hi>詞達而已有竒古正大于六經者乎莊騷别通其變史漢叙事體雅八大家通使也駢儷者一種題跋者小品</hi>
+<hi>耳詩以比興轉風賦事亦比興也各就所長歸雅為近如此約之總選詩文二編足矣</hi>
+<pb n="KR3j0066_WYG_000-63b"/>
+餘部凡六<hi>釋</hi>　<hi>道/</hi>　<hi>神仙/</hi>　<hi>西理/</hi>　<hi>類書/</hi>　<hi>襍書</hi>
+<hi>志略分門該于四部二藏舊列子部類書舊列集部皆不下數萬卷今分五者以巻<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>相等也至理無多止為</hi>
+<hi>專門侈勝可約兩編類書給用而已止須一部博統類白鹿語曰斯文者天地古今之槖籥也載籍極</hi>
+<hi>而刪之斯易簡矣道徳經濟文章小學方伎約之為天道人事精之止是性理物理而窮至于命即器是道乃</hi>
+<hi>一大物理也踐形者神理泯于事物自獻理事貴時宜治教轉風出處一致室既自娛後來省力一覽書目而</hi>
+<hi>主統㒒矣大成貴集述妙于刪千古之智惟善讀書者享之幸勿蹉過</hi>
+　　小學大略<lb/>
+小學有訓詁之學有字書之學有音韻之學從事蒼雅<lb/>
+<pb n="KR3j0066_WYG_000-64a"/>
+說文固當旁采諸家之辯難則上自金石鐘鼎石經碑<lb/>
+帖以至印章欵識皆所當究心者謹略論其源流以便<lb/>
+省覽<hi>歐陽永叔曰八歲入小學習六甲四方書數至成童後授經學以次第後大也爾雅出於漢世正名</hi>
+<hi>物講説資之于是有訓詁之學文字既興隨世轉易趣便三蒼始志字法許慎作説文于是有偏傍之學篆𨽻</hi>
+<hi>古文為體各異學者務極其能于是有字書之學五聲異律清濁相生而孫炎始作字音于是有音韻之學永</hi>
+<hi>叔以偏傍字書為二則以字書為筆法智以筆法乃字學之緒餘故明六書之源流謂之字書之學吳敬甫分</hi>
+<hi>三家一曰體制二曰訓詁三曰音韻胡元瑞言小學一端門徑十數有博于文者義者音者蹟者考者評者古</hi>
+<hi>今博洽蔑能相兼其可易哉</hi>
+<pb n="KR3j0066_WYG_000-64b"/>
+困學紀聞曰誠齋云畫非卦也伏羲之字也乾鑿度以<lb/>
+八卦之畫為古文天地風山水火雷澤字此是推原而<lb/>
+闇合耳真誥曰三皇之世演八㑹之文為龍鳯之章雲<lb/>
+篆之跡凡書分破二道壊真從易配别分支乃為六十<lb/>
+四種之書而竺典言造書凡三人曰梵曰伽盧曰倉頡<lb/>
+梵者光音天人也以梵天之書傳于印度其書右行伽<lb/>
+盧創書于西域其書左行其季倉頡居中夏其書下行<lb/>
+王弇州笑之智曰聲明之原起于西方理自闇合左右<lb/>
+<pb n="KR3j0066_WYG_000-65a"/>
+兩行而季下行復上殆表縁因中道乎<lb/>
+自倉頡創六字周<graphic n="KR0854" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0854.png" mimeType="image/png"/>氏教六書秦有大篆小篆符書蟲<lb/>
+書摹印署書殳書𨽻書之八體漢興有尉律學課最為<lb/>
+尚書史書字或不正輙舉劾焉大篆十五篇宣王太史<lb/>
+史籀著也倉頡一篇又云七章秦李斯作爰歴六章車<lb/>
+府令趙高作博學七章太史令胡毋敬作所謂秦篆即<lb/>
+小篆也秦官獄繁多以趣約易下杜人程邈為衙獄吏<lb/>
+得罪繫雲陽獄獄中作篆始皇出以為御史使定書世<lb/>
+<pb n="KR3j0066_WYG_000-65b"/>
+人以邈徒𨽻謂之𨽻書新莽甄豐改定之時止有六書<lb/>
+一曰古文孔壁科斗文字北平侯張蒼獻春秋左氏傳<lb/>
+書體與孔壁類者也二曰竒字即古文異者隋唐志有<lb/>
+古文竒字一巻衛宏為之序三曰篆書小篆也四曰佐<lb/>
+書秦𨽻也五曰繆篆以摹印也六曰鳥蟲以幡信也漢<lb/>
+閭里書師合倉頡爰歴博學三篇㫁六十字為一章武<lb/>
+帝時司馬相如作凡將篇無複字元帝黄門令史游作<lb/>
+急就章成帝將作大匠李長作元尚篇皆倉頡中正字<lb/>
+<pb n="KR3j0066_WYG_000-66a"/>
+也<hi>急就有曹夀解顔之推崔浩豆盧氏注北史劉芳亦作急就篇續注音義證三卷陸暐擬急就篇為悟蒙</hi>
+<hi>章而顔之推孫師古解訓為善今有全本相傳是吳皇象寫亦有筆改以洞為<graphic n="KR2902" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2902.png" mimeType="image/png"/>之類</hi>元始中召<lb/>
+天下通小學者以百數各令記字未央庭中杜鄴爰禮<lb/>
+秦近曽此被賞倉頡多古字俗師失其讀宣帝時徵齊<lb/>
+人能正讀張敞從受之揚雄取諸家有用者作訓纂易<lb/>
+倉頡重復之字凡八十九章班固復續揚雄作十三章<lb/>
+今皆不存而張竦家之學傳至外孫之子杜林為作訓<lb/>
+隋志云梁有倉頡二巻漢司空杜林注亡<hi>考工記注倉頡篇有鞄□</hi>
+<pb n="KR3j0066_WYG_000-66b"/>
+<hi>又曰有柯欘安紀注春秋釋文文選廣韻注曲禮疏皆引倉頡篇藝文類聚引凡将篇曰鍾磬竽笙筑坎侯蜀</hi>
+<hi>都賦注引凡将篇曰黄潤纎美宜制禪史記正義引訓纂云户扈鄠三字一也</hi>後魏書江式祖<lb/>
+强上書三十餘法延昌三年式表甚詳欲撰集古來文<lb/>
+字以許慎説文為主上篆下𨽻其書竟未能成愚考𨽻<lb/>
+書即今楷書淳化帖有邈天得一以清一則甚明也黄<lb/>
+伯思皆以為偽然體本楷式後人摹倣耳徐鉉曰賈魴<lb/>
+作三倉之書皆為𨽻字𨽻字始廣而篆籀轉微誤以八<lb/>
+分為𨽻則自歐陽脩作集古録耳自是凡漢石刻皆目<lb/>
+<pb n="KR3j0066_WYG_000-67a"/>
+為漢𨽻東魏大覺寺碑題曰𨽻書今楷字也千文曰杜<lb/>
+藁鍾𨽻唐孫過庭草書譜曰元常專精于𨽻書伯英尤<lb/>
+工于草體二美逸少兼之此以真行為𨽻也八分者書<lb/>
+苑曰蔡琰言割程𨽻八分取二分割李篆字二分取八<lb/>
+分或曰邕有八體各分其一也漢石經乃蔡邕八分書<lb/>
+鍾繇善八分泰山銘有隼尾波章草以章帝名或以急<lb/>
+就名若淳化首則詎可信乎北海敬王睦善史書世以<lb/>
+為楷則永平中帝驛馬令作草書尺牘十首杜伯度張<lb/>
+<pb n="KR3j0066_WYG_000-67b"/>
+芝㫤崔子玉所善者也文選鶴書注蕭子良古今篆𨽻<lb/>
+文體曰鶴頭書與偃波書俱詔版所用在漢謂之尺一<lb/>
+簡自秦廢古文漢教學童并藁書楷書懸針垂露飛白<lb/>
+偃波鶴頭芝英倒薤等二十餘種之勢因事生變也李<lb/>
+陽冰云秦始皇時王次仲制八分書蕭子良曰漢靈時<lb/>
+上谷王次仲與秦人同姓名作八分書元常謂章程書<lb/>
+始為楷法云出新意者言鍾王増減筆法也由今考論<lb/>
+古篆即有新意錯綜取態増減矣其稱最古者頡墓禹<lb/>
+<pb n="KR3j0066_WYG_000-68a"/>
+碑孔壁汲冢石鼓壇刻比干季札墓秦篆則詛楚文斯<lb/>
+篆則嶧泰㑹稽是也歐陽脩始為集古而劉攽吕大臨<lb/>
+趙明誠王楚黄伯思董逌夏竦宗子克繼薛尚功洪适<lb/>
+葉夢得王球蔡珪吾衍楊慎都穆陳鉅徐獻忠王家瑞<lb/>
+趙崡田汝耔朱雲等俱事編集而印章之篆則自蕭子<lb/>
+良合刻符摹印之體宋宣和譜之楊克一王厚之顔叔<lb/>
+夏姜䕫趙孟頫皆有譜録班班可考至書法筆勢則又<lb/>
+小學中之緒餘矣並詳見書札碑帖諸條下<lb/>
+<pb n="KR3j0066_WYG_000-68b"/>
+雅蒼者概言五雅三倉也揚雄荅劉歆以爾雅為游夏<lb/>
+之徒所記謂為周公書者因劉向以史佚教其子以爾<lb/>
+雅三朝記孔子曰爾雅以觀于古足以辨言矣元命包<lb/>
+曰子夏問夫子作春秋不以初哉首基為始何是以知<lb/>
+為周公所造也竇攸豹䑕之對其業乃顯由今論之周<lb/>
+公吐哺用人之長安知非彼時集之而卜商弟子㳂加<lb/>
+乎叔孫通梁文有増補者猶神農本草而别録大觀補<lb/>
+之也有犍為文學注及劉歆李廵孫炎樊光郭璞等注<lb/>
+<pb n="KR3j0066_WYG_000-69a"/>
+陸徳明毋昭裔音義邢昺疏今注疏主郭邢小爾雅乃<lb/>
+陳渉博士孔鮒撰揚雄方言劉熈釋名皆倣釋詁而作<lb/>
+者也廣雅乃魏博士張揖著隋曹憲為之音解避煬帝<lb/>
+諱更名博雅唐志有劉伯莊續爾雅一卷梁劉杳撰要<lb/>
+雅李商隠蜀爾雅劉温潤羌爾雅皆取其名耳宋元豐<lb/>
+中陸佃為埤雅羅願作爾雅翼鄭樵有爾雅注饘糊襺<lb/>
+袍古多通音譏之非是其曰峩峩丁丁之不逹物情則<lb/>
+果然矣謂其釋離騷涷雨呼草木笋茭為江南人或後<lb/>
+<pb n="KR3j0066_WYG_000-69b"/>
+補者豈足概全書乎隋志言郭璞注三倉漢和帝永元<lb/>
+中郎中賈魴叔郎作滂喜篇為倉頡訓纂之下巻曰三<lb/>
+倉又張揖撰埤倉樊恭撰廣倉説文繫傳以倉頡爰歴<lb/>
+博學為三倉并訓纂為四篇吳敬甫謂史游急就倣爾<lb/>
+雅作非也乃倣凡将皆從三倉一例者列字而無訓<hi>唐志</hi>
+<hi>蔡邕勸學篇二巻聖皇章一卷班固太甲篇在昔篇各一卷崔瑗飛龍篇合篆草勢三卷黄初篇一巻陸機吳</hi>
+<hi>章篇一卷吳項峻始學篇十二卷晉陽方少學集十巻朱嗣卿幼學篇一巻束晳發䝉記一卷顧愷之啓蒙啓疑</hi>
+<hi>記各三卷王羲之小學篇一巻葛洪要用字苑一巻馮幹括字苑十三巻宋顏延之詁幼文三卷荀楷廣詁幼</hi>
+<pb n="KR3j0066_WYG_000-70a"/>
+<hi>文一巻易晉卦疏引蔡邕勸學篇云鼫䑕五能不成一伎術初學記引項峻始學篇曹植飛龍篇南史劉杳傳</hi>
+<hi>引何承天纂文葛洪字苑後漢志注引顔延之詁幼文選注引顧愷之啓蒙記顔延年纂要郭忠恕佩觿集一</hi>
+<hi>序言前人之誤甚詳然亦未觀其通也</hi>
+漢石經靈帝熹平四年所立洛陽記曰太學在洛陽城南開<lb/>
+陽門外講堂長十丈廣二丈堂前石經四部本碑凡四十六<lb/>
+枚西行尚書周易公羊𫝊十六碑存十二碑毁南行禮記十<lb/>
+五碑悉崩壞東行論語三碑毁禮記碑上有諫議大夫馬日<lb/>
+磾議郎蔡邕名為古文科斗小篆八分書隋志三字石經尚<lb/>
+<pb n="KR3j0066_WYG_000-70b"/>
+書九卷又五巻春秋三巻唐志三字石經尚書古篆三巻左<lb/>
+傳古篆書十二巻又蔡邕今字石經論語二巻水經注曰漢<lb/>
+光和六年刻石鏤碑載五經立大學講堂東側又蔡邕熹平<lb/>
+二年自書丹于碑使工鐫之豈兩刻邪智以為范史之熹<lb/>
+平其經始也水經之光和其告成也魏陳留邯鄲淳特善<lb/>
+倉雅説文衞恒曰正始中又建三字石經于漢碑西即淳<lb/>
+所書<hi>又言左傳正義石經古文虞作□魯作<graphic n="KR2590" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2590.png" mimeType="image/png"/>
+                    </hi>趙明誠金石録曰石經字蔡邕<lb/>
+小字八分書後漢書儒林𫝊叙云為古文篆𨽻三體者非<lb/>
+<pb n="KR3j0066_WYG_000-71a"/>
+也蓋邕所書乃八分而三體石經乃魏時所建也洪适<lb/>
+𨽻續曰石經見于范史帝紀及儒林宦者傳皆云五經<lb/>
+蔡邕張馴傳則曰六經惟儒林傳云為古文篆𨽻三體<lb/>
+書法三字石經唐志所載古篆兩種與隋志所書異同<lb/>
+其目又有一字石經相承以為七經正字東魏末武定<lb/>
+四年自洛陽徙于鄴至河陽投于水至鄴者不滿大半<lb/>
+此高澄遷洛陽漢魏石經五十二碑于鄴齊皇建元年<lb/>
+列學館周大象元年徙洛陽隋開皇六年又自鄴載入<lb/>
+<pb n="KR3j0066_WYG_000-71b"/>
+長安置于祕書内省議欲補緝立于國學隋亂事寢營<lb/>
+建之司用為柱礎貞觀初魏徴始收聚之十不存一矣<lb/>
+一字石經者易一巻尚書六巻魯詩六卷儀禮九巻春<lb/>
+秋九巻公羊傳九卷論語一巻典論一巻魏明帝有詔<lb/>
+先帝典論刋石與石經并以永示來世晉裴頠轉祭酒<lb/>
+奏脩國學刻石寫經世説新語注嵇康寫石經古文于<lb/>
+太學後魏孝文太和十七年九月幸太學觀石經神龜<lb/>
+元年祭酒崔光請命博士李郁等補漢所立石經之殘<lb/>
+<pb n="KR3j0066_WYG_000-72a"/>
+缺唐開元著録所載今字石經易篆三卷書五卷鄭元<lb/>
+書八卷毛詩三卷儀禮四巻左傳經十巻公羊傳九巻<lb/>
+蔡邕今字論語二巻三字石經尚書古義三巻左傳古<lb/>
+義十二巻合五十九巻由此觀之則所稱一字石經者<lb/>
+皆補立今字也字說曰天寳中刻九經于長安禮記以<lb/>
+月令為首從李林甫請也此其命衛包改古文之時乎<lb/>
+大厯十一年司業張參承詔定諸經鑱石文宗太和七<lb/>
+年鄭覃以宰相領祭酒建言準漢舊事鏤石太學乃表<lb/>
+<pb n="KR3j0066_WYG_000-72b"/>
+周墀崔球張次宗孔温業等是正其文刻于石唐元度<lb/>
+覆定開成二年冬石經成其曰九經字様則唐𤣥度請<lb/>
+附以通古文者也後唐長興三年令以西京石經本抄<lb/>
+寫刻板頒天下命馬鎬陳觀田敏詳勘後周廣順三年<lb/>
+字様版成田敏上之蜀相毋昭裔取唐太和本琢石于<lb/>
+成都學宫與後唐本不無小異乾道眺公武參二本著<lb/>
+考異亦刻于石張<graphic n="KR2115" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2115.png" mimeType="image/png"/>又為注文考異焉宋石經七十五<lb/>
+卷楊南仲書具真篆二體石室十三經即孟蜀所鐫者<lb/>
+<pb n="KR3j0066_WYG_000-73a"/>
+故周易後書廣政辛亥惟三傳至皇祐方畢故公羊傳<lb/>
+後書大宋皇祐元年己丑九月工畢周易孫逢吉書尚<lb/>
+書周徳正書周禮孫羽吉書毛詩儀禮禮記張紹文書<lb/>
+論語爾雅張徳釗書春秋經傳公榖孝經孟子不書題<lb/>
+人至和石經者至和元年命皇姪右屯衛大将軍克繼<lb/>
+書國子監石經以上所寫石經論語書石帝從其請嘉<lb/>
+祐石經者仁宗命國監取易詩書周禮禮記春秋孝經<lb/>
+為篆𨽻二體刻石兩楹嘉祐三年王洙薦大理丞楊南<lb/>
+<pb n="KR3j0066_WYG_000-73b"/>
+仲石經有勞草澤章友直篆石經畢詔補将作監友直<lb/>
+不願仕賜銀絹同篆殿中丞張次立與堂除紹興御書<lb/>
+石經者紹興十三年内出御書左氏及史記列傳宣示<lb/>
+館職又内出御書周易尚書毛詩上又書論語孟子皆<lb/>
+刋石立太學首善閣及大成殿後之廊廡淳熈四年詔<lb/>
+知臨安府趙磻老於太學建閣置碑閣下墨本閣上以<lb/>
+光堯石經之閣為名是則石經本固已多矣胡三省曰<lb/>
+既已七經為蔡邕書矣又云魏立一字石經乃其誤也<lb/>
+<pb n="KR3j0066_WYG_000-74a"/>
+范曄時三體石經與熹平所鐫並列于學宫故史筆誤<lb/>
+書其後人襲其譌錯或不見石刻無以考正趙氏雖以<lb/>
+一字為中郎所書而未見三體者歐陽氏以三體為漢<lb/>
+碑而未嘗見一字者近世方勺作泊宅編載其弟匋所<lb/>
+跋石經亦為范史隋志所惑指三體為漢字至公羊碑<lb/>
+有馬日磾等名乃云世用其所正定之本因存其名豈<lb/>
+非謬論北史江式云魏邯鄲淳以書教皇子建三字石<lb/>
+經于漢碑西按此碑以正始年中立漢書云元嘉元年<lb/>
+<pb n="KR3j0066_WYG_000-74b"/>
+度尚命邯鄲淳作曹娥碑時淳巳弱冠自元嘉至正始<lb/>
+亦九十餘年式以三字為魏碑則是謂之邯鄲淳所書<lb/>
+非也智按式依衛恒說耳今在陜西搨來者動即一車<lb/>
+且經向拱韓縝之厄或有補者總非其舊嗟乎是又何<lb/>
+可據乎筆麈曰唐文宗以宰相鄭覃判國子祭酒創立<lb/>
+石壁九經即今陜西石經也孟蜀毋昭裔刻石經有注<lb/>
+故知今是鄭書升菴曰朱子論語注引石經者謂孟蜀<lb/>
+石經也宋淳化刻于汴京然亦有掘碑舊搨如長睿彦<lb/>
+<pb n="KR3j0066_WYG_000-75a"/>
+遠伯厚所載母劮母兄之殘文者亦有如賈虞石經大<lb/>
+學東𬈑信之汝稷駁之者又見夫温陵黄虞稷俞邰有<lb/>
+石經攷言張孟竒以熹平四年為謝承書石經則誤矣<lb/>
+承三國人嘗著後漢書也西安石經金至大中省幕王<lb/>
+公琛元駱天驤兩脩立之<lb/>
+說文分别部居十四篇九千三百五十三文立一于耑<lb/>
+畢終于亥永元庚子孟陬演贊其志安帝建光元年九<lb/>
+月二十慎子沖上之前以詔書校東觀教小黄門孟生<lb/>
+<pb n="KR3j0066_WYG_000-75b"/>
+李喜等詔召沖詣朱雀右掖門賜布四十匹强令吕忱<lb/>
+因之作字林陳顧野王因之作玉篇陸法言采為切韻<lb/>
+孫愐廣之後蜀林罕撮為偏旁小說梁有演說文庾儼<lb/>
+黙注宋雍熈三年右散騎徐鉉等獻新校定說文三十<lb/>
+卷反切異同以孫愐為定元豐詔知禮院王子韶置局<lb/>
+光禄丞陸佃同脩五年賜銀幣百而書不行鉉弟鍇作<lb/>
+說文繫傳朱翺反切當時稱之熈寧中李行中制字源<lb/>
+吳淑正儀撰正義張有作復古編僧曇域包希魯倪鏜<lb/>
+<pb n="KR3j0066_WYG_000-76a"/>
+許謙皆有補說智按說文有唐本蜀本二徐本中有新<lb/>
+附今字學家但執鉉本殘書又未淹貫經籍何從知其<lb/>
+漏與複乎智决之曰泝其原當因古籀而推之備小篆<lb/>
+當遍攷諸籍以補之慶同文當因正韻牋而詳載其源<lb/>
+流焉通此則無書不可讀而字學家紛然者皆土苴矣<lb/>
+豈不幸甚<hi>隋志張揖古今字詁三卷難字誤字各一巻揖魏天和中為博士周氏雜字解詁四巻晉</hi>
+<hi>吕忱字林七巻吳恭字林音義五卷晉王延文字音七巻何承天纂文三巻戴規辨字一巻阮孝緒文字集略</hi>
+<hi>六巻左校令李登聲類十卷晉安復令吕静韻集六巻静忱弟也張諒四聲韻林二十八巻段𢎞韻集八巻羣</hi>
+<pb n="KR3j0066_WYG_000-76b"/>
+<hi>玉典韻五卷陽休之韻畧一巻夏侯詠四聲韻畧十三卷梁太傅沈約四聲一卷李槩音譜四卷周研聲韻四</hi>
+<hi>十一卷陸法言合之作切韻五卷陳左将軍顧野王玉篇三十一卷唐志趙氏韻篇十二巻陸慈切韻五卷蕭</hi>
+<hi>鈞韻音二十巻孫愐唐韻五巻又武元之韻銓十五卷𤣥宗韻英五卷李舟切韻十卷顔真卿韻海鏡源三百</hi>
+<hi>六十巻釋皎然編也釋智猷辨體補修加字切韻五巻</hi>
+先儒音止譬況孫炎始為反切晉謝安舉徐邈專撰定<lb/>
+五經音義隋仁夀中陸法言切韻取之韻纂則秦王俊<lb/>
+召學士為之桂苑珠叢則唐曹憲與諸儒撰者太宗有<lb/>
+竒難字輙問憲具為音注諸葛頴撰略要後魏字統則<lb/>
+<pb n="KR3j0066_WYG_000-77a"/>
+陽尼造其從孫承慶撰成陸徳明經典釋文三十卷其<lb/>
+總集也大氐自吕静夏侯該周思言李季節杜臺卿等<lb/>
+各有乖互唐儀鳯二年多田縣丞郭知元拾遺緒正朱<lb/>
+箋而孫愐因之天寳十載書成號曰唐韻<hi>元美曰自有陸法言撰本</hi>
+<hi>長孫訥言箋注而同撰者為劉臻顔之推魏淵盧思道李若蕭該辛徳源薛道衡後又有郭知元關亮薛峋王</hi>
+<hi>仁煦祝尚丘孫愐嚴寳文裴務齊陳道固各増加字至宋成廣韻此抄韓氏者</hi>唐開元文字音<lb/>
+義三十卷韻英五卷則𤣥宗天寳十四載四月付集賢<lb/>
+院張九齡所奏吕證鄭欽甘暉衛包音釋者干禄字書<lb/>
+<pb n="KR3j0066_WYG_000-77b"/>
+顔元孫撰從子真卿書號顔氏字様婁機廣之以四聲<lb/>
+為次具俗通正三體宋乾徳四年陳鄂受詔編韻對天<lb/>
+禧五年鄂之孫僧溥上雍熈召句中正等定正景徳四<lb/>
+年頒行丘雍亦定韻略祥符元年改為大宋重脩廣韻<lb/>
+景祐元年詔直史館宋祁鄭戩王洙刋脩廣韻為廣略<lb/>
+命知制誥丁度李淑詳定寳元二年書成若吳棫韻補<lb/>
+乃集協古韻者王安石字說則臆解耳崇文目有程迥<lb/>
+古韻通式劉熈古切韻拾玉舒知雄獻字母圖陳淳作<lb/>
+<pb n="KR3j0066_WYG_000-78a"/>
+字義李燾劉鎔錢承志皆有集音賈昌朝曽請禮部韻<lb/>
+略窄韻十三聽學者通用又作羣經音辨康定刋行紹<lb/>
+興十一年進士黄啓宗隨韻補輯十四年楊朴上禮部<lb/>
+韻括遺三十二年毛晃上増脩互注韻略張貴謨上補<lb/>
+遺乾道中郟升卿撰韻類熊忠舉要王文郁劉淵皆有<lb/>
+韻略元韓道昇道昭有改併五音集韻黄公紹韻㑹撮<lb/>
+孟蜀之書林韻㑹也當時孫吾與因之方日升因為小<lb/>
+補<lb/>
+<pb n="KR3j0066_WYG_000-78b"/>
+辯許氏者鄭氏顔之推已然矣李陽冰刋定說文鄭漁<lb/>
+仲六書略七音略益從而辨證之詳論假借推古文正<lb/>
+小篆之失元楊桓作六書統門人劉泰暢之永嘉戴侗<lb/>
+起而訓定是非相半周伯琦正訛大半侗書也孫季昭<lb/>
+示兒編趙叔向肯綮録則時取一端論說耳當時趙古<lb/>
+則著六書本義魏校著六書精藴造形附理王應電因<lb/>
+作同文備攷吳元滿有<graphic n="KR1140" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1140.png" mimeType="image/png"/>原正義六書分類宗夾漈而<lb/>
+更創之楊升菴有轉注古音略字說六書索隠朱謀㙔<lb/>
+<pb n="KR3j0066_WYG_000-79a"/>
+焦竑間論皆拾前人之辨况李士龍張位朱光家程至<lb/>
+善輩乎諸家推論字原者不肯並列聴人折𠂻乃盡廢<lb/>
+以往獨立臆說徒亂學者耳目反不如恪守陳迹為愈<lb/>
+矣趙宧光說文長箋止守徐鉉本痛詆鄭戴魏吳升菴<lb/>
+為臆而匚殹之類猶臆也烏知說文新附非盡許氏書<lb/>
+又烏知許氏之未盡漢學邪郝楚望一掃而通之又過<lb/>
+矣古自可通今不必通學者要當知其原委耳閩綏安<lb/>
+謝兆申序朱鬱儀竒字曰楊桓統而博薛尚功釋道泰<lb/>
+<pb n="KR3j0066_WYG_000-79b"/>
+韻鍾鼎而不辨王楚黄伯思博古而不釋羅更翁吕大<lb/>
+防王球考古集古而弗倫徐鍇張有趙古則膠舊而好<lb/>
+强魏校王應電吳元滿狥臆而立變惟朱公忠古而理<lb/>
+智按其書亦未㑹通經史如以紗沙當從与而謂少聲<lb/>
+不近則全不知古音轉注之原委以名從□為鳥至夕<lb/>
+而鳴噪則全未見古命名通用為一字也又何異武子<lb/>
+之以竄為寫子才之以蘭造□乎<lb/>
+等韻之學元魏時釋神珙始顯唐元和陽甯公南陽釋<lb/>
+<pb n="KR3j0066_WYG_000-80a"/>
+處忠撰元和韻譜崇文目有三十六字母圖僧守温撰<lb/>
+四聲等第圖僧宗彦撰切韻指元論王宗道撰<hi>九弄反紐圗序</hi>
+<hi>畧曰沈約創紐字圖皆以平聲碎尋難見唐陽甯公南陽釋處忠撰元和韻譜乃列五圓圖為五聲圖又列二</hi>
+<hi>方圖為九弄圖傍紐者皆是雙聲正在一紐之中傍出四聲之外</hi>焦弱侯引釋廣宣諸<lb/>
+經音義序曰說文在漢字止九千韻集出唐言増三萬<lb/>
+自佛教東翻六百餘載梵筴中積三千餘㢧隨部出音<lb/>
+聞之往說殷鑒羣録末曰大觀元應法師校讎勘閱由<lb/>
+半字滿字之教也智騫造衆經音及蒼雅字苑宏叙周<lb/>
+<pb n="KR3j0066_WYG_000-80b"/>
+贍皁素共推其所定楚詞音朱子取之相浄著天竺字<lb/>
+源以華梵對翻景祐中進仁宗御製序之鑒聿為韻總<lb/>
+歐陽永叔序之曰必待乎用心專者而能之然後儒者<lb/>
+有以取焉<lb/>
+指掌圖乃治平四年司馬光上者四十五卷文三萬一<lb/>
+千三百一十九因為指掌圖以字母總三百八十四聲<lb/>
+别為二十圖<hi>遞用則名音和傍求則名類隔同歸一母則為雙聲同出一韻則為疊韻同韻而分</hi>
+<hi>兩切者謂之慿切同音而分兩韻者謂之慿韻無字則㸃窠以足之謂之寄聲韻闕則引鄰以寓之謂之寄韻</hi>
+<pb n="KR3j0066_WYG_000-81a"/>
+鄭樵有字始連環有象類書又論梵書隋史載後漢得<lb/>
+西域諸書以十四字貫一切音文省義廣謂之婆羅門<lb/>
+書龍龕手鑑遼僧行均撰兼釋華梵智光後題統和丁<lb/>
+酉時至道三年也黄公紹韻會則論音一本温公者趙<lb/>
+宧光遵許太泥而論門法之病則甚得理陳藎謨黄極<lb/>
+韻圖則發源邵子而聲字取正韻者也郝氏但刪為十<lb/>
+二韻要之切法吕獨抱李士龍約之甚便西域音多中<lb/>
+原多不用也又當合悉曇等子與大西耳目資通之詳<lb/>
+<pb n="KR3j0066_WYG_000-81b"/>
+見雜論<lb/>
+中原音韻高安周徳清著以荅蕭存存托張漢英作詞<lb/>
+之問也學士虞集序之其平聲分隂陽前所未發也入<lb/>
+聲𣲖入三聲者廣其韻耳張萱謂之北雅智謂北人未<lb/>
+嘗無入聲也洪武正韻宋濓王僎趙壎孫蕡等定正本<lb/>
+高安而存入聲依三衢毛居正論字畫揚時偉箋之王<lb/>
+應電曰正韻間以小篆正楷書之譌而未嘗以古文正<lb/>
+小篆之謬且嚴於章奏而略於經史故刀筆之吏或所<lb/>
+<pb n="KR3j0066_WYG_000-82a"/>
+玩習而經生學士多未識知愚者曰世豈無暢楊去奢<lb/>
+范仲闇之志者乎崇禎辛已桐城方以智宻之編<lb/>
+　宋景濂遣子仲珩受業于趙撝謙故仲珩較正韻用<lb/>
+　其說趙卒于嶺表有門人柴廣進作聲音文字通鄺<lb/>
+　氏取之老父後采其說所論定者說文止是小篆加<lb/>
+　别尚有晉唐増厠之譌非攷古不能泝原非博洽旁<lb/>
+　通不能知古知其故矣仍遵正韻徵用則十三經史<lb/>
+　漢是藝林也同聲易簡惟是音和門法支離乃不達<lb/>
+<pb n="KR3j0066_WYG_000-82b"/>
+　前人方言而附㑹者耳詳見等切聲原不肖次男中<lb/>
+　通拜識<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　通雅巻首二<lb/>
+<pb n="KR3j0066_WYG_000-83a"/>
+欽定四庫全書<lb/>
+　通雅巻首三　　　　　　明　方以智　撰<lb/>
+　　詩說<hi>庚寅答客</hi>
+姑以中邊言詩可乎勿謂字櫛句比為可屑也從而叶<lb/>
+之從而律之詩體如此矣馳驟迴旋之地有限矣以此<lb/>
+和聲以此合拍安得不齒齒辨當耶落韻欲其卓立而<lb/>
+不可迻也成語欲其虛實相間而熨帖也調欲其稱字<lb/>
+欲其堅字堅則老或故實或虚宕無不鄭重調稱則和<lb/>
+<pb n="KR3j0066_WYG_000-83b"/>
+或平引或激昂無不宛雅是故玲瓏而□落抗墜而貫<lb/>
+珠流利攸揚可以歌之無盡如是者論倫無奪<graphic n="KR0570" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0570.png" mimeType="image/png"/>于節<lb/>
+奏所謂邊也中間發抒藴藉造意無窮所謂中也措詞<lb/>
+雅馴氣韻生動節奏相叶蹈厲無痕流連景光賦事狀<lb/>
+物比興頓折不即不離用以出其高高深深之致非作<lb/>
+家乎非中邊皆甜之蜜乎又况誦讀尚友之人開幬覆<lb/>
+代錯之目舞吹毛灑水之劔俯仰今古正變激揚其何<lb/>
+可當由此論之詞為邊意為中乎詞與意皆邊也素心<lb/>
+<pb n="KR3j0066_WYG_000-84a"/>
+不俗感物造端存乎其人千載如見者中也俗之為病<lb/>
+至難免矣有未能免而免免者存聞樂知徳因語識人<lb/>
+此㡬知否<lb/>
+關尹子曰道寓天地寓舎可指可論之中邊則不可指<lb/>
+論之中無可寓矣舎聲調字句雅俗可辨之邊則中有<lb/>
+妙意無所寓矣此詩必論世論體之論也此體必論格<lb/>
+論響之論也韓脩<graphic n="KR1061" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1061.png" mimeType="image/png"/>曰汲汲乎惟陳言之務去數見不<lb/>
+鮮高懐不發此誦讀咏歌之情即天地之情也<hi>如天地則不舊</hi>
+<pb n="KR3j0066_WYG_000-84b"/>
+<hi>乾坤寰宇則舊莊禪最與詩通然矢橛巴鼻亦太粗生理語典奥有時亦凑又況數百年之時文批語耶秋風</hi>
+<hi>而為商颷曉日而為朝暾殊屬可厭然兩間風力所轉翻字法門㚓黒豆何要以體格時宜論之假如退之生</hi>
+<hi>割義山刻艷長吉詭激宋元朴俚果是其人成語成家何妨别路</hi>冒以急口媮快優人<lb/>
+之白牧童之歌與三百乎何殊然有說焉閩人語閩人<lb/>
+閩語故當閩人而與江淮吳楚人語何不從正韻而公<lb/>
+談夫史漢韓蘇騷雅李杜亦詩文之公談也但曰吾有<lb/>
+意在則執樵販而問訊呼市井而詬誶亦各有其意在<lb/>
+其如不中節奏不堪入耳何此一喻也謂不以中廢邊<lb/>
+<pb n="KR3j0066_WYG_000-85a"/>
+法<graphic n="KR0570" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0570.png" mimeType="image/png"/>矣詞贍矣無復懐抱使人興感是平熟之土偶耳<lb/>
+倣唐泝漢作相似語是優孟之衣冠耳天分有限又不<lb/>
+肯學良工不示人以樸不如勿作然有解焉不作詩論<lb/>
+隨人示樸何傷乎<lb/>
+詩以言志言之不足故長言之長言之不足故咏嘆之<lb/>
+咏嘆之不足故不知手之舞之足之蹈之一石一葉性<lb/>
+情畢具誰非舞蹈毫端者乎<lb/>
+經解曰温柔敦厚而不愚深于詩者也孤臣孽子貞女<lb/>
+<pb n="KR3j0066_WYG_000-85b"/>
+高士發其菀結音貫金石憤讆感慨無非中和故曰怨<lb/>
+乃以興猶夫冬之春貞之元也五至而終于哀三無而<lb/>
+終于喪志氣塞乎天地曽知之乎此深于温柔敦厚而<lb/>
+愚即不愚者也苦此心之難平困以必不能而消之塞<lb/>
+以不可解而寘之頓引寥濶以曠之息諸濛汜以㝠之<lb/>
+亦壎箎之牖耳至人無情無不近情必貌此冒語以為<lb/>
+至語以為至語而忌諱一切以責永言諭志之正叶乎<lb/>
+時而述事時而遊覽時而咏物神在其中各有不得已<lb/>
+<pb n="KR3j0066_WYG_000-86a"/>
+者存焉不用相强果一真乎無汝迴避處<lb/>
+詩者志之所之也反覆之引觸之比興而已矣世亦有<lb/>
+知比者未可以言興也興之為比深矣賦之為比興更<lb/>
+深矣數千年之汗青蠧簡竒情寃苦猶之草木鳥獸之<lb/>
+名供我之谷呼擊節耳何謂不可引故事何謂不可入<lb/>
+議論何謂不可稱物當名何謂不可逍遥吞吐指東畫<lb/>
+西自問答自慰解耶故曰興于詩何莫學夫詩詩之廣<lb/>
+大配天地變通配四時惜乎日用而不知雖興者亦未<lb/>
+<pb n="KR3j0066_WYG_000-86b"/>
+必知也水不澄不能清鬱閉不流亦不能清發乎情止<lb/>
+乎禮義詩以宣人即以節人老泉曰窮於禮而通于詩<lb/>
+立禮成樂皆于詩乎端之春秋律易言之者無罪聞之<lb/>
+者足以戒皆于詩乎感之道不可言性情逼真于此矣<lb/>
+言為心苗有不可思議者誰知興乎知易為大譬喻盡<lb/>
+古今皆譬喻也盡古今皆比興也盡古今皆詩也存乎<lb/>
+其人乃為妙叶何用多談<lb/>
+有讀千載上之一言而下泣者矣有誦千載上之一言<lb/>
+<pb n="KR3j0066_WYG_000-87a"/>
+而起舞者矣此自當人之所志所造不同耳前不見古<lb/>
+人後不見來者念天地之悠悠獨愴然而淚下淚下不<lb/>
+亦誕乎彈琴而見文王魂來而愁蛟龍月明而嘯峰頂<lb/>
+謂之誕皆不免乎誕<lb/>
+古人竒懐突兀躍而騎日月之上憤而投潢汙之中不<lb/>
+可以莊語故以竒語寫之竒者多剏剏剏于不自知俗<lb/>
+人效歩邯鄲則杜撰難免矣然而竒之極者又轉平地<lb/>
+或險諢或故問或影略或冷汰或即事實叙或無中生<lb/>
+<pb n="KR3j0066_WYG_000-87b"/>
+有瞿唐龍門乎通都橋梁乎宫闕參差乎荒村茆舎乎<lb/>
+各從其類自行其開閤縱横頓挫之致不以平廢竒不<lb/>
+以竒廢平莫竒於平莫平于竒時因時創綂因創者存<lb/>
+乎其人<lb/>
+清新俊逸子美嘗稱太白自謂不如也耶太白得古詩<lb/>
+之竒放專效之者久則索然老杜以平實敘悲苦而備<lb/>
+衆體是以平載乎竒而得自在者也<lb/>
+姑分體裁而言之古詩直而曲近而逺質淡而不靧追<lb/>
+<pb n="KR3j0066_WYG_000-88a"/>
+琢而不劌或以數句為一句或分章以為篇或平衍而<lb/>
+突立别峰或激起而旁數歴落或中斷以為迴環或瑣<lb/>
+屑而寓冷指轉折之法如作古文竒矯屈詰嘗類謡諺<lb/>
+殊非黭淺所能夢見也人不能反復于三百楚詞漢魏<lb/>
+樂府烏有能藴藉温雅者乎六朝組練駢麗别為選體<lb/>
+佳者不數篇倣之者似乎遒鬱實拙滯耳河梁十九首<lb/>
+之後其曹阮陶杜乎昌黎太生割取其莽蒼可也太白<lb/>
+竒放次山朴直東野痛快高岑取黄初之爽健王孟取<lb/>
+<pb n="KR3j0066_WYG_000-88b"/>
+靖節之清遠後而元白後而宋元各有所長日趨纎薄<lb/>
+其能免乎七言古若李杜之奔騰長吉之險激文昌子<lb/>
+初之峻踔宋元至今各有陡峭之篇至于陶鑄莊騷風<lb/>
+驅電巻猶有待焉近體因陳隋之比儷而初盛以高渾<lb/>
+出之氣格正矣調至中唐乃稱<graphic n="KR0570" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0570.png" mimeType="image/png"/>雅刻露取快則晚唐<lb/>
+也究當互取寧可執一杜陵悲涼沉厚以老作態是運<lb/>
+斤之質也錢劉皇甫之流利義山温許之工艷香山放<lb/>
+翁之樸爽何不可以兼互用之自然光熖萬丈寧須沾<lb/>
+<pb n="KR3j0066_WYG_000-89a"/>
+丐殘膏後世尊杜太過者溲泄亦零陵香矣不善學古<lb/>
+人者專學古人之疵累徒好畫龍見真龍必怖而走何<lb/>
+怪乎<lb/>
+近代學詩非七子則竟陵耳王李有見于宋元之卑纎<lb/>
+凑弱反之于髙渾悲壯宏音亮節鏗鏗乎盈耳哉雷同<lb/>
+既久浮濶不情能無厭乎青田浩浩無所不有崆峒秋<lb/>
+興深得老杜諸將之氣格歴下婁東固不逮也文長從<lb/>
+而變之公安又變之但取卑近苛癢而已竟陵詩歸非<lb/>
+<pb n="KR3j0066_WYG_000-89b"/>
+不冷峭然是快巳之見急翻七子之案亦未盡古人之<lb/>
+長處亦未必古人之本指也區區字句焉摘而刺之至<lb/>
+于通章之含蓄頓挫聲容節拍體致全昧今觀二公之<lb/>
+五言律有幽淡深峭之情一作七言則佻弱矣時流樂<lb/>
+于餙其空疎羣以帖括填之且以評語填之趨于亾俚<lb/>
+識者歎户外之琵琶焉<lb/>
+宋後好註詩詩有不必注者挂席拾海月海月為江□<lb/>
+柱使風帆而拾蚌是何况耶竹林為我啼清晝王母晝<lb/>
+<pb n="KR3j0066_WYG_000-90a"/>
+下雲旗翻竹林王母鳥名襲王蔡魯黄之解且曰不讀<lb/>
+萬巻不行萬里不能知老杜嗟乎老杜之破萬巻豈在<lb/>
+此乎此宋景濂所歎揎攘而叢脞者也一飯不忘君有<lb/>
+之矣率爾咏嘆遷就而為之說則所不必<lb/>
+山谷曰庾信止於清新鮑昭止於俊逸不能兼互謂北<lb/>
+地寒故樹有花少實江東水鄉多蜃故雲色駮文體亦<lb/>
+然欲與白細論此耳然乎哉此山谷見宗門之語映帶<lb/>
+表法而取以論詩耳其實杜意不如此也宋以山谷為<lb/>
+<pb n="KR3j0066_WYG_000-90b"/>
+杜之宗子號曰江西詩𣲖嚴羽卿闢之專宗盛唐然今<lb/>
+以平熟膚襲為盛唐又何取乎<lb/>
+或看翡翠蘭苕上未掣鯨魚碧海中龍文虎脊皆君馭<lb/>
+歴塊過都見爾曹别裁偽體親風雅轉益多師是汝師<lb/>
+此子美之論也横空盤硬妥貼排奡垠崖崩豁乾坤雷<lb/>
+硠此退之所取也讀書深識力厚才大筆老乃能驅使<lb/>
+古今吞吐始妙如或未然又增嗤㸃且從王孟錢劉入<lb/>
+而深造及此可耳才各有限學必深造然後自用所長<lb/>
+<pb n="KR3j0066_WYG_000-91a"/>
+豈必執一以相訾耶崇禎壬午夏與姜如須論此而筆<lb/>
+之<lb/>
+漢立樂府練時日諸篇詞皆雕組鐃歌芳樹石流不可<lb/>
+讀者大字屬詞細字屬聲聲詞合録耳收中吾妃呼豨<lb/>
+奴何奴軒是也鄭漁仲集解題郭茂倩左克明梅禹金<lb/>
+皆以其名彚之實不可奏諸管絃也唐宋以來二十八<lb/>
+調今傳十三無言其分合者所謂樂府之題約如二郎<lb/>
+神新水令隨人填詞豈據郎神新水而解意乎初起或<lb/>
+<pb n="KR3j0066_WYG_000-91b"/>
+然唐之用漢樂府題作歌者借名自行其意耳相傳清<lb/>
+平調旗亭則絶句也今故難强詩人擬古自有别致嘗<lb/>
+與同社約取古一解二解之句而各寫其懐何不可以<lb/>
+填詞和古作因創之嚆矢乎<lb/>
+休文知四聲韻多江南之音豈能知隂陽七音之精乎<lb/>
+詩可寛叶正韻時宜古仍可通也詞則必論挺齋内外<lb/>
+中聲矣七言二六既諧其餘自諧非謂可不諧也拗體<lb/>
+亦諧拗體之響古風自諧古風之調作家老手定叶天<lb/>
+<pb n="KR3j0066_WYG_000-92a"/>
+然<lb/>
+我有萬古宅青陽玉女峰常留一片月挂在東谿松寫<lb/>
+景乎懐抱乎泰山忽破碎涇渭不可求回首叫虞舜蒼<lb/>
+梧雲正愁此老㑹心處不在遠亦不在近也繁霜被野<lb/>
+草歲暮亦云已黄鵠遊四海中路將安歸此哭途中之<lb/>
+休歇處乎萬物各有託孤雲獨無依此北窻之休歇處<lb/>
+乎<lb/>
+虚舟子曰青青河畔草絶不是青青河畔草但可曰青<lb/>
+<pb n="KR3j0066_WYG_000-92b"/>
+青河畔草知此比興外之比興否一氣敘至他鄉異縣<lb/>
+忽然曰枯桑知天風海水知天寒拘者必謂針線不續<lb/>
+矣乃以雙魚曲折收以上言加飡食下言長相憶知此<lb/>
+格否老杜之在山泉水清出山泉水濁韋蘇州之熱者<lb/>
+不思火寒者不思水知此格否雞鳴孔雀諸篇之長叙<lb/>
+斷結北征諸篇用之香山亦用之而各自為致太沖詠<lb/>
+史以遇貴即賤二語斷之此振衣濯足之竒格也璧遺<lb/>
+鎬池君明年祖龍死秦人相謂曰吾屬可去矣一往桃<lb/>
+<pb n="KR3j0066_WYG_000-93a"/>
+花源千春隔流水此太白之竒格也蜀道難有所思其<lb/>
+以明遠之行路而從騷變者乎<lb/>
+六朝堆滯中而得爽句故以句傳天際識歸舟楓落吳<lb/>
+江冷之類是也唐五言古以造句傳者狂風吹歸心馬<lb/>
+上續殘夢之類是也一句之致易曉通章之致難論況<lb/>
+言先乎劒截雲瀧白雨割昏曉海水立此以一字逼出<lb/>
+長吉好以險字作勢然如漢武秦皇聴不得直是荆軻<lb/>
+一片心原自渾老杜陵之馮夷擊鼓羣龍趨黑入太隂<lb/>
+<pb n="KR3j0066_WYG_000-93b"/>
+雷雨垂何嘗不作竒語嚇人<lb/>
+山谷曰寧律不諧勿使句弱用字不工勿使語俗故古<lb/>
+詩中亦可過對指㸃律詩中亦可直行不對東坡曰燦<lb/>
+爛之極乃歸平淡外枯而中膏淵明子厚之流張為列<lb/>
+賓主句司空圖一鳴集皆刻峭中平淡者也寒郊痩島<lb/>
+正以冷蒨寫生臺閣香奩總是鑑空谷響豈以乾剥剥<lb/>
+為清真乎<lb/>
+鍊字如壁龍㸃睛鍊句如䖝蛀印文鍊章如黄回舞劒<lb/>
+<pb n="KR3j0066_WYG_000-94a"/>
+鍊意如山川出雲使事如幡綽啼笑狀物如大帝彈蠅<lb/>
+頓節如撾鼓露板滑聲如笛弄歌喉極工巧極天然極<lb/>
+渾成極生動以弄丸之胸懐出㸃金之手眼其樂何如<lb/>
+杵聲不為客一絃清一心禹力不到處河聲流向西造<lb/>
+語刻至匪夷所思謝臯羽曰紛紛古人呼不起鄭所南<lb/>
+曰至今首陽山不生周草木如此抉痛非吹毛之劒乎<lb/>
+有一意而出之不同者磧裏征人三十萬一時回首月<lb/>
+中看則凄切于一夜征人盡望鄉矣渼陂行向來哀樂<lb/>
+<pb n="KR3j0066_WYG_000-94b"/>
+何其多則落節深涼如何不飲令心哀則索然矣又有<lb/>
+一意分取其致者退之云長安百萬家出門無所之與<lb/>
+出門無至友動即到君家孰勝耶避人焚諌草騎馬欲<lb/>
+雞棲與君恩深漢帝且莫上虛空孰勝耶如今腐草無<lb/>
+螢火終古垂楊有暮鴉與禾黍高低六代宫孰勝耶軍<lb/>
+敗鼓聲死與霜重鼓寒聲不起孰勝耶庾信吳均之合<lb/>
+浦葉太白云因為洞庭葉各自為致耳雨色風吹去南<lb/>
+行拂楚王嶺上千重萬重雨斷絃收入淚痕深河梁曰<lb/>
+<pb n="KR3j0066_WYG_000-95a"/>
+長當從此别且復立斯須沈約云勿言一樽酒明日難<lb/>
+重持杜云别離已昨日應見古人情艷歌何嘗行云吾<lb/>
+中道與卿共别離各寫警切亦互相取杜云落日辭王<lb/>
+母微風倚少兒宫中行樂秘少有外人知諷天寳也義<lb/>
+山云武皇内傳分明在莫道人間總不知長恨歌辭津<lb/>
+陽百韻諷亦激矣懐古感今妙在借事反復冷風中人<lb/>
+不知所指<lb/>
+各體雖異藴藉則同起三百之人於今安知其不七言<lb/>
+<pb n="KR3j0066_WYG_000-95b"/>
+而長律乎聲依永律和聲以樂通詩則近體之叶律定<lb/>
+格謂為補前人之未備也可愚者曰一菀一枯一正一<lb/>
+變一約一放天之寒暑也過甚則偏矯之又偏神之聴<lb/>
+之終和且平是其人不欺其志皆許之矣窮則變變則<lb/>
+通通則久使人繼聲繼其志也詩不必盡論論亦因時<lb/>
+詩未嘗不可以析理析理之詩非詩之勝地也手無斧<lb/>
+柯奈龜山何今問夫子曰手有斧柯奈龜山何夫子豈<lb/>
+再答乎利劒不在掌結友何須多以何為劒以何為斧<lb/>
+<pb n="KR3j0066_WYG_000-96a"/>
+乎曰心曰性曰静曰理詩歸望見必極賞之或以為禪<lb/>
+此禪家之醯雞耳況老將不談兵耶聖人之教書敘正<lb/>
+語詩以興之茍知興之側語反語皆是矣禮以制節樂<lb/>
+以和之茍知和之有聲無聲皆是矣<lb/>
+格莫竒于三百牛羊之章先敘飲訛之狀忽曰牧人乃<lb/>
+夢變魚變旟從而占之何其幻乎采緑憶遠忽而作計<lb/>
+此後永不相離薄言觀者冷綴便收至于正月小弁雨<lb/>
+無之沉悼萋菲彼何人斯之激怒章法次第最稱神品<lb/>
+<pb n="KR3j0066_WYG_000-96b"/>
+皆非後人所能彷彿也離騷之登天入水作如何㑹華<lb/>
+胥之鈞天作如何㑹古詩之結婚遺鯉書字不滅作如<lb/>
+何㑹淵明之干戚擲杖乞酒與年作如何㑹其指逺矣<lb/>
+漁父鼓枻而去屈原似為所訶矣且問是一人耶二人<lb/>
+耶東方有一士又曰我欲觀其人我是誰東方之士是<lb/>
+誰<lb/>
+　　文章薪火<lb/>
+灊草曰性道猶春也文章猶花也砍其枝斷其榦而根<lb/>
+<pb n="KR3j0066_WYG_000-97a"/>
+死矣併掘其根以求核中之仁而仁安在哉言掃除者<lb/>
+權奪也欲人之讀真書耳非必懲咽廢食也固陋托以<lb/>
+夸毗而絃誦反自廢耶夫核仁入土而上芽生技下芽<lb/>
+生根其仁不可得矣一樹之根株花葉皆全仁也聖人<lb/>
+知之故老任斯文刪述大集與萬世共熏性與天道豈<lb/>
+憂其斷乎既知全樹全仁矣不必避樹而求仁也明甚<lb/>
+既知全樹全仁矣培根也䕶榦也除蠧也收實也條理<lb/>
+灌輸日用不離也明甚以冬煉夏乃貫四時則無寒無<lb/>
+<pb n="KR3j0066_WYG_000-97b"/>
+暑之在寒暑中也明甚无妄大畜一多相貫兩間森羅<lb/>
+無非㸃畫俯仰逺近皆備于我矣文明以止用光得薪<lb/>
+雷雨出雲有開必先羲文周孔不能違時酬酢佑神此<lb/>
+最上之神于文章者乎道統且置姑就文章論文章<lb/>
+文傳四教士首三民生乎圖書經史明備之後簡畢猶<lb/>
+耒耜也本于大一協于分藝不興其藝不能樂業乗物<lb/>
+遊心一室自娛鼓舞可羣萬世相告筆舌之縁均無所<lb/>
+避有正用通用之中道焉有中理旁通之發揮焉有統<lb/>
+<pb n="KR3j0066_WYG_000-98a"/>
+類焉有體裁焉不可不知<lb/>
+三知終于知言此格人我格内外格古今之大用也不<lb/>
+能知言又安能自逹其所言乎有專言徳行者專言經<lb/>
+濟者專言文章者專言技藝者專言權勢者專言兵符<lb/>
+者專言法紀者專訓詁者專記事者專寓喻者統而言<lb/>
+之無非道也無非性命也而有專言性命之道者離事<lb/>
+離法以明心而舉其冒統者也因有專言生死鬼神者<lb/>
+因有廢世事以專言仙定者因有專言養生者因分忘<lb/>
+<pb n="KR3j0066_WYG_000-98b"/>
+世之言出世之言因有别傳善巧若竒兵者要不出于<lb/>
+質論通論攷測天地之家象數律厯聲音醫藥之說皆<lb/>
+質之通者也皆物理也專言治教則宰理也專言通㡬<lb/>
+則所以為物之至理也皆以通而通其質者也百家紛<lb/>
+如何以折中聖人罕雅藏用彌綸道器優優乎洋洋哉<lb/>
+讀書必開眼開眼乃能讀書三才之槖籥萬理之㑹通<lb/>
+有所以然者存不明所以然中之各各當然而用當然<lb/>
+之所以然則百家堅白同異之舛午何一不可疑我我<lb/>
+<pb n="KR3j0066_WYG_000-99a"/>
+則惑矣支離動賾之象數何一不可難我我則惡之非<lb/>
+白首紛糾則芒芒䖝豸非飾陋巧通則强銲馮河安能<lb/>
+不徇不遺物物而不物于物乎由此言之茍非專精深<lb/>
+幾眼何能開又況閉而開之開而閉之習此坎窞喪身<lb/>
+失命故知不少雖然如此亦視其人<lb/>
+文章之先當知所以為文章者文章成列當知為何等<lb/>
+之文章或大或小或正或竒或中或偏是其人皆可不<lb/>
+是其人皆浮逐也不知為不知而就事言事皆可未得<lb/>
+<pb n="KR3j0066_WYG_000-99b"/>
+為得而專作夸已掃人之詞又不如藏拙矣<lb/>
+易竒而法謂因物之天然而衍之者也方圓密顯同時<lb/>
+變化人能讀此書者尠矣龍馬狐豕杞瓜葛藟圭紱黄<lb/>
+矢躋陵渉川有謂無謂乎無謂有謂乎滄澥寳珠隨人<lb/>
+變色揚眉舉歩何非雷雨日風<lb/>
+程子曰繫辭之文化工生物虛舟曰靈光衝旋倐忽異<lb/>
+常更生曰聖人贊易如趙叜跋禊帖一條又一條隨曲<lb/>
+生瀾不知重沓<lb/>
+<pb n="KR3j0066_WYG_000-100a"/>
+典謨爾雅訓體約厚隆古尚簡故耳春秋乃以事還事<lb/>
+之筆不可増損禮記論語則通方時義之雅言也詩道<lb/>
+性情窮于禮而通于詩觀其深乎<lb/>
+左傳巧練未免雋傷國語伸之與戴記近鄭漁仲辨左<lb/>
+傳者十郝京山曰三晉之文士筆劉歆以為丘明便讓<lb/>
+博士耳鄒夾不傳公榖皆未親見尼山者也刻核推斷<lb/>
+文則峭矣臆故不免戰國短長言則捭闔飛箝之技也<lb/>
+周末文勝生才若是後未有盛于此者鄒邑正正之旗<lb/>
+<pb n="KR3j0066_WYG_000-100b"/>
+密轉握竒之籥神于懼創不避者乎屈子開漁父之眼<lb/>
+而甘以誒詒竭忠故其詞沉篤氣塞穹蒼神于怨創不<lb/>
+避者乎莊子休具黑白之眼而甘以巧激旁寓善用竒<lb/>
+兵神于怒創不避者乎三子同時而不相遇屈專盡人<lb/>
+而㝠于惟危之心莊專得天而㝠于惟微之心孟合天<lb/>
+人而以不得已為用本可㑹一宗其文亦可合而互之<lb/>
+此當俟之間出之士<lb/>
+老子楊墨皆近孔子前後自老子正言若反而惠施交<lb/>
+<pb n="KR3j0066_WYG_000-101a"/>
+易之其歴物也大其小小其大長其短短其長虛其實<lb/>
+實其虛而已公孫龍遂為隠射鈎距之機皆楊墨之流<lb/>
+也莊宕于無何有之鄉而樂在㝠應善用之因物還物<lb/>
+天載兩忘是有見乎無首者不善用之比之無首矣其<lb/>
+詞近于為我其機則破相宗也楊子執其隨墨子豐其<lb/>
+蔀告子艮其限别墨之謑髁縱脫倍譎不仵則浚恒振<lb/>
+恒者也其見偏至其文亦偏至<lb/>
+管子在老子之前其内業篇與老子合其治近功故名<lb/>
+<pb n="KR3j0066_WYG_000-101b"/>
+法之家祖之因而附益之申商韓皆是也商韓文最决<lb/>
+絶如其法然荀子主禮法文故明當<lb/>
+關尹子後起者也其論道器頗平鶡冠亢倉捜剔銛鋒<lb/>
+甚則為隂符竒其事為山海經穆天子傳守其業而浸<lb/>
+廣之靈樞素問也皆周末筆隂符關尹鶡冠亢倉則晉<lb/>
+唐筆也<lb/>
+吕覽淮南則養客撮衆人之英者也不韋預知焚書而<lb/>
+寓之一束始發此智更巧于招隠矣嗟乎周公不驕吝<lb/>
+<pb n="KR3j0066_WYG_000-102a"/>
+而收天下之材藝此無繼矣吕劉之智亦無繼之者耶<lb/>
+將以虞預何法盛宋齊丘為智耶不堪噴飯<lb/>
+子長以鬱折而成史記收合百家洽古宜時散近乎朴<lb/>
+變藏于平善序事理真不虚也自莊生剽剥鈎縣嘗借<lb/>
+人物叙事藏其議論史記直為叙事據欵結案何用犯<lb/>
+手裝面而强浚之强括之乎以此讀者更快其情以為<lb/>
+天然<lb/>
+孟堅整嚴之中亦能錯落范史因東京平對而順載之<lb/>
+<pb n="KR3j0066_WYG_000-102b"/>
+伯喈則喜比偶矣趣至六朝尚麗掞藻勢也徐庾始<graphic n="KR0570" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0570.png" mimeType="image/png"/>
+唐宋遂為别體吾取其流爽者<lb/>
+韓脩<graphic n="KR1061" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1061.png" mimeType="image/png"/>振起八代之衰為其單行古文法也子長為質<lb/>
+上泝周秦氣骨自古曲折作態盡乎技矣其言正直潤<lb/>
+色雅故故超于技徒謂平淮西碑為嫓典謨毛穎傳酷<lb/>
+似子長淺之乎退之有時生割刻意形容琢古磨石未<lb/>
+免乎痕痕亦何累乎退之斯文後死存乎其人不在鈎<lb/>
+章棘句以為工不在鄙倍蕪累乃為篤論為學道之亞<lb/>
+<pb n="KR3j0066_WYG_000-103a"/>
+也<lb/>
+去其痕而一以平行之則歐曾也蘇則鋒于立論而衍<lb/>
+于馳騁八家大同小異要歸雅馴學者鼓篋門從此入<lb/>
+至于盡變更須開眼<lb/>
+文章之開闔主賔曲直盡變手眼之予奪抑揚敲唱雙<lb/>
+行何非一在二中之幾乎以過而化其不及以不及而<lb/>
+化其過以中而化其過不及以過不及而化其中易之<lb/>
+參兩錯綜全以反對顛推而藏其不測有悟此為文章<lb/>
+<pb n="KR3j0066_WYG_000-103b"/>
+者張旭之聞鼓吹觀劒器紀昌之目承挺貫蝨心不是<lb/>
+過矣<lb/>
+君安驪姬是我傷公之心也以約過而吞吐始悲使𦕈<lb/>
+者御𦕈者跛者御跛者以詳數而形容生色<lb/>
+且緩急亦人之所時有也銳發一論遂轉别論聽訟吾<lb/>
+猶人也必也使無訟乎下士聞道大笑之非虚語也歴<lb/>
+引不繹錦絅輶毛之章歴引而繹之各盡其致亦古今<lb/>
+得失之林也何必異聞反掉作波不抑不揚平準書敘<lb/>
+<pb n="KR3j0066_WYG_000-104a"/>
+至卜式曰烹𢎞羊天乃雨借刀殺人不置一斷突然而<lb/>
+住<lb/>
+荆軻傳倚柱而笑此㸃睛也前有魯句踐後有高漸離<lb/>
+竒峰湍流互相穿激昌黎叙睢陽述南八詳其聞此者<lb/>
+張籍云正法此傳惟恐其冷落無餘聲耳此善請客之<lb/>
+妙也妙高峰七日不見而見之别峰道寓于器正意寓<lb/>
+于旁意何往不然<lb/>
+琢句割字刻畫之小品也長河千里一曲不在乎此然<lb/>
+<pb n="KR3j0066_WYG_000-104b"/>
+㸃綴之間神亦與之俱動周公曰坐乎將母子産止兀<lb/>
+者曰子母乃稱灌夫曰畢之姬得赫蹏書問上何如曰<lb/>
+憆也攷工檀弓儀禮敘事狀物俱以簡盡論語鮮矣仁<lb/>
+孟子豕交之也何常不竒韓退之賞樊綘碑和盧月蝕<lb/>
+稱長吉之鯨呿鰲擲正以為人不可行怪而忍俊不禁<lb/>
+何妨筆墨間洩其竒氣耶由今論之鬼母泣天蝦蟇蝕<lb/>
+月多祗生厭何竒之有若如黄原玦天銑溪虬石則鉛<lb/>
+粉惡裝並不得以棘刺母猴畫䇿龍蛇相例<lb/>
+<pb n="KR3j0066_WYG_000-105a"/>
+古人用意更善竒變劉須溪曰宰我問短喪所以激聖<lb/>
+人之定案也宗一曰劒逼乎子貢之問去食與信也二<lb/>
+者何先此待問乎此謂答在問處使民戰栗激發哀公<lb/>
+尼山三聲雪上加霜耳今人竟作呵宰我說何啻千里<lb/>
+宰我子貢擅言語之科井有仁焉豈必改字<lb/>
+桃應一問不必以事實論也師弟互相逼唱不過欲蹴<lb/>
+出一敝屣耳莊子逍遥遊堯見四子汾水之陽窅然喪<lb/>
+其天下歌舞排塲費盡撩天之舌曾有出乎敝屣之外<lb/>
+<pb n="KR3j0066_WYG_000-105b"/>
+者否世必以膠柱為篤論豈可與神遊康衢見藐姑耶<lb/>
+元氣不足一浴一風猶恐外感<lb/>
+子長作史記常尊其父諱談為同自序甚明年表用臣<lb/>
+遷謹按則太史公為禇輩所加未可知也班彪曰子長<lb/>
+一人之思刋落不盡故明授其子孟堅漢書竟不稱歸<lb/>
+于父何哉蔚宗目睫徒飾笑耳<lb/>
+黄溍言文章非應用應用非文章著論本本而布嚴雍<lb/>
+容者澄湖不波一碧萬頃魚龍潛伏不動而<graphic n="KR1043" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1043.png" mimeType="image/png"/>洞不可<lb/>
+<pb n="KR3j0066_WYG_000-106a"/>
+犯云<lb/>
+吳萊立夫言作文如用兵有正有竒正者文之法竒者<lb/>
+不為法縛千變萬化坐作擊刺一時俱起者也及止部<lb/>
+還伍則肅然未常亂<lb/>
+馬存贈蓋邦式序曰子長之文章不在書以書求之則<lb/>
+終身不知其竒予有史記一部載天下名山大川壯麗<lb/>
+竒怪之處將與子周遊而歴覽之庶幾可以知文矣子<lb/>
+長生平喜遊將以盡天下之大觀以助吾氣然後吐而<lb/>
+<pb n="KR3j0066_WYG_000-106b"/>
+為書<lb/>
+程子云子長著作微情妙㫖寄之文字蹊徑之外孟堅<lb/>
+之文情㫖盡露于文字蹊徑之中讀子長文必越浮言<lb/>
+者始得其意超文字者乃解其宗班氏文章亦稱博雅<lb/>
+但一覽之餘情詞俱盡張輔以文字多寡為優劣此何<lb/>
+足以論班馬哉<lb/>
+馮開之曰讀書太樂則漫太苦則澁董遇之百遍攷亭<lb/>
+之半日淵明之不求甚解東坡之每事一過庾嵩之開<lb/>
+<pb n="KR3j0066_WYG_000-107a"/>
+巻一尺王筠之重覽興深其各得于輪扁之甘苦者乎<lb/>
+吳季子書憲曰短冊恨其易竭累牘苦于難竟讀貶激<lb/>
+則髪欲上衝讀軒快則唾壺盡碎讀滂沛而襟撥讀幽<lb/>
+憤而心悲讀虛無之𣺌論而譎誕生讀拘儒之腐陳而<lb/>
+谷神死讀遯照者欲盡相以窮神讀岨峿者期妥貼以<lb/>
+愜志讀闕文而思補讀朦朧而思參讀寂漠者非慘吻<lb/>
+不開讀竒藻者非清華則靡故每讀一冊必配以他部<lb/>
+用以節其枯偏之情調悲喜憤快而各歸于適不致輟<lb/>
+<pb n="KR3j0066_WYG_000-107b"/>
+巻而歎掩袂而泣則配之說也弄風研露輕舟飛閣山<lb/>
+雨來溪雲升或豪集或孤訪鳥出啼花冷笑則配之適<lb/>
+也時辛已秋書<lb/>
+動則曰唐宋大家抑知唐宋大家皆有深造之火候乎<lb/>
+今欲一蹴而偃襲之唐宋大家未許也韓退之答李翺<lb/>
+曰古立言者無望其速成無誘于勢利養其根而俟其<lb/>
+實加其膏而希其光學二十餘年矣非聖人之志不敢<lb/>
+存處若忘行若遺儼乎若思芒乎若迷注于手也惟陳<lb/>
+<pb n="KR3j0066_WYG_000-108a"/>
+言之務去戛戛乎難哉如是有年識古書之正偽徐有<lb/>
+得也汨汨來矣人笑之則喜譽之則憂猶有人之說者<lb/>
+存也如是有年浩乎沛然矣平心察之其皆醇也然後<lb/>
+肆焉然不可不養也水大而物之浮者大小畢浮氣盛<lb/>
+則言之短長與聲之髙下皆宜雖如是敢自謂成乎處<lb/>
+心有道行已有方用則施諸人舎則傳諸其徒垂空文<lb/>
+而為後世法亦足樂乎志乎古必遺乎今吾誠樂而悲<lb/>
+之栁子厚曰吾少以辭為主及長乃知文以明道不茍<lb/>
+<pb n="KR3j0066_WYG_000-108b"/>
+為炳炳烺烺采色夸聲也未敢輕心掉之懼其剽也未<lb/>
+敢怠心易之懼其弛也未敢昏氣出之懼其襍也未敢<lb/>
+矜氣作之懼其驕也本諸書以求質詩以求恒禮以求<lb/>
+宜春秋求斷易以求動此取道之原也參之榖梁厲氣<lb/>
+孟子暢支老莊肆端國語博趣離騷致幽太史公著潔<lb/>
+此旁推交通而以為文也李習之曰六經創意造言皆<lb/>
+不相師故讀春秋也如未嘗有詩讀詩也如未嘗有易<lb/>
+讀易也如未嘗有書讀屈原莊周也如未嘗有六經義<lb/>
+<pb n="KR3j0066_WYG_000-109a"/>
+深意逺理辯氣厚則辭盛而文昌今尚異者曰竒險而<lb/>
+已好理者曰叙意而已溺時者曰文當對病時者曰文<lb/>
+不當對愛難者曰宜深不宜易便易者曰宜通不宜難<lb/>
+此皆情有便滯古人深于義當于理文之以其辭而已<lb/>
+不知其對與否易與難也學古文者說古人之行愛古<lb/>
+人之道也持己莫如恭自責莫如厚接衆莫如𢎞用心<lb/>
+莫如直進徳莫如勇受益莫如擇友好學莫如改過蘇<lb/>
+明允曰孟子之文語約而意盡不為巉刻斬絶之言而<lb/>
+<pb n="KR3j0066_WYG_000-109b"/>
+其鋒不可犯韓子之文如長江大河渾浩流轉魚鼈蛟<lb/>
+龍萬怪惶惑而抑遏蔽掩不使自露而人望見其淵然<lb/>
+之色亦自畏避不敢迫視歐陽子之文紆餘委備往復<lb/>
+百折而條達疎暢無所間斷氣盡語極急言竭論容與<lb/>
+簡易無艱難勞苦之態此三者斷然自為一家之文也<lb/>
+惟李翺之文俯仰揖讓其味黯然而長其光油然而幽<lb/>
+其别有以服之乎又曰二十七始知讀書後困甚覺古<lb/>
+人之出言用意與已大異時復内顧其才則又似夫不<lb/>
+<pb n="KR3j0066_WYG_000-110a"/>
+止於是而已者盡燒曩時所為文取論語孟子韓子介<lb/>
+然端坐讀之者七八年久之豁然以明若人之言固當<lb/>
+然者試書之渾渾乎來之易矣若或啓之若或相之詩<lb/>
+人之優柔騷人之清深孟韓之温淳遷固之雄剛孫吳<lb/>
+之簡切投之所嚮無不如意然未敢以為是也潛谷曰<lb/>
+子瞻名理類莊治體類賈陸其嘻笑怒罵猝然憤然皆<lb/>
+成文可書其大者馳騁縱逸如行雲流水渾淪光怪雄<lb/>
+視百代所自得為多矣子由深思澄蓄汪洋澹泊不願<lb/>
+<pb n="KR3j0066_WYG_000-110b"/>
+人知如其人然秀傑之氣不可掩謝疊山曰東坡自莊<lb/>
+子覺悟來袁中郎曰坡評道子畫如燈取影横見側出<lb/>
+逆來順往各相乘除余謂公文亦然舞女走竿市兒弄<lb/>
+丸横心所出腕無不受其至者如晴空鳥迹水面風痕<lb/>
+有天地來一人而已阮霧霛曰坡長於馳阪而短於頓<lb/>
+鬱故惡揚之囏深今學蘇者平衍易襲而精奥不傳矣<lb/>
+必學六經史漢僅乃韓蘇愚者曰極深研㡬因象數而<lb/>
+㑹通之斯文錯綜之本乎宋人好平易一往其時尚然<lb/>
+<pb n="KR3j0066_WYG_000-111a"/>
+也故韓魏公不與永叔言易子厚非月令國語執道之<lb/>
+變動相詰難彼烏知有統類秩叙之端幾哉放翁曰東<lb/>
+坡嶺外喜子厚文及北歸與錢濟明書乃痛詆子厚時<lb/>
+令斷刑四維貞符詩篇可見學問轉變好尚頓異未可<lb/>
+以殺活語也好學不已歴年必變平而竒竒而平不好<lb/>
+學而依趣彷彿即執一而不變矣極深變盡之後無深<lb/>
+無淺然後知聖人之文章皆致中和如未至此或平或<lb/>
+竒聴人之才亦可互救以為鼓舞要期於自成節奏遠<lb/>
+<pb n="KR3j0066_WYG_000-111b"/>
+鄙倍而已<lb/>
+李文饒謂氣不可以不息不息則流宕而忘返李翰言<lb/>
+文如千兵萬馬寂然無聲曹子桓謂氣之清濁有體不<lb/>
+可力强而致然小大異量各自完吾分耳陳龍川曰君<lb/>
+子行權於正用智以理過於智而不以仁義禮信行之<lb/>
+則賊矣昔人謂胸中先有六經語孟然後讀前史史既<lb/>
+治則讀諸子是古人治心積學之方往往有叙有要奈<lb/>
+何渉獵凌鬬於尺幅間况非史非子徒以凌鬬之氣壊<lb/>
+<pb n="KR3j0066_WYG_000-112a"/>
+吾人乎合從連衡熾而六國入秦顧厨俊及標而漢祚<lb/>
+為墟即至濓洛諸君子倡明理學厥力不細而韓侂胄<lb/>
+猶誣為偽學而殘噬之繇斯以觀䜿一說者伏一敵至<lb/>
+乎各樹其說並對一敵而天下事不可為矣今時流輩<lb/>
+大率淵源無素愛竒者聞詭而驚聴浮慧者觀綺而躍<lb/>
+心迂疎者以淺俚為古朴填砌者以六朝為冶麗此由<lb/>
+胸智不多未更老成故也又好詆訶前輩旁人甚憐其<lb/>
+愚而造之者揚揚以為得意蓋文士之矛足釀兵争之<lb/>
+<pb n="KR3j0066_WYG_000-112b"/>
+禍歴觀古來應若指掌陳興霸之言應矣痴山曰前輩<lb/>
+論文有專取厚重以為風教所關福澤所出者固也其<lb/>
+間政自有辨阿犖山身重三百五十斤顧當時見稱乃<lb/>
+在運其三百五十斤之軀盤舞如飛不然司馬保八百<lb/>
+孟業千斤劉荆州大牛何異哉鐘有徑廣者容可萬石<lb/>
+顧其肉郭必不能厚厚則石而音咽矣惟其靈也惟其<lb/>
+動也小巧以為靈凌轢以為動又弗取也臨以生平之<lb/>
+魄力收古人之精英久而出之古人與我鬱勃而不可<lb/>
+<pb n="KR3j0066_WYG_000-113a"/>
+已心醖而口咀迫而吐之其聲乃流至於泣風雨驚鬼<lb/>
+神歌舞憤涕不形于外而洋溢于毫端如是者謂之能<lb/>
+盡其才能盡其才而養之方為貴耳<lb/>
+宋九青曰先輩豈生今而薄今耶時未至也其智之變<lb/>
+亦不暇至此也不學則前人之智非我有矣學而狥迹<lb/>
+引墨不失尺寸非鹽鐵論所謂呻吟枯簡誦死人之句<lb/>
+乎桺子謂淮西碑有帽子習揚大年謂杜陵為村夫子<lb/>
+子美謂太白少縝密太白謂子美困琱鐫秦少游謂醉<lb/>
+<pb n="KR3j0066_WYG_000-113b"/>
+翁亭用賦體尹師魯以岳陽樓用傳體大約才人各伸<lb/>
+其所獨至少陵欲倣漢魏不難子瞻欲摹周秦亦易惟<lb/>
+不肯蹈襲耳然末世之空腹高心不能茹吐古今者率<lb/>
+其鄙倍亦曰我不蹈襲也未可藉口智謂世以智相積<lb/>
+而才日新學以收其所積之智也日新其故其故愈新<lb/>
+是在自得非可襲掩<lb/>
+石塘師曰自以拖沓為篤實而古文風致盡矣何謂遠<lb/>
+鄙倍乎好古者以史漢之追章琢句拔之久而襲為剽<lb/>
+<pb n="KR3j0066_WYG_000-114a"/>
+賊矣貴神識者以唐宋大家救之侯廣成曰雜怪難識<lb/>
+以為博空疎不學以為靈此謂妄居其創者至狂子僇<lb/>
+民羣起糞掃六經師心杜撰於是乎㝠趨倒行愈變愈<lb/>
+下嫌鐘鼓玉帛為芻狗而遂甘為鬼魅也可乎末世才<lb/>
+固日生而好學者少文以禮樂尼山所望即以文章致<lb/>
+其中和亦安藝息游琢玉繼聲之道也辛已孟夏將之<lb/>
+登州書與曼公<lb/>
+譚苑醍醐曰辭達而已矣恐人溺于辭而忘躬行也淺<lb/>
+<pb n="KR3j0066_WYG_000-114b"/>
+陋者借之易傳春秋孔子之特筆其言玩之若近尋之<lb/>
+益逺陳之若肆研之益深天下之至文也豈止達而已<lb/>
+哉夫意有淺言之而不達深言之而乃達者詳言之而<lb/>
+不達略言之而乃達者正言之而不達旁言之而乃達<lb/>
+者俚言之而不達雅言之而乃達者故東周西漢之文<lb/>
+最古而其能道人意中事最徹今以淺陋為達是烏知<lb/>
+達哉夫脫于口謂之言爻于文謂之辭書曰政貴有恒<lb/>
+辭尚體要以言乎政令之辭也儀禮聘記曰辭多則史<lb/>
+<pb n="KR3j0066_WYG_000-115a"/>
+少則不達辭茍足以達義之至也以言乎禮聘之辭也<lb/>
+左傳曰辭之不可以巳也如是非文辭不為功慎辭哉<lb/>
+以言乎使命之辭也記曰有其容則文以君子之辭遂<lb/>
+其辭則實以君子之德又曰情欲信辭欲巧以言乎相<lb/>
+接相示之文辭也凡謂之辭未有不貴達者亦未有達<lb/>
+而猶貴枝葉者也夫子惡巧言而曰辭欲巧則知辭非<lb/>
+言例也易有聖人之道四焉以言者尚其辭聖人之情<lb/>
+見乎辭修辭立其誠所以居業也韋編三絶鐵鏑三折<lb/>
+<pb n="KR3j0066_WYG_000-115b"/>
+漆書三滅曰假我數年若是我於易則彬彬矣彬彬者<lb/>
+辭達之謂也繫終六辭盡天下之情哉藝苑巵言云吾<lb/>
+嘗論孔荀以前作者理苞塞不喻假而達之辭後之為<lb/>
+文者辭不勝跳而匿諸理六經理而辭者也兩漢事而<lb/>
+辭者也錯以理而已自儒林道學岐分而經義帖括為<lb/>
+剥啄之瓦賢者捨經而樓上駕樓以講道高自標目而<lb/>
+不肖者滉漾自恣莫可窮詰矣鄧潛谷曰宋賢等文學<lb/>
+于功利於根本固篤而苛求多拂物理徒生其鷹擊颺<lb/>
+<pb n="KR3j0066_WYG_000-116a"/>
+去之心虛舟子曰尼父轍環至老終以志事託之斯<lb/>
+文安萬世之火於竈使之可羣樂業而薫陶自化聴上<lb/>
+者之通神明類萬物次亦各食其力各消其智或依循<lb/>
+或達材皆鼓舞不能自己掃除者無乃暗倣别𫝊乎曽<lb/>
+知為宋元王造閉解閉之滑疑哉潛草曰好學者理明<lb/>
+事正辭自然達惟詖遁之辭不達方且以不達詒人浮<lb/>
+山之孤曰學必悟而後能變化悟必藏於學而後能善<lb/>
+用同人達辭之道亦然通其故則不為所惑不為所惑<lb/>
+<pb n="KR3j0066_WYG_000-116b"/>
+則善用之皆藥矣學足識盡而用其才行乎不得不行<lb/>
+止乎不得不止秩敘變化同時中節知達之神者乎不<lb/>
+以辭害意言近而指逺吾無隠乎爾造適不及笑知達<lb/>
+之本者乎愚者偶書<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　通雅卷首三<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

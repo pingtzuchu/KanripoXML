@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>韻語陽秋</head>
+    <p>
+<pb n="KR4i0023_WYG_000-1a"/>
+欽定四庫全書　　　　　集部九<lb/>
+　韻語陽秋　　　　　　　詩文評類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案韻語陽秋二十巻宋葛立方撰立<lb/>
+　　　　方字常之自號嬾真子丹陽人紹興戊午進<lb/>
+　　　　士官至吏部侍郎是編雜評諸家之詩不甚<lb/>
+　　　　論句格工拙而多論其意㫖之是非故曰陽<lb/>
+　　　　秋用晉人語也其中如偏重釋氏謂歐陽修<lb/>
+<pb n="KR4i0023_WYG_000-1b"/>
+　　　　夢見十王得知罪福後亦信佛之類未免虚<lb/>
+　　　　誣議屈原自沈為不知命之類未免偏駁論<lb/>
+　　　　李杜蘇黄皆相輕相詆未免附㑹以江淹雜<lb/>
+　　　　擬赤玉隠瑤溪句為謝靈運之作以蘇軾老<lb/>
+　　　　身倦馬河堤永踏盡黄榆綠槐影句為杜甫<lb/>
+　　　　之詩以李白解道澄江浄如練令人長憶謝<lb/>
+　　　　元暉句為襲鄭谷之語亦未免小有舛誤然<lb/>
+　　　　大㫖持論甚正而不至如劉履諸人以理談<lb/>
+<pb n="KR4i0023_WYG_000-2a"/>
+　　　　詩之迂濶在宋人詩話之中猶為善本也乾<lb/>
+　　　　隆四十二年六月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="KR4i0023_WYG_000-3a"/>
+韻語陽秋原序<lb/>
+懶真子既上宜春之印歸休於吳興泛金溪上我先人<lb/>
+之弊廬歸愚識夷塗㳺宦泯捷徑湛然胷次不掛一絲<lb/>
+而多生習氣尚牽蠧簡雖不能如毛萇鄭康成泥䖝魚<lb/>
+之注又不能如虞卿李徳裕著窮愁之書未諳王氏之<lb/>
+青箱懶問董生之朱墨獨喜讀古今人韻語披吟紬繹<lb/>
+每畢景忘倦凢詩人句義當否若論人物行事髙下是<lb/>
+非輒私斷臆處而歸之正若背理傷道者皆為說以示<lb/>
+<pb n="KR4i0023_WYG_000-3b"/>
+勸戒書成號韻語陽秋昔晉人禇裒為皮裏陽秋言口<lb/>
+絶臧否而心存涇渭余之為是也其深愧於斯人哉若<lb/>
+孫盛檀道鸞鄧粲各有晉陽秋是皆不畏人旤天刑率<lb/>
+意而作如昌黎公所云者也余也非唯不敢亦不暇隆<lb/>
+興甲申中元丹陽葛立方書<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

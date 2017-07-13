@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2n0043_WYG_003-1a"/>
+跋<lb/>
+九沙先生承都督公名儒之後世以理學經學顯而先<lb/>
+生尤邃於經所輯辨志堂書薄海内家家有之書學非<lb/>
+其甚屑意者若𨽻書又書學中一節耳而世人特寶貴<lb/>
+之求書者往往趾踵相接絹素堆積几案閲數十年以<lb/>
+為常既從事久凡目之所及心之所得舉而筆之雖未<lb/>
+嘗有意勒成一書而沾匃學者亦已多多矣曽屬余是<lb/>
+正未幾家燼於火與先代所傳及他著一時俱盡是編<lb/>
+<pb n="KR2n0043_WYG_003-1b"/>
+其門徒程君雪汀所存别本也譌字頗多將鏤版舉以<lb/>
+似余余不克訂書數語歸之乾隆甲子仲秋望日錢塘<lb/>
+梁文浤拜手書<lb/>
+　先太史紀年有云予素嗜字學尤篤於分𨽻春和手<lb/>
+　柔取古來論𨽻學及作𨽻人姓氏彚為一編附以臆<lb/>
+　説及漢唐碑刻題識語數十則名九沙分𨽻偶存亦<lb/>
+　夙習未忘也福㓜侍先太史嘗聞訓季姊及寄伯<lb/>
+　兄書自叙年十三時見友人案頭曹全碑一冊假歸<lb/>
+<pb n="KR2n0043_WYG_003-2a"/>
+　仿之及少長游學入仕以迄歸田遍求古今名蹟臨<lb/>
+　摹規畫實有愜心以故興酣落筆揮灑自如是編成<lb/>
+　於雍正辛亥之春年七十有三矣閲十載庚申家罹<lb/>
+　祝融之危所藏漢唐碑帖洎生平著述殆盡後於及<lb/>
+　門程君清標處得是編存藁不無魯魚痛先太史<lb/>
+　旋歸道山未克訂正福珍之篋笥有年頃來山左姪<lb/>
+　緜前章邱署中訪知邑人焦君迪曽嗜古善書丏其<lb/>
+　校訂緜前亟謀夀梓以公海内福因備述顛末記之<lb/>
+<pb n="KR2n0043_WYG_003-2b"/>
+　緜前為伯兄承天次子伯兄字石梁號訥庵雍正己<lb/>
+　酉拔貢前陽榖令卒於官能嗣先太史臨池之學<lb/>
+　季姊承保字季齋亦能以漢𨽻法作擘窠大字歸長<lb/>
+　沙進士周宣猷早没福謹附書於後以俟當世博雅<lb/>
+　君子採輯焉時乾隆己丑九月朔男福百拜敬識<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>平江記事</head>
+    <p>
+<pb n="KR2k0123_WYG_000-1a"/>
+欽定四庫全書　　　　　史部十一<lb/>
+　平江記事　　　　　　　地理類八<hi>雜記之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案平江記事一巻元髙徳基撰徳基<lb/>
+　　　　平江人嘗官建徳路總管其書中有記干文<lb/>
+　　　　傳修遼金宋史事則當成於至正中矣所載<lb/>
+　　　　皆呉郡古蹟而亦兼及神仙鬼怪詼諧滛諺<lb/>
+　　　　之事可禆圖志佚聞其間不免疎謬者如引<lb/>
+<pb n="KR2k0123_WYG_000-1b"/>
+　　　　圖經虞山者巫咸所居而不知其語出越絶<lb/>
+　　　　書引呉越春秋稻蟹不遺種而不知其語出<lb/>
+　　　　春秋外傳又胥蘇二字古人本通用故國語<lb/>
+　　　　史記皆作姑蘇而以為後人之訛字凡此皆<lb/>
+　　　　失於攷證然而序次詳贍條理秩然足供採<lb/>
+　　　　擷者甚多亦龔明之中呉紀聞之流亞也乾<lb/>
+　　　　隆四十三年六月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+<pb n="KR2k0123_WYG_000-2a"/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

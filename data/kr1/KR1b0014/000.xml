@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>尚書說</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　　經部二<lb/>
+　尚書說　　　　　　　　書類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案尚書說七卷宋黄度撰度字文叔<lb/>
+　　　　新昌人登紹興進士為御史劾韓侘胄寧宗<lb/>
+　　　　時累官禮部尚書龍圖閣學士卒諡宣獻度<lb/>
+　　　　篤學窮經老而不倦于易詩周禮俱有撰述<lb/>
+　　　　是編其尤著者也陳振孫稱度晚年制閫江<lb/>
+<pb n="1b"/>
+　　　　淮著述不輟時得新意往往晨夜叩書塾為<lb/>
+　　　　友朋道之可見其學之勤矣平日與朱子葉<lb/>
+　　　　適陳傅良等相善周禮詩說皆為適所稱許<lb/>
+　　　　是編雖但因孔傳而𤼵明之然指論三代興<lb/>
+　　　　衰治亂之迹與推明執中建極等旨皆深得<lb/>
+　　　　理要非徒治章句之學者也乾隆四十五年<lb/>
+　　　　正月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+<pb n="2a"/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

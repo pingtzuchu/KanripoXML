@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2a0029_WYG_268-1a"/>
+　舊五代史巻一百三十五考證<lb/>
+僭偽列傳二劉守光傳汴人陷嬴鄚二州　鄚原本訛<lb/>
+　鄭今据歐陽史改正<lb/>
+書記馬郁　馬郁原本作馬都今据是書列傳改<lb/>
+盡斂銅錢于大安山嶺　銅錢原本作錢鏄引用錯謬<lb/>
+　今据歐陽史改正<lb/>
+即殺匠石以滅其口　案莊子石乃匠者之名詞家引<lb/>
+　用泛作工匠解者非乃紀事之文亦沿其誤殊乖史<lb/>
+<pb n="KR2a0029_WYG_268-1b"/>
+　體今姑仍原文而駁正于此<lb/>
+劉陟傳謙之長子曰隱梁開平初封大彭郡王梁祖郊<lb/>
+　禋禮畢進封南海王　案東都事略不載隱封南海<lb/>
+　王宋史不載隱封大彭郡王與是書互有詳略考五<lb/>
+　代㑹要劉隱進封南海王在開平四年<lb/>
+　<lb/>
+　<lb/>
+　舊五代史巻一百三十五考證<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

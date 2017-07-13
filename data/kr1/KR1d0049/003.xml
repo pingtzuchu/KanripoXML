@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="1a"/>
+儀禮篇第<lb/>
+　士冠禮第一<lb/>
+　士昏禮第二<lb/>
+　士相見禮第三<lb/>
+　士喪禮第四<lb/>
+　既夕第五<lb/>
+　士虞禮第六<lb/>
+　特牲饋食禮第七<lb/>
+<pb n="1b"/>
+　少牢饋食禮第八<lb/>
+　有司第九<lb/>
+　鄉飲酒禮第十<lb/>
+　鄉射禮第十一<lb/>
+　燕禮第十二<lb/>
+　大射儀第十三<lb/>
+　聘禮第十四<lb/>
+　公食大夫禮第十五<lb/>
+<pb n="2a"/>
+　覲禮第十六<lb/>
+　喪服第十七<lb/>
+　　右大戴篇第<lb/>
+　士冠禮第一<lb/>
+　士昬禮第二<lb/>
+　士相見禮第三<lb/>
+　鄉飲酒禮第四<lb/>
+　鄉射禮第五<lb/>
+<pb n="2b"/>
+　燕禮第六<lb/>
+　大射儀第七<lb/>
+　士虞禮第八<lb/>
+　喪服第九<lb/>
+　特牲饋食禮第十<lb/>
+　少牢饋食禮第十二<lb/>
+　有司第十二<lb/>
+　士喪禮第十三<lb/>
+<pb n="3a"/>
+　既夕第十四<lb/>
+　聘禮第十五<lb/>
+　公食大夫禮第十六<lb/>
+　覲禮第十七<lb/>
+　　右小戴篇第<lb/>
+　士冠禮第一<lb/>
+　士昬禮第二<lb/>
+　士相見禮第三<lb/>
+<pb n="3b"/>
+　鄉飲酒禮第四<lb/>
+　鄉射禮第五<lb/>
+　燕禮第六<lb/>
+　大射儀第七<lb/>
+　聘禮第八<lb/>
+　公食大夫禮第九<lb/>
+　覲禮第十<lb/>
+　喪禮第十一<lb/>
+<pb n="4a"/>
+　士喪禮第十二<lb/>
+　既夕第十三<lb/>
+　士虞禮第十四<lb/>
+　特牲饋食禮第十五<lb/>
+　少牢饋食禮第十六<lb/>
+　有司第十七<lb/>
+　　右劉向别録篇第鄭康成從之即今傳本是也朱<lb/>
+　　子著儀禮經傳通觧以家鄉學邦國王朝禮為次<lb/>
+<pb n="4b"/>
+　　士冠士昬屬家禮士相見鄉飲鄉射屬鄉禮<hi>於士相見</hi>
+　　<hi>禮出其見君數條入學禮臣禮篇</hi>燕大射聘公食屬邦國禮覲屬<lb/>
+　　王朝禮未卒業門人黄勉齋氏續之以喪服士喪<lb/>
+　　<hi>復既夕禮名士喪禮下</hi>士虞入喪禮特牲少牢有司入祭禮<lb/>
+　　此通觧之篇第也雖其篇目時有増益創造而先<lb/>
+　　後之次無改於其舊讀者不察遂謂此十七篇之<lb/>
+　　次似出於制禮者所定而不可易則過也案周禮<lb/>
+　　大宗伯所掌五禮曰吉禮特牲少牢有司是也曰<lb/>
+<pb n="5a"/>
+　　凶禮喪服士喪既夕士虞是也曰賔禮士相見聘<lb/>
+　　覲是也曰軍禮闕曰嘉禮冠昬鄉飲鄉射燕大射<lb/>
+　　公食是也若以是次之則與鄭本固不能無異矣<lb/>
+　　記云夫禮始於冠本於昬重於喪祭尊於朝聘和<lb/>
+　　於射鄉此禮之大體也所言之序亦復不同今以<lb/>
+　　鄭本相傳已久未敢輙為改易附識於此以俟知<lb/>
+　　者<lb/>
+　<lb/>
+<pb n="5b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　儀禮集編卷首下<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

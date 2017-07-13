@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>朝邑縣志</head>
+    <p>
+<pb n="KR2k0031_WYG_000-1a"/>
+欽定四庫全書　　　　　史部十一<lb/>
+　朝邑縣志　　　　　　　地理𩔖三<hi>都會郡縣之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案朝邑縣志二卷明韓邦靖撰邦靖<lb/>
+　　　　字汝慶號五泉朝邑人正德戊辰進士官至<lb/>
+　　　　工部員外郎是書成扵正德己夘上卷四篇<lb/>
+　　　　曰總志曰風俗曰物産曰田賦下卷三篇曰<lb/>
+　　　　名宦曰人物曰雜記上卷僅數頁下卷僅十<lb/>
+<pb n="KR2k0031_WYG_000-1b"/>
+　　　　餘頁古今志乗之簡無有過扵是書者而宏<lb/>
+　　　　綱細目包括畧備葢他志多誇飾風土而此<lb/>
+　　　　志能提其要故文省而事不漏也然叙次㸃<lb/>
+　　　　綴若有餘閒寛然無局促束縛之迹自明以<lb/>
+　　　　来推為竒作固不虚矣明代闗中輿記惟康<lb/>
+　　　　海武功縣志與此志最為有名論者謂武功<lb/>
+　　　　志體例謹嚴源出漢書此志筆墨疎宕源出<lb/>
+　　　　史記然後來志乗多以康氏為宗而此志則<lb/>
+<pb n="KR2k0031_WYG_000-2a"/>
+　　　　莫能繼軌葢所謂不可無一不容有二者也<lb/>
+　　　　前有邦靖自序又有康海序末有吕柟後序<lb/>
+　　　　及朝邑知縣陵川王道跋並文格髙潔與志<lb/>
+　　　　適相配云乾隆四十六年十月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+<pb n="KR2k0031_WYG_000-3a"/>
+朝邑縣志原序<lb/>
+余讀郡邑志盖將極天下之撰矣然益繁而不能詳晦<lb/>
+而不能白亂而不能理焉此安在於志耶夫志者記也<lb/>
+記其風土文獻之事與官乎是郡邑者可以備極其改<lb/>
+革省見其疾苦景行其已事察識其政治使天下為士<lb/>
+大夫者讀之足以興為郡邑者讀之足以勸而已然非<lb/>
+以誇靈勝之迹崇奨飾之細也而撰者之志每不皆若<lb/>
+此焉且何以觀也朝邑令陵川王君涖縣之明年以五<lb/>
+<pb n="KR2k0031_WYG_000-3b"/>
+泉韓子汝慶所撰朝邑志刻成謂予宜序諸首予讀五<lb/>
+泉子之志異而歎焉曰嗟乎此吾五泉子之所以為志<lb/>
+也歟置縣沿革與山川故蹟官署諸事惟歸諸緫志此<lb/>
+天下之所通見而不能裁者斯予之所謂繁而不詳晦<lb/>
+而不白亂而不理者矣今畢以反之矣名宦所以志其<lb/>
+官師之行事人物所以備其豪俊之餘烈其恐猶有所<lb/>
+遺而未盡也括之以雜記開卷之際凡川源改革之異<lb/>
+文獻散失之舊皆縷陳而無憾矣使郡邑之志皆若此<lb/>
+<pb n="KR2k0031_WYG_000-4a"/>
+其奚有不可也王君名道字統甫作縣而能先事于此<lb/>
+此可以徴其政也正徳己卯九月十又八日巳酉滸西<lb/>
+山人康海序<lb/>
+朝邑舊有志然不載髙御史及劉烈女事二人者代不<lb/>
+數人顧可弗録邪非也竒異如程濟善終如周彧寵任如<lb/>
+楊恭迺畧而不書沮水入渭盖數千歳近時迺徑入河<lb/>
+川源改革此其大者而弗著後之人何考焉他可知矣<lb/>
+縣尹陵川王君曰是志且不傳然烏可以但已邪迺以與<lb/>
+<pb n="KR2k0031_WYG_000-4b"/>
+五泉韓子韓子於是乎編焉夫昔人之為朝邑志也豈<lb/>
+不自以為善哉然後之人迺有議而更之者豈非一人<lb/>
+之見有時而窮邪今之志如斯也夫今人之見猶昔人<lb/>
+也夫其繁簡取與之間其可議者吾不知其有㡬也後<lb/>
+之君子各以其所見删補而更正之猶今日焉斯為全<lb/>
+志矣豈不善歟今志凡七篇正徳己卯二月六日五泉<lb/>
+韓邦靖書<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3f0026_WYG_052-1a"/>
+數學存古序<hi>附錄</hi>
+六藝古聖人用也所以開物成務垂澤將來雖然器久<lb/>
+則毁聲傳而失彼其初非不窮神盡變而後稍湮没古<lb/>
+聖人無如何也今不盡亡者數學耳數之為物不藉器<lb/>
+而存稽實待虚其道如易故禮樂代更而方圓不易書<lb/>
+契形名世殊方别而竒偶自如數之不亡不能亡也顧<lb/>
+不能亡者數僅存者數之學嘗稽漢藝文志許商算術<lb/>
+二十六卷杜忠算術十六卷唐博士肄習具有十經今<lb/>
+<pb n="KR3f0026_WYG_052-1b"/>
+略不一覩又古人製渾儀往往有書説詳徴其故又凡<lb/>
+作厯皆有測驗諸書與厯術並垂如史所載晉姜岌劉<lb/>
+宋祖冲之隋劉焯唐李淳風一行宋沈括元郭守敬著<lb/>
+撰皆富今其存逸皆不可得攷自漢趙氏周髀一經外<lb/>
+無可廣証他緯書占候傅㑹難信然則今九章者果周<lb/>
+官舊邪周官之舊既以不可知近世儒者又略之弗講<lb/>
+九數之學益以荒蕪於是泰西氏者乃始孤行其測圜<lb/>
+三角諸術以矜奇創學其學者至以大衍填寫九執未<lb/>
+<pb n="KR3f0026_WYG_052-2a"/>
+盡授時陰用回回法子雲康節之書皆為臆説而隸首<lb/>
+之術必有所窮嘻其果然邪夫謂西厯能兼古法之長<lb/>
+是也而反謂古人陰用乎西法此其説非也不觀之書<lb/>
+御乎御用於騎書用於楷楷與騎日以習而古書御亡<lb/>
+或者未考輿輪而輒以古御不如今騎未窺籕篆而謂<lb/>
+古書不及今楷遂欲駕王武子於造父尊鍾元常於蒼<lb/>
+頡過矣愚生晚不及見古人僻處山陬聞見固陋閒嘗<lb/>
+於世傳九章者稍稍論列補葺遺缺而昰正其紕繆使<lb/>
+<pb n="KR3f0026_WYG_052-2b"/>
+讀者曉然知九數之學果不盡於今所傳而其僅存者<lb/>
+猶能與泰西氏並行而不得以相廢雖不知於古人萬<lb/>
+一有當然天下之大不乏其人尚其共出枕祕以昭明<lb/>
+而光大之使古人之緒晦而復顯或由是以發其端歟<lb/>
+是愚之所望矣<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

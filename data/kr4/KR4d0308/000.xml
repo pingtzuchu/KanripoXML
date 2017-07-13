@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>提要<lb/>
+                </head>
+    <p>
+<pb n="KR4d0308_WYG_000-1a"/>
+欽定四庫全書　　　　集部四<lb/>
+　提要<lb/>
+　　東山詩選二巻　　　　别集類三<hi>宋</hi>
+　　　　<hi>臣</hi>等謹案東山詩選二巻散見永樂大典中<lb/>
+　　　　皆題葛元承撰而不著時代爵里今考集中<lb/>
+　　　　早發詩云天台今日去歩歩紫雲鄉又新昌<lb/>
+　　　　道中詩云明朝行幾里應近赤城西則當為<lb/>
+　　　　天台人矣謝鐸赤城續志載有葛紹體字元<lb/>
+<pb n="KR4d0308_WYG_000-1b"/>
+　　　　承家於黄巖甞師事永嘉葉適得其指授趙<lb/>
+　　　　希弁讀書附志亦載有葛紹體東山詩文選<lb/>
+　　　　十巻則此集即紹體所撰舊本偶題其字耳<lb/>
+　　　　惟讀書附志稱詩文選而永樂大典所載乃<lb/>
+　　　　有詩無文或文不足録為編纂者所刪歟希<lb/>
+　　　　弁又稱家大酉應繇為之序葉夢鼎䟦其後<lb/>
+　　　　及行狀墓誌原附集中今並佚不存其事蹟<lb/>
+　　　　則無可考見矣葉適水心集有贈紹體詩云<lb/>
+<pb n="KR4d0308_WYG_000-2a"/>
+　　　　數年之留能浩浩一日之别還草草念子身<lb/>
+　　　　名兩未遂令我衰病無一好又云不愁好龍<lb/>
+　　　　龍不下只愁愛玉酬石價大抵殆亦潦倒場<lb/>
+　　　　屋之士集中有與趙師秀翁巻酬贈之作故<lb/>
+　　　　其詩頗近四靈盖永嘉一𣲖以四靈為宗主<lb/>
+　　　　當時風氣如是也厲鶚撰宋詩紀事獨不載<lb/>
+　　　　紹體之名知集佚已久今據永樂大典所録<lb/>
+　　　　分體釐訂編為二巻以存其槩紹體所著又<lb/>
+<pb n="KR4d0308_WYG_000-2b"/>
+　　　　有四書述見于朱彛尊經義考註曰已佚然<lb/>
+　　　　有此一集已足以傳紹體矣乾隆四十六年<lb/>
+　　　　九月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

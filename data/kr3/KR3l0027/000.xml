@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3l0027_SBCK_000-1a"/>
+丞相魏公譚訓目録<lb/>
+　　　　　　　　　　　　長孫左朝請大夫　象先編<lb/>
+　第一卷<lb/>
+　　　國論　國政<lb/>
+　第二卷<lb/>
+　　　家世<lb/>
+　第三卷<lb/>
+　　　家學　家訓<lb/>
+　　　行已<lb/>
+　第四卷<lb/>
+<pb n="KR3l0027_SBCK_000-1b"/>
+　　　　　文學　詩什<lb/>
+　　　第五卷<lb/>
+　　　　　前言　政事<lb/>
+　　　第六卷<lb/>
+　　　　　親族　外　姻<lb/>
+　　　　　　師友　知　人<lb/>
+　　　第七卷<lb/>
+　　　　　善言　鍳裁<lb/>
+　　　　　㳺從　荐舉<lb/>
+　　　第八卷<lb/>
+<pb n="KR3l0027_SBCK_000-2a"/>
+　　　恬淡　器玩<lb/>
+　　　飲膳<lb/>
+　　第九卷<lb/>
+　　　道釋　神祠<lb/>
+　　　疾毉　卜相<lb/>
+　　第十卷<lb/>
+　　　雜事<lb/>
+　丞相魏公譚訓目錄<lb/>
+<pb n="KR3l0027_SBCK_000-2b"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

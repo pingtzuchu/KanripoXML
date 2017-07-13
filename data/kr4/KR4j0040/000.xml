@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>稼軒詞</head>
+    <p>
+<pb n="KR4j0040_WYG_000-1a"/>
+欽定四庫全書　　　　　集部十<lb/>
+　稼軒詞　　　　　　　　詞曲類一<hi>詞集之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案稼軒詞四巻宋辛棄疾撰棄疾有<lb/>
+　　　　南燼紀聞已著錄其詞慷慨縱横有不可一<lb/>
+　　　　世之概于倚聲家為變調而異軍特起能於<lb/>
+　　　　翦紅刻翠之外屹然別立一宗迄今不廢觀<lb/>
+　　　　其才氣俊邁雖似乎奮筆而成然岳珂桯史<lb/>
+<pb n="KR4j0040_WYG_000-1b"/>
+　　　　記棄疾自誦賀新涼永遇樂二詞使座客指<lb/>
+　　　　摘其失珂謂賀新涼詞首尾二腔語句相似<lb/>
+　　　　永遇樂詞用事太多棄疾乃自改其語日數<lb/>
+　　　　十易累月猶未竟其刻意如此云云則未始<lb/>
+　　　　不由苦思得矣書錄解題載稼軒詞四巻又<lb/>
+　　　　云信州本十二巻視長沙本為多此本為毛<lb/>
+　　　　晉所刻亦為四巻而其總目又注原本十二<lb/>
+　　　　巻殆即就信州本而合併之歟其集舊多訛<lb/>
+<pb n="KR4j0040_WYG_000-2a"/>
+　　　　異如二巻内醜奴兒近一闋前半是本調殘<lb/>
+　　　　闕不全自飛流萬壑以下則全首係洞仙歌<lb/>
+　　　　葢因洞仙歌五闋即在此調之後舊本遂誤<lb/>
+　　　　割第一首以補前詞之闕而五闋之洞仙歌<lb/>
+　　　　遂止存其四近萬樹詞律中辨之甚明此本<lb/>
+　　　　尚未及訂正其中歎輕衫帽㡬許紅塵句据<lb/>
+　　　　其文義帽字上尚有一脱字樹亦未經勘及<lb/>
+　　　　斯足證掃葉之喻矣今並詳為勘定其必不<lb/>
+<pb n="KR4j0040_WYG_000-2b"/>
+　　　　可通而無別本可證者則姑從闕疑之義焉<lb/>
+　　　　乾隆四十四年二月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

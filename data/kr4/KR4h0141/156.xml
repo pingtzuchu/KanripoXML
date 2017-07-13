@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_156-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選卷一百五十六<lb/>
+　　布帛類<lb/>
+　　　五言古<lb/>
+　　　　素絲　　　　　　　　　　<hi>唐</hi>陸龜䝉<lb/>
+　園客麗獨繭詩人吟五緵如何墨子見反以悲途窮我<lb/>
+　意豈如是願參天地功為綫補君衮為絃繫君桐左右<lb/>
+　脩闕職宮商還古風端然潔白心可與神明通<lb/>
+<pb n="KR4h0141_WYG_156-1b"/>
+　　　七言古<lb/>
+　　　　白絲行　　　　　　　　　<hi>唐</hi>杜　甫<lb/>
+　繰絲須長不須白越羅蜀錦金粟尺象牀玉手亂殷紅<lb/>
+　萬草千花動凝碧已悲素質隨時染裂下鳴機色相射<lb/>
+　美人細意熨帖平裁縫滅盡針線跡春天衣著為君舞<lb/>
+　蛺蝶飛來黄鸝語落絮遊絲亦有情隨風照日宜輕舉<lb/>
+　香汗清塵汚顔色開新合故置何許君不見才士汲引<lb/>
+　難恐懼棄捐忍覉旅<lb/>
+<pb n="KR4h0141_WYG_156-2a"/>
+　　　東川清絲寄魯冀州戲贈　　<hi>宋</hi>蘇　軾<lb/>
+鵞谿清絲清如氷上有千歳交枝藤藤生谷底飽風雪<lb/>
+歲晩忽作龍蛇升嗟我雖為老侍從骨寒只受布與繒<lb/>
+牀頭錦衾未還客坐覺芒刺在背膺豈如<graphic n="KR1046" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1046.png" mimeType="image/png"/>卿晩乃貴<lb/>
+福禄正似川方増醉中倒著紫綺裘下有半臂出縹綾<lb/>
+封題不敢妄裁剪刀尺自有佳人能遥知千騎出清曉<lb/>
+積雪未放浮塵興白鬚紅帶柳絲下老弱空巷人相登<lb/>
+但放竒紋出領袖吾<graphic n="KR1046" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1046.png" mimeType="image/png"/>雖老無人憎<lb/>
+<pb n="KR4h0141_WYG_156-2b"/>
+　　五言律<lb/>
+　　　羅　　　　　　　　　　　<hi>唐</hi>李　嶠<lb/>
+妙舞隨裙動行歌入扇清蓮花依帳發秋月鍳帷明雲<lb/>
+薄衣初捲蟬飛翼轉輕若珍三代服同擅綺紈名<lb/>
+　　　布　　　　　　　　　　　　李　嶠<lb/>
+御績創羲皇緇冠表素王瀑飛臨碧海火浣擅炎方孫<lb/>
+被登三相劉衣闡四方佇因舂斗粟來曉棣華芳<lb/>
+　　五言排律<lb/>
+<pb n="KR4h0141_WYG_156-3a"/>
+　　　恩賜耆老布帛　　　　　　<hi>唐</hi>崔　樞<lb/>
+殊私及耆老聖德振黎元布帛忻天賜生涯拜主恩情<lb/>
+均皆挾纊禮異賁丘園慶洽時方泰仁沾月告存寧知<lb/>
+酬雨露空識荷乾坤擊壤將何幸徘徊望九門<lb/>
+　　七言絶句<lb/>
+　　　鮫綃　　　　　　　　　　<hi>唐</hi>吳　融<lb/>
+雲供片叚月供光貧女寒機枉自忙若道不蠶能致此<lb/>
+海邊何事有扶桑<lb/>
+<pb n="KR4h0141_WYG_156-3b"/>
+　　　髙氏姊惠素羅　　　　　　<hi>元</hi>鄭允端<lb/>
+雪色香羅照眼明阿兄寄贈見深情明朝急為裁春服<lb/>
+相約麻姑禮上清<lb/>
+　　　寄絹陳雲泉　　　　　　　<hi>明</hi>陸　釴<lb/>
+白米新炊夜夜香糟牀應聽雨淋浪只愁濕却陶公葛<lb/>
+為寄官家壓酒囊<lb/>
+　　　送賣水絮人過萬州　　　　<hi>明</hi>湯顯祖<lb/>
+江西水絮白輕微殘臘天南正葛衣見說先朝曽雨雪<lb/>
+<pb n="KR4h0141_WYG_156-4a"/>
+　㯽榔寒落凍雲飛<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR4h0141_WYG_156-4b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選卷一百五十六<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

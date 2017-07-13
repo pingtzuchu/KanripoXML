@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>金陵百詠</head>
+    <p>
+<pb n="KR4d0271_WYG_000-1a"/>
+欽定四庫全書　　　　　集部四<lb/>
+　金陵百詠　　　　　　　别集類三<hi>宋</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案金陵百詠一巻宋曽極撰極字景<lb/>
+　　　　建臨川布衣晚以江湖集事得罪謫道州卒<lb/>
+　　　　所著有舂陵小雅今已不傳此乃其詠建康<lb/>
+　　　　古蹟之作皆七言絶句凡一百首詞㫖悲壯<lb/>
+　　　　有磊落不覊之氣嘗録寄羅椅枸謝以書云<lb/>
+<pb n="KR4d0271_WYG_000-1b"/>
+　　　　不知景建是何肺腑能辨此等惱人語於千<lb/>
+　　　　載下今觀其詩如天門山云髙屋建瓴無計<lb/>
+　　　　取二梁剛把當殽函新亭云江右于今成樂<lb/>
+　　　　土新亭垂淚亦無人大抵皆以南渡君臣畫<lb/>
+　　　　江自守無志中原而作其寓意頗為深切豫<lb/>
+　　　　章人物志載極逰金陵題行宫龍屏忤時相<lb/>
+　　　　史　逺以是獲譴是編有畫龍屏風一首云<lb/>
+　　　　乗雲逰霧過江東繪事當年笑葉公可恨横<lb/>
+<pb n="KR4d0271_WYG_000-2a"/>
+　　　　空千丈勢剪裁今入小屏風與人物志所紀<lb/>
+　　　　相合葢其憤激之詞雖不無過於徑直而淋<lb/>
+　　　　漓感慨與劉過龍洲集氣格往往相同固不<lb/>
+　　　　徒以模山範水為工者也劉壎隠居通議摘<lb/>
+　　　　其中可惜當年殺嚴續無人為益决囚燈二<lb/>
+　　　　語謂續始終全美未嘗被殺不免誤用故事<lb/>
+　　　　考資治通鑑載陳覺使周還矯世宗詔命李<lb/>
+　　　　景殺嚴續景表請於周明續無罪覺詐始露<lb/>
+<pb n="KR4d0271_WYG_000-2b"/>
+　　　　而續得免是續寔未被殺壎所駁良是究其<lb/>
+　　　　致謬之由葢以姚寛西溪叢語有鍾謨奉使<lb/>
+　　　　歸唐以陳覺矯周帝之命斬嚴續事言於唐<lb/>
+　　　　主云云所言不具首尾極遂以為寔有是事<lb/>
+　　　　也又決囚燈事以中主誤為後主亦為乖舛<lb/>
+　　　　是則考證之偶疎固不必為之諱矣乾隆四<lb/>
+　　　　十六年五月恭校上<lb/>
+　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+<pb n="KR4d0271_WYG_000-3a"/>
+　　　　　　　　　　總　校　官臣陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

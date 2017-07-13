@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2a0029_WYG_040-1a"/>
+　舊五代史巻十九攷證<lb/>
+列傳九氏叔琮傳太祖伐襄陽叔琮失利　案舊唐書<lb/>
+　光化元年汴將氏叔琮陷趙匡凝之隨唐鄧等州是<lb/>
+　書趙巨凝傳亦云太祖遣氏叔琮伐之匡凝懼乞盟<lb/>
+　是役也實以勝歸而叔琮本傳獨言失利未知所據<lb/>
+令就襄陵縣牧馬于道間　案襄陵原本作襄陽今據<lb/>
+　歐陽史改正<lb/>
+貶白州司户　案舊唐書作貝州<lb/>
+<pb n="KR2a0029_WYG_040-1b"/>
+與氏叔琮同日賜死　案此朱友恭事是書及歐陽史<lb/>
+　通鑑俱同北夢瑣言作友諒誤<lb/>
+王重師傳潁州長社人也　潁州歐陽史作許州<lb/>
+太祖異其狀貎乃𨽻其拔山都　案拔山原本作技山<lb/>
+　歐陽史作㧞山攷當時軍旅皆以都名如黒雲都銀<lb/>
+　搶都效節都横街都之類今從歐陽史改正并増入<lb/>
+　都字<lb/>
+朱珍傳敗樂從訓萬餘人　案通鑑作樂從訓來告急<lb/>
+<pb n="KR2a0029_WYG_040-2a"/>
+　遣都輝使朱珍等分兵救從訓與此傳異<lb/>
+李重𦙍傳于是與李讜並戮于河橋　案原本脫與字<lb/>
+　今増入<lb/>
+范居實傳與葛從周張存敬率兵救魏　案原本脱從<lb/>
+　字今増入<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2a0029_WYG_040-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　舊五代史卷十九攷證<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

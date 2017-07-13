@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>明詩綜</head>
+    <p>
+<pb n="KR4h0156_WYG_000-1a"/>
+欽定四庫全書　　　　　集部八<lb/>
+　明詩綜　　　　　　　　總集類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案明詩綜一百巻<lb/>
+　　　國朝朱彞尊編彞尊有經義考已著録明之詩<lb/>
+　　　　派始終三變洪武開國之初人心渾朴一洗<lb/>
+　　　　元季之綺靡作者各抒所長無門户異同之<lb/>
+　　　　見永樂以迄化治沿三楊臺閣之體務以舂<lb/>
+<pb n="KR4h0156_WYG_000-1b"/>
+　　　　容和雅歌詠太平其弊也冗沓膚廓萬喙一<lb/>
+　　　　音形模徒具興象不存是以正徳嘉靖隆慶<lb/>
+　　　　之間李夢陽何景明等崛起於前李攀龍王<lb/>
+　　　　世貞等奮發於後以復古之説遞相唱和導<lb/>
+　　　　天下無讀唐以後書天下嚮應文體一新七<lb/>
+　　　　子之名遂竟奪長沙之壇坫漸久而摹擬剽<lb/>
+　　　　竊百弊俱生厭故趨新别開蹊徑萬厯以後<lb/>
+　　　　公安倡䜟詭之音竟陵標幽冷之趣么弦側<lb/>
+<pb n="KR4h0156_WYG_000-2a"/>
+　　　　調嘈囋爭鳴佻巧蕩乎人心哀思闗乎國運<lb/>
+　　　　而明社亦於是乎屋矣大抵二百七十年中<lb/>
+　　　　主盟者遞相盛衰偏祖者互相左右諸家選<lb/>
+　　　　本亦遂皆堅持畛域各尊所聞至錢謙益列<lb/>
+　　　　朝詩集出以記醜言偽之才濟以黨同伐異<lb/>
+　　　　之見逞其恩怨顛倒是非黒白混淆無復公<lb/>
+　　　　論彞尊因衆情之弗協乃編纂此書以糾其<lb/>
+　　　　謬每人皆畧叙始末不横牽他事巧肆譏彈<lb/>
+<pb n="KR4h0156_WYG_000-2b"/>
+　　　　里貫之下各備載諸家評論而以所作靜志<lb/>
+　　　　居詩話附於後雖隆萬以後所收未免稍繁<lb/>
+　　　　然世逺者篇章易佚時近者部帙多存當亦<lb/>
+　　　　隨所見聞不盡出於標榜其所評品亦頗持<lb/>
+　　　　平於舊人私憎私愛之談往往多所匡正六<lb/>
+　　　　七十年以來謙益之書巳澌滅無遺而彞尊<lb/>
+　　　　此編獨為詩家所傳誦亦人心彞秉之公有<lb/>
+　　　　不知其然而然者矣乾隆四十六年四月恭<lb/>
+<pb n="KR4h0156_WYG_000-3a"/>
+　　　　　校上<lb/>
+　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

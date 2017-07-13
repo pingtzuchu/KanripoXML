@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4f0001_WYG_026-1a"/>
+　欽定四庫全書<lb/>
+聖祖仁皇帝御製文集巻十一目録<lb/>
+　　勅諭<lb/>
+　　　　諭大學士勒德洪明珠李霨杜立德馮溥<lb/>
+　　　　諭翰林院掌院學士庫勒納等<lb/>
+　　　　諭侍郎宜昌阿<lb/>
+　　　　諭兵部<lb/>
+　　　　諭盛京將軍安褚䕶<lb/>
+<pb n="KR4f0001_WYG_026-1b"/>
+　　　　諭吏部<lb/>
+　　　　諭三法司<lb/>
+　　　　諭翰林院<lb/>
+　　　　諭吏部都察院<lb/>
+　　　　諭都察院<lb/>
+　　　　諭大學士明珠<lb/>
+　　　　諭大學士明珠<lb/>
+　　　　諭户部<lb/>
+<pb n="KR4f0001_WYG_026-2a"/>
+　　　諭戸部<lb/>
+　　　諭大學士勒德洪明珠李霨馮溥學士噶爾圖<lb/>
+　　　　希福格爾古德李光地張玉書<lb/>
+　　　諭戸部<lb/>
+　　　諭禮部<lb/>
+　　　諭侍講高士竒<lb/>
+　　　諭兵部<lb/>
+　　　諭吏兵二部<lb/>
+<pb n="KR4f0001_WYG_026-2b"/>
+　　　諭戸部<lb/>
+　　　諭戸部<lb/>
+　　　諭大學士勒德洪明珠<lb/>
+　　　諭禮部<lb/>
+　　　諭戸部尚書伊桑阿侍郎額庫禮<lb/>
+　　　諭禮部<lb/>
+　　　諭吏兵二部<lb/>
+　　　諭禮部<lb/>
+<pb n="KR4f0001_WYG_026-3a"/>
+　　　諭奉天將軍安褚䕶<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

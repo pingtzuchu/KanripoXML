@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>羅昭諫集</head>
+    <p>
+<pb n="KR4c0106_WYG_000-1a"/>
+欽定四庫全書　　　　　　集部二<lb/>
+　羅昭諫集　　　　　　　别集類一<hi>唐</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹按羅昭諫集八巻唐羅隠撰隠有兩<lb/>
+　　　　同書巳著録考吴越備史隠本傳云隠江東<lb/>
+　　　　甲乙集淮海寓言及讒書後集並行于世鄭<lb/>
+　　　　樵通志藝文畧載羅隠集二十巻後集三巻<lb/>
+　　　　又有吴越掌記集三巻至陳振孫書録觧題<lb/>
+<pb n="KR4c0106_WYG_000-1b"/>
+　　　　則甲乙集僅十巻而後集反有五巻又多湘<lb/>
+　　　　南集三巻且注甲乙集皆詩後集有律賦數<lb/>
+　　　　首湘南集乃長沙幕中應用之文隠又有淮<lb/>
+　　　　海寓言及䜛書等求之未獲云云據此則不<lb/>
+　　　　特吴越掌記集不傳即淮海寓言䜛書二種<lb/>
+　　　　振孫且不得見矣此本為康熈初彭城知縣<lb/>
+　　　　張瓉所刻後有瓉跋云昭諫諸集今不復見<lb/>
+　　　　僅得江東集抄本于邑人袁英家嗣後得甲<lb/>
+<pb n="KR4c0106_WYG_000-2a"/>
+　　　　乙集刻本合而讀之雖全集不獲盡覩窺豹<lb/>
+　　　　者已得一斑矣盖出於後人所掇捨非舊帙<lb/>
+　　　　也所載詩四巻又有雜文一巻詩與毛晋所<lb/>
+　　　　刻甲乙集合雜文則不知原在何集其湘南<lb/>
+　　　　集僅存自序一篇列于巻中序謂湘南文失<lb/>
+　　　　落于馬上軍前僅分三巻而舉業詞祭之文<lb/>
+　　　　惟諸啓多作于湖南或即湘南集中之遺歟<lb/>
+　　　　文苑英華有隠秋雲似羅賦一篇盖即後集<lb/>
+<pb n="KR4c0106_WYG_000-2b"/>
+　　　　之律賦此本失載則所採亦尚遺漏矣第七<lb/>
+　　　　巻末一篇為廣陵妖亂志前十一篇疑即淮<lb/>
+　　　　海寓言之文也第八巻有兩同書十篇唐志<lb/>
+　　　　著録其説以儒道為一致故曰兩同似乎䜛<lb/>
+　　　　書之外又有此書者其異同則不可考矣隠<lb/>
+　　　　不得志于唐迨唐之亡也梁主以諫議大夫<lb/>
+　　　　召之拒不應又力勸錢謬討梁事雖不成君<lb/>
+　　　　子韙之其詩如徐寇南逼感事獻江南知巳<lb/>
+<pb n="KR4c0106_WYG_000-3a"/>
+　　　　一首即事中元甲子一首中元甲子以辛丑<lb/>
+　　　　駕幸蜀四首皆忠憤之氣溢于言表視同時<lb/>
+　　　　李山甫杜荀鶴輩有鸞梟之分雖殘闕之餘<lb/>
+　　　　猶為藝林所寳重殆有由矣乾隆四十三年<lb/>
+　　　　二月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　　校　　官<hi>臣</hi>陸費墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

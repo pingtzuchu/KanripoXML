@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2m0039_WYG_054-1a"/>
+欽定四庫全書<lb/>
+欽定南巡盛典卷三十八<lb/>
+　河防<lb/>
+　　乾隆二十二年二月初六日傅恒等奏言遵<lb/>
+㫖將南河河務一事與尹繼善嵇璜等公同酌議現在毛<lb/>
+　　城舖業經奉<lb/>
+㫖堵閉將来黄流順軌直赴下游河身自可漸就疏刷<lb/>
+　　但徐州南北兩岸當上游之首衝北岸孫家集現<lb/>
+<pb n="KR2m0039_WYG_054-1b"/>
+　　已築有草壩其汕刷支河務湏查勘填築而南岸<lb/>
+　　隄工更宜迅為加幫以資捍禦至洪湖五壩所以<lb/>
+　　宣洩湖水其智信二<graphic n="KR0309" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0309.png" mimeType="image/png"/>曽經奉有<lb/>
+諭㫖非遇盛漲不得遽開但五<graphic n="KR0309" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0309.png" mimeType="image/png"/>過水既多而下游承<lb/>
+　　受僅髙郵之車邏等三<graphic n="KR0309" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0309.png" mimeType="image/png"/>未免来多去少應於昭<lb/>
+　　闗地方復設渷<graphic n="KR0309" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0309.png" mimeType="image/png"/>滚<graphic n="KR0309" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0309.png" mimeType="image/png"/>之下開一支河更將南闗<lb/>
+　　舊<graphic n="KR0309" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0309.png" mimeType="image/png"/>改建滚水石<graphic n="KR0309" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0309.png" mimeType="image/png"/>其規制便與髙堰五壩相應<lb/>
+　　再歸江諸河業於上年開挑現在疏通而范公隄<lb/>
+<pb n="KR2m0039_WYG_054-2a"/>
+　　諸閘之下入海河道應否設立閘座應請一併交<lb/>
+　　與臣嵇璜㑹同白鍾山逐一相度情形請<lb/>
+㫖遵行奏入<lb/>
+上諭曰知道了著嵇璜明日就去<lb/>
+　　乾隆二十二年二月二十七日白鍾山嵇璜奏言<lb/>
+　　竊<hi>臣</hi>同河東河<hi>臣</hi>張師載将銅沛㕔屬黄河一帶<lb/>
+　　應築應堵應疏各工親往逐一查看偹細繕摺具<lb/>
+　　奏恭請<lb/>
+<pb n="KR2m0039_WYG_054-2b"/>
+聖訓辦理<hi>臣</hi>於本月十三日回至徐州工次適副總河<lb/>
+　　<hi>臣</hi>嵇璜来徐奉<lb/>
+㫖河南工務一摺令<hi>臣</hi>閱看㑹同覆<lb/>
+　奏<hi>臣</hi>跪聆<lb/>
+天語洞悉全河機宜無㣲不燭實為萬世治河不易之<lb/>
+　　良規竊查洪澤湖五壩共寛三百二十餘丈髙郵<lb/>
+　　車邏等三<graphic n="KR0309" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0309.png" mimeType="image/png"/>僅寛不滿二百丈誠如<lb/>
+聖訓来多去少難免壅遏之患自應上下相應方無偏<lb/>
+<pb n="KR2m0039_WYG_054-3a"/>
+　　枯之虞今軍機大臣等所議於昭闗<graphic n="KR0309" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0309.png" mimeType="image/png"/>地方復設<lb/>
+　　滚<graphic n="KR0309" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0309.png" mimeType="image/png"/>開一支河更将南闗舊<graphic n="KR0309" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0309.png" mimeType="image/png"/>改建滚水石<graphic n="KR0309" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0309.png" mimeType="image/png"/>其<lb/>
+　　規制與髙堰五壩相應計其来源籌其去路實屬<lb/>
+　　量入為出之道深合機宜至范公隄諸閘之下入<lb/>
+　　海河道應否設立閘座并令同<hi>臣</hi>逐一相度情形<lb/>
+　　妥協籌畫請<lb/>
+㫖遵行敢不凛遵悉心籌辦仰體<lb/>
+聖主厪念河防之至意但<hi>臣</hi>離南河日乆恐水勢河道<lb/>
+<pb n="KR2m0039_WYG_054-3b"/>
+　　情形較前不同未敢懸揣忘議容<hi>臣</hi>将黄河上游<lb/>
+　　各工辦有就緒星即馳赴下游一帶細加查勘務<lb/>
+　　期籌酌萬妥恭<lb/>
+　奏請<lb/>
+㫖遵行抑臣更有請者髙寳諸湖上承洪澤湖並天長<lb/>
+　　六合之水滙歸於運河由運河諸壩分趨下注江<lb/>
+　　海向来臨湖西岸設有出水港口二三十座導水<lb/>
+　　入運由港口東趨以資宣洩最為𦂳要若俟伏秋<lb/>
+<pb n="KR2m0039_WYG_054-4a"/>
+　　大汛洪澤湖水甚漲之時始行開放則五壩齊趨<lb/>
+　　髙寳諸湖勢不能容納往往洶湧奔注盈堤溢岸<lb/>
+　　穿運而東無怪乎興鹽髙寳窪下之處不能容受<lb/>
+　　即地勢少髙之所亦難免淹漫之虞與其蓄之於<lb/>
+　　平時使湖河之水盈滿莫若預為籌畫陸續宣洩<lb/>
+　　庶免驟漲之水一時并注為害<hi>臣</hi>前任南河時曽<lb/>
+　　經<lb/>
+　奏明於桃汛時視湖河水勢細察情形如河水足資<lb/>
+<pb n="KR2m0039_WYG_054-4b"/>
+　　濟運毋庸蓄水即先將西岸瀉髙寳湖水之港口<lb/>
+　　預為酌量開放俾湖水日逐宣洩其勢自減而湖<lb/>
+　　靣騰出以待洪湖盛漲五<graphic n="KR0309" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0309.png" mimeType="image/png"/>減下之水亦可容納<lb/>
+　　湖河之水循序滙歸江海不但下河地方不致受<lb/>
+　　淹且藉此循序下注之水可以挿秧種稻較之壅<lb/>
+　　滯偏髙陡然開放一時驟漲迥不相同仰䝉<lb/>
+聖允今可否仍照前例預將出水港口先為開放以資<lb/>
+　　陸續宣洩之處伏乞<lb/>
+<pb n="KR2m0039_WYG_054-5a"/>
+皇上<lb/>
+訓示遵行奏入<lb/>
+上諭曰允行照辦<lb/>
+　　乾隆二十二年五月初三日夢麟徳爾敏尹繼善<lb/>
+　　白鍾山嵇璜奏言竊照江南黄河至徐州漸窄逼<lb/>
+　　近城垣北岸蘇家山一帶又復𦂳束大溜形勢甚<lb/>
+　　險仰䝉<lb/>
+皇上軫念民瘼親臨閱視指授方畧以近城石壩最為<lb/>
+<pb n="KR2m0039_WYG_054-5b"/>
+　　𦂳要令將從前已有者加帮以培其勢從前所無<lb/>
+　　者接築以重其防不惜帑項興舉鉅工仰見我<lb/>
+皇上智炳㡬先酌籌盡善從此鞏固河防永資利賴徐<lb/>
+　　州紳耆士庶感激<lb/>
+天恩歡呼動地兹<hi>臣</hi>等率同該道等凛遵<lb/>
+皇上指示機宜逐一詳細查勘東門一帶原無石工之<lb/>
+　　處自四大王廟迤東拐角樓石磯<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>至人家頭止<lb/>
+　　應接修石工三叚計長一千三十丈五尺又西門<lb/>
+<pb n="KR2m0039_WYG_054-6a"/>
+　　外奶奶廟迤西至韓家山埽工後止應接修石工<lb/>
+　　長五百三十四丈五尺共應増建石工一千五百<lb/>
+　　六十五丈所需石料十一萬餘丈於就近蘇家山<lb/>
+　　王家山等處採取濟用核計各項工料共約需銀<lb/>
+　　二十三萬餘兩但此處河身窄狭溜勢湧急必湏<lb/>
+　　修建堅固始能垂之永乆應請照依乾隆十八年<lb/>
+　　堰盱石工之例加添汁米石灰鐵銷並甎後築打<lb/>
+　　灰土方足以資捍禦又約估増添銀二萬餘兩通<lb/>
+<pb n="KR2m0039_WYG_054-6b"/>
+　　共約需銀二十六萬餘兩<hi>臣</hi>等已遴選幹員分投<lb/>
+　　採辦尅期儧運仍多委員弁上𦂳查催早為預偹<lb/>
+　　齊全俟九月内霜降水落之時開槽興工一舉集<lb/>
+　　事其舊石工内有應需収拾粘補者亦即查一明一<lb/>
+　　併估辦庶大工新舊一律整齊錢糧俱歸實用以<lb/>
+　　仰副我<lb/>
+皇上慎重河防至意奏入<lb/>
+上諭曰好如議行<lb/>
+<pb n="KR2m0039_WYG_054-7a"/>
+　　乾隆二十二年六月十三日山東巡撫鶴年奏言<lb/>
+　　竊<hi>臣</hi>等奉<lb/>
+命㑹查東省兖属積水於五月二十一日抵濟寧随乘<lb/>
+　　駕小舟遍厯被水村莊由濟寧之牛頭河金鄉之<lb/>
+　　水田寺魚臺之谷停鎮沙河滕縣之戚城嶧縣之<lb/>
+　　韓莊並抵沛縣之夏鎮銅山縣之欒旺村周環查<lb/>
+　　視查得五属地畆界連南陽昭陽㣲山等湖本属<lb/>
+　　低窪雨水過多上游曹單鉅嘉等邑之水自西而<lb/>
+<pb n="KR2m0039_WYG_054-7b"/>
+　　来滙聚合流東則汶泗沂洸等河入運之水復洩<lb/>
+　　入在西之南陽昭陽轉輪透流而總滙於㣲山一<lb/>
+　　湖查㣲山湖出水之路有二一由韓荘湖口閘入<lb/>
+　　運一由茶城及小梁山一帶㑹荆山橋入江南運<lb/>
+　　河向來有此等處去路是以伏秋水勢雖大消落<lb/>
+　　亦易自黄河北岸石林口漫溢之後茶城一河漸<lb/>
+　　有沙淤迨上年孫家集黄河全溜直奔荆山橋而<lb/>
+　　小梁山之河又加淤塞止有湖口一閘藉以消洩<lb/>
+<pb n="KR2m0039_WYG_054-8a"/>
+　　復因孫家集漫流入湖較往年更甚以致湖水益<lb/>
+　　増倒漾而北兖属等處瀕湖村莊田畆盡被淹沒<lb/>
+　　兼以運河自石佛閘以下厯年汶泗等河發水亦<lb/>
+　　大流沙停淤河底漸淺不能容受遂成内外相抵<lb/>
+　　之勢河湖連為一片積聚難消荷䝉<lb/>
+皇上軫念民依将孫家集来水大加堵築固已截住來<lb/>
+　　源而消涸有期矣今嵗春間復䝉<lb/>
+天恩特發帑金将小梁山至荆山橋口之舊河逐加挑<lb/>
+<pb n="KR2m0039_WYG_054-8b"/>
+　　挖是以髙阜地畆漸次涸出現將已涸未涸頃畆<lb/>
+　　數目<hi>臣</hi>鶴年另列清单恭呈<lb/>
+御覽但查自三月二十八日至今五月之杪湖水僅消<lb/>
+　　一尺六寸不特東省積水尚多未涸即附近之江<lb/>
+　　南銅沛二縣地畆亦為湖水所淹未見涸退<hi>臣</hi>等<lb/>
+　　詳按情形偹訪輿論現今小梁山之河雖已開挖<lb/>
+　　而荆山橋出水仍未深暢茶城一河現在築<graphic n="KR0309" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0309.png" mimeType="image/png"/>挑<lb/>
+　　濬尚未竣工又聞江南中河之雙閘及駱馬湖六<lb/>
+<pb n="KR2m0039_WYG_054-9a"/>
+　　塘河現因重運經行亦未啓放是以湖水難消不<lb/>
+　　能暢流<hi>臣</hi>查治水先須下游通利而後上游有所<lb/>
+　　宣洩必俟茶城開壩流通無阻而六塘河又加疏<lb/>
+　　濬駱馬湖水得以東下五州縣積潦始得遞次掣<lb/>
+　　減<hi>臣</hi>等現飭地方官将各涸出之地先行寛裕借<lb/>
+　　給籽種趕種雜粮其将涸未涸之地俟稍可用功<lb/>
+　　亦飭酌量情形各開溝塘俾水有所歸而地亦可<lb/>
+　　漸露惟一片汪洋水勢深廣之區非宣洩有路不<lb/>
+<pb n="KR2m0039_WYG_054-9b"/>
+　　能即行減退<hi>臣</hi>等復集父老細加講求或言利國<lb/>
+　　驛西欒旺河應挑河九十里歸入江南運河或言<lb/>
+　　湖口閘之南應挑挖伊河四里仍入韓荘運河或<lb/>
+　　言韓荘南七八里之伊家河舊有河形應就此河<lb/>
+　　挑濬入運<hi>臣</hi>等按其所説俱親詣各該處確勘情<lb/>
+　　形欒旺一路山麓層疊不可開鑿湖口閘南一路<lb/>
+　　相距運河止四里即便開通亦不能大有宣洩惟<lb/>
+　　伊家河一路相度地勢較之他處似属有益但茶<lb/>
+<pb n="KR2m0039_WYG_054-10a"/>
+　　城現在興工六塘河亦宜疏濬此兩處將來若能<lb/>
+　　暢流則湖水之出荆山橋者即無阻滯而運河之<lb/>
+　　出駱馬湖者又由六塘河傍洩東省積水自當漸<lb/>
+　　次消涸伊家河一路即可停止毋庸多費工作現<lb/>
+　　在<hi>臣</hi>鶴年一面飭委布政司㑹同運河道差諳練<lb/>
+　　人員測量地勢水面尺寸詳議㑹核外俟臣裘曰<lb/>
+　　修查看歸徳及宿虹等處事畢仍囬東省再行詳<lb/>
+　　加籌計應否仍需辦理另行㑹同江南豫東督臣<lb/>
+<pb n="KR2m0039_WYG_054-10b"/>
+　　河臣撫臣熟商妥議具<lb/>
+　奏總之於民生地方果有禆益不敢不留心採辦亦<lb/>
+　　不敢輕舉妄動為有損無益之事所有㑹同勘過<lb/>
+　　積水情形謹繕摺恭<lb/>
+　奏伏祈<lb/>
+皇上睿鍳<lb/>
+訓示遵行又現今運河淤淺堤岸斷續之處<hi>臣</hi>等正籌<lb/>
+　　議間適河臣張師載自徐州至韓莊與<hi>臣</hi>等所議<lb/>
+<pb n="KR2m0039_WYG_054-11a"/>
+　　意見相同據云應俟水勢消減即將㫁續之堤岸<lb/>
+　　淤澁之河道確估修治㑹同<hi>臣</hi>鶴年另行摺<lb/>
+　奏合併聲明奏入報<lb/>
+聞<lb/>
+　　乾隆二十二年六月二十四日江南協辦河道總<lb/>
+　　督嵇璜奏言竊<hi>臣</hi>凛遵<lb/>
+皇上諭㫖前徃下河率同何煟悉心詳勘淮揚運河東<lb/>
+　　堤減入下河之水自邵伯以北者皆歸海邵伯以<lb/>
+<pb n="KR2m0039_WYG_054-11b"/>
+　　南者皆歸江縁邵伯迤東地脉髙阜天然限制各<lb/>
+　　有分途若欲使之向若歸虚必順其就下之性<hi>臣</hi>
+　　查下河歸海之路從前所建各閘丁溪小海地勢<lb/>
+　　外髙不能洩水其草堰劉荘伍祐新興等場皆得<lb/>
+　　地勢之宜分注闘龍港新洋港等口歸海惟查劉<lb/>
+　　莊場之大圑閘至新興場之石䃮閘相距五十五<lb/>
+　　里中間並無一閘應請於伍祐場之沿窪口蔡家<lb/>
+　　巷地方添建五孔石閘二座開挑上下支河引歸<lb/>
+<pb n="KR2m0039_WYG_054-12a"/>
+　　新洋港入海又查石䃮閘天妃越閘兩牆裹頭尾<lb/>
+　　土俱已塌卸應請一併修補堅固又各閘下支河<lb/>
+　　年乆淤淺現在比閘底髙二三尺至四五尺不等<lb/>
+　　應請勘估興挑又沿海港口現俱深通惟射陽湖<lb/>
+　　灣曲太大洩水不暢竟有東西僅隔里許而南北<lb/>
+　　繞一大灣至數十里者應請勘估挑通俾得徑㨗<lb/>
+　　歸海至於串場河以西河渠甚多其導水順而現<lb/>
+　　今淤塞者如泰州之孔家涵塩城之岡溝河皮岔<lb/>
+<pb n="KR2m0039_WYG_054-12b"/>
+　　河三處應需疏濬深通以資利導又髙寳運河東<lb/>
+　　堤原設石閘十餘座水大則藉以洩水歸海水小<lb/>
+　　則藉以灌溉民田甚為有益今查郎兒閘子嬰南<lb/>
+　　閘并邵伯之三閘年久傾圮應請拆修以利啓閉<lb/>
+　　以上皆下河歸海之路苐查下河州縣本係水鄉<lb/>
+　　形如釡底每遇霖雨兼旬即遭渰漫若髙郵諸<graphic n="KR0309" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0309.png" mimeType="image/png"/>
+　　過水太多盈科漸進方能歸海而下河已不免泛<lb/>
+　　溢查湖河水勢歸江近而歸海逺歸海紆廻而歸<lb/>
+<pb n="KR2m0039_WYG_054-13a"/>
+　　江徑直多一分入江之路即少一分歸海之水<hi>臣</hi>
+　　查運河歸江之路芒稻閘董家溝石羊溝廖家溝<lb/>
+　　四處閘<graphic n="KR0309" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0309.png" mimeType="image/png"/>共寛八十六丈邵伯以南運河東隄舊<lb/>
+　　設有金灣六閘金灣滚<graphic n="KR0309" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0309.png" mimeType="image/png"/>東西灣<graphic n="KR0309" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0309.png" mimeType="image/png"/>鳯凰橋璧虎<lb/>
+　　橋灣頭閘等處共寛九十餘丈上下相應用以導<lb/>
+　　水入江今查東隄僅金灣六閘并灣頭閘過水通<lb/>
+　　計七閘口門止寛十二丈八尺尚不如芒稻東西<lb/>
+　　二閘之寛鳯凰橋正南木橋過水甚為㣲細東西<lb/>
+<pb n="KR2m0039_WYG_054-13b"/>
+　　灣<graphic n="KR0309" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0309.png" mimeType="image/png"/>面本髙金灣滚<graphic n="KR0309" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0309.png" mimeType="image/png"/>淤土久積以致運河之水<lb/>
+　　不能及時宣洩<hi>臣</hi>於五月内<lb/>
+　奏明動支帑銀一千兩將金灣滚壩並鳯凰壁虎二<lb/>
+　　橋抽挖溝槽不過暫為宣洩之計應請俟霜降後<lb/>
+　　將金灣滚<graphic n="KR0309" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0309.png" mimeType="image/png"/>刨低一尺東灣<graphic n="KR0309" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0309.png" mimeType="image/png"/>改低二尺五寸鳯<lb/>
+　　凰壁虎二木橋下淤灘一并挖深比運河底髙七<lb/>
+　　尺為凖再西灣<graphic n="KR0309" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0309.png" mimeType="image/png"/>形勢不順毋庸挑挖應請将東<lb/>
+　　灣<graphic n="KR0309" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0309.png" mimeType="image/png"/>添寛十二丈壁虎北木橋之上另開河頭十<lb/>
+<pb n="KR2m0039_WYG_054-14a"/>
+　　二丈添建木橋一座滙入壁虎橋引河内以資宣<lb/>
+　　洩又金灣閘底尚髙應将北閘底改低一尺查上<lb/>
+　　年已經兩淮運使㑹同淮揚道估有成數應請照<lb/>
+　　案辦理東灣鳯凰壁虎等橋<graphic n="KR0309" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0309.png" mimeType="image/png"/>外支河應請照所<lb/>
+　　改<graphic n="KR0309" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0309.png" mimeType="image/png"/>眷一律挑深方得湍流無滯又邵伯西岸諸<lb/>
+　　港口為湖水遞入運河之咽喉内有蔡花港奶奶<lb/>
+　　廟港陳家港紅橋港乆經淤塞<hi>臣</hi>於五月間<lb/>
+　奏明疏濬已經完竣惟查邵伯諸湖遞注之引河多<lb/>
+<pb n="KR2m0039_WYG_054-14b"/>
+　　有淺阻不通平時不能暢流每致停蓄積水盈滿<lb/>
+　　湖中應請將黄子湖通連朱家湖之湯家絆引河<lb/>
+　　改向西南疏濬寛深再朱家湖通連董家湖之王<lb/>
+　　家莊地方開挑新引河一道引水直注董家湖以<lb/>
+　　逹孔家橋形勢灣曲應請於東首另挑引河入尤<lb/>
+　　家窪下接挑新河一道由蕪城墩後引入越河再<lb/>
+　　將越河加挑寛深節節引導諸湖積水湍流入運<lb/>
+　　由鳯凰壁虎二橋出廖家溝等壩歸江又查運河<lb/>
+<pb n="KR2m0039_WYG_054-15a"/>
+　　寳應之竹絡<graphic n="KR0309" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0309.png" mimeType="image/png"/>外灘漸髙難資宣洩應請於竹絡<lb/>
+　　<graphic n="KR0309" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0309.png" mimeType="image/png"/>之南三里溝地方建設滚水石<graphic n="KR0309" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0309.png" mimeType="image/png"/>一座庻山寳<lb/>
+　　水勢可以平緩以上皆湖河歸江之路至查宣洩<lb/>
+　　機宜惟在冬春初夏若六月以後江面既髙潮汐<lb/>
+　　又大雖盡開閘<graphic n="KR0309" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0309.png" mimeType="image/png"/>而洩減無多且山盱五<graphic n="KR0309" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0309.png" mimeType="image/png"/>寛三<lb/>
+　　百三十丈又益以蔣家壩十八丈而歸江閘<graphic n="KR0309" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0309.png" mimeType="image/png"/>止<lb/>
+　　八十餘丈来水㡬五倍於去水必須長年開放寸<lb/>
+　　寸洩減俾髙寳諸湖預留過水之地斯不致壅滯<lb/>
+<pb n="KR2m0039_WYG_054-15b"/>
+　　為患但查芒稻閘河乃兩淮塩艘必由之路若下<lb/>
+　　板堵<graphic n="KR0309" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0309.png" mimeType="image/png"/>以濟塩運則河工坐悮機宜若全開閘<graphic n="KR0309" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0309.png" mimeType="image/png"/>
+　　以利湖河則塩船恐致淺阻期於兩不相妨庶可<lb/>
+　　行之久逺臣悉心諮訪或稱另開運塩河道或稱<lb/>
+　　於人字河築<graphic n="KR0309" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0309.png" mimeType="image/png"/>建閘二説皆不可行臣查灣頭至<lb/>
+　　丁堰之運塩河道現在深淺不一竟有淺至尺許<lb/>
+　　者所以芒稻閘一經啓板即虞淺阻應請將運塩<lb/>
+　　河道勘估興挑以芒稻西閘底水深五尺為度使<lb/>
+<pb n="KR2m0039_WYG_054-16a"/>
+　　運塩河内長存五尺底水則塩船可以遄行而沿<lb/>
+　　河閘<graphic n="KR0309" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0309.png" mimeType="image/png"/>可以長年啓板既有利於河工亦無碍於<lb/>
+　　塩運再查下河各州縣小港支渠不可數計豈能<lb/>
+　　普例興挑查康熈年間每嵗令下河居民挑濬渠<lb/>
+　　港著有成效應請責成地方官於農隙之時查明<lb/>
+　　田間水道有湮塞淺隘之處傳集里民按照地畆<lb/>
+　　辦理佃戸出力業主給食逐年開挑挑出之土即<lb/>
+　　堆成圩岸以䕶田疇是在有司善為督率則地方<lb/>
+<pb n="KR2m0039_WYG_054-16b"/>
+　　日有起色每年將所挑各河造報督撫稽考數年<lb/>
+　　以後庻渠港通逹旱澇有偹至籌辦應修各工内<lb/>
+　　歸江者應請列為急工歸海者應請列為緩工其<lb/>
+　　歸江工程須在九十月間興工方為有益仰懇<lb/>
+皇上勅下督河撫塩諸臣㑹同確議如果應行興舉即<lb/>
+　　速確估具題務於秋汛後刻期儧辦以収實效再<lb/>
+　　各工内所需銀兩有𨽻属水利應於江蘓藩庫内<lb/>
+　　動支有𨽻属塩務應於兩淮運庫内動支𨽻属河<lb/>
+<pb n="KR2m0039_WYG_054-17a"/>
+　　工應於河庫内動支者統俟㑹議分别辦理合并<lb/>
+　　聲明<hi>臣</hi>謹繪圗貼説恭呈<lb/>
+御覽奏入<lb/>
+上諭<hi>恭載於前</hi>
+　　乾隆二十二年七月十六日兩江總督尹繼善奏<lb/>
+　　言竊<hi>臣</hi>自省起程馳赴徐州於七月初四日接署<lb/>
+　　撫印即往沛縣查勘該縣地本低窪昭陽㣲山諸<lb/>
+　　湖接連環繞東省濟泗汶滕山水奔注滙歸向有<lb/>
+<pb n="KR2m0039_WYG_054-17b"/>
+　　䕶城堤一道以防水道近縁東省連年雨水坡河<lb/>
+　　下注過多加以去年孫家集之黄流漫溢倒灌本<lb/>
+　　年夏間又復隂雨連綿僅恃小梁山茶城入荆山<lb/>
+　　橋尾閭宣洩来源多而去路少以致水勢不能驟<lb/>
+　　消現已派委専員酌動庫項多購料物將䕶城<lb/>
+　　工加謹修防俟水退後再行奏請動項加帮髙厚<lb/>
+　　以期鞏固惟疏消積水以冀涸復地畆播種春麥<lb/>
+　　為目下苐一要務查湖水去路除荆山橋外尚有<lb/>
+<pb n="KR2m0039_WYG_054-18a"/>
+　　湖口閘一處與韓荘閘相近雖為蓄水濟運亦係<lb/>
+　　洩水尾閭向係山東河員經管該閘金門僅寛一<lb/>
+　　丈數尺現在湖水較前加長濟運已嫌其過多即<lb/>
+　　閘門長行開放不足以資暢洩<hi>臣</hi>現在咨商山東<lb/>
+　　河撫諸臣或添設滚<graphic n="KR0309" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0309.png" mimeType="image/png"/>或添建閘座使湖水得以<lb/>
+　　暢出入運庻可望其漸消又小梁山茶城之水俱<lb/>
+　　由荆山橋流入運河然必運河之中無所壅滯庻<lb/>
+　　水得以暢流<hi>臣</hi>查山東有沂河一道自北向南流<lb/>
+<pb n="KR2m0039_WYG_054-18b"/>
+　　入駱馬湖近因水大於邳州之盧口向西散漫入<lb/>
+　　運河之水過多與荆山橋洩下之水相阻不能通<lb/>
+　　暢似此層層阻遏皆為沛縣受病之由<hi>臣</hi>已委員<lb/>
+　　前往盧口悉心相度俟可動工即行動項堵築使<lb/>
+　　沂水不能入運以速湖水去路現在親往各處詳<lb/>
+　　細查勘通經熟籌凡於洩水有益者另行奏請辦<lb/>
+　　理所有<hi>臣</hi>酌籌沛縣疏洩事宜謹繕摺恭<lb/>
+　奏伏祈<lb/>
+<pb n="KR2m0039_WYG_054-19a"/>
+睿覽訓示再淮徐海属等處被灾州縣雖輕重不等俱<lb/>
+　　係積歉地方辦理不容稍遲<hi>臣</hi>遴委多員分路查<lb/>
+　　勘并飭道府督率辦理<hi>臣</hi>於勘河之便親往稽察<lb/>
+　　將極貧户口照例先行撫䘏一月其應行正賑較<lb/>
+　　常年早為放給以濟災黎俾無失所奏入<lb/>
+上諭<hi>恭載於前</hi>
+　　乾隆二十二年八月初九日兩江總督尹繼善河<lb/>
+　　道總督白鍾山奏言乾隆二十二年七月初二日<lb/>
+<pb n="KR2m0039_WYG_054-19b"/>
+　　接准<lb/>
+　廷寄欽奉<lb/>
+上諭嵇璜奏湖河宣導機宜并應疏應修各工一摺所<lb/>
+　言頗有中要之處已有㫖交與尹繼善白鍾山等動<lb/>
+　帑辦理著再傳諭該督等於應動工時悉心經理務<lb/>
+　於下河諸水多減一分則地方早受一日之益此於<lb/>
+　下河民生闗係甚鉅該督等須慎重妥辦不得視為<lb/>
+　泛常草率了事所需帑項如有不敷即於塩庫項下<lb/>
+<pb n="KR2m0039_WYG_054-20a"/>
+　動支仍將辦理情形據實奏聞欽此欽遵仰見我<lb/>
+皇上軫念下河民生以期宣洩合宜永慶奠安之至意<lb/>
+　　<hi>臣</hi>等欽遵<lb/>
+諭㫖查照嵇璜原奏歸江工程尤為𦂳要現在遴委幹<lb/>
+　　員分段承修并委大員查催督辦於九月内即行<lb/>
+　　興工尅期儧辦俟急工完竣歸海各工即行接辦<lb/>
+　　<hi>臣</hi>等於動工時即親往悉心經理所需帑項照例<lb/>
+　　分别動支如有不敷即於塩庫項下支用臣等凛<lb/>
+<pb n="KR2m0039_WYG_054-20b"/>
+　　遵<lb/>
+聖訓董率属員慎重妥辦斷不敢視為泛常草率了事<lb/>
+　　一面将應修各工據實確估㑹<lb/>
+　題奏入報<lb/>
+聞<lb/>
+　　同日兩江總督尹繼善奏言竊查南陽昭陽㣲山<lb/>
+　　等湖衆流所歸水勢浩瀚宣洩之路有二一自江<lb/>
+　　南小梁山茶城等處出口由荆山橋至王母山歸<lb/>
+<pb n="KR2m0039_WYG_054-21a"/>
+　　入運河一自山東湖口閘入運由得勝六里鉅梁<lb/>
+　　萬年丁廟頓荘候遷臺荘等八閘及江南之河清<lb/>
+　　河定河成三閘經宿遷桃源過清河之雙閘以抵<lb/>
+　　楊家荘一由草<graphic n="KR0309" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0309.png" mimeType="image/png"/>歸入黄河一由塩河閘壩下注<lb/>
+　　入海此湖河之來源去路也臣因湖口一閘過水<lb/>
+　　無多應酌添滚壩使湖水得以暢出前已具摺<lb/>
+　奏明并咨商臣張師載鶴年酌辦<hi>臣</hi>又細加籌計自<lb/>
+　　湖口閘以下因蓄水濟運設有各閘層層闗鎖河<lb/>
+<pb n="KR2m0039_WYG_054-21b"/>
+　　身未免窄狭至水大時頼以宣洩者全在各閘之<lb/>
+　　越河也今查自湖口閘以至黄林荘山東運河長<lb/>
+　　七十餘里得勝等八閘各有越河以閘門越河并<lb/>
+　　計較之正河尚不甚窄自黄林荘以至猫兒窩江<lb/>
+　　南運河長八十餘里現在水面寛二十三四五丈<lb/>
+　　不等河清河定河成三閘各有越河以閘門越河<lb/>
+　　并計較正河窄至五六丈不等各閘層層收束原<lb/>
+　　為蓄水濟運今當急籌宣洩自宜随時變通現在<lb/>
+<pb n="KR2m0039_WYG_054-22a"/>
+　　㑹商河臣白鍾山将河清河定河成三閘越河委<lb/>
+　　員估計再各挑寛五丈約需銀三千餘兩則湖口<lb/>
+　　閘并荆山橋下去之水可以更得暢流再宿遷運<lb/>
+　　河北岸有王家溝草<graphic n="KR0309" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0309.png" mimeType="image/png"/>一處現在駱馬湖水由<graphic n="KR0309" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0309.png" mimeType="image/png"/>
+　　口流入運河雖係常年舊制但此時以宣洩㣲山<lb/>
+　　湖水為要有此王家溝之水入運横截未免上源<lb/>
+　　來水被其阻遏已商之白鍾山飭令㕔營速将王<lb/>
+　　家溝機堵閉又查清河縣之雙閘原係草<graphic n="KR0309" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0309.png" mimeType="image/png"/>亦有<lb/>
+<pb n="KR2m0039_WYG_054-22b"/>
+　　正河越河漕船過後拆去草<graphic n="KR0309" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0309.png" mimeType="image/png"/>已寛三十二丈今<lb/>
+　　又拆去四丈共寛三十六丈以逹尾閭去路目下<lb/>
+　　楊家荘口門出水甚暢並有塩河閘<graphic n="KR0309" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0309.png" mimeType="image/png"/>一股向東<lb/>
+　　分流運河下游不致有所阻滯荆山橋一帶欽奉<lb/>
+諭㫖仍須廣為疏通責成夢麟再加開濬<lb/>
+聖明指示極為精詳臣親往荆山橋上下遍加查勘從<lb/>
+　　前橋洞過水十九孔今已過水五十餘孔上下河<lb/>
+　　身均属通順再加開濬愈暢愈為有益查夢麟原<lb/>
+<pb n="KR2m0039_WYG_054-23a"/>
+　　奏善後事宜摺内亦稱積淤生灘之處應行疏濬<lb/>
+　　挑切<hi>臣</hi>自當協同夢麟實力辦理并将茶城小梁<lb/>
+　　山湖口出水處所俟水勢稍落可以煞<graphic n="KR0309" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0309.png" mimeType="image/png"/>再行疏<lb/>
+　　濬深通總之湖水不消時時上厪<lb/>
+睿慮尾閭能多宣洩一分上游即少一分灌浸<hi>臣</hi>悉心<lb/>
+　　採訪百計圗維凡有闗於疏洩機宜無不殫竭心<lb/>
+　　力黽勉辦理以期民困稍蘓仰副我<lb/>
+聖主愛飬元元之至意<hi>臣</hi>現在由運河各閘前往邳州<lb/>
+<pb n="KR2m0039_WYG_054-23b"/>
+　　查勘沂河将如何減水入運之處詳悉籌畫另行<lb/>
+　　㑹商具奏并前往宿遷桃源清河沐陽海州安東<lb/>
+　　一帶将應修河道親行相度外謹将籌辦運河疏<lb/>
+　　洩情形繪圗貼説恭請<lb/>
+訓示奏入<lb/>
+上諭曰此奏頗属盡心如所議速行仍恐疏洩不暢應<lb/>
+　再悉心講求<lb/>
+　　乾隆二十二年八月十二日裘曰修髙晋奏言竊<lb/>
+<pb n="KR2m0039_WYG_054-24a"/>
+　　<hi>臣</hi>等奉<lb/>
+命查勘宿靈虹積水兹<hi>臣</hi>裘曰修於七月二十日由河<lb/>
+　　南入安省之宿州境經靈璧虹縣至下江宿遷縣<lb/>
+　　之歸江集安河口将三州縣積水處所去來情形<lb/>
+　　週遭相度<hi>臣</hi>髙晋先於六月下旬勘災時亦經逐<lb/>
+　　一查過今在虹縣相晤悉心講求所勘水勢情形<lb/>
+　　相同伏查宿靈虹等處所有每年被水之由縁豫<lb/>
+　　省虞夏商永四邑之水畢注於宿州所恃以宣洩<lb/>
+<pb n="KR2m0039_WYG_054-24b"/>
+　　者惟濉河一道查濉河自徐溪口至符離集七十<lb/>
+　　餘里河淤平岸河形全失自符離集至時村迤下<lb/>
+　　至靈璧之覇王城一百數十里俱間段淤塞此濉<lb/>
+　　河現在之情形也再查濉河因毛城舖等處減洩<lb/>
+　　之黄水累年漫灌水過沙留積漸成淤然尚未至<lb/>
+　　如今日之甚至上年毛城舖天然閘峯山四閘陸<lb/>
+　　續開放而毛城舖至本年四月底始行堵閉黄水<lb/>
+　　直流已經一載是以徐溪口一帶竟成平陸此濉<lb/>
+<pb n="KR2m0039_WYG_054-25a"/>
+　　河上叚之在宿州者現在全行淤墊之故也濉河<lb/>
+　　既淤不能容納則豫省諸水及宿州四境山水散<lb/>
+　　流漫衍遂於徐溪口南北分為二股南一股自張<lb/>
+　　家溝至猪羊山冲㫁十五里堡驛路下至時村由<lb/>
+　　唐溝歸濉河之下叚入於五湖北一股自牛家樓<lb/>
+　　至大山頭髙皇<graphic n="KR0309" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0309.png" mimeType="image/png"/>於時村迤下由三村歸濉河之<lb/>
+　　下叚亦入五湖此兩路所冲均有河形若照舊河<lb/>
+　　正身挑濬現今徐溪口至符離集底岸淤平實難<lb/>
+<pb n="KR2m0039_WYG_054-25b"/>
+　　施工<hi>臣</hi>等公同商議濉河上叚正身無庸挑挖擬<lb/>
+　　即就兩旁現在冲出之河形因勢利導分一河為<lb/>
+　　兩河開至符離集下仍入濉河正身俾上源散漫<lb/>
+　　之水得以順軌分流其符離集下至靈璧之覇王<lb/>
+　　城等處河身間叚淤淺之處一律加挑深通以暢<lb/>
+　　去路再覇王城下即靈璧之五湖濉河界五湖之<lb/>
+　　中自難於湖中濬河且揚疃土山陵子崔家孟山<lb/>
+　　等五湖原係各為一湖祗以上下頂阻水行濡滯<lb/>
+<pb n="KR2m0039_WYG_054-26a"/>
+　　年復一年今則五湖連為一湖矣田沉水底民多<lb/>
+　　遷移<hi>臣</hi>等細勘五湖形勢聨絡其地最窪即多開<lb/>
+　　溝渠亦属無益不若捐之於水查明五湖内水沉<lb/>
+　　地畆<lb/>
+　題請蠲免将五湖聼其連成一湖以為瀦蓄之道至<lb/>
+　　虹縣之板橋地方各小河口則濉河之入五湖者<lb/>
+　　至此復露河形東南一路趨謝家溝經古卞河入洪<lb/>
+　　澤湖東北一路由烏鴉嶺經宿遷之歸仁閘下安<lb/>
+<pb n="KR2m0039_WYG_054-26b"/>
+　　河入洪澤湖今謝家溝雖属深通但河頭河身俱<lb/>
+　　覺淺窄應量行開寛而烏鴉嶺之下現有砂礓亦<lb/>
+　　應挑挖以免阻礙至其餘支河在宿州則有彭家<lb/>
+　　溝<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>河栢山河靈璧則有斗溝拖尾河沱河虹縣<lb/>
+　　則有荀家溝岳家河等處皆須一律疏濬以暢分<lb/>
+　　流之勢虹縣又有潼河一道受水極大向由林子<lb/>
+　　河經歸仁閘以東之涵洞歸入安河今林子河淤<lb/>
+　　塞已久亦宜舍舊圗新從潘家山南之徐家冲開<lb/>
+<pb n="KR2m0039_WYG_054-27a"/>
+　　通以逹董家溝歸安河入洪澤湖最為徑㨗凡此<lb/>
+　　皆宿靈虹三州縣積水情形就<hi>臣</hi>等所見酌擬之<lb/>
+　　辦法也至烏鴉嶺董家溝安河係虹縣泗州宿遷<lb/>
+　　桃源四州縣壤地相錯之境皆須㑹同辦理董家<lb/>
+　　溝在宿遷境内已全行淤墊安河則界連桃源宿<lb/>
+　　遷泗州三州縣亦間叚淺阻金鎖鎮劉李埂田家<lb/>
+　　集陡門等處上下八十里為入洪澤之咽喉尤為<lb/>
+　　𦂳要皆須逐叚開挖必此處較上游深通而後濉<lb/>
+<pb n="KR2m0039_WYG_054-27b"/>
+　　河一帶之水順流直下逹於洪澤施工次第當由<lb/>
+　　此起現即行文下江督撫諸臣再行確勘委員詳<lb/>
+　　估以便及時辦理惟是下游之下復有下游洪澤<lb/>
+　　一湖以清口為出路前䝉<lb/>
+皇上指示河臣将草<graphic n="KR0309" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0309.png" mimeType="image/png"/>拆卸以暢其流江南官民皆仰<lb/>
+　　頼<lb/>
+聖明照燭於數千里之外但每嵗皆須應期開放俾上<lb/>
+　　來之水随来随去則来者雖多而去者能速不致<lb/>
+<pb n="KR2m0039_WYG_054-28a"/>
+　　壅閼於一時矣若夫濉河雖治仍為每嵗減洩黄<lb/>
+　　水之路必如何始免淤墊之患此又須督河諸臣<lb/>
+　　通盤籌算熟思審處期於行之無弊而有效者也<lb/>
+　　除将<hi>臣</hi>等查勘情形及籌辦縁由謹遵<lb/>
+聖訓移咨侍郎臣夢麟督臣尹繼善河臣白鍾山張師<lb/>
+　　載撫臣陳宏謀鶴年胡寳瑔詳核或應㑹勘或應<lb/>
+　　㑹商公同妥議請<lb/>
+㫖遵行再查七月初八日至十七等日毛城舖減洩黄<lb/>
+<pb n="KR2m0039_WYG_054-28b"/>
+　　水下注宿州一帶已涸之地復被漫渰水勢甚大<lb/>
+　　難以估工現委廬鳯道寳善率同府州縣并調下<lb/>
+　　江熟於工程人員来安一俟漲水消落即勘明估<lb/>
+　　計造冊另繪圗貼説具<lb/>
+　奏合併陳明奏入<lb/>
+上諭<hi>恭載於前</hi>
+　<lb/>
+欽定南巡盛典卷三十八<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

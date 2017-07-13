@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2b0038_WYG_003-1a"/>
+御製明史綱目書成有述<hi>并序</hi>
+　　明史綱目之書不可不亟成之而又不敢率就之<lb/>
+　　盖明史已出於百年以後綱目若復遲待咎将誰<lb/>
+　　諉而取裁義例校閲諸臣一一請示既以身任其<lb/>
+　　事則不得徒博欽定名目已也將天下後世之公<lb/>
+　　論於是乎在書成既親序以冠簡端復為此詩以<lb/>
+　　見意并識有明三百年興亡之概焉<lb/>
+直道惟憑信史留斯民三代理無偷學探司馬治平要<lb/>
+<pb n="KR2b0038_WYG_003-1b"/>
+書慕文公體例優亦曰此心無予奪敢云我志在春秋<lb/>
+編摩端識權衡在魚魯何妨付校讐<lb/>
+蛇分星聚瑞符覃崛起原從皇覺菴燕國帝車遥指北<lb/>
+金陵王氣遂昌南一時開創經猷集奕世風聲莭義談<lb/>
+若論<lb/>
+興王自東土比湯慙徳更無慙<hi>昔人謂三代以下開創之主要當以漢髙祖元</hi>
+<hi>世祖明太祖為正然漢明雖起布衣究其宇内之臣也元雖非宋臣猶嫌取自其手惟我朝平李自成之亂而</hi>
+<hi>有天下於明為有恩比元尤為盡善云</hi>
+<pb n="KR2b0038_WYG_003-2a"/>
+金川門外血波横大義奚稱旦輔成難諱齊黄疎計畧<lb/>
+尚憐氣節在公卿緇衣不辨真兮偽斗粟從来弟與兄<lb/>
+獨笑吉安胡侍講一豬不忍太癡情<lb/>
+慢言此輩弱而愚甫節魚童何代無不少英明偏授柄<lb/>
+端因威福遂専樞善窺更自依房闥妙術惟應𨗳宴娯<lb/>
+屋社當年縁底事厲階屢肇自宫徒<lb/>
+持盈保㤗信惟囏往復平陂理轉環拜疏省僚羣自去<lb/>
+垂衣宫禁尚躭閒蜩螗三案紛轇轕門户東林激變患<lb/>
+<pb n="KR2b0038_WYG_003-2b"/>
+獨有思陵殉宗社故宜矜惜動<lb/>
+龍顔<hi>明之亡實亡於萬厯之惰於為政及天啟之闇不盡崇禎之罪也故我    世祖以禮葬於思陵加</hi>
+<hi>謚建碑較古獨厚云</hi>
+賞罰當時猶貴信况於萬世信無刋<hi>二語本方孝孺史論意</hi>從来<lb/>
+舊史傳三述亦越新編切五難義利纎毫無或爽勸懲<lb/>
+一字必期安試觀三百年間事已意曽無愛惡干<hi>從来為史</hi>
+<hi>者於本朝多諱詞於勝國必過語此春秋以後所以少信史也朕每引為深戒故於明史綱目亦唯善者善之</hi>
+<hi>惡者惡之因物付物不敢以己意好惡為褒貶後之觀是書者其必有以諒吾矣</hi>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

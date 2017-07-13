@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>春秋占筮書</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　　經部一<lb/>
+　春秋占筮書　　　　　易類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案春秋占筮書三卷<lb/>
+　　　國朝毛竒齡撰其曰春秋者摭春秋傳所載占<lb/>
+　　　　筮以明古人之易學實為易作不為春秋作<lb/>
+　　　　也自漢以來言占筮者不一家而取象玩占<lb/>
+　　　　存於世而可驗者莫先於春秋傳竒齡既於<lb/>
+<pb n="1b"/>
+　　　　所著仲氏易推易始末諸書發明其義因復<lb/>
+　　　　舉春秋内外傳中凡有得於占筮者彚記成<lb/>
+　　　　書俾後之言筮者知觀玩之概而漢晉以下<lb/>
+　　　　占筮有合於古法者亦隨類附見焉易本卜<lb/>
+　　　　筮之書聖人推究天下之理而即數以立象<lb/>
+　　　　後人推究周易之象而即數以明理羲文周<lb/>
+　　　　孔之本㫖如是而已厥後象數理岐為三家<lb/>
+　　　　又易道廣大無所不包而天下之事亦無出<lb/>
+<pb n="2a"/>
+　　　　象數理外者於是百家技術皆從而牽引推<lb/>
+　　　　闡之亦皆足以自成其説故六經之學惟易<lb/>
+　　　　最雜春秋内外傳所紀雖未必無所附㑹而<lb/>
+　　　　要其占法則固古人之遺軌譬之史書所載<lb/>
+　　　　是非襃貶或未盡可憑至其一代之制度則<lb/>
+　　　　固無偽撰者也竒齡因春秋諸占以推三代<lb/>
+　　　之筮法可謂能探其本而足闗諸家之喙者<lb/>
+　　　　矣乾隆四十三年九月恭校上<lb/>
+<pb n="2b"/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

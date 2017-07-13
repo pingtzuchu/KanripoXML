@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>金匱要畧論註</head>
+    <p>
+<pb n="KR3e0006_WYG_000-1a"/>
+欽定四庫全書　　　　　子部五<lb/>
+　金匱要畧論註　　　　　醫家類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案金匱要畧論註二十四卷漢張機<lb/>
+　　　　撰<lb/>
+　　　國朝徐彬注機字仲景南陽人嘗舉孝㢘建安<lb/>
+　　　　中官至長沙太守是書亦名金匱玉函經乃<lb/>
+　　　　晉髙平王叔和所編次陳振孫書録解題曰<lb/>
+<pb n="KR3e0006_WYG_000-1b"/>
+　　　　此書乃王洙於館閣蠧簡中得之曰金匱玉<lb/>
+　　　　函要畧上卷論傷寒中論雜病下載其方併<lb/>
+　　　　療婦人乃録而傳之今書以逐方次於證候<lb/>
+　　　　之下以便檢用其所論傷寒文多簡畧故但<lb/>
+　　　　取雜病以下止服食禁忌二十五篇二百六<lb/>
+　　　　十二方而仍其舊名云云則此書叔和所編<lb/>
+　　　　本為三卷洙抄存其後二卷後又以方一卷<lb/>
+　　　　散附於二十五篇内盖已非叔和之舊然自<lb/>
+<pb n="KR3e0006_WYG_000-2a"/>
+　　　　　宋以來醫家奉為典型與素問難經並重得<lb/>
+　　　　　其一知半解皆可起死回生則亦岐黄之正<lb/>
+　　　　　傳和扁之嫡嗣矣機所作傷寒卒病論自金<lb/>
+　　　　　成無己之後注家各自争名互相竄改如宋<lb/>
+　　　　　儒之談錯簡原書端緒久已瞀亂難尋獨此<lb/>
+　　　　　編僅僅㪚附諸方尚未失其初㫖尤可寳也<lb/>
+　　　　　漢代遺書文句簡奥而古來無注醫家猝不<lb/>
+　　　　　易讀彬注成於康煕辛亥注釋尚為顯明今<lb/>
+<pb n="KR3e0006_WYG_000-2b"/>
+　　　　　録存之以便講肄彬字忠可嘉興人江西喻<lb/>
+　　　　　昌之弟子故所學頗有師承云乾隆四十六<lb/>
+　　　　　年十二月恭校上<lb/>
+　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　總　校　官　<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

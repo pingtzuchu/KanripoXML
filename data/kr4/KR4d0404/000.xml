@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>提要<lb/>
+                </head>
+    <p>
+<pb n="KR4d0404_WYG_000-1a"/>
+欽定四庫全書　　　　　集部四<lb/>
+　提要<lb/>
+　　百正集三巻　　　　别集類三<hi>宋</hi>
+　　　　臣等謹案百正集三巻宋連文鳳撰文鳳字<lb/>
+　　　　百正號應山三山人仕履未詳集中暮秋雜<lb/>
+　　　　興詩有仕籍姓名除句則宋徳祐以前亦嘗<lb/>
+　　　　從宦又庚子立春詩有又逢庚子嵗老景對<lb/>
+　　　　韶華句庚子為大徳四年則成宗之時猶在<lb/>
+<pb n="KR4d0404_WYG_000-1b"/>
+　　　　入元巳二十四年矣至元丙戌浦江吳渭邀<lb/>
+　　　　謝翺方鳳等舉月泉吟社以春日田園雜興<lb/>
+　　　　為題徴詩四方得二千七百三十五巻入選<lb/>
+　　　　者二百八十巻刋板者六十巻以羅公福為<lb/>
+　　　　第一名據題下所註公福即文鳳之寓名也<lb/>
+　　　　王士正池北偶談則謂月泉吟社詩清新尖<lb/>
+　　　　刻别自一家而謝翺等品題未允因重為移<lb/>
+　　　　置改文鳳為第二十一名然元初東南詩社<lb/>
+<pb n="KR4d0404_WYG_000-2a"/>
+　　　　作者如林推文鳳為第一物無異詞當必有<lb/>
+　　　　説似未可以一字一句遽易前人之甲乙今<lb/>
+　　　　觀所作大抵清切流麗自抒性靈無宋末江<lb/>
+　　　　湖諸人纎瑣麤獷之習雖上不及尤楊范陸<lb/>
+　　　　下不及范揭虞揚而位置于諸人之間亦未<lb/>
+　　　　遽為白茅之藉則當時首屈一指亦有由矣<lb/>
+　　　　文淵閣書目載連百正丙子稿一部一冊久<lb/>
+　　　　無傳本永樂大典所載但題曰連百正集當<lb/>
+<pb n="KR4d0404_WYG_000-2b"/>
+　　　　即其本今裒輯排比編為三巻又賦三首序<lb/>
+　　　　二首記二首説一首傳一首亦散見永樂大<lb/>
+　　　　典中文格雅潔亦不失前民矩矱其冰壺先<lb/>
+　　　　生傳一首雖以文為戯然毛穎羅文諸傳載<lb/>
+　　　　之韓蘇集中古有是例今併附綴巻末以存<lb/>
+　　　　其梗槩焉乾隆四十六年九月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

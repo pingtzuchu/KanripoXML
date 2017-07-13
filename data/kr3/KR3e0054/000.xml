@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>蘭室秘藏</head>
+    <p>
+<pb n="KR3e0054_WYG_000-1a"/>
+欽定四庫全書　　　　　子部五<lb/>
+　蘭室秘藏　　　　　　　醫家類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案蘭室秘藏六卷金李杲撰其曰蘭<lb/>
+　　　　室秘藏者葢取黄帝素問藏諸靈蘭之室語<lb/>
+　　　　前有至元丙子羅天益序在杲没後二十五<lb/>
+　　　　年疑即硯堅所謂臨終以付天益者也其治<lb/>
+　　　　病分二十一門以飲食勞倦居首他如中滿<lb/>
+<pb n="KR3e0054_WYG_000-1b"/>
+　　　　腹脹如心腹痞如胃脘痛諸門皆諄諄於脾<lb/>
+　　　　胃葢其所獨重也東垣發明内傷之類外感<lb/>
+　　　　實有至理而以土為萬物之母脾胃為生化<lb/>
+　　　　之源脾虚損論一篇極言寒凉峻利之害尤<lb/>
+　　　　深切著明葢預睹劉張兩家末流攻伐之弊<lb/>
+　　　　而早防其漸也至於前代醫方自金匱要畧<lb/>
+　　　　以下大抵藥味無多故唐書許允宗傳紀允<lb/>
+　　　　宗之言曰病之於藥有正相當惟湏單用一<lb/>
+<pb n="KR3e0054_WYG_000-2a"/>
+　　　　味直攻彼病藥力既尃病即立愈今人不能<lb/>
+　　　　别脈莫識病證以情億度多安藥味譬之於<lb/>
+　　　　獵未知兎所多發人馬空地遮圍或冀一人<lb/>
+　　　　偶然逢也如此療病不亦疎乎其言歴代醫<lb/>
+　　　　家傳為名論惟杲此書載所自製諸方動至<lb/>
+　　　　一二十味而君臣佐使相制相用條理井然<lb/>
+　　　　他人罕能效之者斯則事由神觧不渉言詮<lb/>
+　　　　讀是書者能喻法外之意則善矣乾隆四十<lb/>
+<pb n="KR3e0054_WYG_000-2b"/>
+　　　　四年五月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

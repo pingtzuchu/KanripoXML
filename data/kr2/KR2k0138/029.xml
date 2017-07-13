@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>宣和奉使髙麗圖經卷二十九</head> <lb/>
+    <p>
+<pb n="KR2k0138_WYG_029-1a"/>
+欽定四庫全書<lb/>
+　宣和奉使髙麗圖經卷二十九<lb/>
+　　　　　　　　　　　　　宋　徐兢　撰<lb/>
+　　供帳二<lb/>
+　　　繡枕<lb/>
+繡枕之形白紵為囊中實以香草兩頭蹙金盤綫花文<lb/>
+極巧復以絳羅裝飾如蓮荷之狀三節供給其制一等<lb/>
+　　　寢衣<lb/>
+<pb n="KR2k0138_WYG_029-1b"/>
+寢衣之制紅黄為表而以白紵裏之裏大於表四邊各<lb/>
+餘一尺<lb/>
+　　　紵裳<lb/>
+紵裳之制表裏六幅要不用横帛而繫二帶三節每位<lb/>
+各與紵衣同設以待沐浴之用<lb/>
+　　　紵衣<lb/>
+紵衣即中單也國俗不用純領自王至于民庶無男女<lb/>
+悉服之<lb/>
+<pb n="KR2k0138_WYG_029-2a"/>
+　　　畫摺扇<lb/>
+畫摺扇金銀塗飾復繪其國山林人馬女子之形麗人<lb/>
+不能之云是日本所作觀其所饋衣物信然<lb/>
+　　　杉扇<lb/>
+杉扇不甚工惟以日本白杉木劈削如紙貫以綵組相<lb/>
+比如羽亦可招風<lb/>
+　　　白摺扇<lb/>
+白摺扇編竹為骨而裁藤紙鞔之閒用銀銅釘飾以竹<lb/>
+<pb n="KR2k0138_WYG_029-2b"/>
+數多者為貴供給趨事之人藏於懐袖之閒其用甚便<lb/>
+　　　松扇<lb/>
+松扇取松之柔條細削成縷搥壓成綫而後織成上有<lb/>
+花文不減穿藤之巧唯王府所遺使者最工<lb/>
+　　　草履<lb/>
+草履之形前低後昻形狀詭異國中無男女少長悉履<lb/>
+之<lb/>
+　宣和奉使髙麗圖經卷二十九<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

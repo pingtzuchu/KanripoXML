@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>資治通鑑目録卷十一</head> <lb/>
+    <p>
+<pb n="KR2b0010_WYG_010-1a"/>
+欽定四庫全書<lb/>
+　資治通鑑目録卷十一<lb/>
+　　　　　　　　　　　　宋　司馬光　撰<lb/>
+<pb n="KR2b0010_WYG_010-2a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-3a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-4a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-5a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-6a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-7a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-8a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-9a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-10a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-11a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-12a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-13a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-14a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-15a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-16a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-17a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-18a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-19a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-20a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-21a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-22a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-23a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-24a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-25a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-26a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-27a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-28a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-29a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-30a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-31a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-32a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-33a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-34a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-35a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-36a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-37a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-38a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-39a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-40a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-41a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-42a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-43a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-44a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-45a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-46a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-47a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-48a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-49a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-50a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-51a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-52a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-53a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-54a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-55a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-56a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-57a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-58a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-59a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-60a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-61a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-62a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-63a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-64a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-65a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-66a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-67a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-68a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-69a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-70a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-71a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-72a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-73a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-74a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-75a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-76a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-77a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-78a"/>
+</p>
+<p>
+<pb n="KR2b0010_WYG_010-79a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2b0010_WYG_010-79b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　資治通鑑目録卷十一<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

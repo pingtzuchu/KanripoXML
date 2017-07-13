@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>大唐開元禮卷九十六</head>
+    <p>
+<pb n="KR2m0021_WYG_096-1a"/>
+欽定四庫全書<lb/>
+　大唐開元禮卷九十六　　　唐　蕭嵩等　撰<lb/>
+　　嘉禮<lb/>
+　　　皇帝元正冬至受皇太子妃朝賀<lb/>
+　　　皇后元正冬至受皇太子妃朝賀<lb/>
+　　　　皇帝元正冬至受皇太子妃朝賀<lb/>
+其日依時刻諸衞率各勒所部陳布妃儀仗如常内廏尉<lb/>
+進車於閤外司測量時刻啟外辦妃服首飾褕衣乘車<lb/>
+<pb n="KR2m0021_WYG_096-1b"/>
+以出侍衞如常入至下車所妃降車侍從如常内侍所<lb/>
+司引詣閤外皇帝即御坐南向近侍如常司嬪引妃升<lb/>
+自西階進當御坐前北面跪賀稱元正首祚景福惟新<lb/>
+伏惟開元神武皇帝陛下與天同休<hi>冬至賀云天正長至伏惟陛下如日</hi>
+<hi>之升</hi>賀訖起司嬪引降復位妃再拜訖尚儀前承勅降詣<lb/>
+妃西北東面稱有勅妃再拜宣勅訖又再拜司嬪引妃<lb/>
+還宫<lb/>
+　　　　皇后元正冬至受皇太子妃朝賀<lb/>
+<pb n="KR2m0021_WYG_096-2a"/>
+皇太子妃朝皇帝訖詣皇后所御之殿立於閤外六尚以下<lb/>
+各服其服俱詣皇后内閤奉迎如常皇后出即御坐南向<lb/>
+坐近侍如常司嬪引妃入立於庭北面立定再拜司嬪引<lb/>
+妃升自西階進當御坐前北面跪賀稱元正首祚景福<lb/>
+惟新伏惟皇后殿下與時同休<hi>冬至賀云伏惟殿下如日之升</hi>賀訖起<lb/>
+司嬪引降復位妃再拜訖尚儀前承令降詣妃西北東<lb/>
+面稱令㫖妃再拜宣令訖又再拜司嬪引妃出乘車還<lb/>
+宫如來儀若諸王妃奉勅同朝則各服其服預至皇太<lb/>
+<pb n="KR2m0021_WYG_096-2b"/>
+子妃下車所侍隨入位在皇太子妃南北面西上唯不<lb/>
+升於階外與皇太子妃同若别朝亦准皇太子妃式<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　大唐開元禮卷九十六<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

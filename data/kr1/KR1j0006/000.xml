@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="1a"/>
+方言序<lb/>
+　　　　　　　　　　郭璞<lb/>
+蓋聞方言之作出乎輶軒之使所以巡遊萬<lb/>
+國采覽異言車軌之所交人迹之所蹈靡不<lb/>
+畢載以爲奏籍周秦之季其業隳廢莫有存<lb/>
+者曁乎揚生沉淡其志歷載<graphic n="KR0799" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0799.png" mimeType="image/png"/>綴乃就斯文<lb/>
+是以三五之篇著而獨鑒之功顯故可不出<lb/>
+户庭而坐照四表不勞疇咨而物來能名考<lb/>
+<pb n="1b"/>
+九服之逸言摽六代之絶語類離詞之指韻<lb/>
+明乖途而同致辨章風謡而區分曲通萬殊<lb/>
+而不雜眞洽見之竒書不刊之碩記也余少<lb/>
+玩雅訓旁味方言復爲之解觸事廣之演其<lb/>
+未及摘其謬漏庶以燕石之瑜補琬琰之瑕<lb/>
+俾後之瞻渉者可以廣寤多聞爾<lb/>
+<pb n="2a"/>
+　西漢氏古書之全者如鹽鐵論楊子雲方<lb/>
+　言其存蓋無幾鹽鐵論前輩毎恨其文章<lb/>
+　不稱漢氏唯方言之書最竒古孟傳頃聞<lb/>
+　之曽文清公甞以三詩答吕治先有云傷<lb/>
+　心昨夜杯中物不對王郎對影斟紫微吕<lb/>
+　居仁次韻云書來肯附銅魚使記我今年<lb/>
+　病不斟自注云岀子雲方言今所在鏤板<lb/>
+　輙誤作病不禁此書世所有而無與是正<lb/>
+<pb n="2b"/>
+　知好之者少也山谷詩云追隨冨貴勞牽<lb/>
+　尾乃用太元經語紹興初胡少汲洪玉父<lb/>
+　李文若諸人校黄詩刋本乃誤作榮牽尾<lb/>
+　自此他本遂承誤鬰蒼蒼三字文人多愛<lb/>
+　之亦或鮮記其出於太元大抵子雲精於<lb/>
+　小學且多見先秦古書故方言多識竒字<lb/>
+　太元多有竒語然其用之亦各有冝子雲<lb/>
+　諸賦多古字至法言劇秦所用則無幾古<lb/>
+<pb n="3a"/>
+　人文章蓋莫不然西漢一書唯相如子雲<lb/>
+　等諸賦韓退之文唯曹成王碑柳子厚自<lb/>
+　騷詞晉問等他皆不用古字<lb/>
+　本朝歐文忠王荆公蘇長公曽南豐諸宗<lb/>
+　工文章照映今古亦不多用古字得非以<lb/>
+　謂古文竒字聲形之學雖在所當講而文<lb/>
+　律之妙則不專在是若有意用之或返累<lb/>
+　正氣也耶學者要知所以用之當其可則<lb/>
+<pb n="3b"/>
+　盡善耳今方言自閩本外不多見毎惜其<lb/>
+　未廣予來官㝷陽有以大字本見示者因<lb/>
+　刋置郡齋而附以所聞一二蓋惜前輩之<lb/>
+　言乆或不傳也慶元庚申仲春甲子㑹<lb/>
+　稽李孟傳書<lb/>
+　漢儒訓詁之學惟謹而楊子雲尤爲洽<lb/>
+　聞盖一物不知君子所耻博學詳說將<lb/>
+　以反約凢其辨名物析度數研精覃思<lb/>
+<pb n="4a"/>
+　毫釐必計下而五方之音殊俗之語莫不<lb/>
+　推尋其故而旁通其義非徒猥瑣拘泥而<lb/>
+　爲是弗憚煩也丗之學者忽近而慕逺捨<lb/>
+　實而徇名髙談性命過自賢聖視訓詁諸<lb/>
+　書往往束之髙閣盍亦思夫周官太平之<lb/>
+　典其道甚大百物不廢雖醫卜方技纎悉<lb/>
+　畢載聖門學詩不獨取其可興可觀可群<lb/>
+　可怨而鳥獸草木之名亦貴多識本末精<lb/>
+<pb n="4b"/>
+　粗並行而不相悖故漢儒尊經重古純慤<lb/>
+　有守之風類非後人所能企及子雲博極<lb/>
+　群書於小學竒字無不通且逺採諸國以<lb/>
+　爲方言誠足備爾雅之遺闕平時所以用<lb/>
+　力於此深矣丗知好之者盖鮮<lb/>
+　前太守尚書郎李公一日語餘苦無善<lb/>
+　本質偶得諸相識字畫落落可觀因以<lb/>
+　告而鋟之木輙併附管見云慶元庚申重午<lb/>
+<pb n="5a"/>
+　日東陽朱質書<lb/>
+<pb n="5b"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0148_WYG_086-1a"/>
+欽定四庫全書<lb/>
+御選唐宋詩醇卷四十二<lb/>
+　　山隂陸游詩一<lb/>
+　　　目録<lb/>
+　　寄酬曾學士學宛陵先生體比得書云所寓廣教<lb/>
+　　僧舍有陸子泉毎對之輙奉懷<lb/>
+　　送曾學士赴行在<lb/>
+　　新夏感事<lb/>
+<pb n="KR4h0148_WYG_086-1b"/>
+　　留題雲門草堂<lb/>
+　　度浮橋至南臺<lb/>
+　　還縣<lb/>
+　　航海<lb/>
+　　東陽道中<lb/>
+　　送七兄赴揚州帥幕<lb/>
+　　以石芥送劉韶美禮部劉比釀酒勁甚因以為戱<lb/>
+　　寄張真父舍人<lb/>
+<pb n="KR4h0148_WYG_086-2a"/>
+　　病中簡仲彌性唐克明蘇訓直<lb/>
+　　晚泊慈姥磯下<lb/>
+　　夜宿陽山磯将曉大雨北風甚勁俄頃行三百餘里遂扺雁翅浦<lb/>
+　　送全州趙都曹<lb/>
+　　病中作<lb/>
+　　醉中歌<lb/>
+　　上已臨川道中<lb/>
+　　隨意<lb/>
+<pb n="KR4h0148_WYG_086-2b"/>
+　　逰山西村<lb/>
+　　雨霽出逰書事<lb/>
+　　上虞逆旅見舊題嵗月感懷<lb/>
+　　題十八學士圖<lb/>
+　　夜聞松聲有感<lb/>
+　　十二月一日<lb/>
+　　宿楓橋<lb/>
+　　雨中泊趙屯有感<lb/>
+<pb n="KR4h0148_WYG_086-3a"/>
+　　秋風<lb/>
+　　重陽<lb/>
+　　沙頭<lb/>
+　　移船<lb/>
+　　將離江陵<lb/>
+　　滄灘<lb/>
+　　松滋小酌<lb/>
+　　晚泊松滋渡口<lb/>
+<pb n="KR4h0148_WYG_086-3b"/>
+　　繫舟下牢溪逰三游洞二十八韻<lb/>
+　　秋風亭拜冦萊公遺像<lb/>
+　　聞猿<lb/>
+　　瞿唐行<lb/>
+　　蹋磧<lb/>
+　　鄉中毎以寒食立夏之間省墳客䕫適逢此時悽<lb/>
+　　然感懷<lb/>
+　　風雨中望峽口諸山竒甚戱作短歌<lb/>
+<pb n="KR4h0148_WYG_086-4a"/>
+　　晚晴聞角有感<lb/>
+　　畏虎<lb/>
+　　鄰水延福寺早行<lb/>
+　　大安病酒留半日王守復來招不往送酒解酲因<lb/>
+　　小飲江月館<lb/>
+　　曉發金牛<lb/>
+　　山南行<lb/>
+　　和高子長叅議道中<lb/>
+<pb n="KR4h0148_WYG_086-4b"/>
+　　次韻張季長題龍洞<lb/>
+　　太息<lb/>
+　　閬中作<lb/>
+　　逰錦屏山謁少陵祠堂<lb/>
+　　歸次漢中境土<lb/>
+　　南沮水道中<lb/>
+　　長木夜行抵金堆市<lb/>
+　　赴成都泛舟自三泉至益昌謀以明年下三峽<lb/>
+<pb n="KR4h0148_WYG_086-5a"/>
+　　雪晴行益昌道中頗有春意<lb/>
+　　劒門道中遇微雨<lb/>
+　　劍門城北囘望劍關諸峯青入雲漢感蜀亡事慨<lb/>
+　　然有賦<lb/>
+　　綿州魏城縣驛有羅江東詩云芳草有情皆礙馬<lb/>
+　　好雲無處不遮樓戱用其韻<lb/>
+　　東津<lb/>
+　　東山<lb/>
+<pb n="KR4h0148_WYG_086-5b"/>
+　　綿州録參㕔觀姜楚公畫鷹少陵為作詩者<lb/>
+　　西郊尋梅<lb/>
+　　海棠<lb/>
+　　驛舍見故屏風畫海棠有感<lb/>
+　　登荔枝樓<lb/>
+　　凌雲醉歸作<lb/>
+　　醉中感懷<lb/>
+　　玻瓈江<lb/>
+<pb n="KR4h0148_WYG_086-6a"/>
+　　送客至江上<lb/>
+　　九月十六日夜夢駐軍河外遣使招降諸城覺而<lb/>
+　　有作<lb/>
+　　成都行<lb/>
+　　初寒<lb/>
+　　木山<lb/>
+　　十月十日浮橋成以故事宴客凌雲<lb/>
+　　觀大散闗圖有感<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

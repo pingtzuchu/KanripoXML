@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_325-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選巻三百二十五<lb/>
+　　蠟梅花類<lb/>
+　　　七言古<lb/>
+　　　　蠟梅一首贈趙景貺　　　　<hi>宋</hi>蘇　軾<lb/>
+　天公㸃酥作梅花此有蠟梅禅老家蜜蜂採花作黃蠟<lb/>
+　取蠟為花亦其物天工變化誰得知我亦兒嬉作小詩<lb/>
+　君不見萬松嶺上黃千葉玉蘂檀心兩竒絶醉中不覺<lb/>
+<pb n="KR4h0141_WYG_325-1b"/>
+　度千山夜聞梅香失醉眠歸來却夢尋花去夢裏花仙<lb/>
+　覓竒句此間風物屬詩人我老不飲當付君君行適呉<lb/>
+　我適越笑指西湖作衣鉢<lb/>
+　　　　蠟梅　　　　　　　　　　<hi>宋</hi>陳與義<lb/>
+　智瓊額黃且勿誇囘眼視此風前葩家家融蠟作杏蒂<lb/>
+　嵗嵗逢梅是蠟花世間真偽非兩法暎日細看真是蠟<lb/>
+　我今嚼蠟已甘腴况此有韻蠟不如只愁繁香欺定力<lb/>
+　薰我欲醉須人扶不辭花前醉倒卧經月是酒是香君<lb/>
+<pb n="KR4h0141_WYG_325-2a"/>
+試别<lb/>
+　　五言律<lb/>
+　　　蠟梅　　　　　　　　　　<hi>宋</hi>楊萬里<lb/>
+栗玉圓雕蕾金鐘細著行來從真蠟國自號小黃香夕<lb/>
+吹撩寒馥晨曦透暖光南枝本同姓喚我作他楊<lb/>
+　　七言律<lb/>
+　　　蠟梅　　　　　　　　　　<hi>元</hi>耶律楚材<lb/>
+越嶺仙姿迥異常洞庭春染六銖裳枝橫碧玉天然瘦<lb/>
+<pb n="KR4h0141_WYG_325-2b"/>
+蕾破黃金分外香反笑素英渾淡抹却嫌紅豔太濃妝<lb/>
+臨風浥此薔薇露醉墨淋漓寄渺茫<lb/>
+　　五言絶句<lb/>
+　　　戲詠蠟梅　　　　　　　　<hi>宋</hi>黃庭堅<lb/>
+金蓓鎖春寒惱人香未展雖無桃李顔風味極不淺<lb/>
+　　　其二<lb/>
+體薰山麝臍色染薔薇露披拂不滿襟時有暗香度<lb/>
+　　　黃梅　　　　　　　　　　　黃庭堅<lb/>
+<pb n="KR4h0141_WYG_325-3a"/>
+異色深宜晚生香故觸人不施千㸃白别作一家春<lb/>
+　　　同家弟賦蠟梅　　　　　　<hi>宋</hi>陳與義<lb/>
+朱朱與白白著意待春開那知洞房裏已傍額黃來<lb/>
+　　　其二<lb/>
+韻勝誰能舍色莊那得親朝陽一暎樹到骨不留塵<lb/>
+　　　其三<lb/>
+黃羅作廣袂綘帳作中單人間誰敢著留得䕶春寒<lb/>
+　　　其四<lb/>
+<pb n="KR4h0141_WYG_325-3b"/>
+一花香十里更值滿枝開承恩不在貌誰敢鬭香來<lb/>
+　　　蠟梅　　　　　　　　　　　陳與義<lb/>
+花房小如許銅切黃金塗中有萬斛香與君細細輸<lb/>
+　　　其二<lb/>
+來從底處所黃露滿衣濕緣懣翻得憐亭亭倚風立<lb/>
+　　　其三<lb/>
+奕奕金仙面排行立曉晴殷勤夜來雪少住作珠瓔<lb/>
+　　七言絶句<lb/>
+<pb n="KR4h0141_WYG_325-4a"/>
+　　　和王立之蠟梅　　　　　　<hi>宋</hi>晁沖之<lb/>
+茅簷竹塢兩幽竒岸幘尋花醉不知崖蜜已成蜂去盡<lb/>
+夜寒惟有露房垂<lb/>
+　　　從張仲謀乞蠟梅　　　　　<hi>宋</hi>黃庭堅<lb/>
+聞君寺後野梅發香蜜染成官様黃不擬折來遮老眼<lb/>
+欲知春色到池塘<lb/>
+　　　蠟梅　　　　　　　　　　<hi>宋</hi>晁補之<lb/>
+恐是酴醿染得黃月中清露滴來香定知何遜牽詩興<lb/>
+<pb n="KR4h0141_WYG_325-4b"/>
+借與穿簾一㸃光<lb/>
+　　　蠟梅　　　　　　　　　　<hi>宋</hi>楊萬里<lb/>
+蜜蜂底物是生涯花作餱糧蠟作家嵗晚畧無花可採<lb/>
+却將香蠟吐成花<lb/>
+　　　蠟梅　　　　　　　　　　　楊萬里<lb/>
+天向梅梢别出竒國香未許世人知殷勤滴蠟緘封却<lb/>
+偷被霜風折一枝<lb/>
+　　　其二<lb/>
+<pb n="KR4h0141_WYG_325-5a"/>
+　江梅珍重雪衣裳薄相紅梅學杏裝渠獨小參黃面老<lb/>
+　額間豔豔發金光<lb/>
+　　　　蠟梅　　　　　　　　　　<hi>宋</hi>謝　翺<lb/>
+　冷豔清香受雪知雨中誰把蠟為衣蜜房做就花枝色<lb/>
+　留得寒蜂宿不歸<lb/>
+　　　　謝王巨川惠蠟梅因用其韻　<hi>元</hi>耶律楚材<lb/>
+　雪裏氷枝破冷金前邨籬落暗香侵令人多謝王公子<lb/>
+　分惠幽芳寄好音<lb/>
+<pb n="KR4h0141_WYG_325-5b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選巻三百二十五<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

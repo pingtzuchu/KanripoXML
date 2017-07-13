@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>春秋大事表卷二十二</head> <lb/>
+    <p>
+<pb n="1a"/>
+欽定四庫全書<lb/>
+　春秋大事表卷二十二<lb/>
+　　　　　　　　　　國子監司業顧棟髙撰<lb/>
+　　晉中軍表<lb/>
+　周制大國三軍次國二軍小國一軍晉本大國自曲<lb/>
+　沃武公以支子奪宗莊公十六年僖王命曲沃伯以<lb/>
+　一軍為晉侯從小國之制至閔公元年晉獻公始作<lb/>
+　二軍公將上軍太子申生將下軍以滅耿滅霍滅魏<lb/>
+<pb n="1b"/>
+　時尚未有中軍也僖公二十七年文公蒐于被廬作<lb/>
+　三軍謀元帥使郤縠將中軍郤溱佐之中軍于是始<lb/>
+　二十八年復作三行以禦狄荀林父將中行屠擊將<lb/>
+　右行先蔑將左行避天子六軍之名故名三行三行<lb/>
+　無佐三十一年秋蒐于清原更作五軍以禦狄罷去<lb/>
+　三行更為上下新軍文公六年春晉襄公蒐于夷舍<lb/>
+　二軍罷五軍復三軍之制以趙盾為中軍將成公三<lb/>
+　年十二月晉景公賞鞌之功作六軍韓厥趙括鞏朔<lb/>
+<pb n="2a"/>
+　韓穿荀騅趙旃皆為卿擬于天子矣六年晉遷新田<lb/>
+　韓厥將新中軍且為僕大夫是時欒書為中軍將曰<lb/>
+　新中軍創出也十三年晉厲公伐秦韓厥將下軍趙<lb/>
+　旃代韓厥將新軍是新中軍在下軍佐之下矣十六<lb/>
+　年鄢陵之戰郤犨代趙旃將新軍新上下軍復罷是<lb/>
+　為四軍襄公三年晉悼公使魏絳佐新軍新軍皆有<lb/>
+　將佐二卿鄭子展謂晉四軍無闕八卿和睦知罃謂<lb/>
+　三分四軍與諸侯之鋭以逆來者是也至十三年蒐<lb/>
+<pb n="2b"/>
+　于緜上使荀偃將中軍士匄佐之趙武將上軍韓起<lb/>
+　佐之欒黶將下軍魏絳佐之將佐皆遷于是新軍無<lb/>
+　帥悼公難其人使其什吏率其卒乗官屬以從于下<lb/>
+　軍十四年歸自伐秦遂舎新軍復還三軍之舊自是<lb/>
+　終春秋之世晉軍制不復變更中軍本司徒之職晉<lb/>
+　以僖侯諱廢司徒為中軍自翼侯以前未入春秋故<lb/>
+　其時中軍不著文公圗伯以後世有賢佐國以日強<lb/>
+　諸侯咸服雖經靈厲無道而小國不敢叛自韓起雖<lb/>
+<pb n="3a"/>
+　賢而弱末年漸不能制其同列范鞅更為黷貨趙氏<lb/>
+　繼之與范中行相仇怨晉以失伯而三分之勢遂成<lb/>
+　嗚呼考其次第亦治亂得失之鑒也輯春秋晉中軍<lb/>
+　表卷二十二<lb/>
+<pb n="4a"/>
+</p>
+<p>
+<pb n="5a"/>
+</p>
+<p>
+<pb n="6a"/>
+</p>
+<p>
+<pb n="7a"/>
+</p>
+<p>
+<pb n="8a"/>
+</p>
+<p>
+<pb n="9a"/>
+</p>
+<p>
+<pb n="10a"/>
+</p>
+<p>
+<pb n="11a"/>
+</p>
+<p>
+<pb n="12a"/>
+</p>
+<p>
+<pb n="13a"/>
+</p>
+<p>
+<pb n="14a"/>
+</p>
+<p>
+<pb n="15a"/>
+</p>
+<p>
+<pb n="16a"/>
+</p>
+<p>
+<pb n="17a"/>
+</p>
+<p>
+<pb n="18a"/>
+</p>
+<p>
+<pb n="19a"/>
+</p>
+<p>
+<pb n="20a"/>
+</p>
+<p>
+<pb n="21a"/>
+</p>
+<p>
+<pb n="22a"/>
+</p>
+<p>
+<pb n="23a"/>
+</p>
+<p>
+<pb n="24a"/>
+</p>
+<p>
+<pb n="25a"/>
+</p>
+<p>
+<pb n="26a"/>
+</p>
+<p>
+<pb n="27a"/>
+</p>
+<p>
+<pb n="28a"/>
+</p>
+<p>
+<pb n="29a"/>
+</p>
+<p>
+<pb n="30a"/>
+</p>
+<p>
+<pb n="31a"/>
+</p>
+<p>
+<pb n="32a"/>
+</p>
+<p>
+<pb n="33a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="33b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　春秋大事表卷二十二<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

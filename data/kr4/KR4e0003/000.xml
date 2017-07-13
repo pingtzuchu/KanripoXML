@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>宋景濓未刻集</head>
+    <p>
+<pb n="KR4e0003_WYG_000-1a"/>
+欽定四庫全書　　　　　集部六<lb/>
+　宋景濓未刻集　　　　　别集類五<hi>明</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案宋景濓未刻集二巻明宋濓撰濓<lb/>
+　　　　集重刻於嘉靖中行世已乆此本乃<lb/>
+　　　國朝順治乙未濓裔孫實穎得文徴明家所藏<lb/>
+　　　　原刻舊本以示金壇蔣超超擇其中今本所<lb/>
+　　　　未載者得三十八篇編為此集以補其遺今<lb/>
+<pb n="KR4e0003_WYG_000-1b"/>
+　　　　以嘉靖中韓叔陽所刻重勘其中跋何道夫<lb/>
+　　　　所著宣撫鄭公墓銘等十一篇皆今本所已<lb/>
+　　　　載超盖檢之未審其餘二十七篇則實属佚<lb/>
+　　　　文推究當日之意盖或以元代功臣諸頌及<lb/>
+　　　　誌銘諸篇大抵作於前朝至明不免有所諱<lb/>
+　　　　或以尊崇二氏不免過當嫌於躭溺異學而<lb/>
+　　　　隠之觀楊士竒東里集倪謙文僖集凡文章<lb/>
+　　　　為二氏而作者並别為巻帙附綴末簡不散<lb/>
+<pb n="KR4e0003_WYG_000-2a"/>
+　　　　入各體之中則正徳嘉靖以前士大夫之持<lb/>
+　　　　論可大畧覩矣然古來操觚之士如韓愈之<lb/>
+　　　　於髙閑文暢持論始終謹嚴固其正也至顔<lb/>
+　　　　真卿書多寳塔碑撰麻姑壇記於平生大節<lb/>
+　　　　要亦無虧厯代文集此類頗有固未可以一<lb/>
+　　　　端論也觀是集者知其持論之失但以文章<lb/>
+　　　　取之可矣乾隆四十五年六月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+<pb n="KR4e0003_WYG_000-2b"/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

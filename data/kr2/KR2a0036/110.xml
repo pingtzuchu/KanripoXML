@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>元史巻一百十</head> <lb/>
+    <p>
+<pb n="KR2a0036_WYG_110-1a"/>
+欽定四庫全書<lb/>
+　元史巻一百十<lb/>
+　　明翰林學士亞中大夫知制誥兼修國史宋濂等修<lb/>
+　表第五上<lb/>
+　　三公表<lb/>
+古者三公之職寅亮天地燮理隂陽以論道經邦者也<lb/>
+元初以太師太傅太保為三公自穆呼哩國王始為太<lb/>
+師後凡為三公者皆國之元勲而漢人則惟劉秉忠嘗<lb/>
+<pb n="KR2a0036_WYG_110-1b"/>
+為太保其後鮮有聞矣其制又有大司徒司徒太尉司<lb/>
+空之屬然其置否不常人品或混故置者又或開府不<lb/>
+開府焉若夫東宫亦嘗置三師三少而不恒有也今固<lb/>
+不得而悉著之惟自穆呼哩而下得拜三公者若干人<lb/>
+作三公表<lb/>
+太祖皇帝<lb/>
+　　　　　太師　　　太傅　　　太保<lb/>
+<hi>丙寅</hi>元年<lb/>
+<pb n="KR2a0036_WYG_110-2a"/>
+<hi>丁卯</hi>二年<lb/>
+<hi>戊辰</hi>三年<lb/>
+<hi>己巳</hi>四年<lb/>
+<hi>庚午</hi>五年<lb/>
+<hi>辛未</hi>六年<lb/>
+<hi>壬申</hi>七年<lb/>
+<hi>癸酉</hi>八年<lb/>
+<hi>甲戌</hi>九年<lb/>
+<pb n="KR2a0036_WYG_110-2b"/>
+<hi>乙亥</hi>十年<lb/>
+<hi>丙子</hi>十一年<lb/>
+<hi>丁丑</hi>十二年　穆呼哩<lb/>
+<hi>戊寅</hi>十三年　穆呼哩<lb/>
+<hi>己卯</hi>十四年　穆呼哩<lb/>
+<hi>庚辰</hi>十五年　穆呼哩<lb/>
+<hi>辛巳</hi>十六年　穆呼哩<lb/>
+<hi>壬午</hi>十七年　穆呼哩<lb/>
+<pb n="KR2a0036_WYG_110-3a"/>
+<hi>癸未</hi>十八年　穆呼哩<lb/>
+<hi>甲申</hi>十九年<lb/>
+<hi>乙酉</hi>二十年<lb/>
+<hi>丙戌</hi>二十一年<lb/>
+<hi>丁亥</hi>二十二年<lb/>
+<hi>戊子</hi>
+太宗皇帝<lb/>
+<hi>己丑</hi>元年　　阿哈　　　托輝　　　明安<lb/>
+<pb n="KR2a0036_WYG_110-3b"/>
+<hi>庚寅</hi>二年　　按和琳廣記多載國初之事内有太師<lb/>
+<hi>辛卯</hi>三年　　阿哈太傅托輝太保明安之名及他公<lb/>
+<hi>壬辰</hi>四年　　牘所報亦間見之然拜罷嵗月之後先<lb/>
+<hi>癸巳</hi>五年　　不可考矣故著于此<lb/>
+<hi>甲午</hi>六年<lb/>
+<hi>乙未</hi>七年<lb/>
+<hi>丙申</hi>八年<lb/>
+<hi>丁酉</hi>九年<lb/>
+<pb n="KR2a0036_WYG_110-4a"/>
+<hi>戊戌</hi>十年<lb/>
+<hi>己亥</hi>十一年<lb/>
+<hi>庚子</hi>十二年<lb/>
+<hi>辛丑</hi>十三年<lb/>
+<hi>壬寅</hi>
+<hi>癸卯</hi>
+<hi>甲辰</hi>
+<hi>乙巳</hi>
+<pb n="KR2a0036_WYG_110-4b"/>
+定宗皇帝<lb/>
+<hi>丙午</hi>元年<lb/>
+<hi>丁未</hi>二年<lb/>
+<hi>戊申</hi>三年<lb/>
+<hi>己酉</hi>
+<hi>庚戌</hi>
+憲宗皇帝<lb/>
+<hi>辛亥</hi>元年<lb/>
+<pb n="KR2a0036_WYG_110-5a"/>
+<hi>壬子</hi>二年<lb/>
+<hi>癸丑</hi>三年<lb/>
+<hi>甲寅</hi>四年<lb/>
+<hi>乙卯</hi>五年<lb/>
+<hi>丙辰</hi>六年<lb/>
+<hi>丁巳</hi>七年<lb/>
+<hi>戊午</hi>八年<lb/>
+<hi>己未</hi>九年<lb/>
+<pb n="KR2a0036_WYG_110-5b"/>
+世祖皇帝<lb/>
+<hi>庚申</hi>中統元年<lb/>
+<hi>辛酉</hi>二年<lb/>
+<hi>壬戌</hi>三年<lb/>
+<hi>癸亥</hi>四年<lb/>
+<hi>甲子</hi>至元元年　　　　　　　　　　劉秉忠<lb/>
+<hi>乙丑</hi>二年　　　　　　　　　　　　劉秉忠<lb/>
+<hi>丙寅</hi>三年　　　　　　　　　　　　劉秉忠<lb/>
+<pb n="KR2a0036_WYG_110-6a"/>
+<hi>丁卯</hi>四年　　　　　　　　　　　　劉秉忠<lb/>
+<hi>戊辰</hi>五年　　　　　　　　　　　　劉秉忠<lb/>
+<hi>己巳</hi>六年　　　　　　　　　　　　劉秉忠<lb/>
+<hi>庚午</hi>七年　　　　　　　　　　　　劉秉忠<lb/>
+<hi>辛未</hi>八年　　　　　　　　　　　　劉秉忠<lb/>
+<hi>壬申</hi>九年　　　　　　　　　　　　劉秉忠<lb/>
+<hi>癸酉</hi>十年　　　　　　　　　　　　劉秉忠<lb/>
+<hi>甲戌</hi>十一年　　　　　　　　　　　劉秉忠<lb/>
+<pb n="KR2a0036_WYG_110-6b"/>
+<hi>乙亥</hi>十二年<lb/>
+<hi>丙子</hi>十三年<lb/>
+<hi>丁丑</hi>十四年<lb/>
+<hi>戊寅</hi>十五年<lb/>
+<hi>己卯</hi>十六年<lb/>
+<hi>庚辰</hi>十七年<lb/>
+<hi>辛巳</hi>十八年<lb/>
+<hi>壬午</hi>十九年<lb/>
+<pb n="KR2a0036_WYG_110-7a"/>
+<hi>癸未</hi>二十年<lb/>
+<hi>甲申</hi>二十一年<lb/>
+<hi>乙酉</hi>二十二年<lb/>
+<hi>丙戌</hi>二十三年<lb/>
+<hi>丁亥</hi>二十四年<lb/>
+<hi>戊子</hi>二十五年<lb/>
+<hi>己丑</hi>二十六年<lb/>
+<hi>庚寅</hi>二十七年<lb/>
+<pb n="KR2a0036_WYG_110-7b"/>
+<hi>辛卯</hi>二十八年<lb/>
+<hi>壬辰</hi>二十九年<lb/>
+<hi>癸巳</hi>三十年<lb/>
+<hi>甲午</hi>三十一年<lb/>
+成宗皇帝<lb/>
+<hi>乙未</hi>元貞元年　　　　　　　　　　伊徹察喇<lb/>
+<hi>丙申</hi>二年　　　　　　　　　　　　伊徹察喇<lb/>
+<hi>丁酉</hi>大徳元年　　　　　　　　　　伊徹察喇<lb/>
+<pb n="KR2a0036_WYG_110-8a"/>
+<hi>戊戌</hi>二年　　　　　　　　　　　　伊徹察喇<lb/>
+<hi>己亥</hi>三年　　　　　　　　　　　　伊徹察喇<lb/>
+<hi>庚子</hi>四年　　伊徹察喇　鄂勒哲<lb/>
+<hi>辛丑</hi>五年　　伊徹察喇<lb/>
+<hi>壬寅</hi>六年　　伊徹察喇<lb/>
+<hi>癸卯</hi>七年　　伊徹察喇<lb/>
+<hi>甲辰</hi>八年<lb/>
+<hi>乙巳</hi>九年<lb/>
+<pb n="KR2a0036_WYG_110-8b"/>
+<hi>丙午</hi>十年<lb/>
+<hi>丁未</hi>十一年　　　　　　　哈喇哈斯　塔喇海<lb/>
+武宗皇帝<lb/>
+<hi>戊申</hi>至大元年<lb/>
+<hi>己酉</hi>二年<lb/>
+<hi>庚戌</hi>三年　　阿拉克布哈　奇塔特布濟克　三寳努<lb/>
+　　　　　多爾濟戩<lb/>
+<hi>辛亥</hi>四年　　多爾濟戩　呼嚕古岱<lb/>
+<pb n="KR2a0036_WYG_110-9a"/>
+　　　　　　　　　　　奇塔特布濟克<lb/>
+　　　　　　　　　　　特克<lb/>
+仁宗皇帝<lb/>
+<hi>壬子</hi>皇慶元年　阿斯罕　　特克　　　庫春<lb/>
+<hi>癸丑</hi>二年　　　阿斯罕　　布呼　　　庫春<lb/>
+<hi>甲寅</hi>延祐元年　阿斯罕　　布呼　　　庫春<lb/>
+<hi>乙卯</hi>二年　　　阿斯罕　　布呼　　　庫春<lb/>
+<hi>丙辰</hi>三年　　　特們徳爾　布呼　　　庫春<lb/>
+<pb n="KR2a0036_WYG_110-9b"/>
+<hi>丁巳</hi>四年　　　特們徳爾　布呼　　　庫春<lb/>
+<hi>戊午</hi>五年　　　　　　　　布呼　　　庫春<lb/>
+<hi>己未</hi>六年　　　特們徳爾　布呼　　　庫春<lb/>
+<hi>庚申</hi>七年　　　特們徳爾　托迪　　　庫春<lb/>
+英宗皇帝<lb/>
+<hi>辛酉</hi>至治元年　特們徳爾　托迪　　　庫春<lb/>
+<hi>壬戌</hi>二年　　　特們徳爾　托迪　　　庫春<lb/>
+<hi>癸亥</hi>三年　　　　　　　　托迪<lb/>
+<pb n="KR2a0036_WYG_110-10a"/>
+泰定皇帝<lb/>
+<hi>甲子</hi>泰定元年　布呼　　　托迪　　　巴延徹爾<lb/>
+<hi>乙丑</hi>二年　　阿勒坦綽克　托迪　　　圖古勒<lb/>
+<hi>丙寅</hi>三年　　　　　　　　托迪　　　圖古勒<lb/>
+<hi>丁卯</hi>四年　　　　　　　　托迪　　　圖古勒<lb/>
+文宗皇帝<lb/>
+<hi>戊辰</hi>天歴元年　雅克特穆爾　博迪蘇<lb/>
+<hi>己巳</hi>二年　　　雅克特穆爾　博迪蘇　巴延<lb/>
+<pb n="KR2a0036_WYG_110-10b"/>
+<hi>庚午</hi>至順元年　雅克特穆爾　博廸蘇　巴延<lb/>
+<hi>辛未</hi>二年　　　雅克特穆爾博迪蘇　　巴延<lb/>
+<hi>壬申</hi>三年　　　雅克特穆爾<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　元史巻一百十<lb/>
+<pb n="KR2a0036_WYG_110-11a"/>
+元史巻一百十考證<lb/>
+成宗元貞元年太保伊徹察喇　按成宗本紀以中統<lb/>
+　三十一年四月十五日即位五月裕嚕為太師巴延<lb/>
+　為太傅伊徹察喇為太保三人同日拜命今表闕其<lb/>
+　二<lb/>
+成宗大徳十一年大傅哈喇哈斯　按武宗本紀武宗<lb/>
+　於大徳十一年五月入嗣大統即以知樞宻院多爾<lb/>
+　都海為太傅右丞相哈喇哈斯為太保後又加哈喇<lb/>
+<pb n="KR2a0036_WYG_110-11b"/>
+　哈斯為太傅表既不載多爾都海之除太傅而於哈<lb/>
+　喇哈斯之先除太保亦未之及<lb/>
+武宗至大元年　按武宗本紀至大元年三月命太師<lb/>
+　伊徹察喇太師哈喇哈斯分給北來貧民鈔幣則是<lb/>
+　年之太師太傅俱可考表未之載<lb/>
+武宗至大三年太傅竒塔特布濟克　按武宗本紀至<lb/>
+　大二年竒塔特布濟克已除太傅<lb/>
+仁宗延佑六年太傅布呼　按仁宗本紀延佑六年八<lb/>
+<pb n="KR2a0036_WYG_110-12a"/>
+　月以太傅御史大夫布呼為太師表於次年不復載<lb/>
+　布呼於太傅直至㤗定元年始載布呼為太師中間<lb/>
+　殊為脱略<lb/>
+㤗定二年太師阿勒坦綽克　按英宗本紀㤗定元年<lb/>
+　阿勒坦綽克己為太師<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

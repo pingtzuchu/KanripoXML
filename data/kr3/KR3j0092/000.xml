@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3j0092_SBCK_000-1a"/>
+<pb n="KR3j0092_SBCK_000-2a"/>
+夢溪筆談序<lb/>
+　　　　　　　　　　沈　括　存中　𫐠<lb/>
+予退處林下深居絶過從思平日與客言者時<lb/>
+紀一事于筆則若有所晤言蕭然移日所與談<lb/>
+者唯筆硯而已謂之筆談　聖謨國政及事近<lb/>
+宫省皆不敢私紀至於繫當日士大夫毀譽者<lb/>
+雖善亦不欲書非止不言人惡而已所録唯山<lb/>
+間木䕃率意談噱不繋人之利害者下至閭巷<lb/>
+之言靡所不有亦有得於傳聞者其間不能無<lb/>
+缺謬以之爲言則甚卑以予爲無意於言可也<lb/>
+　　　　卷第一<lb/>
+　　　　　故事一<lb/>
+<pb n="KR3j0092_SBCK_000-2b"/>
+　　　　　　　卷第二<lb/>
+　　　　　　　　故事二<lb/>
+　　　　　　　卷第三<lb/>
+　　　　　　　　辨證一<lb/>
+　　　　　　　卷第四<lb/>
+　　　　　　　　辨證二<lb/>
+　　　　　　　卷第五<lb/>
+　　　　　　　　樂律一<lb/>
+　　　　　　　卷第六<lb/>
+　　　　　　　　　樂律二<lb/>
+　　　　　　　卷第七<lb/>
+　　　　　　　　　象數一<lb/>
+<pb n="KR3j0092_SBCK_000-3a"/>
+　　　　　　　卷第八<lb/>
+　　　　　　　　象數二<lb/>
+　　　　　　　卷第九<lb/>
+　　　　　　　　人事一<lb/>
+　　　　　　　卷第十<lb/>
+　　　　　　　　人事二<lb/>
+　　　　　　　卷第十一<lb/>
+　　　　　　　　官政一<lb/>
+　　　　　　　卷第十二<lb/>
+　　　　　　　　官政二<lb/>
+　　　　　　　卷第十三<lb/>
+　　　　　　　　權智<lb/>
+<pb n="KR3j0092_SBCK_000-3b"/>
+　　　　　　卷第十四<lb/>
+　　　　　　　藝文一<lb/>
+　　　　　　卷第十五<lb/>
+　　　　　　　藝文二<lb/>
+　　　　　　卷第十六<lb/>
+　　　　　　　藝文三<lb/>
+　　　　　　卷第十七<lb/>
+　　　　　　　書畫<lb/>
+　　　　　　卷第十八<lb/>
+　　　　　　　技藝<lb/>
+　　　　　　卷第十九<lb/>
+　　　　　　　　噐用<lb/>
+<pb n="KR3j0092_SBCK_000-4a"/>
+　　　　　　卷第二十<lb/>
+　　　　　　　神竒<lb/>
+　　　　　　卷第二十一<lb/>
+　　　　　　　異事<lb/>
+　　　　　　卷第二十二<lb/>
+　　　　　　　謬誤<lb/>
+　　　　　　卷第二十三<lb/>
+　　　　　　　譏謔<lb/>
+　　　　　　卷第二十四<lb/>
+　　　　　　　雜誌一<lb/>
+　　　　　　卷第二十五<lb/>
+　　　　　　　雜誌二<lb/>
+<pb n="KR3j0092_SBCK_000-4b"/>
+　　　　卷第二十六<lb/>
+　　　　　　藥議<lb/>
+夢溪筆談目録終<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>河南通志巻二</head> <lb/>
+    <p>
+<pb n="KR2k0047_WYG_002-1a"/>
+欽定四庫全書<lb/>
+　河南通志巻二<lb/>
+　　輿圖<lb/>
+　周官大司徒掌以土地之圖周知九州地域廣輪之<lb/>
+　數辨其山林川澤丘陵墳衍原隰之名物漢蕭何入<lb/>
+　闗先收秦相府圖書圖之重於國由来舊矣河南自<lb/>
+　昔為帝王都圖書肇自羲禹郟鄏定於成周尚已矧<lb/>
+　今日拱衛<lb/>
+<pb n="KR2k0047_WYG_002-1b"/>
+神京四方作鎮凡道理之紆直廣狭山勢之阨塞平夷<lb/>
+　川流之襟抱虧疏土壤之磽瘠衍沃不有圖紀曷彰<lb/>
+　厥後誠紀志者之所宜盡心焉者也我<lb/>
+皇上眷念中土特增改直𨽻事得專達𨽻濬滑内黄以<lb/>
+　便漕運省力役併胙城以延津原武入衛懷二府減<lb/>
+　冗員利控馭綂轄承稟多寡遠近均平畫一秩然就<lb/>
+　紀其烏可以不志是用稽之往牒按之當今繪圖三<lb/>
+　十有四庶中州之勝指掌可得焉志輿圖<lb/>
+<pb n="KR2k0047_WYG_002-2a"/>
+　圖目<lb/>
+　　河南郡縣圖<lb/>
+　　河南省城舊圖<lb/>
+　　河南八府七州總圖<lb/>
+　　開封府圖<lb/>
+　　歸徳府圖<lb/>
+　　彰徳府圖<lb/>
+　　衞輝府圖<lb/>
+<pb n="KR2k0047_WYG_002-2b"/>
+　　懐慶府圖<lb/>
+　　河南府圖<lb/>
+　　南陽府圖<lb/>
+　　汝寧府圖<lb/>
+　　汝州之圖<lb/>
+　　陳州之圖<lb/>
+　　許州之圖<lb/>
+　　禹州之圖<lb/>
+<pb n="KR2k0047_WYG_002-3a"/>
+　　鄭州之圖<lb/>
+　　陜州之圖<lb/>
+　　光州之圖<lb/>
+萬夀宮圖<lb/>
+　　河圖起卦圖<lb/>
+　　洛書衍疇圖<lb/>
+　　伏羲畫卦臺圖<lb/>
+　　文王衍易臺圖<lb/>
+<pb n="KR2k0047_WYG_002-3b"/>
+　　周公營洛之圖<lb/>
+　　召誥土中之圖<lb/>
+　　測景臺圖<lb/>
+　　先聖手書銅盤銘圖<lb/>
+　　中嶽嵩山之圖<lb/>
+　　濟瀆之圖<lb/>
+　　淮瀆之圖<lb/>
+　　王屋山圖<lb/>
+<pb n="KR2k0047_WYG_002-4a"/>
+　　蘇門山圖<lb/>
+　　上蔡蓍草臺圖<lb/>
+　　歸淮圖<lb/>
+<pb n="KR2k0047_WYG_002-5a"/>
+</p>
+<p>
+<pb n="KR2k0047_WYG_002-6a"/>
+</p>
+<p>
+<pb n="KR2k0047_WYG_002-7a"/>
+</p>
+<p>
+<pb n="KR2k0047_WYG_002-8a"/>
+</p>
+<p>
+<pb n="KR2k0047_WYG_002-9a"/>
+</p>
+<p>
+<pb n="KR2k0047_WYG_002-10a"/>
+</p>
+<p>
+<pb n="KR2k0047_WYG_002-11a"/>
+</p>
+<p>
+<pb n="KR2k0047_WYG_002-12a"/>
+</p>
+<p>
+<pb n="KR2k0047_WYG_002-13a"/>
+</p>
+<p>
+<pb n="KR2k0047_WYG_002-14a"/>
+</p>
+<p>
+<pb n="KR2k0047_WYG_002-15a"/>
+</p>
+<p>
+<pb n="KR2k0047_WYG_002-16a"/>
+</p>
+<p>
+<pb n="KR2k0047_WYG_002-17a"/>
+</p>
+<p>
+<pb n="KR2k0047_WYG_002-18a"/>
+</p>
+<p>
+<pb n="KR2k0047_WYG_002-19a"/>
+</p>
+<p>
+<pb n="KR2k0047_WYG_002-20a"/>
+</p>
+<p>
+<pb n="KR2k0047_WYG_002-21a"/>
+</p>
+<p>
+<pb n="KR2k0047_WYG_002-22a"/>
+</p>
+<p>
+<pb n="KR2k0047_WYG_002-23a"/>
+</p>
+<p>
+<pb n="KR2k0047_WYG_002-24a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2k0047_WYG_002-24b"/>
+　昔者伏羲氏之王天下也聖徳格天天不愛道故龍<lb/>
+　馬負圖而出於河其數則一六居下二七居上三八<lb/>
+　居左四九居右五十居中以五生數統五成數而同<lb/>
+　處其方盖揭其全以示人而道其常數之體也聖人<lb/>
+　則之以作易虚五與十太極也竒偶各居二十兩儀<lb/>
+　也以一二三四為六七八九四象也析四方之合以<lb/>
+　為乾坤坎離補四隅之空以為兑震巽艮八卦也盖<lb/>
+　五十居中有太極之象故虚之以擬太極竒偶各居<lb/>
+<pb n="KR2k0047_WYG_002-25a"/>
+　二十有隂陽相對之象故則之以畫兩儀一二三四<lb/>
+　為六七八九有隂陽老少之象故則之以畫四象析<lb/>
+　四方之合補四隅之空有乾坤坎離兑震巽艮之象<lb/>
+　故則之以畫八卦夫由一而二由二而四由四而八<lb/>
+　此聖人則河圖以畫卦之㫖也<lb/>
+　惟昔神禹地平天成地不愛寳故神龜載書而呈於<lb/>
+　洛其數則戴九履一左三右七二四為肩六八為足<lb/>
+　而五亦居中以五竒數統四偶數而各居其所盖主<lb/>
+<pb n="KR2k0047_WYG_002-25b"/>
+　於陽以統隂而肇其變化之用也聖人則之以叙疇<lb/>
+　初一曰五行次二曰五事次三曰八政次四曰五紀<lb/>
+　次五曰皇極次六曰三徳次七曰稽疑次八曰庶徵<lb/>
+　次九曰福極盖在天惟五行在人惟五事以五事參<lb/>
+　五行天人合矣八政者人之所以因乎天五紀者天<lb/>
+　之所以示乎人皇極者君之所以建極也三徳者治<lb/>
+　之所以因變也稽疑者以人而聽於天也庶徵者推<lb/>
+　天而徵諸人也福極者人感而天應也夫自初一之<lb/>
+<pb n="KR2k0047_WYG_002-26a"/>
+　五行以至於九之福極此聖人則洛書以叙疇之㫖<lb/>
+　也<lb/>
+<pb n="KR2k0047_WYG_002-27a"/>
+</p>
+<p>
+<pb n="KR2k0047_WYG_002-28a"/>
+</p>
+<p>
+<pb n="KR2k0047_WYG_002-29a"/>
+</p>
+<p>
+<pb n="KR2k0047_WYG_002-30a"/>
+</p>
+<p>
+<pb n="KR2k0047_WYG_002-31a"/>
+</p>
+<p>
+<pb n="KR2k0047_WYG_002-32a"/>
+</p>
+<p>
+<pb n="KR2k0047_WYG_002-33a"/>
+</p>
+<p>
+<pb n="KR2k0047_WYG_002-34a"/>
+</p>
+<p>
+<pb n="KR2k0047_WYG_002-35a"/>
+</p>
+<p>
+<pb n="KR2k0047_WYG_002-36a"/>
+</p>
+<p>
+<pb n="KR2k0047_WYG_002-37a"/>
+</p>
+<p>
+<pb n="KR2k0047_WYG_002-38a"/>
+</p>
+<p>
+<pb n="KR2k0047_WYG_002-39a"/>
+</p>
+<p>
+<pb n="KR2k0047_WYG_002-40a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2k0047_WYG_002-40b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　河南通志巻二<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

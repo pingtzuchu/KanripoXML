@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2k0039_WYG_063-1a"/>
+欽定四庫全書<lb/>
+欽定皇輿西域圖志卷三十四<lb/>
+　貢賦<lb/>
+　　<hi>臣</hi>等謹按禹貢一書首載中邦成賦而九牧貢金<lb/>
+　　鑄鼎島夷皮卉兼納至於西戎即叙則既賦其璆<lb/>
+　　琳熊羆之屬復以織皮為貢初非長駕逺馭好勤<lb/>
+　　逺物之謂蓋將以聨中外之勢通遐邇之情示王<lb/>
+　　者一統無外意至深逺也迨武王通道西旅貢<graphic n="KR0729" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0729.png" mimeType="image/png"/>
+<pb n="KR2k0039_WYG_063-1b"/>
+　　作書必以四夷咸賓歸美於明王慎徳周公相成<lb/>
+　　王定九畿之貢在三千里外者謂之要服貢其貨<lb/>
+　　物在九州外者謂之蕃國各以所貴寶為摯地則<lb/>
+　　領於大司馬貢則輸於大行人而又有懷方氏掌<lb/>
+　　來逺方之民致方貢逺物而送逆之其制益詳而<lb/>
+　　厥田厥賦要不得與三壤之則同論若漢武初通<lb/>
+　　西域偶得天馬作歌告廟論史者往往侈泰貽譏<lb/>
+　　其後歴代史牒所書備列外蕃貢獻然其來也無<lb/>
+<pb n="KR2k0039_WYG_063-2a"/>
+　　常期其使也無常員其物也無常品義取羈縻弗<lb/>
+　　絶而已未聞行井牧之法爾宅爾田以疆理戎索<lb/>
+　　豈非力不足以制之徳不足以容之乎<lb/>
+　國家昄章之厚逺越隆古頃者準夷内訌回酋濟惡<lb/>
+　　我<lb/>
+皇上推取亂侮亡之義天罰龔行罪人斯得俘其酋帥<lb/>
+　　拔彼名城洎乎徂維求定弓矢載櫜即環籲元戎<lb/>
+　　輸租請吏惟恐尺土不隸職方一夫不登齒版一<lb/>
+<pb n="KR2k0039_WYG_063-2b"/>
+　　絲一粟不入内府即自外於<lb/>
+生成覆載者<lb/>
+聖天子猶重軫瘡痍蘇其困憊酌盈劑虚取足供軍屯<lb/>
+　　之費而止視向者役屬厄魯特時悉索敝賦不啻<lb/>
+　　挈陷穽而登袵席矣屬八紘於扃闥撫異類如赤<lb/>
+　　子周官九畿之制實未足以賅之又何有於漢唐<lb/>
+　　以下哉爰舉新疆貢賦諸額著於篇西域舊俗强<lb/>
+　　弱相役歴代以來征輸久為成例採摭往籍用資<lb/>
+<pb n="KR2k0039_WYG_063-3a"/>
+　　旁攬因彚列焉志貢賦第十一<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>漢魏六朝百三家集</head>
+    <p>
+<pb n="KR4h0134_WYG_000-1a"/>
+欽定四庫全書　　　　　集部八<lb/>
+　漢魏六朝百三家集　　　總集類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案漢魏六朝百三家集一百十八巻<lb/>
+　　　　明張溥編溥有詩經注疏大全合纂已著録<lb/>
+　　　　自馮惟訥輯詩紀而漢魏六朝之詩滙于一<lb/>
+　　　　編自梅鼎祚輯文紀而漢魏六朝之文滙于<lb/>
+　　　　一編自張燮輯七十二家集而漢魏六朝之<lb/>
+<pb n="KR4h0134_WYG_000-1b"/>
+　　　　遺集滙于一編溥以張氏書為根柢而取馮<lb/>
+　　　　氏梅氏書中其人著作稍多者排比而附益<lb/>
+　　　　之以成是集巻帙既繁不免務得貪多失於<lb/>
+　　　　限斷編録亦往往無法考證亦往往未明有<lb/>
+　　　　本係經説而入之集者如董仲舒集録春秋<lb/>
+　　　　隂陽劉向劉歆集録洪範五行傳之類是也<lb/>
+　　　　有本係史類而入之集者如禇少孫集全録<lb/>
+　　　　補史記荀悦集全録漢紀論之類是也有本<lb/>
+<pb n="KR4h0134_WYG_000-2a"/>
+　　　　係子書而入之集者如諸葛亮集録心書蕭<lb/>
+　　　　子雲集録凈住子是也有牴牾顯然而不辨<lb/>
+　　　　者如張衡集録周天大象賦稱魏武黄星之<lb/>
+　　　　類是也有是非疑似而臆斷者如陳琳傳中<lb/>
+　　　　有袁紹使掌書記一語遂以三國志注紹冊<lb/>
+　　　　烏桓單于文録之琳集是也有偽妄無稽而<lb/>
+　　　　濫收者如東方朔集録真仙通鑑所載與友<lb/>
+　　　　人書及十洲記序之類是也有移甲入乙而<lb/>
+<pb n="KR4h0134_WYG_000-2b"/>
+　　　　不覺者如庾信集録楊烱文二篇之類是也<lb/>
+　　　　有采摭未盡者如束晳集所録餅賦寥寥數<lb/>
+　　　　語不知祝穆事文類聚所載尚多之類是也<lb/>
+　　　　有割裂失次者如鍾㑹集成侯命婦傳三國<lb/>
+　　　　志注截載兩處遂分其首尾各為一篇之類<lb/>
+　　　　是也有可以成集而遺之者如枚乗七發忘<lb/>
+　　　　憂館柳賦諫吳王書及玉臺新詠所載古詩<lb/>
+　　　　可成一巻左思三都賦白髮賦髑髏賦及文<lb/>
+<pb n="KR4h0134_WYG_000-3a"/>
+　　　　選所載咏史詩亦可成一巻而擯落不載之<lb/>
+　　　　類是也然州分部居以文𨽻人以人𨽻代使<lb/>
+　　　　唐以前作者遺篇一一畧見其梗概雖因人<lb/>
+　　　　成事要不可謂之無功也周亮工書影曰西<lb/>
+　　　　蜀楊升菴太史著書至二百餘種豫章朱鬱<lb/>
+　　　　儀中尉著書至一百十二種當時未聞有茂<lb/>
+　　　　陵之求張天如雖一時名流然無多撰著當<lb/>
+　　　　時至見于章奏求其遺書人有幸有不幸如<lb/>
+<pb n="KR4h0134_WYG_000-3b"/>
+　　　　此云云其于溥頗致不滿今案溥所論著不<lb/>
+　　　　出當時坊刻之習誠可付之無譏若此一編<lb/>
+　　　　則原原本本足資檢核實逺勝其他作雖使<lb/>
+　　　　肩隨于二人固亦無不可矣乾隆四十六年<lb/>
+　　　　五月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

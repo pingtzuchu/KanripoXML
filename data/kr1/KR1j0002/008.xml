@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="1a"/>
+有事乎社而後出謂之冝<hi>有事祭也周官所謂冝乎社</hi>振旅闐闐<hi>振旅整衆闐/闐羣行聲</hi>
+出爲治兵尚威武也<hi>幼賤在前貴勇力</hi>入爲振旅反尊卑也<hi>尊老在前復常儀也</hi>
+　　　　講武<lb/>
+素錦綢杠<hi>以白地錦韜旗之竿</hi>纁帛縿<hi>纁帛絳也縿/衆旒所著</hi>素陞龍于縿<hi>畫白龍於縿令上向</hi>練旒九<hi>練絳/練也</hi>飾以組<hi>用綦組飾/旒之邊</hi>維以縷<hi>用朱縷維連持之不欲令曳地周禮曰六人維王之太常是也</hi>緇廣充幅長尋曰旐<hi>帛全幅/長八尺</hi>繼旐曰旆<hi>帛<graphic n="KR0813" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0813.png" mimeType="image/png"/>旐末爲燕尾者義見詩</hi>注旄首<lb/>
+曰旌<hi>載旄於竿頭如今之幢亦有旒</hi>有鈴曰旂<hi>縣鈴於竿頭/畫蛟龍於旒</hi>錯革鳥曰旟<hi>此謂合剥鳥皮毛置之竿頭即禮記云載鴻及鳴鳶</hi>因章曰旃<hi>以帛練爲旒因其文章不復畫之周禮云通帛爲旃</hi>
+　　　　旌旂<lb/>
+釋地第九<lb/>
+<pb n="1b"/>
+兩河閒曰冀州<hi>自東河至西河</hi>河南曰豫州<hi>自南河/至漢</hi>河西曰雝州<hi>自西河至黒水</hi>漢南曰荆州<hi>自漢南至/衡山之陽</hi>江南曰揚州<hi>自江南至海</hi>濟河間曰兖<lb/>
+州<hi>自河東至濟</hi>濟東曰徐州<hi>自濟東/至海</hi>燕曰幽州<hi>自易水/至北狄</hi>齊曰營州<hi>自岱東至海此蓋殷制</hi>
+　　　　九州<lb/>
+魯有大野<hi>今髙平鉅野縣東北大澤是也</hi>晉有大陸<hi>今鉅鹿北廣/河澤是也</hi>秦有楊陓<hi>今在扶風汧縣西</hi>宋有孟諸<hi>今在梁國睢/陽縣東北</hi>楚有雲夢<hi>今南郡華容縣東南巴丘湖是也</hi>吴越<lb/>
+之間有具區<hi>今吴縣南太湖即震澤是也</hi>齊有海隅<hi>海濵/廣斥</hi>燕有昭余祁<hi>今太原鄔陵縣北九澤是也</hi>鄭有圃田<hi>今滎陽中牟縣/西圃田澤是也</hi>周有焦護<hi>今扶風池陽縣瓠中是也</hi>
+　　　　十藪<lb/>
+<pb n="2a"/>
+東陵阠南陵息愼西陵威夷中陵朱滕北陵西隃鴈<lb/>
+門是也<hi>即鴈門山也</hi>陵莫大於加陵<hi>今所在/未聞</hi>梁莫大於溴梁<hi>溴水名梁隄也</hi>墳莫大於河墳<hi>墳大防</hi>
+　　　　八陵<lb/>
+東方之美者有醫無閭之珣玗琪焉<hi>醫無閭山名今在遼東珣玗琪玉屬</hi>東南<lb/>
+之美者有㑹稽之竹箭焉<hi>會稽山名今在山隂縣南竹箭篠也</hi>南方之美者有梁<lb/>
+山之犀象焉<hi>犀牛皮角象牙骨</hi>西南之美者有華山之金石焉<hi>黃金礝石之屬</hi>
+西方之美者有霍山之多珠玉焉<hi>霍山今在平陽永安縣東北珠如今雜珠而精好</hi>西北<lb/>
+之美者有崐崘虚之璆琳琅玕焉<hi>璆琳美玉名琅玕狀似珠也山海經曰崐崘山有琅玕樹</hi>北<lb/>
+方之美者有幽都之筋角焉<hi>幽都山名謂多野牛筋角</hi>東北之美者有斥<lb/>
+<pb n="2b"/>
+山之文皮焉<hi>虎豹之屬皮有縟綵者</hi>中有岱岳與其五穀魚鹽生焉<hi>言泰山有魚鹽之饒</hi>
+　　　　九府<lb/>
+東方有比目魚焉不比不行其名謂之鰈<hi>狀似牛脾鱗細紫黑色一眼兩片相合乃得行今水中所在有之江東又呼爲王餘魚</hi>南方有比翼鳥焉不比不飛其名謂之鶼鶼<lb/>
+<hi>似鳬青赤色一目一翼相得乃飛</hi>西方有比肩獸焉與邛邛岠虚比爲邛邛岠<lb/>
+虚齧甘草即有難邛邛岠虚負而走其名謂之蟨<hi>吕氏春秋曰北方有獸其名爲蟨䑕前而兔後趨則頓走則顛然則邛邛岠虚亦冝䑕後而兔前前髙不得取甘草故湏蟨食之今鴈門廣武縣夏屋山中有獸形如兔而大相負共行土俗名之爲蟨䑕音厥</hi>北方有比肩民焉迭食而迭望<hi>此即半體之人各有一鼻一孔一臂一脚亦猶魚鳥之相合更望備驚急</hi>中有枳首蛇焉<hi>岐頭蛇也或曰今江東呼兩頭蛇爲越王約髮亦名弩絃</hi>此四方<lb/>
+<pb n="3a"/>
+中國之異氣也<lb/>
+　　　　五方<lb/>
+邑外謂之郊郊外謂之牧牧外謂之野野外謂之林林外<lb/>
+謂之坰<hi>邑國都也假令百里之國五十里之界界各十里也</hi>下溼曰隰大野曰平廣平曰原<lb/>
+髙平曰陸大陸曰阜大阜曰陵大陵曰阿可食者曰原<hi>可種穀給食</hi>
+陂者曰阪<hi>阪陀不平</hi>下者曰溼<hi>公羊傳曰/下平曰隰</hi>歳曰葘<hi>今江東呼初耕地反草爲葘</hi>二歳<lb/>
+曰新田<hi>詩曰于彼新田</hi>三歳曰畬<hi>易曰不菑畬</hi>
+　　　　野<lb/>
+東至於泰逺西至於邠國南至於濮鈆北至於祝栗謂之<lb/>
+四極<hi>皆四方極逺之國</hi>觚竹北戸西王母日下謂之四荒<hi>觚竹在北北戸在南西王</hi>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

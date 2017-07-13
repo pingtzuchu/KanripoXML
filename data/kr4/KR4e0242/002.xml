@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>申忠愍詩集巻二</head> <lb/>
+    <p>
+<pb n="KR4e0242_WYG_002-1a"/>
+欽定四庫全書<lb/>
+　申忠愍詩集巻二<lb/>
+　　　　　　　　　　　　明　申佳允　撰<lb/>
+　七言古詩<lb/>
+　　冉子祠<lb/>
+煙火寥寥𤓰井村秋風落日伯牛墳巋然老樹碑陰矗<lb/>
+嵐影波光拂壠雲仰止斯人名不腐科懸德行書懸譜<lb/>
+平原賓客氣如虹沙草榛蕪何處土半世車塵厯落中<lb/>
+<pb n="KR4e0242_WYG_002-1b"/>
+九京贏得鄆侯封一抔伏臘驚樵牧靈雨春滋卉木穠<lb/>
+傳浴溫泉事恍忽石青篆碧探殘碣聞風興起古今情<lb/>
+何問衣冠何問骨<lb/>
+　　楊椒山先生祠<lb/>
+十載公車過上谷成仁祠下霜風肅拜像擬招忠愍魂<lb/>
+拂碑欲食分宜肉父子閣老燄薫天滿朝那復羞奴顔<lb/>
+十罪五奸鳴仗馬誅兇一䟽日星懸天地昏霾神鬼泣<lb/>
+浩氣丹心血化碧含笑龍逢地下遊英靈縹緲直聲奕<lb/>
+<pb n="KR4e0242_WYG_002-2a"/>
+吁嗟乎蜃市氷山頃刻形蘋蘩俎豆千秋榮分宜當日<lb/>
+心已死忠愍今日氣猶生<lb/>
+　　寄祝楊春臺同年<lb/>
+吾郡同年十七人惟君與我情更親地分百里雖懸隔<lb/>
+夣寐周旋笑語頻一日君來謁太守留連蕭寺三更酒<lb/>
+約予共作清源遊雞黍相邀不置口長至纔過踐素盟<lb/>
+奚囊驢背到甘陵欵扉倒屣歡迎入下榻挑燈意氣横<lb/>
+暢飲髙歌幾日夜忽聞兵逼遵陽下匆匆分袂整歸鞭<lb/>
+<pb n="KR4e0242_WYG_002-2b"/>
+半擾離憂半恐怕冬盡都門報解圍春光倐忽柳花飛<lb/>
+小牕偶坐翻年譜二月知君誕降時不謂同年爾我獨<lb/>
+同年同月伊為熟只兹明媚仲春天廿九為予君廿六<lb/>
+選箑題詩代舉觴維祺首為祝髙堂蘭芽蚤接瓊林瑞<lb/>
+棣蕚平分桂樹香大物明年知唾手南宮奮發仍黄耉<lb/>
+同飛願得附青雲予亦因之而不朽<lb/>
+　　登刻鳳樓懷李小有<lb/>
+仙李當年寓此樓下樓倐忽已三秋每于碁罷閒登眺<lb/>
+<pb n="KR4e0242_WYG_002-3a"/>
+搔首渾如天際頭刻鳳主人曽到魯邸逢小有話離苦<lb/>
+重來樓上問何期日選十三月選五五月明朝恰十三<lb/>
+計程三日至清源先期不見飛鴻信予懷𣺌𣺌默無言<lb/>
+安得翩然蚤握手樓頭十日留小有如雲樓下訂前盟<lb/>
+一曲長歌百斗酒<lb/>
+　　將進酒<lb/>
+君不見健兒騎馬㨗追風縱横十萬屯盧龍又不見漁<lb/>
+陽將領燕姬妾骷髏半帶豺狼血洺干還是太平春咲<lb/>
+<pb n="KR4e0242_WYG_002-3b"/>
+爾何為愁不輟寛解胃腸惟醉眠羞澀囊中探數錢且<lb/>
+酌且歌且自舞醉來白眼欲問天髙陽徒麯秀才呼我<lb/>
+共追陪秉燭熬長夜狂呼大呌聲如雷百斗頹然復一<lb/>
+斛星淡蟲飛晨光開卧倒如泥醉欲死強起顧酒心不<lb/>
+灰一日餘生一日醉酩酊傲殺醒眼輩不必玉薤并羅<lb/>
+浮濁者澆臍清沁肺一片月十里荷携壺處處醉顔酡<lb/>
+那問人世有干戈<lb/>
+　　太康令魏于野殉城烈烈吊以詩<lb/>
+<pb n="KR4e0242_WYG_002-4a"/>
+秋風獵獵葵丘道衰草枯林吹野燒令君躑躅女墻低<lb/>
+煙火陰陰照寒嶠黄沙慘澹太康城賊騎環圍萬堞平<lb/>
+羅掘雀鼠紅㷔起令君血淚裂雙睛戌樓霹靂天鬼怒<lb/>
+睢陽平原君其伍青史白虹刀㦸横千家髑髏泣酸雨<lb/>
+滄桑易位陵谷翻精靈不死鬚眉尊憶君道左綈袍語<lb/>
+短歌凄咽擬招魂<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR4e0242_WYG_002-4b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　申忠愍詩集巻二<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

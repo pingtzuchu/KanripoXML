@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2a0029_WYG_102-1a"/>
+　舊五代史巻五十攷證<lb/>
+唐宗室列𫝊二比至渭橋　渭橋歐陽史作滑橋疑傳<lb/>
+　刻之訛据通鑑攷異引薛史亦作渭橋今仍其舊<lb/>
+明年武皇昭雪克讓復入宿衞黄巢犯闕僖宗幸蜀克<lb/>
+　讓時守潼關為賊所敗　案僖宗幸蜀以前武皇未<lb/>
+　甞昭雪克讓無由復入宿衞出守潼關通鑑攷異常<lb/>
+　辨其誤今攷新唐書黄巢𫝊巢攻潼關齊克讓以其<lb/>
+　軍戰關外時士飢甚潛燒克讓營克讓走入關疑當<lb/>
+<pb n="KR2a0029_WYG_102-1b"/>
+　時因齊克讓之名與李克讓同遂致𫝊聞輾轉失實<lb/>
+　耳歐陽史祗據薛史原文不為辨正今無可復考姑<lb/>
+　附識于此<lb/>
+是月平潞州斬其刺史李殷鋭　案新唐書僖宗紀中<lb/>
+　和三年十月李克用陥潞州刺史李殷銳死之與是<lb/>
+　書李克修𫝊同是書武皇紀又作十一月平潞州紀<lb/>
+　𫝊自相矛盾通鑑從克修𫝊作十月歐陽史從武皇<lb/>
+　紀作十一月<lb/>
+<pb n="KR2a0029_WYG_102-2a"/>
+李存顥者　案歐陽史作養子存顥存實<lb/>
+懋間平之德　間平原本作開平繹其文義當是用漢<lb/>
+　時河間獻王東平憲王今改正<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2a0029_WYG_102-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　舊五代史卷五十攷證<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

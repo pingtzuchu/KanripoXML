@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>姑蘇志卷三</head>
+    <p>
+<pb n="KR2k0029_WYG_003-1a"/>
+欽定四庫全書<lb/>
+　姑蘇志卷三　　　　　　　明　王鏊　撰<lb/>
+　　　古今守令表中<lb/>
+<pb n="KR2k0029_WYG_003-2a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-3a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-4a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-5a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-6a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-7a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-8a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-9a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-10a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-11a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-12a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-13a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-14a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-15a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-16a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-17a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-18a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-19a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-20a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-21a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-22a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-23a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-24a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-25a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-26a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-27a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-28a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-29a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-30a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-31a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-32a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-33a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-34a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-35a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-36a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-37a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-38a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-39a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-40a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-41a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-42a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-43a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-44a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-45a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-46a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-47a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-48a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-49a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-50a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-51a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-52a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-53a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-54a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-55a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-56a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-57a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-58a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-59a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-60a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2k0029_WYG_003-60b"/>
+　　　右自太平興國至德祐知州一百六人<hi>内再任五人</hi>
+　　　　知府一百四十三人<hi>内再任十人三任一人</hi>以他官權<lb/>
+　　　　任一十五人外有不赴任一十八人辛若渝<lb/>
+　　　　<hi>慶厯四年五月自知壽州徙任不赴</hi>齊廓<hi>慶厯七年三月辛酉自淮南轉運使移任</hi>
+　　　　<hi>不赴</hi>李絢<hi>皇祐四年六月知開封府/以事出知蘇州未行卒</hi>張諷<hi>熙寧七年</hi>
+　　　　<hi>七月自知越州徙任未行改明州</hi>張説<hi>元豐元年為熙河經略使請郡得知蘇州</hi>
+　　　　<hi>過闕改知成都府元祐元年五月提舉杭州洞霄宮改知蘇州亦不赴范志壁記作熙寧</hi>
+　　　　<hi>誤</hi>章惇<hi>按會要元祐三年四月知越州不赴除蘇州復辭未報遂丁父憂實録云</hi>
+<pb n="KR2k0029_WYG_003-61a"/>
+　　　　<hi>四月以提舉洞霄宮除知蘇州五月丁夘依舊提舉元祠未詳孰是又壁記無之蓋未嘗</hi>
+　　　　<hi>之任</hi>章衡<hi>紹聖元年三月丙申/自知曹州徙蘇未上</hi>楊級<hi>紹聖元年閏四月辛</hi>
+　　　　<hi>未朔自知越州詔移蘇州與章衡兩易不赴</hi>呂惠卿<hi>紹聖元年閏四月乙酉自</hi>
+　　　　<hi>提舉崇福宮除知蘇州未上改江寧府</hi>李仲權<hi>元符二年八月以河北東路提</hi>
+　　　　<hi>刑知蘇州不赴</hi>王博聞<hi>崇寧四年五月自知懐州滿除未上六月改河北路轉運</hi>
+　　　　<hi>使</hi>葉棣<hi>大觀二年十月自知潁/州徙蘇未上仍知潁州</hi>王璹<hi>政和三年九月</hi>
+　　　　<hi>以京西路轉運使知平江未上仍依舊任</hi>霍端友<hi>政和四年以禮部侍郎請郡除</hi>
+　　　　<hi>知平江府未上改陳州</hi>黄潛善<hi>建炎二年二月罷相除觀文殿學士知平江府</hi>
+<pb n="KR2k0029_WYG_003-61b"/>
+　　　　<hi>不赴卒</hi>朱勝非<hi>建炎二年四月罷相除知洪州五月改知平江府不赴</hi>趙<lb/>
+　　　　鼎<hi>紹興二年八月自提舉洞霄宮降知府事未到九月遂改江東安撫大使</hi>陳克<lb/>
+　　　　敬<hi>紹興三年四月自知泉州改知府事不赴</hi>不列通凡守臣二百<lb/>
+　　　　六十四人<lb/>
+<pb n="KR2k0029_WYG_003-62a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-63a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-64a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-65a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-66a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-67a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-68a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-69a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-70a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-71a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-72a"/>
+</p>
+<p>
+<pb n="KR2k0029_WYG_003-73a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2k0029_WYG_003-73b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　姑蘇志卷三<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

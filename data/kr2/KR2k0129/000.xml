@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>嶺南風物記</head>
+    <p>
+<pb n="KR2k0129_WYG_000-1a"/>
+欽定四庫全書　　　　史部十一<lb/>
+　嶺南風物記　　　　　　地理類八<hi>雜記之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案嶺南風物記一卷<lb/>
+　　　國朝呉綺撰宋俊増補江闓刪訂綺本文士故<lb/>
+　　　　是書所敘述率簡雅不支與范成大桂海虞<lb/>
+　　　　衡志可相伯仲首二條敘氣候次十條敘石<lb/>
+　　　　次六十條敘草木花竹次十七條叙鳥次五<lb/>
+<pb n="KR2k0129_WYG_000-1b"/>
+　　　　條叙獸次六條叙蟲次十七條叙鱗介次三<lb/>
+　　　　條叙香次二條叙酒次四條叙蔬穀次十五<lb/>
+　　　　條以雜事附叙於末其叙硯叙香特詳核惟<lb/>
+　　　　碣石衛品字石一條宜入卷末雜事中殆分<lb/>
+　　　　段編次偶失序耳俊所增補凡七條皆别識<lb/>
+　　　　之其論米芾所賞之石本出浛洭縣地秋深<lb/>
+　　　　水涸之時於沙坑中取之謂之脱沙後浛洭<lb/>
+　　　　併入英徳遂以英徳石當之實皆<graphic n="KR0915" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0915.png" mimeType="image/png"/>物亦前<lb/>
+<pb n="KR2k0129_WYG_000-2a"/>
+　　　　人所未發惟闓所刪者今不復見其刋除當<lb/>
+　　　　否遂不可考矣綺有林恵集别著録俊字長<lb/>
+　　　　白山陰人闓字辰六貴陽人也乾隆四十五<lb/>
+　　　　年七月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

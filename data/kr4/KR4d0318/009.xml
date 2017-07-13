@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4d0318_SBCK_009-1a"/>
+翠㣲南征録卷之九<lb/>
+　律詩<lb/>
+　　　<graphic n="KR3238" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3238.png" mimeType="image/png"/>齋<hi>潦其偏有数尺之室僅可置身簷厦去<折 t="33"/>西関屋㝡弊陋上不蔽凨雨下不避塗</hi>
+<hi>而岀目曰<graphic n="KR3238" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3238.png" mimeType="image/png"/>齋<折 t="33"/>地不逺不能直腰</hi>
+屋老塵生索椽低帳不縑炙灯烟染棟見客帽翻簷<lb/>
+織壁慳三尺遮門断半簾吾身交九四控制萬愁兼<lb/>
+　　　容膝<hi>
+                        <graphic n="KR3238" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3238.png" mimeType="image/png"/>齊之側有䖏曰容膝</hi>
+具体功非逺全軀恨已消安禪湏促跌覔句敢成摇<lb/>
+悔不身齊足時當事半腰行人只蒲伏何䖏得逍遥<lb/>
+　　　野飲呈祝山甫<hi>次山甫韵</hi>
+<pb n="KR4d0318_SBCK_009-1b"/>
+野景何湏買山花不待培幕天分古木裀地得蒼苔<lb/>
+酒上鶯調曲肴空鵲墮梅一壺隨所適何䖏問蓬萊<lb/>
+　　　題練省元壁<hi>次日岀福建界</hi>
+脚債嗟犹欠心朋喜偶逢溪声含客怒山色為誰濃<lb/>
+古樹晴摇盖殘蟬晚帶鐘莫辝一樽酒明日是吳儂<lb/>
+　　　南浦客邸<hi>遇兩半月</hi>
+南浦半月兩溪流暗没沙断橋虹散綺拍岸雪飛花<lb/>
+孤舘客無梦短蓬人未家何如擁紅日照我上筠車<lb/>
+　　　借景樓<hi>則四璧笙簫之声間發戎坐馮著明<折 t="33"/>翠㣲居建新市萬花間交客至命酒</hi>
+<hi>我有也有詩次韵<折 t="33"/>目曰借景言其皆非</hi>
+<pb n="KR4d0318_SBCK_009-2a"/>
+朱箔鈎新月平闌架落霞百錢呼酒炙四壁聽笙笳<lb/>
+翠映誰家竹香飄何䖏花功名未歸我且此寄生涯<lb/>
+　　　宿水陸寺<hi>送陳工部上建陽屇水陸寺</hi>
+蕭寺廊廡濶無人独自行吳儂非好僻楚客為誰清<lb/>
+花落<graphic n="KR1088" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1088.png" mimeType="image/png"/>風掃灯殘借月明江湖有烟浪且此寄餘生<lb/>
+　　　呈魯伯瞻<hi>伯瞻有詩次其韵</hi>
+信断無青鳥盟寒有白鷗悶和詩作首愁聽<lb/>
+水滴蓮花曉山空桂子秋功名有期㑹教<lb/>
+　　　浦城買舟<hi>諸友苛留舟人<折 t="33"/>菊節日買舟商下</hi>
+㣲雨催行斾西風送客舟籬邉鞠纔放<lb/>
+<pb n="KR4d0318_SBCK_009-2b"/>
+浪激花翻雪山涵影浸秋前灘<lb/>
+　　　歸興呈吳梦祥<hi>次吳梦祥送</hi>
+魚㕍音書少關山梦寐遥對花思粉面遇<lb/>
+喜意鵲應報歸心馬更驕西風綽鞭鐙飛<lb/>
+　　　秋晩即事<hi>次黄巨瞻韵</hi>
+秋宇清如洗秋宵分外長寒鳮鳴午夜征㕍喚重陽<lb/>
+楓葉已全赤菊花纔半黄不知秋幾許試与問蘇郎<lb/>
+　　　呈李景山<hi>次楊次杜韵</hi>
+居靜心尝樂愁多鬂不禁買舟和月載把酒對花斟<lb/>
+白水有深淺青山無古今從兹淂真趣消盡利名心<lb/>
+<pb n="KR4d0318_SBCK_009-3a"/>
+　　　小圃<lb/>
+舍北有餘隙平禠作小園花存四五本竹種兩三根<lb/>
+風伯倩摇珮月娥煩佐尊誰知方丈裡别有一乾坤<lb/>
+　　　村居<hi>次臧仲武韵時在双瑞</hi>
+莫怪村居僻村居亦可嘉僕羸腰帶艾婢倩鬢簪花<lb/>
+歌罷蛙催樂酒闌蜂報衙門前少車馬慚愧五侯家<lb/>
+　　　宣城道中<lb/>
+恰到杏花天轉頭過禁煙燕歸纔數日蚕起又三眠<lb/>
+少智慚樗里多材憶孟堅功名且隨分無苦自咨煎<lb/>
+　　　過新豐市懷古<hi>書坣今立道旁<折 t="33"/>新豐乃太白旧㳺</hi>
+<pb n="KR4d0318_SBCK_009-3b"/>
+路岀横江去虛堂立道偏雨声楊柳外風色杏花前<lb/>
+有泪沾詩宿無欹述酒仙采江千古恨號認向誰傳<lb/>
+　　　買舟浦城<lb/>
+畏路逢危路尋舟得小舟始云為得計終乃復添憂<lb/>
+艙狹難伸足篷低怎㪯頭十圍無䖏著踘促向中流<lb/>
+　　　憇妙因寺<hi>次王有道先生韵</hi>
+蕭寺寒山外﨑嶇一徑幽断雲迎客入曲水護堤流<lb/>
+木石四時古軒<graphic n="KR1084" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1084.png" mimeType="image/png"/>五月秋午煩聊小憩拂石為支頭<lb/>
+　　　再繼前韵<lb/>
+俗塵方倥偬淂淂訪清幽煙練素疑抹山屏翠欲流<lb/>
+<pb n="KR4d0318_SBCK_009-4a"/>
+松筠掃日月藤蔓懸春秋物外有餘樂吾生空白頭<lb/>
+　七言絶句<lb/>
+　　　讀漢史<hi>閱紀信韓信傳</hi>
+漢將假帝為真帝齊乞真王作假王大抵紀韓皆是<lb/>
+信不知誰短又誰長<lb/>
+　　　寄王五四將仕<hi>戊辰以其兄之事耒告徘徊<折 t="33"/>將仕乃清之弟寓廣信嵗在</hi>
+<hi>二絶餞行<折 t="33"/>乆之臨别以</hi>
+季叔青天轟霹靂屈原平地溺波濤從教晉楚多戕<lb/>
+賊二子何曾損一毫<lb/>
+周田且謂曾占易商野何嘗識梦書假使二君無感<lb/>
+<pb n="KR4d0318_SBCK_009-4b"/>
+召不成終老在樵漁<lb/>
+　　　約叔叔真<hi>從㳺兩月徬徨不忍去作詩送之<折 t="33"/>二首权真孤髙山林自葛峯耒見</hi>
+半間屋抵斗來大一箇身同山樣髙側坐斜眠俱不<lb/>
+得煩君除去一牛毛<lb/>
+厄臺有事留司馬凌閣無名問太宗我且<graphic n="KR1083" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1083.png" mimeType="image/png"/>桓君且<lb/>
+去歸期千載約芙蓉<lb/>
+　　　題忩間<hi>夜𧺫讀書有感</hi>
+陽虎不名真盗玉子張何事便書紳聖賢立論有㣲<lb/>
+㫖精義當求妙入神<lb/>
+　　　過西溪<hi>觧珮青帘一醉而去<折 t="33"/>道經西溪僕馬痡瘖</hi>
+<pb n="KR4d0318_SBCK_009-5a"/>
+路随馬足難知數山叠魚鱗不記名隔岸青帘人不<lb/>
+渡一溪流水暮潮生<lb/>
+　　　題蓮華壁間<lb/>
+風外落花千萬片水边啼鳥兩三声無情驚起陽臺<lb/>
+梦独倚閑<graphic n="KR1084" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1084.png" mimeType="image/png"/>看月明<lb/>
+　　　贈吕元玘<hi>居分水道旁</hi>
+周末見人歌采芑楚先聞客賦離騷胸中有氣不能<lb/>
+吐空使虹蜺萬丈髙<lb/>
+　　　初抵富沙<hi>二首</hi>
+芳草不隨春水緑連山犹帶夕陽明人生有酒且行<lb/>
+<pb n="KR4d0318_SBCK_009-5b"/>
+樂休向河梁問子卿<lb/>
+鞭鐙兩三千里路樓臺數十万人家長虹不吸秋江<lb/>
+水一葉扁舟懸雪花<lb/>
+　　　呈周及之貢元<hi>山中留宿<折 t="33"/>及之居三衢</hi>
+一頭却過六七嶺兩足幾乎百十斤恰喜故人能下<lb/>
+榻檠<graphic n="KR1084" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1084.png" mimeType="image/png"/>樽酒細論文<lb/>
+　　　寧川冷渡<hi>次壁間韵</hi>
+峯囬路轉六七里林靜鳥啼三四声㳺女不知行旅<lb/>
+恨一茶留我話平生<lb/>
+　　　宿灌頭<hi>次璧間韵</hi>
+<pb n="KR4d0318_SBCK_009-6a"/>
+淡魚纔煮醎魚熟白酒新篘紅酒香莫訝盃<graphic n="KR1083" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1083.png" mimeType="image/png"/>成草<lb/>
+草一年忙䖏是蚕桑<lb/>
+　　　南浦水閣<hi>其中麗人不知行客南征之後乃<折 t="33"/>南浦橋之西有閣臨水同舍宴岳</hi>
+<hi>之意成二十八字<折 t="33"/>有挿花臨水相嘲</hi>
+橋横南浦虹千丈柳護西溪翠一行佳麗不知滋味<lb/>
+悪挿花臨水照紅粧<lb/>
+　　　秋晩独步<hi>次刘彦礼韵</hi>
+十分秋色着嵓桂幾陣晚凉催井桐自恨異鄉知遇<lb/>
+少一樽相属與誰同<lb/>
+　　　後溪<hi>二首</hi>
+<pb n="KR4d0318_SBCK_009-6b"/>
+蓬<graphic n="KR1084" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1084.png" mimeType="image/png"/>夜雨短長夢啼鳥喚人新旧愁萬里論文一樽<lb/>
+酒醉和明月上扁舟<lb/>
+泉声恰似世情惡山色不如歸興濃自恨十圍無處<lb/>
+著何如瘦作束腰蜂<lb/>
+　　　楊花<lb/>
+一絲不染湖光白萬点能囘山色青三月金明池上<lb/>
+水与予同是一浮萍<lb/>
+　　　杜鵑<lb/>
+殘月照愁人病酒好風吹梦客思家欲知亡國恨多<lb/>
+少紅盡乱山無限花<lb/>
+<pb n="KR4d0318_SBCK_009-7a"/>
+　　　悶述<hi>二首</hi>
+雁翎未忍刳丁謂虎口犹期脱蔡京何事姦邪皆倖<lb/>
+免洛陽年少却南征<lb/>
+有鼎不烹胡虜肉無刀可断佞臣頭男兒此等不平<lb/>
+氣空使衝冠射斗牛<lb/>
+　　　酒禁<hi>民不許交飲之禁<折 t="33"/>次項仲山韵嘲軍</hi>
+將軍愛士民心失太守憂民士氣衰大抵軍民皆赤<lb/>
+子如何從此便藩籬<lb/>
+　　　贈美人别<hi>鼎才韵<折 t="33"/>次男氏蒙</hi>
+花臉送愁和露泣鶯声傳恨向人嬌别情逺去尤難<lb/>
+<pb n="KR4d0318_SBCK_009-7b"/>
+割相送不須離畫橋<lb/>
+　　　寄宗上人<lb/>
+我為扣閽拘狴犴汝將吟筆換袈裟别來猶記松<graphic n="KR1084" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1084.png" mimeType="image/png"/>
+外一掬清泉自点茶<lb/>
+　　　寄趙及父<lb/>
+欲邀詩社同蓮社為築將壇并杏壇圖淂有材皆命<lb/>
+世不隨風月報平安<lb/>
+　　　有感<lb/>
+千囷未必將軍喜五斗難消令尹愁若使淵明逢魯<lb/>
+肅折腰應到脚跟頭<lb/>
+<pb n="KR4d0318_SBCK_009-8a"/>
+　　　桃花<lb/>
+紅雨隨風散落霞行人幾誤武陵家牧童若向青帘<lb/>
+見應認枝頭作杏花<lb/>
+　　　弦月<lb/>
+人間離别最堪憐天上嫦娥恐亦然昨夜廣寒分破<lb/>
+鏡半匲飛上九重天<lb/>
+翠㣲南征録卷之九<lb/>
+<pb n="KR4d0318_SBCK_009-8b"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

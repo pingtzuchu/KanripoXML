@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_304-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選卷三百四<lb/>
+　　柑類<lb/>
+　　　四言古<lb/>
+　　　　甘頌　　　　　　　　　　<hi>晉</hi>宗　炳<lb/>
+　煌煌嘉實磊如景星南金其色隋珠其形<lb/>
+　　　五言古<lb/>
+　　　　詠柑　　　　　　　　　　<hi>陳</hi>徐　陵<lb/>
+<pb n="KR4h0141_WYG_304-1b"/>
+　朱實挺江南苞品擅珍淑上林雜嘉樹江潭間修竹萬<lb/>
+　室擬封侯千株挺荆國緑葉萋以布素榮芬且郁得陳<lb/>
+　終宴歡良垂雲雨育<lb/>
+　　　　阻雨不得歸瀼西甘林　　　<hi>唐</hi>杜　甫<lb/>
+　三伏適已過驕陽化為霖欲歸瀼西宅阻此江浦深壞<lb/>
+　舟百板坼峻岸復萬尋篙工初一棄恐泥勞寸心佇立<lb/>
+　東城隅悵望髙飛禽草堂亂𤣥圃不隔崑崙岑昏渾衣<lb/>
+　裳外曠絶同層陰園甘長成時三寸如黄金諸侯舊上<lb/>
+<pb n="KR4h0141_WYG_304-2a"/>
+計厥貢傾千林邦人不足重所廹豪吏侵客居蹔封殖<lb/>
+日夜偶瑤琴虚徐五株態側塞煩胸襟焉得輟雨足杖<lb/>
+藜出嶇嶔條流數翠實偃息歸碧潯拂拭烏皮几喜聞<lb/>
+樵牧音令兒快搔背脫我頭上簪<lb/>
+　　五言律<lb/>
+　　　樹間　　　　　　　　　　<hi>唐</hi>杜　甫<lb/>
+岑寂䨇柑樹婆娑一院香交柯低几杖垂實礙衣裳滿<lb/>
+嵗如松碧同時待菊黄㡬回霑葉露乗月坐胡床<lb/>
+<pb n="KR4h0141_WYG_304-2b"/>
+　　　甘園　　　　　　　　　　　杜　甫<lb/>
+春日清江岸千甘二頃園青雲羞葉宻白雪避花繁結<lb/>
+子隨邉使開筒近至尊後扵桃李熟終得獻金門<lb/>
+　　五言排律<lb/>
+　　　詠宗良兄齋頭佛手柑　　　<hi>明</hi>朱多炡<lb/>
+春雨空花散秋霜碩果低牽枝出纖素隔葉巻柔荑指<lb/>
+豎禪師悟拳開法嗣迷疑將灑甘露似欲攬伽梨色現<lb/>
+黄金界香分肉麝臍願從靈運後接引證菩提<lb/>
+<pb n="KR4h0141_WYG_304-3a"/>
+　　七言律<lb/>
+　　　柳州城西北隅種甘樹　　　<hi>唐</hi>柳宗元<lb/>
+手種黄柑二百株春來新葉徧城隅方同楚客憐皇樹<lb/>
+不學荆州利木奴㡬嵗開花聞噴雪何人摘實見垂珠<lb/>
+若敎坐待成林日滋味還堪養老夫<lb/>
+　　　師黯以彭甘五子為寄因懐四眀園中此果甚<lb/>
+　　　　多偶成長句以為謝　　　<hi>宋</hi>蘇舜欽<lb/>
+憶向江東太守園猗猗甘樹蔽前軒風搖玉蕊霏㣲落<lb/>
+<pb n="KR4h0141_WYG_304-3b"/>
+霜發金衣委墜繁枕畔冷香通醉夢齒邉餘味滌吟魂<lb/>
+天彭路逺無因得猶賴君心記舊恩<lb/>
+　　　襄柑分惠景仁以詩將之　　<hi>宋</hi>韓　維<lb/>
+荆州解綬十經春迴夢青林繞漢濱霜氣輕寒催紺實<lb/>
+渚波餘潤作甘津僧園採掇寧論數客路奔馳竟占新<lb/>
+雪意垂收髙會缺分金聊助席間珍<lb/>
+　　　食甘　　　　　　　　　　<hi>宋</hi>蘇　軾<lb/>
+一䨇羅帕未分珍林下先嘗媿逐臣露葉霜枝剪寒碧<lb/>
+<pb n="KR4h0141_WYG_304-4a"/>
+金盤玉指破芳辛清泉䔩䔩先流齒香霧霏霏欲噀人<lb/>
+坐客殷勤為收子千奴一掬奈吾貧<lb/>
+　　　曽宏父分餉洞庭柑　　　　<hi>宋</hi>曽　㡬<lb/>
+黄柑送似得嘗新坐我松江震澤濵想見霜林三百顆<lb/>
+夢成羅帕一䨇珍流泉噴霧真宜酒帶葉連枝絶可人<lb/>
+莫向君家樊素口瓠犀㣲齼逺山顰<lb/>
+　　　訪曉庵禪師師以洞庭柑為供<lb/>
+　　　　　　　　　　　　　　　<hi>眀</hi>張　和<lb/>
+<pb n="KR4h0141_WYG_304-4b"/>
+十年不到白龍潭延慶名僧始一叅石鼎未烹陽羡茗<lb/>
+金盤先獻洞庭柑檐前暮雨霑天棘席外春風動石楠<lb/>
+眀日又從江上别九峰惆悵隔晴嵐<lb/>
+　　七言絶句<lb/>
+　　　酬郭簡州寄柑子　　　　　<hi>唐</hi>薛　濤<lb/>
+霜規不讓黄金色圎質仍含御史香何處同聲情最異<lb/>
+臨川太守謝家郎<lb/>
+　　　和王晉卿傳柑　　　　　　<hi>宋</hi>蘇　軾<lb/>
+<pb n="KR4h0141_WYG_304-5a"/>
+　侍史傳柑玉座傍人間艸木盡天漿寄與維摩三十顆<lb/>
+　不知薝蔔是餘香<lb/>
+　　　　䟦小寺舊題　　　　　　　<hi>宋</hi>劉克莊<lb/>
+　禪几曽陪白氎巾柑花似雪鬬芳新而今柑子圎如彈<lb/>
+　不見澆花供佛人<lb/>
+　　　　竹枝詞　　　　　　　　　<hi>眀</hi>吴鼎芳<lb/>
+　南濠有客寄書還夫壻黄柑已趂錢㡬日不來湖上棹<lb/>
+　休敎重上贑州船<lb/>
+<pb n="KR4h0141_WYG_304-5b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選巻三百四<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

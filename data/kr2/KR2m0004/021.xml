@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2m0004_WYG_021-1a"/>
+江陽譜<lb/>
+李攸字好徳政和初編輯西山圖經九域志等書瀘帥<lb/>
+孫羲叟招<hi>原註下有闕文</hi>書上轉一官張公浚入朝約與俱以<lb/>
+家事辭手編皇朝事實起建隆迄宣和凡六十卷其三<lb/>
+十卷先聞于時有旨制司上太常少卿何麒言請命以<lb/>
+宫觀居家終其書後以餘三十卷上之緘封副本并贄<lb/>
+啓秦相檜啓云方今雖為中興其實創業作事成于果<lb/>
+斷亦貴聴言思始議之艱危尚軫鈞懷之惴慄已窒申<lb/>
+<pb n="KR2m0004_WYG_021-1b"/>
+棖之欲方和傅說之羮宜俊乂旁招于庶位之中無顔<lb/>
+色拒人于千里之外更願無忘在莒居寵思危秦怒寢<lb/>
+其書不報今藏于家<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　宋朝事實卷末<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

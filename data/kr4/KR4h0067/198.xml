@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>兩宋名賢小集巻一百九十八</head> <lb/>
+    <p>
+<pb n="KR4h0067_WYG_198-1a"/>
+欽定四庫全書<lb/>
+　兩宋名賢小集巻一百九十八<lb/>
+　　　　　　　　　　　　宋　陳　思　編<lb/>
+　　　　　　　　　　　　元　陳世隆　補<lb/>
+　林泉結契<hi>三</hi>
+　王質<lb/>
+　山友續辭<lb/>
+　　枸杞<lb/>
+<pb n="KR4h0067_WYG_198-1b"/>
+　　　花紅紫實紅葉青春苖可食清甘人呼甜菜得<lb/>
+　　　名甚多最佳為仙人杖西王母杖<lb/>
+我取友兮得枸杞石陂花頭犬聲起霏霏細雨雜斜陽<lb/>
+半濕半乾留春水仙人杖王母杖所思兮何可曠野鶯<lb/>
+慫惥野花旺<lb/>
+　　黄精<lb/>
+　　　花青白子白葉青春苖可食甘腴人呼筆菜根<lb/>
+　　　尤美生肥土或如柑瘠土小亦如橘多啖可飽<lb/>
+<pb n="KR4h0067_WYG_198-2a"/>
+我取友兮得黄精竹葉荳花交野隂人不圖仙只圖飽<lb/>
+鴉鵲窠凋龍爪零白可擷青可捋所思兮何由掇半巖<lb/>
+斜陽溪影潑<lb/>
+　　山藥<lb/>
+　　　花白莖紫葉青根可食極美人呼靈藷取之嘿<lb/>
+　　　則獲稱謂則無得相傳為靈<lb/>
+我取友兮得山藥蝶花開盡鈴子落㡬日風吹黄不成<lb/>
+藷根藷子多少靈猿父上<graphic n="KR0968" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0968.png" mimeType="image/png"/>子下所思兮安可捨一重<lb/>
+<pb n="KR4h0067_WYG_198-2b"/>
+空巖一重野<lb/>
+　　甘菊<lb/>
+　　　花黄莖紫葉青春苖可食甘香尤宜茶莖青者<lb/>
+　　　氣㣲帶濇人號苦意不堪食<lb/>
+我取友兮得甘菊髙叢低葉貯清馥石盂幡曬乳花飛<lb/>
+錯落紛敷間寒綠入顧渚入䝉山所思兮何可捐椿兒<lb/>
+桂子爭芳鮮<lb/>
+　　牛蒡<lb/>
+<pb n="KR4h0067_WYG_198-3a"/>
+　　　花褐莖如芋殻如栗實如葡萄苖莖皆可食人<lb/>
+　　　呼牛菜又號䑕黏子<lb/>
+我取友兮得牛蒡稠叢捷䑕走不上深山誰㐲又誰牽<lb/>
+唇麄舌皴膝頭壯實雖惡食不惡所思兮奚可却梧岡<lb/>
+竹墩隔沙礫<lb/>
+　　石耳<lb/>
+　　　色面黒背紫柔薄生深巖危壁餘木耳地耳皆珍<lb/>
+我取友兮得石耳石壁崚嶒下無底非脾非腎非肝腸<lb/>
+<pb n="KR4h0067_WYG_198-3b"/>
+馬齒馬牙銜不起耳無是耳無非所思兮何可遺石笋<lb/>
+石花滋不脂<lb/>
+　　合蕈<lb/>
+　　　色黒為楮蕈最珍白蕈紫蕈各隨樹而生又茭<lb/>
+　　　蕈竹蕈梭蕈蘆蕈類甚多産於卑濕地亦多美<lb/>
+我取友兮得合蕈山深樹底風不進彈子團圞敷未敷<lb/>
+飛<graphic n="KR1702" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1702.png" mimeType="image/png"/>騰猿毋口麄藤花迷荳花肥所思兮焉可違溪山<lb/>
+撩亂將安歸<lb/>
+<pb n="KR4h0067_WYG_198-4a"/>
+　　槐芽<lb/>
+　　　花黄葉青春芽可食或兎目䑕耳不堪食餘棗<lb/>
+　　　芽皂芽櫧芽初嫰皆可食<lb/>
+我取友兮得槐芽繚陂灌業饒襍花纔茁嫰莢抽枯椏<lb/>
+涎流山鵲并山鴉膠著䖟房著蠊所思兮安可芟碧蘚<lb/>
+冷淘思露寒<lb/>
+　　蔊頭<lb/>
+　　　色褐葉青堅瘦生深山峻壁極辛亦帶㣲苦稍<lb/>
+<pb n="KR4h0067_WYG_198-4b"/>
+　　　傷大烈縷蘆菔雜之皆可食<lb/>
+我取友兮得蔊頭猛嚏烈香驚伏虯石羊石蛇齧不得<lb/>
+彈蟹燕蠶何可偷常風寒常雪寒所思兮奚可堪隂崖<lb/>
+湧沫號飛湍<lb/>
+　　山姑<lb/>
+　　　花白莖葉皆青木防風春芽可食餘天門冬芽<lb/>
+　　　萆薢芽芎芽地黄芽牛膝芽皆可食又號赤脚<lb/>
+　　　娘<lb/>
+<pb n="KR4h0067_WYG_198-5a"/>
+我取友兮得山姑春雨春風沙土蘇山麄屨綻不皴脚<lb/>
+祗恐义頭罥花落拜頻婆揖菜娘所思兮豈可忘苦楝<lb/>
+風髙須索防<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR4h0067_WYG_198-5b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　兩宋名賢小集巻一百九十八<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

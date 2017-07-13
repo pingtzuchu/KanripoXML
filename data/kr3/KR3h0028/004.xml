@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>廣川書跋卷四</head>
+    <p>
+<pb n="KR3h0028_WYG_004-1a"/>
+欽定四庫全書<lb/>
+　廣川書跋卷四　　　　　　宋　董逌　著<lb/>
+　　秦公敦銘<lb/>
+商人堌中得敦銘曰秦公作敦其制簋也當秦之世敦<lb/>
+制尚存可以考之按禮器有敦謂有虞氏之制也周制<lb/>
+則士用之大夫以上則簠簋矣皆黍稷器也楊氏圖古<lb/>
+敦與簋無辨異矣將周人所為不得盡用有虞氏之制<lb/>
+耶敦音頓漢人謂頓設也玉府讀如對今轉為平聲非<lb/>
+<pb n="KR3h0028_WYG_004-1b"/>
+也先秦古器與此圖敦皆無盖傳曰敦有首者尊者器<lb/>
+飾也飾盖象龜故經曰敦南首眀象龜蟲獸之形則古<lb/>
+者形制亦不一特尊者有飾故與簋類其無飾者則不<lb/>
+以龜為盖知為上士之器也<lb/>
+　　太公寳缶銘<lb/>
+諡書無太自周書定法後世雖有附入然不著此也昔<lb/>
+齊有太公則謂先君太公望子久矣故假以自見然則<lb/>
+太上為古非考行而傳也後世雖不以此考諡如田和<lb/>
+<pb n="KR3h0028_WYG_004-2a"/>
+輩皆取以自號於世秦自夷公後太公繼之其子代立<lb/>
+是為恵公夫惟子代其位故以太上自稱秦齊皆有太<lb/>
+公秦紀失傳其故世不考之其以諡為太公惟秦則然<lb/>
+矣其曰太公寳缶則秦之廟器也楊南仲以其書為缶<lb/>
+吕氏圖為古古非器名則其説不可据也今考於小篆<lb/>
+則為缶者類矣雖秦篆故有與古文類者其不相類則<lb/>
+亦衆也豈可盡据以求合耶傳曰盎謂之缶鄭康成許<lb/>
+慎服䖍皆以缶為瓦又曰汲器又謂缶無以五金名者<lb/>
+<pb n="KR3h0028_WYG_004-2b"/>
+今考弫伯作匧銘殆與此類故知其為簠也古之為簠<lb/>
+者本或作□亦或作<graphic n="KR1286" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1286.png" mimeType="image/png"/>則□字為<graphic n="KR1286" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1286.png" mimeType="image/png"/>書畫類也然自古<lb/>
+者缶簠同文特後世不知考故識者疑也<lb/>
+　　秦和鍾銘<lb/>
+　秦公曰丕顯朕皇祖受天命奄有下國十有二公不<lb/>
+　隊上帝嚴襲夤天命保大業故秦<graphic n="KR0658" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0658.png" mimeType="image/png"/>事<hi>或釋作使</hi>䜌夏曰<lb/>
+　余雖小子穆穆師秉眀徳獻敷眀刑䖍敬朕祀以受<lb/>
+　多福綏和萬民唬<hi>同虓</hi>夙夕刺刺□□<hi>説文曰□田易居也羽元反以</hi>
+<pb n="KR3h0028_WYG_004-3a"/>
+　<hi>文或作桓</hi>萬生是敕咸畜百辟𦙍士趫趫<hi>善緣木走之才讀若王子蹻</hi>
+　文武鎮静不廷優佊<hi>音避</hi>㸉<hi>古文燮从言籀文燮从<graphic n="KR2423" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2423.png" mimeType="image/png"/>/<graphic n="KR2423" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2423.png" mimeType="image/png"/>音飪讀若濕秦文作燮</hi>
+　<hi>从辛</hi>百邦于秦執事匭<hi>古文/簋</hi>咊鍾故曰<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <hi>柯額翻枝柯也古文與格</hi>
+　<hi>同</hi>邦其音<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>雝雝孔煌<hi>文作其音光/雝銧雝孔煌</hi>以昭<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <hi>説文音落</hi>
+　<hi>謂零落也楚詞曰水凍于<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>澤音鶴鐸顔之推以零音賜今此字當作格古今字異也</hi>孝享以<lb/>
+　受毛魯<hi>古文作旅</hi>多釐眉夀無疆畯恵在位髙引有慶匍<lb/>
+　<hi>楊南仲匍作薄借讀今以文考定當為撫</hi>百四方永寳用宜<lb/>
+秦咊鍾皇祐元年春自内府降出俾考正樂律官臣圖<lb/>
+<pb n="KR3h0028_WYG_004-3b"/>
+其狀以黍尺度之口徑衡尺有五寸縮尺有三寸九分<lb/>
+深二尺二寸六分項徑衡尺有二寸縮尺有一寸柄髙<lb/>
+八寸銘曰秦公奄有下國考秦之先盖秦嬴受地西<graphic n="KR1136" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1136.png" mimeType="image/png"/>
+為國附庸至秦仲始大逮襄公賜岐西地名在諸侯其<lb/>
+世數可考而知也今曰丕顯皇祖十有二公則秦公不<lb/>
+自列於世矣史自襄公後十二公為景公自非子始邑<lb/>
+則十二公後當為成公自秦仲十二公則為桓公秦至<lb/>
+成公世號為强大其稱受命盖追本所始而諸侯有國<lb/>
+<pb n="KR3h0028_WYG_004-4a"/>
+則推大前世率以公爵自<graphic n="KR0844" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0844.png" mimeType="image/png"/>周自后稷十五王又諸先<lb/>
+王不窋<hi>音术</hi>非王而後世以王號推之則秦嬴稱公可以<lb/>
+知矣嗚呼咊鍾之作吾知其在成公世矣楊南仲乃謂<lb/>
+襄公十二世為桓公非子之後十二世為宣公非也昔<lb/>
+嘗考鍾律於前之世鍾其大曰鏞小曰棧中曰剽編於<lb/>
+虡者鍾師掌之其大曰鎛此皆用於樂而可以度數考<lb/>
+也聖人制律以定樂則鍾之大數以律為度黄鍾之律<lb/>
+長九寸以律計身倍半為鍾是其數得於尺有咫矣其<lb/>
+<pb n="KR3h0028_WYG_004-4b"/>
+半損之得四寸半合為二尺二寸有半以為鍾餘律如<lb/>
+是其以律為廣長圜徑也鍾間方六鼓間亦六舞間容<lb/>
+四上下十六以十為率不盡於世此黄鍾之制也□大<lb/>
+十者其長十六合自尺五寸準之當得二尺四寸而秦<lb/>
+鍾其深當二尺二寸六分其頂當寸四分自外度其髙<lb/>
+則合於二尺四寸自内度其深則得於二尺二寸半而<lb/>
+合於周之黄鍾律矣古人尺度雖不可一至律始一龠<lb/>
+則皆周尺也漢制鍾律自昔考信而景祐樂尺所從寀<lb/>
+<pb n="KR3h0028_WYG_004-5a"/>
+者以黍得也若夫以玉尺論周以鐵尺論齊以水尺論<lb/>
+隋其長率一寸八釐或至二寸三分皆不足用以和樂<lb/>
+無怪其不能定律也夫以秦之辟在西裔禮文樂制無<lb/>
+傳諸夏考於鍾律之度則該本於律而深於法數其於<lb/>
+昭著勲庸告事宗祧眀示徳意皆深款重識盖將以燮<lb/>
+調萬邦使工人告和以謂作器而民樂之矣則銘其鍾<lb/>
+曰咊豈亦<graphic n="KR0844" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0844.png" mimeType="image/png"/>在三庭而盡備樂物以待鍾求和衆樂者<lb/>
+耶若吳楚勾越辟陋在夷不知紀法谹鍾鎮鼎光華采<lb/>
+<pb n="KR3h0028_WYG_004-5b"/>
+飾著象真<hi>一作異</hi>物變前之大章至有九龍百獸其大千<lb/>
+石其重萬鈞不得用於樂者非鍾也將以昌廣<hi>一作庶</hi>嚻<lb/>
+大肆為觀美以夸震一世者後人増異侈誕相從故延<lb/>
+賔之重至二千八百鈞嘉徳之量至受千斛太極之廣<lb/>
+至二十二圍豈曰大不出鈞重不過石哉周至景王嘗<lb/>
+作無射大林史不者斤鈞觀其政害財匱以逞其昭大<lb/>
+矣功庸棄絶使著事者不得述焉是不若秦人著灋庸<lb/>
+器而本於法制則銘畯功以示後世秦有得也<lb/>
+<pb n="KR3h0028_WYG_004-6a"/>
+　　詛楚文<lb/>
+　又<hi>通作有</hi>秦嗣王□<hi>籀文/敢字</hi>用吉玉<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <hi>古宣字通作瑄</hi>璧使其宗<lb/>
+　祝邵鼛布忠<hi>一作愍</hi>告于不顯大沈久<hi>讀作/故</hi>湫<hi>巫咸本作不顯</hi>
+　<hi>大神巫咸亞駝本作不顯大神亞駝</hi>㠯<hi>古以/字</hi>厎<hi>底</hi>楚王熊相之多辠㫺<lb/>
+　我先君□<hi>穆</hi>公及楚成王是<hi>讀作/寔</hi>繆<hi>讀作戮</hi>力同心兩<lb/>
+　邦□<hi>古若字</hi>□<hi>古壹/字</hi>絆㠯<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>婚/</hi>
+                    <graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>姻/</hi>袗㠯齊□曰枼<hi>葉</hi>
+　萬子孫毋相爲不利□<hi>古文親字</hi>卬<hi>仰</hi>大沈久湫而質焉<lb/>
+　今楚王熊相康<hi>讀作庸</hi>囘無<graphic n="KR0146" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0146.png" mimeType="image/png"/>
+                    <hi>道/</hi>淫失<hi>讀作/佚</hi>甚<hi>讀作耽</hi>亂<lb/>
+<pb n="KR3h0028_WYG_004-6b"/>
+　<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>奓<hi>古侈字</hi>
+                    <graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>從<hi>縱/</hi>變輸<hi>讀作/渝</hi>□刺内之<graphic n="KR0767" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0767.png" mimeType="image/png"/>
+                    <hi>籀文/則字</hi>虣<hi>音薄</hi>
+　<hi>報反</hi>䖈不姑<hi>巫咸亞駝/竝作辜</hi>刑戮孕<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>婦/</hi>幽刺□□<hi>古戚字</hi>拘<lb/>
+　圉其叔父寘者<hi>讀作諸</hi>㝠室櫝棺之中外之<graphic n="KR0767" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0767.png" mimeType="image/png"/>冒改久<lb/>
+　心不□皇天上帝及大沈久湫之光<graphic n="KR0844" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0844.png" mimeType="image/png"/>
+                    <hi>烈</hi>威神而兼<lb/>
+　俖<hi>倍</hi>十八世之詛□率者<hi>諸</hi>侯之兵㠯臨加我欲剗<lb/>
+　伐我社稷伐烕<hi>音許劣反</hi>我百<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>姓/</hi>求蔑灋<hi>古法字</hi>皇天上<lb/>
+　帝及大沈久湫之卹祠圭玉羲<hi>犧</hi>牲逑<hi>一作/逮</hi>取<graphic n="KR1803" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1803.png" mimeType="image/png"/>
+                    <hi>我</hi>
+　邊城新<graphic n="KR1609" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1609.png" mimeType="image/png"/>及<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>長□<graphic n="KR1803" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1803.png" mimeType="image/png"/>不□曰可今又悉興其□張<lb/>
+<pb n="KR3h0028_WYG_004-7a"/>
+　矜<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <hi>音府巫咸本作□籀文億字</hi>怒飾甲底兵奮士盛師㠯偪<graphic n="KR1803" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1803.png" mimeType="image/png"/>
+　邊<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <hi>讀作境</hi>將欲復□<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>貺</hi>蹟唯是秦邦之羸□敝□<lb/>
+　<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>讀作□</hi>䩱<hi>音/俞</hi>棧輿禮使介老將<hi>去/聲</hi>之㠯自救也<hi>巫咸本作</hi>
+　<hi>殹古也字</hi>亦應□<hi>古受字</hi>皇天上帝及大沈久湫之㡬靈徳<lb/>
+　賜□<hi>古克字</hi>劑<hi>巫咸本作/<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>古制字</hi>楚師且復略我邊城□數楚<lb/>
+　王之俖□犯詛箸<hi>著</hi>者<hi>諸</hi>石章㠯□大神之威神<lb/>
+　　湫淵<lb/>
+大沈故湫地志以為在安定朝那秦并天下祠官所常<lb/>
+<pb n="KR3h0028_WYG_004-7b"/>
+奉大沈河沔江是為四川牲用牛犢具圭幣其神為中<lb/>
+祠秦故就質雖用祝告然其制猶本堯舜舊典女几少<lb/>
+牢具嬰毛一吉玉熊山其祠羞酒太牢具嬰毛五璧褚<lb/>
+山少牢嬰毛一璧騩山太牢具巫祝舞嬰毛一璧今用<lb/>
+吉玉宣璧而不言數有祝去巫其禮已異當秦漢間<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+淵之靈或喧呼輒興雲仁夀中宜居湫水移於始平故<lb/>
+□冊有靈應而朝那無聞<hi>爾雅璧大六寸謂之宣肉倍好謂之璧今曰吉玉宣璧盖</hi>
+<hi>取吉玉為宣璧也</hi>
+<pb n="KR3h0028_WYG_004-8a"/>
+　　巫咸<lb/>
+巫咸河在女丑北其神威靈震耀得在祀典世圖其像<lb/>
+右手摻青蛇左手摻赤蛇在保登山羣巫所以上下故<lb/>
+安邑有巫咸祠其地袤五十二里廣七里周百十六里<lb/>
+誓在石章所以沈於此而告也石麤可礪當時不擇美<lb/>
+石以傳豈誓於神者有取於此將圖其可久而存哉□<lb/>
+不得而泐也<lb/>
+　　亞駝<lb/>
+<pb n="KR3h0028_WYG_004-8b"/>
+王存乂以亞為烏今考鍾鼎銘惡或為亞古人於書盖<lb/>
+假借從聲其書自當如此周禮曰其川滹池古文駝作<lb/>
+馳字池故沱也詩曰江有沱其字本洍後世不知書學<lb/>
+故以沱為洍以駝為沱此宜讀惡池為亞駝不足怪也<lb/>
+烏池在周為漚夷水起北地東入河一名滱水九澤一<lb/>
+也顧野王考其地在靈邱竹書紀年穆公十一年取靈<lb/>
+邱則秦誓於此所以夸大其功而求定於晉也黄伯思<lb/>
+學士以烏駝為在烏氏按烏氏在安定郡烏水所出觀<lb/>
+<pb n="KR3h0028_WYG_004-9a"/>
+秦方得晉地恐不盡質于安定一郡故知在靈邱為是<lb/>
+　　書詛楚文後<lb/>
+秦自文世有三石初得大沈湫文於<graphic n="KR1122" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1122.png" mimeType="image/png"/>又得巫咸文於<lb/>
+渭最後得亞駝文於洛其詞盡同惟所用以質於神者<lb/>
+則隨其號以異書盡竒古間存鍾鼎遺制亦或雜有秦<lb/>
+文盖書畫始變者也嵗久漸以刓缺因据舊本得其完<lb/>
+書此秦人底誓於神敘國之信作盟詛之載詞者也大<lb/>
+沈故湫在朝那當漢安定郡方四十里巫咸祀在安邑<lb/>
+<pb n="KR3h0028_WYG_004-9b"/>
+巫咸山下臨鹽水亞駝則在晉為漚夷其傳自周秦為<lb/>
+著祀則底而致信於禮則然其在盟詛於主□誓大事<lb/>
+在盟小事在詛若詛誓而求猒則惟後世末俗行之非<lb/>
+古也秦楚之㑹著於書者不詳見不知其同盟者凡幾<lb/>
+何嵗而質於神者如是衆也當其時唯岐陽之盟最盛<lb/>
+且顯餘不見於書今考其詞若出一時又不知其一日<lb/>
+㑹盟安得親質秦都又遍朝那靈邱耶前世疑楚無熊<lb/>
+相而秦楚初未相搆豈有相趣以十八世之盟誓哉然<lb/>
+<pb n="KR3h0028_WYG_004-10a"/>
+春秋時楚本熊穴後世以熊為號又以其傳自熊霜又<lb/>
+謂熊相其間如熊相禖熊相宜僚熊相祈而姓書熊相<lb/>
+為芊姓方其盟質於神楚亦再世失秦則詛盟宜非一<lb/>
+人古者列國有書類不主名其告於神亦惟曰嗣王則<lb/>
+楚以其姓此其稱也然自成王後其見于經者盖平王<lb/>
+以無忌取秦女昭王亡而秦使子蒲子尾赴難其在咸<lb/>
+懐間始合盟然則謂十八世者亦可得而見也今曰昔<lb/>
+我穆公及楚成王親質大沈故湫夫以其時考之楚成<lb/>
+<pb n="KR3h0028_WYG_004-10b"/>
+王十三年而秦穆公立其相與假尊周者盖二十三年<lb/>
+雖不知其在何時親質然知其㑹盟之日最為長且久<lb/>
+也然質于惡池安邑湫淵果知非一時其為詛且宗祝<lb/>
+分致以告於神矣且楚自成王十八世為莊襄其頃襄<lb/>
+時楚猶盛故秦以連衡為䧺楚以約從為霸當此時天<lb/>
+下諸侯不歸秦則歸楚楚使諸侯析符求合亦可謂威<lb/>
+强盛大宜秦人之畏也張儀以地詐楚則齊與楚合今<lb/>
+視其詞則有新<graphic n="KR1609" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1609.png" mimeType="image/png"/>及<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>是則商於也其後秦虜屈匄楚<lb/>
+<pb n="KR3h0028_WYG_004-11a"/>
+悉國兵復與秦戰則所謂剗伐我社稷伐滅我百姓而<lb/>
+秦猶分漢中以和楚然則背犯盟而詛於神者此其為<lb/>
+秦恵文時也懐王死頃襄王立當時猶以天下之勢在<lb/>
+楚故謂楚之故地漢中林酈可得而復山東河内可得<lb/>
+而一勞民休衆南面稱王矣於是襄王復與諸侯約從<lb/>
+則所謂率諸侯之兵以臨加我然則秦之詛楚為頃襄<lb/>
+也嗚呼<graphic n="KR1061" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1061.png" mimeType="image/png"/>闗之詐則没而不書及<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>長<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>猶謂楚人倍<lb/>
+犯盟詛<hi>一作誼</hi>志其神而公怨之其自以為求信於神者<lb/>
+<pb n="KR3h0028_WYG_004-11b"/>
+妄也然文辭簡古猶有三代餘習非之罘琅邪可況後<lb/>
+先此其為可傳也<lb/>
+　　秦權銘<lb/>
+秦權銘曰二十六年皇帝盡并兼天下諸侯□首大安<lb/>
+立號為皇帝乃詔丞相疾綰法度量<graphic n="KR0767" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0767.png" mimeType="image/png"/>不壹歉欵者皆<lb/>
+壹眀之此始皇帝詔也又曰元年制詔丞相斯去疾法<lb/>
+度量盡始皇帝為之皆有刻詞焉今襲號而刻詞不稱<lb/>
+始皇帝其於久逺也如後嗣為之者不稱成功盛徳刻<lb/>
+<pb n="KR3h0028_WYG_004-12a"/>
+此銘故刻左使無疑此二世詔也昔開皇二年長安得<lb/>
+秦稱權旁有銅塗䥴字即此銘也家訓所傳則從鼎而<lb/>
+此從貝為異許慎説文兼有二字盖籀書文異壹從壼<lb/>
+昆吾圜器其從吉聲也壹為専非數也其以權量専眀<lb/>
+之所以一度量于天下秦無道則甚矣其制法立器盖<lb/>
+不苟如此字尤竒古如三代鼎彞舊文顔之推嘗被詔<lb/>
+寫讀謂史記隗林當從權作狀書傳久逺或轉譌至此<lb/>
+今世得此銘者其器不一皆法制之物故得著焉<lb/>
+<pb n="KR3h0028_WYG_004-12b"/>
+　　秦權銘<lb/>
+李元吉得秦權銘前詔與世所見盡同其後詔曰元年<lb/>
+制詔丞相斯去疾法度量盡始皇帝為之皆有刻詞焉<lb/>
+今襲號而不稱始皇帝其於久逺也如後嗣為之者不<lb/>
+稱成功盛徳刻此詔故刻左使毋疑則與世所見字異<lb/>
+其後又曰平陽斤平陽為晉邑則所置隷守也按史記<lb/>
+秦紀二世元年皇帝曰金石刻盡始皇帝所為也今襲<lb/>
+號而金石刻辭不稱始皇帝其於久逺也如後嗣為之<lb/>
+<pb n="KR3h0028_WYG_004-13a"/>
+者不稱成功盛徳丞相臣斯去疾御史大夫臣徳昧死<lb/>
+言請具刻詔書刻石因眀白矣此詔今見於金石不一<lb/>
+其詞故自不同太史氏所記亦其一也按權一物具前<lb/>
+後詔書皆刻金為之古者鐫刻金石有其法漢後惟見<lb/>
+刻石有存于今而刻金之工殆絶世不得傳然世亦有<lb/>
+鈞同此而無刻字秦雖剏法立制其權量固同天下而<lb/>
+刻銘疑内府所守其餘官府具得受之故能備前後詔<lb/>
+然今時所見猶有數器皆刻此詔當其時其在四方應<lb/>
+<pb n="KR3h0028_WYG_004-13b"/>
+官府所在得受以為制此詔在民間以此為數而準取<lb/>
+其平未必盡有刻也<lb/>
+　　秦銘<lb/>
+京兆田氏世得銅鍰一其制即始皇帝權銘又得方版<lb/>
+纔三寸有竒挍以漢度得五寸其刻銘則秦二世詔也<lb/>
+往時文與可得此二物盖其一時所制而鍰為前詔方<lb/>
+為後詔疑兩代異器偶相合於此余考之即古規矩之<lb/>
+器也古者定法立制始於權平於衡衡連生規規為榘<lb/>
+<pb n="KR3h0028_WYG_004-14a"/>
+規榘自是器名故以寓方圜之法後世不知其灋徒守<lb/>
+其名率至不知規榘所在此其為方圜者且得有法數<lb/>
+度量可考於其間耶孟子曰規榘方圜之至也為規榘<lb/>
+以得天下之方圜則不可無器以寄其法使人就而正<lb/>
+也韓子曰規有䃺荀子曰五寸之榘盡天下之方夫規<lb/>
+之圜也其至於䃺則失其圜也此名法之所守也榘方<lb/>
+也不失其方故能盡夫天下之方古之制器左旋見規<lb/>
+右折見榘規榘準繩四者皆器也故曰大匠與人規榘<lb/>
+<pb n="KR3h0028_WYG_004-14b"/>
+使知方圜之法至於棄規榘委繩墨而得方圜平直者<lb/>
+吾弗知也<lb/>
+　　嶧山銘<lb/>
+陳伯脩示余嶧山銘字已殘缺其可識者厪厪耳視其<lb/>
+氣質渾重全有三代遺象顧泰山則似異疑古人於書<lb/>
+不一其形類也嶧山之石唐人已謂棗木刻畫不應今<lb/>
+更有此然求其筆力所至非後人摹傳搨臨可得放象<lb/>
+故知摹本有至數百年者夏鄭公嘗得此本益可信也<lb/>
+<pb n="KR3h0028_WYG_004-15a"/>
+嶧山今謂鄒其記曰始皇乗羊車以上其路猶存即邾<lb/>
+文公所卜繹地酈道元曰始皇觀禮於魯登此山命李<lb/>
+斯大篆勒銘山額名曰畫門其文考史記多不合豈傳<lb/>
+者誤邪魏武帝使人排倒猶有求者不已秦則無道而<lb/>
+篆刻顧後世不及故世以為法取之不窮其後邨落供<lb/>
+命不給聚薪其下縱火焚之遂至刓缺然不應遂無存<lb/>
+字昔唐人嘗取舊文勒石故謂後世所摹皆新刻然碎<lb/>
+碑未絶故是好竒者猶得搨本余有之不逮此本完也<lb/>
+<pb n="KR3h0028_WYG_004-15b"/>
+　　泰山篆<lb/>
+泰山篆秦丞相李斯書慶厯庚子嵗宋莒公惜其殘剥<lb/>
+摹石于東平郡凡四十七字江鄰㡬治奉符患四方求<lb/>
+者日至厭于供命則又刻其字于縣廨按其文秦二世<lb/>
+詔也史記載始皇帝上泰山立石封祠下禪梁父刻所<lb/>
+立石詔書其敘巡狩以時不書封禪事立石書詔非緣<lb/>
+封禪發之疑史記自誤二世元年東行郡縣並海南至<lb/>
+會稽盡刻始皇所立石石旁著大臣從者名如此則泰<lb/>
+<pb n="KR3h0028_WYG_004-16a"/>
+山刻石始皇帝所立始皇詔書刻其三面二世詔宜在<lb/>
+其隂今石南面為二世詔書始皇帝刻詔書乃在北西<lb/>
+東三面盖石仆而後人起立植之以其一面稍完故立<lb/>
+之南鄉此其故也河間劉跂嘗披抉剔去其翳蝕處得<lb/>
+字九十有八班班可知以史記考之其詞可讀眀年余<lb/>
+至泰山就視其石髙纔八九尺方面二尺餘以亂石培<lb/>
+其下昔所建立盖鑿石為穴下寢其中嵗久摧仆則後<lb/>
+人累石固其趾以存至字則止此未可以久遠期也考<lb/>
+<pb n="KR3h0028_WYG_004-16b"/>
+其詞寴<hi>音親</hi>
+                    <graphic n="KR1741" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1741.png" mimeType="image/png"/>
+                    <hi>音鄰</hi>遠黎民大義著眀史作休眀陲于後世<lb/>
+史作<graphic n="KR1136" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1136.png" mimeType="image/png"/>于後世皇帝躬聽史作躬聖男女體順史作理<lb/>
+順且刻詔書金石皆史誤以詞可得證之然昭隔内外<lb/>
+或謂為融古字相借不然則格與隔不可兼用也陲為<lb/>
+邊陲若垂後世則當作<graphic n="KR1136" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1136.png" mimeType="image/png"/>説文甚辨慎不應爾見泰山<lb/>
+篆字疑其字誤慎書雜以古字論撿押也曰施于後嗣<lb/>
+石尤可考益為昆字昔衛宏嘗謂古一字有兩名者就<lb/>
+注之御史大夫則夫夫也莒公亦曰夫中有大如千人<lb/>
+<pb n="KR3h0028_WYG_004-17a"/>
+書千千今考禮記檀弓曰夫夫是也則字盖如此此李<lb/>
+斯所得据也大人貫簪為夫則大夫同文義亦可知嗚<lb/>
+呼三代書名至秦焚滅盡之後世不得知先王命書之<lb/>
+意惟秦文是習此其禍天下後世其有窮耶後世無所<lb/>
+考書名論辨字意則猶以是為据盖亦敝也篆文於後<lb/>
+世為工然況之三代此其為夷狄異俗之法以亂中國<lb/>
+者君子則宜過而不問也昔漢儒謂秦廢先王書李斯<lb/>
+欲以其書傳後世以愚黔首然黔首卒叛秦而不可愚<lb/>
+<pb n="KR3h0028_WYG_004-17b"/>
+至於其書在者後世諸儒方共解詁以傳而三代書名<lb/>
+幸有存者則隨棄不録然則秦之為患其足以愚後世<lb/>
+者余於此知之矣非秦能愚人諸儒盖自愚而不知也<lb/>
+　　金人銘<lb/>
+李次升示余金人銘曰皇帝二十六年初兼天下以為<lb/>
+郡縣正法律同度量大人来見臨洮身長五丈足六尺<lb/>
+謂得之卬中金人脇下余考之此秦金人銘也何以至<lb/>
+此昔秦以長狄十二見于臨洮長五丈餘以為祥鑄金<lb/>
+<pb n="KR3h0028_WYG_004-18a"/>
+人象之其重二十四萬斤坐阿房宫前當漢而徙之未<lb/>
+央宫王莽嘗鐫其膺文則此銘知不得傳矣其後董卓<lb/>
+以其九鑄錢而石虎以其三置鄴宫苻堅取之後置長<lb/>
+安以其二為泉其一適至陕而堅亂民以其勞苦患之<lb/>
+乃排陷河中戴延之曰翁仲所投故河流湧起然金狄<lb/>
+亡矣為此書者其自秦權而成之寄於金人然字竒而<lb/>
+古猶在銅鍰伯仲間也<lb/>
+　　程邈篆書<lb/>
+<pb n="KR3h0028_WYG_004-18b"/>
+李季忱示余程邈篆四簡簡十二字余考之自漢以後<lb/>
+書篆書所不至也篆灋䝿得竵匾應勢故筆力常有餘<lb/>
+此書盡之或謂書家但言邈在雲陽獄初從簡便作書<lb/>
+主於隸徒故號隸文當多事時用之適當遂公行之邈<lb/>
+不更為篆文篆自史籀後李斯因之作為小篆由漢逮<lb/>
+今不能改豈邈與斯當秦之世固嘗為此篆文不可考<lb/>
+也張懐瓘曰古文謂孔子壁中書篆書史程邈作也隸<lb/>
+書程邈所獻也初未信此言逮得季忱所藏刻銘於是<lb/>
+<pb n="KR3h0028_WYG_004-19a"/>
+信之知唐世書多懐瓘自有据也<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3h0028_WYG_004-19b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　廣川書跋卷四<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

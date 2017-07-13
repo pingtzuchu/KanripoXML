@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>周易稗疏攷異</head> <lb/>
+    <p>
+<pb n="1a"/>
+欽定四庫全書<lb/>
+　周易稗疏攷異<lb/>
+　　　　　　　　　　　　　漢陽王夫之撰<lb/>
+　攷異<lb/>
+亢龍有悔<hi>説文亢作忼音口朗反又苦浪反即忼慨之忼忼者直前不讓之意故曰知進而不知退今文作亢於象義未盡</hi>
+履霜堅冰隂始凝也<hi>郭京舉正云堅氷二字衍文胡氏春秋傳引此亦無堅氷二字又始凝之凝正作冰音魚陵反堅氷之氷當作仌凝乃俗字</hi>
+<pb n="1b"/>
+以從禽也<hi>郭京舉正作何以從禽也於无虞之義為允</hi>
+乗馬班如<hi>説文班當作驙音張連反馬載重難行也</hi>
+泣血漣如<hi>説文作泣涕㦁如㦁力延反泣下也漣古與瀾通瀠洄也</hi>
+再三瀆<hi>䙝黷字本宜作黷春秋黷武字从黑煩辱也从水之凟乃溝瀆字俗寫更減水作凟从冫尤不成字之甚</hi>
+田有禽利執言<hi>郭京曰定本利執之之行書向下引腳𩔖行書言字故誤言當作之</hi>
+比吉也<hi>郭京曰也字衍文</hi>
+九四履虎尾朔心愬<hi>説文愬愬作虩虩</hi>
+<pb n="2a"/>
+皆失實也<hi>郭京云失當作反此宜以失實為允不必從郭説</hi>
+隨大亨貞无咎而天下隨時<hi>郭京云亨下有利字合之經文為允</hi>
+噬乾胏<hi>胏説文作<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>从肉从仕食所遺也今文依揚雄作胏音緇美反音與文皆不同</hi>
+賁亨小利有攸徃<hi>郭京云定本不字艸書𫝑如小字當作不利按經言剛上文柔故小利則郭説非也</hi>
+天文也<hi>郭京日上有剛柔交錯句本義用之今按剛柔交錯句出王氏注非必經文云然或别有闕文</hi>
+剝剝也<hi>郭京云剝也當作剝落也</hi>
+動而健<hi>郭京云健上有愈字</hi>
+<pb n="2b"/>
+育萬物<hi>郭京云無萬字</hi>
+童牛之牿<hi>説文告者牛觸人著横木以告之故借為文告之告或借音郜則此牿字本宜作告从牛从口已有禁止之義其从牛从告之牿牛馬牢也見書費誓</hi>
+祗既平<hi>祗説文作禔既平音市支反安福也險不滿則受福於平也若祗字則止有祁祗祗敬二義於既平之義無涉若俗用為只但語助詞乃晉人法書字不可用書經典</hi>
+百穀草木麗乎土<hi>説文作䕻乎地䕻吕支反草木相附而生也</hi>
+日昃之離<hi>説文昃正作<graphic n="KR1350" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1350.png" mimeType="image/png"/>音阻力反一本作<graphic n="KR0628" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0628.png" mimeType="image/png"/>亦非春秋日昊乃克葬音□與此不同</hi>
+振恒凶<hi>説文作榰恒榰章移反柱砥也盖即今之磲石古用木為之上六為榰者猶大過初上為捒也<pb n="3a"/>積隂在上震動不寜而㢲木下柔強欲撐支故大无功无功者求有功而功不成也</hi>
+其牛掣<hi>説文作其牛觢音尺制反一角仰也一角仰則一角俯乖醜之䫉與其人天且劓同象若掣音昌列反鉗掣也不可作惉懘之懘釋王輔嗣以為滯隔不進未是</hi>
+君子以反身修德<hi>郭京舉正反作正</hi>
+允升<hi>説文允作□音與允字同進也初處下故日進</hi>
+幽不明也<hi>郭京云無幽字今按幽字誠為贅出</hi>
+于臲卼<hi>説文作于𣙗<graphic n="KR1896" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1896.png" mimeType="image/png"/>𣙗魚祭反<graphic n="KR1896" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1896.png" mimeType="image/png"/>五結反𣙗木相摩/也<graphic n="KR1896" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1896.png" mimeType="image/png"/>徐鍇曰物不安則出不在也𣙗摩不安則出離之故吉行</hi>
+<pb n="3b"/>
+甕敝漏<hi>甕字本从缶作罋缶自缶陶器也瓦則以覆屋者舜先有陶器桀乃作瓦故罌缾之屬皆不宜从瓦</hi>
+亨飪也<hi>説文作孰飪也孰俗加火作熟非</hi>
+而大亨以養聖賢<hi>郭京云無而大亨三字按養聖賢雖必豐而不可加于天地則不當特言大亨</hi>
+女歸吉也<hi>郭京云無也字</hi>
+君子以居賢德善俗<hi>郭京云俗上有風字</hi>
+不如其娣之袂良也<hi>郭京云無也字</hi>
+<pb n="4a"/>
+士刲羊无血<hi>左傳血作<graphic n="KR0954" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0954.png" mimeType="image/png"/>音呼光反杜預云血也與六五良字韻叶</hi>
+豐其屋<hi>説文作寷其屋音與豐同大屋也</hi>
+吉行也<hi>郭京云吉下有志字則吉字連上為句</hi>
+闃其无人<hi>徐鉉曰窺其户闃其无人窺小視也臭大張日也言始小視之雖大張日亦不見人義當只用狊字今从門誤狊扄馘反</hi>
+斯其所取災<hi>郭京云斯當作㒋㒋賤人也郭盖據王輔嗣之説王注云而為斯賤之役也</hi>
+㢲<hi>徐鉉曰卦名當作<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>與㢲字所從之㢲不同上从□/□亦具也具而荐之<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>順之義卦下一隂薦進于陽與姤同意</hi>
+<pb n="4b"/>
+乗木有功也<hi>郭云句上有利貞二字</hi>
+用拯馬壯<hi>説文作用抍馬壯抍抆字本从手从升从丞从手則是承字</hi>
+繻有衣袽<hi>説文作需有衣絮需待也待亦豫戒之意王輔嗣曰宜作濡六四離火之主未有霑濡之象固宜作需待之需絮女余反緼也袽俗字不興</hi>
+見天下之賾<hi>徐鉉曰賾字不合六書之義此亦假借之字當作嘖傳口嘖有煩言賾之左从臣無所取今按賾字或蕭齊之上改造以為已頥同名令字形茂美實則古所無也後言天下之至</hi>
+成天下之亹亹<hi>徐鉉曰易冇亹亹字書所無不知何以下筆今文又譌作亹古文亦無此字惟河西有浩亹水音門又詩鳬鷺在亹水門也左傳鄭人弑昭公或立公子亹註不著音當讀如浩亹之亹此亹<pb n="5a"/>亹自當依徐鉉所定作娓娓娓娓不窮之意</hi>
+是故夫象<hi>郭京云無夫象二字</hi>
+夫乾確然<hi>説文作寉然寉胡沃反髙至也若堅确之确俗或作確於此不通</hi>
+服牛乗馬<hi>説文作犕牛犕平秘反借令作服當音房富反</hi>
+不見利不勸<hi>郭京云勸當作動</hi>
+天地絪緼<hi>説文作天地壹㚃壹㚃交而不泄之意壹讀如字㚃音於因反今用絪席緼袍字於義無取</hi>
+危以動則民不與也<hi>郭京云與當作輔按下有則民不與句不當複出</hi>
+<pb n="5b"/>
+乾以君之<hi>郭京云君當作居</hi>
+莫熯乎火<hi>説文熯作□呼旰切从日不从火與詩我孔熯矣音義皆别</hi>
+為的顙<hi>説文的作馰音與的同白頟也按馬頟白者謂之的盧的字從白亦通</hi>
+物生必䝉<hi>郭京云物當作始</hi>
+䝉者䝉也<hi>郭云䝉也也字上有昧字良是</hi>
+比者比也<hi>郭云者字下冇親字按比也之比或當音毗二反</hi>
+䝉雜而著<hi>郭云雜當作稚於義可通但古無稚字正作穉則不與雜字相近不至傳譌</hi>
+　郭京舉正有經文可通但據王輔嗣韓康伯所解輙<lb/>
+<pb n="6a"/>
+　為改易者皆不取入<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="6b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　周易稗疏攷異<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

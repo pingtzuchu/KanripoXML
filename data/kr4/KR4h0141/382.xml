@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_382-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選巻三百八十三<lb/>
+　　枸杞類<lb/>
+　　　五言古<lb/>
+　　　　井上枸杞架　　　　　　　<hi>唐</hi>孟　郊<lb/>
+　深鎻銀泉甃髙葉架雲空不與凡木並自將仙葢同影<lb/>
+　疎千㸃月聲細萬條風迸子隣溝外飄香客位中花杯<lb/>
+　承此飲椿嵗小無窮<lb/>
+<pb n="KR4h0141_WYG_382-1b"/>
+　　　　枸杞　　　　　　　　　　<hi>宋</hi>蘇　軾<lb/>
+　神藥不自閟羅生滿山澤日有牛羊憂嵗有野火厄越<lb/>
+　俗不好事過眼等茨棘青荑春自長絳珠爛莫摘短籬<lb/>
+　䕶新植紫笋生卧節根莖與花實收拾無棄物大將𤣥<lb/>
+　吾髩小則餉我客似聞朱明洞中有千嵗質靈厖或夜<lb/>
+　吠可見不可索仙人倘許我借杖扶衰疾<lb/>
+　　　七言律<lb/>
+　　　　楚州開元寺枸杞臨井繁茂可愛<lb/>
+<pb n="KR4h0141_WYG_382-2a"/>
+　　　　　　　　　　　　　　　　<hi>唐</hi>劉禹錫<lb/>
+　僧房藥樹依寒井井有香泉樹有靈翠黛葉生籠石甃<lb/>
+　殷紅子熟照銅瓶枝繁本是仙人杖根老新成瑞犬形<lb/>
+　上品功能甘露味還知一勺可延齡<lb/>
+　　　　枸杞　　　　　　　　　　<hi>宋</hi>楊萬里<lb/>
+　芥花菘莟餞春忙夜吠仙苖喜晩嘗味抱土膏甘復脆<lb/>
+　氣含風露嚥猶香作虀淡著微施酪芼茗臨時莫過湯<lb/>
+　却憶荆谿古城上翠條紅乳摘盈箱<lb/>
+<pb n="KR4h0141_WYG_382-2b"/>
+　　　七言絶句<lb/>
+　　　　和郭使君題枸杞　　　　　<hi>唐</hi>白居易<lb/>
+　山陽太守政嚴明吏静民安無犬驚不知靈藥根成狗<lb/>
+　怪得時聞吠夜聲<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選巻三百八十三<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

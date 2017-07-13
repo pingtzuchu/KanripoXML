@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4f0049_SBCK_045-1a"/>
+詩家游仙一體自唐人以來多爲絕句或別有寄託或<lb/>
+近香籨豔情之作而出以迷離惝怳之辭要無無謂而<lb/>
+作者此集爲游仙詩三百首其託意不可知而語帶煙<lb/>
+霞有雲愁海思之遺所謂詩雜仙心者也先生編樊榭<lb/>
+山房前後二集皆不登載聞舊有堇浦先生一序亦未<lb/>
+之見此本乃郡人所傳鈔者亟爲梓而傳之零珠碎璧<lb/>
+猶可寶貴况三百首之多耶同里後學陳鴻壽引<lb/>
+<pb n="KR4f0049_SBCK_045-1b"/>
+</p>
+<p>
+引<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

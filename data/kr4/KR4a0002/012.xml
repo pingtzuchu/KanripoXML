@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4a0002_SBCK_012-1a"/>
+楚辭卷第十二<lb/>
+　　　　　　校書郎臣王　逸上<lb/>
+招隱士章句第十二　楚辭<lb/>
+招隱士者淮南小山之所作也昔淮南<lb/>
+王安愽雅好古招懷天下俊偉之士<hi>漢書</hi>
+<hi>淮南王安好書招致賔客數千人作爲内外書甚衆</hi>自八公之徒咸慕其<lb/>
+德而歸其仁<hi>神仙傳曰八公詣門王執弟子之禮後八公與安俱仙去</hi>各竭<lb/>
+才智<hi>竭一作擅</hi>著作篇章分造辭賦以類相<lb/>
+從故或稱小山或稱大山其義猶詩有<lb/>
+<pb n="KR4a0002_SBCK_012-1b"/>
+小雅大雅也<hi>漢藝文志有淮南王羣臣賦四十四篇</hi>小山之徒閔<lb/>
+傷屈原又怪其文昇天乗雲伇使百神<lb/>
+似若仙者雖身沈沒名德顯聞與隱處<lb/>
+山澤無異故作招隱士之賦以章其志<lb/>
+也<hi>也一作云邇</hi>
+桂樹叢生兮<hi>桂樹芬香以興屈原之忠貞也補曰郭璞云桂白華叢生山峯冬常青間</hi>
+<hi>無雜木</hi>山之幽<hi>逺去朝廷/而隱藏也</hi>偃蹇連蜷兮<hi>容皃美好悳茂盛也</hi>
+<hi>蜷一作卷補曰音權</hi>枝相繚<hi>仁義交錯條理成也以言才德髙明冝輔賢君爲貞幹也五臣云皆</hi>
+<hi>樹之美皃亦喻原之美行補曰繚紐也居休切</hi>山氣巃嵸兮<hi>岑崟㠁嵯雲滃鬱也</hi>
+<pb n="KR4a0002_SBCK_012-2a"/>
+<hi>巃一作巄五臣云巃嵸雲氣皃補曰巃力孔切嵸音揔山孤皃</hi>石嵯峨<hi>嵯峨嶻孼峻蔽日也五臣</hi>
+<hi>云嵯峨髙皃</hi>谿谷嶄巖兮<hi>﨑嶇閜寪嶮阻窟也五臣云嶄巖險峻皃補曰嶄鉏咸切</hi>
+<hi>閜呼雅反寪于䡄反/苦滑反</hi>水曽波<hi>踊躍灃沛流迅疾也曽一作増</hi>猨狖群嘯<lb/>
+兮<hi>禽獸所居至樂佚也猨一作蝯𥙷曰狖以狩切</hi>虎豹噑<hi>猛獸爭食欲相囓也以言山谷</hi>
+<hi>之中幽深險阻非君子之所處猨狖虎豹非賢者之偶使屈原急來也補曰噑胡髙切咆也</hi>攀援<lb/>
+桂枝兮<hi>登山引木逺望愁也一云引持美木喻美行也五臣云援持也言原引持美行淹留於此</hi>
+<hi>以待明君</hi>聊淹留<hi>周旋中野/立踟蹰也</hi>王孫遊兮<hi>隱士避世在山隅也遊一作游</hi>
+<hi>五臣云原與楚同姓故云王孫補曰樂府有王孫游出於此</hi>不歸<hi>違偕舊土棄室家也</hi>春<lb/>
+草生兮<hi>萬物蠢動抽萌牙也</hi>萋萋<hi>垂條吐葉紛華榮也五臣云萋萋草色</hi>歳<lb/>
+<pb n="KR4a0002_SBCK_012-2b"/>
+暮兮<hi>年齒巳老壽命衰也</hi>不自聊<hi>中心煩亂常含憂也補曰聊音留</hi>蟪蛄<lb/>
+鳴兮<hi>蜩蟬得夏喜呼號也五臣云蟪蛄夏蟬補曰莊子云蟪蛄不知春秋說者云寒蟬也一名蝭蟧</hi>
+<hi>春生夏死夏生秋死或曰山蟬秋鳴者不及春春鳴者不及秋廣雅云蟪蛄蛁蟧即楚詞所云寒螿者也方言</hi>
+<hi>云蛥蚗齊謂之螇螰楚謂之蟪蛄</hi>啾啾<hi>秋節將至悲嘹噍也以言物盛則衰樂極則哀不冝乆隱</hi>
+<hi>失盛時也補曰啾啾衆聲音揫</hi>坱兮軋<hi>霧氣昧也補曰坱烏朗切軋於黠切賈誼賦云坱圠無垠</hi>
+<hi>注云其氣坱圠非有限齊也集韻軮軋逺相映皃</hi>山曲<graphic n="KR1293" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1293.png" mimeType="image/png"/>
+                    <hi>盤詰屈也補曰<graphic n="KR1293" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1293.png" mimeType="image/png"/>音佛山曲也一音</hi>
+<hi>皮筆切</hi>心淹留兮<hi>志望/絶也</hi>恫慌忽<hi>亡妃匹也一作洞荒忽五臣云憂思深也</hi>
+<hi>補曰恫音通痛也慌上聲</hi>罔兮沕<hi>精氣失也五臣云失志皃補曰沕濳藏也美筆切文選音勿</hi>
+憭兮栗<hi>心剥切也栗一作慄補曰憭音了又音聊一音留</hi>虎豹穴<hi>嵺穿岤也穴一</hi>
+<pb n="KR4a0002_SBCK_012-3a"/>
+<hi>作岤五臣云旣危苦又進虎豹之穴補曰淮南云虎豹襲穴而不敢咆襲入也咆噑也嵺音料岤音血</hi>叢<lb/>
+薄深林兮<hi>刺棘也補曰深草曰薄</hi>人上慄<hi>恐變色也上一作之五臣云慄</hi>
+<hi>戰也</hi>嶔岑碕礒兮<hi>山阜/嵎嶔一作欽岑一作崯碕礒一作﨑嶬補曰嶔音欽岑音吟</hi>
+<hi>碕音綺礒音蟻又音錡嶔岑山髙險也碕礒石皃﨑嶬山形</hi>碅磳磈硊<hi>崔嵬嵼嵃補曰碅綺</hi>
+<hi>矜切釋文苦本切非也碅從囷硱從困磳七氷切磈於鬼切硊魚毀切並石皃</hi>樹輪相糾兮<lb/>
+<hi>交錯扶踈糾一作糺扶踈一作糾紛五臣云輪横枝也</hi>林木茷骩<hi>枝條盤紆一無林木二字</hi>
+<hi>茷一作茇一作一作茷補曰茇柭茷並音跋茷木枝葉盤紆皃通作茇骫音委骫骳屈曲也</hi>靑莎<lb/>
+雜樹兮<hi>草木雜居補曰本草云莎古人爲詩多用之此草根名香附子荆襄人謂之莎草</hi>薠<lb/>
+草靃靡<hi>隨風披敷薠一作蘋靃一作一作靃補曰靃靡弱皃靃草木花敷皃</hi>白鹿<lb/>
+<pb n="KR4a0002_SBCK_012-3b"/>
+麏麚兮<hi>衆獸並遊麚一作䴥補曰麏音君麞也麚音加牝鹿</hi>或騰或倚<lb/>
+<hi>走住異趨一云走䟭殊也</hi>狀皃崯崯兮峨峨<hi>頭角甚殊峨峨一作嶬嶬音蟻五臣</hi>
+<hi>云頭角髙皃</hi>淒淒兮漇漇<hi>衣毛若濡也兮一作而漇一作縰補曰漇䟽綺切潤也</hi>
+獼猴兮熊羆<hi>百獸俱也補曰羆音陂如熊黃白文</hi>慕類兮以悲<lb/>
+<hi>哀巳不遇也從此以上皆陳山林傾危草木茂盛麋鹿所居虎兕所行不冝育道德養情性欲使屈原還歸郢</hi>
+<hi>也五臣云言山中之獸猶慕儔類而悲哀放弃獨處實難爲心也</hi>攀援桂枝兮<hi>配託</hi>
+<hi>香木誓同志也援一作折一無援字</hi>聊淹留<hi>踟蹰低佪待明時也一云倚立蹢䠱待明時也</hi>虎<lb/>
+豹鬭兮<hi>殘賊之獸忿爭怒也</hi>熊羆咆<hi>貪殺之獸跳梁吼也補曰咆蒲交切嘷也</hi>禽<lb/>
+獸駭兮<hi>雉兎之群驚奔走也</hi>亡其曹<hi>違離黨輩失群偶也</hi>王孫兮歸<lb/>
+<pb n="KR4a0002_SBCK_012-4a"/>
+來<hi>旋反舊邑入故字也一作來歸</hi>山中兮不可以乆留<hi>誠多患害</hi>
+<hi>難隱處也</hi>
+楚辭卷第十二<lb/>
+<pb n="KR4a0002_SBCK_012-4b"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

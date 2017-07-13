@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2m0055_WYG_053-1a"/>
+欽定四庫全書<lb/>
+大清律例卷十九目錄<lb/>
+　兵律<lb/>
+　　軍政<lb/>
+　　　擅調官軍<lb/>
+　　　申報軍務<lb/>
+　　　飛報軍情<lb/>
+　　　漏泄軍情大事<lb/>
+<pb n="KR2m0055_WYG_053-1b"/>
+　　　邊境申索軍需<lb/>
+　　　失誤軍事<lb/>
+　　　從征違期<lb/>
+　　　軍人替役<lb/>
+　　　主將不固守<lb/>
+　　　縱軍擄掠<lb/>
+　　　不操練軍士<lb/>
+　　　激變良民<lb/>
+<pb n="KR2m0055_WYG_053-2a"/>
+　　　私賣戰馬<lb/>
+　　　私賣軍器<lb/>
+　　　毁棄軍器<lb/>
+　　　私藏應禁軍器<lb/>
+　　　縱放軍人歇役<lb/>
+　　　公侯私役官軍<lb/>
+　　　從征守禦官軍逃<lb/>
+　　　優恤軍屬<lb/>
+<pb n="KR2m0055_WYG_053-2b"/>
+　　　夜禁<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

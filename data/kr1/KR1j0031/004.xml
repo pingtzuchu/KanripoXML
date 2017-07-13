@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="1a"/>
+後序<lb/>
+程子曰學之不可以不專也涉<lb/>
+其流者未有能極其原㳺之蕃<lb/>
+者未有能覩其奥不極其原不<lb/>
+覩其奥求其是且精焉無有也<lb/>
+<pb n="1b"/>
+<pb n="1b"/>
+<pb n="1b"/>
+作自繹山真刻不傳至唐字學<lb/>
+雖盛而以篆法盖一時名後世者<lb/>
+唯李陽冰為稱首徐鉉後出茟<lb/>
+力勁古遂出陽冰上近世名茟<lb/>
+固多其分閒布白規圜繩直不<lb/>
+<pb n="2a"/>
+<pb n="3a"/>
+<pb n="4a"/>
+<pb n="5a"/>
+<pb n="6a"/>
+其傳因次叙如此政和二年歲<lb/>
+癸已九月朔信安程俱叙<lb/>
+<pb n="6b"/>
+<pb n="6b"/>
+<pb n="6b"/>
+<pb n="6b"/>
+<pb n="6b"/>
+<pb n="6b"/>
+復古編序<lb/>
+書名之作其來尚矣自伏犧造書契而文籍生<lb/>
+降及三代因革不同蟲魚萆木之形變於周史逮<lb/>
+至秦漢作者閒出李斯趙高作蒼頡爰歷之書<lb/>
+一變而爲小篆軍正程邈便於簡易再變而爲<lb/>
+隸魏晉以來籀篆旣泯唯眞萆盛行至唐韓擇<lb/>
+木李陽冰踵嶧山秦望之餘近代徐鉉宗陽氷<lb/>
+之法復以小篆行於世然去古彌逺未有能臻<lb/>
+<pb n="7a"/>
+其妙者呉興張謙中先生素留心此學深造古<lb/>
+人之妙自元豐以來以小篆箸名天下鮮儷焉<lb/>
+鄉人徐滋元象舊與先生爲鄰親炙先生餘誨<lb/>
+揮毫落紙得先生之法先生亦雅愛奇之其平<lb/>
+昔所箸如復古編千字文之類屬纊之際盡以<lb/>
+遺之藏于巾笥如獲大寳今將<graphic n="KR0866" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0866.png" mimeType="image/png"/>板勒碑以廣<lb/>
+其傳於永乆命㒒作序以誌之聊書其梗槩云<lb/>
+時紹興十三年七月六日王佐才序敍<lb/>
+<pb n="7b"/>
+復古編新序<hi>加新字所以別扵原序也極是之</hi>
+文字之書世謂之小學或者因陋就簡指<lb/>
+爲學之細事而忽之非也古者四民擇其<lb/>
+秀者爲士而教之所謂八歲入小學者敎<lb/>
+以禮樂射御書數是六者雖不見古人之<lb/>
+大全周禮注䟽亦見其略是皆有名數法<lb/>
+度及人之幼眞淳未散記識性全使習六<lb/>
+蓺則終身可以爲用此爲小年之學非曰<lb/>
+<pb n="8a"/>
+學者之小事禮壞樂崩射御弗習數學亦<lb/>
+復罕傳猶幸六書之說具存凡將爰歷等<lb/>
+書不可復見急就章止存大略惟許叔重<lb/>
+箸說文解字垂範千載李陽氷中興斯文<lb/>
+於唐若南唐二徐兄弟尤深此學楚金在<lb/>
+江南旣爲通釋部叙通論袪妄類聚錯綜<lb/>
+疑義系述等篇總謂之繫傳又箸韻譜備<lb/>
+矣鼎臣入本朝〇事熈陵命校定叔重之<lb/>
+<pb n="8b"/>
+書至今賴之爾後楊南仲章友直文勛邵<lb/>
+疏陳晞諸公皆以篆鳴遺迹猶辬辬見之<lb/>
+然不聞有書以惠後來吳興張有謙中篤<lb/>
+志古道傷俗學混淆爲書一編號曰復古<lb/>
+用功數十秊書成於大觀政咊之閒陳了<lb/>
+齋程北山爲歬後敍稱美甚至足以不朽<lb/>
+矣鑰晚出何敢容喙尚有欲言而未盡者<lb/>
+謙中攷證精詣字之合於古者皆所不論<lb/>
+<pb n="9a"/>
+惟俗書亂之者必正其譌舛豪釐不貸讀<lb/>
+者說服無有異論聞其落筆作篆如眞行<lb/>
+然略無艱辛之態惟體脩而末重與人小<lb/>
+異不入俗目漢宣帝時器械工巧元成閒<lb/>
+鮮及之有谷口銅甬傳于卋欵識字其體<lb/>
+正爾始知謙中之作葢有自來非以意爲<lb/>
+之也巍字从委从嵬或省山以爲韓魏之<lb/>
+魏謙中爲林中書家篆墓碑終不省去山<lb/>
+<pb n="9b"/>
+字古無菴字謙中以謂當作闇而難以題<lb/>
+扁山谷雖定从艸謙中<graphic n="KR0931" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0931.png" mimeType="image/png"/>不用也嘗篆楊<lb/>
+龜山所作踵息菴記終篇偶無此字碑頟<lb/>
+雖从广竟作隸體書之其信古不从俗類<lb/>
+若此鑰不能作篆心顧好之陽冰新義猶<lb/>
+爲楚金所祛使二徐見此編殆<graphic n="KR0931" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0931.png" mimeType="image/png"/>無以訾<lb/>
+之陽冰務新而謙中一意于古優劣可以<lb/>
+坐判矣時嘉定三秊八月朔正奉大夫參<lb/>
+<pb n="10a"/>
+知政事兼　奉化郡開國公食邑<lb/>
+叄仟壹伯戸食實封陸伯戸四朙樓鑰敍<lb/>
+于攻媿齋<lb/>
+　小斆周官六<graphic n="KR3379" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3379.png" mimeType="image/png"/>之一也敎國子入<lb/>
+　何草由斯儻以爲斆之　事而忽之則<lb/>
+　指辵<hi>踔</hi>爲之繞宀<hi>緜</hi>爲両立若此者衆<lb/>
+　何其誤哉不遇指南曷从正徹吳興張<lb/>
+　有謙中號眞靜翁于國朝徐鼎臣校定<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

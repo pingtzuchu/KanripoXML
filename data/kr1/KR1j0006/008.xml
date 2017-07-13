@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="1a"/>
+猶軒使者絶代語釋別國方言第八<lb/>
+虎陳魏宋楚之間或謂之李父江淮南楚之<lb/>
+間謂之李耳<hi>虎食物值耳即止以觸其諱故</hi>或謂之於<hi>於音烏今江南山夷呼虎爲/音狗竇</hi>自關東西或謂之伯都<hi>俗曰伯都事抑虎說</hi>
+貔<hi>狸別名也音毗</hi>陳楚江淮之間謂之<hi>音來</hi>北燕朝<lb/>
+鮮之間謂之<graphic n="KR3206" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3206.png" mimeType="image/png"/>
+                    <hi>今江南呼爲<graphic n="KR3206" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3206.png" mimeType="image/png"/>狸音丕</hi>關西謂之狸<hi>此通名耳未聞語所岀</hi>
+<pb n="1b"/>
+貛<hi>豚也音歡</hi>關西謂之貒<hi>波湍</hi>
+雞陳楚宋魏之間謂之鸊䲬<hi>避祗兩音</hi>桂林之中<lb/>
+謂之割雞或曰<hi>音從</hi>北燕朝鮮洌水之間謂<lb/>
+伏雞曰抱<hi>房奥反江東呼蓲央富反</hi>爵子及雞雛皆謂之<lb/>
+鷇<hi>恪遘反關西曰鷇音</hi>其卯伏而未孚始化謂之涅<lb/>
+豬北燕朝鮮之間謂之豭<hi>猶云豭斗也</hi>關東西或<lb/>
+謂之彘或謂之豕南楚謂之豨其子或謂之<lb/>
+豚或謂之貕<hi>音奚</hi>呉揚之間謂之豬子其檻及<lb/>
+<pb n="2a"/>
+蓐曰橧<hi>爾雅曰所寢橧音繒</hi>
+布榖自關東西梁楚之間謂之結誥周魏之<lb/>
+間謂之擊穀自關而西或謂之布穀<hi>今江東呼爲<graphic n="KR4593" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4593.png" mimeType="image/png"/>穀</hi>
+䳚鴠<hi>鳥似雞五色冬無毛亦倮晝夜鳴侃旦兩音</hi>周魏齊宋楚之<lb/>
+間謂之定甲或謂之獨舂<hi>奸自低仰</hi>自關而東謂<lb/>
+之城旦<hi>言其辛苦有似於罪禍者</hi>或謂之倒懸<hi>好自懸於樹也</hi>或<lb/>
+謂之鴠鴠自關而西秦隴之内謂之鶡鴠<lb/>
+鳩自關而東周鄭之郊韓魏之都謂之<graphic n="KR1991" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1991.png" mimeType="image/png"/>
+                    <hi>音郎</hi>
+<pb n="2b"/>
+鷱<hi>音臯</hi>其<graphic n="KR1891" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1891.png" mimeType="image/png"/>鳩謂之鸊鷱自關而西秦漢之間<lb/>
+謂之鵴鳩<hi>菊花</hi>其大者謂之鳻鳩<hi>音班</hi>其小者謂<lb/>
+之<graphic n="KR1891" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1891.png" mimeType="image/png"/>鳩<hi>今荆鳩也</hi>或謂䳫鳩<hi>音/葵</hi>或謂之䳕鳩<hi>音浮</hi>或<lb/>
+謂之鶻鳩梁宋之間謂之鷦䲩<lb/>
+尸鳩<hi>桉爾雅即布穀非戴勝也或云鸇皆失之也</hi>燕之東北朝鮮<lb/>
+洌水之間謂之鶝䲹<hi>福不兩音</hi>自關而東謂之戴<lb/>
+鵀東齊海岱之間謂之戴南南猶鵀也<hi>此亦語楚聲轉也</hi>或謂之鶭鸅<hi>案爾雅說戴鵀下鶭鸅自別一鳥名方言似依此義<pb n="3a"/>又失也</hi>或謂之戴鳻或謂之戴勝<hi>勝所以纏絍</hi>東齊<lb/>
+呉揚之間謂之鵀自關而西謂之服鶝或謂<lb/>
+之　鶝燕之東北朝鮮洌水之間謂之<graphic n="KR2753" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2753.png" mimeType="image/png"/>
+                    <hi>音或</hi>
+蝙蝠<hi>邊福兩音</hi>自關而東謂之服翼或謂之飛䑕<lb/>
+或謂之老䑕或謂之<graphic n="KR1971" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1971.png" mimeType="image/png"/>䑕自關而西秦隴之<lb/>
+間謂之蝙蝠北燕謂之蟙䘃<hi>墨兩音</hi>
+鴈自關而東謂之鴚䳘<hi>音加</hi>南楚之外謂之䳘<lb/>
+或謂之鶬鴚<hi>今江東通呼爲鴚</hi>
+<pb n="3b"/>
+桑飛<hi>即鷦鷯也又名鷦鸎</hi>自關而東謂之工爵或謂之<lb/>
+過鸁<hi>音螺</hi>或謂之女<graphic n="KR2849" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2849.png" mimeType="image/png"/>
+                    <hi>今亦名爲巧婦江東呼布母</hi>自關而<lb/>
+東謂之鸋鴂<hi>案爾雅云鸋鴂鴟鴞鴟屬非此小雀明矣甯玦兩音</hi>自關<lb/>
+而西謂之桑飛或謂之懱爵<hi>言懱截也</hi>
+鸝黄自關而東謂之創鶊<hi>又名商庚</hi>自關而西謂<lb/>
+之鸝黄<hi>其色黧黒而黄因名之</hi>或謂之黄鳥或謂之楚雀<lb/>
+野鳬其小而好沒水中者南楚之外謂之鷿<lb/>
+鷉<hi>鷿音指辟鷉音他奚反</hi>大者謂之鶻蹏<hi>滑蹄兩音</hi>
+<pb n="4a"/>
+<pb n="5a"/>
+雞雛徐魯之間謂之秋侯子<hi>子幽反徐今下邳僮縣東南大徐城是也</hi>
+輶軒使者絶代語釋別國方言第八<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

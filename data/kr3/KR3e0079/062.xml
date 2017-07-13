@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>本草綱目卷二十四目録</head> <lb/>
+    <p>
+<pb n="KR3e0079_WYG_062-1a"/>
+欽定四庫全書<lb/>
+　本草綱目卷二十四目録<lb/>
+　　穀之三　　　菽豆類十四種<lb/>
+　　　大豆<hi>本經</hi>
+　　　大豆黄卷<hi>本經</hi>
+　　　黄大豆<hi>食鑑</hi>
+　　　赤小豆<hi>本經</hi>
+　　　腐婢<hi>本經</hi>
+<pb n="KR3e0079_WYG_062-1b"/>
+　　　緑豆<hi>開寳</hi>
+　　　白豆<hi>嘉祐</hi>
+　　　穭豆<hi>拾遺</hi>
+　　　豌豆<hi>拾遺</hi>
+　　　蠶豆<hi>食物</hi>
+　　　豇豆<hi>綱目</hi>
+　　　藊豆<hi>别録</hi>
+　　　刀豆<hi>綱目</hi>
+<pb n="KR3e0079_WYG_062-2a"/>
+　　　黎豆<hi>拾遺豆即貍</hi>
+　　　　右附方舊五十一新一百<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3e0079_WYG_062-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　本草綱目卷二十四目録<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

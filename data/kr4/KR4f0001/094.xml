@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4f0001_WYG_094-1a"/>
+　欽定四庫全書<lb/>
+聖祖仁皇帝御製文第二集巻二目錄<lb/>
+　　勅諭<lb/>
+　　　　諭大學士明珠<lb/>
+　　　　諭大學士勒徳洪明珠王熙吳正治宋徳宜學<lb/>
+　　　　　士麻爾圖圖納席爾達丹岱禪布吳興祖王<lb/>
+　　　　　起元<lb/>
+　　　　諭大學士勒徳洪明珠王熙吳正治宋徳宜學<lb/>
+<pb n="KR4f0001_WYG_094-1b"/>
+　　　　　士麻爾圖席爾達吳興祖王起元<lb/>
+　　　　諭大學士勒徳洪明珠王熙吳正治宋徳宜學<lb/>
+　　　　　士麻爾圖圖納席爾達丹岱禪布吳興祖王<lb/>
+　　　　　起元<lb/>
+　　　　諭大學士勒徳洪明珠<lb/>
+　　　　諭大學士勒徳洪明珠王熙吳正治宋徳宜學<lb/>
+　　　　　士麻爾圖圖納牛鈕丹岱禪布吳興祖王起<lb/>
+　　　　　元徐乾學韓菼<lb/>
+<pb n="KR4f0001_WYG_094-2a"/>
+　　　諭户部<lb/>
+　　　諭大學士明珠<lb/>
+　　　諭大學士勒徳洪王熙吳正治宋徳宜學士麻<lb/>
+　　　　爾圖圖納席爾達牛鈕丹岱禪布吳興祖王<lb/>
+　　　　起元徐乾學韓菼<lb/>
+　　　諭大學士勒徳洪明珠<lb/>
+　　　諭大學士勒徳洪學士麻爾圖圖納<lb/>
+　　　諭侍郎佛倫學士圖納席爾達牛鈕<lb/>
+<pb n="KR4f0001_WYG_094-2b"/>
+　　　諭侍郎佛倫學士圖納席爾達牛鈕<lb/>
+　　　諭大學士勒徳洪明珠學士麻爾圖圖納牛鈕<lb/>
+　　　　丹岱禪布吳興祖王起元<lb/>
+　　　諭大學士勒徳洪明珠王熙吳正治宋徳宜學<lb/>
+　　　　士麻爾圖圖納牛鈕丹岱禪布吳興祖王起<lb/>
+　　　　元徐乾學韓菼<lb/>
+　　　諭大學士勒徳洪明珠王熙吳正治宋徳宜學<lb/>
+　　　　士麻爾圖圖納牛鈕丹岱禪布吳興祖王起<lb/>
+<pb n="KR4f0001_WYG_094-3a"/>
+　　　　元徐乾學韓菼<lb/>
+　　　諭大學士勒徳洪明珠王熙吳正治宋徳宜學<lb/>
+　　　　士麻爾圖牛鈕禪布吳興祖王起元徐乾學<lb/>
+　　　　韓菼<lb/>
+　　　諭大學士勒徳洪明珠學士麻爾圖牛鈕禪布<lb/>
+　　　諭大學士勒徳洪明珠<lb/>
+　　　諭大學士勒徳洪明珠王熈吳正治宋徳宜學<lb/>
+　　　　士麻爾圖牛鈕禪布穆成格吳興祖王起元<lb/>
+<pb n="KR4f0001_WYG_094-3b"/>
+　　　　徐乾學韓菼<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

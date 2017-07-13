@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>春眀夢餘録卷六十</head> <lb/>
+    <p>
+<pb n="KR3j0161_WYG_060-1a"/>
+欽定四庫全書<lb/>
+　春眀夢餘録卷六十<lb/>
+　　　　　　　　　　吏部左侍郎孫承澤撰<lb/>
+　　鴻臚寺<lb/>
+鴻臚寺在闕東工部之南初置儀侍司為從六品衙門<lb/>
+職専朝㑹賓客吉凶禮之事洪武九年改為殿庭儀禮<lb/>
+司設使副承奉鳴賛序班十三年革承奉添設司儀十<lb/>
+九年正使為司正副為左右司副三十年始改鴻臚寺<lb/>
+<pb n="KR3j0161_WYG_060-1b"/>
+陞正四品衙門定設卿左右少卿左右寺丞屬官主簿<lb/>
+司儀司賓署各署丞鳴賛序班䓁官後又設四裔通事<lb/>
+亦𨽻焉宣徳元年四月建公署於亰師<lb/>
+　　周禮有大行人掌大賓之禮及大客之儀小行人<lb/>
+　　掌邦國之禮籍以待四方之使者秦之典客漢之<lb/>
+　　鴻臚皆其職也漢文有大行為鴻臚屬官顔師古<lb/>
+　　曰事之尊重者遣大鴻臚而輕賤者遣行人是巳<lb/>
+　　武帝時更名行人為大行令其後事歸鴻臚唐之<lb/>
+<pb n="KR3j0161_WYG_060-2a"/>
+　　典客司儀宋之懐逺其名不一然皆鴻臚之事無<lb/>
+　　復有行人之名矣<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3j0161_WYG_060-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　春眀夢餘録卷六十<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

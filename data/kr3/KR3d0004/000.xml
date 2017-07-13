@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>提要</head>
+    <p>
+<pb n="KR3d0004_WYG_000-1a"/>
+欽定四庫全書　　　　　子部四<lb/>
+　提要　　　　　　　　　農家類<lb/>
+　　農桑衣食撮要二卷<lb/>
+　　　　<hi>臣</hi>等謹案農桑衣食撮要二卷元魯明善撰<lb/>
+　　　　明善元史無傳其始末未詳此本有其幕僚<lb/>
+　　　　導江張㮚序一篇稱明善輝和爾<hi>舊作畏吾兒今依元</hi>
+　　　　<hi>國語解改正</hi>人以父字魯為氏名鐵柱以字行于<lb/>
+　　　　延祐甲寅出監夀陽郡始撰是書且鋟諸梓<lb/>
+<pb n="KR3d0004_WYG_000-1b"/>
+　　　　又有明善自序則稱叨憲紀之任取所蔵農<lb/>
+　　　　桑撮要刋之學宫末署至順元年六月盖自<lb/>
+　　　　夀陽刋板之後閲十有七年而重付剞劂者<lb/>
+　　　　也考豳風所紀皆陳物候夏小正所紀亦多<lb/>
+　　　　切田功古来四民月令四時纂要諸書盖其<lb/>
+　　　　遺意而今多不傳至元中頒行農桑輯要扵<lb/>
+　　　　耕種樹畜之法言之頗詳而嵗用襍事僅列<lb/>
+　　　　為卷末一篇未為賅備明善此書分十二月<lb/>
+<pb n="KR3d0004_WYG_000-2a"/>
+　　　　令件繫條别簡明易曉使種藝歛蔵之節開<lb/>
+　　　　卷了然盖以隂補農桑輯要所未備亦可謂<lb/>
+　　　　留心民事講求實用者矣乾隆四十六年九<lb/>
+　　　　月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+<pb n="KR3d0004_WYG_000-3a"/>
+魯明善農桑衣食撮要原序<lb/>
+農桑衣食之本務農桑則衣食足衣食足則民可教以<lb/>
+禮義民可教以禮義則家國天下可久安長治也虞夏<lb/>
+殷周之興㒺不由此秦漢而降知恤鮮哉我世祖皇帝<lb/>
+中統建元之初首詔有司嵗時勸課以厚民生立大司<lb/>
+農司以專其任列聖相承式遵祖訓凡我臣子孰敢不<lb/>
+䖍乃者叨䝉憲紀之任因思衣食之本取所藏農桑撮<lb/>
+要刋之學宫所以欽承上意而教民務本也凡天時地<lb/>
+<pb n="KR3d0004_WYG_000-3b"/>
+利之宜種植歛藏之法<graphic n="KR0655" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0655.png" mimeType="image/png"/>悉無遺具在是書茍為民者<lb/>
+人習其業則生財足食之道仰事俯育之資将随取而<lb/>
+随足庶乎教可行而民安於下矣固久安長治之策也<lb/>
+其可以農圃細事而忽之哉雖然㳺末是趨舍是書而<lb/>
+不務以自取貧困固吾民之罪而奪其時以落其事使<lb/>
+是書為徒設則有司之咎也於戯時和嵗豐家給人足<lb/>
+與吾民相忘於謡衢擊壤之域顧不美歟謹題其篇端<lb/>
+以告來者庶牧民者知所勸也至順元年六月甲申謹<lb/>
+<pb n="KR3d0004_WYG_000-4a"/>
+叙<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

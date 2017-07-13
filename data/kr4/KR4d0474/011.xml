@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4d0474_WYG_011-1a"/>
+跋<lb/>
+栝蒼周此山詩若干首故翰林侍讀學士袁公伯長謂<lb/>
+其意度閒逺議論雄深今翰林直學士歐陽君原功則<lb/>
+謂其無險勁之辭而有深長之味無輕靡之習而有舂<lb/>
+容之風江浙提舉陳君衆仲又謂其簡淡和平語多竒<lb/>
+雋三君子之言皆信於世則君之詩信可以傳矣余友<lb/>
+翰林修撰宋顯夫裒集中統至元以來之詩特選其精<lb/>
+者手自繕冩已踰數千篇而猶采摭未巳期他日鋟梓<lb/>
+<pb n="KR4d0474_WYG_011-1b"/>
+以傳余欲求此山此集示之而衆仲之官餘杭攜其詩<lb/>
+稿與俱往周君亦將歸栝蒼矣則顯夫之所集者猶有<lb/>
+滄海遺珠之一恨也周君其肯録以寄余乎翰林待制<lb/>
+中順大夫兼國史院編修官謝端跋<lb/>
+<pb n="KR4d0474_WYG_011-2a"/>
+跋<lb/>
+余近從國子先生陳君衆仲讀所作周君衡之詩集叙<lb/>
+恨未見其詩與其人後月餘衡之并攜故袁文靖公伯<lb/>
+長今歐陽翰林原功所為叙見余樂道里且以詩見貽<lb/>
+適余在公未還及讀三家所為叙及其詩益恨不及見<lb/>
+其集與其人然以三家所稱雖不及見而其人之賢其<lb/>
+集之可傳可見矣夫詩道之在天下其正如日月星辰<lb/>
+山川草木鳥獸其變如風雲雷雹龍騰虎躑豈難知哉<lb/>
+<pb n="KR4d0474_WYG_011-2b"/>
+在盡其常通其變而已惜不得與衡之共論之元統二<lb/>
+年九月二十日揭傒斯書<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

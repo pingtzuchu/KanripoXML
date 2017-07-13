@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>河朔訪古記</head>
+    <p>
+<pb n="KR2k0134_WYG_000-1a"/>
+欽定四庫全書　　　　　史部十一<lb/>
+　河朔訪古記　　　　　　地理類九<hi>遊記之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案河朔訪古記三卷不著撰人名氏<lb/>
+　　　　明焦竑國史經籍志著録亦不云誰作考元<lb/>
+　　　　劉仁本羽庭集有是書序曰今翰林國史院<lb/>
+　　　　編修官博囉洛氏納新易之自其先世徙居<lb/>
+　　　　鄞至正五年挈行李出浙渡淮溯大河而濟<lb/>
+<pb n="KR2k0134_WYG_000-1b"/>
+　　　　歴齊魯陳蔡晉魏燕趙之墟弔古山川城郭<lb/>
+　　　　邱陵宫室王霸人物衣冠文獻陳迹故事暨<lb/>
+　　　　近代金宋戰爭疆場更變者或得於圖經地<lb/>
+　　　　志或聞諸故老舊家風流遺俗一皆考訂夜<lb/>
+　　　　還旅邸筆之於書又以其感觸興懷慷慨激<lb/>
+　　　　烈成詩歌者繼之總而名曰河朔訪古記凡<lb/>
+　　　　一十六卷云云則此書實為納新作焦氏考<lb/>
+　　　　之未審序稱十六卷焦氏作十二卷亦誤也<lb/>
+<pb n="KR2k0134_WYG_000-2a"/>
+　　　　納新字易之系出西北博囉洛因以為氏博<lb/>
+　　　　囉洛者以<lb/>
+欽定西域圖志考之即今塔爾巴噶台也元時色目諸<lb/>
+　　　　人散處天下故納新寓居南陽後移于鄞縣<lb/>
+　　　　初辟為浙東東湖書院山長以薦授翰林編<lb/>
+　　　　修官所著金臺集尚有刋本惟此書久佚今<lb/>
+　　　　散見永樂大典中者惟一百三十四條所紀<lb/>
+　　　　皆在真定河南境内而其餘不存又仁本所<lb/>
+<pb n="KR2k0134_WYG_000-2b"/>
+　　　　稱繼以詩歌者亦不復可見然據今所存諸<lb/>
+　　　　條其山川古蹟多向來地志所未詳而金石<lb/>
+　　　　遺文言之尤悉皆可以為考證之助謹彚而<lb/>
+　　　　編之核其道里疆界各以類從真定路為一<lb/>
+　　　　卷河南路為一卷仍録劉仁本原序冠之雖<lb/>
+　　　　殘缺之餘十存一二而崖略宛在條理可尋<lb/>
+　　　　講輿地之學者猶可多所取資焉乾隆四十<lb/>
+　　　　六年三月恭校上<lb/>
+<pb n="KR2k0134_WYG_000-3a"/>
+　　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+<pb n="KR2k0134_WYG_000-4a"/>
+河朔訪古記序<lb/>
+今翰林國史院編修官郭囉羅氏納新易之自其先世<lb/>
+徙居鄞越則既為南方之學者矣而其逺逰壮志常落<lb/>
+落於懐將以馳騁也乃至正五年挈行李出浙度淮溯<lb/>
+大河而濟厯齊魯陳蔡晉魏燕趙之墟弔古山川城廓<lb/>
+丘陵宫室王霸人物衣冠文獻陳迹故事暨近代金宋<lb/>
+戰争疆場更變者或得扵圗經地志或聞諸故老舊家<lb/>
+流風遺俗一皆考訂夜還旅邸筆之於書又以其感觸<lb/>
+<pb n="KR2k0134_WYG_000-4b"/>
+興懐慷慨激烈成詩歌者繼之總而名曰河朔訪古記<lb/>
+凡一十六卷其博雅哉徴序於搢紳先生若許安陽黄<lb/>
+金華危臨川余武威諸公者論説盡矣復以示余余南<lb/>
+産也於河朔古今巨蹟曽未之見間有所聞而又未為<lb/>
+心得不敢妄有指摘然獨愛其書於京都國家之典禮<lb/>
+宫署城池廟庭祭享朝班鹵簿聖徳臣功文武士庶一<lb/>
+代威儀制作尤加詳備非惟後日可應史氏采摭將百<lb/>
+世損益殆有所據焉於戲吾諗其逰覽之時及歸之日<lb/>
+<pb n="KR2k0134_WYG_000-5a"/>
+黄河南北已有賈魯畚挿之擾而民俗稍為騷動矣然<lb/>
+其所載則皆追述盛時之事不以少變而廢也昔太史<lb/>
+公周㳺天下厯覽名山大川紬金匱石室之藏故其文<lb/>
+章雄深奇偉今觀易之之作庶㡬有焉其應館閣之召<lb/>
+而為史官也不亦宜乎至正二十有三禩昭陽單閼之<lb/>
+嵗㽔賔節日奉直大夫温州路總管管内勸農防禦事<lb/>
+天台劉仁本序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

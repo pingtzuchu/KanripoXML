@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4d0036_SBCK_014-1a"/>
+沈氏三先生文集卷第二十八<lb/>
+長興集卷第十八<lb/>
+　　　　謝運判啟　賀賈殿前啓<lb/>
+　　　　　囬廣徳葉職方書　賀樞宻吕侍郎<lb/>
+　　　　賀樞宻薛侍郎啓　賀趙龍圖啓<lb/>
+　　　　賀年啓　元正賀隣郡太守<lb/>
+　　　　元正賀隣郡通判　謝建平張賛善<lb/>
+　　　　與學官張節推書<hi>噐之</hi>荅李觧元書<lb/>
+　　　謝運判啓<lb/>
+<pb n="KR4d0036_SBCK_014-1b"/>
+右某恩踰素分使以臨民歲未再成遽叨進秩惟陵<lb/>
+陽之屬郡據南楚之上㳺豈曰非才繼叨假守尚頼<lb/>
+髙明之在部特優憃鄙之為邦擴金冶以䏻容弃玉<lb/>
+瑕而不指此盖伏遇某官魁然以國噐之重藐然忘<lb/>
+師府之嚴觀事功之際而唯責其成畧文墨之近而<lb/>
+不求其備餘光所燭遂容冐分之安溢愛上聞兹辱<lb/>
+過情之譽敢不益嚴職守増勵夤誠上酬天地之私<lb/>
+次荅撫庥之賜感荷之至不任下懐<lb/>
+　　　賀賈殿前啓<lb/>
+<pb n="KR4d0036_SBCK_014-2a"/>
+右某伏審上<graphic n="KR0574" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0574.png" mimeType="image/png"/>䛇㫖之嚴入護殿巖之秘伏惟歡慶<lb/>
+恭以某官器度宏逺材猷敏眀謹重足以飾躬威惠<lb/>
+足以禦衆謂萬夫之望故外分節制之崇以四國是<lb/>
+瞻故内總腹心之寄側聞譽命簡自清衷屬分江國<lb/>
+之麾阻從賔閎之見歡抃之至但切下懐<lb/>
+　　　囬廣徳葉職方書<lb/>
+右某啓假守偏麾幸宻仁人之境講聞善政具為拙<lb/>
+者之依長民竊愧於誤恩𬒳命遽叨於昜地方圖進<lb/>
+記已辱貺書辭意褒嘉禮問優過䫫河南之尺牘藏<lb/>
+<pb n="KR4d0036_SBCK_014-2b"/>
+之為榮若衞人之瓊琚永以為好<lb/>
+　　　賀樞宻吕侍郎啓<lb/>
+右某伏審上𬒳制書進登樞府眀良恊契逺迩均歡<lb/>
+竊以帷幄之嚴儀刑所寄㡬㣲之㑹丞弼致隆兹屬<lb/>
+光華之辰進居宥宻之地實席元哲共熈永圖恭惟<lb/>
+某官學𢡟庶㡬徳隆可乆論追啇誥之雅謀合臯謨<lb/>
+之嘉迪康兆民将眀後覺名實並隆而含章屡䀲語<lb/>
+嘿惟義而䖏巳甚休况朝野具瞻之益深而廟堂虗<lb/>
+位之兹乆側聞譽命盖出清衷知柔知剛亶惟邦之<lb/>
+<pb n="KR4d0036_SBCK_014-3a"/>
+舊老為仁為夀将見世以太清某以守郡逺方不獲<lb/>
+稱慶鈞屏瞻望台光無任懽抃歸依之至<lb/>
+　　　賀樞宻薛侍郎啓<lb/>
+右某伏審<graphic n="KR0574" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0574.png" mimeType="image/png"/>受眀䛇秉持中樞自邇及遐率歡且慶<lb/>
+恭以某官識窮物理之妙才通世務之䌓政聲為吏<lb/>
+道之師治行聳士林之望蓍蔡其智而情偽無不察<lb/>
+權衡其公而輕重不能欺榷六路之饒轉江淮之粟<lb/>
+而用不屈主大農之計佐邦國之人而力有餘嶷然<lb/>
+文武之全才簡在聖神之深注唯中山之重地控定<lb/>
+<pb n="KR4d0036_SBCK_014-3b"/>
+武之絶邊玉帳潜神懾外夷之㤗志<graphic n="KR0999" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0999.png" mimeType="image/png"/>裘請命知中<lb/>
+國之深仁道以時行徳冝位稱果疇績用入賛㡬㣲<lb/>
+閲禮敦詩坐釐天縡之柄經邦論道行正中台之符<lb/>
+　　　賀趙龍圖<lb/>
+右某啓伏審進登延閣徃殿雄藩慶人主之異知興<lb/>
+士倫之榮慕竊以圖書祕府號稱雲漢之居洮隴新<lb/>
+封望重邊防之寄入則論思獻納登蓬<graphic n="KR0801" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0801.png" mimeType="image/png"/>之逰出則<lb/>
+控制綏懐總将帥之任苟非器慱之用孰分西顧之<lb/>
+憂㳟以某官敏識通㣲瓌才應務量<graphic n="KR0636" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0636.png" mimeType="image/png"/>方整徳廸剛<lb/>
+<pb n="KR4d0036_SBCK_014-4a"/>
+眀妙䇿凌雲擢起英豪之域亨衢振翼俄登直侍之<lb/>
+聯賢臨一時名軼近古自天子推為國器而大臣願<lb/>
+備已知翺翔要津談笑已成於殊最幹旋邊計富強<lb/>
+尤頼於嘉謀注倚増隆聲猷日茂式是西屏隠若長<lb/>
+城近出禁中上固推於頗牧威聞塞外氣已懾於羌<lb/>
+氐豈容仗鉞以乆留行有秉鈞之殊拜<lb/>
+　　　賀年啓<lb/>
+右某伏以杓見於寅㑹三元而為朔陽來於㤗皷萬<lb/>
+物以囬春惟視履以考祥茂對時而介福恭以某官<lb/>
+<pb n="KR4d0036_SBCK_014-4b"/>
+徳容師衆才賦坤輿雅意在於夲朝威風<graphic n="KR0719" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0719.png" mimeType="image/png"/>於江介<lb/>
+偃藩均逸已觀慶績之成尊主芘民行有具瞻之拜<lb/>
+屬假麾於偏壌阻造見於賔閎祈頌之誠昕夕于是<lb/>
+　　　元正賀隣郡太守<lb/>
+右某伏以首祚於元巳驗寅杓之建履端於始重當<lb/>
+人統之更茂惟徳助之多翕有天和之受恭以某官<lb/>
+貴名得衆懿行直躬朱輪両<graphic n="KR1650" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1650.png" mimeType="image/png"/>暫宣寛大之䛇玉峯<lb/>
+閎徹即歸禁近之嚴属分江國之麾阻從賔宏之見<lb/>
+　　　元正賀隣郡通判<lb/>
+<pb n="KR4d0036_SBCK_014-5a"/>
+右某伏以首祚於元已驗寅杓之建履端扵始重當<lb/>
+人統之更恭惟某官徳禀雄成才鍾特起侯藩佐治<lb/>
+教源雖頼於同流禁苑需賢帝眷即膺於大任<lb/>
+　　　謝建平張賛善<lb/>
+右某伏審上𬒳詔嚴進陛宫属伏惟歡慶某官鍾材<lb/>
+特起禀徳雄成聳士林之乆傾惜俊僚之尚屈以有<lb/>
+餘之恢刃至則收功然不器之良能豈容近用未皇<lb/>
+馳賀先辱貺書悚荷之深敷陳奚既<lb/>
+　　　與學官張節推書<hi>器之</hi>
+<pb n="KR4d0036_SBCK_014-5b"/>
+某再拜器之學官執事伏蒙示諭以州學説書事前<lb/>
+時已粗陳其梗㮣兾當見察而執事以某辭之過拒<lb/>
+之堅不然也自仲尼聖人未甞絶人如某不肖其可<lb/>
+以拒人耶某嘗讀論語陽貨遇孔子而勸之仕孔子<lb/>
+曰諾吾将仕矣説者謂孔子以順辭免某常以謂不<lb/>
+然欲仕誠孔子之心盖諸侯未能用之孔子未甞失<lb/>
+時也先王之道誠在於五經自漢始以言舉人而五<lb/>
+經為學者一藝言行分立而聖人之道始䀲非特學<lb/>
+者不至亦教人者之罪也某愚鄙義行未有加於人<lb/>
+<pb n="KR4d0036_SBCK_014-6a"/>
+諸君既過聴而見從雖㣲執亊之言某将悉其有無<lb/>
+傾困倒廩以効朋友之職然孟子不受曹交之請以<lb/>
+謂交苟不為雖孟子其如之何哉此其所以不受也<lb/>
+某不才獨安能為孟子之所不䏻苟以謂講説為不<lb/>
+然則不講未必能完可言而不言與不可言而言其<lb/>
+為失一也某亦何取於不言盖力有所不及則不敢<lb/>
+耻於不能雖然以是遺諸君亦不可謂無意也孔子<lb/>
+曰吾叩其兩端而竭焉非必竭天下之道也竭其教<lb/>
+人之忠而巳矣空言不度其所冝未見其能忠也若<lb/>
+<pb n="KR4d0036_SBCK_014-6b"/>
+某之淺陋雖為之不能有益於人徒不盡其誠非所<lb/>
+以待諸君也期必見察幸甚不宣某再拜<lb/>
+　　　荅李觧元書<lb/>
+某再拜希古觧元足下始某樂聞足下之名而又幸<lb/>
+見其顔色矣雖然未敢遂謂盡能識而知之就觀足<lb/>
+下之文辭卷舒抑揚馳鶩浹洽雖然則謂之足矣未<lb/>
+見其不可也當其議論出沒之際猶曰未敢决然自<lb/>
+信如某者固可以自信耶足下不以其不肖而問焉<lb/>
+况其取於天下慱學多識者也異時樂善篤義奮然<lb/>
+<pb n="KR4d0036_SBCK_014-7a"/>
+而来者之先果然必足下也某不幸少更艱難憂離<lb/>
+轉側出入十餘年之間平居所以朝夕託而生者一<lb/>
+出於其身思慮幸而不忘者皆非出於精眀強力之<lb/>
+心雖其氣耗而意索今日得從諸君之逰不至於遂<lb/>
+泯而已者於某計不為不厚矣彼以庠序之教誨育<lb/>
+諸生皆賢者之事非學於人者所能為也辱書之重<lb/>
+仰之畏之願謹學焉文編已傳之謹奉歸左右不宣<lb/>
+某再拜<lb/>
+<pb n="KR4d0036_SBCK_014-7b"/>
+長興集卷第十八<lb/>
+　　　從事郎處州司理叅軍髙布重校兼監雕<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>通鑑胡注舉正</head>
+    <p>
+<pb n="KR2b0013_WYG_000-1a"/>
+欽定四庫全書　　　　　史部二<lb/>
+　通鑑胡注舉正　　　　　編年類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案通鑑胡注舉正一巻<lb/>
+　　　國朝陳景雲撰景雲字少章常熟人寄籍為吳<lb/>
+　　　　江縣學生是書舉正胡三省通鑑音註之誤<lb/>
+　　　　凡六十三條而所正地理居多頗為精核然<lb/>
+　　　　如周赧王五十七年大梁夷門監者註以夷<lb/>
+<pb n="KR2b0013_WYG_000-1b"/>
+　　　　門為大梁北門不知史記信陵君𫝊本作東<lb/>
+　　　　門又隋煬帝大業元年奇章公牛宏註但引<lb/>
+　　　　隋書新唐書作其章縣不知舊唐書本作奇<lb/>
+　　　　章謂以縣東八里奇章山得名又漢明帝永<lb/>
+　　　　平十四年隧鄉名見漢書地理志泰山郡虵<lb/>
+　　　　邱縣條下唐高祖武徳三年溱州見隋書煬<lb/>
+　　　　帝紀大業元年及地理志汝南郡條下後晉<lb/>
+　　　　高祖天福四年康化軍見陸㳺南唐書烈祖<lb/>
+<pb n="KR2b0013_WYG_000-2a"/>
+　　　　本紀而註皆云無考凡斯之類尚未悉舉考<lb/>
+　　　　書後附載王峻所作景雲墓誌稱作通鑑胡<lb/>
+　　　　註舉正十巻而巻末其子黄中跋亦稱書本<lb/>
+　　　　十巻屋漏鼠齧之餘僅存什一然則是編乃<lb/>
+　　　　殘缺之稿其多所挂漏宜矣要此所存諸條<lb/>
+　　　　亦未始不足資考據也乾隆四十六年十一<lb/>
+　　　　月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+<pb n="KR2b0013_WYG_000-2b"/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

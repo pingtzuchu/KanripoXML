@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4c0029_SBCK_006-1a"/>
+岑嘉州詩卷之六<lb/>
+　五言絶句<hi>十七首</hi>
+　　　題三㑹寺蒼頡造字䑓<lb/>
+野寺荒䑓晚寒天古木悲空堦有鳥迹猶似<lb/>
+造書時<lb/>
+　　　秋思<lb/>
+那知芳嵗晚坐見寒葉堕吾不如腐草飜飛<lb/>
+作螢火<lb/>
+　　　行軍九日思長安故園<hi>時未收長安</hi>
+強欲登髙去無人送酒來遥憐故園菊應傍<lb/>
+<pb n="KR4c0029_SBCK_006-1b"/>
+戰塲開<lb/>
+　　　歎白髪<lb/>
+白髪生偏速教人不柰何今朝两鬢上更覺<lb/>
+數莖多<lb/>
+　　　日沒賀延磧作<lb/>
+沙上見日出沙上見日没悔向萬里來功名<lb/>
+是何物<lb/>
+　　　憶長安曲二章寄龎㴶<lb/>
+東望望長安正值日𥘉出長安不可見喜見<lb/>
+長安日<lb/>
+<pb n="KR4c0029_SBCK_006-2a"/>
+長安何䖏在只在馬蹄下明日歸長安為君<lb/>
+急走馬<lb/>
+　　　西過渭州見渭水思秦川<lb/>
+渭水東流去何時到雍州憑添两行淚寄向<lb/>
+故園流<lb/>
+　　　經隴頭分水<lb/>
+隴水何年有潺潺逼路傍東西流不歇曽㫁<lb/>
+㡬人腸<lb/>
+　　　㓕胡曲<lb/>
+都護新㓕胡士馬氣亦麤蕭條虜塵淨突兀<lb/>
+<pb n="KR4c0029_SBCK_006-2b"/>
+天山孤<lb/>
+　　　醉裏送裴子赴鎮西<lb/>
+醉後未能别醒時方送君㸔君走馬去直上<lb/>
+天山雲<lb/>
+　　　寄韓樽<lb/>
+夫子素多疾别來未得書北庭苦寒地體内<lb/>
+今何如<lb/>
+　　　尚書念舊垂賜𫀆衣率題絶句獻上<lb/>
+　　　以申感謝<lb/>
+富貴情還在相逢豈問然綈𫀆更有贈猶荷<lb/>
+<pb n="KR4c0029_SBCK_006-3a"/>
+故人憐<lb/>
+　　　題井陉雙溪李道士所居<lb/>
+五粒松花酒雙溪道士家唯求縮却地鄕路<lb/>
+莫教賖<lb/>
+　　　題雲際南峯演上人讀經堂<lb/>
+結宇題三蔵焚香老一峯雲間獨坐卧秪是<lb/>
+對杉松<lb/>
+　　　題梁鍠城中髙居<lb/>
+居住最髙䖏千家恒眼前題詩飲酒後只對<lb/>
+諸峰眠<lb/>
+<pb n="KR4c0029_SBCK_006-3b"/>
+　　　戲題關門<lb/>
+来亦一布衣去亦一布衣羞見關城吏還從<lb/>
+舊道歸<lb/>
+　　　題汾橋邉柳樹<hi>曽客居平陽郡八九年</hi>
+此地曽居住今來宛似歸可憐汾上柳相見<lb/>
+也依依<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

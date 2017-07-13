@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>武林舊事卷六</head> <lb/>
+    <p>
+<pb n="KR2k0119_WYG_006-1a"/>
+欽定四庫全書<lb/>
+　武林舊事卷六<lb/>
+　　　　　　　　　　　　　宋　周宻　撰<lb/>
+　　諸市<lb/>
+　藥市<hi>炭橋</hi>　　　花市<hi>官/巷</hi>　　　珠子市<hi>融和坊南官巷</hi>
+　米市<hi>北闕門外黑橋頭</hi>肉市<hi>大瓦修/義坊</hi>　菜市<hi>新門外東青門霸子頭</hi>
+　鮮魚行<hi>候潮門外</hi>　魚行<hi>北闕門外/水氷橋</hi>南猪行<hi>候潮門外</hi>
+　北猪行<hi>打猪巷</hi>　布市<hi>便門外/横河頭</hi>　蟹行<hi>新門外南土門</hi>
+<pb n="KR2k0119_WYG_006-1b"/>
+　花團<hi>官巷口錢塘門内</hi>青果團<hi>候潮門/内泥路</hi>柑子團<hi>後市街</hi>
+　鮝團<hi>便門外渾水閘</hi>　書房<hi>橘園亭</hi>
+　　瓦子勾欄<lb/>
+　南瓦<hi>清冷橋熙春樓</hi>　中瓦<hi>三元/樓</hi>　　大瓦<hi>三橋街亦名上瓦</hi>
+　北瓦<hi>衆安橋亦名下瓦</hi>蒲橋瓦<hi>亦名/東瓦</hi>　便門瓦<hi>便門外</hi>
+　候潮門瓦<hi>候潮門外</hi>小偃門瓦<hi>小偃/門外</hi>新門瓦<hi>亦名四通館瓦</hi>
+　薦橋門瓦<hi>薦橋門外</hi>菜市門瓦<hi>菜市/門外</hi>錢湖門瓦<hi>省馬院前</hi>
+　赤山瓦<hi>後軍寨前</hi>　行春橋瓦　　北郭瓦<hi>又名大通店</hi>
+<pb n="KR2k0119_WYG_006-2a"/>
+　米市橋瓦　　舊瓦<hi>石板頭</hi>　　嘉㑹門瓦<hi>嘉㑹門外</hi>
+　北闗門瓦<hi>又名新瓦</hi>艮山門瓦<hi>艮山門外</hi>羊坊橋瓦<lb/>
+　王家橋瓦　　龍山瓦<hi>城内𨽻修内司城外𨽻殿前司</hi>
+　　如北瓦羊棚樓等謂之遊棚外又有勾欄甚多北<lb/>
+　　瓦内勾欄十三座最盛或有路岐不入勾欄只在<lb/>
+　　耍閙寛濶之處做塲者謂之打野呵此又藝之次<lb/>
+　　者<lb/>
+　　酒樓<lb/>
+<pb n="KR2k0119_WYG_006-2b"/>
+　和樂樓<hi>昇暘宫南庫</hi>和豐樓<hi>武林園/南上庫</hi>中和樓<hi>銀甕子中庫</hi>
+　春風樓<hi>北庫</hi>　　太和樓<hi>東/庫</hi>　　西樓<hi>金文西庫</hi>
+　太平樓　　　豐樂樓　　　南外庫<lb/>
+　北外庫　　　西溪庫<lb/>
+　　以上並官庫屬户部㸃檢所毎庫設官妓數十人<lb/>
+　　各有金銀酒器千兩以供飲客之用毎庫有祇直<lb/>
+　　者數人名曰下畨飲客登樓則以名牌㸃喚侑樽<lb/>
+　　謂之㸃花牌元夕諸妓皆併畨互移他庫夜賣各<lb/>
+<pb n="KR2k0119_WYG_006-3a"/>
+　　戴杏花冠兒危坐花架然名娼皆深藏邃閣未易<lb/>
+　　招呼凡肴核杯盤亦各隨意攜至庫中初無庖人<lb/>
+　　官中趂課初不藉此聊以粉飾太平耳往往皆學<lb/>
+　　舎士夫所據外人未易登也<lb/>
+　熙春樓　　　三元樓　　　五門樓<lb/>
+　賞心樓　　　嚴厨　　　　花月樓<lb/>
+　銀馬杓　　　康沈店　　　翁厨<lb/>
+　任厨　　　　陳厨　　　　沈厨<lb/>
+<pb n="KR2k0119_WYG_006-3b"/>
+　巧張　　　　日新樓　　　周厨<lb/>
+　鄭厨<hi>只賣好食雖海鮮頭羮皆有之</hi>　　　　虼䗫眼<hi>只賣好酒</hi>
+　張花<lb/>
+　　以上皆市樓之表表者毎樓各分小閣十餘酒器<lb/>
+　　悉用銀以競華侈毎處各有私名妓數十輩皆時<lb/>
+　　粧袪服巧笑争妍夏月茉莉盈頭香滿綺陌凭檻<lb/>
+　　招邀謂之賣客又有小鬟不呼自至歌吟强聒以<lb/>
+　　求支分謂之擦坐又有吹簫彈阮息氣鑼板歌唱<lb/>
+<pb n="KR2k0119_WYG_006-4a"/>
+　　散耍等人謂之趕趂及有老嫗以小爐炷香為供<lb/>
+　　者謂之香婆有以法製青皮杏仁半夏縮砂荳䓻<lb/>
+　　小蠟茶香藥韻薑砌香橄欖薄荷至酒閣分俵得<lb/>
+　　錢謂之撒□又有賣玉面貍鹿肉糟決明糟蟹糟<lb/>
+　　羊蹄酒蛤蜊柔魚蝦茸<graphic n="KR2340" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2340.png" mimeType="image/png"/>乾者謂之家風又有賣<lb/>
+　　酒浸江<graphic n="KR2090" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2090.png" mimeType="image/png"/>章舉蠣肉龜脚鎖管蜜丁脆螺鱟醬法<lb/>
+　　鰕子魚䱥魚諸海味者謂之醒酒口味凡下酒羮<lb/>
+　　湯任意索喚雖十客各欲一味亦自不妨過賣鐺<lb/>
+<pb n="KR2k0119_WYG_006-4b"/>
+　　頭記憶數十百品不勞再四傳喝如流便即製造<lb/>
+　　供應不許少有違悮酒未至則先設㸔菜數楪及<lb/>
+　　舉杯則又換細菜如此屢易愈出愈竒極意奉承<lb/>
+　　或少忤客意及食次少遲則主人隨逐去之歌管<lb/>
+　　歡笑之聲毎夕達旦往往與朝天車馬相接雖暑<lb/>
+　　雨風雪不少减也<lb/>
+　　歌館<lb/>
+平康諸坊如上下抱劍營漆器牆沙皮巷清河坊融和<lb/>
+<pb n="KR2k0119_WYG_006-5a"/>
+坊新街太平坊巾子巷獅子巷後市街薦橋皆羣花所<lb/>
+聚之地外此諸處茶肆如清樂茶坊八仙茶坊珠子茶<lb/>
+坊潘家茶坊連三茶房連二茶坊及金沙橋等兩河以<lb/>
+至瓦市各有等差莫不靚粧迎門争妍賣笑朝歌暮絃<lb/>
+搖蕩心目凡初登門則有提瓶獻茗者雖杯茶亦犒數<lb/>
+千謂之㸃花茶登樓甫飲一杯則先與數貫謂之支酒<lb/>
+然後呼喚提賣隨意置宴趕趂祇應撲賣者亦皆紛至<lb/>
+浮費頗多或欲更招他妓則雖對街亦呼肩輿而至謂<lb/>
+<pb n="KR2k0119_WYG_006-5b"/>
+之過街轎前輩如賽觀音孟家蟬吴憐兒等甚多皆以<lb/>
+色藝冠一時家甚華侈近世目擊者惟唐安安最號富<lb/>
+盛凡酒器沙鑼氷盆火箱粧盒之類悉以金銀為之帳<lb/>
+幔茵褥多用錦綺器玩珍竒他物稱是下此雖力不逮<lb/>
+者亦競鮮華盖自酒器首飾被卧衣服之属各有賃者<lb/>
+故凡佳客之至則供具為之一新非曽逰者不察也<lb/>
+　　賃物<lb/>
+　花檐　　　　酒檐　　　　首飾<lb/>
+<pb n="KR2k0119_WYG_006-6a"/>
+　衣服　　　　被卧　　　　轎子<lb/>
+　布囊　　　　酒器　　　　幃設<lb/>
+　動用　　　　盤合　　　　䘮具<lb/>
+　　凡吉凶之事自有所謂茶酒厨子專任飲食請客<lb/>
+　　宴席之事凡合用之物一切賃至不勞餘力雖廣<lb/>
+　　席盛設亦可咄嗟辦也<lb/>
+　　作坊<lb/>
+　熟藥圓散　　生藥片飲　　□麫<lb/>
+<pb n="KR2k0119_WYG_006-6b"/>
+　團子　　　　饅頭　　　　爊炕鵝鴨<lb/>
+　爊炕猪羊　　糖蜜棗兒　　諸般糖<lb/>
+　金橘團　　　灌肺　　　　饊子<lb/>
+　萁荳　　　　印馬　　　　蚊烟<lb/>
+　　都民驕惰凡賣買之物多於作坊行販已成之物<lb/>
+　　轉求什一之利或有貧而愿者凡貨物盤架之類<lb/>
+　　一切取辦於作坊至晚始以所直償之雖無分文<lb/>
+　　之儲亦可糊口此亦風俗之美也<lb/>
+<pb n="KR2k0119_WYG_006-7a"/>
+　　驕民<lb/>
+都民素驕非惟風俗所致盖生長輦下勢使之然若住<lb/>
+屋則動蠲公私房賃或終嵗不償一鐶諸務税息亦多<lb/>
+蠲放有連年不收一孔者皆朝廷自行抱認諸項窠名<lb/>
+恩賞有黄榜錢雪降則有雪寒錢久雨久晴則又有賑<lb/>
+恤錢米大家富室則又隨時有所資給大官拜命則有<lb/>
+所謂搶節錢病者則有施藥局童㓜不能自育者則有<lb/>
+慈幼局貧而無依者則有養濟院死而無殮者則有漏<lb/>
+<pb n="KR2k0119_WYG_006-7b"/>
+澤園民生何其幸歟<lb/>
+　　游手<lb/>
+浩穰之區人物盛顆㳺手奸黠實繁有徒有所謂美人<lb/>
+局以娼優為姬妾誘引少年為事櫃坊賭局以博戲闗<lb/>
+撲結黨手法騙財水功徳局以求官覔舉恩澤遷轉訟<lb/>
+事交易等為名假借聲勢脱漏財物不一而足又有買<lb/>
+賣物貨以偽易真至以紙為衣銅鉛為金銀土朩為香<lb/>
+藥變換如神謂之白日賊若闤闠之地則有剪脱衣囊<lb/>
+<pb n="KR2k0119_WYG_006-8a"/>
+環佩者謂之覔貼兒其他穿窬胠箧各有稱首以至頑<lb/>
+徒如攔街虎九條龍之徒尤為市井之害故尹京政先<lb/>
+彈壓必得精悍鈎鉅長於才術者乃可都轄一方有都<lb/>
+轄使臣總轄供甲院長以至廂巡地分頭項火下凡數<lb/>
+千人專以緝捕為職其間雄駔有聲者往往皆出羣盗<lb/>
+而内司又有海巡八廂以察之<lb/>
+　　市食<lb/>
+　鵪鶉餶飿兒　肝臟<graphic n="KR2410" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2410.png" mimeType="image/png"/>子　　寛焦薄脆<lb/>
+<pb n="KR2k0119_WYG_006-8b"/>
+　灌腸　　　　猪胰胡餅　　香藥灌肺<lb/>
+　窩絲薑豉　　剗子　　　　羊脂韭餅<lb/>
+　玲瓏雙條　　七色燒餅　　科斗細粉<lb/>
+　金錠裹蒸　　市羅<graphic n="KR2410" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2410.png" mimeType="image/png"/>兒　　雜煠<lb/>
+　糕糜　　　　旋炙<graphic n="KR1571" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1571.png" mimeType="image/png"/>兒　　八糙鵞鴨<lb/>
+　炙鷄鴨　　　爊肝　　　　鑵裏爊<lb/>
+　爊鰻鱔　　　爊團魚　　　煎白腸<lb/>
+　水晶膾　　　煎鴨子　　　臓駞兒<lb/>
+<pb n="KR2k0119_WYG_006-9a"/>
+　焦蒸餅　　　海蟄鮓　　　薑蝦米<lb/>
+　辣虀粉　　　糖葉子　　　豆糰<lb/>
+　麻糰　　　　螺頭　　　　膘皮<lb/>
+　辣菜餅　　　炒螃蟹　　　肉蔥虀<lb/>
+　羊血　　　　鹿肉<graphic n="KR1571" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1571.png" mimeType="image/png"/>子<lb/>
+　　果子<lb/>
+　皂兒膏　　　宜利少　　　瓜蔞煎<lb/>
+　鮑螺　　　　裹蜜　　　　糖絲線<lb/>
+<pb n="KR2k0119_WYG_006-9b"/>
+　澤州餳　　　蜜麻酥　　　炒團<lb/>
+　澄沙團子　　十般糖　　　甘露餅<lb/>
+　玉屑膏　　　爊朩𤓰　　　糖脆梅<lb/>
+　破核兒　　　查條　　　　橘紅膏<lb/>
+　荔枝膏　　　蜜薑䜴　　　韻姜糖<lb/>
+　花花糖　　　二色灌香藕　糖豌荳<lb/>
+　芽豆　　　　栗黄　　　　烏李<lb/>
+　酪麫　　　　蓼花　　　　蜜彈彈<lb/>
+<pb n="KR2k0119_WYG_006-10a"/>
+　望口消　　　桃穰酥　　　重劑<lb/>
+　蜜棗兒　　　天花餅　　　烏梅糖<lb/>
+　玉柱糖　　　乳糖獅子　　薄荷蜜<lb/>
+　琥珀蜜　　　餳角兒　　　諸色糖蜜煎<lb/>
+　　菜蔬<lb/>
+　薑油多　　　薤花茄兒　　辣𤓰兒<lb/>
+　倭菜　　　　藕鮓　　　　冬瓜鮓<lb/>
+　笋鮓　　　　茭白鮓　　　皮醬<lb/>
+<pb n="KR2k0119_WYG_006-10b"/>
+　糟瓜虀　　　淡鹽虀　　　鮓菜<lb/>
+　醋薑　　　　脂麻辣菜　　拌生菜<lb/>
+　諸般糟淹　　鹽芥<lb/>
+　　粥<lb/>
+　七寳素粥　　五味粥　　　栗米粥<lb/>
+　糖豆粥　　　糖粥　　　　糕粥<lb/>
+　饊子粥<lb/>
+　　<graphic n="KR1571" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1571.png" mimeType="image/png"/>鮓<lb/>
+<pb n="KR2k0119_WYG_006-11a"/>
+　筭條　　　　界方條　　　線條<lb/>
+　魚肉影戲　　胡羊<graphic n="KR1571" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1571.png" mimeType="image/png"/>　　　削脯<lb/>
+　槌脯　　　　鬆脯　　　　兎<graphic n="KR1571" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1571.png" mimeType="image/png"/>
+　麞<graphic n="KR1571" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1571.png" mimeType="image/png"/>鹿脯　　糟猪頭　　　乾鹹豉<lb/>
+　皂角鋋　　　臘肉　　　　炙骨頭<lb/>
+　旋炙荷包　　荔枝皮　　　鵞鮓<lb/>
+　荷包旋鮓　　三和鮓　　　切鮓<lb/>
+　骨鮓　　　　桃花鮓　　　雪團鮓<lb/>
+<pb n="KR2k0119_WYG_006-11b"/>
+　玉板鮓　　　鱘鰉鮓　　　春子鮓<lb/>
+　黄雀鮓　　　銀魚鮓　　　<graphic n="KR1173" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1173.png" mimeType="image/png"/>鮓<lb/>
+　　凉水<lb/>
+　甘豆湯　　　椰子酒　　　豆兒水<lb/>
+　鹿梨漿　　　滷梅水　　　薑蜜水<lb/>
+　朩瓜汁　　　茶水　　　　沈香水<lb/>
+　荔枝膏水　　苦水　　　　金橘團<lb/>
+　雪泡縮脾飲　梅花酒　　　五苓大順散<lb/>
+<pb n="KR2k0119_WYG_006-12a"/>
+　香薷飲　　　紫蘇飲<lb/>
+　　糕<lb/>
+　糖糕　　　　蜜糕　　　　栗糕<lb/>
+　粟糕　　　　麥糕　　　　豆糕<lb/>
+　花糕　　　　糍糕　　　　雪糕<lb/>
+　小甑糕　　　蒸糖糕　　　生糖糕<lb/>
+　蜂糖糕　　　線糕　　　　間炊糕<lb/>
+　乾糕　　　　乳糕　　　　重陽糕<lb/>
+<pb n="KR2k0119_WYG_006-12b"/>
+　社糕<lb/>
+　　蒸作從食<lb/>
+　子母蠒　　　春蠒　　　　大包子<lb/>
+　荷葉餅　　　芙蓉餅　　　夀帯龜<lb/>
+　子母龜　　　歡喜　　　　撚尖<lb/>
+　剪花　　　　小蒸作　　　駱駝蹄<lb/>
+　大學饅頭　　羊肉饅頭　　細餡<lb/>
+　糖餡　　　　豆沙餡　　　蜜辣餡<lb/>
+<pb n="KR2k0119_WYG_006-13a"/>
+　生餡　　　　飯餡　　　　酸餡<lb/>
+　笋肉餡　　　□蕈餡　　　棗栗餡<lb/>
+　薄皮　　　　蟹黄　　　　灌漿<lb/>
+　卧爐　　　　鵞項　　　　棗䭅<lb/>
+　仙桃　　　　乳餅　　　　菜餅<lb/>
+　秤錘蒸餅　　睡蒸餅　　　千層<lb/>
+　雞頭籃兒　　鵞彈　　　　月餅<lb/>
+　餣子　　　　炙焦　　　　肉油餅<lb/>
+<pb n="KR2k0119_WYG_006-13b"/>
+　燒餅　　　　火棒　　　　小蜜食<lb/>
+　金花餅　　　市羅　　　　蜜劑<lb/>
+　餅餤　　　　春餅　　　　胡餅<lb/>
+　韭餅　　　　諸色<graphic n="KR2410" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2410.png" mimeType="image/png"/>子　　諸色包子<lb/>
+　諸色角兒　　諸色果食<lb/>
+　　諸色名酒<lb/>
+　薔薇露　　　流香<hi>並御庫</hi>　　宣賜碧香<lb/>
+　思春堂<hi>三省激賞庫</hi>鳳泉<hi>殿/司</hi>　　　玉練槌<hi>祠祭</hi>
+<pb n="KR2k0119_WYG_006-14a"/>
+　有美堂　　　中和堂　　　雪醅<lb/>
+　真珠泉　　　皇都春<hi>出賣</hi>　　爰咨堂<lb/>
+　和酒<hi>出賣並京醖</hi>　皇華堂<hi>浙西/倉</hi>　常酒<hi>出賣</hi>
+　瓊花露<hi>揚州</hi>　　六客堂<hi>湖州</hi>　　齊雲青露<lb/>
+　雙瑞<hi>並蘇州</hi>　　愛山堂　　　得江<hi>並東緫</hi>
+　留都春　　　静治堂<hi>並江閫</hi>　十州春<lb/>
+　玉醅<hi>並海閫</hi>　　海岳春<hi>西/總</hi>　　籌思堂<hi>江東漕</hi>
+　清若空<hi>秀州</hi>　　蓬萊春<hi>越州</hi>　　第一江山<lb/>
+<pb n="KR2k0119_WYG_006-14b"/>
+　北府兵厨　　錦波春　　　浮玉春<hi>並鎮江</hi>
+　秦淮春　　　銀光<hi>並建康</hi>　　清心堂<lb/>
+　豐和春　　　䝉泉<hi>並温州</hi>　　瀟灑泉<hi>嚴州</hi>
+　金斗泉<hi>常州</hi>　　思政堂　　　龜峰<hi>並衢州</hi>
+　錯認水<hi>婺州</hi>　　穀溪春<hi>蘭/溪</hi>　　慶逺堂<hi>秀邸</hi>
+　清白堂<hi>楊府</hi>　　藍橋風月<hi>吴/府</hi>　紫金泉<hi>楊郡王府</hi>
+　慶華堂<hi>楊駙馬府</hi>　元勲堂<hi>張府</hi>　　眉夀堂<lb/>
+　萬象皆春<hi>並榮邸</hi>濟美堂　　　勝茶<hi>並謝府</hi>
+<pb n="KR2k0119_WYG_006-15a"/>
+　　㸃檢所酒息日課以數十萬計而諸司邸第及諸<lb/>
+　　州供送之酒不與焉盖人物浩繁飲之者衆故也<lb/>
+　　小經紀<hi>他處所無有</hi>
+　選官圖　　　班朝録　　　供朝報<lb/>
+　寫牌額　　　諸色科名　　開先牌<lb/>
+　織經帯　　　裁板尺　　　諸色指揮<lb/>
+　交牀試籃　　棋子棋盤　　蒱牌骰子<lb/>
+　諸般簿子　　賣字本　　　掌記冊兒<lb/>
+<pb n="KR2k0119_WYG_006-15b"/>
+　紙畫兒　　　諸色經文　　刀册兒<lb/>
+　剪字　　　　扇牌兒　　　印色盝<lb/>
+　纒令　　　　耍令　　　　琴阮絃<lb/>
+　開笛　　　　靚笙　　　　鞔鼓<lb/>
+　口簧　　　　位牌　　　　諸盤盝兒<lb/>
+　屋頭掛屏　　剪鏃花様　　簷前樂<lb/>
+　見成皮鞵　　提燈齪燈　　頭鬚編掠<lb/>
+　香櫞絡兒　　香櫞坐子　　柱杖<lb/>
+<pb n="KR2k0119_WYG_006-16a"/>
+　粘竿　　　　風旛　　　　釣鈎<lb/>
+　釣竿　　　　食罩　　　　弔掛<lb/>
+　拂子　　　　蒲坐　　　　椅褥<lb/>
+　藥焙　　　　烘籃　　　　風袋<lb/>
+　煙帚　　　　糊刷　　　　鞋楦<lb/>
+　桶鉢　　　　搭羅兒　　　薑擦子<lb/>
+　帽兒　　　　鞵帯　　　　修皮鞋<lb/>
+　穿交椅　　　穿罣罳　　　鞋結厎<lb/>
+<pb n="KR2k0119_WYG_006-16b"/>
+　領抹　　　　釵朶　　　　牙梳<lb/>
+　穿珠　　　　洗翠　　　　修冠子<lb/>
+　小梳兒　　　染梳兒　　　接補梳兒<lb/>
+　香袋兒　　　面花兒　　　絹孩兒<lb/>
+　符袋兒　　　畫梅七香丸　膠紙<lb/>
+　穏步膏　　　手皺藥　　　凉藥<lb/>
+　香藥　　　　膏藥　　　　髪垜兒<lb/>
+　頭髪　　　　磨鏡　　　　弩兒<lb/>
+<pb n="KR2k0119_WYG_006-17a"/>
+　弩絃　　　　彈弓　　　　箭翎<lb/>
+　射帖　　　　壺籌　　　　鵓鴿鈴<lb/>
+　風筝　　　　藥線　　　　象棋<lb/>
+　鞬子　　　　斗葉　　　　香爐灰<lb/>
+　紕刷兒　　　篦子剔　　　剪截斷尺<lb/>
+　出洗衣服　　簇頭消息　　提茶瓶<lb/>
+　鼓爐釘餅　　釘看窻　　　札熨斗<lb/>
+　供香餅　　　使緜　　　　打炭墼<lb/>
+<pb n="KR2k0119_WYG_006-17b"/>
+　補鍋子　　　泥竈　　　　整漏<lb/>
+　篐桶　　　　襻膊兒　　　竹猫兒<lb/>
+　消息子　　　老䑕藥　　　蚊烟<lb/>
+　閙鵞兒　　　凉筒兒　　　紐扣子<lb/>
+　接縧　　　　修扇子　　　錢索<lb/>
+　麻索　　　　紅索兒　　　席草<lb/>
+　雞籠　　　　修竹作　　　使法油<lb/>
+　油紙　　　　油單　　　　氊坐子<lb/>
+<pb n="KR2k0119_WYG_006-18a"/>
+　修砧頭　　　磨刀　　　　磨剪子<lb/>
+　擂槌<hi>俗諺云杭州人一日吃三十丈木頭以三十萬家為率約毎十家日吃擂槌一分合而計之則</hi>
+　<hi>三十丈矣</hi>　　　　棒槌　　　　舂米<lb/>
+　劈柴　　　　淘井　　　　猫窩<lb/>
+　猫魚　　　　賣猫魚　　　改猫犬<lb/>
+　鷄食　　　　魚食　　　　蟲食<lb/>
+　蟲蟻食　　　諸般蟲蟻　　魚兒活<lb/>
+　虼蚪兒　　　促織兒　　　小螃蟹<lb/>
+<pb n="KR2k0119_WYG_006-18b"/>
+　金麻　　　　馬<graphic n="KR1578" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1578.png" mimeType="image/png"/>兒　　　蝍蟟<lb/>
+　蟲蟻籠　　　促織盆　　　麻花子<lb/>
+　荷葉　　　　燈草　　　　發燭<lb/>
+　肥皂團　　　茶花子　　　買瓶掇<lb/>
+　舊鋪襯　　　圪伯紙　　　竹釘<lb/>
+　淘灰土　　　淘河　　　　剔撥义<lb/>
+　黄牛糞灰　　挑疥蟲　　　賣烟火<lb/>
+　鏇影戲<lb/>
+<pb n="KR2k0119_WYG_006-19a"/>
+　　若夫兒戲之物名件甚多尤不可悉數如相銀杏<lb/>
+　　猜糖吹呌兒打嬌惜千千車輪盤兒毎一事率數<lb/>
+　　十人各專藉以為衣食之地皆他處之所無也<lb/>
+　　諸色技藝人<lb/>
+　御前應制<lb/>
+　　姜梅山<hi>特立觀察使</hi>周葵窗<hi>端/臣</hi>　　曹松山<hi>蘧</hi>
+　　陳藏一<hi>郁</hi>　　徐良　　　　陳愛山<lb/>
+　　程奎　　　　耿待聘<lb/>
+<pb n="KR2k0119_WYG_006-19b"/>
+　御前畫院<lb/>
+　　馬和之　　　蘇漢臣　　　李安中<lb/>
+　　陳善　　　　林春　　　　吴炳<lb/>
+　　夏圭　　　　李廸　　　　馬逺<lb/>
+　　馬璘<lb/>
+　<lb/>
+　<lb/>
+　武林舊事巻六<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2m0055_WYG_074-1a"/>
+欽定四庫全書<lb/>
+大清律例卷二十九<lb/>
+　刑律<lb/>
+　　罵詈<lb/>
+　罵人<lb/>
+　　凡罵人者笞一十互相罵者各笞一十<lb/>
+<pb n="KR2m0055_WYG_074-2a"/>
+　罵制使及本管長官<lb/>
+　　凡奉制命出使而官吏罵之者及部民罵本屬知<lb/>
+　　　府知州知縣軍士罵本管官若吏卒罵本部五<lb/>
+　　　品以上長官杖一百若吏卒罵六品以下長官<lb/>
+　　　各<hi>指六品至雜職各於杖一百上</hi>減三等<hi>軍民/吏卒</hi>罵<hi>本屬本管本部之</hi>佐<lb/>
+　　　貳官首領官又各遞減一等並親聞乃坐<lb/>
+　條例<lb/>
+　　一凡毁罵公侯駙馬伯及京省文職三品以上武<lb/>
+<pb n="KR2m0055_WYG_074-2b"/>
+　　　職二品以上官者杖一百枷號一箇月發落<lb/>
+　　一凡在<lb/>
+　長安門外等處妄呌寃枉辱罵原問官者杖一百用<lb/>
+　　　一百斤枷枷號一箇月發落婦人有犯罪坐夫<lb/>
+　　　男若不知情及無夫男者止坐本婦照常發落<lb/>
+<pb n="KR2m0055_WYG_074-3a"/>
+　佐職統屬罵長官<lb/>
+　　凡首領官及統屬官罵五品以上長官杖八十若<lb/>
+　　　罵六品以下長官減三等<hi>笞五十</hi>佐貳官罵長官<lb/>
+　　　者又各減二等<hi>五品以上杖六十六品以下笞三十</hi>並親聞乃坐<lb/>
+<pb n="KR2m0055_WYG_074-4a"/>
+　奴婢罵家長<lb/>
+　　凡奴婢罵家長者絞<hi>監候</hi>罵家長之期親及外祖父<lb/>
+　　　母者杖八十徒二年大功杖八十小功杖七十<lb/>
+　　　緦麻杖六十若雇工人罵家長者杖八十徒二<lb/>
+　　　年罵家長期親及外祖父母杖一百大功杖六<lb/>
+　　　十小功笞五十緦麻笞四十並親告乃坐<hi>以分相臨</hi>
+　　　<hi>恐有䜛間之言故須親聞以情相與或有容𨼆之意故須親告</hi>
+<pb n="KR2m0055_WYG_074-5a"/>
+　罵尊長<lb/>
+　　凡罵<hi>内外</hi>緦麻兄姊笞五十小功兄姊杖六十大功<lb/>
+　　　兄姊杖七十尊屬<hi>兼緦麻小功大功</hi>各加一等若罵<hi>期親</hi>
+　　　<hi>同胞</hi>兄姊者杖一百伯叔父母姑外祖父母各加<lb/>
+　　　<hi>罵兄姊</hi>一等並須親告乃坐<hi>弟罵兄妻比照毆律加凡人一等</hi>
+<pb n="KR2m0055_WYG_074-6a"/>
+　罵祖父母父母<lb/>
+　　凡罵祖父母父母及妻妾罵夫之祖父母父母者<lb/>
+　　　並絞須親告乃坐<lb/>
+　條例<lb/>
+　　一凡毁罵祖父母父母及夫之祖父母父母告息<lb/>
+　　　詞者奏請<lb/>
+定奪再犯者雖有息詞不與准理若祖父母父母聴信<lb/>
+　　　後妻愛子蠱惑謀襲官職争奪財産等項揑告<lb/>
+<pb n="KR2m0055_WYG_074-6b"/>
+　　　打罵者究問明白不拘所犯次數亦與辯理<lb/>
+<pb n="KR2m0055_WYG_074-7a"/>
+　妻妾罵夫期親尊長<lb/>
+　　凡妻妾罵夫之期親以下緦麻以上<hi>内外</hi>尊長與夫<lb/>
+　　　罵罪同妾罵夫者杖八十妾罵妻者罪亦如之<lb/>
+　　　若罵妻之父母者杖六十並須親告乃坐<hi>律無妻罵</hi>
+　　　<hi>夫之條者以閨門敵體之義恕之也若犯擬不應笞罪可也</hi>
+<pb n="KR2m0055_WYG_074-8a"/>
+　妻妾罵故夫父母<lb/>
+　　凡妻妾夫亡改嫁<hi>其義未絶</hi>罵故夫之祖父母父母者<lb/>
+　　　並與罵舅姑罪同<hi>按妻若夫在被出與夫義絶及姑婦俱改嫁者不用此律</hi>
+　　　<hi>又子孫之婦守志在室而罵已改嫁之親姑者與罵夫期親尊屬同若嫡繼慈養母已嫁不在</hi>
+　　　<hi>罵姑之例</hi>○若奴婢<hi>轉賣與人其義已絶</hi>罵舊家長者以凡人<lb/>
+　　　論<hi>其贖身奴婢罵舊家長者仍依罵家長本律論</hi>
+　<lb/>
+　<lb/>
+<pb n="KR2m0055_WYG_074-8b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+大清律例卷二十九<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

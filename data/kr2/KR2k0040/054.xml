@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2k0040_WYG_054-1a"/>
+欽定四庫全書<lb/>
+欽定盛京通志卷五十<lb/>
+　　　選舉<hi>四</hi>
+　國朝<lb/>
+　　武進士<lb/>
+　　武舉人<lb/>
+　　山東衛學中式武舉人附載<lb/>
+<pb n="KR2k0040_WYG_054-2a"/>
+　欽定四庫全書<lb/>
+　欽定盛京通志卷五十<lb/>
+　　　選舉<hi>四</hi>
+　　國朝<lb/>
+　　　　武進士<hi>中額附入順天省並無定額</hi>
+　　　康熙己未科<lb/>
+　　　趙聨璧<hi>錦縣人厯官逰擊</hi>
+　　　康熙丁丑科<lb/>
+<pb n="KR2k0040_WYG_054-2b"/>
+　　　鐡鴻緒<hi>承徳縣人厯官池州營逰擊</hi>
+　　　康熙庚辰科<lb/>
+　　　王人聞<hi>海城縣人</hi>
+　　　康熙癸巳<lb/>
+恩科<lb/>
+　　　趙廷文<hi>錦縣人官杭州衛守偹</hi>
+　　　康熙戊戌科<lb/>
+　　　李景泌<hi>海城縣人</hi>
+<pb n="KR2k0040_WYG_054-3a"/>
+　　楊　巖<hi>錦縣人官宣化府守偹</hi>
+　　雍正甲辰科<lb/>
+　　鐡景祐<hi>承徳縣人厯官澧州營叅將</hi>
+　　張復發<hi>錦縣人厯官鄜州都司</hi>
+　　雍正丁未科<lb/>
+　　趙　頗<hi>義州人</hi>
+　　乾隆丁巳<lb/>
+恩科<lb/>
+<pb n="KR2k0040_WYG_054-3b"/>
+　　周　丹<hi>錦縣人</hi>
+　　　武舉人<hi>定額三名内康熙乙夘庚午兩科舊志失載今無稽考</hi>
+　　康熙丙午科<lb/>
+　　艾天竒<hi>遼陽州人</hi>
+　　楊國雄<hi>遼陽州人</hi>
+　　李　霖<hi>鐵嶺縣人</hi>
+　　康熙己酉科<lb/>
+　　鄭𢎞儒<hi>遼陽州人</hi>
+<pb n="KR2k0040_WYG_054-4a"/>
+　　馬直樂<hi>錦縣人</hi>
+　　郭　郛<hi>錦縣人</hi>
+　　康熙壬子科<lb/>
+　　張　世<hi>鐡嶺縣人</hi>
+　　王佳裔<hi>錦縣人</hi>
+　　吕從政<hi>遼陽州人</hi>
+　　康熙戊午科<lb/>
+　　唐朝璽<hi>葢平縣人</hi>
+<pb n="KR2k0040_WYG_054-4b"/>
+　　趙聨璧<hi>錦縣人見進士</hi>
+　　劉萬鵬<hi>錦縣人</hi>
+　　康熙辛酉科<lb/>
+　　鐡承謨<hi>承徳縣人</hi>
+　　趙　銘<hi>寜逺州人</hi>
+　　許大成<hi>錦縣人</hi>
+　　康熙甲子科<lb/>
+　　王人聞<hi>海城縣人見進士</hi>
+<pb n="KR2k0040_WYG_054-5a"/>
+　　杜繼牧<hi>寜逺州人</hi>
+　　劉澤潤<hi>錦縣人</hi>
+　　康熙丁夘科<lb/>
+　　錢之章<hi>承徳縣人</hi>
+　　鐡鴻緒<hi>承徳縣人見進士</hi>
+　　方呈榮<hi>錦縣人</hi>
+　　康熙癸酉科<lb/>
+　　陳芝臺<hi>錦縣人</hi>
+<pb n="KR2k0040_WYG_054-5b"/>
+　　趙有官<hi>錦縣人</hi>
+　　許髙昇<hi>錦縣人</hi>
+　　康熙丙子科<lb/>
+　　田　彧<hi>錦縣人</hi>
+　　樊永寜<hi>錦縣人</hi>
+　　王金式<hi>鐡嶺縣人</hi>
+　　康熙己夘科<lb/>
+　　左　超<hi>鐡嶺縣人</hi>
+<pb n="KR2k0040_WYG_054-6a"/>
+　　孫士鶚<hi>錦縣人</hi>
+　　趙思温<hi>寜逺州人</hi>
+　　康熙壬午科<lb/>
+　　倪廷標<hi>鐡嶺縣人</hi>
+　　趙廷文<hi>錦縣人見進士</hi>
+　　胡　瑛<hi>廣寜縣人</hi>
+　　康熙乙酉科<lb/>
+　　陳韶善<hi>錦縣人</hi>
+<pb n="KR2k0040_WYG_054-6b"/>
+　　熊之占<hi>鐵嶺縣人</hi>
+　　賈聨㨗<hi>錦縣人官延山所千總</hi>
+　　康熙戊子科<lb/>
+　　孫登瀛<hi>錦縣人</hi>
+　　張開基<hi>寜逺州人官洮州衛守偹</hi>
+　　宋　錦<hi>承徳縣人</hi>
+　　康熙辛夘科<lb/>
+　　賈聨第<hi>錦縣人</hi>
+<pb n="KR2k0040_WYG_054-7a"/>
+　　　陳元錕<hi>錦縣人</hi>
+　　　羅振威<hi>廣寜縣人</hi>
+　　　康熙癸巳<lb/>
+恩科<lb/>
+　　　薛景奕<hi>錦縣人</hi>
+　　　才柱才<hi>錦縣人</hi>
+　　　王天禧<hi>錦縣人</hi>
+　　　康熙甲午科<lb/>
+<pb n="KR2k0040_WYG_054-7b"/>
+　　　李景泌<hi>海城縣人見進士</hi>
+　　　趙之儒<hi>錦縣人</hi>
+　　　吕養志<hi>寜逺州人</hi>
+　　　康熙丁酉科<lb/>
+　　　劉裔昌<hi>錦縣人</hi>
+　　　周紹麟<hi>承徳縣人</hi>
+　　　楊　巖<hi>錦縣人見進士</hi>
+　　　康熙庚子科<lb/>
+<pb n="KR2k0040_WYG_054-8a"/>
+　　　王國生<hi>海城縣人</hi>
+　　　聶得秀<hi>錦縣人</hi>
+　　　劉　鑑<hi>錦縣人</hi>
+　　　雍正癸夘<lb/>
+恩科<lb/>
+　　　鐡景祐<hi>承徳縣人見進士</hi>
+　　　方中興<hi>錦縣人</hi>
+　　　張復發<hi>錦縣人見進士</hi>
+<pb n="KR2k0040_WYG_054-8b"/>
+　　　雍正甲辰科<lb/>
+　　　戴　亮<hi>承徳縣人</hi>
+　　　馬興輝<hi>寜逺州人</hi>
+　　　鮑文魁<hi>寜逺州人</hi>
+　　　雍正丙午科<lb/>
+　　　劉士泰<hi>錦縣人</hi>
+　　　趙　頗<hi>義州人</hi>
+　　　孟廷玉<hi>鐡嶺縣人</hi>
+<pb n="KR2k0040_WYG_054-9a"/>
+　　雍正己酉科<lb/>
+　　蔡聞逺<hi>承徳縣人官淮安千總</hi>
+　　張廷試<hi>錦縣人</hi>
+　　李朝相<hi>錦逺州人</hi>
+　　雍正壬子科<lb/>
+　　丁建義<hi>承徳縣人</hi>
+　　鐡景隆<lb/>
+　　寗　份<lb/>
+<pb n="KR2k0040_WYG_054-9b"/>
+　　雍正乙夘科<lb/>
+　　魯　璽<hi>錦縣人</hi>
+　　聶惟中<hi>錦縣人</hi>
+　　劉寅之<hi>錦縣人</hi>
+　　乾隆丙辰<lb/>
+恩科<lb/>
+　　周　丹<hi>錦縣人</hi>
+　　寗廷琰<hi>寜逺州人官山東臨清衛千總</hi>
+<pb n="KR2k0040_WYG_054-10a"/>
+　　唐相玉<hi>鐡嶺縣人</hi>
+　　乾隆戊午科<lb/>
+　　夏　顯<hi>承徳縣人</hi>
+　　夏文耀<hi>鐡嶺縣人</hi>
+　　呉　寛<hi>海城縣人</hi>
+　　乾隆辛酉科<lb/>
+　　王　佩<hi>錦縣人</hi>
+　　戴廷璋<hi>承徳縣人</hi>
+<pb n="KR2k0040_WYG_054-10b"/>
+　　王徳寛<hi>寜逺州州人</hi>
+　　乾隆甲子科<lb/>
+　　王天寵<hi>錦縣人</hi>
+　　張　鵬<hi>錦縣人</hi>
+　　孫進功<lb/>
+　　乾隆丁夘科<lb/>
+　　劉預發<hi>錦縣人</hi>
+　　張輔世<hi>錦縣人</hi>
+<pb n="KR2k0040_WYG_054-11a"/>
+　　王者師<hi>寜逺州人</hi>
+　　乾隆庚午科<lb/>
+　　趙元龍<hi>錦縣人</hi>
+　　李光祖<hi>承徳縣人</hi>
+　　錢　蔚<hi>寜古塔人</hi>
+　　乾隆壬申<lb/>
+恩科<lb/>
+　　趙　鎮<lb/>
+<pb n="KR2k0040_WYG_054-11b"/>
+　　陳起鵾<hi>寜古塔人</hi>
+　　栁　溥<hi>寜古塔人</hi>
+　　乾隆癸酉科<lb/>
+　　潘見龍<hi>寜逺州人</hi>
+　　徐　瑾<hi>承徳縣人官廬州衛千總</hi>
+　　霍永耀<hi>承徳縣人</hi>
+　　乾隆丙子科<lb/>
+　　楊鐸年<hi>寜逺州人官東昌衛千總</hi>
+<pb n="KR2k0040_WYG_054-12a"/>
+　　金起鵬<hi>錦縣人</hi>
+　　趙尚徳<hi>承徳縣人</hi>
+　　乾隆己夘科<lb/>
+　　魏　雲<hi>錦縣人</hi>
+　　郭自煜<hi>寜逺州人</hi>
+　　李　蘭<hi>廣寜縣人</hi>
+　　乾隆庚辰<lb/>
+恩科<lb/>
+<pb n="KR2k0040_WYG_054-12b"/>
+　　趙　佩<hi>錦縣人</hi>
+　　劉永毅<hi>遼陽州人</hi>
+　　單維倫<hi>義州人</hi>
+　　乾隆壬午科<lb/>
+　　鐡朝臣<hi>承徳縣人</hi>
+　　劉文雄<hi>義州人</hi>
+　　李　茂<hi>寜逺州人</hi>
+　　乾隆乙酉科<lb/>
+<pb n="KR2k0040_WYG_054-13a"/>
+　　徐廷名<hi>承徳縣人</hi>
+　　艾永標<hi>義州人</hi>
+　　魯廷選<hi>承徳縣人</hi>
+　　乾隆戊子科<lb/>
+　　嚴廷良<lb/>
+　　趙夢龍<lb/>
+　　魏廷實<lb/>
+　　乾隆庚寅<lb/>
+<pb n="KR2k0040_WYG_054-13b"/>
+恩科<lb/>
+　　傅　訓<hi>義州人</hi>
+　　周廷桂<hi>承徳縣人</hi>
+　　曹君美<hi>承徳縣人</hi>
+　　乾隆辛夘科<lb/>
+　　艾名標<hi>義州人</hi>
+　　王嘉謨<hi>承徳縣人</hi>
+　　周　昇<hi>承徳縣人</hi>
+<pb n="KR2k0040_WYG_054-14a"/>
+　　乾隆甲午科<lb/>
+　　王振宇<hi>義州人</hi>
+　　劉　玳<hi>義州人</hi>
+　　周　昇<hi>義州人</hi>
+　　乾隆丁酉科<lb/>
+　　馮國榮<hi>承徳縣人</hi>
+　　馮廷樑<hi>海城縣人</hi>
+　　曹　銓<hi>錦縣人</hi>
+<pb n="KR2k0040_WYG_054-14b"/>
+　　乾隆己亥<lb/>
+恩科<lb/>
+　　湯維新<hi>海城縣人</hi>
+　　馮國士<hi>承徳縣人</hi>
+　　曹　鏞<hi>錦縣人</hi>
+　　乾隆庚子科<lb/>
+　　岳　裕<hi>義州人</hi>
+　　金克配<hi>遼陽州人</hi>
+<pb n="KR2k0040_WYG_054-15a"/>
+　　曹鳳翔<hi>錦縣人</hi>
+　　乾隆癸夘科<lb/>
+　　金克明<hi>遼陽州人</hi>
+　　崔栢齡<hi>義州義人</hi>
+　　艾鶴齡<hi>義州人</hi>
+　　<hi>附</hi>山東衛學中式武舉人姓氏<lb/>
+　　康熙己酉科<lb/>
+　　單宗孔<hi>復州人</hi>
+<pb n="KR2k0040_WYG_054-15b"/>
+　　康熙乙夘科<lb/>
+　　趙士元<hi>復州人</hi>
+　　康熙戊午科<lb/>
+　　鮑士標<hi>復州人</hi>
+　　康熙丁夘科<lb/>
+　　李　褒<hi>寜海縣人</hi>
+　　康熙甲午科<lb/>
+　　趙文烒<hi>復州人</hi>
+<pb n="KR2k0040_WYG_054-16a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2k0040_WYG_054-16b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+欽定盛京通志卷五十<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

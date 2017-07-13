@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4d0309_SBCK_007-1a"/>
+白石道人詩集目錄<lb/>
+　　卷上<lb/>
+　　　五言古詩<lb/>
+　　　　　以長歌意無極好爲老夫聽爲韵奉别<lb/>
+　　　　　　沔鄂親友<lb/>
+　　　　赤松圖<lb/>
+　　　　虞美人草<lb/>
+　　　　華藏寺雲海亭望具區<lb/>
+　　　　　夏日寄朴翁朴翁時在靈隱<lb/>
+　　　　春日書懷四首<lb/>
+　　　　箜篌引<lb/>
+<pb n="KR4d0309_SBCK_007-1b"/>
+　　　　　待千巖<lb/>
+　　　　　古樂府<lb/>
+　　　　　雪中訪石湖<hi>范成大和詩附</hi>
+　　　　　賦千巖曲水<lb/>
+　　　　　李陵臺<lb/>
+　　　　　呈徐通仲兼簡仲錫通仲與誠齋爲鄉<lb/>
+　　　　　　人近來赴調而誠齋去國又通仲久<lb/>
+　　　　　　與千巖有苕霅之約而未至余挽通<lb/>
+　　　　　　仲欲與同歸千巖故末章及之<lb/>
+　　　　　和轉庵丹桂韵<lb/>
+　　　　　昔遊詩<hi>潘檉韓淲書後詩附</hi>
+<pb n="KR4d0309_SBCK_007-2a"/>
+　　　七言古詩<lb/>
+　　　　送王孟玉歸山陰<lb/>
+　　　　烏夜啼<lb/>
+　　　　余居苕溪上與白石洞天爲鄰潘徳久<lb/>
+　　　　　字予曰白石道人且以詩見卑其辤<lb/>
+　　　　　曰人間官爵似摴蒱采到枯松亦大<lb/>
+　　　　　夫白石道人新拜號斷無繳駁任稱<lb/>
+　　　　　呼予以長句報貺<lb/>
+　　　　丁巳七月望湖上書事<lb/>
+　　　　送陳敬甫<lb/>
+　　　　生雲軒<lb/>
+<pb n="KR4d0309_SBCK_007-2b"/>
+　　　　送項平甫倅池陽<lb/>
+　　　　書乞米帖後<lb/>
+　　　　契丹歌<lb/>
+　　　　禽言如曰哥哥<lb/>
+　　　　次韵誠齋送僕往見石湖長句<hi>楊萬里</hi>
+<hi>原作附</hi>
+　　卷下<lb/>
+　　　五言律詩<lb/>
+　　　　題華亭錢參園池<lb/>
+　　　　同朴翁登卧龍山<lb/>
+　　　　坐上和約齋<lb/>
+<pb n="KR4d0309_SBCK_007-3a"/>
+　　　　　出北闗<lb/>
+　　　　　答沈器之二首<lb/>
+　　　　　悼石湖三首<lb/>
+　　　　七言律詩<lb/>
+　　　　　送朝天續集歸誠齋時在金陵<lb/>
+　　　　　寄上張參政<lb/>
+　　　　　京口留别張思順<lb/>
+　　　　　次朴翁遊蘭亭韵<lb/>
+　　　　　次韵胡仲方因楊伯子見寄<lb/>
+　　　　　賀張肖翁參政<lb/>
+　　　　　陳君玉以小集見歸用余還誠齋朝天<lb/>
+<pb n="KR4d0309_SBCK_007-3b"/>
+　　　　　　續集韵作七字夔報貺<lb/>
+　　　　　寄田郎<lb/>
+　　　　　送王德和提舉淮東<lb/>
+　　　　　寄時甫<lb/>
+　　　　　送李萬頃<lb/>
+　　　　　次韵千巖雜謠<lb/>
+　　　　　寄上鄭郎中<lb/>
+　　　　　送左眞州還長沙<lb/>
+　　　　　乍涼寄朴翁<lb/>
+　　　　　張平甫哀挽<lb/>
+　　　　五言絶句<lb/>
+<pb n="KR4d0309_SBCK_007-4a"/>
+　　　　　同潘德久作明妃詩<lb/>
+　　　　　東堂聮句<lb/>
+　　　　　與和甫時甫分題畫卷䕫得剡溪圖<lb/>
+　　　　六言絶句<lb/>
+　　　　　金神夜獵圖二首<lb/>
+　　　　　次韵鴛鴦梅二首<lb/>
+　　　　　馬上值牧兒<lb/>
+　　　　七言絶句<lb/>
+　　　　　過湘陰寄千巖<lb/>
+　　　　　雁圖<lb/>
+　　　　　除夜自石湖歸苕溪<lb/>
+<pb n="KR4d0309_SBCK_007-4b"/>
+　　　　　臨安旅邸答蘇虞叟<lb/>
+　　　　　姑蘇懷古<lb/>
+　　　　　次韵德久<lb/>
+　　　　　次石湖書扇韵<lb/>
+　　　　　竹友爲徐南卿作<lb/>
+　　　　　壽朴翁<lb/>
+　　　　　湖上寓居雜咏<lb/>
+　　　　　平甫見招不欲往<lb/>
+　　　　　三高祠<lb/>
+　　　　　過桐廬<lb/>
+　　　　　登烏石寺觀張魏公劉安成岳武穆留<lb/>
+<pb n="KR4d0309_SBCK_007-5a"/>
+　　　　　　題劉云侍兒意眞奉命題記<lb/>
+　　　　　過垂虹<lb/>
+　　　　　訪費山人<lb/>
+　　　　　牛渚<lb/>
+　　　　　武康丞宅同朴翁詠牽牛<lb/>
+　　　　　朴公悼牽牛甚竒余亦作<lb/>
+　　　　　過德清<lb/>
+　　　　　項里<lb/>
+　　　　　雪中六解<lb/>
+　　　　　越中士女春遊<lb/>
+　　　　　送范仲訥往合肥三首<lb/>
+<pb n="KR4d0309_SBCK_007-5b"/>
+　　　　　下孤城<lb/>
+　　　　　平甫放三十六鷗於呉松余不及與盟<lb/>
+　　　　　蕭山<lb/>
+　　　　　戊午春帖子<lb/>
+　　　　　偶題<lb/>
+　　　　　陳日華侍兒讀書<lb/>
+　　　　　女郎山<lb/>
+　　　　　釣雪亭<lb/>
+　　　　　緑蕚梅<lb/>
+　　　　　次韵武伯<lb/>
+　　　　　觀燈口號十首<lb/>
+<pb n="KR4d0309_SBCK_007-6a"/>
+　　　　陪張平甫遊禹廟<lb/>
+　　　　寄俞子二首<lb/>
+　　　集外詩<lb/>
+　　　　燈詞<lb/>
+　　　　春詞<lb/>
+　　　　同朴翁過淨林廣福院<lb/>
+　　　　嘉泰壬戌上元日訪全老於淨林廣福<lb/>
+　　　　　院觀沈傅師碑隆茂宗畫贈詩<lb/>
+　　　　龍井<lb/>
+　　　　自題畫像<lb/>
+　　　　句<lb/>
+<pb n="KR4d0309_SBCK_007-6b"/>
+　　　　附錄諸賢酬贈詩<lb/>
+　　　　　進退格寄張功甫姜堯章　楊萬里<lb/>
+　　　　　題堯章新成草堂　周文璞<lb/>
+　　　　　姜堯章金塗佛塔歌　又<lb/>
+　　　　　弔堯章　又<lb/>
+　　　　　和堯章九日送菊二首　王　炎<lb/>
+　　　　　題堯章舊遊詩卷　又<lb/>
+　　　　　臘中得雪快晴成古風呈堯章銛老<lb/>
+　　　　　　　　　　　　　　　　　　又<lb/>
+　　　　　清明日訪白石不值　葛天民<lb/>
+　　　　　重訪白石　又<lb/>
+<pb n="KR4d0309_SBCK_007-7a"/>
+　　　　　六月一日與堯章泛湖　又<lb/>
+　　　　附錄𥙷遺詩詞<lb/>
+　　　　　次姜堯章贈詩卷中韻五首<lb/>
+　　　　　　　　　　　　　　　　　　陳　造<lb/>
+　　　　　次堯章餞南卿韻二首　又<lb/>
+　　　　　三部樂　呉文英<lb/>
+　　　　　三姝媚　又<lb/>
+　　　　　解連環　又<lb/>
+　　　　　拜星月慢　又<lb/>
+　　　　　齊天樂　又<lb/>
+　　　　　惜紅衣　又<lb/>
+<pb n="KR4d0309_SBCK_007-7b"/>
+　　　　暗香疎影　吳　潜<lb/>
+白石道人詩集目錄<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

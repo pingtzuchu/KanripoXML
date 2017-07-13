@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>春秋大事表卷二十七</head> <lb/>
+    <p>
+<pb n="1a"/>
+欽定四庫全書<lb/>
+　春秋大事表卷二十七<lb/>
+　　　　　　　　　　　國子監司業顧棟高撰<lb/>
+　　宋楚争盟表<lb/>
+　孟子曰以力<graphic n="KR1421" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1421.png" mimeType="image/png"/>仁者伯伯必有大國説者謂宋襄之執<lb/>
+　于盂傷于泓由其國小力絀使然其説得之矣而不<lb/>
+　盡然也以宋襄之國而茍以齊桓之道用之則亦可<lb/>
+　以不至于敗以齊桓之大而茍以宋襄之術馭之則<lb/>
+<pb n="1b"/>
+　傷威損重其去楚靈也不遠蘇子有言人有十夫之<lb/>
+　力茍終日狂呼跳浪則三尺童子亦可制其後我觀<lb/>
+　齊桓之伯葢終其身未嘗用戰争之力也存三亡國<lb/>
+　而未嘗加兵于狄合八國之師整兵召陵成盟而退<lb/>
+　其于淮夷山戎止以先聲駈之務在保安弱小使各<lb/>
+　安宇下而已而又能克己以下小國遇魯則身至魯<lb/>
+　地遇宋則序先宋人其興師嘗更迭用之令各就近<lb/>
+　為侵伐而不役之于遠故東征西討而民力不疲數<lb/>
+<pb n="2a"/>
+　動與國而諸侯不怨而宋則反是方齊桓之卒也汲<lb/>
+　汲乎欲代其任而首先與齊戰幸而一勝則翹然自<lb/>
+　喜以為天下莫與敵于是一㑹虐二國之君五年之<lb/>
+　中無嵗不興師伐曹伐鄭馴至排不測之強楚軍敗<lb/>
+　國蹙旋以身斃嗚呼其輕用民力若是雖使齊晉之<lb/>
+　大其能有濟哉夫以晉文之兵力猶兢兢示禮示信<lb/>
+　示義逮合齊秦兩大國而後敢與楚戰宋襄以孤軍<lb/>
+　單進又不乗險擇利雖以晉文處此亦必敗而況小<lb/>
+<pb n="2b"/>
+　國乎後來惟楚靈以咆哮之質適當晉之不振威脅<lb/>
+　小國北方之諸侯俯首帖耳恐後然未㡬而外怨内<lb/>
+　叛棄疾一呼反者四起適趣其申亥氏之變此所謂<lb/>
+　有十夫之力而終日狂呼跳浪以至于斃者也如宋<lb/>
+　襄者則以尫弱之夫而舉鼎絶臏而死豈不可哀也<lb/>
+　哉輯春秋宋楚争盟表第二十七<lb/>
+<pb n="3a"/>
+</p>
+<p>
+<pb n="4a"/>
+</p>
+<p>
+<pb n="5a"/>
+</p>
+<p>
+<pb n="6a"/>
+</p>
+<p>
+<pb n="7a"/>
+</p>
+<p>
+<pb n="8a"/>
+</p>
+<p>
+<pb n="9a"/>
+</p>
+<p>
+<pb n="10a"/>
+</p>
+<p>
+<pb n="11a"/>
+　<lb/>
+春秋於齊晉外尤加意於宋論<lb/>
+公羊屢發𫝊為王者之後記異先儒深闢之以為杞亦<lb/>
+王者之後何以不記不知公羊之説未可厚非也杞棄<lb/>
+其故都而自即於東夷無闗於天下之故而宋居天下<lb/>
+要樞晉楚之所視以為強弱故春秋恒重之亦初不因<lb/>
+其為王者之後也考春秋一書書雨螽于宋隕石于宋<lb/>
+五六鷁退飛過宋都以及宋大水宋災他國之災異未<lb/>
+<pb n="11b"/>
+有如此其詳悉者也又如㑹未有書其所為者而㑹于<lb/>
+稷則云成宋亂㑹澶淵則曰宋災故是聖人特筆志貶<lb/>
+盟亦未有書其所為者盟于薄則曰釋宋公是聖人特<lb/>
+筆志襃晉楚争宋鄭而鄭及楚平春秋不志至宣十五<lb/>
+年宋人及楚人平大書特書葢宋為中國門户常掘強<lb/>
+不肯即楚以為東諸侯之衞至宋即楚而天下之事去<lb/>
+矣故晉文晉悼之興首有事于救宋先軫曰取威定伯<lb/>
+於此乎在韓獻子曰成伯安疆自此始宋之闗於天下<lb/>
+<pb n="12a"/>
+利害非細故也楚頵之猾夏也於僖二十六年圍宋楚<lb/>
+莊之争伯也於宣十四年又圍宋至向戌為弭兵之策<lb/>
+合天下諸侯盟于宋而伯統絶而蠻夷横矣謂春秋全<lb/>
+無意於宋者豈識春秋之㫖哉<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="12b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　春秋大事表卷二十七<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

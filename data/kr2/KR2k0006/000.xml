@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>輿地廣記</head>
+    <p>
+<pb n="KR2k0006_WYG_000-1a"/>
+欽定四庫全書　　　　　史部十一<lb/>
+　輿地廣記　　　　　　　地理類二<hi>總志之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案輿地廣記三十八卷宋歐陽忞撰<lb/>
+　　　　晁公武讀書志謂實無其人乃著書者所假<lb/>
+　　　　託陳振孫書録解題則以為其書成於政和<lb/>
+　　　　中忞歐陽修從孫以行名皆連心字為據按<lb/>
+　　　　此書非觸時忌何必隠名疑振孫之説為是然<lb/>
+<pb n="KR2k0006_WYG_000-1b"/>
+　　　　修廬陵人而此本有忞自序乃自稱廣陵豈<lb/>
+　　　　廣廬字形相近傳寫致訛歟其書前四卷先<lb/>
+　　　　叙厯代疆域提其綱要五卷以後乃列宋郡<lb/>
+　　　　縣名體例特為清析其前代州邑宋不能有<lb/>
+　　　　如燕雲十六州之類者亦附各道之末名之<lb/>
+　　　　曰化外州亦足資考證雖其時土宇狹隘不<lb/>
+　　　　足括輿地之全而端委詳明較易尋覽亦地<lb/>
+　　　　理家之佳本也乾隆四十六年十二月恭校<lb/>
+<pb n="KR2k0006_WYG_000-2a"/>
+　　　　上<lb/>
+　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官　<hi>臣</hi>陸　費　墀<lb/>
+<pb n="KR2k0006_WYG_000-3a"/>
+輿地廣記自序<lb/>
+古者風俗醇厚士大夫安於所習而無外慕不足之心<lb/>
+故其藝必専兊之戈和之弓僚之於圎秋之於奕皆以<lb/>
+此終其身而名後世而人亦未有能加之者及至後世<lb/>
+日益奢靡未始不欲以其一身擅天下之能事而終無<lb/>
+所至嗚呼此後之君子所以有媿於古歟地理之書雖<lb/>
+非有深逺難見之事然自厯世以来更張改作先王之<lb/>
+制無一存者自非専門名家而從事於此者其孰能知<lb/>
+<pb n="KR2k0006_WYG_000-3b"/>
+之予不佞自少讀書私甞留意於此甞自堯舜以来至<lb/>
+於今為書凡三十八篇命之曰輿地廣記凡自昔史官<lb/>
+之作與夫山經地誌旁見雜出莫不入於其中庶㡬可<lb/>
+以成一家之言備職方之考而非口傳耳受甞試之說<lb/>
+者也傳曰執璿璣以觀大運則天地之動未足怪也據<lb/>
+㑹要以觀方来則六合輻凑未足多也統之有宗㑹之<lb/>
+有源則繁而不能亂衆而不能惑矣地理之書紛雜殽<lb/>
+亂卒然視之漫不可省雖深識博聞之君子亦且以為<lb/>
+<pb n="KR2k0006_WYG_000-4a"/>
+病而又安知是非之所在其所以處之將必有道矣夫<lb/>
+以今之州縣而求於漢則為郡以漢之郡縣而求於三<lb/>
+代則為州三代之九州散而為漢之六十餘郡漢之六<lb/>
+十餘郡分而為今之三百餘州雖其間或離或合不可<lb/>
+討究而吾胸中盖已了然矣譬如三十輻之車制之以<lb/>
+轂二篇之䇿統之以乾坤豈不約而易操乎是以願廣<lb/>
+其書於世必有能辨之者世之君子其試以是觀之政<lb/>
+和<hi>闕</hi>　年三月日廣陵歐陽忞序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

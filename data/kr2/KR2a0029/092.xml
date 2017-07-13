@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2a0029_WYG_092-1a"/>
+　舊五代史巻四十五考證<lb/>
+唐閔帝紀閔帝諱從厚小字菩薩奴明宗第三子也<lb/>
+　案歐陽史作明宗第五子呉縝常辨其誤今攷五代<lb/>
+　會要亦作第三子與是書同<lb/>
+十二月癸夘朔　案五代春秋作癸亥朔蓋𫝊冩之訛<lb/>
+　歐陽史通鑑俱從是書作癸夘<lb/>
+節度使符彦超為部曲王希全所害　案彦超被害通<lb/>
+　鑑從是書作閏月五代春秋繫于正月殊誤<lb/>
+<pb n="KR2a0029_WYG_092-1b"/>
+丁酉王思同加同平章事充西面行營都部署以前邠<lb/>
+　州節度使藥彦稠為副部署　案歐陽史辛夘西京<lb/>
+　留守王思同為西面行營都部署静難軍節度使藥<lb/>
+　彦稠為副是書作丁酉與歐陽史異据通鑑則思同<lb/>
+　以辛夘充都部署丁酉加同平章也蓋採薛歐二史<lb/>
+　而兼用之<lb/>
+殿直楚匡祚上言　楚匡祚原本作楚祚今從通鑑增<lb/>
+　匡字<lb/>
+<pb n="KR2a0029_WYG_092-2a"/>
+陜州奏潞王至潼關害西面都部署王思同　歐陽史<lb/>
+　作思同奔歸于京師死之與是書異<lb/>
+是夜帝以百騎出𤣥武門　案契丹國志愍帝領五十<lb/>
+　騎自隨出奔衛州宋史李洪信𫝊又作少帝東奔捧<lb/>
+　聖軍數百騎從行與是書異据下文王𢎞贄曰今以<lb/>
+　五十騎奔竄則作五十騎者是也<lb/>
+九日巒至帝遇酖而崩　案契丹國志云王巒至衛州<lb/>
+　進酖于愍帝愍帝不飲巒縊殺之與是書異<lb/>
+<pb n="KR2a0029_WYG_092-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　舊五代史巻四十五攷證<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

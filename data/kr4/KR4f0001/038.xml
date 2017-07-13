@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4f0001_WYG_038-1a"/>
+　欽定四庫全書<lb/>
+聖祖仁皇帝御製文集巻十七目録<lb/>
+　　表<lb/>
+　　　　上<lb/>
+　太皇太后進衣表<lb/>
+　　　　上<lb/>
+　太皇太后萬壽表<lb/>
+　　　　上<lb/>
+<pb n="KR4f0001_WYG_038-1b"/>
+　太皇太后萬壽表<lb/>
+　　論<lb/>
+　　　　愼幾微論<lb/>
+　　　　無逸以致壽論<lb/>
+　　　　君臣一體論<lb/>
+　　　　寛嚴論<lb/>
+　　　　愼刑論<lb/>
+　　　　學校論<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

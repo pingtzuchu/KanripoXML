@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="1a"/>
+螟食葉<graphic n="KR2833" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2833.png" mimeType="image/png"/>食節賊食根蟊<hi>分别蟲啖食禾所在之名耳皆見詩</hi>有足謂之蟲<lb/>
+無足謂之豸<lb/>
+釋魚第十六<lb/>
+鯉<hi>今赤鯉魚</hi>鱣<hi>鱣大魚似鱏而短鼻口在頷下體有邪行甲/無鱗肉黃大者長二三丈今江東呼爲黃魚</hi>鰋<hi>今鰋額/白魚</hi>鮎<hi>別名鯷江東通呼鮎爲鮧</hi>鱧<hi>鮦/也</hi>鯇<hi>今鱓魚似/鱒而大</hi>鯊鮀<hi>今吹沙小魚體/貟而有點文</hi>鮂黒鰦<hi>即白儵江東呼爲鮂</hi>鰼<lb/>
+鰌<hi>今泥鰌</hi>鰹大鮦小者鮵<hi>今青州呼/小鱺爲鮵</hi>魾大鱯小者鮡<hi>鱯似鮎而大白色</hi>鰝<lb/>
+大鰕<hi>鰕大者岀海中長二三丈鬚長數尺今青州呼鰕魚爲鰝音酆鄗</hi>鯤魚子<hi>凢魚之子/緫名鯤</hi>鱀是鱁<hi>鱀䱜屬也體似鱏尾如䱡魚大腹喙小銳而長齒羅生上下相銜鼻在額上能作聲少肉多膏胎生健啖細魚大者長丈餘江中多有之</hi>鱦小魚<hi>家語曰其小者鱦魚也今江東亦呼魚子未成者爲鱦音繩</hi>鮥鮛鮪<hi>鮪鱣屬也大者名王鮪小者名鮛鮪今冝都郡自京門以上江中通出鱏鱣之魚有一魚狀似鱣而小建平人呼鮥子即此魚也音洛</hi>鯦當魱<hi>海魚也似鯿而大鱗肥美多鯁今江東呼其最大長三尺者爲當魱<pb n="1b"/>音胡</hi>鮤鱴刀<hi>今之鮆魚也/亦呼爲魛魚</hi>鱊鮬鱖鯞<hi>小魚也似鮒子而黑俗呼爲魚婢江東呼爲妾魚</hi>魚有力<lb/>
+者鰴<hi>強大多力</hi>魵鰕<hi>出穢邪頭國/見吕氏字林</hi>鮅鱒<hi>似鱓子/赤眼</hi>魴魾<hi>江東呼魴魚爲鯿一名魾音毗</hi>鯬<lb/>
+鯠<hi>未詳</hi>蜎蠉<hi>井中小蛣蟩赤蟲/一名孑孑廣雅云</hi>蛭蟣<hi>今江東呼水中蛭/蟲入人肉者爲蟣</hi>科斗活東<hi>蝦蟆子</hi>魁陸<hi>本草云魁狀如海蛤貟而厚外有理縱横即今之蚶也</hi>蜪蚅<hi>未/詳</hi>鼁　蟾諸<hi>似蝦蟆居陸地淮南謂之去蚊</hi>在水者黽<hi>耿黽也似青蛙/大腹一名土鴨</hi>蜌螷<hi>今江東呼蚌長/而狹者爲螷</hi>蚌含漿<hi>蚌即蜃也</hi>
+鼈三足能龜三足賁<hi>山海經曰從山多三足鼈大若山多三足龜今吴興郡陽羡縣君山上有池池中出三足鼈又有六眼龜</hi>蚹蠃螔蝓<hi>即蝸/牛也</hi>蠃小者蜬<hi>螺大者如斗出日南漲海中可以爲酒杯</hi>螖蠌小者<lb/>
+蟧<hi>螺屬見埤蒼或曰即彭螖也似蟹而小音滑</hi>蜃小者珧<hi>珧王珧/即小蚌</hi>龜俯者靈<hi>行頭低</hi>仰<lb/>
+者謝<hi>行頭仰</hi>前弇諸果<hi>甲前/長</hi>後弇諸獵<hi>甲後長</hi>左倪不類<hi>行頭左/<graphic n="KR0763" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0763.png" mimeType="image/png"/>今江東所謂左食者以甲卜審</hi>右倪不若<hi>行頭右<graphic n="KR0763" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0763.png" mimeType="image/png"/>爲右/食甲形皆爾</hi>貝居陸贆在水者蜬<hi>水陸<pb n="2a"/>異名也貝中肉如科斗但有頭尾耳</hi>大者魧<hi>書大傳曰大貝如車渠/車渠謂車<graphic n="KR2495" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2495.png" mimeType="image/png"/>即魧屬</hi>小者鰿<hi>今細貝亦有紫色者出日南</hi>
+玄貝貽貝<hi>黒色貝也</hi>餘貾黃白文<hi>以黃爲質/白爲文點</hi>餘泉白黃文<hi>以白爲質黃爲文點今之紫貝以紫爲質黒爲文點</hi>蚆博而頯<hi>頯者中央/廣兩頭銳</hi>蜠大而險<hi>險者謂汚薄</hi>
+                    <graphic n="KR1853" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1853.png" mimeType="image/png"/>小而<lb/>
+橢<hi>即上小貝橢謂狹而長此皆說貝之形容</hi>蠑螈蜥蜴蜥蜴蝘蜓蝘蜓守宫也<hi>轉相解博異語别四名也</hi>镻蝁<hi>蝮屬大眼最有毒今/淮南人呼蝁子音惡</hi>螣螣蛇<hi>龍類也能興雲霧而遊其中淮南云蟒蛇</hi>蟒<lb/>
+王蛇<hi>蟒蛇最大者故曰王蛇</hi>蝮虺博三寸首大如擘<hi>身廣三寸頭大如人擘指此自一種蛇名爲蝮虺</hi>鯢大者謂之鰕<hi>今鯢魚似鮎四脚前似獮猴後似狗聲如小兒啼大者長八九尺</hi>魚枕謂之丁<lb/>
+<hi>枕在魚頭骨中形似篆書丁字可作印</hi>魚腸謂之乙魚尾謂之丙<hi>此皆似篆書字因以名焉禮記曰魚去乙然則魚之骨體盡似丙丁之屬因形名之</hi>一曰神龜<hi>龜之最/神明</hi>二曰靈龜<hi>涪陵郡出大龜甲可以卜縁中文似瑇瑁俗呼爲靈龜即今觜<graphic n="KR1010" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1010.png" mimeType="image/png"/>龜一名靈<graphic n="KR1010" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1010.png" mimeType="image/png"/>能鳴</hi>三曰攝龜<hi>小龜也腹甲曲折解能自張閉好食蛇江東呼爲陵龜</hi>四曰<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

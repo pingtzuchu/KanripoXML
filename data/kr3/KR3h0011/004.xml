@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3h0011_WYG_004-1a"/>
+法帖音釋刋誤跋<lb/>
+徳夀皇帝嘗論近世絳帖已少錢希白所臨潭帖為勝<lb/>
+臨江帖失真逺矣又淳化帖大觀帖當時以晉唐善本<lb/>
+及江南所收帖擇善者刋之風骨意象皆存今觀故㕘<lb/>
+知事陳與義為侍從時奉詔定法帖十卷釋文一冊其<lb/>
+間稍辨劉次莊之誤殆臨江或潭帖歟陳公字畫清簡<lb/>
+類其詩文紹興初獨步中朝故特承善誘知人堯哲兹<lb/>
+可覿其緒餘淳熙七年正月十四日試吏部尚書兼翰<lb/>
+<pb n="KR3h0011_WYG_004-1b"/>
+林學士承㫖周必大為起居舎人木待問題<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

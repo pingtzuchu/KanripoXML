@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>霞外詩集</head>
+    <p>
+<pb n="KR4d0475_WYG_000-1a"/>
+欽定四庫全書　　　　　集部五<lb/>
+　霞外詩集　　　　　　　别集類四<hi>元</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹按霞外詩集十卷元道士馬臻撰臻<lb/>
+　　　　字志道號虚中錢塘人仇逺序是集稱其隠<lb/>
+　　　　約西湖之濵士大夫慕與之交不過習清虚<lb/>
+　　　　談淡泊無一言及勢力聲利龔開序則稱大<lb/>
+　　　　徳辛丑嗣天師張真人如燕主行内醮𤣥教<lb/>
+<pb n="KR4d0475_WYG_000-1b"/>
+　　　　名流並翼然景從王子繇馬志道在焉其人<lb/>
+　　　　盖在通介之間者也集中鋪張富貴數篇如<lb/>
+　　　　嗣天師吳真人詩之類頗乖山林之格然所<lb/>
+　　　　作皆神骨秀騫風力遒上琅琅有金石之音<lb/>
+　　　　雖不能具金翅擘海香象渡河之力而亦不<lb/>
+　　　　類酸寒細碎蟲吟草間觀其述懐一詩殆宋<lb/>
+　　　　末遺老寄託黄冠而其豪逸俊邁之氣無所<lb/>
+　　　　不可政不以枯寂恬淡為髙耳此本為毛晉<lb/>
+<pb n="KR4d0475_WYG_000-2a"/>
+　　　　所刻末有晉跋稱伯雨之後復有虚中今考<lb/>
+　　　　諸家之序皆作於仁宗大徳初年則臻尚在<lb/>
+　　　　張雨前晉偶失檢也乾隆四十二年三月恭<lb/>
+　　　　校上<lb/>
+　　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+<pb n="KR4d0475_WYG_000-3a"/>
+霞外詩集原序<lb/>
+錢塘有隠君子曰馬虚中其資也粹其學也正其言也<lb/>
+文其居家篤於孝弟清勤恬雅動以古人自飭暨出家<lb/>
+著道士服隠約西湖之濵士大夫慕與之交不過習清<lb/>
+虚談淡泊無一言及勢力聲利而世之能寒熱人者爾<lb/>
+爾我我進退語嘿之間一言不少屈葢重内而簡外信<lb/>
+己而不求人知而人之知者誠心説服焉噫君子哉予<lb/>
+與虚中游有年平昔已敬其人一日虚中攜詩卷相示<lb/>
+<pb n="KR4d0475_WYG_000-3b"/>
+大抵以平夷恬澹為體清新圓美為用陶衷于空合道<lb/>
+于趣渾然天成不止於烟雲花草魚鳥而已鄉有雪巘<lb/>
+褚先生者博學卓行之士也執古刀尺裁量晚後虚中<lb/>
+從之學盡得其徼妙况汗漫萬里逺覽崧岱之雄抜江<lb/>
+河濟淮之奔放近挹兩峰三潭六橋之佳麗秀整交廣<lb/>
+視濶胸次宏豁宜其筆力不凡如此昔人謂不行萬里<lb/>
+不可讀杜詩而䕫州以後殊更老成予於虚中之歸不<lb/>
+但放一頭且畏之矣西湖物物是詩料秋來日日是詩<lb/>
+<pb n="KR4d0475_WYG_000-4a"/>
+思尚當與子吟嘯于乾坤萬象之表大徳六年九日里<lb/>
+人仇逺序<lb/>
+大徳辛丑嗣天師張眞人如燕主行内醮𤣥教名流並<lb/>
+翼然景從王子繇馬志道在焉明年來歸志道出往來<lb/>
+吟卷及手畫桑乾龍門二圖僕幸得一見隨喜居頃之<lb/>
+遂以所作霞外諸詩俾為之序僕既嘆羡有加因之又<lb/>
+念雪巘翁極父師之教至此而玉其成且行卷所存多<lb/>
+禮樂光華之典據後之君子録名山故事尚於兹有攷<lb/>
+<pb n="KR4d0475_WYG_000-4b"/>
+二者皆當表著而復計忖自車書混一南北通轅干名<lb/>
+逐利者去來幾何人嘗試使之述周漢之遺跡大川喬<lb/>
+岳之勢狀與城郭人民之今若古或者漫不知省必待<lb/>
+詩人采掇歸之筆下如好音嫭色動人觀聽一何異哉<lb/>
+然後知先王之澤先民情性不逐有形而弊而事事物<lb/>
+物見之聲文氣韻萬古可一息辨也合是為序要非窽<lb/>
+言抑孝友徳履詩之根本也志道寧親於家庭甘旨如<lb/>
+意領弟於精廬意愛無斁交往朋從乆敬弗替而於僕<lb/>
+<pb n="KR4d0475_WYG_000-5a"/>
+也又以翰墨遊戲相與無間其何説之詞為詩若干首<lb/>
+古今體製具在而馴雅如其人覽者自見淮隂龔開聖<lb/>
+予序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>禮記析疑卷三十九</head> <lb/>
+    <p>
+<pb n="1a"/>
+欽定四庫全書<lb/>
+　禮記析疑卷三十九<lb/>
+　　　　　　　　　翰林院侍講銜方苞撰<lb/>
+　　深衣<lb/>
+短毋見膚<lb/>
+　豈袂之長短反詘之及肘即所謂短無見膚與<lb/>
+續衽鉤邊要縫半下<lb/>
+　續衽謂衣衽與裳相接續也朝祭之衣長而覆裳深<lb/>
+<pb n="1b"/>
+　衣取其弗費故裳與衣續知然者要縫半下以衡縫<lb/>
+　言之也惟衣裳相續乃有衡縫<lb/>
+負繩抱方者以直其政方其義也<lb/>
+　負繩以示直躬乃人道之正也抱方示義以方外抱<lb/>
+　義而處矩不可踰也<lb/>
+可以為文可以為武可以擯相可以治軍旅<lb/>
+　擯相禮服治軍旅戎服無著深衣以涖之之禮深衣<lb/>
+　盖著於戎服禮服之内者故無施而不可也古人夕<lb/>
+<pb n="2a"/>
+　深衣盖無外事不與衆接乃弛其上服<lb/>
+純袂緣純邊<lb/>
+　純即緣也緣字疑衍曰純邊則包裳下齊吕氏列為<lb/>
+　三事恐未安<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　禮記析疑卷三十九<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

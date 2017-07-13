@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>提要<lb/>
+                </head>
+    <p>
+<pb n="KR3l0065_WYG_000-1a"/>
+欽定四庫全書　　　　　子部十二<lb/>
+　提要<lb/>
+　　張氏可書一卷　　　　小說家𩔖一<hi>雜事之屬</hi>
+　　　　<hi>臣</hi>等謹案張氏可書一卷宋史藝文志陳振<lb/>
+　　　　孫書錄解題晁公武讀書志皆不著錄文淵<lb/>
+　　　　閣書目載有一冊亦不詳撰人名氏惟愛日<lb/>
+　　　　齋叢抄引其中司馬光文彦博論僧換道流<lb/>
+　　　　一事稱為張知甫可書知甫不知何許人今<lb/>
+<pb n="KR3l0065_WYG_000-1b"/>
+　　　　考書中所紀有僕頃在京師因幹出南薫門<lb/>
+　　　　事又有見海賈鬻龍涎香扵明節皇后閣事<lb/>
+　　　　是在宣和之初嘗官汴京中間復有紹興丁<lb/>
+　　　　巳戊午紀年及劉豫僣號中原事則入南渡<lb/>
+　　　　後二十餘年矣盖其人生扵北宋末年猶及<lb/>
+　　　　見汴梁全盛之日故都遺事目擊頗詳迨其<lb/>
+　　　　晩嵗追述為書不無滄桑今昔之感故扵徽<lb/>
+　　　　宗時朝廷故實紀錄尤多往往意存鑑戒其<lb/>
+<pb n="KR3l0065_WYG_000-2a"/>
+　　　　餘瑣聞佚事為他説家所不載者亦多有益<lb/>
+　　　　談資雖詼諧神怪之説雜厠其間不免失扵<lb/>
+　　　　冗雜而按其本㫖實亦孟元老東京夢華錄<lb/>
+　　　　之流未嘗不可存備攷覈也其書元目已佚<lb/>
+　　　　今據永樂大典收各韻内者採掇裒輯共得<lb/>
+　　　　五十條謹編為一卷以存其槩云乾隆四十<lb/>
+　　　　六年九月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+<pb n="KR3l0065_WYG_000-2b"/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

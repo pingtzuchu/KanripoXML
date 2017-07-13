@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>東坡志林</head>
+    <p>
+<pb n="KR3j0094_WYG_000-1a"/>
+欽定四庫全書　　　　　　子部十<lb/>
+　東坡志林　　　　　　　　雜家類三<hi>雜説之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案東坡志林十二卷宋蘇軾撰陳振孫<lb/>
+　　　　書録解題載東坡手澤十卷注曰今俗本大<lb/>
+　　　　全集中所謂志林者也今觀所載諸條多自<lb/>
+　　　　署年月者又有署讀某書書此者又有泛稱<lb/>
+　　　　昨日今日不署何時者葢軾隨手所記本非<lb/>
+<pb n="KR3j0094_WYG_000-1b"/>
+　　　　著作亦無書名其後人裒而録之命曰手澤<lb/>
+　　　　而刋軾集者不欲以父書目之故題曰志林<lb/>
+　　　　耳中如張雎陽生猶罵賊嚼齒穿齦顔平原<lb/>
+　　　　死不忘君握拳穿掌四語據東坡外紀乃軾<lb/>
+　　　　謫儋耳時醉至姜秀才家值姜外出就其母<lb/>
+　　　　索紙所書今亦在卷中自為一條不復别贅<lb/>
+　　　　一語是亦蒐輯墨迹之一證矣此本十二卷較<lb/>
+　　　　振孫所紀多二卷葢其卷帙亦皆後人所分<lb/>
+<pb n="KR3j0094_WYG_000-2a"/>
+　　　　故多寡各隨其意也乾隆四十五年二月恭<lb/>
+　　　　校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

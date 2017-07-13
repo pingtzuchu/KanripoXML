@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2a0029_WYG_118-1a"/>
+　舊五代史巻五十八攷證<lb/>
+唐列傳十趙光逢𫝊父隠右僕射　案舊唐書作左僕<lb/>
+　射<lb/>
+僖宗朝登進士第　僖宗原本作昭宗據舊唐書光逢<lb/>
+　係乾符五年進士當作僖宗今改正<lb/>
+時有道士許巖士　許巖士原本脱士字今據新唐書<lb/>
+　及通鑑増入<lb/>
+李琪𫝊敬方子縠廣明中為晋公王鐸都統判官　案<lb/>
+<pb n="KR2a0029_WYG_118-1b"/>
+　太平廣記引李琪集序作父敬佐王鐸滑州幕考李<lb/>
+　琪祖名敬方其父不得名敬疑太平廣記𫝊冩之訛<lb/>
+戍馬四百匹　四百原本作四千今據漢書改正<lb/>
+以太子太傅致仕　案太傅歐陽史作少傅<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　舊五代史巻五十八攷證<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_435-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選卷四百三十六<lb/>
+　　鳩類<lb/>
+　　　四言古<lb/>
+　　　　魏徳謳　　　　　　　　　<hi>魏</hi>曹　植<lb/>
+　斑斑者鳩爰素其質昔翔殷郊今為魏出朱目丹趾靈<lb/>
+　姿詭類載飛載鳴彰我皇懿<lb/>
+　　　五言古<lb/>
+<pb n="KR4h0141_WYG_435-1b"/>
+　　　　白浮鳩　　　　　　　　　<hi>梁</hi>吴　均<lb/>
+　瑯琊白浮鳩紫翳飄陌頭食飲東莞野棲宿越王樓<lb/>
+　　　　春鳩　　　　　　　　　　<hi>唐</hi>元　稹<lb/>
+　春鳩與百舌音響詎同年如何一時語俱得春風憐猶<lb/>
+　知造物意當春不生蟬免教争叫噪沸渭桃花前<lb/>
+　　　　鳩隠　　　　　　　　　　<hi>明</hi>汪應軫<lb/>
+　鳴鳩拂其羽四海皆陽春秋風起鶗鴂蓬棘深蔵身時<lb/>
+　哉有顯晦微鳥靈於人孰謂鳩性拙而同鳳與麟<lb/>
+<pb n="KR4h0141_WYG_435-2a"/>
+　　七言古<hi>附長短句</hi>
+　　　青鳩詞　　　　　　　　　<hi>宋</hi>徐　照<lb/>
+勞勞復勞勞生人半行客今人行古道古道有行役相<lb/>
+逢莫等閒相離易疎隔殷勤紅杏花徹宵對芳席眀年<lb/>
+花開人東西青鳩食花舊處啼<lb/>
+　　　題畫　　　　　　　　　　<hi>明</hi>張邦竒<lb/>
+鳩性愛雨花愛晴同倚東風不同情春光二月濃於酒<lb/>
+雙鳩醉寐不復鳴雙鳩不鳴花相語無令鳩醒叫天雨<lb/>
+<pb n="KR4h0141_WYG_435-2b"/>
+　　五言絶句<lb/>
+　　　西窓晝雨　　　　　　　　<hi>元</hi>黄鎮成<lb/>
+三春驚過半霪雨灑窓西鵲腦添爐炷春鳩隔樹啼<lb/>
+　　七言絶句<lb/>
+　　　初晴遊滄浪亭　　　　　　<hi>宋</hi>蘇舜欽<lb/>
+夜雨連眀春水生嬌雲濃暖弄微晴簾虚日薄花竹静<lb/>
+時有乳鳩相對鳴<lb/>
+　　　絶句　　　　　　　　　　<hi>宋</hi>蘇　軾<lb/>
+<pb n="KR4h0141_WYG_435-3a"/>
+柴桑春晩思依依屋角鳴鳩雨欲飛昨日已收寒食火<lb/>
+吹花風起却添衣<lb/>
+　　　清眀日晩晴　　　　　　　<hi>宋</hi>沈與求<lb/>
+正好園林藉落英細風吹雨濕清眀牆陰旱渇休無賴<lb/>
+自有鳴鳩解喚晴<lb/>
+　　　曾宏父將往霅川見内相葉公以詩為别次其<lb/>
+　　　　韻以自見　　　　　　　　沈與求<lb/>
+牆根啁啾百鳥鬧最愛乳鳩來喚晴日永春閒深院落<lb/>
+<pb n="KR4h0141_WYG_435-3b"/>
+渠能便當管絃聲<lb/>
+　　　邨居秋暮　　　　　　　　<hi>宋</hi>薛季宣<lb/>
+風廽偃水縠紋平林末他山筆架横場圃未閒黄葉下<lb/>
+鵓鳩啼雨忽啼晴<lb/>
+　　　春日即事　　　　　　　　<hi>金</hi>周　昻<lb/>
+凍栁僵榆未改容狐裘貂㡌尚宜風欲尋把酒渾無處<lb/>
+春在鳴鳩谷谷中<lb/>
+　　即事　　　　　　　　　　　　周　昻<lb/>
+<pb n="KR4h0141_WYG_435-4a"/>
+楊花顛倒入簾櫳睡鴨香殘碧霧空盡日尋詩尋不得<lb/>
+鵓鴣聲在夢魂中<lb/>
+　　　雨中過山　　　　　　　　<hi>明</hi>髙　啟<lb/>
+春雲晻靄澗奔渾風雨行人過一邨不似家山深竹裏<lb/>
+乳鳩啼午未開門<lb/>
+　　　棃花錦鳩　　　　　　　　<hi>明</hi>張以寧<lb/>
+一枝新雨帶啼鳩喚起春寒枝上頭説與朝來啼太苦<lb/>
+洗粧纔了不禁愁<lb/>
+<pb n="KR4h0141_WYG_435-4b"/>
+　　　題棃花錦鳩圖　　　　　　<hi>明</hi>程本立<lb/>
+萬花深處語黄鸝花底能無挾彈兒自在雨鳩春寂寂<lb/>
+一枝晴雪立多時<lb/>
+　　　題鳴鳩拂羽圖　　　　　　<hi>明</hi>胡　儼<lb/>
+日暖風暄淚竹斑鳴鳩拂羽樹林間眼中正是春光好<lb/>
+呼雨呼晴莫等閒<lb/>
+　　　題棃花斑鳩圖　　　　　　<hi>明</hi>王　恭<lb/>
+繡頸斕斑錦翼齊梁園春樹好飛棲樂遊年少偏嫌雨<lb/>
+<pb n="KR4h0141_WYG_435-5a"/>
+莫向花間自在啼<lb/>
+　　　過相湖　　　　　　　　　<hi>明</hi>懐　悦<lb/>
+扁舟飛出相湖東花片紅穿樹底風纔聽前邨鳩喚雨<lb/>
+斜陽又在暮雲中<lb/>
+　　　斑鳩　　　　　　　　　　<hi>明</hi>錢　遜<lb/>
+闘草歸來女伴尋遊絲飛絮惱春心紫鳩聲歇爐煙冷<lb/>
+門掩棃花暮雨深<lb/>
+　　　春郊即事　　　　　　　　<hi>明</hi>宋登春<lb/>
+<pb n="KR4h0141_WYG_435-5b"/>
+春風嫋嫋夕陽西芳艸菲菲楊栁堤行盡谿山有茅屋<lb/>
+青林深處一鳩啼<lb/>
+　　　長幅蠒紙倣叔眀　　　　　<hi>明</hi>李日華<lb/>
+逺山煙重樹萋萋潮落沙寒水一谿獨坐茅亭無一事<lb/>
+晴鳩啼過雨鳩啼<lb/>
+　　　暮春入棲霞山尋張文寺　　<hi>明</hi>紀　青<lb/>
+山氣陰陰出荷鋤才分𤓰子又挑蔬倦來芍藥花前卧<lb/>
+帶雨鳴鳩過艸廬<lb/>
+<pb n="KR4h0141_WYG_435-6a"/>
+　　　　春寒　　　　　　　　　　<hi>明</hi>張宇初<lb/>
+　煙雨聲中酒夢殘蘼蕪添綠又春䦨鵓鳩喚處西風急<lb/>
+　自是楊花惹暮寒<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR4h0141_WYG_435-6b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選巻四百三十六<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

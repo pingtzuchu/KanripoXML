@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>名臣經濟録</head>
+    <p>
+<pb n="KR2f0040_WYG_000-1a"/>
+欽定四庫全書　　　　　史部六<lb/>
+　名臣經濟録　　　　　　詔令奏議類二<hi>奏議之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案名臣經濟録五十三卷明黄訓編<lb/>
+　　　　訓歙縣人嘉靖已丑進士官至副都御史是<lb/>
+　　　　書輯洪武至嘉靖九朝名臣經世之言中闕<lb/>
+　　　　建文一朝以革除諱之也分十門凡開國一<lb/>
+　　　　卷保治十卷内閣四卷吏部四卷户部五巻<lb/>
+<pb n="KR2f0040_WYG_000-1b"/>
+　　　　禮部七巻兵部十三巻刑部三巻工部五巻<lb/>
+　　　　都察院通政司大理寺共一卷每門各有子<lb/>
+　　　　目開國保治二門以時代為序吏禮兵工四<lb/>
+　　　　部各以所屬四司分四類户部分圖志田土<lb/>
+　　　　賦役給賜黄冊屯田婚姻糧運禄俸鹽法茶<lb/>
+　　　　法課程賑恤十三類刑部分律例論奏題奏<lb/>
+　　　　雜論四類以二部諸司皆以省分無専掌一<lb/>
+　　　　事者也内閣無子目百司之總無不該也都<lb/>
+<pb n="KR2f0040_WYG_000-2a"/>
+　　　　察院通政司大理寺亦無子目篇帙寡也明<lb/>
+　　　　永樂間勅黄淮等編歴代名臣奏議至元而<lb/>
+　　　　止雖門目浩繁不無冗雜而二千年訏謨碩<lb/>
+　　　　畫歴歴可徴是編所載如陶安傳劉基行狀<lb/>
+　　　　蹇義墓誌李東陽年譜諸篇兼紀言行漢府<lb/>
+　　　　趙府石亨曹吉祥之變諸篇併録時事以及<lb/>
+　　　　謝鐸焉用彼相說之類旁及雜文邱濬大學<lb/>
+　　　　衍義補之類至節取所著之書不純為奏議<lb/>
+<pb n="KR2f0040_WYG_000-2b"/>
+　　　　之體故但以經濟録為名其實奏議居十之<lb/>
+　　　　九與淮等所編時代相接頗足以資考鏡今<lb/>
+　　　　附之奏議類中其間如湖廣碑録之類間有<lb/>
+　　　　濫収或亦朱子名臣言行録取吕惠卿趙汝<lb/>
+　　　　愚名臣奏議不遺章惇秦檜之意分别觀之<lb/>
+　　　　可矣乾隆四十四年二月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

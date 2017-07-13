@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <head>跋</head>
+    <p>
+<pb n="1a"/>
+　　原任刑部侍郎<hi>臣</hi>勵宗萬謹言昔孔子刪詩以授<lb/>
+　　子夏而小序傳焉漢世詩有四家齊魯韓先立學<lb/>
+　　官平帝時毛詩始立鄭氏箋之厥後齊詩久亡魯<lb/>
+　　詩不過江東韓詩雖存無有傳者厯晉至隋毛鄭<lb/>
+　　大行唐孔頴逹奉詔作疏據全緩何允舒瑗劉軌<lb/>
+　　思劉醜劉焯劉炫等本刪繁増簡而成書趙乾壽<lb/>
+　　賈普曜等覆正之學者尊奉無敢異議迄於有宋<lb/>
+　　劉敞歐陽修王安石蘇轍始用已意有所發明然<lb/>
+<pb n="1b"/>
+　　大程子吕祖謙猶主序說獨朱子手定集註一書<lb/>
+　　於是李樗張栻戴溪嚴粲諸人雖各自名家咸宗<lb/>
+　　朱氏迨何基受業黄幹親得其傳王柏金履祥許<lb/>
+　　謙授受相承四傳無間而毛傳鄭箋其傳習之者<lb/>
+　　罕有其人矣夫毛鄭二學極其廣博其不合于經<lb/>
+　　者自不能免然去古未逺定有師承故鄭樵謂其<lb/>
+　　與尚書左傳國語儀禮孟子合者確乎可據而馬<lb/>
+　　端臨亦云雅頌之序可廢十五國風之序不可廢<lb/>
+<pb n="2a"/>
+　　也<hi>臣</hi>等奉<lb/>
+勅校刋謹採諸經史先儒論說中有可疏通證明者用<lb/>
+　　以參訂其同異而各附卷末云<hi>臣</hi>謹識<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

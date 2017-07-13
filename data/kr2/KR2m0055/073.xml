@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2m0055_WYG_073-1a"/>
+欽定四庫全書<lb/>
+大清律例卷二十九目錄<lb/>
+　刑律<lb/>
+　　罵詈<lb/>
+　　　罵人<lb/>
+　　　罵制使及本管長官<lb/>
+　　　佐職統屬罵長官<lb/>
+　　　奴婢罵家長<lb/>
+<pb n="KR2m0055_WYG_073-1b"/>
+　　　罵尊長<lb/>
+　　　罵祖父母父母<lb/>
+　　　妻妾罵夫期親尊長<lb/>
+　　　妻妾罵故夫父母<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

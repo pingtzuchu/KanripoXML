@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>朱子抄釋</head>
+    <p>
+<pb n="KR3a0092_WYG_000-1a"/>
+欽定四庫全書　　　　　子部一<lb/>
+　朱子抄釋　　　　　　　儒家類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案朱子抄釋二卷明呂柟撰是編乃<lb/>
+　　　　嘉靖丙申柟為國子監祭酒時所定宋儒之<lb/>
+　　　　中惟朱子著述最富辨論亦最多其時諸弟<lb/>
+　　　　子所述者有池録饒録饒後録建録諸刻黎<lb/>
+　　　　靖徳刋除重複分類編次尚得一百四十卷<lb/>
+<pb n="KR3a0092_WYG_000-1b"/>
+　　　　則浩博可知矣柟此夲所抄止於二卷乃較<lb/>
+　　　　張子二程子為少然朱子之學無所不通與<lb/>
+　　　　門人亦無所不講黎氏語類以二十六目舉<lb/>
+　　　　其大凡包括尚有未盡讀者茫無津涯又早<lb/>
+　　　　年晩年持論或異門人所記或以己意增損<lb/>
+　　　　之亦往往彼此不同讀者亦莫能决其去取<lb/>
+　　　　明人逓相選録幾於人有一編其大意乃在<lb/>
+　　　　於勝負相争區分門户不過借朱子為名未<lb/>
+<pb n="KR3a0092_WYG_000-2a"/>
+　　　　嘗真為明道計也柟作是編惟摘切要之詞<lb/>
+　　　　而不甚以攻擊為事於學問大㫖轉為簡明<lb/>
+　　　　然於與陸子静論意見一條注其下曰陸氏<lb/>
+　　　　終近禪則是非之辨亦未嘗不謹嚴矣乾隆<lb/>
+　　　　四十六年十月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

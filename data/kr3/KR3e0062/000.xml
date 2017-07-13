@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>金匱鈎𤣥</head>
+    <p>
+<pb n="KR3e0062_WYG_000-1a"/>
+欽定四庫全書　　　　　子部五<lb/>
+　金匱鈎𤣥　　　　　　　醫家類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案金匱鈎𤣥三卷元朱震亨撰明戴<lb/>
+　　　　原禮校補中稱戴云者原禮説也末附論六<lb/>
+　　　　篇不列於卷第中一曰火豈君相五志俱有<lb/>
+　　　　論一曰氣属陽動作火論一曰血屬隂難成<lb/>
+　　　　易虧論一曰滯下辨論一曰三焦之疾燥熱<lb/>
+<pb n="KR3e0062_WYG_000-1b"/>
+　　　　勝隂論一曰泄㵼經濕治有多方論皆不題<lb/>
+　　　　誰作觀其滯下辨論引震亨之言則亦原禮<lb/>
+　　　　所加也震亨以補隂為宗實開直補真水之<lb/>
+　　　　先其以鬱治病亦妙闡内經之㫖開諸家無<lb/>
+　　　　窮之悟雖所用黄柏知母不如後人之用六<lb/>
+　　　　味圓直達本原所製越鞠丸亦不及後人之<lb/>
+　　　　用逍遥散和平無弊然蓽路繿縷究以震亨<lb/>
+　　　　為首庸是書詞㫖簡明不愧鈎元之目原禮<lb/>
+<pb n="KR3e0062_WYG_000-2a"/>
+　　　　所補亦多精確明史方技傳載此書於原禮<lb/>
+　　　　傳中卷數與今本同稱其附以己意人謂不<lb/>
+　　　　愧其師其為醫家善本可知矣原禮洪武中<lb/>
+　　　　御醫本名思恭以字行浦江人朱國禎湧幢<lb/>
+　　　　小品曰戴元禮國朝之聖醫也太祖稱為仁<lb/>
+　　　　義人太孫即位拜院使云云元禮即原禮葢<lb/>
+　　　　國禎得諸傳聞故音同字異耳乾隆四十六<lb/>
+　　　　年九月恭校上<lb/>
+<pb n="KR3e0062_WYG_000-2b"/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

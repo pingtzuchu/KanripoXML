@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>儒林宗派卷十六</head> <lb/>
+    <p>
+<pb n="KR2g0049_WYG_016-1a"/>
+欽定四庫全書<lb/>
+　儒林宗派卷十六<lb/>
+　　　　　　　　　　　　　　鄞縣萬斯同撰<lb/>
+　明<lb/>
+　　諸儒博考<lb/>
+梁寅<hi>石門新喻</hi>
+朱升<hi>允升楓林休寜</hi>
+汪克寛<hi>徳輔祁門</hi>
+<pb n="KR2g0049_WYG_016-1b"/>
+唐桂芳<hi>仲實歙縣</hi>
+徐一䕫<hi>大章天臺</hi>
+趙汸<hi>子常東山休寜</hi>
+趙謙<hi>撝謙考古餘姚</hi>
+陳謨<hi>一徳海桒泰和</hi>
+謝應芳<hi>子蘭龜巢武進</hi>陳濟<hi>伯載武進</hi>
+趙偕<hi>寶峯慈谿</hi>
+烏本良<hi>性善春風慈谿</hi>
+<pb n="KR2g0049_WYG_016-2a"/>
+烏斯道<hi>繼善本良弟</hi>
+桂彦良<hi>徳偁慈谿</hi>
+魏觀<hi>蒲圻</hi>
+詹同<hi>同文婺源</hi>
+曹端<hi>正夫月川渑池</hi>
+唐豫<hi>用之順徳</hi>
+李時勉<hi>水忠吉    文</hi>
+陳敬宗<hi>光世慈谿文定</hi>
+<pb n="KR2g0049_WYG_016-2b"/>
+黃潤玉<hi>孟清南山鄞縣</hi>
+劉觀<hi>崇觀吉水</hi>
+　<lb/>
+　<lb/>
+黃仲昭<hi>未軒莆田</hi>
+　<lb/>
+　<lb/>
+宋端儀<hi>孔時莆田</hi>
+<pb n="KR2g0049_WYG_016-3a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+何喬新<hi>南城</hi>
+彭韶<hi>鳯儀莆田</hi>
+楊守陳<hi>維新鐃川鄞縣文懿</hi>
+謝鐸<hi>方石太平</hi>
+　<lb/>
+<pb n="KR2g0049_WYG_016-3b"/>
+　　　　　張銳<hi>抑之秦州</hi>
+陳選<hi>士賢克庵臨海</hi>
+　<lb/>
+　<lb/>
+　<lb/>
+陳海雍<hi>清江</hi>
+劉閔<hi>子賢莆田</hi>
+汪禔<hi>介夫檗庵祁門</hi>
+<pb n="KR2g0049_WYG_016-4a"/>
+傅淳<hi>伯厚鄞縣</hi>
+倪復<hi>汝新畏菴鄞縣</hi>
+戴圭<hi>秉誠鄞縣</hi>
+丁璣<hi>玉夫丹徒</hi>
+　<lb/>
+　<lb/>
+張吉<hi>克修古城餘干</hi>
+邵寶<hi>國賢二泉無錫文莊</hi>
+<pb n="KR2g0049_WYG_016-4b"/>
+余本<hi>子華四明鄞縣</hi>
+楊亷<hi>方震月湖豐城文恪</hi>
+儲瓘<hi>静夫柴墟泰州文懿</hi>
+潘府<hi>南山上虞</hi>
+胡鐸<hi>時振餘姚</hi>
+豐熈<hi>白菴鄞縣</hi>
+邵銳<hi>思抑仁和康僖</hi>
+羅欽順<hi>允升整庵泰和文莊</hi>王春復<hi>學樂晉江</hi>
+<pb n="KR2g0049_WYG_016-5a"/>
+汪俊<hi>抑之石潭弋陽文莊</hi>
+何瑭<hi>粹夫柏齋武涉文定</hi>
+許誥<hi>廷諭莊敏靈寶</hi>
+張邦竒<hi>常甫甬州鄞縣文定</hi>
+韓邦竒<hi>汝節苑洛朝邑恭簡</hi>
+王廷相<hi>子衡儀封肅敏</hi>
+　<lb/>
+　<lb/>
+<pb n="KR2g0049_WYG_016-5b"/>
+霍韜<hi>緯先南海</hi>
+崔銑<hi>子鍾後渠安陽文敏</hi>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+邵經邦<hi>仲徳仁和</hi>
+徐問<hi>用中養齋武進莊裕</hi>
+<pb n="KR2g0049_WYG_016-6a"/>
+張岳<hi>維喬静峰恵安相恵</hi>
+熊過<hi>叔仁南沙</hi>
+任瀚<hi>少海南充</hi>
+林[啟-口+山]<hi>同安</hi>
+薛蕙<hi>君采西原亳州</hi>
+梅守徳<hi>宣城</hi>
+朱睦㮮<hi>西亭</hi>
+朱載堉<lb/>
+<pb n="KR2g0049_WYG_016-6b"/>
+王之士<hi>欲立秦關藍田</hi>
+張基<hi>徳載敬堂吳縣</hi>
+來知徳<hi>矣鮮梁山</hi>
+章潢<hi>本清新建</hi>
+胡行恭<hi>泰和</hi>
+魯邦彦<hi>鄭卿睢之</hi>
+李經綸<hi>大經南豐</hi>
+徐師曽<hi>伯魯吳江</hi>
+<pb n="KR2g0049_WYG_016-7a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2g0049_WYG_016-7b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+顔鯨<hi>應雷冲宇慈谿</hi>
+<pb n="KR2g0049_WYG_016-8a"/>
+吕坤<hi>叔簡心吾寜陵</hi>
+徐三重<hi>鴻洲華亭</hi>
+陳大受<hi>赤石鄱陽</hi>
+曹子汴<hi>自梁真予安邑</hi>
+楊東明<hi>啟修虞城</hi>
+郝敬<hi>仲輿楚望京山</hi>
+吕維祺<hi>介孺豫石新安忠節</hi>
+辛全<hi>復元絳州</hi>
+<pb n="KR2g0049_WYG_016-8b"/>
+黃道周<hi>幼𤣥石齋漳浦</hi>
+張偉<hi>二無武進</hi>
+何楷<hi>𤣥子漳浦</hi>
+吳執御<hi>朗功台州</hi>
+金鈜<hi>伯玉順天忠節</hi>
+卓爾康<hi>去病仁和</hi>
+朱朝瑛<hi>康流海寜</hi>
+<pb n="KR2g0049_WYG_016-9a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+于孔謙<hi>景素金壇</hi>
+薛敷教<hi>以身立臺武進</hi>
+張納陛<hi>文石嘉興</hi>
+<pb n="KR2g0049_WYG_016-9b"/>
+劉元珍<hi>本孺楚磐無錫</hi>
+葉茂才<hi>參之閒適無錫</hi>
+陳幼學<hi>筠堂無錫</hi>
+安希范<hi>我素無錫</hi>
+錢一本<hi>國瑞啟新武進</hi>
+史孟麟<hi>際明玉池宜興</hi>
+劉永澄<hi>静之寶應</hi>
+劉宗周<hi>起東念臺山隂</hi>
+<pb n="KR2g0049_WYG_016-10a"/>
+孫慎行<hi>聞斯洪澳武進文介</hi>
+吳桂森<hi>覲華無錫</hi>
+許世卿<hi>伯勲静餘武進</hi>
+耿橘<hi>庭懐阿間</hi>
+歸子慕<hi>季思崑山</hi>
+　　顧憲成以下東林講學諸儒<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2g0049_WYG_016-10b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　儒林宗𣲖卷十六<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>古歡堂集巻四十六</head>
+    <p>
+<pb n="KR4f0038_WYG_046-1a"/>
+欽定四庫全書<lb/>
+　古歡堂集巻四十六　　　戸部侍郎田雯撰<lb/>
+　　長河志籍考<lb/>
+里俗相沿由來舊矣攷之嵗華紀麗譜荆楚嵗時乾淳<lb/>
+　嵗時輦下嵗時秦中嵗時諸記四民月令千金月令<lb/>
+　諸書通都列邑皆然故不錄錄其小異者<lb/>
+　正月賽紫姑加帬髻於栁箕之上呼阿姑焚香禮之<lb/>
+　劉敬叔異苑云紫姑本人家妾為大婦所妬元宵憤<lb/>
+<pb n="KR4f0038_WYG_046-1b"/>
+　亡故世人作其形咒之云子胥不在云是其壻曹夫<lb/>
+　人已行云是其姑出於厠邉或豚柵間迎之箕重其<lb/>
+　神來也放翁有迎紫姑詩<lb/>
+　二月二日粉荔為餅膠芽作餳以熏蟲鼠昔人云栁<lb/>
+　籠門巷之晴煙杏壓園林之香氣比年以來料峭春<lb/>
+　寒與此語異矣節之佳者蘇子瞻謂一年惟寒食重<lb/>
+　陽不可虚度是也<lb/>
+　張景陽有洛褉賦毛詩鄭風云溱與洧方洹洹兮維<lb/>
+<pb n="KR4f0038_WYG_046-2a"/>
+　士與女方秉蕳兮州無此俗<lb/>
+　四月八日八字之佛爰來五香之水乃浴<lb/>
+　端陽節為沐蘭之日艾葉榴花風物略同北地非水<lb/>
+　鄉但少觀競渡耳角黍以餉屈原弔汨羅事也不識<lb/>
+　鄉人何以嗜之是月穫麥麥一㪷敵它榖一鍾故諺<lb/>
+　語一麥三秋也<hi>余曾有麥秀詩略云百畝之田種麥半釐牟大小齊耕䎫榴花棗花月當</hi>
+　<hi>午青黄罷亞如馬鬃打包揺旗好時節隴頭伐鼓聲逢逢拾穂兒童結行隊揮鐮農父交矛鏦髙者齊腰</hi>
+　<hi>低沒胯昻首忽見燕尾雙牢丸起溲婦子飽燒畬買犢鳴村厖錄數語于此</hi>
+<pb n="KR4f0038_WYG_046-2b"/>
+　曝衣節日在東井律中林鍾或錦繡充陳或犢鼻褌耳<lb/>
+　首秋佳夕設酒脯𤓰果於庭祀河鼔織女穿針乞巧<lb/>
+　填鵲成橋其說不經婦人女子篤信之傅𤣥擬天問<lb/>
+　云七月七日牽牛織女㑹天河河鼔黄姑牽牛也皆<lb/>
+　語之轉<lb/>
+　中秋以𤓰餅酬月比户然矣<lb/>
+　重陽節盖始於齊諧所云汝南桓景學費長房之說<lb/>
+　也登髙落帽綠酒黄花正東坡所謂不可虚度也<lb/>
+<pb n="KR4f0038_WYG_046-3a"/>
+　十月朔日黍曤俗謂之秦嵗首是日上冡以五色箋<lb/>
+　剪衣繻火之<lb/>
+　昴正仲冬時稱亞嵗賀客摒擋並如元正儀弟子拜<lb/>
+　其先生臘八日以棗栗和粥食之東京賦云長至大<lb/>
+　儺驅逐羣厲方相秉鉞巫覡操茢侲子萬童丹首元<lb/>
+　製桃弧棘矢所發無臬今俗不聞矣<lb/>
+　臘月廿三日祖竈神朝上帝又於臘日藏冰豳詩曰<lb/>
+　鑿周禮見頒慮蟲疑之時不可闕也及狐聽之日於<lb/>
+<pb n="KR4f0038_WYG_046-3b"/>
+　以藏之藏冰不見於它邑也<lb/>
+　除夕修祀事迎新年如夢華錄所云也燒木賣懵亦<lb/>
+　儺禮之變矣讀東坡餽嵗别嵗守嵗三詩庶幾似之<lb/>
+五榖六畜榆栁桑柘果蓏菘蔬之屬所在相若非特産<lb/>
+　矣故不書獨書魚舊志載悳鯉之名沿城屯氏河南<lb/>
+　北三十里東風解凍時取之桃花水漲魚去紅鬛白<lb/>
+　乙味甘多脂丙穴槎頭莫匹矣扈業不一器有跳魚<lb/>
+　船以粉塗板置之船側半浮水面黑夜鼓枻而行寂<lb/>
+<pb n="KR4f0038_WYG_046-4a"/>
+　無人聲所至魚躍于板上城東徒駭河亦多巨魚味<lb/>
+　遜於屯氏與鱸同少二腮耳非季鷹所思者<hi>余有詩略云<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    </hi>
+　<hi>州之魚美無亞舂撞䟦刺長河义舉網跳波鱗鬐紅窺缸盈尺笭箵罅初打只在春冰泮漸少偏隨桃花</hi>
+　<hi>謝栁條可貫脂可屠江鱸濼鯽出其下城北城南但數里罩<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                        <graphic n="KR2000" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2000.png" mimeType="image/png"/>籪盡可畵月上弄船浪簸篷雨後搖竿</hi>
+　<hi>泥沒胯百頓飽噉斫雪膾百錢誰恡論斤價無乃此地通丙穴饞口癡腹從天借數語實錄</hi>
+酉陽雜俎云平原郡責糖蟹産於河每年生貢斵冰火<lb/>
+　照懸老犬肉即浮因取之一枚直百金以氊蜜束於<lb/>
+　驛馬馳至於京今悳州蟹胥與他處等異昔所聞也<lb/>
+<pb n="KR4f0038_WYG_046-4b"/>
+酒之美曰羅酒色白味潔東坡所謂錯著水也又有黑<lb/>
+　露酒色如黛漆味比醍醐水經注云採挹河流醞成<lb/>
+　芳酹别調氤氳不與他同自成馨逸最佳酌矣善釀<lb/>
+　之稱侔于河東劉白墮也<lb/>
+新唐書平原郡土貢絹綾而今無之地不樹桑故無蠶<lb/>
+　事有之獨徒駭河上一村耳一婦可嵗得絹三匹馬頭<lb/>
+　之祭無聞繰車之聲間作較之東吳似闕淮南王之<lb/>
+　蠶經隣于兖野其補秦少游之蠶書哉<lb/>
+<pb n="KR4f0038_WYG_046-5a"/>
+論曰余得之髫年矣竊見里閈之間崇禮讓明信義節<lb/>
+　物風流人情和美宮室完好工商坌集士之習詩書<lb/>
+　者雍容都雅盤辟有儀以及龎眉寛褐之叟釀秫種<lb/>
+　菊帬屐子弟之倫華衣名馬追遡誰昔俛卬興懐乃<lb/>
+　何踰五十年未戎燹而全非不滄桑而已變也間有<lb/>
+　一二古意猶存婚者親迎𦵏者路祭較㣲勝於曩日<lb/>
+　兾復盛於它時余綴斯言摭其大槩不然禮詳月令<lb/>
+　詩譜國風甚無謂矣<lb/>
+<pb n="KR4f0038_WYG_046-5b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　古歡堂集巻四十六<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

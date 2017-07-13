@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>提要<lb/>
+                </head>
+    <p>
+<pb n="KR3a0070_WYG_000-1a"/>
+欽定四庫全書　　　　　子部一<lb/>
+　提要<lb/>
+　　朱子讀書法四卷　　　儒家類<lb/>
+　　　　<hi>臣</hi>等謹案朱子讀書法四卷宋張洪齊<graphic n="KR2999" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2999.png" mimeType="image/png"/>同<lb/>
+　　　　編洪字伯大<graphic n="KR2999" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2999.png" mimeType="image/png"/>字充甫皆鄱陽人事蹟無可<lb/>
+　　　　考據洪自序咸淳中分教四明<graphic n="KR2999" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2999.png" mimeType="image/png"/>適客逰浙<lb/>
+　　　　東遂相與商確是書而刻諸鄞泮其書本朱<lb/>
+　　　　子門人輔廣所輯巴川度正嘗屬遂寜于和<lb/>
+<pb n="KR3a0070_WYG_000-1b"/>
+　　　　之校刋鄱陽王氏復廣為後編洪與<graphic n="KR2999" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2999.png" mimeType="image/png"/>又因<lb/>
+　　　　而補訂之以輔氏原本為上卷而以所續増<lb/>
+　　　　者列為下卷皆以文集語類排比綴輯分門<lb/>
+　　　　𨽻屬雖捃拾抄撮稗販舊文不足以言著述<lb/>
+　　　　而條分縷析綱目井然於朱子一家之學亦<lb/>
+　　　　可云覃思研究矣元時板已不存至順中江<lb/>
+　　　　南行臺御史趙之維重鏤於集慶路學故永<lb/>
+　　　　樂大典全帙收入原編卷次已不可考今酌<lb/>
+<pb n="KR3a0070_WYG_000-2a"/>
+　　　　其編帙釐為四卷俾講新安之學者有所考<lb/>
+　　　　證焉乾隆四十六年九月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+<pb n="KR3a0070_WYG_000-3a"/>
+編定朱子讀書法原序<lb/>
+聖賢之書聖賢之言也聖賢之言聖賢之意也學者學<lb/>
+為聖賢而已既為聖賢之學必將因其言以求其意得<lb/>
+其言而未得其意者有矣未有不得其言而得其意者<lb/>
+也傅說之告髙宗曰學于古訓乃有獲吾夫子亦曰好<lb/>
+古敏以求之何必讀書然後為學見哂於聖門也宜哉<lb/>
+臯䕫所讀何書世率以斯言藉口豈知帝王盛時化行<lb/>
+俗美凡塗歌里詠之所接聲音采色樂舞之所形洒掃<lb/>
+<pb n="KR3a0070_WYG_000-3b"/>
+應對冠昏䘮祭之所施莫非脩道之教固不專在書也<lb/>
+三代而下古人養德之具一切盡廢所恃以植立人極<lb/>
+者惟有書耳此書之不可不讀也然讀聖賢之書者為<lb/>
+不少矣鮮能至於聖賢者讀之無其法也漢唐說義理<lb/>
+如說夢其間大儒言正心而不及誠意言誠意而不及<lb/>
+致知格物法之未立學者將安適從乎故以了悟為髙<lb/>
+者直謂格言大訓為胸中之障礙書且無取何取於法<lb/>
+以記覽為工者又不過誇多鬭靡務以榮華其言希世<lb/>
+<pb n="KR3a0070_WYG_000-4a"/>
+取寵而已法於何有過猶不及等之為無得於道也不<lb/>
+有先覺何以淑其後紫陽夫子生於建炎庚戍上符洙<lb/>
+泗之運逺紹濓洛之傳吐辭為經家藏人誦言滿天下<lb/>
+皆去言也然門人輔公所編讀書之法所以呼迷塗而<lb/>
+飭稚昧者尤為深切著明甲寅便殿奏䟽拳拳以為食<lb/>
+芹之獻直謂此愚臣平生艱難辛苦已試之效雖帝王<lb/>
+之學無以易之豈茍云乎哉洪嘗與親長德勝齊君増<lb/>
+多而臚别之鄕友王君復盡索紫陽諸書倣為後編輙<lb/>
+<pb n="KR3a0070_WYG_000-4b"/>
+又同為之編定於是首尾具備條貫秩然學者儻慨然<lb/>
+知俗學之可厭聖學之可傳於文公之法信之篤行之<lb/>
+果使精神之胥契如師友之相逢以此而讀書其亦異<lb/>
+乎人之讀書矣聖賢之意如日杲杲豈待單傳宻付而<lb/>
+後有得於道哉咸淳乙丑洪分教四明齊君適遊東浙<lb/>
+益相與商㩁是正其書乃成嘗謂此書之行可使人人<lb/>
+知道人人為聖賢而受用之淺深則在夫人信向之分<lb/>
+數耳洪一日袖呈師帥大參西澗先生先生捧誦驚喜<lb/>
+<pb n="KR3a0070_WYG_000-5a"/>
+謂足為後學指南不負儒先真切誨人之意助費召匠<lb/>
+亟命鋟梓與學者共之吁聖人復起不易文公之言文<lb/>
+公可作所以誨人者不過如此此義之存上帝臨汝是<lb/>
+又非學者為聖賢之一助乎盍相與懋敬之哉雖然文<lb/>
+公嘗謂學不是讀書不讀書又不知所以為學之道此<lb/>
+語殆有深意昔潘氏磨鏡帖云僕自喻為昏鏡喻書為<lb/>
+磨鏡藥當用此藥揩磨塵垢使通明瑩徹而後已若積<lb/>
+藥鏡上而不施揩磨之功反為鏡累豈非道理合下皆<lb/>
+<pb n="KR3a0070_WYG_000-5b"/>
+具用力之久一旦豁然貫通焉反身而誠萬物皆備豈<lb/>
+拘拘尋行數墨間哉因取晦庵觀書有感二詩附于編<lb/>
+首以發言外之意云丙寅孟春後學番陽張洪拜手書<lb/>
+于鄞泮<lb/>
+　晦庵先生觀書有感<lb/>
+半畆方塘一鏡開天光雲影共徘徊問渠那得清如許<lb/>
+為有源頭活水來<hi>右一</hi>
+昨夜江邉春水生䝉衝巨艦一毛輕向來枉費推移力<lb/>
+<pb n="KR3a0070_WYG_000-6a"/>
+此日中流自在行<hi>右二</hi>
+讀書法者文公朱子之所常言而門人輔公漢卿之所<lb/>
+編集也嘉恵後學可謂至矣巴川度侍郎正屬遂寧于<lb/>
+和之校而刻之外舅䨇澗張先生家藏刋本<graphic n="KR2999" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2999.png" mimeType="image/png"/>因得借<lb/>
+觀天球琳琅不足喻斯寶也但其間踈略未盡雜亂無<lb/>
+倫者間亦有之則恐學者未能見之瞭然何以使其守<lb/>
+之確然哉故竊疑此漢卿草定而未脩改之本<graphic n="KR2999" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2999.png" mimeType="image/png"/>僣於<lb/>
+暇日與鄕親友龍山張君伯大因其舊文及取文公之<lb/>
+<pb n="KR3a0070_WYG_000-6b"/>
+言此而漢卿之未録者相與搜集附益更易次第先定<lb/>
+綱領以載書之所當讀之故與讀之所當務之說復於<lb/>
+中撮其樞要釐為六條曰循序漸進曰熟讀精思曰虚<lb/>
+心涵泳曰切已體察曰著𦂳用力曰居敬持志而著其<lb/>
+說於每條之下於是綱領條目粲然明白為上下兩卷<lb/>
+盖將按為定式確遵謹守尚企及文公之萬一凡我同<lb/>
+志皆當從事於斯也竊嘗論之天下之事莫不有法法<lb/>
+莫不有要得其要而遵守之則為其事者雖與人同所<lb/>
+<pb n="KR3a0070_WYG_000-7a"/>
+以為其事者實與人異他日所就必有卓然非儕流之<lb/>
+所及者末藝且然而况讀書為吾儒之大業乎秦漢以<lb/>
+來知讀書者衆矣然皆不足以與聞斯道之傳其務外<lb/>
+者為誇多鬬靡其厭煩者為獨觀大略其平凢暗戅者<lb/>
+不過尋行數墨為蠧魚為書肆其邪僻者聖讀而庸行<lb/>
+其詭佞者則借聖言以文姦而已求其下帷潜心如仲<lb/>
+舒者已寥寥間見况望其如濓溪闗洛諸老先生明聖<lb/>
+道之蘊奥傳聖心之精㣲乎是則彼非不讀書也讀書<lb/>
+<pb n="KR3a0070_WYG_000-7b"/>
+而不得其法也惟我文公禀命世之才負離倫之識而<lb/>
+尤篤志於聖人之學其為學也窮理以致其知反躬以<lb/>
+踐其實而貫之以敬其窮理則以讀書為本其讀書則<lb/>
+以六者為法平日之所自務與其所以教人每切切乎<lb/>
+此雖致之聖君言之賢相亦必欲其急先乎此此所以<lb/>
+卓然能承道統之傳啓道學之秘盡發聖經賢傳之藴<lb/>
+大開天下萬世之䝉也嗚呼盛矣豈非文公之讀書與<lb/>
+人同而所以讀書與人異固若是耶六者之法有前賢<lb/>
+<pb n="KR3a0070_WYG_000-8a"/>
+之所已言者亦有前賢之所未及而出於文公之獨見<lb/>
+者誠能確遵謹守㒺有踰越則窮理盡性脩身齊家以<lb/>
+至得時行道而極於堯舜其君民莫不自是基之其功<lb/>
+用豈淺哉抑愚謂從古聖賢非不言讀書也而每教人<lb/>
+讀書以窮理則至文公而愈切關洛大儒亦非不言讀<lb/>
+書之法也而及於循序致精與先㸔易曉者之云則自<lb/>
+先生而始見其愈切者正如孔子多說仁字之意其始<lb/>
+見者同於孟子性善養氣之功學者尤不可以不知也<lb/>
+<pb n="KR3a0070_WYG_000-8b"/>
+龍山君孝謹清修自㓜用心於聖賢之所謂學十五年<lb/>
+前相與編類此書咸淳乙丑<graphic n="KR2999" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2999.png" mimeType="image/png"/>適留㑹稽而張君職教<lb/>
+四明郵傳如織因得益加是正而更定之於是無復遺<lb/>
+恨張君且欲刋之鄞泮以恵多士是豈徒此書之幸學<lb/>
+者遵是法而力行之斯道其幸乎其年秋仲番陽齊<graphic n="KR2999" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2999.png" mimeType="image/png"/>
+充甫謹序于越之蓬萊閣<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

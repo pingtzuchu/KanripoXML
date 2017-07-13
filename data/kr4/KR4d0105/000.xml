@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4d0105_SBCK_000-1a"/>
+濟壮晁先生雞肋集序<lb/>
+雞肋集左朝奉郎秘書省著<lb/>
+作郎充秘閣校理國史編脩<lb/>
+官濟北晁補主无咎自名其所<lb/>
+為詩文也夫物有質者必有文<lb/>
+文者質主所㕥辨也古主立言<lb/>
+<pb n="KR4d0105_SBCK_000-1b"/>
+者當主采居論説諷詬應物<lb/>
+接事不能無言非席豹犬羊<lb/>
+之異也食主則無所得棄主則<lb/>
+可惜其雞肋采故裒而蔵之<lb/>
+謂之雞肋集元祐九年二月旦<lb/>
+日序<lb/>
+<pb n="KR4d0105_SBCK_000-2a"/>
+濟北晁先生雞肋集總目<lb/>
+　巻第一　巻第二<lb/>
+　　　古賦　古賦<lb/>
+　巻第三　巻第四<lb/>
+　　　辭　古詩<lb/>
+　巻第五　巻第六<lb/>
+　　　古詩　古詩<lb/>
+　巻第七　巻第八<lb/>
+　　　古詩　古詩<lb/>
+<pb n="KR4d0105_SBCK_000-2b"/>
+　巻第九　巻第十<lb/>
+　　　古詩　古詩<lb/>
+　巻第十一　巻第十二<lb/>
+　　　古詩　古詩<lb/>
+　巻第十三　巻第十四<lb/>
+　　　古詩　古詩<lb/>
+　巻第十五　巻第十六<lb/>
+　　　律詩　律詩<lb/>
+　巻第十七　卷第十八<lb/>
+<pb n="KR4d0105_SBCK_000-3a"/>
+　　　律詩　律詩<lb/>
+　巻第十九　巻第二十<lb/>
+　　　絶句　絶句<lb/>
+　巻第二十一　巻第二十二<lb/>
+　　　絶句　絶句<lb/>
+　巻第二十三　巻第二十四<lb/>
+　　　挽辭　上書<lb/>
+　巻第二十五　巻第二十六<lb/>
+　　　罪言　河議<lb/>
+<pb n="KR4d0105_SBCK_000-3b"/>
+　巻第二十七　巻第二十八<lb/>
+　　　雜著　雜著<lb/>
+　巻第二十九　巻第三十<lb/>
+　　　記　記<lb/>
+　巻第三十一　巻第三十二<lb/>
+　　　記　銘贊<lb/>
+　巻第三十三　巻第三十四<lb/>
+　　　題跋　序<lb/>
+　巻第三十五　巻第三十六<lb/>
+<pb n="KR4d0105_SBCK_000-4a"/>
+　　　序　離騷序<lb/>
+　巻第三十七　巻第三十八<lb/>
+　　　策問　策問<lb/>
+　巻第三十九　巻第四十<lb/>
+　　　策問　春秋雜論<lb/>
+　巻第四十一　巻第四十二<lb/>
+　　　春秋雜論　西漢雜論<lb/>
+　巻第四十三　巻第四十四<lb/>
+　　　西漢雜論　西漢雜論<lb/>
+<pb n="KR4d0105_SBCK_000-4b"/>
+　巻第四十五　巻第四十六<lb/>
+　　　唐舊書雜論　唐舊書雜論<lb/>
+　巻第四十七　巻第四十八<lb/>
+　　　唐舊書雜論　唐舊書雜論<lb/>
+　巻第四十九　巻第五十<lb/>
+　　　唐舊書雜論　五代雜論<lb/>
+　巻第五十一　巻第五十二<lb/>
+　　　書　書<lb/>
+　巻第五十三　卷第五十四<lb/>
+<pb n="KR4d0105_SBCK_000-5a"/>
+　　　奏狀　表<lb/>
+　巻第五十五　巻第五十六<lb/>
+　　　表　啓<lb/>
+　巻第五十七　巻第五十八<lb/>
+　　　啓　啓<lb/>
+　巻第五十九　巻第六十<lb/>
+　　　啓　祭文<lb/>
+　巻第六十一　巻第六十二<lb/>
+　　　祭文　傳行狀<lb/>
+<pb n="KR4d0105_SBCK_000-5b"/>
+　巻第六十三　巻第六十四<lb/>
+　　　墓表　墓誌銘<lb/>
+　巻第六十五　巻第六十六<lb/>
+　　　墓誌銘　墓誌銘<lb/>
+　巻第六十七　巻第六十八<lb/>
+　　　墓誌銘　墓誌銘<lb/>
+　巻第六十九　巻第七十<lb/>
+　　　釋氏贊疏　釋氏贊疏<lb/>
+濟北晁先生雞肋集總目<hi>終</hi>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

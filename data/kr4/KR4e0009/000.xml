@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>西隠集</head>
+    <p>
+<pb n="KR4e0009_WYG_000-1a"/>
+欽定四庫全書　　　　集部六<lb/>
+　西隠集　　　　　　　别集類五<hi>明</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案西隠集十巻明宋訥撰訥字仲敏<lb/>
+　　　　滑縣人元至正中舉進士任鹽山尹棄官歸<lb/>
+　　　　明初徵為國子助教陞文淵閣大學士遷國<lb/>
+　　　　子祭酒卒於官正徳中追諡文恪事蹟具明<lb/>
+　　　　史本傳劉三吾撰訥墓誌稱所著西隠集十<lb/>
+<pb n="KR4e0009_WYG_000-1b"/>
+　　　　七巻而明史藝文志黄虞稷千頃堂書目俱<lb/>
+　　　　作十巻此本有東萊劉師魯跋稱其集初為<lb/>
+　　　　上海張趨所手録滑人王崇之令上海從其<lb/>
+　　　　後求得而刻之嵗久漫漶師魯因鳩工重刻<lb/>
+　　　　葢即十巻之本豈張趨繕録時又有所刪併<lb/>
+　　　　故與墓誌不合歟集前四巻為賦詩後六巻<lb/>
+　　　　為雜文附以明太祖手勅四道及白雲茅屋<lb/>
+　　　　賦二篇記一篇白雲茅屋者訥所築别墅之<lb/>
+<pb n="KR4e0009_WYG_000-2a"/>
+　　　　名也訥領成均胄子之任師道嚴正為一時<lb/>
+　　　　典型文章亦渾厚典雅其奉勅製太學碑極<lb/>
+　　　　為明祖所賞今具載集中又有壬子嵗考試<lb/>
+　　　　秋闈和北平行省照磨葉叔則詩及秋闈即<lb/>
+　　　　事諸詩壬子乃洪武六年葢訥嘗為北平考<lb/>
+　　　　官而本傳墓誌均之未載其過元故宫詩十<lb/>
+　　　　九首纒綿悱惻有黍離麥秀之思讀其詞尤<lb/>
+　　　　足悲其志矣乾隆四十四年六月恭校上<lb/>
+<pb n="KR4e0009_WYG_000-2b"/>
+　　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4f0001_WYG_364-1a"/>
+　欽定四庫全書<lb/>
+聖祖仁皇帝御製文第四集巻三十二目録<lb/>
+　　古今體詩二十九首<lb/>
+　　　嵗除前二日立春<lb/>
+　　　嘉平月初雪後晚坐偶有所見書懐<lb/>
+　　　詠鳥鎗<lb/>
+　　　朕親統六師至寜夏駐蹕二十日遍觀地勢游覽<lb/>
+　　　　山形城之東南有巽湖水最清偶爾得野鴨一<lb/>
+<pb n="KR4f0001_WYG_364-1b"/>
+　　　　隻羽毛滋潤黄頭紫背胸白翅短與他處所有<lb/>
+　　　　廻然不同業已忘矣今經十五載忽於畫中又<lb/>
+　　　　見此禽因而有感故援筆以記<lb/>
+　　　詠自鳴鐘<lb/>
+　　　賦得禁城春色曉蒼蒼<lb/>
+　　　趙北口水淀作<lb/>
+　　　賦得時人不識予心樂<lb/>
+　　　檣燈<lb/>
+<pb n="KR4f0001_WYG_364-2a"/>
+　　檣燈<hi>調寄㸃綘唇一名南浦月</hi>
+　　五十一年春二月二十四日回鑾遇雨故作春雨<lb/>
+　　　行<lb/>
+　　閱河長歌<hi>并序</hi>
+　　憶詠蘇州風俗<lb/>
+　　偶觀演劇作<lb/>
+　　三月初十日恭請<lb/>
+皇太后雅玩齋進膳看梅花<lb/>
+<pb n="KR4f0001_WYG_364-2b"/>
+　　暢春園西新園觀花<lb/>
+　　西苑試士<lb/>
+　　大學士陳廷敬輓詩<lb/>
+　　湯泉應候<lb/>
+　　將軍潘育龍乆任封疆故存問賜詩<lb/>
+　　賜將軍呉英<lb/>
+　　冬至讀易<lb/>
+　　黄臘梅<lb/>
+<pb n="KR4f0001_WYG_364-3a"/>
+　　賦得冬日可愛<lb/>
+　　詠雪<hi>并序</hi>
+　　賦得月照氷池<lb/>
+　　吏部尚書引年致仕宋犖因朕六旬夀慶祝來京<lb/>
+　　　事畢五月内回本鄉朕念舊臣特書七言律一<lb/>
+　　　首以紀其事云<lb/>
+　　賜大學士温達<lb/>
+　　幾暇隨筆書懐<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

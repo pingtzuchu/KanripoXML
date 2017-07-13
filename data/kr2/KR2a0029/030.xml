@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2a0029_WYG_030-1a"/>
+　舊五代史巻十四攷證<lb/>
+梁列𫝊四羅紹威𫝊其後𢎞信封臨清王　案舊唐書<lb/>
+　𢎞信先封豫章郡公進封北平王與是書異<lb/>
+自田氏以後垂二百年　案呉縝歐陽史纂誤云魏博<lb/>
+　自田承嗣專據至羅紹威時共一百五十餘年歐陽<lb/>
+　史作二百年誤盖歐陽史仍是書之誤也<lb/>
+太祖自内黄馳至鄴　至鄴原本作至葉據歐陽史改<lb/>
+　正<lb/>
+<pb n="KR2a0029_WYG_030-1b"/>
+嵗漕百萬石以給宿衛太祖深然之　案通鑑攷異引<lb/>
+　梁功臣𫝊云紹威馳簡獻替意互合者十得五六太<lb/>
+　祖嘆曰竭忠力一人而已又引莊宗實録曰紹威隂<lb/>
+　有覆温之志而賂温益厚温怪其曲事慮蓄奸謀而<lb/>
+　莫之察乃賜紹威妓妾數人未半嵗召還以此得其<lb/>
+　隂事其紀載互異如此竊謂紹威有謀慮得梁王信<lb/>
+　任宜也然以梁主雄險而紹威又因盡誅牙軍有自<lb/>
+　弱之悔則此時猜忌諒亦有之未可偏廢其説<lb/>
+<pb n="KR2a0029_WYG_030-2a"/>
+趙犨𫝊父叔文　案叔文原本訛叔义今據新唐書改<lb/>
+　正<lb/>
+王僊芝起于曹濮　僊芝原本作僊茈今據新舊唐書<lb/>
+　改正<lb/>
+文德元年　文德原本作大德今改正<lb/>
+充大内皇墻使　皇墻原本作皇城考五代㑹要梁時<lb/>
+　避諱改皇城使為皇墻使今改正<lb/>
+趙昶𫝊假寐于闉闍　闉闍原本作閫闍今改正<lb/>
+<pb n="KR2a0029_WYG_030-2b"/>
+時宗權未滅　案上篇趙犨傳云蔡州平以犨為忠武<lb/>
+　軍節度使据此傳則昶為忠武節度使宗權二𫝊互<lb/>
+　異<lb/>
+趙珝𫝊珝犨季弟也　案新唐書以珝為犨子是書及<lb/>
+　歐陽史通鑑皆以珝為犨弟新唐書應訛<lb/>
+王珂𫝊小字忠兒　忠兒舊唐書作蟲兒<lb/>
+令何絪守晉州　何絪原本作何緯今據通鑑改正<lb/>
+　舊五代史巻十四攷證<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

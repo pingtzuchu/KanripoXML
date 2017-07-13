@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0148_WYG_026-1a"/>
+欽定四庫全書<lb/>
+御選唐宋詩醇巻十二<lb/>
+　　襄陽杜甫詩四<lb/>
+　　　目錄<lb/>
+　　雨<lb/>
+　　又上後園山脚<lb/>
+　　種萵苣<lb/>
+　　八哀詩<lb/>
+<pb n="KR4h0148_WYG_026-1b"/>
+　　　贈司空王公思禮<lb/>
+　　　故司徒李公光弼<lb/>
+　　　贈左僕射鄭國公嚴公武<lb/>
+　　　贈太子太師汝陽郡王璡<lb/>
+　　　贈秘書監江夏李公邕<lb/>
+　　　故秘書少監武功蘇公源明<lb/>
+　　　故著作郎貶台州司戸滎陽鄭公䖍<lb/>
+　　　故右僕射相國張公九齡<lb/>
+<pb n="KR4h0148_WYG_026-2a"/>
+　　寫懷<lb/>
+　　觀公孫大娘弟子舞劔器行<lb/>
+　　同元使君舂陵行<lb/>
+　　李潮八分小篆歌<lb/>
+　　聽楊氏歌<lb/>
+　　荆南兵馬使太常卿趙公大食刀歌<lb/>
+　　王兵馬使二角鷹<lb/>
+　　狄明府<lb/>
+<pb n="KR4h0148_WYG_026-2b"/>
+　　秋風二首<lb/>
+　　虎牙行<lb/>
+　　後苦寒行二首<lb/>
+　　夜歸<lb/>
+　　醉為馬墜諸公攜酒相㸔<lb/>
+　　大覺髙僧蘭若<lb/>
+　　宿青溪驛奉懷張員外十五兄之緒<lb/>
+　　憶昔行<lb/>
+<pb n="KR4h0148_WYG_026-3a"/>
+　　魏將軍歌<lb/>
+　　北風<lb/>
+　　白鳬行<lb/>
+　　醉歌行贈公安顔少府請顧八題壁<lb/>
+　　夜聞<graphic n="KR1227" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1227.png" mimeType="image/png"/>篥<lb/>
+　　發劉郎浦<lb/>
+　　別董頲<lb/>
+　　送顧八分文學適洪吉州<lb/>
+<pb n="KR4h0148_WYG_026-3b"/>
+　　遣遇<lb/>
+　　解憂<lb/>
+　　宿鑿石浦<lb/>
+　　過津口<lb/>
+　　次空靈岸<lb/>
+　　宿花石戌<lb/>
+　　望嶽<lb/>
+　　岳麓山道林二寺行<lb/>
+<pb n="KR4h0148_WYG_026-4a"/>
+　　歲晏行<lb/>
+　　追酬故髙蜀州人日見寄<lb/>
+　　蘇大侍御訪江浦賦八韻紀異<lb/>
+　　題衡山縣文宣王廟新學堂呈陸宰<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

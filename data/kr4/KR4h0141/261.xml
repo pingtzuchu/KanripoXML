@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_261-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選卷二百六十一<lb/>
+　　瓜類<lb/>
+　　　五言古<lb/>
+　　　　寄姚司馬　　　　　　　　<hi>唐</hi>張　說<lb/>
+　共君春種瓜本期清夏暑瓜成人已去失望將誰語裛<lb/>
+　露摘香園感味懷心許偶逢西風便因之寄鄂渚<lb/>
+　　　　種瓜　　　　　　　　　　<hi>唐</hi>韋應物<lb/>
+<pb n="KR4h0141_WYG_261-1b"/>
+　率性方鹵莽理生尤自疎今年學種瓜園圃多荒蕪衆<lb/>
+　草同雨露新苗獨翳如直以春窘迫過時不得鋤田家<lb/>
+　笑枉費日夕轉空虚信非吾儕事且讀古人書<lb/>
+　　　五言律<lb/>
+　　　　瓜　　　　　　　　　　　<hi>唐</hi>李　嶠<lb/>
+　欲識東陵味青門五色瓜龍蹄逺珠履女臂動金花六<lb/>
+　子方呈瑞三仙實可嘉終朝奉絺綌謁帝佇非賖<lb/>
+　　　　南山下與老圃期種瓜　　　<hi>唐</hi>孟浩然<lb/>
+<pb n="KR4h0141_WYG_261-2a"/>
+樵牧南山近林廬北郭賖先人畱素業老圃作鄰家不<lb/>
+種千株橘惟資五色瓜邵平能就我開徑剪蓬麻<lb/>
+　　　薛氏瓜廬　　　　　　　　<hi>宋</hi>趙師秀<lb/>
+不作封侯念悠然逺世紛惟應種瓜事猶被讀書分野<lb/>
+水多於地春山半是雲吾生嫌已老學圃未如君<lb/>
+　　　題薛景石瓜廬　　　　　　<hi>宋</hi>徐　照<lb/>
+何地有瓜廬平湖四畝餘自鋤畦上草不放手中書人<lb/>
+逺來求字童閒去釣魚山民山上住却羡水邊居<lb/>
+<pb n="KR4h0141_WYG_261-2b"/>
+　　　題薛景石瓜廬　　　　　　<hi>宋</hi>徐　璣<lb/>
+近舍新為圃澆鋤及晚凉因看瓜蔓吐識得道心長隔<lb/>
+沼嘉蔬潔侵畦異草香小舟應買在門外是漁郎<lb/>
+　　七言律<lb/>
+　　　食西瓜　　　　　　　　　<hi>元</hi>方　夔<lb/>
+恨無纎手削駝峰醉嚼寒瓜一百筩縷縷花衫粘唾碧<lb/>
+痕痕丹血掐膚紅香浮笑語牙生水凉入衣襟骨有風<lb/>
+從此安心師老圃青門何處問窮通<lb/>
+<pb n="KR4h0141_WYG_261-3a"/>
+　　　横山下種瓜作　　　　　　<hi>明</hi>王　寵<lb/>
+山田犖确苦多沙學種東陵五色瓜激澗即看穿石竹<lb/>
+挿籬偏自愛藤花囊中未得餐霞法谿上時畱泛海槎<lb/>
+長日輟耕無一事只須牛角挂南華<lb/>
+　　五言絶句<lb/>
+　　　柳枝　　　　　　　　　　<hi>唐</hi>李商隱<lb/>
+嘉瓜引蔓長碧玉冰寒漿東陵雖五色不忍值牙香<lb/>
+　　七言絶句<lb/>
+<pb n="KR4h0141_WYG_261-3b"/>
+　　　致中惠瓜成二絶　　　　　<hi>宋</hi>劉子翬<lb/>
+故人夙有瓜畦約走送筠籃百里間翠甒瓊罌纔一握<lb/>
+極知風味勝黄斑<lb/>
+　　　其二<lb/>
+柘漿澑澑香浮玉蘇水沈沈色弄金那似甘瓜能破暑<lb/>
+一盤霜露沍清襟<lb/>
+　　　夏日田園雜興　　　　　　<hi>宋</hi>范成大<lb/>
+晝出耘田夜績麻邨莊兒女各當家兒童未解供耕織<lb/>
+<pb n="KR4h0141_WYG_261-4a"/>
+　也傍桑隂學種瓜<lb/>
+　　　　西域嘗新瓜　　　　　　　<hi>元</hi>耶律楚材<lb/>
+　西征軍旅未還家六月攻城汗滴沙自愧不才還有幸<lb/>
+　午風凉處剖新瓜<lb/>
+　　　　灤京雜詠　　　　　　　　<hi>元</hi>楊允孚<lb/>
+　雖然玉宇桂無花秋比江南分外嘉絃管畫樓人散去<lb/>
+　舍郎攜妓勸嘗瓜<lb/>
+　　　　剖瓜仕女圖　　　　　　　<hi>元</hi>倪　瓚<lb/>
+<pb n="KR4h0141_WYG_261-4b"/>
+　月彎削破翠團團六月人間風露寒誰覓東陵故侯去<lb/>
+　但知華屋薦金盤<lb/>
+　　　　題畫瓜　　　　　　　　　<hi>明</hi>聶大年<lb/>
+　翠實離離引蔓秋西風凉露滿林丘東門尚有閒田地<lb/>
+　千載何人説故侯<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選巻二百六十一<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

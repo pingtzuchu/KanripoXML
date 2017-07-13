@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3f0020_WYG_026-1a"/>
+欽定四庫全書<lb/>
+欽定儀象考成卷二十六<lb/>
+　月五星相距恒星經緯度表<lb/>
+　　黄道十二宫<hi>赤道度附</hi>
+<pb n="KR3f0020_WYG_026-2a"/>
+　　月五星相距恒星經緯度表<lb/>
+恒星在天各有定位月五星東行過之南北相距一<lb/>
+度以内為犯月距十七分以内五星距三分以内為<lb/>
+凌同度為掩月五星出入黄道不過十度故取黄道<lb/>
+南北十度以内之恒星依黄道次序列為表而以赤<lb/>
+道經緯附之并將赤道歲差列於其下推算之法詳<lb/>
+見考成上編兹不具載<lb/>
+<pb n="KR3f0020_WYG_026-3a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_026-4a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_026-5a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_026-6a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_026-7a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_026-8a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_026-9a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_026-10a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_026-11a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_026-12a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_026-13a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_026-14a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_026-15a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_026-16a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_026-17a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_026-18a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_026-19a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_026-20a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_026-21a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_026-22a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_026-23a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_026-24a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_026-25a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_026-26a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_026-27a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_026-28a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_026-29a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_026-30a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_026-31a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_026-32a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_026-33a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_026-34a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_026-35a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_026-36a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_026-37a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_026-38a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_026-39a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_026-40a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_026-41a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_026-42a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_026-43a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_026-44a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_026-45a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_026-46a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_026-47a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_026-48a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_026-49a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_026-50a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_026-51a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_026-52a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_026-53a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_026-54a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_026-55a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_026-56a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_026-57a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_026-58a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_026-59a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_026-60a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_026-61a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_026-62a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_026-63a"/>
+</p>
+<p>
+<pb n="KR3f0020_WYG_026-64a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3f0020_WYG_026-64b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+欽定儀象考成卷二十六<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

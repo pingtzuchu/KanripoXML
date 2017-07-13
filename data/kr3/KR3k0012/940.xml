@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3k0012_SBCK_940-1a"/>
+太平御覽卷第九百四十<lb/>
+　鱗介部十二<lb/>
+　　瓊魚　横公魚　髮魚　蒱魚<lb/>
+　　印魚　黃魚　寄魚　君魚<lb/>
+　　琵琶魚䟽齒魚　班魚　黄雀魚<lb/>
+　　鷰魚　鳶魚　赤魚　玄魚<lb/>
+　　邵魚　鱬鰗魚　井魚　鏡魚<lb/>
+　　含光魚　<graphic n="KR2875" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2875.png" mimeType="image/png"/>魚　<graphic n="KR3099" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3099.png" mimeType="image/png"/>魚　吹沙魚<lb/>
+　　伏念魚　金石魚　婢屣魚　奴屩魚<lb/>
+　　　魚　銅哾魚　陶魚　石班魚<lb/>
+　　戴星魚　<graphic n="KR3245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3245.png" mimeType="image/png"/>魚　魿魚　織杼魚<lb/>
+　　䱦鯺魚　土奴魚　新婦魚　海稀魚<lb/>
+　　鯤炮魚　鈆刀魚　蝦蟇魚　黿魚<lb/>
+<pb n="KR3k0012_SBCK_940-1b"/>
+　　䑕魚　弓魚　<graphic n="KR3431" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3431.png" mimeType="image/png"/>
+                    <graphic n="KR3246" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3246.png" mimeType="image/png"/>魚　黍魚<lb/>
+　　䱽魚　饋尾魚　土拌魚　髙魚<lb/>
+　　蘆䱐魚　鼉風魚　鯤魚　海鯤魚<lb/>
+　　鮞魚　細赤魚　鰥魚　真魚<lb/>
+　　雞子魚　竹魚　乳穴魚　<graphic n="KR3603" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3603.png" mimeType="image/png"/>魚<lb/>
+　　　　　瓊魚<lb/>
+漢武内傳曰西王母曰仙人上藥有流淵瓊魚<lb/>
+　　　　　横公魚<lb/>
+神異經曰北方荒外有石湖其中有横公魚長七八尺形<lb/>
+狀如鱧而目赤晝則在湖中夜化爲人刺之不入煑之不<lb/>
+死以烏梅二七煑之乃熟食之可以止邪病<hi>玄黄經曰横公魚不可殺</hi>
+<hi>唯加烏梅其氣乃滅</hi>
+　　　　　髮魚<lb/>
+<pb n="KR3k0012_SBCK_940-2a"/>
+魏武四時食制曰髪魚帶髪如婦人白肥無鱗出滇池<lb/>
+　　　　　蒲魚<lb/>
+魏武四時食制曰蒲魚其鱗如粥出郫縣<lb/>
+　　　　　印魚<lb/>
+臨海異物志曰印魚無鱗形似䱜形<hi>音錯</hi>額上四方如印有文<lb/>
+章諸大魚應死者印魚先封之<lb/>
+郭延之述征記曰城陽縣南六里堯母慶都墓廟前一池<lb/>
+魚額間有印文名頰魚非告祠者捕不可得<lb/>
+左思吴都賦曰印龜鱕<hi>音藩</hi>䱜<lb/>
+　　　　　黄魚<lb/>
+吴書曰薛綜上䟽交州刺史朱符多以郷人分作長史強<lb/>
+賦民黄魚一枚稻一斛<lb/>
+劉欣期交州記曰武寜縣秋九月黄魚上化作鶉鳥<lb/>
+<pb n="KR3k0012_SBCK_940-2b"/>
+南方草物狀曰短細黃魚九月中因秋風而變成鶉上團<lb/>
+吏捕取炙食滋味肥羙<lb/>
+南中八郡志曰江岀黄魚魚形頗似鱣骨如葱可食<lb/>
+郭義恭廣志曰揵爲郡𤏡道縣出臑骨黃魚<lb/>
+　　　　　寄魚<lb/>
+沈懐逺南越志曰寄魚長三寸似白魚常附海舩以濟洪<lb/>
+波一曰寄載魚<lb/>
+臨海水土記曰寄度魚長三寸似白魚<lb/>
+　　　　　君魚<lb/>
+沈懷逺南越志曰君魚長三寸背上骨如筆管大者似矛<lb/>
+逢諸細魚及黿腹皆斷之<lb/>
+　　　　　琵琶魚<lb/>
+臨海異物志曰琵琶魚無鱗形如琵琶<lb/>
+<pb n="KR3k0012_SBCK_940-3a"/>
+沈懷逺南越志曰琵琶魚無鱗長二尺形似琵琶故因以<lb/>
+爲名<lb/>
+任昉述異記曰海魚千歳爲劒魚樂魚一名琵琶魚形似<lb/>
+琵琶而喜鳴因以爲名<lb/>
+左思吴都賦曰鮫鯔琵琶<lb/>
+曹毗掦都賦曰魚則琵琶烏賊<lb/>
+　　　　　䟽齒魚<lb/>
+魏武四時食制曰䟽齒魚味如猪魚出東海<lb/>
+潘岳滄海賦曰比目䟽齒<lb/>
+　　　　　班魚<lb/>
+魏武四時食制曰班魚頭中有石如珠出北<lb/>
+郭義恭廣志曰班魚頭中有玉石如珠璣<lb/>
+　　　　　黄雀魚<lb/>
+<pb n="KR3k0012_SBCK_940-3b"/>
+臨海異物志曰黄雀魚常以八月化爲黃雀到十月入海<lb/>
+爲魚<lb/>
+風土記曰六月東南長風俗名黃雀風時海魚化爲黄雀<lb/>
+因爲名也<lb/>
+　　　　　鷰魚<lb/>
+臨海異物志曰鷰魚長五寸隂雨起飛髙丈餘<lb/>
+　　　　鳶魚<lb/>
+臨海異物志曰鳶魚狀如鳶唯無尾足隂雨日亦飛髙數<lb/>
+丈<lb/>
+　　　　　赤魚<lb/>
+魚豢魏略曰文帝欲受禪赤魚逰於露鑊<lb/>
+　　　　　玄魚<lb/>
+王子年拾遺録曰夏鮌理水無功沉於羽川化爲玄魚大<lb/>
+<pb n="KR3k0012_SBCK_940-4a"/>
+千尺後遂死横於河海之間後世聖人以玄魚爲神化之<lb/>
+物以玄字合於魚字爲鮌字<lb/>
+　　　　　邵魚<lb/>
+臨海水土記曰邵魚狀如鳶魚<lb/>
+　　　　　鱬<hi>而朱切</hi>鰗魚<lb/>
+臨海水土記曰鱬鰗魚狀如鳶魚形<lb/>
+　　　　　井魚<lb/>
+臨海異物志曰井魚頭有兩角<lb/>
+　　　　　鏡魚<lb/>
+臨海異物志曰鏡魚如鏡形體薄少肉<lb/>
+　　　　　含光魚<lb/>
+臨海異物志曰含光<hi>魚一</hi>名臈魚黃而羙故謂之臈有光照<lb/>
+燭<lb/>
+<pb n="KR3k0012_SBCK_940-4b"/>
+沈懐逺南越志曰含光謂臈魚正黄而羙故謂爲臈魚夜<lb/>
+則有光<lb/>
+嶺表録異曰黃臈魚即江湖之横魚頭觜長而鱗背金色<lb/>
+南人臠爲炙雖羙而毒或煎<graphic n="KR1572" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1572.png" mimeType="image/png"/>或乾夜即有光如燭<lb/>
+　　　　　<graphic n="KR2875" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2875.png" mimeType="image/png"/>魚<lb/>
+臨海異物志曰<graphic n="KR2875" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2875.png" mimeType="image/png"/>魚如指長七八寸但有脊骨好作羹大<lb/>
+者如竹竿曝作燭極有光明<lb/>
+　　　　　<graphic n="KR3099" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3099.png" mimeType="image/png"/>魚<lb/>
+臨海異物志曰<graphic n="KR3099" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3099.png" mimeType="image/png"/>魚三月生溪中裁長一寸至十月中東<lb/>
+還死於海香氣聞於水上到時月輙復更生<lb/>
+永嘉地記曰石堂水口多<graphic n="KR3099" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3099.png" mimeType="image/png"/>魚<lb/>
+　　　　　吹沙魚<lb/>
+臨海異物志曰吹沙長三寸背上有刺犯之螫人<lb/>
+<pb n="KR3k0012_SBCK_940-5a"/>
+　　　　　伏念魚<lb/>
+臨海水土記曰伏念魚似吹沙魚<lb/>
+　　　　　金石魚<lb/>
+南越記曰金石魚形貟如七寸柈<lb/>
+　　　　　婢屣魚<lb/>
+臨海異物志曰婢屣魚口近腹下形似婦人屣<lb/>
+　　　　　奴屩魚<lb/>
+臨海水土記曰奴屩魚長一尺如屩形<lb/>
+　　　　　　魚<hi>音沃</hi>
+臨海水土記曰　魚似蒲魚長三尺<lb/>
+　　　　　銅哾魚<lb/>
+臨海異物志曰銅哾魚長五寸似鯈魚<lb/>
+　　　　　陶魚<lb/>
+<pb n="KR3k0012_SBCK_940-5b"/>
+臨海水土記曰陶魚長三尺似鱦<hi>音䋲</hi>魚<lb/>
+　　　　　石班魚<lb/>
+臨海水土記曰石班魚媱蟲六蟲爲一<lb/>
+又曰石班魚媱蟲<hi>蝘蝥也<折 t="33"/>魚長尺餘其<折 t="33"/>如虎文俗言蝘蝥於水邊呼之因走上岸合牝其子</hi>
+<hi>不可食也</hi>
+　　　　　戴星魚<lb/>
+臨海水土記曰戴星魚狀如鳶魚背上有兩白璫如指大<lb/>
+因名之云<lb/>
+　　　　　<graphic n="KR3245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3245.png" mimeType="image/png"/>魚<lb/>
+沈懐逺南越志曰<graphic n="KR3245" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3245.png" mimeType="image/png"/>魚似<graphic n="KR3144" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3144.png" mimeType="image/png"/>
+                    <hi>音畢</hi>尾上有刺如欓樹刺也<lb/>
+　　　　　魿魚<hi>音零</hi>
+臨海水土記曰魿魚似䰸魚<lb/>
+異物志曰南方魚多不肥美唯魿魚爲上大者長二尺作<lb/>
+<pb n="KR3k0012_SBCK_940-6a"/>
+膾炙尤香而美<lb/>
+嶺表録異曰魿魚如白魚而身稍短尾不偃清逺江多此<lb/>
+魚盖不産於海也廣人得之多爲膾不腥而美諸魚無以<lb/>
+過也<lb/>
+　　　　　織柕魚<lb/>
+臨海水土記曰織杼魚狀似<graphic n="KR3099" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3099.png" mimeType="image/png"/>魚味美於諸魚<lb/>
+沈懷逺南越志曰織杼魚如真魚背上正青<lb/>
+　　　　　䱦鯺魚<lb/>
+臨海水土記曰䱦鯺形似䱦魚戯於重川靡有定所<lb/>
+　　　　　土奴魚<lb/>
+臨海水土記曰土奴魚頭如虎有刺螫人<lb/>
+　　　　　新婦魚<lb/>
+臨海水土記曰新婦魚似䱦魚長一丈<lb/>
+<pb n="KR3k0012_SBCK_940-6b"/>
+　　　　　海狶魚<lb/>
+臨海水土記曰海狶魚豕頭身長九尺<lb/>
+郭璞江賦曰魚則江豚海狶<lb/>
+曹毗楊都賦曰海狶鯨鱘<lb/>
+　　　　　鯤鮑魚<lb/>
+臨海水土記曰鯤鮑魚似海印魚<lb/>
+　　　　　鈆刀魚<lb/>
+臨海水土記曰鈆刀魚似<hi>鈆刀魚名似<折 t="33"/>魚</hi>
+　　　　　蝦蟇魚<lb/>
+臨海水土記曰蝦蟇魚色如䳒魚頭似蝦蟇尾又似鳶<lb/>
+　　　　　黿魚<hi>音元</hi>
+臨海水土記曰黿魚長五寸<lb/>
+　　　　　䑕魚<lb/>
+<pb n="KR3k0012_SBCK_940-7a"/>
+沈懷逺南越志曰䑕魚頭如䑕<lb/>
+臨海異物記曰䑕魚長七寸頭如䑕<lb/>
+　　　　　弓魚<lb/>
+臨海水土記曰弓魚長三寸似鯢魚<lb/>
+　　　　　<graphic n="KR3431" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3431.png" mimeType="image/png"/>
+                    <graphic n="KR3246" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3246.png" mimeType="image/png"/>魚<lb/>
+臨海水土記曰<graphic n="KR3431" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3431.png" mimeType="image/png"/>
+                    <graphic n="KR3246" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3246.png" mimeType="image/png"/>魚長一尺<lb/>
+　　　　　黍魚<lb/>
+臨海水土記曰黍魚長三尺似　<graphic n="KR1736" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1736.png" mimeType="image/png"/>
+　　　　　䱽魚<hi>音倉</hi>
+臨海水土記曰䱽魚兩肋下有大肉如炙臠大<lb/>
+嶺表録異曰䱽魚形似鯿魚而腔上突起連背而圎身肉<lb/>
+甚厚肉白如　只有一脊骨治之以薑葱缹<hi>音缶也</hi>之粳米<lb/>
+其骨亦軟飱者無所棄鄙俚謂之狗磕睡魚<hi>以其犬在盤下難伺其骨</hi>
+<pb n="KR3k0012_SBCK_940-7b"/>
+<hi>故云狗磕睡魚也</hi>
+　　　　　饋尾魚<lb/>
+南越記曰饋尾魚有毒一名鼈魚<lb/>
+　　　　　土拌魚<lb/>
+臨海水土記曰土拌魚長七寸白黒班文<lb/>
+　　　　　髙魚<lb/>
+異物志曰髙魚與鱒相似與蜥蜴於水上相合常以三二<lb/>
+月中有雌而無雄食其胎殺人<lb/>
+　　　　　蘆䱐<hi>音孚</hi>魚<lb/>
+異物志曰蘆䱐似鰌蝥而有細文多膏肥美大如蘆管夲<lb/>
+出地中隨泉浮岀俗名蘆䱐<lb/>
+沈懷逺南越志曰蘆䱐魚生山曲之間穴地爲窟泉源踊<lb/>
+則此魚出今盧陵以南至于南州有焉俗以爲醬<lb/>
+<pb n="KR3k0012_SBCK_940-8a"/>
+　　　　　鼉風魚<lb/>
+異物志曰冬天此魚數千萬頭共處大窟中藏上有白氣<lb/>
+或在鼉穴中皮黒如<graphic n="KR0238" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0238.png" mimeType="image/png"/>能潜知數里中空木所在因風而<lb/>
+入空木化爲蝙蝠其肉甚美<lb/>
+　　　　　鯤魚<lb/>
+毛詩鷄鳴曰弊笱在梁其魚魴鯤<lb/>
+爾雅曰鯤魚子<hi>凡魚之子緫名鯤</hi>
+又曰鱦小魚<hi>音䋲又孕今江東呼魚子未成者爲䋲也</hi>
+　　　　　海鯤魚<lb/>
+王子年拾遺録曰黒河北極也其水濃黒不流上有黒雲<lb/>
+生焉有黒鯤千尺狀如鯨常飛逰徃於南海<lb/>
+莊子曰北溟有魚其名爲鯤其大不知幾千里<lb/>
+江逌詩曰巨鼇戴蓬萊大鯤運天池倐忽雲雨興俯仰三<lb/>
+<pb n="KR3k0012_SBCK_940-8b"/>
+洲移<lb/>
+孫放詠莊子詩曰巨細同一馬物化無常歸脩鯤解長鱗<lb/>
+鵬起片雲飛撫翼摶積風仰凌垂天翬<lb/>
+袁宏北征賦曰魚託水而成鯤木在山而有松<lb/>
+　　　　　鮞魚<hi>音而</hi>
+吕氏春秋曰魚之美者東海之鮞<lb/>
+張衡西京賦曰巢鯤鮞<hi>鯤魚子也鮞細魚類也</hi>
+　　　　　細赤魚<lb/>
+劉義慶幽冥録曰始興雲水源有湯泉毎至霜雪其上蒸<lb/>
+氣高數十丈泉中常有細赤魚出遊莫有獲者<lb/>
+　　　　　鰥魚<lb/>
+毛詩曰弊笱在梁其魚魴鰥<hi>鰥夫魚也</hi>
+孔叢曰衛人釣於河得鰥其大盈車曰吾下一魴之餌鰥<lb/>
+<pb n="KR3k0012_SBCK_940-9a"/>
+過而不視又以豚之半則呑矣子思曰鰥貪以餌死士貪<lb/>
+以禄死<lb/>
+　　　　　真魚<lb/>
+沈懐逺南越志曰真魚如織紵魚<lb/>
+臨海水土記曰　魚俗謂之猶魚<lb/>
+　　　　　鷄子魚<lb/>
+嶺表録異曰鷄子魚口有觜如鷂肉翅無鱗尾尖而長有<lb/>
+風濤即乗風飛於海上舩稍類鮐鯣魚<lb/>
+　　　　　竹魚<lb/>
+嶺表録異曰竹魚産江溪間形如鱧魚大而少骨青黒色<lb/>
+鱗下間以朱點鬛可翫或烹以爲羮臛　而羙<lb/>
+　　　　　乳穴魚<lb/>
+嶺表録異曰全義嶺之西南有盤龍山山有乳洞斜貫一<lb/>
+<pb n="KR3k0012_SBCK_940-9b"/>
+溪號爲靈水溪<hi>今桂州靈川縣也</hi>溪内有魚皆脩尾四足丹其腹<lb/>
+游泳自若漁人不敢捕之<hi>爾雅云鯢似鮉四足聲如小兒今啇州山溪内亦有此魚謂之納魚</hi>
+　　　　　<graphic n="KR3603" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3603.png" mimeType="image/png"/>魚<lb/>
+臨海水土記曰<graphic n="KR3603" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3603.png" mimeType="image/png"/>魚似鱦魚長二尺<lb/>
+太平御覽卷第九百四十<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

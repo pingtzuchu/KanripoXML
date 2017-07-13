@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2a0029_WYG_090-1a"/>
+　舊五代史巻四十四攷證<lb/>
+唐明宗紀十以端明殿學士尚書兵部侍郎劉昫為中<lb/>
+　書侍郎平章事　案歐陽史劉昫𫝊作長興三年拜<lb/>
+　中書侍郎兼刑部尚書同中書門下平章事與本紀<lb/>
+　繫年先後互異見呉縝纂誤<lb/>
+二月癸丑朔　案上文正月為戊寅朔則二月不得為<lb/>
+　癸丑朔原文疑有舛誤<lb/>
+帝於便殿問范延光内外見管馬數　案錦繡萬花谷<lb/>
+<pb n="KR2a0029_WYG_090-1b"/>
+　引薛史作范延慶疑𫝊冩之訛<lb/>
+以刑部侍郎劉贊為秘書監　刑部侍郎通鑑作兵部<lb/>
+　侍郎歐陽史從是書<lb/>
+以著作佐郎尹拙為左拾遺直史館　案五代會要尹<lb/>
+　拙為左拾遺王慎徽為右拾遺並直史館是書闕載<lb/>
+　王慎徽<lb/>
+戊子帝不豫　案歐陽史本紀十月壬申幸上和亭得<lb/>
+　疾家人𫝊十一月戊子雪明宗幸宫西上和亭得傷<lb/>
+<pb n="KR2a0029_WYG_090-2a"/>
+　寒疾紀𫝊互異見吳縝纂誤<lb/>
+壬辰天下大元帥守尚書令兼侍中秦王從榮領兵陣<lb/>
+　于天津橋内出禁軍拒之從榮敗奔河南府遇害<lb/>
+　案五代春秋作壬午誅從榮蓋𫝊冩之訛歐陽史及<lb/>
+　通鑑並從是書作壬辰<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2a0029_WYG_090-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　舊五代史巻四十四攷證<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

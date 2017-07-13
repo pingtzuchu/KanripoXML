@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>畦樂詩集</head>
+    <p>
+<pb n="KR4e0060_WYG_000-1a"/>
+欽定四庫全書　　　　　集部六<lb/>
+　畦樂詩集　　　　　　　别集類五<hi>明</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案畦樂詩集一巻明梁蘭撰蘭字庭<lb/>
+　　　　秀又字不移泰和人右贊善梁潛之父也隐<lb/>
+　　　　居不仕故以畦樂自號於楊士竒為姻家士<lb/>
+　　　　竒嘗從之學詩此集即士竒所編前有洪武<lb/>
+　　　　三十一年士竒序考士竒所作蘭墓誌稱卒<lb/>
+<pb n="KR4e0060_WYG_000-1b"/>
+　　　　於永樂八年則編此集時蘭猶及見之也舊<lb/>
+　　　　夲列泊菴集後盖用山谷集後附刻伐檀集<lb/>
+　　　　之例今以各自為集仍分著于録原目列古<lb/>
+　　　　今體詩二百三十四首而五言古詩中註闕<lb/>
+　　　　七首實二百二十七首題中有缺字二處詩<lb/>
+　　　　中有缺字二處均無别夲可補今亦仍之士<lb/>
+　　　　竒序稱其志平而氣和識逺而思巧渢渢焉<lb/>
+　　　　穆穆焉簡寂者不失為舒徐踈宕者必歸於<lb/>
+<pb n="KR4e0060_WYG_000-2a"/>
+　　　　雅則優柔而確譏切而婉雖自重其師推重<lb/>
+　　　　不無少溢而於元季繁音曼調之中獨翛然<lb/>
+　　　　存陶韋之致固亦不愧於作者矣乾隆四十<lb/>
+　　　　六年十月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="KR4e0060_WYG_000-3a"/>
+畦樂詩集原序<lb/>
+詩以道性情詩之所以傳也古今以詩名者多矣然三<lb/>
+百篇後得風人之㫖者獨推陶靖節由其冲和雅澹得<lb/>
+性情之正若無意于詩而千古能詩者卒莫過焉故能<lb/>
+輕萬鍾芥千駟翛然物表俯仰無慚豈非足乎已而無<lb/>
+待于外者乎是雖不必以詩名而誦其詩者慨然想見<lb/>
+其為人吾邑畦樂梁先生生元季蚤失怙下董帷設絳<lb/>
+帳資束脩承歡母氏後以二子績學制行膺政教之任<lb/>
+<pb n="KR4e0060_WYG_000-3b"/>
+長歴官翰林春坊次任溧陽學博俱卓有聲望素佩先<lb/>
+生之庭訓者也先生嗜恬澹屢徴不赴就養官舍日與<lb/>
+名公卿稱觴賦詩相樂也已而嘆曰吾二兒頗稱任使<lb/>
+可上報朝廷矣盍求吾之所自樂乎仍歸休栁溪濠梁<lb/>
+之間有畦數畆可耕可桑可漁可釀可濯可蔭獨闢一<lb/>
+軒日督諸孫問學其中人非縫掖士不日來至有慕先<lb/>
+生彛範數來請益者先生弗類倦勤誘以徳義方正於<lb/>
+聖賢之道靡弗貫下至諸子百氏皆約通大要為文章<lb/>
+<pb n="KR4e0060_WYG_000-4a"/>
+尤樂于詩歌天氣爽朗時臨清坐茂望玉華武姥諸峯<lb/>
+謳吟翛翛然以為常蓋先生于詩自三百篇以還若蘇<lb/>
+李枚乘若建安若六朝以及盛唐諸名家無不涵泳融<lb/>
+液如已素有而又志平而氣和識逺而思巧故見諸篇<lb/>
+章渢渢焉穆穆焉簡寂者不失為舒徐疎宕者必歸于<lb/>
+雅則優柔而確譏切而婉先生之于詩可謂至矣然緣<lb/>
+趣而作既罷即棄去間存其藁遇有愛重之者聽持去<lb/>
+不靳故雖詩名聞一時人咸以不得全見為憾士竒自<lb/>
+<pb n="KR4e0060_WYG_000-4b"/>
+幼聆先生之教間記所甞誦記若干篇為一巻嗚呼世之<lb/>
+不攷于古者衆矣先生敦用乎古者雖不獨其詩而所<lb/>
+以名諸人人者亦不待詩顧自有可名者而使聞先<lb/>
+生之名因詩而求之以知其性情之正則是篇烏可少<lb/>
+哉烏可少哉是以僣冒叙之洪武三十一年冬十月既<lb/>
+望婣家生楊士竒叙<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

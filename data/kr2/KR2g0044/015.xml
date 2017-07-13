@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>八旗滿洲氏族通譜目録</head> <lb/>
+    <p>
+<pb n="KR2g0044_WYG_015-1a"/>
+欽定四庫全書<lb/>
+　八旗滿洲氏族通譜目録<lb/>
+　　卷七<lb/>
+　　綏分地方馬佳氏<lb/>
+　　　瑚石　　　　　　　圖海<lb/>
+　　　錫哈巴克什　　　　敦柱<lb/>
+　　　格克特　　　　　　達進<lb/>
+　　　　　以上俱有𫝊<lb/>
+<pb n="KR2g0044_WYG_015-1b"/>
+　　　屯鐸　　　　　　　顧鼐<lb/>
+　　　圖爾巴哈<lb/>
+　　　　　以上俱附載<lb/>
+　　馬佳地方馬佳氏<lb/>
+　　　赫東額　　　　　　郎塞<lb/>
+　　　胡什巴　　　　　　羅爾機<lb/>
+　　　對齊巴　　　　　　阿喜<lb/>
+　　　瑚拉渾　　　　　　羅托<lb/>
+<pb n="KR2g0044_WYG_015-2a"/>
+　　　　　以上俱有𫝊<lb/>
+　　　綽絡　　　　　　　顔布禄<lb/>
+　　　謨庫　　　　　　　訥爾庫噶哈<lb/>
+　　　多齊　　　　　　　音達渾<lb/>
+　　　福當阿　　　　　　恩克<lb/>
+　　　朔色　　　　　　　赫爾素<lb/>
+　　　倭赫徳　　　　　　碩色<lb/>
+　　　額赫訥　　　　　　徳都<lb/>
+<pb n="KR2g0044_WYG_015-2b"/>
+　　　翩翩　　　　　　　偉赫圖<lb/>
+　　　穆哈達<lb/>
+　　　　　以上俱附載<lb/>
+　　各地方馬佳氏<lb/>
+　　　塔蘭珠　　　　　　穆哈連<lb/>
+　　　珠英額　　　　　　尼喀理<lb/>
+　　　德什庫　　　　　　顔泰<lb/>
+　　　蒙武岱<lb/>
+<pb n="KR2g0044_WYG_015-3a"/>
+　　　　　以上俱有𫝊<lb/>
+　　　馬穆敦　　　　　　魯布善<lb/>
+　　　鈕赫　　　　　　　輝瑚魯<lb/>
+　　　莽吉圖　　　　　　托吉納<lb/>
+　　　吳爾漢　　　　　　阿瑚穆<lb/>
+　　　隆什瑚　　　　　　烏克星額<lb/>
+　　　馬爾哈齊　　　　　席本<lb/>
+　　　瑚秦　　　　　　　金泰<lb/>
+<pb n="KR2g0044_WYG_015-3b"/>
+　　　庫庫　　　　　　　哈山<lb/>
+　　　勒貝　　　　　　　富塔<lb/>
+　　　丹巴禄　　　　　　敦多<lb/>
+　　　瓦爾達　　　　　　錫喇巴<lb/>
+　　　兆山　　　　　　　阿爾本<lb/>
+　　　博絡　　　　　　　瑚什巴<lb/>
+　　　舒穆喀努　　　　　班第<lb/>
+　　　達海　　　　　　　懷班<lb/>
+<pb n="KR2g0044_WYG_015-4a"/>
+　　　阿林達　　　　　　英額<lb/>
+　　　瑚清額　　　　　　薩穆哈<lb/>
+　　　馬成闗　　　　　　烏喀<lb/>
+　　　都爾班　　　　　　馬錫納<lb/>
+　　　庫尼堪　　　　　　圖爾哈<lb/>
+　　　艾必達　　　　　　鄂鼐<lb/>
+　　　圖克善　　　　　　馬達<lb/>
+　　　常𤦺<lb/>
+<pb n="KR2g0044_WYG_015-4b"/>
+　　　　　以上俱附載<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

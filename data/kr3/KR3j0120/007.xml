@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3j0120_WYG_007-1a"/>
+　原䟦<lb/>
+　右宻齋筆記别經史本朝文藝雜書釐為五卷續記<lb/>
+　一巻先公易班東歸晚年著此比鋟梓家塾而字小<lb/>
+　不便老眼舛誤未暇考訂奕楙挈來臨汝欲刻置郡<lb/>
+　齋廼是正魚魯其間至有脫簡者亦復增補使備始<lb/>
+　得為善本一夕夢先公若有喜色謂奕楙曰汝日所<lb/>
+　為吾從旁覘之行又往婺女矣盖大卿兄守婺故也<lb/>
+　嗚呼先公歿六年而精爽炯然託諸夢以詔諸孤一<lb/>
+<pb n="KR3j0120_WYG_007-1b"/>
+　舉措頃在其左右顧不肖何以稱塞惟戰戰兢兢是<lb/>
+　戒是懼而已既刋此書屬兩倅題巻末輙復記此時<lb/>
+　寳祐丙辰孟秋中澣男奉議郎權知撫州軍州兼管<lb/>
+　内勸農營田事節制軍馬奕楙百拜書<lb/>
+　昔歐陽公著歸田録范蜀公作東齋記事皆在辭蟬<lb/>
+　捨冕後盖前軰於文章翰墨若飢食渴飲未嘗一日<lb/>
+　廢非有老壯之分仕止之間也宻齋先生年六十有<lb/>
+　三即弭節杜門淡然無營惟耽玩書史逺紹旁搜今<lb/>
+<pb n="KR3j0120_WYG_007-2a"/>
+　觀筆記一書如武庫乍開戈矛劒㦸犀利森列使人<lb/>
+　毛髮竦竪非胷次千古筆力萬鈞疇克爾歟其視歐<lb/>
+　范二公風流藴藉相似也臨川使君一日出示家集<lb/>
+　且病舊板漫漶字有脫誤將屬太史王公是正之别<lb/>
+　鋟之梓方動念間忽夢宻齋如平生是知公於斯文<lb/>
+　雖神逰八極未能忘情嗚呼其精爽豈不可敬畏哉<lb/>
+　漢韋賢父子以明經位宰相時人為之語曰遺子黄<lb/>
+　金滿籯不如教子一經今宻齋獨以文印傳子孫而<lb/>
+<pb n="KR3j0120_WYG_007-2b"/>
+　使君又克成先志是亦韋氏一經之教由此觀之君<lb/>
+　家之福未艾也寳祐丙辰季夏朔日通直郎通判撫<lb/>
+　州軍州兼管内勸農營田事成公䇿識<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

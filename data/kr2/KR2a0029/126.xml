@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2a0029_WYG_126-1a"/>
+　舊五代史巻六十二攷證<lb/>
+唐列𫝊十四孟方立𫝊方立見潞帥交代之際乘其無<lb/>
+　備率戍兵徑入潞州自稱留後　案舊唐書僖宗紀<lb/>
+　九月髙潯牙将劉廣擅還潞州是月潯天井闗戍将<lb/>
+　攻廣殺之自稱留後與是書異<lb/>
+張文禮𫝊文禮病疽腹及聞史建瑭攻下趙州驚悸而<lb/>
+　卒　案文禮之卒遼史太祖紀作五月丁未與是書<lb/>
+　作八月異<lb/>
+<pb n="KR2a0029_WYG_126-1b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　舊五代史巻六十二攷證<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

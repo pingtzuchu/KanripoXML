@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>呉中水利書</head>
+    <p>
+<pb n="KR2k0061_WYG_000-1a"/>
+欽定四庫全書　　　　　史部十一<lb/>
+　呉中水利書　　　　　　地理類四<hi>河渠之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案呉中水利書一卷宋單鍔撰鍔字<lb/>
+　　　　季隠宜興人嘉祐四年進士歐陽修知舉時<lb/>
+　　　　所取士也得第以後不就官獨留心於呉中<lb/>
+　　　　水利嘗獨乗小舟往來於蘇州常州湖州之<lb/>
+　　　　間經三十年凡一溝一瀆無不周覽其源流<lb/>
+<pb n="KR2k0061_WYG_000-1b"/>
+　　　　考究其形勢因以所閲歴著為此書元祐六<lb/>
+　　　　年蘇軾知杭州日嘗為狀進於朝會軾為李<lb/>
+　　　　定舒亶所劾逮赴御史臺鞫治其議遂寢明<lb/>
+　　　　永樂中夏原吉疏呉江水門濬宜興百瀆正<lb/>
+　　　　統中周忱修築溧陽二壩皆用鍔説嘉靖中<lb/>
+　　　　歸有光作呉中水利書則稱治太湖不若治<lb/>
+　　　　松江鍔欲修五堰開夾苧干瀆以截西來之<lb/>
+　　　　水使不入太湖不知揚州藪澤天所以瀦東<lb/>
+<pb n="KR2k0061_WYG_000-2a"/>
+　　　　南之水也水為民之害亦為民之利今以人<lb/>
+　　　　力遏之就使太湖乾枯於民豈為利哉其説<lb/>
+　　　　特與鍔異嵗月綿邈陵谷亦久遷改形勢今<lb/>
+　　　　古異宜各據所見以為論要之舊法未可全<lb/>
+　　　　執亦未可全廢在隨時消息之耳蘇軾進書<lb/>
+　　　　狀載東坡集五十九卷中此書即附其後書<lb/>
+　　　　中有併圖以進之語軾於其上加貼黄云其<lb/>
+　　　　圖畫得草略未敢進上乞下有司計㑹單鍔<lb/>
+<pb n="KR2k0061_WYG_000-2b"/>
+　　　　别畫後列九條即其圖目此本刪此貼黄惟<lb/>
+　　　　存别畫二字自為一行蓋此書久無專刻志<lb/>
+　　　　書從東坡集中録出此本又從志書中録出<lb/>
+　　　　故輾轉舛漏如是也至貼黄後五堰水利一<lb/>
+　　　　篇刻東坡集者誤以標題聫為正文遂無端<lb/>
+　　　　緒則宜以此本為是焉乾隆四十六年十月<lb/>
+　　　　恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+<pb n="KR2k0061_WYG_000-3a"/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

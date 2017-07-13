@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>合訂刪補大易集義粹言</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　　經部一<lb/>
+　合訂刪補大易集義粹言　易類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案合訂刪補大易集義粹言八十卷<lb/>
+　　　國朝納喇性徳編性徳字容若正黄旗滿洲康<lb/>
+　　　　熙進士官至頭等侍衛是書乃性徳取宋陳<lb/>
+　　　　友文大易集義曽穜大易粹言二書而合輯<lb/>
+　　　　之者也友文書本六十四卷所集諸儒之説<lb/>
+<pb n="1b"/>
+　　　　凡十八家又失姓名兩家穜書本七十卷所<lb/>
+　　　　集諸儒之説凡七家以二書相校複重外集<lb/>
+　　　　義視粹言實多得十一家惟粹言有繫辭説<lb/>
+　　　　卦序卦襍卦而集義止於上下經故所引未<lb/>
+　　　　能賅備性徳因於十一家書中擇其講論繫<lb/>
+　　　　辭以下相發明者一一采集與粹言合編都<lb/>
+　　　　為一書又為之刪其繁蕪補其闕漏勒成八<lb/>
+　　　　十卷刋入通志堂經解之末今粹言尚有𫝊<lb/>
+<pb n="2a"/>
+　　　　本已著於録集義流播較稀惟藉此以獲見<lb/>
+　　　　其槩其中理數兼陳不主一説而宋代諸儒<lb/>
+　　　　之微言精義實已蒐採無遺朱彞尊嘗謂其<lb/>
+　　　　擇言精語焉詳庶幾有大醇而無小疵雖揄<lb/>
+　　　　揚不無稍溢要其網羅排比釐然有章實便<lb/>
+　　　　於後學之循覽固可與本書並行而不廢也<lb/>
+　　　　乾隆四十六年二月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+<pb n="2b"/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

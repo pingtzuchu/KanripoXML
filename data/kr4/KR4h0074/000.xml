@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>瀛奎律髓</head>
+    <p>
+<pb n="KR4h0074_WYG_000-1a"/>
+欽定四庫全書　　　　　集部八<lb/>
+　瀛奎律髓　　　　　　　總集類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案瀛奎律髓四十九巻元方回編回<lb/>
+　　　　所著續古今考已别著録是書兼選唐宋二<lb/>
+　　　　代之詩分四十九類所録皆五七言近體故<lb/>
+　　　　名律髓自序謂取十八學士登瀛洲五星聚<lb/>
+　　　　奎之義故曰瀛奎大㫖排西崑而主江西倡<lb/>
+<pb n="KR4h0074_WYG_000-1b"/>
+　　　　為一祖三宗之説一祖者杜甫三宗者黄庭<lb/>
+　　　　堅陳師道陳與義也其説以生硬為徤筆以<lb/>
+　　　　粗豪為老境以煉字為句眼頗不諧於中聲<lb/>
+　　　　其去取之間如杜甫秋興惟選第四首之類<lb/>
+　　　　亦多不可解然宋代諸集不盡流傳於今者<lb/>
+　　　　頗賴以存而當時遺聞舊事亦往往見於其<lb/>
+　　　　註故厲鶚作宋詩紀事所采最多其議論亦<lb/>
+　　　　頗有可取者故亦未能竟廢之此書世有二<lb/>
+<pb n="KR4h0074_WYG_000-2a"/>
+　　　　本一為石門吳之振所刋前載龍遵叙述傳<lb/>
+　　　　授源流至詳一為蘇州陳士泰所刋於原註<lb/>
+　　　　多所刪削其龍遵原序亦併刪之校讐舛駁<lb/>
+　　　　殊不勝乙之振切譏之殆未可謂之已甚焉<lb/>
+　　　　乾隆四十三年三月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="KR4h0074_WYG_000-3a"/>
+瀛奎律髓原序<lb/>
+瀛奎律髓四十九巻宋紫陽方虛谷先生之所編選予<lb/>
+蚤年嘗聞是編不獲一覩天順甲申叨守新安實先生<lb/>
+鄉郡因捜訪得其傳録全本間有舛訛卒無善夲校正<lb/>
+之續又得定宇陳先生手自抄本共十類定宇自識云<lb/>
+惟節序類得虛谷親校本抄之餘皆傳録本疑誤甚多<lb/>
+雖間可是正而不能盡圈點悉謹依之遂以其本與先<lb/>
+所得本參對之無大差異者苐惜不得全編通校之於<lb/>
+<pb n="KR4h0074_WYG_000-3b"/>
+是又徧訪郡之儒者因得各家所藏抄本讀之亦率多<lb/>
+殘缺脫落得此遺彼遂㑹取諸本通參訂之舛訛者是<lb/>
+正圈點一依先本為定然後是編始獲復全而虛谷編<lb/>
+選之志亦庶㡬其不終泯嗟夫以定宇去虛谷時猶未<lb/>
+逺而是編已不可得其全矣今一旦得之又何其幸耶<lb/>
+先生自序謂詩之精者為律今觀其所選之精嚴所評<lb/>
+之當切涵泳而雋永之古人作詩之法詎復有餘藴哉<lb/>
+誠所謂律髓也故不敢私之於己敬夀諸梓以廣其傳<lb/>
+<pb n="KR4h0074_WYG_000-4a"/>
+但巻帙浩繁傳録之誤陶而隂亥而豕者不能無也四<lb/>
+方博學君子幸共鑒而正之成化三年龍集丁亥六月<lb/>
+下澣皆春居士識<lb/>
+瀛者何十八學士登瀛洲也奎者何五星聚奎也律者<lb/>
+何五七言之近體也髓者何非得皮得骨之謂也斯登<lb/>
+也斯聚也而後八代五季之文弊革也文之精者為詩<lb/>
+詩之精者為律所選詩格也所註詩話也學者求之髓<lb/>
+由是可得也方囘者誰家於歙嘗守睦其字萬里也至<lb/>
+<pb n="KR4h0074_WYG_000-4b"/>
+元癸未良月旦日紫陽虚谷居士方囘撰<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　瀛奎律髓原序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

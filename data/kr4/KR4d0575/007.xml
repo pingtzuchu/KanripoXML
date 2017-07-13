@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4d0575_SBCK_007-1a"/>
+天河之水清且漪雲林泚筆寫<lb/>
+新詩当時碌碌者餘子上與陶<lb/>
+謝同襟期騷壇荒玄遺編玄海<lb/>
+底珊瑚发光彩商彛周䁀三千<lb/>
+秊制度天全人莫改春林啾啾<lb/>
+喧百禽而獨重此　業當　業<lb/>
+　徹　難續老我臨風試一金<lb/>
+<pb n="KR4d0575_SBCK_007-1b"/>
+　蹇共朝陽将以雲林詩繡<graphic n="KR0922" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0922.png" mimeType="image/png"/>
+　間以才予因綴数韻以賛之<lb/>
+　天順四年前進士户部郎<lb/>
+　中同郡卞榮淺<lb/>
+<pb n="KR4d0575_SBCK_007-2a"/>
+雲林诗集後序<lb/>
+世之人殁齒無聞者盖多矣然<lb/>
+有以道德着功名顯文章鳴挺<lb/>
+然岀扵類者焉道德尚矣未昜<lb/>
+及也功名則隨扵世用诗律亦<lb/>
+文章流進不遇扵時退而因其<lb/>
+才之髙下或績文或綴诗或攻<lb/>
+<pb n="KR4d0575_SBCK_007-2b"/>
+詞翰染畫雖不逮建功業皆足<lb/>
+以有稱扵世漢唐宋之偉人碩<lb/>
+士不暇及　前元雲林倪先生<lb/>
+瓉遭世之季知其不可為也因<lb/>
+放跡扵山水寓情扵诗畫才髙<lb/>
+一代人皆知重之今其殁且百<lb/>
+秊遺墨之或存者咸膾炙扵人<lb/>
+<pb n="KR4d0575_SBCK_007-3a"/>
+口金玉扵當世功名佀未多讓<lb/>
+視殁世無聞者盖倍簁無筭矣<lb/>
+予曽大父西溪翁至正間與同<lb/>
+里彛齋王先生鶴溪張先生齊<lb/>
+稱扵時雲林恒往来荆溪交谊<lb/>
+旣洽題詠最多彛齋之季文静<lb/>
+號梅西舊蔵雲林集其孫㬌昇<lb/>
+<pb n="KR4d0575_SBCK_007-3b"/>
+近出而輯之予淂覧焉不勝追<lb/>
+歎然慮謄繕久将　譌而廢因<lb/>
+命工鳩<graphic n="KR0922" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0922.png" mimeType="image/png"/>用夀其傳且求詞林<lb/>
+宿學诗壇宗<graphic n="KR0576" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0576.png" mimeType="image/png"/>序其首而賛其<lb/>
+末庶乎先生之名扵是益着云<lb/>
+樂正老人荆南蹇曦朝陽識<lb/>
+<pb n="KR4d0575_SBCK_007-4a"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

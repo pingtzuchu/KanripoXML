@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>周易筮述</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　　經部一<lb/>
+　周易筮述　　　　　　　易𩔖<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案周易筮述八卷<lb/>
+　　　國朝王宏撰撰宏撰字無異號山史華陰人康<lb/>
+　　　　熙己未薦舉博學鴻詞宏撰以朱子謂易本<lb/>
+　　　　卜筮之書故作此編以述其義其卷一曰原<lb/>
+　　　　筮曰筮儀曰蓍數筮儀本朱子並叅以汴水<lb/>
+<pb n="1b"/>
+　　　　趙氏其卷二曰揲法其卷三曰變占尊聖經<lb/>
+　　　　黜易林稽之左𫝊與朱子大同小異其卷四<lb/>
+　　　　曰九六曰三極曰中爻中爻即互體其卷五<lb/>
+　　　　曰卦徳曰卦象曰卦氣卦氣本邵子朱子并<lb/>
+　　　　附太乙秘要其卷六曰卦辭其卷七曰左𫝊<lb/>
+　　　　國語占曰餘論其卷八曰推驗采之陸氏其<lb/>
+　　　　涉於太異可駭者弗載其書雖専為筮蓍而<lb/>
+　　　　設而大㫖闢焦京之術闡文周之理悉推本<lb/>
+<pb n="2a"/>
+　　　　於經義較之方技小數固區以别焉乾隆四<lb/>
+　　　　十六年五月恭校上<lb/>
+　　　　　　　總纂宦<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="3a"/>
+周易筮述原序<lb/>
+易者天也筮者人也伏羲文王周公言天孔子言人葢<lb/>
+易至孔子而正徳之事備則莫備於筮筮者和順於道<lb/>
+徳而理於義窮理盡性以至於命之學也學之不講而<lb/>
+但求之吉凶於是以朱子謂易本卜筮之書為淺之乎<lb/>
+言易不知伏羲示象文王於蒙比𤼵初筮原筮之義周<lb/>
+公於革𤼵未占有孚之義至孔子作大𫝊无非𤼵象占<lb/>
+之義其在論語引恒九三之辭而曰不占是以易為卜<lb/>
+<pb n="3b"/>
+筮乃朱子之所以考諸聖人而不謬者也書建稽疑五<lb/>
+謀而卜筮居其二記曰疑而筮之則弗非也日而行事<lb/>
+則必踐之聖人之以卜筮為敎也觀象玩辭觀變玩占<lb/>
+顯諸仁藏諸用人事盡而天道協夫豈苟而已哉自焦<lb/>
+贑出而聖人隱自易林出而聖人之言隱京房管輅郭<lb/>
+璞輩繼之而相天相地相人之術百家雜起言易者日<lb/>
+紛去易日逺詭僻誕怪求知所不可知而道徳性命之<lb/>
+事荒矣故予責亂易之罪以贑為首太𤣥元包潛虚皇<lb/>
+<pb n="4a"/>
+極篇之作皆思以私智自見用三用五用七用九卒失<lb/>
+其自然又或飾以古文竒字以是求天人之合亦徒勞<lb/>
+矣近世之深於易者推韓恭簡公其著易占經緯兼用<lb/>
+易林予為是書必黜易林惟奉周易之辭而揲蓍之法<lb/>
+則以啓蒙之所定者為主竊慨夫以聖人之道而流於<lb/>
+術也舉焦京管郭一切可驚可疑之事附㑹之説概擯<lb/>
+之即所傳邵子前知其不以蓍得者亦无取焉乃知程<lb/>
+子所謂與堯夫同里居三十餘年无所不問而獨未及<lb/>
+<pb n="4b"/>
+數者其言非漫然也燕處一齋屏去百慮曠視古今洞<lb/>
+徹物我本朱子之説以上溯四聖人之㫖曉然於天地<lb/>
+變化之神陰陽消長之妙决嫌疑定猶豫正言斷辭莫<lb/>
+非敎戒使之不迷於吉凶悔吝之途而適乎仁義中正<lb/>
+之歸而胡氏所謂朱子於易學為金聲玉振者可以俟<lb/>
+諸百世而不惑矣其末或有一二端之不合葢心之所<lb/>
+見不敢自匿而隨響遂影以冀貌於學者之虚名也然<lb/>
+與經傳之言則無不合焉庻幾後有知者亦可以告無<lb/>
+<pb n="5a"/>
+罪矣雲臺後學王宏撰自序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

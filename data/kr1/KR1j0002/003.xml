@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="1a"/>
+<hi>小跽</hi>矏密也<hi>謂緻/密</hi>開闢也<hi>書曰闢/四門</hi>袍襺也<hi>左傳曰重/襺衣裘</hi>障畛也<hi>謂壅障</hi>靦<lb/>
+姡也<hi>面姡然</hi>鬻糜也<hi>淖/糜</hi>舒緩也<hi>謂遲/緩</hi>翢纛也<hi>今之羽葆幢</hi>纛翳也<lb/>
+<hi>舞者所以自蔽翳</hi>隍壑也<hi>城池空/者爲壑</hi>芼搴也<hi>謂拔/取菜</hi>典經也威則也<hi>威儀可法則</hi>苛妎也<hi>煩苛者多嫉妎</hi>芾小也<hi>芾者/小貌</hi>迷惑也狃復也<hi>狃<graphic n="KR1016" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1016.png" mimeType="image/png"/>復爲</hi>逼迫也般<lb/>
+還也<hi>左傳曰般馬之聲</hi>班賦也<hi>謂布/與</hi>濟渡也濟成也濟益也<hi>所以廣異訓各隨事爲義</hi>緍綸也<hi>詩曰維絲伊緍緡/繩也江東謂之綸</hi>辟歷也<hi>未/詳</hi>漦盝也<hi>漉漉出涎沫</hi>寛綽也<lb/>
+<hi>謂寛𥙿也</hi>衮黻也<hi>衮衣有/黻文</hi>華皇也<hi>釋草曰/葟華榮</hi>昆後也<hi>謂先後方俗語</hi>彌終也<lb/>
+<hi>终竟也</hi>
+釋訓第三<lb/>
+明明斤斤察也<hi>皆聦明鑒察</hi>條條秩秩智也<hi>皆智思深長</hi>穆穆肅肅<lb/>
+<pb n="1b"/>
+敬也<hi>皆容儀謹敬</hi>諸諸便便辯也<hi>皆言辭/辯給</hi>肅肅翼翼恭也<hi>皆恭敬</hi>
+廱廱優優和也<hi>皆和樂</hi>兢兢憴憴戒也<hi>皆戒愼</hi>戰戰蹌蹌<lb/>
+動也<hi>皆恐動趨歩</hi>晏晏温温柔也<hi>皆和/柔</hi>業業翹翹危也<hi>皆懸危</hi>惴<lb/>
+惴憢憢懼也<hi>皆危懼</hi>番番矯矯勇也<hi>皆壯勇之貌</hi>桓桓烈烈威<lb/>
+也<hi>皆嚴猛之貌</hi>洸洸赳赳武也<hi>皆果毅/之貌</hi>藹藹濟濟止也<hi>皆賢士盛多之容止</hi>
+悠悠洋洋思也<hi>皆憂思</hi>蹶蹶踖踖敏也<hi>皆便速敏捷</hi>薨薨増増<lb/>
+衆也<hi>皆衆夥之貌</hi>烝烝遂遂作也<hi>皆物盛興/作之貌</hi>委委佗佗美也<hi>皆佳麗美豔之貌</hi>忯忯惕惕愛也<hi>詩云心焉惕惕韓詩以爲恱人故言愛也忯忯未詳</hi>偁偁格格舉也<lb/>
+<hi>皆舉持物</hi>蓁蓁孽孽戴也<hi>皆頭/戴物</hi>懕懕媞媞安也<hi>皆好人安詳之容</hi>祁<lb/>
+祈遟遟徐也<hi>皆安徐</hi>丕丕簡簡大也<hi>皆多/大</hi>存存萌萌在也<hi>萌萌<pb n="2a"/>未見所出</hi>懋懋慔慔勉也<hi>皆自/勉強</hi>庸庸慅慅勞也<hi>皆劬勞也</hi>赫赫躍<lb/>
+躍迅也<hi>皆盛疾之貌</hi>綽綽爰爰緩也<hi>皆寛緩也悠悠偁偁丕丕簡簡存存懋懋庸庸綽綽盡重語</hi>坎<lb/>
+坎墫墫喜也<hi>皆鼓無懽喜</hi>瞿瞿休休儉也<hi>皆良士節儉</hi>旭旭蹻蹻憍<lb/>
+也<hi>皆小人得志憍蹇之貌</hi>夢夢訰訰亂也<hi>皆闇/亂</hi>懪懪邈邈悶也<hi>皆煩悶</hi>儚<lb/>
+儚洄洄惛也<hi>皆迷惛</hi>版版盪盪僻也<hi>皆邪/僻</hi>爞爞炎炎薰也<hi>皆旱熱薫炙人</hi>居居究究惡也<hi>皆相/憎惡</hi>仇仇敖敖傲也<hi>皆傲慢賢者</hi>佌佌瑣瑣<lb/>
+小也<hi>皆才器細陋</hi>悄悄慘慘愠也<hi>皆賢人/愁恨</hi>痯痯瘦瘦病也<hi>皆賢人失志懷憂病也</hi>殷殷惸惸忉忉慱慱欽欽京京忡忡惙惙怲怲<lb/>
+弈弈憂也<hi>此皆作者歌事以詠心憂</hi>畇畇田也<hi>言墾/辟也</hi>畟畟耜也<hi>言嚴利</hi>郝郝耕<lb/>
+也<hi>言土解</hi>繹繹生也<hi>言種/調</hi>穟穟苗也<hi>言茂/好也</hi>緜緜穮也<hi>言芸精</hi>挃挃穫<lb/>
+<pb n="2b"/>
+也<hi>刈禾聲</hi>栗栗衆也<hi>積聚/緻</hi>溞溞淅也<hi>洮米/聲</hi>烰烰烝也<hi>氣出盛</hi>俅俅<lb/>
+服也<hi>謂戴弁服</hi>峨峨祭也<hi>謂執圭/璋助祭</hi>鍠鍠樂也<hi>鐘鼓/音</hi>穰穰福也<hi>言饒多</hi>
+子子孫孫引無極也<hi>丗丗昌盛長無窮</hi>顒顒卬卬君之德也<hi>道君人者之德望</hi>丁丁嚶嚶相切直也<hi>丁丁斫木聲嚶嚶兩鳥鳴以喻朋友切磋相正</hi>藹藹萋萋臣<lb/>
+盡力也<hi>梧桐茂賢士衆地極化臣竭忠</hi>噰噰喈喈民協服也<hi>鳯凰應徳鳴相和百姓懷附興頌歌</hi>佻<lb/>
+佻契契愈遐急也<hi>賦役不均小國困竭賢人憂歎逺益急切</hi>宴宴粲粲尼居息<lb/>
+也<hi>盛飾宴安近處優閑</hi>哀哀悽悽懐報德也<hi>悲苦征役思所生也</hi>儵儵嘒嘒罹禍<lb/>
+毒也<hi>悼王道穢塞羡蟬鳴自得傷已失所遭䜛賊</hi>晏晏旦旦悔爽忒也<hi>傷見絶弃恨士失也</hi>皐皐<lb/>
+㻆㻆刺素食也<hi>譏無功德尸寵禄也</hi>懽懽愮愮憂無告也<hi>賢者憂懼無所訴也</hi>憲<lb/>
+憲洩洩制法則也<hi>佐興虐政設敎今也</hi>謔謔謞謞崇讒慝也<hi>樂禍助虐増譛惡也</hi>
+<pb n="3a"/>
+翕翕訿訿莫供職也<hi>賢者陵替姦黨熾背公恤私曠職事</hi>速速蹙蹙惟逑鞫<lb/>
+也<hi>陋人專禄國侵削賢士永哀念窮迫</hi>抑抑密也<hi>威儀/審諦</hi>秩秩淸也<hi>德音淸泠</hi>甹夆掣曵<lb/>
+也<hi>謂牽拕</hi>朔北方也<hi>謂幽/朔</hi>不俟不來也<hi>不可待是/不復來</hi>不遹不蹟也<hi>言不循軌跡也</hi>不徹不道也<hi>徹亦/道也</hi>勿念勿忘也<hi>勿念/念也</hi>萲諼忘也<hi>義見伯兮考盤詩</hi>毎<lb/>
+有雖也<hi>詩曰毎有良朋辭之雖也</hi>饎酒食也<hi>猶今云饎饌皆/一語而兼通</hi>舞號雩也<hi>雩之祭舞者吁嗟而請雨</hi>曁不及也<hi>公羊傳曰及我欲之曁不/得巳曁不得巳是不得及</hi>蠢不遜也<hi>蠢動爲惡不謙遜也</hi>
+如切如磋道學也<hi>骨象須切磋而为器人須學問以成徳</hi>如琢如磨自脩也<hi>玉石之被雕磨猶人自脩飾</hi>瑟兮僩兮恂慄也<hi>恒戰/竦</hi>赫兮烜兮威儀也<hi>貌光宣</hi>有斐君<lb/>
+子終不可諼兮<hi>斐文貌</hi>道盛德至善民之不能忘也<hi>常思詠</hi>旣微<lb/>
+且尰骭瘍爲微腫足爲尰<hi>骭脚脛瘍瘡</hi>是刈是穫鑊煑之也<hi>煑葛<pb n="3b"/>爲絺綌</hi>履帝武敏武迹也敏拇也<hi>拇迹大/指處</hi>張仲孝友<hi>周宣王時賢臣</hi>善<lb/>
+父母爲孝善兄弟爲友有客宿宿言再宿也有客信信<lb/>
+言四宿也<hi>再宿爲信重言之故知四宿</hi>美女爲媛<hi>所以結/好媛</hi>美士爲彦<hi>人所彦詠</hi>其<lb/>
+虚其徐威儀容止也<hi>雍容都雅之貌</hi>猗嗟名兮目上爲名<hi>眉眼之閒</hi>式<lb/>
+微式微者微乎微者也<hi>言至微</hi>之子者是子也<hi>斥所詠</hi>徒御不驚<lb/>
+輦者也<hi>歩挽輦車</hi>襢裼肉袒也<hi>脫衣而/見體</hi>暴虎徒搏也<hi>空手執也</hi>馮河徒<lb/>
+渉也<hi>無舟楫</hi>籧篨口柔也<hi>籧篨之疾不能俯口柔之人視人顔色常亦不伏因以名云</hi>戚施面柔也<lb/>
+<hi>戚施之疾不能仰面柔之人常俯似之亦以名云</hi>夸毗體柔也<hi>屈己卑身以/柔順人也</hi>婆娑舞也<hi>舞者之容</hi>
+擗拊心也<hi>謂椎胷也</hi>矜憐撫掩之也<hi>撫掩猶撫拍/謂慰恤也</hi>緎羔裘之縫也<hi>縫飾羔皮之名</hi>殿屎呻也<hi>呻吟/之聲</hi>幬謂之帳<hi>今江東亦/謂帳爲幬</hi>侜張誑也<hi>書曰無或侜張爲幻</hi>
+<pb n="1a"/>
+爾雅音釋卷下<lb/>
+釋草第十三<lb/>
+蒮<hi>育</hi>韭<hi>九</hi>茖<hi>革</hi>葱<hi>忩</hi>葝<hi>巨盈</hi>䪥<hi>薤</hi>蒚<hi>力</hi>薜<hi>百</hi>蘄<hi>芹</hi>椵<hi>叚</hi>堇<hi>謹</hi>櫬<hi>襯</hi>
+薊<hi>計</hi>枹<hi>孚</hi>葥<hi>箭</hi>蔧<hi>邃</hi>菉<hi>緑</hi>蔏<hi>啇</hi>藋<hi>徒的</hi>蘩<hi>煩</hi>皤<hi>婆</hi>菣<hi>去/刄</hi>蔚<hi>尉</hi>
+                    <graphic n="KR2356" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2356.png" mimeType="image/png"/>
+                    <hi>方寐</hi>
+莞<hi>官</hi>菥<hi>惜</hi>蓂<hi>覓</hi>蒤<hi>途</hi>瓠<hi>戸故</hi>瓣<hi>方/莧</hi>茹<hi>如</hi>藘<hi>力/居</hi>臝<hi>力/果</hi>萑<hi>隹</hi>蓷<hi>他回</hi>虉<hi>逆</hi>
+粢<hi>咨</hi>衆<hi>終</hi>秫<hi>述</hi>菽<hi>叔</hi>萒<hi>恱轉</hi>蘥<hi>藥</hi>蘾<hi>戸怪</hi>薞<hi>孫</hi>萰<hi>練</hi>菟<hi>兔</hi>荄<hi>核</hi>蒵<hi>兮</hi>
+蔩<hi>演</hi>茢<hi>列</hi>薽<hi>眞</hi>豕<hi>傷氏</hi>荓<hi>瓶</hi>藱<hi>胡/罪</hi>葖<hi>他/忽</hi>蘆<hi>羅</hi>萉<hi>蒲北</hi>淔<hi>勑</hi>苬<hi>囚</hi>簜<hi>蕩</hi>
+苨<hi>禰</hi>菧<hi>底</hi>絰<hi>侍節</hi>菅<hi>姦</hi>菲<hi>匪</hi>芴<hi>物</hi>葍<hi>福</hi>䔰<hi>富</hi>萎<hi>威</hi>葋<hi>劬</hi>艼<hi>他丁</hi>熒<hi>廻</hi>
+萹<hi>匹善</hi>葴<hi>針</hi>薢<hi>皆</hi>茩<hi>狗</hi>芵<hi>決</hi>茪<hi>光</hi>莁<hi>巫</hi>荑<hi>夷</hi>蔱<hi>殺</hi>蘠<hi>牆</hi>
+                    <graphic n="KR1705" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1705.png" mimeType="image/png"/>
+                    <hi>大/結</hi>瓝<hi>步角</hi>
+芍<hi>戸了</hi>蘱<hi>類</hi>薡<hi>鼎</hi>蕫<hi>董</hi>蕛<hi>啼</hi>苵<hi>大/結</hi>薈<hi>㑹</hi>蓼<hi>了</hi>蓧<hi>他凋</hi>蓨<hi>愓</hi>虋<hi>門</hi>芑<hi>起</hi>
+<pb n="1b"/>
+秠<hi>孚鄙</hi>稃<hi>敷</hi>稌<hi>杜</hi>藑<hi>瓊</hi>夫<hi>扶</hi>藆<hi>蹇</hi>藅<hi>伐</hi>莔<hi>萌</hi>荍<hi>翹</hi>蚍<hi>毗</hi>衃<hi>浮</hi>蕇<hi>典</hi>
+蔜<hi>五髙</hi>
+                    <graphic n="KR2906" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2906.png" mimeType="image/png"/>
+                    <hi>㛮</hi>
+                    <graphic n="KR1562" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1562.png" mimeType="image/png"/>
+                    <hi>縷</hi>莌<hi>奪</hi>蘢<hi>聾</hi>葑<hi>方/孔</hi>蓯<hi>緫</hi>蒡<hi>旁</hi>荵<hi>忍</hi>莤<hi>由</hi>蓾<hi>魯/才古</hi>
+柱<hi>主</hi>夫<hi>扶</hi>隧<hi>遂</hi>蘧<hi>巨俱</hi>𬞞<hi>山/俱</hi>茝<hi>昌/改</hi>蘮<hi>計</hi>蒘<hi>如</hi>髦<hi>毛</hi>蕀<hi>棘</hi>雚<hi>貫</hi>
+                    <graphic n="KR1627" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1627.png" mimeType="image/png"/>
+                    <hi>徒南</hi>
+莐<hi>沉</hi>蕍<hi>俞</hi>蕮<hi>昔</hi>蔨<hi>巨隕</hi>靃<hi>霍</hi>莥<hi>女九</hi>薃<hi>浩</hi>媞<hi>提</hi>莞<hi>官</hi>蒚<hi>力</hi>茄<hi>加</hi>蕸<hi>遐</hi>
+蔤<hi>密</hi>華<hi>戸瓜</hi>菡<hi>戸/感</hi>萏<hi>徒/感</hi>薏<hi>憶</hi>蘬<hi>丘/軌</hi>蒫<hi>才/何</hi>黂<hi>扶/刃</hi>枲<hi>皁/以</hi>菲<hi>匪</hi>蒠<hi>息</hi>蕢<hi>巨貴</hi>
+蘼<hi>美</hi>萹<hi>偏</hi>濼<hi>爍</hi>衆<hi>終</hi>莙<hi>其隕</hi>薻<hi>早</hi>蓫<hi>他/六/他/羊</hi>苹<hi>平</hi>蓱<hi>瓶</hi>莃<hi>希</hi>藬<hi>吐回</hi>
+蘈<hi>頽</hi>藚<hi>續</hi>藾<hi>賴</hi>蔆<hi>凌</hi>攗<hi>眉</hi>薛<hi>百賛</hi>葥<hi>箭</hi>莓<hi>每</hi>藫<hi>潭</hi>蘜<hi>菊</hi>蓨<hi>他凋</hi>
+茥　蒛<hi>缺</hi>葐<hi>盆</hi>芨<hi>急</hi>虃<hi>纎</hi>菺<hi>肩</hi>蘻<hi>計</hi>蕧<hi>服</hi>茡<hi>字</hi>藐<hi>亡角</hi>茈<hi>子爾</hi>脫<hi>奪</hi>
+蘵<hi>職</hi>蒢<hi>除</hi>藒<hi>挈</hi>芞<hi>乞</hi>葞<hi>尾</hi>蔠<hi>終</hi>菋<hi>未</hi>荎<hi>直其</hi>藸<hi>除</hi>蒤<hi>徒</hi>藈<hi>圭</hi>椉<hi>繩</hi>
+衱<hi>劫</hi>袶<hi>絳</hi>攫<hi>钁</hi>盱<hi>吁</hi>蔝<hi>米</hi>蔜<hi>五刀</hi>湅<hi>柬</hi>馗<hi>逵</hi>菌<hi>巨隕</hi>菆<hi>輙</hi>苕<hi>調</hi>蔈<hi>標</hi>
+<pb n="2a"/>
+茇<hi>沛</hi>蘪<hi>眉</hi>數<hi>朔</hi>鄰<hi>吝閔</hi>筡<hi>徒</hi>笐<hi>杭</hi>䈚<hi>待</hi>枹<hi>包</hi>芏<hi>杜其</hi>葴<hi>針戸</hi>藗<hi>速</hi>菤<hi>捲</hi>
+                    <graphic n="KR2240" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2240.png" mimeType="image/png"/>
+                    <hi>鱉</hi>莣<hi>亡</hi>藨<hi>蒲苗</hi>藨<hi>平/表</hi>薂<hi>亦</hi>購<hi>古/豆</hi>蔞<hi>力/朱</hi>茢<hi>列</hi>葽<hi>烏了</hi>
+蒬<hi>冤</hi>茦<hi>冊</hi>刺<hi>次</hi>萩<hi>秋</hi>銚<hi>姚</hi>芅<hi>亦</hi>芣<hi>浮</hi>苢<hi>以</hi>綸<hi>古</hi>苀<hi>亡岡</hi>蠡<hi>禮</hi>萿<hi>古活</hi>
+搴<hi>居展</hi>拒<hi>巨</hi>朐<hi>劬</hi>芺　荂<hi>吁</hi>蔈<hi>方/腰</hi>猋<hi>必/遥</hi>藨<hi>方/驕</hi>芀<hi>調</hi>蒹<hi>兼</hi>薕<hi>廉</hi>菼<hi>他敢</hi>
+薍<hi>五患</hi>虇<hi>丘/阮</hi>蕍<hi>俞</hi>芛<hi>羊/棰</hi>葟<hi>皇</hi>荺<hi>于/閔</hi>茭<hi>胡巧</hi>
+釋木第十四<lb/>
+槄<hi>叨</hi>榎<hi>賈</hi>樗<hi>丑於</hi>椈<hi>菊</hi>髠<hi>坤</hi>梱<hi>五/門</hi>椵<hi>叚</hi>柂<hi>夷</hi>柟<hi>而占</hi>柀<hi>彼</hi>煔<hi>衫</hi>櫠<hi>廢</hi>
+椵<hi>賈</hi>杻<hi>女九</hi>檍<hi>億</hi>楙<hi>茂</hi>椋<hi>良</hi>栵<hi>例</hi>栭<hi>而</hi>檴<hi>鑊</hi>楥<hi>袁</hi>抑<hi>卭</hi>栩<hi>香/羽</hi>杼<hi>甞汝</hi>
+荎<hi>直之</hi>著<hi>儲</hi>藲<hi>歐</hi>荎<hi>大/結</hi>槹<hi>皐</hi>綦<hi>其</hi>朹<hi>求</hi>檕<hi>計</hi>朻<hi>紏</hi>榽<hi>兮/計</hi>橀<hi>許兮</hi>梫<hi>寢</hi>
+棆<hi>倫</hi>椐<hi>祛</hi>樻<hi>起愧</hi>櫐<hi>壘</hi>欇<hi>渉</hi>檵<hi>計</hi>楰<hi>庾</hi>欇<hi>輙</hi>寓<hi>魚具</hi>梂<hi>求</hi>檖<hi>遂</hi>楔<hi>戞</hi>
+<pb n="2b"/>
+榹<hi>斯</hi>要<hi>腰</hi>樲<hi>二</hi>洗<hi>屑典</hi>塡<hi>田</hi>泄<hi>屑</hi>還<hi>旋</hi>棯<hi>稔</hi>樸<hi>卜</hi>棪<hi>琰</hi>㯈<hi>速</hi>欀<hi>苦回</hi>
+槐<hi>懷</hi>聶<hi>輙</hi>炕<hi>呼郎</hi>椅<hi>於/寄</hi>梀<hi>山/厄</hi>瘣<hi>胡/罪</hi>遒<hi>徂/由</hi>棫<hi>域</hi>桵<hi>人佳</hi>樆<hi>离</hi>辨<hi>片</hi>枌<hi>墳</hi>
+栘<hi>移</hi>檿<hi>烏點</hi>柛<hi>伸</hi>
+                    <graphic n="KR3046" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3046.png" mimeType="image/png"/>
+                    <hi>側/吏</hi>棤<hi>錯</hi>皵<hi>舄</hi>梢<hi>朔</hi>櫂<hi>濁</hi>樅<hi>七/容</hi>榝<hi>殺</hi>華<hi>胡化</hi>疐<hi>帝</hi>
+鑚<hi>子管</hi>繚<hi>了</hi>檄<hi>亦</hi>
+釋蟲第十五<lb/>
+螜<hi>斛</hi>蜚<hi>費</hi>蠦<hi>盧</hi>蜰<hi>肥</hi>螾<hi>引</hi>
+                    <graphic n="KR2602" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2602.png" mimeType="image/png"/>
+                    <hi>演</hi>蜩<hi>調</hi>蚻<hi>札</hi>蠽<hi>節</hi>蝒<hi>縣</hi>蜓<hi>挺</hi>蚞<hi>木</hi>
+蛣<hi>起吉</hi>蜣<hi>羌</hi>蝎<hi>曷</hi>
+                    <graphic n="KR1298" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1298.png" mimeType="image/png"/>
+                    <hi>屈</hi>蠰<hi>餉</hi>蜉<hi>浮</hi>蝣<hi>遊</hi>蛂<hi>歩結</hi>蟥<hi>黄</hi>蛢<hi>瓶</hi>蠸<hi>權</hi>父<hi>甫</hi>
+蝚<hi>柔武/江</hi>䗐<hi>施</hi>蝆<hi>亡/婢</hi>蟷<hi>丁/郎</hi>蠰<hi>箱</hi>蜱<hi>毗</hi>蛸<hi>消</hi>蝍<hi>即</hi>蛆<hi>子/余</hi>蝝<hi>縁</hi>蝮<hi>孚福</hi>
+蜪<hi>陶</hi>蛬<hi>拱</hi>蟼<hi>驚</hi>蛝<hi>閑</hi>䗃<hi>棧</hi>蛗<hi>阜</hi>螽<hi>終</hi>蠜<hi>煩</hi>蜤<hi>斯</hi>蜙<hi>嵩</hi>蝑<hi>胥</hi>蟿<hi>契歷</hi>蠰<hi>壤</hi>螼<hi>羌引</hi>蜸<hi>苦/顯</hi>蚕<hi>他/典</hi>貈<hi>鶴</hi>蛑<hi>謀</hi>虰<hi>丁</hi>蛵<hi>馨</hi>蜭<hi>戸/感</hi>䘃<hi>墨</hi>蛅<hi>而占</hi>
+<pb n="3a"/>
+蟴<hi>斯</hi>蟠<hi>煩</hi>蟫<hi>淫</hi>䖸<hi>娥</hi>螒<hi>汗</hi>蚚<hi>祈</hi>蛶<hi>劣</hi>螪<hi>商</hi>螝<hi>龜</hi>蜆<hi>演</hi>螘<hi>魚綺</hi>蠪<hi>聾</hi>
+朾<hi>直耕尉</hi>蚳<hi>池</hi>蟗<hi>秋</hi>䵹<hi>知</hi>鼄<hi>誅</hi>蝥<hi>謀</hi>蠭<hi>蜂</hi>蟦<hi>費</hi>蝤<hi>囚</hi>
+                    <graphic n="KR2212" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2212.png" mimeType="image/png"/>
+                    <hi>伊</hi>蟰<hi>蕭</hi>
+蛸<hi>所交</hi>踦<hi>巨/綺</hi>蛭<hi>猪/秩</hi>蠖<hi>於/郭</hi>蚇<hi>尺</hi>螟<hi>冥</hi>蛉<hi>零</hi>炤<hi>照</hi>蚅<hi>厄</hi>蠋<hi>蜀</hi>蠓<hi>莫/孔</hi>蠛<hi>亡結</hi>
+蛈<hi>大結</hi>蝪<hi>湯</hi>蟓<hi>象</hi>雔<hi>讎</hi>蚢<hi>杭</hi>翥<hi>之/庶</hi>罅<hi>呼/暇</hi>螸<hi>俞</hi>
+                    <graphic n="KR2833" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2833.png" mimeType="image/png"/>
+                    <hi>特</hi>蟊<hi>謀</hi>豸<hi>丈爾</hi>
+釋魚第十六<lb/>
+鱣<hi>張連</hi>鰋<hi>偃</hi>鯇<hi>華板</hi>鮀<hi>陀</hi>鮂<hi>囚</hi>鰦<hi>兹</hi>鰼<hi>習</hi>鰌<hi>秋</hi>鰹<hi>堅</hi>鮦<hi>同</hi>鮵<hi>奪</hi>魾<hi>皮</hi>
+鱯<hi>畫</hi>鮡<hi>兆</hi>鰝<hi>浩</hi>鰕<hi>霞</hi>鱀<hi>忌</hi>鱦<hi>承</hi>鮥<hi>洛</hi>鮛<hi>叔</hi>鮪<hi>偉</hi>鯦<hi>俱救</hi>魱<hi>胡</hi>鮤<hi>列</hi>
+鱴<hi>滅</hi>鱊<hi>聿</hi>鮬<hi>歩</hi>鱖<hi>厥</hi>鯞<hi>章酉</hi>鰴<hi>暉</hi>魵<hi>墳</hi>鮅<hi>必</hi>鱒<hi>才損</hi>魴<hi>房</hi>魾<hi>毗</hi>鯬<hi>黎</hi>
+鯠<hi>來</hi>蜎<hi>狂兖</hi>蠉<hi>香/兖</hi>蟣<hi>祈</hi>鼁<hi>去</hi>
+                    <graphic n="KR1434" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1434.png" mimeType="image/png"/>
+                    <hi>秋</hi>蟾<hi>占</hi>黽<hi>猛</hi>蜌<hi>陛</hi>螷<hi>蒲/猛</hi>能<hi>奴來</hi>賁<hi>奔</hi>
+蚹<hi>附</hi>蠃<hi>羅</hi>螔<hi>移</hi>蝓<hi>俞</hi>蜬<hi>含</hi>螖<hi>滑</hi>蠌<hi>澤</hi>蟧<hi>勞</hi>珧<hi>遥</hi>倪<hi>五計</hi>贆<hi>摽</hi>魧<hi>杭</hi>
+<pb n="3b"/>
+<pb n="3b"/>
+鼯<hi>吾</hi>鳺<hi>大結</hi>餔<hi>歩</hi>敊<hi>豉</hi>鶆<hi>來</hi>鵹<hi>離</hi>鴷<hi>列</hi>鸄<hi>激</hi>鶶<hi>唐</hi>鷵<hi>徒</hi>鉏<hi>鋤</hi>鷂<hi>遥</hi>
+鷮<hi>驕</hi>鳪<hi>卜</hi>鸐<hi>狄</hi>雗<hi>汗</hi>鵫<hi>丁罩</hi>翬<hi>暉</hi>
+                    <graphic n="KR1319" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1319.png" mimeType="image/png"/>
+                    <hi>儔</hi>鶅<hi>緇</hi>鵗<hi>希</hi>鷷<hi>遵</hi>鵌<hi>徒</hi>鼵<hi>突</hi>
+鸛<hi>歡</hi>鷒<hi>團</hi>鶝<hi>楅</hi>鶔<hi>柔</hi>射<hi>食亦/工/役</hi>翪<hi>宗</hi>鳶<hi>玄</hi>蹼<hi>卜</hi>亢<hi>戸郎</hi>嗉<hi>素</hi>鳼<hi>文</hi>
+鷚<hi>力救</hi>別<hi>彼/列</hi>長<hi>丁/丈</hi>鶹<hi>留</hi>
+                    <graphic n="KR1870" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1870.png" mimeType="image/png"/>
+                    <hi>栗</hi>黧<hi>力知</hi>
+釋獸第十八<lb/>
+麔<hi>咎</hi>麎<hi>辰</hi>䴠<hi>於兆</hi>麚<hi>加</hi>麀<hi>於/牛</hi>麛<hi>迷/堅</hi>麕<hi>君</hi>麌<hi>魚/矩</hi>麆<hi>助</hi>麜<hi>栗</hi>豜<hi>五見</hi>
+獥<hi>亦</hi>嬎<hi>芳萬</hi>迒<hi>剛</hi>䝐<hi>偉</hi>豶<hi>墳</hi>幺<hi>腰</hi>奏<hi>湊</hi>豱<hi>温</hi>豵<hi>宗</hi>橧　豴<hi>滴</hi>
+                    <graphic n="KR1595" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1595.png" mimeType="image/png"/>
+                    <hi>垓</hi>
+<graphic n="KR1610" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1610.png" mimeType="image/png"/>
+                    <hi>厄</hi>豝<hi>巴</hi>虦<hi>棧</hi>貓<hi>苗</hi>貘<hi>陌</hi>甝<hi>含</hi>虪<hi>式六</hi>貀<hi>尼/滑</hi>鼳<hi>古/役</hi>麙<hi>巗/曳/乎各</hi>
+貆<hi>丸</hi>貒<hi>湍</hi>貗<hi>其禹</hi>貔<hi>毗</hi>
+                    <graphic n="KR2680" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2680.png" mimeType="image/png"/>
+                    <hi>火卜</hi>父<hi>甫</hi>貙<hi>樞</hi>獌<hi>萬</hi>麢<hi>零</hi>麠<hi>京</hi>麃<hi>炮</hi>
+                    <graphic n="KR1393" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1393.png" mimeType="image/png"/>
+                    <hi>几</hi>
+旄<hi>帽</hi>魋<hi>頽</hi>䝟<hi>烏八</hi>貐<hi>羊/主</hi>驨<hi>胡圭</hi>羱<hi>元</hi>麐<hi>鄰</hi>麂<hi>几</hi>貄<hi>四</hi>彚<hi>謂</hi>刺<hi>次</hi>狒<hi>費</hi>
+<pb n="4a"/>
+被<hi>備</hi>蹯<hi>煩</hi>
+                    <graphic n="KR1717" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1717.png" mimeType="image/png"/>
+                    <hi>鈕</hi>猱<hi>奴刀</hi>蝯<hi>袁/钁</hi>父<hi>甫</hi>泥<hi>奴細</hi>贙<hi>鉉</hi>豦<hi>據</hi>蜼<hi>誄</hi>椉<hi>承</hi>
+闕<hi>其越</hi>狃<hi>鈕</hi>鼢<hi>憤</hi>鼸<hi>胡忝</hi>鼷<hi>奚</hi>鼶<hi>斯</hi>鼬<hi>佑</hi>鼩<hi>劬</hi>鼭<hi>時</hi>鼣<hi>吠</hi>鼫<hi>石</hi>鼤<hi>問</hi>
+鼨<hi>終</hi>鼮<hi>廷</hi>鼰<hi>古覓</hi>齝<hi>丑/之</hi>齛<hi>泄</hi>齸<hi>益</hi>釁<hi>許/靳</hi>撟<hi>紀/小</hi>狊<hi>古圓</hi>
+釋畜第十九<lb/>
+騊<hi>陶</hi>駼<hi>徒</hi>倨<hi>鋸</hi>騉<hi>昆</hi>趼<hi>五見</hi>甗<hi>言</hi>駥<hi>戎</hi>馵<hi>注</hi>骹<hi>敲</hi>驓<hi>繒</hi>騱<hi>奚</hi>翑<hi>劬</hi>
+踦<hi>欺</hi>驤<hi>箱</hi>駵<hi>留</hi>騵<hi>五官</hi>驈<hi>聿</hi>驠<hi>宴/晏</hi>駺<hi>郎</hi>馰<hi>的</hi>縣<hi>玄</hi>駹<hi>尨</hi>減<hi>古湛</hi>
+闋<hi>缺</hi>廣<hi>光</hi>馻<hi>兖</hi>褭<hi>奴了</hi>驂<hi>參</hi>騇<hi>舎</hi>騝<hi>䖍</hi>騽<hi>習</hi>駽<hi>呼/縣</hi>驎<hi>良忍</hi>驒<hi>陀</hi>鬛<hi>獵</hi>
+騥<hi>柔</hi>鴇<hi>保</hi>駓<hi>皮</hi>駰<hi>乙巾</hi>騢<hi>遐</hi>駩<hi>詮</hi>喙<hi>許穢</hi>騧<hi>瓜</hi>
+                    <graphic n="KR3276" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3276.png" mimeType="image/png"/>
+                    <hi>閑</hi>差<hi>叉</hi>犘<hi>麻</hi>犦<hi>雹</hi>
+犤<hi>悲</hi>犩<hi>危</hi>犣<hi>獵</hi>犝<hi>童</hi>犑<hi>古覓</hi>觭<hi>欺</hi>觢<hi>誓</hi>犉<hi>閏/旬</hi>眥<hi>才細</hi>牰<hi>䄂</hi>犚<hi>尉</hi>犈<hi>權</hi>
+牬<hi>貝</hi>犌<hi>加</hi>羒<hi>憤</hi>牂<hi>臧</hi>羭<hi>俞</hi>羖<hi>古</hi>觤<hi>鬼</hi>觠<hi>權</hi>羷<hi>險</hi>羳<hi>煩</hi>羜<hi>直吕</hi>猣<hi>宗</hi>
+<pb n="4b"/>
+玂<hi>祈</hi>獫<hi>力驗</hi>猲<hi>歇</hi>狣<hi>兆</hi>獢<hi>虚/嬌</hi>雓<hi>餘</hi>僆<hi>練</hi>駥<hi>戎</hi>犉<hi>閏/旬</hi>羬<hi>五咸</hi>彘<hi>滯</hi>
+                    <graphic n="KR1610" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1610.png" mimeType="image/png"/>
+                    <hi>厄</hi>
+獒<hi>五刀</hi>鶤<hi>昆</hi>
+爾雅音釋卷下<lb/>
+<pb n="5a"/>
+<pb n="6a"/>
+</p>
+<p>
+　　　　道光甲申春仲從<lb/>
+　　　　藝芸書舍借来細勘一過知其佳䖏<lb/>
+　　　　洵非以後諸刻所能及也<lb/>
+　　　　　　　　　　思適居士顧千里記<lb/>
+<hi>異日當并單夲邢䟽再勘三月朔又記</hi>
+<pb n="6b"/>
+<pb n="6b"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

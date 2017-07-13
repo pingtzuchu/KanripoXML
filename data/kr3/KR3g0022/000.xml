@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>提要<lb/>
+                </head>
+    <p>
+<pb n="KR3g0022_WYG_000-1a"/>
+欽定四庫全書　　　　　子部七<lb/>
+　提要<lb/>
+　　青囊序　　　　　　　術數類三<hi>相宅相墓之屬</hi>
+　　青囊奥語<lb/>
+　　　　<hi>臣</hi>等謹案青囊序一卷青囊奥語一卷青囊<lb/>
+　　　　奥語舊本題唐楊筠松撰其序則題筠松弟<lb/>
+　　　　子曽文辿所作相傳文辿贛水人其父求已<lb/>
+　　　　先奔江南節制李司空辟行南康軍事文辿<lb/>
+<pb n="KR3g0022_WYG_000-1b"/>
+　　　　因得筠松之術後𫝊於陳搏是書即其所授<lb/>
+　　　　師説也案趙希弁讀書後志有青囊本㫖一<lb/>
+　　　　卷云不記撰人演郭璞相墓經陳氏書録解<lb/>
+　　　　題有楊公遺訣曜金歌并三十六圖象一卷<lb/>
+　　　　注云楊即筠松也今是書以隂陽順逆九星<lb/>
+　　　　化曜辨山水之貴賤吉凶未審與曜金歌為<lb/>
+　　　　一為二惟鄭樵通志藝文略别載有曽氏青<lb/>
+　　　　囊子歌一巻又曽楊二家青囊經一卷或即<lb/>
+<pb n="KR3g0022_WYG_000-2a"/>
+　　　　是書之原名歟其中多引而不發之語如坤<lb/>
+　　　　壬乙巨門從頭出一節歴來注家罕能詳其<lb/>
+　　　　起例至序内二十四山分順逆一條則大㫖<lb/>
+　　　　以木火金水分屬甲丙庚壬乙丁辛癸丑起<lb/>
+　　　　長生如甲木生於亥庫於未乙木生於午庫<lb/>
+　　　　於戌之類因以亥卯未寅午戌巳酉丑申子<lb/>
+　　　　辰為四局反覆衍之得四十八局陽用左旋<lb/>
+　　　　隂從右轉蓋本之説卦陽順隂逆之例為地<lb/>
+<pb n="KR3g0022_WYG_000-2b"/>
+　　　　學理氣家之權輿明人偽造之呉公教子書<lb/>
+　　　　劉秉忠玉尺經蓋即竊其緒餘衍為圖局逮<lb/>
+　　　　僧徹瑩作直指元真専以三元水口隨地可<lb/>
+　　　　以定向於是談地學者舍形法而言理氣剽<lb/>
+　　　　竊𫝊㑹俱以是編為口實然不以流派多岐<lb/>
+　　　　併咎其剏法之始也舊本有注託名劉基李<lb/>
+　　　　國本復加潤色蕪蔓殊甚又妄據偽玉尺經<lb/>
+　　　　竄改原文尤為誕妄今據舊本更正併削去<lb/>
+<pb n="KR3g0022_WYG_000-3a"/>
+　　　　其注以無滋淆惑焉<lb/>
+　　天玉經　　　　　　　術數類三<hi>相宅相墓之屬</hi>
+　　　　<hi>臣</hi>等謹案天玉經内𫝊三卷外編一卷舊本<lb/>
+　　　　題唐楊筠松撰考鄭樵通志藝文略陳振孫<lb/>
+　　　　書録解題載楊曽二家書無天玉經之名相<lb/>
+　　　　𫝊楊氏師弟秘之不行於世至宋呉見誠遇<lb/>
+　　　　異人始授以此經其子景鸞乃發明其義然<lb/>
+　　　　則是書亦至宋始出其為筠松所撰與否更<lb/>
+<pb n="KR3g0022_WYG_000-3b"/>
+　　　　在影響之間矣特其流𫝊稍逺詞㫖亦頗有<lb/>
+　　　　義意故言理氣者至今宗之其真偽可置勿<lb/>
+　　　　論也内𫝊首言江東一卦江西一卦南北八<lb/>
+　　　　神一卦術者罕通其説近時潘思榘作天玉<lb/>
+　　　　近箋許清奇作天玉經注始推繹下文有天<lb/>
+　　　　母三般卦又有天卦江東掌上尋之語疑所<lb/>
+　　　　謂江東者即天卦所謂江西者即地卦所謂<lb/>
+　　　　南北者即父母卦大抵以甲丙庚壬四陽干<lb/>
+<pb n="KR3g0022_WYG_000-4a"/>
+　　　　左旋起長生者為東卦陽數奇故曰天卦曰<lb/>
+　　　　八神四一以乙丁辛癸四隂干右旋起長生<lb/>
+　　　　者為西卦隂數耦故曰地卦曰八神四二又<lb/>
+　　　　以山家之坐向為南北一卦由天地而及人<lb/>
+　　　　故曰父母卦蓋自神其説故為𨼆奥之詞使<lb/>
+　　　　人惝恍迷離驟不得其指要方技家之譎智<lb/>
+　　　　往往如斯不獨此書為然也外篇専言四經<lb/>
+　　　　五行其以子寅辰乾丙乙為金午申戌坤壬<lb/>
+<pb n="KR3g0022_WYG_000-4b"/>
+　　　　辛為木卯巳丑庚艮丁為水酉亥未巽甲癸<lb/>
+　　　　為火又謂之天空卦亦莫能名其所以然舊<lb/>
+　　　　有天谷散人注未詳其名詞意尚屬明顯今<lb/>
+　　　　併録之以備考證焉乾隆四十六年十月恭<lb/>
+　　　　校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

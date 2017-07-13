@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4f0001_WYG_098-1a"/>
+　欽定四庫全書<lb/>
+聖祖仁皇帝御製文第二集巻四目録<lb/>
+　　勅諭<lb/>
+　　　　諭三法司衙門<lb/>
+　　　　諭一統志館總裁勒徳洪等<lb/>
+　　　　諭三法司衙門<lb/>
+　　　　諭大學士勒徳洪明珠吳正治宋徳宜學士禪<lb/>
+　　　　　布蔡必漢噶思泰吳興祖徐廷璽韓菼郭棻<lb/>
+<pb n="KR4f0001_WYG_098-1b"/>
+　　　　諭工部右侍郎孫在豐<lb/>
+　　　　諭刑部<lb/>
+　　　　諭大學士勒徳洪明珠王熙吳正治宋徳宜學<lb/>
+　　　　　士禪布蔡必漢吳興祖徐廷璽李光地韓菼<lb/>
+　　　　　郭棻<lb/>
+　　　　諭荷蘭國王耀漢連氏甘勃氏<lb/>
+　　　　諭大學士勒徳洪明珠王熙吳正治宋徳宜學<lb/>
+　　　　　士禪布蔡必漢噶思泰吳喇岱吳興祖徐廷<lb/>
+<pb n="KR4f0001_WYG_098-2a"/>
+　　　　璽李光地韓菼郭棻<lb/>
+　　　諭内閣<lb/>
+　　　諭戸部<lb/>
+　　　諭大學士勒徳洪明珠王熙吳正治宋徳宜學<lb/>
+　　　　士禪布蔡必漢噶思泰吳喇岱齊穡吳興祖<lb/>
+　　　　徐廷璽李光地韓菼郭棻<lb/>
+　　　諭大學士勒徳洪明珠王熙吳正治宋徳宜學<lb/>
+　　　　士禪布蔡必漢噶思泰吳喇岱齊穡吳興祖<lb/>
+<pb n="KR4f0001_WYG_098-2b"/>
+　　　　徐廷璽李光地韓菼郭棻<lb/>
+　　　諭大學士明珠<lb/>
+　　　諭禮部<lb/>
+　　　諭戸部<lb/>
+　　　諭大學士勒徳洪明珠學士禪布噶思泰吳喇<lb/>
+　　　　岱齊穡吳興祖額爾赫圗<lb/>
+　　　諭大學士勒徳洪明珠學士禪布噶思泰吳喇<lb/>
+　　　　岱齊穡額爾赫圖<lb/>
+<pb n="KR4f0001_WYG_098-3a"/>
+　　　諭大學士勒徳洪明珠學士禪布噶思泰吳喇<lb/>
+　　　　岱額爾赫圖吳興祖徐廷璽<lb/>
+　　　諭大學士勒徳洪明珠學士禪布吳喇岱額爾<lb/>
+　　　　赫圖吳興祖徐廷璽<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

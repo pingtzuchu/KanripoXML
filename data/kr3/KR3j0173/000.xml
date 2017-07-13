@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>清秘藏</head>
+    <p>
+<pb n="KR3j0173_WYG_000-1a"/>
+欽定四庫全書　　　　　　子部十<lb/>
+　清秘藏　　　　　　　　　雜家類四<hi>雜品之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案清秘藏二卷明張應文撰而其子<lb/>
+　　　　謙徳潤色之應文字茂實崑山監生屢試不<lb/>
+　　　　第乃一意以古器書畫自娯作清河書畫舫<lb/>
+　　　　及真蹟日錄之張丑即其長子是編雜論玩<lb/>
+　　　　好賞鑒諸物其曰清秘藏者王穉登序謂取<lb/>
+<pb n="KR3j0173_WYG_000-1b"/>
+　　　　倪瓚清秘閣意也上卷分二十門下卷分十<lb/>
+　　　　門其體例畧如趙希鵠洞天清錄其文則多<lb/>
+　　　　採前人舊論如銅劍一條本江淹銅劍讃之<lb/>
+　　　　類不一而足而皆不著所出葢猶沿明人剽<lb/>
+　　　　剟之習其中所列名香多引佛經所列竒寳<lb/>
+　　　　多引小説頗叅以子虛烏有之談亦不為典<lb/>
+　　　　據然於一切器玩皆辨别真偽品第甲乙以<lb/>
+　　　　及收藏裝褙之類一一言之甚詳亦頗有可<lb/>
+<pb n="KR3j0173_WYG_000-2a"/>
+　　　　采卷末記所蓄所見一條稱所蓄法書惟宋<lb/>
+　　　　髙宗行書一卷蘇子瞻詩草元趙子昻歸田<lb/>
+　　　　賦所蓄名畫惟唐周昉戲嬰圖宋人羅漢八<lb/>
+　　　　幅畫苑襍蹟一册元倪雲林小景一幅而已<lb/>
+　　　　而其子丑作清河書畫表列於應文名下者<lb/>
+　　　　乃有三十一種此書成於應文臨沒之日不<lb/>
+　　　　得以續購為詞然則丑表所列殆亦夸飾其<lb/>
+　　　　富不足盡信歟此本為浙江鮑士恭家知不<lb/>
+<pb n="KR3j0173_WYG_000-2b"/>
+　　　　足齋所刋原附丑真蹟日錄後葢山谷集末<lb/>
+　　　　附載伐檀集之例今以各自為書仍析出别<lb/>
+　　　　著錄焉乾隆四十五年三月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="KR3j0173_WYG_000-3a"/>
+清秘藏序<lb/>
+清秘藏者張先生茂實所著書也先生名應文茂實其<lb/>
+字余與先生齒相埓識先生最早先生少任俠好擊劒<lb/>
+務竒畫屠狗賣漿之夫庶幾一遇每為人居間釋紛既<lb/>
+已不自居其功遂多長者之行弱冠始有用世志于是<lb/>
+下帷受經墳典邱索靡不悉究以弟子員遊太學太學<lb/>
+諸生無能出其上意一第如拾掇乎而竟屢試屢不售<lb/>
+先生怫然曰吾不可以此久溷迺公也人生亦安得俟<lb/>
+<pb n="KR3j0173_WYG_000-3b"/>
+河之清耶彼漆園吏何人斯顧吾且不得為郊祀之犧<lb/>
+牲乎棄去公車絶不為然不善牙籌凡所為管鑰門牡<lb/>
+呼雞飼犬之事無論身不為耳且未嘗食也家坐是益<lb/>
+旁落先生意弗屑更罄橐出其餘貲悉以付之米家船<lb/>
+于是圖書滿牀鼎彛鐓缶雜然並陳余徃入其室政如<lb/>
+波斯胡肆竒琛異寳莫可名狀先生顧此意甚得謂余<lb/>
+曰吾不以頭上如箕易此也獨好飲時進一伯雅輒耳<lb/>
+熱而後乃今舉生平所覩記者一一題識而總命之曰<lb/>
+<pb n="KR3j0173_WYG_000-4a"/>
+清秘藏葢亦希跡倪髙士云㑹嵗在龍蛇先生遂遘疾<lb/>
+其少君謙徳侍先生湯藥目不睫帶不解者凡易寒暑<lb/>
+先生强謂之曰吾病已在死法中即不起汝母徒事孺<lb/>
+慕計可不死吾者則有吾清秘藏在汝為吾勉勒成之<lb/>
+先生竟不起謙徳斬焉衰絰之中即手是編跽余而請<lb/>
+曰父命之謂何其敢不卒成其志耶先子之所圖以不<lb/>
+死者頼清秘藏不肖所圖以不覆瓿其清秘藏者先生<lb/>
+如椽也顧余敝帚誠不敢為先生前驅而其郎君請之<lb/>
+<pb n="KR3j0173_WYG_000-4b"/>
+力且余以與先生金蘭而更𤓰葛也遂不敢以羔袖為<lb/>
+解太原王穉登撰<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

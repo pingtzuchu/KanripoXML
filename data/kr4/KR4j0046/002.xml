@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4j0046_WYG_002-1a"/>
+平齋詞原跋<lb/>
+舜俞於潛人其功烈載在史冊如毁鄧艾祠更祠諸葛<lb/>
+武侯告其民曰毋事仇讐而忘父母尤為當時稱歎迨<lb/>
+卒時御茟批其鯁亮忠慤令抄所著兩漢詔暨詩文行<lb/>
+世樓大防又極賞大冶賦一篇予恨未見全集其詩餘<lb/>
+四十有竒多送行獻夀之作無判花嗜酒之篇昔人謂<lb/>
+王岐公文多富貴氣余于舜俞之詞亦云湖南毛晉識<lb/>
+　<lb/>
+<pb n="KR4j0046_WYG_002-1b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　平齋詞<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

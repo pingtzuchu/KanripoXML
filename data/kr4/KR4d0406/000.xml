@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>伯牙琴</head>
+    <p>
+<pb n="KR4d0406_WYG_000-1a"/>
+欽定四庫全書　　　　　集部四<lb/>
+　伯牙琴　　　　　　　　别集類三<hi>宋</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹按伯牙琴一巻宋鄧牧撰牧字牧心<lb/>
+　　　　錢塘人宋亡不仕至元已亥入洞霄止于超<lb/>
+　　　　然館沈介石為營白鹿山房居之後無疾而<lb/>
+　　　　逝牧與謝翺周宻等友善二人皆抗節遯迹<lb/>
+　　　　者嘗為翺作傳為密作蠟屐集序而翺傳敘<lb/>
+<pb n="KR4d0406_WYG_000-1b"/>
+　　　　交情尤篤翺之臨卒適牧出逰翺作詩有謝<lb/>
+　　　　豹花開桑葉齊戴勝芊生藥草肥九鎖山人<lb/>
+　　　　歸不歸之句九鎖山人牧别號也其志趣可<lb/>
+　　　　想見矣密放浪山水著癸辛雜識諸書毎述<lb/>
+　　　　宋亡之由多追咎韓賈有黍離詩人彼何人<lb/>
+　　　　哉之感翺西臺慟哭記諸作多慷慨悲憤發<lb/>
+　　　　變徵之音牧則惟寓屋壁記逆旅壁記二篇<lb/>
+　　　　稍露繁華消歇之感餘無一詞言及興亡而<lb/>
+<pb n="KR4d0406_WYG_000-2a"/>
+　　　　實侘傺幽憂不能自釋故發而為世外放曠<lb/>
+　　　　之談古初荒逺之論宗旨多涉于二氏其君<lb/>
+　　　　道一篇竟類許行並耕之説吏道一篇亦類<lb/>
+　　　　老子剖斗折衡之㫖蓋以宋君臣湖山逰宴<lb/>
+　　　　紀綱叢脞以致于亡故有激而言之不覺其<lb/>
+　　　　詞之過也是集為牧所自編皆滔滔清辨而<lb/>
+　　　　不失修潔非晚宋諸人所及前有自序後有<lb/>
+　　　　自跋以知音難遇故以伯牙琴為名跋稱詩<lb/>
+<pb n="KR4d0406_WYG_000-2b"/>
+　　　　文六十餘篇此本惟文二十四篇併序跋為<lb/>
+　　　　二十六葢佚其詩一巻也末又附沖天觀記<lb/>
+　　　　超然館記清真道院碑記三篇題曰補遺而<lb/>
+　　　　清真道院碑記末有大徳四年庚子錢塘鄧<lb/>
+　　　　牧記集賢直學士趙孟頫書字知後人從石刻<lb/>
+　　　　抄入非集所本有自跋稱平生為文不止此<lb/>
+　　　　是一證矣乾隆四十二年八月恭校上<lb/>
+　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+<pb n="KR4d0406_WYG_000-3a"/>
+　　　　　　　　　總　校　官　<hi>臣</hi>陸　費　墀<lb/>
+<pb n="KR4d0406_WYG_000-4a"/>
+欽定四庫全書　　　　　集部四<lb/>
+　伯牙琴目録　　　　　　别集類三<hi>宋</hi>
+　　　伯牙琴自叙<lb/>
+　　　見堯賦<lb/>
+　　　君道<lb/>
+　　　吏道<lb/>
+　　　名説<lb/>
+　　　寶説<lb/>
+<pb n="KR4d0406_WYG_000-4b"/>
+　　　二戒學栁河東<lb/>
+　　　　越人遇狗<lb/>
+　　　　楚佞鬼<lb/>
+　　　元無人傳<lb/>
+　　　謝臯父傳<lb/>
+　　　寓屋壁記<lb/>
+　　　逆旅壁記<lb/>
+　　　永慶院記<lb/>
+<pb n="KR4d0406_WYG_000-5a"/>
+　　　友古齋記<lb/>
+　　　集虚書院記<lb/>
+　　　亦山齋記<lb/>
+　　　雪竇游誌<lb/>
+　　　代問道書<lb/>
+　　　蠟屐集序<lb/>
+　　　張叔夏詞集序<lb/>
+　　　鑑湖修禊序<lb/>
+<pb n="KR4d0406_WYG_000-5b"/>
+　　　西湖修禊序<lb/>
+　　　代祭和靖祠文<lb/>
+　　　代祭胡葦航文<lb/>
+　　　代旌徳觀祭先賢文<lb/>
+　　　伯牙琴後序<lb/>
+　補遺<lb/>
+　　　沖天觀記<lb/>
+　　　超然館記<lb/>
+<pb n="KR4d0406_WYG_000-6a"/>
+　　　清真道院碑記<lb/>
+<pb n="KR4d0406_WYG_000-7a"/>
+伯牙琴自序<lb/>
+予集詩文若干名伯牙琴伯牙雖善琴者鍾子期死終<lb/>
+身不復鼓知琴難也今世無知音余獨鼓而不已亦愚<lb/>
+哉然伯牙破琴絶絃以子期死耳余未嘗遇子期惡知<lb/>
+其死不死也故復存此<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

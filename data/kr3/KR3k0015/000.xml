@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>提要<lb/>
+                </head>
+    <p>
+<pb n="KR3k0015_WYG_000-1a"/>
+欽定四庫全書　　　　子部十一<lb/>
+　提要<lb/>
+　　實賔録十四卷　　　　類書類<lb/>
+　　　　<hi>臣</hi>等謹案實賔錄十四卷宋馬永易撰永易<lb/>
+　　　　字明叟揚州人徽宗時嘗官池州石埭尉其<lb/>
+　　　　事迹無可考見惟文獻通考宋史藝文志載<lb/>
+　　　　所著有唐職林元和朋黨録夀春雜志諸書<lb/>
+　　　　盖亦博洽之士也是書見于晁公武讀書志<lb/>
+<pb n="KR3k0015_WYG_000-1b"/>
+　　　　者稱異號録二十卷而陳振孫書録解題則<lb/>
+　　　　題作實賔録謂永易所撰蜀人句龍材校正<lb/>
+　　　　文彪增廣凡本書三十巻後集三十巻宋史<lb/>
+　　　　藝文志又分實賔録異號録各三十巻皆題<lb/>
+　　　　永易所撰諸家紀載頗舛錯不合今以其説<lb/>
+　　　　互相㕘証疑陳氏所稱本書乃永易原撰本<lb/>
+　　　　名異號錄陳氏所稱後集即文彪所續始取<lb/>
+　　　　名為實賔之義併本書改題今名宋志盖誤<lb/>
+<pb n="KR3k0015_WYG_000-2a"/>
+　　　　分為兩書而晁公武所見則為未經增廣之<lb/>
+　　　　本故尚題為異號録也自元以來其書久佚<lb/>
+　　　　陶宗儀收入説郛者僅寥寥數條近浙江所<lb/>
+　　　　進范氏天一閣藏本亦即從説郛鈔出一字<lb/>
+　　　　不殊今從永樂大典蒐輯共得六百餘條皆<lb/>
+　　　　説郛之所未載惟原帙既湮其體例巳無可<lb/>
+　　　　考即永易原本與文彪所增亦錯雜不可復<lb/>
+　　　　辨謹褒輯編綴芟除重複訂正舛訛各以類<lb/>
+<pb n="KR3k0015_WYG_000-2b"/>
+　　　　相從釐為一十四卷仍從書録解題統標曰<lb/>
+　　　　實賔録以存宋時傳本之舊其書皆取古人<lb/>
+　　　　殊名别號以廣見聞領異標新頗資採掇至<lb/>
+　　　　於搜羅既廣偶渉舛訛如沈傳師之推為顔<lb/>
+　　　　子乃比擬之空言劉長卿之五言長城乃品<lb/>
+　　　　題之泛論皆非標目不應闌入其間又如吉<lb/>
+　　　　茂言侍中執虎子語本詼諧白居易賦新豐<lb/>
+　　　　折臂翁詞由徵實凡此之類尤與稱謂無闗<lb/>
+<pb n="KR3k0015_WYG_000-3a"/>
+　　　　　一槩濫收殊失别擇是則嗜異貪多為千古<lb/>
+　　　　　著書之通病不獨永易為然固不以累其全<lb/>
+　　　　　書矣乾隆四十六年九月恭校上<lb/>
+　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

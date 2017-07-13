@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>惟實集</head>
+    <p>
+<pb n="KR4d0489_WYG_000-1a"/>
+欽定四庫全書　　　　　集部五<lb/>
+　惟實集　　　　　　　　别集類四<hi>元</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案惟實集七卷附録一卷元劉鶚撰<lb/>
+　　　　鶚字楚齊永豐人皇慶間以薦授揚州學錄<lb/>
+　　　　累官江州總管江西行省㕘政守韶州以贛<lb/>
+　　　　㓂圍城力禦不支被執抗節死其事甚烈明<lb/>
+　　　　初修元史失于採錄不為立傳併佚其名近<lb/>
+<pb n="KR4d0489_WYG_000-1b"/>
+　　　　邵逺平作元史類編始為補入忠義傳然亦<lb/>
+　　　　僅及其死節事其生平行履則已不可考矣<lb/>
+　　　　集為其子遂述所編初名鷲溪文獻其稱惟<lb/>
+　　　　實集者葢本其祖訓以詩道貴實之語也鶚<lb/>
+　　　　官翰林修撰與虞集歐陽元揭徯斯等遊所<lb/>
+　　　　居浮雲書院諸人皆有題詠元為序其文集<lb/>
+　　　　稱其詩六體皆善徯斯序亦謂其髙處在陶<lb/>
+　　　　阮之間雖友朋推挹之詞例必稍過其量然<lb/>
+<pb n="KR4d0489_WYG_000-2a"/>
+　　　　今觀其集大都落落不羣無米鹽齷齪之氣<lb/>
+　　　　可以想見其生平二人所許亦不盡出標榜<lb/>
+　　　　也且鶚身捍封疆慷慨殉國千秋萬世精貫<lb/>
+　　　　三光即其文稍不入格亦當以其人重之况<lb/>
+　　　　體裁髙秀風骨清遒實有卓然可傳者乎外<lb/>
+　　　　集二卷皆前人序記輓詩乃其裔孫于廷等<lb/>
+　　　　所重輯今仍附之集末以補史傳之闕漏焉<lb/>
+　　　　乾隆四十六年十二月恭校上<lb/>
+<pb n="KR4d0489_WYG_000-2b"/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2f0041_WYG_001-1a"/>
+　　乾隆四十六年十月二十七日内閣奉<lb/>
+上諭厯代名臣奏疏俱有流傳選刻之本現在四庫全<lb/>
+　書内經館臣編次進呈其中危言讜論闗繫前代得<lb/>
+　失者固可援為金鑑至勝國去今尤近三百年中藎<lb/>
+　臣傑士風節偉著者亦不乏人跡其規陳治亂抗疏<lb/>
+　批鱗當亦不亞漢唐宋元諸臣而奏疏未有專本使<lb/>
+　當年繩愆糾謬忠君愛國之忱後人無由想見非所<lb/>
+　以垂法戒著勸懲也即或其人品誼未醇而其言一<lb/>
+<pb n="KR2f0041_WYG_001-1b"/>
+　事陳一弊切中利病有禆時政亦不可以人廢言至<lb/>
+　神宗以後諸臣奏疏内有因遼瀋用兵涉及本朝之<lb/>
+　處彼時主闇政昏太阿倒置閹人竊柄權倖滿朝以<lb/>
+　致舉錯失當賞罰不明其君綴旒于上竟置國是若<lb/>
+　罔聞遂至流冦四起兵潰餉絶種種秕政指不勝數<lb/>
+　若楊漣左光斗熊廷弼諸人或折衝疆場或正色立<lb/>
+　朝俱能慷慨建議剴切敷陳設明之君果能採而用<lb/>
+　之猶不致敗亡若是之極其事距今百十餘年殷鑒<lb/>
+<pb n="KR2f0041_WYG_001-2a"/>
+　　不逺尤當引為炯戒則諸人奏疏不可不亟為輯録<lb/>
+　　也除明史本傳外所有入四庫全書諸人文集均當<lb/>
+　　廣為蒐採裒集成編即有違礙字句秖須略為節潤<lb/>
+　　仍將全文錄入此事闗繫明季之所以亡與我朝之<lb/>
+　　所以興敬怠之分<lb/>
+天人之際不可不深思逺慮觸目警心著派皇子同總師<lb/>
+　　傅蔡新等為總裁其皇孫皇曾孫之師傅翰林等即<lb/>
+　　著為纂修校録陸續進呈候朕親裁書成後即交武<lb/>
+<pb n="KR2f0041_WYG_001-2b"/>
+　　英殿刋刻仍抄入四庫全書將此㫖冠于簡端所有<lb/>
+　　前派紀昀等選出神宗以後各奏疏即著歸入此書<lb/>
+　　按其朝代一體編纂特諭<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

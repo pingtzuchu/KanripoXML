@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>授經圖義例巻五</head> <lb/>
+    <p>
+<pb n="KR2n0008_WYG_004-1a"/>
+欽定四庫全書<lb/>
+　授經圖義例巻五<lb/>
+　　　　　　　　　　　　明　朱睦㮮　撰<lb/>
+　　書<lb/>
+孔延年及子霸漢書雖未載受書安國孔僖本傳稱安<lb/>
+國以下世受古文尚書以此延年輩俱附安國之派<lb/>
+舊圖不分古文今文按漢書及雜志所載古文首孔安<lb/>
+國今文首伏生以見二派各有傳也<lb/>
+<pb n="KR2n0008_WYG_004-1b"/>
+舊圖有歐陽世按本傳兒寛𫝊歐陽生子世世相傳至<lb/>
+曾孫髙始為博士世非名也故不載<lb/>
+杜林蓋豫習古文俱無師傳自相授受今各立一傳以<lb/>
+明非安國之派也<lb/>
+舊圖牟長授書張堪及攷堪𫝊止言受學長安無請業<lb/>
+牟長事張奐𫝊注又稱牟卿受書周堪以此知舊圖多<lb/>
+誤今從傳註改正<lb/>
+舊圖楊仲績受龔勝尚書傳春卿卿傳綂綂傳厚按漢<lb/>
+<pb n="KR2n0008_WYG_004-2a"/>
+書楊厚祖父三世善圖䜟學綂又從鄭山伯受河洛書<lb/>
+并天文推步之術無仲績傳經事而益都耆舊傳畧著<lb/>
+仲績傳夏侯書又不詳言從大小夏侯疑皆私淑非的<lb/>
+派故不載<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2n0008_WYG_004-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　授經圖義例卷五<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

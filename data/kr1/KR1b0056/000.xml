@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>書經衷論</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　經部二<lb/>
+　書經衷論　　　　　　書𩔖<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案書經衷論四卷<lb/>
+　　　國朝張英撰英有易經衷論已著錄此書不全<lb/>
+　　　　載經文但每篇各立標題而逐條繫説亦如<lb/>
+　　　　其説易之例凡虞書六十三條夏書三十二<lb/>
+　　　　條商書五十二條周書一百六十七條前有<lb/>
+<pb n="1b"/>
+　　　　康熙二十一年正月進書原序一篇時英方<lb/>
+　　　　以翰林學士侍<lb/>
+　　講幄故因事敷陳頗𩔖宋人講義之體其説多採<lb/>
+　　　　録舊文而㕘新義如益稷篇稱其有暨益稷<lb/>
+　　　　之文故借此二字以名其篇乃林希逸之説<lb/>
+　　　　甘誓篇稱啟未接行陣而能素明軍旅之事<lb/>
+　　　　足見古人學無不貫乃吕祖謙之説微子篇<lb/>
+　　　　稱比干答微子之言當無異於箕子故不復<lb/>
+<pb n="2a"/>
+　　　　著乃孔安國之説君牙篇稱古來制誥之辭<lb/>
+　　　　必自述祖功宗徳而因及其臣子之祖父此<lb/>
+　　　　立言之體乃朱子語𩔖之説至以髙宗肜日<lb/>
+　　　　為祖已訓祖庚之書西伯戡黎為武王之事<lb/>
+　　　　皆不從蔡氏而從金履祥通鑑前編頗總括<lb/>
+　　　　羣言不拘門戸其以牧誓庸蜀羌髳微盧彭<lb/>
+　　　　濮為在友邦冡君外舉小國之君連及之而<lb/>
+　　　　不用蔡氏八國近周西都陳氏舉逺槩近之<lb/>
+<pb n="2b"/>
+　　　　説以君奭為周公召公共相勉勵輔翼成王<lb/>
+　　　　之言而不用諸家留之慰之之説則皆所自<lb/>
+　　　　創之解核諸經義亦較為精切雖卷帙無多<lb/>
+　　　　而平正通達勝支離曼衍者多矣乾隆四十<lb/>
+　　　　二年五月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官　<hi>臣</hi>　陸費墀<lb/>
+<pb n="3a"/>
+書經衷論原序<lb/>
+<hi>臣</hi>竊惟人君之以道治天下至堯舜禹湯文武之盛而<lb/>
+極矣人臣之以道事其君至臯夔伊傅旦奭之盛而極<lb/>
+矣迄今相去數千載當日之言論謀畫綱紀設施與夫仁<lb/>
+愛忠懇之心諧弼綢繆之計雖散見於六經旁流於諸<lb/>
+史而宏綱鉅節之所統㑹則莫偹於尚書使後之人猶<lb/>
+得於方䇿之中想像唐虞三代之君臣如見其形容若<lb/>
+聆其謦咳而不覺有時代曠遠之隔者則由其文至古<lb/>
+<pb n="3b"/>
+其意至厚其㫖趣至宏遠流連往復而可以不窮也<hi>臣</hi>
+自供奉<lb/>
+内廷之初正値我<lb/>
+皇上討論二典講貫三謨窮究精研無微不徹由是而<lb/>
+下逮商周誓誥之篇靡不再四㝷繹凡㫺人之所謂苦<lb/>
+其奥博而難通者<lb/>
+皇上必深求義理之歸而亦不辭夫章句誦讀之勞二<lb/>
+帝三王之言與夫古賢臣之所以告其君者朝夕浸灌<lb/>
+<pb n="4a"/>
+淪浹于<lb/>
+聖心至深且渥也故以言乎典學則高宗遜志之勤以<lb/>
+言乎服遠則虞廷干羽之格以言乎六府三事則九功<lb/>
+之時叙以言乎官人亮采則九德之日嚴<lb/>
+皇上以聖學之高深𤼵爲治功之淳茂豈僅稽古不倦<lb/>
+而已哉<hi>臣</hi>質愚學陋寡識尠聞毎當<lb/>
+講筵餘暇退入直廬伏讀尚書偶有一知半見錄以紀<lb/>
+之積久遂至成帙非敢自持臆説皆折衷于㫺人之言<lb/>
+<pb n="4b"/>
+依篇章次第分爲衷論四卷又以四年來在<lb/>
+内廷編輯之書不敢自覆其短冒陳<lb/>
+九重乙夜之覽伏念我<lb/>
+皇上于尚書全編心源脗合精義黙符每𤼵一義遠超<lb/>
+漢宋諸儒之説<hi>臣</hi>忝侍<lb/>
+左右聞之熟矣如<hi>臣</hi>謭陋膚言𩔖培塿伏于泰岱之前<lb/>
+爝火耀于日月之下彌自增其悚惕云爾康熙二十一<lb/>
+年正月<hi>臣</hi>張英謹序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

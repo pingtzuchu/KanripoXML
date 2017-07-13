@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2a0029_WYG_078-1a"/>
+　舊五代史巻三十八攷證<lb/>
+唐明宗紀四遣供奉官賈俊使淮南　賈俊九國志作<lb/>
+　賈進攷冊府元龜所引薛史亦作俊今仍其舊<lb/>
+房知温奏前月二十一日盧臺戍軍亂害副招討寧國<lb/>
+　軍節度使烏震尋與安審通斬殺亂兵訖　案五代<lb/>
+　春秋盧臺戍軍亂房知温討平之據是書房知温𫝊<lb/>
+　及通鑑知温初誘戍軍為亂繼恐事不濟乃與安審<lb/>
+　通謀討亂兵也五代春秋所書殊非事實<lb/>
+<pb n="KR2a0029_WYG_078-1b"/>
+五品官各薦簿尉兩人　案五代㑹要作五品六品官<lb/>
+　各許薦簿尉兩人<lb/>
+所舉姓名或有不公　案原本脱公字今據五代㑹要<lb/>
+　増入<lb/>
+夔州刺史西方鄴奏殺敗荆南賊軍收峽内三州　案<lb/>
+　通鑑六月西方鄴敗荆南水軍於峽中復取夔忠萬<lb/>
+　三州是書繫七月甲子盖以奏聞之日為據歐陽史<lb/>
+　與是書同<lb/>
+<pb n="KR2a0029_WYG_078-2a"/>
+詔陵州合州長流百姓豆盧革韋説等宜令逐處刺史<lb/>
+　監賜自盡　案五代春秋作元年七月殺豆盧革韋<lb/>
+　説攷歐陽史元年七月貶豆盧革為辰州刺史韋説<lb/>
+　溆州刺史甲申流革于陵州説于合州二年七月殺<lb/>
+　豆盧革韋説與是書同五代春秋統繫于元年誤也<lb/>
+今月十二日供奉官王仁鎬至稱制殺太子少保致仕<lb/>
+　任圜　案安重誨害任圜五代春秋及通鑑俱不書<lb/>
+　日歐陽史作乙未殺太子少保致仕任圜據是書作<lb/>
+<pb n="KR2a0029_WYG_078-2b"/>
+　十二日是年十月為已夘朔十二日乃庚寅也與歐<lb/>
+　陽史異日<lb/>
+美稜瑪古舊作梅老沒骨今改　摩琳舊作梅老今改<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　舊五代史巻三十八攷證<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

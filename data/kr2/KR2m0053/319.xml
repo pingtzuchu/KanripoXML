@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2m0053_WYG_319-1a"/>
+欽定四庫全書<lb/>
+欽定八旗通志卷三百六<lb/>
+　世職表二十九<lb/>
+　　鑲白旗漢軍世職<hi>一等輕車都尉都二等輕車都尉  三等輕車  尉  騎都尉</hi>
+　　　<hi>雲騎尉</hi>
+　　　一等輕車都尉<lb/>
+<pb n="KR2m0053_WYG_319-2a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_319-3a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_319-4a"/>
+　　　二等輕車都尉<lb/>
+<pb n="KR2m0053_WYG_319-5a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_319-6a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_319-7a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_319-8a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_319-9a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_319-10a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_319-11a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_319-12a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_319-13a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_319-14a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_319-15a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_319-16a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_319-17a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_319-18a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_319-19a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_319-20a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_319-21a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_319-22a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_319-23a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_319-24a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0053_WYG_319-24b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+欽定八旗通志卷三百六<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

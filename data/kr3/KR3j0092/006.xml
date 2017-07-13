@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3j0092_SBCK_006-1a"/>
+夢溪筆談卷第六<lb/>
+　　　　　　　　　沈　括　存中<lb/>
+　　　　樂律二<lb/>
+前丗遺事時有於古人文章中見之元稹詩有<lb/>
+　　琵琶宫調八十一三調絃中彈不出琵琶<lb/>
+　　共有八十四調蓋十二律各七均乃成八<lb/>
+　　十四調稹詩言八十一調人多不喻所謂<lb/>
+　　予於金陵丞相家得唐賀懷智琵琶譜一<lb/>
+　　冊其序云琵琶八十四調内黄鍾太蔟林<lb/>
+　　鍾宫聲絃中彈不出須管色定絃其餘八<lb/>
+　　十一調皆以此三調爲凖更不用管色定<lb/>
+　　絃始喻稹詩言如今之調琴須先用管色<lb/>
+<pb n="KR3j0092_SBCK_006-1b"/>
+　　合字定宫絃乃以宫絃下生徴徴絃商上<lb/>
+　　上下相生終於少商凢下生者隔二絃上<lb/>
+　　生者隔一絃取之凢絃聲皆當如此古人<lb/>
+　　仍須以金石爲凖商頌依我磬聲是也今<lb/>
+　　人苟簡不復以絃管定聲故其髙下無凖<lb/>
+　　出於臨時懷智琵琶譜調格與今樂全不<lb/>
+　　同唐人樂學精深尚有雅律遺法今之燕<lb/>
+　　樂古聲多亡而新聲大率皆無法度樂工<lb/>
+　　自不能言其義如何得其聲和<lb/>
+今教坊燕樂比律髙二均弱合字比太蔟微下<lb/>
+　　却以凢字當宫聲比宫之清宫微高外方<lb/>
+　　樂尤無法求體又髙教坊一均以來唯北<lb/>
+<pb n="KR3j0092_SBCK_006-2a"/>
+　　狄樂聲比教坊樂下二均大凢北人衣冠<lb/>
+　　文物多用唐俗此樂疑亦唐之遺聲也<lb/>
+今之燕樂二十八調布在十一律唯黄鍾中吕<lb/>
+　　林鍾三律各具宫商角羽四音其餘或有<lb/>
+　　一調至二三調獨蕤賔一律都無内中管<lb/>
+　　仙吕調乃是蕤賔聲亦不正當本律其間<lb/>
+　　聲音出入亦不全應古法略可配合而巳<lb/>
+　　如今之中吕宫却是古夾鍾宫南吕宫乃<lb/>
+　　古林鍾宫今林鍾商乃古無射宫今大吕<lb/>
+　　調乃古林鍾羽雖國工亦莫能知其所因<lb/>
+十二律并清宫當有十六聲今之燕樂止有十<lb/>
+　　五聲蓋今樂髙於古樂二律以下故無正<lb/>
+<pb n="KR3j0092_SBCK_006-2b"/>
+　　黄鍾聲只以合字當大吕猶差髙當在大<lb/>
+　　吕太蔟之間下四字近太蔟之髙四字近<lb/>
+　　夾鍾下一字近姑洗髙一字近中吕上字近<lb/>
+　　蕤賔勾字近林鍾尺字近夷則工字近南<lb/>
+　　吕髙工字近無射六字近應鍾下凢字爲<lb/>
+　　黄鍾清髙凢字爲大吕清下五字爲太蔟<lb/>
+　　清髙五字爲夾鍾清法雖如此然諸調殺<lb/>
+　　聲不能盡歸本律故有偏殺側殺寄殺元<lb/>
+　　殺之類雖與古法不同推之亦皆有理知<lb/>
+　　聲者皆能言之此不備載也<lb/>
+古法鍾磬毎簴十六乃十六律也然一簴又自<lb/>
+　　應一律有黄鍾之簴有大吕之簴其他樂<lb/>
+<pb n="KR3j0092_SBCK_006-3a"/>
+　　皆然且以琴言之雖皆清實其間有聲重<lb/>
+　　者有聲輕者材中自有五音故古人名琴<lb/>
+　　或謂之清徴或謂之清角不獨五音也又<lb/>
+　　應諸調予友人家有一琵琶置之虚室以<lb/>
+　　管色奏雙調琵琶絃輒有聲應之奏他調<lb/>
+　　則不應寳之以爲異物殊不知此乃常理<lb/>
+　　二十八調但有聲同者即應若徧二十八<lb/>
+　　調而不應則是逸調聲也古法一律有七<lb/>
+　　音十二律共八十四調更細分之尚不止<lb/>
+　　八十四逸調至多偶在二十八調中人見<lb/>
+　　其應則以爲怪此常理耳此聲學至要妙<lb/>
+　　處也今人不知此理故不能極天地至和<lb/>
+<pb n="KR3j0092_SBCK_006-3b"/>
+　　之聲丗之樂工絃上音調尚不能知何暇<lb/>
+　　及此<lb/>
+夢溪筆談卷第六<lb/>
+<pb n="KR3j0092_SBCK_006-4a"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

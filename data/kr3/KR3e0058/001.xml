@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3e0058_WYG_001-1a"/>
+原序<lb/>
+曩予誦范文正公良相良醫之言未嘗不斂袵嘉歎何<lb/>
+則良相輔弼元首治天下興利除害選賢任能使人樂<lb/>
+其業而吾仁之見諸事者足以澤被四海良醫導和人<lb/>
+身療百病脫痾起痼幹元氣而開夀域使人安其生而<lb/>
+吾仁之藴諸心者亦足以波及萬姓葢出處之轍雖異<lb/>
+而吾仁之用則同君子不可斯須而忘吾仁則吾仁之<lb/>
+在天下亦不可勝用矣謙齋先生沙公志文正之所志<lb/>
+<pb n="KR3e0058_WYG_001-1b"/>
+學文正之所學輕車埋輪繡衣直指所至摧奸貪之膽<lb/>
+拯生民之命由柏垣而登薇府一以是心民以是厚今<lb/>
+為建昌守也殆將小試龔黄事業為異日姚宋張本良<lb/>
+相之效豈不著哉然公猶以為未盡乃退而考訂名醫<lb/>
+方書常經驗者分門别類為一十五卷鋟梓郡庠因目<lb/>
+其書曰瑞竹堂經騐方以恵斯世噫如公之仁可謂至<lb/>
+矣予故序諸篇端欲人之誦此書者不惟知公之心良<lb/>
+於醫又當知公之志良於相二者皆自公仁心一㸃中<lb/>
+<pb n="KR3e0058_WYG_001-2a"/>
+出王都中序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

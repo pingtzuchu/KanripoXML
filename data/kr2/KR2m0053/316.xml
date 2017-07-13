@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2m0053_WYG_316-1a"/>
+欽定四庫全書<lb/>
+欽定八旗通志卷三百三<lb/>
+　世職表二十六<lb/>
+　　正黄旗漢軍世職<hi>一等輕車都尉都二等輕車都尉  三等輕車  尉  騎都尉</hi>
+　　　<hi>雲騎尉</hi>
+　　　一等輕車都尉<lb/>
+<pb n="KR2m0053_WYG_316-2a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_316-3a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_316-4a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_316-5a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_316-6a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　　　二等輕車都尉<lb/>
+<pb n="KR2m0053_WYG_316-7a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_316-8a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_316-9a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_316-10a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_316-11a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_316-12a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_316-13a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_316-14a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_316-15a"/>
+　<lb/>
+　<lb/>
+　　騎都尉<lb/>
+<pb n="KR2m0053_WYG_316-16a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_316-17a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_316-18a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_316-19a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_316-20a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_316-21a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_316-22a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_316-23a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_316-24a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_316-25a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_316-26a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_316-27a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0053_WYG_316-27b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+欽定八旗通志卷三百三<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

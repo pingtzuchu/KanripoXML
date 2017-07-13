@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>春秋五禮例宗</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　　　經部五<lb/>
+　春秋五禮例宗　　　　　　春秋類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹按春秋五禮例宗七卷宋張大亨撰大亨<lb/>
+　　　　字嘉父湖州人登元豐乙丑乙科何薳春渚紀聞<lb/>
+　　　　王明清玉照新志並載其嘗官司勲職以王國侍<lb/>
+　　　　讀講官名與朝廷相紊奏請改正事陳振孫書録解<lb/>
+　　　　題載大亨春秋通訓及此書則稱為直秘閣<lb/>
+<pb n="1b"/>
+　　　　呉興張大亨撰葢舉其所終之官也考左傳<lb/>
+　　　　發凡杜預謂皆周公典禮韓起見易象春秋<lb/>
+　　　　亦謂周禮在魯孫復作春秋尊王發微葉得<lb/>
+　　　　得譏其不深于禮樂故其言多自牴牾葢禮<lb/>
+　　　　與春秋本相表裏大亨是編以社預釋例與<lb/>
+　　　　經踳駁兼不能賅盡陸淳所集啖趙春秋纂<lb/>
+　　　　例亦支離失真因取春秋事蹟分吉凶軍賔<lb/>
+　　　　嘉五禮依類别記各為總論義例賅貫而無<lb/>
+<pb n="2a"/>
+　　　　諸家拘例之失陳振孫稱為考究詳洽殆非<lb/>
+　　　　溢美元呉澄作春秋纂言列五禮多與此書<lb/>
+　　　　相出入澄非剽襲人書者殆偶未見傳本歟<lb/>
+　　　　朱彛尊經義考載此書十卷注曰存而諸家<lb/>
+　　　　寫本皆佚其軍禮三卷已非彛尊之所見然<lb/>
+　　　　永樂大典作於明初凡引此書皆吉凶嘉賓<lb/>
+　　　　四禮之文軍禮絶無一字則此三巻之佚久<lb/>
+　　　　矣彛尊偶未核檢也乾隆四十五年九月恭<lb/>
+<pb n="2b"/>
+　　　　校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　總　校　官　<hi>臣</hi>陸　費　墀<lb/>
+<pb n="3a"/>
+春秋五禮例宗原序<lb/>
+昔杜元凱作釋例以明春秋異同之義事類相發各為<lb/>
+條綱使覽者用力少而見功多可謂善矣然其間雜以<lb/>
+傳例與經蹐駁而又摘數端不能該盡學者病之唐陸<lb/>
+淳乃因啖趙之餘别為纂例其所條列一出於經比於<lb/>
+杜公詳顯完宻後之説者謂之要例然淳拘於微文捨<lb/>
+事從例故事有相濟以成而反裂為數門者非特差失<lb/>
+其始終抑亦汨昏其義趣經大㫖支離失真迷眩後生<lb/>
+<pb n="3b"/>
+莫此為盛葢人之美惡小大萬殊聖人因其實而被之<lb/>
+以名豈專拘於䋲約若乃定其筆削以示後世則固有<lb/>
+典要存焉善學者因其人之美惡以推聖人之心而究<lb/>
+觀其典要之所在則其㫖不辨而自白矣顧予非知經<lb/>
+者特懼子弟之溺於斯廼綴緝本文通其乖舛以刋前<lb/>
+作之誤名曰春秋五禮例宗葢周禮盡在魯矣聖人以<lb/>
+為法凡欲求經之軌範非五禮何以質其從違觀者或<lb/>
+無間於古今則當信予言之不妄也紹聖四年二月十<lb/>
+<pb n="4a"/>
+七日張大亨序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

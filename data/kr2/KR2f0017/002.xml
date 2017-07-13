@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2f0017_WYG_002-1a"/>
+商文毅疏稿跋<lb/>
+先大父平生不紀行事之蹟先大夫殿講之暇博詢勤<lb/>
+録乃得奏議若干首如右若夫二十年間朝夕獻納於<lb/>
+顧問之頃有如聖諭非外人所知者冝不減此嘗輯素<lb/>
+菴文集凡數十巻兩遭回祿悉為煨燼幸而此巻獨存<lb/>
+愳散逸因鋟諸梓四方君子或得於𫝊聞而此録所未<lb/>
+備者不吝教示幸甚孫汝頤百拜謹識<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2a0029_WYG_128-1a"/>
+　舊五代史巻六十三攷證<lb/>
+唐列𫝊十五張全義𫝊初名居言　案新舊唐書作張<lb/>
+　言是書李罕之𫝊亦作張言俱與此𫝊異<lb/>
+巢敗依諸葛爽于河陽屢有戰功爽表為澤州刺史<lb/>
+　案洛陽縉紳舊聞記齊王張令公外𫝊云王在巢軍<lb/>
+　中知其必敗遂翻身歸國唐授王澤州刺史攷是書<lb/>
+　則全義因巢敗始歸諸葛爽乃表為澤州刺史也舊<lb/>
+　間記殊失事實<lb/>
+<pb n="KR2a0029_WYG_128-1b"/>
+詔皇子繼岌皇弟存紀等皆兄事之　案通鑑全義獻<lb/>
+　幣馬千計帝命皇子繼岌皇弟存紀等兄事之是全<lb/>
+　義之得幸於莊宗由幣馬也洛陽縉紳舊聞記齊王<lb/>
+　上表待罪莊宗降詔釋之及召見大喜開懐慰納若<lb/>
+　見平生故人盡魚水之契焉此葢黨於全義者虛譽<lb/>
+　之辭<lb/>
+朱友謙𫝊簡復攻璠璠冐刃獲免逃歸於汴　案新唐<lb/>
+　書王重榮𫝊李璠為節度使凡五月為部将朱簡所<lb/>
+<pb n="KR2a0029_WYG_128-2a"/>
+　殺據是書則璠逃歸於汴未嘗見殺也通鑑歐陽史<lb/>
+　俱従是書<lb/>
+待遇同於已子　案歐陽史作録以為子<lb/>
+其年八月友珪遣大将牛存節康懐英韓勍攻之　案<lb/>
+　歐陽史友珪遣招討使韓勍将康懐英等擊友謙通<lb/>
+　鑑作九月丁未以感化節度使康懐貞為副招討使<lb/>
+　更以韓勍副之懐貞等與忠武節度使牛存節合兵<lb/>
+　五萬屯河中三書所載俱有異同<lb/>
+<pb n="KR2a0029_WYG_128-2b"/>
+友謙襲取同州以其子令徳為帥請節鉞於梁不獲<lb/>
+　案歐陽史末帝初不許已而許之制命未至友謙復<lb/>
+　叛通鑑従歐陽史<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　舊五代史巻六十三攷證<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

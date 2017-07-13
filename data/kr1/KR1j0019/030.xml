@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="1a"/>
+說文解字通釋第三<lb/>
+　　　　繫傳三十<lb/>
+　文林郎守祕書省校書郎臣徐鍇撰<lb/>
+後叙曰此十四篇五百四十部也九<lb/>
+千三百五十三文重一千一百六十<lb/>
+三解說凡十三萬三千四百四十一<lb/>
+字其建首也立一爲耑<hi>臣鍇曰耑音端</hi>方㠯<lb/>
+<pb n="1b"/>
+類聚物以羣分同條牽屬共理相貫<lb/>
+雜而不越<hi>臣鍇曰類聚謂水部水部相次同條共理謂中之類與屮同從冂而貫之雖雜而各有部分不相逾越也</hi>據形聮系引而申之㠯究<lb/>
+萬原<hi>臣鍇曰據形聮系謂之部因次㠯<graphic n="KR0901" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0901.png" mimeType="image/png"/>部從㠯究盡萬事之原也</hi>畢終於亥<lb/>
+知化窮冥<hi>臣鍇謂亥生子終則復始故託於一寄終於亥亥則物之該盡故曰窮冥也</hi>
+于時大漢聖徳熈明承天稽唐敷崇<lb/>
+殷中<hi>臣鍇曰漢承堯後故稽考唐堯之道殷正也正中也</hi>遐邇𬒳澤渥<lb/>
+<pb n="2a"/>
+<pb n="3a"/>
+<hi>臣故封於吕周武王封苗裔文叔於許以爲太岳胤在頴川許昌縣召謂汝南邵陵縣後丗所居也</hi>切卬<lb/>
+景行敢渉聖門其弘如何節彼南山<lb/>
+欲罷不能旣竭愚才惜道之味聞疑<lb/>
+<hi>臣鍇曰言疑則闕之也</hi>載疑演賛其志次列微辝知<lb/>
+此者稀儻昭所尤庶有逹者理而董<lb/>
+之<hi>臣鍇曰董正也</hi>召陵萬歳里公乗<hi>臣鍇曰漢因秦制二十等爵公乗第八也</hi>艸莽臣沖稽首再拜上書皇帝陛<lb/>
+<pb n="3b"/>
+下臣伏見陛下㠯神明盛徳承遵聖<lb/>
+業上考度於天下流化於民先天而<lb/>
+天不違後天而奉天時萬國咸寧神<lb/>
+人以和猶復深惟五經之妙皆爲漢<lb/>
+制博采幽逺窮理盡性以至於命先<lb/>
+帝詔侍中騎都尉賈逵修理舊文殊<lb/>
+藝異術王教一耑茍有可㠯加於國<lb/>
+<pb n="4a"/>
+者靡不悉集易曰窮神之化徳之盛<lb/>
+也書曰人之有能有爲使羞其行而<lb/>
+國其昌臣父故太尉南閣祭酒愼本<lb/>
+從逵受古學蓋聖人不空作皆有依<lb/>
+據今五經之道昭炳光明而文字者<lb/>
+其本所由生自周禮漢律皆當學六書<lb/>
+貫通其意恐巧說衺辝使學者疑愼<lb/>
+<pb n="4b"/>
+博問通人考之於逵作說文解字六<lb/>
+藝群書之詁皆訓其意而天地鬼神<lb/>
+山川艸木鳥獸䖵䖝雜物竒怪王制<lb/>
+禮儀丗間人事莫不畢載凢十五卷<lb/>
+十二萬今說文作十三萬三千四百<lb/>
+四十一字愼前以詔書校書東觀教<lb/>
+小黄門孟生李喜等㠯文字未定未<lb/>
+<pb n="5a"/>
+奏上今愼巳病遣臣齎詣闕愼又學<lb/>
+孝經孔氏古文說古文孝經者孝昭<lb/>
+帝時魯國三老所獻建武時給事中<lb/>
+議郎衛宏所校皆口傳官無其說謹<lb/>
+撰具一篇幷上<hi>臣鍇按後漢書杜林嘗得古文漆書尚書後㠯傳衛宏及徐巡愼又從宏受也</hi>臣誠惶誠恐頓首頓首死辠死辠<lb/>
+䭬首再拜㠯聞皇帝陛下建光元年<lb/>
+<pb n="5b"/>
+九月己亥朔二十日戊午上<hi>臣鍇曰建光元年漢安帝之十五年歳在辛酉也</hi>召上書者汝南許沖詣左<lb/>
+掖門外㑹令并齎所上書十月十九<lb/>
+日中黄門饒喜㠯詔書賜召陵公乗<lb/>
+許沖布四十匹即日受詔朱雀掖門<lb/>
+勑勿謝<lb/>
+<pb n="6a"/>
+說文解字通釋第三十<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

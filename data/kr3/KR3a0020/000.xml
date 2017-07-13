@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>家範</head>
+    <p>
+<pb n="KR3a0020_WYG_000-1a"/>
+欽定四庫全書　　　　　子部一<lb/>
+　家範　　　　　　　　　儒家類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹按家範十卷宋司馬光撰光所著温<lb/>
+　　　　公易説諸書已别著録是書見於宋史藝文<lb/>
+　　　　志文獻通考者卷目俱與此相合葢猶當時<lb/>
+　　　　原本自顔之推作家訓以教子弟其議論甚<lb/>
+　　　　正而詞㫖氾濫不能盡本諸經訓至狄仁傑<lb/>
+<pb n="KR3a0020_WYG_000-1b"/>
+　　　　著有家範一卷史志雖載其目而書已不傳<lb/>
+　　　　光因取仁傑舊名别加甄輯以示後學準繩<lb/>
+　　　　首載周易家人卦辭大學孝經堯典詩思齊<lb/>
+　　　　篇語則即其全書之序也其後自治家至乳<lb/>
+　　　　母凡十九篇皆襍採史傳事可為法則者亦<lb/>
+　　　　間有光所論説與朱子小學義例差異而用<lb/>
+　　　　意畧同其節目備具切於日用簡而不煩實<lb/>
+　　　　足為儒者治行之要朱子嘗論周禮師氏云<lb/>
+<pb n="KR3a0020_WYG_000-2a"/>
+　　　　至徳以為道本明道先生以之敏徳以為行<lb/>
+　　　　本司馬温公以之觀於是編其型方訓俗之<lb/>
+　　　　規尤可以槩見矣乾隆四十二年五月恭校<lb/>
+　　　　上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

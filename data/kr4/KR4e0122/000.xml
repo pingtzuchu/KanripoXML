@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>康齋集</head>
+    <p>
+<pb n="KR4e0122_WYG_000-1a"/>
+欽定四庫全書　　　　集部六<lb/>
+　康齋集　　　　　　　别集類五<hi>明</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案康齋集十二巻明吳與弼撰與弼<lb/>
+　　　　字子傅臨川人天順元年以忠國公石亨薦<lb/>
+　　　　徵至京師授左春坊左諭徳辭不就職詔行<lb/>
+　　　　人䕶送歸其集初刻於撫州凡四巻嵗久漫<lb/>
+　　　　漶此本乃崇禎壬申江南提學副使陳維新<lb/>
+<pb n="KR4e0122_WYG_000-1b"/>
+　　　　所刻分為詩七巻奏疏書襍著一巻序一巻<lb/>
+　　　　記一巻日録一巻跋贊銘啓墓誌墓表祭文<lb/>
+　　　　一巻其詩自永樂庚寅至正統辛酉皆編年<lb/>
+　　　　以下則有洪都藁遊金陵藁適上饒藁金臺<lb/>
+　　　　往復藁西游藁適閩藁東遊藁東遊饒州藁<lb/>
+　　　　諸名而所注某藁止此之後又有附贅之詩<lb/>
+　　　　葢亦以編年續入者也與弼出處之間物論<lb/>
+　　　　頗有異同尹直作瑣綴録詆之尤力雖不免<lb/>
+<pb n="KR4e0122_WYG_000-2a"/>
+　　　　恩怨之口然為石亨作族譜跋稱天順戊寅<lb/>
+　　　　七月二十一日門下士崇仁吳與弼拜觀則<lb/>
+　　　　其文今載十二巻中决非尹直所竄入陳懋<lb/>
+　　　　徳以薛瑄受知王振為解劉世節以孔子欲<lb/>
+　　　　見佛肸為解究不能厭天下之心也其講學<lb/>
+　　　　之功備見於目録第一條即稱乙巳夢見孔<lb/>
+　　　　子文王第二條又稱夢見朱子後又稱丙子<lb/>
+　　　　二月初一日夢訪朱子五月二十五夜夢孔<lb/>
+<pb n="KR4e0122_WYG_000-2b"/>
+　　　　子之孫奉孔子之命来訪辛巳食後倦寢夢<lb/>
+　　　　朱子父子来枉顧此猶可云向慕之極因心<lb/>
+　　　　生象於理或亦有之至稱新居栽竹夜歸其<lb/>
+　　　　妻亦夢一老人攜二從者云孔夫子到此相<lb/>
+　　　　訪則無乃其妻戲侮弄之而與弼不覺歟觀<lb/>
+　　　　其稱隨處惟嘆聖人難學又稱一味學聖人<lb/>
+　　　　克其不似聖人者其志趣之獨髙在此其刻<lb/>
+　　　　畫之過甚亦即在於此矣然與弼之學實能<lb/>
+<pb n="KR4e0122_WYG_000-3a"/>
+　　　　兼採朱陸之長而刻苦自立其及門弟子陳<lb/>
+　　　　獻章得其靜觀涵養遂開白沙之宗胡居仁<lb/>
+　　　　得其篤志力行遂啓餘干之學有明一代兩<lb/>
+　　　　派遞傳皆自與弼倡之其功未可以盡没其<lb/>
+　　　　詩文亦皆淳實近理無後来滉漾恣肆之談<lb/>
+　　　　又不得以其急於行道速於求名遂併其書<lb/>
+　　　　而詆之也乾隆四十六年十月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+<pb n="KR4e0122_WYG_000-3b"/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

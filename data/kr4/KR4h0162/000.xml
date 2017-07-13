@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>甬上耆舊詩</head>
+    <p>
+<pb n="KR4h0162_WYG_000-1a"/>
+欽定四庫全書　　　　　集部八<lb/>
+　甬上耆舊詩　　　　　　總集類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案甬上耆舊詩三十巻<lb/>
+　　　國朝胡文學輯而其友人李鄴嗣為之敘傳者<lb/>
+　　　　也文學字道南鄴嗣號杲堂俱鄞縣人輯明<lb/>
+　　　　州詩文者宋有鄞江集已失傳王應麟四明<lb/>
+　　　　文獻集亦多漏畧至明宋士𢎞之四明雅集<lb/>
+<pb n="KR4h0162_WYG_000-1b"/>
+　　　　二十家戴鯨之續集六十家張時徹之四明<lb/>
+　　　　風雅一百二十家于作者採綴稍廣而源流<lb/>
+　　　　未備鄴嗣嘗撰甬上耆舊傳紀其鄉先哲行<lb/>
+　　　　事頗詳文學因即其傳中之人捜錄遺詩論<lb/>
+　　　　定編次而各以原傳系之始自周文種漢大<lb/>
+　　　　黄公終於明季諸家凡四百三十人得詩三<lb/>
+　　　　千餘首本四十卷甫授梓而文學即世其子<lb/>
+　　　　徳邁因以前三十巻先刋行之每巻之首俱<lb/>
+<pb n="KR4h0162_WYG_000-2a"/>
+　　　　有小序畧依其才品名位髙下為次使各以<lb/>
+　　　　類從而不盡以時代為斷于支派極為詳晰<lb/>
+　　　　中如宋袁爕之絜齋集袁甫之䝉齋集亡佚<lb/>
+　　　　已久今始得于永樂大典中裒集成編文學<lb/>
+　　　　等固宜目所未睹至樓鑰攻媿全集尚有遺<lb/>
+　　　　本流傳而僅據其選集鈔存亦為捜羅未至<lb/>
+　　　　然其體例精審于部居州次之中寓論世知<lb/>
+　　　　人之義徵文考獻條理秩然固非世之弔名<lb/>
+<pb n="KR4h0162_WYG_000-2b"/>
+　　　　悦俗瓦礫雜陳者所得而相比矣乾隆四十<lb/>
+　　　　四年三月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

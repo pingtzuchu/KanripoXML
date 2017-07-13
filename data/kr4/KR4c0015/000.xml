@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>九家集注杜詩</head>
+    <p>
+<pb n="KR4c0015_WYG_000-1a"/>
+御製題郭知達集九家注杜詩<lb/>
+平生結習最於詩老杜真堪作我師書出曽鋟實郭集<lb/>
+本仍寳慶及淳熈九家正注宜存耳<hi>是編為宋郭知達集九家注乃王文</hi>
+<hi>公宋景文豫章先生王源叔薛夢符杜時可鮑文虎師民瞻趙彦材見於知達序其言王文公即王安石宋景</hi>
+<hi>文即宋祁王源叔名洙杜時可名田師民瞻名尹趙彦材名次公薛夢符鮑文虎即其名豫章先生葢黄庭堅</hi>
+<hi>也版刻於廣東詳見曽噩序巻後署云寳慶乙酉廣東漕司鋟版馬端臨文獻通考載此版亦稱為善本</hi>餘<lb/>
+氏支辭概去之適以遺編搜四庫乃斯古刻見漕司<hi>此書</hi>
+<hi>舊藏武英殿僅為庫貯陳編無有知其為宋槧者兹以校勘四庫全書向武英殿移取書籍始鑒及之而前此</hi>
+<pb n="KR4c0015_WYG_000-1b"/>
+<hi>竟未列入天禄琳瑯豈書筞之遇合遲早亦有數耶</hi>希珍際遇殊驚晚尤物闇章<lb/>
+固有時重以琳瑯續天禄<hi>天禄琳瑯惜早已成書此本當為續入上等</hi>幾閒<lb/>
+萬遍讀何辭<lb/>
+再題宋版九家注杜詩<lb/>
+兌氏之戈和氏弓續増天禄吉光中浣花眉列新全帙<lb/>
+金粟身存舊巻筒<hi>世以藏經紙之未作經冊者為巻筒紙最為難得此書面頁用之</hi>尤<lb/>
+物寧論顯與晦逢時亦有塞兮通武英棄置今方出<hi>是書</hi>
+<hi>
+                        <graphic n="KR0869" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0869.png" mimeType="image/png"/>塵武英殿庫架不知幾許年兹以校勘四庫全書始物色及之且辨其為宋槧善本即此不可以悟人材之</hi>
+<pb n="KR4c0015_WYG_000-2a"/>
+<hi>或有沈淪耶</hi>絜矩人材黙惕衷<lb/>
+<pb n="KR4c0015_WYG_000-3a"/>
+欽定四庫全書　　　　　集部二<lb/>
+　九家集注杜詩　　　　　别集類一<hi>唐</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案九家集注杜詩三十六巻宋郭知<lb/>
+　　　　達編知達蜀人前有自序作於淳熈八年又<lb/>
+　　　　有曾噩重刻序作於寳慶元年噩據書録解<lb/>
+　　　　題作字子肅閩清人凌知迪萬姓統譜則作<lb/>
+　　　　字噩甫閩縣人慶元中尉上髙復遷廣東漕<lb/>
+<pb n="KR4c0015_WYG_000-3b"/>
+　　　　使與陳振孫所記小異振孫與噩同時迪知<lb/>
+　　　　所叙又與序中結銜合未詳孰是也宋人喜<lb/>
+　　　　言杜詩而注杜詩者無善本此書集王洙宋<lb/>
+　　　　祁王安石黄庭堅薛夢符杜田鮑彪師尹趙<lb/>
+　　　　彦材九家之注頗為簡要知達序稱屬二三<lb/>
+　　　　士友隨是非而去取之如假託名氏撰造事<lb/>
+　　　　實皆刪削不載陳振孫書録解題亦曰世有<lb/>
+　　　　稱東坡故事者<hi>案當作老杜事實</hi>隨事造文一一牽<lb/>
+<pb n="KR4c0015_WYG_000-4a"/>
+　　　　合而皆不言其所自出且其詞氣首末出一<lb/>
+　　　　口葢妄人偽託以欺亂流俗者書坊輒鈔入<lb/>
+　　　　集注中殊敗人意此本獨削去之云云與序<lb/>
+　　　　相合知其别裁有法矣振孫稱噩刋板五羊<lb/>
+　　　　漕司字大宜老<hi>案宜老謂宜乎老眼刻本或作可考非</hi>最為善<lb/>
+　　　　本此本即噩家所初印字畫端勁而清楷宋<lb/>
+　　　　板中之絶佳者振孫所言固不為虚云乾隆<lb/>
+　　　　四十九年十一月恭校上<lb/>
+<pb n="KR4c0015_WYG_000-4b"/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

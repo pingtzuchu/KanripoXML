@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2d0001_WYG_011-1a"/>
+　　　昭德晁公武志<lb/>
+汲冢書十卷葢晉太康中汲郡與穆天子傳同得晉孔<lb/>
+晁注葢孔子删採之餘凡七十篇古者天子諸侯皆有<lb/>
+史官唯書法信實者行于世秦漢罷黜封建獨天子之<lb/>
+史存然史官或怯而阿世貪而曲筆虚美隠惡不足考<lb/>
+信則儒學處士必私有記述以伸其志將來賴之以證<lb/>
+史官之失其功亦大矣以司馬遷之博聞猶采數家之<lb/>
+言以成其書况其下者乎亦有聞見单淺記錄失實胸<lb/>
+<pb n="KR2d0001_WYG_011-1b"/>
+臆偏私褒貶弗公誤後世在觀者慎擇而已矣<lb/>
+<pb n="KR2d0001_WYG_011-2a"/>
+晉孔晁注周書十卷按隋唐經籍志藝文志皆稱此書<lb/>
+得於晉太康中汲郡魏安釐王冢孔晁注或稱十卷或<lb/>
+八卷大抵不殊若此則晉以前初未有此也然劉向所<lb/>
+錄及班固並著周書七十一篇且謂孔子删削之餘而<lb/>
+司馬遷史記武王克殷事葢與此合豈西漢世已得入<lb/>
+中秘其後稍隠學者不道及盜發冢<hi>闕</hi>幸復出邪篇目<lb/>
+比漢但闕一耳必班劉司馬所<hi>闕</hi>　己繫之汲冢失其<lb/>
+本矣書多駮辭宜孔子所不取<hi>闕</hi>戰國處士私相綴續<lb/>
+<pb n="KR2d0001_WYG_011-2b"/>
+託周為名孔子亦未見古章句或舛訛難讀聊復傳寫<lb/>
+以待是正巽巖李燾<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

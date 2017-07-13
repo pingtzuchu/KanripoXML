@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>魯齋集</head>
+    <p>
+<pb n="KR4d0371_WYG_000-1a"/>
+欽定四庫全書　　　　　集部四<lb/>
+　魯齋集　　　　　　　　别集類三<hi>宋</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案魯齋集二十巻宋王柏撰柏好妄<lb/>
+　　　　逞私臆竄亂古經詩三百篇重為刪定書之<lb/>
+　　　　周誥殷盤皆昌言排擊無所忌憚殊不可以<lb/>
+　　　　為訓其詩文雖亦豪邁雄肆然大㫖乃一軌<lb/>
+　　　　于理宋史儒林傳稱其少慕諸葛亮之為人<lb/>
+<pb n="KR4d0371_WYG_000-1b"/>
+　　　　自號長嘯年踰三十始知家學之原<hi>案柏之祖師愈</hi>
+　　　　<hi>受業於楊時其父瀚亦及朱子吕祖謙之門故史文云然</hi>與其友汪開之<lb/>
+　　　　著論語通㫖至居處恭執事敬惕然嘆曰長<lb/>
+　　　　嘯非聖門持敬之道亟更以魯齋盖其天資<lb/>
+　　　　卓犖本一桀驁不馴之才後雖折節學問以<lb/>
+　　　　鎔鍊其氣質而好高務異之意仍時時不能<lb/>
+　　　　自遏故當其挺而横决至於敢攻孔子手定<lb/>
+　　　　之經其詩文雖刻意收歛務使比附於理而<lb/>
+<pb n="KR4d0371_WYG_000-2a"/>
+　　　　强就繩尺時露有心牽綴之迹終不似濓溪<lb/>
+　　　　諸儒深醇和粹自然合道也特其勇於淬礪<lb/>
+　　　　檢束客氣使縱横者一出於正為足取耳集<lb/>
+　　　　中第一巻有夀賈秋壑詩極稱其援鄂之功<lb/>
+　　　　諛頌備至是亦白璧之瑕然核檢諸書均不<lb/>
+　　　　載其有依附權門之事不知何以有此作其<lb/>
+　　　　集乃明正統間柏六世孫四川按察司僉事<lb/>
+　　　　迪所重編又不知何以載之集中畧無所諱<lb/>
+<pb n="KR4d0371_WYG_000-2b"/>
+　　　　均不可解疑以傳疑存而不論可矣乾隆四<lb/>
+　　　　十五年二月恭校上<lb/>
+　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　　　總　校官<hi>臣</hi>陸　費墀<lb/>
+<pb n="KR4d0371_WYG_000-3a"/>
+原序<lb/>
+孔子曰禮云禮云玉帛云乎哉樂云樂云鐘皷云乎哉<lb/>
+文之為文闗乎道也古之聖賢得時行道若堯舜禹湯<lb/>
+文武之為君臯䕫稷契伊傅周召之為臣善政嘉謨載<lb/>
+之方冊夫是之謂文或聖賢之徒不見用於時窮極天<lb/>
+人之理攷古帝王經世之道若孔子而下顔曽思孟刪<lb/>
+定著述開示後世夫是之謂文是皆不倚於物而能與<lb/>
+天地日月同悠久者係乎道也下逮戰國能言之士各<lb/>
+<pb n="KR4d0371_WYG_000-3b"/>
+以所見立為議論或戾乎聖賢之道者君子有所擇焉<lb/>
+漢唐以下代有作者揆之於道醇乎醇者殆亦鮮矣宋<lb/>
+濓洛闗閩諸君子出然後性理之學天開日朗學者有<lb/>
+所依據文章議論一歸於正道之明也辭則存乎人也<lb/>
+金華王文憲公天資髙爽學力精至以其實見發為文<lb/>
+章足以明道徳使其見用足以建事功而卒老於丘園<lb/>
+惜哉若其詩歌又其餘事也六世孫四川按察僉事廸<lb/>
+裒而成帙義烏縣正廬陵劉同丞鄱陽劉傑政有餘力<lb/>
+<pb n="KR4d0371_WYG_000-4a"/>
+用鋟諸梓其亦知所用心者哉南郡楊溥序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

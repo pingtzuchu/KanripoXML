@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>詩解頥</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　經部三<lb/>
+　詩解頥　　　　　　　詩類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案詩解頥四卷明朱善撰善字備萬號一<lb/>
+　　　　齋豐城人洪武中官至文淵閣大學士事迹附明<lb/>
+　　　　史劉三吾傳是編不載經文但以詩之篇題<lb/>
+　　　　標目大抵推衍朱子集傳為說亦有闕而不<lb/>
+　　　　說者則併其篇目畧之其説不甚訓詁字句<lb/>
+<pb n="1b"/>
+　　　　惟意主借詩以立訓故反覆發明務在闡興<lb/>
+　　　　觀羣怨之㫖温柔敦厚之意而於興衰治亂<lb/>
+　　　　尤推求源本剴切著明在經解中為别體而<lb/>
+　　　　寔較諸儒之争競異同者為有禆於人事其<lb/>
+　　　　論何彼襛矣為後人誤編於召南葢沿王柏<lb/>
+　　　　之謬說不足為據其論二子乘舟謂夀可謂<lb/>
+　　　　之悌弟伋不可謂之孝子律以大杖則逃之<lb/>
+　　　　文固責備賢者之意實則申生自縊春秋無<lb/>
+<pb n="2a"/>
+　　　　貶尚論古人亦未可若是苛也然論其大㫖<lb/>
+　　　　要歸醇正不失為儒者之言其於太王翦商<lb/>
+　　　　一條引金履祥之言補集傳所未備其據宣<lb/>
+　　　　王在位四十六年謂節彼南山之申伯蹶父<lb/>
+　　　　皇父尹氏皆非當日之舊人駁項安世之説<lb/>
+　　　　亦時有考據明史載其引據往史駁律禁姑<lb/>
+　　　　舅兩姨為婚之説極為典核知其研思典籍<lb/>
+　　　　具有發明葢元儒篤實之風明初猶有存焉<lb/>
+<pb n="2b"/>
+　　　　非後来空談髙論者比也乾隆四十六年十月<lb/>
+　　　　恭校上<lb/>
+　　　　　　　　總纂官<hi>臣</hi>紀旳<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

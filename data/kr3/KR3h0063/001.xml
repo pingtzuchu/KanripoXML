@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3h0063_WYG_001-1a"/>
+　　　乾隆九年二月初十日奉<lb/>
+　上諭<lb/>
+三朝御筆藏之金匱者焜煌典重實為超越前古朕毎<lb/>
+　　一捧觀輙増永慕所當敬為什襲貽我後人又内<lb/>
+　　府所儲厯代書畫積至萬有餘種籖軸既繁不無<lb/>
+　　真贋頃釋道二典已編為秘殿珠林一集此外並<lb/>
+　　宜詳加别白遴其佳者薈萃成編朕少年時間涉<lb/>
+　　獵書繪登極後毎緣幾暇結習未忘弄翰抒毫動<lb/>
+<pb n="KR3h0063_WYG_001-1b"/>
+　　成卷帙應一並分類詮次用誌歲月至臣工先後<lb/>
+　　經進書畫暨傳入御府者往往有可觀覽選擇排<lb/>
+　　比亦足標藝林之雅且我<lb/>
+列聖貽留墨寳厯乆逾新即前賢斷紙零縑用是有所<lb/>
+　　稽考朕於清讌之餘偶一披閲悦心研慮左圖右<lb/>
+　　史古人豈其逺哉欽此<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

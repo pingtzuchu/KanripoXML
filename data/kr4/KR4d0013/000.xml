@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4d0013_SBCK_000-1a"/>
+林和靖先生詩集叙<lb/>
+天聖中聞錢塘西湖之上有林君嶄嶄有聲若髙峰<lb/>
+深泉望之可愛即之愈清挹之甘㓗而不厭也是時<lb/>
+余因適㑹稽還訪扵雪中其談道孔孟也其語近世<lb/>
+之文韓李也其順物玩情為之詩則平澹䆳羙詠之<lb/>
+令人忘百事也其辭主乎静正不主乎刺譏然後知<lb/>
+其趣向博逺寄適扵詩爾君在咸平景徳間巳大有<lb/>
+聞㑹朝廷脩封禅未及䛇聘故終老而不得施用扵<lb/>
+時凡貴人鉅公一来語合慕仰低囬不忍去君既老<lb/>
+不𣣔強𧺫之乃令長吏歲時勞問及其殁也謚曰和<lb/>
+<pb n="KR4d0013_SBCK_000-1b"/>
+靖先生先生少時多病不娶無子諸孫大言能掇拾<lb/>
+所為詩請余為序先生諱逋字君復年六十二其詩<lb/>
+時人貴重甚扵寳玉先生未嘗自貴也就輙棄之故<lb/>
+所存者百無一二焉扵戯惜㢤<lb/>
+皇祐五年六月十三日太常博士梅堯臣撰<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

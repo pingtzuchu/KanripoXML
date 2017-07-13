@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3h0063_WYG_034-1a"/>
+欽定四庫全書<lb/>
+石渠寶笈卷十六目録<lb/>
+　　　貯<lb/>
+　　養心殿<lb/>
+　　　列朝人書畫<lb/>
+　　畫卷次等<lb/>
+　　　五代周文矩牧羊圖<lb/>
+　　　宋徽宗秋塘山鳥圖<lb/>
+<pb n="KR3h0063_WYG_034-1b"/>
+　　　宋董源夏山欲雨圖<lb/>
+　　　宋郭忠恕臨王維輞川圖<lb/>
+　　　宋郭熙樹色平逺圖<lb/>
+　　　宋李公麟畫歸去來詞圖<lb/>
+　　　宋李公麟竹林七賢圖<lb/>
+　　　宋李公麟九歌圖<lb/>
+　　　宋陳居中蘇李别意圖<lb/>
+　　　宋謝元畫折枝碧桃<lb/>
+<pb n="KR3h0063_WYG_034-2a"/>
+　　　宋陳自明花草<lb/>
+　　　元趙雍黄公望合卷<lb/>
+　　　元黄公望沙磧圖<lb/>
+　　　元黄公望溪山無盡圖<lb/>
+　　　元黄公望溪山雨意圖<lb/>
+　　　元黄公望畫九品蓮花<lb/>
+　　　元王振鵬畫伯牙鼓琴圖<lb/>
+　　　元倪瓚壺月軒圖<lb/>
+<pb n="KR3h0063_WYG_034-2b"/>
+　　　元吳鎮畫竹<lb/>
+　　　元吳鎮萬峰幽壑圖<lb/>
+　　　元任仁發神駿圖<lb/>
+　　　明吳偉蘆雁<lb/>
+　　　明沈周秋窓客話圖<lb/>
+　　　明沈周溪橋雨景<lb/>
+　　　明沈周大夫松圖<lb/>
+　　　明仇英晴江春色圖<lb/>
+<pb n="KR3h0063_WYG_034-3a"/>
+　　　明徐渭寫生<lb/>
+　　　明莫是龍湖山佳趣圖<lb/>
+　　　明沈士充雪景山水<lb/>
+　　　明張復秋山行旅圖<lb/>
+　　　無名氏書畫目録<lb/>
+　　畫卷上等<lb/>
+　　　宋人寫梅花詩意<lb/>
+　　畫卷次等<lb/>
+<pb n="KR3h0063_WYG_034-3b"/>
+　　　宋人蘆雁<lb/>
+　　　宋人牧羊圖<lb/>
+　　　宋人摹郭忠恕四獵圖<lb/>
+　　　元人支遁洗馬圖<lb/>
+　　　元人四孝圖<lb/>
+　　　明人釣月亭圖<lb/>
+　　　明人畫瑞應圖<lb/>
+　　　明人畫騶虞圖<lb/>
+<pb n="KR3h0063_WYG_034-4a"/>
+　　　明人長江萬里圖<lb/>
+　　國朝人書畫目録<lb/>
+　　畫卷上等<lb/>
+　　　王武花草寫意<lb/>
+　　　查士標烟江獨泛圖<lb/>
+　　　赫奕倣董其昌宿雨含烟圖<lb/>
+　　　冷枚倣仇英漢宫春曉圖<lb/>
+　　　畫院丹臺春曉圖<lb/>
+<pb n="KR3h0063_WYG_034-4b"/>
+　　　畫院慶豐圖<lb/>
+　　　畫院清明上河圖<lb/>
+　　畫卷次等<lb/>
+　　　髙簡探梅圖<lb/>
+　　　徐枚畫江南春<lb/>
+　　　王原祁西嶺雲霞圖<lb/>
+　　　蔣廷錫花草<lb/>
+　　　張若靄臨李迪荔子圖<lb/>
+<pb n="KR3h0063_WYG_034-5a"/>
+　　　鄒一桂百花圖<lb/>
+　　　丁觀鵬太平春市圖<lb/>
+　　　余省倣林椿花鳥<lb/>
+　　　列朝人書畫目録<lb/>
+　　書畫合卷上等<lb/>
+　　　唐閻立本孝經圖褚遂良書<lb/>
+　　　明唐寅臨李伯時飲仙圖並書歌<lb/>
+　　　明唐寅畫蘭亭文徴明書序<lb/>
+<pb n="KR3h0063_WYG_034-5b"/>
+　　　明文徴明林泉雅適圖並書七言長句<lb/>
+　　　明陳淳源東圖並書岳陽樓記<lb/>
+　　書畫合卷次等<lb/>
+　　　明文徴明輞川圖王榖祥書詩<lb/>
+　　　明文徴明赤璧圖祝允明書賦<lb/>
+　　　明文徴明遊西山詩並繪圖<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

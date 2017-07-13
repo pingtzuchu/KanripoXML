@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>文章辨體彚選巻七百四十八</head> <lb/>
+    <p>
+<pb n="KR4h0132_WYG_748-1a"/>
+欽定四庫全書<lb/>
+　文章辨體彚選巻七百四十八<lb/>
+　　　　　　　　　　　　明　賀復徵　編<lb/>
+弔書二<hi>别體</hi>
+　復徵曰時劉賈已亡孝標作書曰答東坡作啟曰謝<lb/>
+　皆剏體也列之以備一種<lb/>
+　　重答劉秣陵沼書<hi>梁劉峻</hi>
+劉侯既重有斯難値余有天倫之慼竟未之致也尋而<lb/>
+<pb n="KR4h0132_WYG_748-1b"/>
+此君長逝化為異物緒言餘論藴而莫傳或有自其家<lb/>
+得而示余者余悲其音徽未沫而其人已亡青簡尚新<lb/>
+宿草將列泫然不知涕之無從也雖隙駟不留尺波電<lb/>
+謝而秋菊春蘭英華靡絶故存其梗槩更酬其㫖若使<lb/>
+墨翟之言無爽宣室之談有徵冀東平之樹望咸陽而<lb/>
+西靡葢山之泉聞絃歌而赴節但懸劒空隴有恨如何<lb/>
+　　謝賈朝奉啟<hi>宋蘇軾</hi>
+自蜀徂京幾四千里攜孥去國葢二十年側聞松楸已<lb/>
+<pb n="KR4h0132_WYG_748-2a"/>
+中梁柱過而下馬空瞻董相之陵酹以隻鷄誰副橋公<lb/>
+之約宦游歲晚坐念涕流未報不貲之恩敢懷盍歸之<lb/>
+意常恐樵牧不禁行有雍門之悲雨露既濡空引太行<lb/>
+之望豈謂通判某官政先慈孝義篤友朋首隆學校之<lb/>
+師儒次訪里閭之耆舊自嗟來暮不聞㧞薤之規尚意<lb/>
+神交特致生芻之奠父老感嘆桑梓光華深衣練冠莫<lb/>
+克垂涕於墓道昔𥜗今袴尚能皷舞於民謠仰佩之深<lb/>
+力古難盡<lb/>
+<pb n="KR4h0132_WYG_748-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　文章辨體彚選巻七百四十八<lb/>
+<pb n="KR4h0132_WYG_748-3a"/>
+欽定四庫全書<lb/>
+　文章辨體彚選巻七百四十八<lb/>
+　　　　　　　　　　　　明　賀復徵　編<lb/>
+弔書二<hi>别體</hi>
+　復徵曰時劉賈已亡孝標作書曰答東坡作啟曰謝<lb/>
+　皆剏體也列之以備一種<lb/>
+　　重答劉秣陵沼書<hi>梁劉峻</hi>
+劉侯既重有斯難値余有天倫之慼竟未之致也尋而<lb/>
+<pb n="KR4h0132_WYG_748-3b"/>
+此君長逝化為異物緒言餘論藴而莫傳或有自其家<lb/>
+得而示余者余悲其音徽未沫而其人已亡青簡尚新<lb/>
+宿草將列泫然不知涕之無從也雖隙駟不留尺波電<lb/>
+謝而秋菊春蘭英華靡絶故存其梗槩更酬其㫖若使<lb/>
+墨翟之言無爽宣室之談有徵冀東平之樹望咸陽而<lb/>
+西靡葢山之泉聞絃歌而赴節但懸劒空隴有恨如何<lb/>
+　　謝賈朝奉啟<hi>宋蘇軾</hi>
+自蜀徂京幾四千里攜孥去國葢二十年側聞松楸已<lb/>
+<pb n="KR4h0132_WYG_748-4a"/>
+中梁柱過而下馬空瞻董相之陵酹以隻鷄誰副橋公<lb/>
+之約宦游歲晚坐念涕流未報不貲之恩敢懷盍歸之<lb/>
+意常恐樵牧不禁行有雍門之悲雨露既濡空引太行<lb/>
+之望豈謂通判某官政先慈孝義篤友朋首隆學校之<lb/>
+師儒次訪里閭之耆舊自嗟來暮不聞㧞薤之規尚意<lb/>
+神交特致生芻之奠父老感嘆桑梓光華深衣練冠莫<lb/>
+克垂涕於墓道昔𥜗今袴尚能皷舞於民謠仰佩之深<lb/>
+力古難盡<lb/>
+<pb n="KR4h0132_WYG_748-4b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　文章辨體彚選巻七百四十八<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

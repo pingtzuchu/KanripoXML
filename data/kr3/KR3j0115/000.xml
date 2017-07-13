@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>東園業説</head>
+    <p>
+<pb n="KR3j0115_WYG_000-1a"/>
+欽定四庫全書　　　　　子部十<lb/>
+　東園業説　　　　　　　雜家類三<hi>雜説之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案東園叢説三卷舊本題宋李如篪<lb/>
+　　　　撰如篪始末未詳據巻首紹興壬子自序則<lb/>
+　　　　括蒼人時為桐鄉丞也又有紹興甲寅建安<lb/>
+　　　　周庭筠刻是書䟦稱為東園先生則東園其<lb/>
+　　　　號矣其書諸家不著錄莫考其所自來下卷<lb/>
+<pb n="KR3j0115_WYG_000-1b"/>
+　　　　雜説中載所作初夏詩及其父歡喜口號三<lb/>
+　　　　首為向來錄宋詩者所未及又是書序于壬<lb/>
+　　　　子為紹興元年刋于甲寅為紹興三年而紀<lb/>
+　　　　時事一條紀紹興六年楊么李成憸佞一條<lb/>
+　　　　紀紹興二十四年秦勛登第事以少敗衆一<lb/>
+　　　　條紀紹興三十一年兩淮失守事且有稱髙<lb/>
+　　　　宗廟號者則書當成于孝宗時年月殊不相<lb/>
+　　　　應且語孟説一門語孟合稱不似南宋初語<lb/>
+<pb n="KR3j0115_WYG_000-2a"/>
+　　　　所辨北辰不動一條與明陳士元論語類考<lb/>
+　　　　之説同似乎曽見集註故有此説亦不似朱<lb/>
+　　　　子以前語其天文歴數説謂今之渾天實盖<lb/>
+　　　　天之法亦似歐邏巴書既入中國之語宋以<lb/>
+　　　　前即推步之家未明此理無論儒生或近時<lb/>
+　　　　好事者捃摭舊文益以所見偽為此帙託之<lb/>
+　　　　宋人歟然但就其書而論則所言雖不盡精<lb/>
+　　　　核亦時有可采如春秋行夏時一條謂以建<lb/>
+<pb n="KR3j0115_WYG_000-2b"/>
+　　　　子為周正月乃左氏之失不知左氏周人紀<lb/>
+　　　　他事或失之誣至于本朝正朔則婦豎皆知<lb/>
+　　　　左氏不容有誤詩亡春秋作一條謂孔子所<lb/>
+　　　　聞所見之世無詩不知株林夏南詩有姓名<lb/>
+　　　　不能移之東□前也召公不悦一條謂周公<lb/>
+　　　　朝諸侯于明堂召公嘗北面而事之則誤信<lb/>
+　　　　明堂位之謬説左傳其處者為劉氏一條疑<lb/>
+　　　　邱明先知又疑其附㑹則未考此句為漢儒<lb/>
+<pb n="KR3j0115_WYG_000-3a"/>
+　　　　増入孔頴達正義已有明文然如解王用三<lb/>
+　　　　驅引周官大司馬立表為證解坤六五爻駁<lb/>
+　　　　程傳女媧武氏之非解説卦生蓍糾揚雄産<lb/>
+　　　　蓍之誤解繫辭太極生兩儀為生蓍之法引<lb/>
+　　　　左傳楚有句澨漳澨雍澨蓬澨諸地證三澨<lb/>
+　　　　非水名解關雎為后妃求淑女引崔靈恩三<lb/>
+　　　　禮義宗證縮酒用茅之義以及考究易之八<lb/>
+　　　　法及六百七分之説推算絳縣人甲子之類<lb/>
+<pb n="KR3j0115_WYG_000-3b"/>
+　　　　皆典核不茍于經義頗為有禆故與岳珂棠<lb/>
+　　　　湖詩稿雖皆出自近日顯有可疑而以其書<lb/>
+　　　　可採亦姑並存之以資𠫭訂焉乾隆四十六<lb/>
+　　　　年十月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="KR3j0115_WYG_000-4a"/>
+東園叢説原序<lb/>
+僕頃年僻居語兒之東鄉既無進取之望又不能營治<lb/>
+資産日與樵漁農圃者處羮藜飯糗安分循理亦足以<lb/>
+自樂時時披閲文集省記舊聞隨手筆之遂成卷帙其<lb/>
+間經史子集天文地理厯數之説無不有之目之曰東<lb/>
+園叢説好古博雅君子覽之者殆有取焉紹興壬子三<lb/>
+月下澣桐鄉丞括蒼李如篪自序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

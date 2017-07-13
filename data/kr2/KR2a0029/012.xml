@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2a0029_WYG_012-1a"/>
+　舊五代史巻五攷證<lb/>
+梁太祖紀五襄州都指揮使陳暉　按歐陽史作行營<lb/>
+　招討使左衛上將軍陳暉<lb/>
+復收襄州人户歸業　按歐陽史云九月壬寅陳暉克<lb/>
+　襄州據是書則陳暉以壬寅奏㨗非以是日克城攷<lb/>
+　通鑑克城繫九月丁酉與是書今月五日正合歐陽<lb/>
+　史葢據奏㨗之日而書之耳<lb/>
+以收復襄漢受宰臣以下稱賀　按襄漢下原本衍收<lb/>
+<pb n="KR2a0029_WYG_012-1b"/>
+　字今刪<lb/>
+并令司門郎中員外郎　司門原本作司關考五代㑹<lb/>
+　要有司門郎中今改正<lb/>
+故得外戎内夏　内夏原本訛作内憂今據文改正<lb/>
+辛亥宴宰臣於内殿　按原本脱宴字今増入<lb/>
+鎮海軍節度使錢鏐擊髙灃於湖州大敗　按九國志<lb/>
+　髙灃以三年十月叛四年二月奔呉是書繫於四月<lb/>
+　葢以奏聞之月為據<lb/>
+<pb n="KR2a0029_WYG_012-2a"/>
+劉知俊攻逼夏州　按五代春秋八月晉人秦人侵夏<lb/>
+　與是書及通鑑異<lb/>
+甲午至西京　按五代春秋作九月己丑帝還西都歐<lb/>
+　陽史同通鑑作己丑上發陜甲午至洛陽<lb/>
+國禮使杜廷隠　廷隠原本作定隠下文仍作廷隠今<lb/>
+　據九國志改<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2a0029_WYG_012-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　舊五代史巻五考證<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

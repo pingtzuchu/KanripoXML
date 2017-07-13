@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>靖康要錄</head>
+    <p>
+<pb n="KR2b0029_WYG_000-1a"/>
+欽定四庫全書　　　　　史部二<lb/>
+　靖康要錄　　　　　　　編年類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案靖康要録十二卷不著撰人名氏<lb/>
+　　　　陳振孫書錄解題曰靖康要録五卷不知作<lb/>
+　　　　者記欽宗在儲時及靖康一年之事按日編<lb/>
+　　　　次凡政事制度及詔誥之類皆詳載焉其與<lb/>
+　　　　金國和戰諸事編載尤詳云云是振孫之時<lb/>
+<pb n="KR2b0029_WYG_000-1b"/>
+　　　　已莫知出誰手矣今觀其書記事具有月日<lb/>
+　　　　載文具有首尾决非草野之士不覩國史日<lb/>
+　　　　厯者所能作書末一條稱髙宗為今上又所<lb/>
+　　　　載秦檜事詞意左袒足徴為紹興時人之筆<lb/>
+　　　　也其臣僚奏貶李綱事綱以忠直之資不主<lb/>
+　　　　割地議和觸忤時宰是時耿南仲以欽宗舊<lb/>
+　　　　學為相與綱不合擠之出師又減放兵馬令<lb/>
+　　　　諸将不受節制幸其敗以快私心貶綱之奏<lb/>
+<pb n="KR2b0029_WYG_000-2a"/>
+　　　　極其醜詆葢皆時宰之意而託為百寮同疏<lb/>
+　　　　以示公論耳宋人雜史傳于今日者如熊克<lb/>
+　　　　中興小紀李心傳建炎以來繫年要録之類<lb/>
+　　　　大抵於南宋為詳其詳于北宋者惟李燾續<lb/>
+　　　　資治通鑑長編而已然世所行長編率多佚<lb/>
+　　　　缺今以永樂大典所載補之亦僅及哲宗而<lb/>
+　　　　止徽宗之事遂以無徵徐夢莘三朝北盟㑹<lb/>
+　　　　編起政和迄建炎雖較他書為詳悉而所錄<lb/>
+<pb n="KR2b0029_WYG_000-2b"/>
+　　　　事跡章疏惟以有涉金人者為主餘則畧焉<lb/>
+　　　　此書雖叙事少畧載文太繁而一時朝政具有<lb/>
+　　　　端委多有史所不詳者即以補李燾長編亦<lb/>
+　　　　無不可也乾隆四十六年九月恭校上<lb/>
+　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

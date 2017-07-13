@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4j0053_WYG_002-1a"/>
+竹山詞跋<lb/>
+昔人評詞盛稱李氏晏氏父子及耆卿子野子㳺子瞻<lb/>
+美成堯章止矣蔣勝欲冺焉無聞今讀竹山詞一巻語<lb/>
+語纎巧真世説靡也字字妍倩真六朝隃也豈其稍劣<lb/>
+於諸公耶或讀招落梅魂一詞謂其磊落横放與辛㓜<lb/>
+安同調其殆以一班而失全豹矣湖南毛晉識<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

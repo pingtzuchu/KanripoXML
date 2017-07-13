@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>虎鈐經</head>
+    <p>
+<pb n="KR3b0013_WYG_000-1a"/>
+欽定四庫全書　　　　子部二<lb/>
+　虎鈐經　　　　　　　兵家類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案虎鈐經二十巻宋許洞撰洞字淵<lb/>
+　　　　夫呉興人咸平三年進士為雄武軍推官免<lb/>
+　　　　歸㝷召試中書改烏江縣簿坐事變姓名隠<lb/>
+　　　　中條山龔明之中呉紀聞謂洞平生以文章<lb/>
+　　　　自負所著詩篇甚多歐陽修嘗稱為俊逸之<lb/>
+<pb n="KR3b0013_WYG_000-1b"/>
+　　　　士者是也是書巻首有洞進表及自序大意<lb/>
+　　　　謂孫子兵法奥而精學者難於曉用李筌太<lb/>
+　　　　白隂符經論心術則秘而不言談隂陽又散<lb/>
+　　　　而不備乃演孫李之要而撮天時人事之變<lb/>
+　　　　備舉其占凡六壬遁甲星辰日月風雲氣候<lb/>
+　　　　風角鳥情以及宣文設奠醫藥之用人馬相<lb/>
+　　　　法莫不具載積四年書成凡二百十篇分二<lb/>
+　　　　十卷名曰虎鈐經大都彚輯前人之説而叅<lb/>
+<pb n="KR3b0013_WYG_000-2a"/>
+　　　　以己意惟第九卷所載飛鶚長虹重覆八卦<lb/>
+　　　　四陣及飛轅寨諸國為洞自創耳其四陣統<lb/>
+　　　　論自以為逺勝李筌所纂其間亦多迂濶誕<lb/>
+　　　　渺之説不足見諸施行然孝漢書藝文志兵<lb/>
+　　　　家者流有兵權謀兵形勢隂陽諸類凡七百<lb/>
+　　　　餘篇葢古來有此専門之學今漢志所録者<lb/>
+　　　　久已亡佚而洞獨能掇拾遺文撰次成帙不<lb/>
+　　　　可謂非一家之言録而存之亦足以備一説<lb/>
+<pb n="KR3b0013_WYG_000-2b"/>
+　　　　也乾隆四十六年十一月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

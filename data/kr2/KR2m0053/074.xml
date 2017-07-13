@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2m0053_WYG_074-1a"/>
+欽定四庫全書<lb/>
+欽定八旗通志卷六十<lb/>
+　氏族志七<lb/>
+　　八旗高麗譜系<lb/>
+李氏<lb/>
+　　<hi>凡七派一出黄河套一出開城府一出平安道一出易州一出葢州一出栁闗屯一出李佳堡</hi>
+　<hi>國謹案李氏係高麗國王之姓我族𨽻滿洲旗分者  家肇興東土即稱臣内屬其氏</hi>
+<hi>㫖以甚繁今纂八旗氏族志書謹遵    李氏列於高麗姓氏之首</hi>
+<pb n="KR2m0053_WYG_074-1b"/>
+金氏<lb/>
+　　<hi>凡七派一出易州一出海州一出開城府一出金家堡一出望京一出葢州一出紅溪堡</hi>
+韓氏<lb/>
+　　<hi>凡二派一出易州一出安法</hi>
+朴氏<lb/>
+　　<hi>凡五派一出易州一出平壤一出開城府一出平安道一出蜀州</hi>
+張氏<lb/>
+　　<hi>凡四派一出易州一出望京一出開州一出碧漢</hi>
+<pb n="KR2m0053_WYG_074-2a"/>
+傅氏<lb/>
+　　<hi>謹案氏族通譜所載是派無考</hi>
+柏氏<lb/>
+　　<hi>系出易州</hi>
+洪氏<lb/>
+　　<hi>凡四派一出南大門一出得州一出易州一出開城府</hi>
+崔氏<lb/>
+　　<hi>凡四派一出易州一出<graphic n="KR1000" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1000.png" mimeType="image/png"/>克山一出開城府一出得州</hi>
+<pb n="KR2m0053_WYG_074-2b"/>
+劉氏<lb/>
+　　<hi>凡二派一出安法一出博川郡</hi>
+黄氏<lb/>
+　　<hi>凡三派一出易州一出開州一出盖州</hi>
+岡氏<lb/>
+　　<hi>凡二派一出易州一出望京</hi>
+楊氏<lb/>
+　　<hi>系出輝寕</hi>
+<pb n="KR2m0053_WYG_074-3a"/>
+吴氏<lb/>
+　　<hi>凡二派一出易州一出海州</hi>
+陳氏<lb/>
+　　<hi>系出平壤</hi>
+文氏<lb/>
+　　<hi>系出嘉山堡</hi>
+孫氏<lb/>
+　　<hi>系出望京</hi>
+<pb n="KR2m0053_WYG_074-3b"/>
+丁氏<lb/>
+　　<hi>系出恩山縣</hi>
+任氏<lb/>
+　　<hi>系出易州</hi>
+伊氏<lb/>
+　　<hi>謹案氏族通譜所載是派無考</hi>
+宋氏<lb/>
+　　<hi>謹案氏族通譜所載是派無考</hi>
+<pb n="KR2m0053_WYG_074-4a"/>
+徐氏<lb/>
+　　<hi>系出噶山</hi>
+車氏<lb/>
+　　<hi>系出平陽</hi>
+萬氏<lb/>
+　　<hi>系出平陽</hi>
+江氏<lb/>
+　　<hi>系出得州</hi>
+<pb n="KR2m0053_WYG_074-4b"/>
+邉氏<lb/>
+　　<hi>系出易州</hi>
+何氏<lb/>
+　　<hi>系出平安道</hi>
+閔氏<lb/>
+　　<hi>系出易州</hi>
+林氏<lb/>
+　　<hi>謹案氏族通譜所載是派無考</hi>
+<pb n="KR2m0053_WYG_074-5a"/>
+佟氏<lb/>
+　　<hi>系出開州</hi>
+瓦氏<lb/>
+　　<hi>系出易州</hi>
+耿氏<lb/>
+　　<hi>系出博川郡</hi>
+宋氏<lb/>
+　　<hi>凡三派一出得州一出東牛衛一出輝寜</hi>
+<pb n="KR2m0053_WYG_074-5b"/>
+馬氏<lb/>
+　　<hi>系出<graphic n="KR1000" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1000.png" mimeType="image/png"/>克山</hi>
+鄭氏<lb/>
+　　<hi>系出得州</hi>
+曹氏<lb/>
+　　<hi>系出建常</hi>
+郭氏<lb/>
+　　<hi>系出易州</hi>
+<pb n="KR2m0053_WYG_074-6a"/>
+沈氏<lb/>
+　　<hi>系出得州</hi>
+方氏<lb/>
+　　<hi>系出得州</hi>
+秦氏<lb/>
+　　<hi>系出得州</hi>
+孟氏<lb/>
+　　<hi>系出易州</hi>
+<pb n="KR2m0053_WYG_074-6b"/>
+田氏<lb/>
+　　<hi>系出平壤</hi>
+辛氏<lb/>
+　　<hi>謹案氏族通譜所載是派無考</hi>
+　<lb/>
+　<lb/>
+　<lb/>
+欽定八旗通志卷六十<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

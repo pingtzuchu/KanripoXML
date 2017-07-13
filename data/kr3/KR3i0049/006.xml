@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3i0049_WYG_006-1a"/>
+異魚圖賛箋補引<lb/>
+戊午之役觖望禹門自分泥蟠畢此生矣同社多挾䇿<lb/>
+走長安而余復負笈入山寺章句瀋餘既所憎對覓話<lb/>
+老衲外惟日披古函㪚帙以喻適志耳偶簡升菴先生<lb/>
+異魚圖賛不避疎淺漫摭見聞詮次如卷已而老衲見<lb/>
+之戯謂曰羡淵不如結網獲鮮可以忘筌余服膺其得<lb/>
+斵輪㣲㫖異日持青脊墨頭十數魚名暨山海經所載<lb/>
+珠蝥之類来訊則又升菴先生所遺者余因類搜其遺<lb/>
+<pb n="KR3i0049_WYG_006-1b"/>
+補之維時陽萌寒谷氣啓負氷聊借筆墨作濡呴緣以<lb/>
+傲簡蟫曰余將彈鋏衡泌不欲似爾分飽神仙字也稿<lb/>
+成命兒子軰較正魯魚乃亦彷箋如左凡三卷又閏集<lb/>
+一萬厯戊午長至日蒲亭胡世安識<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

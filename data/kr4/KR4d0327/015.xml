@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>鐵菴集卷十五</head> <lb/>
+    <p>
+<pb n="KR4d0327_WYG_015-1a"/>
+欽定四庫全書<lb/>
+　鐵菴集卷十五<lb/>
+　　　　　　　　　　　　宋　方大琮　撰<lb/>
+　婚書<lb/>
+　　　回宋<lb/>
+比隣歲久知諸老之游從門户日新尋兩家之盟好蔚<lb/>
+甚象賢之醖藉藐焉弱息之功容方二難共復於公侯<lb/>
+迺一族相為於妯娌便蕃委貺珍重拜嘉好事到門竊<lb/>
+<pb n="KR4d0327_WYG_015-1b"/>
+為吾兒吾孫之喜遺書滿屋願紬乃祖乃父之藏<lb/>
+　　　林回徐<lb/>
+北境詩來報家山之入夢東牀選重欲兒女之及時如<lb/>
+忠宣之滯留未歸而洪氏之婚姻不廢輒援舊比用合<lb/>
+新歡某人學士自力簡編接二魁之族緒舍妹小娘粗<lb/>
+閑箴訓遺九牧之家風兹領幣交豈輕金諾質母黨以<lb/>
+曰可諒父懐之亦同為國而齧雪旄言旋是望入門而<lb/>
+㑹冰玉語笑何如<lb/>
+<pb n="KR4d0327_WYG_015-2a"/>
+　　　方回洪<lb/>
+相望一舍羡詩禮之方興締好兩家幸典刑之僅有吾<lb/>
+輩各酬於兒債歡顔俱溢於親闈㓜女何知行媒交至<lb/>
+有如佳婿真得味於書中豈必諸姑多擇於榜下夤縁<lb/>
+偶契於片語臭味殆同於宿交吉書入門和氣滿族當<lb/>
+諄勤姆訓庶幾婦德之修宜濡染父師行趾世科之美<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR4d0327_WYG_015-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　鐵菴集卷十五<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

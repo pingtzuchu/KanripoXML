@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2b0038_WYG_004-1a"/>
+欽定四庫全書　　　　　史部二<lb/>
+御定資治通鑑綱目三編　　編年類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案<lb/>
+　　御定資治通鑑綱目三編四十卷乾隆四十年奉<lb/>
+　　勅撰初大學士張廷玉等奉<lb/>
+　　勅採明一代事迹撰通鑑綱目三編以續朱子商<lb/>
+　　　　輅之書然廷玉等惟以筆削褒貶求書法之<lb/>
+<pb n="KR2b0038_WYG_004-1b"/>
+　　　　謹嚴於事迹多所挂漏又邊外諸部於人名<lb/>
+　　　　地名多沿襲舊聞無所考正尤不免於舛訛<lb/>
+　　　　夫朱子剏例之初原以綱仿春秋目仿左傳<lb/>
+　　　　春秋大義數十炳若日星然不詳核左傳之<lb/>
+　　　　事迹於聖人予奪之㫖尚終不可明况史籍<lb/>
+　　　　編年僅標梗概於大書而不具始末於細注<lb/>
+　　　　其是非得失又何自而知即<lb/>
+　　聖諭所指福藩田土一條其他條之疎漏可以例<lb/>
+<pb n="KR2b0038_WYG_004-2a"/>
+　　　　推至譯語惟取對音原無意義而宋人妄生<lb/>
+　　　　穿鑿乖謬不經如趙元昊自稱兀卒即烏珠<lb/>
+　　　　之轉音而宋人訛為吾祖遂以為元昊見侮<lb/>
+　　　　又如蕭鷓巴亦非漢名而宋人以對曽純甫<lb/>
+　　　　借鶉脯之音以為惡謔沿及明代此習未除<lb/>
+　　　　如<lb/>
+　　聖諭所指朶顔青海諸人名書圗為兎之類亦往<lb/>
+　　　　往而有鄙倍荒唐尤不可不亟為釐正是編<lb/>
+<pb n="KR2b0038_WYG_004-2b"/>
+　　　　仰稟<lb/>
+　　睿裁於大書體例皆遵<lb/>
+　　御批通鑑輯覽而細注則詳核史傳補遺糾謬使<lb/>
+　　　　端委秩然復各附發明以闡衮鉞之義各増<lb/>
+　　　　質實以資考證之功而譯語之誕妄者亦皆<lb/>
+　　　　遵<lb/>
+　　欽定遼金元國語觧一一改正以傳信訂訛較張<lb/>
+　　　　廷玉等初編之本實倍為精宻<lb/>
+<pb n="KR2b0038_WYG_004-3a"/>
+　　聖人制事以至善為期義有未安不以已成之局<lb/>
+　　　　而憚於改作此亦可仰窺萬一矣乾隆五十<lb/>
+　　　　年二月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官　<hi>臣</hi>　陸費墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

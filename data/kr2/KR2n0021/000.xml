@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>法帖譜系</head>
+    <p>
+<pb n="KR2n0021_WYG_000-1a"/>
+欽定四庫全書　　　　史部十四<lb/>
+　法帖譜系　　　　　　目錄類二<hi>金石之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案法帖譜系二卷宋曹士冕撰考書<lb/>
+　　　　史㑹要士冕字端可號陶齋昌谷之後昌谷<lb/>
+　　　　為曹彦約别號則都昌人也其仕履無考惟<lb/>
+　　　　三山木板帖條下自稱三山帥司庫有厯代<lb/>
+　　　　帖板本嘉熙庚子備員帥幕尚及見之之語<lb/>
+<pb n="KR2n0021_WYG_000-1b"/>
+　　　　絳本舊帖條下有淳祐甲辰霅川官滿之語<lb/>
+　　　　葢由幕僚而仕州郡者耳其書序宋代法帖<lb/>
+　　　　源流首為譜系圖上卷淳化法帖以下為二<lb/>
+　　　　王府帖紹興國子監本淳熙修内司本大觀<lb/>
+　　　　太清樓帖臨江戲魚堂帖利州帖慶厯長沙<lb/>
+　　　　帖劉丞相私第本長沙碑匠家本長沙新刻<lb/>
+　　　　本三山木板黔江帖北方印成本烏鎮本福<lb/>
+　　　　清本澧陽帖鼎帖不知處本長沙别本蜀本<lb/>
+<pb n="KR2n0021_WYG_000-2a"/>
+　　　　廬陵蕭氏本凡二十二種下卷綘本舊帖以<lb/>
+　　　　下為東庫本亮字不全本新綘本北本又一<lb/>
+　　　　本武岡舊本武岡新本福清本烏鎮本彭州<lb/>
+　　　　本資州本木本前十卷又木本前十卷凡十<lb/>
+　　　　四種蓋以淳化閣帖為大宗而綘帖為别子<lb/>
+　　　　諸本皆其支派也每條叙述摹刻始末兼訂<lb/>
+　　　　其異同工拙頗足以資考證書史㑹要稱士<lb/>
+　　　　冕博叅書法服習蘭亭宜其鑒别不苟矣古<lb/>
+<pb n="KR2n0021_WYG_000-2b"/>
+　　　　今法帖皆搨本惟此書載有印本法帖亦廣<lb/>
+　　　　異聞書成於淳祐乙巳前有自序以書中自<lb/>
+　　　　記考之蓋霅川官滿之第二年也乾隆四十<lb/>
+　　　　六年十月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+<pb n="KR2n0021_WYG_000-3a"/>
+法帖譜系原序<lb/>
+魏晉真墨世不多見故家大室號為收書者所藏間不<lb/>
+過一二外此率多臨摹響榻徃徃失真無復古意去古<lb/>
+益逺雖石刻亦復艱得秦漢豐碑巨碣唯字畫深且大<lb/>
+者僅存雖日就剥落而尚或髣髴可辨至如晉宋諸刻<lb/>
+幾一字不可攷矣可勝嘆哉恭惟藝祖皇帝承五季分<lb/>
+裂之餘平一天下諸國賓服文書禮樂復見全盛太宗<lb/>
+皇帝文徳化成淳化中盡取御府歴代名蹟刻之秘閣<lb/>
+<pb n="KR2n0021_WYG_000-3b"/>
+毎大臣登進二府則賜之於是魏晉書法傳布天下閣<lb/>
+帖之名葢始乎此自是好事者轉相傳摹而又増益他<lb/>
+帖别為卷第如絳帖潭帖之類枝分派别不知其幾世<lb/>
+之得其一二者未暇詳攷徃徃自為珍異此是彼非莫<lb/>
+知底止余生最晚自幼粗知崇慕書學第識見淺陋所<lb/>
+得不廣淳化古帖恨未識真近世所藏率是贗本絳帖<lb/>
+家藏數種雖有同異並皆中原新刻近嵗始獲見古本<lb/>
+于三衢好事家然後知單公炳文之論不我欺也因取<lb/>
+<pb n="KR2n0021_WYG_000-4a"/>
+平生所見諸帖列成譜系以備遺忘若夫攷訂不盡紀<lb/>
+載未備尚俟博雅君子矜我者是正而増廣之曹士冕<lb/>
+序<lb/>
+<pb n="KR2n0021_WYG_000-5a"/>
+法帖譜系圖<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2n0021_WYG_000-5b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+凡圈者自成一𣲖<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

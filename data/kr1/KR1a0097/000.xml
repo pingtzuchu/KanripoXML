@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>易像鈔</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　　經部一<lb/>
+　易像鈔　　　　　　　　易𩔖<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案易像鈔十八卷明胡居仁撰居仁<lb/>
+　　　　字叔心餘干人絶意仕進以布衣終其身後<lb/>
+　　　　追諡文敬事迹具明史儒林傳是書前有居<lb/>
+　　　　仁自序稱讀易二十年有所得輒抄積之手<lb/>
+　　　　訂成帙又取先儒圖書論說合于心得者録<lb/>
+<pb n="1b"/>
+　　　　之三卷以下則皆與人論易往復劄記及自<lb/>
+　　　　記所學復為櫽括歌辭以舉其要居仁之學<lb/>
+　　　　其源雖出呉與弼而篤實則逺過其師故在<lb/>
+　　　　明代與曹端薛瑄俱號醇儒所著居業録至<lb/>
+　　　　今稱道學正宗其說易亦簡明確切不涉支<lb/>
+　　　　離元渺之談考萬厯乙酉御史李頥請以居<lb/>
+　　　　仁從祀孔子廟庭疏稱居仁所著有易傳春<lb/>
+　　　　秋傳今頗散佚失次朱彝尊經義考載有居<lb/>
+<pb n="2a"/>
+　　　　仁易通解注曰未見而不載此書豈此書一<lb/>
+　　　　名易通解歟然李頥時已稱散佚失次何以<lb/>
+　　　　此本獨完疑後人裒其緒言重為編次非居<lb/>
+　　　　仁所手著也乾隆四十三年五月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="3a"/>
+易像鈔原序<lb/>
+余自游吳聘君之門始知句誦詞章為不足學當以斯<lb/>
+道自任絶意仕進得暇讀易幾二十年稍有所得隨讀<lb/>
+隨鈔積之既久不忍棄去復手自訂成帙名曰易像鈔<lb/>
+先儒有言易之為書窮神知化非天下之至精其孰能<lb/>
+與于此世之註觧殆皆妄也此盖不特箴弼之失云然<lb/>
+余雖不任註解其應鈔不鈔非所鈔而鈔亦自知妄無<lb/>
+所逃罪或曰窮年兀兀在書册中作活計嘻此蠧魚也<lb/>
+<pb n="3b"/>
+余曰書册安能蠧魚人人自蠧魚耳余又見蠧魚一生<lb/>
+活計作于書册中然似頗為書册居守初不甚為書册<lb/>
+蠧盖有蠧名無蠧實者蠧魚也依書册則生離書册則<lb/>
+死生死以書册猶書册也若蜉蝣焉朝生暮死于泥沙<lb/>
+汚濁中矣與其泥沙而蜉蝣而生死毋寧書册而蠧魚<lb/>
+而生死姤之言包也有魚无咎无魚起凶蠧雖微亦魚<lb/>
+也人有家無書有書無蠧始包无姤魚蔀為豐屋不懼<lb/>
+窺其户閴其无人乎余尚恐不得比數于蠧魚卒為蜉<lb/>
+<pb n="4a"/>
+蝣之朝夕若曰無事書册余曷敢昧心餘干胡居仁識<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="4b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　易像鈔原序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

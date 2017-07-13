@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>蕭茂挺文集</head>
+    <p>
+<pb n="KR4c0035_WYG_000-1a"/>
+欽定四庫全書　　　　　集部二<lb/>
+　蕭茂挺文集　　　　　　别集類一<hi>唐</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案蕭茂挺文集一巻唐蕭頴士撰頴<lb/>
+　　　　士潁川人茂挺其字也梁鄱陽王之裔世系<lb/>
+　　　　俱載其贈韋司業書中開元二十三年舉進<lb/>
+　　　　士對策第一天寳初官秘書正字以搜括遺<lb/>
+　　　　書淹久不報劾免尋召為集賢校理忤李林<lb/>
+<pb n="KR4c0035_WYG_000-1b"/>
+　　　　甫調廣陵㕘軍韋述薦為史館待制又忤林<lb/>
+　　　　甫免林甫死調河南府㕘軍安禄山反頴士<lb/>
+　　　　走山南源洧辟掌書記後為揚州功曹㕘軍<lb/>
+　　　　復棄官去遂客死于汝南事迹具唐書本傳<lb/>
+　　　　頴士嘗作伐櫻桃賦以刺林甫唐書本傳譏<lb/>
+　　　　其褊而晁公武讀書志則稱其每俯臨于蕭<lb/>
+　　　　墻姦回得而窺伺句為知㡬先見唐書貶之<lb/>
+　　　　為非今考穎士當禄山寵盛之時嘗與栁并<lb/>
+<pb n="KR4c0035_WYG_000-2a"/>
+　　　　策其必反既而言驗乃詣河南採訪使郭納<lb/>
+　　　　言獻策守禦納言不能用禄山別將攻南陽<lb/>
+　　　　山南節度使源洧欲遯頴士力持之乃堅意<lb/>
+　　　　拒賊永王璘嘗召之不赴而與宰相崔圓書<lb/>
+　　　　請先防江淮之亂既而劉展果叛其才畧志<lb/>
+　　　　節皆過于人不但如晁氏之所云文章根柢<lb/>
+　　　　固不僅在學問之博奥也頴士與李華齊名<lb/>
+　　　　而頴士尤當代所重李邕負一代宿望而進<lb/>
+<pb n="KR4c0035_WYG_000-2b"/>
+　　　　芝草表假手頴士則其推挹可知唐志載頴<lb/>
+　　　　士游梁新集三巻文集十巻宋志僅載文集<lb/>
+　　　　十巻而游梁新集已佚此本前有曹溶名字<lb/>
+　　　　二印葢其所藏僅賦九篇表五篇牋一篇序<lb/>
+　　　　五篇書五篇史稱其與崔圓書今集中不載<lb/>
+　　　　書録解題所云栁并序今亦佚之乃後人抄<lb/>
+　　　　撮文苑英華唐文粹諸書而成非復十巻之<lb/>
+　　　　舊矣然殘膏賸馥猶足沾溉正不必以不完<lb/>
+<pb n="KR4c0035_WYG_000-3a"/>
+　　　　為歉也乾隆四十四年三月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

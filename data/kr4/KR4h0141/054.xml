@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_054-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選卷五十四<lb/>
+　　嵩山類<lb/>
+　　　五言古<lb/>
+　　　　送楊山人歸嵩山　　　　　<hi>唐</hi>李　白<lb/>
+　我有萬古宅嵩陽玉女峰長留一片月挂在東谿松爾<lb/>
+　去掇仙草菖蒲花紫茸嵗晚或相訪青天騎白龍<lb/>
+　　　五言律<lb/>
+<pb n="KR4h0141_WYG_054-1b"/>
+　　　　歸嵩山作　　　　　　　　<hi>唐</hi>王　維<lb/>
+　清川帶長薄車馬去閒閒流水如有意暮禽相與還荒<lb/>
+　城臨古渡落日滿秋山迢遞嵩髙下歸来且閉關<lb/>
+　　　七言律<lb/>
+　　　　嵩山石淙侍宴應制　　　　<hi>唐</hi>沈佺期<lb/>
+　金輿旦下緑雲衢彩殿晴臨碧澗隅谿水泠泠逐行漏<lb/>
+　山烟片片引香爐仙人六膳調神鼎玉女三漿捧帝壺<lb/>
+　自惜汾陽紆道駕無如太室覽真圖<lb/>
+<pb n="KR4h0141_WYG_054-2a"/>
+　　　三陽宫石淙侍宴應制　　　<hi>唐</hi>宋之問<lb/>
+離宫秘苑勝瀛洲别有仙人洞壑幽巖邉樹色含風冷<lb/>
+石上泉聲帶雨秋鳥向歌筵来度曲雲依帳殿結為樓<lb/>
+微臣昔忝方明御今日還陪八駿逰<lb/>
+　　五言絶句<lb/>
+　　　嵩山夜還　　　　　　　　<hi>唐</hi>宋之問<lb/>
+家住嵩山下好采舊山薇自省逰泉石何曾不夜歸<lb/>
+　　　贈柳喜自號嵩山老　　　　<hi>唐</hi>僧皎然<lb/>
+<pb n="KR4h0141_WYG_054-2b"/>
+一見嵩山老吾生恨太遲問君年㡬許曽出上皇時<lb/>
+　　　逰嵩山　　　　　　　　　<hi>元</hi>楊　奐<lb/>
+　　　　轘轅坂<lb/>
+盤盤十二曲石嶺瘦崢嶸脚底有平地何人險處行<lb/>
+　　　　少室<lb/>
+方若植嵬冠森若削寒玉明月夜中逰誰家借黄鵠<lb/>
+　　　　盧巖<lb/>
+避名名自在身瘠道還腴未到千年後空巖已姓盧<lb/>
+<pb n="KR4h0141_WYG_054-3a"/>
+　　　　北渡水<lb/>
+　㡬時落東谿曲折卧天漢語似登山人可飲不可盥<lb/>
+　　　七言絶句<lb/>
+　　　　送李秀才逰嵩山　　　　　<hi>唐</hi>顧　况<lb/>
+　嵩山石壁挂飛流無限神仙在上頭采得新詩題石壁<lb/>
+　老人惆悵不同逰<lb/>
+　　　　送友人逰嵩山　　　　　　<hi>唐</hi>陳　羽<lb/>
+　嵩山歸路遶天壇雲影松聲滿谷寒君見九龍壇上月<lb/>
+<pb n="KR4h0141_WYG_054-3b"/>
+　莫辭清夜水中看<lb/>
+　　　　送聞上人逰嵩山　　　　　<hi>唐</hi>歐陽詹<lb/>
+　二室峰峰昔願逰從雲從鶴思悠悠丹梯石磴君先去<lb/>
+　為上青冥最上頭<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選巻五十四<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

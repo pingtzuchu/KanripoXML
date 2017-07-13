@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>何水部集</head>
+    <p>
+<pb n="KR4b0014_WYG_000-1a"/>
+欽定四庫全書　　　　　集部二<lb/>
+　何水部集　　　　　　　别集類一<hi>梁</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案何水部集一巻梁何遜撰遜字仲<lb/>
+　　　　言東海郯人官至水部員外郎故自唐以來<lb/>
+　　　　稱何水部事蹟具梁書本傳王僧孺嘗輯遜<lb/>
+　　　　詩編為八巻宋黄伯思東觀餘論有遜集跋<lb/>
+　　　　稱為春明宋氏本葢宋敏求家所傳其巻數<lb/>
+<pb n="KR4b0014_WYG_000-1b"/>
+　　　　尚與梁書相符而伯思云杜甫所引昏鴉接<lb/>
+　　　　翅歸金粟裹搔頭等句不見集中則當時已<lb/>
+　　　　有所佚脱今舊本久亡所謂八巻者不可復<lb/>
+　　　　睹即永樂大典所引遜詩亦皆今世所習見<lb/>
+　　　　則元明間已不存矣此本為正徳丁丑松江<lb/>
+　　　　張紘所刋者列遜小傳凡詩九十五首附載<lb/>
+　　　　范雲劉孝綽同作擬古二首聨句十三首末<lb/>
+　　　　載黄伯思跋後附七召一篇末復有紘跋稱<lb/>
+<pb n="KR4b0014_WYG_000-2a"/>
+　　　　舊與隂鏗集偕刻紘以二家體裁各别不當<lb/>
+　　　　比而同之公暇獨取是集刪其繁蕪同寅毘<lb/>
+　　　　陵陸懋之永嘉李升之捐俸共刻然則是集<lb/>
+　　　　又經紘刋削有所去取歟玉臺新詠載遜學<lb/>
+　　　　青青河邊草一首此本標題作擬青青河畔<lb/>
+　　　　草轉韻體為人作其人識節工歌與玉臺新<lb/>
+　　　　詠不同考六朝以前之詩題無此體格顯為<lb/>
+　　　　後人所妄加又青青河堤草為蔡邕之作青<lb/>
+<pb n="KR4b0014_WYG_000-2b"/>
+　　　　青河畔艸為枚乗之作六朝人所擬截然有<lb/>
+　　　　别此傚邕體而題作畔字又題為後人據十<lb/>
+　　　　九首而妄改復以古詩不換韻此詩換韻妄<lb/>
+　　　　増轉韻體云云也盖字句亦多所竄亂非其<lb/>
+　　　　舊矣乾隆四十六年十月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

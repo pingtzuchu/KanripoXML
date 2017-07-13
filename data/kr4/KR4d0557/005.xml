@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4d0557_WYG_005-1a"/>
+鶴年詩集後䟦<lb/>
+鶴年其先西域人西域人多名丁既入中國因以為姓<lb/>
+故鶴年亦丁姓其祖父皆仕元二兄皆舉進士為顯官<lb/>
+鶴年獨泊然布素寒士元亡歸四明與戴叔能相善尚<lb/>
+節操有孝行叔能嘗為作傳後隠武昌山中余在武昌<lb/>
+遇之甚相得時已老矣别後數嵗卒此集盖其卒後得<lb/>
+之武昌鄧存誠廬陵楊士竒跋<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

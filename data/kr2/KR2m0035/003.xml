@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2m0035_WYG_003-1a"/>
+　　纂輯<lb/>
+欽定大清通禮大臣官員職名<lb/>
+　　總裁<lb/>
+　　　　　　　　　　　　　　　　　　　　　　　<hi>臣</hi>來　保<lb/>
+　　　　　　　　　　　　　　　　　　　　　　　<hi>臣</hi>陳世倌<lb/>
+　　　經　筵　講　官　吏　部　尚　書<hi>臣</hi>王安國<lb/>
+　　　　　　　　　　　　　　　　　　　　　　　<hi>臣</hi>嵩　夀<lb/>
+　　提調<lb/>
+<pb n="KR2m0035_WYG_003-1b"/>
+　　　禮部儀制司員外郎加一級紀録十次<hi>臣</hi>寧　昶<lb/>
+　　　　　　　　　　　　　　　　　　　　　　<hi>臣</hi>額爾登額<lb/>
+　　纂修<lb/>
+　　　　　　　　　　　　　　　　　　　　　　　<hi>臣</hi>李玉鳴<lb/>
+　　　禮部儀制司郎中陞授山東道監察御史紀録七次<hi>臣</hi>朱丕烈<lb/>
+　　　禮部儀制司郎中前翰林院庶吉士紀録四次<hi>臣</hi>鄭　忬<lb/>
+　　　禮部精膳司主事加一級紀録三次<hi>臣</hi>沈清任<lb/>
+　　收掌<lb/>
+<pb n="KR2m0035_WYG_003-2a"/>
+　　　禮部儀制司筆帖式加二級紀録三次<hi>臣</hi>奇騰額<lb/>
+　　　禮部司務㕔筆帖式加二級紀錄三次<hi>臣</hi>西　輅<lb/>
+　　　禮部祠祭司筆帖式加四級紀録二次<hi>臣</hi>長　全<lb/>
+　　謄録<lb/>
+　　　禮　　　　部　　　　儒　　　　士周　和<lb/>
+　　　禮　　　　部　　　　儒　　　　士魯遇恩<lb/>
+　　　禮　　　　部　　　　儒　　　　士李殿英<lb/>
+　　　禮　　　　部　　　　儒　　　　士徐聚井<lb/>
+<pb n="KR2m0035_WYG_003-2b"/>
+　　　禮　　　　部　　　　儒　　　　士宋騰飛<lb/>
+　　　禮　　　　部　　　　儒　　　士聶　　埈<lb/>
+　　　禮　　　　部　　　　儒　　　　士王朝選<lb/>
+　　　禮　　　　部　　　　儒　　　　士鍾　道<lb/>
+　　　禮　　　　部　　　　儒　　　　士王　渭<lb/>
+　　　禮　　　　部　　　　供　　　　事李國模<lb/>
+　　　禮　　　　部　　　　供　　　　事樊學湘<lb/>
+　　　禮　　　　部　　　　供　　　　事錢　梓<lb/>
+<pb n="KR2m0035_WYG_003-3a"/>
+　　　禮　　　　部　　　供　　　　事劉紹陞<lb/>
+　　　禮　　　　部　　　供　　　　事章廷瑞<lb/>
+　　　禮　　　　部　　　供　　　　事朱　鼎<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

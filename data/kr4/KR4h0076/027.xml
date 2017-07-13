@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>天下同文集巻二十七</head>
+    <p>
+<pb n="KR4h0076_WYG_027-1a"/>
+欽定四庫全書<lb/>
+　天下同文集巻二十七　　元　周南瑞　編<lb/>
+　　說<lb/>
+　　　李綸字說　　　　　　　　　姚　燧<lb/>
+李明之以其子讓來見曰願易名而字之余思古之人<lb/>
+生子三月而父名之避其在常語而難為諱者所以為<lb/>
+他日為父計也故典禮曰不以國不以日月不以山川<lb/>
+不以隠疾而春秋傳亦曰不以官不以畜牲不以器幣<lb/>
+<pb n="KR4h0076_WYG_027-1b"/>
+讓也已久矣雖其名無國官日月山川隠疾畜牲器幣<lb/>
+之犯而犯舉世人之常語使其子宜如何而諱於今哉<lb/>
+亦觀夫治絲乎其緒之弱不大於秋毫之末力引銖錙<lb/>
+則紛然而絶茍治而繩之則可以轉百鈞故曰王言如<lb/>
+絲其出如綸言綸者比其類而合之也或曰青絲綬亦<lb/>
+為綸為訓雖異其組織為服亦垂首千百而比其類為<lb/>
+之也反而求之盖人心之善惻隠羞惡辭讓是非四者<lb/>
+之端其始甚㣲其絲之緒乎學者為能體驗充廓之使<lb/>
+<pb n="KR4h0076_WYG_027-2a"/>
+可以放四海塞兩間其比其類之綸乎邵子曰人於心<lb/>
+上起經綸士知此始可語自治治人之道矣名以綸字<lb/>
+曰治夫<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR4h0076_WYG_027-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　天下同文集巻二十七<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

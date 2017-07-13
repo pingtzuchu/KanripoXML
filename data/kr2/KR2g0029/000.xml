@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>京口耆舊傳</head>
+    <p>
+<pb n="KR2g0029_WYG_000-1a"/>
+欽定四庫全書　　　　　史部七<lb/>
+　京口耆舊傳　　　　　　傳記類三<hi>總錄之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案京口耆舊𫝊九巻不著撰人名字<lb/>
+　　　　明楊士奇文淵閣書目焦竑國史經籍志皆<lb/>
+　　　　載其名亦不云誰作考書中蘇庠𫝊末云予<lb/>
+　　　　家世丹陽先人知其狀為詳又從其孫嚞借<lb/>
+　　　　家𫝊則作者當為丹陽人庠卒於紹興十七<lb/>
+<pb n="KR2g0029_WYG_000-1b"/>
+　　　　年而作者得交其孫則當為南宋末年人也<lb/>
+　　　　其書採京口名賢事蹟各為之𫝊始於宋初<lb/>
+　　　　迄於端平嘉熙間其中忠烈如陳東經濟如<lb/>
+　　　　張慤張縝湯東野劉公彦風節如王存王遂<lb/>
+　　　　蔣猷劉宰文學如沈括洪興祖書畫如米芾<lb/>
+　　　　父子雖皆著在史傳而軼聞逸事則較史為<lb/>
+　　　　詳至湯東野𫝊稱明受赦書至東野謀於張<lb/>
+　　　　浚欲匿赦不宣而宋史浚本𫝊稱浚命守臣<lb/>
+<pb n="KR2g0029_WYG_000-2a"/>
+　　　　湯東野祕不宣其説互異証以劉宰漫塘集<lb/>
+　　　　湯侍郎勤王録䟦乃與此書所載合則足以<lb/>
+　　　　訂宋史記録之悮漫塘集稱陳東於欽宗時<lb/>
+　　　　凡六上書髙宗時凡四上書宋史東本𫝊苐<lb/>
+　　　　云於欽宗時五上書髙宗時三上書證以此<lb/>
+　　　　書乃知宋史有據漫塘集為𫝊聞之訛王鞏<lb/>
+　　　　甲申襍記謂陳亢以熈寕八年生廓與度證<lb/>
+　　　　以此書廓中熈寕九年進士則距生歳止一<lb/>
+<pb n="KR2g0029_WYG_000-2b"/>
+　　　　年度中元豐二年進士則距生歳止五年尤<lb/>
+　　　　足以糾小説附㑹之謬如此之類不一而足<lb/>
+　　　　盖是書體例全倣正史每為一𫝊首尾該貫<lb/>
+　　　　生卒必詳與諸家襍説隨筆記載不備端末<lb/>
+　　　　者不同故事實多可依據於史學深為有禆<lb/>
+　　　　文淵閣書目載是書不列巻數經籍志則作<lb/>
+　　　　四巻今據永樂大典所載裒合成編釐為九<lb/>
+　　　　巻考宋史地理志京口有丹徒丹陽延令金<lb/>
+<pb n="KR2g0029_WYG_000-3a"/>
+　　　　壇四縣神宗熈寧五年改延令為鎮併入丹<lb/>
+　　　　陽則所存者僅三縣而此書吳致堯𫝊其人<lb/>
+　　　　在宣和之季乃仍稱曰延令人盖沿襲舊名<lb/>
+　　　　偶然失改猶漢髙帝十一年已改真定為東<lb/>
+　　　　垣而南越王𫝊猶稱尉佗為真定人史氏駁<lb/>
+　　　　文不足為據今仍以三縣分𨽻庶從其實至<lb/>
+　　　　於諸書所載互有同異則併附載各條之下<lb/>
+　　　　以資考證焉乾隆四十六年二月恭校上<lb/>
+<pb n="KR2g0029_WYG_000-3b"/>
+　　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3i0026_WYG_004-1a"/>
+題北山酒經後<lb/>
+大隱先生朱翼中壯年勇退著書釀酒僑居西湖上而<lb/>
+老焉屬朝廷大興醫藥求深於道術者爲之官師乃起<lb/>
+公爲博士與余爲同寮明年翼中坐書東坡詩貶達州<lb/>
+又明年以宫祠還未至余一夕夢翼中相過且論詩云<lb/>
+投老南還愧轉蓬㑹令淨土變炎風由来祗許杯中物<lb/>
+萬事從渠醉眼中明日理書帙得翼中北山酒經發而<lb/>
+讀之葢有禦魑魅於烟嵐轉炎荒爲淨土之語與夢頗<lb/>
+<pb n="KR3i0026_WYG_004-1b"/>
+契余甚異乃作此詩以志之他時見翼中當以是問之<lb/>
+其果夣乎非耶政和七年正月二十五也赤子含德天<lb/>
+所鈞日漸月化滋澆淳惟帝哀矜憐下民爲作醪醴發<lb/>
+其眞炊香釀玉爲物春薫然剛愎皆慈仁陶冶窮愁孰<lb/>
+知貧誦德不獨有伯倫先生作經聖賢分獨醒正似非<lb/>
+余身德全不許世人聞夣中作詩語罕親不願萬户誤<lb/>
+國恩乞取醉鄉作封君<lb/>
+朝奉郎行開封府刑曹椽李保跋<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

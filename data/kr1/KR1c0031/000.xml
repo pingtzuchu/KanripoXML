@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>詩疑問</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　經部三<lb/>
+　詩疑問　附詩辨説　　　詩類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案詩疑問七卷元朱倬撰倬字孟章<lb/>
+　　　　建章新城人至正二年進士官遂安縣尹宼至<lb/>
+　　　　吏卒逃散倬獨坐公所以待盡及寇焚廨舎乃<lb/>
+　　　　赴水死葢亦忠節之士元史遺漏未載<lb/>
+　　　國朝納喇性徳作是書序始據新安文獻志汪<lb/>
+<pb n="1b"/>
+　　　　叡所作哀詞為表章其始末其書畧舉詩篇<lb/>
+　　　　大指發問而各以所註列于下亦有闕而不<lb/>
+　　　　註者劉錦文序稱其間有問無答者豈真以<lb/>
+　　　　為疑哉在乎學者深思而自得之耳又稱舊<lb/>
+　　　　本先後無緒今為之論定使語同而㫖小異<lb/>
+　　　　者因得以互觀焉是此本乃錦文所重編非<lb/>
+　　　　倬之舊其有問無答者或亦𫝊寫佚脱而錦<lb/>
+　　　　文曲為之詞歟未有趙悳詩辨說一卷悳宋<lb/>
+<pb n="2a"/>
+　　　　宗室舉進士入元隠居豫章東湖其書與倬<lb/>
+　　　　書畧相類殆後人以倬忠烈悳髙隠其人足<lb/>
+　　　　以相配故合而編之歟倬書七卷附以悳書<lb/>
+　　　　為八卷朱睦㮮授經圖焦竑經籍志乃皆作<lb/>
+　　　　六卷疑為𫝊寫之訛或倬原書六卷劉錦文<lb/>
+　　　　重編之時析為七卷亦未可定也乾隆四十<lb/>
+　　　　一年十月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+<pb n="2b"/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="3a"/>
+欽定四庫全書　　　　經部三<lb/>
+　詩經疑問總目　　　　詩類<lb/>
+　　卷一<hi>國風上</hi>
+　　卷二<hi>國風下</hi>
+　　　<hi>附</hi>十五國風次第歌<lb/>
+　　　<hi>周南召南邶鄘衛唐秦陳鄶與曹豳</hi>　　<hi>繼以王鄭及齊魏十五國風今次第</hi>
+　　　<hi>周召邶鄘衛王鄭鄶曹同為十五國</hi>　　<hi>齊豳秦魏及唐陳季札所觀之舊文</hi>
+　　卷三<hi>小雅</hi>
+<pb n="3b"/>
+　　卷四<hi>大雅</hi>
+　　卷五<hi>周頌</hi>
+　　卷六<hi>魯頌</hi>　<hi>商頌</hi>
+　　卷七<hi>總論</hi>
+　　附編<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

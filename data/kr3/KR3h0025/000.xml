@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>宣和畫譜</head>
+    <p>
+<pb n="KR3h0025_WYG_000-1a"/>
+欽定四庫全書　　　　　子部八<lb/>
+　宣和畫譜　　　　　　　藝術類一<hi>書畫之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案宣和畫譜二十卷不著撰人名氏<lb/>
+　　　　記宋徽宗朝内府所蔵諸畫前有宣和庚子<lb/>
+　　　　御製序然序中稱今天子云云乃類臣子之<lb/>
+　　　　頌詞疑標題誤也所載共二百三十一人計<lb/>
+　　　　六千三百九十六軸分為十門一道釋二人<lb/>
+<pb n="KR3h0025_WYG_000-1b"/>
+　　　　物三宫室四蕃族五龍魚六山水七鳥獸八<lb/>
+　　　　花木九墨竹十蔬果考趙彦衞雲麓漫鈔載<lb/>
+　　　　宣和畫學分六科一曰佛道二曰人物三曰<lb/>
+　　　　山川四曰鳥獸五曰竹花六曰屋木與此大<lb/>
+　　　　同小異葢後又更定其條目也蔡絛鐵圍山<lb/>
+　　　　叢談曰崇寧初命宋喬年值御前書畫所喬<lb/>
+　　　　年後罷去繼以米芾輩迨至末年上方所藏<lb/>
+　　　　率至千計吾以宣和癸卯嵗常得見其目云<lb/>
+<pb n="KR3h0025_WYG_000-2a"/>
+　　　　云癸卯在庚子後三年當時書畫二譜葢即<lb/>
+　　　　就其目排比成書歟徽宗繪事本工米芾又<lb/>
+　　　　稱精鑒故其所録收藏家據以為徵非王黼<lb/>
+　　　　等所輯博古圖動輒舛謬者比絛又稱御府<lb/>
+　　　　所秘古來丹青其最髙逺者以曹不興元女<lb/>
+　　　　授黄帝兵符圖為第一曹髦卞莊子刺虎圖<lb/>
+　　　　第二謝稚烈女貞節圖第三自餘始數顧陸<lb/>
+　　　　僧繇而下與今本次第不同葢作譜之時乃<lb/>
+<pb n="KR3h0025_WYG_000-2b"/>
+　　　　分類排纂其收藏之目則以時代先後為差<lb/>
+　　　　也又卞莊子刺虎圖今本作衞協不作曹髦<lb/>
+　　　　則併標題名氏亦有所考正更易矣王肯堂<lb/>
+　　　　筆麈曰畫譜采薈諸家記録或臣下撰述不<lb/>
+　　　　出一手故有自相矛盾者如山水部稱王士<lb/>
+　　　　元兼有諸家之妙而宫室部以皂𨽻目之之<lb/>
+　　　　類許道寧條稱張文懿公深加歎賞亦非徽<lb/>
+　　　　宗御撰葢亦未詳繹序文然所指牴牾之處<lb/>
+<pb n="KR3h0025_WYG_000-3a"/>
+　　　　則固切中其失也乾隆四十六年六月恭<lb/>
+　　　　校上<lb/>
+　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

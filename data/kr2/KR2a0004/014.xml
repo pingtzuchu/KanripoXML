@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>史記正義卷十四</head> <lb/>
+    <p>
+<pb n="KR2a0004_WYG_014-1a"/>
+欽定四庫全書<lb/>
+　史記正義卷十四<lb/>
+　　　　　　　　　　　　唐　張守節　撰<lb/>
+十二諸侯年表第二　　　　　史記十四<lb/>
+太史公讀春秋厯譜諜至周厲王未嘗不發書而歎也<lb/>
+曰嗚呼師摰見之矣紂為象箸而箕子唏周道缺詩人<lb/>
+本之祍席闗雎作仁義陵遅鹿鳴刺焉及至厲王以惡<lb/>
+聞其過公卿懼誅而禍作厲王遂奔于彘亂自京師始<lb/>
+<pb n="KR2a0004_WYG_014-1b"/>
+而共和行政焉是後或力政彊乗弱興師不請天子然<lb/>
+挾王室之義以討伐為㑹盟主政由五伯諸侯恣行淫<lb/>
+侈不軌賊臣簒子滋起矣齊晉秦楚其在成周㣲甚封<lb/>
+或百里或五十里晉阻三河齊負東海楚介江淮秦因<lb/>
+雍州之固四國佚興更為伯主文武所褒大封皆威而<lb/>
+服焉是以孔子明王道干七十餘君莫能用故西觀周<lb/>
+室論史記舊聞興於魯而次春秋上記隐下至哀之獲<lb/>
+麟約其辭文去其煩重以制義法王道備人事浹七十子<lb/>
+<pb n="KR2a0004_WYG_014-2a"/>
+之徒口受其𫝊指為有所刺譏褒諱挹損之文辭不可<lb/>
+以書見也魯君子左丘明懼弟子人人異端各安其意<lb/>
+失其眞故因孔子史記具論其語成左氏春秋鐸椒為<lb/>
+楚威王𫝊為王不能盡觀春秋采取成敗卒四十章為<lb/>
+鐸氏㣲趙孝成王時其相虞卿上采春秋下觀近勢亦<lb/>
+著八篇為虞氏春秋<hi>按其文八篇藝文志云十五篇虞卿撰</hi>吕不韋者秦<lb/>
+荘襄王相亦上觀尚古删拾春秋集六國時事以為八<lb/>
+覽六論十二記為吕氏春秋及如荀卿孟子公孫固韓<lb/>
+<pb n="KR2a0004_WYG_014-2b"/>
+非之徒各往往捃摭春秋之文以著書不可勝紀漢相<lb/>
+張蒼厯譜五徳上大夫董仲舒推春秋義頗著文焉<lb/>
+太史公曰儒者斷其義馳説者騁其辭不務綜其終始<lb/>
+厯人取其年月數家隆於神運譜諜獨記世謚其辭略<lb/>
+欲一觀諸要難於是譜十二諸侯自共和訖孔子表見<lb/>
+春秋國語學者所譏盛衰大指著于篇為成學治古文<lb/>
+者要刪焉<lb/>
+<pb n="KR2a0004_WYG_014-3a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_014-4a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_014-5a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_014-6a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_014-7a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_014-8a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_014-9a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_014-10a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_014-11a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_014-12a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_014-13a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_014-14a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_014-15a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_014-16a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_014-17a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_014-18a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_014-19a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_014-20a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_014-21a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_014-22a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_014-23a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_014-24a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_014-25a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_014-26a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_014-27a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_014-28a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_014-29a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_014-30a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_014-31a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_014-32a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_014-33a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_014-34a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_014-35a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_014-36a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_014-37a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_014-38a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_014-39a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_014-40a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_014-41a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_014-42a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_014-43a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_014-44a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_014-45a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_014-46a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_014-47a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_014-48a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_014-49a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_014-50a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_014-51a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_014-52a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_014-53a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_014-54a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_014-55a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_014-56a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_014-57a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_014-58a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_014-59a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_014-60a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_014-61a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2a0004_WYG_014-61b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　史記正義卷十四<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>呉文正集巻九十九</head> <lb/>
+    <p>
+<pb n="KR4d0446_WYG_099-1a"/>
+欽定四庫全書<lb/>
+　呉文正集巻九十九<lb/>
+　　　　　　　　　　　　　元　吳澄　撰<lb/>
+　　韻語<lb/>
+　　　臨江仙<lb/>
+　　　　九日舟泊安慶城下晚愒臨江水驛于時月<lb/>
+　　　　明風清水共天碧情景佳甚與徐道川方復<lb/>
+　　　　齋况肩吾方清之驛亭草酌子文京侍以殊<lb/>
+<pb n="KR4d0446_WYG_099-1b"/>
+　　　　鄉又逢晚秋分韻得殊字賦臨江仙<lb/>
+去嵗家山重九日西風短㡌蕭踈如今景物幾曽殊舒<lb/>
+州城下月未覺此身孤勝友二三成草草只憐有酒無<lb/>
+茱江涵萬象碧霄虚客星何處是光彩近辰居<lb/>
+　　　謁金門<lb/>
+　　　　依韻和孤蟾四闗<lb/>
+如何喜自喜自知可矣天地與人同一理世人知者幾<lb/>
+　六十循環卦氣嵗嵗二分二至坎險何妨離附麗共<lb/>
+<pb n="KR4d0446_WYG_099-2a"/>
+誰研底裏<lb/>
+如何樂見孤蟾輪郭莫道箇中難捉摸細尋應㑹錯<lb/>
+斫桂呉生善謔管甚髙深廣博記取嫦娥端的約當空<lb/>
+圓不落<lb/>
+如何改認得吾廬堪愛虚敞玲瓏無障礙主人常只在<lb/>
+　得此非因賜賚得此非因賭賽占斷這些閑境界僦<lb/>
+來成永買<lb/>
+如何悟静看風前雪絮飄落晴光明媚處易晞還似露<lb/>
+<pb n="KR4d0446_WYG_099-2b"/>
+　大笑忽然回顧日在天心幾度八萬里中元不暮徃<lb/>
+來經熟路<lb/>
+　　　渡江雲<lb/>
+　　　　揭浩齋送春<lb/>
+名園花正好嬌紅殢白百態競春粧笑痕添酒暈豐臉<lb/>
+凝脂誰與試鈆霜詩朋酒伴趂此日流轉風光儘夜遊<lb/>
+不妨秉燭未覺是踈狂　茫茫一年一度爛熳離披似<lb/>
+長江去浪但要敎啼鶯語燕不怨盧郎問春春道何曽<lb/>
+<pb n="KR4d0446_WYG_099-3a"/>
+去任蜂蝶飛過東墻君看取年年潘令河陽<lb/>
+　　　木蘭花慢<lb/>
+　　　　和楊司業梨花<lb/>
+是誰家庭院寒食後好花稠况墻外秋千晝喧鳯管夜<lb/>
+燦星毬蕭然獨醒騷客只江籬汀若當肴羞氷玉相看<lb/>
+一笑今年三月皇州底須歌舞最高樓興味儘悠悠有<lb/>
+白雪精神春風顔貎絶世英遊從敎對花無酒這雙眉<lb/>
+應不惹閑愁那更闗西夫子許來同醉香篘<lb/>
+<pb n="KR4d0446_WYG_099-3b"/>
+　　　再用韻<lb/>
+正羣芳開遍花簇簇蘂稠稠看艷杏夭桃蒸霞作糝輥<lb/>
+繡成毬天然素肌仙質對穠妝艷飾似含羞癡絶京華<lb/>
+倦客貪春忘却南州似傳聞天上玉為樓此事付悠悠<lb/>
+且白晝風前黄昏月下爛熳同遊神凝藐姑氷雪又何<lb/>
+須一醉解千愁自有壺中勝賞釀來玉液新篘<lb/>
+　　　三用韻<lb/>
+好風流詩老雙鬢上雪霜稠憶少壯歡娯呼鷹逐兎走<lb/>
+<pb n="KR4d0446_WYG_099-4a"/>
+馬飛毬春風斷腸柔唱拚千金一笑破嬌羞此日花時<lb/>
+意氣當年夢裏揚州對客床百尺卧危樓徃事總悠悠<lb/>
+把湖海人豪消磨變換洙泗天遊應知裂麻司業為前<lb/>
+時諫舌頗多愁去今却堪痛飲甕頭有酒頻篘<lb/>
+　　　四用韻<lb/>
+看風花煙柳濃又淡少還稠有小巧微蟲垂天布網轉<lb/>
+地搏毬冲融一般春意只啼鶯語燕向人羞收取塵間<lb/>
+樂事都歸杓裏舒州下綺筵珍饌醉青樓光景信悠悠<lb/>
+<pb n="KR4d0446_WYG_099-4b"/>
+柰蜹隊蝦羣空中聚散水上浮逰誰知太和真趣本無<lb/>
+愁何用更澆愁問字頻來未已漉巾不要親篘<lb/>
+　　　水調歌頭<lb/>
+四垂雲晻曖一夏雨溟濛千竒百怪驚人海蜃眩青紅<lb/>
+誰道榖城黄石混跡長安紫陌九萬里培風静夜歘澄<lb/>
+霽皎月麗中天人問今年年幾許尚童䝉憨癡自笑能<lb/>
+禆造化竟何功豈意京華倦客忽得蓬萊妙唱流響韻<lb/>
+商宫此去兩神劒終久㑹雌雄<lb/>
+<pb n="KR4d0446_WYG_099-5a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR4d0446_WYG_099-5b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　吳文正集巻九十九<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

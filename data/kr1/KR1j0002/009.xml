@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="1a"/>
+<hi>母在西日下在東皆四方昬荒之國次四極者</hi>九夷八狄七戎六蠻謂之四海<hi>九夷在東八狄在北七戎在西六蠻在南次四荒者</hi>岠齊州以南戴日爲丹穴<hi>岠去也齊中也</hi>北戴斗極爲空桐<lb/>
+<hi>戴值</hi>東至日所出爲太平西至日所入爲太蒙<hi>即蒙汜也</hi>太平之人<lb/>
+仁丹穴之人智太蒙之人信空桐之人武<hi>地氣使之然也</hi>
+　　　　四極<lb/>
+釋丘第十<lb/>
+丘一成爲敦丘<hi>成猶重也周禮曰爲壇三成今江東呼地髙堆者爲敦</hi>再成爲陶丘<hi>今濟隂定陶城中有陶丘</hi>再成銳上爲融丘<hi>鐵頂/者</hi>三成爲崐崘丘<hi>崐崘山三重故以名云</hi>如椉者椉<lb/>
+丘<hi>形似車椉也或云椉謂稻田塍埒</hi>如陼者陼丘<hi>水中小/洲爲陼</hi>水潦所止泥丘<hi>頂上汚下者</hi>方<lb/>
+丘胡丘<hi>形四方</hi>絕髙爲之京<hi>人力/所作</hi>非人爲之丘<hi>地自然生</hi>水潦所還<lb/>
+<pb n="1b"/>
+埒丘<hi>謂丘邊有界埒水繞環之</hi>上正章丘<hi>頂/平</hi>澤中有丘都丘<hi>在池澤中</hi>當途梧丘<lb/>
+<hi>途道</hi>途出其右而還之畫丘<hi>言爲道/所規畫</hi>途出其前戴丘<hi>道出丘南</hi>途出<lb/>
+其後昌丘<hi>道出丘北</hi>水出其前渻丘水出其後沮丘水出其右正<lb/>
+丘水出其左營丘<hi>今齊之營丘淄水過其南及東</hi>如覆敦者敦丘<hi>敦盂也</hi>邐迆沙<lb/>
+丘<hi>旁行連延</hi>左髙咸丘右髙臨丘前髙旄丘<hi>詩云旄丘之葛兮</hi>後髙陵丘偏<lb/>
+髙阿丘<hi>詩云陟彼阿丘</hi>宛中宛丘<hi>宛謂中/央隆髙</hi>丘背有丘爲負丘<hi>此解宛丘中央隆峻狀如負一丘於背上</hi>左澤定丘右陵泰丘<hi>宋有太丘杜/云見史記</hi>如畝畝丘<hi>丘有壟界如田畝</hi>如陵<lb/>
+陵丘<hi>陵大阜也</hi>丘上有丘爲宛丘<hi>嫌人不了/故重曉之</hi>陳有宛丘<hi>今在陳郡陳縣</hi>晉有<lb/>
+濳丘<hi>今在太原晉陽縣</hi>淮南有州黎丘<hi>今在壽春縣</hi>天下有名丘五其三在<lb/>
+河南其二在河北<hi>說者多以州黎宛營爲河南潜敦爲河北者案此方稱天下之名丘恐此諸丘碌碌未足用當之殆自别更有</hi>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

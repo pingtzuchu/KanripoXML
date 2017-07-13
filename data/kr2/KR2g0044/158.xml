@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>八旗滿洲氏族通譜目録</head> <lb/>
+    <p>
+<pb n="KR2g0044_WYG_158-1a"/>
+欽定四庫全書<lb/>
+　八旗滿洲氏族通譜目録<lb/>
+　　卷七十九<lb/>
+　　附載滿洲旗分内之臺尼堪姓氏<lb/>
+　　沈氏<lb/>
+　　　豐庫<lb/>
+　　張氏<lb/>
+　　　張銑<lb/>
+<pb n="KR2g0044_WYG_158-1b"/>
+　　　　　以上俱係三品以上大員<lb/>
+　　王氏<lb/>
+　　　王文華　　　　　王濟納<lb/>
+　　　王宗講　　　　　綬謙<lb/>
+　　　王弼　　　　　　王俊雲<lb/>
+　　劉氏<lb/>
+　　　福拉納　　　　　栢萬<lb/>
+　　　劉世䕃　　　　　劉世恩<lb/>
+<pb n="KR2g0044_WYG_158-2a"/>
+　　　劉光祖　　　　　劉天福<lb/>
+　　張氏<lb/>
+　　　四譜　　　　　　桂忠<lb/>
+　　　張恭生　　　　　克惇<lb/>
+　　　可敦<lb/>
+　　孫氏<lb/>
+　　　猷尚　　　　　　孫朝臣<lb/>
+　　　孫福<lb/>
+<pb n="KR2g0044_WYG_158-2b"/>
+　　唐氏<lb/>
+　　　拉巴　　　　　　文高<lb/>
+　　　納爾泰<lb/>
+　　楊氏<lb/>
+　　　舒昌　　　　　　楊綬宗<lb/>
+　　　楊萬騰<lb/>
+　　李氏<lb/>
+　　　陶色　　　　　　李應孝<lb/>
+<pb n="KR2g0044_WYG_158-3a"/>
+　　秋氏<lb/>
+　　　秋乾　　　　　　成亮<lb/>
+　　宋氏<lb/>
+　　　宋成義　　　　　宋柱<lb/>
+　　圖氏<lb/>
+　　　圖進<lb/>
+　　雅氏<lb/>
+　　　雅尚人<lb/>
+<pb n="KR2g0044_WYG_158-3b"/>
+　　馬氏<lb/>
+　　　馬健德<lb/>
+　　賴氏<lb/>
+　　　托色<lb/>
+　　鄧氏<lb/>
+　　　留德<lb/>
+　　莫氏<lb/>
+　　　莫官憲<lb/>
+<pb n="KR2g0044_WYG_158-4a"/>
+　　江氏<lb/>
+　　　猷恭<lb/>
+　　龎氏<lb/>
+　　　龎方<lb/>
+　　俞氏<lb/>
+　　　俞柱<lb/>
+　　黄氏<lb/>
+　　　西成額<lb/>
+<pb n="KR2g0044_WYG_158-4b"/>
+　　羅氏<lb/>
+　　　石圖<lb/>
+　　郭氏<lb/>
+　　　觀齊肯<lb/>
+　　沈氏<lb/>
+　　　沈周<lb/>
+　　吳氏<lb/>
+　　　吳世虎<lb/>
+<pb n="KR2g0044_WYG_158-5a"/>
+　　尤氏<lb/>
+　　　宣柱<lb/>
+　　盧氏<lb/>
+　　　英魁<lb/>
+　　坡氏<lb/>
+　　　坡格來馬<lb/>
+　　陳氏<lb/>
+　　　陳達<lb/>
+<pb n="KR2g0044_WYG_158-5b"/>
+　　孟氏<lb/>
+　　　孟承祖<lb/>
+　　聶氏<lb/>
+　　　聶勝公<lb/>
+　　趙氏<lb/>
+　　　三泰<lb/>
+　　高氏<lb/>
+　　　髙國正<lb/>
+<pb n="KR2g0044_WYG_158-6a"/>
+　　周氏<lb/>
+　　　烏穆通<lb/>
+　　向氏<lb/>
+　　　百綬<lb/>
+　　徐氏<lb/>
+　　　徐成義<lb/>
+　　朱氏<lb/>
+　　　朱成功<lb/>
+<pb n="KR2g0044_WYG_158-6b"/>
+　　史氏<lb/>
+　　　達成<lb/>
+　　宗氏<lb/>
+　　　宗武<lb/>
+　　顏氏<lb/>
+　　　博恭<lb/>
+<pb n="KR2g0044_WYG_158-7a"/>
+欽定四庫全書<lb/>
+　八旗滿洲氏族通譜目録<lb/>
+　　卷七十九<lb/>
+　　附載滿洲旗分内之臺尼堪姓氏<lb/>
+　　沈氏<lb/>
+　　　豐庫<lb/>
+　　張氏<lb/>
+　　　張銑<lb/>
+<pb n="KR2g0044_WYG_158-7b"/>
+　　　　　以上俱係三品以上大員<lb/>
+　　王氏<lb/>
+　　　王文華　　　　　王濟納<lb/>
+　　　王宗講　　　　　綬謙<lb/>
+　　　王弼　　　　　　王俊雲<lb/>
+　　劉氏<lb/>
+　　　福拉納　　　　　栢萬<lb/>
+　　　劉世䕃　　　　　劉世恩<lb/>
+<pb n="KR2g0044_WYG_158-8a"/>
+　　　劉光祖　　　　　劉天福<lb/>
+　　張氏<lb/>
+　　　四譜　　　　　　桂忠<lb/>
+　　　張恭生　　　　　克惇<lb/>
+　　　可敦<lb/>
+　　孫氏<lb/>
+　　　猷尚　　　　　　孫朝臣<lb/>
+　　　孫福<lb/>
+<pb n="KR2g0044_WYG_158-8b"/>
+　　唐氏<lb/>
+　　　拉巴　　　　　　文高<lb/>
+　　　納爾泰<lb/>
+　　楊氏<lb/>
+　　　舒昌　　　　　　楊綬宗<lb/>
+　　　楊萬騰<lb/>
+　　李氏<lb/>
+　　　陶色　　　　　　李應孝<lb/>
+<pb n="KR2g0044_WYG_158-9a"/>
+　　秋氏<lb/>
+　　　秋乾　　　　　　成亮<lb/>
+　　宋氏<lb/>
+　　　宋成義　　　　　宋柱<lb/>
+　　圖氏<lb/>
+　　　圖進<lb/>
+　　雅氏<lb/>
+　　　雅尚人<lb/>
+<pb n="KR2g0044_WYG_158-9b"/>
+　　馬氏<lb/>
+　　　馬健德<lb/>
+　　賴氏<lb/>
+　　　托色<lb/>
+　　鄧氏<lb/>
+　　　留德<lb/>
+　　莫氏<lb/>
+　　　莫官憲<lb/>
+<pb n="KR2g0044_WYG_158-10a"/>
+　　江氏<lb/>
+　　　猷恭<lb/>
+　　龎氏<lb/>
+　　　龎方<lb/>
+　　俞氏<lb/>
+　　　俞柱<lb/>
+　　黄氏<lb/>
+　　　西成額<lb/>
+<pb n="KR2g0044_WYG_158-10b"/>
+　　羅氏<lb/>
+　　　石圖<lb/>
+　　郭氏<lb/>
+　　　觀齊肯<lb/>
+　　沈氏<lb/>
+　　　沈周<lb/>
+　　吳氏<lb/>
+　　　吳世虎<lb/>
+<pb n="KR2g0044_WYG_158-11a"/>
+　　尤氏<lb/>
+　　　宣柱<lb/>
+　　盧氏<lb/>
+　　　英魁<lb/>
+　　坡氏<lb/>
+　　　坡格來馬<lb/>
+　　陳氏<lb/>
+　　　陳達<lb/>
+<pb n="KR2g0044_WYG_158-11b"/>
+　　孟氏<lb/>
+　　　孟承祖<lb/>
+　　聶氏<lb/>
+　　　聶勝公<lb/>
+　　趙氏<lb/>
+　　　三泰<lb/>
+　　高氏<lb/>
+　　　髙國正<lb/>
+<pb n="KR2g0044_WYG_158-12a"/>
+　　周氏<lb/>
+　　　烏穆通<lb/>
+　　向氏<lb/>
+　　　百綬<lb/>
+　　徐氏<lb/>
+　　　徐成義<lb/>
+　　朱氏<lb/>
+　　　朱成功<lb/>
+<pb n="KR2g0044_WYG_158-12b"/>
+　　史氏<lb/>
+　　　達成<lb/>
+　　宗氏<lb/>
+　　　宗武<lb/>
+　　顏氏<lb/>
+　　　博恭<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

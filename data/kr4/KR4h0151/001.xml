@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0151_WYG_001-1a"/>
+　　　乾隆四十九年十月初九日奉<lb/>
+　上諭繄古帝王御世建極凝庥上有敷錫之君下享康<lb/>
+　　寧之福洎乎近代史冊尠稱我<lb/>
+皇祖沖齡踐阼統馭寰區仁漸義摩涵濡休養康熈年間<lb/>
+　　曽舉行千叟宴與中外臣民躋夀宇而迓繁禧誠為<lb/>
+　　千載一時之嘉㑹朕誕膺丕緒敬紹鴻圖仰承<lb/>
+昊蒼眷顧福佑朕躬年逾古稀尚䏻康强勤政惟是斂時<lb/>
+　　錫福期舉世咸登仁夀著於乾隆五十年正月初六<lb/>
+<pb n="KR4h0151_WYG_001-1b"/>
+　　日舉行千叟宴盛典用昭我國家景運昌期重熙累<lb/>
+　　洽嘉與中外臣民耆老介祉延禧之至意所有一切<lb/>
+　　事宜著各該衙門敬謹預備欽此<lb/>
+　　　十一月二十三日奉<lb/>
+　上諭眀嵗舉行千叟宴原定四品以下官員年六十五<lb/>
+　　嵗以上者始准入宴現在人數已増至三千而官員<lb/>
+　　與兵丁不同如必六十五嵗以上方准入宴則年過<lb/>
+　　六十之職官不得邀榮者甚多著加恩凡在京四品<lb/>
+<pb n="KR4h0151_WYG_001-2a"/>
+　以下現任原任各員年過六十者俱准其入宴用<lb/>
+　昭普錫春祺加惠耆臣之至意欽此<lb/>
+　　十二月二十三日奉<lb/>
+上諭新正舉行千叟宴所有與宴之官員兵民年在九<lb/>
+　十以上者俱准其子孫一人扶掖入宴其文武大臣<lb/>
+　年逾七十者令其自行揣量如歩履稍艱亦准其子<lb/>
+　孫一人扶掖入宴以示朕優待耆年有加無已之至<lb/>
+　意欽此<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

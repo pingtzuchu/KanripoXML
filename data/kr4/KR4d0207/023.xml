@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4d0207_SBCK_023-1a"/>
+跋<lb/>
+右默堂先生文集二十二卷宋陳淵撰淵字知默沙縣人紹興<lb/>
+七年詔舉直言敢諫之士以胡安國薦除御史官至宗正少卿<lb/>
+嘗牓其室曰默堂門人沈度爲編次其詩文因以名其集直齋<lb/>
+書錄解題載淵集卷數與此本合宋史藝文志則稱二十六卷<lb/>
+詞三卷此本有詩無詞宋志所載蓋别本也此本首葉有影寫<lb/>
+崑山徐氏傳是樓所藏宋槧本一行知從舊本傳錄卷二十二<lb/>
+第十葉因原本字跡糢糊故脫去楊補之所藏了齋書佛語一<lb/>
+文共三十七行檢四庫全書所錄鮑士恭家進呈本亦闕然庫<lb/>
+本并第九葉書蕭茂德楚詞後及第十二葉書了齋筆供養發<lb/>
+願文亦闕而不載則尤在此本下矣此本有東郡楊氏宋存書<lb/>
+室珍藏東郡楊紹和字彥合藏書之印彥合珍存諸印知是海<lb/>
+<pb n="KR4d0207_SBCK_023-1b"/>
+源閣故物繭紙精寫乃康乾間人手跡彌可珍也海寧趙萬里<lb/>
+<pb n="KR4d0207_SBCK_023-2a"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

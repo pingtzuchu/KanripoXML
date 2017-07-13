@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>通志卷三十一</head> <lb/>
+    <p>
+<pb n="KR2d0006_WYG_036-1a"/>
+欽定四庫全書<lb/>
+　通志卷三十一<lb/>
+　　宋　右　廸　功　郎　鄭　樵　漁　仲　撰<lb/>
+　六書略第一<lb/>
+<pb n="KR2d0006_WYG_036-2a"/>
+</p>
+<p>
+<pb n="KR2d0006_WYG_036-3a"/>
+</p>
+<p>
+<pb n="KR2d0006_WYG_036-4a"/>
+</p>
+<p>
+<pb n="KR2d0006_WYG_036-5a"/>
+　　六書序<lb/>
+經術之不明由小學之不振小學之不振由六書之無<lb/>
+傳聖人之道惟藉六經六經之作惟藉文言文言之本<lb/>
+在於六書六書不分何以見義經之有六書猶奕之有<lb/>
+二棋博之有五木奕之變無窮不離二色博之應無方<lb/>
+不離五物苟二棋之無别則白猶黑也黑猶白也何以<lb/>
+明勝負茍五木之不分則梟猶盧也盧猶梟也何以決<lb/>
+雌雄小學之義第一當識子母之相生第二當識文字<lb/>
+<pb n="KR2d0006_WYG_036-5b"/>
+之有間象形指事文也會意諧聲轉注字也假借文字<lb/>
+俱也象形指事一也象形别出為指事諧聲轉注一也<lb/>
+諧聲别出為轉注二母為會意一子一母為諧聲六書<lb/>
+也者象形為本形不可象則属諸事事不可指則属諸<lb/>
+意意不可會則属諸聲聲則無不諧矣五不足而後假<lb/>
+借生焉一曰象形而象形之别有十種有天物之形有<lb/>
+山川之形有井邑之形有艸木之形有人物之形有鳥<lb/>
+獸之形有蟲魚之形有鬼物之形有器用之形有服飾<lb/>
+<pb n="KR2d0006_WYG_036-6a"/>
+之形是象形也推象形之類則有象貌象數象位象氣<lb/>
+象聲象屬是六象也與象形並生而統以象形又有象<lb/>
+形而兼諧聲者則曰形兼聲有象形而兼會意者則曰<lb/>
+形兼意十形猶子姓也六象猶適庶也兼聲兼意猶姻<lb/>
+婭也二曰指事指事之别有兼諧聲者則曰事兼聲有<lb/>
+兼象形者則曰事兼形有兼會意者則曰事兼意三曰<lb/>
+會意二母之合有義無聲四曰轉注别聲與義故有建<lb/>
+類主義亦有建類主聲有互體别聲亦有互體别義五<lb/>
+<pb n="KR2d0006_WYG_036-6b"/>
+曰諧聲母主形子主聲者諧聲之義也然有子母同聲<lb/>
+者有母主聲者有主聲不主義者有子母互為聲者有<lb/>
+三體主聲者有諧聲而兼會意者則曰聲兼意六曰假<lb/>
+借不離音義有同音借義有借同音不借義有協音借<lb/>
+義有借協音不借義有因義借音有因借而借有語辭<lb/>
+之借有五音之借有三詩之借有十日之借有十二辰<lb/>
+之借有方言之借六書之道備於此矣臣舊有象類之<lb/>
+書極深研幾盡制作之妙義奈何小學不𫝊已久見者<lb/>
+<pb n="KR2d0006_WYG_036-7a"/>
+不無疑駭今取象類之義約而歸於六書使天下文字<lb/>
+無所逃而有目者可以盡曉嗚呼古者有尉律所以𠡠<lb/>
+小學也學童十七巳上始試諷籕書九千字乃得為吏<lb/>
+又以八體試之郡移太史并課最者以為尚書史書或<lb/>
+不正輙舉劾之夫古文變而為籕書籕書變而為篆𨽻<lb/>
+秦漢之人習篆𨽻必試以籕書者恐失其原也後之學<lb/>
+者六書不明篆籕㒺措而欲通經難矣哉且尉律者廷<lb/>
+尉治獄之律也古人於獄訟之書猶不敢茍簡若是而<lb/>
+<pb n="KR2d0006_WYG_036-7b"/>
+况聖人之經乎<lb/>
+　　象形第一<lb/>
+序曰書與畫同出畫取形書取象畫取多書取少凡象<lb/>
+形者皆可畫也不可畫則無其書矣然書窮能變故畫<lb/>
+雖取多而得算常少書雖取少而得算常多六書也者<lb/>
+皆象形之變也今推象形有十種而旁出有六象<lb/>
+　　天物之形<lb/>
+日<hi>太陽之精正圓不虧其中象日烏之形</hi>○<hi>古文星小則為/星大則為槃</hi>月<hi>太隂之精多虧少盈</hi>
+<pb n="KR2d0006_WYG_036-8a"/>
+<hi>故其形缺</hi>天<hi>一大為天象/天垂示之形</hi>旦<hi>日初出/於地上</hi>云<hi>古雲字象其形後人加雨故以云為云回</hi>
+<hi>之云</hi>回<hi>古雷字後人加雨作䨓又作靁省作雷回象/䨓形借為回旋之回古尊罍器多作云回</hi>雨<hi>古作</hi>
+<hi>□又作□□即□而成文雨即□而備體</hi>
+　　　右八<lb/>
+　　山川之形<lb/>
+丘<hi>象山丘在地一地也</hi>山嵒<hi>魚衘切/岸也</hi>
+                    <graphic n="KR1432" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1432.png" mimeType="image/png"/>
+                    <hi>於口切山/名在陽羡</hi>广<hi>音儼説文因广為屋象對</hi>
+<hi>刺髙屋之形</hi>丆<hi>呼旱切山石之/厓巖人可居</hi>石嵒<hi>魚咸切/磛嵒也</hi>水<hi>坎之體也從則為水</hi>川<lb/>
+<hi>水會為川</hi>
+                    <graphic n="KR1457" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1457.png" mimeType="image/png"/>
+                    <hi>即畎字小/水為<graphic n="KR1457" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1457.png" mimeType="image/png"/>
+                    </hi>巜<hi>即澮字廣尺深尺曰<graphic n="KR1457" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1457.png" mimeType="image/png"/>廣二尋/深二仞曰巜書曰濬<graphic n="KR1457" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1457.png" mimeType="image/png"/>巜距川</hi>泉<lb/>
+<pb n="KR2d0006_WYG_036-8b"/>
+<hi>本錢字象錢貨之形自九府圜法行然後外圓内方此實錢也借為泉水之泉所以生字皆取借義</hi>
+                    <graphic n="KR1000" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1000.png" mimeType="image/png"/>
+                    <hi>蒲糜</hi>
+<hi>切水邪流</hi>
+                    <graphic n="KR1000" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1000.png" mimeType="image/png"/>
+                    <hi>匹卦切從反永徐錯曰/永長流也反即分<graphic n="KR1000" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1000.png" mimeType="image/png"/>也</hi>永<hi>象水巠理之長/詩曰江之永矣</hi>土<hi>象物</hi>
+<hi>在土中拆土而出之形</hi>
+                    <graphic n="KR2323" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2323.png" mimeType="image/png"/>
+                    <hi>即塊字从土/一屈象形</hi>堊<hi>即坐字象人據/土而坐之形</hi>
+                    <graphic n="KR0935" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0935.png" mimeType="image/png"/>
+                    <hi>都回切説</hi>
+<hi>文小<graphic n="KR0671" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0671.png" mimeType="image/png"/>也</hi>
+                    <graphic n="KR0671" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0671.png" mimeType="image/png"/>
+                    <hi>即阜字説文大/陸山無石者</hi>
+                    <graphic n="KR2342" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2342.png" mimeType="image/png"/>
+                    <hi>亦作□音阜/兩阜之間也</hi>鹵<hi>郎古切説文西方鹹地从</hi>
+<hi>西省象鹽形</hi>屾<hi>所臻切/二山也</hi>磊<hi>魯猥切/衆石也</hi>壵<hi>音堯説文/土髙也</hi>凹<hi>於交切窊也</hi>凸<lb/>
+<hi>陁沒切出貌又徒結切</hi>凹<hi>昵洽切凹凹/物低垂貌□</hi>岳<hi>説文東岱南霍西華北恒中泰室王者所以廵</hi>
+<hi>狩所至嶽古作岳象髙形</hi>
+　　　右三十<lb/>
+<pb n="KR2d0006_WYG_036-9a"/>
+　　井邑之形<lb/>
+丼<hi>即井字説文八家一井象井幹之形其中㸃者罋之象也</hi>丹<hi>説文巴越之赤石也象采丹井其中之㸃</hi>
+<hi>象丹形</hi>田<hi>象田有所畫/疆畛之形</hi>髙<hi>亦作高象臺觀高之形从冂口與倉舍同意口即圍字</hi>京<lb/>
+<hi>説文人所為絶高丘也从高省丨象高形</hi>　<hi>即坰字邑外謂之郊郊外謂之野野外謂之林林外謂之冂象</hi>
+<hi>逺界</hi>　<hi>即郭字説文民所度居也从/回象城□之重兩亭相對也</hi>　<hi>即廩字方曰倉圜曰㐭上象其盖</hi>
+　<hi>苦本切今作壼説文宫中道從口象宫垣道上之形引詩室家之壼</hi>　<hi>音綿説文交覆深屋也</hi>穴<lb/>
+<hi>胡決切象穿土為室之形</hi>畕<hi>居良切/比田也</hi>畾<hi>魯水切田間謂之/畾又盧回切雷也</hi>□<hi>音虺仲□湯左</hi>
+<hi>相闕本義</hi>
+<pb n="KR2d0006_WYG_036-9b"/>
+　　　右十四<lb/>
+　　艸木之形<lb/>
+㞢<hi>𨽻作之今作芝象芝出於地</hi>丕<hi>从不不音跗象華之不/蕚敷披於地上之形</hi>帝<hi>象華蔕之形</hi>
+才<hi>説文艸木之初也从丨上貫一将生枝葉下一地也</hi>　<hi>丑列切又采早切象艸木初生有二葉附芽而</hi>
+<hi>出</hi>屯<hi>株倫切象艸木初自地/出從屮貫一一象地也</hi>丵<hi>仕角切/叢生艸</hi>　<hi>音介説文艸蔡也象艸生</hi>
+<hi>之散亂也</hi>未<hi>木之滋也於木有加/焉一曰木生未遂也</hi>木<hi>上象枝幹/下象根荄</hi>不<hi>牙葛切又牛代切木</hi>
+<hi>屈頭不出也</hi>桑<hi>木之類惟桑葉茂故詩曰桑之/未落其葉沃若从叒象葉盛也</hi>出<hi>華英也華皆五出故</hi>
+<hi>象五出之形</hi>　<hi>音垂象艸木華/葉垂敷之形</hi>　<hi>乎感切象艸木之/華未發<graphic n="KR1887" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1887.png" mimeType="image/png"/>然之形</hi>
+                    <graphic n="KR1234" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1234.png" mimeType="image/png"/>
+                    <hi>田聊切象</hi>
+<pb n="KR2d0006_WYG_036-10a"/>
+<hi>艸木之實垂<graphic n="KR1234" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1234.png" mimeType="image/png"/>
+                        <graphic n="KR1234" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1234.png" mimeType="image/png"/>然</hi>　<hi>亾暘切/木芒也</hi>　<hi>從來象其實也/從夕象其根也</hi>來<hi>説文周所受瑞麥來麰一</hi>
+<hi>來二麰象芒束之形詩曰貽我來麰</hi>禾<hi>象根葉及/垂穗之形</hi>秀<hi>茂盛也象根壅/盛而禾髙茂</hi>米<hi>象禾</hi>
+<hi>實之形</hi>　<hi>匹仞切枲莖皮也从/屮從八象枲之皮莖</hi>　<hi>音叔豆也象/豆生之形</hi>韭<hi>象韭芽初生於</hi>
+<hi>地上之形</hi>　<hi>象葉芘/其實也</hi>　<hi>音端説文物初生之題/也上象生形下象其根</hi>禾<hi>音稽木之曲頭止不</hi>
+<hi>能上也</hi>　<hi>今作漆説文木汁可以䰍/物象形桼如水滴而下</hi>不<hi>音跗象華蕚蔕之形詩曰常棣之華</hi>
+<hi>蕚不韡韡</hi>火<hi>象火形又魚/燕借為尾象</hi>个<hi>竹枚/也</hi>　<hi>陟格切艸葉也从垂穗上貫一下有根一地也</hi>
+　<hi>説文磔也从舛在木上一曰髙木也</hi>　<hi>弋渉切/木葉也</hi>果<hi>木實/也</hi>　<hi>説文木之垂朶朶也</hi>
+<hi>詡鬼切𨽻作卉艸之總名</hi>茻<hi>音莾蕨類繁薈而/叢生一曰衆艸</hi>　<hi>象艸並/出之形</hi>芻<hi>説文刈艸也象</hi>
+<pb n="KR2d0006_WYG_036-10b"/>
+<hi>包束艸之形</hi>□<hi>胡先切艸/木<graphic n="KR1887" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1887.png" mimeType="image/png"/>盛也</hi>　<hi>郎擊切稀踈適也一曰厯也季从禾厯从二禾皆以禾為節歴</hi>
+<hi>亦作麻</hi>
+                    <graphic n="KR4007" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4007.png" mimeType="image/png"/>
+                    <hi>匹卦切説文/葩之總名</hi>　<hi>勇主切説文本不勝末㣲弱也</hi>
+　　　右四十五<lb/>
+　　人物之形<lb/>
+人<hi>象人立也</hi>　<hi>今作化説文變也从到人臣按道家謂順行則為人逆行則為道人死則歸於土道則離</hi>
+<hi>人故能變化而上升</hi>　<hi>古文殄字/从反匕</hi>身<hi>人身從禽畜身/衡此象人之身</hi>儿<hi>古文竒字人也人象</hi>
+<hi>立人儿象行人立有所負行有所戴</hi>　<hi>説文孺子也象/小兒頭囟未合</hi>　<hi>今作簮説文从人匕象簮形</hi>
+　<hi>説文頌儀也从白象人面之形</hi>　<hi>今作弁象/戴弁之形</hi>　<hi>公戶切説文廱蔽从人象左右皆蔽之形</hi>
+<pb n="KR2d0006_WYG_036-11a"/>
+　　<hi>當侯切兠鍪胄也象人戴胄形</hi>秃<hi>象人之髪秃少/如禾之芒爾</hi>□<hi>與之切/□也</hi>面<hi>説文顔前</hi>
+<hi>也从百象人面</hi>　　<hi>𨽻作首从<graphic n="KR1315" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1315.png" mimeType="image/png"/>从巛巛象髪謂/之鬊鬊即巛也鬊舒閏切</hi>百<hi>書九切/頭也</hi>□<hi>古堯</hi>
+<hi>切斬首到縣故从到首</hi>長<hi>展兩<graphic n="KR0704" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0704.png" mimeType="image/png"/>在人上者故古文从上从人後之為字者因古文而成體其上則象發</hi>
+<hi>號施令其下則象垂衣裳之形从匕所以化下也其實本古文之尤耳</hi>元<hi>人頭也从二从儿二古文上字</hi>
+<hi>象人頭儿象其身</hi>大<hi>説文大象人形/又曰大人也</hi>亦<hi>説文人之臂亦也从大象兩亦之形今别作腋</hi>
+夫<hi>説文丈夫也从大一以象簪也周制以八寸為尺十尺為丈人長八尺故曰丈夫</hi>夭<hi>於兆切説文屈</hi>
+<hi>也从大象形又古老<graphic n="KR0704" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0704.png" mimeType="image/png"/>不長也</hi>□<hi>阻力<graphic n="KR0704" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0704.png" mimeType="image/png"/>又力/結切傾頭也</hi>□<hi>古郎切又寒剛切説文人頸也从大省象</hi>
+<hi>頸脉形</hi>交<hi>交脛/也</hi>□<hi>鳥光<graphic n="KR0704" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0704.png" mimeType="image/png"/>説文□曲頸/也从大象偏曲之形</hi>　　<hi>土刀切説文進趣也臣按□與</hi>
+<pb n="KR2d0006_WYG_036-11b"/>
+<hi>交□同意交以脛之交□以脛之偏□以脛之進</hi>□<hi>他達切象人/形亦作大</hi>立<hi>象人立地之上从大</hi>
+<hi>人也一地也</hi>□<hi>今作夏説文中國之人也从/夂从<graphic n="KR1315" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1315.png" mimeType="image/png"/>从臼臼兩手夂兩足</hi>匈<hi>息進切説文頭會□蓋</hi>
+心耳耴<hi>陟渉切耳垂也</hi>手女<hi>象婦人斂/容儀之形</hi>母<hi>從女象褱子之/形又曰象乳子</hi>毋<hi>武扶</hi>
+<hi>切説文止之也从女有奸之者</hi>也<hi>説文女/陰也</hi>民<hi>氓也象俯首/力作之形</hi>而<hi>説文頰毛也</hi>力<lb/>
+<hi>筋也力由筋以生故象筋之形</hi>甲<hi>象人被甲之形故/古文甲从人頭</hi>子　　<hi>他骨<graphic n="KR0704" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0704.png" mimeType="image/png"/>説文不順出□到</hi>
+<hi>子</hi>了<hi>盧鳥切脛/之椎骨</hi>　<hi>丁了切/男子隂</hi>　<hi>居桀切説/文無右臂</hi>　<hi>居月切説文無左臂</hi>
+<hi>息夷厶與</hi>　　<hi>隂謂之/同體</hi>口□<hi>牛刀切/諠也</hi>噩<hi>魚各切/驚動也</hi>走<hi>从夭从止止足也天象人</hi>
+<hi>之仰首張足而奔之形</hi>止<hi>象足/趾</hi>□<hi>他違切説文/蹈也从反止</hi>歩<hi>行也象二/趾相前後</hi>　　<hi>蒲末</hi>
+<pb n="KR2d0006_WYG_036-12a"/>
+<hi>
+                        <graphic n="KR0704" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0704.png" mimeType="image/png"/>足相戾/而躓也</hi>　<hi>丑略切从彳从止彳行也止足也象足而行也𨽻作□</hi>彳<hi>丑亦切小歩也象人</hi>
+<hi>脛三属相連也</hi>亍<hi>丑玉<graphic n="KR0704" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0704.png" mimeType="image/png"/>説文歩/止也从反彳</hi>　<hi>余忍<graphic n="KR0704" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0704.png" mimeType="image/png"/>説文長/行也从彳引之</hi>行<hi>从彳左歩也从</hi>
+<hi>亍右歩也左右歩俱舉而後為行者</hi>牙<hi>説文牡齒也象/上下相錯之形</hi>足<hi>象股脛下属於趾之形</hi>
+<hi>所葅<graphic n="KR0704" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0704.png" mimeType="image/png"/>説文足也/上象腓腸下从止</hi>舌<hi>象吐舌之形</hi>谷<hi>極虐切口上阿也/从口上象其理</hi>　<hi>他感</hi>
+<hi>切吐舌皃</hi>　<hi>他㸃切/舌皃</hi>壬<hi>如林切象懷妊/之形與巫同意</hi>廾<hi>居竦切/竦手也</hi>□<hi>普班切引也从</hi>
+<hi>反廾</hi>臼<hi>居玉切/义手也</hi>要<hi>伊消切説文身中也/象人要自臼之形</hi>申<hi>以書告上也从象書从臼捧書</hi>
+<hi>也</hi>曵<hi>余制切委/地而行</hi>　<hi>側絞切説文<graphic n="KR3213" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3213.png" mimeType="image/png"/>/也覆手曰爪</hi>　<hi>止兩切<graphic n="KR3213" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3213.png" mimeType="image/png"/>也/與爪相向</hi>　<hi>居六</hi>
+<hi>切挶也覆手挶也</hi>　<hi>紀劇切持也象手有所虱據也</hi>　<hi>居玉切持/也从反<graphic n="KR3213" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3213.png" mimeType="image/png"/>
+                    </hi>鬥<hi>都豆切从/<graphic n="KR3213" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3213.png" mimeType="image/png"/>从□象</hi>
+<pb n="KR2d0006_WYG_036-12b"/>
+<hi>對敵之形</hi>又<hi>説文手也三指者手/之列多略不過三也</hi>
+                    <graphic n="KR1664" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1664.png" mimeType="image/png"/>
+                    <hi>音左左/手也</hi>　<hi>音肱臂/上也</hi>丑<hi>械其</hi>
+<hi>手也</hi>彗<hi>旋芮切説文埽/竹也从又持甡</hi>　<hi>古邁切説文分決也从又中象決形徐鍇曰工物也丨所以決</hi>
+<hi>之又古穴<graphic n="KR0704" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0704.png" mimeType="image/png"/>
+                    </hi>目<hi>説文人眼/重童子也</hi>　<hi>㳟于切从大大人也/象人具兩目之形</hi>　<hi>古倦切目圍也</hi>
+<hi>如鼻間兩目之形</hi>眉<hi>旻悲切説文目上毛也从/目象眉之形上象額理也</hi>自<hi>疾二切鼻也象鼻形又始</hi>
+<hi>生之子亦為自</hi>幺<hi>於堯切説文小也/象子初生之形</hi>吕<hi>脊骨/也</hi>予<hi>余吕切説文推予也象相予之</hi>
+<hi>形</hi>骨<hi>説文肉之覈/也从□有肉</hi>　<hi>古瓦切剔人/肉置其骨也</hi>肉<hi>外象臠中/象肉理</hi>巫<hi>説文祝也</hi>
+<hi>女能事無形以舞降神者象人兩褏舞形與工同意古者巫咸初作巫</hi>　<hi>昌兖切説文對卧也从反□相</hi>
+<hi>背</hi>　<hi>美忝切説文□蓋也象布包覆腦下/有兩背而夂在下或作□莫坎切</hi>　<hi>楚危切説文行遲曳</hi>
+<pb n="KR2d0006_WYG_036-13a"/>
+<hi>及夂象人兩脛有所躧也</hi>夊<hi>陟侈切説文从後至也/象人兩脛後有致之者</hi>乆<hi>説文从後灸之象人兩脛</hi>
+<hi>後有距也引周禮乆諸牆以觀其橈</hi>疒<hi>音疾説文人有疾/病象倚着之形</hi>苜<hi>徒結切目不正也或作□</hi>
+<hi>象目生花之形</hi>尸<hi>主所祭之神而託/於人故象人之形</hi>包<hi>説文象人褱妊已/在中象子未成形</hi>□<hi>古懐</hi>
+<hi>切背吕也象脅肋之形</hi>吅<hi>音喧驚呼也象/並口呼之象</hi>　<hi>側立切/衆口也</hi>䀠<hi>九遇切左右視也</hi>
+从<hi>相聽也</hi>比<hi>毗志切相聽為/从反从為比</hi>北<hi>蒲昧切乖也/从二人相背</hi>　<hi>魚音切衆立也</hi>㚘<lb/>
+<hi>薄旱切並行也</hi>竝<hi>𨽻作並/併也</hi>孖<hi>津之切一/産二子也</hi>
+                    <graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>湏兖切選具也闕本義</hi>
+　　　右百二十三<lb/>
+　　鳥獸之形<lb/>
+<pb n="KR2d0006_WYG_036-13b"/>
+　<hi>工瓦切羊角也</hi>丫<hi>於加切物/之岐頭者</hi>采<hi>蒲莧切獸之迹/也象指爪之分</hi>羊<hi>孔子曰牛羊之字以</hi>
+<hi>形舉</hi>萈<hi>胡官切/羊細角</hi>牛<hi>説文象角頭/三封尾之形</hi>□<hi>音牢象圈/養之状</hi>牽<hi>象牽牛之状</hi>角<lb/>
+　<hi>荒胡切説文虎文也按此象虎而刳其肉象其皮之文</hi>虎<hi>象虎踞而/回顧之形</hi>毛<hi>説文眉髪之屬</hi>
+<hi>及獸毛也</hi>尾<hi>象毛在後/體之形</hi>豕豖<hi>勅六切豕/絆足行</hi>豙<hi>魚記切豕/怒毛起</hi>□<hi>居例切豕</hi>
+<hi>之頭</hi>　<hi>何加切从□/下象其足</hi>　<hi>通貫切/豕走也</hi>　<hi>羊至切説文脩豪獸一曰河内名豕也从□下</hi>
+<hi>象毛足</hi>豸<hi>池爾切説文獸長□行豸豸然欲/有所司殺形又丈蠏切蟲無足</hi>　<hi>徐姊切如野牛而青</hi>
+<hi>古作兕</hi>易<hi>羊益切説文蜥蜴蝘蜓守宫象/形祕書説日月為易象陰陽也</hi>禺<hi>牛具切/母猴</hi>象<hi>説文</hi>
+<hi>象長鼻牙南越大獸三年一乳象耳牙四足之形古作象</hi>馬□<hi>何開切又胡關切説文馬一嵗也从馬一</hi>
+<pb n="KR2d0006_WYG_036-14a"/>
+<hi>絆其足亦作□</hi>馵<hi>朱戍切馬/後左足白</hi>
+                    <graphic n="KR0919" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0919.png" mimeType="image/png"/>
+                    <hi>陟立切/絆馬也</hi>鹿<graphic n="KR1959" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1959.png" mimeType="image/png"/>
+                    <hi>宅買切獬<graphic n="KR1959" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1959.png" mimeType="image/png"/>獸似山牛一角古者決</hi>
+<hi>獄令觸不直</hi>㲋<hi>丑略切似兎/青色而大</hi>兔犬<hi>説文狗之有垂蹏者也孔子曰視犬之字如畫狗</hi>
+尨<hi>莫江切犬之多毛者</hi>犮<hi>蒲撥切説文走犬皃從犬/而丿之曳其足則刺犮也</hi>䑕能<hi>奴來切獸也又</hi>
+<hi>為三足鼈</hi>熊<hi>羽弓切説文獸/似豕山居冬蟄</hi>巤<hi>良渉切説文毛巤也象髮在匈上及毛髮巤䑕之形</hi>离<lb/>
+<hi>音離又音摛説文山神獸也歐陽喬説离猛獸也</hi>禹<hi>説文蟲也/或曰獸類</hi>㹌<hi>符朱切如人被髮一名梟</hi>
+<hi>羊</hi>萬<hi>無販切説/文蟲也</hi>卨<hi>私列切説/文蟲也</hi>嘼<hi>許救切説文㹌也象耳頭足厹地之形</hi>血<lb/>
+<hi>象薦血之形</hi>革<hi>象獸之皮凡取皮者必/張之頭角尾足皆具焉</hi>皮<hi>象以手剝取/其皮之形</hi>䕫<hi>渠追</hi>
+<hi>切説文神魖也如龍一足象有角足人面之形</hi>□<hi>奴刀切説文貪獸也一曰母猴又奴冬切</hi>鳥烏焉<lb/>
+<pb n="KR2d0006_WYG_036-14b"/>
+<hi>鳶也</hi>朋<hi>音鳳説文神鳥也五色□舉出於/東方君子之國見則天下安寜</hi>舄<hi>七約切/即鵲也</hi>萑<hi>胡官</hi>
+<hi>切説文鴟屬从佳从廾有毛角</hi>隹<hi>説文鳥之短/尾總名也</hi>羽<hi>鳥長/毛也</hi>彡<hi>所銜切説文毛飾畫文也</hi>
+<graphic n="KR3582" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3582.png" mimeType="image/png"/>
+                    <hi>之忍切説文新生羽而飛也</hi>几<hi>音殳説文鳥之/短羽飛几几也</hi>弱<hi>亦作弱説文橈也上象橈曲彡</hi>
+<hi>象毛釐撓弱也弱物并故从二□</hi>歰<hi>色入切説文不滑也从四止/臣按獸畜少滑者有四止也</hi>西<hi>古作</hi>
+<hi>
+                        <graphic n="KR1214" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1214.png" mimeType="image/png"/>鳥在巢/上象形</hi>□<hi>説文鳥在木上曰巢在穴曰窠</hi>飛<hi>説文鳥翥也</hi>
+                    <graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>權俱切脯挺/也<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>猶芻也</hi>
+<hi>芻象束艸<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>象束脯</hi>雔<hi>所江切/雙鳥</hi>雥<hi>徂合切/羣鳥</hi>虤<hi>五閑切/虎怒也</hi>賏<hi>音鸎頸飾也</hi>豩<lb/>
+<hi>悲巾切二豕也</hi>㹜<hi>語巾切兩/犬相齧也</hi>毳<hi>充芮切説文獸細毛也</hi>
+　　　右七十五<lb/>
+<pb n="KR2d0006_WYG_036-15a"/>
+　　蟲魚之形<lb/>
+□<hi>其中从仌象鱗其下似火象尾</hi>燕<hi>説文元鳥也籋/口布翄枝尾</hi>乙<hi>魚腸也又/魚鰓骨</hi>虫<hi>許偉</hi>
+<hi>切説文一名蝮博三寸首大如擘指象其卧形物之㣲細或行或毛或羸或介或鱗以虫為象</hi>蜀<hi>説文葵中</hi>
+<hi>蠶也从虫上目象蜀頭形中象其身</hi>它<hi>湯河切説文虫也从虫而長象寃曲垂尾形上古艸居患它故相問</hi>
+<hi>無它乎或作蛇又時遮切</hi>　<hi>説文頭與它同天地之性廣肩無雄龜鼈之類以它為雄象足甲尾之形也</hi>
+黽<hi>莫杏切説文鼃黽也从它象形</hi>　<hi>渠幽切龍/子有角者</hi>卵<hi>盧管切説文凡物無乳者卵生臣按此象</hi>
+<hi>蟲之卵附著於木枝之形如雀甕螵蛸之類是也</hi>卵<hi>公渾切/鯤無子</hi>白<hi>魚胞/也</hi>巴<hi>説文蟲也或曰</hi>
+<hi>食象蛇</hi>丁<hi>蠆尾也又為/著物之丁</hi>卜<hi>灼剝龜也象/炙龜之形</hi>兆<hi>灼龜/坼也</hi>丙<hi>魚尾也</hi>貝<lb/>
+<pb n="KR2d0006_WYG_036-15b"/>
+<hi>説文海介蟲也居陸名猋在水名蜬象形古者貨貝而寳龜至秦廢貝行錢</hi>　<hi>時丑切堪㐨魚名</hi>
+<hi>平祕切贔屭鼇也一曰雌鼇為贔</hi>　<hi>語居切/二魚也</hi>　<hi>音昆蟲/之總名</hi>　<hi>説文有足曰蟲無足曰豸</hi>
+　　　右二十三<lb/>
+　　　物之形<lb/>
+　<hi>象鬼魅之形</hi>　<hi>敷物切鬼頭也</hi>
+　　　右二<lb/>
+　　器用之形<lb/>
+弋<hi>橜也象折木袤鋭著形从□象物挂之也</hi>戈<hi>説文平/頭㦸也</hi>　<hi>音橜逆/鈎也</hi>　<hi>居月切説文鈎</hi>
+<pb n="KR2d0006_WYG_036-16a"/>
+<hi>識也从反亅又株衛切劒㦸皃</hi>
+                    <graphic n="KR1525" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1525.png" mimeType="image/png"/>
+                    <hi>古本切鈎/逆鋩也</hi>乙<hi>於謹切説文象/<graphic n="KR3222" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3222.png" mimeType="image/png"/>曲隐蔽形</hi>□<hi>甫良切説</hi>
+<hi>文受物之器也</hi>　<hi>今作甾東楚/名缶曰甾</hi>　<hi>象甃瓦/之形</hi>弓□<hi>徒案切説/文行丸也</hi>几<hi>亦作</hi>
+<hi>己踞几也周禮有五几</hi>　<hi>俱永切象/窻牖漏明</hi>且<hi>子余切説文薦也从几足有二横一其下地也臣按</hi>
+<hi>此即爼豆之爼</hi>□<hi>淺野切/薦也</hi>斤<hi>斧屬象曲/柄之形</hi>斗<hi>説文十升也/象形有柄</hi>升<hi>説文十龠</hi>
+<hi>也从斗亦象形</hi>　<hi>古雅切玉爵也象形與爵同意/一曰斝受六升又居迓切鬱尊</hi>矛<hi>説文酋矛也建於兵</hi>
+<hi>車長二丈</hi>車　<hi>于歳切車/軸耑也</hi>酉<hi>即卣也卣/即尊也</hi>　<hi>以韋編/竹為書</hi>玉<hi>象貫玉之形</hi>
+　<hi>即琴字</hi>主<hi>之庾切説文云知庾切象鐙鐙/中火主也鐙中主火燄之形</hi>　<hi>楚限切燔肉器</hi>干<lb/>
+<hi>象干㦸之形</hi>　<hi>魚㦸切於/古為㦸字</hi>庚<hi>□之類故/亦有三足</hi>率<hi>捕鳥/畢也</hi>鬲<hi>鼎屬説文實五觳斗</hi>
+<pb n="KR2d0006_WYG_036-16b"/>
+<hi>二升曰觳象腹交文三足</hi>　<hi>訖岳切二玉/相合為一珏</hi>
+                    <graphic n="KR3085" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3085.png" mimeType="image/png"/>
+                    <hi>古禾切説文秦名/土釡曰<graphic n="KR3218" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3218.png" mimeType="image/png"/>亦作□</hi>丸<hi>胡官</hi>
+<hi>切説文圜傾側而轉者从反仄</hi>　<hi>他刀切戎鼓大首謂之/<graphic n="KR2093" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2093.png" mimeType="image/png"/>从又象手執之也</hi>义<hi>初加切象义物之形</hi>
+　<hi>尼輙切䈤也象竹篾交錯成物之状</hi>盾<hi>食閏切説文瞂也/所以扞身蔽目</hi>華<hi>北潘切説文箕属所</hi>
+<hi>以推棄之器也又璧吉切</hi>畢<hi>説文田罔也從/華象畢形微也</hi>　<hi>古候切説文交積材也象對交之形</hi>壴<lb/>
+<hi>中句切説文陳樂立而上見也</hi>皿<hi>説文飯食/之用器也</hi>豈<hi>可亥切樂器/與壴同體</hi>豆<hi>説文食肉器也</hi>
+豊<hi>音禮行禮之器</hi>　<hi>説文豆之滿者一曰鄉飲/酒有豐侯者自是器名</hi>登<hi>禮器也象肉在豆中之形</hi>
+缶<hi>説文瓦器所以盛酒漿秦人鼓之以節歌</hi>矢<hi>説文从入象鏑栝羽之/形古者夷牟初作矢</hi>　<hi>即矦</hi>
+<hi>字射矦也</hi>　<hi>即射字象張/弓發矢之形</hi>臼<hi>説文舂也古者掘地/為臼其後穿木石</hi>兩<hi>古作□二十四</hi>
+<pb n="KR2d0006_WYG_036-17a"/>
+<hi>銖為兩象秤形</hi>月<hi>莫報切説文小/兒蠻夷頭衣也</hi>舟<hi>古作□/𨽻作月</hi>方<hi>併船也象兩舟省總頭形</hi>
+<hi>逆及切象人持舟之形</hi>尺<hi>昌石切説文十寸也人手郤十分動脉為寸口十寸為尺周制寸尺咫尋常仞</hi>
+<hi>諸度量皆以人之體為法</hi>卪<hi>今作節符信也/象相合之形</hi>　<hi>則侯切左卪也合符有二與者執左取者</hi>
+<hi>執右</hi>勺<hi>之若切説文挹取凹象/形中有實與包同意</hi>　<hi>説文昆吾圜器也臣按禮經古有壷何必取於</hi>
+<hi>昆吾</hi>　<hi>新室改為疊從晶從宜宜盛社肉/之器象肉多之形與豐登同意</hi>正<hi>諸盈切射的也詩曰終日</hi>
+<hi>射侯不出正兮</hi>乏<hi>扶法切从反/正藏矢之具</hi>　<hi>彌兖切避/箭短牆</hi>刀刃<hi>象刀有/刃之形</hi>匕<hi>必履</hi>
+<hi>切小刀也</hi>刅<hi>楚良/切</hi>片<hi>説文判/木也</hi>　<hi>音牆殳也/亦判木也</hi>鼎<hi>説文三足兩耳和五味之寳器</hi>
+<hi>也易卦巽木於下者為鼎象析木以炊也</hi>門戸<hi>闔為門/偏為戸</hi>　<hi>亦作繖顙/旱切蓋也</hi>宁<hi>直吕切當</hi>
+<pb n="KR2d0006_WYG_036-17b"/>
+<hi>屏間也</hi>　<hi>説文大版也所以飾鐘鼓㨗業如鋸齒以白畫/之象其齟齬相承也从<graphic n="KR3104" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3104.png" mimeType="image/png"/>从木木象版詩巨業</hi>
+<hi>維樅</hi>樂<hi>逆角切説文五聲八音/總名象鼓鞞木虡也</hi>乗<hi>食陵切説文覆也从入桀桀黠也軍法曰乗</hi>
+　<hi>音徯説文袤徯有所侠藏也</hi>區<hi>踦區藏匿也從品/在匚中品衆也</hi>□<hi>今作曲象器曲受物也</hi>
+　　　右八十七<lb/>
+　　服飾之形<lb/>
+衣<hi>象人披衣之形</hi>　<hi>即衣字/从向身</hi>衰<hi>蘓禾切説/文艸雨衣</hi>巾<hi>佩巾也從冂/丨象糸也</hi>市<hi>分物</hi>
+<hi>切説文韠也上古衣蔽前而已市以象之</hi>帶<hi>説文紳也男子鞶帶婦/人鞶絲象繫佩之形</hi>　<hi>毗祭切敗</hi>
+<hi>衣也</hi>网<hi>今作網説文庖犧/氏始結䋲以漁</hi>示<hi>音祈象旗/斿之形</hi>勿<hi>州里所建旗𧰼其柄有三斿</hi>
+<pb n="KR2d0006_WYG_036-18a"/>
+　　<hi>於阮切旌旗之斿也左象人執旗杠右象旗斿</hi>　<hi>丑許切旌/旗杠皃</hi>系<hi>胡計切繫也从系而有所</hi>
+<hi>著焉</hi>　　<hi>莫狄切説文細絲/也象束絲之形</hi>圖<hi>象圖畫之形</hi>
+　　　右十五<lb/>
+　　象貌<lb/>
+八<hi>象分别之皃</hi>入<hi>説文象从/上俱下也</hi>爻<hi>象交加/通疏皃</hi>㸚<hi>力几切象/希明之皃</hi>丨<hi>音衮上下</hi>
+<hi>通皃</hi>　<hi>通疏而/明皃</hi>　<hi>空媧切物不齊也/一曰䔪邪離絶皃</hi>　<hi>莫狄切覆/物之皃</hi>　<hi>莫保切重</hi>
+<hi>覆皃</hi>　<hi>苦江切幬帳之象从/<graphic n="KR1834" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1834.png" mimeType="image/png"/>覆也从之飾也</hi>□<hi>呼訝切説文覆也/从冂上下覆之</hi>壬<hi>他鼎切説</hi>
+<hi>文象物出地挺生也</hi>王<hi>于况切象物/出地而盛也</hi>生<hi>象艸木/出土上</hi>丰<hi>敷容切艸/盛丰丰也</hi>　<hi>縳也</hi>
+<pb n="KR2d0006_WYG_036-18b"/>
+<hi>又舂遇切約也</hi>　<hi>居之切象/薦物之皃</hi>　<hi>必至切説文相付/與之約在閣上也</hi>　<hi>渠之切象播物之皃</hi>
+　<hi>常句切説文老人行才相逮从□省易省行象</hi>文<hi>説文錯畫/也象交文</hi>　<hi>音包説文裹也象人曲形</hi>
+<hi>有所包裹</hi>凶<hi>説文惡也象地/穿交啗其中</hi>　<hi>居月切也/□動皃</hi>　<hi>居謁切也/□動皃</hi>　<hi>息進</hi>
+<hi>切説文疾飛也似飛而羽不見</hi>非<hi>違也从飛下/翅取其相背</hi>氏<hi>與民同體象民/俯首力作之皃</hi>　<hi>居虬</hi>
+<hi>切説文相糾繚也一曰𤓰瓠結丩起</hi>　<hi>而談切説文/毛冄冄也</hi>　<hi>陟劣切象/聨綴之皃</hi>　<hi>魚廢切芟</hi>
+<hi>艸也从丿从乀相交也又牛蓋切創乂懲也</hi>毋<hi>古患切象/穿物之皃</hi>串<hi>古患切/穿也</hi>口<hi>音韋象環</hi>
+<hi>繞之状</hi>至<hi>象鳥飛而/至地之皃</hi>小<hi>象水之/微也</hi>　<hi>音兖説文山間泥/地从口从水敗皃</hi>录<hi>音禄</hi>
+<hi>説文刻木录录也</hi>　<hi>音齊象禾麥/吐穗上平也</hi>　<hi>力軌切象累土/石為牆壁皃</hi>　<hi>象人臣事君屈</hi>
+<pb n="KR2d0006_WYG_036-19a"/>
+<hi>服之皃</hi>　　<hi>力弔切髙飛皃从/㐱㐱者羽之稠也</hi>　　<hi>敷文切又蘓典切野火皃</hi>
+　　　右四十四<lb/>
+　　象數<lb/>
+一二三亖乂<hi>音五</hi>五七九十千廿<hi>日執<graphic n="KR0704" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0704.png" mimeType="image/png"/>二/十并也</hi>　<hi>蘇㳫切三十并也亦</hi>
+<hi>作卉</hi>世<hi>三十/年</hi>　　<hi>息入切四十并也一二三亖象正數餘並合數</hi>
+　　　右十四<lb/>
+　　象位<lb/>
+上下中㫄<hi>亦作旁象位取聲</hi>　<hi>音集象/三方合</hi>　<hi>房密切又於兆切又匹蔑切右戾也</hi>
+<pb n="KR2d0006_WYG_036-19b"/>
+<hi>分物切左戾也</hi>　<hi>余制切説文抴也徐鍇曰象丿而不舉首</hi>　<hi>弋支切説文流也从/反<graphic n="KR1763" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1763.png" mimeType="image/png"/>又以制切曵足</hi>
+<hi>也又力結切左戾也</hi>　　<hi>今作/尤</hi>　　<hi>今作右</hi>
+　　　右十一<lb/>
+　　象气<lb/>
+气<hi>亦作氣象气上升之狀</hi>只<hi>語已之辭象/言訖而气散</hi>　<hi>郎激切㽁也象孰飪五味气上出也</hi>白<lb/>
+<hi>疾二切説文此亦自字也省自者詞言乏气從鼻出與口相助也</hi>　<hi>亦作<graphic n="KR1865" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1865.png" mimeType="image/png"/>音忽説文出气詞也从曰象</hi>
+<hi>气出形</hi>　<hi>音考説文气欲舒/出勹上礙於一也</hi>　<hi>虎何切詞/也从反丂</hi>兮<hi>説文語所稽也从丂从八</hi>
+<hi>象气越丂</hi>乎<hi>語之餘也/一曰疑辭</hi>乃<hi>説文曵詞之難/也象气之出難</hi>于<hi>説文於也/象气之舒</hi>平<hi>説文</hi>
+<pb n="KR2d0006_WYG_036-20a"/>
+<hi>語平舒从于从八八分也</hi>兊<hi>舊作兌説也徐鉉曰从/口从八象气之分散</hi>欠<hi>説文張口气悟也象气從</hi>
+<hi>人上出之形</hi>㒫<hi>𨽻作旡音既説文飲食气逆不得息曰㒫从反欠</hi>
+　　　右十五<lb/>
+　　象聲<lb/>
+牟<hi>説文牛鳴也从牛象其聲气從口出臣按此象其開口出气盖聲無形不可象</hi>芈<hi>綿婢切説文羊鳴也</hi>
+<hi>象聲气上出與牟同意</hi>囂<hi>虛嬌切説文聲/也气出頭上</hi>呉<hi>説文大言也从□口徐鍇曰大言故□口</hi>
+<hi>以出聲</hi>轟<hi>呼宏切説文/羣車聲也</hi>喿<hi>先到切鳥在/木上羣鳴也</hi>曰<hi>王伐切象口气出也口气出聲</hi>
+<hi>乃發</hi>号<hi>胡到切説文痛聲/也从口在丂上</hi>
+                    <graphic n="KR2958" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2958.png" mimeType="image/png"/>
+                    <hi>郎丁切/象衆聲</hi>嵒<hi>尼輙切多/言之聲</hi>彭<hi>蒲庚切鼓</hi>
+<pb n="KR2d0006_WYG_036-20b"/>
+<hi>聲也从彡象擊聲</hi>砳<hi>力摘切石聲也二/石相擊而成聲</hi>䖜<hi>魚巾切説文兩虎爭聲从曰象口气出也</hi>
+　　　右十三<lb/>
+　　象屬<lb/>
+己亥<hi>十日十二辰皆假借惟己亥為正書者以其日辰不可名象惟取同音而借己亥無同音之本故無</hi>
+<hi>所借已不可為也象蛇之形而為己亥不可為也象豕之形而為亥</hi>
+　　　右二<lb/>
+　　形兼聲<lb/>
+齒<hi>从止聲</hi>　<hi>余律切筆也从/聿一聿尼輙切</hi>　<hi>長丈二尺軍中士所持司馬法曰執羽从杸亦音殊</hi>
+<pb n="KR2d0006_WYG_036-21a"/>
+□<hi>今作箕説文簸也从竹甘象形下其丌也□亦為箕字丌亦音箕</hi>
+                    <graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <hi>即互字説文可以收繩也从竹</hi>
+<hi>象形□象人手所推握也</hi>曐<hi>今作星晶象星之散/明生象其發渙也</hi>禽<hi>説文走獸總名从厹象形今聲</hi>
+<hi>禽离兕頭相似</hi>厹<hi>人九切説文獸足蹂地也/象形九聲按九亦象足榦</hi>戉<hi>王伐切斧也从戈□□音厥象</hi>
+<hi>斧刃</hi>金<hi>説文象金在/上中形今聲</hi>　<hi>五葛切説文岸髙/也從山丆丆亦聲</hi>龍<hi>説文从肉飛之形童省聲</hi>
+韋<hi>説文相背也从舛口聲獸皮之韋可以束枉戾</hi>齨<hi>巨九切説文老/人齒如臼也</hi>□<hi>犂針切以水沃</hi>
+<hi>竈中火也</hi>　<hi>姑宏切臂上也/从厶厶音肱</hi>□<hi>今作疈/判也</hi>辦<hi>今作辨判也從力从辡辡平免切别</hi>
+<hi>也</hi>辯<hi>説文治也从/言在辡之間</hi>㸤<hi>匹見切斷也或/言韋中絶也</hi>畞<hi>今作畝説文六尺為歩歩百為</hi>
+<hi>畝或作畞从田十久徐氏曰十四方也久聲</hi>
+                    <graphic n="KR1350" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1350.png" mimeType="image/png"/>
+                    <hi>舅許切今作虡説文鐘鼓之拊也飾為猛獸從虍異象其</hi>
+<pb n="KR2d0006_WYG_036-21b"/>
+<hi>下足也</hi>舝<hi>胡戞切説文車軸耑鍵也兩穿/相背从舛<graphic n="KR0859" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0859.png" mimeType="image/png"/>省聲<graphic n="KR0859" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0859.png" mimeType="image/png"/>古偰字</hi>䑞<hi>𨽻作舜説文艸也楚謂之</hi>
+<hi>葍秦謂之蔓蔓地連華象形從舛舛亦聲</hi>
+                    <graphic n="KR1191" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1191.png" mimeType="image/png"/>
+                    <hi>况于切説文艸木華也臣/按从亐雖聲亦象蒂蕚</hi>疔<hi>當經</hi>
+<hi>切病創一曰倚也人有疾病象倚著之形又尼厄切</hi>□<hi>亦作裘説文皮衣也从衣求聲一曰象形與衰同意</hi>
+彘<hi>説文豕也後蹏廢謂之彘从□矢聲从二匕彘足與鹿足同</hi>□<hi>乙獻切説文大皃从大□聲按□雖</hi>
+<hi>聲亦象人之面目</hi>淵<hi>亦作<graphic n="KR1570" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1570.png" mimeType="image/png"/>説文回水也从水象形左右岸也/中象水皃臣按水復加<graphic n="KR1570" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1570.png" mimeType="image/png"/>是為形兼聲</hi>
+滷<hi>籠五切西方鹹地也鹵象鹽形今以為聲</hi>靁<hi>今省作雷/古作畾</hi>
+                    <graphic n="KR3281" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3281.png" mimeType="image/png"/>
+                    <hi>音關説文从絲貫杼也卝古礦</hi>
+<hi>字</hi>□<hi>今作疇从壽時流/切象耕屈之形</hi>斦<hi>魚斤切/二斤也</hi>頛<hi>音耒説文頭不正也从頁从耒耒頭</hi>
+<hi>傾也</hi>䪻<hi>音弁冠傾也</hi>
+<pb n="KR2d0006_WYG_036-22a"/>
+　　　右三十七<lb/>
+　　形兼意<lb/>
+龠<hi>説文樂之竹管三孔以和衆聲臣按从冊象編竹从亼从<graphic n="KR2958" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2958.png" mimeType="image/png"/>集衆聲也亼音集<graphic n="KR2958" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2958.png" mimeType="image/png"/>音吟</hi>寸<hi>説文十分</hi>
+<hi>也人手郤一寸動□謂之寸口从又从一又曰寸人手也又曰法度也</hi>耒<hi>説文手耕曲木也从木推手古</hi>
+<hi>者垂作耒耜以振民也臣按丰亦音耒象形</hi>彤<hi>説文丹飾也从/彡彡其畫也</hi>皀<hi>皮及切説文穀之馨</hi>
+<hi>香也象嘉穀在裹中之形匕所以扱之或説皀一粒也</hi>□<hi>説文以秬釀鬰艸芬芳攸服以降神也从凵器</hi>
+<hi>也中象米匕所以扱也</hi>□<hi>紆勿切説文芳草也十葉為貫百廾貫築以煑之為□從臼冂缶鬯彡其飾也</hi>
+<hi>臣按□之上體與㸑同意象煑□之形从彡所以飾鬯也</hi>爵<hi>篆作□説文禮器也象爵之形中有鬯酒又持</hi>
+<pb n="KR2d0006_WYG_036-22b"/>
+<hi>之也</hi>舂<hi>説文𢷬粟也从廾持/杵臨臼上午杵省也</hi>臿<hi>楚洽切説文舂去麥皮也從臼干所以臿之</hi>函<lb/>
+<hi>容也</hi>舀<hi>以沼切説文杼臼也從爪/臼引詩或□或臼夷周切</hi>臽<hi>乎□切説文小阱也从人在臼上</hi>頁<lb/>
+<hi>胡結切頭也从<graphic n="KR1315" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1315.png" mimeType="image/png"/>从儿</hi>㫒<hi>居容切/竦手也</hi>
+                    <graphic n="KR3472" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3472.png" mimeType="image/png"/>
+                    <hi>渠龜切説文持/弩拊也从廾肉</hi>兵<hi>説文械也从廾持斤</hi>
+<hi>并力之皃</hi>弄<hi>玩也謂寳/玉可玩</hi>弃<hi>捐/也</hi>具<hi>説文共置也从廾从/具省古以貝為貨</hi>戒<hi>警也从廾</hi>
+<hi>持戈以戒不虞</hi>奐<hi>呼貫切説/文取奐也</hi>共<hi>同也古/作□</hi>
+                    <graphic n="KR2691" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2691.png" mimeType="image/png"/>
+                    <hi>直紹切灼/龜坼也</hi>□<hi>經天切髆也俗</hi>
+<hi>作肩</hi>□<hi>今作胃説文穀府/也从□从肉象形</hi>脊<hi>篆作□説文背/吕也从<graphic n="KR1136" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1136.png" mimeType="image/png"/>从肉</hi>彪<hi>必幽切虎文也</hi>□<lb/>
+<hi>勅合切和五味以烹也</hi>盥<hi>古玩切説文澡手也从臼水臨皿</hi>□<hi>居宜切馬絡頭也/從网從<graphic n="KR0919" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0919.png" mimeType="image/png"/>
+                        <graphic n="KR0919" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0919.png" mimeType="image/png"/>馬絆</hi>
+<hi>也</hi>須<hi>説文面毛也/从頁从彡</hi>肜<hi>篆作䑣/船中也</hi>鬼<hi>説文从人象鬼頭/鬼隂气賊害从厶</hi>鬽<hi>明祕</hi>
+<pb n="KR2d0006_WYG_036-23a"/>
+<hi>切説文老精物也从鬼彡彡鬼毛</hi>㷠<hi>良刃切説文兵死及牛馬之血為㷠徐鍇曰舛者人足也言光行著</hi>
+<hi>人</hi>夾<hi>失冉切説文盗竊褱物也从亦有所持俗謂/蔽人俾夾是也从二入今陜郡之字从此</hi>
+                    <graphic n="KR1247" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1247.png" mimeType="image/png"/>
+                    <hi>今作</hi>
+<hi>絶説又斷絲也从系从刀从卩古作<graphic n="KR1247" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1247.png" mimeType="image/png"/>象不連體絶二絲</hi>素<hi>篆作□説文白緻繒/也从糸<graphic n="KR1136" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1136.png" mimeType="image/png"/>取其澤也</hi>蠆<lb/>
+<hi>説文毒蟲也</hi>䘍<hi>上/同</hi>畺<hi>今作疆説文界也/从畕三其界畫也</hi>□<hi>音斗説文酒器也从金□象器形□</hi>
+<hi>亦音斗</hi>
+                    <graphic n="KR2342" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2342.png" mimeType="image/png"/>
+                    <hi>今作□音阜説/文兩<graphic n="KR0671" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0671.png" mimeType="image/png"/>之間也</hi>酋<hi>説文繹酒也從酉水半見於上禮有大酋掌酒官也</hi>
+                    <graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+<hi>今省作虐説文殘也從虍虎足反爪人也</hi>
+                    <graphic n="KR3927" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3927.png" mimeType="image/png"/>
+                    <hi>戶快切合/會善言也</hi>㠭<hi>知衍切極工者也説文从四工又象</hi>
+<hi>疊物之形</hi>炎<hi>火光/上也</hi>焱<hi>以冉切火華也又以聸切焱焱火盛皃</hi>
+　　　右五十<lb/>
+<pb n="KR2d0006_WYG_036-23b"/>
+　　凡象形類計六百八<lb/>
+　　指事第二<lb/>
+序曰指事類乎象形指事事也象形形也指事類乎會<lb/>
+意指事文也㑹意字也獨體為文合體為字形可象者<lb/>
+曰象形非形不可象者指其事曰指事此指事之義也<lb/>
+尹<hi>説文治也从又丿握事者也</hi>史<hi>篆作㞵記事者説文/从又持中中正也</hi>外<hi>説文逺也卜尚平旦</hi>
+<hi>今夕卜於事外矣</hi>与<hi>賜予也説文/一勺為与</hi>丈<hi>説文十尺也从/又持十篆作支</hi>
+                    <graphic n="KR2423" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2423.png" mimeType="image/png"/>
+                    <hi>忍甚切説文㨖</hi>
+<hi>也从于入一為于入二為<graphic n="KR2423" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2423.png" mimeType="image/png"/>言稍甚也</hi>疐<hi>陟利切説文礙不行也从叀引而止之也叀者如叀馬之鼻从</hi>
+<pb n="KR2d0006_WYG_036-24a"/>
+<hi>此与牽同意叀音專</hi>事<hi>職也与吏/同意也</hi>□<hi>尼輙切説文手之/疌巧也从又持巾</hi>隶<hi>徒耐切説文及</hi>
+<hi>也从又从□省又持□者从後及之也□今作尾</hi>𤣥<hi>説文黑而有赤色者/𤣥象幽而入覆之也</hi>叀<hi>今作</hi>
+<hi>專説文小謹也从□省<graphic n="KR0708" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0708.png" mimeType="image/png"/>財見也</hi>争<hi>象二手而競/一物之状</hi>□<hi>倚謹切説文/所倚據也</hi>
+                    <graphic n="KR1798" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1798.png" mimeType="image/png"/>
+                    <hi>今作</hi>
+<hi>亂説文治也□子相亂<graphic n="KR1528" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1528.png" mimeType="image/png"/>治之也</hi>亯<hi>今作享説文獻也从/高省曰象進熟物形</hi>夅<hi>乎江切説文服也从</hi>
+<hi>攵□相承不敢並也</hi>柬<hi>賈限切説文分别簡/之从束八八分别也</hi>帚<hi>止酉切説文糞也从又持巾埽内古</hi>
+<hi>者少康初作箕帚秫酒少康杜康也</hi>弔<hi>多嘯切問終也古之葬者厚衣以薪故弔者必持弓貫矢警烏鳶也</hi>
+冘<hi>余箴切説文冘冘行皃从人出冂冂即坰也</hi>兀<hi>説文髙而上平/也从一在人上</hi>古<hi>説文故也从十</hi>
+<hi>口識前言者也又音故古作□</hi>□<hi>今作畏説文惡也从甶虎/省鬼頭而虎爪可畏也</hi>□<hi>五委切説文仰</hi>
+<pb n="KR2d0006_WYG_036-24b"/>
+<hi>也从人在<graphic n="KR1763" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1763.png" mimeType="image/png"/>上</hi>仄<hi>説文側傾也/从人在<graphic n="KR1763" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1763.png" mimeType="image/png"/>下</hi>直<hi>説文正見也从<graphic n="KR2122" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2122.png" mimeType="image/png"/>从十从目/徐鍇曰<graphic n="KR2122" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2122.png" mimeType="image/png"/>隐也今十目所見</hi>
+<hi>是直也</hi>亡<hi>篆作亾説文逃也/从入从<graphic n="KR2122" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2122.png" mimeType="image/png"/>
+                        <graphic n="KR2122" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2122.png" mimeType="image/png"/>音隱</hi>□<hi>去䖍切辠愆也从干二二古文上字干上則為辠矣</hi>
+<hi>或曰干亦為豻字在豻獄之上則辠愆之人也</hi>辛<hi>辛辠也辛被辠者也/故辛視□而有加焉</hi>臾<hi>羊朱切説</hi>
+<hi>文束縳捽抴為臾从申从乙臣按从臼从人則有捽抴之義</hi>百<hi>篆作□从自自/一至十十為百</hi>□<hi>牙葛</hi>
+<hi>切説文語相訶歫也从口歫䇂䇂惡聲也</hi>章<hi>説文樂終為一章从/音从十十數之終也</hi>竟<hi>説文樂曲盡為</hi>
+<hi>竟从音从人</hi>□<hi>音沒説文入水有所取也从又/在回下回古文回回淵水也</hi>及<hi>逮也从又从人徐鍇</hi>
+<hi>曰及前人也古文作□秦刻石作□</hi>善<hi>篆作□古作譱説文吉也/从誩从羊此与義美意同</hi>美<hi>説文甘也</hi>
+<hi>从羊从大羊在六畜主給膳也美與善同</hi>肎<hi>今作肯説文骨間肉肎/肎著者也又可亥切</hi>奇<hi>説文異也</hi>
+<pb n="KR2d0006_WYG_036-25a"/>
+<hi>从大从可</hi>昷<hi>篆作□烏昆切説文仁也/从皿从囚食囚也官溥説</hi>全<hi>純玉也从入/从王古作仝</hi>内<hi>入也</hi>
+<hi>从冂自外而入也</hi>
+                    <graphic n="KR2243" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2243.png" mimeType="image/png"/>
+                    <hi>攻乎切説文秦以市買多得為<graphic n="KR2243" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2243.png" mimeType="image/png"/>引詩我/<graphic n="KR2243" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2243.png" mimeType="image/png"/>酌彼金罍从夕从乃乃益至也又果五</hi>
+<hi>切</hi>言<hi>从二从舌二古文上字/自舌上而出者言也</hi>音<hi>説文聲也/从言含一</hi>晝<hi>説文日之出入與夜</hi>
+<hi>為界从畫省从日</hi>再<hi>説文一舉/而二也</hi>爯<hi>處陵切説文并/舉也从爪冓省</hi>甘<hi>説文美也从口含一</hi>
+<hi>一道也臣按此象甘物含而不去之狀</hi>叵<hi>普火切不可/也从反可</hi>央<hi>説文中央也从大在冂之内大</hi>
+<hi>人也央㫄同意</hi>寉<hi>胡沃切説文髙至/也从隹上欲出門</hi>
+                    <graphic n="KR2759" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2759.png" mimeType="image/png"/>
+                    <hi>今作厚厚也从到亯謂上之所以亯下可謂厚</hi>
+<hi>下矣</hi>□<hi>起㦸切説文際見之/白也从白上下小見</hi>巛<hi>祖財切説文害也从一雝川引春秋傳曰川雝為澤</hi>
+<hi>凶</hi>□<hi>今作弗兩/已相背</hi>公<hi>説文平分也臣按从/八从厶所以别厶也</hi>□<hi>今作乖戾也从□□彼列</hi>
+<pb n="KR2d0006_WYG_036-25b"/>
+<hi>切</hi>介<hi>畫也説文从八/从人人各有介</hi>分<hi>别也以刀/分别物也</hi>谷<hi>象谷形从口/能應聲之義</hi>夕<hi>説文</hi>
+<hi>莫也从月半見</hi>
+                    <graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <hi>於交切深目/皃从目反也</hi>□<hi>亦作負房九切説文恃也从人守貝有所恃也一曰受貸</hi>
+<hi>不償</hi>
+                    <graphic n="KR2639" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2639.png" mimeType="image/png"/>
+                    <hi>蘇果切説文貝/聲也从小貝</hi>員<hi>今作員于權切數也徐鍇/曰古以貝為貨故數之</hi>
+                    <graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <hi>博抱</hi>
+<hi>切説文相次也从匕从十鴇从此</hi>艮<hi>篆作<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>説文狠也从目匕匕目猶/目相比不相下易曰<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>其限目匕</hi>
+<hi>為<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>匕/目為眞</hi>㐱<hi>之忍切説文稠髪也从彡从人引詩曰㐱髪如雲</hi>令<hi>篆作□力政切説文發號也从</hi>
+<hi>亼曰徐鍇曰集而為之節制也</hi>赤<hi>説文南方赤色/也从大从火</hi>夰<hi>古老切説文放也从大而八分也又</hi>
+<hi>下老切</hi>㚔<hi>尼輙切説文所以驚人也从大从<graphic n="KR2423" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2423.png" mimeType="image/png"/>一/曰大聲也一曰俗語以盗不止為㚔</hi>羌<hi>墟羊切説</hi>
+<hi>文西戎牧羊人也从羊从人</hi>
+<pb n="KR2d0006_WYG_036-26a"/>
+　　　右七十八<lb/>
+　　事兼聲<lb/>
+用<hi>説文可施行也从卜从中</hi>庸<hi>説文用也从用从庚庚/更事也易曰先庚三日</hi>甫<hi>説文男子美稱从用</hi>
+<hi>父</hi>菐<hi>蒲沃切煩瀆也从/廾从□又方六切</hi>今<hi>説文是時也从亼/从<graphic n="KR1525" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1525.png" mimeType="image/png"/>
+                        <graphic n="KR1525" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1525.png" mimeType="image/png"/>古文及字</hi>□<hi>逋還切説文賦</hi>
+<hi>事也从八八亦聲</hi>
+　　　右六<lb/>
+　　事兼形<lb/>
+支<hi>説文去竹之枝也从手持半竹</hi>吏<hi>説文治人者也徐鍇曰吏之治人心主於一故从一臣疑吏史之字</hi>
+<pb n="KR2d0006_WYG_036-26b"/>
+<hi>象人形吏从一象簪與夫之一同按説文夫从一象簪也</hi>父<hi>説文矩也家長率教者臣按人道尊又故父於</hi>
+<hi>又有加焉父向左子向右是尊卑相向之義也</hi>㕕<hi>今作幻相詐/惑也从到予</hi>爭<hi>象二手而競一物之状</hi>
+戊<hi>亡撫切从戈前垂象盾執戈揚盾所以為武戊即武也</hi>引<hi>説文開弓/也从弓丨</hi>申<hi>有所上也从曰</hi>
+<hi>從丨丨象束書臼而上之也</hi>克<hi>篆作□説文肩也象屋下刻木之形臣按今匠者治材刻之以承上木則</hi>
+<hi>曰肩</hi>□<hi>今作宣上下象天地中即雷/字雷所以發宣天地之气</hi>畫<hi>胡麥切説文界也象田四界聿所以</hi>
+<hi>畫之</hi>
+　　　右十一<lb/>
+　　事兼意<lb/>
+<pb n="KR2d0006_WYG_036-27a"/>
+歬<hi>今作前人在舟上不行而進故説文不行而進謂之歬</hi>爨<hi>七亂切説文齊謂之炊爨臼象持甑冂為</hi>
+<hi>竈口廾推林内火臣按此説頗迂爨上象竈以安甑下象廾而焚也</hi>
+                    <graphic n="KR1528" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1528.png" mimeType="image/png"/>
+                    <hi>平小切受也从爪从又象爪取而手</hi>
+<hi>受之也</hi>
+                    <graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>財干切説文殘穿也从㱑从又臣按歺殘/骨也又取之也然凡从<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>者皆有深意</hi>曹<hi>篆作</hi>
+<hi>
+                        <graphic n="KR1311" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1311.png" mimeType="image/png"/>説文獄之兩曹也在/廷東从㯥治事者从日</hi>寒<hi>説文凍也从人在宀下从艸薦覆之下有仌</hi>侵<hi>説文</hi>
+<hi>漸進也从人又持帚若埽之進又手也</hi>義<hi>説文已之威儀也从/羊□善美同意也</hi>后<hi>説文繼體君也</hi>
+<hi>象人之形从口施令以告四方也</hi>司<hi>説文謂臣司事於外者是矣/謂从反后非也司向后者也</hi>邑<hi>説文</hi>
+<hi>國也从口先王之制尊卑有大小从卪</hi>□<hi>怨阮切向邑成文即花苑之苑</hi>
+　　　右十二<lb/>
+<pb n="KR2d0006_WYG_036-27b"/>
+　　凡指事類計百七<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　通志卷三十一<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

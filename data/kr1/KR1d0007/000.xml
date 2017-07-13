@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>禮經會元</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　　經部四<lb/>
+　禮經會元　　　　　　　禮類一<hi>周禮之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案禮經會元四卷宋葉時撰時字秀<lb/>
+　　　　發錢塘人理宗朝龍圖閣學士光禄大夫致<lb/>
+　　　　仕卒諡文康是書名曰釋經而實不隨文箋<lb/>
+　　　　疏但舉周禮中大指為目凡一百篇皆旁推<lb/>
+　　　　交通以暢其説葢取鎔經義以自成一家言<lb/>
+<pb n="1b"/>
+　　　　者時與朱子友善深詆王安石新法謂程子<lb/>
+　　　　所云有闗睢麟趾之意而後可行周官之法<lb/>
+　　　　度正為安石而𤼵是固然矣至其言冬官不<lb/>
+　　　　必補而訾河間獻王取考工記附周禮適以<lb/>
+　　　　啓武帝之忽略是經甚且以為壊周禮自鄭<lb/>
+　　　　康成始皆過於非議古人未免自立門户之<lb/>
+　　　　習其他臆斷之處雖時有之然亦頗有深切<lb/>
+　　　　著明可以施於實用者葢時於經世之具嘗<lb/>
+<pb n="2a"/>
+　　　　究心焉未可概以經生常業例也乾隆四十<lb/>
+　　　　六年二月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

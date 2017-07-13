@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4e0098_WYG_013-1a"/>
+古亷文集後序<lb/>
+翰林學士國子祭酒古㢘李先生之歿三十餘年其孫<lb/>
+顒宰恵之長樂數年始克彚集先生文稿若干巻託廣<lb/>
+州郡守鄉先生伍公校正夀梓以傳屬予一言以序諸<lb/>
+末簡予觀先生之文渾厚醇正博洽贍麗淡然菽粟之<lb/>
+味鏘然韶鈞之鳴真可以追蹤古人卓冠當世後生小<lb/>
+子安敢容喙於其間哉然予少居鄉閭聞先生之忠言<lb/>
+讜論切於時政一時名聞海内如景星鳳凰天下之人<lb/>
+<pb n="KR4e0098_WYG_013-1b"/>
+爭先而快覩焉及予叨領鄉薦宦逰四方先生雖已物<lb/>
+故而凡見公卿大夫出自先生之門者無間隱顯莫不<lb/>
+相與感慨夫先生之儀刑有不可得而復作焉是則先<lb/>
+生之忠義徳教傳之天下浹於人心愈久不忘而况於<lb/>
+文章之作有不足以歆動於人而傳於世耶夫泰山之<lb/>
+峻絶天下之人雖不盡見而皆知其為髙河海之浩瀚<lb/>
+天下之人雖不盡涉而皆知其為大先生之文本之以<lb/>
+道徳參之以才氣而又浸淫乎六經蒐獵乎百家其言<lb/>
+<pb n="KR4e0098_WYG_013-2a"/>
+辭之發見諸行事之實皆足以扶世立教正君善俗如<lb/>
+是而鳴當時傳後世豈不猶泰山河海之髙大天下之<lb/>
+人幸而見之者莫不有以快其心目焉雖然此特先生<lb/>
+之餘事爾至於臨大節而不可奪者載諸史冊而無愧<lb/>
+勒之金石而不磨千載之下猶可以使人感慕興起奚<lb/>
+翅文章之傳而已哉姑書以為序云成化十七年辛丑<lb/>
+嵗冬十月既望廣州府儒學教授吉水蕭尚彛序<lb/>
+　<lb/>
+<pb n="KR4e0098_WYG_013-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　古亷文集後序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

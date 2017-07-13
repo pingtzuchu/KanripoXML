@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>八旗滿洲氏族通譜目錄</head> <lb/>
+    <p>
+<pb n="KR2g0044_WYG_090-1a"/>
+欽定四庫全書<lb/>
+　八旗滿洲氏族通譜目錄<lb/>
+　　卷四十五<lb/>
+　　葛濟勒氏<lb/>
+　　　巴雅拉　　　　　　巴顔布祿<lb/>
+　　　富格慎　　　　　　烏拉<lb/>
+　　　拉薩理　　　　　　法柱<lb/>
+　　　郭穆韶　　　　　　濟理哈<lb/>
+<pb n="KR2g0044_WYG_090-1b"/>
+　　　璧爾圖理　　　　　伊哈那<lb/>
+　　　他理善　　　　　　標哈竒<lb/>
+　　　岱敏<lb/>
+　　　　　以上俱有傳<lb/>
+　　　庫都爾漢　　　　　莽吉那<lb/>
+　　　竒都理　　　　　　秦保<lb/>
+　　　馬理　　　　　　　英郭<lb/>
+　　　拜他瑚齊　　　　　吉喇克塔<lb/>
+<pb n="KR2g0044_WYG_090-2a"/>
+　　　吳拉達　　　　　　尼雅米揚阿<lb/>
+　　　鄂羅休　　　　　　胡什圖<lb/>
+　　　古社　　　　　　　阿拉哈<lb/>
+　　　伊拉齊　　　　　　額穆琥訥<lb/>
+　　　巴格　　　　　　　明阿圖<lb/>
+　　　費揚古<lb/>
+　　　　　以上俱附載<lb/>
+　　哲爾齊氏<lb/>
+<pb n="KR2g0044_WYG_090-2b"/>
+　　　英格訥<lb/>
+　　　　　右係有傳<lb/>
+　　　錫倫住　　　　　　僧格訥<lb/>
+　　　齊莽阿　　　　　　碩隆古<lb/>
+　　　　　以上俱附載<lb/>
+　　輝發地方索綽絡氏<lb/>
+　　　松果托　　　　　　阿爾納<lb/>
+　　　福達禪<lb/>
+<pb n="KR2g0044_WYG_090-3a"/>
+　　　　　以上俱有傳<lb/>
+　　　碩色<lb/>
+　　　　　右係附載<lb/>
+　　各地方索綽絡氏<lb/>
+　　　都爾古　　　　　　希佛<lb/>
+　　　賽隆阿　　　　　　阿爾覃布魯<lb/>
+　　　　　以上俱有傳<lb/>
+　　　博壘　　　　　　　葛巴庫<lb/>
+<pb n="KR2g0044_WYG_090-3b"/>
+　　　門都　　　　　　　旺固理<lb/>
+　　　伊哈齊　　　　　　舒禄<lb/>
+　　　碩約赫　　　　　　吴泰<lb/>
+　　　珠赫訥　　　　　　布舒庫<lb/>
+　　　　　以上俱附載<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

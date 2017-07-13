@@ -1,0 +1,916 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3i0044_WYG_001-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋廣羣芳譜目録上<lb/>
+　　卷一　　　　　　　天時譜一<lb/>
+　　　春<lb/>
+　　卷二　　　　　　　天時譜二<lb/>
+　　　正月<lb/>
+　　　二月<lb/>
+　　卷三　　　　　　　天時譜三<lb/>
+<pb n="KR3i0044_WYG_001-1b"/>
+　　　三月<lb/>
+　　卷四　　　　　　天時譜四<lb/>
+　　　夏<lb/>
+　　　四月<lb/>
+　　　五月<lb/>
+　　　六月<lb/>
+　　卷五　　　　　　天時譜五<lb/>
+　　　秋<lb/>
+<pb n="KR3i0044_WYG_001-2a"/>
+　　七月<lb/>
+　　八月<lb/>
+　　九月<lb/>
+　卷六　　　　　　　天時譜六<lb/>
+　　冬<lb/>
+　　十月<lb/>
+　　十一月<lb/>
+　　十二月<lb/>
+<pb n="KR3i0044_WYG_001-2b"/>
+　卷七　　　　　　　榖譜一<lb/>
+　　麥<lb/>
+　　瑞麥<lb/>
+　　雀麥<lb/>
+　　蕎麥<hi>苦蕎麥</hi>
+　　瞿麥<lb/>
+　卷八　　　　　　　榖譜二<lb/>
+　　稻<lb/>
+<pb n="KR3i0044_WYG_001-3a"/>
+　卷九　　　　　　　榖譜三<lb/>
+　　黍<lb/>
+　　稷<lb/>
+　　蜀黍<hi>玉蜀黍</hi>
+　　粟<lb/>
+　　粱<lb/>
+　　秫<hi>
+                        <graphic n="KR2908" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2908.png" mimeType="image/png"/>子/粱禾</hi>　<hi>稊稗蒒草</hi>　<hi>稂禾菵草禾蒯草禾東廧禾感    楊    火    木</hi>
+　　嘉禾<lb/>
+<pb n="KR3i0044_WYG_001-3b"/>
+　卷十　　　　　　　榖譜四<lb/>
+　　大豆<hi>穭豆</hi>
+　　赤小豆<lb/>
+　　綠豆<lb/>
+　　白豆<lb/>
+　　豌豆<hi>蠶豆</hi>
+　　豇豆<hi>黎豆</hi>　<hi>馬豆</hi>
+　　藊豆<lb/>
+<pb n="KR3i0044_WYG_001-4a"/>
+　　刀豆<lb/>
+　　大靈豆<lb/>
+　　木豆<lb/>
+　　靈光豆<lb/>
+　　佛豆<lb/>
+　　脂麻<hi>青蘘</hi>　<hi>亞麻</hi>
+　卷十一　　　　　　桑麻譜一<lb/>
+　　桑<hi>桑椹</hi>　<hi>桑寄生/</hi>　<hi>桑花</hi>
+<pb n="KR3i0044_WYG_001-4b"/>
+　　柘<hi>奴柘</hi>
+　卷十二　　　　　　桑麻譜二<lb/>
+　　苧麻<lb/>
+　　大麻<lb/>
+　　檾麻<hi>疎麻</hi>
+　　葛<hi>鐡葛</hi>
+　　木棉花<lb/>
+　卷十三　　　　　　蔬譜一<lb/>
+<pb n="KR3i0044_WYG_001-5a"/>
+　　薑<lb/>
+　　椒<hi>川椒</hi>　<hi>崖椒/</hi>　<hi>蔓椒/</hi>　<hi>地椒/</hi>　<hi>胡椒/</hi>　<hi>番椒</hi>
+　　茴香<hi>八角茴香</hi>　<hi>蒔蘿</hi>
+　　韭<hi>孝文韭</hi>　<hi>諸葛韭/</hi>　<hi>水韭</hi>
+　　葱<hi>水葱</hi>
+　　蒜<hi>水晶葱</hi>
+　　薤<lb/>
+　　蒝荽<hi>以上辛葷</hi>
+<pb n="KR3i0044_WYG_001-5b"/>
+　卷十四　　　　　　　蔬譜二<lb/>
+　　苜蓿<lb/>
+　　蔓菁<hi>菲</hi>
+　　同蒿<lb/>
+　　蔞蒿<hi>牡蒿</hi>　<hi>藾蒿/</hi>　<hi>邪蒿/</hi>　<hi>䕲蒿</hi>
+　　白菜<lb/>
+　　芥<lb/>
+　　菠菜<lb/>
+<pb n="KR3i0044_WYG_001-6a"/>
+　　莧<hi>馬齒莧</hi>　<hi>水馬齒</hi>
+　　葵<hi>龍葵</hi>　<hi>蔠葵</hi>
+　卷十五　　　　　　蔬譜三<lb/>
+　　生菜<lb/>
+　　苦菜<lb/>
+　　菾菜<lb/>
+　　蕹菜<lb/>
+　　蕓薹菜<lb/>
+<pb n="KR3i0044_WYG_001-6b"/>
+　　蔊菜<hi>以上園蔬</hi>
+　　巢菜<lb/>
+　　薇<lb/>
+　　蕨<hi>迷蕨</hi>　<hi>水蕨</hi>
+　　薺<lb/>
+　　藜<hi>蔏藋野灰藋以上  蔬</hi>
+　　蓴<lb/>
+　　芹<hi>紫芹</hi>
+<pb n="KR3i0044_WYG_001-7a"/>
+　　紫菜<lb/>
+　　龍鬚菜<lb/>
+　　鹿角菜<hi>以上水蔬</hi>
+　卷十六　　　　　　蔬譜四<lb/>
+　　山藥<lb/>
+　　芋<hi>香芋</hi>　<hi>甘露子/</hi>　<hi>土芋</hi>
+　　甘藷<lb/>
+　　蘿蔔<hi>水蘿蔔</hi>　<hi>胡蘿蔔/</hi>　<hi>野葡蔔</hi>
+<pb n="KR3i0044_WYG_001-7b"/>
+　　萵苣<hi>以上食根</hi>
+　卷十七　　　　　　蔬譜五<lb/>
+　　菜瓜<lb/>
+　　稍瓜<lb/>
+　　黄瓜<lb/>
+　　南瓜<lb/>
+　　絲𤓰<lb/>
+　　冬瓜<lb/>
+<pb n="KR3i0044_WYG_001-8a"/>
+　　壺盧<lb/>
+　　瓠子<lb/>
+　　茄子<hi>苦茄</hi>
+　　緬茄<hi>以上食實</hi>
+　　土菌<lb/>
+　　木耳<hi>石耳</hi>
+　　地耳<hi>以上菌屬</hi>
+　　嘉樹菜<lb/>
+<pb n="KR3i0044_WYG_001-8b"/>
+　　雞候菜<lb/>
+　　優殿<lb/>
+　　葙<lb/>
+　　買菜<lb/>
+　　專蹄菜<lb/>
+　　芸薇<lb/>
+　　冬風菜<lb/>
+　　榖菜<lb/>
+<pb n="KR3i0044_WYG_001-9a"/>
+　　荶菜<lb/>
+　　菹菜<lb/>
+　　<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>菜<lb/>
+　　繤菜<lb/>
+　　藒菜<lb/>
+　　葟菜<lb/>
+　　蓶菜<lb/>
+　　<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>菜<lb/>
+<pb n="KR3i0044_WYG_001-9b"/>
+　　羞菜<hi>以上竒蔬</hi>
+　　佛土菜<lb/>
+　　孟娘菜<lb/>
+　　眞珠菜<lb/>
+　　雪裏蕻<lb/>
+　　白鼓釘<lb/>
+　　剪刀股<lb/>
+　　猪殃殃<lb/>
+<pb n="KR3i0044_WYG_001-10a"/>
+　　絲蕎蕎<lb/>
+　　牛塘利<lb/>
+　　浮薔<lb/>
+　　水菜<lb/>
+　　看麥娘<lb/>
+　　狗脚跡<lb/>
+　　破破衲<lb/>
+　　燕子不來香<lb/>
+<pb n="KR3i0044_WYG_001-10b"/>
+　　猢猻脚跡<lb/>
+　　眼子菜<lb/>
+　　猫耳朶<lb/>
+　　籓籬頭<lb/>
+　　鴈腸子<lb/>
+　　野籬落<lb/>
+　　羊耳秃<lb/>
+　　黄花菜<lb/>
+<pb n="KR3i0044_WYG_001-11a"/>
+　　油灼灼<lb/>
+　　燈蛾兒<lb/>
+　　芽兒拳<lb/>
+　　板蕎蕎<lb/>
+　　天藕兒<lb/>
+　　老鸛筋<lb/>
+　　鵞觀草<lb/>
+　　牛尾瘟<lb/>
+<pb n="KR3i0044_WYG_001-11b"/>
+　　兎絲根<lb/>
+　　草鞋片<lb/>
+　　抓抓兒<lb/>
+　　雀舌草<lb/>
+　　羅漢菜<lb/>
+　　根子菜<lb/>
+　　龍芽菜<lb/>
+　　杏葉菜<lb/>
+<pb n="KR3i0044_WYG_001-12a"/>
+　　歪脖菜<lb/>
+　　龍巓菜<lb/>
+　　高河菜<lb/>
+　　蓮花菜<hi>以上雜蔬</hi>
+　卷十八　　　　　　茶譜一<lb/>
+　　茶<lb/>
+　卷十九　　　　　　茶譜二<lb/>
+　　茶<lb/>
+<pb n="KR3i0044_WYG_001-12b"/>
+　卷二十　　　　　　茶譜三<lb/>
+　　茶<lb/>
+　卷二十一　　　　　茶譜四<lb/>
+　　茶<hi>茶花</hi>　<hi>臯盧</hi>
+　卷二十二　　　　　花譜一<lb/>
+　　梅花<lb/>
+　卷二十三　　　　　花譜二<lb/>
+　　梅花<lb/>
+<pb n="KR3i0044_WYG_001-13a"/>
+　卷二十四　　　　　花譜三<lb/>
+　　梅花<hi>紅梅</hi>　<hi>茶梅</hi>
+　卷二十五　　　　　花譜四<lb/>
+　　杏花<lb/>
+　　桃花<lb/>
+　卷二十六　　　　　花譜五<lb/>
+　　桃花<hi>夾竹桃</hi>　<hi>金絲桃</hi>
+　卷二十七　　　　　花譜六<lb/>
+<pb n="KR3i0044_WYG_001-13b"/>
+　　李花<lb/>
+　　棃花<lb/>
+　卷二十八　　　　　花譜七<lb/>
+　　棠棃花<lb/>
+　　常棣花<lb/>
+　　櫻桃花<lb/>
+　　石榴花<lb/>
+　卷二十九　　　　　花譜八<lb/>
+<pb n="KR3i0044_WYG_001-14a"/>
+　　荷花<lb/>
+　卷三十　　　　　　花譜九<lb/>
+　　荷花<lb/>
+　卷三十一　　　　　花譜十<lb/>
+　　荷花<hi>山蓮實西番蓮以上  見果譜</hi>　<hi>鐵線蓮/</hi>　<hi>朝日蓮</hi>
+　卷三十二　　　　　花譜十一<lb/>
+　　牡丹<lb/>
+　卷三十三　　　　　花譜十二<lb/>
+<pb n="KR3i0044_WYG_001-14b"/>
+　　牡丹<lb/>
+　卷三十四　　　　　花譜十三<lb/>
+　　牡丹<hi>魚兒牡丹</hi>　<hi>纒枝牡丹/</hi>　<hi>秋牡丹</hi>
+　卷三十五　　　　　花譜十四<lb/>
+　　海棠<lb/>
+　卷三十六　　　　　花譜十五<lb/>
+　　海棠<hi>秋海棠</hi>
+　卷三十七　　　　　花譜十六<lb/>
+<pb n="KR3i0044_WYG_001-15a"/>
+　　玉蘂<lb/>
+　　瓊花<lb/>
+　　山礬<lb/>
+　卷三十八　　　　　花譜十七<lb/>
+　　木蘭<lb/>
+　　辛夷<lb/>
+　　玉蘭<lb/>
+　　繡毬<lb/>
+<pb n="KR3i0044_WYG_001-15b"/>
+　　楝花<lb/>
+　　紫荆<lb/>
+　　紫薇<lb/>
+　　巵子<lb/>
+　卷三十九　　　　　花譜十八<lb/>
+　　杜鵑<hi>黄杜鵑</hi>　<hi>山枇杷</hi>
+　　木槿<lb/>
+　　扶桑<lb/>
+<pb n="KR3i0044_WYG_001-16a"/>
+　　合驩<hi>有情樹</hi>
+　　木芙蓉<lb/>
+　卷四十　　　　　　花譜十九<lb/>
+　　巖桂<lb/>
+　卷四十一　　　　　花譜二十<lb/>
+　　山茶<lb/>
+　　蠟梅<lb/>
+　　瑞香<hi>結香木本以上</hi>
+<pb n="KR3i0044_WYG_001-16b"/>
+　卷四十二　　　　　花譜二十一<lb/>
+　　迎春<lb/>
+　　金雀<lb/>
+　　酴醿<hi>金沙</hi>
+　　薔薇<lb/>
+　卷四十三　　　　　花譜二十二<lb/>
+　　玫瑰<lb/>
+　　刺䕷<lb/>
+<pb n="KR3i0044_WYG_001-17a"/>
+　　月季<hi>四季</hi>
+　　木香<lb/>
+　　棣棠<lb/>
+　　茉莉<hi>雪瓣</hi>　<hi>紫茉莉</hi>
+　　素馨<lb/>
+　　含笑<lb/>
+　　指甲花<lb/>
+　　凌霄<hi>以上蔓本</hi>
+<pb n="KR3i0044_WYG_001-17b"/>
+　卷四十四　　　　　花譜二十三<lb/>
+　　蘭蕙<hi>蘭草風蘭</hi>　<hi>蕙草/朱蘭</hi>　<hi>澤蘭/箬蘭</hi>　<hi>真珠蘭/馬蘭</hi>　<hi>伊蘭</hi>
+　卷四十五　　　　　花譜二十四<lb/>
+　　芍藥<lb/>
+　卷四十六　　　　　花譜二十五<lb/>
+　　金燈<lb/>
+　　金盞<hi>側金盞</hi>
+　　翦春羅<hi>翦秋羅</hi>　<hi>翦羅花/</hi>　<hi>翦金羅/</hi>　<hi>翦紅紗</hi>
+<pb n="KR3i0044_WYG_001-18a"/>
+　　石竹<lb/>
+　　罌粟<lb/>
+　　麗春<lb/>
+　　虞美人<lb/>
+　　萱花<hi>鹿葱</hi>　<hi>水葱</hi>
+　　蜀葵<lb/>
+　　錦葵<lb/>
+　　天葵<hi>旌節花</hi>　<hi>西番葵</hi>
+<pb n="KR3i0044_WYG_001-18b"/>
+　卷四十七　　　　　花譜二十六<lb/>
+　　百合花<lb/>
+　　山丹<lb/>
+　　鳯仙<lb/>
+　　金錢<lb/>
+　　滴滴金<lb/>
+　　玉簮<lb/>
+　　秋葵<lb/>
+<pb n="KR3i0044_WYG_001-19a"/>
+　　曼陀羅<lb/>
+　　蓼花<lb/>
+　卷四十八　　　　　花譜二十七<lb/>
+　　菊花<lb/>
+　卷四十九　　　　　花譜二十八<lb/>
+　　菊花<lb/>
+　卷五十　　　　　　花譜二十九<lb/>
+　　菊花<lb/>
+<pb n="KR3i0044_WYG_001-19b"/>
+　卷五十一　　　　　花譜三十<lb/>
+　　菊花<hi>繡線菊  翠菊</hi>　<hi>藍菊/</hi>　<hi>䨇鸞菊/</hi>　<hi>丈菊/</hi>　<hi>七月菊</hi>
+　卷五十二　　　　　花譜三十一<lb/>
+　　雞冠<lb/>
+　　水仙<hi>
+                        <graphic n="KR3873" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3873.png" mimeType="image/png"/>祗草水仙樹以上  本</hi>
+　卷五十三　　　　　花譜三十二<lb/>
+　　萬年花<lb/>
+　　金蓮<lb/>
+<pb n="KR3i0044_WYG_001-20a"/>
+　　茈碧<lb/>
+　　九花樹<lb/>
+　　萬連<lb/>
+　　金䔲花<lb/>
+　　紅綬花<lb/>
+　　優鉢曇<lb/>
+　　迎輦花<lb/>
+　　金歩搖<lb/>
+<pb n="KR3i0044_WYG_001-20b"/>
+　　靈壽花<lb/>
+　　都勝花<lb/>
+　　無憂花<lb/>
+　　瘴川花<lb/>
+　　那伽花<lb/>
+　　提羅迦<lb/>
+　　拘尼陁<lb/>
+　　繫白象樹花<lb/>
+<pb n="KR3i0044_WYG_001-21a"/>
+　　簇蝶花<lb/>
+　　俱郍衛<lb/>
+　　木蓮<lb/>
+　　石蓮<lb/>
+　　洛如花<lb/>
+　　太平瑞聖花<lb/>
+　　七寳花<lb/>
+　　鵞毛玉鳯花<lb/>
+<pb n="KR3i0044_WYG_001-21b"/>
+　　蟬花<lb/>
+　　石蟬花<lb/>
+　　錦𢃄花<lb/>
+　　青囊花<lb/>
+　　旱金花<lb/>
+　　上元紅<lb/>
+　　泡花<lb/>
+　　枸那花<lb/>
+<pb n="KR3i0044_WYG_001-22a"/>
+　　水西花<lb/>
+　　象蹄花<lb/>
+　　白鶴花<lb/>
+　　望仙花<lb/>
+　　金莖花<lb/>
+　　白菱花<lb/>
+　　百日紅<lb/>
+　　閩山丹<lb/>
+<pb n="KR3i0044_WYG_001-22b"/>
+　　金鉢盂<lb/>
+　　繅絲花<lb/>
+　　笑靨花<lb/>
+　　紫羅襴<lb/>
+　　紫花兒<lb/>
+　　紅麥花<lb/>
+　　米篩花<lb/>
+　　蕾䔒花<lb/>
+<pb n="KR3i0044_WYG_001-23a"/>
+　　悶頭花<lb/>
+　　蝎子花<lb/>
+　　龍女花<lb/>
+　　和山花<lb/>
+　　優曇花<lb/>
+　　金梅<lb/>
+　　青鸞花<lb/>
+　　金縷梅<lb/>
+<pb n="KR3i0044_WYG_001-23b"/>
+　　撚蠟<lb/>
+　　春桂<lb/>
+　　黃山旌節花<lb/>
+　　瓔珞花<lb/>
+　　紫雲花<lb/>
+　　蕡桃<lb/>
+　　海罽花<lb/>
+　　蕊珠花<lb/>
+<pb n="KR3i0044_WYG_001-24a"/>
+　　玉鈴花<lb/>
+　　𤨏𤨏花<lb/>
+　　仙都花<lb/>
+　　四照花<lb/>
+　　覆杯花<lb/>
+　　查葡花<lb/>
+　　紫鐸花<lb/>
+　　傲雲花<lb/>
+<pb n="KR3i0044_WYG_001-24b"/>
+　　山釵花<lb/>
+　　絳頴花<lb/>
+　　蠟瓣花<lb/>
+　　疊雪花<lb/>
+　　囊環花<lb/>
+　　羙人菊<lb/>
+　　醉春花<lb/>
+　　鵞羣花<lb/>
+<pb n="KR3i0044_WYG_001-25a"/>
+　　海瓊花<lb/>
+　　寳網花<lb/>
+　　紫霞杯<lb/>
+　　黄花<lb/>
+　　馬蹄蘭<lb/>
+　　地椹花<lb/>
+　　鸞枝<lb/>
+　　長樂花<lb/>
+<pb n="KR3i0044_WYG_001-25b"/>
+　　優鉢羅花<lb/>
+　　戎王子<lb/>
+　　冬瑰花<lb/>
+　　海紅<lb/>
+　　燕蓊花<lb/>
+　　玉燭花<lb/>
+　　杏香花<lb/>
+　　萬蝶花<lb/>
+<pb n="KR3i0044_WYG_001-26a"/>
+　　真珠花<lb/>
+　　鷹爪花<lb/>
+　　闍提花<lb/>
+　　御𢃄花<lb/>
+　　玉手爐花<lb/>
+　　小黄蕖花<lb/>
+　　繭漆花<lb/>
+　　滿堂春<lb/>
+<pb n="KR3i0044_WYG_001-26b"/>
+　　御仙花<lb/>
+　　夀春花<lb/>
+　　散水花<lb/>
+　　孩児花<lb/>
+　　練春紅<lb/>
+　　長十八<lb/>
+　　波羅花<lb/>
+　　疉羅花<lb/>
+<pb n="KR3i0044_WYG_001-27a"/>
+　　藍雀花<lb/>
+　　翠蛾睂<hi>以上異花</hi>
+　卷五十四　　　　　果譜一<lb/>
+　　梅<hi>海梅</hi>
+　　杏<lb/>
+　　桃<hi>羊桃</hi>
+　卷五十五　　　　　果譜二<lb/>
+　　李<lb/>
+<pb n="KR3i0044_WYG_001-27b"/>
+　　棃<hi>檖</hi>　<hi>樝/</hi>　<hi>榅桲</hi>
+　　棠棃<hi>沙棠</hi>
+　　棣<hi>以上花見花譜</hi>
+　卷五十六　　　　　果譜三<lb/>
+　　櫻桃<hi>山櫻桃</hi>
+　　楊梅<lb/>
+　　枇杷<lb/>
+　卷五十七　　　　　果譜四<lb/>
+<pb n="KR3i0044_WYG_001-28a"/>
+　　柰<lb/>
+　　林檎<lb/>
+　　蘋果<lb/>
+　　橄㰖<hi>木威</hi>
+　　餘甘子<lb/>
+　　山樝<lb/>
+　　枳椇<lb/>
+　　葡萄<hi>野葡萄</hi>
+<pb n="KR3i0044_WYG_001-28b"/>
+　卷五十八　　　　　果譜五<lb/>
+　　棗<hi>天棗棗糯棗萬嵗</hi>　<hi>酸棗/</hi>　<hi>波斯棗/</hi>　<hi>千年棗</hi>
+　　柿<hi>椑柹</hi>　<hi>軟柹/</hi>　<hi>蕃柹</hi>
+　　木瓜<hi>榠樝膚果以上</hi>
+　卷五十九　　　　　果譜六<lb/>
+　　安石榴<hi>花見花譜</hi>
+　　栗<hi>石栗</hi>　<hi>天師栗</hi>
+　　榧<lb/>
+<pb n="KR3i0044_WYG_001-29a"/>
+　　榛<hi>胡榛子</hi>
+　　松子<lb/>
+　　核桃<hi>山胡桃</hi>　<hi>蔓胡桃</hi>
+　　銀杏<lb/>
+　卷六十　　　　　　果譜七<lb/>
+　　荔支<lb/>
+　卷六十一　　　　　果譜八<lb/>
+　　荔支<lb/>
+<pb n="KR3i0044_WYG_001-29b"/>
+　卷六十二　　　　　果譜九<lb/>
+　　荔支<lb/>
+　卷六十三　　　　　果譜十<lb/>
+　　荔支<hi>隈枝</hi>　<hi>錦荔支</hi>
+　　龍眼<hi>山龍眼</hi>　<hi>龍荔</hi>
+　卷六十四　　　　　果譜十一<lb/>
+　　橘<hi>橘皮</hi>
+　卷六十五　　　　　果譜十二<lb/>
+<pb n="KR3i0044_WYG_001-30a"/>
+　　柑<hi>佛手柑</hi>
+　　橙<hi>香櫞</hi>
+　　金橘<hi>金豆</hi>
+　　柚<lb/>
+　　枳<hi>枸橘殻果以上</hi>
+　卷六十六　　　　　果譜十三<lb/>
+　　蓮<hi>花見花譜</hi>
+　　藕<lb/>
+<pb n="KR3i0044_WYG_001-30b"/>
+　　蔗<lb/>
+　　蔆<lb/>
+　　芡<lb/>
+　　葧臍<lb/>
+　　慈姑<hi>以上水果</hi>
+　卷六十七　　　　　果譜十四<lb/>
+　　甜瓜<lb/>
+　　西瓜<hi>北𤓰</hi>
+<pb n="KR3i0044_WYG_001-31a"/>
+　　石𤓰<lb/>
+　　劉子<lb/>
+　　不周山果<lb/>
+　　如何樹實<lb/>
+　　繫彌子<lb/>
+　　留求子<lb/>
+　　都咸子<lb/>
+　　千嵗子<lb/>
+<pb n="KR3i0044_WYG_001-31b"/>
+　　人面子<lb/>
+　　夫編子<lb/>
+　　五斂子<lb/>
+　　都昆子<lb/>
+　　椰子<hi>青田核</hi>　<hi>嚴樹</hi>
+　　州樹子<lb/>
+　　國樹子<lb/>
+　　前樹子<lb/>
+<pb n="KR3i0044_WYG_001-32a"/>
+　　都桷子<lb/>
+　　㯆樹子<lb/>
+　　韶子<lb/>
+　　五子<lb/>
+　　白緣子<lb/>
+　　多感子<lb/>
+　　蔗子<lb/>
+　　彌子<lb/>
+<pb n="KR3i0044_WYG_001-32b"/>
+　　梅桃<lb/>
+　　楊搖子<lb/>
+　　冬熟<lb/>
+　　猴闥子<lb/>
+　　關桃子<lb/>
+　　士翁子<lb/>
+　　枸槽子<lb/>
+　　猴總子<lb/>
+<pb n="KR3i0044_WYG_001-33a"/>
+　　多南子<lb/>
+　　王壇子<lb/>
+　　棎子<lb/>
+　　都念子<lb/>
+　　侯騷<lb/>
+　　仙樹實<lb/>
+　　蠡齊子<lb/>
+　　無石子<lb/>
+<pb n="KR3i0044_WYG_001-33b"/>
+　　婆羅婆<lb/>
+　　磐砮穡樹<lb/>
+　　齊暾<lb/>
+　　那核婆<lb/>
+　　猪肉子<lb/>
+　　黎<graphic n="KR3111" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3111.png" mimeType="image/png"/>子<lb/>
+　　櫓罟子<lb/>
+　　槎檫子<lb/>
+<pb n="KR3i0044_WYG_001-34a"/>
+　　火炭子<lb/>
+　　部諦子<lb/>
+　　木頼子<lb/>
+　　羅晃子<lb/>
+　　古米子<lb/>
+　　殻子<lb/>
+　　藤核子<lb/>
+　　木連子<lb/>
+<pb n="KR3i0044_WYG_001-34b"/>
+　　蘿蒙子<lb/>
+　　特乃子<lb/>
+　　羊矢子<lb/>
+　　日頭子<lb/>
+　　秋風子<lb/>
+　　黄皮子<lb/>
+　　朱圓子<lb/>
+　　粉骨子<lb/>
+<pb n="KR3i0044_WYG_001-35a"/>
+　　塔骨子<lb/>
+　　布衲子<lb/>
+　　黄肚子<lb/>
+　　鹽麩子<lb/>
+　　胡頽子<hi>山茱茰</hi>
+　　醋林子<lb/>
+　　蓬薘柰<lb/>
+　　抹猛果<lb/>
+<pb n="KR3i0044_WYG_001-35b"/>
+　　枸柰子<lb/>
+　　稠黎子<lb/>
+　　桃花水<lb/>
+　　法佛哈<lb/>
+　　米孫烏什哈<lb/>
+　　烏喇柰<lb/>
+　　烏沙爾器<hi>以上異果</hi>
+　　無花果<lb/>
+<pb n="KR3i0044_WYG_001-36a"/>
+　　文光果<lb/>
+　　天仙果<lb/>
+　　槃多樹<lb/>
+　　古度子<lb/>
+　　波羅蜜<lb/>
+　　優曇鉢<hi>以上無花而實</hi>
+　　無患子<lb/>
+　　菩提子<lb/>
+<pb n="KR3i0044_WYG_001-36b"/>
+　　不納子<lb/>
+　　鬼見愁<lb/>
+　　欒華<hi>念珠樹為念珠以上可</hi>
+　　文官果<lb/>
+　卷六十八　　　　　木譜一<lb/>
+　　松<hi>實見果譜</hi>
+　卷六十九　　　　　木譜二<lb/>
+　　松<lb/>
+<pb n="KR3i0044_WYG_001-37a"/>
+　卷七十　　　　　　木譜三<lb/>
+　　松<hi>松花杆松</hi>　<hi>松脂/</hi>　<hi>艾蒳香/</hi>　<hi>水松/</hi>　<hi>落葉松</hi>
+　卷七十一　　　　　木譜四<lb/>
+　　柏<hi>柏實</hi>　<hi>竹柏</hi>
+　　檜<hi>樅</hi>
+　卷七十二　　　　　木譜五<lb/>
+　　杉<lb/>
+　　梓<hi>䑕梓</hi>
+<pb n="KR3i0044_WYG_001-37b"/>
+　　漆<lb/>
+　　豫章<hi>樟腦</hi>
+　　柟<lb/>
+　　石楠<lb/>
+　卷七十三　　　　　木譜六<lb/>
+　　桐<hi>刺桐花  折桐</hi>　<hi>岡桐/</hi>　<hi>赬桐/</hi>　<hi>臭桐/</hi>　<hi>胡桐/</hi>　<hi>海梧</hi>
+　卷七十四　　　　　木譜七<lb/>
+　　榆<lb/>
+<pb n="KR3i0044_WYG_001-38a"/>
+　　槐<lb/>
+　　檀<hi>紫檀</hi>　<hi>檕蒾/</hi>　<hi>駮馬</hi>
+　卷七十五　　　　　木譜八<lb/>
+　　楸<hi>榎</hi>　<hi>山楸</hi>
+　　楓<hi>楓香</hi>　<hi>槭</hi>
+　　榕<lb/>
+　　楮<lb/>
+　　椿<lb/>
+<pb n="KR3i0044_WYG_001-38b"/>
+　　樗<hi>山樗</hi>
+　　櫟<lb/>
+　卷七十六　　　　　木譜九<lb/>
+　　柳<lb/>
+　卷七十七　　　　　木譜十<lb/>
+　　柳<lb/>
+　卷七十八　　　　　木譜十一<lb/>
+　　柳<hi>柳絮</hi>　<hi>柳寄生/</hi>　<hi>檉柳/</hi>　<hi>櫸柳/</hi>　<hi>水楊</hi>
+<pb n="KR3i0044_WYG_001-39a"/>
+　　白楊<hi>栘楊喬木以上</hi>
+　卷七十九　　　　　木譜十二<lb/>
+　　女貞<lb/>
+　　冬青<hi>水冬青</hi>
+　　枸骨<lb/>
+　　烏臼<lb/>
+　　桄榔<lb/>
+　　㯶櫚<hi>櫚木</hi>　<hi>海㯶/</hi>　<hi>蒲葵</hi>
+<pb n="KR3i0044_WYG_001-39b"/>
+　　黄楊<lb/>
+　　樺木<lb/>
+　　䦨天竹<lb/>
+　　荆<hi>楛</hi>
+　　棘<hi>以上灌木</hi>
+　卷八十　　　　　　木譜十三<lb/>
+　　檀香<lb/>
+　　降眞香<lb/>
+<pb n="KR3i0044_WYG_001-40a"/>
+　　蜜香樹<lb/>
+　　龍腦香<lb/>
+　　安息香樹<lb/>
+　　麝香木<lb/>
+　　羯布羅香<lb/>
+　　櫰香<lb/>
+　　必栗香<hi>以上香木</hi>
+　　靈壽木<lb/>
+<pb n="KR3i0044_WYG_001-40b"/>
+　　娑羅木<lb/>
+　　扶木<lb/>
+　　若木<lb/>
+　　丹木<lb/>
+　　建木<lb/>
+　　迷榖<lb/>
+　　棪木<lb/>
+　　白䓘<lb/>
+<pb n="KR3i0044_WYG_001-41a"/>
+　　文莖<lb/>
+　　苦辛<lb/>
+　　盼木<lb/>
+　　稷木<lb/>
+　　崇吾山木<lb/>
+　　榣木<lb/>
+　　櫰木<lb/>
+　　机木<lb/>
+<pb n="KR3i0044_WYG_001-41b"/>
+　　北號山木<lb/>
+　　芭木<lb/>
+　　櫔木<lb/>
+　　彫棠<lb/>
+　　茇<lb/>
+　　黄棘<lb/>
+　　天楄<lb/>
+　　蒙木<lb/>
+<pb n="KR3i0044_WYG_001-42a"/>
+　　帝休<lb/>
+　　栯木<lb/>
+　　帝屋<lb/>
+　　亢木<lb/>
+　　葪柏<lb/>
+　　三珠樹<lb/>
+　　雄常樹<lb/>
+　　欒<lb/>
+<pb n="KR3i0044_WYG_001-42b"/>
+　　甘柤<lb/>
+　　甘華<lb/>
+　　朱木<lb/>
+　　㝷木<lb/>
+　　文玉樹<lb/>
+　　不死樹<lb/>
+　　聖木<lb/>
+　　服常琅玕樹<lb/>
+<pb n="KR3i0044_WYG_001-43a"/>
+　　櫧<lb/>
+　　槲<lb/>
+　　杻<lb/>
+　　桋<lb/>
+　　棫<lb/>
+　　杬<lb/>
+　　橋<lb/>
+　　㝠靈<lb/>
+<pb n="KR3i0044_WYG_001-43b"/>
+　　橪支<lb/>
+　　赤木<lb/>
+　　仁壽木<lb/>
+　　模木<lb/>
+　　楷木<lb/>
+　　不盡木<lb/>
+　　柤稼<graphic n="KR2286" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2286.png" mimeType="image/png"/>
+　　返魂樹<lb/>
+<pb n="KR3i0044_WYG_001-44a"/>
+　　聲風木<lb/>
+　　指星木<lb/>
+　　平露<lb/>
+　　賓連<lb/>
+　　垂龍木<lb/>
+　　女香樹<lb/>
+　　青樝木<lb/>
+　　發日樹<lb/>
+<pb n="KR3i0044_WYG_001-44b"/>
+　　生金樹<lb/>
+　　長生樹<lb/>
+　　丹青樹<lb/>
+　　文木<lb/>
+　　上林苑樹<lb/>
+　卷八十一　　　　　木譜十四<lb/>
+　　君子樹<lb/>
+　　不灰木<lb/>
+<pb n="KR3i0044_WYG_001-45a"/>
+　　員生樹<lb/>
+　　蘇枋<lb/>
+　　翳木<lb/>
+　　貝多樹<lb/>
+　　鬼目樹<lb/>
+　　䔅母樹<lb/>
+　　梓棪<lb/>
+　　莎樹<lb/>
+<pb n="KR3i0044_WYG_001-45b"/>
+　　抱木<lb/>
+　　棹<lb/>
+　　仙人樹<lb/>
+　　都句<lb/>
+　　候風木<lb/>
+　　酒樹<lb/>
+　　影木<lb/>
+　　燧木<lb/>
+<pb n="KR3i0044_WYG_001-46a"/>
+　　壽木<lb/>
+　　恒春樹<lb/>
+　　播栘樹<lb/>
+　　文衆木<lb/>
+　　摩厨<lb/>
+　　石樓樹<lb/>
+　　<graphic n="KR2830" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2830.png" mimeType="image/png"/>子樹<lb/>
+　　大食國樹<lb/>
+<pb n="KR3i0044_WYG_001-46b"/>
+　　春浮<lb/>
+　　菩提樹<lb/>
+　　婆那娑樹<lb/>
+　　菴羅樹<lb/>
+　　婆田羅樹<lb/>
+　　毗野樹<lb/>
+　　歌畢佗樹<lb/>
+　　嫛彌<lb/>
+<pb n="KR3i0044_WYG_001-47a"/>
+　　咀頼羅<lb/>
+　　波羅樹<lb/>
+　　綸木<lb/>
+　　勾芒木<lb/>
+　　橦樹<lb/>
+　　榿<lb/>
+　　琪樹<lb/>
+　　鳯首木<lb/>
+<pb n="KR3i0044_WYG_001-47b"/>
+　　木龍樹<lb/>
+　　色綾木<lb/>
+　　倒生木<lb/>
+　　黝木<lb/>
+　　鹿木<lb/>
+　　獨梪樹<lb/>
+　　蜻蜓樹<lb/>
+　　沒樹<lb/>
+<pb n="KR3i0044_WYG_001-48a"/>
+　　阿勃参<lb/>
+　　<graphic n="KR3738" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3738.png" mimeType="image/png"/>齊<lb/>
+　　瑞木<lb/>
+　　紫䤵樹<lb/>
+　　尸利沙樹<lb/>
+　　羅漢木<lb/>
+　　思儡木<lb/>
+　　臙脂木<lb/>
+<pb n="KR3i0044_WYG_001-48b"/>
+　　龍骨木<lb/>
+　　韓木<lb/>
+　　額常<lb/>
+　　鎖鎖木<lb/>
+　　欏木<lb/>
+　　鸂鶒木<lb/>
+　　虎斑木<lb/>
+　　赤水木<lb/>
+<pb n="KR3i0044_WYG_001-49a"/>
+　　人面木<lb/>
+　　千嵗木<lb/>
+　　强木<lb/>
+　　閻浮樹<lb/>
+　　拘尼佗樹<lb/>
+　　稠錫樹<lb/>
+　　鐡樹<lb/>
+　　淨土樹<lb/>
+<pb n="KR3i0044_WYG_001-49b"/>
+　　黄櫨<lb/>
+　　綟木<lb/>
+　　橉木<lb/>
+　　柯樹<lb/>
+　　虎刺<lb/>
+　　不凋木<lb/>
+　　賣子木<lb/>
+　　楤木<lb/>
+<pb n="KR3i0044_WYG_001-50a"/>
+　　　木麻<lb/>
+　　　大空<lb/>
+　　　黄葛<lb/>
+　　　佛頂青<lb/>
+　　　椵木<lb/>
+　　　夜光木<lb/>
+　　　萬葛樹<lb/>
+　　　水清木<hi>以上異木</hi>
+<pb n="KR3i0044_WYG_001-50b"/>
+　　　藤<lb/>
+　　　女蘿<lb/>
+　　　薜荔<lb/>
+　　　絡石<hi>以上藤屬</hi>
+　<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋廣羣芳譜目録上<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

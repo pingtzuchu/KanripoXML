@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>夏小正戴氏傳卷四</head> <lb/>
+    <p>
+<pb n="1a"/>
+欽定四庫全書<lb/>
+　夏小正戴氏傳卷四<lb/>
+　　　　　　　　　　　宋　傅崧卿　注<lb/>
+冬<lb/>
+十月豺祭獸初昬南門見黒鳥浴時有養夜雉入于淮<lb/>
+為蜃織女正北鄉則旦<lb/>
+傳十月豺祭獸善其祭而後食之也初昏南門見<hi>大戴禮脫見字</hi>南門者星名也及此再見矣黒鳥浴黒鳥者何也烏<lb/>
+<pb n="1b"/>
+也浴也者飛乍髙乍下也<hi>大戴禮作黒烏浴者何也烏浴也者飛乍高乍下也今從關本</hi>時有養夜者養長也<hi>大戴禮云時有養者長也今從關本</hi>若日之長也<lb/>
+云雉入于淮為蜃蜃者蒲盧也織女正北鄉則旦織女<lb/>
+星名也<lb/>
+十有一月王狩陳筋革嗇人不從隕麋角<lb/>
+傳十有一月<hi>大戴禮脫有字</hi>王狩王狩者言王之時田冬獵為<lb/>
+狩陳筋革者省兵甲也嗇人不從不從者弗行於時月<lb/>
+也萬物不通隕麋角隕墮也曰冬至陽氣至始動諸向<lb/>
+<pb n="2a"/>
+生皆蒙蒙符矣故麋角隕記時焉爾<hi>大戴禮云記時時焉爾衍一字</hi>
+十有二月鳴弋𤣥駒賁納卵蒜虞人入梁隕麋角<hi>月令仲冬麋角觧與小正十一月記隕麋角合十二月又記之蓋衍文戴氏因誤為之傳失之矣</hi>
+傳十有二月鳴弋弋也者禽也先言鳴而後言弋何也<lb/>
+鳴而後知其弋也𤣥駒賁駒也者螘也<hi>關本𤣥駒者蟻也</hi>賁者<lb/>
+何也走於地中也納卵蒜卵蒜也者本如卵者也納者<lb/>
+何也納之君也虞人入梁虞人官也梁者主設罟<graphic n="KR1577" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1577.png" mimeType="image/png"/>者<lb/>
+也隕麋角蓋陽氣且暏也故記之也<lb/>
+<pb n="2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　夏小正戴氏傳卷四<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

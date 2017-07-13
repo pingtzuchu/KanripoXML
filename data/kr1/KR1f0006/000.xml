@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>孝經刋誤</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　　　經部六<lb/>
+　孝經刋誤　　　　　　　　孝經類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹按孝經刋誤一卷宋朱子撰書成於淳熙<lb/>
+　　　　十三年朱子年五十七主管華州雲臺觀時作也<lb/>
+　　　　取古文孝經分為經一章傳十四章刪舊文二百<lb/>
+　　　　二十三字後有自記曰熹舊見衡山胡侍郎<lb/>
+　　　　論語説<hi>案胡宏高宗時為禮部侍郎居衡州故曰衡山所著有五峯論語指南一</hi>
+<pb n="1b"/>
+　　　　<hi>卷</hi>疑孝經引詩非經本文初甚駭焉徐而察<lb/>
+　　　　之始悟胡公之言為信而孝經之可疑者不<lb/>
+　　　　但此也因以書質之沙随程可久丈<hi>案可久程迥之</hi>
+　　　　<hi>字也</hi>程答書曰頃見王山汪端明<hi>案汪應辰孝宗時為端明</hi>
+　　　　<hi>殿學士</hi>亦以此書多出後人附㑹于是乃知前<lb/>
+　　　　輩讀書精審其論固己及此竊幸有所因述<lb/>
+　　　　而得免于鑿空妄言之罪云云今以朱子語<lb/>
+　　　　録考之黄㽦記云孝經除了後人所添前面<lb/>
+<pb n="2a"/>
+　　　　子曰及後面引詩便有首尾又云順則逆民<lb/>
+　　　　無則焉是季文子之詞言斯可道行斯可樂<lb/>
+　　　　一段是北宫文子論令尹之威儀在左傳中<lb/>
+　　　　自有首尾載入孝經都不接續全無意思又<lb/>
+　　　　葉賀孫記云古文孝經有不似今文順者如<lb/>
+　　　　父母生之續莫大焉又著一个子曰字方説<lb/>
+　　　　不愛其親而愛他人者謂之悖徳此本是一<lb/>
+　　　　段以子曰分為二恐不是又輔廣記云孝莫<lb/>
+<pb n="2b"/>
+　　　　大于嚴父嚴父莫大于配天豈不害理如此<lb/>
+　　　　則湏是如武王周公方能盡孝道尋常人都<lb/>
+　　　　無分豈不啓人僣亂之心是朱子詆毁此書<lb/>
+　　　　已非一日特不欲自居于改經故托之胡宏<lb/>
+　　　　汪應辰耳歐陽修詩本義曰刪詩云者非止<lb/>
+　　　　全篇刪去也或篇刪其章或章刪其句或句<lb/>
+　　　　刪其字引唐棣君子偕老節南山三詩為證<lb/>
+　　　　朱子盖陰用是例也陳振孫書録解題載此<lb/>
+<pb n="3a"/>
+　　　　書註其下曰抱遺經于千載之後而能卓然<lb/>
+　　　　悟疑辨惑非豪傑特起獨立之士何以及此<lb/>
+　　　　此後學所不敢仿效而亦不敢擬議也斯言<lb/>
+　　　　允矣南宋以後作註者多用此本故今特著<lb/>
+　　　　於録見諸儒渊源之所自與門戸之所以分<lb/>
+　　　　焉乾隆四十六年十月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

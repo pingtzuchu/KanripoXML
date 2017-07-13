@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>針灸問對</head>
+    <p>
+<pb n="KR3e0072_WYG_000-1a"/>
+欽定四庫全書　　　　子部五<lb/>
+　針灸問對　　　　　　醫家類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案針灸問對三卷明汪機撰機字省<lb/>
+　　　　之祁門人是書上中二卷論針法下卷論灸<lb/>
+　　　　法及經絡穴道皆設為問答語簡而明其論<lb/>
+　　　　針能治有餘之病不能治不足之病詳辨内<lb/>
+　　　　經虚補實瀉之説為指虚邪實邪又論古人<lb/>
+<pb n="KR3e0072_WYG_000-1b"/>
+　　　　充實病中于外故針灸有功今人虚耗病多<lb/>
+　　　　在内針灸不如湯液又論誤針誤灸之害與<lb/>
+　　　　巧立名目之誣尤術家所諱不肯言者其説<lb/>
+　　　　可謂篤實矣乾隆四十二年八月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+<pb n="KR3e0072_WYG_000-2a"/>
+針灸問對原序<lb/>
+客有過余者坐間語及針灸盛稱姑蘇之凌漢章六合<lb/>
+之李千户者皆能馳名兩京延譽數郡舍此他無聞焉<lb/>
+余曰休歙有商于彼者亦嘗從之游而授其業矣因得<lb/>
+聞其詳焉語凌則曰熟於穴法凡所㸃穴不必揣按雖<lb/>
+隔衣針亦每中其穴也語李則曰用意精專凡所用穴<lb/>
+必須折量以墨㸃記方敢始下針也余嘗論之凌則尚<lb/>
+乎簡略李則尚乎謹宻取穴之法簡略者終不及謹宻<lb/>
+<pb n="KR3e0072_WYG_000-2b"/>
+者之的確固也但素難所論針灸必須察脉以審其病<lb/>
+之在經在絡又須候氣以察其邪之已至未來不知二<lb/>
+家之術亦皆本於素難否乎客曰皆非吾之所知也余<lb/>
+因有感乃取靈樞素難及諸家針灸之書窮搜愽覽遇<lb/>
+有論及針灸者日逐筆録積之盈篋不忍廢棄因復序<lb/>
+次其説設為問難以著明之遂用装潢成帙名曰針灸<lb/>
+問對以便老景之檢閲焉庶或亦有補於針灸之萬一<lb/>
+也後之精于此者尚惟改而正之幸甚<lb/>
+<pb n="KR3e0072_WYG_000-3a"/>
+嘉靖庚寅冬長至日祁門朴墅汪機省之序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

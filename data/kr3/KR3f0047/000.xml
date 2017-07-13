@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>幾何原本</head>
+    <p>
+<pb n="KR3f0047_WYG_000-1a"/>
+欽定四庫全書　　　　　子部六<lb/>
+　幾何原本　　　　　　　天文算法類二<hi>算書之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案幾何原本六卷西洋歐几里得撰<lb/>
+　　　　利瑪竇譯而徐光啓所筆受也歐几里得未<lb/>
+　　　　詳何時人其原書十三卷五百餘題利瑪竇<lb/>
+　　　　之師丁氏為之集解又續補二卷於後共為<lb/>
+　　　　十五卷今止六卷者徐光啓自謂譯受是書<lb/>
+<pb n="KR3f0047_WYG_000-1b"/>
+　　　　此其最要者也其書每卷有界説有公論有<lb/>
+　　　　設題界説者先取所用名目解説之公論者<lb/>
+　　　　舉其不可疑之理設題則據所欲言之理次<lb/>
+　　　　第設之先其易者次其難者由淺而深由簡<lb/>
+　　　　而繁推之至於無以復加而後已又每題有<lb/>
+　　　　法有解有論有系法言題用解述題意論則<lb/>
+　　　　發明其所以然之理系則又有旁通者焉卷<lb/>
+　　　　一論三角形卷二論線卷三論圓卷四論圓<lb/>
+<pb n="KR3f0047_WYG_000-2a"/>
+　　　　内外形卷五卷六俱論比例其餘三角方圓<lb/>
+　　　　邊線面積體積比例變化相生之義無不曲<lb/>
+　　　　折盡顯纎㣲畢露光啓序稱其窮方圓平直<lb/>
+　　　　之情盡規矩準繩之用非虚語也且此為歐<lb/>
+　　　　邏巴算學専書前作後述不絶於世至歐几<lb/>
+　　　　里得而為是書盖亦集諸家之成故自始至<lb/>
+　　　　終毫無疵纇加以光啓反覆推闡其文句尤<lb/>
+　　　　為明顯以是弁冕西術不為過矣乾隆四十<lb/>
+<pb n="KR3f0047_WYG_000-2b"/>
+　　　　六年十二月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="KR3f0047_WYG_000-3a"/>
+幾何原本序<lb/>
+唐虞之世自羲和治厯暨司空后稷工虞典樂五官者<lb/>
+非度數不為功周官六藝數與㞐一焉而五藝者不以<lb/>
+度數從事亦不得工也襄曠之於音般墨之於械豈有<lb/>
+他謬巧哉精于用法爾已故嘗謂三代而上為此業者<lb/>
+盛有元元本本師𫝊曹習之學而畢喪於祖龍之𦦨漢<lb/>
+以來多任意揣摩如盲人射的虚發無效或依儗形似<lb/>
+如持螢燭象得首失尾至於今而此道盡廢有不得不<lb/>
+<pb n="KR3f0047_WYG_000-3b"/>
+廢者矣幾何原本者度數之宗所以窮方圓平直之情<lb/>
+盡規矩準繩之用也利先生從少年時論道之暇留意<lb/>
+藝學且此業在波中所謂師𫝊曹習者其師丁氏又絶<lb/>
+代名家也以故極精其說而與不佞游久講談餘晷時<lb/>
+時及之因請其象數諸書更以華文獨謂此書未譯則<lb/>
+他書俱不可得論遂共翻其要約六卷既平業而復之<lb/>
+由顯入微從疑得信蓋不用為用衆用所基真可謂萬<lb/>
+象之形囿百家之學海雖實未竟然以當他書既可得<lb/>
+<pb n="KR3f0047_WYG_000-4a"/>
+而論矣私心自謂不意古學廢絶二千年後頓獲補綴<lb/>
+唐虞三代之闕典遺義其裨益當世定復不小因偕二<lb/>
+三同志刻而傳之先生曰是書也以當百家之用度幾<lb/>
+有羲和般墨其人乎猶其小者有大用于此將以習人<lb/>
+之靈才令細而確也余以為小用大用實在其人如鄧<lb/>
+林伐材棟梁榱桷恣所取之耳顧惟先生之學略有三<lb/>
+種大者修身事天小者格物窮理物理之一端别為象<lb/>
+數一一皆精實典要洞無可疑其分解擘析亦能使人<lb/>
+<pb n="KR3f0047_WYG_000-4b"/>
+無疑而余乃亟傳其小者趨欲先其易信使人繹其文<lb/>
+想見其意理而知先生之學可信不疑大㮣如是則是<lb/>
+書之為用更大矣他所說幾何諸家藉此為用略具其<lb/>
+自敘中不備論吳淞徐光啟書<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

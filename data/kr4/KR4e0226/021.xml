@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4e0226_WYG_021-1a"/>
+闗學編首巻<lb/>
+　　秦子<lb/>
+秦子名祖字子南秦人<hi>一統志西安府</hi>孔門弟子篤于守道唐<lb/>
+𤣥宗追封少梁伯從祀孔子廟庭宋真宗加封鄄城侯<lb/>
+國朝嘉靖中改稱先賢秦子宋高宗賛曰秦有子南贇<lb/>
+贇述作守道之淵成徳之博範若鑄金契猶發藥歴世<lb/>
+明祀少梁寵爵<hi>聖門人物志末二句作紛華不撓縻我好爵</hi>
+　　燕子<lb/>
+<pb n="KR4e0226_WYG_021-1b"/>
+燕子名伋<hi>家語作級</hi>字子思秦人<hi>一作汧陽人</hi>孔門弟子唐𤣥宗<lb/>
+追封漁陽伯從祀孔子廟庭宋真宗加封汧源侯國朝<lb/>
+嘉靖中改稱先賢燕子宋陳知微賛曰八九之徒具傳<lb/>
+大義賢哉子思道本無愧鍾靈咸鎬浴徳洙泗増封汧<lb/>
+源皇澤斯被聖門人物志賛曰師席高振大成是集道<lb/>
+傳一貫速肖七十善教云袤儒風可立漁陽之士得跂<lb/>
+而及<lb/>
+　　石作子<lb/>
+<pb n="KR4e0226_WYG_021-2a"/>
+石作子名蜀字子明秦之成紀人<hi>一統志鞏昌府秦州</hi>孔門弟子<lb/>
+唐𤣥宗追封石邑伯從祀孔子廟庭宋真宗加封成紀<lb/>
+侯國朝嘉靖中改稱先賢石子宋高宗賛曰在昔石邑<lb/>
+能知所尊懋依有徳克述無言鼓篋槐市揚名里門此<lb/>
+道久視彼美常存按姓氏英賢傳有石作蜀氏族畧複<lb/>
+姓篇有石作氏注云石作蜀孔子弟子據此當稱石作<lb/>
+子稱石子者誤<lb/>
+　　壤駟子<lb/>
+<pb n="KR4e0226_WYG_021-2b"/>
+壤駟子名赤字子從<hi>家語壤作穰史記從作徒</hi>秦人<hi>一統志西安府</hi>孔門弟<lb/>
+子唐𤣥宗追封北徵伯從祀孔子廟庭宋真宗加封上<lb/>
+邽侯國朝嘉靖中改稱先賢壤子宋高宗賛曰式是壤<lb/>
+侯昭乎聖徒執經請益載道若無詩書規矩問學楷模<lb/>
+得時而駕領袖諸儒按通志畧壤駟氏複姓今稱壤子<lb/>
+誤<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

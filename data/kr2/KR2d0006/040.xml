@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>通志卷三十五</head> <lb/>
+    <p>
+<pb n="KR2d0006_WYG_040-1a"/>
+欽定四庫全書<lb/>
+　通志卷三十五<lb/>
+　　宋　右　廸　功　郎　鄭　樵　漁　仲　撰<lb/>
+　六書略第五<lb/>
+　　起一成文圖<lb/>
+衡為一從為丨<hi>音衮</hi>邪丨為丿<hi>房必/切</hi>反丿為乀<hi>分勿切</hi>至乀<lb/>
+而窮折一為　<hi>音及</hi>反　為　<hi>呼早/切</hi>轉　為　<hi>音隱</hi>反　為<lb/>
+　<hi>居月切了从此見了部</hi>至　而窮折一為　者側也有側有正<lb/>
+<pb n="KR2d0006_WYG_040-1b"/>
+正折為　<hi>即宀字也又音帝又音入</hi>轉　為　<hi>側加/切</hi>側　為　<hi>音□</hi>反<lb/>
+　為　<hi>音泉</hi>至泉而窮一再折為　<hi>五犯/切</hi>轉　為　<hi>口犯切</hi>
+側　為　<hi>音方</hi>反　為　<hi>音播</hi>至　而窮引一而繞合之方<lb/>
+則為□<hi>音圍</hi>圓則為○<hi>音星</hi>至○則環轉無異勢一之道盡<lb/>
+矣　<hi>音拄</hi>與一偶一能生　不能生以不可屈曲又不可<lb/>
+引引則成丨然　與一偶一能生而　不能生天地之<lb/>
+道隂陽之理也<lb/>
+　　因文成象圖<lb/>
+<pb n="KR2d0006_WYG_040-2a"/>
+有到取<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>為丅<hi>下</hi>到　<hi>饗/</hi>為　<hi>厚/</hi>到　<hi>子/</hi>為　<hi>他骨切</hi>到<lb/>
+　<hi>首</hi>為　<hi>鳥/</hi>到　<hi>了/</hi>為　<hi>鳥/</hi>有反取反　<hi>恵</hi>為　反<lb/>
+<hi>人</hi>為□<hi>化/</hi>反　<hi>化/</hi>為　<hi>殄/</hi>反　為　<hi>呼懇/切</hi>反□<hi>止</hi>為<lb/>
+<hi>撻</hi>反　<hi>欠/</hi>為　<hi>旡音/既</hi>反　<hi>余制/切</hi>為　<hi>弋支/反</hi>反　<hi>可</hi>為<lb/>
+<hi>普可反</hi>有向取向　<hi>父/</hi>為　<hi>子/</hi>向　<hi>后/</hi>為司<hi>司/</hi>向　<hi>左</hi>為<lb/>
+　<hi>右</hi>向　<hi>几劇/反</hi>為　<hi>居玉/反</hi>向爪為　<hi>掌/</hi>向　<hi>丑亦反</hi>為<lb/>
+<hi>丑玉反</hi>向　<hi>刀/</hi>為　<hi>匕/</hi>向　<hi>身/</hi>為　<hi>衣/</hi>向　<hi>居桀/反</hi>為　<hi>居月</hi>
+<hi>反</hi>向　為　<hi>戕/</hi>向　<hi>永/</hi>為　<hi>
+                        <graphic n="KR1000" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1000.png" mimeType="image/png"/>音/派</hi>向　<hi>雲/</hi>為　<hi>雷</hi>有相<lb/>
+<pb n="KR2d0006_WYG_040-2b"/>
+向取　<hi>户</hi>相向為□<hi>門/</hi>　<hi>阜/</hi>相向為　<hi>音/阜</hi>　<hi>邑</hi>相向為<lb/>
+　<hi>鄉又音巷</hi>　相向為　<hi>鬬/</hi>有相背取　相背為　<hi>蒲撥反</hi>臣<lb/>
+相背為　<hi>誑</hi>　<hi>巳/</hi>相背為　<hi>弗/</hi>　<hi>楚危/反</hi>相背為　<hi>舛</hi>有<lb/>
+相背向取向為　<hi>音拱</hi>背為<graphic n="KR2433" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2433.png" mimeType="image/png"/>
+                    <hi>音/攀</hi>向為　<hi>為/</hi>背為　<hi>北</hi>向<lb/>
+為□<hi>門</hi>背為　<hi>牖/</hi>向為　<hi>姐/</hi>背為　<hi>嫁/</hi>有近取取　<hi>天</hi>
+於☰<hi>乾體</hi>取　<hi>地亦為/坤字</hi>於☷<hi>坤/體</hi>取　<hi>水/</hi>於☵<hi>坎/體</hi>取　<hi>火</hi>於<lb/>
+☲<hi>離體</hi>取　<hi>六/</hi>於　<hi>四/</hi>取　<hi>九/</hi>於　<hi>七/</hi>取十於　<hi>五</hi>取<lb/>
+<hi>升</hi>於　<hi>斗/</hi>取　<hi>耳/</hi>於　<hi>鼻/</hi>取　於　<hi>目/</hi>取　<hi>烏/</hi>於　<hi>鳥</hi>
+<pb n="KR2d0006_WYG_040-3a"/>
+取□於　<hi>佳</hi>有逺取取山於☶<hi>艮/體</hi>取雷於☳<hi>震體</hi>取風於<lb/>
+☴<hi>巽體</hi>取澤於☱<hi>兌體</hi>取四五六七八九十於一二三取千<lb/>
+於百取萬於千取毛於髪取男於女有加取一加一為<lb/>
+二二加一為三二加二為亖百加百為皕<hi>必力反</hi>爻加爻<lb/>
+為㸚<hi>陟几反</hi>山加山為屾<hi>所臻/反</hi>水加水為沝<hi>之壘反</hi>有減取<lb/>
+減二十為廿<hi>音入</hi>減三十為卉<hi>縣沓/反</hi>減四十為<graphic n="KR1354" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1354.png" mimeType="image/png"/>
+                    <hi>悉入反</hi>減<lb/>
+三十年為　<hi>世</hi>又有減　<hi>川/</hi>為　<hi>澮/</hi>減　為　<hi>畎</hi>亦是<lb/>
+減法有微加減取加丿為延減丿為㢟<hi>丑連反</hi>加一為<lb/>
+<pb n="KR2d0006_WYG_040-3b"/>
+<hi>聿</hi>減一為　<hi>尼輙/反</hi>加丿為囱<hi>楚江/反</hi>減丿為囟<hi>息進反</hi>加一<lb/>
+為王<hi>于况切</hi>減一為土有上取上向左為　<hi>禾</hi>向右為<lb/>
+<hi>音稽</hi>向左為　<hi>毛/</hi>向右為　<hi>手/</hi>有下取下向右為　<hi>少</hi>向<lb/>
+左為　<hi>子結反</hi>向右為　<hi>訶/</hi>向左為　<hi>音考</hi>有中取中貫為<lb/>
+　<hi>毋</hi>不貫為　<hi>母/</hi>中交為　<hi>交</hi>不交為　有方圓取圓<lb/>
+□<hi>圍</hi>為○<hi>音星又/音槃</hi>方○為□有曲直取曲丨<hi>音/衮</hi>為　<hi>乙</hi>
+直　為丨有離合取離人<hi>入</hi>為　合　為人有從衡取<lb/>
+衡丨為一從一為丨有邪正取正乂為十邪十為乂有<lb/>
+<pb n="KR2d0006_WYG_040-4a"/>
+順逆取順理為□<hi>从</hi>逆理為□<hi>比</hi>有内外中間取○相<lb/>
+内為□<hi>音雷又音回</hi>相外為□<hi>鄰/</hi>相間為□<hi>環</hi>
+　　古今殊文圖<lb/>
+黄帝貨貨作斤帝嚳貨貨作□高陽貨貨作斤商貨貨<lb/>
+作<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>又作□又作□子貨金貨作□周之圜法貨作□<lb/>
+京王大錢貨作□齊公貨貨作□齊刀别種貨作□莒<lb/>
+貨貨作北公貨刀貨作□黄帝貨帝作人帝昊金帝作<lb/>
+○古文帝作二<hi>此古文常用者未悉起自何代</hi>師<graphic n="KR2527" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2527.png" mimeType="image/png"/>敦帝作□古幣金<lb/>
+<pb n="KR2d0006_WYG_040-4b"/>
+作□黄帝貨金作□帝昊金金作□帝嚳金金作全商<lb/>
+鍾金作□周鉦金作□晉鼎金作□堯泉泉作□又作<lb/>
+□商泉莊布泉作彡巨泉泉作丿古尺斗柄泉作□商<lb/>
+貨布作□又作□齊公布布作大齊布布作□商鍾惟<lb/>
+作□周敦惟作□商鍾子作□周敦子作□<lb/>
+　古今殊文多矣以此六條亦足見焉<lb/>
+　　一代殊文圖<lb/>
+太昊金昊作□復作□高陽金高作□復作□復作□<lb/>
+<pb n="KR2d0006_WYG_040-5a"/>
+復作　復作□復作□堯泉堯作上復作□又古文堯<lb/>
+作垚又作□開元文字堯作士夏貨夏作　復作　復<lb/>
+作　古文書禹作□雲臺碑禹作　商貨商作　復作<lb/>
+　復作□復作　復作□復作　復作用商壺辛作<lb/>
+商卣辛作□祖辛爵辛作□祖戊匜辛作　齊刀齊作<lb/>
+品復作　復作　<graphic n="KR0783" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0783.png" mimeType="image/png"/>敦又有作<lb/>
+　一代殊文多矣以此八條亦足見焉<lb/>
+　　諸國殊文圖<lb/>
+<pb n="KR2d0006_WYG_040-5b"/>
+晉姜鼎通作□虢姜鼎通作　宋公鼎公作□魯公鼎<lb/>
+公作　晉姜鼎文作　周公鼎文作　周敦文作　屈<lb/>
+生敦君作　姬□簠君作　宋君鼎君作　<hi>周敦在作□尹彞在</hi>
+<hi>作□</hi>父癸鼎在作　父乙彝在作　周公鼎作作　晉姜<lb/>
+鼎作作　孔父鼎作作　楚王彝作作<lb/>
+　諸國殊文多矣以此六條亦足見焉<lb/>
+　　殊文總論<lb/>
+觀古今殊文與一代殊文則知先儒以義理說文字者<lb/>
+<pb n="KR2d0006_WYG_040-6a"/>
+徒勞用心一貨可説也二貨何説乎二貨可説也三貨<lb/>
+四貨至于十三貨何説乎既有十三文豈亦有十三義<lb/>
+乎一高可説也二高何説乎二高可説也三高四高五<lb/>
+高六高何説乎既有六文豈亦有六義乎况此文盡出<lb/>
+聖人之手豈聖人之書無義而秦人史隸之書反有義<lb/>
+乎大抵書以紀命為本豈在文義以義取文者書之失<lb/>
+也後人之書附義成文古人之書舎義成文文而無義<lb/>
+者皆古聖人之書也附義成文者皆是依緣意想而取<lb/>
+<pb n="KR2d0006_WYG_040-6b"/>
+象舎依緣則其意無所繫著此後人之用心也觀諸國<lb/>
+殊文知三代之時諸國之書有同有異各隨所習而安<lb/>
+不可彊之使同秦人無知欲使天下好惡趨避盡狥於<lb/>
+我易天下之心而同吾之心易天下之面而同吾之面<lb/>
+　　諧聲變體論<hi>急慢聲諧高下聲諧</hi>
+　　論急慢聲諧<lb/>
+急慢聲諧者慢聲為二急聲為一也梵書謂二合聲是<lb/>
+矣梵人尚音故有合二而成聲合三合四而成聲華人<lb/>
+<pb n="KR2d0006_WYG_040-7a"/>
+尚文惟存二合此於梵書中論之矣詩序曰聲成文謂<lb/>
+之音知聲有急慢則發而為文抑揚合度鏗鏘中節箋<lb/>
+釋之家全不及此至於語辭渾而無别但取言中之義<lb/>
+不問句中之節故栁宗元極論語辭之義良由不知急<lb/>
+慢之節所以辭與句不相當慢聲為者焉急聲為旃旃<lb/>
+為者焉之應慢聲為者與急聲為諸諸為者與之應又<lb/>
+如慢聲為而已急聲為耳慢聲為之矣急聲為只慢聲<lb/>
+為者也急聲為者慢聲為也者急聲為也慢聲為嗚呼<lb/>
+<pb n="KR2d0006_WYG_040-7b"/>
+急聲為嗚慢聲為噫嘻急聲為噫皆是相應之辭也此<lb/>
+並載籍中常語先儒不知考䆒又如語言之中慢聲為<lb/>
+激搏急聲為郭慢聲為中央急聲為張者亦是也古艷<lb/>
+歌曰蘭草自然香生於大道傍十月鈎䥥起并在束薪<lb/>
+中此中央之為張也張平子西京賦云翔鶤仰而弗逮<lb/>
+滉青鳥與黄雀伏櫺檻而俯聼聞雷霆之指激此則激<lb/>
+搏之為郭也可以觸類而長<lb/>
+　　論高下聲諧<hi>音讀附</hi>
+<pb n="KR2d0006_WYG_040-8a"/>
+董正之董亦為督察之督者東董凍督故也改更之更<lb/>
+亦為變革之革者更梗更<hi>去聲</hi>革故也伊之為已<hi>大誥曰已予惟</hi>
+<hi>小子</hi>已之為億<hi>易曰億䘮貝又曰億無䘮有事</hi>伊已意億故也非之為匪<lb/>
+匪之為弗非匪沸弗故也眅即盻者攀眅盻故也儆類<lb/>
+敬者京儆敬故也翻之為反庸之為用邪之為也之之<lb/>
+為只者並此道也而之為爾爾之為汝汝之為若于之<lb/>
+為於於之為與與之為與<hi>音譽</hi>亦此道也是皆一義之所<lb/>
+起而發聲有輕重耳乃若父雖甫音讀若輔道雖杜老<lb/>
+<pb n="KR2d0006_WYG_040-8b"/>
+切讀若導禮記大昕昕音忻讀若希説文臑字音<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>讀<lb/>
+若襦<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>字特一切讀若亭此為音讀之别無非聲之諧<lb/>
+也<lb/>
+　　論諧聲之惑<lb/>
+左氏曰止戈為武武非从止凡沚芷齒耻之類从止武<lb/>
+从戈从亾从戈以見義从亾以見聲古文歌舞之舞作<lb/>
+<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>振撫之撫作<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>廊廡之廡作<graphic n="KR1350" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1350.png" mimeType="image/png"/>於古並从亾於今並<lb/>
+从無而無於篆文亦从亾則武之从亾又何疑焉若曰<lb/>
+<pb n="KR2d0006_WYG_040-9a"/>
+武欲見止戈則古之武有作戊者又有作㦻者戊之前<lb/>
+垂象執戈揚盾之義㦻之从習有習用干戈之義及戊<lb/>
+為戊巳之戊㦻為襲敵之襲<hi>襲敵之字古作㦻今用衣襲字</hi>則戎事之<lb/>
+武專用武也若曰武有止戈之義又何必曰偃武乎亾<lb/>
+之與止易得相紊左氏所見止之訛也武於六書為諧<lb/>
+聲武戈類也武之从亾亦猶戰之从單<hi>音善</hi>戮之从翏<hi>音六</hi>
+戢之从咠<hi>音緝</hi>戣之从癸皆聲之諧也禮記曰祖者且也<lb/>
+祖非从且凡罝姐之類从且徂祖之類从且<hi>音徂</hi>祖無且<lb/>
+<pb n="KR2d0006_WYG_040-9b"/>
+義又曰㓝者<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>也若㓝之从井而有<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>之義則□也阱<lb/>
+也耕也亦可曰㓝乎又曰富也者福也若富之从畐<hi>芳伏</hi>
+<hi>切</hi>而有福之義則輻也幅也副也亦可曰福乎若曰角<lb/>
+觸也商章也秋之為揫春之為蠢皆此類也凡此類是<lb/>
+皆不識諧聲<lb/>
+　　論象形之惑<lb/>
+左氏曰反正為乏正無義也正乃射侯之正<hi>音征</hi>象其形<lb/>
+焉正<hi>音征</hi>以受矢乏以藏矢是相反也反正為乏其義在<lb/>
+<pb n="KR2d0006_WYG_040-10a"/>
+此或曰反正為丐<hi>音沔</hi>丐蔽矢短墻也正以受矢丐以蔽<lb/>
+矢是相反也此亦反正為乏之義邪正之正無所象故<lb/>
+正用侯正之正邪用琅琊之邪並協音而借是為假借<lb/>
+之書也韓子曰自營為厶<hi>音私</hi>厶非自營之義也厶於篆<lb/>
+文作　象男子之勢故又音鳥　與　<hi>即了字</hi>敵了者交<lb/>
+脛之端也故厶勢下垂了状上縋並是象形之文若乃<lb/>
+自營之厶與了絶之了並同音而借亦為假借之書疊<lb/>
+古作曡祭肉之積在器也从宜祭器也从晶<hi>音精</hi>象積肉<lb/>
+<pb n="KR2d0006_WYG_040-10b"/>
+之形曡與豐同意豐亦爼豆之衍也揚雄以曡為古理<lb/>
+官决罪三日得其宜乃行故从三日从宜此亦為不識<lb/>
+象形者也何用識竒字之多乎能象熊之形許氏謂能<lb/>
+熊屬則可矣又曰賢能之能何也出象花英之形許氏<lb/>
+謂象草木益滋上出亦可矣又曰出進何也是皆惑象<lb/>
+形於假借者也三代之前有左氏韓子三代之後有揚<lb/>
+雄許愼猶不達六書之義况他人乎<lb/>
+　　論一二之所生<lb/>
+<pb n="KR2d0006_WYG_040-11a"/>
+臣六書證篇實本説文而作凡許氏是者從之非者違<lb/>
+之其同乎許氏者因畫成文文必有説因文成字字必<lb/>
+有解其異乎許氏者每篇總文字之成而證以六書之<lb/>
+義故曰六書證篇然許氏多虛言證篇惟實義許氏所<lb/>
+説多滯於死證篇所説獨得其生葢許氏之義著於簡<lb/>
+書而不能離簡書故謂之死證篇之義舎簡書之陳迹<lb/>
+能飛行走動不滯一隅故謂之生今舉一二之義為説<lb/>
+文之首篇者可以見矣説文於一則曰惟初太始道立<lb/>
+<pb n="KR2d0006_WYG_040-11b"/>
+於一造分天地化成萬物故於一之類則生元生天生<lb/>
+丕生吏然元从上丕从地吏从又皆非一也惟天从一<lb/>
+證篇於一則曰一數也又象地之形又象貫物之状在<lb/>
+上為一故生天生百在中為貫故生母<hi>音貫</hi>生　<hi>古文車</hi>在<lb/>
+下為地故生旦生丕為貫為地者無音以無所麗則復<lb/>
+為一矣是以無音説文於丄<hi>音上</hi>則曰丄高也此古文丄<lb/>
+指事也故於丄之類則生帝生旁生下然帝夲象形旁<lb/>
+則形兼聲下非从上而與上偶證篇於丄則曰二音貳<lb/>
+<pb n="KR2d0006_WYG_040-12a"/>
+又音上殺上者為上殺下者為下在物之中者象編連<lb/>
+之形在物之上下者象覆載之位故於二則生竺生亝<lb/>
+於上則生元生帝於下則生<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <hi>音鎭</hi>生<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <hi>良仞切</hi>於中則生<lb/>
+冊生再於上下則生亟生亘在中在上下者無音以自<lb/>
+不能成體必有所麗是以無音此臣所作證篇之㫖也<lb/>
+　　論子母<lb/>
+立類為母從類為子母主形子主聲説文眼學眼見之<lb/>
+則成類耳聼之則不成類廣韻耳學耳聼之則成類眼<lb/>
+<pb n="KR2d0006_WYG_040-12b"/>
+見之則不成類故説文主母而役子廣韻主子而率母<lb/>
+説文形也禮也廣韻聲也樂也説文以母綂子廣韻以<lb/>
+子該母臣舊作象類書總三百三十母為形之主八百<lb/>
+七十子為聲之主合千二百文而成無窮之字許氏作<lb/>
+説文定五百四十類為字之母然母能生而子不能生<lb/>
+今説文誤以子為母者二百十類且如説文有句類生<lb/>
+拘生鉤有<graphic n="KR1234" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1234.png" mimeType="image/png"/>類生㮚生㮚有半類生胖生叛有菐類生<lb/>
+僕生䑑據拘當入手類鉤當入金類則句為虛設㮚當<lb/>
+<pb n="KR2d0006_WYG_040-13a"/>
+入木類㮚當入米類則<graphic n="KR1234" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1234.png" mimeType="image/png"/>為虛設胖當入肉類叛當入<lb/>
+反類則半為虛設僕當入人類䑑當入臣類則菐為虛<lb/>
+設蓋句也<graphic n="KR1234" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1234.png" mimeType="image/png"/>也半也菐也皆子也子不能生是為虛設<lb/>
+此臣所以去其二百十而取其三百三十也<lb/>
+　　論子母所自<lb/>
+或曰作文之始其實一也何以成母何以成子曰顯成<lb/>
+母隱成子近成母逺成子約成母滋成子同成母獨成<lb/>
+子用成母不用成子得勢成母不得勢成子來與麥同<lb/>
+<pb n="KR2d0006_WYG_040-13b"/>
+物麥顯而來隱牙與齒同物齒顯而牙隱故麥為母而<lb/>
+來為子齒為母而牙為子龍與魚同物魚近而龍逺㲋<lb/>
+<hi>丑略切</hi>與兎同物兎近而㲋逺故魚為母而龍為子兎為<lb/>
+母而㲋為子□<hi>胡感切</hi>與□<hi>音同上</hi>同象□約而□滋豆與<lb/>
+登同象豆約而登滋故□為母而□為子豆為母而登<lb/>
+為子烏與鳥同體鳥同而烏獨易與豸同體豸同而易<lb/>
+獨故鳥為母而烏為子豸為母而易為子睂與目相比<lb/>
+目用而睂不用疋<hi>音疏</hi>與足相比足用而疋不用故目為<lb/>
+<pb n="KR2d0006_WYG_040-14a"/>
+母而睂為子足為母而疋為子　<hi>左</hi>與□<hi>右</hi>敵體　得<lb/>
+勢而　不得勢　<hi>音攀</hi>與　<hi>音拱</hi>敵體　得勢而　不得勢<lb/>
+故　為母而　為子　為母而　為子舉此六條可以<lb/>
+觸類而長<lb/>
+　　論省文<lb/>
+凡省文有聲關於義者有義關於聲者甜之从舌者義<lb/>
+也舌之所嗜者甘恬之从舌者非舌也謂之从甜省是<lb/>
+之謂聲關於義營之从<graphic n="KR3209" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3209.png" mimeType="image/png"/>
+                    <hi>音熒</hi>者聲也以吕為主以<graphic n="KR3209" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3209.png" mimeType="image/png"/>為<lb/>
+<pb n="KR2d0006_WYG_040-14b"/>
+聲勞之从<graphic n="KR3209" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3209.png" mimeType="image/png"/>者非聲也謂之从營省是之謂義關於聲<lb/>
+伊从人从尹謂伊尹能尹正天下如<graphic n="KR2212" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2212.png" mimeType="image/png"/>蝛之<graphic n="KR2212" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2212.png" mimeType="image/png"/>从伊省<lb/>
+亦謂之聲關於義和謂調和之和如銛利之利从刀从<lb/>
+和省易曰利者義之和此亦謂之義關於聲凡省文之<lb/>
+類可以凖此<lb/>
+　　論篆隸<lb/>
+篆通而隸僻故有左無右有<graphic n="KR0671" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0671.png" mimeType="image/png"/>
+                    <hi>今作阝音阜</hi>無<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>音阜</hi>於篆則<lb/>
+左向右為左右向左為右獨向為<graphic n="KR0671" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0671.png" mimeType="image/png"/>相向為<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>篆明而<lb/>
+<pb n="KR2d0006_WYG_040-15a"/>
+隸晦故有王無玉有未無朱於篆則中一近上為王中<lb/>
+一居中為玉中一直為朱中一不直為未篆巧而隸拙<lb/>
+故有冖<hi>音覔</hi>無冂<hi>音/坰</hi>有　<hi>音/□</hi>無丨<hi>音衮</hi>於篆則上冐為冂不<lb/>
+冐為冖上加　為主加丨為宀篆縱而隸拘故有刀無<lb/>
+匕有禾無□<hi>音稽</hi>於篆體向左為刀向右為匕首向左為<lb/>
+禾向右為□然則篆之於隸猶筮之於龜<lb/>
+　　論創意<lb/>
+炅　昋　炔<lb/>
+<pb n="KR2d0006_WYG_040-15b"/>
+　右三字並音桂乃秦博士桂真之後避地别居各撰<lb/>
+　其姓之文而不殊夲者<lb/>
+[雨/單]<hi>音彎</hi>莔<hi>音/迄</hi>
+                    <graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <hi>音/觥</hi>
+                    <graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <hi>音/礥</hi>壾<hi>音/莽</hi>
+                    <graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <hi>音/舉</hi>□<hi>音/褒</hi>㷏<hi>音擁</hi>
+　右八字孫亮命子據桂氏命姓孫氏命子制十一字<lb/>
+　惟炔猶得桂聲而又無義餘十字聲義兩途俱不通<lb/>
+　文而非文字而非字者也<lb/>
+　　論變更<lb/>
+<graphic n="KR2243" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2243.png" mimeType="image/png"/>
+                    <hi>音沽</hi>罪<lb/>
+<pb n="KR2d0006_WYG_040-16a"/>
+　右二字秦人以市買多得為<graphic n="KR2243" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2243.png" mimeType="image/png"/>罪舊作辠始皇以其<lb/>
+　似皇字改而為罪<lb/>
+　代天　埊代地　　代日　　代月<hi>又作匣</hi>○代星<lb/>
+<graphic n="KR1428" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1428.png" mimeType="image/png"/>代臣　　代載　　代初　□代年　□代正又作<lb/>
+□　□代照　□代證　<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>代聖　□代授　　代戴<lb/>
+　圀代國<lb/>
+　右武后更造十八字代舊十六字史臣儒生皆謂其<lb/>
+　草創無義以臣觀之天作　日作　並篆文也年作<lb/>
+<pb n="KR2d0006_WYG_040-16b"/>
+　□正作□並古文行於世者授古文亦有作□□者<lb/>
+　國亦有作<graphic n="KR0146" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0146.png" mimeType="image/png"/>者地籕文或有作坔者星崔希裕纂古<lb/>
+　而作孰謂其草創而無所本與<lb/>
+對舊作□漢文以言多非誠故去口而作對隋舊作隨<lb/>
+文帝以周齊不遑寧處故去辵而作隋疊舊作曡新室<lb/>
+以三日太盛改為三田<graphic n="KR1719" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1719.png" mimeType="image/png"/>舊作騧宋明以咼<hi>音喎</hi>類禍改<lb/>
+而為𤓰形影之影舊作景葛稚川加彡於右軍陣之陣<lb/>
+舊作陳王逸少去東用車尼邱之山三倉合而為<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>音□</hi>
+<pb n="KR2d0006_WYG_040-17a"/>
+章貢之水後人合而為贑<hi>音紺</hi>荒昬二義元次山謚隋煬<lb/>
+帝合而為<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>音荒</hi>鄗<hi>火各切</hi>本一名分而為高邑者漢光武<lb/>
+也鄚嫌近鄭更而為莫豳嫌近幽更而為邠此並唐明<lb/>
+皇所更也<lb/>
+　　論遷革<lb/>
+雅夲烏鴉之鴉借為雅頌之雅復有鴉矣故雅遂為雅<lb/>
+頌之雅後人不知雅夲為鴉雇夲九鳸之鳸借為雇賃<lb/>
+之雇復有鳸矣故雇遂為雇賃之雇後人不知雇夲為<lb/>
+<pb n="KR2d0006_WYG_040-17b"/>
+鳸頌夲顔容之容故从公从頁借為歌頌之頌今人見<lb/>
+頌知歌頌之頌而已安知頌夲為容泉夲貨錢之錢故<lb/>
+於篆象古刀文借為泉水之泉今人見泉知泉水之泉<lb/>
+而已安知泉夲為錢<lb/>
+　　論便從<lb/>
+人與蟲魚禽獸同物同物者同為動物也天地之間一<lb/>
+經一緯一從一衡從而不動者成經衡而往來者成緯<lb/>
+草木成經為植物人與蟲魚禽獸成緯為動物然人為<lb/>
+<pb n="KR2d0006_WYG_040-18a"/>
+萬物之靈所以異於蟲魚禽獸者蟲魚禽獸動而俯人<lb/>
+動而仰獸有四胑而衡行人有四胑而從行植物理從<lb/>
+動物理衡從理向上衡理向下人動物也從而向上是<lb/>
+以動物而得植物之體向上者得天向下者得地人生<lb/>
+乎地而得天之道夲乎動物而得植物之理此人之所<lb/>
+以靈於萬物者以其兼之也人之體理從故文字便從<lb/>
+不便衡坎離坤衡卦也以之為字則必從故☵必從而<lb/>
+後能成　☲必從而後能成□☷必從而後能成　舟<lb/>
+<pb n="KR2d0006_WYG_040-18b"/>
+以衡濟車以衡運舟車衡器也作舟者必楹航而後能<lb/>
+成　作車者必弋軸而後能成車隹以衡飛魚以衡走<lb/>
+隹魚衡物也作隹者必作縣隹之勢而後能成　作魚<lb/>
+者必作貫魚之勢而後能成　鼻從竅目衡竅作鼻者<lb/>
+必為從　作目者亦為從　此可知其務從也葢人理<lb/>
+從從則起起則生衡則卧臥則尸<lb/>
+　　論華梵上<lb/>
+諸蕃文字不同而多夲於梵書流入中國代有大鴻臚<lb/>
+<pb n="KR2d0006_WYG_040-19a"/>
+之職譯經潤文之官恐不能盡通其㫖不可不論也梵<lb/>
+書左旋其勢向右華書右旋其勢向左華以正錯成文<lb/>
+梵以偏纒成體華則一音該一字梵則一字或貫數音<lb/>
+華以直相隨梵以横相綴華有象形之文梵亦有之尾<lb/>
+作　有尾垂之形縛作　有纒縛之象華有省文之字<lb/>
+梵亦有之地夲作　亦省作　縳夲作　亦省作　䭾<lb/>
+本作　亦省作　華有同聲而借之字梵亦有之野作<lb/>
+　而也亦作　䭾作　而陁亦作　華有協聲而借之<lb/>
+<pb n="KR2d0006_WYG_040-19b"/>
+字梵亦有之微用　而尾亦用　薩用　而散亦用<lb/>
+華書有重二之義如舊漢書元元休息下元字只作二<lb/>
+石鼓文嶧山碑重字皆作二梵書凡疊句重言則小作<lb/>
+　但華書每字之重皆作二梵書一字疊一言重者作<lb/>
+一　三字四字疊三言四言重者亦只作　華葢以目<lb/>
+傳故必詳於書梵以口傳如曲譜然書但識其大略華<lb/>
+之讀别聲故就聲而借梵之讀别音故即音而借如史<lb/>
+瑟同用　者師史使瑟商音之和也帝嚲同用　者低<lb/>
+<pb n="KR2d0006_WYG_040-20a"/>
+底帝嚲亦商音之和也娑薩同用　亦商音之和誐孽<lb/>
+同用□是為角音之和<lb/>
+　　論華梵中<lb/>
+觀今七音韻鑑出自西域應絃七琴天籟所作故從衡<lb/>
+正倒展轉成圖無非自然之文極是精微不比韻書但<lb/>
+平上去入而已七音之學學者不可不究華有二合之<lb/>
+音無二合之字梵有二合三合四合之音亦有其字華<lb/>
+書惟琴譜有之葢琴尚音一音難可一字該必合數字<lb/>
+<pb n="KR2d0006_WYG_040-20b"/>
+之體以取數音之文二合者取二體也如娑作　縛作<lb/>
+　二合娑縛則取縛之下體以合於娑而為　字如囉<lb/>
+作　䭾作　曩作　三合囉䭾曩則上取囉中取䭾下<lb/>
+取曩而為　字如悉作　底作　哩作　野亦作□四<lb/>
+合悉底哩野則取悉之上體以合於野之下體而包底<lb/>
+哩為錯文不必具底哩故其字作　然二合者是雙音<lb/>
+合為單音也如雙為者焉單為旃雙為者與單為諸然<lb/>
+則雙為娑縛單為索雙為娑嚲單為薩何不即一索足<lb/>
+<pb n="KR2d0006_WYG_040-21a"/>
+矣安用合娑縛一薩足矣安用合娑嚲哉曰華音論讀<lb/>
+必以一音為一讀故雖者焉可以獨言旃雖者與可以<lb/>
+獨言諸也梵音論諷雖一音而一音之中亦有抑揚高<lb/>
+下故娑縛不可以言索娑嚲不可以言薩實有微引勾<lb/>
+帶之状焉凡言二合者謂此音非一亦非二也言三合<lb/>
+者謂此音非一非二亦非三也言四合者謂此音非一<lb/>
+非二非三亦非四也但言二合者其音獨易言三合四<lb/>
+合者其音轉難大抵華人不善音今梵僧咒雨則雨應<lb/>
+<pb n="KR2d0006_WYG_040-21b"/>
+咒龍則龍見頃刻之間隨聲變化華僧雖學其聲而無<lb/>
+驗者寔音聲之道有未至也<lb/>
+　　論華梵下<lb/>
+梵人别音在音不在字華人别字在字不在音故梵書<lb/>
+甚簡只是數个屈曲耳差别不多亦不成文理而有無<lb/>
+窮之音焉華人苦不别音如切韻之學自漢以前人皆<lb/>
+不識實自西域流入中土所以韻圖之學釋子多能言<lb/>
+之而儒者皆不識起例以其源流出於彼耳華書制字<lb/>
+<pb n="KR2d0006_WYG_040-22a"/>
+極密㸃畫極多梵書比之實相遼邈故梵有無窮之音<lb/>
+而華有無窮之字梵則音有妙義而字無文彩華則字<lb/>
+有變通而音無錙銖梵人長於音所得從聞入故曰此<lb/>
+方眞教體清淨在音聞我昔三摩提盡從聞中入有目<lb/>
+根功悳少耳根功悳多之説華人長於文所得從見入<lb/>
+故天下以識字人為賢智不識字人為愚庸<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2d0006_WYG_040-22b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　通志卷三十五<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

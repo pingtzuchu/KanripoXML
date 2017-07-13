@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>本草綱目卷三十八目録</head> <lb/>
+    <p>
+<pb n="KR3e0079_WYG_091-1a"/>
+欽定四庫全書<lb/>
+　本草綱目卷三十八目録<lb/>
+　　服器部<lb/>
+李時珍曰敝帷敝葢聖人不遺木屑竹頭賢者注意無<lb/>
+棄物也中流之壺拯溺雪窖之氊救危無微賤也服帛<lb/>
+器物雖屬尾𤨏而倉卒值用亦奏竒功豈可藐眎而漫<lb/>
+不經神耶舊本散見草木玉石蟲魚人部今集其可備<lb/>
+醫用者凡七十九種為服器部分為二部曰服帛曰器物<lb/>
+<pb n="KR3e0079_WYG_091-1b"/>
+名醫别録三種<hi>梁陶𢎞景註</hi>唐本草<hi>唐蘇恭</hi>
+本草拾遺三十五種<hi>唐陳藏器</hi>藥性本草一種<hi>唐甄權</hi>
+開寶本草一種<hi>宋馬志</hi>　　嘉祐本草一種<hi>宋掌禹錫</hi>
+本草綱目三十五種<hi>明李時珍</hi>
+附註<hi>魏吳普本草註蜀韓保昇重</hi>　　　<hi>唐李珣海藥宋蘇頌圖經</hi>
+　　<hi>宋唐慎微證類元朱震亨補遺</hi>　　　<hi>㓂宗奭衍義</hi>
+　　服器之一　　服帛類二十五種<lb/>
+　　　錦<hi>拾遺</hi>
+<pb n="KR3e0079_WYG_091-2a"/>
+　　　絹<hi>綱目</hi>
+　　　帛<hi>拾遺</hi>
+　　　布<hi>拾遺</hi>
+　　　綿<hi>拾遺</hi>
+　　　褌襠<hi>拾遺衣附月經</hi>
+　　　汗衫<hi>綱目</hi>
+　　　孝子衫<hi>拾遺  缺</hi>
+　　　病人衣<hi>綱目  缺</hi>
+<pb n="KR3e0079_WYG_091-2b"/>
+　　　衣帶<hi>拾遺  缺</hi>
+　　　頭巾<hi>綱目</hi>
+　　　幞頭<hi>綱目</hi>
+　　　皮巾子<hi>綱目</hi>
+　　　皮腰袋<hi>綱目</hi>
+　　　繳脚布<hi>拾遺</hi>
+　　　敗天公<hi>拾遺即笠</hi>
+　　　故蓑衣<hi>拾遺</hi>
+<pb n="KR3e0079_WYG_091-3a"/>
+　　　氊屜<hi>綱目</hi>
+　　　皮鞾<hi>綱目</hi>
+　　　麻鞋<hi>唐本</hi>
+　　　草鞋<hi>拾遺</hi>
+　　　履屧鼻繩<hi>唐本</hi>
+　　　自經死繩<hi>拾遺</hi>
+　　　靈牀鞋<hi>拾遺</hi>
+　　　死人枕席<hi>拾遺</hi>
+<pb n="KR3e0079_WYG_091-3b"/>
+　　　　右附方舊七新六十三<lb/>
+　　服器之二　　　器物類五十四種<lb/>
+　　　紙<hi>綱目</hi>
+　　　青紙<hi>綱目</hi>
+　　　印紙<hi>拾遺</hi>
+　　　桐油繖紙<hi>綱目</hi>
+　　　厯日<hi>綱目</hi>
+　　　鍾馗<hi>綱目</hi>
+<pb n="KR3e0079_WYG_091-4a"/>
+　　　桃符<hi>藥性</hi>
+　　　桃橛<hi>拾遺</hi>
+　　　救月杖<hi>拾遺</hi>
+　　　撥火杖<hi>拾遺</hi>
+　　　吹火筒<hi>綱目</hi>
+　　　鑿柄木<hi>拾遺</hi>
+　　　鐵椎柄<hi>拾遺</hi>
+　　　銃楔<hi>綱目</hi>
+<pb n="KR3e0079_WYG_091-4b"/>
+　　　弓鞘<hi>拾遺</hi>
+　　　馬鞭<hi>綱目</hi>
+　　　箭笴及鏃<hi>拾遺</hi>
+　　　弓弩絃<hi>别録</hi>
+　　　紡車絃<hi>綱目</hi>
+　　　梭頭<hi>拾遺</hi>
+　　　連枷關<hi>綱目</hi>
+　　　楤擔尖<hi>綱目</hi>
+<pb n="KR3e0079_WYG_091-5a"/>
+　　　梳箆<hi>拾遺</hi>
+　　　鍼線袋<hi>拾遺</hi>
+　　　蒲扇<hi>拾遺</hi>
+　　　蒲席<hi>别録</hi>
+　　　簟<hi>綱目</hi>
+　　　簾箔<hi>嘉祐</hi>
+　　　漆器<hi>綱目</hi>
+　　　硏硃石槌<hi>拾遺</hi>
+<pb n="KR3e0079_WYG_091-5b"/>
+　　　燈盞<hi>綱目</hi>
+　　　燈盞<hi>綱目</hi>
+　　　燈盞油<hi>綱目</hi>
+　　　車脂<hi>開寶</hi>
+　　　敗船茹<hi>别録</hi>
+　　　故木砧<hi>拾遺</hi>
+　　　杓<hi>拾遺</hi>
+　　　筯<hi>拾遺</hi>
+<pb n="KR3e0079_WYG_091-6a"/>
+　　　甑<hi>唐本</hi>
+　　　鍋蓋<hi>綱目</hi>
+　　　飯籮<hi>拾遺</hi>
+　　　蒸籠<hi>綱目</hi>
+　　　炊單布<hi>綱目</hi>
+　　　故炊帚<hi>拾遺</hi>
+　　　弊帚<hi>綱目</hi>
+　　　簸箕舌<hi>綱目</hi>
+<pb n="KR3e0079_WYG_091-6b"/>
+　　　竹籃<hi>拾遺</hi>
+　　　魚笱<hi>綱目</hi>
+　　　魚網<hi>拾遺</hi>
+　　　草麻繩索<hi>綱目</hi>
+　　　馬絆繩<hi>綱目</hi>
+　　　縳豬繩<hi>綱目</hi>
+　　　牛牶<hi>綱目</hi>
+　　　厠籌<hi>拾遺</hi>
+<pb n="KR3e0079_WYG_091-7a"/>
+　　　尿桶<hi>綱目</hi>
+　　　　右附方舊十六新六十六<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3e0079_WYG_091-7b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　本草綱目卷三十八目録<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

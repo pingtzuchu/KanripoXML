@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>明諡紀彚編卷七</head> <lb/>
+    <p>
+<pb n="KR2m0031_WYG_007-1a"/>
+欽定四庫全書<lb/>
+　明諡紀彚編卷七<lb/>
+　　　　　　　　　　　　明　郭良翰　撰<lb/>
+　　尊諡四<lb/>
+　　　皇妃諡二字<lb/>
+忠敬<lb/>
+　文廟昭順賢妃喻氏<hi>永樂</hi>
+昭順<lb/>
+<pb n="KR2m0031_WYG_007-1b"/>
+　文廟賢妃喻氏<hi>永樂初諡</hi>
+　憲廟麗妃章氏<hi>𢎞治</hi>
+　穆廟英妃吳氏<hi>萬厯</hi>
+昭獻<lb/>
+　文廟貴妃王氏<hi>永樂</hi>
+昭懿<lb/>
+　文廟貴妃張氏<lb/>
+昭静<lb/>
+<pb n="KR2m0031_WYG_007-2a"/>
+　英廟恭妃劉氏<hi>𢎞治</hi>
+昭靖<lb/>
+　世廟徽妃王氏<hi>萬厯</hi>
+　穆廟敬妃孫氏<hi>萬厯</hi>
+昭榮<lb/>
+　穆廟恭妃張氏<hi>萬厯</hi>
+純靖<lb/>
+　宣廟賢妃趙氏<hi>宣徳</hi>
+<pb n="KR2m0031_WYG_007-2b"/>
+恭懿<lb/>
+　文廟惠妃趙氏<hi>景泰</hi>
+　憲廟敬妃王氏<hi>正徳</hi>
+恭安<lb/>
+　英廟和妃宫氏<hi>成化</hi>
+恭惠<lb/>
+　憲廟和妃梁氏<hi>嘉靖</hi>
+　穆廟荘妃劉氏<hi>萬厯</hi>
+<pb n="KR2m0031_WYG_007-3a"/>
+恭獻<lb/>
+　文廟賢妃權氏<hi>永樂</hi>
+恭肅<lb/>
+　仁廟貴妃郭氏<hi>洪熙</hi>
+恭順<lb/>
+　宣廟克妃李氏<hi>宣徳末</hi>
+恭定<lb/>
+　宣廟麗妃袁氏<hi>宣徳末</hi>
+<pb n="KR2m0031_WYG_007-3b"/>
+恭靖<lb/>
+　仁廟克妃黄氏<hi>洪熈</hi>
+　景皇帝賢妃李氏<hi>景泰</hi>
+　英廟荘妃趙氏<hi>正徳</hi>
+恭静<lb/>
+　穆廟和妃趙氏<hi>萬厯</hi>
+恭僖<lb/>
+　仁廟順妃譚氏<hi>洪熈</hi>
+<pb n="KR2m0031_WYG_007-4a"/>
+　英廟成妃張氏<hi>𢎞治</hi>
+　世廟麗妃王氏<hi>嘉靖</hi>
+恭榮<lb/>
+　文廟美人王氏<hi>永樂</hi>
+荘懿<lb/>
+　憲廟徳妃張氏<hi>𢎞治</hi>
+荘靖<lb/>
+　憲廟順妃王氏<hi>𢎞治</hi>
+<pb n="KR2m0031_WYG_007-4b"/>
+　今上徳妃許氏<hi>萬厯</hi>
+荘惠<lb/>
+　文廟美人王氏<hi>永樂</hi>
+荘静<lb/>
+　宣廟淑妃焦氏<lb/>
+荘僖<lb/>
+　穆廟榮妃王氏<hi>萬厯</hi>
+荘順<lb/>
+<pb n="KR2m0031_WYG_007-5a"/>
+　宣廟敬妃曹氏<hi>宣徳</hi>
+貞静<lb/>
+　仁廟追封順妃張氏<hi>永樂末</hi>
+　仁廟敬妃張氏<hi>景泰</hi>
+貞靖<lb/>
+　宣廟恭妃諸氏<hi>宣徳末</hi>
+貞惠<lb/>
+　仁廟淑妃王氏<hi>洪熈</hi>
+<pb n="KR2m0031_WYG_007-5b"/>
+　宣廟順妃徐氏<hi>宣徳末</hi>
+　穆廟賢妃姜氏<hi>萬厯</hi>
+貞順<lb/>
+　宣廟惠妃吳氏<hi>宣徳</hi>
+成穆<lb/>
+　髙廟貴妃孫氏<hi>洪武</hi>
+康懿<lb/>
+　文廟順妃李氏<hi>永樂末</hi>
+<pb n="KR2m0031_WYG_007-6a"/>
+康順<lb/>
+　憲廟端妃潘氏<hi>嘉靖</hi>
+温靜<lb/>
+　睿廟淑妃王氏<hi>嘉靖</hi>
+　今上順妃常氏<hi>萬厯</hi>
+安順<lb/>
+　文廟惠妃龍氏<hi>永樂末</hi>
+惠安<lb/>
+<pb n="KR2m0031_WYG_007-6b"/>
+　仁廟麗妃王氏<hi>洪熈</hi>
+惠穆<lb/>
+　文廟順妃郭氏<hi>永樂</hi>
+惠和<lb/>
+　英廟麗妃陳氏<hi>𢎞治</hi>
+景惠<lb/>
+　文廟美人盧氏<hi>永樂</hi>
+榮靖<lb/>
+<pb n="KR2m0031_WYG_007-7a"/>
+　英廟貞妃王氏<hi>𢎞治</hi>
+榮惠<lb/>
+　憲廟恭妃楊氏<hi>嘉靖</hi>
+榮安<lb/>
+　世廟貞妃馬氏<hi>嘉靖</hi>
+榮思<lb/>
+　宣廟賢妃吳氏<hi>天順</hi>
+榮淑<lb/>
+<pb n="KR2m0031_WYG_007-7b"/>
+　世廟康妃杜氏<hi>嘉靖</hi>
+榮昭<lb/>
+　世廟徳妃張氏<hi>隆慶</hi>
+榮悼<lb/>
+　穆廟安妃許氏<hi>萬厯</hi>
+懷榮<lb/>
+　世廟追封賢妃鄭氏<hi>嘉靖</hi>
+肅僖<lb/>
+<pb n="KR2m0031_WYG_007-8a"/>
+　宣廟成妃何氏<hi>正統</hi>
+靖僖<lb/>
+　憲廟榮妃唐氏<hi>嘉靖</hi>
+靖順<lb/>
+　憲廟惠妃郭氏<hi>𢎞治</hi>
+和惠<lb/>
+　憲廟静妃岳氏<hi>嘉靖</hi>
+端靖<lb/>
+<pb n="KR2m0031_WYG_007-8b"/>
+　憲廟貴妃何氏<hi>宣徳</hi>
+端和<lb/>
+　英廟懿妃黄氏<hi>𢎞治</hi>
+端僖<lb/>
+　憲廟安妃姚氏<hi>𢎞治</hi>
+端惠<lb/>
+　世廟永妃徐氏<hi>萬厯</hi>
+端荘<lb/>
+<pb n="KR2m0031_WYG_007-9a"/>
+　英廟昭妃武氏<hi>成化</hi>
+端順<lb/>
+　憲廟賢妃栢氏<hi>嘉靖</hi>
+　穆廟淑妃秦氏<hi>萬厯</hi>
+端榮<lb/>
+　憲廟昭妃王氏<hi>成化</hi>
+僖恪<lb/>
+　英廟充妃王氏<hi>𢎞治</hi>
+<pb n="KR2m0031_WYG_007-9b"/>
+悼僖<lb/>
+　仁廟追封惠妃李氏<hi>永樂末</hi>
+悼隠<lb/>
+　世廟恭妃文氏<hi>嘉靖</hi>
+　<lb/>
+　<lb/>
+　<lb/>
+　明諡紀彚編卷七<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

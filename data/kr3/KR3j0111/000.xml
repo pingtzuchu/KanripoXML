@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>提要<lb/>
+                </head>
+    <p>
+<pb n="KR3j0111_WYG_000-1a"/>
+欽定四庫全書　　　　　子部十<lb/>
+　提要<lb/>
+　　辨言一卷　　　　　　雜家類三<hi>雜説之屬</hi>
+　　　　臣等謹案辨言一卷宋員興宗撰興宗宋史<lb/>
+　　　　無傳其名僅見於姓氏急就篇所著有九華<lb/>
+　　　　先生集世亦不傳惟永樂大典間為採入並<lb/>
+　　　　錄集末所載當時祭文六首以諸文叅考其<lb/>
+　　　　出處興宗盖蜀人字顯道始應召官太學再<lb/>
+<pb n="KR3j0111_WYG_000-1b"/>
+　　　　遷至著作郎乾道中以有所論劾奉祠而去<lb/>
+　　　　終於潤州而趙汝愚所為文至以歐陽永叔<lb/>
+　　　　蘇明允為比傾倒甚至盖亦獨立自好之士<lb/>
+　　　　也此書載永樂大典中然不題九華集字疑<lb/>
+　　　　於集外别行書中歴摭經傳史子下及宋代<lb/>
+　　　　諸儒之説凡於理未安者各為之辨中間惟<lb/>
+　　　　論公羊傳紀季入齊一條稱紀以千乗畏人<lb/>
+　　　　為非乃因紹興時事而發未為切當若其辨<lb/>
+<pb n="KR3j0111_WYG_000-2a"/>
+　　　　尚書六宗舊解之誤禮記文王九齡之誕以<lb/>
+　　　　及譏劉氏漢書刋誤為不知史家行文之法<lb/>
+　　　　皆具有特識其他亦多中理要至以詩不待<lb/>
+　　　　序而明而㫁序之作為非古則沿鄭樵之新<lb/>
+　　　　説各存一解可矣乾隆四十六年九月恭校<lb/>
+　　　　上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

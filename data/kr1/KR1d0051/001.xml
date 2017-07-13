@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>讀禮通考卷一</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書<lb/>
+　讀禮通考卷一　　　刑部尚書徐乾學撰<lb/>
+　　喪期一<lb/>
+　　　表上<lb/>
+　　　　乾學案上古喪期無數中古聖人以親踈定<lb/>
+　　　　服術上殺下殺旁殺而别為再期期九月七<lb/>
+　　　　月五月三月之喪有恩有理有節有權著於<lb/>
+　　　　經禮卜子傳之其後代有因革或重而輕或<lb/>
+<pb n="1b"/>
+　　　　輕而重或古有而今省或前畧而後詳其見<lb/>
+　　　　於載紀者貞觀之律開元政和之禮司馬氏<lb/>
+　　　　之書儀朱子之家禮以及明之集禮孝慈錄<lb/>
+　　　　㑹典稱情立文各有其義顧分見於諸書考<lb/>
+　　　　禮者卒難辨其同異乃倣國史之表列行排<lb/>
+　　　　屬經緯既具一舉目而百世之典咸在庶㡬<lb/>
+　　　　若網之在綱而車之執綏者然其於元獨未<lb/>
+　　　　之詳何也元之喪禮無傳僅見於典章一編<lb/>
+<pb n="2a"/>
+　　　　列圖凡六而為伯叔兄弟期不杖於姑姊妹<lb/>
+　　　　則杖為適婦緦麻而為衆婦大功當時議禮<lb/>
+　　　　者不應若是之誤葢未敢信故寜闕焉<lb/>
+<pb n="3a"/>
+</p>
+<p>
+<pb n="4a"/>
+</p>
+<p>
+<pb n="5a"/>
+</p>
+<p>
+<pb n="6a"/>
+</p>
+<p>
+<pb n="7a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="7b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　　　　　　　右斬衰三年<lb/>
+　　　　　　　　儀禮一十一條<lb/>
+　　　　　　　　注疏七條<lb/>
+　　　　　　　　戴德一條<hi>以上第一格平行查之</hi>
+　　　　　　　　唐律一條<hi>第二格平行查之</hi>
+<pb n="8a"/>
+　　　　　　　　宋政和禮一條<hi>見第四格婦為舅小注</hi>
+　　　　　　　　家禮一條<hi>第六格平行查之</hi>
+　　　　　　　　明孝慈録一十三條<hi>第八格平行查之後倣此</hi>
+<pb n="9a"/>
+</p>
+<p>
+<pb n="10a"/>
+</p>
+<p>
+<pb n="11a"/>
+</p>
+<p>
+<pb n="12a"/>
+　<lb/>
+　<lb/>
+　　　　　　　右齊衰三年<lb/>
+　　　　　　　儀禮四條<lb/>
+　　　　　　　　禮記四條<lb/>
+　　　　　　　　注䟽四條<lb/>
+　　　　　　　　戴德四條<lb/>
+　　　　　　　　唐律二條<lb/>
+<pb n="12b"/>
+　　　　　　　　宋制二條<lb/>
+　　　　　　　　明制二條<lb/>
+<pb n="13a"/>
+</p>
+<p>
+<pb n="14a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="14b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　　　　　　　右杖期<lb/>
+　　　　　　　　儀禮四條<lb/>
+　　　　　　　　注䟽四條<hi>子為嫁母附見父卒繼母嫁從為之服報注</hi>
+　　　　　　　明制二條<lb/>
+<pb n="15a"/>
+</p>
+<p>
+<pb n="16a"/>
+</p>
+<p>
+<pb n="17a"/>
+</p>
+<p>
+<pb n="18a"/>
+</p>
+<p>
+<pb n="19a"/>
+</p>
+<p>
+<pb n="20a"/>
+</p>
+<p>
+<pb n="21a"/>
+</p>
+<p>
+<pb n="22a"/>
+</p>
+<p>
+<pb n="23a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　　　　　　　右不杖期<lb/>
+<pb n="23b"/>
+　儀禮二十二條<lb/>
+　注疏十條<hi>為姑在室為姊妹在室為女子在室三條附見姑姊妹女子子適人無主者小注</hi>
+　唐律一條<lb/>
+　宋制三條<lb/>
+　明制四條<hi>為適長子并入為衆子下</hi>
+<pb n="24a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　　　　　　　右齊衰五月<lb/>
+　　　　　　　　唐制二條<lb/>
+<pb n="25a"/>
+</p>
+<p>
+<pb n="26a"/>
+</p>
+<p>
+<pb n="27a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="27b"/>
+　　　　　　　右齊衰三月<lb/>
+　　　　　　　　儀禮一十一條<lb/>
+　　　　　　　　注䟽二條<lb/>
+　　　　　　　　開元禮一條<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　讀禮通考卷一<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

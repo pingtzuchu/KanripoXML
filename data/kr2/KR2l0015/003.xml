@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2l0015_WYG_003-1a"/>
+　　　多羅質郡王<hi>臣</hi>永瑢等奉<lb/>
+　勅修纂厯代職官表全書告成謹奉<lb/>
+　　表恭<lb/>
+　　進者㐲以<lb/>
+天祐命而樹之君式布亮工之典<lb/>
+　聖建邦而分之職聿昭熈績之經自雲紀龍紀鳥紀火<lb/>
+　　　紀以來代多因革惟汝翼汝為汝明汝聴之訓人<lb/>
+　　　奉憲章葢責實者必循其名而證今者貴求諸古<lb/>
+<pb n="KR2l0015_WYG_003-1b"/>
+　　　欽惟我<lb/>
+　皇上<lb/>
+　　道偹君師<lb/>
+　　治臻巍煥<lb/>
+　　綜萬㡬以兢業<lb/>
+　　咨百爾以弼諧慎乃憲省乃成一心正朝廷之本疇<lb/>
+　　　若工咨若采六事秉綱紀之原緬我<lb/>
+　　朝剏制顯庸監往古而立極繄<lb/>
+<pb n="KR2l0015_WYG_003-2a"/>
+列聖建官位事垂永世以重光八旗列而大告乎<lb/>
+武成三院興而肇敷乎<lb/>
+文治爰逮彌綸於六合實先澄叙夫九流凢貽諸奕世而<lb/>
+　　　丕為承皆鑒於前代之所以失時庸惇叙而宗藩<lb/>
+　　　鈐束之迹除奉揚<lb/>
+　絲綸而中書票擬之弊革用人由<lb/>
+　特簡而法不撓於廷推封事盡昌言而習不流於私訐<lb/>
+　　　著㑹讞覆奏為定制而一洗厰衛之灼薫領七司<lb/>
+<pb n="KR2l0015_WYG_003-2b"/>
+　　　三院以重臣而悉屏奄寺之竊弄至於典因時制<lb/>
+　　　事不前承伯克宰桑合舊藩新部而儋爵祿火器<lb/>
+　　　健鋭並列營超隊以著旂常駐防則布在雄疆肅<lb/>
+　　　如禁旅領直則置因延閣典重祕書其他内綱外<lb/>
+　　　維率以遵王之道遵王之路小亷大法俾之罔有不<lb/>
+　　　欽㒺有不臧斯則凛<lb/>
+聖神之作述以勵庶官亶惟仰<lb/>
+　睿智之照臨以迪允徳<lb/>
+<pb n="KR2l0015_WYG_003-3a"/>
+治既光於往古<lb/>
+訓實示乎周行乃者因畧錄之蒐羅即班聫而尋沂猥<lb/>
+　　以<lb/>
+鉅製<lb/>
+命及諸臣采表體於遷固之編考命官自唐虞之冊累<lb/>
+　　代則相銜而下異同損益之畢陳分曹則就列以<lb/>
+　　班詳畧是非之互見或稱名惟舊而考聴多殊或<lb/>
+　　班爵由今而尋源不别或臚諸往牒而功令從芟<lb/>
+<pb n="KR2l0015_WYG_003-3b"/>
+　　或徴自新銓而史策未偹莫不衷諸典要觀其㑹<lb/>
+　　通上本六經旁叅<graphic n="KR1315" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1315.png" mimeType="image/png"/>氏繁則連牘簡或片言期於<lb/>
+　　凖我<lb/>
+　朝之羙偹以等百王足使昭有位之箴規以<lb/>
+詔後世發凢起例早欽體要之<lb/>
+親宣正舛訂譌復荷精㣲之頻<lb/>
+示迭更寒燠載蕆簡編粤稽書載官儀剏由應劭迨六<lb/>
+　　典百司之作遞有鋪張越具員分紀之編非無纂<lb/>
+<pb n="KR2l0015_WYG_003-4a"/>
+　　述集賢承㫖每偏舉其頭銜官制職林或拘限於<lb/>
+　　時代惟樂安任戩氏頗及沿革之大凡而官品纂<lb/>
+　　要書未致古今之詳偹方斯<lb/>
+秘帙譬若椎輪葢惟<lb/>
+聖人著作之大成永為萬古臣鄰之極則豈徒誇其博<lb/>
+　　綜軼彼類林而已哉<hi>臣</hi>等忝預編摩竊慚蕪陋稽<lb/>
+　　古即所以奉職恒虞鉛槧多踈顧名因藉以誦<lb/>
+　　箴敢不氷淵共凛樹三宅三俊之範<lb/>
+<pb n="KR2l0015_WYG_003-4b"/>
+敷文命以裕無疆宏五服五章之謨際<lb/>
+　昌期而曕有耀<hi>臣</hi>等無任瞻<lb/>
+天仰<lb/>
+聖踴躍欣抃之至謹奉<lb/>
+　表恭<lb/>
+　進以<lb/>
+聞<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

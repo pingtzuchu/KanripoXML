@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>中原音韻巻上</head> <lb/>
+    <p>
+<pb n="KR4j0090_WYG_001-1a"/>
+欽定四庫全書<lb/>
+　中原音韻巻上<lb/>
+　　　　　　　　　　　　元　周徳清　撰<lb/>
+東鐘<lb/>
+　平聲<lb/>
+　　隂<lb/>
+東冬　鍾鐘中忠𠂻終　通蓪　松嵩　冲充衝舂忡<lb/>
+摏艟䂌翀种　邕嗈雍　空悾　宗椶騣　風楓豐封<lb/>
+<pb n="KR4j0090_WYG_001-1b"/>
+葑峯鋒烽丰蜂　鬆愡　匆葱聰驄囱<hi>烟突</hi>　蹤縱樅<lb/>
+穹芎傾　工功攻公蚣弓躬恭宮龔供肱觥　烘叿<hi>人聲</hi>
+轟薨　凶兇胷洶兄　翁<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>癰廱<hi>碎</hi>壅泓　崩繃　烹<lb/>
+　　陽<lb/>
+同筒銅桐峒童僮橦瞳曈潼鼕　戎茙駥絨㲨茸　龍<lb/>
+隆癃窿　窮藭蛩卭笻　籠曨朧櫳瓏豅礱聾嚨　膿<lb/>
+農儂　濃穠醲　重蟲慵<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>崇　馮逢縫　叢䕺琮<lb/>
+熊雄　容溶蓉瑢鎔庸傭鄘鏞墉融榮　蒙濛朦矇甍<lb/>
+<pb n="KR4j0090_WYG_001-2a"/>
+盲瞢萌　紅谼虹哄鴻宏綋横嶸𢎞　蓬篷芃髼彭棚<lb/>
+鵬　從<lb/>
+　上聲<lb/>
+董懂　腫踵種冢　孔恐　桶統　汞嗊　隴壠　篢<lb/>
+攏　洶詾　聳竦　拱鞏珙　勇擁涌踊悀永俑　蠓<lb/>
+懵猛艋蜢　總　捧　寵　冗　噥　唪<lb/>
+　去聲<lb/>
+洞動棟凍蝀　鳳奉諷縫　貢共供　宋送　弄哢礱<lb/>
+<pb n="KR4j0090_WYG_001-2b"/>
+　控空鞚　誦訟頌　甕<graphic n="KR1604" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1604.png" mimeType="image/png"/>
+                    <graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>　痛慟　衆中仲重種<lb/>
+　縱從粽　夢孟　用詠瑩　哄閧横　綜　迸　銃<lb/>
+江陽<lb/>
+　平聲<lb/>
+　　隂<lb/>
+姜江杠釭薑疆韁䗵僵　邦挷幫　桑喪　雙艭霜孀<lb/>
+鸘驦　章漳獐樟璋彰麞張　商傷殤觴湯<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>　漿螿<lb/>
+將　莊粧裝樁　岡剛鋼綱缸扛玒亢　康糠　光胱<lb/>
+<pb n="KR4j0090_WYG_001-3a"/>
+　當璫簹襠鐺　荒<graphic n="KR3444" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3444.png" mimeType="image/png"/>肓　香鄉　鎊滂䨦　腔谾蜣<lb/>
+羌　鴦央殃秧泱　方芳枋妨坊肪　昌猖娼菖閶<lb/>
+湯鏜　湘廂相箱襄瓖　槍鏘蹡　匡筐眶　汪尫<lb/>
+倉蒼　牎瘡　贜臧<lb/>
+　　陽<lb/>
+陽揚楊暘昜颺羊徉洋佯　忙茫邙芒鋩杗狵厖　粮<lb/>
+良綡涼輬梁粱量　穰欀瀼瓤　忘亡　郎榔廊螂稂<lb/>
+浪琅狼　杭行頏航　昻卭　床幢撞淙　傍旁房龐<lb/>
+<pb n="KR4j0090_WYG_001-3b"/>
+逄　房防　長萇膓塲常裳嘗償　唐榶塘糖堂棠<lb/>
+祥詳翔　牆檣嬙戕　黄璜簧艎蝗皇篁凰惶遑隍<lb/>
+藏　强　娘　降　王　狂　囊<lb/>
+　上聲<lb/>
+講港鏹　養痒鞅　蔣奬槳　兩魎　想鮝　蟒莽漭<lb/>
+　爽漺　響蠁享饗夯　敞氅昶　壤穰　舫倣放訪<lb/>
+昉　罔網輞　枉往　顙磉嗓　榜挷　倘帑　黨讜<lb/>
+　掌長　朗　謊恍　仰　廣　沆<hi>沆瀣</hi>　髒　强　搶<lb/>
+<pb n="KR4j0090_WYG_001-4a"/>
+　賞晌<lb/>
+　去聲<lb/>
+絳降洚虹糨強　象像相　亮諒量緉輛　瀁羕煬養<lb/>
+様怏䬬漾恙　狀壯撞　上尚餉　讓懹饟　帳脹漲<lb/>
+丈仗杖障瘴嶂　巷向項　匠將醬　唱倡暢悵鬯<lb/>
+創剏　望忘妄　旺王　放訪　蕩宕碭當擋　浪閬<lb/>
+　葬藏戅　謗傍蚌棒　炕亢抗　曠壙纊　晃<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+况貺　釀　仰　喪　胖　行　愴　誑　盎　戧<lb/>
+<pb n="KR4j0090_WYG_001-4b"/>
+鋼　盪湯<lb/>
+支思<lb/>
+　平聲<lb/>
+　　隂<lb/>
+支枝肢巵氏梔榰之芝脂胝　髭貲觜兹孳孜滋資咨<lb/>
+淄諮姿耔　眵<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>差　施詩師獅螄尸屍鳲蓍　斯<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+厮澌鷥颸思司私絲偲罳　雌<lb/>
+　　陽<lb/>
+<pb n="KR4j0090_WYG_001-5a"/>
+兒而洏　慈鶿磁兹餈茨疵玼茈　時<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>鰣匙　詞祠<lb/>
+辭辤<lb/>
+　上聲<lb/>
+紙砥厎㫖指止沚芷趾祉阯址徴咫　爾邇耳餌珥駬<lb/>
+　此玼跐泚　史駛使弛豕矢始屎<graphic n="KR2522" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2522.png" mimeType="image/png"/>　子紫姊梓<lb/>
+死　齒仔<lb/>
+　入聲作上聲<lb/>
+澁瑟<hi>音史</hi>塞<hi>音死</hi>
+<pb n="KR4j0090_WYG_001-5b"/>
+　去聲<lb/>
+是氏市柿侍士仕使示諡蒔恃事施嗜豉試弑筮視噬<lb/>
+　似兕賜姒已汜祀嗣飼笥耜涘俟寺食思四肆泗駟<lb/>
+　次刺剚　字漬牸自恣骴胔　志誌至　二貳餌<lb/>
+翅　厠<lb/>
+齊微<lb/>
+　平聲<lb/>
+　　隂<lb/>
+<pb n="KR4j0090_WYG_001-6a"/>
+機㡬磯璣譏肌飢笄朞箕基雞稽饑姬竒羈羇　歸圭<lb/>
+邽龜閨規　虀齊擠躋　雖荽綏睢尿　邸觝殫弤氐<lb/>
+底　妻凄萋悽棲　西犀嘶　灰揮暉輝翬麾徽虺<lb/>
+杯悲卑碑陂　追騅錐　威偎隈煨　非扉俳霏騑誹<lb/>
+菲妃飛　溪欺欹　希稀晞羲犧曦醯熹嘻僖熈　衣<lb/>
+依伊醫鷖漪猗臆　吹炊推　醅披邳丕呸胚䋔　魁<lb/>
+盔虧窺瑰奎　笞癡郗蚩媸螭鴟絺　崔催衰榱　紕<lb/>
+批鈚　堆䭔　箆鎞　知蜘　梯<lb/>
+<pb n="KR4j0090_WYG_001-6b"/>
+　　陽<lb/>
+㣲薇維惟　黎黧犂棃藜瓈離璃籬醨䍦离鸝驪麗狸<lb/>
+蜊釐<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>漓　泥尼臡　梅莓枚媒煤眉湄楣嵋麋縻醿<lb/>
+塺　雷檑纍罍羸　隋隨　齊臍　回徊迴　圍闈韋<lb/>
+幃違嵬巍危桅為　肥淝　竒騎琦祺萁期旗旂棊祈<lb/>
+祁其畿祇耆鬐茋岐麒琪蘄　奚兮畦携蹊　移扅兒<lb/>
+鯢霓倪猊輗姨夷荑疑嶷鷖沂宜儀䴊彛貽怡𣅿飴圮<lb/>
+頤遺蛇　啼蹄提題醍綈稊　鎚垂陲　裴陪培皮<lb/>
+<pb n="KR4j0090_WYG_001-7a"/>
+葵馗䕫逵　池馳遲墀篪持　頽魋　脾疲比毗羆<lb/>
+迷䌤彌　誰　摧　蕤<lb/>
+　入聲作平聲<lb/>
+　　陽<hi>後同</hi>
+實十什石射食蝕拾　直值姪秩擲　疾嫉葺集寂<lb/>
+夕昔席襲　荻狄敵逖笛糴　及極　惑　逼　劾<lb/>
+賊<lb/>
+　去聲作平聲<lb/>
+<pb n="KR4j0090_WYG_001-7b"/>
+　　陽<lb/>
+鼻<lb/>
+　上聲<lb/>
+迤婍　尾亹　倚椅錡扆偯蟻矣已以苡顗擬艤　凂美<lb/>
+　蟣幾已几麂紀　耻侈　捶箠　痞否嚭圯秕　鬼<lb/>
+簋癸軌詭晷宄　悔賄毁卉譭燬虺　妣比匕　禮醴<lb/>
+里裏理鯉娌李蠡履　濟擠　底邸詆柢胝　洗壐枲<lb/>
+徙屣　起棨啟綮綺杞豈　米弭眯　伱旎襧　彼鄙<lb/>
+<pb n="KR4j0090_WYG_001-8a"/>
+　喜蟢　委猥唯隗葦偉　壘磊儡蕾　體　腿　蕋<lb/>
+　觜　髓　水　餒<lb/>
+　入聲作上聲<lb/>
+質隻炙織隲汁只　七戚漆刺　匹闢僻　吉擊激極<lb/>
+棘㦸急汲給　筆北　失室　適拭軾飾釋濕奭　唧<lb/>
+積稷績跡脊鯽　鞞畢蹕蓽碧壁璧甓　昔惜息錫淅<lb/>
+　尺赤勅喫叱鶒　的靮嫡滴　徳得　滌剔踢　吸<lb/>
+隙翕檄覡　乞泣訖　國　黒　一<lb/>
+<pb n="KR4j0090_WYG_001-8b"/>
+　去聲<lb/>
+未味　胃蝟渭謂<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>尉慰緯穢衛魏畏餧位飫　貴櫃<lb/>
+餽愧悸桂檜膾鱠跪獪繪　吠沸費肺廢芾　㑹悔誨<lb/>
+諱惠蕙慧潰闠　翠脆顇倅萃粹淬悴　異裔義議誼<lb/>
+毅藝易翳瘞勩枻曵翳詣饐刈乂意劓懿　氣噐棄憇<lb/>
+契褉　霽濟祭際劑　替剃涕嚏　帝諦締弟娣第睇<lb/>
+地逓蔕棣　背貝狽焙倍婢備避軰被臂幣譬髲詖帔<lb/>
+　利痢莉俐例唳戾洌離𨽻癘莅荔詈劙麗　砌妻<lb/>
+<pb n="KR4j0090_WYG_001-9a"/>
+細壻　罪醉最　對隊碓兌　計記寄繫繼妓忮技髻<lb/>
+偈忌季縊騎既驥兾薊鱖　閉蔽畀笓斃嬖庇比秘陛<lb/>
+賁　謎汆　睡稅說瑞　退蛻　嵗碎粹祟䆳繸穗燧<lb/>
+隧遂彗　墜贅綴縋懟　製制置滯雉稚致彘治智幟熾<lb/>
+質　世勢逝誓　淚累酹擂類纇誄耒磑　配佩珮<lb/>
+霈沛悖誖　妹昧媚魅袂瑁寐　戲系係　簣蕢揆<lb/>
+殢膩泥　蚋芮銳蜹　吠喙　内<lb/>
+　入聲作去聲<lb/>
+<pb n="KR4j0090_WYG_001-9b"/>
+日入　覔蜜　墨宻　立粒笠厯歴櫪瀝<graphic n="KR0659" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0659.png" mimeType="image/png"/>靂皪力栗<lb/>
+　逸易場譯驛益溢鎰鷁液腋掖疼役一佾泆逆乙邑<lb/>
+憶揖射翊翼　勒肋　劇　匿<lb/>
+魚模<lb/>
+　平聲<lb/>
+　　隂<lb/>
+居裾琚鶋車駒拘俱　諸猪豬朱姝株蛛誅珠邾侏<lb/>
+蘇酥㢝甦　逋餔晡　樞樗攄　粗芻　梳蔬䟽踈<lb/>
+<pb n="KR4j0090_WYG_001-10a"/>
+虚墟噓㠊歔吁　蛆趍　疽沮趄苴蛆睢　孤姑辜鴣酤<lb/>
+沽蛄菰䱄　枯刳　迂紆扵　嗚汚烏　書舒輸紓<lb/>
+區軀驅嶇貙　須嬃鬚胥醑需繻　膚夫鈇玞趺敷麩<lb/>
+孚鄜莩枹桴郛　呼　初　都　租<lb/>
+　　陽<lb/>
+廬閭驢臚簍　如茹鴽儒薷襦孺嚅濡　無蕪巫誣<lb/>
+模謨摸謀　徒圗菟屠荼途瘏駼塗　奴孥砮駑盧<lb/>
+蘆顱鱸轤爐櫨瀘纑艫　魚漁虞余餘竽予畬雩與輿<lb/>
+<pb n="KR4j0090_WYG_001-10b"/>
+歈璵舁妤歟譽愚孟隅禺㬰榆愉俞覦毹瑜窬逾渝閾<lb/>
+於諛萸　吾浯鋙蜈㻍吴梧娱鼯　雛鋤　殊茱銖洙<lb/>
+　渠蕖磲籧劬瞿衢臞　除蜍滁躇厨㡡蹰儲　扶夫<lb/>
+蚨符芙鳬浮　蒲脯酺蒱　胡糊湖醐瑚鶘壺狐弧乎<lb/>
+　殂徂　徐<lb/>
+　入聲作平聲<lb/>
+獨讀牘瀆犢毒突纛　復佛伏鵩<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>服　鵠鶻斛槲<lb/>
+贖屬述秫術术　俗續　逐軸　族鏃　僕　局　淑<lb/>
+<pb n="KR4j0090_WYG_001-11a"/>
+蜀孰熟塾<lb/>
+　上聲<lb/>
+語雨與圄圉齬敔禦愈羽宇禹庾　呂侶旅膂縷僂<lb/>
+主煮拄渚麈墅翥　汝乳　鼠黍暑　阻爼　杵楮緒<lb/>
+處杼　數所　祖組　武舞鵡侮廡　土吐　魯櫓虜<lb/>
+鹵滷　覩堵賭　古罟詁沽牯蠱估盬鼔瞽股羖賈<lb/>
+五午仵忤塢鄔　虎滸　補浦圃鵏　普溥譜　甫斧<lb/>
+撫黼脯府俯腑父否　母某牡姥畝　楚礎憷　舉莒<lb/>
+<pb n="KR4j0090_WYG_001-11b"/>
+矩櫸　弩努　許詡　取　苦　咀　女　嶼　傴去<lb/>
+　入聲作上聲<lb/>
+谷榖轂骨　蔌縮謖速　復福幅蝠腹覆拂　卜不<lb/>
+菊踘局<hi>廷</hi>　笏忽　築燭粥竹　粟宿　曲麯屈<hi>仲</hi>
+哭窟酷　出黜畜　叔菽　督篤　暴撲　觸束　簇<lb/>
+　足　促　秃　卒　蹙　屋沃兀<lb/>
+　去聲<lb/>
+御馭遇嫗裕諭芋譽預豫　慮濾屢　鋸懼句據詎巨<lb/>
+<pb n="KR4j0090_WYG_001-12a"/>
+拒秬距炬苣踞屨絇具　恕庶樹戍豎署曙　覷趣娶<lb/>
+　注㴻住著柱註鑄馵炷駐紵苧貯竚　數䟽　絮序<lb/>
+叙緒　孺茹　杜妬肚渡鍍斁度蠧赴父釜輔付賦傅<lb/>
+富仆鮒賻訃拊婦附阜負　户扈䕶瓠互戽頀岵怙<lb/>
+務霧鶩戊　素訴塑遡泝嗉　暮慕墓募　路潞鷺輅<lb/>
+露賂　故錮固顧雇　誤悞悟寤惡汙　布怖佈部簿<lb/>
+哺捕步　醋措錯　做祚胙詛　兎吐　怒　鋪　處<lb/>
+　去　聚　助<lb/>
+<pb n="KR4j0090_WYG_001-12b"/>
+　入聲作去聲<lb/>
+禄鹿漉麓　木沐穆睦沒牧目鶩　録籙緑醁陸戮律<lb/>
+　物勿　辱褥入　玉獄欲浴郁育鵒　訥<lb/>
+皆來<lb/>
+　平聲<lb/>
+　　隂<lb/>
+皆堦階喈街偕稭楷　該垓荄陔　哉栽災　釵差<lb/>
+台胎駘咍邰　哀挨唉　猜　挨　衰　腮　歪　開<lb/>
+<pb n="KR4j0090_WYG_001-13a"/>
+揩　齋　乖　篩　揣<lb/>
+　　陽<lb/>
+来莱騋　鞋諧骸　排牌<graphic n="KR1097" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1097.png" mimeType="image/png"/>俾　懐淮槐<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>瀤　埋霾<lb/>
+　騃皚　孩頦　祡柴豺儕　崖厓捱　才材財裁纔<lb/>
+　臺薹擡儓苔炱籉　能<lb/>
+　入聲作平聲<lb/>
+白帛舶　宅<graphic n="KR3090" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3090.png" mimeType="image/png"/>澤擇　畫劃<lb/>
+　上聲<lb/>
+<pb n="KR4j0090_WYG_001-13b"/>
+海醢靆詒紿　駭蟹　宰載　采彩採寀綵　靄藹乃<lb/>
+毒　奶乃　蒯拐夬　凱鎧塏　揣　擺　矮　解<lb/>
+楷　買　改<lb/>
+　入聲作上聲<lb/>
+拍珀魄　策册栅測跚　伯百栢廹擘檗　骼革隔格<lb/>
+　客刻　責幘摘謫側窄仄昃簀迮　色穡索　摑<lb/>
+摔　嚇　則<lb/>
+　去聲<lb/>
+<pb n="KR4j0090_WYG_001-14a"/>
+懈械薤觧獬　寨豸瘵債蠆眦　態泰太汰　葢丐<lb/>
+艾愛噫餲　捱隘阨搤　柰奈耐鼐　害亥妎　帶戴<lb/>
+怠迨待代袋大黛岱　戒誡廨觧界介芥疥届玠犗恝<lb/>
+　外瞶　快噲塊　在再載　賣邁　賴籟瀨賚癩<lb/>
+拜湃敗<graphic n="KR0629" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0629.png" mimeType="image/png"/>稗　菜蔡　曬灑煞鎩　賽塞　怪　壊<lb/>
+慨　𣲖　帥率　瀣<lb/>
+　入聲作去聲<lb/>
+麥貊陌驀脉　額厄峉䩹　搦<lb/>
+<pb n="KR4j0090_WYG_001-14b"/>
+真文<lb/>
+　平聲<lb/>
+　　隂<lb/>
+分紛芬氛汾　昏惛婚葷閽　因姻茵湮殷闉　申紳<lb/>
+伸身　嗔瞋　春椿　詢荀　吞　暾　諄迍　逡皴<lb/>
+　根跟　欣忻昕　氲煴　真珍振甄　新薪辛　賓<lb/>
+濵鑌彬　坤髠　君麏軍皸均鈞　榛臻　莘詵　薰<lb/>
+醺勲曛燻　鯤鵾裩昆　温瘟　孫飡蓀猻　尊樽<lb/>
+<pb n="KR4j0090_WYG_001-15a"/>
+敦墩燉　奔賁犇　巾斤筋　村　親　遵　恩　噴<lb/>
+　哏　津<lb/>
+　　陽<lb/>
+隣燐鱗磷麟粼轔　貧瀕頻蘋顰嚬　民珉緡旻　人<lb/>
+仁　倫綸掄輪淪　裙羣　勤懃芹　門捫　論崙<lb/>
+文紋聞蚊　銀誾齦垠寅夤嚚鄞　盆湓　陳臣麈娠<lb/>
+辰晨宸　秦<graphic n="KR0793" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0793.png" mimeType="image/png"/>　唇蓴淳純醇錞鶉　廵旬馴循　雲<lb/>
+芸云紜耘勻員<hi>伍員人名</hi>筠　墳焚棼　魂渾　豚屯飩臀<lb/>
+<pb n="KR4j0090_WYG_001-15b"/>
+　神　存蹲　痕　紉<lb/>
+　上聲<lb/>
+軫疹診稹　肯懇墾齦　𦂳謹槿巹瑾　隐引蚓尹<lb/>
+閔憫泯愍敏　准凖　刎吻　筍隼　允殞隕狁　本<lb/>
+畚　閫壼<graphic n="KR3501" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3501.png" mimeType="image/png"/>悃　窘囷　哂蜃　牝品　狠　不　忍<lb/>
+　盾　樽　損　蠢　忖　粉　穏　衮　瞬　儘<lb/>
+　去聲<lb/>
+震陣振賑鎮　信訊迅贐燼　刃訒仞認　吝悋藺磷<lb/>
+<pb n="KR4j0090_WYG_001-16a"/>
+　鬢殯臏　腎慎　醖愠運藴惲暈韻　盡晉進璡<lb/>
+忿分糞奮　近覲　襯齔　印孕　峻浚殉噀　遜巽<lb/>
+　俊駿　舜順　閏潤　問紊　頓囤鈍遁盾沌　悶<lb/>
+懣　逩倴　訓　郡　困　噴　釁　論　混　寸<lb/>
+恨　嫩　褪　揾諢　趂疢<lb/>
+寒山<lb/>
+　平聲<lb/>
+　　隂<lb/>
+<pb n="KR4j0090_WYG_001-16b"/>
+山删潸　丹單殫鄲簞　干竿肝玕乾　安鞍　姦奸<lb/>
+間艱菅　刋看　関綸鰥擐　擐拴　斑班般扳頒<lb/>
+彎灣　灘㰙　畨蕃翻轓旙藩反　珊跚　攀　慳<lb/>
+赸　餐　跧　殷<lb/>
+　　陽<lb/>
+寒邯韓汗翰　闌蘭欄斕襕攔　還環鬟寰闤圜鐶<lb/>
+殘戔　閑鷴<graphic n="KR0146" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0146.png" mimeType="image/png"/>　壇檀彈　煩繁膰礬蠜帆樊凡　難<lb/>
+　蠻　顔　潺　頑<lb/>
+<pb n="KR4j0090_WYG_001-17a"/>
+　上聲<lb/>
+反返坂　散傘糤　晩挽　板鈑　簡揀　産鏟剗<lb/>
+癉亶　赶稈簳　坦袒　罕　侃　懶　䟎　綰　赧<lb/>
+　盞琖　眼<lb/>
+　去聲<lb/>
+旱悍銲漢翰瀚汗鼾骭　旦誕嘽彈憚但　萬蔓曼<lb/>
+嘆炭　案按岸犴旰閈喭　幹榦　粲燦璨　棧綻䋎<lb/>
+盼襻　譔饌　渲彇　慢謾嫚　慣丱摜　贊讚灒瓚酇<lb/>
+<pb n="KR4j0090_WYG_001-17b"/>
+　患幻宦擐豢　間澗諫覸　訕疝汕　辦瓣扮絆<lb/>
+飯販畈範泛范犯　限䦘莧　雁贋晏鷃　看　爛<lb/>
+簒　散　難　腕<lb/>
+桓歡<lb/>
+　平聲<lb/>
+　　隂<lb/>
+官冠棺觀　搬般　懽讙驩貛獾　潘拚　端耑　剜<lb/>
+豌蜿　酸狻　寛　鑚　湍　攛<lb/>
+<pb n="KR4j0090_WYG_001-18a"/>
+　　陽<lb/>
+鸞鑾巒欒灤圞　瞞謾縵漫鞔饅<graphic n="KR1998" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1998.png" mimeType="image/png"/>鏝　桓綄　丸刓<lb/>
+蚖綄紈完瓛岏　圑搏溥愽　盤槃瘢磐䰉般鞶媻磻<lb/>
+蟠胖弁幋　攅<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+　上聲<lb/>
+館管痯琯脘　纂纉<graphic n="KR1483" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1483.png" mimeType="image/png"/>鄼　欵　盥澣　滿懣　暖餪<lb/>
+　椀　疃　卵　短<lb/>
+　去聲<lb/>
+<pb n="KR4j0090_WYG_001-18b"/>
+喚換煥渙緩逭奐　翫玩腕惋　鏝幔漫墁　竄㸑攛<lb/>
+躥　斷鍛段　筭蒜　判拚　貫冠觀灌祼瓘鸛　半<lb/>
+伴泮沜畔絆　鑚　亂　彖　愞<lb/>
+先天<lb/>
+　平聲<lb/>
+　　隂<lb/>
+先仙蹮鮮　煎湔箋韉濺籛　堅肩甄　顛瘨巔　䳌<lb/>
+涓娟蠲　邉籩編鞭鯿　喧暄萱塤諠　氈鸇鱣饘邅<lb/>
+<pb n="KR4j0090_WYG_001-19a"/>
+旃栴　羶扇煽　專磚　千阡芊遷韆　軒掀袄　烟<lb/>
+燕胭咽嫣　牽愆褰騫　篇扁蹁偏翩　淵寃宛鵷鴛<lb/>
+蜿　痊詮筌銓悛朘荃　宣揎瑄　川穿　圏　天<lb/>
+鐫<lb/>
+　　陽<lb/>
+連蓮憐　眠綿　然燃　廛躔纒禪蟬　前錢　田畋<lb/>
+闐填鈿　賢絃弦舷懸　𤣥　延筵鋋埏蜒縁妍言研<lb/>
+焉沿　乾䖍　元黿圓員捐園圜袁猿轅原嫄源垣鉛<lb/>
+<pb n="KR4j0090_WYG_001-19b"/>
+鳶湲援　全泉　旋還璇　船傳椽　拳顴權鬈　胼<lb/>
+駢軿便　聯攣　年　涎<lb/>
+　上聲<lb/>
+逺阮苑畹　兖偃演堰衍鼴　巻捲　鮮跣洗銑毨筅<lb/>
+獮蘚癬　腆殄沴　䮿蹇繭筧挸<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>　剪翦　撚輾碾<lb/>
+讞　輦璉　臠孌　囀轉　貶扁匾艑緶　沔湎黽免<lb/>
+冕勉俛眄　喘舛　闡蕆　典　顯　犬　淺　展<lb/>
+遣　吮　軟　選　諞<lb/>
+<pb n="KR4j0090_WYG_001-20a"/>
+　去聲<lb/>
+院願愿怨逺援　勸劵　見建健絹件　獻現憲縣<lb/>
+<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>眩絢　電殿甸佃鈿填闐靛奠　硯燕嚥讌諺堰縁<lb/>
+掾宴彦喭嬿　眷倦圏綣絹狷罥　面麫　片騙　變<lb/>
+便遍徧辨辮卞汴弁　線羨霰　釧穿串　扇善煽鱔<lb/>
+禪饍擅墠單　箭薦煎賤濺餞踐牮　鏇選旋漩　傳<lb/>
+囀轉篆　戰顫纒　譴牽　練煉楝　戀<lb/>
+蕭豪<lb/>
+<pb n="KR4j0090_WYG_001-20b"/>
+　平聲<lb/>
+　　隂<lb/>
+蕭簫瀟彇<graphic n="KR2976" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2976.png" mimeType="image/png"/>綃消銷宵霄硝蛸痟魈翛　刁貂琱彫鵰<lb/>
+凋　梟鴞囂枵驍歊　梢捎弰筲旓髾鞘颵　嬌驕<lb/>
+蕉焦椒燋憔　標幖臕鏕杓飇　交蛟咬郊茭鮫膠教<lb/>
+　包胞苞　嘲㧓啁　髙篙膏羔糕橰臯櫜鼛　刀叨<lb/>
+舠魛　騷搔艘臊繅颾　遭糟　鏖䥝爊　昭招朝<lb/>
+邀夭訞么喓腰<graphic n="KR4439" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4439.png" mimeType="image/png"/>要葽　飄漂　抛胞脬　絛掏饕叨<lb/>
+<pb n="KR4j0090_WYG_001-21a"/>
+滔韜慆　趫橇　哮虓烋嗃詨　敲磽　抄䜈　㘭凹<lb/>
+蒿薅　澆　褒　挑　超　鍬　操<lb/>
+　　陽<lb/>
+豪毫號濠<graphic n="KR1485" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1485.png" mimeType="image/png"/>　寮遼僚鷯憀聊　饒橈蕘　苗描緢<lb/>
+毛芼旄茅蝥猫髦　猱㺜鐃呶怓撓譊　牢勞轑澇醪<lb/>
+撈　迢髫蜩調條佻跳　潮朝韶鼂　遥揺謡瑶颻窑<lb/>
+堯陶姚嶢　樵瞧譙　鼇<graphic n="KR1722" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1722.png" mimeType="image/png"/>嗷厫敖璈聱獒驁嚻遨<graphic n="KR1582" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1582.png" mimeType="image/png"/>
+謷　喬蕎橋僑翹　爻肴淆殽　袍炮跑鞄匏咆庖<lb/>
+<pb n="KR4j0090_WYG_001-21b"/>
+桃逃咷鼗陶萄綯醄淘濤檮　曹漕槽嘈螬　瓢薸<lb/>
+巢漅<lb/>
+　入聲作平聲<lb/>
+濁濯鐲擢　鐸度踱　薄箔泊博　學鷽　縳　鶴涸<lb/>
+　鑿　鑊　著　芍杓<lb/>
+　上聲<lb/>
+小篠謏　皎繳矯橋　裊鳥嫋褭　了瞭燎蓼　杳夭<lb/>
+殀舀　遶繞嬈擾　眇渺杪藐淼　悄愀　寳保堡褓<lb/>
+<pb n="KR4j0090_WYG_001-22a"/>
+葆　夘昴　狡攪鉸姣茭絞　老姥獠潦<graphic n="KR2176" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2176.png" mimeType="image/png"/>橑　腦惱<lb/>
+碯㛴　掃嫂　殍漂僄剽勡　早棗澡藻蚤璪　倒島<lb/>
+搗禱　杲藁縞鎬鄗槁　襖懊媪　考栲　挑窕　沼<lb/>
+　少　表　巧　曉　飽　爪　炒　討　草　好<lb/>
+撓　齩　稍　剖　缶<lb/>
+　入聲作上聲<lb/>
+角覺脚桷　捉卓琢　斫酌繳灼　爍鑠㜰　鵲雀趞<lb/>
+　託拓槖魄飥柝　䌇索<graphic n="KR2021" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2021.png" mimeType="image/png"/>　郭廓　朔矟　剥駁<lb/>
+<pb n="KR4j0090_WYG_001-22b"/>
+爵　削　柞作糳　錯　逪　閣各　壑熇　綽婥<lb/>
+謔　戳㮶<lb/>
+　去聲<lb/>
+笑嘯肖鞘　糶眺跳　釣吊窵調掉　豹爆瀑　抱報<lb/>
+暴鮑鞄䛌　竈皂造漕懆躁　料鐐廖<graphic n="KR3348" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3348.png" mimeType="image/png"/>療　傲奡鏊<lb/>
+　趙兆照旐詔召肇　少紹邵燒　號皓好昊皥耗浩<lb/>
+顥灝　道翿纛燾盜導悼蹈稻到倒　曜耀<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>要鷂<lb/>
+呌轎嶠　醮噍　糙操造懆　俏峭誚　俵鰾醥　孝<lb/>
+<pb n="KR4j0090_WYG_001-23a"/>
+効俲校　窖校教覺珓鉸較酵徼　罩笊棹　拗靿樂<lb/>
+凹　貌冒帽耄眊茂　砲泡　告誥郜　澇勞嫪　噪<lb/>
+燥譟掃　妙廟　閙淖　奥懊澳　鈔　竅　溺　哨<lb/>
+覆<lb/>
+　入聲作去聲<lb/>
+岳樂藥約躍鑰瀹　掿諾　未幕漠寞莫沫　落絡烙<lb/>
+洛酪樂珞　蕚鶚鰐惡愕　弱蒻箬　略掠　虐瘧<lb/>
+歌戈<lb/>
+<pb n="KR4j0090_WYG_001-23b"/>
+　平聲<lb/>
+　　隂<lb/>
+歌哥柯牁　科蝌窠　軻珂　戈過鍋　莎簑唆睃梭<lb/>
+娑挲　磋瑳蹉瘥鹺搓　他拖佗詑　阿疴　窩渦倭<lb/>
+踒　坡頗　波玻嶓番　呵訶　多　麽<lb/>
+　　陽<lb/>
+羅蘿籮儸囉鑼螺騾[泳-永+羅]欏蠡<graphic n="KR1995" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1995.png" mimeType="image/png"/>　摩磨魔劘<graphic n="KR2168" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2168.png" mimeType="image/png"/>　梛那<lb/>
+挼儺　禾和　何河荷苛渮　駝紽迱陀跎<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>酡沱鼉<lb/>
+<pb n="KR4j0090_WYG_001-24a"/>
+䭾　矬<graphic n="KR1237" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1237.png" mimeType="image/png"/>　哦蛾娥峨峩鵝俄　婆皤鄱膰　訛鈋<lb/>
+　入聲作平聲<lb/>
+合盒鶴盍　䟦魃　縳佛　活鑊　薄箔勃泊渤　鐸<lb/>
+度　濁濯鐲　學　鑿　奪　著　杓<lb/>
+　上聲<lb/>
+鎖瑣䵀　果裹蜾　裸蠃攞夥㦬　舸哿　朶<graphic n="KR1876" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1876.png" mimeType="image/png"/>軃跢<lb/>
+鬌　娜那　荷㰤　可坷軻　頗叵　妸　跛簸　我<lb/>
+　左　妥　火　顆　嬷　脞<lb/>
+<pb n="KR4j0090_WYG_001-24b"/>
+　入聲作上聲<lb/>
+葛割鴿閣蛤　鉢撥䟦　潑粕鏺　聒括　渴<graphic n="KR0146" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0146.png" mimeType="image/png"/>　闊<lb/>
+　撮　掇　脫　抹<lb/>
+　去聲<lb/>
+賀荷<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>　佐左坐座　舵墮<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>惰刴垜大䭾癉　銼挫<lb/>
+剉莝磋　禍貨和　邏囉摞　簸播譒　磨麽　卧涴<lb/>
+　糯懦那柰　箇个　餓　些　過　課　唾　破<lb/>
+嗑<lb/>
+<pb n="KR4j0090_WYG_001-25a"/>
+　入聲作去聲<lb/>
+岳樂藥約躍鑰　幕末沫莫寞　諾掿　若弱蒻　落<lb/>
+洛絡酪樂烙　蕚鶚鰐堊惡鄂　略掠　虐瘧<lb/>
+家麻<lb/>
+　平聲<lb/>
+　　隂<lb/>
+家加跏珈笳枷袈迦痂葭豭麚佳嘉　巴疤笆豝芭<lb/>
+蛙洼窪哇媧蝸　沙砂紗鯊裟　查楂蹅吒　撾抓髽<lb/>
+<pb n="KR4j0090_WYG_001-25b"/>
+　鴉了呀　义杈靫差艖鎈　誇夸　蝦　葩　花<lb/>
+𤓰<lb/>
+　　陽<lb/>
+麻蟆痳犘　譁划華驊　牙芽谺涯衙㝞　霞遐瑕<lb/>
+琶杷爬　茶槎搽　拏　咱<lb/>
+　入聲作平聲<lb/>
+達撻踏㳫　滑猾　狎轄鎋俠峽洽匣袷　乏伐筏罰<lb/>
+　㧞　雜　閘<lb/>
+<pb n="KR4j0090_WYG_001-26a"/>
+　上聲<lb/>
+馬媽　雅瘂　洒傻<hi>傻俏不仁</hi>　賈假斚　寡咼剛　奼詫<lb/>
+　把　瓦　鮓　打　耍<lb/>
+　入聲作上聲<lb/>
+塔獺榻塌　殺霎　劄扎　咂匝　察挿鍤　法發髪<lb/>
+　甲胛夾　荅搭嗒<graphic n="KR2604" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2604.png" mimeType="image/png"/>　颯撒薩靸　笈　刮　瞎<lb/>
+八　恰掐<lb/>
+　去聲<lb/>
+<pb n="KR4j0090_WYG_001-26b"/>
+駕嫁稼價架假　凹<graphic n="KR2648" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2648.png" mimeType="image/png"/>　跨胯髁　亞迓訝砑婭　㲼<lb/>
+咤姹詫䰩<hi>釋醜</hi>　帕怕　詐乍榨棤　下芐夏嚇罅暇厦<lb/>
+化畫華鱯樺話　那　罷霸<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>靶壩鈀弝　卦掛　<graphic n="KR0146" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0146.png" mimeType="image/png"/>
+<hi>傍屋</hi>　大　罵<lb/>
+　入聲作去聲<lb/>
+臘蠟鑞拉糲辣　納衲　壓押鴨　抹　襪　刷<lb/>
+車遮<lb/>
+　平聲<lb/>
+<pb n="KR4j0090_WYG_001-27a"/>
+　　隂<lb/>
+嗟罝　奢賒　車　遮　爹　靴　些<lb/>
+　　陽<lb/>
+爺耶琊鎁呆　斜邪　蛇佘　倈　瘸<lb/>
+　入聲作平聲<lb/>
+協穴俠挾纈　傑竭碣　疊迭牒揲喋諜垤絰凸蝶跌<lb/>
+　鐝撅　折舌渉　㨗截睫　别　絶　㿱<lb/>
+　上聲<lb/>
+<pb n="KR4j0090_WYG_001-27b"/>
+野也冶　者赭　寫瀉　捨舎　惹若喏　撦哆　姐<lb/>
+　且<lb/>
+　入聲作上聲<lb/>
+屑薛紲泄媟䙝爕屧疶　切竊妾沏　結潔刼頰鋏莢<lb/>
+　怯挈篋客　節接楫癤　血歇嚇蝎　闕缺闋　玦<lb/>
+决訣譎蕨鴂　鐡餮帖貼　瞥撇　鼈别鱉　拙輟<lb/>
+轍撤澈掣　哲褶摺折浙　設攝灄　啜　雪　說<lb/>
+　去聲<lb/>
+<pb n="KR4j0090_WYG_001-28a"/>
+舍社射麝貰赦　謝缷榭瀉　夜射　柘鷓炙　蔗借<lb/>
+藉　趄　<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+　入聲作去聲<lb/>
+捏聶躡鑷囓臬蘖　㓕蔑蔑　拽噎謁葉燁　業鄴額<lb/>
+　裂冽獵鬛列　月恱說閱軏越鉞樾刖　熱　䙝<lb/>
+劣<lb/>
+庚青<lb/>
+　平聲<lb/>
+<pb n="KR4j0090_WYG_001-28b"/>
+　　隂<lb/>
+京麖庚鶊賡更粳羮畊驚荆經兢矜涇　精睛晶旌鶄<lb/>
+菁　生甥笙牲猩　筝争　丁釘玎仃　扄坰　征正<lb/>
+貞禎徴蒸烝　氷兵并　登簦㲪㽅燈　轟薨　憎曽<lb/>
+矰罾増　鐺錚棦浄撑瞠　稱秤頳檉蟶　英瑛鷹應<lb/>
+譍櫻嬰嚶膺鸚纓瓔縈　輕坑卿誙硜<graphic n="KR1698" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1698.png" mimeType="image/png"/>傾鏗　馨興<lb/>
+　青清鯖　聲升勝昇陞　汀㕔聽鞓䩠　星醒惺鯹<lb/>
+腥騂　崩繃　觥肱　甖　僧　亨　兄　泓　烹<lb/>
+<pb n="KR4j0090_WYG_001-29a"/>
+　　陽<lb/>
+平評萍枰慿馮凭屏瓶俜娉　明盟鳿名銘鳴𡨕溟暝<lb/>
+螟蓂　靈櫺醽<graphic n="KR0146" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0146.png" mimeType="image/png"/>令零苓伶聆鈴齡蛉泠瓴翎鴒陵淩<lb/>
+菱綾凌　鵬朋棚　楞稜　層曽　能獰　藤滕騰縢<lb/>
+謄疼　莖恒　盈嬴贏攍瀛塋螢營迎蠅凝　擎檠鯨<lb/>
+黥勍　行刑形邢桁衡鉶珩硎　情睛晴繒　亭停婷<lb/>
+廷庭蜓霆　瓊㷀惸　澄呈程酲成城宬誠盛承丞懲<lb/>
+乗塍　熒䁝　盲氓甍萌　横宏紘閎嶸鈜𢎞泓橙棖<lb/>
+<pb n="KR4j0090_WYG_001-29b"/>
+䟫　榮　寧　仍　繩　餳<lb/>
+　上聲<lb/>
+景儆璟擏骾鯁綆梗警境頸耿哽　頃檾　丙炳邴秉餅<lb/>
+屏　惺醒省㾪　影郢頴癭　省𤯝　礦鑛懭　<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>冋<lb/>
+　艋蜢　整拯　茗皿酩　騁逞　領嶺　鼎酊頂<lb/>
+艇挺誔町奵　冷　井　請　等　永　涬<lb/>
+　去聲<lb/>
+敬徑俓經鏡獍竟競勁更　暎應譍凝硬　慶<graphic n="KR1698" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1698.png" mimeType="image/png"/>磬謦<lb/>
+<pb n="KR4j0090_WYG_001-30a"/>
+罄　命暝　鄧凳嶝隥鐙磴　迥詗夐　倩請　諍挣<lb/>
+　正政鄭證　詠瑩　病並柄凭　令凌　聖賸勝乗<lb/>
+剰盛　性姓　娉聘　佞濘甯　净静穽甑靖凊圊<lb/>
+杏幸倖脛興行　稱秤　定錠矴釘訂飣　贈　聽<lb/>
+迸　孟　横　撐　亘<lb/>
+尤侯<lb/>
+　平聲<lb/>
+　　隂<lb/>
+<pb n="KR4j0090_WYG_001-30b"/>
+啾揫湫　鳩<graphic n="KR0848" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0848.png" mimeType="image/png"/>　搜颼　鄒諏鯫陬騶緅　休咻貅庥<lb/>
+　謳鷗漚甌歐區　鈎勾篝溝韝緱　兠<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>　秋鰍鞧<lb/>
+楸鞦鶖　憂幽優耰麀　脩修羞饈　抽瘳　周賙啁<lb/>
+週洲州舟輈　丘坵　偷媮鍮　篘搊　溲餿餿　彪<lb/>
+　收　齁　摳<lb/>
+　陽<lb/>
+尤蚰疣訧逰㳺蝣由油郵牛庮猷蘨輶猶繇蕕楢悠攸<lb/>
+　侯猴喉餱篌　劉留遛瘤榴鶹騮流旒　柔揉鍒蹂<lb/>
+<pb n="KR4j0090_WYG_001-31a"/>
+鞣　抔裒　繆矛眸鍪蟊牟麰侔　樓摟婁艛髏慺<lb/>
+囚泅　紬稠綢犫讎酬籌儔躊疇惆　求賕銶毬逑球<lb/>
+俅仇樛裘虬　酋遒　頭投骰　愁<lb/>
+　入聲作平聲<lb/>
+軸逐　熟<lb/>
+　上聲<lb/>
+有酉牖羑友誘莠黝　桞罶<graphic n="KR0146" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0146.png" mimeType="image/png"/>　杻狃紐鈕忸　丑醜<lb/>
+　九韭乆玖糾灸疚　首手守　叟䏂藪　斗枓蚪陡<lb/>
+<pb n="KR4j0090_WYG_001-31b"/>
+抖　狗垢茍耇枸　藕耦偶嘔毆　摟塿簍　肘箒酎<lb/>
+　朽　酒　拞　剖　吼　走　否　揉　口　<graphic n="KR3082" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3082.png" mimeType="image/png"/>
+<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+　入聲作上聲<lb/>
+竹燭粥　宿<lb/>
+　去聲<lb/>
+又右佑祐狖宥袖㓜囿侑　晝呪胄紂宙籀咮　臼舅<lb/>
+舊咎救柩廐究　受授綬夀獸首售狩　秀岫袖綉琇<lb/>
+<pb n="KR4j0090_WYG_001-32a"/>
+宿　𠻳潄　皺驟　溜霤留餾鎦瘤瀏窌　扣冦蔻<lb/>
+后逅候堠後厚　就鷲　豆脰竇鬭逗　搆遘媾購姤<lb/>
+彀詬勾　湊轃甃　漏陋鏤瘻　謬繆　臭　嗅　瘦<lb/>
+僽　耨　奏　透　貿　懋茂　復<lb/>
+　入聲作去聲<lb/>
+肉褥　六<lb/>
+侵尋<hi>閉口韻</hi>
+　平聲<lb/>
+<pb n="KR4j0090_WYG_001-32b"/>
+　　隂<lb/>
+針斟箴砧椹鱵瑊　金今衿襟禁　駸綅浸祲　深<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+　簮<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>　森槮參　琛賝郴　音瘖隂喑　心杺　欽<lb/>
+衾嶔　侵　歆<lb/>
+　　陽<lb/>
+林淋琳痳霖臨綝箖　壬任紝鵀　尋潯鱘鐔燖覃<lb/>
+吟淫崟婬霪蟫　琴芩禽檎擒噙　岑䳥鍖涔<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>　沉<lb/>
+霃鈂湛　忱煁<lb/>
+<pb n="KR4j0090_WYG_001-33a"/>
+　上聲<lb/>
+廪懔凛　稔䭃淰衽荏　審嬸沈瞫　錦噤　磣墋瘮<lb/>
+　枕　飲　您　怎　寢<lb/>
+　去聲<lb/>
+朕沈鴆枕　甚<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>　任衽絍姙　禁噤澿<graphic n="KR2313" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2313.png" mimeType="image/png"/>　䕃廕窨<lb/>
+飲恁　沁伈　浸䘲　臨淋　滲罧　䜟　譛　賃<lb/>
+啉　㖔<lb/>
+監咸<lb/>
+<pb n="KR4j0090_WYG_001-33b"/>
+　平聲<lb/>
+　　隂<lb/>
+菴庵鵪馣唵諳　擔聃儋耽湛酖躭　監緘椷　堪龕<lb/>
+戡弇　三鬖毶　甘柑疳泔　杉衫　貪探　參驂<lb/>
+憨酣　簮篸<graphic n="KR2512" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2512.png" mimeType="image/png"/>鐟　嵌　<graphic n="KR2154" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2154.png" mimeType="image/png"/>　詀<graphic n="KR3499" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3499.png" mimeType="image/png"/>　渰　攙　杉<lb/>
+　　陽<lb/>
+南諵喃楠男　咸鹹諴函銜㘅　婪爁燷藍籃嵐　覃<lb/>
+潭談餤譚燂藫曇痰　蠶慚　含涵邯　讒毚饞鑱劖<lb/>
+<pb n="KR4j0090_WYG_001-34a"/>
+巉　巖岩　喒<lb/>
+　上聲<lb/>
+感鱤<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>敢　覽攬欖爦　膽䃫紞　慘黲　揞晻馣<lb/>
+喊㺌　毯<graphic n="KR0941" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0941.png" mimeType="image/png"/>倓萏窞　减鹻　坎　砍　昝<graphic n="KR2228" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2228.png" mimeType="image/png"/>　俺<lb/>
+糝　黯　斬　腩<lb/>
+　去聲<lb/>
+勘磡　贑淦紺　憾撼頷琀莟唅　淡啖惔擔　轞檻<lb/>
+艦餡陷　濫<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>䌫<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>　瞰嵌闞　蘸站賺湛　鑑監<lb/>
+<pb n="KR4j0090_WYG_001-34b"/>
+暫鏨蔘揝　暗闇　三　探　渰　慘　懴　訕<lb/>
+廉纎<lb/>
+　平聲<lb/>
+　　隂<lb/>
+瞻詹占粘沾霑　兼縑鶼鰜　淹腌醃䅧閹猒懨　纎<lb/>
+銛憸暹<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>　僉槧籖　襜䪜覘　杴忺　尖漸殱　掂<lb/>
+　苫　謙　添<lb/>
+　　陽<lb/>
+<pb n="KR4j0090_WYG_001-35a"/>
+廉簾臁奩帘　鮎黏拈　撏燖　鈐鉗黔　蟾憺　䀋<lb/>
+炎閻簷嚴　甜恬　髯　濳　嫌<lb/>
+　上聲<lb/>
+掩魘靨淹奄晻崦琰剡　撿䭑　瞼斂臉　染苒冉<lb/>
+閃陜　忝舔　險譣　颭　㸃　諂<lb/>
+　去聲<lb/>
+艷焰厭饜驗灧釅<graphic n="KR2350" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2350.png" mimeType="image/png"/>　贍苫　欠芡歉　玷店㼭墊<lb/>
+瀲斂殮　念艌　劔儉　僣漸　塹茜㜞　染　占<lb/>
+<pb n="KR4j0090_WYG_001-35b"/>
+韂<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　中原音韻巻上<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_284-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選巻二百八十四<lb/>
+　　榕類<lb/>
+　　　五言律<lb/>
+　　　　南峯庵庵徑有古榕樹懸枝對峙宛若闗門<lb/>
+　　　　　　　　　　　　　　　　<hi>明</hi>傅汝舟<lb/>
+　古樹上危根依天巧作門雲飛不在外虎過定消魂野<lb/>
+　客逢迎少山僧出入尊朋逰坐不厭葉落滿金樽<lb/>
+<pb n="KR4h0141_WYG_284-1b"/>
+　　　七言絶句<lb/>
+　　　　柳州二月榕葉落盡偶題　　<hi>唐</hi>柳宗元<lb/>
+　宦情覊思共凄凄春半如秋意轉迷山城過雨百花盡<lb/>
+　榕葉滿庭鶯亂啼<lb/>
+　　　　榕谿閣<hi>山谷南遷維舟榕下</hi>　　　　　<hi>宋</hi>劉克莊<lb/>
+　榕聲竹影一谿風遷客曽來繫短蓬我與竹君俱晚出<lb/>
+　兩榕猶及識涪翁<lb/>
+御定佩文齋詠物詩選巻二百八十四<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

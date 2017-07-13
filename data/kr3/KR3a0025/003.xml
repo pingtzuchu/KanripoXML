@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3a0025_WYG_003-1a"/>
+通書述解跋<lb/>
+通書述解四十章直與太極圖説相表裏解其未易解<lb/>
+述其未殫述非元公誰能發太極之藴非靖修誰能發<lb/>
+元公之藴乎至論孔顏之樂元功令兩程尋所樂何事<lb/>
+畢竟無人説破靖修獨謂孔顏之樂者仁也非是樂這<lb/>
+仁仁申自有其樂耳且孔子安仁而樂在其中顏子不<lb/>
+違仁而不改其樂安仁者天然自有之仁而樂在其中<lb/>
+者天然自有之樂也不違仁者守之之仁而不改其樂<lb/>
+<pb n="KR3a0025_WYG_003-1b"/>
+者守之之樂也斯言至矣盡矣葢極至之理惟一仁仁<lb/>
+者不憂不憂自樂寧直孔顏羲皇堯舜禹湯文武總不<lb/>
+外是四十章述解無非發明太極一圖而仁字已括圖<lb/>
+之義矣孫竒逢識<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

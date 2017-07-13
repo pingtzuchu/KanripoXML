@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3f0026_WYG_038-1a"/>
+筆算自序<lb/>
+或問筆算西人之法耳子何規規焉曰非也自圖書啟<lb/>
+而文字興參兩倚數畢天下之能事六書九數皆原於<lb/>
+易非二事也古人算具以籌策縱横布列畧如筮法之<lb/>
+掛扐其字象形為祘是故其縱立者一而一其上横者<lb/>
+一而五珠盤之位實此權輿夫用蓍在立卦之後則籌<lb/>
+策之算必不在文字先矣是故籌策之未立形聲㸃畫<lb/>
+自足以用而籌策之所得又將紀之簡策以詔方來書<lb/>
+<pb n="KR3f0026_WYG_038-1b"/>
+與數之相須較然眀也近數百年間再變而為珠盤踵<lb/>
+事生新以趨簡易然觀九章中盈朒方程必列副位厥<lb/>
+用仍資筆札其源流不可想見與故謂筆算為西人獨<lb/>
+智者非也曰今所傳同文算指西鏡録等書亦唐九執<lb/>
+厯元明間回囘土盤之遺耳與中算固各有本末矣曰<lb/>
+是則然矣然安知九執以前不更有始之始者乎西人<lb/>
+之言厯也自多禄某以來二千年屢變而宻溯而上之<lb/>
+亦不能言其始於何人其為算也亦若是己矣夫古者<lb/>
+<pb n="KR3f0026_WYG_038-2a"/>
+聖人聲教洋溢無所不通南車記里之規隨重譯而四<lb/>
+逹我則失之彼則存之烏乎識其然烏乎識其不然耶<lb/>
+且夫治理者以理為歸治數者以數為斷數與理協中<lb/>
+西非殊是故禮可以求諸野官可以問諸郯必以其西<lb/>
+也而擯之取善之道不如是隘也况求之於古抑實有<lb/>
+相通之故乎曰然則子何以易衡而直曰旁行者西國<lb/>
+之書也天方國字自右而左歐邏巴字自左而右皆衡<lb/>
+列為行彼中文字盡然也彼之文字既衡故筆算亦横<lb/>
+<pb n="KR3f0026_WYG_038-2b"/>
+取其便於彼用耳非求異於我也吾之文字既直故筆算<lb/>
+宜直亦取其便於用耳非矜勝於彼也又何惑焉問者<lb/>
+以為然遂書其語為序康熙癸酉二月初吉宣城梅文<lb/>
+鼎撰<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0148_WYG_044-1a"/>
+欽定四庫全書<lb/>
+御選唐宋詩醇巻二十一<lb/>
+　　太原白居易詩三<lb/>
+　　　目録<lb/>
+　　病假中南亭閒望<lb/>
+　　官舍小亭閒望<lb/>
+　　和錢員外禁中夙興見示<lb/>
+　　松聲<lb/>
+<pb n="KR4h0148_WYG_044-1b"/>
+　　禁中寓直夢遊仙遊寺<lb/>
+　　秋山<lb/>
+　　題楊穎士西亭<lb/>
+　　秋遊原上<lb/>
+　　閒居<lb/>
+　　遊悟真寺詩<lb/>
+　　朝囘遊城南<lb/>
+　　舟行<lb/>
+<pb n="KR4h0148_WYG_044-2a"/>
+　　泛湓水<lb/>
+　　晚望<lb/>
+　　遊石門澗<lb/>
+　　香鑪峯下新置草堂即事咏懐題於石上<lb/>
+　　長慶二年七月自中書舍人出守杭州路次藍溪<lb/>
+　　作<lb/>
+　　自蜀江至洞庭湖口有感而作<lb/>
+　　立春後五日<lb/>
+<pb n="KR4h0148_WYG_044-2b"/>
+　　別元九後咏所懐<lb/>
+　　初與元九別後忽夢見之及寤而書適至兼寄桐<lb/>
+　　花詩悵然感懐因以此寄<lb/>
+　　秋江送客<lb/>
+　　溪中早春<lb/>
+　　渭村雨歸<lb/>
+　　寄微之三首<lb/>
+　　孟夏思渭村舊居寄舍弟<lb/>
+<pb n="KR4h0148_WYG_044-3a"/>
+　　南湖晚秋<lb/>
+　　早秋晚望兼呈韋侍御<lb/>
+　　司馬宅<lb/>
+　　寄王質夫<lb/>
+　　送客囘晚興<lb/>
+　　東樓竹<lb/>
+　　東坡種花二首<lb/>
+　　步東坡<lb/>
+<pb n="KR4h0148_WYG_044-3b"/>
+　　竹窗<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>無為集</head>
+    <p>
+<pb n="KR4d0058_WYG_000-1a"/>
+欽定四庫全書　　　　集部三<lb/>
+　無為集　　　　　　　　别集類二<hi>宋</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案無為集十五巻宋楊傑撰傑字次<lb/>
+　　　　公無為軍人因自號無為子嘉祐四年進士<lb/>
+　　　　元豐中歴官禮部員外郎出知潤州除兩江<lb/>
+　　　　提㸃刑獄卒于官原序稱侍講楊先生葢其<lb/>
+　　　　帶職也傑及與歐陽修王安石蘇軾遊故其<lb/>
+<pb n="KR4d0058_WYG_000-1b"/>
+　　　　詩雖興象未深而亦頗有規格其率易者近<lb/>
+　　　　白居易其學為奇崛如送李辟疆之類者或<lb/>
+　　　　偶近盧仝大致則仍元祐體也又及與胡瑗<lb/>
+　　　　遊故所學亦頗有根柢官太常時議典禮因<lb/>
+　　　　革多所討論集中如補正三禮圖皇族服制<lb/>
+　　　　圖諸序以及禘祫明堂樂律諸奏皆有闗于<lb/>
+　　　　典制但其文才地稍弱邊幅微狹耳集凡賦<lb/>
+　　　　二卷詩五卷文八巻紹興癸亥知無為軍趙<lb/>
+<pb n="KR4d0058_WYG_000-2a"/>
+　　　　士㣓所編士㣓序云删除蕪纇取有補于教<lb/>
+　　　　化者若釋道二家詩文則見諸别集今别集<lb/>
+　　　　不傳故張敦頤六朝事蹟載其雨花臺詩一<lb/>
+　　　　首王象之輿地紀勝載其浄居寺詩一首潛<lb/>
+　　　　説友咸淳臨安志載其西湖參寥山房詩一<lb/>
+　　　　首鐵網珊瑚載其佛日山别長老弼公詩一<lb/>
+　　　　首凡為僧作者今皆不見于集中也然第五<lb/>
+　　　　卷中有書寶山寺壁一首第七卷中有題寶<lb/>
+<pb n="KR4d0058_WYG_000-2b"/>
+　　　　樹院五松一首東峰白雲院一首野寺一首<lb/>
+　　　　第十卷中有圓同菴銘一首圓寂菴銘一首<lb/>
+　　　　未免自亂其例乂如銘五首入襍文贊亦襍<lb/>
+　　　　文乃列詩中詩以古體律體分編而和謝判<lb/>
+　　　　官宴南樓一首本拗體七言律詩而誤入古<lb/>
+　　　　詩編次尤為無緒至于魏詔君贊詔字葢避<lb/>
+　　　　仁宗嫌名而次巻仍稱魏徵君草堂校讐亦<lb/>
+　　　　未盡善惟傑集自南渡以後湮沒不傳士㣓<lb/>
+<pb n="KR4d0058_WYG_000-3a"/>
+　　　　積兩嵗之力搜求編次使得復傳至今其表<lb/>
+　　　　章之功固亦不可盡沒耳乾隆四十四年七<lb/>
+　　　　月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+<pb n="KR4d0058_WYG_000-4a"/>
+無為集原序<lb/>
+國家以文教作成海内近二百年主上紹開中興息馬<lb/>
+論道者一紀於兹比詔有司修建太學盖以儒術粉飾<lb/>
+治具漸磨士類未始須臾置也無為在淮右為小壘而<lb/>
+多名士侍講楊先生名傑字次公道號無為子實一時<lb/>
+文人公自妙齡擢巍科以雄文妙賦醇徳懿行得名於<lb/>
+時中間立朝議禮樂因革人尤多之晚年甞奉使過泰<lb/>
+山觀日出於絶頂之上重九日賦詩舉酒於華山蓮花<lb/>
+<pb n="KR4d0058_WYG_000-4b"/>
+之峯繼被詔從髙麗僧統義天逰前輩以謂皆以王事<lb/>
+而得方外之樂故於瞿曇尤造理窟當時如大丞相王<lb/>
+公内翰蘇公悉印可之年七十而終生平所著文集湮<lb/>
+沒未傳於世吁可惜也嵗在重光作噩之冬士㣓誤恩<lb/>
+假守是邦服膺侍講公之名舊矣視事之初首詢公文<lb/>
+於搢紳間嵗餘搜獲不一公遣詞典麗立意奥妙因刪<lb/>
+除其蕪纇取其有補於教化者編次成集將以為學者<lb/>
+標準上佐吾君偃武修文之意不其偉歟其詩賦碑記<lb/>
+<pb n="KR4d0058_WYG_000-5a"/>
+雜文表啓共分為一十五巻若釋道二家詩文則見諸<lb/>
+别集云紹興癸亥歲夏四月左朝請大夫知無為軍兼<lb/>
+管内勸農營田事趙士㣓謹序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

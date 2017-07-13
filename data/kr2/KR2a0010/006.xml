@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>補後漢書年表卷六</head>
+    <p>
+<pb n="KR2a0010_WYG_006-1a"/>
+欽定四庫全書<lb/>
+　補後漢書年表卷六　　　　宋　熊方　撰<lb/>
+　　異姓諸侯<lb/>
+號謚姓名始封侯狀　　子　　孫　　曾孫　五世<lb/>
+<pb n="KR2a0010_WYG_006-2a"/>
+</p>
+<p>
+<pb n="KR2a0010_WYG_006-3a"/>
+</p>
+<p>
+<pb n="KR2a0010_WYG_006-4a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2a0010_WYG_006-4b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　右孝桓侯者二十有七人門徳亭南鄉安陽<lb/>
+　南頓泚陽昆陽育陽安陽益陽亭襄邑城父<lb/>
+　潁陽潁隂西平凡十有四人隨祖見光武異<lb/>
+<pb n="KR2a0010_WYG_006-5a"/>
+　姓侯表關内侯人隨祖見孝和異姓侯表廚<lb/>
+　亭費亭宣父凡三人隨父在本表凡四十有<lb/>
+　五人<lb/>
+<pb n="KR2a0010_WYG_006-6a"/>
+</p>
+<p>
+<pb n="KR2a0010_WYG_006-7a"/>
+</p>
+<p>
+<pb n="KR2a0010_WYG_006-8a"/>
+</p>
+<p>
+<pb n="KR2a0010_WYG_006-9a"/>
+</p>
+<p>
+<pb n="KR2a0010_WYG_006-10a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2a0010_WYG_006-10b"/>
+　右孝靈侯者四十人渭陽一人隨父見孝桓異姓侯<lb/>
+　表育陽安陽華容慎順陽蔡陽凡六人隨父見本表<lb/>
+　凡四十有七人<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　補後漢書年表卷六<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

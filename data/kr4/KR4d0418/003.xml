@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4d0418_SBCK_003-1a"/>
+滹南遺老集卷之三<lb/>
+　　　　　　　　　　滹南王若虚　從之<lb/>
+　　論語辨惑序<lb/>
+觧論語者不知其幾家義畧偹矣然舊説多失之不及<lb/>
+而新説每傷于太過夫聖人之意或不盡于言亦不外<lb/>
+乎言也不盡于言而執其言以求之宜其失之不及也<lb/>
+不外乎言而離其言以求之宜其傷于太過也盍亦揆<lb/>
+以人情而約之中道乎甞謂宋儒之議論不為無功而<lb/>
+<pb n="KR4d0418_SBCK_003-1b"/>
+亦不能無罪焉彼其推明心術之微剖析義利之辨而<lb/>
+斟酌時中之權委曲疏通多先儒之所未到斯固有功<lb/>
+矣至于消息過深揄揚過侈以為句句必涵飬氣象而<lb/>
+事事皆関造化将以尊聖人而不免反累名為排異端<lb/>
+而實流于其中亦豈為無罪也哉至于謝顯道張子韶<lb/>
+之徒迂談浮夸往往令人發笑噫其甚矣永嘉葉氏曰<lb/>
+今世學者以性為不可不言命為不可不知凡六經孔<lb/>
+子之書無不牽合其論而上下其詞精深微妙茫然不<lb/>
+<pb n="KR4d0418_SBCK_003-2a"/>
+可測識而聖賢之寔猶未著也昔人之淺不求之于心<lb/>
+也今世之妙不止之于心也不求于心不止于心皆非<lb/>
+所以至聖賢者可謂切中其病矣晦庵刪取衆説最號<lb/>
+簡當然尚有不安及未盡者竊不自揆嘗以所見正其<lb/>
+失而補其遺凡若干章非敢以傳世也姑為吾家童䝉<lb/>
+之訓云<lb/>
+　　總論<lb/>
+觧論語者有三過焉過于深也過于髙也過于厚也聖<lb/>
+<pb n="KR4d0418_SBCK_003-2b"/>
+人之言亦人情而巳是以明白而易知中庸而可乆學<lb/>
+者求之太過則其論雖羙而要為失其寔亦何貴乎此<lb/>
+哉夫子之言性與天道子貢自謂其不得聞而宋儒皆<lb/>
+以為實聞之問死問鬼神夫子不以告子路而宋儒皆<lb/>
+以為實告之鄉黨所載乃聖人言動之常無意義者多<lb/>
+矣而或謂與春秋相表裏終篇唐舜禹湯之事寂寥殘<lb/>
+缺殆有闕文不當强觧而或謂聖學所傳所以著明二<lb/>
+十篇之大㫖若是之類皆過于深者也聖人雖無名利<lb/>
+<pb n="KR4d0418_SBCK_003-3a"/>
+之心然常就名利以誘人使之由人欲而識天理故雖<lb/>
+中下之人皆可企而及兹其所以為教之周也如曰不<lb/>
+患莫巳知求為可知也此正就名而使之求寔耳而謝<lb/>
+顯道曰是猶有求知之意非聖人之至論子張學干禄<lb/>
+夫子為言得禄之道此正就利而使之思義耳而張九<lb/>
+成曰聖人之門無為人謀求利之説禄之為義自足而<lb/>
+已寗武子邦無道則愚夫子以為不可及楊龜山曰有<lb/>
+知愚之名則非行其所無事言不可及則過乎中道矣<lb/>
+<pb n="KR4d0418_SBCK_003-3b"/>
+蘧伯玉邦無道則卷而懐之夫子以為君子而張南軒<lb/>
+曰此猶有卷懷之意未及乎潜龍之隐見果聖人之㫖<lb/>
+乎若是之類皆過于髙者也凡人有好則有惡有喜則<lb/>
+有怒有譽則有毁聖人亦何以異哉而學者一以春風<lb/>
+和氣期之凡忿疾譏斥之辭必周遮護諱而為之説子<lb/>
+曰十室之邑必有忠信如邱者焉不如邱之好學也此<lb/>
+盖篤實教人欲其知所勉耳而衛<graphic n="KR1493" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1493.png" mimeType="image/png"/>以焉字属下句意<lb/>
+謂聖人不敢以不學待天下也此正繆戾而世或喜之<lb/>
+<pb n="KR4d0418_SBCK_003-4a"/>
+子曰四十五十而無聞焉斯亦不足畏也巳年四十而<lb/>
+見惡焉其終也巳人故有晚而改莭者亦㮣觀之亦可<lb/>
+見其終身矣而蘇東坡皆疑其有為而言子貢問當時<lb/>
+從政者夫子比之斗筲而不数盖師弟之間商評之語<lb/>
+何害于徳而張九成極論以為自稱之辭至于杖叩原<lb/>
+壌呼之為賊此其鄙棄無復可疑而范純夫猶有因其<lb/>
+才而教誨之若是之類皆過于厚者也知此三者而聖<lb/>
+人之實著矣<lb/>
+<pb n="KR4d0418_SBCK_003-4b"/>
+</p>
+<p>
+滹南遺老集卷三<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

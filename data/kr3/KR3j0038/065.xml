@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3j0038_SBCK_065-1a"/>
+容齊四筆序<lb/>
+始予作容齋隨筆首尾十八年續筆十三年三筆五年<lb/>
+而四筆之成不費一歳身益老而著書益速蓋有其說<lb/>
+曩自越府歸謝絶外事獨弄筆紀𫐠之習不可掃除故<lb/>
+捜采異聞但緒夷堅諸志於議論雌黃不復關抱而稚<lb/>
+予櫰毎見夷堅滿𥿄輙曰隨筆夷堅皆大人素所游戯<lb/>
+今隨筆不加益不應厚於彼而薄於此也日日立案傍<lb/>
+必俟草一則乃退重逆其意則裒所憶而書之櫰嗜讀<lb/>
+書雖就寢猶置一編枕畔旦則與之俱興而天嗇其付<lb/>
+年且弱冠聦明殊未開以彼其勤殆必有日丈夫愛憐<lb/>
+<pb n="KR3j0038_SBCK_065-1b"/>
+少子此乎見之於是占抒爲序并獎其志云慶元三年<lb/>
+九月二十四日序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

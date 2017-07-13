@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>通書述解</head>
+    <p>
+<pb n="KR3a0025_WYG_000-1a"/>
+欽定四庫全書　　　　　子部一<lb/>
+　通書述解　　　　　　　儒家類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案通書述解二卷明曹端撰端字正<lb/>
+　　　　甫號月川澠池人永樂六年舉人官霍州學<lb/>
+　　　　正明史稱其學務躬行實踐而以靜存為要<lb/>
+　　　　讀宋儒太極圖説通書西銘嘆曰道在是矣<lb/>
+　　　　篤志研究坐下著足處兩甎皆穿明代醇儒<lb/>
+<pb n="KR3a0025_WYG_000-1b"/>
+　　　　以端與薛瑄為最而端又開瑄之先是書每<lb/>
+　　　　章皆總括大意標於題下而逐句為之訓釋<lb/>
+　　　　其言皆明正通達極詳悉而不支蔓使淺學<lb/>
+　　　　見之易解而髙論者亦終不能踰前有孫竒<lb/>
+　　　　逢序及跋其跋言此書而序則言所箋解者<lb/>
+　　　　為太極圖説通書西銘三書澠令張璟合刻<lb/>
+　　　　之蓋此其所刋之一種也其排纂頗無體例<lb/>
+　　　　刋板亦不遵其法皆以正文與註連書而以<lb/>
+<pb n="KR3a0025_WYG_000-2a"/>
+　　　　方匡界正文每句之上下以為識别殊混淆<lb/>
+　　　　難讀今離而析之使註與正文别行以便省<lb/>
+　　　　覽焉乾隆四十二年九月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+<pb n="KR3a0025_WYG_000-3a"/>
+通書述解原序<lb/>
+儒之統何昉乎堯舜湯文儒而在上者也孔顏思孟儒<lb/>
+而在下者也治統道統原不容分而為二自分而二之<lb/>
+而君道師道遂成兩局始専以儒統歸孔子顏曽思孟<lb/>
+尚矣周程張朱繼之獨此九人者為傳道之人其餘學<lb/>
+術醇粹有宋而後諸儒輩出續有訓述微分正閏雖深<lb/>
+造各有自得而世代未逺羣言未定天地生民之命何<lb/>
+敢以一人輕進退焉余不敏幼而讀書得良友切劘頗<lb/>
+<pb n="KR3a0025_WYG_000-3b"/>
+知究心儒業自董江都以至鹿江村得五十餘人彚成<lb/>
+帙標曰理學宗傳復慮其遺也又得胡安定崔後渠共<lb/>
+二十餘人為宗傳考以俟後之君子品隲而次第之近<lb/>
+得靖修先生太極圖通書西銘述解洞徹微宻直窺道<lb/>
+之本原豈尋常學人敢望至夜行燭家規語録録粹年<lb/>
+譜諸種皆修身明倫保家正俗之要其進修之醇不於<lb/>
+其言而於其行可謂體備用達之學固應序例予宗𫝊<lb/>
+録中按先生嘗司教山右之霍蒲四方從遊者幾千人<lb/>
+<pb n="KR3a0025_WYG_000-4a"/>
+賢者服其徳不肖者服其化陳建通紀曰本朝武功首<lb/>
+劉誠意理學肇曹靖修薛子文清極稱靖修得元公之<lb/>
+學篤信好古距邪閑正今文清配享孔廟炳如日星先<lb/>
+生之言行竟散佚無𫝊余甚惜之然皎月在天片雲難<lb/>
+翳明珠在水海若難私余固知先生之文必出也丁酉<lb/>
+秋澠令天弓張君以有事秋闈視予夏峯予止輯中州<lb/>
+人物考以先生居理學之首天弓曰邑無賢豪地方之<lb/>
+羞也有之而不彰守土者之責也明年捜其遺文八種<lb/>
+<pb n="KR3a0025_WYG_000-4b"/>
+刻成問序於予且述與大叅雲程崔公興學重儒之意<lb/>
+此固先生之靈爽有以啓之河洛之間斯文丕變此集<lb/>
+之出其有賴乎孫竒逢序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

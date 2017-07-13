@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>說畧目録</head>
+    <p>
+<pb n="KR3k0048_WYG_000-1a"/>
+欽定四庫全書　　　　子部十一<lb/>
+　說畧目録　　　　　　　類書類<lb/>
+　　卷一<lb/>
+　　　象緯<lb/>
+　　卷二<lb/>
+　　　方輿上<lb/>
+　　卷三<lb/>
+　　　方輿下<lb/>
+<pb n="KR3k0048_WYG_000-1b"/>
+　　卷四<lb/>
+　　　時序<lb/>
+　　卷五<lb/>
+　　　人紀<lb/>
+　　卷六<lb/>
+　　　官儀<lb/>
+　　卷七<lb/>
+　　　史別上<lb/>
+<pb n="KR3k0048_WYG_000-2a"/>
+　　卷八<lb/>
+　　　史別中<lb/>
+　　卷九<lb/>
+　　　史別下<lb/>
+　　卷十<lb/>
+　　　禮蕞<lb/>
+　　卷十一<lb/>
+　　　律支<lb/>
+<pb n="KR3k0048_WYG_000-2b"/>
+　　卷十二<lb/>
+　　　典述上<lb/>
+　　卷十三<lb/>
+　　　典述中<lb/>
+　　卷十四<lb/>
+　　　典述下<lb/>
+　　卷十五<lb/>
+　　　字學<lb/>
+<pb n="KR3k0048_WYG_000-3a"/>
+　　卷十六<lb/>
+　　　書畫<lb/>
+　　卷十七<lb/>
+　　　李法<lb/>
+　　卷十八<lb/>
+　　　冥契上<lb/>
+　　卷十九<lb/>
+　　　冥契下<lb/>
+<pb n="KR3k0048_WYG_000-3b"/>
+　　卷二十<lb/>
+　　　居室<lb/>
+　　卷二十一<lb/>
+　　　服飾<lb/>
+　　卷二十二<lb/>
+　　　工考上<lb/>
+　　卷二十三<lb/>
+　　　工考下<lb/>
+<pb n="KR3k0048_WYG_000-4a"/>
+　　卷二十四<lb/>
+　　　諧志<lb/>
+　　卷二十五<lb/>
+　　　食憲<lb/>
+　　卷二十六<lb/>
+　　　珍格<lb/>
+　　卷二十七<lb/>
+　　　卉牋上<lb/>
+<pb n="KR3k0048_WYG_000-4b"/>
+　　卷二十八<lb/>
+　　　卉牋下<lb/>
+　　卷二十九<lb/>
+　　　蟲注上<lb/>
+　　卷三十<lb/>
+　　　蟲注下<lb/>
+　　　　<hi>臣</hi>等謹案説畧三十卷明顧起元撰起元字<lb/>
+　　　　太初江寧人萬厯戊戌進士官至吏部右侍<lb/>
+<pb n="KR3k0048_WYG_000-5a"/>
+　　　　郎諡文莊明史藝文志載説畧六十卷考起<lb/>
+　　　　元自序全書實止三十卷蓋志偶悞也其書<lb/>
+　　　　雜采説部件繫條列頗與曽慥類説陶宗儀<lb/>
+　　　　説郛相近故明史收入小説家類然詳考體<lb/>
+　　　　例其分門排比編次之法實同類書但類書<lb/>
+　　　　𨽻事此則纂言耳雖其中旁及二氏及參以<lb/>
+　　　　怪異詭瑣之事不免駁襍特明代坊行類書<lb/>
+　　　　最多大抵剽竊餖飣無資實用起元學問較<lb/>
+<pb n="KR3k0048_WYG_000-5b"/>
+　　　　諸家為淹貫故所作尚有體裁其史别典述<lb/>
+　　　　諸門尤有益於攷證裒輯彚稡之功良亦未<lb/>
+　　　　可盡冺也乾隆四十三年五月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+<pb n="KR3k0048_WYG_000-6a"/>
+説略原序<lb/>
+昔在甲午乙未之間予端居多暇案上庋説部書數十<lb/>
+種隨手取一卷諷之以代藼蘇陶日月遇有可備攷質<lb/>
+者苦其性善忘輙取赫蹏識之以類黏尺二鉅冊上時<lb/>
+自哂其有掌録而無舌學已離而為二十卷名曰説略<lb/>
+藏諸笥中中間曽一屬友人半埜李君糾其錯亂浙門<lb/>
+張君釐其㸃畫凡再易草始克成編乙巳自京師請告<lb/>
+歸舟敗于南陽之決河而此書亡矣舊藁尚存張君<lb/>
+<pb n="KR3k0048_WYG_000-6b"/>
+處㑹其人又物故予惋惜者久之既而其家從敝笥中<lb/>
+檢以歸予予頗有珠還之喜因念門類差分涉獵未廣<lb/>
+更欲釐正而附益焉而病復未果僅蕞為三十卷録而<lb/>
+存之或謂就一類之中多有缺遺就數類之中多非闗<lb/>
+要或<graphic n="KR0679" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0679.png" mimeType="image/png"/>或引可有可亡重言雖連犿而無傷璅事實荒<lb/>
+唐而莫辨愛竒自可語怪何為予亦爽然自疑不能定<lb/>
+也兩弟時從旁慫慂梓于家塾以示兒軰自顧無力荏苒<lb/>
+數年頃新安袐書吳君徳聚博古通微躭耆佚典偶過<lb/>
+<pb n="KR3k0048_WYG_000-7a"/>
+金陵訪予探得數卷讀而好之請事剞劂因念曩時排<lb/>
+纘之勞與漂沒之感舉以付焉用成其義先是文學朱<lb/>
+君君器見而心賞捐貲為之繕寫刻既竣迺并記其所<lb/>
+繇如此嗟乎世之閎覽博物君子且囊括昔之為海為<lb/>
+郛者以大其畜何以略為顧有如予之好臆而善忘者<lb/>
+時探而諷之亦可藉以備丹陽之鈔補河東之篋雖六<lb/>
+藝鍵鈐九流津涉原原本本之論未極于斯至于考騐<lb/>
+是非綜校名實兼資前識用廣異聞古今賢喆之用心<lb/>
+<pb n="KR3k0048_WYG_000-7b"/>
+往往可以概見是在覽者擇之而已若曰斷截𢎞美組<lb/>
+織纎細則予豈敢避偃鼠飲河之誚哉萬厯癸丑嘉平<lb/>
+江寧顧起元書於遯園之懶真草堂<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

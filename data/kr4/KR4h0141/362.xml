@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_362-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選巻三百六十三<lb/>
+　　金錢花類<lb/>
+　　　七言絶句<lb/>
+　　　　金錢花　　　　　　　　　<hi>唐</hi>盧　肇<lb/>
+　輪郭休誇四字書紅窠寫出對庭除時時買得佳人笑<lb/>
+　本色金錢却不如<lb/>
+　　　　金錢花　　　　　　　　　<hi>唐</hi>来　鵬<lb/>
+<pb n="KR4h0141_WYG_362-1b"/>
+　也無稜廓也無神露洗還同鑄出新青帝若教花裏用<lb/>
+　牡丹應是得錢人<lb/>
+　　　　金錢花　　　　　　　　　<hi>唐</hi>皮日休<lb/>
+　隂陽為炭地為爐鑄出金錢不用模莫向人前逞顔色<lb/>
+　不知還觧濟貧無<lb/>
+　　　　金錢花　　　　　　　　　<hi>唐</hi>吳仁璧<lb/>
+　淺絳濃香㡬朶勻日鎔金鑄萬家新堪疑劉寵遺芳在<lb/>
+　不許山隂父老貧<lb/>
+<pb n="KR4h0141_WYG_362-2a"/>
+　　　　金錢花　　　　　　　　　<hi>唐</hi>石　懋<lb/>
+　名貴巳居三品上價髙仍在五銖先春来買斷深紅色<lb/>
+　燒得人心似火然<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR4h0141_WYG_362-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+䘖定佩文齋詠物詩選巻三百六十三<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

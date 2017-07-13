@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>政和五禮新儀卷二百八</head> <lb/>
+    <p>
+<pb n="KR2m0023_WYG_214-1a"/>
+欽定四庫全書<lb/>
+　政和五禮新儀卷二百八<lb/>
+　　凶禮<lb/>
+　　　賑撫儀<lb/>
+　　　遣使賑撫諸州水旱蟲災<lb/>
+使者将至所在長官預集本州官属及鄉老等所司先<lb/>
+於長官㕔大門外設使者次又於門外設使者位東向<lb/>
+長官以下位北向西上又於庭望闕設長官以下位重<lb/>
+<pb n="KR2m0023_WYG_214-1b"/>
+行設使者位於長官之左使者至所司引就次各服公<lb/>
+服賛者先引長官以下立於門外位又引使者就位立<lb/>
+史二人以案奉詔書立於使者之南賛者曰拜長官以<lb/>
+下皆再拜賛者引長官以下以次先入就庭中位史捧<lb/>
+詔書案前行使者從之入就庭中位賛者賛使者搢笏<lb/>
+取詔書執笏以詔書加於笏上史以案退使者稱有詔<lb/>
+賛者曰拜長官以下皆再拜使者宣詔書訖長官以下<lb/>
+皆再拜賛者引使者及長官各少前相向俛伏跪搢笏<lb/>
+<pb n="KR2m0023_WYG_214-2a"/>
+使者以詔書授長官訖各執笏長官以詔書加於笏上<lb/>
+各俛伏興賛者曰再拜長官以下皆再拜賛者引使者<lb/>
+還次長官以下退<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0023_WYG_214-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　政和五禮新儀卷二百八<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

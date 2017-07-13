@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>古今詩删卷一</head> <lb/>
+    <p>
+<pb n="KR4h0110_WYG_001-1a"/>
+欽定四庫全書<lb/>
+　古今詩删卷一<lb/>
+　　　　　　　　　　　　明　李攀龍　編<lb/>
+　　古逸<lb/>
+　　　商銘<hi>商王</hi>
+嗛嗛之德不足就也不可以矜而祇取憂<hi>叶</hi>也嗛嗛之<lb/>
+食不足狃也不能為膏而祇離咎也<lb/>
+　　　盥盤銘<hi>武王</hi>
+<pb n="KR4h0110_WYG_001-1b"/>
+與其溺於人也寧溺於淵<hi>叶</hi>溺於淵猶可游也溺於人<lb/>
+不可救<hi>叶</hi>也<lb/>
+　　　杖銘<hi>武王</hi>
+惡乎危於忿疐惡乎失道於嗜慾惡乎相忘於富貴<lb/>
+　　　户銘<hi>武王</hi>
+夫名難得而易失無勤弗志而曰我知之乎無勤弗及<lb/>
+而曰我杖之乎擾阻以泥之若風將至必先揺揺<hi>叶</hi>雖<lb/>
+有聖人不能為謀也<lb/>
+<pb n="KR4h0110_WYG_001-2a"/>
+　　　筆銘<hi>武王</hi>
+毫毛茂茂<hi>叶</hi>陷水可脱陷文不活<lb/>
+　　　書車<hi>武王</hi>
+自致者急載人者緩取欲無度自致而反<lb/>
+　　　金人銘<hi>武王</hi>
+古之慎言人也戒之哉無多言多言多敗無多事多事<lb/>
+多患安樂必戒無行所悔勿謂何傷其禍將長勿謂何<lb/>
+害其禍將大勿謂不聞神將伺人焰焰不滅炎炎若何<lb/>
+<pb n="KR4h0110_WYG_001-2b"/>
+涓涓不壅終為江河綿綿不絶或成網羅毫末不札將<lb/>
+尋斧柯誠能慎之福之根也口是何傷禍之門也強梁<lb/>
+者不得其死好勝者必遇其敵盜憎主人民怨其上君<lb/>
+子知天下之不可上也故下<hi>叶</hi>之知衆人之不可先也<lb/>
+故後<hi>叶</hi>之温恭慎德使人慕之執雌持下人莫踰之人<lb/>
+皆趨彼我獨守此人皆惑之我獨不徙内藏我知不示<lb/>
+人技我雖尊高人莫我害江海雖左長于百川以其卑<lb/>
+也天道無親常與善人戒之哉<lb/>
+<pb n="KR4h0110_WYG_001-3a"/>
+　　　鼎銘<hi>正考父</hi>
+一命而僂再命而傴三命而俯循牆而走<hi>叶</hi>亦莫余敢<lb/>
+侮饘於是粥於是以餬余口<hi>叶</hi>
+　　　轡之柔矣<hi>太子晉</hi>
+馬之剛矣轡之柔矣馬亦不剛轡亦不柔志氣麃麃<hi>叶</hi>
+取與不疑<hi>叶</hi>
+　　　引古語<hi>鄒衍</hi>
+截趾適履孰云其愚何與斯人追欲喪軀<lb/>
+<pb n="KR4h0110_WYG_001-3b"/>
+　　　堯戒<hi>淮南子</hi>
+戰戰慄慄日謹一日人莫躓於山而躓於垤<hi>叶</hi>
+　　　鼓缶<hi>淮南子</hi>
+君子有酒小人鼓缶雖不見好亦不見醜<lb/>
+　　　烏鵲歌二首<hi>韓馮妻何氏</hi>
+南山有烏北山張羅烏自高飛羅當奈何<lb/>
+　　　其二<lb/>
+烏鵲雙飛不樂鳳凰妾是庶人不樂宋王<lb/>
+<pb n="KR4h0110_WYG_001-4a"/>
+　　　松栢歌<hi>齊人</hi>
+松邪栢邪住建共者客邪<lb/>
+　　　渡易水歌<hi>荆軻</hi>
+風蕭蕭兮易水寒<hi>叶</hi>壯士一去兮不復還<hi>叶</hi>
+　　　垓下歌<hi>項羽</hi>
+力拔山兮氣葢世時不利兮騅不逝騅不逝兮可奈何<lb/>
+虞兮虞兮奈若何<lb/>
+　<lb/>
+<pb n="KR4h0110_WYG_001-4b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　古今詩删卷一<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

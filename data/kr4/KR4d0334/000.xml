@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>提要<lb/>
+                </head>
+    <p>
+<pb n="KR4d0334_WYG_000-1a"/>
+欽定四庫全書　　　　　集部四<lb/>
+　提要<lb/>
+　　敝帚藁畧八巻　　　　别集類三<hi>宋</hi>
+　　　　<hi>臣</hi>等謹案敝帚藁畧八巻宋包恢撰恢字宏<lb/>
+　　　　父建昌人嘉定十三年進士厯官刑部尚書<lb/>
+　　　　簽書樞宻院事封南城縣侯以資政殿學士<lb/>
+　　　　致仕卒贈少保謚文肅宋史本傳稱恢諸父<lb/>
+　　　　皆從朱子學少時即聞心性之㫖厯官所至<lb/>
+<pb n="KR4d0334_WYG_000-1b"/>
+　　　　破豪猾去姦民治蠱獄課盆鹽然于賈似道<lb/>
+　　　　傳又稱似道行公田法時恢知平江督買民<lb/>
+　　　　田致以肉刑從事兩傳皆出托克托手乃賢<lb/>
+　　　　姦逈異蓋宋史于道學諸人例相褒美而似<lb/>
+　　　　道傳中偶㤀刋削此事也恢平生不以文名<lb/>
+　　　　史傳亦絶不及其著作惟元劉壎隠居通議<lb/>
+　　　　有云恢以學問為時師表平生為人作豐碑<lb/>
+　　　　巨刻毎下筆汪洋放肆根據義理娓娓不窮<lb/>
+<pb n="KR4d0334_WYG_000-2a"/>
+　　　　蓋其學力深厚不可涯涘云云獨推重之甚<lb/>
+　　　　至今觀所作大都疏通暢逹沛然有餘奏劄<lb/>
+　　　　諸篇亦剴切詳明得敷奏之體其立身雖在<lb/>
+　　　　君子小人之間置其人而論其文固亦不失<lb/>
+　　　　為儒者之言矣隠居通議又稱恢生平最疑<lb/>
+　　　　周禮以為非聖哲之書遂著書剖其非號曰<lb/>
+　　　　周禮六官辨景定壬戌恢與劉克莊同侍緝<lb/>
+　　　　熙殿克莊奏之有詔宣取歐聖弼為作進表<lb/>
+<pb n="KR4d0334_WYG_000-2b"/>
+　　　　雖所辨未當而表則極佳云云此事本傳失<lb/>
+　　　　載而六官辨亦不在集中意其有别本单行<lb/>
+　　　　故未經收入歟集為恢所自編宋史藝文志<lb/>
+　　　　馬氏經籍考皆未著録世亦别無傳本原目<lb/>
+　　　　已不可考今從永樂大典採掇編緝共得文<lb/>
+　　　　七十餘首詩八十餘首釐為八巻而以恢自<lb/>
+　　　　識及門人鄭无妄書後附于末簡尚畧見是<lb/>
+　　　　集之始末也乾隆四十六年九月恭校上<lb/>
+<pb n="KR4d0334_WYG_000-3a"/>
+　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

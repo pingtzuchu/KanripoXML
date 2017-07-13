@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>冷齋夜話</head>
+    <p>
+<pb n="KR3j0100_WYG_000-1a"/>
+欽定四庫全書　　　　　　子部十<lb/>
+　冷齋夜話　　　　　　　　雜家類三<hi>雜説之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案冷齋夜話十卷宋僧恵洪撰恵洪<lb/>
+　　　　一名徳洪字覺範筠州人大觀中游丞相張<lb/>
+　　　　商英之門商英敗恵洪亦坐累謫朱厓是書<lb/>
+　　　　晁公武讀書志作十卷與今本相合然陳善<lb/>
+　　　　捫蝨新話謂山谷西江月詞日側金盤墜影<lb/>
+<pb n="KR3j0100_WYG_000-1b"/>
+　　　　一首為恵洪贋作載於冷齋夜話又引宋百<lb/>
+　　　　家詩選云冷齋夜話中偽作山谷贈洪詩韻<lb/>
+　　　　勝不減秦少覿氣爽絶類徐師川云云今本<lb/>
+　　　　無此兩篇盖已經後人刪削非其完本又每<lb/>
+　　　　篇皆有標題而標題或冗呇過甚或拙鄙不文<lb/>
+　　　　皆與本書不類其最刺謬者如洪駒父詩<lb/>
+　　　　話一條乃引洪駒父之言以正俗刻之誤非<lb/>
+　　　　攻洪駒父之誤也其標題乃云洪駒父評詩<lb/>
+<pb n="KR3j0100_WYG_000-2a"/>
+　　　　之誤顯相背觸又䢼亭湖廟一條捧牲請福<lb/>
+　　　　者乃安世髙之舟人故神云舟有沙門乃不<lb/>
+　　　　俱來耶非世髙自請福也又追敘漢時建寺<lb/>
+　　　　乃為秦觀作維摩賛縁起非記世髙事也其<lb/>
+　　　　標題乃云安世髙請福䢼亭廟秦少游宿此<lb/>
+　　　　夢天女求賛既乖本事且不成文又蘇軾寄<lb/>
+　　　　鄧道士詩一條用韋應物寄全椒山中道士<lb/>
+　　　　詩韻乃記蘇詩非記韋詩也而其標題乃云<lb/>
+<pb n="KR3j0100_WYG_000-2b"/>
+　　　　韋蘇州寄全椒道人詩更全然不解文義又<lb/>
+　　　　恵洪本彭氏子於彭淵材為叔侄故書中但<lb/>
+　　　　稱淵材不系以姓而其標題乃皆改為劉淵<lb/>
+　　　　材尤為不考此類不可殫數亦皆後人所妄<lb/>
+　　　　加非所本有也是書雜記見聞而論詩者居<lb/>
+　　　　十之八論詩之中稱引元祐諸人者又十之<lb/>
+　　　　八而黄庭堅語尤多盖恵洪猶及識庭堅故<lb/>
+　　　　引以為重其庭堅夢逰蓬萊一條山谷集題<lb/>
+<pb n="KR3j0100_WYG_000-3a"/>
+　　　　曰記夢洪駒父詩話曰余嘗問山谷云此記<lb/>
+　　　　一段事也嘗從一貴宗室擕妓游僧寺酒䦨<lb/>
+　　　　諸妓皆散入僧房中主人不怪也故有曉然<lb/>
+　　　　夢之非紛紜句恵洪乃稱庭堅曽與共宿湘<lb/>
+　　　　江舟中親話有夢與道士游蓬萊事且云今<lb/>
+　　　　山谷集語不同盖後更易之是殆竄亂其說<lb/>
+　　　　使故與本集不合以自明其暱於庭堅獨知<lb/>
+　　　　其詳耳晁公武詆此書多誕妄偽托者即此<lb/>
+<pb n="KR3j0100_WYG_000-3b"/>
+　　　　類歟然恵洪本工詩其詩論實多中理解所<lb/>
+　　　　言可取則取之其託於聞之某某置而不論<lb/>
+　　　　可矣乾隆四十四年三月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

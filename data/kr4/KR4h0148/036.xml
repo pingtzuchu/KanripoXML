@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0148_WYG_036-1a"/>
+欽定四庫全書<lb/>
+御選唐宋詩醇巻十七<lb/>
+　　襄陽杜甫詩九<lb/>
+　　　目録<lb/>
+　　移居䕫州郭<lb/>
+　　宿江邉閣<lb/>
+　　西閣口號呈元二十一<lb/>
+　　西閣<lb/>
+<pb n="KR4h0148_WYG_036-1b"/>
+　　閣夜<lb/>
+　　瀼西寒望<lb/>
+　　入宅<lb/>
+　　暮春題瀼西新賃草屋<lb/>
+　　秋野五首<lb/>
+　　課小豎鉏斫舎北果林枝蔓荒穢净訖移牀<lb/>
+　　自瀼西荆扉且移居東屯茅屋<lb/>
+　　東屯月夜<lb/>
+<pb n="KR4h0148_WYG_036-2a"/>
+　　暫往白帝復還東屯<lb/>
+　　刈稻了咏懷<lb/>
+　　上白帝城<lb/>
+　　上白帝城<lb/>
+　　武侯廟<lb/>
+　　八陣圖<lb/>
+　　謁先主廟<lb/>
+　　灔澦堆<lb/>
+<pb n="KR4h0148_WYG_036-2b"/>
+　　灔澦<lb/>
+　　白帝<lb/>
+　　白帝城最髙樓<lb/>
+　　諸葛廟<lb/>
+　　峽口二首<lb/>
+　　天池<lb/>
+　　瞿塘兩崖<lb/>
+　　䕫州歌<lb/>
+<pb n="KR4h0148_WYG_036-3a"/>
+　　偶題<lb/>
+　　秋興八首<lb/>
+　　詠懷古跡五首<lb/>
+　　諸將五首<lb/>
+　　秋日䕫府詠懷奉寄鄭監審李賔客之芳一百韻<lb/>
+　　贈李八秘書别三十韻<lb/>
+　　解悶<lb/>
+　　復愁<lb/>
+<pb n="KR4h0148_WYG_036-3b"/>
+　　承聞河北諸道節度入朝歡喜口號<lb/>
+　　洞房<lb/>
+　　宿昔<lb/>
+　　能畫<lb/>
+　　鬭鷄<lb/>
+　　鸚鵡<lb/>
+　　歴歴<lb/>
+　　驪山<lb/>
+<pb n="KR4h0148_WYG_036-4a"/>
+　　提封<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

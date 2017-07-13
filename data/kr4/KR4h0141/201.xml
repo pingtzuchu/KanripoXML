@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_201-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選巻二百一<lb/>
+　　觱篥類<lb/>
+　　　七言古<lb/>
+　　　　次韻趙君季文贈杜寛吹觱篥吟<lb/>
+　　　　　　　　　　　　　　　　<hi>元</hi>陳　基<lb/>
+　寒竹初裁蘆葉秋夜吹百花洲上樓千金縱有狐白裘<lb/>
+　難買杜寛一藝優妙知音律能雕䤹薛家小童安敢侔<lb/>
+<pb n="KR4h0141_WYG_201-1b"/>
+　江空月白爛不收㝠搜㒺象悲陽侯哀泉聲咽秦隴頭<lb/>
+　何年變曲為凉州神工太古開黄牛驚浪出峽風颼飀<lb/>
+　落葉秋隨渭水流渭水有盡情無休緜緜又若繭緒抽<lb/>
+　要眇寧以智力求須臾水激龍騰湫熊羆夜咆魑魅愁<lb/>
+　勸君不用皓齒謳側耳聽此消百憂寛也胡為此淹留<lb/>
+　自合天上參鳴球飄然我欲歸帝丘仙人張樂煙霧浮<lb/>
+　蒼龍為車挾翠虬千秋萬歲遲子同遨逰<lb/>
+　　　七言絶句<lb/>
+<pb n="KR4h0141_WYG_201-2a"/>
+　　　　宮詞　　　　　　　　　　<hi>宋</hi>花蕊夫人<lb/>
+　御製新翻曲子成六宮纔唱未知名盡將觱篥来抄譜<lb/>
+　先按君王玉笛聲<lb/>
+　　　　鐵笛道人遺觱篥　　　　　<hi>元</hi>張　憲<lb/>
+　漢家鹵簿最多儀来駕雙菰武騎隨不似酒邊呼李衮<lb/>
+　靜擕九漏月中吹<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR4h0141_WYG_201-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選巻二百一<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

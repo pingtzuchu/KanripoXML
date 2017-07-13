@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>營造法式卷二十九</head> <lb/>
+    <p>
+<pb n="KR2m0056_WYG_029-1a"/>
+欽定四庫全書<lb/>
+　營造法式卷二十九<lb/>
+　　　　　　　　　　　　　宋　李誡　撰<lb/>
+　　總例圖様<lb/>
+　　　　圜方方圜圖<lb/>
+　　壕寨制度圖様<lb/>
+　　　　景表版等第一<lb/>
+　　　　水平真尺第二<lb/>
+<pb n="KR2m0056_WYG_029-1b"/>
+　　石作制度圖様<lb/>
+　　　　杜礎角石等第一<lb/>
+　　　　踏道螭首第二<lb/>
+　　　　殿内鬬八第三<lb/>
+　　　　鉤闌門砧第四<lb/>
+　　　　流盃渠第五<lb/>
+<pb n="KR2m0056_WYG_029-2a"/>
+</p>
+<p>
+<pb n="KR2m0056_WYG_029-3a"/>
+</p>
+<p>
+<pb n="KR2m0056_WYG_029-4a"/>
+</p>
+<p>
+<pb n="KR2m0056_WYG_029-5a"/>
+</p>
+<p>
+<pb n="KR2m0056_WYG_029-6a"/>
+</p>
+<p>
+<pb n="KR2m0056_WYG_029-7a"/>
+</p>
+<p>
+<pb n="KR2m0056_WYG_029-8a"/>
+</p>
+<p>
+<pb n="KR2m0056_WYG_029-9a"/>
+</p>
+<p>
+<pb n="KR2m0056_WYG_029-10a"/>
+</p>
+<p>
+<pb n="KR2m0056_WYG_029-11a"/>
+</p>
+<p>
+<pb n="KR2m0056_WYG_029-12a"/>
+</p>
+<p>
+<pb n="KR2m0056_WYG_029-13a"/>
+</p>
+<p>
+<pb n="KR2m0056_WYG_029-14a"/>
+</p>
+<p>
+<pb n="KR2m0056_WYG_029-15a"/>
+</p>
+<p>
+<pb n="KR2m0056_WYG_029-16a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0056_WYG_029-16b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　營造法式卷二十九<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

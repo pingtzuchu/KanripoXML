@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4f0019_SBCK_011-1a"/>
+　　吾師新城王先生以詩學爲海内宗師者四十餘<lb/>
+　　年其詩曰漁洋集漁洋續集南海集蠶尾集蜀道<lb/>
+　　集雍益集通三千餘篇門人盛侍御曹祭酒嘗仿<lb/>
+　　宋蜀人任淵纂豫章集之例擇其尤合作者千餘<lb/>
+　　以爲精華録凡十卷康熈庚辰夏先生以授門人<lb/>
+　　林佶佶承命編録稍有增减皆任氏所謂叢桂崇<lb/>
+　　蘭竒玉特珠者也先是康熙乙丑佶初學詩黄州<lb/>
+　　慕廬葉先生逰閩出先生所選古詩相授斯時佶<lb/>
+　　已服膺先生之教頋無從得先生所自爲詩後三<lb/>
+　　年佶逰吴學扵堯峰汪先生每稱詩輙首服先生<lb/>
+　　佶愈益欣慕而燕閩相去益逺先生官中朝日益<lb/>
+<pb n="KR4f0019_SBCK_011-1b"/>
+　　顯達愈無從得受先生詩又十餘年佶以貢入成<lb/>
+　　均時先生官御史大夫始得登先生門獻詩六章<lb/>
+　　先生嘉許之獲厠門下扵今三年矣一日先生謂<lb/>
+　　其弟幔亭曰林子朴誠士其事堯峰特有始終未<lb/>
+　　知異日扵我何如盖佶嘗扵堯峰身後手録其集<lb/>
+　　而傳之不自意雅為先生所許因遂請願得受先<lb/>
+　　生全詩時先生遷大司㓂政事紛還方抱疾不暇<lb/>
+　　休乃出盛曹二君子所撰精華録以付佶更訂次<lb/>
+　　之夫以先生之為詩上沿四始六義之遺而下薄<lb/>
+　　漢魏六朝唐宋元明諸大家之製作萃其美而滙<lb/>
+　　扵成為當世言詩者之宗匠固無俟佶之賛頌獨<lb/>
+<pb n="KR4f0019_SBCK_011-2a"/>
+　　是㳺先生門者亡慮數十百人而佶以末學晚進<lb/>
+　　来至京師與扵洒掃應對列以償其廿年私㳤之<lb/>
+　　願而今又獲以從事筆札挂名扵其端曩佶嘗言<lb/>
+　　元黄文獻栁文肅吴淵頴三公集皆其門人宋潜<lb/>
+　　溪爲之編序而傳之前跋堯峯文鈔每舉此以致<lb/>
+　　惓惓願學之懐今更舉以似先生良以先生少與<lb/>
+　　堯峰齊名文章品望上與黄栁諸公異世同規而<lb/>
+　　佶皆承其教澤其淂所依㱕而將附之以傳扵後<lb/>
+　　抑何幸耶因識兹録授受之縁𧺫以爲後序云爾<lb/>
+　　康熙<graphic n="KR0996" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0996.png" mimeType="image/png"/>辰夏五門人候官林佶謹書<lb/>
+<pb n="KR4f0019_SBCK_011-2b"/>
+<pb n="KR4f0019_SBCK_011-2b"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

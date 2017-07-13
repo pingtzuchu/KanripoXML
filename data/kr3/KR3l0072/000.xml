@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3l0072_SBCK_000-1a"/>
+桯史序<lb/>
+　　　　　　　相䑓　岳珂　著<lb/>
+　　　　　　　雲間　陳文東　批點<lb/>
+亦齋有桯焉介几間髹表可書余或従搢<lb/>
+紳間聞聞見見歸倦理鉛槧輒記其上編<lb/>
+已則命小史錄臧玄月率三五以為常每<lb/>
+竊自恕以谓公是公非古之人莫之廢也<lb/>
+見睫者不若身厯膝口者不若目擊史之<lb/>
+<pb n="KR3l0072_SBCK_000-1b"/>
+<pb n="KR3l0072_SBCK_000-1b"/>
+朝廷設官盈三館大㮣皆汗青事詳覈備<lb/>
+记裁以三長含毫閣筆猶孫其難而莫之<lb/>
+敢議也彼齊東者何為㦲子幸生天不無<lb/>
+事时亶竊粟縣官進不淂䇿名蘭䑓以垂<lb/>
+信退不得隠几全其忌言之真呫呫法取<lb/>
+棟牛累扵世無毫髮益而猶時四顧出啄<lb/>
+木畫誠可笑抵余無以復則指其桯曰汝<lb/>
+将多言日朘如五逹之交午乎汝将嘿嘿<lb/>
+<pb n="KR3l0072_SBCK_000-2a"/>
+養元如老聃之柱下乎人言勿䘏汝姑謂<lb/>
+汝将奚擇桯㗳然不應予笑曰此真良史<lb/>
+也遂以為序嘉㝎焉逢淹茂歲圉如既望<lb/>
+珂序<lb/>
+<pb n="KR3l0072_SBCK_000-3a"/>
+　桯史目録<lb/>
+　　　　　　　　　　　　　　相　臺　岳　珂<lb/>
+　　卷第一<hi>十二則</hi>
+　　　　張紫微原芝<lb/>
+　　　　藝祖禁䜟書<lb/>
+　　　　徐鉉入聘<lb/>
+　　　　石城堡寨<lb/>
+　　　　湯𡵨公罷相<lb/>
+　　　　南陔脫帽<lb/>
+　　　　張元呉昊<lb/>
+<pb n="KR3l0072_SBCK_000-3b"/>
+　　　　王義豐詩<lb/>
+　　　　琵琶亭術者<lb/>
+　　　　汴京故城<lb/>
+　　　　施冝生<lb/>
+　　　　晉盆杅<lb/>
+　　卷第二<hi>十四則</hi>
+　　　　行都南北内<lb/>
+　　　　犇麤字說<lb/>
+　　　　李順呉曦名䜟<lb/>
+　　　　隆興按鞠<lb/>
+<pb n="KR3l0072_SBCK_000-4a"/>
+　　　　東坡屬對<lb/>
+　　　　冨翁五賊<lb/>
+　　　　太學祭齋碑<lb/>
+　　　　泉江三地名<lb/>
+　　　　牧牛亭<lb/>
+　　　　黠鬼醖夣<lb/>
+　　　　望江二翁<lb/>
+　　　　劉改之詩詞<lb/>
+　　　　金華士人滑稽<lb/>
+　　　　賢己圖<lb/>
+<pb n="KR3l0072_SBCK_000-4b"/>
+　　卷第三<hi>八則</hi>
+　　　　　嵗星之祥<lb/>
+　　　　　梓潼神應<lb/>
+　　　　　機心不自覺<lb/>
+　　　　　館娃浯溪<lb/>
+　　　　　天子門生<lb/>
+　　　　　姑蘇二異人<lb/>
+　　　　　趙希光節槩<lb/>
+　　　　　稼軒論詞<lb/>
+　　卷第四<hi>九則</hi>
+<pb n="KR3l0072_SBCK_000-5a"/>
+　　　　壽星通犀帶<lb/>
+　　　　周夣與釋語<lb/>
+　　　　鄭廣文武詩<lb/>
+　　　　九江二盗<lb/>
+　　　　葉少藴内制<lb/>
+　　　　宣和御畫<lb/>
+　　　　乾道受書禮<lb/>
+　　　　　一言悟主<lb/>
+　　　　蘇葛䇿問<lb/>
+　　卷第五<hi>十三則</hi>
+<pb n="KR3l0072_SBCK_000-5b"/>
+　　　　　劉觀堂讀赦詩<lb/>
+　　　　　部胥増損文書<lb/>
+　　　　　㸔命司<lb/>
+　　　　　宣和服妖<lb/>
+　　　　　安慶張冦<lb/>
+　　　　　陽山舒城<lb/>
+　　　　　宸奎堅忍字<lb/>
+　　　　　何處難忘酒<lb/>
+　　　　　見一堂<lb/>
+　　　　　義騟傳<lb/>
+<pb n="KR3l0072_SBCK_000-6a"/>
+　　　　鳯凰弓<lb/>
+　　　　大小寒<lb/>
+　　　　趙良嗣隨軍詩<lb/>
+　　卷第六<hi>六則</hi>
+　　　　　汪革謡䜟<lb/>
+　　　　鐡劵故事<lb/>
+　　　　鴻慶銘墓<lb/>
+　　　　蘇衢人妖<lb/>
+　　　　快目樓題詩<lb/>
+　　　　記龍眠海㑹圖<lb/>
+<pb n="KR3l0072_SBCK_000-6b"/>
+　　卷第七<hi>五則</hi>
+　　　　呉畏齋謝贄啓<lb/>
+　　　　楚齊僣冊<lb/>
+　　　　優伶詼語<lb/>
+　　　　嘉禾篇<lb/>
+　　　　朝士留刺<lb/>
+　　卷第八<hi>十二則</hi>
+　　　　　九江郡城<lb/>
+　　　　　日官失職<lb/>
+　　　　　紫宸廊食<lb/>
+<pb n="KR3l0072_SBCK_000-7a"/>
+　　　　阜城王氣<lb/>
+　　　　袁孚論事<lb/>
+　　　　鸚鵡諭<lb/>
+　　　　月中人妖<lb/>
+　　　　牸牧相衛<lb/>
+　　　　觧禪偈<lb/>
+　　　　　玉虚宻詞<lb/>
+　　　　太歲方位<lb/>
+　　　　　逆亮辭怪<lb/>
+　　卷第九<hi>十三則</hi>
+<pb n="KR3l0072_SBCK_000-7b"/>
+　　　　　𥙿陵聖瑞<lb/>
+　　　　　狀元雙筆<lb/>
+　　　　　堯舜二字<lb/>
+　　　　　正隆南冦<lb/>
+　　　　　鼈渡橋<lb/>
+　　　　　燕山先見<lb/>
+　　　　　蠲毒圎<lb/>
+　　　　　憲聖護醫<lb/>
+　　　　　魯公拜後<lb/>
+　　　　　金陵無名詩<lb/>
+<pb n="KR3l0072_SBCK_000-8a"/>
+　　　　萬嵗山瑞禽<lb/>
+　　　　　王涇庸醫<lb/>
+　　　　黒虎王醫師<lb/>
+　　卷第十<hi>八則</hi>
+　　　　永泰挽章<lb/>
+　　　　殿中鷴<lb/>
+　　　　劉藴古<lb/>
+　　　　大散論賞書<lb/>
+　　　　成都貢院<lb/>
+　　　　萬春伶語<lb/>
+<pb n="KR3l0072_SBCK_000-8b"/>
+　　　　山谷范滂傳<lb/>
+　　　　　紫巖二銘<lb/>
+　　卷第十一<hi>八則</hi>
+　　　　李白竹枝詞<lb/>
+　　　　蟻蝶圖<lb/>
+　　　　周益公降官<lb/>
+　　　　　畨禺海獠<lb/>
+　　　　　王荆公<lb/>
+　　　　　尊堯集表<lb/>
+　　　　　三忠堂記<lb/>
+<pb n="KR3l0072_SBCK_000-9a"/>
+　　　　臨江四謝<lb/>
+　　卷第十二<hi>十三則</hi>
+　　　　王盧溪送胡忠簡<lb/>
+　　　　秦檜死報<lb/>
+　　　　吕東莱祭文<lb/>
+　　　　猫牛盗<lb/>
+　　　　味諌軒<lb/>
+　　　　龍見赧書<lb/>
+　　　　丹稜巽巖<lb/>
+　　　　鄭少融遷除<lb/>
+<pb n="KR3l0072_SBCK_000-9b"/>
+　　　　沙世堅<lb/>
+　　　　淮隂廟<lb/>
+　　　　金鯽魚<lb/>
+　　　　張賢良夣<lb/>
+　　　　乾坤鑑法<lb/>
+　　卷第十三<hi>六則</hi>
+　　　　　范碑詩跋<lb/>
+　　　　　晦庵感興詩<lb/>
+　　　　　武夷先生<lb/>
+　　　　　任元受啓<lb/>
+<pb n="KR3l0072_SBCK_000-10a"/>
+　　　　冰清古琴<lb/>
+　　　　選人戯語<lb/>
+　卷第十四<hi>五則</hi>
+　　　陳了翁始末<lb/>
+　　　　八陣圖詩<lb/>
+　　　開禧北征<lb/>
+　　　泗州塔院<lb/>
+　　　　二將失律<lb/>
+　卷第十五<hi>八則</hi>
+　　　淳熈内禪頌<lb/>
+<pb n="KR3l0072_SBCK_000-10b"/>
+　　　　　愛莫助之圖<lb/>
+　　　　　慶元公議<lb/>
+　　　　　楊艮議命<lb/>
+　　　　　獻陵䟽文<lb/>
+　　　　　李敬子<lb/>
+　　　　　黃潜善<lb/>
+　　　　　郭倪自比諸葛亮<lb/>
+　桯史目録<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

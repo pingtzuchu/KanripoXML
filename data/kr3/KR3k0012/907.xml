@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3k0012_SBCK_907-1a"/>
+太平御覽卷第九百七<lb/>
+　獸部十九<lb/>
+　　麞<hi>麕附</hi>兎<lb/>
+　　　　　麞<lb/>
+春秋運斗樞曰樞星散爲麞<lb/>
+伏侯古今注曰麞有牙而不能噬鹿有角而不能觸麞一<lb/>
+名<graphic n="KR0874" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0874.png" mimeType="image/png"/>青州人謂<graphic n="KR0874" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0874.png" mimeType="image/png"/>爲麞○抱朴子曰麞兎入軍中當徙之<lb/>
+又曰山中稱赤吏者麞也○吕氏春秋曰使麞疾走馬弗<lb/>
+及也而得之者時願也○瑞應圗曰宋文元嘉二十五年<lb/>
+華林園飬麞生二百子文帝又獲青麞<lb/>
+晉起居注曰咸寧中白麞見魏郡後諸州各送白麞<lb/>
+異苑曰青州劉幡元嘉𥘉射得一麞剖肚藏以草塞之厥<lb/>
+然起走幡怪而拔塞湏臾復還倒如此三焉幡宻録此種<lb/>
+<pb n="KR3k0012_SBCK_907-1b"/>
+求類治傷痍多愈<lb/>
+北史曰後魏廣平王懷甞獵於河北馬塲間逐一麞入草<lb/>
+命人圍遶將自射之田巳先經燒不見其出遂失麞所在<lb/>
+唯有塼塔存焉懷乃悵然動仁恕之心解鷹放犬遂不復<lb/>
+獵<lb/>
+蕭廣濟孝子傳曰蕭國遭喪有鵠遊其庭至暮而玄麞暮<lb/>
+入其門與馬犬侣至旦而去<lb/>
+王𫐠上白麞表曰所領阮藻之於江寧縣界得白麞一頭<lb/>
+毛色鮮㓗異於類誠嘉祥也<lb/>
+　　　　　<graphic n="KR0874" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0874.png" mimeType="image/png"/>
+                    <hi>几筠切</hi>
+爾雅曰<graphic n="KR0874" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0874.png" mimeType="image/png"/>牡麌牝麋<hi>音栗</hi>其子麆<hi>音/助</hi>其跡解絶有力豜<hi>音肩</hi>
+說文曰<graphic n="KR0874" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0874.png" mimeType="image/png"/>麞也<lb/>
+毛詩曰野有死<graphic n="KR0874" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0874.png" mimeType="image/png"/>惡無禮也野有死<graphic n="KR0874" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0874.png" mimeType="image/png"/>白茅苞之<lb/>
+<pb n="KR3k0012_SBCK_907-2a"/>
+穆天子傳曰天子賜曹奴之人白銀之<graphic n="KR0874" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0874.png" mimeType="image/png"/>
+論衡曰都尉王子鳯時<graphic n="KR0874" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0874.png" mimeType="image/png"/>入府中其後迁爲丹陽太守<lb/>
+魏文帝詩曰巾車出鄴宮校獵東橋津湾弓忽髙馳一發<lb/>
+連雙<graphic n="KR0874" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0874.png" mimeType="image/png"/>
+晉書曰中興所在獻白麕<lb/>
+建武故事曰咸和六年計貢合集於樂堂有野<graphic n="KR0874" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0874.png" mimeType="image/png"/>走至堂<lb/>
+前左右逐之於池中而獲之<lb/>
+沈約宋書曰宗室傳曰劉慶於廣陵有疾野<graphic n="KR0874" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0874.png" mimeType="image/png"/>入府心甚<lb/>
+惡之因陳惡求還太祖許之薨于京邑<lb/>
+　　　　　兎<lb/>
+爾雅曰兎子嬎<hi>敷万切</hi>其跡迒絶有力<hi>迒音剛又胡剛切</hi>
+廣志曰兎大者曰毚<hi>音讒</hi>
+春秋運斗樞曰玉衡星散而爲兎<lb/>
+<pb n="KR3k0012_SBCK_907-2b"/>
+孫氏瑞應圖曰赤兎者瑞獸王者盛德則至<lb/>
+典略曰兎者明月之精<lb/>
+詩小雅曰巧言躍躍毚兎遇犬獲之<lb/>
+又國風有兎曰有兎爰爰雉離于羅<hi>爰爰緩意</hi>
+又小雅瓠葉曰有兎斯首炮之燔之<hi>斯白也字或作鮮</hi>
+史記曰李斯出獄頋謂其子曰吾欲與尓復牽黄犬俱出<lb/>
+上蔡東門逐狡兎其可得乎<lb/>
+又曰范雎謂秦昭王曰夫以秦而治諸侯譬若縱韓盧而<lb/>
+摶蹇兎也<lb/>
+謝承後漢書曰儒叔林爲東郡太守赤烏巢於屋梁兎産<lb/>
+於牀下<lb/>
+又曰方儲字聖明丹陽歙人㓜喪父事母母死負土成墳<lb/>
+種樹千株鸞鳥栖集其上白兎遊其下<lb/>
+<pb n="KR3k0012_SBCK_907-3a"/>
+范曄後漢書曰南徼外蠻夷獻白雉兎<lb/>
+又曰蔡邕性篤孝母嘗滯病三年邕自非寒暑節變未嘗<lb/>
+解衿帶不寢寐七旬母卒廬於冡側動静以禮有兎馴擾<lb/>
+其室傍<lb/>
+漢獻帝春秋曰張楊大將睦固屯於射犬巫戒之曰將軍<lb/>
+本名白兎兎見犬必驚不宜屯此固不從司空曰兎入犬<lb/>
+城伹當取遂進軍擊平之<lb/>
+張璠漢記曰梁冀起兎苑於河南移檄所調發生兎刻其<lb/>
+毛以爲識民有犯者罪至死西域嘗有賈胡來不知禁誤<lb/>
+殺一兎轉相告坐死者十餘人也<lb/>
+晉書載記曰石勒時茬<hi>叔之切</hi>平令師歡獲黒兎獻之於勒<lb/>
+或以爲勒龍飛革命之祥於晉以水承金兎隂精之獸玄<lb/>
+爲水色此殿下冝速副天人之望也於是大赦改咸和三<lb/>
+<pb n="KR3k0012_SBCK_907-3b"/>
+年曰大和<lb/>
+王隱晉書曰慕容皝田于南鄙見父老曰此非獵所言卒<lb/>
+不見旣明日又出見白兎馳射之墜馬于石即死<lb/>
+後魏書曰有兎入於後宮撿問門官無從得入太祖恠之<lb/>
+令崔浩推其咎徵浩以爲當有隣國貢嬪嬙者明年姚興<lb/>
+果來獻女<lb/>
+三國典略曰周命尉遟逈伐蜀帥甲士一萬二千騎萬疋<lb/>
+自散關由固道而入太祖送於城西見一走兎命弟中領<lb/>
+軍網射之網誓曰若獲此兎必當破蜀俄而獲兎太祖喜<lb/>
+曰事平之日賞汝佳口及剋蜀乃賜侍婢二人<lb/>
+隋書曰華秋汲郡臨河人也㓜喪父事母以孝聞家貧傭<lb/>
+賃爲飬其母卒秋髮盡秃落廬於墓側負土成墳有人欲<lb/>
+助之者秋輒拜而止之大業𥘉調狐皮郡縣大獵有一兎<lb/>
+<pb n="KR3k0012_SBCK_907-4a"/>
+人逐之奔入秋廬中匿秋膝下獵人至廬所異而免之自<lb/>
+尓此兎常宿廬中馴其左右郡縣嘉其孝感具以狀聞<lb/>
+春秋考異尤曰熒惑不明雉生兎焉<lb/>
+春秋運斗樞曰行失揺光則兎出月<hi>宋灼注曰隂不衘陽故兎出月也</hi>
+春秋元命苞曰君失德則地吐泉魚銜兎<hi>宋灼注曰兎陽精魚是陽見制</hi>
+<hi>也</hi>
+詩推度災曰八月成光决鼻始明决鼻兎也<lb/>
+黄帝占書曰月望而月兎不見者所見之國崩大水滔民<lb/>
+崔豹古今注曰兎口有缺尻有九孔<lb/>
+括地圗曰天池之出有獸如兎名曰飛兎以背毛飛<lb/>
+莊子曰蹄者所以在兎也得兎而忘蹄<hi>蹄者取兎網</hi>
+韓子曰宋人有耕者田中有株兎走觸折頭而死因釋耕<lb/>
+守株冀復得兎爲宋國笑<lb/>
+<pb n="KR3k0012_SBCK_907-4b"/>
+慎子曰一兎走街百人追之積兎於市過而不視非不欲<lb/>
+得分定不争也<lb/>
+韓子曰趙王遊於圃中左右以兎與虎而輟之虎盻然環<lb/>
+其眼王曰可惡哉虎在左右曰平陽之目可惡過此<hi>平陽君趙</hi>
+<hi>王之弟</hi>
+文子曰飛鳥反郷兎走歸窟狐死首丘<lb/>
+抱朴子曰兎壽千歲五百歲其色白<lb/>
+又曰山中夘日稱丈人者兎也<lb/>
+又曰采女丹法以兎血和丹與宻蒸之百日服之如梧子<lb/>
+者二丸一百日有神女二人來侍之可役使<lb/>
+淮南子曰以兎之走使大如馬則逐日追風及其爲馬則<lb/>
+不走矣○又曰楚王珮玦逐兎爲速破乃取兩玦重而着<lb/>
+之其破愈疾<lb/>
+<pb n="KR3k0012_SBCK_907-5a"/>
+述異記曰殷紂之時大龜生毛兎生角兵甲將興兆也<lb/>
+春秋後語曰昔齊有良兎曰東郭俊<hi>本或作狡兎以其善走故曰俊</hi>一日<lb/>
+走百里有良狗曰韓子獹<hi>黒犬也獹讀如盧也</hi>亦一日而走百里使<lb/>
+人遥見而指屬<hi>指属猶指蹤也属音之欲切</hi>則雖韓獹不及良兎躡跡<lb/>
+而蹤之則雖東郭不能離也<lb/>
+春秋後語曰淳于髠說齊威王曰韓子獹天下之壯犬也<lb/>
+東郭俊者海内之狡兎也韓子獹逐東郭俊環山者三騰<lb/>
+山者五兎極於前而犬疲於後犬兎俱疲各死其處田父<lb/>
+見而獲之無勞倦之苦而擅其功今齊魏相持頓兵弊衆<lb/>
+臣恐強秦大楚乘其後而有田父之功也威王懼而罷兵<lb/>
+又曰㽵辛對楚王曰臣聞鄙諺曰見兎而頋犬未爲晩也<lb/>
+亡羊而𥙷牢未爲遲也<lb/>
+又曰馮煖謂孟嘗君曰聞狡兎有三穴<lb/>
+<pb n="KR3k0012_SBCK_907-5b"/>
+范子計然曰兎毫出玄莵樂浪<lb/>
+書紀年曰昭王十九年天大曀雉兎皆震宣王三十年有<lb/>
+兎舞鎬<lb/>
+風俗通曰食兎<graphic n="KR2635" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2635.png" mimeType="image/png"/>
+                    <hi>音牝</hi>者令人靣生<graphic n="KR2635" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2635.png" mimeType="image/png"/>食得<graphic n="KR2635" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2635.png" mimeType="image/png"/>者賞以寒酒<lb/>
+按秦法言好車裂抽脅黔首飲泣永歎故食兎<graphic n="KR2635" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2635.png" mimeType="image/png"/>以爲嘉<lb/>
+瑞全巳之<graphic n="KR2635" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2635.png" mimeType="image/png"/>也所以有賞耳<lb/>
+古今注曰成帝建平元年山陽得白兎目赤如朱京房妖<lb/>
+占曰兎止城上邑必虚入宫生子宫空<lb/>
+廣志曰漢諸郡獻兎毫書鴻都門題唯趙國豪中用<lb/>
+論衡曰兎䑛雄豪而孕及其生子從口中出<lb/>
+又博物志曰兎望月而孕兎吐子舊有此說余目所見也<lb/>
+又曰儒者言月中兎夫月水也兎在水中無不死者夫兎<lb/>
+月氣也<lb/>
+<pb n="KR3k0012_SBCK_907-6a"/>
+又曰任娠者不食兎肉令兒口缺<lb/>
+幽明録曰桓大司馬温時有叅軍夜坐忽見屋樑棟間<lb/>
+有一伏兎張目切齒而向之甚可畏惡兎來轉近遂引<lb/>
+刀而斫之正中於兎而實反傷其膝流血滂沲深恠此意<lb/>
+命家中悉藏刀刄不以自近後忽復見如前意廻或復索<lb/>
+刀重斫因傷委頓幸刀不利故不至死再過而止<lb/>
+傳玄歌辤曰兎擣藥月間安足道神烏戯雲間安足道<lb/>
+楚辤天問曰夜光何德死則又育<hi>夜光月也育生也言月得於天死而復生也</hi>
+古豔歌曰焭焭白兎東走西頋衣不如新人不如故<lb/>
+樂府歌詩曰採取神藥山之端白兎擣成蝦蟇九奉上陛<lb/>
+下一玉柈<hi>音盤</hi>
+太平御覽卷第九百七<lb/>
+<pb n="KR3k0012_SBCK_907-6b"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3a0110_WYG_006-1a"/>
+欽定四庫全書<lb/>
+御覽經史講義卷首目録<lb/>
+　　諸臣進講欽奉<lb/>
+上諭<lb/>
+　　　周易<lb/>
+　　大哉乾元萬物資始乃統天<lb/>
+　　　　　　　　　　　　　檢討<hi>臣</hi>孫景烈<lb/>
+　　后以財成天地之道輔相天地之宜以左右民<lb/>
+<pb n="KR3a0110_WYG_006-1b"/>
+　　　　　　　　　　　監察御史<hi>臣</hi>侯嗣達<lb/>
+　　君子以遏惡揚善順天休命<lb/>
+　　　　　　　　　　　監察御史<hi>臣</hi>張　湄<lb/>
+　　日月得天而能久照四時變化而能久成聖人久<lb/>
+　　　於其道而天下化成<lb/>
+　　　　　　　　　　　　　編修<hi>臣</hi>吳華孫<lb/>
+　　水在火上既濟君子以思患而豫防之<lb/>
+　　　　　　　　　　　　　諭徳<hi>臣</hi>嵇　璜<lb/>
+<pb n="KR3a0110_WYG_006-2a"/>
+　　　書經<lb/>
+　　任賢勿貳去邪勿疑<lb/>
+　　　　　　　　　　　監察御史<hi>臣</hi>吳士功<lb/>
+　　予違汝弼汝無面從退有後言<lb/>
+　　　　　　　　　　　　　編修<hi>臣</hi>張麟錫<lb/>
+　　帝庸作歌曰勅天之命惟時惟㡬乃歌曰股肱喜<lb/>
+　　　哉元首起哉百工熙哉臯陶拜手稽首颺言曰<lb/>
+　　　念哉率作興事愼乃憲欽哉屢省乃成欽哉乃<lb/>
+<pb n="KR3a0110_WYG_006-2b"/>
+　　　賡載歌曰元首明哉股肱良哉庶事康哉又歌<lb/>
+　　　曰元首叢脞哉股肱惰哉萬事墮哉帝拜曰俞<lb/>
+　　　往欽哉<lb/>
+　　　　　　　　　　　侍講學士<hi>臣</hi>楊　椿<lb/>
+　　惟辟作福惟辟作威惟辟玉食臣無有作福作威<lb/>
+　　　玉食<lb/>
+　　　　　　　　　　　侍講學士<hi>臣</hi>張若靄<lb/>
+　　君子所其無逸<lb/>
+<pb n="KR3a0110_WYG_006-3a"/>
+　　　　　　　　　　　　給事中<hi>臣</hi>吳元安<lb/>
+　　爾有嘉謀嘉猷則入告爾后于内爾乃順之于外<lb/>
+　　　曰斯謀斯猷惟我后之徳<lb/>
+　　　　　　　　　　　監察御史<hi>臣</hi>齊　軾<lb/>
+　　　詩經<lb/>
+　　百辟卿士媚于天子不解于位民之攸望<lb/>
+　　　　　　　　　　　監察御史<hi>臣</hi>叢　洞<lb/>
+　　　史<lb/>
+<pb n="KR3a0110_WYG_006-3b"/>
+　　正其誼不謀其利明其道不計其功<lb/>
+　　　　　　　　　　　　　檢討<hi>臣</hi>阮學浩<lb/>
+　　唐太宗以選人多詐冒資蔭勅令自首未㡬有詐<lb/>
+　　　冒事覺者帝欲殺之戴胄奏據法應流帝怒曰<lb/>
+　　　卿欲守法而使朕失信乎對曰勅者出於一時<lb/>
+　　　之喜怒法者國家所以布大信於天下也陛下<lb/>
+　　　忿選人之多詐故欲殺之既而知其不可復斷<lb/>
+　　　之以法此乃忍小忿而存大信也帝曰卿能執<lb/>
+<pb n="KR3a0110_WYG_006-4a"/>
+　　　法朕復何憂<lb/>
+　　　　　　　　　　　　給事中<hi>臣</hi>馬宏琦<lb/>
+　　　性理<lb/>
+　　明不至則疑生明無疑也謂能疑為明何啻千里<lb/>
+　　　　　　　　　　　　　修撰<hi>臣</hi>金徳瑛<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>水雲村稾巻十二</head> <lb/>
+    <p>
+<pb n="KR4d0437_WYG_012-1a"/>
+欽定四庫全書<lb/>
+　水雲村稾巻十二<lb/>
+　　　　　　　　　　　　　元　劉壎　撰<lb/>
+　祭文<lb/>
+　　代祭陳樞密文<lb/>
+嗚呼鉅人長德孰盛盱邦猶洛社英巍巍堂堂宏頤二<lb/>
+老淸節直氣朅来太晚弗逮執摯惟矩齋翁如魯靈光<lb/>
+亦復不久歸白雲鄉猶幸千峯作擎天柱魁樞正明風<lb/>
+<pb n="KR4d0437_WYG_012-1b"/>
+悲䪥露公有鴻文寛平且柔儼類其人冠佩優游公有<lb/>
+達識著龜先見斟酌肯綮與世舒卷公有盛福四顧鮮<lb/>
+儔富貴備矣澹若無求嗚呼四願之疏世許以正晚節<lb/>
+告君人心天命五羊之歸南物不擕明月滿舟見者嗟<lb/>
+嘻心懐魏闕老益弗釋匪為衮裳為國一出<hi>古音拙</hi>出必<lb/>
+調鼎乃遽騎箕造朝幾何丹旐翩飛僕也何人適仕洛<lb/>
+社屢瞻履舄布武堂下幸依耆雋驟失典刑傷嗟諸老<lb/>
+接踵凋零公之不出世遺感矣亦既出只哀哉止此椒<lb/>
+<pb n="KR4d0437_WYG_012-2a"/>
+漿桂酒敬酧一尊公兮歸來為歌招魂<lb/>
+　　為吾母祭舅文<lb/>
+嗚呼人生至痛莫如逆境以老哭壯情何能忍兄弟同<lb/>
+處踰六十年如足如手曾無間言我遷郡城相距百里<lb/>
+山川雖隔心則孔邇旬無音信我思懸懸豈其病邪憂<lb/>
+慮萬千避難來歸幸聚匝月憐汝病深我心如噎尚期<lb/>
+小瘳怡怡優游竟夢一枕長往弗留我老心孤望汝送<lb/>
+死豈料此歸乃反哭汝嗚呼兄弟四人今䘮其三老懐<lb/>
+<pb n="KR4d0437_WYG_012-2b"/>
+悲酸情何以堪我有疾苦毎告吾弟我有肴核亦毎逺<lb/>
+寄凡得汝書我再四觀我書復汝聞汝亦歡汝常來城<lb/>
+惟恐汝去汝别我歸我泪如注而今而後永絶往來望<lb/>
+斷天涯獨雁聲哀三奠永決傷哉倒置桮中之酒皆吾<lb/>
+之泪<lb/>
+　　自祭舅文<lb/>
+嗚呼幼依侍側事公如父公雖方嚴視甥猶子歲在丙<lb/>
+寅甥方締姻蹟則異處情誼益親戊辰如城公不忍别<lb/>
+<pb n="KR4d0437_WYG_012-3a"/>
+我每思公音問不絶公實愛我凡事必咨我毎感公奉<lb/>
+承弗辭去臘兵戈避地還里復欣侍公公則病矣公雖<lb/>
+伏枕見我輒興口不能言心若歡欣公疾已亟猶顧謂<lb/>
+曰以藥救我世無盧扁遂隔古今我實負公痛悔彌深<lb/>
+思公平生淚不可忍公如可贖何愛九隕垂三十年甥<lb/>
+舅圑欒永懐公恩令人心酸放牛馬走為助䘮望報公<lb/>
+止此逾覺悽愴素車在途丹旐在門高堂空空誰能反<lb/>
+魂一尊永決灑泣釋手哀哉此酒能復飲否<lb/>
+<pb n="KR4d0437_WYG_012-3b"/>
+　　祭母文<lb/>
+嗚呼母子團欒四十餘年母今往矣兒無母憐兒憂誰<lb/>
+知兒病誰臆生我劬勞欲報罔極念昔幼日孤寡㷀然<lb/>
+撫育成人酸寒萬千孰知此悲惟毋與子兩心相通何<lb/>
+間生死母恩甚厚母望甚深兒學不達莫慰母心養志<lb/>
+多虧媿負吾毋兒罪通天天誅以斧日吉時良歸於髙<lb/>
+岡母不可留兒割肺腸母子平生決兹一奠哀哉痛哉<lb/>
+泉下相見<lb/>
+<pb n="KR4d0437_WYG_012-4a"/>
+　　祭涂教授文<hi>名清甫</hi>
+惟公古心直道碩學雄辭臯比儼臨士喜得師共期三<lb/>
+載教雨其滋天乎奈何奄忽止斯悲夫藥餌缺於奉侍<lb/>
+棺斂出於有司雖定數之莫逃亦人事之多違内交一<lb/>
+年荷公心知遽隔幽冥泫然傷悲沿檄承乏暫踵蕭規<lb/>
+祖奠柩前檥舟江湄家山匪遙魂兮來歸已而已而哀<lb/>
+哉已而尚享<lb/>
+　<lb/>
+<pb n="KR4d0437_WYG_012-4b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　水雲村稾卷十二<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>甫田集</head>
+    <p>
+<pb n="KR4e0179_WYG_000-1a"/>
+欽定四庫全書　　　　　集部六<lb/>
+　甫田集　　　　　　　　别集類五<hi>明</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案甫田集三十五巻附録一巻明文<lb/>
+　　　　徵明撰徵明初名璧以字行更字徵仲號衡<lb/>
+　　　　山長洲人以嵗貢薦授翰林院待詔事迹具<lb/>
+　　　　明史文苑傳是集凡詩十五巻文二十巻附<lb/>
+　　　　録行畧一巻其仲子嘉所述也徵明與沈周<lb/>
+<pb n="KR4e0179_WYG_000-1b"/>
+　　　　皆以書畫名亦並能詩揮灑淋漓但自寫其<lb/>
+　　　　天趣如雲容水態不可限以方圓徵明詩則<lb/>
+　　　　雅飭之中時饒逸韻靜志居詩話記其告何<lb/>
+　　　　良俊之言曰我少年學詩從陸放翁入故格<lb/>
+　　　　調卑弱不若諸君皆唐音也此所謂如魚飲<lb/>
+　　　　水冷暖自知皎然不誣其本志然周天懷坦<lb/>
+　　　　易其畫雄深而蒼莽詩格如之徵明秉志雅<lb/>
+　　　　潔其畫細潤而瀟灑詩格亦如之要亦各肖<lb/>
+<pb n="KR4e0179_WYG_000-2a"/>
+　　　　其性情不盡由於所倣效也朱彛尊明詩綜<lb/>
+　　　　録徴明詩十五首其池上一首得諸墨迹為<lb/>
+　　　　本集所不載且稱其集外流傳者甚多惜無<lb/>
+　　　　廣搜為續集者然縑素流傳半真半贋與其<lb/>
+　　　　如吳鎮倪瓚諸集多収偽本固不如據其家<lb/>
+　　　　集猶不失本來面目矣乾隆四十四年七月<lb/>
+　　　　恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+<pb n="KR4e0179_WYG_000-2b"/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

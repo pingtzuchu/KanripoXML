@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>緯畧</head>
+    <p>
+<pb n="KR3j0041_WYG_000-1a"/>
+欽定四庫全書　　　　　子部十<lb/>
+　緯畧　　　　　　　　　雜家類二<hi>雜考之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案緯畧十二卷宋髙似孫撰似孫字<lb/>
+　　　　續古餘姚人淳熈十一年進士厯官校書郎<lb/>
+　　　　守處州似孫嘗輯經畧史畧子畧集畧騷畧<lb/>
+　　　　及此書今惟子畧騷畧與此書存陳振孫書<lb/>
+　　　　錄觧題論其讀書以隠僻為博其作文以怪<lb/>
+<pb n="KR3j0041_WYG_000-1b"/>
+　　　　澀為竒然考證之學正不嫌其博而是編所<lb/>
+　　　　引亦皆四庫所著錄非馮贄之流詭辭炫俗<lb/>
+　　　　者比固不得以隠僻譏也明沈士龍又稱其<lb/>
+　　　　愍騷招隠八風圍棊氍□禡牙之類全錄藝<lb/>
+　　　　文初學北堂御覧諸書無所増輯知宋世篇<lb/>
+　　　　集不復具存適用類書誇示宏肆是誠在所<lb/>
+　　　　不免周嬰巵林譏其悮引金樓子以劉休元<lb/>
+　　　　水仙賦為唐劉子元踈舛亦不能無然其言<lb/>
+<pb n="KR3j0041_WYG_000-2a"/>
+　　　　篤實終出楊慎丹鉛諸錄之上亦考古者所<lb/>
+　　　　必資矣乾隆四十五年二月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

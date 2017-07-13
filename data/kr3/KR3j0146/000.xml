@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>雪履齋筆記</head>
+    <p>
+<pb n="KR3j0146_WYG_000-1a"/>
+欽定四庫全書　　　　　子部十<lb/>
+　雪履齋筆記　　　　　　雜家類三<hi>雜說之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案雪履齋筆記一卷元郭翼撰翼字<lb/>
+　　　　羲仲崑山人號東郭生因以東郭先生故事<lb/>
+　　　　名其齋曰雪履嘗獻策張士誠不用歸耕婁<lb/>
+　　　　上老得訓導官偃蹇而終范陽盧熊題其墓<lb/>
+　　　　曰遷善先生又為撰墓志載翼卒于至正二<lb/>
+<pb n="KR3j0146_WYG_000-1b"/>
+　　　　十四年後人謂翼至洪武初嘗徵授學官者<lb/>
+　　　　悞也是編乃江行舟中所紀隨手襍録漫無<lb/>
+　　　　銓次然議論多有可采者如解商書兼弱攻<lb/>
+　　　　昧二句取張九成説解論語犬馬有養句取<lb/>
+　　　　何晏舊注説駁張九齡金鑑録之偽辨蔡氏<lb/>
+　　　　三仁之論皆為有識其論謝師直語一條論<lb/>
+　　　　詩一條亦有義理惟解論語怪力亂神一條<lb/>
+　　　　為力不同科一條過信古注則未免好竒耳<lb/>
+<pb n="KR3j0146_WYG_000-2a"/>
+　　　　乾隆四十五年九月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

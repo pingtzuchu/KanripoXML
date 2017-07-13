@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>丁夘詩集</head>
+    <p>
+<pb n="KR4c0079_WYG_000-1a"/>
+欽定四庫全書　　　　　集部二<lb/>
+　丁夘詩集　　　　　　　别集類一<hi>唐</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案丁夘詩集二巻補遺一巻唐許渾撰<lb/>
+　　　　渾字用晦武后朝宰相圉師之後考新唐書<lb/>
+　　　　宰相世系表圉師為安陸許氏渾為其後應<lb/>
+　　　　亦出於安陸陳振孫書錄解題乃稱渾為丹<lb/>
+　　　　陽人觀集中送王總歸丹陽詩有曰憑寄家<lb/>
+<pb n="KR4c0079_WYG_000-1b"/>
+　　　　書為回報舊居還有故人知葢其家於丹陽<lb/>
+　　　　猶李白系出隴西而為蜀人矣渾太和六年<lb/>
+　　　　進士及第為當塗太平二令以病免起潤州<lb/>
+　　　　司馬大中三年為監察御史厯虞部員外郎<lb/>
+　　　　睦郢二州刺史其曰丁夘集者潤州有丁夘<lb/>
+　　　　橋渾别墅在焉因以名集集中有夜歸丁夘<lb/>
+　　　　橋村舍詩是也新唐書藝文志作二巻晁氏<lb/>
+　　　　讀書志亦作二巻陳氏書錄解題注云蜀本<lb/>
+<pb n="KR4c0079_WYG_000-2a"/>
+　　　　有拾遺二巻今之補遺當即陳氏所謂拾遺<lb/>
+　　　　為後人改題其集外詩又後人掇拾増入耳<lb/>
+　　　　惟晁氏稱近得渾集完本五百篇止二巻是<lb/>
+　　　　本篇數雖合而巻帙不同葢總非宋人刋本<lb/>
+　　　　之舊矣毛晉汲古閣刋本亦二巻詩僅三百<lb/>
+　　　　餘篇疑即晁氏所見之本讀書志或誤三為<lb/>
+　　　　五亦未可知以此本較毛本完備故置彼而<lb/>
+　　　　錄此焉乾隆四十五年二月恭校上<lb/>
+<pb n="KR4c0079_WYG_000-2b"/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

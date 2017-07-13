@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="1a"/>
+毛詩稽古編後序<lb/>
+起甲寅訖丁卯閱十有四載三易稾始成此編雖然未<lb/>
+敢自謂盡善也憶初脱稾時以質於朱子長孺頼其指<lb/>
+摘得以改正者數十條今復再易稾所改正又數倍於<lb/>
+前矣欲求就正之人不能起長孺於九原也輟斤息弦<lb/>
+之歎烏能己巳噫余之有是編也豈偶然哉余家本世<lb/>
+為易學㓜專習之而後以餘力及他經顧心獨好詩吟<lb/>
+誦不去口時童小無知識徒以其葩詞韻語便於喉吻<lb/>
+<pb n="1b"/>
+故好之耳及稍長粗通文義則疑之甚以為五經皆聖<lb/>
+人所以訓世詩獨連章累幅俱淫媟之談此豈可為訓<lb/>
+時時為同學者道之莫余答也後或告余曰此解者自<lb/>
+誤耳詩義本不如是余因思春秋卿大夫賦詩相贈答<lb/>
+如風雨褰裳蘀兮有女同車野有蔓草諸篇皆與焉若<lb/>
+從今解則牀笫之言不踰閾必為嘉賔所譏可見古詩<lb/>
+義不如是告余者决非妄言但未知古人詩說載在何<lb/>
+書也逮少長將成人矣適暑月先君子命源曝書見笥<lb/>
+<pb n="2a"/>
+中有十三經注疏者卷帙頗多竊闚之方知詩有子夏<lb/>
+序毛公傳鄭氏箋大喜曰此其古人詩說乎遂請此書<lb/>
+於先君子伏而誦之則益喜恍若披霧見天始信詩教<lb/>
+之真足訓世不媿為聖作矣而向日之疑盡釋更旁覧<lb/>
+餘經愈歎古經真面目汨没於後儒之訓釋者不僅詩<lb/>
+也從此先儒之說始深入厥心每持以折衷經義不為<lb/>
+衆喙所惑後又於他書更見前軰論經學多有右漢而<lb/>
+左宋者至如馬貴與楊用修極口為詩序訟寃語俱明<lb/>
+<pb n="2b"/>
+確甚幸其先得我心焉然以語人輒笑而弗信學者沈<lb/>
+於所聞又何怪乎惟朱子長孺慨然以窮經自任而與<lb/>
+余遊處最密持論又多與余同故所著周易廣義尚書<lb/>
+埤傳毛詩通義讀左日抄等書並以示余共為論定余<lb/>
+頗效其一得而詩則亦自成一書云盖余自童年好詩<lb/>
+繼乃歴疑而得信以至白首而其信益堅又輔以前軰<lb/>
+之同心知已之共事方有是編也豈偶然哉雖然經義<lb/>
+宏深管闚蠡測敢自謂盡善乎因感就正之無人故述<lb/>
+<pb n="3a"/>
+其顛末書於卷後<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

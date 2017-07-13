@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4c0024_WYG_004-1a"/>
+常建詩附錄<lb/>
+河岳英靈集云高才無貴士誠哉是言曩劉楨死於文<lb/>
+學左思終於記室鮑昭卒於參軍今常建亦淪於一尉<lb/>
+悲夫建詩似初發通莊却尋野徑百里之外方歸大道<lb/>
+所以其㫖逺其興僻佳句輒來唯論意表至如松際露<lb/>
+微月清光猶為君又山光悦鳥性潭影空人心此例十<lb/>
+數句並可稱警策然一篇盡善者戰餘落日黃軍敗鼓<lb/>
+聲死今與山鬼隣殘兵哭遼水屬思旣苦詞亦警絶潘<lb/>
+<pb n="KR4c0024_WYG_004-1b"/>
+岳雖云能叙悲怨未見如此章<lb/>
+歐陽公臨行題青州山齋曰吾常喜誦常建詩云竹徑<lb/>
+遇幽處禪房花木深欲效其語作一聯久不可得乃知<lb/>
+造意者難為工也晚來青州始得山齋宴息乃謂不意<lb/>
+平生想見而不能道以言者乃為巳有於是益欲希其<lb/>
+髣髴竟爾莫獲一言夫前人為開其端其物景又在其<lb/>
+目然不得自稱其懷豈人才有限而不可彊吾將老矣<lb/>
+文思之衰耶兹為終身之恨爾熙寧庚戌仲夏望日題<lb/>
+<pb n="KR4c0024_WYG_004-2a"/>
+姚寛西溪<graphic n="KR1244" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1244.png" mimeType="image/png"/>語曰常建題破山寺後院詩云竹徑通幽<lb/>
+處禪房花木深余觀又𤣥集唐詩類選皆作通熙寧元<lb/>
+年歐陽永叔守青州題廨宇後山齋云竹徑遇幽處有<lb/>
+以□杜石本往河内以見邢和叔始末見時亦頗疑其<lb/>
+誤及見碑反覆味之亦以為佳不知别有本耶抑永叔<lb/>
+自改耶古人用一字不茍也<lb/>
+常建詩跋<lb/>
+常建字無考開元十五年進士大厯中為盱眙尉丹陽<lb/>
+<pb n="KR4c0024_WYG_004-2b"/>
+進士殷璠選河岳英靈集起甲寅終癸巳上下四十年<lb/>
+品藻二十四人譔錄二百三十四詩叙云名不副實才<lb/>
+不合道縱權壓梁竇終無取焉唯以建詩一十五首列<lb/>
+於巻端尤稱弔王將軍一篇以為潘岳弗如也惜其淪<lb/>
+於下僚且曰高才無貴士誠哉是言可謂感嘅極矣據<lb/>
+唐藝文志及通考俱云一巻今流傳詩五十有七首不<lb/>
+知何人類而析之為三巻又見洪魏公載吳故宫一絶<lb/>
+因附焉隠湖毛晉識<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

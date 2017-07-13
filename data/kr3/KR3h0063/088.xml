@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3h0063_WYG_088-1a"/>
+欽定四庫全書<lb/>
+石渠寶笈卷四十三目録<lb/>
+　　　貯<lb/>
+　　長春書屋<lb/>
+　　　列朝人<lb/>
+　　書冊上等<lb/>
+　　　明董其昌雜書<lb/>
+　　畫卷上等<lb/>
+<pb n="KR3h0063_WYG_088-1b"/>
+　　　元錢選觀鵞圖<lb/>
+　　　明唐寅山居圖<lb/>
+　　　明文徵明温蘭圖<lb/>
+　　　貯<lb/>
+　　隨安室<lb/>
+　　　列朝人<lb/>
+　　書冊上等<lb/>
+　　　明董其昌書杜詩<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

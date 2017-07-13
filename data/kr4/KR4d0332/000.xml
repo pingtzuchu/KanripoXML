@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>提要</head>
+    <p>
+<pb n="KR4d0332_WYG_000-1a"/>
+欽定四庫全書　　　　集部四<lb/>
+　提要　　　　　　　　别集類三<hi>宋</hi>
+　　臞軒集十六巻<lb/>
+　　　　臣等謹案臞軒集十六巻宋王邁撰邁字實<lb/>
+　　　　之興化軍仙遊人嘉定十年進士調南外睦<lb/>
+　　　　宗院教授召試學士院改通判漳州應詔直<lb/>
+　　　　言為臺官所劾削二秩淳祐中知邵武軍予<lb/>
+　　　　祠卒贈司農少卿事蹟具宋史本傳然考周<lb/>
+<pb n="KR4d0332_WYG_000-1b"/>
+　　　　宻癸辛雜識有載邁為正字時事而本傳不<lb/>
+　　　　言其為此官則史文亦有所缺畧也邁所著<lb/>
+　　　　文集宋史藝文志不著録惟明錢溥秘閣書<lb/>
+　　　　目載有臞軒集七册王圻續文獻通考亦有<lb/>
+　　　　臞軒集二十巻是明代尚有傳本今世所存<lb/>
+　　　　祗臞軒四六一巻皆啟劄駢偶之作盖即從集<lb/>
+　　　　中抄出别行偶然獨存者也今以永樂大典<lb/>
+　　　　所載兼採他書所引附益之共得文一百七<lb/>
+<pb n="KR4d0332_WYG_000-2a"/>
+　　　　十一首詩四百四十三首詩餘五首釐為一<lb/>
+　　　　十六巻計其篇目約畧得十之七八矣邁少<lb/>
+　　　　負才名而史尤稱其練逹世務蓋非徒欲以<lb/>
+　　　　詞藻見長者考其初以殿試第四人出佐長<lb/>
+　　　　沙幕劉克莊作詩送之有䇿好人争誦名髙<lb/>
+　　　　士責全之句見於後村集中是當對䇿時已<lb/>
+　　　　有伉直之目厥後歴官所上封事類多區别<lb/>
+　　　　邪正剖晰時弊之言如諌喬行簡再相及禋<lb/>
+<pb n="KR4d0332_WYG_000-2b"/>
+　　　　祀雷雨應詔諸篇敷陳皆極剴切其於濟王<lb/>
+　　　　竑事反覆規勸更見拳拳忠愛之心癸辛雜<lb/>
+　　　　識稱邁因輪對追論史彌逺擅權詞氣過戇<lb/>
+　　　　帝以狂生目之邁後歸里遂自稱勅賜狂生<lb/>
+　　　　其事為本傳所未載亦足以見其氣節今集<lb/>
+　　　　中諸疏並存尚可考見一二集中詩文亦多<lb/>
+　　　　昌明俊偉類其為人讀者因其言而論其行<lb/>
+　　　　固不徒取文辭之工矣乾隆四十六年九月<lb/>
+<pb n="KR4d0332_WYG_000-3a"/>
+　　　　恭校上<lb/>
+　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

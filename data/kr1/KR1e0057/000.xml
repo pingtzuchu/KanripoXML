@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>春秋纂言總例</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　　經部五<lb/>
+　春秋纂言總例　　　　　春秋類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案春秋纂言總例七卷春秋纂言十<lb/>
+　　　　二卷元呉澄撰澄有易纂言已著録是書採<lb/>
+　　　　摭諸家傳注而間以己意論斷之首為總例<lb/>
+　　　　凡分七綱八十一目其天道人紀二例澄所創<lb/>
+　　　　作餘吉凶軍賓嘉五例則與宋張大亨春秋<lb/>
+<pb n="1b"/>
+　　　　五禮例宗互相出入似乎蹈襲然澄非蹈襲人<lb/>
+　　　　書者葢大亨學派出於睂山蘇氏澄之學派兼<lb/>
+　　　　出於金谿新安之間門户不同師傳各異未暏<lb/>
+　　　　大亨之書故與之闇合而不知也然其縷析條<lb/>
+　　　　分則較大亨為宻矣至於經文行欵多所割<lb/>
+　　　　裂而經之闕文亦皆補以方空於體例殊為<lb/>
+　　　　未協則澄於諸經率皆有所㸃竄不獨春秋<lb/>
+　　　　為然讀是書者取其長而置其所短可也明<lb/>
+<pb n="2a"/>
+　　　　嘉靖中嘉興府知府蔣若愚嘗為鋟木嵗久<lb/>
+　　　　㪚佚世罕傳本王士禎居易録自云未見其<lb/>
+　　　　書又云朱檢討曾見之呉郡陸醫其清家是<lb/>
+　　　　朱彛尊經義考之註存字亦僅曾一睹之耳<lb/>
+　　　　此本為兩淮所採進殆即傳冩陸氏本歟久<lb/>
+　　　　微而復著固亦可寶之笈矣乾隆四十六年<lb/>
+　　　　六月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+<pb n="2b"/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="3a"/>
+春秋纂言總例原序<lb/>
+屬辭比事春秋教也昔唐啖助趙匡集春秋傳門人陸<lb/>
+淳又類聚事辭成纂例十卷今澄既采摭諸家之言各<lb/>
+麗于經乃分所異合所同倣纂例為總例七篇初一天<lb/>
+道次二人紀次三嘉禮次四賔禮次五軍禮次六㐫禮<lb/>
+次七吉禮例之綱七例之目八十有八凡春秋之例禮<lb/>
+失者書出于禮則入于法故曰刑書也事實辭文善惡<lb/>
+畢見聖人何容心㢤盖渾渾如天道焉嗚呼其義㣲矣<lb/>
+<pb n="3b"/>
+而執謙自謂之竊取區區末學庸詎可得與聞乎臨川<lb/>
+呉澄序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

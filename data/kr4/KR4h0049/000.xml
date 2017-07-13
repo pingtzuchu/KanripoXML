@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>赤城集</head>
+    <p>
+<pb n="KR4h0049_WYG_000-1a"/>
+欽定四庫全書　　　　　集部八<lb/>
+　赤城集　　　　　　　　總集類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案赤城集十八巻宋林表民編集中<lb/>
+　　　　載吳子良赤城續志序稱其字曰逢吉與撰<lb/>
+　　　　天台前集别編之林表民合又稱為東魯人<lb/>
+　　　　則里貫互異葢其先世自曲阜徙臨海故從<lb/>
+　　　　其祖貫言之非别一人也表民常續陳耆卿<lb/>
+<pb n="KR4h0049_WYG_000-1b"/>
+　　　　赤城志復取記志書傳銘誄贊頌之文為志<lb/>
+　　　　所不載者薈而輯之以成此集前有淳祐八<lb/>
+　　　　年吳子良序稱分門會稡并詩為一今此集<lb/>
+　　　　僅有文一百八十二首而無詩又明謝鐸赤<lb/>
+　　　　城新志載赤城集二十八巻有刻本在内閣<lb/>
+　　　　而此本亦祇十八巻疑原本尚有詩十巻為<lb/>
+　　　　傳抄者所脫佚已非完本矣乾隆四十六年<lb/>
+　　　　四月恭校上<lb/>
+<pb n="KR4h0049_WYG_000-2a"/>
+　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

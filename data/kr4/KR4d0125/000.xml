@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>浮沚集</head>
+    <p>
+<pb n="KR4d0125_WYG_000-1a"/>
+欽定四庫全書　　　　　集部三<lb/>
+　浮沚集　　　　　　　　别集類二<hi>宋</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案浮沚集八巻宋周行巳撰行巳字<lb/>
+　　　　恭叔永嘉人元祐六年進士官至秘書省正<lb/>
+　　　　字出知樂清縣陳振孫書録觧題稱其為太<lb/>
+　　　　學愽士以親老歸教授其鄉再入為館職復<lb/>
+　　　　出作縣鄉人至今稱周博士盖相沿稱其初<lb/>
+<pb n="KR4d0125_WYG_000-1b"/>
+　　　　授之官也振孫載浮沚先生集十六巻後集<lb/>
+　　　　三巻宋史藝文志載周行已集十九巻正合<lb/>
+　　　　前後兩集之數而又别出周博士集十巻已<lb/>
+　　　　相牴牾萬厯温州府志又稱行已集凡三十<lb/>
+　　　　巻更參錯不符考振孫之祖母即行已之第<lb/>
+　　　　三女振孫所記當必不誤宋史及温州志均<lb/>
+　　　　傳訛也行已早從伊川程子游傳其緒論實<lb/>
+　　　　開永嘉學浮之先集中有上宰相書云少慕<lb/>
+<pb n="KR4d0125_WYG_000-2a"/>
+　　　　存心養性之説于周孔佛老無所不求而未<lb/>
+　　　　嘗有意于進取又有上祭酒書云十五學屬<lb/>
+　　　　文十七補太學諸生學科舉又二年讀書益<lb/>
+　　　　見道理于是學古人之修徳立行云云觀所<lb/>
+　　　　自叙其生平學問梗概可以畧見則發為文<lb/>
+　　　　章明白淳實粹然為儒者之言固有由也且<lb/>
+　　　　行已之學雖出程氏而與曾鞏黄庭堅晁説<lb/>
+　　　　之秦覯李之儀左譽諸人皆相倡和集中寄<lb/>
+<pb n="KR4d0125_WYG_000-2b"/>
+　　　　魯直學士一詩稱當今文伯眉陽蘇新詞的<lb/>
+　　　　爍垂明珠于蘇軾亦極傾倒絶不立洛蜀門<lb/>
+　　　　户之見故耳濡目染詩文亦皆嫻雅有法尤<lb/>
+　　　　<graphic n="KR0688" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0688.png" mimeType="image/png"/>學家所難能矣集乆失傳今從永樂大典<lb/>
+　　　　所載蒐羅排比共得八巻較之原編十㡬得<lb/>
+　　　　五尚足見其大凡也乾隆四十七年四月恭<lb/>
+　　　　校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+<pb n="KR4d0125_WYG_000-3a"/>
+　　　　　　　　　總　校　官　<hi>臣</hi>陸　費　墀<lb/>
+<pb n="KR4d0125_WYG_000-4a"/>
+欽定四庫全書　　　　　集部三<lb/>
+　浮沚集目錄　　　　　　别集類二<hi>宋</hi>
+　　巻一<lb/>
+　　　奏議二首　　　　　　表二首<lb/>
+　　巻二<lb/>
+　　　經解十二首<lb/>
+　　巻三<lb/>
+　　　䇿三首　　　　　　　䇿問十二首<lb/>
+<pb n="KR4d0125_WYG_000-4b"/>
+　　巻四<lb/>
+　　　序十二首　　　　　　記二首<lb/>
+　　巻五<lb/>
+　　　書五首　　　　　　　啓九首<lb/>
+　　巻六<lb/>
+　　　雜著三十二首<lb/>
+　　巻七<lb/>
+　　　祭文九首　　　　　　誌銘十三首<lb/>
+<pb n="KR4d0125_WYG_000-5a"/>
+　　巻八<lb/>
+　　　五言古詩三十五首　　七言古詩十一首<lb/>
+　　卷九<lb/>
+　　　五言律詩三十五首　　五言排律二首<lb/>
+　　　七言律詩二十一首　　五言絶句五首<lb/>
+　　　七言絶句三十五首<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

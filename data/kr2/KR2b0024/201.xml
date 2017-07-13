@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2b0024_WYG_201-1a"/>
+　　臣恭惟髙宗皇帝受命中天功德巍煌布在方册<lb/>
+　　而廣記備言有裨一朝巨典則惟臣心傳撰次建<lb/>
+　　炎以来繫年要録首為成書臣當拜手稽首伏讀<lb/>
+　　竟編其間大綱目固非可一二數竊謂大駕初南<lb/>
+　　駐廣陵者年餘天歩方艱昃食不暇乃於斯時開<lb/>
+　　經筵召楊時臨軒策士汲汲惟恐後其緝熈聖學<lb/>
+　　扶持道統通天下言路以迓續我宋無疆大歴服<lb/>
+　　實始於此臣載惟藝祖皇帝肇造區夏親平淮南<lb/>
+<pb n="KR2b0024_WYG_201-1b"/>
+　　後因御營作章武殿臣既改築而新之中興舊事<lb/>
+　　故老相傳雖有能彷彿者然文不足證也乃以臣<lb/>
+　　所藏蜀本繫年錄二百巻刋于州治與臣傅良所<lb/>
+　　述建隆編並傳云寳祐元年嵗在癸丑秋八月既<lb/>
+　　望資政殿大學士光禄大夫兩淮制置大使兼淮<lb/>
+　　南東西路安撫使知揚州軍州事兼管内勸農營<lb/>
+　　田屯田使馬歩軍都總管兼提領措置屯田専一<lb/>
+　　措置提督修城節制本路河南屯戍軍馬兼兩淮<lb/>
+<pb n="KR2b0024_WYG_201-2a"/>
+　　屯田大使臨海郡開國公食邑二千一百户食實<lb/>
+　　封三百户臣賈似道恭䟦<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

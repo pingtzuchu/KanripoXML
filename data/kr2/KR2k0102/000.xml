@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>石柱記箋釋</head>
+    <p>
+<pb n="KR2k0102_WYG_000-1a"/>
+欽定四庫全書　　　　　史部十一<lb/>
+　石柱記箋釋　　　　　　地理類七<hi>古蹟之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案石柱記箋釋五巻<lb/>
+　　　國朝鄭元慶撰元慶字芷畦歸安人呉興山水<lb/>
+　　　　清佳自六朝以來稱東南名郡自唐時刻有<lb/>
+　　　　石柱記樹之杼山載其山川陵墓古蹟古器<lb/>
+　　　　甚詳迨傳世既久嵗月名字遂漫漶不可考<lb/>
+<pb n="KR2k0102_WYG_000-1b"/>
+　　　　歐陽修作集古録以為筆畫奇偉非顔真卿<lb/>
+　　　　不能書孫覺知湖州聚境内碑碣築墨妙亭<lb/>
+　　　　貯之凡三十二通石柱埋填淤泥而石柱記<lb/>
+　　　　遂淪沒不復見康熈辛巳元慶重修府志既<lb/>
+　　　　成復訪得宋槧石柱記為世所罕覯惟湖州<lb/>
+　　　　五縣原本祇載其三秀水朱彞尊乃依仿體<lb/>
+　　　　例摭徳清武康二縣事跡輯而補之元慶採<lb/>
+　　　　掇諸書為之注釋其徵據詳明考證精核頗<lb/>
+<pb n="KR2k0102_WYG_000-2a"/>
+　　　　為贍博可取雖於一郡之勝尚未能包括無<lb/>
+　　　　遺而軼典遺聞其梗槩已畧具於此固亦徵<lb/>
+　　　　文考獻者所必資也乾隆四十六年正月恭<lb/>
+　　　　校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

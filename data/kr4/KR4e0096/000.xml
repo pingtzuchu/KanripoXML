@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>運甓漫稿</head>
+    <p>
+<pb n="KR4e0096_WYG_000-1a"/>
+欽定四庫全書　　　　集部六<lb/>
+　運甓漫稿　　　　　　别集類五<hi>明</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案運甓漫稿七巻明李昌祺撰昌祺<lb/>
+　　　　名禎以字行廬陵人永樂甲申進士選庶吉<lb/>
+　　　　士授禮部郎中<hi>按明初六科皆有庶吉士不止翰林有之故得以直授郎</hi>
+　　　　<hi>中</hi>厯官廣西河南左布政使事迹具明史本<lb/>
+　　　　傳是編皆古近體詩並詩餘乃天順三年吉<lb/>
+<pb n="KR4e0096_WYG_000-1b"/>
+　　　　安教授鄭綱所編史稱昌祺預修永樂大典<lb/>
+　　　　凡僻書疑事人多就質其詩清新華贍音節<lb/>
+　　　　自然陳循序稱其本之以理充之以氣故雅<lb/>
+　　　　淡清麗宏偉新竒無不該偹不必逺較於古<lb/>
+　　　　就今而論千百之中不過數輩曹安讕言長<lb/>
+　　　　語極推其題文丞相研一首朱彛尊靜志居<lb/>
+　　　　詩話亦謂李禎詩務謝朝華力啟夕秀取材<lb/>
+　　　　結體頗與段柯古相似葢由其一變綺靡纎<lb/>
+<pb n="KR4e0096_WYG_000-2a"/>
+　　　　巧之習而以流逸出之故别饒鮮潤逈異庸<lb/>
+　　　　蕪鄭瑗井觀瑣言乃曰李布政昌祺人多稱<lb/>
+　　　　其剛毅不撓嘗觀其運甓詩稿浮艶太逞不<lb/>
+　　　　類莊人雅士所為所謂棖也慾焉得剛云云<lb/>
+　　　　是梅花一賦足累宋璟之生平矣執文章正<lb/>
+　　　　宗一編以進退古今之作者不亦隘乎惟其<lb/>
+　　　　中騶虞歌汴城閲武諸篇或稍傷俚俗然論<lb/>
+　　　　一篇之詩當字銖句兩而求之論一家之詩<lb/>
+<pb n="KR4e0096_WYG_000-2b"/>
+　　　　則當統觀其全局不以一二章定工拙也乾<lb/>
+　　　　隆四十三年六月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

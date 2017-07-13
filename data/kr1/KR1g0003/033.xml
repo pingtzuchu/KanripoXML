@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="1a"/>
+　經典釋文校勘記卷下<lb/>
+<hi>一葉九行注</hi>銳<hi>段作說十六行注</hi>呼<hi>乎/十八行注</hi>陟<hi>步二葉二行注</hi>賢遍反<hi>段作切七行注</hi>友<hi>段作反</hi>㳂<hi>公八行注</hi>闞<lb/>
+<hi>段作間十五行注</hi>躭<hi>段作耽/二十行注</hi>艾<hi>段作支三葉三行注</hi>貃<hi>貌四葉二十行</hi>重<hi>段作童五葉六行注</hi>裸<hi>段作臝六葉八行</hi>鴐<hi>段作駕唐石經亦從馬/十二行</hi>卓<hi>段作單十五行注</hi>息<hi>段作悉七葉一行注</hi>主<hi>段删/四行</hi>祝<hi>段作柷下同八葉三行注</hi>弃<hi>段作舟六行注</hi>乃<hi>段作所/十四行注</hi>鑪<hi>鏽十五行注</hi>
+　角<hi>段作氣九葉五行</hi>臼<hi>段作曰/注</hi>其<hi>段作具六行注</hi>申<hi>段作式十葉四行</hi>濮<hi>段作<graphic n="KR1499" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1499.png" mimeType="image/png"/>/十四行注</hi>䧠<hi>鄟十五行注</hi>對<hi>段作計廿一行注</hi>詐<hi>段作許/十一葉十五行注</hi>裘<hi>段作十二葉三行注</hi>鄙<hi>段作</hi>粃<hi>段作秕五行注</hi>直<hi>段作値六行注</hi>
+　邈<hi>段作貌</hi>口<hi>段作兦十四行注</hi>居<hi>段作君十三葉六行</hi>沈之<lb/>
+<pb n="1b"/>
+<hi>如字又音鴆</hi>荀躒<hi>力狄反二條原本/倒置今依段校正/十五行</hi>剄<hi>段作頸注</hi>臘<hi>段作擸十八行注/段删/十九行注/段作十四葉四行注</hi>
+　短<hi>段作知八行</hi>丈<hi>段作大十行注</hi>江<hi>段作工</hi>椒<hi>段作松</hi>消<hi>段作工二十行</hi>績<hi>段作續/十五葉七行</hi>牆<hi>段作嬙十一行注</hi>
+　尺<hi>段作夫</hi>覲<hi>鞅十九行注</hi>改<hi>段作一十六葉二行注</hi>被<hi>段作破</hi>水<hi>段作木五行注</hi>卜<hi>段作角十二行注</hi>子姚子般<hi>段作子般子十三行注</hi>露<hi>段作悛十九行注</hi>由<hi>段作史</hi>火<hi>段作水十七葉四行注</hi>洛<hi>各/六行</hi>眅<hi>段作<graphic n="KR2136" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2136.png" mimeType="image/png"/>廿二行注</hi>莊<hi>段作荏十八葉三行注</hi>一音懦<hi>段作濡/九行注</hi>天<hi>段作五十五行注</hi>殊<hi>段作列廿二行注</hi>側<hi>段作則十九葉五行</hi>官<hi>段作九行注</hi>婢<hi>段作禆十行</hi>滋<hi>段作茲十七行注</hi>薦<hi>麓段作蔍二十葉九行注</hi>求<hi>段作留十四行注</hi>北<hi>段作比二十一葉二十行注</hi>士<hi>段作壬</hi>嵒<hi>段作<graphic n="KR3453" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3453.png" mimeType="image/png"/>廿一行注</hi>成<hi>段作戌二十二<pb n="2a"/>葉七行</hi>德輕<hi>段作輕德十一行注</hi>或<hi>段作又十六行</hi>狅<hi>段作狂十八行注</hi>一<hi>段作於/二十三葉十六行</hi>具<hi>段作且二十行注</hi>諸<hi>段作詩二十四葉五行注</hi>下<hi>段作丁二十五葉二行注</hi>下<hi>段作注五行注</hi>似<hi>段作以</hi>謂<hi>段作請十六行注</hi>注<hi>段作經二十六葉二行注</hi>𣏌<hi>段作祀/四行</hi>敖<hi>段作敬五行</hi>地<hi>段作也二十七葉六行</hi>宗<hi>段作宇/十七行</hi>抵徒<hi>段作抵徙廿一行注</hi>素<hi>段作息廿二行注</hi>呈<hi>段作桯二十八葉十行</hi>苟<hi>段作荀十四行</hi>惑<hi>段作或/廿二行</hi>徑<hi>段作俓二十九葉七行</hi>
+　申<hi>段作甲</hi>
+　經典釋文第二十一<lb/>
+<hi>一葉十二行注</hi>工<hi>上十七行注</hi>亡<hi>土二葉十一行注</hi>七<hi>土十八行</hi>將<hi>段作脟廿二行注</hi>臥<hi>又/三葉廿二行</hi>曰<hi>日四葉八行注</hi>尸<hi>戶十三行</hi>四<hi>卌下同五葉十六行注</hi>不<hi>及段作反<pb n="2b"/>十七行注</hi>班<hi>彘六葉七行注</hi>胘<hi>肱/十行注</hi>七<hi>段作士十二行注</hi>狂<hi>汪十七行注</hi>在<hi>古/七葉二行</hi>礿<hi>杓三行</hi>亟<hi>函十八行注</hi>今<hi>段作本十九行注</hi>丘<hi>亡/八葉十行</hi>并<hi>井廿一行</hi>逆<hi>段作九葉二十行注</hi>咮<hi>味/廿一行注</hi>未<hi>宋十葉十八行注</hi>木<hi>牧</hi>
+                    <graphic n="KR2170" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2170.png" mimeType="image/png"/>
+                    <hi>簿</hi>刈<hi>列十一葉十七行注</hi>音<hi>盲十二葉九行注</hi>腵<hi>暇十八行</hi>髠<hi>段作髧/十三葉十一行注</hi>旦<hi>可十五行注</hi>戒<hi>抄本無十四葉十八行注</hi>寸<hi>丁/十九行注</hi>音<hi>奇廿一行注</hi>掔<hi>堅十五葉十行注</hi>拈<hi>枯/十六葉十二行注</hi>臥<hi>叶十七葉九行注</hi>佐<hi>住十三行注</hi>下<hi>抄本無/十六行注</hi>爾<hi>鬲十八葉三行注</hi>況<hi>沉十二行注</hi>轉<hi>博段作傳十八行注</hi>鄒<hi>段作郵十九行注</hi>漢<hi>濩/二十行注</hi>存<hi>有十九葉一行注</hi>踦<hi>䟹</hi>二<lb/>
+<hi>左</hi>樓<hi>摟十二行注</hi>洽<hi>給/二十葉四行注</hi>䀵<hi>段作眣十六行注</hi>勉<hi>段作池廿二行注</hi>主<hi>王/二十一葉五行</hi>弑<hi>段作殺六<pb n="3a"/>行</hi>接<hi>段作捷八行注</hi>路<hi>段作孔/二十二葉四行</hi>王<hi>正十一行注</hi>踱<hi>蹶十二行注</hi>躢<hi>蹋/二十行</hi>杅<hi>杆二十三葉二行注</hi>
+　木<hi>抄本無二十行</hi>眣<hi>段作䀢二十四葉九行注</hi>賢徧反<hi>下有下同二字廿二行注</hi>下乎<hi>二字抄本無二十五葉七行注</hi>臣<lb/>
+<hi>段删十二行注</hi>俱子<hi>抄本無二十葉九行</hi>彊<hi>段作強下放此十行注</hi>於力反<hi>段云當有下同二字或後人删之三十一葉二行注</hi>絮<hi>段作絜五行注</hi>寧<hi>三十二葉九行注</hi>私<hi>秘十三行注</hi>濼<lb/>
+<hi>十七行注段作胯/三十四葉二行</hi>蒲<hi>段作滿二十行</hi>蒲<hi>段作浦三十五葉一行注</hi>檇<hi>抄本無/五行注</hi>具<hi>段作十三行注</hi>鐵<hi>抄本無三十六葉四行注</hi>一<hi>抄本無十一行注</hi>咸<hi>段作戒</hi>
+　經典釋文第二十二<lb/>
+<hi>二葉十一行注</hi>阮<hi>段作玩三葉三行注</hi>天<hi>尺十一行注</hi>兒<hi>完<pb n="3b"/>十五行注</hi>注同<hi>抄本無四葉二行注</hi>䖍<hi>庚五行</hi>疆<hi>段作彊六葉九行</hi>肫<hi>段作十一行注</hi>洽<hi>洛/七葉四行注/<graphic n="KR1968" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1968.png" mimeType="image/png"/>
+                    十三行</hi>范甯集解<hi>抄本無廿二行注</hi>竟<hi>之八葉四行注</hi>性<hi>往五行注</hi>丈<hi>文九葉二行注</hi>酌<hi>段作勺/七行注</hi>申<hi>白九行</hi>
+　于<hi>手十葉二行注</hi>土<hi>段作堊/十九行</hi>淮<hi>段作幽廿一行</hi>之<lb/>
+<hi>抄本無十三葉十二行注</hi>欑<hi>攢/十七葉一行注</hi>朱<hi>米十二行注</hi>劣<hi>多十八葉七行注</hi>木<hi>禾/十三行注</hi>俘<hi>段作浮十四行注</hi>皆<hi>音十九葉三行</hi>三<hi>段作二/二十葉七行注</hi>縠<hi>段作榖盧据唐石經作縠與葉本注正合/十七行注</hi>頂<hi>項/廿一行注</hi>開<hi>間二十一葉一行注</hi>矩<hi>段删二十四葉十一行注</hi>渝<hi>偷/十九行注</hi>匹<hi>西二十五葉十二行注</hi>償<hi>賞二十六葉一行注</hi>蚡<hi>九行注</hi>掩<hi>俺十二行注</hi>又<hi>段作久十四行注</hi>禾<hi>戈/十五行注</hi>伐<hi>代二十七葉四行注</hi>徧<hi>偏八行注</hi>音烏<hi>烏路反九行注</hi>試<hi>段作弑<pb n="4a"/>十行注</hi>又<hi>段作下二十八葉二十行注</hi>地<hi>也二十九葉十三行注</hi>意<hi>段作章三十葉十二行注</hi>又<hi>段作有</hi>
+　經典釋文第二十三<lb/>
+<hi>一葉十二行注</hi>凡本女子至義別<hi>段云此類皆非陸氏原書孝經音義竄改最甚二葉二行注</hi>辟止<hi>下段有本字十三行注</hi>采<hi>段作綵十八行注</hi>注<lb/>
+　同<hi>段删段云經無惰本見注/廿二行注</hi>始曰爲祭<hi>段云不可解三葉一行注</hi>辱也他簟<hi>段删四葉二行注</hi>正皆放此<hi>段云宋/人所改五葉四行注</hi>並注<hi>段作幷二十行注</hi>皆盜<hi>葉本/空缺六葉一行注</hi>大辟本今<lb/>
+<hi>四字葉本空缺/十一行</hi>兄弟<hi>段作兄事/二十行注</hi>戟<hi>㦸七葉二十行</hi>育<hi>抄本無八葉七行注</hi>字書皆作垗廣韻云垗葬地<hi>段云皆非陸語</hi>
+　故<hi>段作政</hi>
+　經典釋文第二十四<lb/>
+<hi>一葉廿一行</hi>封<hi>對二葉一行注</hi>下<hi>于/十七行注</hi>侃<hi>偘廿一<pb n="4b"/>行注</hi>投<hi>杸三葉九行注</hi>口<hi>曰/四葉九行注</hi>略<hi>段作洛六葉七行</hi>辟<hi>段作僻七葉四行注</hi>可<hi>抄本闕十一葉六行注</hi>碧<hi>若十四行注</hi>不<hi>似十五行注</hi>傒<hi>段作伭十二葉八行</hi>容<hi>客注</hi>七<hi>段作土十三葉四行注</hi>頓<hi>段作遜/六行注</hi>從<hi>盧校抄本云從當作住十一行注</hi>葴<hi>蒧/十五葉一行注</hi>作<hi>段作于十六葉三行注</hi>旦<hi>丹</hi>綽<hi>繛注</hi>僎<hi>段作撰/廿一行注</hi>今作丘何<hi>河十七葉五行</hi>末<hi>段作未十九葉十六行</hi>本戶<hi>段作木二十一葉九行注</hi>下<hi>段作注</hi>
+　經典釋文第二十五<lb/>
+<hi>二葉二行注</hi>合<hi>段作今九行注</hi>本作<hi>下段有侍字十九行注</hi>
+　悔<hi>段作梅</hi>曰<hi>段作云四葉五行注</hi>計<hi>許十二行注</hi>簡文<hi>下有脫字十七行注</hi>徒覽<hi>上有脫字五葉七行注</hi>居<hi>抄本無廿二行注</hi>如止反<hi>段删六葉一行注</hi>育熟反<hi>育反段删十行<pb n="5a"/>注</hi>征<hi>正十九行</hi>者<hi>段作老/廿二行注</hi>丈<hi>段删七葉十行注</hi>
+　河上本<hi>下有脫字</hi>
+　經典釋文第二十六<lb/>
+<hi>四葉十七行注姑/五葉九行注</hi>胥<hi>抄本無十三行注</hi>土<hi>士七葉十行</hi>眹<hi>眣八葉十七行注</hi>耎<hi>抄本無十一葉廿二行注</hi>以<hi>曰十五葉五行注</hi>穊<hi>慨/十六葉六行注/枚十九葉十行注</hi>垂<hi>抄本無十一行注</hi>此<hi>北/廿二行注</hi>頟<hi>抄本無二十葉五行注</hi>漆<hi>沫二十一葉四行注</hi>仙<hi>抄本無二十二葉廿一行</hi>鏌<hi>漠</hi>鋣<hi>鎁注同二十三葉二十行注</hi>
+                    <graphic n="KR1366" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1366.png" mimeType="image/png"/>
+                    <hi>整二十四葉十三行注</hi>無音曲也<hi>下有</hi>應<hi>應對之應下同十四行</hi>應<hi>抄本無</hi>
+　經典釋文第二十七<lb/>
+<hi>一葉九行注</hi>附<hi>酎十九行注</hi>兾<hi>異/廿二行注</hi>具<hi>其二葉二行注</hi>䞨<hi>桂九行注</hi>付<hi>什/三葉二行注</hi>兒<hi>見四葉四行注</hi>李<lb/>
+<pb n="5b"/>
+<hi>本十二行注</hi>頸<hi>顆/十三行注</hi>圭<hi>佳/十五行注</hi>扼<hi>拒十七行注</hi>民<hi>氏五葉一行注</hi>紐<hi>細/二行注</hi>亮<hi>豪/四行</hi>耒<hi>來六葉九行注</hi>巧<hi>功十三行注</hi>池<hi>地/廿二行注</hi>苦<hi>若</hi>詭<hi>言七葉六行注</hi>誨<hi>悔九行注</hi>呼<hi>好/十八行注</hi>狀<hi>抄本無八葉四行注</hi>僵<hi>禮十九行注</hi>慈接<hi>椄/廿一行注</hi>䖍<hi>抄本無九葉三行注</hi>同<hi>抄本無十二行注</hi>匠<hi>近/十四行注</hi>娣<hi>姊十九行注</hi>噫<lb/>
+<hi>意十葉三行注</hi>問<hi>間/廿二行注</hi>束<hi>東十三葉三行注</hi>佳<hi>作五行注</hi>又撫于反<hi>又抄本無/十四葉十九行注</hi>末<hi>求十五葉四行注</hi>棟<hi>㨂七行注</hi>已<hi>也/八行注</hi>漉<hi>淫/九行注</hi>術<hi>時十六葉八行注</hi>怡<hi>恰十七葉八行注</hi>王<hi>三/二十行注</hi>鳳<hi>烏十八葉一行注</hi>己<hi>抄本無十行注</hi>澹<hi>詹/十二行</hi>无<hi>元十三行注</hi>
+　<graphic n="KR0868" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0868.png" mimeType="image/png"/>
+                    <hi>恱廿二行注</hi>小行<hi>行字抄/本無/十九葉廿一行注</hi>蟻<hi>娥二十二葉十一行注</hi>廋<hi>瘦十五行注</hi>白<hi>曰二十三葉二行注</hi>堯<hi>竟<pb n="6a"/>二十行注</hi>暮<hi>萶二十四葉四行注</hi>祖<hi>袒二十五葉一行注</hi>
+　李<hi>抄本無十一行注</hi>株拘<hi>下有也字二十七葉六行注</hi>檀<hi>擅二十八葉廿一行注</hi>禱<hi>鑄二十九葉十行注</hi>
+                    <graphic n="KR2004" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2004.png" mimeType="image/png"/>
+                    <hi>雽三十一葉廿一行注</hi>褩<hi>般三十四葉一行注</hi>稊<hi>梯</hi>
+　經典釋文第二十八<lb/>
+<hi>一葉十六行注</hi>周<hi>同二十行注</hi>憙<hi>抄本無三葉六行注</hi>禮<hi>懽四葉五行注</hi>竅亦<hi>驗並十二行</hi>黬<hi>十四行注昆</hi>胲<hi>形二十行注</hi>亡<hi>云五葉九行注</hi>謵<hi>謂/六葉四行注/權廿二行注</hi>泰<hi>秦七葉三行注</hi>㝢<hi>寓/十三行注</hi>周<hi>國二十行注</hi>
+　懮人<hi>
+                        <graphic n="KR1725" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1725.png" mimeType="image/png"/>人刻本皆誤作懮/惟汲古閣漢書不誤/八葉十二行注</hi>白公<hi>公字抄本無十六行注</hi>雩<hi>掌廿一行注</hi>客<hi>容/九葉十五行注</hi>晚<hi>貌十七行注</hi>
+　暌<hi>木十葉一行注</hi>人<hi>抄本無/十一行注</hi>常<hi>當十八行注</hi>綠<lb/>
+<hi>緣十一葉十六行注</hi>二<hi>云/二十行注</hi>謂之蝸<hi>蝸字抄/本無廿二<pb n="6b"/>行注</hi>音管<hi>抄本無十二葉五行注</hi>樸<hi>撲十行注</hi>變更<hi>更變</hi>椎<lb/>
+<hi>雅十三葉五行注</hi>浴<hi>洛/十四葉一行注</hi>必<hi>心十五葉四行注</hi>背<hi>皆八行注</hi>世<hi>行/十行注</hi>患<hi>十三行注</hi>動<hi>乎十六葉一行注</hi>展<hi>五行注</hi>情<hi>倩十行注</hi>水<hi>收廿二行注</hi>于<hi>子十七葉三行注</hi>息<hi>烏五行注</hi>向<hi>尙/十九行注</hi>輦<hi>輩二十行注</hi>昧<hi>味十八葉二行注</hi>或<hi>抄本無/十一行注</hi>畏<hi>晏晏子陽怒責刻本作畏/十九葉二行注</hi>託<hi>記/十八行注</hi>于<hi>子二十葉三行注</hi>東<lb/>
+<hi>西二十一葉二十行</hi>虎<hi>頭/二十二葉十行注</hi>理<hi>埋二十三葉六行注</hi>毛<hi>十三行注</hi>奏<hi>奉廿一行注</hi>者<hi>音二十五葉三行注</hi>閒<hi>開十三行注</hi>荼<hi>抄本無/二十行注</hi>音<hi>旨二十六葉六行注</hi>與<hi>其九行注</hi>力<hi>九/十行注</hi>順<hi>頤二十七葉二行注</hi>厚作後<hi>後厚作廿二行注</hi>化<hi>抄本無二十八葉二十行注</hi>
+　猶教<hi>敦</hi>聒<hi>照三十葉一行注</hi>叔<hi>救/十一行注</hi>
+                    <graphic n="KR0628" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0628.png" mimeType="image/png"/>
+                    <hi>側二十行<pb n="7a"/>注</hi>眣<hi>抶三十一葉七行注</hi>喙<hi>啄/十三行注</hi>眞<hi>翼三十二葉十四行注</hi>析<hi>折下同</hi>丸<hi>九十六行注</hi>也<hi>世廿一行注</hi>嗟<hi>議三十三葉一行注</hi>模<hi>抄本無</hi>相<hi>抄本無二行注</hi>肆<hi>抄本無</hi>得<hi>祥三行注</hi>唱<hi>昌四行注</hi>祛<hi>柱</hi>惠<hi>專</hi>
+　經典釋文第二十九<lb/>
+<hi>一葉二行</hi>音義上<hi>下有上中二卷旁注四字六行注</hi>楗<hi>徤</hi>一<hi>抄本無</hi>牡<hi>壯</hi>小<lb/>
+　爾雅云<hi>小雅云十行注</hi>詩<hi>燒/十六行注</hi>憭<hi>僚十七行注</hi>稅<lb/>
+<hi>說十八行注</hi>牛蹄<hi>蹄字抄/本無/二葉三行注</hi>㔻<hi>丕八行注</hi>
+                    <graphic n="KR1749" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1749.png" mimeType="image/png"/>
+                    <hi>格十四行注</hi>聿一音<hi>者亦尹</hi>餘橘<hi>抄本無二十行注</hi>齯<hi>抄本無廿二行注</hi>待<hi>徒三葉三行注</hi>洽<hi>抄本無段作合八行注</hi>鬼<lb/>
+<hi>果九行</hi>摽<hi>標/十三行注</hi>籀<hi>籕/廿一行注</hi>蜜<hi>密廿二行</hi>勔<lb/>
+<hi>力抄本無/四葉一行注</hi>字本或音<hi>四字抄/本無/三行注</hi>畝<hi>抄本無/段作母四行注</hi>暘<hi>賜下同十三行注/碎/十九行注</hi>急<hi>苟五葉三行<pb n="7b"/>注</hi>臼<hi>高十一行注</hi>賀<hi>買/十二行注</hi>汙邪<hi>汗耶廿一行注</hi>直<lb/>
+<hi>宜六葉一行</hi>埤<hi>婢/注</hi>避<hi>抄本無</hi>椑<hi>抄奉無/二行</hi>詐<hi>許四行注</hi>妖<hi>沃六行注</hi>閑<hi>十六行注</hi>忱<hi>沈七葉七行注</hi>墟愧<lb/>
+<hi>墟十五行</hi>傅<hi>傳/十六行注</hi>刈<hi>段作乂八葉一行注</hi>用<hi>賢十七行注</hi>實<hi>寶九葉一行注</hi>或<hi>抄本無</hi>褊<hi>徧十二行注</hi>雕<hi>疑十三行注</hi>戶<hi>尸十五行</hi>待<hi>侍/十六行注/黼十葉一行</hi>
+　祺<hi>棋二行注</hi>垗<hi>兆/四行注</hi>申<hi>巾五行注</hi>淩<hi>㥄</hi>凛<hi>涷</hi>也<hi>抄本無六行注</hi>尺<hi>段作赤/九行</hi>窕<hi>宨/十四行注</hi>文<hi>丈十六行注廿二行/十一葉一行注</hi>列<hi>刻</hi>侯<hi>候二行注</hi>
+　丘<hi>段作五十二行注</hi>礙<hi>凝/十四行注</hi>孺<hi>段作儒十七行注</hi>
+　遁<hi>逓廿一行注/䵑/廿二行注</hi>火<hi>夾十三葉二行注</hi>夬<hi>史三行</hi>翿<hi>翢注/纛/四行注</hi>軛<hi>頭/十行注</hi>反又<hi>又音十七行注</hi>憴<hi>僶廿二行注</hi>果<hi>惈/十四葉六行</hi>人<hi>入十行注</hi>郭<lb/>
+<pb n="8a"/>
+　音<hi>音字抄本無</hi>許格反<hi>反字抄/本無/十四行注</hi>亡工<hi>工字抄/本無十六行注</hi>
+　角<hi>魚</hi>洄洄<hi>洄洄十七行注</hi>于回<hi>回字抄/本無二十行注</hi>嚻<hi>抄本無廿一行注</hi>倫<hi>偏</hi>倫理之貌<hi>貎字抄本無廿二行</hi>痯<hi>十五葉一行庾庾/四行注</hi>
+                    <graphic n="KR3398" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3398.png" mimeType="image/png"/>
+                    <hi>十行注</hi>浮<hi>烰十一行注</hi>盲<hi>育</hi>字<lb/>
+　書鍠鍠<hi>段作字書云鍠十四行注</hi>苦<hi>咨/十六行注</hi>結<hi>聲十七行注</hi>作<hi>下有竭字十九行注</hi>思<hi>段作里/十六葉五行</hi>泠<hi>郞丁反</hi>秩<hi>直乙反二條原本倒置今校正/八行注</hi>聿<hi>茟</hi>詩<hi>許廿一行注</hi>當作<hi>下有澗字</hi>擑<hi>檝十七葉一行注</hi>巧言辭<hi>乃言辭</hi>並云籧<hi>籧四行注段作取十三行注</hi>娣<hi>十七行注</hi>本今作公<hi>段云陸氏音注校者誤以經當之/十八葉七行注</hi>牆<hi>檣/九行注</hi>作<hi>什十三行注</hi>榻<lb/>
+<hi>四行注</hi>持<hi>特十九葉七行</hi>閎<hi>八行注</hi>輿<hi>段作與九行注</hi>
+　竹<hi>段作解十一行注/技/二十葉三行</hi>
+                    <graphic n="KR3032" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3032.png" mimeType="image/png"/>
+                    <hi>
+                        <graphic n="KR1857" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1857.png" mimeType="image/png"/>七行注</hi>廓<hi>廊八行注</hi>米<hi>朱二十行注</hi>搏<hi>捕/二十一葉七行注</hi>因<hi>囚二<pb n="8b"/>十二葉一行注</hi>作與<hi>下段有同字</hi>學<hi>尊七行注</hi>筍<hi>段作荀八行注</hi>方<hi>段作力十四行注</hi>沾<hi>佔</hi>坫<hi>玷十八行注</hi>本<hi>下段有又字</hi>蜯<hi>下無又字二十三葉一行注</hi>子<hi>士/七行注</hi>冢<hi>家十二行注</hi>買<hi>賈二十行注</hi>成<hi>段作辛二十五葉十四行注</hi>作掩<hi>下有同字十六行注</hi>筆<hi>聿/二十行注</hi>海<hi>故二十六葉四行注</hi>
+　句<hi>段作付十二行注</hi>云<hi>去/十六行注</hi>咨移<hi>咨字抄/本無二十七葉六行注</hi>䭞<hi>懌七行注</hi>戶<hi>尸/二十行注</hi>手<hi>乎廿二行注</hi>爲<lb/>
+　地<hi>爲字抄本無/二十九葉五行注</hi>花<hi>俟/七行注</hi>睢<hi>雕十行注</hi>澤<lb/>
+<hi>段作渾十二行注</hi>美<hi>段作夷/十三行注</hi>戶<hi>乎十七行注</hi>鰨<lb/>
+<hi>三十葉六行注</hi>音<hi>段作皆十三行注</hi>並<hi>豆三十一葉四行注</hi>澳<hi>段作隩三十三葉七行注</hi>徑<hi>涇/十一行注</hi>䣛<hi>郭十四行注</hi>作<hi>段作音三十四葉二行注</hi>窮<hi>段作第五行注</hi>闐<hi>關十八行注</hi>如鉤<hi>下有屈字</hi>
+<pb n="9a"/>
+　經典釋文第三十<lb/>
+<hi>一葉四行注</hi>從二<graphic n="KR0708" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0708.png" mimeType="image/png"/>
+                    <hi>訛作車</hi>
+                    <graphic n="KR0708" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0708.png" mimeType="image/png"/>
+                    <hi>訛作中</hi>讀若徹<hi>九行注</hi>敏<hi>敦十行注</hi>山薊<hi>下抄本無一字/十一行注</hi>朮<hi>木</hi>葥<hi>段作前二葉八行注</hi>鑿<lb/>
+<hi>糓十行注</hi>粱<hi>段作梁下同/二十行注/<graphic n="KR3146" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3146.png" mimeType="image/png"/>四葉十二行注</hi>
+　<graphic n="KR1562" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1562.png" mimeType="image/png"/>
+                    <hi>段作蔞十九行注</hi>拄<hi>柱/五葉一行注</hi>茝<hi>抄本無八行注</hi>
+　蝭<hi>提十一行注</hi>瀉<hi>寫/二十行注</hi>揖<hi>楫六葉一行注</hi>刃<hi>段作下十一行注/廿二行注</hi>大<hi>丈/七葉三行注</hi>注<hi>下十七行注</hi>車<hi>草十八行注</hi>絳<hi>段作袶</hi>欔<hi>段作攫廿二行注</hi>牀<hi>麻</hi>
+　米<hi>朱八葉一行注</hi>棗<hi>束</hi>刀<hi>抄本無/三行注</hi>涷<hi>段作東四行注</hi>頄<hi>六行注</hi>䓴<hi>下同七行注</hi>白華<hi>草八行注</hi>濱<lb/>
+<hi>十一行注</hi>今<hi>又十二行注</hi>芏<hi>芷/十四行注</hi>云<hi>王</hi>土<hi>士十六行注</hi>芭<hi>芭十九行注</hi>昔<hi>音/廿一行注</hi>戟<hi>載九葉六行</hi>茦<hi>菜十五行注</hi>麋<hi>䴢二十行注</hi>今作萑<hi>段今作適並云影宋本亦誤今据舊刻單注本校正<pb n="9b"/>萑字大書另爲一條/十葉十行注</hi>柂<hi>段作施/十二行注</hi>杉<hi>衫十六行注</hi>棶<hi>段作林十七行注</hi>韌<hi>㓪/十一葉八行注</hi>弘<hi>引十六行注</hi>自裹<hi>裏廿一行</hi>櫅<hi>段作擠十二葉一行注</hi>列<hi>引</hi>短味<hi>哮二行注</hi>之<hi>音四行注</hi>樸者<hi>撲/六行注</hi>今依<hi>段作令八行</hi>杙<lb/>
+<hi>找十一行</hi>楸<hi>揪/十四行注</hi>樷<hi>最/十五行注</hi>枝<hi>杸二十行</hi>
+　㸤<hi>辨廿一行注</hi>式忍<hi>段作作心</hi>作<hi>音十三葉一行注</hi>眞<hi>直三行注</hi>杆<hi>扞十二行注</hi>析<hi>柝/二十行注/䖡</hi>奴<hi>女十四葉十七行注</hi>娩<hi>抄本無</hi>玄<hi>亥二十行注</hi>蚣或蜙字省<hi>蚣爲或字十五葉七行注</hi>則<hi>段作如十四行注</hi>丈<hi>文十九行注</hi>伊<hi>段作尹二十行注</hi>蠨<hi>段作蕭十六葉一行注</hi>枉<hi>在</hi>於<hi>一</hi>求<hi>求二行注</hi>蜾<hi>蝶五行注</hi>照<hi>服/六行注</hi>桑<hi>奏十三行注</hi>
+                    <graphic n="KR2833" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2833.png" mimeType="image/png"/>
+                    <hi>段作十七葉一行注</hi>酬<hi>抄本無六行注</hi>鯦<hi>鮥七行注</hi>鮛<hi>鮇八行注</hi>魱　互<hi>十八行注</hi>蛭<hi>蛙十九行注</hi>葅<hi>植</hi>蛭蝚<hi>姪媃<pb n="10a"/>廿一行注</hi>蟆<hi>段作䗱十八葉十行注</hi>珧<hi>段作坼十二行注</hi>
+　裹<hi>裏十七行注</hi>胎<hi>貽/十九葉五行注</hi>又<hi>反六行注</hi>又<hi>戈</hi>下<lb/>
+　圭反<hi>十行注</hi>此文<hi>又十一行注</hi>加<hi>如/十五行</hi>瞗<hi>鳥二十葉四行注</hi>竺<hi>笁</hi>鴜<hi>段作九行注</hi>色<hi>
+                        <graphic n="KR0693" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0693.png" mimeType="image/png"/>十八行</hi>鴾<hi>段作<graphic n="KR3537" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3537.png" mimeType="image/png"/>
+                    注</hi>牟<hi>卒二十一葉二行注</hi>豆<hi>互/五行注</hi>似<hi>段作以八行注</hi>
+　文<hi>段作云十行注</hi>往<hi>段作同/十五行</hi>箭<hi>子賤/反</hi>脚近<hi>附近之近二條原本倒置今校正/二十二葉三行注</hi>作<hi>段作旁/十行注</hi>了<hi>子十六行</hi>
+　鵌<hi>廿一行注</hi>䳒<hi>截廿二行/段作蹼二十三葉一行注</hi>
+　跂<hi>支段作跛三行注</hi>嗌<hi>段作益/十行注</hi>刃<hi>尸二十行注</hi>豚<lb/>
+<hi>段作丸二十四葉九行</hi>
+                    <graphic n="KR3201" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3201.png" mimeType="image/png"/>
+                    <hi>段作肆/十行注</hi>
+                    <graphic n="KR2903" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2903.png" mimeType="image/png"/>
+                    <hi>㹵十六行注</hi>
+　羊<hi>半二十五葉一行</hi>日<hi>曰七行注</hi>
+                    <graphic n="KR0859" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0859.png" mimeType="image/png"/>
+                    <hi>十一行注</hi>蹂<hi>段作迹十六行注</hi>李<hi>季/廿二行注</hi>音<hi>旦二十六葉一行</hi>耳<hi>甘七行注</hi>瞿<hi>翟十八行注</hi>之名<hi>呂/二十七葉六行</hi>馵<hi>㮚二十<pb n="10b"/>八葉四行注</hi>乎<hi>下七行注</hi>目<hi>呂/十二行注</hi>揖<hi>揮十七行注</hi>
+　犉<hi>惇</hi>袖<hi>廿一行注</hi>簡<hi>檢二十九葉三行</hi>狣<hi>段作七行注</hi>大<hi>段作人</hi>知<hi>如十一行</hi>第三十<hi>下有終字</hi>
+　經典釋文校勘記卷下終<lb/>
+<pb n="11a"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

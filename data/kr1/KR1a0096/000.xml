@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>周易辨録</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　　經部一<lb/>
+　周易辨録　　　　　　　易類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案周易辨録四卷明楊爵撰爵字伯<lb/>
+　　　　修富平人嘉靖己丑進士官至山東道監察<lb/>
+　　　　御史以上疏極論符瑞下詔獄繫七年始得<lb/>
+　　　　釋事迹具明史本傳其書前有自序題嘉靖<lb/>
+　　　　二十四年乙巳蓋即其與周怡劉魁等在獄<lb/>
+<pb n="1b"/>
+　　　　中講論所作故取繫辭困徳之辨一語為名<lb/>
+　　　　明史本傳作周易辨説其名小異然藝文志<lb/>
+　　　　仍作周易辨録蓋刊本字誤也所釋惟六十<lb/>
+　　　　四卦每卦惟載上下經卦辭然其訓解則六<lb/>
+　　　　爻及彖傳象傳皆兼及之特不列其文耳其<lb/>
+　　　　説多以人事為主頗剴切著明蓋以正直之<lb/>
+　　　　操處杌<graphic n="KR1150" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1150.png" mimeType="image/png"/>之㑹幽居遠念寄托良深有未可<lb/>
+　　　　以經生常義律之者然自始至終無一字之<lb/>
+<pb n="2a"/>
+　　　　怨尤其所以為純臣歟乾隆四十四年八月<lb/>
+　　　　恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="3a"/>
+周易辯録原序<lb/>
+予久蒙幽繫自以負罪深重憂患驚惕之念即夙夜而<lb/>
+恒存也困病中日讀周易以自排遣愚昧管窺或有所<lb/>
+得則隨筆之以備遺忘嵗月既久六十四卦之說畧具<lb/>
+矣因名曰周易辯録繫辭曰困徳之辯也吾以驗吾心<lb/>
+之所安力之所勝何如耳若以為實有所見而求灋於<lb/>
+古人焉則吾死罪之餘萬萬所不敢也楊爵書<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

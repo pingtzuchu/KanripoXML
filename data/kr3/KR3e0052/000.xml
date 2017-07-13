@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>内外傷寒辨惑論</head>
+    <p>
+<pb n="KR3e0052_WYG_000-1a"/>
+欽定四庫全書　　　　子部五<lb/>
+　内外傷寒辨惑論　　　醫家類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案内外傷寒辨惑論三卷金李杲撰<lb/>
+　　　　杲字明之自號東垣老人真定人嘗以納貲<lb/>
+　　　　得官監濟源税案元硯堅作東垣老人𫝊稱<lb/>
+　　　　杲以辛亥年卒年七十二則當生于世宗大<lb/>
+　　　　定二十年庚子金亡時年五十五入元十七<lb/>
+<pb n="KR3e0052_WYG_000-1b"/>
+　　　　年乃終故舊本亦或題元人而元史亦載入<lb/>
+　　　　方技𫝊也初杲母嬰疾為衆醫襍治而死訖<lb/>
+　　　　莫知為何證杲自傷不知醫理遂捐千金從<lb/>
+　　　　易州張元素學盡得其法而名乃出於元素<lb/>
+　　　　上卓為醫家大宗是編發明内傷之症有類<lb/>
+　　　　外感辨别隂陽寒熱有餘不足而大㫖總以<lb/>
+　　　　脾胃為主故特製補中益氣湯專治飲食勞<lb/>
+　　　　倦虛人感冒法取補土生金升清降濁得隂<lb/>
+<pb n="KR3e0052_WYG_000-2a"/>
+　　　　陽生化之㫖其闡發醫理至為深㣲前有自<lb/>
+　　　　序題丁未嵗序中稱此論束之髙閣十六年<lb/>
+　　　　以長歴推之其書葢出於金哀宗之正大九<lb/>
+　　　　年辛夘也乾隆四十三年九月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="KR3e0052_WYG_000-3a"/>
+内外傷辯惑論原序<lb/>
+僕㓜自受難素扵易水張元素先生講誦既乆稍有所<lb/>
+得中年以来更事頗多諸所診治坦然不惑曽撰内外<lb/>
+傷辯惑論一篇以證世人用藥之悞陵谷變遷忽成老<lb/>
+境神志既惰懶扵語言此論束之髙閣十六年矣崑崙<lb/>
+范尊師曲相奨借屢以活人為言謂此書果行使天下<lb/>
+之人不致夭折是亦仁人君子濟人利物之事就令著<lb/>
+述不已精力衰耗書成而死不愈扵無益而生乎予敬<lb/>
+<pb n="KR3e0052_WYG_000-3b"/>
+受其言僅力疾成之雖未為完備聊荅尊師慈憫之志<lb/>
+師宋文正公之後也丁未嵗重九日東垣老人李杲明<lb/>
+之序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

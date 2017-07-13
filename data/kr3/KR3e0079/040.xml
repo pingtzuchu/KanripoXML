@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>本草綱目卷十四目録</head> <lb/>
+    <p>
+<pb n="KR3e0079_WYG_040-1a"/>
+欽定四庫全書<lb/>
+　本草綱目卷十四目録<lb/>
+　　草之三　　芳草類五十六種<lb/>
+　　　當歸<hi>本經</hi>
+　　　芎藭<hi>本經</hi>
+　　　蘼蕪<hi>本經</hi>
+　　　蛇牀<hi>本經</hi>
+　　　藁本<hi>本經附徐黄</hi>
+<pb n="KR3e0079_WYG_040-1b"/>
+　　　蜘蛛香<hi>綱目</hi>
+　　　白芷香<hi>本經</hi>
+　　　芍藥<hi>本經</hi>
+　　　牡丹<hi>本經附鼠姑</hi>
+　　　木香<hi>本經</hi>
+　　　甘松香<hi>開寳</hi>
+　　　山柰<hi>綱目</hi>
+　　　㢘薑<hi>拾遺</hi>
+<pb n="KR3e0079_WYG_040-2a"/>
+　　　杜若<hi>本經</hi>
+　　　山薑<hi>藥性</hi>
+　　　髙良薑<hi>别錄即紅豆䓻</hi>
+　　　豆蔲<hi>别錄果即草</hi>
+　　　白豆蔲<hi>開寳</hi>
+　　　縮砂蔤<hi>開寳</hi>
+　　　益智子<hi>開寳</hi>
+　　　蓽茇<hi>開寳</hi>
+<pb n="KR3e0079_WYG_040-2b"/>
+　　　蒟醬<hi>唐本</hi>
+　　　肉豆蔲<hi>唐本</hi>
+　　　補骨脂<hi>開寳即破故紙</hi>
+　　　薑黄<hi>唐本</hi>
+　　　鬱金<hi>唐本</hi>
+　　　蓬莪荗<hi>開寳</hi>
+　　　荆三稜<hi>開寳</hi>
+　　　莎根香附子<hi>别錄</hi>
+<pb n="KR3e0079_WYG_040-3a"/>
+　　　瑞香<hi>綱目</hi>
+　　　茉莉<hi>綱目附素馨</hi>
+　　　鬱金香<hi>開寳</hi>
+　　　茅香<hi>開寳</hi>
+　　　白茅香<hi>拾遺</hi>
+　　　排草香<hi>綱目</hi>
+　　　迷迭香<hi>拾遺</hi>
+　　　䔾車香<hi>拾遺</hi>
+<pb n="KR3e0079_WYG_040-3b"/>
+　　　艾納香<hi>開寳</hi>
+　　　兠納香<hi>海藥</hi>
+　　　線香<hi>綱目</hi>
+　　　藿香<hi>嘉祐</hi>
+　　　薰草零陵香<hi>别錄</hi>
+　　　蘭草<hi>本經</hi>
+　　　澤蘭<hi>本經</hi>
+　　　馬蘭<hi>日華</hi>
+<pb n="KR3e0079_WYG_040-4a"/>
+　　　香薷<hi>别錄</hi>
+　　　石香葇<hi>開寳</hi>
+　　　爵牀<hi>本經</hi>
+　　　赤車使者<hi>唐本</hi>
+　　　假蘇荆芥<hi>本經</hi>
+　　　薄荷<hi>唐本</hi>
+　　　積雪草<hi>本經</hi>
+　　　蘇<hi>哵錄</hi>
+<pb n="KR3e0079_WYG_040-4b"/>
+　　　荏<hi>别錄蘇即白</hi>
+　　　水蘇<hi>本經蘇即雞</hi>
+　　　薺薴<hi>拾遺附石薺薴</hi>
+　　　　右附方舊八十一新三百七十一<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　本草綱目卷十四目錄<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

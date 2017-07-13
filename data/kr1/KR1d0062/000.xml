@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>月令明義卷首</head> <lb/>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　　經部四<lb/>
+　月令明義　　　　　　禮類三<hi>禮記之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案月令明義四卷明黄道周撰道周<lb/>
+　　　　有易象正已著録崇禎十一年道周官少詹<lb/>
+　　　　事注禮記五篇以進此其一也其説以二至<lb/>
+　　　　二分四立皆歸于中央之土為取則於洛書<lb/>
+　　　　之中五而五氣於以分布此嵗功所由成政<lb/>
+<pb n="1b"/>
+　　　　事所從出故作月令氣候生合總圖又以月<lb/>
+　　　　令載昏旦中星故有十二月中星圖併細載<lb/>
+　　　　中星距極逺近度數及寅泰夘大壯十二卦<lb/>
+　　　　彖象以為此聖人敷治之原每一月分為一<lb/>
+　　　　章其日躔星度則各列原本於前而别列授<lb/>
+　　　　時厯新測於後考堯典中星與月令不同故<lb/>
+　　　　大衍厯議曰顓頊厯即夏厯湯作殷厯更以<lb/>
+　　　　十一月甲子合朔冬至為上元周人因之距<lb/>
+<pb n="2a"/>
+　　　　羲和千祀昏明中星俱差半次是不韋更考<lb/>
+　　　　中星斷取近距然先儒論説大扺推求差分<lb/>
+　　　　而不追改經文至唐明皇始黜月令舊文更<lb/>
+　　　　附益時事名御刪定月令改置禮記第一故<lb/>
+　　　　開成石經于昏旦中星悉改從唐厯宋景祐<lb/>
+　　　　二年仍復舊本月令而唐月令別行以其變<lb/>
+　　　　亂古經不足垂訓故也道周乃別立經文曰<lb/>
+　　　　孟春之月日在危昏昴中旦房中仲春之月<lb/>
+<pb n="2b"/>
+　　　　日在東壁昏參中旦箕中云云是又道周自<lb/>
+　　　　為月令蹈唐人之失殊為未協特其所注雜<lb/>
+　　　　采易象夏小正逸周書管子國語參稽考證<lb/>
+　　　　於經義頗有闡發其臚舉史傳亦皆意存規<lb/>
+　　　　戒非漫為推衍禨祥則改經雖謬而其隨事<lb/>
+　　　　納誨之忱固無悖於經義不妨因人而存其<lb/>
+　　　　書也乾隆四十六年十月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+<pb n="3a"/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="4a"/>
+欽定四庫全書<lb/>
+　月令明義卷首<lb/>
+　　　　　　　　　　　　明　黄道周　撰<lb/>
+　　圖<hi>凡十三</hi>　　　月令氣候生合總圖<lb/>
+　　　寅月中星圖卯月中星圖辰月中星圖<lb/>
+　　　巳月中星圖午月中星圖未月中星圖<lb/>
+　　　申月中星圖酉月中星圖戌月中星圖<lb/>
+　　　亥月中星圖子月中星圖　丑月中星圖<lb/>
+<pb n="5a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="5b"/>
+月令寅月昏旦中星圖第一<hi>附星度距極併易卦爻象</hi>
+<pb n="6a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="6b"/>
+　<lb/>
+月令卯月昏旦中星圖第二<lb/>
+<pb n="7a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="7b"/>
+　<lb/>
+月令辰月昏旦中星圖第三<lb/>
+<pb n="8a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="8b"/>
+　<lb/>
+月令巳月昏旦中星圖第四<lb/>
+<pb n="9a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="9b"/>
+　<lb/>
+月令午月昏旦中星圖第五<lb/>
+<pb n="10a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="10b"/>
+　<lb/>
+月令未月昏旦中星圖第六<lb/>
+<pb n="11a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="11b"/>
+　<lb/>
+月令申月昏旦中星圖第七<lb/>
+<pb n="12a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="12b"/>
+　<lb/>
+月令酉月昏旦中星圖第八<lb/>
+<pb n="13a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="13b"/>
+　<lb/>
+月令戌月昏旦中星圖第九<lb/>
+<pb n="14a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="14b"/>
+月令亥月昏旦中星圖第十<lb/>
+<pb n="15a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="15b"/>
+月令子月昏旦中星圖第十一<lb/>
+<pb n="16a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="16b"/>
+月令丑月昏旦中星圖第十二<lb/>
+<pb n="17a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="17b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　月令明義卷首<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

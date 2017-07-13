@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>九章録要</head>
+    <p>
+<pb n="KR3f0056_WYG_000-1a"/>
+欽定四庫全書　　　　　子部六<lb/>
+　九章録要　　　　　　　天文算法類二<hi>算書之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案九章録要十二卷<lb/>
+　　　國朝屠文漪撰文漪字蒓洲松江人其書因古<lb/>
+　　　　九章之術叅以今法與杜知耕所著數學鑰<lb/>
+　　　　體例相似而互有詳畧踈宻知耕詳於方田<lb/>
+　　　　文漪則詳於勾股知耕論少廣備及形體文<lb/>
+<pb n="KR3f0056_WYG_000-1b"/>
+　　　　漪推少廣則研及廉隅之辨知耕叅以西法<lb/>
+　　　　每於設問之下附著其理文漪則采録梅文<lb/>
+　　　　鼎諸書推闡以盡其用大致皆綴集今古之<lb/>
+　　　　法以成書而取舎各異合而視之亦可以互<lb/>
+　　　　相發也是書有借徴一條即借衰叠借之術<lb/>
+　　　　為知耕之所未及考其所載雖未極精宻然<lb/>
+　　　　於借數之巧固已得其大端矣乾隆四十六<lb/>
+　　　　年五月恭校上<lb/>
+<pb n="KR3f0056_WYG_000-2a"/>
+　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

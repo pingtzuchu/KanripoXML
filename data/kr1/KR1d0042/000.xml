@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>儀禮章句</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　　經部四<lb/>
+　儀禮章句　　　　　　　禮類二<hi>儀禮之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案儀禮章句十七卷<lb/>
+　　　國朝呉廷華撰廷華字中林初名蘭芳仁和人<lb/>
+　　　　康熈甲午舉人由中書舍人厯官福建海防<lb/>
+　　　　同知乾隆初嘗薦修三禮杭世駿榕城詩話<lb/>
+　　　　稱廷革去官後寄居蕭寺穿穴賈孔著二禮<lb/>
+<pb n="1b"/>
+　　　　疑義數十卷今考所著有周禮疑義已别著<lb/>
+　　　　録而此書則名章句未審别有儀禮疑義抑<lb/>
+　　　　或改名章句也其書以張爾岐儀禮句讀過<lb/>
+　　　　於墨守鄭注王文清儀禮分節句讀以句讀<lb/>
+　　　　為主箋注失之太畧因折衷先儒以補二書<lb/>
+　　　　所未及每篇之中分其節次毎次之内析其<lb/>
+　　　　句讀其訓釋多本鄭賈箋疏亦間採他説附<lb/>
+　　　　案以發明之於喪禮尤為詳審如士喪禮祖<lb/>
+<pb n="2a"/>
+　　　　為嫡孫條疏謂祖孫本非一體此謂祖為適<lb/>
+　　　　子服斬故於孫不重服特隆於大功疏説非<lb/>
+　　　　是陳大斂具條熬黍稷各二筐敖繼公謂置<lb/>
+　　　　此代奠此獨從注説謂設以聚蟻去熬而蟻<lb/>
+　　　　亦俱去蓋善法也又謂既夕禮皆木桁久之<lb/>
+　　　　句久當作盧氏灸諸牆之灸拄也以辨注疏<lb/>
+　　　　之非又謂祖奠主人當在柩東奠在其南則<lb/>
+　　　　亦在柩東注謂主人及奠俱在柩西非是頗<lb/>
+<pb n="2b"/>
+　　　　見精確惟於三年之喪過信毛竒齡三十六<lb/>
+　　　　月之説不知此説倡自唐王元感當時已為<lb/>
+　　　　禮官所駁閻若璩潛邱劄記辨之尤悉廷華<lb/>
+　　　　蓋偶未考又謂袒免之免疑襯冠者案疏謂<lb/>
+　　　　髽與括髮以麻布自頂鄉前交於額上欲繞<lb/>
+　　　　髻免亦如之但布廣一寸為異未聞有襯冠<lb/>
+　　　　其説亦穿鑿然其章分句釋箋疏明簡於經<lb/>
+　　　　學固不為無補也乾隆四十六年三月恭校<lb/>
+<pb n="3a"/>
+　　　　上<lb/>
+　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

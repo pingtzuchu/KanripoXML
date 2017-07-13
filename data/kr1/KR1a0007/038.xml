@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>周易略例序</head> <lb/>
+    <p>
+<pb n="1a"/>
+欽定四庫全書<lb/>
+　周易略例序<lb/>
+　　唐　四　　門　助　教　郉　璹　撰<lb/>
+　原夫兩儀未位神用藏於視聼一氣化矣至賾隱乎<lb/>
+　名言於是河龍負圖犧皇畫卦仰觀俯察遠物近身<lb/>
+　八象窮天地之情六位備剛柔之體言大道之妙有<lb/>
+　一陰一陽論聖人之範圍顯仁藏用實三元之胎祖<lb/>
+　鼓舞財成爲萬有之蓍龜知來藏往是以孔丘三絕<lb/>
+<pb n="1b"/>
+　未臻樞奥劉安九師尚迷宗旨臣舞象之年鼓篋鱣<lb/>
+　序漁獵墳典偏習周易研窮耽玩無舎寸陰是知卦<lb/>
+　之紀綱周文王之言畧矣象之吉凶魯仲尼之論備<lb/>
+　矣至如王輔嗣略例大則總一部之指歸小則明六<lb/>
+　爻之得失承乘逆順之理應變情僞之端用有行藏<lb/>
+　辭有險易觀之者可以經緯天地探測鬼神匡濟邦<lb/>
+　家推辟咎悔雖人非上聖亦近代一賢臣謹依其文<lb/>
+　輒爲注觧雖不足敷𢎞易道庶幾有裨於敎義亦猶<lb/>
+<pb n="2a"/>
+　螢燐增輝於太陽涓流助深於巨壑臣之志也敢不<lb/>
+　上聞<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

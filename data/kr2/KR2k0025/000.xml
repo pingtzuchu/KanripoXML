@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>延祐四明志</head>
+    <p>
+<pb n="KR2k0025_WYG_000-1a"/>
+欽定四庫全書　　　　　史部十一<lb/>
+　延祐四明志　　　　　　地理𩔖三<hi>都㑹郡縣之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案延祐四明志二十卷元袁桷撰桷<lb/>
+　　　　字伯長慶元人宋知樞宻院事韶之曽孫少<lb/>
+　　　　為麗澤書院山長以薦改翰林國史院檢閲<lb/>
+　　　　官累遷侍講學士辭歸卒贈江浙行省參知<lb/>
+　　　　政事追封陳留郡公謚文清事蹟具元史本<lb/>
+<pb n="KR2k0025_WYG_000-1b"/>
+　　　　𫝊桷文章博贍為一時臺閣之冠所著清容<lb/>
+　　　　居士集五十卷尚存已别著録又有易説春<lb/>
+　　　　秋説諸書見於蘇天爵墓誌銘者則世無𫝊<lb/>
+　　　　本已乆亡佚此乃所輯明州地志成於延祐<lb/>
+　　　　七年葢慶元路總管馬澤属桷為之撰次者<lb/>
+　　　　凡二十卷分為十二考曰沿革曰土風曰職<lb/>
+　　　　官曰人物曰山川曰城邑曰河渠曰賦役曰<lb/>
+　　　　學校曰祠祀曰釋道曰集古義例明簡最為<lb/>
+<pb n="KR2k0025_WYG_000-2a"/>
+　　　　有體桷先世在宋多以文學知名稱東南故<lb/>
+　　　　家遺獻桷没後㑹朝廷修史遣使求郡國遺<lb/>
+　　　　文故事惟袁氏所𫝊為多故其於鄉邦舊典<lb/>
+　　　　尤極貫串志中考核精審叙述清晰不支不<lb/>
+　　　　濫頗有良史之風視至元嘉禾至正無錫諸<lb/>
+　　　　志更為賅洽可稱惟其自第九至第十一已<lb/>
+　　　　闕三卷所存僅十七卷葢為𫝊冩者所脱佚<lb/>
+　　　　然元時地志抄怢無多存之亦足以資考究<lb/>
+<pb n="KR2k0025_WYG_000-2b"/>
+　　　　固未可竟以不完廢之也乾隆四十六年十<lb/>
+　　　　月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

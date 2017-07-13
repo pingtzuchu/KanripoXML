@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>尚書疑義</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　　經部二<lb/>
+　尚書疑義　　　　　　　書類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案尚書疑義六卷明馬明衡撰明衡<lb/>
+　　　　字子萃莆田人正徳丁丑進士官至監察御<lb/>
+　　　　史事迹附見明史朱淛傳是編成於嘉靖壬<lb/>
+　　　　寅前有自序云凡於所明而無疑者從蔡氏<lb/>
+　　　　其有所疑於心而不敢苟從者輙録為篇書<lb/>
+<pb n="1b"/>
+　　　　中如六宗從祭法輯五瑞謂是朝覲之常非<lb/>
+　　　　為更新立異治梁及岐謂為蔡傳勝孔氏洪<lb/>
+　　　　範日月之行取沈括之説於金縢頗有疑辭<lb/>
+　　　　皆能叅酌衆説不主一家非有心與蔡氏立<lb/>
+　　　　異者惟三江必欲連震澤而於所其無逸之<lb/>
+　　　　所字亦不從蔡傳則未免意見之偏又往往<lb/>
+　　　　䦨入時事亦稍失解經體例葢不免醇駁互<lb/>
+　　　　存然明人經解冗濫居多明衡是編尚能研<lb/>
+<pb n="2a"/>
+　　　　究於古義固不以瑕掩瑜也史稱閩中學者<lb/>
+　　　　率以蔡清為宗至明衡獨受業於王守仁閩<lb/>
+　　　　中有王氏學自明衡始考明衡當嘉靖三年<lb/>
+　　　　世宗尊所生而薄所後於興國太后誕節詔<lb/>
+　　　　命婦入賀於慈夀皇太后誕辰乃詔免朝時<lb/>
+　　　　盈庭附和新局而明衡惓惓故君與朱淛力<lb/>
+　　　　爭皆構禍幾殆坐是終身廢棄可謂不愧於<lb/>
+　　　　經術更不必以門户之見論是書之醇疵矣<lb/>
+<pb n="2b"/>
+　　　　乾隆四十六年十月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="3a"/>
+尚書疑義原序<lb/>
+尚書載二帝三王之績歴世自唐虞訖于成周上下千<lb/>
+有餘年聖人不可作矣由今可以見其行事之實者獨<lb/>
+頼是書焉耳先儒謂書以道政事夫書言政事固矣要<lb/>
+其至而言之豈道政事而已哉古者聖人窮而在下則<lb/>
+以其道立言訓後世如吾夫子之所述是也逹而在上<lb/>
+則以其道立政淑當時如二帝三王是也立政者其常<lb/>
+也立言者其變也故二帝三王之書皆聖人逹而在上<lb/>
+<pb n="3b"/>
+見於行事之實與孔孟之言一揆古今斯道之貞元㑹<lb/>
+焉然世有升降之不同事亦推移之遂異同一其任也<lb/>
+而趨舍判焉同一其聖也而作用殊焉兼之記載或淆<lb/>
+沿習失真故自後世觀聖人之事必得聖人之心不得<lb/>
+聖人之心而徒於跡焉求之是猶盲者觀天地日月風<lb/>
+雷之變不眩惑而失常者未之有也夫事者𫝑之所趨<lb/>
+而至焉者也心者理之所極而安焉者也𫝑之所趨而<lb/>
+至則有萬其無窮理之所極而安則至一而不變由其<lb/>
+<pb n="4a"/>
+不變以逹其無窮然後可以得聖人之心觀聖人之事<lb/>
+而聖人之道始克有於我矣自漢以來孔安國始為之<lb/>
+傳唐頴逹復疏其義用意雖勤其於大道概未有聞宋<lb/>
+蔡氏仲黙承文公之訓義理大有發明嘉惠學者甚溥<lb/>
+然以愚之懵也從而求之謂其悉可以得聖人之心而<lb/>
+逹聖人之道則不敢以自詭也故凡於所明而無疑者<lb/>
+從蔡氏其所有疑於心而不敢苟從者輙録為篇以求<lb/>
+是正凡若干言嗚呼聖人之行事非細故也萬古至大<lb/>
+<pb n="4b"/>
+之公案余何人哉謂足以辨之顧先儒或未有論者余<lb/>
+特發其疑以引其端將來君子其無以為妄與僭而不<lb/>
+之正則余今日之心誠為幸矣嘉靖壬寅十有一月朔<lb/>
+後學馬明衡敬題<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2m0038_WYG_009-1a"/>
+　　　　　　　　　　　　　　　　　　<hi>臣</hi>阿桂謹<lb/>
+　　奏查滿洲祭祀一書共六卷欽奉<lb/>
+　諭㫖令<hi>臣</hi>阿桂同于敏中譯漢編入四庫全書<hi>臣</hi>等業<lb/>
+　　　將卷一至卷四敬謹譯出進<lb/>
+　　呈荷䝉<lb/>
+　睿鑒其卷五係器用造作之法卷六係器用形式圖乆<lb/>
+　　　經譯出今復加詳細校對繪圖恭呈<lb/>
+　御覽再原奉<lb/>
+<pb n="KR2m0038_WYG_009-1b"/>
+　諭㫖令<hi>臣</hi>等將<lb/>
+　　坤寧宫所祭之<lb/>
+佛<lb/>
+菩薩<lb/>
+闗帝以及<lb/>
+堂子所祭之<lb/>
+神並祭<lb/>
+天之處詳細分别其不能詳溯緣起及祝辭内相傳舊語<lb/>
+<pb n="KR2m0038_WYG_009-2a"/>
+　　有其聲而無其義者併以闕疑傳信之意敬撰跋<lb/>
+　　語綴於簡末所有謹擬跋語一條附於漢本卷四<lb/>
+　　之後粘貼黃簽進<lb/>
+　呈統俟<lb/>
+欽定發下時交館編入四庫全書以垂永乆並繕寫二<lb/>
+　　分一分送<lb/>
+　懋勤殿陳設一分交<lb/>
+　　尚書房收貯為此謹<lb/>
+<pb n="KR2m0038_WYG_009-2b"/>
+　奏<lb/>
+　　乾隆四十五年七月初二日奉<lb/>
+㫖知道了跋語即行繙出清文欽此<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

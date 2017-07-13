@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>農政全書卷二十二</head> <lb/>
+    <p>
+<pb n="KR3d0007_WYG_022-1a"/>
+欽定四庫全書<lb/>
+　農政全書卷二十二<lb/>
+　　　　　　　　　　　　明　徐光啟　撰<lb/>
+　　農器<lb/>
+　　　圖譜二<lb/>
+王禎曰錢鎛古耘器見於聲詩者尚矣然制分大小而<lb/>
+用有等差揆而求之其鋤耨鏟盪等皆其屬也如耬鋤<lb/>
+鐙鋤耘爪之類是其變也至于薅馬薅鼓又其輔也倘<lb/>
+<pb n="KR3d0007_WYG_022-1b"/>
+度而用之則知水陸之耘事有大功利在矣<lb/>
+<pb n="KR3d0007_WYG_022-2a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_022-2b"/>
+錢臣工詩曰庤乃錢鎛注錢銚也唐韻作<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>器也非鍬<lb/>
+屬也玆度其制似鍬非鍬殆與鏟同纂文曰養苗之道<lb/>
+鋤不如耨耨不如鏟鏟柄長二尺刄廣二寸以剗地除<lb/>
+草此鏟之體用即與錢同<lb/>
+<pb n="KR3d0007_WYG_022-3a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_022-3b"/>
+鎛耨别名也詩曰其鎛斯趙以薅荼蓼釋名曰鎛廹也<lb/>
+廹地去草也爾雅疏云鎛耨一器或云鉏或云鋤屬嘗<lb/>
+質諸考工記粤獨無鎛何也粤之無鎛非無鎛也夫人<lb/>
+而能為鎛也<lb/>
+<pb n="KR3d0007_WYG_022-4a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_022-4b"/>
+耨除草器易曰耒耨之利以教天下呂氏春秋曰耨柄<lb/>
+尺此其度也其長六寸所以間稼也高誘注云耨芸苗<lb/>
+也六寸所以入苗間廣雅又云定謂之耨爾雅曰斪斸<lb/>
+謂之定郭曰鋤屬淮南子曰摩蜃而耨<hi>蜃大蚌也摩令利用耨此古農</hi>
+<hi>器也</hi>纂文曰養苗之道鋤不如耨古農法云苗生葉以上<lb/>
+稍耨壠草因隤其土以附苗根此耨功也<lb/>
+<pb n="KR3d0007_WYG_022-5a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_022-5b"/>
+耰鉏耰為鉏柄也釋名鋤助也去穢助苗也説文鋤立<lb/>
+薅也夫<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>法有四一次曰鏃二次曰布三次曰擁四次<lb/>
+曰復鋤則苗隨兹茂其刀如半月比禾壠稍狹上有短<lb/>
+銎以受鋤鉤鉤如鵝項下帶深袴<hi>皆以鐵為之</hi>以受木柄鉤<lb/>
+長二尺五寸柄亦如之北方陸田舉皆用此江淮間雖<lb/>
+有陸田習俗水種但用直項鋤頭刄雖鋤也其用如斸<lb/>
+是名钁鋤故陸田多不豐收今表此耰鋤之効并其制<lb/>
+度庶南北通用<lb/>
+<pb n="KR3d0007_WYG_022-6a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_022-6b"/>
+耬鋤種蒔直説云此器出自海壖號曰耬鋤耬制頗同<lb/>
+獨無耬斗但用耰鋤鐵柄中穿耬之横桄下仰鋤刄形<lb/>
+如杏葉撮苗後用一驢帶籠觜輓之初用一人牽慣熟<lb/>
+不用人止一人輕扶如土二三寸其深痛過鋤力三倍<lb/>
+所辦之田日不啻二十畝今燕趙間用之名曰劐子劐<lb/>
+子之制又小異於此劐子第一遍即成溝子榖根未成<lb/>
+不耐旱耬鋤刄在土中故不成溝子第二遍加擗土木<lb/>
+鴈翅方成溝子其土分壅榖根擗土<hi>用木厚三寸闊三寸長八寸取成三</hi>
+<pb n="KR3d0007_WYG_022-7a"/>
+<hi>角様前為尖中作一竅長一寸闊半寸穿於鐵鋤柄上壓鋤刄上</hi>韓氏直説云如耬鋤<lb/>
+過苗閭有小豁不到處用鋤理撥一遍即為全功也<lb/>
+<pb n="KR3d0007_WYG_022-8a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_022-8b"/>
+鐙鋤剗草具也形如馬鐙其踏鐵兩旁作刄甚利上有<lb/>
+圓銎以受直柄用之剗草故名鐙鋤柄長四尺比常鉏<lb/>
+無兩刄角不致動傷苗稼根莖或遇少旱或熇苗之後<lb/>
+壠土稍乾荒薉復生非耘耙耘爪所能去者故用此剗<lb/>
+除特為徤利此創物者隨地所宜偶假其形而取便於<lb/>
+用也嘗見江東農家用之<lb/>
+<pb n="KR3d0007_WYG_022-9a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_022-9b"/>
+截釋名曰鏟平削也廣雅曰䕙纂文曰養苗之道鋤不<lb/>
+如耨耨不如鏟鏟柄長二尺刄廣二寸以剗地除草此<lb/>
+古之鏟也今鏟與古制不同柄長數尺首廣五寸許兩<lb/>
+手持之但用前進攛之剗去壠草就覆其根特號敏㨗<lb/>
+今營州之東燕薊以北農家種溝田者皆用之<lb/>
+<pb n="KR3d0007_WYG_022-10a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_022-10b"/>
+耘盪江浙之間新制之形如木屐而實長尺餘闊約三<lb/>
+寸底列短釘二十餘枚簨其上以貫竹柄柄長五尺餘<lb/>
+耘田之際農人執之推盪禾壠間草泥使之溷溺則田<lb/>
+可精熟既勝杷鋤又代手足<hi>水田有手耘足耘</hi>况所耘田數日<lb/>
+復兼倍嘗見江東等處農家皆以兩手耘田匍匐水間<lb/>
+膝而行前日曝於上泥潮於下豳詩農事之敘至耘苗<lb/>
+則曰暑日流金田水若沸耘耔是事稂莠是除爬沙而<lb/>
+指為之戾傴僂而腰為之折此耘苗之苦也今覩此器<lb/>
+<pb n="KR3d0007_WYG_022-11a"/>
+惜不預傳以濟民用兹特列叙庶愛民者精為取法<lb/>
+𤣥扈先生曰既盪仍須耘盪一<hi>闕</hi>
+<pb n="KR3d0007_WYG_022-12a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_022-12b"/>
+耘爪耘水田器也即古所謂鳥耘者<hi>闕</hi>　　　　隨手<lb/>
+指大小截之長可逾寸削去一<hi>闕</hi>狀如<hi>闕</hi>　　　堅利<lb/>
+以鐵為之穿於指上<hi>闕</hi>
+爪也今江南改為此具更為省便<lb/>
+<pb n="KR3d0007_WYG_022-13a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_022-13b"/>
+薅馬薅禾所乗竹馬也佀籃而長如鞍而狹兩端攀以<lb/>
+竹桑農人薅草之際乃寘于跨間餘裳斂之於内而上<lb/>
+控于腰畔乗之兩股既寛行壠上不礙苗行又且不為<lb/>
+禾葉所<graphic n="KR3945" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3945.png" mimeType="image/png"/>故得專意摘剔稂莠速勝鋤耨殆若秧馬之<lb/>
+類因命曰薅馬<lb/>
+<pb n="KR3d0007_WYG_022-14a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_022-14b"/>
+銍穫禾穗刄也臣工詩曰奄觀銍艾書禹貢曰二百里<lb/>
+納銍小爾雅云截頴謂之銍截頴即穫也據陸詩釋文<lb/>
+云銍穫禾短䥥也纂文曰江湖之間以銍為刈説文云<lb/>
+此則銍器斷禾聲也故曰銍<lb/>
+<pb n="KR3d0007_WYG_022-15a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_022-15b"/>
+艾穫器今之<graphic n="KR2505" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2505.png" mimeType="image/png"/>䥥也方言曰刈江淮陳楚之間謂之銘<lb/>
+<hi>音昭</hi>或謂之鍋<hi>音渠</hi>自關而西或謂之鉤或謂之鎌或謂之<lb/>
+鍥<hi>音結</hi>詩奄觀銍艾釋音乂韻作艾芟草亦作刈賈策若<lb/>
+艾草菅注艾讀曰刈古艾從草今刈從刀宜通用<lb/>
+<pb n="KR3d0007_WYG_022-16a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_022-16b"/>
+䥥刈禾曲刀也釋名曰䥥亷也薄甚所刈似亷考工又<lb/>
+作鎌風俗通曰䥥刀自揆積芻蕘之效然䥥之制不一<lb/>
+有佩䥥有兩刄䥥有袴䥥有鉤䥥有䥥柌之䥥皆古今<lb/>
+通用芟器也<lb/>
+<pb n="KR3d0007_WYG_022-17a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_022-17b"/>
+推䥥斂禾刄也如蕎麥熟時子易焦落故制此具便於<lb/>
+收斂形如偃月用木柄長可七尺首作兩股短叉架以<lb/>
+横木約二尺許兩端各穿小輪圓轉中嵌䥥刄前囘仍<lb/>
+左右加以斜杖謂之蛾眉杖以聚所劖之物凡用則執<lb/>
+柄就地推去禾莖既斷上以蛾眉權約之乃囘手左擁<lb/>
+成<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>以離舊地另作一行子既不損又速於刀刈數倍<lb/>
+此推䥥體用之效也<lb/>
+<pb n="KR3d0007_WYG_022-18a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_022-18b"/>
+粟鋻截禾頴刄也集韻云鋻剛也其刄長寸餘上帶圓<lb/>
+銎穿之食指刄向手内農人收穫之際用摘禾穗與銍<lb/>
+䥥制不同而名亦異然其用則一此特加便㨗耳<lb/>
+<pb n="KR3d0007_WYG_022-19a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_022-19b"/>
+䥛似刀而上彎如䥥而下直其背指厚刄長尺許柄盈<lb/>
+二握江淮之間恒用之方言云自關而西謂之鉤江南<lb/>
+謂之鍥鍥䥛集韻通用又謂之彎刀以刈草木或斫柴<lb/>
+篠或代䥥斧一物兼用農家便之<lb/>
+<pb n="KR3d0007_WYG_022-20a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_022-20b"/>
+鏺集韻云鏺兩刄刈也其刄長餘二尺闊可三寸横揷<lb/>
+長木柄内牢以逆楔農人兩手執之遇草萊或麥禾等<lb/>
+稼折要展臂匝地芟之柄頭仍用掠草杖以聚所芟之<lb/>
+物使易收束太公農器篇云春鏺草棘又唐有鏺麥殿<lb/>
+今人亦云芟曰鏺葢體用互名皆此器也<lb/>
+<pb n="KR3d0007_WYG_022-21a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_022-21b"/>
+<graphic n="KR2030" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2030.png" mimeType="image/png"/>刀集韻與劙同闢荒刅也其制如短䥥而背則加厚<lb/>
+嘗見開墾蘆葦蒿萊等荒地根株駢密雖强牛利器鮮<lb/>
+不困敗故于耕犁之前先用一牛引曳小犁仍置刄裂<lb/>
+地闢及一隴然後犁鑱隨過覆撥截然省力過半又有<lb/>
+於本犁轅首裏邊就置此刄比之别用人畜就省便也<lb/>
+<pb n="KR3d0007_WYG_022-22a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_022-22b"/>
+䥷<hi>切草也</hi>凡造䥷先鍜鐵為䥷背厚可指許内嵌䥷刄如<lb/>
+半月而長下帶鐵桍以揷木柄截木作碪長可三尺有<lb/>
+餘廣可四五寸碪首置木簨高可三五寸穿其中以受<lb/>
+䥷<lb/>
+<pb n="KR3d0007_WYG_022-23a"/>
+斧<hi>圖不載</hi>釋名曰斧甫始也凡將制器始以斧伐木已乃<lb/>
+制之也周書曰神農作陶冶斧破木為耒耜鋤耨以墾<lb/>
+草莽然後五榖興其柄為柯然樵斧桑斧制頗不同樵<lb/>
+斧狹而厚桑斧闊而薄葢隨所宜而制也今農耕作之<lb/>
+際修理佃具隨身尤不可闕者<lb/>
+鋸<hi>圖不載</hi>解截木也古史考曰孟莊子作鋸説文曰鋸槍<lb/>
+唐也莊子曰禮若亢鋸之柄又曰天下好智而百姓求<lb/>
+竭矣於是乎釿<hi>音斤</hi>鋸顓焉太公農器篇云钁鍤斧鋸此<lb/>
+<pb n="KR3d0007_WYG_022-23b"/>
+鋸為農器尚矣今接博桑果不可闕者<lb/>
+<pb n="KR3d0007_WYG_022-24a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_022-24b"/>
+礪磨刄石也書曰揚州厥貢礪砥廣志曰礪石出首陽<lb/>
+山有紫白粉色出南昌者最善山海經曰高梁之山多<lb/>
+砥礪尸子曰鐵使干越之工鑄之以為劒而勿加砥礪<lb/>
+則以刺不如擊不斷磨之以礱加之以黄砥則刺也無<lb/>
+前擊也無下自是觀之礪與弗礪其相去遠矣今農器<lb/>
+䥥斧䥛鏺之類非礪不可大小之家所必用也蔡邕銘<lb/>
+曰木以繩直金以沛剛必須砥礪就其鋒鋩<lb/>
+<pb n="KR3d0007_WYG_022-25a"/>
+</p>
+<p>
+<pb n="KR3d0007_WYG_022-26a"/>
+杷鏤鏉器也方言云宋魏間謂之渠拏或謂之渠疏直<lb/>
+柄横首柄長四尺首闊一尺五寸列鑿方竅以齒為節<lb/>
+夫畦畛之間鎪剔塊壌疏去瓦礫場圃之上摟聚麥禾<lb/>
+擁積稭穗此益農之功也後有榖杷或謂透齒杷用攤<lb/>
+曬榖又耘杷以木為柄以鐵為齒用耘稻禾竹杷埸圃<lb/>
+樵野間用之<lb/>
+<pb n="KR3d0007_WYG_022-27a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_022-27b"/>
+朳無齒杷也所以平土壌聚榖實説文云無齒為朳禾<lb/>
+譜字作戛周生烈曰夫忠蹇朝之杷朳正人國之埽篲<lb/>
+秉杷執篲除㓙掃穢國之福主之利也杷朳之為器也<lb/>
+見於書傳至今不替其用為不負紀錄矣<lb/>
+<pb n="KR3d0007_WYG_022-28a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_022-28b"/>
+平板平摩種秧泥田器也用滑面水板長廣相稱上置<lb/>
+兩耳繫索連軛駕牛或人拖之摩田須平方可受種即<lb/>
+得放水浸漬匀停秧出必齊田家或仰坐櫈代之終非<lb/>
+本器<lb/>
+<pb n="KR3d0007_WYG_022-29a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_022-29b"/>
+田盪均泥田器也用叉木作柄長六尺前貫横木五尺<lb/>
+許田方耕耙尚未匀熟須用此器平著其上盪之使水<lb/>
+土相和凹凸各平則易為秧蒔農書種植篇云凡水田<lb/>
+渥漉精熟然後踏糞入泥盪平田面乃可撒種此亦盪<lb/>
+之用也夫田盪與上篇耘盪之盪字同音異所用亦各<lb/>
+不類因辯及之<lb/>
+<pb n="KR3d0007_WYG_022-30a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_022-30b"/>
+軸軸輥碾草木軸也其軸木徑可三四寸長約四五尺<lb/>
+兩端俱作轉簨挽索用牛拽之夫江淮之間凡漫種稻<lb/>
+田其草禾齊生並出則用此輥碾使草禾俱入泥内再<lb/>
+宿之後禾乃復出草則不起又嘗見一方稻田不解揷<lb/>
+秧唯務撒種却於軸間交穿板木謂之鴈翅狀如礰礋<lb/>
+而小以轅打水土成泥就碾草禾如前江南地下易於<lb/>
+得泥故用輥軸北方塗田頗少放水之後欲得成泥故<lb/>
+用鴈翅<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>打此各隨地之所宜用也<lb/>
+<pb n="KR3d0007_WYG_022-31a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_022-31b"/>
+秧彈<hi>平聲</hi>秧壠以篾為彈彈猶弦也世呼船牽<hi>去聲</hi>曰彈字<lb/>
+義俱同葢江鄉櫃田内平而廣農人秧蒔漫無凖則故<lb/>
+制此長篾掣於田之兩際其直如弦循此布秧了無欹<lb/>
+斜猶梓匠之繩墨也<lb/>
+<pb n="KR3d0007_WYG_022-32a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_022-32b"/>
+杈<hi>如加切</hi>箝禾具也揉木為之通長五尺上作二股長可<lb/>
+二尺上一股微短皆形如彎角以<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>取禾<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>也又有以<lb/>
+木為榦以鐵為首二其股者利如戈㦸唯用叉収禾束<lb/>
+謂之鐵禾杈<lb/>
+<pb n="KR3d0007_WYG_022-33a"/>
+</p>
+<p>
+<pb n="KR3d0007_WYG_022-34a"/>
+笐架也集韻作<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>竹竿也或省作笐今湖湘間收禾並<lb/>
+用笐架懸之以竹木搆如屋狀若麥若稻等稼穫而栞<lb/>
+<hi>音繭</hi>之悉倒其穗控於其上久雨之際比於積垜不致鬱<lb/>
+<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>江南上雨下水用此甚宜北方或遇霖潦亦可倣此<lb/>
+庶得種糧勝於全廢今特載之冀南北通用<lb/>
+<pb n="KR3d0007_WYG_022-35a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_022-35b"/>
+喬扦<hi>音千</hi>挂禾具也凡稻皆下地沮濕或遇雨潦不無渰<lb/>
+浸其收穫之際雖有禾<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>不能臥置乃取細竹長短相<lb/>
+等量水淺深每以三莖為數近上用篾縳之叉於田中<lb/>
+上控禾把又有用長竹横作連脊挂禾尤多凡禾多則<lb/>
+用笐架禾少則用喬扦雖大小有差然其用相類故并<lb/>
+次之<lb/>
+禾鈎<hi>圖不載</hi>斂禾具也用禾鈎長可二尺嘗見壠畝及荒<lb/>
+蕪之地農人將芟倒禾<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>或草<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>用此匝地約之成梱<lb/>
+<pb n="KR3d0007_WYG_022-36a"/>
+則易於就束比之手槤<hi>力展切</hi>甚速便也<lb/>
+<pb n="KR3d0007_WYG_022-37a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_022-37b"/>
+撘爪上用鐵鈎帶榜中受木柄通長尺許狀如彎爪用<lb/>
+如爪之撘物故曰撘爪以擐草禾之束或積或擲日以<lb/>
+萬數速於手挈可謂智勝力也<lb/>
+禾檐負禾具也其長直尺五寸剡匾木為之者謂之輭<lb/>
+檐斫圓木為之謂之楤擔<hi>集韻云楤音聰尖頭擔也</hi>匾者宜負器與<lb/>
+物圓者宜負薪與禾釋名曰擔任也力所勝任也凡山<lb/>
+路巇嶮或水陸相半舟車莫及之處如有所負非擔不<lb/>
+可<hi>圖不載</hi>
+<pb n="KR3d0007_WYG_022-38a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_022-38b"/>
+連枷<hi>古牙切</hi>擊禾器國語曰權節其用耒耜耞支<hi>耞拂也以擊草</hi>
+廣雅曰柫謂之架説文曰柫架也柫擊禾連架釋名曰<lb/>
+架加也加杖於柄頭以楇<hi>陟爪切</hi>穗而出榖也其制用木<lb/>
+條四莖以生革編之長可三尺闊可四寸又有以獨挺<lb/>
+為之者皆於長木柄頭造為擐軸舉而轉之以樸禾也<lb/>
+方言云僉宋魏之間謂之攝殳<hi>音殊</hi>自關而西謂之柫<lb/>
+<hi>薄宓切</hi>齊楚江淮之間謂之柍<hi>音/怏</hi>或謂之悖<hi>音敕</hi>今呼為連<lb/>
+耞南方農家皆用之北方穫禾少者亦易辦也<lb/>
+<pb n="KR3d0007_WYG_022-39a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_022-39b"/>
+刮板剗土具也用木板一葉闊二尺許長則倍之或煆<lb/>
+鐵為舌板後釘木直二莖高出板上槩以横柄板之兩<lb/>
+傍係一鐵鐶以擐拽索兩手推按或人或畜輓行以剗<lb/>
+壅脚土凡修閘壩起堤防填汚坎積丘垤均土壤治畦<lb/>
+埂疊埸圃聚子粒擁糠籺<hi>胡骨切</hi>除瓦礫<hi>即擊切</hi>雖若乏用<lb/>
+然農家之事居多也<lb/>
+　<lb/>
+　農政全書卷二十二<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

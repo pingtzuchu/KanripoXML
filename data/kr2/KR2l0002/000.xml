@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>翰林志</head>
+    <p>
+<pb n="KR2l0002_WYG_000-1a"/>
+欽定四庫全書　　　　　史部十二<lb/>
+　翰林志　　　　　　　　職官類一<hi>官制之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案翰林志一卷唐李肇撰案肇所作<lb/>
+　　　　國史補結銜題尚書左司郎中此書結銜則<lb/>
+　　　　題翰林學士左補闕王定保摭言又稱肇為<lb/>
+　　　　元和中中書舎人新唐書藝文志亦云肇為<lb/>
+　　　　翰林學士坐薦柏耆自中書舍人左遷將作<lb/>
+<pb n="KR2l0002_WYG_000-1b"/>
+　　　　少監以唐官制考之葢自左司改補闕入翰<lb/>
+　　　　林後為中書舎人坐事左遷國史補及此書<lb/>
+　　　　各題其作書時官也唐時翰林院在銀臺門<lb/>
+　　　　内麟徳殿西重廊之後為待詔之所新唐書<lb/>
+　　　　百官志謂乗輿所在必有文詞經學之士下<lb/>
+　　　　至卜醫伎術之流皆直于别院以備燕見者<lb/>
+　　　　是也韋執誼翰林院故事亦謂其地乃天下<lb/>
+　　　　以藝能伎術見召者之所處葢其始本以延<lb/>
+<pb n="KR2l0002_WYG_000-2a"/>
+　　　　引雜流原非為文學侍從而設至明皇置翰<lb/>
+　　　　林待詔供奉輿集院學士分掌制誥其職始<lb/>
+　　　　重後又改為學士别置學士院謂之東翰林<lb/>
+　　　　院于是舊翰林院雖尚有以伎能入直如徳<lb/>
+　　　　宗時術士桑道茂之類而翰林之名實盡歸<lb/>
+　　　　于學士院厯代相沿遂為儒臣定職肇此書<lb/>
+　　　　成于元和十四年唐宋藝文志皆著于録其<lb/>
+　　　　記載賅備本末粲然于一代詞臣職掌最為<lb/>
+<pb n="KR2l0002_WYG_000-2b"/>
+　　　　詳晰宋洪遵輯翰苑羣書已全收入今以言<lb/>
+　　　　翰林典故者莫古于是書故仍録専本以存<lb/>
+　　　　其朔焉乾隆四十六年十二月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

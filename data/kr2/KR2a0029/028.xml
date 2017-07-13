@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2a0029_WYG_028-1a"/>
+　舊五代史巻十三考證<lb/>
+梁列傳三朱瑄傳敬武遣將曹全晸　案新唐書及通<lb/>
+　鑑俱作曹存實舊唐書歐陽史與是書同<lb/>
+部將崔君預據城叛全晸攻之　案舊唐書韓簡傳云<lb/>
+　曹全晸為簡所敗死之鄆將崔君裕收合殘衆保鄆<lb/>
+　州朱瑄傳云崔君裕權知州事全晸知其兵寡襲君<lb/>
+　裕據韓簡傳則全晸死而君裕保其城據朱瑄傳則<lb/>
+　君裕為全晸所殺二傳自相矛盾是書從朱瑄傳又<lb/>
+<pb n="KR2a0029_WYG_028-1b"/>
+　君預諸史俱作君裕<lb/>
+光啓初魏博韓允中攻鄆　案新唐書作中和初魏博<lb/>
+　韓簡東窺曹鄆考舊唐書韓允中傳乾符元年十一<lb/>
+　月卒子簡起復為節度觀察留後新唐書本紀亦云<lb/>
+　是考鄆者韓簡非允中也通鑑作中和二年韓簡擊<lb/>
+　鄆州當得其實是書訛作允中與諸史年月姓氏舛<lb/>
+　異<lb/>
+朱瑾傳瑾從兄齊州刺史瓊以州降　齊州原本作濟<lb/>
+<pb n="KR2a0029_WYG_028-2a"/>
+　州據通鑑及北夣瑣言改正<lb/>
+瑾之二子　案新唐書作瑾子用貞<lb/>
+刺史尹處賔　案新唐書作尹懐賔<lb/>
+出瑾為淮寧軍節度使　淮寧原本作懐寧據九國志<lb/>
+　改正<lb/>
+愛妓姚氏　案九國志作妻陶氏<lb/>
+王師範𫝊棣州刺史張蟾叛于師範　張蟾原本作張<lb/>
+　儋今據新唐書改正<lb/>
+<pb n="KR2a0029_WYG_028-2b"/>
+劉知俊傳尋用為左開道指揮使　開道原本作闗道<lb/>
+　今據歐陽史改正<lb/>
+楊崇本傳乾化元年　案原本作乾化四年今據歐陽<lb/>
+　史改正<lb/>
+張萬進傳仍賜名守進　守進原本作方進今據本紀<lb/>
+　改正<lb/>
+　<lb/>
+　舊五代史巻十三考證<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

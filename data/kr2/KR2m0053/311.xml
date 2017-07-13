@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2m0053_WYG_311-1a"/>
+欽定四庫全書<lb/>
+欽定八旗通志卷二百九十七<lb/>
+　世職表二十<lb/>
+　　正紅旗䝉古世職<hi>一等輕車都尉都二等輕車都尉  三等輕車  尉  騎都尉</hi>
+　　　<hi>雲騎尉</hi>
+　　　一等輕車都尉<lb/>
+<pb n="KR2m0053_WYG_311-2a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_311-3a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_311-4a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_311-5a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_311-6a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_311-7a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_311-8a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_311-9a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_311-10a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_311-11a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_311-12a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_311-13a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_311-14a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_311-15a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_311-16a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_311-17a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_311-18a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_311-19a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_311-20a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_311-21a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_311-22a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_311-23a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_311-24a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_311-25a"/>
+</p>
+<p>
+<pb n="KR2m0053_WYG_311-26a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0053_WYG_311-26b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+欽定八旗通志卷二百九十七<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

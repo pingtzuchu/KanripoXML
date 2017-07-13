@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4c0102_WYG_004-1a"/>
+唐英歌詩跋<lb/>
+吳子華越州人與韓偓同學久困名塲龍紀元年同舉<lb/>
+進士又同直玉堂故韓詩云二紀計偕勞筆研一朝宣<lb/>
+入掌絲綸落句云語餘相聚却酸辛懐昔叙懇感慨<lb/>
+係之矣歴官始末詳見本傳隴右李巨川才甚敏儕輩<lb/>
+惟子華對壘一日昭宗至華清宫賜華帥韓建御容一<lb/>
+軸時巨川為建掌書記草謝表示子華中有彤雲似葢<lb/>
+以長隨紫氣臨關而不度之句子華讀罷立成一篇其<lb/>
+<pb n="KR4c0102_WYG_004-1b"/>
+畧曰霧開五里容諧披睹之心掌拔一峯兼助捧持之<lb/>
+力巨川賞歎不巳壬戌卜居閿鄉與貫休上人結方外<lb/>
+交互多酬寄琴川毛晉識<lb/>
+集中有送僧歸破山寺云萬里指吳山高秋杖錫還别<lb/>
+來雙闕老歸去片雲閒師在有無外我嬰塵土間居然<lb/>
+本相别不要慘離顔此詩邑乘失載余渭陽豈庵先生<lb/>
+嘗拈山居第四絶云無隣無里不成村水曲雲重掩石<lb/>
+門何用深求避秦客吾家便是五陵源懸之座右日夕<lb/>
+<pb n="KR4c0102_WYG_004-2a"/>
+歌之且笑南陽劉子驥多事可稱詩林嘉話晉又識<lb/>
+唐書本傳<lb/>
+吳融字子華越州山隂人祖翥有名大中時觀察使召<lb/>
+以署吏不應帥高其槩言諸朝賜號文簡先生融學自<lb/>
+力富辭調龍紀初及進士第韋昭度討蜀表掌書記遷<lb/>
+累侍御史坐累去官流浪荆南依成汭久之召為左補<lb/>
+闕以禮部郎中為翰林學士拜中書舍人昭宗反正御<lb/>
+南闕羣臣稱賀融最先至于時左右歡駭帝有指授疊<lb/>
+<pb n="KR4c0102_WYG_004-2b"/>
+十許稾融跪作詔少選成語當意詳帝咨賞良厚進户<lb/>
+部侍郎鳳翔刼遷不克從去客閿鄉俄召還翰林遷承<lb/>
+㫖卒官<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

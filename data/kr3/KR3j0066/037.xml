@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>通雅卷三十七</head>
+    <p>
+<pb n="KR3j0066_WYG_037-1a"/>
+欽定四庫全書<lb/>
+　通雅卷三十七　　　　　明　方以智　撰<lb/>
+　　衣服<hi>佩飾</hi>
+鞶帶革帶也古垂末而今圍之功服宮袍帶猶垂之遺<lb/>
+式也　左傳鞶厲游纓昭其數也注鞶紳帶也一名大<lb/>
+帶厲大帶之垂者莊二十一年夏鄭伯享惠王王以后<lb/>
+之鞶鑑與之注鞶帶而以鑑為飾今西方□制為然古<lb/>
+之遺服襄二十九年吳季札聘鄭見子產與之縞帶注<lb/>
+<pb n="KR3j0066_WYG_037-1b"/>
+大帶也定六年衛公叔文子曰定之鞶鑑易鞶帶詩都<lb/>
+人士垂帶而厲疏禮大帶垂三尺芃蘭垂帶悸兮鳴鳩<lb/>
+淑人君子其帶伊絲箋大帶用素絲有雜色飾焉禮男<lb/>
+鞶革女鞶絲婦事舅姑施鞶袠周禮疏凡帶有二大帶<lb/>
+大夫以上用素士用練即紳也今挿笏者於身之外帶<lb/>
+之内又有革帶所以佩玉帶劍□王有帶銘魯語卿之<lb/>
+内子為大帶注緇帶也揚子今之學者繡其鞶帨田單<lb/>
+黃金横帶智按但云大帶則今之鸞帶與行服彯帶之<lb/>
+<pb n="KR3j0066_WYG_037-2a"/>
+類鞶帶則後世金銀帶之權輿矣或以衣衿帶為小帶<lb/>
+則圍帶通可謂之大帶其云緇帶則必耎帶也孝文遺<lb/>
+北地黃金飭具帶一黃金犀毗一注孟康曰要中大帶<lb/>
+智謂飭具帶正沈休文移孔張思光寛至髀是也若犀<lb/>
+毗則鞓帶也晉志革帶古之鞶帶也其有囊綬則綴於<lb/>
+革帶鄧遵禮圖曰璫綴於革帶阮諶以為有印章則佩<lb/>
+之隋李德林傳開皇元年勅德林與于翼高熲等同修<lb/>
+律令事訖賜九環金帶唐志唯天子之帶有十三環元<lb/>
+<pb n="KR3j0066_WYG_037-2b"/>
+魏帝解所服金縷玉梁帶賜侯莫陳順房𤣥齡傳太宗<lb/>
+賜𤣥齡黃銀帶開元七年徙宋王憲為寧王上自解紅<lb/>
+玉帶李載<graphic n="KR2327" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2327.png" mimeType="image/png"/>傳太和三年平李同捷文宗賜白玉帶裴<lb/>
+度傳御通化門臨遣賜通天御帶舊紀云犀帶白敏中<lb/>
+兼邠寧節度賜通天帶李德裕進太尉封敖艸其制解<lb/>
+所賜玉帶贈之李光顏傳還鎮忠□賜玉帶李□破蕭<lb/>
+銑時所賜于闐玉帶十三胯宋建隆元年賜宰相樞密<lb/>
+犀玉帶熙寧解白玉帶賜王安石宣和七年賜皇太子<lb/>
+<pb n="KR3j0066_WYG_037-3a"/>
+碾龍排方玉帶□拱中作瑞艸毬路文方團胯帶景德<lb/>
+四□賜太子太師呂蒙正金帶六種御仙花帶毬文四<lb/>
+方五團御仙花排方金塗帶九種有寶缾荔枝雙鹿之<lb/>
+别伎術官銀帶金束帶八種犀帶二種熙寧中宗旦宗<lb/>
+諤告謝特賜毬文方團金帶宣和後宰執侍從以花犀<lb/>
+帶入朝高宗開大元帥府服排方玉帶熙寧八□岐王<lb/>
+顥嘉王頵言蒙賜方團玉帶凡玉帶乘輿排方東宮不<lb/>
+佩<graphic n="KR1813" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1813.png" mimeType="image/png"/>駙馬都尉賜白玉帶宗室服金雕玉白玉通犀帶<lb/>
+<pb n="KR3j0066_WYG_037-3b"/>
+今時革帶前合口曰三台左右各排三圓桃排方左右<lb/>
+曰<graphic n="KR1813" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1813.png" mimeType="image/png"/>尾有輔弻二小方後七枚前大小十三枚唐之十<lb/>
+三胯即此式之初式也但下必有小環繫如今駙馬管<lb/>
+領紅盔大漢者披執<graphic n="KR1390" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1390.png" mimeType="image/png"/>殿門則有閙粧帶其式近之白<lb/>
+樂天詩親王轡閙粧因其名而名帶也唐高祖賜李靖<lb/>
+七方六刓胯各附金環佩火鑑大觿算囊㭨杯等物是<lb/>
+也李昉言荔支帶非恩賜者官至三品乃得服宋陳隋<lb/>
+隠著帶格王及西府有笏頭一字蕐士海揵内侍用毬<lb/>
+<pb n="KR3j0066_WYG_037-4a"/>
+路教坊用凹面今時謝恩公服襆頭四品以上用荔支<lb/>
+金帶㫄垂一帶尾<lb/>
+帶頭垂者曰䤩尾　宋志以垂頭名䤩尾取順下之<graphic n="KR2327" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2327.png" mimeType="image/png"/>
+即<graphic n="KR1813" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1813.png" mimeType="image/png"/>尾也遼史袞服有玉鵝七䤩尾元志用金打鈒水<lb/>
+地龍鵝眼䤩尾今誇官帶曰撻尾撻尾亦唐名也王洙<lb/>
+曰唐撻尾刻字李昉有帶刻六龍朔某秊紫宸殿宣賜<lb/>
+鄭畋程大昌載黃繙綽取獺尾著腰恐不因此<lb/>
+犀毗通作胥紕師比或轉為<graphic n="KR3132" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3132.png" mimeType="image/png"/>卑鵕<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>今之鞓帶也<lb/>
+<pb n="KR3j0066_WYG_037-4b"/>
+漢文和親東夷使係虖淺來予以繡裕綺衣比疎一黃<lb/>
+金犀毗一比疎史記作比余師古曰辯髮之飾也實即<lb/>
+比梳史記犀毗作胥紕張晏曰<graphic n="KR3132" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3132.png" mimeType="image/png"/>卑郭絡帶瑞獸名也<lb/>
+東郵好服之楚辭小腰秀頸若<graphic n="KR3132" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3132.png" mimeType="image/png"/>卑只注帶頭言腰頸<lb/>
+細如束帶也又名師比戰國策趙□靈王賜周紹興帶<lb/>
+黃金師比延篤云弧革帶鉤也淮南主術訓趙□靈王<lb/>
+貝帶鵕<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>而趙國化之注鵕<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>二字三合音私鈚頭也<lb/>
+即犀毗三國志魏文帝賜劉禎郭絡帶梁吉士瞻得金<lb/>
+<pb n="KR3j0066_WYG_037-5a"/>
+革鈎晉泰始中相尚以氊為陌頭及絡帶袴口吳謡鉤<lb/>
+絡鈎帶也漢鶡冠貝帶製與此相近遼□官束䩞<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>帶<lb/>
+扞腰即鈎絡今曰鞓帶<hi>鞓音汀</hi>郭若虛記七事跕蹀从韋<lb/>
+从革从足通用<lb/>
+鉤䚢即所謂螳螂拘也　晉語矢集于桓鉤葢革帶有<lb/>
+鉤以拘之後世謂之鉤䚢<hi>丑列反</hi>阮諶曰䚢螳螂拘謂之<lb/>
+拘䚢茍卿曰縉紳而無鉤帶陳暘禮書曰唐以玉為鉤<lb/>
+䚢與古異矣按隋志采用東齊之法十二等衣有織成<lb/>
+<pb n="KR3j0066_WYG_037-5b"/>
+升龍白紗内單黼領青褾襈裾革帶玉鉤䚢大帶素帶<lb/>
+朱裏紕其外皇太子則金鉤䚢此唐因隋隋因江南也<lb/>
+綉袍肚即勒帛腰圍也　宋大卿監以下不給錦袍者<lb/>
+加以黃綾綉袍肚即包肚也勒帛者以帛勒腰也襍俎<lb/>
+載穀城石人刋其腹曰磨兠鞬磨兠鞬慎勿言智以兠鞬<lb/>
+即兠肚如馬之鞬勒也崔實論馬駘其銜方將拑勒鞬<lb/>
+輈以救之櫜鞬亦言包也他處所引如詩紀作磨兠堅<lb/>
+聲近相借耳博雅裲襠謂之袹服袹服即抹腹葢兠鞬<lb/>
+<pb n="KR3j0066_WYG_037-6a"/>
+也恐非裲襠<lb/>
+㱾改剛卯也漢靈殳佩也衝牙佩中瑀璜之梁也縢綔<lb/>
+言其絲也<graphic n="KR1813" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1813.png" mimeType="image/png"/>袋合<graphic n="KR1813" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1813.png" mimeType="image/png"/>符之<graphic n="KR2327" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2327.png" mimeType="image/png"/>也唐以袋盛<graphic n="KR1813" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1813.png" mimeType="image/png"/>宋以<graphic n="KR1813" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1813.png" mimeType="image/png"/>飾<lb/>
+袋　明帝乃為衝牙雙瑀璜以白玉落以白珠公卿采<lb/>
+絲佩刀金通身貂錯半鮫<graphic n="KR1813" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1813.png" mimeType="image/png"/>鱗金漆錯雌黃室五色罽<lb/>
+隠室蕐侯王金錯環半鮫黑室公卿皆黑不半鮫小黃<lb/>
+門雌黃室□將白虎文以白珠鮫為<graphic n="KR1873" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1873.png" mimeType="image/png"/>口之飾刀鋒白<lb/>
+<graphic n="KR1873" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1873.png" mimeType="image/png"/>佩雙印長寸二分方六分一本云方七分乘輿諸侯<lb/>
+<pb n="KR3j0066_WYG_037-6b"/>
+王公列侯以白玉中二千石至四百石皆以黑犀三百<lb/>
+石以下皆以象牙上合絲乘輿以縢貫白珠赤罽蕤諸<lb/>
+侯以下以綔赤絲㽔縢綔各如其印質刻書文曰正月<lb/>
+剛卯既□靈殳四方赤青白黃四色是當帝令祝融以<lb/>
+教䕫龍疾曰嚴卯帝令䕫龍謹爾周伏化兹靈殳既正<lb/>
+既直既觚既方庶疲剛癉莫我敢當凡五十八字王莽<lb/>
+傳劉之為字卯金刀也正月剛卯金刀之利皆不得行<lb/>
+注服䖍曰剛卯以正月卯日作佩之長三寸廣一寸四<lb/>
+<pb n="KR3j0066_WYG_037-7a"/>
+方或用玉或用金或用桃著革帶佩之晉灼曰刻其上<lb/>
+面作兩行書云云師古曰今土中往往得玉剛卯者韓<lb/>
+詩外傳齊桓公出遊遇一丈夫帶著桃殳問之曰人之<lb/>
+戒在桃殳來□正月庶人皆佩智按卯□為黃道之門<lb/>
+故取卯日也此制後代不沿而衝牙至今用之今叮噹<lb/>
+中兩橫三垂是也但不用珠耳天子諸王露垂之百官<lb/>
+以紅紗囊映之唐宋以來皆佩礪石金<graphic n="KR1813" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1813.png" mimeType="image/png"/>袋今亦無此<lb/>
+唐初職事官三品以上賜金袋刀礪石一品以下有手<lb/>
+<pb n="KR3j0066_WYG_037-7b"/>
+巾算袋佩刀礪石睿宗時罷佩刀礪石而五品以上佩<lb/>
+䪓韘七事佩刀刀子礪石契苾真噦厥針筒火石是也<lb/>
+泉男生率衆内附高宗賜袍帶金鈿七事帶之制三品<lb/>
+以上玉梁寶鈿五品以上金梁寶鈿六品以下金飾隱<lb/>
+起而已腰帶一品二品銙以金六品以上以犀九品以<lb/>
+上以銀元和鄭餘慶請自今唯職事官佩劍綬㑹要永<lb/>
+徽京官文□職事四品五品竝給隨身□袋天授元□<lb/>
+改内外官佩<graphic n="KR1813" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1813.png" mimeType="image/png"/>為龜至神龍復佩<graphic n="KR1813" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1813.png" mimeType="image/png"/>朝野僉載上元中<lb/>
+<pb n="KR3j0066_WYG_037-8a"/>
+佩刀礪算袋紛帨為<graphic n="KR1813" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1813.png" mimeType="image/png"/>形結帛作之開元元□令特進<lb/>
+佩<graphic n="KR1813" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1813.png" mimeType="image/png"/>散職佩□自兹始後恩制賞緋紫例兼<graphic n="KR1813" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1813.png" mimeType="image/png"/>袋謂之<lb/>
+章服景雲二□<graphic n="KR1813" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1813.png" mimeType="image/png"/>袋著紫者金裝緋者銀裝炙轂子曰<lb/>
+<graphic n="KR1813" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1813.png" mimeType="image/png"/>袋古之算袋取合<graphic n="KR1813" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1813.png" mimeType="image/png"/>符之<graphic n="KR2327" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2327.png" mimeType="image/png"/>宋雍熙郊祀畢内出<graphic n="KR1813" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1813.png" mimeType="image/png"/>
+袋賜近臣由是文□皆佩<graphic n="KR1813" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1813.png" mimeType="image/png"/>紫以金緋以銀馬永卿曰<lb/>
+今<graphic n="KR1813" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1813.png" mimeType="image/png"/>袋乃古<graphic n="KR1813" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1813.png" mimeType="image/png"/>符必以<graphic n="KR1813" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1813.png" mimeType="image/png"/>者分左右可以合符唐以袋<lb/>
+盛<graphic n="KR1813" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1813.png" mimeType="image/png"/>宋以<graphic n="KR1813" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1813.png" mimeType="image/png"/>飾袋王麟洲得一古剛卯巵言曰剛卯㱾<lb/>
+改也因陶九成之說也玉篇作開改即以開音㱾程大<lb/>
+<pb n="KR3j0066_WYG_037-8b"/>
+昌譏說文分音㱾字疑王莽所鑄此時改而大之邪今<lb/>
+按說文甚明但漢志未載㱾改耳陶九成又云得黃山<lb/>
+谷辨剛卯說但云<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>絲繩也古無此字葢所引漢志赤<lb/>
+絲蕤縢<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>是綔誤為<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>耳綔即絝字變體<lb/>
+綸䋎縌綬印紱也　綸<hi>說文古還切六書故但音龍春切</hi>青絲綬也有<lb/>
+秩嗇夫所帶糾青絲綬張華云綸如宛轉繩仲長綂傳<lb/>
+身無半通青綸之命輿服志百石青紺綸采宛轉繆織<lb/>
+長丈二尺組綬類也周禮典絲受文絲組戰國策衛君<lb/>
+<pb n="KR3j0066_WYG_037-9a"/>
+束組三百緄景帝詔纂組注纂赤組也組者今綬紛絛<lb/>
+是也縌<hi>音逆</hi>綬之絲古佩璲也漢青綬以上縌皆長三尺<lb/>
+二寸與綬同采而首半之自五霸迭興解去韍佩畱其<lb/>
+係璲以為章表故詩曰鞙鞙佩璲韍佩既廢秦乃以采<lb/>
+組連結於璲光明表章轉相結受故曰綬漢承秦制加<lb/>
+以雙印佩刀之飾明帝為大佩衝牙自侯王盭綬而下<lb/>
+有紫青墨黃以别高卑朱浮言綬工李渉穹六家所織<lb/>
+綬不能具丙丁文能如組狀募能為丙丁文謹圖畫一<lb/>
+<pb n="KR3j0066_WYG_037-9b"/>
+綬丙丁制度綸之二音智以為刪韵虨又音彬又音班<lb/>
+瞵本鄰又音闌皇甫謐釋勸文用青紫班瞵矜亦讀鰥<lb/>
+殷轉為烏閑切故蜀□侯綸巾讀若鰥此漢末之音而<lb/>
+唐以來止讀為倫耳升菴以音闗者作<graphic n="KR2182" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2182.png" mimeType="image/png"/>其實古無<graphic n="KR3674" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3674.png" mimeType="image/png"/>
+字<lb/>
+<graphic n="KR1390" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1390.png" mimeType="image/png"/>筆猶簪筆也　漢書張安世持橐簪筆事□帝數十<lb/>
+秊注張蕐曰橐契囊也近臣負橐簪筆從備顧問或有<lb/>
+所紀也師古曰囊所以盛書無底曰槖簪筆者挿簪於<lb/>
+<pb n="KR3j0066_WYG_037-10a"/>
+首西門豹簪筆亦如此注魏志明帝見殿中侍御史簪<lb/>
+白筆側階而<graphic n="KR1390" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1390.png" mimeType="image/png"/>問曰此何官也辛毗曰御史簪筆晉志<lb/>
+古者貴賤皆執笏笏者有事則書之故常簪筆今之白<lb/>
+筆是其遺象三臺五省二品文官簪之王公侯伯子男<lb/>
+卿尹及□官不簪加内侍者乃簪之尚書令僕手版頭<lb/>
+復有白筆以紫皮裹之智按談苑曰梁職儀八座尚書<lb/>
+以紫紗裹手版垂白絲於首如筆宋志朝服肩上有紫<lb/>
+生袷囊綴之朝服外俗呼曰紫荷或云漢代以盛奏事<lb/>
+<pb n="KR3j0066_WYG_037-10b"/>
+負荷以行晉志八座尚書荷紫以生紫為袷囊綴之服<lb/>
+外加於左肩昔周公負成王制此服至今以為朝服智<lb/>
+按周捨問著紫荷囊于劉士深即此索隠注史記簪筆<lb/>
+乃以目擊本朝之制揣摩古人耳其實安世西門豹之<lb/>
+簪筆猶之載筆帶筆豈必挿筆於首乎晉有此制宋紹<lb/>
+興中禮官言皇子七梁額花冠金鍍銀<graphic n="KR1390" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1390.png" mimeType="image/png"/>筆金元志亦<lb/>
+有貂蟬<graphic n="KR1390" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1390.png" mimeType="image/png"/>筆金<graphic n="KR1390" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1390.png" mimeType="image/png"/>筆銀<graphic n="KR1390" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1390.png" mimeType="image/png"/>筆之分以昭官階今無此制<lb/>
+即起居注不過袖筆而已李靖傳五世孫彥芳太和中<lb/>
+<pb n="KR3j0066_WYG_037-11a"/>
+獻家藏太宗賜靖詔書有佩筆以木為管金玉飾之漢<lb/>
+賜筆札筆刻云北宮工作洪□公侯朝冠猶有<graphic n="KR1390" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1390.png" mimeType="image/png"/>筆之<lb/>
+名<lb/>
+笏囊始於蕭梁　唐史言張九齡始為笏囊盛笏葢自<lb/>
+蕭梁已有紫囊盛笏矣笏詳書札部類<lb/>
+算幐算袋也　前外戚傳中黃門持詔記盛緑綈方底<lb/>
+注厚綈方底盛書囊形如今之算幐本艸言烏鰂<graphic n="KR1813" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1813.png" mimeType="image/png"/>乃<lb/>
+秦始皇算袋所化算袋即算幐<graphic n="KR1061" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1061.png" mimeType="image/png"/>則天賜朱前疑緋算<lb/>
+<pb n="KR3j0066_WYG_037-11b"/>
+袋又曰照袋睂公記王太保從蒼頭攜照袋貯筆硯照<lb/>
+袋以烏皮為之陶穀曰唐□有方便囊<lb/>
+帉錔簾緌也　三朝記屬車上施紫通幰絡帶門簾皆<lb/>
+繡雲鶴紫絲網帉錔楚謂大巾曰<graphic n="KR1843" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1843.png" mimeType="image/png"/>通作紛内則右佩<lb/>
+紛帨周禮莞筵紛純注紛如綬有文而狹即今汗巾有<lb/>
+緌者也錔說文以今有所冒也廣韵曰器物錔頭外戚<lb/>
+傳切皆銅沓冒即錔字此言車上垂簾網絡紛冒也廣<lb/>
+韵有<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>字李肇言青綺方褡宋敏求言官誥分紅紫絲<lb/>
+<pb n="KR3j0066_WYG_037-12a"/>
+網金銀<graphic n="KR1843" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1843.png" mimeType="image/png"/>
+                    <graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>通<lb/>
+帣韝鉤袒也　淳于髠傳帣韝鞠<graphic n="KR0957" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0957.png" mimeType="image/png"/>
+                    <hi>
+                        <graphic n="KR1743" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1743.png" mimeType="image/png"/>音紀韝音溝帣本作□居倦切又</hi>
+<hi>平聲</hi>說文曰囊也今鹽官三斛為一□徐廣曰□收衣□<lb/>
+也小司馬曰紀免切智按即今之絡袖類篇曰囊有底<lb/>
+曰□韝扞臂也<graphic n="KR1743" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1743.png" mimeType="image/png"/>又與跽同小跪也如今之半跪<graphic n="KR1061" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1061.png" mimeType="image/png"/>安<lb/>
+傳半膝席是也董偃緑幘傳韝張充放紲脫韝皆謂臂<lb/>
+上帣韝也鉤袒周禮注如今擐衣也釋文作㩊疏曰若<lb/>
+漢時人擐衣以露臂皆謂如今巻袖或韝臂亦相近<lb/>
+<pb n="KR3j0066_WYG_037-12b"/>
+列檦剽帶也　北魏禮志方陳鹵簿列步騎四重列檦<lb/>
+建旌南史王琨傳曰初征謝晦有紫檦在匣中檦即<graphic n="KR0710" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0710.png" mimeType="image/png"/>
+从票增加耳<graphic n="KR0710" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0710.png" mimeType="image/png"/>葢施彯帶之類也陶貞白與梁<graphic n="KR1061" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1061.png" mimeType="image/png"/>帝啓<lb/>
+曰蒙給二卷伏覽褾帖皆如聖旨升菴引晉志中官紫<lb/>
+檦外官絳檦晦伯正陽非之非也王伯厚亦載此葢<graphic n="KR0710" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0710.png" mimeType="image/png"/>
+摽彯<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>剽皆通用而本於標今本或作褾而通典通考<lb/>
+作摽金史有醬瓣樺<graphic n="KR1873" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1873.png" mimeType="image/png"/>口乃刀箭飾也淮南曰雞栖井<lb/>
+榦檦枺欂櫨則亦謂栥梲拱斗之伸出者魏書裴粲傳<lb/>
+<pb n="KR3j0066_WYG_037-13a"/>
+善自<graphic n="KR0710" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0710.png" mimeType="image/png"/>置它言節烈<graphic n="KR0710" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0710.png" mimeType="image/png"/>門閭者甚多即作標表用<lb/>
+爻閭帳息也　汲冢王㑹解曰外臺之四隅張赤帟為<lb/>
+諸侯欲息者息焉命之曰爻閭注每角帳息者隨所近<lb/>
+也諸侯稱爻愚未知其解鄉射禮受算之處曰閭獸名<lb/>
+如驢一角岐蹄古大射刻木象之為受算一曰交閭近<lb/>
+世撑木加互以建帳其行時撤而載之如今可坐者曰<lb/>
+交牀此閭仍象屋門爻有交象交木撑帳也唐宴餔百<lb/>
+官皆有幔舍見徐堅傳周禮帟幕之制是也石林㷼語<lb/>
+<pb n="KR3j0066_WYG_037-13b"/>
+載宋殿廬幕次<lb/>
+繖因古之縿　晉輿服志功曹吏繖扇騎從退之用張<lb/>
+大傘傘始見于南史王縉以□傘覆面魏書裴延儁傳<lb/>
+山奴持白傘白幡按說文縿旌旗之斿爾雅纁帛縿注<lb/>
+眾旒所著正幅為縿此即繖之原升菴謂傘亦古文<lb/>
+　　衣服<hi>布帛</hi>
+無文曰縵刺繡曰䋃錦繡之質曰地　錦織綵為文也<lb/>
+繡刺綵為文也左傳注五色備謂之繡<hi>一作綉</hi>縵<hi>莫半切</hi>無<lb/>
+<pb n="KR3j0066_WYG_037-14a"/>
+文之帛也漢律曰賜衣者縵表白裏周官卿乗夏縵鄭<lb/>
+氏曰無瑑也傳曰絳服□縵杜氏曰無文也音與漫<hi>平聲</hi>
+鞔<hi>謨官切</hi>通凡祭祀奏縵樂謂琴瑟之屬被之以絲學記<lb/>
+操縵是也䋃<hi>莫到切見急就章一作純</hi>謂刺<hi>七亦反</hi>也凡錦繡皆有地<lb/>
+魏志賜女倭以絳地交龍錦絳地縐粟罽裴松之不知<lb/>
+乃欲改地為綈引漢丈弋綈殊可笑也<lb/>
+最細曰纖稍粗曰縞湅縐曰練幷絲曰縑扁緒曰□<lb/>
+小顏解䋤為素之精者而又曰縞此皆由康成臆說以<lb/>
+<pb n="KR3j0066_WYG_037-14b"/>
+纎為黑經白緯故後人無慿耳按禮以縞為未純吉之<lb/>
+服而縞冠以素紕之明縞粗于素也祥而縞禫而纖則<lb/>
+細耎如常其解縞為細繒者非矣禹貢厥篚𤣥纎縞𤣥<lb/>
+白二色而纖縞二種纖為最細縞稍粗也確矣其曰練<lb/>
+者湅繒也煑縑而熟之也㡛氏湅絲湅帛馬后衣大練<lb/>
+是也單曰素者絹之精白用書寫也素白緻繒也小爾<lb/>
+雅謂繒精曰縞縞粗曰素皆臆耳劉向典校書籍先書<lb/>
+竹可繕冩者以上素淮南子曰素之質白縑之性黃此<lb/>
+<pb n="KR3j0066_WYG_037-15a"/>
+以縑為今之生絲綃矣說文縑幷絲繒此以為今之雙<lb/>
+絲矣當以淮南為是二丈為□二□為匹兼<graphic n="KR2327" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2327.png" mimeType="image/png"/>也說文<lb/>
+□<hi>幷列切</hi>扁緒也唐貢豫州雙絲綾錦州雙紃兼絲也杭<lb/>
+曰白編扁緒也郭璞曰短度絹曰葉輸言薄也薄者扁<lb/>
+緒今杭州杭緒應是此類<lb/>
+織素為文曰綺光者曰綾冰素方空縠羅皆紗也紗至<lb/>
+輕者曰輕容綈厚繒也䌳綿紬也紬之粗者曰絓精者<lb/>
+曰綿甚粗曰絮　綺文繒也織素為文曰綺魏都賦羅<lb/>
+<pb n="KR3j0066_WYG_037-15b"/>
+綺朝歌子虛賦雜纖羅巳明是今紗羅之羅矣陸務觀<lb/>
+曰遂寧出越羅似㑹稽尼羅今三梭羅師古曰綾今之<lb/>
+雜小綾也戴氏曰絁地而織文者也唐潤州貢方碁水<lb/>
+波綾豫州<graphic n="KR1484" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1484.png" mimeType="image/png"/>鶒綾定州兩窠綾澧州龜子綾閬州重蓮<lb/>
+綾釋名曰縠<hi>胡谷反</hi>紗也所云霧縠言其細而起雲耳章<lb/>
+紀詔齊省氷素方空縠吹綸絮皆紗許氏曰細絹不如<lb/>
+劉熙矣紗之至輕者曰輕容唐類苑云輕容無花薄紗<lb/>
+也王建宮詞嫌羅不著愛輕容李賀詩蜀烟飛重錦峽<lb/>
+<pb n="KR3j0066_WYG_037-16a"/>
+雨測輕容元微之寄白樂天詩白輕容是也賓退録言<lb/>
+宋貢輕容方紋紗伯厚以縐與縠幷稱曰紡絲而織之<lb/>
+詩有縐絺葢今之縐紗實雙絲紡線而織者也重三斤<lb/>
+五兩謂之平紬范睢綈袍<hi>綈杜兮反</hi>注葢今之絁也絡即生<lb/>
+䌤䌤即䌳字<hi>商支反</hi>俗作絁一曰今之綿紬是也說文䌳<lb/>
+粗緒也廣韵䌳繒似布繭古作□蠶絲白色也衣以繭<lb/>
+絮之曰繭纊為繭緼為袍記曰子羔之襲也繭衣裳鄭<lb/>
+曰若今大䙱抽引粗繭紡而織之曰紬紬之粗者曰絓<lb/>
+<pb n="KR3j0066_WYG_037-16b"/>
+<hi>胡卦反</hi>繭滓所抽頭絲也今河南與桐城皆有狠頭土紬<lb/>
+甚粗衣之起毛可作袍漬繭擘之精者曰綿粗者曰絮<lb/>
+今謂新者曰綿故者曰絮古言纊即綿<hi>纊或作絖</hi>自古至唐<lb/>
+初尚未知木綿之可以為絮董京乞殘碎繒絮陶潛言<lb/>
+敗絮自擁皆非今之絮也北周制庶人以上聽衣綢綿<lb/>
+綢絲布圓綾紗絹綃葛布九種綿綢即綿紬絲布以絲<lb/>
+襍布縷織之身之曰今兼絲布圓綾土綾也紗方目紗<lb/>
+也絹細縑綃生絲而薄也古莦縿通葛布葛越夏布今<lb/>
+<pb n="KR3j0066_WYG_037-17a"/>
+人絲兼綿紗織成温耎不知古人雜麻何如也身之即<lb/>
+以為今兼絲恐尚不同元豐九域志言貢物有隔織十<lb/>
+八匹縹絲絁二十匹<lb/>
+宮纈即宮錦也　詩錦衣狐裘禮玉藻居士錦帶以五<lb/>
+色絲為之字从金言貴也唐明皇以宮錦袍賜李白通<lb/>
+作纈杜牧之詩花塢團宮纈杜甫詩内蘂繁於纈魏書<lb/>
+高陽王傳奴婢不得衣綾綺纈止於縵繒而已北周書<lb/>
+宇文䕶傳著紫織成纈通身袍幷與錦同小說裴晉公<lb/>
+<pb n="KR3j0066_WYG_037-17b"/>
+午橋莊有文杏百株<graphic n="KR1390" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1390.png" mimeType="image/png"/>碎錦坊韓退之詩碎纈紅滿杏<lb/>
+注作醉纈引李長吉醉纈抛紅網碎纈即碎錦唐𤣥宗<lb/>
+以韋妃蜀纈袍覆學士韋綬<lb/>
+唐有夾纈之名　薛濤詩夾纈籠裙繡地衣元染工有<lb/>
+夾纈檀纈三套諸名唐語林曰𤣥宗時栁婕妤妹適趙<lb/>
+氏使工鏤版為雜花打為夾纈因獻王皇后一疋上賞<lb/>
+之遂廣其製葢即錦文也夾纈言夾錦也元林珅誠齋<lb/>
+雜記亦言此事計敏夫載崔詹事遺王璘夾纈數匹璘<lb/>
+<pb n="KR3j0066_WYG_037-18a"/>
+翼日以作單襜褕衣之元費著蜀錦譜有八答暈六答<lb/>
+暈錦簇四金雕錦盤毬錦大窠馬大毬錦雙窠雲雁錦<lb/>
+輟耕録言贉卷有姜牙方拱疊勝囘文諸錦升菴言□<lb/>
+有樓臺錦摴蒱錦毬路錦毬路即今毬門錦費著所列<lb/>
+不全<lb/>
+鈿窠錦上雲龍之地也　冕上輅上亦用之宋仁宗景<lb/>
+祐詔冕版犀瓶琥珀瓶悉罷之以青羅繪龍麟飾冕筩<lb/>
+補空地以雲龍鈿窠九章衣亦云鈿窠及珠璣飾紹興<lb/>
+<pb n="KR3j0066_WYG_037-18b"/>
+製大安輦有結絛雲龍鈿窠霞子通考誤作細窠今按<lb/>
+金史元史皆有簪窠款幔組帶鈿窠又言金鈒花鈿窠<lb/>
+服瑣服之紋如連瑣也緰㠿錫布之尤精者也　緰<hi>大侯</hi>
+<hi>反</hi>㠿<hi>子移反</hi>說文無此字當是貲通有曰緰貲布也師古<lb/>
+曰服瑣細布織為連瑣之文也緰㠿錫布之尤精者也<lb/>
+郊祀歌曳阿錫<hi>先狄切劉氏作竿跂切合溪作他計切恐誤</hi>注阿細繒也錫<lb/>
+細布也淮南子言弱緆羅紈士喪禮曰明衣裳縓綼緆<lb/>
+鄭氏曰裳飾在幅曰綼<hi>毗支切</hi>在下曰緆似是臆說說文<lb/>
+<pb n="KR3j0066_WYG_037-19a"/>
+緆細布也或作<graphic n="KR3810" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3810.png" mimeType="image/png"/>㷼禮公尊寞用綌若錫錫緆通錫十<lb/>
+五升抽其半緦加灰錫治使滑易也西京雜記曰五絲<lb/>
+為䌰倍䌰為升倍升為緎倍緎為紀倍紀為緵倍緵為<lb/>
+襚䌰<hi>尼攝切</hi>絲接岐也繲亦䌰也莊子挫鍼治繲<hi>古隘切緵子紅</hi>
+<hi>切又去聲</hi>史景帝令徒𨽻衣七緵布正<graphic n="KR2327" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2327.png" mimeType="image/png"/>曰葢今七升布言<lb/>
+粗也戴侗曰如西京雜記之說當為八升七緵當為五<lb/>
+十六升矣侗恐誤算智按倍䌰為升言十絲也一緵當<lb/>
+為八十絲七緵正七升也漢書十緵布二匹孟康曰緵<lb/>
+<pb n="KR3j0066_WYG_037-19b"/>
+八十縷也一縷即一絲升即十字之轉聲也繐衰三升<lb/>
+半大功布九升小功布十一升則以多為細緦十五升<lb/>
+一曰兩麻一絲布也唐地理志泗州楚滌黃萊密州貢<lb/>
+貲布䕫州貢錫布又巴渝賨布此時或木綿已入中國<lb/>
+當為綿布矣外國自古有綿布如楞嚴結白疊巾南史<lb/>
+載外國多白㲲布皆以吉貝樹花為之唐隴右道貢白<lb/>
+㲲劍南道貢交梭彌牟布嶺南賦蕉紵按外國志荅烈<lb/>
+古大宛也有瑣伏花毬洪洲載織烏毳為瑣伏又作鎖<lb/>
+<pb n="KR3j0066_WYG_037-20a"/>
+袱今實有瑣服自廣舶來今廣州人亦能假之似素紡<lb/>
+絹而自起雲京師呼為瑣附左機子雲蜀都賦細都弱<lb/>
+析析即緆也列子衣阿錫張湛曰阿細縠錫細布淮南<lb/>
+亦云弱緆細布也升菴云阿錫對齊紈阿地名此又一<lb/>
+說刻絲法起于宋出定州見莊季裕雞肋周密陶九成<lb/>
+皆作克絲<lb/>
+有納文者曰納布　劉裕微時伐荻有納布衣襖以付<lb/>
+長公主緇流有納頭因書為衲遂有極精工者細襞積<lb/>
+<pb n="KR3j0066_WYG_037-20b"/>
+縐而起也今松江織成有指甲<graphic n="KR1813" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1813.png" mimeType="image/png"/>鱗水波之紋智按王<lb/>
+㑹圖曰於越納注謂納貢也諸國各書貢物而于越總<lb/>
+言納字非也必其時已有細納縐積之布矣太平御覽<lb/>
+有汲衣子妻李氏與夫書幷致納一□高麗傳言高麗<lb/>
+渡水見一人衲衣隋煬帝嚫戒師有鵄納袈裟褊衫<lb/>
+火毳火浣布也又有瑣瑣有石絨有火蠶綿　神異經<lb/>
+南荒外火山有鼠毛作布十洲記炎洲火林山有火鼠<lb/>
+織其毛為布郭氏𤣥中記曰炎山在扶南國之東加營<lb/>
+<pb n="KR3j0066_WYG_037-21a"/>
+國之北諸薄國之西從四月而火生十二月而火滅正<lb/>
+二三月火不然但出雲气而艸木生枝條至四月火然<lb/>
+艸木葉落如中國寒時行人正二三月行過此山取此<lb/>
+木以為薪然之無盡取其皮為火浣布南史亦載扶南<lb/>
+東大漲海海有二洲洲有諸薄國又千餘里有洲洲上<lb/>
+樹生火中為火布今有之微黃白似木棉絲垢則投火<lb/>
+中即潔後漢書外夷傳火毳注云火浣布也梁冀服之<lb/>
+聖證論曰漢制舊優曰史利云初不信正始中得火浣<lb/>
+<pb n="KR3j0066_WYG_037-21b"/>
+布乃信即此物也元史别怯赤山出石絨即火浣布升<lb/>
+菴曰火浣布出蜀建昌白如雪出于石隙元史所謂石<lb/>
+絨也陶九成言囘紇野川有木曰鎖鎖燒之火不滅不<lb/>
+灰取根製帽如火鼠布今火州又出火蠶綿則瑣瑣與<lb/>
+石絨與火鼠布火木布火蠶綿葢五種矣孟奇以逸周<lb/>
+書所謂疑雪當之<lb/>
+外國布曰白㲲　唐地理志隴右道厥賦有毛毼白㲲<lb/>
+劍南道有交梭彌牟布南史高昌國出艸實如纑曰白<lb/>
+<pb n="KR3j0066_WYG_037-22a"/>
+疊子可為布中天竺亦出白疊楞嚴經言白疊巾即此<lb/>
+布所為也林邑國有古貝樹花如鵞毳作布智以古貝<lb/>
+即吉貝也今廣東有之亦曰木棉高數丈呂宋人來載<lb/>
+西洋布白膩精密云有艸織成又有毛布以纒頭者即<lb/>
+彌牟也李石亦言古吉之訛李東璧云當是古字古貝<lb/>
+是木棉木本古終是木棉草本自宋入中國鄧潛谷云<lb/>
+元時入中國智按李石唐人已言之<graphic n="KR2327" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2327.png" mimeType="image/png"/>山詩蛺蝶飛廻<lb/>
+木綿薄方勺引李宗詩腥味魚中墨衣裁木上棉梁<graphic n="KR1061" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1061.png" mimeType="image/png"/>
+<pb n="KR3j0066_WYG_037-22b"/>
+帝有木棉皂帳其來中國乆矣外國志劉宋元嘉時伽<lb/>
+毗黎獻金剛指環吉貝等物吐蕃貢霞㲲即今紅氆<graphic n="KR0146" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0146.png" mimeType="image/png"/>
+升菴引揚雄蜀記雲南越毭<graphic n="KR2733" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2733.png" mimeType="image/png"/>
+                    <hi>音豆分</hi>氆氌也作<graphic n="KR0146" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0146.png" mimeType="image/png"/>者音<lb/>
+轉耳晉載記有<graphic n="KR1207" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1207.png" mimeType="image/png"/>㲜毛布也方言揄鋪<graphic n="KR3019" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3019.png" mimeType="image/png"/>
+                    <graphic n="KR3128" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3128.png" mimeType="image/png"/>毳也皆氍<lb/>
+毺氆氌之聲也<lb/>
+越也卉也皆艸服也榻布即荅布也　越蒲屬可緝布<lb/>
+禮有越席<hi>越音活</hi>書卉服即葛越文選孫氏檄丈葛越布<lb/>
+于朔土注葛即葛藟越即蕉苧黃艸之屬馬援都布單<lb/>
+<pb n="KR3j0066_WYG_037-23a"/>
+衣注即荅布郝氏引史記貨殖傳榻布注榻布白疊布<lb/>
+漢鄧后賜周馮貴人白越潛夫論葛子升越荆州記秭<lb/>
+歸女盡織布至數十升謂之升越六硏齋筆記大食國<lb/>
+貢白越議晉令曰士卒百工不得服越疊葢兩種布也<lb/>
+按榻即荅畨布之稍粗者南史言外國白疊艸為布或<lb/>
+言安子艸織㲲者字書加毛耳凡夫改疊作<graphic n="KR3396" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3396.png" mimeType="image/png"/>不必矣<lb/>
+高似孫引漢書苔布此荅之訛<lb/>
+彌牟蘭干言細紵也　唐志劍南貢交梭彌牟布山南<lb/>
+<pb n="KR3j0066_WYG_037-23b"/>
+貢綵綸蘭干蕐陽國志言寧州有梧桐花可績為布幅<lb/>
+廣五尺此即木棉樹開花常璩誤記耳又言有蘭干細<lb/>
+布織成文如綾錦蘭干獠言紵也彌牟言細也或曰牟<lb/>
+為纒首者方子謙載橦木花可為布即常璩之言桐花<lb/>
+可為布也或當時彼方之言以木棉為橦又唐勝銀州<lb/>
+貢女稽布滁沔麻貲布黄州紵貲布蘇州紅綸布<lb/>
+凡布細而疏者謂之繐　見儀禮繐衰裳注今南陽有<lb/>
+鄧繐疏言鄧氏造繐余謂鄧州所產也後凡喪帳曰繐<lb/>
+<pb n="KR3j0066_WYG_037-24a"/>
+帳<lb/>
+速夫毛布也納石失納貼可皆金錦也　元史天子質<lb/>
+孫服青速夫囘囘毛布之精者又有怯綿乃翦茸也寶<lb/>
+里服之有襴者也納石失納貼可皆金錦也元冕服及<lb/>
+輿褥用之<lb/>
+西域細布謂之屈眴睒婆　瀛涯勝覽云㮄葛剌國出<lb/>
+沙塌兒布濶三尺五長四丈若三梭有驀黑驀勒濶四<lb/>
+尺長二丈背面皆毳絨厚可五分即兠羅錦也日南國<lb/>
+<pb n="KR3j0066_WYG_037-24b"/>
+棉布名考泥啞<graphic n="KR1813" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1813.png" mimeType="image/png"/>古里國布名撦黎此云西洋布也濶<lb/>
+四尺五曰卑泊者㮄葛剌蓽布名曰滿者提亦其國薑<lb/>
+布名曰沙細者巴附者亦其國密實布名濶五尺如生<lb/>
+羅即羅布也吳録交趾定安縣有木棉樹高大實如酒<lb/>
+杯作布名緤<hi>音泄</hi>一曰毛布南蕐志六祖信衣九條金縷<lb/>
+即屈眴布西域以屈眴大細布也晱婆木棉也迦波羅<lb/>
+刼貝也即木棉□則辨古貝吉貝者証以刼貝則吉為<lb/>
+近洪洲載夷貢有苾布油紅布絞節智布撒荅刺布<hi>闕</hi>
+<pb n="KR3j0066_WYG_037-25a"/>
+八者藍布覬木里布者抹黑荅<graphic n="KR1390" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1390.png" mimeType="image/png"/>布<lb/>
+外國罽曰<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>毲　後漢西京南國傳能作青頓<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>毲烏<lb/>
+桓傳作氀毼<hi>上力于反下胡逹反</hi>注剡也智謂剡乃毯耳說文引<lb/>
+詩毳衣如<graphic n="KR2270" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2270.png" mimeType="image/png"/>亦以為毯也南史高昌國獻蒲桃氍氀即<lb/>
+今所謂蒲桃錦氍毹也風俗通織毛褥曰氍毹亦作氍<lb/>
+毹古樂府坐客氊氍毹<graphic n="KR0146" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0146.png" mimeType="image/png"/>
+                    <graphic n="KR1674" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1674.png" mimeType="image/png"/>五木香<graphic n="KR0146" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0146.png" mimeType="image/png"/>
+                    <graphic n="KR1674" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1674.png" mimeType="image/png"/>即毾㲪<hi>音榻登</hi>
+中天竺有毾㲪今曰氆氌秦蜀之邊多有之似褐五色<lb/>
+方錦從外徼來廣中洋泊亦有至者又名多羅羢其大<lb/>
+<pb n="KR3j0066_WYG_037-25b"/>
+者曰罽方數丈彼中依堂作氊故也伊尹獻令曰請今<lb/>
+以丹青白旄紕罽江歴龍角神龜為獻注江歴珠名西<lb/>
+海有文旄何承天纂文曰紕氐罽也<hi>紕卑疑反罽居例反</hi>說文作<lb/>
+<graphic n="KR1455" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1455.png" mimeType="image/png"/>又作㓹西胡毳布范成大言黎單黎幕今海南有之<lb/>
+皆以絨作錦或織成字廣西辰州土司皆有洞錦皆絨<lb/>
+納之非毛毳也唐淪洪壽等州貢葛楚州貢孔雀布謂<lb/>
+花文如孔雀即南州班布之類無功載㲔翅細葛也見<lb/>
+通俗文按道昭㲔㲍罽也唐韻作<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>㲍恐誤<lb/>
+<pb n="KR3j0066_WYG_037-26a"/>
+生苧謂之黃潤　凡將篇黃潤<graphic n="KR3132" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3132.png" mimeType="image/png"/>美宜製禪蜀都賦筩<lb/>
+中黃潤一□數金左思賦黃潤比筒葢筒中細布也今<lb/>
+之疊布者必成筒一筒十□古無木棉乃細麻布黃潤<lb/>
+者生苧也<lb/>
+麻布細者為絟粗者為苧荃即絟也曰葛曰綀曰縠纑<lb/>
+皆其類也　絺綌<hi>上音抽脂切下音乞㦸切一作絺<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    </hi>為葛之細粗其實<lb/>
+凢麻苧之物細皆為絺粗皆為綌書曰黼黻絺繡是也<lb/>
+紵<hi>音苧</hi>禹貢豫州貢紵高帝紀賈人毋得衣錦繡綺縠絺<lb/>
+<pb n="KR3j0066_WYG_037-26b"/>
+紵罽說文□檾屬細者為絟粗者為紵檾<hi>去穎反</hi>通作穎<lb/>
+䔛絅苘禮浴用二巾上絺下綌非必葛葛不收水如今<lb/>
+蘇州麻布揚州余東辰州洞巾是也漢閩王繇遺江都<lb/>
+王荃葛注荃細布本作絟葛亦麻枲之類故亦稱絟說<lb/>
+文枲著也通釋曰絲曰絮枲曰緼列子曰田夫衣緼黂<lb/>
+内則女子執麻枲周官有典枲淮南子□賤尚枲<hi>絲里反</hi>
+儀禮苴經麻之有蕡蕡麻子也枲是雄麻麻之牡者不<lb/>
+實小顏言紵及疏屬疏亦作綀<hi>說文新附音疎</hi>隋姚察傳門生<lb/>
+<pb n="KR3j0066_WYG_037-27a"/>
+送南布花綀伯審曰吾止麻巾蒲練于吾何用桂海虞<lb/>
+衡志綀子出兩江州洞似苧有花曰花綀智見<graphic n="KR1061" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1061.png" mimeType="image/png"/>岡洞<lb/>
+口有布如三梭羅即綀類也福建之苧金壇之葛有花<lb/>
+者外國紵亦作斗文或績蕉絲為之唐□潮貢蕉布韶<lb/>
+貢竹布振貢班布江南貢紗編綾編蕉葛綀凡績之縷<lb/>
+為纑朱子曰辟纑纑綀麻也史記曰山西饒材竹縠纑<lb/>
+司馬貞曰山中紵可為布也<lb/>
+芮温絮纊也　呂覽必已篇不食穀實不衣芮温注以<lb/>
+<pb n="KR3j0066_WYG_037-27b"/>
+為絮葢言絮纊細耎也列子瞀芮注芮細也或曰芮温<lb/>
+古人直借芮呼絮耳褚遂良傳芮芮興則茹茹蠕蠕<hi>音軟</hi>
+也可証軟絮通轉<lb/>
+絮幕曰牽離　釋名煮繭曰莫莫幙也貧者著衣可以<lb/>
+幕絮也或謂之牽離煮爛牽引使離散如綿也<lb/>
+　　衣服<hi>綵色</hi>
+黲紫淺紫也北紫今之正紫也油紫今之藕合也重紫<lb/>
+今之青蓮色也真紫則累赤而殷者　宋景趙彥衛曰<lb/>
+<pb n="KR3j0066_WYG_037-28a"/>
+仁宗晚秊京師染紫變其色而加重先染作青徐以紫<lb/>
+艸加染謂之油紫後人指為英宗紹綂之讖自後以重<lb/>
+色為紫與朱不相類何謂奪淳熙中北方染紫極<graphic n="KR3132" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3132.png" mimeType="image/png"/>明<lb/>
+中國亦效之目為北紫葢不先青而改緋為腳用紫艸<lb/>
+少誠可奪朱按周禮<graphic n="KR2327" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2327.png" mimeType="image/png"/>疏以朱湛丹秫三月朱乃熾之<lb/>
+即以炊下湯淋所炊丹秫取其汁考工記三入為纁五<lb/>
+入為緅七入為緇又爾雅一染謂之縓再染謂之赬三<lb/>
+染謂之纁士冠有朱䋁之文鄭云朱則四入是更以纁<lb/>
+<pb n="KR3j0066_WYG_037-28b"/>
+入赤汁則為朱論語紺緅者纁入赤汁則為朱不入赤<lb/>
+而入黑汁則為紺㪅以此紺入黑則為緅色若㪅以緅<lb/>
+入黒汁則為𤣥是六入為𤣥也㪅以此𤣥入黑汁則七<lb/>
+入為緇矣則知古之朱赤汁染之紫與朱實相近今之<lb/>
+淺紫是矣其紫近絳謂之北紫緅是今之醬色也石林<lb/>
+㷼語曰太平興國中李文正公昉舉故事禁品官綠袍<lb/>
+舉子白紵下不得衣紫葢宋以緋紫為章服故重之故<lb/>
+其色亦屢新也<graphic n="KR1061" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1061.png" mimeType="image/png"/>則天施黲紫帳即淺紫油紫今之深<lb/>
+<pb n="KR3j0066_WYG_037-29a"/>
+藕合色重紫則近今之青蓮色皆以月白或藍為初染<lb/>
+地而加以紅花成之今又有真紫色則乆乆加大紅其<lb/>
+色自紫惡其奪朱者正謂淺紫色艷耳<lb/>
+總曰朱以賜曰緋以艷曰紅正紅曰赤大赤曰絳言深<lb/>
+紅之光曰繎翹紅曰縉雀頭曰□丹黃曰緹縓赬纁緅<lb/>
+緇次第之色今有水紅銀紅桃紅古但謂之紅荔枝沉<lb/>
+香則綪緅之類也　合古今之稱推之以大赤曰絳丹<lb/>
+黃曰緹<hi>他禮切又平聲</hi>韎韋之跗注今時伍伯緹衣古兵服之<lb/>
+<pb n="KR3j0066_WYG_037-29b"/>
+遺色韎是蒨染赤色也縉<hi>即刅切</hi>亦赤說文引禮有縉緣<lb/>
+按禮止有縓緣二音相近或即一字未可知也紺<hi>古暗切</hi>
+深青揚赤色小顏縉淺赤色也紅色赤而白此則謂今<lb/>
+之水紅耳綪亦赤繒儀禮不綪則讀為䋫緋<hi>甫微切</hi>亦赤<lb/>
+也今以茜加蘇木曰翹紅毋乃縉乎繎紅色之尤深許<lb/>
+氏曰絲勞染而又染為勞也如今西洋布可以受三四<lb/>
+十金之紅又如紡絹綾縀皆先染絲而後織者類或是<lb/>
+耳□雀頭也微黑如紺□淺也故引用為□與才裁通<lb/>
+<pb n="KR3j0066_WYG_037-30a"/>
+臙支見艸類<lb/>
+月白曰縹淺黃曰緗蒼艾曰綦緑艾曰縹緑曰<graphic n="KR3395" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3395.png" mimeType="image/png"/>綟黃<lb/>
+白之閒曰半見白光曰䋤黃絹曰<graphic n="KR3132" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3132.png" mimeType="image/png"/>支黝黑曰皁石輾<lb/>
+之曰硟　縹青白色緗淺黃色東漢輿服志列侯以上<lb/>
+得用錦繒采十二色賈人縹緗而已以其色輕也縹是<lb/>
+今之月白色魏明常被之綟蒼艾色其艸名䓞可染畱<lb/>
+黃或曰䓞即藐茈艸也盭綬與戾通綦一作綼艾蒼色<lb/>
+書曰四人綦弁詩曰綦巾記孔子佩象環五寸而綦組<lb/>
+<pb n="KR3j0066_WYG_037-30b"/>
+綬又詩其弁伊騏當與綦通急就有鬱金半見緗白䋤<lb/>
+縹綟緑紈皁紫硟烝栗絹紺縉紅繎鬱金染黃也半見<lb/>
+言黃白之閒烝栗亦微黃色也䋤白䋤之精光䋤䋤然<lb/>
+也紈即素之輕細者說文有艸草二字草斗櫟實也後<lb/>
+人以草為艸木之艸别作皁或从皂黑黝也借為□𨽻<lb/>
+之皁<hi>作早切</hi>烝栗黃色若烝孰之栗絹生曰繒似縑而疏<lb/>
+者周禮内司服注素紗者今之白縳縳即絹字縳又為<lb/>
+束名百羽為摶十摶為縳縳為衣裏如今杭緒素紗則<lb/>
+<pb n="KR3j0066_WYG_037-31a"/>
+直是紗也一名<graphic n="KR3132" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3132.png" mimeType="image/png"/>支廣雅曰□支絹也子虛賦注縞□<lb/>
+支今所謂素硟以石輾繒色光澤也小顏音□說文尺<lb/>
+戰切石扞繒也正與輾近葢<graphic n="KR3395" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3395.png" mimeType="image/png"/>即蔥色說文<graphic n="KR3395" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3395.png" mimeType="image/png"/>淺青色<lb/>
+今曰翠藍栁藍詩言蔥珩言其色也急就春艸雞翹鳬<lb/>
+翁濯顏曰今染家言鴨頭緑翠毛碧後志雲䍐編羽繋<lb/>
+幢民謂雞翹非也<graphic n="KR2327" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2327.png" mimeType="image/png"/>山雞翹正用屬車編羽染色之雞<lb/>
+翹則為艸名亦以如雞尾翹起耳<lb/>
+濯絳合墨赭之色也今曰紫赯正古之淡也　說文淡<lb/>
+<pb n="KR3j0066_WYG_037-31b"/>
+即浾字一作泟為䞓之重文䞓即頳也浾䞓棠棗之汁<lb/>
+孫愐收赯字如今人稱紫赯色正指浾棠色也畫家以<lb/>
+赭石和淡黑染山石曰濯絳又曰淺絳郭若虛曰設色<lb/>
+輕拂丹青曰吳裝<lb/>
+唐世染色曰退紅　唐詩香注小薫籠韶州新退紅與<lb/>
+褪同謂淺紅也半新半舊曰褪說文褪卸衣也音退<lb/>
+綠沈湥綠也　說文青黃為綠今以藤黃合靛青即為<lb/>
+苦綠周竹坡以子美綠沈槍為卧於苔為緑所沈大謬<lb/>
+<pb n="KR3j0066_WYG_037-32a"/>
+王勉夫引梁<graphic n="KR1061" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1061.png" mimeType="image/png"/>食緑沈瓜聞任昉卒劉卲賦綠沈黃閒<lb/>
+吳曾曰六典鼓吹工人服綠沈古樂府緑沈明月弦唐<lb/>
+太宗羽騎綠沈弓宋元嘉廣州作綠沈屛風石虎作綠<lb/>
+沈色扇王右軍筆經人以綠沈漆筆管見遺其為色明<lb/>
+矣趙德麟侯鯖録引陸龜蒙詩以綠沈為竹所見亦未<lb/>
+廣也升菴見此耳綠沈言其色湥沈正今之苦綠色其<lb/>
+以黃加𤣥者曰油綠黑綠<lb/>
+凡言竊言盜皆借色淺色閒色也　鳥九扈有竊脂竊<lb/>
+<pb n="KR3j0066_WYG_037-32b"/>
+藍等色爾雅虎竊毛謂淺色也扈之竊脂言其色如靠<lb/>
+肉也竊藍淺藍也八駿有盜驪盜亦竊意謂淺驪也古<lb/>
+人善巧煉字大率如此環濟要略曰正色五青赤黃白<lb/>
+黑也閒色五紺紅縹紫流黃也升菴曰似綠者曰校蔥<lb/>
+暝色也檀面色也鵻草色也<lb/>
+罨畫生色也　墨客揮犀曰罨畫今之生色高續古引<lb/>
+秦韜玉詩花明驛路臙脂暖山入江亭罨畫開李西臺<lb/>
+盧贊元詩皆用罨畫劉商隠愛<graphic n="KR2327" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2327.png" mimeType="image/png"/>興罨畫溪<lb/>
+<pb n="KR3j0066_WYG_037-33a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3j0066_WYG_037-33b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　通雅卷三十七<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

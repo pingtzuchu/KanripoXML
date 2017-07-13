@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>捕蝗考</head>
+    <p>
+<pb n="KR2m0047_WYG_000-1a"/>
+欽定四庫全書　　　　　史部十三<lb/>
+　捕蝗考　　　　　　　　政書類三<hi>邦計之</hi>屬<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案捕蝗考一卷<lb/>
+　　　國朝陳芳生撰芳生字潄六仁和人螽蝝之害<lb/>
+　　　　春秋屢見於策書詩大田篇去其螟螣及其<lb/>
+　　　　蟊賊無害我田穉田祖有神秉畀炎火毛鄭<lb/>
+　　　　之説以炎火為盛陽謂田祖不受此害持之<lb/>
+<pb n="KR2m0047_WYG_000-1b"/>
+　　　　付與炎火使自銷亡並非實火是漢時尚未<lb/>
+　　　　詳除蝗之制也至唐姚崇作相遣使捕蝗引<lb/>
+　　　　詩此語以為證朱子本義亦從其説於是捕<lb/>
+　　　　蝗之法始稍稍見於紀述芳生此書取史冊<lb/>
+　　　　所載事迹議論彚為一編首備蝗事宜十條<lb/>
+　　　　次前代捕蝗法而明末徐光啟奏疏最為詳<lb/>
+　　　　核則全録其文附以陳龍正語及芳生自識<lb/>
+　　　　二條大㫖在先事則預為消弭臨時則竭力<lb/>
+<pb n="KR2m0047_WYG_000-2a"/>
+　　　　剪除而責成於地方有司之實心經理條分<lb/>
+　　　　縷晰頗為詳備雖卷帙寥寥然頗有禆於實<lb/>
+　　　　用也乾隆四十六年十月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>天經或問</head>
+    <p>
+<pb n="KR3f0023_WYG_000-1a"/>
+欽定四庫全書　　　　　子部<lb/>
+　天經或問　　　　　　　天文算法類<hi>推步之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案天經或問四卷<lb/>
+　　　國朝游藝撰藝字子六建寧人是書凡前後二<lb/>
+　　　　集此其前集也凡天地之象日月星之行薄<lb/>
+　　　　蝕朒朓之故與風雲雷電雨露霜霧虹霓之<lb/>
+　　　　屬皆設為問答一一闡其所以然頗為明晢<lb/>
+<pb n="KR3f0023_WYG_000-1b"/>
+　　　　至于占驗之術則悉屏不言尤為深識昔班<lb/>
+　　　　固作漢書律厯志言治厯當兼擇専門之裔<lb/>
+　　　　明經之儒精算之士正以専門習于成法明<lb/>
+　　　　于古義精算得其確數欲使互相參攷究己<lb/>
+　　　　往以知未來非欲髙談雄辨徒究其精微幽<lb/>
+　　　　妙之理而己也邵子厯理厯數之説亦謂知<lb/>
+　　　　其當然與知其所以然學者誤㑹其㫖遂以<lb/>
+　　　　為厯數之外别有厯理孫承澤春明夢餘録<lb/>
+<pb n="KR3f0023_WYG_000-2a"/>
+　　　　因以元授時厯全歸于許衡之明理所載崇<lb/>
+　　　　禎十四年禮部議改厯法一疏不能決兩家<lb/>
+　　　　之是非因推原厯本掃除測算尤屬遁詞夫<lb/>
+　　　　天下無理外之數亦無數外之理授時厯宻<lb/>
+　　　　于前代則有宋諸儒言天鑿鑿何以三百年<lb/>
+　　　　中厯十八變而不定必待郭守敬輩乎藝作<lb/>
+　　　　此書亦全明厯理于歩算猶屬未諳然藝尚<lb/>
+　　　　能知厯數故反復究闡具有實徵存是一編<lb/>
+<pb n="KR3f0023_WYG_000-2b"/>
+　　　　可知即數即理本無二致非空言天道者所<lb/>
+　　　　可及也乾隆四十七年十一月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

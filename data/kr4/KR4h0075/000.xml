@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>梅花百詠</head>
+    <p>
+<pb n="KR4h0075_WYG_000-1a"/>
+欽定四庫全書　　　　　集部八<lb/>
+　梅花百詠　　　　　　　總集類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案梅花百詠一巻附録一巻元馮子<lb/>
+　　　　振與釋明本倡和詩也子振字海粟攸州人<lb/>
+　　　　官承事郎集賢待制以博學英詞有名于時<lb/>
+　　　　明本號中峰錢塘人住鴈蕩村姓孫氏出家<lb/>
+　　　　呉山聖水寺得法于髙峰原妙禪師屢辭名<lb/>
+<pb n="KR4h0075_WYG_000-1b"/>
+　　　　山主席屏跡自放時趙孟頫與明本友善子<lb/>
+　　　　振意輕之一日孟頫偕明本往訪子振子振<lb/>
+　　　　出示梅花百詠詩明本一覽走筆和成復出<lb/>
+　　　　所作九字梅花歌以示子振遂與定交是編<lb/>
+　　　　所載七絶百首即當時所立和者是也後又<lb/>
+　　　　附春字韻七律一百首則僅有明本和章而<lb/>
+　　　　子振原唱已不可復見矣宋史藝文志載李<lb/>
+　　　　綨梅花百詠一巻久佚弗傳子振復創為之<lb/>
+<pb n="KR4h0075_WYG_000-2a"/>
+　　　　才思奔放往往能出竒制勝而明本所和亦<lb/>
+　　　　頗琱鏤盡致足稱合璧聨珪今明本所著中<lb/>
+　　　　峯廣録傳本甚尠而子振著作則惟元文類<lb/>
+　　　　諸書畧見一二全集久已湮沒無存此集雖<lb/>
+　　　　㳺戲之作而半爪一鱗猶可以窺見崖畧其<lb/>
+　　　　詩别本互有同異東閣梅一首中峯和章原<lb/>
+　　　　闕而别見于韋德珪集<lb/>
+　　　國朝夏洪基為之訂正校刋頗有依據今亦並<lb/>
+<pb n="KR4h0075_WYG_000-2b"/>
+　　　　仍之焉乾隆四十三年七月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

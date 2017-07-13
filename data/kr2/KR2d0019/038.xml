@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2d0019_WYG_038-1a"/>
+　欽定四庫全書<lb/>
+御定歴代紀事年表卷四十一<lb/>
+　　<hi>起丁丑晉元帝建武元年○止甲辰晉康帝建元二年</hi>凡二十八年<lb/>
+　　表例説<lb/>
+　　　<hi>臣</hi>之樞謹按元帝為東晉之始故建武元年方即<lb/>
+　　　晉王位照綱目例即大書中宗元皇帝不欲使晉<lb/>
+　　　曠年無君且以明正統之有在也○涼自張軌以<lb/>
+　　　來翊戴晉室晉書存之列傳而不入載記故年表<lb/>
+<pb n="KR2d0019_WYG_038-1b"/>
+　　　附於晉王侯格内至是張實不從中興正朔而於<lb/>
+　　　其國中自用愍帝建興年號故綱目等於僭國而<lb/>
+　　　分注之今從其例書涼張氏自建武元年始<lb/>
+<pb n="KR2d0019_WYG_038-2a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-3a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-4a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-5a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-6a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-7a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-8a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-9a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-10a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-11a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-12a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-13a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-14a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-15a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-16a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-17a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-18a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-19a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-20a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-21a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-22a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-23a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-24a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-25a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-26a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-27a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-28a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-29a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-30a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-31a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-32a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-33a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-34a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-35a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-36a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-37a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-38a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-39a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-40a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-41a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-42a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-43a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-44a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-45a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-46a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-47a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-48a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-49a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-50a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-51a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-52a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-53a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-54a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-55a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-56a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-57a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-58a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-59a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-60a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-61a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-62a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-63a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-64a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-65a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-66a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-67a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-68a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-69a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-70a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-71a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-72a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-73a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-74a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-75a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-76a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-77a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-78a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-79a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-80a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-81a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-82a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-83a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-84a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-85a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-86a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-87a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-88a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-89a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-90a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-91a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-92a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-93a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-94a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-95a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-96a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-97a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-98a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-99a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-100a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-101a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_038-102a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2d0019_WYG_038-102b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定歴代紀事年表卷四十一<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

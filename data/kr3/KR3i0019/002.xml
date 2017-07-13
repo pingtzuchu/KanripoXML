@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>茶經卷中</head> <lb/>
+    <p>
+<pb n="KR3i0019_WYG_002-1a"/>
+欽定四庫全書<lb/>
+　茶經卷中<lb/>
+　　　　　　　　　　　　　唐　陸羽　撰<lb/>
+　　四茶之噐<lb/>
+　　　風爐<hi>灰承</hi>　　筥　　　　炭檛　　火筴<lb/>
+　　　鍑　　　　交床　　　夾　　　紙囊<lb/>
+　　　碾　　　　羅合　　　則　　　水方<lb/>
+　　　漉水囊　　瓢　　　　竹筴　　鹺簋<hi>楬</hi>
+<pb n="KR3i0019_WYG_002-1b"/>
+　　　熟盂　　盌　　畚　　　札　　滌方<lb/>
+　　　滓方　　巾　　具列　　都籃<lb/>
+風爐<hi>灰承</hi>
+　　風爐以銅鐵鑄之如古鼎形厚三分縁闊九分令<lb/>
+　　六分虛中致其圬墁凡三足古文書二十一字一<lb/>
+　　足云坎上巽下離于中一足云體均五行去百疾<lb/>
+　　一足云聖唐年號某年鑄其三足之間設三窗底<lb/>
+　　一窗以為通飈漏燼之所上並古文書六字一窗<lb/>
+<pb n="KR3i0019_WYG_002-2a"/>
+　　之上書伊公二字一窻之上書羮陸二字一窻之<lb/>
+　　上書氏茶二字所謂伊公羮陸氏茶也置墆<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>於<lb/>
+　　其内設三格其一格有翟焉翟者火禽也畫一卦<lb/>
+　　曰離其一格有彪焉彪者風獸也畫一卦曰巽其<lb/>
+　　一格有魚焉魚者水蟲也畫一卦曰坎巽主風離<lb/>
+　　主火坎主水風能興火火能熟水故備其三卦焉<lb/>
+　　其飾以連葩垂蔓曲水方文之類其爐或鍜鐵為<lb/>
+　　之或運泥為之其灰承作三足鉄柈檯之<lb/>
+<pb n="KR3i0019_WYG_002-2b"/>
+筥<lb/>
+　　筥以竹織之髙一尺二寸徑闊七寸或用藤作木<lb/>
+　　楦如筥形織之六出圎眼其底蓋若利篋口鑠之<lb/>
+炭檛<lb/>
+　　炭檛以鐵六稜制之長一尺銳一豐中執細頭系<lb/>
+　　一小<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>以飾檛也若今之河隴軍人木吾也或作<lb/>
+　　鎚或作釜隨其便也<lb/>
+火筴<lb/>
+<pb n="KR3i0019_WYG_002-3a"/>
+　　火筴一名筯若常用者圓直一尺三寸頂平截無<lb/>
+　　葱臺勾鏁之屬以鐵或熟銅製之<lb/>
+鍑<hi>音輔或作釡或作鬴</hi>
+　　鍑以生鐵為之今人有業冶者所謂急鐵其鐵以<lb/>
+　　耕刀之趄錬而鑄之内摸土而外摸沙土滑於内<lb/>
+　　易其摩滌沙澁於外吸其炎焰方其耳以正令也<lb/>
+　　廣其緣以務逺也長其臍以守中也臍長則沸中<lb/>
+　　沸中則末易揚末易揚則其味淳也洪州以瓷為<lb/>
+<pb n="KR3i0019_WYG_002-3b"/>
+　　之萊州以石為之瓷與石皆雅器也性非堅實難<lb/>
+　　可持乆用銀為之至潔但涉於侈麗雅則雅矣潔<lb/>
+　　亦潔矣若用之恒而卒歸於銀也<lb/>
+交牀<lb/>
+　　交牀以十字交之剜中令虛以支鍑也<lb/>
+夾<lb/>
+　　夾以小青竹為之長一尺二寸令一寸有節節已<lb/>
+　　上剖之以炙茶也彼竹之篠津潤於火假其香潔<lb/>
+<pb n="KR3i0019_WYG_002-4a"/>
+　　以益茶味恐非林谷間莫之致或用精鐵熟銅之<lb/>
+　　類取其乆<lb/>
+紙囊<lb/>
+　　紙囊以剡藤紙白厚者夾縫之以貯所炙茶使不<lb/>
+　　泄其香也<lb/>
+碾<hi>拂末</hi>
+　　碾以橘木為之次以梨桑桐柘為之内圓而外方<lb/>
+　　内圓備於運行也外方制其傾危也内容墮而外<lb/>
+<pb n="KR3i0019_WYG_002-4b"/>
+　　無餘木墮形如車輪不輻而軸焉長九寸闊一寸<lb/>
+　　七分墮徑三寸八分中厚一寸邉厚半寸軸中方<lb/>
+　　而執圓其拂末以鳥羽製之<lb/>
+羅合<lb/>
+　　羅末以合蓋貯之以則置合中用巨竹剖而屈之<lb/>
+　　以紗絹衣之其合以竹節為之或屈杉以漆之髙<lb/>
+　　三寸蓋一寸底二寸口徑四寸<lb/>
+則<lb/>
+<pb n="KR3i0019_WYG_002-5a"/>
+　　則以海貝蠣蛤之屬或以銅鐵竹匕䇿之類則者<lb/>
+　　量也准也度也凡煑水一升用末方寸匕若好薄<lb/>
+　　者減之嗜濃者増之故云則也<lb/>
+水方<lb/>
+　　水方以椆木槐楸梓等合之其裏并外縫漆之受<lb/>
+　　一斗<lb/>
+漉水囊<lb/>
+　　漉水囊若常用者其格以生銅鑄之以備水濕無<lb/>
+<pb n="KR3i0019_WYG_002-5b"/>
+　　有苔穢腥澁意以熟銅苔穢鐵腥澁也林棲谷隠<lb/>
+　　者或用之竹木木與竹非持乆涉逺之具故用之<lb/>
+　　生銅其囊織青竹以捲之裁碧縑以縫之細翠鈿<lb/>
+　　以綴之又作緑油囊以貯之圓徑五寸柄一寸五<lb/>
+　　分<lb/>
+瓢<lb/>
+　　瓢一曰犧杓剖瓠為之或刋木為之晉舎人杜毓<lb/>
+　　荈賦云酌之以匏匏瓢也口闊脛薄柄短永嘉中<lb/>
+<pb n="KR3i0019_WYG_002-6a"/>
+　　餘姚人虞洪入瀑布山採茗遇一道士云吾丹丘<lb/>
+　　子祈子他日甌犧之餘乞相遺也犧木杓也今常<lb/>
+　　用以梨木為之<lb/>
+竹筴<lb/>
+　　竹筴或以桃栁蒲葵木為之或以柿心木為之長<lb/>
+　　一尺銀裹兩頭<lb/>
+鹺簋<lb/>
+　　鹺簋以瓷為之圓徑四寸若合形或瓶或罍貯鹽<lb/>
+<pb n="KR3i0019_WYG_002-6b"/>
+　　花也其<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>竹制長四寸一分闊九分<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>䇿也<lb/>
+熟盂<lb/>
+　　熟盂以貯熟水或瓷或沙受二升<lb/>
+盌<lb/>
+　　盌越州上鼎州次婺州次岳州次夀州洪州次或<lb/>
+　　者以邢州處越州上殊為不然若邢瓷類銀越瓷<lb/>
+　　類玉邢不如越一也若邢瓷類雪則越瓷類氷邢<lb/>
+　　不如越二也邢瓷白而茶色丹越瓷青而茶色緑<lb/>
+<pb n="KR3i0019_WYG_002-7a"/>
+　　邢不如越三也晉杜毓荈賦所謂器擇陶㨂出自<lb/>
+　　東甌甌越也甌越州上口脣不卷底卷而淺受半<lb/>
+　　升已下越州瓷岳瓷皆青青則益茶茶作白紅之<lb/>
+　　色邢州瓷白茶色紅夀州瓷黄茶色紫洪州瓷褐<lb/>
+　　茶色黑皆不宜茶<lb/>
+畚<lb/>
+　　畚以白蒲捲而編之可貯盌十枚或用筥其紙帊<lb/>
+　　以剡紙夾縫令方亦十之也<lb/>
+<pb n="KR3i0019_WYG_002-7b"/>
+札<lb/>
+　　札緝栟櫚皮以茱萸木夾而縛之或截竹束而管<lb/>
+　　之若巨筆形<lb/>
+滌方<lb/>
+　　滌方以貯滌洗之餘用楸木合之制如水方受八<lb/>
+　　升<lb/>
+滓方<lb/>
+　　滓方以集諸滓製如滌方處五升<lb/>
+<pb n="KR3i0019_WYG_002-8a"/>
+巾<lb/>
+　　巾以絁布為之長二尺作二枚互用之以潔諸器<lb/>
+具列<lb/>
+　　具列或作床或作架或純木純竹而製之或木或<lb/>
+　　竹黄黑可局而漆者長三尺闊二尺髙六寸具列<lb/>
+　　者悉歛諸器物悉以陳列也<lb/>
+都籃<lb/>
+　　都籃以悉設諸器而名之以竹篾内作三角方眼<lb/>
+<pb n="KR3i0019_WYG_002-8b"/>
+　　外以雙篾闊者經之以單篾纎者縛之遞壓雙經<lb/>
+　　作方眼使玲瓏髙一尺五寸底闊一尺髙二寸長<lb/>
+　　二尺四寸闊二尺<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　茶經卷中<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

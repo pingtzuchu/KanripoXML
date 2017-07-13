@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4c0081_SBCK_006-1a"/>
+李羣玉詩後集卷第二<lb/>
+　　　贈回雪<lb/>
+回雪舞縈盈縈盈若回雪腰支一把玉秪恐風<lb/>
+吹折如能買一笑滿斗量明月安得金蓮花歩<lb/>
+步承羅襪<lb/>
+　　　將之京國贈薛貟外<lb/>
+黄葉下空館寂寥寒雨愁平居歲華晏絡緯啼<lb/>
+林幽節物凋壯心咄嗟不能休空懷趙鞅歎變<lb/>
+化良無由所思杳何如側身望皇州蒼烟晦楚<lb/>
+野寒浪埋昭丘趙壹賦命薄陳思多丗憂翻然<lb/>
+<pb n="KR4c0081_SBCK_006-1b"/>
+羡魚鳥暢矣山川遊薛公龍泉姿其氣在斗牛<lb/>
+南冠束秀髪白石勞悲謳圭衮照崇閥文儒嗣<lb/>
+箕裘曠然方寸地霽海浮雲舟澧浦一遺佩郢<lb/>
+南再悲秋呌閽路旣阻浩蕩懷靈脩莫奏武溪<lb/>
+笛且登仲宣樓亨通與否閉物理相沉浮天子<lb/>
+坐宣室夔龍奉謀猷行當賜環去豈作遺賢羞<lb/>
+　　　送魏珪覲<lb/>
+木落楚色深風髙浪花白送君飛一葉鳥逝入<lb/>
+空碧猗歟白華秀傷心倚門夕不知雲漲遥萬<lb/>
+里看咫尺蕭蕭青楓岸去掩江上宅離觴有黃<lb/>
+<pb n="KR4c0081_SBCK_006-2a"/>
+花節物助淒戚瀟湘入<graphic n="KR0893" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0893.png" mimeType="image/png"/>桂一路縈水石烟蘿<lb/>
+拂行舟玉瀬鏘枕席多君林泉趣躭翫日成癖<lb/>
+長嘯凌清暉襟情當雪滌登龍屈指内飛譽甚<lb/>
+籍籍未折月中枝寧隨宋都鶂日余吞聲地舉<lb/>
+足傷瓦礫見爾一開顔温明乃珠璧春風到雲<lb/>
+嶠把酒時相憶荳䓻花入船鷓鴣啼送客颺天<lb/>
+與瘴海此去備㳂歷珍重春官英加餐數刀帛<lb/>
+　　　始忝四座奏狀聞薦蒙恩授官旋進歌<lb/>
+　　　詩延英宣賜言懷紀事呈同舘諸公二<lb/>
+　　　十四韻<lb/>
+<pb n="KR4c0081_SBCK_006-2b"/>
+兩鬢有二毛光隂流浪中形骸日土木志氣隨<lb/>
+雲風冥黙楚江畔蕭條林巷空幽鳥事翔翥歛<lb/>
+翼依蒿蓬一飯五放筯愀然念途窮孟門在歩<lb/>
+武所向何由通徴諸太易言物否不可終庶期<lb/>
+白雪調一奏驚凢聾昨忝丞相召揚鞭指冥鴻<lb/>
+姓名掛丹詔文句飛天聦解薛龍鳯署懷鈆蘭<lb/>
+桂叢聲名仰聞見烟漢陪髙蹤峨峨羣玉山肅<lb/>
+肅紫殿東神飈泛鍾漏佳氣浮筠松自顧珉玞<lb/>
+璞何縁侶圭琮群賢垂重價省巳増磨礲天子<lb/>
+棲穆清三台付夔龍九霄降雨露萬國望時雍<lb/>
+<pb n="KR4c0081_SBCK_006-3a"/>
+巍巍致君期勛華將比崇承天四柱石嶷若窺<lb/>
+衡嵩日見帝道昇謀猷垂景鍾寰瀛納壽域翔<lb/>
+泳皆　百神儼■亭佇將告成功吾徒事文<lb/>
+藻驤首歌登封<lb/>
+　　　同張明府遊樓水亭<lb/>
+草色緑溪晚梅香生縠文雲天歛餘霽水木籠<lb/>
+微曛垂釣坐芳嶼幽禽時一聞何當五栁下酌<lb/>
+醴吟庭筠<lb/>
+　　　引水行<lb/>
+一條寒玉走秋泉引出深蘿洞口烟十里暗流<lb/>
+<pb n="KR4c0081_SBCK_006-3b"/>
+聲不斷行人頭上過潺湲<lb/>
+　　　穆天子<lb/>
+穆滿恣逸志而輕天下君一朝得八駿逐日西<lb/>
+溟濆寂寥崦嵫幽絶跡留空文三千閉宫豔怨<lb/>
+絶寜勝云或言帝軒轅乗龍凌紫氛橋山葬弓<lb/>
+劔冥昧竟難分不思五絃琴作歌詠南薫但聽<lb/>
+西王母瑶池吟白雲<lb/>
+　　　七月十五夜看月<lb/>
+朦朧南溟月汹湧出雲濤下射長鯨眼遥分玉<lb/>
+兎毫勢來星斗動路越青冥髙竟夕贍光彩昻<lb/>
+<pb n="KR4c0081_SBCK_006-4a"/>
+頭把白醪<lb/>
+　　　廣州重别方處士之封川<hi>乆約同遊羅浮期素秋而行</hi>
+楚國傲名客九州徧芳馨白衣謝簮紱雲卧重<lb/>
+巖扄長波飛素舸五月下南溟大笑相逢日天<lb/>
+邊作酒星<lb/>
+　　　其二<lb/>
+十年一雲雨常恨輝容隔天末又分襟離憂鬢<lb/>
+堪白願回陵潮楫且著登山屐共期羅浮秋與<lb/>
+子醉海色<lb/>
+　　　南臺𥘉晴望寄韋秀才<lb/>
+<pb n="KR4c0081_SBCK_006-4b"/>
+荆臺蘭渚客寥落共含情空舘相思夜孤燈照<lb/>
+雨聲<lb/>
+　　　北風<lb/>
+病髪乾垂枕臨風強起梳蝶飛䰟尚弱蟻闘體<lb/>
+猶虚瘦骨呻吟後羸容几杖𥘉庭幽行樂静凉<lb/>
+景翠筠踈<lb/>
+李羣玉詩後集卷第二<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

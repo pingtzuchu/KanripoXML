@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4d0317_WYG_004-1a"/>
+方是閒居士小稿自記<lb/>
+㳺季僊來山中相訪索予詩文不寘口辭拒不能為檢<lb/>
+尋舊唱和獨出一百首新作七十一首雜著二十七首<lb/>
+詞四十一首集成兩編以酧其雅志予語塵俗不足道<lb/>
+季僊先世文學彰彰在人口而季僊伯仲詞翰又皆稱<lb/>
+於朋儕今棄彼取此豈厭膏粱而思藜糗忘黄鐘而取<lb/>
+瓦缶者乎因書其後而歸之嘉定丁丑重陽後十日種<lb/>
+春子劉學箕習之父書於方是閒堂<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2m0055_WYG_025-1a"/>
+欽定四庫全書<lb/>
+大清律例卷五目錄<lb/>
+　名例律下<lb/>
+　　　老小廢疾收贖<lb/>
+　　　犯罪時未老疾<lb/>
+　　　給没贓物<lb/>
+　　　犯罪自首<lb/>
+　　　二罪俱發以重論<lb/>
+<pb n="KR2m0055_WYG_025-1b"/>
+　　　犯罪共逃<lb/>
+　　　同僚犯公罪<lb/>
+　　　公事失錯<lb/>
+　　　共犯罪分首從<lb/>
+　　　犯罪事發在逃<lb/>
+　　　親屬相為容隠<lb/>
+　　　處决叛軍<lb/>
+　　　化外人有犯<lb/>
+<pb n="KR2m0055_WYG_025-2a"/>
+　　　本條别有罪名<lb/>
+　　　加減罪例<lb/>
+　　　稱乘輿車駕<lb/>
+　　　稱期親祖父母<lb/>
+　　　稱與同罪<lb/>
+　　　稱監臨主守<lb/>
+　　　稱日者以百刻<lb/>
+　　　稱道士女冠<lb/>
+<pb n="KR2m0055_WYG_025-2b"/>
+　　　斷罪依新頒律<lb/>
+　　　斷罪無正條<lb/>
+　　　徒流遷徙地方<lb/>
+　　　充軍地方<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

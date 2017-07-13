@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>西清古鑑卷二十</head> <lb/>
+    <p>
+<pb n="KR3h0089_WYG_023-1a"/>
+欽定四庫全書<lb/>
+　西清古鑑卷二十<lb/>
+　　壺二<lb/>
+　　　周<lb/>
+　　　　䕫紋壺一<lb/>
+　　　　䕫紋壺二<lb/>
+　　　　䕫紋壺三<lb/>
+　　　　䕫紋壺四<lb/>
+<pb n="KR3h0089_WYG_023-1b"/>
+　　　　篆帶壺<lb/>
+　　　　山紋壺<lb/>
+　　　　雲紋壺<lb/>
+　　　　鱗紋壺<lb/>
+　　　　弦紋壺一<lb/>
+　　　　弦紋壺二<lb/>
+　　　　弦紋壺三<lb/>
+　　　　獸環壺一<lb/>
+<pb n="KR3h0089_WYG_023-2a"/>
+　　　　獸環壺二<lb/>
+　　　　獸環壺三<lb/>
+　　　　獸環壺四<lb/>
+　　　　獸環壺五<lb/>
+　　　　獸環壺六<lb/>
+　　　　獸環壺七<lb/>
+　　　　獸環壺八<lb/>
+　　　　獸環壺九<lb/>
+<pb n="KR3h0089_WYG_023-2b"/>
+　　　　獸環壺十<lb/>
+　　　　獸環方壺<lb/>
+　　　　獸環匾壺<lb/>
+　　　　獸耳壺<lb/>
+　　　　獸耳匾壺<lb/>
+　　　　貫耳壺一<lb/>
+　　　　貫耳壺二<lb/>
+　　　　貫耳壺三<lb/>
+<pb n="KR3h0089_WYG_023-3a"/>
+　　　　貫耳壺四<lb/>
+　　　　貫耳壺五<lb/>
+　　　　貫耳壺六<lb/>
+　　　　貫耳壺七<lb/>
+　　　　貫耳壺八<lb/>
+　　　　貫耳壺九<lb/>
+　　　　瓠壺一<lb/>
+　　　　瓠壺二<lb/>
+<pb n="KR3h0089_WYG_023-4a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3h0089_WYG_023-4b"/>
+右髙一尺四寸一分深一尺三寸八分口徑五寸二分<lb/>
+腹圍三尺五寸二分重三百七十一兩兩耳一鼻<lb/>
+<pb n="KR3h0089_WYG_023-5a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3h0089_WYG_023-5b"/>
+右髙一尺一寸深九寸九分口縱四寸横五寸八分腹<lb/>
+圍一尺九寸重一百三兩兩耳<lb/>
+<pb n="KR3h0089_WYG_023-6a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3h0089_WYG_023-6b"/>
+右髙一尺八分深九寸五分口徑三寸七分腹圍二尺<lb/>
+三寸三分重一百一兩兩耳連環<lb/>
+<pb n="KR3h0089_WYG_023-7a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3h0089_WYG_023-7b"/>
+右髙一尺一寸一分深九寸三分口縱四寸五分横五<lb/>
+寸六分腹圍二尺一寸四分重一百五十九兩兩耳<lb/>
+<pb n="KR3h0089_WYG_023-8a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3h0089_WYG_023-8b"/>
+右髙八寸二分深七寸三分口徑三寸五分腹圍一尺<lb/>
+七寸重一百二十九兩兩耳<lb/>
+<pb n="KR3h0089_WYG_023-9a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3h0089_WYG_023-9b"/>
+右髙八寸八分深七寸八分口徑四寸一分腹圍一尺<lb/>
+七寸九分重一百一十兩<lb/>
+<pb n="KR3h0089_WYG_023-10a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3h0089_WYG_023-10b"/>
+右髙一尺三分深九寸五分口徑三寸五分腹圍二尺<lb/>
+三寸四分重一百三十一兩兩耳連環<lb/>
+<pb n="KR3h0089_WYG_023-11a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3h0089_WYG_023-11b"/>
+右髙一尺四寸九分深一尺二寸四分口徑六寸腹圍<lb/>
+三尺重四百三兩兩耳<lb/>
+<pb n="KR3h0089_WYG_023-12a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3h0089_WYG_023-12b"/>
+右髙九寸三分深七寸八分口徑三寸二分腹圍一尺<lb/>
+九寸七分重七十三兩兩耳<lb/>
+<pb n="KR3h0089_WYG_023-13a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3h0089_WYG_023-13b"/>
+右髙八寸四分深八寸口徑三寸腹圍一尺九寸一分<lb/>
+重八十八兩<lb/>
+<pb n="KR3h0089_WYG_023-14a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3h0089_WYG_023-14b"/>
+右髙八寸一分深七寸七分口徑二寸九分腹圍一尺<lb/>
+八寸重五十五兩兩耳連環<lb/>
+<pb n="KR3h0089_WYG_023-15a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3h0089_WYG_023-15b"/>
+右髙一尺三寸六分深一尺二寸三分口徑五寸三分<lb/>
+腹圍三尺三寸九分重二百八十三兩兩耳連環<lb/>
+<pb n="KR3h0089_WYG_023-16a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3h0089_WYG_023-16b"/>
+右髙一尺一寸五分深一尺七分口徑三寸五分腹圍<lb/>
+二尺二寸七分重一百一十二兩兩耳連環<lb/>
+<pb n="KR3h0089_WYG_023-17a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3h0089_WYG_023-17b"/>
+右髙一尺九分深九寸七分口徑三寸六分腹圍二尺<lb/>
+二寸八分重八十三兩兩耳連環<lb/>
+<pb n="KR3h0089_WYG_023-18a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3h0089_WYG_023-18b"/>
+右髙一尺三分深九寸四分口徑一寸九分腹圍一尺<lb/>
+七寸重五十九兩兩耳連環四鼻<lb/>
+<pb n="KR3h0089_WYG_023-19a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3h0089_WYG_023-19b"/>
+右髙一尺一寸五分深一尺四分口徑二寸一分腹圍<lb/>
+一尺九寸重九十兩兩耳連環四鼻<lb/>
+<pb n="KR3h0089_WYG_023-20a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3h0089_WYG_023-20b"/>
+右髙九寸七分深八寸四分口徑三寸三分腹圍二尺<lb/>
+一寸五分重八十二兩兩耳連環<lb/>
+<pb n="KR3h0089_WYG_023-21a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3h0089_WYG_023-21b"/>
+右髙九寸五分深七寸九分口徑三寸一分腹圍二尺<lb/>
+四分重七十七兩兩耳連環<lb/>
+<pb n="KR3h0089_WYG_023-22a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3h0089_WYG_023-22b"/>
+右髙九寸三分深八寸四分口徑二寸一分腹圍一尺<lb/>
+八寸重七十一兩兩耳連環<lb/>
+<pb n="KR3h0089_WYG_023-23a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3h0089_WYG_023-23b"/>
+右髙九寸七分深八寸五分口徑三寸二分腹圍二尺<lb/>
+五分重七十三兩兩耳連環<lb/>
+<pb n="KR3h0089_WYG_023-24a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3h0089_WYG_023-24b"/>
+右髙八寸四分深七寸四分口徑三寸一分腹圍一尺<lb/>
+九寸四分重六十六兩兩耳連環<lb/>
+<pb n="KR3h0089_WYG_023-25a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3h0089_WYG_023-25b"/>
+右髙一尺一寸七分深一尺四分口徑三寸三分腹圍<lb/>
+二尺六寸一分重一百三十九兩兩耳連環<lb/>
+<pb n="KR3h0089_WYG_023-26a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3h0089_WYG_023-26b"/>
+右髙九寸二分深八寸一分口徑三寸五分腹圍二尺<lb/>
+六分重六十九兩兩耳連環<lb/>
+<pb n="KR3h0089_WYG_023-27a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3h0089_WYG_023-27b"/>
+右髙九寸七分深八寸九分口徑三寸七分腹圍一尺<lb/>
+九寸九分重一百一十七兩兩耳金銀錯<lb/>
+<pb n="KR3h0089_WYG_023-28a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3h0089_WYG_023-28b"/>
+右髙五寸一分深四寸五分口徑一寸九分腹圍一尺<lb/>
+四寸六分重四十二兩兩耳<lb/>
+<pb n="KR3h0089_WYG_023-29a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3h0089_WYG_023-29b"/>
+右髙一尺五寸九分深一尺五寸口縱六寸二分横七<lb/>
+寸四分腹圍三尺二寸二分重三百六十三兩兩耳博<lb/>
+古圖載周貫耳壺凡五形製皆合<lb/>
+<pb n="KR3h0089_WYG_023-30a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3h0089_WYG_023-30b"/>
+右髙一尺二寸七分深一尺七分口縱五寸二分横六<lb/>
+寸一分腹圍二尺四寸六分重二百五十一兩兩耳<lb/>
+<pb n="KR3h0089_WYG_023-31a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3h0089_WYG_023-31b"/>
+右髙一尺二寸九分深一尺一寸九分口徑二寸五分<lb/>
+腹圍一尺四寸三分重七十九兩兩耳<lb/>
+<pb n="KR3h0089_WYG_023-32a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3h0089_WYG_023-32b"/>
+右髙一尺二寸深一尺八分口徑三寸二分腹圍一尺<lb/>
+七寸重八十九兩兩耳<lb/>
+<pb n="KR3h0089_WYG_023-33a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3h0089_WYG_023-33b"/>
+右髙一尺一寸二分深一尺口縱三寸七分横四寸六<lb/>
+分腹圍二尺九分重一百七十五兩兩耳<lb/>
+<pb n="KR3h0089_WYG_023-34a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3h0089_WYG_023-34b"/>
+右髙一尺一分深九寸五分口縱三寸八分横五寸腹<lb/>
+圍二尺重七十五兩兩耳<lb/>
+<pb n="KR3h0089_WYG_023-35a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3h0089_WYG_023-35b"/>
+右髙七寸七分深六寸九分口縱二寸一分横二寸六<lb/>
+分腹圍一尺五寸四分重五十三兩兩耳<lb/>
+<pb n="KR3h0089_WYG_023-36a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3h0089_WYG_023-36b"/>
+右髙五寸五分深五寸三分口縱二寸横二寸六分腹<lb/>
+圍一尺三寸五分重六十一兩兩耳連環<lb/>
+<pb n="KR3h0089_WYG_023-37a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3h0089_WYG_023-37b"/>
+右髙九寸四分深八寸七分口徑二寸二分腹圍一尺<lb/>
+一寸五分重三十九兩兩耳<lb/>
+<pb n="KR3h0089_WYG_023-38a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3h0089_WYG_023-38b"/>
+右通葢髙九寸四分深八寸八分口徑一寸五分腹圍<lb/>
+一尺四寸三分重六十七兩有繫<lb/>
+<pb n="KR3h0089_WYG_023-39a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3h0089_WYG_023-39b"/>
+右髙八寸八分深八寸一分口徑二寸腹圍一尺四寸<lb/>
+重五十七兩有繫<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　西清古鑑卷二十<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

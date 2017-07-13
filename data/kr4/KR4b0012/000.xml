@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4b0012_SBCK_000-1a"/>
+謝宣城詩集目錄<lb/>
+　卷苐一<lb/>
+　　賦九首<lb/>
+　　　酬德賦<hi>并序</hi>
+　　　思歸賦<hi>并序</hi>
+　　　七夕賦<hi>王命作奉護軍</hi>
+　　　高松賦<hi>陵王教作奉司徒竟</hi>
+　　　杜若賦<hi>二十六於坐獻奉随王教作時年</hi>
+　　　野鶩賦<hi>并序</hi>
+　　　遊後園賦<lb/>
+<pb n="KR4b0012_SBCK_000-1b"/>
+　　　臨椘江賦<lb/>
+　　　擬宋玉風賦<hi>教作奉司徒</hi>
+　　樂府<lb/>
+　　　齊雩祭歌八首<lb/>
+　　　　迎神<hi>八章</hi>
+<hi>祖世</hi>武皇帝<hi>三章</hi>
+　　　　青帝<hi>三章</hi>
+　　　　赤帝<hi>三章</hi>
+　　　　黄帝<hi>三章</hi>
+　　　　白帝<hi>三章</hi>
+<pb n="KR4b0012_SBCK_000-2a"/>
+　　　　黑帝<hi>三章</hi>
+　　　　送神<hi>五章</hi>
+　　四言詩<hi>二十八首</hi>
+　　　侍宴華光殿曲水奉敕為皇太子作<hi>九首</hi>
+　　　三日侍華光殿曲水宴代人應詔<hi>十首</hi>
+　　　三日侍宴曲水代人應詔<hi>九首</hi>
+　卷苐二<lb/>
+　　鼓吹曲四十三首<hi>同賦諸作附</hi>
+　　　元會曲<lb/>
+　　　郊祀曲<lb/>
+<pb n="KR4b0012_SBCK_000-2b"/>
+　　　同賦雜曲名五首<lb/>
+　　　永明樂十首<lb/>
+　　　玉階怨一首<lb/>
+　　　金谷聚一首<lb/>
+　　　王孫逰一首<lb/>
+　　　銅爵悲一首<lb/>
+　　　江上曲一首<lb/>
+　　　曲池之水一首<lb/>
+　　　同謝諮議詠銅爵䑓一首<lb/>
+　卷苐三<lb/>
+<pb n="KR4b0012_SBCK_000-3a"/>
+　　詩四十三首<lb/>
+　　　将彂石頭上烽火樓一首<lb/>
+　　　荅王世子一首<lb/>
+　　　荅張齊興一首<lb/>
+　　　酬王晋安一首<lb/>
+　　　暫使下都夜彂新林至京邑贈西府同僚一<lb/>
+　　　　首<lb/>
+　　　始出尚書省<lb/>
+　　　直中書省<lb/>
+　　　觀朝雨一首<lb/>
+<pb n="KR4b0012_SBCK_000-3b"/>
+　　　新亭渚别范零陵雲一首<lb/>
+　　　之宣城郡出新林浦向版橋一首<lb/>
+　　　始之宣城郡一首<lb/>
+　　　宣城郡内登望一首<lb/>
+　　　冬日晚郡事隙一首<lb/>
+　　　後齋逈望一首<lb/>
+　　　落日惆悵一首<lb/>
+　　　望三湖一首<lb/>
+　　　逰山一首<lb/>
+　　　賽敬亭山廟喜雨一首<lb/>
+<pb n="KR4b0012_SBCK_000-4a"/>
+　　　移疾還園示親屬一首<lb/>
+　　　出下館一首<lb/>
+　　　逰東田一首<lb/>
+　　　秋夜觧講一首<lb/>
+　　　秋夜一首<lb/>
+　　　春思一首<lb/>
+　　　治宅一首<lb/>
+　　　冬緒覉懐示蕭諮議虞田曹劉江二常侍一<lb/>
+　　　　首<lb/>
+　　　懐故人一首<lb/>
+<pb n="KR4b0012_SBCK_000-4b"/>
+　　　登山望雷居士精廬同沈左衞過劉先生墓<lb/>
+　　　　下作并序<hi>竟陵王蕭子良附</hi>
+　　　奉和<hi>虞炎</hi>
+　　　奉和<hi>栁惲</hi>
+　　　奉和<hi>沈約</hi>
+　　　奉和<hi>眺</hi>
+　　　離夜一首<lb/>
+　　　同前<hi>江丞附</hi>
+　　　同前<hi>王常侍附</hi>
+　　　餞謝文學一首<hi>沈約附</hi>
+<pb n="KR4b0012_SBCK_000-5a"/>
+　　　同前<hi>虞炎附</hi>
+　　　同前<hi>范雲附</hi>
+　　　同前<hi>王融附</hi>
+　　　同前<hi>蕭琛附</hi>
+　　　同前<hi>劉繪附</hi>
+　　　和别沈右率諸君一首<lb/>
+　　　卧疾叙意<hi>王秀之附</hi>
+　　　和王長史卧病一首<lb/>
+　　　行園<hi>沈約附</hi>
+　　　和沈祭酒行園一首<lb/>
+<pb n="KR4b0012_SBCK_000-5b"/>
+　　　北戍琅邪城<hi>江城附</hi>
+　　　和江丞北戍一首<lb/>
+　　　昧旦出新亭渚<hi>徐勉附</hi>
+　　　和徐都曹出新亭渚一首<lb/>
+　　　入琵琶峽望積布磯<hi>劉繪附</hi>
+　　　和劉繪入琵琶峽望積布磯一首<lb/>
+　　　在郡卧病呈沈尚書一首<lb/>
+　　　荅謝宣城一首<hi>沈約附</hi>
+　　　和何儀曹郊逰二首<lb/>
+　　　和劉西曹望海䑓一首<lb/>
+<pb n="KR4b0012_SBCK_000-6a"/>
+　　　新治北窓和何從事一首<lb/>
+　　　同羇夜集一首<lb/>
+　卷第五<lb/>
+　　詩四十首<lb/>
+　　　和随王雜詩一十六首<lb/>
+　　　詠春風一首<lb/>
+　　　詠竹一首<lb/>
+　　　詠薔薇一首<lb/>
+　　　詠蒲一首<lb/>
+　　　詠兎絲一首<lb/>
+<pb n="KR4b0012_SBCK_000-6b"/>
+　　　詠落梅一首<lb/>
+　　　詠東堂桐一首<lb/>
+　　　詠梔子一首<lb/>
+　　　同詠樂噐三首<lb/>
+　　　同詠坐上噐玩二首<lb/>
+　　　同詠所見一物十一首<lb/>
+　　聮句七首<lb/>
+　　　阻雪一首<lb/>
+　　　還途臨渚一首<lb/>
+　　　紀功曹中園一首<lb/>
+<pb n="KR4b0012_SBCK_000-7a"/>
+　　　閑坐一首<lb/>
+　　　侍筵西席落日望郷一首<lb/>
+　　　祀敬亭山春雨一首<lb/>
+　　　徃敬亭路中一首<lb/>
+<pb n="KR4b0012_SBCK_000-7b"/>
+</p>
+<p>
+謝宣城詩集目録終<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

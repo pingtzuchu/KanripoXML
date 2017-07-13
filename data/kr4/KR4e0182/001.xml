@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>天馬山房遺稿巻一</head> <lb/>
+    <p>
+<pb n="KR4e0182_WYG_001-1a"/>
+欽定四庫全書<lb/>
+　天馬山房遺稿巻一<lb/>
+　　　　　　　　　　　　　明　朱淛　撰<lb/>
+　䟽<lb/>
+　　大禮<lb/>
+湖廣道試監察御史臣朱淛謹題為舉大禮以安人心<lb/>
+事於嘉靖三年二月三十日恭遇慈夀皇太后聖旦節<lb/>
+命婦免朝賀欽此伏見近來天灾流行聖心警動諸凡<lb/>
+<pb n="KR4e0182_WYG_001-1b"/>
+供御一切裁省母慈體國當示謙冲但睿㫖簡嚴不言<lb/>
+所以臣民觀聽惡得無疑咸謂朝賀之禮近在興國太<lb/>
+后固已舉行今者慈夀誕辰乃聞報罷事體相類禮數<lb/>
+頓殊傳報之間闗係不小臣切念武宗上賔蒼生無主<lb/>
+當時為孝廟後者唯慈夀所欲立耳手提神器親授吾<lb/>
+皇母子至情天日在照孝宗在天之靈所以望陛下之<lb/>
+事母后者何如天下臣民萬姓之心所以望陛下之事<lb/>
+母后者何如今乃旬月之間一廢一行彼此相較形迹<lb/>
+<pb n="KR4e0182_WYG_001-2a"/>
+太著何以安母后之心慰孝宗在天之靈副天下萬姓<lb/>
+臣民之仰耶臣愚以為朝賀之禮在母后雖云固辭在<lb/>
+陛下尤宜敦請比諸常禮加意舉行致誠致敬盡情盡<lb/>
+文不然萋菲成文嫌隙易啓兩宫之疑漸積國家之釁<lb/>
+日生興衰隆替實係於斯臣不勝感激之至縁係大禮<lb/>
+以安人心事謹具本親齎伏候勅㫖<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR4e0182_WYG_001-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　天馬山房遺稿巻一<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

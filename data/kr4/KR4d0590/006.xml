@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4d0590_SBCK_006-1a"/>
+夷白齋藁卷之六<lb/>
+　　　　　　　　　　　　　　臨海　陳　基　著<lb/>
+　　　　　　　　　　　　　　金華　戴　良　編<lb/>
+　　古詩雜言<lb/>
+　　　沈孝子行送醫師沈伯新<lb/>
+吳淞江来自天目山奔流倒海無時窮川原藪澤佀棊布鷄鳴<lb/>
+犬吠俗與太古同郡人沈孝子築室居其中辛勤自食己之力<lb/>
+仰事祖母年九十黄髮兒齒顔如童日出適田省畊作日入歸<lb/>
+家奉温凊一室之内慈孝敬愛宛有齊魯風暇日閉户讀書史<lb/>
+閨門上下皆肅雍省身齋戒喜且懼飲膳湯藥必先甞此心謂<lb/>
+可對昊穹至正十年夏六月祖母遘疾在床蓐涕泣側息憂忡<lb/>
+忡再拜躬迎伯新甫醫貴三世術乃攻伯也切脉不用藥急進<lb/>
+<pb n="KR4d0590_SBCK_006-1b"/>
+臘黍甘如餳以意取効超庸工𧺫居食飲𣸪如故妙術隂與孝<lb/>
+感通夀為五福首孝乃百行宗醫師掌百藥為人恤<graphic n="KR1539" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1539.png" mimeType="image/png"/>痌吾聞<lb/>
+孝子丗積徳慈愛固應天所鍾如何俞扁去己乆世上𣸪有太<lb/>
+倉公我謌孝子行送君勿怱怱但願人皆躋夀域樂有孝子心<lb/>
+融融嗚呼樂有孝子心融融<lb/>
+　　　煑雪窩為玉山作<lb/>
+草堂之仙人隐居玊山陲平生盗泉不肯飲惡木不肻栖<graphic n="KR0556" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0556.png" mimeType="image/png"/>山<lb/>
+為窩煑山雪雪勝玉泉茶勝芝煑以<graphic n="KR0818" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0818.png" mimeType="image/png"/>蠢彭亨之石鼎然以蹙<lb/>
+縮擁腫之樹枝恍聞松風洶湧岀澗壑化作雲氣爛熳干虹蜺<lb/>
+匡廬道士来㑹稽嬉咲怒罵皆成詩尋常一飲即一石蹋破甕<lb/>
+中天地皆醯鷄不厭陶家滋咮薄却愛玉川文字竒舉椀猛吸<lb/>
+如鯨鯢悠然相對孰賔主窩中自来無町畦乃知渾沌鑿不破<lb/>
+<pb n="KR4d0590_SBCK_006-2a"/>
+縱使先天之子亦莫窺端倪逍遥咲殺南華老夣與胡蝶随春<lb/>
+迷<lb/>
+　　　我今有所思寄于山人<lb/>
+我今有所思乃在越山陲越山遥遥青入海秦望特𧺫上與浮<lb/>
+雲齊客有匡廬虗白子昔如吳門歸㑹稽口誦黄庭經頭戴白<lb/>
+接䍦往来倐忽不可知上下風雨騎虹蜆仰叅赤松子俯接青<lb/>
+牛師左手揖廬敖古手招安期醉援北斗酌滄海長嘯濯足脫<lb/>
+巾掛在扶桒枝我嘗遇之玉山下要我八極同逰嬉塵縁未割<lb/>
+妻子累一去不得相追随天台僊人馬子徴陽明洞天曾見之<lb/>
+遺書逺報雪巢子烟波萬里来無時扁舟我𣣔東南歸鑑湖之<lb/>
+水清漣漪授予玊匱書茹子苗山芝逍遥廣莫超希夷翩然却<lb/>
+咲賀狂客為誰白首居鴻禧<lb/>
+<pb n="KR4d0590_SBCK_006-2b"/>
+　　　空眀山人謌<lb/>
+丹丘子空明生結髮為吏千公卿懸河之辨從𣸪衡法家之書<lb/>
+刑與名少年騎馬入公府白首㝷真歸赤城赤城僊人下青冥<lb/>
+手奉寳籙遥相迎虚皇勑住委羽洞服事劉郎為弟兄劉郎乗<lb/>
+風朝紫清雲為旗兮霓為旌盡㽞瓊田教種玊約以不死三千<lb/>
+齡三千齡在何許来往東吳𣸪西椘看成珠樹著三花笞鳯鞭<lb/>
+鸞却輕舉<lb/>
+　　　烏夜啼引<lb/>
+　　　　閩人王㽘為淮東元帥府奏差𬒳誣繫獄部使者使<lb/>
+　　　　泰州尹趙子威讞之平反其冤<lb/>
+烏夜啼在庭樹烏啼啞啞天欲曙阿児被誣身繫獄盡室煩冤<lb/>
+受茶毒烏啼胡為繞吾屋下堂喚婦𧺫聽烏忽喜淮南児有書<lb/>
+<pb n="KR4d0590_SBCK_006-3a"/>
+書中報道児罪說此樂欣欣天下無児歸拜母為母說泰州使<lb/>
+君當世傑執法霜臺舊司臬眀如青天皎如月冤獄平反觧縲<lb/>
+紲已死得生誣得雪海可枯山可裂使君之徳不可㓕烏啼愛<lb/>
+我庭樹枝我愛使君君不知使君歸朝奉<lb/>
+天子日日聽烏為君喜<lb/>
+　　　玉笙引<lb/>
+金華僊人周子竒能吹三十六琯之叅差䟽音間節傳自女媧<lb/>
+氏上引浮丘公下接王子晋来往伊水之濵雒水湄緱氏山頭<lb/>
+雜宫徴龍唫鳯噭能使鬼神上下莫得窺端倪昔年西王母翩<lb/>
+翩㑹瑶池親遣侍女董雙成學得妙曲崑丘歸至今縹渺十二<lb/>
+之玉城餘音長繞蟠桃琪樹枝請君休汗漫我欲與尓期若非<lb/>
+鈞天即洞庭仰叅軒轅帝俯友虞庭䕫後天而老不死長追随<lb/>
+<pb n="KR4d0590_SBCK_006-3b"/>
+周子竒此曲莫向人間吹<lb/>
+　　律詩五言<lb/>
+　　　興福院㑹秦文仲學古二首<lb/>
+蘭若臨江次層城壮海壖地通重譯貢門泊孝㢘船人事桒田<lb/>
+後春光榖雨前未忘栖遯跡来此𣣔逃禪<lb/>
+兵革艱虞際思君减帶圍折衝存爼豆賛畫忝樞機交義陳雷<lb/>
+古㓛名管晏微江城花爛熳莫惜典春衣<lb/>
+　　　送謝叅軍<lb/>
+叅軍趋府日父老借恂時重爲蒼生𧺫當酬國士知㓛名君不<lb/>
+沗筋力我将衰送别春城暮深杯莫厭持<lb/>
+　　　次韵荅髙元善<lb/>
+跡忝芙蓉幙心依虎豹関老驚詩鬢短貧覺酒尊慳特逹髙書<lb/>
+<pb n="KR4d0590_SBCK_006-4a"/>
+記清新庾子山多情憑塞鴈時寄一書還<lb/>
+　　　送鎦治中<lb/>
+椘楚平津彦翩翩千里駒𧺫家叅上郡振轡騁康衢别駕㤙非<lb/>
+沗巖君徳不孤青雲有知已寜許戀南湖<lb/>
+　　　癸丣二月十二日常熟阻雨寄吳門兮省同官<lb/>
+一棹琹川路頻年此徃還海風寒挟雨戍火夜連山澤國龍分<lb/>
+節邉城<graphic n="KR0849" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0849.png" mimeType="image/png"/>㩀関故人南省幕退食佩珊珊<lb/>
+　　　琴川懐古<lb/>
+揖譲思虞仲弦謌憶子㳺學文湏到魯議禮必宗周爼豆今如<lb/>
+此干戈苦未休慚非割鷄子安敢話屠牛<lb/>
+　　　十六日開船值北風大作𣸪泊北門<lb/>
+風急江難渡春寒雪更飄濟川雖有檝跨海恨無橋使節辞吳<lb/>
+<pb n="KR4d0590_SBCK_006-4b"/>
+近官軍去椘遥北門仍繫䌫山雨夜蕭<lb/>
+　　　二十一日渡江<lb/>
+渡江風日好掛席近扶桒萬古天為塹中流葦可航導川思夏<lb/>
+后跨海詫秦皇跋<graphic n="KR0881" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0881.png" mimeType="image/png"/>艱危地低頭媿孟光<lb/>
+　　　三塔寺訪寛老禅<lb/>
+人世難行路禪房獨掩扉鶴飛知客至雨歇見龍歸天地干戈<lb/>
+满江湖故舊稀愧非韓刺史臨别更㽞衣<lb/>
+　　　訪夲覺欲長老不遇時𣣔公在南堂退居<lb/>
+来訪南堂老扁舟興盡還耳聾猶說法地僻謾投閑掃竹逢春<lb/>
+雨開門見逺山題詩託端叟為報鬢毛班<lb/>
+　　　㽞别仲銘二首<lb/>
+南國新開士前身休上人賦詩追鮑謝揮翰擬梁陳雨歇水西<lb/>
+<pb n="KR4d0590_SBCK_006-5a"/>
+寺花飛刼外春相逢又相别離思满江津<lb/>
+方外碧雲句人間白雪謌江湖相見少塵世别離多水宿随鳬<lb/>
+鴈岩栖憶薜蘿何當謀一壑老我共婆娑<lb/>
+　　　送姪譲從軍武安<lb/>
+送尓徐州去秋風㡬日程水通彭子國山擁椘王城虎帳氍毹<lb/>
+暖犀船五兩輕從軍古云樂今我不勝情<lb/>
+世亂難為别他郷𣸪暮秋媿余叨入幕念尓獨登舟季子裘空<lb/>
+弊班生筆誤投恨無田二頃歸老石湖頭<lb/>
+<pb n="KR4d0590_SBCK_006-5b"/>
+</p>
+<p>
+夷白齋藁卷之六<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

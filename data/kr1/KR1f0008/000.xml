@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>孝經定本</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　經部六<lb/>
+　孝經定本　　　　　　孝經類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案孝經定本一卷元吳澄撰澄有易<lb/>
+　　　　纂言己著録此書以今文孝經為本仍從朱<lb/>
+　　　　子刋誤之例分列經傳其經則合今文六章<lb/>
+　　　　為一章其傳則依今文為十二章而改易其<lb/>
+　　　　次序朱子所刪一百七十二字<hi>案朱子刋誤凡刪二百二</hi>
+<pb n="1b"/>
+　　　　<hi>十三字中有句刪其字者此惟載所刪之句故止一百七十二字</hi>與古文閨<lb/>
+　　　　門章二十四字並附錄於後後有大徳癸卯<lb/>
+　　　　澄門人河南張恒跋稱澄觀邢疏而知古文<lb/>
+　　　　之偽觀朱子所論知今文亦有可疑因整齊<lb/>
+　　　　諸説附入已見為家塾課子之書不欲傳之<lb/>
+　　　　未嘗示人云云葢心亦有所不安也其謂漢初<lb/>
+　　　　諸儒始見此書葢未考吕氏春秋已引孝經<lb/>
+　　　　之語至其據許氏説文所引古文孝經仲尼<lb/>
+<pb n="2a"/>
+　　　　居無閒字知古文之仲尼閒居為劉炫所妄<lb/>
+　　　　増人據桓譚新論稱古文千八百七十二字<lb/>
+　　　　與今文異者四百餘字今劉炫本止有千八<lb/>
+　　　　百七字多於今文八字除増閨門一章二十<lb/>
+　　　　四字外與今文異字僅二十餘字則較司馬<lb/>
+　　　　貞之攻古文但泛稱文句鄙俗者持有根據<lb/>
+　　　　所定篇第雖多分裂舊文而詮解簡明亦秩<lb/>
+　　　　然成理朱子刋誤既不可廢則澄此書亦不<lb/>
+<pb n="2b"/>
+　　　　能不存葢至是而孝經有二改本矣乾隆四<lb/>
+　　　　十六年十二月恭校上<lb/>
+　　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

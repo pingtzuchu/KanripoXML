@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4d0048_SBCK_019-1a"/>
+陳眉公先生訂正丹淵集卷十九<lb/>
+　　　　宋　蜀　文　同與可　撰<lb/>
+　　　　明　吳　毛　晉子晉<lb/>
+　　　　　　　蜀　李應魁務滋同叅<lb/>
+　　　　　　　吳　吳一標建先<lb/>
+　　畫厨雜詠<lb/>
+　　　宋復古度支晩川晴雪<lb/>
+霽色變雲林寒光混煙水遥山定何處渺<graphic n="KR1071" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1071.png" mimeType="image/png"/>纔<lb/>
+可指<lb/>
+<pb n="KR4d0048_SBCK_019-1b"/>
+　　　早秋山水硯屏<lb/>
+晚靄隔逺岫秋容入平林方素僅盈尺嵒谷能<lb/>
+許深<lb/>
+　　　冦君玉郎中大蠏<lb/>
+蠏性㝡難圖生意在螯蛫伊人得之妙郭索不<lb/>
+能巳<lb/>
+　　　小蠏<lb/>
+骨甲與支節解絡尤精研手足雖爾多能使如<lb/>
+一錢<lb/>
+<pb n="KR4d0048_SBCK_019-2a"/>
+　　　黃筌鵲雛<lb/>
+短羽巳䄜褷弱脛方屴岌母也向何處開口猶<lb/>
+仰食<lb/>
+　　　滕昌祐芙蓉<lb/>
+雙幹發寒葩一枿立紋羽欲品精妙人君當二<lb/>
+三數<lb/>
+　　　毛老闘牛<lb/>
+牛牛爾何爭於此輙闘怒長鞭閙兒童大炬走<lb/>
+翁嫗蒼㺏八九子駭立各四顧何時解角歸茅<lb/>
+<pb n="KR4d0048_SBCK_019-2b"/>
+舍江村暮<lb/>
+　　　鄧隱老木寒牛<lb/>
+蒼崖稜層草芉綿巨木半死生枯㷑羸牛日晚<lb/>
+巳噍草稚子天寒猶打錢<lb/>
+　　　許道寧寒林<lb/>
+許生雖學李營丘墨路縱橫多自出交柯揮霍<lb/>
+裴旻劒亂蔓淋漓張曉筆<lb/>
+　　　易元吉抱櫟狨<lb/>
+老櫟抱擁腫金狨立鬅鬠當年隴山道似此見<lb/>
+<pb n="KR4d0048_SBCK_019-3a"/>
+危層<lb/>
+　　　引子獐<lb/>
+蒼獐引黃麑雙耳誰驚立高原想新霽町疃見<lb/>
+行迹<lb/>
+　　　崖白敗荷折葦寒鷺<lb/>
+疎葦雨中老亂荷霜外凋多情惟白鳥常此伴<lb/>
+蕭條<lb/>
+　　　孫太古辟支迦佛<lb/>
+調御出火起正念薩埵捧香生信心二士之意<lb/>
+<pb n="KR4d0048_SBCK_019-3b"/>
+在筆外彼太古者何情深<lb/>
+　　　許中正捕龍雷<lb/>
+彼龍胡爲被天謫不肯爲天行雨澤天敇雷公<lb/>
+恣搜索龍藏何所忽爾獲提之滿空若曵帛雹<lb/>
+風電火相卷射雷張兩翅但拍拍首尾挽之足<lb/>
+雙磔龍力與雷固不敵雷轉威怒龍褫魄須臾<lb/>
+定見肝胃拆萬力千氣凡幾畫斯人斯品入神<lb/>
+格<lb/>
+　　　范寛雪中孤峯<lb/>
+<pb n="KR4d0048_SBCK_019-4a"/>
+大雪灑天表孤峯入雲端何人向漁艇擁褐對<lb/>
+㠝岏<lb/>
+　　　晚秋煙波<lb/>
+直於一丈素寫盡千里景雲山杳杳巳成秋煙<lb/>
+水漻漻方入暝君應無心得此畫我豈有言能<lb/>
+爾詠<lb/>
+　　　春山<lb/>
+岡原草木秀溪谷雲霞媚君筆誰所傳獨解吐<lb/>
+和氣<lb/>
+<pb n="KR4d0048_SBCK_019-4b"/>
+　　　秋山<lb/>
+孤峰露蒼骨疎木聳堅幹高堂挂虗壁爽氣來<lb/>
+不斷<lb/>
+　　　梁信羯皷小圖<lb/>
+高梧間垂楊玉宇極淸邃三郎當殿坐左右擁<lb/>
+佳麗氍毺近香案蹲獸吐碧穗寳几承畫控<graphic n="KR0813" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0813.png" mimeType="image/png"/>
+紛交綵𬒮花奴卷雙袖俛立前奏技君王顧之<lb/>
+咲軒廡動和氣誰謂一尺素寫遍天上意聽者<lb/>
+定何如觀之猶解穢<hi>明皇甞言花奴羯皷可解琴穢</hi>
+<pb n="KR4d0048_SBCK_019-5a"/>
+　　　蒲生鍾馗<lb/>
+寒風酸號月慘苦梟飛狐鳴滿墟墓叢棘亂礓<lb/>
+翳野霧古社秃剥倒枯樹■下有三鬼相嘯聚<lb/>
+初行誰家作疰忤痛熱腫痒快嘔吐塞噎咽喉<lb/>
+脹臍肚呼巫召覡使呪詛翁驚嫗忙設賽具茅<lb/>
+盤草舡置五路飯盂炙串狼籍布相共收歛各<lb/>
+執去方此危坐歠且哺忽爾相視生畏怖有神<lb/>
+傑然駕巨牯前訶後擁役二豎此神噉鬼充旦<lb/>
+暮其腹尚餒色躁怒鬼遥見之悉失措竄匿不<lb/>
+<pb n="KR4d0048_SBCK_019-5b"/>
+暇相告諭酒傾肉落雜穢汙魄　飛蕩身偃仆<lb/>
+一入木底只四據一尚把盞愕㠯顧一自隱蔽<lb/>
+捩眦覷神用氣攝縳束固前死入吻無十歩計<lb/>
+之嚼嚙或味飫蒲生胡爲適爾遇畫之滿卷無<lb/>
+一誤筆墨醜怪實可懼持以贈余子何故揺手<lb/>
+不取一錢賂他日乞詩者尤屢試爲言之寫其<lb/>
+故<lb/>
+　　　折楊柳<lb/>
+垂楊百尺臨池水風定煙濃盤不起欲折長條<lb/>
+<pb n="KR4d0048_SBCK_019-6a"/>
+<pb n="KR4d0048_SBCK_019-7a"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

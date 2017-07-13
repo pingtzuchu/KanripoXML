@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>泰西水法卷六</head> <lb/>
+    <p>
+<pb n="KR3d0008_WYG_006-1a"/>
+欽定四庫全書<lb/>
+　泰西水法卷六<lb/>
+　　　　　　　　　　　　　明　熊三拔撰<lb/>
+<pb n="KR3d0008_WYG_006-2a"/>
+</p>
+<p>
+<pb n="KR3d0008_WYG_006-3a"/>
+</p>
+<p>
+<pb n="KR3d0008_WYG_006-4a"/>
+</p>
+<p>
+<pb n="KR3d0008_WYG_006-5a"/>
+</p>
+<p>
+<pb n="KR3d0008_WYG_006-6a"/>
+</p>
+<p>
+<pb n="KR3d0008_WYG_006-7a"/>
+</p>
+<p>
+<pb n="KR3d0008_WYG_006-8a"/>
+</p>
+<p>
+<pb n="KR3d0008_WYG_006-9a"/>
+</p>
+<p>
+<pb n="KR3d0008_WYG_006-10a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0008_WYG_006-10b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　泰西水法卷六<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

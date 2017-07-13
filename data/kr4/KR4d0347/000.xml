@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>提要<lb/>
+                </head>
+    <p>
+<pb n="KR4d0347_WYG_000-1a"/>
+欽定四庫全書　　　　　集部四<lb/>
+　提要<lb/>
+　　彛齋文編四巻　　　　别集類三<hi>宋</hi>
+　　　　<hi>臣</hi>等謹案彛齋文編四巻宋趙孟堅撰孟堅<lb/>
+　　　　字子固自號彛齋太祖十一世孫其先以安<lb/>
+　　　　定郡王從髙宗南渡家於嘉禾之廣陳鎮而<lb/>
+　　　　孟堅自作告墓文中又作廣成蓋俗語相沿<lb/>
+　　　　初無定字至元嘉禾志載廣陳鎮在海鹽縣<lb/>
+<pb n="KR4d0347_WYG_000-1b"/>
+　　　　東北九十里則孟堅當為海鹽人其或作嘉<lb/>
+　　　　興者誤也孟堅以宗室子登寳慶三年進士<lb/>
+　　　　好學工書喜藏名蹟時人比之米芾至今遺<lb/>
+　　　　墨流傳人人能知其姓字惟其生平始末則<lb/>
+　　　　諸書所紀往往不同如周宻齊東野語謂其<lb/>
+　　　　終提轄左帑身後有嚴陵之命是孟堅殁於<lb/>
+　　　　宋世而姚桐壽樂郊私語謂孟堅入元不樂<lb/>
+　　　　仕進隠居避客從弟孟頫來訪坐定問弁山<lb/>
+<pb n="KR4d0347_WYG_000-2a"/>
+　　　　笠澤佳否孟頫云佳孟堅曰弟奈山澤佳何<lb/>
+　　　　既退使人濯其坐具云云則又似元初尚存<lb/>
+　　　　者二説錯互殊甚今案孟堅甲辰嵗朝把筆<lb/>
+　　　　詩有四十五畨見除夕之句以干支逆數之<lb/>
+　　　　當生於慶元已未距宋亡時凡七十八年孟<lb/>
+　　　　頫仕元尚在其後孟堅必不能及見又考朱<lb/>
+　　　　存理鐵網珊瑚載孟堅梅竹譜巻有咸淳丁<lb/>
+　　　　卯葉隆禮䟦稱子固晚年工梅竹歩驟逃禪<lb/>
+<pb n="KR4d0347_WYG_000-2b"/>
+　　　　予自江右歸將與之是正而子固死矣䟦出<lb/>
+　　　　隆禮手蹟其言可信是孟堅之卒於丁卯以<lb/>
+　　　　前更為確鑿亦足證桐夀之説為誕妄矣至<lb/>
+　　　　其歴官次第他書不載而見於詩文自述者<lb/>
+　　　　如為湖州椽入轉運司幕知諸暨縣以御史<lb/>
+　　　　言罷歸皆歴歴可考獨不言其嘗為朝官宋<lb/>
+　　　　詩紀事乃謂其景定初遷翰林學士又不知<lb/>
+　　　　何所據也其集宋史藝文志不著録惟見於<lb/>
+<pb n="KR4d0347_WYG_000-3a"/>
+　　　　明秘閣書目者四册世久失傳今從永樂大<lb/>
+　　　　典摭拾補綴釐為四卷大都清逺絶俗類其<lb/>
+　　　　為人剰璧零珪風流未冺亦足與書畫並傳<lb/>
+　　　　不朽云乾隆四十六年九月恭校上<lb/>
+　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

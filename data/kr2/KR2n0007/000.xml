@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>文淵閣書目總目</head>
+    <p>
+<pb n="KR2n0007_WYG_000-1a"/>
+欽定四庫全書　　　　　史部十四<lb/>
+　文淵閣書目總目　　　　目錄類一<hi>經籍之屬</hi>
+　　卷一<lb/>
+　天字共五㕑三百二十一號<lb/>
+　　　國朝<lb/>
+　地字共四厨五百五十五號<lb/>
+　　　易　　　　　　　　書<lb/>
+　　　詩　　　　　　　　春秋<lb/>
+<pb n="KR2n0007_WYG_000-1b"/>
+　　　周禮　　　　　　　儀禮<lb/>
+　　　禮記<lb/>
+　𤣥字一厨一百四十九號<lb/>
+　　　禮書　　　　　　　樂書<lb/>
+　　　諸經總類<lb/>
+　黃字共三厨四百七十四號<lb/>
+　　　四書　　　　　　　性理<lb/>
+　　　附　　　　　　　　經濟<lb/>
+<pb n="KR2n0007_WYG_000-2a"/>
+　　卷二<lb/>
+　宇字共六厨二百七十二號<lb/>
+　　　史<lb/>
+　宙字共二厨三百十六號<lb/>
+　　　史附　　　　　　　史雜<lb/>
+　洪字一厨一百九號<lb/>
+　　　子書<lb/>
+　荒字一厨二百七十六號<lb/>
+<pb n="KR2n0007_WYG_000-2b"/>
+　　　子雜　　　　　　　雜附<lb/>
+　日字共三厨七百四十五號<lb/>
+　　　文集<lb/>
+　月字共二厨五百六十八號<lb/>
+　　　詩詞<lb/>
+　　卷三<lb/>
+　盈字共六厨二百六十六號<lb/>
+　　　類書<lb/>
+<pb n="KR2n0007_WYG_000-3a"/>
+　昃字一厨一百七十六號<lb/>
+　　　韻書　　　　　　　姓氏<lb/>
+　辰字共二厨三百六十四號<lb/>
+　　　法帖　　　　　　　畫譜<hi>諸譜附</hi>
+　宿字一厨二百二十八號<lb/>
+　　　政書　　　　　　　刑書<lb/>
+　　　兵法　　　　　　　算法<lb/>
+　列字共二厨五百五十二號<lb/>
+<pb n="KR2n0007_WYG_000-3b"/>
+　　　陰陽　　　　　　　醫書<lb/>
+　　　農圃<lb/>
+　　卷四<lb/>
+　張字一厨一百九十九號<lb/>
+　　　道書<lb/>
+　寒字共二厨四百六號<lb/>
+　　　佛書<lb/>
+　來字一厨一百六十八號<lb/>
+<pb n="KR2n0007_WYG_000-4a"/>
+　　　古今志<hi>雜志附</hi>
+　暑字共三厨五百八十四號<lb/>
+　　　舊志<lb/>
+　往字共三厨<lb/>
+　　　新志<lb/>
+　　　　<hi>臣</hi>等謹案文淵閣書目四卷明楊士竒編士<lb/>
+　　　　竒有三朝聖諭録已著録是編前有正統六<lb/>
+　　　　年題本一通稱各書自永樂十九年南京取<lb/>
+<pb n="KR2n0007_WYG_000-4b"/>
+　　　　來一向於左順門北廊收貯未有完整書目<lb/>
+　　　　近奉㫖移貯於文淵東閣臣等逐一打㸃清<lb/>
+　　　　切編置字號寫完一本總名文淵閣書目請<lb/>
+　　　　用廣運之寳鈐識備照庻無遺失盖本當時<lb/>
+　　　　閣中存記册籍故所載書多不著撰人姓氏<lb/>
+　　　　又有册數而無卷數帷畧記若干部為一橱<lb/>
+　　　　若干橱為一號而已考明自永樂間取南京<lb/>
+　　　　蔵書送北京又命禮部尚書鄭賜四出購求<lb/>
+<pb n="KR2n0007_WYG_000-5a"/>
+　　　　所謂鋟板十三抄本十七者正統時尚完善<lb/>
+　　　　無缺此書以千字文排次自天字至往字凡<lb/>
+　　　　得二十號五十橱今以永樂大典對勘其所<lb/>
+　　　　收之書世無傳本者往往見於此目亦可知<lb/>
+　　　　其儲庋之富士竒等承詔編録不能考訂撰<lb/>
+　　　　次勒為成書而徒草率以塞責較劉向之編<lb/>
+　　　　七畧荀朂之叙中經誠為有愧然考王肯堂<lb/>
+　　　　鬱岡齋筆麈書在明代已殘缺不完王士禎<lb/>
+<pb n="KR2n0007_WYG_000-5b"/>
+　　　　古夫于亭襍録亦載<lb/>
+　　　國初曹貞吉為内閣典籍文淵閣書㪚失殆盡<lb/>
+　　　　貞吉檢閲見宋槧歐陽修居士集八部無一<lb/>
+　　　　完者今閲百載已放失無餘惟藉此編之存<lb/>
+　　　　尚得畧見一代秘書之名數則亦考古者所<lb/>
+　　　　不廢也舊本不分卷數黄虞稷千頃堂書目<lb/>
+　　　　作十四卷不知所據何本殆傳寫者以意分<lb/>
+　　　　析今約畧篇頁釐定為四卷云乾隆四十六<lb/>
+<pb n="KR2n0007_WYG_000-6a"/>
+　　　　　年四月恭校上<lb/>
+　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+<pb n="KR2n0007_WYG_000-7a"/>
+文淵閣書目題本<lb/>
+少師兵部尚書兼華葢殿大學士臣楊士竒等謹題為<lb/>
+書籍事查照本朝御製及古今經史子集之書自永樂<lb/>
+十九年南京取囘來一向于左順門北廊收貯未有完<lb/>
+整書目近奉聖旨移貯于文淵東閣臣等逐一打㸃清<lb/>
+切編置字號寫完一本總名曰文淵閣書目合請用廣<lb/>
+運之寳鈐識仍藏於文淵閣永逺備照庶無遺失未敢<lb/>
+擅便謹題請旨正統六年六月二十六日少師兵部尚<lb/>
+<pb n="KR2n0007_WYG_000-7b"/>
+書兼華葢殿大學士臣楊士竒行在翰林院侍講學士<lb/>
+臣馬愉翰林院侍講臣曹鼐當日早于奉天門欽奉聖<lb/>
+旨是欽此次日於左順門用寳訖右文淵閣書目壹册<lb/>
+用廣運之寳鈐縫壹百叁拾陸顆外葢總數壹顆通壹<lb/>
+百叁拾㭍顆<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>本草綱目卷九目録</head> <lb/>
+    <p>
+<pb n="KR3e0079_WYG_029-1a"/>
+欽定四庫全書<lb/>
+　本草綱目卷九目録<lb/>
+　　金石之三　　石類上三十二種<lb/>
+　　　丹砂<hi>本經</hi>
+　　　水銀<hi>本經</hi>
+　　　水銀粉<hi>嘉祐粉即輕</hi>
+　　　粉霜<hi>綱目</hi>
+　　　銀朱<hi>綱目</hi>
+<pb n="KR3e0079_WYG_029-1b"/>
+　　　靈砂<hi>證類</hi>
+　　　雄黄<hi>本經</hi>
+　　　雌黄<hi>本經</hi>
+　　　石膏<hi>本經石即寒水石附玉火    龍石膏</hi>
+　　　理石<hi>本經附白肌石</hi>
+　　　長石<hi>本經</hi>
+　　　方解石<hi>别録</hi>
+　　　滑石<hi>本經</hi>
+<pb n="KR3e0079_WYG_029-2a"/>
+　　　不灰木<hi>開寳附松石</hi>
+　　　五色石脂<hi>本經</hi>
+　　　桃花石<hi>唐本</hi>
+　　　爐甘石<hi>綱目</hi>
+　　　井泉石<hi>嘉祐</hi>
+　　　無名異<hi>開寳</hi>
+　　　蜜栗子<hi>綱目</hi>
+　　　石鍾乳<hi>本經</hi>
+<pb n="KR3e0079_WYG_029-2b"/>
+　　　孔公孽<hi>本經</hi>
+　　　殷孽<hi>本經石石骨石牀  花附</hi>
+　　　土殷孽<hi>别録</hi>
+　　　石腦<hi>别録</hi>
+　　　石髓<hi>拾遺</hi>
+　　　石腦油<hi>嘉祐附地溲</hi>
+　　　石炭<hi>綱目附然石</hi>
+　　　石灰<hi>本經</hi>
+<pb n="KR3e0079_WYG_029-3a"/>
+　　　石麫<hi>綱目</hi>
+　　　浮石<hi>日華附暈石</hi>
+　　　石芝<hi>綱目</hi>
+　　　　右附方舊六十九新三百一十七<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3e0079_WYG_029-3b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　本草綱目卷九目錄<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

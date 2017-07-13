@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>文章辨體彚選巻二百七十五</head> <lb/>
+    <p>
+<pb n="KR4h0132_WYG_275-1a"/>
+欽定四庫全書<lb/>
+　文章辨體彚選巻二百七十五<lb/>
+　　　　　　　　　　　　明　賀復徵　編<lb/>
+私牋二<lb/>
+　　與天公牋<hi>晉劉謐之</hi>
+體戰身噤脫衣凍坐賴公借袍南越送火<lb/>
+　　其二<lb/>
+昔申酉之際遭湯旱流烟今子亥之嵗值堯水滔天火<lb/>
+<pb n="KR4h0132_WYG_275-1b"/>
+延燒其廬水突壊其田何小人兮頓偷雙船由是行無<lb/>
+擔石室如磬懸<lb/>
+　　與天公牋<hi>宋晁道元</hi>
+道居在城南接水墟草木幽鬱蚊虻所藏茅茨陋宇纔<lb/>
+容數牀積汙累燻體貌萎黄冬則兩幅之薄被心有牽<lb/>
+黎與敝絮撤以三股之絲綖袷以四升之麤布狹領不<lb/>
+掩其巨形促緣不覆其長度伸脚則足出攣捲則脊露<lb/>
+　　其二<lb/>
+<pb n="KR4h0132_WYG_275-2a"/>
+奴曰高安兩手並殘指如竹筒畏風惡寒小者家生厥<lb/>
+名曰饒腹中瘕堅大如飯捎飽食終日不能作勞借一<lb/>
+小兒傖公吳母近因冬節暫詣其舅狗咬一脛肉落如<lb/>
+手攣筋徹骨跂而不愈長婢來成左目失明動則入井<lb/>
+已死復生次婢良信有桓公司馬之<graphic n="KR2096" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2096.png" mimeType="image/png"/>行步雖曠了無<lb/>
+前進隠疾難明辭不盡韻小婢從成南方之奚形如驚<lb/>
+麞言語僂<graphic n="KR0867" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0867.png" mimeType="image/png"/>聲音駭人惟堪駈雞它無所役遣詣阿嵇<lb/>
+復被狗咋困熟如泥<lb/>
+<pb n="KR4h0132_WYG_275-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　文章辨體彚選巻二百七十五<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

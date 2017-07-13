@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2d0019_WYG_096-1a"/>
+　欽定四庫全書<lb/>
+御定歴代紀事年表卷一百<lb/>
+　　　<hi>起辛夘元順帝至正十一年○止戊申元順帝至正二十八年</hi>凡十八年<lb/>
+　　　表例說<lb/>
+　　　　<hi>臣</hi>之樞謹按順帝至正十一年以後海内紛擾<lb/>
+　　　　天完徐夀輝宋韓林兒漢陳友諒夏明玉珍吳<lb/>
+　　　　張士誠等乘亂竊發與漢隋之末無異今照例<lb/>
+　　　　附書徐夀輝韓林兒等於下格其自至正十五<lb/>
+<pb n="KR2d0019_WYG_096-1b"/>
+　　　　年至二十七年明太祖開國之事宋元通鑑尚<lb/>
+　　　　有未備仍採皇明通紀以補之<lb/>
+<pb n="KR2d0019_WYG_096-2a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-3a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-4a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-5a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-6a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-7a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-8a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-9a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-10a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-11a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-12a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-13a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-14a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-15a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-16a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-17a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-18a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-19a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-20a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-21a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-22a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-23a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-24a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-25a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-26a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-27a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-28a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-29a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-30a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-31a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-32a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-33a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-34a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-35a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-36a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-37a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-38a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-39a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-40a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-41a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-42a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-43a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-44a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-45a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-46a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-47a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-48a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-49a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-50a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-51a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-52a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-53a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-54a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-55a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-56a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-57a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-58a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-59a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-60a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-61a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-62a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-63a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-64a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-65a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-66a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-67a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-68a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-69a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-70a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-71a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-72a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-73a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-74a"/>
+</p>
+<p>
+<pb n="KR2d0019_WYG_096-75a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2d0019_WYG_096-75b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定歴代紀事年表卷一百<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

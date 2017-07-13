@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>八旗滿洲氏族通譜目録</head> <lb/>
+    <p>
+<pb n="KR2g0044_WYG_017-1a"/>
+欽定四庫全書<lb/>
+　八旗滿洲氏族通譜目録<lb/>
+　　卷八<lb/>
+　　董鄂氏<lb/>
+　　　和和理　　　　　　魯克素<lb/>
+　　　屯布　　　　　　　兑齊巴顔<lb/>
+　　　阿格巴顔　　　　　郎格<lb/>
+　　　努愷愛塔　　　　　胡勒琥<lb/>
+<pb n="KR2g0044_WYG_017-1b"/>
+　　　商顔和羅　　　　　卓托<lb/>
+　　　南都伊拉齊　　　　巴蘇<lb/>
+　　　阿都兑齊　　　　　都朱魯<lb/>
+　　　　　以上俱有𫝊<lb/>
+　　　伍巴泰　　　　　　來布<lb/>
+　　　温岱哈斯瑚　　　　科錫赫<lb/>
+　　　薩岱　　　　　　　蘇赫徳<lb/>
+　　　博和理　　　　　　錫邦阿<lb/>
+<pb n="KR2g0044_WYG_017-2a"/>
+　　　　　以上俱附載<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2a0029_WYG_161-1a"/>
+　舊五代史巻八十考證<lb/>
+晉書髙祖紀六乙亥遣前邢州節度使楊彦詢使于契<lb/>
+　丹　案楊彦詢使于契丹歐陽史通鑑俱從是書作<lb/>
+　九月遼史作二月己未晉遣楊彦詢來貢且言鎮州<lb/>
+　安重榮跋扈狀遂留不遣與是書異<lb/>
+丁丑襄州安從進舉兵叛　案安從進及歐陽史五代<lb/>
+　春秋俱作十月通鑑從是書作十一月遼史作十二<lb/>
+　月戊子晉遣使來告山南節度使安從進反則因其<lb/>
+<pb n="KR2a0029_WYG_161-1b"/>
+　赴告之月而書之也<lb/>
+生擒衙内都指揮使安𢎞義　案宋史焦繼勲傳作擒<lb/>
+　其牙將安洪義鮑洪等五十餘人<lb/>
+是日鎮州節度使安重榮稱兵向闕　案安重榮反歐<lb/>
+　陽史通鑑俱從是書作十二月五代春秋繫于十月<lb/>
+　之後遼史作十一月丙寅晉以討安重榮來告與是<lb/>
+　書異<lb/>
+遣前齊州防禦使宗光鄴　宋光鄴遼史避諱作宋暉<lb/>
+<pb n="KR2a0029_WYG_161-2a"/>
+　業<lb/>
+宋州節度使安彦威奏修滑州黄河功畢　案修河事<lb/>
+　是書紀于閏月壬辰歐陽作三月歸徳軍節度使安<lb/>
+　彦威塞決河于滑州盖以奉使之月言是書以奏功<lb/>
+　之日言也<lb/>
+詔改鄴都宣明門為朱鳯門　朱鳯門五代會要作來<lb/>
+　鳯門<lb/>
+皇城南門為乾明門北門為𤣥徳門東門為萬春門西<lb/>
+<pb n="KR2a0029_WYG_161-2b"/>
+　門為千秋門　案五代會要晉改皇城四門為乾明<lb/>
+　𤣥徳萬春千秋在天福六年是書統繫于七年與會<lb/>
+　要異<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　舊五代史巻八十考證<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

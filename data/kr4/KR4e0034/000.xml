@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>趙考古文集序</head> <lb/>
+    <p>
+<pb n="KR4e0034_WYG_000-1a"/>
+欽定四庫全書　　　　　集部六<lb/>
+　考古文集　　　　　　　别集類五<hi>明</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案考古文集明趙撝謙撰撝謙有六<lb/>
+　　　　書今義已著録明詩綜引黄宗羲之言謂其<lb/>
+　　　　詩集名考古銓事凡千首不傳於世今考焦<lb/>
+　　　　竑國史經籍志撝謙集已不著録黄虞稷千<lb/>
+　　　　頃堂書目雖列其名而不著巻數則亦未見<lb/>
+<pb n="KR4e0034_WYG_000-1b"/>
+　　　　原本信乎其乆不傳也此本所錄詩僅十餘<lb/>
+　　　　篇古文亦祇五十餘篇前有順治丁酉黄世<lb/>
+　　　　春序稱其子孫式微已甚而䏻錄其遺集出<lb/>
+　　　　没於藏書之家殆天將藉是而彰考古云云<lb/>
+　　　　葢其後人掇拾散亡重裒成帙者耳集後附<lb/>
+　　　　遺言十六條又載其裔孫諸生頀上瓊州姜<lb/>
+　　　　參政請復姓書及與浙中族姓札數通葢撝<lb/>
+　　　　謙没後其幼子流寓海南依母族冒呉姓故<lb/>
+<pb n="KR4e0034_WYG_000-2a"/>
+　　　　頀請於姜而復之又撝謙所作造化經綸圖<lb/>
+　　　　亦附於後編次頗無條理然傳刻先集者多<lb/>
+　　　　因祖父以附子孫自宋元以來即徃徃以文<lb/>
+　　　　集為家牒陋例相沿亦不自是編始矣撝謙<lb/>
+　　　　以小學名家不甚以文章著此本又僅存殘<lb/>
+　　　　賸未必得其精華而意度波瀾頗存古法究<lb/>
+　　　　與鈔語錄者有别是則學有原本之故也乾<lb/>
+　　　　隆四十三年五月恭校上<lb/>
+<pb n="KR4e0034_WYG_000-2b"/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="KR4e0034_WYG_000-3a"/>
+欽定四庫全書<lb/>
+　趙考古文集序<lb/>
+嗟乎士具材力學患不遇其時離羣獨處患莫能知之<lb/>
+及夫時遇矣人知矣而猶終身不免困窮者其故何哉<lb/>
+豈儒者固迂闊不可用抑一時人才之盛㧞寘己多雖<lb/>
+裒然有夙昔之學者亦狼藉而不惜也與將儒者之用<lb/>
+有大有小有久有近幸不與草木同朽己為甚厚無以<lb/>
+復加耶明興仁者之師討伐四出而權謀之士以智計<lb/>
+<pb n="KR4e0034_WYG_000-3b"/>
+見文章之士以簡册見繁劇之才以吏能見朝收暮薦<lb/>
+莫不極一時之選而吾姚趙子撝謙最後乃出然特以<lb/>
+修正韻書召至一試旋出為中都典簿又未幾以為教<lb/>
+諭海南卒死于官士以遇時為幸者固止於此哉觀趙<lb/>
+子之學皆有原委非徒肆力佔畢樸遫焉而己也即以<lb/>
+韻書見取此正其獨得之學當令展盡底藴成一代不<lb/>
+刋之書乃未見究竟此書而遂去是豈肯以所學徇人<lb/>
+者耶設使考古欲大行所學吾不識人之能與否又當<lb/>
+<pb n="KR4e0034_WYG_000-4a"/>
+何如也厥後始有所謂六書本義又有聲音文字通此<lb/>
+亦不見合而自存其所得耳非真欲以區區字學名世<lb/>
+也然則時之負於考古與考古之負於時與吾終不得<lb/>
+而知之也余于太沖氏得其裔孫所録古文五十餘篇<lb/>
+古今詩十餘篇借録而讀之要之與古作者何以異而<lb/>
+猶未有表章者則其鄰于埋没也亦幾矣然其孫式微<lb/>
+已甚非果有文章之好而能録其遺集出没于藏書之<lb/>
+家意天將藉是而彰考古與考古之于海南士風丕變<lb/>
+<pb n="KR4e0034_WYG_000-4b"/>
+人稱為海南夫子則考古之所以不朽者有在而吾猶<lb/>
+珍惜其遺文亦後學景仰文獻之懷自然如是者今余<lb/>
+有録本矣太沖氏可以舊本還其孫告以考古之不遇<lb/>
+于朝猶能教行一方著述之不傳猶可以斯文得遇於<lb/>
+來世之人也<lb/>
+順治十四年丁酉端陽後二日後學黄世春序<lb/>
+<pb n="KR4e0034_WYG_000-5a"/>
+欽定四庫全書　　　　集部六<lb/>
+　趙考古文集目録　　　别集類五<hi>明</hi>
+　　巻一<lb/>
+　　　序<lb/>
+　　　記<lb/>
+　　　書<lb/>
+　　巻二<lb/>
+　　　傳<lb/>
+<pb n="KR4e0034_WYG_000-5b"/>
+　　　跋<lb/>
+　　　書後<lb/>
+　　　墓誌<lb/>
+　　　銘<lb/>
+　　　襍著<lb/>
+　　　詩<lb/>
+　　　遺言<lb/>
+　　　附錄<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

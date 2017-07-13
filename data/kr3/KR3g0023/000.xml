@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>青囊奥語</head>
+    <p>
+<pb n="KR3g0023_WYG_000-1a"/>
+欽定四庫全書<lb/>
+　青囊奥語　　　　　　　唐　楊筠松　撰<lb/>
+坤壬乙巨門從頭出艮丙辛位位是破軍㢲辰亥盡是<lb/>
+武曲位甲癸申貪狼一路行左為陽子丑至戌亥右為<lb/>
+隂午巳至申未雌與雄交㑹合元空雄與雌元空卦内<lb/>
+推山與水須要明此理水與山禍福盡相闗明元空只<lb/>
+在五行中知此法不須尋納甲顛顛倒二十四山有珠<lb/>
+寳逆順行二十四山有火坑認金龍一經一緯義不窮<lb/>
+<pb n="KR3g0023_WYG_000-1b"/>
+動不動直待髙人施妙用第一義要識龍身行與止第<lb/>
+二元來脉明堂不可偏第三法傳送功曺不髙壓第四<lb/>
+竒明堂十字有元微第五妙前後青龍兩相照第六秘<lb/>
+八國城門鎻正氣第七奥要向天心尋十道第八裁屈<lb/>
+曲流神認去來第九神任他平地與侵雲第十真若有<lb/>
+一缺非真情明倒杖卦坐隂陽何必想識掌模太極分<lb/>
+明必有圗知化氣生克制化須熟記説五星方圓尖秀<lb/>
+要分明曉髙低星峯須辨得元微鬼與曜生死去來真<lb/>
+<pb n="KR3g0023_WYG_000-2a"/>
+要妙向放水生旺有吉休囚否二十四山分五方知得<lb/>
+榮枯死與生翻天倒地對不同其中秘宻在元空認龍<lb/>
+立穴要分明在人仔細辨天心天星既辨穴何難但把<lb/>
+向中放水看從外生入名為進定知財寳積如山從内<lb/>
+生出名為退家内錢財皆廢盡生入剋入名為旺子孫<lb/>
+髙官盡富貴脉息生旺要知因龍歇脉寒災禍臨縱有<lb/>
+他山來救助空勞禄馬護龍行勸君再把星辰辨吉凶禍<lb/>
+福如神見識得此篇真妙微又見郭璞再出現<lb/>
+<pb n="KR3g0023_WYG_000-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　青<graphic n="KR0809" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0809.png" mimeType="image/png"/>奥語<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

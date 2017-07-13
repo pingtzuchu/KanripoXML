@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2l0015_WYG_004-1a"/>
+　　辦理厯代職官表諸<hi>臣</hi>職名<lb/>
+　　正總裁<lb/>
+　皇　六　子　多　羅　質　郡　王　<hi>臣</hi>永　瑢<lb/>
+　皇　八　子　多　羅　儀　郡　王　<hi>臣</hi>永　璇<lb/>
+　皇　　　　十　　　　一　　　　子<hi>臣</hi>永　瑆<lb/>
+　　︵字位過密　無法显示︶　　　　<hi>臣</hi>　　阿　桂<lb/>
+　　︵字位過密　無法显示︶　　　　<hi>臣</hi>英　亷<lb/>
+　　<hi>經筵日講起居注官太子太保院文淵閣大學士兼吏部臣  尚書  文淵閣領閣事翰林  掌院學士敕習庶吉士</hi>嵇　璜<lb/>
+<pb n="KR2l0015_WYG_004-1b"/>
+　　︵字位過密　無法显示︶　　　　　　<hi>臣</hi>　和　珅<lb/>
+　　︵字位過密　無法显示︶　　　　<hi>臣</hi>福隆安<lb/>
+　　副總裁<lb/>
+　　經筵講官太子少傅東閣大學士兼户部尚書<hi>臣</hi>梁國治<lb/>
+　　經筵講官戸部侍郎今任戸部尚書兼管順天府府尹<hi>臣</hi>曹文埴<lb/>
+　　經筵講官吏部侍郎今任禮部尚書<hi>臣</hi>彭元瑞<lb/>
+　　經筵講官吏部侍郎今任兵部尚書<hi>臣</hi>王　杰<lb/>
+　　　户部侍郎今任工部尚書總管内務府大臣<hi>臣</hi>金　簡<lb/>
+<pb n="KR2l0015_WYG_004-2a"/>
+　經　筵　講　官　户　部　侍　郎<hi>臣</hi>董　誥<lb/>
+　　　︵字位過密　無法显示︶　<hi>臣</hi>陸費墀<lb/>
+　　兵　部　侍　郎　今　任　江　蘇　學　政<hi>臣</hi>沈　初<lb/>
+　　續纂<lb/>
+　文淵閣直閣事兵部侍郎今任都察院左都御史<hi>臣</hi>紀　昀<lb/>
+　文淵閣直閣事大理寺卿今任光禄寺卿福建學政<hi>臣</hi>陸錫熊<lb/>
+　　太　常　寺　少　卿　今　任　兩　廣　總　督<hi>臣</hi>孫士毅<lb/>
+　　總校<lb/>
+<pb n="KR2l0015_WYG_004-2b"/>
+　　　︵字位過密　無法显示︶<hi>臣</hi>陸費墀<lb/>
+　　提調<lb/>
+　　　︵字位過密　無法显示︶<hi>臣</hi>徳　昌<lb/>
+　　文淵閣校理翰林院編修今任京畿道監察御史<hi>臣</hi>百　齡<lb/>
+　　軍　機　處　行　走　刑　部　郎　中<hi>臣</hi>范　鏊<lb/>
+　　原任軍機處行走工部郎中<hi>臣</hi>蔣謝庭<lb/>
+　　纂修<lb/>
+　　翰林院庶吉士今任翰林院編修<hi>臣</hi>馮集梧<lb/>
+<pb n="KR2l0015_WYG_004-3a"/>
+　　内閣中書今任宗人府主事<hi>臣</hi>鮑之鍾<lb/>
+　　内　　　閣　　　中　　　書<hi>臣</hi>顧宗泰<lb/>
+　　　　　　　　　　　　　　　　<hi>臣</hi>沈叔埏<lb/>
+　　　　　　　　　　　　　　　　<hi>臣</hi>周有聲<lb/>
+　　進　士　今　任　内　閣　中　書<hi>臣</hi>柴　模<lb/>
+　　　　　　　　　　　　　　　　<hi>臣</hi>呉樹萱<lb/>
+　　進　士　今候　補　内　閣　中　書<hi>臣</hi>張經田<lb/>
+　　進　士　今　候　選　知　縣<hi>臣</hi>范　澐<lb/>
+<pb n="KR2l0015_WYG_004-3b"/>
+　　收掌<lb/>
+　　原　任　翰　林　院　筆　帖　式<hi>臣</hi>約宗武<lb/>
+　　翰　　林　　院　　筆　帖　　式<hi>臣</hi>兆　顯<lb/>
+　　　　　　　　　　　　　　　　　<hi>臣</hi>赫倫泰<lb/>
+　　　　　　　　　　　　　　　　　<hi>臣</hi>朝　樂<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

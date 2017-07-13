@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>性理羣書句解</head>
+    <p>
+<pb n="KR3a0067_WYG_000-1a"/>
+欽定四庫全書　　　　　子部一<lb/>
+　性理羣書句解　　　　　儒家類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案性理羣書句解二十三卷宋熊節<lb/>
+　　　　編熊剛大注節字端操建陽人官至通直郎<lb/>
+　　　　知閩清縣事剛大亦建陽人受業於蔡淵黄<lb/>
+　　　　幹嘉定中登進士自稱覺軒門人掌建安書<lb/>
+　　　　院朱文公諸賢從祀祠其仕履則不可考註<lb/>
+<pb n="KR3a0067_WYG_000-1b"/>
+　　　　中稱邇年皇上親洒白鹿洞規以賜南康則<lb/>
+　　　　理宗時人也節受業於朱子是書採摭有宋<lb/>
+　　　　諸儒遺文分類編次首列濓溪明道伊川康<lb/>
+　　　　節涑水諸大儒傳道支派次贊次訓次戒次<lb/>
+　　　　箴次規次銘次詩次賦次序次記次說次錄<lb/>
+　　　　次辨次論次圖次正䝉次皇極經世次通書<lb/>
+　　　　次文而以七賢行實終焉其列司馬光一人<lb/>
+　　　　與後來講學諸家持論迥異考朱子於紹熙<lb/>
+<pb n="KR3a0067_WYG_000-2a"/>
+　　　　五年冬築竹林精舎率諸生行舎菜之禮於<lb/>
+　　　　先聖先師以周程邵張司馬延平七先生從<lb/>
+　　　　祀集中載其祝文有曰邵曰張爰及司馬學<lb/>
+　　　　雖殊轍道則同歸之語則朱子序列學統本<lb/>
+　　　　自有光後來門戸日分講學者乃排而去之<lb/>
+　　　　節親受業於朱子故猶不敢恣為高論也所<lb/>
+　　　　錄之文亦以七賢為主而楊時羅仲素范浚<lb/>
+　　　　吕大臨蔡元定黄幹張栻胡宏真德秀所作<lb/>
+<pb n="KR3a0067_WYG_000-2b"/>
+　　　　亦間及焉其上及范質者以朱子作小學嘗<lb/>
+　　　　錄其詩旁及蘇軾者則以司馬光行狀之故<lb/>
+　　　　非因軾也明永樂中詔修性理大全其錄諸<lb/>
+　　　　儒之語皆因近思錄而廣之其録諸儒之文<lb/>
+　　　　則本此書而廣之併其性理之名似亦因此<lb/>
+　　　　書之舊是其文雖習見固亦作樂者之葦籥<lb/>
+　　　　造車者之椎輪矣剛大所注蓋為訓課童䝉<lb/>
+　　　　而設淺近之甚殊無可採以其原附此書以<lb/>
+<pb n="KR3a0067_WYG_000-3a"/>
+　　　　行姑並錄之以存其舊焉乾隆四十六年六<lb/>
+　　　　月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　總　校　官　<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

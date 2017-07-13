@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>史記正義卷十七</head> <lb/>
+    <p>
+<pb n="KR2a0004_WYG_017-1a"/>
+欽定四庫全書<lb/>
+　史記正義卷十七<lb/>
+　　　　　　　　　　　　唐　張守節　撰<lb/>
+漢興以來諸侯年表第五　　　史記十七<lb/>
+太史公曰殷以前尚矣周封五等公侯伯子男然封伯<lb/>
+禽康叔於魯衛地各四百里親親之義襃有徳也太公<lb/>
+於齊兼五侯地尊勤勞也武王成康所封數百而同姓<lb/>
+五十五地上不過百里下三十里以輔衛王室管蔡康<lb/>
+<pb n="KR2a0004_WYG_017-1b"/>
+叔曹鄭或過或損厲幽之後王室缺侯伯彊國興焉天<lb/>
+子㣲弗能正非徳不純形勢弱也漢興序二等髙祖末<lb/>
+年非劉氏而王者若無功上所不置而侯者天下共誅<lb/>
+之髙祖子弟同姓為王者九國唯獨長沙異姓而功臣<lb/>
+侯者百餘人自鴈門太原以東至遼陽為燕代國常山<lb/>
+以南大行左轉度河濟阿甄以東薄海為齊趙國自陳<lb/>
+以西南至九疑東帶江淮榖泗薄㑹稽為梁楚吴淮南<lb/>
+長沙國皆外接於胡越而内地北距山以東盡諸侯地<lb/>
+<pb n="KR2a0004_WYG_017-2a"/>
+大者或五六郡連城數十置百官宫觀僭於天子漢獨<lb/>
+有三河東郡潁川南陽自江陵以西至蜀北自雲中至<lb/>
+隴西與内史<hi>京兆也</hi>凡十五郡而公主列侯頗食邑其中<lb/>
+何者天下初定骨肉同姓少故廣彊庶孽以鎮撫四海<lb/>
+用承衛天子也漢定百年之間親屬益疎諸侯或驕奢<lb/>
+怵邪臣計謀為淫亂大者叛逆小者不軌于法以危其<lb/>
+命殞身亡國天子觀於上古然後加恵使諸侯得推恩<lb/>
+分子弟國邑故齊分為七趙分為六梁分為五淮南分<lb/>
+<pb n="KR2a0004_WYG_017-2b"/>
+三及天子支庶子為王王子支庶為侯百有餘焉吴楚<lb/>
+時前後諸侯或以適削地是以燕代無北邊郡吴淮南<lb/>
+長沙無南邊郡<hi>景帝時漢境北至燕代燕代之北未列為郡吴長沙之國南至嶺南嶺南越未</hi>
+<hi>平亦無南邊郡</hi>齊趙梁楚支郡名山陂海咸納於漢諸侯稍㣲<lb/>
+大國不過十餘城小侯不過數十里上足以奉貢職下<lb/>
+足以供養祭祀以蕃輔京師而漢郡八九十形錯諸侯<lb/>
+間犬牙相臨秉其阸塞地利彊本幹弱枝葉之勢也尊<lb/>
+卑明而萬事各得其所矣臣遷謹記髙祖以來至太初<lb/>
+<pb n="KR2a0004_WYG_017-3a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_017-4a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_017-5a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_017-6a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_017-7a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_017-8a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_017-9a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_017-10a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_017-11a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_017-12a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_017-13a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_017-14a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_017-15a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_017-16a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_017-17a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_017-18a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_017-19a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_017-20a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_017-21a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_017-22a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_017-23a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_017-24a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_017-25a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_017-26a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_017-27a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_017-28a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2a0004_WYG_017-28b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　史記正義卷十七<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

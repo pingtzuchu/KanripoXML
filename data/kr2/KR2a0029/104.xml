@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2a0029_WYG_104-1a"/>
+　舊五代史巻五十一考證<lb/>
+唐宗室列𫝊三薛王存禮武皇子　案是書不言存禮<lb/>
+　為武皇第㡬子據五代㑹要太祖第二子存美第三<lb/>
+　子存霸第四子存禮第五子存渥第六子存乂第七<lb/>
+　子存確第八于存紀與是書所叙微有異同<lb/>
+魏王繼岌莊宗子也　案莊宗紀稱繼岌為第三子然<lb/>
+　莊宗長子次子之名是書及五代會要俱不載<lb/>
+従璨明宗諸子　案五代㑹要以従璨為明宗第四子<lb/>
+<pb n="KR2a0029_WYG_104-1b"/>
+　冊府元龜作諸子與明宗紀同今仍其舊<lb/>
+従益召髙行周武行徳欲拒漢髙祖　案是書但載従<lb/>
+　益拒漢事考宋史趙上交𫝊云漢祖将至従益遣上<lb/>
+　交馳表獻欵盖獻欵乃淑妃従益本意也歐陽史兩<lb/>
+　存之其事始備<lb/>
+　<lb/>
+　<lb/>
+　舊五代史巻五十一考證<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

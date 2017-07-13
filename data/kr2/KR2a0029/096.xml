@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2a0029_WYG_096-1a"/>
+　舊五代史卷四十七攷證<lb/>
+唐末帝紀中枉耗國力　枉耗通鑑注引薛史作枉費<lb/>
+　攷册府元龜亦作枉耗今仍其舊<lb/>
+辛邜以宣徽南院使劉延皓為刑部尚書充樞宻使<lb/>
+　案劉延皓充樞宻使歐陽史作五月與是書繫四月<lb/>
+　異通鑑従是書<lb/>
+侍衛歩軍都指揮使宋審䖍　宋審䖍原本脱䖍字今<lb/>
+　據通鑑増入<lb/>
+<pb n="KR2a0029_WYG_096-1b"/>
+渤海國遣使朝貢　案歐陽史作九月乙邜渤海遣使<lb/>
+　者来五代㑹要作十二月渤海遣使列周卿等入朝貢<lb/>
+　方物俱與是書作十一月異<lb/>
+翰林學士工部侍郎崔梲　崔梲原本訛崔櫓今據歐<lb/>
+　陽史改正<lb/>
+　<lb/>
+　<lb/>
+　舊五代史巻四十七考證<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

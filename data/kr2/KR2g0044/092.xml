@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>八旗滿洲氏族通譜目錄</head> <lb/>
+    <p>
+<pb n="KR2g0044_WYG_092-1a"/>
+欽定四庫全書<lb/>
+　八旗滿洲氏族通譜目錄<lb/>
+　　卷四十六<lb/>
+　　葉赫地方鄂卓氏<lb/>
+　　　阿爾吉穆　　　　　滿都<lb/>
+　　　富岱　　　　　　　瓦渾<lb/>
+　　　瑚巴　　　　　　　蘇彌納<lb/>
+　　　　　以上俱有傳<lb/>
+<pb n="KR2g0044_WYG_092-1b"/>
+　　　英泰　　　　　　　岱祿<lb/>
+　　　瓦穆布　　　　　　彰海<lb/>
+　　　岳隆果　　　　　　費揚古<lb/>
+　　　色克山　　　　　　壘勒<lb/>
+　　　　　以上俱附載<lb/>
+　　各地方鄂卓氏<lb/>
+　　　哈爾松阿　　　　　廷鈕<lb/>
+　　　　　以上俱有傳<lb/>
+<pb n="KR2g0044_WYG_092-2a"/>
+　　　安圖　　　　　　　岳貝<lb/>
+　　　官保　　　　　　　雅齊布<lb/>
+　　　札色理　　　　　　瑚深布祿<lb/>
+　　　阿爾法　　　　　　納爾布<lb/>
+　　　噶達渾　　　　　　佳克丹<lb/>
+　　　覺和托　　　　　　外賛<lb/>
+　　　拉爾巴渾　　　　　屯泰<lb/>
+　　　科對　　　　　　　吉拉<lb/>
+<pb n="KR2g0044_WYG_092-2b"/>
+　　　　　以上俱附載<lb/>
+　　鈕赫勒氏<lb/>
+　　　杜塔理　　　　　　青善<lb/>
+　　　杜理布哈多弼　　　䝉古爾岱<lb/>
+　　　　　以上俱有傳<lb/>
+　　　戴都　　　　　　　努占<lb/>
+　　　孫扎齊　　　　　　達布當阿<lb/>
+　　　頗起　　　　　　　阿哈善<lb/>
+<pb n="KR2g0044_WYG_092-3a"/>
+　　　寧占　　　　　　　瑚什<lb/>
+　　　塔朗<lb/>
+　　　　　以上俱附載<lb/>
+　　鄂濟氏<lb/>
+　　　通阿圖巴圖魯　　　珠爾庫<lb/>
+　　　孟魁　　　　　　　尚嘉圖<lb/>
+　　　台朔庫　　　　　　吴岱<lb/>
+　　　竒塔巴顔　　　　　恒特<lb/>
+<pb n="KR2g0044_WYG_092-3b"/>
+　　　　　以上俱有傳<lb/>
+　　　噶克達　　　　　　薩穆懇<lb/>
+　　　瓦海　　　　　　　穆鐸<lb/>
+　　　鄂壘　　　　　　　武達海<lb/>
+　　　圖理布<lb/>
+　　　　　以上俱附載<lb/>
+　　裕瑚魯氏<lb/>
+　　　達揚阿　　　　　法照<lb/>
+<pb n="KR2g0044_WYG_092-4a"/>
+　　　拖爾竒堪　　　　　沙格<lb/>
+　　　　　以上俱有傳<lb/>
+　　　蘇赫　　　　　　　丹布祿<lb/>
+　　　蘇克札　　　　　　巴爾佳納<lb/>
+　　　郎圖　　　　　　　拜他納<lb/>
+　　　吉穆薩哈　　　　　額爾松峩<lb/>
+　　　瓦爾碧悠　　　　　吴柱<lb/>
+　　　布瑚秦<lb/>
+<pb n="KR2g0044_WYG_092-4b"/>
+　　　　　以上俱附載<lb/>
+　　布爾察氏<lb/>
+　　　圖爾伯慎<lb/>
+　　　　　右係有傳<lb/>
+　　　博爾托<lb/>
+　　　　　右係附載<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

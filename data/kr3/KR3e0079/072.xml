@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>本草綱目卷二十九目録</head> <lb/>
+    <p>
+<pb n="KR3e0079_WYG_072-1a"/>
+欽定四庫全書<lb/>
+　本草綱目卷二十九目録<lb/>
+　　果部<lb/>
+李時珍曰木實曰果草實曰蓏可以備藥輔助粒食素<lb/>
+問云五果為助五果者以五味五色應五臟李杏桃栗<lb/>
+棗是矣古書欲知五穀之收否但看五果之盛衰<hi>李主小豆</hi>
+<hi>杏主大麥桃主小麥栗主稻棗主禾</hi>禮記内則列果品蔆椇榛𤓰之類周<lb/>
+官職方氏辨五地之物山林宜皁物<hi>柞栗之屬</hi>川澤宜膏物<lb/>
+<pb n="KR3e0079_WYG_072-1b"/>
+<hi>蔆芡之屬</hi>丘陵宜核物<hi>梅李之屬</hi>甸師掌野果蓏塲人樹果蓏珍<lb/>
+異之物以時藏之觀此則果蓏之土産常異性味良毒<lb/>
+豈可縱嗜欲而不知物理乎於是集草木之實號為果<lb/>
+蓏者為果部凡一百二十七種分為六類曰五果曰山<lb/>
+曰夷曰味曰蓏曰木<hi>舊本果部三品共五十三種今移一種入菜部四種入草部自木部</hi>
+<hi>移入併附三十一種草部移入四種菜部移入一種外類移入四種</hi>
+神農本草經十一種<hi>梁陶𢎞景註</hi>名醫别録十七種<hi>同上</hi>
+唐本草十一種<hi>唐蘇恭</hi>　　本草拾遺二十種<hi>唐陳藏器</hi>
+<pb n="KR3e0079_WYG_072-2a"/>
+海藥本草一種<hi>唐李珣</hi>　　食性本草一種<hi>唐陳士良</hi>
+食療本草一種<hi>唐孟詵</hi>　　開寶本草十九種<hi>宋馬志</hi>
+嘉祐本草二種<hi>宋掌禹錫</hi>　圗經本草五種<hi>宋蘇頌</hi>
+日華本草二種<hi>宋人大明</hi>　食物本草一種<hi>明汪頴</hi>
+日用本草一種<hi>元呉瑞</hi>　　本草㑹編一種<hi>明汪機</hi>
+本草綱目三十三種<hi>明李時珍</hi>
+附註<hi>魏吳普本草論宋雷斆炮灸</hi>　　　<hi>李當之本草對齊徐之才藥</hi>
+　　<hi>唐甄權藥性唐蕭炳四聲</hi>　　　　<hi>孫思邈千金楊損之刪繁</hi>
+<pb n="KR3e0079_WYG_072-2b"/>
+　　<hi>蜀韓保昇重註唐慎微證類</hi>　　　<hi>宋寇宗奭衍義囊金張元素珍珠</hi>
+　　<hi>元李杲註象朱震亨補遺</hi>　　　　<hi>王好古湯液明寗原食鑑</hi>
+　　果之一　　　五果類十一種<lb/>
+　　　李<hi>别録附徐李</hi>
+　　　杏<hi>别録</hi>
+　　　巴旦杏<hi>綱目</hi>
+　　　梅<hi>本經</hi>
+　　　樃梅<hi>綱目</hi>
+<pb n="KR3e0079_WYG_072-3a"/>
+　　　桃<hi>本經</hi>
+　　　栗<hi>别録</hi>
+　　　天師栗<hi>綱目</hi>
+　　　棗<hi>本經</hi>
+　　　仲思棗<hi>開寳</hi>
+　　　苦棗<hi>食性</hi>
+　　　　右附方舊一百一十三新一百零八<lb/>
+　<lb/>
+<pb n="KR3e0079_WYG_072-3b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　本草綱目卷二十九目録<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

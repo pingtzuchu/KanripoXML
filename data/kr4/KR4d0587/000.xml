@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>復古詩集</head>
+    <p>
+<pb n="KR4d0587_WYG_000-1a"/>
+欽定四庫全書　　　　　集部五<lb/>
+　復古詩集　　　　　　　别集類四<hi>元</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案復古詩集六巻元楊維楨撰所載<lb/>
+　　　　皆琴操宫詞冶春遊仙香奩等作而古樂府<lb/>
+　　　　亦雜厠其問乃其門人章琬所編以其體皆<lb/>
+　　　　時俗所置而不為故以復古為名琬序稱輯<lb/>
+　　　　前後所製者二百首連呉復所編又三百首<lb/>
+<pb n="KR4d0587_WYG_000-1b"/>
+　　　　而今止一百五十二首數不相符或後人已<lb/>
+　　　　有所刪削非完本歟其中香奩諸詩為他本<lb/>
+　　　　所不載古樂府諸篇則與鐵崖樂府相複者<lb/>
+　　　　數十首而稍有異同如石歸操山夫折山花<lb/>
+　　　　句上樂府本尚有峩峩孤竹岡上有石新婦<lb/>
+　　　　二句山頭朝石婦句樂府本作嵗嵗山頭歌<lb/>
+　　　　石婦又烽燧曲一首樂府本以上二句作下<lb/>
+　　　　二句其文互有顛倒又樂府本所載詩題與<lb/>
+<pb n="KR4d0587_WYG_000-2a"/>
+　　　　此本異者如北郭詞之作屈歸詞秦宫曲之<lb/>
+　　　　作桑隂曲合歡詞之作生合歡空桑曲之作<lb/>
+　　　　髙樓曲此類不一而足盖呉復編鐵崖樂府<lb/>
+　　　　在至正六年琬編此集在至正二十四年相<lb/>
+　　　　距幾二十載殆維楨於舊稿又有所改定故<lb/>
+　　　　琬據而録之此當從其定本不當泥其初稿<lb/>
+　　　　矣乾隆四十六年十月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+<pb n="KR4d0587_WYG_000-2b"/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="KR4d0587_WYG_000-3a"/>
+復古詩集序<lb/>
+我朝詩體備矣惟古樂府則置而不為天厯以來㑹稽<lb/>
+楊先生與五峰李先生始相倡和為古樂府辭先生嘗<lb/>
+曰詩難樂府為尤難吾為古樂府非特聲諧金石可勸<lb/>
+可戒使人懲創感發者有焉善和予者惟李季和季和<lb/>
+死和者寡矣且命吳復録季和死後凡若干首至其墓<lb/>
+焚白之則世之知先生之詩者葢尠矣琬登鐵門學詩<lb/>
+因輯先生前後所製者二百首連吳復所編又三百首<lb/>
+<pb n="KR4d0587_WYG_000-3b"/>
+名曰鐵崖先生復古詩集此集出而我朝之詩斯為大<lb/>
+備嗟乎紅紫亂朱鄭衞亂雅生於季世而欲為詩於古<lb/>
+度越齊梁追踪漢魏而上薄乎騷雅是秉正色於紅紫<lb/>
+之中奏韶濩於鄭衞之際不其難矣哉此先生之作所<lb/>
+以為復古而非一時流輩之所能班南北詞人推為苐<lb/>
+一詩宗此非琬之言也天下之言也先生近體而下不<lb/>
+令人傳然膾炙在人口有不可得而遺者録於巻後而<lb/>
+香奩諸體亦附見云至正二十四年甲辰秋九月戊子<lb/>
+<pb n="KR4d0587_WYG_000-4a"/>
+門人龍洲生章琬謹序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

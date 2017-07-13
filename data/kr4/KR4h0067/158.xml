@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>兩宋名賢小集巻一百五十八</head> <lb/>
+    <p>
+<pb n="KR4h0067_WYG_158-1a"/>
+欽定四庫全書<lb/>
+　兩宋名賢小集巻一百五十八<lb/>
+　　　　　　　　　　　　宋　陳　思　編<lb/>
+　　　　　　　　　　　　元　陳世隆　補<lb/>
+　椒亭小集<lb/>
+　李光字泰發上虞人崇寧五年進士累官司勲貟外郎<lb/>
+　欽宗擢右司諫高宗朝進吏部尚書除參知政事因<lb/>
+　爭和議安置瓊州移昌化軍卒追復資政殿學士諡<lb/>
+<pb n="KR4h0067_WYG_158-1b"/>
+　莊簡<lb/>
+　　越州雙鴈道中<hi>雙鴈鄉𨽻餘姚縣</hi>
+晚潮落盡水涓涓栁老秧齊過禁烟十里人家雞犬靜<lb/>
+竹扉斜掩䕶蠶眠<lb/>
+　　戲贈伴送使臣<hi>公在政府與秦檜議論不合為中司所擊送藤州安置差密院使臣</hi>
+　　<hi>送之</hi>
+日日孤村對落暉蠻煙深處忍分離追攀重見蔡明逺<lb/>
+贖罪難逢郭子儀南渡毎憂鳶共墮北轅應許鴈相隨<lb/>
+<pb n="KR4h0067_WYG_158-2a"/>
+馬蹄慣踏闗山路他日看來又送誰<lb/>
+　　昭真宫<hi>在貴溪縣</hi>
+造物閟靈境靈山隠仙躅丹成自飛昇何用駕鸞鵠舉<lb/>
+手金沙嶺片石聊寄足至今鎖煙扉氣象鍾清淑井池<lb/>
+丹藥就千載湛寒緑我來春雨餘溢水漲幽谷琤琤落<lb/>
+環珮細細響琴筑黄冠六七輩一一道機熟余師本緇<lb/>
+流游走遍四瀆初明大乗禪鋒辨誰敢觸升堂猛虎跪<lb/>
+諸方狐䑕伏晚乃思長生師許𨽻寳籙時登玉虚殿叨<lb/>
+<pb n="KR4h0067_WYG_158-2b"/>
+迎御輿服俯仰能幾時世事有反覆蕭然坐空巖復理<lb/>
+舊松竹却談京洛夢感慨氣填腹人生夢幻耳何必苦<lb/>
+拘束期師謝冠裳復見真面目<lb/>
+　　國慶寺<hi>在上虞東山</hi>
+永夜金莖下九天郊坰風物正凄然百年寳地空蕭瑟<lb/>
+十里青山<hi>一作天</hi>自接連局上笑談棋易勝坐中竒險句<lb/>
+難聯定回老衲應相問淨社何時到白蓮<lb/>
+　　裘氏義門<lb/>
+<pb n="KR4h0067_WYG_158-3a"/>
+夫何于㑹稽卓然有裘氏同居六百年相聚三千指昔<lb/>
+賢欽義方列奏聞天子恩詔保門閭光華映閭里<lb/>
+　　百官渡<hi>在上虞百官市口</hi>
+曉雨㣲茫水接天隔江茅店有炊烟杖藜獨步沙頭路記<lb/>
+得當時趕渡船<lb/>
+　　客星山<hi>在餘姚縣</hi>
+子陵古真隠逸氣横九州平生江海志自比巢與由鴻<lb/>
+飛本冥冥肯為稻粱謀虚屈萬乗顧枉煩物色求貽書<lb/>
+<pb n="KR4h0067_WYG_158-3b"/>
+誚君房預作要領憂舜江子邑里子去踰千秋高山無<lb/>
+古今大江日東流人物浪淘盡英名至今留當年漁釣<lb/>
+地陳迹餘荒丘<lb/>
+　　嚴公堂<hi>餘姚令徐端禮建</hi>
+徐侯有佳政百里安田疇作堂名嚴公懷賢慕前修時<lb/>
+來對江山一尊更獻酬我豈隠淪歟三黜今白頭年來<lb/>
+賸得閒忘機狎羣鷗結茅牟湖傍一竿幸可投篛笠青<lb/>
+蓑衣生涯寄扁舟嚴子定不死吾將從之遊<lb/>
+<pb n="KR4h0067_WYG_158-4a"/>
+　　懷三峯樓<lb/>
+一川花栁擁雕欄濃綠浮空四面山便欲移家來住此<lb/>
+不將名姓落人間<lb/>
+　　智林寺<hi>在常熟縣李墓村</hi>
+扁舟來訪小叢林花木通幽院落深旋拂胡牀成午夢<lb/>
+閒持貝葉動秋吟竹聲瑟瑟生虚籟山意峩峩入素琴<lb/>
+更喜老綱能㑹事手攜爐銚自相尋<lb/>
+　<lb/>
+<pb n="KR4h0067_WYG_158-4b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　兩宋名賢小集巻一百五十八<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

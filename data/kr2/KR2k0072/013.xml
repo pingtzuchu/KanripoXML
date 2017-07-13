@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>河源紀畧卷六</head> <lb/>
+    <p>
+<pb n="KR2k0072_WYG_013-1a"/>
+欽定四庫全書<lb/>
+　河源紀畧卷六<lb/>
+　列表三<lb/>
+　　河源星度表<lb/>
+<pb n="KR2k0072_WYG_013-2a"/>
+</p>
+<p>
+<pb n="KR2k0072_WYG_013-3a"/>
+</p>
+<p>
+<pb n="KR2k0072_WYG_013-4a"/>
+</p>
+<p>
+<pb n="KR2k0072_WYG_013-5a"/>
+</p>
+<p>
+<pb n="KR2k0072_WYG_013-6a"/>
+</p>
+<p>
+<pb n="KR2k0072_WYG_013-7a"/>
+</p>
+<p>
+<pb n="KR2k0072_WYG_013-8a"/>
+</p>
+<p>
+<pb n="KR2k0072_WYG_013-9a"/>
+</p>
+<p>
+<pb n="KR2k0072_WYG_013-10a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2k0072_WYG_013-10b"/>
+　<lb/>
+　　按流沙以外亘古未入圖經故諸史所述道里之<lb/>
+　　數率恍惚難據<lb/>
+　國家戡定西陲<lb/>
+命使測量始能地鏡天璣毫釐不爽謹遵<lb/>
+欽定輿圖以其星為緯自南山大源至北山支源得十<lb/>
+　　一度以中星偏西為經自蔥嶺西源至貴徳堡入<lb/>
+　　邊得三十一度共計南北二千二百里東西六千<lb/>
+<pb n="KR2k0072_WYG_013-11a"/>
+　　二百里其有重山綿亘名目不殊如蔥嶺巴彦<lb/>
+　　哈拉山諸處則僅載總名以省繁衍<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

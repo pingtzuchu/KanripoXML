@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0005_SBCK_011-1a"/>
+玉臺新詠集後序<lb/>
+右玉臺新詠集十卷㓜時至外家李氏於廢書中<lb/>
+得之舊京夲也宋失一葉間復多錯謬版亦時有<lb/>
+刻者欲求他本是正多不獲嘉定乙亥在㑹稽始<lb/>
+從人借得豫章刻本財五卷蓋至刻者中徙故弗<lb/>
+畢也又聞有得石氏所藏録本者復求觀之以補<lb/>
+亡校脫於是其書復全可繕寫夫詩者情之發也<lb/>
+征戍之勞苦室家之怨思動於中而形於言先王<lb/>
+不能禁也豈惟不能禁且逆探其情而著之東山<lb/>
+枤杜之詩是矣若其他變風化雅豈謂無膏沐誰<lb/>
+<pb n="KR4h0005_SBCK_011-1b"/>
+適爲容終朝采綠不盈一掬之類以此集揆之語<lb/>
+意未大異也顧其發乎情則同而止乎禮義者蓋<lb/>
+鮮矣然其間僅合者亦一二焉其措詞託興高古<lb/>
+要非後世樂府所能及自唐花間集己不足道而<lb/>
+况近代狹邪之說號爲以筆墨動淫者乎又自漢<lb/>
+魏以來作者皆在焉多蕭統文選所不載覽者可<lb/>
+以覩歷世文章盛衰之變云是歲十月旦日書其<lb/>
+後永嘉陳玉父<lb/>
+　　右陳徐陵纂唐李康成云昔陵在梁世父<lb/>
+　　　子俱事東朝特見優遇時承平好文雅尚<lb/>
+<pb n="KR4h0005_SBCK_011-2a"/>
+　　　宮體故采西漢以來詞人所著樂府艶詩<lb/>
+　　　以備諷覽　見讀書志<lb/>
+玉臺新詠後序<lb/>
+<pb n="KR4h0005_SBCK_011-2b"/>
+<pb n="KR4h0005_SBCK_011-2b"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>竹嶼山房雜部</head>
+    <p>
+<pb n="KR3j0171_WYG_000-1a"/>
+欽定四庫全書　　　　　子部十<lb/>
+　竹嶼山房雜部　　　　　雜家類四<hi>雜品之屬</hi>
+　　提要<lb/>
+　　　<hi>臣</hi>等謹案竹嶼山房雜部三十二卷是書凡<lb/>
+　　　　養生部六卷燕閑部二卷樹畜部四卷皆明<lb/>
+　　　華亭宋詡撰種植部十卷尊生部十卷詡子公<lb/>
+　　　　望撰公望之子懋澄合而編之詡字久夫公<lb/>
+　　　　望字天民皆見于書中其始末則未詳焉考<lb/>
+<pb n="KR3j0171_WYG_000-1b"/>
+　　　　千頃堂書目載是書凡二十七卷前集樹畜<lb/>
+　　　　部四卷養生部六卷家要二卷宗儀二卷家<lb/>
+　　　　規四卷後集種植一卷尊生一卷此本葢不<lb/>
+　　　　完之書然此書以農圃之言兼玩好之其與<lb/>
+　　　　家要家規宗儀同為一帙實屬不倫疑其後<lb/>
+　　　　析而别行而此五部以類相聚自為一編則<lb/>
+　　　　亦不可謂非全帙也至種植養生二部實各<lb/>
+　　　　十卷與黄氏所云各一卷者不合且以黄氏<lb/>
+<pb n="KR3j0171_WYG_000-2a"/>
+　　　　所載卷數計之與二十七卷之數又自不相<lb/>
+　　　　合則黄氏所云亦不足據以定此書之完缺<lb/>
+　　　　矣其書于田居雜事最為詳悉而亦間附考<lb/>
+　　　　証如養生部鰣魚條引爾雅鯦當魱以證之<lb/>
+　　　　鄭樵注謂鯦即魱魱即縮項鯿郭璞注謂鯦<lb/>
+　　　　似鯿而小則非鯿可知鄭注似誤此書取張<lb/>
+　　　　萱彚雅之説舍鄭從郭以鯦為鰣所解甚確<lb/>
+　　　　則猶讀書考古者所為非僅山人墨客語也<lb/>
+<pb n="KR3j0171_WYG_000-2b"/>
+　　　　乾隆四十六年十一月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

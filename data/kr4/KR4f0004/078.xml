@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4f0004_WYG_078-1a"/>
+欽定四庫全書<lb/>
+御製文二集卷四十四<lb/>
+　贊<lb/>
+　　馬和之畫如來贊<lb/>
+坐青蓮華結金剛手天上天下非空非有面如滿月直<lb/>
+鼻横目不事荘嚴相好具足三乗演教法被大千汗牛<lb/>
+充棟即此黙然侍郎文筆務去藻飾較詩經圖彼烏鰂<lb/>
+墨<lb/>
+<pb n="KR4f0004_WYG_078-1b"/>
+　　宋人十八應真贊<lb/>
+　　　第一阿<hi>迎阿</hi>機達尊者<lb/>
+見佛時少成佛時老<hi>畫阿迎阿機達像或老或少不同咨之章嘉國師乃知見佛時像為</hi>
+<hi>少成道時像為老</hi>事有弗同故殊厥貌<hi>叶</hi>阿迎機達如水乳投<lb/>
+冠冕應真法界優㳺<lb/>
+　　　第二阿資荅尊者<lb/>
+宴坐松陰念珠在手念則不無佛於何有僮子持鏡宛<lb/>
+見其背斯有義㢤明不如晦<lb/>
+<pb n="KR4f0004_WYG_078-2a"/>
+　　　第三㧞納㧞西尊者<lb/>
+堂堂之貌漠漠之意合掌當胸義具十諦知有不有知<lb/>
+空不空如是演教明月清風<lb/>
+　　　第四嘎禮嘎尊者<lb/>
+金剛鈴杵左右分持杵寓智慧鈴寓慈悲如鳥雙翼去<lb/>
+一不可設曰進之莫要無我<lb/>
+　　　第五㧞<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>荅喇尊者<lb/>
+袒腹露胸具大人相語黙兩忘何卷何放住僧噶拉法<lb/>
+<pb n="KR4f0004_WYG_078-2b"/>
+力無邉一以度萬如月在天<lb/>
+　　　第六<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>達喇尊者<lb/>
+方石為屏嗒然晏坐一履一跣無可不可怒目獅子拊<lb/>
+如猧貍猛尚不用而况於慈<lb/>
+　　　第七嘎納嘎巴薩尊者<lb/>
+手執熏爐持香欲炷試㕘箇間孰為能所能既不立所<lb/>
+亦安託徧四天下香雲漠漠<lb/>
+　　　第八嘎納嘎<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>喇錣雜尊者<lb/>
+<pb n="KR4f0004_WYG_078-3a"/>
+身披七條肩倚九節垂足坐石黙然禪悦白梅青竹秋<lb/>
+月春風離即兩忘同乎不同<lb/>
+　　　第九<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>沽拉尊者<lb/>
+平石如牀义手跏趺眉横鼻豎非有非無猿呈其果受<lb/>
+之亦可鏗乎沁齒何爾何我<lb/>
+　　　第十喇乎拉尊者<lb/>
+擎其雙手作供養印廓然無聖供養奚進盤承桃子師<lb/>
+其受諸破顔微笑如飲光乎<lb/>
+<pb n="KR4f0004_WYG_078-3b"/>
+　　　第十一租查<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>荅嘎尊者<lb/>
+傴僂比邱髪白骨青於四者相示此幻形将欲閲經手<lb/>
+開經笥不識其間滿字半字<lb/>
+　　　第十二<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>楂拉<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>喇錣雜尊者<lb/>
+駐東勝洲㧞喇錣雜得上士稱登如来榻眷屬一千皆<lb/>
+具聲聞兹惟見一是合是分<lb/>
+　　　第十三巴那塔嘎尊者<lb/>
+三十三天現身度世隠几而坐手持如意天女擎盤其<lb/>
+<pb n="KR4f0004_WYG_078-4a"/>
+中滿花散耶著耶自取訛差<lb/>
+　　　第十四<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>噶塞納尊者<lb/>
+白石翠椶聊倚而坐孰實孰虚非彼非我手持浄瓶甘<lb/>
+露活活白鹿仰之亦可觧渇<lb/>
+　　　第十五鍋巴嘎尊者<lb/>
+合十雙手為接引状受一切物渡迷海浪弟子鼾睡入<lb/>
+無何有聖乎凡乎離否即否<lb/>
+　　　第十六阿必達尊者<lb/>
+<pb n="KR4f0004_WYG_078-4b"/>
+葱嶺五山住以行道是何心慈而示怒貌<hi>叶</hi>智慧相塔<lb/>
+兩手髙擎喻一芥子孰重孰輕<lb/>
+　　　第十七<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>荅宻<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>喇尊者<lb/>
+舊傳十六後益以二是為降龍神通㳺戲大雲容容見<lb/>
+其之而納於鉢内無礙無遺<lb/>
+　　　第十八嘎<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>巴<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>瑪尊者<lb/>
+尊者伏虎俯視若貓何不可度戀此皮毛宋人傳像弗<lb/>
+留名字是謂得之六如義諦<lb/>
+<pb n="KR4f0004_WYG_078-5a"/>
+　　宋人應真渡水贊<lb/>
+坐席亂流鼉戴雙履名則弗留像乃如是石渠舊藏馬<lb/>
+逺之水與此相同寫或出彼萬法一如孰我孰爾笑謂<lb/>
+應真多斯渡矣<lb/>
+　　觀音像贊<lb/>
+梵像西來其數無萬無萬即一非一非二佛妙察智是<lb/>
+謂觀音大慈大悲普門普度此浮玉山獨峙揚子徃来<lb/>
+瞻依恒資䕶佑風恬浪静福徳無涯<lb/>
+<pb n="KR4f0004_WYG_078-5b"/>
+　　玉達摩渡江贊<lb/>
+在南弗契因北渡江若履平地一葦為艭神通如是而<lb/>
+我疑焉法門不二何有於遷<lb/>
+　　和闐玉釋迦牟尼佛贊<lb/>
+天上天下世出世間跏趺而坐化被大千相好金聲琢<lb/>
+磨玉體金固金非玉斯玉是梵銅示現西藏頻来曰奉<lb/>
+班禪球琳宜㢤法本無為化乃萬億如是皈依不稱功<lb/>
+徳<lb/>
+<pb n="KR4f0004_WYG_078-6a"/>
+　　班禪額爾徳呢所進古佛像贊<lb/>
+班禪喇嘛親来震旦宣揚黄教並祝七旬以此功徳呈<lb/>
+来梵像厯代所奉攝受無量恰因南巡驛貢適臻爰造<lb/>
+寳龕供養行齋永恬江瀾福國佑民<lb/>
+　　梵銅緑衣救度佛母贊<lb/>
+觀音大士萬億化身萬億即一非合非分示現救度稱<lb/>
+曰佛母緑衣白衣而為上首是緑衣像貢自班禪来京<lb/>
+祝嘏法喜無邉云此金身達賴喇嘛累世所奉利益孔<lb/>
+<pb n="KR4f0004_WYG_078-6b"/>
+嘉製為檀座虔奉荘嚴香雲法雨琴鼓花拈以此功徳<lb/>
+心空迴向普濟衆生吉祥無量<lb/>
+　　寫娑羅樹夀班禪喇嘛並為讚言<lb/>
+梵域娑羅震旦交讓生同大椿其夀無量昆舍浮佛七<lb/>
+佛之三樹下得道心境示㕘<hi>毘含浮佛偈曰前境若無心亦無</hi>亦曰初<lb/>
+祖修道樹下直指心傳即六波若聖僧西来宣揚黄教<lb/>
+恰值夀辰慧日普照寫此靈根用延遐算七葉紛敷千<lb/>
+齡曼衍泥日法㑹荼毗應身非一非二化被無垠<lb/>
+<pb n="KR4f0004_WYG_078-7a"/>
+　昨寫娑羅樹為讚因用李邕娑羅樹記成語泥日法<lb/>
+　㑹荼毗應身二句書於圖矣既而陡憶荼毗字為佛<lb/>
+　家以衆香爇送滅度者之語弗宜用之於呪夀然思<lb/>
+　有荼毗然後有應身班禪喇嘛原自荼毗中来者而<lb/>
+　應身之来去原不闗法身之常住也遂不易其語未<lb/>
+　數日而喇嘛真示圓寂則此二語又若誠有為之兆<lb/>
+　者然盖余詩文内徃徃有於無意中而為䜟語者斯<lb/>
+　亦大竒因並識於後<lb/>
+<pb n="KR4f0004_WYG_078-7b"/>
+　　天然石大士相贊<lb/>
+似玉非玉似石非石如隠如現普門示迹相好具足水<lb/>
+月逰奕豈描豈畫匪雕匪刻謂有有形謂無無色是真<lb/>
+是實弗離弗即法寳天然六通十力稽首慈雲妙觀察<lb/>
+徳<lb/>
+　　丁雲鵬大士相贊<lb/>
+身依白雲脚踏青蓮現自在相容容海天尋聲救苦香<lb/>
+光所説謂當反心仍屬饒舌手持楊枝灑甘露水度盡<lb/>
+<pb n="KR4f0004_WYG_078-8a"/>
+衆生成佛如是<lb/>
+　　朱侃文殊贊<lb/>
+現童子相為萬法王雲中獨立如寳日光問維摩疾衆<lb/>
+辭不能承佛㫖徃妙演三乗乃至黙然方契本㫖滴露<lb/>
+研朱胡為乎此<lb/>
+　　法螺贊<lb/>
+洪海之螺梵天之器以鳴唄唱滿字半字釋迦拈花迦<lb/>
+葉鼔琴十方三際異音同音置則寂然奏則亮爾以演<lb/>
+<pb n="KR4f0004_WYG_078-8b"/>
+大乗溥皈佛㫖<lb/>
+　　趙雍無量夀佛贊<lb/>
+阿翁畫馬勸之寫佛<hi>趙孟頫工畫馬其妻管道昇嘗勸之寫佛雍盖習聞家教云</hi>勸<lb/>
+者未知如来轉物<hi>楞嚴經若能轉物則同如来身心圓明盖如來能轉物衆生被物轉詳見</hi>
+<hi>正定大佛寺碑記</hi>有子克家繪兹相好趺坐青蓮堂堂了了紛<lb/>
+落天花脱然不著四智三身我浄常樂華葢珠旒慧日<lb/>
+祥雲於無為法如是習薰<lb/>
+　　趙孟頫釋迦牟尼佛贊<lb/>
+<pb n="KR4f0004_WYG_078-9a"/>
+獨坐堂堂是相非相無藉荘嚴風清日朗未来彌勒過<lb/>
+去威音如鏡中現諸如来心三乗豈多四句豈少先天<lb/>
+弗違後天不老松雪于北夥遇梵僧故其寫像傳神擅<lb/>
+能<hi>孟頫自言曾見盧楞迦羅漢像得西域人情態余嘗友天竺僧于像自謂有得云見孟頫古羅漢䟦</hi>自<lb/>
+謂有得未識妙理豎窮横亘奚闗彼此<lb/>
+　　繡線如来海㑹極樂世界圖贊<lb/>
+華言極樂梵兜率陀一大圓鏡非此非他界道重重寳<lb/>
+樹種種大則須彌小則鍼孔而彼大小皆如来心如是<lb/>
+<pb n="KR4f0004_WYG_078-9b"/>
+海㑹如是梵音白毫相光於佛頂放無央相間現佛無<lb/>
+量相好堂堂慧日法雷海㑹衆生胥如其来池蓮花中<lb/>
+合掌而坐謂見佛乎猶有者箇繡線為圖縷縷絲絲是<lb/>
+説是黙三藏槩之<lb/>
+　　和闐玉釋迦牟尼佛讚<lb/>
+盡恒河沙其數為言讚佛功徳不能畢宣知是義諦弗<lb/>
+讚可耳而弗能黙交蘆倒起相三十二好八十種义手<lb/>
+趺坐堂堂洞洞如是具足玉人弗知現前調御是孰所<lb/>
+<pb n="KR4f0004_WYG_078-10a"/>
+為金身而玉玉即金身百千萬化刹刹塵塵無分别心<lb/>
+皈依法寳清浄供養永以為好<lb/>
+　　和闐玉觀世音菩薩讚<lb/>
+具佛大悲而以度世三千大千遍無窮際普世之音胥<lb/>
+入妙觀孰為良玉孰為和闐如是現相冺色與聲彌陀<lb/>
+灌頂楊栁浄瓶隨感示形化無定所檀龕結趺亦何不<lb/>
+可曰是即非云何作讚海印發光如来指按<lb/>
+　　鄭重無量夀佛贊<lb/>
+<pb n="KR4f0004_WYG_078-10b"/>
+一大圓相調御現中三身四智卐字當胸不色中色不<lb/>
+空中空如如堂堂而非神通天花繽紛法雲滃濛跏趺<lb/>
+义手萬有歸宗歙人著筆齋沐致恭幻中福縁詎曰心<lb/>
+蓬<lb/>
+　　五代馮翊大士像讚<lb/>
+一大圓相中現法身神鬼欽仰滄海卿雲珠幢華幔寳<lb/>
+座蓮茵胥示有為慈悲善因具廿四臂慧劍法輪無所<lb/>
+不持幻幻真真妙觀察智救度天人和南相好是即能<lb/>
+<pb n="KR4f0004_WYG_078-11a"/>
+仁<lb/>
+　　元人毘盧遮那佛讚<lb/>
+有元敬佛延請梵僧支那正傳法演三乗作繪相好手<lb/>
+印心燈毘盧遮那現此仁能須彌前峙寳幔上騰慧日<lb/>
+法雲珊樹珠旌平等性智不减不增普度衆生道岸是<lb/>
+登<lb/>
+　　和闐玉釋迦牟尼佛讚<lb/>
+非有而有非空而空堂堂示相雙法俱融如是雙法而<lb/>
+<pb n="KR4f0004_WYG_078-11b"/>
+實不二維摩無言第一義諦浄梵王宅忉利天宫弗移<lb/>
+跬歩度世無窮無為真佛乃在旃檀視此良玉豈曰不<lb/>
+然<lb/>
+　　和闐玉十八羅漢讚<lb/>
+　　　第一阿<hi>迎阿</hi>機達尊者<lb/>
+成道雪山應真領袖一千三百聲聞左右薫罏右持蠅<lb/>
+拂左執示無所示如是合什<lb/>
+　　　第二阿資荅尊者<lb/>
+<pb n="KR4f0004_WYG_078-12a"/>
+菩提知慧夙稱無勝聲聞百一前後恭敬义手趺坐入<lb/>
+三摩提如老者相夀火刦齊<lb/>
+　　　第三㧞納㧞西尊者<lb/>
+七葉寳扇持坐林下一千四百聲聞結夏右豎二指左<lb/>
+以扇拂既云無物何曰有佛<lb/>
+　　　第四嘎禮嘎尊者<lb/>
+南贍部洲示法度人手持金鈴聞乎不聞聲聞一千而<lb/>
+更一百誰與聴法曰有頑石<lb/>
+<pb n="KR4f0004_WYG_078-12b"/>
+　　　第五㧞<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>荅喇尊者<lb/>
+住僧伽洲法爾金剛相好具體黙黙堂堂聲聞千一而<lb/>
+恒相隨設有諮議以拂拂之<lb/>
+　　　第六<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>達喇尊者<lb/>
+尊者所住鴉穆柰水廓然無聖亦復無已一千二百依<lb/>
+侍聲聞示慈善相羣而不羣<lb/>
+　　　第七嘎納嘎巴薩尊者<lb/>
+嘎納嘎巴住喀伽國聲聞五百同欽大徳左擎梵帙右<lb/>
+<pb n="KR4f0004_WYG_078-13a"/>
+持以繩無縛無觧是為上乗<lb/>
+　　　第八嘎納嘎<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>喇錣雜尊者<lb/>
+西牛賀洲住示錣雜唐云梵幢最勝僧臘聲聞七百前<lb/>
+後圍繞於中跏趺漠如弗曉<lb/>
+　　　第九<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>沽拉尊者<lb/>
+北具盧洲上士所住聲聞九百而為法䕶撫摩善鼠口<lb/>
+吐七寳如貧人珠仍向他討<lb/>
+　　　第十喇乎拉尊者<lb/>
+<pb n="KR4f0004_WYG_078-13b"/>
+喇乎尊者是為佛子一千一百聲聞肅侍七寳之冠雙<lb/>
+手虔奉将以奉誰空空洞洞<lb/>
+　　　第十一租查<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>荅嘎尊者<lb/>
+住鷲峯山黙坐書經所書何部一字三乗一千六百聲<lb/>
+聞聴法一亦不見是為普説<lb/>
+　　　第十二<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>楂拉<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>喇錣雜尊者<lb/>
+於東勝洲而示觧脱右持貝帙左捧金鉢聲聞千一為<lb/>
+其弟子食法無空念經有死<lb/>
+<pb n="KR4f0004_WYG_078-14a"/>
+　　　第十三巴那塔嘎尊者<lb/>
+三十三天持經説法是有是無須彌芥納聲聞九百日<lb/>
+居其側色見音求了不可得<lb/>
+　　　第十四納阿噶塞納尊者<lb/>
+住廣脇山稱云龍部一千二百聲聞相晤浄瓶在掌左<lb/>
+執錫杖曰有曰空兩邉齊放<lb/>
+　　　第十五鍋巴嘎尊者<lb/>
+曰鍋巴嘎住必呼拉有説無説一開一闔一千四百聲<lb/>
+<pb n="KR4f0004_WYG_078-14b"/>
+聞相従撫經黙坐眼盲耳聾<lb/>
+　　　第十六阿必達尊者<lb/>
+常住雪山金身不壊聲間千一肅承法𣲖晏坐道場手<lb/>
+擎窣堵即佛身乎覩以弗覩<lb/>
+　　　第十七<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>荅<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>荅喇尊者<lb/>
+降龍尊者而弗見龍是為真降豈在形容玉人琢玉初<lb/>
+不盡知和南法侶度世慈師<lb/>
+　　　第十八嘎<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>巴喇瑪尊者<lb/>
+<pb n="KR4f0004_WYG_078-15a"/>
+納達喇傳梵傳十六震旦十八實異西域諮之章嘉<hi>十六</hi>
+<hi>羅漢見梵經納<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                        <graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>傳及漢經法住記其今之所稱十八羅漢者不見梵典向嘗諮之章嘉國師云西域本止</hi>
+<hi>十六益以<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>荅<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>荅喇降龍尊者嘎<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>巴<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>瑪伏虎尊者即為十八是刻玉尊者未刻龍虎之形以限於玉耳</hi>
+曰有伏虎傍無於莬實冺我汝<lb/>
+　　和闐玉三世佛讚<lb/>
+佛説法界曰有三世過去未來及現在是三一一三非<lb/>
+是非非曰燃燈佛稱過去之其刦久近不可數紀大圓<lb/>
+鏡中消一彈指火傳於燈度世無量玉以肖體稽首好<lb/>
+<pb n="KR4f0004_WYG_078-15b"/>
+相<lb/>
+　　　右過去燃燈佛<lb/>
+善㑹菩薩應念降生浄梵王宫弗染世情雪山行道鹿<lb/>
+苑説法曰丈六身曰廣長舌有説是非無説非是三乗<lb/>
+六度如是而已色見聲求無能見我球琳寫之亦何不<lb/>
+可<lb/>
+　　　右現在如来佛<lb/>
+賢刦如過星宿當来問其時日乆矣悠㢤其佛何號曰<lb/>
+<pb n="KR4f0004_WYG_078-16a"/>
+惟彌勒以大慈力度衆生厄未来孰知曰出佛語殷因<lb/>
+夏因百世如覩世出世間夫豈有二不二法門第一義<lb/>
+諦<lb/>
+　　　右未來彌勒佛<lb/>
+　　元人大士像讚<lb/>
+卓立彈指指間出水水中生蓮蓮承足趾曰現神通入<lb/>
+鬼窟裏大士黙然如是如是<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

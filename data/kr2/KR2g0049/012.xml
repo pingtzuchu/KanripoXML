@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>儒林宗𣲖卷十二</head> <lb/>
+    <p>
+<pb n="KR2g0049_WYG_012-1a"/>
+欽定四庫全書<lb/>
+　儒林宗𣲖卷十二<lb/>
+　　　　　　　　　　　　　鄞縣萬斯同撰<lb/>
+　宋<lb/>
+　　諸儒博考<lb/>
+王昭素　　　　聶崇義　　　　竇儀<lb/>
+邢昺　　　　　孫奭　　　　　孔維<lb/>
+孔宜　　　　　崔頌　　　　　尹拙<lb/>
+<pb n="KR2g0049_WYG_012-1b"/>
+田敏　　　　　辛文悦　　　　李覺<lb/>
+崔頥正　　　　賈同　　　　　劉顔<lb/>
+髙弁　　　　　和峴　　　　　劉羲叟<lb/>
+孔道輔　　　　韓琦　　　　　范仲淹<lb/>
+歐陽修　　　　劉渙<hi>凝之髙安</hi>　　　劉敞<lb/>
+劉攽　　　　　孫復　　　　　石介<lb/>
+陳襄　　　　　陳烈　　　　　鄭穆<lb/>
+周希孟　　　　龔原　　　　　王景山<lb/>
+<pb n="KR2g0049_WYG_012-2a"/>
+楊適　　　　　王致　　　　　王説<lb/>
+杜醇　　　　　樓郁　　　　　章望之<lb/>
+宗咸　　　　　阮逸　　　　　范鎮<lb/>
+司馬光　　　　李遘　　　　　劉恕<lb/>
+林槩　　　　　王回<hi>弟向</hi>　　　周堯卿<lb/>
+王當　　　　　趙君錫　　　　曾鞏<lb/>
+蘓軾　　　　　蘓轍　　　　　陳師道<lb/>
+孔文仲　　　　孔武仲　　　　孔平仲<lb/>
+<pb n="KR2g0049_WYG_012-2b"/>
+張戩　　　　　劉安世　　　　吕大防<lb/>
+林石　　　　　戴述　　　　　趙霄<lb/>
+張煇<hi>子充永嘉</hi>　　　蔣元中<hi>元中/永嘉</hi>　　游復<hi>執中建陽</hi>
+陳祥道<hi>祐之閩清</hi>　　李綱　　　　　范浚<hi>茂明蘭谿</hi>
+洪興祖　　　　程大昌　　　　鄧名世<hi>元亞臨川</hi>
+陳鵬飛<hi>少南永嘉</hi>　　吳棫<hi>才老/建安</hi>　　　王普<hi>伯照閩縣</hi>
+劉子翬　　　　劉珙　　　　　徐廷筠<hi>李節臨海</hi>
+方慤<hi>性夫桐廬</hi>　　　林立之<hi>淑恭/仙遊</hi>　　施徳操<hi>彦執塩官</hi>
+<pb n="KR2g0049_WYG_012-3a"/>
+楊璿<hi>子平塩官</hi>　　　黄開<hi>必先/諸暨</hi>　　　陳葵<hi>叔向青田</hi>
+黄中<hi>仲庸平陽</hi>　　　邵囦<hi>萬宗蘭谿</hi>　　　林勲<lb/>
+楊萬里　　　　周必大　　　　王十朋<lb/>
+范成大　　　　趙汝愚　　　　鄭樵<lb/>
+袁樞　　　　　李燾　　　　　李衡<lb/>
+戴溪<hi>少望永嘉</hi>　　　唐仲友<hi>與政/金華</hi>　　傅寅<hi>同叔義烏</hi>
+李道傳　　　　李心傳　　　　洪适<hi>弟遵邁</hi>
+髙登　　　　　樓鑰　　　　　楊泰之<lb/>
+<pb n="KR2g0049_WYG_012-3b"/>
+湯漢　　　　　柴中行　　　　章如愚<hi>俊卿金華</hi>
+劉軫<hi>徳興平陽</hi>　　　林維屏<hi>邦援/福寕</hi>　　嚴粲<hi>明卿邵武</hi>
+王宗傳<hi>景孟福寕</hi>　　衛湜　　　　　趙端頥<hi>養正臨川</hi>
+吳柔勝<hi>勝之宣城</hi>　　章樵<hi>升道/昌化</hi>　　　邱漸<hi>子木</hi>
+戴良齊<hi>太平</hi>　　徐次鐸<hi>文伯/東陽</hi>　　髙頥<hi>元齡寜徳</hi>
+應鏞<hi>子和蘭谿</hi>　　　葉時<hi>秀發/仁和</hi>　　　尹起莘<hi>耕道遂昌</hi>
+劉友益<hi>永新</hi>　　胡三省<hi>海寜/</hi>　　陳均<hi>平甫建陽</hi>
+洪天錫　　　　謝枋得　　　　家鉉翁<lb/>
+<pb n="KR2g0049_WYG_012-4a"/>
+王與之<hi>次㸃樂清</hi>　　方逢辰<hi>弟逢振君玉/君錫淳安</hi>吳濚<hi>子量永嘉</hi>
+邱國富<hi>行可建安</hi>　　張諒<hi>子京/建安</hi>　　　汪開之<hi>元思金華</hi>
+方鳯<hi>韶父浦江</hi>　　　鄭樸翁<hi>宗仁/平陽</hi>　　敖繼翁<hi>君善福州</hi>
+倪淵<hi>仲深烏程</hi>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2g0049_WYG_012-4b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　儒林宗派卷十二<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

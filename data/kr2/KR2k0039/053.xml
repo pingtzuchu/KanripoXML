@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2k0039_WYG_053-1a"/>
+欽定四庫全書<lb/>
+欽定皇輿西域圖志卷三十二目録<lb/>
+　屯政一<lb/>
+　　哈密<hi>塔爾納沁牛毛湖</hi>　<hi>蔡巴什湖</hi>
+　　鎮西府<hi>朴城子臺古城布庫木壘竒    吉</hi>
+　　迪化州<hi>五堡斯昌吉木羅克倫瑪納    濟  薩</hi>
+　　庫爾喀喇烏蘇<lb/>
+　　晶河<lb/>
+<pb n="KR2k0039_WYG_053-1b"/>
+　　塔爾巴噶台<lb/>
+　　伊犁<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+欽定皇輿西域圖志卷三十二目録<lb/>
+<pb n="KR2k0039_WYG_053-2a"/>
+欽定四庫全書<lb/>
+欽定皇輿西域圖志卷三十二目録<lb/>
+　屯政一<lb/>
+　　哈密<hi>塔爾納沁牛毛湖</hi>　<hi>蔡巴什湖</hi>
+　　鎮西府<hi>朴城子臺古城布庫木壘竒    吉</hi>
+　　迪化州<hi>五堡斯昌吉木羅克倫瑪納    濟  薩</hi>
+　　庫爾喀喇烏蘇<lb/>
+　　晶河<lb/>
+<pb n="KR2k0039_WYG_053-2b"/>
+　　塔爾巴噶台<lb/>
+　　伊犁<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+欽定皇輿西域圖志卷三十二目録<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

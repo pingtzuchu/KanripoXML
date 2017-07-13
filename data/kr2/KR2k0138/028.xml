@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>宣和奉使髙麗圖經卷二十八</head> <lb/>
+    <p>
+<pb n="KR2k0138_WYG_028-1a"/>
+欽定四庫全書<lb/>
+　宣和奉使髙麗圖經卷二十八<lb/>
+　　　　　　　　　　　　　宋　徐兢　撰<lb/>
+　　供張一<lb/>
+臣聞周官掌次掌王次之法以待張事諸侯朝覲㑹同<lb/>
+則張大次小次師田則張幕設案夫王者之待諸侯疑<lb/>
+若其禮可簡然當朝覲㑹同師田之時尚且供張次舎<lb/>
+如此勤至又況海外小侯尊奉王人則鋪張辦設豈可<lb/>
+<pb n="KR2k0138_WYG_028-1b"/>
+茍哉髙麗自王氏以來世為本朝藩屏而主上所以鎮<lb/>
+撫之者恩徳厚甚故每使節適彼而供張之具極華煥<lb/>
+也蓼蕭澤及四海之詩曰鞗革冲冲和鸞雝雝葢即其<lb/>
+儀物之中禮可以見其享上之心今謹叙麗人所以祗<lb/>
+待使華者作供張圖<lb/>
+　　　纈幕<lb/>
+纈幕非古也先儒謂繫繒染為文者謂之纈麗俗今治<lb/>
+纈尤工其質本文羅花色即黄白相間爛然可觀其花<lb/>
+<pb n="KR2k0138_WYG_028-2a"/>
+上為火珠四垂寳網下有蓮臺花座如釋氏所謂浮屠<lb/>
+狀然尤非貴人所用惟江亭客館於屬官位設之<lb/>
+　　　繡幕<lb/>
+繡幕之飾五采間錯而成不為横縫逐幅自上垂下亦<lb/>
+有鸂䳵翔鸞花團等様而紅黄為勝其質本文紅羅惟<lb/>
+順天館詔殿正㕔使副位㑹慶乾徳殿公㑹則設之<lb/>
+　　　繡圖<lb/>
+繡圖紅身緑襈五采間錯山花戲獸<hi>闕二字</hi>過於繡幕亦<lb/>
+<pb n="KR2k0138_WYG_028-2b"/>
+有花竹翎毛果實之類<hi>闕二字</hi>生意國俗張帟幕毎十餘<lb/>
+幅則挂一<hi>闕二字</hi>之不以當堂奥之中也<lb/>
+　　　坐榻<lb/>
+坐榻之制四棱無飾其上鋪大席青襈而設於館中過<lb/>
+道間葢官屬從吏憩息之具也<lb/>
+　　　燕臺<lb/>
+燕臺之狀如中國之有几案也四角殺其鋭白藤穿花<lb/>
+面分四膈而以丹漆為飾益以塗金裝釘復増紅羅繡<lb/>
+<pb n="KR2k0138_WYG_028-3a"/>
+幃四面垂帶相比如羽惟王楷以俣未終制易紅為紫<lb/>
+耳坐牀之制與中國同而髙大多三分之一<lb/>
+　　　光明臺<lb/>
+光明臺擎燈燭之具也下有三足中立一幹形狀如竹<lb/>
+逐節相承上有一盤中置一甌甌中有<hi>闕</hi>可以然燭若<lb/>
+然燈則易以銅缸貯油立炬鎮以小白石而絡紅蒿之<lb/>
+髙四尺五寸盤面濶一尺五寸罩髙六寸濶五寸<lb/>
+　　　丹漆俎<lb/>
+<pb n="KR2k0138_WYG_028-3b"/>
+丹漆俎葢王官平<hi>闕三字</hi>也坐於榻上而以器皿登俎<lb/>
+對食故飲食以俎數多寡分尊卑使副入館日饋三食<lb/>
+食以五俎其器皿悉皆黄金塗之凡俎縱廣三尺横二<lb/>
+尺髙二尺五寸<lb/>
+　　　墨漆俎<lb/>
+食俎之制大小一等特紅黒之異都轄提轄及上節館<lb/>
+中日饋三食食以三俎中節二俎下節則以連牀每五<lb/>
+人並一席而食<lb/>
+<pb n="KR2k0138_WYG_028-4a"/>
+　　　臥榻<lb/>
+臥榻之前更施矮榻三面立欄楯各施錦綺茵褥復加<lb/>
+大席莞簟之安便適乃過内地然此特國王貴臣之禮<lb/>
+兼以待使華也若民庶則多為土榻穴地為火炕臥之<lb/>
+葢其國冬月極寒復少纊絮之屬爾<lb/>
+　　　文席<lb/>
+文席精粗不等精巧者施於牀榻粗者用以藉地織草<lb/>
+性柔摺屈不損黒白二色間錯成文青紫為襈初無定<lb/>
+<pb n="KR2k0138_WYG_028-4b"/>
+制<lb/>
+　　　門帷<lb/>
+門帷之制青絹三幅上有提襻而横木貫之狀如酒旗<lb/>
+葢宫室之中婦人用以映蔽之具也<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　宣和奉使高麗圖經卷二十八<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

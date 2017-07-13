@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4d0254_WYG_021-1a"/>
+慈湖遺書後序<lb/>
+余少讀性理羣書未能折諸聖也見有所謂楊慈湖氏<lb/>
+者不知其學不知其為象山髙弟今巡按江右秦公道<lb/>
+出信州手是編以示余曰慈湖吾鄉先正也其遺書尚<lb/>
+存顧多舛訛子盍正之俾世之學者窺其淵源余始得<lb/>
+而玩之知先生之學受之庭訓吾之扇訟而大有得於<lb/>
+静觀體㑹之餘求諸心之精神則曰聖在是見孔子絶<lb/>
+四曰無意則欲不起念自謂學者舎是皆第二義也故<lb/>
+<pb n="KR4d0254_WYG_021-1b"/>
+鞭辟處如捍强敵一至融液脫落殆晴雲麗空舒巻自<lb/>
+如而光風化日有莫測其端倪者然余嘗聞之孔子語<lb/>
+諸子之求仁其義不一曰克已復禮曰敬曰恕曰恭曰<lb/>
+忠曰言訒曰先難曰愛人曰寛信敏惠因材而篤使之<lb/>
+㑹萬為一慈湖豈不屑是也蓋學者分量不同夫敬以<lb/>
+直内義以方外萬世心學精一之綱要也不然又獨不<lb/>
+聞太極無朕而萬象森然已具乎此一貫之㫖也未至<lb/>
+慈湖者當自考矣余也莾裂何足語此特承示以識一<lb/>
+<pb n="KR4d0254_WYG_021-2a"/>
+言若篇章謬複多所散逸而大意藴苞釐校彚稡終以<lb/>
+成集而梓行之以不違秦公詔世之初心斯同寅查原<lb/>
+慱之緒餘余無庸焉謹序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

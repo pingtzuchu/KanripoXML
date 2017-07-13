@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>增補武林舊事目錄</head>
+    <p>
+<pb n="KR2k0120_WYG_000-1a"/>
+御製題増補武林舊事<lb/>
+補因廷煥<hi>朱</hi>原周密舊事武林想像間正向金朝稱姪<lb/>
+際那仍豪興賞湖山<lb/>
+都人士女走如狂天子真稱孝夀皇便是北方有歸櫬<lb/>
+安能五國解凄凉<lb/>
+朝歌暮舞勝都京水秀山明凑雅情繪出承平真氣象<lb/>
+爾時豈果是承平<lb/>
+<pb n="KR2k0120_WYG_000-2a"/>
+欽定四庫全書　　　　　史部十一<lb/>
+　增補武林舊事目錄　　　地理類八<hi>雜記之屬</hi>
+　　巻一<lb/>
+　　　慶夀冊寶　　　　　大禮<hi>南郊明堂</hi>
+　　　登門肆赦　　　　　恭謝<lb/>
+　　　聖節<lb/>
+　　卷二<lb/>
+　　　睿藻<hi>増</hi>　　　　　　御教<lb/>
+<pb n="KR2k0120_WYG_000-2b"/>
+　　　御教儀衛次第　　　燕射<lb/>
+　　　公主下降　　　　　恩澤<hi>增</hi>
+　　　唱名　　　　　　　元正<lb/>
+　　　立春　　　　　　　元夕<lb/>
+　　　舞隊　　　　　　　燈品<lb/>
+　　　挑菜　　　　　　　進茶<lb/>
+　　　賞花<lb/>
+　　巻三<lb/>
+<pb n="KR2k0120_WYG_000-3a"/>
+　　　西湖逰幸<hi>都人逰賞</hi>　　　放春<lb/>
+　　　社㑹　　　　　　　祭掃<lb/>
+　　　浴佛　　　　　　　迎新<lb/>
+　　　端午　　　　　　　禁中納凉<lb/>
+　　　都人避暑　　　　　乞巧<lb/>
+　　　中元　　　　　　　中秋<lb/>
+　　　觀潮　　　　　　　重九<lb/>
+　　　開爐　　　　　　　冬至<lb/>
+<pb n="KR2k0120_WYG_000-3b"/>
+　　　嵗除　　　　　　　嵗晚節物<lb/>
+　　巻四<lb/>
+　　　故都宫殿<lb/>
+　　巻五<lb/>
+　　　乾淳教坊樂部<lb/>
+　　巻六<lb/>
+　　　湖山勝槩<hi>上</hi>
+　　巻七<lb/>
+<pb n="KR2k0120_WYG_000-4a"/>
+　　　湖山勝槩<hi>下</hi>　　　　<hi>增吳山</hi>
+　　巻八<lb/>
+　　　諸市　　　　　　　瓦子勾欄<lb/>
+　　　酒樓　　　　　　　歌館<lb/>
+　　　賃物　　　　　　　作坊<lb/>
+　　　驕民　　　　　　　㳺手<lb/>
+　　　物産<hi>增</hi>　　　　　　市食<lb/>
+　　　諸色酒名　　　　　小經紀<lb/>
+<pb n="KR2k0120_WYG_000-4b"/>
+　　　諸色伎藝人　　　　災異<hi>增</hi>
+　　　　<hi>臣</hi>等謹案増補武林舊事八巻明朱廷煥輯<lb/>
+　　　　宋周宻嘗錄南渡後百二十年典故及風俗<lb/>
+　　　　逰宴諸事勒成一書名為武林舊事廷煥因<lb/>
+　　　　宻舊本復採西湖志鶴林玉露容齋隨筆輟<lb/>
+　　　　耕錄及密所著癸辛雜識諸書續加増訂釐<lb/>
+　　　　為八巻自序謂増補數十則今按書中共補<lb/>
+　　　　一百五十四則與原序之數不符殆序中脱<lb/>
+<pb n="KR2k0120_WYG_000-5a"/>
+　　　　去一百二字也其書義例稍涉泛濫雖不及<lb/>
+　　　　周宻原本之精雅有法而於宋代臨安軼事<lb/>
+　　　　搜括靡遺亦頗足資考古者見聞之助盖宻<lb/>
+　　　　為宋遺民主於感念盛衰多仿孟元老東京<lb/>
+　　　　夢華錄之體而廷煥則專取蒐羅故實拾遺<lb/>
+　　　　補闕以為地志之外篇與李濓汴京遺蹟志<lb/>
+　　　　約畧相近雖名為増輯而用意有殊今故並<lb/>
+　　　　著之於錄以備參證焉廷煥字中白單縣人<lb/>
+<pb n="KR2k0120_WYG_000-5b"/>
+　　　　崇禎甲戌進士其為此書時方以工部主事<lb/>
+　　　　司𣙜杭州云乾隆四十二年八月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　總　校　官　<hi>臣</hi>陸　費　墀<lb/>
+<pb n="KR2k0120_WYG_000-6a"/>
+増補武林舊事原序<lb/>
+武林為東南都㑹顯於唐盛於宋人文秀出山水清麗<lb/>
+物産殷富天下莫與埒也翠華南遷仁和駐蹕延祚百<lb/>
+五十餘年雖偏安一隅乎非若金陵六代旦暮易姓使<lb/>
+王氣常收者比厥後獨松䦨入厓山胥淪説者盡咎湖<lb/>
+山謂尤物惑人甚於西子噫亦太過矣夫虎踞龍蟠不<lb/>
+為芳樂臨春分謗顧欲以鳯山鷲嶺代趙宋府辜将置<lb/>
+賦臣闇主何地哉矧茂陵在御絶游幸務節儉逺邇安<lb/>
+<pb n="KR2k0120_WYG_000-6b"/>
+晏櫂歌一曲寄在康衢則武林猶是盤庚之偃師周武<lb/>
+之鎬洛也余司𣙜至此朱㓜晉先生以四水濳夫所著<lb/>
+舊事見貽暇時按籍披尋覺湖山之美逾于昔聞而繁<lb/>
+侈之風競勝未己然<graphic n="KR2178" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2178.png" mimeType="image/png"/>舊事所紀昔猶江海此僅涓勺<lb/>
+昔猶京坻此僅稊粒也昔馬卿虚詞歸引節儉風勸之<lb/>
+㫖猶存濳夫從容燕薊之朝絶無亡國之戚豈以陋僿<lb/>
+為耻故津津其言乎余長夏苦熱憇古梅臨竒石徧簡<lb/>
+湖山諸志始知濳夫所載尚有闕畧偶為增補數十則<lb/>
+<pb n="KR2k0120_WYG_000-7a"/>
+友輩讀而快之從㬰夀梓雖續貂可嗤飾蛾多事然補<lb/>
+入詩什以存風流末志災傷使知靡侈過甚足招天譴<lb/>
+有汴京之樂即有靖康之悲有武林之侈即有厓山之<lb/>
+變運若循環後人不昧此理持以節儉使武林常為樂<lb/>
+邦可也舊止六巻今益為八郎仁寶謂四水濳夫即著<lb/>
+癸辛雜識之周公謹别號弁陽老人集中往往見之今<lb/>
+直著其名不欲使子虚無是徒為後人疑揣耳朱廷煥<lb/>
+撰<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

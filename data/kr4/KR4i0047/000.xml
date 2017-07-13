@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>修辭鑑衡</head>
+    <p>
+<pb n="KR4i0047_WYG_000-1a"/>
+欽定四庫全書　　　　　集部九<lb/>
+　修辭鑑衡　　　　　　　詩文評類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹按修辭鑑衡二巻元王構編構字肯<lb/>
+　　　　堂東平人官至翰林學士承㫖諡文肅事迹<lb/>
+　　　　具元史本傳據至順四年王理序是編乃構<lb/>
+　　　　官濟南總管時以授其門人劉氏而理為刻<lb/>
+　　　　於集慶路者舊本殘蠧闕其前頁其劉氏之<lb/>
+<pb n="KR4i0047_WYG_000-1b"/>
+　　　　名則不可考矣上巻論詩下巻論文皆採宋<lb/>
+　　　　人詩話及文集說部為之構所附論者惟下<lb/>
+　　　　巻結語一條而已所録雖多習見之語而去<lb/>
+　　　　取頗為精核其中如詩文發源詩憲蒲氏漫<lb/>
+　　　　齋録之類今皆亡佚不傳賴此書存其一二<lb/>
+　　　　又世傳呂氏童䝉訓非其全帙此書所録凡<lb/>
+　　　　三十一條皆今本所未載亦頗足以資考証<lb/>
+　　　　較詩話總龜之類浩博而傷猥雜者實為勝<lb/>
+<pb n="KR4i0047_WYG_000-2a"/>
+　　　　之固談藝家之指南矣此書乆無刻本傳冩<lb/>
+　　　　多訛兩巻之中不注書名者凡十條又上巻<lb/>
+　　　　佚其第五頁序文僅存末頁中亦時時有缺<lb/>
+　　　　字今檢其可考者補之其無可考者則姑仍<lb/>
+　　　　原本以存其舊焉乾隆四十六年五月恭校<lb/>
+　　　　上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="KR4i0047_WYG_000-3a"/>
+修辭鑑衡原序<lb/>
+<hi>上闕</hi>以嵗貢山東廉訪司為其書吏居濟南故翰林承㫖王<lb/>
+文肅公為濟南總管固其鄉先生也君以諸生事之文<lb/>
+肅教之為文出書一編即此書也劉君愛之不忘俾刻<lb/>
+之理命李君晉仲李君伯羽校之釐正其次叙論詩為<lb/>
+首文為後四六以附凡一百九十餘條俾學者知其難<lb/>
+焉因命儒學正戚君子實掌板鄭楙刻之于集慶路學<lb/>
+至順四年七月望日文林郎江南諸道行御史臺監察<lb/>
+<pb n="KR4i0047_WYG_000-3b"/>
+御史王理序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>横渠易說目録</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　　經部一<lb/>
+　横渠易說目録　　　　　易類<lb/>
+　　卷一<lb/>
+　　　上經<lb/>
+　　卷二<lb/>
+　　　下經<lb/>
+　　卷三<lb/>
+　　　繫辭上<lb/>
+<pb n="1b"/>
+　　　繫辭下<lb/>
+　　　說卦<lb/>
+　　　序卦<lb/>
+　　　雜卦<lb/>
+　　　　<hi>臣</hi>等謹案横渠易說三卷宋張載撰上經一<lb/>
+　　　　卷下經一卷繫辭𫝊以下至雜卦為一卷末<lb/>
+　　　　有總論十一則是書較之程𫝊尤簡往往經<lb/>
+　　　　文數十句中一無所說卷内遂不復全載經<lb/>
+<pb n="2a"/>
+　　　　文載其有說者而已蓋儒者之言必真有得<lb/>
+　　　　而記之不以多寡計也其說乾彖用迎之不<lb/>
+　　　　見其首隨之不見其後語說文言用谷神語<lb/>
+　　　　說鼔萬物而不與聖人同憂用天地不仁以<lb/>
+　　　　萬物為芻狗語皆借老子之言而實異其義<lb/>
+　　　　非如魏晉人合老易為一者也惟其解后不<lb/>
+　　　　省方為繼體守成之主富庶優暇不甚省事<lb/>
+　　　　則於義似乎未安此又不得以載之故而曲<lb/>
+<pb n="2b"/>
+　　　　為之詞已乾隆四十三年七月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

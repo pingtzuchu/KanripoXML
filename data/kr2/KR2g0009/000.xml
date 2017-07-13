@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>紹陶録</head>
+    <p>
+<pb n="KR2g0009_WYG_000-1a"/>
+欽定四庫全書　　　　　史部七<lb/>
+　紹陶録　　　　　　　　傳記類二<hi>名人之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案紹陶録二卷宋王質撰質有詩總<lb/>
+　　　　聞已著録質於淳煕中奉祠山居以陶潜陶<lb/>
+　　　　𢎞景皆棄官遺世其同時唐汝舟鹿伯可繼<lb/>
+　　　　其風因作此書上卷載栗里華陽二譜而各<lb/>
+　　　　摘其遺文遺事為題别為詞以咏之下巻紀<lb/>
+<pb n="KR2g0009_WYG_000-1b"/>
+　　　　唐鹿事而附以林居詠物之詩其曰山友詞<lb/>
+　　　　者皆咏山鳥曰水友詞者皆詠水鳥曰山友<lb/>
+　　　　續詞者皆詠山草曰水友續詞者皆詠水草<lb/>
+　　　　曰山水友續詞者則襍詠禽蟲諸物盖質以<lb/>
+　　　　耿直忤時阨於權倖晚嵗欲絶人逃世故以<lb/>
+　　　　鳥獸草木為友盖亦發憤之作舊於雪山集<lb/>
+　　　　外别行<lb/>
+　　　國朝康熙中商邱宋犖嘗摘録其山友諸詞分<lb/>
+<pb n="KR2g0009_WYG_000-2a"/>
+　　　　為五巻改題曰林泉結契亦取其有寄懐塵<lb/>
+　　　　外之致也今觀錄中諸作雖惟意所云往往<lb/>
+　　　　不甚入格然人品既髙神思自别誦其詞者<lb/>
+　　　　賞之於酸鹹之外可矣乾隆四十六年十一<lb/>
+　　　　月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

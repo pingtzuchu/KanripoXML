@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>古歡堂集巻四十五</head>
+    <p>
+<pb n="KR4f0038_WYG_045-1a"/>
+欽定四庫全書<lb/>
+　古歡堂集巻四十五　　　戸部侍郎田雯撰<lb/>
+　　長河志籍考<lb/>
+官廨橋梁存湮半矣廣川之樓淒迷秋雨匡衡之館悵<lb/>
+　望春蕪俟民力之少紓望通人之改作今之從政者<lb/>
+　獨無意乎<lb/>
+論曰古者建國必有九牧九牧區分局署以立魏晉以<lb/>
+　降則署行臺唐制由行臺而至採訪使州諸官署其<lb/>
+<pb n="KR4f0038_WYG_045-1b"/>
+　遺制也下至水陸傳處倉庾鋪舍或繕修庫廐或平<lb/>
+　治道塗條晰縷分巨細畢舉至于近代為尤盛矣大<lb/>
+　要藩籬之設以規其内溝洫之限以虞其外其制衛<lb/>
+　重于州部署已下又無論已維時創立巨址廣以新<lb/>
+　規髙其閈閎厚其籬垣肥楹巨棟間架相構雖非土<lb/>
+　被朱紫木衣綈繡而膠葛周通飛簷峻宇亦足以明<lb/>
+　其規制矣于是西盻衛水輳淮徐之<graphic n="KR0712" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0712.png" mimeType="image/png"/>舟北倚神京<lb/>
+　通商賈之寶貸議疆塲之事接舟車之濟啓生民之<lb/>
+<pb n="KR4f0038_WYG_045-2a"/>
+　疾痛叅軍旅之賞罰八署官舍職領相次洵大邦之<lb/>
+　襟帶畿輔之咽喉乎逮嵗月滋久官署改創三㕔圮<lb/>
+　為茂草二衛鞠為園蔬名號猶存官物侵敝惟有子<lb/>
+　産之對壊其館垣都無叔孫之賢葺其牆屋夏施之<lb/>
+　栁孰念之哉<lb/>
+編户三十四里其户口田賦之數凡以地出庸者以社<lb/>
+　出牧者以户出貲者以丁出徭者增減不齊支解有<lb/>
+　差詳載州志舊通志云山東濱海禦冦有斥堠之役<lb/>
+<pb n="KR4f0038_WYG_045-2b"/>
+　河入濟嘗決為患有隄障之役漕河資於百泉有堰<lb/>
+　埭啟閉濬治之役東南舟車絡繹逹於京師有傳舍<lb/>
+　津塗之役總之當齊魯燕趙之衝居濟南河間兩戒<lb/>
+　之首户口蕃殖征求有藝惟<lb/>
+國家休養之仁尤在輔世長民之吏也一旦用尹鐸為<lb/>
+　保障之守封千秋以富民之侯則規模一新矣<lb/>
+州為屯牧之地不罹兵燹五十餘年歴考前代如漢韓<lb/>
+　信破歴下軍取鬲城王莽時平原女子遲昭平聚衆<lb/>
+<pb n="KR4f0038_WYG_045-3a"/>
+　千人為亂光武中吳漢擊清河軍獻帝時公孫瓉討<lb/>
+　黄巾後魏孝昌二年平原劉樹劉倉生叛隋平原李<lb/>
+　徳逸叛十年張金冦平原唐𤣥宗時安祿山反太守<lb/>
+　顔真卿起兵討之徳宗征朱滔滔奔入悳州文宗討<lb/>
+　李同捷戰於平原後梁貞明元年晉王以五百兵夜<lb/>
+　襲悳州後晉梁進以鄉社兵取悳州元至正十七年<lb/>
+　毛貴據陵州明洪武元年徐逹率兵取山東建文元<lb/>
+　年都督韓觀練兵於悳州秋九月李景隆合兵五十<lb/>
+<pb n="KR4f0038_WYG_045-3b"/>
+　萬進河間二年白溝河敗績奔悳州三年與燕兵戰<lb/>
+　於夾河大潰復奔悳州天啓二年武邑白蓮教于𢎞<lb/>
+　志作亂其最著者唐之天寶為清臣見節之時明之<lb/>
+　建文乃景隆潰師之日隋帝伐髙麗開渠而大役興<lb/>
+　明代封悳藩行宮而民力竭至於水旱飢饉之災地<lb/>
+　震蝗飛之變書不勝書具詳州志至崇禎十七年三<lb/>
+　月十八日李自成陷京師遣偽將軍郭陞入山東州<lb/>
+　人盧世㴶等奮臂一呼誅偽官為懐宗發喪起義兵<lb/>
+<pb n="KR4f0038_WYG_045-4a"/>
+　討賊以王孫朱帥<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>為盟主傳檄而出鄰境皆應㑹<lb/>
+　我<lb/>
+朝大兵入闗破走自成寃耻既雪<lb/>
+大寶有歸秋七月將軍石廷柱撫諭民賴以安<lb/>
+論曰當有明之將亡也王甫興鉤黨之誅張角倡左道<lb/>
+　之術黨錮之議略與東京相等邦國殄瘁大厦已傾<lb/>
+　頭㑹箕斂者合從締交耝耰棘矜者因利乗便春秋<lb/>
+　州兵之舉師出有名隋唐義旗之興負之無力考厥<lb/>
+<pb n="KR4f0038_WYG_045-4b"/>
+　遺事故大略足紀也<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　古歡堂集巻四十五<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

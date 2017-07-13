@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4f0049_SBCK_033-1a"/>
+　　錢唐金志章江聲<lb/>
+法部雲韶雅樂傳清詞字字貫珠圓粲花才子生花筆<lb/>
+合浦仙音各鬪妍<lb/>
+笙鶴瑶天夐岀塵湖山春麗日華新百靈擁衞羣眞集<lb/>
+齊捧三漿壽<lb/>
+一人<lb/>
+詞源三峽湧波濤刻羽移宮調最高鳧藻一時歌燕喜<lb/>
+九重天上響雲璈<lb/>
+樂府新聲妙抑揚南推高史北喬王鈞天試聽迎<lb/>
+鑾曲未許前人獨擅長<lb/>
+　　仁和吳廷華東壁<lb/>
+<pb n="KR4f0049_SBCK_033-1b"/>
+譜得迎<lb/>
+鑾法曲新廣場二月播陽春西方壽佛西王母都作瞻<lb/>
+雲就日人<lb/>
+詞客毫端雅奏多十平大樂協中和賡颺他日金華殿<lb/>
+還進康衢擊壤歌<lb/>
+　　□ᖡ蔣德秋涇<lb/>
+重見神人啟玉函帝車南指五雲銜誰翻絕調迎<lb/>
+鑾曲法鼓仙璈總不凡<lb/>
+現來天女將花散幻作羣仙駕鶴迎不是一時雙綵筆<lb/>
+紫雲何處寫遺聲<lb/>
+　　錢唐丁敬龍泓<lb/>
+<pb n="KR4f0049_SBCK_033-2a"/>
+孝治眞堪邁百王<lb/>
+慈宫親奉九霞觴新聲擬祝無疆壽才子迎<lb/>
+鑾各擅場<lb/>
+羣仙爭集百靈趨龍笛鵝笙調自殊碧落空歌誰敢和<lb/>
+笑他郢雪祇區區<lb/>
+析角分宫未易才共將藻思瀉瓊瑰一時駒豹争聲價<lb/>
+曾唱鈞天法曲來<lb/>
+詞筆湯徐信老成同時對壘合爭衡南湖花隱甌亭長<lb/>
+他日應傳供奉名<lb/>
+　　錢唐汪沆西顥<lb/>
+仙音兩部協宫商㬪玉駢珠各擅場此曲自從天上奏<lb/>
+<pb n="KR4f0049_SBCK_033-2b"/>
+不須樂府數康王<lb/>
+萬國歡心奉<lb/>
+一人親扶紫罽駐湖濵山呼不是虛無事<lb/>
+帝德懷柔及百神<lb/>
+山海仙靈絳節朝花明<lb/>
+行殿競雲韶欣知<lb/>
+聖母西方佛聽慣瑤房鳯唳簫<lb/>
+新詞譜出合笙鏞雙管眞堪峙兩峰郤笑粗才晁協律<lb/>
+祇歌並蒂有芙蓉<lb/>
+　　祁門馬曰璐半查<lb/>
+　　　調水仙子<hi>黃鐘宫</hi>
+<pb n="KR4f0049_SBCK_033-3a"/>
+東都詞筆柳秦妍北地新聲關馬傳西京樂府康王擅<lb/>
+迓鸞旂奏<lb/>
+御筵太和音雙管齊宣價重雲韶部名高黄絹篇抄徧<lb/>
+霞箋<lb/>
+　　錢唐陳章竹町<lb/>
+　　　調折桂令<hi>䨇調</hi>
+譜梨園兩部詞章味合酸甜響應宮商不演參軍不編<lb/>
+待制不唱中郞百靈走烟排隊仗羣仙會雲翦衣裳宋<lb/>
+豔班香<lb/>
+玉輦南巡供奉<lb/>
+君王<lb/>
+<pb n="KR4f0049_SBCK_033-3b"/>
+　　滿洲舒瞻堃畝<lb/>
+　　　調清平樂<lb/>
+升平雅奏付與雕龍手二妙一時眞罕有記曲費他紅<lb/>
+豆　譜成山淥湖光傳來刻羽吟商五色雲中扇筤<lb/>
+九重天上絲簧<lb/>
+　　平湖張雲錦鐵珊<lb/>
+　　　調慶春宫<lb/>
+八神弭節七聖隨車<lb/>
+翠華南幸重覩熊館花明鵠池柳細一時行幄同扈粉<lb/>
+箋銀管話多少迎<lb/>
+鑾詞賦雙成妙曲誰似仙韶舜瞳曾顧　付他關馬名<lb/>
+<pb n="KR4f0049_SBCK_033-4a"/>
+流周秦好手也難翻譜移宫換徵錦心繡口繪岀升平<lb/>
+春宇六橋三竺儘贏得餳簫茶鼓魚龍爭演壓倒東嘉<lb/>
+瑞光交處<lb/>
+　　錢唐張湄柳漁<lb/>
+　　　調齊天樂<lb/>
+和聲雙鳳穿雲叫天上人閒都滿調協黄鍾韵飄白雪<lb/>
+壓盡錦城絲管幔亭何遠儼三島羣眞驂鸞陪輦王母<lb/>
+蓬池小桃紅暎水清淺　漫論馬枚遲速翩翩詞賦手<lb/>
+總輸歌板絳樹千圍驪珠一串好趁花飛鸎囀重瞳迴<lb/>
+眷正湖鑑澄空山屏翠展雅樂流傳補<lb/>
+省方盛典<lb/>
+<pb n="KR4f0049_SBCK_033-4b"/>
+　　□□周宣猷雪舫<lb/>
+　　　調臨江仙<lb/>
+一代酸甜誇並轡香荃齊按金徽蘸來湖淥點山霏虞<lb/>
+廷雙玉琯漢院五銖衣　福洞仙眞都活現九天鸞鳯<lb/>
+争飛<lb/>
+至尊含笑駐雲旂漪風聆鞠部曳綵看支機<lb/>
+題辭<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

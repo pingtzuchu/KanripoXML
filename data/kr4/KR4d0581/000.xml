@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>提要</head>
+    <p>
+<pb n="KR4d0581_WYG_000-1a"/>
+欽定四庫全書　　　　　集部五<lb/>
+　提要　　　　　　　　　别集類四<hi>元</hi>
+　　性情集六巻<lb/>
+　　　　<hi>臣</hi>等謹案性情集六巻元周巽撰巽事蹟不<lb/>
+　　　　見于他書其詩集諸家亦未著録惟文淵閣<lb/>
+　　　　書目載有周巽泉性情集一部一冊與永樂<lb/>
+　　　　大典標題同吉安府志又載有周巽亨白鷺<lb/>
+　　　　洲洗耳亭二詩檢勘亦與此集相同而集中<lb/>
+<pb n="KR4d0581_WYG_000-1b"/>
+　　　　擬古樂府小序則自題曰龍唐耄艾周巽云<lb/>
+　　　　云以諸條叅亙考之知巽為其名而巽泉巽<lb/>
+　　　　亨乃其號與字也集中自稱嘗從征道賀二<lb/>
+　　　　縣猺冦以功授永明簿則在元曾登仕版而<lb/>
+　　　　所紀干支有丙辰九月當為洪武九年則明<lb/>
+　　　　初尚存矣巽詩格不髙頗乏沉鬰頓挫之致<lb/>
+　　　　然其杼懐寫景亦頗近自然要自不失雅則<lb/>
+　　　　集以性情為名其所尚盖可知也元末吉州<lb/>
+<pb n="KR4d0581_WYG_000-2a"/>
+　　　　　一郡如周霆震楊允孚郭鈺等皆有詩集流<lb/>
+　　　　　傳而巽詩獨佚殆亦有幸不幸歟今据永樂<lb/>
+　　　　　大典所載蒐羅編緝釐為六巻㑭與石初諸<lb/>
+　　　　　集存于世亦未嘗不分路争馳矣乾隆四十<lb/>
+　　　　　六年九月恭校上<lb/>
+　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

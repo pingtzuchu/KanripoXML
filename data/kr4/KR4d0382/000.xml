@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>四明文獻集</head>
+    <p>
+<pb n="KR4d0382_WYG_000-1a"/>
+欽定四庫全書　　　　　集部四<lb/>
+　四明文獻集　　　　　　别集類三<hi>宋</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹按四明文獻集五卷宋王應麟撰應<lb/>
+　　　　麟有周易鄭氏注已著錄所著深寧集本一<lb/>
+　　　　百巻然宋志已不著錄焦竑國史經籍志亦<lb/>
+　　　　不載其名則散佚久矣此本乃明鄞縣鄭真<lb/>
+　　　　陳朝輔所輯四明文獻之一種故一人之作<lb/>
+<pb n="KR4d0382_WYG_000-1b"/>
+　　　　冒總集之名也通一百七十餘篇制誥居十<lb/>
+　　　　之七蓋据拾殘賸已非其舊矣應麟以詞科<lb/>
+　　　　起家其玉海詞學指南諸書賸馥殘膏尚多<lb/>
+　　　　所沾溉故所自作無不典雅温麗有承平館<lb/>
+　　　　閣之遺且所載事迹多足與史傳相證如宋<lb/>
+　　　　史應麟本傳謂度宗即位應麟草百官表循<lb/>
+　　　　舊制請聴政四表已上一夕入臨宰臣諭㫖<lb/>
+　　　　増撰三表考之是集則第一表至第二表乃<lb/>
+<pb n="KR4d0382_WYG_000-2a"/>
+　　　　景定五年十月上第三表至第七表乃十一<lb/>
+　　　　月上與本傳互異又宋史度宗本紀載賈似<lb/>
+　　　　道罷都督予祠在徳祐元年二月徙居婺州<lb/>
+　　　　又徙建寧俱在七月而由揚州責歸紹興實<lb/>
+　　　　在是年五月四日見于是集責賈似道歸里<lb/>
+　　　　制亦足以補本紀之闕則雖零章斷簡固亦<lb/>
+　　　　不以殘缺棄矣乾隆四十一年十月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+<pb n="KR4d0382_WYG_000-2b"/>
+　　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+<pb n="KR4d0382_WYG_000-3a"/>
+欽定四庫全書　　　　　集部四<lb/>
+　四明文獻集目録　　　　别集類三<hi>宋</hi>
+　　巻一<lb/>
+　　　記<lb/>
+　　　序<lb/>
+　　　跋<lb/>
+　　巻二<lb/>
+　　　赦文<lb/>
+<pb n="KR4d0382_WYG_000-3b"/>
+　　　詔<lb/>
+　　巻三<lb/>
+　　　表<lb/>
+　　　露布<lb/>
+　　　檄文<lb/>
+　　巻四<lb/>
+　　　制<lb/>
+　　　祭文<lb/>
+<pb n="KR4d0382_WYG_000-4a"/>
+　　　樂章<lb/>
+　　巻五<lb/>
+　　　誥<lb/>
+　　　墓誌<lb/>
+　　　贊<lb/>
+　　　詩<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="1a"/>
+丙子學易編跋<lb/>
+此書係借聞徳坊周家書肆所鬻者天寒日短老眼昏<lb/>
+花併日而抄其可取者故不能端楷秀巖乃隆山之子<lb/>
+其書取王弼張横渠程伊川郭子和朱晦菴而求其是<lb/>
+又以其父隆山之説證之或又附以已見中間盡有可<lb/>
+取泰定元年嵗在甲子十一月十八日石澗老人俞琰<lb/>
+書扵梅齋西塾<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

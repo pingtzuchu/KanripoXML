@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>小山詞</head>
+    <p>
+<pb n="KR4j0010_WYG_000-1a"/>
+欽定四庫全書　　　　　集部十<lb/>
+　小山詞　　　　　　　　詞曲類一<hi>詞集之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案小山詞一巻宋晏幾道撰幾道字<lb/>
+　　　　叔原號小山殊之幼子監潁昌許田鎮熙寧<lb/>
+　　　　中鄭俠上書下獄悉治平時所往還厚善者<lb/>
+　　　　幾道亦在數中從俠家搜得其詩裕陵稱之<lb/>
+　　　　始令放出事見侯鯖録黄庭堅小山集序曰<lb/>
+<pb n="KR4j0010_WYG_000-1b"/>
+　　　　其樂府可謂俠邪之大雅豪士之鼓吹其合<lb/>
+　　　　者髙唐洛神之流其下者豈減桃葉團扇哉<lb/>
+　　　　又古今詞話載程叔㣲之言曰伊川聞人誦<lb/>
+　　　　叔原詞夢魂慣得無拘檢又踏楊花過謝橋<lb/>
+　　　　曰鬼語也意頗賞之然則幾道之詞固甚為<lb/>
+　　　　當時推挹矣馬端臨經籍考載小山詞一巻<lb/>
+　　　　並録黄庭堅全序此本佚去庭堅序惟存無<lb/>
+　　　　名跋後一篇又似幾道詞本名補亡以為補<lb/>
+<pb n="KR4j0010_WYG_000-2a"/>
+　　　　樂府之亡單文孤證未敢遽改姑仍舊本題<lb/>
+　　　　之至舊本字句往往訛異如泛清波摘遍一<lb/>
+　　　　闋暗惜光隂恨多少句此刻於光字上誤増<lb/>
+　　　　花字衍作八字句詞滙遂改隂作飲再誤為<lb/>
+　　　　暗惜花光飲恨多少如斯之類殊失其真今<lb/>
+　　　　併訂正之焉乾隆四十六年五月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

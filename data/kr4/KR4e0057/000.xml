@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>可傳集</head>
+    <p>
+<pb n="KR4e0057_WYG_000-1a"/>
+欽定四庫全書　　　　集部六<lb/>
+　可傳集　　　　　　　　别集類五<hi>明</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案可傳集一巻明袁華撰華有耕學<lb/>
+　　　　齋詩集已著録此本為至正癸卯楊維楨所<lb/>
+　　　　刪定華維楨弟子也前有維楨序稱吾銕門<lb/>
+　　　　稱能詩者南北凡百餘人求如張憲袁華者<lb/>
+　　　　不能十人其集名亦維楨所題盖推奬之甚<lb/>
+<pb n="KR4e0057_WYG_000-1b"/>
+　　　　至而維楨與李五舉論詩又稱梅一于酸鹽<lb/>
+　　　　一于鹹食鹽梅而味常得鹹酸之外若華之<lb/>
+　　　　作僅一于鹹酸而已其説自相剌謬今觀其<lb/>
+　　　　詩大都典雅有法一掃元季穠纎之習而開<lb/>
+　　　　明初春容之派維楨所論盖標舉司空圖説<lb/>
+　　　　以味外之味務為髙論耳其實一于酸鹹不<lb/>
+　　　　猶愈于洪熈宣徳以後所謂臺閣體者併無<lb/>
+　　　　酸鹹之可味乎未可遽以是薄華也華耕學<lb/>
+<pb n="KR4e0057_WYG_000-2a"/>
+　　　　齋稿巻帙較富世多行之此集明史蓺文志<lb/>
+　　　　亦不著録千頃堂書目雖著録而不載巻數<lb/>
+　　　　盖黄虞稷亦未見之今以其為楊維楨所手<lb/>
+　　　　定去取頗嚴故一取其備一取其精與全集<lb/>
+　　　　並著于録焉乾隆四十六年九月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="KR4e0057_WYG_000-3a"/>
+可傳集原序<lb/>
+老杜曰新詩句句盡堪傳作詩不可傳曽不愈轅下曲<lb/>
+雖千章萬什徒殄廢人楮筆耳君子曰不作無欠唐詩<lb/>
+人凡百廿有餘家其詩見於今可與杜老相傳者寧幾<lb/>
+人哉予徒張憲嘗以筆削唐百廿家請於予予於各集<lb/>
+選其可傳而無媿於君子議者什不能一二黄山谷甥<lb/>
+四人皆善詩龜父者為最龜父詩所積凡二千餘首黄<lb/>
+著為集其詩斤斤不百首谷因喜之以為句句可傳者<lb/>
+<pb n="KR4e0057_WYG_000-3b"/>
+在此吾鐵門稱能詩者南北凡百餘人求如張憲及呉<lb/>
+下袁華輩者不能十人華自二十嵗後三十年所積亦<lb/>
+無慮千有餘首而吾選之得如千首葢又倍於龜父矣<lb/>
+故命其集曰可傳好事者梓而行之求予序故予序之<lb/>
+如此至正廿二年嵗次癸卯春閏㑹稽楊維禎序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

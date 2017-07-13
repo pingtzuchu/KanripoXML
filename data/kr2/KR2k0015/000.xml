@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>剡録</head>
+    <p>
+<pb n="KR2k0015_WYG_000-1a"/>
+欽定四庫全書　　　　　史部十一<lb/>
+　剡録　　　　　　　　　地理類三<hi>都會郡縣之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案剡録十巻宋髙似孫撰似孫字續<lb/>
+　　　　古號疎寮宋詩紀事作餘姚人而是書自序<lb/>
+　　　　自稱鄮人則厲鶚誤也淳熙十一年進士厯<lb/>
+　　　　官校書郎守處州陳振孫書録解題稱似孫<lb/>
+　　　　為館職時上韓侂胄生日詩九首每首皆暗<lb/>
+<pb n="KR2k0015_WYG_000-1b"/>
+　　　　用錫字寓九錫之意為清議所不齒知處州<lb/>
+　　　　尤貪酷其讀書以奥僻為博以怪澁為竒至<lb/>
+　　　　有甚可笑者就中詩猶可觀周宻癸辛雜識<lb/>
+　　　　亦記其守處州日私挾官妓洪渠事其人品<lb/>
+　　　　葢無足道其詩則疎寮小集尚有𫝊本而文<lb/>
+　　　　章不少槩見此書乃所作嵊縣志也嵊為漢<lb/>
+　　　　剡縣地故名曰剡録前有嘉定甲戌似孫自<lb/>
+　　　　序及嘉定乙亥嵊縣令史安之序葢成於甲<lb/>
+<pb n="KR2k0015_WYG_000-2a"/>
+　　　　戌而刋於乙亥故所題先後差一年其書首<lb/>
+　　　　篇為紀年次為城境圖次為官治志附以令<lb/>
+　　　　丞簿尉題名次為社志學志附以進士題名<lb/>
+　　　　次為廩驛樓亭放生池版圖兵籍次為山水<lb/>
+　　　　志次為先賢𫝊次為古竒跡古阡次為書次<lb/>
+　　　　為文次為詩次為畫次為紙次為古物次為<lb/>
+　　　　物外記次為草木禽魚徵引極為該洽唐以<lb/>
+　　　　前佚事遺文頗賴以存其先賢𫝊毎事必註<lb/>
+<pb n="KR2k0015_WYG_000-2b"/>
+　　　　其所據之書可為地志紀人物之法其山水<lb/>
+　　　　記仿酈道元水經註例脉絡井然而風景如<lb/>
+　　　　覿亦可為地志紀山水之法統核全書皆序<lb/>
+　　　　述有法簡潔古雅逈在後來武功諸志之上<lb/>
+　　　　殊不見怪澁可笑即所作子畧亦不甚逺於<lb/>
+　　　　人情而陳振孫云云殆不可解葢南宋末年<lb/>
+　　　　道學一派惟以語録相𫝊習江湖一派惟以<lb/>
+　　　　近體相倡和而似孫所述多魏晉以來詩文<lb/>
+<pb n="KR2k0015_WYG_000-3a"/>
+　　　　事迹與當時風尚相左故駭而走歟乾隆四<lb/>
+　　　　十三年七月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>陸　費　墀<lb/>
+<pb n="KR2k0015_WYG_000-4a"/>
+剡録原序<lb/>
+山隂蘭亭禊剡雪舟一時清風萬古氷雪王謝抱經濟<lb/>
+具二戴深經學奈何純曰髙逸也嗚呼山川顯晦人也<lb/>
+人隱顯天也天下多竒山川而一禊一雪致有爽氣可<lb/>
+謂人矣江左人物如此然二戴剡王謝亦剡孫阮輩又<lb/>
+剡非天乎漢迨晉永和六百餘年右軍諸人乃識剡永<lb/>
+和至皇宋嘉定幾千年史君尹剡訪似孫錄剡事剡始<lb/>
+有史桑欽水經酈道元註道元魏人先儒辨其北事詳<lb/>
+<pb n="KR2k0015_WYG_000-4b"/>
+南事畧似孫鄮人也如其精覈俟剡人宋嘉定甲戌髙<lb/>
+似孫<lb/>
+剡在漢為縣在唐為嵊州未幾復為縣本朝宣和間以<lb/>
+剡為兩火一刀不利於邑故更今名邑舊有鄉四十後<lb/>
+分十有三别為新昌縣今所存纔二十七鄉耳夫州縣<lb/>
+之名雖數變更然山川之靈葢自若也使剡古而有志<lb/>
+則歴代因革廢興之典百世可知也余懼夫後之視今<lb/>
+亦猶今之視昔故為剡録十巻録皆髙氏所作凡山川<lb/>
+<pb n="KR2k0015_WYG_000-5a"/>
+城池版圖官治人傑地靈佛廬仙館詩經畫史草木禽<lb/>
+魚無所不載度此板可支百年後之人毋以印刓而輒<lb/>
+廢斯書也嘉定乙亥縣令鄞人史安之<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

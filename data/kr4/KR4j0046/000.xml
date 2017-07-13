@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>平齋詞</head>
+    <p>
+<pb n="KR4j0046_WYG_000-1a"/>
+欽定四庫全書　　　　集部十<lb/>
+　平齋詞　　　　　　　　詞曲類一<hi>詞集之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案平齋詞一巻宋洪咨䕫撰咨夔字<lb/>
+　　　　舜俞號平齋於潜人嘉定元年進士宋史則<lb/>
+　　　　載其登第在嘉定二年按咸淳臨安志有嘉<lb/>
+　　　　定元年鄭自誠榜無二年榜宋史誤也理宗<lb/>
+　　　　朝累官刑部尚書翰林學士知制誥加端明<lb/>
+<pb n="KR4j0046_WYG_000-1b"/>
+　　　　殿學士卒諡忠文有平齋文集已別著録兹<lb/>
+　　　　詞一巻為毛晉所刻晉跋稱未見其集葢汲<lb/>
+　　　　古閣偶無其本僅見其詞也咨䕫以才藝自<lb/>
+　　　　負新第後上書史彌逺自宰相至州縣無不<lb/>
+　　　　捃摭其短遂為時相所忌十年不調故其詞<lb/>
+　　　　淋漓激壯多抑塞磊落之感頗有似稼軒龍<lb/>
+　　　　洲者毛晉跋乃徒以王岐公文多富貴氣擬<lb/>
+　　　　之殊為未允咨䕫父名鉞號谷隠有詩名咨<lb/>
+<pb n="KR4j0046_WYG_000-2a"/>
+　　　　䕫出蜀時得書數千巻藏蕭寺父子考論諷<lb/>
+　　　　誦學益宏肆詞注内所稱老人即其父也其<lb/>
+　　　　子勲燾亦皆能紹其家學鷓鴣天為老人夀<lb/>
+　　　　後闋云諸孫認取翁翁意插架詩書不負人<lb/>
+　　　　可想其世業之盛又漢宫春一闋乃慶其父<lb/>
+　　　　七十作据平齋集有壬辰小雪前奉親遊道<lb/>
+　　　　塲何山五言古詩一首中有句云老親八十<lb/>
+　　　　健而集内未載其詞疑其傳稿尚多散佚矣<lb/>
+<pb n="KR4j0046_WYG_000-2b"/>
+　　　　乾隆四十四年三月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>唐愚士詩</head>
+    <p>
+<pb n="KR4e0082_WYG_000-1a"/>
+欽定四庫全書　　　　　集部六<lb/>
+　唐愚士詩　　　　　　　别集類五<hi>明</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案唐愚士詩一巻附㑹稽懐古詩一<lb/>
+　　　　巻明唐之淳撰之淳字愚士亦以字行山陰<lb/>
+　　　　人肅之子也建文初詔詞臣修鑑戒錄方孝<lb/>
+　　　　孺薦之授翰林院侍讀與孝孺同領書局卒<lb/>
+　　　　於官明史文苑傳附載王行傳中徐禎卿翦<lb/>
+<pb n="KR4e0082_WYG_000-1b"/>
+　　　　勝野聞載明太祖以布囊貯之淳夜越宫墻<lb/>
+　　　　入便殿㸃竄十王冊文一事其事荒誕不經<lb/>
+　　　　殆委巷小人因之淳文思敏㨗造是妄語張<lb/>
+　　　　芹遺忠錄稱洪武中有薦之者謝不就曹國<lb/>
+　　　　公李景隆俾其子師焉征行四方皆與俱厯<lb/>
+　　　　燕薊秦周覽前代遺蹟援筆而賦凌轢一時<lb/>
+　　　　考明史李文忠傳景隆以洪武十九年襲封<lb/>
+　　　　曹國公不載其非征事惟馮勝傳載洪武二<lb/>
+<pb n="KR4e0082_WYG_000-2a"/>
+　　　　十年與傅友徳藍玉趙庸等北征常茂李景<lb/>
+　　　　隆鄧鎮皆従是年嵗在丁夘與集中寓寧軒<lb/>
+　　　　記所載洪武丁夘相合當即其時也是集僅<lb/>
+　　　　其丁夘戊辰二年所作似非完本又詩文相<lb/>
+　　　　間成編而總題曰詩亦非體例疑當日雜錄<lb/>
+　　　　手稿存此一帙後人因鈔傳之故編次叢雜<lb/>
+　　　　如此歟其詩雖未經簡汰金礫並存而氣格<lb/>
+　　　　質實無元季纎穠之習其塞外諸作山川物<lb/>
+<pb n="KR4e0082_WYG_000-2b"/>
+　　　　産尤足以資考核㑹稽懐古詩一巻乃其少<lb/>
+　　　　作凡五言古詩三十首題下各有小序仿阮<lb/>
+　　　　閲曾極張堯同之例其中如舜廟不取地志<lb/>
+　　　　象耕之説禹廟不取禹穴藏書之説皆為有<lb/>
+　　　　識此巻本於集外别行然篇頁寥寥今綴於<lb/>
+　　　　集後末附長洲戴冠和詩三十首大抵凑泊<lb/>
+　　　　成篇不及之淳原唱以舊本所有姑亦並存<lb/>
+　　　　焉乾隆四十六年十月恭校上<lb/>
+<pb n="KR4e0082_WYG_000-3a"/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

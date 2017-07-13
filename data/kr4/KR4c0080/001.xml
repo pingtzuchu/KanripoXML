@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4c0080_SBCK_001-1a"/>
+唐劉蛻集第一卷<lb/>
+　　文泉子集序<lb/>
+　　　憫禱辭<lb/>
+　　弔屈原辭三章<lb/>
+　　　　哀湘竹<lb/>
+　　　　下凊江<lb/>
+　　　　招帝子<lb/>
+<pb n="KR4c0080_SBCK_001-1b"/>
+　　禺謗<lb/>
+　　　文泉子集序<lb/>
+於西華主之降也其三月辛卯夜未半埜<lb/>
+水入廬漬壞簡筴旣明日燎其書有不可<lb/>
+玩其辭者噫當初不敢自明其書十五年<lb/>
+矣今水之來冦余命也巳矣故自褐衣以<lb/>
+來辛卯以前收其微詞屬意古今上下之<lb/>
+<pb n="KR4c0080_SBCK_001-2a"/>
+間者爲外内篇焉復收其怨抑頌記嬰於<lb/>
+仁義者雜爲諸篇焉物不可以終雜故離<lb/>
+爲十卷離則名之不絕故授之以爲文泉<lb/>
+泉之時義大矣哉葢覃以九流之文㫖配<lb/>
+以不竭之義曰泉崖谷結<hi>一作枯</hi>珠璣昧則<lb/>
+將救之雲雷亢粢盛乾則將救之予豈垂<lb/>
+之空文哉自辛卯迄甲午覆研于襄陽之<lb/>
+<pb n="KR4c0080_SBCK_001-2b"/>
+埜<lb/>
+　　　憫禱辭<hi>有序</hi>
+小子出都城見邑大夫爲民之禱者屬石<lb/>
+燕不飛商羊不舞民有焦心請大夫祈龍<lb/>
+波祠以厭民望彼巫歌伶吹竹鼓栧呼空<lb/>
+者訖唱屢夕俄然微灑輕霎若神之來意<lb/>
+似憫巫之役是也作辭以弔民云<lb/>
+<pb n="KR4c0080_SBCK_001-3a"/>
+公邑之南兮禱龍之潭空波鄰天兮雲物<lb/>
+中涵鱗颸榖碧兮淵恠相叅風翼輕翔兮<lb/>
+帶直煙嵐吏不政兮胥爲民𧖟政不繩兮<lb/>
+官爲胥酣彼民之不能口舌兮爲胥之緘<lb/>
+進不得理兮若結若鉗隂戾陽返兮民之<lb/>
+不堪燥<hi>一作爍</hi>日流熖兮赫奕如惔奫泉沸<lb/>
+涌兮如湯而炎役巫女兮鼉鼓坎坎<hi>平聲叶韻</hi>
+<pb n="KR4c0080_SBCK_001-3b"/>
+風笛搖空兮舞袂衫衫胥不虔祈兮官資<lb/>
+咲譚胡不戮狡胥兮狥此潔嚴胡不辠己<lb/>
+之不正兮去此貪婪荷天子之優祿兮胡<lb/>
+爲而不廉又何役女巫而<hi>一作兮</hi>禱此空潭<lb/>
+　　　弔屈原辭三章<hi>并序</hi>
+吁三閭大夫之事司馬相如<hi>一作長卿</hi>班孟堅<lb/>
+各有言蛻不載故也噫大夫之賢懷王之<lb/>
+<pb n="KR4c0080_SBCK_001-4a"/>
+事蛻得之涕泗下衣濡毫瀝<hi>一作血</hi>辭噫大<lb/>
+夫之爲臣千萬年其誰肖宋玉淮南王劉<lb/>
+向東方朔王褒繼有悼語蛻一小儒也思<lb/>
+賢人之作悲哿<hi>一作苛</hi>人之佞著吊屈原<hi>一無</hi>
+<hi>原字</hi>辭三章吊公之志也雨濛湘波浮檝搖<lb/>
+歌旣<hi>一無旣字</hi>而悲伸𥿄波辭祈公兮采之<lb/>
+　　　哀湘竹<lb/>
+<pb n="KR4c0080_SBCK_001-4b"/>
+悵二妃之淚竹圓紅滴滴兮臨乎煙沚竦<lb/>
+枝與脩幹兮吟哀風之不巳搖勁節而錦<lb/>
+舒兮垂高䕃<hi>一作陰</hi>而自美招翔鸞之與翠<lb/>
+鳳兮緝晴霞之數里繁柯重乎舜祠兮瘦<lb/>
+影疊乎湘水諒高節之自任<hi>一作佳</hi>兮匪庭<lb/>
+篠之云比鄙衆䕃之延接兮耻凡羽之棲<lb/>
+止入淸溪之浪聲兮無笙簧之相擬恨葉<lb/>
+<pb n="KR4c0080_SBCK_001-5a"/>
+翻波兮騷屑之風露滴煙蒙兮濯纓之子<lb/>
+悵靈均之節兮依然想眞恣兮千年若此<lb/>
+　　　下淸江<lb/>
+淸江之上兮心夷猶淸江之下兮煙波浮<lb/>
+風軟雨絲兮湘波高雲昏竹暗兮鬼神愁<lb/>
+遠霞開兮鳥<hi>文苑作烏</hi>帆隨碧江平兮桂檝移<lb/>
+帶隱虹兮衣凝雲披<hi>一作被</hi>薜荔兮扈江蘺<lb/>
+<pb n="KR4c0080_SBCK_001-5b"/>
+歲華高兮水東注秋色下兮紅蘭渡瓴甋<lb/>
+合兮荆和䘮岐鳳翔兮龍媒去又曰心旣<lb/>
+潔兮道雲端水之浪兮人之<hi>一無之字</hi>波瀾浪<lb/>
+可平兮人心不可平波瀾一翻兮孰測其<lb/>
+情水之深兮不曰深悵前恨兮淚沾襟<lb/>
+　　　招帝子<hi>文苑作招䰟</hi>
+招湘靈兮澄瀾之渚雲蔽烟沈兮明月之<lb/>
+<pb n="KR4c0080_SBCK_001-6a"/>
+浦唱宵歌兮撫雲璫擊鳴根兮薦淸醑鸞<lb/>
+去鳳飛兮雲不歸九疑疊翠兮横湘雨䬃<lb/>
+輕颺兮揚微波激楚怨兮下湘娥緝荷葢<lb/>
+兮集雲壇潔桂席兮紉芳<hi>一作奠椒</hi>蘭霞爲裳<lb/>
+兮瓊爲珮舉雲旗兮持風幡若有來兮窸<lb/>
+窣𫾣懸珂兮珊珊張孔葢兮臨瑶臺月凝<lb/>
+袖兮雲裁冠月眇眇兮千里春悵<hi>一作恨</hi>無<lb/>
+<pb n="KR4c0080_SBCK_001-6b"/>
+言兮蒼梧濵戢蕙帶兮握芳芬撫<hi>一作拂</hi>瑶<lb/>
+琴<hi>一作瑟</hi>兮淚斑筠乗桂華兮下淸湘拖無<lb/>
+<hi>一作金</hi>波兮涉滄浪<hi>一作茫</hi>九疑之翠兮不可<lb/>
+尋懷沙之水兮恨之深<lb/>
+　　　禺謗<hi>文粹爲皮日休作</hi>
+有肪兮墨而謂之不潔有泉兮壅而謂之<lb/>
+不決有<graphic n="KR0581" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0581.png" mimeType="image/png"/>兮轥而謂之不芳有軸兮鍥而<lb/>
+<pb n="KR4c0080_SBCK_001-7a"/>
+謂之不轍聲咺唏以無音兮氣鬱悒而空<lb/>
+咽旣憗憗以憎懼兮又謾謾而不訣誣彭<lb/>
+祖以爲孺兮譎殤子以爲耋夥衆人之難<lb/>
+信兮撏夸者之不悅佞爲贅兮何去奸爲<lb/>
+<graphic n="KR2334" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2334.png" mimeType="image/png"/>兮莫劀讟爲轡兮莫銜謗爲玉兮何切<lb/>
+彘旣䑋而必烹兮木方<g n="菱-土+_鬯-匕">]□</g>兮必折心<lb/>
+以似車兮思綿綿而如瓞手欲動兮似拳<lb/>
+<pb n="KR4c0080_SBCK_001-7b"/>
+足將行兮如絏旣不辨於顔跖兮遂一貫<lb/>
+於堯桀吾哀生之不逢兮奚至死而惙惙<lb/>
+念帝座之不爣兮胡交光於卷舌旣何路<lb/>
+以自辨兮遂没齒而癆刺<lb/>
+唐劉蛻集第一卷<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

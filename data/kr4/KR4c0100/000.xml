@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4c0100_SBCK_000-1a"/>
+桂苑茟耕序<lb/>
+　淮南入本國兼送詔書䓁使前都統廵官承務郎<lb/>
+　侍御史内供奉賜紫金魚袋臣崔致逺進所著雜<lb/>
+　詩賦及表奏集二十八卷具録如後<lb/>
+　　私試今體賦五首一卷<lb/>
+　　五言七言今體詩共一百首一卷<lb/>
+　　雜詩賦共三十首一卷<lb/>
+　　中山覆匱集一部五卷<lb/>
+　　桂苑茟耕集一部二十卷<lb/>
+右臣自年十二離家西泛當乗桴之際亡父誡之曰<lb/>
+<pb n="KR4c0100_SBCK_000-1b"/>
+十年不苐進士則勿謂吾児吾亦不謂有児徃矣勤<lb/>
+㢤無墮乃力臣佩服嚴訓不敢弭忘懸刺無遑兾諧<lb/>
+養志實得人百之已千之觀光六年金名牓尾此時<lb/>
+諷詠情性寓物名篇曰賦曰詩㡬溢箱篋但以童子<lb/>
+篆刻壯夫所慙及忝得魚皆爲棄物尋以浪跡東都<lb/>
+茟作飯囊遂有賦五首詩一百首雜詩賦三十首共<lb/>
+成三篇爾後調授宣州溧水縣尉禄厚官閑飽食終<lb/>
+日仕優則學免擲寸隂公私所爲有集五卷益勵爲<lb/>
+山之志爰標覆簣之名地號中山遂冠其首及罷微<lb/>
+秩從職淮南蒙髙侍中専委茟硯軍書幅至竭力抵<lb/>
+<pb n="KR4c0100_SBCK_000-2a"/>
+當四年用心萬有餘首然淘之汰之十無一二敢比<lb/>
+披沙見寳粗勝　瓦畫墁遂勒成桂苑集二十卷臣<lb/>
+適當亂離寓食戎幕所謂饘於是粥於是輙以茟耕<lb/>
+爲目仍以王韶之語前事可憑雖則傴僂言歸有慙<lb/>
+鳬雀旣墾旣耨用破情田自惜微勞兾達聖鍳其詩<lb/>
+賦表狀䓁集二十八卷隨狀奉進謹進<lb/>
+　　中和六年正月日前都統廵官承務郎侍御史<lb/>
+　　内供奉賜紫金魚袋臣雀致遠狀奏<lb/>
+桂苑茟耕集一部二十卷<lb/>
+　　都統廵官侍御史内供奉崔致遠撰<lb/>
+<pb n="KR4c0100_SBCK_000-2b"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

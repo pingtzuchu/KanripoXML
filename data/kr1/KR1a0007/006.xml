@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+  <div> <head>周易經傳原目考證</head>
+    <p>
+<pb n="1a"/>
+　周易經傳原目考證<lb/>
+　周易上經乾傳第一○<hi>臣良裘</hi>按第一卷凡十卦獨<lb/>
+　　云乾𫝊者此古人卷帙之標籖猶毛詩題云周南<lb/>
+　　關雎訓詁𫝊第一論語題云學而第一是也泰卦<lb/>
+　　第二以後放此疏釋家逐字分著其義具見鄭重<lb/>
+　　𫝊經之意但篇第既改而原目仍雜見於經𫝊間<lb/>
+　　殊滋棼眩故今悉列之卷首云<lb/>
+　韓伯注音義王輔嗣止注大經○大字監本作六毛<lb/>
+<pb n="1b"/>
+　　居正六經正誤曰大字誤作六先儒以上下經二<lb/>
+　　篇為大經繫辭以下為大𫝊今從之<lb/>
+　周易説卦第九疏正義曰先儒以孔子十翼之次乾<lb/>
+　　坤文言在二繫之後説卦之前以彖象附上下二<lb/>
+　　經為六卷則上繫第七下繫第八文言第九說卦<lb/>
+　　第十輔嗣之文言分附乾坤二卦故説卦為第九<lb/>
+　　○<hi>臣良裘</hi>按漢書藝文志易十二篇顔師古注云<lb/>
+　　上下經及十翼故十二篇十翼之數説者不同朱<lb/>
+<pb n="2a"/>
+　　子本義從王肅本今折中定本從之此以彖象附<lb/>
+　　上下二經為六卷乃王弼所受傳于費直者費直<lb/>
+　　𫝊云以彖象繫辭文言解説上下經是也孔穎達<lb/>
+　　於坤初六象疏云夫子象辭元在六爻經辭之後<lb/>
+　　輔嗣之意以象本釋經宜相附近故分附當爻之<lb/>
+　　下是以彖象文言從經如今乾卦者費直之易也<lb/>
+　　以彖及大象從卦辭以小象從各爻辭如今坤卦<lb/>
+　　以下者王弼之易也此疏則云輔嗣之文言分附<lb/>
+<pb n="2b"/>
+　　乾坤二卦又似直未分而弼始分之其說小異盖<lb/>
+　　唐時已傳聞異辭孔穎達殆兩存之<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　周易經𫝊原目考證<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

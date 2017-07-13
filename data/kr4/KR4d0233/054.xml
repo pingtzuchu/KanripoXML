@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4d0233_SBCK_054-1a"/>
+止齋先生文集後序<lb/>
+先生春秋後傳諸書　今參知政事樓<lb/>
+公既屬永嘉守施公栻刋寘郡齋矣惟<lb/>
+文集舊未成編盖俗所傳如城南集之<lb/>
+類皆㓜作先生每悔焉故叔逺所詮次<lb/>
+斷自梅潭丁亥以後抑先生意云爾而<lb/>
+裒捜衆録參别唯久至嘉定戊辰始就<lb/>
+緒又不揆輙陳述先生問學獨出之㫖<lb/>
+<pb n="KR4d0233_SBCK_054-1b"/>
+人所未及知者僭爲序文冠諸篇端樓<lb/>
+公復以屬郡守楊公簡續刋之楊謝不<lb/>
+能郡博士徐公鳳慨然曰是吾志也吾<lb/>
+起慕敬于茲久乃與前吏部侍郎蔡公<lb/>
+㓜學更加訂定即廩士羡緍　萬亟成<lb/>
+之扵是後學咸得觀先生全文而樓公<lb/>
+羙意始無憾焉徐公之賜厚矣徐公建<lb/>
+安人弱冠登進士第以親老不調者十<lb/>
+<pb n="KR4d0233_SBCK_054-2a"/>
+餘年初官永嘉搢紳逢掖稱賢無異詞<lb/>
+而又汲汲然惧儒先遺文之汨其傳而<lb/>
+無以私淑諸人也是真可為人師矣嘉<lb/>
+定癸酉三月門人承直郎新荆湖北路<lb/>
+轉運司幹辦公事曺叔逺謹再識于集<lb/>
+左<lb/>
+　　嘉定壬申郡文學徐<lb/>
+　　鳳鋟板于永嘉郡齋<lb/>
+<pb n="KR4d0233_SBCK_054-2b"/>
+<pb n="KR4d0233_SBCK_054-2b"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

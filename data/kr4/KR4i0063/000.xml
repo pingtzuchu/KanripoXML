@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>全閩詩話</head>
+    <p>
+<pb n="KR4i0063_WYG_000-1a"/>
+欽定四庫全書　　　　　集部九<lb/>
+　全閩詩話　　　　　　　詩文評類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案全閩詩話十二巻<lb/>
+　　　國朝鄭方坤撰方坤字則厚號荔鄉候官人寄<lb/>
+　　　　籍建安雍正癸卯進士官至兖州府知府平<lb/>
+　　　　生鋭意著述著有經稗厯代文抄<lb/>
+　　　本朝文抄<lb/>
+<pb n="KR4i0063_WYG_000-1b"/>
+　　　本朝詩抄嶺海文編嶺海叢編讀書劄記杜箋<lb/>
+　　　　評本五代詩話四六談柄詩話醍醐古今詞<lb/>
+　　　　選蔗尾集却掃齋唱和集諸書而尤邃于詩<lb/>
+　　　　是編皆薈萃閩人詩話及他詩之有闗于閩<lb/>
+　　　　者閩士著名始于唐初薛令之盛于歐陽詹<lb/>
+　　　　故六朝以上惟載郭璞謝朓到溉江淹四人<lb/>
+　　　　而郭璞地䜟尚引周亮工書影之説辨其出<lb/>
+　　　　于依托頗為謹嚴唐以後則彬彬矣凡六朝<lb/>
+<pb n="KR4i0063_WYG_000-2a"/>
+　　　　唐五代一巻宋元四巻明三巻<lb/>
+　　　國朝一巻附無名氏及宫閨一巻方外一巻神<lb/>
+　　　　仙鬼怪襍綴一巻所採諸書計四百三十八<lb/>
+　　　　種摭拾繁富未免細大不捐而上下千餘年<lb/>
+　　　　間一方文獻犂然有徴舊事遺文多資考証<lb/>
+　　　　固亦談萟之淵藪矣乾隆四十五年五月恭<lb/>
+　　　　校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+<pb n="KR4i0063_WYG_000-2b"/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

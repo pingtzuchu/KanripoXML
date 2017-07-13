@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>宗子相集巻二</head>
+    <p>
+<pb n="KR4e0209_WYG_002-1a"/>
+欽定四庫全書<lb/>
+　宗子相集巻二　　　　　　明　宗臣　撰<lb/>
+　　古調歌<lb/>
+　　　池上歌二首寄諸子<lb/>
+芙蕖搖落兮驚素秋簫鼓殷殷兮泛中流瞻彼滄洲兮<lb/>
+狎白鷗美人不見兮使我愁安得與美人相逢兮採萱<lb/>
+草以忘憂<lb/>
+蒹葭蒼蒼兮露為霜秋風颯颯兮明月光四顧天地兮<lb/>
+<pb n="KR4e0209_WYG_002-1b"/>
+何微茫美人不見兮使心傷安得與美人相將兮折桂<lb/>
+枝而徜徉<lb/>
+　　　昔君别<lb/>
+昔君别我兮春草萋萋今我思君兮秋雨霏霏春秋既<lb/>
+已改序兮君胡為兮不歸昔君别我兮江月隂隂今我<lb/>
+思君兮海日深深日月忽其不停兮君胡為兮無音<lb/>
+　　　今夕歌<lb/>
+今夕何夕兮星稀月明今夕何夕兮得與美人同行蟋<lb/>
+<pb n="KR4e0209_WYG_002-2a"/>
+蟀在床兮凄凄則鳴江水浩蕩兮泠泠其聲何接美人<lb/>
+之慇懃兮乃使我惆悵而愴情<lb/>
+今夕何夕兮露下庭荷今夕何夕兮得與美人同歌山<lb/>
+有木兮木有柯水有鳥兮鳥有羅何接美人之慷慨兮<lb/>
+乃使我泪下而滂沱<lb/>
+今夕何夕兮日居月諸今夕何夕兮得與美人同車前<lb/>
+有溪兮溪有魚後有園兮園有蔬何接美人之珮環兮<lb/>
+乃使我氣結而欷歔<lb/>
+<pb n="KR4e0209_WYG_002-2b"/>
+今夕何夕兮飛鳥鳴禽今夕何夕兮得與美人同斟奉<lb/>
+清醴兮彈素琴薦上珍兮揚華音何接美人之周旋兮<lb/>
+乃使我情結而霑襟<lb/>
+　　　招隠詞<lb/>
+歸來乎山中他鄉莫乆滯君莫慮無衣山中有蘿薜<hi>一</hi>
+<hi>解</hi>
+歸來乎山中他鄉莫乆繫君豈慮無舟山中有蘭桂<hi>二</hi>
+<hi>解</hi>
+<pb n="KR4e0209_WYG_002-3a"/>
+歸來乎山中他鄉莫乆延君豈慮無飲山中有甘泉<hi>三</hi>
+<hi>解</hi>
+歸來乎山中他鄉莫乆羈君豈慮無飱山中有紫芝<hi>四</hi>
+<hi>解</hi>
+　　　昔思君<lb/>
+昔君與我兮同心結髮今君與我兮參商胡越昔君與<lb/>
+我兮鴛鴦同池今君與我兮南北異枝昔君與我兮月<lb/>
+明星燦今君與我兮風流雨散<lb/>
+<pb n="KR4e0209_WYG_002-3b"/>
+　　　送將歸<lb/>
+客子逺役兮駟馬馳駕言長往兮適郊圻念我同心兮<lb/>
+悵有違送君河橋兮牽君衣問君去兮何時歸恨無羽<lb/>
+翼兮同君飛嵗暮不歸兮當誰依<lb/>
+　　　白頭吟<lb/>
+君從何處來遺我明月珠明珠亦何為可以照光儀光<lb/>
+儀君不顧照之令心悲<hi>一解</hi>
+君從何處來遺我緑綺琴琴聲亦何為可以揚芳音芳<lb/>
+<pb n="KR4e0209_WYG_002-4a"/>
+音君不聽彈之傷我心<hi>二解</hi>
+君從何處來遺我紫鸞笙鸞笙亦何為可以揚清聲清<lb/>
+聲君不聆吹之感我情<hi>三解</hi>
+　　　車遙遙篇<lb/>
+車遙遙兮馬駸駸送君行兮河之隂望而不見兮傷我<lb/>
+心車遙遙兮馬蕭蕭送君行兮河之橋望而不見兮俾<lb/>
+魂消車遙遙兮馬翩翩送君行兮山之巔望而不見兮<lb/>
+涕留連車遙遙兮馬騑騑送君行兮江之磯望而不見<lb/>
+<pb n="KR4e0209_WYG_002-4b"/>
+兮泪沾衣<lb/>
+　　　萱草詞四章為伊母夫人賦<lb/>
+萱草離離兮山之陽朱為衣兮青為裳嗟彼秋風兮起<lb/>
+大荒俾其花日飄泊而不可見兮何以慰此心之彷徨<lb/>
+　　　其二<lb/>
+萱草菲菲兮山之曲曳紫霞兮綴紅玉嗟彼秋風兮振<lb/>
+庭緑俾其葉日凋零而不可尋兮何以慰此心之躑躅<lb/>
+　　　其三<lb/>
+<pb n="KR4e0209_WYG_002-5a"/>
+萱草芬芬兮山之側對芳芷兮逺叢棘嗟彼秋風兮還<lb/>
+以仆俾其枝日偃蹇而不可起兮何以慰此心之嘆息<lb/>
+　　　其四<lb/>
+萱草萋萋兮山之隅雜𤣥芝兮間緑蕪嗟彼秋風兮遽<lb/>
+以枯俾其根日蕭索而不可保兮何以慰此心之踟蹰<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR4e0209_WYG_002-5b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　宗子相集巻二<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

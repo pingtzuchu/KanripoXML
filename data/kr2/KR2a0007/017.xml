@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>前漢書卷十七</head> <lb/>
+    <p>
+<pb n="KR2a0007_WYG_017-1a"/>
+欽定四庫全書<lb/>
+　前漢書卷十七<lb/>
+　　漢　　蘭　　臺　　令　　史班　　固撰<lb/>
+　　唐正議大夫行祕書少監琅邪縣開國子顏師古注<lb/>
+　景武昭宣元成功臣表第五<lb/>
+昔書稱蠻夷帥服<hi>師古曰舜典之辭也言王者徳澤廣被則四夷相率而降服也</hi>詩云<lb/>
+徐方既俫<hi>師古曰大雅常武之詩曰王猷允塞徐方既俫言周之王道信能充實則徐方淮夷並来</hi>
+<hi>朝也俫古来字</hi>春秋列潞子之爵許其慕諸夏也<hi>應劭曰潞子離狄内附春</hi>
+<pb n="KR2a0007_WYG_017-1b"/>
+<hi>秋嘉之稱其爵列諸盟會間也師古曰潞音路</hi>漢興至于孝文時乃有弓髙襄<lb/>
+城之封<hi>師古曰弓髙侯穨當襄城侯桀龍皆從匈奴来降而得封也</hi>雖自外俫本功<lb/>
+臣後故至孝景始欲侯降者丞相周亞夫守約而爭<hi>應劭</hi>
+<hi>曰景帝欲封王皇后兄信亞夫對髙祖之約非功臣不侯也師古曰景帝欲封匈奴降者徐盧等而亞夫爭之</hi>
+<hi>以為不可今表所稱蓋謂此爾不列王信事也應說失之</hi>帝黜其議初開封賞之科<lb/>
+<hi>師古曰不從亞夫之言竟封也</hi>又有吳楚之事武興胡越之伐將帥受<lb/>
+爵應本約矣<hi>師古曰應髙祖非有功不得侯之約</hi>後世承平頗有勞臣輯<lb/>
+而序之續元功次云<hi>師古曰輯與集同元功謂佐興其帝業者也</hi>
+<pb n="KR2a0007_WYG_017-2a"/>
+</p>
+<p>
+<pb n="KR2a0007_WYG_017-3a"/>
+</p>
+<p>
+<pb n="KR2a0007_WYG_017-4a"/>
+</p>
+<p>
+<pb n="KR2a0007_WYG_017-5a"/>
+</p>
+<p>
+<pb n="KR2a0007_WYG_017-6a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2a0007_WYG_017-6b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　　　　右孝景十八人平陸休沈猷紅宛朐棘樂乘<lb/>
+<pb n="KR2a0007_WYG_017-7a"/>
+　　　　氏桓邑八人在王子魏其蓋二人在外戚隆<lb/>
+　　　　慮一人隨父凡二十九人<hi>師古曰據楚元王傳云休侯富免侯</hi>
+　　　　<hi>後更封為紅侯而王子侯表但云休侯富雖述重封又無紅邑其數止七人然此表乃以</hi>
+　　　　<hi>休及紅列為二數又稱八人在王子侯是則此表為誤也</hi>
+<pb n="KR2a0007_WYG_017-8a"/>
+</p>
+<p>
+<pb n="KR2a0007_WYG_017-9a"/>
+</p>
+<p>
+<pb n="KR2a0007_WYG_017-10a"/>
+</p>
+<p>
+<pb n="KR2a0007_WYG_017-11a"/>
+</p>
+<p>
+<pb n="KR2a0007_WYG_017-12a"/>
+</p>
+<p>
+<pb n="KR2a0007_WYG_017-13a"/>
+</p>
+<p>
+<pb n="KR2a0007_WYG_017-14a"/>
+</p>
+<p>
+<pb n="KR2a0007_WYG_017-15a"/>
+</p>
+<p>
+<pb n="KR2a0007_WYG_017-16a"/>
+</p>
+<p>
+<pb n="KR2a0007_WYG_017-17a"/>
+</p>
+<p>
+<pb n="KR2a0007_WYG_017-18a"/>
+</p>
+<p>
+<pb n="KR2a0007_WYG_017-19a"/>
+</p>
+<p>
+<pb n="KR2a0007_WYG_017-20a"/>
+</p>
+<p>
+<pb n="KR2a0007_WYG_017-21a"/>
+</p>
+<p>
+<pb n="KR2a0007_WYG_017-22a"/>
+</p>
+<p>
+<pb n="KR2a0007_WYG_017-23a"/>
+</p>
+<p>
+<pb n="KR2a0007_WYG_017-24a"/>
+</p>
+<p>
+<pb n="KR2a0007_WYG_017-25a"/>
+</p>
+<p>
+<pb n="KR2a0007_WYG_017-26a"/>
+</p>
+<p>
+<pb n="KR2a0007_WYG_017-27a"/>
+</p>
+<p>
+<pb n="KR2a0007_WYG_017-28a"/>
+</p>
+<p>
+<pb n="KR2a0007_WYG_017-29a"/>
+</p>
+<p>
+<pb n="KR2a0007_WYG_017-30a"/>
+</p>
+<p>
+<pb n="KR2a0007_WYG_017-31a"/>
+</p>
+<p>
+<pb n="KR2a0007_WYG_017-32a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　　　　右孝宣十一人陽都營平平丘昌水陽城爰<lb/>
+　　　　氏扶陽髙平陽城博陽卭成將陵建成西平<lb/>
+　　　　平恩平昌樂陵平臺樂昌博望樂成二十一<lb/>
+　　　　人在恩澤外戚樂平冠陽酇周子南君四人<lb/>
+<pb n="KR2a0007_WYG_017-32b"/>
+　　　　隨父凡三十六人<lb/>
+<pb n="KR2a0007_WYG_017-33a"/>
+</p>
+<p>
+<pb n="KR2a0007_WYG_017-34a"/>
+　　　　右孝元一人安平平恩扶陽三人隨父陽平<lb/>
+　　　　樂安二人在恩澤外戚凡六人孝成五人安<lb/>
+　　　　昌髙陽安陽城陽髙陵定陵殷紹嘉宜鄉氾<lb/>
+　　　　鄉博山十人在恩澤外戚武陽博陽贊騏龍<lb/>
+　　　　頟開陵樂陵博望樂成龍安平平阿成鄉紅<lb/>
+　　　　陽曲陽髙平十五人隨父凡三十人<hi>師古曰頟字或</hi>
+　　　　<hi>作額</hi>
+　<lb/>
+<pb n="KR2a0007_WYG_017-34b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　前漢書卷十七<lb/>
+<pb n="KR2a0007_WYG_017-35a"/>
+　前漢書卷十七考證<lb/>
+景武昭宣元成功臣表漢興至于孝文時乃有弓髙襄<lb/>
+　城之封注師古曰弓髙侯穨當襄城侯桀龍云云○<lb/>
+　<hi>臣召南</hi>按此襄城侯封于文帝十六年即韓王信太<lb/>
+　子之子韓嬰與韓穨當並時来降一封弓髙一封襄<lb/>
+　城者師古以武帝元朔四年封襄城侯之桀龍當之<lb/>
+　誤矣三劉刋誤不言何耶<lb/>
+葛繹延和二年以子敬聲云云○按監本别本俱作延<lb/>
+<pb n="KR2a0007_WYG_017-35b"/>
+　和非也師古曰延亦征字葢古字延與征同今改正<lb/>
+江陽康侯蘇息○<hi>臣宗萬</hi>按蘇息史作蘇嘉又新市侯<lb/>
+　王棄之史作王康又桓侯賜史作垣侯逎侯陸彊史<lb/>
+　作隆彊容城擕侯徐盧史作惟徐盧范陽靖侯史作<lb/>
+　端侯盧它之史作它父特轅侯史作持裝侯桀龍史<lb/>
+　作無龍安樂侯史作樂安侯軹侯史作渉軹侯僕朋<lb/>
+　史作僕多下摩侯史作下麾侯昆邪史作渾邪煇渠<lb/>
+　愼侯應疕史作順梁悼侯扁訾邳離侯史作符離侯<lb/>
+<pb n="KR2a0007_WYG_017-36a"/>
+　杜侯史作壯侯揭陽定史作揭陽令定外石侯史作<lb/>
+　北石侯下鄜侯史作下<graphic n="KR1073" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1073.png" mimeType="image/png"/>侯韓陶史作韓隂史表互<lb/>
+　異<lb/>
+易侯僕<graphic n="KR1320" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1320.png" mimeType="image/png"/>○<hi>臣召南</hi>按史表無此侯别本作翕侯非也<lb/>
+　與翕侯邯鄲同日封豈可一地兩封耶至於翕侯趙<lb/>
+　信得封則邯鄲以元光四年免信以四年十月封無<lb/>
+　可疑也<lb/>
+翕侯趙信元朔三年擊匈奴功○三年訛二年從宋本<lb/>
+<pb n="KR2a0007_WYG_017-36b"/>
+　改正<lb/>
+煇渠愼侯應疕○<hi>臣召南</hi>按煇渠既封僕朋又封應疕<lb/>
+　自注並在魯陽則是共食此地而中分其户數者也<lb/>
+杜侯屠耆嗣○<hi>臣召南</hi>按宣紀作屠耆堂似此表脱堂<lb/>
+　字<lb/>
+下鄜侯左將黃同斬西于王功○西于訛西千今改正<lb/>
+開陵侯建成○<hi>臣召南</hi>按此侯名敖建成侯是東粤舊<lb/>
+　爵非名也史漢二表並以建成為名何耶又臨蔡侯<lb/>
+<pb n="KR2a0007_WYG_017-37a"/>
+　孫都据南粤傳則姓都名稽不姓孫名都也<lb/>
+荻苴侯韓陶以朝鮮相将兵漢圍之降○監本作将漢<lb/>
+　兵圍之降非也今移兵字于漢字上<lb/>
+題侯張富昌共得衞太子侯○監本脱侯字從宋本添<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2a0007_WYG_017-37b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　前漢書卷十七考證<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

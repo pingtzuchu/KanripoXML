@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>補歴代史表卷三十四</head> <lb/>
+    <p>
+<pb n="KR2d0021_WYG_032-1a"/>
+欽定四庫全書<lb/>
+　補歴代史表卷三十四<lb/>
+　　　　　　　　　　　　　鄞縣萬斯同撰<lb/>
+　　梁<lb/>
+　　　梁諸王世表<lb/>
+<pb n="KR2d0021_WYG_032-2a"/>
+</p>
+<p>
+<pb n="KR2d0021_WYG_032-3a"/>
+　<lb/>
+　　右十三王並宗室<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2d0021_WYG_032-3b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　　右五王並武帝子<hi>武帝八子長昭明太子綂第二簡文帝綱第七孝元帝繹</hi>
+<pb n="KR2d0021_WYG_032-4a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2d0021_WYG_032-4b"/>
+　　右五王並昭明太子子<lb/>
+<pb n="KR2d0021_WYG_032-5a"/>
+</p>
+<p>
+<pb n="KR2d0021_WYG_032-6a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　　右十四王並簡文帝子<hi>簡文二十子長哀太子大器第十二瀏陽公大雅俱為侯景所害餘早卒未封</hi>
+<pb n="KR2d0021_WYG_032-7a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2d0021_WYG_032-7b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　補歴代史表卷三十四<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

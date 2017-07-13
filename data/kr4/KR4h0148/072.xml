@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0148_WYG_072-1a"/>
+欽定四庫全書<lb/>
+御選唐宋詩醇卷三十五<lb/>
+　　眉山蘓軾詩四<lb/>
+　　　目録<lb/>
+　　除夜大雪留濰州元日早晴遂行中途雪復作<lb/>
+　　送范景仁游洛中<lb/>
+　　次韻景仁留别<lb/>
+　　書韓幹牧馬圖<lb/>
+<pb n="KR4h0148_WYG_072-1b"/>
+　　送魯元翰少卿知衞州<lb/>
+　　和李邦直沂山祈雨有應<lb/>
+　　東欄棃花<lb/>
+　　次韻荅邦直子由四首<hi>録二首</hi>
+　　司馬君實獨樂園<lb/>
+　　子由將赴南都與余㑹宿於逍遙堂作兩絶句讀<lb/>
+　　之殆不可為懷因和其詩以自解余觀子由自少<lb/>
+　　曠達天資近道又得至人飬生長年之訣而余亦<lb/>
+<pb n="KR4h0148_WYG_072-2a"/>
+　　竊聞其一二以為今者宦遊相别之日淺而異時<lb/>
+　　退休相從之日長旣以自解且以慰子由云<lb/>
+　　過雲龍山人張天驥<lb/>
+　　初别子由<lb/>
+　　河復<lb/>
+　　黃河<lb/>
+　　韓幹馬十四匹<lb/>
+　　贈寫御容妙善師<lb/>
+<pb n="KR4h0148_WYG_072-2b"/>
+　　哭刁景純<lb/>
+　　荅吕梁仲屯田<lb/>
+　　張寺丞益齋<lb/>
+　　送李公恕赴闕<lb/>
+　　䖍州八境圖八首<hi>錄六首</hi>
+　　讀孟郊詩二首<lb/>
+　　與梁左藏㑹飲傅國博家<lb/>
+　　續麗人行<lb/>
+<pb n="KR4h0148_WYG_072-3a"/>
+　　起伏龍行<lb/>
+　　次韻荅劉涇<lb/>
+　　聞辯才法師復歸上天竺以詩戲問<lb/>
+　　僕曩於長安陳漢卿家見吳道子畫佛碎爛可惜<lb/>
+　　其後十餘年復見之於鮮于子駿家則己裝背完<lb/>
+　　好子駿以見遺作詩謝之<lb/>
+　　雨中過舒教授<lb/>
+　　次韻荅舒教授觀余所藏墨<lb/>
+<pb n="KR4h0148_WYG_072-3b"/>
+　　荅仲屯田次韻<lb/>
+　　芙蓉城<lb/>
+　　和鮮于子駿鄆州新堂月夜二首<lb/>
+　　中秋月三首<lb/>
+　　中秋見月寄子由<lb/>
+　　與頓起孫勉泛舟探韻得未字<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

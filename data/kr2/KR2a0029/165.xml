@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2a0029_WYG_165-1a"/>
+　舊五代史巻八十二攷證<lb/>
+晉少帝紀二以青州節度使楊光逺謀叛故也　案楊<lb/>
+　光逺反五代春秋作十一月與是書作十二月異歐<lb/>
+　陽史從是書<lb/>
+乙亥滄恒貝鄴馳告契丹前鋒趙延壽趙延昭引五萬<lb/>
+　馳入冦將及甘陵　案歐陽史作甲戌朔契丹冦滄<lb/>
+　州據遼史云甲戌朔趙延壽延昭率前鋒五萬騎次<lb/>
+　任丘與歐陽史合<lb/>
+<pb n="KR2a0029_WYG_165-1b"/>
+太原奏契丹入雁門圍忻代二州　案通鑑契丹入雁<lb/>
+　門不書日遼史作丙子入雁門圍忻代<lb/>
+乙酉車駕發東京丁亥敵騎至黎陽　案歐陽史作丙<lb/>
+　戌契丹冦黎陽<lb/>
+辛卯鄴都留守張從恩遣人夜縋城間行奏契丹主以<lb/>
+　鐡騎三四萬建牙帳于元城以趙延壽為魏博節度<lb/>
+　使改封魏王　案遼史己丑次元城授延壽魏博節<lb/>
+　度使封魏王率所部屯南樂葢遼人屯于元城自在<lb/>
+<pb n="KR2a0029_WYG_165-2a"/>
+　己丑晉人至辛卯始得奏聞也歐陽史作辛卯契丹<lb/>
+　屯于元城趙延壽冦南樂殊誤<lb/>
+己亥遣譯語官孟守忠致書于契丹主求修舊好　案<lb/>
+　遼史云辛丑晉遣使來修舊好詔割河北諸州及遣<lb/>
+　桑維翰景延廣來議與是書微異<lb/>
+鄧州奏博州刺史周儒以城降契丹　案博州刺史周<lb/>
+　儒降于契丹歐陽史通鑑契丹國志俱作正月是書<lb/>
+　及遼史作二月<lb/>
+<pb n="KR2a0029_WYG_165-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　舊五代史巻八十二攷證<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>太平廣記</head>
+    <p>
+<pb n="KR3l0118_WYG_000-1a"/>
+欽定四庫全書　　　　　子部十二<lb/>
+　太平廣記　　　　　　　小説家𩔖二<hi>異聞之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案太平廣記五百卷宋李昉奉勅監<lb/>
+　　　　修同修者扈蒙李穆湯悦徐鉉宋白王克貞<lb/>
+　　　　張洎董淳趙隣陳鄂吕文仲吳淑十二人也<lb/>
+　　　　以太平興國三年八月表進六年正月𠡠雕<lb/>
+　　　　板印行凡分五十五部所采書三百四十五<lb/>
+<pb n="KR3l0118_WYG_000-1b"/>
+　　　　種古来軼聞𤨏事僻笈遺文咸在焉卷帙輕<lb/>
+　　　　者往往全部收入盖小説之家淵海也後以<lb/>
+　　　　言者謂非後學所急收板貯之太清樓故崇<lb/>
+　　　　文總目不載鄭樵號為博洽亦未見其書通<lb/>
+　　　　志藝文畧中遂謂太平廣記乃太平御覽中<lb/>
+　　　　别出廣記一書専記異事悞矣其書雖多談<lb/>
+　　　　神怪而采摭繁富名物典故錯出其間詞章<lb/>
+　　　　家恒所取資又如皇覽三輔决録三國典畧<lb/>
+<pb n="KR3l0118_WYG_000-2a"/>
+　　　　晉陽秋晉中興書齊春秋唐歴益部耆舊傳<lb/>
+　　　　汝南先賢傳㑹稽先賢傳古文𤨏語琴清英<lb/>
+　　　　世語符子金樓子諸書世所不傳者斷簡殘<lb/>
+　　　　編尚間存其什一尤足貴也此本為明嘉靖<lb/>
+　　　　中右都御史談愷所刋卷頁間有闕佚無從<lb/>
+　　　　校補今亦仍之焉乾隆四十四年二月恭校<lb/>
+　　　　上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+<pb n="KR3l0118_WYG_000-2b"/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

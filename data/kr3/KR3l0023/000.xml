@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>北夢瑣言</head>
+    <p>
+<pb n="KR3l0023_WYG_000-1a"/>
+欽定四庫全書　　　　　子部十二<lb/>
+　北夢瑣言　　　　　　　小説家𩔖一<hi>雜事之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案北夢瑣言二十卷宋孫光憲撰光<lb/>
+　　　　憲字孟文自號葆光子十國春秋作貴平人<lb/>
+　　　　而自題乃稱富春考光憲自序言生自岷峨<lb/>
+　　　　則當為蜀人其曰富春葢舉郡望也仕唐為<lb/>
+　　　　陵州判官旋依荆南高季興為從事後勸高<lb/>
+<pb n="KR3l0023_WYG_000-1b"/>
+　　　　繼冲以三州歸宋太祖嘉之授黄州刺史以<lb/>
+　　　　終五代史荆南世家載之甚明舊以為五代<lb/>
+　　　　人者悞矣所著有荆臺集橘齋集玩筆傭集<lb/>
+　　　　鞏湖編玩蠶書續通厯等書自宋代已散佚<lb/>
+　　　　惟是書獨傳於後其曰北夢瑣言者以左傳<lb/>
+　　　　稱田於江南之夢而荆州在江北故以命名<lb/>
+　　　　葢仕高氏時作也所載皆唐及五代士大夫<lb/>
+　　　　逸事每條多載某人所説以示有徵葢用杜<lb/>
+<pb n="KR3l0023_WYG_000-2a"/>
+　　　　陽襍編之例其記載頗猥襍叙次亦頗冗㳫<lb/>
+　　　　而遺文瑣語往往可資考證故宋李昉等編<lb/>
+　　　　太平廣記多採其文晁公武讀書志載光憲<lb/>
+　　　　續通厯十卷輯唐及五代事以續馬總之書<lb/>
+　　　　叅以黄巢李茂貞劉守光按巴堅<hi>案按巴堅原作阿保</hi>
+　　　　<hi>機今改正</hi>吳唐閩廣吳越兩蜀事迹太祖以所紀<lb/>
+　　　　多不實詔毁其書而此書未嘗議及則語不<lb/>
+　　　　甚誣可知矣世所行者凡二本一為明商維<lb/>
+<pb n="KR3l0023_WYG_000-2b"/>
+　　　　濬稗海所刻脱悞殆不可讀近時揚州新刻<lb/>
+　　　　乃元華亭孫道明所藏猶宋時陜西刋板差<lb/>
+　　　　完整有緒故今以揚州本著錄不用商氏本<lb/>
+　　　　云乾隆四十三年三月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="KR3l0023_WYG_000-3a"/>
+北夢瑣言序<lb/>
+唐自廣明亂離秘籍亡散武宗已後寂寞無聞朝野遺<lb/>
+芳莫得傳播僕生自岷峨官於荆郢咸京故事每愧面<lb/>
+牆游處之間專於博訪頃逢故鳳翔楊玭少尹多話秦<lb/>
+中平時舊說常記於心他日渚宫見元澄中允欵狎笑<lb/>
+語多符其說元公謂舊族一二子弟曰諸賢生在長安<lb/>
+聞事不迨富春此則存好問之所宏益也厥後每聆一<lb/>
+事未敢孤信三復㕘校然始濡毫非但垂之空言亦欲<lb/>
+<pb n="KR3l0023_WYG_000-3b"/>
+因事勸戒三紀收拾筐篋爰因公退咸取編連先以唐<lb/>
+朝逹賢一言一行列於談次其有事𩔖相近自唐至後<lb/>
+唐梁蜀江南諸國所得聞知者皆附其末凡纂得事成<lb/>
+二十卷禹貢云雲土夢作又傳有畋於江南之夢鄙從<lb/>
+事於荆江之北題曰北夢瑣言瑣細形言大即可知也<lb/>
+雖非經緯之作庶勉後進子孫俾希仰前事亦絲麻中<lb/>
+菅蒯也通方者幸勿多誚焉<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>春秋三傳辨疑</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　經部五<lb/>
+　春秋三傳辨疑　　　　春秋類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹按春秋三傳辨疑二十卷元程端學撰是書以<lb/>
+　　　　攻駁三傳為主凡端學以為可疑者皆摘録經文<lb/>
+　　　　𫝊文而疏辨於下大抵先存一必欲廢𫝊之心而百<lb/>
+　　　　計以求其瑕纇求之不得則以不可信一語<lb/>
+　　　　㮣之葢不信三傳之説創于啖助趙匡<hi>按韓愈贈</hi>
+<pb n="1b"/>
+　　　　<hi>盧仝詩有春秋三傳束髙閣獨抱遺經究終始之句仝與啖趙同時葢亦宗二家之説者</hi>
+　　　　<hi>以所作春秋摘㣲已佚故今據現存之書惟稱啖趙</hi>其後析為三派孫<lb/>
+　　　　復尊王發微以下棄𫝊而不駁傳者也劉敞<lb/>
+　　　　春秋權衡以下駁三傳之義例者也葉夢得<lb/>
+　　　　春秋讞以下駁三傳之典故者也至於端學<lb/>
+　　　　乃兼三派而用之且併以左傳為偽撰變本<lb/>
+　　　　加厲罔顧其安至是而横流極矣平心而論<lb/>
+　　　　左氏身為國史記錄最真公羊榖梁去聖人<lb/>
+<pb n="2a"/>
+　　　　未逺見聞較近必斥其一無可信世寧復有<lb/>
+　　　　可信之書此真妄搆虚詞深誣先哲至于褒<lb/>
+　　　　貶之義例則左氏所見原疎公榖兩家書由<lb/>
+　　　　口授經師附益不免私増誠不及後來之精<lb/>
+　　　　宻端學此書于研求書法糾正是非亦千慮<lb/>
+　　　　不無一得固未可惡其剛愎遂㮣屏其説也<lb/>
+　　　　通志堂經解所刋有本義有或問而不及此<lb/>
+　　　　書據納喇性徳之序葢以殘缺而置之此本<lb/>
+<pb n="2b"/>
+　　　　為浙江呉玉墀家所藏第一卷蠧蝕最甚有<lb/>
+　　　　毎行惟存數字者然第二卷以下則尚皆完<lb/>
+　　　　整今以永樂大典所載校補其文遂為全帙<lb/>
+　　　　呉本於左氏所載諸軼事毎條之下俱註非<lb/>
+　　　　本義不録字疑為端學定藳之時加以簽題<lb/>
+　　　　俾從刪削而繕冩者仍誤存之也以原本如<lb/>
+　　　　是今亦姑仍其舊焉乾隆四十六年五月恭<lb/>
+　　　　校上<lb/>
+<pb n="3a"/>
+　　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

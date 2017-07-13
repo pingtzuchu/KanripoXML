@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>南陽書畫表</head>
+    <p>
+<pb n="KR3h0059_WYG_000-1a"/>
+欽定四庫全書　　　　　子部八<lb/>
+　南陽書畫表　　　　　　藝術類一<hi>書畫之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案南陽法書表一卷南陽名畫表一<lb/>
+　　　　卷明張丑撰所列皆韓世能家收藏真跡法<lb/>
+　　　　書表凡作者二十七人計七十二件分五格<lb/>
+　　　　上為時代下以正書行狎草聖石刻四等各<lb/>
+　　　　為一格名畫表凡作者四十七人計九十五<lb/>
+<pb n="KR3h0059_WYG_000-1b"/>
+　　　　圖亦分五格上為時代而下以道釋人物為<lb/>
+　　　　一格山水界畫為一格花果鳥獸為一格蟲<lb/>
+　　　　魚墨戯為一格例又小别二表前皆有丑自<lb/>
+　　　　序盖先表法書既而世能之子朝延併屬兼<lb/>
+　　　　表名畫也世能字存良長洲人隆慶時進士<lb/>
+　　　　官至禮部尚書喜收名跡董其昌洛神賦跋<lb/>
+　　　　所稱館師韓宗伯者是也其稱南陽者韓氏<lb/>
+　　　　郡望南陽猶韓維之稱南陽集耳乾隆四十<lb/>
+<pb n="KR3h0059_WYG_000-2a"/>
+　　　　六年九月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>笠澤叢書</head>
+    <p>
+<pb n="KR4c0089_WYG_000-1a"/>
+欽定四庫全書　　　　集部二<lb/>
+　笠澤叢書　　　　　　别集類一唐<lb/>
+　　提要<lb/>
+　　　　臣等謹案笠澤叢書四巻補遺一巻唐陸龜<lb/>
+　　　　蒙撰龜䝉有耒耜經已著錄此集為龜䝉自<lb/>
+　　　　編以其叢脞細碎故名叢書以甲乙丙丁為<lb/>
+　　　　次後又有補遺一巻宋元符間蜀人樊開始<lb/>
+　　　　序而梓之政和初毘陵朱衮復行校刋止分<lb/>
+<pb n="KR4c0089_WYG_000-1b"/>
+　　　　上下二巻及補遺為三此本為元季龜䝉裔<lb/>
+　　　　孫徳原重鐫既依蜀本釐為四巻而序仍毘<lb/>
+　　　　陵本作三巻者字偶誤也王士禎漁洋文略<lb/>
+　　　　有此書跋謂得都穆重刋蜀本内紀錦裙在<lb/>
+　　　　丙集迎潮詞在丁集而此本錦裙乙集迎潮<lb/>
+　　　　詞在丙集叙次又不盡依蜀本之舊疑徳原<lb/>
+　　　　又有所竄亂矣龜䝉與皮日休相倡和見于<lb/>
+　　　　松陵集者工力悉敵未易定其甲乙惟雜文<lb/>
+<pb n="KR4c0089_WYG_000-2a"/>
+　　　　則龜䝉小品為多不及日休文藪時標偉論然<lb/>
+　　　　閒情別致亦復自成一家固不妨各擅所長<lb/>
+　　　　也乾隆四十二年九月恭校上<lb/>
+　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+<pb n="KR4c0089_WYG_000-3a"/>
+陸魯望文集序<lb/>
+唐賢陸龜䝉字魯望三吳人也幼而聰悟通六藉尤長<lb/>
+於春秋常體江謝賦事名振江右與顔蕘皮日休羅隠<lb/>
+吳融為友性髙潔家貧親老屈與張搏為湖蘇二郡佐<lb/>
+嘗至饒州三月無所詣刺史率官屬就見之龜䝉不樂<lb/>
+拂衣去居松江甫里多所論譔著吳興實録四十巻松<lb/>
+陵集十巻笠澤藂書八十餘篇自謂江湖散人或號天<lb/>
+隨子甫里先生唐末以左拾遺授之詔下日疾終贈左<lb/>
+<pb n="KR4c0089_WYG_000-3b"/>
+補闕本朝宋景文公重修唐書仍列於隠逸傳今蜀中<lb/>
+惟松陵集盛行笠澤藂書未有是書家藏久矣愚謂貯<lb/>
+之篋笥以私一人之觀覽不若鏤板而傳諸好事庶斯<lb/>
+文之不墜而魯望之名復振亦儒者之用心也時聖宋<lb/>
+元符庚辰嵗仲秋月郫人樊開題<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

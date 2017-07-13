@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>三因極一病症方論</head>
+    <p>
+<pb n="KR3e0041_WYG_000-1a"/>
+欽定四庫全書　　　　　子部五<lb/>
+　三因極一病症方論　　　醫家類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案三因極一病症方論十八卷宋陳<lb/>
+　　　　言撰言字無擇青田人是書分别三因歸於<lb/>
+　　　　一治其説出金匱要略三因者一曰内因為<lb/>
+　　　　七情發自臟腑形於肢體一曰外因為六慾<lb/>
+　　　　起自經絡舍於臟腑一曰不内外因為飲食<lb/>
+<pb n="KR3e0041_WYG_000-1b"/>
+　　　　饑飽呌呼傷氣以及虎狼毒蟲金瘡壓溺之<lb/>
+　　　　類每類有論有方文詞典雅而理致簡該非<lb/>
+　　　　他家鄙俚冗雜之比蘇軾傳聖散子方葉夢<lb/>
+　　　　得避暑録話極論其謬而不能明其所以然<lb/>
+　　　　言亦指其通治傷寒諸症之非而獨謂其方<lb/>
+　　　　為寒疫所不廢可謂持平吳澄集有易簡歸<lb/>
+　　　　一方序稱近代醫方惟陳無擇議論最有根<lb/>
+　　　　柢而其藥多不驗嚴子禮剽取其論而附以<lb/>
+<pb n="KR3e0041_WYG_000-2a"/>
+　　　　平日所用經驗之藥則兼美矣是嚴氏濟生<lb/>
+　　　　方其源實出於此宋志著録六卷陳振孫書<lb/>
+　　　　録解題亦同此本分為十八卷葢何鉅重録<lb/>
+　　　　所分第二卷中太醫習業一條有五經二十<lb/>
+　　　　一史之語非南宋人所應見然證以諸家所<lb/>
+　　　　引實為原書其詞氣亦非近人所及疑校正<lb/>
+　　　　者不學無術但聞有二十一史之説遂妄改<lb/>
+　　　　古書不及攷其時代也乾隆四十四年九月<lb/>
+<pb n="KR3e0041_WYG_000-2b"/>
+　　　　恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　總　校　官　<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

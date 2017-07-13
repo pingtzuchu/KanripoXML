@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>禮書卷一百四十五</head> <lb/>
+    <p>
+<pb n="1a"/>
+欽定四庫全書<lb/>
+　禮書卷一百四十五<lb/>
+　　　　　　　　　　　宋　陳祥道　撰<lb/>
+<pb n="2a"/>
+</p>
+<p>
+<pb n="3a"/>
+</p>
+<p>
+<pb n="4a"/>
+　　帷裳<lb/>
+　巾車王后重翟厭翟安車皆有容葢詩曰漸車帷裳<lb/>
+　鄭司農曰容謂襜車山東謂之裳帷或曰童容其上<lb/>
+　有葢旁垂而下謂之襜故士昏禮婦車有裧雜記曰<lb/>
+　輤有裧鄭康成謂裧鼈甲邊縁也然容裧幃皆帷裳<lb/>
+　之異名也古者婦人車飾以此後世男子之車有之<lb/>
+　非禮也故郭賀褰帷君子取焉<lb/>
+　　茀<hi>簟茀翟茀</hi>
+<pb n="4b"/>
+　茀車蔽也詩曰簟茀朱鞹簟茀魚服翟茀以朝翟雉<lb/>
+　也簟方丈蓆也衛夫人之車以翟茀齊襄公方叔之<lb/>
+　車以簟茀此婦人男子車蔽之别也爾雅曰輿革前<lb/>
+　謂之鞎<hi>乎恩</hi>後謂之茀竹前謂之禦後謂之蔽鞎以革<lb/>
+　鞔軾者也茀以革鞔後戸者也禦則簟衣軾所以禦<lb/>
+　前蔽則以簟衣後戶所以蔽後鞎與茀皆革為之詩<lb/>
+　所謂朱鞹是也禦與蔽皆竹為之詩所謂簟茀是也<lb/>
+　王之喪車始喪木車蒲蔽卒哭素車棼蔽既練薻車<lb/>
+<pb n="5a"/>
+　薻蔽大祥駹車雚蔽禫漆車藩蔽車氏謂蔽車旁禦<lb/>
+　風塵者藩蔽漆席為之然則禫車之蔽猶且漆之則<lb/>
+　吉車之蔽其飾又可知矣車之前後兩旁莫不有蔽<lb/>
+　爾雅言其前後鄭氏言其兩旁各舉其略故也漢詔<lb/>
+　二千石朱兩轓六百石朱左轓則轓者蔽也<lb/>
+　　扄<lb/>
+　邲之戰晉人以廣隊不能進楚人惎之脱扄西京賦<lb/>
+　曰旗不脱扄杜預曰扄兵闌也孔穎達曰扄横木也<lb/>
+<pb n="5b"/>
+　蓋横木車前以約所載之兵器則扄可脱之材矣觀<lb/>
+　戶扄謂之扄鼎扄亦謂之扄則車扄亦然<lb/>
+　　輔<lb/>
+　詩曰無棄爾輔員于爾輻左傳曰輔車相依孔穎達<lb/>
+　曰輔者可脱之物如今人縳杖於輻以助車也<lb/>
+　　輴<hi>禹之四載曰舟車輴樏輴以行泥亦曰毳曰蕝樏以行山亦曰橋曰䠱輂今參酌禮經有輴制</hi>
+　　　<hi>於此</hi>
+　書曰予乘四載隨山刋木孔安國曰水乗舟陸乗車<lb/>
+<pb n="6a"/>
+　泥乗輴<hi>丑輪</hi>山乗樏<hi>方追</hi>河渠書曰泥行蹈毳山行即橋<lb/>
+　<hi>去喬</hi>溝洫志曰泥行乗毳山行則<graphic n="KR3401" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3401.png" mimeType="image/png"/>尸子曰山行乗樏<lb/>
+　泥行乗蕝徐廣曰橋一作輂輂直轅車也孟康曰毳<lb/>
+　形如箕擿行泥上應劭曰<graphic n="KR3401" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3401.png" mimeType="image/png"/>或作樏人所引也如淳曰<lb/>
+　<graphic n="KR3401" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3401.png" mimeType="image/png"/>以鐵如錐施之履下以行山然周禮大軍旅㑹同<lb/>
+　鄉師治其輂輦説文曰輂大車駕馬則非山乗者也<lb/>
+　書曰予乗四載則所乗非所履者也考之於禮士<lb/>
+　載柩以輁軸大夫以上載車以輴先儒謂輁狀如長<lb/>
+<pb n="6b"/>
+　牀穿桯前後著金而關軸焉大夫諸侯以上有四周<lb/>
+　謂之輴又曰輴之形狀庳下而寛廣然則泥行乗輴<lb/>
+　蓋亦如長牀然也<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　禮書卷一百四十五<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

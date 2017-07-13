@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>内外服制通釋</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　經部四<lb/>
+　内外服制通釋　　　　禮類二<hi>附錄</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案内外服制通釋七卷宋車垓撰垓<lb/>
+　　　　字經臣天台人咸淳中由特奏名授迪功郎<lb/>
+　　　　浦城縣尉以年老不赴徳祐二年卒垓及從<lb/>
+　　　　兄若水皆受業於季父安行安行受業於陳<lb/>
+　　　　埴埴受業於朱子故垓是書一仿文公家禮<lb/>
+<pb n="1b"/>
+　　　　而補其所未備有圖有説有名義有提要凡<lb/>
+　　　　正服義服加服降服皆推闡明晰具有條理<lb/>
+　　　　牟楷序謂家禮著所當然此釋其所以然葢<lb/>
+　　　　不誣也朱彛尊經義考曰車氏書余所儲者<lb/>
+　　　　闕第八卷以後卷八書目為三殤以次降服<lb/>
+　　　　如應服期而殤者則降服大功應服大功而<lb/>
+　　　　殤者降服小功應服小功而殤者降服緦麻<lb/>
+　　　　卷九為深衣疑義其標題則仍稱九卷註存<lb/>
+<pb n="2a"/>
+　　　　而不註闕盖未敢斷後二卷之必佚然今所<lb/>
+　　　　傳冩皆與彛尊本同則此二卷已佚矣據馬<lb/>
+　　　　良驥所作垓行狀其深衣疑義本别為一書<lb/>
+　　　　特附録於此書之後良驥所舉用皇氏廣頭<lb/>
+　　　　在下之註以續袵為裳之上衣之旁者説亦<lb/>
+　　　　頗合惜其全文不可睹也乾隆四十六年十<lb/>
+　　　　一月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+<pb n="2b"/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="3a"/>
+余聞雙峰先生服制有書舊矣而常恨莫之見也年幾<lb/>
+耳順先生之子大雅翁始編以示余且俾題其首余以<lb/>
+晚學辭弗獲遂為之言曰美哉是書其文公家禮之羽<lb/>
+翼歟或曰喪服之制家禮備矣此書之作不殆於贅乎<lb/>
+哉余謂不然家禮著其所當然此則釋其所當然也孔<lb/>
+子曰民可使由之不可使知之徒由之而不求以知之<lb/>
+可乎哉此先生之書所以作也然禮有冠昏喪祭而此<lb/>
+獨有取於喪又何歟禮之行由於俗之厚俗之厚由於<lb/>
+<pb n="3b"/>
+喪之重也周公所以成周家忠厚之俗亦惟喪祭之重<lb/>
+而已喪祭之重民俗之厚也民俗厚而后冠昏之禮可<lb/>
+行矣噫親喪固所自盡也世降俗澆齊斬且莫之盡况<lb/>
+期功乎期功之正者且莫之盡况若義若降若加者乎<lb/>
+噫安得如先生者出而司風俗之柄即是書而躬行之<lb/>
+且律天下之人盡行之則變澆為淳有不難者矣噫後<lb/>
+之人讀是書而昧於天理者烏足以知先生之心哉先<lb/>
+生姓車氏諱垓字經臣玉峰先生之委也至元後已夘<lb/>
+<pb n="4a"/>
+暢月下澣葛屋野人牟楷仲裴謹序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

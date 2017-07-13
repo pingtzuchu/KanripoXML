@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>五曹算經卷三</head> <lb/>
+    <p>
+<pb n="KR3f0036_WYG_003-1a"/>
+欽定四庫全書<lb/>
+　五曹算經卷三<lb/>
+　　集曹<lb/>
+既有人衆必用食飲故以集曹次之<lb/>
+今有粟七百五十斛問為糲米㡬何答曰四百五十斛<lb/>
+術曰列粟七百五十斛以三十乗之得二萬二千五百<lb/>
+斛以五十除之即得<lb/>
+今有粟二百九十斛問為粺米㡬何答曰一百五十六<lb/>
+<pb n="KR3f0036_WYG_003-1b"/>
+斛六斗<lb/>
+術曰列粟二百九十斛以二十七乗之得七千八百三<lb/>
+十斛以五十除之即得<lb/>
+今有粟五百六十斛問為糳米㡬何答曰二百六十八<lb/>
+斛八斗<lb/>
+術曰列粟五百六十斛以二十四乗之得一萬三千四<lb/>
+百四十斛以五十除之即得<lb/>
+今有粟三百六十二斛問為御米㡬何答曰一百五十<lb/>
+<pb n="KR3f0036_WYG_003-2a"/>
+二斛四升<lb/>
+術曰列粟三百六十二斛以二十一升乗之得七千六<lb/>
+百二斛以五十除之即得<lb/>
+今有粟五百六十斛凡粟八斗易麥五斗問得麥㡬何<lb/>
+答曰三百五十斛<lb/>
+術曰列粟五百六十斛以五十乗之得二萬八千斛以<lb/>
+八千除之即得<lb/>
+今有豆八百四十九斛凡豆九斗易麻七斗問得麻㡬<lb/>
+<pb n="KR3f0036_WYG_003-2b"/>
+何答曰六百六十斛三斗三升三合竒三升<lb/>
+術曰列豆八百四十九斛以七十乗之得五萬九千四<lb/>
+百三十斛以九十除之即得<lb/>
+今有錢二十七貫八百三十三文凡五文買棃三枚問<lb/>
+得棃㡬何答曰一萬六千六百九十九枚竒四文<lb/>
+術曰列錢二十七貫八百三十三文以三乗之得八萬<lb/>
+三千四百九十九以五除之即得<lb/>
+今有米一千五百七十七斛斛别加八斗三升問訃㡬<lb/>
+<pb n="KR3f0036_WYG_003-3a"/>
+何答曰二千八百八十五斛九斗一升<lb/>
+術曰列米一千五百七十七斛以加米一斛八斗三升<lb/>
+乗之即得<lb/>
+今有席一領坐客一十二人有席一千五百三十八領<lb/>
+問客㡬何答曰一萬八千四百五十六人<lb/>
+術曰列席一千五百三十八領以一十二人乗之即得<lb/>
+又有席一領坐客二十三人有席一千五百領問客㡬<lb/>
+何答曰三萬四千五百人<lb/>
+<pb n="KR3f0036_WYG_003-3b"/>
+術曰列席數一千五百領以二十三人乗之即得<lb/>
+今有席一領坐客二十三人有客五十三萬三千六百<lb/>
+八十人問席㡬何答曰二萬三千二百三領竒十一人<lb/>
+術曰列五十三萬三千六百八十人以二十三人除之<lb/>
+即得<lb/>
+又有席一領坐客一十五人有客四萬四千六百二十<lb/>
+五人問席㡬何答曰二千九百七十五領<lb/>
+術曰列四萬四千六百二十五人以一十五人除之即<lb/>
+<pb n="KR3f0036_WYG_003-4a"/>
+得<lb/>
+今有凡醬二升飼五人有醬三百二十斛問人㡬何答<lb/>
+曰八萬人<lb/>
+術曰列三百二十斛每上十之得三萬二千升以五人<lb/>
+乗之得一十六萬升以二升除之即得<lb/>
+今有凡錢五文買雉三隻有錢一萬七千五百二十五<lb/>
+文問得雉㡬何答曰一萬五百一十五隻<lb/>
+術曰列錢數一萬七千五百二十五文以雉三隻乗之<lb/>
+<pb n="KR3f0036_WYG_003-4b"/>
+得五萬二千五百七十五文以五文除之即得<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　五曹算經卷三<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

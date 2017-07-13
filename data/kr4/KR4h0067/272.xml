@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>兩宋名賢小集卷二百七十二</head> <lb/>
+    <p>
+<pb n="KR4h0067_WYG_272-1a"/>
+欽定四庫全書<lb/>
+　兩宋名賢小集卷二百七十二<lb/>
+　　　　　　　　　　　　宋　陳　思　編<lb/>
+　　　　　　　　　　　　元　陳世隆　補<lb/>
+　心游摘藁<lb/>
+　劉翼字躔父福唐人有心游摘藁<lb/>
+　　題心游樓<lb/>
+一自浮光抵玉融東林山曲世為農前場歳計禾麻麥<lb/>
+<pb n="KR4h0067_WYG_272-1b"/>
+後圃年深竹荔松博我多聞千載史喚人深省五更鐘<lb/>
+不消更㑹楞嚴語面面披雲挹曉峯<lb/>
+　　心游樓即事<lb/>
+禪坐寧離此意行何所如稻粱詩七月果木賦閒居活<lb/>
+水嘗新茗顛風落舊書無才甘用拙不是隠樵漁<lb/>
+　　癸夘十月同林子宜拜掃先師樂軒墓因和南谷<lb/>
+　　寺壁閒韻<lb/>
+秋風颯颯已華顛男女猶賖嫁娶錢問道西軒空有夢<lb/>
+<pb n="KR4h0067_WYG_272-2a"/>
+繙經南谷恐無縁登墳薦酒徒為爾對佛拈花亦偶然<lb/>
+回首白雲無叫處青山長在淚痕邊<lb/>
+　　答林昌宗詩筌韻<lb/>
+經鋤小暇弄詩筌老去仍知黙是禪滄海移舟盡琴趣<lb/>
+雖然終不似無絃<lb/>
+　　題東臯詩巻<lb/>
+雪竹霜松不老身儘教後進笑陳人相逢亦有吟詩客<lb/>
+誰似先生語意真<lb/>
+<pb n="KR4h0067_WYG_272-2b"/>
+　　書情<lb/>
+蕭踈逺市囂山窟雜魚樵窮鬼乗吾拙錢神挾汝驕世<lb/>
+途自巘嶮真性本逍遥尚想榮期樂綸巾傲漢貂<lb/>
+　　夜意<lb/>
+平生萬事水東流獨有多情是風癢夜長無寐月窺牀<lb/>
+擁被孤吟起遐想<lb/>
+　　伯言見和拙作以漢𨽻書之謝以七韻<lb/>
+李潮善八分求歌杜陵叟有人和我詩半紙餘科斗風<lb/>
+<pb n="KR4h0067_WYG_272-3a"/>
+雲生其懐劍㦸出其手石經中郎蔡新様元和栁元常<lb/>
+文不傳退之書何有待我農隙時載筆隨君後袖手眼<lb/>
+亦明聊與之飲酒<lb/>
+　　偶見官舍梅花作<lb/>
+天然標格自蕭踈底用松篁水月俱但是梅花皆可愛<lb/>
+何闗東閣與西湖<lb/>
+　　輓敖儀仲<lb/>
+半面春風已有情别來重見眼終青空齋夜雨十年後<lb/>
+<pb n="KR4h0067_WYG_272-3b"/>
+一醉黄花叫不醒<lb/>
+對坐茶甌日兩迴胷懐真率向人開茶甌對客如前度<lb/>
+不見先生杖履來<lb/>
+晝倚籃輿餞一杯殷勤别語到簾幃那知此夜成長往<lb/>
+書屋無人月掩扉<lb/>
+書中有種復何愁酒興詩狂卒未休莫唱横塘斷腸句<lb/>
+不堪斜日獨登樓<hi>儀仲有題心游樓詞</hi>
+　　送二子從子宜讀書<lb/>
+<pb n="KR4h0067_WYG_272-4a"/>
+三代讀書無寸功又將此法教兒童旁人笑我背時好<lb/>
+不背旁人背樂翁<lb/>
+　　山寺聽雨<lb/>
+問道論詩也一宗燒柴煨芋佛家風要知真樂人間少<lb/>
+聽雨空山破寺中<lb/>
+　　戲和劉雪巢題壁韻<hi>劉有不知何處有唐詩之句</hi>
+吟懐只怕俗塵迷若慕唐人也自癡要識性情根極處<lb/>
+請觀三百五篇詩<lb/>
+<pb n="KR4h0067_WYG_272-4b"/>
+　　題平逺軒呈竹溪玉堂<lb/>
+溪堂闢小軒此景絶可愛蔡松道東邊千載典型在髙<lb/>
+低萬頃田面勢溪向背生綃一幅寛晴雨不盡態中有<lb/>
+謫仙人來尋莘野耒畎畝雖不忘知進不如退乾坤入<lb/>
+醉眼風月出吟喙我非人境游亭在人境内心平水不<lb/>
+波見逺山無礙時攜琰石遊間以劉白輩僕忝老諸生<lb/>
+來扣佛三昧<lb/>
+　　題簡上人西亭詩文後<lb/>
+<pb n="KR4h0067_WYG_272-5a"/>
+真如非字義綺語道之疵未見西亭作長為北礀欺晚<lb/>
+因僧媚逺初實客從曦多少才名士沈淪世不知<lb/>
+　　夢呈樂軒先生既覺不失一字録呈竹溪玉堂<lb/>
+不見仙翁四十春幸然丘隴在比鄰當年四海從游者<lb/>
+報佛深恩有幾人<hi>艾軒先生工部侍郎文節林公一傳為網山林先生諱亦之字學可再傳</hi>
+<hi>為樂軒林先生諱藻字元潔皆有集行世竹溪樂軒之嫡子也</hi>
+　<lb/>
+　<lb/>
+<pb n="KR4h0067_WYG_272-5b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　兩宋名賢小集卷二百七十二<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

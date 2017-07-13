@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>備忘集</head>
+    <p>
+<pb n="KR4e0207_WYG_000-1a"/>
+欽定四庫全書　　　　　集部六<lb/>
+　備忘集　　　　　　　　别集類五<hi>明</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案備忘集十巻明海瑞撰瑞有元祐<lb/>
+　　　　黨人碑考已者録明史藝文志載海瑞文集<lb/>
+　　　　七巻<lb/>
+　　　國朝廣東鹽運使故城賈棠與邱濬集合刻者<lb/>
+　　　　止六巻是編載瑞所行條式申叅之文校為<lb/>
+<pb n="KR4e0207_WYG_000-1b"/>
+　　　　全備乃康熈中瑞六代孫廷芳重編原跋云<lb/>
+　　　　共一十二巻分為十冊今考此本冊數與跋<lb/>
+　　　　相合然每冊止一巻實止十巻較原跋尚闕<lb/>
+　　　　二巻未喻其故也瑞生平學問以剛為主故<lb/>
+　　　　自號剛峯其入都㑹試時即上平黎疏為户<lb/>
+　　　　部主事時上治安疏戅直無隱觸世宗怒下<lb/>
+　　　　詔獄然世宗復閲其疏亦感動太息至擬之<lb/>
+　　　　於比干後廵撫應天銳意興革裁抑豪强惟<lb/>
+<pb n="KR4e0207_WYG_000-2a"/>
+　　　　以利民除害為事而矯枉過直或不免一偏<lb/>
+　　　　如集中畢戰問井地論力以井田為可行謂<lb/>
+　　　　天下治安必由於此盖但觀明代隠匿兼并<lb/>
+　　　　之弊激為此説而不自知其不可通然其孤<lb/>
+　　　　忠介節實人所難能故平日雖不以文名而<lb/>
+　　　　所作勁氣直達偘偘而談有凜然不可犯之<lb/>
+　　　　槩當明季士風頽苶之際切墨引繩振煩醒<lb/>
+　　　　瞶亦救時之藥石滌穢解結非大黄芒硝不<lb/>
+<pb n="KR4e0207_WYG_000-2b"/>
+　　　　能取效未可以其峻利疑也集中疏後為序<lb/>
+　　　　序後為申文為論論後復為序序後為書書<lb/>
+　　　　後又為序其他雜見錯出不勝指數盖廷芳<lb/>
+　　　　編録時隨其所得綴輯為巻故不以門類為<lb/>
+　　　　次今以其無闗考核姑仍其舊録之云乾隆<lb/>
+　　　　四十六年十月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

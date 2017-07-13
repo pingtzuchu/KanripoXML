@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>愚谷集</head>
+    <p>
+<pb n="KR4e0184_WYG_000-1a"/>
+欽定四庫全書　　　　　集部六<lb/>
+　愚谷集　　　　　　　　别集類五<hi>明</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案愚谷集十巻明李舜臣撰舜臣字<lb/>
+　　　　茂欽號愚谷又號未村居士樂安人嘉靖癸<lb/>
+　　　　未進士官至太僕寺卿是集詩四巻曰部署<lb/>
+　　　　稿曰金陵稿曰江西稿曰歸田稿文六巻前<lb/>
+　　　　有康熙丙午周亮工序蓋亮工官山東時所<lb/>
+<pb n="KR4e0184_WYG_000-1b"/>
+　　　　刋也詩格雅飭而頗窘於邊幅所長所短皆<lb/>
+　　　　在於斯文古質而稍覺有意謹嚴或剷削太<lb/>
+　　　　過故亮工序記王世貞語有體製纎小之譏<lb/>
+　　　　然於時北地信陽之學盛行於世方以鉤棘<lb/>
+　　　　塗飾相髙而舜臣獨以朴直存古法其序記<lb/>
+　　　　多名論而西橋逸事狀一篇觸張璁桂萼之<lb/>
+　　　　鋒直書不諱文出之日天下咋舌抑亦剛正<lb/>
+　　　　之士矣據集所載小序舜臣所著有易卦辱<lb/>
+<pb n="KR4e0184_WYG_000-2a"/>
+　　　　言詩序考毛詩出比禮經讀春秋左傳考例<lb/>
+　　　　榖梁三例左傳讀古文考三經考籕文考六<lb/>
+　　　　經直音諸書今皆未見然亦足見其文之根<lb/>
+　　　　柢也乾隆四十三年三月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

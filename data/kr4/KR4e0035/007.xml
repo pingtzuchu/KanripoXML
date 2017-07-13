@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>劉彦昺集巻七</head> <lb/>
+    <p>
+<pb n="KR4e0035_WYG_007-1a"/>
+欽定四庫全書<lb/>
+　劉彦昺集巻七<lb/>
+　　　　　　　　　　　　明　劉　炳　撰<lb/>
+　　　　　　　　　　　　　楊維楨　　評<lb/>
+　　七言絶句<lb/>
+　　　題葉楚庭醉漁巻簡彭敬宗劉子原子載子明<lb/>
+落盡荼䕷草覆裀二分流水一分塵小車都載鵝黄酒<lb/>
+蘇小墳前醉過春<lb/>
+<pb n="KR4e0035_WYG_007-1b"/>
+渴眠篷底口涎流麴蘖為池糟作丘便向五湖乘浪死<lb/>
+墓題應得醉鄉侯<lb/>
+　　　京口中秋<lb/>
+歸棹前年酒滿缸牽衣稚子慰離腸却憐月色連秋色<lb/>
+依舊他鄉憶故鄉<lb/>
+　　　奉天門進膳<lb/>
+江上風髙未授衣金溝楊栁得秋遲不因宮宴糕糜粥<lb/>
+客裏重陽總不知<lb/>
+<pb n="KR4e0035_WYG_007-2a"/>
+　　　出龍灣之東阿<lb/>
+行李蕭條出鳳城鄉閭漸逺不勝情客舟今夜寒橋泊<lb/>
+腸斷江流作雨聲<lb/>
+　　　京城元夕<lb/>
+五年無路掃梧楸夢裡闗山只淚流誰送寒燈到先壠<lb/>
+異鄉明月故鄉愁<lb/>
+　　　泊𤓰州懷舊寄顧利賓王又新隱居<lb/>
+潮聲月色滿江船回首春風十六年憶得石橋楊栁巷<lb/>
+<pb n="KR4e0035_WYG_007-2b"/>
+珠簾銀燭聽歌眠<lb/>
+　　　京城題家書後示善鄯諸姪時玉珊自西河歸<lb/>
+莫遣春泥汚短鞾莫將鵝鴨惱鄰家窓前好種芭蕉樹<lb/>
+寫字題詩寄阿爺<lb/>
+虎牢雁門通馬邑酒泉黑水接流沙憐爾西行一萬里<lb/>
+且喜除夕得還家<lb/>
+别時纎手牽衣送想見了鬟似漆光莫向堂前惱阿母<lb/>
+海榴窓下繡鴛鴦<lb/>
+<pb n="KR4e0035_WYG_007-3a"/>
+短褐欺寒雙鬢迷當門新築野墻低何時傍竹結茅屋<lb/>
+與爾長吟烏夜啼<lb/>
+　　　經露筋祠<lb/>
+珠湖烟雨散晴暉帆落風輕短棹遲春草斷垣斜日裏<lb/>
+行人猶說露筋祠<lb/>
+　　　望丹陽郭經楊子橋<lb/>
+楊子橋邉楊栁新青帘斜照送行人明日揚州看花去<lb/>
+祗憐不似舊時春<lb/>
+<pb n="KR4e0035_WYG_007-3b"/>
+暖風晴日丹陽郭處處東風是舊遊記得杏花寒食候<lb/>
+紫簫紅袖宿江樓<lb/>
+　　　題舅氏亭簡朱原立陳遂良陳原輔<lb/>
+渭陽池館花如霧曲曲䦨干面面池記得少年遮妓飲<lb/>
+至今楊栁學腰肢<lb/>
+　　　同周伯寧連榻劇談悲歌有感<lb/>
+醉來抜劍斫珊瑚懶向侯門更曳裾夜半聞雞眠不着<lb/>
+草堂秋雨讀隂符<lb/>
+<pb n="KR4e0035_WYG_007-4a"/>
+漂零書劍愧無成日夜秋風白髪生倘得黄金三萬兩<lb/>
+肯將籌策譲陳平<lb/>
+　　　東湖憶舊簡劉子雍胡伯清汪宗彝<lb/>
+蕭家巷口花如霧紅粉䦨干酒斾斜記得少年曾繫馬<lb/>
+如今無樹可啼鴉<lb/>
+　　　離懷寄汪宗彝楊孟瑄魏居敬<lb/>
+綠樹啼鴉春又歸雨晴山徑濺香泥楊花不似離情薄<lb/>
+猶趂東風逐馬蹄<lb/>
+<pb n="KR4e0035_WYG_007-4b"/>
+埀埀江雨作春波江上行人晚唱歌莫遣青燈照衣袂<lb/>
+酒痕不似淚痕多<lb/>
+　　　墓草寄斯貞姪<lb/>
+江上飛花處處新春山啼鳥似呼人可憐愛酒無虛日<lb/>
+忘却劉伶墓草青<lb/>
+　　　送黄彦美還㑹稽彦美常從故侯買里古思以<lb/>
+　　　兵守越後雪仇報恩一時稱誦<lb/>
+君去應須到㑹稽故侯墓上草離離信陵門下三千客<lb/>
+<pb n="KR4e0035_WYG_007-5a"/>
+零落東風更有誰<lb/>
+少年賓客東南盛金錯龍泉手自提今日蕭蕭鞍馬裏<lb/>
+五更趨府候晨雞<lb/>
+　　　暮春寫懐四絶<lb/>
+晴雪飛綿栁樹斜雨餘紫陌净無沙春衫日日騎官馬<lb/>
+兩袖東風看落花<lb/>
+宮筵題就送春詩簮筆承恩出殿遲病目塗鴉不成字<lb/>
+粉箋香墨惜烏絲<lb/>
+<pb n="KR4e0035_WYG_007-5b"/>
+揚州書記鬢蒼蒼每向春歸欲㫁腸剩欲典衣酤酒飲<lb/>
+風流無復少年狂<lb/>
+青梅煮酒蕨芽肥倦客懐家入夢思想得故園風景好<lb/>
+一庭香雪落荼䕷<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　劉彦昺集巻七<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

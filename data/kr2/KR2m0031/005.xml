@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>明諡紀彚編卷五</head> <lb/>
+    <p>
+<pb n="KR2m0031_WYG_005-1a"/>
+欽定四庫全書<lb/>
+　明諡紀彚編卷五<lb/>
+　　　　　　　　　　　　明　郭良翰　撰<lb/>
+　　尊諡二<lb/>
+　　　皇妃諡六字<lb/>
+恭肅端順榮靖<lb/>
+　憲廟皇貴妃萬氏<hi>嘉靖</hi>
+端和恭順温僖<lb/>
+<pb n="KR2m0031_WYG_005-1b"/>
+　世廟皇貴妃王氏<hi>嘉靖</hi>
+榮安惠順端僖<lb/>
+　世廟皇貴妃閻氏<hi>嘉靖</hi>
+荘順安榮貞静<lb/>
+　世廟皇貴妃沈氏<hi>萬厯</hi>
+恭順榮荘端静<lb/>
+　追封皇貴妃李氏<hi>萬厯</hi>
+温肅端静純懿<lb/>
+<pb n="KR2m0031_WYG_005-2a"/>
+　皇貴妃王氏<hi>萬厯四十年東宫生母</hi>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2m0031_WYG_005-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　明諡紀彚編卷五<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

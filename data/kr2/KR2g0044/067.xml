@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>八旗滿洲氏族通譜目錄</head> <lb/>
+    <p>
+<pb n="KR2g0044_WYG_067-1a"/>
+欽定四庫全書<lb/>
+　八旗滿洲氏族通譜目錄<lb/>
+　卷三十三<lb/>
+　　扎庫木地方李佳氏<lb/>
+　　　佟國　　　　　　　噶哈穆<lb/>
+　　　阿克楚　　　　　　顔岱<lb/>
+　　　雅哈納　　　　　　瓜納<lb/>
+　　　恭布祿<lb/>
+<pb n="KR2g0044_WYG_067-1b"/>
+　　　　　以上俱有傳<lb/>
+　　　蓋新　　　　　　　阿祝瑚<lb/>
+　　　東阿　　　　　　　王錫<lb/>
+　　　蓀布祿　　　　　　薩克星阿<lb/>
+　　　明玉<lb/>
+　　　　　以上俱附載<lb/>
+　　李佳和羅地方李佳氏<lb/>
+　　　阿都都哈　　　　　寧古齊<lb/>
+<pb n="KR2g0044_WYG_067-2a"/>
+　　　顧郎阿　　　　　　綏占<lb/>
+　　　達珠瑚　　　　　　楊果理<lb/>
+　　　　　以上俱有傳<lb/>
+　　　吕敦　　　　　　　錫琳<lb/>
+　　　積玉　　　　　　　進泰<lb/>
+　　　　　以上俱附載<lb/>
+　　各地方李佳氏<lb/>
+　　　謨和托　　　　　　阿爾圖<lb/>
+<pb n="KR2g0044_WYG_067-2b"/>
+　　　庫徳　　　　　　　七十八<lb/>
+　　　和托費揚古　　　　托和倫<lb/>
+　　　齋松　　　　　　　葉爾庫徳<lb/>
+　　　　　以上俱有傳<lb/>
+　　　噶噶穆　　　　　　瑪喀拉<lb/>
+　　　李愷　　　　　　　尼雅哈齊<lb/>
+　　　堯甘　　　　　　　伊楞額<lb/>
+　　　舜彌喇　　　　　　格塞理<lb/>
+<pb n="KR2g0044_WYG_067-3a"/>
+　　　李成琳　　　　　　阿克敦<lb/>
+　　　拜他庫　　　　　　盛柱<lb/>
+　　　托靈阿　　　　　　寶兹<lb/>
+　　　雙堅　　　　　　　岱揚阿<lb/>
+　　　顔布祿　　　　　　紳布<lb/>
+　　　扎努　　　　　　　栢延<lb/>
+　　　固倫泰　　　　　　阿那布<lb/>
+　　　蘇克素瑚　　　　　常綏<lb/>
+<pb n="KR2g0044_WYG_067-3b"/>
+　　　董住　　　　　　　世泰<lb/>
+　　　六十三<lb/>
+　　　　　以上俱附載<lb/>
+　　各地方黄佳氏<lb/>
+　　　達爾楚　　　　　　寧古齊<lb/>
+　　　布顔祿　　　　　　桑武<lb/>
+　　　　　以上俱有傳<lb/>
+　　　齋堪　　　　　　　蘇賚<lb/>
+<pb n="KR2g0044_WYG_067-4a"/>
+　　　葉爾古徳　　　　　阿都齊<lb/>
+　　　額徳　　　　　　　黄瑪舒<lb/>
+　　　舒穆齊<lb/>
+　　　　　以上俱附載<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

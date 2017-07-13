@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4c0091_SBCK_000-1a"/>
+注詠史詩揔一百五十首<lb/>
+　　　　　　　　　前進士胡　曽　著述并序<lb/>
+　　　　　　　　　邵陽叟陳　蓋　注詩<lb/>
+　　　　　　　　　京兆郡米崇吉評注并續序<lb/>
+夫詩者蓋美盛德之形容刺衰政之荒怠非徒尚綺麗<lb/>
+瑰琦而巳故言之者無罪讀之者足以自戒觀乎漢<lb/>
+子晉宋詩人佳句名篇雖則妙絶而發言指要亦巳踈<lb/>
+齊代旣失軌範<hi>史記云南齊武帝不好詩書謂侍臣曰朕巫祝之安用讀此鬼錄謂書中古人皆鬼</hi>
+<hi>梁武帝朝却興文也</hi>梁朝文加穿鑿八病興而六義壞聲律<hi>崔</hi>
+雅崩良不能也曽不揣庸陋轉采前王得失古今<lb/>
+成一百五十首爲上中下三卷便以首昌相次不以<lb/>
+<pb n="KR4c0091_SBCK_000-1b"/>
+先雖則譏諷古人實欲裨補當代庶幾與大雅相近者也<lb/>
+　　　　　　　米公續序<lb/>
+余聞玉就琢而成器人從學以方知是乃車胤聚螢孫康<lb/>
+映雪毎思百氏爰及九流皆由博識於一時故得馨香於<lb/>
+千古余非士族跡本和門徒堅暗昧之材謬積討論之志<lb/>
+莫不采㝷往䇿歷覽前書黄帝方立史官蒼頡始爲文字<lb/>
+旣有墳籍可得而言近代前進士胡公名曽著詠史律詩<lb/>
+一百五十篇分爲三卷余自丱歳以來備甞諷誦可爲是<lb/>
+非㒺墜襃貶合儀酷究佳篇實深降歎管窺天而智小蠡<lb/>
+測海而理乖敢課顓愚逐篇評解用顯前賢之旨粗裨當<lb/>
+代之聞取誚髙明庶幾奉古云爾<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

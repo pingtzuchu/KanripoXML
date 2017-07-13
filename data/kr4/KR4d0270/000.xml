@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>放翁詩選</head>
+    <p>
+<pb n="KR4d0270_WYG_000-1a"/>
+欽定四庫全書　　　　集部四<lb/>
+　放翁詩選　　　　　　　别集類三<hi>宋</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案放翁詩選前集十巻後集八巻附<lb/>
+　　　　别集一巻宋羅椅劉辰翁所選陸㳺之詩也前<lb/>
+　　　　集椅所選元大徳辛丑其孫憼始刻之前有<lb/>
+　　　　憼自序後集辰翁所選前後無序跋椅間有<lb/>
+　　　　圏㸃而無評論辰翁則句下及篇末頗有附<lb/>
+<pb n="KR4d0270_WYG_000-1b"/>
+　　　　批大致與所評杜甫王維李賀諸集相似明<lb/>
+　　　　人刻辰翁評書九種是編不在其中葢偶未<lb/>
+　　　　見此本詳其詞意確為須溪門徑非偽托也<lb/>
+　　　　末有明人重刻舊跋蠧蝕斷爛㡬不可讀並<lb/>
+　　　　作者姓名亦莫辨其可辨者惟稱宏治某年<lb/>
+　　　　得於餘杭學究家屬其同年餘杭知縣冉孝<lb/>
+　　　　隆校刻之耳又稱放翁集抄本尚存然聞而<lb/>
+　　　　未嘗見獨羅澗谷劉須溪所選在勝國時書<lb/>
+<pb n="KR4d0270_WYG_000-2a"/>
+　　　　肆嘗合而梓行以故轉相抄録迄今漸出而<lb/>
+　　　　印本則見亦罕矣云云據其所言則兩人本<lb/>
+　　　　各自為選其前集後集之目葢元時坊賈所<lb/>
+　　　　追題矣跋又有複者去之之語故兩集所録<lb/>
+　　　　無一首重見末附為别集一巻不題編纂名<lb/>
+　　　　氏其詩皆見瀛奎律髓中以跋中取方虗谷<lb/>
+　　　　句推之知即作跋者所輯以補二集之遺其<lb/>
+　　　　中睡起至園中一首已見前集五巻中葢偶<lb/>
+<pb n="KR4d0270_WYG_000-2b"/>
+　　　　誤也劍南詩集汲古閣刻本今已盛行於世<lb/>
+　　　　然此選去取頗不苟又宋人舊本故以陳亮<lb/>
+　　　　歐陽文粹之例與本集並存之椅字子逺號<lb/>
+　　　　澗谷廬陵人寳祐四年進士以秉義郎為江<lb/>
+　　　　陵教官改潭州復知贑州信豐縣遷提轄𣙜<lb/>
+　　　　貨徳祐初遭論罷周宻齊東野語記其當道<lb/>
+　　　　學盛時依托求進道學勢衰之後遂棄去不<lb/>
+　　　　相聞問深不滿之明偶桓乾坤清氣集皆録<lb/>
+<pb n="KR4d0270_WYG_000-3a"/>
+　　　　元人之詩而有其幼輿折齒歌一首葢元初<lb/>
+　　　　尚存辰翁所著有評㸃班馬異同諸書已别<lb/>
+　　　　著録乾隆四十六年十月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="KR4d0270_WYG_000-4a"/>
+放翁詩選前集原序<lb/>
+揀着吟人苦心䖏吟時較易揀時難大父澗谷翁題趙<lb/>
+慶御手寫唐絶句結語也揀詩之難尚矣人謂刪後無<lb/>
+詩非果無性情也特未有刪手爾族孫夀可以翁所選<lb/>
+放翁陸先生詩刻本撫巻圭復涕淚盈睫悲夫善和書<lb/>
+巻存者僅十一於千百而家蔵膏馥盖流潤人間實多<lb/>
+有能思叔敖而繡諸梓真亢宗事也苐放翁天才豪邁<lb/>
+筆勢遒勁屬事比偶不煩䋲削是編若圏若㸃去取自<lb/>
+<pb n="KR4d0270_WYG_000-4b"/>
+有深意非後學所能測識謂之有取於陸集可也謂即<lb/>
+此以定陸集之刪削則未也然此特翁年少㳺戯細事<lb/>
+爾遺編殘墨尚足得聲梁楚間獨不知後来一變至道<lb/>
+亦有升堂入室而薫善良者否也手澤在笥願期同志<lb/>
+切磋之大德辛丑立夏日適孫憼百拜謹識<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

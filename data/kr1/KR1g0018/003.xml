@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="1a"/>
+經典稽疑後語<lb/>
+漢石經遺字者藏洛陽及長安人家葢靈帝熹平四年<lb/>
+所立其字則蔡邕小字八分書也其後屢經遷徙故散<lb/>
+落不存今所有者本數千字皆土壤埋没之餘摩滅而<lb/>
+僅存者爾據本傳稱邕以經籍去聖久逺文字多謬俗<lb/>
+儒穿鑿疑誤後學乃奏求正定六經文字自書册於碑<lb/>
+於是後儒晚學咸取正焉今石本既已摩滅而嵗久轉<lb/>
+寫日就訛舛以世所傳經書本校此遺字其不同者已<lb/>
+<pb n="1b"/>
+數百言又篇第亦時有小異使完本具存則其異同豈<lb/>
+勝數耶而後世學者於去古數千百嵗之後盡絀前代<lb/>
+諸儒之論欲以已之私意悉通其説難矣<hi>趙明誠金石録</hi>
+宦者汝陽李巡以為諸博士試甲乙科争第髙下更相<lb/>
+告言至有行賂定蘭臺漆書經字以合其私文者乃白<lb/>
+帝與諸儒共刻五經文於石於是詔蔡邕等正其文字<lb/>
+自後五經一定争者用息<hi>後漢書</hi>
+夫石經之前行賂定字石經之後遷徙散落則私意求<lb/>
+<pb n="2a"/>
+通信如徳甫之説故余不嫌固陋僭輯數條如右且巡<lb/>
+白靈帝使伯喈得行求正之志其有功經學誠足多也<lb/>
+因併識之丁亥夏五陳耀文書<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　經典稽疑卷下<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

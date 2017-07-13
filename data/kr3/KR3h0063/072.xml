@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3h0063_WYG_072-1a"/>
+欽定四庫全書<lb/>
+石渠寳笈卷三十五目録<lb/>
+　　　貯<lb/>
+　　御書房八<lb/>
+　　　無名氏<lb/>
+　　畫卷上等<lb/>
+　　　唐人洛神賦全圖<lb/>
+　　　五代人雪霽捕魚圖<lb/>
+<pb n="KR3h0063_WYG_072-1b"/>
+　　　宋人耆英㑹圖<lb/>
+　　　宋人胡笳十八拍圖<lb/>
+　　　宋人蠶織圖<lb/>
+　　　宋人摹顧凱之斵琴圖<lb/>
+　　　宋人畫九歌圖<lb/>
+　　　宋人西園雅集圖<lb/>
+　　　宋人錦江圖<lb/>
+　　　元人青山白雲圖<lb/>
+<pb n="KR3h0063_WYG_072-2a"/>
+　　　元人雪江漁艇圖<lb/>
+　　刻絲畫卷上等附<lb/>
+　　　趙昌花卉翎毛<lb/>
+　　　慶壽圖並米芾書<lb/>
+　　畫卷次等<lb/>
+　　　唐人畫女孝經圖<lb/>
+　　　五代人别苑春山圖<lb/>
+　　　宋延祐畫院鹵簿圖<lb/>
+<pb n="KR3h0063_WYG_072-2b"/>
+　　　宋院夲景德四圖<lb/>
+　　　元人畫竹<lb/>
+　　　元人奪錦標圖<lb/>
+　　　元人癅女圖<lb/>
+　　　明人百花圖<lb/>
+　　國朝人<lb/>
+　　畫卷上等<lb/>
+　　　吴歴雲白山青圖<lb/>
+<pb n="KR3h0063_WYG_072-3a"/>
+　　　王翬層巒曉色圖<lb/>
+　　　王原祁層巒茂樹圖<lb/>
+　　　王原祁富春山圖<lb/>
+　　畫卷次等<lb/>
+　　　邵彌載鶴圖<lb/>
+　　　王鐸花卉<lb/>
+　　　王原祁秋山書屋圖<lb/>
+　　　沈宗敬溪山深秀圖<lb/>
+<pb n="KR3h0063_WYG_072-3b"/>
+　　　王敬銘仿趙孟頫雲嶠長春圖<lb/>
+　　　赫奕烟樹山亭圖<lb/>
+　　　郎世寜百駿圖<lb/>
+　　　唐岱秋山不老圖<lb/>
+　　　李鱓四季花卉<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

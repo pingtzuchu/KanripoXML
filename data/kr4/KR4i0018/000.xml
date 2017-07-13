@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>石林詩話</head>
+    <p>
+<pb n="KR4i0018_WYG_000-1a"/>
+欽定四庫全書　　　　　集部九<lb/>
+　石林詩話　　　　　　　詩文評類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案石林詩話一巻宋葉夢得撰夢得<lb/>
+　　　　有春秋傳諸書已别著錄是書乃其平日論<lb/>
+　　　　詩之語其中推重王安石者不一而足而於<lb/>
+　　　　歐陽修詩一則摘其評河豚詩之誤一則摘<lb/>
+　　　　其語有不倫亦不復改一則摭其疑夜半鐘<lb/>
+<pb n="KR4i0018_WYG_000-1b"/>
+　　　　聲之誤於蘇軾一則譏其繁懣割愁之句為<lb/>
+　　　　險諢一則譏其捐三尺字及亂蛙兩部句為<lb/>
+　　　　歇後一則譏其失李廌一則譏其不能聽文<lb/>
+　　　　同一則譏其石建牏厠之誤皆有所抑揚於<lb/>
+　　　　其間盖夢得出蔡京之門而其壻章冲則章<lb/>
+　　　　惇之孫故于公論大明之後尚隂抑元祐諸<lb/>
+　　　　人然夢得詩文實南北宋間之巨擘其所評<lb/>
+　　　　論往往深中窽㑹終非他家聽聲之見隨人<lb/>
+<pb n="KR4i0018_WYG_000-2a"/>
+　　　　為是非者也乾隆四十二年五月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

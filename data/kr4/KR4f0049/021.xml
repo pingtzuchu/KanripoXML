@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4f0049_SBCK_021-1a"/>
+僕詩前集自甲午至已未凡二十六年僅編成八卷詞<lb/>
+二卷附焉已未至今辛未十二年來復次第成續集如<lb/>
+前之數豈中年以往之作工于少時邪自念齒髮已衰<lb/>
+日力可惜不忍割棄輒恕而存之幸生　盛際嬾迂多<lb/>
+疾無所託以自見惟此區區有韻之語曾繆役心脾世<lb/>
+有不以格調派別繩我者或位置僕于詩人之末不識<lb/>
+爲僕之桓譚者誰乎後綴詞一卷北樂府小令一卷則<lb/>
+年來因詞而及之雖乏酸甜風味或不至貽笑傖父面<lb/>
+目也樊榭老民厲鶚<lb/>
+<pb n="KR4f0049_SBCK_021-1b"/>
+</p>
+<p>
+序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

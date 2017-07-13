@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2a0029_WYG_266-1a"/>
+　舊五代史巻一百三十四考證<lb/>
+僭偽列傳一楊行宻傳乃追李璠等還　按通鑑作李<lb/>
+　璠至盱眙行宻發兵襲之郭言力戰得免與是書異<lb/>
+瑾與承嗣皆位至方伯　按九國志行宻承制授朱瑾<lb/>
+　泰寧軍節度使李承嗣振武軍節度使此云位至方<lb/>
+　伯似未明晰附識于此<lb/>
+楊溥傳渭渥之弟也　按渭歐陽史及通鑑皆作隆演<lb/>
+　惟是書作渭詳見通鑑考異<lb/>
+<pb n="KR2a0029_WYG_266-1b"/>
+李昪傳昪自云唐𤣥宗第六子永璘王之裔　按歐陽<lb/>
+　史昪自言唐憲宗子建王恪恪生超超生志志生榮<lb/>
+　自以為建王四世孫與是書異<lb/>
+王審知傳以潮為節度福建管内觀察使審知為副<lb/>
+　按王審知德政碑作詔授潮節度累加檢校右僕射<lb/>
+　無審知為副事<lb/>
+潮薨審知以譲其兄審邽　按王審知德政碑作仲兄<lb/>
+　審邦此作審邽當以碑為正<lb/>
+<pb n="KR2a0029_WYG_266-2a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2a0029_WYG_266-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　舊五代史巻一百三十四攷證<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

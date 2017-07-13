@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0034_SBCK_077-1a"/>
+樂府詩集巻第七十七<lb/>
+　　　　　　　太原　郭茂倩　編次<lb/>
+　　雜曲歌辭<lb/>
+　　　　春江行　梁簡文帝<lb/>
+　　　　　唐郭元振曰春江巴女曲也<lb/>
+客行祇念路相爭渡京口誰知堤上人拭淚空搖手<lb/>
+　　　　春江曲　郭元振<lb/>
+江水春沈沈上有雙竹林竹葉壞水色郞亦壞人心<lb/>
+　　　　同前　張　籍<lb/>
+春江無雲潮水平蒲心出水鳧雛鳴長干夫壻愛逺行<lb/>
+自染春衣縫已成妾身生長金陵側去年隨夫住江北<lb/>
+<pb n="KR4h0034_SBCK_077-1b"/>
+春來未到父母家舟小風多渡不得欲辭舅姑先問人<lb/>
+私向江頭祭水神<lb/>
+　　　　同前三首　張仲素<lb/>
+搖漾越江春相將看白蘋歸時不覺夜出浦月隨人<lb/>
+家寄征江岸征人幾嵗遊不知潮水信每日到沙頭<lb/>
+乘曉南湖去參差疊浪横前洲抂何處霧裏雁嚶嚶<lb/>
+　　　　江上曲　謝　眺<lb/>
+易陽春草出踟蹰日已草蓮葉尚田田淇水不可渡願<lb/>
+子淹桂舟時同千里路千里旣相許桂舟復容與江上<lb/>
+可采菱清歌共南楚<lb/>
+　　　　同前　李嘉祐<lb/>
+<pb n="KR4h0034_SBCK_077-2a"/>
+江上澹澹芙蓉花江口蛾睂獨浣沙可憐應是陽臺女<lb/>
+坐對鸕鷀嬌不語掩面羞看北地人囘首忽作空山雨<lb/>
+蒼梧秋色不堪論千載依依帝子魂君看峰上班班竹<lb/>
+盡是湘妃泣淚痕<lb/>
+　　　　江臯曲　王　融<lb/>
+林斷山㪅續洲盡江復開雲峰帝鄉起水源桐柏來<lb/>
+　　　　楊花曲　湯惠休<lb/>
+葳蕤華結情宛轉風含<graphic n="KR0736" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0736.png" mimeType="image/png"/>掩涕守春心折蘭還自遺江<lb/>
+南相<graphic n="KR0736" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0736.png" mimeType="image/png"/>引多歎不成音黄鶴西北去銜我千里心深堤<lb/>
+下生草髙城上入雲春人心生<graphic n="KR0736" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0736.png" mimeType="image/png"/>
+                    <graphic n="KR0736" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0736.png" mimeType="image/png"/>心長爲君<lb/>
+　　　　桃花曲　梁簡文帝<lb/>
+<pb n="KR4h0034_SBCK_077-2b"/>
+但使新花豔得間美人簪何須論後實怨結子瑕心<lb/>
+　　　　同前　顧　況<lb/>
+魏帝宮人舞鳳樓隋家天子泛龍舟君王夜醉春眠晏<lb/>
+不覺桃花逐水流<lb/>
+　　　　映水曲　范静妻沈氏<lb/>
+輕鬢學浮雲雙蛾擬初月水澄正落釵萍開理垂髮<lb/>
+　　　　登樓曲　范静妻沈氏<lb/>
+憑髙川陸近望逺阡陌多相思隔重嶺相憶限<hi>恨一作</hi>長<lb/>
+河<lb/>
+　　　　越城曲<lb/>
+别怨悽歌響離啼溼舞衣願假烏棲曲翻從南向飛<lb/>
+<pb n="KR4h0034_SBCK_077-3a"/>
+　　　　迎客曲　徐　勉<lb/>
+絲管列舞席陳含聲未奏待嘉賔羅絲管舒舞席斂袖<lb/>
+嘿脣迎上客<lb/>
+　　　　送客曲　徐　勉<lb/>
+袖繽紛聲委咽餘曲未終高駕别爵無算景已流空紆<lb/>
+長袖客不畱<lb/>
+　　　　送歸曲　吳　均<lb/>
+送子獨南歸攬衣空閔黙關山晝欲暗河冰夜向塞鷰<lb/>
+至他人鄉雁去還誰國寄子兩行書分朙達濟北<lb/>
+　　　　還臺樂　陸　瓊<lb/>
+蒲萄四時芳醇璢璃千鍾舊賓夜飲舞遲銷燭朝醒絃<lb/>
+<pb n="KR4h0034_SBCK_077-3b"/>
+促催人春風秋月恒好驩醉日月言新<lb/>
+　　　　芙蓉花　辛德源<lb/>
+洛神挺凝素文君拂豔紅麗質徒相比鮮彩兩難同光<lb/>
+臨照波日香隨出岸風渉江良自逺託意抂無窮<lb/>
+　　　　浮遊花<lb/>
+窗中斜日照池上落花浮若畏春風晚當思秉燭遊<lb/>
+　　　　芳林篇　桺　惲<lb/>
+芳林曄兮發朱榮時既晚兮隨風零隨風零兮返無期<lb/>
+安得陽華遺所思<lb/>
+　　　　上林　梁昭朙太子<lb/>
+千金騣䮍騎萬斤流水車争遊上林苑髙葢逗春蕐<lb/>
+<pb n="KR4h0034_SBCK_077-4a"/>
+　　　　夾樹　吳　均<lb/>
+桂樹夾長歧復值清風吹氛氳揉芳葉連綿交密枝能<lb/>
+迎春露㸃不逐秋風移願君長惠愛當使歳寒知<lb/>
+　　　　樹中草　梁簡文帝<lb/>
+幸有青袍色聊因翠幄凋雖間珊瑚蔕非是合歡條<lb/>
+　　　　同前　李　白<lb/>
+鳥銜野田草誤入枯桑裏客土植危根逢春猶不死草<lb/>
+木雖無情因依尚可生如何同枝葉各自有枯榮<lb/>
+　　　　同前　張　祜<lb/>
+青青樹中草託根非不危草生樹郤死榮枯君可知<lb/>
+　　　　城上<graphic n="KR0984" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0984.png" mimeType="image/png"/>　吳　均<lb/>
+<pb n="KR4h0034_SBCK_077-4b"/>
+<graphic n="KR0984" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0984.png" mimeType="image/png"/>生滿城頭<graphic n="KR0984" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0984.png" mimeType="image/png"/>葉落城溝<graphic n="KR0984" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0984.png" mimeType="image/png"/>莖左右披溝水東西流少<lb/>
+年感恩命奉劒事西周但令直心盡何用返封侯<lb/>
+　　　　燕燕于飛　江　總<lb/>
+　　　　　燕燕詩曰燕燕于飛差池其羽之子于歸<lb/>
+　　　　　逺送于野燕燕于飛葢出於此按燕燕本<lb/>
+　　　　　衛莊姜送歸妾之詩也若江總辭詠雙燕<lb/>
+　　　　　而已<lb/>
+二月春暉暉雙燕理毛衣銜花弄靃蘼拂葉隱芳菲或<lb/>
+在堂間戲多從幕上飛若作仙人履終向日南歸<lb/>
+　　　　錦石擣流黄　隋煬帝<lb/>
+漢使出燕然愁閨夜不眠易製<graphic n="KR0714" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0714.png" mimeType="image/png"/>燈下鳴砧秋月前今<lb/>
+<pb n="KR4h0034_SBCK_077-5a"/>
+夜長城下雪昬月應暗誰見倡樓前心悲不成慘<lb/>
+　　　　河曲遊　盧思道<lb/>
+鄴下盛風流河曲有名遊應徐託後乗車馬踐芳洲手<lb/>
+茸雞樹密遥裔鶴烟稠日上疑髙葢雲起類重樓金羈<lb/>
+自沃若蘭棹成夷猶懸匏動清吹采菱轉豔謳還珂響<lb/>
+金埒歸袂拂銅溝唯畏三春晚勿言千載憂<lb/>
+　　　　城南隅讌　盧思道<lb/>
+城南氣初新才王邀故人輕盈雲映日流亂鳥啼春花<lb/>
+飛北寺道絃散南漳濵舞動淮南袖歌揚齊后塵駢鑣<lb/>
+歇夜馬接軫限歸輪公孫飲彌月平原讌浹旬即是消<lb/>
+聲地何須逺避秦<lb/>
+<pb n="KR4h0034_SBCK_077-5b"/>
+　　　　喜春遊歌二首　隋煬帝<lb/>
+禁苑百花新佳期遊上春輕身趙皇后歌曲李夫人<lb/>
+歩緩知無力臉慢動餘嬌錦袖淮南舞寳袜楚宮腰<lb/>
+　　　　春遊吟　李　章<lb/>
+初春遍芳甸千里藹盈矚美人摘新英歩歩玩春綠所<lb/>
+思杳何處宛抂吳江曲可憐不得共芳菲日草歸來淚<lb/>
+滿衣<lb/>
+　　　　春遊樂　施肩吾<lb/>
+一年三百六十日賞心那似春中物草迷曲塢花滿園<lb/>
+東家少年西家出<lb/>
+　　　　同前二首　李　端<lb/>
+<pb n="KR4h0034_SBCK_077-6a"/>
+遊童蘇合帶倡女蒲葵扇初日映城時相思忽相見褰<lb/>
+裳踏露草理鬢囘花面薄草不同歸畱情此芳甸<lb/>
+柘彈連錢馬銀鉤妥堕鬟採桑春陌上踏草夕陽間意<lb/>
+合詞先露心誠貌郤閑朙朝若相憶雲雨出巫山<lb/>
+　　　　春遊曲三首　張仲素<lb/>
+煙桺飛輕絮風榆落小錢濛濛百花裏羅綺競鞦韆<lb/>
+騁望登香閣争髙下砌臺林間踏青去席上意錢來<lb/>
+行樂三春節林花百和香當年重意氣先佔鬬雞場<lb/>
+　　　　樂府　古　辭<lb/>
+行胡從何方列國持何來氍毺㲮<graphic n="KR1674" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1674.png" mimeType="image/png"/>五木香迷迭艾蒳<lb/>
+及都梁<lb/>
+<pb n="KR4h0034_SBCK_077-6b"/>
+　　　　同前　魏朙帝<lb/>
+種瓜東井上冉冉自踰垣與君新為㛰瓜葛相結連寄<lb/>
+託不肖軀有如倚太山兔絲無根株蔓延自登縁萍藻<lb/>
+託清流常恐身不全被蒙丘山惠賤妾執拳拳天日照<lb/>
+知之想君亦俱然<lb/>
+　　　　同前二首　劉言史<lb/>
+花頷紅騣一向偏緑槐香陌欲朝天仍嫌衆裏嬌行疾<lb/>
+傍鐙深藏白玉鞭<lb/>
+噴珠團香小桂條玉鞭兼賜霍嫖姚弄影便從天禁出<lb/>
+碧蹄聲碎五門橋<lb/>
+　　　　同前　顧　況<lb/>
+<pb n="KR4h0034_SBCK_077-7a"/>
+暖谷春光至宸遊近甸榮雲隨天仗轉風入御簾輕翠<lb/>
+葢浮佳氣朱樓倚太清朝臣冠劒退宮女管絃迎細草<lb/>
+承雕輦繁花入幔城文房開聖武藻衛宿天營玉醴隨<lb/>
+觴至銅壺逐漏行五星含土德萬姓徹中聲親祀先崇<lb/>
+典躬推示勸耕國風新正樂農器近消兵道德關河固<lb/>
+刑章日月朙野人同鳥獸率舞感昇平<lb/>
+　　　　同前　權德興<lb/>
+光風澹蕩百花吐樓上朝朝學歌舞身年二八壻侍中<lb/>
+㓜妹承恩兄尚主緑牕珠箔繡鴛鴦侍婢先焚百和香<lb/>
+鶯啼日出不知曙寂寂羅幃春夢長<lb/>
+　　　　同前三首　孟　郊<lb/>
+<pb n="KR4h0034_SBCK_077-7b"/>
+蓮子不可得荷花生水中猶勝道傍桺無事<hi>時一作</hi>蕩春<lb/>
+風<lb/>
+渌萍與荷葉同此一水中風吹荷葉在渌萍西復東<lb/>
+蓮花未開時苦心終日卷春水<hi>風一作</hi>徒蕩漾荷花未開<lb/>
+展<lb/>
+　　　　同前　陸長源<lb/>
+芙蓉初出水<graphic n="KR1341" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1341.png" mimeType="image/png"/>蓞露中花風吹著枯木無奈值空槎<lb/>
+　　　　雜曲二首　王　筠<lb/>
+鳥<hi>烏一作</hi>還夜已逼蟲飛曉尚賒桂月徒畱影蘭臺空結<lb/>
+花<lb/>
+可憐洛城東芳樹揺春風丹霞映白日細雨帶輕虹<lb/>
+<pb n="KR4h0034_SBCK_077-8a"/>
+　　　　同前　傅　縡<lb/>
+新人新寵住蘭堂翠帳金屛玳瑁牀叢星不如珠簾色<lb/>
+度月還如<hi>似一作</hi>粉壁光從來著名推趙子復有丹脣發<lb/>
+皓齒一嬌一態本難逢如畫如花定相似樓臺宛轉曲<lb/>
+皆通絃管逶迤徹下風此殿笑語恒長共傍省歡娛不<lb/>
+復同訝許人情太厚薄分恩賦念能斟酌多作繡被為<lb/>
+鴛鴦長弄綺琴憎别鶴人今投寵要須堅㑹使嵗寒恒<lb/>
+度前共取辰星作心抱無轉無移千萬年<lb/>
+　　　　同前　徐　陵<lb/>
+傾城得意已無儔洞房連閣未消愁宮中本造鴛鴦殿<lb/>
+為誰新起鳳凰樓緑黛紅顔兩相發千嬌百念情無歇<lb/>
+<pb n="KR4h0034_SBCK_077-8b"/>
+舞衫廻袖勝春風歌扇當窗似秋月碧玉宮妓自翩妍<lb/>
+絳樹新聲自<hi>最一作</hi>可憐張星舊抂天河上猶來張姓本<lb/>
+連天二八年時不憂度傍邉得寵誰應<hi>相一作</hi>妬立春歷<lb/>
+日自當新正月春幡底頭故流蘇錦帳挂香囊織成羅<lb/>
+幌隠燈光只應私將琥珀枕暝暝來上珊瑚牀<lb/>
+　　　　同前三首　江　總<lb/>
+行行春逕蘼蕪緑織素那復解琴心乍愜南階悲緑草<lb/>
+誰堪東陌怨黄金紅顔素月俱三五夫壻何抂今追虜<lb/>
+關山隴月春雪冰誰見人啼花照戸<lb/>
+殿内一處起金房倂勝餘人白玉堂珊瑚挂鏡臨網戸<lb/>
+芙蓉作帳照雕梁房櫳宛轉垂翠幕佳麗逶迤隠珠箔<lb/>
+<pb n="KR4h0034_SBCK_077-9a"/>
+風前花管颺難畱舞處花鈿低不落陽臺通夢太非真<lb/>
+洛浦凌波復不新曲中唯聞張女曲定有同姓可憐人<lb/>
+但願私情賜斜領不願傍人相比竝妾門逢春自可榮<lb/>
+君面未秋何意冷<lb/>
+泰山言應可轉移新寵不信㪅參差合歡錦帶鴛鴦鳥<lb/>
+同心綺袖連理枝皎皎新秋朙月開早露飛螢暗裏來<lb/>
+鯨燈落花殊未盡虬水銀箭莫相催非是神女期河漢<lb/>
+别有仙姬入吹臺未眠解著同心結欲醉那堪連理杯<lb/>
+後宮不愜茱茰芳夜夜争開蘇合房寶釵翠鬢還相似<lb/>
+朱脣玉面非一行新人未語言如澀新寵無前判不臧<lb/>
+願奉㪅衣蘭麝氣恐君馬到自驚香<lb/>
+<pb n="KR4h0034_SBCK_077-9b"/>
+　　　　同前　王　勃<lb/>
+智瓊神女來訪文君蛾睂始約羅袖初薰歌齊曲韻舞<lb/>
+亂行分若向陽臺薦枕何啻得勝朝雲<lb/>
+　　　　古曲　陳後主<lb/>
+桂鉤影桂枝開紫綺袖逐風廻日朙珠色偏亮葉盡衫<lb/>
+香㪅來<lb/>
+　　　　同前　王　襃<lb/>
+青樓臨大道遊俠盡淹畱陳王金被馬秦女桂為鉤馳<lb/>
+輪洛陽巷鬭雞南陌頭薄草風塵起聊為清夜遊<lb/>
+　　　　同前五首　施肩吾<lb/>
+可憐江北女慣唱江南曲揺落木蘭舟雙鳧不成浴<lb/>
+<pb n="KR4h0034_SBCK_077-10a"/>
+郎為匕上香妾為籠上灰歸時雖暖熱去罷生塵埃<lb/>
+夜裁鴛鴦綺朝織蒲桃綾欲試一寸心待縫三尺冰<lb/>
+憐時魚得水怨罷商與參不如山支子卻解結同心<lb/>
+紅顔感草花白日同流水思君如孤燈一夜一心死<lb/>
+樂府詩集巻第七十七<lb/>
+　　　　　　　東吳毛晉訂正　男扆再訂<lb/>
+<pb n="KR4h0034_SBCK_077-10b"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

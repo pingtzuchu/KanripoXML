@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>施註蘇詩序</head> <lb/>
+    <p>
+<pb n="KR4d0080_WYG_004-1a"/>
+欽定四庫全書<lb/>
+　施註蘇詩序<lb/>
+古今詩人之總萃唐則子美宋則子瞻顧兩家箋註之<lb/>
+難前軰屢言之先大人常取杜詩千家註疏瀹剔抉殫<lb/>
+二十年之力屢易稿而後成宋中丞漫堂先生為序以<lb/>
+行世若東坡詩註惟永嘉王氏之書盛行而踳駮迭見<lb/>
+識者譏焉余少時讀渭南集知有吴興施司諫所註蘇<lb/>
+詩毎購之而不可得意當世巳無其書獨時取放翁序<lb/>
+<pb n="KR4d0080_WYG_004-1b"/>
+讀之因以窺見作者用意之深與後人發眀之不易而<lb/>
+司諫之書愈往来余心矣漫堂獲宋槧本於吴中舊家<lb/>
+其間闕軼凡十二巻乃屬門人子弟訂補之盡抉永嘉<lb/>
+之瑕纇而亦間採其菁英以助施氏之闕遺余讀之心<lb/>
+開目張為之狂喜盖施氏體宗編年一洗永嘉分類之<lb/>
+陋而援引必著書名詮詁不乖本事又於註題之下務<lb/>
+闡詩㫖引事徴詩因詩存人使讀者得以考見當日之<lb/>
+情事與少陵詩史同條共貫洵乎其有功玉局而度越<lb/>
+<pb n="KR4d0080_WYG_004-2a"/>
+梅溪也漫堂宏材博識儒雅風流翹然為今代之子瞻<lb/>
+畫㦸凝香賞奇汲古獨與眉山曠世相感宜其睠睠於<lb/>
+是書而余亦得見所未見以償夙昔之䫟不誠厚幸哉<lb/>
+後之學者因註而得其詩因詩而得其人毋沾沾焉考<lb/>
+爾雅之魚蟲拾離騷之香草為誇多鬬靡之具也夫少<lb/>
+陵自許稷契志不忘君東坡忠規讜論挺挺大節其人<lb/>
+皆百世之師光燄萬丈不可磨滅所謂詩外尚有事在<lb/>
+者資其言語文章以為髙山景行知註之不可遺兼知<lb/>
+<pb n="KR4d0080_WYG_004-2b"/>
+註之不可泥則兩得之矣斯固曩者先大人讀杜之微<lb/>
+意而亦今日漫堂先生表章蘇氏之盛心歟余承命獲<lb/>
+與挍讎竊幸挂名其間為序其大槩如此若夫補亡訂<lb/>
+誤援據精核則毘陵邵子湘之力為多云康熙庚辰上<lb/>
+巳日滏陽張榕端序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>隋文紀</head>
+    <p>
+<pb n="KR4h0130_WYG_000-1a"/>
+欽定四庫全書　　　　集部八<lb/>
+　隋文紀　　　　　　　　總集類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案隋文紀八巻明梅鼎祚編隋氏混<lb/>
+　　　　一南北凡齊周之故老梁陳之舊臣咸薈稡<lb/>
+　　　　一朝成文章之總滙而人沿舊習風尚各殊<lb/>
+　　　　故著作之林不名一格四十餘載竟不能自<lb/>
+　　　　為體裁又世傳小説唐代為多而仁夀大業<lb/>
+<pb n="KR4h0130_WYG_000-1b"/>
+　　　　去唐最近遺篇瑣語真贋相參不能無所附<lb/>
+　　　　會故鼎祚所録此集又最糅雜其中如隋遺<lb/>
+　　　　録開河記迷樓記海山記大業拾遺記皆出<lb/>
+　　　　依託而王度古鏡記尢為迂怪不經搜神異<lb/>
+　　　　苑之末流暌車夷堅之先路豈可登之總集<lb/>
+　　　　自穢其書又如甲秀堂帖載煬帝跋曹子建<lb/>
+　　　　墨迹唐以来收藏賞鑒皆所未聞詞㫖凡庸<lb/>
+　　　　顯出近代而一概闌入未免失于鑒裁至于<lb/>
+<pb n="KR4h0130_WYG_000-2a"/>
+　　　　唐髙祖太宗褚亮李靖陳叔達温大雅魏徵<lb/>
+　　　　諸人不繫于隋無煩擬議乃以其文作于隋<lb/>
+　　　　末遂爾兼收而李徳林代静帝之詔作於周<lb/>
+　　　　時顔之推請考樂之奏上於梁代前則文隨<lb/>
+　　　　人編後則人隨文列揆以斷限厥例安居若<lb/>
+　　　　文帝復姓令之誤采史文李徳林之修定五<lb/>
+　　　　禮詔題為文帝祖君彦移郡縣書與袁子幹<lb/>
+　　　　書魏徵與郇王慶書皆題為李宻孔徳昭遺<lb/>
+<pb n="KR4h0130_WYG_000-2b"/>
+　　　　秦王書題為竇建徳以及罪蜀王秀文已見<lb/>
+　　　　一巻復見二巻戴逵皇太子箴已見五巻復<lb/>
+　　　　見七巻又諸集之通病在所不論矣八巻之<lb/>
+　　　　末載梁神洊等十二人葢鼎祚文紀以此集<lb/>
+　　　　為終神洊等時代未詳故統附於此合觀所<lb/>
+　　　　録雖牴牾罅漏巻巻有之然上起古初下窮<lb/>
+　　　　八代旁搜博采薈合成編使唐以前之文章<lb/>
+　　　　源委相承粲然可考斯實萟苑之大觀其功<lb/>
+<pb n="KR4h0130_WYG_000-3a"/>
+　　　　亦不為過掩矣鼎祚尚編有釋文紀裒集唐<lb/>
+　　　　以前禪觀之文較𢎞明集𢎞明續集尢為賅<lb/>
+　　　　博別著録子部釋家類中兹不列焉乾隆四<lb/>
+　　　　十五年四月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

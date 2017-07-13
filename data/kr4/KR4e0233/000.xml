@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>忠介燼餘集</head>
+    <p>
+<pb n="KR4e0233_WYG_000-1a"/>
+欽定四庫全書　　　　　集部六<lb/>
+　忠介燼餘集　　　　　　别集類五<hi>明</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案忠介燼餘集三巻明周順昌撰順<lb/>
+　　　　昌字景文號蓼州吳縣人萬厯癸丑進士官<lb/>
+　　　　至吏部文選司郎中以忤魏忠賢為所羅織<lb/>
+　　　　逮治拷掠殺之於獄崇禎初追諡忠介事蹟<lb/>
+　　　　具明史本傳初順昌被逮時篋衍著作頗多<lb/>
+<pb n="KR4e0233_WYG_000-1b"/>
+　　　　倉卒間為友人投火滅跡後其子茂蘭遇片<lb/>
+　　　　紙隻字必摹而勒之石至其孫靖復從戚友<lb/>
+　　　　家搜録成集故名燼餘凡三巻一巻為紀事<lb/>
+　　　　公移二巻為尺牘三巻為雜文及詩而以尋<lb/>
+　　　　聲譜附焉尋聲譜者當萬厯乙夘順昌在閩<lb/>
+　　　　中常以詩扇寄鹿善繼其後扇失而詩猶為<lb/>
+　　　　馬潔所記憶崇禎甲戌善繼與潔暨孫竒逢<lb/>
+　　　　輩詠其事録而為譜<lb/>
+<pb n="KR4e0233_WYG_000-2a"/>
+　　　國朝康熙間竒逢門人湯斌巡撫江蘇以譜貽<lb/>
+　　　　靖附刻集後詳見靖跋語中順昌氣節盖世<lb/>
+　　　　本不以文章見長且收拾于灰滅之餘大都<lb/>
+　　　　案牘簡劄隨手酬應之文非所經意然其隱<lb/>
+　　　　憂國事崇尚名檢忠憤激發之氣時流露于<lb/>
+　　　　楮墨間尚足以㢘頑立懦觀區區題扇一詩<lb/>
+　　　　異代且珍重傳之則是集什一僅存固未可<lb/>
+　　　　聴其湮沒矣乾隆四十六年四月恭校上<lb/>
+<pb n="KR4e0233_WYG_000-2b"/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>歸田稿</head>
+    <p>
+<pb n="KR4e0132_WYG_000-1a"/>
+欽定四庫全書　　　　　　集部六<lb/>
+　歸田稿　　　　　　　　　别集類五<hi>明</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案歸田稿八巻明謝遷撰遷字于喬<lb/>
+　　　　餘姚人成化乙未賜進士第一授修撰厯官<lb/>
+　　　　户部尚書謹身殿大學士贈太傅諡文正事<lb/>
+　　　　蹟具明史本傳遷之在内閣也與劉健李東<lb/>
+　　　　陽同心輔政史稱其秉節直諒見事明敏天<lb/>
+<pb n="KR4e0132_WYG_000-1b"/>
+　　　　下稱為賢相庶乎能以道事君者其文集全<lb/>
+　　　　稿以嘉靖中倭亂被燬此乃其致仕以後及<lb/>
+　　　　再召時所作自題曰歸田稿以授其子至者<lb/>
+　　　國朝康熙中其七世孫大名府同知鍾和復加<lb/>
+　　　　釐輯梓而傳之集中奏疏類多晚年陳謝之<lb/>
+　　　　作而在朝時嘉謨讜論均已亡佚無存即以<lb/>
+　　　　史所稱請罷選妃嬪禁約内官諸疏卓卓最<lb/>
+　　　　著者而亦不在其閒則其散失者當復不少<lb/>
+<pb n="KR4e0132_WYG_000-2a"/>
+　　　　然遷當歸里以後正劉瑾焦芳等挾怨修郄<lb/>
+　　　　日在危疑震撼之中而所作詩文大抵詞旨<lb/>
+　　　　和平惟惓惓焉托江湖魏闕之思以冀其君<lb/>
+　　　　之一悟老臣憂國之心實有流溢於不自覺<lb/>
+　　　　者讀者知其忠悃所存固毋庸以文字之工<lb/>
+　　　　拙論矣乾隆四十四年七月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

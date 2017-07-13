@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3k0047_WYG_014-1a"/>
+　　總記<lb/>
+應城陳氏姓觽云晉書有萇從簡五代史亦有萇從簡<lb/>
+名疑云黄帝臣有風后夏禹時亦有風后黄帝臣有扁<lb/>
+鵲善醫戰國時亦有扁鵲善醫黄帝臣有伍胥楚亦有<lb/>
+伍胥逸民有朱張後漢亦有朱張<hi>字孫卿</hi>六國有樓緩而<lb/>
+漢淮南王臣亦有樓緩秦末有田疇而三國魏亦有田<lb/>
+疇漢荆州太守有巨武而苻堅將亦有巨武王氏宛委<lb/>
+餘編云僧有兩智永一為晉書僧一為宋畵僧五代有<lb/>
+<pb n="KR3k0047_WYG_014-1b"/>
+兩王彦章一梁大將為後唐所擒一吴統軍為楚所擒<lb/>
+唐則天時有兩王方慶一為相一為尚藥奉御唐昭宗<lb/>
+時有兩李繼昭一本孫德昭一本符道昭俱賜姓名降<lb/>
+朱梁為使相巵言云南朝有兩劉琨文人有兩蘇子卿<lb/>
+此皆前錄所未載者<lb/>
+　湘東王有同姓名錄一卷今其書不傳余僧杲廣為<lb/>
+　四卷詳矣予捜而補之復得若干人蓋以成僧杲之<lb/>
+　志爾其諸盜賊不錄異域不錄名位不顯行業無聞<lb/>
+<pb n="KR3k0047_WYG_014-2a"/>
+　者不錄至於漢唐宗室重複者多要無闗於臧否亦<lb/>
+　所畧也觀者當自得之四明周應賔識<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

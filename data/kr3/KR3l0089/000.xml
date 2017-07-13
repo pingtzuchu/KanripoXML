@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>何氏語林</head>
+    <p>
+<pb n="KR3l0089_WYG_000-1a"/>
+欽定四庫全書　　　　　子部十二<lb/>
+　何氏語林　　　　　　　小説家𩔖一雜事之屬<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案何氏語林三十卷明何良俊撰良<lb/>
+　　　　俊有四友齋叢説己著錄是編因晉裴啟語<lb/>
+　　　　林之名其義例門目則全以劉義慶世説新<lb/>
+　　　　語為藍本而雜採宋齊以後事迹續之併義<lb/>
+　　　　慶原書共得二千七百餘條其簡汰頗為精<lb/>
+<pb n="KR3l0089_WYG_000-1b"/>
+　　　　審其採掇舊聞翦裁鎔鑄具有簡澹雋雅之<lb/>
+　　　　致視偽本李垕續世説剽掇南北二史冗杳<lb/>
+　　　　擁腫徒盈卷帙者乃轉勝之每條之下又仿<lb/>
+　　　　劉孝標例自為之注亦頗為博贍其間摭拾<lb/>
+　　　　既富間有牴牾如王世懋讀史訂疑所謂以<lb/>
+　　　　王莽時之陳咸為漢成帝時之陳咸者固所<lb/>
+　　　　不免然于諸書舛互實多訂正如第二十二<lb/>
+　　　　卷紀元載妻王韞秀事援引考證亦未嘗不<lb/>
+<pb n="KR3l0089_WYG_000-2a"/>
+　　　　極確核雖未能抗駕臨川並驅千古要其語<lb/>
+　　　　有根柢終非明人小説所可比也乾隆四十二<lb/>
+　　　　年二月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="KR3l0089_WYG_000-3a"/>
+欽定四庫全書　　　　　子部十二<lb/>
+　語林目録　　　　　　　小説家𩔖一<hi>雜事之屬</hi>
+　　卷一<lb/>
+　　　徳行上<lb/>
+　　卷二<lb/>
+　　　徳行<hi>中</hi>
+　　卷三<lb/>
+　　　徳行<hi>下</hi>
+<pb n="KR3l0089_WYG_000-3b"/>
+　　卷四<lb/>
+　　　言語<hi>上</hi>
+　　卷五<lb/>
+　　　言語<hi>下</hi>
+　　卷六<lb/>
+　　　政事<lb/>
+　　卷七<lb/>
+　　　文學<hi>上</hi>
+<pb n="KR3l0089_WYG_000-4a"/>
+　　卷八<lb/>
+　　　文學<hi>中</hi>
+　　卷九<lb/>
+　　　文學<hi>下</hi>
+　　卷十<lb/>
+　　　言志<hi>上</hi>
+　　卷十一<lb/>
+　　　言志<hi>下</hi>
+<pb n="KR3l0089_WYG_000-4b"/>
+　　卷十二<lb/>
+　　　方正<hi>上</hi>
+　　卷十三<lb/>
+　　　方正<hi>下</hi>
+　　卷十四<lb/>
+　　　雅量<lb/>
+　　卷十五<lb/>
+　　　識鑒<lb/>
+<pb n="KR3l0089_WYG_000-5a"/>
+　　卷十六<lb/>
+　　　賞譽<hi>上</hi>
+　　卷十七<lb/>
+　　　賞譽<hi>下</hi>
+　　卷十八<lb/>
+　　　品藻<lb/>
+　　卷十九<lb/>
+　　　箴規<lb/>
+<pb n="KR3l0089_WYG_000-5b"/>
+　　卷二十<lb/>
+　　　棲逸<lb/>
+　　卷二十一<lb/>
+　　　㨗悟　　　　博識　　　　豪爽<lb/>
+　　卷二十二<lb/>
+　　　夙恵　　　　賢媛　　　　容止<lb/>
+　　卷二十三<lb/>
+　　　自新　　　　術觧　　　　巧藝<lb/>
+<pb n="KR3l0089_WYG_000-6a"/>
+　　卷二十四<lb/>
+　　　企羨　　　　寵禮　　　　傷逝<lb/>
+　　卷二十五<lb/>
+　　　任誕<lb/>
+　　卷二十六<lb/>
+　　　簡傲<lb/>
+　　卷二十七<lb/>
+　　　排調<lb/>
+<pb n="KR3l0089_WYG_000-6b"/>
+　　卷二十八<lb/>
+　　　輕詆<lb/>
+　　卷二十九<lb/>
+　　　假譎　　　　黜免　　　儉嗇<lb/>
+　　　侈汰　　　　忿狷　　　讒險<lb/>
+　　卷三十<lb/>
+　　　尤悔　　　　紕漏　　　惑溺<lb/>
+　　　仇隙<lb/>
+<pb n="KR3l0089_WYG_000-7a"/>
+語林原序<lb/>
+何氏語林三十卷吾友何元朗氏之所編類倣劉氏世<lb/>
+說而作也初劉義慶氏採擷漢晉以来理言遺事論次<lb/>
+為書摽表揚㩁奕奕𤣥勝自兹以還稗官小說無慮百<lb/>
+數而此書特為雋永精深竒逸莫或繼之元朗雅好其<lb/>
+書研尋演繹積有嵗年捜覽篇籍思企芳躅昉自兩<lb/>
+漢迄扵宋元下上千餘年正史所列𫝊記所存竒蹤勝<lb/>
+踐漁獵靡遺凡二千七百餘事捴十餘萬言𩔖列義例<lb/>
+<pb n="KR3l0089_WYG_000-7b"/>
+一惟劉氏之舊而凡劉所已見則不復書品目臚分雖<lb/>
+三十有八而原情執要寔惟語言為宗單詞隻句往<lb/>
+往令人意消思致淵永足深唱嘆誠亦至理攸寓文學<lb/>
+行義之淵也而或者以為摭裂委𤨏無所取裁骫骳偏<lb/>
+駮獨䏻發藻飾詞扵道徳性命無所發眀嗚呼事理無<lb/>
+窮學奚厎極理或不眀固不足以探性命之藴而辭<lb/>
+有不達道何從見是故博學詳說聖訓攸先修辭立誠<lb/>
+蓄徳之源也宋之末季學者牽扵性命之說深中厚<lb/>
+<pb n="KR3l0089_WYG_000-8a"/>
+黙端居無為謂足以涵養性真變化氣質而考厥所<lb/>
+存多可議者是雖師授淵源惑扵所見亦惟簡便日趨<lb/>
+偷薄自畫假美言以䕶所不足甘扵面墻而不自知其<lb/>
+堕扵庸劣焉爾嗚呼翫物䘮志之一言遂為後學之深<lb/>
+痼君子盖嘗惜之元朗扵此真能不為所惑哉元朗貫<lb/>
+綜深愽文詞粹精見諸論撰偉麗淵宏足自名世此<lb/>
+書特其緒餘耳輔談式藝要亦不可以無𫝊也辛亥四<lb/>
+月之望文徴眀書<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

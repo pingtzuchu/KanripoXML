@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3a0110_WYG_022-1a"/>
+欽定四庫全書<lb/>
+御覽經史講義卷十六目録<lb/>
+　　　詩經<lb/>
+　　民之質矣日用飲食羣黎百姓徧為爾徳<lb/>
+　　　　　　　　　　　　　編修<hi>臣</hi>徐文煜<lb/>
+　　　　　　　　　　　　　編修<hi>臣</hi>羅源漢<lb/>
+　　民之質矣日用飲食<lb/>
+　　　　　　　　　　　　　修撰<hi>臣</hi>金　甡<lb/>
+<pb n="KR3a0110_WYG_022-1b"/>
+　　　　　　　　　　　　　編修<hi>臣</hi>徐　瑋<lb/>
+　　我車既攻我馬既同四牡龐龐駕言徂東田車既<lb/>
+　　　好四牡孔阜東有甫草駕言行狩之子于苖選<lb/>
+　　　徒囂囂建旐設旄摶獸于敖駕彼四牡四牡奕<lb/>
+　　　奕赤芾金舄會同有繹决拾既佽弓矢既調射<lb/>
+　　　夫既同助我舉柴四黄既駕兩驂不猗不失其<lb/>
+　　　馳舍矢如破蕭蕭馬鳴悠悠斾旌徒御不驚大<lb/>
+　　　庖不盈之子于征有聞無聲允矣君子展也大<lb/>
+<pb n="KR3a0110_WYG_022-2a"/>
+　　　成<lb/>
+　　　　　　　　　　　監察御史<hi>臣</hi>沈世楓<lb/>
+　　鴻鴈美宣王也萬民離散不安其居而能勞來還<lb/>
+　　　定安集之至于矜寡無不得其所焉<lb/>
+　　　　　　　　　　　　　編修<hi>臣</hi>王會汾<lb/>
+　　鶴鳴于九臯聲聞于野魚潛在淵或在于渚樂彼<lb/>
+　　　之園爰有樹檀其下維蘀他山之石可以為錯<lb/>
+　　　鶴鳴于九臯聲聞于天魚在于渚或潛在淵樂<lb/>
+<pb n="KR3a0110_WYG_022-2b"/>
+　　　彼之園爰有樹檀其下維榖他山之石可以攻<lb/>
+　　　玉<lb/>
+　　　　　　　　　　　　　檢討<hi>臣</hi>張鵬翀<lb/>
+　　鶴鳴于九臯聲聞于野魚潛在淵或在于渚<lb/>
+　　　　　　　　　　　監察御史<hi>臣</hi>髙景蕃<lb/>
+　　莫髙匪山莫浚匪泉君子無易由言耳屬于垣<lb/>
+　　　　　　　　　　　監察御史<hi>臣</hi>陳　仁<lb/>
+　　靖共爾位正直是與<lb/>
+<pb n="KR3a0110_WYG_022-3a"/>
+　　　　　　　　　　　監察御史<hi>臣</hi>張　湄<lb/>
+　　信彼南山維禹甸之畇畇原隰曽孫田之我疆我<lb/>
+　　　理南東其畝<lb/>
+　　　　　　　　　　　　給事中<hi>臣</hi>衛廷璞<lb/>
+　　我疆我理南東其畝<lb/>
+　　　　　　　　　　　　　編修<hi>臣</hi>湯大紳<lb/>
+　　　　　　　　　　　　給事中<hi>臣</hi>汪　榯<lb/>
+　　　　　　　　　　　監察御史<hi>臣</hi>馬　燝<lb/>
+<pb n="KR3a0110_WYG_022-3b"/>
+　　倬彼甫田歲取十千我取其陳食我農人自古有<lb/>
+　　　年今適南畝或耘或耔黍稷薿薿攸介攸止烝<lb/>
+　　　我髦士<lb/>
+　　　　　　　　　　　監察御史<hi>臣</hi>馬　燝<lb/>
+　　我取其陳食我農人自古有年<lb/>
+　　　　　　　　　　　　　編修<hi>臣</hi>馮　祁<lb/>
+　　曽孫來止以其婦子饁彼南畝田畯至喜攘其左<lb/>
+　　　右嘗其㫖否禾易長畝終善且有曽孫不怒農<lb/>
+<pb n="KR3a0110_WYG_022-4a"/>
+　　　夫克敏<lb/>
+　　　　　　　　　　　　給事中<hi>臣</hi>羅鳳彩<lb/>
+　　大田多稼既種既戒既備乃事以我覃耜俶載南<lb/>
+　　　畝播厥百榖既庭且碩曽孫是若<lb/>
+　　　　　　　　　　　　　檢討<hi>臣</hi>吴　泰<lb/>
+　　大田多稼既種既戒既備乃事<lb/>
+　　　　　　　　　　　監察御史<hi>臣</hi>馬　燝<lb/>
+　　有渰萋萋興雨祁祁雨我公田遂及我私彼有不<lb/>
+<pb n="KR3a0110_WYG_022-4b"/>
+　　　穫穉此有不斂穧彼有遺秉此有滯穂伊寡婦<lb/>
+　　　之利<lb/>
+　　　　　　　　　　　　　編修<hi>臣</hi>王　錦<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

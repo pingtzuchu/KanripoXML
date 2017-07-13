@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>詩傳詩説駁義</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　　經部三<lb/>
+　詩傳詩説駁義　　　　　詩類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案詩傳詩説駁義五卷<lb/>
+　　　國朝毛竒齡撰明嘉靖中鄞人豐坊作魯詩世<lb/>
+　　　　學一書往往自出新義得解於舊註之外恐<lb/>
+　　　　其説之不信遂託言家有魯詩為其逺祖稷<lb/>
+　　　　所傳一為子貢詩傳一為申培詩説並列所<lb/>
+<pb n="1b"/>
+　　　　作世學中厥後郭子章傳刻二書自稱得黄<lb/>
+　　　　佐所藏秘閣石本於是二書乃單行明代説<lb/>
+　　　　詩諸家以其言往往近理多採用之遂盛傳<lb/>
+　　　　於時竒齡因其託名於古乃引證諸書以紏<lb/>
+　　　　之夫易傳託之於子夏書傳託之於孔安國<lb/>
+　　　　其説之可取者皆行於世其源流授受則説<lb/>
+　　　　經之家務核其真竒齡是書不以其説為可<lb/>
+　　　　廢而於依託之處則一一辨之亦可謂持平<lb/>
+<pb n="2a"/>
+　　　　　之論矣乾隆四十六年十月恭校上<lb/>
+　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　　　總　校　官　<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

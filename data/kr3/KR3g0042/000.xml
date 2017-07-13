@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>三命通會</head>
+    <p>
+<pb n="KR3g0042_WYG_000-1a"/>
+欽定四庫全書　　　　　子部七<lb/>
+　三命通會　　　　　　　術數類五<hi>命書相書之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案三命通會十二巻原本不著撰人<lb/>
+　　　　姓名巻首但題育吾山人著明史藝文志有<lb/>
+　　　　萬民育三命會通十二巻與此本卷數相合<lb/>
+　　　　惟以通會作會通為稍異今考世所傳星學<lb/>
+　　　　大成專論五星者為萬民英所撰己著於録<lb/>
+<pb n="KR3g0042_WYG_000-1b"/>
+　　　　此本專論子平亦出民英之手藝文志葢因<lb/>
+　　　　育吾山人之號誤以民英為民育又通會二<lb/>
+　　　　字傳寫互倒遂有不同其實即此書也自明<lb/>
+　　　　以来二百餘年談星命者皆以此本為總彚<lb/>
+　　　　㡬於家有其書中間所載仕宦八字往往及<lb/>
+　　　　明季之人葢後来坊刻所攙入亦己非原本<lb/>
+　　　　之舊特以其闡發子平之遺法於官印財禄<lb/>
+　　　　食傷之名義用神之輕重諸神煞所係之吉<lb/>
+<pb n="KR3g0042_WYG_000-2a"/>
+　　　　凶皆能採撮羣言得其精要故為術家所恒<lb/>
+　　　　用要有未可遽廢者至其立論多取正官正<lb/>
+　　　　印正財而不知偏官偏印偏財亦能得力知<lb/>
+　　　　食神之能吐秀而不知傷官之亦可出竒是<lb/>
+　　　　則其偏執之見未能圓徹且胎元等論施之<lb/>
+　　　　今日亦多有不驗言命學者但當得其大意<lb/>
+　　　　而變通之可矣若所引珞琭子與今永樂大<lb/>
+　　　　典中所輯完本其文迥殊則其時秘冊僅存<lb/>
+<pb n="KR3g0042_WYG_000-2b"/>
+　　　　外間末由窺見遂誤信依託之本固未足以<lb/>
+　　　　為病也乾隆四十四年九月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4d0590_SBCK_037-1a"/>
+夷白齋藁外集目錄<lb/>
+　　　　　　　　　　　　　　　　　臨海　陳　基　著<lb/>
+　　　　　　　　　　　　　　　　　金華　戴　良　編<lb/>
+　　古詩四言<lb/>
+　　　　題朱買臣負薪讀書圖<lb/>
+　　古詩五言<lb/>
+　　　　妾薄命<lb/>
+　　　　春曰江上<lb/>
+　　　　彂大都<lb/>
+　　　　涿州<lb/>
+　　　　任丘<lb/>
+　　　　献州<lb/>
+<pb n="KR4d0590_SBCK_037-1b"/>
+　　　　阜城<lb/>
+　　　　凌州<lb/>
+　　　　荏平<lb/>
+　　　　榖城山<lb/>
+　　　　舊縣<lb/>
+　　　　汶上<lb/>
+　　　　施家荘<lb/>
+　　　　徐州<lb/>
+　　　　益都子<lb/>
+　　　　龍橋婦<lb/>
+　　　　分韻得老字<lb/>
+　　　　送王本𥘉縣尹兼簡本中知州<lb/>
+<pb n="KR4d0590_SBCK_037-2a"/>
+　　　　清樾堂詩為沈君仲說賦<lb/>
+　　　　釣月軒<lb/>
+　　　　東原行<lb/>
+　　　古詩七言<lb/>
+　　　　題趙千里江山秋晚圖<lb/>
+　　　　七月望曰值雨宿窖中<lb/>
+　　　　贈黄瑞卿詩<hi>并序</hi>
+　　　　潼関<lb/>
+　　　　送陳仲寳還江州<lb/>
+　　　　題畵二首<lb/>
+　　　　南歸道中作<lb/>
+　　　律詩五言<lb/>
+<pb n="KR4d0590_SBCK_037-2b"/>
+　　　　八里荘寄吳中兄弟<lb/>
+　　　　㝎陶<lb/>
+　　　　夏夜懐李尚志<lb/>
+　　　　土壕<lb/>
+　　　　題閿郷驛用故翰林宋顯夫先生韻二首<lb/>
+　　　　函関三首<lb/>
+　　　　永昌陵<lb/>
+　　　　<graphic n="KR0849" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0849.png" mimeType="image/png"/>牢関<lb/>
+　　　　江二首<lb/>
+　　　　乆雨二首<lb/>
+　　　　晴<lb/>
+　　　　金山寺<lb/>
+<pb n="KR4d0590_SBCK_037-3a"/>
+　　　　又雨<lb/>
+　　　　安國寺<lb/>
+　　　　㝎陶<lb/>
+　　　　晴<lb/>
+　　　　洛口<lb/>
+　　　　白楊河<lb/>
+　　　　崔鎮<lb/>
+　　　　次韻荅陸養正<lb/>
+　　　律詩七言<lb/>
+　　　　題陸氏别業<lb/>
+　　　　題龍門山圖<lb/>
+　　　　至正丁亥四月廿三日允常御史有事扵先塋甫竣事<lb/>
+<pb n="KR4d0590_SBCK_037-3b"/>
+　　　　　而甘雨作人以為孝感所致皆為賦詩而属予為之<lb/>
+　　　　倡<lb/>
+　　　　丁亥歲河南自正月至七月無雨流民相属扵道哭聲<lb/>
+　　　　　滿野不忍聞<lb/>
+　　　　興慶池<lb/>
+　　　　陳㽞<lb/>
+　　　　睢州雪中用允常御史韵<lb/>
+　　　　徐州<lb/>
+　　　　至曰淮隂道上<lb/>
+　　　　瓜州題江風山月亭<lb/>
+　　　　送琳上人歸南岳<lb/>
+　　　　江上客舎<lb/>
+<pb n="KR4d0590_SBCK_037-4a"/>
+　　　　江上對雨寄鄭山人<lb/>
+　　　　江邊<lb/>
+　　　　聞道<lb/>
+　　　　送人之南<lb/>
+　　　　江月樓<lb/>
+　　　　寄了即休長老<lb/>
+　　　　五月五日淮隂<lb/>
+　　　　舟中<lb/>
+　　　　河陰<lb/>
+　　　　<graphic n="KR0849" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0849.png" mimeType="image/png"/>牢開<lb/>
+　　　　洛口<lb/>
+　　　　法王寺<lb/>
+<pb n="KR4d0590_SBCK_037-4b"/>
+　　　　崇福宫<lb/>
+　　　　承天宫<lb/>
+　　　　轘轅<lb/>
+　　　　嵩髙<lb/>
+　　　　次韻鋼字為拜太古運使賦<lb/>
+　　　　次韻酬鄭彦章運使<lb/>
+　　　　東平道上<lb/>
+　　　　濟州<lb/>
+　　　　彭城<lb/>
+　　　　吕梁<lb/>
+　　　　邳州<lb/>
+　　　　淮隂侯廟<lb/>
+<pb n="KR4d0590_SBCK_037-5a"/>
+　　　過楊子江憶亰師故人<lb/>
+　　草堂<lb/>
+　　　碧梧翠竹堂<lb/>
+　　　漁荘<lb/>
+　　　次韻荅陸養正<lb/>
+　　　㽞别錢伯行<lb/>
+　　　㽞别陸養正<lb/>
+　　　送干子都赴陕州同知<lb/>
+　　長律<lb/>
+　　　上西臺大夫韓公二十韻<lb/>
+　　　江亭<lb/>
+　　　送錢伯舉錄判衢州<lb/>
+<pb n="KR4d0590_SBCK_037-5b"/>
+　　　絶句<lb/>
+　　　　題水殿納涼圖<lb/>
+　　　　戯嬰圖<lb/>
+　　　　蜀葵花圖<lb/>
+　　　　鷄冠花圖<lb/>
+　　　　桃花翡翠圖<lb/>
+　　　　倦繡圖<lb/>
+　　　　竹雀圖<lb/>
+　　　　<graphic n="KR1419" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1419.png" mimeType="image/png"/>花雪姑圖<lb/>
+　　　　田横墓<lb/>
+　　　　中牟<lb/>
+　　　　杞縣<lb/>
+<pb n="KR4d0590_SBCK_037-6a"/>
+　　　序<lb/>
+　　　　玉山草堂分韻詩序<lb/>
+　　　　尊賢堂分韻賦詩序<lb/>
+　　　　送長洲縣遷家訥縣丞代歸詩序<lb/>
+　　　　送施掾史詩序<lb/>
+　　　　送髙進道序<lb/>
+　　　　雙蹊詩序<lb/>
+　　　　送髙孟賔歸永嘉後序<lb/>
+　　　　送申屠彦徳序<lb/>
+　　　　送鄭君舉㳺金陵序<lb/>
+　　　　送葛子充序<lb/>
+　　　　嚴氏逰靈巖圖詩序<lb/>
+<pb n="KR4d0590_SBCK_037-6b"/>
+　　　　送趙平甫序<lb/>
+　　　　送李崇道詩序<lb/>
+　　　記<lb/>
+　　　　萬壑松濤軒記<lb/>
+　　　　綠隂亭記<lb/>
+　　　　聽雪齋記<lb/>
+　　　　志静齋記<lb/>
+　　　　悠然亭記<lb/>
+　　　　嘉樹軒記<lb/>
+　　　　范氏復祖塋記<lb/>
+　　　　崇勲堂記<lb/>
+　　　　桃源小隐記<lb/>
+<pb n="KR4d0590_SBCK_037-7a"/>
+　　　知還亭記<lb/>
+　　書<lb/>
+　　　與沈存齋書<lb/>
+　　題䟦<lb/>
+　　　書石抹氏家譜後<lb/>
+　　　書故御史鄭公從之嵩山五詩後<lb/>
+　　　書中書除目　御書𣪚官後<lb/>
+　　　書太古字說後<lb/>
+　　　䟦學齋侍御張掖劉公洛陽懐古詩<lb/>
+　　　䟦張彦輔畫拂郎馬圖<lb/>
+　　　䟦西園雅集圖<lb/>
+　　　䟦康里承旨遺墨<lb/>
+<pb n="KR4d0590_SBCK_037-7b"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

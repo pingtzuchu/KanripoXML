@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>李相國論事集</head>
+    <p>
+<pb n="KR2g0005_WYG_000-1a"/>
+欽定四庫全書　　　　史部七<lb/>
+　李相國論事集　　　　𫝊記類二<hi>名人之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案李相國論事集六巻舊本題曰<lb/>
+　　　　深之文集唐李絳撰絳字深之隴西人擢進<lb/>
+　　　　士補渭南尉厯中書門下平章事蹟具新唐書<lb/>
+　　　　本傳今考其書乃唐史官蔣偕絳奏議之文與<lb/>
+　　　　論諌之事雖以集名實魏徴諌錄之類也前有<lb/>
+<pb n="KR2g0005_WYG_000-1b"/>
+　　　　大中五年偕自序稱今中執法夏侯公授余以公<lb/>
+　　　　平生所論諌凡數十事其所争皆磊磊有直臣<lb/>
+　　　　風概讀之今人激起忠義始自内廷終於罷相<lb/>
+　　　　次成七篇著之東觀目為李相公論事集云云<lb/>
+　　　　其説本明此本標題殆後人𫝊寫所忘改歟偕<lb/>
+　　　　序稱七篇今佚其一所存惟為翰林學士時<lb/>
+　　　　四十六事為户部𫝊郎時四事為宰相時十<lb/>
+　　　　五事共六十五條叙事樸掘頗乏文采謝狀<lb/>
+<pb n="KR2g0005_WYG_000-2a"/>
+　　　　賀表之類雜錄其間多與論諌無闗又批答<lb/>
+　　　　賀屏風一條宣示李栻宻疏一條盛夏對宰<lb/>
+　　　　臣一條皆憲宗之事尤與絳無渉編次蕪雜<lb/>
+　　　　亦乖體例然遺聞舊事紀錄頗詳多新舊唐<lb/>
+　　　　書所未載亦足以偹考核王楙野客叢書引<lb/>
+　　　　其救鄭絪一條論採擇良家子一條謂足補<lb/>
+　　　　唐書之踈葉夢得避暑錄話引其論吐突承<lb/>
+　　　　璀安南寺碑樓一條訂唐書之誤是亦有禆<lb/>
+<pb n="KR2g0005_WYG_000-2b"/>
+　　　　史事之一證矣陸游集有此書䟦稱舊有兩<lb/>
+　　　　本其一本七巻無序其一本一巻史官蔣偕<lb/>
+　　　　作叙以序考之偕所序葢七巻者今一巻之<lb/>
+　　　　本末見而此為七巻之殘本乃有偕序豈後<lb/>
+　　　　人以游䟦更正歟乾隆四十四年十月恭校<lb/>
+　　　　上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　　總　校　官　<hi>臣</hi>陸費墀<lb/>
+<pb n="KR2g0005_WYG_000-3a"/>
+李相國論事集原序<lb/>
+公元和二年四月以監察御史選充翰林學士未幾改<lb/>
+主客員外郎依前充學士逾年轉司勲員外郎來年改<lb/>
+本司郎中依前充學士自始直内署周旋凢五年不獨<lb/>
+以文章號令為應職意欲極直諫之道開天子之耳目<lb/>
+致生人於仁夀以為巳任是時因抗言論事面命授中<lb/>
+書舍人賜之金紫時憲宗固以為南司大用矣不逾年<lb/>
+自户部侍郎遂平大政其後二十年間崇踐中外卒以<lb/>
+<pb n="KR2g0005_WYG_000-3b"/>
+剛鯁致奸凶之大禍大中初有詔史官差第元和間相<lb/>
+臣五人将臣五人将命圖形以補凌煙二十四人之次<lb/>
+有司即以公之名跡列在選中及上奏獨公之名留中<lb/>
+不報噫自古忠臣不得其死者自兩漢王嘉李固至西<lb/>
+晉張華如國朝褚河南裴河東之類剛毅不囘有類公<lb/>
+之遺烈於公之生今中執法夏侯公乃授余以公平生<lb/>
+所論諌凡數十事其所爭皆磊磊正直臣風槩讀之者<lb/>
+令人激起忠義自始内廷迄於罷相次成六巻著之東<lb/>
+<pb n="KR2g0005_WYG_000-4a"/>
+觀目為李相國論事集下以楷模於後代上以顯元和<lb/>
+聖后納諫之得昇平之運可惜其致云爾大中五年辛<lb/>
+未嵗冬十月史臣蒋偕序<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2g0005_WYG_000-4b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　李相國論事集原序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

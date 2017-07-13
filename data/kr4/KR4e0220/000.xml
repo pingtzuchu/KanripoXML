@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>宗伯集</head>
+    <p>
+<pb n="KR4e0220_WYG_000-1a"/>
+欽定四庫全書　　　　集部六<lb/>
+　宗伯集　　　　　　　别集類五<hi>明</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案宗伯集十巻明孫繼臯撰繼臯字<lb/>
+　　　　以徳無錫人萬厯甲戌進士第一人歴官至<lb/>
+　　　　吏部侍郎當陳太后梓宫發引時神宗稱疾<lb/>
+　　　　不肯送繼臯疏争忤㫖及三殿災大臣自陳<lb/>
+　　　　皆慰留獨繼臯致仕去後追贈禮部尚書此<lb/>
+<pb n="KR4e0220_WYG_000-1b"/>
+　　　　編題曰宗伯集從所贈官也凡雜文九巻詩<lb/>
+　　　　一巻第二巻末有其子源文跋語稱其父生<lb/>
+　　　　平不敢自居於名以故諫草都焚篋中祇存<lb/>
+　　　　辭疏十八又求得其三其留中者無從覓稿<lb/>
+　　　　即其他著述亦多不存今所刻碑銘志傳之<lb/>
+　　　　文皆源文雜得之其子若孫暨朽緘敗扇與<lb/>
+　　　　行於世者云云故集中所録多應制及酬贈<lb/>
+　　　　之作然當繼臯之時士習佻而文體亦弊七<lb/>
+<pb n="KR4e0220_WYG_000-2a"/>
+　　　　子之風未艾三袁之焰方新或棘句鉤章或<lb/>
+　　　　矜竒弔詭操觚者出此入彼大抵隨波而靡<lb/>
+　　　　繼臯詩文獨雍容恬雅有承平臺閣之遺風<lb/>
+　　　　亦可謂不移於俗矣乾隆四十五年三月恭<lb/>
+　　　　校上<lb/>
+　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

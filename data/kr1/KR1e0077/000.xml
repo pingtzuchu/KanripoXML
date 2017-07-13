@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>左傳附註</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　　　經部五<lb/>
+　左傳附註　　　　　　　　春秋類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹按左傳附註十卷明陸粲撰粲字子餘長<lb/>
+　　　　洲人嘉靖丙戌進士官至工科給事中以劾張璁<lb/>
+　　　　桂蕚謫都鎮驛驛丞終於永新縣知縣事迹具明史本<lb/>
+　　　　傳是編前三卷駁正杜預之注義第二卷駁<lb/>
+　　　　正孔頴達之疏文第五卷駁正陸徳明左傳<lb/>
+<pb n="1b"/>
+　　　　釋文之音義多旁採諸家之論亦間斷以已<lb/>
+　　　　意於訓詁家頗為有禆顧炎武日知録于駁<lb/>
+　　　　正左傳注後附書曰凡邵陸傅三先生所已<lb/>
+　　　　辨者不録邵者邵寳左傳觿傅者傅遜左傳<lb/>
+　　　　屬事陸即粲也葢炎武亦甚重此書矣粲又<lb/>
+　　　　有春秋左傳鐫二卷大意以左傳為戰國人<lb/>
+　　　　作而劉歆又以意附益故徃往卑賤不中道<lb/>
+　　　　或為竒言怪説騖于末流考粲以左傳為出<lb/>
+<pb n="2a"/>
+　　　　戰國葢因程子謂臘為秦禮庶長為秦官已<lb/>
+　　　　為膠固其以竄亂歸之劉歆葢因林栗謂左<lb/>
+　　　　傳凡言君子曰是劉歆之詞尤無佐證未免<lb/>
+　　　　務為髙論仍蹈明人臆揣之習所謂畫蛇添<lb/>
+　　　　足者也故惟録此編而左傳鐫則别存其目<lb/>
+　　　　焉乾隆四十二年五月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="1a"/>
+　欽定四庫全書<lb/>
+聖祖仁皇帝御製周易折中序<lb/>
+　易學之廣大悉備秦漢而後無復得其精㣲矣至有宋<lb/>
+　以來周邵程張闡𤼵其奥唯朱子兼象數天理違衆而<lb/>
+　定之五百餘年無復同異宋元明至於我朝因先儒己<lb/>
+　開之㣲㫖或有議論已見漸至啟後人之疑朕自弱齡<lb/>
+　　留心經義五十餘年未嘗少輟但知諸書大全之駁雜<lb/>
+　奈非專經之純熟深知大學士李光地素學有本易理<lb/>
+<pb n="1b"/>
+　精詳特命脩周易折中上律河洛之本末下及衆儒之<lb/>
+　考定與通經之不可易者折中而取之越二寒暑甲夜<lb/>
+　披覽片字一畫斟酌無怠康熙五十四年春告成而傳<lb/>
+　之天下後世能以正學為事者自有所見歟<lb/>
+　康熙五十四年春三月十八日<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_288-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選巻二百八十八<lb/>
+　　楸類<lb/>
+　　　七言絶句<lb/>
+　　　　絶句　　　　　　　　　　<hi>唐</hi>杜　甫<lb/>
+　楸樹馨香倚釣磯斬新花蘂未應飛不如醉裏風吹盡<lb/>
+　可忍醒時雨打稀<lb/>
+　　　　楸樹　　　　　　　　　　<hi>唐</hi>韓　愈<lb/>
+<pb n="KR4h0141_WYG_288-1b"/>
+　㡬嵗生成為大樹一朝纒繞困長藤誰人與脫青羅帔<lb/>
+　看吐髙花萬萬層<lb/>
+　　　　其二<lb/>
+　幸自枝條能樹立何煩蘿蔓作交加旁人不解尋根本<lb/>
+　却道新花勝舊花<lb/>
+　　　　夢中絶句　　　　　　　　<hi>宋</hi>蘇　軾<lb/>
+　楸樹髙花欲插天暖風遲日共茫然落英滿地君方見<lb/>
+　惆悵春光又一年<lb/>
+<pb n="KR4h0141_WYG_288-2a"/>
+　　　　楸樹　　　　　　　　　　<hi>金</hi>元徳明<lb/>
+　道邊楸樹老龍形社酒澆来漸有靈只恐等閒風雨夜<lb/>
+　怒隨雷電上青㝠<lb/>
+　　　　楸花　　　　　　　　　　<hi>元</hi>段克已<lb/>
+　楸樹馨香見未曾牆西碧葢聳孤稜㑹須雨洗塵埃盡<lb/>
+　看吐髙花一萬層<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR4h0141_WYG_288-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選巻二百八十八<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

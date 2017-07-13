@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0140_WYG_851-1a"/>
+　欽定四庫全書<lb/>
+御定全唐詩巻八百五十一<lb/>
+　　慈恩寺沙門<hi>髙宗時</hi>
+　　　　和御製遊慈恩寺<lb/>
+　皇風扇祗樹至徳茂禪林仙華曜日彩神旛曵逺隂綺<lb/>
+　殿籠霞影飛閣出雲心細草希慈澤恩光重更深<lb/>
+　　水心寺僧<lb/>
+　　　　贈賈松先輩<lb/>
+<pb n="KR4h0140_WYG_851-1b"/>
+　嵯峨山上石嵗嵗色長新若使盡成寳誰為知已人<lb/>
+　　無名釋<lb/>
+　　　　古梅<lb/>
+　火虐風饕水漬根霜皴雪皺古苔痕東風未肯隨寒暑<lb/>
+　又櫱清香與返魂<lb/>
+　　南唐失名僧<lb/>
+　　　　月<lb/>
+　徐徐東海出漸漸上天衢此夜一輪滿清光何處無<hi>前二</hi>
+<pb n="KR4h0140_WYG_851-2a"/>
+<hi>句一作團團離海嶠漸漸出雲衢</hi>
+　吳越僧<lb/>
+　　　武肅王有㫖石橋設齋㑹進一詩共六首<lb/>
+南有天台事可尊孕靈含秀獨超羣重重曲澗侵危石<lb/>
+歩歩層巖踏碎雲金雀每從雲裏現異香多向夜深聞<lb/>
+當知此界非凡界一道幽竒各自分<lb/>
+仙源佛窟有天台今古嘉名遍九垓石磴嵌空神匠出<lb/>
+瀑泉雄壯雨聲來景强偏感髙僧上地勝能令逺思開<lb/>
+<pb n="KR4h0140_WYG_851-2b"/>
+一等翹誠依此處自然靈貺作梯媒<lb/>
+智泉福海莫能逾親自王恩運睿謨感現盡冥心境界<lb/>
+資持全固道根株石梁低翥紅鸚鵡煙嶺髙翔碧鷓鴣<lb/>
+勝妙重重惟禱祝永資軍庶息災虞<lb/>
+凌晨迎請倍精誠親散鮮花異處清羅漢攀枝呈梵相<lb/>
+巖僧倚樹現真形神幡雙出紅霞動寳塔全開白氣生<lb/>
+都為王心標意切滿空盈月瑞分明<lb/>
+幡花寳盖滿青川祈禱迎來聖半千莫道勝縁無影響<lb/>
+<pb n="KR4h0140_WYG_851-3a"/>
+須知嘉㑹有因縁空中長似聞天樂巖畔常疑有地仙<lb/>
+何必更尋兜率去重重靈應事昭然<lb/>
+登雲歩嶺渉煙程好景隨心次第生聖者已符祥瑞事<lb/>
+地靈全副禱祈情洞深重疊拖雲濕灘淺潺湲潄水清<lb/>
+願滿事圓歸去路便風相送片帆輕<lb/>
+　唐末僧<lb/>
+　　　題户詩<lb/>
+枕有思鄉淚門無問疾人塵埋牀下履風動架頭巾<lb/>
+<pb n="KR4h0140_WYG_851-3b"/>
+　神廻<hi>臨晉人姓田貞觀間流化岷峨為道俗宗仰</hi>
+　　　逸句<lb/>
+鵶鳴東牖曙草秀南湖春<hi>見詩式</hi>
+　可隆<hi>字了空俗姓慕容住福州東禪院五代時人</hi>
+　　　逸句<lb/>
+萬般思後行一失廢前功<hi>觀棋</hi>
+　爾鳥<hi>唐末蜀沙門</hi>
+　　　逸句<lb/>
+<pb n="KR4h0140_WYG_851-4a"/>
+鯨目光燒半海紅鰲頭浪蹙掀天白<hi>見詩話總歸</hi>
+　元礎<hi>上都僧</hi>
+　　　逸句<lb/>
+寺隔殘潮去　採藥過泉聲　林塘秋半宿風雨夜深<lb/>
+來<lb/>
+　悟清<hi>唐僧</hi>
+　　　逸句<lb/>
+鳥歸花影動魚沒浪痕圓<lb/>
+<pb n="KR4h0140_WYG_851-4b"/>
+　契盈<hi>閩中人住杭州龍華禪寺</hi>
+　　　逸句<lb/>
+二千里外一條水十二時中兩度潮<hi>見五代史補</hi>
+　淡然<lb/>
+　　　逸句<lb/>
+到處自鑿井不能飲常流<lb/>
+　庭實<hi>江南僧</hi>
+　　　逸句<lb/>
+<pb n="KR4h0140_WYG_851-5a"/>
+吟中雙鬢白笑裏一生貧<hi>見詩史</hi>
+　知業<hi>吳越時湖州聖保寺僧有詩名</hi>
+　　　逸句<hi>第二句缺一字</hi>
+接㟁橋通何處路倚欄人　是誰家<hi>見葆光錄</hi>
+　雲容<lb/>
+　　　逸句<lb/>
+木末上明星<lb/>
+　元幽<lb/>
+<pb n="KR4h0140_WYG_851-5b"/>
+三萬蓮經三十春半生不蹋院門塵<lb/>
+　志定<lb/>
+　　　逸句<lb/>
+惟有罇前今夜月當時曾照墮樓人　梧桐葉老蟬聲<lb/>
+死一夜洞庭波上風<hi>見張為主客圖</hi>
+　靈凖<lb/>
+　　逸句<lb/>
+晴看漢水廣秋覺峴山髙<lb/>
+<pb n="KR4h0140_WYG_851-6a"/>
+　　荆州僧<lb/>
+　　　　逸句<lb/>
+　犬熟䕶鄰房<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR4h0140_WYG_851-6b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定全唐詩巻八百五十一<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

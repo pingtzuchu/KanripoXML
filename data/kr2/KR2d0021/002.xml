@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>補歴代史表卷二</head> <lb/>
+    <p>
+<pb n="KR2d0021_WYG_002-1a"/>
+欽定四庫全書<lb/>
+　補歴代史表卷二<lb/>
+　　　　　　　　　　　　　鄞縣萬斯同撰<lb/>
+　　東漢<lb/>
+　　　雲臺功臣侯表<lb/>
+<pb n="KR2d0021_WYG_002-2a"/>
+</p>
+<p>
+<pb n="KR2d0021_WYG_002-3a"/>
+</p>
+<p>
+<pb n="KR2d0021_WYG_002-4a"/>
+</p>
+<p>
+<pb n="KR2d0021_WYG_002-5a"/>
+</p>
+<p>
+<pb n="KR2d0021_WYG_002-6a"/>
+</p>
+<p>
+<pb n="KR2d0021_WYG_002-7a"/>
+</p>
+<p>
+<pb n="KR2d0021_WYG_002-8a"/>
+</p>
+<p>
+<pb n="KR2d0021_WYG_002-9a"/>
+</p>
+<p>
+<pb n="KR2d0021_WYG_002-10a"/>
+</p>
+<p>
+<pb n="KR2d0021_WYG_002-11a"/>
+</p>
+<p>
+<pb n="KR2d0021_WYG_002-12a"/>
+</p>
+<p>
+<pb n="KR2d0021_WYG_002-13a"/>
+</p>
+<p>
+<pb n="KR2d0021_WYG_002-14a"/>
+　　靈帝時又有張讓夏惲郭勝孫璋畢嵐栗嵩段珪高望<lb/>
+　　張恭韓悝宋典十一人皆常侍封侯其國名不可考<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2d0021_WYG_002-14b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　補歴代史表卷二<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

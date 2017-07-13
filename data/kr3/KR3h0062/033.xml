@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3h0062_WYG_033-1a"/>
+欽定四庫全書<lb/>
+秘殿珠林卷十五目録<lb/>
+　　　貯<lb/>
+　　乾清宫<lb/>
+　　　名人書<lb/>
+　　道氏經冊上等<lb/>
+　　　宋髙宗書度人經一冊<lb/>
+　　　元趙孟頫書度人經一冊<lb/>
+<pb n="KR3h0062_WYG_033-1b"/>
+　　　元趙孟頫書玊樞經一冊<lb/>
+　　　元趙孟頫書金丹訣一冊<lb/>
+　　　元趙孟頫書道徳經一冊<lb/>
+　　　明文徴明臨黄庭經一冊<lb/>
+　　　明董其昌臨黄庭經一冊<lb/>
+　　　明董其昌書陰符經一冊<lb/>
+　　　明董其昌書煉陽訣一冊<lb/>
+　　　明董其昌書三元妙經一冊<lb/>
+<pb n="KR3h0062_WYG_033-2a"/>
+　　　明董其昌書清靜經一冊<lb/>
+　　　明董其昌書栁公權清靜經一冊<lb/>
+　　　名人書<lb/>
+　　道氏經冊次等目録<lb/>
+　　　唐禇遂良臨道德經一冊<lb/>
+　　　元趙孟頫書道徳經一冊<lb/>
+　　　元趙孟頫書道徳經二冊<lb/>
+　　　元趙孟頫書太上感應篇一冊<lb/>
+<pb n="KR3h0062_WYG_033-2b"/>
+　　　元趙孟頫書玊樞經一冊<lb/>
+　　　元揭徯斯書玊皇經三冊<lb/>
+　　　元虞集書五斗經一冊<lb/>
+　　　明文徴明書清淨經内景經外景經合冊<lb/>
+　　　明文徴明書道徳經一冊<lb/>
+　　　明朱射陂書金丹四百字一冊<lb/>
+　　　明祝允明臨黄庭經一冊<lb/>
+　　　明董其昌書黄庭内景經一冊<lb/>
+<pb n="KR3h0062_WYG_033-3a"/>
+　　　明董其昌書玊皇經一冊<lb/>
+　　　明董其昌書玊皇經一冊<lb/>
+　　　無名氏書<lb/>
+　　道氏經冊上等目録<lb/>
+　　　六朝鸞筆草書玊匱經一冊<lb/>
+　　　元人書黄庭長生玊經四冊<lb/>
+　　　明人書真武妙經一冊<lb/>
+　　　明人書真武妙經一冊<lb/>
+<pb n="KR3h0062_WYG_033-3b"/>
+　　　明人書玊樞經一冊<lb/>
+　　　明人書玊皇經三冊<lb/>
+　　　無名氏書<lb/>
+　　道氏經冊次等目録<lb/>
+　　　明人書真君寳誥一冊<lb/>
+　　　明人書玊樞寳懺二冊<lb/>
+　　　明人書玊樞寳懺二冊<lb/>
+　　　明人書玊樞經一冊<lb/>
+<pb n="KR3h0062_WYG_033-4a"/>
+　　　明人書玊樞經一冊<lb/>
+　　　明人書玊樞經一冊<lb/>
+　　　明人書玊樞經一冊<lb/>
+　　　明人書參同圖一冊<lb/>
+　　　明人書玊皇經三冊<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

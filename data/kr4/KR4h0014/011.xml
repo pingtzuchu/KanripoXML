@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0014_WYG_011-1a"/>
+松陵集跋<lb/>
+古松陵即今之吴江予同年濟寕劉君濟民來為邑令<lb/>
+謂是集為其邑故物而人未之見授儒士盧雍挍勘捐<lb/>
+俸刻之予觀唐詩人多尚次韻至元白而益盛其萃而<lb/>
+成編則有漢上題襟斷金及是三集按皮氏自序謂一<lb/>
+歲之中詩凡六百五十八首其富如此則又題襟斷金<lb/>
+之所無者况其逰燕題詠類多吴中之作後之希賢懷<lb/>
+古者将扵是乎攷固吴人所當寳也劉君為政不减古<lb/>
+<pb n="KR4h0014_WYG_011-1b"/>
+人其刻是集豈直私扵一邑盖将公之天下者也𢎞治<lb/>
+壬戌九月二日前進士吴都穆跋<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

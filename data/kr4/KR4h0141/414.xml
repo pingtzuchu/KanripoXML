@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_414-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選巻四百十五<lb/>
+　　貍類<lb/>
+　　　五言古<lb/>
+　　　　以野貍餉石末公因侑以詩　<hi>眀</hi>劉　基<lb/>
+　野貍性狡猾夜動晝則潛縶之籠檻中耳弭口不呥當<lb/>
+　其得意時足爪長且銛跳踉逞俊捷攫噬靡有饜貧家<lb/>
+　養一雞冀用易米鹽爾黠弗自食尋聲竊窺覘破柵舔<lb/>
+<pb n="KR4h0141_WYG_414-1b"/>
+　肉血淋漓汙毛髯老幼起頓足心如刺刀鎌東鄰借筌<lb/>
+　蹄西鄰呼<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>獫繫餌翳叢灌設伏抽隂鈐彼機歘已發<lb/>
+　此欲方未忺絲繩急纒繞四體如黐黏野人大喜慰不<lb/>
+　敢私烹燖持来請科斷數罪施剜㔐使君鎮方面殘賊<lb/>
+　職所殱械送至麾下束縳仍加箝腥膏忝汙鉞羶胔或<lb/>
+　可醃芼芳和糟醤頒賜警不廉黄雀利螳螂碎首泥塗<lb/>
+　霑烏鴉殉腐肉噴墨身受淹此物亦足戒申章匪虚談<lb/>
+　　　七言古<hi>附長短句</hi>
+<pb n="KR4h0141_WYG_414-2a"/>
+　　　牛尾貍　　　　　　　　　<hi>宋</hi>蘇　轍<lb/>
+首如貍尾如牛攀條捷嶮如猱猴橘柚為漿栗為餱筋<lb/>
+肉不足惟膏油深居簡出善自謀尋蹤發窟并執囚蓄<lb/>
+租分散身為羞松薪瓦甑烝浮浮壓入糟盎肥欲流熊<lb/>
+脂羊酪真比儔引筯將舉訊何尤無功竊食人所仇<lb/>
+　　　楊廷秀送牛尾貍侑以長句次韻<lb/>
+　　　　　　　　　　　　　　　<hi>宋</hi>周必大<lb/>
+江南十月方肅霜小槽初滴鵞兒黄頗思指動異味嘗<lb/>
+<pb n="KR4h0141_WYG_414-2b"/>
+門正張羅誰末將披綿强来推不去枯蝦欲進上之户<lb/>
+羊羶豕腥猶可厭肪截脂凝在何處草𤣥子雲黄門郎<lb/>
+遺我黒面質白章形之硬語弩力强寫以竒字伴史倉<lb/>
+愧無纎手色傾國壓糟磨刀走臧獲喜於左手持蟹黄<lb/>
+美勝八珍熟熊白古来貍首歌侯門名以牛後真屈君<lb/>
+從今玊汝洗俗諺好與紈袖陪梁園公詩如貂不煩削<lb/>
+我續狗尾句空著<lb/>
+　　　牛尾貍　　　　　　　　　<hi>宋</hi>楊萬里<lb/>
+<pb n="KR4h0141_WYG_414-3a"/>
+　狐公韻勝冰玊肌字則未聞名季貍誤随齊相燧牛尾<lb/>
+　策勲分作糟丘子子孫世世襲膏粱黄雀子魚鴻鴈行<lb/>
+　先生試與季貍語有味其言湏聼取<lb/>
+　　　七言律<lb/>
+　　　　送牛尾貍與徐使君　　　　<hi>宋</hi>蘇　軾<lb/>
+　風卷飛花自入帷一尊遥想破愁眉泥深厭聼雞頭鶻<lb/>
+　酒淺欣嘗牛尾貍通印子魚猶帯骨披綿黄雀漫多脂<lb/>
+　殷勤送去煩纎手為我磨刀削玉肌<lb/>
+<pb n="KR4h0141_WYG_414-3b"/>
+　　　七言絶句<lb/>
+　　　　牛尾貍　　　　　　　　　<hi>宋</hi>朱　松<lb/>
+　壓糟玊靣天涯見琢雪庖霜照眼明投箸羞顔如甲厚<lb/>
+　南山白額正横行<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選巻四百十五<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4f0001_WYG_118-1a"/>
+　欽定四庫全書<lb/>
+聖祖仁皇帝御製文第二集巻十四目録<lb/>
+　　勅諭<lb/>
+　　　　諭户部<lb/>
+　　　　諭大學士伊桑阿阿蘭泰<lb/>
+　　　　諭大學士伊桑阿阿蘭泰<lb/>
+　　　　諭大學士伊桑阿阿蘭泰<lb/>
+　　　　諭大學士伊桑阿侍郎朱都納學士宋柱户部<lb/>
+<pb n="KR4f0001_WYG_118-1b"/>
+　　　　　郎中鄂竒<lb/>
+　　　　諭大學士伊桑阿阿蘭泰<lb/>
+　　　　諭大學士伊桑阿阿蘭泰<lb/>
+　　　　諭内閣<lb/>
+　　　　諭大學士伊桑阿阿蘭泰張玉書學士戴通勒<lb/>
+　　　　　徳額赫里齊穡顧藻徐嘉炎陸葇<lb/>
+　　　　諭大學士伊桑阿阿蘭泰張玉書學士戴通勒<lb/>
+　　　　　徳額赫里齊穡顧藻徐嘉炎陸葇<lb/>
+<pb n="KR4f0001_WYG_118-2a"/>
+　　　諭大學士伊桑阿阿蘭泰張玉書學士戴通勒<lb/>
+　　　　徳額赫里齊穡顧藻徐嘉炎陸葇<lb/>
+　　　諭大學士伊桑阿阿蘭泰張玉書學士戴通阿<lb/>
+　　　　爾粺顧藻徐嘉炎張榕端<lb/>
+　　　諭内閣<lb/>
+　　　諭吏兵二部<lb/>
+　　　諭大學士伊桑阿阿蘭泰<lb/>
+　　　諭大學士伊桑阿阿蘭泰學士戴通宋柱陶岱<lb/>
+<pb n="KR4f0001_WYG_118-2b"/>
+　　　　齊穡博濟<lb/>
+　　　諭大學士伊桑阿阿蘭泰王熙張玉書學士戴<lb/>
+　　　　通宋柱陶岱齊穡博濟韓菼顧藻徐嘉炎張<lb/>
+　　　　榕端<lb/>
+　　　諭大學士伊桑阿阿蘭泰學士戴通宋柱陶岱<lb/>
+　　　　齊穡博濟<lb/>
+　　　諭户部<lb/>
+　　　諭大學士阿蘭泰<lb/>
+<pb n="KR4f0001_WYG_118-3a"/>
+　　　諭户部<lb/>
+　　　諭大學士伊桑阿阿蘭泰王熙張玊書學士戴<lb/>
+　　　　通齊穡博濟傅繼祖韓菼顧藻徐嘉炎張榕<lb/>
+　　　　端<lb/>
+　　　諭議政大臣<lb/>
+　　　諭大學士伊桑阿阿蘭泰<lb/>
+　　　諭大學士伊桑阿阿蘭泰<lb/>
+　　　諭大學士伊桑阿阿蘭泰<lb/>
+<pb n="KR4f0001_WYG_118-3b"/>
+　　　諭大學士伊桑阿阿蘭泰<lb/>
+　　　諭大學士伊桑阿阿蘭泰侍讀學士伊道<lb/>
+　　　諭大學士伊桑阿阿蘭泰<lb/>
+　　　諭大學士伊桑阿阿蘭泰尚書庫勒納佛倫薩<lb/>
+　　　　穆哈<lb/>
+　　　諭内閣<lb/>
+　　　諭大學士伊桑阿阿蘭泰<lb/>
+　　　諭内閣<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

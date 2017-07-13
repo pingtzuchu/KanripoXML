@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>明名臣琬琰錄</head>
+    <p>
+<pb n="KR2g0038_WYG_000-1a"/>
+欽定四庫全書　　　　　史部七<lb/>
+　明名臣琬琰錄　　　　　傳記𩔖三<hi>總録之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案明名臣琬琰錄二十四卷續錄二<lb/>
+　　　　十二卷明徐紘編紘字朝文武進人𢎞治庚<lb/>
+　　　　戍進士以刑部郎出為廣東按察司僉事分<lb/>
+　　　　巡嶺東終於雲南按察司副使是書乃仿宋<lb/>
+　　　　杜大珪碑名臣碑傳琬琰集而作所輯自洪<lb/>
+<pb n="KR2g0038_WYG_000-1b"/>
+　　　　武迄𢎞治九朝諸臣事蹟前錄所載一百十<lb/>
+　　　　有七人續録所載九十五人凡碑銘誌傳以<lb/>
+　　　　及地志言行録之𩔖悉具焉其中如李景隆<lb/>
+　　　　之喪師誤國不得謂之名臣惠安伯張昇在<lb/>
+　　　　戚里中雖有賢聲而始終未嘗任事亦難與<lb/>
+　　　　勲臣並列又如陳泰墓誌中稱冦深忌其才<lb/>
+　　　　名嗾人誣劾而李賢所作深墓志亦在録中<lb/>
+　　　　乃極稱其持法嚴明雖自附識語調停究不<lb/>
+<pb n="KR2g0038_WYG_000-2a"/>
+　　　　　免彼此矛盾然明自成𢎞以前風會淳厚士<lb/>
+　　　　　大夫之秉筆者𩔖多質直不支無縁飾夸大<lb/>
+　　　　　之詞尚屬可以取信且其中如郁新呉夀昌<lb/>
+　　　　　等凡數十人皆史傳所不詳考獻徵文亦足<lb/>
+　　　　　以資證據固非小説家言掇拾傳聞搆虛無<lb/>
+　　　　　據者比也乾隆四十六年十月恭校上<lb/>
+　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

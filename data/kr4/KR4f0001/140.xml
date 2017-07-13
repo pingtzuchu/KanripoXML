@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4f0001_WYG_140-1a"/>
+　欽定四庫全書<lb/>
+聖祖仁皇帝御製文第二集卷二十五目錄<lb/>
+　　北征勅諭<lb/>
+　　　　諭領侍衞内大臣國舅佟國維内大臣福善蘇<lb/>
+　　　　　爾達大學士伊桑阿阿蘭泰<lb/>
+　　　　諭大學士伊桑阿阿蘭泰學士宋柱陶岱齊穡<lb/>
+　　　　　綏色三寶<lb/>
+　　　　諭大學士伊桑阿阿蘭泰學士宋柱陶岱齊穡<lb/>
+<pb n="KR4f0001_WYG_140-1b"/>
+　　　　　綏色三寶<lb/>
+　　　　諭内閣<lb/>
+　　　　諭勇略將軍趙良棟<lb/>
+　　　　諭領侍衞内大臣伯費揚古<lb/>
+　　　　諭太子少保振武將軍左都督孫思克<lb/>
+　　　　諭揚威將軍覺羅恕書<lb/>
+　　　　諭都察院左都御史于成龍兵部督捕右侍郎<lb/>
+　　　　　李鈵通政使司左通政喀拜<lb/>
+<pb n="KR4f0001_WYG_140-2a"/>
+　　　諭兵部督捕右侍郎王國昌大理寺卿喻成龍<lb/>
+　　　　光祿寺卿辛保内閣侍讀學士范承烈<lb/>
+　　　諭總統督理中路運務左都御史于成龍等<lb/>
+　　　諭大將軍伯費揚古<lb/>
+　　　諭禮兵二部<lb/>
+　　　諭大將軍伯費揚古<lb/>
+　　　諭大學士伊桑阿阿蘭泰<lb/>
+　　　諭大將軍伯費揚古<lb/>
+<pb n="KR4f0001_WYG_140-2b"/>
+　　　諭大將軍伯費揚古<lb/>
+　　　諭大將軍伯費揚古<lb/>
+　　　諭大將軍伯費揚古<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

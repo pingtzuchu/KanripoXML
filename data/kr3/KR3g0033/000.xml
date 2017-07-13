@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>提要<lb/>
+                </head>
+    <p>
+<pb n="KR3g0033_WYG_000-1a"/>
+欽定四庫全書　　　　　子部七<lb/>
+　提要<lb/>
+　　李虛中命書三巻　　　術數類五<hi>命書相書之屬</hi>
+　　　　<hi>臣</hi>等謹案李虛中命書三卷舊本題鬼谷子<lb/>
+　　　　撰唐李虛中註虛中字常容魏侍中李冲八<lb/>
+　　　　世孫進士及第元和中官至殿中侍御史韓<lb/>
+　　　　愈為作墓誌銘見於昌黎文集後世傳星命<lb/>
+　　　　之學者皆以虚中為祖愈墓誌中所云最深<lb/>
+<pb n="KR3g0033_WYG_000-1b"/>
+　　　　五行書以人之始生年月日所值日辰支干<lb/>
+　　　　相生勝衰死王相斟酌推人夀夭貴賤利不<lb/>
+　　　　利輙先處其年時百不失一二者是也然愈<lb/>
+　　　　但極稱其説之汪洋奧羙萬端千緒而不言<lb/>
+　　　　有所著書唐書藝文志亦無是書之名至宋<lb/>
+　　　　志始有李虛中命書格局二卷鄭樵藝文畧<lb/>
+　　　　則作李虚中命術一卷命書補遺一卷晁公<lb/>
+　　　　武讀書志又作李虚中命書三卷焦氏經籍<lb/>
+<pb n="KR3g0033_WYG_000-2a"/>
+　　　　志又於命書三卷外别出命書補遺一卷名<lb/>
+　　　　目卷數皆參錯不合世間傳本久絶無以考<lb/>
+　　　　正其異同惟永樂大典所収其文尚多完具<lb/>
+　　　　卷帙前後亦頗有次苐並載有虚中自序一<lb/>
+　　　　萹稱司馬李主於壺山之陽遇鬼谷子出遺<lb/>
+　　　　文九篇論幽微之理虛中為掇拾諸家注釋<lb/>
+　　　　成集云云詳勘書中義例首論六十甲子不<lb/>
+　　　　及生人時刻干支其法頗與韓愈墓誌所言<lb/>
+<pb n="KR3g0033_WYG_000-2b"/>
+　　　　始生年月日者相合而後半乃多稱四柱其<lb/>
+　　　　説實起於宋與前文殊相繆戾且其他職官<lb/>
+　　　　稱謂多涉宋代之事其不盡出虚中手尤為<lb/>
+　　　　明甚中間文筆有古奧難解者似屬唐人所<lb/>
+　　　　為又有鄙淺可嗤者似出後來附益真偽雜<lb/>
+　　　　出莫可究詰疑唐代本有此書宋時談星學<lb/>
+　　　　者以説闌入其間托名於虚中之注鬼谷以<lb/>
+　　　　自神其術耳今以其議論精切近理多得星<lb/>
+<pb n="KR3g0033_WYG_000-3a"/>
+　　　　命正㫖與後來之幻𣺌恍惚者不同故依晁氏<lb/>
+　　　　原目釐為三卷著之於録以存其法而於其<lb/>
+　　　　依托之顯然者則各加案語隨文紏正俾讀<lb/>
+　　　　者母為所惑焉乾隆四十六年九月恭校上<lb/>
+　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+<pb n="KR3g0033_WYG_000-4a"/>
+原序<lb/>
+昔司馬季主居壺山之陽一夕雨餘風清月朗有叟踵<lb/>
+門自謂鬼谷子季主因與談天地之始論河洛之書箕<lb/>
+子九疇文王八卦探賾幽微造化至曉出遺文九篇包<lb/>
+括三才指陳萬物季主得而明之毎言人之禍福時數<lb/>
+吉凶應如神察為當時所貴今余得其舊文稽攷頗經<lb/>
+證效惟歴世之久篇目次序似乎乖異其五行之要尚<lb/>
+或備載余恐其本術將至湮沒故掇拾諸家註釋成集<lb/>
+<pb n="KR3g0033_WYG_000-4b"/>
+非敢補於闕文且傳之不朽髙明君子毋我誚焉唐元<lb/>
+和初載九月十三日殿中侍御史李常容虛中序<lb/>
+　案唐惟天寶至徳稱載此序後元和而亦稱載是即<lb/>
+　作偽之一證<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

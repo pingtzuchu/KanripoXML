@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>江文通集</head>
+    <p>
+<pb n="KR4b0015_WYG_000-1a"/>
+欽定四庫全書　　　　　集部二<lb/>
+　江文通集　　　　　　　别集類一<hi>梁</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案江文通集四巻梁江淹撰淹字文<lb/>
+　　　　通濟陽考城人仕齊至冠軍將軍吏部尚書<lb/>
+　　　　入梁為金紫光禄大夫封醴陵侯謚曰獻事<lb/>
+　　　　迹具梁書本傳淹自序傳稱自少及長未嘗<lb/>
+　　　　著書惟集十巻考傳中所序官階止于中書<lb/>
+<pb n="KR4b0015_WYG_000-1b"/>
+　　　　侍郎核以史傳正當建元之初則永明以後<lb/>
+　　　　所作尚不在其内今舊本散佚行于世者惟<lb/>
+　　　　歙縣汪士賢太倉張溥二本此本乃乾隆戊<lb/>
+　　　　寅淹鄉人梁賓以汪本張本㕘核異同又益<lb/>
+　　　　以睢州湯斌家鈔本參互成編汪本闕知已<lb/>
+　　　　賦一篇井賦四語銅劒讃一篇詠美人春遊<lb/>
+　　　　一篇征怨一篇張本闕為蕭某拜太傅揚州<lb/>
+　　　　牧表一篇此皆補完他如待罪江南思北歸<lb/>
+<pb n="KR4b0015_WYG_000-2a"/>
+　　　　賦張本無題首四字尚書符張本題下闕夹<lb/>
+　　　　註起都官軍局符蘭臺八字為蕭某重譲揚<lb/>
+　　　　州表中任鈞符負圖之重句張本脱符字為<lb/>
+　　　　蕭某譲太傅相國十郡九錫表首張本無備<lb/>
+　　　　九錫之禮五字上建平王書末汪本脱此心<lb/>
+　　　　既照死且不朽八字亦均校正其餘字句皆<lb/>
+　　　　備録異同若雜擬詩序中芳草寧共氣句此<lb/>
+　　　　本訛氣為棄之類小小疎舛間或不免然終<lb/>
+<pb n="KR4b0015_WYG_000-2b"/>
+　　　　較他本為善也乾隆四十三年三月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4c0090_SBCK_005-1a"/>
+唐甫里先生文集卷之五<lb/>
+　　　　　　苙澤龜蒙字魯望<lb/>
+　五言八句詩<lb/>
+　　　　螢<lb/>
+肖翹雖振羽戚促尽疑冰風助流還急烟<lb/>
+遮點暫凝不須䡖列宿纔可擬孤燈莫倚<lb/>
+陏家亊曽煩下詔徴<lb/>
+　　　　蟬<lb/>
+<pb n="KR4c0090_SBCK_005-1b"/>
+秪憑風作使全仰栁為都一腹清何甚雙<lb/>
+翎薄更無伴貂金換酒并雀畫成圖恐是<lb/>
+千年恨偏令落日呼<lb/>
+　　　　秋熱<lb/>
+自昔秋捐扇今来意未衰慇懃付柔握淅<lb/>
+瀝待清吹午氣朱崖近宵聲白羽随揔如<lb/>
+南國候無復婕妤悲<lb/>
+　　　　村中晚望<lb/>
+<pb n="KR4c0090_SBCK_005-2a"/>
+抱杖柴門立江村日易斜鴈寒猶憶侶人<lb/>
+病更離家短鬢看成雪双眸舊有花何湏<lb/>
+萬里外即此是天涯<lb/>
+　　　漁具<hi>并序</hi>
+　　天随子䱷于海山之顔有年矣矢魚<lb/>
+　　之具莫不窮極其趣大凡結繩持網<lb/>
+　　者揔謂之網罟之流曰罛曰<graphic n="KR0699" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0699.png" mimeType="image/png"/>曰巢<lb/>
+<hi>側交反</hi>圎而縱捨曰罩挾而昇降曰<graphic n="KR2320" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2320.png" mimeType="image/png"/>
+<pb n="KR4c0090_SBCK_005-2b"/>
+<hi>女减反</hi>緡而竿者揔謂之筌筌之流曰筒<lb/>
+　　曰車横川曰梁承虗曰笱編而沈之<lb/>
+　　曰箄<hi>音卑</hi>矛而卓之曰矠<hi>音冊矛巴</hi>棘而中<lb/>
+　　之曰义鏃而諭之曰射扣而騃之曰<lb/>
+　　桹<hi>以薄板置瓦噐上擊之以驅魚</hi>置而守之曰神<hi>鯉魚滿三百六十嵗</hi>
+<hi>蚊龍輙率而飛去年置一神守之則不能去矣神鼈也</hi>列竹於海澨曰滬<lb/>
+<hi>吴之滬瀆是也</hi>錯薪於水中曰<graphic n="KR2000" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2000.png" mimeType="image/png"/>
+                    <hi>糝</hi>所載之舟<lb/>
+　　曰艋舴所貯之噐曰笭箕其他或術<lb/>
+<pb n="KR4c0090_SBCK_005-3a"/>
+　　以招之或藥而盡之皆出於詩書雜<lb/>
+　　傳及今之聞見可考而驗之不誣也<lb/>
+　　今擇其任詠者作十五題以諷噫矢<lb/>
+　　魚之具也如此余旣歌之矣矢民之<lb/>
+　　具也如彼誰其嗣之鹿門子有髙灑<lb/>
+　　之才必為我同作<lb/>
+　　　　網<lb/>
+大罟網目繁空江波浪黒沈沈到波底恰<lb/>
+<pb n="KR4c0090_SBCK_005-3b"/>
+共波同色牽時萬鬐入已有千鈞力尚悔<lb/>
+不横流恐他人更得<lb/>
+　　　　罩<lb/>
+左手掲圎罛輕橈弄丹子不知潜鱗䖏但<lb/>
+去籠烟水時穿紫屏<hi>一作萍</hi>破忽值朱衣𧺫<hi>淞江</hi>
+<hi>有朱衣鮒</hi>貴得不貴名敢論魴与鯉<lb/>
+　　　　<graphic n="KR2320" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2320.png" mimeType="image/png"/>
+有意烹小鮮乗流駐孤棹雖然煩取捨未<lb/>
+<pb n="KR4c0090_SBCK_005-4a"/>
+肯求津要多為蝦蜆誤已分鵁鶄笑寄語<lb/>
+龍伯人荒唐不同調<lb/>
+　　　　釣筒<lb/>
+短短韯筠光悠悠卧江色蓬羞艣相應雨<lb/>
+慢煙交織湏臾中芳餌迅疾如飛翼彼竭<lb/>
+我還浮君看不争得<lb/>
+　　　　釣車<lb/>
+溪上持隻輪溪邊指茅屋閑乗風水便敢<lb/>
+<pb n="KR4c0090_SBCK_005-4b"/>
+議朱丹轂髙多倚衡懼下有折軸速曷若<lb/>
+載逍遥帰耒卧雲族<lb/>
+　　　　魚梁<lb/>
+能編似雲薄横絶青川口缺處欲随波波<lb/>
+中先置笱投身入籠檻自古難飛走尽日<lb/>
+水濵吟殷勤謝漁叟<lb/>
+　　　　义魚<lb/>
+春溪正含緑良夜才叄半持矛若羽輕列<lb/>
+<pb n="KR4c0090_SBCK_005-5a"/>
+燭如星爛傷鱗跳宻藻碎首沉遥㟁尽族<lb/>
+染東流傍人作佳翫<lb/>
+　　　　射魚<lb/>
+彎弓注碧潯掉尾行涼沚青楓下晚照正<lb/>
+在澄明裏抨弦斷荷扇濺血殷菱蘂若使<lb/>
+禽荒聞移之暴烟水<lb/>
+　　　　鳴桹<lb/>
+水淺藻荇澁釣罩無所及鏗如木鐸音势<lb/>
+<pb n="KR4c0090_SBCK_005-5b"/>
+若金鉦急敺之就深處用以資俯拾拽羅<lb/>
+爾甚微遁去将何入<lb/>
+　　　　滬<hi>吴人今謂之簖</hi>
+萬植禦洪波森然倒林薄千顱咽雲上過<lb/>
+半随潮落其間風信背更值雷聲悪天道<lb/>
+亦裒多吾将移海若<lb/>
+　　　　<graphic n="KR2000" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2000.png" mimeType="image/png"/>
+                    <hi>吴人今謂之叢</hi>
+斬木置水中枝條互相蔽寒魚遂家此自<lb/>
+<pb n="KR4c0090_SBCK_005-6a"/>
+以為生計春冰忽融冶尽取無遺裔所託<lb/>
+成禍機臨川一凝睇<lb/>
+　　　　種魚<lb/>
+鑿池収頳鱗踈踈置雲嶼还同汗漫逰遂<lb/>
+以江湖處如非一神守潛𬒳蛟龍主蛟龍<lb/>
+若無道跛鼈亦可禦<lb/>
+　　　　薬魚<lb/>
+香餌綴金鈎目中懸者㡬盈川是毒流細<lb/>
+<pb n="KR4c0090_SBCK_005-6b"/>
+大同時死不惟空飼犬便可将貽蟻苟負<lb/>
+竭澤心其他盡如此<lb/>
+　　　　舴艋<lb/>
+蓬棹两三事天然相與閒朝随稚子去暮<lb/>
+唱菱歌還倚石遲後侣徐橈供逺山君看<lb/>
+萬斛載沈溺須臾間<lb/>
+　　　　笭箵<lb/>
+誰謂苓箵小我謂苓箵大盛魚自足飡寘<lb/>
+<pb n="KR4c0090_SBCK_005-7a"/>
+壁能爲害時将刷蘋浪又取懸藤帶不及<lb/>
+腰上金何勞問蓍蔡<lb/>
+　　　和添漁具五篇<lb/>
+　　　　漁庵<lb/>
+結茅次烟水用以資嘯傲豈謂釣家流忽<lb/>
+同禅室號間憑山叟占晚有溪禽嫪華屋<lb/>
+莫相非各随吾所好<lb/>
+　　　　釣磯<lb/>
+<pb n="KR4c0090_SBCK_005-7b"/>
+㨂淂白雲根秋潮未曽沒坡陁坐亀背散<lb/>
+漫垂龍髪持竿從掩霧置酒𣸪待月即此<lb/>
+放神情何勞適吴越<lb/>
+　　　　蓑衣<lb/>
+山前渡㣲雨不廢小澗漁上有青襏襫下<lb/>
+有新腒踈滴瀝珠影泫離披嵐彩虚君看<lb/>
+荷製者不淂安吾廬<lb/>
+　　　　篛笠<lb/>
+<pb n="KR4c0090_SBCK_005-8a"/>
+朝携下楓浦晩戴出烟艇胃雪或平簷聴<lb/>
+泉時仄頂颷移靄然色波亂危如影不識<lb/>
+九衢塵終年居下泂<lb/>
+　　　　背篷<lb/>
+敏手勢江筠随身織烟殻沙禽固不知釣<lb/>
+伴猶𥘉斍閒從翠㣲拂静唱滄浪濯見說<lb/>
+方山潭漁童尽能學<lb/>
+　　　　樵人十詠<hi>并序</hi>
+<pb n="KR4c0090_SBCK_005-8b"/>
+　　環中先生謂天随子曰子與鹿門子<lb/>
+　　應和爲漁具詩信尽其道而羙矣世<lb/>
+　　言樵漁者必聮其命称且常与隠君<lb/>
+　　子事詩之言錯薪礼之言負薪傳之<lb/>
+　　言積薪史之言吏薪非樵者之实乎<lb/>
+　　不可足以寄㒷詠獨闕其詞耶退作<lb/>
+　　十樵以𥙷其闕漏寄鹿門子<lb/>
+　　　　樵谿<lb/>
+<pb n="KR4c0090_SBCK_005-9a"/>
+山髙谿且深蒼蒼但群木抽條欲千尺衆<lb/>
+亦疑樸樕一朝蒙剪伐万古辝林麓若遇<lb/>
+燎玄穹㣲烟出雲族<lb/>
+　　　　樵家<lb/>
+草木黄落時比鄰見相喜門當清澗尽屋<lb/>
+在寒雲裡山棚日纔下野竈烟𥘉起所謂<lb/>
+順天民唐尭亦如此<lb/>
+　　　　樵叟<lb/>
+<pb n="KR4c0090_SBCK_005-9b"/>
+自小即胼胝至今凋鬂髪所圗山褐厚所<lb/>
+爱山炉熱不知冠蓋好信但烟霞活冨貴<lb/>
+如疾顛吾從老巖穴<lb/>
+　　　　樵子<lb/>
+生在蒼崖邉能諳白雲飬<hi>去声山家謂飬柴地力飬</hi>纔穿<lb/>
+逺林去已在孤峯上薪和野芲束步帶山<lb/>
+詞唱日暮不帰耒柴扉有人望<lb/>
+　　　　樵<graphic n="KR0985" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0985.png" mimeType="image/png"/>
+<pb n="KR4c0090_SBCK_005-10a"/>
+石脉青靄間行行自幽絶方愁山嫽嬈更<lb/>
+值雲遮蔵爭推好林浪共約歸時莭不似<lb/>
+名利途相期覆車徹<lb/>
+　　　　樵斧<lb/>
+淬礪秋水清携持逺山曙丁丁在前澗杳<lb/>
+杳無尋處巢傾鳥猶在樹尽猿方去授鉞<lb/>
+者何人吾今易其慮<lb/>
+　　　　樵檐<lb/>
+<pb n="KR4c0090_SBCK_005-10b"/>
+輕無斗儲價重則筯力絶欲下半巖時憂<lb/>
+襟两如結風高勢還却雪厚疑中拆負荷<lb/>
+誠獨難移之贈来哲<lb/>
+　　　　樵風<lb/>
+朝随早潮去暮帶殘陽返向背淂清颷相<lb/>
+追無近逺採山一何遲服道常苦蹇仙術<lb/>
+信能為年華未将晚<lb/>
+　　　　樵火<lb/>
+<pb n="KR4c0090_SBCK_005-11a"/>
+積雪抱松塢蠹根燃草堂深炉与逺焼此<lb/>
+夜仍光交或似坐竒獸或如焚異香堪嗟<lb/>
+宦逰子凍死道路旁<lb/>
+　　　　樵歌<lb/>
+縱調為野吟徐徐下雲磴因知負樵楽不<lb/>
+减援琴㒷出林方自轉隔水猶相應但取<lb/>
+天壌情何求郢人稱<lb/>
+　　　和酒中十詠<lb/>
+<pb n="KR4c0090_SBCK_005-11b"/>
+　　　　酒星<lb/>
+万古醇酎氣結而成晶熒降為嵆阮徒動<lb/>
+與樽罍并不獨祭天廟亦應邀客星何當<lb/>
+八月槎載我逰青冥<lb/>
+　　　　酒泉<lb/>
+𥘉懸碧崖口漸注青谿腹味旣敵中山飲<lb/>
+寜枸一斛春疑浸花骨暮若酣雲族此地<lb/>
+淂封侯終身持美禄<lb/>
+<pb n="KR4c0090_SBCK_005-12a"/>
+　　　　酒篘<lb/>
+山斎醖方熟野童編近成持来歡伯内坐<lb/>
+使賢人清不待盎中滿旋供花下傾汪洋<lb/>
+日可挹未羡黄金籝<lb/>
+　　　　酒牀<lb/>
+六尺様何竒溪边濯来絜槽深貯方半石<lb/>
+重流还咽閑移秋病可偶聴寒夢缺往往枕眠<lb/>
+時自疑陶靖節<lb/>
+<pb n="KR4c0090_SBCK_005-12b"/>
+　　　　酒壚<lb/>
+錦里多佳人當壚自沽酒髙低過反坫大<lb/>
+小随圓瓿数錢紅燭下滌噐春江口若得<lb/>
+奉君歡十千求一斗<lb/>
+　　　　酒楼<lb/>
+百尺江上𧺫東風吹酒香行人落㠶上逺<lb/>
+樹<graphic n="KR0636" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0636.png" mimeType="image/png"/>殘陽凝睇復凝睇一觴还一觴湏知<lb/>
+凭欄客不醉难為腸<lb/>
+<pb n="KR4c0090_SBCK_005-13a"/>
+　　　　酒旗<lb/>
+揺揺倚青岸逺蕩遊人思風欹翠竹杠雨<lb/>
+澹香醪字纔来隔烟見巳斍臨江遲大旆<lb/>
+非不榮其如有王事<lb/>
+　　　　酒樽<lb/>
+黄金即為侈白石又太拙斵淂竒樹根中<lb/>
+如老蛟穴時招山下叟共酌林間月尽醉<lb/>
+两忘言誰能作天舌<lb/>
+<pb n="KR4c0090_SBCK_005-13b"/>
+　　　　酒城<lb/>
+何代驅生靈築之為醸地殊無甲兵守但<lb/>
+有糟漿氣雉堞圪如狂女墻低似醉必若<lb/>
+㩀而争先登儀狄氏<lb/>
+　　　　酒郷<lb/>
+誰知此中路暗出虗無傺廣莫是鄰封華<lb/>
+胥為附麗三杯聞古樂伯雅逢遺裔自爾<lb/>
+等榮枯何勞問玄弟<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

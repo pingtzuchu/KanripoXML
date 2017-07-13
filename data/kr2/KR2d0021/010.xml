@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>補歴代史表卷十二</head> <lb/>
+    <p>
+<pb n="KR2d0021_WYG_010-1a"/>
+欽定四庫全書<lb/>
+　補歴代史表卷十二<lb/>
+　　　　　　　　　　　　　鄞縣萬斯同撰<lb/>
+　　晉<lb/>
+　　　晉諸王世表<lb/>
+<pb n="KR2d0021_WYG_010-2a"/>
+</p>
+<p>
+<pb n="KR2d0021_WYG_010-3a"/>
+</p>
+<p>
+<pb n="KR2d0021_WYG_010-4a"/>
+</p>
+<p>
+<pb n="KR2d0021_WYG_010-5a"/>
+</p>
+<p>
+<pb n="KR2d0021_WYG_010-6a"/>
+</p>
+<p>
+<pb n="KR2d0021_WYG_010-7a"/>
+</p>
+<p>
+<pb n="KR2d0021_WYG_010-8a"/>
+</p>
+<p>
+<pb n="KR2d0021_WYG_010-9a"/>
+</p>
+<p>
+<pb n="KR2d0021_WYG_010-10a"/>
+</p>
+<p>
+<pb n="KR2d0021_WYG_010-11a"/>
+</p>
+<p>
+<pb n="KR2d0021_WYG_010-12a"/>
+　　　　　　　<hi>帝二子長哀帝丕次廢帝奕七康帝一子穆帝聃世穆帝哀帝廢帝並無子  簡文帝  子長道生為㑹稽  子早</hi>
+　　　　　　　<hi>卒第三孝武帝曜餘俞生朱生天流並早殀故止二王孝武帝二子長安帝德宗次恭帝德文</hi>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2d0021_WYG_010-12b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　補歴代史表卷十二<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>文心雕龍輯注</head>
+    <p>
+<pb n="KR4i0002_WYG_000-1a"/>
+欽定四庫全書　　　　　集部九<lb/>
+　文心雕龍輯注　　　　　詩文評類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案文心雕龍輯注十巻<lb/>
+　　　國朝黄叔琳撰叔琳有史通訓故補已別著録<lb/>
+　　　　考宋史藝文志有辛處信文心雕龍注十巻<lb/>
+　　　　其書不傳明梅慶生復創為之注不過粗具<lb/>
+　　　　梗槩王維儉踵之而作援据始稍稍加詳叔<lb/>
+<pb n="KR4i0002_WYG_000-1b"/>
+　　　　琳此本葢因二家之注而增損之徴引詮釋<lb/>
+　　　　頗為賅貫其間如注詮賦篇拓宇字不引顔<lb/>
+　　　　延年宋郊祀歌而據西京雜記疑為括宇史<lb/>
+　　　　傳篇班固徴賄事不引劉知㡬史通互証而<lb/>
+　　　　旁牽陳夀傳覓米之事此類俱不免有所訛<lb/>
+　　　　舛又楊慎朱謀㙔等妄改之文亦不能有所<lb/>
+　　　　校正然其疏通證明大致純備較之梅王二<lb/>
+　　　　注則宏贍多矣乾隆四十四年二月恭校上<lb/>
+<pb n="KR4i0002_WYG_000-2a"/>
+　　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="KR4i0002_WYG_000-3a"/>
+文心雕龍輯注原序<lb/>
+劉舍人文心雕龍一書葢萟苑之秘寳也觀其苞羅羣<lb/>
+籍多所折衷於凡文章利病抉摘靡遺綴文之士茍欲<lb/>
+希風前秀未有可舍此而别求津逮者若其使事遣言<lb/>
+紛綸葳蕤罕能切究明代梅子庚氏為之疏通證明什<lb/>
+僅四三耳畧而弗詳則剙始之難也又句字相㳂既久<lb/>
+别風淮雨往往有之雖子庚自謂校正之功五倍於楊<lb/>
+用修氏然中間脱訛故自不乏似猶未得為完善之本<lb/>
+<pb n="KR4i0002_WYG_000-3b"/>
+余生平雅好是書偶以暇日承子庚之綿蕞旁稽博攷<lb/>
+益以友朋見聞兼用衆本比對正其句字人事牽率更<lb/>
+歴暑寒乃得就緒覆閲之下差覺詳盡矣適雲間姚子<lb/>
+平山來藩署因共商付梓方今<lb/>
+文治盛隆度越先古海内操竒觚弄柔翰者咸有騰聲<lb/>
+飛實之思竊以為劉氏之緒言餘論乃斯文之體要存<lb/>
+焉不可一日廢也夫文之用在心誠能得劉氏之用心<lb/>
+因得為文之用心於以發聖典之菁英為<lb/>
+<pb n="KR4i0002_WYG_000-4a"/>
+熈朝之黼黻則是書方將為魚兔之筌蹄而又况於瑣<lb/>
+瑣箋釋乎哉峕<lb/>
+乾隆三年嵗次戊午秋九月北平黄叔琳書<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

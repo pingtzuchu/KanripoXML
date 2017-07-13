@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2n0022_WYG_013-1a"/>
+羣公帖䟦<lb/>
+逵再拜蘭亭敘議論多所未見高宗學書説及米元章<lb/>
+蘭亭敘樂毅論䟦録具别紙其他或尚有之未暇冥搜也<lb/>
+澤卿彚次蘭亭考凡方冊所紀卷軸所題亦畧備矣其<lb/>
+不可致者天上書耳秘閣藏唐人鈎摹幷鍾離景伯摹<lb/>
+三軸皆有䟦語録以遺之南城曾漸書於道山堂<lb/>
+㬇再拜蘭亭考已遍覽敬服該洽謹此納還<lb/>
+蘭亭帖所共寶澤卿嗜古攷粹如此種學之功可以推<lb/>
+<pb n="KR2n0022_WYG_013-1b"/>
+矣碧環張從祖<lb/>
+蠒紙入昭陵唐筆各名家世重定武本頗似聚訟字畫<lb/>
+反不逮古何耶澤卿<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>稡有條理可爲禊帖忠臣矣林<lb/>
+至<lb/>
+長廊睥睨來者誰出門解后渠得知不言使者求遺書<lb/>
+只言浴蠒當及時從容與語益欵洽論到翰墨尤瓌奇<lb/>
+山僧技癢不自禁稍出修禊蘭亭詞啟函展玩未及竟<lb/>
+袖有黄紙天庭追口呿氣裭僵欲死一騎趣向咸陽馳<lb/>
+<pb n="KR2n0022_WYG_013-2a"/>
+虬鬚天子喜折屐詔許兩禁同觀之龍騰鳯集在御榻<lb/>
+平生觸眼何曾窺自從蠒紙歸昭陵寶氣夜夜光陸離<lb/>
+千年議論經幾手極力追倣分毫釐博聞強識子桑子<lb/>
+上下纂輯無或遺清臞不滿六尺長中有文字無津涯<lb/>
+歸君此編忽自笑山東學究真黠兒而今御史還書癡<lb/>
+澤卿示蘭亭考作蕭翼取蘭亭辭豫章王疇若開禧丁<lb/>
+卯臘月六日還澤卿蘭亭考古括葉時<lb/>
+書法光芒晉永和後來摹寫不勝多考論又得桑夫子<lb/>
+<pb n="KR2n0022_WYG_013-2b"/>
+蘭渚風流轉不磨<lb/>
+自從蠒紙殉昭陵定武流傳賸得名總輯舊聞爲博議<lb/>
+卽今真贋尚難慿<lb/>
+予從事越府修圖志因裒蘭亭題詠及諸賢所評禊帖<lb/>
+為一編以俟澤卿庶有補蘭亭考李兼孟達書戊辰元<lb/>
+巳前二日<lb/>
+禊序之傳歌詩序䟦不知其幾愈出愈新贊揚不盡澤<lb/>
+卿又從而集之後之作者殆未巳也嘗記本長老赴闕<lb/>
+<pb n="KR2n0022_WYG_013-3a"/>
+時過金山佛印見其朴野强使賦詩仍誦唐人以來佳<lb/>
+句本忽使人代書云水裏有塊石石上有個字千人萬<lb/>
+人題只是這箇事印深服之余輙用其語曰定州有片<lb/>
+石石上幾行字千人萬人題只是這箇事可以發好事<lb/>
+者一笑樓鑰<lb/>
+澤卿徃越欲以所編蘭亭書歸帥黄公仍見三山舅氏<lb/>
+送以二絶<hi>鑰</hi>
+蘭亭禊序幾臨摹曾稡工夫十載餘擕過會稽尋古跡<lb/>
+<pb n="KR2n0022_WYG_013-3b"/>
+不妨呈似老尚書<lb/>
+四海詩名陸放翁晚成嘉遯萬縁空慿君問信今安否<lb/>
+欲向溪頭共釣篷<lb/>
+澤卿蘭亭考用工深矣擕攻媿大參詩見訪次韻倂呈<lb/>
+放翁侍御<lb/>
+　　會稽太守黄由<lb/>
+字入昭陵不可模後來僅及晉之餘識眞盍向龜堂問<lb/>
+敢謂牽聨亦得書<lb/>
+<pb n="KR2n0022_WYG_013-4a"/>
+澤卿年七十餘著蘭亭考自中原及渡江諸人題䟦網<lb/>
+蒐幾遍甲是乙非真若聚訟讀之令人腹煩因思此序<lb/>
+蓋歐褚諸公之寫眞耳然硏之極乃通於神如洙泗諸<lb/>
+子之肖仲尼終自弗叛非天寶以後諸人之所及也嗚<lb/>
+呼哀哉<hi>鞏栗齋寄示䟦王順伯本</hi>
+天台老樵示蘭亭考坐間矻矻説此書且曰我幾蘭亭<lb/>
+癡矣平生惟一善本爲人取去豈謂寓意於物不留意<lb/>
+於物者耶白鹿峰陸樗<lb/>
+<pb n="KR2n0022_WYG_013-4b"/>
+嘉定初元嘉平望道山堂觀蘭亭考歎其贍博<lb/>
+　　　長樂陳<hi>舜申</hi>宋模　莆田劉<hi>榘</hi>　仲則<lb/>
+　　　温陵陳<hi>模</hi>　中行　四明傅<hi>行簡</hi>欽父<lb/>
+　　　華亭林<hi>至</hi>　德久　建安眞<hi>德秀</hi>景化<lb/>
+　　　金陵何<hi>剡</hi>　楫臣　淸源留<hi>元剛</hi>茂潛<lb/>
+　　　檇李陸<hi>埈</hi>　子高<lb/>
+石更靑白故兼新字看由中總是眞畢子一生三百紙<lb/>
+樓公四句幾千春從來考古難題處直到名流下筆親<lb/>
+<pb n="KR2n0022_WYG_013-5a"/>
+奄有山隂多寶藏草菴外面更無人廬陵楊長孺<lb/>
+蘭亭考用意勤甚欲人無所不知詎可厭其多耶先太<lb/>
+史字畫多法蘭亭至謂遊荆州得古本蘭亭因悟筆意<lb/>
+是殆有言語不可傳者矣雙井黄<graphic n="KR1228" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1228.png" mimeType="image/png"/>子耕<lb/>
+字書自蘭亭出上下數千載無復倫擬而定武石遂爲<lb/>
+今世大議論桑君此書信足以垂名矣君事事精到習<lb/>
+詩尤工其卽事云翠添隣塹竹紅照屋山花蓋着色畫<lb/>
+也葉適<lb/>
+<pb n="KR2n0022_WYG_013-6a"/>
+嘉定辛巳冬碩䝉恩守台行山隂道上壑流巖秀洞心<lb/>
+駭目想像入東晉諸賢高風逸韻邈乎其不可挹也至<lb/>
+郡有以桑君蘭亭考見示者其<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>稡訂證靡有遺恨豈<lb/>
+惟歎其識見之該洽暇日開卷徃徃令人神遊茂林修<lb/>
+竹之下癸未司庾入越間得一至山中雖永和陳迹已<lb/>
+不復見而高林崇阿正自無恙矧思陵所臨禊帖有光<lb/>
+燭天倉司郡齋咸有舊刻嘗經前輩品題俱在攷中眞<lb/>
+足以慰懷古之意然則是編可謂有功於蘭亭當行於<lb/>
+<pb n="KR2n0022_WYG_013-6b"/>
+越無可疑者内相高公曩嘗叙其編首今吏部復刪潤<lb/>
+之豈非是編之幸碩得附名其末抑又幸也甲申季冬<lb/>
+十日靑社齊碩謹書<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

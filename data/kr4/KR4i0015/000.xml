@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>紫微詩話</head>
+    <p>
+<pb n="KR4i0015_WYG_000-1a"/>
+欽定四庫全書　　　　　集部九<lb/>
+　紫微詩話　　　　　　　詩文評類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹按紫微詩話一巻宋吕本中撰本中<lb/>
+　　　　有春秋集解己著録本中歴官中書舍人權<lb/>
+　　　　直學士院故詩家稱曰吕紫微而所作詩話<lb/>
+　　　　亦以紫微為名其中如李鼎祚易解諸條偶<lb/>
+　　　　渉經義秦觀黄樓賦諸條頗及雜文吳儔倒<lb/>
+<pb n="KR4i0015_WYG_000-1b"/>
+　　　　語諸條亦間雜諧謔而大致以論詩為主其<lb/>
+　　　　學出於黄庭堅嘗作江西宗派圖以庭堅為<lb/>
+　　　　祖而以陳師道等二十四人序列於下宋詩<lb/>
+　　　　之分門别户實自是始然本中雖得法於豫<lb/>
+　　　　章而是編稱述庭堅者惟范元實一條從叔<lb/>
+　　　　知止一條晁叔用一條潘邠老二條晁无咎<lb/>
+　　　　一條皆因他人而及之其専論庭堅詩者惟<lb/>
+　　　　歐陽季黙一條而已餘皆述其家世舊聞及<lb/>
+<pb n="KR4i0015_WYG_000-2a"/>
+　　　　友朋新作如横渠張子伊川程子之類亦備<lb/>
+　　　　載之實不専於一家又極稱李商隠重過聖<lb/>
+　　　　女祠詩一春夢雨常飄瓦盡日靈風不滿旗<lb/>
+　　　　一聫及嫦娥詩嫦娥應悔偷靈藥碧海青天<lb/>
+　　　　夜夜心二句亦不主於一格葢詩體始變之<lb/>
+　　　　時雖自出新意未嘗不兼採衆長自方回等<lb/>
+　　　　一祖三宗之說興而西崑江西二派乃判如<lb/>
+　　　　氷炭不可復合元好問題中州集末因有北<lb/>
+<pb n="KR4i0015_WYG_000-2b"/>
+　　　　人不拾江西唾未要曽郎借齒牙句實末流<lb/>
+　　　　相詬有以激之觀於是書知其初之不盡然<lb/>
+　　　　也王士禎古夫子亭雜録曰紫微詩話載張<lb/>
+　　　　子厚詩井丹已厭嘗葱葉庾亮何勞惜薤根<lb/>
+　　　　三韭二十七乃杲之事與元規何渉張誤用<lb/>
+　　　　而居仁亦無辨證何也今考南齊書庾杲之<lb/>
+　　　　傳杲之清貧自業食惟有韭葅[卄/瀹]韭生韭雜<lb/>
+　　　　菜或戲之曰誰謂庾郎貧食鮭嘗有二十七<lb/>
+<pb n="KR4i0015_WYG_000-3a"/>
+　　　　種則杲之但有食韭事實不云薤晉書庾亮<lb/>
+　　　　傳載亮噉薤因留白陶侃問曰安用此為亮<lb/>
+　　　　曰故可以種則惜薤實庾亮事與杲之無闗<lb/>
+　　　　此士禎偶然誤記安可反病本中失於辨證<lb/>
+　　　　乎乾隆四十一年十月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

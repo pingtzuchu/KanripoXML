@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_407-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選巻四百八<lb/>
+　　羊類<lb/>
+　　　七言古<hi>附長短句</hi>
+　　　　五仙謡　　　　　　　　　<hi>宋</hi>郭祥正<lb/>
+　番禺五仙人騎羊各一色手持六秬穗翺翔繞城壁翩<lb/>
+　然去乗雲諸羊化為石至今留空祠異象猶可識曽聞<lb/>
+　經猛火毫髮無㾗迹五仙寜復來三説頗難測只憂風<lb/>
+<pb n="KR4h0141_WYG_407-1b"/>
+　雨至半夜隨霹靂君不見羌廬劉越之洞天萬象森羅<lb/>
+　無一尺<lb/>
+　　　　題四羊圗　　　　　　　　<hi>宋</hi>王　阮<lb/>
+　三百維羣世不見廼以四羊為一圗人言此圗出韋偃<lb/>
+　不知韋偃有意無巖巖參天一古木下有輕荑滿郊綠<lb/>
+　雪髯隱約黑暈中沙肋微茫筆端足昔聞韋侯畫馬工<lb/>
+　杜陵長歌歌古松孰知畫羊更如此世間絶藝誰能窮<lb/>
+　蘄春太守好事者珍蔵有此希世畫嗟余得見雙眼眀<lb/>
+<pb n="KR4h0141_WYG_407-2a"/>
+此一轉語乆難下三羊游戯芳草茵一羊輙登枯樹根<lb/>
+安得添我作牧人為公鞭此一敗羣<lb/>
+　　　恭題靈羊圗<hi>宣宗御筆</hi>　　　<hi>明</hi>謝承舉<lb/>
+塞上春深草初綠黄河套邉堪放牧何來羌羚擕乳畜<lb/>
+旁有韓盧將搏逐羣羚不奔且不驚輶車無影鸞無聲<lb/>
+持旄已歸蘇子卿挾册未見皇初平羊何安閒盧何猛<lb/>
+以静制動清邉境我皇執筆發深儆意在和雍化強梗<lb/>
+是時賢相惟三楊昇平輔理稱虞唐九重優游翰墨塲<lb/>
+<pb n="KR4h0141_WYG_407-2b"/>
+天與人文垂四方<lb/>
+　　五言律<lb/>
+　　　羊　　　　　　　　　　　<hi>唐</hi>李　嶠<lb/>
+絶飲懲澆俗行驅夢逸才仙人擁石去童子馭車來夜<lb/>
+玉含星動晨氊映雪開莫言鴻漸力長牧上林隈<lb/>
+　　　秋羊　　　　　　　　　　<hi>元</hi>許有壬<lb/>
+塞上寒風起庖人急尚供戎鹽舂玉碎肥羜壓花重肉<lb/>
+淨燕支透膏凝琥珀濃年年神御殿頒餕每霑儂<lb/>
+<pb n="KR4h0141_WYG_407-3a"/>
+　　　黄羊　　　　　　　　　　　許有壬<lb/>
+草羙秋先腯沙平夜不蔵解絛文豹健臠炙宰夫忙有<lb/>
+肉須供蟻無魂亦似麞少年非好殺假爾試穿楊<lb/>
+　　　題蘇武牧羊圗　　　　　　<hi>元</hi>楊維楨<lb/>
+未入麒麟閣時時望帝鄉寄書元有鴈食雪不離羊旄<lb/>
+盡風雲節心懸日月光李陵何以别涕淚滿河梁<lb/>
+　　七言律<lb/>
+　　　牧羊兒土鼓　　　　　　　<hi>明</hi>太　祖<lb/>
+<pb n="KR4h0141_WYG_407-3b"/>
+羣羊朝牧遍山坡松下常吟樂道歌土鼓枹時山鬼聽<lb/>
+石泉濯處澗鷗和金華誰識仙機宻蘭渚何知道術多<lb/>
+嵗乆市中終得信叱羊洞口白雲過<lb/>
+　　五言絶句<lb/>
+　　　李陵臺　　　　　　　　　<hi>元</hi>馬祖常<lb/>
+故國關河逺髙臺日月荒頗聞蘇屬國海上牧羝羊<lb/>
+　　七言絶句<lb/>
+　　　小遊仙　　　　　　　　　<hi>唐</hi>曹　唐<lb/>
+<pb n="KR4h0141_WYG_407-4a"/>
+　共愛初平住九霞焚香不出閉金華白羊成隊難收拾<lb/>
+　喫盡谿頭巨勝花<lb/>
+　　　　戲答張秘監饋羊　　　　　<hi>宋</hi>黄庭堅<lb/>
+　細肋柔毛飽卧沙煩公遣騎送寒家忍令無罪充庖宰<lb/>
+　留與兒童駕小車<lb/>
+　　　　次韻王敏文待制燕京雜詠　<hi>明</hi>僧來復<lb/>
+　秋滿龍沙草已霜射鵰風急朔雲長内官連日無宣喚<lb/>
+　獵取黄羊進尚方<lb/>
+<pb n="KR4h0141_WYG_407-4b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選巻四百八<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

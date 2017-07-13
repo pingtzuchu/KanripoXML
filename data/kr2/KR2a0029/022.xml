@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2a0029_WYG_022-1a"/>
+　舊五代史巻十考證<lb/>
+梁末帝紀下宣州節度使錢傳璟　宣原本訛亘今據<lb/>
+　十國春秋改正<lb/>
+應宋亳潁鄆齊魏滑　案原本脫魏字今據冊府元龜<lb/>
+　增入<lb/>
+充知匭使　匭原本作匱考通典唐三省官有知匭使<lb/>
+　今改正<lb/>
+朱友謙襲陷同州節度使程全暉單騎奔京師　案歐<lb/>
+<pb n="KR2a0029_WYG_022-1b"/>
+　陽史本紀朱友謙殺節度使程全暉至列傳亦言全<lb/>
+　暉奔京師紀傳互異宜以是書為正<lb/>
+華温琪為静勝軍留後　案通鑑作貞明六年事與是<lb/>
+　書繫龍徳元年異<lb/>
+鎮州大將王徳明殺其帥王鎔　案五代春秋三月趙<lb/>
+　人張文禮殺其君鎔是書及通鑑作二月<lb/>
+夏四月陳州刺史惠王友能反　案歐陽史作三月與<lb/>
+　是書異<lb/>
+<pb n="KR2a0029_WYG_022-2a"/>
+詔張漢傑率兵進討　漢傑原本作衡傑今據通鑑改<lb/>
+　正<lb/>
+王彦章率舟師自楊村寨浮河而下　舟師原本訛州<lb/>
+　師今據通鑑改正<lb/>
+帝召控鶴都將皇甫麟　案通鑑考異引莊宗實録作<lb/>
+　皇甫麟歐陽史從是書作麟<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2a0029_WYG_022-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　舊五代史巻十考證<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

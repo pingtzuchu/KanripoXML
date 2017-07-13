@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+  <div> <head>周易正義序考證</head>
+    <p>
+<pb n="1a"/>
+　周易正義序考證<lb/>
+　周易正義卷第一○<hi>臣良裘</hi>按此孔頴逹所著正義<lb/>
+　　十四卷之首卷也通論易義不在經疏𫝊疏之列<lb/>
+　　故館閣書目不數之謂止十三卷併此則為十四<lb/>
+　　非書有缺也<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="1b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　周易正義序考證<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

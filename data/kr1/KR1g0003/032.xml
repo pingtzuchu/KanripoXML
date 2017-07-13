@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="1a"/>
+　經典釋文校勘記卷中<lb/>
+<hi>二葉五行注</hi>允<hi>死六行</hi>恌<hi>段作佻/八行注</hi>瑒<hi>段作揚二十行注</hi>才<hi>子三葉七行注</hi>庶<hi>段作許/十八行注</hi>挈<hi>段作絜廿二行注</hi>齊<hi>齋四葉七行注</hi>劔<hi>斂/十四行注</hi>稼<hi>抄本缺十五行注</hi>俟<hi>便</hi>閫<hi>間</hi>芳<hi>段作苦十七行</hi>戒<hi>成五葉三行注</hi>中<hi>巾九行注</hi>敧<hi>抄本缺十二行注</hi>武<hi>段作式六葉五行注</hi>斗<hi>升九行注</hi>把<hi>杷十五行注</hi>常<hi>段作帝/廿一行注</hi>瘦<hi>庾廿二行</hi>
+　由阼<hi>抄本闕注</hi>痒<hi>庠/七葉一行</hi>不勝<hi>抄本闕不字注</hi>雷<hi>雪八行注</hi>耳<hi>有十行注</hi>虯<hi>則/十一行注</hi>才<hi>求十八行注</hi>木<lb/>
+<hi>才廿一行注</hi>犬<hi>之/八葉四行注</hi>嫁<hi>段作稼六行注</hi>媿<hi>辟七行注</hi>素<hi>表十三行注</hi>足<hi>段作行九葉十八行注</hi>徐故<hi>抄本故字闕十葉六行注</hi>丘<hi>立/八行注</hi>下<hi>百十六行注</hi>宮<hi>段作官十九行注</hi>閤<hi>間</hi>辭<hi>亂/廿二行注</hi>久也<hi>抄本也字闕十一<pb n="1b"/>葉一行</hi>瀐<hi>懺二行注</hi>嫓<hi>母/十五行注</hi>亡<hi>忙廿二行</hi>墳<hi>段作憤十二葉一行注</hi>庾<hi>庚/十八行注</hi>䌃<hi>絒十三葉二行注</hi>繩<lb/>
+<hi>綢</hi>證<hi>抄本闕</hi>甫<hi>抄本闕五行注</hi>刮<hi>剖二十行注</hi>素刀反<hi>下段有又字廿一行</hi>湘夫<hi>抄本闕/十四葉一行注</hi>練<hi>見二行注</hi>
+　早<hi>段作豆三行注</hi>昌<hi>長/十一行注</hi>利<hi>詈十四行注</hi>活<hi>汚十八行注</hi>貪<hi>食廿一行注</hi>挾<hi>段作狹十五葉一行</hi>衣<hi>抄本闕二行注</hi>竿<hi>抄本闕</hi>凡<hi>抄本闕五行</hi>干<hi>于/二十行</hi>嗤<hi>蚩十六葉十行注</hi>式樹<hi>上脫一字十一行注</hi>䜴<hi>敗十二行注</hi>雷<hi>段作回二十行注</hi>舊<hi>抄本闕/廿二行注</hi>甲<hi>段作交十七葉二行注</hi>徐<hi>段作又七行注</hi>履<hi>屨/十一行注</hi>迊<hi>逆十四行注</hi>官<lb/>
+<hi>宮十八行注</hi>火故<hi>大故/十九葉一行</hi>奠<hi>莫三行注</hi>帚<hi>段作箒十五行注</hi>愠<hi>怒/二十行注</hi>夫子<hi>抄本闕廿一行</hi>盍嘗<hi>抄本闕</hi>斑<hi>班廿二行</hi>焉反<hi>抄本並闕二十葉一行注</hi>音智下同<lb/>
+<pb n="2a"/>
+<hi>段作與智同四行注</hi>而云<hi>段作亡/六行注</hi>季<hi>李八行注</hi>大<lb/>
+<hi>夫廿一行注</hi>亦弊<hi>抄本闕/廿二行</hi>及<hi>抄本闕/二十一葉三行注</hi>其<hi>段作箕</hi>柩<hi>槐十七行注</hi>扶<hi>符二十二葉廿二行注</hi>曷<lb/>
+<hi>昌二十三葉三行</hi>縣<hi>懸/注</hi>懸<hi>縣/五行</hi>狄<hi>狹二十四葉十行注</hi>怕<hi>段作伯十九行注</hi>列<hi>段作刈二十五葉十行注</hi>洛<hi>段作各十一行注</hi>草也<hi>抄本也字闕二十六葉五行注</hi>僰<hi>𤏡下同十一行注</hi>汎<hi>況/二十七葉十二行</hi>大<hi>夭十八行</hi>于<hi>干廿一行注</hi>依<hi>段作衣二十九葉四行注</hi>彼<hi>段作陂十二行注</hi>
+　注<hi>抄本闕十七行注</hi>狂<hi>段作往/三十葉二行</hi>磔<hi>段作<graphic n="KR2285" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2285.png" mimeType="image/png"/>九行</hi>欣<hi>十七行</hi>鍾<hi>鐘十八行注</hi>搏<hi>博三十一葉廿一行注</hi>
+　一<hi>段作下三十三葉十二行注</hi>林云㱙<hi>乃三十四葉四行注</hi>
+　<graphic n="KR3666" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3666.png" mimeType="image/png"/>
+                    <hi>廿二行</hi>夭<hi>犬</hi>
+　經典釋文第十二<lb/>
+<pb n="2b"/>
+<hi>一葉五行注</hi>替<hi>賛二葉六行</hi>櫬<hi>段作儭/十行注</hi>日<hi>曰三葉八行</hi>其<hi>失十九行注</hi>始說<hi>段作銳/廿一行注</hi>乎<hi>牙四葉三行注</hi>照<hi>召十行注</hi>諳<hi>段作暗/十二行注</hi>殲<hi>纖五葉二行</hi>臘<lb/>
+<hi>段作蠟五行注</hi>媿<hi>段作魏</hi>良<hi>艮/十行注</hi>貌<hi>也六葉四行注</hi>
+　翦<hi>剪六行注</hi>鉶<hi>銒/十三行注</hi>或<hi>又/七葉八行注</hi>蒲<hi>薄八葉二行注</hi>七<hi>段作土九行注</hi>古<hi>己/十二行注</hi>戶<hi>抄本闕十四行注</hi>干<hi>千十九行注</hi>丈<hi>文/廿一行注</hi>木<hi>也九葉一行注</hi>
+　愨<hi>
+                        <graphic n="KR2020" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2020.png" mimeType="image/png"/>/三行注</hi>軌<hi>車</hi>衣<hi>段作依</hi>棳<hi>掇六行注</hi>爲摩<hi>段作麾七行注</hi>不<hi>本</hi>云<hi>段作雲十行注</hi>往<hi>也/十二行注</hi>庶<hi>虐二十行注</hi>貌<hi>反十葉一行</hi>何<hi>可/三行注</hi>于<hi>予/十二行注爓</hi>夕<hi>段作久</hi>脩<hi>段作腊注同十四行注</hi>藥<hi>樂廿一行注</hi>楯<hi>段作盾十一葉三行注</hi>百<hi>角十四行注</hi>戴<hi>抄本闕十八行注</hi>卸<hi>邱</hi>井<lb/>
+　閒<hi>牛間十二葉二行</hi>丑<hi>段作尹/五行注/腝六行注</hi>
+<pb n="3a"/>
+　蠃<hi>嬴九行</hi>丈<hi>文</hi>雕<hi>下有字字十二行注</hi>注<hi>段删</hi>始<hi>下段有冠字</hi>而冠<hi>下冠字删十三行注</hi>弃也<hi>抄本二字闕十五行注</hi>試<lb/>
+<hi>弑十六行注</hi>作娶<hi>聚/二十行</hi>䐲<hi>腊注</hi>弔<hi>弟</hi>息暫反<hi>下段有同字廿二行</hi>銒<hi>鉼/十三葉九行注</hi>輒<hi>輕十九行注</hi>音<hi>抄本無</hi>晉<hi>縉廿一行注</hi>捷<hi>揵</hi>呈<hi>星/十四葉一行</hi>管<hi>菅九行注</hi>挩<lb/>
+<hi>稅十一行注</hi>艮<hi>良/二十行注</hi>丈<hi>文</hi>巵<hi>卮廿一行注</hi>羊<hi>抄本無廿二行注</hi>于癸<hi>抄本二字闕/十五葉廿一行</hi>濫<hi>襤十六葉十行注</hi>素<hi>段作索</hi>犬<hi>大十二行</hi>
+                    <graphic n="KR1123" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1123.png" mimeType="image/png"/>
+                    <hi>螽十六行注</hi>又如字<hi>上段有注字十七葉七行注</hi>倫<hi>淪/八行注</hi>䤈<hi>醯九行</hi>庪<lb/>
+<hi>十一行注</hi>戶<hi>段作古十六行</hi>毋<hi>母注</hi>模<hi>段作十七行</hi>萑<hi>雀十八行</hi>涂皆乾<hi>塗乾十九行注</hi>莫<hi>臭廿一行注</hi>羊如<hi>段作如羊廿二行注</hi>腱<hi>抄本無/十八葉一行注</hi>義<hi>抄本無二行注</hi>鴆<hi>鳩五行注</hi>䬤<hi>
+                        <graphic n="KR1464" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1464.png" mimeType="image/png"/>/十七行</hi>末<hi>未注同/廿二行</hi>肄<hi>肆十<pb n="3b"/>九葉九行注</hi>臘<hi>獵廿二行注</hi>旦<hi>段作回二十葉一行注</hi>椎<hi>惟六行注</hi>及<hi>段作文二十二葉七行注</hi>瑌<hi>八行注</hi>肄<hi>肆十行</hi>忖<hi>付十一行注</hi>刌<hi>刋/二十三葉三行</hi>咳<hi>欬四行注</hi>大<lb/>
+<hi>夭六行注</hi>古<hi>段作吉/七行注</hi>恪<hi>段作格/十九行</hi>縢<hi>滕二十行注</hi>礿<hi>初二十四葉七行注</hi>良<hi>段作長十六行注</hi>
+                    <graphic n="KR1176" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1176.png" mimeType="image/png"/>
+                    <hi>由十九行</hi>敔<hi>二十五葉四行注</hi>戴<hi>段作載十四行注</hi>齊<hi>齋十五行</hi>子<hi>段作女十八行注</hi>丈<hi>文/廿一行注</hi>單<hi>段作丹二十六葉十三行注</hi>母<hi>毋廿二行注</hi>汁<hi>什二十七葉一行</hi>于祫<lb/>
+<hi>干祫七行</hi>褘<hi>椲/注</hi>許<hi>詐</hi>逮<hi>遠/十八行注</hi>二<hi>云二十行注</hi>
+　雖<hi>二十八葉七行</hi>卜<hi>十八行注</hi>犆<hi>植/十一行</hi>扡<hi>杝廿一行注</hi>銳<hi>欽二十九葉五行注</hi>丈<hi>文/六行</hi>弗<hi>段作費注</hi>嫁<lb/>
+<hi>段作稼七行注</hi>手<hi>守/十四行注</hi>役<hi>段作彼三十葉十二行</hi>
+　于<hi>干注</hi>懦<hi>段作儒十六行注</hi>矢<hi>段作犬</hi>襦<hi>段作儒</hi>
+<pb n="4a"/>
+　經典釋文第十三<lb/>
+<hi>二葉三行注</hi>髲<hi>髮十五行注</hi>女<hi>段作力/廿二行注</hi>例<hi>似三葉五行注</hi>敗<hi>改八行注</hi>注<hi>下/九行注</hi>譏<hi>段作機十三行</hi>其<lb/>
+<hi>段作箕十九行注</hi>衞<hi>段作街/四葉十二行</hi>僈<hi>慢十五行</hi>狡<lb/>
+<hi>挍十七行</hi>膺<hi>寧/廿一行注</hi>歲<hi>段作穢五葉一行注</hi>結<hi>浩八行注</hi>直<hi>音六葉一行注</hi>亦<hi>段作或/三行注</hi>昌<hi>習五行</hi>鏗<lb/>
+<hi>鑑十二行</hi>直<hi>其/七葉三行注</hi>力之<hi>段作側由十三行注</hi>吏<lb/>
+<hi>段作例十五行注</hi>河<hi>段作何/二十行注</hi>具<hi>其八葉三行</hi>裧<lb/>
+<hi>棪五行注</hi>貝<hi>具/十五行注</hi>字<hi>段作作廿二行注</hi>條<hi>段作修九葉四行注</hi>桑<hi>段作蔡七行注</hi>下<hi>抄本無/十行</hi>椈<hi>掬十一行</hi>搗<hi>㨶十三行注</hi>醯醢<hi>醢醯十一葉二行注</hi>檢<hi>段作險十二行</hi>兮<hi>奚十六行</hi>屝<hi>注</hi>菲<hi>十二葉十行</hi>于<hi>干十四行</hi>畀<hi>卑注</hi>上<hi>本/十九行注</hi>支允<hi>抄本無十三葉一行注</hi>
+<pb n="4b"/>
+　及下<hi>下有注字十行注</hi>啼<hi>帝/十二行注</hi>大<hi>段作天十九行注</hi>主<hi>注十四葉四行注</hi>鴆<hi>鳩</hi>荒<hi>好/十五葉三行</hi>紐<hi>細五行注</hi>㞵<hi>十九行</hi>幬<hi>懤二十行注</hi>工<hi>江十六葉四行</hi>揄<hi>檢十九行注</hi>亦<hi>抄本無廿一行</hi>埋<hi>里/廿二行注</hi>糾<hi>純十七葉六行注</hi>讓<hi>諒十六行注</hi>歷<hi>段作/廿二行注</hi>才<hi>少十八葉十四行注</hi>苦<hi>段作洗十九行</hi>藨<hi>薦/十九葉二行注</hi>齍<hi>齊八行注</hi>吏<hi>段作史十一行注</hi>襃<hi>裒/十三行</hi>自<hi>段作白二十葉六行注</hi>祁<hi>祈九行注</hi>文<hi>段作丈/十六行注</hi>嚌<hi>齊二十一葉四行</hi>詗<hi>詷九行注</hi>肱<hi>眩/十七行</hi>焉<hi>馬二十二葉七行注</hi>爲<lb/>
+<hi>段作僞二十三葉二行</hi>惷<hi>憃/注</hi>丁<hi>下/十九行注</hi>隩<hi>噢二十四葉五行</hi>日<hi>曰廿二行</hi>偝<hi>偕/注</hi>作偷<hi>愉二十五葉二行注</hi>力鎭<hi>段作刃十八行</hi>遺<hi>遧</hi>
+　經典釋文第十四<lb/>
+<pb n="5a"/>
+<hi>三葉十四行注祅/五葉四行注</hi>歷<hi>段作十三行注</hi>僇<hi>段作憀七葉十一行</hi>銳<hi>段作恱十九行注</hi>述<hi>八葉十九行</hi>
+　衍<hi>段作折廿二行注</hi>便嬖<hi>辟九葉四行</hi>潔<hi>段作絜下放此十二行注</hi>羔<hi>段删十三行注</hi>天<hi>大/十葉十六行</hi>踊<hi>踴十二葉十四行注</hi>是<hi>段删十三葉十五行</hi>號<hi>疏/注</hi>躑<hi>鄭十四葉十五行注</hi>下<hi>段作注十九行</hi>枉<hi>柱/十五葉三行注</hi>尺<hi>厂十七葉十四行注</hi>下孟<hi>段作丁子十七行注</hi>丘<hi>立廿一行注</hi>記<lb/>
+<hi>段作能</hi>博<hi>專十八葉十六行</hi>誕<hi>涎十七行注</hi>勩<hi>十九葉七行</hi>邪<hi>注</hi>俊<hi>十行注</hi>孋<hi>段作驪二十三葉十八行注</hi>
+　學<hi>段作字廿二行注</hi>䭫<hi>道/二十四葉四行注</hi>儐<hi>擯八行注</hi>
+　賜<hi>段删十四行注</hi>枚<hi>段作救</hi>
+　經典釋文第十五<lb/>
+<hi>一葉廿一行注</hi>諩<hi>謐段作二葉十八行注</hi>賢遍反<hi>下有下同<pb n="5b"/>二字三葉十四行注</hi>于<hi>段作干</hi>乎<hi>段作干廿二行注</hi>作蝕<hi>抄本無五葉七行注</hi>丁<hi>段作都/六葉廿一行注</hi>突<hi>段作空七葉十三行注</hi>寄<hi>段作癖十九行注</hi>候<hi>段作俠二十行注</hi>于<hi>段作干八葉十三行注</hi>古<hi>段作吉/十六行</hi>傅<hi>段作傳十七行注</hi>席<hi>蓆九葉三行注</hi>客<hi>段作洛</hi>置<hi>段作間十葉一行</hi>旝<hi>段作檜八行注</hi>豬<hi>段作音/二十行注</hi>僻<hi>段作辟十一葉十一行</hi>
+　以見<hi>賢遍反</hi>交綏<hi>荀佳反二條原本/倒置今校正段同/十四行注</hi>蓼<hi>段作了十二葉六行注</hi>此<hi>段作比十三行</hi>更<hi>臾/注</hi>庚<hi>庾十五行注</hi>丹<hi>段作干十三葉三行注</hi>王<hi>段作正十五葉四行注</hi>宜<hi>段作直六行注</hi>靳<hi>段作斯七行</hi>乘<hi>段作宋/十七行</hi>于<hi>段作於十六葉十四行注</hi>甫<hi>段作父二十行注</hi>工<hi>干/十七葉二行注段作明二十行注</hi>作鏘<hi>下段重一鏘字十八葉十七行注</hi>徒<hi>段作他十九葉七行注</hi>牒<hi>段作條/廿二行注</hi>肄<hi>段作肆二十<pb n="6a"/>葉六行注</hi>於<hi>一七行注</hi>下<hi>段作一二十二葉十五行</hi>徼<hi>段作儌十八行注</hi>而<hi>段作如/二十三葉一行注</hi>側鴆反<hi>抄本/無二行</hi>[車*犬]<hi>段作軑二十四葉四行注</hi>州<hi>竹/五行注</hi>太<hi>段作泰九行注</hi>試<hi>段作弑十四行注</hi>七<hi>段作士二十五葉九行</hi>戍<hi>段作戎十四行注</hi>而<hi>段作除/二十六葉一行</hi>輅<hi>段删三行</hi>下<hi>段删四行注</hi>七<hi>二段作三/六行注</hi>執<hi>軌七行注</hi>扶又<hi>段作息亮八行注</hi>同<hi>段删二十行</hi>盍<hi>段作並</hi>
+　經典釋文第十六<lb/>
+<hi>一葉六行注</hi>鷁<hi>鵪九行注</hi>七<hi>段作士/二葉一行</hi>社<hi>杜注</hi>祀<lb/>
+<hi>段作祠六行</hi>洩<hi>段作淺/十行注</hi>邾<hi>段作郜十五行</hi>有<hi>段作存注</hi>羲<hi>段删/三葉一行注</hi>介<hi>段作作</hi>音<hi>抄本無十六行注</hi>
+　何<hi>段作河四葉六行注</hi>牋<hi>段作賤五葉五六行注</hi>訟爭<hi>段作爭訟九行</hi>子<hi>段作叔/六葉十行</hi>㔻<hi>段作丕十一行注</hi>注<hi>段<pb n="6b"/>作罄十三行注</hi>于<hi>段作千七葉廿二行注</hi>及注<hi>下段有皆字八葉二行注</hi>靽<hi>段作半四行注</hi>靳<hi>段作覲八行</hi>傅<hi>段作傳九葉七行注</hi>例<hi>段作例十一行注</hi>泰<hi>蒼二十行注</hi>文<hi>段作丈廿二行注</hi>良<hi>段作長/十葉二行</hi>葅<hi>段作菹五行注</hi>刁<hi>段作召十九行注</hi>有<hi>段作又/十一葉四行注</hi>計<hi>段作司十二葉十六行</hi>鞫<hi>段作鞠十四葉十七行注</hi>又<hi>段作下十五葉一行注</hi>間厠<hi>二字段删四行注</hi>蔭<hi>段作陰十九行注</hi>敎<hi>段作敖十六葉三行注</hi>及<hi>段作文十七葉十一行注</hi>尾<hi>段作十六行</hi>人譟<hi>段作譟而十八葉一行注</hi>待<hi>段作特二行注</hi>同<hi>抄本無四行</hi>子燮<hi>普協反段移在/五行麇一條上/十五行注</hi>以<hi>段作似廿二行注</hi>㵒<hi>段作費</hi>擢<hi>段作躍二十葉一行注</hi>勿<hi>段作臥三行</hi>箠<lb/>
+<hi>段作菙十行注</hi>桃<hi>段作投/十一行</hi>毒<hi>十九行</hi>鯀<hi>鮌二十一葉十二行注</hi>禽也<hi>也段删二十二葉廿一行</hi>寵<hi>段作龍<pb n="7a"/>二十三葉四行</hi>堅<hi>豎八行注</hi>來<hi>段作末二十四葉一行注</hi>館<lb/>
+<hi>段作管十六行注</hi>下<hi>又二十五葉一行注</hi>裂<hi>段作列</hi>
+　經典釋文第十七<lb/>
+<hi>一葉六行</hi>卜<hi>十十二行注</hi>此<hi>段作凡十五行注</hi>于<hi>段作千二葉八行</hi>篳<hi>段作蓽三葉四行注</hi>薛綜曰<hi>段作云二十行</hi>拯<lb/>
+<hi>段作承四葉十九行注</hi>夫<hi>段作扶五葉九行注</hi>豸<hi>段作皃下同十一行注</hi>呼<hi>段作子</hi>止<hi>段作上六葉十一行注</hi>賣<hi>段作買十六行注</hi>槌<hi>段作廿一行</hi>執縶<hi>段作注</hi>絆<hi>段作結廿二行注</hi>適<hi>段作滴七葉三行注</hi>亦<hi>段作赤九葉二行</hi>餫<lb/>
+<hi>段作注</hi>鄆<hi>段作鄲/十葉五行注</hi>錢<hi>段作餞六行注</hi>軷<lb/>
+<hi>十七行</hi>𣏌<hi>祀十一葉七行注</hi>立<hi>段作丘十七行注</hi>皆<hi>段作音十八行注</hi>輿<hi>段作與/十二葉七行</hi>干城<hi>戶旦反本亦作扞又如字段移在八行以語一條上/十行注</hi>又<hi>段作或/十七行注</hi>直<hi>段作宜十九行注</hi>
+<pb n="7b"/>
+　快<hi>段作使廿一行</hi>俘<hi>段作浮/廿二行注</hi>喩<hi>段作偷十三葉七行注</hi>嫁<hi>段作稼廿一行注</hi>照<hi>段作召十四葉五行注</hi>玷<hi>段作站八行注</hi>宜<hi>段作庇/十五葉八行注</hi>妳<hi>段作妹十六行</hi>
+　日<hi>段作曰十七行</hi>于<hi>段作干/十六葉二行</hi>備<hi>段作蒲九行</hi>
+　括<hi>段作栝十七葉十三行</hi>糾<hi>十八葉九行</hi>之<hi>段作不注</hi>
+　必<hi>段作以十九行注</hi>以<hi>段作曰/廿二行注</hi>勇<hi>九十九葉廿二行注</hi>作<hi>段作音二十葉一行注</hi>改<hi>段作故十七行注</hi>禾<hi>段作采二十一葉十八行注</hi>尺<hi>段作失二十二葉五行</hi>餱<hi>段作糇二十三葉八行注</hi>勸<hi>段作雚/十一行注</hi>與<hi>段作有二十四葉六行注</hi>恱<hi>段作稅十一行注</hi>𣏌<hi>段作祀廿一行注</hi>失<hi>段作夫二十五葉九行注</hi>繩證反<hi>切</hi>汰<hi>段作汏十一行注</hi>照<hi>段作召二十六葉六行注</hi>目<hi>段作曰/十二行</hi>懼<hi>段作二十七葉八行</hi>弗<hi>段作不九行注</hi>革<hi>段作賣</hi>懷<hi>段作櫰十三行注</hi>
+<pb n="8a"/>
+　工<hi>段作古十九行注</hi>闃<hi>段作歷</hi>
+　經典釋文第十八<lb/>
+<hi>一葉五行注</hi>壁<hi>段作里二葉一行</hi>騁<hi>段作聘四行注</hi>杖<hi>段作抶八行注</hi>屨<hi>履/十行</hi>
+                    <graphic n="KR1176" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1176.png" mimeType="image/png"/>
+                    <hi>段作由下放此十二行注</hi>溫<hi>濫十六行</hi>官<hi>䆠十七行注</hi>七<hi>士/十九行注</hi>括<hi>段作居二十行</hi>
+　幟<hi>段作識三葉四行</hi>枚<hi>故/六行</hi>濰<hi>段作維注</hi>維<hi>段作縊十三行注</hi>扶<hi>段作夫十五行注</hi>注<hi>又/十六行注</hi>旦<hi>冕二十行注</hi>有<hi>存</hi>幷<hi>段作幷四葉一行注</hi>亦<hi>段作下</hi>升<hi>段作卦十一行注</hi>協<hi>段作移五葉十六行</hi>轘<hi>段作環二十行</hi>雨<hi>段作兩七葉二行注</hi>驂<hi>騎十三行注</hi>作庭<hi>段作廷八葉廿一行注</hi>樓<lb/>
+<hi>段作婁九葉五行</hi>
+                    <graphic n="KR0934" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0934.png" mimeType="image/png"/>蔑<hi>段作鬷蔑下同/十三行注</hi>志<hi>主十葉四行</hi>埋<hi>段作堙十一葉三行注</hi>漑<hi>段作流四行</hi>輕<hi>段作十二葉九行注</hi>騑<hi>段作騀十四行注</hi>古<hi>段作口十三葉十<pb n="8b"/>一行</hi>于<hi>段作子十四葉十七行注</hi>敷<hi>段作敖十九行注</hi>牒<hi>段作楪十五葉八行注</hi>祈<hi>段作㹞/十二行</hi>封<hi>段作於十六葉一行</hi>稅<hi>段作說十七葉七行</hi>被<hi>段作披十八葉四行注</hi>其<hi>段作具五行</hi>佞<hi>段作傷/七行注</hi>丈<hi>文</hi>澶水<hi>云木十一行注</hi>雅<lb/>
+<hi>惟十六行注</hi>王<hi>段作壬/十九葉十行</hi>芋<hi>段作芊二十葉九行注</hi>閉<hi>閈十行</hi>考<hi>段作改/十二行注</hi>七<hi>段作子十三行注</hi>
+　丏<hi>正下同二十一葉一行注</hi>覲<hi>段作七行注</hi>居<hi>段作君十九行注</hi>下同<hi>段作下文同廿一行注</hi>裯<hi>段作稠</hi>三十三<hi>段作三十二二十二葉五行</hi>且<hi>段作旦/十一行</hi>僭<hi>段作譛十三行</hi>耕<hi>十五行注</hi>亡巾<hi>段删二十三葉八行注</hi>德<hi>段作得十行注</hi>冕<hi>段作是十四行</hi>贏<hi>段作羸二十四葉六行注</hi>玩<hi>段作忨十四行注</hi>妊<hi>段作任/二十五葉七行</hi>蟲<hi>段作蠱十四行注</hi>良<hi>段作長十八行注</hi>奏<hi>段作走/十九行</hi>召<hi>段作邵廿<pb n="9a"/>二行注</hi>皆<hi>段作料二十六葉十二行注</hi>七雷<hi>抄本無二十七葉二行注</hi>瑾<hi>段作墐下同</hi>冢<hi>段作塚</hi>
+　經典釋文第十九<lb/>
+<hi>一葉七行注</hi>及<hi>段作文十二行注</hi>大行<hi>段删</hi>澠<hi>段作黽十三行注</hi>示<hi>段作尓下同十四行</hi>肄<hi>段作隸廿一行</hi>禳<hi>段作攘廿二行</hi>輿<hi>段作與二葉三行注</hi>夭<hi>段作大七行</hi>宮<hi>段作官十行</hi>汰<hi>段作汏十二行注</hi>幡<hi>播/三葉二十行</hi>昳<hi>段作跌注</hi>
+　由<hi>段作田五葉七行注</hi>樓<hi>段作慺/六葉三行注</hi>又<hi>久七葉六行</hi>先<hi>段作光七行注</hi>居<hi>段作君/八葉一行注</hi>音<hi>段删二行</hi>傴<hi>段作區注</hi>羽<hi>段作甫/九葉十三行</hi>蕃<hi>段作畨注</hi>幷<hi>段作井十九行注</hi>呼<hi>段作乎/十葉十二行</hi>蘊<hi>段作薀十六行注</hi>因<hi>段作可十一葉三行注</hi>五<hi>牛/十行注</hi>造<hi>段作䔏二十行</hi>塴<hi>段作堋十二葉六行注</hi>拈<hi>段作坫十一行</hi>汎<hi>段作況<pb n="9b"/>十二行注</hi>苦<hi>困十三葉一行</hi>篳<hi>段作畢四行注</hi>秘<hi>段作祕十四葉十行</hi>櫟<hi>段作十一行注</hi>久<hi>段作又十四行注</hi>側<hi>段作便十五葉一行注</hi>亡<hi>段作工十六葉二行注</hi>丁丈<hi>段作于又十八行注</hi>並<hi>段作幷/二十行注</hi>江<hi>段作汪十七葉八行注</hi>普<hi>段作被十三行注</hi>注同徐<hi>段作徐注同十八葉十二行</hi>
+　且<hi>段作旦十七行注</hi>焦<hi>段作佳下同十九葉一行注</hi>蹟<hi>段作賾五行注</hi>本<hi>段作一/七行</hi>易用<hi>以豉/反</hi>魴也<hi>音房二條原本倒置今依段校正十八行注</hi>火<hi>段作大</hi>輿<hi>段作與二十葉四行</hi>撊<hi>段作橌</hi>古<lb/>
+<hi>段作吉十九行注</hi>夭<hi>段作大二十一葉十五行注</hi>地<hi>段作也二十二葉廿一行注</hi>從<hi>段作欲二十三葉二行注</hi>令<hi>段作今十八行注</hi>及<hi>段作同二十四葉六行注</hi>非<hi>段作非也十行注</hi>欺<hi>段作敗十三行注</hi>音卜<hi>段作普卜反廿二行</hi>矢<hi>段作天二十五葉十行注</hi>幷<hi>段作井十八行注</hi>丁<hi>段作下廿二行<pb n="10a"/>注</hi>于<hi>段作千二十六葉十四行注</hi>莫<hi>段作旦二十行注</hi>覲直<lb/>
+　反下未陳<hi>段删廿一行</hi>大<hi>段删二十七葉七行注</hi>釐<hi>段作嫠二十八葉一行</hi>鴝<hi>段作鳩九行注</hi>褚<hi>段作楮二十九葉五行</hi>日<hi>段作曰十四行</hi>藉<hi>段作籍三十葉五行注</hi>軛<hi>段作軌十行注</hi>罄<hi>段作磬十七行注</hi>制<hi>段作例三十一葉五行注</hi>猾<lb/>
+<hi>段作滑</hi>速<hi>段作逑十一行注</hi>恭<hi>段作未</hi>
+<pb n="10b"/>
+</p>
+<p>
+　經典釋文校勘記卷中終<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>書敘指南卷十六</head> <lb/>
+    <p>
+<pb n="KR3k0016_WYG_016-1a"/>
+欽定四庫全書<lb/>
+　書敘指南卷十六<lb/>
+　　　　　　　　　　　　　明　任廣　撰<lb/>
+　　門墻館舍<lb/>
+安下處曰館穀<hi>左僖</hi>呼人宅曰甲第<hi>左/思</hi>又曰甲舍<hi>楊王孫</hi>又<lb/>
+曰東第<hi>相如○宅在甲乙次第故曰第</hi>安下處未定曰舍館未定<hi>孟子</hi>呼<lb/>
+守帥門墻曰旌<graphic n="KR1654" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1654.png" mimeType="image/png"/>
+                    <hi>選十五</hi>又曰<graphic n="KR1654" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1654.png" mimeType="image/png"/>㦸<hi>荆州先/賢傳</hi>又曰戲下<hi>韓信</hi>
+又曰瞻望帳幄<hi>臧洪</hi>又曰旌㦸之嚴<hi>沈下賢</hi>門所施行馬曰<lb/>
+<pb n="KR3k0016_WYG_016-1b"/>
+梐枒<hi>周禮</hi>客位曰謁舍<hi>陸/續</hi>見客屋曰客屋<hi>後延篤</hi>呼人室屋<lb/>
+曰蘭芷之室<hi>大戴禮</hi>又曰葯房<hi>選/九</hi>又曰綺室<hi>宦者論</hi>行廊曰<lb/>
+步廡<hi>崔郾</hi>又曰步廊<hi>相/如</hi>又曰步櫩<hi>上/</hi>又曰<graphic n="KR3812" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3812.png" mimeType="image/png"/>除<hi>李翺</hi>堂下周<lb/>
+屋曰廡<hi>説文</hi>呼人里宅曰芷閭蘭宮<hi>七/喻</hi>冬火閤曰温房<hi>何晏</hi>
+夜室曰爥房<hi>月賦</hi>僦屋居曰賃廡<hi>梁/鴻</hi>階級曰墄<hi>夏侯湛</hi>延客<lb/>
+之舘曰代舍<hi>史</hi>呼人門曰尊門<hi>書集庾亮</hi>出入門下曰忝迹<lb/>
+門墻<hi>杜牧</hi>
+　　屋室堂宇<lb/>
+<pb n="KR3k0016_WYG_016-2a"/>
+北屋曰陰厦<hi>王文考</hi>又曰陰堂<hi>何平叔</hi>坐堂外邊曰坐垂堂<lb/>
+<hi>爰盎</hi>廊舍曰重轑<hi>張厰○/轑音老</hi>門户内曰棖闑之内<hi>劉禹錫</hi>屋櫩<lb/>
+曰甍<hi>何平叔</hi>欄曰櫺檻<hi>上/</hi>屋檐曰榮<hi>王融/南簷</hi>又曰樀<hi>爾雅</hi>門限<lb/>
+曰切<hi>前外戚越后</hi>又曰扶<hi>爾/雅</hi>門橛曰闑<hi>王/尊</hi>又曰樴<hi>爾雅</hi>又曰<graphic n="KR0891" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0891.png" mimeType="image/png"/>
+<hi>上</hi>門上板曰軒<hi>後曹/后</hi>又曰楯軒<hi>相/如</hi>屏厠曰偃<hi>莊子上之其</hi>登<lb/>
+厠軒曰奏厠<hi>金日磾</hi>又曰如厠<hi>單/超</hi>村居曰廬落<hi>仇覽</hi>在邑曰<lb/>
+里<hi>前食貨</hi>在野曰廬<hi>上/</hi>屋破漏曰蛟漏雀穿<hi>皇父湜</hi>門扇曰<lb/>
+門闔<hi>公羊</hi>門闔曰扉<hi>左/襄</hi>屋折勢曰反字<hi>班固</hi>庖廐曰内庖外<lb/>
+<pb n="KR3k0016_WYG_016-2b"/>
+廐<hi>劉禹錫</hi>井欄曰幹<hi>莊秋/水</hi>寛敞曰間燥<hi>丙/吉</hi>又曰爽塏<hi>晏子</hi>貧<lb/>
+居曰士室編蓬<hi>荘二</hi>屋壞曰榱棟傾落<hi>夏侯湛</hi>又曰漏罅<lb/>
+<hi>韋温</hi>又曰藩拔級夷<hi>退/之</hi>屋中煤苔曰埃墨<hi>家語</hi>門限曰衡閾<lb/>
+<hi>班西都賦</hi>居且食於人曰舍於市之主人<hi>韓文</hi>打併厠曰塗厠<lb/>
+<hi>豫讓</hi>居弊曰傾椅枝柱而已<hi>楊/震</hi>宅大曰連里竟街<hi>楊震○曹節傳</hi>
+<hi>街作巷</hi>貧士草屋曰蓬萊之室<hi>謝承書申屠蟠</hi>屋小曰桶樸下窄<lb/>
+<hi>退之</hi>堂室退曰奧窔之内<hi>荀非十/二子</hi>出水溝曰央瀆<hi>荀正論</hi>貧<lb/>
+居曰蓬室<hi>列四</hi>大居曰廣厦隩室<hi>列/子</hi>窻曰白間<hi>何晏</hi>家室中<lb/>
+<pb n="KR3k0016_WYG_016-3a"/>
+曰曲房隠間之中<hi>劉安招隠士</hi>侈居曰文榱華梁<hi>七啟</hi>又曰彫<lb/>
+堂綺櫳<hi>張景陽七命</hi>又曰厦屋華屏<hi>左思魏都</hi>宅大曰并疆兼巷<lb/>
+<hi>上吳都</hi>堂室曰幽堂明室<hi>張景陽/七命</hi>井曰圓井<hi>七命</hi>淘井曰改<lb/>
+水<hi>續後劉儀志</hi>
+                    <graphic n="KR1624" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1624.png" mimeType="image/png"/>曰疏寮<hi>選平/子賦</hi>又曰櫳<hi>七/命</hi>又曰綺寮<hi>左思魏都賦</hi>
+又曰疏<hi>干文考綺疏</hi>廣居曰長廊廣厦<hi>上</hi>居室深曰重閨幽<lb/>
+闥<hi>上</hi>青飾<graphic n="KR1624" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1624.png" mimeType="image/png"/>曰青瑣<hi>上/</hi>對安<graphic n="KR1624" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1624.png" mimeType="image/png"/>曰房櫳對榥<hi>上</hi>木不刻<lb/>
+曰木無彫鎪<hi>上</hi>土不文飾曰土無締綿<hi>上○丨音題</hi>重簷曰<lb/>
+重霤<hi>上</hi>小<graphic n="KR1624" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1624.png" mimeType="image/png"/>隙曰料戾<hi>潘/岳</hi>野居曰荆扉槿籬<hi>選沈休文</hi>侈居<lb/>
+<pb n="KR3k0016_WYG_016-3b"/>
+曰厦屋華屏<hi>左思魏都</hi>居東屋曰處東支屋<hi>杜/牧</hi>堂曰椒堂<hi>楚辭</hi>
+<hi>取香意</hi>壁曰蓀壁<hi>上/</hi>造草屋曰作藁葢廡<hi>張酺</hi>風土可居曰<lb/>
+田地善可家<hi>陸賈</hi>屋之用曰以辟燥温寒暑<hi>襄三</hi>寢門闕曰<lb/>
+窒皇<hi>左宣</hi>廢井曰眢井<hi>左/</hi>居好宅地曰成此宅相<hi>魏舒居外家宅</hi>
+横一木無屋門曰衡門<hi>詩義問</hi>門户低小曰妨㡌礙眉<hi>周庾</hi>
+<hi>信賦</hi>郊外居曰寂寞人外<hi>上/</hi>東西廂曰个<hi>左昭</hi>塞治厠曰温<lb/>
+厠<hi>儀禮上隸人</hi>階前曰堂除<hi>考工/記</hi>别房曰離房<hi>揚雄</hi>僻室曰持<lb/>
+室<hi>莊疏四</hi>
+<pb n="KR3k0016_WYG_016-4a"/>
+　　器皿動用<hi>牀席杖</hi>
+燕居所用器曰燕器<hi>王制</hi>竹器曰篚<hi>論食貨</hi>無茵牀曰簀床<lb/>
+<hi>後袁術</hi>牀席間曰牀笫之曲<hi>選二/十六</hi>蒲席曰莞蒻<hi>秋興賦○上桓下弱</hi>
+有底曰囊<hi>趙充國</hi>無底曰橐<hi>上/</hi>連椅曰連榻<hi>杜預</hi>盛酒偏提<lb/>
+曰椑榼<hi>張騫○椑音鼙</hi>扇曰輕箑<hi>安仁秋興賦/○箑新甲反</hi>又曰便面<hi>張敞</hi>近<lb/>
+身要用物曰便身之物<hi>江革</hi>婦人粧梳物曰鏡奩中物<hi>後張</hi>
+<hi>后</hi>謂昏鏡曰霧如<hi>劉禹/錫</hi>大鼎曰函牛之鼎<hi>淮南詮言</hi>炊蒸大<lb/>
+竈曰都竈<hi>前五行</hi>溲便□器曰獸子<hi>張/騫</hi>又曰虎子<hi>後獻紀注</hi>小<lb/>
+<pb n="KR3k0016_WYG_016-4b"/>
+罌曰瓿<hi>揚雄傳丨音部</hi>瓶縣曰□<hi>陳尊○/上絹反</hi>井甃曰瓽<hi>上○丨丁浪反</hi>井<lb/>
+索曰纒徽<hi>上</hi>索曰絙<hi>前地/理</hi>救火具曰具綆缶<hi>前五行</hi>備火<lb/>
+瓮之類曰罃<hi>左成十二</hi>又曰水器<hi>上/</hi>攅竹為杖曰積竹杖<hi>武五</hi>
+<hi>子</hi>馬鞭曰馬箠<hi>陳/餘</hi>小兒戲具曰泥車瓦狗<hi>王符</hi>蒲蒻曰藉<lb/>
+藁<hi>王莽</hi>行齎長柄笠曰擔簦<hi>虞/卿</hi>陶器不中曰髻墾薜暴<hi>考工</hi>
+<hi>記一刮二如字二百四剝</hi>刀劔生澀曰凝塵澁金<hi>張/登</hi>唾盂曰唾壺<hi>獻紀</hi>
+<hi>注</hi>鏡匣曰奩<hi>後陰/后</hi>累土以居酒瓮曰鑪<hi>孔融一作盧</hi>寶杯盌<lb/>
+曰犀玉之杯<hi>西羌論</hi>氊曰毛席<hi>後西/域</hi>又曰毾㲪<hi>上○上它闔下音登</hi>
+<pb n="KR3k0016_WYG_016-5a"/>
+<hi>大床下小蹋床所用者</hi>燈盞曰釭<hi>班固/賦</hi>鞍架曰轙<hi>平子西京○丨音蟻</hi>扇治<lb/>
+袋曰排囊<hi>淮南本經丨蒲拜反</hi>諸資用曰生活之具<hi>杜牧</hi>諸器用曰<lb/>
+鉼缶匕匙<hi>上</hi>用所須曰鹽酪膏薪之品<hi>上</hi>瓦器曰甂甌<lb/>
+<hi>楚詞</hi>質素器曰陶素<hi>子建武/帝誄</hi>鏡名曰容成侯<hi>司空圖</hi>又曰金<lb/>
+烱<hi>上</hi>又曰夀光先生<hi>上/</hi>葦器圓曰簟<hi>公/羊</hi>葦器方曰笥<hi>上</hi>
+竒巧扇名曰莫難扇<hi>陸翽鄴中記</hi>浴牀曰招<hi>廣/雅</hi>牀輚曰簀<hi>説文</hi>
+牀簀曰苐<hi>上</hi>牀前木曰杠<hi>上/</hi>竹席曰筵<hi>上/</hi>衣架曰箷<hi>爾雅</hi>
+蓐席曰兹<hi>上</hi>瓠器曰甈<hi>上/</hi>钁曰鐯<hi>爾雅</hi>
+<pb n="KR3k0016_WYG_016-5b"/>
+　　棟梁榱桷<hi>塼瓦籓籬</hi>
+椽曰榱<hi>長門賦</hi>又曰橑<hi>班固西都/賦音老</hi>又曰桷<hi>何平叔賦</hi>短椽曰禁<lb/>
+楄<hi>上</hi>椽頭曰璫<hi>相如/文</hi>邪相<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>柱之柱曰游樹<hi>長門賦</hi>梁上<lb/>
+短柱曰栭<hi>平叔○蘭栭文考作芝栭</hi>柱曰楹<hi>前五/行</hi>柱頭曰欂<hi>王文考碧步反</hi>
+柱根曰跋<hi>何平叔</hi>梁上柱曰浮柱<hi>王文/考</hi>又曰雲楶<hi>上</hi>紅柱<lb/>
+曰丹柱<hi>上</hi>角梁下承柱木曰轅<hi>何平叔/雙丨</hi>屋梁曰極<hi>前郊祀</hi>
+角梁曰陽馬<hi>何平叔</hi>重梁曰雙枚<hi>上/</hi>曲短梁曰櫼櫨<hi>上</hi>屋<lb/>
+下重梁曰懸棟<hi>王文秀柱丨</hi>棟曰屋穏<hi>爾/雅</hi>重斗曰層櫨<hi>王文考</hi>
+<pb n="KR3k0016_WYG_016-6a"/>
+承栱之木曰枓<hi>何平叔</hi>又曰欒<hi>上○/重丨</hi>栱曰曲枅<hi>王文考</hi>枓栱<lb/>
+曰桁梧<hi>何平叔</hi>斗上横木曰柎<hi>王文/考</hi>又手曰枝撑<hi>上</hi>又曰<lb/>
+税<hi>上○藻丨</hi>屋梠曰桭<hi>揚/雄</hi>連簷曰㮰梠<hi>何平叔</hi>兩重牽曰重桴<lb/>
+<hi>上</hi>鈎欄上木曰楯<hi>上/</hi>鈎欄中斜方子曰鈎錯矩成<hi>上</hi>耐<lb/>
+重子曰胡人<hi>上</hi>籓籬曰儲胥<hi>揚/雄</hi>屏墻曰蕭墻<hi>谷永</hi>又曰樹<lb/>
+<hi>爾雅</hi>白壁曰皓壁<hi>王文/考</hi>甎曰瓴甓<hi>長門/賦</hi>大瓦曰□瓦<hi>武五子</hi>
+打墻板曰板榦<hi>左宣</hi>木有脂濕曰液樠<hi>人間世</hi>木心旋裂曰<lb/>
+軸解<hi>莊子</hi>石鼎曰瑱<hi>班固西都賦/玉丨音田</hi>又曰玉舄<hi>何平叔</hi>屋之四<lb/>
+<pb n="KR3k0016_WYG_016-6b"/>
+阿曰翼<hi>班賦</hi>多牽椽曰橧桴重棼<hi>平子/賦</hi>摶風曰榮<hi>揚雄</hi>書牽<lb/>
+曰脾上梁之間<hi>左成下</hi>柱曰負棟之柱<hi>杜牧</hi>椽曰架梁之椽<lb/>
+<hi>上</hi>書欄檻曰直欄曲檻<hi>上/</hi>柏木黄心者曰黄腸<hi>光武十三</hi>木<lb/>
+不堪曰木文多敗裂<hi>沈亞之</hi>伐山曰訪山求材<hi>上</hi>書棟楹<lb/>
+曰傑材巨楹<hi>上</hi>書梁桷曰文梁勁桷<hi>上</hi>理木之器曰僝<lb/>
+<hi>左思魏都</hi>栱上枅曰薄櫨<hi>王/莽</hi>不勝任曰蘆柱薤欄<hi>異苑十丈瓦屋</hi>書<lb/>
+木<graphic n="KR1500" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1500.png" mimeType="image/png"/>曰蝎蠧<hi>李徳裕</hi>諸侯墻曰疏杼<hi>尚書大傳</hi>不華飾椽曰不<lb/>
+作之椽<hi>新論</hi>華桷曰磨龍之桷<hi>上/</hi>門樞曰椳<hi>爾雅</hi>門兩旁曰<lb/>
+<pb n="KR3k0016_WYG_016-7a"/>
+木楔<hi>上</hi>又曰棖<hi>上/</hi>木椹曰㯫<hi>上/</hi>書栭檻曰繡栭鏤檻<hi>梁王</hi>
+<hi>筠表</hi>書楶梲曰雲楶藻梲<hi>虚光/殿賦</hi>書梁柱曰虬柱虹梁<hi>梁王筠表</hi>
+書花塼曰文塼<hi>摯虞決疑要注</hi>屋棟曰甍<hi>任昉</hi>
+　　繕造修建<lb/>
+城臺始造曰築<hi>公羊</hi>修造止繕故曰新<hi>上</hi>修造有所増益<lb/>
+曰作<hi>上</hi>畫圗棟日曰草圗練<hi>李/白</hi>繕造曰凝土度木<hi>皇父湜</hi>
+又曰慮材鳩傭<hi>上</hi>補修曰繕完<hi>左成十二</hi>謂地長闊曰廣袤<lb/>
+若干<hi>前西域</hi>又曰延袤若干<hi>王子淵</hi>修造器用曰舁輦畚鍤<lb/>
+<pb n="KR3k0016_WYG_016-7b"/>
+之器<hi>禹錫</hi>監修曰䕶作<hi>鮑/宣</hi>仰泥曰塈<hi>揚雄○丨許既反</hi>執用泥箆<lb/>
+曰操鏝<hi>韓文</hi>用鐵杵築曰隠以金椎<hi>賈山</hi>盛且般物之具曰<lb/>
+畚輂<hi>左成十二上本下居王反</hi>作井曰造泉<hi>莊子</hi>欲剏造曰召匠計之<lb/>
+<hi>李文紹</hi>修建治地曰帶高増下<hi>王/莽</hi>造屋成曰葢構成<hi>上</hi>修<lb/>
+飾曰斧藻<hi>王元長</hi>泥作曰圬者<hi>韓子</hi>修造上應星曰上憲觜<lb/>
+陬<hi>上○上子移下子庾反</hi>修造計度曰審量日力<hi>何晏</hi>斤斧曰剞<graphic n="KR2683" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2683.png" mimeType="image/png"/>
+<hi>左思魏都上居綺下居衛反</hi>曲尺墨斗曰鉤繩<hi>上</hi>度視建修曰審曲<lb/>
+面勢<hi>平子東京</hi>一里内裁設版築曰里而栽<hi>左哀上</hi>如所計料<lb/>
+<pb n="KR3k0016_WYG_016-8a"/>
+曰如某之素<hi>上○某所計料人名</hi>又曰不愆于素<hi>左宣</hi>修造計人功<lb/>
+曰計徒庸<hi>左昭七</hi>相定取土方面曰物土方<hi>上</hi>又曰程土<lb/>
+物<hi>左宣</hi>料日月曰量事期<hi>左昭/七</hi>計料用曰慮材用<hi>上</hi>料人<lb/>
+糧食曰書糇糧<hi>上</hi>量溝渠曰仭溝洫<hi>上仭度也</hi>不築基曰室<lb/>
+不崇壇<hi>左襄上</hi>書屋宇曰釘頭瓦縫<hi>杜牧</hi>修造工巧曰鈎心<lb/>
+鬭角<hi>上</hi>修造事曰臿築<hi>平/子</hi>修建牢曰功堅<hi>董賢</hi>計修造曰<lb/>
+校計繕修之費<hi>後郎顗</hi>妄修造曰消功單賄<hi>上</hi>役人打號<lb/>
+曰築者謳曰云云<hi>襄三</hi>秋役曰妨於農收<hi>上</hi>厚一丈高二<lb/>
+<pb n="KR3k0016_WYG_016-8b"/>
+丈曰廣大高倍<hi>左哀上</hi>科所當築丈尺曰屬役賦丈<hi>昭七</hi>助<lb/>
+其役曰願加一力<hi>新序</hi>計料曰量功命日<hi>左宣</hi>謀監修曰度<lb/>
+有司<hi>上</hi>均板木曰平版輸<hi>上/</hi>均器用曰稱畚築<hi>上</hi>塗曰<lb/>
+塓<hi>左襄</hi>以索束築版曰縮版<hi>詩/上</hi>以虆聚土曰林<hi>上</hi>傳土曰<lb/>
+度<hi>上</hi>督役事之鼓名曰鼛<lb/>
+　　塗抆顔色<hi>方位</hi>
+抆拭塗泥匠曰<graphic n="KR1725" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1725.png" mimeType="image/png"/>人<hi>揚雄○丨乃高反</hi>塗畫匠曰設色之工<hi>考工</hi>
+<hi>記</hi>丹曰彤<hi>前趙/后</hi>漆曰髤<hi>上/</hi>又曰修梁彩制<hi>何晏</hi>塗抆曰飾<lb/>
+<pb n="KR3k0016_WYG_016-9a"/>
+以綺畫丹飾之屬<hi>侯覽</hi>白塗若泥之曰堊塈之<hi>後西域</hi>彩制<lb/>
+之狀曰霞駮雲蔚<hi>王延夀</hi>彩畫之曰布藻垂文<hi>琴賦</hi>又曰密<lb/>
+采<hi>李尤景陽殿銘</hi>又曰虬文<hi>上/</hi>又曰繢椽藻櫨<hi>杜牧</hi>蛤粉曰蜃灰<lb/>
+<hi>考工記</hi>堊飾之蛤粉曰白盛<hi>上/</hi>柱黄色曰黈<hi>穀梁</hi>柱墨色曰<lb/>
+黝堊<hi>上</hi>空青曰青艧<hi>相○丨鳥/如郭反</hi>赤土曰赭<hi>上○丨音者</hi>白土<lb/>
+曰堊<hi>後西域丨音惡</hi>染黄之木曰黄礫<hi>上/</hi>支子曰鮮支<hi>上</hi>烟支<lb/>
+曰巵<hi>貨殖</hi>迷路曰不知方面<hi>逢/萌</hi>東北地曰艮維<hi>崔駰</hi>畫色曰<lb/>
+丹青素堊<hi>吕强</hi>圗畫色舊曰䵝就滅<hi>退/之</hi>丹砂曰丹矸<hi>荀王論</hi>
+<pb n="KR3k0016_WYG_016-9b"/>
+<hi>後漢音岸</hi>其色白曰皓然疑乎雪<hi>列子/四</hi>赤白曰頳素<hi>張景陽七命</hi>
+東西曰緯<hi>家語</hi>南北曰經<hi>上/</hi>方位曰東龍西虎<hi>李商隠</hi>染綠<lb/>
+草曰盭草<hi>前○百官</hi>染大赤草曰舊茷<hi>左/定</hi>淺青色曰葱<hi>爾雅</hi>黒<lb/>
+色曰黝<hi>上</hi>染曰縓<hi>上/</hi>再染曰頳<hi>上/</hi>三染曰絳<hi>上</hi>
+　　錢貨寶貝<lb/>
+錢曰刀泉<hi>史平淮一</hi>又曰布貨<hi>上/</hi>又曰阿睹物<hi>晉王衍</hi>又曰神<lb/>
+物<hi>魯襃錢神論</hi>又曰如兄<hi>上/</hi>錢<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>曰刀<hi>前食貨</hi>錢有字處曰面<lb/>
+<hi>前西域</hi>錢漫曰幕<hi>上/</hi>又曰幕皮<hi>上/</hi>錢之字曰孔方<hi>魯襃</hi>呼錢<lb/>
+<pb n="KR3k0016_WYG_016-10a"/>
+曰我家兄<hi>上</hi>錢赤郭曰赤仄<hi>前食貨/張湯鑄</hi>鑄錢曰造幣<hi>上</hi>私<lb/>
+鑄錢曰姦錢<hi>上</hi>又曰偽錢<hi>上/</hi>薄小錢曰莢錢<hi>史平淮</hi>上供<lb/>
+錢曰禁錢<hi>季絳</hi>磨錢取銅屑曰取鎔<hi>漢武○丨音洛</hi>鈆錫曰青金<lb/>
+<hi>李廣利</hi>鈆之未煉者曰連<hi>貨/殖</hi>碧色珠曰木難<hi>選十四</hi>鹽池曰<lb/>
+鹽<hi>猗頓</hi>金珠細寶曰捲握之物<hi>張/堪</hi>寶物曰南金和寶<hi>宦者論</hi>
+<hi>崔寔以寶為玉</hi>雙玉曰㲄<hi>左襄/三</hi>珠玉等曰藏山隠海之靈物<hi>後南</hi>
+<hi>蠻</hi>金虎魄等曰沈沙棲陸之瑋寶<hi>上</hi>財寶曰金錢縑綵<lb/>
+之珍<hi>西羌論</hi>黄金曰盪<hi>爾/雅</hi>金之美者曰鏐<hi>上</hi>銀之美者曰<lb/>
+<pb n="KR3k0016_WYG_016-10b"/>
+鐐<hi>上音遼</hi>金多曰金如粟<hi>後張/奐</hi>錢制度曰輪郭文章<hi>董卓</hi>穿<lb/>
+錢索曰緡<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>王融○舉兩反</hi>又曰緡<hi>漢武</hi>多私鑄錢曰深巧學之<lb/>
+患<hi>上</hi>碎珠曰璣<hi>吕氏/春秋</hi>論錢之功曰天不如錢<hi>魯襃上達窮開塞</hi>
+又曰無位而尊<hi>上</hi>又曰錢可使鬼<hi>上/</hi>又曰可闇使<hi>上○上錢</hi>
+<hi>無耳</hi>又曰解嚴毅之顔<hi>上/</hi>又曰開難發之口<hi>上</hi>人敬錢曰<lb/>
+親愛如兄<hi>上</hi>好金曰兼金<hi>孟/子</hi>水精曰水玉<hi>山海經</hi>錫曰鈏<lb/>
+<hi>爾雅</hi>錢百二十文曰一算<hi>食貨志率緡二千</hi>
+　　縑帛綵繡<lb/>
+<pb n="KR3k0016_WYG_016-11a"/>
+素曰楪素<hi>釋名</hi>又曰白素<hi>范計/然</hi>絹曰踈䋌<hi>劉熙釋名</hi>又曰繁繐<lb/>
+<hi>廣雅</hi>絹色曰獨繭之色<hi>梁徐勉</hi>絹二十疋曰兩邁丘園之賁<lb/>
+<hi>上</hi>熟細錦曰重錦<hi>左/傳</hi>書熟細錦疋曰兩<hi>上</hi>越布曰白越<lb/>
+<hi>後馬后</hi>素帛曰冰紈<hi>宦者/論</hi>麄厚布曰荅布<hi>貨/殖</hi>亂絮曰緼<hi>方朔</hi>
+白地錦曰素錦<hi>爾雅</hi>好錦曰熟錦<hi>陸翽鄴/中記</hi>五色備曰繡<hi>周官</hi>
+竒錦曰走龍之錦<hi>漢武别國洞㝠記</hi>竒繡曰連煙之繡<hi>上</hi>繡曰<lb/>
+施針縷之飾<hi>王充論衡</hi>
+　　五穀新蒸<lb/>
+<pb n="KR3k0016_WYG_016-11b"/>
+稷秫黍稻麻大小豆麥曰九穀<hi>周禮注</hi>稻黍稷梁麥苽曰<lb/>
+六穀<hi>上</hi>麻黍稷小麥豆曰五穀<hi>上/</hi>禾曰嘉穀<hi>説文</hi>稻曰嘉<lb/>
+疏<hi>禮記</hi>稻之黏者曰秫<hi>古今/注</hi>米之黏者曰黍曰秬<hi>説文</hi>稷曰<lb/>
+五穀之長<hi>上</hi>粟曰嘉穀之實<hi>上/</hi>穄曰床<hi>古今注</hi>為飯美者<lb/>
+曰山陽之穄<hi>吕氏春秋</hi>又曰𤣥山之梁<hi>七/依</hi>又曰雍丘之梁<hi>左思</hi>
+<hi>魏都</hi>黍稷之總名曰梁<hi>楊泉物/理論</hi>大豆曰菽<hi>廣雅</hi>踠豆曰留豆<lb/>
+<hi>上</hi>大麥曰麰<hi>上/</hi>小麥曰䅘<hi>上/</hi>瑞禾曰靈稼<hi>曹植杜頌</hi>又曰合<lb/>
+穎連莖<hi>上魏收後魏書下尚書大傳</hi>瑞苗穟之長曰充箱<hi>尚書大傳</hi>麻幹<lb/>
+<pb n="KR3k0016_WYG_016-12a"/>
+曰棷<hi>前五行音鄒</hi>禾稈曰槀<hi>上/</hi>麻子曰黂<hi>爾/雅</hi>粳米曰疎米<hi>家語</hi>
+菉豆曰王芻<hi>離騷</hi>蒋菰米曰彫胡<hi>廣/雅</hi>麥曰<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <hi>潘岳賦吉𤣥反</hi>又曰<lb/>
+穱<hi>平子南都側角反</hi>稻曰稌<hi>説文/音杜</hi>秔曰秈<hi>廣/志</hi>黒黍曰秬<hi>吕氏春秋</hi>赤<lb/>
+梁粟曰<graphic n="KR1666" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1666.png" mimeType="image/png"/>
+                    <hi>爾雅</hi>白梁粟曰芭<hi>上/</hi>粟曰粢稷<hi>上</hi>胡豆曰國豆<lb/>
+<hi>鄴中記○石勒諱胡改</hi>稻麥時曰冬稌夏穱<hi>説/文</hi>蒺梨曰薋<hi>離騷</hi>米不<lb/>
+曽量曰不槩<hi>高駢</hi>簸米曰鼓筴播精<hi>人間世</hi>撲<graphic n="KR0554" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0554.png" mimeType="image/png"/>碎木曰薪<lb/>
+材<hi>陸龜蒙</hi>柴草曰芻茭薪蒸<hi>華陽國/志李密</hi>大曰薪<hi>樂天帖</hi>小曰蒸<lb/>
+<hi>上</hi>薪曰薪藁<hi>貨/殖</hi>又曰薪蘇<hi>王莽</hi>
+<pb n="KR3k0016_WYG_016-12b"/>
+　　㑹計支費<lb/>
+計算曰㩁㑹<hi>前膠西王</hi>説用度曰錢用諸費<hi>賈誼</hi>若干曰如干<lb/>
+<hi>任昉</hi>以時㑹計曰日成月要<hi>周/禮</hi>蓄積多曰儲廥嬴衍<hi>鄧景山</hi>
+又曰仭積<hi>張讓</hi>蓄積准備曰儲<hi>前二/</hi>増剩曰竒羨<hi>前食貨</hi>酒<lb/>
+務縻費曰工器薪樵之費<hi>上</hi>酒務所賣曰醩酨灰炭<hi>上</hi>
+<hi>丨木伐反</hi>省火燭曰省費尞火<hi>上○丨/音燎</hi>數牛羊曰若干皮<hi>貨殖</hi>
+數牛曰蹄角若干<hi>貨殖六為一</hi>數魚曰若干石<hi>貨殖</hi>數猪羊曰<lb/>
+若干雙<hi>上</hi>數馬曰若干蹄<hi>上四/為一</hi>數旃席曰若干具<hi>上</hi>未<lb/>
+<pb n="KR3k0016_WYG_016-13a"/>
+有冬備曰乏御冬之稸<hi>詩</hi>竹算子曰□<hi>楚辭○丨音廷</hi>積錢狀<lb/>
+曰鱗差螭縮<hi>孫樵</hi>十為率筭曰以仆率多少<hi>王莽</hi>取其利息<lb/>
+曰牟其嬴<hi>唐崔從</hi>蓄積曰儲米<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>薪柴<hi>鄧后</hi>又曰筐篋之藏<lb/>
+<hi>荀榮辱</hi>街道司經費曰灑道之費<hi>張讓</hi>無餘賸曰無多餘之<lb/>
+贏<hi>列子二</hi>㑹計曰詳度費務<hi>何平/叔</hi>倉蓄曰京庾之儲<hi>上</hi>儲<lb/>
+蓄用曰以俟伏臘之費<hi>潘岳</hi>都凢若干曰無慮若干<hi>段穎</hi>無<lb/>
+二年蓄曰闕洊歲之資<hi>王融</hi>斂盡曰取之盡錙銖<hi>杜牧</hi>索㽵<lb/>
+課曰訟逋租<hi>後光武記</hi>藏畜曰帑金窖粟<hi>陸龜蒙</hi>積穀不㪚曰<lb/>
+<pb n="KR3k0016_WYG_016-13b"/>
+藴年<hi>左襄二</hi>數索條數曰若干枚<hi>前許/后</hi>收藏之曰禇之<hi>左襄</hi>
+<hi>中禇</hi>所藏物壞曰敗於函篋之中<hi>曹植/表</hi>放債曰稱貯息<hi>漢書</hi>
+<hi>○稱舉也</hi>取債不與曰求假不稱<hi>曹/洪</hi>貸錢曰稱債<hi>周禮</hi>記債約<lb/>
+交紙曰傅别<hi>上○傳以著約束别人各收也</hi>
+　<lb/>
+　<lb/>
+　<lb/>
+　書敘指南卷十六<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

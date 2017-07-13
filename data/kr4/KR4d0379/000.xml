@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>嘉禾百咏</head>
+    <p>
+<pb n="KR4d0379_WYG_000-1a"/>
+欽定四庫全書　　　　　集部四<lb/>
+　嘉禾百咏　　　　　　　别集類三<hi>宋</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案嘉禾百咏一巻宋張堯同撰堯同<lb/>
+　　　　秀州人仕履未詳詩中所詠會景亭為潘師<lb/>
+　　　　旦所築趙老園為趙衮歸隠之處核其時代<lb/>
+　　　　葢寧宗以後人也宋世文人學士歌詠其土<lb/>
+　　　　風之勝者往往以誇多鬬靡為工如阮閲郴<lb/>
+<pb n="KR4d0379_WYG_000-1b"/>
+　　　　江百詠許尚華亭百詠曾極金陵百詠之類<lb/>
+　　　　所作皆以百首為率互相仿效勉強取盈不<lb/>
+　　　　免沿為習套故堯同所咏嘉興一郡山川古<lb/>
+　　　　蹟亦以百篇槩之徐碩至元嘉禾志已與陸<lb/>
+　　　　蒙老所賦嘉禾八詠同採入題詠門内後来<lb/>
+　　　　作郡志者亦頗散見其間而摭拾均未全備<lb/>
+　　　　此乃其初出單行之本每首之後皆有附考<lb/>
+　　　　不知何人所作舊有跋語亦不載姓名年月<lb/>
+<pb n="KR4d0379_WYG_000-2a"/>
+　　　　其詞雖不甚工而自吳越以後嘉興典故頗<lb/>
+　　　　可得其梗概近時朱彞尊作鴛鴦湖櫂歌一<lb/>
+　　　　百首葢即踵前例而稍變其面目者在彞尊<lb/>
+　　　　詩筆之工麗固已後来居上而堯同採掇名<lb/>
+　　　　目臚叙大凡其於地志考据要不為無助矣<lb/>
+　　　　乾隆四十四年三月恭校上<lb/>
+　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

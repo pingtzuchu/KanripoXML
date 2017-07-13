@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>三朝北盟㑹編卷一百三十三</head> <lb/>
+    <p>
+<pb n="KR2c0004_WYG_133-1a"/>
+欽定四庫全書<lb/>
+　三朝北盟㑹編卷一百三十三<lb/>
+　　　　　　　　　　　　宋　徐夢莘　撰<lb/>
+　炎興下帙<lb/>
+　　起建炎三年十月二十三日戊戌盡十一月乙巳<lb/>
+　　朔<lb/>
+張浚至興元府奏乞車駕巡興元府　奏曰竊見漢中<lb/>
+實天下形勢之地臣頃侍帷幄親聞王音謂號令中原<lb/>
+<pb n="KR2c0004_WYG_133-1b"/>
+必基於此臣所以不憚萬里捐軀自効庶幾奉承聖意<lb/>
+之萬一謹於興元理財積粟以待巡幸願陛下鑾輿早<lb/>
+為西行之謀前控六路之師後據兩川之粟左通荆㐮<lb/>
+之財右出秦隴之馬天下之計斯可定矣十月二十三<lb/>
+日浚抵興元命幕客王以寧作文代祭諸葛孔明曰某<lb/>
+以菲才誤膺聖訓出将使指頓轡漢中旁觀定軍之山<lb/>
+平生師仰之地適有行役祗謁未遑謹遣属官致祭於<lb/>
+祠下恭惟我公學貫天人識該古今沈機妙思典制作<lb/>
+<pb n="KR2c0004_WYG_133-2a"/>
+之間葢嘗玩孟徳於掌中棲仲謀於江上大勲未集賔<lb/>
+天而仙俊魄英魂歸侍帝所青山白雲覆此靈骨至於<lb/>
+今千五百年樵丁牧子再拜阡隴牛羊踐履不敢入於<lb/>
+疃畦嗚呼豈惟神物䕶持葢子思子之言曰惟天下至<lb/>
+誠惟能盡其性以之參天地育萬物終乎其天淵無聲<lb/>
+無臭者其惟我公之道徳殆所謂無間然者矣某也後<lb/>
+學安能識公目披舊史耳剽前聞服膺師門二十年於<lb/>
+此矣今皇帝遭時孔艱訪予落止将即梁洋之地漸為<lb/>
+<pb n="KR2c0004_WYG_133-2b"/>
+恢復之圖某雖選懦不武而憤敵慿陵㤀身徇國不暇<lb/>
+量力慨然請行是以在此戴惟我公負王佐之才抱王<lb/>
+佐之學時命不與齎志空山今也不然雖鼠竊狗偷肆<lb/>
+行海㝢而奸雄大猾不敢發於山林其故何哉宋徳在<lb/>
+人浹肌膚而淪骨髓皇天眷命支百世而卜萬年此某<lb/>
+之所有而公之所無也嗚呼某為何人言敢及此亦不<lb/>
+可謂無其志也若夫教誨之誘掖之左右輔相之某将<lb/>
+齋粟有祈於師門公雖在天諒聞我言知有斯時亦復<lb/>
+<pb n="KR2c0004_WYG_133-3a"/>
+憮然恵以尺寸翼我墜顛庶無罪疾涉於天淵某不敢<lb/>
+慢奉以周旋尚饗<lb/>
+二十五日庚子金人陷黄州知軍州事趙令<graphic n="KR0882" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0882.png" mimeType="image/png"/>死之<lb/>
+先是張用在光州境内沿淮劄木寨上下占百餘里盡<lb/>
+収禾稼入木寨中蓄積甚豊無退去之期光州患之至<lb/>
+是金人欲取黄州渡江以精騎五百直衝其寨用之衆<lb/>
+數十萬悉奔散金人遂焚積聚徑趨黄州一夕而至又<lb/>
+一日光州始知之金人焚不盡者光州般入城知黄州<lb/>
+<pb n="KR2c0004_WYG_133-3b"/>
+軍州事趙令<graphic n="KR0882" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0882.png" mimeType="image/png"/>三月間丁母憂解官居建昌軍七月起<lb/>
+復再知黄州八月到官先是權州蔡通判奏乞移咨武<lb/>
+昌令<graphic n="KR0882" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0882.png" mimeType="image/png"/>到州之日奏不從所乞乃移咨官吏軍民在武<lb/>
+昌縣十月戊戌金人以辰刻攻黄州射木笴鑿頭箭入<lb/>
+城守衞排軍宴興拾箭遣習水兵潘明浮江過武昌報<lb/>
+令<graphic n="KR0882" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0882.png" mimeType="image/png"/>令<graphic n="KR0882" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0882.png" mimeType="image/png"/>視箭而驚曰金兵也夜半以官兵渡江入黄州連<lb/>
+夜上城為守禦之備金人縱兵攻城庚子城陷令<graphic n="KR0882" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0882.png" mimeType="image/png"/>在<lb/>
+城之西壁被執行至城東地名土門子金人就坐説誘<lb/>
+<pb n="KR2c0004_WYG_133-4a"/>
+令降令<graphic n="KR0882" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0882.png" mimeType="image/png"/>極口罵金人敲殺之軍民被殺者不計數癸卯<lb/>
+金人渡江盡絶甲辰宴興同劉祥於竹林下尋見令<graphic n="KR0882" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0882.png" mimeType="image/png"/>尸<lb/>
+載過武昌還其家収歛之權塟在武昌縣吉祥寺　遺<lb/>
+史曰先是靖康京城圍閉趙令稗為鄂州通判部官兵<lb/>
+在武昌縣把隘京城失守閆瑾以潰兵南奔犯黄州縱<lb/>
+其下騷擾既退去令稗即渡江存撫黄州軍民訖復囘<lb/>
+鄂州黄人徳之三月令稗以朝散大夫直龍圖閣改召<lb/>
+令<graphic n="KR0882" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0882.png" mimeType="image/png"/>來知黄州五月詔修築城壁令<graphic n="KR0882" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0882.png" mimeType="image/png"/>奉詔修城十二<lb/>
+<pb n="KR2c0004_WYG_133-4b"/>
+月方畢工㑹張遇㓂黄州令<graphic n="KR0882" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0882.png" mimeType="image/png"/>諭令退去不從遇請令<lb/>
+<graphic n="KR0882" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0882.png" mimeType="image/png"/>出城相見令<graphic n="KR0882" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0882.png" mimeType="image/png"/>往見之遇令取酒一盃飲令<graphic n="KR0882" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0882.png" mimeType="image/png"/>顧敵<lb/>
+人色有異必知酒中有毒令<graphic n="KR0882" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0882.png" mimeType="image/png"/>執盞謂遇曰令<graphic n="KR0882" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0882.png" mimeType="image/png"/>知酒<lb/>
+中有毒今為公飲之而死然所願諸公不殺害城中軍<lb/>
+民言訖一飲而盡遇大驚曰酒誠有毒方欲第二盞進<lb/>
+也姑以此一盞試公耳乃取毒酒潑於地地裂而有聲<lb/>
+由是遇與羣㓂皆重令<graphic n="KR0882" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0882.png" mimeType="image/png"/>之器識令<graphic n="KR0882" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0882.png" mimeType="image/png"/>以二寵妾贈遇<lb/>
+使退去遇擕二妾去至團峰而囘自後丁進九朶花孔<lb/>
+<pb n="KR2c0004_WYG_133-5a"/>
+彦舟金人入境令<graphic n="KR0882" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0882.png" mimeType="image/png"/>皆退之　七澤孫偉竒甫劄子伏<lb/>
+見十月二十五日金人陷黄州知州趙令<graphic n="KR0882" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0882.png" mimeType="image/png"/>執在軍中<lb/>
+累日欲命以偽官敺之北去令<graphic n="KR0882" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0882.png" mimeType="image/png"/>極口詆罵卒至遇害<lb/>
+鯁烈之氣至死不屈行道之人皆言之或者欲葢從敵<lb/>
+渡江之愆乃云令<graphic n="KR0882" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0882.png" mimeType="image/png"/>城降為已汙偽命然而敵南去之<lb/>
+初有過黄州城見令<graphic n="KR0882" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0882.png" mimeType="image/png"/>遺骴委於道左又有同時在軍<lb/>
+得出者能言令<graphic n="KR0882" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0882.png" mimeType="image/png"/>遇害時事皦如白日實不可誣但以<lb/>
+令<graphic n="KR0882" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0882.png" mimeType="image/png"/>初乞移治武昌而武昌乃鄂之属縣邑鄂𨽻湖北<lb/>
+<pb n="KR2c0004_WYG_133-5b"/>
+黄隷淮西朝㫖既下令<graphic n="KR0882" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0882.png" mimeType="image/png"/>未甞闗白兩路監司此令<graphic n="KR0882" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0882.png" mimeType="image/png"/>
+不習為吏之過過亦小矣謂令<graphic n="KR0882" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0882.png" mimeType="image/png"/>棄城納欵非也令<graphic n="KR0882" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0882.png" mimeType="image/png"/>
+既被㫖徙帑藏過武昌未訖事間聞敵至復提武昌兵<lb/>
+丁北渡黄州迎敵不忠義者能之乎兼令<graphic n="KR0882" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0882.png" mimeType="image/png"/>靖康初通<lb/>
+判鄂州邸吏報偽楚遣使肆赦守将欲遁去令<graphic n="KR0882" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0882.png" mimeType="image/png"/>遂盟<lb/>
+僚佐俟其至即殺使者焚其書閉闗自守激揚之氣坐<lb/>
+客股栗鄂人悉知之嘗聞熙寧中邕州守将蘓緘罵敵<lb/>
+遇害神宗皇帝贈以節度使廟食其州嶺南父老至今<lb/>
+<pb n="KR2c0004_WYG_133-6a"/>
+能道其事自頃國家多難以來如令<graphic n="KR0882" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0882.png" mimeType="image/png"/>之死節者無幾<lb/>
+人今令<graphic n="KR0882" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0882.png" mimeType="image/png"/>盡室皆亡雖推恩無人可授若用蘓緘故事<lb/>
+實為無窮之勸矣又伏見金人渡武昌入洪州江西郡<lb/>
+縣聞風畏怖往往遂失臣節獨分寧知縣陳敏識與士<lb/>
+民以死相誓斬其傳檄之人并力拒守至今不下十二<lb/>
+月間土豪羅氏觀望旁近事勢聚羣不逞欲殺敏識以<lb/>
+付敵敏識摘發其奸悉禽首惡而誅之精誠勁挺與秋<lb/>
+霜争嚴張巡之儔也往年安陸令陳規公安令程千秋<lb/>
+<pb n="KR2c0004_WYG_133-6b"/>
+皆以禦敵論功擢領方面敏識之功實又倍之今洪州<lb/>
+未有守臣謂宜使知洪州　乞建廟禮部状準淳熈元<lb/>
+年七月二十二日勅尚書省送到降授特進樞密使淮<lb/>
+江東西路宣撫使魏國公張浚劄子奏臣據黄州状申<lb/>
+據本州士庶父老湯政等狀伏見建炎元年逆賊閆瑾<lb/>
+侵犯黄州當時通判鄂州趙令<graphic n="KR0882" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0882.png" mimeType="image/png"/>将帶官兵在武昌縣<lb/>
+把隘閆瑾纔退即時過江収復黄州却囘鄂州任所於<lb/>
+當年三月内以朝散大夫直龍圖閣知黄州到任當年<lb/>
+<pb n="KR2c0004_WYG_133-7a"/>
+五月内修城至十二月了畢至建炎二年正月初十日<lb/>
+孔彦舟侵犯本州攻打城壁凡六晝夜保守堅固賊勢<lb/>
+阻退繼而趙龍圖㑹合五州都巡蒋宣贊兵馬前來解<lb/>
+殺散而去並前後累次盜賊丁一箭九朶花李仲張遇<lb/>
+桂仲等侵犯本州城壁並皆守禦保全至建炎三年三<lb/>
+月内趙龍圖丁母憂解官往建昌縣住至當年七月内<lb/>
+起復任知黄州八月初十日再還到任當月十三日係<lb/>
+趙龍圖丁母憂去後權州蔡通判起奏朝廷乞移治武<lb/>
+<pb n="KR2c0004_WYG_133-7b"/>
+昌縣是日奏下從所乞至當月十八日趙龍圖将帶本<lb/>
+州官吏軍民渡江往武昌縣至十月二十三日辰時金<lb/>
+人圍城箭射入城内守衙排軍晏興拾得敵箭遣習水<lb/>
+兵士潘明将箭浮江過武昌縣報復趙龍圖於當夜二<lb/>
+更将帶官兵自武昌縣渡江囘來黄州連夜上城擺布<lb/>
+守禦於當月二十五日已時金人攻破州城就西邉城<lb/>
+上捉趙龍圖去城東地名土門子就坐趙龍圖一向髙<lb/>
+聲叱罵云你們甚是無禮如何敢奪大宋州郡殺害生<lb/>
+<pb n="KR2c0004_WYG_133-8a"/>
+靈真是恃强凌弱連聲呌罵我誓不屈其敵帥将酒與<lb/>
+飲令<graphic n="KR0882" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0882.png" mimeType="image/png"/>揮盞擲打云我不飲敵人之酒裭去凉衫欲換<lb/>
+戰袍令<graphic n="KR0882" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0882.png" mimeType="image/png"/>又罵云我不着敵人之衣敵帥稱待與你好<lb/>
+官令<graphic n="KR0882" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0882.png" mimeType="image/png"/>又罵云我不受敵人偽命勒令下拜又罵云我<lb/>
+有兩膝只拜我祖宗當時見其難屈毁罵不已敵帥大<lb/>
+怒用鐡鞭打趙龍圖面額一下並當左額並連眼皰血<lb/>
+流被面趙龍圖罵聲愈髙即令驅出向東竹林邉腦後<lb/>
+敲殺至死罵聲不絶同時遇害官員都監王達打死在<lb/>
+<pb n="KR2c0004_WYG_133-8b"/>
+倉巷口判官呉源從事打殺在東門外上三縣巡檢劉<lb/>
+綽從義亦打殺在東門城上並殺武昌吴縣尉朱巡檢<lb/>
+並打殺使院人吏傅拱姜邵李寔王仲李堅衙前毋宰<lb/>
+張殻等並一行兵使守城百姓打殺者不計數目至二<lb/>
+十八日金人過江盡絶二十九日排軍晏興同劉祥於<lb/>
+竹林下尋見趙龍圖尸二人<graphic n="KR1053" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1053.png" mimeType="image/png"/>到江邉用小船載尸過<lb/>
+武昌地名磨口分付與龍圖宅眷買棺木収歛令晏興<lb/>
+等埋在武昌界内吉祥寺至紹興五年吕誼周仲等具<lb/>
+<pb n="KR2c0004_WYG_133-9a"/>
+状經乞賜保明申奏朝廷去今來所陳趙龍圖守城死<lb/>
+節並是指實本州士庶兵吏等情愿乞就趙龍圖死節<lb/>
+之地建立廟宇歳時祭祀永為歸向可備申特賜旌表<lb/>
+趙龍圖廟額施行本州契勘往年朝散大夫直龍圖閣<lb/>
+趙令<graphic n="KR0882" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0882.png" mimeType="image/png"/>知黄州時守城死節皦如白日明不可誣詢之<lb/>
+同時被掠之人後得脱出尚存者能言其詳葢其方當<lb/>
+被㫖移治南岸纔聞敵騎即時奮勵一夜渡江入城禦<lb/>
+敵以攖其鋒及城陷被執極口詆罵至殺而不屈其節<lb/>
+<pb n="KR2c0004_WYG_133-9b"/>
+鯁烈之氣凜然如在可敬而仰黄人思之願立廟宇尸<lb/>
+而祝之出於誠心理實可從本州竊恐歲月久逺必致<lb/>
+滅寂然<hi>闕文</hi>白無疑申乞特賜敷奏俯從所請賜以廟額<lb/>
+載在祀典血食一方少伸臣子報國之英魂永為後人<lb/>
+忠義之激勸臣謹錄進呈伏望聖慈特降睿㫖施行取<lb/>
+進止七月二十三日三省同奉聖㫖依<lb/>
+二十六日辛丑金人自黄州渡江取路攻洪州　金人<lb/>
+在黄州岸下得小舟其數亦不多乃拆民居絞縳為筏<lb/>
+<pb n="KR2c0004_WYG_133-10a"/>
+以舟引之而行遂渡大江癸卯軍馬渡江盡絶取大冶<lb/>
+縣捷路不入興國軍徑赴洪州是時劉光世駐軍於江<lb/>
+州先遣統制王徳以兵巡綽瑞昌縣興軍大冶縣徳聞<lb/>
+金人兵過飛報光世且持重無出兵光世遂止　京城<lb/>
+留守程昌㝢入京師　知蔡州程昌㝢被命為京城留<lb/>
+守遂領兵入京師既到倉廩皆空随行兵使食附行亁<lb/>
+糧半月皆盡乃出城四外挑野菜而食　詔親征　郭<lb/>
+仲荀為浙東宣撫使軍越州傅崧卿為浙東防遏使軍<lb/>
+<pb n="KR2c0004_WYG_133-10b"/>
+婺州岳飛敗李成於長蘆九里堽　李成據滁州杜充<lb/>
+命王□征討之<graphic n="KR0645" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0645.png" mimeType="image/png"/>以本部兵駐長蘆鎮整捉行伍取瓦<lb/>
+梁路趨滁州留輜重舟船在長蘆行之次日提㸃刑獄<lb/>
+裴凜親來犒軍軍既行凜次於崇福禪院般錢絹堆貯<lb/>
+滿屋□行之三日猶在瓦梁不敢進敵遣輕騎五百渡<lb/>
+茅塘取盤城路夜行徑犯長蘆質明到長蘆輜重軍人<lb/>
+猶睡未起無一到岸者遂急斫纜開船而去賊遂入崇<lb/>
+福禪院掠僧行百姓百餘人方索金銀衣物忽聞鳴鑼<lb/>
+<pb n="KR2c0004_WYG_133-11a"/>
+聲敵皆退去僧行土軍被殺者九人敵猶以馬捶催督<lb/>
+被掠人速行行至九里堽與岳飛相遇初□之進兵也<lb/>
+充以飛為策應飛渡宣化鎮聞有敵騎五百徑趨長蘆<lb/>
+飛遂往長蘆至盤城質之村人所説與宣化一同飛遂<lb/>
+進兵疾趨九里堽敵之綽路者知官軍由盤城趨長蘆<lb/>
+恐遏歸路乃報長蘆敵兵鳴鑼促囘至九里堽相遇飛<lb/>
+擊之敵兵盡殪奪被執人𤼵囘長蘆有中刀者有中鎗<lb/>
+者數十人□不至滁州而囘㑹充促還建康遂歸建康<lb/>
+<pb n="KR2c0004_WYG_133-11b"/>
+自長蘆往滁州有大路二<graphic n="KR0645" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0645.png" mimeType="image/png"/>直行其一而不虞其他始<lb/>
+敵至長蘆凜在崇福禪院急登舟而去敵既退錢絹盡<lb/>
+為郡人攘取之遂一空<lb/>
+十一月乙巳朔韓世清欲立趙令俊不克　韓世清屯<lb/>
+於蘄州兵馬州具官員軍民状差官五員詣行在舉請<lb/>
+世清為蘄州兵馬鈐轄朝廷從之遂命世清為蘄州兵<lb/>
+馬鈐轄蘄黄汝光興國軍都巡檢使令五州應付錢糧<lb/>
+劉文舜屯於紓州為淮西都巡檢使知江州權邦彦令<lb/>
+<pb n="KR2c0004_WYG_133-12a"/>
+世清聴文舜節制世清不從聞金人已自黄州渡江入<lb/>
+興國軍乃制黄衣請蘄州鈐轄趙令俊即位以黄衣披<lb/>
+之令俊跳呌不從褫其黄衣世清之黨强之令俊呌不<lb/>
+絶口知州甄采同州縣官止之世清方稍止采出榜示<lb/>
+衆曰今月日旦望拜二聖因此官員思念二聖逺在沙<lb/>
+漠致泣下民稍安　知濠州孫逸以赴建康府稟議離<lb/>
+任而去張宗望權知州事　知濠州孫逸見防秋事急<lb/>
+乃曰當以軍期事赴建康府見相公稟議遂交州印與<lb/>
+<pb n="KR2c0004_WYG_133-12b"/>
+路分都監張宗望令宗望權知州事是時兵馬都監李<lb/>
+擇之當代而代者李玠到州逸與擇之偕行<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　三朝北盟㑹編卷一百三十三<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

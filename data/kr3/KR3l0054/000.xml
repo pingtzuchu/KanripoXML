@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>墨客揮犀</head>
+    <p>
+<pb n="KR3l0054_WYG_000-1a"/>
+欽定四庫全書　　　　　子部十二<lb/>
+　墨客揮犀　　　　　　　小說家𩔖一<hi>雜事之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案墨客揮犀十卷宋彭乗撰案北宋<lb/>
+　　　　時有兩彭乗一為華陽人真宗時進士官至<lb/>
+　　　　翰林學士宋史有傳其作此書者則筠州髙<lb/>
+　　　　安人史不載其仕履故始末無可考見書中<lb/>
+　　　　稱嘗為中書檢正又稱至和中赴任邕州而<lb/>
+<pb n="KR3l0054_WYG_000-1b"/>
+　　　　不書其為何官又自稱嘗至儋耳其議論大<lb/>
+　　　　抵推重蘇黄疑亦黨籍中人也陳振孫書錄<lb/>
+　　　　解題載此書十卷續十卷稱不知撰人名氏<lb/>
+　　　　今本為商濬刻入稗海者卷首直題彭乗姓<lb/>
+　　　　名蓋以書中所自稱名為據而止有十卷與<lb/>
+　　　　書錄解題卷目不合又書中如陳瑩中言後<lb/>
+　　　　苑牧豭㹠潘大臨作滿城風雨近重陽詩彭<lb/>
+　　　　淵材遊興國寺諸條惠洪所作冷齋夜話亦<lb/>
+<pb n="KR3l0054_WYG_000-2a"/>
+　　　　載之皆全同其文不易一字惠洪本髙安彭<lb/>
+　　　　氏子與乗同族同時不應顯相蹈襲若此又<lb/>
+　　　　如魏舒詣野店張華博物傅融有二子諸條<lb/>
+　　　　皆全錄晉書北魏書原文别無考證亦不相<lb/>
+　　　　𩔖疑所謂正續二十卷者久經闕佚此本已<lb/>
+　　　　為後人竄亂非復振孫所見之舊特其於宋<lb/>
+　　　　代遺聞軼事以及詩話文評徵引詳洽頗有<lb/>
+　　　　足資參訂者故存之以為考証之一助焉乾<lb/>
+<pb n="KR3l0054_WYG_000-2b"/>
+　　　　隆四十三年六月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

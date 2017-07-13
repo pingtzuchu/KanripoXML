@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0148_WYG_084-1a"/>
+欽定四庫全書<lb/>
+御選唐宋詩醇巻四十一<lb/>
+　　眉山蘇軾詩十<lb/>
+　　　目録<lb/>
+　　同正輔表兄㳺白水山<lb/>
+　　與正輔遊香積寺<lb/>
+　　次韻正輔同遊白水山<lb/>
+　　章質夫送酒六壺書至而酒不達戱作小詩問之<lb/>
+<pb n="KR4h0148_WYG_084-1b"/>
+　　雨後行菜<lb/>
+　　殘臘獨出二首<hi>録一首</hi>
+　　新年五首<hi>録一首</hi>
+　　次韻髙要令劉湜峽山寺見寄<lb/>
+　　惠州近城數小山類蜀道春與進士許毅野步㑹<lb/>
+　　意處飲之且醉作詩以記適參寥専使欲歸使持<lb/>
+　　此以示西湖之上諸友庶使知余未嘗一日忘湖<lb/>
+　　山也<lb/>
+<pb n="KR4h0148_WYG_084-2a"/>
+　　食荔支二首<hi>録一首</hi>
+　　遷居<lb/>
+　　兩橋詩<lb/>
+　　　東新橋<lb/>
+　　　西新橋<lb/>
+　　白鶴峰新居欲成夜過西鄰翟秀才二首<lb/>
+　　縱筆<lb/>
+　　種茶<lb/>
+<pb n="KR4h0148_WYG_084-2b"/>
+　　白鶴山新居鑿井四十尺遇磐石石盡乃得泉<lb/>
+　　三月二十九日二首<lb/>
+　　吾謫海南子由雷州被命即行了不相知至梧廼<lb/>
+　　聞尚在藤也旦夕當追及作此詩以示之<lb/>
+　　行瓊儋間肩輿坐睡夢中得句云千山動鱗甲萬<lb/>
+　　谷酣笙鐘覺而遇清風急雨戱作此數句<lb/>
+　　次前韻寄子由<lb/>
+　　遷居之夕聞鄰舍兒誦書欣然而作<lb/>
+<pb n="KR4h0148_WYG_084-3a"/>
+　　觀棊<lb/>
+　　糴米<lb/>
+　　擷菜<lb/>
+　　次韻子由月季花再生<lb/>
+　　次韻子由浴罷<lb/>
+　　十二月十七日夜坐達曉寄子由<lb/>
+　　子由生日<lb/>
+　　以黄子木拄杖為子由生日之夀<lb/>
+<pb n="KR4h0148_WYG_084-3b"/>
+　　儋耳<lb/>
+　　新居<lb/>
+　　倦夜<lb/>
+　　縱筆三首<hi>録一首</hi>
+　　貧家浄掃地<lb/>
+　　庚辰嵗人日作時聞黄河已復北流老臣舊數論<lb/>
+　　此今斯言乃騐二首<hi>録一首</hi>
+　　庚辰嵗正月十二日天門冬酒熟予自漉之且漉<lb/>
+<pb n="KR4h0148_WYG_084-4a"/>
+　　且嘗遂以大醉二首<hi>録一首</hi>
+　　汲江煎茶<lb/>
+　　予來儋耳得吠狗曰烏觜甚猛而馴隨予遷合浦<lb/>
+　　過澄邁泅而濟路人皆驚戱為作此詩<lb/>
+　　澄邁驛通潮閣二首<lb/>
+　　六月二十日夜渡海<lb/>
+　　次韻王鬱林<lb/>
+　　藤州江下夜起對月贈邵道士<lb/>
+<pb n="KR4h0148_WYG_084-4b"/>
+　　廣倅蕭大夫借前韻見贈復和答之二首<hi>録一首</hi>
+　　次韻韶倅李通直二首<hi>録一首</hi>
+　　李伯時畫其弟亮功舊隠宅圖<lb/>
+　　贈嶺上老人<lb/>
+　　予昔過嶺而南題詩龍泉鐘上今復過而北次前<lb/>
+　　韻<lb/>
+　　過嶺二首<lb/>
+　　留題顯聖寺<lb/>
+<pb n="KR4h0148_WYG_084-5a"/>
+　　歇白塔舖<lb/>
+　　鬱孤臺<lb/>
+　　次韻江晦叔二首<hi>録一首</hi>
+　　寒日與器之游南塔寺寂照臺<lb/>
+　　贈詩僧道通<lb/>
+　　予昔作壺中九華詩其後八年復過湖口則石己<lb/>
+　　為好事者取去乃和前韻以自解云<lb/>
+　　次韻郭功甫二首<hi>録一首</hi>
+<pb n="KR4h0148_WYG_084-5b"/>
+　　宋復古畫瀟湘晚景圖三首<lb/>
+　　嘲子由<lb/>
+　　第五橋<lb/>
+　　軒牕<lb/>
+　　魚<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

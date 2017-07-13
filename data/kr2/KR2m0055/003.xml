@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2m0055_WYG_003-1a"/>
+世宗憲皇帝上諭<lb/>
+　　　雍正三年五月二十七日奉<lb/>
+　上諭朕自臨御以來欽恤刑獄每遇法司奏讞必再三<lb/>
+　　覆核惟恐稍有未協又念律例一書為用刑之本其<lb/>
+　　中條例繁多若不校訂畫一有司援引斷獄得以意<lb/>
+　　為輕重貽誤非小特命纂修館刻期吿竣今據將所<lb/>
+　　纂全稿進呈朕逐一詳覽其有應行駁正者已一一<lb/>
+　　批示但明刑所以弼教關係甚大著九卿㑹同細看<lb/>
+<pb n="KR2m0055_WYG_003-1b"/>
+　　務期斟酌盡善以副朕慎重刑名之意特諭<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

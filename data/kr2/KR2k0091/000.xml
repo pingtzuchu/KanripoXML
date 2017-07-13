@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>吳地記</head>
+    <p>
+<pb n="KR2k0091_WYG_000-1a"/>
+欽定四庫全書　　　　史部十一<lb/>
+　吳地記　　　　　　　地理𩔖七<hi>古蹟之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹按吳地記一巻附後集一巻舊本題<lb/>
+　　　　唐陸廣微撰宋史藝文志作一巻與今本合<lb/>
+　　　　書中稱周敬王六年丁亥至今唐乾符三年<lb/>
+　　　　庚申凡一千八百九十五年則廣微當為僖<lb/>
+　　　　宗時人然書中虎疁一條稱唐諱虎錢氏諱<lb/>
+<pb n="KR2k0091_WYG_000-1b"/>
+　　　　鏐改為滸墅考五代史吳越世家乾符二年<lb/>
+　　　　董昌始表錢鏐為偏将光啓三年始拜鏐左衛<lb/>
+　　　　大将軍杭州刺史景福二年始<graphic n="KR1381" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1381.png" mimeType="image/png"/>鏐為鎮海<lb/>
+　　　　軍節度使潤州刺史乾寧元年始加鏐同中<lb/>
+　　　　書門下平章事二年始封鏐為彭城郡王天<lb/>
+　　　　祜元年封吳王至朱溫簒立始封鏐為吳越<lb/>
+　　　　王安得於乾符三年以董昌一偏将能使人<lb/>
+　　　　諱其嫌名且乾符三年亦安得預稱吳越至<lb/>
+<pb n="KR2k0091_WYG_000-2a"/>
+　　　　錢俶於宋太平興國三年始納土入朝當其<lb/>
+　　　　有國之時蘇州正其所𨽻豈敢斥之曰錢氏<lb/>
+　　　　尤顯為宋人之詞則此書不出廣微更無疑<lb/>
+　　　　義王士禎香祖筆記嘗摘其語兒亭馮驩宅<lb/>
+　　　　公孫挺陳開疆顧冶子墓三條又摘其琴髙<lb/>
+　　　　宅一條於地理事實皆為舛繆又按乾符三<lb/>
+　　　　年嵗在丙申實非庚申上距周敬王丁亥僅<lb/>
+　　　　一千三百九十年實非一千八百九十五年<lb/>
+<pb n="KR2k0091_WYG_000-2b"/>
+　　　　於年數亦復差悞觀其巻末稱纂成圖書以<lb/>
+　　　　俟後來者添修而此本無圖前列吳長洲嘉<lb/>
+　　　　興崑山常熟華亭海鹽七縣而後列吳縣長<lb/>
+　　　　洲縣事為多殆原書㪚佚後人採綴成編又<lb/>
+　　　　竄入他説以足巻帙故訛異若是耶以今世<lb/>
+　　　　所行别無善刻故姑仍吳琯此本錄之以存<lb/>
+　　　　梗槩而附訂其牴牾如右又吳地記後集一<lb/>
+　　　　巻盖續廣微之書者不著撰人名氏前有題<lb/>
+<pb n="KR2k0091_WYG_000-3a"/>
+　　　　詞稱自唐王郢叛亂市邑廢毁或傳記無聞<lb/>
+　　　　或廢興不一僅採摘縣錄據圖經選其確實<lb/>
+　　　　者列於傳後所記建置年號止於祥符元年<lb/>
+　　　　疑北宋人作舊本附錄今姑併存備考焉乾<lb/>
+　　　　隆四十五年七月㳟校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官　<hi>臣</hi>陸費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

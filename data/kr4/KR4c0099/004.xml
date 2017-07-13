@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4c0099_WYG_004-1a"/>
+唐風集跋<lb/>
+杜荀鶴池州人紀事云牧之微子也會昌末牧之自齊<lb/>
+安移守秌浦時妾有姙出嫁長林鄕杜筠而生荀鶴自<lb/>
+號九華山人少有詩名年四十六始擢第殷文圭賀詩<lb/>
+云一戰平酬五字勞晝歸鄉去錦為袍大鵬出海翎猶<lb/>
+濕駿馬辭天氣正豪九子舊山增秀絶二南新格變風<lb/>
+騷可謂叙述曲盡矣與楊䕫康軿夏候淑王希羽殷文<lb/>
+圭皆為淮南將田頵上客及頵遇禍梁太祖表授翰林<lb/>
+<pb n="KR4c0099_WYG_004-1b"/>
+學士主客員外郎知制誥天祐初卒顧雲詩叙極其推<lb/>
+重或又病其詩近俗惟宫詞為第一諺云杜詩三百首<lb/>
+惟在一聯中正謂風煖鳥聲碎日高花影重也唐風集<lb/>
+以之壓巻亦此意耶琹川毛晉識<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

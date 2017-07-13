@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="1a"/>
+大廣益㑹玉篇卷第四<lb/>
+︻頁部三十六<hi>一百九十九字</hi>頁<hi>下結切說/文云頭也</hi>頭<hi>逹侯切說/文首也</hi>題<hi>逹兮切額也楚辝彫題黒齒</hi>
+顔<hi>吾奸切國語天威不違顔咫尺顔謂眉靣之間也/魚怨切/顚也</hi>願<hi>同上思/也欲也</hi>頵<hi>於倫切頭頵頵大也亦楚君名</hi>
+頯<hi>渠追丘軌二切爾雅蚆博而頯主/中央廣兩頭銳</hi>䫟<hi>有衮切/靣急皃</hi>碩<hi>市易切/大也</hi>頒<hi>扶云切大首皃一云衆也又音班</hi>
+頜<hi>公荅切公羊絶其頷口也方言頥頷也說文平感切/也/胡耽切/頥也</hi>顄<hi>同上又/下感切</hi>頓<hi>都鈍切下首周禮九拜下三頓</hi>
+頡<hi>紅結切蒼頡古造書者詩傳飛而上曰頡說文直頡也</hi>䫨<hi>五髙切/髙大也/莫佩切/昧前也</hi>顥<hi>胡暠切白皃楚辝云天白顥顥</hi>
+顅<hi>苦間居研二切礼注長脰皃說文云頭髮少髮皃</hi>䫶<hi>防園切/大首皃/在姓切/好皃</hi>䫔<hi>下計切伺人也又恐也又去結切</hi>
+額<hi>雅格切方言中夏謂之額東齊謂之顙釋名鄂也有琅鄂</hi>額<hi>同上</hi>顙<hi>酥朗切/額也</hi>頷<hi>户感切莊子驪龍頷下又音含字徒木切顱/又徒佫切</hi>顱<hi>力胡切/顱髑髏</hi>項<hi>胡講切/頸後也</hi>頸<hi>吉勁切/頭莖也</hi>領<hi>良郢切詩傳云頸也周礼注猶理也</hi>
+頥<hi>以之切養也也與臣同</hi>頂<hi>丁領切顚/也上也/籕文</hi>頑<hi>五環切/鈍也/苦昆苦鈍二切頭無髮也一曰甘門</hi>
+䪴<hi>諸甚切項也又垂頭皃</hi>顚<hi>都堅切頂/也山顚/吉惟切/小頭皃/同上</hi>頗<hi>普波切不平也偏也又匹跛切</hi>
+顤<hi>牛姚切五弔切髙長頭皃</hi>頞<hi>惡葛切鼻/莖亦作</hi>頰<hi>居牒切/靣旁也</hi>顆<hi>口火切/小頭皃</hi>顑<hi>苦感呼紺二切飯不飽靣黄起行也</hi>
+顝<hi>口骨口回二切相抵觸</hi>䫀<hi>公典公很/二切頰後</hi>頍<hi>丘婢切/㪯頭皃</hi>頛<hi>力罪力/頭不正</hi>頪<hi>力外切廣雅疾也說文難曉一曰鮮白皃</hi>
+<pb n="1b"/>
+頢<hi>古活户活二切短靣皃</hi>顀<hi>直追切/上髙骨也</hi>䫥<hi>五罪切/頭不正</hi>顮<hi>禆仁切/憤懣也</hi>顡<hi>牛旣五壞二切癡頭不聦明也莫骨烏骨二切内頭水中/薄諧蒲回/二切曲頥/來感切/靣/皃</hi>䫃<hi>視均切/古脣字</hi>䫤<hi>莫丁切眉目間也詩猗嗟䫤古本亦作名</hi>
+頫<hi>靡卷切低頭說文音俯</hi>顩<hi>五檢切狹/靣銳頥皃</hi>顴<hi>距貟切/䪼也</hi>顠<hi>孚紹切/髮白皃/渠流切恭順皃詩戴弁俅俅或作俅</hi>
+䪼<hi>之劣切凖也又之出切</hi>䫡<hi>五咸切頭/靣長皃</hi>䯪<hi>口倒切/大頭也/公老切/廣大皃</hi>頏<hi>户郎切詩傳飛而下曰頏又苦浪切咽也</hi>
+䫌<hi>匹米切傾首也不正也</hi>䫞<hi>火幺切口/幺切頭大</hi>䫆<hi>視盈切/頸也</hi>頔<hi>徒激切/好也/呼憒切靣肥皃又頮同洗靣也有救切顫也病也亦作疚</hi>顒<hi>魚/切頭/大也仰也/五柯切/或作俄/五舌切/靣醜</hi>顯<hi>虚典切光也又見也明也覿也著也</hi>
+顫<hi>之扇切頭不正也又動也</hi>頎<hi>渠衣切長/皃又佳也</hi>䫦<hi>公盍切/頷車骨/胡絹切/顋後也/助轉切說文選貝也或作僎古作選</hi>
+籲<hi>俞注切和也書率龥衆戚/五角切靣/前</hi>䫂<hi>丁可切/醜也</hi>顁<hi>都定切/題顁也</hi>頇<hi>許安切/頇五旦切頭無髪頇頟也</hi>
+䫏<hi>丘之切醜也今逐疫有䫏頭/郎丁切靣/瘦淺皃</hi>
+                    <graphic n="KR3567" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3567.png" mimeType="image/png"/>
+                    <hi>扶武切/頰骨/甫越切/古髮字</hi>顉<hi>牛感切低頭亦作頷又音欽曲頥也蒲何切与皤同老人白也</hi>頨<hi>縁有矩/二切頭妍/五各切/嚴敬也</hi>頽<hi>徒回切/頰下</hi>頃<hi>去潁切說文田百畒爲一頃户吾切与胡同牛頷垂也</hi>顗<hi>牛豈切静/也謹莊皃/莫邦切/頭也/五孤切/大頭也</hi>頳<hi>丑盈切赤也/本作䞓</hi>
+頠<hi>五罪牛毁二切静也/五怪切頭/蔽/也</hi>䪹<hi>普眉切/大靣</hi>䪳<hi>余凖切/靣不平</hi>頧<hi>都雷切毋追冠名或作追</hi>
+頣<hi>弍恩切㪯眉視人皃</hi>頲<hi>他領切直/也狹頭也</hi>䪾<hi>之忍切顔色䪾䫰/愼事也亦作須</hi>䫰<hi>來軫切䪾䫰一曰頭少髮皃亦作</hi>
+<pb n="2a"/>
+顓<hi>諸縁切顓頊顓者專也頊者正也言能專正天之道也</hi>頊<hi>虚玉切/顓頊/同上又/顱/諸甚切/低頭</hi>䫲<hi>火感切動首</hi>
+顧<hi>古布切瞻也回首曰顧</hi>頋<hi>同上/俗/之善切/倨視人/烏鉤切/靣折/奴兠切/它嬾切靣平乙欹切睇盻美容皃</hi>
+                    <graphic n="KR1867" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1867.png" mimeType="image/png"/>
+                    <hi>口本口没/二切秃也</hi>頄<hi>音逵音/仇靣顴</hi>䭭<hi>舒酉切人/初産子</hi>䫩<hi>桑感切/動頭也</hi>𩕳<hi>奴頂切頂𩕳</hi>
+䫖<hi>丑甚切䫖䫴愞劣皃/普經普冷/二切頩色/許可切/頭視皃/昌旨切/靣大/尺勇切/充也/他頂切頭疾</hi>
+䫴<hi>距錦切䫖䫴又怒也</hi>䫵<hi>彌仙切雙/也又雙生/踈兩切醜/也滿也</hi>頮<hi>荒佩切/洗靣也/息進切/頂門同上於紅切頸毛亦作翁</hi>
+                    <graphic n="KR3573" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3573.png" mimeType="image/png"/>
+                    <hi>之延切雙/也額也</hi>頝<hi>口交切頝/薄不媚也</hi>䪻<hi>薄變切/冠名</hi>顂<hi>力載切/蒙也/無沸切靣前</hi>
+顦<hi>昨焦切顦顇憂皃亦作憔</hi>顇<hi>疾醉切顦/顇亦作悴</hi>預<hi>余據切宴/也樂也</hi>顟<hi>力弔切顟/顤頭長皃/同上</hi>䪷<hi>火豆切勤也</hi>
+䫉<hi>孟教切容也與皃同</hi>煩<hi>扶園切憤/悶煩亂也/丘飲切/醜皃/牛飲切/醜皃/丘耽切/醜也</hi>䫄<hi>丑滑切強皃先全切圎面亦作</hi>䫒<hi>莫昆切不/曉亦作惽</hi>頕<hi>丁甘切頰/緩或儋字/胡官切/丸也/渠公切/靣上也/呼塊切大首</hi>
+<graphic n="KR3248" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3248.png" mimeType="image/png"/>
+                    <hi>霍肱切惛也或作</hi>頦<hi>胡來切頥/下又音改</hi>䫳<hi>逹禄切䫳/䫫頭骨</hi>䫫<hi>吕侯切/䫳䫫</hi>䫜<hi>於交切/頭凹也/口感切䫡頟丘檢切顩不平也</hi>顳<hi>仁涉切在/耳前曰顳/莫安切/頇大靣</hi>顋<hi>息來切/頰顋</hi>䫚<hi>古花切/短頭也</hi>頙<hi>初眞切正也</hi>
+顃<hi>徒含切余占切靣長</hi>顬<hi>仁于切顳/顬耳前動/徒困切/秃也</hi>顐<hi>五困切/顐秃也</hi>䫷<hi>音愕面髙皃</hi>顎<hi>同上胡割切呼割切健皃</hi>䫢<hi>思移切䫢/頭不正/子廷切/䫢/蒲結切/頰短也/爭索切/不正/力篤切項也</hi>
+<pb n="2b"/>
+頖<hi>剖半切頖宫亦作泮</hi>䫛<hi>胡鉤切䫛/䫗言不正</hi>䫗<hi>胡加切/䫛䫗</hi>頌<hi>與恭切形容也/又似用切歌頌籕文</hi>
+順<hi>食閏切從也</hi>䫈<hi>七錦切皃醜</hi>
+︻頻部三十七<hi>凡三字</hi>頻<hi>毗賔切詩國歩斯頻急也說文作/水厓也人所賔附/蹙不前而止也同上</hi>
+顰<hi>音頻顰蹙憂愁不樂之狀易本作頻曰頻復厲无咎注謂頻蹙之皃</hi>
+︻<graphic n="KR1315" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1315.png" mimeType="image/png"/>部三十八<hi>凡二字</hi>
+                    <graphic n="KR1315" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1315.png" mimeType="image/png"/>
+                    <hi>舒酉切人/頭也象形</hi>脜<hi>如由切靣和也野王案柔色以藴之是以今爲柔字</hi>
+︻首部三十九<hi>凡十字</hi>首<hi>舒酉切說文與<graphic n="KR1315" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1315.png" mimeType="image/png"/>同古文首也方言云人之初生又書授切自首罪也</hi>首<hi>同上今文</hi>
+䭬<hi>苦禮切首至地今作稽/諸兖切截/也或剸同/都冷切顚/也今作頂/餘之切/籕文頥/語間切/籀文顔/甫月切古文髮居牒切靣傍今作頰</hi>馘<hi>古獲切截也詩攸馘安安馘獲也不服者殺而獻其首曰馘記曰以訊馘告亦或爲聝</hi>
+︻　部第四十<hi>凡二字/古堯切說文倒首也賈侍中曰断首倒縣/也野王謂縣首於竿頭以歸大<graphic n="KR1412" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1412.png" mimeType="image/png"/>秦刑也</hi>
+縣<hi>胡㳙切繋也今俗作懸又胡絹切周礼四甸爲縣鄭玄曰五鄙爲縣</hi>
+︻面部四十一<hi>二十九字</hi>面<hi>彌箭切說文/作/顔前也</hi>䩉<hi>扶矩切說文頰也左傳䩉車相作亦作輔烏感切靣醦色也/倉感切/面皃</hi>䩋<hi>眉可切/靣青皃/力可切/䩋</hi>䩌<hi>在遥切說文面焦枯小楚辝顔色䩌顇</hi>
+䩇<hi>竹咸切<graphic n="KR4199" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4199.png" mimeType="image/png"/>小頭皃</hi>䩂<hi>呼咸切/䩇䩂</hi>䩍<hi>力小切/面白皃</hi>䩆<hi>側板切酢/老也/女板切䩆/又慙愧或作赧</hi>
+<pb n="3a"/>
+䩊<hi>於逺切眉目之間美皃詩清揚䩊兮今作婉</hi>
+                    <graphic n="KR2311" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2311.png" mimeType="image/png"/>
+                    <hi>火含切/面紐皃/徒/切/習也</hi>靤<hi>蒲皃切/靣瘡也/音妹面皃</hi>
+靦<hi>他典切<graphic n="KR0804" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0804.png" mimeType="image/png"/>姡/也又慙皃/埤蒼/同上/字書/<graphic n="KR0804" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0804.png" mimeType="image/png"/>字/同上</hi>蠠<hi>彌吉切没勉也/音溺愁面魯且切面長皃/在咸切</hi>靨<hi>於恊切靨/輔在頰前</hi>靧<hi>音悔洗靣/与頮同</hi>䩏<hi>弥結切/靣小也/音活面小</hi>
+︻色部四十二<hi>凡十三字</hi>色<hi>帥力切采色也/又人顔容也</hi>艴<hi>蒲没切/不恱皃/同上俗</hi>
+艵<hi>普經普冷二切縹色</hi>䒍<hi>普郎切䒍/無色/莫㓪切/䒍</hi>䒋<hi>於丈切/氣流皃</hi>䒊<hi>許奚切/黃病色同上</hi>
+靘<hi>千定切靘䒌青黒色</hi>䒌<hi>亡定切/靘䒌</hi>赩<hi>許力切/大赤色</hi>艶<hi>羊念切俗豔字</hi>
+︻囟部四十三<hi>凡四字</hi>囟<hi>先進切說文云象人頭/㑹腦蓋也或作顖<graphic n="KR3000" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3000.png" mimeType="image/png"/>古文</hi>
+巤<hi>渉切毛巤亦作鬛</hi>
+                    <graphic n="KR3361" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3361.png" mimeType="image/png"/>
+                    <hi>婢時切說文人臍也从囟从比取其氣所遍也</hi>
+︻臣部四十四<hi>凡三字</hi>臣<hi>以之切說文臣/也篆作頤籀作</hi>巸<hi>与之切廣臣也長也美也</hi>
+賾<hi>仕革切凼深難見也易聖人有以見天地之賾</hi>
+︻亢部四十五<hi>凡五字</hi>亢<hi>户唐古郎二切人頸/也又苦浪切髙也/下㓪切直頸莽</hi>
+<graphic n="KR1626" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1626.png" mimeType="image/png"/>
+                    <hi>丘召切<graphic n="KR1626" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1626.png" mimeType="image/png"/>/不安也/牛召切/<graphic n="KR1626" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1626.png" mimeType="image/png"/>
+                    </hi>䶳<hi>弋灼切仰也</hi>
+︻鼻部四十六<hi>凡二十七字</hi>鼻<hi>毗至切說文引氣自卑/曰虎通鼻者肺之使也</hi>齂<hi>呼介切/鼻息</hi>鼾<hi>下旦切卧息也</hi>
+<pb n="3b"/>
+齅<hi>喜宥切以鼻就臭亦作嗅</hi>齃<hi>烏曷切鼻/莖与頞同</hi>齆<hi>烏貢切/鼻病也</hi>䶍<hi>都計切/鼻噴氣</hi>䶑<hi>同上本/作嚔/子心切髙鼻丘救切<graphic n="KR2153" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2153.png" mimeType="image/png"/>仰鼻</hi>鼽<hi>渠牛切病/寒鼻塞也/或鼽/字/呼几切/出息声</hi>齀<hi>音瓦/仰鼻同上</hi>
+<graphic n="KR2153" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2153.png" mimeType="image/png"/>
+                    <hi>牛弔牛救二切仰鼻</hi>䶏<hi>他計切鼻/䶏本作涕</hi>齇<hi>壯加切/鼻上皰</hi>䶐<hi>烏/切/喘息也/魚小切/鼻折也</hi>䶌<hi>傍孝切靣瘡鋤咸切鼻髙皃</hi>
+                    <graphic n="KR2435" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2435.png" mimeType="image/png"/>
+                    <hi>呼洽切<graphic n="KR2435" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2435.png" mimeType="image/png"/>/䶌鼻息也</hi>䶎<hi>同上</hi>齁<hi>火侯切/<graphic n="KR2435" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2435.png" mimeType="image/png"/>齁</hi>齈<hi>奴東切/鼻齈/紐六切鼻血</hi>
+︻自部四十七<hi>凡五字</hi>自<hi>疾利切鼻也象形/又由也從也率也/古文</hi>臱<hi>眉然切不見也</hi>
+臭<hi>赤又切惡氣息</hi>臰<hi>同上俗</hi>
+︻目部四十八<hi>凡三百四十字</hi>目<hi>莫六切眼目也目者氣之精神/也說文人眠象形重瞳子也古文</hi>
+䁵<hi>方辨切小兒𥘉生閉目</hi>瞦<hi>虚之切目/瞳子精也</hi>眩<hi>胡遍胡㳙二切目無/常生書若藥物瞑眩</hi>眼<hi>五簡切/目也/字書眼字</hi>
+眥<hi>静計切目際也又才賜切</hi>矏<hi>莫縁切目/旁也宻也</hi>盼<hi>普莧切黒白分/也詩美目盼兮</hi>䀹<hi>子葉切目旁毛</hi>睫<hi>同上</hi>
+睅<hi>何版切丗目皃左睅其目/方巾方微/二切大目</hi>眊<hi>莫到莫角二切不明/皃孟子眸子眊焉</hi>睒<hi>式冉切/暫視皃</hi>䁺<hi>式亦切視也</hi>
+䁔<hi>胡切大目/普又况晚切</hi>矕<hi>馬板切目/矕矕也</hi>
+                    <graphic n="KR3118" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3118.png" mimeType="image/png"/>
+                    <hi>莫報莫六二切低/月視也又細視</hi>盰<hi>公旦切/目白皃</hi>睩<hi>盧谷切視皃</hi>
+睴<hi>公困切大出目又音混</hi>窅<hi>烏了烏句/二切深目</hi>䀛<hi>亡拜亡撥二切目/冥逺視一曰乆也</hi>矔<hi>光旦切/轉目視</hi>䁈<hi>口戾切窺也</hi>
+睔<hi>古遜切大目又盧本切</hi>䀣<hi>鄙利莫八/二切直視</hi>眱<hi>与脂大奚二切說文/目小視南楚謂眄</hi>眤<hi>古眱/字</hi>瞻<hi>諸廉切視也</hi>
+<pb n="4a"/>
+眅<hi>普板普班二切多白眼/亡限切/䁂目視皃</hi>䁂<hi>音限/䁂</hi>瞞<hi>眉安切/平安也/户犬户觸二/切目瞳子</hi>
+                    <graphic n="KR1531" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1531.png" mimeType="image/png"/>
+                    <hi>同上</hi>
+瞵<hi>力辰切目精又視不了</hi>矘<hi>他朗切目/無精直視</hi>睨<hi>魚計切/衺視也</hi>眓<hi>呼逹切/視髙皃/去倪胡圭二切蔽/人視也一曰直視/同上</hi>
+眮<hi>大孔大貢二切轉目視</hi>眈<hi>當含切視/近而忘遠</hi>睎<hi>許機切/眄望也</hi>眜<hi>莫蓋切/目不明/餘連切相/頋視而行/同上</hi>
+瞴<hi>亡丁亡禹二切瞜瞴微視/步安切轉/目視也</hi>睘<hi>瞿井切/目驚視</hi>
+                    <graphic n="KR3995" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3995.png" mimeType="image/png"/>
+                    <hi>之閠切/謹鈍目</hi>眄<hi>休俱切舉/眼亦瞳子/同上匹莧切小兒白眼亦視皃</hi>睹<hi>東魯切見/也與覩同</hi>䁴<hi>止善切/視而止/同上</hi>眽<hi>莫革切相視也/眽眽姦人視也</hi>眿<hi>同上</hi>
+瞟<hi>匹昭切瞟<graphic n="KR1353" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1353.png" mimeType="image/png"/>/明察又音縹</hi>
+                    <graphic n="KR1353" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1353.png" mimeType="image/png"/>
+                    <hi>戚細切視也又音察</hi>瞤<hi>如倫切/目動也</hi>矉<hi>禆身切/恨張目</hi>眷<hi>古援切属/也頋也</hi>睠<hi>同上敕周他狄二切失意視皃</hi>眔<hi>大合切目/相及也</hi>䂄<hi>許縛切/大視也</hi>矆<hi>同上</hi>看<hi>苦安苦案/二切睎也</hi>翰<hi>同上</hi>
+眢<hi>於桓於元二切目無明</hi>睽<hi>枯攜切乖/也目少精</hi>䀏<hi>胡絹切/目摇也</hi>眴<hi>同上</hi>瞑<hi>眉田切寐也/翕目又音麫</hi>眠<hi>同上</hi>
+睢<hi>許佳切視皃胥維切水名</hi>䀩<hi>來各來灼/二切盼也</hi>睦<hi>莫六切/和也/古文</hi>眣<hi>丑乙逹結二/切目不正/古文</hi>
+瞀<hi>莫遘亡角二切目不明/耕懴耕讒/二切視也</hi>䁲<hi>莫佳切/小視也</hi>瞗<hi>下腰切/熟視也</hi>睵<hi>千才子來/二切睽也/同上</hi>
+相<hi>先羊切又先亮切相視也</hi>督<hi>都谷切正/也目痛也</hi>瞋<hi>昌眞切/張目也</hi>
+                    <graphic n="KR4639" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4639.png" mimeType="image/png"/>
+                    <hi>同上</hi>瞠<hi>丑庚丑郎二/切直視也/同上</hi>
+睊<hi>公縣切視皃孟睊睊胥讒</hi>盻<hi>下計吾計/二切恨視</hi>睗<hi>式赤切/目疾視/一决切/目深皃/古換古完二/切古觀字/同上</hi>
+睼<hi>士系徒奚二切迎視也</hi>瞥<hi>匹烈切目/瞥見也</hi>瞫<hi>尸甚切/深視皃</hi>眙<hi>敕吏切/直視也</hi>䀸<hi>丑丗切瞥也/又諸裔切</hi>䀿<hi>同上</hi>
+<pb n="4b"/>
+䁊<hi>一活女刮二切目深皃</hi>睞<hi>力代切目/瞳子不正</hi>眝<hi>直旅切/張目也</hi>睆<hi>華綰切/出目皃</hi>睍<hi>下顯切目出皃詩睍睆黃</hi>
+䁙<hi>烏澗烏殄二切目相戯</hi>眲<hi>爾志切耳/目不相信</hi>
+                    <graphic n="KR3258" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3258.png" mimeType="image/png"/>
+                    <hi>扶未切/目不明</hi>䀟<hi>同上</hi>眕<hi>之忍切重也又目有所限而止</hi>
+睺<hi>胡鈎胡遘二切半盲也</hi>瞚<hi>式閠切/目動也</hi>瞬<hi>同上</hi>䀢<hi>亦同上又/式荏切</hi>盷<hi>徒賢切大戴礼人生三月而盷又胡消切</hi>
+矇<hi>莫公切有眸子無見</hi>盲<hi>莫耕切目/無眸子</hi>睡<hi>殊惴切/坐寐也</hi>眵<hi>充支切/目傷眥</hi>䒅<hi>以證大登二切美目也大視也亦作</hi>
+䁝<hi>唯井胡亭二切惑也</hi>䀡<hi>敕驗切/視也/莫結切/目眵也</hi>䁾<hi>同上/俗</hi>眚<hi>所景切目病生翳也書眚災肆赦眚過也</hi>
+睿<hi>余芮切智也明也聖也</hi>瞪<hi>直耕切怒/目直視皃</hi>䀗<hi>居穴切/睊目</hi>眜<hi>莫逹切/目不明</hi>眯<hi>莫礼切物入目中/莊子眯目</hi>
+瞺<hi>烏外切眉目間皃</hi>眸<hi>莫侯切/目瞳子</hi>䀶<hi>理尚切/目病皃</hi>䁁<hi>同上</hi>眄<hi>莫見切說文目偏合也一曰衺視俗作䀎</hi>
+眳<hi>弥頂莫井二切眳晴不恱</hi>瞳<hi>徒公切/目珠子</hi>眂<hi>上支切/視也</hi>眡<hi>時旨切/古文視</hi>眎<hi>時至切語也亦作示又承矢切亦古文視</hi>
+睛<hi>子盈切目珠又七井切</hi>
+                    <graphic n="KR3778" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3778.png" mimeType="image/png"/>
+                    <hi>庾鞠切目/明又望也</hi>瞷<hi>胡間切/眄也</hi>䁅<hi>眉冷切/䁅/古冷切/䁅有餘視也一曰喜也</hi>
+瞡<hi>葵季切視也又居悸切</hi>䀑<hi>烏哲切/目也</hi>眺<hi>丑弔切/望也</hi>脩<hi>㑥勞切/眣也</hi>瞰<hi>苦暫切視也揚雄解嘲鬼噉其室</hi>
+䀬<hi>壯拳目縁二切目瞬</hi>眐<hi>之盈切/獨視皃</hi>眦<hi>士介切/睚眦</hi>[目*柴]<hi>同上</hi>睚<hi>五懈切睚眦又裂也又五皆切</hi>
+盯<hi>直庚切<graphic n="KR2001" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2001.png" mimeType="image/png"/>/盯視皃</hi>睳<hi>呼圭切瘦皃又目瞢/九小切/目重瞼</hi>睇<hi>逹計切/傾視</hi>䁸<hi>女紅切目不明又奴名切怒目也</hi>
+<graphic n="KR2001" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2001.png" mimeType="image/png"/>
+                    <hi>亡幸切視也又音萌</hi>
+                    <graphic n="KR4689" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4689.png" mimeType="image/png"/>
+                    <hi>力佳切視/也亦作/吕計切/視也</hi>䀼<hi>之忍切眩懣也</hi>
+                    <graphic n="KR0617" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0617.png" mimeType="image/png"/>
+                    <hi>呼光切目不明又/狼<graphic n="KR0617" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0617.png" mimeType="image/png"/>南夷國名</hi>
+<pb n="5a"/>
+瞲<hi>呼聿切目深皃又呼决切/並同/上</hi>眇<hi>彌紹切/一目小</hi>瞽<hi>公五切/無目也</hi>瞭<hi>力條切/目明也</hi>眒<hi>書刃切疾皃</hi>
+䁱<hi>烏侯口侯二切深目皃/口交切窅/面不平</hi>
+                    <graphic n="KR3636" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3636.png" mimeType="image/png"/>
+                    <hi>蘇走切/無眸子</hi>瞍<hi>同上</hi>矎<hi>呼玄切/直視也</hi>瞶<hi>居畏切極視也式冉式渉二切/目皃</hi>䁳<hi>莫郎切/無一目</hi>䁍<hi>苦洽切/目䧟也</hi>睉<hi>昨戈切/小目也</hi>盿<hi>莫彬切視皃</hi>䁕<hi>同上</hi>
+䁩<hi>語居切馬二/目白魚亦作</hi>睕<hi>一阮切小/嫵媚也</hi>䀨<hi>火刮切/視也/弋照切/眩</hi>瞎<hi>火轄切/一目合同上補太普蓋二切不明皃/呼換切璽/國名</hi>䁓<hi>了弄切/伺視也</hi>䀴<hi>五令切/直視/丑亮切/失志皃/壯立切目出淚</hi>
+眆<hi>芳狂切古眆佛見似不諦</hi>瞹<hi>烏蓋切/隠也/力末切/目不正/亡結切/睥面也</hi>睥<hi>普計切/睥睨也</hi>瞸<hi>余渉切瞼也</hi>
+<graphic n="KR3151" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3151.png" mimeType="image/png"/>
+                    <hi>力隄力帝二切視也</hi>瞘<hi>口侯切/又音歐</hi>矌<hi>苦謗切/目無</hi>睈<hi>丑郢切/照視皃</hi>矀<hi>莫悲切/伺視也</hi>䁷<hi>古斈切明也</hi>
+睟<hi>思季切視也又潤澤皃/弋之切/視也/力蕩切/古㓪字</hi>䁇<hi>眉力切/暫視</hi>䁤<hi>且/切/澤眼也</hi>䂃<hi>子召切目冥也</hi>
+矑<hi>力都切視也亦目瞳子</hi>瞇<hi>莫俾切/眇目</hi>䁿<hi>莫比切/聴䁿</hi>眑<hi>於皎切/幽静也</hi>睂<hi>莫飢切/目上毛</hi>眉<hi>今睂字</hi>
+睋<hi>呉哥切公羊傳注望也</hi>眶<hi>去王切/眼眶/火決切</hi>瞛<hi>七恭切/目光也/縈歷切/視也/羽向切視也都侯切瞘目深也/之曳切/目明</hi>瞔<hi>爭革切/張目也</hi>䁽<hi>離怙切/目暗/渠句切/共置也</hi>具<hi>同上今文</hi>
+䁤<hi>許季許癸二切恚視也/匹表切/視也/古花切/眼也</hi>䀵<hi>矢其切/眗也</hi>䁧<hi>無盰切/張目也</hi>睃<hi>子迅切視也都侯切眵目汁疑/火貢切/瞢/也</hi>䁐<hi>於京切/深目也</hi>䁣<hi>市專切/目動/祖困切/赤目也/火麥切目病</hi>
+<pb n="5b"/>
+眪<hi>筆血孚血二切親也/薄異切/眥也</hi>
+                    <graphic n="KR3257" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3257.png" mimeType="image/png"/>
+                    <hi>莫江切/目</hi>盺<hi>許斤切/喜也</hi>䁗<hi>苦改切/明也</hi>眰<hi>眞日切視也於顯於見二切仰視/匹徑切/視也/古花切/眼/尼六切/視也/九羽切/視也</hi>䁏<hi>於皎切逺視丘郞切眏目皃</hi>眏<hi>於郎切/目不明</hi>
+                    <graphic n="KR2947" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2947.png" mimeType="image/png"/>
+                    <hi>自廉切/閉目</hi>睶<hi>尺尹切/大目</hi>瞜<hi>力頭切/視也/災葉切目</hi>
+睱<hi>胡駕切閑睱視也</hi>眘<hi>食刃切/古文慎</hi>䁥<hi>女栗切/小目</hi>眨<hi>側洽切/目動</hi>䀷<hi>居業切/急視</hi>眖<hi>許往切視也</hi>
+省<hi>思井切視也所景切署也/古文</hi>盶<hi>魚逺切/目視</hi>䀯<hi>卜古切/視也/古岳切/目動/息咨切姧視逹雞切視也或作</hi>眀<hi>莫兵切/視也/荅合切/困悶眼</hi>瞌<hi>苦合切/眼瞌也</hi>睲<hi>息頂切/視也</hi>瞨<hi>普角切眼暗摩筆切不可測</hi>卧<hi>𥙷木切/目骨/許乙切/視也/莫卑切/眇目</hi>䁘<hi>余昭切/美目/而縁切目垂</hi>
+矒<hi>莫公切黙鄧切目/他田他佃/二切仰視</hi>䁢<hi>詞縁切/好皃</hi>䂀<hi>虚儀切/目動/居韋切/目也/徒領切目出他則切䁿欲卧也</hi>睷<hi>古言切/数也/子規切/眭/所緘切/見也</hi>矃<hi>乃頂切/視也</hi>矖<hi>色滓切視也丁結切惡皃</hi>眧<hi>齒沼切眧/目弄人/多佞切/見也/危委切/目</hi>瞼<hi>九儉切/眼瞼也</hi>瞉<hi>古例切乆視</hi>
+䁎<hi>丈莖切安審視也</hi>䀙<hi>七例切/視也/古鐙切/日起</hi>瞖<hi>於計切/眼疾</hi>䂁<hi>助咸切/怒視</hi>䁆<hi>烏感切目也</hi>
+眗<hi>古于切左右視也</hi>瞱<hi>于劫切/怒視/火或切/睡目皃/耕責切/目不正</hi>眭<hi>胥規切人姓又下圭切目深惡皃</hi>
+<graphic n="KR3637" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3637.png" mimeType="image/png"/>
+                    <hi>許决切許聿切直視/呼革切/目赤</hi>䁻<hi>舒灼切/美目</hi>
+                    <graphic n="KR4637" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4637.png" mimeType="image/png"/>
+                    <hi>七歷切/也</hi>眻<hi>余向余章二切羙目又眉間曰眻</hi>
+<pb n="6a"/>
+<pb n="7a"/>
+<pb n="8a"/>
+<pb n="9a"/>
+聉<hi>牛乙五滑二切無知意/胡骨切耳/声又地名</hi>聵<hi>五怪切聾也國語/聾聵不可使聽/同上</hi>耷<hi>丁盍切大耳也</hi>
+<graphic n="KR2787" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2787.png" mimeType="image/png"/>
+                    <hi>五滑切聾甚也又無耳者</hi>聦<hi>青公切聦/明也察也</hi>聡<hi>同上/俗</hi>耵<hi>都領切耵/聹耳垢</hi>聹<hi>乃頂切/耵聹/丘古切耳也</hi>
+聝<hi>古獲切截断耳亦作馘</hi>聽<hi>他丁他定/二切耳察</hi>聙<hi>子盈切/聽聦也</hi>䎼<hi>力木切䎼/聽似蜥蜴/先口切聦揔名</hi>䏂<hi>同上</hi>
+聱<hi>五苞魚幽二切不入人話</hi>䏇<hi>匹妙切聽/裁聞也</hi>聭<hi>俱位切與/媿同慙也/子由切/耳嗚/古活切/無知皃同上奴陸切慙也說文作恧</hi>耹<hi>其林其廉/二切地名</hi>聑<hi>丁篋切安/也耳垂也/去竒切/側耳</hi>聠<hi>匹名切/耳閉/都郎切耳</hi>
+䎶<hi>如志切以牲告神欲神聽</hi>䎺<hi>諸裔切聞/也亦作䀿</hi>聎<hi>他刀他凋/二切耳鳴</hi>聕<hi>胡老切/耳聞</hi>耶<hi>羊遮切/俗邪字/桑經切聦也</hi>
+䏄<hi>知力丁米二切不聽也</hi>䏆<hi>才焦才髙/二切耳鳴/自焦切/耳鳴</hi>䎴<hi>古莖切/神名/古紅切/耳聞鬼</hi>聄<hi>之忍切聽也</hi>
+䎷<hi>之付切䎷也源也声也/力彫力髙/二切耳鳴/匡主切/目往也/於檢切/耳也/縛無切/望也/子小切耳鳴</hi>
+聶<hi>如獵女陟二切附耳小語</hi>耾<hi>侯萌切聾/也耳語也</hi>耺<hi>禹君切/耳中聲</hi>聐<hi>儀黠切/聐也/烏鴈切/耳戲也/所/切人姓</hi>
+聧<hi>苦圭切耳不相聽又私叶</hi>䎿<hi>才周子由/二切耳鳴/胡殺切/耳聲/之涉切/耳也</hi>聻<hi>尼上切/指物皃/古霍切大耳他最切癡也又五刮切</hi>
+大廣益㑹玉篇卷第四<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

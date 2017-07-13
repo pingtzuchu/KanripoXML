@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>書斷</head>
+    <p>
+<pb n="KR3h0006_WYG_000-1a"/>
+欽定四庫全書　　　　　子部八<lb/>
+　書斷　　　　　　　　　藝術類一<hi>書畫之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案書斷三卷唐張懐瓘撰是書唐<lb/>
+　　　　書藝文志著録稱懐瓘於開元中為翰林<lb/>
+　　　　供奉竇蒙述書賦注則云懐瓘海寧人鄂<lb/>
+　　　　州司馬與志不同然述書賦張懐瓌條下<lb/>
+　　　　又注云懐瓌懐瓘弟盛王府司馬兄弟並翰<lb/>
+<pb n="KR3h0006_WYG_000-1b"/>
+　　　　林待詔則與志相合葢嘗為鄂州司馬終於<lb/>
+　　　　翰林供奉二書各舉其一官爾所録皆古今<lb/>
+　　　　書體及能書人名上卷列古文大篆籀文小<lb/>
+　　　　篆八分𨽻書章草行書飛白草書十體各述<lb/>
+　　　　其源流繋之以贊末為總論一篇中卷下卷<lb/>
+　　　　分神妙能三品每品各以體分凡神品二十<lb/>
+　　　　五人除各體重複得十二人妙品九十八人<lb/>
+　　　　除各體重複得三十九人能品一百七人除<lb/>
+<pb n="KR3h0006_WYG_000-2a"/>
+　　　　各體重複得三十五人前列姓名後為小𫝊<lb/>
+　　　　𫝊中附錄又三十八人其紀述頗詳評論亦<lb/>
+　　　　允張彦逺法書要錄全載其文葢當代以為<lb/>
+　　　　精鑒矣乾隆四十六年四月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

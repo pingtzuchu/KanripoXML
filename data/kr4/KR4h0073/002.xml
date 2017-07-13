@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0073_SBCK_002-1a"/>
+河汾諸老詩集卷之二<lb/>
+　　　　　　　　　　横汾隱者房祺編<lb/>
+石泉張先生宇彦升<lb/>
+　　　送趙冝之歸辛安兼簡洛下諸友<lb/>
+悽惻復悽惻送君汾水側人生歡㑹少一別<lb/>
+難再得昔經刧火然二烏奮驚翼嗷嗷各何<lb/>
+之仝落天西北日夕相和鳴此樂未易極狂<lb/>
+風忽吹散一烏歸故國翶翶入寥廓萬里期<lb/>
+一息鄧林有餘隂未肯栖枳棘玉山有嘉禾<lb/>
+未肯求粒食一鳥獨未歸毰毸老無力矯首<lb/>
+<pb n="KR4h0073_SBCK_002-1b"/>
+思舊群<graphic n="KR1008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1008.png" mimeType="image/png"/>然淚沾臆<lb/>
+　　　雌鷄行<lb/>
+雌雞粥粥將鳬兒鳬兒入水雞鳴悲岸南岸<lb/>
+北飛且随但恐摶攫遭鳶䲭岸傍無食寜飢<lb/>
+死朝暮不肯湏臾離傍人争笑愚且痴我哀<lb/>
+物理爲人欺<lb/>
+　　　雲溪秋泛圖爲閻國寳賦<lb/>
+晴嵐滴翠霜樹殷石錦錯落苔花班人家隠<lb/>
+約荒靄外但見籬落連柴関兩山中断忽空<lb/>
+曠下有碧水之潺湲幽人航葦迷逺近思致<lb/>
+<pb n="KR4h0073_SBCK_002-2a"/>
+　蹇無容攀定非䲭夷成覇業一舸五湖煙<lb/>
+浪寛又非坡仙逰赤壁酒酣浩歌江月寒亦<lb/>
+當柱杖横膝看南山心與白雲相對閑胡爲<lb/>
+厭山瞰芳渚岸草汀花適幽趣有聲詩畫無<lb/>
+聲詩夏蟲未易寒氷語或云此本張季鷹蓴<lb/>
+鱸忽憶扁舟䡖蹇予有家歸未得一見秋風<lb/>
+羽翼生<lb/>
+　　　採蓮分得底字<lb/>
+溪風揺揺波瀰瀰十里芳華照清沚蘭舟女<lb/>
+郎紅玉春日射新粧明水底芙蓉雙檢百媚<lb/>
+<pb n="KR4h0073_SBCK_002-2b"/>
+生吴宫西施漢良娣藕腸折断雪絲牽入手<lb/>
+花枝香<graphic n="KR2089" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2089.png" mimeType="image/png"/>
+                    <graphic n="KR2089" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2089.png" mimeType="image/png"/>隔岸誰家貴公子調笑新詞歌<lb/>
+艶體吴儂変風有如此誰念采蘋供祭禮<lb/>
+　　　哭姪<lb/>
+學業方成二紀過虚舟一夕殞頽波死皆有<lb/>
+命怜渠早老獨無依柰我何歸計雲山空莽<lb/>
+蒼愁懐日月暗消磨白楊半夜風瀟瑟盡是<lb/>
+吾兒薤露歌　感懐<lb/>
+世路羊腸劇險艱天心應厭著儒冠老無子<lb/>
+息　心易貧　交親託事難文字售人真滯<lb/>
+<pb n="KR4h0073_SBCK_002-3a"/>
+貸庶乎養巳　閑官羲經讀罷無人㑹庭竹<lb/>
+瀟森夜月寒<lb/>
+　　　吊蕭同知<lb/>
+蕭蘭一夕殞秋霜数載交情遽忍忘逰覽雲<lb/>
+山春並轡笑談風雨夜連床治心我謂當誠<lb/>
+慤䖏巳君言貴肅荘此理從今誰與論隰州<lb/>
+林月渺蒼蒼<lb/>
+　　　上巳日逰平湖<lb/>
+微風漠漠水増波禊事重脩継永和脆管當<lb/>
+筵清似語扁舟争岸疾如梭一時人物成髙<lb/>
+<pb n="KR4h0073_SBCK_002-3b"/>
+㑹千里雲山入浩歌日暮芝蘭無䖏覔野花<lb/>
+汀草占春多<lb/>
+　　　送田茂卿赴都<lb/>
+宿雨𥘉晴草木齊一杯汾水恨分携上林暁<lb/>
+色多鸎友長路春風入馬蹄黄卷可能無斗<lb/>
+祿青雲自是有天梯從来俊傑知時務莫為<lb/>
+寒牎故絶迷<lb/>
+　　　和李子㣲村居<lb/>
+健羡南溪老幽居水石間心無塵事汩身與<lb/>
+野雲閑院静深藏竹墻低易得山蒲團香一<lb/>
+<pb n="KR4h0073_SBCK_002-4a"/>
+炷花落鳥<graphic n="KR1683" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1683.png" mimeType="image/png"/>
+                    <graphic n="KR1683" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1683.png" mimeType="image/png"/>
+　　　又<lb/>
+別野荒城外居閑事事幽栽松添野色接銗<lb/>
+引溪流詩社分新韻村醪洗舊愁更求名與<lb/>
+利騎鶴望揚州<lb/>
+　　送李仲暉之洛<lb/>
+同是思郷客君先著祖鞭驪駒歌落日去鴈<lb/>
+入髙天莫戀河濵粟當耕谷口田親朋儻相<lb/>
+問為報巳衰年<lb/>
+　　送馬徳新<lb/>
+<pb n="KR4h0073_SBCK_002-4b"/>
+馬弟吾郷秀青雲正壮年四知雖自畏六戒<lb/>
+得師傳秦府開賢路瀛州列俊躔秋風黄鵠<lb/>
+健老眼看髙騫<lb/>
+　　贈黄甫徳璋<lb/>
+明徳本生公醫名一代雄杖頭閑日月舌上<lb/>
+舊家風雅趣錢神外髙情酒聖中治人隂徳<lb/>
+在夀骨秀而豊<lb/>
+　　和劉敏之韻<lb/>
+城居寜不好未易著閑人客至慙無酒詩成<lb/>
+莫療貧談天雖有口無地可安身羡殺清江<lb/>
+<pb n="KR4h0073_SBCK_002-5a"/>
+鷺生来不受塵<lb/>
+　　　秋日出郭<lb/>
+離離禾<graphic n="KR0927" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0927.png" mimeType="image/png"/>滿郊墟棗實紅殷接野閭四十年<lb/>
+来無史筆有年今日仗誰書<lb/>
+　　　和李濟夫韻<lb/>
+午夢逰仙鳥唤廽竹隂掃地靜無埃莫言嘉<lb/>
+客閑中少時有清風自徃来<lb/>
+　　　荆公<lb/>
+作古非今<graphic n="KR0852" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0852.png" mimeType="image/png"/>巳成亦知鬼責與天刑試看一<lb/>
+病遺言處猶勸傍人誦佛經<lb/>
+<pb n="KR4h0073_SBCK_002-5b"/>
+　　　㐮陵北城溪坐<lb/>
+楊桞隂隂水氣凉椒花蔌䔩野風香地偏愈<lb/>
+覺似閑整始信擒昌化日長<lb/>
+　　　閑述<lb/>
+此性生而與道俱靈源常患少人䟽楊侯一<lb/>
+語崇經學士子争相讀四書<lb/>
+觧作時文一二篇<graphic n="KR0909" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0909.png" mimeType="image/png"/>中意氣巳掀然何如剖<lb/>
+破醯鷄瓮看取人間大有天<lb/>
+<pb n="KR4h0073_SBCK_002-6a"/>
+河汾諸老詩集卷之二<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

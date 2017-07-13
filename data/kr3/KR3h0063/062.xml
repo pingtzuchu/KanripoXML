@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3h0063_WYG_062-1a"/>
+欽定四庫全書<lb/>
+石渠寶笈卷三十<lb/>
+　　　貯<lb/>
+　　御書房<lb/>
+　　　列朝人<lb/>
+　　　書卷上等<lb/>
+　　　元趙孟頫書小學一卷<lb/>
+　　　元趙孟頫書千文一卷<lb/>
+<pb n="KR3h0063_WYG_062-1b"/>
+　　　元趙孟頫書千文一卷<lb/>
+　　　元趙孟頫二體千文<lb/>
+　　　元趙孟頫書歸去來辭一卷<lb/>
+　　　元趙孟頫書稽康絶交書一卷<lb/>
+　　　元趙孟頫書閒居賦一卷<lb/>
+　　　元趙孟頫書雪賦一卷<lb/>
+　　　元趙孟頫書歸田賦一卷<lb/>
+　　　元趙孟頫書朱子感興詩一卷<lb/>
+<pb n="KR3h0063_WYG_062-2a"/>
+　　　元趙孟頫書蘓軾古詩一卷<lb/>
+　　　元趙孟頫書蘓軾西潮詩一卷<lb/>
+　　　元趙孟頫書前後赤壁賦一卷<lb/>
+　　　元趙孟頫書秋聲賦一卷<lb/>
+　　　元趙孟頫書吳興賦一卷<lb/>
+　　　元趙孟頫書閑邪公家傳一卷<lb/>
+　　　元趙孟頫書萬壽曲一卷<lb/>
+　　　元趙孟頫書趵突泉詩一卷<lb/>
+<pb n="KR3h0063_WYG_062-2b"/>
+　　　元趙孟頫尺牘一卷<lb/>
+　　　元趙孟頫三扎一卷<lb/>
+　　　元趙孟頫書崇禧萬壽宫記一卷<lb/>
+　　　元趙孟頫雜書一卷<lb/>
+　　　元趙孟頫管道昇尺牘合璧一卷<lb/>
+　　　元趙孟頫一門合札一卷<lb/>
+　　　元康里巙書顔真卿述張九筆法一卷<lb/>
+　　　元鮮于樞書前赤壁賦一卷<lb/>
+<pb n="KR3h0063_WYG_062-3a"/>
+　　　元班惟志二體千文一卷<lb/>
+　　　元饒介書五言古詩一卷<lb/>
+　　　明沈度沈粲各體書一卷<lb/>
+　　　明王守仁龍江留别詩一卷<lb/>
+　　　明文徵明倣懷素草書一卷<lb/>
+　　　明文徵明尺牘一卷<lb/>
+　　　明王寵書出師二表一卷<lb/>
+　　　明陸深自書白雁詩一卷<lb/>
+<pb n="KR3h0063_WYG_062-3b"/>
+　　　明董其昌臨枯樹賦一卷<lb/>
+　　　明董其昌書白居易樂府一卷<lb/>
+　　　明董其昌臨古一卷<lb/>
+　　　明董其昌書答徐孝穆書一卷<lb/>
+　　　明董其昌書功臣傳贊一卷<lb/>
+　　　明董其昌自書詩帖一卷<lb/>
+　　　明董其昌書龍神感應記一卷<lb/>
+　　　明董其昌書正陽門闗侯廟碑一卷<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

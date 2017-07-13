@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>何文簡疏議目録</head>
+    <p>
+<pb n="KR2f0023_WYG_000-1a"/>
+欽定四庫全書　　　　　史部六<lb/>
+　何文簡疏議目録　　　　詔令奏議𩔖二<hi>奏議之屬</hi>
+　　巻一<lb/>
+　　　建言疏<lb/>
+　　　省營繕疏<lb/>
+　　　應詔萬言疏<lb/>
+　　　恤邊疏<lb/>
+　　巻二<lb/>
+<pb n="KR2f0023_WYG_000-1b"/>
+　　　時政疏<lb/>
+　　　正祀疏<lb/>
+　　　馬政疏<lb/>
+　　　馬政第二疏<lb/>
+　　　地方疏<lb/>
+　　巻三<lb/>
+　　　乞恩分豁疏<lb/>
+　　　計錢鈔疏<lb/>
+<pb n="KR2f0023_WYG_000-2a"/>
+　　　表清節疏<lb/>
+　　　推行馬政疏<lb/>
+　　　軍務疏<lb/>
+　　　請還駕疏<lb/>
+　　　議馬政疏<lb/>
+　　巻四<lb/>
+　　　議國課疏<lb/>
+　　　保襲祖爵疏<lb/>
+<pb n="KR2f0023_WYG_000-2b"/>
+　　　地方疏<lb/>
+　　　乞恩㑹捕疏<lb/>
+　　　急救生靈疏<lb/>
+　　巻五<lb/>
+　　　強賊激變疏<lb/>
+　　　貪官科害疏<lb/>
+　　　貪官害民疏<lb/>
+　　　貪官違法疏<lb/>
+<pb n="KR2f0023_WYG_000-3a"/>
+　　巻六<lb/>
+　　　申戒邊官疏<lb/>
+　　　地震疏<lb/>
+　　　積年草賊疏<lb/>
+　　　禁科擾疏<lb/>
+　　　議國課疏<lb/>
+　　　治貪疏<lb/>
+　　　議剿草賊疏<lb/>
+<pb n="KR2f0023_WYG_000-3b"/>
+　　巻七<lb/>
+　　　地方疏<lb/>
+　　　防禦疏<lb/>
+　　　乞復學校疏<lb/>
+　　　陳言疏<lb/>
+　　　公折俸疏<lb/>
+　　　辭俸廕疏<lb/>
+　　　閉銀場第二疏<lb/>
+<pb n="KR2f0023_WYG_000-4a"/>
+　　　裁革冗員疏<lb/>
+　　巻八<lb/>
+　　　陳革内官疏<lb/>
+　　　處置地方疏<lb/>
+　　　乞眀典禮疏<lb/>
+　　　開禁疏<lb/>
+　　　祠祀疏<lb/>
+　　　邊務疏<lb/>
+<pb n="KR2f0023_WYG_000-4b"/>
+　　　設官疏<lb/>
+　　　便利官民疏<lb/>
+　　巻九<lb/>
+　　　辭免改任疏<lb/>
+　　　陳言疏<lb/>
+　　　辭賞疏<lb/>
+　　　亟申公義疏<lb/>
+　　　救災防患疏<lb/>
+<pb n="KR2f0023_WYG_000-5a"/>
+　　　乞隆聖孝疏<lb/>
+　　巻十<lb/>
+　　　辯斥忠邪疏<lb/>
+　　　回話疏<lb/>
+　　　認罪疏<lb/>
+　　　自劾免任疏<lb/>
+　　　　<hi>臣</hi>等謹案何文簡疏議十巻明何孟春撰孟<lb/>
+　　　　春字子元郴州人𢎞治癸丑進士授兵部主<lb/>
+<pb n="KR2f0023_WYG_000-5b"/>
+　　　　事累官右副都御史巡撫雲南入為吏部左<lb/>
+　　　　侍郎以争大禮泣諫左遷南京工部左侍郎<lb/>
+　　　　尋削籍隆慶初贈禮部尚書諡文簡事蹟具<lb/>
+　　　　明史本傳孟春没後遺稿散軼萬厯初巡撫<lb/>
+　　　　湖廣僉都御史汝陽趙賢始搜輯其詩文刻<lb/>
+　　　　之於永州又別録其奏議為一集刋於衡州<lb/>
+　　　　前二巻為官兵部時作第三巻為官河南㕘<lb/>
+　　　　政入為太僕寺卿時作第四巻至八巻為巡<lb/>
+<pb n="KR2f0023_WYG_000-6a"/>
+　　　　撫雲南時作末二巻為官侍郎時作孟春少<lb/>
+　　　　逰李東陽之門學問該博而詩文頗質率不<lb/>
+　　　　能成家惟生平以氣節自許厯官所至敷奏<lb/>
+　　　　剴切殊有可觀本傳所載如救言官龎泮等<lb/>
+　　　　請停萬嵗山工役清寧宫灾陳八事出理陕<lb/>
+　　　　西馬政上釐弊五事諫武宗幸宣府嘉靖初<lb/>
+　　　　以旱潦相仍條奏八事尤其建白之卓卓者<lb/>
+　　　　今多在集中大抵懇摯詳明侃侃鑿鑿實於<lb/>
+<pb n="KR2f0023_WYG_000-6b"/>
+　　　　朝政有禆固非徒意氣激發取名一時者所<lb/>
+　　　　得而比擬矣乾隆四十四年二月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

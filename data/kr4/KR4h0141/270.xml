@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_270-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選巻二百七十<lb/>
+　　蘆菔類<lb/>
+　　　五言古<lb/>
+　　　　徐夢弼以詩求蘆菔輙次來韻<lb/>
+　　　　　　　　　　　　　　　　<hi>金</hi>劉　迎<lb/>
+　神農嘗草木濟世以仁愛根源列郡出品目成書載中<lb/>
+　云萊菔根試驗頗為大昌谷嘔時須文園渴嘗待食異<lb/>
+<pb n="KR4h0141_WYG_270-1b"/>
+　地黄并效與蕪菁逮豈惟齒衆藥政自冠諸菜五州風<lb/>
+　土宜罫布畦壠對墾鉏盡衆力封培窮百態翠角春雨<lb/>
+　中黄花晚煙外日送盤箸資歳給缾罌頼片玉出頭顱<lb/>
+　層冰起膚背脆美掩蓴葵甘辛敵薑芥物生貴有用對<lb/>
+　此一何快儲貯得沈涵棄遺免狼狽但足齊人餐何慚<lb/>
+　楚臣佩<lb/>
+　　　五言律<lb/>
+　　　　蘆菔　　　　　　　　　　<hi>元</hi>許有壬<lb/>
+<pb n="KR4h0141_WYG_270-2a"/>
+　性質宜沙地栽培屬夏畦熟登甘似芋生薦脆如梨老<lb/>
+　病消凝滯竒功直品題故園長尺許青葉更堪韲<lb/>
+　　　五言絶句<lb/>
+　　　　蘿菔　　　　　　　　　　<hi>宋</hi>劉子翬<lb/>
+　密壤穿根蔕風霜亦飽經如何純白質近蔕却微青<lb/>
+　　　　蘿蔔<lb/>
+　紛敷剪翠叢津潤擢玉本寂寞病文園吟餘得深齦<lb/>
+　<lb/>
+<pb n="KR4h0141_WYG_270-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選巻二百七十<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

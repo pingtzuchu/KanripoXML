@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>東山存稿</head>
+    <p>
+<pb n="KR4d0584_WYG_000-1a"/>
+欽定四庫全書　　　　　集部五<lb/>
+　東山存稿　　　　　　　别集類四<hi>元</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案東山存稿七巻附錄一巻元趙汸<lb/>
+　　　　撰汸字子常婺源人績學著書隠居不仕至<lb/>
+　　　　正末以輔元帥汪同起兵保鄉井授江南行<lb/>
+　　　　樞宻院都事其於諸經無所不通而尤邃於<lb/>
+　　　　春秋所作春秋集傳師説屬辭諸書皆已著<lb/>
+<pb n="KR4d0584_WYG_000-1b"/>
+　　　　錄經部中此本乃其詩文存稿也當元之季<lb/>
+　　　　汸築室東山閉户著述明初屢徵不起僅一<lb/>
+　　　　出修元史事畢即辭歸制行極為髙潔其文<lb/>
+　　　　亦多淳實典確不為浮聲猶見先民矩矱之<lb/>
+　　　　遺詹烜作汸行狀稱其嘗謁黄溍於杭州溍<lb/>
+　　　　大異之又嘗至臨川見虞集授館於家一嵗<lb/>
+　　　　葢其所與講習者皆當世名儒故所為文章<lb/>
+　　　　能具有師法若此又集中載汸自作黄澤行<lb/>
+<pb n="KR4d0584_WYG_000-2a"/>
+　　　　狀一篇於經術傳授源流剖晰詳至其生平<lb/>
+　　　　學術之醇正得力所自尤可以概見焉乾隆<lb/>
+　　　　四十二年五月恭校上<lb/>
+　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="KR4d0584_WYG_000-3a"/>
+東山存稿原序<lb/>
+洪武二年冬休寜趙君子常以史事召至京師既竣事<lb/>
+歸未逾月以疾終明年春二月葬于里之東巖親友畢<lb/>
+來㑹葬其門人汪䕃乃集其所為詩文若干巻屬予序<lb/>
+之已諾多疾未遑也未幾䕃以賢良召而范生準乃續<lb/>
+録之旁搜靡遺復申前請嗚呼吾子常平生篤志古學<lb/>
+豈專在於詩與文哉初予年十有五學于族祖古逸先<lb/>
+生之門子常先受業焉先生每稱其苦學善思有疑問<lb/>
+<pb n="KR4d0584_WYG_000-3b"/>
+弗得弗措且約今年再來因問其年曰長汝五嵗躍然<lb/>
+喜曰果來願兄事之以求益迨至而先生已捐館予方<lb/>
+耕稼為養乘間讀書而子常乃遊江西學于九江黄楚<lb/>
+望之門再客虞文靖公所比歸搆精舎于東山期與同<lb/>
+志共學焉予適與一二友生讀書于邑東崇夀觀相見<lb/>
+甚懽交勉厚規志惟古人之求凡所得于師若友者各<lb/>
+無隠自後别歸則嚴守程期㑹敘則通宵警飭未乆而<lb/>
+風濤横潰奔竄無所不相聞問者再越嵗予不獲已尋<lb/>
+<pb n="KR4d0584_WYG_000-4a"/>
+授州牧膺省檄什伍其民以禦冦攘而子常亦輔贊郡<lb/>
+鎮帥以寜鄉里既而予以憂制退處荒僻子常亦避地<lb/>
+吾里之閬山時結屋擕書相期畢志廬室茍完變故莫<lb/>
+測遂有逺役六載方還疾疢衰憊情况異昔子常復于<lb/>
+東山所著春秋集傳與屬辭左氏補註咸就厥緒復留<lb/>
+心於四聖人之易予則感激愧汗尚願養氣畢力旦夕<lb/>
+叩擊以卒業而遽殁矣噫是果餘生之不幸抑亦吾斯<lb/>
+文之不幸耶人非不學其墮于俗學之卑陋者不足論<lb/>
+<pb n="KR4d0584_WYG_000-4b"/>
+苟不溺于佛老尚空寂則必事權謀勢利况有文譁一<lb/>
+世而心尚虛𤣥誠心乎聖人之訓以極天地之元全天<lb/>
+地之德闡天地之用者幾何人哉此吾夫子所以莫克<lb/>
+立君道以正萬方故發吾已矣夫之嘆其立師道以教<lb/>
+萬世意尚隠昧而弗昭為可慨也子常深潛本源力探<lb/>
+閫奥體察<graphic n="KR0636" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0636.png" mimeType="image/png"/>涄完養日固學于黄先生凡誦聖人之經<lb/>
+必以積思自悟得聖人之心為本因諸儒訓釋尋繹其<lb/>
+所已言者而融通以得其所未言者故於易之象春秋<lb/>
+<pb n="KR4d0584_WYG_000-5a"/>
+之書法禮之大綱小紀節文度數之詳具有端緒惜乎<lb/>
+年止於是而未遂成書也文多因人推迫或應酬問答<lb/>
+不得已而為之詩因感發而形之咏歌雖不專乎是然<lb/>
+長篇短哦亦不一字茍為也子常名汸學者稱之曰東<lb/>
+山先生因汪范二生之請故推在昔交承之契期待之<lb/>
+深以見其設施之有在嗚呼觀其文者尚亦效於是也<lb/>
+哉星源汪仲魯序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

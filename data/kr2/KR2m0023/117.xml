@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>政和五禮新儀卷一百十一</head> <lb/>
+    <p>
+<pb n="KR2m0023_WYG_117-1a"/>
+欽定四庫全書<lb/>
+　政和五禮新儀卷一百十一<lb/>
+　　吉禮<lb/>
+　　　薦新太廟儀<hi>闕</hi>
+　　　　時日<hi>闕</hi>
+　　　　齋戒<hi>闕</hi>
+　　　　陳設<hi>闕</hi>
+　　　　省饌<hi>闕</hi>
+<pb n="KR2m0023_WYG_117-1b"/>
+　　　　行事<hi>闕</hi>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　政和五禮新儀卷一百十一<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

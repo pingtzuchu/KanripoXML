@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="1a"/>
+<hi>古文<graphic n="KR1457" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1457.png" mimeType="image/png"/>從田/巛<graphic n="KR0908" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0908.png" mimeType="image/png"/>之川也/篆古<graphic n="KR1457" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1457.png" mimeType="image/png"/>從田犬聲六畎而為一畒</hi>
+　　　　文　一　重　二<lb/>
+<hi>水流澮澮也方百里爲巜廣二尋深二仞凡巜之属皆從巜讀若儈同臣鍇按釋名水注溝曰巜巜㑹也小水之所聚㑹也今人作澮古冣反水生厓石間粼粼也從巜粦声臣鍇曰水流石間不駃也里刃反</hi>
+　　　　文二<lb/>
+<hi>貫穿通流水也虞書曰濬<graphic n="KR1457" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1457.png" mimeType="image/png"/>巜距巛言深<graphic n="KR1457" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1457.png" mimeType="image/png"/>巜之水㑹為巛也凡巛之屬皆從巛叱專反<pb n="1b"/>水脈也從巛在一之下一地也壬省声一曰水冥巠也臣鍇曰經理也紏茗反/古文巠不省水廣也從巛亾声易曰包㠩用憑河臣鍇曰荒㤺統從此忽光反/水流也從巛或声臣鍇按郭璞江賦測淢濜溳也况邑反/水流也從巛曰声臣鍇按相如賦曰汩乎順流汩即此字曰音越于筆反水流也從巛夕省声/臣鍇曰<graphic n="KR0844" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0844.png" mimeType="image/png"/>字從此良舌反/四方有水自邕城池者是也從巛邑讀若雝臣鍇曰古以城塹因山爲高岸曰塹有溝無水曰陘有水曰池春秋左傳曰齊申池又史曰金城湯池是也㑹意宛封反/籀文邕/如此/剛直也從㐰㐰古文信也從巛取其不舎晝夜論語曰子貢侃侃如也臣鍇曰子路有聞未之能行唯恐有聞是其不捨晝夜也會意肯肝反/害也從一雝川春秋傳曰川雝</hi>
+<pb n="2a"/>
+<pb n="3a"/>
+<hi>水泉本也從灥出厂下臣鍇曰㑹意北水原字原隰字古作邍也言袁反/篆文省</hi>
+　　　文二　重一<lb/>
+<hi>水長也象水巠理之長水也詩曰江之永矣凡永之屬皆從永雨省反水長也從永羊声詩曰江之羕矣臣鍇曰蜀有彭羕㨾漾從此余亮反</hi>
+　　　文二<lb/>
+<hi>水之袤流别也從反永凡<graphic n="KR1000" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1000.png" mimeType="image/png"/>之屬皆從<graphic n="KR1000" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1000.png" mimeType="image/png"/>讀若蜀稗縣臣鍇曰永長流反則分派也匹賣反血理之分袤行體中者從<graphic n="KR1000" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1000.png" mimeType="image/png"/>從血臣鍇曰五/蔵六府之气血分流四胑也㑹意莫獲反或<pb n="3b"/>從肉/籕文/邪視也從<graphic n="KR1000" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1000.png" mimeType="image/png"/>從見臣鍇按張衡西京賦覛往昔之舘又南都賦覛魯縣而来遷民的反/籕文覛</hi>
+　　　　文三　重三<lb/>
+<hi>泉出通川爲谷從水半見出於口凡谷之属皆從谷臣鍇曰指事孤速反山瀆無所通者從谷奚声臣鍇曰俗作溪若兮反/通谷也從谷害声臣鍇曰前有所通也吼作反/空谷也從谷/翏声梨桃反/大長谷也從谷龍/声讀若聾来充反/谷中響也從谷厷声臣鍇曰隆墀永歎逺壑必盈幽谷無私有至斯響鏗𥙿中谷声也混耕反/朢山谷谸俗青也從谷千<pb n="4a"/>聲七縣反/深通川也從/殘也地坑坎意也虞/書曰䜭畎澮距川臣鍇曰㑹意蘇徇反/䜭或從水/古文䜭</hi>
+　　　文八　重　三<lb/>
+<hi>凍也象水凝之形也凡仌之屬皆從仌臣鍇曰冰初疑文理如此也彬仍反氷堅也從水仌臣鍇今以為仌字也言丞反/俗氷/從疑/寒也從仌廪声力甚反寒也從仌青声臣鍇曰冬和而夏凊也此併反/仌也從仌束/聲得貢反/仌出也從仌声詩曰納/于/隂力膺反/或/從夌/流仌也從仌斯声臣鍇曰冰解而流也後漢書曰河<pb n="4b"/>流澌不可渡也辛兹反/半傷也從仌周声臣鍇曰語曰歲寒然後知松栢之後凋後凋者非不凋也松栢爲凋即凋是半傷也都僚反/四時盡也從仌夊夊古文終臣鍇曰白虎通曰冬終也仌霜冬終之候也㑹意都農反/古文冬從曰臣鍇曰冬者/月之終也曰窮于紀也/消也從仌台声臣鍇曰未玄虛海賦曰陽氷不冶羊者反/寒也從仌倉/声初訪反/寒也從仌今声魯皿反寒也從仌圅聲胡甘反/風寒也從仌/畢声卑聿反/一之曰滭沷也従仌友声臣鍇曰詩之言也一之曰十一月之日也分勿反/寒皃也從仌<g n="桌-日+_ㄇ@_人/人">□</g>声臣鍇曰/寒使人戰凍也力必反/寒也從欠頼声郎蔡反</hi>
+<pb n="5a"/>
+　　　　文十　七　重三<lb/>
+<hi>水從雲下也一象天冂象雲水霝其間也凡雨之属皆從雨于捕反古文雨臣鍇曰但象雲雨而巳/隂陽薄動靁雨生物者也從雨畾象回轉形臣鍇曰隂陽相盪薄易繫曰雷風相薄雷出則萬物出也来堆反/籕文靁間有/回回靁声也/古文靁亦古文靁/雨也齊人謂靁爲霣從雨員声一曰雲轉起也讀若昆臣鍇按易曰有霣自天也眉引反古文霣如此/靁餘声也鈴鈴所㠯挺出萬物從雨廷声臣鍇按隂陽相薄而爲雷激而爲霆霹歷也田丁反/霅霅震電皃從雨譶省声一曰霅衆言臣鍇按呉都賦颯霅吸呷人衆声也宅甲反<pb n="5b"/>隂陽激燿也從雨申声庭硯反/古文電/如此/劈歴振物者/從雨辰声春秋傳曰震夷狛之廟臣鍇以為霆其急激者也震所加物之稱也春秋左傳南宫極震章信反/古文震如此凝雨說物者也從雨彗声臣鍇以謂雪之着物積乆而不流其浸潤深以觧說物也相省反雨䨘為霄也從雨肖声齊語臣鍇以為霄雪今人所謂溼雪着物則消者也息超反/稷霄也從雨散声臣鍇按詩曰如彼雨雪先集惟霰郭璞以謂雨雪雜下也息茜反/霰或/從見/雨仌也從雨包声臣鍇按西京雜記隂气<graphic n="KR0909" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0909.png" mimeType="image/png"/>陽為雹別車反/古文雹/如此/雨零也從雨<graphic n="KR2958" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2958.png" mimeType="image/png"/>象零形詩曰霝雨其濛連丁反/雨下零也從雨/各声勒記反/餘雨也從雨令声臣鍇曰孫楚詩零雨𬒳秋草<pb n="6a"/>連丁反/小雨裁/也從雨鮮/声讀若斯辛兹反/霢霂小雨也從雨脈声臣鍇曰詩曰潤之以霢霂臣以為霢若人之血脉流徧又如沐之霑濡也莫獲反/霢霂也從雨/沐声門逐反/小雨也從雨酸声素攅反/微雨也從雨/声/讀若芟精廉反/小雨也從雨衆声/明堂月令曰<graphic n="KR3434" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3434.png" mimeType="image/png"/>雨止宋反/乆隂也從雨/沈声池心反/乆雨也從雨/兼声連鹽反/乆雨也從雨圅声甘反/凡雨三日已上為霖/從雨林声力㝷反/霖雨也從雨<graphic n="KR1000" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1000.png" mimeType="image/png"/>声南陽名霖雨震臣鍇曰聚然不正也銀葴切/雨声也從雨眞声/讀若資子思反/雨皃也方語從雨禹声讀若瑀于角反小雨也從雨/僉声精亷反/雨築也從雨/沾聲陟潜反/霑也從雨染声而厭反</hi>
+<pb n="6b"/>
+<pb n="6b"/>
+<hi>寒也從雨執声或曰早霜也讀若春秋傳曰墊阨丁念反/夏祭樂于赤帝以祈甘雨也從雨于声臣鍇曰四月之祭也員須反/<graphic n="KR2004" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2004.png" mimeType="image/png"/>舞羽也故或從羽臣鍇曰周禮以皇舞舞旱熯之事注皇舞象羽舞旱熯之事謂<graphic n="KR2004" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2004.png" mimeType="image/png"/>也/水音也從雨/羽声云煦反/<graphic n="KR1220" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1220.png" mimeType="image/png"/>也遇雨不進而止<graphic n="KR1220" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1220.png" mimeType="image/png"/>也從雨而声易曰雲上於天需臣鍇按春秋左傳需事之下也然則需遅疑<graphic n="KR1220" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1220.png" mimeType="image/png"/>待也四于反</hi>
+　　　　文四十六　重十一<lb/>
+<hi>山川气也從雨云声象雲回轉形凡雲之屬皆從雲臣鍇曰禮曰山川出雲指事羽文反古文雲/亦古文雲臣鍇曰/二字直象形而巳/雲覆日也從雲今声臣鍇按漢書曰<pb n="7a"/>浮雲為我隂郁吟反/古文/省古文</hi>
+　　　文二　重四<lb/>
+<hi>水蟲也象形魚㞑與燕㞑相佀凡魚之属皆從魚臣鍇曰下火象㞑而巳非水火之火字研余反魚子巳生者也從魚憜省臣鍇曰謂巳放散泊草渚者也秃頗反/籕文/䲊省/魚子也一曰魚之羙者有東海之鮞從魚而声讀若而臣鍇曰吕氏春秋伊尹之言也忍伊反/魚也從魚去声臣鍇按相如賦禺禺魼魶去魚反/虚鳎也從魚[莫-大+羽]声臣鍇按/字書魚似鮎四足它榼反/赤目魚也從魚尊声臣鍇按爾雅注鮅鱒似鯶赤眼鱓鯇也租本反/魚也從魚猌声臣鍇按猌音魚吝反里神<pb n="7b"/>反魚也從魚容/聲與封反/魚也從魚胥/聲先居反/鯍也周禮謂之䱴從魚恒聲臣鍇按相如賦䱴䱬漸離䲛即鯍溝恒反/䱴/也從魚/㠩声夢登反/鮥也周禮春獻王鮪從魚有声臣鍇按爾雅注鱣属大曰王鮪小曰叔鮪詩序曰春獻鮪汪曰春鮪新來也于虺反/叔鮪也從魚各聲勒託反/魚也從魚系声臣鍇曰/即禹父名也孤損反/魚也從魚眔聲固山反鱣也從魚里声示矣反/鯉也從魚亶/声陟連反/籕文鱣/如此/魚也從魚專声臣鍇按鱄囙赤魚殊剸反/魚也從魚同声一曰/也讀若絝櫳臣鍇按爾雅鰹大鮦小者鮵注今青州呼小鱺曰鮵篆勇反/鮦也從魚蠡/声蓮第反/魚也一曰鯉一名鰜從魚婁声臣鍇<pb n="8a"/>按亦比目魚也力殊反/䱾也從魚兼/声結添反/魚也從魚攸声臣鍇按何晏景福殿賦曰瀬戯鰋鯈陳收反/魚也從魚豆/声土偶反/魚也從魚便/声賔延反/鯁或從扁赤尾魚也從魚方声浮長反/籕文魴/從㫄/魚也從魚與声臣鍇按鱮似魴頭大夕與反/魚也從魚連/声鄰延反/魚也從魚反/声坏卑反/魚也從魚㓜声讀若幽伊紏反/魚也從魚付声臣鍇/按鮒小魚也符注反/魚也從魚巠/声𡵨或反/魚也從魚声臣鍇曰/今作鯽津易反/魚也從魚麗/声里西反/魚也從魚曼声没團反魚也從魚蒦声讀若瓠臣鍇按爾雅注似鮎而大色白户化反/大鱯也小者名鮡從魚丕声部<pb n="8b"/>悲反/鱯也從魚豊/声連弟反/鱧也從魚果/声戸把反/楊也從魚甞声臣鍇按詩曰儵鱨鰋鯉字書黄頰魚也射強反/魚也從魚覃声傳曰伯牙/皷琴鱏魚出聽移今反也從魚兒聲擬西反/鰌也從魚習声臣鍇按/爾雅注泥鰌也似入反/鰼也從魚酋声七牛反魚也從魚完聲户版反/哆口魚也從魚/乇声它作反/飲而不食刀魚也九江有之從魚此声臣鍇按爾雅鮤魚刀注鮆也自禮反/也從魚占/声年兼反/鮀也從魚妟声依逺反/或/從匽/大鮎也從魚/弟声敵圭反/魚也從魚頼声郎蔡反鮎也從魚它声臣鍇按爾雅亦鯊鮀也豆科反/魚也從魚㬱/声似侵反/魚也從魚翁声烏公<pb n="9a"/>反魚也從魚舀/声經念反/魚也從魚厥/声俱稅反/白魚也從魚取声士足反魚也皮可以爲皷從魚單聲石遣反/魚也出薉邪頭國從魚免声臣鍇曰今人音敏美選反魚出薉邪頭國從魚分声臣鍇曰薉邪頭東夷也敷粉反/魚也出樂浪潘國從魚虜声勒古反魚也狀似鰕無足長寸大如义股岀遼東從魚區声器方反/魚也出樂浪畨國從魚妾声七㨗反/魚也出樂浪畨國/從魚市声浦㑹反/魚也出樂浪畨國從魚匊声一曰䱡岀九江有兩乳一曰漙浮居六切/魚也出樂浪畨國從魚沙省声臣鍇曰今沙魚皮有珠文可飾刀劒靶皮亦可食所加/魚也出樂浪畨國/從魚樂声勒託反/魚也出貉國從魚羴省声臣鍇曰古以此字音尠借</hi>
+<pb n="9b"/>
+<pb n="9b"/>
+<hi>魚名臣鍇曰䏽肉也山雅注鮺眞夷反/藏魚也從魚差省声南方謂之䰼北方謂之鮺臣鍇曰今俗作鮓側瓦反/鮺也從魚今聲一曰大魚/為鮺小魚為䰼祖惨反/饐魚也從魚包声臣鍇曰饐陳臭也歩拗反/蟲連行紆行者也從魚令声臣鍇曰連行謂若螘之行連属不絶也連丁反魵也從魚叚声痕加反/大鰕也從魚/高声候抱反/當氐也從魚咎声臣鍇按爾雅注海魚似鯿大鱗肥美多鯁溝曰反/大貝也從魚亢声一曰魚膏讀若罔臣鍇按爾雅注今紫貝也大者如車渠恒湯反/蚌也從魚丙声臣鍇/曰爾雅作螷蒲猛反/蚌也從魚吉声漢律㑹稽郡獻鮚醬三斗巨乙反魚名也從魚/必声果聿反/魚名從魚瞿/声九遇反/魚名從魚矦声何溝反<pb n="10a"/>魚骨耑肥從魚周声臣鍇曰小魚也覩挑反/烝然/從魚卓声臣鍇按詩南有嘉魚烝然注烝乆也作/罩罩籗也輟角反/鱣鮪鮁鮁從魚友声臣鍇按詩施罛濊濊鱣鮪撥撥借撥字北末反/鯕魚出東萊從/魚夫声甫殳反/魚名也從魚/其声虔知反/魚名也從魚兆声池沼反/魚名也從魚/匕声呼跨反/新魚精也從三魚不變魚臣鍇曰三衆也衆而不變是鱻也息遷反/無似鼈無甲有尾無足口在腹下从魚納声奴荅切</hi>
+　　　文一百三　重七<lb/>
+<hi>二魚也闕凡<graphic n="KR2447" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2447.png" mimeType="image/png"/>之/属皆從<graphic n="KR2447" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2447.png" mimeType="image/png"/>研余反<pb n="10b"/>捕魚也從水<graphic n="KR2447" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2447.png" mimeType="image/png"/>臣鍇曰從/二<graphic n="KR2447" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2447.png" mimeType="image/png"/>二魚多也研余反/篆文従魚</hi>
+　　　文二　重　一<lb/>
+<hi>玄鳥也籋口布翅枝㞑象形凡燕之屬皆從燕臣鍇曰籋音聶小鍇也于甸反</hi>
+　　　文一<lb/>
+<hi>鱗蟲之長能南能明能細能巨能短能長春分而登天秋分而潜淵從肉飛之形童省凡龍之属皆從龍臣鍇曰肉飛也力鍾反龍也從龍霝声霝古文靈字連丁反/龍皃也從龍/合声慳南反/龍鬐脊上䶬䶬也從<pb n="11a"/>龍幵声丁帖反/飛龍也從二龍讀若沓大市反</hi>
+　　　　文五<lb/>
+<hi>鳥翥也象形凡飛之屬皆從飛臣鍇曰上旁飞者象鳥頭頸長毛甫肥反翅也從飛異声籕文翼以即反/篆文從羽</hi>
+　　　　文二　重　一<lb/>
+<hi>逹也從飛下翅取其相背也凡非之属皆從非甫肥反别也從非巳声斧尾反/披靡也從非麻声臣鍇曰披靡分故取相違之義眉彼反<pb n="11b"/>相逹也從非告声古奥反/牢也所以拘非也從非陛省声比倪反</hi>
+　　　　文五<lb/>
+<hi>疾飛也從飛而羽不見也凡卂之屬皆從卂臣鍇曰此字出于飛羽不見無飞也思震反回飛疾也從卂營省声臣鍇曰詩借為癏字葵名反</hi>
+　　　　文二<lb/>
+　說文解字通釋卷第二十二<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

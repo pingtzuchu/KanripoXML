@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2a0029_WYG_175-1a"/>
+　舊五代史巻八十七攷證<lb/>
+晉宗室列傳二廣王敬威傳敬威弟贇　案歐陽史髙<lb/>
+　祖有兄敬儒弟敬徳敬殷是書不為立傳疑有闕文<lb/>
+　又贇歐陽史作敬贇<lb/>
+韓王暉傳八年册贈太師　案暉歐陽史作敬暉贈太<lb/>
+　師歐陽史作贈太傅加贈太師<lb/>
+剡王重𦙍　案歐陽史晉家人傳重𦙍髙祖弟也通鑑<lb/>
+　齊王紀同重𦙍婦馮氏後為少帝后歐陽史載契丹<lb/>
+<pb n="KR2a0029_WYG_175-1b"/>
+　入京師暴少帝之惡于天下曰納叔母于宫中亂人<lb/>
+　倫之大典是重𦙍實為髙祖弟也五史㑹要作髙祖<lb/>
+　第三子重𦙍天福七年四月追封剡王考剡王歐陽<lb/>
+　史作鄭王封爵亦異又案是書唐紀清泰三年誅皇<lb/>
+　城副使石重裔敬瑭之子也攷會要載髙祖諸子無<lb/>
+　别名重裔者重裔疑即重𦙍史氏避宋太祖諱故作<lb/>
+　裔然通鑑髙祖紀作敬瑭之子重𦙍齊王紀又作髙<lb/>
+　祖少帝重𦙍早卒似兩紀實有兩人姑存之以偹攷<lb/>
+<pb n="KR2a0029_WYG_175-2a"/>
+虢王重英　案五代㑹要重英髙祖長子通鑑攷異引<lb/>
+　廢帝實録作姪男供奉官重𦙍又廣本英作殷<lb/>
+楚王重信傳髙祖第二子　案五代㑹要作第四子<lb/>
+壽王重乂傳髙祖第三子　案五代㑹要作第二子通<lb/>
+　鑑攷異作姪男<lb/>
+陳王重杲　案重杲小字馮六歐陽史云髙祖少子曰<lb/>
+　馮六舊説以重睿為幼子非也今考五代㑹要作髙<lb/>
+　祖第六子重杲第七子重睿與歐陽史異<lb/>
+<pb n="KR2a0029_WYG_175-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　舊五代史巻八十七攷證<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>提要<lb/>
+                </head>
+    <p>
+<pb n="KR4d0175_WYG_000-1a"/>
+欽定四庫全書　　　　　集部四<lb/>
+　提要<lb/>
+　　雲溪集十二巻　　　　　别集類三<hi>宋</hi>
+　　　　臣等謹案雲溪集十二巻宋郭印撰印詩數<lb/>
+　　　　百篇散見永樂大典各韻中皆題曰雲溪集<lb/>
+　　　　而宋史藝文志及諸家書目均未著録惟厲<lb/>
+　　　　鶚輯宋史紀事載印為成都人政和中進士<lb/>
+　　　　而亦不詳其官爵所録詩僅二首一從全蜀<lb/>
+<pb n="KR4d0175_WYG_000-1b"/>
+　　　　藝文志摘出為遊大隋山詩一從四川總志<lb/>
+　　　　摘出則即集中遊下巖寺詩是也今按集中<lb/>
+　　　　有雲溪雜詠小序自題亦樂居士且稱性嗜<lb/>
+　　　　水竹經營二十載始得一畝之園云云則雲<lb/>
+　　　　溪乃其别墅之名又有過銅梁縣詩云攝職臨<lb/>
+　　　　兹邑於今五十年又仁壽縣山齋詩云隨牒<lb/>
+　　　　幾推遷銅章領巖邑又次韻宋南伯云衰遲<lb/>
+　　　　來作邑勞苦劇萬狀則嘗累任縣令晚始退<lb/>
+<pb n="KR4d0175_WYG_000-2a"/>
+　　　　　居又贈劉元圭詩今年歲八十之語則其齒<lb/>
+　　　　　亦躋上壽觀所作養生歌及讀易詩盖有得<lb/>
+　　　　　於導引之術者其交游最宻為曽慥計有功<lb/>
+　　　　　等皆一時博雅之士則印亦勝流矣特以集久<lb/>
+　　　　　不傳故録宋詩者遂罕能稱述耳今据永樂<lb/>
+　　　　　大典所載分體編輯釐為十二巻其詩才地<lb/>
+　　　　　稍弱未能自出機杼而清詞雋語瓣香實在<lb/>
+　　　　　眉山以視宋末嘈雜之音固為猶有典刑矣<lb/>
+<pb n="KR4d0175_WYG_000-2b"/>
+　　　　　乾隆四十六年九月恭校上<lb/>
+　　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　　總　校　官　<hi>臣</hi>　陸　　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

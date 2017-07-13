@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>嘉祐雜誌</head>
+    <p>
+<pb n="KR3l0033_WYG_000-1a"/>
+欽定四庫全書　　　　　子部十二<lb/>
+　嘉祐雜誌　　　　　　　小説家𩔖一<hi>雜事之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案嘉祐雜誌一卷宋江休復撰休復<lb/>
+　　　　字隣㡬開封陳留人舉進士充集賢校理謫<lb/>
+　　　　監蔡州税後復官歴刑部郎中脩起居注卒<lb/>
+　　　　於官事蹟具宋史文苑傳休復有文集二十<lb/>
+　　　　卷今佚不傳惟此書存文獻通考及宋史藝<lb/>
+<pb n="KR3l0033_WYG_000-1b"/>
+　　　　文志皆作三卷而稗海唐宋叢書皆不分卷<lb/>
+　　　　明胡應麟筆叢云江隣㡬雜志宋人極推之<lb/>
+　　　　今不傳略見説郛然説郛所載止十頁而稗<lb/>
+　　　　海唐宋叢書與此抄本皆三倍于説郛應麟<lb/>
+　　　　殆偶未見也歐陽脩作休復墓誌云休復歿<lb/>
+　　　　于嘉祐五年而是書屢紀己亥冬秋之事即<lb/>
+　　　　休復未歿之前一年年月亦皆相應惟書中<lb/>
+　　　　記其奉使事宋史本傳與墓誌皆不載又刻<lb/>
+<pb n="KR3l0033_WYG_000-2a"/>
+　　　　本皆題云臨川江休復而史與墓誌皆云陳<lb/>
+　　　　留人頗為舛異葢休復奉使雄州未嘗出境<lb/>
+　　　　不過館伴之常事故墓誌本傳皆不書而刻<lb/>
+　　　　本標題又後人所妄加爾其書皆記雜事故<lb/>
+　　　　宋志列之小説家姚寛西溪叢語摘其象膽<lb/>
+　　　　隨四時一條誤以酉陽雜俎為山海經朱翌<lb/>
+　　　　猗覺寮雜記摘其壓角一條誤以丞相為直<lb/>
+　　　　閣以坐於榻為立於褥是誠偶誤然休復所<lb/>
+<pb n="KR3l0033_WYG_000-2b"/>
+　　　　與交游率皆勝流耳濡目染具有端緒究非<lb/>
+　　　　委巷俗談可比也乾隆四十六年十月恭校<lb/>
+　　　　上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

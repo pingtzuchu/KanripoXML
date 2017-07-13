@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4d0577_WYG_025-1a"/>
+　附録<lb/>
+　　元廣東宣慰使司都元帥府照磨王公墓誌銘<lb/>
+　　賜進士第中順大夫詹事府少詹事兼左春坊左<lb/>
+　　諭徳經筵講官闕里孔公恂撰<lb/>
+麟原先生歿于洪武丙寅四月二十六日以戊辰十二<lb/>
+月庚申葬於中村其髙祖運属官之墓後距今成化改<lb/>
+元乙酉七十有八年其族孫大理公槩以其曾孫謙所<lb/>
+奉壙誌來請銘予與大理公舊同寅也誼不可辭按誌<lb/>
+<pb n="KR4d0577_WYG_025-1b"/>
+先生諱禮字子讓姓王氏世居廬陵之宣溪自號清和<lb/>
+道人因所居後有憩麟山學者稱為麟原先生曾祖維<lb/>
+翰祖公塗父斯覺俱隠居弗仕母劉氏先生生而聰慧<lb/>
+好讀書事親孝五嵗就學揖讓進退儼若成人八歲四<lb/>
+書經傳皆通習之十歲即有志于科第出就外傅習舉<lb/>
+子業年十五作文<graphic n="KR0757" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0757.png" mimeType="image/png"/>筆立就老師宿學皆嘆異焉十八<lb/>
+試於有司與群士争衡至正十年庚寅以詩經魁江西<lb/>
+有司以名聞十一年授安逺縣教官十三年循民弄兵<lb/>
+<pb n="KR4d0577_WYG_025-2a"/>
+掠汀州攻龍南于是安逺頑民作亂十五年贑州路總<lb/>
+管噶海齊以先生嘗典教是邑令奉詔徃綏之蠻獠礪<lb/>
+兵刄弦弓矢以逆于境先生諭其父老曰吾奉詔輯安<lb/>
+汝民宜改過自新毋自速咎使妻孥得保首領以歿顧<lb/>
+非幸歟若負固肆暴一旦天兵逺臨父母昆弟並遭擒<lb/>
+戮悔之何及汝宜思之父老再拜謝曰明公教以生道<lb/>
+敢不自悛叱其子弟令各歸舎觧甲為農于是逺近居<lb/>
+民悉遵化贑州移文省憲議功十六年授興國縣主簿<lb/>
+<pb n="KR4d0577_WYG_025-2b"/>
+未幾以親老辭歸江西行省叅政沁布阿咱爾聞而嘉<lb/>
+之遂辟叅謀幕府越明年遷廣東道宣慰使司都元帥<lb/>
+府照磨十八年噶海齊為江西行省叅政總戎贑州復<lb/>
+召先生歸幕府叅賛軍事九月陳兵䧟贑沁布阿咱爾<lb/>
+與噶海齊俱死所領兵亦潰先生偕都事巴延子中收<lb/>
+餘兵棲天封意圖恢復而世事日非矣乃取道過雩明<lb/>
+年挈家下贑又明年歸廬陵而郷里莽為邱墟民不遑<lb/>
+䖏二十二年江西内附遂構堂于古城舊址郷郡學者<lb/>
+<pb n="KR4d0577_WYG_025-3a"/>
+争師之洪武紀元詔興學校郡守王君澤以書幣延至<lb/>
+于郡庠為學者師洪武庚戌設科取士于是福建廣東<lb/>
+藩臬奉詔禮聘先生為考試官繼又江西湖廣書幣交<lb/>
+至皆以疾辭弗徃八年詔行郷飲酒禮郡守徐彦中以<lb/>
+先生老于文學固請為賔講明禮法九年四明烏斯道<lb/>
+知奉新縣事復迎䖏賔位多所咨問焉先生自少至老<lb/>
+嗜學不倦其于六藝之文百家之書靡不閱覧嘗類群<lb/>
+賢之詩名曰長留天地集滄海遺珠集行於世復輯官<lb/>
+<pb n="KR4d0577_WYG_025-3b"/>
+箴一帙名曰為政規範俾官守者得以法焉毎于嚴冬<lb/>
+氷凍輙減米以濟貧者郷隣徳之元季以來科舉法廢<lb/>
+先生遂工為古文是時前進士江浙提舉雲陽李公祁<lb/>
+國子司業西昌劉公崧翰林學士金華宋公濓毎見先<lb/>
+生之文咸推重焉亂後文多散逸其所存者百無一二<lb/>
+名之曰麟原集生元延祐甲寅正月四日夀七十六配<lb/>
+吳氏有賢徳子男三人長楫次樸次樞楫樞先卒女一<lb/>
+人適固塘文氏孫男四人士頡景蘧希晏慕僑曽孫男<lb/>
+<pb n="KR4d0577_WYG_025-4a"/>
+十三人謙其一也銘曰<lb/>
+仁者必有後而後未必多賢吁嗟乎先生簮組綿綿徳<lb/>
+者必有言而言未必能傳吁嗟乎先生道義兼全道以<lb/>
+淑人義以制事惟所在而能安故俯仰而無愧中村之<lb/>
+陽有幽其堂勒銘斯藏百祀不忘<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR4d0577_WYG_025-4b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　麟原後集附録<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

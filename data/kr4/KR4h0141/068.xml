@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_068-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選巻六十八<lb/>
+　　虎丘山類<lb/>
+　　　五言古<lb/>
+　　　　從永陽王逰虎丘山　　　　<hi>陳</hi>張正見<lb/>
+　滄波壯鬰島洛邑鎮崇芒未若兹山麗岧嶤擅水鄉地<lb/>
+　靈侔少室塗艱像太行重巖標虎踞九曲峻羊腸溜深<lb/>
+　澗無底風幽谷自涼寳沈餘玉氣劒隠絶星光白雲多<lb/>
+<pb n="KR4h0141_WYG_068-1b"/>
+　異影丹桂有叢香逺看銀臺竦洞塔耀山莊瑞草生金<lb/>
+　地天花照石梁<lb/>
+　　　　逰虎丘山精舍　　　　　　<hi>陳</hi>江　總<lb/>
+縱棹憐廻曲尋山静見聞毎同芳杜性須與俗人分貝<lb/>
+　塔涵流動花臺徧嶺芬蒙籠出檐桂散漫繞窓雲情幽<lb/>
+　豈狥物志逺易驚羣何由狎魚鳥不願屈元纁<lb/>
+　　　　登虎丘山　　　　　　　　<hi>元</hi>貢　奎<lb/>
+　古士雅巾屨具舟約芳逰朝晴出西郭午凉登虎丘松<lb/>
+<pb n="KR4h0141_WYG_068-2a"/>
+徑度遥嶺歴此層級脩當時呉王劒硎光裂巖幽平甸<lb/>
+眺萬頃閒瞻烟樹稠頗聞山僧賢飛錫下林陬獨遺方<lb/>
+丈室於焉集清流一簟可平生豈惜半日留煮茗試泉<lb/>
+冽焚香延宿篝疎雨催晩歸谿波散浮漚<lb/>
+　　五言律<lb/>
+　　　逰虎丘　　　　　　　　　<hi>明</hi>張　羽<lb/>
+春入翠微深春風吹客襟相携木上座来禮石觀音老<lb/>
+樹積古色薄雲生晝隂林僧修茗供默坐契禪心<lb/>
+<pb n="KR4h0141_WYG_068-2b"/>
+　　五言排律<lb/>
+　　　刻清逺道士詩因而繼作　　<hi>唐</hi>顔真卿<lb/>
+不到東山寺于今五十春朅来從舊賞林壑宛相親呉<lb/>
+子多藏日秦皇厭勝辰劒池穿萬仞磐石坐千人金氣<lb/>
+騰為虎琴臺化若神登壇仰生一捨宅歎珣珉中嶺分<lb/>
+雙樹廻巒絶四鄰窺臨江海接崇餙歳時新客有神仙<lb/>
+者於兹雅麗陳名髙清逺峡文聚斗牛津跡異心寧間<lb/>
+聲同質豈均悠然千載後知我揖光塵<lb/>
+<pb n="KR4h0141_WYG_068-3a"/>
+　　七言律<lb/>
+　　　三月望日逰虎丘寺題小吳軒<lb/>
+　　　　　　　　　　　　　　　<hi>元</hi>張　翥<lb/>
+海湧峰前雲樹盤佛宫飛閣出巑岏虎来古塚金精白<lb/>
+龍卧秋池劒影寒禪老説空留壞石鬼仙題雨下虛壇<lb/>
+憑髙不盡登臨興更借西山晩翠看<lb/>
+　　　　虎丘詠　　　　　　　　<hi>明</hi>黄省曽<lb/>
+芙蓉近倚闔閭城眺閣觴樓逐勢成珠寺翻為歌舞地<lb/>
+<pb n="KR4h0141_WYG_068-3b"/>
+青山盡是綺羅情巖花吐學紅粧麗谷鳥啼兼鳳管聲<lb/>
+十里垂楊芳草岸四時常暎綵舟行<lb/>
+　　五言絶句<lb/>
+　　　虎丘　　　　　　　　　　<hi>明</hi>袁宏道<lb/>
+一片千人石瑩晶若有神劒光銷不盡留與醉花人<lb/>
+　　七言絶句<lb/>
+　　　虎丘别友人　　　　　　　<hi>明</hi>黄姬水<lb/>
+惜别銜盃過虎丘行人無奈亂山愁澄江一別秋風裏<lb/>
+<pb n="KR4h0141_WYG_068-4a"/>
+　楓葉蘆花是客舟<lb/>
+　　　　虎丘　　　　　　　　　　<hi>明</hi>程嘉燧<lb/>
+　風散桐花松月開上方樓殿踏歌来携將蘆管新調曲<lb/>
+　吹向生公舊講臺<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR4h0141_WYG_068-4b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選巻六十八<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

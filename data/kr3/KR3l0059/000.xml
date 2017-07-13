@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>提要<lb/>
+                </head>
+    <p>
+<pb n="KR3l0059_WYG_000-1a"/>
+欽定四庫全書　　　　　子部十二<lb/>
+　提要<lb/>
+　　萍洲可談三卷　　　　小説家𩔖一<hi>雜事之屬</hi>
+　　　　<hi>臣</hi>等謹案萍州可談三卷宋朱彧撰彧字無<lb/>
+　　　　惑烏程人是書文獻通考著錄三卷而明代<lb/>
+　　　　商濬刻入稗海陳繼儒刻入秘笈者均止五<lb/>
+　　　　十餘條不盈一卷陶宗儀説郛所録更屬寥<lb/>
+　　　　寥盖其本乆佚濬等特於諸書所引掇拾殘<lb/>
+<pb n="KR3l0059_WYG_000-1b"/>
+　　　　文以存其槩皆未及睹三卷之本也惟永樂<lb/>
+　　　　大典徵引頗繁裒而輯之尚可復得三卷謹<lb/>
+　　　　排纂成編以還其舊雖㪚佚之餘重為綴緝<lb/>
+　　　　未必毫髮無遺然較明代諸家所刋㡬<graphic n="KR1151" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1151.png" mimeType="image/png"/>四<lb/>
+　　　　倍約畧核計已得其十之八九矣彧之父服<lb/>
+　　　　元豐中以直龍圖閣厯知萊潤諸州紹聖中<lb/>
+　　　　嘗奉命使遼後又為廣州帥故彧是書多述<lb/>
+　　　　其父之所見聞而於廣州蕃坊市舶言之尤<lb/>
+<pb n="KR3l0059_WYG_000-2a"/>
+　　　　詳考之宋史服雖坐與蘇軾交㳺貶官然寔<lb/>
+　　　　非元祐之黨嘗有隙扵蘇轍而比附扵舒亶<lb/>
+　　　　吕恵卿故彧作是書扵二蘇頗有微詞而扵<lb/>
+　　　　亶與恵卿則往往曲為解釋甚至扵元祐垂<lb/>
+　　　　簾有政由帷箔之語盖欲回䕶其父不得不<lb/>
+　　　　回䕶其父黨遂不得不尊紹聖之政而薄元<lb/>
+　　　　祐之人與蔡絛鐡圍山叢談同一用意殊乖<lb/>
+　　　　是非之公然自此數條以外所記土俗民風<lb/>
+<pb n="KR3l0059_WYG_000-2b"/>
+　　　　朝章國典皆頗足以資考證即軼聞𤨏事亦<lb/>
+　　　　往往有禆勸戒較他小説之侈神怪肆恢嘲<lb/>
+　　　　徒供談噱之用者猶有取焉乾隆四十六年<lb/>
+　　　　九月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

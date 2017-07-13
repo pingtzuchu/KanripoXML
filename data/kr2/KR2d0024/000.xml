@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>尚史</head>
+    <p>
+<pb n="KR2d0024_WYG_000-1a"/>
+欽定四庫全書　　　　史部六<lb/>
+　尚史　　　　　　　　别史類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案尚史一百七卷<lb/>
+　　　國朝李鍇撰鍇字鐵君鑲白旗漢軍卷首自署<lb/>
+　　　　曰襄平考襄平為漢遼東郡治今為<lb/>
+　　　盛京遼陽州地蓋其祖籍也康熙中鄒平馬驌<lb/>
+　　　　作繹史採摭百家雜説上起鴻荒下迄秦代<lb/>
+<pb n="KR2d0024_WYG_000-1b"/>
+　　　　仿袁樞紀事本末之體各立標題以類編次<lb/>
+　　　　凢所徴引悉錄原文雖若不相屬而實有端<lb/>
+　　　　緒鍇是編以驌書為藁本而離析其文為之<lb/>
+　　　　翦裁連絡改為紀傳之體作世系圖一卷本<lb/>
+　　　　紀六卷世家十五卷列傳五十八卷繫六卷<lb/>
+　　　　表六巻志十四卷末附序傳一卷仍於毎叚<lb/>
+　　　　下各註所出書名其遺文瑣事不入正文者<lb/>
+　　　　則以類附註於句下蓋體例凖諸史記而排<lb/>
+<pb n="KR2d0024_WYG_000-2a"/>
+　　　　纂之法則仿路史而小變之自序謂始事于<lb/>
+　　　　雍正庚戌卒業於乾隆乙丑閲十六載而後<lb/>
+　　　　就其用力頗勤考古來漁獵百家勒為一史<lb/>
+　　　　實始於司馬遷今觀史記諸篇其出遷自撰<lb/>
+　　　　者率經緯分明疎密得當操縱變化惟意所<lb/>
+　　　　如而其雜采諸書以成文者非唯事迹異同<lb/>
+　　　　時相牴牾亦往往㸃竄補綴不能隠斧鑿之<lb/>
+　　　　痕知鎔鑄衆説之難也此書一用舊文翦裁<lb/>
+<pb n="KR2d0024_WYG_000-2b"/>
+　　　　排比使事迹聫屬語意貫通體如詩家之集<lb/>
+　　　　句於厯代史家時為創格較鎔鑄衆説為尤<lb/>
+　　　　難雖運掉或不自如組織或不盡密亦可云<lb/>
+　　　　有條不紊矣至於晉逸民傳中列杜蕢狼瞫<lb/>
+　　　　鉏麑提彌明靈輙逆臣傳中列趙穿而不列<lb/>
+　　　　趙盾亂臣傳中列郤芮吕飴甥嬖臣傳中列<lb/>
+　　　　頭湏魯列女傳中列施氏婦予奪多所未允<lb/>
+　　　　又諸國公子皆别立傳而魯宋蔡曹莒邾六<lb/>
+<pb n="KR2d0024_WYG_000-3a"/>
+　　　　國則雜列諸臣中叛臣傳中如巫狐庸叛楚<lb/>
+　　　　入吳吳楚兩見公山不狃叛魯入吳吳魯兩<lb/>
+　　　　見已為重出而屈巫見於楚不見於晉苗賁<lb/>
+　　　　皇見於晉不見於楚又復自亂其例如斯之<lb/>
+　　　　類不一而足亦未能一一精核固不必為之<lb/>
+　　　　曲諱焉乾隆五十四年正月恭校上<lb/>
+　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　　　　總校官　<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

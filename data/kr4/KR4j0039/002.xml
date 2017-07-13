@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4j0039_WYG_002-1a"/>
+龍川詞跋<lb/>
+同甫一名同永康人光宗策進士羣臣奏其巻第三御<lb/>
+筆擢第一既知為同甫大喜又有天留遺朕之詔其恩<lb/>
+遇如此據葉水心序其集云四十巻今行本止三十巻<lb/>
+想尚多佚遺其最著者莫如上皇帝四書及酌古論自<lb/>
+贊云人中之龍文中之虎真無忝矣第本集載詞選三<lb/>
+十闋無甚詮次如寄辛幼安賀新郎三首錯見前後予<lb/>
+家蔵龍川詞一巻又每調類分未知孰是讀至巻終不<lb/>
+<pb n="KR4j0039_WYG_002-1b"/>
+作一妖語媚語殆所稱不受人憐者歟湖南毛晉識<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

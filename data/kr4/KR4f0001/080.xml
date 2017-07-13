@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4f0001_WYG_080-1a"/>
+　欽定四庫全書<lb/>
+聖祖仁皇帝御製文集巻三十八目録<lb/>
+　　古今體詩四十五首<lb/>
+　　　　夏日奉<lb/>
+　太皇太后避暑興安<lb/>
+　　　　石盤峪龍潭<lb/>
+　　　　白水<lb/>
+　　　　古北口<lb/>
+<pb n="KR4f0001_WYG_080-1b"/>
+　　　　曉發古北口望霧靈山<lb/>
+　　　　第一泉<lb/>
+　　　　次上都河<lb/>
+　　　　青城道中<lb/>
+　　　　九隘<lb/>
+　　　　塞外對雨<lb/>
+　　　　紅川<lb/>
+　　　　駐蹕興安八首<hi>并序</hi>
+<pb n="KR4f0001_WYG_080-2a"/>
+　　　廵歴塞北雜詠四首<lb/>
+　　　楊川<lb/>
+　　　細河<lb/>
+　　　塞北早秋<lb/>
+　　　興安夜<lb/>
+　　　次楊嶺北<lb/>
+　　　過團河<lb/>
+　　　次石山<lb/>
+<pb n="KR4f0001_WYG_080-2b"/>
+　　　尖峰山谷口作<lb/>
+　　　三道河晩望<lb/>
+　　　黄草川<lb/>
+　　　回鑾抵古北口<lb/>
+　　　中秋日聞海上㨗音<lb/>
+　　　是夜對月再成絶句<lb/>
+　　　賜施烺詩<hi>并序</hi>
+　　　九日對菊<lb/>
+<pb n="KR4f0001_WYG_080-3a"/>
+　　　秋日再過阜平<lb/>
+　　　再駐龍泉關<lb/>
+　　　冬日重登清凉山<lb/>
+　　　詠馬<lb/>
+　　　初冬自五臺回次日雪<lb/>
+　　　盆中橘實甚繁詠此<lb/>
+　　　台灣平告祀<lb/>
+孝陵有述<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

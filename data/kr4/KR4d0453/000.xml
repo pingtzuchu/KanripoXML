@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>魯齋遺書</head>
+    <p>
+<pb n="KR4d0453_WYG_000-1a"/>
+欽定四庫全書　　　　　集部五<lb/>
+　魯齋遺書　　　　　　　别集類四<hi>元</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案魯齋遺書十四卷元許衡撰衡有讀<lb/>
+　　　　易私言已著録初衡七世孫壻郝亞卿輯其<lb/>
+　　　　遺文未竟河内教諭宰廷俊繼成之嘉靖乙<lb/>
+　　　　酉山隂蕭鳴鳯校刋於汴後復有題識云鳴<lb/>
+　　　　鳯方校是書適應内翰元忠奉使過汴謂舊<lb/>
+<pb n="KR4d0453_WYG_000-1b"/>
+　　　　本次第似有未當乃重編如左續得内法及<lb/>
+　　　　大學中庸直解俱以増入舊本名魯齋全書<lb/>
+　　　　竊謂先生之書尚多散佚未敢謂之全也故<lb/>
+　　　　更名遺書盖此本為應良所重編而鳴鳯更<lb/>
+　　　　名者也首二卷為語録第三卷為小學大義<lb/>
+　　　　直説大學要略大學直解第四卷分上下上<lb/>
+　　　　為中庸直解下為讀易私言讀文獻公揲蓍<lb/>
+　　　　説及隂陽消長一篇第五卷為奏疏第六卷<lb/>
+<pb n="KR4d0453_WYG_000-2a"/>
+　　　　亦分上下上為雜著下為書狀第七第八卷<lb/>
+　　　　為詩樂府附録二卷則像贊誥勑之類及後<lb/>
+　　　　人題識之文其書為後人所裒輯無所别擇<lb/>
+　　　　如大學中庸直解皆課蒙之書詞求通俗無<lb/>
+　　　　所發明其編年歌括尤不宜列之集内一槩<lb/>
+　　　　刋行非衡本意然衡平生議論宗㫖亦頗賴<lb/>
+　　　　此編以存棄其蕪雜取其精英在讀者别擇<lb/>
+　　　　之耳其文章無意修詞而自然明白醇正諸<lb/>
+<pb n="KR4d0453_WYG_000-2b"/>
+　　　　體詩亦具有風格尤講學家所難得也乾隆<lb/>
+　　　　四十六年十二月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

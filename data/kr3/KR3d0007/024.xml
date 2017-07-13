@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>農政全書卷二十四</head> <lb/>
+    <p>
+<pb n="KR3d0007_WYG_024-1a"/>
+欽定四庫全書<lb/>
+　農政全書卷二十四<lb/>
+　　　　　　　　　　　　明　徐光啟　撰<lb/>
+　　農器<lb/>
+　　　圖譜四<lb/>
+王楨曰芟麥等器中土人皆習用蓋地廣種多必制此<lb/>
+法乃為收斂比之鎌鑊手栞其功殆若神速今特各各<lb/>
+圖録庶他方業農者傚之同省工力而蓑笠簣蓧之器<lb/>
+<pb n="KR3d0007_WYG_024-1b"/>
+附焉<lb/>
+𤣥扈先生曰古云收穫如寇盜之至百穀皆宜速收夏<lb/>
+麥尤甚故曰收麥如救火此譜芟麥之器獨詳以此類<lb/>
+而推之麥塲宜髙廣荘屋宜寛大他如笐架火炕如豫<lb/>
+宜設處以備不時之霖潦可也<lb/>
+<pb n="KR3d0007_WYG_024-2a"/>
+</p>
+<p>
+<pb n="KR3d0007_WYG_024-3a"/>
+麥籠盛芟麥器也判竹編之底平口綽廣可六尺深可<lb/>
+二尺載以木座座帶四碢用轉而行芟麥者腰繫鈎繩<lb/>
+牽之且行且曳就借使刀前向綽麥乃覆籠内籠滿則<lb/>
+舁之積處往返不已一籠日可收麥數畆又謂之腰籠<lb/>
+<pb n="KR3d0007_WYG_024-4a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_024-4b"/>
+麥釤芟麥刅也集韻曰釤長鐮也状如鐮長而頗直比<lb/>
+鏺薄而稍輕所用斫而劖之故曰釤用如鏺也亦曰鏺<lb/>
+其刅務在剛利上下嵌繫綽柄之首以芟麥也此之刈<lb/>
+穫功過累倍<lb/>
+<pb n="KR3d0007_WYG_024-5a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_024-5b"/>
+麥綽抄麥器也篾竹編之一如箕形稍深且大旁有木<lb/>
+柄長可三尺上置釤刅下横短拐以右手執之復於釤<lb/>
+旁以繩牽短軸<hi>近刅處以細竹代繩防為刅所割也</hi>左手握而掣之以兩<lb/>
+手齊運芟麥入綽覆之籠也嘗見北地芟取蕎麥亦用<lb/>
+此具但中加密耳夫籠釤綽三物而一事繫於人之一<lb/>
+身而各周於用信乎人為物本物因人而用也<lb/>
+<pb n="KR3d0007_WYG_024-6a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_024-6b"/>
+捃刀集韻云捃拾也俗謂拾麥刀刅長可五寸濶近二<lb/>
+寸上下竅繩穿之繫於指腕隨手芟穫取其便也麥禾<lb/>
+既熟或收刈不時莖穗狼籍不能淨盡單貧之人得以<lb/>
+取其遺滯蓋捃拾之間用此器也<lb/>
+<pb n="KR3d0007_WYG_024-7a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_024-7b"/>
+拖杷耬麥長杷也首列二十餘齒短木柄以批契繼腰<lb/>
+曳之嘗見麥野為風雨所損而莖穗交亂不能淨鏺故<lb/>
+制此具腰後縱横耬之仍手握柄鐮芟其遺餘所得稭<lb/>
+穗隨擁積之有一杷畢功得麥十餘斛<lb/>
+<pb n="KR3d0007_WYG_024-8a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_024-8b"/>
+抄竿扶麥竹也長可及丈麥已熟時忽為風雨所倒不<lb/>
+能芟取乃别用一人執竿抄起卧穗竿舉則釤隨鏺之<lb/>
+殊無損失必兩習熟者能用不然則有矛盾之差矣或<lb/>
+曰捃刀拖杷抄竿冗細似不足紀録而皆取之何也曰<lb/>
+物有濟於人而遺之不可故綴於麥事之末<lb/>
+<pb n="KR3d0007_WYG_024-9a"/>
+蓑雨衣無羊詩云何蓑何笠毛註曰蓑所以備雨笠所<lb/>
+以禦暑唐韻云蓑草名可為雨衣又名襏襫說文云秦<lb/>
+謂之萆爾雅曰薃侯莎蓑衣以莎草為之故音同莎又<lb/>
+名薛六韜農器篇曰蓑薛簦笠今總謂之蓑雨具中最<lb/>
+為輕便<hi>圖不載</hi>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_024-9b"/>
+笠戴具也古以臺皮為笠詩所謂臺笠緇撮今之為笠<lb/>
+編竹作殻裏以籜篛或大或小皆頂隆而口圓可芘雨<lb/>
+蔽日以為蓑之配也<hi>圖不載</hi>
+<pb n="KR3d0007_WYG_024-10a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_024-10b"/>
+屝草履也左傳曰共其資糧屝屨說文曰屝草屨也孔<lb/>
+疏云屝屨俱是在足之物善惡異名耳<lb/>
+<pb n="KR3d0007_WYG_024-11a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_024-11b"/>
+屨麻履也傳云屨滿户外蓋古人上堂則遺屨於外此<lb/>
+常履也今農人春夏則屝秋冬則屨從省便也方言屝<lb/>
+麄屨也徐兖之郊謂之屝自闗而西謂之屨中有木者<lb/>
+謂之複舄自闗而東謂之複履其卑者謂之䩩<hi>音婉</hi>下禪<lb/>
+謂之鞮絲作者謂之履麻作者謂之不借麄者謂之㞜<lb/>
+東北朝鮮列水之間謂之䩕或謂之<graphic n="KR0146" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0146.png" mimeType="image/png"/>徐土邳沂之間<lb/>
+大麄謂之䩕角皆屨之别名也<lb/>
+<pb n="KR3d0007_WYG_024-12a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_024-12b"/>
+橇泥行具也史記禹乘四載泥行乘橇孟康曰橇形如<lb/>
+箕摘行泥土嘗聞向時河水退灘淤地農人欲就泥裂<lb/>
+漫撒麥種柰泥深恐没故制木板為履前頭及兩邊昆<lb/>
+起如箕中綴毛繩前後繫足底板既濶則舉歩不陷今<lb/>
+海陵人一行及刈過葦泊中皆用之<lb/>
+<pb n="KR3d0007_WYG_024-13a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_024-13b"/>
+覆殻<hi>一名鶴翅一名背蓬</hi>篾竹編如龜殻衷以籜箬覆於人背繩<lb/>
+繫肩下耘薅之際以禦畏日兼作雨具下有卷口可通<lb/>
+風氣又分雨溜適當盛暑田夫得此以免曝烈之苦亦<lb/>
+一壺千金之比也<lb/>
+<pb n="KR3d0007_WYG_024-14a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_024-14b"/>
+蓧許慎說文曰耘器也或曰盛穀種器南方盛稻種用<lb/>
+簟以竹為之北方藏粟種簍多以草木之條編之篠蓋<lb/>
+是此類<lb/>
+臂篝状如魚笱篾竹編之又呼為臂籠江淮之間農夫<lb/>
+耘苗或刈禾穿臂於内以帣衣袖猶北俗芟刈草禾以<lb/>
+皮為袖套皆農家所必用者<lb/>
+<pb n="KR3d0007_WYG_024-15a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_024-15b"/>
+蕢草器所以盛穀也集韻作籄<lb/>
+<pb n="KR3d0007_WYG_024-16a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_024-16b"/>
+筐竹器之方者三禮圖曰大筐以竹受五斛以盛米致<lb/>
+饋於聘賓小筐以竹受五升以盛米又曰筐以盛熬穀<lb/>
+<pb n="KR3d0007_WYG_024-17a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_024-17b"/>
+筥亦作<graphic n="KR1952" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1952.png" mimeType="image/png"/>竹器之圓者注曰筥圓而長但可實物而已<lb/>
+三禮圖曰筥受五升盛饔餼之米致於賓館良耜詩曰<lb/>
+載筐及筥左傳筐筥錡釜之器字說云筐筥一器特方<lb/>
+圓之異云耳江沔之間謂之籅趙岱之間謂之䈱淇衛<lb/>
+之間謂之牛筐小者南楚謂之簍自闗而西秦晉之間<lb/>
+謂之箄筥其通語也<lb/>
+<pb n="KR3d0007_WYG_024-18a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_024-18b"/>
+畚土籠也左傳樂喜陳畚梮注云畚簣籠集韻作畚晉<lb/>
+書王猛少貧賤嘗鬻畚為事說文云畚<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>屬又蒲器也<lb/>
+所以盛種杜林以為竹筥揚雄以為蒲器然南方以蒲<lb/>
+竹北方用荆栁或負土或盛物通用器也<lb/>
+<pb n="KR3d0007_WYG_024-19a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_024-19b"/>
+𥫱集韻云盛穀器或作囤一作<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>北方以荆栁或蒿卉<lb/>
+制為圓様南方判竹編草或用籧篨空洞作圍各用貯<lb/>
+穀南北通呼曰𥫱兼篅<graphic n="KR2493" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2493.png" mimeType="image/png"/>而言也然𥫱多露置可用貯<lb/>
+糧篅<graphic n="KR2493" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2493.png" mimeType="image/png"/>在室可用盛種皆農家收穀所先具者故併次<lb/>
+之篅說文云判竹圓以盛穀𥫱類也篅或作<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>此<graphic n="KR2493" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2493.png" mimeType="image/png"/>與<lb/>
+篅皆𥫱之别名但大小有差亦蓧簣之舊制不可遺也<lb/>
+<graphic n="KR2493" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2493.png" mimeType="image/png"/>集韻云<graphic n="KR2493" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2493.png" mimeType="image/png"/>筐盛種器蓋連底小𥫱便於移用<lb/>
+<pb n="KR3d0007_WYG_024-20a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_024-20b"/>
+籮匠竹為之上圓下方挈米穀器量可一斛方言籮所<lb/>
+以注斛陳魏宋楚之間謂之䈪自闗而西謂之注箕皆<lb/>
+籮之别名也<lb/>
+<pb n="KR3d0007_WYG_024-21a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_024-21b"/>
+<graphic n="KR1237" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1237.png" mimeType="image/png"/>亦籮屬比籮稍匾而小用亦不同<graphic n="KR1237" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1237.png" mimeType="image/png"/>則造酒造飯用<lb/>
+之漉米又可盛食物蓋籮盛其粗者而<graphic n="KR1237" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1237.png" mimeType="image/png"/>盛其精者精<lb/>
+粗各適所受不可易也<lb/>
+<pb n="KR3d0007_WYG_024-22a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_024-22b"/>
+儋貯米器也漢書揚雄無儋石之儲晉劉毅家無儋石<lb/>
+之儲應劭曰齊人名甖為儋受二斛顔師古曰儋者一<lb/>
+人所負擔也方言云罃陳魏宋楚之間曰㼶或曰<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>燕<lb/>
+之東北朝鮮列水之間謂之瓺周洛韓鄭之間謂之甀<lb/>
+儋或作甔字從瓦瓦器也今江淮間農家造泥為甕披<lb/>
+以麻草用貯食米可以代儋細民甚便之<lb/>
+<pb n="KR3d0007_WYG_024-23a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_024-23b"/>
+籃竹器無繫為筐有繫為籃大如斗量又謂之笭箵農<lb/>
+家用採桑柘取蔬果等物易挈提者方言籠南楚江沔<lb/>
+之間謂之篣或謂之笯郭璞云亦呼籃蓋一器而異名<lb/>
+也<lb/>
+<pb n="KR3d0007_WYG_024-24a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_024-24b"/>
+箕簸箕也說文云簸揚米去糠也荘子曰箕之簸物雖<lb/>
+去麄留精然要其終皆有所除是也然北人用栁南人<lb/>
+用竹其制不同用則一也詩云哆兮侈兮成是南箕箕<lb/>
+四星二星為踵二星為舌哆侈謂踵已大而舌又廣也<lb/>
+又維南有箕載翕其舌故箕皆有舌易播物也諺云箕<lb/>
+星好風謂主簸揚農家所以資其用也<lb/>
+<pb n="KR3d0007_WYG_024-25a"/>
+帚今作箒又謂之篲集韻云少康作箕箒其用有二一<lb/>
+則編草為之潔除室内制則匾短謂之條<hi>亦作苕</hi>帚一則<lb/>
+束篠為之擁掃庭院制則叢長謂之掃帚又有種生掃<lb/>
+帚一科可作一帚謂之獨掃農家尤宜種之以備場圃<lb/>
+間用也<hi>圖不載</hi>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_024-25b"/>
+籭竹器内方外圓用篩穀物說文云可以除麄取精集<lb/>
+韻作簛又作簁或作篩其制有疎密大小之分然皆粒<lb/>
+食之總用也<hi>圖不載</hi>
+<pb n="KR3d0007_WYG_024-26a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_024-26b"/>
+䉛漉米器說文淅箕也又云漉米藪又炊䉛也廣雅曰<lb/>
+淅簑<graphic n="KR0146" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0146.png" mimeType="image/png"/>䉛方言云炊䉛謂之縮或謂之<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>或謂之<graphic n="KR0146" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0146.png" mimeType="image/png"/>
+                    <hi>江東</hi>
+<hi>呼為淅籖也</hi>蓋今炊米日所用者䈰飯䈰也說文陳留謂飯<lb/>
+帚曰䈰從竹捎聲一曰飯器容五升今人亦呼飯箕為<lb/>
+䈰箕南曰䉛北曰䈰南方用竹北方用栁皆漉米器或<lb/>
+盛飯所以供造酒食農家所先雖南北名制不同而其<lb/>
+用則一故附類之<lb/>
+<pb n="KR3d0007_WYG_024-27a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_024-27b"/>
+篩穀箉竹器箉與袋同音篇韻俱各不收蓋土俗所呼<lb/>
+傳寫於文字者如此其制比籭疎而頗深如藍大而稍<lb/>
+淺上有長繫可挂農人撲禾之後同稃穗子粒旋旋貯<lb/>
+之於内輙篩下之上餘穰藁逐節棄去其下所留穀物<lb/>
+須付之颺籃以去糠粃嘗見於江浙農家<lb/>
+<pb n="KR3d0007_WYG_024-28a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_024-28b"/>
+颺籃颺集韻謂風飛也籃形如簸箕而小前有木舌後<lb/>
+有竹柄農夫收穫之後塲圃之間所蹂禾穏糠籺相雜<lb/>
+執此㩍而向風擲之乃得淨穀不待車扇又勝箕簸田<lb/>
+家便之<lb/>
+<pb n="KR3d0007_WYG_024-29a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_024-29b"/>
+種簞盛種竹器也其量可容數斗形如圓甕上有<graphic n="KR2350" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2350.png" mimeType="image/png"/>口<lb/>
+農家用貯穀種庋之風處不致鬱<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>勝窖藏也古謂修<lb/>
+簞窖論語一簞食之簞食器與此字雖同然制度有大<lb/>
+小之殊作用有彼此之効齊民要術云藏稻必用簞盖<lb/>
+稻乃水穀宜風燥之種時就浸水内又其便也<lb/>
+<pb n="KR3d0007_WYG_024-30a"/>
+曬槃曝穀竹器廣可五尺許邊縁微起深可二寸其中<lb/>
+平濶似圓而長下用溜竹二莖兩端俱出一握許以便<lb/>
+扛移趂日攤布穀實曝之蠶時農家兼用為筐但底密<lb/>
+而不通風氣終非蠶具<hi>圖如蠶槃式已見故不載</hi>
+𤣥扈先生曰蠶槃通風最是<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3d0007_WYG_024-30b"/>
+摜稻簟摜抖擻也簟承所遺稻也農家禾有早晚次第<lb/>
+收穫即欲隨手得糧故用廣簟展布置木物或石於上<lb/>
+各舉稻把摜之子粒隨落積於簟上非惟免汚泥沙抑<lb/>
+且不致耗失又可晒穀物或捲作𥫱誠為多便南方農<lb/>
+種之家率皆制此<hi>圖不載</hi>
+𤣥扈先生曰不如摜床為便今農家所用棧條即簟也<lb/>
+　<lb/>
+　農政全書卷二十四<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

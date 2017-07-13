@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>庚子銷夏記</head>
+    <p>
+<pb n="KR3h0064_WYG_000-1a"/>
+欽定四庫全書　　　　　子部八<lb/>
+　庚子銷夏記　　　　　　藝術類一<hi>書畫之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案庚子銷夏記八卷<lb/>
+　　　國朝孫承澤撰承澤所著春明夢餘録天府廣<lb/>
+　　　　記諸書俱已著録承澤晩年思以講學自見<lb/>
+　　　　論者多未之許獨其於鑒賞書畫則别有専<lb/>
+　　　　長是編乃順治十七年承澤退居後所作始<lb/>
+<pb n="KR3h0064_WYG_000-1b"/>
+　　　　自四月迄於六月故以銷夏為名自一卷至<lb/>
+　　　　三卷皆所藏晉唐至明書畫真蹟四卷至七<lb/>
+　　　　卷皆古石刻每條先標其名而各加評隲於<lb/>
+　　　　其下八卷為寓目記則皆他人所藏而曾為<lb/>
+　　　　承澤所見者故别為一卷附之大抵議論之<lb/>
+　　　　中間有考據如宋之錢時嘗為秘閣校勘史<lb/>
+　　　　館檢閲終於江東帥屬本傳所載甚明而承<lb/>
+　　　　澤以為隠居不仕此類亦頗失於檢㸃然其<lb/>
+<pb n="KR3h0064_WYG_000-2a"/>
+　　　　鑒裁精審叙次雅潔獨有米芾黄長睿之遺<lb/>
+　　　　風視董逌之文筆晦澀者實為勝之固考古<lb/>
+　　　　者所宜取資也乾隆四十三年五月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

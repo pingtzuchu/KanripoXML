@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>元獻遺文</head>
+    <p>
+<pb n="KR4d0016_WYG_000-1a"/>
+欽定四庫全書　　　　　集部三<lb/>
+　元獻遺文　　　　　　　别集類二<hi>宋</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案元獻遺文一巻宋晏殊撰殊字同<lb/>
+　　　　叔臨川人景徳初以神童召試賜進士出身<lb/>
+　　　　慶厯中拜集賢殿學士同平章事元獻其諡<lb/>
+　　　　也事蹟具宋史本傳東都事略稱有文集二<lb/>
+　　　　百四十巻中興書目作九十四巻文獻通考<lb/>
+<pb n="KR4d0016_WYG_000-1b"/>
+　　　　載臨川集三十巻紫薇集一巻陳振孫云其<lb/>
+　　　　五世孫大正為年譜一巻言先元獻嘗自差<lb/>
+　　　　次起儒館至學士為臨川集三十巻起樞廷<lb/>
+　　　　至宰席為二府集二十五巻云云今皆不傳<lb/>
+　　　　此本為<lb/>
+　　　國朝康熙中慈谿胡亦堂所輯僅文六篇詩六<lb/>
+　　　　首餘皆詩餘殊當北宋盛時日與諸名士文<lb/>
+　　　　酒唱和其零章斷什往往散見諸書如復齋<lb/>
+<pb n="KR4d0016_WYG_000-2a"/>
+　　　　漫録古今嵗時雜詠侯鯖録西清詩話所載<lb/>
+　　　　諸詩此本皆未收入未為完備然殊在北宋<lb/>
+　　　　號曰能文雖二宋之作亦資其㸃定如能改<lb/>
+　　　　齋漫録所記白雪久殘梁複道黄頭閒守漢<lb/>
+　　　　樓船者其推重可以想見原集既已無存則<lb/>
+　　　　此裒輯之編僅存什一於千百者亦不能不<lb/>
+　　　　録備一家矣乾隆四十六年正月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+<pb n="KR4d0016_WYG_000-2b"/>
+　　　　　　　　　總　校　官　<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

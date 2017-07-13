@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4d0590_SBCK_003-1a"/>
+夷白齋藁卷之三<lb/>
+　　　　　　　　　　　　　　臨海　陳　基　著<lb/>
+　　　　　　　　　　　　　　金華　戴　良　編<lb/>
+　　古詩五言<lb/>
+　　　彂吳門<lb/>
+少壮不觧武衰老却從軍将相北出師部伍各駿奔伐鼓震城<lb/>
+闕樹羽隐秋旻水師歘龍驤銕騎紛雲屯軍容亦已肅士氣悉<lb/>
+欲伸載詠東山什感激為逡廵頋余麋鹿姿辱叅羆虎群頺然<lb/>
+介胄間見此逢掖臣微禄不逮養匪材胡足珎驅馳寵辱途俯<lb/>
+仰媿　君親秋風吹海濤落木滿江津去去勿踟蹰浩謌天宇<lb/>
+新<lb/>
+　　　大江<lb/>
+<pb n="KR4d0590_SBCK_003-1b"/>
+夏后道九川江源𧺫西極想當䟽鑿際毫髮無遺力奔流赴東<lb/>
+海吐納潮與汐萬古天塹雄洶湧限南北時秋八月望烟霧四<lb/>
+開闢皓月麗中天華星列東壁俯撃亂流檝仰送搏風翮眼空<lb/>
+牛渚舟氣傲南樓席平生臨深戒所至每兢惕此夕獨踈狂四<lb/>
+頋無與敵風伯引輕帆百怪皆辟易前瞻狼五山亭亭倚秋碧<lb/>
+　　　狼山<lb/>
+狼山一何竒崛𧺫大江滸横截捍奔濤離列成四五人言秦皇<lb/>
+帝鞭石走中土意𣣔跨東溟候彼神僊侣此石乃其遺為山<graphic n="KR0770" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0770.png" mimeType="image/png"/>
+狼頋斯事雖云誕傳說自前古我疑融結𥘉磅薄元氣聚地脉<lb/>
+引東南歘吸不可覩層顛屹浮屠下瞰呉岫雨行行入淮甸此<lb/>
+勝無與伍<lb/>
+　　　通州<lb/>
+<pb n="KR4d0590_SBCK_003-2a"/>
+渡江潮始平入港濤巳落泊舟狼山下逺望通州郭前行二舎<lb/>
+餘四野何漠漠近郭三五家慘澹帶藜藿到州日停午餘暑秋<lb/>
+更虐市井復喧囂民風雜南朔地雖江海裔俗有魚塩樂如何<lb/>
+墟里間生事𣸪蕭索原隰廢不治城邑斳可託良由兵興乆羽<lb/>
+檄日交錯水陸飛芻粟舟車互聮絡生者負戈矛死者棄溝壑<lb/>
+雖有老弱存不足躬錢鏄我軍寔<lb/>
+王師畊戰冝並作惟仁能養民惟善能去惡上官非不明下吏<lb/>
+㦯㒺覺每觀理亂原媿乏匡濟略撫事一興慨悲風<graphic n="KR0978" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0978.png" mimeType="image/png"/>寥廓<lb/>
+　　　如臯縣<lb/>
+曉行過如臯草露凄已白井邑無人烟原野有秋色緇褐兩三<lb/>
+人牢落徒四壁侣訝官軍至拱立衢路側伊昔淮海陬土俗勤<lb/>
+稼穡潟滷盡桒麻閭閻皆貨殖及兹值兵燹道路紛荆棘十室<lb/>
+<pb n="KR4d0590_SBCK_003-2b"/>
+九逃亡一頋三嘆息<lb/>
+王師重拯亂主将加隐惻戒吏剪蒿菜分曺理塩䇲眷眷恤瘡<lb/>
+痍遲遲歴阡陌上天合助順九土期載闢白首忝戎行臨風増<lb/>
+感激<lb/>
+　　　海安<lb/>
+淮海水為利轉運有常程積渠如積金守防如守城近聞渠堤<lb/>
+壊水决劇建瓴我軍頼神速<graphic n="KR1229" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1229.png" mimeType="image/png"/>力障頺傾舊防幸已復新備亦<lb/>
+冝興古人重舉衆日費千金并剋敵務囙糧足邉資力畊矧兹<lb/>
+淮甸間沃野冨吴荆草菜日加闢餽饟嵗弥増勿使土遺利坐<lb/>
+令儲偫贏東南力可舒根夲計非輕𣣔弘中興業新事力當行<lb/>
+陋儒無長筭觸物有深情冉冉趋畏塗戚戚慎宵证<lb/>
+　　　爛泥洪<lb/>
+<pb n="KR4d0590_SBCK_003-3a"/>
+猛虎尚可摶蛟龍亦易屠惟有爛泥洪蟁蝱天下無蟁觜甚蠍<lb/>
+螫蝱聲殷雷如壮士不敢觸觸者無完膚一齧使筋露載齧令<lb/>
+骨枯牛馬齧盡死矧兹甿者軀造物仁萬類稔此獨奚需得非<lb/>
+庶草蕃變化劇蚍蜉譬如蟣與虱所貴日<graphic n="KR1057" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1057.png" mimeType="image/png"/>梳否則必滋蔓蔓<lb/>
+草古難圗我𣣔訴真宰憤切擬<graphic n="KR0694" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0694.png" mimeType="image/png"/>胥<lb/>
+上帝必震怒下令致天誅蓐収将中軍風伯為前驅一鼓清八<lb/>
+極斯醜諒安逋尓蝱法必殱尓洪理難瀦聽甿秉耒耨庶草悉<lb/>
+誅鋤要令衆蜹都化為秔稻區作貢奉明祀庶足報錙銖<lb/>
+　　　泰州<lb/>
+吳陵古名邦利盡揚州域奮城雖丘墟新城如銕石昔為魚塩<lb/>
+聚今為用武國地經百戦餘士耻一夫敵征人還舊郷下馬問<lb/>
+親戚蹢躅慨蒿藜徘徊認阡陌桓桓霍将軍出入光百辟位重<lb/>
+<pb n="KR4d0590_SBCK_003-3b"/>
+言益卑㓛髙志彌抑誓𣣔報仇讎不肯懐第宅人羡過家榮驚<lb/>
+喜争太息白日照旌旗閭里有顔色皓首太玄經雖勤竟何益<lb/>
+　　　上樂<lb/>
+夕次泰州郭朝行上樂里宻雨灑兼葭秋風落菰米頣聞承平<lb/>
+際魚塩賤如水簫鼓樂叢祠謳謌動成市中原正格闘擊柝聞<lb/>
+四鄙官道日榛蕪生人䓁螻蟻依依烟際舟两两舟中子来注<lb/>
+賣魚蝦出入官軍裹生長離亂間不識紈與綺失喜見<lb/>
+王師𬒳服多華靡買物不論錢僕僕更拜𧺫何當罷戦伐萬國<lb/>
+収戎壘山河歸帶礪車書復文軌有地盡蚕桒無人不冠履腐<lb/>
+儒亦何需歸山守松梓撃壌盡餘年此樂無竆已<lb/>
+　　　令丁鎮<lb/>
+水路轉下樂逺赴令丁鎮落日淡平蕪荒村帶寒燐平時冨魚<lb/>
+<pb n="KR4d0590_SBCK_003-4a"/>
+稲稅薄民不困蓮芡亦時豐足以禦饑饉江湖歲或艱老弱行<lb/>
+蠢蠢相携<graphic n="KR0556" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0556.png" mimeType="image/png"/>淮食不得辞逺近四野今盡荒百畒無一墾鞠為<lb/>
+鳬鴈區無復限封畛師行輜重随士飽筋力奮經費固有常變<lb/>
+通亦冝論吾聞古賢将羊陸開吳晉食足邉備多髙標邈千仞<lb/>
+　　　務子角<lb/>
+頻嵗事行邁敢辞筋力衰官軍渡淮海父老迓旌旗騎士盡貙<lb/>
+<graphic n="KR0849" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0849.png" mimeType="image/png"/>舟師皆水犀踴躍趋敵埸謳謌雜華夷行行務子角所過悉<lb/>
+瘡痍草木未黄落風露已凄其僕夫跽謂我歲暮寒無衣故郷<lb/>
+日以逺道路日崎嶇我方戒徒侣師行有程期貴賤皆形役遑<lb/>
+敢恤其私頼有同𫀆彦議論各瓌竒有酒即共飲聊𣸪慰覉離<lb/>
+　　　髙郵<lb/>
+秦郵水為國層城髙欝欝三面阻重湖深湟中蕩潏常憐秦太<lb/>
+<pb n="KR4d0590_SBCK_003-4b"/>
+虚材兼文武術慷慨談孫吳議論每竒崛遨逰二蘇間文采尤<lb/>
+駿彂平生英邁風想像見彷彿頋余亦何知僶俛從戦伐歲晚<lb/>
+過其郷徘徊為終日憶昔元祐際中國乆寜謐二虜獨猖狂公<lb/>
+心常憤切中原属塗炭四野多白骨使公當此時豈惜焦毛髮<lb/>
+秋風次淮甸征騎四馳突九原不可作悲謌暮蕭瑟<lb/>
+　　　寳應縣<lb/>
+秋風日蕭颼百草各顦顇零露泣寒螿客子心𣣔碎寳應古名<lb/>
+邑丧亂生聚廢市井皆官軍道路盡蕭艾主将行邉鄙遺民望<lb/>
+旌斾共碩早休兵還郷供負米<lb/>
+　　　述老嫗語<lb/>
+歲暮<graphic n="KR0881" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0881.png" mimeType="image/png"/>淮海不辭行路難從軍豈不樂即事每長嘆老嫗八十<lb/>
+餘日晡未朝湌自云遭亂離零落途路間豈無子與孫充軍皆<lb/>
+<pb n="KR4d0590_SBCK_003-5a"/>
+不還男戦䧟賊壘孫存隔河山數月無消息安能頋飢寒語畢<lb/>
+雙淚垂使我心悲酸上天未悔祻豺<graphic n="KR0849" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0849.png" mimeType="image/png"/>方搆患近聞山東變世<lb/>
+路𣸪多端悠悠顛沛人何時即平安<lb/>
+　　　淮安<lb/>
+此邦惟椘州水陸居四逹囙淮以爲塹天險不可忽昔聞里中<lb/>
+人㓛盖天下傑能受市見辱羞與絳灌列常憐躡足際事與追<lb/>
+亡别赱鹿既已擒狡兔安足恤疾風吹空郊露下芳草歇行過<lb/>
+寄食地尚想還郷日王孫迹已陳漂母名未㓕遥望濟岱間風<lb/>
+塵正騷屑<lb/>
+　　　九日從陳醫師所寓得甘井課童子分汲<lb/>
+世亂逺爲客迢迢淮海濵空城百戦餘多非舊人民十井無一<lb/>
+甘憂心渇生塵蕭條值九日無酒亦無親偶過同宗友欵咲意<lb/>
+<pb n="KR4d0590_SBCK_003-5b"/>
+何真為我脩茗事芳㓗無與隣一啜喉吻潤再啜肺腑新三啜<lb/>
+衆體平四啜百慮伸連啜至五六髙談如有神吾宗和緩流豈<lb/>
+遇蘇耽倫得非上池水沾丐及時人呼童抱瓶盎赱汲勿辭勤<lb/>
+飢飡及渇飲它井棄勿論澤我枯槁容滋我衰病身沃我冰炭<lb/>
+腸餘潤及朋賔古人飲菊水其夀及千春今余遇菊日飲此樂<lb/>
+欣欣裁詩謝宗友勿以饕見嗔<lb/>
+　　　傷菊<lb/>
+終歲事行役所歴厭蒿蓬偶過衛子廬庭有幽菊叢淮海風日<lb/>
+髙秋葩粲黄中擺落凡近態綽有靖者風自負文人行肯為児<lb/>
+女容卓然揺落際見兹群卉雄是時嵗将晏不意有此逢繾綣<lb/>
+去復廽眷若情愛鍾衛子属它適我亦闕過從屋廬既易主庭<lb/>
+菊廢無蹤鞠為雞豕區腥穢産蛆蠱我聞長太息扼腕為忡忡<lb/>
+<pb n="KR4d0590_SBCK_003-6a"/>
+尓菊雖植物正色映霜空氣含逸世韵力著扶衰㓛託根君子<lb/>
+庭誓言期始終中道或改度殘賊遘貞㓙物理有屈伸世故無<lb/>
+终窮悲傷亦何益極目送飛鴻<lb/>
+夷白齋藁卷之三<lb/>
+<pb n="KR4d0590_SBCK_003-6b"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

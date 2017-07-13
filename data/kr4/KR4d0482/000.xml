@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>艮齋詩集</head>
+    <p>
+<pb n="KR4d0482_WYG_000-1a"/>
+欽定四庫全書　　　　　集部五<lb/>
+　艮齋詩集　　　　　　　别集類四元<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案艮齋詩集十四卷元侯克中撰克<lb/>
+　　　　中字正卿真定人幼喪明聆羣兒誦書不終<lb/>
+　　　　日能悉記其所授稍長習詞章自謂不學可<lb/>
+　　　　造詣既而悔之以為刋華食實莫首于理原<lb/>
+　　　　易以求乃為得之于是精意讀易著書名大<lb/>
+<pb n="KR4d0482_WYG_000-1b"/>
+　　　　易通義年至九十餘而卒今通義已不傳而<lb/>
+　　　　袁桷所作序尚見清容居士集中可畧見克<lb/>
+　　　　中本末此乃所作詩集猶元時舊刻卷首有<lb/>
+　　　　毛晉私印葢汲古閣所藏中間律體最多而<lb/>
+　　　　七言律為尤夥卷一卷二皆咏經史之作卷<lb/>
+　　　　八為諧音格乃每首全以音通字異者相叶<lb/>
+　　　　如一東叶同峒桐銅童二冬叶鏞庸容墉蓉<lb/>
+　　　　之類凡七言三十一首五言二十一首亦克<lb/>
+<pb n="KR4d0482_WYG_000-2a"/>
+　　　　中自創之格為古所未有其詩頗近擊壤一<lb/>
+　　　　派多渉理路而抒情賦景之作亦時有足資<lb/>
+　　　　諷咏者昔唐汝詢幼而失明長而能詩姑蔑<lb/>
+　　　　一集明人詫為古所未有而不知克中已在<lb/>
+　　　　前是亦足為是集稀傳之證又汝詢能註唐<lb/>
+　　　　詩解而克中乃至能詁經是所學又在汝詢<lb/>
+　　　　上矣乾隆四十三年九月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸鍚熊<hi>臣</hi>孫士毅<lb/>
+<pb n="KR4d0482_WYG_000-2b"/>
+　　　　　　　　　　總　校　官　<hi>臣</hi>陸費墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3f0018_WYG_041-1a"/>
+　欽定四庫全書<lb/>
+御製厯象考成表卷七下<lb/>
+　　交食表三之二<lb/>
+　　黄平象限表下之二<hi>自北極高三十九度至北極高四十六度</hi>
+<pb n="KR3f0018_WYG_041-2a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_041-3a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_041-4a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_041-5a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_041-6a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_041-7a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_041-8a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_041-9a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_041-10a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_041-11a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_041-12a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_041-13a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_041-14a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_041-15a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_041-16a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_041-17a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_041-18a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_041-19a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_041-20a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_041-21a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_041-22a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_041-23a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_041-24a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_041-25a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_041-26a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_041-27a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_041-28a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_041-29a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_041-30a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_041-31a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_041-32a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_041-33a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_041-34a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_041-35a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_041-36a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_041-37a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_041-38a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_041-39a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_041-40a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_041-41a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_041-42a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_041-43a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_041-44a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_041-45a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_041-46a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_041-47a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_041-48a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_041-49a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_041-50a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3f0018_WYG_041-50b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御製厯象考成表卷七下<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

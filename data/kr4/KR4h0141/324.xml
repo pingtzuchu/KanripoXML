@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_324-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選巻三百二十四<lb/>
+　　木蘭花類<lb/>
+　　　五言律<lb/>
+　　　　陳秀才庭際木蘭　　　　　<hi>唐</hi>方　干<lb/>
+　昔見初栽日今逢成樹時存思心更感遶看歩還遲蝶<lb/>
+　舞揺風蘂鶯啼含露枝徘徊不忍去應與醉相宜<lb/>
+　　　五言排律<lb/>
+<pb n="KR4h0141_WYG_324-1b"/>
+　　　　題靈祐上人法華院木蘭花　<hi>唐</hi>劉長卿<lb/>
+　庭種南中樹年華幾度新已依初地長獨發舊園春暎<lb/>
+　日成華盖揺風散錦茵色空榮落處香醉往來人菡萏<lb/>
+　千燈徧芳菲一雨均髙柯倘為楫渡海有良因<lb/>
+　　　五言絶句<lb/>
+　　　　木蘭　　　　　　　　　　<hi>宋</hi>鄭　俠<lb/>
+　未識春風面先聞樂府名洗妝儂出塞進艇客登瀛<lb/>
+　　　七言絶句<lb/>
+<pb n="KR4h0141_WYG_324-2a"/>
+　　　　戲題木蘭花　　　　　　　<hi>唐</hi>白居易<lb/>
+　紫房日照臙脂坼素豔風吹膩粉開怪得獨饒脂粉態<lb/>
+　木蘭曾作女郎來<lb/>
+　　　　題令狐家木蘭　　　　　　　白居易<lb/>
+　膩如玉指塗朱粉光似金刀剪紫霞從此時時春夢裏<lb/>
+　應添一樹女郎花<lb/>
+　　　　木蘭花　　　　　　　　　<hi>唐</hi>李商隐<lb/>
+　洞庭波冷曉侵雲日日征帆送逺人幾度木蘭舟上望<lb/>
+<pb n="KR4h0141_WYG_324-2b"/>
+　不知元是此花身<lb/>
+　　　　木蘭　　　　　　　　　　<hi>宋</hi>張芸叟<lb/>
+　石上紅花低照水山頭翠篠細含煙天生一本徐熙畫<lb/>
+　只欠鷓鴣相對眠<lb/>
+　　　　春日閒居　　　　　　　　<hi>明</hi>王虞鳯<lb/>
+　濃陰栁色罩窗紗風送爐煙一縷斜庭草黃昬随意綠<lb/>
+　子規啼上木蘭花<lb/>
+御定佩文齋詠物詩選巻三百二十四<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

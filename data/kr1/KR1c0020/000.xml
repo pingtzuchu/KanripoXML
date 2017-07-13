@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>毛詩講義</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　　經部三<lb/>
+　毛詩講義　　　　　　　詩𩔖<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案毛詩講義十二卷宋林岊撰岊字<lb/>
+　　　　仲山古田人紹熈元年特奏名嘉定間嘗守<lb/>
+　　　　全州宋史不為立𫝊而福建通志稱其在郡<lb/>
+　　　　九年頗多惠政重建清湘書院與諸生講學<lb/>
+　　　　勉敦實行郡人祀之柳宗元廟則亦循吏也<lb/>
+<pb n="1b"/>
+　　　　是編皆其講論毛詩之語觀其體例葢在郡<lb/>
+　　　　時所講授而門人録之成帙者大都取毛鄭<lb/>
+　　　　而折衷其異同雖範圍不出古人然融㑹貫<lb/>
+　　　　通要無枝言曲説之病當光寧之際廢序之<lb/>
+　　　　説方盛岊獨力闡古義以詔後生亦可謂篤<lb/>
+　　　　信謹守者矣宋史藝文志馬端臨經籍考及<lb/>
+　　　　文淵閣書目載此書皆作五卷自明初以來<lb/>
+　　　　久無𫝊本故朱彞尊經義考以為已佚今從<lb/>
+<pb n="2a"/>
+　　　　永樂大典各韻所載次第彚輯用存其槩永<lb/>
+　　　　樂大典所原佚者則亦闕焉因篇帙稍繁謹<lb/>
+　　　　釐為一十二卷不復如其舊目云乾隆四十<lb/>
+　　　　六年九月恭校上<lb/>
+　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

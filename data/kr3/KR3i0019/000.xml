@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>提要<lb/>
+                </head>
+    <p>
+<pb n="KR3i0019_WYG_000-1a"/>
+欽定四庫全書　　　　　子部九<lb/>
+　提要<lb/>
+　　茶經　　　　　　　　譜録類二<hi>飲饌之屬</hi>
+　　　　<hi>臣</hi>等謹案茶經三卷唐陸羽撰唐書羽本傳<lb/>
+　　　　稱羽著茶經三篇不言卷數藝文志載之小<lb/>
+　　　　説家作三卷與今本同𫝊盖以一卷為一篇<lb/>
+　　　　也陳師道後山集有茶經序曰陸羽茶經家<lb/>
+　　　　𫝊一卷畢氏王氏書三卷張氏書四卷内外<lb/>
+<pb n="KR3i0019_WYG_000-1b"/>
+　　　　書十有一卷其文繁簡不同王畢氏書繁雜<lb/>
+　　　　意其舊本張氏書簡明與家書合而多脱誤<lb/>
+　　　　家書近古可考正曰七之事以下其文乃合<lb/>
+　　　　三書以成之録為二篇藏于家此本三卷其<lb/>
+　　　　王氏畢氏之書歟抑後山集𫝊寫多訛誤三<lb/>
+　　　　篇為二篇也其書分十類曰一之源二之具<lb/>
+　　　　三之造四之器五之煮六之飲七之事八之<lb/>
+　　　　出九之略十之圖其曰具者皆采製之用其<lb/>
+<pb n="KR3i0019_WYG_000-2a"/>
+　　　　曰器者皆煎飲之用故二者異部其曰圖者<lb/>
+　　　　乃謂統上九類寫以絹素張之非别有圖其<lb/>
+　　　　類十其文實九也言茶者莫精於羽其文亦<lb/>
+　　　　樸雅有古意七之事所引多古書如司馬相<lb/>
+　　　　如凡將篇一條三十八字為他書所無亦旁<lb/>
+　　　　資考辨之一端矣<lb/>
+　　茶録　　　　　　　　譜録類二<hi>飲饌之屬</hi>
+　　　　<hi>臣</hi>等謹案茶録一卷宋蔡襄撰襄字君謨莆<lb/>
+<pb n="KR3i0019_WYG_000-2b"/>
+　　　　田人官至端明殿學士諡忠恵事跡具宋史<lb/>
+　　　　本𫝊是書乃其皇祐中為右正言修起居注<lb/>
+　　　　時所進前後皆有襄自序前序稱陸羽茶經<lb/>
+　　　　不第建安之品丁謂茶圖獨論采造之本至<lb/>
+　　　　於烹試曾未有聞輒條數事簡而易明後序<lb/>
+　　　　則治平元年勒石時作也分上下二篇上篇<lb/>
+　　　　論茶下篇論茶器皆所謂烹試之法通考載<lb/>
+　　　　之作試茶録然考襄二序俱自稱茶録石本<lb/>
+<pb n="KR3i0019_WYG_000-3a"/>
+　　　　亦作茶録則試字為誤增明矣費衮梁谿漫<lb/>
+　　　　志載有陳東此書䟦曰余聞之先生長者君<lb/>
+　　　　謨初為閩漕出意造宻雲小團為貢物富鄭<lb/>
+　　　　公聞之嘆曰此僕妾愛其主之事耳不意君<lb/>
+　　　　謨亦復為此余時為兒聞此語亦知感慕及<lb/>
+　　　　見茶録石本惜君謨不移此筆書旅<graphic n="KR0729" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0729.png" mimeType="image/png"/>一篇<lb/>
+　　　　以進云云案北苑貢茶録稱太平興國中特<lb/>
+　　　　置龍鳯模造團茶則團茶乃正供之土貢苕<lb/>
+<pb n="KR3i0019_WYG_000-3b"/>
+　　　　溪漁隠叢話稱北苑官焙漕司嵗貢為上則<lb/>
+　　　　造茶乃轉運使之職掌襄特精其製是亦修<lb/>
+　　　　舉官政之一端東所述富弼之言未免操之<lb/>
+　　　　已蹙羣芳譜亦載是語而以為出歐陽修觀<lb/>
+　　　　修所作龍茶録後序即述襄造小團茶事無<lb/>
+　　　　一貶辭知其語出于依托安知富弼之言不<lb/>
+　　　　出依托耶此殆因蘇軾詩中有前丁後蔡致<lb/>
+　　　　養口體之語而附㑹其説非事實也況造茶<lb/>
+<pb n="KR3i0019_WYG_000-4a"/>
+　　　　自慶厯中事進録自皇祐中事襄本閩人不<lb/>
+　　　　過文人好事夸飾土産之結習必欲加以深<lb/>
+　　　　文則錢惟演之貢姚黄花亦為軾詩所譏而<lb/>
+　　　　歐陽修作牡丹譜將併責修以不移此筆注<lb/>
+　　　　大學中庸乎東所云云所謂言之有故執之<lb/>
+　　　　成理而實非通方之論者也<lb/>
+　　品茶要録　　　　　　譜録類二<hi>飲饌之屬</hi>
+　　　　<hi>臣</hi>等謹案品茶要録一卷宋黄儒撰儒字道<lb/>
+<pb n="KR3i0019_WYG_000-4b"/>
+　　　　輔陳振孫書録解題作道父者誤也建安人<lb/>
+　　　　熈寧六年進士此書不載於宋史藝文志明<lb/>
+　　　　新安程百二始刋行之有蘇軾書後一篇稱<lb/>
+　　　　儒博學能文不幸早亡云云其文見於閣本<lb/>
+　　　　東坡外集然東坡外集實偽作<hi>説詳集部本條下</hi>則<lb/>
+　　　　此文亦在疑信間也書中皆論建茶分為十<lb/>
+　　　　篇一采造過時二白合盗葉三入襍四蒸不<lb/>
+　　　　熟五過熟六焦釜七壓葉八清膏九傷焙十<lb/>
+<pb n="KR3i0019_WYG_000-5a"/>
+　　　　辯壑源沙溪前後各為總論一篇大㫖以茶<lb/>
+　　　　之采製烹試各有其法低昻得失所辨甚微<lb/>
+　　　　園民射利售欺易以淆混故特詳著其病以<lb/>
+　　　　示人與他家茶録惟論地産品目及烹試器<lb/>
+　　　　具者用意稍别惟東溪試茶録内有茶病一<lb/>
+　　　　條所稱烏帶白合蒸芽必熟諸語亦僅略陳<lb/>
+　　　　端緒不及此書之詳明録存其説可以互資<lb/>
+　　　　考證也乾隆四十六年十月恭校上<lb/>
+<pb n="KR3i0019_WYG_000-5b"/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

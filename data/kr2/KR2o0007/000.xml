@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>三國雜事</head>
+    <p>
+<pb n="KR2o0007_WYG_000-1a"/>
+欽定四庫全書　　　　　史部十五<lb/>
+　三國雜事　　　　　　　史評類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案三國雜事二卷宋唐庚撰庚字子<lb/>
+　　　　西眉州丹稜人紹聖中登進士第調利州治<lb/>
+　　　　獄掾遷閬中令入為宗學博士張商英薦除<lb/>
+　　　　提舉京西常平後坐為商英賦内前行謫居<lb/>
+　　　　惠州大觀五年赦歸道卒是書雜論三國之<lb/>
+<pb n="KR2o0007_WYG_000-1b"/>
+　　　　事凡三十六篇并自序一篇後人皆編入庚<lb/>
+　　　　文集考宋志載庚集二十二卷與今本同似<lb/>
+　　　　此書原在集内然晁氏陳氏書目皆載庚集<lb/>
+　　　　十卷知今本析其一卷為兩卷又益以此書<lb/>
+　　　　二卷為二十二卷實非原本故永樂大典所<lb/>
+　　　　載此書亦别為一編不著文集之目今仍别<lb/>
+　　　　為二卷以還其舊陳振孫書錄解題稱庚之<lb/>
+　　　　文長於議論今觀其論諸葛亮寛待法正及<lb/>
+<pb n="KR2o0007_WYG_000-2a"/>
+　　　　不踰年改元事論荀彧争曹操九錫事皆故<lb/>
+　　　　與前人相反至亮之和呉本為權計而以為<lb/>
+　　　　王道之正亮拔西縣千餘家本以招安而以<lb/>
+　　　　為擾累無辜皆不中理又謂商無建丑之説<lb/>
+　　　　謂張掖石圖即河洛之文而惜無伏羲神農<lb/>
+　　　　以識之尤為紕繆然其他議論可采者頗多<lb/>
+　　　　醇駁並存瑕瑜不掩固亦尚論者之所節取<lb/>
+　　　　耳乾隆四十六年二月恭校上<lb/>
+<pb n="KR2o0007_WYG_000-2b"/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+<pb n="KR2o0007_WYG_000-3a"/>
+三國雜事原序<lb/>
+上自司馬遷史記下至五代史其間數千百年正統偏<lb/>
+覇與夫僭竊亂賊甚㣲至弱之國外至蠻夷戎狄之邦<lb/>
+史家未有不書國號者而三國志獨不然劉備父子相<lb/>
+傳四十餘年始終號漢未甞一稱蜀其稱蜀者流俗之<lb/>
+語耳陳壽黜其正號從其俗稱循魏晉之私意廢史家<lb/>
+之公法用意如此則其所書善惡褒貶與奪尚可信乎<lb/>
+魏晉之世稱備為蜀猶五代稱李璟為吳稱劉崇為晉<lb/>
+<pb n="KR2o0007_WYG_000-3b"/>
+矣今五代史作南唐東漢世家未嘗以吳晉稱之獨陳<lb/>
+壽如此初無義例直循好惡耳徃時歐陽文忠公作五<lb/>
+代史王荆公曰五代之事無足采者此何足煩公三國<lb/>
+可喜事甚多悉為陳壽所壞可更為之文忠公然其言<lb/>
+更不暇作也惜哉唐庚序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

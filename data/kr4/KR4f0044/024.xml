@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4f0044_SBCK_024-1a"/>
+敬業堂詩集卷二十四<lb/>
+　　　　　　　　　海寧查　愼行　悔餘<lb/>
+　賓雲集<hi>戊寅四月</hi>
+　　春來旣以近游名集是夏復偕竹垞先生作閩南<lb/>
+　　之行淵明所謂饑來驅我也往反五閲月共得詩<lb/>
+　　若干首唱酬者居其半釐爲三集曰賓雲者紀遊<lb/>
+　　武彛也曰炎天氷雪者取諸噉荔也而以垂槖終<lb/>
+　　焉中間聨句數章竹垞已刻入曝書亭集兹不復<lb/>
+　　删義取各見存題目也<lb/>
+　　　初發江干<lb/>
+江路羊腸廽江風羊角合<hi>丘長春西遊記風初起如羊角者千百須臾合爲一風可</hi>
+<pb n="KR4f0044_SBCK_024-1b"/>
+<hi>證莊子羊角而上語</hi>漸近漁浦潭忽失六和塔<lb/>
+　　　自漁浦挂席至富陽聨句<lb/>
+艑郎唱櫓雨初消<hi>悔餘</hi>突起東風送客<graphic n="KR0657" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0657.png" mimeType="image/png"/>百里晴山低似<lb/>
+屋<hi>竹垞</hi>一江新水徤於潮<hi>舟人謂江暴漲時海潮不得上</hi>得携老伴無拘<lb/>
+束<hi>悔</hi>縦是貧游未寂寥况有月波春甕在<hi>竹</hi>隔舩不乏<lb/>
+酒人招<hi>悔</hi>
+　　　又聨句一首<lb/>
+江山小船急浪衝<hi>竹</hi>疾若<graphic n="KR0743" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0743.png" mimeType="image/png"/>鳥凌霜冬<hi>悔</hi>灣澴忽轉赤<lb/>
+亭岸<hi>竹</hi>俄頃不見南髙峯<hi>悔</hi>鰣魚出網白尾尾<hi>竹</hi>烏桕<lb/>
+夾路靑茸茸<hi>悔</hi>井西道人畫不得<hi>竹</hi>暖翠浮嵐如此濃<lb/>
+<hi>悔</hi>
+<pb n="KR4f0044_SBCK_024-2a"/>
+　　　和竹垞雨泊桐廬限腹字<lb/>
+灘聲逺初喧山色晚逾綠窅窅城上鐘𪷟𪷟雨中屋平<lb/>
+生湖海夢又近嚴陵宿濯足有烟波胡爲加帝腹<lb/>
+　　　和竹垞七里瀨限脚韵<lb/>
+老黿没水風旋作合江亭西石勢惡兩蛇對走赴一壑<lb/>
+雲端百丈挽山腰井底孤<graphic n="KR0963" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0963.png" mimeType="image/png"/>轉山脚<lb/>
+　　　瀧中吟<hi>俗作龍亦作籠葉夢得避暑錄辨其譌云當作瀧閭江反今從之</hi>
+瀧中亂峯髙揷天瀧中急水折復旋瀧中竹樹靑如烟<lb/>
+白龍倒垂尾蜿蜒洩雲歕霧爲飛泉晴光一綫忽射穿<lb/>
+雨點白晝打客舩舩行無風七十里一日看山柁樓底<lb/>
+<hi>有風七里無風七十里瀧中口號</hi>
+<pb n="KR4f0044_SBCK_024-2b"/>
+　　　晚次汝歩乘月抵蘭谿城下<lb/>
+飛盡漁灣白鷺鷥罛師逆浪上灘遲蘭溪城外數錢女<lb/>
+月出未收靑酒旗<lb/>
+　　　雨發東峰亭<lb/>
+昨日不料風今朝不料雨生涯昧所向智不如商賈聊<lb/>
+爲山水遊旅興時一皷東峰吾舊識嘉樹紛可數中流<lb/>
+乍囬頭悵若辭地主三衢渺何處去去信柔櫓<hi>自此西行余遊</hi>
+<hi>蹤向所未歷</hi>
+　　　水碓聨句四十韻<lb/>
+百灘趍漸江昏且鳴不息<hi>竹</hi>大波恣奔放小波廽汨<graphic n="KR2806" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2806.png" mimeType="image/png"/>
+<hi>悔</hi>居人擅水利審曲引使直<hi>竹</hi>其長走蛟蛇其廣納溝<lb/>
+<pb n="KR4f0044_SBCK_024-3a"/>
+淢<hi>悔</hi>遏防激之怒徑隘流轉亟<hi>竹</hi>夫豈水性然適來遭<lb/>
+勢偪<hi>悔</hi>于焉扼其吭壘石添橜杙<hi>竹</hi>椽茅架小屋度地<lb/>
+隨偃仄<hi>悔</hi>斵木爲巨輪當衝立樞極<hi>竹</hi>旁安三十輻輻<lb/>
+輻輳斤墨<hi>悔</hi>龜<graphic n="KR2271" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2271.png" mimeType="image/png"/>交兩兆鱉甲支九肋<hi>竹</hi>括張等虞機<lb/>
+璇運就圜則<hi>悔</hi>江心鏡欲躍海底月半蝕<hi>竹</hi>㓕頂泅人<lb/>
+騰升陑壯士踣<hi>悔</hi>尻髙首或下後湧前忽匿<hi>竹</hi>團團牛<lb/>
+旋磨匝匝鴉翻翼<hi>悔</hi>棗軸貫中央有如蓍在扐<hi>竹</hi>循環<lb/>
+觸牙動揚者必先抑<hi>悔</hi>石臼貭本頑甘爲杵所賊<hi>竹</hi>昻<lb/>
+然馬騰槽俛若鶴啄食<hi>悔</hi>砯砰應關棙次第符漏刻<hi>竹</hi>
+擣𥿄十萬牋取禾三百億<hi>悔</hi>穅秕除未盡藤竹需孔棘<lb/>
+<hi>竹</hi>一爲機事牽焉得休汝力<hi>悔</hi>先王昔制器取象配卦<lb/>
+<pb n="KR4f0044_SBCK_024-3b"/>
+德<hi>竹</hi>舟楫渉大川耒耜徂畛域<hi>悔</hi>養生務佃漁分壌别<lb/>
+動植<hi>竹</hi>隣歌答舂相作苦爰稼穡<hi>悔</hi>俾習四體勤群黎<lb/>
+無懈忒<hi>竹</hi>後世技巧繁淫竒難忖測<hi>悔</hi>桔橰轆轤作便<lb/>
+利成典式<hi>竹</hi>紛紛鑿渾沌一一騁胸臆<hi>悔</hi>能令蠢者靈<lb/>
+通者忽以塞<hi>竹</hi>即此水碓論用意略可識<hi>悔</hi>居然役造<lb/>
+化安坐無怍色<hi>竹</hi>乃知天生民若苗之有螣<hi>悔</hi>夜來山<lb/>
+雨驟䞟漲漫澤國<hi>竹</hi>沙崩岸漂沈有械施不得<hi>悔</hi>物成<lb/>
+久則毁兹理復何惑<hi>竹</hi>逸豫安可貪民勞宜率職<hi>悔</hi>
+　　　和竹翁衢州城下作<lb/>
+開府專征地孤城盜賊邊身常當矢石險豈恃山川劉<lb/>
+濞何知反睢陽竟得全白頭遺老在對客話當年<hi>甲寅乙卯</hi>
+<pb n="KR4f0044_SBCK_024-4a"/>
+<hi>之亂武定李文㐮公鎭此浙東西數郡獲金</hi>
+　　　篁歩<hi>去衢州二十里地産柑橘</hi>
+百折金川水東流下石門碓床聲不斷炭塢氣長昏小<lb/>
+屋椶櫚岸疎籬橘柚村荔支方入貢剩爾未移根<lb/>
+　　　常山山行<lb/>
+常山小城如破驛細路多嵌弹丸石一乘竹轎役兩夫<lb/>
+雜遝前行隨估客憐渠雇直止百錢爲我赤脚頳兩肩<lb/>
+我今亦復被物役何暇悲人還自憐<lb/>
+　　　和竹垞沙谿舖<lb/>
+山田早挿綠秧齊小犢新生未架犂閒背村童浮水去<lb/>
+牛欄只在岸東西<lb/>
+<pb n="KR4f0044_SBCK_024-4b"/>
+　　　龔家渡夏文愍公墓道作<lb/>
+東市朝衣血西江野哭魂巳無鄉社祭猶有墓門存亂<lb/>
+水荒阡斷悲風宰木昏鈐山籍官後得謚即君恩<lb/>
+　　　自焦石塘抵鉛山河口兩岸石山獰劣上無寸<lb/>
+　　　土草木不生作詩嘲之並邀竹垞先生同賦以<lb/>
+　　　傳好事者<lb/>
+爾雅釋山名類族紛可數土山或戴石石山或戴土草<lb/>
+木别有無無者名曰岵挾筴事岀游舊聞證新覩一山<lb/>
+一巨石突兀向江滸若被烈火焚秃鬝了無取于獸燖<lb/>
+其毛于鳥翦其羽于人爲寡髪渾沌出太古無心腹腎<lb/>
+膓無耳目肱股大疣罋盎懸醜疾籧篨俯陳根何處托<lb/>
+<pb n="KR4f0044_SBCK_024-5a"/>
+氿泉不得吐正坐山無情遂令旁少輔樵人弛負擔匠<lb/>
+氏輟斤釡塊然天地間於世爾奚補<lb/>
+　　　従河口陸行至鉛山縣三十里間山水淸佳老<lb/>
+　　　樟古桂不記其數皆千年以外樹也所至輒流<lb/>
+　　　連其下自悔舟中誚頑石之作復賦此詩邀竹<lb/>
+　　　垞再和<lb/>
+溪廽峰巒竒雲日互虧蔽兩邊盡古木曲徑入蒼翠行<lb/>
+人雜負戴偃憇隨所至如開歩障陰下可萬間庇想當<lb/>
+生材初造物本無意榮枯非分定蒙養在托地我昨嘲<lb/>
+頑山無端坐好事目前不見睫幾欲一槩視向來身未<lb/>
+經鹵莾悔輕議譬諸覘他邦不仁在髙位輙云彼無人<lb/>
+<pb n="KR4f0044_SBCK_024-5b"/>
+賢者豈終棄作詩還自哂一解前言戲<lb/>
+　　　鉛山城中有古樟三每歲四月白鷺來巢其間<lb/>
+　　　伏雛乃去亦一異也<lb/>
+恠底空城老樹梢鷺鷥引隊似蘆茭魚蝦飽噉無人問<lb/>
+生子㸔看占鵲巢<lb/>
+　　　和竹垞雨晴<lb/>
+入門雨脚垂出門雲氣遯皇天本無私邂逅適我願<lb/>
+　　　紫溪道中二首<lb/>
+去城漸逺漸靑葱畫裏谿橋曲折通無有一村無好樹<lb/>
+歇涼人在小亭中<lb/>
+壘土層層勢就低石田如罫岸如梯淸泉盡是秧針水<lb/>
+<pb n="KR4f0044_SBCK_024-6a"/>
+直到山根始作谿<lb/>
+　　　度紫谿嶺<lb/>
+渡橋正亭午白日無匿景微茫紫翠間崷崪西南頂躋<lb/>
+攀力已殚仰視猶半嶺廽風轉轆轤汲我出深井茅菴<lb/>
+冠木末快若衣振領綠樹忽交陰蒼然失人影坐來殊<lb/>
+氣候濁暑驚淸泠匆匆行役心佳處惜俄頃<lb/>
+　　　觀造竹𥿄聨句五十韻<lb/>
+信州入建州篁竹冗於篠<hi>竹</hi>居人取作𥿄用穉不用老<lb/>
+<hi>悔</hi>遑恤簫笛材緣坡一例倒<hi>竹</hi>束縳沈淸淵殺靑特存<lb/>
+縞<hi>悔</hi>五行遞相賊伐性力揉矯<hi>竹</hi>出諸鼎鑊中復受杵<lb/>
+臼擣<hi>悔</hi>不辭身糜爛素質終自保<hi>竹</hi>汲井加汰淘盈箱<lb/>
+<pb n="KR4f0044_SBCK_024-6b"/>
+費旋攪<hi>悔</hi>層層細簾揭𦦨𦦨活火<hi>竹</hi>舍粗乃得精去<lb/>
+濕忽就燥<hi>悔</hi>擘來風舒舒暴以日杲杲<hi>竹</hi>箬籠走南北<lb/>
+適用各言好<hi>悔</hi>緬維邃古初書契始倉皥<hi>竹</hi>自従史記<lb/>
+煩方䇿布豐鎬<hi>悔</hi>中經祖龍燔孰敢撲原燎<hi>竹</hi>漆簡及<lb/>
+韋編殘灰跡同掃<hi>悔</hi>當時禍得脱賴爾生不早<hi>竹</hi>漢代<lb/>
+崇師儒家各一經抱<hi>悔</hi>截緝蒲柳姿刀削詎云巧<hi>竹</hi>如<lb/>
+何剙物智乃出寺人造<hi>悔</hi>麻頭魚網布棄物收豈少<hi>竹</hi>
+後來逾爭竒新製越意表<hi>悔</hi>山苗割藤芨水澨采苔藻<lb/>
+<hi>竹</hi>桑根斧以斯𧖟繭機不絞<hi>悔</hi>澄心光緻緻鏡面波皛<lb/>
+皛<hi>竹</hi>砑宜金粉膏繪作龍鸞爪<hi>悔</hi>桃花注輕紅松花染<lb/>
+深縹<hi>竹</hi>鴉靑蜜香色一一隨浣澡<hi>悔</hi>十樣益部箋萬番<lb/>
+<pb n="KR4f0044_SBCK_024-7a"/>
+傳癖稾<hi>竹</hi>紛然輸舘閣逖矣來海島<hi>悔</hi>要爲日用需若<lb/>
+黍稷粱稻<hi>竹</hi>惜哉俗暴殄塗抹太草草<hi>悔</hi>俗詩鼃蟈鳴<lb/>
+俗書蛇蚓繞<hi>竹</hi>俗學調必俳俗文説多勦<hi>悔</hi>流傳人有<lb/>
+集刷印方未了<hi>竹</hi>積穢堆土苴餘殃毒棃棗<hi>悔</hi>或汚蝸<lb/>
+角涎或供蠧魚飽<hi>竹</hi>或爲肉馬踏或被饑鼠齩<hi>悔</hi>糊忩<lb/>
+信兒童覆瓿付翁媼<hi>竹</hi>遭逄幸不幸所繫豈纎杪<hi>悔</hi>平<lb/>
+生嗜竒古卷帙事研討<hi>竹</hi>秘笈藉爾抄籯金匪吾寶<hi>悔</hi>
+響榻溯籀斯斷碑拓洪趙<hi>竹</hi>提携白刺史著錄庶可考<lb/>
+<hi>悔</hi>由拳法失傳將樂槽苦小<hi>竹</hi>楚産肌理疎晉産膚澤<lb/>
+槁<hi>悔</hi>物情相倍蓰美惡心洞曉<hi>竹</hi>非無雲霞膩愛此霜<lb/>
+雪皎<hi>悔</hi>小叠熨帖平捆載赴逵道<hi>竹</hi>預恐壓歸裝又滋<lb/>
+<pb n="KR4f0044_SBCK_024-7b"/>
+征榷擾<hi>悔</hi>
+　　　烏石村<lb/>
+修竹連山萬萬栽斬新換葉碧如苔特留老節非無用<lb/>
+歲歲生孫作𥿄材<hi>村家造𥿄多取新竹故云</hi>
+　　　分水關<lb/>
+萬斛松風捲戍樓泉源同在此山頭忽教一垜巖墻劃<lb/>
+不許東西更合流<lb/>
+　　　崇安孔彛仲明府招飲縣齋池上分賦二首<lb/>
+南遊吾偶到北海席頻虛未敢輕修刺何當先下車客<lb/>
+來童掃徑衙罷吏抄書欲識閒官味君看淸獻渠<lb/>
+樹陰齋舫合荷氣板橋灣水檻晴初倚溪門夜不關座<lb/>
+<pb n="KR4f0044_SBCK_024-8a"/>
+中無俗客管内有名山未到聞君説如遊九曲還<hi>彛仲于座</hi>
+<hi>上極稱武<graphic n="KR0642" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0642.png" mimeType="image/png"/>之勝</hi>
+　　　和竹垞幔亭<lb/>
+幔設曾孫宴歌傳鼓笛聲神仙如可學大抵屬多情<lb/>
+　　　冲祐宮<lb/>
+一溪隨櫂轉天半削兩峯萬年宮在兩峯趾古殿入門<lb/>
+三五重長廊白日氣幽邃蔭以楓桂樟柟松不知中有<lb/>
+路但見列岫四面排髙墉不知下有谿但聞噌吰鞺鞳<lb/>
+相應如鼓鐘神仙髙居道士俗三月四月忙於農苦言<lb/>
+茶味薄不足充上供客來正炎熱亟思澆此枯渴胸頭<lb/>
+綱封褁度嶺去上品一呷霑無従明朝試扣白雲洞洞<lb/>
+<pb n="KR4f0044_SBCK_024-8b"/>
+口老僧逄不逄<hi>武<graphic n="KR0642" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0642.png" mimeType="image/png"/>茶出僧掣者其價倍於道院</hi>
+　　　宿虞道士山房<lb/>
+晚涼新浴罷古觀有餘淸一院松篁氣滿忩風雨聲擣<lb/>
+虀因藥臼暖酒就茶鐺預飾齋廚飯山遊望曉晴<lb/>
+　　　和竹垞仙蛻巖<lb/>
+生前不煉紫金丹身後何須白玉棺巳向虛巖委枯骨<lb/>
+癡兒尚掃漢家壇<lb/>
+　　　虹橋板歌<hi>板爲崇安潘秀才在東所贈</hi>
+潘生贈我虹橋板云此購得従仙山幔亭宴罷橋忽斷<lb/>
+此木庋在萬仭之孱顔蒼鷹健鶻對對巢不得但見成<lb/>
+群接臂呌跳猿猴㹪黃冠白足力難致間岀<graphic n="KR0915" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0915.png" mimeType="image/png"/>者相欺<lb/>
+<pb n="KR4f0044_SBCK_024-9a"/>
+謾有時晦㝠晝風雨神物欲降天爲慳前者偶經此巖<lb/>
+下巖前白浪吞船豩忽驚片板半空落有若胎禽<graphic n="KR1089" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1089.png" mimeType="image/png"/>毳<lb/>
+飛輕翾主人大咲童僕喜謂獲至寶非空還已令巧匠<lb/>
+刻爲佩何異袖鞭使物駈妖姦知君好竒特分贈徑尺<lb/>
+未許酬千鍰我時聞斯語未敢相譏訕今晨入武<graphic n="KR0642" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0642.png" mimeType="image/png"/>好<lb/>
+事搜險艱生爲指其處乃在一曲二曲三曲灣初疑棧<lb/>
+道上露岀舩尾彎復如鳥鼠穴竹箭亂挿同榛菅神輸<lb/>
+鬼運義奚取徑路斷絶誰躋攀忽憶少年日南走五溪<lb/>
+窮百蠻蠻人寄命巖洞裏多搆柴栅臨崢潺今之所見<lb/>
+正此類亦如秦客避亂來其間不然飈輪雲馭本飛渡<lb/>
+豈有刳木留塵寰摩挲重是千歲物肌理駁蝕生香斑<lb/>
+<pb n="KR4f0044_SBCK_024-9b"/>
+携歸壓書儘有用何必新竒瓌詭驚愚頑<lb/>
+　　　和竹垞小九曲石壁是唐許碏題詩處故名題<lb/>
+　　　詩巖<hi>附錄碏詩閬苑花前是醉鄉臽翻王母紫霞觴群仙拍手嫌輕薄謫向人間作酒狂</hi>
+石上三生事渺茫題詩重過苾蒭房此中大好安茶竈<lb/>
+何苦人間作酒狂<lb/>
+　　　和竹垞御茶園歌<lb/>
+宋茶貴建産上者北苑次壑源研膏京挺<hi>南唐貢茶名</hi>製一<lb/>
+變爭新鬭異凡幾番白龍之團靑鳯髓輦載入洛重馬<lb/>
+奔武<graphic n="KR0642" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0642.png" mimeType="image/png"/>粟粒芽其初植未䌓何人著錄始經進前有丁<lb/>
+謂後熊蕃君謨士人亦爲此餘子碌碌安足論宣和以<lb/>
+來雖逓驛塲未官設民不煩元人專利及瑣細髙興父<lb/>
+<pb n="KR4f0044_SBCK_024-10a"/>
+子㠻寵恩大德三年歲已亥突於此地開茶園中連房<lb/>
+廊三十舍繚垣南北拓兩門先春次春徧采摘一火二<lb/>
+火長溫黁緘題歲額五千餅雞狗竄盡山邊村携來詐<lb/>
+馬筵和入潼酪供鯨吞豈知靈苗有眞味石銚合煮靑<lb/>
+松根爾來歷年巳四百御園久廢名猶存筠籃四月走<lb/>
+商販茶户幾姓傳兒孫我思蠙魚橘柚任土貢微物亦<lb/>
+可充天閽朝廷玉食自不乏何用置局灾黎元追思興<lb/>
+也實禍首幸保要領歸九原山靈曷不請於帝按女靑<lb/>
+律笞其魂傳語後來者毋以口腹媚至尊<lb/>
+　　　仙掌峰瀑布<lb/>
+接笋仙掌峰入望初聨綿兩崖谺然豁一瀑垂蜿蜒不<lb/>
+<pb n="KR4f0044_SBCK_024-10b"/>
+従仙翁指間岀却穿左脅下赴六曲爲奔川行人衣沾<lb/>
+芒屩滑拄杖直上孤雲巓﨑嶇丘前石徑轉胡麻小澗<lb/>
+當橋邊㝷源初自稻田發三里五里斷復連淺處生菖<lb/>
+蒲深處得種菱與蓮千年老蟾蜍<graphic n="KR1057" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1057.png" mimeType="image/png"/>沙亦頑仙仰天噏<lb/>
+其舌噴水一竅淸而圎始知山前雷轟礟激千丈瀑布<lb/>
+水即是山背㳙㳙泉匏樽便向道人借我嬾欲住淸涼<lb/>
+天<lb/>
+　　　天遊觀萬峯亭<lb/>
+占地旣已髙尤難在扼要前臨殊陡絶旁睨轉孤峭群<lb/>
+雄奉一尊奔赴不待召來時記目擊歷歷本形肖羊群<lb/>
+呼可起<hi>仙羊石</hi>馬首囬若掉<hi>馬頭/巖</hi>象鼻垂彎環<hi>象鼻巖</hi>獅頭<lb/>
+<pb n="KR4f0044_SBCK_024-11a"/>
+仰軒趒<hi>獅子巖</hi>鼓鐘應考戞<hi>鼓子峰/鐘模石</hi>龍虎答吟嘯<hi>臥龍潭虎嘯巖</hi>
+兠鍪勇士冠<hi>兠鍪峰</hi>粧鏡神女照<hi>粧鏡臺/玉女峰</hi>石笋瘦而長<hi>接笋</hi>
+<hi>峰</hi>蓮花姢且妙<hi>蓮花峰</hi>到亭悉殊狀變幻非意料初髙後<lb/>
+反匿曩隱今忽跳投空翻白鴉削背掠蒼鷂烟生松外<lb/>
+村竹亞崦中廟淸溪截羅帶已斷復縈繞澄泓鷗鷺池<lb/>
+中有一翁釣流觀飽創獲俯仰恣吟剽翻嗟神靈區僻<lb/>
+左落逺徼竒峰三十六名可配嵩少奈何杜韓輩足未<lb/>
+渉閩嶠山靈秘莫宣自古閉　窔我來及新晴朗日相<lb/>
+照耀終疑雲霧窟滃渤尚埋竅幸賴此孤亭于焉蹋<graphic n="KR1626" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1626.png" mimeType="image/png"/>
+<graphic n="KR1700" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1700.png" mimeType="image/png"/>重遊果何時臨去屢囬眺<lb/>
+　　　坐竹<graphic n="KR1097" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1097.png" mimeType="image/png"/>入九曲聨句<lb/>
+<pb n="KR4f0044_SBCK_024-11b"/>
+連峰六六收蒼霾<hi>悔</hi>雨餘滑澾碎石街<hi>竹</hi>挈我栗杖㯶<lb/>
+毛鞵<hi>悔</hi>蘭湯渡口上竹<graphic n="KR1097" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1097.png" mimeType="image/png"/>
+                    <hi>竹</hi>篙工初指一曲涯<hi>悔</hi>姓名<lb/>
+幾輩爭磨崕<hi>竹</hi>娉婷玉女峰最佳<hi>悔</hi>野花簇髻松揺釵<lb/>
+<hi>竹</hi>當年武<graphic n="KR0642" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0642.png" mimeType="image/png"/>集神媧<hi>悔</hi>歌絃鼓板金管龤<hi>竹</hi>髙張雅奏<lb/>
+無淫哇<hi>悔</hi>子禽小蛾定爾儕<hi>竹</hi>群仙一散後會乖<hi>悔</hi>黃<lb/>
+心老木委蜕薶<hi>竹</hi>爾獨對鏡留形骸<hi>悔</hi>千㝷鐵障鎔頑<lb/>
+鍇<hi>竹</hi>大藏小藏肩背<graphic n="KR3446" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3446.png" mimeType="image/png"/>
+                    <hi>悔</hi>山魈獨脚帝所差<hi>竹</hi>洞門石<lb/>
+扇呀然䦱<hi>悔</hi>壑舟力負何劤㔞<hi>竹</hi>其中瑰木類積稭<hi>悔</hi>
+又類羽鏃抽鞞靫<hi>竹</hi>水光汃汃聲湝湝<hi>悔</hi>㝠㝠微徑不<lb/>
+可階<hi>竹</hi>欲往金井迷鬼艾<hi>悔</hi>深潭龍臥波溛瀤<hi>竹</hi>誰歟<lb/>
+釣者貪鮞鮭<hi>悔</hi>茶園新芽岀舊荄<hi>竹</hi>僧籃道笈采摘皆<lb/>
+<pb n="KR4f0044_SBCK_024-12a"/>
+<pb n="KR4f0044_SBCK_024-13a"/>
+好詩猶展畫圖中後來結搆原因此佳處溪山遂屬公<lb/>
+欲買麻沙村畔屋餘年拚作蠧書蟲<hi>唐末侍御史黃子稜自洛陽寓居建</hi>
+<hi>陽東觀山築亭以望其父之墓曰望考亭因以名里朱文公之父韋齋先生愛建陽山水未及卜居公築考亭</hi>
+<hi>以承先志正取黄侍御之意後人專以考亭屬文公侍御之名湮矣人過小橋頻指點全家都在畫圗間侍御</hi>
+<hi>詩中句</hi>
+　　　樟灘<lb/>
+小縣晨發舩建溪展平綠前行三四里跳沫粗如鵠厥<lb/>
+名曰樟灘畜害自古酷假令勢下趨直瀉無廽躅石梁<lb/>
+㐲水底未免防坎毒奈何三折形故作巴字曲湍奔方<lb/>
+有激石起陡被束一芥一針投中間不容粟兩旁劇刀<lb/>
+劔獰惡伺失足篙工善駕馭肯與怒機觸馴彼豶豕牙<lb/>
+<pb n="KR4f0044_SBCK_024-13b"/>
+服我童牛牿終焉脱於險初若順所欲方悟不擾心可<lb/>
+以遠蹶促側聞前灘多恠石難悉錄吾生不有命恐懼<lb/>
+隨羸僕<lb/>
+　　　雨中下黯淡灘<lb/>
+未到先愁出險難忽驚片葉落奔湍星流電轉目未瞬<lb/>
+一道白光飛過灘<lb/>
+　　　延平晚泊<lb/>
+小雨㝠𪷟劔浦西浮槎壓水女垣低人家多傍翠巖住<lb/>
+榕葉滿城山鷓啼<lb/>
+　　　水口<lb/>
+雨餘忽飄雨數點山外更添山幾層六百里灘多過盡<lb/>
+<pb n="KR4f0044_SBCK_024-14a"/>
+也如出峽到夷陵<lb/>
+　　　小箬驛榕樹<lb/>
+古驛千年樹蟠根積水涯細筋堅作骨新葉嫩如花綠<lb/>
+處陰三畝枯邊畫一椏散材眞自幸剪伐幾曾加<lb/>
+　　　竹﨑關<lb/>
+佛桑花根犬吠龍眼枝頭鳥鳴漸覺山平水逺郵籖報<lb/>
+近榕城<lb/>
+　　　贈汪悔齋方伯<lb/>
+國家有異數畸人出當之巍巍宏博科鵷鳯集一池公<lb/>
+來承　主眷初亦由文詞繼乃悉公才㧞萃超常資我<lb/>
+朝拓遐陬南不盡島夷勿輕發介使大體存覊縻曠典<lb/>
+<pb n="KR4f0044_SBCK_024-14b"/>
+偶一修擇賢誠足毗公時膺特簡啣　命東南馳粘天<lb/>
+駕波濤帖首馴蛟螭平生抱忠信渉足無嶮巇肅將明<lb/>
+明威愼重瞻丰儀心若誕文教要令崇先師鰲背屹宮<lb/>
+墻作記刋諸碑餘事當潤色問俗陳風詩手持王會圗<lb/>
+歸獻白玉墀　至尊動顔色前席爲頻移迄今奉使錄<lb/>
+燦若星日垂自兹益嚮用歷試無不宜試公以吏治出<lb/>
+領嵩洛伊政成多異蹟獨創非前規試公以擊斷明决<lb/>
+仁且慈八閩百萬户立起殘瘡痍試公以大藩旬宣來<lb/>
+保釐民勞旣已墍國計終無虧凡此十年中官塗自逶<lb/>
+迤旁無汲引力皆受　特達知煌煌名書屏屢被褒美<lb/>
+辭行省尚見屈㸔人換旌麾賤子田間來於公少恩私<lb/>
+<pb n="KR4f0044_SBCK_024-15a"/>
+側聞道路口籍籍皆如斯當今梁棟材大器非公誰公<lb/>
+昔守洛陽舍弟久追隨猥蒙齒頰及佳句時或披堦前<lb/>
+尺寸地投謁獨恠遲男兒屬有願會合寧無期携我作<lb/>
+遠遊竹垞眞好竒武<graphic n="KR0642" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0642.png" mimeType="image/png"/>昔未到昨始慰所思此來復識<lb/>
+公又得啖茘支何期寂寞遊三樂併一時篇終述已意<lb/>
+公幸勿見嗤<lb/>
+敬業堂詩集卷二十四<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

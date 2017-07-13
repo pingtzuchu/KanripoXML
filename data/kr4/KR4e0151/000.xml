@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>山齋文集</head>
+    <p>
+<pb n="KR4e0151_WYG_000-1a"/>
+欽定四庫全書　　　　　集部六<lb/>
+　山齋文集　　　　　　　别集類五<hi>明</hi>
+　　　提要<lb/>
+　　　　<hi>臣</hi>等謹案山齋文集二十四巻明鄭岳撰岳字<lb/>
+　　　　汝華號山齋莆田人𢎞治癸丑進士官至兵<lb/>
+　　　　部右侍郎岳素著風節官江西按察使時首<lb/>
+　　　　折宸濠逆謀反為所誣搆逮問及官兵部復<lb/>
+　　　　以議興獻祔廟忤㫖力請致仕後議禮諸臣<lb/>
+<pb n="KR4e0151_WYG_000-1b"/>
+　　　　皆䝉追恤賜諡而獨不及岳盖孤介寡援其<lb/>
+　　　　天性然也柯維騏續莆陽志稱其所作詩文<lb/>
+　　　　俱暢達藴藉而謝山子亦稱其詩深於諷諭<lb/>
+　　　　之體所著有䝉難錄西行紀南還錄山齋吟<lb/>
+　　　　稿漫稿净稿續稿奏議因雕本燹燬所存不<lb/>
+　　　　過數種是集乃萬厯間其曽孫炫蒐輯重鋟<lb/>
+　　　　詩七巻文共十七巻謂較舊集十未能存二<lb/>
+　　　　三今觀所作當信陽北地初起之時文格未<lb/>
+<pb n="KR4e0151_WYG_000-2a"/>
+　　　　變猶恪守茶陵之矩度雖條暢有餘竒麗不<lb/>
+　　　　足而質實平易不染塗飾鉤棘之偽體固宜<lb/>
+　　　　以其人存之者矣乾隆四十五年二月恭校<lb/>
+　　　　上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

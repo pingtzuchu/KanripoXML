@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>武編前集</head>
+    <p>
+<pb n="KR3b0016_WYG_000-1a"/>
+欽定四庫全書　　　　　子部二<lb/>
+　武編前集　　　　　　　兵家類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案武編十卷明唐順之編順之有右<lb/>
+　　　　編已著録是書皆論用兵指要分前後二集<lb/>
+　　　　前集六卷自將士行陣至器用火藥軍需襍<lb/>
+　　　　術凡五十四門後集徴述古事自料敵撫士<lb/>
+　　　　至堅壁摧標凡九十七門體例畧如武經總<lb/>
+<pb n="KR3b0016_WYG_000-1b"/>
+　　　　要所録前人舊説自孫呉穰苴李筌許洞諸<lb/>
+　　　　兵家言及唐宋以來名臣奏議無不摭集史<lb/>
+　　　　稱順之於學無所不窺凡兵法弧矢壬竒禽<lb/>
+　　　　乙皆能究極原委故言之具有本末其應詔<lb/>
+　　　　起為淮揚巡撫剿倭也負其宿望虚憍恃氣<lb/>
+　　　　一戰而幾為宼困賴胡宗憲料其必敗伏兵<lb/>
+　　　　豫救得免殆為宗憲玩諸股掌之上然其後<lb/>
+　　　　部署既定亦頗能轉戰蹙賊捍禦得宜著有<lb/>
+<pb n="KR3b0016_WYG_000-2a"/>
+　　　　成效究非房琯劉秩迂繆僨轅者可比是編<lb/>
+　　　　雖紙上之談亦多由閱歴而得固未可槩以<lb/>
+　　　　書生之見目之矣乾隆四十六年十月恭校<lb/>
+　　　　上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

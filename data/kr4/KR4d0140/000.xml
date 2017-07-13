@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>提要<lb/>
+                </head>
+    <p>
+<pb n="KR4d0140_WYG_000-1a"/>
+欽定四庫全書　　　　　集部四<lb/>
+　提要<lb/>
+　　横塘集二十巻　　　　别集類三<hi>宋</hi>
+　　　　臣等謹案横塘集二十巻宋許景衡撰景衡<lb/>
+　　　　字少伊温州瑞安人登元祐九年進士宣和<lb/>
+　　　　中召為監察御史遷殿中侍御史欽宗即位<lb/>
+　　　　以左正言召累遷中書舍人高宗朝至尚書<lb/>
+　　　　右丞罷為資政殿大學士提舉洞霄宫卒諡<lb/>
+<pb n="KR4d0140_WYG_000-1b"/>
+　　　　忠簡事蹟具宋史本傳景衡雖源出洛學而<lb/>
+　　　　立身剛直不與賈易諸人囂争門户其文章<lb/>
+　　　　亦坦白光明粹然一出於正在徽宗時即極<lb/>
+　　　　言財力匱乏請罷花石綱運為王黼所中而<lb/>
+　　　　去及從高宗在揚州又與黄潜善不協借渡<lb/>
+　　　　江之議斥逐而死雖阨於權倖屢起屢躓而<lb/>
+　　　　終始不撓今集中所存奏議如論童貫悞國<lb/>
+　　　　辨宗澤無過論王安中不當自便乞寛卹東南<lb/>
+<pb n="KR4d0140_WYG_000-2a"/>
+　　　　諸劄子皆誠意懇摯剴切詳明其他亦多闗<lb/>
+　　　　係家國大計雖當時不能盡用其說而史稱<lb/>
+　　　　既没之後高宗每念其遇事敢言追思不置<lb/>
+　　　　亦足見其忠愛之忱有以感孚於平素也至<lb/>
+　　　　其詩篇乃吐言清拔不露伉厲之氣如玉樽<lb/>
+　　　　浮蟻一様白青眼與山相對横諸句殊饒風<lb/>
+　　　　調胡仔漁隠叢話謂冦凖詩含思凄婉富于<lb/>
+　　　　言情殊不類其為人今景衡亦然盖詩本性<lb/>
+<pb n="KR4d0140_WYG_000-2b"/>
+　　　　情義存比興固不必定為濓洛風雅之𣲖而<lb/>
+　　　　後謂之正人也宋史藝文志載横塘集三十<lb/>
+　　　　巻書録解題亦同自明以來傳本乆絶今從<lb/>
+　　　　永樂大典中採掇裒綴以次排纂為二十巻<lb/>
+　　　　朱子語録嘗稱陳少陽事其詳見許右丞哀<lb/>
+　　　　詞中今已不覩是篇則鉅製鴻裁佚者不少<lb/>
+　　　　其幸而存者彌宜寳貴矣乾隆四十六年二<lb/>
+　　　　月恭校上<lb/>
+<pb n="KR4d0140_WYG_000-3a"/>
+　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

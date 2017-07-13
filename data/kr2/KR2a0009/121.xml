@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2a0009_WYG_121-1a"/>
+自序　　　　　　　　　　宋宣城太守范曄<lb/>
+吾少嬾學問晩成人年三十許政始有向耳自爾以來<lb/>
+轉為心化推老將至者亦當未已也往往有微解言乃<lb/>
+不能自盡為性不尋注書心氣惡小苦思便憤悶口機<lb/>
+又不調利以此無談功至於所通解處皆自得之於胷<lb/>
+懐耳文章轉進但才少思難所以毎於操筆其所成篇<lb/>
+殆無全稱者常耻作文士文患其事盡於形情急於藻<lb/>
+義牽其旨韻移其意雖時有能者大較多不免此累政<lb/>
+<pb n="KR2a0009_WYG_121-1b"/>
+可類工巧圖繢竟無得也常謂情志所託故當以意為<lb/>
+主以文傳意以意為主則其旨必見以文傳意則其詞<lb/>
+不流然後抽其芬芳振其金石耳此中情性旨趣千條<lb/>
+百品屈曲有成理自謂頗識其數嘗為人言多不能賞<lb/>
+意或異故也性别宫商識清濁斯自然也觀古今文人<lb/>
+多不全了此處縱有㑹此者不必從根本中來言之皆<lb/>
+有實證非為空談年少中謝荘最有其分手筆差易文<lb/>
+不拘韻故也吾思乃無定方特能濟難適輕重所禀之<lb/>
+<pb n="KR2a0009_WYG_121-2a"/>
+分猶當未盡但多公家之言少於事外逺致以此為恨<lb/>
+亦由無意於文名故也本未關史書政恒覺其不可解<lb/>
+耳既造後漢轉得統緒詳觀古今著述及評論殆少可<lb/>
+意者班氏最有髙名既任情無例不可甲乙辨後賛於<lb/>
+理近無所得唯志可推耳博贍不可及之整理未必愧<lb/>
+也吾雜傳論皆有精意深旨既有裁味故約其詞句至<lb/>
+於循吏以下及六夷諸序論筆勢縱放實天下之竒作<lb/>
+其中合者往往不減過秦篇嘗共比方班氏所作非但<lb/>
+<pb n="KR2a0009_WYG_121-2b"/>
+不愧之而已欲徧作諸志前漢所有者悉令備雖事不<lb/>
+必多且使見文得盡又欲因事就卷内發論以正一代<lb/>
+得失意復未果賛自是吾文之傑思殆無一字空設竒<lb/>
+變不窮同含異體乃自不知所以稱之此書行故應有<lb/>
+賞音者紀傳例為舉其大略耳諸細意甚多自古體大<lb/>
+而思精未有此也恐世人不能盡之多貴古賤今所以<lb/>
+稱情狂言耳吾於音樂聽功不及自揮但所精非雅聲<lb/>
+為可恨然至於一絶處亦復何異邪其中體趣言之不<lb/>
+<pb n="KR2a0009_WYG_121-3a"/>
+盡弦外之意虛響之音不知所從而來雖少許處而旨<lb/>
+態無極亦嘗以授人士庶中未有一毫似者此永不傳<lb/>
+矣吾書雖小小有意筆勢不快餘竟不成就每愧此名<lb/>
+<hi>沈約云曄自序並實故存之</hi>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

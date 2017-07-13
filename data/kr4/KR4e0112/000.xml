@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>彭惠安集</head>
+    <p>
+<pb n="KR4e0112_WYG_000-1a"/>
+欽定四庫全書　　　　　集部六<lb/>
+　彭惠安集　　　　　　　别集類五<hi>明</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案彭惠安集十巻附録一巻明彭韶<lb/>
+　　　　撰韶有政訓已著録韶正色立朝巋然耆舊<lb/>
+　　　　其文雖沿臺閣之體而醇深雅正具有根柢<lb/>
+　　　　不同於神瘠而貎腴初名従吾滯稿嘉靖中<lb/>
+　　　　重刻乃改題此名然據鄭岳原序已有遺稿<lb/>
+<pb n="KR4e0112_WYG_000-1b"/>
+　　　　散佚之語則似已非其舊本故所收詩僅十<lb/>
+　　　　餘首如明詩綜載其臨江詞一篇指斥東里<lb/>
+　　　　慷慨激烈足起頑懦而此集不載又莆風清<lb/>
+　　　　籟集載其詩十五首亦半従他書録入是掇<lb/>
+　　　　拾散亡尚多未盡特賴此一編幸不至於全<lb/>
+　　　　佚是則校刋者之功耳韶之風節雖不藉文<lb/>
+　　　　章以傳然文章亦足以不朽至其廵視浙江<lb/>
+　　　　兼理鹽法憐竈户之苦繪八圖上進各系以<lb/>
+<pb n="KR4e0112_WYG_000-2a"/>
+　　　　　詩具有元結舂陵行鄭侠流民圖之意又不<lb/>
+　　　　　僅以詞采工拙論矣乾隆四十二年十月恭<lb/>
+　　　　　校上<lb/>
+　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

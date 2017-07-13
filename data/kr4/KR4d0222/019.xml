@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>竹洲集巻十九</head>
+    <p>
+<pb n="KR4d0222_WYG_019-1a"/>
+欽定四庫全書<lb/>
+　竹洲集巻十九　　　　　　宋　吳儆　撰<lb/>
+　　絶句<lb/>
+　　　番陽道中<lb/>
+畵楯朱甍綠靄中華顛翠岫倚輕風行人腸斷古鳥處<lb/>
+猶在雲山東復東<lb/>
+　　　寓郡城客舍熱不可寐與程彦舉坐語逹旦<lb/>
+淡月微雲對倚樓無聲河漢自西流髙城忽起梅花弄<lb/>
+<pb n="KR4d0222_WYG_019-1b"/>
+散作晴空萬里秋<lb/>
+　　　壬午二月桃方盛開雪積其上光輝紅潤不可<lb/>
+　　　形状以二詩紀之<lb/>
+夭桃先已醉春風青女猶爭造化功應與騷人嫌太赤<lb/>
+故将鉛粉注深紅<lb/>
+粲粲乘鸞萬玉妃肯将紅豔鬬光輝只應侍宴瑶池罷<lb/>
+猶帯天邉醉色歸<lb/>
+　　　偶成<lb/>
+<pb n="KR4d0222_WYG_019-2a"/>
+晩来一雨破炎蒸蕉葉葵花照眼明稍與燈花尋舊約<lb/>
+却嫌庭樹作秋聲<lb/>
+　　　趙同叔開軒植竹以自娯樂諸公雖為賦詩而<lb/>
+　　　未嘗有見之者某不日北歸同叔亦為楚令尹<lb/>
+　　　矣詩以餽之<lb/>
+手種琅玕翠竹行幽窻一見自心凉君家有此揚州鶴<lb/>
+倦客無由對一觴<lb/>
+夜来新月已如霜倚玉縈風别是香說與東君湏早計<lb/>
+<pb n="KR4d0222_WYG_019-2b"/>
+扁舟早晩下瀟湘<lb/>
+　　　寓壺源僧舍三絶<lb/>
+風簷淅淅褪新青書展殘燈翳復明讀罷離騷還獨坐<lb/>
+此時此夜若為情<lb/>
+悶来掩巻已三更風露涓涓月滿庭閒撲流螢衝暗樹<lb/>
+危梢㸃㸃堕寒星<lb/>
+歸来閉户還髙枕窻隙微通月影斜風急忽驚烏鵲起<lb/>
+空堦蔌蔌堕松花<lb/>
+<pb n="KR4d0222_WYG_019-3a"/>
+　　　簟送人詩代簡二首<lb/>
+一幅氷紈織翠筠風㴠秋水碧鱗鱗北窻髙卧正須此<lb/>
+捲似閑曹吏隠人<lb/>
+幽窻相對小匡牀藍淺紗輕水麝香退食歸来髙枕處<lb/>
+滿林風雨夢瀟湘<lb/>
+　　　題月巖<lb/>
+題詩山寺不勝多人力爭如造化何安得短<hi>闕</hi>巖下瀬<lb/>
+長看清影照寒波<lb/>
+<pb n="KR4d0222_WYG_019-3b"/>
+　　　答范石湖牡丹詩<hi>范詩有風日等閒猶不到外邉蜂蝶莫紛紛之句</hi>
+滿城桃李已塵埃麗日稠紅次第開竹裏柴扉掩春晝<lb/>
+坐看蜂蝶去還来<lb/>
+　　　以烏紗巾餉客<lb/>
+落托烏紗墊角巾已将清泚滌京塵請君便漉淵明酒<lb/>
+醉後從他雪滿簮<lb/>
+　　　題劉氏幽香亭<hi>壬寅十一月下潮立</hi>
+雪後園林無限好松間風月有餘清見他桃李動歸興<lb/>
+<pb n="KR4d0222_WYG_019-4a"/>
+想見梅花不勝情<lb/>
+　　　和張幹三公亭<hi>此亭廢已久但有舊趾存</hi>
+三公偉績絶前塵千古凌煙向月明剪盡甘棠殺風景<lb/>
+遺民猶記舊亭名<lb/>
+　　　說謎三絶<lb/>
+　　　　巳卯之冬月餘端坐無以度日因聚諸童幼<lb/>
+　　　　極其歡笑時與相說謎雖鄙俚不稽至於可<lb/>
+　　　　笑輙為絕倒因戯為數語示之<lb/>
+<pb n="KR4d0222_WYG_019-4b"/>
+滿身珠翠間花鈿舞到梁州最可憐一捻宫腰如束素<lb/>
+清風明月畫堂前<hi>簾</hi>
+楚楚衣裳兩頰紅冠兒斜墜脚兒弓夜來塞上無消息<lb/>
+玉筯偷彈對曉風<hi>雞</hi>
+奔波来往一生忙方寸包藏不可量用盡心機還骨立<lb/>
+為他人作嫁衣裳<hi>梭</hi>
+　<lb/>
+　竹洲集巻十九<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4c0092_SBCK_000-1a"/>
+玉川子詩集目録<lb/>
+　卷第一　古今詩<lb/>
+　　　月蝕詩　哭玉碑子　觀放魚歌　示添丁<lb/>
+　　　寄男抱孫　自詠三首　送王儲詹亊西逰献兵書<lb/>
+　　　送卲兵曹㱕江南　寄外兄魏澈　喜逄鄭三逰山<lb/>
+　　　卓女怨　守歳二首　新月　解悶<lb/>
+　　　楊子津　人日立春　送尉遲羽之㱕宣州<lb/>
+　　　憶酒寄劉侍郎　白鷺鷥　風中琴<lb/>
+　　　感秋别怨　新蝉　題禇遂良孫庭竹<lb/>
+　　　訪含曦上人　含曦酬　客淮南病<lb/>
+　　　村酔　蕭宅二三子贈荅詩二十首有序<lb/>
+　卷第二　古今骵　雜著<lb/>
+<pb n="KR4c0092_SBCK_000-1b"/>
+<pb n="KR4c0092_SBCK_000-1b"/>
+　走茟追王内丘　思君吟寄　生<lb/>
+　将歸山招冰僧　酬願公雪中見寄<lb/>
+　苦雪寄退之　寄贈含曦上人<lb/>
+　聽蕭君姫人彈琴　蜻蜓歌　出山作<lb/>
+　寄崔栁州　贈稚禅師　送好約法師歸江南<lb/>
+　蕭二十三赴歙州婚期二首　掩關銘<lb/>
+<pb n="KR4c0092_SBCK_000-2a"/>
+<pb n="KR4c0092_SBCK_000-1a"/>
+玉川子詩外集序<lb/>
+唐玉川先生盧仝履道守正之莭見于昌黎退之之文當時洛<lb/>
+中才名碩徳者如温石二處士咸應辟署吏于諸侯惟先生自<lb/>
+頋俯仰不能與丗合築環堵以居休焉遂志而浩浩自娱觀其<lb/>
+出處之迹若人㢤安可輕量矣又傳先生春秋之學舉丗莫淂<lb/>
+見其書故人不淂窺其涯涘矣但歌詩百萹<graphic n="KR0866" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0866.png" mimeType="image/png"/>板已行于丗其<lb/>
+為体峭挺嚴放脱略拘維特立群品之外要夫指亊措意于救<lb/>
+物之為忠憤切深者矣常爱其詩恨不淂多見其篇近友人李<lb/>
+生于道士崔懐玉處又淂集外一十五首余甚喜之以編附舊<lb/>
+夲且夫人之愚哲存乎性道之用舎係乎時倘氣類孚應上下<lb/>
+感㑹則見諸行亊于空言安足貴尚㦲惜其失志窮時用是欲<lb/>
+傳其言耳謹序其槩以貽于好亊者云時慶暦八年仲冬望日<lb/>
+<pb n="KR4c0092_SBCK_000-1b"/>
+昌黎韓盈謙甫序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

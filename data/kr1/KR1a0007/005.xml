@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>周易經傳原目</head> <lb/>
+    <p>
+<pb n="1a"/>
+欽定四庫全書<lb/>
+　周易經傳原目<lb/>
+　　周易上經乾傳第一音義<hi>周代名也周至也遍也備也今名書義取周普</hi>
+　　<hi>易盈隻反此經名也虞翻注參同契云字從日下月上者對下立名經者常也法也徑也由也乾卦</hi>
+　　<hi>名𫝊直戀反以𫝊述為義謂夫子十翼也解見發題第亦作弟</hi>王弼注音義<hi>本亦作王</hi>
+　　<hi>輔嗣注音張具反今本或無注字師說無者非</hi>
+　　周易上經泰傳第二<lb/>
+　　周易上經噬嗑傳第三<lb/>
+<pb n="1b"/>
+　　周易下經咸傳第四<lb/>
+　　周易下經夬傳第五<lb/>
+　　周易下經豐傳第六<lb/>
+　　周易繫辭上第七音義<hi>繫徐胡計反本系也又音係續也字從<graphic n="KR0795" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0795.png" mimeType="image/png"/>若直作<graphic n="KR0795" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0795.png" mimeType="image/png"/>
+                    </hi>
+　　<hi>下系者音口奚反非辭本亦作<graphic n="KR3018" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3018.png" mimeType="image/png"/>依字應作詞說也說文云詞者意内而言外也辭不受也受辛者</hi>
+　　<hi>辤辤籀文辭字也本亦作繫辭上王肅本皆作繫辭上傳訖於雜卦皆有傳字本亦有無上字者</hi>
+　　韓伯注音義<hi>本亦作韓康伯注案王輔嗣止注大經講者相承用韓注繫辭以下續之</hi>
+　　周易繫辭下第八<lb/>
+<pb n="2a"/>
+　　周易說卦第九疏<hi>正義曰先儒以孔子十翼之次乾坤丈言在二繫之後說卦之</hi>
+　　<hi>前以彖象附上下二經為六卷則上繫第七下繫第八文言第九説卦第十輔嗣之文言分附乾坤</hi>
+　　<hi>二卦故説卦為第九</hi>
+　　周易序卦第十<lb/>
+　　周易雜卦第十一音義<hi>韓云雜揉衆卦也孟云雜亂也</hi>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　周易經傳原目<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

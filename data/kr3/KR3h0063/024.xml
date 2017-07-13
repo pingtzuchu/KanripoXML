@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3h0063_WYG_024-1a"/>
+欽定四庫全書<lb/>
+石渠寳笈卷十一目録<lb/>
+　　　貯<lb/>
+　　養心殿<lb/>
+　　　列朝人<lb/>
+　　書冊次等<lb/>
+　　　唐孫䖍禮書孝經<lb/>
+　　　宋蔡蘇黄米四家書<lb/>
+<pb n="KR3h0063_WYG_024-1b"/>
+　　　宋黄庭堅書王羲之論書<lb/>
+　　　宋黄庭堅書興慶侍宴詩<lb/>
+　　　元趙孟頫書孝經<lb/>
+　　　元趙孟頫書孝經<lb/>
+　　　元趙孟頫尺牘詩翰<lb/>
+　　　元趙孟頫書雪賦<lb/>
+　　　元趙孟頫書蘇軾稼説<lb/>
+　　　元趙孟頫書鏡智禪師銘<lb/>
+<pb n="KR3h0063_WYG_024-2a"/>
+　　　元趙孟頫尺牘<lb/>
+　　　明文徴明自書詩帖<lb/>
+　　　明文彭書千文<lb/>
+　　　明王寵摹東方朔像贊<lb/>
+　　　明劉麟詩翰<lb/>
+　　　明王問詩帖<lb/>
+　　　明許初竹岡阡表<lb/>
+　　　明邱坦書陳情表<lb/>
+<pb n="KR3h0063_WYG_024-2b"/>
+　　　明董其昌臨争坐位帖<lb/>
+　　　明董其昌臨聖教序<lb/>
+　　　明董其昌書座右銘<lb/>
+　　　明董其昌書宋詞三首<lb/>
+　　　明董其昌書天馬賦<lb/>
+　　　明董其昌襍書<lb/>
+　　　明陳元素牋牘<lb/>
+　　　明人牋牘<lb/>
+<pb n="KR3h0063_WYG_024-3a"/>
+　　　明王元懋節書世説新語<lb/>
+　　　明人便面書<lb/>
+　　　明人書扇<lb/>
+　　　明人扇頭書<lb/>
+　　　無名氏書畫<lb/>
+　　書冊次等<lb/>
+　　　宋人摹褚<lb/>
+　　國朝人書畫目錄<lb/>
+<pb n="KR3h0063_WYG_024-3b"/>
+　　書冊次等<lb/>
+　　　王鐸書集句<lb/>
+　　　陳奕禧書漢唐碑考<lb/>
+　　　張照襍書<lb/>
+　　　戴臨襍書<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

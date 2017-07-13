@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>提要<lb/>
+                </head>
+    <p>
+<pb n="KR4d0461_WYG_000-1a"/>
+欽定四庫全書　　　　　集部五<lb/>
+　提要<lb/>
+　　畏齋集六卷　　　　　别集類四<hi>元</hi>
+　　　　<hi>臣</hi>等謹案畏齋集六卷元程端禮撰端禮有<lb/>
+　　　　讀書分年日程已著録其詩文名畏齋集見<lb/>
+　　　　于黃溍所作墓誌而不著卷數諸家書目亦<lb/>
+　　　　多不載故世久無傳惟散見永樂大典中者<lb/>
+　　　　尚得詩文百餘萹謹依類編次釐為六卷其<lb/>
+<pb n="KR4d0461_WYG_000-1b"/>
+　　　　學以朱子為宗故作孫叔㑹詩集序云詩至<lb/>
+　　　　七言而衰律而壞詞而絶自朱子出而古詩<lb/>
+　　　　遺意復見蓋朱子之學不在乎詩故其作有<lb/>
+　　　　自然之妙諷詠勸懲之實又送牟景陽序云<lb/>
+　　　　蜀文再變於魏了翁了翁學程朱學故未嘗<lb/>
+　　　　有意為文人之文而文特妙其全集宗㫖不<lb/>
+　　　　出於是夫朱子為講學之宗誠無異議至於<lb/>
+　　　　文章一道則源流正變其説甚長必以晦菴<lb/>
+<pb n="KR4d0461_WYG_000-2a"/>
+　　　　一集律天下萬世而詩如李杜文如韓歐均<lb/>
+　　　　斥之以衰且壞此一家之私言非千古之通<lb/>
+　　　　論也然端學所作尚皆明白淳實不骫于正<lb/>
+　　　　而其持論亦足以矯淫哇艶冶之弊於文章<lb/>
+　　　　尚不為無功故糾其膠固之失而仍裒緝其<lb/>
+　　　　佚萹偹一格焉乾隆四十六年九月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　總　校　官　<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

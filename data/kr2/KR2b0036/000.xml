@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>元史續編</head>
+    <p>
+<pb n="KR2b0036_WYG_000-1a"/>
+欽定四庫全書　　　　史部二<lb/>
+　元史續編　　　　　　編年類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹按元史續編十六卷明胡粹中撰<lb/>
+　　　　粹中名由以字行山隂人永樂中官椘府長<lb/>
+　　　　史此書大㫖以明初所修元史詳於世祖以<lb/>
+　　　　前攻戰之事而畧於成宗以下治平之迹順<lb/>
+　　　　帝時事亦多闕漏因作此以綜其要起世祖<lb/>
+<pb n="KR2b0036_WYG_000-1b"/>
+　　　　至元十三年終順帝至正二十八年編年繫<lb/>
+　　　　月大書分注有所論斷亦隨事綴載全仿通<lb/>
+　　　　鑑綱目之例然綱目訖五代與此書不能相<lb/>
+　　　　接其曰續編葢又續陳桱書也黄虞稷千頃<lb/>
+　　　　堂書目載有此書十六卷又别出元史評而<lb/>
+　　　　不著卷數疑當時或析其評語别為一本以<lb/>
+　　　　行如後漢書贊之例歟其中書法如文宗之<lb/>
+　　　　初知存泰定太子天順年號而於明宗元年<lb/>
+<pb n="KR2b0036_WYG_000-2a"/>
+　　　　轉削而不紀仍書文宗所改之天厯二年進<lb/>
+　　　　退未免無據又英宗南坡之變書及其丞相<lb/>
+　　　　云云葢欲仿春秋之文而忘其當為内辭亦<lb/>
+　　　　劉知幾所謂貌同心異者其他議論雖尺尺<lb/>
+　　　　寸寸學步宋儒未免過於刻畫然如謂張世<lb/>
+　　　　傑奪舟㫁港未能决性命於義利之間謂吴<lb/>
+　　　　直方勸托克托<hi>舊作脱脱今改正</hi>大義滅親為不知<lb/>
+　　　　春秋之義持論亦未嘗不正至于文宗隂謀<lb/>
+<pb n="KR2b0036_WYG_000-2b"/>
+　　　　害兄更能據故老傳聞揭史家未𤼵之隠尤<lb/>
+　　　　為有闗扵懲戒商輅等修續綱目全取此書<lb/>
+　　　　為藍本並其評語亦多採之至明太祖起兵<lb/>
+　　　　稱王以後續綱目即分注元年斥其國號而<lb/>
+　　　　粹中獨大書至正直至二十八年八月而止<lb/>
+　　　　内外之辭未嘗少紊其持論之公非輅等之<lb/>
+　　　　所及又宋末二主不予以統亦協其平鄭瑗<lb/>
+　　　　井觀瑣言乃曰胡粹中元史續編又下于陳<lb/>
+<pb n="KR2b0036_WYG_000-3a"/>
+　　　　桱續編徳祐北遷閩廣繼立宋之統緒猶未<lb/>
+　　　　絶也乃遽抑景炎祥興之年于分書非綱目<lb/>
+　　　　書蜀漢東晋之例云云何其偏歟乾隆四十<lb/>
+　　　　六年十月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

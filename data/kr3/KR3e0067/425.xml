@@ -1,0 +1,755 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>普濟方卷四百二十五</head>
+    <p>
+<pb n="KR3e0067_WYG_425-1a"/>
+欽定四庫全書<lb/>
+　普濟方卷四百二十五　明　周王朱橚　撰<lb/>
+　　本草藥品畏惡<lb/>
+　　　玉石上部<lb/>
+玉泉<hi>畏欵冬花</hi>　玉屑<hi>惡鹿/角</hi>　丹砂<hi>惡磁石/畏鹹水</hi>　曾青<hi>畏兔絲子</hi>
+石膽<hi>水英為使畏牡茵桂芫花辛夷白薇○茵音郡</hi>　鍾乳<hi>蛇床為使惡牡丹𤣥石牡蒙畏紫石</hi>
+<hi>英蘘草</hi>　雲母<hi>澤瀉為使畏䰿甲/及流水○䰿音駝</hi>　朴硝<hi>畏麥/句薑</hi>　硝石<hi>火為</hi>
+<hi>使惡苦參苦菜畏女苑</hi>　芒硝<hi>石韋為使/惡麥句薑</hi>　白礬<hi>甘草/為使</hi>　滑石<hi>石韋</hi>
+<pb n="KR3e0067_WYG_425-1b"/>
+<hi>為使惡曾青</hi>　紫石英<hi>長石為使畏扁青附子/不欲䰿甲黄連麥句薑</hi>　白石英<hi>惡鬼</hi>
+<hi>臼</hi>　赤石脂<hi>惡大黄/畏芫花</hi>　黄石脂<hi>曾青為使惡細辛畏蜚蠊○蠊音亷</hi>　白<lb/>
+石脂<hi>鷰糞為使惡松脂畏黄芩</hi>　太一餘糧<hi>杜仲為使畏鐡落菖蒲貝母</hi>
+　　　玉石中部<lb/>
+水銀<hi>畏磁石</hi>　殷孽<hi>惡防己/畏本</hi>　孔公孽<hi>木蘭為使惡細辛</hi>　陽起<lb/>
+石<hi>桑螵蛸為使惡澤瀉菌桂雷丸蛇蛻皮畏兔絲子○<graphic n="KR0818" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0818.png" mimeType="image/png"/>音郡蜕音稅</hi>　凝水石<hi>畏地榆解巴豆</hi>
+<hi>毒</hi>　石膏<hi>雞子為使惡/莽草鬼臼</hi>　磁石<hi>柴胡為使畏黄石脂惡牡丹莽草殺鐵毒</hi>
+𤣥石<hi>惡松脂栢子仁菌桂○<graphic n="KR0818" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0818.png" mimeType="image/png"/>音郡</hi>　理石<hi>滑石為使畏麻黄</hi>
+<pb n="KR3e0067_WYG_425-2a"/>
+　　　玉石下部<lb/>
+青琅玕<hi>得水銀良畏雞骨殺錫毒</hi>　礜石<hi>得火良棘針為使惡虎掌鬼臼鶩屎細辛畏水</hi>
+特生礜石<hi>得火良畏水</hi>　方解石<hi>惡巴/豆</hi>　代赭<hi>畏天雄</hi>　大鹽<lb/>
+<hi>漏蘆為使</hi>
+　　　草藥上部<lb/>
+六芝<hi>薯蕷為使得髪良惡怕山畏扁青茵陳</hi>　天門冬<hi>垣衣地黄為使畏曾青</hi>　麥<lb/>
+門冬<hi>地黄車前為使惡欵冬苦瓠畏苦参青葙</hi>　术<hi>防風地/榆為使</hi>　女葳葳㽔<hi>畏鹵</hi>
+<hi>鹹</hi>　乾地黄<hi>得麥門冬清酒良/惡貝母畏蕪荑</hi>　菖蒲<hi>秦艽秦皮為使惡地膽麻黄○</hi>
+<pb n="KR3e0067_WYG_425-2b"/>
+<hi>艽音膠</hi>　逺志<hi>得茯苓冬葵子龍骨良殺天雄/附子毒畏真珠蜚蠊藜蘆文蛤</hi>　澤瀉<hi>畏海</hi>
+<hi>蛤文蛤</hi>　薯蕷<hi>紫芝為使/惡甘遂</hi>　菊花<hi>水枸杞根桑/根白皮為使</hi>　丼草<hi>木乾</hi>
+<hi>漆苦參為使惡逺志及甘遂大㦸芫花海藻</hi>　人參<hi>茯苓為使惡□疏及藜蘆○□音摉疏音疎</hi>
+　石斛<hi>陸英為使惡凝水石巴豆畏白殭蚕雷丸</hi>　牛膝<hi>惡熒火鱉甲陸英畏白前</hi>　細<lb/>
+辛<hi>曾青棗根為使惡狼毒山茱萸黄耆畏硝石滑石及藜蘆</hi>　獨活<hi>蠡實為使○蠡音禮</hi>　柴<lb/>
+胡<hi>半夏為使惡皂莢畏女苑藜蘆</hi>　菴<hi>音/淹</hi>䕡<hi>音/閭</hi>子<hi>荆子薏苡仁為使○薏音意苡音以</hi>
+　菥<hi>音錫</hi>蓂<hi>音/覔</hi>子<hi>得荆子細辛良/惡乾姜苦参</hi>　龍膽<hi>貫衆為使惡防葵地黄</hi>
+兔絲子<hi>冝圓不宜煮得酒良薯蕷松脂為使惡雚菌雚音桓菌音郡</hi>　巴㦸<hi>覆盆子為使惡</hi>
+<pb n="KR3e0067_WYG_425-3a"/>
+<hi>朝生雷丸丹參</hi>　蒺藜子<hi>烏頭/為使</hi>　防風<hi>惡乾姜藜蘆白欵芫花殺附子毒</hi>　絡<lb/>
+石<hi>杜仲牡丹為使惡鐵落畏菖蒲貝母</hi>　黄連<hi>黄芩龍骨理石為使惡菊花芫花𤣥參白鮮畏欵冬</hi>
+<hi>勝烏頭解巴豆毒</hi>　沙參<hi>惡防己/及藜蘆</hi>　丹參<hi>畏醎水/及藜蘆</hi>　天名精<hi>垣衣</hi>
+<hi>為使</hi>　决明子<hi>惡實為使/惡大麻子</hi>　芎藭<hi>白芷/為使</hi>　續斷<hi>地黄為使惡雷丸</hi>
+　黄耆<hi>惡鱉甲</hi>　杜若<hi>得辛夷細辛良/惡柴胡前胡</hi>　蛇床子<hi>惡牡丹巴豆貝</hi>
+<hi>母</hi>　茜根<hi>畏鼠/婦</hi>　飛亷<hi>得鳥頭良/惡麻黄</hi>　薇衘<hi>得秦艽良</hi>　五味<lb/>
+子<hi>蓯容為使惡葳㽔勝烏頭</hi>
+　　　草藥中部<lb/>
+<pb n="KR3e0067_WYG_425-3b"/>
+當歸<hi>惡䕡茹畏菖蒲海藻牡蒙○藺音閭茹音如</hi>　秦艽<hi>音膠○菖蒲為使</hi>　黄芩<lb/>
+<hi>山茱黄龍骨為使惡䓤實畏丹砂牡丹藜蘆</hi>　芍藥<hi>湏圓為使惡石斛芒硝石硝鱉甲小薊及藜蘆</hi>
+　乾薑<hi>秦椒為使惡黄芩黄連天鼠糞殺半夏莨菪毒○莨音浪菪音蕩</hi>　藁本<hi>惡䕡茹</hi>
+　麻黄<hi>厚朴為使惡辛夷石韋</hi>　葛根<hi>殺野葛巴/豆百藥毒</hi>　前胡<hi>半夏為使惡皂</hi>
+<hi>莢畏藜蘆</hi>　貝母<hi>厚朴白薇為使惡桃花畏/秦艽礬石莽草及烏頭</hi>　<graphic n="KR0797" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0797.png" mimeType="image/png"/>
+                    <hi>音/括</hi>
+                    <graphic n="KR0803" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0803.png" mimeType="image/png"/>
+                    <hi>音婁○枸</hi>
+<hi>杞為使惡乾薑畏牛膝乾漆及烏頭</hi>　𤣥參<hi>惡黄耆乾薑大棗/山茱萸及藜蘆</hi>　苦參<hi>𤣥參</hi>
+<hi>為使惡貝母漏蘆兔絲子及藜蘆</hi>　石龍芮<hi>大㦸為使畏/蛇蛻呉茱萸</hi>　石韋<hi>滑石杏仁</hi>
+<hi>為使得菖蒲良</hi>　狗脊<hi>萆薢為使/惡敗醬</hi>　蠣薢<hi>薏苡為使畏葵根大黄柴胡牡  前胡</hi>
+<pb n="KR3e0067_WYG_425-4a"/>
+　蘧<hi>音劬</hi>麥<hi>蘘草牡丹為/使惡桑螵蛸</hi>　白芷<hi>當歸為使/惡旋復花</hi>　紫苑<hi>欵冬為使</hi>
+<hi>惡天雄蘧麥雷丸逺志畏茵陳</hi>　白鮮皮<hi>惡桑螵蛸桔/梗茯苓萆薢</hi>　白薇<hi>惡黄耆乾薑乾</hi>
+<hi>漆大棗山茱萸</hi>　紫參<hi>畏辛/夷</hi>　仙靈脾<hi>薯蕷/為使</hi>　牡丹<hi>畏兔絲子</hi>　欵<lb/>
+冬花<hi>杏仁為使得紫苑良惡皂莢硝石𤣥参畏貝母辛夷麻黄黄芩黄連黄耆青葙</hi>　漢防己<lb/>
+<hi>殷孽為使惡細辛畏萆薢殺雄黄毒</hi>　女苑<hi>畏鹵/醎</hi>　澤蘭<hi>防己/為使</hi>　地榆<hi>得髮</hi>
+<hi>良惡麥門冬</hi>　海藻<hi>反甘草</hi>
+　　　草藥下部<lb/>
+大黄<hi>黄芩為使</hi>　桔梗<hi>秦皮為使畏白/及龍膽龍眼</hi>　甘遂<hi>𤓰蒂為使惡逺志反甘草</hi>
+<pb n="KR3e0067_WYG_425-4b"/>
+　葶藶<hi>榆皮為使得酒良惡殭蚕石龍芮</hi>　芫花<hi>决明為使/反甘草</hi>　澤漆<hi>小豆</hi>
+<hi>為使惡薯蕷</hi>　大㦸<hi>反甘/草</hi>　鈎吻<hi>半夏為使/惡黄芩</hi>　藜蘆<hi>黄連為使畏細</hi>
+<hi>辛芍藥𤣥参惡大黄</hi>　天雄<hi>逺志為使/惡腐婢</hi>　烏頭烏喙<hi>許穢切○莽草為使反半</hi>
+<hi>夏<graphic n="KR0797" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0797.png" mimeType="image/png"/>
+                        <graphic n="KR0803" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0803.png" mimeType="image/png"/>貝母白欵白/及惡藜蘆○<graphic n="KR0797" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0797.png" mimeType="image/png"/>音秳</hi>　附子<hi>地膽為使惡蜈蚣畏防風甘草黄連人参烏韮大豆</hi>
+貫衆<hi>雚菌為使○雚音桓菌音郡</hi>　半夏<hi>射干為使惡皂莢畏雄黄生薑乾薑秦皮鱉甲反烏</hi>
+<hi>頭○射音夜</hi>　虎掌<hi>蜀漆為使/畏莾草</hi>　蜀漆<hi>
+                        <graphic n="KR0797" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0797.png" mimeType="image/png"/>藪為使/惡貫衆</hi>　恒山<hi>畏玉</hi>
+<hi>札</hi>　狼牙<hi>蕪荑為使惡/棗肌地榆</hi>　白歛<hi>伐赭為使/反烏頭</hi>　白及<hi>紫石英為</hi>
+<hi>使惡理石杏核仁杏仁</hi>　雚菌<hi>得酒良/畏雞子</hi>　䕡<hi>音/閭</hi>茹<hi>音如○甘草為使惡麥門冬</hi>
+<pb n="KR3e0067_WYG_425-5a"/>
+　藎草<hi>畏鼠婦</hi>　夏枯草<hi>土𤓰/為使</hi>　狼毒<hi>大豆為使惡麥句薑</hi>　鬼臼<lb/>
+<hi>畏垣衣</hi>
+　　　木藥上部<lb/>
+茯苓茯神<hi>馬蘭為使惡白歛畏牡蒙地榆雄黄秦艽龜甲</hi>　栢子仁<hi>牡蠣桂心爪子為使</hi>
+<hi>畏菊花羊踹諸石麩麵</hi>　杜仲<hi>惡蛻参𤣥参/○蛻音税</hi>　乾漆<hi>半夏為使畏雞子</hi>
+蔓荆子<hi>惡烏頭石膏</hi>　五加皮<hi>逺志為使畏/蛇皮𤣥参</hi>　黄蘗<hi>惡蛇漆</hi>
+辛夷<hi>芎藭為使惡石脂畏菖蒲蒲黄黄連石膏黄環</hi>　酸棗<hi>惡防/己</hi>　槐子<hi>景天為使</hi>
+　牡荆實<hi>防風為使惡石膏</hi>
+<pb n="KR3e0067_WYG_425-5b"/>
+　　　木藥中部<lb/>
+厚朴<hi>乾薑為使惡澤瀉寒水石</hi>　山茱萸<hi>蓼實為使惡桔梗防風防己</hi>　吳茱萸<lb/>
+<hi>蓼實為使惡丹参硝石畏紫英石</hi>　　秦皮<hi>大㦸為使/惡吳茱萸</hi>　占斯<hi>解狼毒毒</hi>
+梔子<hi>解躑躅毒</hi>　桑根白皮<hi>續斷桂心/麻子為使</hi>　秦椒<hi>惡<graphic n="KR0797" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0797.png" mimeType="image/png"/>藪防葵畏雄黄</hi>
+　　　木藥下部<lb/>
+黄環<hi>鳶尾為使惡茯苓防己</hi>　石南<hi>五加皮/為使</hi>　巴豆<hi>芫花為使惡蘘草畏大黄</hi>
+<hi>黄連藜蘆殺斑蝥毒</hi>　蜀椒<hi>杏仁為使/畏欵冬</hi>　欒華<hi>决明/為使</hi>　雷丸<hi>荔實厚朴</hi>
+<hi>為使惡葛根</hi>　□<hi>音/授</hi>疏<hi>音疎○漏/蘆為使</hi>　皂莢<hi>栢子仁為使惡麥門冬畏空青人參</hi>
+<pb n="KR3e0067_WYG_425-6a"/>
+<hi>苦參</hi>
+　　　獸上部<lb/>
+龍骨<hi>得人參牛黄良畏石膏</hi>　龍角<hi>畏乾漆蜀/椒理石</hi>　牛黄<hi>人參為使惡龍骨地</hi>
+<hi>黄龍膽蜚蠊畏牛膝</hi>　白膠<hi>得火良/畏大黄</hi>　阿膠<hi>得火良畏大黄</hi>
+　　　獸中部<lb/>
+犀角<hi>松脂為使惡雚□雷丸</hi>　羖羊角<hi>兔絲子/為使</hi>　鹿茸<hi>麻節為使</hi>　鹿<lb/>
+角<hi>杜仲為使</hi>
+　　　獸下部<lb/>
+<pb n="KR3e0067_WYG_425-6b"/>
+麋脂<hi>畏大黄</hi>
+　　　蟲魚上部<lb/>
+蠟蜜<hi>惡芫花齊蛤</hi>　蜂子<hi>畏黄芩芍/藥牡蠣</hi>　牡蠣<hi>貝母為使得甘草牛膝逺志蛇</hi>
+<hi>床良惡麻黄吳茱萸辛夷</hi>　桑螵蛸<hi>得龍骨療曵/良畏旋復花</hi>　海蛤<hi>蜀漆為使惡甘遂畏</hi>
+<hi>芫花</hi>　龜甲<hi>惡沙参蜚蠊</hi>
+　　　蟲魚中部<lb/>
+伏翼<hi>莧實芸實為使</hi>　蝟皮<hi>得酒良畏桔/梗麥門冬</hi>　蜥<hi>音/錫</hi>蜴<hi>音亦○惡硫黄斑蝥</hi>
+<hi>蕪荑</hi>　露蜂房<hi>惡乾薑丹參黄/芩芍藥牡蠣</hi>　䗪<hi>音畏皂莢/柘菖蒲</hi>　蠐螬<hi>蜚蠊</hi>
+<pb n="KR3e0067_WYG_425-7a"/>
+<hi>為使惡附子</hi>　鼈甲<hi>惡礬/石</hi>　䰿<hi>音/駞</hi>魚甲<hi>蜀漆為使畏狗膽甘遂芫花</hi>　烏<lb/>
+賊魚骨<hi>惡白歛白及</hi>　解魚<hi>殺莨菪/毒漆毒</hi>　天鼠糞<hi>惡白歛白薇</hi>
+　　　蟲魚下部<lb/>
+蛇蛻<hi>音税○畏慈石及酒</hi>　羌蜋<hi>畏羊角/石膏</hi>　斑蝥<hi>馬刀為使畏巴豆丹參空青惡</hi>
+<hi>膚青</hi>　地膽<hi>惡甘/草</hi>　馬刀<hi>得水良</hi>
+　　　果上部<lb/>
+大棗<hi>殺烏頭毒</hi>
+　　　果下部<lb/>
+<pb n="KR3e0067_WYG_425-7b"/>
+杏仁<hi>得火良惡黄耆黄芩葛根解錫糊粉毒畏蘘革</hi>
+　　　菜上部<lb/>
+冬葵子<hi>黄芩為使</hi>
+　　　菜中部<lb/>
+葱實<hi>解藜蘆毒</hi>
+　　　米上部<lb/>
+麻蕡麻子<hi>畏牡蠣白薇惡茯苓</hi>
+　　　米中部<lb/>
+<pb n="KR3e0067_WYG_425-8a"/>
+大豆及黄卷<hi>畏五參龍膽得前胡扁杏仁牡蠣良殺烏頭毒</hi>　大麥<hi>食蜜為使</hi>
+　右一百九十九種有相制使其餘皆無故不僃錄<lb/>
+　　　藥相反歌<lb/>
+貝母半夏并<graphic n="KR0797" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0797.png" mimeType="image/png"/>
+                    <graphic n="KR0803" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0803.png" mimeType="image/png"/>白歛白及反烏頭細辛狼毒五參輩<lb/>
+<hi>人參丹參沙參𤣥參苦参</hi>偏與藜蘆結寃讎大㦸芫花兼海藻甘遂<lb/>
+以上反甘草記取歌中十八反莫使同行真箇好<lb/>
+烏頭反半夏<graphic n="KR0797" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0797.png" mimeType="image/png"/>
+                    <graphic n="KR0803" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0803.png" mimeType="image/png"/>貝母白歛甘草反大㦸芫花甘遂海<lb/>
+藻藜蘆反五参細辛芍藥<lb/>
+<pb n="KR3e0067_WYG_425-8b"/>
+　　　服諸藥記忌<lb/>
+有术勿食桃李仁及雀肉胡荽大蒜青魚鮓等　有藜<lb/>
+蘆勿食狸肉　有巴豆勿食蘆芛及野猪肉　有黄連<lb/>
+桔梗勿食猪肉　有地黄勿食蕪荑　有半夏菖蒲勿<lb/>
+食飴糖魚肉　有細辛勿食生菜　有甘草勿食菘草<lb/>
+　有牡丹勿食生胡荽　有商陸勿食犬肉　有恒山<lb/>
+勿食生葱生菜　有空青朱砂勿食生血物　有茯苓<lb/>
+勿食醋物　有鼈甲勿食莧菜　有天門冬勿食鯉魚<lb/>
+<pb n="KR3e0067_WYG_425-9a"/>
+　服藥不可多食生胡荽及蒜雜生菜又不可食諸滑<lb/>
+　物菓實等又不可食肥猪犬肉油膩肥羮魚膾腥臊<lb/>
+　等物<lb/>
+　　　肝臟用藥<lb/>
+㽔仁<hi>温微寒</hi>　空青<hi>寒大/寒</hi>　石膽<hi>寒/</hi>决明子<hi>平微寒</hi>　青葙<lb/>
+子<hi>微寒</hi>　曾青<hi>小/寒</hi>　升麻<hi>平微/寒</hi>　龍腦<hi>平微/寒</hi>　𤣥參<hi>微寒</hi>
+梔子<hi>寒大寒</hi>　龍膽<hi>寒大/寒</hi>　枸杞子<hi>微/寒</hi>　苦參<hi>寒</hi>　車前<lb/>
+子<hi>寒</hi>　菊花<hi>平/</hi>　礜石<hi>大熱生/温熟熱</hi>　烏賊魚骨<hi>微寒</hi>　兔肝<lb/>
+<pb n="KR3e0067_WYG_425-9b"/>
+<hi>平寒</hi>　酸棗仁<hi>平/</hi>　秦椒<hi>生温/熟寒</hi>　黄連<hi>寒微/寒</hi>　蔓青子<hi>温</hi>
+　竹瀝<hi>大寒</hi>　熊膽<hi>寒/</hi>　青羊膽<hi>温/</hi>　阿膠<hi>平微温</hi>　細辛<lb/>
+<hi>温</hi>　青石脂<hi>平</hi>
+　　　心臟用藥<lb/>
+麥門冬<hi>平微寒</hi>　逺志<hi>温/</hi>　丹參<hi>微/寒</hi>　紫石英<hi>温</hi>　犀角<lb/>
+<hi>寒微寒</hi>　玉屑<hi>平/</hi>　鐵粉<hi>平/</hi>　銀屑<hi>平/</hi>　硃砂<hi>微寒</hi>　牛黄<lb/>
+<hi>平</hi>　茯神<hi>平/</hi>　眞珠<hi>寒/</hi>　凝水石<hi>寒大/寒</hi>　菖蒲<hi>温</hi>　龍<lb/>
+齒<hi>平微寒</hi>　鐵精<hi>微/寒</hi>　黄連<hi>寒微/寒</hi>　羚羊角<hi>温微寒</hi>　茯苓<lb/>
+<pb n="KR3e0067_WYG_425-10a"/>
+<hi>平</hi>　生地黄<hi>大/寒</hi>　竹瀝<hi>大/寒</hi>　尺竹　赤石脂<hi>大温</hi>
+　　　脾臟用藥<lb/>
+黄耆<hi>微温</hi>　柴胡<hi>平微/寒</hi>　附子<hi>温大/熱</hi>　枳實<hi>寒微寒</hi>　陳橘<lb/>
+皮<hi>温</hi>　人參<hi>微寒/微温</hi>　木通<hi>平/</hi>　厚朴<hi>温大/温</hi>　乾薑<hi>温大熱</hi>
+　麴<hi>大熱</hi>　大麥蘖<hi>温/平</hi>　大棗<hi>平/</hi>　黄石脂<hi>平/</hi>　术<hi>温</hi>
+訶黎勒<hi>温</hi>　桂<hi>大/熱</hi>　吳茱萸<hi>温大/熱</hi>　木香<hi>温/</hi>　檳榔<hi>温</hi>
+　胡椒<hi>大温</hi>　肉豆冦<hi>温/</hi>　丁香<hi>温/</hi>　髙良薑<hi>大温</hi>　蓽茇<lb/>
+<hi>音撥大温</hi>　石蜜<hi>平微温</hi>
+<pb n="KR3e0067_WYG_425-10b"/>
+　　　肺臟用藥<lb/>
+欵冬花<hi>温</hi>　桔梗<hi>微/温</hi>　百合<hi>平/</hi>　杏仁<hi>温/</hi>　紫苑<hi>温</hi>
+射<hi>音液</hi>干<hi>平微/温</hi>　紫蘇子<hi>温/</hi>　木通<hi>温/</hi>　旋復花<hi>温微温</hi>
+桑根白皮<hi>寒</hi>　皂莢<hi>温/</hi>　沙參<hi>微/寒</hi>　天門冬<hi>平大寒</hi>　白<lb/>
+前<hi>微温</hi>　百部<hi>微/温</hi>　貝母<hi>平微/寒</hi>　芫花<hi>温微/温</hi>　乾薑<hi>温大熱</hi>
+　車前子<hi>寒</hi>　麻黄<hi>温微/温</hi>　蛤蚧<hi>平/</hi>　馬兠鈴<hi>寒</hi>　半<lb/>
+夏<hi>生微寒熟温</hi>　五味子<hi>温/</hi>　葶藶<hi>寒大/寒</hi>　白石脂<hi>平</hi>
+　　　腎臟用藥<lb/>
+<pb n="KR3e0067_WYG_425-11a"/>
+肉蓯容<hi>微温</hi>　巴㦸天<hi>微/温</hi>　山茱萸<hi>平微/温</hi>　牛膝<hi>平</hi>　兔<lb/>
+絲子<hi>平</hi>　石斛<hi>平/</hi>　鹿茸<hi>温微/温</hi>　蛇床子<hi>平/</hi>　杜仲<hi>平温</hi>
+　<hi>兹石</hi>石<hi>寒/</hi>　<graphic n="KR1181" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1181.png" mimeType="image/png"/>薢<hi>平/</hi>　乾漆<hi>温/</hi>　桑螵蛸<hi>平/</hi>　澤瀉<hi>寒</hi>
+　補骨脂<hi>大寒</hi>　鍾乳<hi>温/</hi>　黑石脂<hi>平/</hi>　石南<hi>平</hi>　烏喙<lb/>
+<hi>許穢切微温</hi>　天雄<hi>温大/温</hi>　石龍芮<hi>平</hi>
+　　　治風通用藥<lb/>
+防風<hi>温</hi>　漢防己<hi>平/温</hi>　蔓荆子<hi>微寒/微温</hi>　秦艽<hi>音膠○平</hi>　獨<lb/>
+活<hi>平微寒</hi>　芎藭<hi>温/</hi>　羌活<hi>平微/寒</hi>　麻黄<hi>温微温</hi>　天門冬<lb/>
+<pb n="KR3e0067_WYG_425-11b"/>
+<hi>平大寒</hi>　附子<hi>温大/熱</hi>　杜若　麥門冬<hi>平微/寒</hi>　犀角<hi>寒微寒</hi>
+　細辛<hi>温</hi>　<graphic n="KR2208" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2208.png" mimeType="image/png"/>本<hi>温微/寒</hi>　羚羊角　天雄　黄耆<hi>平</hi>
+蒺藜子<hi>温㣲寒</hi>　　菖蒲<hi>温/</hi>葈耳<hi>松以反/温㣲寒</hi>　　菊花<hi>平</hi>
+　牡荆子<hi>平微寒</hi>　狗脊<hi>平微/温</hi>　天麻<hi>平/</hi>　薏苡仁<hi>微寒</hi>
+當歸<hi>温大温</hi>　麻黄<hi>温大/温</hi>　萆薢<hi>平/</hi>　烏喙<hi>許穢切微温</hi>　側<lb/>
+子<hi>大熱</hi>　巴㦸<hi>微/温</hi>　躑躅<hi>温/</hi>　欒荆<hi>温/</hi>　海桐皮<hi>平</hi>　小<lb/>
+天蓼<hi>温</hi>　辛夷<hi>温/</hi>　乾蠍<hi>温/</hi>　天南星<hi>温/</hi>　莽草<hi>温</hi>
+烏頭<hi>温大熱</hi>　栢子仁<hi>平/</hi>　白花蛇<hi>温/</hi>　烏蛇<hi>温</hi>　酸棗<lb/>
+<pb n="KR3e0067_WYG_425-12a"/>
+仁<hi>平</hi>　葳靈仙<hi>温/</hi>　鼠粘子<hi>平/</hi>　牛膝<hi>平/</hi>　牛黄<hi>平</hi>
+枳殻<hi>微寒</hi>
+　　　風眩<lb/>
+菊花<hi>平</hi>　飛亷　躑躅<hi>温/</hi>　虎掌<hi>温微/寒</hi>杜若<hi>微温</hi>　茯神<lb/>
+<hi>平</hi>　茯苓<hi>平/</hi>　白芷<hi>温/</hi>　鳩<hi>尺脂/切</hi>頭<hi>平/</hi>　人參<hi>微寒微温</hi>
+芎藭<hi>温</hi>　蔓荆子<hi>微寒/微温</hi>　薯蕷<hi>温/平</hi>　术<hi>温/</hi>　蘼蕪<hi>温</hi>
+　　　頭面風<lb/>
+芎藭<hi>温</hi>　薯蕷<hi>温/平</hi>　天雄<hi>温大/温</hi>　山茱萸<hi>平微温</hi>　莽草<lb/>
+<pb n="KR3e0067_WYG_425-12b"/>
+<hi>温</hi>　辛夷<hi>温/</hi>　牡荆子<hi>温/</hi>　蔓荆子<hi>微寒/微温</hi>　藁本<hi>温微寒</hi>
+　蘼蕪<hi>温</hi>　葈耳<hi>松以切/温㣲寒</hi>　蜂子<hi>平㣲寒</hi>　杜若<lb/>
+　　　中風脚弱<lb/>
+石斛<hi>平</hi>　鍾乳<hi>温/</hi>　殷孽<hi>温/</hi>　孔公孽<hi>温/</hi>　硫黄<hi>大熱</hi>
+附子<hi>温大熱</hi>　豉<hi>寒/</hi>　丹參<hi>微/寒</hi>　五加皮<hi>温微/寒</hi>　竹瀝<hi>大寒</hi>
+　大豆<hi>平</hi>　天雄<hi>温大/温</hi>　側子<hi>大/熱</hi>　牛膝<hi>平/</hi>　胡麻<hi>平</hi>
+　　　久風濕痺<lb/>
+菖蒲<hi>温</hi>　茵芋<hi>温微/温</hi>　天雄<hi>温大/温</hi>　附子<hi>温大熱</hi>　烏頭<lb/>
+<pb n="KR3e0067_WYG_425-13a"/>
+<hi>温大熱</hi>　細辛<hi>温/</hi>　蜀椒<hi>温大/熱</hi>　牛膝<hi>平/</hi>　天門冬<hi>平大寒</hi>
+术<hi>温</hi>　丹參<hi>微/寒</hi>　石龍芮<hi>平/</hi>　茵陳<hi>平微/寒</hi>　松葉<hi>温</hi>
+松節<hi>温</hi>　側子<hi>大/熱</hi>　躑躅<hi>温/</hi>　栢子仁<hi>平/</hi>　薏苡仁<hi>微寒</hi>
+　蔓荆子<hi>微寒微温</hi>　葈耳<hi>松以切温微寒</hi>
+　　　賊風欒痛<lb/>
+茵芋<hi>温微温</hi>　附子<hi>温大/熱</hi>　側子<hi>大/熱</hi>　麻黄<hi>温微温</hi>　芎藭<lb/>
+<hi>温</hi>　杜仲<hi>平/温</hi>　萆薢<hi>平/</hi>　狗脊<hi>平微/温</hi>　白鮮皮<hi>寒</hi>　白<lb/>
+及<hi>平微寒</hi>　葈耳<hi>松以切/温㣲寒</hi>　豬椒<hi>温/</hi>　防己<hi>平/</hi>　石斛<hi>平</hi>
+<pb n="KR3e0067_WYG_425-13b"/>
+　　　風瘙痒<lb/>
+蛇床子<hi>平</hi>　蒴翟<hi>温/</hi>　　烏喙<hi>許穢切/㣲温</hi>　景天<hi>平</hi>　蒺<lb/>
+藜子<hi>㣲温㣲寒</hi>　楓香<hi>平/</hi>　　藜蘆<hi>㣲寒</hi>　茺蔚子　青葙<lb/>
+子<hi>㣲寒</hi>　枳殻<hi>㣲寒</hi>
+　　　傷寒<lb/>
+麻黄<hi>温微温</hi>　葛根<hi>平/</hi>　杏仁<hi>温/</hi>　前胡<hi>微/寒</hi>　柴胡<hi>平微温</hi>
+　大青<hi>大寒</hi>　龍膽<hi>寒大/寒</hi>　芍藥<hi>平微/寒</hi>　薰草<hi>平</hi>　升麻<lb/>
+<hi>平微寒</hi>　牡丹<hi>寒微/寒</hi>　虎掌<hi>温微/寒</hi>　术<hi>温/</hi>　漢防己<hi>平温</hi>
+<pb n="KR3e0067_WYG_425-14a"/>
+石膏<hi>微寒大寒</hi>　牡蠣<hi>平微/寒</hi>　貝母<hi>平微/寒</hi>　鼈甲<hi>平</hi>　犀角<lb/>
+<hi>寒微寒</hi>　豉<hi>寒/</hi>　羚羊角<hi>温微/寒</hi>　䓤白<hi>平/</hi>　生薑<hi>微温</hi>　芒<lb/>
+硝<hi>大寒</hi>　半夏<hi>生微寒/熟温</hi>　知母<hi>寒</hi>
+　　　時氣<lb/>
+牡蠣<hi>平微寒</hi>　龍膽<hi>寒大/寒</hi>　犀角<hi>寒微/寒</hi>　葱白<hi>平</hi>　<graphic n="KR0797" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0797.png" mimeType="image/png"/>
+                    <graphic n="KR0803" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0803.png" mimeType="image/png"/>
+<hi>寒</hi>　天黄<hi>寒大/寒</hi>　石膏<hi>微寒/大寒</hi>　雄黄<hi>温微/温</hi>　麻黄<hi>温微温</hi>
+　葛根<hi>平</hi>　杏仁<hi>温/</hi>　黄芩<hi>平大/寒</hi>　白鮮皮<hi>寒</hi>　葳𬎼<lb/>
+<hi>平</hi>　貝母<hi>平微/寒</hi>　䜴<hi>寒/</hi>　射<hi>音/液</hi>干<hi>平微/寒</hi>　生薑<hi>微温</hi>　茵<lb/>
+<pb n="KR3e0067_WYG_425-14b"/>
+陳<hi>平微寒</hi>　羚羊角<hi>温微/寒</hi>　梔子<hi>寒大/寒</hi>　牡丹<hi>寒微寒</hi>　大<lb/>
+青<hi>大寒</hi>　凝水石<hi>寒微/寒</hi>　水牛角<hi>平/</hi>　升麻<hi>平微寒</hi>　竹茹<lb/>
+<hi>音如微寒</hi>　芍藥<hi>平微/寒</hi>　前胡<hi>微/寒</hi>　柴胡<hi>平微寒</hi>
+　　　熱病　<hi>此差</hi>
+犀角<hi>寒微寒</hi>　葛根<hi>平/</hi>　白鮮皮<hi>寒/</hi>　小麥<hi>微/寒</hi>　知母<hi>寒</hi>
+　𤣥參<hi>微寒</hi>　理石<hi>寒大/寒</hi>　長石<hi>寒/</hi>　黄芩<hi>平熱大</hi>　凝水<lb/>
+石<hi>寒大寒</hi>　<hi>差/</hi>杏仁<hi>温/</hi>　黄芩<hi>平大/寒</hi>　白鮮皮<hi>寒</hi>　葳𬎼<lb/>
+<hi>平</hi>　貝母<hi>平微/寒</hi>　<hi>差/</hi>䜴<hi>寒/</hi>　射<hi>音/液</hi>干<hi>平微/寒</hi>　生薑<hi>微温</hi>
+<pb n="KR3e0067_WYG_425-15a"/>
+茵陳<hi>平微寒</hi>　羚羊角<hi>温微/寒</hi>　<hi>差/</hi>梔子<hi>寒大/寒</hi>　牡丹<hi>寒微寒</hi>
+　大青<hi>大寒</hi>　柴胡<hi>平微/寒</hi>　　水牛角<hi>平/</hi>　升麻<hi>平微寒</hi>
+竹茹<hi>音如微寒</hi>　芍藥<hi>平微/寒</hi>　前胡<hi>微寒</hi>
+　　　熱病<lb/>
+犀角<hi>寒微寒</hi>　葛根<hi>平/</hi>　白鮮皮<hi>寒/</hi>　小麥<hi>微/寒</hi>　知母<hi>寒</hi>
+　𤣥參<hi>微寒</hi>　理石<hi>寒大/寒</hi>　長石<hi>寒/</hi>　黄芩<hi>平大熱</hi>　凝水<lb/>
+石<hi>寒大寒</hi>　浮萍草<hi>寒/</hi>　敗醬<hi>平微/寒</hi>　天青<hi>大/寒</hi>　梔子<hi>寒大</hi>
+<hi>寒</hi>　石膏<hi>大寒/微寒</hi>　羚羊角<hi>温微/寒</hi>　垣衣<hi>寒/</hi>　白薇<hi>平大寒</hi>
+<pb n="KR3e0067_WYG_425-15b"/>
+滑石<hi>寒大寒</hi>　景天<hi>平/</hi>　升麻<hi>平微/寒</hi>　大黄<hi>寒大寒</hi>　龍齒<lb/>
+<hi>平微寒</hi>　葶<graphic n="KR0995" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0995.png" mimeType="image/png"/>
+                    <hi>寒大/寒</hi>　茵陳<hi>平微/寒</hi>　楝實<hi>寒</hi>　藍實及葉<lb/>
+<hi>寒</hi>　白頸地龍<hi>寒大/寒</hi>　苦參<hi>寒/</hi>　朴硝<hi>寒大寒</hi>
+　　　大熱<lb/>
+凝水石<hi>寒微寒</hi>　石膏<hi>微寒/大寒</hi>　滑石<hi>寒大/寒</hi>　黄芩<hi>平大寒</hi>
+知母<hi>寒</hi>　白鮮皮<hi>寒/</hi>　𤣥參<hi>微/寒</hi>　茵陳<hi>平微寒</hi>　鼠李根<lb/>
+皮<hi>微寒</hi>　竹瀝<hi>大/寒</hi>　梔子<hi>寒大/寒</hi>　虵苺<hi>音毎/大寒</hi>　芒硝<hi>大寒</hi>
+白頸地龍<hi>寒大寒</hi>　大黄<hi>寒大/寒</hi>　苦參<hi>寒/</hi>　沙參<hi>微寒</hi>
+<pb n="KR3e0067_WYG_425-16a"/>
+　　　勞熱<lb/>
+鼈甲<hi>平</hi>　柴胡<hi>平微/寒</hi>　茵陳<hi>平微/寒</hi>　秦艽<hi>音膠平</hi>　訶黎<lb/>
+勒<hi>温</hi>　天靈葢<hi>平/</hi>　青蒿<hi>寒/</hi>　地骨皮<hi>大/寒</hi>　前胡<hi>微寒</hi>
+龍膽<hi>寒大寒</hi>　胡黄蓮<hi>平/</hi>　人參<hi>微寒/微温</hi>　梔子<hi>寒大寒</hi>　獺<lb/>
+肝　沙參<hi>微寒</hi>　知母<hi>寒/</hi>　貝母<hi>平微/寒</hi>　百部<hi>微温</hi>　木通<lb/>
+<hi>平</hi>　桑根白皮<hi>寒/</hi>　桃仁<hi>平/</hi>　杏仁<hi>温/</hi>　麥門冬<hi>平微寒</hi>
+　　　勞復<lb/>
+鼠糞<hi>微寒</hi>　豉<hi>寒/</hi>　竹瀝<hi>大/寒</hi>　龜甲<hi>平/</hi>　柴胡<hi>平微寒</hi>　麥<lb/>
+<pb n="KR3e0067_WYG_425-16b"/>
+門冬<hi>平微寒</hi>
+　　　瘧病<lb/>
+恒山<hi>寒微寒</hi>　蜀漆<hi>平微/温</hi>　牡蠣<hi>平微/温</hi>　鼈甲<hi>平</hi>　麝香<lb/>
+<hi>温</hi>　麻黄<hi>温微/温</hi>　大青<hi>大/寒</hi>　防葵<hi>寒/</hi>　豬苓<hi>平</hi>　漢防<lb/>
+己<hi>平温</hi>　茵芋<hi>温微/温</hi>　巴豆<hi>温生温/熟寒</hi>　白頭翁<hi>温</hi>　女青<lb/>
+<hi>平</hi>　芫花<hi>温微/温</hi>　白微<hi>平大/寒</hi>　松羅<hi>平/</hi>　桃<hi>平</hi>　烏梅<lb/>
+<hi>平</hi>　雄黄<hi>平大/温</hi>　菖蒲<hi>温</hi>　莽草<lb/>
+　　　霍亂<lb/>
+<pb n="KR3e0067_WYG_425-17a"/>
+人參<hi>微寒微温</hi>　乾薑<hi>温大/熱</hi>　术<hi>温/</hi>　附子<hi>温大/熱</hi>　桂心<hi>大熱</hi>
+　陳橘皮<hi>温</hi>　厚朴<hi>温大/温</hi>　香葇<hi>音柔/温</hi>　髙良薑<hi>大温</hi>
+麕<hi>居筠切温</hi>　木𤓰<hi>温/</hi>　肉豆䓻<hi>温/</hi>　丁香<hi>温</hi>
+　　　轉筋<lb/>
+小蒜<hi>温</hi>　木𤓰<hi>温/</hi>　陳橘皮<hi>温/</hi>　雞舌香<hi>微温</hi>　肉豆蔲<lb/>
+<hi>温</hi>　生薑<hi>微/温</hi>　杉木<hi>微温</hi>
+　　　嘔呃<lb/>
+厚朴<hi>温大温</hi>　香柔<hi>音柔/温</hi>　麕<hi>居筠/切温</hi>　人參<hi>微寒微温</hi>　附子<lb/>
+<pb n="KR3e0067_WYG_425-17b"/>
+<hi>温大熱</hi>　术<hi>温/</hi>　楠材<hi>微/温</hi>　木𤓰<hi>温/</hi>　髙良薑<hi>大温</hi>　丁香<lb/>
+<hi>温</hi>　桂心<hi>大/熱</hi>　陳橘皮<hi>温/</hi>　枇杷葉<hi>平/</hi>　白豆蔲<hi>温</hi>
+　　　大腹水腫<lb/>
+大㦸<hi>寒大寒</hi>　甘遂<hi>寒大/寒</hi>　澤漆<hi>微/寒</hi>　葶藶<hi>寒大寒</hi>　芫花<lb/>
+<hi>温微温</hi>　巴豆<hi>温生温/熟寒</hi>　豬苓<hi>平/</hi>　漢防己<hi>平/温</hi>　澤蘭<hi>微寒</hi>
+　桑根白皮<hi>寒</hi>　商陸<hi>平/</hi>　澤瀉<hi>寒/</hi>　郁李仁<hi>平</hi>　海<lb/>
+藻<hi>寒</hi>　昆布<hi>寒/</hi>　苦<graphic n="KR0797" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0797.png" mimeType="image/png"/>
+                    <hi>寒/</hi>　赤小豆<hi>平/</hi>　𤓰蒂<hi>寒</hi>　鱧<lb/>
+<hi>音禮</hi>魚<hi>寒/</hi>　鯉魚<hi>寒/</hi>　大豆<hi>平/</hi>　蕘<hi>音/饒</hi>花<hi>寒微寒</hi>
+<pb n="KR3e0067_WYG_425-18a"/>
+　　　腸澼下痢<lb/>
+赤石脂<hi>大温</hi>　龍骨<hi>平微/寒</hi>　牡蠣<hi>平微/寒</hi>　乾薑<hi>温大熱</hi>　黄<lb/>
+連<hi>寒微寒</hi>　黄芩<hi>平微/寒</hi>　當歸<hi>温大/温</hi>　附子<hi>温大熱</hi>　禹餘<lb/>
+糧<hi>平寒</hi>　藜蘆<hi>寒微/寒</hi>　黄蘖<hi>寒/</hi>　芸實<hi>温/</hi>　礬石<hi>寒</hi>　阿<lb/>
+膠<hi>平微温</hi>　艾葉<hi>微/温</hi>　陟釐<hi>音离/大温</hi>　硫黄<hi>大/熱</hi>　烏梅<hi>平</hi>
+石榴皮<hi>平</hi>　枳實<hi>寒微/寒</hi>　牛角腮<hi>平/</hi>　地榆<hi>微寒</hi>　厚朴<lb/>
+<hi>温大温</hi>　白頭翁<hi>温/</hi>　栢葉<hi>平/</hi>　白蘘荷<hi>微/温</hi>　赤地利<hi>平</hi>
+　桃花石<hi>温</hi>　蠟<lb/>
+<pb n="KR3e0067_WYG_425-18b"/>
+　　　大便不通<lb/>
+朴消<hi>寒大寒</hi>　芒消<hi>大/寒</hi>　大㦸<hi>寒大/寒</hi>　檳榔<hi>温</hi>　牽牛子<lb/>
+<hi>寒</hi>　郁李仁<hi>平/</hi>　大黄<hi>寒大/寒</hi>　巴豆<hi>温生温/熟寒</hi>　蜜<hi>微温</hi>
+大麻子<hi>平</hi>　牛膽<hi>大/寒</hi>　豬膽<hi>微寒</hi>
+　　　小便淋<lb/>
+滑石<hi>寒大寒</hi>　冬葵子<hi>寒/</hi>　茅根<hi>寒/</hi>　蘧麥<hi>寒/</hi>　榆皮<hi>平</hi>
+　石韋<hi>平</hi>　葶<graphic n="KR0995" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0995.png" mimeType="image/png"/>
+                    <hi>寒大/寒</hi>　蒲黄<hi>平/</hi>　麻子<hi>平/</hi>　琥珀<hi>平</hi>
+　石蠶<hi>寒</hi>　蜥<hi>音/錫</hi>蜴<hi>音亦/寒</hi>　胡鷰糞<hi>平/</hi>　衣中白魚<hi>温</hi>
+<pb n="KR3e0067_WYG_425-19a"/>
+　亂髮<hi>微温</hi>　石鷰<hi>寒/</hi>　車前子<hi>寒/</hi>　木通<hi>平/</hi>　海蛤<hi>平</hi>
+　貝齒<hi>平</hi>　消石<hi>寒大/寒</hi>　黄芩<hi>平微/寒</hi>　冬葵根<hi>寒</hi>　豬<lb/>
+苓<hi>平</hi>
+　　　小便利<lb/>
+牡蠣<hi>平微寒</hi>　龍骨<hi>平微/寒</hi>　鹿茸<hi>温微/温</hi>　桑螵蛸<hi>平</hi>　漏<lb/>
+蘆<hi>寒大寒</hi>　土𤓰根<hi>寒/</hi>　雞肶胵<hi>微/寒</hi>　雞腸草<hi>微寒</hi>　山茱<lb/>
+茰<hi>平微温</hi>
+　　　溺血<lb/>
+<pb n="KR3e0067_WYG_425-19b"/>
+戎鹽<hi>寒</hi>　鹿茸<hi>温微/温</hi>　龍骨<hi>平微/温</hi>　蒲黄<hi>平</hi>　乾地黄<lb/>
+<hi>寒</hi>　牛膝<hi>平/</hi>　車前子<hi>寒/</hi>　栢子并葉<hi>平微寒</hi>
+　　　消渴<lb/>
+白石英<hi>微温</hi>　石膏<hi>微寒/大寒</hi>　茯神<hi>平/</hi>　麥門冬<hi>平微寒</hi>　黄<lb/>
+連<hi>寒微寒</hi>　知母<hi>寒/</hi>　<graphic n="KR0797" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0797.png" mimeType="image/png"/>
+                    <graphic n="KR0803" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0803.png" mimeType="image/png"/>根<hi>寒/</hi>　茅根<hi>寒/</hi>　枸杞根<hi>大寒</hi>
+　小麥<hi>微寒</hi>䈽竹葉<hi>平大/寒</hi>　土𤓰根<hi>寒/</hi>　葛根<hi>平</hi>　李<lb/>
+根<hi>寒</hi>　蘆根<hi>寒/</hi>　菰根<hi>大/寒</hi>　冬𤓰<hi>微/寒</hi>　馬乳<hi>冷</hi>　牛乳<lb/>
+<hi>微寒</hi>　羊乳<hi>温/</hi>　桑根白皮<hi>寒/</hi>　鉛丹<hi>微寒</hi>
+<pb n="KR3e0067_WYG_425-20a"/>
+　　　黄疸<lb/>
+茵陳<hi>平微寒</hi>　梔子<hi>寒大/寒</hi>　紫草<hi>寒/</hi>　白鮮皮　杜鼠<hi>微温</hi>
+　大黄<hi>寒大寒</hi>　𤓰蔕<hi>寒/</hi>　秦艽<hi>音膠/平</hi>　<graphic n="KR0797" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0797.png" mimeType="image/png"/>
+                    <graphic n="KR0803" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0803.png" mimeType="image/png"/>
+                    <hi>寒</hi>
+　　　上氣欬嗽<lb/>
+麻黄<hi>温微温</hi>　杏仁<hi>温/</hi>　白前<hi>微/温</hi>　陳橘皮　紫苑<hi>温</hi>
+桂心<hi>大熱</hi>　欵冬花<hi>温/</hi>　五味子<hi>温/</hi>　細辛<hi>温/</hi>　蜀椒<hi>温大</hi>
+<hi>熱</hi>　半夏<hi>生微/熱温</hi>　生薑<hi>微/温</hi>　桃仁<hi>平/</hi>　紫蘇子<hi>温</hi>　射<lb/>
+<hi>音夜</hi>干<hi>微/温</hi>　芫花根并花<hi>温微/温</hi>　百部根<hi>温大/熱</hi>　乾薑<hi>温大</hi>
+<pb n="KR3e0067_WYG_425-20b"/>
+<hi>熱</hi>　貝母<hi>平微/寒</hi>　皂莢<hi>温</hi>
+　　　肺萎<lb/>
+蒺藜子<hi>温微寒</hi>　人參<hi>微寒/微温</hi>　茯苓<hi>平/</hi>　天門冬<hi>平大寒</hi>
+麥門冬<hi>平大寒</hi>　豬蹄<hi>小/寒</hi>　白石英<hi>微/温</hi>　蛤蚧<hi>平</hi>　薏苡<lb/>
+仁<hi>微寒</hi>
+　　　嘔吐<lb/>
+厚朴<hi>温大温</hi>　陳橘皮<hi>温/</hi>　人參<hi>微寒/微温</hi>　半夏<hi>生微寒熟温</hi>
+麥門冬<hi>平微寒</hi>　生薑<hi>微/温</hi>　白芷<hi>温/</hi>　鉛丹<hi>微/寒</hi>　雞子<hi>微寒</hi>
+<pb n="KR3e0067_WYG_425-21a"/>
+　薤白<hi>温</hi>　甘竹葉<hi>平大/寒</hi>　附子<hi>温大熱</hi>
+　　　痰飲<lb/>
+大黄<hi>寒大寒</hi>　甘遂<hi>温大/寒</hi>　芒硝<hi>大/寒</hi>　茯苓<hi>平/</hi>　紫胡<hi>平微</hi>
+<hi>寒</hi>　前胡<hi>微/寒</hi>　术<hi>温/</hi>　細辛<hi>温/</hi>　旋復花<hi>微/温</hi>　厚朴<hi>温大</hi>
+<hi>温</hi>　人參<hi>微寒/微温</hi>　枳實<hi>寒微/寒</hi>　陳橘皮<hi>温/</hi>　半夏<hi>生微寒熟</hi>
+<hi>温</hi>　生薑<hi>微/温</hi>　甘竹葉<hi>平大/寒</hi>　蕘花<hi>寒微/寒</hi>　髙良薑<hi>大温</hi>
+　烏頭<hi>温大熱</hi>　芫花<hi>温大温</hi>
+　　　宿食<lb/>
+<pb n="KR3e0067_WYG_425-21b"/>
+大黄<hi>寒大寒</hi>　巴豆<hi>温生温/熟温</hi>　朴硝<hi>寒大/寒</hi>　柴胡<hi>平微寒</hi>
+术<hi>温</hi>　桔梗<hi>微/温</hi>　厚朴<hi>温大/温</hi>　皂莢<hi>温/</hi>　麴<hi>熱/</hi>　蘖<hi>温</hi>
+　檳榔<hi>温</hi>
+　　　腹脹滿<lb/>
+麝香<hi>温</hi>　甘草<hi>平/</hi>　人參<hi>微寒/微温</hi>　皂莢<hi>温/</hi>　术<hi>温</hi>　乾<lb/>
+薑<hi>温大熱</hi>　百合<hi>平/</hi>　厚朴<hi>温大/温</hi>　菴<hi>音/奄</hi>䕡<hi>音/閭</hi>子<hi>微寒微温</hi>
+枳實<hi>寒微寒</hi>　桑根白皮<hi>温/</hi>　大豆黄卷<hi>温/</hi>　旋復花<hi>微温</hi>
+香葇<hi>温</hi>　訶黎勒<hi>温/</hi>　草豆蔲　畢澄茄<hi>温</hi>
+<pb n="KR3e0067_WYG_425-22a"/>
+　　　心腹冷痛<lb/>
+當歸<hi>温大温</hi>　芍藥<hi>平微/寒</hi>　桔梗<hi>微/温</hi>　乾薑<hi>温大熱</hi>　桂心<lb/>
+<hi>大熱</hi>　蜀椒<hi>温大/熱</hi>　附子<hi>温大/熱</hi>　呉茱茰<hi>温大/熱</hi>　烏頭<hi>温大</hi>
+<hi>熱</hi>　甘草<hi>平/</hi>　礜石<hi>大熱生/温熟熱</hi>　术<hi>温/</hi>　戎鹽<hi>寒</hi>　芎藭<lb/>
+<hi>温</hi>　厚朴<hi>温大/温</hi>　小蒜<hi>温/</hi>　髙良薑<hi>大/温</hi>　蜂子<hi>平微寒</hi>
+肉豆冦<hi>温</hi>　蓬莪荗<hi>旬律切平</hi>
+　　　腸鳴<lb/>
+丹參<hi>微寒</hi>　海藻<hi>寒/</hi>　昆布<hi>寒/</hi>　半夏<hi>生微寒熟温</hi>
+<pb n="KR3e0067_WYG_425-22b"/>
+　　　心下滿急<lb/>
+茯苓<hi>平</hi>　枳實<hi>寒微/寒</hi>　半夏<hi>生微寒/熟温</hi>　术<hi>温/</hi>　生薑<hi>微温</hi>
+　百合<hi>平</hi>　青橘皮<hi>微/温</hi>　菴䕡子<hi>微寒/微温</hi>　杏仁<hi>温</hi>
+　　　虚冷氣<lb/>
+蓽茇<hi>音撥温</hi>　胡椒<hi>大/温</hi>　阿魏<hi>平/</hi>　呉茱茰<hi>温大熱</hi>　厚朴<lb/>
+<hi>温大温</hi>　桂心<hi>大/熱</hi>　木香<hi>温/</hi>　乾薑<hi>温大/熱</hi>　白豆蔲<hi>大温</hi>
+丁香<hi>温</hi>　术<hi>温/</hi>　京三稜<hi>平/</hi>　蓽澄茄<hi>温/</hi>　益智子<hi>温</hi>
+　髙良薑<hi>大温</hi>　訶黎勒<hi>温/</hi>　艾葉<hi>微温</hi>
+<pb n="KR3e0067_WYG_425-23a"/>
+　　　心煩<lb/>
+石膏<hi>微寒大寒</hi>　滑石<hi>寒大/寒</hi>　杏仁<hi>温/</hi>　梔子<hi>寒大寒</hi>　茯苓<lb/>
+<hi>平</hi>　貝母<hi>平微/寒</hi>　木通<hi>平/</hi>　李根<hi>微/寒</hi>　甘竹瀝<hi>大寒</hi>　烏<lb/>
+梅<hi>平</hi>　雞子<hi>微/寒</hi>　豉<hi>寒/</hi>　甘草<hi>平/</hi>　知母<hi>寒</hi>　王不留<lb/>
+行<hi>平</hi>　石龍芮<hi>平/</hi>　玉屑<hi>平/</hi>　酸棗仁<hi>平/</hi>　凝水石<hi>寒微</hi>
+<hi>寒</hi>
+　　　積聚癥瘕<lb/>
+空青<hi>寒大寒</hi>　芒硝<hi>大/寒</hi>　朴硝<hi>寒大/寒</hi>　硫黄<hi>大/熱</hi>　胡粉<hi>寒</hi>
+<pb n="KR3e0067_WYG_425-23b"/>
+　礜石<hi>大熱生温熟熱</hi>　大黄<hi>寒大/寒</hi>　狼毒<hi>平/</hi>　巴豆<hi>温生温熟寒</hi>
+　附子<hi>温大熱</hi>　烏頭<hi>温大/熱</hi>　苦參<hi>寒/</hi>　芫花<hi>温微温</hi>　柴<lb/>
+胡<hi>平微寒</hi>　鼈甲<hi>平/</hi>　蜈蚣<hi>温/</hi>　豬肚<hi>微/温</hi>　白馬溺<hi>微寒</hi>
+䰿<hi>音駝</hi>甲<hi>微/温</hi>　蜀漆<hi>平微/温</hi>　甘遂<hi>寒大/寒</hi>　貫衆<hi>微寒</hi>　京三<lb/>
+稜<hi>平</hi>
+　　　中惡<lb/>
+鬼箭<hi>寒</hi>　芍藥<hi>平微/寒</hi>　牛黄<hi>平/</hi>　雄黄<hi>平大/温</hi>　朱砂<hi>微寒</hi>
+　麝香<hi>温</hi>　芎藭<hi>温/</hi>　吳茱茰<hi>温大/熱</hi>　烏頭<hi>温大熱</hi>　當<lb/>
+<pb n="KR3e0067_WYG_425-24a"/>
+歸<hi>温大温</hi>　升麻<hi>平微/寒</hi>　桃梟<hi>微/温</hi>　葈耳<hi>松以切温微寒</hi>
+　桃皮<hi>平</hi>　桃膠<hi>平/</hi>　桔梗<hi>微/温</hi>　乾薑<hi>大熱</hi>
+　　　鬼疰<lb/>
+芫青<hi>微温</hi>　獺肝<hi>平微/寒</hi>　龍齒<hi>平微/寒</hi>　雷丸<hi>寒微寒</hi>　白鮮<lb/>
+皮<hi>寒</hi>　牛黄<hi>平/</hi>　鹽<hi>寒/</hi>蚱蟬<hi>音乍/音側</hi>　雄黄<hi>平大温</hi>　敗天<lb/>
+公<hi>平</hi>　鬼臼<hi>温微/寒</hi>　野葛<hi>温/</hi>　虎骨<hi>温</hi>　金牙　代赭<lb/>
+<hi>寒</hi>　安息香<hi>平</hi>
+　　　尸疰病<lb/>
+<pb n="KR3e0067_WYG_425-24b"/>
+鸛骨<hi>平</hi>　虎骨<hi>平/</hi>　麝香<hi>温/</hi>　狸骨<hi>温/</hi>　卷栢<hi>温平微寒</hi>
+野葛<hi>温</hi>　雄黄<hi>平大温</hi>
+　　　驚邪<lb/>
+雄黄<hi>平大温</hi>　硃砂<hi>微/寒</hi>　紫石英<hi>温/</hi>　茯神<hi>平/</hi>　龍膽<hi>寒大</hi>
+<hi>寒</hi>　龍齒<hi>平微/寒</hi>　防葵<hi>寒/</hi>　鬼臼<hi>温微/温</hi>　升麻<hi>平</hi>　麝<lb/>
+香<hi>温</hi>　人參<hi>微温/微寒</hi>　沙參<hi>微/寒</hi>　桔梗<hi>微/温</hi>　白薇<hi>平大温</hi>
+逺志<hi>温</hi>　栢子仁<hi>平/</hi>　鬼箭<hi>寒/</hi>　鬼督郵<hi>平/</hi>　小草<hi>温</hi>
+　卷栢<hi>温平微寒</hi>　紫苑<hi>温/</hi>　羚羊角<hi>温微/寒</hi>　䰿甲<hi>微温</hi>　丹<lb/>
+<pb n="KR3e0067_WYG_425-25a"/>
+雄雞<hi>微温微寒</hi>　犀角<hi>寒微/寒</hi>羚羊角<hi>温微/寒</hi>蚱<hi>音苲/音側</hi>蟬<hi>寒/</hi>茯苓<hi>平</hi>
+　　　驚悸<lb/>
+硃砂<hi>微寒</hi>　人參<hi>微寒/微温</hi>　茯神<hi>平/</hi>　龍齒<hi>平微/寒</hi>　栢實<hi>平</hi>
+　沙參<hi>微寒</hi>　<graphic n="KR1489" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1489.png" mimeType="image/png"/>羊角<hi>温微/寒</hi>　桔梗<hi>微/温</hi>　逺志<hi>温</hi>　銀屑<lb/>
+　紫石英<hi>温</hi>　金屑<hi>平</hi>
+　　　癲癎<lb/>
+龍齒角<hi>平微寒</hi>　牛黄<hi>平/</hi>　防葵<hi>寒/</hi>　牡丹<hi>寒微寒</hi>　白歛<lb/>
+<hi>平微寒</hi>　莨菪子<hi>温/</hi>　雷丸<hi>寒微/寒</hi>　釣藤<hi>微/寒</hi>　白殭蠶<hi>平</hi>
+<pb n="KR3e0067_WYG_425-25b"/>
+　蛇床<hi>平</hi>　蛇蛻<hi>平/</hi>　蜣蜋<hi>寒/</hi>　白馬目<hi>平/</hi>　鉛丹<hi>微寒</hi>
+　蚱蟬<hi>寒</hi>　白狗血<hi>温/</hi>　豚蹄<hi>温/</hi>　豬牛犬等齒<hi>平</hi>
+銀屑<hi>平</hi>　升麻<hi>平微/寒</hi>　露蜂房<hi>平/</hi>　虵啣<hi>温/</hi>　熊膽<hi>寒</hi>
+　雀甕<hi>平</hi>
+　　　喉痺病<lb/>
+升麻<hi>平微寒</hi>　射干<hi>平微/寒</hi>　杏仁<hi>温/</hi>　棘針<hi>寒</hi>　蒺藜子<lb/>
+<hi>温微寒</hi>　絡石<hi>温微/寒</hi>　百合<hi>平/</hi>　䈽竹葉<hi>平大/寒</hi>　莽草<hi>温</hi>
+　苦竹葉<hi>大寒</hi>
+<pb n="KR3e0067_WYG_425-26a"/>
+　　　噎病<lb/>
+羚羊角<hi>温微寒</hi>　木通<hi>平/</hi>　青竹茹<hi>音如/微寒</hi>　頭垢<hi>微寒</hi>　蘆<lb/>
+根<hi>寒</hi>　牛齝<hi>丑之/切平</hi>　舂杵細糖<hi>平</hi>
+　　　骨鯁<lb/>
+狸頭骨<hi>温</hi>　獺骨<hi>平/</hi>　鸕□骨<hi>平微/寒</hi>　獺足<hi>平</hi>
+　　　齒痛<lb/>
+當歸<hi>温大温</hi>　獨活<hi>㣲/温</hi>　細辛<hi>温/</hi>　蜀椒<hi>温大/熱</hi>　芎藭<hi>温</hi>
+　附子<hi>温大熱</hi>　莽草<hi>温/</hi>　礜石<hi>寒/</hi>　蛇床子<hi>平</hi>　生地<lb/>
+<pb n="KR3e0067_WYG_425-26b"/>
+黄<hi>大寒</hi>　莨菪子<hi>温/</hi>　雞舌香<hi>微/温</hi>　車下李根<hi>平</hi>　馬懸<lb/>
+蹄<hi>平</hi>　雄雀糞<hi>温</hi>
+　　　口瘡<lb/>
+黄連<hi>寒微寒</hi>　黄蘖<hi>寒/</hi>　龍膽<hi>寒大/寒</hi>　升麻<hi>平微寒</hi>　大青<lb/>
+<hi>大寒</hi>　苦竹葉<hi>大/寒</hi>　蜜<hi>平微/温</hi>　酪<hi>寒/</hi>　酥<hi>微/寒</hi>　䜴<hi>寒</hi>
+　　　吐唾血<lb/>
+羚羊角<hi>温微寒</hi>　鹿角膠<hi>平/温</hi>　戎鹽<hi>寒/</hi>　栢葉　艾葉<hi>微温</hi>
+　雞酥<hi>微温</hi>　生地黄<hi>大/寒</hi>　刺薊<hi>温/</hi>　蠐螬<hi>微寒微温</hi>　飴糖<lb/>
+<pb n="KR3e0067_WYG_425-27a"/>
+<hi>微温</hi>　伏龍肝<hi>微/温</hi>　牛膝<hi>平/</hi>　馬通<hi>微/温</hi>　桑根白皮<hi>寒</hi>
+　　　鼻衂血<lb/>
+礜石<hi>寒</hi>　蒲黄<hi>平/</hi>　天名精<hi>寒/</hi>　刺薊<hi>温/</hi>　雞蘇<hi>微温</hi>
+弱葉<hi>微温</hi>　桑耳<hi>平/</hi>　竹茹<hi>微/寒</hi>　蝟皮<hi>平/</hi>　溺垽<hi>平</hi>　藍<lb/>
+<hi>大寒</hi>　狗膽<hi>平/</hi>　亂髪<hi>温/</hi>　生地黄<hi>大寒</hi>
+　　　鼻齆<lb/>
+木通<hi>平</hi>　細辛<hi>温/</hi>　桂心<hi>大/熱</hi>　𬎼仁<hi>温微/寒</hi>　莾草<hi>平</hi>
+𤓰蒂<hi>寒</hi>
+<pb n="KR3e0067_WYG_425-27b"/>
+　　　耳聾<lb/>
+磁石<hi>寒</hi>　菖蒲<hi>温/</hi>　葱涕<hi>平/温</hi>　雀腦<hi>平/</hi>　白鵝膏<hi>微寒</hi>
+鯉魚腦<hi>寒</hi>　絡石<hi>温微/寒</hi>　白頸地龍<hi>寒微/寒</hi>　烏雞骨<hi>平</hi>
+　土𤓰根<hi>寒</hi>　龍腦<hi>微寒</hi>
+　　　鼻瘜□肉<lb/>
+藜蘆<hi>寒微寒</hi>　礬石<hi>寒/</hi>　木通<hi>平/</hi>　地膽<hi>平/</hi>　白狗膽<hi>平</hi>
+　雄黄<hi>平大温</hi>　礜石<hi>大熱生温熟熱</hi>
+　　　目赤熱痛<lb/>
+<pb n="KR3e0067_WYG_425-28a"/>
+黄連<hi>寒微寒</hi>　𬎼仁<hi>温微/寒</hi>　石膽<hi>寒/</hi>　空青<hi>寒大寒</hi>　曾青<lb/>
+<hi>小寒</hi>　决明<hi>平微/寒</hi>　黄蘖<hi>寒/</hi>　梔子<hi>寒大/寒</hi>　薺子<hi>温</hi>　苦<lb/>
+竹葉<hi>大寒</hi>　雞子白<hi>微寒/平</hi>　鯉魚膽<hi>寒/</hi>　田中螺<hi>大寒</hi>　車<lb/>
+前<hi>寒</hi>　秦皮<hi>微寒/大寒</hi>　菥<hi>音/錫</hi>蓂<hi>音/覔</hi>子<hi>微温</hi>
+　　　目膚翳<lb/>
+秦皮<hi>微寒大寒</hi>　細辛<hi>温/</hi>　真珠<hi>寒/</hi>　貝齒<hi>平/</hi>　石决明<hi>平</hi>
+　麝香<hi>温</hi>　鬼臼<hi>温微/温</hi>　伏翼<hi>平</hi>　青羊膽　蠐螬汁<lb/>
+<hi>微温微寒</hi>　兔絲子<hi>平/</hi>　珊瑚<hi>平</hi>
+<pb n="KR3e0067_WYG_425-28b"/>
+　　　明目<lb/>
+車前子<hi>微寒</hi>　栢子仁<hi>平/</hi>　細辛<hi>温/</hi>　菥蓂子<hi>微温</hi>　秦椒<lb/>
+<hi>生温熟寒</hi>　地膚子<hi>寒/</hi>　决明子<hi>平微/温</hi>　蔓荆子<hi>微温微寒</hi>　烏<lb/>
+雄雞<hi>微寒</hi>　羚羊角<hi>温微/寒</hi>　青羊膽<hi>温/</hi>　螢火<hi>㣲温</hi>　鯉魚<lb/>
+膽<hi>寒</hi>　空青<hi>寒/</hi>　蕪青子<hi>温/</hi>　龍腦<hi>微/温</hi>　莧實<hi>寒大寒</hi>
+茺蔚子<hi>微温微寒</hi>　伏翼<hi>平</hi>
+　　　通聲<lb/>
+菖蒲<hi>温</hi>　鍾乳<hi>温/</hi>　孔公孽<hi>温/</hi>　皂莢<hi>温/</hi>　苦竹葉<hi>寒</hi>
+<pb n="KR3e0067_WYG_425-29a"/>
+　麻油<hi>微寒</hi>　木通<hi>平</hi>
+　　　面皯皰<lb/>
+兔絲子<hi>平</hi>　麝香<hi>温/</hi>　熊脂<hi>微寒/微温</hi>　葳𬎼<hi>平/</hi>　藁本<hi>微寒</hi>
+<hi>微温</hi>　木䦨皮<hi>寒/</hi>　梔子<hi>寒大/寒</hi>　紫草<hi>寒/</hi>　冬𤓰子<hi>平寒</hi>
+白殭蠶<hi>平</hi>　蜀水花<hi>平/</hi>　白附子<hi>平</hi>
+　　　髮秃落<lb/>
+桑上寄生<hi>平</hi>　秦椒<hi>生温/熟寒</hi>　蔓荆子<hi>微寒微温</hi>　桑根白皮<lb/>
+<hi>寒</hi>　麻子仁<hi>平/</hi>　桐葉<hi>寒/</hi>　猪膏<hi>微/寒</hi>　鴈肪<hi>平</hi>　馬鬐<lb/>
+<pb n="KR3e0067_WYG_425-29b"/>
+膏<hi>微寒</hi>　松葉<hi>温/</hi>　雞肪<hi>微温/微寒</hi>　棗根<hi>温/平</hi>　浮萍草<hi>寒</hi>
+蓮子草<hi>平寒</hi>
+　　　㓕瘢<lb/>
+鷹糞白<hi>平</hi>　白殭蠶　衣中白魚<hi>温/</hi>　白附子<hi>平</hi>　蜜<lb/>
+陀僧<hi>平</hi>
+　　　金瘡<lb/>
+石膽<hi>寒</hi>　薔薇<hi>温微/寒</hi>　地榆<hi>微/寒</hi>　艾葉<hi>微温</hi>　王不留行<lb/>
+<hi>平</hi>　白頭翁<hi>温/</hi>　釣樟根<hi>平/</hi>　水楊花<hi>寒/</hi>　石灰<hi>温</hi>
+<pb n="KR3e0067_WYG_425-30a"/>
+狗頭骨<hi>平</hi>　　桑根白皮<hi>寒/</hi>　突厥白<hi>寒</hi>
+　　　踒折<lb/>
+社鼠<hi>微温</hi>　生龜<hi>平/</hi>　　生地黄<hi>大/寒</hi>　烏雄雞血<hi>平</hi>　烏雞<lb/>
+骨<hi>平</hi>　李核仁<hi>平/</hi>　　無名異<hi>平/</hi>　自然銅<hi>平</hi>
+　　　瘀血<lb/>
+蒲黄<hi>平</hi>　琥珀<hi>平/</hi>　　羚羊角<hi>温微/寒</hi>　牛膝<hi>平/</hi>　大黄<hi>寒大</hi>
+<hi>寒</hi>　乾大黄<hi>寒/</hi>　　朴硝<hi>寒微/寒</hi>　紫參<hi>寒微/寒</hi>　桃仁<hi>平</hi>
+虎杖<hi>微温</hi>　茅根<hi>寒/</hi>　　䗪<hi>音/柘</hi>蟲<hi>寒/</hi>　䖟蟲<hi>微/寒</hi>　水蛭<hi>平微寒</hi>
+<pb n="KR3e0067_WYG_425-30b"/>
+　蜚蠊<hi>音亷寒</hi>　牡丹<hi>寒微/寒</hi>　菴䕡子<hi>微寒/微温</hi>　天明精<hi>寒</hi>
+　　　火灼<lb/>
+栢白皮<hi>微寒</hi>　胡麻<hi>平/</hi>　鹽<hi>寒/</hi>　豆醬<hi>冷/</hi>　井底泥<hi>寒</hi>
+醋<hi>温</hi>　黄芩<hi>平大/寒</hi>　牛膝<hi>平/</hi>　梔子<hi>寒大寒</hi>
+　　　癰疽<lb/>
+絡石<hi>温微寒</hi>　黄耆<hi>微/温</hi>　白歛<hi>平微/温</hi>　烏喙<hi>許穢切微温</hi>　木<lb/>
+通<hi>平</hi>　敗醬<hi>平微/寒</hi>　白芨<hi>平微/寒</hi>大黄<hi>寒大/寒</hi>半夏<hi>生微寒熟温</hi>𤣥參<lb/>
+<hi>微寒</hi>　薔薇<hi>温微/寒</hi>　鹿角<hi>温微/温</hi>　蝦蟆<hi>寒/</hi>　土蜂房<hi>平</hi>
+<pb n="KR3e0067_WYG_425-31a"/>
+伏龍肝<hi>微温</hi>　甘蔗根<hi>大/寒</hi>　升麻<hi>平微寒</hi>
+　　　惡瘡<lb/>
+雌黄<hi>平大温</hi>　雄黄<hi>平大/寒</hi>　胡粉<hi>寒/</hi>　硫黄<hi>温大熱</hi>　礬石<lb/>
+<hi>寒</hi>　　松脂<hi>温/</hi>　虵床子<hi>平/</hi>　地榆<hi>微/寒</hi>　水銀<hi>寒</hi>　虵<lb/>
+<graphic n="KR0742" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0742.png" mimeType="image/png"/>
+                    <hi>温</hi>　白歛<hi>平微/寒</hi>　漏蘆<hi>寒大/寒</hi>　黄蘗<hi>寒/</hi>　占斯<hi>温</hi>
+雚菌<hi>微温</hi>　莽草<hi>温/</hi>　青葙子<hi>微/寒</hi>　白芨<hi>平微/寒</hi>　楝<hi>音練</hi>實<lb/>
+<hi>寒</hi>　防己<hi>平/</hi>　狼跂<hi>寒/</hi>　桐葉<hi>寒/</hi>　虎骨<hi>平/</hi>　豬肚<hi>微温</hi>
+　䕡茹<hi>寒微寒</hi>　藜蘆<hi>寒微/寒</hi>　石灰<hi>温/</hi>　狸骨<hi>温</hi>　敗醬<lb/>
+<pb n="KR3e0067_WYG_425-31b"/>
+　馬鞭草<hi>平</hi>
+　　　漆瘡<lb/>
+蟹<hi>寒</hi>　茱茰皮<hi>温大/寒</hi>　苦芺<hi>烏老切/微寒</hi>　雞子白<hi>微寒</hi>　䑕<lb/>
+粘<hi>微温</hi>　井中苔萍<hi>大/寒</hi>　秫米<hi>微/寒</hi>　芒硝<hi>大/寒</hi>　黄櫨木<hi>微寒</hi>
+　杉木<hi>微温</hi>
+　　　癭瘤<lb/>
+小麥<hi>微寒</hi>　海藻<hi>寒/</hi>　昆布<hi>寒/</hi>　文蛤<hi>平/</hi>　半夏<hi>生微寒熟温</hi>
+　貝母<hi>平微寒</hi>　木通<hi>平/</hi>　松羅<hi>平/</hi>　連翹<hi>平</hi>　白頭翁<lb/>
+<pb n="KR3e0067_WYG_425-32a"/>
+<hi>温</hi>　海蛤<hi>平/</hi>　生薑<hi>微温</hi>
+　　　瘻瘡<lb/>
+雄黄<hi>平大寒</hi>　礜石<hi>大熱生/温熟熱</hi>　恒山<hi>寒微/寒</hi>　狼毒<hi>平</hi>　側<lb/>
+子<hi>大熱</hi>　連翹<hi>平/</hi>　昆布<hi>寒/</hi>　狸骨<hi>温/</hi>　王不留行<hi>平</hi>
+斑猫<hi>寒</hi>　地膽<hi>寒/</hi>　鼈甲<hi>平/</hi>　蝦蟆<hi>寒/</hi>　漏蘆<hi>寒大寒</hi>
+虵<graphic n="KR0742" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0742.png" mimeType="image/png"/>
+                    <hi>温</hi>　礬石<hi>寒</hi>
+　　　五痔<lb/>
+桐葉<hi>寒</hi>　萹蓄<hi>平/</hi>　蝟皮<hi>平/</hi>　豬懸蹄<hi>平/寒</hi>　黄耆<hi>微温</hi>
+<pb n="KR3e0067_WYG_425-32b"/>
+槐實<hi>寒</hi>　槐鵝<hi>微/寒</hi>　栢葉<hi>平/</hi>　艾葉<hi>微/温</hi>　赤石脂<hi>大温</hi>
+龜甲<hi>平</hi>　鼈甲<hi>平</hi>
+　　　脱肛<lb/>
+鼈頭<hi>平</hi>　卷栢<hi>温平/微寒</hi>　鉄精<hi>微/温</hi>　東壁土<hi>平/</hi>　蝸牛<hi>寒</hi>
+　生鉄<hi>微寒</hi>
+　　　<graphic n="KR4513" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4513.png" mimeType="image/png"/>瘡<lb/>
+青葙子<hi>微寒</hi>　苦参<hi>寒/</hi>　蚺<hi>音/髯</hi>虵膽<hi>寒/</hi>　蝮虵膽<hi>寒</hi>　大<lb/>
+蒜<hi>温</hi>　戎鹽<hi>寒/</hi>　艾葉<hi>微/寒</hi>　馬鞭草<hi>平</hi>
+<pb n="KR3e0067_WYG_425-33a"/>
+　　　蛇蟲<lb/>
+薏苡根<hi>平</hi>　雚<hi>音/指</hi>菌<hi>音郡平/微温</hi>　乾漆<hi>温/</hi>　楝根<hi>微寒</hi>　茱<lb/>
+茰根<hi>温大熱</hi>　艾葉<hi>微/温</hi>　石榴皮<hi>平/</hi>　鶴虱<hi>平/</hi>　檳榔<hi>温</hi>
+　龍膽<hi>寒大寒</hi>
+　　　寸白<lb/>
+檳榔<hi>温</hi>　蕪荑<hi>平/</hi>　貫衆<hi>微/寒</hi>　狼牙<hi>寒/</hi>　雷丸<hi>寒微寒</hi>
+青葙子<hi>微寒</hi>　青橘皮<hi>微/温</hi>　吳茱茰根<hi>温大/熱</hi>　石榴根<hi>平</hi>
+　榧子<hi>音匪平</hi>
+<pb n="KR3e0067_WYG_425-33b"/>
+　　　虚勞<lb/>
+硃砂<hi>微寒</hi>　空青<hi>寒大/寒</hi>　鍾乳<hi>温/</hi>　紫石英<hi>温</hi>　白石<lb/>
+<hi>微温</hi>　磁石<hi>寒/</hi>　龍骨<hi>平微/寒</hi>　茯苓<hi>平/</hi>　黄耆<hi>微温</hi>　乾地<lb/>
+黄<hi>寒</hi>　茯神<hi>平/</hi>　天門冬<hi>平大/寒</hi>　薯蕷<hi>温/平</hi>　石斛<hi>平</hi>
+沙參<hi>微寒</hi>　人參<hi>微温/微寒</hi>　𤣥參<hi>微/寒</hi>　五味子<hi>温</hi>　肉蓯蓉<lb/>
+<hi>微温</hi>　續斷<hi>微/温</hi>　澤瀉<hi>寒/</hi>　牡丹<hi>寒微/寒</hi>　芍藥<hi>平微寒</hi>　牡<lb/>
+桂<hi>温</hi>　逺志<hi>温/</hi>　當歸<hi>温大/温</hi>　牡蠣<hi>平微/寒</hi>　五加皮<hi>温微</hi>
+<hi>寒</hi>　棘刺<hi>寒/</hi>　覆盆子<hi>平/</hi>　巴㦸<hi>微/温</hi>　牛膝<hi>平</hi>　杜仲<lb/>
+<pb n="KR3e0067_WYG_425-34a"/>
+<hi>平温</hi>　栢子仁<hi>平/</hi>　桑螵蛸<hi>平/</hi>　石龍芮<hi>平/</hi>　石楠<hi>平</hi>
+桑根白皮<hi>寒</hi>　地榆子<hi>寒/</hi>　車前子<hi>寒/</hi>　麥門冬<hi>平微寒</hi>
+　乾漆<hi>温</hi>　兔絲子<hi>平/</hi>　虵床子<hi>平/</hi>　枸杞子<hi>微寒</hi>　大<lb/>
+棗<hi>平</hi>　麻子<hi>平/</hi>　胡麻<hi>平/</hi>　枸杞根<hi>寒大寒</hi>
+　　　陰萎<lb/>
+白石英<hi>微温</hi>　陽起石<hi>微/温</hi>　巴㦸<hi>微/温</hi>　肉蓯蓉<hi>微温</hi>　五味<lb/>
+子<hi>温</hi>　虵床子<hi>平/</hi>　地膚子<hi>寒/</hi>　鐵精<hi>微/温</hi>　白馬莖<hi>平</hi>
+　兔絲子<hi>平</hi>　原蠶蛾<hi>熱/温</hi>　狗陰莖<hi>平/</hi>　雀卯<hi>温</hi>　天<lb/>
+<pb n="KR3e0067_WYG_425-34b"/>
+雄<hi>温大温</hi>　覆盆子<hi>平/</hi>　石楠<hi>平/</hi>　山茱茰<hi>平微温</hi>
+　　　陰㿉<lb/>
+海藻<hi>寒</hi>　鐵精<hi>微/温</hi>　狸陰莖<hi>温/</hi>　狐陰莖<hi>微/寒</hi>　蜘蛛<hi>寒</hi>
+　蒺藜子<hi>温微寒</hi>　䑕隂<hi>平</hi>
+　　　囊濕<lb/>
+五加皮<hi>温微寒</hi>　槐皮<hi>微/寒</hi>　黄蘖<hi>寒/</hi>　虎掌<hi>微温</hi>　菴䕡子<lb/>
+<hi>微寒微温</hi>　虵床子<hi>平/</hi>　牡蠣<hi>平微寒</hi>
+　　　洩精<lb/>
+<pb n="KR3e0067_WYG_425-35a"/>
+韮子<hi>温</hi>　龍骨<hi>平微/寒</hi>　鹿茸<hi>温微/温</hi>　牡蠣<hi>平微寒</hi>　小草<lb/>
+<hi>温</hi>　桑螵蛸<hi>平/</hi>　車前子葉<hi>寒/</hi>　澤瀉<hi>寒/</hi>　石橊皮<hi>平</hi>
+　鹿獐骨<hi>微温</hi>　兔絲子<hi>平/</hi>　棘刺<hi>寒/</hi>　鍾乳<hi>温</hi>
+　　　好眠<lb/>
+木通<hi>平</hi>　孔公蘖<hi>温/</hi>　馬頭骨<hi>微/寒</hi>　牡䑕目<hi>平</hi>　茶茗<lb/>
+<hi>微寒</hi>　沙參<hi>微寒</hi>
+　　　不得眠<lb/>
+酸棗仁<hi>平</hi>　榆葉<hi>平/</hi>　細辛<hi>温/</hi>　乳香<hi>温</hi>
+<pb n="KR3e0067_WYG_425-35b"/>
+　　　腰痛<lb/>
+杜仲<hi>平温</hi>　<graphic n="KR1181" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1181.png" mimeType="image/png"/>薢<hi>平/</hi>　狗脊<hi>平微/温</hi>　梅實<hi>平/</hi>　鼈甲<hi>平</hi>
+五加皮<hi>温微寒</hi>　菝<hi>滿八/切</hi>葜<hi>苦轄切/平温</hi>　爵床<hi>寒/</hi>　牛膝<hi>平</hi>
+　鹿茸<hi>温微温</hi>　附子<hi>温大/熱</hi>　鹿角膠<hi>平/温</hi>　續斷<hi>微温</hi>　烏<lb/>
+喙<hi>許穢切微温</hi>
+　　　諸疼痛<lb/>
+當歸<hi>温大温</hi>　菴䕡子<hi>微寒/微温</hi>　芎藭<hi>温/</hi>　續斷<hi>微温</hi>　骨碎<lb/>
+補<hi>温</hi>　沒藥<hi>平/</hi>　質汗<hi>温</hi>　芍藥<lb/>
+<pb n="KR3e0067_WYG_425-36a"/>
+　　　血氣<lb/>
+乾地黄<hi>寒</hi>　延胡索<hi>温/</hi>　蒲黄<hi>平/</hi>　荷葉<hi>平/寒</hi>　艾葉<hi>微温</hi>
+　大黄<hi>寒大寒</hi>　騏驎竭<hi>平/</hi>　米醋<hi>温/</hi>　桑耳<hi>平</hi>　當歸<lb/>
+<hi>温大温</hi>　牛角腮<hi>平/</hi>　藕<hi>平/寒</hi>　紅藍花<hi>温/</hi>　白歛末<hi>平</hi>
+薑黄<hi>大寒</hi>　質汗<hi>温/</hi>　芎藭<hi>温/</hi>　劉寄奴<hi>温/</hi>　桂<hi>大熱</hi>　桃<lb/>
+仁<hi>平</hi>　芍藥<hi>平微/寒</hi>　牡丹<hi>寒微寒</hi>
+　　　崩中<lb/>
+石膽<hi>寒</hi>　禹餘糧<hi>平/寒</hi>　赤石脂<hi>大/温</hi>　代赭<hi>寒/</hi>　牡蠣<hi>平微</hi>
+<pb n="KR3e0067_WYG_425-36b"/>
+<hi>寒</hi>　龍骨<hi>平微/寒</hi>　蒲黄<hi>平/</hi>　白殭蠶<hi>平/</hi>　牛角腮<hi>平</hi>
+烏賊魚骨<hi>微寒</hi>　紫葳<hi>微/寒</hi>　桑耳<hi>平/</hi>　生地黄<hi>大寒</hi>　黄蘖<lb/>
+<hi>寒</hi>　茅根<hi>寒/</hi>　艾葉<hi>微/温</hi>　鮀甲<hi>微/温</hi>　馬蹄甲<hi>平</hi>　鹿茸<lb/>
+膠<hi>温平</hi>　阿膠<hi>平微/寒</hi>　丹雄雞<hi>微温/微寒</hi>　鬼箭<hi>寒/</hi>　鹿茸<hi>温微</hi>
+<hi>温</hi>　刺薊根<hi>温/</hi>　馬通<hi>微/温</hi>　伏龍肝<hi>微/温</hi>　乾地黄<hi>寒</hi>
+栢葉<hi>平</hi>　續斷<hi>微/温</hi>　地榆<hi>微寒</hi>
+　　　月閉<lb/>
+鼠婦<hi>温微寒</hi>蛭蟲<hi>寒/</hi>　水蛭<hi>平微/寒</hi>　蠐螬<hi>微温/微寒</hi>　桃仁<hi>平</hi>
+<pb n="KR3e0067_WYG_425-37a"/>
+　狸陰莖<hi>温</hi>　土𤓰根<hi>寒/</hi>　牡丹<hi>寒微/寒</hi>　牛膝<hi>平</hi>　占<lb/>
+斯<hi>温</hi>　虎杖<hi>微/温</hi>　陽起石<hi>微/温</hi>　桃毛<hi>平/</hi>　白堊<hi>烏恪切温</hi>
+銅鏡鼻<hi>平</hi>　䖟蟲<hi>微/寒</hi>　菴䕡子<hi>微寒/微温</hi>　卷栢<hi>平温微寒</hi>　乾<lb/>
+漆<hi>温</hi>　大黄<hi>寒大/寒</hi>　茅根<hi>寒</hi>
+　　　無子<lb/>
+紫石英<hi>温</hi>　鍾乳<hi>温/</hi>　陽起石<hi>微/温</hi>　紫葳<hi>微寒</hi>　桑螵蛸<lb/>
+<hi>平</hi>　艾葉<hi>微/温</hi>　秦皮<hi>微寒/大寒</hi>　卷栢<hi>温平微寒</hi>
+　　　安胎<lb/>
+<pb n="KR3e0067_WYG_425-37b"/>
+紫葳<hi>微寒</hi>　鹿角膠<hi>平/温</hi>　桑寄生<hi>平/</hi>　鯉魚<hi>寒</hi>　烏雌雞<lb/>
+<hi>温</hi>　葱白<hi>平/</hi>　阿膠<hi>平微寒</hi>
+　　　墮胎<lb/>
+雄黄<hi>平大温</hi>　雌黄<hi>平大/寒</hi>　水銀<hi>寒/</hi>　胡粉<hi>寒/</hi>　朴硝<hi>寒大</hi>
+<hi>寒</hi>　飛生蟲<hi>平/</hi>　□疏<hi>寒微/寒</hi>　大㦸<hi>寒大/寒</hi>　巴豆<hi>温生温熟</hi>
+<hi>寒</hi>　野葛<hi>温/</hi>　牛黄<hi>平/</hi>　䔧蘆<hi>寒微/寒</hi>　牡丹<hi>寒微寒</hi>　牛<lb/>
+膝<hi>平</hi>　槐子<hi>寒/</hi>　桂心<hi>大/熱</hi>　皂莢<hi>温/</hi>　䕡茹<hi>寒微寒</hi>　羊<lb/>
+躑躅<hi>温</hi>　鬼箭<hi>寒/</hi>　薏苡仁<hi>微/寒</hi>　蘧麥<hi>寒/</hi>　附子<hi>温大熱</hi>
+<pb n="KR3e0067_WYG_425-38a"/>
+　天雄<hi>温大温</hi>　烏頭<hi>温大/熱</hi>　烏喙<hi>微/温</hi>　側子<hi>大熱</hi>　蜈蚣<lb/>
+<hi>温</hi>　地膽<hi>寒/</hi>　斑猫<hi>寒/</hi>　芫青<hi>微/温</hi>　葛上亭長<hi>微温</hi>　水<lb/>
+蛭<hi>平微寒</hi>　䖟蟲<hi>微/寒</hi>　䗪蟲<hi>寒/</hi>　蠐螬<hi>微温/微寒</hi>　蝟皮<hi>平</hi>
+蜥蝪<hi>寒</hi>　虵蜕<hi>平/</hi>　蟹爪<hi>寒/</hi>　芒硝<hi>大/寒</hi>　蕘花<hi>寒微寒</hi>
+麝香<hi>温</hi>　蚱蟬<hi>寒/</hi>　代赭<hi>寒/</hi>　狼牙<hi>寒/</hi>　射罔<hi>温大熱</hi>
+生鼠<hi>微温</hi>　桃仁<hi>平/</hi>　附子<hi>温大/熱</hi>　虎掌<hi>温微/寒</hi>　鬼臼<hi>温微</hi>
+<hi>温</hi>　狼毒<hi>平/</hi>　土𤓰根<hi>寒/</hi>　半夏<hi>生微寒/熟温</hi>　硇砂<hi>大熱</hi>
+螻蛄<hi>寒</hi>　莽草<hi>温</hi>
+<pb n="KR3e0067_WYG_425-38b"/>
+　　　難產<lb/>
+槐子<hi>寒</hi>　桂心<hi>大/熱</hi>　滑石<hi>寒大/寒</hi>　貝母<hi>平微寒</hi>　蒺藜子<lb/>
+<hi>温微寒</hi>　皂莢<hi>温/</hi>　酸漿<hi>平/寒</hi>　蚱蟬<hi>寒/</hi>　生鼠肝<hi>平</hi>　烏<lb/>
+雄雞肝血<hi>温</hi>　弓弩絃<hi>平/</hi>　馬<graphic n="KR0742" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0742.png" mimeType="image/png"/>
+                    <hi>平/</hi>　敗醬<hi>平微寒</hi>　榆<lb/>
+皮<hi>平</hi>　虵蜕　冬葵子<hi>寒/</hi>　兔頭<hi>平/</hi>　海馬<hi>寒</hi>　伏龍<lb/>
+肝<hi>温</hi>　飛生蟲<hi>温</hi>
+　　　產後腹痛<lb/>
+羖羊角<hi>温微寒</hi>　大豆<hi>平/</hi>　秦椒<hi>生温/熟寒</hi>　羚羊角<hi>寒微寒</hi>
+<pb n="KR3e0067_WYG_425-39a"/>
+紅藍花<hi>温</hi>　乾地黄<hi>寒/</hi>　當歸<hi>温大/温</hi>　豉<hi>寒/</hi>　芍藥<hi>平微</hi>
+<hi>寒</hi>　地榆<hi>微/寒</hi>　澤闌<hi>微温</hi>
+　　　下乳汁<lb/>
+鍾乳<hi>温</hi>　漏蘆<hi>寒大/寒</hi>　蠐螬<hi>微温/微寒</hi>　<graphic n="KR0797" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0797.png" mimeType="image/png"/>
+                    <hi>音/括</hi>
+                    <graphic n="KR0803" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0803.png" mimeType="image/png"/>
+                    <hi>音婁寒</hi>　土<lb/>
+𤓰根<hi>寒</hi>　豬四足<hi>小/寒</hi>　冬葵子<hi>寒/</hi>　木通<hi>平</hi>　狗四足<lb/>
+<hi>平</hi>
+　　　中蠱<lb/>
+桔梗<hi>微温</hi>　鬼臼<hi>温微/温</hi>　犀角<hi>寒微/寒</hi>　斑猫<hi>寒/</hi>　芫青<hi>微温</hi>
+<pb n="KR3e0067_WYG_425-39b"/>
+　葛上亭長<hi>微温</hi>　射罔<hi>温大/熱</hi>　鬼督郵<hi>平/</hi>　白蘘荷<hi>微温</hi>
+　敗鼓皮<hi>平</hi>　藍子<hi>寒/</hi>　羖羊角<hi>温微寒</hi>
+　　　出汗<lb/>
+麻黄<hi>温微温</hi>　葱白<hi>平/</hi>　乾姜<hi>温大/熱</hi>　葛根<hi>平/</hi>　石膏<hi>微寒</hi>
+<hi>大寒</hi>　貝母<hi>平微/寒</hi>　吳茱茰<hi>温微/温</hi>　桂心<hi>大/熱</hi>　附子<hi>温大熱</hi>
+　豉<hi>寒</hi>　生薑<hi>微/温</hi>　薄荷<hi>温/</hi>　蜀椒<hi>温大熱</hi>
+　　　止汗<lb/>
+麻黄根<hi>微寒</hi>　半夏<hi>生微寒/熟温</hi>　牡蠣<hi>平微/寒</hi>　杜仲<hi>平温</hi>　枳<lb/>
+<pb n="KR3e0067_WYG_425-40a"/>
+實<hi>寒微寒</hi>　松羅<hi>平</hi>
+　　　吐藥<lb/>
+恒山<hi>寒微寒</hi>　松羅<hi>平/</hi>　烏梅<hi>平/</hi>　鹽<hi>寒/</hi>　砒霜<hi>平</hi>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3e0067_WYG_425-40b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　普濟方卷四百二十五<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

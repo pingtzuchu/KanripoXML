@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0140_WYG_116-1a"/>
+　欽定四庫全書<lb/>
+御定全唐詩巻一百十六<lb/>
+　　張子容<lb/>
+　張子容先天二年擢進士第為樂城尉與孟浩然友善<lb/>
+　詩一巻<lb/>
+　　　　春江花月夜二首<lb/>
+　<graphic n="KR1045" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1045.png" mimeType="image/png"/>花發岸口氣色動江新此夜江中月流光花上春分<lb/>
+　明石潭裏宜照浣紗人<lb/>
+<pb n="KR4h0140_WYG_116-1b"/>
+　交甫憐瑶珮仙妃難重期沈沈緑江晩惆悵碧雲姿初<lb/>
+　逄花上月言是弄珠時<lb/>
+　　　　雲陽驛陪崔使君邵道士夜宴<lb/>
+　一尉東南逺誰知此夜歡諸侯傾皂盖仙客整黄冠染<lb/>
+　翰燈花滿飛觴雲氣寒欣承國士遇更借美人看<lb/>
+　　　　除夜樂城逢孟浩然<lb/>
+　逺客襄陽郡来過海岸家樽開<hi>一作前</hi>柏葉酒燈發九枝<lb/>
+　花妙曲逢盧女髙才得孟嘉東山行樂意非是競繁<hi>一作</hi>
+<pb n="KR4h0140_WYG_116-2a"/>
+<hi>奢</hi>華<lb/>
+　　　送蘇倩遊天台<lb/>
+靈異尋滄海笙歌訪翠㣲江鷗迎共<hi>一作近</hi>狎雲鶴待將<lb/>
+飛琪樹嘗<hi>一作攀</hi>仙果瓊樓<hi>一作枝</hi>試羽衣遥知神女問獨<lb/>
+怪阮郎歸<lb/>
+　　　泛永嘉江日暮迴舟<lb/>
+無雲天欲暮輕<hi>一作轉</hi>鷁大江清歸路烟中逺迴舟月上<lb/>
+行傍潭窺竹暗出嶼見沙明更值㣲風起乗流絲管聲<lb/>
+<pb n="KR4h0140_WYG_116-2b"/>
+　　　永嘉即事寄贛縣袁少府瓘<lb/>
+山繞樓臺出谿通里閈斜曽為謝客郡多有逐臣家海<lb/>
+氣朝成雨江天晚作霞題書報賈誼地濕似長沙<lb/>
+　　　樂城嵗日贈孟浩然<hi>一作王維詩</hi>
+土地窮甌越風光肇建寅插桃銷瘴癘移竹近堦墀半<lb/>
+是吴風俗仍為楚嵗時更逢習鑿齒言在漢川湄<lb/>
+　　　永嘉作<lb/>
+拙宦從江左投荒更海邊山將孤嶼近水共惡谿連地<lb/>
+<pb n="KR4h0140_WYG_116-3a"/>
+濕梅多雨潭蒸竹起烟未應悲晚髪炎瘴苦華年<lb/>
+　　　送孟八浩然歸襄陽二首<lb/>
+東越相逄地西亭送别津風潮看觧䌫雲<hi>一作雪</hi>海<hi>一作雨</hi>
+去愁人鄉在桃林岸山<hi>一作江</hi>連楓樹春因<hi>一作長</hi>懐故園<lb/>
+意歸與孟家鄰<lb/>
+杜門不欲<hi>一作復</hi>出乆與世情踈以此為長䇿勸君歸舊<lb/>
+廬醉歌田舎酒笑讀古人書好是一生事無勞獻子虚<lb/>
+<hi>此篇一作王維詩</hi>
+<pb n="KR4h0140_WYG_116-3b"/>
+　　　貶樂城尉日作<lb/>
+竄謫邊窮海川原近惡谿有時聞虎嘯無夜不猨啼地<lb/>
+暖花長發巖髙日易低故郷可憶䖏遥指斗牛西<lb/>
+　　　自樂城赴永嘉枉路泛白湖寄松陽李少府<lb/>
+西行礙淺石北轉入谿橋樹色烟輕重湖光風動揺百<lb/>
+花亂飛雪萬嶺疊青霄猿挂臨潭篠鷗迎出浦橈惟應<lb/>
+賞心客兹路不言遥<lb/>
+　　　九日陪潤州邵使君登北固山<lb/>
+<pb n="KR4h0140_WYG_116-4a"/>
+五馬向西<hi>一作山</hi>椒重陽坐麗譙徐州帶緑水楚國在青<lb/>
+霄張幕連江樹開筵接海潮凌雲詞客語迴雪舞人嬌<lb/>
+<hi>一作腰</hi>梅福慙仙吏羊公賞下僚新豐酒舊羙况是菊花<lb/>
+朝<lb/>
+　　　璧池望秋月<lb/>
+凉夜窺清沼池空水月秋滿輪沈玉鏡半魄落銀鉤蟾<lb/>
+影揺輕浪菱花渡淺流漏移光漸潔雲斂色偏浮似璧<lb/>
+悲三獻疑珠怯再投能持千里意来照楚鄉愁<lb/>
+<pb n="KR4h0140_WYG_116-4b"/>
+　　　長安早春<hi>一作孟浩然詩</hi>
+開國維<hi>一作移</hi>東井城池起<hi>一作對</hi>北辰咸歌太平日共樂<lb/>
+建寅春雪<hi>一作雲</hi>盡黄<hi>一作/青</hi>山樹氷開黒水津<hi>一作濵</hi>草迎<lb/>
+金埒馬花伴<hi>一作醉</hi>玉樓人鴻漸看無數鶯歌<hi>一作聲</hi>聽欲<lb/>
+頻何當桂枝擢還及栁條新<lb/>
+　　　贈司勲蕭郎中<lb/>
+作相開黄閣為郎奏赤墀君臣道合體父子貴同時國<lb/>
+以推賢答家無内舉疑鳯池真水鏡蘭省得華滋未覩<lb/>
+<pb n="KR4h0140_WYG_116-5a"/>
+　風流日先聞新<hi>一作所</hi>賦詩江山清謝眺花木媚丘遲吏<lb/>
+　部来何暮王言念在兹丹青無不可霖雨亦相期昔我<lb/>
+　投荒䖏孤烟望島夷群鷗終日狎落葉數年悲漁父留<lb/>
+　歌詠江妃入興詞今將獻知已相感勿吾欺<lb/>
+　　　　巫山<lb/>
+　巫嶺岧嶤天際重佳期宿昔願相從朝雲暮雨連天暗<lb/>
+　神女知来第幾峰<lb/>
+　　　　除日<lb/>
+<pb n="KR4h0140_WYG_116-5b"/>
+　臘月今知晦流年此夕除拾樵供嵗火帖牖作春書栁<lb/>
+　覺東風至花疑小雪餘忽逄雙鯉贈言是上氷魚<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定全唐詩巻一百十六<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

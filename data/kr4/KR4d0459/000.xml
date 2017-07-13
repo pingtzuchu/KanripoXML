@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>提要<lb/>
+                </head>
+    <p>
+<pb n="KR4d0459_WYG_000-1a"/>
+欽定四庫全書　　　　　集部五<lb/>
+　提要<lb/>
+　　東菴集四卷　　　　　别集類四<hi>元</hi>
+　　　　<hi>臣</hi>等謹案東菴集四卷元滕安上撰安上字<lb/>
+　　　　仲禮定州人以薦除中山府教授歴禹城主<lb/>
+　　　　簿徴為國子博士轉太常丞拜監察御史以<lb/>
+　　　　地震上疏不得逹遂引疾去尋起為國子司<lb/>
+　　　　業卒於官元史不為立傳其事實具見於姚<lb/>
+<pb n="KR4d0459_WYG_000-1b"/>
+　　　　燧所作墓碣銘且稱其敏脩篤行學積其躬<lb/>
+　　　　道行其家化及其鄉而呉澄文正集亦謂安<lb/>
+　　　　上為人乃有學有行而有文者盖亦束脩自<lb/>
+　　　　好之士也燧又稱所著有東菴類藁十五卷<lb/>
+　　　　江西亷訪使趙秉政板之行世又有易解洗<lb/>
+　　　　心管見藏於家而焦竑國史經籍志乃稱安<lb/>
+　　　　上東菴稿十六卷與燧所紀卷數不合當由<lb/>
+　　　　未見原集而誤近時顧嗣立作元詩選搜採<lb/>
+<pb n="KR4d0459_WYG_000-2a"/>
+　　　　至數百家而安上之集闕焉則其佚久矣今<lb/>
+　　　　從永樂大典中裒集編次得詩二百餘篇分<lb/>
+　　　　為四卷其詩格以樸勁為主不免稍失之麤<lb/>
+　　　　獷而筆力徤舉七言古詩尤有開闔排宕之<lb/>
+　　　　致視元末穠豔纎媚之格全類詩餘者又不<lb/>
+　　　　以彼易此矣考蘇天爵文類載有安上祭硯<lb/>
+　　　　司業先生文一篇而姚燧亦謂其文一本理<lb/>
+　　　　義辭㫖暢逹不為險譎非有禆世教者不言<lb/>
+<pb n="KR4d0459_WYG_000-2b"/>
+　　　　是原集當兼載詩文惜永樂大典僅存其詩<lb/>
+　　　　其文已無可考也乾隆四十六年九月恭校<lb/>
+　　　　上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　總　校　官　<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

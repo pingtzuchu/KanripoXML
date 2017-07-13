@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2a0029_WYG_163-1a"/>
+　舊五代史巻八十一攷證<lb/>
+晉少帝紀一命瑯琊王震　案歐陽史作博士王震<lb/>
+遣判四方館事朱崇節　案歐陽史作四方館使宋崇<lb/>
+　節<lb/>
+恒州順國軍節度使杜威　案杜重威避少帝諱去重<lb/>
+　字至漢始復故少帝紀皆作杜威<lb/>
+乙丑至東京　案遼史作丁未晉王至汴與是書異五<lb/>
+　代春秋歐陽史通鑑並從是書<lb/>
+<pb n="KR2a0029_WYG_163-1b"/>
+河南河北闗西諸州旱蝗分命使臣捕之　案歐陽史<lb/>
+　作供奉官張福率威順軍捕蝗于陳州<lb/>
+仍遣諸司使梁進超等七人分往開封府界捕之　案<lb/>
+　歐陽史作癸亥供奉官七人率奉國軍捕蝗于京畿<lb/>
+　與是書異<lb/>
+辛未遣内外臣寮二十八人分往諸道州府率借粟麥<lb/>
+　　案通鑑七月己丑詔以年饑國用不足遣使者六<lb/>
+　十餘人于諸道括民穀與是書異<lb/>
+<pb n="KR2a0029_WYG_163-2a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2a0029_WYG_163-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　舊五代史巻八十一攷證<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

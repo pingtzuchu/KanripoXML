@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3j0011_SBCK_005-1a"/>
+　　重刻人物志跋<lb/>
+劉邵人物志凡十二篇辨性質而凖之中<lb/>
+庸甄材品以程其職任事核詞章三代而<lb/>
+下善評人品者莫或能踰之矣邵生漢末<lb/>
+乃其著論體裁纚然有荀卿韓非風致而<lb/>
+亹亹自成一家言即九徴八則之論質之<lb/>
+孔孟觀人之法唐虞九徳之㫖自有發所<lb/>
+未發者後世欲辨官論材惡可以不知也<lb/>
+<pb n="KR3j0011_SBCK_005-1b"/>
+顧其書獲見者少又脫落難讀<lb/>
+大中丞真定梁公持節鉞拊鎮中州熊車<lb/>
+所莅吏稱民安爰覔善本加訂正刻之宋<lb/>
+郡用以傳之人人授簡屬吏旻綴一言于<lb/>
+末簡旻得卒業反復流業篇國體器能之<lb/>
+說深有味乎其言之也今<lb/>
+中丞公厲風俗正天下謀廟勝三材允兼<lb/>
+至其振䇿群吏惟器所適靡不奮力展采<lb/>
+<pb n="KR3j0011_SBCK_005-2a"/>
+兢兢罔敢怠遑總逹衆材至矣異日秉鈞<lb/>
+當軸將使官不易方而太平用成知人安<lb/>
+民之道拭目身親見之邵之志何幸獲酬<lb/>
+於公哉刻成輙忘固陋僣書識刻之歲月<lb/>
+覽者當知言之非佞云<lb/>
+隆慶六年壬申仲夏之吉歸徳府知府掲<lb/>
+陽鄭旻謹書<lb/>
+<pb n="KR3j0011_SBCK_005-2b"/>
+<pb n="KR3j0011_SBCK_005-2b"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

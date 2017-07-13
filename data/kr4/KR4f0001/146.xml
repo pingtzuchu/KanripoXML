@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4f0001_WYG_146-1a"/>
+　欽定四庫全書<lb/>
+聖祖仁皇帝御製文第二集巻二十八目錄<lb/>
+　　北征勅諭<lb/>
+　　　　諭陜西四川總督呉赫<lb/>
+　　　　諭大學士伊桑阿<lb/>
+　　　　諭兵部<lb/>
+　　　　諭議政大臣等<lb/>
+　　　　諭議政大臣<lb/>
+<pb n="KR4f0001_WYG_146-1b"/>
+　　　　諭兵部<lb/>
+　　　　諭議政大臣<lb/>
+　　　　諭寧夏文武官員兵民人等<lb/>
+　　　　諭大學士伊桑阿<lb/>
+　　　　諭大學士伊桑阿<lb/>
+　　　　諭大學士伊桑阿<lb/>
+　　　　諭将軍馬思哈<lb/>
+　　　　諭大學士伊桑阿<lb/>
+<pb n="KR4f0001_WYG_146-2a"/>
+　　　諭大學士伊桑阿<lb/>
+　　　諭議政大臣<lb/>
+　　　諭議政大臣等<lb/>
+　　　諭議政諸臣<lb/>
+　　　諭陜西總督提督巡撫總兵等官<lb/>
+　　　諭理藩院<lb/>
+　　　諭議政大臣<lb/>
+　　　諭議政大臣<lb/>
+<pb n="KR4f0001_WYG_146-2b"/>
+　　　諭總兵官王化行<lb/>
+　　　諭大學士伊桑阿等<lb/>
+　　　諭領侍衛内大臣<lb/>
+　　　諭議政大臣<lb/>
+　　　諭議政大臣<lb/>
+　　　諭議政大臣<lb/>
+　　　諭兵部<lb/>
+　　　諭議政大臣<lb/>
+<pb n="KR4f0001_WYG_146-3a"/>
+　　　諭議政大臣<lb/>
+　　　諭議政大臣<lb/>
+　　　諭議政大臣<lb/>
+　　　諭户部<lb/>
+　　　諭議政大臣<lb/>
+　　　諭領侍衞内大臣<lb/>
+　　　諭大學士伊桑阿<lb/>
+　　　諭大學士伊桑阿<lb/>
+<pb n="KR4f0001_WYG_146-3b"/>
+　　　諭領侍衛内大臣<lb/>
+　　　諭議政大臣<lb/>
+　　　諭議政大臣<lb/>
+　　　諭太僕寺<lb/>
+　　　諭侍郎安布禄<lb/>
+　　　諭吏部<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>巽隠集</head>
+    <p>
+<pb n="KR4e0078_WYG_000-1a"/>
+欽定四庫全書　　　　集部六<lb/>
+　巽隠集　　　　　　　别集類五<hi>明</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案巽隠集四巻明程本立撰本立字<lb/>
+　　　　原道巽隠其號也桐鄉人洪武九年以明經<lb/>
+　　　　擢秦王府引禮舎人以母憂去復補周府禮<lb/>
+　　　　官坐累謫雲南馬龍他郎甸長官司吏目有<lb/>
+　　　　平定百夷功徵入翰林厯官至右僉都御史<lb/>
+<pb n="KR4e0078_WYG_000-1b"/>
+　　　　調江西按察副使未行值燕王簒位遂自盡<lb/>
+　　　　以殉事迹具明史本傳是集詩二巻文二巻<lb/>
+　　　　為其曽孫山所編𢎞治乙丑桐鄉知縣莆田<lb/>
+　　　　李廷梧序之嘉靖初南溪吳氏為刋板西虞<lb/>
+　　　　范氏又重刋之嵗久皆散佚此本乃萬厯乙<lb/>
+　　　　丑桐鄉知縣濮陽棐購得遺稿於其裔孫九<lb/>
+　　　　澤而屬訓導李詩校刋者也本立文章典雅<lb/>
+　　　　詩亦深穏樸健頗近唐音不但節義為足重<lb/>
+<pb n="KR4e0078_WYG_000-2a"/>
+　　　　即以詞采而論位置於明初作者之間亦無<lb/>
+　　　　愧色矣乾隆四十六年十月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

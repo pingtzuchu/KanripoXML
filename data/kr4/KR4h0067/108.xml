@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>兩宋名賢小集巻一百八</head> <lb/>
+    <p>
+<pb n="KR4h0067_WYG_108-1a"/>
+欽定四庫全書<lb/>
+　兩宋名賢小集巻一百八<lb/>
+　　　　　　　　　　　　　宋　陳　思　編<lb/>
+　　　　　　　　　　　　　元　陳世隆　補<lb/>
+　玩鷗檻詩稿<lb/>
+　蔡確字持正晉江人嘉祐四年進士歴知制誥御史中<lb/>
+　丞參知政事元豐五年拜尚書右僕射兼中書侍郎<lb/>
+　哲宗立轉左僕射元祐中罷知陳州奪職徙安州又<lb/>
+<pb n="KR4h0067_WYG_108-1b"/>
+　徙鄧州坐譏訕責英州别駕新州安置<lb/>
+　　咏絮<lb/>
+楊花三月暮撩亂送春歸盡日閒相逐無風亦自飛輕<lb/>
+輕攔乳燕故故撲征衣莫上髙樓望徘徊滿落暉<lb/>
+　　有感<lb/>
+鸚鵡言猶在琵琶事已非傷心瘴江水同渡不同歸<lb/>
+　蔡謫新州侍兒琵琶從焉嘗養一鸚鵡持正每呼琵<lb/>
+　琶即一扣響板鸚鵡傳言呼之琵琶逝後悞觸響板<lb/>
+<pb n="KR4h0067_WYG_108-2a"/>
+　猶傳呼之持正感傷賦此不乆遂終<lb/>
+　　熈寧六年<hi>一作元年</hi>有司言四月一日當日蝕上為徹<lb/>
+　　樂避正殿一夕㣲雨不見日食是日有皇子之慶<lb/>
+　　因獻此詩<lb/>
+昨夜薰風入舜韶君王方避正衙朝陽暉已得前星助<lb/>
+隂沴潜隨夜雨銷<lb/>
+　　夏日登車盖亭十首<lb/>
+公事無多客亦稀朱衣小吏不須隨溪潭直上虛亭裏<lb/>
+<pb n="KR4h0067_WYG_108-2b"/>
+卧展柴桑處士詩<lb/>
+一川佳景疎簾外四面涼風曲檻頭緑野平流來逺棹<lb/>
+青天白雨起靈湫<hi>一作秋</hi>
+静中自足勝炎蒸入眼兼無俗物憎何處機心驚白鳥<lb/>
+誰人怒劒逐青蠅<lb/>
+紙屏石枕竹方牀手倦抛書午夢長睡起莞然成獨笑<lb/>
+數聲漁笛在滄浪<lb/>
+西方髣髴見松筠日日來㸔色轉新聞説桃花巖石畔<lb/>
+<pb n="KR4h0067_WYG_108-3a"/>
+讀書曾有謫仙人<lb/>
+風揺熟果時聞落雨滴餘花亦自香葉底出巢黄口閙<lb/>
+波間逐隊小魚忙<lb/>
+來結芳廬向翠㣲自持盃酒對青暉水趨夢澤悠悠過<lb/>
+雲抱西山冉冉飛<lb/>
+矯矯名臣郝甑山忠言直節上元間古人不見清風在<lb/>
+歎息思公俯碧灣<lb/>
+溪中曾有戈船士溪上今無佩犢人病守翛然唯坐嘯<lb/>
+<pb n="KR4h0067_WYG_108-3b"/>
+白鷗紅鶴伴閒身<lb/>
+喧豗六月浩無津行見沙洲束兩濵如帯溪流何足道<lb/>
+沉沉滄海㑹揚塵<lb/>
+　蔡確以弟碩贓敗謫守安州夏日登車盖亭作此十<lb/>
+　絶時吳處厚知漢陽軍箋注以聞其畧云五篇涉譏<lb/>
+　諷何處機心驚白鳥誰人怒劍逐青蠅以譏讒譛之<lb/>
+　人葉底出巢黄口閙波間逐隊小魚忙譏新進用事<lb/>
+　之人睡起莞然成獨笑方今朝廷清明不知確笑何<lb/>
+<pb n="KR4h0067_WYG_108-4a"/>
+　事矯矯名臣郝甑山忠言直節上元間按郝處俊封<lb/>
+　甑山公唐髙宗欲遜位天后處俊上疏諫此事正在<lb/>
+　上元三年今皇太后垂簾遵用章獻明肅故事確指<lb/>
+　武后以比太后沉沉滄海㑹揚塵謂人夀㡬何尤非<lb/>
+　佳語宣仁盛怒令確分晰終不自明遂貶新州<lb/>
+　　題王維江行初雪畫<lb/>
+吳児龜手網寒川急雪鳴蓑浪拍船青弋渡頭曽卧㸔<lb/>
+令人却憶十年前<lb/>
+<pb n="KR4h0067_WYG_108-4b"/>
+　　觀燕公山水畫後有王荆公題詩<lb/>
+相君開巻憶江東髣髴鍾山與此同今日還為一居士<lb/>
+翛然身在畫圖中<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　兩宋名賢小集巻一百八<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

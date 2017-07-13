@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>本草綱目卷四十四目録</head> <lb/>
+    <p>
+<pb n="KR3e0079_WYG_103-1a"/>
+欽定四庫全書<lb/>
+　本草綱目卷四十四目録<lb/>
+　　鱗之四　　　魚類三十一種<lb/>
+　　　鯉魚<hi>本經</hi>
+　　　鱮魚<hi>綱目魚即鰱</hi>
+　　　鱅魚<hi>拾遺</hi>
+　　　鱒魚<hi>綱目魚即赤眼</hi>
+　　　鯇魚<hi>拾遺魚即草</hi>
+<pb n="KR3e0079_WYG_103-1b"/>
+　　　青魚<hi>開寶</hi>
+　　　竹魚<hi>綱目</hi>
+　　　鰶魚<hi>開寶</hi>
+　　　白魚<hi>開寶</hi>
+　　　鯼魚<hi>食療</hi>
+　　　鱤魚<hi>綱目</hi>
+　　　石首魚<hi>開寳附墨頭魚</hi>
+　　　勒魚<hi>綱目</hi>
+<pb n="KR3e0079_WYG_103-2a"/>
+　　　鱭魚<hi>食療</hi>
+　　　鰣魚<hi>食療</hi>
+　　　嘉魚<hi>開寳</hi>
+　　　鯧魚<hi>拾遺</hi>
+　　　鯽魚<hi>别録附䲙魚</hi>
+　　　魴魚<hi>食療即鯿</hi>
+　　　鱸魚<hi>嘉祐</hi>
+　　　鱖魚<hi>開寶附鰧魚</hi>
+<pb n="KR3e0079_WYG_103-2b"/>
+　　　鯊魚<hi>綱目</hi>
+　　　杜父魚<hi>拾遺</hi>
+　　　石斑魚<hi>綱目</hi>
+　　　石鮅魚<hi>拾遺</hi>
+　　　黄鯝魚<hi>綱目</hi>
+　　　鰷魚<hi>綱目</hi>
+　　　鱠殘魚<hi>食鑑魚即銀</hi>
+　　　鱵魚<hi>綱目</hi>
+<pb n="KR3e0079_WYG_103-3a"/>
+　　　鱊魚<hi>綱目</hi>
+　　　金魚<hi>綱目附丹魚</hi>
+　　　　右附方舊十三新六十<lb/>
+　　鱗之四<hi>鱗魚二十八種  附録九種</hi>
+　　　鱧魚<hi>本經</hi>
+　　　鰻鱺魚<hi>别録</hi>
+　　　海鰻鱺<hi>日華</hi>
+　　　鱓魚<hi>别録</hi>
+<pb n="KR3e0079_WYG_103-3b"/>
+　　　鰌魚<hi>綱目</hi>
+　　　鱣魚<hi>拾遺魚即黄</hi>
+　　　鱘魚<hi>拾遺</hi>
+　　　牛魚<hi>拾遺</hi>
+　　　鮠魚<hi>拾遺魚即鮰</hi>
+　　　鮧魚<hi>别録魚即鮎</hi>
+　　　䱱魚<hi>綱目魚即孩兒</hi>
+　　　鯢魚<hi>拾遺</hi>
+<pb n="KR3e0079_WYG_103-4a"/>
+　　　黄顙魚<hi>食療</hi>
+　　　河豚魚<hi>開寳</hi>
+　　　海豚魚<hi>拾遺</hi>
+　　　比目魚<hi>食療</hi>
+　　　鮹魚<hi>拾遺</hi>
+　　　鮫魚<hi>唐本魚即沙</hi>
+　　　烏賊魚<hi>本經附柔魚</hi>
+　　　章魚<hi>綱目</hi>
+<pb n="KR3e0079_WYG_103-4b"/>
+　　　海鷂魚<hi>拾遺魚即少陽</hi>
+　　　文鰩魚<hi>拾遺</hi>
+　　　魚虎<hi>拾遺</hi>
+　　　魚師<hi>綱目</hi>
+　　　海蛇<hi>拾遺</hi>
+　　　鰕<hi>别録</hi>
+　　　海鰕<hi>拾遺</hi>
+　　　海馬<hi>拾遺</hi>
+<pb n="KR3e0079_WYG_103-5a"/>
+　　附録<lb/>
+　　　鮑魚<hi>别録魚即薧</hi>
+　　　鱁鮧<hi>拾遺膠即鰾</hi>
+　　　魚鱠<hi>拾遺</hi>
+　　　魚鮓<hi>拾遺</hi>
+　　　魚脂<hi>拾遺</hi>
+　　　魚魫<hi>綱目</hi>
+　　　魚鱗<hi>綱目</hi>
+<pb n="KR3e0079_WYG_103-5b"/>
+　　　魚子<hi>綱目</hi>
+　　　諸魚有毒<hi>拾遺</hi>
+　　　　右附方舊九新六十<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　本草綱目卷四十四目録<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

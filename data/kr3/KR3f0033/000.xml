@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>孫子算經</head>
+    <p>
+<pb n="KR3f0033_WYG_000-1a"/>
+欽定四庫全書　　　　　子部六<lb/>
+　孫子算經　　　　　　　天文算法類二<hi>算書之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案隋經籍志有孫子算經二卷不著<lb/>
+　　　　其名亦不著其時代唐藝文志稱李淳風注<lb/>
+　　　　甄鸞孫子算經三卷于孫子上冠以甄鸞葢<lb/>
+　　　　如淳風之注周髀算經因鸞所注更加辨論<lb/>
+　　　　也隋書論審度引孫子算術蠶所生吐絲為<lb/>
+<pb n="KR3f0033_WYG_000-1b"/>
+　　　　忽十忽為秒十秒為毫十毫為氂十氂為分<lb/>
+　　　　本書乃作十忽為一絲十絲為一毫又論嘉<lb/>
+　　　　量引孫子算術六粟為圭十圭為抄十抄為<lb/>
+　　　　撮十撮為勺十勺為合本書乃作十圭為一<lb/>
+　　　　撮十撮為一抄十抄為一勺攷之夏侯陽算<lb/>
+　　　　經引田曹倉曹亦如本書而隋書中所引與<lb/>
+　　　　史傳往往多合葢古書傳本不一校訂之儒<lb/>
+　　　　各有據證無妨參差互見也唐之選舉算學<lb/>
+<pb n="KR3f0033_WYG_000-2a"/>
+　　　　凡十書孫子五曹共限一嵗習肄于後來諸<lb/>
+　　　　算術中特為近古第不知孫子何許人朱彞<lb/>
+　　　　尊集五曹算經跋云相傳其法出于孫武然<lb/>
+　　　　孫子别有算經攷古者存其説可爾又有孫<lb/>
+　　　　子算經跋云首言度量所起合乎兵法地生<lb/>
+　　　　度度生量量生數之文次言乗除之法設為<lb/>
+　　　　之數十三篇中所云廓地分利委積逺輸貴<lb/>
+　　　　賣兵役分數比之九章方田粟米差分商功<lb/>
+<pb n="KR3f0033_WYG_000-2b"/>
+　　　　均輸盈不足之目往往相符而要在得算多<lb/>
+　　　　多算勝以是知此編非偽託也彞尊之意葢<lb/>
+　　　　以為確出于孫武今攷書内設問有云長安<lb/>
+　　　　洛陽相去九百里又云佛書二十九章章六<lb/>
+　　　　十三字則後漢明帝以後人語孫武春秋末<lb/>
+　　　　人安有是語乎舊本久佚今從永樂大典所<lb/>
+　　　　載裒集編次仍為三卷冠以原序其甄李二<lb/>
+　　　　家之注則不可復攷是則姚廣孝等割裂刊<lb/>
+<pb n="KR3f0033_WYG_000-3a"/>
+　　　　削之過矣乾隆四十三年七月恭校上<lb/>
+　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官　<hi>臣</hi>陸　費　墀<lb/>
+<pb n="KR3f0033_WYG_000-4a"/>
+孫子算經原序<lb/>
+孫子曰夫算者天地之經緯羣生之元首五常之本末<lb/>
+陰陽之父母星辰之建號三光之表裏五行之準平四<lb/>
+時之終始萬物之祖宗六藝之綱紀稽羣倫之聚散攷<lb/>
+二氣之降升推寒暑之迭運步逺近之殊同觀天道精<lb/>
+微之兆基察地理從横之長短采神祇之所在極成敗<lb/>
+之符驗窮道徳之理究性命之情立規矩準方圓謹法<lb/>
+度約尺丈立權衡平重輕剖毫釐析泰絫厯億載而不<lb/>
+<pb n="KR3f0033_WYG_000-4b"/>
+朽施八極而無疆散之不可勝究斂之不盈掌握嚮之<lb/>
+者富有餘背之者貧且窶心開者幼沖而即悟意閉者<lb/>
+皓首而難精夫欲學之者必務量能揆已志在所専如<lb/>
+是則焉有不成者哉<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

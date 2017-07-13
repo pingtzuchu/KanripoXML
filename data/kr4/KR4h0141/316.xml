@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_316-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選巻三百十六<lb/>
+　　橄欖類<lb/>
+　　　五言古<lb/>
+　　　　橄欖　　　　　　　　　　<hi>宋</hi>劉　敞<lb/>
+　南珍冨竒異疇昔頗窮擥夷荒無書傳從古陋鉛槧苞<lb/>
+　封走中土天序異離坎有香已變衰有色多黯謭今君<lb/>
+　此堂上珍物唯橄欖青膚勝瓊瑩翠顆森菡萏味為幽<lb/>
+<pb n="KR4h0141_WYG_316-1b"/>
+　人貞久見君子淡甘懐彼包羞日新此剛敢清泉薦芳<lb/>
+　茗臭味獨相感澡雪清煩酲滌除瑩𤣥覽靈均採時菊<lb/>
+　西伯嗜昌歜廟鼎誰調梅壯士仍嘗膽由来趨俗好諸<lb/>
+　絶不言慘殷勤謝凡口薤白空三噉<lb/>
+　　　　嘗新橄欖　　　　　　　　<hi>元</hi>洪希文<lb/>
+　橄欖如佳士外圓内實剛為味苦且澀其氣清以芳侑<lb/>
+　酒解酒毒投茶助茶香得鹹即回味消食尤竒方宫商<lb/>
+　舌底發星宿胸中藏雖云白露降氣味更老蒼山林假<lb/>
+<pb n="KR4h0141_WYG_316-2a"/>
+　嵗月顔色饒風霜以兹調衆口誰敢輕頡頏作此橄欖<lb/>
+　詩逺繼葑菲章大器當晚成斯言君勿忘<lb/>
+　　　七言絶句<lb/>
+　　　　橄欖　　　　　　　　　　<hi>宋</hi>蘇　軾<lb/>
+　紛紛青子落紅鹽正味森森苦且嚴待得微甘回齒頬<lb/>
+　已輸崖蜜十分甜<lb/>
+　　　　謝王子予送橄欖　　　　　<hi>宋</hi>黄庭堅<lb/>
+　方懐味諫軒中果忽見金盤橄欖來想共餘甘有𤓰葛<lb/>
+<pb n="KR4h0141_WYG_316-2b"/>
+　苦中真味晩方回<lb/>
+　　　　橄欖　　　　　　　　　　<hi>元</hi>郝　經<lb/>
+　半青來子味難誇宜著山僧㸃蠟茶若是党家金帳底<lb/>
+　只將金橘送流霞<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選巻三百十六<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

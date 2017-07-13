@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>詩家鼎臠</head>
+    <p>
+<pb n="KR4h0065_WYG_000-1a"/>
+欽定四庫全書　　　　　集部八<lb/>
+　詩家鼎臠　　　　　　　總集類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案詩家鼎臠二巻不著選輯人姓名<lb/>
+　　　　巻首有小序署曰倦叟亦無姓氏案倦圃為<lb/>
+　　　　曹溶别號此序當即溶所題其書乃宋末人<lb/>
+　　　　所録南渡諸家之詩上巻五十八人下巻三<lb/>
+　　　　十七人每人各著其里居字號為例不一所<lb/>
+<pb n="KR4h0065_WYG_000-1b"/>
+　　　　存詩多者十餘首少者僅一二首葢取嘗鼎<lb/>
+　　　　一臠之意故以為名方回瀛奎律髓稱慶元<lb/>
+　　　　嘉定以來有詩人為謁客者錢唐湖山什伯<lb/>
+　　　　為羣阮梅峰秀實林可山洪孫花翁季蕃髙<lb/>
+　　　　菊磵九萬往往雌黄士大夫口吻可畏今考<lb/>
+　　　　是書内如林洪孫季蕃髙九萬諸人之詩並<lb/>
+　　　　在選中或即其時騖名者所刋以為應求標<lb/>
+　　　　榜之具亦陳思江湖小集之類也説者以巻<lb/>
+<pb n="KR4h0065_WYG_000-2a"/>
+　　　　首有王惲姓名指為元之王秋澗遂謂此書<lb/>
+　　　　當出於元人不知元之王惲為汲縣人而此<lb/>
+　　　　書明題曰古汴王惲乃自開封南渡者署其<lb/>
+　　　　舊貫之詞宋時往往有此稱實與元時王惲<lb/>
+　　　　無涉秋澗集内亦並無此詩又書中尚有環<lb/>
+　　　　溪馬知節與宋史有傳之祥符馬知節亦同<lb/>
+　　　　姓名而非一人此更可以為證王惲之為宋<lb/>
+　　　　人固無足致疑者特其間家數太雜時代亦<lb/>
+<pb n="KR4h0065_WYG_000-2b"/>
+　　　　多顛倒失倫未能盡臻精核然裒輯既廣所<lb/>
+　　　　録詩人其有専集流傳者什無一二今惟蘇<lb/>
+　　　　泂王邁章甫諸人幸於永樂大典中掇拾叢<lb/>
+　　　　殘遺稿復得重顯於世而其他别無表見者<lb/>
+　　　　尚多得是書以存其一斑於詩家考據之助<lb/>
+　　　　要不無小補焉乾隆四十六年十月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="KR4h0065_WYG_000-3a"/>
+詩家鼎臠序<lb/>
+宋季江湖詩派以尤楊范陸為大家兹選均不及稍推<lb/>
+服紫芝石屏後村儀卿其餘人各一二詩止隘矣疆事<lb/>
+日蹙如處漏舟里巷之儒猶刋詩巻相傳誦且諸人姓<lb/>
+名有他書别無可考獨見之此編者存以徵晚宋故實<lb/>
+也倦叟<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_150-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選卷一百五十<lb/>
+　　權衡度量類<lb/>
+　　　四言古<lb/>
+　　　　嘉量銘　　　　　　　　　<hi>周</hi>闕　名<lb/>
+　時文思索允臻其極嘉量旣成以觀四國永啟厥後兹<lb/>
+　器維則<lb/>
+　　　五言律<lb/>
+<pb n="KR4h0141_WYG_150-1b"/>
+　　　　賦得秤送孟孺卿　　　　　<hi>唐</hi>包　何<lb/>
+　願以金錘秤因君贈别離鈎懸新月吐衡直衆星隨掌<lb/>
+　握須平執錙銖必盡知由來投分審莫放弄權移<lb/>
+　　　五言排律<lb/>
+　　　　奉和中和節詔賜公卿尺　　<hi>唐</hi>裴　度<lb/>
+　陽和行慶賜尺度為臣工荷寵乗佳節傾心立大中短<lb/>
+　長思合製逺近貴攸同初仰裁成徳將酬分寸功作程<lb/>
+　施有用垂範播無窮願永延洪夀千春奉聖躬<lb/>
+<pb n="KR4h0141_WYG_150-2a"/>
+　　　　奉和中和節詔賜公卿尺　　<hi>唐</hi>李　觀<lb/>
+　淑景韶光媚皇家寵錫崇具寮頒玉尺成器幸良工豈<lb/>
+　止尋常用將傳度量同人何不取則物亦賴其功紫翰<lb/>
+　宣殊造丹誠屬匪躬奉之無失墜恩澤自天中<lb/>
+　　　七言絶句<lb/>
+　　　　天秤　　　　　　　　　　<hi>明</hi>郭　登<lb/>
+　體物何曽有重輕相君因爾號阿衡誰多誰少皆公論<lb/>
+　纔有些兒便不平<lb/>
+<pb n="KR4h0141_WYG_150-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選卷一百五十<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

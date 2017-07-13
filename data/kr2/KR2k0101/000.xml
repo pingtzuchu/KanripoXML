@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>金鼇退食筆記</head>
+    <p>
+<pb n="KR2k0101_WYG_000-1a"/>
+欽定四庫全書　　　　　史部十一<lb/>
+　金鼇退食筆記　　　　　地理𩔖七<hi>古蹟之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案金鼇退食筆記二巻<lb/>
+　　　國朝髙士竒撰士竒有春秋地名考略己著録<lb/>
+　　　　是編乃其康熙甲子官侍講學士入侍<lb/>
+　　　内廷時所作前有自序稱自丁已<lb/>
+　賜居太液池之西朝夕策馬過金鼇玉蝀橋望苑中<lb/>
+<pb n="KR2k0101_WYG_000-1b"/>
+　　　　景物七閱寒暑退食之頃偶訪曩時舊制約<lb/>
+　　　　略得之傳聞又仿彿尋其故址離宫别館廢<lb/>
+　　　　者多矣脱復十數老監己盡遺跡漸湮無以<lb/>
+　　　　昭我<lb/>
+　皇上卑宫室約園囿之儉徳因率筆記之詳於西而<lb/>
+　　　　略於東以所居在苑西故也紀其興廢而復<lb/>
+　　　　雜以時事欲見<lb/>
+　　昭代之盛存為太平嘉話也又稱衙署監局載在<lb/>
+<pb n="KR2k0101_WYG_000-2a"/>
+　　　　㑹典者不書訪問未確者不書外人所罕窺<lb/>
+　　　　者亦不敢書盖其時距明末僅四十年前朝<lb/>
+　　　　宦豎存者猶多士竒出入<lb/>
+　　　禁廷得以訽訪又久寓其旁朝夕考校故所記<lb/>
+　　　　徃徃可據朱<graphic n="KR0595" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0595.png" mimeType="image/png"/>尊日下舊聞多採掇之今奉<lb/>
+　詔考定彛尊之書徴據詳明纎悉必備此編己在包<lb/>
+　　　　括之中顧其草創記錄之功亦不可没故仍<lb/>
+　　　　録存之以備參稽焉乾隆四十六年十一月<lb/>
+<pb n="KR2k0101_WYG_000-2b"/>
+　　　　恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

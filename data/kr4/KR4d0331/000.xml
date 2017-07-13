@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4d0331_SBCK_000-1a"/>
+所南翁一百二十圗詩集自序<lb/>
+昔嘗序湯西樓先生壮逰集云天地之靈氣為人<lb/>
+人之靈氣為心心之靈氣為文文之靈氣為詩盖<lb/>
+詩者古今天地間之靈物也吾生也冥頑其不靈<lb/>
+于詩不靈于文不靈于心不靈于人也久矣棄物<lb/>
+若然者孤孤枯枯迂迂踈踈是誠不靈不然也以<lb/>
+其不然不靈也凢有求皆不作絶交㳺絶著作絶<lb/>
+倡和漸絶諸絶以了殘妄爾今或遇圗而作或遇<lb/>
+事而作而或者又欲俱圗之胡然乎乃然彼不然<lb/>
+<pb n="KR4d0331_SBCK_000-1b"/>
+然而然恣不絶其絶而絶于不絶以無作作其所<lb/>
+不作将欲靈夫不靈之靈以為靈其靈靈乎其不<lb/>
+靈靈乎此其所以滿目青山緑水垂咲于無窮無<lb/>
+窮無窮也耶<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

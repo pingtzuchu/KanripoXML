@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_449-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選巻四百五十<lb/>
+　　鵁鶄類<lb/>
+　　　五言律<lb/>
+　　　　鵁鶄　　　　　　　　　　<hi>唐</hi>杜　牧<lb/>
+　芝莖抽紺趾清唳擲金梭日翅閒張錦風池去罥羅静<lb/>
+　眠依翆荇煖戲折髙荷山陰豈無爾繭字換羣鵞<lb/>
+　　　七言律<lb/>
+<pb n="KR4h0141_WYG_449-1b"/>
+　　　　鵁鶄　　　　　　　　　　<hi>唐</hi>陸龜䝉<lb/>
+　詞賦曽誇鸀鳿流果為名誤别滄洲雖䝉静置疎籠晚<lb/>
+　不似閒棲折葦秋自昔稻粱髙鳥畏至今珪組野人讎<lb/>
+　防徽避繳無窮事好與裁書謝白鷗<lb/>
+　　　五言絶句<lb/>
+　　　　池塘晚景　　　　　　　　<hi>唐</hi>李羣玉<lb/>
+　風荷珠露傾驚起睡鵁鶄月落池塘静金刀剪一聲<lb/>
+　　　七言絶句<lb/>
+<pb n="KR4h0141_WYG_449-2a"/>
+　　　酬答　　　　　　　　　　<hi>唐</hi>李　賀<lb/>
+雍州二月梅池春御水鵁鶄暖白蘋試問酒旗歌板地<lb/>
+今朝誰是拗花人<lb/>
+　　　春隄曲　　　　　　　　　<hi>唐</hi>張　籍<lb/>
+野塘鵁鶄飛樹頭綠蒲紫菱葢碧流狂客誰家愛雲水<lb/>
+日日獨来城下遊<lb/>
+　　　浪淘沙　　　　　　　　　<hi>唐</hi>皇甫松<lb/>
+蠻歌荳蔻北人愁松雨蒲風野艇秋浪起鵁鶄眠不得<lb/>
+<pb n="KR4h0141_WYG_449-2b"/>
+寒沙細細入江流<lb/>
+　　　池上作　　　　　　　　　<hi>宋</hi>林　逋<lb/>
+簇簇菰蒲映蓼花水痕天影蘸秋霞分眀似箇屏風上<lb/>
+飛起鵁鶄一道斜<lb/>
+　　　雜詩　　　　　　　　　　<hi>金</hi>王　磵<lb/>
+竹遶沙邨水漫流鵁鶄鸂鶒對沈浮一竿便擬從漁父<lb/>
+卷置琴書買釣舟<lb/>
+　　　謾成　　　　　　　　　　<hi>元</hi>馬　臻<lb/>
+<pb n="KR4h0141_WYG_449-3a"/>
+　新霜尚薄樹聲乾寒水無痕倒浸山知是釣船歸較晚<lb/>
+　鵁鶄嘎嘎起蘆灣<lb/>
+　　　　松陵舟中遲錢受之太史　　<hi>明</hi>范　汭<lb/>
+　幾家閒夜停機杼支枕篷窗風許許吹盡蘋香不見人<lb/>
+　繞塘寒月鵁鶄語<lb/>
+　　　　秋夜集石湖分得粧字　　　<hi>明</hi>王　微<lb/>
+　雲罨湖山逺樹蒼鵁鶄飛破藕塘香月眀處處添秋色<lb/>
+　一束芙蓉正洗粧<lb/>
+<pb n="KR4h0141_WYG_449-3b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選巻四百五十<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

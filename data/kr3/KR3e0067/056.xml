@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>普濟方卷五十七</head>
+    <p>
+<pb n="KR3e0067_WYG_056-1a"/>
+欽定四庫全書卷<lb/>
+　普濟方卷五十七　　　明　周王朱橚　撰<lb/>
+　　鼻門<lb/>
+　　　鼻淵<hi>論</hi>
+夫内經謂膽移熱於腦則辛頞鼻淵鼻淵者濁涕下不<lb/>
+止也夫腦為髓海皆藏於隂故藏而不寫今膽移邪熱<lb/>
+上入於腦則隂氣不固而藏者寫矣故腦液下滲於鼻<lb/>
+其證濁涕出不已若水之有淵源也治或失時𫝊為衂<lb/>
+<pb n="KR3e0067_WYG_056-1b"/>
+衊瞑目之患<lb/>
+　　　方<lb/>
+川烏散　治腦㵼<lb/>
+　　防風　白附子　北細辛　白茯苓　川烏　菖<lb/>
+　　蒲　乾薑　香白芷　川芎　甘草節<lb/>
+　右各等分為末每服三錢嚼生葱白調下食後服<lb/>
+川芎防風散　治積年腦㵼秘方得此疾多年服一料<lb/>
+　而愈<lb/>
+<pb n="KR3e0067_WYG_056-2a"/>
+　　川芎　防風　羗活　乾薑　荆芥<hi>已上各一两</hi>
+　　甘草　甘松<hi>各三錢</hi>白芷<hi>半两</hi>
+　右為末食後酒服不能飲酒茶清湯服<lb/>
+鷄蘇丸　治腦熱肺壅鼻淵多涕<lb/>
+　　鷄蘇葉<hi>乾者</hi>麦門冬<hi>去心/焙</hi>芎藭　桑根白皮<hi>剉</hi>黄耆<lb/>
+　　<hi>炙</hi>甘草<hi>炙剉各/一两</hi>生乾地黄<hi>切焙二两</hi>
+　右為末煉蜜丸如梧桐子大毎服二十丸食後臨卧<lb/>
+　人參湯下<lb/>
+<pb n="KR3e0067_WYG_056-2b"/>
+荆芥散<hi>出御藥院方</hi>　治肺氣壅腦熱鼻淵不止<lb/>
+　　荆芥穗　藿香葉<hi>各一两</hi>芎藭<hi>二/两</hi>龍腦<hi>研一/两</hi>石膏<hi>研如</hi>
+　　<hi>粉一两半</hi>莎草根<hi>炒去毛二两</hi>
+　右為細末每服三錢食後荆芥湯調下<lb/>
+防風湯<hi>出衞生寳鑑</hi>　治大人小兒鼻淵腦熱滲下濁涕不<lb/>
+　止乆而成衂血<lb/>
+　　防風<hi>一两半</hi>人參　黄芩　麥門冬<hi>去心</hi>甘草　川芎<lb/>
+　　<hi>各一两</hi>
+<pb n="KR3e0067_WYG_056-3a"/>
+　右為末毎服半錢沸湯㸃服食後日三服一方用天<lb/>
+　門冬無麥門冬<lb/>
+前胡湯　治腦熱鼻塞多涕<lb/>
+　　前胡<hi>去蘆頭</hi>木通<hi>剉/</hi>石膏<hi>各二/两</hi>黄芩<hi>去黒/心</hi>甘草<hi>炙各一两</hi>
+　　<hi>半</hi>大黄<hi>剉炒一两</hi>
+　右粗搗篩每服三錢水一盞葱白一寸䜴二十粒生<lb/>
+　薑一大棗煎七分去滓温服不拘時<lb/>
+細辛湯　治肺虚不調鼻塞多涕咽中有涎而喘項強<lb/>
+<pb n="KR3e0067_WYG_056-3b"/>
+　筋急或痛<lb/>
+　　細辛　半夏麯　茯苓　桔梗<hi>各四錢</hi>桂枝<hi>二錢</hi>甘草<lb/>
+　　<hi>二錢</hi>
+　右為粗末每服四錢水二盞生薑四片蜜半匙同煎<lb/>
+　至七分温服日三<lb/>
+神効宣腦散　取黄水鼻中下立効<lb/>
+　　川欝金　川芎　青黛<hi>水飛</hi>薄荷　水黄米<hi>各三分</hi>
+　右為細末每服少許冷水噙之<lb/>
+<pb n="KR3e0067_WYG_056-4a"/>
+蒼耳散<hi>出海上方</hi>　治鼻流濁涕名鼻淵<lb/>
+　　辛夷仁<hi>半两</hi>蒼耳子<hi>炒二/錢半</hi>白芷　薄荷葉<hi>半錢</hi>
+　右並乾為末每服二錢用葱淸茶食後調服<lb/>
+芎藭散　治腦熱鼻淵多涕<lb/>
+　　芎藭　莎草根<hi>炙各二两</hi>石膏<hi>研水飛/一两</hi>龍腦<hi>研一分</hi>
+　右為散每服二錢食後荆芥穗清茶調下<lb/>
+川芎丸　治腦瀉臭穢服藥後忌一時炙熱食<lb/>
+　　草烏<hi>生用半两去皮尖</hi>蒼术<hi>生一/两</hi>川芎<hi>生用二两</hi>
+<pb n="KR3e0067_WYG_056-4b"/>
+　右為細末麺糊為丸如梧桐子食後清茶下十丸<lb/>
+南星飲<hi>出直指方</hi>　治風邪入腦宿冷不消鼻内結硬物窒<lb/>
+　塞不宣遂流髓涕<lb/>
+　　用上等大白南星切成片用沸湯盪两次焙乾每<lb/>
+　　服二錢棗七箇甘草少許同煎食後服三四服後<lb/>
+　　硬物自出腦氣流轉髓涕自収仍以大蒜蓽撥末<lb/>
+　　杵作餅用砂襯炙熱貼𩕄門用火熨透或香附子<lb/>
+　　蓽撥末入鼻中<lb/>
+<pb n="KR3e0067_WYG_056-5a"/>
+治鼻濕不已并治腦瀉<lb/>
+　　用藕節芎藭焙乾為末每服二錢米飲調下<lb/>
+腦流鼻零<lb/>
+　　用薑或乾薑煨塞之睡至二更去之不止再塞<lb/>
+治鼻淵腦㵼<lb/>
+　　用生附子為末煨葱涎和如泥塗湧泉穴夜間用<lb/>
+川芎茶調散<hi>出如冝方</hi>　治其病由腎氣虚腦髓不固亦有<lb/>
+　名鼻淵<lb/>
+<pb n="KR3e0067_WYG_056-5b"/>
+　　薄荷<hi>八两</hi>川芎<hi>四/两</hi>羗活　甘草<hi>炙/</hi>白芷<hi>各三/两</hi>防風<hi>一两</hi>
+　　<hi>半</hi>細辛<hi>一/两</hi>荆芥<hi>四两</hi>
+　右為末茶清調服如鼻淵加辛夷<lb/>
+　　　鼻流清涕<hi>論</hi>
+夫五臓化液遇熱則乾燥遇寒則流衍鼻流清涕至於<lb/>
+不止以肺臓感寒寒氣上逹故其液不能収制如此且<lb/>
+涕泗洟皆鼻液也以繼泣則曰涕以生於肺則曰泗涕<lb/>
+甚曰洟此獨言涕與宣明五氣言肺為涕同意<lb/>
+<pb n="KR3e0067_WYG_056-6a"/>
+　　　方<lb/>
+五味子湯　治鼻出清涕<lb/>
+　　五味子　山芋<hi>各一两</hi>半夏<hi>湯洗去/滑三分</hi>鹿茸<hi>酒浸一宿酥炙</hi>白<lb/>
+　　术<hi>米湯浸一宿剉炒各一分</hi>附子<hi>炮製去/皮臍</hi>牛膝<hi>酒浸/切焙</hi>甘草<hi>炙剉</hi>㯽<lb/>
+　　榔<hi>剉</hi>熟乾地黄<hi>焙/</hi>乾薑<hi>炮製各/半两</hi>白豆蔻<hi>去皮</hi>木香<lb/>
+　　丁香<hi>各一分</hi>白茯苓<hi>去黒皮三分</hi>
+　右粗搗篩每服三錢水一盞煎至七分去滓空心温<lb/>
+　服<lb/>
+<pb n="KR3e0067_WYG_056-6b"/>
+辛夷散<hi>出醫方集成</hi>　治肺虚風寒温熱之氣加之鼻内壅<lb/>
+　塞涕出不已或氣息不通或不聞香臭<lb/>
+　　辛夷仁　細辛<hi>洗去土葉</hi>藁本<hi>去蘆</hi>升麻　川芎　木通<lb/>
+　　<hi>去莭</hi>防風<hi>去/蘆</hi>羗活<hi>去蘆一/方無</hi>甘草<hi>炙</hi>香白芷<lb/>
+　右為細末每服二錢食後茶清調下一方有蒼耳一<lb/>
+　半㸃熱者茶調合和服<lb/>
+細辛膏<hi>出醫方集成</hi>　治鼻塞腦冷常有清涕出不已<lb/>
+　　細辛　蜀椒　乾薑　芎藭　呉茱茰　附子<hi>各十</hi>
+<pb n="KR3e0067_WYG_056-7a"/>
+　　<hi>八銖</hi>桂心<hi>一/分</hi>皂莢屑<hi>半/两</hi>猪膏<hi>一升</hi>
+　右㕮咀以綿裹苦酒浸一宿取猪膏煎以附子色黄<lb/>
+　為度去滓綿裹内鼻中并摩鼻上一方無桂心<lb/>
+訶梨勒散<hi>出聖惠方</hi>　治肺虚外傷風冷致鼻塞常流清涕<lb/>
+　頭目昏痛四肢不利<lb/>
+　　訶棃勒<hi>煨用皮</hi>白术<hi>各一/两</hi>防風<hi>去蘆/頭</hi>細辛　前胡<hi>去蘆</hi>
+　　<hi>頭</hi>木通<hi>剉各/三分</hi>附子<hi>一两炮裂/去皮剉</hi>麻黄<hi>二分去/根節</hi>甘草<hi>半两</hi>
+　　<hi>炙徴赤剉</hi>
+<pb n="KR3e0067_WYG_056-7b"/>
+　右為散每服三錢水一盞入生薑半分煎至六分食<lb/>
+　後服<lb/>
+細辛散　治肺傷風冷鼻流清涕頭目疼痛胸膈不利<lb/>
+　　細辛<hi>一两</hi>附子<hi>炮製去皮臍</hi>白术　桂心　蔓荆子　芎<lb/>
+　　藭　訶棃勒<hi>煨用皮以上各三錢</hi>枳殻<hi>去瓤麵/炒㣲黄</hi>甘草<hi>炙㣲赤剉各半</hi>
+　　<hi>两</hi>
+　右為散每服三錢水一盞入生薑半分煎至六分去<lb/>
+　滓食後服<lb/>
+<pb n="KR3e0067_WYG_056-8a"/>
+川椒散<hi>出直指方</hi>　治流涕<lb/>
+　　大紅開口川椒<hi>微炒盖出汗</hi>訶子<hi>煨取/肉</hi>川白薑<hi>生者</hi>肉桂<lb/>
+　　川芎　細辛　净白术<hi>等分</hi>
+　右為末每服二錢温酒調下<lb/>
+白术散<hi>出聖惠方</hi>　治鼻流清涕日久不止皆因肺臓虚寒<lb/>
+　心膈壅滯頭目不利<lb/>
+　　白术<hi>一两</hi>丁香　訶棃勒<hi>煨用皮</hi>桂心　細辛　附子<lb/>
+　　<hi>炮裂去皮臍各三錢</hi>枳殻<hi>去瓤麵炒/㣲黄半两</hi>吳茱茰<hi>一分湯浸七遍焙乾㣲炒</hi>
+<pb n="KR3e0067_WYG_056-8b"/>
+　右為細末每於食後温酒下一錢<lb/>
+芎藭散<hi>一名通草膏出聖惠方</hi>　治鼻清涕出腦冷所致<lb/>
+　　通草　辛夷仁<hi>各半两</hi>甘遂<hi>一作/甘草</hi>北細辛<hi>去苖</hi>桂心<lb/>
+　　芎藭　附子<hi>各一兩</hi>
+　右為末蜜丸杏仁大綿裹納鼻中宻封塞勿令氣泄<lb/>
+　丸如麻子漸稍加大㣲覺小痛擣薑為丸即愈此方<lb/>
+　治腦冷所致然病亦有腦熱者亦有肺塞者素問云<lb/>
+　膽移熱於腦則辛頞鼻淵又曰腦滲為涕當審詳之<lb/>
+<pb n="KR3e0067_WYG_056-9a"/>
+　　一方白狗膽和丸更佳<lb/>
+甘遂丸<hi>出本事方</hi>　治鼻多清涕<lb/>
+　　甘遂<hi>一两</hi>細辛<hi>去苖葉/一两半</hi>附子<hi>炮裂去/皮臍</hi>木通<hi>剉各一两一分</hi>乾<lb/>
+　　薑<hi>炮裂</hi>桂<hi>去粗/皮</hi>吳茱茰<hi>湯浸焙乾各一两</hi>
+　右為末煉蜜和撚如棗核大以綿裹内鼻中仰卧即<lb/>
+　涕止日三易之避風以瘥為度<lb/>
+芎藭膏<hi>出聖惠方</hi>　治鼻塞多清涕<lb/>
+　　芎藭　細辛<hi>去苖葉</hi>呉茱茰<hi>湯浸焙/乾炒</hi>蜀椒<hi>去目及閉口者炒出</hi>
+<pb n="KR3e0067_WYG_056-9b"/>
+　　<hi>汗</hi>
+　右細剉以醋浸一宿内猪脂於銀器中煎候五七沸<lb/>
+　去滓傾入合中澄凝以綿裹少許内鼻中一方有附<lb/>
+　子一味<lb/>
+塞鼻桂膏<hi>出聖惠方</hi>　治鼻常有清涕<lb/>
+　　桂心　細辛　乾薑<hi>炮裂剉</hi>川椒<hi>去目及閉口者炒出汗</hi>皂莢<lb/>
+　　<hi>一分</hi>
+　右為末以青羊脂和成膏每服如棗核大綿　塞鼻<lb/>
+<pb n="KR3e0067_WYG_056-10a"/>
+　中<lb/>
+杏仁膏<hi>一名通鼻散出聖惠方</hi>　治鼻乆塞清涕<lb/>
+　　杏仁<hi>湯浸去皮尖雙仁炒二两</hi>附子<hi>炮裂去皮/一两半</hi>細辛<hi>去苖葉</hi>蜀椒<lb/>
+　　<hi>去目及閉口者炒出汗各一两</hi>
+　右細剉以醋浸一宿用煉成猪脂一斤銀器盛㣲火<lb/>
+　煎之候附子黄色去滓傾入合中澄凝以綿裹少許<lb/>
+　内鼻中塗𩕄上一名塗𩕄膏一方無蜀椒<lb/>
+二黄散　治鼻痛流水臭氣腦冷漏下<lb/>
+<pb n="KR3e0067_WYG_056-10b"/>
+　　硫黄　黄丹<hi>炒</hi>白芷<lb/>
+　右等分為末少許吹鼻中三五次即愈<lb/>
+灌鼻黄連汁　治鼻塞多年清水出不止<lb/>
+　　黄連<hi>去鬚二两</hi>蒺藜苖<hi>二握</hi>
+　右細剉水二升煎至一升取一合灌鼻中不過再灌<lb/>
+　大嚏瘥<lb/>
+治鼻流清涕不止<lb/>
+　　用白芷末葱白搗爛和藥為丸小豆大每服二十<lb/>
+<pb n="KR3e0067_WYG_056-11a"/>
+　　丸茶清下<lb/>
+傷風鼻塞清涕不止<lb/>
+　　用白芷一两無白芷則用薄荷荆芥一錢為末以<lb/>
+　　臈茶清調下<lb/>
+　　　鼻中生瘡<hi>論</hi>
+夫心肺有病鼻為之不利盖心肺上膈開竅於鼻心肺<lb/>
+壅熱氣熏於鼻間藴積不散其證乾燥而痛甚則成瘡<lb/>
+也惟能平調心火以利肺經則瘡自己夫鼻者肺之穴<lb/>
+<pb n="KR3e0067_WYG_056-11b"/>
+故肺氣通於鼻也若臓腑不調隂陽否塞氣血壅滯榮<lb/>
+衞不通則上焦生熱邪熱之氣伏留不散上攻於鼻故<lb/>
+令鼻中生瘡也<lb/>
+　　　方<lb/>
+烏犀丸　治鼻中生瘡<lb/>
+　　烏犀<hi>細鎊一两</hi>羚羊角<hi>細鎊/一两</hi>胡黄連<hi>半/两</hi>貝母<hi>㣲炒去心半两</hi>知<lb/>
+　　母<hi>焙三分</hi>麥門冬<hi>去心焙/半两</hi>天門冬<hi>去心焙/半两</hi>甘草<hi>炙一分</hi>
+　　黄芩<hi>去黒心一分</hi>人參<hi>半/两</hi>牛黄<hi>一两/别研</hi>丹砂<hi>半两/别研</hi>柴胡<hi>一两</hi>
+<pb n="KR3e0067_WYG_056-12a"/>
+　　<hi>去苗</hi>
+　右除别研外搗羅為末入别研藥同更細羅煉蜜和<lb/>
+　丸如梧子大每服二十丸空心温酒下<lb/>
+前胡湯<hi>出聖惠方</hi>　治鼻中生瘡咽喉塞閉及乾嘔頭痛飲<lb/>
+　食不下<lb/>
+　　前胡<hi>去蘆頭三分</hi>升麻　木通<hi>剉/</hi>黄蘖<hi>㣲/炒</hi>𤣥參<hi>各一两</hi>大<lb/>
+　　青<hi>三分</hi>芒硝<hi>一/两</hi>麥門冬<hi>去心焙/三分</hi>竹青茹<hi>三分</hi>
+　右粗搗篩每服三錢水一盞煎七分去滓温服食後<lb/>
+<pb n="KR3e0067_WYG_056-12b"/>
+　日再<lb/>
+白蘚皮湯　治肺虚熱氣脹鼻中生瘡喘息促急時復<lb/>
+　寒熱<lb/>
+　　白蘚皮　𤣥參　葛根<hi>剉</hi>白前　大黄<hi>剉碎㣲炒各二两</hi>
+　　知母<hi>焙</hi>鼈甲<hi>酒浸炙/去裙襴</hi>秦艽<hi>去苗土各一两半</hi>
+　右粗搗每服三錢以水一盞入童子小便少許同煎<lb/>
+　至七分去滓温服如人行四五里再服<lb/>
+升麻湯　治鼻乾痒生瘡乾嘔不下飲食<lb/>
+<pb n="KR3e0067_WYG_056-13a"/>
+　　升麻　桔梗<hi>炒</hi>黄芩<hi>去黒/心</hi>犀角<hi>細/鎊</hi>貝母<hi>㣲炮去心</hi>龍膽<lb/>
+　　<hi>各半两</hi>甘草<hi>炙一分</hi>
+　右粗搗篩每服三錢以水一盞煎至七分去滓温服<lb/>
+　不拘時日三<lb/>
+辛夷膏　治鼻中生瘡鼻塞多涕<lb/>
+　　辛夷<hi>一分</hi>白芷<hi>半/两</hi>藁本<hi>去苗/土</hi>甘草　當歸<hi>去蘆頭各三分</hi>
+　右細剉以清酒六合羊髓十二兩銀石器盛火上煎<lb/>
+　三五沸去滓傾合中澄凝大豆許内鼻中日夜各一<lb/>
+<pb n="KR3e0067_WYG_056-13b"/>
+地黄煎　治鼻生瘡癢痛不止<lb/>
+　　生地黄汁<hi>一两</hi>苦參<hi>剉一/两</hi>酥<hi>二/合</hi>鹽花<hi>二錢/後入</hi>生薑汁<hi>一合</hi>
+　右以地黄生薑汁浸苦參一宿以酥合於銅石器中<lb/>
+　煎九上九下候汁入酥盡去滓傾入合中每以少許<lb/>
+　滴於瘡上諸風熱瘡亦佳其鹽花至半即下<lb/>
+辛夷膏<hi>出醫方集成</hi>　治鼻内生瘡疼痛或鼻中窒塞不通<lb/>
+　利及齆鼻氣不宣通並宜塗用之甚効<lb/>
+　　辛夷葉<hi>一两</hi>細辛　木通　木香　香白芷　杏仁<lb/>
+<pb n="KR3e0067_WYG_056-14a"/>
+　　<hi>湯浸去皮尖研各半两</hi>
+　右用羊髓猪脂各二两同諸藥和於石器中慢火熬<lb/>
+　成膏赤黄色放冷入龍腦麝香各一錢為丸綿裹塞<lb/>
+　鼻中數日内脱即愈<lb/>
+梔子煎<hi>出聖惠方</hi>　治肺氣風熱鼻内生瘡<lb/>
+　　山梔子<hi>去皮煨</hi>苦參　木通<hi>各三两</hi>
+　右細剉酥四兩同煎令香濾去滓傾入中每以少許<lb/>
+　滴入鼻中<lb/>
+<pb n="KR3e0067_WYG_056-14b"/>
+礬石煎　治鼻中熱氣生瘡有膿殠兼有蟲滴鼻<lb/>
+　　礬石<hi>一两</hi>苦參　生地黄<hi>洗令净研取汁三合</hi>
+　右為末以地黄汁并水二盞煎至三分去滓少少滴<lb/>
+　鼻中三五度瘥<lb/>
+大黄散<hi>出聖惠方</hi>　治肺壅鼻中生瘡腫<lb/>
+　　川大黄<hi>生用</hi>黄連<hi>去鬚各/一分</hi>麝香<hi>一錢細研</hi>
+　右為細散研入麝香仝勻以生油旋調塗於鼻中<lb/>
+又方<hi>出聖惠方</hi>
+<pb n="KR3e0067_WYG_056-15a"/>
+　　杏仁<hi>一分湯浸去皮尖雙仁研為膏</hi>川大黄<hi>一分生為末</hi>
+　右和令匀以猪脂調塗鼻中<lb/>
+又方<hi>出聖惠方</hi>
+　　黄蘖　㯽榔<hi>各等分</hi>
+　右為末以猪脂調傅之<lb/>
+治鼻中生瘡<lb/>
+　　偷孝子㡌以拭之<lb/>
+又方<hi>出聖惠方</hi>
+<pb n="KR3e0067_WYG_056-15b"/>
+　　以牛口津傅之<lb/>
+又方<hi>出聖惠方</hi>
+　　以搗杏仁乳汁傅之亦燒核壓取油傅之<lb/>
+又方<hi>出聖惠方</hi>
+　　右燒牛狗骨灰以臘月猪脂和傅之<lb/>
+祀竈飯散　治鼻中生瘡傅鼻<lb/>
+　　用祀竈飯不限多少燒為灰細羅為散香油調塗<lb/>
+　　傅之一方無香油<lb/>
+<pb n="KR3e0067_WYG_056-16a"/>
+馬絆繩散<lb/>
+　　用馬絆繩一條燒為灰研細羅以少摻上瘡上<lb/>
+黄蘖飲　治鼻中熱氣生瘡有膿殠兼有蟲<lb/>
+　　用黄蘖二两去粗皮以冷水浸一两日絞取濃汁<lb/>
+　　一盞服之<lb/>
+治鼻中生瘡及治疳蟲蝕鼻<lb/>
+　　用烏牛耳中垢傅之<lb/>
+治鼻中瘡<hi>出本草</hi>
+<pb n="KR3e0067_WYG_056-16b"/>
+　　以生鷄子磕開頭取白去黄著米醋拌糖火頓沸<lb/>
+　　起擎下湯定更三度成熟熱飲酢盡不過一二瘥<lb/>
+止鼻洪并瘡<hi>出本草</hi>
+　　以壁錢蟲滴汁傅鼻中及瘡上<lb/>
+　　　疳蟲蝕鼻生瘡<hi>論</hi>
+夫五臓皆有蟲蟲得風則化肺開竅於鼻肺經既虚風<lb/>
+熱乗之鼻之氣壅塞不得宣利則疳蟲因得侵蝕瘡生<lb/>
+鼻間<lb/>
+<pb n="KR3e0067_WYG_056-17a"/>
+　　　方<lb/>
+椿根湯　治疳蟲入鼻中<lb/>
+　　椿根<hi>切一升去皮</hi>塩<hi>半/合</hi>葱白<hi>切半/升</hi>椒<hi>去目閉口者/炒出汗一合</hi>豉<hi>半升</hi>
+　右合和以醋及清泔各三升煎十數沸去滓約及一<lb/>
+　升分作三服有惡物下即愈小兒量大小加减<lb/>
+治鼻上赤瘡<lb/>
+　　石葶脂　輕粉　鷄心檳榔<hi>各一兩</hi>片腦<hi>半錢</hi>
+　右為細末相合同唾津搽於面上臨卧塗之大有神<lb/>
+<pb n="KR3e0067_WYG_056-17b"/>
+　效<lb/>
+如聖散　治疳蟲蝕鼻生瘡及鼻下赤爛<lb/>
+　　胡粉<hi>半两</hi>麝香<hi>研一/匙</hi>甜𤓰蒂<hi>七枚為末入粉内同研</hi>
+　右再同研勻蟾酥少許浸一宿次日取蟾水先和胡<lb/>
+　粉次同和丸如菉豆大每服二丸水化傅瘡上鼻下<lb/>
+　赤爛者塗赤爛處小児每服一丸<lb/>
+烏香散　治鼻疳瘡侵蝕鼻柱<lb/>
+　　草烏頭<hi>燒灰</hi>麝香<hi>研等分</hi>
+<pb n="KR3e0067_WYG_056-18a"/>
+　右同研細以少許貼瘡上<lb/>
+青金散　治疳蟲鼻生瘡及鼻流淹潰<lb/>
+　　銅青　白礬<hi>生研等分</hi>
+　右同研為散毎用少許傅瘡上小児亦可用<lb/>
+治疳蟲蝕鼻生瘡<hi>出十便良方</hi>
+　　用燒銅筯頭以酢淬之數過取酢傅之<lb/>
+銀屑方　治疳蟲蝕人口鼻唇頰作瘡穿透者洗瘡<lb/>
+　　銀屑十两水三升一日三四度洗瘡仍於銅器中<lb/>
+<pb n="KR3e0067_WYG_056-18b"/>
+　　煎用<lb/>
+又方<hi>出十便良方</hi>
+　　右以綿裹入犀角灰夜著之<lb/>
+又方<hi>出十便良方</hi>
+　　右燒牛骨灰末以臘月猪脂和傅之瘥<lb/>
+治疳蟲蝕鼻生瘡<hi>出本草</hi>
+　　燒杏核壓油取傅之<lb/>
+治鼻口急疳蟲數日欲死<lb/>
+<pb n="KR3e0067_WYG_056-19a"/>
+　　用藍澱傅之令遍日十度夜四度立瘥<lb/>
+　　　鼻乾<hi>論</hi>
+夫鼻乾無涕者由臓腑壅滯内有積熱攻於上焦之所<lb/>
+致也夫肺氣通於鼻洩於涕若其臟挾於風熱則津液<lb/>
+不通皮毛枯燥两頰時赤頭痛鼻乾故令無涕也<lb/>
+　　　方<lb/>
+神明青膏<hi>出千金方</hi>　治鼻中乾灌之并摩服<lb/>
+　　蜀椒<hi>五合</hi>皂莢　黄芩　石南　黄連　雄黄　桂<lb/>
+<pb n="KR3e0067_WYG_056-19b"/>
+　　心　䔧蘆<hi>各三銖</hi>白术　芎藭　大黄　澤㵼<hi>各七銖</hi>
+　　烏頭　莽草　續斷　人參<hi>各五銖</hi>半夏　當歸<hi>各十</hi>
+　　<hi>二銖</hi>乾地黄<hi>十一/銖</hi>萎㽔　細辛<hi>各十/銖</hi>附子　桔梗<hi>各二</hi>
+　　<hi>銖</hi>乾薑<hi>六/銖</hi>戎鹽<hi>杏子大二枚</hi>
+　右㕮咀苦酒一斗漬之羊髓一斤為南三隅竈内諸<lb/>
+　藥炊以葦薪作三聚新好土藥沸即下置土聚上三<lb/>
+　沸下三訖藥成以新布絞去滓病在外大炙摩之在<lb/>
+　内温酒服如棗核日三後稍益以止為度<lb/>
+<pb n="KR3e0067_WYG_056-20a"/>
+犀角散<hi>出聖惠方</hi>　治肺熱鼻乾無涕心神煩悶<lb/>
+　　犀角屑　木通<hi>剉</hi>赤茯苓　川升麻　黄耆<hi>剉</hi>馬<lb/>
+　　牙硝　杏仁<hi>湯浸去皮尖雙仁麺炒黄各半兩</hi>麥門冬<hi>去心焙一两</hi>朱<lb/>
+　　砂<hi>一分研細</hi>龍腦<hi>一分/細研</hi>甘草<hi>炙一分</hi>
+　右為細散每於食後竹葉湯調下一錢<lb/>
+木通散<hi>出聖惠方</hi>　治肺臓積熱两頰時赤皮膚枯燥鼻乾<lb/>
+　無涕頭目多痛<lb/>
+　　木通<hi>一两</hi>麥門冬<hi>一两半/去心</hi>赤茯苓<hi>一/两</hi>石膏<hi>二两</hi>犀角屑<lb/>
+<pb n="KR3e0067_WYG_056-20b"/>
+　　<hi>半两</hi>桑根白皮<hi>一两/剉</hi>杏仁<hi>一两湯浸去皮/尖雙仁炒㣲黄</hi>甘草<hi>半两炙㣲</hi>
+　　<hi>黄剉</hi>白前<hi>一两</hi>
+　右為散每服三錢水一盞煎至六分去滓温服<lb/>
+天門冬散　治肺壅腦熱鼻乾無涕大腸秘澁不眠心<lb/>
+　躁<lb/>
+　　天門冬　大黄　升麻　桑白皮　枳殻　甘草<lb/>
+　　<hi>各半两</hi>荆芥<hi>一两</hi>
+　右㕮咀每服二錢水一盞煎至六分去滓分作五服<lb/>
+<pb n="KR3e0067_WYG_056-21a"/>
+桑白皮根散　治肺臓積熱皮膚乾燥鼻痛無涕頭疼<lb/>
+　心悶<lb/>
+　　桑白皮根<hi>剉</hi>木通<hi>剉/</hi>川大黄<hi>剉碎/㣲炒</hi>甘草<hi>炙㣲赤剉已上各一</hi>
+　　<hi>两</hi>川升麻<hi>一两/半</hi>石膏<hi>三/两</hi>葛根<hi>三两剉</hi>
+　右為散每服三錢水一鍾煎至六分去滓食後溫服<lb/>
+吹鼻散　治鼻乾無涕<lb/>
+　　龍腦<hi>半錢</hi>馬牙硝<hi>一/錢</hi>𤓰蔕<hi>十四枚為末</hi>
+　右同細研每用一豆大吹入鼻中<lb/>
+<pb n="KR3e0067_WYG_056-21b"/>
+　　　鼻皰酒<graphic n="KR1439" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1439.png" mimeType="image/png"/>
+                    <hi>論</hi>
+夫面生皻者由飲酒勢衝面而遇風冷之氣相摶所生<lb/>
+也故令鼻面生皻赤皰匝匝然也<lb/>
+　　　方<lb/>
+硫黄膏　專治赤鼻<lb/>
+　　生硫黄　香白芷　𤓰蔞根　膩粉<hi>已上各半錢</hi>芫青<lb/>
+　　<hi>七箇去足趐一方無芫靑用天仙子</hi>全蝎<hi>一/箇</hi>蟬退<hi>五箇洗去土</hi>
+　右為細末麻油黄蠟約度如合面油法多少熬匀取<lb/>
+<pb n="KR3e0067_WYG_056-22a"/>
+　下離火入諸藥在内毎用少許臨卧洗面净用傅之<lb/>
+　近眼處勿塗數日間瘡腫處自平赤消再服後藥<lb/>
+何首烏丸<hi>出危氏方</hi>　治肺風面赤鼻赤<lb/>
+　　何首烏<hi>一兩半</hi>防風　黒豆<hi>去皮</hi>藁本　荆芥穗　地<lb/>
+　　骨皮<hi>洗各一兩</hi>桑白皮　天仙藤　苦參　赤土<hi>各半兩</hi>
+　右為細末煉蜜為丸如梧桐子大每服三四十丸食<lb/>
+　後茶清下<lb/>
+木蘭皮膏<hi>出聖惠方</hi>　治酒<graphic n="KR3615" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3615.png" mimeType="image/png"/>皻炮<lb/>
+<pb n="KR3e0067_WYG_056-22b"/>
+　　木蘭皮　防風<hi>去蘆頭</hi>白芷　木香　牛膝<hi>去苗</hi>
+　右為細末用絹袋盛之於鼻内聞之至夜用津唾濕<lb/>
+　瘡将藥於鼻瘡上搽磨天明用水洗去藥仍以蒼耳<lb/>
+　五月五日午時採取隂乾用酒浸九蒸九曝研為末<lb/>
+　煉蜜丸如彈子大每服一丸食後溫酒化下日進三<lb/>
+　服半月除之<lb/>
+白龍散<hi>出危氏方</hi>　治酒皻鼻并面上肺風瘡<lb/>
+　　川芎　藁本　白辛　甘草　白芷<lb/>
+<pb n="KR3e0067_WYG_056-23a"/>
+　右各等分如澡豆法更湏畧罨少時方以湯洗去食<lb/>
+　後服龍虎丹一貼只作一服不半月盡退局方云其<lb/>
+　人舊赤皻可畏今瑩然㓗白矣上項所服龍虎丹方<lb/>
+　見諸風雜治類<lb/>
+肺風丸<hi>出瘡科精要</hi>　治面鼻風<graphic n="KR1439" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1439.png" mimeType="image/png"/>及皶䶌<lb/>
+　　苦參<hi>二两</hi>細辛　旋覆花　羗活<hi>各一/两</hi>晩蚕蛾<hi>二两去皮</hi>
+　　<hi>翅足</hi>
+　右為細末軟飯和丸如梧桐子大每服五十丸茶酒<lb/>
+<pb n="KR3e0067_WYG_056-23b"/>
+　任下不拘時候<lb/>
+皂角丸<hi>出聖惠方</hi>　治飲酒過多鼻皻皰<lb/>
+　　皂角<hi>一斤不蛀者去皮以酥五两漸塗以慢火炙酥盡為度然後搥碎以新汲水浸用生絹濾</hi>
+　　<hi>過以慢火熬成膏</hi>防風<hi>去蘆/頭</hi>獨活　甘草<hi>炙㣲/赤剉</hi>牛蒡子<hi>㣲炒</hi>
+　　<hi>各一两</hi>
+　右為末入皂角煎和丸如梧桐子大每於食後茶酒<lb/>
+　任下二十丸<lb/>
+肺風赤鼻<lb/>
+<pb n="KR3e0067_WYG_056-24a"/>
+　　草烏尖<hi>七箇</hi>猪牙皂角<hi>一/錢</hi>明礬<hi>五/分</hi>麝香<hi>一匙</hi>大楓油<lb/>
+　右為末和勻磁器内於火上熔開調藥先以薑擦次<lb/>
+　用手指蘸藥擦之一日三次無不効<lb/>
+木香膏<hi>出聖惠方</hi>　治積年酒皻并治面上風瘡<lb/>
+　　硫黄<hi>細研</hi>蝸牛殻<hi>自死乾枯小者/為上净去泥土</hi>木香　杏仁<hi>去皮尖研</hi>
+　　<hi>如膏</hi>芎藭<hi>已上各/一两</hi>麝香<hi>半两細研</hi>赤芍藥　獨活　杜蘅<lb/>
+　　當歸　白附子　細辛<lb/>
+　右細剉以臘月猪脂二斤㣲火熬以白芷黄為度濾<lb/>
+<pb n="KR3e0067_WYG_056-24b"/>
+　去滓入麝攪令勻甆合中盛每夜薄塗之<lb/>
+何首烏丸<hi>出危氏方</hi>　治肺風面赤鼻赤<lb/>
+　　何首烏<hi>一两半</hi>防風　黒豆<hi>去/皮</hi>荆芥穗　地骨皮<hi>洗各</hi>
+　　<hi>一两</hi>桑白皮　天仙藤　苦參　赤土<hi>各半两</hi>
+　右為末煉蜜丸如梧桐子每服三四十丸食後茶清<lb/>
+　下一方有藁本一两<lb/>
+治紅鼻<hi>出德生堂</hi>
+　　舶上硫黄　天仙子　小椒　雄黄　枯礬　三<lb/>
+<pb n="KR3e0067_WYG_056-25a"/>
+　　奈子<hi>各一两</hi>麝香　輕粉<hi>少許</hi>
+　右為細末小油調搽瘡上<lb/>
+梔子丸<hi>出聖惠方</hi>　治酒<graphic n="KR1439" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1439.png" mimeType="image/png"/>鼻皰及因飲酒過多致鼻皻皰<lb/>
+　　梔子仁　豉<hi>各三升</hi>大黄<hi>六/两</hi>木蘭皮<hi>半两</hi>芎藭　甘草<lb/>
+　　<hi>各四两</hi>
+　右為末蜜和丸如梧桐子每服十丸日三加至十五<lb/>
+　丸<lb/>
+冬𤓰子散<hi>出聖惠方</hi>　治鼻面酒皻如麻豆及疼痛搔之黄<lb/>
+<pb n="KR3e0067_WYG_056-25b"/>
+　水出宜服<lb/>
+　　梔子仁<hi>二两</hi>栢子仁　白茯苓　葵子<hi>㣲炒各一两</hi>冬𤓰<lb/>
+　　子仁<hi>二两</hi>枳實<hi>一两麩炒㣲黄</hi>
+　右為散每於食後以粥飲調下二錢<lb/>
+石亭脂散　治酒傷肺經鼻靣生赤紅瘡<lb/>
+　　石亭脂<hi>一錢</hi>當歸　輕粉<hi>各半/錢</hi>腦子<hi>少/許</hi>㯽榔<hi>三錢</hi>朱粉<lb/>
+　　<hi>各半錢</hi>
+　右為末入杏仁朱粉硫黄都研令勻以臘日面脂調<lb/>
+<pb n="KR3e0067_WYG_056-26a"/>
+　如稀膏每夜欲卧時以淡漿水凈洗面拭乾以藥塗<lb/>
+　所患處平明即以温水洗之濕以米泔洗了塗藥三<lb/>
+　五上亦瘥<lb/>
+治酒<graphic n="KR1439" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1439.png" mimeType="image/png"/>鼻<lb/>
+　　生硫黄<hi>三錢</hi>黄連　白礬　乳香<hi>各一/錢半</hi>輕粉<hi>半錢</hi>
+　右為細末用唾津調搽之一日二次塗湏去赤為度<lb/>
+　神效<lb/>
+白附子散<hi>出聖惠方</hi>　治肺臓風毒及酒<graphic n="KR1439" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1439.png" mimeType="image/png"/>癢發歇無定<lb/>
+<pb n="KR3e0067_WYG_056-26b"/>
+　　白附子　細辛<hi>各一两</hi>木香　白豉<hi>各半/两</hi>麝香<hi>一分細研</hi>
+　右為末入麝香研勻水調如膏夜卧塗之<lb/>
+治鼻皰<lb/>
+　　蒺蔾子　梔子仁　䜴<hi>各一升</hi>木蘭皮<hi>半升一本無</hi>
+　右為末以酢漿水和丸如泥夜傅之日未出時暖水<lb/>
+　洗却亦主㓕瘢痕<lb/>
+粉黄膏　治肺熱鼻發赤瘰俗為酒皶<lb/>
+　　硫黄<hi>一分為末</hi>輕粉　烏頭尖<hi>各少許/為末</hi>蘿蔔<hi>切去盖剜作瓮子入</hi>
+<pb n="KR3e0067_WYG_056-27a"/>
+　　<hi>硫黄在内以竹針盖定正安煻火煨一宿取出研細為末少許</hi>
+　右研勻以面油調臨卧時傅早晚洗去以酥調尤佳<lb/>
+又方<lb/>
+　　乳香　硫黄　細辛　輕粉<hi>等分</hi>
+　右為細末用水調傅<lb/>
+治酒<graphic n="KR1439" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1439.png" mimeType="image/png"/>鼻并鼻上贅肉及面上雀子班等疾亦可㸃痣<lb/>
+　　黄丹<hi>五文</hi>硇砂<hi>三十文/研極細</hi>餅藥<hi>五十文/罐子盛</hi>巴豆<hi>十箇去殻膜綿包壓</hi>
+　　<hi>去油</hi>
+<pb n="KR3e0067_WYG_056-27b"/>
+　右同入餅藥罐子盛慢火熬三两沸取下續入研細<lb/>
+　生礦灰三錢鷄子清調勻酒<graphic n="KR1439" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1439.png" mimeType="image/png"/>鼻用鵝毛掃在紅處<lb/>
+　一日一次上藥追出毒物病退即止次服消風散樺<lb/>
+　皮散之類五七貼雀子斑小竹棒児挑藥㸃患處才<lb/>
+　覺㣲腫即洗去不洗去恐力太猛趙君猷撫幹所傳<lb/>
+　云貳卿趙再可知湖州時與一詩僧相厚而僧患酒<lb/>
+　<graphic n="KR1439" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1439.png" mimeType="image/png"/>鼻端生赤贅數枚大者如橘小者如梅李下垂過<lb/>
+　口飲食言語皆所妨廢良自厭惡之郡有一小兵事<lb/>
+<pb n="KR3e0067_WYG_056-28a"/>
+　刀鑷人但聞其善取靨誠不知其能治酒<graphic n="KR1439" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1439.png" mimeType="image/png"/>也一旦<lb/>
+　自言於僧請醫此疾即以藥傅之凢半月餘每日取<lb/>
+　惡物如膿血自皮膚出者甚多其贅後悉成痂落去<lb/>
+　鼻面瑩然遂以十千為謝且語貳卿俾直齋閤而求<lb/>
+　得其方以傳秀鄉治人良驗<lb/>
+治赤鼻及諸般面上風瘡<lb/>
+　　大楓油<hi>五十文</hi>草烏頭<hi>一/箇</hi>輕粉　麝香<hi>各一百文</hi>
+　右將草烏頭為末入油内熬令勻取出少時後入輕<lb/>
+<pb n="KR3e0067_WYG_056-28b"/>
+　粉麝香先令研細打和得勻頻頻用少許以塗手擦<lb/>
+　患處令熱旬日即瘥一方無輕粉用生薑擦患處<lb/>
+又方　治肺風酒<graphic n="KR1439" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1439.png" mimeType="image/png"/>鼻<lb/>
+　　明礬　明硫黄<hi>用紅色者</hi>好片腦<hi>少許與藥同研</hi>礬黄<lb/>
+　右等分研為細末以指蘸藥擦患處<lb/>
+治酒<graphic n="KR1439" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1439.png" mimeType="image/png"/>鼻及婦人鼻上生黒粉刺者<lb/>
+　　生硫黄<hi>半两</hi>杏仁<hi>二錢/半</hi>輕粉<hi>一錢</hi>
+　右為細末用餅藥調卧時塗上早則洗去數次絶根<lb/>
+<pb n="KR3e0067_WYG_056-29a"/>
+又方　治肺風酒<graphic n="KR1439" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1439.png" mimeType="image/png"/>鼻<hi>蔡察推名與義𫝊於一兵官親見其効也</hi>
+　　生硫黄　乳香　白礬<hi>各等分生用</hi>
+　右研如粉每用手指㣲抓動患處以藥擦之不月餘<lb/>
+　必愈<lb/>
+治赤鼻<lb/>
+　　石亭脂　蟬蛻　白礬<lb/>
+　右各等分為末研松香為細末用青葱葉盛貯用黄<lb/>
+　皮湯就煑數沸取出待冷碾細入輕粉和勻香油調<lb/>
+<pb n="KR3e0067_WYG_056-29b"/>
+　傅<lb/>
+㯽榔散　治鼻頭赤<lb/>
+　　鷄心㯽榔　舶上硫黄<hi>等分</hi>片腦<hi>少許</hi>
+　右為細末用繦絹帛包裹時於鼻上搽磨鼻聞其臭<lb/>
+　効又加萆麻子肉為末酥油調臨卧少搽於鼻上終<lb/>
+　夜得聞<lb/>
+又方<lb/>
+　　枇杷葉<hi>一两去毛隂乾新者佳</hi>梔子<hi>半两</hi>
+<pb n="KR3e0067_WYG_056-30a"/>
+　右為細末毎服二三錢温酒調下早晨服先去左邊<lb/>
+　臨卧服去右邊効如神<lb/>
+治酒<graphic n="KR1439" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1439.png" mimeType="image/png"/>鼻<hi>一名凌霄花散</hi>人服之屢効但藥性差寒湏量虚實<lb/>
+　　凌霄花　山梔子<lb/>
+　右等分為細末每服三錢食後茶調下日進三服一<lb/>
+　方治鼻赤<hi>臨川曾景仁甞苦是疾一日得此方於都下異人不三次遂去根本趙太叔親服見</hi>
+　<hi>效</hi>
+治鼻赤風　　詩曰<lb/>
+<pb n="KR3e0067_WYG_056-30b"/>
+　　肺風鼻赤最難醫　　我有良方付與伊<lb/>
+　　但有硫礬為細末　　茄汁調塗始是竒<lb/>
+　　<hi>澹寮方不用茄汁冷水調傅鼻上夜用𫝊免防人也</hi>
+　右用消風散何首烏散各五貼和一處用茶清或酒<lb/>
+　送下苦參丸不拘時服忌早酒一月<lb/>
+五風散<hi>出海上方</hi>　治酒<graphic n="KR1439" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1439.png" mimeType="image/png"/>鼻<lb/>
+　右用小烏沉湯五貼小消風散和勻以湯㸃服<lb/>
+梔子仁丸<hi>出澹寮方</hi>　治肺熱鼻發赤瘰俗名酒皶鼻<lb/>
+<pb n="KR3e0067_WYG_056-31a"/>
+　右用梔子仁不以多少為細末黄蠟為丸如梧桐子<lb/>
+　每服二十丸食後用茶酒任下<lb/>
+治鼻面酒皶及䵟<graphic n="KR0845" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0845.png" mimeType="image/png"/>
+                    <hi>出仁存方</hi>
+　　用蜀葵花一合研細臘月脂調傅每夜用之<lb/>
+酒<graphic n="KR1439" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1439.png" mimeType="image/png"/>鼻方<hi>出直指方</hi>
+　　用白塩常擦妙<lb/>
+鼻中外<graphic n="KR1439" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1439.png" mimeType="image/png"/>瘤膿水血出<hi>出危氏方</hi>
+　　用露蜂房一箇以火炙焦為末用温酒下方寸匕<lb/>
+<pb n="KR3e0067_WYG_056-31b"/>
+　　每日三服<lb/>
+又方<hi>出海上方</hi>　治酒<graphic n="KR1439" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1439.png" mimeType="image/png"/>鼻赤皰注上面臉者<lb/>
+　　用斛葉灰先以泔清煮榆葉取汁洗蹙乾内灰瘡<lb/>
+　　中良<lb/>
+治鼻中外<graphic n="KR1439" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1439.png" mimeType="image/png"/>瘤膿血<lb/>
+　　用腦子不以多少真酥調塗傅之不以度數用之<lb/>
+　　即瘥<lb/>
+治鼻中外<graphic n="KR1439" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1439.png" mimeType="image/png"/>瘤膿血出者<lb/>
+<pb n="KR3e0067_WYG_056-32a"/>
+　　用取正月鼠頭燒作灰以臘月猪脂傅瘡上<lb/>
+治酒<graphic n="KR1439" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1439.png" mimeType="image/png"/>面部生瘡俗呼酒皶鼻<lb/>
+　　用使君子去皮不以多少用香油一呷浸三五箇<lb/>
+　　臨卧時細嚼用香油送下<lb/>
+治酒<graphic n="KR1439" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1439.png" mimeType="image/png"/>鼻神効<lb/>
+　　用牛黄末水調傅之<lb/>
+治赤鼻<lb/>
+　　用猪肝一副人參潤肺散一貼加桑白皮同煑肝<lb/>
+<pb n="KR3e0067_WYG_056-32b"/>
+　　熱肝與藥空心皆喫<lb/>
+治酒<graphic n="KR1439" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1439.png" mimeType="image/png"/>鼻<lb/>
+　　用刺薊花為末入生薑汁調瘡上入麝香輕粉少<lb/>
+　　許為頭首小厮児乳調搽大神効<lb/>
+荆芥散<hi>出楊氏家蔵方</hi>　治肺風<graphic n="KR1439" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1439.png" mimeType="image/png"/>疱<lb/>
+　　荆芥穗<hi>四两</hi>防風<hi>去蘆/頭</hi>白蒺藜<hi>炒去/刺</hi>白殭蚕<hi>炒出絲觜</hi>杏<lb/>
+　　仁<hi>去皮尖</hi>甘草<hi>炙已上五味各一两</hi>
+　右件為末每服二錢茶清調下食後<lb/>
+<pb n="KR3e0067_WYG_056-33a"/>
+赤龍散<hi>出楊氏家蔵方</hi>　凉血消風治鼻生<graphic n="KR1439" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1439.png" mimeType="image/png"/>疱<lb/>
+　　赤土<hi>二两半</hi>防風　赤芍藥　地骨皮　何首烏<lb/>
+　　當歸　山梔子<hi>已上六味各二两</hi>甘草<hi>炙一两</hi>
+　右件為細末每服二錢温酒調下茶清亦得食後<lb/>
+越桃散<hi>出楊氏家藏方</hi>　治汗出當風邪受風外面生<graphic n="KR1439" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1439.png" mimeType="image/png"/>疱<lb/>
+　　川芎　羗活<hi>去蘆頭</hi>防風<hi>去蘆/頭</hi>甘菊花　白蒺藜<hi>炒去</hi>
+　　<hi>刺</hi>甘草<hi>炙六味/各一两</hi>山梔子仁<hi>三錢</hi>
+　右件為細末每服二錢茶淸調下食後<lb/>
+<pb n="KR3e0067_WYG_056-33b"/>
+箆麻子膏<hi>出楊氐家藏方</hi>　專治肺風面赤生瘡并酒<graphic n="KR1439" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1439.png" mimeType="image/png"/>鼻<lb/>
+　　瀝青<hi>别研</hi>黄蠟　輕粉　硫黄<hi>别/研</hi>箆麻子<hi>去皮研已上五味各</hi>
+　　<hi>二錢</hi>麻油<hi>一两</hi>
+　右件為細末將油蠟同文武火熬令蠟鎔入前件藥<lb/>
+　末攪成膏子取出用磁合子盛之每用少許於患處<lb/>
+　擦之<lb/>
+紫葳散<hi>出楊氏家藏方</hi>　治肺有風熱鼻上<graphic n="KR1439" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1439.png" mimeType="image/png"/>疱<lb/>
+　　凌霄花<hi>半两</hi>硫黄<hi>一两/别研</hi>膩粉<hi>一/錢</hi>胡桃<hi>四枚去殻</hi>
+<pb n="KR3e0067_WYG_056-34a"/>
+　右件先將藥三味和勻後入胡桃肉同研如膏子生<lb/>
+　絹蘸藥頻頻揩之<lb/>
+治鼻面酒皶皰<hi>出本草</hi>
+　　用鸕鷀糞一合研以臘月猪脂和每夜傅之<lb/>
+治酒<graphic n="KR1439" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1439.png" mimeType="image/png"/>風鼻上赤<lb/>
+　　用橘子核㣲炒為末每用一錢匕研胡桃肉一箇<lb/>
+　　同以温酒調服以差為度<lb/>
+神效治酒<graphic n="KR1439" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1439.png" mimeType="image/png"/>
+<pb n="KR3e0067_WYG_056-34b"/>
+　　枇杷葉<lb/>
+　右布巾拭去毛焙乾為末每服三錢如㸃茶日两三<lb/>
+　服<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　普濟方卷五十七<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2m0040_WYG_077-1a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-2a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-3a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-4a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-5a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-6a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-7a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-8a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-9a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-10a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-11a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-12a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-13a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-14a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-15a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-16a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-17a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-18a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-19a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-20a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-21a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-22a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-23a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-24a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-25a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-26a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-27a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-28a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-29a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-30a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-31a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-32a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-33a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-34a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-35a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-36a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-37a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-38a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-39a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-40a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-41a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-42a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-43a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-44a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-45a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-46a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-47a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-48a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-49a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-50a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-51a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-52a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-53a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-54a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-55a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-56a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-57a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-58a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-59a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-60a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-61a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-62a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-63a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-64a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-65a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-66a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-67a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-68a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-69a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-70a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-71a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-72a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-73a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-74a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-75a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-76a"/>
+</p>
+<p>
+<pb n="KR2m0040_WYG_077-77a"/>
+八旬萬壽盛典　　　卷七十八　　　　七十七<lb/>
+<pb n="KR2m0040_WYG_077-78a"/>
+八旬萬壽盛典　　　　卷七十八　　　　七十八<lb/>
+<pb n="KR2m0040_WYG_077-79a"/>
+八旬萬壽盛典　　　　卷七十八　　　　七十九<lb/>
+<pb n="KR2m0040_WYG_077-80a"/>
+八句萬壽盛典　　　卷七十八　　　　八十<lb/>
+<pb n="KR2m0040_WYG_077-81a"/>
+八旬萬壽盛典　　　　卷七十八　　　　八十一<lb/>
+<pb n="KR2m0040_WYG_077-82a"/>
+八旬萬壽盛典　　　　卷七十八　　　　八十二<lb/>
+<pb n="KR2m0040_WYG_077-83a"/>
+八旬萬壽盛典　　　卷七十八　　　　八十三<lb/>
+<pb n="KR2m0040_WYG_077-84a"/>
+八旬萬壽盛典　　　卷七十八　　　　八十四<lb/>
+<pb n="KR2m0040_WYG_077-85a"/>
+八旬萬壽盛典　　　　卷七十八　　　　八十五<lb/>
+<pb n="KR2m0040_WYG_077-86a"/>
+八旬萬壽盛典　　　　卷七十八　　　　八十六<lb/>
+<pb n="KR2m0040_WYG_077-87a"/>
+八旬萬壽盛典　　　卷七十八　　　　八十七<lb/>
+<pb n="KR2m0040_WYG_077-88a"/>
+八旬萬夀盛典　　　卷七十八　　　　八十八<lb/>
+<pb n="KR2m0040_WYG_077-89a"/>
+八旬萬壽盛典　　　　卷七十八　　　　八十九<lb/>
+<pb n="KR2m0040_WYG_077-90a"/>
+八旬萬壽盛典　　　　卷七十八　　　　九十<lb/>
+<pb n="KR2m0040_WYG_077-91a"/>
+八旬萬壽盛典　　　　卷七十八　　　　九十一<lb/>
+<pb n="KR2m0040_WYG_077-92a"/>
+八旬萬壽盛典　　　卷七十八　　　　九十二<lb/>
+<pb n="KR2m0040_WYG_077-93a"/>
+八旬萬壽盛典　　　卷七十八　　　　九十三<lb/>
+<pb n="KR2m0040_WYG_077-94a"/>
+八旬萬壽盛典　　　　卷七十八　　　　九十四<lb/>
+<pb n="KR2m0040_WYG_077-95a"/>
+八旬萬壽盛典　　　卷七十八　　　　九十五<lb/>
+<pb n="KR2m0040_WYG_077-96a"/>
+八旬萬壽盛典　　　卷七十八　　　　九十六<lb/>
+<pb n="KR2m0040_WYG_077-97a"/>
+八旬萬壽盛典　　　卷七十八　　　　九十七<lb/>
+<pb n="KR2m0040_WYG_077-98a"/>
+八旬萬壽盛典　　　卷七十八　　　　九十八<lb/>
+<pb n="KR2m0040_WYG_077-99a"/>
+八旬萬壽盛典　　　卷七十八　　　　九十九<lb/>
+<pb n="KR2m0040_WYG_077-100a"/>
+八旬萬壽盛典　　　卷七十八　　　　一百<lb/>
+<pb n="KR2m0040_WYG_077-101a"/>
+八旬萬壽盛典　　　卷七十八　　　　一百一<lb/>
+<pb n="KR2m0040_WYG_077-102a"/>
+八旬萬壽盛典　　　卷七十八　　　　一百二<lb/>
+<pb n="KR2m0040_WYG_077-103a"/>
+八旬萬壽盛典　　　　卷七十八　　　　一百三<lb/>
+<pb n="KR2m0040_WYG_077-104a"/>
+八旬萬壽盛典　　　　卷七十八　　　　一百四<lb/>
+<pb n="KR2m0040_WYG_077-105a"/>
+八旬萬壽盛典　　　卷七十八　　　　一百五<lb/>
+<pb n="KR2m0040_WYG_077-106a"/>
+八旬萬壽盛典　　　　卷七十八　　　　一百六<lb/>
+<pb n="KR2m0040_WYG_077-107a"/>
+八旬萬壽盛典　　　卷七十八　　　　一百七<lb/>
+<pb n="KR2m0040_WYG_077-108a"/>
+八旬萬壽盛典　　　　卷七十八　　　　一百八<lb/>
+<pb n="KR2m0040_WYG_077-109a"/>
+八旬萬壽盛典　　　卷七十八　　　　一百九<lb/>
+<pb n="KR2m0040_WYG_077-110a"/>
+八旬萬壽盛典　　　卷七十八　　　　一百一十<lb/>
+<pb n="KR2m0040_WYG_077-111a"/>
+八旬萬壽盛典　　　　卷七十八　　　　　一百十一<lb/>
+<pb n="KR2m0040_WYG_077-112a"/>
+八旬萬壽盛典　　　卷七十八　　　　一百十二<lb/>
+<pb n="KR2m0040_WYG_077-113a"/>
+八旬萬壽盛典　　　卷七十八　　　　一百十三<lb/>
+<pb n="KR2m0040_WYG_077-114a"/>
+八旬萬壽盛典　　　　卷七十八　　　　一百十四<lb/>
+<pb n="KR2m0040_WYG_077-115a"/>
+八旬萬壽盛典　　　　卷七十八　　　　一百十五<lb/>
+<pb n="KR2m0040_WYG_077-116a"/>
+八旬萬壽盛典　　　卷七十八　　　　一百十六<lb/>
+<pb n="KR2m0040_WYG_077-117a"/>
+八旬萬壽盛典　　　卷七十八　　　　一百十七<lb/>
+<pb n="KR2m0040_WYG_077-118a"/>
+八旬萬壽盛典　　　卷七十八　　　　一百十八<lb/>
+<pb n="KR2m0040_WYG_077-119a"/>
+八旬萬壽盛典　　　　卷七十八　　　　一百十九<lb/>
+<pb n="KR2m0040_WYG_077-120a"/>
+八旬萬壽盛典　　　卷七十八　　　　一百三十<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_069-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選卷六十九<lb/>
+　　巫山類<lb/>
+　　　五言古<lb/>
+　　　　巫山髙　　　　　　　　　<hi>齊</hi>王　融<lb/>
+　想像巫山髙薄暮陽臺曲烟霞乍舒卷蘅芳自斷續彼<lb/>
+　美如可期寤言紛在矚憮然坐相思秋風下庭緑<lb/>
+　　　　巫山髙　　　　　　　　　<hi>梁</hi>元　帝<lb/>
+<pb n="KR4h0141_WYG_069-1b"/>
+　巫山髙不窮迥出荆門中灘聲下濺石猿鳴上逐風樹<lb/>
+　雜山如畵林暗澗疑空無因謝神女一為出房櫳<lb/>
+　　　　賦得巫山髙　　　　　　　<hi>梁</hi>王　泰<lb/>
+　迢遞巫山竦逺天新霽時樹交凉去逺草合影開遲谷<lb/>
+　深流響咽峡近猿聲悲只言雲雨狀自有神仙期<lb/>
+　　　　巫山髙　　　　　　　　　<hi>陳</hi>蕭　佺<lb/>
+　巫山映巫峡髙髙殊未窮猿聲不辨處雨色詎分空懸<lb/>
+　崖下桂月深澗響松風别有仙雲起時向椘王宫<lb/>
+<pb n="KR4h0141_WYG_069-2a"/>
+　　　巫山髙　　　　　　　　　<hi>唐</hi>喬知之<lb/>
+巫山十二峰參差互隠見潯陽㡬千里周覽忽已徧想<lb/>
+像神女姿摘芳共珍薦椘雲何逶迤紅樹日葱蒨椘雲<lb/>
+沒湘源紅樹斷荆門郢路不可見况復夜聞猿<lb/>
+　　七言古<lb/>
+　　　巫山髙　　　　　　　　　<hi>唐</hi>李　賀<lb/>
+碧叢叢髙挿天大江翻瀾神曳烟椘魂尋夢風颸然曉<lb/>
+風飛雨生苔錢瑶姬一去一千年丁香笻竹啼老猿古<lb/>
+<pb n="KR4h0141_WYG_069-2b"/>
+祠近月蟾桂寒椒花墜紅濕雲間<lb/>
+　　五言律<lb/>
+　　　巫山髙　　　　　　　　　<hi>唐</hi>沈佺期<lb/>
+巫山髙不極合沓狀竒新暗谷疑風雨隂崖若鬼神月<lb/>
+明三峡曉潮滿九江春為問陽臺客應知入夢人<lb/>
+　　　巫山髙　　　　　　　　　<hi>唐</hi>劉方平<lb/>
+椘國巫山秀清猿日夜啼萬重春樹合十二碧峰齊峡<lb/>
+出朝雲下江廻暮雨西陽臺歸路直不畏向家迷<lb/>
+<pb n="KR4h0141_WYG_069-3a"/>
+　　　巫山髙　　　　　　　　　<hi>唐</hi>皇甫冉<lb/>
+巫峡見巴東迢迢出半空雲藏神女館雨到椘王宫朝<lb/>
+暮泉聲落寒暄樹色同清猿不可聽偏在九秋中<lb/>
+　　　巫山髙　　　　　　　　　<hi>唐</hi>李　端<lb/>
+巫山十二峰皆在碧虚中廻合雲藏日霏微雨帶風猿<lb/>
+聲寒過水樹色暮連空愁向髙唐宿清秋見椘宫<lb/>
+　　　巫山髙　　　　　　　　　<hi>唐</hi>鄭世翼<lb/>
+巫山凌太清岧嶤類削成霏霏暮雨合藹藹朝雲生危<lb/>
+<pb n="KR4h0141_WYG_069-3b"/>
+峰入鳥道深谷瀉猿聲別有幽棲客淹留攀桂情<lb/>
+　　七言律<lb/>
+　　　題巫山廟　　　　　　　　<hi>唐</hi>劉　滄<lb/>
+十二嵐峰掛夕暉廟門深閉霧烟微天髙木落椘人思<lb/>
+山㢠月殘神女歸觸石晴雲凝翠鬢度江寒雨濕羅衣<lb/>
+嬋娟似恨襄王夢猿呌斷巖秋蘚稀<lb/>
+　　五言絶句<lb/>
+　　　夜過巫山　　　　　　　　<hi>唐</hi>崔仲方<lb/>
+<pb n="KR4h0141_WYG_069-4a"/>
+　荆門秋水急巫峡斷雲輕若為教月夜長短聽猿聲<lb/>
+　　　　巫峡　　　　　　　　　　<hi>唐</hi>陸龜蒙<lb/>
+　巫峡七百里巫山十二重年年自雲雨環珮竟誰逢<lb/>
+　　　七言絶句<lb/>
+　　　　巫山　　　　　　　　　　<hi>唐</hi>張子容<lb/>
+　巫嶺岧嶤天際重佳期夙昔願相從朝雲暮雨連天暗<lb/>
+　神女知来第㡬峰<lb/>
+　　　　題巫山神女祠<hi>時白居易除蘇州刺史自峡沿流赴郡</hi>
+<pb n="KR4h0141_WYG_069-4b"/>
+　　　　　　　　　　　　　　　　<hi>唐</hi>繁知一<lb/>
+　忠州刺史今才子行到巫山必有詩為報髙唐神女道<lb/>
+　速排雲雨候清詞<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選巻六十九<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

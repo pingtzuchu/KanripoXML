@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3h0063_WYG_066-1a"/>
+欽定四庫全書<lb/>
+石渠寶笈卷三十二目録<lb/>
+　　　貯<lb/>
+　　御書房五<lb/>
+　　　列朝人<lb/>
+　　畫卷上等<lb/>
+　　　晉顧凱之列女圖<lb/>
+　　　唐閻立徳職貢圖<lb/>
+<pb n="KR3h0063_WYG_066-1b"/>
+　　　唐閻立本王㑹圖<lb/>
+　　　唐韓幹馬性圖<lb/>
+　　　唐韓滉豐稔圖<lb/>
+　　　唐周昉宫人調鸚鵡圖<lb/>
+　　　五代闗穜秋山平遠圖<lb/>
+　　　五代李賛華射鹿圖<lb/>
+　　　五代顧閎中畫韓熙載夜宴圖<lb/>
+　　　五代黃筌寫生珍禽<lb/>
+<pb n="KR3h0063_WYG_066-2a"/>
+　　　五代阮郜女仙圖<lb/>
+　　　宋徽宗梹榔雙雀圖<lb/>
+　　　宋徽宗池塘秋晚圖<lb/>
+　　　宋李成畫大禹泣辜圖<lb/>
+　　　宋趙昌蛺蝶圖<lb/>
+　　　宋燕肅秋山晚靄圖<lb/>
+　　　宋劉宷落花㳺魚圖<lb/>
+　　　宋蘇軾偃松圖<lb/>
+<pb n="KR3h0063_WYG_066-2b"/>
+　　　宋李公麟豳風圖<lb/>
+　　　宋李公麟畫女史箴<lb/>
+　　　宋李公麟便橋㑹盟圖<lb/>
+　　　宋趙令穣鵞羣圖<lb/>
+　　　宋米黻雲山圖並自書䟦<lb/>
+　　　宋喬仲常後赤壁賦圖<lb/>
+　　　宋趙白駒蓮舟新月圖<lb/>
+　　　宋馬和之袁安臥雪圖<lb/>
+<pb n="KR3h0063_WYG_066-3a"/>
+　　　宋馬和之畫風雅八篇<lb/>
+　　　宋劉松年蠶織圖<lb/>
+　　　宋李嵩貨郎圖<lb/>
+　　　宋王希孟千里江山圖<lb/>
+　　　宋馬逺豳風圖<lb/>
+　　　宋馬逺溪山秋爽圖<lb/>
+　　　宋馬逺水圖<lb/>
+　　　宋夏珪秋江風雨圖<lb/>
+<pb n="KR3h0063_WYG_066-3b"/>
+　　　宋夏珪江山佳勝圖<lb/>
+　　　宋陳容九龍圖<lb/>
+　　　宋趙黻江山萬里圖<lb/>
+　　　宋趙孟堅水仙<lb/>
+　　　宋趙孟堅水仙<lb/>
+　　　宋鄭思肖畫蘭<lb/>
+　　　宋何浩萬壑松濤圖<lb/>
+　　　宋夏東叟宋五賢圖<lb/>
+<pb n="KR3h0063_WYG_066-4a"/>
+　　宋僧法常花卉翎毛<lb/>
+　　　宋僧温日觀畫葡萄<lb/>
+　　　宋僧温日觀畫葡萄<lb/>
+　　　宋楊媫妤百花圖<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

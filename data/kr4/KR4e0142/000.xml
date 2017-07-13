@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>熊峯集目録</head>
+    <p>
+<pb n="KR4e0142_WYG_000-1a"/>
+欽定四庫全書　　　　　集部六<lb/>
+　熊峯集目録　　　　　　别集類五<hi>明</hi>
+　　巻一<lb/>
+　　　五言古<lb/>
+　　巻二<lb/>
+　　　七言古<lb/>
+　　巻三<lb/>
+　　　五言律<lb/>
+<pb n="KR4e0142_WYG_000-1b"/>
+　　巻四<lb/>
+　　　七言律<lb/>
+　　　五言排律<lb/>
+　　　五言絶句<lb/>
+　　　七言絶句<lb/>
+　　巻五<lb/>
+　　　賦<lb/>
+　　　表<lb/>
+<pb n="KR4e0142_WYG_000-2a"/>
+　　　疏<lb/>
+　　　碑文<lb/>
+　　　記<lb/>
+　　　傳<lb/>
+　　　文<lb/>
+　　　説<lb/>
+　　巻六<lb/>
+　　　序<lb/>
+<pb n="KR4e0142_WYG_000-2b"/>
+　　　銘<lb/>
+　　　墓誌銘<lb/>
+　　　墓表<lb/>
+　　巻七<lb/>
+　　　四言古<lb/>
+　　　五言古<lb/>
+　　巻八<lb/>
+　　　七言古<lb/>
+<pb n="KR4e0142_WYG_000-3a"/>
+　　巻九<lb/>
+　　　五言律<lb/>
+　　　七言律<lb/>
+　　　五言排律<lb/>
+　　　五言絶句<lb/>
+　　　七言絶句<lb/>
+　　　六言絶句<lb/>
+　　巻十<lb/>
+<pb n="KR4e0142_WYG_000-3b"/>
+　　　賦<lb/>
+　　　記<lb/>
+　　　傳<lb/>
+　　　説<lb/>
+　　　序<lb/>
+　　　賛<lb/>
+　　　銘<lb/>
+　　　墓誌銘<lb/>
+<pb n="KR4e0142_WYG_000-4a"/>
+　　　墓表<lb/>
+　　　　<hi>臣</hi>等謹案熊峯集十巻明石珤撰珤字邦彦<lb/>
+　　　　藁城人成化丁未進士官至文淵閣大學士<lb/>
+　　　　諡文隠改諡文介事跡具明史本傳珤出李<lb/>
+　　　　東陽之門東陽毎稱後進可託以柄斯文者<lb/>
+　　　　惟珤一人皇甫汸嘗刪定其集為四巻嵗久<lb/>
+　　　　板佚<lb/>
+　　　國朝康熙丁未餘姚孫光<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>為藁城知縣得别<lb/>
+<pb n="KR4e0142_WYG_000-4b"/>
+　　　　集遺稿於其家為合而重刋之嗣聞真定梁<lb/>
+　　　　清標家有其全稿乃購得續刋共為十巻此<lb/>
+　　　　本自一巻至四巻為詩五巻六巻為文七巻<lb/>
+　　　　至九巻又為詩十巻又為文盖刋板已定不<lb/>
+　　　　能依類續入故體例叢脞如是也珤詩文皆<lb/>
+　　　　平正通達具有茶陵之體故東陽特許之當<lb/>
+　　　　北地信陽駸駸代興之日而珤獨堅守師説<lb/>
+　　　　屢典文衡皆力斥浮誇使粹然一出於正雖<lb/>
+<pb n="KR4e0142_WYG_000-5a"/>
+　　　　才學皆遜東陽而湜湜持正不趨時好亦可<lb/>
+　　　　謂堅立之士矣乾隆四十六年正月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

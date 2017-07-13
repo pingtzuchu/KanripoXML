@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>芻堯集</head>
+    <p>
+<pb n="KR4e0077_WYG_000-1a"/>
+欽定四庫全書　　　　　集部六<lb/>
+　芻堯集　　　　　　　　别集類五<hi>明</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案芻蕘集六巻明周是修撰是修初<lb/>
+　　　　名徳以字行泰和人洪武中舉明經授霍邱<lb/>
+　　　　訓導遷周王府紀善王多不法是修動繩以<lb/>
+　　　　禮今集中修已十箴與保國直言二篇皆是<lb/>
+　　　　時作也王敗之後官屬皆縁坐是修以能諫<lb/>
+<pb n="KR4e0077_WYG_000-1b"/>
+　　　　得免改調衡王府紀善既而入直翰林預纂<lb/>
+　　　　修建文四年燕王反兵薄京城是修與楊榮<lb/>
+　　　　楊士竒胡靖金幼孜等約同死國難諸人陽<lb/>
+　　　　諾之燕兵既入士竒等争先推戴是修乃獨<lb/>
+　　　　詣尊經閣自經乾隆丙申<lb/>
+　　賜諡忠節事迹具明史本傳後解縉為作誌銘但<lb/>
+　　　　稱歸京師為紀善預翰林纂修以死竟沒其<lb/>
+　　　　殉節事楊士竒為作傳乃言其自經應天府<lb/>
+<pb n="KR4e0077_WYG_000-2a"/>
+　　　　學葢縉作誌在永樂元年士竒作傳則在宣<lb/>
+　　　　徳四年也傳又稱是修數論國家大計至指<lb/>
+　　　　斥用事者誤國用事者怒衆共挫折之云云<lb/>
+　　　　葢欲明是修非齊黄之黨以避時忌然革除<lb/>
+　　　　之際取義成仁但問臨難死不死不問持議<lb/>
+　　　　同不同縱使有黨亦不害其為忠臣不能以<lb/>
+　　　　是抑是修也是集為其孫應鰲所刋凡詩三<lb/>
+　　　　巻賦及襍文三巻非惟風節凜凜溢於楮墨<lb/>
+<pb n="KR4e0077_WYG_000-2b"/>
+　　　　即以文章論之亦復無愧於作者末附縉所<lb/>
+　　　　作誌銘士竒所作傳可謂白茅之藉矣姑並<lb/>
+　　　　存之益以彰是修也乾隆四十三年六月恭<lb/>
+　　　　校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

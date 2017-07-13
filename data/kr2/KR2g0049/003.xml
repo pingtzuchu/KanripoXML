@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>儒林宗派卷三</head> <lb/>
+    <p>
+<pb n="KR2g0049_WYG_003-1a"/>
+欽定四庫全書<lb/>
+　儒林宗派卷三<lb/>
+　　　　　　　　　　　　　鄞縣萬斯同撰<lb/>
+　東漢<lb/>
+劉昆　　　　　劉軼<hi>昆子</hi>　　　景鸞<hi>又傳齊詩</hi>
+　　右諸儒傳施氏易<lb/>
+洼丹　　　　　夏恭<hi>又傳韓詩</hi>　袁良<lb/>
+袁安<hi>良孫</hi>　　　袁京<hi>安子/</hi>　　　袁敞<hi>安子</hi>
+<pb n="KR2g0049_WYG_003-1b"/>
+袁彭<hi>京子</hi>　　　袁湯<hi>京子</hi>　　　鮭陽鴻<lb/>
+梁竦　　　　　任安<lb/>
+　　右諸儒傳孟氏易<lb/>
+范升　　　　　梁恭　　　　　吕羗<lb/>
+楊政<hi>范升門人</hi>　張興　　　　　張魴<hi>興子</hi>
+　　右諸儒傳梁<graphic n="KR0588" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0588.png" mimeType="image/png"/>氏易<lb/>
+戴憑　　　　　魏滿　　　　　沛王輔<lb/>
+崔瑗　　　　　折像　　　　　樊英<lb/>
+<pb n="KR2g0049_WYG_003-2a"/>
+郤廵<hi>英門人</hi>　　唐檀<hi>又傳韓詩顔氏春秋</hi>　楊秉<lb/>
+杜喬　　　　　劉寛　　　　　郎宗<lb/>
+郎顗<hi>宗子</hi>　　　徐穉　　　　　第五元先<lb/>
+鄭𤣥<hi>元先門人</hi>　　孫期<hi>又傳古文尚書</hi>
+　　右諸儒傳京氏易<lb/>
+陳元　　　　　鄭衆　　　　馬融<lb/>
+鄭𤣥　　　　　荀爽<lb/>
+　　右諸儒傳費氏易<hi>按易有施孟梁<graphic n="KR0588" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0588.png" mimeType="image/png"/>京費髙六家費髙二家不立學官髙氏無傳人</hi>
+<pb n="KR2g0049_WYG_003-2b"/>
+歐陽歙　　　　曹曾<hi>歙門人</hi>　　曹祉<hi>曽子</hi>
+禮震<hi>歙門人</hi>　　髙獲<hi>歙門人</hi>　　牟長<lb/>
+牟紆<hi>長子</hi>　　　尹敏　　　　　彭閎<lb/>
+臯𢎞　　　　　桓榮　　　　　桓郁<hi>榮子</hi>
+桓焉<hi>郁子</hi>　　　桓麟<hi>焉從子/</hi>　　桓彬<hi>麟子</hi>
+桓典<hi>焉孫</hi>　　　何湯<hi>以下並桓榮門人</hi>袁憲<lb/>
+丁鴻　　　　　鮑駿　　　　陳翕<hi>以下並丁鴻門人</hi>
+劉愷　　　　　巴茂　　　　　朱倀<hi>丁鴻門人</hi>
+<pb n="KR2g0049_WYG_003-3a"/>
+鮑永　　　　　鮑昱<hi>永子</hi>　　　楊寳<lb/>
+楊震<hi>寳子桓郁門人</hi>楊秉<hi>震子/</hi>　　楊奉<hi>震子</hi>
+楊賜<hi>秉子</hi>　　　楊敷<hi>奉子/</hi>　　　楊彪<hi>賜子</hi>
+楊衆<hi>敷子</hi>　　　朱寵<hi>桓郁門人</hi>　張酺<lb/>
+黄瓊　　　　　廖扶　　　　　宋登<lb/>
+徐穉　　　　　杜喬　　　　　張奐<lb/>
+劉寛<lb/>
+　　右諸儒傳歐陽尚書<lb/>
+<pb n="KR2g0049_WYG_003-3b"/>
+宋京　　　　　宋意<hi>京子</hi>　　　牟融<lb/>
+賈逵　　　　　張馴<lb/>
+　　右諸儒傳大夏侯尚書<lb/>
+王良<lb/>
+　　右傳小夏侯尚書<lb/>
+杜林　　　　　衛宏<hi>林門人</hi>　　徐廵<hi>林門人</hi>
+葢豫　　　　　周防<hi>豫門人</hi>　　尹敏<lb/>
+賈徽　　　　　賈逵<hi>徽子</hi>　　　孔僖<lb/>
+<pb n="KR2g0049_WYG_003-4a"/>
+孔季彦<hi>僖子</hi>　　　楊倫　　　　　周磐<lb/>
+馬融　　　　　　張恭祖　　　　鄭𤣥<hi>恭祖門人</hi>
+劉祐　　　　　　孔昱　　　　　張楷<lb/>
+孫期<lb/>
+　　右諸儒傳古文尚書<hi>按尚書有歐陽大小夏侯及古文四家惟古文不立學官其後古文盛行</hi>
+　　　　　　　　　　<hi>諸家漸廢</hi>
+李業　　　　　　髙詡　　　　　包咸<lb/>
+魏應　　　　　　魯恭　　　　　魯丕<hi>恭弟</hi>
+<pb n="KR2g0049_WYG_003-4b"/>
+韋彪　　　　　　陳重　　　　　　雷義<lb/>
+　　右諸儒傳魯詩<lb/>
+伏湛　　　　　　伏黯<hi>湛弟</hi>　　　　伏恭<hi>黯子</hi>
+伏晨<hi>湛曾孫</hi>　　　伏無忌<hi>晨子</hi>　　　任末<lb/>
+景鸞<lb/>
+　　右諸儒傳齊詩<lb/>
+薛漢　　　　　　杜撫　　　　　　澹臺敬伯<lb/>
+韓伯髙<hi>以上並薛漢門人</hi>郅惲　　　　　　召馴<lb/>
+<pb n="KR2g0049_WYG_003-5a"/>
+賈徽　　　　　　夏恭　　　　　　楊仁<lb/>
+廖扶　　　　　　李恂　　　　　　唐檀<lb/>
+公沙穆　　　　　馮良<hi>杜撫門人</hi>　　趙曄<hi>杜撫門人</hi>
+張匡　　　　　　杜喬　　　　　　張恭祖<lb/>
+鄭𤣥<hi>恭祖門人</hi>
+　　右諸儒傳韓詩<lb/>
+謝曼卿　　　　　衛宏<hi>曼卿門人</hi>　　賈徽<hi>曼卿門人</hi>
+賈逵<hi>徽子</hi>　　　　尹敏　　　　　　鄭衆<lb/>
+<pb n="KR2g0049_WYG_003-5b"/>
+馬融　　　　　　鄭𤣥<lb/>
+　　右諸儒傳毛詩<hi>按詩有齊魯韓毛四家惟毛詩不立學官其後毛詩盛行諸家漸廢</hi>
+劉祐　　　　　　鄭𤣥<lb/>
+　　右二人傳小戴禮<lb/>
+曹充　　　　　　曹褒<hi>充子</hi>　　　　董鈞<lb/>
+　　右諸儒傳慶氏禮<hi>按儀禮有大小戴及慶氏三家惟慶氏不立學官二戴雖立學官時無顯者</hi>
+李章　　　　　　丁恭　　　　　　樓望<lb/>
+承宫　　　　　　樊鯈　　　　　　鍾興<hi>以上並丁恭門人</hi>
+<pb n="KR2g0049_WYG_003-6a"/>
+郅惲　　　　　周澤　　　　　甄宇<lb/>
+甄普<hi>宇子</hi>　　　甄承<hi>普子</hi>　　　程曾<lb/>
+顧奉<hi>曾門人</hi>　　張𤣥　　　　　張覇樊<hi>儵門人</hi>
+張楷<hi>覇子</hi>　　　孫林　　　　　劉固<lb/>
+段著<hi>以上並張覇門人</hi>徐穉　　　　　劉祐<lb/>
+　　右諸儒傳公羊嚴氏春秋<lb/>
+張𤣥　　　　　唐檀　　　　　陳重<lb/>
+雷義<lb/>
+<pb n="KR2g0049_WYG_003-6b"/>
+　　右諸儒傳公羊顔氏春秋<hi>按公羊春秋有嚴顔二家並立學官</hi>
+鄭興<hi>劉歆門人</hi>　李育　　　　公沙穆<lb/>
+羊弼　　　　　何休<hi>弼門人</hi>　　第五元先<lb/>
+鄭𤣥<hi>元先門人</hi>
+　　右諸儒傳公羊春秋<lb/>
+韓歆　　　　　陳元　　　　　李封<lb/>
+賈徽<hi>劉歆門人</hi>　賈逵　　　　鄭興<lb/>
+鄭衆<hi>興子</hi>　　　鄭安世<hi>衆子/</hi>　　孔奮<hi>劉歆門人</hi>
+<pb n="KR2g0049_WYG_003-7a"/>
+孔竒　　　　　孔嘉　　　　　　尹敏<lb/>
+馬嚴　　　　　馬融<hi>嚴子</hi>　　　　周磐<lb/>
+棠谿典　　　　延篤　　　　　　張恭祖<lb/>
+鄭𤣥<hi>恭祖門人</hi>　　服䖍　　　　　潁容<lb/>
+謝該<lb/>
+　　右諸儒傳左氏春秋<lb/>
+尹敏　　　　　賈逵<lb/>
+　右二人傳穀梁春秋<hi>按春秋有公羊穀梁左氏三家惟公羊立學官左氏世祖時嘗立旋罷後</hi>
+<pb n="KR2g0049_WYG_003-7b"/>
+　　　　　　　　　<hi>左氏盛行公羊榖梁二家漸廢</hi>
+賈徽　　　　　賈逵<lb/>
+　　右二人傳國語<lb/>
+杜子春　　　　鄭興　　　　　　鄭衆<hi>興子</hi>
+賈徽　　　　　賈逵　　　　　　馬融<lb/>
+張恭祖　　　　鄭𤣥<hi>恭祖門人</hi>
+　　右諸儒傳周官<lb/>
+賈逵　　　　　馬融　　　　　　張恭祖<lb/>
+<pb n="KR2g0049_WYG_003-8a"/>
+鄭𤣥<lb/>
+　　右諸儒傳禮記<lb/>
+侯覇　　　　　包咸　　　　包福<hi>咸子</hi>
+沛王輔　　　　馬融　　　　　何休<lb/>
+鄭𤣥<lb/>
+　　右諸儒傳論語<lb/>
+沛王輔　　　　馬融　　　　　何休<lb/>
+鄭𤣥<lb/>
+<pb n="KR2g0049_WYG_003-8b"/>
+　　右諸儒傳孝經<lb/>
+程曾　　　　　趙岐<lb/>
+　　右二人傳孟子<lb/>
+馮衍　　　　　桓譚　　　　　井丹<lb/>
+班彪　　　　　班固<hi>彪子</hi>　　　崔駰<lb/>
+崔瑗<hi>駰子</hi>　　　崔實<hi>瑗子</hi>　　　傅毅<lb/>
+王充<hi>班彪門人</hi>　　張衡　　　　魯丕<lb/>
+許慎　　　　　蔡𤣥　　　　　胡廣<lb/>
+<pb n="KR2g0049_WYG_003-9a"/>
+周舉　　　　　朱穆　　　　　李郃<lb/>
+李固<hi>郃子</hi>　　　樊英　　　　　姜肱<lb/>
+蔡邕<hi>胡廣門人</hi>　　韓説　　　　荀爽<lb/>
+劉淑　　　　　魏朗　　　　　盧植<lb/>
+趙典　　　　　申屠蟠<lb/>
+　　右諸儒兼通五經<lb/>
+譙𤣥<hi>通易春秋二經</hi>索盧放<hi>通尚書/</hi>　劉茂<hi>通禮經</hi>
+張純<hi>通禮經</hi>　　劉般　　　　　任延<hi>通詩易春秋三經</hi>
+<pb n="KR2g0049_WYG_003-9b"/>
+王景　　　　　謝夷吾　　　　樂恢<lb/>
+楊由　　　　　摯恂<hi>馬融師</hi>　　吳祐<lb/>
+北海王睦　　　戴宏　　　　　淳于恭<lb/>
+賀純　　　　　周爕　　　　　徐防<lb/>
+黄香　　　　　楊終　　　　　楊統<lb/>
+楊厚<hi>統子</hi>　　　杜真　　　　　髙鳯<lb/>
+法真　　　　　王符　　　　　劉珍<lb/>
+范丹<hi>馬融門人</hi>　　張綱　　　　　崔琦<lb/>
+<pb n="KR2g0049_WYG_003-10a"/>
+劉梁　　　　　劉丕　　　　　劉寵<hi>丕子</hi>
+史弼　　　　　應奉　　　　　應劭<hi>奉子</hi>
+邉韶　　　　　荀淑　　　　　鍾皓<lb/>
+陳實　　　　　陳紀<hi>實子</hi>　　　陳諶<hi>實子</hi>
+陳蕃　　　　　李膺　　　　　范滂<lb/>
+竇武　　　　　蔡衍　　　　　檀敷<lb/>
+郭太　　　　　庾乗　　　　　符融<lb/>
+劉虞　　　　　髙彪　　　　　侯瑾<lb/>
+<pb n="KR2g0049_WYG_003-10b"/>
+孔融　　　　　仲長統　　　　楊匡<lb/>
+王調<hi>以下並李固門人</hi>趙承　　　　郭亮<lb/>
+董班　　　　　杜訪　　　　　鄭遂<lb/>
+王成<hi>並李固門人</hi>　李爕<hi>固子/</hi>　　趙商<hi>鄭𤣥門人</hi>
+宋忠　　　　　繆斐　　　　　董扶<hi>楊厚門人</hi>
+　　右諸儒皆通經學<lb/>
+　<lb/>
+　儒林宗派卷三<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

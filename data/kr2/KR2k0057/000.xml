@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>厯代帝王宅京記</head>
+    <p>
+<pb n="KR2k0057_WYG_000-1a"/>
+欽定四庫全書　　　　　史部十一<lb/>
+　厯代帝王宅京記　　　　地理類三<hi>都㑹郡縣之屬</hi>
+　　提要<lb/>
+　　　　臣等謹案厯代帝王宅京記二十卷<lb/>
+　　　國朝顧炎武撰所録皆厯代建都之制上起伏<lb/>
+　　　　羲下訖於元仿雍録長安志體例備載其城<lb/>
+　　　　郭宫室都邑寺觀及建置年月事蹟前為總<lb/>
+　　　　論二卷後十八卷則各按時代詳載始末徵<lb/>
+<pb n="KR2k0057_WYG_000-1b"/>
+　　　　引賅洽考据亦頗精審葢地理之學炎武素<lb/>
+　　　　所擅長也此書寫本不一浙江所採進者僅<lb/>
+　　　　總序二卷而較之此本則多唐代宗時廣德<lb/>
+　　　　元年十月吐蕃犯京畿上幸陜州一條元順<lb/>
+　　　　帝至元二十五年改南京路為汴京路北京<lb/>
+　　　　路為武平路西京路為大同路東京路為遼<lb/>
+　　　　陽路一條葢舊無刋板輾轉𫝊鈔訛缺異同<lb/>
+　　　　所不能免此為湖北採進本首尾悉備較為<lb/>
+<pb n="KR2k0057_WYG_000-2a"/>
+　　　　完足故据其卷第著之於録焉乾隆四十五<lb/>
+　　　　年二月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

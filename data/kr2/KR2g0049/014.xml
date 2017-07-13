@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>儒林宗派卷十四</head> <lb/>
+    <p>
+<pb n="KR2g0049_WYG_014-1a"/>
+欽定四庫全書<lb/>
+　儒林宗派卷十四<lb/>
+　　　　　　　　　　　　　　鄞縣萬斯同撰<lb/>
+　明<lb/>
+宋濓<hi>景濓潜溪浦江學士文憲</hi>
+　　宋氏學派<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2g0049_WYG_014-1b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+王紳<hi>仲縉禕子義烏</hi>
+樓璉<hi>士璉義烏</hi>
+鄭淵<hi>仲涵浦江</hi>
+鄭湜<hi>仲持</hi>
+<pb n="KR2g0049_WYG_014-2a"/>
+鄭棠<hi>叔美</hi>
+鄭楷<hi>叔度</hi>
+鄭柏<hi>叔瑞</hi>
+吕榮<hi>慎明永康</hi>
+陳子晟<hi>仲昭連江</hi>
+　右宋氏門人<lb/>
+薛瑄<hi>徳温敬軒河津文清</hi>
+　薛氏學派<lb/>
+<pb n="KR2g0049_WYG_014-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+張鼎<hi>大器咸寧</hi>
+朱欽<hi>邵武</hi>
+<pb n="KR2g0049_WYG_014-3a"/>
+常泰<hi>寧夏</hi>
+荆詡<hi>猗氏</hi>
+白良輔<hi>堯佐洛陽</hi>
+　<lb/>
+　<lb/>
+　<lb/>
+衛述<hi>蒲州</hi>
+孟琳<hi>蒲州</hi>
+<pb n="KR2g0049_WYG_014-3b"/>
+暢亨<hi>河津</hi>
+　<lb/>
+　<lb/>
+張傑<hi>立夫鳯翔</hi>
+　　右薛氏門人<lb/>
+吳與弼<hi>子傅康齋崇仁</hi>
+　　吳氏學派<lb/>
+<pb n="KR2g0049_WYG_014-4a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2g0049_WYG_014-4b"/>
+　　　　　　　　李士文<hi>在中連江</hi>
+陳獻章<lb/>
+謝復<hi>一陽西山祁門</hi>
+鄭伉<hi>孔明常山</hi>
+胡九韶<hi>鳯儀金谿</hi>
+車泰<hi>子謨金谿</hi>
+<pb n="KR2g0049_WYG_014-5a"/>
+</p>
+<p>
+<pb n="KR2g0049_WYG_014-6a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2g0049_WYG_014-6b"/>
+鄒智<hi>汝愚立齋合州</hi>
+林光<hi>緝熈東莞</hi>
+伍雲<hi>光宇</hi>
+陳庸<hi>秉常南海</hi>
+李孔修<hi>子長抱真廣州</hi>
+謝祐<hi>天錫南海</hi>
+何廷矩<hi>時振畨禺</hi>
+丁積<hi>彦誠寧都</hi>
+<pb n="KR2g0049_WYG_014-7a"/>
+姜麟<hi>仁夫蘭谿</hi>
+梁儲<hi>原齋順徳文康</hi>
+梁景行<hi>宗魯順徳</hi>
+陳昊元<hi>乾善畨禺</hi>
+俞溥<hi>徳洪信豐</hi>
+朱伯驥<hi>通山</hi>
+甘思忠<hi>□直蒼梧</hi>
+陳暕<hi>子覺増城</hi>
+<pb n="KR2g0049_WYG_014-7b"/>
+鄧球<hi>樂昌</hi>
+張璧光<hi>純卿新會</hi>
+<pb n="KR2g0049_WYG_014-8a"/>
+　　右陳氏門人<lb/>
+章懋<hi>徳懋楓山蘭谿文懿</hi>
+　　章氏學派<lb/>
+陸震<hi>汝亨蘭谿</hi>
+黃傅<hi>夢弼白露蘭谿</hi>
+潘希曽<hi>仲魯金華</hi>
+唐龍<hi>虞佐漁石蘭谿</hi>
+章拯<hi>以道朴庵懋從子</hi>
+<pb n="KR2g0049_WYG_014-8b"/>
+祝詡<hi>珍卿蘭谿</hi>
+應璋<hi>徳夫永康</hi>
+凌瀚<hi>徳容蘭谿</hi>
+董遵<hi>道卿蘭谿</hi>
+胡東<hi>時震古愚湯谿</hi>
+張大輪<hi>用載東陽</hi>
+周任<hi>江山</hi>
+方太古<hi>元素衢州</hi>
+<pb n="KR2g0049_WYG_014-9a"/>
+程文徳<hi>舜敷松谿文恭</hi>
+周積<hi>以善江山</hi>
+　　右章氏門人<lb/>
+蔡清<hi>介夫虚齊晉江文莊</hi>
+　蔡氏學派<lb/>
+陳琛<hi>思獻紫峰晉江</hi>黃偉<hi>孟偉同安</hi>
+易時中<hi>嘉會晉江</hi>王慎中<hi>遵巖晉江</hi>
+蔡潤宗<hi>克昌晉江</hi>
+<pb n="KR2g0049_WYG_014-9b"/>
+黃明<hi>元靜晉江</hi>
+黃鉞<hi>南安</hi>
+蔡烈<hi>文繼龍溪</hi>
+王宣<hi>晉江</hi>俞大猷<hi>志輔虚江晉江</hi>
+李世浩<hi>顧逺平利</hi>
+周積<hi>以善江山</hi>
+張元璽<hi>國信晉江</hi>
+蔡祐<hi>體順晉江</hi>
+<pb n="KR2g0049_WYG_014-10a"/>
+林同<hi>直正晉江</hi>
+黃綬<hi>晉江</hi>
+曽大有<hi>子遜仙遊</hi>
+黃芹<hi>伯馨龍岩</hi>
+　　右蔡氏門人<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2g0049_WYG_014-10b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　儒林宗派卷十四<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>易學辨惑</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　經部一<lb/>
+　易學辨惑　　　　　　易類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案易學辨惑一卷宋邵伯温撰伯温<lb/>
+　　　　字子文邵子之子也南渡後官至利路轉運<lb/>
+　　　　副使事蹟具宋史儒林傳按沈括夢溪筆談<lb/>
+　　　　載江南鄭夬字揚庭曽為一書談易後見兵<lb/>
+　　　　部員外郎秦玠論夬所談玠駭然曰何處得<lb/>
+<pb n="1b"/>
+　　　　此法嘗遇一異人授此歴數推徃古興衰運<lb/>
+　　　　歴無不皆騐西都邵雍亦知大畧云云盖當<lb/>
+　　　　時以邵子能前知故引之以重其術伯温謂<lb/>
+　　　　邵子易受之李之才之才受之穆修修受之<lb/>
+　　　　陳摶平時未嘗妄以語人惟大名王天悦滎<lb/>
+　　　　陽張子望嘗從學又皆蚤死秦玠鄭夬嘗欲<lb/>
+　　　　從學皆不之許天悦感疾且卒夬賂其僕於<lb/>
+　　　　卧内竊得之遂以為學著易傳易測明範五<lb/>
+<pb n="2a"/>
+　　　　經明用數書皆破碎妄作穿鑿不根因撰此<lb/>
+　　　　書以辨之宋史邵子本傳頗採其説考書錄<lb/>
+　　　　解題有鄭夬易傳十三卷宋史藝文志有鄭<lb/>
+　　　　夬時用書二十卷明用書九卷易傳詞三卷<lb/>
+　　　　易傳詞後語一卷今並佚司馬光集有進鄭<lb/>
+　　　　夬易測劄子稱其不泥隂陽不涉怪妄専用<lb/>
+　　　　人事指明六爻求之等倫誠難多得與伯温<lb/>
+　　　　所辨褒貶迥殊光亦知易之人不應背馳如<lb/>
+<pb n="2b"/>
+　　　　是以理推之夬竊邵子之書而變化其説以<lb/>
+　　　　隂求駕乎其上所撰易測必尚随爻演義不<lb/>
+　　　　涉術數故光有不泥隂陽不涉怪妄之薦至<lb/>
+　　　　其時用書之類則純言占卜之法故伯温辭<lb/>
+　　　　而闢之其兼易測言之者不過憎及儲胥之<lb/>
+　　　　意耳朱彛尊經義考載此書註曰未見此本<lb/>
+　　　　自永樂大典錄出盖明初猶存宋史藝文志<lb/>
+　　　　但題辨惑一卷無易學字永樂大典則有之<lb/>
+<pb n="3a"/>
+　　　　與書錄解題相合故今仍以易學辨惑著錄<lb/>
+　　　　焉乾隆四十六年九月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

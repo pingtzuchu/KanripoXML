@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2m0055_WYG_098-1a"/>
+欽定四庫全書<lb/>
+大清律例卷四十一目録<lb/>
+　總類<lb/>
+　　杖六十<hi>一百十六條</hi>
+　　杖七十<hi>六十九條</hi>
+　　杖八十<hi>二百十六條</hi>
+　　杖九十<hi>七十一條</hi>
+　　杖一百<hi>三百七十一條</hi>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

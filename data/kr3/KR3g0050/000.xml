@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3g0050_WYG_000-1a"/>
+　欽定四庫全書　　　　子部七<lb/>
+御定星厯考原　　　　　　術數類六<hi>隂陽五行之屬</hi>
+　　　提要<lb/>
+　　　　　<hi>臣</hi>等謹案<lb/>
+　　御定星厯考原六卷康熙五十二年<lb/>
+　　聖祖仁皇帝御定初康熙二十二年<lb/>
+　　命廷臣㑹議修輯選擇通書與萬年書一體頒行<lb/>
+　　　　　而二書未能畫一餘相沿舊説亦多未能<lb/>
+<pb n="KR3g0050_WYG_000-1b"/>
+　　　　　改正是年因<lb/>
+　　簡命舊臣明於星學數學者在<lb/>
+　　　　内廷䝉養齋算輯算法樂律諸書乃併取曹<lb/>
+　　　　　振圭厯事明原<lb/>
+　　詔大學士李光地等重為考定以成是編凡分六<lb/>
+　　　　　目一曰象數考原二曰年神方位三曰月事<lb/>
+　　　　　吉神四曰月事凶神五曰日時總類六月用<lb/>
+　　　　　事宜忌每一目為一卷考古者外事用剛日<lb/>
+<pb n="KR3g0050_WYG_000-2a"/>
+　　　　内事用柔日其日以卜不以擇趙岐孟子註<lb/>
+　　　　天時為孤虚王相則戰國時已漸講之然神<lb/>
+　　　　煞之説則莫知所起易緯乾鑿度有太乙行<lb/>
+　　　　九宫法太乙天之貴神也漢志兵家隂陽類<lb/>
+　　　　亦稱順時而發推刑徳隨斗擊因五勝假鬼<lb/>
+　　　　神而為助又隂陽家類稱出於羲和之官拘<lb/>
+　　　　者為之則牽于禁忌拘于小數舍人事而任<lb/>
+　　　　鬼神則神煞之説自漢代已盛行矣夫鬼神<lb/>
+<pb n="KR3g0050_WYG_000-2b"/>
+　　　　本乎二氣二氣化為五行以相生相尅為用<lb/>
+　　　　得其相生之氣則其神吉得其相尅之氣則<lb/>
+　　　　其神凶此亦自然之理至其神各命以名雖<lb/>
+　　　　似乎無稽然物本無名凡名皆人之所加如<lb/>
+　　　　周天列宿各有其名亦人所加非所本有則<lb/>
+　　　　所謂某神某神不過假以記其方位别其性<lb/>
+　　　　情而已不必以詞害意也厯代方技之家所<lb/>
+　　　　𫝊不一輾轉附益其説愈繁要以不悖于隂陽<lb/>
+<pb n="KR3g0050_WYG_000-3a"/>
+　　　　五行之理者近是是書簡汰諸家删其鄙倍<lb/>
+　　　　而括其綱要于以順天之道宜民之用<lb/>
+　　大聖人之于百姓事事欲其趨利而逺害誠無微<lb/>
+　　　　之不至矣乾隆四十六年十月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　總　校　官　<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

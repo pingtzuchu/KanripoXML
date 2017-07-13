@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="1a"/>
+大廣益㑹玉篇卷第十六<hi>凡二十四部</hi>
+︻琴部二百三十一<hi>凡八字</hi>琴<hi>巨林切說文及新論云神農造也琴之言禁也君子守以自禁也風俗通曰琴七絃法七星也琴操云長三尺六寸法象三百六十六日廣六寸象六合也/篆文</hi>䥅<hi>並古文</hi>
+瑟<hi>所櫛切苞儀造弦多至五十黄帝使素女鼔瑟哀不自勝破爲二十五弦/古文</hi>琶<hi>歩巴切琵琶也</hi>
+琵<hi>房脂切風俗通云琵琶近代樂家所造長三尺五寸象三才五行四弦象四時釋名推手前曰琵引手部曰琶琵琶本胡家馬上彈也</hi>
+︻喜部二百三十二<hi>凡四字</hi>喜<hi>欣里切樂/也恱也/古/文</hi>歖<hi>古文岀/說文</hi>嚭<hi>普鄙切大也吳有大宰嚭</hi>
+︻壴部二百三十三<hi>凡六字</hi>壴<hi>竹句切/陳樂也/他郎切/大声也</hi>
+                    <graphic n="KR4047" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4047.png" mimeType="image/png"/>
+                    <hi>且的切夜戒守鼔也又作鼜</hi>
+彭<hi>蒲衡切多皃又盛也</hi>嘉<hi>柯遐切美/也善也</hi>尌<hi>雉具竹具二切立也又作駐</hi>
+︻鼓部二百三十四<hi>二十一字</hi>鼓<hi>姑戸切瓦爲控革/爲靣可以擊也/籕/文</hi>鼖<hi>扶云切大鼔也音帖鼓無声也</hi>鼛<hi>公刀切/大鼔也</hi>鼙<hi>步兮切/騎鼔也</hi>鼞<hi>他堂切/鼔声</hi>鼘<hi>於巾切又於玄切鼔声也鼔節也七立切又他叶切鼓無声/徒名切鼔/声或作鼕/口盍切/鼔声/他登切/鼔声/他盍切鼓鼙/声或作<graphic n="KR3626" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3626.png" mimeType="image/png"/>
+                    </hi>
+䵿<hi>音帖寛也</hi>䶁<hi>音錔鼔寛力弓切/鼔声</hi>鼚<hi>丑良切/鼔声</hi>鼗<hi>徒刀切似鼓而小亦作鞀</hi>
+鼜<hi>音戚守夜鼔也</hi>䥢<hi>同上/俗</hi>䵽<hi>七盍切鼔声</hi>
+<pb n="1b"/>
+︻豈部二百三十五<hi>凡三字</hi>豈<hi>羌顗切安也焉也/書云怨豈在明</hi>
+                    <graphic n="KR2079" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2079.png" mimeType="image/png"/>
+                    <hi>巨衣切且也欲也危也託事之樂也</hi>
+凱<hi>空改切凱樂亦作愷</hi>
+︻豆部二百三十六<hi>二十五字</hi>豆<hi>徒闘切量名說/文云古食肉器/古/文</hi>梪<hi>同上木豆謂之梪薦羞𦵔醢也於物於月二切豆餄也/居隱切合/瓢也</hi>䜼<hi>莫卜切/豆萁名/𥘉六切/小豆名</hi>䝁<hi>力刀切/豆名同上九免九媛二切豆之属</hi>豍<hi>方迷切豍/䝀豆也</hi>䝀<hi>力周切/見上注</hi>䜾<hi>於林切/䜷豆也/音兠豆/小裂</hi>䜺<hi>又白切磨豆</hi>
+䜴<hi>市寘切豆豉亦作敊</hi>䜷<hi>七林切豆/名野生者</hi>豏<hi>胡斬切/豆半生</hi>䜽<hi>弋朱切/豆名/渠飢切/豆</hi>䜸<hi>莫猥切碎箕</hi>
+豌<hi>於丸切豆名夏收者</hi>䜶<hi>胡江切䜶/䝄胡豆名/所江切/見上注/都騰切/豆名</hi>
+︻豊部二百三十七<hi>凡二字</hi>豊<hi>力弟切行/礼之器</hi>豑<hi>雉栗切爵之次第也</hi>
+︻豐部二百三十八<hi>凡三字</hi>豐<hi>芳焦切大/也俗作豊/古文</hi>豔<hi>弋贍切美也好色也俗作艷</hi>
+︻䖒部二百三十九<hi>凡三字</hi>䖒<hi>欣冝切/古/器/胡道切/士釡也/除渚切器也或作㿾</hi>
+︻重部二百四十<hi>凡三字</hi>重<hi>直隴切不輕也/厚也又直龍切</hi>量<hi>力姜力尚二切/說文稱輕重也/古文</hi>
+︻鼎部二百四十一<hi>凡五字</hi>鼎<hi>丁冷切器也所以熟食者又鼎炉也又新也又易卦名</hi>
+䵼<hi>式羊切煑也亦作</hi>鼐<hi>奴代切/大鼎也</hi>鼒<hi>子思切/小鼎名</hi>鼏<hi>亡狄切覆/巾也又鼎盖也</hi>
+<pb n="2a"/>
+︻瓦部二百四十二<hi>凡一百五字</hi>瓦<hi>午寡切/土器也</hi>瓻<hi>丑希切/酒器名</hi>甄<hi>居延切陶人作瓦器謂之甄才又至神切</hi>
+甗<hi>牛偃切無底甑名</hi>瓿<hi>蒲後切瓿/甊小甖也</hi>甊<hi>力口切/上注</hi>瓵<hi>余之切/小甖名</hi>㼛<hi>胡經切酒器/似鍾而項長/同上</hi>
+瓶<hi>蒲井切汲器又甖揔名</hi>瓴<hi>力丁切瓴/甋甓属</hi>甋<hi>丁歷切/上注</hi>甌<hi>於侯切/椀小者</hi>甍<hi>眉耕切/屋棟/同上</hi>
+瓬<hi>方往切周礼瓬人爲簋</hi>㼾<hi>力木切㼾/甎甓也</hi>甎<hi>之縁切/上注</hi>瓽<hi>丁盎切/盆别名</hi>瓮<hi>於貢切/大甖</hi>甕<hi>同上</hi>
+瓷<hi>在思切瓦器㧾名亦作</hi>㼬<hi>胡梗切㼬/瓶名有耳者</hi>㼳<hi>山梗切/上注</hi>瓨<hi>戸江切/長項瓶</hi>甈<hi>丘滯切瓠壷/也坡甖也/同上</hi>
+㼝<hi>烏緩切器也亦作盌</hi>㼡<hi>是朱切小/甕别名</hi>㼥<hi>丑口切/瓶名</hi>㽀<hi>除政切/甖别名</hi>甃<hi>側胃切井甃也/易井甃修井也</hi>㼙<hi>古文</hi>
+甂<hi>𥙷玄切小盆大口而卑下</hi>㼲<hi>力頰切甄/㼲蹋瓦声</hi>㼻<hi>仕江切/甖别名</hi>㼶<hi>与朱切/瓶别名</hi>㼽<hi>所兩切/半瓦也/同上</hi>
+<graphic n="KR3758" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3758.png" mimeType="image/png"/>
+                    <hi>丘劒切又胡躭切瓶有耳</hi>㼚<hi>古郎切甖/也大瓮也</hi>㽈<hi>牛志切/大甖名</hi>甔<hi>丁甘切/小甖名/口郎切/瓠也/同上</hi>
+<graphic n="KR3554" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3554.png" mimeType="image/png"/>
+                    <hi>桑對切說文破也亦作碎/除向除香/二切瓶名</hi>㼴<hi>牛口切/盎小名</hi>㽄<hi>思移切/瓶名/女刮切/也/同上</hi>
+甒<hi>無甫切盛五升小甖</hi>㼤<hi>若結切瓶/受一斗者</hi>㼵<hi>徒啓切/小盆名</hi>㼦<hi>居隴切/缾名/胡圭古畦二切/甑下空亦作窐/同上</hi>
+瓹<hi>古縣切瓮底孔下取酒也</hi>㼣<hi>補格切㼿/㼣井甃也</hi>甐<hi>力震切/器堅也</hi>㽅<hi>都滕切/瓦豆名</hi>㼸<hi>音容/甖也/同上</hi>
+㽃<hi>普安切㽃瓳大㼾甎也/丁昆切器/似甌也</hi>
+                    <graphic n="KR2760" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2760.png" mimeType="image/png"/>
+                    <hi>力胡切/酒器名</hi>㼫<hi>胡寡切/大口也</hi>㼺<hi>徒郎切/瓷也/五合切瓷器力公切築土礳今作礱</hi>㽁<hi>力的切瓦/器今作鬲</hi>瓪<hi>伯限切/牡瓦名</hi>㼠<hi>徒河切/瓦盌名</hi>
+                    <graphic n="KR1769" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1769.png" mimeType="image/png"/>
+                    <hi>五化切/器也/扶汎切瓦名</hi>
+<pb n="2b"/>
+甓<hi>立的切剸也瓴也㼾/也</hi>㼯<hi>丁弄切㼯/器也/初鑑切/上注/力救切/屋穩名/許飢切/器也/五姑切甌也</hi>
+甖<hi>烏茎切也/又瓶楤名</hi>甇<hi>於耕切長/項瓶也</hi>㼧<hi>徒公切/牡瓦也</hi>甉<hi>胡監切/瓦屋也</hi>㽋<hi>力華切/瓦名</hi>㽇<hi>胡谷切坯也</hi>
+甑<hi>子孕切甗也以炊飯者</hi>㼜<hi>於浪切器/也亦作盎/古諧切/牡瓦也</hi>瓳<hi>戸徒切/㽃瓳</hi>㽉<hi>胡監切/大盆</hi>㼗<hi>徒丁切甎也徒果切甌也</hi>甀<hi>池爲切/甖别名</hi>㼢<hi>余之切/瓶名</hi>㼮<hi>七許切/甃也</hi>𤬪<hi>徒古切/瓶别名/勒當切器也時扇切器縁也</hi>㼪<hi>子協切/半瓦也</hi>㽆<hi>丁桑切/匙瓦/徒奚切/瓷也/呼光切/器也</hi>瓭<hi>丁感切瓦属</hi>
+︻缶部二百四十三<hi>四十三字</hi>缶<hi>方負切盎也/詩坎其擊缶</hi>缻<hi>同/上/音帚器/成也</hi>䍉<hi>知駭切缺也在咨切亦作瓷瓦器揔名</hi>罌<hi>於庚切瓷/瓦器揔名/是規文睡二/切小口罌也/古/文/革鞋切/器好也/畢裴切缶别名</hi>
+匋<hi>徒刀切作瓦器今作陶</hi>罋<hi>於貢切凡瓶/无觜耳者</hi>
+                    <graphic n="KR1805" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1805.png" mimeType="image/png"/>
+                    <hi>同上</hi>䍃<hi>余周切/瓦器名/蘇回切/器名</hi>罏<hi>力胡切罍也</hi>
+<graphic n="KR4179" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4179.png" mimeType="image/png"/>
+                    <hi>力丁切瓦器似瓶有耳者</hi>罐<hi>古叚切小/瓶㧾名</hi>䍍<hi>苦谷切未/燒瓦器</hi>罊<hi>口計切/器中尽/羌吕切/藏器</hi>
+                    <graphic n="KR2546" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2546.png" mimeType="image/png"/>
+                    <hi>戸暫切净器</hi>
+缺<hi>祛決切虧也破也亦作㩾</hi>罇<hi>子昆切与/樽同酒器</hi>䍎<hi>七鈍先見/二切瓦器</hi>䍊<hi>公的切/吹缺也/禹逼切/瓦器名/五鎋切缺也</hi>
+䍇<hi>他盍切下平缶也缾也</hi>罍<hi>力回切酒/樽别名</hi>
+                    <graphic n="KR2710" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2710.png" mimeType="image/png"/>
+                    <hi>籕文</hi>罃<hi>於耕切/長頸缻</hi>罅<hi>呼嫁切/裂也</hi>䍄<hi>都簟切缺也胡經切酒器似鍾而項長/時扇切器/縁亦作</hi>缸<hi>胡江切器/也与𤬪同/側板切/小酒器</hi>䍌<hi>歩侯切小缶也亦作瓿又歩後切</hi>
+罄<hi>可定切尽也器中空也</hi>缾<hi>蒲丁切汲/水器瓷也/徒啓切器/也亦作㼵</hi>缿<hi>胡講切如𤬪可受板書筩令密事亦受錢器也又大口切</hi>
+<pb n="3a"/>
+︻鬲部二百四十四<hi>二十三字</hi>鬲<hi>郎的切鼎足曲說文作/云鼎属实五<graphic n="KR3572" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3572.png" mimeType="image/png"/>/斗二計曰<graphic n="KR3572" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3572.png" mimeType="image/png"/>又音革平原有鬲縣亦作鬲</hi>
+䰛<hi>同上</hi>鬹<hi>居垂切三足釡名</hi>鬳<hi>牛建切/鬲别名/許朝切炊氣皃</hi>
+                    <graphic n="KR3218" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3218.png" mimeType="image/png"/>
+                    <hi>公禾切秦名士/釡曰<graphic n="KR3218" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3218.png" mimeType="image/png"/>亦作</hi>
+鬵<hi>似林才心二切釡别名</hi>鬴<hi>扶甫切/属或作釡</hi>鬷<hi>子公切/釡属</hi>䰙<hi>魚倚切/釡名/胡圭古攜二切甑于空也</hi>
+䰝<hi>子孕切鬵属亦作甑/柯竹切煑/羹亦作羮</hi>䰚<hi>亡分切/摩也/蒲悶切/起也</hi>融<hi>余終切長也説/文炊氣上出/籕文如之切熟也亦作<graphic n="KR3322" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3322.png" mimeType="image/png"/>
+                    </hi>
+                    <graphic n="KR1594" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1594.png" mimeType="image/png"/>
+                    <hi>方未切煑/熟亦作沸</hi>
+                    <graphic n="KR4415" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4415.png" mimeType="image/png"/>
+                    <hi>工定切/隔也</hi>
+                    <graphic n="KR3146" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3146.png" mimeType="image/png"/>
+                    <hi>楚狡切/熬也/式羊切煑/也亦作䵼</hi>鬺<hi>同上</hi>
+︻<graphic n="KR2471" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2471.png" mimeType="image/png"/>部二百四十五<hi>二十一字</hi>
+                    <graphic n="KR2471" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2471.png" mimeType="image/png"/>
+                    <hi>郎的切/也亦作鬲/之六切糜也又/以六切或作粥/同上</hi>
+<graphic n="KR3830" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3830.png" mimeType="image/png"/>
+                    <hi>音速鼎實也或作餗/楚絞切熬/也或作煼/諸延切/粥也/如燭切/大鼎</hi>䰞<hi>之与切煎/也或作煑/同上以林切器名釡属/戸徒切/也或作糊/歩忽切/釡湯溢/側皆切/敬也/古行切/煑也/同上如至切粉餅或作飷/居言切粥/也或爲䭈/亡逹亡結二切凉州/謂粥爲/或作</hi>鬻<hi>羊六切鬻賣也又音祝說文又音糜余灼切内肉及菜於湯中/子孕切炊器亦作</hi>
+︻斗部二百四十六<hi>二十二字</hi>斗<hi>丁口切量器/也十升曰斗</hi>㪷<hi>俗/文</hi>
+                    <graphic n="KR1857" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1857.png" mimeType="image/png"/>
+                    <hi>他幺切<graphic n="KR1857" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1857.png" mimeType="image/png"/>疀古田器也亦音鍫</hi>
+料<hi>力弔切数也理也又音寮</hi>斡<hi>烏活切轉也/柄也又音𬋩</hi>斞<hi>余甫切量/也今作庾</hi>斠<hi>古琢切量/也今作</hi>斣<hi>丁豆切物等也力競走也</hi>
+斜<hi>徐嗟切抒也散也不正也</hi>斟<hi>止任切取也/計也酌也</hi>㪺<hi>九娯切挹/也酌也</hi>斛<hi>胡榖切十/斗曰斛/匹郎切又薄郎切量溢也</hi>
+<pb n="3b"/>
+戽<hi>乎古火故二切抒水器也</hi>㪵<hi>𥙷叛切量/物分半也</hi>㪻<hi>九万切抒/也量也</hi>枓<hi>之庾多後二切有柄形如北斗星用以斟酌詩維北有斗亦飲水器</hi>
+升<hi>舒承切升斗也十合爲升/呼活切又烏/活切杼也/丁狄切/量也</hi>斚<hi>古雅切/爵也/公治切入也亦音恰</hi>
+︻勺部二百四十七<hi>凡二字</hi>勺<hi>時灼切飲器也十/勺爲升亦作杓</hi>与<hi>羊㪯切賜也許也予也亦作與</hi>
+︻几部二百四十八<hi>凡五字</hi>几<hi>居履切案/也亦作机</hi>凭<hi>皮氷切依几也又皮證切</hi>
+凥<hi>㪯魚切処也与居同</hi>処<hi>充与切止/也与處同</hi>焭<hi>瞿營切單獨也与煢同</hi>
+︻且部二百四十九<hi>凢五字</hi>且<hi>七也子余二切語辝也始然/也又七序切詩曰有萋有且/古文</hi>
+亹<hi>亡匪切亹亹猶微微也/才布切/且往也</hi>俎<hi>莊吕切断木四足也肉𦵔也</hi>
+︻匚部二百五十<hi>凢三十九字</hi>匚<hi>甫王切受/物之器/籕文</hi>匛<hi>渠救切棺/也亦作/籀文</hi>
+匴<hi>先𬋩切器名<graphic n="KR1847" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1847.png" mimeType="image/png"/>米䉤也</hi>匰<hi>丁安切宗/廟盛王器</hi>匜<hi>弋支切/沃盥器/胡耽切/船没也/𥙷堅切竹豆/也亦作籩/籕文似沿切器名<graphic n="KR1847" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1847.png" mimeType="image/png"/>米䉛也</hi>匧<hi>口頰切緘/也或作篋</hi>㔶<hi>公棟切/器小桮/且縁切/竹器</hi>匭<hi>古鮪切匱/匣也函也</hi>㔳<hi>同上</hi>
+匬<hi>余主切噐名受十六斗者/徒弔切田/器名也</hi>匫<hi>呼骨切/古器名</hi>匥<hi>皮変切冠/器又作笄</hi>匳<hi>力占切盛香/器也亦作籢</hi>匲<hi>同上</hi>
+匯<hi>胡罪切垂一切回也器也</hi>匣<hi>胡甲切匱/匣匭属</hi>匱<hi>渠愧切匱/匱藴玉匣</hi>匵<hi>徒鹿切/見上注/布迴切籕/文桮字/古文</hi>
+<graphic n="KR1286" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1286.png" mimeType="image/png"/>
+                    <hi>方娯弗武二切祭器今作簠</hi>㔴<hi>羊式切大/鼎又田器/此郎切/古器也</hi>匡<hi>公王切方正也/飯器也/筥也語二王天下亦作筐</hi>匩<hi>同上</hi>
+<pb n="4a"/>
+<pb n="5a"/>
+大廣益㑹玉篇卷之十六<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

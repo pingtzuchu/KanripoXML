@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4c0053_SBCK_003-1a"/>
+唐張司業詩集卷三<lb/>
+　五言排律<lb/>
+　　和李僕射雨中寄盧嚴二給事<lb/>
+郊原飛雨至城闕濕雲埋迸點時穿牖浮漚欲上堦<lb/>
+偏滋解籜竹併灑落花槐晚潤生琴匣新凉滿藥齋<lb/>
+從容朝務退放曠掖曹乖盡日無來客閑吟感所懷<lb/>
+　　酬李僕射晚春見寄<lb/>
+㦸戸動初晨鶯聲雨後頻虚庭淸氣在衆藥濕光新<lb/>
+魚動芳池面苔侵老竹身教鋪甞酒䖏自問探花人<lb/>
+<pb n="KR4c0053_SBCK_003-1b"/>
+獨此長多病幽居欲過春今朝聽高韻忽覺離埃塵<lb/>
+　　憶盧常侍寄華山鄭隱者<lb/>
+獨住三峰下年深學煉丹一間松葉屋數片石花冠<lb/>
+酒待山中飲琴將洞裏彈開門移逺竹剪草出幽蘭<lb/>
+荒璧通泉架晴崖曬藥壇寄知騎省客長向白雲㸔<lb/>
+　　和令狐尚書平泉東莊近居李僕射有寄<lb/>
+平地有淸泉伊南古寺邉漲池閑遶屋出野徧澆田<lb/>
+舊隱離多日新鄰得幾年探幽皆一絶選勝又雙全<lb/>
+門靜山光別園深竹影連斜分採藥徑直過釣魚船<lb/>
+雞犬還應識雲霞頓覺鮮追思應不逺賞愛諒難偏<lb/>
+<pb n="KR4c0053_SBCK_003-2a"/>
+此䖏堪長往遊人早共傳各當恩寄重歸卧恐無緣<lb/>
+　　送鄭尚書出鎭南海<lb/>
+逺鎭承新命王程不假催班行爭路送恩賜併時來<lb/>
+牙斾從城展兵符到府𨳩蠻聲喧夜市海色浸潮臺<lb/>
+畫角天邉月寒關嶺上梅共知公望重多是隔年廽<lb/>
+　　徐州試反舌無聲<lb/>
+夏木多好鳥偏知反舌名林幽還共宿時過即無聲<lb/>
+竹外天空暁谿頭雨自晴居人宜寂寞深院益凄淸<lb/>
+入霧暗相失當風閑易驚來年上林苑知爾最先鳴<lb/>
+　　省試行不由徑<lb/>
+<pb n="KR4c0053_SBCK_003-2b"/>
+田裏有㣲徑賢人不復行孰知求捷歩又恐異端生<lb/>
+從易衆所欲安邪患亦生誰能逹大道共此竟前程<lb/>
+子羽有遺跡孔門傳舊聲今逢大君子士節自光明<lb/>
+　　新城甲仗樓<lb/>
+謝守起新樓西臨城角頭圗功百仗麗藏器五兵脩<lb/>
+結構榱甍固虛明戸檻幽魚龍卷旗幟霜雪積戈矛<lb/>
+暑雨熇蒸隔凉風宴位留地高形岀沒山静氣淸優<lb/>
+睥睨斜光徹欄干宿靄浮芊芊秔稻色脉脉苑谿流<lb/>
+郡化王丞相詩成沈隱侯居兹良得意殊勝峴山遊<lb/>
+　　贈殷山人<lb/>
+<pb n="KR4c0053_SBCK_003-3a"/>
+欎欎山中客知名四十年恓惶身獨隱寂寞性應便<lb/>
+世業公侯籍生涯黍稷田藤懸讀書帳竹繫網魚船<lb/>
+巳種千頭橘新𨳩數脉泉閑遊攜酒逺幽語向僧偏<lb/>
+入洞題松過㸔花選石眠避喧長汨沒逢勝即留連<lb/>
+自古多高跡如君少比肩耕耘旣辛苦章句巳流傳<lb/>
+昔日交遊盛當時省閣賢同𫀆還共弊連轡毎推先<lb/>
+講序居重席群儒願執鞭滿堂虛左待衆目望喬遷<lb/>
+才異時難用情高道自全畏人顔慘澹踈物勢迍邅<lb/>
+逹者聞知命吾生復禮玄深藏報恩劍久緝養生篇<lb/>
+憔悴衆夫笑經過郡守憐夕陽悲病鶴霜氣動飢鸇<lb/>
+<pb n="KR4c0053_SBCK_003-3b"/>
+䖏士誰能薦窮途世所捐伯鸞甘寄食元淑苦無錢<lb/>
+䇿蹇秋塵裏吟詩黃葉前故裘餘白領廢瑟㫁朱絃<lb/>
+志氣終猶在逍遥任自然家貧念婚嫁身老戀雲煙<lb/>
+放逸栖巖鹿淸虛飲露蟬鄭逃秦谷口嚴愛越溪邉<lb/>
+霄漢予猶阻榮枯子不牽山城一相遇感激意難宣<lb/>
+　　夏日可畏<lb/>
+赫赫温風扇炎炎夏日徂火威馳<graphic n="KR1199" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1199.png" mimeType="image/png"/>野畏景鑠遥途<lb/>
+勢矯翔陽翰功分造化罏禁城千品獨黃道一輪孤<lb/>
+落照頻空簟餘暉卷夕梧如何倦遊子中路獨踟蹰<lb/>
+　　罔象得玄珠<lb/>
+<pb n="KR4c0053_SBCK_003-4a"/>
+赤水今何䖏遺珠巳渺然離婁徒肆目罔象乃通玄<lb/>
+皎潔因成性圎明不在泉暗中㸔夜色塵外照晴田<lb/>
+無脛眞難掬懷疑寳易遷今朝搜擇得應免媚晴川<lb/>
+　　和李僕射西園<lb/>
+遇午歸閑䖏西庭敞四簷高眠著瑟枕散帙檢書籥<lb/>
+印在休通客山晴好捲簾竹凉蠅到少藤暗蝶爭潜<lb/>
+曉<hi>一作晚</hi>鵲頻驚喜踈蟬不許拈石苔生紫點欄藥吐<lb/>
+紅尖虚坐詩情逺幽探道侣兼所營尚勝地雖儉復<lb/>
+誰嫌<lb/>
+<pb n="KR4c0053_SBCK_003-4b"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

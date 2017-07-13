@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4j0017_WYG_000-1a"/>
+聖求詞序<lb/>
+世謂少游詩似曲子瞻曲似詩其然乎至荆公桂枝香<lb/>
+詞子瞻稱之此老真野狐精也詩詞各一家惟荆公備<lb/>
+衆作艷體雖樂府柔麗之語亦必工緻真一代奇材後<lb/>
+數十年當宣和末有吕聖求者以詩名諷詠中率寓愛<lb/>
+君憂國意不但弄筆墨清新俊逸而已其憂國詩云憂<lb/>
+國憂身到白頭此生風雨一沙鷗又云尚喜山河歸帝<lb/>
+子可憐麋鹿入王宫痛傷詩云塵斷征車<hi>闕</hi>雲低<hi>闕</hi>帳<lb/>
+<pb n="KR4j0017_WYG_000-1b"/>
+深古今那有此天地亦何心釋憤詩云未前嵇紹血誰<lb/>
+發諫臣章赤心皆<hi>闕</hi>詩史氣象搢紳巨賢多錄藁家藏<lb/>
+但不窺全袟未能為刋行也一日復得聖求詞集一編<lb/>
+婉媚深窈視美成耆卿伯仲耳余因念聖求詩詞俱可<lb/>
+以傳後惜不見他所著述以是知世間奇才未乏也士<lb/>
+友輩將刻聖求詞求序於余故余得言其大槩聖求居<lb/>
+嘉興名濱老嘗位周行歸老於家云嘉定壬申中秋朝<lb/>
+奉大夫成都路轉運判官趙師㞧序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

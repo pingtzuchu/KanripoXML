@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>伸䝉子</head>
+    <p>
+<pb n="KR3a0018_WYG_000-1a"/>
+欽定四庫全書　　　　　子部一<lb/>
+　伸䝉子　　　　　　　　儒家類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案伸䝉子三卷唐林慎思撰前有慎<lb/>
+　　　　思自序曰舊著儒範七篇辭艱理僻不為時<lb/>
+　　　　人所知復研精殫思一旦齋沐禱心靈是宵<lb/>
+　　　　夢有異焉明日召蓍祝之得䝉之觀曰伸䝉<lb/>
+　　　　入覯通明之象也因自號伸䝉子又曰嘗與<lb/>
+<pb n="KR3a0018_WYG_000-1b"/>
+　　　　二三子辨論興亾敷陳古今編成上中下三<lb/>
+　　　　卷槐里辨三卷象三才叙天地人之事澤國<lb/>
+　　　　紀三篇象三才叙君臣人之事<hi>案唐人避太宗諱故以君</hi>
+　　　　<hi>臣民為君臣人</hi>時喻二篇象二教叙文武之事今觀<lb/>
+　　　　其書上卷設為干禄先生知道先生求己先<lb/>
+　　　　生問答中卷設為𢎞文先生如愚子盧乳子<lb/>
+　　　　問答下卷則自抒己説惟上卷喻時一篇釋<lb/>
+　　　　仲尼小天下之義詞不近理其餘皆持論醇<lb/>
+<pb n="KR3a0018_WYG_000-2a"/>
+　　　　正非唐時天隠無能諸子所可彷彿崇文總<lb/>
+　　　　目列之儒家葢為不忝惟其所列六人之名<lb/>
+　　　　書干禄為<graphic n="KR3765" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3765.png" mimeType="image/png"/>
+                    <graphic n="KR3887" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3887.png" mimeType="image/png"/>書知道為<graphic n="KR4162" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4162.png" mimeType="image/png"/>
+                    <graphic n="KR4160" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4160.png" mimeType="image/png"/>書求己為<graphic n="KR3879" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3879.png" mimeType="image/png"/>
+　　　　<graphic n="KR3175" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3175.png" mimeType="image/png"/>書𢎞文為<graphic n="KR4525" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4525.png" mimeType="image/png"/>
+                    <graphic n="KR4165" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4165.png" mimeType="image/png"/>書如愚為<graphic n="KR4149" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4149.png" mimeType="image/png"/>
+                    <graphic n="KR4148" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4148.png" mimeType="image/png"/>書盧乳為<lb/>
+　　　　<graphic n="KR2760" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2760.png" mimeType="image/png"/>
+                    <graphic n="KR4166" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4166.png" mimeType="image/png"/>而各註所以增改偏旁之故皆怪而近<lb/>
+　　　　妄是則好竒之過矣乾隆四十六年四月恭<lb/>
+　　　　校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+<pb n="KR3a0018_WYG_000-2b"/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+<pb n="KR3a0018_WYG_000-3a"/>
+伸䝉子原序<lb/>
+予沽名未售退棲槐里舊著儒範七篇辭艱理僻不為<lb/>
+時人所知復研精覃思一旦齋沐禱心靈是宵夢有異<lb/>
+焉明日召蓍祝之得䝉䷃之觀䷓曰伸䝉入觀通<lb/>
+明之象也因感而有所述焉自號伸䝉子嘗與二三子<lb/>
+辯論興亡敷陳古今也或引事以眀理或摛才以潤詞<lb/>
+録近萬言編成上中下三卷上卷槐里辯三篇象三才<lb/>
+叙天地人之事中卷澤國紀三篇象三辰叙君臣人之<lb/>
+<pb n="KR3a0018_WYG_000-3b"/>
+事下卷時喻二篇象二教叙文武之事焉予所學周公<lb/>
+仲尼之道所言堯舜禹湯文武之行事也如有用我者<lb/>
+吾言其施吾學其行乎揚雄謂後世有揚子雲當知吾<lb/>
+太𤣥安知後世不有林䖍中者出吾言迂乎哉大唐咸<lb/>
+通六年二月四日長樂林慎思䖍中自序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

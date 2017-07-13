@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_065-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選巻六十五<lb/>
+　　普陀山類<lb/>
+　　　五言古<lb/>
+　　　　夕泛海東尋梅岑山觀音洞遂登磐陀石望日<lb/>
+　　　　　出處　　　　　　　　　<hi>元</hi>吳　莱<lb/>
+　山月出天末水面生晚寒扁舟劃然往萬頃相渺漫星<lb/>
+　河白揺撼島嶼青屈盤逺應壺嶠接深已雲夢吞蟠木<lb/>
+<pb n="KR4h0141_WYG_065-1b"/>
+　繫予纜扶桑纓我冠寸心役兩目少試鯨魚竿<lb/>
+　　　　其二<lb/>
+　茫茫瀛海間海岸此孤絶飛泉亂垂纓險洞森削鐡天<lb/>
+　香固遥聞梵相俄一瞥魚龍互圍繞山鬼驚變滅舟航<lb/>
+　来旅逰鐘磬聚禪悦笑撚小白華秋潮落如雪<lb/>
+　　　五言律<lb/>
+　　　　逰洛伽山　　　　　　　　<hi>宋</hi>王安石<lb/>
+　山勢欲壓海禪宫向此開魚龍腥不到日月影先来樹<lb/>
+<pb n="KR4h0141_WYG_065-2a"/>
+色秋擎出鐘聲浪答回何期乘吏役暫此拂塵埃<lb/>
+　　　逰補陀　　　　　　　　　<hi>明</hi>徐啟東<lb/>
+夢想名山久因之駕海来潮從天上湧刹向嶼中開金<lb/>
+粟山為鉢蓮花水作臺磐陀望三島咫尺是蓬莱<lb/>
+　　七言律<lb/>
+　　　逰補陀　　　　　　　　　<hi>元</hi>趙孟頫<lb/>
+縹緲雲飛海上山挂帆三日上潺湲兩宫福徳齊千佛<lb/>
+一道恩光照百蠻澗草巖花多瑞氣石林水府隔塵寰<lb/>
+<pb n="KR4h0141_WYG_065-2b"/>
+鯫生小技真榮遇何幸凡身到此間<lb/>
+　　　逰補陀　　　　　　　　　<hi>元</hi>盛熈明<lb/>
+驚起東華塵土夢滄洲到處即為家山人自種三株樹<lb/>
+天使長乘八月槎梅福留丹赤似橘安期送棗大于𤓰<lb/>
+金仙對面無言説春滿幽巖小白花<lb/>
+　　　補陀島　　　　　　　　　<hi>元</hi>黄鎮成<lb/>
+一片雲帆駕渺茫東臨絶島拂扶桑九天波浪隨星客<lb/>
+萬壑魚龍覲水王日觀逺開溟澥動雲臺倒浸白花香<lb/>
+<pb n="KR4h0141_WYG_065-3a"/>
+候神海上應相見為覔安期却老方<lb/>
+　　　逰補陀　　　　　　　　　<hi>明</hi>張子滔<lb/>
+嶙峋仙界錦城堆寳樹瓊花面面廻勢壓海門鰲背重<lb/>
+光揺島嶼蜃樓開層巒徧向雲間出飛瀑全疑天上来<lb/>
+自是修真竒絶處何須弱水問蓬莱<lb/>
+　　　禮洛伽山　　　　　　　　<hi>明</hi>沈明臣<lb/>
+三神山逺不能尋惟有洛伽名古今萬里扶桑開四照<lb/>
+九天靈鷲削孤岑一枝鸚鵡多饒舌徧海蓮花不染心<lb/>
+<pb n="KR4h0141_WYG_065-3b"/>
+謁罷潮音靈洞口皈依願發晩濤深<lb/>
+　　七言絶句<lb/>
+　　　夢逰補陀山　　　　　　　<hi>明</hi>姜子羔<lb/>
+忽然飛渡海雲東海色澄清霄漢通借問此心何所似<lb/>
+白雲映水月當空<lb/>
+　　　寳陀寺　　　　　　　　　<hi>明</hi>李應詔<lb/>
+茫茫鷲嶺水雲賖今古莊嚴大士家檻外碧空垂法象<lb/>
+月明島嶼盡蓮花<lb/>
+<pb n="KR4h0141_WYG_065-4a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR4h0141_WYG_065-4b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選卷六十五<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

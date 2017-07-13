@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>授經圖義例卷十七</head> <lb/>
+    <p>
+<pb n="KR2n0008_WYG_016-1a"/>
+欽定四庫全書<lb/>
+　授經圖義例卷十七<lb/>
+　　　　　　　　　　　　明　朱睦㮮　撰<lb/>
+　　三禮<lb/>
+高堂生舊圖不載余録之且為一編之首以見古禮多<lb/>
+出自高堂生也<lb/>
+舊圖謂徐生授蕭奮五傳至戴聖按註疏徐生以容為<lb/>
+禮自有傳不在蕭奮之𣲖今圖從註疏<lb/>
+<pb n="KR2n0008_WYG_016-1b"/>
+按註疏鄭康成云高堂生所傳十七篇即儀禮也故後<lb/>
+儒以儀禮禮記合為一書今圖不更列儀禮<lb/>
+註疏序云鄭衆賈逵皆從杜子春受周官舊圖以鄭興<lb/>
+賈徽受子春非是今從註疏更置二子别𣲖<lb/>
+鄭𤣥通三禮今註疏皆用其說舊圖從戴聖之𣲖及考<lb/>
+本傳鄭從馬融受周官今從本傳改置<lb/>
+世或謂杜子春緱氏人及閲鄭樵通志謂劉歆傳周禮<lb/>
+於子春及緱氏禮又有緱氏要抄四卷以此觀子春非<lb/>
+<pb n="KR2n0008_WYG_016-2a"/>
+緱氏人歆㑹亦兩釋緱氏曰地曰氏如孝子傳陳留緱<lb/>
+氏女是也今圖姑仍其舊以竢博雅者考焉<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2n0008_WYG_016-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　授經圖義例卷十七<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

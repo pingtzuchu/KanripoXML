@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>煎茶水記</head>
+    <p>
+<pb n="KR3i0025_WYG_000-1a"/>
+欽定四庫全書　　　　子部九<lb/>
+　煎茶水記　　　　　　　譜録類二<hi>飲饌之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案煎茶水記一卷唐張又新撰又新<lb/>
+　　　　字孔昭深州陸澤人司門貟外郎鷟之曽孫<lb/>
+　　　　工部侍郎薦之子也元和九年進士第一<hi>案本</hi>
+　　　　<hi>傳但稱元和中及進士髙第知為九年者據此書中所𫐠知為第一者據元人所編氏族</hi>
+　　　　<hi>大全稱其狀元及第也</hi>厯官右補闕黨附李逢吉為八<lb/>
+<pb n="KR3i0025_WYG_000-1b"/>
+　　　　闗十六子之一逢吉出為山南東道節度使<lb/>
+　　　　以又新為行軍司馬坐田伾事貶江州刺史<lb/>
+　　　　<hi>案新舊唐書皆云汀州刺史而書中自稱刺九江則為江州無疑以二字形近而訛也書</hi>
+　　　　<hi>録解題作涪州則更誤矣</hi>後又夤縁李訓遷刑部郎中為<lb/>
+　　　　申州刺史訓死復坐貶終于左司郎中事迹<lb/>
+　　　　具新唐書本傳其書前列刑部侍郎劉伯芻<lb/>
+　　　　所品七水次列陸羽所品二十水云元和九<lb/>
+　　　　年初成名時在薦福寺得於楚僧本題曰煮<lb/>
+<pb n="KR3i0025_WYG_000-2a"/>
+　　　　茶記乃代宗時湖州刺史李季卿得於陸羽<lb/>
+　　　　口授後有葉清臣述煮茶泉品一篇歐陽修<lb/>
+　　　　大明水記附論浮槎水記一篇考書録解題<lb/>
+　　　　載此書已稱大明水記載卷末則宋人所附<lb/>
+　　　　入也清臣所記稱又新此書為水經疑偶然<lb/>
+　　　　誤記修所記極詆又新之妄謂與陸羽所説<lb/>
+　　　　皆不合今以茶經校之信然又唐書羽本傳<lb/>
+　　　　稱李季卿宣慰江南有薦羽者召之羽野服<lb/>
+<pb n="KR3i0025_WYG_000-2b"/>
+　　　　挈具而入季卿不為禮羽愧之更著毁茶論<lb/>
+　　　　則羽與季卿大相齟齬又安有口授水經之<lb/>
+　　　　理殆以羽號善茶當代所重故又新託名歟<lb/>
+　　　　然陸㳺入蜀記曰史記道餉谷簾水數器真<lb/>
+　　　　絶品也甘腴清冷具備諸美前輩或斥水品<lb/>
+　　　　以為不可信水品固不必盡當至谷簾泉卓<lb/>
+　　　　然非惠山所及則亦不可誣也是㳺亦有取<lb/>
+　　　　於是書矣乾隆四十六年五月恭校上<lb/>
+<pb n="KR3i0025_WYG_000-3a"/>
+　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

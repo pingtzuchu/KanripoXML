@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4j0067_SBCK_000-1a"/>
+絶妙詞選序<lb/>
+長短句始于唐盛于<lb/>
+宋唐詞具載花间集<lb/>
+宋詞多見于曾端伯所編而復雅一<lb/>
+集又兼采唐<lb/>
+宋迄于<lb/>
+<pb n="KR4j0067_SBCK_000-1b"/>
+宣和之季凡四千三百餘首吁亦備<lb/>
+矣况<lb/>
+中興以来作者繼出及乎近世人各<lb/>
+首詞詞各有體知之而未見見之而<lb/>
+未盡者不勝算也暇日裒集得數百<lb/>
+家名之曰绝玅詞選佳詞豈能盡録<lb/>
+<pb n="KR4j0067_SBCK_000-2a"/>
+亦嘗鼎一臠而已然其盛麗如㳺金<lb/>
+張之堂妖冶如攬嬙施之袪悲壮如<lb/>
+三闾豪俊如五陵花前月厎舉杯清<lb/>
+唱合以𬗋簫節以紅㸦飄飄然作騎<lb/>
+鶴揚州之想信可樂也親友劉誠甫<lb/>
+謀栞諸梓傳之好事者此意善矣又<lb/>
+<pb n="KR4j0067_SBCK_000-2b"/>
+禄余舊作數十首附扵後不無珠玉<lb/>
+在側之愧有愛我者其為刪之淳祐<lb/>
+己酉百五玉林<lb/>
+<pb n="KR4j0067_SBCK_000-3a"/>
+中興以來絶妙詞選綱目<lb/>
+　　　　　花　菴　詞客　編　集<lb/>
+︻卷之一<lb/>
+　　康伯可<hi>二十三首</hi>陳去非<hi>七首</hi>
+　　李漢老<hi>五首</hi>葉少藴<hi>七首</hi>
+　　曾公衮<hi>三首</hi>曾純甫<hi>十四首</hi>
+　　曾谹父<hi>三首</hi>吕居仁<hi>十二首</hi>
+<pb n="KR4j0067_SBCK_000-3b"/>
+　　朱希眞<hi>十首</hi>朱雍<hi>三首</hi>
+　　張仲宗<hi>十三首</hi>
+︻卷之二<lb/>
+　　劉彦冲<hi>二首</hi>趙元鎭<hi>十一首</hi>
+　　王民瞻<hi>五首</hi>李似之<hi>二首</hi>
+　　張材甫<hi>九首</hi>張安國<hi>二十四首</hi>
+　　吳彦高<hi>二首</hi>楊廷秀<hi>二首</hi>
+　　吳大年<hi>二首</hi>范至䏻<hi>七首</hi>
+<pb n="KR4j0067_SBCK_000-4a"/>
+　　陸務觀<hi>二十首</hi>
+︻卷之三<lb/>
+　　　張功甫<hi>十五首</hi>胡仲任<hi>一首</hi>
+　　　張東父<hi>五首</hi>韓無咎<hi>三首</hi>
+　　辛㓜安<hi>四十二首</hi>京仲遠<hi>五首</hi>
+　　姚令威<hi>五首</hi>
+︻卷之四<lb/>
+　　　吳子和<hi>十六首</hi>鄭中卿<hi>五首</hi>
+<pb n="KR4j0067_SBCK_000-4b"/>
+　　謝勉仲<hi>十首</hi>趙文鼎<hi>十四首</hi>
+　　趙德莊<hi>五首</hi>黄子厚<hi>三首</hi>
+　　趙昌甫<hi>二首</hi>韓仲止<hi>一首</hi>
+　　易彦祥<hi>二首</hi>蔡行之<hi>一首</hi>
+　　陳同甫<hi>七首</hi>李居厚<hi>六首</hi>
+　　李知㡬<hi>四首</hi>㳺子明<hi>三首</hi>
+　　危逢吉<hi>三首</hi>
+︻卷之五<lb/>
+<pb n="KR4j0067_SBCK_000-5a"/>
+　　　劉德脩<hi>十首</hi>李子大<hi>一首</hi>
+　　　李子清<hi>二首</hi>李子永<hi>二首</hi>
+　　　李子召<hi>一首</hi>李子秀<hi>一首</hi>
+　　　劉改之<hi>十首</hi>劉叔擬<hi>十七首</hi>
+　　　嚴次山<hi>三十首</hi>嚴少魯<hi>二首</hi>
+︻卷之六<lb/>
+　　　馬莊父<hi>十一首</hi>姜堯章<hi>三十四首</hi>
+　　　高賔王<hi>二十首</hi>
+<pb n="KR4j0067_SBCK_000-5b"/>
+︻卷之七<lb/>
+　　　史邦卿<hi>十七首</hi>卓稼翁<hi>三首</hi>
+　　　崔正子<hi>一首</hi>魏華父<hi>四首</hi>
+　　　劉潜夫<hi>四十二首</hi>劉伯寵<hi>五首</hi>
+︻卷之八<lb/>
+　　　劉叔安<hi>二十二首</hi>施乘之<hi>一首</hi>
+　　　戴式之<hi>十首</hi>盧申之<hi>二十四首</hi>
+　　　李公甫<hi>一首</hi>
+<pb n="KR4j0067_SBCK_000-6a"/>
+︻卷之九<lb/>
+　　張宗瑞<hi>二十一首</hi>宋謙父<hi>六首</hi>
+　　王子文<hi>一首</hi>曹西士<hi>一首</hi>
+　　李俊明<hi>一首</hi>趙用父<hi>一首</hi>
+　　黄子魯<hi>一首</hi>潘庭堅<hi>一首</hi>
+　　吳毅甫<hi>十三首</hi>王實之<hi>七首</hi>
+　　　方千里<hi>三首</hi>劉静甫<hi>五首</hi>
+︻卷之十<lb/>
+<pb n="KR4j0067_SBCK_000-6b"/>
+　　劉圻父<hi>八首</hi>吳君特<hi>九首</hi>
+　　陳敬叟<hi>二首</hi>馮熈之<hi>五首</hi>
+　　馮偉壽<hi>六首</hi>李芸叟<hi>一首</hi>
+　　連可久<hi>一首</hi>洪叔璵<hi>十六首</hi>
+︻附録<lb/>
+　　黄叔暘<hi>三十八首</hi>
+中興以來絶妙詞選綱目<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

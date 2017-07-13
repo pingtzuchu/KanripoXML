@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>蘭亭續考</head>
+    <p>
+<pb n="KR2n0023_WYG_000-1a"/>
+欽定四庫全書　　　　史部十四<lb/>
+　蘭亭續考　　　　　　目録類二<hi>金石之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案蘭亭續考二卷宋俞松撰松字夀<lb/>
+　　　　翁<hi>案俞庭椿亦字夀翁二人同人謹附同在宋末而實非一人謹附識於此</hi>自署<lb/>
+　　　　曰呉山葢錢塘人後有自跋稱甲辰書於景<lb/>
+　　　　歐堂葢淳祐四年也其仕履無考惟髙宗臨<lb/>
+　　　　本跋内有承議郎臣松之語其終於是官與<lb/>
+<pb n="KR2n0023_WYG_000-1b"/>
+　　　　亦莫得而詳焉是書葢繼桑世昌而作故名<lb/>
+　　　　曰續考跋内所稱近嵗士人作蘭亭攷凡數<lb/>
+　　　　萬言名流品題登載略盡者即指世昌之書<lb/>
+　　　　然書中體例與世昌逈異上卷兼載松所自<lb/>
+　　　　藏與他家藏本下卷則皆松所自藏經李心<lb/>
+　　　　傳題跋者其跋皆淳祐元年至三年所題以<lb/>
+　　　　宋史心傳本傳考之葢其罷祠之後寓居臨<lb/>
+　　　　安時也前卷所載跋語知辨永嘉之誤而仍<lb/>
+<pb n="KR2n0023_WYG_000-2a"/>
+　　　　沿筆陣圗所云羲之三十三嵗書蘭亭之説<lb/>
+　　　　其無所㫁制與世昌相等然朱彛尊曝書亭<lb/>
+　　　　集有是書跋稱其跋語條暢不類董逌輩之<lb/>
+　　　　晦澁則賞鑒家固亦取之至心傳題跋尤熟<lb/>
+　　　　于史事如宋祁摹碑青社諡法諸條皆足以<lb/>
+　　　　備考核非徒紀書畫也又宋史心傳本傳載<lb/>
+　　　　其淳祐元年罷祠而其初入史館因言者論<lb/>
+　　　　罷則不載其嵗月今是書跋内有紹定之季<lb/>
+<pb n="KR2n0023_WYG_000-2b"/>
+　　　　罷史職歸嵓居語則知其罷在紹定末年亦<lb/>
+　　　　足以補史闕焉乾隆四十六年三月㳟校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　　總　校　官<hi>臣</hi>陸　費墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

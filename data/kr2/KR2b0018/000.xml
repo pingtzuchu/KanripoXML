@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>中興小紀月錄</head> <lb/>
+    <p>
+<pb n="KR2b0018_WYG_000-1a"/>
+欽定四庫全書　　　　　史部二<lb/>
+　提要<lb/>
+　　中興小紀四十巻　　　編年類<lb/>
+　　　　<hi>臣</hi>等謹案中興小紀四十巻宋熊克撰克字<lb/>
+　　　　子復建陽人孝宗時官至起居郎兼直學士<lb/>
+　　　　院出知台州事跡具宋史文苑傳是編排次<lb/>
+　　　　南渡以後事跡首建炎丁未迄紹興壬午年<lb/>
+　　　　經月緯勒成一書宋制凡累朝國史先修日<lb/>
+<pb n="KR2b0018_WYG_000-1b"/>
+　　　　厯其曰小紀蓋以别於官書也陳振孫書錄<lb/>
+　　　　解題稱克之為書往往疎略多抵牾不稱良<lb/>
+　　　　史岳珂桯史亦摘其記金海陵南侵事以薫<lb/>
+　　　　風殿之議與武徳殿之議併書於紹興二十<lb/>
+　　　　八年誤合為一葢以當時之人記當時之事<lb/>
+　　　　耳目既有難周是非尚未論定自不及李心<lb/>
+　　　　傳書纂輯於記載詳備之餘然其上援朝典<lb/>
+　　　　下參私記綴輯聫貫具有倫理其於心傳之<lb/>
+<pb n="KR2b0018_WYG_000-2a"/>
+　　　　書亦不失先河之導剏始難工固未可一例<lb/>
+　　　　論也宋史藝文志載克所著尚有九朝通略<lb/>
+　　　　一百六十八巻今永樂大典僅存十有一巻<lb/>
+　　　　首尾零落已無端委僅此書尚為完本惟原<lb/>
+　　　　書篇第為編纂者所合併舊目己不可尋今<lb/>
+　　　　約略年月依宋史所載原數仍勒為四十巻乾<lb/>
+　　　　隆四十六年十二月恭校上<lb/>
+　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+<pb n="KR2b0018_WYG_000-2b"/>
+　　　　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="KR2b0018_WYG_000-3a"/>
+欽定四庫全書<lb/>
+　中興小紀月錄<lb/>
+　　巻一<lb/>
+　　　起建炎元年五月盡六月<lb/>
+　　卷二<lb/>
+　　　起建炎元年七月盡十二月<lb/>
+　　巻三<lb/>
+　　　起建炎二年正月盡六月<lb/>
+<pb n="KR2b0018_WYG_000-3b"/>
+　　巻四<lb/>
+　　　起建炎二年七月盡十二月<lb/>
+　　巻五<lb/>
+　　　起建炎三年正月盡三月<lb/>
+　　巻六<lb/>
+　　　起建炎三年四月盡八月<lb/>
+　　巻七<lb/>
+　　　起建炎三年閏八月盡十二月<lb/>
+<pb n="KR2b0018_WYG_000-4a"/>
+　　巻八<lb/>
+　　　起建炎四年正月盡六月<lb/>
+　　巻九<lb/>
+　　　起建炎四年七月盡十二月<lb/>
+　　巻十<lb/>
+　　　起紹興元年正月盡六月<lb/>
+　　巻十一<lb/>
+　　　起紹興元年七月盡十二月<lb/>
+<pb n="KR2b0018_WYG_000-4b"/>
+　　巻十二<lb/>
+　　　起紹興二年正月盡六月<lb/>
+　　巻十三<lb/>
+　　　起紹興二年七月盡十二月<lb/>
+　　巻十四<lb/>
+　　　起紹興三年正月盡六月<lb/>
+　　巻十五<lb/>
+　　　起紹興三年七月盡十二月<lb/>
+<pb n="KR2b0018_WYG_000-5a"/>
+　　巻十六<lb/>
+　　　起紹興四年正月盡八月<lb/>
+　　巻十七<lb/>
+　　　起紹興四年九月盡十二月<lb/>
+　　巻十八<lb/>
+　　　起紹興五年正月盡六月<lb/>
+　　巻十九<lb/>
+　　　起紹興五年七月盡十二月<lb/>
+<pb n="KR2b0018_WYG_000-5b"/>
+　　巻二十<lb/>
+　　　起紹興六年正月盡十二月<lb/>
+　　巻二十一<lb/>
+　　　起紹興七年正月盡六月<lb/>
+　　巻二十二<lb/>
+　　　起紹興七年七月盡九月<lb/>
+　　巻二十三<lb/>
+　　　起紹興七年十月盡十二月<lb/>
+<pb n="KR2b0018_WYG_000-6a"/>
+　　巻二十四<lb/>
+　　　起紹興八年正月盡六月<lb/>
+　　巻二十五<lb/>
+　　　起紹興八年七月盡十二月<lb/>
+　　巻二十六<lb/>
+　　　起紹興九年正月盡六月<lb/>
+　　巻二十七<lb/>
+　　　起紹興九年七月盡十二月<lb/>
+<pb n="KR2b0018_WYG_000-6b"/>
+　　巻二十八<lb/>
+　　　起紹興十年正月盡十二月<lb/>
+　　巻二十九<lb/>
+　　　起紹興十一年正月盡十二月<lb/>
+　　巻三十<lb/>
+　　　起紹興十二年正月盡十二月<lb/>
+　　巻三十一<lb/>
+　　　起紹興十三年正月盡十四年十二月<lb/>
+<pb n="KR2b0018_WYG_000-7a"/>
+　　巻三十二<lb/>
+　　　起紹興十五年正月盡十六年十二月<lb/>
+　　巻三十三<lb/>
+　　　起紹興十七年正月盡十八年十二月<lb/>
+　　巻三十四<lb/>
+　　　起紹興十九年正月盡二十年十二月<lb/>
+　　巻三十五<lb/>
+　　　起紹興二十一年正月盡二十三年十二月<lb/>
+<pb n="KR2b0018_WYG_000-7b"/>
+　　巻三十六<lb/>
+　　　起紹興二十四年正月盡二十五年十二月<lb/>
+　　巻三十七<lb/>
+　　　起紹興二十六年正月盡二十七年十二月<lb/>
+　　巻三十八<lb/>
+　　　起紹興二十八年正月盡二十九年十二月<lb/>
+　　巻三十九<lb/>
+　　　起紹興三十年正月盡十二月<lb/>
+<pb n="KR2b0018_WYG_000-8a"/>
+　　巻四十<lb/>
+　　　起紹興三十一年正月盡三十二年六月<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

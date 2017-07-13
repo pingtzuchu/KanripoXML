@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>史記正義卷十八</head> <lb/>
+    <p>
+<pb n="KR2a0004_WYG_018-1a"/>
+欽定四庫全書<lb/>
+　史記正義卷十八<lb/>
+　　　　　　　　　　　　唐　張守節　撰<lb/>
+髙祖功臣侯年表第六<hi>髙祖初定天下表明有功之臣而侯之若蕭曹等</hi>史記<lb/>
+十八<lb/>
+太史公曰古者人臣功有五品以徳立宗廟定社稷曰<lb/>
+勲以言曰勞用力曰功明其等曰伐積日曰閲封爵之<lb/>
+誓曰使河如帶泰山如厲國以永寧爰及苗裔始未嘗<lb/>
+<pb n="KR2a0004_WYG_018-1b"/>
+不欲固其根本而枝葉稍陵夷衰㣲也余讀髙祖侯功<lb/>
+臣察其首封所以失之者曰異哉所聞書曰協和萬國<lb/>
+遷于夏商或數千嵗葢周封八百幽厲之後見於春秋<lb/>
+尚書有唐虞之侯伯厯三代千有餘載自全以蕃衛天<lb/>
+子豈非篤於仁義奉上法哉漢興功臣受封者百有餘<lb/>
+人天下初定故大城名都散亡户口可得而數者十二<lb/>
+三是以大侯不過萬家小者五六百户後數世民咸歸<lb/>
+鄉里戸益息蕭曹綘灌之屬或至四萬小侯自倍富厚<lb/>
+<pb n="KR2a0004_WYG_018-2a"/>
+如之子孫驕溢忘其先淫嬖至太初百年之間見侯五<lb/>
+<hi>謂平陽侯曹宗曲終侯酈終根楊阿侯卞仁載侯秋家穀陵侯韓偃也</hi>餘皆坐法隕命亡<lb/>
+國耗矣<graphic n="KR1577" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1577.png" mimeType="image/png"/>亦少宻焉然皆身無兢兢於當世之禁云居今<lb/>
+之世志古之道所以自鏡也未必盡同帝王者各殊禮<lb/>
+而異務要以成功為統紀豈可緄乎觀所以得尊寵及<lb/>
+所以廢辱亦當世得失之林也何必舊聞於是謹其終<lb/>
+始表見其文頗有所不盡本末著其明疑者闕之後有<lb/>
+君子欲推而立之得以覽焉<lb/>
+<pb n="KR2a0004_WYG_018-3a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-4a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-5a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-6a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-7a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-8a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-9a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-10a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-11a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-12a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-13a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-14a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-15a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-16a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-17a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-18a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-19a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-20a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-21a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-22a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-23a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-24a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-25a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-26a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-27a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-28a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-29a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-30a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-31a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-32a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-33a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-34a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-35a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-36a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-37a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-38a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-39a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-40a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-41a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-42a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-43a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-44a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-45a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-46a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-47a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-48a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-49a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-50a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-51a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-52a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-53a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-54a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-55a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-56a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-57a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-58a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-59a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-60a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-61a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-62a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-63a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-64a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-65a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-66a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-67a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-68a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-69a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-70a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-71a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-72a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-73a"/>
+</p>
+<p>
+<pb n="KR2a0004_WYG_018-74a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2a0004_WYG_018-74b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　史記正義卷十八<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

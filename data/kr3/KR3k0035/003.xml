@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3k0035_SBCK_003-1a"/>
+跋<lb/>
+此小字錄活字本蕘圃跋稱曾見邵朗僊藏本標題有古賢二<lb/>
+字陳思纂次一行後多崑山後學呉大有較刊一行而以第一<lb/>
+葉上半葉末第二行姓劉二字移置宋高祖武帝後删去末行<lb/>
+氏字及宋本紀三字注以符原來行數蕘圃因斷此爲初印本<lb/>
+有古賢二字者爲後印本惟思所謂後印本者旣稱較刊顯與<lb/>
+活字本不符竊甞疑之終以不獲覩邵本爲憾昨偶與友人宗<lb/>
+禮白兄談及因岀其曩年所收莫子偲遣書古賢小字錄相示<lb/>
+閲之與蕘圃跋所記各點無不吻合其書自第一葉下半葉起<lb/>
+行款全同殆所謂後印本歟但細察其字體不類活字且卷首<lb/>
+有弘治甲子呉大有序略謂版刻寡傳獲覩者少爰伐梓託壽<lb/>
+以表良工之苦心因紀繡梓歳月云云味其語氣確係鋟木面<lb/>
+<pb n="KR3k0035_SBCK_003-1b"/>
+非活字蕘圑或未見此序因而致誤疑慮頓釋亟書於後以與<lb/>
+世之同好共質焉乙亥仲冬常熟瞿熙邦<lb/>
+<pb n="KR3k0035_SBCK_003-2a"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

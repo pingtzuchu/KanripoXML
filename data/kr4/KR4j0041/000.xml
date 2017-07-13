@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>提要<lb/>
+                </head>
+    <p>
+<pb n="KR4j0041_WYG_000-1a"/>
+欽定四庫全書　　　　集部十<lb/>
+　提要<lb/>
+　　西樵語業　　　　　詞曲類一<hi>詞集之屬</hi>
+　　　　<hi>臣</hi>等謹案西樵語業一巻宋楊炎正撰炎正<lb/>
+　　　　字濟翁廬陵人陳振孫書録解題載西樵語<lb/>
+　　　　業一巻楊炎正濟翁撰馬端臨文獻通考引<lb/>
+　　　　之誤以正字為止字毛晉刻六十家詞遂誤<lb/>
+　　　　以楊炎為姓名以止濟翁為别號近時所印<lb/>
+<pb n="KR4j0041_WYG_000-1b"/>
+　　　　又改刋楊炎正姓名跋中止濟翁字亦追改<lb/>
+　　　　為楊濟翁然舊印之本與新印之本並行名<lb/>
+　　　　字兩岐頗滋疑惑故厲鶚宋詩紀事辨之曰<lb/>
+　　　　嘗見西樵語業舊抄本作楊炎正濟翁後考<lb/>
+　　　　武林舊事載楊炎正錢唐迎酒歌一首全芳<lb/>
+　　　　備祖亦載此詩稱楊濟翁是炎正其名而濟<lb/>
+　　　　翁其字云云今觀辛棄疾稼軒詞中屢有與<lb/>
+　　　　楊濟翁贈答之作其水調歌頭一闋自注云<lb/>
+<pb n="KR4j0041_WYG_000-2a"/>
+　　　　舟次揚州和揚濟翁韻而炎正是調登多景<lb/>
+　　　　樓一闋其韻正與辛作相同惟尾句一韻互<lb/>
+　　　　異又棄疾蝶戀花二闋亦注云和楊濟翁韻<lb/>
+　　　　惟第二闋昨日解酲今夕又句棄疾詞作可<lb/>
+　　　　惜春殘風又雨葢皆傳寫之誤其所稱濟翁<lb/>
+　　　　之字則足證厲鶚所辨為不誤而毛氏舊印<lb/>
+　　　　之本為不足憑矣是集僅三十七首而因辛<lb/>
+　　　　棄疾作者凡六首當時兩人交好可知其縱<lb/>
+<pb n="KR4j0041_WYG_000-2b"/>
+　　　　横排奡之氣雖不足敵棄疾而屏絶纎穠自<lb/>
+　　　　抒清俊要非俗艷所可擬一時投契葢亦有<lb/>
+　　　　由云<lb/>
+　　樵隠詞　　　　　　詞曲類一<hi>詞集之屬</hi>
+　　　　<hi>臣</hi>等謹案樵隠詞一巻宋毛幵撰幵字平仲<lb/>
+　　　　信安人舊刻題曰三衢葢偶從古名也嘗為<lb/>
+　　　　宛陵東陽二州倅所著有樵隠集十五巻尤<lb/>
+　　　　袤為之序今已不傳陳振孫書録解題載樵<lb/>
+<pb n="KR4j0041_WYG_000-3a"/>
+　　　　隠詞一巻此刻計四十二首據毛晉跋謂得<lb/>
+　　　　自楊夢羽家秘藏抄本不知即振孫所見否<lb/>
+　　　　也幵他作不甚著而小詞最工巻首王木叔<lb/>
+　　　　題詞有或病其詩文視樂府頗不逮之語葢<lb/>
+　　　　當時已有定論矣集中滿江紅潑火初收一<lb/>
+　　　　闋尤為清麗芊眠故楊慎詞品特為激賞其<lb/>
+　　　　江城子一闋註次葉石林韻後半爭勸紫髯<lb/>
+　　　　翁句實押翁字而今本石林詞此句乃押宫<lb/>
+<pb n="KR4j0041_WYG_000-3b"/>
+　　　　字于本詞為複用可訂石林詞刋本之訛至<lb/>
+　　　　于瑞鶴仙一調宋人諸本並同此本乃題與<lb/>
+　　　　目録俱譌作瑞仙鶴又燕山亭前闋宻映窺<lb/>
+　　　　亭亭萬枝開遍句止九字考曽覿此調作寒<lb/>
+　　　　壘宣威紫綬幾垂金印共十字則窺字上下<lb/>
+　　　　必尚脱一字尾句愁酒醒緋千片止六字曽<lb/>
+　　　　覿此調作長占取朱顔緑鬢共七字則緋字<lb/>
+　　　　上下又必尚脱一字其餘如滿庭芳第一首<lb/>
+<pb n="KR4j0041_WYG_000-4a"/>
+　　　　註中東陽之譌東易第三首註中西安之譌<lb/>
+　　　　四安魯魚糾紛則毛本校讐之疎矣陳正晦<lb/>
+　　　　遯齋閒覽載幵為郡因陳牒婦人立雨中作<lb/>
+　　　　清平調一詞事既媟䙝且幵亦未嘗為郡此<lb/>
+　　　　宋人小説之誣晉不收其詞特為有識今附<lb/>
+　　　　辨于此亦不復補入云乾隆四十六年九月<lb/>
+　　　　恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+<pb n="KR4j0041_WYG_000-4b"/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

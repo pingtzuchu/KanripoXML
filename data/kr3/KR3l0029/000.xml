@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>儒林公議</head>
+    <p>
+<pb n="KR3l0029_WYG_000-1a"/>
+欽定四庫全書　　　　　子部十二<lb/>
+　儒林公議　　　　　　　小説家𩔖一<hi>雜事之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案儒林公議一卷宋田况撰况字元<lb/>
+　　　　均其先京兆人徙居新都况舉進士又舉賢<lb/>
+　　　　良方正為太常丞辟陕西經畧判官入為右<lb/>
+　　　　正言厯帥秦蜀擢樞宻使以觀文殿學士提<lb/>
+　　　　舉景靈宫卒事跡具宋史本傳所著有奏議<lb/>
+<pb n="KR3l0029_WYG_000-1b"/>
+　　　　三十卷久佚不傳是編乃記建隆以迄慶厯<lb/>
+　　　　朝廷政事及士大夫行履得失甚詳五代十<lb/>
+　　　　國時事亦間附一二條葢雜録而成故前後<lb/>
+　　　　多未詮次其中議論亦有沿世俗之見隨聲<lb/>
+　　　　附和不能悉當于正理者而大致尚屬公平<lb/>
+　　　　其紀入閣會議諸條明晰掌故皆足為讀史<lb/>
+　　　　者㕘稽互証之助東都事畧稱况嘗作好名<lb/>
+　　　　朋黨二論極以為戒而是編内於范仲淹歐<lb/>
+<pb n="KR3l0029_WYG_000-2a"/>
+　　　　陽修諸條亦拳拳致意于黨禍之所自起其<lb/>
+　　　　識見正大尤為不易幾及至况曾為夏竦幕<lb/>
+　　　　僚好水川之役况上疏極論之竦不出師葢<lb/>
+　　　　用况之䇿故書中於竦多恕詞而於竦所惡<lb/>
+　　　　之富弼諸人仍極口揄揚絶無黨同伐異之<lb/>
+　　　　見亦可以見其直道也乾隆四十六年十一<lb/>
+　　　　月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+<pb n="KR3l0029_WYG_000-2b"/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

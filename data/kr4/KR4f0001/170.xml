@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4f0001_WYG_170-1a"/>
+　欽定四庫全書<lb/>
+聖祖仁皇帝御製文第二集巻四十目錄<lb/>
+　　雜著<lb/>
+　　　　庭訓<lb/>
+　　　　讀周禮書後<lb/>
+　　　　書戰國策後<lb/>
+　　　　書性理奥後<lb/>
+　　　　跋虞世南墨蹟後<lb/>
+<pb n="KR4f0001_WYG_170-1b"/>
+　　　　跋顏眞卿墨蹟後<lb/>
+　　　　跋蘇軾墨蹟後<lb/>
+　　　　跋黃庭堅墨蹟後<lb/>
+　　　　跋米芾墨蹟後<lb/>
+　　　　跋朱子墨蹟後<lb/>
+　　　　跋趙孟頫墨蹟後<lb/>
+　　　　跋董其昌墨蹟後<lb/>
+　　　　連珠<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

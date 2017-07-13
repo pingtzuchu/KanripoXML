@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>春秋四傳糾正</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　經部五<lb/>
+　春秋四傳糾正　　　　春秋類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹按春秋四傳糾正一卷<lb/>
+　　　國朝俞汝言撰康熙丙辰汝言春秋平義始脫<lb/>
+　　　　藁是嵗之夏復續作此書以綜括大㫖相傳<lb/>
+　　　　其晚年失明口授而成之者也書中摘列春<lb/>
+　　　　秋三傳及胡安國傳之失隨事辨正區為六<lb/>
+<pb n="1b"/>
+　　　　類一曰尊聖而忘其僭計八條二曰執理而<lb/>
+　　　　近于迂計十五條三曰尚異而鄰于鑿計二<lb/>
+　　　　十三條四曰億測而近于誣計四十三條五<lb/>
+　　　　曰稱美而失實情計八條六曰摘瑕而傷鍥<lb/>
+　　　　刻計六條末附春王正月辨一篇申左氏公<lb/>
+　　　　羊孔安國鄭元之説明周正改時改月春秋<lb/>
+　　　　正朔皆從周其中如華督奪孔父之妻齊桓<lb/>
+　　　　因蔡姬而侵蔡史家簡䇿相傳必有所據即<lb/>
+<pb n="2a"/>
+　　　　就傳文而論亦無以斷其必不然汝言皆以<lb/>
+　　　　為億測近誣轉未免自蹈億側又公羊褒齊<lb/>
+　　　　襄之復讐固為謬戾然紀侯譖齊哀公于周<lb/>
+　　　　至于見烹則實有其事汝言乃謂語言之故<lb/>
+　　　　不足為讐亦不甚可解至春王正月辨中謂<lb/>
+　　　　左傳王周正月句王周二字猶漢稱皇漢宋<lb/>
+　　　　稱皇宋之義則不知正月正嵗並見周禮兼<lb/>
+　　　　用夏正實亦王制故特言王周正月明非夏<lb/>
+<pb n="2b"/>
+　　　　時無庸牽引漢宋横生曲説又一行衛朴推<lb/>
+　　　　騐春秋日食皆合于建寅一條汝言無以難<lb/>
+　　　　之遂泛謂不足深據不知日月交食推朔望<lb/>
+　　　　不推時令建子建寅食限無殊一語可明亦<lb/>
+　　　　不必顢頇其説如斯之類雖或問有小疵然<lb/>
+　　　　六類之中大抵皆立義正大持論簡明一卷<lb/>
+　　　　之書篇帙無㡬而言言皆治春秋之藥石亦<lb/>
+　　　　可謂深得經意者矣乾隆四十二年四月恭<lb/>
+<pb n="3a"/>
+　　　　校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="4a"/>
+春秋四傳糾正原序<lb/>
+六經之不明諸儒亂之也自王輔嗣以老莊言易而六<lb/>
+經有道家矣鄭康成以䜟緯言禮而六經有數術家矣<lb/>
+公穀胡氏以名稱褒貶言春秋而六經有名家法家矣<lb/>
+彼其初未始不欲探聖人之精藴而智識弇淺强求深<lb/>
+逺習見郡國之府寺而以為宫闕之巍峩不過如是不<lb/>
+知輔相之道而以行師折獄之才智經邦國也淺求之<lb/>
+而爽其度深求之而愈失其大體迨至有宋大儒程朱<lb/>
+<pb n="4b"/>
+輩出而後正其紕謬易傳本義成而輔嗣卷舌儀禮經<lb/>
+傳通解定而康成束手退矣若夫春秋左氏親見聖人<lb/>
+公榖傳諸髙第弟子而偏駁者半焉康侯品髙學博文<lb/>
+章能暢所欲言方以為程氏之正傳而疵類不少新安<lb/>
+朱子心知之而不敢端言其過其説時時見於弟子講<lb/>
+論之餘而後人又不能推明其義徒使附㑹穿鑿刑名<lb/>
+法術之言出於一代大儒而不覺是可異也汝言不揣<lb/>
+纂集諸家自為一書先之以四傳糾正為六端以該之一<lb/>
+<pb n="5a"/>
+曰尊聖而忘其僭二曰執理而近於迂三曰尚異而鄰<lb/>
+於鑿四曰億測而涉於誣五曰稱美而失情實六曰摘<lb/>
+瑕而傷鍥刻六者之弊去而後可以讀春秋矣顧愚陋<lb/>
+荒落何敢效鍼石於前賢聊以志願學之自略見其大<lb/>
+指而已丙辰仲夏下弦漸川諸生俞汝言識<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

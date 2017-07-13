@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>提要<lb/>
+                </head>
+    <p>
+<pb n="KR4d0143_WYG_000-1a"/>
+欽定四庫全書　　　　集部四<lb/>
+　提要<lb/>
+　　丹陽集二十四巻　　　别集類三<hi>宋</hi>
+　　　　臣等謹案丹陽集二十四巻宋葛勝仲撰勝<lb/>
+　　　　仲字魯卿丹陽人紹聖四年進士又試學官<lb/>
+　　　　及詞科俱第一官至華文閣待制知湖州紹<lb/>
+　　　　興元年乞祠歸十四年卒諡文康事蹟具宋<lb/>
+　　　　史文苑傳據其婿章倧所作行狀稱有文集<lb/>
+<pb n="KR4d0143_WYG_000-1b"/>
+　　　　八十巻外集二十巻初刋板於真州兵燹殘缺<lb/>
+　　　　隆興甲寅知州事宋曉補之自跋其後淳熙<lb/>
+　　　　丙午知州事姚恪又為重鋟中書舍人王信<lb/>
+　　　　為之跋自明以來傳本遂絶今永樂大典所<lb/>
+　　　　載以類裒輯得文十五巻詩七巻詩餘一巻<lb/>
+　　　　又附録行狀諡議為一巻共成二十四巻王<lb/>
+　　　　信跋及章倧行狀並稱宣和北伐之時勝仲<lb/>
+　　　　貽書蔡京力言其不可然宋史本傳不載此<lb/>
+<pb n="KR4d0143_WYG_000-2a"/>
+　　　　事集中亦無此書又稱由兖州教授入為太<lb/>
+　　　　學正時上幸學多獻頌者勝仲獨獻賦上命<lb/>
+　　　　中書第其優劣勝仲為首今集中亦無此賦<lb/>
+　　　　他如本傳所載論郭天信不當提舉議歴所<lb/>
+　　　　論僖祖廟増置殿室不必毁其奏議並佚不<lb/>
+　　　　存又所稱官諭德時為仁孝學三論獻太子<lb/>
+　　　　者今惟存孝論學論餘無可考則其散失者<lb/>
+　　　　已多然觀其四分之一亦足以見其大凡矣<lb/>
+<pb n="KR4d0143_WYG_000-2b"/>
+　　　　勝仲為太府少卿時能拒盛章之援引知汝<lb/>
+　　　　州時能拒李彦之括斂知湖州時能拒朱勔<lb/>
+　　　　之求白雀鸂鶒其節甚偉歴典諸州皆有幹<lb/>
+　　　　畧再知湖州遭逢冦亂復有全城之功其官<lb/>
+　　　　績亦足以自傳本不盡以文章重即以文章<lb/>
+　　　　論之在南北宋間亦裒然一作者也歐陽修<lb/>
+　　　　嘗輯建隆至治平故事為太常因革禮一百<lb/>
+　　　　篇勝仲官太常卿時復手續其書為三百巻<lb/>
+<pb n="KR4d0143_WYG_000-3a"/>
+　　　　故于當代典制最嫻官諭德時嘗纂歴代太<lb/>
+　　　　子事迹為承華詔媺又考論諸史為評古篇<lb/>
+　　　　故於古今成敗最悉崇寜三年居父喪盡閲<lb/>
+　　　　釋氏大藏經故所著作徃徃闡明佛理惟青<lb/>
+　　　　詞功德䟽教坊致語之類沿宋人陋例一槩<lb/>
+　　　　濫載於集中殊乖文體今凛遵<lb/>
+聖訓並從刪削庶益為全美云乾隆四十六年九月恭<lb/>
+　　　　校上<lb/>
+<pb n="KR4d0143_WYG_000-3b"/>
+　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

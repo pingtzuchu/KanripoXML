@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_199-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選卷一百九十九<lb/>
+　　笳類<lb/>
+　　　五言古<lb/>
+　　　　邊笳曲　　　　　　　　　<hi>唐</hi>溫庭筠<lb/>
+　朔管迎秋動雕隂雁来旱上郡隠黄雲天山吹白草嘶<lb/>
+　馬悲寒磧朝陽照霜堡江南戌客心門外芙蓉老<lb/>
+　　　七言絶句<lb/>
+<pb n="KR4h0141_WYG_199-1b"/>
+　　　　夜上受降城聞笳<hi>一作聞笛</hi>　　　<hi>唐</hi>李　益<lb/>
+　回樂峰前沙似雪受降城外月如霜不知何處吹蘆管<lb/>
+　一夜征人盡望鄉<lb/>
+　　　　聽李簡上人吹蘆管　　　　<hi>唐</hi>張　祜<lb/>
+　細蘆僧管夜沈沈越鳥巴猿寄恨吟吹到耳邊聲盡處<lb/>
+　一條絲斷碧雲心<lb/>
+　　　　其二<lb/>
+　月落江城樹繞鴉一聲蘆管是天涯分明西國人来說<lb/>
+<pb n="KR4h0141_WYG_199-2a"/>
+　赤佛堂西是漢家<lb/>
+　　　　聽僧吹蘆管　　　　　　　<hi>唐</hi>薛　濤<lb/>
+　曉蟬嗚咽暮鶯愁言語殷勤十指頭閱罷梵書勞一弄<lb/>
+　散隨金磬泥清秋<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR4h0141_WYG_199-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選卷一百九十九<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

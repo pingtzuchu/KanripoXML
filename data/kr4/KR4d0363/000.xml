@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>巽齋文集</head>
+    <p>
+<pb n="KR4d0363_WYG_000-1a"/>
+欽定四庫全書　　　　　集部四<lb/>
+　巽齋文集　　　　　　　别集類三<hi>宋</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案巽齋文集二十七巻宋歐陽守道<lb/>
+　　　　撰守道字公權初名巽字迂父吉州人嘉祐<lb/>
+　　　　元年進士授雩都主簿調贛州司户入為秘<lb/>
+　　　　書省正字累遷秘書郎罷歸咸淳三年以少<lb/>
+　　　　傅吕文徳薦添差通判建昌軍遷著作佐郎<lb/>
+<pb n="KR4d0363_WYG_000-1b"/>
+　　　　兼崇政殿説書兼權都官郎中終於著作郎<lb/>
+　　　　事迹具宋史本傳是編分甲乙丙丁戊五集<lb/>
+　　　　中如復劉學士書辨李習之以守其中為慎<lb/>
+　　　　獨非中庸本㫖答丁教授書辨劉景雲中心<lb/>
+　　　　為忠如心為恕之説本之王安石字説非六<lb/>
+　　　　書本義凡此之類持論咸有根柢非茍立同<lb/>
+　　　　異史稱守道少孤貧無師自力於學年未三<lb/>
+　　　　十翕然以徳行為鄉郡儒宗葢崛起特立不<lb/>
+<pb n="KR4d0363_WYG_000-2a"/>
+　　　　由依託門户而來故所見皆出自得也史又<lb/>
+　　　　稱江萬里作白鷺洲書院首致守道為諸生<lb/>
+　　　　講説湖南轉運副使吳子良又聘為岳麓書<lb/>
+　　　　院山長後萬里為國子祭酒復薦守道充史<lb/>
+　　　　館檢閲萬里殉節忠臣子良得葉適之傳其<lb/>
+　　　　林下偶談妙解文章肯綮觀於所主可以知<lb/>
+　　　　其氣類吉州人文紀略又稱文天祥劉辰翁<lb/>
+　　　　皆守道門人即守道益可知矣然則讀是集<lb/>
+<pb n="KR4d0363_WYG_000-2b"/>
+　　　　者固未可與諸家語録等類而齊觀也乾隆<lb/>
+　　　　四十五年五月恭校上<lb/>
+　　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>異魚圖贊巻二</head> <lb/>
+    <p>
+<pb n="KR3i0048_WYG_002-1a"/>
+欽定四庫全書<lb/>
+　異魚圖贊巻二<lb/>
+　　　　　　　　　　　　　明　楊慎　撰<lb/>
+　　鯪魚<lb/>
+吞舟之魚其名曰鯪背腹有刺如三角菱罟師畏之網<lb/>
+羅莫膺<hi>臨海水圡志</hi>
+　　勁䱜<lb/>
+南越勁䱜揚鬐排流洞腹養子朝泳暮游臍入口出貯<lb/>
+<pb n="KR3i0048_WYG_002-1b"/>
+水若抽鱗皮□可餙蒯緱<lb/>
+　　石首魚<lb/>
+石首之魚有石在頭瑩白如玉可槙酒籌<hi>石首魚一名鯪見江賦</hi>
+　　石首化鳬<lb/>
+南有魚鳬國古蜀帝所都婁縣石首魚至秋化為鳬魚<lb/>
+鳬之名義泝此可求諸<hi>張勃呉録</hi>
+　　比目魚<lb/>
+東海比目不比不行兩片得立合體相生狀如鞋屧鰈<lb/>
+<pb n="KR3i0048_WYG_002-2a"/>
+實其名<lb/>
+　　王餘<lb/>
+王餘孤遊比目䨇逝水既有之陸亦相儷單鵙匹鵹性<lb/>
+亦相似<hi>易林□必匹飛鵙必單栖</hi>
+　　鰕魚<lb/>
+鰕實四足而有魚名頭尾類鯷岐岐而行長生山澗出<lb/>
+入浮沉云是懶婦怨懟自投<hi>異物志舊贊</hi>
+　　鰼鰼魚<lb/>
+<pb n="KR3i0048_WYG_002-2b"/>
+皷翮十運一翼<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>翻厥鳴如鵲鱗在羽端<hi>郭璞鰼鰼魚贊</hi>
+　　文魮<lb/>
+形如覆銚包玉舍珠有而不積泄以尾閭闇與道㑹可<lb/>
+謂竒魚<hi>郭璞鴽鮆贊</hi>
+　　又<lb/>
+海經鴽鮆江賦文魮孕璆音磬鳥首魚尾出鳥䑕穴禹<lb/>
+貢攸紀<lb/>
+　　飛魚<lb/>
+<pb n="KR3i0048_WYG_002-3a"/>
+飛魚身圓長丈餘豋雲游波形如鮒翼如胡蟬翔泳俱<lb/>
+仙人寗封曾餌諸著藻灼爍千載舒<hi>衍王子年七言頌</hi>
+　　王鮪<lb/>
+王鮪岫居科斗其靣性最有毒獺所不噉人饒食之肥<lb/>
+美盈嚥<lb/>
+　　丹魚<lb/>
+丹水丹魚出於南陽以夜伺之浮水有光夏至十日其<lb/>
+期不爽取血塗足水上可行<hi>抱朴子</hi>
+<pb n="KR3i0048_WYG_002-3b"/>
+　　<graphic n="KR1515" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1515.png" mimeType="image/png"/>魚<hi>音䧟</hi>
+海有<graphic n="KR1515" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1515.png" mimeType="image/png"/>魚衆魚蓐母魚欲生卵觸腹以首蛇醫　奴物<lb/>
+性固有<lb/>
+　　望魚<hi>又名刀魚</hi>
+明都淦澤望魚之沼形則如刀可以刈草<hi>魏武帝四時食制</hi>
+　　鮫<graphic n="KR4134" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4134.png" mimeType="image/png"/>
+                    <hi>名虎</hi>
+天淵魚虎老化為鮫其皮朱文可餙弓刀<lb/>
+　　又<lb/>
+<pb n="KR3i0048_WYG_002-4a"/>
+鮫之為魚其子既育驚必歸母還入其腹小則如之大<lb/>
+則不復<hi>楊孚交州異物志舊贊</hi>
+　　龍魚<lb/>
+龍魚一角似鯉居陵候時而出神聖攸乘飛□九域騎<lb/>
+龍上升<hi>文選龍鯉一角即此也</hi>
+　　又<lb/>
+龍魚之川在汧之瑌河圖授羲實此出焉神行九野如<lb/>
+馬行天<lb/>
+<pb n="KR3i0048_WYG_002-4b"/>
+　　烏魚<lb/>
+烏魚戴星禁在仙經鯇鮦鱧蠡紛其别稱其膽獨甘以<lb/>
+是為徴<lb/>
+　　瓊魚<lb/>
+仙人上藥劉淵瓊魚昔西王母漢武受圖銀刀尾尾今<lb/>
+乃其餘<hi>衍漢武内傳</hi>
+　　石桂魚<lb/>
+石桂之魚天仙所餌猶有桂名鱖借音爾流水桃花真<lb/>
+<pb n="KR3i0048_WYG_002-5a"/>
+隱詠美<hi>鱖魚即石桂魚又名桂魚仙人劉慿所食即此也唐張志和詩桃花流水鱖魚肥</hi>
+　　横公魚<lb/>
+北荒石湖有横公魚化而為人刺之不殊煑之不死游<lb/>
+鑊育育烏梅卄七煑之乃熟<hi>約神異經𤣥黄録禪魚豢魏畧云文帝將受  赤魚</hi>
+<hi>游于露鑊乃此魚也其名自然乃矯誣以為瑞應</hi>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3i0048_WYG_002-5b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　異魚圖贊巻二<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

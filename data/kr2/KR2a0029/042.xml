@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2a0029_WYG_042-1a"/>
+　舊五代史卷二十攷證<lb/>
+梁列𫝊十司馬鄴𫝊而揚州諸步多賊船　諸步原本<lb/>
+　作諸走攷容齋隨筆云步者水傍之名今改正<lb/>
+劉捍𫝊光化三年六月太祖北伐鎮定又移師以攻中<lb/>
+　山　案梁祖下鎮定服中山舊唐書作光化三年九<lb/>
+　月新唐書作十月是書總繫于六月據通鑑自六月<lb/>
+　舉兵九月月始定中山也<lb/>
+張遂𫝊刺史張遂　案新唐書作張璲<lb/>
+<pb n="KR2a0029_WYG_042-1b"/>
+太祖令往光州説刺史劉存背淮賊以向國　案新唐<lb/>
+　書本紀乾寜三年楊行密陷光州刺史劉存死之九<lb/>
+　國志柴再用𫝊乾寜中從朱延壽平劉存于弋陽授<lb/>
+　知光州軍事梁兵冦光州再用擊走之事俱與是書<lb/>
+　異<lb/>
+又從李彦威復黄州獲刺史瞿章　案全忠陷黄州新<lb/>
+　唐書作乾寜四年九國志作三是書繫光化元年年<lb/>
+　與諸史異<lb/>
+<pb n="KR2a0029_WYG_042-2a"/>
+張存敬擒刺史陶建釗　案建釗原本作建鈺今據通<lb/>
+　鑑改正<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR2a0029_WYG_042-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　舊五代史卷二十攷證<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

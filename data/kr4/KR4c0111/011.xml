@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>浣花集補遺目録</head> <lb/>
+    <p>
+<pb n="KR4c0111_WYG_011-1a"/>
+欽定四庫全書<lb/>
+　浣花集補遺目録<lb/>
+　　乞彩牋歌<lb/>
+　　詠白牡丹<lb/>
+　　長安清明<lb/>
+　　咸陽懐古<lb/>
+　　悼亡姬五首<lb/>
+　　平陵老將<lb/>
+<pb n="KR4c0111_WYG_011-1b"/>
+　　春陌二首<lb/>
+　　春愁<lb/>
+　　嵗宴同左生作<lb/>
+　　和同年韋學士華下途中見寄<lb/>
+　　傷灼灼<lb/>
+　　漢州<lb/>
+　　秋霽晩景<lb/>
+　　和人春暮書事寄崔秀才<lb/>
+<pb n="KR4c0111_WYG_011-2a"/>
+　　古離别<lb/>
+　　邊上逢薛秀才話舊<lb/>
+　　飲散呈主人<lb/>
+　　使院黄葵花<lb/>
+　　搖落<lb/>
+　　奉和觀察郎中春暮憶花言懐見寄四韻之什<lb/>
+　　奉和左司郎中春物暗度感而成章<lb/>
+　　少年行<lb/>
+<pb n="KR4c0111_WYG_011-2b"/>
+　　令狐亭<lb/>
+　　閨月<lb/>
+　　閨怨<lb/>
+　　上春詞<lb/>
+　　𢷬練篇<lb/>
+　　雜體聨錦<lb/>
+　　長安春<lb/>
+　　撫盈謌<lb/>
+<pb n="KR4c0111_WYG_011-3a"/>
+　　贈峨嵋山彈琴李處士<lb/>
+　　江皋贈别<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

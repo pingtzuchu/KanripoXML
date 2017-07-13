@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2n0014_WYG_003-1a"/>
+法帖刋誤跋<lb/>
+長睿頃官于洛因得從之游嘗閲吾家所蔵内府帖且<lb/>
+以米老跋尾辨之惜其疎略遂著此書議論精確悉有<lb/>
+証據使真贋了然誠前人所未到也是書之作實自余<lb/>
+發之嘗作詩題吾家大令帖見於第九章云政和甲午<lb/>
+正月十三日周南王珍晉玉題於開封尹㕔之東齋<lb/>
+余待罪天禄與觀中祕古蹟石刻所本其真易識盖了<lb/>
+然知其偽者十九而後乃知黄子之作此書拔賞者寡<lb/>
+<pb n="KR2n0014_WYG_003-1b"/>
+而掊擊者多故有以也書之考引載籍則昭昭矣至其<lb/>
+洞察真贋品藻髙下水墨之間毫釐千里則非書家者<lb/>
+流心知其意未易不惑余是以道余所見於天禄者使<lb/>
+世知其論刻之嚴如此皆不妄也政和五年三月中澣<lb/>
+襄陵許翰崧老跋<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

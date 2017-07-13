@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>鶴林玉露</head>
+    <p>
+<pb n="KR3j0127_WYG_000-1a"/>
+欽定四庫全書　　　　　子部十<lb/>
+　鶴林玉露　　　　　　　雜家類三<hi>雜説之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案鶴林玉露十六卷宋羅大經撰大<lb/>
+　　　　經字景綸廬陵人事蹟無考惟所記竹谷老<lb/>
+　　　　人畏説一條有同年鄱陽景顔語知嘗登第<lb/>
+　　　　又髙登忤秦檜一條有為容州法曹掾語知<lb/>
+　　　　嘗官嶺南耳其書體例在詩話語録之間詳<lb/>
+<pb n="KR3j0127_WYG_000-1b"/>
+　　　　於議論而畧於考證所引多朱子張栻真徳<lb/>
+　　　　季魏了翁楊萬里語而又兼推陸九淵極稱<lb/>
+　　　　歐陽修蘇軾之文而又謂司馬光資治通鑑<lb/>
+　　　　且為虚費精力何况吕祖謙文鑑既引張栻<lb/>
+　　　　之説謂詞科不可習又引真徳秀之説謂詞<lb/>
+　　　　科當習大抵本文章之士而兼慕道學之名<lb/>
+　　　　者故每持兩端不能歸一然要其大旨固不<lb/>
+　　　　謬於聖賢也乾隆四十二年九月恭校上<lb/>
+<pb n="KR3j0127_WYG_000-2a"/>
+　　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

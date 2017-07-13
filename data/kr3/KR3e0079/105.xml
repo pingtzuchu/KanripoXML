@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>本草綱目卷四十五目録</head> <lb/>
+    <p>
+<pb n="KR3e0079_WYG_105-1a"/>
+欽定四庫全書<lb/>
+　本草綱目卷四十五目録<lb/>
+　　介部<lb/>
+李時珍曰介蟲三百六十而龜為之長周官鱉人取互<lb/>
+物以時籍春獻鱉蜃秋獻龜魚祭祀供蠯蠃蚳以授醢<lb/>
+人則介物亦供饌所不廢况可充藥品乎唐宋本草混<lb/>
+入蟲魚今析為介部四十六種分二類曰龜鱉曰蚌蛤<lb/>
+神農本草經八種<hi>梁陶𢎞景註</hi>　名醫别録五種<hi>梁陶𢎞景註</hi>
+<pb n="KR3e0079_WYG_105-1b"/>
+唐本草二種<hi>唐蘓恭</hi>　　　　本草拾遺一十種<hi>唐陳藏器</hi>
+海藥本草二種<hi>唐李珣</hi>　　　蜀本草一種<hi>蜀韓保昇</hi>
+開寳本草二種<hi>宋馬志</hi>　　　嘉祐本草八種<hi>宋掌禹錫</hi>
+圖經本草一種<hi>宋蘓頌</hi>　　　本草綱目六種<hi>明李時珍</hi>
+本草蒙筌一種<hi>明陳嘉謨</hi>
+附註<hi>魏吳普本草對齊徐之才藥</hi>　　　<hi>李當之藥録唐甄權藥性</hi>
+　　<hi>宋雷斆炮炙論孫思邈千金</hi>　　　<hi>唐孟詵張鼎食療南唐陳士良食性</hi>
+　　<hi>楊損之刪繁義宋寇宗奭衍</hi>　　　<hi>蕭炳四聲大明日華</hi>
+<pb n="KR3e0079_WYG_105-2a"/>
+　　<hi>金張元素珍珠囊朱震亨補遺</hi>　　<hi>元李呆法象吳瑞日用</hi>
+　　<hi>王好古湯液明汪穎食物</hi>　　　　<hi>明寗源食鑑明汪機會編</hi>
+　　介之一　　　龜魚類十七種<hi>附二種</hi>
+　　　水龜<hi>本經</hi>
+　　　秦龜<hi>别録</hi>
+　　　蠵龜<hi>綱目附龜<graphic n="KR2086" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2086.png" mimeType="image/png"/>
+                    </hi>
+　　　瑇瑁<hi>開寶附散八兒</hi>
+　　　緑毛龜<hi>蒙筌</hi>
+<pb n="KR3e0079_WYG_105-2b"/>
+　　　瘧龜<hi>拾遺</hi>
+　　　鶚龜<hi>拾遺旋龜</hi>
+　　　攝龜<hi>蜀本</hi>
+　　　賁龜<hi>綱目</hi>
+　　　鼈<hi>本經</hi>
+　　　納鼈<hi>圖經</hi>
+　　　能鼈<hi>綱目</hi>
+　　　朱鼈<hi>拾遺</hi>
+<pb n="KR3e0079_WYG_105-3a"/>
+　　　珠鼈<hi>綱目</hi>
+　　　黿<hi>拾遺</hi>
+　　　蟹<hi>本經</hi>
+　　　鱟<hi>嘉祐</hi>
+　　　　右附方舊一十九新四十六<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3e0079_WYG_105-3b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　本草綱目卷四十五目録<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

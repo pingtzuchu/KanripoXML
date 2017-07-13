@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>法帖釋文</head>
+    <p>
+<pb n="KR2n0015_WYG_000-1a"/>
+欽定四庫全書　　　　　史部十四<lb/>
+　法帖釋文　　　　　　　目錄類二<hi>金石之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案法帖釋文十巻宋劉次莊撰次莊<lb/>
+　　　　字中叟長沙人崇寧中嘗官御史曹士冕法<lb/>
+　　　　帖譜系云臨江戲魚堂帖元祐間劉次莊以<lb/>
+　　　　家藏淳化閣帖十巻摹刻堂上除去巻尾篆<lb/>
+　　　　題而増釋文曽敏行獨醒集志曰劉殿院次<lb/>
+<pb n="KR2n0015_WYG_000-1b"/>
+　　　　莊自幼喜書嘗寓於新淦所居民屋忩牖牆<lb/>
+　　　　壁題寫殆徧臨江郡庫有法帖十巻釋以小<lb/>
+　　　　楷他法帖之所無也觀二書所記則次莊之<lb/>
+　　　　作法帖釋文本附注石刻之中未嘗别為一<lb/>
+　　　　集此本殆後人於戲魚堂帖中鈔合成帙而<lb/>
+　　　　仍以閣本原第編之者也陳振孫書録解題<lb/>
+　　　　又稱武岡人嘗傳刻絳州潘氏帖嘉定中汪<lb/>
+　　　　立中又取劉本分入二十巻中官帖所無者<lb/>
+<pb n="KR2n0015_WYG_000-2a"/>
+　　　　増附之葢絳帖本閣帖而廣之故立中釋文<lb/>
+　　　　亦因次莊釋文而廣之與此又别一書矣乾<lb/>
+　　　　隆四十五年七月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

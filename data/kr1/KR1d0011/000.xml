@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>考工記解</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　　經部四<lb/>
+　考工記解　　　　　　　禮類一<hi>周禮之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案考工記解二卷宋林希逸撰希<lb/>
+　　　　逸字肅翁福清人端平二年進士景定間<lb/>
+　　　　官司農少卿終中書舍人自漢河間獻王取<lb/>
+　　　　考工記補周官于是經與記合為一書然後<lb/>
+　　　　儒亦往往别釋之唐有杜牧注宋有陳祥道<lb/>
+<pb n="1b"/>
+　　　　林亦之王炎諸家解今並不𫝊獨希逸此注<lb/>
+　　　　僅存宋儒務攻漢儒故其書多與鄭康成注<lb/>
+　　　　相剌謬然以綆三分寸之二為輪外兩邊有<lb/>
+　　　　䕶牙者以較為車箱前横在式之上則不合<lb/>
+　　　　於輪輿之制於倨句一矩有半解仍鄭氏注<lb/>
+　　　　其圖乃以鼓為倨股為句則不合于磬折之<lb/>
+　　　　度于戈之長内則折謂前為援與胡相並如<lb/>
+　　　　磬之折於臯鼓之倨句磬折謂鼓為圓物何<lb/>
+<pb n="2a"/>
+　　　　縁有倨句磬折之形恐有脱文皆于古器制<lb/>
+　　　　度未之詳核特以經文古奥猝不易明希逸<lb/>
+　　　　注明白淺顯初學易以尋求且諸工之事非<lb/>
+　　　　圖不顯希逸以三禮圖之有闗于記者采摭<lb/>
+　　　　附入亦頗便于省覽故讀周禮者至今猶𫝊<lb/>
+　　　　其書焉乾隆四十六年十月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

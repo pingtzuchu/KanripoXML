@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>十七史纂古今通要</head>
+    <p>
+<pb n="KR2o0017_WYG_000-1a"/>
+欽定四庫全書　　　　　史部十五<lb/>
+　十七史纂古今通要　　　史評類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案十七史纂古今通要十七巻元胡<lb/>
+　　　　一桂撰一桂有易夲義附録纂疏已著録是<lb/>
+　　　　書自三皇以迄五代裒集史事附以論斷前<lb/>
+　　　　有大徳壬寅自序并地理世系等十三圖錢<lb/>
+　　　　曽讀書敏求記曰宋以來論史家汗牛充棟<lb/>
+<pb n="KR2o0017_WYG_000-1b"/>
+　　　　率多龎雜可議以其不討論之過也此書議<lb/>
+　　　　論頗精允絶非宋儒隅見者可比一覽令人<lb/>
+　　　　於古今興亡理治了然胷次朱子稱稽古録<lb/>
+　　　　其言如桑麻菽粟小兒六經了好令讀去予<lb/>
+　　　　於此亦云其推許是書甚至至議其當從資<lb/>
+　　　　治通鑑帝魏不當從朱子綱目帝蜀則又以<lb/>
+　　　　久經論定之事務持異議以駭聴不足為一<lb/>
+　　　　桂病也熊禾勿軒集有胡庭芳史纂通要前<lb/>
+<pb n="KR2o0017_WYG_000-2a"/>
+　　　　序即為此書而作庭芳一桂字也其稱史纂<lb/>
+　　　　通要省文耳此本不載禾序殆偶佚歟乾隆<lb/>
+　　　　四十六年十月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

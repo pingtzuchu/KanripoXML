@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>巖下放言</head>
+    <p>
+<pb n="KR3j0107_WYG_000-1a"/>
+欽定四庫全書　　　　　子部十<lb/>
+　巖下放言　　　　　　　雜家類三<hi>雜説之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案巖下放言三卷宋葉夢得撰夢得<lb/>
+　　　　有石林春秋傳石林燕語避暑録話石林詩<lb/>
+　　　　話皆别著録是編乃其自崇慶節度使致仕<lb/>
+　　　　退居卞山時作也陳振孫書録解題作一卷<lb/>
+　　　　此本乃三卷疑振孫書為傳刻之訛又明商<lb/>
+<pb n="KR3j0107_WYG_000-1b"/>
+　　　　濬稗海中别有蒙齋筆談二卷題曰湘山鄭<lb/>
+　　　　景望撰其文全與此同但刪去數十條耳厲<lb/>
+　　　　鶚作宋詩紀事稱景望為元豐元祐間人所<lb/>
+　　　　錄景望潁州一詩考之亦載此書中商濬所<lb/>
+　　　　刻徃徃誤採偽書不足為異厲鶚書考証頗<lb/>
+　　　　詳不應舛謬至此又此書舊無刻本或疑其<lb/>
+　　　　即剽取景望書而作然考書中稱先祖魏公<lb/>
+　　　　又稱余紹聖間春試不第又稱大觀初余適<lb/>
+<pb n="KR3j0107_WYG_000-2a"/>
+　　　　在翰林又稱在潁州時初自翰林免官又稱<lb/>
+　　　　余守許昌時洛中方營西内又稱錢塘兵亂<lb/>
+　　　　又稱余鎮福唐又稱出入兵間十餘年所將<lb/>
+　　　　數十萬又稱余頃罷鎮建康所述仕履皆與<lb/>
+　　　　夢得本傳相合又稱嘗撰老子解論語釋言<lb/>
+　　　　二書今考書録解題論語類有葉夢得論語<lb/>
+　　　　釋言十卷道家類中有葉夢得老子解二卷<lb/>
+　　　　併所載老子解中生之徒十有三死之徒十<lb/>
+<pb n="KR3j0107_WYG_000-2b"/>
+　　　　有三本韓非子之説以為四支九竅云云亦<lb/>
+　　　　與此書相符然則為蒙齋筆談剽此書而作<lb/>
+　　　　非此書剽蒙齋筆談而作確有明證厲鶚葢<lb/>
+　　　　考之未審矣夢得老而歸田躭心二氏書中<lb/>
+　　　　所述多提唱釋老之㫖沈作喆王宗傳楊簡<lb/>
+　　　　等之以禪説易實萌芽於此殊不可以立訓<lb/>
+　　　　然夢得學問博洽又多知故事其所記録亦<lb/>
+　　　　頗有可采宋人舊帙姑存以備一家焉乾隆<lb/>
+<pb n="KR3j0107_WYG_000-3a"/>
+　　　　四十六年七月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

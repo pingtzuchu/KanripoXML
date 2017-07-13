@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4a0002_SBCK_010-1a"/>
+楚辭卷第十<lb/>
+　　　　　　校書郎臣王　逸上<lb/>
+大招章句第十　楚辭<lb/>
+大招者屈原之所作也或曰景差疑不能<lb/>
+明也<hi>屈原賦二十五篇漁父以上是也大招恐非屈原作</hi>屈原放流九年憂<lb/>
+恖煩亂精神越散與形離别恐命將終所行<lb/>
+不遂故憤然大招其魂盛稱楚國之樂崇懷<lb/>
+襄之德以比三王能任用賢公卿明察能薦<lb/>
+舉<hi>一無明字</hi>人冝輔佐之以興至治因以風諫逹已<lb/>
+<pb n="KR4a0002_SBCK_010-1b"/>
+之志也<lb/>
+靑春受<graphic n="KR1180" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1180.png" mimeType="image/png"/>
+                    <hi>靑東方春位其色青也<graphic n="KR1180" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1180.png" mimeType="image/png"/>去也<graphic n="KR1180" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1180.png" mimeType="image/png"/>一作謝補曰淮南曰扶桑受謝日炤宇宙炤</hi>
+<hi>炤之光輝燭四海文選云隂謝陽施注引此語</hi>白日昭只<hi>昭明也言歳始春靑帝用事盛隂巳去少</hi>
+<hi>陽受之則日色黃白昭然光明草木之類皆含氣芽蘖而生以言魂魄亦冝順陽氣而長養也補曰只音止語</hi>
+<hi>巳詞</hi>春氣奮發<hi>春蠢也/發洩也</hi>萬物遽只<hi>遽猶競也言春陽氣奮起上帝</hi>
+<hi>發洩和氣温燠萬物蠢然競起而生各欲滋茂以言精魂亦冝奮發精明令已盛壯也補曰遽其據切</hi>冥<lb/>
+淩浹行<hi>冥玄冥北方之神也淩猶馳也浹徧也</hi>魂無逃只<hi>逃竄也言歳始春陽</hi>
+<hi>氣上陞隂氣下降玄冥之神徧行淩馳於天地之間收其隂氣閉而藏之故魂不可以逃將隨太隂下而沈没</hi>
+<hi>也一作伏隂</hi>魂魄歸徠無逺遥只<hi>遥猶漂遥放流皃也䰟者陽之精也䰟者</hi>
+<pb n="KR4a0002_SBCK_010-2a"/>
+<hi>隂之形也言人體含隂陽之氣失之則死得之則生屈原放在草野憂心愁悴精神散越故自招其䰟魄言冝</hi>
+<hi>順陽氣始生而徠歸巳無逺漂遥將遇害也一作䰟魄一作徠歸</hi>魂乎歸徠無東<lb/>
+無西無南無北只<hi>言我精魂可徠歸矣無散東西南比四方異俗多賊害也古本乎皆</hi>
+<hi>作兮一作徠歸一云魂乎歸兮一云無東西而南北只</hi>東有大海溺水浟浟<lb/>
+只<hi>浟浟流皃也言東方有大海廣逺無涯其水淖溺沈没萬物不可度越其流浟浟又迅疾也補曰浟音悠</hi>
+螭龍並流上下悠悠只<hi>悠悠螭龍行皃也言海水之中復有螭龍神獸隨流</hi>
+<hi>上下並行遊戲其狀悠悠可畏懼也悠一作攸古作脩脩</hi>霧雨淫淫<hi>地氣發泄天氣不應曰霧</hi>
+<hi>淫淫流皃也</hi>白皓膠只<hi>皓膠水凍皃也言大海之涯多霧惡氣天常甚雨如注壅水冬則凝</hi>
+<hi>凍皓然正白回錯膠戾與天相薄也皓一作浩補曰膠戾也音豪</hi>魂乎無東湯谷<lb/>
+<pb n="KR4a0002_SBCK_010-2b"/>
+<graphic n="KR1254" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1254.png" mimeType="image/png"/>只<hi>言䰟神不可東行又有湯谷日之所出其地無人視聽<graphic n="KR1254" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1254.png" mimeType="image/png"/>然無所見聞或曰<graphic n="KR1254" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1254.png" mimeType="image/png"/>水蘸之皃乎一</hi>
+<hi>作兮一本<graphic n="KR1254" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1254.png" mimeType="image/png"/>下有寥字補曰蘸没也</hi>魂乎無南南有炎火千里<hi>炎火盛皃</hi>
+<hi>也尚書曰火曰炎上</hi>蝮蛇蜒只<hi>蜒長皃也言南方太陽有積火/千里又有惡蛇蜿蜒而長有<graphic n="KR2862" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2862.png" mimeType="image/png"/>
+                    </hi>
+<hi>毒也補曰蜿音鴛蜒音延</hi>山林險隘<hi>林一作陵</hi>虎豹蜿只鰅鱅短<lb/>
+狐<hi>蜿虎行皃也言南方有髙山深林其路險阨又多虎豹匍匐蜿蜒以候伺人也鰅鱅短狐類也短狐鬼蜮</hi>
+<hi>也補曰鰅魚恭切鱅以恭切鰅鱅狀如犁牛又鰅魚名皮有文鱅魚音如彘鳴</hi>王虺騫只<hi>工虺</hi>
+<hi>大蛇也爾雅曰蟒王蛇也騫舉頭皃也言復有鰅鱅鬼蜮射傷害人人蛇群聚舉頭而望其狀騫然也補曰騫</hi>
+<hi>讀若騫音軒</hi>䰟乎無南蜮傷躬只<hi>蜮短狐也詩云爲鬼爲蜮言䰟乎無敢南</hi>
+<hi>行水中多蜮鬼必傷害於爾躬也乎一作兮補曰榖梁子曰蜮射人者也前漢五行志云蜮生南越亂氣所生</hi>
+<pb n="KR4a0002_SBCK_010-3a"/>
+<hi>在水旁能射人甚者至死陸機云一名射影人在岸上影見水中投人影則射之或謂含沙射人孫眞人云江</hi>
+<hi>東江南有虫名短狐谿毒亦名射工其虫無目而利耳能聽在山源谿水中聞人聲便以口中毒射人說文云</hi>
+<hi>蜮似鱉三足以氣射害人音蜮又音或</hi>魂乎無西西方流沙漭洋<lb/>
+洋只<hi>洋洋無涯皃也言西方有流沙漭然平正視之洋洋廣大無涯不可過也補曰漭母朗切水大</hi>
+<hi>皃</hi>豕首縱目<hi>縱一作從補曰南北曰縱將容切</hi>被髪鬤只<hi>豕猪也首</hi>
+<hi>頭也鬤亂皃也鬤古作長補曰鬟而羊切</hi>長爪踞牙誒笑狂只<hi>誒猶強也言西</hi>
+<hi>方有神其狀猪頭從目被髪鬤鬤手足長爪出齒倨牙得人強笑憙而狂獝也或曰誒笑樂也謂得人憙樂也</hi>
+<hi>此蓋蓐收神之狀也一云豕爪踞一作倨誒一作娱補曰踞音據蹲也誒音僖說文云可惡之詞漢書嘻笑注</hi>
+<hi>云強笑也</hi>䰟乎無西多害傷只<hi>言西方金行其神獸剛強皆傷害人也</hi>䰟<lb/>
+<pb n="KR4a0002_SBCK_010-3b"/>
+乎無北北有寒山逴龍赩只<hi>逴龍山名也赩赤色無草木皃也言北方</hi>
+<hi>有常寒之山隂不見日名曰逴龍其土赤色不生草木不可過之必凍殺人也或曰逴龍色逴越也赩懼也言</hi>
+<hi>起越寒山赩然而懼恐不得過也逴一作卓補曰逴音卓逺也山海經西北海之外有章尾山有神身長千里</hi>
+<hi>人面蛇身而赤是燭九隂是謂燭龍疑此逴龍即燭龍也赩許力切大赤也</hi>代水不可渉<lb/>
+深不可測只<hi>言復有代水廣大不可過度其深無底不可窮測沈沒人也代一作伐</hi>
+天白顥顥<hi>顥顥光皃補曰顥音皓說文白皃</hi>寒凝凝只<hi>疑凝水凍皃也言比</hi>
+<hi>方冬夏積雪其光顥顥天地皆白冰凍重累其狀凝凝其寒酷烈傷肌骨也凝一本及釋文並作嶷魚力切</hi>
+魂乎無往盈北極只<hi>盈滿也北極太隂之中空虚之處也言我䰟歸乎北極空</hi>
+<hi>虚不可盈滿往必隕墜不得出也補曰淮南云北極之山曰寒門</hi>魂魄歸徠間以<lb/>
+<pb n="KR4a0002_SBCK_010-4a"/>
+靜只<hi>言已䰟魄冝急徠還歸我之身隨己遊戲心旣閑樂居淸靜也一作徠歸</hi>自恣荆<lb/>
+楚安以定只<hi>言四方多害不可以遊獨荆楚饒樂可以恣意居之安定無危殆也</hi>逞志<lb/>
+究欲<hi>逞快也究窮也</hi>心意安只<hi>欲嗜欲也言楚國珍竒所聚集尤多姣女可以快志</hi>
+<hi>意窮情欲心得安樂而無憂也</hi>窮身永樂年壽延只<hi>言居於楚國窮身長</hi>
+<hi>樂保延年壽終無憂患也永一作安</hi>魂乎歸徠樂不可言只<hi>言楚國饒樂不</hi>
+<hi>可勝<graphic n="KR1981" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1981.png" mimeType="image/png"/>也一作徠歸</hi>五榖六仞<hi>五榖稻稷麥豆麻也七尺曰仞補曰說文云仞伸臂一尋八尺</hi>
+<hi>也</hi>設菰粱只<hi>設施也苽梁蔣實謂雕葫也言楚國土地肥美堪用種植五榖其穗長六仞又</hi>
+<hi>有苽粱之飯芬香且柔滑也或曰仞因也以五榖因苽粱厠爲飯也菰一作苽補曰菰苽並音孤此言積榖之</hi>
+<hi>多尓非謂穗長六仞也</hi>鼎臑盈望和致芳只<hi>臑熟也致致醎酸也芳謂椒薑</hi>
+<pb n="KR4a0002_SBCK_010-4b"/>
+<hi>也言乃以鼎鑊臑熟羹臛調和醎酸致其芬芳望之滿案有行列也臑一作胹釋文作腩徒南切補曰腩<graphic n="KR0796" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0796.png" mimeType="image/png"/>也</hi>
+内鶬鴿鵠<hi>鶬鶬鶴也鴿以鳩而小靑白鵠黃鵠也内一作肭補曰内與納同肭肥也鶬音倉爾</hi>
+<hi>雅鶬麋鴰注云即鶬鴰也徐朝七喻云雲鶬水鵠禽蹯豹胎鴶有白鵠有黃鵠</hi>味豺羹只<lb/>
+<hi>豺似狗言宰夫巧於調和先定甘酸乃内鶬鴿黃鵠重以豺肉故羹味尤美也補曰豺狼屬狗聲</hi>魂<lb/>
+乎歸徠恣所甞只<hi>甞用也言羹飯旣美魂冝急徠歸恣意所用快已之口也一作</hi>
+<hi>徠歸</hi>鮮<graphic n="KR1010" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1010.png" mimeType="image/png"/>甘鷄<hi>生潔爲鮮<graphic n="KR1010" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1010.png" mimeType="image/png"/>大/龜也釋文作</hi>和楚酪只<hi>酪酢酨也言取鮮潔</hi>
+<hi>大龜烹之作羹調以飴蜜復用肥雞之肉和以酢酪其味清烈也補曰酪乳漿也酨音載漿也</hi>醢豚<lb/>
+苦狗<hi>醢肉醬也苦以膽和醬也丗所謂膽和者也豚古作/補曰集韻作音同</hi>膾苴<lb/>
+蒪只<hi>苴<graphic n="KR1052" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1052.png" mimeType="image/png"/>蘘荷也言乃以肉醬㗖烝豚以膽和醬㗖/狗肉雜用膾炙切蘘荷以爲香備衆味也<graphic n="KR1052" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1052.png" mimeType="image/png"/>一</hi>
+<pb n="KR4a0002_SBCK_010-5a"/>
+<hi>作補曰苴即魚切蒪普各匹沃二切本草蘘荷葉似/初生甘蔗根似薑牙博雅云<graphic n="KR1052" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1052.png" mimeType="image/png"/>苴蘘荷也九歎蘘荷注</hi>
+<hi>云蒪菹也或作蓴非是</hi>吳酸蒿蔞<hi>蒿蘩草也蔞香草也詩曰言采其蔞也一作芼蔞注</hi>
+<hi>云芼菜也言吳人善爲羹其菜若蔞味無沾薄言其調也補曰爾雅云蘩皤蒿即白蒿也可以爲葅陸機云春</hi>
+<hi>生秋乃香美可食又蔞蒿也葉似生水中脆美可食蔞龍珠切以菜和羹曰芼</hi>不沾薄只<lb/>
+<hi>沾多汁也薄無味也言吳人工調醎酸爚蒿蔞以爲虀其味不醲不薄適甘美也或曰吳酸<graphic n="KR1753" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1753.png" mimeType="image/png"/>䤅<graphic n="KR1753" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1753.png" mimeType="image/png"/>䤅榆醬也</hi>
+<hi>一云吳酢<graphic n="KR1753" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1753.png" mimeType="image/png"/>䤅補曰沾音/添益也<graphic n="KR1753" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1753.png" mimeType="image/png"/>音模䤅音途</hi>魂兮歸徠恣所擇只<lb/>
+<hi>言衆味盛多恣䰟志意擇用之也一作魂乎徠歸</hi>炙鴰烝鳬<hi>鴰一作鵠鳬/一作補曰</hi>
+<hi>炙音柘燔肉也鴰麋鴰也古活切</hi>煔鶉敶只<hi>煔爚也言復炙鶬鴰烝鳬鴈煔爚鶉鷃敶列衆</hi>
+<hi>味無所不具也補曰煔音潛沈肉於湯也</hi>煎鰿<graphic n="KR0796" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0796.png" mimeType="image/png"/>雀<hi>鰿鮒<graphic n="KR0796" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0796.png" mimeType="image/png"/>一作臛補曰鰿舊音積集韻</hi>
+<pb n="KR4a0002_SBCK_010-5b"/>
+<hi>賾責二音小魚也</hi>遽爽存只<hi>遽趣也爽差也存前也言乃復煎鮒魚臛黃雀勑趣宰人</hi>
+<hi>差次衆味持之而前也</hi>魂乎歸徠麗以先只<hi>言先進靡麗美物以快神</hi>
+<hi>心也麗一作進</hi>四酎并孰<hi>醇酒爲酎/幷俱也</hi>不歰嗌只<hi>嗌䬼也言乃醖釀醇</hi>
+<hi>酒四器俱熱其味甘美飲之醲滑入口消釋不苦歰令人不䬼滿也歰一作澁補曰歰不滑也嗌於革切又音</hi>
+<hi>益咽喉也䬼飫也於泫切一作饐</hi>淸馨凍<graphic n="KR3493" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3493.png" mimeType="image/png"/>
+                    <hi>馨香之逺聞者也凍猶/寒也<graphic n="KR3493" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3493.png" mimeType="image/png"/>一作飲補曰集</hi>
+<hi>韻作㱃</hi>不歠役只<hi>歠飲也役賤也言醇醲之酒清而且香冝於寒飲不可以飲役餞之人即</hi>
+<hi>以飲役賤之人即易醉顚仆失禮敬</hi>吳醴白糵<hi>再宿爲醴糵米麴也補曰說文云醴酒一宿熟</hi>
+和楚瀝只<hi>瀝清酒也言使吳人醲醴和以白米之麴以作楚瀝其清酒尤醲美也</hi>魂<lb/>
+乎歸徠不遽惕只<hi>言飲食醲羙安意遨遊長無惶遽怵惕之憂也一作徠歸</hi>代<lb/>
+<pb n="KR4a0002_SBCK_010-6a"/>
+秦鄭衞鳴竽張只<hi>言代秦鄭衞之國工作妙音使吹鳴竽箎作爲衆樂以樂</hi>
+<hi>君也代一作岱</hi>伏戲駕辯楚勞商只<hi>伏戲古王者也始作瑟駕辯勞商皆</hi>
+<hi>曲名也言伏戲氏作瑟造駕辯之曲楚人因之作勞商之歌皆要妙之音可樂聽也或曰伏戲駕辯皆要妙歌</hi>
+<hi>曲也勞絞也以楚聲絞商音爲之淸激也補曰文選云或超延露而駕辯</hi>謳和揚阿<hi>徒歌曰謳</hi>
+<hi>揚舉也阿曲也補曰楊阿即陽阿巳見招魂</hi>趙簫倡只<hi>趙國名也簫樂器也先歌爲倡言樂</hi>
+<hi>人將歌徐且謳吟揚舉善曲乃俱相和又使趙人吹簫先倡五聲乃發也或曰謳和揚阿皆歌曲也</hi>魂<lb/>
+乎歸徠定空桑只<hi>空桑瑟名也周官云古者絃空桑而爲瑟言魂急徠歸定意楚</hi>
+<hi>國聽瑟之樂也或曰空桑楚地名一作徠歸下並同</hi>二八接舞<hi>接聮也舞一作武</hi>投<lb/>
+詩賦只<hi>投合也詩賦雅樂也古者以琴瑟歌詩賦爲雅樂關睢鹿鳴是也言有美女十六人聮接</hi>
+<pb n="KR4a0002_SBCK_010-6b"/>
+<hi>而舞發聲舉足與詩雅相合且有節度也</hi>叩鍾調磬<hi>叩擊也金曰鍾石曰磬也</hi>娛<lb/>
+人亂只<hi>娛樂也亂理也言美女起舞叩鍾擊磬得其節度則諸樂人各得其理有條序也</hi>四<lb/>
+上競氣<hi>四上謂上四國代秦鄭衞也補曰四上謂聲之上者有四謂代秦鄭衞之鳴竽也伏戲之</hi>
+<hi>駕辯也楚之勞商也趙之簫也</hi>極聲變只<hi>言四國競發善氣窮極昔聲變易其曲無終巳也</hi>
+魂乎歸徠聽歌譔只<hi>譔具也言觀聽衆樂無不具也</hi>朱脣皓齒<lb/>
+<hi>皓白朱脣一作美人</hi>嫭以姱只<hi>嫭姱好皃也言美人朱脣白齒嫭眄美姿儀狀姱好可近而親</hi>
+<hi>侍左右也嫭一作嫮補曰嫭音護姱苦花切</hi>比德好間習以都只<hi>言選擇美</hi>
+<hi>人比其才德容貌都閑習於禮節乃敢進也補曰北必寐切間音閑漢書曰間雅甚都</hi>豐肉微<lb/>
+骨<hi>豐厚也微細也</hi>調以娛只<hi>言美人肥白潤澤小骨厚肉肌膚柔弱心志和調冝侍燕</hi>
+<pb n="KR4a0002_SBCK_010-7a"/>
+<hi>居以自娛樂也</hi>魂乎歸徠安以舒只<hi>言美女鮮好可以安意舒緩憂思也</hi>嫮<lb/>
+目冝笑<hi>嫮眄瞻皃補曰嫮與嫭同</hi>娥眉曼只<hi>曼澤也言復有異女工於嫮眄好口</hi>
+<hi>冝笑蛾眉曼澤異於衆人也</hi>容則秀雅<hi>則法也/秀異也</hi>穉朱顔只<hi>穉幼也朱</hi>
+<hi>赤也言美女儀容間雅動有法則秀異於人年又幼穉顔色赤白體香㓗也</hi>䰟乎歸徠<lb/>
+靜以安只<hi>言美好之女可以靜居安精神也</hi>姱脩滂浩<hi>脩長也滂浩廣大也</hi>
+<hi>一作脩廣婉心婉一作逺</hi>麗以佳只<hi>佳善也言美女身體脩長用意廣大多於所知又性婉順</hi>
+<hi>善心腸也</hi>曽頰倚耳<hi>曽重也/倚辟也</hi>曲眉規只<hi>規圜也言美女之面丰容豐滿</hi>
+<hi>頰肉若重兩耳郭辟曲眉正圜皃絶殊也郭一作却</hi>滂心綽態<hi>綽猶多也態姿也滂一作漫綽</hi>
+<hi>一作淖</hi>姣麗施只<hi>姣好也言美女心意廣大寛能容衆多姿綽態調戲不窮旣好有智無所</hi>
+<pb n="KR4a0002_SBCK_010-7b"/>
+<hi>不施也</hi>小腰秀頸若鮮卑只<hi>鮮卑衮帶頭也言好女之狀腰文細小頸銳秀</hi>
+<hi>長靖然而特異若以鮮卑之帶約而束之也補曰前漢匈奴傳黃金犀毗孟康曰要中大帶也張晏曰鮮卑郭</hi>
+<hi>洛帶瑞獸名也東胡好服之師古曰犀毗胡帶之鈎亦曰鮮卑魏書曰鮮卑東胡之餘也别保鮮卑山因號焉</hi>
+魂乎歸徠思怨移只<hi>移去也言美女可以忘憂去怨思也思一作恖古本作怨</hi>
+<hi>思移只</hi>易中利心以動作只<hi>言復有美女用志滑易心意和利動作合禮能</hi>
+<hi>順人意可以自侍也補曰易以䜴切</hi>粉白黛黒施芳澤只<hi>言美女又工糚飾傳</hi>
+<hi>著脂粉面白如玉黛畫眉鬢黒而光淨又施芳澤其芳香鬱渥也</hi>長袂拂面<hi>袂袖也拂拭也</hi>
+善留客只<hi>言美女工舞榆其長袖周旋屈折拂拭人面芬香流衍衆客喜樂留不能去也</hi>魂<lb/>
+乎歸徠以娛昔只<hi>昔夜也詩云樂酒今昔言可以終夜自娛樂也昔一作夕</hi>靑<lb/>
+<pb n="KR4a0002_SBCK_010-8a"/>
+色直眉美目媔只<hi>媔黠也言復有美女體色青白顔眉平直美目竊眄媔然黠慧</hi>
+<hi>知人之意也補曰青色謂眉也媔音綿美目皃</hi>靨輔竒牙冝笑嘕只<hi>嘕笑</hi>
+<hi>皃也言美女頰有靨輔口有竒牙嘕然而笑尤媚好也輔一作䩉補曰靨於牒切䩉與輔同扶羽切頰車也左</hi>
+<hi>氏輔車相依淮南云竒牙出<graphic n="KR2679" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2679.png" mimeType="image/png"/>䩉揺注云將笑故好齒/出<graphic n="KR2679" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2679.png" mimeType="image/png"/>䩉頰邊文婦人之媚也又云靨輔在頰前則好嘕</hi>
+<hi>虚延切</hi>豐肉微骨體便姢只<hi>便姢好皃也巳解於上補曰便平聲</hi>魂<lb/>
+乎歸徠恣所便只<hi>便猶安也言所選美女五人儀皃各異恣䰟所安以侍棲宿也</hi>
+<hi>補曰便平聲</hi>夏屋廣大沙堂秀只<hi>沙丹沙也言乃爲䰟造作髙殿峻屋</hi>
+<hi>其中廣大又以丹沙朱畫其堂其形秀異宜居處也</hi>南房小壇<hi>房室也壇猶堂也補曰壇音善</hi>
+觀絶霤只<hi>觀猶樓也霤屋宇也言復有南房别室間靜小堂樓觀特髙與大殿宇絶逺冝遊宴</hi>
+<pb n="KR4a0002_SBCK_010-8b"/>
+<hi>也補曰觀音貫釋名曰觀者於上觀望也霤音溜說文曰霤屋水流也禮記中霤注云古者複穴是以名室爲</hi>
+<hi>霤云</hi>曲屋歩壛<hi>曲屋周閣也歩壛長砌也壛一作櫩補曰上林賦歩櫩周流李善云歩櫩長廊</hi>
+<hi>也集韻櫩與簷同壛與閻同</hi>冝擾畜只<hi>擾謹也言南堂之外復有曲屋周旋閣道歩壛長砌</hi>
+<hi>其路險陜冝乗擾謹之馬周旋屈折行遊觀也畜一作嘼一作獸補曰畜音嗅師古云嘼者人之所養獸是山</hi>
+<hi>澤所育故爾雅說牛馬羊豕即在釋畜論麋鹿虎豹即在釋獸說文云嘼㹌也六畜之字本目作嘼後乃借畜</hi>
+<hi>養字爲之</hi>騰駕歩遊<hi>騰/馳</hi>獵春囿只<hi>春草始生囿中平易也言從曲閣之路可</hi>
+<hi>駕馬騰馳而臨平易又可歩行遂往田獵於春囿之中取禽獸也</hi>瓊轂錯衡<hi>金銀爲錯</hi>
+<hi>瓊一作瑶補曰詩云約軝錯衡</hi>英華假只<hi>假大也言所乗之車以王飾轂以金錯衡英華照燿</hi>
+<hi>大有光明也假一作嘏補曰假大也嘏亦大也</hi>茝蘭桂樹鬱彌路只<hi>言所</hi>
+<pb n="KR4a0002_SBCK_010-9a"/>
+<hi>行之道皆羅桂樹茝蘭香草鬱鬱然滿路動履芳潔德義備也茝一作芷</hi>魂乎歸徠恣<lb/>
+志慮只<hi>言䰟乎徠歸居有大殿宴有小堂遊有園囿恣君所志而處之也慮一作處</hi>孔<lb/>
+雀盈園畜鸞皇只<hi>畜養也言園中之禽則有孔雀群聚盈滿其中又養鸞鳥</hi>
+<hi>鳳皇皆神智之鳥可珍重也畜釋文作慉補曰畜許六切</hi>鵾鴻群晨<hi>鵾鵾雞鴻鴻鶴也</hi>雜<lb/>
+<graphic n="KR1175" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1175.png" mimeType="image/png"/>鶬只<hi>鶖鶬鵚鶖也詩云有鶖在梁言鵾雞鴻鶴群聚候時鶴知夜半鵾雞晨鳴各知其職也雜</hi>
+<hi>以鶖鶬之屬鳴聲啾啾各有節度也補曰<graphic n="KR1175" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1175.png" mimeType="image/png"/>音秋</hi>鴻鵠代遊曼鷫鷞只<hi>曼曼</hi>
+<hi>衍也鷫鷞俊鳥也言復有鴻鵠往來遊戲與鷫鷞俱飛翩翻曼衍無絶巳也曼一作漫鷞一作鸘補曰鷞鸘並</hi>
+<hi>音霜鷫鷞長頸緑身其形似鴈一曰鳳皇别名馬融曰其羽如紈髙首而脩頸說文曰西方神鳥也東方發明</hi>
+<hi>南方焦明西方鷫鷞北方幽昌中央鳳皇</hi>魂乎歸徠鳳皇翔只<hi>言所居園圃皆</hi>
+<pb n="KR4a0002_SBCK_010-9b"/>
+<hi>多俊大之鳥咸有智謨䰟冝來歸若鳳皇之翔歸有德就同志也或曰鸞皇以下皆大鳥以喻仁智之士言楚</hi>
+<hi>國多賢䰟冝來歸也</hi>曼澤怡面<hi>怡懌皃也怡一作台注云台澤皃也</hi>血氣盛只<lb/>
+<hi>言䰟來歸巳則心志說樂肌膚曼緻面皃怡懌血氣充盛身體強壯也盛一作晠</hi>永冝厥身<lb/>
+保壽命只<hi>言䰟旣還歸則與已身相共俱生長保壽命終百年也一云長保命只</hi>室<lb/>
+家盈廷爵禄盛只<hi>言已旣保年壽室家宗族盈滿朝廷人有爵禄豪強族盛也</hi>
+魂乎歸徠居室定只<hi>言官爵旣崇宗族旣盛則居家之道大安定也</hi>接<lb/>
+徑千里出若雲只<hi>言楚國境界徑路交接方千餘里中有隱士慕已徠出集聚若雲也</hi>
+三圭重侯<hi>三圭謂公侯伯也公執桓圭侯執信圭伯執躬圭故言三圭也重侯謂子男也子男</hi>
+<hi>共一爵故言重侯也補曰公侯伯子男同謂之諸侯三圭比子男爲重</hi>聽類神只<hi>言楚國所</hi>
+<pb n="KR4a0002_SBCK_010-10a"/>
+<hi>包中有公侯伯子男執玉圭之君明於知人聽愚賢之類别其善惡昭然若神能薦逹賢人也</hi>察篤<lb/>
+夭隱<hi>篤病也早死爲夭隱匿也夭一作殀</hi>孤寡存只<hi>言三圭之君不但知賢愚之類</hi>
+<hi>乃察知萬民之中被篤疾病早殀死及隱逸之士存視孤寡而振贍之也補曰篤厚也</hi>魂兮歸<lb/>
+徠正始昆只<hi>昆後也言楚國公侯昭明䰟冝來歸遂忠信之志正終始之行必顯用也兮一</hi>
+<hi>作乎</hi>田邑千畛<hi>田野也畛田上道也邑都邑也詩云徂隰徂畛補曰畛之忍切</hi>人阜<lb/>
+昌只<hi>阜盛也昌熾也言楚國田野廣大道路于數都邑衆多人民熾盛所有肥饒樂於他國也</hi>美<lb/>
+冒衆流<hi>冒覆</hi>德澤章只<hi>章明也言楚國有美善之化覆冒群下流於衆庶德</hi>
+<hi>澤之惠甚著明也</hi>先威後文<hi>威/武</hi>善美明只<hi>言楚國爲政先以威武嚴民後</hi>
+<hi>以文德撫之用法誠善美而君明臣直䰟冝還歸也</hi>魂乎歸徠賞罰當只<lb/>
+<pb n="KR4a0002_SBCK_010-10b"/>
+<hi>言君明臣正賞善罰惡各當其所也一作徠歸補曰當平聲</hi>名聲若日照四海<lb/>
+只<hi>言楚王方建道德名聲光輝若日之明照見四海盡知賢愚照一作昭</hi>德譽配天萬<lb/>
+民理只<hi>言楚王脩德於内榮譽外發功德配天能理萬民之冤結也理一作治一本此二句次善</hi>
+<hi>美明只之後</hi>北至幽陵<hi>幽陵猶/幽州也</hi>南交阯只<hi>交趾地名補曰記云南方</hi>
+<hi>曰蠻題交趾注云交趾足相郷後漢書云其俗男女同川而浴故曰交阯阯與趾同輿地志云其夷足大指</hi>
+<hi>開析兩足並立指則相交</hi>西薄羊腸<hi>羊腸山名補曰戰國䇿注云羊腸趙險塞名山形屈辟狀</hi>
+<hi>如羊腸今在太原晉陽之西北</hi>東窮海只<hi>言榮譽流行周遍四極無逺不聞也補曰書云東漸</hi>
+<hi>于海西𬒳于流沙朔南曁聲敎訖于四海史記曰北至于幽陵南至于交阯西至於流沙東至于蟠木淮南曰</hi>
+<hi>南至交阯北至幽都東至陽谷西至三危</hi>魂乎歸徠尚賢士只<hi>言䰟急歸徠楚</hi>
+<pb n="KR4a0002_SBCK_010-11a"/>
+<hi>方尚進賢士必見進用也一作徠歸一云尚進士只一云進賢士只</hi>發政獻行<hi>獻進</hi>禁<lb/>
+苛暴只<hi>言楚王發敎施令進用仁義之行禁絶苛刻暴虐之人也禁一作絶</hi>舉傑壓<lb/>
+陛<hi>一國之髙爲傑壓抑也陛階次也壓一作厭陛一作階𥙷曰厭於甲切</hi>誅譏罷只<hi>譏非</hi>
+<hi>也罷駑也言楚國選舉必先升用傑俊之士壓抑無德不由階次之人非惡罷駑誅而去之補曰罷音疲</hi>直<lb/>
+嬴在位<hi>贏餘𥙷曰贏音盈說文云有餘賈利也</hi>近禹麾只<hi>禹聖王明於知人麾</hi>
+<hi>舉手也言忠直之人皆在顯位復有贏餘賢俊以爲儲副誠近夏禹指麾取士一國之人悉進之也一云誠近</hi>
+<hi>夏禹所稱舉賢人之意也</hi>豪傑執政<hi>千人才曰豪萬人才曰傑傑一作俊執一作理</hi>流<lb/>
+澤施只<hi>言豪傑賢士執持國政惠澤流行無不被其施也</hi>魂乎徠歸國<lb/>
+家爲只<hi>言䰟乎急徠歸爲國家作轉佐也補曰據注爲去聲</hi>雄雄赫赫天<lb/>
+<pb n="KR4a0002_SBCK_010-11b"/>
+德明只<hi>雄雄赫赫威勢盛也言楚王有雄雄之威赫赫之勇德配天地體性髙明冝爲盡節也</hi>
+三公穆穆<hi>穆穆和美皃</hi>登降堂只<hi>言楚有三公其位尊髙穆穆而美上下玉</hi>
+<hi>堂與君議政冝急徠歸處履之也降一作玉</hi>諸侯畢極立九卿只<hi>言楚選置</hi>
+<hi>三公先用諸侯盡極乃立九卿以續之用士有道不失其次序也</hi>昭質旣設<hi>昭質謂明旦也</hi>
+<hi>補曰記云質明而始行事</hi>大侯張只<hi>侯謂所射布也王者當制服諸侯故名布爲侯而射之古</hi>
+<hi>者選士必於郷射心端忠正射則能中所以别賢不肖也言楚玉選士必於郷射明旦旣設禮張施大侯使衆</hi>
+<hi>射之中則舉進不中退却各以能陞民無<graphic n="KR3460" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3460.png" mimeType="image/png"/>望也補曰射侯見周官考工記禮記射義</hi>執弓挾<lb/>
+矢<hi>挾持也矢箭也</hi>揖辭讓只<hi>上手爲揖言衆士將射巳持弓箭必先舉手以相辭讓進退有</hi>
+<hi>禮不失威儀也一云揖譲辭只</hi>魂乎徠歸尚三王只<hi>尚上也三王禹湯文王也</hi>
+<pb n="KR4a0002_SBCK_010-12a"/>
+<hi>言䰟急徠歸楚國舉士上法夏殷周衆賢並進無有遺失也</hi>
+楚辭卷第十<lb/>
+<pb n="KR4a0002_SBCK_010-12b"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

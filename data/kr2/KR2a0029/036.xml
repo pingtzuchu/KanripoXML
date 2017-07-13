@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2a0029_WYG_036-1a"/>
+　舊五代史巻十七攷證<lb/>
+梁書列𫝊七成汭𫝊唐宰相徐彦若　彦若原本作産<lb/>
+　若今據新唐書改正<lb/>
+田頵𫝊延壽邇揚州一舎行宻使人殺之　案九國志<lb/>
+　行宻迎至寢門使人刺殺之新唐書從九國志是書<lb/>
+　以為揚州見殺五代史補又以為行宻自奮鐡槌殺<lb/>
+　之𫝊聞各異<lb/>
+雷滿𫝊彦㳟單棹遁去　案通鑑攷異引梁太祖實錄<lb/>
+<pb n="KR2a0029_WYG_036-1b"/>
+　云彦恭没溺于江通鑑從紀年録作奔廣陵歐陽史<lb/>
+　與通鑑同<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　舊五代史巻十七攷證<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

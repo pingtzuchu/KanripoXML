@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>西使記</head>
+    <p>
+<pb n="KR2g0057_WYG_000-1a"/>
+欽定四庫全書　　　　　史部七<lb/>
+　西使記　　　　　　　　傳記𩔖四<hi>雜録之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案西使記一卷元劉郁撰郁真定人<lb/>
+　　　　是書記常徳西使皇弟錫里庫軍中往返道<lb/>
+　　　　途之所見王惲嘗載入玉堂雜記中此本别<lb/>
+　　　　行之本也元史憲宗紀二年壬子秋遣錫喇<lb/>
+　　　　征西域蘇丹諸國是嵗錫喇薨三年癸丑夏<lb/>
+<pb n="KR2g0057_WYG_000-1b"/>
+　　　　六月命諸王錫里庫及烏蘭哈達帥師征西<lb/>
+　　　　域法勒噶巴哈台等國八年戊午錫里庫討<lb/>
+　　　　囘囘法勒噶平之擒其王遣使來獻捷考世<lb/>
+　　　　系表睿宗十一子次六曰錫里庫而諸王中<lb/>
+　　　　别無錫喇郭侃傳侃壬子從錫里庫西征與<lb/>
+　　　　此記所云壬子嵗皇弟錫喇統諸軍奉詔西<lb/>
+　　　　征凡六年拓境幾萬里者相合然則錫喇即<lb/>
+　　　　錫里庫因元史為明代所修故譯音訛舛一<lb/>
+<pb n="KR2g0057_WYG_000-2a"/>
+　　　　以為錫喇一以為錫里庫誤分二人而憲宗<lb/>
+　　　　紀二年書錫喇薨三年重書錫里庫西征遂<lb/>
+　　　　相承誤載也此記言常徳西使在己未正月<lb/>
+　　　　葢錫里庫獻㨗之明年所記雖但據見聞不<lb/>
+　　　　能考証古迹然亦時有異聞郭侃傳所載與<lb/>
+　　　　此略同惟譯語時有訛異耳我<lb/>
+　　皇上神武奮揚勘定西域崑崙月<graphic n="KR1633" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1633.png" mimeType="image/png"/>盡入版圖計<lb/>
+　　　　常徳所經今皆在屯田列障之内業已<lb/>
+<pb n="KR2g0057_WYG_000-2b"/>
+　　欽定西域圖志昭示億齡郁所記録本不足道然<lb/>
+　　　　據其所述亦足㕘稽道里考証古今之異同<lb/>
+　　　　故仍録而存之焉乾隆四十六年九月恭校<lb/>
+　　　　上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

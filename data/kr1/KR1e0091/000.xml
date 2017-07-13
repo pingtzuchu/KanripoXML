@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>春秋四傳質</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　　經部五<lb/>
+　春秋四傳質　　　　　　春秋類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案春秋四傳質二卷明王介之撰介<lb/>
+　　　　之字石崖衡陽人是書取三傳及胡安國傳<lb/>
+　　　　異同斷以己意其無駭卒一條云春秋二百<lb/>
+　　　　四十二年間事屢變文亦屢易四傳各成其<lb/>
+　　　　説而斷以義則胡氏精而公榖尤正質以事<lb/>
+<pb n="1b"/>
+　　　　則左氏有徵而可信也葢作書大指如此其<lb/>
+　　　　中有本舊説者如隠公元年闢胡傳元即仁<lb/>
+　　　　也之説本楊時答胡安國書闢胡傳建子非<lb/>
+　　　　春之説本熊朋來説是也有據一傳而去取<lb/>
+　　　　互異者如王正月為大一統從公羊傳而闢<lb/>
+　　　　其王謂文王之説是也有就四傳互質之者<lb/>
+　　　　如文公逆婦姜於齊四傳異説舍左氏公羊<lb/>
+　　　　胡傳而從榖梁有專據胡傳而亦不盡從者<lb/>
+<pb n="2a"/>
+　　　　如定公從祀先公取其昭公始祀於廟之説<lb/>
+　　　　而闢其事出陽虎而不可詳之説是也俱頗<lb/>
+　　　　有所見不同剿説至於桓公即位公羊以為<lb/>
+　　　　如其意也介之誤作胡傳而詆其巧而誣文<lb/>
+　　　　公四不視朔左氏公羊以為疾榖梁以為厭<lb/>
+　　　　政胡傳從榖梁介之誤作三傳皆以為疾而<lb/>
+　　　　胡氏辨其無疾亦未免時有舛誤然明之未<lb/>
+　　　　造經傳俱荒介之尚能援據古義糾胡安國<lb/>
+<pb n="2b"/>
+　　　　之失亦可謂拔俗千尋矣乾隆四十六年十<lb/>
+　　　　月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>陸　　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

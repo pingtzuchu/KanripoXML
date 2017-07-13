@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>羣書考索</head>
+    <p>
+<pb n="KR3k0029_WYG_000-1a"/>
+欽定四庫全書　　　　子部十一<lb/>
+　羣書考索　　　　　　　類書類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案羣書考索二百十二卷宋章如愚<lb/>
+　　　　撰如愚字俊卿婺州金華人慶元中登進士<lb/>
+　　　　第初授國子博士改知貴州開禧初被召疏<lb/>
+　　　　陳時政忤韓侂胄罷歸事迹具宋史儒林傳<lb/>
+　　　　史稱所著有文集行世今已散佚惟此書獨<lb/>
+<pb n="KR3k0029_WYG_000-1b"/>
+　　　　存凡分四集前集六十六卷分六經諸子百<lb/>
+　　　　家諸經諸史聖諱書目文章禮樂律吕厯數<lb/>
+　　　　天文地理十三門後集六十五卷分官制學<lb/>
+　　　　制貢舉兵制食貨財用刑法七門續集五十<lb/>
+　　　　六卷分經籍諸史文章韓墨律厯五行禮樂<lb/>
+　　　　封建官制兵制財用諸路君道聖賢十五門<lb/>
+　　　　别集二十五卷分圖書經籍諸史文章律厯<lb/>
+　　　　人臣經藝財用兵制四裔邊防十一門宋自<lb/>
+<pb n="KR3k0029_WYG_000-2a"/>
+　　　　南渡以後迂儒尊性命而薄事功文士尚議<lb/>
+　　　　論而尠考証如愚是編獨以考索為名言必<lb/>
+　　　　有徵事必有據博采諸家而折衷以己意不<lb/>
+　　　　但淹通掌故亦頗以經世為心在講學之家<lb/>
+　　　　尚有實際惟其書卷帙浩繁又四集不作於<lb/>
+　　　　一時不免有重複牴牾之處如前集六經門<lb/>
+　　　　外又立諸經一門其文互相出入諸子百家<lb/>
+　　　　門中以晏子荀子揚子文中子之類為諸子<lb/>
+<pb n="KR3k0029_WYG_000-2b"/>
+　　　　以管子商子韓非子淮南子之類為百家亦<lb/>
+　　　　不知何以分别又如前集第三十五卷詳列<lb/>
+　　　　六宗之説無所專從續集第十卷則主鄭康<lb/>
+　　　　成説前集第三十卷既主二年一祫五年一<lb/>
+　　　　禘以為宋制合古别集第十四卷又專主顔<lb/>
+　　　　達龍三年一禘五年一祫之説前集第三十<lb/>
+　　　　三卷專主鄭康成説祫大禘小别集第十四<lb/>
+　　　　卷又專主顔達龍説禘大祫小前集第十三<lb/>
+<pb n="KR3k0029_WYG_000-3a"/>
+　　　　八卷既主天子五門諸侯三門别集第八卷<lb/>
+　　　　則又謂天子六門諸侯二門皆前後牴牾疎<lb/>
+　　　　於決擇然大致網羅繁富考據亦多所心得<lb/>
+　　　　在宋人著述之中較通考雖體例稍雜而優<lb/>
+　　　　于釋經較玉海雖博贍不及而詳於時政較<lb/>
+　　　　黄氏日鈔則條目獨明較吕氏制度詳説則<lb/>
+　　　　源流為備前人稱蘇軾詩如武庫之兵利鈍<lb/>
+　　　　互陳如愚是編亦可以當斯目矣乾隆四十<lb/>
+<pb n="KR3k0029_WYG_000-3b"/>
+　　　　六年正月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　總　校　官　<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

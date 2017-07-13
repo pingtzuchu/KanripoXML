@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>王氏農書</head>
+    <p>
+<pb n="KR3d0005_WYG_000-1a"/>
+欽定四庫全書　　　　子部四<lb/>
+　王氏農書　　　　　　農家類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案王氏農書二十二卷元王禎撰禎<lb/>
+　　　　字伯善東平人官豐城縣尹文淵閣書目曰<lb/>
+　　　　王禎農書一部十册讀書敏求記曰農桑通<lb/>
+　　　　訣六榖譜四農器圖譜十二總名曰農書永<lb/>
+　　　　樂大典所載併為八卷割裂綴合已非其舊<lb/>
+<pb n="KR3d0005_WYG_000-1b"/>
+　　　　今依原序條目以類區分編為二十二卷其<lb/>
+　　　　書典贍而有法葢賈思勰齊民要術之流圖<lb/>
+　　　　譜中所載水器尤於實用有裨又每圖之末<lb/>
+　　　　必係以銘賛詩賦亦風雅可誦今外間所有<lb/>
+　　　　王禎農務集即從是書摘抄者也唐中和節<lb/>
+　　　　所進農書世無傳本宋人農書惟陳旉所作<lb/>
+　　　　存元人農書存於今者三本農桑輯要農桑<lb/>
+　　　　衣食撮要二書一辨物産一明時令皆取其<lb/>
+<pb n="KR3d0005_WYG_000-2a"/>
+　　　　通俗易行惟禎此書引據賅洽文章爾雅繪<lb/>
+　　　　畫亦皆工緻可謂華實兼資明人刋本皆舛<lb/>
+　　　　訛漏落疑誤宏多諸圖尤失其真永樂大典<lb/>
+　　　　所載猶元時舊本今據以繕寫校勘以還其<lb/>
+　　　　舊觀焉乾隆三十八年七月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+<pb n="KR3d0005_WYG_000-3a"/>
+欽定四庫全書　　　　　子部四<lb/>
+　農書目録　　　　　　　農家類<lb/>
+　　卷一<lb/>
+　　　農桑通訣一<hi>農事起本蠶事起本</hi>　<hi>牛耕起本授時</hi>
+　　　　　　　　<hi>地利力田孝弟</hi>
+　　卷二<lb/>
+　　　農桑通訣二<hi>墾耕播種</hi>　<hi>耙勞</hi>
+　　卷三<lb/>
+<pb n="KR3d0005_WYG_000-3b"/>
+　　　農桑通訣三<hi>鋤治灌溉</hi>　<hi>糞壌</hi>
+　　卷四<lb/>
+　　　農桑通訣四<hi>勸助蓄積</hi>　<hi>收穫</hi>
+　　卷五<lb/>
+　　　農桑通訣五<hi>種植</hi>　<hi>畜養</hi>
+　　卷六<lb/>
+　　　農桑通訣六<hi>蠶繰</hi>　<hi>祈報</hi>
+　　卷七<lb/>
+<pb n="KR3d0005_WYG_000-4a"/>
+　　　百糓譜一<hi>榖屬</hi>
+　　　百糓譜二<hi>榖屬</hi>
+　　卷八<lb/>
+　　　百糓譜三<hi>蓏屬</hi>
+　　　百糓譜四<hi>蔬屬</hi>
+　　　百糓譜五<hi>蔬屬</hi>
+　　卷九<lb/>
+　　　百糓譜六<hi>果屬</hi>
+<pb n="KR3d0005_WYG_000-4b"/>
+　　　百糓譜七<hi>果屬</hi>
+　　　百糓譜八<hi>果屬</hi>
+　　卷十<lb/>
+　　　百糓譜九<hi>竹木</hi>
+　　　百糓譜十<hi>雜類</hi>
+　　　百糓譜十一<hi>飲食類</hi>
+　　卷十一<lb/>
+　　　農器圖譜一<hi>田制門</hi>
+<pb n="KR3d0005_WYG_000-5a"/>
+　　卷十二<lb/>
+　　　農器圖譜二<hi>耒耜門</hi>
+　　卷十三<lb/>
+　　　農器圖譜三<hi>钁鍤門</hi>
+　　　農器圖譜四<hi>錢鎛門</hi>
+　　卷十四<lb/>
+　　　農器圖譜五<hi>銍艾門</hi>
+　　　農器圖譜六<hi>杷朳門</hi>
+<pb n="KR3d0005_WYG_000-5b"/>
+　　卷十五<lb/>
+　　　農器圖譜七<hi>簑笠門</hi>
+　　　農器圖譜八<hi>蓧蕢門</hi>
+　　卷十六<lb/>
+　　　農器圖譜九<hi>杵臼門</hi>
+　　　農器圖譜十<hi>倉廪門</hi>
+　　卷十七<lb/>
+　　　農器圖譜十一<hi>鼎釜門</hi>
+<pb n="KR3d0005_WYG_000-6a"/>
+　　　農器圖譜十二<hi>舟車門</hi>
+　　卷十八<lb/>
+　　　農器圖譜十三<hi>灌溉門</hi>
+　　卷十九<lb/>
+　　　農器圖譜十四<hi>利用門</hi>
+　　　農器圖譜十五<hi>麰麥門</hi>
+　　卷二十<lb/>
+　　　農器圖譜十六<hi>蠶繰門</hi>
+<pb n="KR3d0005_WYG_000-6b"/>
+　　卷二十一<lb/>
+　　　農器圖譜十七<hi>蠶桑門</hi>
+　　　農器圖譜十八<hi>織紝門</hi>
+　　　農器圖譜十九<hi>纊絮門</hi>
+　　卷二十二<lb/>
+　　　農器圖譜二十<hi>麻苧門</hi>　<hi>雜録附</hi>
+<pb n="KR3d0005_WYG_000-7a"/>
+農書原序<lb/>
+農天下之大命也一夫不耕或授之饑一女不織或授<lb/>
+之寒古先聖哲敬民事也首重農其教民耕織種植畜<lb/>
+養至纎至悉禎不揆愚陋捜輯舊聞為集三十有七為<lb/>
+目二百有七十嗚呼備矣躬任民事者儻有取於斯與<lb/>
+皇慶癸丑三月望日東魯王禎書<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

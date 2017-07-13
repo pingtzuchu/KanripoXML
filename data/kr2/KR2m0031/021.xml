@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>明謚紀彚編卷二十一</head> <lb/>
+    <p>
+<pb n="KR2m0031_WYG_021-1a"/>
+欽定四庫全書<lb/>
+　明謚紀彚編卷二十一<lb/>
+　　　　　　　　　　　　　明　郭良翰　撰<lb/>
+　　臣謚<lb/>
+　　　追贈前朝諸臣<lb/>
+文節<lb/>
+　謝枋得<hi>宋招諭使知信州景泰</hi>　　　　　<hi>道徳博聞/謹身制度</hi>　<hi>河南信州人</hi>
+忠烈<lb/>
+<pb n="KR2m0031_WYG_021-1b"/>
+　紀信<hi>漢將軍追封滎澤侯正徳</hi>　　　　　<hi>危身奉上剛正曰烈</hi>
+　文天祥<hi>宋少保封信國公景泰</hi>　　　　<hi>臨難不忘國/秉徳遵業</hi>　<hi>江西廬陵人</hi>
+忠毅<lb/>
+　張拯<hi>唐贊善大夫正徳</hi>　　　　　　<hi>臨患不忘國强而能斷</hi>
+忠襄<lb/>
+　鄧文進<hi>唐韶州刺史贈鷹揚將軍景泰</hi>　　　<hi>臨患不忘國/因事有功</hi>　<hi>廣西始興人</hi>
+忠壯<lb/>
+　蘇緘<hi>宋知邕州事按宋時原謚忠勇景泰</hi>　　　　<hi>臨患不忘國武而不遂</hi>
+<pb n="KR2m0031_WYG_021-2a"/>
+忠愍<lb/>
+　譚必<hi>宋邕州推官贈金紫光禄大夫景泰</hi>　　　<hi>臨患不忘國/在國逢難</hi>　<hi>江西樂昌人</hi>
+　　　按閣籍云擬人必于其倫如文宣之為孔子謚<lb/>
+　　　不當復用如懿文懿安宣文在今亦不當復用<lb/>
+　　　如文成文正文忠武安武穆武寧靖節康節和<lb/>
+　　　靖茍非其人與前人匹者不宜輕用如文昭武<lb/>
+　　　成之為閣名如共和熙寧宣和靖康等號昭灼<lb/>
+　　　人耳目者亦宜勿用<lb/>
+<pb n="KR2m0031_WYG_021-2b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　明謚紀彚編卷二十一<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_101-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選巻一百一<lb/>
+　　渡類<lb/>
+　　　五言古<lb/>
+　　　　初至崖口　　　　　　　　<hi>唐</hi>宋之問<lb/>
+　崖口衆山斷嶔崟聳天壁氣衝落日紅影入春潭碧錦<lb/>
+　縷織苔蘚丹青畫松石水禽泛容與巖花飛的皪微路<lb/>
+　從此深我來恨于役惆悵情未巳羣峰暗將夕<lb/>
+<pb n="KR4h0141_WYG_101-1b"/>
+　　　　横龍渡　　　　　　　　　<hi>唐</hi>劉長卿<lb/>
+　空傳古岸下曽見蛟龍去秋水晚沈沈猶疑在深處亂<lb/>
+　聲沙上石倒影雲中樹獨繫一扁舟樵人往來渡<lb/>
+　　　七言古<lb/>
+　　　　古箭渡　　　　　　　　　<hi>明</hi>程敏政<lb/>
+　古箭渡頭春水急古箭舖下春泥濕風吹一道雨微收<lb/>
+　黒壓四山雲未入郵亭飯罷聞竹雞肩輿扶過蒼崖西<lb/>
+　行人道側亂相指雨陣復來雲脚齊<lb/>
+<pb n="KR4h0141_WYG_101-2a"/>
+　　五言律<lb/>
+　　　早發夀安次永濟渡　　　　<hi>唐</hi>許　渾<lb/>
+東西車馬塵鞏洛與咸秦山月夜行客水煙朝渡人樹<lb/>
+凉風浩浩沙淺石磷磷㑹待功名就扁舟寄此身<lb/>
+　　　晩泊漢江渡　　　　　　　<hi>唐</hi>劉　畋<lb/>
+末秋雲木輕蓮拆晚香清雨下侵苔色雲凉出浪聲疊<lb/>
+㠶依岸盡微照映堤明渡吏巳頭白遥知客姓名<lb/>
+　　　過髦塘渡　　　　　　　　<hi>宋</hi>楊萬里<lb/>
+<pb n="KR4h0141_WYG_101-2b"/>
+雪浪無堅岸金沙有退痕斷橋猶半版潄樹欲枯根為<lb/>
+問新來漲今年第幾番昨來愁此渡巳濟不堪論<lb/>
+　　　泊白沙渡　　　　　　　　<hi>宋</hi>真山民<lb/>
+日暮片㠶落渡頭生暝烟與鷗分渚泊邀月共船眠燈<lb/>
+影漁舟外湍聲客枕邉離懐正無奈況復聽啼䳌<lb/>
+　　　過下杯渡　　　　　　　　<hi>宋</hi>陳與義<lb/>
+夜宿下杯館朝鳴一棹東湖平天盡落峽斷海横通冉<lb/>
+冉雲隨舸茫茫鳥遡風仙人蓬島上遥見我乗空<lb/>
+<pb n="KR4h0141_WYG_101-3a"/>
+　　　曉渡　　　　　　　　　　<hi>明</hi>李言恭<lb/>
+煙樹曉棲鴉長汀帶白沙中流聊擊楫新水悞浮槎雲<lb/>
+與人爭渡春隨客到家遥知飛綵日開落石城花<lb/>
+　　七言律<lb/>
+　　　利州南渡　　　　　　　　<hi>唐</hi>溫庭筠<lb/>
+澹然空水帶斜暉曲島蒼茫接翠微坡上馬嘶看棹去<lb/>
+柳邉人歇待船歸數叢沙草羣鷗散萬頃江田一鷺飛<lb/>
+誰解乘舟尋范蠡五湖煙水獨忘機<lb/>
+<pb n="KR4h0141_WYG_101-3b"/>
+　　　桃花渡　　　　　　　　　<hi>明</hi>沈　貞<lb/>
+渡頭渾似曲江濵誰種桃花隔世塵紅雨緑波三月暮<lb/>
+暖風黃鳥數聲春舟橫落日非無主樹隔層霞不見人<lb/>
+幾欲前源訪仙跡迷茫何處問通津<lb/>
+　　五言絶句<lb/>
+　　　松滋渡　　　　　　　　　<hi>唐</hi>司空圖<lb/>
+步上短亭久看回官渡船江鄉宜晚霽楚老語豐年<lb/>
+　　　芳草渡　　　　　　　　　<hi>唐</hi>皮日休<lb/>
+<pb n="KR4h0141_WYG_101-4a"/>
+谿南越鄉首古柳渡江深日晩無來客閒船繫緑陰<lb/>
+　　七言絶句<lb/>
+　　　涔陽渡　　　　　　　　　<hi>唐</hi>司空圖<lb/>
+楚田人立帶殘暉驛迥邨幽客路微兩岸蘆花正蕭颯<lb/>
+渚煙深處白牛歸<lb/>
+　　　晩渡　　　　　　　　　　<hi>唐</hi>陸龜蒙<lb/>
+半波風雨半波晴漁曲飄秋野調清各漾蓮船逗邨去<lb/>
+笠簷簑袂有殘聲<lb/>
+<pb n="KR4h0141_WYG_101-4b"/>
+　　　北渡　　　　　　　　　　　陸龜蒙<lb/>
+江客柴門枕浪花鳴機寒櫓任嘔啞輕舟過去眞堪畫<lb/>
+驚起鸕鷀一陣斜<lb/>
+　　　過楊二渡　　　　　　　　<hi>宋</hi>楊萬里<lb/>
+春迹無㾗可得尋不將詩眼看春心鶯邉楊柳鷗邉草<lb/>
+一日青來一日深<lb/>
+　　　過仙人渡　　　　　　　　<hi>宋</hi>王十朋<lb/>
+此去神仙路不迷直從洞口到桃蹊仙人心境無名利<lb/>
+<pb n="KR4h0141_WYG_101-5a"/>
+　笑我頻年渡此谿<lb/>
+　　　　夜過黃泥渡　　　　　　　<hi>元</hi>許　謙<lb/>
+　夜深風息水安流白鴈黃蘆滿眼秋行李蕭蕭官櫂穩<lb/>
+　卧看明月過眞州<lb/>
+　　　　蘆子渡　　　　　　　　　<hi>明</hi>王守仁<lb/>
+　百里晴沙江水長蘆花風起碧天凉客舟會泊西城下<lb/>
+　滿地砧聲兩岸霜<lb/>
+　<lb/>
+<pb n="KR4h0141_WYG_101-5b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選巻一百一<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

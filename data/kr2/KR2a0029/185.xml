@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2a0029_WYG_185-1a"/>
+　舊五代史巻九十二攷證<lb/>
+晉列傳七姚顗𫝊惟兵部侍郎司空圗深器之　案歐<lb/>
+　陽史作中條山處士司空圗一見竒之据新唐書卓<lb/>
+　行傳司空圗為戸部侍郎以疾歸昭宗在華台為兵<lb/>
+　部侍郎辭不赴是圗非處士也<lb/>
+吕𤦺傳琦年十五　案厚徳録作琦年十四<lb/>
+有趙玊者　趙玊厚徳録作李玊<lb/>
+尋率郡兵千人間道而歸　案通鑑作帥州兵趣鎮州<lb/>
+<pb n="KR2a0029_WYG_185-1b"/>
+史圭傳卒于路　案歐陽史作卒于常山<lb/>
+盧導傳祖伯卿　案新唐書宰相世系表卿太原少尹<lb/>
+　伯初之子也疑原本衍伯字<lb/>
+父如晦　如晦新唐書世系表作如晦<lb/>
+郊迎可也　郊迎通鑑作班迎<lb/>
+是日潞王未至馮道等止于上陽門外又令導草勸進<lb/>
+　牋　案歐陽史作潞王止于上陽門外道又促導草<lb/>
+　牋與是書異通鑑作潞王未至三相息于上陽門外<lb/>
+<pb n="KR2a0029_WYG_185-2a"/>
+　與是書同<lb/>
+鄭韜光𫝊父顥　案新唐書世系表顥字養正疑顥字<lb/>
+　是頣字之訛<lb/>
+王權傳先是宰相馮道使于契丹纔回權亦自鳯翔册<lb/>
+　禮使回　案通鑑攷異引周世宗實録馮道傳云契<lb/>
+　丹遣使加徽號于晉祖晉亦獻徽號于契丹始命兵<lb/>
+　部尚書王權銜其命權辭以老病晉祖謂馮道曰此<lb/>
+　行非卿不可道無難色据此𫝊馮道自契丹使回始<lb/>
+<pb n="KR2a0029_WYG_185-2b"/>
+　命王權奉使道亦未嘗再使契丹也與周實録異<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　舊五代史巻九十二攷證<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

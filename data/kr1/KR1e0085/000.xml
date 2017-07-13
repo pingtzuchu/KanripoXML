@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>春秋胡傳考誤</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　　經部五<lb/>
+　春秋胡傳考誤　　　　　春秋類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案春秋胡傳考誤一卷明袁仁撰仁<lb/>
+　　　　有尚書砭蔡編已著録是書前有自序謂宋<lb/>
+　　　　胡安國憤王氏之不立春秋承君命而作傳<lb/>
+　　　　志在匡時多借經以申其説其意則忠而於<lb/>
+　　　　經未必盡合其説良是至謂安國之傳非全<lb/>
+<pb n="1b"/>
+　　　　書則不盡然安國是編自紹興乙夘奉勅纂<lb/>
+　　　　修至紹興庚申而後繕本進御豈有未完之<lb/>
+　　　　理哉然其抉摘安國之失如周月非冠夏時<lb/>
+　　　　盟宿非宿君與盟宰渠伯糾宰非冡宰伯非<lb/>
+　　　　伯爵夏五非舊史闕文齊仲孫來之非貶召<lb/>
+　　　　陵之役齊桓不得為王徳管仲不得為王佐<lb/>
+　　　　首止序王世子於末非以示謙晉卓子立已<lb/>
+　　　　踰年非獨里克奉之為君季姬之遇鄫子非<lb/>
+<pb n="2a"/>
+　　　　愛女使自擇壻鼷鼠食牛角非三桓之應正<lb/>
+　　　　月書襄公在楚非以存魯君之名吳子使札<lb/>
+　　　　非罪其讓國左傳莒展輿事以攻當為已攻<lb/>
+　　　　齊豹非求名不得歸鄆讙龜隂非聖人自書<lb/>
+　　　　其功獲麟而誇以簫韶河洛為傳者之陋皆<lb/>
+　　　　深有理解他若㑹防一條義不係於胡傳蔡<lb/>
+　　　　桓侯一條謂塟以侯禮亦以意為之别無顯<lb/>
+　　　　証石之紛如本非大夫不應與孔父仇牧一<lb/>
+<pb n="2b"/>
+　　　　例見經仁一概排之則吹求太甚矣乾隆四<lb/>
+　　　　十六年九月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+<pb n="3a"/>
+原序<lb/>
+左氏公羊氏穀梁氏皆傳春秋者也傳未必盡合乎經<lb/>
+故昔人詩云春秋三傳束高閣獨抱遺經究終始卓哉<lb/>
+宋胡安國憤王氏之不立春秋也承君命而作傳志在<lb/>
+匡時多借經以申其說其意則忠矣於經未必盡合也<lb/>
+况自昭定而後疎闕尤多嵗中不啻十餘事止一傳或<lb/>
+二傳焉其間公如晉公如齊公㑹吳于鄫之類皆匪細<lb/>
+事皆棄而不傳則非全書也明矣近世業春秋者所尊<lb/>
+<pb n="3b"/>
+惟胡余懼其沿派而失源也作春秋胡傳考誤知我罪<lb/>
+我亦任之而已袁仁撰<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

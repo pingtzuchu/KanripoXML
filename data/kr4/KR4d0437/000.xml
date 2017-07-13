@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>水雲村稾總目</head>
+    <p>
+<pb n="KR4d0437_WYG_000-1a"/>
+欽定四庫全書　　　　　集部五<lb/>
+　水雲村稾總目　　　　　别集類四<hi>元</hi>
+　　巻一<lb/>
+　　　賦<lb/>
+　　巻二<lb/>
+　　　碑<lb/>
+　　巻三<lb/>
+　　　記<lb/>
+<pb n="KR4d0437_WYG_000-1b"/>
+　　巻四<lb/>
+　　　傳<lb/>
+　　巻五<lb/>
+　　　序<lb/>
+　　巻六<lb/>
+　　　賛<lb/>
+　　巻七<lb/>
+　　　題跋<lb/>
+<pb n="KR4d0437_WYG_000-2a"/>
+　　巻八<lb/>
+　　　墓表誌銘<lb/>
+　　巻九<lb/>
+　　　啓<lb/>
+　　巻十<lb/>
+　　　啓<lb/>
+　　巻十一<lb/>
+　　　書翰<lb/>
+<pb n="KR4d0437_WYG_000-2b"/>
+　　巻十二<lb/>
+　　　祭文<lb/>
+　　巻十三<lb/>
+　　　雜著<lb/>
+　　巻十四<lb/>
+　　　公牘<lb/>
+　　巻十五<lb/>
+　　　表牋<lb/>
+<pb n="KR4d0437_WYG_000-3a"/>
+　　　　臣等謹案水雲村稾十五巻元劉壎撰壎字<lb/>
+　　　　起潜南豐人水雲村其所居地名因以自號<lb/>
+　　　　生於宋嘉熙庚子咸淳庚午本郡試第一入<lb/>
+　　　　元以薦為延平教授延祐六年卒年八十所<lb/>
+　　　　著隱居通議頗淹博可取巳别著於録其文<lb/>
+　　　　集舊有二本一曰水雲村冺稿乃明洪武間<lb/>
+　　　　孫瑛所手抄大抵雜採隱居通議中語綴輯<lb/>
+　　　　成編其文亦皆與此本相複一即此本乃其<lb/>
+<pb n="KR4d0437_WYG_000-3b"/>
+　　　　裔孫凝収拾遺佚别加排次者所収各體較<lb/>
+　　　　為詳備惟原目二十巻而今本祗存十五巻<lb/>
+　　　　其十六巻以下已闕當由傳抄者失之特按<lb/>
+　　　　原目此五巻所載本靑詞祝文無關體要之<lb/>
+　　　　作則其存佚亦無足重輕也壎才力雄放尤<lb/>
+　　　　長於四六綺麗之製集中所載諸啓劄大都<lb/>
+　　　　皆在宋世所作考隱居通議自述其得意之<lb/>
+　　　　筆如代吳浚謝建閫表弔吳浚文代趙必岊<lb/>
+<pb n="KR4d0437_WYG_000-4a"/>
+　　　　謝廟堂啓通丁應奎啓今皆不見於集則其<lb/>
+　　　　散佚者亦自不少然即所存者觀之下筆鑄<lb/>
+　　　　詞亦復頗見精采壎嘗自言趙必岊稱其䏻<lb/>
+　　　　以散文為四六正是片叚議論非若世俗抽<lb/>
+　　　　黃對白而血脉不貫者雖不無誇詡之詞而<lb/>
+　　　　生平得力所在其甘苦固有䏻自道者矣至<lb/>
+　　　　其他古文則入元後所作為多灝瀚流轉亦<lb/>
+　　　　殊有淸雋之氣而間以俳句綺語攙雜其間<lb/>
+<pb n="KR4d0437_WYG_000-4b"/>
+　　　　頗乖典則不免稍遜一籌特宋末元初遺聞<lb/>
+　　　　軼事時見一二亦足以資考据云乾隆四十<lb/>
+　　　　五年四月恭校上<lb/>
+　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

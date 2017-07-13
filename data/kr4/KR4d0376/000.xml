@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>提要<lb/>
+                </head>
+    <p>
+<pb n="KR4d0376_WYG_000-1a"/>
+欽定四庫全書　　　　　集部四<lb/>
+　提要<lb/>
+　　葦航漫逰稿四巻　　　别集類三<hi>宋</hi>
+　　　　<hi>臣</hi>等謹案葦航漫逰稿四巻宋胡仲弓撰仲<lb/>
+　　　　弓字希聖清源人其生平不少槩見惟集中<lb/>
+　　　　一第詩有衣冠新進士湖海舊詩人之句知<lb/>
+　　　　嘗登第夜夢䝉仲作二象笏詩有嗟余初筮<lb/>
+　　　　令之句知嘗宰縣將之官越上留别諸友詩<lb/>
+<pb n="KR4d0376_WYG_000-1b"/>
+　　　　有一官如許冷况復是清貧槐市風何古蘭<lb/>
+　　　　亭本却真之句知官在㑹稽老母適至時己<lb/>
+　　　　見黜詩有千里迎阿㜷相見翻不樂微禄期<lb/>
+　　　　奉親親至禄己奪之句知不久罷歸雪中襟<lb/>
+　　　　興詩有不被功名縛江湖得散行之句知被<lb/>
+　　　　斥以後浪跡以終故以葦航漫逰名稿其行<lb/>
+　　　　事則不可考矣仲弓詩名不甚著惟陳起江<lb/>
+　　　　湖後集録所作頗夥然校以永樂大典分列<lb/>
+<pb n="KR4d0376_WYG_000-2a"/>
+　　　　于各韻下者起所選之外遺佚尚多今蒐採<lb/>
+　　　　裒輯編為四巻雖未必盡覩其全視起所編<lb/>
+　　　　則己增益者多矣南宋末年詩格日下四靈<lb/>
+　　　　一𣲖攄晩唐清巧之思江湖一𣲖多五季衰<lb/>
+　　　　颯之氣故仲弓是編及其兄仲參所著竹莊<lb/>
+　　　　小集均不出山林枯槁之調如七言律中旱<lb/>
+　　　　湖一首當㓙祲流離之時絶無惻隠乃云但<lb/>
+　　　　使孤山梅不死其餘風物弗闗情尤宋季㳺<lb/>
+<pb n="KR4d0376_WYG_000-2b"/>
+　　　　士矯語髙蹈之陋習然吟咏既繁性情各見<lb/>
+　　　　洪纎俱響正變兼陳茍非滛慝之音即不在<lb/>
+　　　　放斥之列詩家有此一格固不妨使之並存<lb/>
+　　　　亦録唐詩者不遺周曇咏史之例也永樂大<lb/>
+　　　　典所載别有漫逰集一書核其體例盖採宋<lb/>
+　　　　元兩代之作彚為總集當時校讐未宻朱書<lb/>
+　　　　標目往往與此集混淆今並考校姓名刪除<lb/>
+　　　　訛異不使與此集相亂庶幾猶存仲弓一家<lb/>
+<pb n="KR4d0376_WYG_000-3a"/>
+　　　　之體不失其真焉乾隆四十六年九月恭校<lb/>
+　　　　上<lb/>
+　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>筠谿樂府</head>
+    <p>
+<pb n="KR4j0022_WYG_000-1a"/>
+欽定四庫全書　　　　　集部十<lb/>
+　筠谿樂府　　　　　　　詞曲類一<hi>詞集之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案筠谿樂府一巻宋李彌遜撰舊本<lb/>
+　　　　附綴筠谿集末考彌遜家傳稱所撰奏議三<lb/>
+　　　　巻外制二巻詩十巻雜文六巻與今本筠谿<lb/>
+　　　　集合而不及樂府則此集本别行也凡長短<lb/>
+　　　　調八十一首其長調多學蘇軾與栁周纎穠<lb/>
+<pb n="KR4j0022_WYG_000-1b"/>
+　　　　别為一派而力稍不足以舉之不及軾之操<lb/>
+　　　　縱自如短調則不乏秀韻矣中多與李綱富<lb/>
+　　　　知柔葉夢得張元幹唱和之作又有鵬舉座<lb/>
+　　　　上歌姬唱夏雲峰一首考岳飛字與湯邦彦<lb/>
+　　　　皆字鵬舉皆與彌遜同時然飛於南渡初倥<lb/>
+　　　　傯戎馬不應有聲伎之事或當為湯邦彦作<lb/>
+　　　　與開巻寄張仲宗沁園春一首註蘆川集誤<lb/>
+　　　　刋字然蝶戀花第五首今亦見蘆川集中又<lb/>
+<pb n="KR4j0022_WYG_000-2a"/>
+　　　　不知誰誤刋也自虞美人以下十二首皆祝<lb/>
+　　　　夀之詞<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>預通用一無可取宋人詞集往往<lb/>
+　　　　不加刋削未喻其故今亦姑仍原本以存其<lb/>
+　　　　舊焉乾隆四十六年十月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

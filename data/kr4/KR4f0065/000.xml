@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4f0065_SBCK_000-1a"/>
+定盦文集補編目錄<lb/>
+　卷一<lb/>
+御試安邊綏遠疏<lb/>
+尊命二<lb/>
+乙丙之際塾議三<lb/>
+釋魂魄<lb/>
+辯知覺<lb/>
+六經正名<lb/>
+六經正名答問一<lb/>
+六經正名答問二<lb/>
+<pb n="KR4f0065_SBCK_000-1b"/>
+六經正名答問三<lb/>
+六經正名答問四<lb/>
+六經正名答問五<lb/>
+說中古文<lb/>
+葛伯仇餉解<lb/>
+非五行傳<lb/>
+表孤虛<lb/>
+闡吿子<lb/>
+說印<lb/>
+論京北可居狀<lb/>
+<pb n="KR4f0065_SBCK_000-2a"/>
+北路安插議<lb/>
+　卷二<lb/>
+蒙古寄爵表序<lb/>
+靑海志序<lb/>
+烏梁海表序<lb/>
+漢器文錄序<lb/>
+鏡錄序<lb/>
+瓦錄序<lb/>
+徽州府志氏族表序<lb/>
+劉禮部庚辰大禮記注長編序<lb/>
+<pb n="KR4f0065_SBCK_000-2b"/>
+最錄易緯是類謀遺文<lb/>
+最錄尙書攷靈耀遺文<lb/>
+最錄春秋元命苞遺文<lb/>
+最錄穆天子傳<lb/>
+最錄列子<lb/>
+最錄司馬法<lb/>
+最錄急就<lb/>
+最錄中論<lb/>
+最錄歸心篇<lb/>
+最錄神不滅論<lb/>
+<pb n="KR4f0065_SBCK_000-3a"/>
+最錄李白集<lb/>
+最錄平定羅刹方略<lb/>
+書蘇軾臨皋亭子帖後<lb/>
+　卷三<lb/>
+上大學士書<lb/>
+在禮曹日與堂上官言事書<lb/>
+與陳博士箋<lb/>
+與江子屏箋<lb/>
+與番舶求日本佚書書<lb/>
+與人箋一<lb/>
+<pb n="KR4f0065_SBCK_000-3b"/>
+與人箋二<lb/>
+與人箋三<lb/>
+與人箋四<lb/>
+與人箋五<lb/>
+　卷四<lb/>
+送廣西巡撫梁公序一<lb/>
+送廣西巡撫梁公序二<lb/>
+送廣西巡撫梁公序三<lb/>
+送　欽差大臣侯官林公序<lb/>
+主客司述略<lb/>
+<pb n="KR4f0065_SBCK_000-4a"/>
+問經堂記<lb/>
+杭大宗逸事狀<lb/>
+家塾策問<lb/>
+定盦八箴<lb/>
+天琴頌<lb/>
+石言<lb/>
+紙冢銘<lb/>
+顧學士象題辭<lb/>
+江南安慶府知府何公墓表銘<lb/>
+曹尙志碣<lb/>
+<pb n="KR4f0065_SBCK_000-4b"/>
+祭江西巡撫陽湖吳公文<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

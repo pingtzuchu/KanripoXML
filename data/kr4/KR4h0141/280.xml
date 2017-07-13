@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4h0141_WYG_280-1a"/>
+　欽定四庫全書<lb/>
+御定佩文齋詠物詩選巻二百八十<lb/>
+　　杉類<lb/>
+　　　五言古<lb/>
+　　　　郡齋移杉　　　　　　　　<hi>唐</hi>韋應物<lb/>
+　擢榦方數尺幽姿已蒼然結根西山寺來植郡齋前新<lb/>
+　含野露氣稍静髙窗眠雖為賞心遇豈有巖中縁<lb/>
+　　　　栽杉　　　　　　　　　　<hi>唐</hi>白居易<lb/>
+<pb n="KR4h0141_WYG_280-1b"/>
+　勁葉森利劔孤莖挺端標纔髙四五尺勢若干青霄移<lb/>
+　栽東窗前愛爾寒不凋病夫卧相對日夕閒蕭蕭昨為<lb/>
+　山中樹今為簷下條雖然遇賞翫無乃近塵囂猶勝澗<lb/>
+　谷底埋沒隨衆樵不見鬱鬱松委質山上苖<lb/>
+　　　長短句<lb/>
+　　　　古杉行　　　　　　　　　<hi>元</hi>范　梈<lb/>
+　丹陵觀有古杉屹如雙闕當雲門云是鍾君之手植君<lb/>
+　去此樹餘空邨尾揺翡翠捎八表根結蛇蛟行九原幽<lb/>
+<pb n="KR4h0141_WYG_280-2a"/>
+　邊豈無鬼神䕶深處直形天地恩一方拆裂引穿澑猶<lb/>
+　是百年燒火痕蒼皮樹裹漸欲合始知草木有道存或<lb/>
+　云下有丹火伏四時地底皆春温神還復壯此其驗疑<lb/>
+　是自此無傳喧平生政坐嗜竒古来看適值寒冬昬長<lb/>
+　歌沈思繞其下夜半月髙松露繁飄颻葉縣鳬舄影牢<lb/>
+　落豐城龍劍魂何當喚起博物者共騎黃鵠凌崑崙<lb/>
+　　　七言絶句<lb/>
+　　　　題中峯杉徑　　　　　　　<hi>宋</hi>朱　子<lb/>
+<pb n="KR4h0141_WYG_280-2b"/>
+　盤回山腹轉修蛇橫入中峯小隠家好把穉杉緣徑插<lb/>
+　待迎凉月看清華<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御定佩文齋詠物詩選巻二百八十<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

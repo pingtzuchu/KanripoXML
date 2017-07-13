@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="1a"/>
+爾雅卷下<lb/>
+　　　　　　　　　　　郭璞注<lb/>
+　　　釋草第十三　釋木第十四<lb/>
+　　　釋蟲第十五　釋魚第十六<lb/>
+　　　釋鳥第十七　釋獸第十八<lb/>
+　　　釋畜第十九<lb/>
+釋草第十三<lb/>
+蒮山韭茖山葱葝山䪥蒚山蒜<hi>今山中多有此菜皆如人家所種者茖葱細莖大葉</hi>薜<lb/>
+山蘄<hi>廣雅云山蘄當歸當歸今似蘄而麤大</hi>椵木槿櫬木槿<hi>別二名也似李樹華朝生夕隕可食或呼曰及亦曰王蒸</hi>术山薊<hi>本草云术一名山薊/今术似薊而生山中</hi>楊枹薊<hi>似薊而肥大今呼之馬薊</hi>葥王蔧<lb/>
+<pb n="1b"/>
+<hi>王帚也似藜其樹可以爲埽蔧江東呼之曰落帚</hi>菉王芻<hi>菉蓐也今/呼鴟脚莎</hi>拜蔏藋<hi>蔏藋亦似藜</hi>蘩皤<lb/>
+蒿<hi>白蒿</hi>蒿菣<hi>今人呼青蒿香/中炙啖者爲菣</hi>蔚牡菣<hi>無子/者</hi>齧彫蓬薦黍蓬<hi>別蓬種類</hi>
+<graphic n="KR2356" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2356.png" mimeType="image/png"/>䑕莞<hi>亦莞屬也纎細似龍須可以爲席蜀中出好者</hi>葝䑕尾<hi>可以/染皂</hi>菥<graphic n="KR1396" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1396.png" mimeType="image/png"/>大薺<hi>似薺葉細俗呼之曰老薺</hi>蒤虎杖<hi>似紅草而麤大有/細刺可以染赤</hi>孟狼尾<hi>似茅今人/亦以覆屋</hi>瓠棲瓣<hi>瓠中瓣也詩云齒如瓠棲</hi>茹藘茅蒐<hi>今之蒨也/可以染絳</hi>果臝之實栝樓<hi>今齊人呼之爲天瓜</hi>荼苦菜<lb/>
+<hi>詩曰誰謂荼苦苦菜可食</hi>萑蓷<hi>今茺蔚也葉似荏方莖白華/華生節閒又名益母廣雅云</hi>虉綬<hi>小草有雜/色似綬</hi>粢稷<hi>今江東人呼粟爲粢</hi>衆秫<hi>謂黏/粟也</hi>戎叔謂之荏菽<hi>即胡/豆也</hi>卉草<hi>百草/揔名</hi>萒雀弁<hi>未詳</hi>
+蘥雀麥<hi>即燕麥也</hi>蘹烏薞萰菟荄蘩菟蒵<hi>皆未詳</hi>蔩菟瓜<lb/>
+<hi>莬瓜似上瓜</hi>茢薽豕首<hi>本草曰彘盧一名蟾蠩蘭今/江東呼豨首可以煼蠶蛹</hi>荓馬帚<hi>似蓍可以爲掃蔧</hi>藱<lb/>
+懷羊<hi>未詳</hi>茭牛蘄<hi>今馬蘄葉細銳/似芹亦可食</hi>葖蘆萉<hi>萉冝爲菔蘆菔蕪菁屬紫華大根俗呼雹葖</hi>淔<lb/>
+<pb n="2a"/>
+<pb n="3a"/>
+<hi>耳漢和帝時任城生黑黍或三四實實二米得黍三斛八斗是</hi>稌稻<hi>今沛國/呼稌</hi>葍藑茅<hi>葍華有赤者爲藑藑葍一種耳亦猶菱苕華黃白異名</hi>臺夫須<hi>鄭箋詩云臺可/以爲禦雨笠</hi>藆藅<hi>未/詳</hi>莔貝母<hi>根如小貝貟而白華葉似韭</hi>荍蚍衃<hi>今荆葵也似葵紫色謝氏云小草多華少葉葉又翹起</hi>艾冰臺<hi>今艾/蒿</hi>蕇亭歷<hi>實葉皆似芥一名狗薺廣雅云音典</hi>苻鬼目<hi>今江東有鬼目草莖似葛葉貟/而毛子如耳璫也赤色叢生</hi>薜庾草<hi>未詳</hi>
+蔜<graphic n="KR2906" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2906.png" mimeType="image/png"/>
+                    <graphic n="KR1562" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1562.png" mimeType="image/png"/>
+                    <hi>今蘩<graphic n="KR1562" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1562.png" mimeType="image/png"/>也或曰鷄膓草</hi>離南活莌<hi>草生江南髙丈許大葉莖中有瓤正白零陵人祖曰貫之爲樹</hi>蘢<lb/>
+天蘥須葑蓯<hi>未詳</hi>蒡隱荵<hi>似蘇有毛今江東呼爲隱荵藏以爲葅亦可瀹食</hi>莤蔓于<lb/>
+<hi>草生水中一名軒于江東呼莤音猶</hi>蓾蔖<hi>作履/苴草</hi>柱夫揺車<hi>蔓生細葉紫華可食今俗呼曰翹揺車</hi>出隧<lb/>
+蘧𬞞<hi>蘧𬞞似土菌生菰草中今江東啖之甜滑音氊氍㲣</hi>蘄茝蘪蕪<hi>香草葉小如萋狀淮南子云似蛇牀山海經云臭如蘪蕪</hi>茨蒺蔾<hi>布地蔓生細葉子/有三角刺人見詩</hi>蘮蒘竊衣<hi>似芹可食子大如麥兩兩相合有毛著人衣</hi>髦<lb/>
+顚蕀<hi>細葉有刺蔓生一名商蕀廣雅云女木也</hi>雚芄蘭<hi>雚芄蔓生斷之/有白汁可啖</hi>
+                    <graphic n="KR1627" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1627.png" mimeType="image/png"/>莐藩<hi>生山上葉如韭<pb n="3b"/>一曰㮛母</hi>蕍蕮<hi>今澤/蕮</hi>蔨鹿靃其實莥<hi>今鹿豆也葉似大豆根黄而香蔓延生</hi>薃侯<lb/>
+莎其實媞<hi>夏小正曰薃也者莎䔺媞者其實</hi>莞苻蘺其上蒚<hi>今西方人呼蒲爲莞蒲蒚謂其頭臺首也今江東謂之苻蘺西方亦名蒲中莖爲蒚用之爲席音羽翮</hi>荷芙渠<hi>别名芙蓉江東呼荷</hi>其莖茄其葉<lb/>
+蕸其本蔤<hi>莖下白蒻在泥中者</hi>其華菡萏<hi>見/詩</hi>其實蓮<hi>蓮謂房也</hi>其根<lb/>
+藕其中的<hi>蓮中子也</hi>的中薏<hi>中心/苦</hi>紅蘢古其大者蘬<hi>俗呼紅草爲蘢鼓語轉耳</hi>
+蒫薺實<hi>薺子名</hi>黂枲實<hi>禮記曰苴/麻之有黂</hi>枲麻<hi>别二/名</hi>須薞蕪<hi>薞蕪似羊蹄葉細味酢可食</hi>菲蒠菜<hi>菲草生下溼地似蕪/菁華紫赤色可食</hi>蕢赤莧<hi>今之莧赤莖者</hi>蘠蘼虋<lb/>
+冬<hi>門冬一名滿冬本草云</hi>萹苻止<hi>未/詳</hi>濼貫衆<hi>葉貟銳莖毛黑布地冬不死一名貫渠廣雅云貫節</hi>莙牛<lb/>
+薻<hi>似薻葉大江東呼爲馬薻</hi>蓫薚馬尾<hi>廣雅曰馬尾蔏陸本草云别名薚今關西亦呼爲薚江東呼爲當陸</hi>萍蓱<lb/>
+<hi>水中浮蓱江東謂之薸音瓢</hi>其大者蘋<hi>詩曰于/以采蘋</hi>莃菟葵<hi>頗似葵而小葉狀如藜有毛汋啖之滑</hi>芹<lb/>
+<pb n="4a"/>
+楚葵<hi>今水中芹菜</hi>藬牛蘈<hi>今江東呼草爲牛蘈者高尺餘許方莖葉長而銳有穗穗間有華華紫縹色可淋以爲飲</hi>藚<lb/>
+牛脣<hi>毛詩傳曰水蕮也如藚斷寸寸有節抜之可復</hi>苹藾蕭<hi>今藾蒿也初/生亦可食</hi>連異翹<hi>一名連苕又名連草本草云</hi>澤烏薞<hi>即上/蘾也</hi>傅横目<hi>一名結縷俗/謂之鼔箏草</hi>釐蔓華<hi>一名蒙華</hi>蓤<lb/>
+蕨攗<hi>蓤今水中芰</hi>大菊蘧麥<hi>一名麥句/薑即瞿麥</hi>薜牡<hi>未/詳</hi>葥山莓<hi>今之木莓也實似藨莓而大亦可食</hi>齧苦蓳<hi>今蓳葵也葉似栁/子如米汋食之滑</hi>藫石衣<hi>水苔也一名石髮江東食之或曰藫葉似䪥而大生水底亦可食</hi>蘜治蘠<hi>今之秋/華菊</hi>唐蒙女蘿女蘿菟絲<hi>别四名詩云爰采唐矣</hi>苗<lb/>
+蓨<hi>未詳</hi>茥蒛葐<hi>覆葐也實似莓/而小亦可食</hi>芨蓳草<hi>即烏頭也江東/呼爲蓳音靳</hi>虃百足<hi>未詳</hi>
+菺戎葵<hi>今蜀葵也似葵華如木槿華</hi>蘻狗毒<hi>樊光云俗/語苦如蘻</hi>垂比葉<hi>未詳</hi>蕧盜庚<lb/>
+<hi>旋蕧似菊</hi>茡麻母<hi>苴麻盛/子者</hi>瓝九葉<hi>今江東有草五葉共叢生一莖俗因名爲五葉即此類也</hi>藐茈草<lb/>
+<hi>可以染紫一名茈䓞廣雅云</hi>倚商活脫<hi>即離/南也</hi>蘵黃蒢<hi>蘵草葉似酸漿草小而白中心黃江東以作葅食</hi>藒<lb/>
+<pb n="4b"/>
+車芞輿<hi>藒車香草見離騷</hi>權黃華<hi>今謂牛芸草爲黃/華華黃葉似苜蓿</hi>葞春草<hi>一名芒草本草云</hi>
+蔠葵蘩露<hi>承露也大莖小葉華紫黃色</hi>菋荎藸<hi>五味也蔓生/子叢在莖頭</hi>蒤委葉<hi>詩云以茠蒤蓼</hi>皇守田<hi>似燕麥子如彫胡米可/食生廢田中一名守氣</hi>鉤藈姑<hi>鉤<graphic n="KR1365" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1365.png" mimeType="image/png"/>也一名王瓜實如瓝瓜正赤味苦</hi>望<lb/>
+椉車<hi>可以爲索長丈餘</hi>困衱袶<hi>未/詳</hi>攫烏階<hi>即烏杷也子連相著狀如杷齒可以染皂</hi>杜土鹵<lb/>
+<hi>杜衡也似葵而香</hi>盱虺牀<hi>蛇牀也一名/馬牀廣雅云</hi>蔝蔜<hi>未/聞</hi>赤𫀆薊<hi>即上枹薊</hi>菟奚顆<lb/>
+涷<hi>𣢾涷也紫赤華生水中</hi>中馗菌<hi>地蕈也似蓋今江東名爲/土菌亦曰馗厨可啖之</hi>小者菌<hi>大小異名</hi>菆<lb/>
+小葉<hi>未聞</hi>苕陵苕<hi>一名陵時/本草云</hi>黃華蔈白華茇<hi>苕華色異名亦不同音沛</hi>蘪<lb/>
+從水生<hi>生於水中</hi>薇垂水<hi>生於/水邊</hi>薜山麻<hi>似人家麻/生山中</hi>莽數節<hi>竹類也節間促</hi>桃<lb/>
+枝四寸有節<hi>今桃枝節間相去多四寸</hi>粼堅中<hi>竹類也/其中實</hi>簢筡中<hi>言其中空竹類</hi>仲無<lb/>
+笐<hi>亦竹類未詳</hi>䈚箭萌<hi>萌筍屬也周禮/曰/葅鴈醢</hi>篠箭<hi>別二名</hi>枹霍首素華<lb/>
+<pb n="5a"/>
+軌鬷<hi>皆未詳</hi>芏夫王<hi>芏草生海邊似莞藺今/南方越人采以爲席</hi>藄月爾<hi>即紫藄也似蕨可食</hi>葴馬<lb/>
+藍<hi>今大葉冬藍也</hi>姚莖涂薺<hi>未/詳</hi>芐地黃<hi>一名地髓江/東呼芐音怙</hi>蒙王女<hi>蒙即唐也女蘿別名</hi>
+拔蘢葛<hi>似葛蔓生有節江東呼爲龍尾亦謂之虎葛細葉赤莖</hi>藗牡茅<hi>白茅/屬</hi>菤耳苓耳<hi>廣雅云枲耳也亦云胡枲江東呼爲常枲或曰苓耳形似䑕耳叢生如盤</hi>蕨<graphic n="KR2240" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2240.png" mimeType="image/png"/>
+                    <hi>廣雅云紫藄非也初生/無葉可食江西謂之<graphic n="KR2240" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2240.png" mimeType="image/png"/>
+                    </hi>蕎邛<lb/>
+鉅<hi>今藥草大㦸也本草云</hi>繁由胡<hi>未/詳</hi>莣杜榮<hi>今莣草似茅皮可/以爲繩索履屩也</hi>稂童粱<hi>稂莠類也</hi>藨麃<hi>麃即莓也今江東呼爲藨莓/子似覆葐而大赤酢甜可啖</hi>的薂<hi>即蓮/實也</hi>購蔏蔞<hi>蔏蔞蔞蒿也生下田初出可啖江東用羮魚</hi>茢勃茢<hi>一名石芸/本草云</hi>葽繞蕀蒬<hi>今逺莣也似麻黃赤華葉銳而黃其上謂之小草廣雅云</hi>茦刺<hi>草刺針也關西謂之刺燕/北朝鮮之閒曰茦見方言</hi>蕭萩<hi>即/蒿</hi>
+                    <graphic n="KR1627" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1627.png" mimeType="image/png"/>海薻<hi>藥草也一名海蘿如亂髪生海中本草云</hi>長楚銚<hi>今羊桃也或曰鬼桃葉似/桃華白子如小麥亦似桃</hi>蘦大苦<hi>今甘草也蔓延生葉似荷青黃莖赤有節節有枝相當或二蘦似地黃</hi>芣苢馬舄馬舄車前<hi>今車前草大葉長穗好生道邊江東呼爲<pb n="5b"/>蝦蟆衣</hi>綸似綸組似組東海有之<hi>綸今有秩嗇夫所帶糾青絲綸組綬也海中草生彩理有象之者因以名云</hi>帛似帛布似布華山有之<hi>草葉有象布帛者因以名云生華山中</hi>苀東蠡<hi>未詳</hi>
+緜馬羊齒<hi>草細葉葉羅生而毛有似羊齒今江東呼爲鴈齒繅者以取繭緒</hi>萿麋舌<hi>今麋舌草春生葉有似於舌</hi>
+搴柜朐<hi>未詳</hi>蘩之醜秋爲蒿<hi>醜類也春時各有種名至秋老成皆通呼爲蒿</hi>芺薊其實荂<lb/>
+<hi>芺與薊莖頭皆有蓊臺名荂荂即其實音俘</hi>蔈荂荼<hi>即/芀</hi>猋藨芀<hi>皆芀荼之别名方俗異語所未聞</hi>葦<lb/>
+醜芀<hi>其類皆有芀秀</hi>葭華<hi>即今/蘆也</hi>蒹薕<hi>似萑而細髙數尺江/東呼爲蒹藡音廉</hi>葭蘆<hi>葦也</hi>菼<lb/>
+薍<hi>似葦而小實中江東呼爲烏蓲音丘</hi>其萌虇<hi>今江東呼蘆笋爲虇然則萑葦之類其初生者皆名虇音繾綣</hi>蕍芛<lb/>
+葟華榮<hi>釋言云華皇也今俗呼草木華初生者爲芛音䝐豬蕍猶敷蕍亦華之貌所未聞</hi>卷施草拔心不<lb/>
+死<hi>宿莽也離騷云</hi>荺茭<hi>今江東呼藕紹緒如指空/中可啖者爲茭茭即此類</hi>荄根<hi>別二名俗呼韭根爲荄</hi>攫橐<lb/>
+含<hi>未詳</hi>華荂也<hi>今江東呼華/爲荂音敷</hi>華荂榮也<hi>轉相解</hi>木謂之華草<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

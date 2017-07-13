@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>横浦集</head>
+    <p>
+<pb n="KR4d0202_WYG_000-1a"/>
+欽定四庫全書　　　　　集部四<lb/>
+　横浦集　　　　　　　　别集類三<hi>宋</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案横浦集二十巻宋張九成撰九成<lb/>
+　　　　字子韶自號無垢居士其先開封人徙居錢<lb/>
+　　　　塘紹興二年進士第一授鎮東軍簽判厯宗<lb/>
+　　　　正少卿兼侍講權刑部侍郎為秦檜所惡論<lb/>
+　　　　其謗訕朝政謫居南安軍十四年檜死起知<lb/>
+<pb n="KR4d0202_WYG_000-1b"/>
+　　　　温州丐祠卒贈太師封崇國公謚文忠事蹟<lb/>
+　　　　具宋史本傳九成研精經學於諸經皆有訓<lb/>
+　　　　釋少受業於楊時以未發之中為主史稱其<lb/>
+　　　　早與學佛者游故議論多偏然根祇精䆳實<lb/>
+　　　　卓然不愧為大儒今所作經觧惟孟子傳僅<lb/>
+　　　　存已别著於錄是集乃其門人郎曄所編凡<lb/>
+　　　　賦詩四巻雜文十六巻中如書傳統論春秋講<lb/>
+　　　　義孟子拾遺亦多其說經之作其廷試對策<lb/>
+<pb n="KR4d0202_WYG_000-2a"/>
+　　　　極陳恢復大計規切髙宗安於和議之非又<lb/>
+　　　　直指時弊言皆痛切而於閹宦干政尤諄諄<lb/>
+　　　　致戒楊時謂非有剛大之氣不為得喪回屈<lb/>
+　　　　者不能洵可稱忠言讜論陸游老學庵筆記<lb/>
+　　　　謂九成對策有桂子飄香語李易安作露花<lb/>
+　　　　倒影栁三變桂子飄香張九成之句以嘲之<lb/>
+　　　　今讀其策其鋪陳繁縟處乃正為耽戀湖山<lb/>
+　　　　忘親忍辱者痛加提喚其用意最為深切又<lb/>
+<pb n="KR4d0202_WYG_000-2b"/>
+　　　　豈可以是相譏至洪邁容齋隨筆載洪皓沒<lb/>
+　　　　後道出南安九成徃祭其文但稱年月官爵<lb/>
+　　　　而無辭情㫖倍覺哀愴以為前人未有此格<lb/>
+　　　　不知此特一時避禍不收措詞非文字工拙<lb/>
+　　　　所關邁所言未免好奇之過也九成别有心<lb/>
+　　　　傳日新二録原本亦附編集後今以其已有<lb/>
+　　　　單本别行故並從删削不更複出焉乾隆四<lb/>
+　　　　十三年七月恭校上<lb/>
+<pb n="KR4d0202_WYG_000-3a"/>
+　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

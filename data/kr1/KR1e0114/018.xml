@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>春秋大事表卷十八</head> <lb/>
+    <p>
+<pb n="1a"/>
+欽定四庫全書<lb/>
+　春秋大事表卷十八<lb/>
+　　　　　　　　　　國子監司業顧棟髙撰<lb/>
+　　軍禮表<lb/>
+　晉書禮志曰五禮之别其四曰軍所以和外寧内保<lb/>
+　大定功者也但兵者凶事故因蒐狩而習之𫝊曰春<lb/>
+　蒐夏苗秋獮冬狩皆於農隙以講事所以明貴賤辨<lb/>
+　等列順少長習威儀晉文大蒐以示之禮登有莘之<lb/>
+<pb n="1b"/>
+　墟以觀師曰少長有禮其可用也則蒐狩之於禮大<lb/>
+　矣哉周衰禮制廢壊軍禮尤甚以魯一國言之其始<lb/>
+　也縱弛忘備强鄰交侵臨時講武淹留異地其繼也<lb/>
+　權臣僭竊國柄倒持黷武興師征役不息夫子於此<lb/>
+　蓋不勝世變之感焉故蒐狩之合禮者皆不書於桓<lb/>
+　莊之狩必書公志非時與非地也則其平日之忘備<lb/>
+　而國威之不振可知矣昭定之蒐不言公則軍非其<lb/>
+　軍國非其國君若贅旒然其得失無與於公也而魯<lb/>
+<pb n="2a"/>
+　事益不可為矣爰綜蒐狩之見於經者并大閲治兵<lb/>
+　與夫乞師獻捷歸俘都為一編以志魯之逓衰非一<lb/>
+　日之故云輯春秋軍禮表第十八<lb/>
+　　蒐狩<lb/>
+　卓氏爾康曰四時之田止書蒐狩蒐狩合禮不書其<lb/>
+　書者必有故也僖文而後厯五公蒐狩皆不書大夫<lb/>
+　専國公不復知軍政時田得失無足議故雖違禮亦<lb/>
+　不書也昭公八年以後又復頻書是時三家分魯假<lb/>
+<pb n="2b"/>
+　春蒐之禮以耀武示强又與非時非地之蒐不同故<lb/>
+　頻書以示變耳<lb/>
+　李氏亷曰經書狩三于郎以逺書于禚以親仇書西<lb/>
+　狩本常事以志非常之瑞書書蒐五四書大蒐用天<lb/>
+　子大蒐之禮也書焚一焚咸丘志淫獵也<lb/>
+<pb n="3a"/>
+</p>
+<p>
+<pb n="4a"/>
+　<lb/>
+　　軍旅<lb/>
+　汪氏克寛曰大閲治兵皆一經之特筆桓公有所畏<lb/>
+　而大閱非其時莊公有所俟而治兵非其地故皆特<lb/>
+　書以示貶不然常事不書<lb/>
+　霞峰華氏曰周禮仲冬教大閲遂以狩仲秋教治<lb/>
+　兵遂以獮皆於農隙以講事則大閲治兵有其時<lb/>
+　有其地矣桓公懼鄭忽畏齊人而大閲於八月莊<lb/>
+<pb n="4b"/>
+　公無故興師久次於外而治兵于郎非其時非其地<lb/>
+　而平時之忘備可知矣<lb/>
+<pb n="5a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="5b"/>
+　陳氏傅良曰内乞師不書乞諸外裔然後書故成二<lb/>
+　年臧宣叔如晉乞師不書外乞師不書必盟主而後<lb/>
+　書故隠四年宋公使來乞師不書<lb/>
+<pb n="6a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="6b"/>
+　<lb/>
+　　獻捷<lb/>
+　汪氏克寛曰春秋書獻捷者二獻者下奉上之辭齊<lb/>
+　桓獻捷書齊侯所以著其誇服戎之功而譏之也楚<lb/>
+　成獻捷而書楚人所以㣲其挾滑夏之威而抑之也<lb/>
+　然於齊書戎捷而於楚不書宋捷則所以尊中國而<lb/>
+　賤外夷也昭昭矣<lb/>
+莊三十一年僖二十一年<lb/>
+<pb n="7a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="7b"/>
+　<lb/>
+　<lb/>
+　　歸俘<lb/>
+　髙氏閌曰歸俘終春秋一書而已凡此皆聖人之特<lb/>
+<pb n="8a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="8b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　春秋大事表卷十八<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

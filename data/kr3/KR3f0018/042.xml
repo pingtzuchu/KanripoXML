@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3f0018_WYG_042-1a"/>
+　欽定四庫全書<lb/>
+御製厯象考成表卷八<lb/>
+　　交食表四<lb/>
+　　　黄道髙弧交角表<lb/>
+　　　太陽髙弧表<lb/>
+　　　東西南北差表<lb/>
+　　　緯差角表<lb/>
+<pb n="KR3f0018_WYG_042-2a"/>
+　　黄道髙弧交角表<lb/>
+黄道髙弧交角表以日距限及限距地髙縱横列之日<lb/>
+距限自一度至九十度分三段列於前<hi>每段三十度</hi>限距地<lb/>
+髙自二十度至八十九度分七段列於上<hi>每段一十度</hi>中列<lb/>
+逐度之黄道髙弧交角<lb/>
+用表之法以日距限之度對限距地髙之度其縱横相<lb/>
+遇即所求之黄道髙弧交角也設日距限三十度限距<lb/>
+地髙二十五度求黄道髙弧交角則察日距限三十度<lb/>
+<pb n="KR3f0018_WYG_042-2b"/>
+與限距地髙二十五度所對之數為七十六度五十二<lb/>
+分三十二秒即所求之黄道髙弧交角也若日距限及<lb/>
+限距地髙皆有零分者用中比例三次求之<lb/>
+<pb n="KR3f0018_WYG_042-3a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_042-4a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_042-5a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_042-6a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_042-7a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_042-8a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_042-9a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_042-10a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_042-11a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_042-12a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_042-13a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_042-14a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_042-15a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_042-16a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_042-17a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_042-18a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_042-19a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_042-20a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_042-21a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_042-22a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_042-23a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_042-24a"/>
+　　太陽髙弧表<lb/>
+太陽髙弧表亦以日距限及限距地髙縱横列之日距<lb/>
+限自一度至九十度分三段列於前<hi>每段三十度</hi>限距地髙<lb/>
+自二十度至八十九度分七段列於上<hi>每段一十度</hi>中列逐<lb/>
+度之太陽髙弧<lb/>
+用表之法以日距限之度對限距地髙之度其縱横相<lb/>
+遇即所求之太陽髙弧也設日距限六十一度限距地<lb/>
+髙二十五度求太陽髙弧則察日距限六十一度與限<lb/>
+<pb n="KR3f0018_WYG_042-24b"/>
+距地髙二十五度所對之數為一十一度四十九分二<lb/>
+十三秒即所求之太陽髙弧也若日距限及限距地髙<lb/>
+皆有零分者亦用中比例三次求之<lb/>
+<pb n="KR3f0018_WYG_042-25a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_042-26a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_042-27a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_042-28a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_042-29a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_042-30a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_042-31a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_042-32a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_042-33a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_042-34a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_042-35a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_042-36a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_042-37a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_042-38a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_042-39a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_042-40a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_042-41a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_042-42a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_042-43a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_042-44a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_042-45a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_042-46a"/>
+　　東西南北差表<lb/>
+東西南北差表以交角及髙下差分順逆列之交角自<lb/>
+一度至四十五度順列於前自四十五度至八十九度<lb/>
+逆列於後中按髙下差分數列逐度東西南北差之分<lb/>
+秒順度用上東西南北差逆度用下東西南北差<lb/>
+用表之法以髙下差之分對交角之度其縱横相遇即<lb/>
+所求之東西南北差也設髙下差三分交角二十五度<lb/>
+求東西南北差則察髙下差三分與交角二十五度所<lb/>
+<pb n="KR3f0018_WYG_042-46b"/>
+對之東西差為二分四十三秒即所求之東西差其南<lb/>
+北差為一分一十六秒即所求之南北差也<hi>交角為順度故用上</hi>
+<hi>東西南北差</hi>若髙下差及交角皆有零分秒者用中比例三<lb/>
+次求之<lb/>
+<pb n="KR3f0018_WYG_042-47a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_042-48a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_042-49a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_042-50a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_042-51a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_042-52a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_042-53a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_042-54a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_042-55a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_042-56a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_042-57a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_042-58a"/>
+　　緯差角表<lb/>
+緯差角表以并徑及距緯縱横列之并徑自三十一分<lb/>
+至六十四分列於前視緯自一分至六十四分列於上<lb/>
+<hi>太陽最小之半徑一十四分五十九秒三十微太陰最小之半徑一十五分五十三秒三十微兩半徑相并得</hi>
+<hi>三十分五十三秒太陰最大之半徑一十六分五十一秒地影最大之半徑四十六分四十八秒兩半徑相并</hi>
+<hi>得六十三分三十九秒故并徑自三十一分起至六十四分止</hi>中列逐分之緯差角<lb/>
+用表之法以并徑之分對距緯之分其縱横相遇即所<lb/>
+求之緯差角也設并徑三十四分距緯三分求緯差角<lb/>
+<pb n="KR3f0018_WYG_042-58b"/>
+則察并徑三十四分與距緯三分所對之數為五度零<lb/>
+三分四十四秒即所求之緯差角也若并徑及距緯有<lb/>
+零秒者滿三十秒以上則進作一分不用中比例因逐<lb/>
+分之緯差角雖有數度之差而定交食方位所差甚微<lb/>
+故也<lb/>
+<pb n="KR3f0018_WYG_042-59a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_042-60a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_042-61a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_042-62a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_042-63a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_042-64a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_042-65a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_042-66a"/>
+</p>
+<p>
+<pb n="KR3f0018_WYG_042-67a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="KR3f0018_WYG_042-67b"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+御製厯象考成表卷八<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

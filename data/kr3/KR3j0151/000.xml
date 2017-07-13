@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>讕言長語</head>
+    <p>
+<pb n="KR3j0151_WYG_000-1a"/>
+欽定四庫全書　　　　　子部十<lb/>
+　讕言長語　　　　　　　雜家類三<hi>雜說之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案讕言長語一卷明曺安撰安字以<lb/>
+　　　　寧松江人正統甲子舉人官安邱縣教諭安<lb/>
+　　　　素負才名著述甚富詩文集俱失傳此書集<lb/>
+　　　　其生平所見聞而辨証其缺誤自以為暇日<lb/>
+　　　　手録皆零碎之詞無益於事故以逸言剩語<lb/>
+<pb n="KR3j0151_WYG_000-1b"/>
+　　　　比之然詞有原本足備叅考其論讀經一條<lb/>
+　　　　尤切中明代俗學之弊末有任順跋稱安嘗<lb/>
+　　　　為憲宗實録總裁官盖當時著作多聘取儒<lb/>
+　　　　士為之故不拘資格然安之見重於時亦可<lb/>
+　　　　知矣乾隆四十四年三月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="KR3j0151_WYG_000-2a"/>
+讕言長語原序<lb/>
+予少游鄉塾見先生長者嘉言善行即筆於楮或於載<lb/>
+籍中間見異人異事亦録之長而奔走四方所見居多<lb/>
+凡三四帙因去滇南道逺難將留於松今不知何在滇<lb/>
+中重録所見聞者攜来武邑及承乏安丘老而彌勤人<lb/>
+皆哂之予獨不倦暇日一一手録以備遺亡率皆零碎<lb/>
+之辭何益於事因名曰讕言長語讕言逸言也長語剩<lb/>
+語也何益於事徒資達人君子一笑云成化二十二年<lb/>
+<pb n="KR3j0151_WYG_000-2b"/>
+五月五日吳淞曹安識<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

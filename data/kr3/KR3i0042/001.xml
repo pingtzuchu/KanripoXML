@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>菌譜</head> <lb/>
+    <p>
+<pb n="KR3i0042_WYG_001-1a"/>
+欽定四庫全書<lb/>
+　菌譜<lb/>
+　　　　　　　　　　　　宋　陳仁玉　撰<lb/>
+芝菌皆氣出也靈華三秀稱瑞尚矣朝菌晦朔莊生訕<lb/>
+之至若儔其食品古則未聞自商山茹芝而五臺天花<lb/>
+亦甲羣彚仙居介台括叢山入天仙靈所宫爰産異菌<lb/>
+林居巖棲者左右芼之固黎莧之至腴蓴葵之上瑞比<lb/>
+或以羞王公登玉食自有此山卽有此菌未有此遇也<lb/>
+<pb n="KR3i0042_WYG_001-1b"/>
+遇不遇無預菌事繄欲盡菌之性而究其用第其品作<lb/>
+菌譜淳祐乙巳秋九月山人陳仁玉序<lb/>
+　　合蕈<lb/>
+邑極西韋羌山高夐秀異寒極雪收林木堅瘦春氣微<lb/>
+欲動土鬆芽活此菌候也菌質外褐色肌理玉潔芳薌<lb/>
+韻味發釡鬲聞百步外葢菌多種例柔美皆無香獨合<lb/>
+蕈香與味稱雖靈芝天花無是也非全德耶宜特尊之<lb/>
+以冠諸菌合蕈始名舊傳昔嘗上進標以台蕈上遙見<lb/>
+<pb n="KR3i0042_WYG_001-2a"/>
+誤讀因承誤云數十年來旣充苞貢山獠得善價率曝<lb/>
+乾以售罕獲生致邑孟溪山中亦同時産惟蕈柄高無<lb/>
+香氣土人以是别於韋羌焉<lb/>
+　　稠膏蕈<lb/>
+邑西北孟谿山窅邃深莫測秋中山氣重霏雨零露浸<lb/>
+釀山膏木腴蓓為菌花戢戢多生山絶頂高樹杪初如<lb/>
+蘂珠圓瑩類輕酥滴乳淺黃白色味尤甘勝已乃傘張<lb/>
+大幾掌味頓渝矣春時亦間生不能多稠膏得名土人<lb/>
+<pb n="KR3i0042_WYG_001-2b"/>
+謂稠木膏液所生耳合蕈他邦猶或有之此菌獨此邑<lb/>
+此山所産故尤可貴鬻法當徐下鼎瀋伺涫沸漉起謹<lb/>
+勿七撓撓則涎腥不可食性參和衆味而特全於酒烹<lb/>
+齊旣調温厚滑甘雉尾蓴不足道也或欲致遠則複湯<lb/>
+蒸熟貯之瓶罌然其味去出山遠矣<lb/>
+　　栗殻蕈<lb/>
+寒氣至稠膏將盡栗殻蕈者則其續也尚有典刑焉<lb/>
+　　松蕈<lb/>
+<pb n="KR3i0042_WYG_001-3a"/>
+生松䕃採無時凡物松出無不可愛松葉與脂伏靈琥<lb/>
+珀皆松裔也昔之遁山服食求長年者舍松焉依人有<lb/>
+病溲濁不禁者偶掇松下菌病良已此其效也<lb/>
+　　竹蕈<lb/>
+生竹根味極甘當與筍通譜而菌為北阮矣<lb/>
+　　麥蕈<lb/>
+多生溪邊沙壤鬆土中俗名麥丹蕈未詳味殊美絶類<lb/>
+北方藦菇蕈品最優<lb/>
+<pb n="KR3i0042_WYG_001-3b"/>
+　　玉蕈<lb/>
+生山中初寒時色潔皙可愛故諡為玉然作羮㣲韌俗<lb/>
+名寒蒲蕈<lb/>
+　　黄蕈<lb/>
+叢生山中梔鬱黃色俗名黄纉蕈又有名黄㹠者殊峭<lb/>
+硬有味<lb/>
+　　紫蕈<lb/>
+赬紫色亦山中産俗名紫富蕈品為下<lb/>
+<pb n="KR3i0042_WYG_001-4a"/>
+　　四季蕈<lb/>
+生林木中味甘而肌理麄峭不入品<lb/>
+　　鵝膏蕈<lb/>
+生髙山狀類鵝子久乃繖開味殊甘滑不謝稠膏然與<lb/>
+杜蕈相亂杜蕈者生土中俗言毒蠚氣所成食之殺人<lb/>
+甚美有惡宜在所黜食肉不食馬肝未為不知味也凡<lb/>
+中其毒者必笑解之宜以苦茗雜白礬勺新水併咽之<lb/>
+無不立愈因著之俾山居者享其美而遠其害此譜外<lb/>
+<pb n="KR3i0042_WYG_001-4b"/>
+意也<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　菌譜<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="1a"/>
+　　　　　　勘官登仕郎前守趙州柏郷縣主簿臣張　崇甫<lb/>
+　　　　　　勘官登仕郎前守丹州司法叅軍臣李　守志<lb/>
+　　　　　　勘官登仕郎試大理評事前守唐州湖陽縣監察御史賜緋魚袋臣皇甫　與<lb/>
+　　　　　　勘官宣德郎試大理評事前守許州録事叅軍兼監察御史臣姜　融<lb/>
+　　　　　　勘官朝請大夫行國子監丞柱國臣馮　英<lb/>
+　　　　詳勘官通議大夫鴻臚少卿兼判國子司業事上柱國賜紫金魚袋臣聶崇義<lb/>
+　　　　銀靑光禄大夫檢校工部尚書司農卿兼判國子監事臣衞　融<lb/>
+　　　　　　　　乾德三年五月　日<lb/>
+　　　　重詳勘官朝散大夫太子中舎權判太府寺國子監事柱國賜紫金魚袋臣陳　鄂<lb/>
+　　　　重詳勘官山南西道節度判官奏行尚書司封郎中上柱國臣姚　恕<lb/>
+　　　　　　　　開寳二年正月　日<lb/>
+<pb n="1b"/>
+　　推忠協謀佐理功臣金紫光禄大夫尚書吏部侍郎叅知政事上柱國東平郡開國侯<lb/>
+　　　　　食邑一千戸臣吕　餘慶　等進<lb/>
+　　推忠協謀佐理功臣金紫光禄大夫尚書吏部侍郎叅知政事上柱國河東郡開國侯<lb/>
+　　　　　食邑一千戸臣薛　居正<lb/>
+　　推忠協謀同德佐理功臣起復光禄大夫尚書左僕射兼門下侍郎同中書門下平章<lb/>
+　　　　　事昭文館大學士監修國史上柱國天水郡開國公食邑二千戸食<lb/>
+　　　　　實封四百戸臣趙　普<lb/>
+<pb n="2a"/>
+<pb n="3a"/>
+　右經典釋文三十原書文淵閣秘籍也不知何<lb/>
+　自出於人間震澤葉林宗購書工影寫一部凡<lb/>
+　八百六十葉嗚呼經學盛於漢至宋而疾漢<lb/>
+　儒如讎玄學盛於晉至宋而詆爲異端註䟽<lb/>
+　僅存譌缺淆亂今之學者至不能舉其首題<lb/>
+　其閒句讀字秖賴有是書世無刻本又將澌<lb/>
+　滅矣此與註䟽中所引往往不同讀者幸詳<lb/>
+　而寶之也崇禎十年歳次丁丑寫畢越十四年<lb/>
+　上黨馮斑識其後<lb/>
+<pb n="3b"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

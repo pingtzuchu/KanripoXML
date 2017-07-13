@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>元史紀事本末</head>
+    <p>
+<pb n="KR2c0008_WYG_000-1a"/>
+欽定四庫全書　　　　　史部三<lb/>
+　元史紀事本末　　　　　紀事本末類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案元史紀事本末四卷明陳邦瞻撰<lb/>
+　　　　凡列目二十有七其律令之定一條下注一<lb/>
+　　　　補字則歸安臧懋修所増也明修元史僅八<lb/>
+　　　　月而成書潦草殊甚後商輅等撰續綱目不<lb/>
+　　　　能旁徴博采于元事亦多不詳此書採掇不<lb/>
+<pb n="KR2c0008_WYG_000-1b"/>
+　　　　出二書之外故未能及宋史紀事之賅博又<lb/>
+　　　　于元明間事皆以為應入明國史于徐達破<lb/>
+　　　　大都順帝駐應昌諸事皆畧而不書夫元初<lb/>
+　　　　草創之蹟邦瞻既列于宋編又以燕京不守<lb/>
+　　　　元帝北徂為當入明史是一代興廢之大綱<lb/>
+　　　　皆沒而不著揆以史例未見其然至至正二<lb/>
+　　　　十六年韓林兒之死乃廖永忠沈之𤓰步洪<lb/>
+　　　　武中寧王權作通鑑博論已明著其事不過<lb/>
+<pb n="KR2c0008_WYG_000-2a"/>
+　　　　以太祖嘗奉其年號嫌于項羽義帝之事歸<lb/>
+　　　　其獄于永忠耳邦瞻更諱之書卒尤為曲筆<lb/>
+　　　　庫庫特穆爾自順帝北遷之後尚為元盡力<lb/>
+　　　　屢用兵以圖興復故太祖稱王巴拜真男子<lb/>
+　　　　以為勝常遇春後秦王樉妃即納其女邦瞻<lb/>
+　　　　乃以為不知所終亦不免于失實特是元代<lb/>
+　　　　推步之法科舉學校之制以及漕運河渠諸<lb/>
+　　　　大政措置極詳邦瞻于此數端紀載頗為明<lb/>
+<pb n="KR2c0008_WYG_000-2b"/>
+　　　　晰其他治亂之蹟亦尚能撮舉大槩攬其指<lb/>
+　　　　要固未嘗不可以資考鏡也乾隆四十六年<lb/>
+　　　　四月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

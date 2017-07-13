@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="1a"/>
+大廣益㑹玉篇卷第二十二<hi>凡十四部</hi>
+︻山部三百四十三<hi>二百九十六字</hi>山<hi>所姦切髙大有石曰山山宣/也産也散氣以生万物也</hi>岱<hi>徒載切泰山</hi>
+㠀<hi>丁了多老二切海中山可居</hi>嶽<hi>牛角切五嶽也王/者廵守所至山</hi>岳<hi>同上/同上/古文出說文</hi>
+嶧<hi>余石切山在魯囯鄒縣</hi>嶷<hi>魚其魚力二切九嶷山舜所/葬在零陵管道縣亦作/㠜/奴刀切山名又大也</hi>巙<hi>同上</hi>嶩<hi>同上午刀切山多小石亦作㠂</hi>嶨<hi>苦卓切山多大磐/石亦作礐又音斈</hi>岷<hi>武巾切山/名江水所出</hi>㟭<hi>同上同上</hi>
+崵<hi>余章切首崵山在遼西</hi>嵎<hi>牛俱切山/在呉越</hi>嵉<hi>音霆山/在鴈門</hi>㞦<hi>居擬切/女㞦山</hi>嵕<hi>子公切山名</hi>嵏<hi>同上才結切髙陵也又才葛切</hi>嶭<hi>五結切/嶭山髙也</hi>崟<hi>宜金切/髙也</hi>
+                    <graphic n="KR3328" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3328.png" mimeType="image/png"/>
+                    <hi>口沃切/山皃</hi>嶘<hi>士眼切危髙皃</hi>㟞<hi>同上</hi>
+岫<hi>似又切山有岩穴</hi>岵<hi>胡古切山/多草木/它果切/山皃</hi>巁<hi>力制切/巍也</hi>峻<hi>思俊切嶮峻也</hi>
+                    <graphic n="KR2310" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2310.png" mimeType="image/png"/>
+                    <hi>同上</hi>
+嶞<hi>天果切小山又徒果切</hi>岨<hi>七居切石/山載土也</hi>嶼<hi>似與切/海中洲</hi>
+                    <graphic n="KR2060" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2060.png" mimeType="image/png"/>
+                    <hi>口耕切/石谷</hi>岪<hi>扶勿切/山皃</hi>峑<hi>七全切山巔</hi>
+崛<hi>魚勿切山短髙皃又特起</hi>岡<hi>古郎切山/脊俗作崗</hi>嶟<hi>子昆切/山皃/仕力切/嶷也</hi>㟎<hi>它罪切/山長</hi>
+                    <graphic n="KR2515" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2515.png" mimeType="image/png"/>
+                    <hi>乎古切山廣皃</hi>
+岊<hi>子結才結二切髙山皃</hi>岑<hi>土今切山/小而髙</hi>
+                    <graphic n="KR2434" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2434.png" mimeType="image/png"/>
+                    <hi>下圭切/姓也</hi>㠅<hi>父六切/山覆也</hi>崧<hi>思融切中岳也</hi>嵩<hi>同上</hi>
+嶃<hi>仕咸切山石峻高或作漸</hi>崒<hi>才律切峯/品崒/也</hi>崨<hi>才接切/山皃</hi>岌<hi>魚及切/山髙皃</hi>嶫<hi>魚怯切/岌嶫</hi>崌<hi>音居山名</hi>
+嵍<hi>亡刀切丘也或作堥</hi>密<hi>眉筆切山/形如堂</hi>
+                    <graphic n="KR2250" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2250.png" mimeType="image/png"/>
+                    <hi>同上</hi>峘<hi>户官切/大也</hi>嶢<hi>午乆切/髙峻皃</hi>嶜<hi>子心切山髙皃</hi>
+<pb n="1b"/>
+㠑<hi>才賄切<graphic n="KR2750" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2750.png" mimeType="image/png"/>/㠑山皃</hi>
+                    <graphic n="KR2750" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2750.png" mimeType="image/png"/>
+                    <hi>力罪切山形又力水切</hi>𡻭<hi>同上</hi>岻<hi>直夷切/山名</hi>崳<hi>弋朱切/山名/丘利切髙皃</hi>
+巖<hi>午衫切積石皃也峯也</hi>嵒<hi>冝咸切/山巖</hi>岟<hi>於兩切/山足</hi>嵆<hi>戸雞切/山名</hi>嵣<hi>徒郎切/山名</hi>嶑<hi>似两切山名</hi>
+岬<hi>古狎切山旁亦作碑</hi>嵯<hi>才何切嵯/峨髙皃</hi>峨<hi>五何切/嵯峨</hi>㞰<hi>虚語切/山也</hi>嵀<hi>直主切/山名</hi>㟇<hi>子卧切山動</hi>
+崆<hi>口公口江二切山皃</hi>崝<hi>仕耕切崝/嶸髙峻皃</hi>崢<hi>同上</hi>峎<hi>五狠切/山名</hi>㠕<hi>於鬼切/山形</hi>峴<hi>戸顯切山也</hi>
+㠐<hi>巨苗切峻也形似矯</hi>嶸<hi>戸萌切/崝嶸</hi>嵤<hi>同上</hi>峙<hi>直里切/峻峙</hi>[啟-口+山]<hi>水愛切/又音啓</hi>
+                    <graphic n="KR3427" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3427.png" mimeType="image/png"/>
+                    <hi>与支切山名比吉切南山道也</hi>岣<hi>古后切岣/嵝衡山也</hi>嶁<hi>力后切/山頂</hi>嵿<hi>丁冷切/山名</hi>㞳<hi>當口切/山名</hi>嶝<hi>都鄧切小坂</hi>
+巇<hi>許竒切嶮巇巔危也</hi>嶚<hi>力幺切嶚/<graphic n="KR2418" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2418.png" mimeType="image/png"/>山髙</hi>
+                    <graphic n="KR2418" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2418.png" mimeType="image/png"/>
+                    <hi>士交切/嶚<graphic n="KR2418" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2418.png" mimeType="image/png"/>
+                    </hi>岠<hi>其吕切/大山</hi>峼<hi>乎老切/山名/音父山名五虧切在髙山上今作危/同上</hi>㞺<hi>才卜切/古族字/音蘚/山名</hi>巒<hi>力丸切山峯也楚辝/登石以逺望兮</hi>
+豳<hi>悲貧切周邑名</hi>峭<hi>七肖切嶮/也亦作陗/於巳切/山也/无匪切/山皃</hi>峞<hi>牛罪切又牛回切髙皃亦作嵬峗</hi>
+崤<hi>戸交切晉地要塞</hi>㟚<hi>巨彼切山/名古<graphic n="KR1122" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1122.png" mimeType="image/png"/>字</hi>岐<hi>同上/踈土切山也</hi>嶙<hi>力因切嶙峋深崖皃/又力忍切亦作<graphic n="KR3594" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3594.png" mimeType="image/png"/>
+                    </hi>
+峋<hi>思遵切嶙峋深崖/古刀切/㟉亭也</hi>㟉<hi>力刀切/㟉</hi>㠚<hi>徒對切/山皃</hi>嵁<hi>五男苦男五感二切嵁崿見魏都賦</hi>
+嵐<hi>力含切大風又岢嵐山名</hi>崴<hi>烏乖切崴/㠢不平也</hi>㠢<hi>户乖切/崴㠢也/徒外切/山也</hi>[山*弇]<hi>衣廉衣撿二切/山海經[山*弇]嵫山</hi>崦<hi>同上</hi>
+嵫<hi>音兹[山*弇]嵫山日入処</hi>㠆<hi>丁安切㠆/孤山也/七計切/山名</hi>崽<hi>山皆切/山名</hi>崇<hi>士隆切重也尊/也衆也序丘也/同上</hi>
+<pb n="2a"/>
+崋<hi>戸瓜切西岳又戸化切</hi>㠔<hi>方賣切阸/㠔山形/古文/倉字</hi>崍<hi>魯台切/山也</hi>嵦<hi>五來切/山也</hi>
+                    <graphic n="KR4120" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4120.png" mimeType="image/png"/>
+                    <hi>巨角切山名</hi>
+㟍<hi>力唐切冬至日所入峻㟍之山</hi>屺<hi>去几切山/无草木</hi>崠<hi>得紅切/山名</hi>㟒<hi>丘貧切/山名</hi>
+                    <graphic n="KR1756" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1756.png" mimeType="image/png"/>
+                    <hi>戸經切/山也</hi>㟏<hi>火含切大谷</hi>
+岭<hi>力丁切岭营山深小皃</hi>崥<hi>方尓切岟/崥山足也/紀力切/山名</hi>峐<hi>古來切/山名</hi>岯<hi>符悲切/山再成</hi>嶈<hi>七良切山聳</hi>
+巉<hi>士杉切巉嵒髙危</hi>岝<hi>士百切岝/峉山皃</hi>峉<hi>五百切/岝</hi>峵<hi>戸萌切/山也</hi>嵾<hi>楚岑切/山势</hi>岓<hi>巨希切山傍石</hi>
+嵃<hi>魚蹇切殿䑓之势</hi>崐<hi>古魂切崐/崘山名</hi>崘<hi>力昆切/崐崘</hi>㠠<hi>力魚切/山名</hi>嵢<hi>千郎切/山势</hi>峸<hi>示征切山也</hi>
+巃<hi>力孔力空二切巃嵸嵯峨皃</hi>嵸<hi>即孔即空/二切巃嵸</hi>峿<hi>五乎切/嶇峿山</hi>
+                    <graphic n="KR3095" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3095.png" mimeType="image/png"/>
+                    <hi>古含切/山也/於縁切/山曲</hi>岹<hi>徒聊切山也</hi>
+岈<hi>火加切嵢岈山深状</hi>嶓<hi>布佐布何/二切山名</hi>㟘<hi>徒凋切/山也</hi>嶗<hi>力刀切/山也</hi>
+                    <graphic n="KR3855" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3855.png" mimeType="image/png"/>
+                    <hi>冝今巨/今二切</hi>岍<hi>口弦切山名</hi>
+峛<hi>力尔切峛崺或作邐迤</hi>崺<hi>弋尔切峛/崺山卑長/胡溝切/山名</hi>巔<hi>多田切/山頂</hi>㠓<hi>莫紅切/山也</hi>㠦<hi>孚隆切山名</hi>
+﨑<hi>去竒切﨑岖山路不平</hi>嶇<hi>音區/﨑嶇</hi>岴<hi>同上</hi>嵱<hi>与封切/山名</hi>嵭<hi>布庚切/崩嵭也</hi>嶆<hi>昨遭切山名子于切嵎髙/崖也山石相向</hi>巋<hi>江追切山/小而衆也</hi>
+                    <graphic n="KR3977" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3977.png" mimeType="image/png"/>
+                    <hi>五咸切/山髙</hi>㟿<hi>莫郎切/山也</hi>
+                    <graphic n="KR1815" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1815.png" mimeType="image/png"/>
+                    <hi>知勇切/山也</hi>崼<hi>成𥿄切山也</hi>
+㠝<hi>在丸切㠝岏銳上也髙也</hi>岏<hi>牛丸切/㠝岏</hi>㠖<hi>冝﨑切/山名</hi>嵄<hi>眉否切/山也</hi>㞨<hi>即李切/山也/魚㪯切山也</hi>
+嵔<hi>於鬼切嵔嶉髙也山髙下凹曲皃</hi>嶉<hi>子誄切/嵔嶉/所凡切/古使字/托卧切/又音朶/力罪切山也</hi>
+                    <graphic n="KR1041" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1041.png" mimeType="image/png"/>
+                    <hi>同上</hi>
+㟅<hi>五江五東二切山名</hi>嶔<hi>綺金切嶔/崟山势</hi>嵰<hi>丘撿切/嵰嶮也</hi>嶮<hi>魚撿切/山嶮</hi>岲<hi>詡誑切/山也/苦謗切山也</hi>
+<pb n="2b"/>
+嵽<hi>徒結切嵽嵲小而不安皃</hi>嵲<hi>牛結切/嵽嵲</hi>嵹<hi>巨亮切/山也</hi>巏<hi>古乱切/山也/牛仲切/山也/之義切山名姑戸切又古胡切</hi>嶊<hi>子罪切山/林崇積皃/无沸切/山名/力御切/山名/去智切/山也/子于切山也</hi>
+崩<hi>布朋切壞也毁也厚也亦/字</hi>崚<hi>口升切崚/嶒山皃</hi>嶒<hi>疾陵切/崚嶒也</hi>㠍<hi>子入切太/白山名/音晋/山也</hi>
+                    <graphic n="KR1321" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1321.png" mimeType="image/png"/>
+                    <hi>音介山名</hi>
+嵌<hi>口衘切坎傍孔也又山巖</hi>
+                    <graphic n="KR4074" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4074.png" mimeType="image/png"/>
+                    <hi>仕皆切山/在平林</hi>崹<hi>大兮切崥/崹山皃</hi>岞<hi>仕革切/山也</hi>崿<hi>五各切/山名/音直山名力么切又洛包切山名</hi>嶕<hi>昨焦切嶕/嶢山髙也</hi>嶣<hi>同上</hi>峪<hi>余蜀切/山也</hi>㟳<hi>音栗/山名</hi>岄<hi>魚厥切山名</hi>
+<graphic n="KR1132" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1132.png" mimeType="image/png"/>
+                    <hi>其展切<graphic n="KR1132" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1132.png" mimeType="image/png"/>嵼山/屈曲又九輦切</hi>嵼<hi>所簡切<graphic n="KR1132" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1132.png" mimeType="image/png"/>嵼</hi>㠉<hi>徒紅切山/无木皃/兹錦切又/音審山名</hi>嵑<hi>苦葛切山名</hi>嶱<hi>同上</hi>
+㞥<hi>仕今切說文入山之深也</hi>屼<hi>五骨切/屼秃山/苦忽切/屼也</hi>㞽<hi>許月切/山也/口骨切/山也</hi>屹<hi>魚乙切山皃</hi>
+峒<hi>逹貢切又徒董切山名</hi>嶰<hi>胡買切山/不相連也</hi>岦<hi>力入切岦/岌山皃</hi>崞<hi>音郭/山名</hi>峇<hi>口合切/山窟同上</hi>
+嵅<hi>古暗切又音緘音咸嵐嵅山名</hi>嶺<hi>力井切坂/也或作阾/於元於阮/二切山名/冝合切/兩山向</hi>㞱<hi>倉龍切/日欲夜</hi>㞧<hi>古文㑹字</hi>
+嵋<hi>武悲切峨嵋山名</hi>
+                    <graphic n="KR2494" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2494.png" mimeType="image/png"/>
+                    <hi>河蒲切山/在南陽縣</hi>
+                    <graphic n="KR3978" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3978.png" mimeType="image/png"/>
+                    <hi>音昳<graphic n="KR3978" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3978.png" mimeType="image/png"/>/山皃/魚結切/<graphic n="KR3978" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3978.png" mimeType="image/png"/>
+                    </hi>
+                    <graphic n="KR1885" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1885.png" mimeType="image/png"/>
+                    <hi>同上/亦同上</hi>
+嵠<hi>戸佳切溪名亦溪同</hi>㟽<hi>必小切又/彼矯切</hi>峯<hi>孚容切/山髙尖</hi>㠙<hi>户刀切/山戸</hi>巊<hi>烏頂切/山名</hi>㟰<hi>亡頂切巊㟰山名</hi>
+崔<hi>才回切崔嵬髙皃又音催</hi>嶠<hi>巨肖切山/銳而髙</hi>崱<hi>仕力切/山名</hi>巐<hi>丑小切/山</hi>㟐<hi>莫郎切/山名/音泛山名</hi>
+嶾<hi>於謹切嶾<graphic n="KR3594" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3594.png" mimeType="image/png"/>/山髙亦作</hi>崷<hi>疾由切崷崪山皃</hi>巘<hi>魚偃切尔雅重隒謂/山形如累兩甑皃/莫波切/山也</hi>㠧<hi>莫彼切山也</hi>
+<pb n="3a"/>
+仚<hi>許延切人在山上</hi>崶<hi>府容切山名一名龙門山在封州大魚上即化爲龙上不得點頟流血</hi>
+︻屾部三百四十四<hi>凡四字</hi>屾<hi>所因切說/文二山/古文/路字</hi>嵞<hi>逹胡切/今作塗/音疑古文</hi>
+︻嵬部三百四十五<hi>凡三字</hi>嵬<hi>午回切崔嵬髙也不平/也或作峞又五罪切/公回切大皃又美也威也偉也怪異也</hi>
+巍<hi>牛威切髙大也</hi>
+︻屵部三百四十六<hi>凡八字</hi>屵<hi>牛桀切又牛割/切說文岸髙也</hi>嶏<hi>晋昧切崩声又皮鄙切毁也或作圯</hi>
+<graphic n="KR2191" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2191.png" mimeType="image/png"/>
+                    <hi>力幺切<graphic n="KR2191" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2191.png" mimeType="image/png"/>廊/空也今作寥</hi>岸<hi>午旦切水涯而髙者</hi>嵟<hi>徒罪切髙/也亦作陮</hi>崖<hi>牛佳切/髙邊也/女交切/悴也</hi>
+                    <graphic n="KR4122" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4122.png" mimeType="image/png"/>
+                    <hi>午旦切厚也</hi>
+︻广部三百四十七<hi>凡百六十七字</hi>广<hi>冝檢切說文/因广爲屋</hi>廙<hi>余力切行屋下声又謹敬也亦作翼</hi>
+庉<hi>大本切楼牆也屯聚之処</hi>廬<hi>力於切寄/也屋舎也</hi>㢏<hi>古文逾又徒楼切/行圊也木槽也</hi>庭<hi>大丁切堂階前也礼閽人掌掃門庭</hi>
+廣<hi>古晃切大也又古曠切</hi>㢚<hi>力古切府/也庵也</hi>廉<hi>力沾切清也堂廉也/稜也又箭有三廉也</hi>府<hi>方禹切本也聚也又書也取也藏貨也</hi>
+廦<hi>布覓切屋牆也垣也今作壁</hi>庢<hi>知栗切礙/也止也</hi>序<hi>似吕切斈也舒也東/西牆也又長㓜也</hi>庠<hi>徐章切記有虞氏餋囯老於上庠太斈也</hi>
+庾<hi>俞主切大曰倉小曰庾</hi>廮<hi>於井切安/止又縣名</hi>龐<hi>步公歩江二切髙屋/也又力容切縣名</hi>廢<hi>方吠切退也域也止也放置也大屋傾也</hi>
+廁<hi>側吏切圖溷也雜也女也側也</hi>庳<hi>音婢短也/卑下屋也</hi>廑<hi>竒斳切少劣之居/也廕也或作覲</hi>庾<hi>所留切隱匿也求也索也隈也亦作搜</hi>
+庰<hi>卑并切蔽也薄也或作帡庰</hi>廔<hi>力侯切屋/蠡也春也/亡江亡頂二切/豊也有也厚也</hi>廇<hi>力又切中庭也屋廇也又作霤</hi>
+<pb n="3b"/>
+<pb n="3b"/>
+廯<hi>思淺切倉也廪也</hi>㡵<hi>魯丁切/懸通皃/音壬/下也/音倚/庪也</hi>庎<hi>古拜切獨也</hi>庩<hi>音荼/<graphic n="KR2463" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2463.png" mimeType="image/png"/>也</hi>
+廘<hi>力木切庾也倉也/作郎切/壯立皃/音离/慶也/於其切/急也/七侯切/崩声</hi>庀<hi>匹婢切具也</hi>
+廕<hi>於禁切庇也亦作䕃</hi>廪<hi>力荏切/倉也</hi>廠<hi>尺兩切/馬屋/王委切/羙也/牀史切/遲也/魚錦切大屋</hi>
+廈<hi>胡假切今之門庑也</hi>廊<hi>力唐切/庑下也/离与切/衆也</hi>㡸<hi>十雅切/屋未成</hi>㢔<hi>子孔切/衆也/古丸切玩也</hi>
+廜<hi>大胡切廜蘇庵也</hi>㢝<hi>息胡切/廜㢝/方登切/崩也/魚掩切/卑皃/火大切/穴也</hi>廆<hi>胡罪切廦廆也</hi>
+庛<hi>七漬切耕具也長尺一寸/居吻切/積也/所近切/屋斜/音亶偏/舎也/之氏切/居卑也</hi>㡷<hi>布忖切戎姓</hi>
+庵<hi>烏含切舎也/也/郎古切/直皃</hi>㢃<hi>力當切/髙也</hi>庙<hi>音佃/平也</hi>庡<hi>於豈切/俳佪也/色倚切移也</hi>
+庱<hi>恥拯切亭名見吳志</hi>廨<hi>居賣切/公廨也/弋势切/食庑也/綏醉切/顚也/尸位切/下屋也/所訝切賤也</hi>
+庨<hi>許交切庨豁宫殿形狀</hi>廗<hi>都蓋切/邪廗也/音布/烈也</hi>㢄<hi>徒候切/器名</hi>㢛<hi>魚欠切/小皃</hi>㡺<hi>得案切小舎也</hi>
+廅<hi>安盍切山旁穴也</hi>䨾<hi>符沸切/小隱也</hi>㡹<hi>七賜切/屋也/口合切/市/音弋屋/頭也/音或區也</hi>
+庯<hi>布吾切屋上平也</hi>度<hi>唐故切法/度文過也/音捻/壓也</hi>庍<hi>方卦切/到别也/先見切舎也</hi>䵇<hi>同上作惟切姿也又許惟切</hi>庴<hi>秦/切縣/名在清河</hi>座<hi>才貨切位也</hi>
+︻厂部三百四十八<hi>凡五十六字</hi>厂<hi>呼旦切說文山石/之厓岩人可居</hi>厈<hi>籕文</hi>㕋<hi>其禁切石地也</hi>
+<pb n="4a"/>
+<graphic n="KR2767" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2767.png" mimeType="image/png"/>
+                    <hi>五敢五今二切山石下也</hi>厓<hi>五佳切水/邊或作涯</hi>㕆<hi>胡古切/羙石也</hi>厬<hi>居鮪切/水尽</hi>厥<hi>居月切其也短也發石也或作斥欮</hi>
+厜<hi>是規切厜㕒也又姊冝切</hi>㕒<hi>不竒切/厜㕒也/弋里切/石利也</hi>厝<hi>千故切/厉石也</hi>厎<hi>之視切致也至也均也平也又石声</hi>
+厗<hi>徒尼切唐厗石又古/字</hi>㕇<hi>力合切石/声亦拉字/午的切/石地也</hi>厖<hi>莫江切/石大也</hi>厭<hi>於冉於葉二切合也伏也又於豔切飫也</hi>
+厒<hi>口合切山夾有岸也</hi>厇<hi>竹格切亦/作磔開也</hi>㕈<hi>於豈切/藏也/夾切/<graphic n="KR3544" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3544.png" mimeType="image/png"/>也</hi>厃<hi>之嚴切仰也屋梠也又顔監魚軌二切</hi>
+厧<hi>丁田切止也亦作顚</hi>厞<hi>浮沸切隱/也陋也/歩項切/周邑也</hi>厲<hi>力丗切虐也附也近也危也作也髙也上也磨石也</hi>
+                    <graphic n="KR1871" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1871.png" mimeType="image/png"/>
+                    <hi>同上</hi>
+㕊<hi>芳俱切石文見也</hi>
+                    <graphic n="KR3544" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3544.png" mimeType="image/png"/>
+                    <hi>匹亦切仄/也陋也/似亦切/古席字/胡苟切不薄也重/也山陵之也</hi>厚<hi>同上口合切又苦後切閉口声</hi>厙<hi>尺夜切姓/又尺舎切/乃乎切/古孥字</hi>仄<hi>壯力切陋/也傾側也/同上古文</hi>
+㕌<hi>音礙張幕也又石名/徒乱切/古文叚</hi>㕍<hi>都回切/亦推字</hi>㕂<hi>冝今切/古文吟/以周子/由二切</hi>㕃<hi>音溪倒地也</hi>
+厱<hi>來甘切厱玉或作/此芮切/地名/所栁切/老人也/古文/猛字/徒到切/古文</hi>㓹<hi>居例切地名</hi>
+厤<hi>力的切理也亦作秝</hi>㕐<hi>司夜切/又音冩</hi>㕅<hi>古洽切/大也</hi>厔<hi>式質切/室也</hi>厄<hi>於革切俗戹字</hi>
+︻髙部三百四十九<hi>凡九字</hi>髙<hi>古刀切崇也上/也逺也長也</hi>髙<hi>空井切/小堂也</hi>亳<hi>歩莫切殷地名</hi>
+髝<hi>來到切髝髙皃</hi>亭<hi>大丁切民所安定之爲/除害也漢有里亭長</hi>髞<hi>先到切/髙也/仕交切/髙足也</hi>髛<hi>苦高切明也莫告切氉也</hi>
+<pb n="4b"/>
+︻危部三百五十<hi>凡四字</hi>危<hi>牛為切不安皃</hi>㩻<hi>丘知切碩低/不正亦作</hi>卼<hi>午忽切[危*臬]卼也</hi>
+[危*臬]<hi>午結切[危*臬]不安亦作<graphic n="KR3036" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3036.png" mimeType="image/png"/>
+                    </hi>
+︻石部三百五十一<hi>二百九十二字</hi>石<hi>市亦切山石/又厚也斛也</hi>磺<hi>古猛切強也/也銅鐵璞</hi>礦<hi>同上</hi>
+碝<hi>而兖切石次玉也亦作</hi>碭<hi>大浪切文/石又縣名</hi>礐<hi>口角切石声也山/多大石也亦作嶨</hi>碣<hi>具列切特立石/也又碣石山名/古文</hi>
+磧<hi>千的切水諸石水淺石見</hi>砮<hi>乃乎切石/中矢鏃</hi>磍<hi>苦轄切輵磍揺目/吐舌也盛怒也</hi>确<hi>胡角切磽/确亦作埆/同上</hi>
+硠<hi>力唐切硠磕石声又力蕩切/弋庻切石/出隂山</hi>碏<hi>七昔七畧二切敬/也左衛大夫名碏</hi>硏<hi>午田切摩也亦/作研/幵血</hi>
+                    <graphic n="KR1165" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1165.png" mimeType="image/png"/>
+                    <hi>同上</hi>
+磕<hi>苦蓋切硠磕也又苦闔切</hi>碑<hi>彼皮切銘/石又臥石</hi>磷<hi>力鎮切薄也雲/母别名又音鄰</hi>䃺<hi>莫卧切磑也/所以磨麥</hi>磨<hi>同上</hi>
+砢<hi>力可切磊砢衆小石皃</hi>磿<hi>力的切磨/歴石小声</hi>磑<hi>午對居衣公哀三/切堅石也磨也</hi>磻<hi>補左補何二/切以石維繳</hi>碆<hi>同上</hi>
+礒<hi>冝綺切嶔崟﨑礒石巖也/仕咸切/礹山皃</hi>礛<hi>力甘切治玉之石/也青砺也或作<graphic n="KR3751" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3751.png" mimeType="image/png"/>
+                    </hi>
+                    <graphic n="KR3175" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3175.png" mimeType="image/png"/>
+                    <hi>甫廉切刺也/以石刺病也</hi>砭<hi>同上</hi>
+碎<hi>先潰切散也破也亦作</hi>礹<hi>五咸切/礹亦作巖/山指切/石墮声</hi>磒<hi>尤粉切/落也</hi>碨<hi>烏罪切碨/不平也/同上</hi>
+破<hi>普餓切解離也碎也壞也</hi>碞<hi>牛咸牛令/二切僣差</hi>硞<hi>苦角切/石声</hi>硻<hi>口耕切/堅也</hi>
+                    <graphic n="KR1235" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1235.png" mimeType="image/png"/>
+                    <hi>力罪切碨/<graphic n="KR1235" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1235.png" mimeType="image/png"/>亦山名/同上</hi>
+硩<hi>夭歴切列二切石中矢也</hi>礙<hi>五代切止/也亦作閡</hi>硈<hi>口黠切/堅也</hi>矻<hi>同上</hi>確<hi>口角切堅固/也亦作擕</hi>碻<hi>同上</hi>
+砠<hi>且居切土山有石亦作岨</hi>礱<hi>力公切磨/穀為礱</hi>磊<hi>力罪切/磊砢也</hi>磥<hi>同上</hi>礫<hi>力的切/小石/同上</hi>
+<pb n="5a"/>
+硌<hi>力各切山上大石又石次玉</hi>硟<hi>思煎切以/石衦緭也</hi>磽<hi>苦交切/堅硬也/知略切/研也</hi>磋<hi>千何切/治象牙/先果切小石</hi>
+䃤<hi>思六切黒砥石又先鳥切</hi>碓<hi>丁潰切所/以春也/力兼切/赤砺石</hi>碬<hi>都乱切/砺石也</hi>䃀<hi>且對切/磑也</hi>砬<hi>力執切石藥</hi>
+礪<hi>力勢切崦嵫山多砺石可磨刃</hi>䂿<hi>徒荅徒感/二切再春</hi>䂬<hi>居勇切/水边石</hi>䃍<hi>徒對切/墮也</hi>砡<hi>牛六切/齊也</hi>磅<hi>匹庚切石声</hi>
+磯<hi>居衣切水中磧也摩也</hi>硯<hi>午見切石/器以研墨</hi>磭<hi>赤畧切/大脣皃</hi>硐<hi>大公切/摩也</hi>礬<hi>扶袁切/石也</hi>礥<hi>下妍切难皃</hi>
+硾<hi>丈僞切鎭也笮也亦作縋</hi>䃒<hi>下革切石/也埆也</hi>磁<hi>疾兹切/石似鐵</hi>礎<hi>初吕切/柱磶也</hi>磶<hi>思亦切/柱礩也/乃結切礬石也</hi>
+礩<hi>之逸切柱下石又音致</hi>砥<hi>之視切磨/石亦作底</hi>
+                    <graphic n="KR2711" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2711.png" mimeType="image/png"/>
+                    <hi>思䝨切/石次玉/思移切/磨也</hi>礓<hi>居良切/礫石也</hi>磐<hi>歩安切大石也</hi>
+磌<hi>之仁切礩也音響也又大堅也</hi>砌<hi>千計切危/也喈砌也</hi>磝<hi>午交切/或作嶅/古拜切/石次玉</hi>碉<hi>音周石/室也</hi>砊<hi>口唐切硠砊也</hi>
+碥<hi>方顕切將登車履石也亦作扃</hi>䃫<hi>丁敢切石/䃫岀蜀中/力皎切/烏垂</hi>砫<hi>之缕切/石室同</hi>磂<hi>力牛切/亦作鐂</hi>硍<hi>諧眼切石声</hi>
+磼<hi>才合才盍二切磼礏髙也</hi>硫<hi>力尤切硫/黃藥名</hi>硥<hi>歩項切/亦作</hi>䂦<hi>之人切/石名</hi>砎<hi>下瞎切/石皃</hi>䃷<hi>弋成切翫習也</hi>
+礏<hi>午合于闔二切磼礏也</hi>磫<hi>于龍切磫/<graphic n="KR2957" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2957.png" mimeType="image/png"/>砺石也</hi>砰<hi>披萌切/大声</hi>硑<hi>同上/如充切/石也/於宫切又音雄</hi>
+䃛<hi>力煎切亦作鏈鈆属</hi>䃴<hi>之余切礛/䃴青砺也</hi>䃜<hi>於兮切/黒石</hi>礊<hi>口革切/堅也</hi>碪<hi>知林切擣石</hi>砧<hi>同上</hi>
+碊<hi>予田似千二切/也移也</hi>磓<hi>丁回切亦/作/凖</hi>矺<hi>竹格切/磓也/丁狄切/磓也</hi>矸<hi>呼旦切/磓也/音搥石也</hi>
+磟<hi>力竹切磟碡平田器</hi>碡<hi>徒篤切/又音逐/音磻/石也</hi>磎<hi>音磎/石也</hi>硡<hi>音宏/石也</hi>䃶<hi>胡乖切石也</hi>
+<pb n="5b"/>
+碕<hi>巨衣切曲岸頭也/方宇切/䃊磑也</hi>䃊<hi>子吕切/䃊</hi>磴<hi>丁鄧切/巖磴</hi>磞<hi>普耕切/擊石</hi>䃁<hi>烏加切石名</hi>
+碬<hi>下加切磍碬髙下也</hi>碌<hi>力木切碌/䃚多砂石</hi>䃚<hi>千木切/碌䃚</hi>碖<hi>音輪/石也</hi>硼<hi>匹耕切/石名同上</hi>
+<graphic n="KR1619" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1619.png" mimeType="image/png"/>
+                    <hi>人文切惡雌黃也</hi>䂳<hi>义瓦切好/雌黄也/巨焉切/碩也</hi>䃢<hi>去金切/石名</hi>䂚<hi>音爻石/不平也</hi>
+                    <graphic n="KR2981" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2981.png" mimeType="image/png"/>
+                    <hi>音康石声</hi>
+磤<hi>衣謹切雷声亦作<graphic n="KR2612" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2612.png" mimeType="image/png"/>
+                    </hi>䃓<hi>古侯切罰/也碥也/士邪切/石也</hi>硄<hi>口光切/石声</hi>
+                    <graphic n="KR1503" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1503.png" mimeType="image/png"/>
+                    <hi>呼宏切/石声/音篤落石也</hi>
+䃧<hi>力中力冬二切䃧䃔石声</hi>硨<hi>尺遮切硨/磲石似玉</hi>磲<hi>矩於切/硨磲/魚兼切/山也</hi>礯<hi>於京切/石也</hi>碤<hi>音英水中石</hi>
+䃔<hi>丘中切䃧䃔又戸冬切</hi>碼<hi>音馬碼碯/石似玉/乃老切/碼/呼宏切/石皃/同上石/也/苦扄切石声</hi>
+磃<hi>四貲切宫名或作虒</hi>礣<hi>莫轄切礣/砎堅也</hi>砱<hi>魯工切/石也</hi>碽<hi>古紅切/擊声</hi>䂫<hi>戸工切/崩声/祖琮切石也</hi>
+磾<hi>丁泥切有金曰磾/古狎切山/側亦作岬</hi>矼<hi>古双切/石橋</hi>䃑<hi>音班石/鋪皃/亦殊切石也</hi>䃋<hi>同上</hi>
+䃂<hi>故本切周礼凢声髙声䃂</hi>硭<hi>无方切硭/硝藥名</hi>硝<hi>思焦切/硭硝</hi>䂘<hi>音釵/石名</hi>䃈<hi>音皆/山名</hi>䃌<hi>音眞石山也</hi>
+䃸<hi>子林先念二切䃸磹電光</hi>磹<hi>徒念切/䃸磹</hi>硢<hi>與魚切/石也</hi>砂<hi>魚加切/俗沙也</hi>碒<hi>宜今切/石也</hi>䂟<hi>居麻切石也</hi>
+硊<hi>牛委切磈硊足曲也</hi>硿<hi>苦東戸宋/二切石声</hi>䃡<hi>子林切/石也</hi>碀<hi>仕耕切/破声/音浮破/声也/之由切石也</hi>
+硱<hi>口本口氷二切硱磳右皃</hi>磳<hi>子登仕米/二切硱磳</hi>硧<hi>音硧磨/石也</hi>䂢<hi>多動切/墜石/居飲切/石名</hi>碔<hi>音武浮石也</hi>
+硂<hi>士泉切度也亦作銓量也次也/乃子切/䂪石也</hi>䃬<hi>五罪切/石也/丘仰切/石也</hi>䂽<hi>音掉石名</hi>䂪<hi>同上</hi>
+<pb n="6a"/>
+砉<hi>呼覓切砉然見壮子/竹甚切用/石力也</hi>䂹<hi>斫㦸切/石落声</hi>砋<hi>音止砺/石也</hi>磣<hi>初甚切/食有沙</hi>砐<hi>五合切砐硪苦耕切吳有臨/山</hi>磉<hi>先曩切柱/下石也</hi>砪<hi>音母/藥名/音史/石名</hi>磵<hi>古晏切/水磵</hi>硋<hi>五蓋切正石</hi>
+硜<hi>口耕切小人皃又口定切</hi>矴<hi>丁定切/矴石/於故切/磓</hi>砟<hi>仕亞切/碑石</hi>䂤<hi>音附白/石也/先外切小石</hi>
+碁<hi>音其圍碁也亦作棊</hi>硪<hi>音我砐硪/山髙皃/初磷也/水石</hi>䃝<hi>口孝切/磽䃝也</hi>碃<hi>千定切/石類</hi>䃻<hi>音霸石也</hi>
+砒<hi>房脂扶迷普兮三切石也</hi>硬<hi>五更切堅/硬亦作鞕</hi>砑<hi>音訝光/石也</hi>
+                    <graphic n="KR2895" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2895.png" mimeType="image/png"/>
+                    <hi>音迭砲/<graphic n="KR2895" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2895.png" mimeType="image/png"/>也</hi>砞<hi>音未碎/石也</hi>砩<hi>扶勿切石名女交切䂩沙藥也/音鬰山/石皃/也曷切/麤石</hi>磆<hi>音滑磆/石也</hi>䃙<hi>音鹿/石也/音独石名</hi>
+砯<hi>普氷切水擊石声</hi>硉<hi>郎几切硉/矹危石也</hi>矹<hi>五忽切/硉矹/都歷切/石也</hi>
+                    <graphic n="KR2948" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2948.png" mimeType="image/png"/>
+                    <hi>音朴/硝石/音孰石名</hi>
+碢<hi>徒禾切石/同上又飛/甎戲也</hi>砣<hi>同上/石也/音莫沙/也</hi>䂸<hi>音掴擊/石也</hi>砳<hi>力麥切石声</hi>
+磈<hi>口罪切礧磈石也</hi>礧<hi>洛罪切/不平也</hi>碦<hi>音客石/堅也</hi>硆<hi>五合切/石/硆</hi>䃳<hi>音臘石/墮也</hi>砝<hi>音劫硬也</hi>
+䂺<hi>烏火切䂺石皃/五火切/石皃/音瀆/石名</hi>礮<hi>匹皃切/礮石/側角切/石也</hi>礇<hi>音郁玉似石張下切石皃/女下切/石皃</hi>䃗<hi>音剥/石也</hi>砄<hi>音央/石也</hi>䂰<hi>盧盍切/石也/音略石也</hi>
+碐<hi>力登切又吕升切</hi>磩<hi>音戚碝磩/石次玉也/音闕/石也/音獲切/石硬声</hi>矷<hi>音子/石名/匹忍切石也</hi>
+砲<hi>匹夘切石也又音雹</hi>硤<hi>侯夾切硤/石縣名/勒可切/山名</hi>碋<hi>乎可切司馬相如/梓桐山賦云</hi>磢<hi>側兩切石也</hi>
+<pb n="6b"/>
+磖<hi>力合切磖磔破物声</hi>
+                    <graphic n="KR2957" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2957.png" mimeType="image/png"/>
+                    <hi>巨俱切/磫<graphic n="KR2957" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2957.png" mimeType="image/png"/>
+                    </hi>
+︻磬部三百五十二<hi>凡九字</hi>磬<hi>口定切以石為/樂噐或作</hi>殸<hi>籕文又/口耕切</hi>㲆<hi>力京切多声徒到切年九十曰</hi>毊<hi>巨嬌切尓/雅云大磬/他曽切/声/口丁切/不可追/力冬切声也</hi>鏧<hi>同上</hi>
+︻<graphic n="KR0935" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0935.png" mimeType="image/png"/>部三百五十三<hi>凡二字</hi>
+                    <graphic n="KR0935" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0935.png" mimeType="image/png"/>
+                    <hi>多回切/小塊也/魚結切髙危也</hi>
+︻阜部三百五十四<hi>凡百九十三字</hi>阜<hi>扶九切大陸也山无石/也盛也肥也厚也長也</hi>
+                    <graphic n="KR0671" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0671.png" mimeType="image/png"/>
+                    <hi>同上/丘善切小塊八</hi>
+陵<hi>力升切大阜也犯也冡也摽也馳也陵遟也或作夌効</hi>附<hi>扶付切依也近也著也益也說文以附益為坿従此附作歩回切附婁小土山也今作培</hi>
+陰<hi>於今切黙也影也水南山北也闇也今作隂</hi>陶<hi>大刀切丘再成也鬰陶忘思也喜也陶丘有堯成堯居之故号陶唐氏又陶甄亦作匋又音揺</hi>
+陽<hi>余章切隂陽二氣也好日也山南水北也傷也清也双也/亡俱切/陜東縣</hi>陂<hi>彼皮切澤鄣也池也又碑偽切傾也邪也又普何切陂陀靡迆也</hi>
+陸<hi>力竹切厚也道也星也水无路也陸離猶參著也雜乱也/籕文古/文作</hi>䧊<hi>苦篤切/大阜</hi>隙<hi>丘㦸切閑也穿穴也璧際也裂也</hi>
+阿<hi>烏何切倚也太陵也北也曲也水岸也邸也丘也</hi>阽<hi>余占切/危也</hi>陛<hi>蒲礼切/天子階</hi>際<hi>子例切接也璧㑹也方也合也</hi>
+降<hi>古巷切落也下也㱕也又下江切降伏也亦作夅</hi>陾<hi>耳升切/築牆声</hi>陙<hi>时均切/小阜</hi>陪<hi>歩回切貳也隨也加也助也益也家臣也</hi>
+䧦<hi>為詭許為二切/地坂名</hi>阮<hi>牛逺切山/名又関名</hi>隖<hi>於古切/小障</hi>陲<hi>市規切/危也</hi>阹<hi>去居切依山谷為牛馬圉亦作</hi>
+隃<hi>式注式朱二切北陵在鴈門山</hi>陚<hi>方句切丘/也小阜也</hi>隈<hi>烏回切/水曲也</hi>䧕<hi>胡逼切/古域字</hi>院<hi>胡官切堅也周垣也亦作寏又王眷也</hi>
+<pb n="7a"/>
+䧰<hi>胡本切大阜也土山也</hi>阞<hi>來得切地/脉理也</hi>隰<hi>似立切/下濕也/同上</hi>險<hi>義檢切髙也邪也惡也難也危也阻也</hi>
+阪<hi>甫晚歩坂二切陂也脅也險也</hi>陜<hi>諧夾切不/廣亦作㣣</hi>隴<hi>力冢切/大坡/力罪切/磊也</hi>陬<hi>子侯側流二切隅也尓雅云正月為取</hi>
+隅<hi>牛俱切角也陬也</hi>阭<hi>余剸切髙/也地名也</hi>䧇<hi>於㡬切/坂名</hi>䦺<hi>多庭切/丘名</hi>陷<hi>乎監切墜入地也没也墮也隤也或作錎</hi>
+陮<hi>徒罪切陮隗不平也</hi>隗<hi>午罪切髙/也又狄姓/之矅切/界埸/知京切/丘名</hi>隊<hi>池類切從髙隊也失也又徒對切部也</hi>
+陖<hi>思俊切險也髙也亦作峻</hi>䧢<hi>丘俱切﨑/䧢或作嶇</hi>䦽<hi>詞旅切/今作序</hi>䧎<hi>乎大切/坑也</hi>阬<hi>口盎口庚二切虚也埳也地也亦作坑</hi>
+陗<hi>七肖切險也隱也亦作峭</hi>隕<hi>為愍切落/也墮也/似林切/小阜</hi>陠<hi>普胡切/哀也</hi>防<hi>扶方切備也郭也禁也隄也或作坊</hi>
+隥<hi>丁鄧切險阪也仰也或作蹬</hi>陊<hi>徒可切壞/也小崩也</hi>䦼<hi>普逼切/地哀/同上</hi>隒<hi>魚險切重甑也厓也方也又方撿切</hi>
+陋<hi>力豆切醜偎也隠小也阸陜也</hi>阤<hi>除爾切小/崩也落也</hi>䧁<hi>呼矩切/郷名/古崩字/壞也</hi>隩<hi>烏到切浦隩也水厓也又藏也亦作墺澳</hi>
+陟<hi>知直切登也髙也升也/丘營切危/也亦作傾</hi>䧆<hi>戸工切/也/尺善切/魯邑名</hi>隱<hi>於謹切不見也安也度也匿也</hi>
+隤<hi>徒回切壞墜也或作頺墤</hi>阢<hi>五回切崖/也亦作峞</hi>陌<hi>莫百切/阡陌</hi>䧞<hi>亡化切/益也</hi>陼<hi>之與切丘也說文如陼者陼丘中水髙也</hi>
+<graphic n="KR2419" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2419.png" mimeType="image/png"/>
+                    <hi>午結切危也不安也或作</hi>阸<hi>於賣切險/也塞也</hi>隘<hi>上同又陋/也陜也</hi>隵<hi>音羲/險也</hi>除<hi>直余直御二切去也開也疾愈也殿階也</hi>
+<graphic n="KR2902" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2902.png" mimeType="image/png"/>
+                    <hi>徒木切通溝也亦作瀆/胡買切小/溪亦作澥</hi>隁<hi>於建切/以畜水</hi>䧫<hi>胡刀切/城下道</hi>階<hi>古諧切登堂道也上也進也梯也級也</hi>
+隓<hi>許規切廢也毀也捐也亦作墮</hi>隋<hi>徒果切落/也懈也</hi>墮<hi>同上又/許規切</hi>
+                    <graphic n="KR1454" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1454.png" mimeType="image/png"/>
+                    <hi>力侯切/縣名</hi>阼<hi>才故切主階也阼酢東階所以荅酬賔客</hi>
+<pb n="7b"/>
+阺<hi>直黎丁兮二切阪也下也/其院切何/東安邑縣</hi>陭<hi>於竒切/陭氏縣/尺熖切/䧟也</hi>陯<hi>力均力昆二切山阜䧟也亦作淪</hi>
+陘<hi>下丁切限也山絶也又縣名</hi>䧘<hi>丈轉切道/邊庫垣/布木切/今作濮/丈如切/丘也</hi>阡<hi>青田切阡陌也/道也亦作圱</hi>
+障<hi>之尚之羊二切隔也或作㢓</hi>隔<hi>凡戹切塞/也障也</hi>隚<hi>徒郎切/今作堂</hi>隀<hi>音重/地名</hi>隑<hi>巨慨五哀二切梯也企立也不能行也</hi>
+限<hi>諧眼切界也度也阻也斉也</hi>陴<hi>婢支切城/上女墻/房中切/地名</hi>陑<hi>汝之切/地名</hi>隧<hi>似醉切羡道也掘地通路也或作</hi>
+陜<hi>式冉切弘農陜縣在/曰</hi>隌<hi>烏感切闇/也与晻同</hi>
+                    <graphic n="KR3382" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3382.png" mimeType="image/png"/>
+                    <hi>火哀切/地名</hi>隅<hi>語俱切/地名</hi>陀<hi>大何切陂陀險阻也俗作陁</hi>
+陔<hi>古䑓切階也隴也亦作垓/丁戈切小/堆亦作/市征切/山地名/丑申切/地名</hi>隄<hi>丁兮切塘也/又徒兮切</hi>䧑<hi>古文</hi>
+隍<hi>乎光切城下阬无水曰隍</hi>阾<hi>力凡切与/嶺同阪也</hi>陻<hi>於仁切/塞也</hi>敶<hi>直殄切/列也</hi>陳<hi>除珍切列也布/也或作/塵/古文</hi>
+阠<hi>所陳所隀二切東陵也</hi>阰<hi>婢吏切山/名在楚/許魚切/地名/音㚇/国名</hi>隝<hi>丁了丁老二/切今作島</hi>隯<hi>同上</hi>
+隆<hi>力中切中央髙也隆盛也</hi>隇<hi>於帰切隇/夷險阻也</hi>阷<hi>丑眞切/丘也/如陵切/地名/以之切/地名</hi>䧃<hi>達堅切地名</hi>
+䧜<hi>徒郎切長沙謂堤曰塘</hi>䧡<hi>弋龍切城/牆或作墉/音/地名/音凋山/穴名/音坡/陀不平</hi>陫<hi>音裴山名</hi>
+陞<hi>式陵切上也進也与升同/他玷切亭/名在京兆</hi>䧒<hi>力開切/階䧒也</hi>䧓<hi>音周大/阜皃</hi>䧌<hi>音雖/地名</hi>䦻<hi>咨以切地名丁乱切人名或作鍜碬</hi>陓<hi>於于切陽/陓秦薮名/音楚/阪也</hi>䧋<hi>呼典切/地名</hi>陡<hi>當口切/地名/歩等切山也呼嫁切裂也或作鏬㙤</hi>陣<hi>直鎭切師/旅本作陳</hi>䧉<hi>音里/亭名/乃礼切/地名/音兖/髙皃/徒罪切髙也</hi>
+<pb n="8a"/>
+䧨<hi>魚怯切險也危也今作業/池爾切/地名</hi>䧠<hi>市兖切/地名</hi>阧<hi>當口切/阧峻也</hi>隢<hi>音遶/地名</hi>䧝<hi>音蚩地名</hi>
+陒<hi>巾毀切山名亦作垝毀也/口狠切/遲也/音姑/地名/音巧/地名</hi>䧥<hi>言惠/陲名/音峻也</hi>
+隮<hi>子計子兮二切登也升也/它根切/多合皃/土禁切/䧯也</hi>䧔<hi>音念遇/在岸也</hi>䧯<hi>仕衘切/地名</hi>阣<hi>音盖又音屹</hi>
+䧛<hi>歩浪切附䧛也本作傍</hi>䧗<hi>符逼切/山也</hi>
+                    <graphic n="KR2101" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2101.png" mimeType="image/png"/>
+                    <hi>居六切/古岸</hi>阻<hi>壯㪯切險/也疑也</hi>阯<hi>之市时止二切基也或作址</hi>
+︻<graphic n="KR2342" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2342.png" mimeType="image/png"/>部三百五十五<hi>凡四字</hi>
+                    <graphic n="KR2342" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2342.png" mimeType="image/png"/>
+                    <hi>扶救切說文/兩阜之間/似醉切延道也今作隧於懈切陋也今作隘/所冀切阜䆕也</hi>
+︻厽部三百五十六<hi>凡三字</hi>厽<hi>力睡切累塹為牆壁也/尚書以參字七貪切</hi>垒<hi>力揆切累也亦作壘</hi>
+參<hi>千含切相謁也分也即三也又所今切星名亦作曑尺楚今切參差也亦作蔘</hi>
+大廣益㑹玉篇卷第二十二<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

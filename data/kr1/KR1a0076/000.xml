@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>易學濫觴</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　經部一<lb/>
+　易學濫觴　　　　　　易類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案易學濫觴一卷元黄澤撰澤字楚<lb/>
+　　　　望資州人家於九江大徳中嘗為景星書院<lb/>
+　　　　山長又為東湖書院山長年逾八十乃終故<lb/>
+　　　　趙汸生於元未猶及師事之其易與春秋之<lb/>
+　　　　學皆受之於澤者也澤垂老之時欲注易春<lb/>
+<pb n="1b"/>
+　　　　秋二經恐不能就故作此書及春秋指要發<lb/>
+　　　　其大凡卷首有延祐七年呉澄題辭據其所<lb/>
+　　　　言二書蓋合為一帙今春秋指要已無𫝊本<lb/>
+　　　　惟此書僅存朱彞尊經義考載此書注曰已<lb/>
+　　　　佚則彞尊亦未及見知為稀覯之本矣其説<lb/>
+　　　　易以明象為本其明象則以序卦為本其占<lb/>
+　　　　法則以左𫝊為主大㫖以王弼之廢象數遁<lb/>
+　　　　于元虚漢儒之用象數亦失于繁碎故折中<lb/>
+<pb n="2a"/>
+　　　　以酌其平其中厯陳易學不能復古者一曰<lb/>
+　　　　易之名義一曰重卦之義一曰逆順之義一<lb/>
+　　　　曰卦名之義一曰卦變之法一曰卦名一曰<lb/>
+　　　　易數之原一曰易之辭義一曰易之占辭一<lb/>
+　　　　曰蓍法一曰占法一曰序卦一曰脱誤疑字<lb/>
+　　　　凡十三事持論皆有根據雖未能勒為全書<lb/>
+　　　　而發明古義體例分明已括全書之宗要因<lb/>
+　　　　其説而推演之亦足為説易之圭臬矣乾隆<lb/>
+<pb n="2b"/>
+　　　　四十六年十月恭校上<lb/>
+　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="3a"/>
+易學濫觴原序<lb/>
+楚望夫子之註經其志可謂善矣易欲眀象春秋欲明<lb/>
+書法蓋將前無古後無今特出其所得之大概示人而<lb/>
+全註未易成也每以家貧年邁弗果速成其註為嗟世<lb/>
+亦有仁義之人能俾遂其志者乎予所不能必也道之<lb/>
+行與命也愛莫助之永歎而巳延祐第七立秋之後四<lb/>
+日臨川吳澄書於易學濫觴春秋指要之卷端<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

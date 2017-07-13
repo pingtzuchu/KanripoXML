@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4d0326_WYG_005-1a"/>
+方壺存稿<lb/>
+　徐誼書<lb/>
+誼頓首再拜叔耕秘正契友誼妄意欲以文學履行上<lb/>
+之於朝前書已常畧陳之矣今移牒州縣使備書吏筆<lb/>
+札就宅上抄録著述又嘗以書嘱南老運幹董督其事<lb/>
+若春間畢事便當從南昌附奏恐州縣未悉此意先自<lb/>
+納之官劵以為紙筆之需辱領畧幸甚百懐續得叙布<lb/>
+不宣誼頓首再拜<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4f0001_WYG_348-1a"/>
+　欽定四庫全書<lb/>
+聖祖仁皇帝御製文第四集巻二十四目録<lb/>
+　　銘<lb/>
+　　　雕畫盤中果銘<lb/>
+　　題䟦<lb/>
+　　　題沈宗敬畫<lb/>
+　　文<lb/>
+　　　欽若昊天厯象日月星辰敬授人時<lb/>
+<pb n="KR4f0001_WYG_348-1b"/>
+　　　於緝熈敬止為人君止於仁為人臣止於敬為人<lb/>
+　　　　子止於孝為人父止於慈與國人交止於信<lb/>
+　　　事父母能竭其力事君能致其身<lb/>
+　　　溥博淵泉而時出之溥博如天淵泉如淵見而民<lb/>
+　　　　莫不敬言而民莫不信行而民莫不說<lb/>
+　　　由堯舜至於湯五百有餘嵗若禹臯陶則見而知<lb/>
+　　　　之若湯則聞而知之由湯至於文王五百有餘<lb/>
+　　　　嵗若伊尹萊朱則見而知之若文王則聞而知<lb/>
+<pb n="KR4f0001_WYG_348-2a"/>
+　　　之由文王至於孔子五百有餘嵗若太公望散<lb/>
+　　　冝生則見而知之若孔子則聞而知之<lb/>
+　　烏鬚文<lb/>
+　頌<lb/>
+　　景福宫頌<lb/>
+　　寜夀宫頌<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

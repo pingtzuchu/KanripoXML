@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>續名醫類案</head>
+    <p>
+<pb n="KR3e0096_WYG_000-1a"/>
+欽定四庫全書　　　　　子部五<lb/>
+　續名醫類案　　　　　　醫家類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案續名醫類案六十卷<lb/>
+　　　國朝魏之琇撰之琇既校刋江瓘名醫類案病<lb/>
+　　　　其尚有未備因續撰此編雜取近代醫書及<lb/>
+　　　　史傳地志文集説部之類分門排纂大抵明<lb/>
+　　　　以來事為多而古事為瓘書所遺者亦間為<lb/>
+<pb n="KR3e0096_WYG_000-1b"/>
+　　　　補苴故網羅繁富細大不捐如疫門神人教<lb/>
+　　　　用香蘇散二條猶曰存其方也至脚門載張<lb/>
+　　　　文定患脚疾道人與緑豆兩粒而愈一條是<lb/>
+　　　　斷非常食之緑豆豈可録以為案又如金瘡<lb/>
+　　　　門載薜衣道人接已斷之首使人囘生一條<lb/>
+　　　　無藥無方徒以語怪更與醫學無闗如斯之<lb/>
+　　　　類往往而是殊不免蕪雜义蟲獸傷門於薛<lb/>
+　　　　立齋蚊蟲入耳一條註曰此案耳門亦收之<lb/>
+<pb n="KR3e0096_WYG_000-2a"/>
+　　　　非重出也恐患此者不知是蟲便檢閲耳云<lb/>
+　　　　云而腹疾門中載金臺男子誤服乾薑理中<lb/>
+　　　　丸發狂入井一條隔五六頁而重出又是何<lb/>
+　　　　義例乎編次尤未免潦草然採摭既博變證<lb/>
+　　　　咸備實足與江瓘之書互資參考又所附案<lb/>
+　　　　語尤多所發明辨駁較諸空談醫理固有實<lb/>
+　　　　徴虚揣之别焉乾隆四十六年十二月恭校<lb/>
+　　　　上<lb/>
+<pb n="KR3e0096_WYG_000-2b"/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

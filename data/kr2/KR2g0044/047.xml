@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>八旗滿洲氏族通譜目録</head> <lb/>
+    <p>
+<pb n="KR2g0044_WYG_047-1a"/>
+欽定四庫全書<lb/>
+　八旗滿洲氏族通譜目録<lb/>
+　　卷二十三<lb/>
+　　烏喇地方納喇氏<lb/>
+　　　達爾漢　　　　　　阿布泰<lb/>
+　　　圗達理　　　　　　羅薩<lb/>
+　　　滿都布禄　　　　　常住<lb/>
+　　　莽鑑台齊　　　　　謨爾渾<lb/>
+<pb n="KR2g0044_WYG_047-1b"/>
+　　　布哈納　　　　　　喀克錫<lb/>
+　　　愛音榖魯　　　　　博瑚察<lb/>
+　　　那秦　　　　　　　阿拜<lb/>
+　　　諾錫　　　　　　　揚吉努<lb/>
+　　　喀喇<lb/>
+　　　　　以上俱有𫝊<lb/>
+　　　阿爾泰　　　　　　温泰<lb/>
+　　　瑪哈　　　　　　　揚福<lb/>
+<pb n="KR2g0044_WYG_047-2a"/>
+　　　洪愛　　　　　　　阿蘭泰<lb/>
+　　　薩穆哈　　　　　　遼東<lb/>
+　　　阿山　　　　　　　拜那<lb/>
+　　　郎阿理　　　　　　阿爾瑚<lb/>
+　　　察哈岱　　　　　　齊瑪庫<lb/>
+　　　額禮肯　　　　　　瑚錫哈<lb/>
+　　　濟蘭太　　　　　　代敏<lb/>
+　　　喀爾喀瑪　　　　　博濟達<lb/>
+<pb n="KR2g0044_WYG_047-2b"/>
+　　　東阿　　　　　　　納穆<lb/>
+　　　班布泰　　　　　　阿林<lb/>
+　　　金泰　　　　　　　九塞<lb/>
+　　　陶資　　　　　　　徳奇訥<lb/>
+　　　芬泰　　　　　　　那穆達理<lb/>
+　　　　　以上俱附載<lb/>
+　　哈達地方納喇氏<lb/>
+　　　吳爾瑚達　　　　　海塔<lb/>
+<pb n="KR2g0044_WYG_047-3a"/>
+　　　卓内　　　　　　　蘇巴海<lb/>
+　　　約蘭　　　　　　　夏瑚<lb/>
+　　　阿敦　　　　　　　達雅理<lb/>
+　　　哲爾徳　　　　　　喀尼穆都珠瑚<lb/>
+　　　都琥禪　　　　　　明安<lb/>
+　　　彰實　　　　　　　赫書<lb/>
+　　　賽圖　　　　　　　碩舒堪<lb/>
+　　　英阿　　　　　　　鄂倫<lb/>
+<pb n="KR2g0044_WYG_047-3b"/>
+　　　綽爾賽　　　　　　丹達理<lb/>
+　　　音泰<lb/>
+　　　　　以上俱有𫝊<lb/>
+　　　喀喇　　　　　　　金塔錫<lb/>
+　　　吉那宻　　　　　　瓦克善<lb/>
+　　　顔岱　　　　　　　錫爾泰<lb/>
+　　　雅克星阿　　　　　雅理布<lb/>
+　　　納秦　　　　　　　凖拜<lb/>
+<pb n="KR2g0044_WYG_047-4a"/>
+　　　滿都瑚　　　　　　伊札拉費揚古<lb/>
+　　　圖努瑚　　　　　　三台<lb/>
+　　　瑚圖理　　　　　　華喇<lb/>
+　　　拜音布　　　　　　阿那布<lb/>
+　　　額爾徳尼　　　　　賽布琥<lb/>
+　　　芳凱　　　　　　　噶爾珠<lb/>
+　　　博羅　　　　　　　瓦渾<lb/>
+　　　邁宻泰　　　　　　阿濟理<lb/>
+<pb n="KR2g0044_WYG_047-4b"/>
+　　　和托　　　　　　　瑪克占<lb/>
+　　　台音察　　　　　　喀尼穆<lb/>
+　　　武巴海　　　　　　巴實<lb/>
+　　　岱珠琥　　　　　　額克楚尼<lb/>
+　　　穆成額　　　　　　賚圗<lb/>
+　　　倫拜　　　　　　　肇國光<lb/>
+　　　格都爾備　　　　　邁圗<lb/>
+　　　義常　　　　　　　賚善<lb/>
+<pb n="KR2g0044_WYG_047-5a"/>
+　　　　　以上俱附載<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

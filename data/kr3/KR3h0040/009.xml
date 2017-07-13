@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3h0040_SBCK_009-1a"/>
+跋<lb/>
+法書考八卷元盛熙明著舊寫本字迹精雅十一行二十字有<lb/>
+西齋居士朱文印延陵邨吳暻字元朗白文印小重山館藏朱<lb/>
+文長印今歸上海涵芬樓所藏曹楝亭任兩淮鹽政時於揚州<lb/>
+詩局刊書十二種寫刻精湛爲世所重其書多屬孤本祕笈向<lb/>
+未刊行者然披覽之餘奪譌迭見惜無別本可資參證余發憤<lb/>
+從事校讎頻歲以來十獲八九獨法書考訪求舊本苦不可得<lb/>
+今春南游觀書涵芬樓獲覩此册重其爲梅村祭酒令子所藏<lb/>
+當有佳勝因從張菊生前輩假得攜歸亟取詩局本一校開卷<lb/>
+首葉書譜小引傳於後者句下卽脫皆可歷數至於謬當虛名<lb/>
+庸亦有之其餘泯滅無聞者凡二十一字其評論上中下三品<lb/>
+吳本橫排爲表式三格刊本改爲直行順下諸人評論吳本作<lb/>
+<pb n="KR3h0040_SBCK_009-1b"/>
+小字注人名下刊本改爲大字別行次序偶有凌亂脫誤尤難<lb/>
+悉舉卷一勘畢已改訂三百餘字欣喜過望因欲奮筆終篇及<lb/>
+校至卷二以下則荆棘橫生榛蕪滿目正訛補逸腕脫不休卒<lb/>
+至閣筆輟校而後已然後歎刊是書者其鹵莽滅裂殆非意想<lb/>
+所及讀者舍取吳本重抄固別無捄正之良策也茲舉其錯簡<lb/>
+脫文删節三端粗述於左其小小差違不暇及焉<lb/>
+卷七宗學章姜堯章說追蹤鍾王句下錯簡<lb/>
+又孫過庭說但求平正句下錯簡<lb/>
+又臨摹章姜堯章說易於成就句下錯簡<lb/>
+卷八印章類軍曲侯丞章注引嬾眞錄今印文榜額有之句下<lb/>
+錯簡<lb/>
+又押署跋尾類當時鑒識藝人押署跋尾句下錯簡<lb/>
+<pb n="KR3h0040_SBCK_009-2a"/>
+又印法類別爲一體摹印屈曲句下錯簡<lb/>
+卷二十體書斷小篆下八分隸書章草行書飛白草書凡六類<lb/>
+皆脫失僅存草書後姜堯章說二十行<lb/>
+卷二删節者二條<lb/>
+卷三删節者八條<lb/>
+卷四删節者二十二條<lb/>
+卷五删節者六條<lb/>
+卷六删節者五條<lb/>
+辛未六月朔日晨起坐水廊校畢記江安傅增湘<lb/>
+<pb n="KR3h0040_SBCK_009-2b"/>
+<pb n="KR3h0040_SBCK_009-2b"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>延平答問</head>
+    <p>
+<pb n="KR3a0041_WYG_000-1a"/>
+欽定四庫全書　　　　子部一<lb/>
+　延平答問　　　　　　　儒家類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案延平答問一巻附錄一卷宋朱子<lb/>
+　　　　撰程子之學一傳為楊時再𫝊為羅從彦又<lb/>
+　　　　再𫝊為李侗侗字愿中延平其所居也侗於<lb/>
+　　　　朱子為父執紹興二十三年朱子二十四嵗<lb/>
+　　　　將赴同安主簿任往見侗於延平始從受學<lb/>
+<pb n="KR3a0041_WYG_000-1b"/>
+　　　　紹興三十年同安任滿再見侗僅留月餘又<lb/>
+　　　　閲四載而侗殁計前後相從不過數月故書<lb/>
+　　　　札往來問答為多後朱子輯而錄之又載其<lb/>
+　　　　與劉平甫二條以成是書朱子門人又取朱<lb/>
+　　　　子平昔論延平語及祭文行狀別為一巻題<lb/>
+　　　　曰附錄明非朱子原本所有也後侗裔孫葆<lb/>
+　　　　初別掇拾侗之詩文増入一卷改題曰延平<lb/>
+　　　　文集且總題為朱子所編殊失其舊今仍錄<lb/>
+<pb n="KR3a0041_WYG_000-2a"/>
+　　　　原本而葆初竄亂之本別存目於集部焉乾<lb/>
+　　　　隆四十六年十月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

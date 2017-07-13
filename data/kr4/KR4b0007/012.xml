@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4b0007_SBCK_012-1a"/>
+　序<lb/>
+　　羅履素詩集序<lb/>
+　　兩浙觀風詩序<lb/>
+　　山東鄉試錄序<lb/>
+　　别三子序<lb/>
+　　炁候圖序<lb/>
+　　重刋文章軌範序<lb/>
+　　贈林以吉歸省序<lb/>
+　　送宗伯喬白巖序<lb/>
+　　别張常甫序<lb/>
+<pb n="KR4b0007_SBCK_012-1b"/>
+　　别湛甘泉序<lb/>
+　　夀湯雲谷序<lb/>
+　　文山别集序<lb/>
+　　贈周瑩歸省序<lb/>
+　　贈林典卿歸省序<lb/>
+　　送别省吾林都憲序<lb/>
+　　贈陸淸伯歸省序<lb/>
+　　送南元善入　覲序<lb/>
+　　别梁日孚序<lb/>
+　　豫軒都先生八十夀封序<lb/>
+<pb n="KR4b0007_SBCK_012-2a"/>
+　　送黄敬夫先生僉憲廣西序<lb/>
+　　高平縣志序<lb/>
+<pb n="KR4b0007_SBCK_012-2b"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

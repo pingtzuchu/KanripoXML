@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2m0055_WYG_027-1a"/>
+欽定四庫全書<lb/>
+大清律例卷六目錄<lb/>
+　吏律<lb/>
+　　職制<lb/>
+　　　官員襲廕<lb/>
+　　　大臣專擅選官<lb/>
+　　　文官不許封公侯<lb/>
+　　　濫設官吏<lb/>
+<pb n="KR2m0055_WYG_027-1b"/>
+　　　信牌<lb/>
+　　　貢舉非其人<lb/>
+　　　舉用有過官吏<lb/>
+　　　擅離職役<lb/>
+　　　官員赴任過限<lb/>
+　　　無故不朝叅公座<lb/>
+　　　擅勾屬員<lb/>
+　　　姦黨<lb/>
+<pb n="KR2m0055_WYG_027-2a"/>
+　　　交結近侍官員<lb/>
+　　　上言大臣徳政<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

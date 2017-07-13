@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3a0110_WYG_030-1a"/>
+欽定四庫全書<lb/>
+御覽經史講義卷二十四目録<lb/>
+　　　禮記<lb/>
+　　君子莊敬日強安肆日偷<lb/>
+　　　　　　　　　　　　　編修<hi>臣</hi>龔學海<lb/>
+　　君子莊敬日強<lb/>
+　　　　　　　　　　　監察御史<hi>臣</hi>孫宗溥<lb/>
+　　子言之事君先資其言拜自獻其身以成其信<lb/>
+<pb n="KR3a0110_WYG_030-1b"/>
+　　　　　　　　　　　　給事中<hi>臣</hi>劉方藹<lb/>
+　　事君大言入則望大利小言入則望小利<lb/>
+　　　　　　　　　　　監察御史<hi>臣</hi>鄒一桂<lb/>
+　　子曰邇臣守和宰正百官大臣慮四方<lb/>
+　　　　　　　　　　　監察御史<hi>臣</hi>張　湄<lb/>
+　　子言之曰為上易事也為下易知也則刑不煩矣<lb/>
+　　　　　　　　　　　　　編修<hi>臣</hi>蔡　新<lb/>
+　　子曰下之事上也不從其所令從其所行上好是<lb/>
+<pb n="KR3a0110_WYG_030-2a"/>
+　　　物下必有甚焉者矣故上之所好惡不可不慎<lb/>
+　　　也是民之表也<lb/>
+　　　　　　　　　　　監察御史<hi>臣</hi>熊學鵬<lb/>
+　　子曰上好仁則下之為仁爭先人故長民者章志<lb/>
+　　　貞敎尊仁以子愛百姓民致行已以說其上矣<lb/>
+　　　　　　　　　　　　　編修<hi>臣</hi>張為儀<lb/>
+　　子曰為上可望而知也為下可述而志也則君不<lb/>
+　　　疑於其臣而臣不惑於其君矣<lb/>
+<pb n="KR3a0110_WYG_030-2b"/>
+　　　　　　　　　　　　　修撰<hi>臣</hi>莊有恭<lb/>
+　　子曰有國家者章善癉惡以示民厚則民情不貳<lb/>
+　　　詩云靖共爾位好是正直<lb/>
+　　　　　　　　　　　　給事中<hi>臣</hi>馬宏𤦺<lb/>
+　　君民者章好以示民俗慎惡以御民之淫則民不<lb/>
+　　　惑矣<lb/>
+　　　　　　　　　　　監察御史<hi>臣</hi>張　湄<lb/>
+　　民以君為心君以民為體心莊則體舒心肅則容<lb/>
+<pb n="KR3a0110_WYG_030-3a"/>
+　　　敬心好之身必安之君好之民必欲之<lb/>
+　　　　　　　　　　　侍講學士<hi>臣</hi>蒋　溥<lb/>
+　　子曰民以君為心君以民為體<lb/>
+　　　　　　　　　　　監察御史<hi>臣</hi>劉方藹<lb/>
+　　近文章砥厲亷隅<lb/>
+　　　　　　　　　　　　　編修<hi>臣</hi>張九鎰<lb/>
+　　財聚則民散財散則民聚<lb/>
+　　　　　　　　　　　侍講學士<hi>臣</hi>熊暉吉<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

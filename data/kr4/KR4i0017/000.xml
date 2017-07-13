@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>珊瑚鉤詩話</head>
+    <p>
+<pb n="KR4i0017_WYG_000-1a"/>
+欽定四庫全書　　　　　集部九<lb/>
+　珊瑚鉤詩話　　　　　　詩文評類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案珊瑚鉤詩話三巻宋張表臣撰表<lb/>
+　　　　臣字正民里貫未詳官右承議郎通判常州<lb/>
+　　　　軍州事紹興中終於司農丞是編名曰珊瑚<lb/>
+　　　　鉤者取杜甫詩文采珊瑚鉤句也其書雖以<lb/>
+　　　　詩話為名而多及他文間涉雜事不盡論詩<lb/>
+<pb n="KR4i0017_WYG_000-1b"/>
+　　　　之語又好自載其詩務表所長器量亦殊淺<lb/>
+　　　　狹其論杜甫遊龍門奉先寺詩改天闕為天<lb/>
+　　　　閲引據支離已為前人所駁又如論杜牧擬<lb/>
+　　　　把一麾江南去句以為誤用顔延年語以麾<lb/>
+　　　　斥之麾為麾旄然考崔豹古今註曰麾者所<lb/>
+　　　　以指麾也武王執白旄以麾是也乗輿以黄<lb/>
+　　　　諸公以朱刺史二千石以纁據其所説則刺<lb/>
+　　　　史二千石乃得建麾牧將乞郡故有擬把一<lb/>
+<pb n="KR4i0017_WYG_000-2a"/>
+　　　　麾之語未可云誤表臣所論亦非也然表臣<lb/>
+　　　　生當北宋之末猶及與陳師道遊與晁説之<lb/>
+　　　　尤相善故其論詩往往得元祐諸人之餘緒<lb/>
+　　　　在宋人詩話之中固與惠洪冷齋夜話在伯<lb/>
+　　　　仲之間矣乾隆四十六年十月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

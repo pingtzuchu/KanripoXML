@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>珊瑚網</head>
+    <p>
+<pb n="KR3h0060_WYG_000-1a"/>
+欽定四庫全書　　　　　子部八<lb/>
+　珊瑚網　　　　　　　　藝術類一<hi>書畫之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案珊瑚網四十八卷明汪砢玉撰砢<lb/>
+　　　　玉有古今鹺畧已著録是書成于崇禎癸未<lb/>
+　　　　凡法書題跋二十四卷名畫題跋二十四卷<lb/>
+　　　　朱彞尊靜志居詩話稱砢玉留心著𫐠所輯<lb/>
+　　　　珊瑚網一編與張丑清河書畫舫真蹟日録<lb/>
+<pb n="KR3h0060_WYG_000-1b"/>
+　　　　並駕葢丑自其髙祖維慶曾祖子和祖約之<lb/>
+　　　　父茂實四世鑒藏砢玉亦以其父愛荆與嘉<lb/>
+　　　　興項元汴交好築凝霞閣以貯書畫收藏之<lb/>
+　　　　富甲于一時其有所凴藉約畧相等故皆能<lb/>
+　　　　搜羅薈萃勒為巨編然丑之二書前後編次<lb/>
+　　　　嵗月皆未明晰砢玉是書則前列題跋後附<lb/>
+　　　　論説較丑書綱領節目秩然有條惟其所載<lb/>
+　　　　法書頗有目睹耳聞據以著録不盡其所自<lb/>
+<pb n="KR3h0060_WYG_000-2a"/>
+　　　　藏乃一例登載皆不註明未免稍無區别中<lb/>
+　　　　間原蹟全文或載或否亦絶無義例又如謂<lb/>
+　　　　唐刻定武蘭亭有二石焦山瘞鶴銘有三石<lb/>
+　　　　則真<graphic n="KR0915" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0915.png" mimeType="image/png"/>不别以李邕書雲麾將軍李秀碑誤<lb/>
+　　　　為李思訓碑以宋人所刻臨江帖誤為唐搨<lb/>
+　　　　則考据亦未盡精審其所載名畫則宋元諸<lb/>
+　　　　家銘心絶品收録極詳贉素之富誠為罕有<lb/>
+　　　　後來卞永譽式古堂書畫考厲鶚南宋院畫<lb/>
+<pb n="KR3h0060_WYG_000-2b"/>
+　　　　録實皆藉是書以成較在書跋之上至於書<lb/>
+　　　　跋之後附以書㫖書品之類畫跋之後附以<lb/>
+　　　　畫繼畫評之類皆雜録舊文挂一漏萬枝指<lb/>
+　　　　駢拇兩集相同以原本所有姑仍録之云爾<lb/>
+　　　　乾隆四十六年十二月恭校上<lb/>
+　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4c0109_SBCK_002-1a"/>
+白蓮集卷第二<lb/>
+　　　　　　　　廬　岳　僧　齊　己　撰<lb/>
+　　　寄鄭谷郎中<lb/>
+清名喧省閣雅頌出吾唐叠嶠供秋望無雲到夕陽自<lb/>
+封修葯院别掃著僧牀㡬夣中朝亊依依鵷鷺行<lb/>
+　　　㱕雁<lb/>
+塞门春已暖連影𧺫蘋風雲夣千行去湘川一亱空江<lb/>
+人休舉網虜將又虚弓莫失南来伴衡陽樹即紅<lb/>
+　　　登大林寺觀白太傅題版<lb/>
+九疊蒼崕裏禅家鑿翠開清時誰夣到白傅獨尋来怪<lb/>
+石和僧㝎闲雲共鶴廽任兹休去者心是不然灰<lb/>
+<pb n="KR4c0109_SBCK_002-1b"/>
+　　　贈<graphic n="KR1311" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1311.png" mimeType="image/png"/>松先輩<lb/>
+今歲赴春闈逹如夫子稀山中把卷去牓下注官㱕椘<lb/>
+月吟前落江禽酒外飛闲遊向諸寺却看白麻衣<lb/>
+　　　夏日江寺寄無上人<lb/>
+講終齋磬罷何䖏稱真心古寺髙杉下炎天獨院深燕<lb/>
+和江鳥語墻奪暮花陰大府多才子閒過在竹林<lb/>
+　　　夏日梅雨中寄睦公<lb/>
+梅月来林寺冥冥各闭门已應雙履跡全沒亂雲根琢<lb/>
+句心無味看經眼亦昬何時見晴霽招我凭巖軒<lb/>
+　　　傷鄭谷郎中<lb/>
+鍾陵千首㑅茟绝亦身終知落干戈裏誰家煨燼中吟<lb/>
+<pb n="KR4c0109_SBCK_002-2a"/>
+齋春長蕨釣渚亱鳴鴻惆悵秋江月曾招我看同<lb/>
+　　　<graphic n="KR0916" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0916.png" mimeType="image/png"/>行題友壁<lb/>
+山衲冝何䖏經行避暑深峰西多古寺日午亂松陰鶴<lb/>
+黙堪分静蝉涼觧助吟殷勤題壁去秋早此相尋<lb/>
+　　　别東林後寄囬修睦<lb/>
+昨亱從香社辭君出薜蘿晚来巾舃上已覺俗塵多逺<lb/>
+路萦芳草遥空共白波南朝在天末此去重經過<lb/>
+　　　古松<lb/>
+雷電不敢伐鱗皴势萬端蠧依枯莭死虵入朽根盤影<lb/>
+浸僧禅<graphic n="KR0668" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0668.png" mimeType="image/png"/>声吹鶴夣寒尋常風雨亱應有鬼神看<lb/>
+　　　夏日栖霞寺書懐寄張逸人<lb/>
+<pb n="KR4c0109_SBCK_002-2b"/>
+人中林下現名自有闲忙建業紅塵熱栖霞白石凉倚<lb/>
+身檉儿稳洒面瀑流香不似髙齋裡花連竹影長<lb/>
+　　　訪自牧上人不遇<lb/>
+然諾竟如何諸侯見重多髙房度江雨經月長寒莎道<lb/>
+本同騷雅書曾到薜蘿相尋未相見危阁望滄波<lb/>
+　　　題東林白蓮<lb/>
+大士生兠率空池滿白蓮秋風眀月下齋日影堂前色<lb/>
+後群芳坼香殊百和然誰知白染性一片好心田<lb/>
+　　　寄懐江西徴岷二律師<lb/>
+亂後江邊寺堪懐二律師幾畨新弟子一様舊威儀院<lb/>
+影連春竹窓声接雨池共缘山水癖乆别共題詩<lb/>
+<pb n="KR4c0109_SBCK_002-3a"/>
+　　　東林作寄金陵知已<lb/>
+十八賢貞在時来拂蘚看已知前亊逺更結後人難泉<lb/>
+滴勝清磬松香掩白檀慿君聴朝貴誰𣣔厭簮冠<lb/>
+　　　山寺喜道者<lb/>
+闰年春過後山寺始花𨳩還有無心者闲尋此境来鳥<lb/>
+幽声忽㫁茶好味重廽知住南岩乆冥心㘴緑苔<lb/>
+　　　再逰匡山<lb/>
+紫霄兼二老相對倚空寒乆别成衰病重来更上難徑<lb/>
+危雲母滑崖旱瀑流乾目㫁嵐煙際神僊有石壇<lb/>
+　　　贈浙西李推官<lb/>
+他皆恃勲貴君獨<graphic n="KR0738" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0738.png" mimeType="image/png"/>詩玄終日秋光裡無人竹影邉東<lb/>
+<pb n="KR4c0109_SBCK_002-3b"/>
+樓生倚月北固積吟煙闻說鴛行裏夛才復少年<lb/>
+　　　題终南山隐者室<lb/>
+终南山北面直下是長安自掃青苔室閒謌白石看風<lb/>
+吟窓樹老日晒竇雲乾時向圭峰宿僧房瀑布寒<lb/>
+　　　禅庭蘆竹十二韵呈鄭谷郎中<lb/>
+錯錯在禅庭髙冝與竹名徤添秋雨响乾助亱風清雀<lb/>
+静知枯折僧閒見笋生對吟殊洒落負氣甚孤貞宻謝<lb/>
+编欄固齊由灌溉<graphic n="KR0685" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0685.png" mimeType="image/png"/>松姿真可敵桞態薄難并映帶兼<lb/>
+苔石参差逸画楹雪霜消後色蟲鳥黙時聲逺憶滄洲<lb/>
+岸寒連暮角城幽根狂亂迸<graphic n="KR3684" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3684.png" mimeType="image/png"/>葉動相撑避暑湏<graphic n="KR0916" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0916.png" mimeType="image/png"/>㘴<lb/>
+迯眠必遶行未逢仙手詠俗眼見猶輕<lb/>
+<pb n="KR4c0109_SBCK_002-4a"/>
+　　　送孫鳳秀才赴舉<lb/>
+九重方側席四海仰文眀好把孤吟去便随公道行梁<lb/>
+園浮雪氣汴水漲春聲此日登僊衆君應最後生<lb/>
+　　　落花<lb/>
+朝開暮亦衰雨打復風吹古屋無人䖏殘陽滿地時静<lb/>
+依青藓片闲綴緑莎枝繁艶根株在眀年向此期<lb/>
+　　　秋苔<lb/>
+獨憐蒼翠文長與寂寥存鶴静窺秋片僧闲踏冷痕月<lb/>
+眀䟱竹徑雨歇敗莎根別有深宫裡兼花鎻㫁䰟<lb/>
+　　　老將<lb/>
+逐膚與<graphic n="KR0685" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0685.png" mimeType="image/png"/>戎曾居第一功眀時不用武白首向秋風馬<lb/>
+<pb n="KR4c0109_SBCK_002-4b"/>
+病霜飛草弓闲鴈過空免孫已成立膽氣亦英雄<lb/>
+　　　城中示友人<lb/>
+乆與寒灰合人中亦覺闲重城不鎖夣毎亱自㱕山雨<lb/>
+破冥鴻出梧桐井月還唯君道心在来往寂寥间<lb/>
+　　　送友人逰湘中<lb/>
+懐才難自住此去亦如僧何䖏西風亱孤吟旅舍燈路<lb/>
+㳂湘樹叠山入椘雲層君有東来扎㱕鴻亦可慿<lb/>
+　　　經費㣲君舊居<lb/>
+髙眠當聖代雲鳥未為孤天子徵不𧺫闲人親得無猿<lb/>
+猱狂𣣔墜水石怪難圗寂寞荒齋外松杉相倚枯<lb/>
+　　　巖陵釣䑓<lb/>
+<pb n="KR4c0109_SBCK_002-5a"/>
+夫子垂竿䖏空江照古䑓無人更如此白浪自成堆鶴<lb/>
+静尋山去魚狂入海廽登臨秋值晚樹石盡夛苔<lb/>
+　　　原上晚望<lb/>
+倚杖聊攄望寒原逺近分亱来何䖏火燒出古人墳野<lb/>
+势盤空澤江流合暮雲殘陽催百鳥各自著栖羣<lb/>
+　　　送惠空上人㱕<lb/>
+塵中名利热鳥外水雲闲吾子夛髙趣秋風獨自還空<lb/>
+囊随客棹幾宿泊湖山應有吟僧在鄰居樹影间<lb/>
+　　　酬章水知己<lb/>
+新吟忽有寄千里到荆门落日雲𥘉碧殘年眼漸昏己<lb/>
+為難敵手誰更入深論後信夛相寄吾生重此言<lb/>
+<pb n="KR4c0109_SBCK_002-5b"/>
+　　　闲居<lb/>
+漸覺春光媚塵銷㑅圡膏㣲寒放楊柳纎草入風騷睡<lb/>
+少全無病身輕乍去袍前溪泛紅片何䖏落金桃<lb/>
+　　　次韵酬鄭谷郎中<lb/>
+林下髙眠𧺫相招得句時闲门流水入静話鷺鷥知毎<lb/>
+許題成晚夛嫌雪阻期西齋㘴来乆風竹撼疎籬<lb/>
+　　　思逰峨睂寄林下諸友<lb/>
+剛有峨睂念秋来錫𣣔飛㑹抛湘寺去便逐蜀㠶㱕難<lb/>
+世堪言善闲人合見機殷勤別諸友莫厭椘江薇<lb/>
+　　　送劉秀才南逰<lb/>
+南去謁諸侯名山亦得逰便應尋瀑布乘興上岣嶁髙<lb/>
+<pb n="KR4c0109_SBCK_002-6a"/>
+鳥随雲𧺫寒星向地流相思應北望天晚石槁頭<lb/>
+　　　示諸侄<lb/>
+莫问年將朽加飡已不夛形容渾痩削行止强牽拖死<lb/>
+也何憂惱生而有詠謌候门終謝去却掃舊松蘿<lb/>
+　　　荆渚病中囙思匡廬遂成三百字寄梁先輩<lb/>
+生老病死者早闻天竺書相随幾汨沒不了堪欷歔自<lb/>
+理自可適他人誰與祛應當入寂㓕乃淂長銷除前月<lb/>
+巳骨立今朝還貌舒披衣試歩履倚策聊躊蹰江月青<lb/>
+眸冷秋風白髮䟱新題憶剡硾舊約懐匡廬張野乆絶<lb/>
+跡楽天曾卜居空龕掩薜荔瀑布歕蟾蜍古檜鳴玄鶴<lb/>
+<graphic n="KR0765" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0765.png" mimeType="image/png"/>泉躍錦魚狂吟樹䕃映縱踏花蔫菸唇舌旣已闲心<lb/>
+<pb n="KR4c0109_SBCK_002-6b"/>
+脾亦散攄松窓有偃息石徑無趦趄夣冷通仙闕神融<lb/>
+合太虚千峯杳靄際萬<graphic n="KR0676" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0676.png" mimeType="image/png"/>眀清𥘉長往期非晚半生閒<lb/>
+有餘依劉未是詠訪戴寕忘諸稽古堪求己觀時好笑<lb/>
+渠埋頭逐小利沒脚拖長裾道種將闲養情田把薬鉏<lb/>
+幽香彂蘭蕙穢莾摧丘墟散謂囊盈物那言庾滿儲㣲<lb/>
+煙動晨爨細雨滋園蔬藓亂珍禽羽门稀長者車冥機<lb/>
+坐兀兀著履行徐徐毎計親朱履夛怜奉隼旟簮嫌紅<lb/>
+玳瑁社念金芙蕖海内競鉄馬篋中藏𥿄驢常言謝時<lb/>
+去此意將何如<lb/>
+　　　竟陵遇晝公<lb/>
+髙跡何来此逰方漸老身𣣔投蓮岳夏𥘉過竟陵春錫<lb/>
+<pb n="KR4c0109_SBCK_002-7a"/>
+影離雲逺衣痕拂藓新無言即相别此䖏不迷津<lb/>
+　　　闻貫休下世<lb/>
+吾師詩匠者真箇碧雲流争淂梁太子更為文選樓錦<lb/>
+江新種樹㜈女舊山秋𣣔去焚香裏啼猿峽阻修<lb/>
+　　　金山寺<lb/>
+山帶金名逺樓䑓<graphic n="KR1062" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1062.png" mimeType="image/png"/>翠層<graphic n="KR1813" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1813.png" mimeType="image/png"/>龍光照象風浪影揺燈檻<lb/>
+外揚州樹舡通建業僧塵埃何所到青石㘴如氷<lb/>
+　　　早秋雨後晚望<lb/>
+暑氣時將薄蟲聲亱轉稠江湖經一雨日月换新秋有<lb/>
+景堪援茟何人未上樓𣣔承凉冷興西向碧嵩逰<lb/>
+　　　過西塞山<lb/>
+<pb n="KR4c0109_SBCK_002-7b"/>
+空江<graphic n="KR0685" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0685.png" mimeType="image/png"/>野流風島葦颼颼殘日銜西塞孤㠶向北洲邊<lb/>
+鴻渡漢口椘樹出吴頭終入髙雲裏身依片石休<lb/>
+　　　溪齋二首<lb/>
+豈敢言招隐㱕休喜自安一溪雲卧稳四海路行難瑞<lb/>
+獸藏頭角幽禽惜羽翰子猷何䖏在老盡碧琅玕<lb/>
+杉竹映溪關脩脩共歲寒幽人眠日晏花雨落春殘道<lb/>
+玅言何强詩玄論甚難闲居有親賦搔首憶潘安<lb/>
+　　　新秋<lb/>
+始驚三伏盡又遇立秋時露彩朝還冷雲峯晚更竒壠<lb/>
+香禾半熟原逈草微衰幸好清光裏安仁謾𧺫悲<lb/>
+　　　寄上荆渚囙夣廬岳乃阁壁賦詩<lb/>
+<pb n="KR4c0109_SBCK_002-8a"/>
+夣繞嵯峨裏神踈骨亦寒覚来誰共說壁上自圗看古<lb/>
+翠松藏寺春紅杏<graphic n="KR0668" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0668.png" mimeType="image/png"/>壇㱕心幾時遂日向漸衰殘<lb/>
+　　　己夘歲值凍阻㱕有作<lb/>
+河氷連地凍朔氣<graphic n="KR1062" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1062.png" mimeType="image/png"/>春寒闭户思㱕逺出门移歩難湖<lb/>
+雲粘鴈重廟樹括風乾㘴看孤燈㷔微微向晚殘<lb/>
+　　　送盧說亂後投知己<lb/>
+兵㓂殘江墅生涯盡蕩除亊堪煎桂玉時莫倚詩書暮<lb/>
+狖啼空半春山列雨餘舟中有新作廻寄示慵踈<lb/>
+　　　讀峴山碑<lb/>
+三載羊公政千年峴首碑何人㪅堕淚此道亦殊時兵<lb/>
+火燒文缺江雲觸蘚滋那堪望黎庻帀地是瘡痍<lb/>
+<pb n="KR4c0109_SBCK_002-8b"/>
+　　　過鹿门作<lb/>
+鹿门埋孟子峴首載羊公萬古千秋裏青山眀月中政<lb/>
+從㐮沔絶詩過洞庭空塵路誰囬眼松聲两䖏風<lb/>
+　　　題玉泉寺大師影堂<lb/>
+大化終華頂霊蹤示玉泉由来負髙尚合向好山川洞<lb/>
+壑藏諸怪杉松列痩煙千秌空樹影猶似覆長禅<lb/>
+　　　秌日銭塘作<lb/>
+秌光眀水國㳺子倚長亭海浸全呉白山澄百越青英<lb/>
+雄貴黎庶封圡絶精霊勾踐䰟如在應漸戦血腥<lb/>
+　　　送人赴舉<lb/>
+分有争忘得時来湏出山白雲終許在清世莫空還馹<lb/>
+<pb n="KR4c0109_SBCK_002-9a"/>
+樹秌聲徤行衣雨點斑眀年從月裏滿握度春關<lb/>
+　　　答人寒亱所寄<lb/>
+通宵亦孤㘴但念舊峰雲白日還如此清闲本共君二<lb/>
+毛凋一半百歲去三分早晚尋流水同㱕麋鹿群<lb/>
+　　　酬洞庭陳秀才<lb/>
+何必要識面見詩驚苦心此门從自古難学至如今青<lb/>
+草湖雲濶黄陵廟木深精搜當好景得即動知音<lb/>
+　　　題鶴鳴泉八韵<lb/>
+嘹嚦遺踪去澄眀物掩難噴開山面碧飛落寺门寒汲<lb/>
+引随瓶滿分流逐䖏安幽虫乗葉過渇狖擁條看上有<lb/>
+危峰叠旁冝怪石盤冷吞雙樹影甘润百毛端異早闻<lb/>
+<pb n="KR4c0109_SBCK_002-9b"/>
+鎸玉靈終别建壇潇湘在何䖏終日自波澜<lb/>
+　　　登金山寺<lb/>
+四面白波聲中流翠嶠横望来堪目㫁上徹始心<graphic n="KR0685" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0685.png" mimeType="image/png"/>鳥<lb/>
+向天涯去雲連水國生重来與誰約題罷自吟行<lb/>
+　　　寄吴都沈員外彬<lb/>
+歸休興若何朱紱盡還他自有園林濶誰争山水夛村<lb/>
+煙晴莾蒼僧罄晚嵯峨野酔題拈隐相思何䖏麽<lb/>
+　　　寄眀月山僧<lb/>
+山稱眀月好月出遍山眀要上諸峰去無妨半亱行白<lb/>
+猿真雪色幽鳥古琹聲吾子居来乆應忘我在城<lb/>
+　　　寄哭西川壇長廣濟大師<lb/>
+<pb n="KR4c0109_SBCK_002-10a"/>
+千萬僧中寳三朝帝寵身還原未化火举國葬全真文<lb/>
+集編金在碑銘刻玉新有誰於異代弹指禮遺塵<lb/>
+　　　酬西川椘巒上人卷<lb/>
+玉壘峨<graphic n="KR1453" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1453.png" mimeType="image/png"/>秀岷江錦水清古人搜不盡吾子得何精可<lb/>
+信由前集堪闻正後生東西五千里夛謝寄無成<lb/>
+　　　覧延西上人卷<lb/>
+今體雕鎪妙古風研考精何人忘律韵爲子辨詩聲賈<lb/>
+島苦兼此孟郊清獨行荆门見編集媿我老無成<lb/>
+　　　寄洛下王<graphic n="KR0595" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0595.png" mimeType="image/png"/>訓先軰二首<lb/>
+賈島存正始王維留格言千篇千古在一詠一驚䰟離<lb/>
+别無他寄相思共此门陽春堪永恨郢路轉塵昏<lb/>
+<pb n="KR4c0109_SBCK_002-10b"/>
+北極新英主髙科舊少年風流傳貴逹談笑取榮遷浴<lb/>
+水秋空底嵩峰暁翠巔尋常誰並馬橋上戲成篇<lb/>
+　　　酬岳陽李主簿卷<lb/>
+把卷思髙興瀟湘濶浸门無雲生翠浪有月動清䰟倚<lb/>
+檻應窮底凝情合到源爲君吟所寄難甚至忘筌<lb/>
+　　　寄懐江西僧逹禅翁<lb/>
+長憶舊山日與君同聚沙未䏻精貝葉便学詠楊花苦<lb/>
+甚傷心骨清還切齒牙何妨繼餘習前世是詩家<lb/>
+　　　送吴守眀先軰逰蜀<lb/>
+憑君逰蜀去細爲話幽竒丧亂嘉陵馹塵埃賈島詩未<lb/>
+應過錦府且合上峨<graphic n="KR1453" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1453.png" mimeType="image/png"/>既遂髙科後東西任所之<lb/>
+<pb n="KR4c0109_SBCK_002-11a"/>
+　　　寄普眀大師可凖<lb/>
+蓮嶽三微者論詩舊與君相留曾幾歲酬唱有新文翠<lb/>
+竇容闲憇嵐峯許共分當年若同訪合得伴吟雲<lb/>
+　　　還黄<graphic n="KR0685" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0685.png" mimeType="image/png"/>素秀才卷<lb/>
+求己甚忘筌得之經渾然僻䏻離詭差清不尚妖妍冷<lb/>
+淡闻姚監精竒見浪僊如君好風格自可繼前賢<lb/>
+　　　與張先軰話别<lb/>
+為　者各自話離心及第還全蜀逰方歸二林巴<lb/>
+江　漲椘野入吴深他日傳消息東㱕不易尋<lb/>
+　　　寄朱拾遺<lb/>
+一闻㱕闕下幾畨熟金桃滄海期仍晚清資路漸髙研<lb/>
+<pb n="KR4c0109_SBCK_002-11b"/>
+氷濡諌茟賦雪擁朝袍豈念空林下冥心㘴石劳<lb/>
+　　　荆门送興禅師<lb/>
+灑落南宗子逰方跡似雲青山尋䖏處赤葉路纷紛虎<lb/>
+共松岩宿猿和石溜闻何峯一回首憶我在人羣<lb/>
+　　　過西山施睂吾舊居<lb/>
+大志終難𧺫西峯卧翠堆牀前到秋<graphic n="KR0676" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0676.png" mimeType="image/png"/>枕上過春雷鶴<lb/>
+見丹成去僧闻栗熟来荒齋松竹老鸞鶴自徘徊<lb/>
+　　　喜夏雨<lb/>
+四郊雲影合千里雨聲来盡洗紅埃去併將清氣回潺<lb/>
+湲浮椘甸蕭散露荆臺𣣔賦随車瑞濡毫謁䛕才<lb/>
+　　　酬元員外見寄八韵<lb/>
+<pb n="KR4c0109_SBCK_002-12a"/>
+舊隐夣牽仍㱕心只似蒸逺青憐島峭輕白<graphic n="KR0738" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0738.png" mimeType="image/png"/>雲騰艶<lb/>
+冶叢翻蜨腥膻地聚蝇雨聲連洒竹詩興繼填膺訪戴<lb/>
+情彌切依劉力不勝衆人忘苦苦獨自愧兢兢䖏世無<lb/>
+他望流年有病僧時惭大雅客遺韵許相承<lb/>
+　　　浣口泊舟曉望天柱峯<lb/>
+根盤潛岳半頂遍日輪邉冷碧無雲點危稜有瀑懸秀<lb/>
+輕毛女下名與鼎湖偏誰見扶持力峩峩出後天<lb/>
+　　　寄椘萍上人<lb/>
+北面香爐秀南邉瀑布寒自来還獨去夏滿又秋殘日<lb/>
+影松杉亂雲容洞壑寛何峯是憐側片石許相安<lb/>
+　　　竹裏作六韵<lb/>
+<pb n="KR4c0109_SBCK_002-12b"/>
+我来深䖏㘴剩覺有吟思忽似瀟湘㟁𣣔生風雨時冷<lb/>
+煙濛古屋乾箨堕秋墀徑熱囙頻入身闲得遍欹踏多<lb/>
+鞭節損題亂粉痕墮猶見前山叠微茫隔短籬<lb/>
+　　　寄江西幕中孫鲂員外<lb/>
+簮履為官興芙蓉結社縁應思陶令酔時訪逺公禅茶<lb/>
+影中殘月松聲裏落泉此门曾共説知未遂終焉<lb/>
+　　　盆池<lb/>
+盆沼䧟花邉孤眀似玉泉<graphic n="KR0636" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0636.png" mimeType="image/png"/>虚心不淺待月底長圓<graphic n="KR0685" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0685.png" mimeType="image/png"/>
+稳承天泽依微泛曙煙何湏照菱鏡即此鍳媸妍<lb/>
+　　　喜乾晝上人逺相訪<lb/>
+彼此垂七十相逢意若何聖眀殊未至離亂㪅應夛澹<lb/>
+<pb n="KR4c0109_SBCK_002-13a"/>
+<pb n="KR4c0109_SBCK_002-14a"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

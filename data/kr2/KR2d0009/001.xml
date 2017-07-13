@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2d0009_WYG_001-1a"/>
+　　乾隆四十六年十月十六日奉<lb/>
+上諭四庫全書館進呈書内有宋葉隆禮奉勅所撰契<lb/>
+　丹國志其說採摘通鑑長編及諸說部書按年臚載<lb/>
+　抄撮成文中間體例混淆書法訛舛不一而足如書<lb/>
+　既名契丹國志自應以遼為主乃卷首年譜既標太<lb/>
+　祖太宗等帝而事實内或稱遼帝或稱國主豈非自<lb/>
+　亂其例又是書既奉南宋孝宗勅撰而評斷引宋臣<lb/>
+　胡安國語稱為胡文定公實失君臣之體甚至大書<lb/>
+<pb n="KR2d0009_WYG_001-1b"/>
+　遼帝紀元於上而以宋祖建隆等年號分注於下尤<lb/>
+　為紕繆夫梁唐晉漢周僭亂之主享國日淺且或稱<lb/>
+　臣稱兒稱孫於遼分注紀元尚可若北宋則中原一<lb/>
+　統豈得以春秋分國之例槩予分注於北遼之下又<lb/>
+　引胡安國論斷以劫迫其父開門納晉軍之楊承勲<lb/>
+　謂變而不失其正時承勲同父被晉圍慮禍及身乃<lb/>
+　劫其父致被晉戮而已受晉爵賞夫大義滅親父可<lb/>
+　施之子子不可施之父父即背叛子惟有一死以答<lb/>
+<pb n="KR2d0009_WYG_001-2a"/>
+　君親豈有蔑倫背義尚得謂之變而不失其正此乃<lb/>
+　胡安國華夷之見芥蔕於心右逆子而亂天經誠所<lb/>
+　謂胡說也其他乖謬種種難以枚舉朕詳加披覽經<lb/>
+　指駁者數十條館臣乃請撤出此部書朕以春秋天<lb/>
+　子之事是非萬世之公昨曽著正統辨論斷甚明今<lb/>
+　契丹國志既有成書紀載當存其舊惟體例書法訛<lb/>
+　謬於綱目大義有乖者不可不加釐正著總纂紀昀<lb/>
+　等詳加校勘依例改纂其志中之事蹟如祭用白馬<lb/>
+<pb n="KR2d0009_WYG_001-2b"/>
+　灰牛氊中枯骨變形視事及戴野豬頭披皮之事雖<lb/>
+　迹涉荒誕然與詩書所載簡狄吞卵姜嫄履武復何<lb/>
+　以異葢神道設教以溯發祥古今胥然義正如此又<lb/>
+　何必信逺而疑近乎其餘遼帝過舉如母后擅權諸<lb/>
+　事足為後世鑑戒者仍據志直書一字不可易該總<lb/>
+　裁等覆閲進呈候朕親定録入四庫全書並將此㫖<lb/>
+　書於簡端以昭綱常名教大公至正之義特諭<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

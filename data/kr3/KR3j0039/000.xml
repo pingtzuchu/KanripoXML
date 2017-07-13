@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>攷古編</head>
+    <p>
+<pb n="KR3j0039_WYG_000-1a"/>
+欽定四庫全書　　　　　子部十<lb/>
+　攷古編　　　　　　　　雜家類二<hi>雜考之屬</hi>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案攷古編十卷宋程大昌撰大昌有<lb/>
+　　　　易原已著録是編乃雜論經義異同及記傳<lb/>
+　　　　謬誤多所訂証其詩論十七篇反覆推闡大<lb/>
+　　　　抵謂詩有南雅頌之名無國風之名説極辨<lb/>
+　　　　博而究無解於禮記之所引故終為後人駁<lb/>
+<pb n="KR3j0039_WYG_000-1b"/>
+　　　　詰至正朔論謂雖首子以命月數而占星<lb/>
+　　　　定厯修祠舉事仍用夏時象刑論謂是刑官<lb/>
+　　　　取其法懸之象魏而不取畫衣冠異章服之<lb/>
+　　　　説其持論雖頗新異而旁引曲證亦能有所<lb/>
+　　　　據依他若以白居易樂府正韋述所記唐六<lb/>
+　　　　典不曽行用之誤以在張掖者乃鮮水非令<lb/>
+　　　　鮮水駁章懐太子所注後漢段熲傳之非以<lb/>
+　　　　漢書比景縣當從劉昫舊唐書作北景以荀<lb/>
+<pb n="KR3j0039_WYG_000-2a"/>
+　　　　　子所稱子弓即仲弓非馯臂子弓以瑯琊臺<lb/>
+　　　　　碑文証秦以前已嘗刻石皆典確明晰非泛<lb/>
+　　　　　為徵摭雖亞於容齋隨筆要勝於鄭樵軰之<lb/>
+　　　　　横議也乾隆四十六年十二月恭校上<lb/>
+　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

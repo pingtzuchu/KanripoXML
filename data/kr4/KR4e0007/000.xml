@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>鳯池吟稿</head>
+    <p>
+<pb n="KR4e0007_WYG_000-1a"/>
+欽定四庫全書　　　　集部六<lb/>
+　鳯池吟稿　　　　　　别集類五<hi>明</hi>
+　　提要<lb/>
+　　　　臣等謹案鳯池吟稿十巻明汪廣洋撰廣洋<lb/>
+　　　　字朝宗髙郵人流寓太平太祖渡江召為元<lb/>
+　　　　帥府令史厯官中書右丞封忠勤伯尋進右<lb/>
+　　　　丞相以與胡惟庸同位不能發其姦状坐貶<lb/>
+　　　　廣東于中途賜死事蹟具明史本傳廣洋少<lb/>
+<pb n="KR4e0007_WYG_000-1b"/>
+　　　　師余闕淹通經史善篆𨽻詩格清剛典重一<lb/>
+　　　　洗元人纎媚之習朱彛尊嘗摘其五言中之<lb/>
+　　　　平沙誰戱馬落日自登臺湖水當門落松雲<lb/>
+　　　　傍枕浮懐人當永夜看月上踈桐對客開春<lb/>
+　　　　酒當門掃落花天垂芳草地漁唱夕陽村等<lb/>
+　　　　句凡數十聨以為可入唐人主客圖静居北<lb/>
+　　　　郭猶當遜之毋論孟載其推重之如此而明<lb/>
+　　　　代論詩家流派者多未之及盖當時為宋濓<lb/>
+<pb n="KR4e0007_WYG_000-2a"/>
+　　　　諸人盛名所掩故世不甚稱然觀其遺作究<lb/>
+　　　　不愧一代開國之音也乾隆四十三年九月<lb/>
+　　　　恭校上<lb/>
+　　　　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="KR4e0007_WYG_000-3a"/>
+鳳池吟稿原序<lb/>
+昔人之論文者曰有山林之文有臺閣之文山林之文<lb/>
+其氣枯以槁臺閣之文其氣麗以雄豈惟天之降才爾<lb/>
+殊也亦以所居之地不同故其發扵言詞之或異耳濂<lb/>
+常以此而求諸家之詩其見扵山林者無非風雲月露<lb/>
+之形花木䖝魚之玩山川原隰之勝而已然其情曲以<lb/>
+暢故其音也𣺌以幽若夫處臺閣則不然覽乎城闕宫<lb/>
+觀之壯典章文物之懿甲兵卒乗之雄華夷㑹同之盛<lb/>
+<pb n="KR4e0007_WYG_000-3b"/>
+所以恢廓其心胸踔厲其志氣者無不厚也無不碩也<lb/>
+故不發則已發則其音淳龎而雍容鑑鍧而鏜鞳甚矣<lb/>
+哉所居之移人乎今觀中書右丞汪公之詩益信其說<lb/>
+為必然者矣公以絶人之資博極羣書素善屬文而尤<lb/>
+喜攻詩當皇上龍飛之時仗劍相從東征西伐多以戎<lb/>
+行故其詩震盪超越如鐵騎馳突而旗纛翩翩與之後<lb/>
+先及其治定功成海宇敉寧公則出持節鉞鎮安藩方<lb/>
+入坐朝堂弼宣政化故其詩典雅尊嚴類喬嶽雄峙而<lb/>
+<pb n="KR4e0007_WYG_000-4a"/>
+羣峰左右如揖如趨此無他氣與時値化隨心移亦其<lb/>
+勢之所宜也然而興王之運至音斯完有如公者受丞<lb/>
+弼之任吟咏所及無非可以宣教化而弼皇猷有物有<lb/>
+則民彛甚大非止昔人所謂臺閣之文而已而山林之<lb/>
+下誦公之詩者莫不被其霑溉之澤化枯槁而為豐腴<lb/>
+矣雖然詩之體有三曰風曰雅曰頌而已風則里巷歌<lb/>
+謡之辭多出扵氓𨽻婦女之手彷彿有類于山林雅頌<lb/>
+之製則施之扵朝㑹施之扵燕享非公卿大夫不足以<lb/>
+<pb n="KR4e0007_WYG_000-4b"/>
+為其近扵臺閣乎輶軒之使弗設而托之扵國風者若<lb/>
+無所用之皇上方埀意禮樂之事豈不有撰為雅頌以<lb/>
+為盛典乎濂盖有望扵公他日與鹿鳴駟牡諸作並傳<lb/>
+不朽者非公之詩而誰哉濂也不敏受公之知十有一<lb/>
+年故竊序其作者之意于篇首蕪纇之辭要不足為公<lb/>
+詩之重輕也公名某乃上之所賜其字則朝宗也淮南<lb/>
+人洪武三年四月二十一日金華宋濂序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

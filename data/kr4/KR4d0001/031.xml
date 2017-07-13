@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4d0001_SBCK_031-1a"/>
+　眀州重刋徐騎省文集後序<lb/>
+　騎省徐公文集三十卷天禧間尚書都官貟外郎<lb/>
+　胡君克順編録刋行且奉表上進<lb/>
+　章聖皇帝䧏詔奨諭参知恭政陳公彭年為之序<lb/>
+　引丞相晏元獻公復為後序騎省在江南有重名<lb/>
+　仕天朝為近侍以文翰忠直在當時諸公先既殁<lb/>
+　丞相趙郡李文正公實誌其墓所以稱述推尊之<lb/>
+　者甚至距今且二百年其英名偉莭得以不泯而<lb/>
+　為後學法者繄文集是賴年世夐逺兵火中厄鮮<lb/>
+　有存者偶得善本使公庫鏤板以傳紹興十九年<lb/>
+<pb n="KR4d0001_SBCK_031-1b"/>
+　十一月十日右朝議大夫充敷文閣待制知明州<lb/>
+　軍事提舉學事賜紫金魚袋徐　琛䟦<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

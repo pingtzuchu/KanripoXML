@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>天中記</head>
+    <p>
+<pb n="KR3k0049_WYG_000-1a"/>
+欽定四庫全書　　　　　子部十一<lb/>
+　天中記　　　　　　　　類書類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案天中記六十卷明陳耀文撰耀文<lb/>
+　　　　學問該博所著有學圃萱蘇正楊集諸書皆<lb/>
+　　　　别著於録此編見明史藝文志者六十卷今<lb/>
+　　　　世傳刻本止五十卷不加標目葢當時初刋<lb/>
+　　　　未定之本此本共六十卷目次與明史相合<lb/>
+<pb n="KR3k0049_WYG_000-1b"/>
+　　　　則其完書也明人類書所列舊籍大都沒其<lb/>
+　　　　出處至於憑臆増損無可徴信此書援引繁<lb/>
+　　　　富而皆能一一著所由來於體裁較善惟所<lb/>
+　　　　著書名或在條首或在條末為例未免不純<lb/>
+　　　　又如愆陽伏隂語出春秋左氏傳而引漢書<lb/>
+　　　　五行志為據則事始不的又第一卷内篇目<lb/>
+　　　　已畢而復綴以張衡大象賦一篇則編次失<lb/>
+　　　　倫此類亦往往疎於檢㸃然其自九流毖緯<lb/>
+<pb n="KR3k0049_WYG_000-2a"/>
+　　　　以逮僻典遺聞廣事蒐羅實可為博聞多識<lb/>
+　　　　之助且每條下間附案語如玉篇廣韻之解<lb/>
+　　　　誕字為生水經注之以苗茨堂為茅茨堂世<lb/>
+　　　　説注以錢唐為錢塘唐逸史之紀孫思邈年<lb/>
+　　　　代舛錯新唐書之載安祿山死日乖互皆為<lb/>
+　　　　抉摘其失其向來類家之相沿訛謬者如合<lb/>
+　　　　璧事類以狄兼謩為魏謩錦繡萬花谷以浮<lb/>
+　　　　圖泓為一行事文類聚以劉溉為到溉萬卷<lb/>
+<pb n="KR3k0049_WYG_000-2b"/>
+　　　　菁華以晉建元元年為漢武帝孔氏六帖以<lb/>
+　　　　三陽宫為逭暑宫凡若此者於𨽻事之中兼<lb/>
+　　　　資考據其典核尤諸家所未及范守已著曲<lb/>
+　　　　洧新聞以是書鶴門無浮丘翁王子晉丁令<lb/>
+　　　　威徐亞卿四事浦門無青浦黄浦等水頗譏<lb/>
+　　　　其漏不知巻帙既富徴事偶疎原所不保至<lb/>
+　　　　於川名澤號更僕難窮又安可以一二小水<lb/>
+　　　　失於登載遽訾其採摭之不廣乎其稱天中<lb/>
+<pb n="KR3k0049_WYG_000-3a"/>
+　　　　記者以耀文所居近天中山故也乾隆四十<lb/>
+　　　　二年十月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

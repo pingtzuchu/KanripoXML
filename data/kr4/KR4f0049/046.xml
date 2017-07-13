@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4f0049_SBCK_046-1a"/>
+　曾侍東皇太乙前酒龍謫下不知年花陰一覺游仙<lb/>
+　夢行遍壺中小有天<lb/>
+　噓吸乾坤瞬未移下窺濁界息相吹海流不到天無<lb/>
+　底始信三山未足奇　西溪漁者自題<lb/>
+　游仙詩三百首蓋先君子少作也以偶爾託興未嘗<lb/>
+　實版集中小子黼薰襲篋衍每一敬展手澤如新泫<lb/>
+　然何已同學鮑君以文績學嗜古亟請開雕不特敏<lb/>
+　求之足當實爾詩人不匱之遺矣黼其能無興感哉<lb/>
+　謹書末方以識鮑君用意之厚云乾隆辛巳中春志<lb/>
+　黼識于樊榭山房<lb/>
+<pb n="KR4f0049_SBCK_046-1b"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

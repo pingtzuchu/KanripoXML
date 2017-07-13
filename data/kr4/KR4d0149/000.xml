@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>提要<lb/>
+                </head>
+    <p>
+<pb n="KR4d0149_WYG_000-1a"/>
+欽定四庫全書　　　　　集部四<lb/>
+　提要<lb/>
+　　東忩集十六巻　　　　别集類三<hi>宋</hi>
+　　　　臣等謹案東忩集十六巻宋張擴撰擴字彦實<lb/>
+　　　　一字子㣲徳興人宋史不為立傳江西通志<lb/>
+　　　　載其崇寜中進士授國子監簿遷博士調處<lb/>
+　　　　州工曹召為秘書省校書郎尋充館職南渡歴<lb/>
+　　　　中書舎人當有所據也宋志載擴東忩集四<lb/>
+<pb n="KR4d0149_WYG_000-1b"/>
+　　　　十巻又詩十巻而陳振孫書錄觧題不著於<lb/>
+　　　　錄則在宋末已不甚傳故元明以來談藝者<lb/>
+　　　　罕相稱引惟永樂大典尚多錄其詩文其為<lb/>
+　　　　中書舎人時所作制詞尤夥大抵温麗緜宻<lb/>
+　　　　與汪藻可以聯驅謹採掇編緝釐為一十六<lb/>
+　　　巻其為秦檜追贈祖父及万俟卨兼侍讀諸<lb/>
+　　　　制極詞䛕頌紕繆殊深考王明清揮麈餘話<lb/>
+　　　　稱擴為著作郎其兄秘書少監楚材新婚約<lb/>
+<pb n="KR4d0149_WYG_000-2a"/>
+　　　　觀梅西湖擴賦詩有折歸忍負金蕉葉笑挿<lb/>
+　　　　新臨玉鏡臺之句秦檜見之大稱賞曰旦夕<lb/>
+　　　　當以文字官相處遷擢左史再遷而掌外制<lb/>
+　　　　是擴本因檜得進故假草制以貢媚其為人<lb/>
+　　　　殊不足道然擴所交逰如朱翌曽慥吕本中<lb/>
+　　　　徐俯皆一代勝流切劘有助故詞采清麗斐<lb/>
+　　　　然可觀要亦未可盡沒也其中贈顧景繁詩<lb/>
+　　　　龔明之中呉紀聞僅載有五十六字厲鶚宋<lb/>
+<pb n="KR4d0149_WYG_000-2b"/>
+　　　　詩紀事遂引作絶句二首今檢閱舊文乃知<lb/>
+　　　　為七言古詩二篇明之特節錄數語鶚盖未<lb/>
+　　　　覩斯集是以傳訛亦足云罕覯之笈矣乾隆<lb/>
+　　　　四十六年九月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官<hi>臣</hi>陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>讀易考原</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　　經部一<lb/>
+　讀易考原　　　　　　　易類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案讀易考原一卷元蕭漢中撰漢中<lb/>
+　　　　字景元泰和人此書成於泰定中凡三篇一<lb/>
+　　　　論分卦一論合卦一論卦序不敢顯攻序卦<lb/>
+　　　　𫝊而亦不用序卦之説大㫖以圓圖乾坤坎<lb/>
+　　　　離居四正為上經之主卦兑艮巽震居四隅<lb/>
+<pb n="1b"/>
+　　　　為下經之主卦復按圖列説申明上經三十<lb/>
+　　　　卦下經三十四卦多寡分合之不可易及乾<lb/>
+　　　　坤之後受以屯䝉屯䝉之後受以需訟次序<lb/>
+　　　　之不可紊卷後論三十六宫陰陽消長之機<lb/>
+　　　　以互明其義漢中書不甚著明初朱升作周<lb/>
+　　　　易旁注始采録其文附於末卷升自記稱謹<lb/>
+　　　　節縮為上下經二圖於石而録其原文於下<lb/>
+　　　　以廣其𫝊則是書經升編輯不盡漢中之舊<lb/>
+<pb n="2a"/>
+　　　　今升書殘缺而漢中書反附以得存此本即<lb/>
+　　　　從升書中録出别行者朱彝尊經義考作三<lb/>
+　　　　卷葢以一篇為一卷實無别本也其説雖亦<lb/>
+　　　　出於邵氏而推闡卦序頗具精理葢猶依經<lb/>
+　　　　立義者以視黑白奇偶蔓衍而不可極者固<lb/>
+　　　　有殊焉乾隆四十五年七月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

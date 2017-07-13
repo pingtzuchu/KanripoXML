@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>運甓漫稿巻四</head> <lb/>
+    <p>
+<pb n="KR4e0096_WYG_004-1a"/>
+欽定四庫全書<lb/>
+　運甓漫稿巻四<lb/>
+　　　　　　　　　　　　明　李昌祺　著<lb/>
+　　五言排律<lb/>
+　　　送張㕘政考績之京<lb/>
+瑣闥才名著藩垣位望隆三年㕘省政千里獻民庸寮<lb/>
+寀勤勞共兵氓愛慕同柳亭張餞席桃浪送征篷天上<lb/>
+乘槎客江邊卧轍翁櫓聲揺落月帆勢快長風浩蕩淮<lb/>
+<pb n="KR4e0096_WYG_004-1b"/>
+流壯嶙峋岱嶽雄金臺紅日下貝闕綵雲中清慎聞羣<lb/>
+辟廉能徹九重陛陳嘉績最階授散官崇復職紆新眷<lb/>
+辭朝返舊封桓桓方叔烈戀戀子牟忠甦息憐諸郡旬<lb/>
+宣仗數公追呼鞭朴少飽暖嵗時豐去路應逢夏回程<lb/>
+莫待冬詩欣千首富錢笑一文空但覺烟霄逈惟知雨<lb/>
+露濃棠隂城下路歌詠走兒童<lb/>
+　　　幽居<lb/>
+華亭當巽位匪北與東南新月<graphic n="KR0655" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0655.png" mimeType="image/png"/>懸夕斜陽暝翳嵐秋<lb/>
+<pb n="KR4e0096_WYG_004-2a"/>
+聲連地起雲影半空曇紅葉凋園柿青林秀石楠到門<lb/>
+無吏跡雜坐有農談茗椀惟孤啜橙杯不獨銜芙蓉霜<lb/>
+肅肅楊柳露毿毿晴雪鷗棲渚腥風虎卧岩耕夫朝就<lb/>
+餉過客暮停驂孤夐天疑近清高境不凡谷深寒鎖翠<lb/>
+溪濶暖浮藍養靜閑情愜居安逸興耽康强身懶杖蕭<lb/>
+散髮慵簮暑退嫌藤簟涼生怯葛衫好書常在案雄劍<lb/>
+鎮藏函榮任他人取幽宜我輩探溪山聊寄傲簡牘貴<lb/>
+研覃名教真堪樂禪機弗用㕘虚心千箇竹直節數株<lb/>
+<pb n="KR4e0096_WYG_004-2b"/>
+杉永夜長庚對煌芒不可緘<lb/>
+　　　挽族兄<lb/>
+布被當年友嗟君更可憐父兄嘉篤志朋輩羨英年早<lb/>
+負穿楊譽終酬折桂縁學成寧落後榜揭果居先未對<lb/>
+劉蕡策旋揮祖逖鞭裾從彤邸曳書向石渠編仕路方<lb/>
+榮進蠻邦遽斥遷瘴生雲滃墨颶起浪掀船地僻夷風<lb/>
+陋天遥氣候偏毒淫那易辟性命竟難全忍死留遺語<lb/>
+含寃入下泉行囊題詠在謫籍姓名蠲弱子擕家返輕<lb/>
+<pb n="KR4e0096_WYG_004-3a"/>
+函載骨還九京雖莫作百韻或堪傳勿訝淪殊域猶能<lb/>
+返故阡試觀同譴者亦有𦵏烏鳶<lb/>
+　　　挽友人<lb/>
+舊説盤中隠今為物外仙識韓空有夢交藺竟無縁未<lb/>
+論宗支異還叨閥閲聨學精多士許孝篤衆人憐恬退<lb/>
+忘軒冕沉潛嗜簡編衣冠推典則詞賦擅清妍世厯滄<lb/>
+桑改家臻福慶全遺榮身自在占勝地幽偏久悟浮生<lb/>
+幻俄隨大化遷歛裳真逝矣易簀靜蕭然漫詫騎鯨去<lb/>
+<pb n="KR4e0096_WYG_004-3b"/>
+那因化鶴還菊軒棋已罷竹館榻仍懸簾捲風翻帙忩<lb/>
+虗雨慢絃遊山雙屐在釣瀬一竿捐雅操超今士高標<lb/>
+慕昔賢新祠應得侑遺稿或堪傳五桂凌霜秀藂蘭浥<lb/>
+露鮮年年寒食節釃酒拜荒阡<lb/>
+　　　壽某翁<lb/>
+聖代功勛著天倫樂事專位躋三品峻義篤一門全致<lb/>
+養惟殫禄通財不計錢永懐烏鳥哺仍感鶺鴒篇萱草<lb/>
+幽藂秀棠花舊蒂連氷盤魚味美綵服鴈行聨祥柰寧<lb/>
+<pb n="KR4e0096_WYG_004-4a"/>
+煩守肱衾且用眠老親欣未耄難弟愛彌堅茵褥重重<lb/>
+榻塤篪秩秩筵夀觴更跪勸獵騎並驅還橘墮猶懐陸<lb/>
+荆分謾笑田侯封應有待輿論諒無偏遐算慈闈健同<lb/>
+心貴介賢雄文書盛美燕許筆如椽<lb/>
+　　　題山水圖<lb/>
+别業在圓塘無鄰傍草堂瀰漫新水濶逺近好山蒼樹<lb/>
+宻松依檜林幽柘混桑頗同嚴子瀬仍似杜陵荘橋峻<lb/>
+妨遊屐溪迴隠釣航鳥聲春晝永花氣午風涼把巻潛<lb/>
+<pb n="KR4e0096_WYG_004-4b"/>
+心玩逢疑著意詳詎容便水石未可薄軒裳愧我身空<lb/>
+老憐生力致强閑情雖足適壯志㑹須償尊府當朝貴<lb/>
+佳兒嗣世良奪魁期接武澗壑有輝光<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　運甓漫稿巻四<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

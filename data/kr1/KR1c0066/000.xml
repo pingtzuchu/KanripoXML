@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="1a"/>
+韓詩外傳序<lb/>
+始余年少讀韓詩外傳疑其爲先<lb/>
+秦時文字及授詩爲專門學聞有<lb/>
+韓魯齊三家之詩遂求得之因考<lb/>
+其說韓詩燕韓嬰所作故號韓詩<lb/>
+魯詩浮丘伯傳之魯申培公故號<lb/>
+魯詩齊詩齊轅固所傳故號齊詩<lb/>
+<pb n="1b"/>
+或以國稱或以氏傳齊詩魏代巳<lb/>
+亡魯詩亡於西晉而韓之傳又與<lb/>
+齊魯間殊然歸一也漢藝文志韓<lb/>
+詩三十六卷内傳四卷外傳六卷<lb/>
+說四十一卷隋經籍志韓詩二十<lb/>
+二卷薛氏章句唐藝文志韓詩卜<lb/>
+商序韓嬰注二十二卷又外傳十<lb/>
+<pb n="2a"/>
+卷韓詩存而無傳者至唐猶在今<lb/>
+存外傳十篇非韓嬰傳詩之詳者<lb/>
+遺說時見於他與毛說絶異兹固<lb/>
+不暇論也然觀外傳雖非其解經<lb/>
+之詳斷章取義要有合於孔門商<lb/>
+賜言詩之㫖况文辭淸婉有先秦<lb/>
+風學者安得不宗尚之海岱劉侯<lb/>
+<pb n="2b"/>
+<pb n="2b"/>
+韓嬰小傳<lb/>
+漢書儒林傳云韓嬰燕人也孝文<lb/>
+時爲博士景帝時至常山太傳嬰<lb/>
+推詩人之意而作外傳數萬言其<lb/>
+語頗與齊魯間殊然歸一也淮南<lb/>
+賁生受之<hi>賁音聞</hi>燕趙間言詩者由<lb/>
+韓生韓生亦以易授人推易意而<lb/>
+<pb n="3a"/>
+爲之傳燕趙間好詩故其易微惟<lb/>
+韓氏自傳之武帝時嬰嘗與董仲<lb/>
+舒論於上前其人精悍處事分明<lb/>
+仲舒不能難也後其孫商爲博士<lb/>
+孝宣時涿郡韓生其後也<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

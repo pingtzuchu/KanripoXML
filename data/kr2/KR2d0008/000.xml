@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>路史</head>
+    <p>
+<pb n="KR2d0008_WYG_000-1a"/>
+欽定四庫全書　　　　　史部四<lb/>
+　路史　　　　　　　　　别史類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案路史四十七卷宋羅泌撰泌字長<lb/>
+　　　　源廬陵人是書成於乾道庚寅凡前紀九卷<lb/>
+　　　　述初三皇至隂康無懷之事後紀十四卷述<lb/>
+　　　　太昊至夏履癸之事國名紀八卷述上古至<lb/>
+　　　　三代諸國姓氏地理下逮兩漢之末發揮六<lb/>
+<pb n="KR2d0008_WYG_000-1b"/>
+　　　　卷餘論十卷皆辨難考證之文其國名紀第<lb/>
+　　　　八卷載封建後論一篇究言一篇必正劄子<lb/>
+　　　　一篇<hi>案必正乃泌友人之名其姓今不可考謹仍原本書之</hi>國姓衍慶<lb/>
+　　　　紀原一篇蓋以類相附惟歸愚子大衍數一<lb/>
+　　　　篇大衍説一篇四象説一篇與封建渺無所<lb/>
+　　　　涉考發揮第一卷之首有論太極一篇明易<lb/>
+　　　　彖象一篇易之名一篇與大衍等三篇為類<lb/>
+　　　　疑本發揮之文校刋者以卷帙相連誤竄入<lb/>
+<pb n="KR2d0008_WYG_000-2a"/>
+　　　　國名紀也泌自序謂皇甫謐之世紀譙周之<lb/>
+　　　　史考張愔之系譜馬總之通厯諸葛耽之帝<lb/>
+　　　　録姚恭年之厯帝紀小司馬之補史劉恕之<lb/>
+　　　　通鑑外紀其學淺狹不足取信蘇轍古史第<lb/>
+　　　　發明索隠之舊未為全書因著是編餘論之<lb/>
+　　　　首釋名書之義引爾雅訓路為大所謂路史<lb/>
+　　　　蓋曰大史也句下註文題其子苹所撰核其<lb/>
+　　　　詞義與泌書詳畧相輔似出一手殆自著而<lb/>
+<pb n="KR2d0008_WYG_000-2b"/>
+　　　　嫁名於子歟皇古之事本為茫昧泌多採緯<lb/>
+　　　　書頗不足據至於太平經洞神經丹壺記之<lb/>
+　　　　類皆道家依托之言乃一一奉為典要殊不<lb/>
+　　　　免龎雜之譏發揮餘論皆深斥佛教而説易<lb/>
+　　　　數篇乃義取道家其青陽遺姝一條論大惑<lb/>
+　　　　有九以貪仙為材者之惑諛佛為不材之惑<lb/>
+　　　　尤為偏駁然引據浩博文采瑰麗劉勰文心<lb/>
+　　　　雕龍正緯篇曰羲農軒皥之源山瀆鍾律之<lb/>
+<pb n="KR2d0008_WYG_000-3a"/>
+　　　　要白魚赤鳥之符黄金紫玉之瑞事豐奇偉<lb/>
+　　　　詞富膏腴無益於經典而有助於文章是以<lb/>
+　　　　後來詞人採摭英華泌之是書殆於此類至<lb/>
+　　　　其國名紀𤼵揮餘論考證辨難語皆精核亦<lb/>
+　　　　多祛惑持正之論固未可盡以好異斥矣乾<lb/>
+　　　　隆四十三年閏六月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

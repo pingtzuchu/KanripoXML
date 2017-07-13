@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>八旗滿洲氏族通譜目録</head> <lb/>
+    <p>
+<pb n="KR2g0044_WYG_005-1a"/>
+欽定四庫全書<lb/>
+　八旗滿洲氏族通譜目録<lb/>
+　　卷二<lb/>
+　　安褚拉庫地方瓜爾佳氏<lb/>
+　　　碩翁科洛巴圖魯勞薩<lb/>
+　　　王柱　　　　　　　滿珠<lb/>
+　　　馬克都　　　　　　和托<lb/>
+　　　魏班　　　　　　　安楚達<lb/>
+<pb n="KR2g0044_WYG_005-1b"/>
+　　　　　以上俱有傳<lb/>
+　　　鄂碧　　　　　　　尼堪<lb/>
+　　　拉都理　　　　　　色古徳<lb/>
+　　　蓋都　　　　　　　阿濟納<lb/>
+　　　夸色　　　　　　　索理<lb/>
+　　　唐章阿　　　　　　輝雅<lb/>
+　　　錫爾門<lb/>
+　　　　　以上俱附載<lb/>
+<pb n="KR2g0044_WYG_005-2a"/>
+　　尼馬察地方瓜爾佳氏<lb/>
+　　　尼唐阿　　　　　　奇唐阿<lb/>
+　　　達爾巴齊　　　　　翁果春<lb/>
+　　　　　以上俱有傳<lb/>
+　　　薩穆哈　　　　　　伊桑阿<lb/>
+　　　殷達渾　　　　　　岱音布<lb/>
+　　　推布訥　　　　　　綬楞額<lb/>
+　　　殷達渾章色　　　　札圖喀<lb/>
+<pb n="KR2g0044_WYG_005-2b"/>
+　　　潭札理　　　　　　薩蘇喀<lb/>
+　　　格爾模亨　　　　　泰禄<lb/>
+　　　巴拜　　　　　　　哈達<lb/>
+　　　吉思哈　　　　　　隆托科<lb/>
+　　　薩薩理　　　　　　圖爾渾<lb/>
+　　　南泰<lb/>
+　　　　　以上俱附載<lb/>
+　　瓦爾喀地方瓜爾佳氏<lb/>
+<pb n="KR2g0044_WYG_005-3a"/>
+　　　札爾赳　　　　　　瞻丕理<lb/>
+　　　穆哈達　　　　　　瓦珠<lb/>
+　　　赫勒　　　　　　　和碩<lb/>
+　　　薩穆達理　　　　　俄孟額<lb/>
+　　　額爾碧赫　　　　　達卓<lb/>
+　　　瑪瑚善　　　　　　巴顔宗<lb/>
+　　　　　以上俱有𫝊<lb/>
+　　　瓦爾喀　　　　　　阿都禮<lb/>
+<pb n="KR2g0044_WYG_005-3b"/>
+　　　鄂穆崇額　　　　　阿濟那<lb/>
+　　　穆克登額　　　　　嗒思哈那<lb/>
+　　　木哈達　　　　　　薩穆哈那<lb/>
+　　　喀克蘇尼　　　　　錫特訥<lb/>
+　　　珠昇阿　　　　　　杜喜<lb/>
+　　　達爾禪　　　　　　察爾圖<lb/>
+　　　穆庫　　　　　　　努赫齊<lb/>
+　　　顔達爾漢　　　　　塞爾圖<lb/>
+<pb n="KR2g0044_WYG_005-4a"/>
+　　　觀保<lb/>
+　　　　　以上俱附載<lb/>
+　　嘉木湖地方瓜爾佳氏<lb/>
+　　　塔晉巴顔　　　　　對親<lb/>
+　　　瑚瑚那　　　　　　法庫那<lb/>
+　　　　　以上俱有傳<lb/>
+　　　達爾胡齊　　　　　那達理<lb/>
+　　　海蘭　　　　　　　果鏗<lb/>
+<pb n="KR2g0044_WYG_005-4b"/>
+　　　愛素　　　　　　　郭渾<lb/>
+　　　安布禄　　　　　　嘉滿<lb/>
+　　　吴訥軾　　　　　　翁鄂順<lb/>
+　　　薩爾錫<lb/>
+　　　　　以上俱附載<lb/>
+　　長白山地方瓜爾佳氏<lb/>
+　　　胡瞻　　　　　　　阿珠果巴顔<lb/>
+　　　額赫禮　　　　　　齊克騰<lb/>
+<pb n="KR2g0044_WYG_005-5a"/>
+　　　　　以上俱有傳<lb/>
+　　　滿都理　　　　　　柏爾格圖<lb/>
+　　　方柱　　　　　　　巴爾漢<lb/>
+　　　那翰布　　　　　　薩木哈巴顔<lb/>
+　　　瑪爾圖　　　　　　哈巴<lb/>
+　　　穆鼐　　　　　　　嘉木素<lb/>
+　　　赫藍泰　　　　　　克新<lb/>
+　　　吴晉泰　　　　　　海塞<lb/>
+<pb n="KR2g0044_WYG_005-5b"/>
+　　　珠山　　　　　　　雄圖<lb/>
+　　　瓦禮雅達　　　　　胡爾薩<lb/>
+　　　岱精阿　　　　　　達賚<lb/>
+　　　　　以上俱附載<lb/>
+　　蜚悠城地方瓜爾佳氏<lb/>
+　　　透登額　　　　　　額瑚徳<lb/>
+　　　徳普色　　　　　　沙精阿<lb/>
+　　　達士希<lb/>
+<pb n="KR2g0044_WYG_005-6a"/>
+　　　　　以上俱有傳<lb/>
+　　　愛唐阿　　　　　　法囊阿鼐<lb/>
+　　　倭世渾　　　　　　瑪泰<lb/>
+　　　聶松額　　　　　　葉普舒<lb/>
+　　　喀圖理<lb/>
+　　　　　以上俱附載<lb/>
+　　輝發地方瓜爾佳氏<lb/>
+　　　舒隆桑固理　　　　達巴<lb/>
+<pb n="KR2g0044_WYG_005-6b"/>
+　　　馬屯　　　　　　　外山<lb/>
+　　　顔錫<lb/>
+　　　　　以上俱有傳<lb/>
+　　　闗東　　　　　　　阿那太<lb/>
+　　　巴顔達理　　　　　金保<lb/>
+　　　碩穆多　　　　　　堪布禄<lb/>
+　　　金布　　　　　　　鄂克什<lb/>
+　　　布他納　　　　　　董智<lb/>
+<pb n="KR2g0044_WYG_005-7a"/>
+　　　達海　　　　　　　達拜<lb/>
+　　　濟眀　　　　　　　瑪瑚<lb/>
+　　　布爾哈　　　　　　錫罕<lb/>
+　　　吳海　　　　　　　倭赫<lb/>
+　　　那郎阿　　　　　　西圖<lb/>
+　　　藩泰　　　　　　　韓珠琥<lb/>
+　　　馬濟納　　　　　　王剛<lb/>
+　　　巴胡達　　　　　　烏遜<lb/>
+<pb n="KR2g0044_WYG_005-7b"/>
+　　　濟勒　　　　　　　翁愷<lb/>
+　　　隆安　　　　　　　翁勤<lb/>
+　　　杭奇　　　　　　　瑚程額<lb/>
+　　　那漢布拉　　　　　哈爾吉覇<lb/>
+　　　　　以上俱附載<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

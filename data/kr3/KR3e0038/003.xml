@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3e0038_WYG_003-1a"/>
+婦人大全良方原序<lb/>
+世之醫者於婦人一科有専治婦人方有産寳方治以<lb/>
+専言謂専攻也方以寳方愛重之也蓋醫之術難醫婦<lb/>
+人尤難醫産中數證則又險而難彼其所謂専治者産<lb/>
+寳者非不可用也綱領散漫而無統節目疏略而未備<lb/>
+醫者畫於簡易不能深求徧覽有才進方不效輒束手<lb/>
+者有無方可據揣摩臆度者有富貴家鄙藥賤而不服<lb/>
+者有貧乏人憚藥貴而無可得服者有醫之貪利以賤<lb/>
+<pb n="KR3e0038_WYG_003-1b"/>
+代貴失其正方者古云看方三年無病可治治病三秊<lb/>
+無藥可療又云世無難治之病有不善治之醫藥無難<lb/>
+代之品有不善代之人此之謂也僕三世學醫家藏醫<lb/>
+書數千卷既又徧行東南所至必盡索方書以觀暇時<lb/>
+閉關浄室繙閲涵泳究極天人採摭諸家之善附以家<lb/>
+傳經驗方萃而成編始自調經訖於産後凡八門門數十<lb/>
+餘證總二百六十餘論論後有藥藥不惟其貴賤惟其效<lb/>
+綱領節目燦然可觀庶幾病者隨索隨見隨試隨愈僕<lb/>
+<pb n="KR3e0038_WYG_003-2a"/>
+於此編非敢求異昔人也葢亦補其偏而會其全聚於<lb/>
+散而歛於約期使無憾云愚者千慮必有一得君子毋<lb/>
+以人廢言峕嘉熙元年八月良日建康府明道書院醫<lb/>
+諭臨川陳自明良父序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

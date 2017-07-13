@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="1a"/>
+輶軒使者絶代語釋別國方言第二<lb/>
+釥<hi>錯眇反</hi>嫽<hi>洛夭反</hi>好也青徐海岱之間曰釥或<lb/>
+謂之嫽<hi>今通呼小姣㓗喜好者爲嫽釥</hi>好凡通語也<lb/>
+朦<hi>忙紅反</hi>厖<hi>䲭/<graphic n="KR2301" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2301.png" mimeType="image/png"/>
+                    </hi>豐也自關而西秦晉之間凡大<lb/>
+貌謂之朦或謂之厖豐其通語也趙魏之郊<lb/>
+燕之北鄙凡大人謂之豐人燕記曰豐人杼<lb/>
+首杼首長首也楚謂之伃<hi>音序</hi>燕謂之杼燕趙<lb/>
+之間言圍大謂之豐<hi>謂度圍物也</hi>
+<pb n="1b"/>
+娃<hi>烏佳反</hi>嫷<hi>諾過/反</hi>窕<hi>途了反</hi>豔美也吳楚衡淮之<lb/>
+間曰娃南楚之外曰嫷<hi>言婑嫷也</hi>宋衞晉鄭之間<lb/>
+曰豔陳楚周南之間曰窕自關而西秦晉之<lb/>
+間凡美色或謂之好或謂之窕故吳有館娃<lb/>
+之宫秦有㯃娥之臺<hi>皆戰國時諸侯所立也㯃音七</hi>秦晉之<lb/>
+間美貌謂之娥<hi>言娥娥也</hi>美狀爲窕<hi>言閑都也</hi>美色爲<lb/>
+豔<hi>言光豔也</hi>美心爲窈<hi>言幽静也</hi>
+奕偞容也自關而西凡美容謂之奕或謂之<lb/>
+<pb n="2a"/>
+偞<hi>奕偞皆輕麗之㒵偞音葉</hi>宋衞曰偞陳楚汝潁之間謂<lb/>
+之奕<lb/>
+䫵<hi>音綿下作<graphic n="KR1531" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1531.png" mimeType="image/png"/>/音字同耳</hi>鑠<hi>舒灼反</hi>眄<hi>香于/反</hi>揚<hi>音滕</hi>隻也<lb/>
+南楚江淮之間曰䫵或曰　好目謂之順<hi>言流澤也</hi>黸<hi>黸黒/也</hi>瞳之子謂之<graphic n="KR1531" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1531.png" mimeType="image/png"/>
+                    <hi>言<graphic n="KR1531" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1531.png" mimeType="image/png"/>邈也</hi>宋衞韓鄭之<lb/>
+間曰鑠<hi>言光明也</hi>燕代朝鮮洌水之間曰盱<hi>謂舉眼也</hi>
+或謂之揚<hi>詩曰美目揚兮是也此本論隻耦因廣其訓復言目耳</hi>
+魏<hi>羌箠反</hi>笙揫<hi>音/遒</hi>摻<hi>素檻反</hi>細也自關而西秦晉<lb/>
+<pb n="2b"/>
+<pb n="2b"/>
+私䇿纎䓲<hi>音銳</hi>稺<hi>古稚/字</hi>杪<hi>莫召反</hi>小也自關而西<lb/>
+秦晉之郊梁益之間凡物小者謂之私小或<lb/>
+曰纎繒帛之細者謂之纎東齊言布帛之細<lb/>
+者曰綾<hi>音凌</hi>秦晉曰靡<hi>靡細好也</hi>凡草生而初達謂<lb/>
+之䓲<hi>鋒萌始出</hi>稺年小也木細枝謂之杪<hi>言杪梢也</hi>江<lb/>
+淮陳楚之内謂之篾<hi>篾小㒵也</hi>青齊兖冀之間謂<lb/>
+之葼<hi>馬<graphic n="KR3540" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3540.png" mimeType="image/png"/>
+                    </hi>燕之北鄙朝鮮洌水之間謂之䇿故<lb/>
+傳曰慈母之怒子也雖折葼笞之其惠存焉<lb/>
+<pb n="3a"/>
+<hi>言敎在其中也</hi>
+殗<hi>於怯反</hi>殜<hi>音葉</hi>微也宋衞之間曰殗自關而西<lb/>
+秦晉之間凡病而不甚曰殗殜<hi>病半臥半起也</hi>
+臺敵延<hi>一作迮</hi>也東齊海岱之間曰臺自關而<lb/>
+西秦晉之間物力同者謂之臺敵<lb/>
+抱㛯<hi>追萬反一作嬎</hi>耦也<hi>耦亦迮㸦見其義耳音赴</hi>荆呉江湖之<lb/>
+間曰抱㛯宋潁之間或曰㛯倚<hi>丘寄反</hi>踦<hi>郄竒反</hi>
+竒也<hi>竒偶</hi>自關而西秦晉之間凡全物而體不<lb/>
+<pb n="3b"/>
+具謂之倚梁楚之間謂之踦雍梁之西郊凡<lb/>
+嘼支體不具者謂之踦<lb/>
+逴<hi>勑略反</hi>獡<hi>音/鑠</hi>透<hi>式六反</hi>驚也自關而西秦晉之<lb/>
+間凡蹇者或謂之逴<hi>行略逴也</hi>體而偏長短亦謂<lb/>
+之逴宋衞南楚凡相驚曰獡或曰透<hi>皆驚㒵也</hi>
+儀<graphic n="KR1749" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1749.png" mimeType="image/png"/>來也陳潁之間曰儀自關而東周鄭之<lb/>
+郊齊魯之間或謂<graphic n="KR1749" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1749.png" mimeType="image/png"/>曰懷<lb/>
+䵑暗<graphic n="KR2899" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2899.png" mimeType="image/png"/>
+                    <hi>音汝</hi>黏也齊魯青徐自關而東或曰䵑<lb/>
+<pb n="4a"/>
+<hi>言黏䵑也</hi>或曰<graphic n="KR2899" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2899.png" mimeType="image/png"/>餬<hi>音/胡</hi>䚽庇<hi>庇/䕃</hi>寓<graphic n="KR3028" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3028.png" mimeType="image/png"/>
+                    <hi>音孕</hi>寄也齊衞<lb/>
+宋魯陳晉汝潁荆州江淮之間曰庇或曰寓<lb/>
+寄食爲餬<hi>傳曰餬予口於四方是也</hi>凡寄爲託寄物爲<graphic n="KR3028" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3028.png" mimeType="image/png"/>
+逞苦了快也自山而東或曰逞楚曰苦<hi>苦而爲快者猶以臭爲香治爲亂但爲存此訓義之反覆用之是也</hi>秦曰了<hi>今江東人呼快爲愃相縁反</hi>
+挴㥾𧹞愧也晉曰挴或曰㥾秦晉之間凡愧<lb/>
+而見上謂之𧹞<hi>小雅曰面赤愧曰𧹞</hi>梁宋曰㥾<hi>勑㥾亦慙㒵也音匿</hi>
+<pb n="4b"/>
+叨<hi>託髙反</hi>惏<hi>洛含反</hi>殘也陳楚曰惏<lb/>
+慿　苛怒也楚曰慿<hi>慿恚盛㒵楚詞曰康回憑怒</hi>小怒曰<lb/>
+<hi>言噤也</hi>陳謂之苛<hi>相苛責也</hi>
+憡刺痛也<hi>憡小痛也音策</hi>自關而西秦晉之間或<lb/>
+曰憡<lb/>
+撟捎選也<hi>此妙擇積聚者也矯騷兩音</hi>自關而西秦晉之<lb/>
+間凡取物之上謂之撟捎<lb/>
+<graphic n="KR0972" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0972.png" mimeType="image/png"/>
+                    <hi>呼早反</hi>梗<hi>魚/鯁</hi>爽猛也晉魏之間曰<graphic n="KR0972" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0972.png" mimeType="image/png"/>
+                    <hi>傳曰<graphic n="KR0972" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0972.png" mimeType="image/png"/>然登埤</hi>
+<pb n="5a"/>
+韓趙之間曰梗齊晉曰爽<lb/>
+瞷<hi>音閑</hi>睇<hi>音/悌</hi>睎䀩<hi>音略</hi>眄也陳楚之間南楚之外<lb/>
+曰睇東齊青徐之間曰睎呉揚江淮之間或<lb/>
+曰瞷或曰䀩自關而西秦晉之間曰眄<lb/>
+䭒<hi>消息</hi>喙<hi>口/喙</hi>呬<hi>許四反</hi>息也周鄭宋沛之間曰䭒自<lb/>
+關而西秦晉之間或曰喙或曰䭒東齊曰呬<lb/>
+䤨<hi>劈歷</hi>摫<hi>音䂓</hi>裁也梁益之間裁木爲器曰䤨裂<lb/>
+帛爲衣曰摫䤨又斲也<hi>皆折破之名也</hi>晉趙之間謂<lb/>
+<pb n="5b"/>
+之䤨䤨<lb/>
+鐫㧻也<hi>謂鏨鐫也子旋反</hi>晉趙謂之鐫<lb/>
+鍇<hi>音揩</hi>鑙<hi>音啟</hi>堅也自關而西秦晉之間曰鍇呉<lb/>
+揚江淮之間曰鑙<lb/>
+揄鋪<hi>音敷</hi>
+                    <graphic n="KR3019" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3019.png" mimeType="image/png"/>
+                    <hi>音/藍</hi>
+                    <graphic n="KR3128" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3128.png" mimeType="image/png"/>帗<hi>音/拂</hi>縷葉輸<hi>音/臾</hi>毳也<hi>音脆皆謂物之行蔽也</hi>荆揚江湖之間曰揄鋪楚曰<graphic n="KR3019" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3019.png" mimeType="image/png"/>
+                    <graphic n="KR3128" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3128.png" mimeType="image/png"/>陳宋<lb/>
+鄭衞之間謂之帗縷燕之北郊朝鮮洌水之<lb/>
+間曰葉輸<hi>今名短度綃爲輸也</hi>
+<pb n="6a"/>
+孑藎餘也<hi>謂遺餘昨吝反</hi>周鄭之間曰藎或曰孑青<lb/>
+徐楚之間曰孑自關而西秦晉之間炊薪不<lb/>
+盡曰藎孑俊也遵俊也<hi>廣異語耳</hi>
+翿<hi>音濤</hi>幢<hi>徒江/反</hi>翳也<hi>儛者所以自蔽翳也</hi>楚曰翿關西關<lb/>
+東皆曰幢<lb/>
+<graphic n="KR0679" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0679.png" mimeType="image/png"/>略求也秦晉之間曰<graphic n="KR0679" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0679.png" mimeType="image/png"/>就室曰<graphic n="KR0679" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0679.png" mimeType="image/png"/>於道曰<lb/>
+略略強取也攗<hi>古捃字</hi>摭<hi>盜蹠</hi>取也此通語也<lb/>
+茫矜奄遽也<hi>謂遽矜也</hi>呉揚曰茫<hi>今北方通然也莫光反</hi>陳<lb/>
+<pb n="6b"/>
+潁之間曰奄秦晉或曰矜或曰遽<lb/>
+速逞摇扇疾也東齊海岱之間曰速燕之外<lb/>
+鄙朝鮮洌水之間曰摇扇楚曰逞<lb/>
+予賴讎也南楚之外曰賴<hi>賴亦惡名</hi>秦晉曰讎<lb/>
+恒慨蔘<hi>索含反</hi>綏羞繹<hi>音弈</hi>紛母言旣廣又大也<lb/>
+荆揚之間凡言廣大者謂之恒慨東甌之間<lb/>
+謂之蔘綏<hi>東甌亦越地今臨海永寧是也</hi>或謂之羞繹紛母<lb/>
+劋<hi>雀潦反又子了反</hi>蹶<hi>音/厥</hi>獪也<hi>古狡㹟字</hi>秦晉之間曰獪<lb/>
+<pb n="7a"/>
+楚謂之劋或曰蹶<hi>言踣蹶也</hi>楚鄭曰蔿<hi>音指撝亦或聲之轉也</hi>或曰姡<hi>言黠姡也今建平郡人呼姣爲姡胡刮反</hi>
+輶軒使者絶代語釋別國方言第二<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

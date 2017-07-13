@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2i0001_SBCK_000-1a"/>
+　　重刋吳越春秋序<lb/>
+　古者列國皆有史官以掌記<lb/>
+　時事若孔子因魯史以脩春<lb/>
+　秋者是也吳越春秋乃作扵<lb/>
+　東漢趙曄後世𥙷亡之書耳<lb/>
+　大抵本國語史記而附以所<lb/>
+<pb n="KR2i0001_SBCK_000-1b"/>
+　傳聞者為之元徐天祜謂其<lb/>
+　去古未遠又越人宜知越之<lb/>
+　故視他書所記二國事為詳<lb/>
+　得之矣天祜之所考註亦精<lb/>
+　當第謂其不類漢文者其字<lb/>
+　句間或似小說家觀儒林傳<lb/>
+<pb n="KR2i0001_SBCK_000-2a"/>
+　稱其所著復有所謂詩細者<lb/>
+　蔡邕讀而歎息以為長扵論<lb/>
+　衡今論衡故在也鄙俚恠誕<lb/>
+　者不少則東漢末亦自有此<lb/>
+　文氣矣謂其非全書則吳越<lb/>
+　顛末亦俻矣隋唐經籍誌多<lb/>
+<pb n="KR2i0001_SBCK_000-2b"/>
+　二卷意者西施之至吳范蠡<lb/>
+　之去越乎若附會於䜟緯夢<lb/>
+　卜之説則固當時所尚而左<lb/>
+　氏傳春秋亦多述焉不可盡<lb/>
+　謂其無據也其大㫖誇越之<lb/>
+　多賢以矜其故都而所編傳<lb/>
+<pb n="KR2i0001_SBCK_000-3a"/>
+　乃内吳而外越則又不可曉<lb/>
+　矣自科舉聲律之學興而古<lb/>
+　書散佚無留意者雖好古博<lb/>
+　雅之士歴代經籍志所載亦<lb/>
+　或不能舉其篇目故有志扵<lb/>
+　集古者皆在所取也去年秋<lb/>
+<pb n="KR2i0001_SBCK_000-3b"/>
+　監察御史寧郷袁公大倫奉<lb/>
+命来按吳體正以蠧剔威加而<lb/>
+　恵流乃本古觀風之法訪吳<lb/>
+　之故扵吳邑矦任丘鄺廷瑞<lb/>
+　矦素稱稽古尚文歴舉郡乗<lb/>
+　所載者以對公問其所本始<lb/>
+<pb n="KR2i0001_SBCK_000-4a"/>
+　矦辤焉公乃手出是編授之<lb/>
+　矦讀之曰命之矣古者使扵<lb/>
+　其國仕扵其邦不能舉其地<lb/>
+　之故君子耻焉吾乃今知吳<lb/>
+　山川城郭之所名也吾乃今<lb/>
+　知封疆因革之所始也吾乃<lb/>
+<pb n="KR2i0001_SBCK_000-4b"/>
+　今知民情土俗之所由也吾<lb/>
+　不忍自私當重梓以行扵吳<lb/>
+　人俾無忘厥本乃屬郡史馮<lb/>
+　弋等錄而刻之既成走書屬<lb/>
+　予序盖矦第進士時以予為<lb/>
+　知已而袁公亦吾榜進士之<lb/>
+<pb n="KR2i0001_SBCK_000-5a"/>
+　傑也嗚呼孟軻氏稱入則無<lb/>
+　法家拂士出則無敵國外患<lb/>
+　者國恒亡然後知生扵憂患<lb/>
+　而死扵安樂也觀二國之興<lb/>
+　而僨僨而興斯昭昭矣驕畏<lb/>
+　之殊興亡所繫忠䜛之判禍<lb/>
+<pb n="KR2i0001_SBCK_000-5b"/>
+　福攸分可畏哉予竊<graphic n="KR0988" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0988.png" mimeType="image/png"/>夫大<lb/>
+　言無術自暇以怠人者曰大<lb/>
+　數巳定無庸人力又曰天子<lb/>
+　有道守在四夷此英雄駕馭<lb/>
+　之言非臣子思患預防之䇿<lb/>
+　也禹益儆惕扵三苗之師成<lb/>
+<pb n="KR2i0001_SBCK_000-6a"/>
+　康不忘乎戎兵之詰其見遠<lb/>
+　矣是書所載若胥之忠蠡之<lb/>
+　智種之謀包胥之論戰孫武<lb/>
+　之論兵越女之論劔陳音之<lb/>
+　論弩句踐之畏天自苦臣吳<lb/>
+　之别辤伐吳之戒語五大夫<lb/>
+<pb n="KR2i0001_SBCK_000-6b"/>
+　之自效世亦胡可少哉所載<lb/>
+　孔子子貢事不可據而其謀<lb/>
+　則在當時逰説之至髙者也<lb/>
+　相傳越絶書為子貢撰抑亦<lb/>
+　有所本云噫書稱軾怒鼃尚<lb/>
+　足以激士而况讀其書論其<lb/>
+<pb n="KR2i0001_SBCK_000-7a"/>
+　世能不少動扵衷者其亦非<lb/>
+　夫也夫至扵司職方掌外史<lb/>
+　地里所在必有所因而名附<lb/>
+　會以成其説者多不可辯騐<lb/>
+　然與其信乎今不若傳諸古<lb/>
+　與其徵諸遠不若考乎近是<lb/>
+<pb n="KR2i0001_SBCK_000-7b"/>
+　又今日鄺矦崇信此書之意<lb/>
+　而袁公博古之功不可誣也<lb/>
+　因附予所欲言為序<lb/>
+　弘治十四年歲在辛酉夏五<lb/>
+　朔旦<lb/>
+賜進士及第翰林<lb/>
+<pb n="KR2i0001_SBCK_000-8a"/>
+國史脩撰儒林郎華亭錢福與<lb/>
+　謙序<lb/>
+<pb n="KR2i0001_SBCK_000-8b"/>
+<pb n="KR2i0001_SBCK_000-8b"/>
+吳越古稱東南僻逺之邦然當<lb/>
+其盛彊往往抗衡上國黄池之<lb/>
+會夫差欲尊天子自去其僣號<lb/>
+稱子以吿令諸侯及越既有吳<lb/>
+勾踐大盟四國以共輔王室要<lb/>
+其志皆歸扵尊周其知所天矣<lb/>
+<pb n="KR2i0001_SBCK_000-9a"/>
+孔子作春秋雖小國猶錄而書<lb/>
+之而况以世言則禹稷之裔以<lb/>
+地言則會稽具區其川其浸周<lb/>
+職方氏列為九州之首皆足以<lb/>
+望天下故記可闕而不傳乎吳<lb/>
+越春秋趙曄所著隋唐經籍志<lb/>
+<pb n="KR2i0001_SBCK_000-9b"/>
+皆云十二卷今存者十卷殆非<lb/>
+全書二志又云楊方撰吳越春<lb/>
+秋削繁<hi>作煩唐志</hi>五卷皇甫遵撰吳越<lb/>
+春秋傳十卷<hi>傳字隋志缺</hi>此二書今人<lb/>
+罕見獨曄書行扵丗曄傳在儒<lb/>
+林中觀其所作乃不類漢文按<lb/>
+<pb n="KR2i0001_SBCK_000-10a"/>
+邯鄲李氏圖書十志目亦謂楊<lb/>
+方甞刋削曄所為書至皇甫遵<lb/>
+遂合二家考正為之傳註又按<lb/>
+史記註有徐廣所引吳越春秋<lb/>
+語而索隱以為今無此語者他<lb/>
+如文選註引季子見遺金事吳<lb/>
+<pb n="KR2i0001_SBCK_000-10b"/>
+地記載闔廬時夷亭事及水經<lb/>
+註甞載越事數條類皆援據吳<lb/>
+越春秋今曄本咸無其文亦無<lb/>
+所謂傳註豈楊方所巳刋削而<lb/>
+皇甫所未考正者耶曄書最先<lb/>
+出東都時去古未甚遠曄又山<lb/>
+<pb n="KR2i0001_SBCK_000-11a"/>
+隂人故綜述視他書所紀二國<lb/>
+事為詳取節焉可也其言上稽<lb/>
+天時下測物變明微推遠憭若<lb/>
+蓍蔡至扵盛衰成敗之迹則彼<lb/>
+已君臣反覆上下其論議種蠡<lb/>
+諸大夫之謀迭用則霸子胥之<lb/>
+<pb n="KR2i0001_SBCK_000-11b"/>
+諌一不聴則亡皆鑿鑿然可以<lb/>
+勸戒萬世豈獨為是邦二千年<lb/>
+故實哉曄書越舊甞鋟梓歲久<lb/>
+不復存汴梁劉侯来治越奨厲<lb/>
+學校蒐遺文修墜典乃輟義田<lb/>
+廩羡財重刻于學不鄙諛聞属<lb/>
+<pb n="KR2i0001_SBCK_000-12a"/>
+以考訂且命序其左端夫越人<lb/>
+宜知越之故則是舉也扵所闕<lb/>
+不為無𥙷遂不得辭厥旣刋正<lb/>
+疑訛過不自量復為之音註併<lb/>
+考其與傳記同異者附見于下<lb/>
+而互存之惜其間文義猶有滯<lb/>
+<pb n="KR2i0001_SBCK_000-12b"/>
+礙不可訓知不敢盡用臆見更<lb/>
+定又無皇甫本可證姑從其舊<lb/>
+以俟後之君子考焉侯名克昌<lb/>
+丗大其字云郡人前進士徐天<lb/>
+祜受之序<lb/>
+<pb n="KR2i0001_SBCK_000-13a"/>
+<pb n="KR2i0001_SBCK_000-14a"/>
+吳越春秋目錄<lb/>
+　　上卷第一<lb/>
+　　　　吳太伯傳<lb/>
+<hi>宜王而不王者也吳之後君又未嘗追王之尊元本太伯傳作吳王太伯傳太伯三以天下讓</hi>
+<hi>之曰王名不與實稱也今去王字以從其實</hi>
+　　　卷第二<lb/>
+　　　　吳王壽夢傳<lb/>
+　　　卷第三<lb/>
+　　　　王僚使公子光傳<lb/>
+<pb n="KR2i0001_SBCK_000-14b"/>
+<hi>謂使之伐楚耳光即闔閭旣自有傳此云使公元本不曰吳王僚傳而曰王僚使公子光傳盖</hi>
+<hi>子光贅也今姑從其舊</hi>
+　　　卷第四<lb/>
+　　　　闔閭内傳<lb/>
+　　　卷第五<lb/>
+　　　　夫差内傳<lb/>
+<hi>皆曰外傳内吳而外越何也况曄又越人乎若元本闔閭夫差傳皆曰内傳下卷無余勾踐傳</hi>
+<hi>閭夫差二傳獨曰内又何也今不敢輒去内外以吳爲内則太伯壽夢王僚三傳不曰内而闔</hi>
+<hi>二字姑存之</hi>
+<pb n="KR2i0001_SBCK_000-15a"/>
+　　下卷第六<lb/>
+　　　　越王無余外傳<lb/>
+　　　卷第七<lb/>
+　　　　勾踐入臣外傳<lb/>
+<hi>從越諸傳亦作外傳云元本越王勾踐入臣獨無外傳字今𥙷其闕姑</hi>
+　　　卷第八<lb/>
+　　　　勾踐歸國外傳<lb/>
+　　　卷第九<lb/>
+　　　　勾踐隂謀外傳<lb/>
+<pb n="KR2i0001_SBCK_000-15b"/>
+<hi>傳書越王而不名不知何義今於隂謀傳去越元本勾踐入臣歸國伐吳諸傳皆書名獨陰謀</hi>
+<hi>王二字而書勾踐從諸例也</hi>
+　　　卷第十<lb/>
+　　　　勾踐伐吳外傳<lb/>
+吳越春秋目録<lb/>
+<pb n="KR2i0001_SBCK_000-16a"/>
+徐氏𥙷註<lb/>
+　第一卷<lb/>
+　　勾吴<lb/>
+<hi>吳也索隱亦引師古註謂當如顔解但師古云勾吳前註巳引漢地理志顔師古註又按史記註勾吳大</hi>
+<hi>之發聲耳淮南子註勾吳吳人語不正言吳而加以猶越爲干越也索隱乃以干越爲於越干與於皆語</hi>
+<hi>世壽夢始號勾吳與史記所載太伯時巳號勾吳不勾世本註勾吳太伯始所居地名史記正義曰十九</hi>
+<hi>同疑正義誤</hi>
+　　壽夢<lb/>
+<hi>宋忠曰孰姑壽夢也夀孰音相近姑之言諸也毛詩已見前註又按史記索隱云系本曰吳孰姑徙勾吳</hi>
+<pb n="KR2i0001_SBCK_000-16b"/>
+<hi>名乗傳舊讀月誰爲姑是以姑爲諸孰姑壽夢一人耳又</hi>
+　第四卷<lb/>
+　　陸門八以象天八風水門八以法地八聦<lb/>
+<hi>法地八卦吳郡圖經續記八聦亦作八卦爲是吳都吳郡志引此書以爲陸門八以象天八風水門八以</hi>
+<hi>賦郛郭周帀重城結隅通門二公水道陸衢</hi>
+　　鄭定公大懼乃令國中<lb/>
+<hi>辭殺之是爲楚平王十年其後吳破楚入郢乃昭王前註巳正其誤按史年表鄭定公十一年書楚建作</hi>
+<hi>十年蓋鄭獻公八年非定公時也</hi>
+　　申包胥<lb/>
+<pb n="KR2i0001_SBCK_000-17a"/>
+<hi>劉伯莊曰包字亦作鮑史記正義包胥姓公孫封於史楚世家亦作申鮑胥註服䖍曰楚大夫王孫包胥</hi>
+<hi>申故曰申包胥戰國䇿以爲棼冐勃蘇</hi>
+　　秦桓公素沉湎<lb/>
+<hi>胥請救是爲楚昭王十年楚十一年書秦救至卽哀前註已正其誤按史年表秦哀公三十一年書楚包</hi>
+<hi>乃三十二年非桓公時也<graphic n="KR0680" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0680.png" mimeType="image/png"/>
+                        <graphic n="KR0680" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0680.png" mimeType="image/png"/>
+                        <graphic n="KR0680" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0680.png" mimeType="image/png"/>
+                        <graphic n="KR0680" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0680.png" mimeType="image/png"/>
+                        <graphic n="KR0680" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0680.png" mimeType="image/png"/>
+                        <graphic n="KR0680" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0680.png" mimeType="image/png"/>
+                        <graphic n="KR0680" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0680.png" mimeType="image/png"/>
+                        <graphic n="KR0680" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0680.png" mimeType="image/png"/>
+                        <graphic n="KR0680" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0680.png" mimeType="image/png"/>
+                        <graphic n="KR0680" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0680.png" mimeType="image/png"/>公三十二年也據此則請救在三十一年秦師至楚</hi>
+　　嚴王何罪國幾絶<lb/>
+<hi>按嚴本岀芈姓其先卽楚莊王支孫以謚爲莊姓者嚴字義不通今詳當是莊王謂前王何罪幾至絶國</hi>
+<hi>嚴此以莊爲嚴亦避諱追改也也如前漢莊忌忌子助後漢莊光皆避明帝諱改姓</hi>
+　第五卷<lb/>
+<pb n="KR2i0001_SBCK_000-17b"/>
+　　入五湖之中<lb/>
+<hi>以其周行五百里故以五湖爲名又楊泉五湖賦止已詳見前註又按張勃吳錄云五湖者太湖之别名</hi>
+<hi>一水五名今併存之爲太湖而作陸龜蒙云太湖上禀咸池五車之氣故</hi>
+　　帶劒挺鈹<lb/>
+<hi>功臣表周竈以長鈹擊項籍顔師古註長刃兵爲刀鈹字或作鉟方言錟謂之鈹或曰劒如刀裝者前漢</hi>
+<hi>而剱形史記作長鈹鈹鉟同</hi>
+<pb n="KR2i0001_SBCK_000-18a"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

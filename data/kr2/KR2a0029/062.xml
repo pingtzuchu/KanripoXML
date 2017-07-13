@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR2a0029_WYG_062-1a"/>
+　舊五代史巻三十考證<lb/>
+唐莊宗紀四以趙光𦙍為中書侍郎平章事集賢殿大<lb/>
+　學士　案歐陽史作趙光𦙍為中書侍郎不載大學<lb/>
+　士銜與是書詳畧異<lb/>
+甲子車駕發汴州十二月庚午朔車駕至西京　案歐<lb/>
+　陽史作甲子如京洛庚午至自汴州是書作西京盖<lb/>
+　其時未改永平軍為西京故尚仍梁制稱洛陽為西<lb/>
+　京也又通鑑考異云諸書但謂之洛京未嘗詔改西<lb/>
+<pb n="KR2a0029_WYG_062-1b"/>
+　京為洛京至同光三年始詔依舊以洛京為東都或<lb/>
+　者以永平為西京時即改梁西京為洛京而史脱其<lb/>
+　文也歐陽史於元年冬即書洛京未審所據<lb/>
+詔改偽梁永平軍大安府復為西京京兆府　案歐陽<lb/>
+　史作十一月辛酉復永平軍為西都與是書日月互<lb/>
+　異<lb/>
+實喇鄂博舊作撒刺阿撥今改<lb/>
+　舊五代史巻三十考證<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

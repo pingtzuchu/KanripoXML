@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR4b0006_SBCK_007-1a"/>
+陸士衡文集卷第七<lb/>
+　　　　晉平原内史吳郡陸　機　士衡<lb/>
+　樂府　百年歌<lb/>
+　　樂府十首<lb/>
+　　　折楊栁<lb/>
+邈矣垂天景壯哉奮地雷豐隆豈乆響<graphic n="KR0990" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0990.png" mimeType="image/png"/>光但<lb/>
+西隤日落似有竟時逝恒若催仰悲朗月運坐<lb/>
+觀璇葢廻盛門無再入衰房莫苦𨳩人生固巳<lb/>
+短出處鮮爲諧慨慨惟昔人興此千載懷升龍<lb/>
+悲絕處葛藟變條枚寤寐豈虚歎曾是感與摧<lb/>
+<pb n="KR4b0006_SBCK_007-1b"/>
+弭意無足歡願言有餘哀<lb/>
+　　　鞠歌行<hi>雜言</hi>
+朝雲升應龍攀乗風遠遊騰雲端皷鐘歇豈自<lb/>
+歡急絃高張思和彈時希値年夙愆循已雖易<lb/>
+人知難王陽登貢公歡罕生旣没國子歎嗟千<lb/>
+載豈虚言邈矣遠念情愾然<lb/>
+　　　當置酒<lb/>
+置酒宴佳賔瞻眺臨飛觀絕嶺隔丈餘長嶼橫<lb/>
+江半日色花上綺風光水中亂三益旣葳蕤四<lb/>
+始方葱粲<lb/>
+<pb n="KR4b0006_SBCK_007-2a"/>
+　　　健伃怨<lb/>
+健伃去辭寵淹畱終不見寄情在玉階託意唯<lb/>
+團扇春苔暗階除秋草蕪高殿昏黃履綦絕愁<lb/>
+來空雨面<lb/>
+　　　燕歌行<lb/>
+四時代序逝不追寒風習習落葉飛蟋蟀在堂<lb/>
+露盈墀念君客遊苦恒悲君何緬然乆不歸賤<lb/>
+妾悠悠心無違白日旣没明燈輝夜禽赴林匹<lb/>
+鳴棲雙鳩關關宿河湄憂來感物涕不晞非君<lb/>
+之念思爲誰離别何早會何遲<lb/>
+<pb n="KR4b0006_SBCK_007-2b"/>
+　　　悲哉行<lb/>
+萋萋春草生王孫猶有情差池鷰始飛夭䙚桃<lb/>
+始榮灼灼桃恱色飛飛鷰弄聲檐上雲結隂澗<lb/>
+下風吹清幽樹雖改觀終始在𥘉生松蔦歡蔓<lb/>
+延樛葛欣纍縈眇然游宦子晤言來未并鼻感<lb/>
+改朔氣心傷變節榮侘傺豈徒然澶漫絕音形<lb/>
+風來不可託鳥去豈爲聽<lb/>
+　　　梁甫吟<lb/>
+玉衡固巳驂羲和若飛凌四運循環轉寒暑自<lb/>
+相承冉冉年時暮迢迢天路徵招揺東北指大<lb/>
+<pb n="KR4b0006_SBCK_007-3a"/>
+火西南昇悲風無絕響玄雲互相仍豐水憑川<lb/>
+結零露彌天凝年命特相逝慶雲鮮克乗履信<lb/>
+多愆期思順焉足憑慷慨臨川響非此孰爲興<lb/>
+哀吟梁甫顚慷慨獨撫<graphic n="KR0574" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0574.png" mimeType="image/png"/>
+　　　董桃行<lb/>
+和風習習薄林柔條布葉垂隂鳴鳩拂羽相㝷<lb/>
+倉庚喈喈弄音感時悼逝傷心日月相追周旋<lb/>
+萬里倐忽幾年人皆冉冉西迁盛時一往不還<lb/>
+慷慨乖念悽然昔爲少年無憂常恡秉燭夜遊<lb/>
+翩翩常征何求于今知此有由但爲老去年遒<lb/>
+<pb n="KR4b0006_SBCK_007-3b"/>
+盛固有衰不疑長夜冥冥無期何不驅馳及時<lb/>
+聊樂永日自怡賫此遺情何之人生居世爲安<lb/>
+豈若及時爲歡世道多故萬端憂慮紛錯交顔<lb/>
+老行及之長歎<lb/>
+　　　月重輪行<lb/>
+人生一時月重輪盛年安可侍月重輪吉凶倚<lb/>
+伏百年莫我與期臨川曷悲悼兹去不從肩月<lb/>
+重輪功名不朂之善哉古人揚聲敷聞九服身<lb/>
+名流何穆旣自才難旣嘉運亦易愆俛仰行老<lb/>
+存没將何所觀志士慷慨獨長歎獨長歎<lb/>
+<pb n="KR4b0006_SBCK_007-4a"/>
+　　　日重光行<lb/>
+日重光柰何天廻薄日重光冉冉其遊如飛征<lb/>
+日重光今我日<graphic n="KR0990" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0990.png" mimeType="image/png"/>
+                    <graphic n="KR0990" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0990.png" mimeType="image/png"/>之盛日重光倐忽過亦安<lb/>
+停日重光盛往衰亦必來日重光譬如四時固<lb/>
+恒相催日重光惟命有分可營日重光但惆悵<lb/>
+才志日重光身殁之後無遺名<lb/>
+　　　挽歌三首<lb/>
+卜擇考休貞嘉命咸在兹夙駕驚徒御結轡頓<lb/>
+重基龍㡛𬒳廣柳前驅矯輕旗殯宫何嘈嘈哀<lb/>
+響沸中闈中闈且勿讙聽我薤露詩死生各異<lb/>
+<pb n="KR4b0006_SBCK_007-4b"/>
+倫祖載當有時舎爵兩楹位啓殯進靈轜飮餞<lb/>
+觴莫舉出宿歸無期帷袵曠道影棟宇與子辭<lb/>
+周親咸犇湊友朋自逺來翼翼飛輕軒駸駸策<lb/>
+素騏按轡遵長薄送子長夜臺呼子子不聞泣<lb/>
+子子不知歎息重櫬側念我疇昔時三秋猶是<lb/>
+收萬世安可思殉没身易亡殺子非所能含言<lb/>
+言哽噎揮涕涕流離<lb/>
+流離親友思惆悵神不㤗素驂佇轜軒玄駟騖<lb/>
+飛葢哀鳴興殯宫廻遲悲野外魂輿寂無響但<lb/>
+見冠與帶備物象平生長旌誰爲斾悲風徽行<lb/>
+<pb n="KR4b0006_SBCK_007-5a"/>
+軌傾雲結流靄振䇿指靈丘駕言從此逝<lb/>
+重阜何崔嵬玄廬竄其間旁薄立四極穹隆放<lb/>
+蒼天側聽隂溝涌卧觀天井懸廣宵何寥廓大<lb/>
+暮安可晨人往有返歲我行無歸年昔居四民<lb/>
+宅今託萬鬼隣昔爲七尺軀今成灰與塵金玉<lb/>
+素所佩鴻毛今不振豐肌饗螻蟻妍姿永夷氓<lb/>
+壽堂延魑魅虚無自相賔螻蟻爾何怨魑魅我<lb/>
+何親拊心痛荼毒永歎莫爲陳<lb/>
+　　　百年歌十首<lb/>
+一十時顔如蕣<graphic n="KR0990" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0990.png" mimeType="image/png"/>
+                    <graphic n="KR0929" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0929.png" mimeType="image/png"/>有暉體如飄風行如飛孌<lb/>
+<pb n="KR4b0006_SBCK_007-5b"/>
+彼孺子相追隨終朝出遊簿暮歸六情逸豫心<lb/>
+無違清酒漿炙柰樂何清酒漿炙柰樂何<lb/>
+二十時膚體彩澤人理成美目淑貌灼有榮𬒳<lb/>
+服冠帶麗且清光車駿馬遊都城高談雅歩何<lb/>
+盈盈清酒漿炙柰樂何清酒漿炙柰樂何<lb/>
+三十時行成名立有令聞力可扛鼎志干雲食<lb/>
+如漏巵氣如熏辭家觀國綜典文高冠素帶煥<lb/>
+翩紛清酒漿炙柰樂何清酒漿炙柰樂何<lb/>
+四十時體力克壯志方剛跨州越郡還帝鄕出<lb/>
+入承明擁大璫清酒漿炙柰樂何清酒漿炙柰<lb/>
+<pb n="KR4b0006_SBCK_007-6a"/>
+樂何<lb/>
+五十時荷旄仗節鎭邦家鼓鐘嘈囋趙女歌羅<lb/>
+衣綷粲金翠<graphic n="KR0990" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0990.png" mimeType="image/png"/>言笑雅舞相經過清酒漿炙柰<lb/>
+樂何清酒漿炙柰樂何<lb/>
+六十時年亦耆艾業亦隆驂駕四牡入紫宫軒<lb/>
+冕納那翠雲中子孫昌盛家道豐清酒漿炙柰<lb/>
+樂何清酒漿炙柰樂何<lb/>
+七十時精爽頗損膂力愆清水明鏡不欲觀臨<lb/>
+樂對酒轉無歡攬形羞髮獨長歎<lb/>
+八十時明已損目聦去耳前言往行不復紀辭<lb/>
+<pb n="KR4b0006_SBCK_007-6b"/>
+官致祿歸桑梓安居駟馬入舊里樂事告終憂<lb/>
+事始<lb/>
+九十時日告耽瘁月告衰形體雖是志意非多<lb/>
+言謬誤心多悲子孫朝拜或問誰指景玩日慮<lb/>
+安危感念平生淚交揮<lb/>
+百歲時盈數巳登肌肉單四支百節還相患目<lb/>
+若濁鏡口垂涎呼吸嚬蹙反側難茵褥滋味不<lb/>
+復安<lb/>
+　　　秋胡行<lb/>
+道雖一致塗有萬端吉㐫紛藹休咎之源人鮮<lb/>
+<pb n="KR4b0006_SBCK_007-7a"/>
+知命命未易觀生亦何惜功名所歎<lb/>
+　　　順東西門行<lb/>
+日出西門望天庭陽谷旣虚崦嵫盈感朝露悲<lb/>
+人生逝者若斯安得停桑樞戒蟋蟀鳴我今不<lb/>
+樂歲聿征迨未年莫及世平置酒高堂宴友生<lb/>
+激朗笛彈哀箏取樂今日盡歡情<lb/>
+　　　上留田行<lb/>
+嗟行人之藹藹駿馬陟原風馳輕舟汎川雷邁<lb/>
+寒往暑來相㝷零雪霏霏集宇悲風徘徊入襟<lb/>
+歲<graphic n="KR0990" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0990.png" mimeType="image/png"/>冉冉方除我思纒綿未紓感時悼逝悽如<lb/>
+<pb n="KR4b0006_SBCK_007-7b"/>
+　　　隴西行<lb/>
+我靜而鏡民動如烟事以形兆應以象懸豈曰<lb/>
+無才世鮮興賢<lb/>
+　　　駕言出北闕行<lb/>
+駕言出北闕躑躅遵山陵長松何鬱鬱丘墓互<lb/>
+相承念昔徂殁子悠悠不可勝安寢重冥廬天<lb/>
+壤莫能興人生何所促忽如朝露凝辛苦百年<lb/>
+間戚戚如履氷仁知亦何𥙷迁化有明徵求仙<lb/>
+鮮克仙太虚不可凌良會罄美服對酒宴同聲<lb/>
+　　　太山吟<lb/>
+<pb n="KR4b0006_SBCK_007-8a"/>
+太山一何高迢迢造天庭峻極周巳遠曾雲鬱<lb/>
+㝠㝠梁甫亦有舘蒿里亦有亭幽塗延萬鬼神<lb/>
+房集百靈長吟太山側慷慨激楚聲<lb/>
+　　　櫂歌行<lb/>
+遲遲暮春日天氣柔且嘉元吉隆𥘉巳濯穢遊<lb/>
+黃河龍舟浮鷁首羽旗垂藻葩乗風宣飛景逍<lb/>
+遥戲中波名謳激清唱榜人縱棹歌投綸沉洪<lb/>
+川飛繳入紫霞<lb/>
+　　　東武行吟<lb/>
+投跡短世間高歩長生闈濯髮冐雲冠洗身被<lb/>
+<pb n="KR4b0006_SBCK_007-8b"/>
+羽衣飢從韓衆餐寒就佚女棲<lb/>
+　　　飮酒樂<lb/>
+蒲萄四時芳醇瑠璃千鍾舊賔夜飮舞遲銷燭<lb/>
+朝醒弦促催人<lb/>
+陸士衡文集卷第七<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

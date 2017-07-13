@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="KR3k0012_SBCK_705-1a"/>
+太平御覽卷第七百五<lb/>
+服用部<lb/>
+　　　簏<lb/>
+　　篋<lb/>
+　　　　　簏<lb/>
+說文曰簏竹髙篋也字或作箓<lb/>
+通俗文曰簏謂之匱笥<lb/>
+魏晉丗語曰武帝欲以臨淄侯植爲嗣丗子患之以車載<lb/>
+簏内詣朝歌長呉質與謀楊脩以白太祖不推丗子懼質<lb/>
+曰明後簏受絹車内以惑之脩必復白推之無人脩受罪<lb/>
+矣丗子從之脩果白推而無人太祖繇是疑焉<lb/>
+王隱晉書曰洛陽有尉部小吏忽有好物尉疑詰問云先<lb/>
+行逢一老媪說有病師卜當得城南年少暫相煩相報乃<lb/>
+<pb n="KR3k0012_SBCK_705-1b"/>
+土車内着<graphic n="KR0238" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0238.png" mimeType="image/png"/>簏中行十餘里過六七門開簏忽見樓閣好<lb/>
+屋問此何處云是天上見一婦人三十五六短青黒色眉<lb/>
+後有疪時賈后踈親聞其狀知是賈后慙而去<lb/>
+晉書云陸納性恡每自筭料財物有客入見之羞忸以身<lb/>
+映簏<lb/>
+晉中興書曰王敦害周顗籍其家止見素簏中有故絮<lb/>
+脩復山陵故事曰武悼皇后玄宫貯衣蝦蟇簏二<lb/>
+東宫舊事曰皇太子𥘉拜有<graphic n="KR0238" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0238.png" mimeType="image/png"/>馬齒書簏金裝綵花簏<lb/>
+古詩曰交文象牙簏婉轉青絲繩<lb/>
+　　　　　篋<lb/>
+左傳昭四曰叔鮒求貨於衛滛芻蕘者衛人使屠伯饋叔<lb/>
+向羮與一篋錦<lb/>
+春秋後語曰魏文侯命樂羊將攻中山三年而抜之樂羊反<lb/>
+<pb n="KR3k0012_SBCK_705-2a"/>
+而論功文侯示之謗書一篋<lb/>
+漢書曰張安丗字子孺以父任爲郎用善書給事尚書精<lb/>
+力於職上行幸河東嘗亡書三篋詔問莫能知唯安丗識<lb/>
+之具作其事後購求得書以相校無遺失<lb/>
+魏志曰胡質爲荆州刺史薨無餘財唯有賜衣書篋而巳<lb/>
+晉書曰張華身死之日家無遺財有文史溢于几篋<lb/>
+太平御覽卷第七百五<lb/>
+<pb n="KR3k0012_SBCK_705-2b"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>
