@@ -667,13 +667,8 @@ pb {
   display: inline;
   color:black;
   content: "<"attr(n)"]";
-  background-color:YellowGreen;
+  background-color: YellowGreen;
 }    
-
-pc[n="lb"]{
-    content:"\a";
-    white-space: pre;
-}
 pc[n="："]{
     content:"：";
 }
@@ -746,7 +741,10 @@ pc[n="─"]{
 pc[n="│"]{
     content:"│";
 }
-    
+pc[n="lb"]{
+    content:"\a";
+    white-space: pre;
+}   
 principal {
   display: block;
   margin-bottom: 0.5em;
