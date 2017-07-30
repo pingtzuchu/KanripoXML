@@ -9,7 +9,6 @@
  2003-11-06 list attr list-style-type was none, now disc. kl
  2007-06  reworking for TEI P5 and oxygen
  2015-02-15 中文化標點符號 祝平次
- 2017-02-04 改變中文化標點方式 祝平
 $LastChangedDate$, $LastChangedRevision$, $LastChangedBy$
 ============================================================= */
 /* Use Times New Roman for default font */
@@ -276,7 +275,6 @@ editor {
 bibl editor {
   display: inline;
 }
-    
 eg {
   font-family: monospace;
   padding-top: 3mm;
@@ -666,9 +664,21 @@ p {
 pb {
   display: inline;
   color:black;
-  content: "<"attr(n)"]";
-  background-color: YellowGreen;
 }    
+pb::before {
+    display:inline;
+    content: "\a""<"attr(n)"]""\a";
+    background-color:YellowGreen;
+}
+pc[n="　"]::before{
+    display:inline;
+    content:"　";
+}
+pc[n="lb"]::after{
+    display:inline;
+    content:"\a";
+    white-space: pre;
+}
 pc[n="："]{
     content:"：";
 }
@@ -741,10 +751,7 @@ pc[n="─"]{
 pc[n="│"]{
     content:"│";
 }
-pc[n="lb"]{
-    content:"\a";
-    white-space: pre;
-}   
+    
 principal {
   display: block;
   margin-bottom: 0.5em;
