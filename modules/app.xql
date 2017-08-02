@@ -106,18 +106,18 @@ return
     }</div>{$currentDiv/tei:byline[last()]}
     </div>
 };
-declare function app:divHeadOnTheRight($divs, $path, $titleId, $bookTitle) as node(){
+declare function app:divHeadOnTheRight($currentDiv, $path, $titleId, $bookTitle) as node(){
 let $pathList := tokenize($path, "-")
 return
         <div>
         <h4>你也可以從下面點選上一層目錄：</h4>
         <ul>{
-            for $div at $count in $divs/../tei:div
+            for $div at $count in $currentDiv/../tei:div
             return        
             <li>{
                 let $urllink :=
                     if (count($pathList) gt 2) then "index.html?mode=2&amp;titleId="||$titleId||"&amp;path="||string-join(remove($pathList, count($pathList)), "-")||"-"||$count
-                    else "index.html?mode=2&amp;titleId="||$titleId
+                    else "index.html?mode=2&amp;titleId="||$titleId||"&amp;path="||$count
                 return
                     <a> {attribute href {$urllink}} 
                     {$div/tei:head/text()}</a>}
@@ -130,31 +130,39 @@ declare function app:bookTitles(){
     let $data := doc($config:data-root||"/list.xml")/tei:TEI/tei:text/tei:body/tei:listBibl
     return
     <div>
-        <h2>目前本站所收經部文本分類如下：</h2>
+        <h2>目前本站所收文本分類如下：</h2>
         <div class="alert alert-success" id="bookList">
-            {for $lei at $count in $data/tei:listBibl
+            {for $bu at $count in $data
             return
                 <div>
-                    <button style="width:25%;" class="btn btn-info" type="button" data-toggle="collapse"> {attribute data-target {"#list"||$count}}{data($lei/tei:head)}<span class="caret"></span></button>
-                    <div class="collapse" style="column-count:3">{attribute id {"list"||$count}}
-                    <ol>
-                        {for $book in $lei/tei:bibl
+                    <button style="width:25%;" class="btn btn-info" type="button" data-toggle="collapse"> {attribute data-target {"#list"||$count}}{data($bu/tei:head)}<span class="caret"></span></button>
+                    <div class="collapse">{attribute id {"list"||$count}}
+                        <ol>
+                        {for $lei at $count2 in $bu/tei:listBibl
                         return
-                            <li>{
-                                let $titleUrl:="index.html?mode=2&amp;titleId="||data($book/@n)
-                                return
-                                    <div>
-                                        <a>{attribute href {$titleUrl}} {data($book/tei:title)}</a>：
-                                        {for $author in $book/tei:author
+                            <li>
+                                <div>
+                                    <button class="btn btn-warning" type="button" data-toggle="collapse"> {attribute data-target {"#list2-"||$count||"-"||$count2}}{data($lei/tei:head)}<span class="caret"></span></button>
+                                    <div class="collapse" style="column-count:3">{attribute id {"list2-"||$count||"-"||$count2}}
+                                        <ol>
+                                        {for $book in $lei/tei:bibl
                                         return
-                                            <span><font color="green">{data($book/tei:date)}</font>{data($author/tei:persName)}<font color="red">{$author/text()}</font>　</span>}
+                                            <li>{
+                                            let $titleUrl:="index.html?mode=2&amp;titleId="||data($book/@n)
+                                            return
+                                                <div>
+                                                    <a>{attribute href {$titleUrl}} {data($book/tei:title)}</a>：
+                                                    {for $author in $book/tei:author
+                                                    return
+                                                    <span><font color="green">{data($book/tei:date)}</font>{data($author/tei:persName)}<font color="red">{$author/text()}</font>　</span>}
+                                                </div>
+                                            }</li>
+                                        }</ol>
                                     </div>
-                                }
+                                </div>
                             </li>
-                        }
-                    </ol>
+                        }</ol>
                     </div>
-                    <p/>
                 </div>
             }
         </div>

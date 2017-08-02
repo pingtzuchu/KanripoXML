@@ -665,9 +665,14 @@ pb {
   display: inline;
   color:black;
 }    
+pb::after {
+    display:block;
+    content: "\a";
+    background-color:YellowGreen;
+}
 pb::before {
     display:inline;
-    content: "\a""<"attr(n)"]""\a";
+    content: "\a<"attr(n)"]";
     background-color:YellowGreen;
 }
 pc[n="　"]::before{
