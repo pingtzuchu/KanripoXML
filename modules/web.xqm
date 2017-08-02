@@ -7,6 +7,7 @@ declare variable $web:homepage :=
         <div class="alert alert-success">
         <p>歡迎來到Kanripo on eXist-db。本平台設計的目的，在於將Kanripo網站所提供的數位檔案，轉換為TEI/XML，以測試各種數位人文研究的可能。如果你對本站的功能有什麼建議，請隨時使用電子信件連絡本站本站聯絡人<a href="mailto:dh@ptc.cl.nthu.edu.tw">祝平次</a>。</p>
         <p>本文的數位文本，主要來自於<a href="https://www.kanripo.org/">漢リポ Kanseki Repository</a>，並因應研究計畫的需要進行資料加工。一般的資料查詢，直接使用原來漢リポ網站可能會比較方便。本平台則建置在<a href="http://exist-db.org/exist/apps/homepage/index.html">eXist-db</a>開源碼之上。</p>
+        <p>有圖片上的需求時，本站通常是連接到<a href="http://ctext.org">中國哲學書電子化計畫</a>上的書頁圖片。</p>
         </div>
     </div>;
 declare variable $web:homepageRight :=
