@@ -22,6 +22,7 @@ declare function web:webpage($leftnode as node(), $rightnode as node(), $titleID
                 <p>本網站網頁利用<a href="http://twitter.github.com/bootstrap/">Bootstrap</a>
                     CSS 資源庫來呈現。</p>
                 <p><img width="120px" height="40px" src="http://exist-db.org/exist/apps/homepage/resources/img/existdb.gif" alt="eXist-db"/><a href="http://exist-db.org/exist/apps/homepage/index.html">eXistdb</a> is Open Source Software licensed under the LGPL</p>
+                <div class="col-mn-6"><a href="http://ctext.org"><img src="http://ctext.org/logos/ctplogo2.gif" alt="Chinese Text Project" /></a></div>
                 <!--<p>您可以下載本網站所有檔案壓縮檔<a href="https://github.com/duncdrum/ConfucianClassics/releases/latest">cc-XX.xar</a>，並裝到自己設置的eXistdb平台使用。點選連結後，請按左上角下載鍵。目前更新版本2017-07-09。</p>-->
             </div>
             <div class="col-md-6">
@@ -39,11 +40,11 @@ declare function web:webpage($leftnode as node(), $rightnode as node(), $titleID
 declare function web:search-form($titleId as xs:string?){
     <form method="get" action="index.html">
         <h3>請輸入檢索詞：</h3>
-        <input name="query" class="col-md-12"/>
+        <input name="query" class="col-md-12"/><br/>
         {if ($titleId) then
-            <span><input type="hidden" name="titleId"/> {attribute value {$titleId}}</span>
+            <span><input type="hidden" name="titleId"/> {attribute value {$titleId}}<br/></span>
         else ()}
-        <input class="btn btn-primary btn-md" type="submit" value="進行檢索"/>　<a href="query.html" style="float:right;" class="btn btn-success btn-md">高級檢索</a>
+        <span><br/><input class="btn btn-primary btn-md" type="submit" value="進行檢索"/>　<a href="query.html" style="float:right;" class="btn btn-success btn-md">高級檢索</a></span>
     </form>
         };
 declare variable $web:log :=
