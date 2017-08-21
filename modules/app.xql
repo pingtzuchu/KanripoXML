@@ -74,7 +74,7 @@ let $linkList := (:相對於不同標題的連結:)
 return
     for $div at $count in $currentDiv/ancestor-or-self::tei:div
     return
-            <a>{attribute href {$linkList[$count]}}<span>{attribute style {"color:rgb(50,"||string(200-($count - 1)*20)||","||string(200-($count - 1)*30)||")"}}{if ($div/tei:head) then $div/tei:head/text() else "卷首"}</span>/</a>
+            <a>{attribute href {$linkList[$count]}}<span>{attribute style {"color:rgb(50,"||string(200-($count - 1)*20)||","||string(200-($count - 1)*30)||")"}}{if ($div/tei:head) then $div/tei:head/text() else "未設標題"}</span>/</a>
 };
 declare function app:firstDiv($titleId, $currentDiv, $bookTitle, $path) as node(){
 let $titleUrl := "index.html?mode=2&amp;titleId="||$titleId(:設定連結參數:)
@@ -95,10 +95,10 @@ return
         <li>{
             let $urllink :=
                 if ($path) then     "index.html?mode=2&amp;titleId="||$titleId||"&amp;path="||$path||"-"||$count
-                else "index.html?mode=2&amp;titleId="||$titleId||"&amp;path=1"
+                else "index.html?mode=2&amp;titleId="||$titleId||"&amp;path="||$count
             return
                 <a> {attribute href {$urllink}} 
-                {if ($div/tei:head/text()) then $div/tei:head/text() else <span>{$bookTitle||"卷首"}</span>}</a>}
+                {if ($div/tei:head/text()) then $div/tei:head/text() else <span>{$bookTitle||"未設標題"}</span>}</a>}
         </li>
         }
     </ol></div>
